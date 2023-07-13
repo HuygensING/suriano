@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.0.1pre
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-13T13:15:46Z
+@dateWritten=2023-07-13T14:57:15Z
 
-1452951	sent
+1459782	sent
 sent
 sent
 sent
@@ -170,7 +170,7 @@ sent
 sent
 sent
 sent
-1453398	original
+1460229	original
 text
 secretarial
 notes
@@ -1065,7 +1065,7 @@ secretarial
 notes
 summary
 transcription_notes
-1458693	filza
+1465524	filza
 filza
 letterno
 filza
@@ -1364,7 +1364,7 @@ filza
 letterno
 filza
 letterno
-1497329	pers
+1504160	pers
 pers
 pers
 pers

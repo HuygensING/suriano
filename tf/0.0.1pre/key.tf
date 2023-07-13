@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.0.1pre
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-13T13:15:46Z
+@dateWritten=2023-07-13T14:57:15Z
 
-1497329	gbp
+1504160	gbp
 lt
 jfw
 jfw

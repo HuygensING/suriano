@@ -67,7 +67,7 @@ Helmer Helmers
 
 ## version
 
-0.0.1pre
+0.0.1
 
 
 ## teiVersion

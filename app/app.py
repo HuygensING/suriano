@@ -25,7 +25,7 @@ class TfApp(App):
         api = app.api
         F = api.F
         Fs = api.Fs
-        material = F.ch.v(n) or ""
+        material = f'{F.str.v(n) or ""}{F.after.v(n) or ""}'
         rClses = " ".join(
             f"r_{r}" if r in KNOWN_RENDS else "r_"
             for (fr, r) in rendFeatures

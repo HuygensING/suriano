@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.0.1pre
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-13T13:15:46Z
+@dateWritten=2023-07-13T14:57:15Z
 
-1498939	Lettera
+1505770	Lettera
 uniformata
 2
 23
@@ -263,6 +263,7 @@ ad
 Heidelberg
 me
 ne
+​
 passassi
 a
 quel
@@ -489,6 +490,7 @@ al
 presente
 nella
 pendenza
+​
 del
 negotio
 di
@@ -718,6 +720,7 @@ gli
 feci
 di
 augumento
+​
 di
 salute
 mi
@@ -938,6 +941,7 @@ gratie
 di
 questa
 attestatione
+​
 di
 buona
 dispositione
@@ -1179,6 +1183,7 @@ che
 si
 dovevano
 a
+​
 questo
 Principe
 et
@@ -1401,6 +1406,7 @@ debolezza
 mia
 quel
 maggior
+​
 alimento
 che
 m
@@ -1612,6 +1618,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -2013,6 +2020,7 @@ ma
 che
 nel
 resto
+​
 ero
 per
 attender
@@ -2217,6 +2225,7 @@ di
 tutte
 le
 parti
+​
 della
 mia
 espositione
@@ -2417,6 +2426,7 @@ forze
 di
 vostra
 Serenità
+​
 quante
 genti
 haveva
@@ -2620,6 +2630,7 @@ delli
 mille
 cavalli
 che
+​
 scrissi
 alla
 Serenità
@@ -2816,6 +2827,7 @@ del
 signor
 Gio
 Ieglen
+​
 de
 Wassomobem
 di
@@ -3020,6 +3032,7 @@ a
 28
 dello
 stante
+​
 non
 sendo
 per
@@ -3192,6 +3205,7 @@ cinquecento
 di
 questi
 che
+​
 da
 mille
 de
@@ -3319,6 +3333,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -3359,6 +3375,7 @@ decodifica
 di
 c
 136r-v
+​
 Segue
 decodifica
 di
@@ -3474,6 +3491,7 @@ aoust
 1616
 140v-141r
 Bianche
+​
 Au
 serenissime
 prince
@@ -3488,6 +3506,7 @@ L
 Aia
 cc
 142r-143v
+​
 2da
 Serenissimo
 Principe
@@ -3680,6 +3699,7 @@ Christofforo
 Suriano
 142v-143r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -3912,6 +3932,7 @@ Aia
 agosto
 1616
 1
+​
 Prima
 Serenissimo
 Principe
@@ -4171,6 +4192,7 @@ Austria
 che
 tutto
 era
+​
 uno
 che
 gl
@@ -4404,6 +4426,7 @@ ha
 bisogno
 del
 loro
+​
 Questo
 signor
 ambasciatore
@@ -4661,6 +4684,7 @@ istessi
 concetti
 et
 io
+​
 corrisposi
 in
 modo
@@ -4932,6 +4956,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -5272,6 +5298,7 @@ dette
 conditioni
 il
 quale
+​
 mi
 ha
 servito
@@ -5512,6 +5539,7 @@ haveva
 fatto
 di
 venir
+​
 a
 mia
 visitatione
@@ -5728,6 +5756,7 @@ di
 generale
 di
 esse
+​
 et
 per
 li
@@ -5955,6 +5984,7 @@ il
 signor
 colonello
 ​
+​
 Ghenten
 di
 Gheldria
@@ -6163,6 +6193,7 @@ fare
 purché
 havesse
 havuto
+​
 tempo
 tuttavia
 non
@@ -6211,6 +6242,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -6253,6 +6286,7 @@ cc
 156r-159v
 150r-v
 Tagliata
+​
 Conditioni
 colle
 quali
@@ -6578,6 +6612,7 @@ infanteria
 ne
 maggior
 pericoli
+​
 3
 Sopra
 le
@@ -6897,6 +6932,7 @@ huomini
 per
 compagnia
 ​
+​
 di
 doimilla
 cento
@@ -7090,6 +7126,7 @@ impetrarli
 da
 signori
 Stati
+​
 6
 Et
 stante
@@ -7280,6 +7317,7 @@ circa
 quello
 da
 cavallo
+​
 7
 Et
 affine
@@ -7531,6 +7569,7 @@ altro
 rancontro
 fossero
 mancati
+​
 9
 Et
 come
@@ -7834,6 +7873,7 @@ dal
 medesimo
 signor
 Conte
+​
 12
 Et
 occorrendo
@@ -8066,6 +8106,7 @@ deliberatione
 di
 vostra
 Serenità
+​
 14
 Le
 quali
@@ -8262,6 +8303,7 @@ da
 partorir
 alcun
 dubio
+​
 155vB
 n
 2
@@ -8550,6 +8592,7 @@ Haya
 L
 SS
 R
+​
 Serenissimo
 Principe
 doppo
@@ -8759,6 +8802,7 @@ animo
 che
 si
 farà
+​
 al
 sicuro
 non
@@ -8991,6 +9035,7 @@ Francia
 il
 quale
 mi
+​
 diede
 conto
 della
@@ -9201,6 +9246,7 @@ gli
 è
 stato
 promesso
+​
 L
 agente
 di
@@ -9400,6 +9446,7 @@ qualche
 maniera
 in
 un
+​
 istesso
 tempo
 anco
@@ -9579,6 +9626,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 n
 52
 Allegato
@@ -9594,6 +9642,7 @@ di
 cc
 166r-167v
 165r-v
+​
 Segue
 decodifica
 di
@@ -9882,6 +9931,7 @@ interno
 eccitamento
 o
 fomento
+​
 come
 riverentemente
 scrissi
@@ -10127,6 +10177,7 @@ si
 rinova
 negl
 animi
+​
 di
 alcuni
 l
@@ -10327,6 +10378,7 @@ molti
 credono
 che
 sia
+​
 publicata
 particolarmente
 per
@@ -10535,6 +10587,7 @@ quello
 al
 suo
 Re
+​
 che
 alla
 Serenità
@@ -10744,6 +10797,7 @@ li
 doi
 altri
 per
+​
 il
 conte
 Henrico
@@ -10777,6 +10831,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -11171,6 +11227,7 @@ più
 facilmente
 di
 lui
+​
 levar
 genti
 tanto
@@ -11361,6 +11418,7 @@ l
 non
 essersi
 valsa
+​
 per
 hora
 della
@@ -11540,6 +11598,7 @@ instanza
 dal
 signor
 Barone
+​
 a
 pregarmi
 di
@@ -11722,6 +11781,7 @@ che
 vostra
 Serenità
 tenesse
+​
 pensiero
 di
 far
@@ -11886,6 +11946,7 @@ Dinguel
 andò
 toccando
 di
+​
 simili
 concetti
 Io
@@ -11929,6 +11990,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -12021,6 +12084,7 @@ L
 Aia
 cc
 180r-183v
+​
 2da
 Serenissimo
 Principe
@@ -12208,6 +12272,7 @@ bisogno
 delle
 une
 et
+​
 degl
 altri
 per
@@ -12423,6 +12488,7 @@ nell
 avvisar
 le
 cose
+​
 et
 per
 tanto
@@ -12626,6 +12692,7 @@ chi
 ne
 scrive
 avvisa
+​
 solamente
 ch
 erano
@@ -12821,6 +12888,7 @@ Serenità
 vostra
 havuto
 avviso
+​
 da
 più
 vicino
@@ -13028,6 +13096,7 @@ in
 questo
 paese
 ove
+​
 il
 prezzo
 delle
@@ -13094,6 +13163,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -13360,6 +13431,7 @@ contentato
 occorrendo
 di
 una
+​
 honesta
 portione
 per
@@ -13550,6 +13622,7 @@ a
 profitto
 de
 Spagnuoli
+​
 et
 per
 consequente
@@ -13742,6 +13815,7 @@ et
 che
 però
 si
+​
 poteva
 temere
 che
@@ -13928,6 +14002,7 @@ et
 sufficienti
 per
 disfarsi
+​
 del
 Marasciale
 ma
@@ -14101,6 +14176,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -14140,6 +14218,7 @@ cc
 187r-190v
 187r-v
 Tagliata
+​
 Scrittura
 contra
 la
@@ -14368,6 +14447,7 @@ con
 quello
 di
 Normandia
+​
 per
 non
 esporre
@@ -14604,6 +14684,7 @@ avvisato
 in
 questa
 occorrenza
+​
 della
 sua
 volontà
@@ -14838,6 +14919,7 @@ in
 opera
 havendo
 cadauno
+​
 proveduto
 alla
 propria
@@ -15101,6 +15183,8 @@ opprimerli
 con
 l
 armi
+​
+​
 Scritta
 per
 li
@@ -15122,6 +15206,7 @@ n
 57
 cc
 191r-194v
+​
 Dichiaratione
 del
 Re
@@ -15435,6 +15520,7 @@ vederli
 dileguar
 et
 consu-
+​
 marsi
 da
 se
@@ -15757,6 +15843,7 @@ San
 Martino
 del
 Campo
+​
 et
 nei
 soborghi
@@ -16095,6 +16182,7 @@ honoratissima
 dama
 et
 madre
+​
 dei
 disegni
 degl
@@ -16419,6 +16507,7 @@ fuori
 di
 suspetto
 di
+​
 voler
 fingere
 alcuna
@@ -16705,6 +16794,7 @@ li
 manigiamenti
 et
 pratiche
+​
 con
 li
 quali
@@ -16978,6 +17068,7 @@ detto
 nostro
 cugino
 non
+​
 habbamo
 inteso
 né
@@ -17257,6 +17348,7 @@ nostro
 Regno
 il
 7
+​
 Dichiaratione
 del
 Re
@@ -17272,6 +17364,7 @@ n
 57
 cc
 195r-196v
+​
 Lettera
 del
 re
@@ -17823,6 +17916,7 @@ settembre
 L
 Aia
 1
+​
 2da
 Serenissimo
 Principe
@@ -18048,6 +18142,7 @@ di
 quanto
 va
 felicemente
+​
 seguendo
 a
 servitio
@@ -18267,6 +18362,7 @@ di
 Polonia
 nelle
 quali
+​
 veniva
 eccitato
 a
@@ -18451,6 +18547,7 @@ sono
 restati
 preda
 de
+​
 Holandesi
 nei
 quali
@@ -18534,6 +18631,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -18851,6 +18950,7 @@ questo
 Principe
 tutto
 differente
+​
 da
 quello
 che
@@ -19083,6 +19183,7 @@ palazzo
 Io
 per
 così
+​
 abondante
 ​
 ufficio
@@ -19323,6 +19424,7 @@ causato
 che
 non
 ho
+​
 prima
 d
 hoggi
@@ -19560,6 +19662,7 @@ mio
 intesa
 la
 morte
+​
 dell
 eccellentissimo
 signor
@@ -19794,6 +19897,7 @@ assistenza
 di
 lui
 et
+​
 propria
 et
 necessaria
@@ -20023,6 +20127,7 @@ potuto
 far
 di
 meno
+​
 di
 non
 sodisfar
@@ -20064,6 +20169,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -20112,6 +20218,7 @@ on
 26
 June
 1616
+​
 Serenissime
 Princeps
 amice
@@ -20223,6 +20330,7 @@ chiduce
 Leopoldo
 episcopo
 Argentmensi
+​
 et
 Passaviensi
 qui
@@ -20333,6 +20441,7 @@ atque
 inclitae
 Reipublicae
 ve-
+​
 neta
 usui
 fuerit
@@ -20361,6 +20470,7 @@ Firnius
 ​
 dux
 Wittembergensis
+​
 Serenissimo
 principi
 do-
@@ -20618,6 +20728,7 @@ Heidelbergh
 luglio
 1616
 1
+​
 Havuta
 notitia
 il
@@ -20937,6 +21048,7 @@ dissero
 che
 nel
 passaggio
+​
 che
 fece
 l
@@ -21103,6 +21215,7 @@ havesse
 trattato
 coll
 eccellentissimo
+​
 signor
 ambasciator
 Gussoni
@@ -21280,6 +21393,7 @@ quello
 che
 havevo
 in
+​
 commissione
 di
 rappresentarle
@@ -21448,6 +21562,7 @@ riferirlo
 a
 sua
 Altezza
+​
 che
 in
 tanto
@@ -21623,6 +21738,7 @@ siano
 quei
 fini
 risoluti
+​
 di
 ambasceria
 o
@@ -21788,6 +21904,7 @@ Altezza
 ha
 data
 in
+​
 moglie
 la
 sorella
@@ -21950,6 +22067,7 @@ questo
 ufficio
 di
 complimento
+​
 et
 non
 mancarò
@@ -21995,6 +22113,7 @@ Christofforo
 Suriano
 85v-86r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -22451,6 +22570,7 @@ dell
 Unione
 chiamino
 ​
+​
 esso
 principe
 Augusto
@@ -22668,6 +22788,7 @@ ch
 ella
 fosse
 conosciuta
+​
 maggiore
 Io
 gli
@@ -22891,6 +23012,7 @@ prima
 s
 era
 presuposta
+​
 d
 un
 buon
@@ -23107,6 +23229,7 @@ che
 gli
 diedi
 quella
+​
 maggior
 sodisfattione
 che
@@ -23321,6 +23444,7 @@ queste
 corti
 hanno
 mostrata
+​
 prontezza
 più
 che
@@ -23454,6 +23578,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -23493,10 +23619,14 @@ tradotto
 a
 c
 94r-v
+​
 Segue
 testo
 in
 francese
+​
+​
+​
 Segue
 testo
 in
@@ -23547,6 +23677,7 @@ traduzione
 di
 c
 92r-v
+​
 Scritta
 del
 serenissimo
@@ -23756,6 +23887,7 @@ tutto
 quello
 che
 dipenderà
+​
 da
 lei
 per
@@ -23822,6 +23954,7 @@ traduzione
 di
 c
 91r-v
+​
 Risposta
 del
 signor
@@ -24346,6 +24479,7 @@ ch
 inclinatissimo
 al
 veder
+​
 che
 sua
 Serenità
@@ -24542,6 +24676,7 @@ sia
 di
 buona
 corispon-
+​
 denza
 ma
 tutto
@@ -24725,6 +24860,7 @@ intendemo
 le
 pratiche
 fanno
+​
 quelli
 della
 Lega
@@ -24887,6 +25023,7 @@ et
 con
 il
 duca
+​
 di
 Sassonia
 si
@@ -25037,6 +25174,7 @@ Christofforo
 Suriano
 102v-103r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -25228,6 +25366,7 @@ Haspach
 cc
 106r-110v
 113r-v
+​
 Serenissimo
 Principe
 era
@@ -25405,6 +25544,7 @@ guerra
 perché
 assicurati
 che
+​
 ella
 fosse
 stata
@@ -25585,6 +25725,7 @@ ricercava
 gran
 considera-
 tione
+​
 così
 dal
 canto
@@ -25759,6 +25900,7 @@ anco
 tratte
 qualche
 moto
+​
 ​
 ma
 non
@@ -25970,6 +26112,7 @@ riuscita
 la
 conservatione
 della
+​
 sua
 sanità
 quanto
@@ -26176,6 +26319,7 @@ qualche
 cosa
 di
 buono
+​
 per
 servitio
 della
@@ -26329,6 +26473,7 @@ et
 imbarazati
 et
 quanto
+​
 a
 noi
 non
@@ -26509,6 +26654,7 @@ di
 stimare
 che
 una
+​
 ambasciata
 espressa
 sarebbe
@@ -26714,6 +26860,7 @@ io
 l
 ho
 ringratiato
+​
 Non
 ho
 trovato
@@ -26816,6 +26963,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -26907,6 +27057,7 @@ di
 chiusura
 della
 lettera
+​
 ​
 In
 lettere
@@ -27006,6 +27157,7 @@ his
 et
 aliis
 negotiis
+​
 publicis
 cum
 amicis
@@ -27053,6 +27205,8 @@ Ernestus
 marchio
 Brandeburgensis
 subscripsi
+​
+​
 Serenissimo
 principi
 ac
@@ -27285,6 +27439,7 @@ luglio
 Norimberga
 cc
 116r-120v
+​
 Prima
 Serenissimo
 Principe
@@ -27504,6 +27659,7 @@ di
 Milano
 in
 tanto
+​
 numero
 ne
 danno
@@ -27666,6 +27822,7 @@ Gussoni
 Hora
 mi
 prometto
+​
 che
 li
 principi
@@ -27793,6 +27950,7 @@ ancora
 nel
 proposito
 di
+​
 ambasceria
 a
 Cesare
@@ -28009,6 +28167,7 @@ parti
 in
 questi
 contorni
+​
 si
 levano
 genti
@@ -28187,6 +28346,7 @@ questo
 havessi
 commesso
 mancamento
+​
 supplico
 humilmente
 le
@@ -28392,6 +28552,7 @@ l
 Imperatore
 la
 corona
+​
 di
 Spagna
 et
@@ -28607,6 +28768,7 @@ nell
 occorrenze
 non
 mancar
+​
 di
 sodisfare
 alla
@@ -28692,6 +28854,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -28858,6 +29022,7 @@ luglio
 Norimberga
 cc
 125r-130v
+​
 2da
 Serenissimo
 Principe
@@ -29016,6 +29181,7 @@ ritorno
 et
 esso
 Barone
+​
 mi
 disse
 che
@@ -29164,6 +29330,7 @@ fu
 mandata
 dall
 Imperatore
+​
 che
 per
 quanto
@@ -29325,6 +29492,7 @@ in
 prig-
 gione
 qualcheduno
+​
 che
 haveva
 inteso
@@ -29479,6 +29647,7 @@ cento
 cavalli
 che
 leva
+​
 il
 figliolo
 dello
@@ -29618,6 +29787,7 @@ fine
 anco
 ad
 impossessarsi
+​
 dell
 Imperio
 col
@@ -29771,6 +29941,7 @@ l
 animo
 di
 questi
+​
 principi
 a
 mirar
@@ -29926,6 +30097,7 @@ il
 signor
 principe
 di
+​
 Hahalt
 esser
 stata
@@ -30129,6 +30301,7 @@ la
 conditione
 de
 tempi
+​
 et
 del
 negotio
@@ -30286,6 +30459,7 @@ Christofforo
 Suriano
 129v-130r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -30471,6 +30645,7 @@ Brandemburgh
 con
 la
 sposa
+​
 sorella
 del
 signor
@@ -30662,6 +30837,7 @@ Et
 sopra
 le
 controversie
+​
 di
 vostra
 Serenità
@@ -30788,6 +30964,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -31094,6 +31271,7 @@ assoluto
 commando
 et
 parimente
+​
 non
 haverà
 a
@@ -31298,6 +31476,7 @@ che
 non
 habbi
 la
+​
 Republica
 a
 ribattargli
@@ -31537,6 +31716,7 @@ della
 Republica
 non
 intendendo
+​
 egli
 nella
 mostra
@@ -31786,6 +31966,7 @@ sua
 Serenità
 si
 conducessero
+​
 alla
 pace
 et
@@ -32025,6 +32206,7 @@ si
 potranno
 offerire
 le
+​
 quali
 egli
 abbraccierà
@@ -32272,6 +32454,7 @@ di
 quella
 serenissima
 Republica
+​
 Per
 essecutione
 et
@@ -32436,6 +32619,7 @@ Aia
 cc
 5r-9v
 13r-v
+​
 Prima
 Serenissimo
 Principe
@@ -32631,6 +32815,7 @@ più
 di
 complimento
 che
+​
 di
 necessaria
 instanza
@@ -32821,6 +33006,7 @@ si
 rallegrò
 de
 felici
+​
 progressi
 mostrò
 che
@@ -32995,6 +33181,7 @@ doi
 punti
 che
 sono
+​
 messi
 nel
 fine
@@ -33197,6 +33384,7 @@ con
 essa
 ad
 acquistare
+​
 è
 grandissima
 mostrando
@@ -33374,6 +33562,7 @@ affetto
 et
 desiderio
 grandissimo
+​
 di
 esserne
 assicurato
@@ -33555,6 +33744,7 @@ li
 signori
 Stati
 li
+​
 daranno
 qualche
 vasselli
@@ -33734,6 +33924,7 @@ che
 per
 nome
 suo
+​
 haverebbe
 servito
 soggetto
@@ -33932,6 +34123,7 @@ obligato
 a
 signori
 Stati
+​
 per
 general
 della
@@ -34007,6 +34199,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -34172,6 +34367,7 @@ Carta
 tagliata
 non
 numerata
+​
 Risposta
 de
 signori
@@ -34329,6 +34525,7 @@ mentre
 se
 li
 offeriscano
+​
 conditioni
 ragionevoli
 et
@@ -34481,6 +34678,7 @@ et
 esperimentati
 capi
 da
+​
 guerra
 che
 noi
@@ -34640,6 +34838,7 @@ Serenità
 haverà
 pensiero
 che
+​
 sia
 parlato
 et
@@ -34775,6 +34974,7 @@ Stati
 Generali
 Harsen
 secretario
+​
 12vB
 Risposta
 de
@@ -35167,6 +35367,7 @@ cosa
 ispedita
 che
 la
+​
 patente
 mandatagli
 da
@@ -35346,6 +35547,7 @@ del
 Tessel
 è
 impossibile
+​
 per
 questo
 et
@@ -35518,6 +35720,7 @@ questa
 regione
 che
 alle
+​
 volte
 o
 coi
@@ -35695,6 +35898,7 @@ tutto
 ciò
 mi
 ha
+​
 detto
 il
 signor
@@ -35862,6 +36066,7 @@ ricevute
 le
 lettere
 che
+​
 le
 presentai
 in
@@ -35967,6 +36172,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -36224,6 +36431,7 @@ vanta
 il
 che
 non
+​
 è
 forse
 proprio
@@ -36420,6 +36628,7 @@ signor
 conte
 Gio
 Ernesto
+​
 m
 ha
 detto
@@ -36598,6 +36807,7 @@ ha
 bisognato
 ch
 io
+​
 condescendi
 a
 concederne
@@ -36805,6 +37015,7 @@ delli
 150
 della
 compagnia
+​
 per
 quello
 della
@@ -36981,6 +37192,7 @@ per
 obli-
 garlo
 maggiormente
+​
 Farò
 a
 detti
@@ -37162,6 +37374,7 @@ universale
 con
 notabilissimo
 dispiacere
+​
 sì
 per
 la
@@ -37342,6 +37555,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -37626,6 +37840,7 @@ con
 promessa
 sempre
 di
+​
 avanzarlo
 Satio
 di
@@ -37806,6 +38021,7 @@ cose
 simili
 et
 parlava
+​
 oltre
 la
 sua
@@ -37980,6 +38196,7 @@ primo
 si
 contenterà
 haver
+​
 14
 overo
 15
@@ -38153,6 +38370,7 @@ Ancre
 l
 ha
 constretto
+​
 ad
 abandonar
 il
@@ -38257,6 +38475,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -38292,6 +38513,7 @@ n
 23
 cc
 71r-72v
+​
 In
 lettere
 ricevute
@@ -38692,6 +38914,7 @@ compagnia
 de
 doicenti
 huomini
+​
 Nel
 medesimo
 anno
@@ -39012,6 +39235,7 @@ a
 cercar
 altra
 guerra
+​
 72vB
 Scrittura
 del
@@ -39292,6 +39516,7 @@ l
 ha
 havuta
 il
+​
 capitan
 Steven
 huomo
@@ -39474,6 +39699,7 @@ Guglielmo
 Vanderput
 in
 persona
+​
 del
 signor
 Piero
@@ -39675,6 +39901,7 @@ questa
 levata
 le
 truppe
+​
 di
 questi
 paesi
@@ -39882,6 +40109,7 @@ Il
 signor
 Bernvel
 quando
+​
 fui
 a
 vederlo
@@ -40079,6 +40307,7 @@ il
 viaggio
 con
 essi
+​
 È
 stato
 scritto
@@ -40232,6 +40461,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -40271,6 +40502,7 @@ decodifica
 di
 c
 76r-v
+​
 Segue
 decodifica
 di
@@ -40519,6 +40751,7 @@ patroni
 del
 Piemonte
 et
+​
 inoltre
 delle
 voci
@@ -40659,6 +40892,7 @@ levata
 et
 mi
 licentiai
+​
 La
 sera
 poi
@@ -40791,6 +41025,7 @@ zelo
 a
 questo
 ufficio
+​
 così
 temono
 che
@@ -40919,6 +41154,7 @@ che
 vostra
 Serenità
 mi
+​
 ha
 commandato
 che
@@ -41048,6 +41284,7 @@ framessi
 nelle
 commissioni
 della
+​
 Serenità
 vostra
 et
@@ -41168,6 +41405,7 @@ Duca
 abieta
 alla
 intelligenza
+​
 de
 altri
 et
@@ -41311,6 +41549,7 @@ le
 gelosie
 comportando
 la
+​
 concordia
 et
 unione
@@ -41485,6 +41724,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -41542,6 +41783,7 @@ cc
 86r-87v
 89bis
 r-90v
+​
 Estratto
 dal
 registro
@@ -41699,6 +41941,7 @@ che
 per
 certo
 il
+​
 dissegno
 del
 Spagnolo
@@ -41801,6 +42044,7 @@ di
 che
 è
 stato
+​
 risposto
 in
 sostanza
@@ -41886,6 +42130,7 @@ il
 bene
 e
 sicurtà
+​
 della
 causa
 commune
@@ -41935,6 +42180,7 @@ Carta
 tagliata
 non
 numerata
+​
 90vB
 Nelle
 2de
@@ -42289,6 +42535,7 @@ del
 denaro
 non
 succedesse
+​
 qualche
 inconveniente
 nel
@@ -42451,6 +42698,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -42531,6 +42780,7 @@ al
 n
 33
 1
+​
 n
 33
 16
@@ -42542,6 +42792,7 @@ cc
 96r-100v
 103
 r-v
+​
 Serenissimo
 Principe
 restorono
@@ -42677,6 +42928,7 @@ gli
 effetti
 delli
 suoi
+​
 dissegni
 et
 havevano
@@ -42799,6 +43051,7 @@ Savoia
 fosse
 sostentato
 altrimenti
+​
 si
 poteva
 dubitare
@@ -42979,6 +43232,7 @@ mia
 propostione
 Nel
 generale
+​
 comprendo
 che
 questi
@@ -43120,6 +43374,7 @@ parlamenti
 la
 Frantia
 haveva
+​
 che
 fare
 per
@@ -43253,6 +43508,7 @@ non
 si
 moveranno
 per
+​
 mio
 credere
 così
@@ -43420,6 +43676,7 @@ armi
 et
 che
 un
+​
 poco
 spesa
 più
@@ -43609,6 +43866,7 @@ genti
 che
 sono
 in
+​
 ordine
 sulla
 Moza
@@ -43802,6 +44060,7 @@ voluto
 che
 passasse
 tanto
+​
 innanti
 questo
 affare
@@ -43987,6 +44246,7 @@ aggiunta
 una
 nota
 che
+​
 in
 questo
 punto
@@ -44165,6 +44425,7 @@ che
 questo
 verrebbe
 a
+​
 trovarmi
 Mi
 disse
@@ -44249,6 +44510,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -44283,6 +44545,7 @@ n
 33
 cc
 101r-102v
+​
 Calculo
 del
 costo
@@ -44494,6 +44757,7 @@ fiorini
 fiorini
 1532
 10
+​
 Importano
 le
 spese
@@ -44772,6 +45036,7 @@ cc
 112v-r
 115v-r
 ​
+​
 Prima
 Serenissimo
 Principe
@@ -44956,6 +45221,7 @@ era
 conveniente
 che
 all
+​
 aperto
 si
 dichiarassero
@@ -45153,6 +45419,7 @@ altro
 che
 da
 una
+​
 diversione
 Et
 questa
@@ -45282,6 +45549,7 @@ ch
 è
 lo
 stesso
+​
 che
 mi
 disse
@@ -45475,6 +45743,7 @@ delle
 armi
 del
 quale
+​
 per
 il
 mancamento
@@ -45661,6 +45930,7 @@ sua
 divina
 Maestà
 succederà
+​
 bene
 Il
 tempo
@@ -45846,6 +46116,7 @@ la
 ancora
 tanto
 che
+​
 gli
 farà
 bisogno
@@ -46027,6 +46298,7 @@ di
 quello
 ella
 le
+​
 comperasse
 et
 il
@@ -46182,6 +46454,7 @@ signori
 Stati
 quando
 mandano
+​
 fuori
 li
 suoi
@@ -46309,6 +46582,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -46345,6 +46621,7 @@ n
 36
 cc
 110r-111v
+​
 Si
 revelerà
 alla
@@ -46616,6 +46893,7 @@ tanto
 con
 patto
 però
+​
 che
 gli
 sudette
@@ -46867,6 +47145,7 @@ piacimento
 di
 detti
 trattanti
+​
 Et
 perché
 per
@@ -46940,6 +47219,7 @@ n
 36
 cc
 113r-114v
+​
 ​
 Le
 nave
@@ -47143,6 +47423,7 @@ o
 correnti
 fiorini
 983
+​
 Vi
 sono
 poi
@@ -47474,6 +47755,7 @@ serenissima
 Republica
 sarà
 tenuta
+​
 di
 pagare
 quello
@@ -48218,6 +48500,7 @@ assistenza
 di
 sua
 Altezza
+​
 Egli
 viene
 per
@@ -48407,6 +48690,7 @@ cavalli
 et
 anco
 un
+​
 reggimento
 d
 infanteria
@@ -48588,6 +48872,7 @@ la
 sua
 proposta
 nondimeno
+​
 non
 ha
 voluto
@@ -48776,6 +49061,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -48811,6 +49098,7 @@ n
 39
 cc
 118r-119v
+​
 In
 2de
 del
@@ -49157,6 +49445,7 @@ di
 ​
 30
 giorni
+​
 Et
 essendo
 che
@@ -49503,6 +49792,7 @@ tratenimento
 del
 Colonello
 delli
+​
 officiali
 cioè
 per
@@ -49671,6 +49961,7 @@ n
 39
 cc
 120r-121v
+​
 In
 2de
 del
@@ -49893,6 +50184,7 @@ decodifica
 di
 c
 128r-v
+​
 Segue
 decodifica
 di
@@ -50174,6 +50466,7 @@ riuscì
 colla
 presenza
 di
+​
 accomodar
 il
 tutto
@@ -50340,6 +50633,7 @@ et
 il
 Ministro
 di
+​
 di
 giustitia
 li
@@ -50524,6 +50818,7 @@ Dio
 né
 sin
 qui
+​
 è
 stato
 mai
@@ -50691,6 +50986,7 @@ et
 faranno
 far
 immediate
+​
 l
 imbarco
 per
@@ -50869,6 +51165,7 @@ non
 sa
 il
 mestiero
+​
 non
 sa
 manco
@@ -51051,6 +51348,7 @@ sta
 tuttavia
 et
 mi
+​
 ha
 detto
 il
@@ -51173,6 +51471,7 @@ prega
 instan-
 temente
 sodisfatto
+​
 et
 se
 le
@@ -51296,6 +51595,7 @@ si
 potrebbe
 metter
 più
+​
 di
 vinti
 cavalli
@@ -51461,6 +51761,7 @@ congietura
 dalla
 mia
 pronta
+​
 volontà
 non
 ho
@@ -51599,6 +51900,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -52128,6 +52431,7 @@ portate
 al
 detto
 ​
+​
 et
 al
 signor
@@ -52308,6 +52612,7 @@ novanta
 milla
 di
 questi
+​
 fiorini
 60mila
 li
@@ -52490,6 +52795,7 @@ venisse
 la
 dichiaratione
 della
+​
 munificenza
 delle
 Signorie
@@ -52667,6 +52973,7 @@ arrivato
 a
 quel
 segno
+​
 che
 possi
 intieramente
@@ -52862,6 +53169,7 @@ per
 certo
 non
 esservi
+​
 alcuno
 che
 in
@@ -53068,6 +53376,7 @@ questo
 sarà
 poco
 et
+​
 servirà
 a
 lei
@@ -53248,6 +53557,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -53735,6 +54045,7 @@ Serenità
 vostra
 offenderebbono
 queste
+​
 Provincie
 Unite
 che
@@ -53858,6 +54169,7 @@ qua
 venga
 la
 proposi-
+​
 tione
 Aggiunse
 che
@@ -53975,6 +54287,7 @@ risposta
 la
 passai
 con
+​
 quella
 generalità
 che
@@ -54120,6 +54433,7 @@ contenni
 pur
 nei
 medesimi
+​
 termini
 ​
 generali
@@ -54295,6 +54609,7 @@ Francia
 accennando
 del
 signor
+​
 Bernvel
 che
 fosse
@@ -54464,6 +54779,7 @@ ambasciatore
 alli
 principi
 elettori
+​
 et
 agl
 altri
@@ -54645,6 +54961,7 @@ non
 ricusar
 di
 riceverlo
+​
 Mi
 disse
 in
@@ -54816,6 +55133,7 @@ che
 quanto
 mi
 haveva
+​
 detto
 era
 vero
@@ -54992,6 +55310,7 @@ Zurich
 sin
 qui
 ma
+​
 che
 fin
 il
@@ -55044,6 +55363,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -55616,6 +55937,7 @@ trova
 esso
 signor
 Conte
+​
 che
 altro
 non
@@ -55809,6 +56131,7 @@ auttorità
 di
 quel
 Magistrato
+​
 mosso
 spetialmente
 da
@@ -56027,6 +56350,7 @@ ch
 è
 servitor
 del
+​
 signor
 ​
 Governatore
@@ -56197,6 +56521,7 @@ buon
 rispetto
 di
 darle
+​
 lettere
 di
 adriccio
@@ -56370,6 +56695,7 @@ ne
 haverà
 da
 Parigi
+​
 particolar
 informatione
 dalli
@@ -56585,6 +56911,7 @@ Venetia
 et
 come
 li
+​
 primi
 vintimille
 li
@@ -56798,6 +57125,7 @@ operato
 a
 far
 andar
+​
 heretici
 a
 Venetia
@@ -57007,6 +57335,7 @@ lui
 le
 attesto
 con
+​
 ogni
 sincerità
 che
@@ -57235,6 +57564,7 @@ Christofforo
 Suriano
 145v-146r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -57685,6 +58015,7 @@ di
 cc
 140v
 143r
+​
 Segue
 decodifica
 di
@@ -57829,6 +58160,7 @@ L
 Aia
 cc
 149r-150v
+​
 2da
 Serenissimo
 Principe
@@ -58035,6 +58367,7 @@ alcuna
 cosa
 del
 colonel
+​
 Tampier
 intorno
 alla
@@ -58238,6 +58571,7 @@ ben
 dalle
 maestà
 con
+​
 sodisfattione
 all
 instanza
@@ -58417,6 +58751,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -58876,6 +59211,7 @@ et
 dalla
 sola
 volontà
+​
 di
 Dio
 si
@@ -59055,6 +59391,7 @@ ch
 esso
 Vimes
 ha
+​
 travagliato
 et
 affatticato
@@ -59249,6 +59586,7 @@ Serenità
 Pensa
 di
 passar
+​
 la
 prossima
 settimana
@@ -59431,6 +59769,7 @@ nome
 di
 vostra
 Serenità
+​
 et
 ambidoi
 mostrandosi
@@ -59619,6 +59958,7 @@ parere
 della
 Serenità
 vostra
+​
 Il
 detto
 gabri
@@ -59827,6 +60167,7 @@ dubitar
 punto
 dell
 animo
+​
 del
 Re
 et
@@ -60013,6 +60354,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -60643,6 +60985,7 @@ che
 si
 è
 ridotto
+​
 questo
 negotio
 Io
@@ -60819,6 +61162,7 @@ di
 Spagna
 ha
 ben
+​
 fatto
 larga
 offerta
@@ -61131,6 +61475,7 @@ quelli
 che
 hanno
 interesse
+​
 in
 questo
 particolare
@@ -61301,6 +61646,7 @@ da
 detta
 vostra
 Maestà
+​
 felicemente
 le
 prossime
@@ -61335,6 +61681,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -61603,6 +61951,7 @@ di
 cc
 155v
 158r-v
+​
 Segue
 decodifica
 di
@@ -61620,6 +61969,7 @@ n
 cc
 160r-v
 169r-v
+​
 Copia
 di
 un
@@ -61732,6 +62082,9 @@ et
 amicus
 Iacobus
 R
+​
+​
+​
 n
 2
 Capitolo
@@ -61755,10 +62108,12 @@ tradotto
 a
 c
 162r
+​
 Segue
 testo
 in
 francese
+​
 168r-v
 n
 55
@@ -61774,6 +62129,7 @@ traduzione
 di
 c
 161r
+​
 Serenissimo
 Principe
 io
@@ -61951,6 +62307,7 @@ Jean
 Ernesto
 di
 Nassau
+​
 167r-v
 n
 56
@@ -61961,6 +62318,7 @@ n
 51
 cc
 163r-166v
+​
 In
 lettere
 de
@@ -62156,6 +62514,7 @@ a
 buon
 porto
 stanti
+​
 li
 venti
 cosi
@@ -62352,6 +62711,7 @@ quali
 per
 lungo
 tempo
+​
 sono
 state
 soggette
@@ -62544,6 +62904,7 @@ risolverà
 a
 giamai
 resituirla
+​
 Ecco
 signori
 la
@@ -62726,6 +63087,7 @@ et
 il
 rifugio
 di
+​
 tutti
 quelli
 che
@@ -63140,6 +63502,7 @@ han
 fatto
 che
 l
+​
 mancamento
 mio
 dello
@@ -63348,6 +63711,7 @@ perfetta
 corrispondenza
 che
 bramano
+​
 che
 la
 serenissima
@@ -63558,6 +63922,7 @@ due
 propositioni
 fatte
 da
+​
 monsignor
 di
 Langarach
@@ -63756,6 +64121,7 @@ anch
 essi
 in
 buon
+​
 numero
 da
 quella
@@ -63963,6 +64329,7 @@ che
 nel
 principio
 che
+​
 io
 venni
 qui
@@ -64188,6 +64555,7 @@ o
 residenza
 Io
 gli
+​
 risposi
 che
 vostra
@@ -64387,6 +64755,7 @@ non
 che
 qui
 certo
+​
 sarebbono
 concorsi
 in
@@ -64577,6 +64946,7 @@ considerasse
 che
 già
 si
+​
 si
 va
 avicinando
@@ -64710,6 +65080,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -65201,6 +65574,7 @@ Carta
 tagliata
 non
 numerata
+​
 Copia
 della
 prima
@@ -65594,6 +65968,7 @@ passare
 i
 suoi
 limiti
+​
 et
 intrar
 dietro
@@ -65923,6 +66298,7 @@ fine
 che
 la
 grandezza
+​
 et
 l
 acrescimento
@@ -66228,6 +66604,7 @@ possi
 riuscir
 di
 danno
+​
 del
 Paese
 o
@@ -66320,6 +66697,7 @@ di
 Spagna
 di
 là
+​
 178vB
 Prima
 propositione
@@ -66348,6 +66726,7 @@ Carta
 tagliata
 non
 numerata
+​
 Copia
 della
 seconda
@@ -66720,6 +67099,7 @@ pro-
 messo
 in
 parola
+​
 Credendo
 Sire
 come
@@ -67050,6 +67430,7 @@ parte
 delle
 forze
 de
+​
 Spagna
 che
 sono
@@ -67348,6 +67729,7 @@ Spagna
 ch
 egli
 medesimo
+​
 non
 ha
 li
@@ -67466,6 +67848,7 @@ li
 è
 riuscita
 cara
+​
 181vB
 2da
 propositione
@@ -67810,6 +68193,7 @@ certificati
 haver
 il
 cardinal
+​
 Gleselio
 ​
 consigliato
@@ -68004,6 +68388,7 @@ maniera
 per
 la
 sicurtà
+​
 dell
 unità
 di
@@ -68205,6 +68590,7 @@ che
 fui
 seco
 mi
+​
 diede
 conto
 d
@@ -68418,6 +68804,7 @@ qualche
 buona
 maniera
 ​
+​
 et
 ​
 con
@@ -68626,6 +69013,7 @@ suo
 nome
 gli
 hanno
+​
 levate
 le
 lettere
@@ -68830,6 +69218,7 @@ che
 l
 Eccellenze
 vostre
+​
 habbino
 a
 far
@@ -68877,6 +69266,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -69121,6 +69511,7 @@ n
 60
 cc
 186r-187v
+​
 Dichiaratione
 di
 quanto
@@ -69409,6 +69800,7 @@ a
 tre
 fiorini
 300
+​
 Balle
 de
 muschetto
@@ -69665,6 +70057,7 @@ mese
 1300
 fiorini
 ​
+​
 Per
 il
 nostro
@@ -69849,6 +70242,7 @@ Carta
 tagliata
 non
 numerata
+​
 Copia
 d
 un
@@ -70117,6 +70511,7 @@ n
 cc
 189r-v
 191r-v
+​
 Molto
 illustre
 signior
@@ -70223,6 +70618,7 @@ Maestà
 illustre
 che
 lassando
+​
 questa
 servitio
 lasso
@@ -70311,6 +70707,7 @@ Maestà
 illustre
 Tho
 Studder
+​
 191vB
 1
 Lettera
@@ -70339,6 +70736,7 @@ Carta
 tagliata
 non
 numerata
+​
 Doppo
 scrito
 m
@@ -70686,6 +71084,7 @@ Aia
 dicembre
 1616
 1
+​
 havendo
 havuto
 qui
@@ -70816,6 +71215,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -71320,6 +71721,7 @@ perché
 si
 è
 risoluto
+​
 di
 mandar
 ambasciatori
@@ -71555,6 +71957,7 @@ et
 la
 mira
 intenta
+​
 a
 quello
 che
@@ -71759,6 +72162,7 @@ o
 d
 altro
 ministro
+​
 non
 mi
 è
@@ -71968,6 +72372,7 @@ so
 a
 qual
 ​
+​
 effettivo
 soccorso
 potessero
@@ -72168,6 +72573,7 @@ passar
 a
 Rees
 et
+​
 Emerich
 non
 vi
@@ -72191,6 +72597,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -72688,6 +73096,7 @@ pensiero
 et
 quello
 che
+​
 più
 mi
 duole
@@ -72916,6 +73325,7 @@ se
 gli
 è
 fatta
+​
 buona
 per
 la
@@ -73117,6 +73527,7 @@ Pasini
 che
 mi
 dice
+​
 haver
 parlato
 coll
@@ -73324,6 +73735,7 @@ me
 operato
 in
 conformità
+​
 Vene
 qui
 li
@@ -73519,6 +73931,7 @@ sostenta
 la
 parte
 contraria
+​
 et
 sono
 mal
@@ -73713,6 +74126,7 @@ a
 signori
 Stati
 per
+​
 duicento
 et
 più
@@ -73926,6 +74340,7 @@ presti
 a
 quelli
 che
+​
 hanno
 il
 carico
@@ -73966,6 +74381,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -74401,6 +74818,7 @@ Christofforo
 Suriano
 18v-19r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -74723,6 +75141,7 @@ sua
 Maestà
 è
 pensiero
+​
 di
 evitar
 ogni
@@ -74937,6 +75356,7 @@ Veramente
 stimerei
 l
 andata
+​
 di
 quel
 signore
@@ -75161,6 +75581,7 @@ senatore
 promovesse
 il
 concetto
+​
 mentre
 veggono
 non
@@ -75368,6 +75789,7 @@ voler
 uscire
 asserendo
 chi
+​
 senza
 haver
 alcuna
@@ -75587,6 +76009,7 @@ notitia
 della
 Serenità
 vostra
+​
 per
 suo
 servitio
@@ -75703,6 +76126,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -75880,6 +76305,7 @@ n
 cc
 207r-v
 212r-v
+​
 Risposta
 delli
 signori
@@ -76113,6 +76539,7 @@ Austria
 contra
 la
 detta
+​
 serenissima
 Republica
 nel
@@ -76254,6 +76681,7 @@ mese
 di
 decembre
 1616
+​
 212vB
 2
 Risposta
@@ -76278,6 +76706,7 @@ n
 cc
 208r-v
 211r-v
+​
 Continuando
 quello
 si
@@ -76493,6 +76922,7 @@ altro
 oltre
 le
 confirmationi
+​
 sudette
 li
 quali
@@ -76604,6 +77034,7 @@ di
 essa
 serenissima
 Republica
+​
 211vB
 3
 Scrittura
@@ -76622,6 +77053,7 @@ n
 68
 cc
 209r-210v
+​
 Risposta
 delli
 signori
@@ -76906,6 +77338,7 @@ di
 Zanten
 sono
 state
+​
 usate
 stranie
 maniere
@@ -77145,6 +77578,7 @@ il
 detto
 tempo
 vogliono
+​
 retenir
 per
 lor
@@ -77651,6 +78085,7 @@ nelli
 quali
 entrano
 un
+​
 giorno
 gl
 uni
@@ -77854,6 +78289,7 @@ sotto
 la
 compagnia
 del
+​
 quale
 era
 descritto
@@ -78041,6 +78477,7 @@ Serenità
 ad
 havervi
 consideratione
+​
 Io
 diedi
 loro
@@ -78234,6 +78671,7 @@ incontro
 duro
 et
 stabile
+​
 nell
 intender
 che
@@ -78429,6 +78867,7 @@ vostra
 Serenità
 ha
 regolata
+​
 nell
 offerta
 del
@@ -78617,6 +79056,7 @@ fine
 di
 esser
 risoluto
+​
 Mi
 è
 venuto
@@ -78794,6 +79234,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -79310,6 +79751,7 @@ in
 esso
 per
 salvarsi
+​
 dalla
 tempesta
 del
@@ -79529,6 +79971,7 @@ farne
 altro
 et
 avanzandosi
+​
 la
 stagione
 et
@@ -79756,6 +80199,7 @@ frutto
 Il
 signor
 Conte
+​
 haverebbe
 sommo
 contento
@@ -79967,6 +80411,7 @@ uno
 di
 questi
 giorni
+​
 mi
 fu
 detto
@@ -80061,6 +80506,7 @@ Christofforo
 Suriano
 220v-221r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -80364,6 +80810,7 @@ et
 il
 signor
 Bernvel
+​
 in
 particolare
 mercordì
@@ -80589,6 +81036,7 @@ rimover
 con
 gl
 avvisi
+​
 che
 ricevo
 dalla
@@ -80805,6 +81253,7 @@ hora
 è
 in
 Inghilterra
+​
 ambidoi
 di
 valore
@@ -81050,6 +81499,7 @@ dato
 al
 padre
 la
+​
 metà
 del
 denaro
@@ -81249,6 +81699,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -81285,6 +81738,7 @@ n
 cc
 225r-v
 228r-v
+​
 Offerta
 del
 signor
@@ -81513,6 +81967,7 @@ et
 doppo
 esser
 imbarcato
+​
 che
 io
 ​
@@ -81744,6 +82199,7 @@ genaro
 1617
 Samuell
 Heales
+​
 228vB
 Offerta
 del
@@ -81764,6 +82220,7 @@ n
 74
 cc
 226r-227v
+​
 Offerta
 del
 baron
@@ -82041,6 +82498,7 @@ gl
 altri
 colonelli
 straneiri
+​
 Domanda
 per
 l
@@ -82258,6 +82716,7 @@ tutti
 et
 contra
 tutti
+​
 227vB
 Offerta
 del
@@ -82700,6 +83159,7 @@ doveva
 servir
 almeno
 di
+​
 consolatione
 il
 non
@@ -82927,6 +83387,7 @@ di
 quanto
 mi
 commette
+​
 nelle
 sue
 de
@@ -83120,6 +83581,7 @@ sua
 Eccellenza
 di
 quanto
+​
 vostra
 Serenità
 mi
@@ -83327,6 +83789,7 @@ che
 li
 signori
 principi
+​
 dell
 Unione
 hanno
@@ -83525,6 +83988,7 @@ Christofforo
 Suriano
 232v-233r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -83844,6 +84308,7 @@ volte
 ho
 fatto
 in
+​
 essecutione
 de
 commandamenti
@@ -84027,6 +84492,7 @@ l
 ambasciator
 di
 Spagna
+​
 residente
 ​
 in
@@ -84237,6 +84703,7 @@ tutto
 sicuro
 che
 don
+​
 Luigi
 di
 Valasco
@@ -84429,6 +84896,7 @@ in
 estremo
 l
 atto
+​
 ma
 ​
 temendo
@@ -84632,6 +85100,7 @@ trovarvi
 il
 rimedio
 perché
+​
 sono
 molte
 delle
@@ -84699,6 +85168,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -84834,6 +85305,7 @@ Aia
 gennaio
 1617
 1
+​
 3a
 Serenissimo
 Principe
@@ -85050,6 +85522,7 @@ Serenità
 vostra
 La
 presenza
+​
 del
 soggetto
 è
@@ -85267,6 +85740,7 @@ imbarcati
 compresi
 ottocento
 levati
+​
 colla
 commissione
 del
@@ -85454,6 +85928,7 @@ il
 che
 con
 buona
+​
 maniera
 ho
 dato
@@ -85547,6 +86022,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -85585,6 +86062,7 @@ n
 79
 cc
 240r-241v
+​
 In
 lettere
 di
@@ -85814,6 +86292,7 @@ alli
 eccellentissimi
 signori
 proveditori
+​
 generali
 et
 ogni
@@ -85960,6 +86439,7 @@ licenza
 et
 la
 levata
+​
 Questo
 cavalier
 è
@@ -86191,6 +86671,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -86238,6 +86721,8 @@ Segue
 testo
 in
 francese
+​
+​
 Au
 serenissime
 Duc
@@ -86260,6 +86745,7 @@ traduzione
 di
 c
 244r-v
+​
 Serenissimo
 Prencipe
 essendo
@@ -86449,6 +86935,7 @@ dì
 23
 decembre
 1616
+​
 254r-v
 n
 84
@@ -86464,10 +86951,14 @@ tradotto
 a
 c
 248r
+​
 Segue
 testo
 in
 francese
+​
+​
+​
 Monseigneur
 Monseigneur
 le
@@ -86494,6 +86985,8 @@ Segue
 testo
 in
 francese
+​
+​
 Au
 serenissime
 Duc
@@ -86519,6 +87012,7 @@ traduzione
 di
 c
 246r
+​
 Signor
 mio
 il
@@ -86652,6 +87146,7 @@ sottoscritto
 Mauritio
 di
 Nassau
+​
 251r-v
 n
 87
@@ -86666,6 +87161,7 @@ traduzione
 di
 c
 247r-v
+​
 Serenissimo
 Principe
 essendo
@@ -87330,6 +87826,7 @@ di
 Tessel
 Il
 gran
+​
 desiderio
 che
 hanno
@@ -87553,6 +88050,7 @@ mie
 per
 vostra
 Serenità
+​
 Hebbero
 ultimamente
 avviso
@@ -87790,6 +88288,7 @@ Pasino
 arrivato
 sino
 a
+​
 quel
 segno
 che
@@ -88011,6 +88510,7 @@ per
 l
 arciduca
 Ferdinando
+​
 Intanto
 io
 le
@@ -88235,6 +88735,7 @@ che
 l
 passo
 de
+​
 Grisoni
 fosse
 aperto
@@ -88472,6 +88973,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -88506,6 +89009,7 @@ n
 88
 cc
 260r-261v
+​
 In
 lettere
 prime
@@ -89049,6 +89553,7 @@ sostentar
 che
 le
 operationi
+​
 dell
 huomo
 vengono
@@ -89259,6 +89764,7 @@ Heidelbergh
 de
 Svizzeri
 et
+​
 altre
 della
 religione
@@ -89489,6 +89995,7 @@ al
 re
 d
 Inghilterra
+​
 et
 lo
 cavo
@@ -89598,6 +90105,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -89831,6 +90340,7 @@ dato
 conto
 della
 ricevuta
+​
 Scrissi
 a
 quel
@@ -90039,6 +90549,7 @@ causa
 di
 questo
 abboccamento
+​
 L
 occasione
 della
@@ -90291,6 +90802,7 @@ in
 questo
 proposito
 et
+​
 qualche
 dì
 doppo
@@ -90519,6 +91031,7 @@ Dominio
 Non
 ho
 potuto
+​
 farlo
 uscir
 ad
@@ -90669,6 +91182,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -90707,6 +91223,7 @@ n
 cc
 23r-v
 26r-v
+​
 Alli
 signori
 deputati
@@ -90853,6 +91370,8 @@ a
 primo
 ottobre
 1616
+​
+​
 26vB
 Lettera
 de
@@ -90873,6 +91392,7 @@ n
 6
 cc
 24r-25v
+​
 1
 Goffredo
 Boot
@@ -91139,6 +91659,7 @@ senza
 pregiudicio
 d
 alcuna
+​
 persona
 di
 qual
@@ -91407,6 +91928,7 @@ leal
 servitor
 Goffredo
 Boot
+​
 25vB
 Memoriale
 di
@@ -91878,6 +92400,7 @@ in
 conformità
 di
 quanto
+​
 ella
 me
 commette
@@ -92126,6 +92649,7 @@ acciò
 ​
 che
 questa
+​
 provisione
 servì
 in
@@ -92352,6 +92876,7 @@ li
 sostentano
 ma
 quelli
+​
 che
 sono
 del
@@ -92579,6 +93104,7 @@ et
 mi
 disse
 che
+​
 haveva
 ultimamente
 ricevute
@@ -92804,6 +93330,7 @@ poco
 dispiacere
 per
 li
+​
 disturbi
 che
 par
@@ -93016,6 +93543,7 @@ dalla
 Francia
 come
 se
+​
 tiene
 esserlo
 appunto
@@ -93142,6 +93670,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 prinicipe
@@ -93453,6 +93982,7 @@ chi
 è
 mal
 affetto
+​
 Monsignor
 di
 Langarach
@@ -93653,6 +94183,7 @@ suo
 Re
 è
 disposta
+​
 dal
 canto
 suo
@@ -93861,6 +94392,7 @@ per
 procurar
 così
 di
+​
 alienarla
 affatto
 dall
@@ -94064,6 +94596,7 @@ havesse
 data
 alcuna
 cosa
+​
 in
 scrittura
 come
@@ -94248,6 +94781,7 @@ Christofforo
 Suriano
 272v-273r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -94558,6 +95092,7 @@ vostra
 l
 haverà
 inteso
+​
 per
 altra
 via
@@ -94584,6 +95119,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -94869,6 +95406,7 @@ passata
 verso
 il
 Tessel
+​
 per
 la
 liquidatione
@@ -95081,6 +95619,7 @@ nel
 passar
 a
 Venetia
+​
 possi
 succeder
 qualche
@@ -95306,6 +95845,7 @@ piedi
 nel
 qual
 caso
+​
 doverà
 egli
 levar
@@ -95423,6 +95963,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -95602,6 +96144,7 @@ n
 94
 cc
 278r-279v
+​
 Serenissimo
 Principe
 havendo
@@ -95794,6 +96337,7 @@ pregrarla
 ​
 et
 raccommandarle
+​
 affettuosissimamente
 che
 ella
@@ -95963,6 +96507,7 @@ et
 republica
 di
 Venetia
+​
 279vB
 Nella
 prima
@@ -96280,6 +96825,7 @@ per
 trattar
 seco
 intorno
+​
 alla
 levata
 et
@@ -96496,6 +97042,7 @@ di
 dove
 scrive
 lettere
+​
 Deve
 arrivar
 qui
@@ -96705,6 +97252,7 @@ ha
 detto
 che
 monsignor
+​
 della
 Rosciafocò
 che
@@ -96920,6 +97468,7 @@ buoni
 amici
 accennando
 Spagnuoli
+​
 che
 il
 signor
@@ -97137,6 +97686,7 @@ et
 l
 opportunità
 lo
+​
 permettesse
 et
 gl
@@ -97248,6 +97798,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -97829,6 +98381,7 @@ partite
 queste
 genti
 tanto
+​
 patisce
 l
 animo
@@ -98035,6 +98588,7 @@ che
 non
 siano
 uscite
+​
 ma
 in
 ogni
@@ -98244,6 +98798,7 @@ della
 levata
 delli
 mille
+​
 fanti
 et
 m
@@ -98450,6 +99005,7 @@ che
 nondimeno
 mostrano
 il
+​
 signor
 Conte
 et
@@ -98650,6 +99206,7 @@ ella
 per
 tanto
 ​
+​
 stimerà
 il
 suo
@@ -98743,6 +99300,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -99347,6 +99906,7 @@ tempo
 non
 gli
 haverà
+​
 impedito
 il
 passar
@@ -99547,6 +100107,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -99983,6 +100545,7 @@ altro
 canto
 haveva
 dato
+​
 ordine
 in
 Grisoni
@@ -100186,6 +100749,7 @@ al
 partito
 de
 principi
+​
 Non
 ha
 voluto
@@ -100394,6 +100958,7 @@ effetto
 et
 che
 speravo
+​
 dovesse
 succeder
 anco
@@ -100599,6 +101164,7 @@ li
 figli
 si
 tiene
+​
 nondimeno
 che
 poco
@@ -100807,6 +101373,7 @@ nell
 occasione
 della
 guerra
+​
 contra
 il
 Turco
@@ -100827,6 +101394,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -101093,6 +101662,7 @@ Christofforo
 Suriano
 295v-296r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -101458,6 +102028,7 @@ forze
 verso
 la
 Germania
+​
 per
 far
 cader
@@ -101671,6 +102242,7 @@ intenderà
 dall
 altre
 mie
+​
 Avvisa
 il
 capitano
@@ -101876,6 +102448,7 @@ d
 indurli
 al
 non
+​
 tornar
 ​
 più
@@ -102083,6 +102656,7 @@ carpo
 ​
 per
 cinque
+​
 o
 sei
 giorni
@@ -102214,6 +102788,7 @@ Christofforo
 Suriano
 299v-330r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -102560,6 +103135,7 @@ Per
 li
 Fiaminghi
 ​
+​
 questi
 signori
 si
@@ -102767,6 +103343,7 @@ che
 si
 siano
 hieri
+​
 veduti
 insieme
 Per
@@ -102982,6 +103559,7 @@ questa
 settimana
 ne
 devono
+​
 esborsare
 a
 marinari
@@ -103206,6 +103784,7 @@ tempo
 che
 si
 haverebbe
+​
 ben
 procurato
 di
@@ -103411,6 +103990,7 @@ Brusseles
 una
 sua
 lettera
+​
 nella
 quale
 mi
@@ -103604,6 +104184,7 @@ me
 interromper
 il
 capitulato
+​
 da
 lui
 con
@@ -103815,6 +104396,7 @@ lettere
 che
 sua
 Altezza
+​
 scrisse
 a
 nome
@@ -104006,6 +104588,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -104431,6 +105015,7 @@ et
 quei
 mercanti
 che
+​
 facevano
 le
 spese
@@ -104633,6 +105218,7 @@ uno
 de
 deputati
 di
+​
 Zelanda
 col
 quale
@@ -104833,6 +105419,7 @@ che
 in
 ciò
 non
+​
 doveva
 egli
 mettersi
@@ -105023,6 +105610,7 @@ per
 quanto
 ho
 penetrato
+​
 ne
 ​
 farà
@@ -105222,6 +105810,7 @@ parlasse
 più
 per
 abondanza
+​
 del
 suo
 affetto
@@ -105425,6 +106014,7 @@ ad
 hora
 il
 fratello
+​
 di
 esso
 Wassonhoven
@@ -105631,6 +106221,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -105865,6 +106456,7 @@ n
 102
 cc
 304r-305v
+​
 Lettera
 de
 signori
@@ -106442,6 +107034,7 @@ et
 potrà
 apportar
 qualche
+​
 pericolosa
 malatia
 tra
@@ -106665,6 +107258,7 @@ massime
 che
 la
 notte
+​
 passata
 è
 stato
@@ -106901,6 +107495,7 @@ più
 che
 fosse
 stato
+​
 stimato
 possibile
 et
@@ -107123,6 +107718,7 @@ che
 desideravo
 ​
 et
+​
 di
 che
 si
@@ -107358,6 +107954,7 @@ breve
 et
 facile
 per
+​
 l
 imbarco
 quando
@@ -107588,6 +108185,7 @@ esso
 Wassonhoven
 È
 venuto
+​
 questa
 mattina
 a
@@ -107645,6 +108243,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -108131,6 +108730,7 @@ maestà
 della
 Gran
 Bertagna
+​
 ricerca
 al
 presente
@@ -108362,6 +108962,7 @@ l
 principe
 di
 Brandemburgh
+​
 se
 non
 ha
@@ -108596,6 +109197,7 @@ all
 assistenza
 del
 Re
+​
 contra
 li
 principi
@@ -108696,6 +109298,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -108913,6 +109517,7 @@ n
 105
 cc
 313r-318v
+​
 Signori
 io
 sono
@@ -109242,6 +109847,7 @@ privilegii
 che
 loro
 haveva
+​
 accordato
 richiamato
 il
@@ -109533,6 +110139,7 @@ pace
 che
 gli
 fu
+​
 imantinente
 con
 gran
@@ -109785,6 +110392,7 @@ la
 sicurtà
 promesali
 restorono
+​
 contenti
 col
 mezo
@@ -110027,6 +110635,7 @@ alle
 spese
 del
 publico
+​
 Questi
 sono
 quelli
@@ -110252,6 +110861,7 @@ imaginarsi
 che
 li
 Francesi
+​
 entrino
 in
 divisione
@@ -110493,6 +111103,7 @@ più
 strettamente
 all
 Inghilterra
+​
 col
 mezzo
 d
@@ -110718,6 +111329,7 @@ nel
 che
 si
 spese
+​
 quasi
 ​
 tutto
@@ -110946,6 +111558,7 @@ doi
 millioni
 di
 lire
+​
 Monsignor
 di
 Vandomo
@@ -111181,6 +111794,7 @@ ve
 ne
 è
 quantità
+​
 che
 se
 ne
@@ -111430,6 +112044,7 @@ da
 lui
 nel
 che
+​
 se
 voi
 vedeste
@@ -111887,6 +112502,7 @@ Partì
 il
 signor
 Conte
+​
 martedì
 con
 il
@@ -112084,6 +112700,7 @@ et
 se
 fossero
 partite
+​
 prima
 le
 genti
@@ -112273,6 +112890,7 @@ suo
 nome
 et
 però
+​
 desiderava
 da
 me
@@ -112474,6 +113092,7 @@ buono
 per
 la
 sortita
+​
 Dio
 benedetto
 mi
@@ -112666,6 +113285,7 @@ questo
 perché
 sarebbono
 corsi
+​
 in
 consequenza
 anco
@@ -112871,6 +113491,7 @@ fatte
 hoggi
 lettere
 di
+​
 cambio
 da
 esser
@@ -112928,6 +113549,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -113372,6 +113994,7 @@ et
 mille
 cavalli
 tutta
+​
 di
 gente
 del
@@ -113572,6 +114195,7 @@ anziché
 seguano
 ogni
 giorno
+​
 tra
 l
 uno
@@ -113760,6 +114384,7 @@ haveranno
 l
 ardire
 che
+​
 potrebbono
 prender
 quando
@@ -113948,6 +114573,7 @@ Levestein
 et
 io
 sto
+​
 attendendo
 l
 essito
@@ -114126,6 +114752,7 @@ li
 più
 forti
 di
+​
 un
 opinione
 lasciar
@@ -114312,6 +114939,7 @@ insulto
 ad
 alcuni
 gomoristi
+​
 essendo
 quelli
 habitanti
@@ -114499,6 +115127,7 @@ nella
 scrittura
 Ha
 nondimeno
+​
 preso
 tempo
 a
@@ -114560,6 +115189,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -114915,6 +115546,7 @@ Christofforo
 Suriano
 329v-330r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -115217,6 +115849,7 @@ aspetta
 appresso
 dimanda
 ​
+​
 più
 lunga
 di
@@ -115433,6 +116066,7 @@ quelli
 che
 tal
 hor
+​
 sogliono
 venere
 nel
@@ -115643,6 +116277,7 @@ di
 genti
 da
 piedi
+​
 egli
 si
 offeriva
@@ -115827,6 +116462,7 @@ per
 dar
 poi
 quei
+​
 ordini
 che
 stimerà
@@ -115917,6 +116553,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -115956,6 +116595,7 @@ n
 cc
 36r-v
 41r-v
+​
 Offerta
 del
 signor
@@ -116243,6 +116883,7 @@ intendendosi
 a
 mese
 corrente
+​
 Al
 forrier
 maggiore
@@ -116324,6 +116965,7 @@ dal
 giorno
 della
 rasegna
+​
 41vB
 2
 Offerta
@@ -116347,6 +116989,7 @@ n
 cc
 37r-v
 40r-v
+​
 Il
 signor
 conte
@@ -116713,6 +117356,8 @@ dal
 giorno
 della
 rasegna
+​
+​
 40vB
 Offerta
 del
@@ -117071,6 +117716,7 @@ il
 Paese
 porti
 fede
+​
 et
 assicuranza
 di
@@ -117262,6 +117908,7 @@ arciducali
 né
 la
 possono
+​
 patire
 et
 quanto
@@ -117438,6 +118085,7 @@ navi
 che
 noleggiate
 ​
+​
 al
 signor
 Conte
@@ -117595,6 +118243,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -117631,6 +118281,7 @@ n
 14
 cc
 45r-46v
+​
 Non
 havendo
 il
@@ -117915,6 +118566,7 @@ n
 14
 cc
 47r-48v
+​
 Memoria
 data
 d
@@ -118336,6 +118988,7 @@ molte
 lettere
 d
 Alemagna
+​
 de
 signori
 principali
@@ -118521,6 +119174,7 @@ la
 prohibitione
 de
 serenissimi
+​
 arciduchi
 che
 alcuno
@@ -118704,6 +119358,7 @@ deve
 esser
 molto
 ben
+​
 noto
 all
 Eccellenze
@@ -118884,6 +119539,7 @@ et
 meno
 voler
 impedirmi
+​
 in
 quello
 di
@@ -119060,6 +119716,7 @@ da
 sé
 solo
 operasse
+​
 Partì
 venerdì
 passato
@@ -119221,6 +119878,7 @@ et
 dar
 la
 paga
+​
 di
 un
 mese
@@ -119410,6 +120068,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -119448,6 +120107,7 @@ decodifica
 di
 c
 54v
+​
 Segue
 decodifica
 di
@@ -119725,6 +120385,7 @@ al
 certo
 sarà
 uno
+​
 del
 mese
 di
@@ -119917,6 +120578,7 @@ giorno
 si
 vano
 fortificando
+​
 particolarmente
 nelle
 piazze
@@ -120116,6 +120778,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -120190,6 +120853,7 @@ Aia
 marzo
 1617
 1
+​
 intenderà
 la
 Serenità
@@ -120383,6 +121047,7 @@ quella
 che
 si
 haverebbe
+​
 potuto
 presuponer
 il
@@ -120597,6 +121262,7 @@ principi
 et
 l
 impressione
+​
 in
 questo
 particolare
@@ -120806,6 +121472,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -120905,6 +121573,7 @@ n
 1
 cc
 3r-4v
+​
 Monsieur
 io
 sono
@@ -121137,6 +121806,7 @@ corso
 fortuna
 di
 perdersi
+​
 con
 tutto
 quello
@@ -121325,6 +121995,7 @@ patrone
 de
 vasselli
 con
+​
 viveri
 et
 acque
@@ -121856,6 +122527,7 @@ avidi
 n
 è
 restato
+​
 poco
 sodisfatto
 Io
@@ -122042,6 +122714,7 @@ ella
 ancora
 habbi
 inteso
+​
 lo
 stesso
 tuttavia
@@ -122217,6 +122890,7 @@ accidente
 potrebbe
 dar
 ardire
+​
 a
 Spagnuoli
 di
@@ -122401,6 +123075,7 @@ sei
 capitani
 eletti
 vorrebbono
+​
 pur
 poter
 haver
@@ -122576,6 +123251,7 @@ l
 instanza
 che
 hanno
+​
 portata
 innanti
 rispetto
@@ -122790,6 +123466,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -123128,6 +123806,7 @@ Pasini
 et
 mi
 valerò
+​
 del
 mezo
 di
@@ -123325,6 +124004,7 @@ me
 espressamente
 per
 significarmi
+​
 che
 volontieri
 si
@@ -123531,6 +124211,7 @@ congiunture
 presenti
 qualche
 servitio
+​
 alla
 Serenità
 vostra
@@ -123575,6 +124256,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -123855,6 +124538,7 @@ Massimiliano
 et
 Ferdinando
 devono
+​
 al
 presente
 esser
@@ -124054,6 +124738,7 @@ affettionato
 che
 niente
 più
+​
 ella
 per
 tanto
@@ -124087,6 +124772,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -124307,6 +124993,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -124338,6 +125027,7 @@ n
 23
 cc
 66r-67v
+​
 Copia
 Illustre
 signor
@@ -124562,6 +125252,7 @@ alla
 scoperta
 del
 negotio
+​
 mi
 possa
 o
@@ -124765,6 +125456,7 @@ importanza
 alla
 serenissima
 Republica
+​
 che
 vostre
 Signorie
@@ -125070,6 +125762,7 @@ il
 vassello
 da
 Amsterdam
+​
 ma
 non
 del
@@ -125274,6 +125967,7 @@ per
 ogni
 buon
 rispetto
+​
 Tornato
 all
 Haya
@@ -125464,6 +126158,7 @@ Savoia
 il
 quale
 ancorché
+​
 havesse
 animo
 corraggioso
@@ -125649,6 +126344,7 @@ interessi
 mentre
 si
 vede
+​
 lo
 Spagnuolo
 tanto
@@ -125832,6 +126528,7 @@ haverebbono
 havuta
 quella
 consideratione
+​
 che
 meritava
 l
@@ -126037,6 +126734,7 @@ anco
 per
 la
 parte
+​
 mare
 si
 ​
@@ -126227,6 +126925,7 @@ punto
 Io
 dissi
 che
+​
 non
 si
 poteva
@@ -126324,6 +127023,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -126354,6 +127055,7 @@ n
 25
 cc
 73r-74v
+​
 Monsignor
 doppo
 l
@@ -126587,6 +127289,7 @@ pena
 ch
 io
 ho
+​
 presa
 per
 farla
@@ -126796,6 +127499,7 @@ delle
 quale
 non
 ​
+​
 ardisco
 rompervi
 il
@@ -126959,6 +127663,7 @@ n
 25
 cc
 75r-76v
+​
 Je
 subsigné
 confesse
@@ -127050,6 +127755,7 @@ n
 25
 c
 77r-v
+​
 Je
 soubsigné
 confesse
@@ -127446,6 +128152,7 @@ vorrebbero
 ch
 ella
 ne
+​
 ne
 prendesse
 anco
@@ -127637,6 +128344,7 @@ giorni
 aspettandosi
 il
 ritorno
+​
 delli
 deputati
 della
@@ -127830,6 +128538,7 @@ et
 entrando
 in
 Francia
+​
 non
 potrà
 se
@@ -128027,6 +128736,7 @@ presto
 me
 lo
 scriverà
+​
 et
 farà
 poi
@@ -128120,6 +128830,7 @@ Christofforo
 Suriano
 83v-84r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -128154,6 +128865,7 @@ n
 29
 cc
 81r-82v
+​
 In
 lettere
 dell
@@ -128461,6 +129173,7 @@ de
 suoi
 sudditi
 disse
+​
 che
 vi
 concorreva
@@ -128681,6 +129394,7 @@ Gio
 Ernesto
 Io
 lo
+​
 ascoltai
 né
 ricercando
@@ -128905,6 +129619,7 @@ qui
 per
 stabilir
 a
+​
 nome
 del
 lantgravio
@@ -129123,6 +129838,7 @@ nuove
 che
 l
 armata
+​
 di
 Spagna
 era
@@ -129238,6 +129954,7 @@ Christofforo
 Suriano
 87v-88r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -129484,6 +130201,7 @@ molto
 bene
 a
 far
+​
 del
 danno
 a
@@ -129623,6 +130341,7 @@ a
 questi
 paesi
 si
+​
 voleva
 levar
 il
@@ -129767,6 +130486,7 @@ principi
 dell
 Unione
 che
+​
 forse
 hora
 sono
@@ -129920,6 +130640,7 @@ subdiviso
 et
 essi
 attender
+​
 non
 ad
 altro
@@ -130071,6 +130792,7 @@ assemblea
 de
 principi
 dell
+​
 dell
 Unione
 come
@@ -130097,6 +130819,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -130312,6 +131036,7 @@ ambasciatori
 è
 stato
 proposto
+​
 Questi
 signori
 stano
@@ -130446,6 +131171,7 @@ Non
 negano
 disse
 di
+​
 doverlo
 fare
 ma
@@ -130589,6 +131315,7 @@ per
 passar
 poi
 dentro
+​
 fino
 a
 Coblens
@@ -130745,6 +131472,7 @@ disse
 a
 questo
 proposito
+​
 che
 non
 credeva
@@ -130880,6 +131608,7 @@ attendeva
 senza
 dubio
 quella
+​
 di
 vostra
 Serenità
@@ -131032,6 +131761,7 @@ che
 fino
 hoggi
 otto
+​
 da
 Amsterdam
 erano
@@ -131166,6 +131896,7 @@ medesimi
 et
 uno
 de
+​
 sergenti
 di
 esso
@@ -131276,6 +132007,8 @@ Cara
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -131307,6 +132040,7 @@ n
 33
 cc
 97r-98v
+​
 In
 lettera
 del
@@ -131621,6 +132355,7 @@ di
 Venetia
 essendo
 questo
+​
 uno
 de
 ​
@@ -131899,6 +132634,7 @@ a
 3
 aprile
 1617
+​
 98vB
 Lettera
 del
@@ -132202,6 +132938,7 @@ et
 alla
 commissione
 data
+​
 ma
 il
 Lantgravio
@@ -132391,6 +133128,7 @@ temeva
 che
 non
 apportasse
+​
 gelosia
 al
 conte
@@ -132589,6 +133327,7 @@ fratello
 ha
 con
 questi
+​
 Stati
 non
 era
@@ -132780,6 +133519,7 @@ prendesse
 un
 minimo
 sospetto
+​
 di
 lui
 che
@@ -132952,6 +133692,7 @@ Christofforo
 Suriano
 102v-103r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -133248,6 +133989,7 @@ vostra
 che
 si
 sarà
+​
 messo
 in
 camino
@@ -133428,6 +134170,7 @@ si
 trattiene
 del
 Catholico
+​
 ma
 li
 patroni
@@ -133624,6 +134367,7 @@ ho
 la
 particolar
 instruttione
+​
 parlerò
 in
 conformità
@@ -133798,6 +134542,7 @@ convenisse
 anco
 snervarlo
 di
+​
 altrettanti
 per
 Francia
@@ -133987,6 +134732,7 @@ per
 servitio
 del
 Christianissimo
+​
 ma
 si
 crede
@@ -134170,6 +134916,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -134453,6 +135201,7 @@ anco
 accidente
 altrettanto
 felice
+​
 per
 li
 vasselli
@@ -134623,6 +135372,7 @@ navi
 di
 questi
 paesi
+​
 meno
 di
 tal
@@ -134787,6 +135537,7 @@ di
 quella
 serenissima
 Republica
+​
 Et
 del
 conte
@@ -134968,6 +135719,7 @@ dell
 obligo
 Il
 fratello
+​
 conte
 Gioanni
 fu
@@ -135095,6 +135847,7 @@ Christofforo
 Suriano
 106v-107r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -135357,6 +136110,7 @@ Francia
 con
 quelle
 della
+​
 Spagna
 ma
 che
@@ -135525,6 +136279,7 @@ là
 stato
 tenuto
 per
+​
 vero
 che
 l
@@ -135687,6 +136442,7 @@ il
 signor
 principe
 Mauritio
+​
 per
 assicurarsi
 del
@@ -135858,6 +136614,7 @@ ancor
 se
 sia
 passato
+​
 ben
 si
 è
@@ -136023,6 +136780,7 @@ scapato
 et
 uno
 delli
+​
 ritenuti
 dicesi
 che
@@ -136178,6 +136936,7 @@ di
 farne
 conto
 già
+​
 ch
 ella
 sta
@@ -136343,6 +137102,7 @@ Pietro
 Il
 qual
 avviso
+​
 qual
 egli
 si
@@ -136380,6 +137140,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -136660,6 +137422,7 @@ tempo
 bisognava
 interpretarlo
 ​
+​
 a
 felice
 augurio
@@ -136815,6 +137578,7 @@ sabbato
 mattina
 fece
 ella
+​
 meco
 lo
 stesso
@@ -136985,6 +137749,7 @@ Spagnuoli
 ma
 non
 lasciano
+​
 però
 di
 star
@@ -137143,6 +137908,7 @@ di
 Brem
 o
 Embden
+​
 ​
 ove
 sarà
@@ -137329,6 +138095,7 @@ Unione
 et
 contianuaranno
 ancor
+​
 per
 qualche
 giorno
@@ -137491,6 +138258,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -137815,6 +138584,7 @@ l
 signor
 don
 Pietro
+​
 scrisse
 al
 serenissimo
@@ -138016,6 +138786,7 @@ publicato
 di
 sua
 bocca
+​
 che
 le
 controversie
@@ -138211,6 +138982,7 @@ del
 Paese
 nella
 congiontura
+​
 de
 tempi
 nella
@@ -138419,6 +139191,7 @@ auttorità
 del
 signor
 Bernvel
+​
 sperano
 di
 superar
@@ -138619,6 +139392,7 @@ Si
 laudato
 della
 provincia
+​
 di
 Holanda
 per
@@ -138824,6 +139598,7 @@ altro
 se
 non
 che
+​
 havendo
 havuto
 la
@@ -139020,6 +139795,7 @@ principe
 Mauritio
 in
 discorrendo
+​
 seco
 mi
 disse
@@ -139118,6 +139894,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -139155,6 +139933,7 @@ n
 39
 cc
 121r-122v
+​
 In
 lettere
 dell
@@ -139547,6 +140326,7 @@ incontrar
 cose
 di
 suo
+​
 poco
 gusto
 andando
@@ -139756,6 +140536,7 @@ ma
 si
 vide
 ben
+​
 che
 nell
 interno
@@ -139965,6 +140746,7 @@ et
 deputati
 delle
 Provincie
+​
 hanno
 contento
 grande
@@ -140170,6 +140952,7 @@ affermandosi
 ch
 essa
 Regina
+​
 per
 li
 suoi
@@ -140414,6 +141197,7 @@ veduti
 habbiamo
 havute
 gran
+​
 nuove
 di
 Francia
@@ -140656,6 +141440,7 @@ perché
 passi
 più
 sicuramente
+​
 et
 lo
 ha
@@ -140888,6 +141673,7 @@ di
 aspettar
 la
 risolutione
+​
 de
 principi
 dell
@@ -141129,6 +141915,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -141466,6 +142254,7 @@ servitio
 di
 vostra
 Serenità
+​
 Mi
 dice
 di
@@ -141698,6 +142487,7 @@ tanto
 più
 si
 avanza
+​
 la
 stagione
 alle
@@ -141929,6 +142719,7 @@ ch
 è
 una
 delle
+​
 città
 ansiatiche
 se
@@ -142091,6 +142882,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -142124,6 +142917,7 @@ n
 42
 cc
 131r-132v
+​
 Lettera
 del
 re
@@ -142316,6 +143110,7 @@ mover
 et
 alterar
 li
+​
 spiriti
 per
 i
@@ -142506,6 +143301,7 @@ pregamo
 per
 tanto
 signori
+​
 et
 vi
 scongiuramo
@@ -142711,6 +143507,7 @@ inquietati
 sin
 tanto
 che
+​
 voi
 possiate
 di
@@ -142874,6 +143671,7 @@ n
 42
 cc
 133r-134v
+​
 Copia
 Serenissimo
 Principe
@@ -143454,6 +144252,7 @@ per
 il
 colonello
 Rocalaura
+​
 che
 ho
 dricciate
@@ -143657,6 +144456,7 @@ praticato
 da
 buoni
 christiani
+​
 Quei
 mercanti
 che
@@ -143861,6 +144661,7 @@ esso
 Conte
 fatta
 ​
+​
 ancora
 la
 provisione
@@ -144064,6 +144865,7 @@ Mi
 afferma
 esser
 huomo
+​
 che
 riuscirà
 alla
@@ -144258,6 +145060,7 @@ con
 quanto
 mi
 viene
+​
 nelle
 sue
 lettere
@@ -144470,6 +145273,7 @@ devotione
 ma
 dirò
 bene
+​
 che
 questo
 mi
@@ -144519,6 +145323,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -144799,6 +145604,7 @@ Bernvel
 disse
 questo
 sarebbe
+​
 un
 troppo
 voler
@@ -144980,6 +145786,7 @@ negare
 donandoli
 per
 cortesia
+​
 quello
 che
 non
@@ -145187,6 +145994,7 @@ di
 Alemagna
 fossero
 così
+​
 tardi
 nelle
 loro
@@ -145391,6 +146199,7 @@ cose
 della
 Francia
 dano
+​
 materia
 da
 pensare
@@ -145583,6 +146392,7 @@ non
 veggono
 la
 deliberatione
+​
 del
 re
 della
@@ -145766,6 +146576,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -146070,6 +146882,7 @@ ne
 hanno
 scritto
 qui
+​
 et
 particolarmente
 il
@@ -146282,6 +147095,7 @@ disconcio
 nel
 servitio
 di
+​
 quel
 serenissimo
 Dominio
@@ -146498,6 +147312,7 @@ della
 loro
 partita
 da
+​
 Sabioncello
 di
 trovarmi
@@ -146714,6 +147529,7 @@ andasse
 mettendo
 in
 capo
+​
 sensi
 poco
 praticabili
@@ -146891,6 +147707,7 @@ Christofforo
 Suriano
 146v-147r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -147166,6 +147983,7 @@ Mario
 disse
 doppo
 qualche
+​
 ragionamento
 che
 sapend
@@ -147372,6 +148190,7 @@ prontezza
 Egli
 si
 strinse
+​
 nelle
 spalle
 et
@@ -147569,6 +148388,7 @@ vedendo
 le
 genti
 levate
+​
 Penso
 che
 l
@@ -147767,6 +148587,7 @@ alquanti
 capitani
 gli
 hanno
+​
 fatto
 parlare
 se
@@ -147956,6 +148777,7 @@ per
 far
 il
 viaggio
+​
 offerendosi
 scontarli
 nelle
@@ -148167,6 +148989,7 @@ li
 galeoni
 in
 colf
+​
 di
 vostra
 Serenità
@@ -148242,6 +149065,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -148278,6 +149102,7 @@ n
 48
 cc
 151r-152v
+​
 Traduttione
 della
 lettera
@@ -148902,6 +149727,7 @@ finalmente
 habbi
 a
 parar
+​
 questo
 negotio
 et
@@ -149086,6 +149912,7 @@ si
 sono
 vendicati
 in
+​
 libertà
 vogliono
 prima
@@ -149275,6 +150102,7 @@ che
 allhora
 non
 era
+​
 stato
 dato
 d
@@ -149476,6 +150304,7 @@ per
 venir
 a
 servir
+​
 la
 Serenità
 vostra
@@ -149675,6 +150504,7 @@ Christofforo
 Suriano
 14v-15r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -149707,6 +150537,7 @@ n
 4
 cc
 12r-13v
+​
 Relatione
 delle
 compagnie
@@ -149825,6 +150656,7 @@ del
 baron
 di
 Pamele
+​
 Gerard
 Schadict
 Eustachio
@@ -149897,6 +150729,7 @@ Pierre
 Tellier
 detto
 Camergo
+​
 13vB
 Lista
 delli
@@ -150209,6 +151042,7 @@ Signorie
 vostre
 eccellentissime
 della
+​
 conservatione
 della
 Francia
@@ -150411,6 +151245,7 @@ signori
 in
 questo
 particolare
+​
 et
 toccarà
 a
@@ -150606,6 +151441,7 @@ in
 molti
 la
 buona
+​
 dispositione
 che
 si
@@ -150795,6 +151631,7 @@ con
 altri
 che
 con
+​
 li
 principi
 di
@@ -150989,6 +151826,7 @@ voler
 più
 soffrire
 Li
+​
 deputati
 ogni
 dì
@@ -151191,6 +152029,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -151547,6 +152387,7 @@ con
 il
 signor
 Bernvel
+​
 et
 altri
 et
@@ -151799,6 +152640,7 @@ prima
 che
 mi
 trovassi
+​
 con
 esso
 Bernvel
@@ -152032,6 +152874,7 @@ tutto
 patisca
 et
 disentono
+​
 o
 nel
 proporre
@@ -152271,6 +153114,7 @@ duca
 di
 Savoia
 mi
+​
 disse
 che
 bisognerebbe
@@ -152530,6 +153374,7 @@ anco
 in
 noi
 altri
+​
 concorre
 il
 medesimo
@@ -152786,6 +153631,7 @@ che
 l
 Eccellenza
 sua
+​
 lo
 trovava
 partito
@@ -153015,6 +153861,7 @@ con
 sua
 Eccellenza
 per
+​
 parlarle
 del
 medesimo
@@ -153132,6 +153979,8 @@ Carta
 tagiata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -153165,6 +154014,7 @@ n
 51
 cc
 162r-163v
+​
 In
 lettere
 de
@@ -153666,6 +154516,7 @@ questa
 occasione
 riuscirebbe
 inutile
+​
 Il
 felice
 cambiamento
@@ -154168,6 +155019,7 @@ ch
 egli
 spero
 da
+​
 voi
 perché
 se
@@ -154774,6 +155626,7 @@ questo
 consistesse
 la
 difficoltà
+​
 che
 se
 ben
@@ -155046,6 +155899,7 @@ mandati
 in
 scritto
 fosser
+​
 in
 forma
 tale
@@ -155314,6 +156168,7 @@ interessi
 di
 vostra
 Serenità
+​
 Né
 io
 in
@@ -155540,6 +156395,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -155620,6 +156477,7 @@ Aia
 maggio
 1617
 1
+​
 nella
 sua
 Congregatione
@@ -155841,6 +156699,7 @@ et
 li
 commettte
 ​
+​
 di
 operar
 in
@@ -156024,6 +156883,7 @@ Frisia
 Sabbato
 a
 sera
+​
 rescrissi
 ad
 esso
@@ -156211,6 +157071,7 @@ giudica
 che
 l
 marchese
+​
 Spinola
 trovandosi
 in
@@ -156329,6 +157190,7 @@ Christofforo
 Suriano
 172v-173r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -156359,6 +157221,7 @@ n
 54
 cc
 170r-171v
+​
 Traduttione
 della
 lettera
@@ -156581,6 +157444,7 @@ genti
 del
 signor
 Conte
+​
 et
 lo
 aspettano
@@ -156647,6 +157511,7 @@ concluso
 nelli
 patti
 etc
+​
 171vB
 Tradutione
 della
@@ -157120,6 +157985,7 @@ et
 per
 mare
 et
+​
 per
 terra
 contra
@@ -157333,6 +158199,7 @@ sodisfar
 alla
 mia
 commissione
+​
 venero
 al
 signor
@@ -157550,6 +158417,7 @@ qualche
 difficoltà
 per
 timor
+​
 di
 non
 romper
@@ -157759,6 +158627,7 @@ havessero
 servir
 sua
 Altezza
+​
 procurerebbono
 di
 seguitarle
@@ -157980,6 +158849,7 @@ l
 opinione
 di
 alcuni
+​
 che
 si
 habbi
@@ -158153,6 +159023,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -158434,6 +159306,7 @@ o
 commodità
 d
 introdutione
+​
 da
 qualche
 parte
@@ -158642,6 +159515,7 @@ comprender
 che
 questo
 tentativo
+​
 della
 rasegna
 ha
@@ -158863,6 +159737,7 @@ Henrico
 Perez
 et
 mi
+​
 hanno
 fatte
 veder
@@ -159083,6 +159958,7 @@ l
 ordine
 al
 detto
+​
 Perez
 Doppo
 partiti
@@ -159285,6 +160161,7 @@ quello
 che
 non
 mi
+​
 sarei
 persuaso
 sapendo
@@ -159488,6 +160365,7 @@ sono
 le
 navi
 che
+​
 restano
 ad
 esser
@@ -159706,6 +160584,7 @@ dei
 ​
 porti
 andar
+​
 a
 Embden
 et
@@ -159970,6 +160849,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -160268,6 +161149,7 @@ sua
 casa
 era
 stata
+​
 sempre
 inclinata
 verso
@@ -160483,6 +161365,7 @@ ordinario
 della
 serenissima
 Republica
+​
 era
 di
 dar
@@ -160699,6 +161582,7 @@ potrà
 aggiunger
 a
 quei
+​
 signori
 eccellentissimi
 quello
@@ -160809,6 +161693,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -160875,6 +161761,7 @@ Aia
 giugno
 1617
 1
+​
 di
 piazze
 sicure
@@ -161073,6 +161960,7 @@ o
 per
 l
 altra
+​
 et
 per
 quanto
@@ -161280,6 +162168,7 @@ inteso
 dal
 luoco
 proprio
+​
 et
 tanto
 più
@@ -161507,6 +162396,7 @@ vostra
 con
 l
 arciduca
+​
 Ferdinando
 et
 che
@@ -161724,6 +162614,7 @@ di
 Svetia
 contro
 Polonia
+​
 non
 sono
 ancor
@@ -161949,6 +162840,7 @@ Serenità
 et
 l
 istessa
+​
 passasse
 poi
 a
@@ -162149,6 +163041,7 @@ haver
 acettato
 il
 partito
+​
 et
 che
 si
@@ -162356,6 +163249,7 @@ scuopre
 in
 lui
 generosità
+​
 d
 animo
 et
@@ -162567,6 +163461,7 @@ con
 un
 ​
 filo
+​
 nero
 per
 traverso
@@ -162688,6 +163583,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -162720,6 +163617,7 @@ n
 59
 cc
 191r-192v
+​
 Traduttioni
 di
 lettere
@@ -162969,6 +163867,7 @@ che
 a
 metter
 fine
+​
 a
 questo
 affare
@@ -163215,6 +164114,7 @@ di
 creder
 come
 io
+​
 solamente
 cerco
 l
@@ -163814,6 +164714,7 @@ esser
 obligata
 da
 quella
+​
 parte
 far
 ascender
@@ -163990,6 +164891,7 @@ anco
 nelle
 nostre
 truppe
+​
 et
 massime
 in
@@ -164161,6 +165063,7 @@ scritto
 al
 Conte
 le
+​
 toccai
 che
 mi
@@ -164343,6 +165246,7 @@ in
 particolare
 perché
 si
+​
 contenessero
 in
 officio
@@ -164524,6 +165428,7 @@ opportunità
 et
 del
 tempo
+​
 Questa
 mattina
 sono
@@ -164704,6 +165609,7 @@ non
 ostanti
 l
 indoglienze
+​
 dell
 Ambasciator
 spagnuolo
@@ -164867,6 +165773,7 @@ assicurarsi
 del
 Duca
 replicò
+​
 che
 haverebbono
 ricercata
@@ -165086,6 +165993,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -165404,6 +166313,7 @@ bastarà
 quanto
 riverentemente
 scrissi
+​
 alla
 Serenità
 vostra
@@ -165606,6 +166516,7 @@ al
 Pasini
 che
 li
+​
 facesse
 offerta
 et
@@ -165788,6 +166699,7 @@ natione
 se
 non
 con
+​
 grandissima
 ​
 fatica
@@ -165993,6 +166905,7 @@ dargli
 quanto
 mi
 pareva
+​
 ho
 stimato
 non
@@ -166076,6 +166989,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -166110,6 +167026,7 @@ n
 62
 cc
 202r-203v
+​
 In
 lettere
 2e
@@ -166514,6 +167431,7 @@ militia
 il
 tenervi
 buona
+​
 disciplina
 et
 con
@@ -166741,6 +167659,7 @@ Stati
 per
 vostra
 Serenità
+​
 Ha
 piacciuto
 a
@@ -166959,6 +167878,7 @@ che
 col
 vassello
 diede
+​
 in
 terra
 come
@@ -167172,6 +168092,7 @@ gli
 ho
 risposto
 che
+​
 volontieri
 ne
 haverei
@@ -167391,6 +168312,7 @@ fine
 non
 ha
 poi
+​
 altro
 oggetto
 che
@@ -167602,6 +168524,7 @@ cinquanta
 sei
 piachi
 che
+​
 non
 sapendo
 assolutamente
@@ -167816,6 +168739,7 @@ come
 mi
 ha
 affermato
+​
 esso
 Conte
 che
@@ -168015,6 +168939,7 @@ vostre
 eccellentissime
 mi
 commandano
+​
 Col
 signor
 Conte
@@ -168252,6 +169177,7 @@ honore
 et
 di
 fortuna
+​
 Io
 li
 ho
@@ -168455,6 +169381,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -168897,6 +169825,7 @@ n
 cc
 21r-v
 26r-v
+​
 Nous
 Jean
 Ernest
@@ -168968,6 +169897,8 @@ Jh
 de
 Nassau
 Sigillo
+​
+​
 26vB
 n
 ​
@@ -168997,6 +169928,7 @@ n
 6
 cc
 22r-23v
+​
 Lettera
 a
 sua
@@ -169213,6 +170145,7 @@ et
 estraordinaria
 diligenza
 quanto
+​
 humanamente
 puote
 di
@@ -169399,6 +170332,7 @@ incontri
 successi
 dalla
 man
+​
 di
 Dio
 alle
@@ -169620,6 +170554,7 @@ n
 6
 cc
 24r-25v
+​
 Nomi
 et
 qualità
@@ -169885,6 +170820,7 @@ valeroso
 et
 di
 isperienza
+​
 Il
 signor
 David
@@ -170583,6 +171519,7 @@ signore
 gli
 parve
 ​
+​
 l
 opportunità
 molto
@@ -170823,6 +171760,7 @@ mi
 ringratiorono
 con
 parole
+​
 generali
 della
 confidenza
@@ -171042,6 +171980,7 @@ sollecita
 l
 aiuto
 addimandato
+​
 di
 denari
 et
@@ -171292,6 +172231,7 @@ che
 possono
 servire
 a
+​
 profitto
 particolare
 di
@@ -171516,6 +172456,7 @@ alla
 corte
 in
 Scotia
+​
 ove
 sperava
 trovarsi
@@ -171560,6 +172501,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -171838,6 +172781,7 @@ del
 negotio
 di
 Spagna
+​
 per
 cavar
 qualche
@@ -172040,6 +172984,7 @@ riputatione
 che
 si
 propo-
+​
 nesse
 chiaramente
 in
@@ -172222,6 +173167,7 @@ la
 unione
 si
 havesse
+​
 a
 far
 con
@@ -172401,6 +173347,7 @@ medesimo
 senso
 de
 allhora
+​
 del
 quale
 come
@@ -172590,6 +173537,7 @@ quale
 ispedisco
 le
 presenti
+​
 et
 altre
 con
@@ -172627,6 +173575,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -173022,6 +173972,7 @@ far
 il
 suo
 debito
+​
 et
 della
 qualità
@@ -173248,6 +174199,7 @@ di
 sua
 Serenità
 apresso
+​
 di
 noi
 perché
@@ -173468,6 +174420,7 @@ proprio
 et
 che
 stimai
+​
 conveniente
 Il
 mottivo
@@ -173680,6 +174633,7 @@ la
 risposta
 et
 che
+​
 stava
 ancor
 travagliando
@@ -173909,6 +174863,7 @@ causato
 colla
 sua
 assistenza
+​
 et
 col
 mezo
@@ -174131,6 +175086,7 @@ li
 signori
 Stati
 suspesero
+​
 ogni
 effetto
 havendo
@@ -174177,6 +175133,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -174209,6 +175166,7 @@ n
 67
 cc
 219r-220v
+​
 Serenissimo
 Principe
 vengho
@@ -174406,6 +175364,7 @@ somma
 de
 fiorini
 40
+​
 stimando
 che
 tanto
@@ -174572,6 +175531,7 @@ di
 aprobatione
 che
 la
+​
 sudetta
 soldatesca
 sia
@@ -174628,6 +175588,7 @@ Ludovico
 conte
 de
 Leuvenstein
+​
 Serenissimo
 principe
 di
@@ -174675,6 +175636,7 @@ decodifica
 di
 testo
 cifrato
+​
 231bis
 r-v
 Carta
@@ -174717,6 +175679,7 @@ di
 cc
 227r-v
 230r-v
+​
 ​
 ​
 Cose
@@ -174883,6 +175846,7 @@ della
 serenissima
 Republica
 ​
+​
 Che
 tutto
 si
@@ -175027,6 +175991,7 @@ Spagna
 habino
 dall
 ​
+​
 audire
 di
 armar
@@ -175116,6 +176081,7 @@ sopra
 le
 loro
 braccia
+​
 ​
 Che
 per
@@ -175268,6 +176234,7 @@ come
 al
 presente
 darà
+​
 ​
 ella
 25
@@ -175670,6 +176637,7 @@ a
 cader
 al
 proposito
+​
 di
 aleanza
 contenendomi
@@ -175801,6 +176769,7 @@ dopo
 essendosi
 veduta
 sin
+​
 ad
 hora
 la
@@ -175939,6 +176908,7 @@ Serenità
 Egli
 dopo
 havermi
+​
 replicate
 diverse
 cose
@@ -176081,6 +177051,7 @@ alle
 forze
 della
 serenissima
+​
 Republica
 et
 di
@@ -176221,6 +177192,7 @@ lui
 concetti
 di
 questa
+​
 natura
 che
 potevo
@@ -176360,6 +177332,7 @@ ticolare
 che
 hanno
 notitia
+​
 della
 lingua
 italiana
@@ -176517,6 +177490,7 @@ per
 non
 perder
 quella
+​
 riputatione
 che
 tanti
@@ -176661,6 +177635,7 @@ suoi
 corrieri
 la
 risposta
+​
 et
 come
 mi
@@ -176823,6 +177798,7 @@ la
 via
 di
 Colonia
+​
 capitino
 alla
 Serenità
@@ -176899,6 +177875,8 @@ et
 devotissimo
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -177274,6 +178252,7 @@ Spagnoli
 et
 si
 dichiarano
+​
 di
 volerne
 la
@@ -177505,6 +178484,7 @@ mi
 fece
 et
 dissi
+​
 in
 conformità
 del
@@ -177725,6 +178705,7 @@ nel
 signor
 principe
 Mauritio
+​
 in
 particolare
 vi
@@ -177974,6 +178955,7 @@ Altezze
 mandato
 a
 chiamare
+​
 tutti
 li
 luogotenenti
@@ -178199,6 +179181,7 @@ però
 non
 hanno
 quei
+​
 signori
 data
 risposta
@@ -178344,6 +179327,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -178673,6 +179658,7 @@ certo
 se
 havessi
 creduto
+​
 di
 avanzar
 il
@@ -178883,6 +179869,7 @@ dei
 del
 passato
 scritte
+​
 ​
 dal
 secretario
@@ -179119,6 +180106,7 @@ ha
 mostrato
 di
 contentarsene
+​
 mentre
 a
 questi
@@ -179358,6 +180346,7 @@ denaro
 con
 la
 speranza
+​
 che
 sempre
 da
@@ -179458,6 +180447,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -179490,6 +180482,7 @@ n
 73
 cc
 245r-246v
+​
 Copia
 della
 lettera
@@ -180011,6 +181004,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -180045,6 +181041,7 @@ n
 75
 cc
 249r-250v
+​
 In
 lettere
 dell
@@ -180462,6 +181459,7 @@ consequenza
 riverserebbe
 la
 guerra
+​
 sopra
 di
 noi
@@ -180627,6 +181625,7 @@ unione
 facessero
 qualche
 ragionamento
+​
 Io
 uno
 di
@@ -180764,6 +181763,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -181115,6 +182115,7 @@ contente
 del
 trattamento
 mirando
+​
 alcuni
 dei
 capitani
@@ -181359,6 +182360,7 @@ haverebbe
 mostrato
 seco
 di
+​
 haver
 presentito
 questo
@@ -181600,6 +182602,7 @@ basso
 et
 sua
 Eccellenza
+​
 mostrò
 meco
 che
@@ -181832,6 +182835,7 @@ che
 si
 era
 lasciato
+​
 intender
 che
 volontieri
@@ -182085,6 +183089,7 @@ può
 contentare
 et
 promettersi
+​
 d
 avantaggio
 del
@@ -182113,6 +183118,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -182414,6 +183421,7 @@ Li
 mercanti
 d
 Amsterdam
+​
 hanno
 ricevute
 lettere
@@ -182618,6 +183626,7 @@ contenti
 et
 li
 mercanti
+​
 in
 particolare
 interessati
@@ -182829,6 +183838,7 @@ quello
 fano
 gl
 altri
+​
 et
 mi
 prega
@@ -183053,6 +184063,7 @@ prima
 di
 doverlo
 fare
+​
 né
 ciò
 che
@@ -183273,6 +184284,7 @@ ottobre
 dell
 anno
 passato
+​
 intorno
 a
 capitani
@@ -183514,6 +184526,7 @@ huomo
 da
 valersi
 in
+​
 mare
 sarà
 sufficientissimo
@@ -183808,6 +184821,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -183844,6 +184858,7 @@ n
 cc
 262r-v
 265r-v
+​
 In
 lettere
 del
@@ -184088,6 +185103,7 @@ estratto
 di
 una
 lettera
+​
 statami
 scritta
 da
@@ -184200,6 +185216,7 @@ dal
 tempo
 il
 seguito
+​
 265vB
 Numero
 1
@@ -184235,6 +185252,7 @@ n
 cc
 263r-v
 264r-v
+​
 In
 lettere
 3e
@@ -184833,6 +185851,7 @@ per
 Polonia
 che
 pur
+​
 s
 intende
 che
@@ -185054,6 +186073,7 @@ a
 nascer
 qualche
 disgusto
+​
 Quando
 siano
 necessitati
@@ -185257,6 +186277,7 @@ gagliarda
 come
 ho
 detto
+​
 Non
 è
 comparso
@@ -185481,6 +186502,7 @@ del
 signor
 marchese
 di
+​
 Bada
 il
 qual
@@ -185681,6 +186703,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -185905,6 +186930,7 @@ n
 10
 cc
 31r-32v
+​
 Deliberatione
 de
 signori
@@ -186156,6 +187182,7 @@ sopra
 le
 bocche
 delle
+​
 dette
 riviere
 de
@@ -186228,6 +187255,7 @@ Stati
 Generali
 Arsen
 secretario
+​
 32vB
 Deliberatione
 de
@@ -186529,6 +187557,7 @@ Monthou
 fece
 di
 ringratiamento
+​
 come
 ho
 detto
@@ -186744,6 +187773,7 @@ hieri
 il
 signor
 Vandermil
+​
 me
 ​
 ne
@@ -186941,6 +187971,7 @@ ricerca
 et
 come
 egli
+​
 è
 ​
 stato
@@ -187044,6 +188075,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -187095,6 +188128,7 @@ n
 83
 cc
 272r-273v
+​
 In
 lettere
 prime
@@ -187464,6 +188498,7 @@ principi
 et
 città
 unite
+​
 dell
 Alemagna
 ​
@@ -187792,6 +188827,7 @@ contra
 il
 re
 di
+​
 Spagna
 cinquanta
 milla
@@ -188492,6 +189528,7 @@ più
 vivamente
 questo
 negotio
+​
 et
 l
 ho
@@ -188717,6 +189754,7 @@ lasciati
 intender
 non
 desidero
+​
 altro
 se
 non
@@ -188935,6 +189973,7 @@ detto
 che
 vogliono
 fare
+​
 Si
 lasciano
 intender
@@ -189170,6 +190209,7 @@ siano
 per
 giovar
 appresso
+​
 il
 signor
 Conte
@@ -189399,6 +190439,7 @@ né
 che
 fossero
 con
+​
 essorbitanza
 come
 egli
@@ -189601,6 +190642,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -189956,6 +190999,7 @@ voler
 apparecchiar
 alcuna
 cosa
+​
 ch
 egli
 finhora
@@ -190220,6 +191264,7 @@ et
 che
 li
 haverebbe
+​
 condotti
 al
 servitio
@@ -190472,6 +191517,7 @@ vostre
 aggiunta
 et
 con
+​
 essa
 quanto
 mi
@@ -190717,6 +191763,7 @@ facessero
 tanto
 presto
 ​
+​
 mi
 ha
 detto
@@ -190948,6 +191995,7 @@ nell
 urgenza
 del
 tempo
+​
 et
 piacesse
 a
@@ -191208,6 +192256,7 @@ et
 rinontiò
 per
 ​
+​
 la
 carica
 al
@@ -191449,6 +192498,7 @@ servitio
 et
 potendo
 indurlo
+​
 a
 servir
 con
@@ -191699,6 +192749,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -191736,6 +192788,7 @@ n
 87
 cc
 283r-284v
+​
 In
 lettere
 dell
@@ -192143,6 +193196,7 @@ n
 87
 cc
 285r-286v
+​
 In
 lettere
 3e
@@ -192352,6 +193406,7 @@ n
 87
 cc
 287r-288v
+​
 In
 lettere
 3e
@@ -193005,6 +194060,7 @@ Christofforo
 Suriano
 290v-291r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -193540,6 +194596,7 @@ concertassimo
 di
 parlar
 al
+​
 signor
 principe
 Mauritio
@@ -193770,6 +194827,7 @@ un
 commissario
 come
 ​
+​
 consegliò
 sua
 Eccellenza
@@ -193986,6 +195044,7 @@ sera
 per
 Amsterdam
 partirà
+​
 dimani
 mattina
 alle
@@ -194213,6 +195272,7 @@ era
 a
 segno
 Vedrò
+​
 ciò
 che
 ne
@@ -194430,6 +195490,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -194464,6 +195527,7 @@ n
 92
 cc
 295r-296v
+​
 Lettera
 del
 conte
@@ -195096,6 +196160,7 @@ che
 non
 si
 facci
+​
 cosa
 di
 buono
@@ -195323,6 +196388,7 @@ nasceva
 da
 loro
 perché
+​
 condotti
 dall
 aletamento
@@ -195557,6 +196623,7 @@ vi
 andasse
 ben
 accompagnato
+​
 Et
 come
 comportava
@@ -195785,6 +196852,7 @@ presentata
 la
 richiesta
 che
+​
 vostra
 Serenità
 haverà
@@ -196023,6 +197091,7 @@ il
 commune
 inimico
 che
+​
 sarebbe
 stato
 se
@@ -196248,6 +197317,7 @@ risponderli
 perché
 altrimenti
 non
+​
 può
 questo
 partorir
@@ -196310,6 +197380,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -196350,6 +197421,7 @@ decodifica
 di
 c
 298v
+​
 Segue
 decodifica
 di
@@ -196367,6 +197439,7 @@ n
 94
 cc
 302r-303v
+​
 Potentissimi
 et
 nobilissimi
@@ -196919,6 +197992,7 @@ di
 far
 una
 nuova
+​
 Compagnia
 per
 l
@@ -197136,6 +198210,7 @@ Altezze
 ma
 non
 si
+​
 sapeva
 il
 fine
@@ -197357,6 +198432,7 @@ da
 lei
 et
 quando
+​
 le
 replicate
 dal
@@ -197589,6 +198665,7 @@ d
 intartenir
 delle
 paghe
+​
 ​
 de
 soldati
@@ -197836,6 +198913,7 @@ soggiunse
 altro
 Et
 essendo
+​
 accompagnato
 col
 signor
@@ -198068,6 +199146,7 @@ savio
 di
 Terraferma
 ​
+​
 alla
 scrittura
 potrebbe
@@ -198282,6 +199361,7 @@ questo
 mi
 scrive
 in
+​
 lettere
 dei
 20
@@ -198519,6 +199599,7 @@ che
 lo
 farà
 bene
+​
 Mi
 scrive
 pure
@@ -198603,6 +199684,7 @@ Christofforo
 Suriano
 309v-310r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -198944,6 +200026,7 @@ Christofforo
 Suriano
 311v-312r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -199199,6 +200282,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -199229,6 +200315,7 @@ n
 c
 314r-314bis
 v
+​
 Copia
 Serenissimo
 Principe
@@ -199615,6 +200702,7 @@ mondo
 come
 fossero
 desiderosi
+​
 d
 impiegarsi
 nel
@@ -199798,6 +200886,7 @@ regolarmi
 secondo
 essa
 per
+​
 avanzamento
 di
 questo
@@ -199953,6 +201042,7 @@ veduto
 ​
 il
 signor
+​
 Bernvel
 egli
 stesso
@@ -200113,6 +201203,7 @@ mente
 et
 forse
 non
+​
 m
 inganno
 che
@@ -200291,6 +201382,7 @@ aiuto
 deliberato
 et
 iscusa
+​
 di
 non
 haver
@@ -200481,6 +201573,7 @@ Altezza
 in
 ogni
 modo
+​
 anco
 all
 Altezza
@@ -200665,6 +201758,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -201052,6 +202146,7 @@ di
 questi
 giorni
 che
+​
 visitai
 sua
 Eccellenza
@@ -201292,6 +202387,7 @@ tempo
 et
 far
 altre
+​
 provisioni
 per
 il
@@ -201515,6 +202611,7 @@ prometto
 che
 non
 mancarà
+​
 Questo
 Pach
 venirà
@@ -201743,6 +202840,7 @@ d
 aspettar
 altro
 già
+​
 ch
 egli
 partì
@@ -201965,6 +203063,7 @@ scrive
 a
 14
 che
+​
 l
 alfier
 Michiel
@@ -202169,6 +203268,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -202205,6 +203306,7 @@ n
 cc
 37r-v
 39r-v
+​
 Navi
 che
 possino
@@ -202267,6 +203369,8 @@ Rotterda
 di
 lasti
 5400
+​
+​
 39vB
 n
 2
@@ -202612,6 +203716,7 @@ armi
 mi
 disse
 che
+​
 non
 gli
 scriveva
@@ -202832,6 +203937,7 @@ lasciar
 seguir
 l
 inconveniente
+​
 come
 anco
 biasonò
@@ -203038,6 +204144,7 @@ de
 viveri
 et
 carestia
+​
 di
 tutte
 le
@@ -203258,6 +204365,7 @@ che
 non
 fosser
 sufficienti
+​
 per
 custodir
 doi
@@ -203455,6 +204563,7 @@ militia
 di
 sua
 Serenità
+​
 rispose
 tanto
 più
@@ -203662,6 +204771,7 @@ vero
 che
 non
 poteva
+​
 con
 suo
 honore
@@ -203862,6 +204972,7 @@ il
 signor
 Principe
 suo
+​
 fratello
 et
 la
@@ -204066,6 +205177,7 @@ disordine
 non
 si
 sia
+​
 fatto
 maggiore
 all
@@ -204230,6 +205342,7 @@ Christofforo
 Suriano
 325v-326r
 Bianche
+​
 Al
 serenissimo
 principe
@@ -204565,6 +205678,7 @@ del
 signor
 principe
 Mauritio
+​
 per
 dar
 alla
@@ -204762,6 +205876,7 @@ Gio
 Ernesto
 di
 Nassau
+​
 ​
 andandossi
 sperdendo
@@ -204963,6 +206078,7 @@ havesse
 potuto
 compir
 al
+​
 resto
 il
 mancamento
@@ -205179,6 +206295,7 @@ evitar
 ogni
 av
 ​
+​
 che
 possi
 apportar
@@ -205385,6 +206502,7 @@ di
 dover
 partir
 presto
+​
 per
 la
 come
@@ -205409,6 +206527,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -205442,6 +206562,7 @@ n
 104
 cc
 329r-330v
+​
 Copia
 Io
 Gasparo
@@ -206147,6 +207268,7 @@ più
 al
 proprio
 et
+​
 replicarono
 almeno
 sua
@@ -206363,6 +207485,7 @@ succeder
 quando
 non
 ​
+​
 havessero
 contento
 aggiungendo
@@ -206578,6 +207701,7 @@ alla
 levata
 del
 conte
+​
 di
 Levenstein
 mentre
@@ -206784,6 +207908,7 @@ o
 tre
 altri
 c
+​
 ​
 affermandomi
 ognuno
@@ -206997,6 +208122,7 @@ dalla
 pena
 che
 patisco
+​
 per
 servitio
 et
@@ -207224,6 +208350,7 @@ far
 il
 fatto
 ​
+​
 loro
 contra
 li
@@ -207363,6 +208490,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -207394,6 +208522,7 @@ n
 106
 cc
 336r-337v
+​
 In
 lettera
 dall
@@ -208081,6 +209210,7 @@ haveva
 fatto
 in
 maniera
+​
 che
 il
 patron
@@ -208314,6 +209444,7 @@ non
 ho
 mandato
 ​
+​
 di
 attestar
 che
@@ -208359,6 +209490,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -208648,6 +209780,7 @@ destinarebbe
 ambasciator
 per
 trattar
+​
 poi
 più
 sodamente
@@ -208796,6 +209929,7 @@ per
 il
 commune
 servitio
+​
 perché
 inteso
 dalla
@@ -209000,6 +210134,7 @@ significassi
 a
 vostra
 Serenità
+​
 la
 dispositione
 et
@@ -209175,6 +210310,7 @@ bisogno
 presente
 converre-
 bbe
+​
 proporre
 quello
 che
@@ -209330,6 +210466,7 @@ che
 io
 non
 mi
+​
 faccio
 sicuro
 anzi
@@ -209476,6 +210613,7 @@ egli
 se
 ne
 ride
+​
 volendo
 portar
 la
@@ -209517,6 +210655,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -209944,6 +211083,7 @@ del
 Generale
 et
 delle
+​
 donne
 che
 non
@@ -210213,6 +211353,7 @@ questo
 quanto
 perché
 ​
+​
 che
 l
 difetto
@@ -210471,6 +211612,7 @@ ha
 discorso
 dicendo
 che
+​
 non
 sapevo
 intenderla
@@ -210715,6 +211857,7 @@ haveva
 offerta
 la
 luocotenenza
+​
 sotto
 di
 lui
@@ -210967,6 +212110,7 @@ quali
 subito
 gl
 ispedii
+​
 Mandò
 sabbato
 a
@@ -211045,6 +212189,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -211076,6 +212222,7 @@ n
 cc
 352r-352bis
 v
+​
 Lettere
 del
 signor
@@ -211540,6 +212687,7 @@ Spagnuoli
 vi
 mettino
 guarnigione
+​
 per
 introdurvisi
 a
@@ -211786,6 +212934,7 @@ maggiormente
 del
 suo
 concetto
+​
 Presero
 qui
 li
@@ -211992,6 +213141,7 @@ qualche
 settimane
 ​
 li
+​
 magistrati
 di
 alcune
@@ -212201,6 +213351,7 @@ stato
 in
 pregiudicio
 della
+​
 ​
 del
 Paese
@@ -212429,6 +213580,7 @@ era
 impossibile
 che
 non
+​
 succedesse
 qualche
 disordine
@@ -212528,6 +213680,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -212558,6 +213712,7 @@ n
 113
 cc
 357r-358v
+​
 Translato
 d
 una
@@ -213046,6 +214201,7 @@ signor
 duca
 di
 Wirtembergh
+​
 il
 quale
 con
@@ -213586,6 +214742,7 @@ signor
 duca
 di
 Savoia
+​
 358vB
 Lettera
 da
@@ -213987,6 +215144,7 @@ Altezza
 come
 anco
 per
+​
 sollevo
 della
 serenissima
@@ -214207,6 +215365,7 @@ Duca
 si
 sarebe
 ​
+​
 constantissimo
 et
 dal
@@ -214413,6 +215572,7 @@ mi
 era
 stato
 risposto
+​
 io
 gli
 dissi
@@ -214613,6 +215773,7 @@ che
 stia
 tra
 di
+​
 noi
 è
 possibile
@@ -214750,6 +215911,7 @@ meglio
 la
 serenissima
 Republica
+​
 poteva
 dir
 ciò
@@ -214897,6 +216059,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -215286,6 +216450,7 @@ gliene
 havevo
 fatta
 instanza
+​
 acciochè
 questi
 signori
@@ -215519,6 +216684,7 @@ piacesse
 a
 Dio
 che
+​
 arrivassero
 in
 tempo
@@ -215751,6 +216917,7 @@ a
 causa
 della
 montagna
+​
 come
 quella
 di
@@ -215981,6 +217148,7 @@ che
 non
 l
 intendevano
+​
 ​
 Questo
 è
@@ -216215,6 +217383,7 @@ pena
 grande
 per
 esso
+​
 don
 Gioanni
 et
@@ -216409,6 +217578,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -216756,6 +217927,7 @@ vasselli
 et
 le
 genti
+​
 sarebbono
 state
 preste
@@ -217004,6 +218176,7 @@ però
 per
 tutto
 il
+​
 Paese
 ma
 per
@@ -217217,6 +218390,7 @@ et
 questi
 ​
 signori
+​
 vorrebbono
 se
 li
@@ -217455,6 +218629,7 @@ deve
 haver
 miglior
 informatione
+​
 Quello
 che
 si
@@ -217657,6 +218832,7 @@ anco
 che
 l
 re
+​
 di
 Spagna
 vogli
@@ -217750,6 +218926,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -217781,6 +218959,7 @@ n
 118
 cc
 373r-374v
+​
 Lettera
 del
 signor
@@ -218105,6 +219284,8 @@ io
 potrò
 haver
 restando
+​
+​
 Memoria
 di
 quello
@@ -218421,6 +219602,7 @@ assemblea
 condesceso
 come
 ella
+​
 intenderà
 nella
 scrittura
@@ -218642,6 +219824,7 @@ venga
 all
 espressione
 della
+​
 summa
 se
 ben
@@ -218836,6 +220019,7 @@ farà
 risolutione
 tale
 senza
+​
 ​
 precedente
 parere
@@ -219050,6 +220234,7 @@ che
 resteranno
 ingannati
 perché
+​
 mala
 cosa
 è
@@ -219120,6 +220305,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -219152,6 +220340,7 @@ n
 15
 cc
 44r-47v
+​
 Propositione
 del
 signor
@@ -219507,6 +220696,7 @@ penetrando
 con
 tal
 mezo
+​
 nel
 più
 profondo
@@ -219828,6 +221018,7 @@ a
 così
 gran
 servitii
+​
 prestati
 dalla
 casa
@@ -220154,6 +221345,7 @@ Uniti
 de
 Paesi
 Bassi
+​
 Utile
 perché
 è
@@ -220457,6 +221649,7 @@ con
 il
 Spagniolo
 perché
+​
 ancorché
 alla
 longa
@@ -220706,6 +221899,7 @@ quale
 havendo
 la
 Borgognia
+​
 et
 il
 Paese
@@ -221011,6 +222205,7 @@ delli
 affari
 communi
 essendo
+​
 che
 nella
 prontezza
@@ -221602,6 +222797,7 @@ proposito
 haver
 qualche
 ordine
+​
 et
 commandamento
 da
@@ -221635,6 +222831,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -221668,6 +222866,7 @@ n
 c
 377r-377bis
 v
+​
 Serenissimo
 señor
 mi
@@ -221953,6 +223152,7 @@ punto
 en
 ello
 emple-
+​
 ​
 aunque
 en
@@ -222352,6 +223552,7 @@ A
 questo
 risposi
 che
+​
 non
 poteva
 esser
@@ -222620,6 +223821,7 @@ in
 mano
 del
 soldato
+​
 si
 haveva
 risoluto
@@ -222878,6 +224080,7 @@ l
 intendessero
 et
 il
+​
 medesimo
 mi
 ha
@@ -223132,6 +224335,7 @@ disordini
 et
 facendo
 alla
+​
 cieca
 ​
 disse
@@ -223374,6 +224578,7 @@ signora
 principessa
 di
 Oranges
+​
 et
 al
 signor
@@ -223620,6 +224825,7 @@ meglio
 lasciarlo
 venire
 prima
+​
 che
 arrivasse
 all
@@ -223858,6 +225064,7 @@ pochi
 paesani
 haveva
 chiamati
+​
 li
 soldati
 per
@@ -224110,6 +225317,7 @@ far
 alcuna
 mala
 impressione
+​
 quanto
 si
 vadi
@@ -224363,6 +225571,9 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
+​
 Al
 serenissimo
 principe
@@ -224393,6 +225604,7 @@ n
 122
 cc
 384r-385v
+​
 In
 lettere
 replicate
@@ -224932,6 +226144,7 @@ chose
 non
 obstant
 qu-
+​
 i
 ay
 tous
@@ -225410,6 +226623,7 @@ la
 Lisonxe
 a
 ma
+​
 requeste
 je
 le
@@ -226131,6 +227345,7 @@ altre
 mie
 di
 che
+​
 si
 dolse
 grandemente
@@ -226373,6 +227588,7 @@ non
 habbi
 ad
 haver
+​
 bisogno
 ma
 quando
@@ -226599,6 +227815,7 @@ meravigliati
 d
 intender
 haver
+​
 elle
 ordine
 arrivando
@@ -226825,6 +228042,7 @@ sperando
 o
 che
 non
+​
 faccino
 alcuna
 cosa
@@ -227036,6 +228254,7 @@ suo
 conte
 Gio
 Casimiro
+​
 et
 il
 conte
@@ -227267,6 +228486,7 @@ sue
 de
 1
 ​
+​
 ottobre
 dell
 anno
@@ -227459,6 +228679,7 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
 Al
 serenissimo
 principe
@@ -227755,6 +228976,7 @@ per
 il
 detto
 signore
+​
 che
 voleva
 dir
@@ -227956,6 +229178,7 @@ tutto
 ciò
 mi
 addimandò
+​
 quando
 il
 signor
@@ -228149,6 +229372,7 @@ certo
 che
 dovessero
 esser
+​
 del
 tutto
 all
@@ -228349,6 +229573,7 @@ di
 esser
 pronto
 al
+​
 partire
 per
 la
@@ -228548,6 +229773,7 @@ buonissime
 per
 quell
 effetto
+​
 Mai
 sono
 più
@@ -228920,6 +230146,7 @@ paese
 con
 tanta
 incommodità
+​
 per
 non
 far
@@ -229130,6 +230357,7 @@ molto
 ben
 in
 ​
+​
 della
 verità
 del
@@ -229324,6 +230552,7 @@ et
 per
 la
 difficoltà
+​
 che
 tal
 volta
@@ -229524,6 +230753,7 @@ conte
 di
 Frusten
 ​
+​
 faceva
 levata
 a
@@ -229696,6 +230926,7 @@ arciduchi
 per
 Milano
 vinticinque
+​
 huomini
 di
 ciascheduna
@@ -229882,6 +231113,7 @@ mormoratione
 che
 heb
 ​
+​
 buono
 di
 andarsene
@@ -230059,6 +231291,7 @@ che
 si
 può
 interpretar
+​
 il
 medesimo
 del
@@ -230116,6 +231349,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -230428,6 +231663,7 @@ in
 questi
 porti
 né
+​
 in
 quelli
 d
@@ -230623,6 +231859,7 @@ attraversa
 ma
 in
 ​
+​
 egli
 promuovono
 difficoltà
@@ -230805,6 +232042,7 @@ assistenza
 del
 nuovo
 sforzo
+​
 si
 farebbono
 gagliardi
@@ -231179,6 +232417,7 @@ Di
 questo
 se
 ne
+​
 sono
 doluti
 li
@@ -231380,6 +232619,7 @@ dell
 Halzatia
 di
 Colonia
+​
 et
 da
 altra
@@ -231599,6 +232839,7 @@ la
 intendono
 che
 questi
+​
 sono
 tutti
 maneggi
@@ -231765,6 +233006,8 @@ Carta
 tagliata
 non
 numerata
+​
+​
 Al
 serenissimo
 principe
@@ -231845,6 +233088,7 @@ Aia
 marzo
 1617
 1
+​
 miglior
 maniera
 possibile
@@ -231933,6 +233177,8 @@ devotissimo
 servitore
 Christofforo
 Suriano
+​
+​
 Al
 serenissimo
 principe
@@ -231963,6 +233209,7 @@ n
 18
 cc
 53r-54v
+​
 Risposta
 al
 signor
@@ -232308,6 +233555,7 @@ queste
 Provincie
 il
 che
+​
 è
 causa
 che
