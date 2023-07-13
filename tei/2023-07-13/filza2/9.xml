@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.41 date 1616-xx-6 </title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">41</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">131r-132v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>Colonia</settlement>
+          <date when="1616-xx-6 ">6 agosto 1616</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">Il figliolo del signor marchese di Brandemburgh con la sposa <lb/></p>
+          <pb xml:id="f131v" n="131v"/>
+          <p xml:id="p2">sorella del signor Principe palatino è passato questa mattina <lb/> in
+barca, di ritorno da Heidelbergh, a visita di questa <lb/> città, et li
+cittadini di essa non potendo altrimenti <lb/> hanno honorato il passaggio
+di detti principi con hono-<lb/>ratissimo saluto di moschetteria<ptr target="#tn4" n="4"/> mortaletti, et tiri <lb/> d’artiglieria. Va esso Principe a Cleves
+per tenersi <lb/> quivi come in possesso per nome del padre. <supplied>Che</supplied><ptr target="#tn5" n="5"/> con numero <lb/> di cavalleria, et d’infanteria holandese lo sta
+atten-<lb/>dendo ai confini per fargli scorta; ma qui si <lb/> tiene, che sia
+più per capo di riputatione, che per <lb/> necessità mentre la parte
+contraria non si muove, <lb/> osserva, et sta sul semplice avviso, né si
+sentono <lb/> movimenti dall’una, né dall’altra parte<ptr target="#tn6" n="6"/>. Et li mer-<lb/>canti di questa città forniscono indiferentemente <lb/>
+ad ambedoi secondo il bisogno, che hanno tanto <lb/> de’ viveri, quanto de’
+polveri, et altre munitioni <lb/> da guerra: è ben vero, che si bene, che le
+cose di <lb/> qua non habbino a fermarsi in questo stato, et che <lb/> in tanto
+Spagnuoli non faccino motivo di progresso <lb/> in quanto stano aspettando
+qual essito habbino <lb/> ad haver li negotii d’Italia. Et sopra le
+controversi<supplied>e</supplied> <lb/></p>
+          <pb xml:id="f132r" n="132r"/>
+          <p xml:id="p3">di vostra Serenità don Balthassar Zunica ambasciator di Spagna in <lb/>
+corte cesarea ha scritto ad un<ptr target="#tn7" n="7"/> suo particolar amico, et <lb/> principale in questa città, che il
+negotio ha in sé tanti capi <lb/> et tanto difficili ad accordarsi fra le
+parti, che si stenterà <lb/> trovarvi ripiego: non condescende però ad
+altro, né qui <lb/> se ne fa gran discorsi. <lb/></p>
+          <p xml:id="p4">Partendo dimani di buon hora l’Ordinario per Venetia <lb/> da questa
+città ho stimato mio debito prima della conti-<lb/>nuatione del mio viaggio
+abbracciar l’occasione per<ptr target="#tn8" n="8"/> rappresentar <lb/> alle Signorie vostre eccellentissime questo poco,
+che servirà almeno colla <lb/> sodisfattione del mio obligo a confirmatione
+della <lb/> mia humile, et devota riverenza. Gratie etc. <lb/></p>
+          <p xml:id="p5">Di Colonia a’ 6 agosto 1616 <lb/></p>
+          <p xml:id="p6">di vostra Serenità <lb/></p>
+          <p xml:id="p7">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p8">Christofforo Suriano <lb/></p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f132v" n="132v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">Signor signor colendissimo <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 132vC /</p>
+          <p xml:id="ps6"><hi rend="smallcaps">6</hi> agosto 1616 ricevuta 17 detto
+<lb/></p>
+          <p xml:id="ps7">Surian di Colonia <lb/></p>
+          <p xml:id="ps8">L. SS. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							all’arrivo mio in questa città, che fu hieri a sera intesi, che  a
+Meulendunch cinque leghe di qua, et nei contorni si fa  una levata di
+mille cavalli sotto la condotta del barone  d’Anolt, che altre volte ha
+servito l’arciduca Leopoldo.  Il denaro, che si distribuisce buona
+parte è in doppie  [de] Spagna, et ad ogni soldato si dà ottanta taleri di  prestanza.
+La mostra doverà pur darsi nel luoco  sudetto per tutto il mese presente, et le
+patenti hanno  questa dichiaratione generale che habbi a farsi  essa
+cavalleria per servitio della casa d’Austria; ma  qui viene tenuto per
+fermo, che habbi in fine ad esser  ripartita a Durmont, et a Munster
+per assicurar quelle  doi piazze assai esposte al pericolo di sorpresa;
+ temendo l’Imperatore, o più tosto Spagnuoli, che Holandesi  possino
+servirsi della commodità, che li porgesse la  fortuna d’avanzarsi sotto
+il pretesto della protetione  che hanno presa del marchese di
+Brandemburgh;  ingelositi massime dalla colleganza, ch’essi hanno 
+stretta ultimamente con le città maritime; altrettanto cara  dall’altro canto alli
+principi dell’Unione. 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p><hi rend="italic">Foro nel supporto</hi>.</p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> dover
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento</hi>.</p>
+          </note>
+          <note xml:id="tn4">
+            <p><hi rend="italic">Segue lettera depennata</hi>.</p>
+          </note>
+          <note xml:id="tn5">
+            <p><hi rend="italic">Foro nel supporto</hi>.</p>
+          </note>
+          <note xml:id="tn6">
+            <p><hi rend="italic">Esito di correzione</hi>.</p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Aggiunto in sopralinea su</hi>
+  principal <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn8">
+            <p><hi rend="italic">Segue</hi> et
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

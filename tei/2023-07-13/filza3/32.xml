@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.73 date 1617-xx-7 </title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">73</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">218r-221v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-7 ">7 gennaio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">ricevei lunedì sera solamente il mio dispaccio ordinario, che mi <lb/>
+doveva capitar hieri otto. Tre furono le lettere di vostra Serenità <lb/>
+scritta a’ 16 del passato. Vorrei volontieri per augumento del <lb/>
+piacere, che mi significa haver sentito, che, all’avviso, che le diedi
+con le <lb/> con le mie de’ 28 di novembre dell’imbarco delle <lb/> prime
+compagnie fosse susseguitato quello dalla uscita in mare <lb/> di esse, et
+dell’altre, che furono doppo imbarcate. L’incontro <lb/> viene, come haverà
+la Serenità vostra inteso colle precedenti mie <lb/> dalla contrarietà de’
+venti, che pur non cessa, et mi <lb/> necessita non mutar stile, et replicar
+lo stesso; onde per <lb/> consequenza doverò riuscirle o tedioso, o molesto,
+come <lb/> a me stesso riesco impatiente, et fastidioso; pur dipen-<lb/>dendo il
+tutto dal volere di sua divina Maestà saranno <lb/> le Signorie vostre
+eccellentissime sollevate dalla loro singolar prudenza. <lb/> Non vi è
+memoria così recente, che sappi dire, che ’l vento del mezogiorno, che è
+a noi di diretto contrario <lb/> habbi havuto tanto predominio in questa
+stagione. <lb/> Un vassello picciolo, che non porta che sette over otto
+pezzi <lb/> di canone, chiamato Il corriero, del quale li signori Stati <lb/> si
+servono per inviar speditamente lettere in Inghilterra <lb/> et altrove, et
+sono obligati quelli, che lo governano <lb/> di uscir ad ogni minima
+apparenza di vento, ha <lb/> doi volte fatto vela fuori del porto di
+Roterdam <lb/> et sempre gli è convenuto rientrare in esso per salvarsi
+<lb/></p>
+          <pb xml:id="f218v" n="218v"/>
+          <p xml:id="p2">dalla tempesta del mare. Il signor principe Mauritio non lascia <lb/>
+passar hora, che non dimandi, che vento faccia; et il signor <lb/> conte
+Gio. Ernesto si lamenta della sua fortuna. Si aspetta <lb/> che questa nuova
+luna; che si fa hoggi in fine facci <lb/> girar il vento dalla parte di
+tramontana, o levante <lb/> che Dio benedetto lo voglia per contento delle
+Signorie vostre eccellentissime <lb/> et consolatione mia. <lb/></p>
+          <p xml:id="p3">Ha il signor Conte sentito gusto, che riesca di sodisfattione alla <lb/>
+Serenità vostra il viaggio, che ha risoluto di fare. Li è cara la <lb/>
+compagnia, ch’ella gli concede del signor Vimes, et più <lb/> cari
+gl’ordini, che gli ho detto <hi rend="italic">havere là <lb/> di
+già dati in grisoni et svizzeri</hi><ptr target="#tn1" n="1"/> <lb/> et poco doppo l’uscita di queste militie (che Dio <lb/> voglia
+possi ben tosto avvisarla) s’incaminerà per <lb/> venir a’ piedi della
+Serenità vostra. <lb/></p>
+          <p xml:id="p4">Io non mancarò di cavar il conto distinto, et particolare del denaro
+<lb/> del quale mi sono valso, et ho speso nell’occasione di <lb/> questa
+levata; et come l’haverò dispensato, et lo <lb/> manderò alla Serenità
+vostra, et invierò all’illustrissimo signor savio <lb/> di Terraferma alla
+scrittura li roli conforme al suo <lb/> commandamento. <lb/></p>
+          <p xml:id="p5">Intorno alla levata delli altri mille fanti haverà la <lb/> Serenità
+vostra inteso dalle mie precedenti il rispetto, che <lb/> mi ha trattenuto a
+non farne altro, et avanzandosi <lb/></p>
+          <pb xml:id="f219r" n="219r"/>
+          <p xml:id="p6">la stagione, et portando con essa la sicurezza dei geli, et per <lb/>
+consequenza l’impossibilità del poter cavar frutto per <lb/> questi doi mesi
+da questa parte non vedevo, che fosse <lb/> manco bene il farne alcun
+tentativo: vedute nondimeno <lb/> l’ultime lettere della Serenità vostra de’
+16 decembre ho gettata <lb/> qualche parola in discorrendo con alcuni; per
+intender <lb/> quale potesse esser l’intentione, et ho cavato, che al <lb/>
+certo incontrerei al presente difficoltà per doi rispetti, l’uno <lb/>
+perché si vorrà veder partite prima queste genti; <lb/> et l’altro, ch’è il
+più importante, et che tocca a questo <lb/> Stato, che niente non sano
+questi signori qual fine habbino <lb/> ad haver gl’affari di Cleves, et
+Giuliers non vorrebbono <lb/> privarsi di poter in ogni occorrenza haver
+quel nervo <lb/> di gente, che sarebbe con nuova permissione condotto <lb/>
+fuori; oltre che temerebbono, che non se ne levassero <lb/> delle vecchie,
+come sano molto bene, che se ne trovano <lb/> in buona quantità fra le
+truppe. Et mi disse il signor <lb/> ambasciator d’Inghilterra, che si teneva
+per certo che mille et <lb/> trecento, o quattrocento soldati fossero stati
+imbar-<lb/>cati di quelli, che erano in attual servitio. <lb/></p>
+          <p xml:id="p7">Hora essendovi questo suspetto, et concorrendovi dall’<lb/>altro canto il
+rispetto, che m’è stato considerato <lb/> del bisogno che pensano poter
+havere vicino non <lb/> veggo, che se ne possi per hora sperar frutto. Il
+signor Conte <lb/></p>
+          <pb xml:id="f219v" n="219v"/>
+          <p xml:id="p8">haverebbe sommo contento di haver quest’aggiunta al suo <lb/> reggimento
+perché gli servirebbe a maggior riputatione, <lb/> et vantaggio; ma
+anch’egli mi ha detto, che teme, <lb/> che non s’incontri bene;
+aggiungendomi, che non era fuor <lb/> d’opinione, che ’l signor principe
+Mauritio non se ne mostrasse <lb/> nell’interno contrario mentre haverebbe
+paura oltre a’ <lb/> soldati non poter negar la licenza a qualche altro
+capitano <lb/> ch’è quanto mi occorre dir riverentemente alla Serenità
+vostra <lb/> in questo particolare, al qual tuttavia haverò il pensiero <lb/>
+per valermi a tempo, et luoco dell’occasione, che mi si <lb/> potesse
+offerire. <lb/></p>
+          <p xml:id="p9">Quanto alla buona intelligenza con questi Signori, o reciproca <lb/>
+corrispondenza col mezo d’ambascieria, o di residenza <lb/> non mi è stato
+tocco in particolare più di quello mi parlò <lb/> l’Arsen<ptr target="#tn2" n="2"/> come riverentemente scrissi con le <lb/> mie de’ 28 novembre, et
+quanto aggiunsi con <lb/> l’altre de’ 17 et 24 del passato. In generale <lb/> si
+mostra buona volontà; ma si vuol caminar con <lb/> riserba, come la prudenza
+delle Signorie vostre eccellentissime <lb/> haverà sinhora molto ben
+compreso; et hora le <lb/> aggiungo haver cavato da qualche parole dette <lb/>
+da alcuni, che non credo, che questi signori vorranno <lb/> hora aprirsi; ma
+aspettar che queste genti partino, <lb/> et forse arrivino a Venetia; et uno
+di questi giorni <lb/></p>
+          <pb xml:id="f220r" n="220r"/>
+          <p xml:id="p10">mi fu detto dal signor Vandermil, che ’l signor Conte quando verrà <lb/>
+alla Serenità vostra servirà di preludio, accennandomi, che haverà <lb/>
+forse qualche commissione di complire a nome di questi signori. <lb/>
+Caminano qui molto circonspetti, vano cauti, et non <lb/> vorrebbono ne’
+presenti affari del mondo dar gelosia. <lb/> Io starò avvertito; secondo
+l’occasioni risponderò coi <lb/> prudenti avvertimenti della Serenità
+vostra; et di quello caverò <lb/> degno della notitia di lei, le<ptr target="#tn3" n="3"/> darò riverente <lb/> conto. Gratie etc. <lb/></p>
+          <p xml:id="p11">Dall’Haya<ptr target="#tn4" n="4"/> a’ 7 genaro 1617 <lb/></p>
+          <p xml:id="p12">di vostra Serenità <lb/></p>
+          <p xml:id="p13">humilissimo, et devotissimo servitore <lb/></p>
+          <p xml:id="p14">Christofforo Suriano <lb/></p>
+          <p xml:id="p15">/ 220v-221r /</p>
+          <p xml:id="p16">
+            <hi rend="italic">Bianche</hi>
+          </p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f221v" n="221v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">Prima <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 221vC /</p>
+          <p xml:id="ps6">7 gennaro 616<ptr target="#tn5" n="5"/> ricevute 25 detta <lb/></p>
+          <p xml:id="ps7">Secretario Surian dall’Haie prima <lb/></p>
+          <p xml:id="ps8">L. SS. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>havere … Svizzeri <hi rend="italic">testo cifrato non
+  decodificato in A.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Precede</hi> l’arsen
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Segue</hi> ma
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>-y- <hi rend="italic">esito di correzione</hi>.</p>
+          </note>
+          <note xml:id="tn5">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

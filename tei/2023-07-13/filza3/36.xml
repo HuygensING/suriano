@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.79 date 1617-xx-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">79</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">237bis r-239v, 242r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-14">14 gennaio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <pb xml:id="f238r" n="238r"/>
+          <p xml:id="p1">3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p2">Serenissimo Principe <lb/></p>
+          <p xml:id="p3">mi scrive il Pasini a’ 10 del mese presente haver fatto aper-<lb/>tura di
+negotio col conte Gio. Giacomo Belgioioso, et egli <lb/> gli haveva detto,
+che fra cinque o sei<ptr target="#tn1" n="1"/> giorni lo haverebbe <lb/> fatto andar a lui, che però stava
+attendendo, et quanto <lb/> havesse cavato o me lo haverebbe scritto, o
+sarebbe <lb/> venuto in persona a riferirmelo. Mi aggiunge, che <lb/> certo egli
+vuol mutar stanza, et<ptr target="#tn2" n="2"/> già ha venduto <lb/> gran parte di quanto possiede nei stati di sue
+Altezze <lb/> et particolarmente un castello per 170 mila franchi, et stava
+per <lb/> venderne un altro, havendo il comprator per mano. <lb/> Io di nuovo
+gli ho scritto<ptr target="#tn3" n="3"/> che attendi vivamente <lb/> ad eccitar esso Conte a condursi al
+servitio della Serenità vostra. <lb/> Et a questo proposito non lascierò di
+riverentemente dirle, che <lb/> sarebbe bene, che la Serenità vostra mi
+notificasse per quanto <lb/> tempo vorrebbe che si conducessero li soggetti,
+che si <lb/> offerissero: perché alcuni vorriano saper di haver <lb/> sicuro
+servitio, et potersi obligar per un tanto tempo. <lb/></p>
+          <p xml:id="p4">Mi ha il signor ambasciator d’Inghilterra fatto parlar con il
+colonello <lb/> Seratz del quale mi trattò la passata settimana, essendo <lb/>
+egli all’avviso d’esso Ambasciatore venuto da Usden <lb/> per far l’offerta,
+et dar le conditioni, che <lb/> mando qui aggiunte alla Serenità vostra. La
+presenza <lb/></p>
+          <pb xml:id="f238v" n="238v"/>
+          <p xml:id="p5">del soggetto è buona, la fede, che mi ha fatta esso Ambasciatore <lb/>
+del buon servitio che può prestare per la lunga isperienza <lb/> dell’arte
+militare è stata amplissima, et come ha detto <lb/> dipendente da quella
+devotione, che professa verso la <lb/> Serenità vostra: et mi ha detto di
+più, che potrà ella dimandar<supplied>e</supplied> <lb/> se così stimerà a proposito
+informatione di questo <lb/> al signor ambasciator Wton per tanto più
+assicurarsene. Egli <lb/> ha scritto lettere particolari, che mando al
+Caopena<ptr target="#tn4" n="4"/> per il ricapito. Saranno in tal prop<supplied>osito</supplied><ptr target="#tn5" n="5"/>. <lb/></p>
+          <p xml:id="p6">Già la Serenità vostra haverà intesa dalle precedenti lettere mie <lb/>
+le<ptr target="#tn6" n="6"/> cause<ptr target="#tn7" n="7"/>, che mi retineriano doppo la partenza di <lb/> queste militie a non
+ricercar nuova permissione <lb/> di levata, se però non trovassi la materia
+disposta <lb/> et per questo se havessi creduto non fallire haverei <lb/> data
+la carica a questo soggetto; ma dovendo <lb/> questo cavalliere far le genti
+in Inghilterra non so quello <lb/> che possi la Serenità vostra haver
+commesso da quella <lb/> parte se vogli di quella gente, o volendola <lb/> se si
+compiacerà, che si levi da quel Regno <lb/> con le conditioni del signor
+conte Gio. Ernesto. Io ne <lb/> starò attendendo l’avviso, et la risposta
+desiderata <lb/> dal detto cavalliere, et dal medesimo Ambasciatore. <lb/></p>
+          <p xml:id="p7">Vostra Serenità da questa parte ha ne’ vasselli quattromilla <lb/> fanti
+in circa imbarcati compresi ottocento levati <lb/></p>
+          <pb xml:id="f239r" n="239r"/>
+          <p xml:id="p8">colla commissione del Wassonhoven; et egli ha data patente <lb/> ad<ptr target="#tn8" n="8"/> uno di levarne altri trecento per <lb/> quello m’ha riferto acciò lo
+seguiti; sperando, che <lb/> la Serenità vostra sia per riceverli al suo
+servitio; et volontieri <lb/> haverei caro esser avvertito, se alcuno
+volesse colle <lb/> medesime conditioni del Wassonhoven levar genti (che non
+so <lb/> però se se ne trovarà) se<ptr target="#tn9" n="9"/> ella se ne contenterà; se <lb/> ben m’è stato riferto, che pareva,
+che un fratello <lb/> del già colonello Sciomburgh tanto caro al Palatino <lb/>
+ne havesse qualche intentione, quando fosse stato <lb/> sicuro di esser
+intertenuto. <lb/></p>
+          <p xml:id="p9">Il Stich, che doverà esser luocotenente del Wassonhoven <lb/> mi scrisse
+una lettera di Amsterdam in forma di <lb/> prender combiato<ptr target="#tn10" n="10"/> da me, dovendo partir per <lb/> la sua nave verso il Tessel. Et
+aggiunse, che <lb/> conduceva seco un deputato dell’amiralità <lb/> d’Amsterdam
+perché vedesse rasignar li suoi trecento <lb/> fanti nel vassello; et io a
+questo particolare <lb/> non ho rescritto per non auttorizar il concetto,
+che ’l tempo <lb/> cominci dall’imbarco, o mostra, come con altre mie <lb/> ho
+significato alla Serenità vostra; ma resti conforme <lb/> al capitulato col
+Wassonhoven; il che con buona <lb/></p>
+          <pb xml:id="f239v" n="239v"/>
+          <p xml:id="p10">maniera ho dato ad intender al fratello il residente<ptr target="#tn11" n="11"/> <lb/> di Brandemburgh, al quale diedi a legger la copia della <lb/>
+capitulatione, che ho cavata da quella del Wassonhoven; <lb/> et mi disse
+poi, che l’haveva havuta in fiamingo. <lb/></p>
+          <p xml:id="p11">Il Wassonhoven mi ha pregato di lettere di raccomandatione <lb/> per
+vostra Serenità ho prontamente sodisfatto all’instanza <lb/> di lui, et
+hoggi gliele ho date essendo venuto a prender <lb/> licenza da me per andar
+a Roterdam alla sua nave. Gratie etc. <lb/></p>
+          <p xml:id="p12">Dall’Haya a’ 14 genaro 1617 <lb/></p>
+          <p xml:id="p13">di vostra Serenità <lb/></p>
+          <p xml:id="p14">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p15">Christofforo Suriano <lb/></p>
+          <pb xml:id="f242r" n="242r"/>
+          <pb xml:id="f242v" n="242v"/>
+          <p xml:id="p16">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p17">3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p18">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="p19">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p20">/ 242vC /</p>
+          <p xml:id="p21">14 gennaro 1616<ptr target="#tn12" n="12"/> ricevute al primo febraro <lb/></p>
+          <p xml:id="p22">Secretario Surian dall’Haya
+3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p23">L. R. cum SS. <hi rend="italic"><lb/></hi></p>
+          <p xml:id="p24">n. 80</p>
+          <p xml:id="p25">Allegato I al n. 79 (cc. 240r-241v)</p>
+          <pb xml:id="f240r" n="240r"/>
+          <p xml:id="p26">In lettere di 14 gennaro 1616 del secretario Surian <lb/> dall’Haya <lb/></p>
+          <p xml:id="p27">In Aga<ptr target="#tn13" n="13"/> a’ 13 ganuario<ptr target="#tn14" n="14"/> 1617 <lb/></p>
+          <p xml:id="p28">Il signor cavalier Tomaso Gates si lascia intender <lb/> che con licenza
+conveniente de’ suoi superiori condorrà <lb/> al servitio della serenissima
+republica di Vinetia 1500 <lb/> fanti; facendo la levata in Inghilterra, et
+tutti <lb/> suddti di sua Maestà. <lb/></p>
+          <p xml:id="p29">Che quanto alla levata, la fare<ptr target="#tn15" n="15"/> con le medesime <lb/> conditioni del signor comte Giovanni Ernesto
+cioè <lb/> 14 fiorni per ciascuna testa per la levata, et per la <lb/> paga di
+soldati 1150 ducati di lire 6 soldi 4 di <lb/> Vinetia per ogni 150 teste al
+mese corrente, dando <lb/> un mese di paga al passar della mostra, la qual
+sarà <lb/> fatta al imbarco né prima sarà fatta la levata né la <lb/> mostra che
+le navi non siano in ordine di tutti li <lb/> apprestamenti<ptr target="#tn16" n="16"/> necessari tanto di viveri, quanto d’altri <lb/> il che dovrà esser
+veduta dal commissario che deputerà <lb/> la Republica. <lb/></p>
+          <p xml:id="p30">Per la provisione delle navi, intendi d’haver <lb/> 6000 fiorini o
+franchi, moneta d’Ollandia, per ogni <lb/> 200 teste, che fanno la somma di
+45 mila fiorini <lb/> dovendo esserli sborsati 25 mila a Londra et 20 mila
+al <lb/> suo arrivo in Venetia. <lb/></p>
+          <p xml:id="p31">Dovendo condur la gente ben armate, desidera <lb/> d’haver imprestito 10
+mila fiorini da esser scontate nel <lb/> secondo et 3° mese della paga.
+<lb/></p>
+          <p xml:id="p32">S’obligerà d’obedire alli eccellentissimi signori proveditori <lb/></p>
+          <pb xml:id="f240v" n="240v"/>
+          <p xml:id="p33">generali et ogni publico representante, et a quel <lb/> capo di guerra
+ch’havrà il supremo commando <lb/> del exercito, o vero al General della
+infanteria <lb/> o vero ad altro generale et supremo offitiale <lb/> tanto del
+corpo della Republica quanto strangiero <lb/> secondo ch’il servitio della
+serenissima Republica <lb/> ricercherà. <lb/></p>
+          <p xml:id="p34">S’obligerà di servir egli con tutte le sue gen<supplied>ti</supplied> <lb/> contra qualunque
+si sia tanto per mar quan<supplied>to</supplied> <lb/> per terra, in campagna, nelle piazze con
+le sue <lb/> troppe<ptr target="#tn17" n="17"/> unite o separate, come sarà commendato, <lb/> et ricercherà il
+servitio di sua Serenità. <lb/></p>
+          <p xml:id="p35">Quanto al proprio stipendio et quelli delli <lb/> altri supremi ufficiali
+necessari, si remette al <lb/> beneplacito di sua Serenità. <lb/></p>
+          <p xml:id="p36">Supplica il detto cavalier la serenissima Republica di <lb/> commendare
+a’ suoi representanti o ministri <lb/> tanto in Inghilterra quanto ne’ Paesi
+Bassi di far-<lb/>gli assistenza in quelli uffici che fussero stimati <lb/>
+necessari per la sua licenza et la levata. <lb/></p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f241r" n="241r"/>
+          <p xml:id="ps1">Questo cavalier è d’età 54 anni. Sono 38 <lb/> anni ch’ha comminciato a
+portar l’armi nel <lb/> servitio de’ signori Stati, et 27 con carico del
+Capitano. È stato impiegato della maestà della <lb/> Grande Brettagna come
+coronello in Irelandia <lb/> 17 anni sono. Ha fatto i viaggi con il cavalier
+<lb/> Francesco Draco alla presa di Cartagena et Santo <lb/> Dominico con
+commando d’una compagnia, è <lb/> stato alle imprese di Portugallo, et di
+Roan in <lb/> Francia col medesimo carico, et è stato col signor <lb/> conte
+d’Essex alle imprese delle isole Tercere <lb/> et di Calis in Spagna, et
+sempre li è stata riservata <lb/> la sua compagnia appresso gli signori
+Stati, come <lb/> ha attualmente al presente nella piazza d’Husedin. <lb/></p>
+          <p xml:id="ps2">/ 241vB /</p>
+          <p xml:id="ps3">Offerta del colonel Tomas Gaez <lb/></p>
+          <p xml:id="ps4">Nelle 3<hi rend="superscript">e</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Carta tagliata non numerata
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> già
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Segue</hi> ad
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Come pare.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p>ha scritto … tal prop<supplied>osito</supplied> <hi rend="italic">aggiunto
+  in sopralinea.</hi></p>
+          </note>
+          <note xml:id="tn6">
+            <p>-e <hi rend="italic">corretta su</hi>
+  -a<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p>-e <hi rend="italic">corretta su</hi>
+  -a<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p><hi rend="italic">Precede</hi> commissione
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn10">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn11">
+            <p><hi rend="italic">Prima</hi> -e-
+  <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn12">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn13">
+            <p><hi rend="italic">Così A</hi>.</p>
+          </note>
+          <note xml:id="tn14">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn15">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn16">
+            <p>-i <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn17">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

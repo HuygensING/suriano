@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.91 date 1617-xx-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">91</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">290r-291v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-20">20 luglio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">Dall’Haya a’ 20 luglio 1617 <lb/></p>
+          <p xml:id="p2">di vostra Serenità <lb/></p>
+          <p xml:id="p3">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p4">Christofforo Suriano <lb/></p>
+          <p xml:id="p5">/ 290v-291r /</p>
+          <p xml:id="p6">
+            <hi rend="italic">Bianche</hi>
+          </p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f291v" n="291v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps3">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps4">/ 291vC /</p>
+          <p xml:id="ps5">20 luglio 1617 ricevuta a’ 4 settembre <lb/></p>
+          <p xml:id="ps6">Haya <lb/></p>
+          <p xml:id="ps7">Accompagna colle presenti <lb/> il capitan Gio. de Mario <lb/></p>
+          <p xml:id="ps8">L. C<hi rend="italic">.</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							fin dal principio, che venni a questa residenza mostrò il  signor
+capitan Gio. de Mario desiderio di venir al servitio della  Serenità
+vostra. Se gl’offerse l’occasione col signor conte Gio. Ernesto di 
+Nassau; ma restò per qualche accidente interrotta; et conti-nuando pure
+in lui la medesima buona volontà, vedendo caminar  il tempo innanti
+alla speditione della levata del signor conte di Levenstein  con chi
+doveva esser sargente maggiore ha risoluto non tardar  più. Hora se ne
+passa a’ piedi della Serenità vostra, et ad offerirle  di servir colla
+sua persona sola; et farà esshibitione  insieme di far levata di genti
+da questi paesi perché  commandi ella quello, che stimerà di suo
+maggiore servitio.  Del valore di lui, et dell’habilità sua nella
+professione  dell’armi ne rende pieno testimonio il signor principe 
+Mauritio nelle sue lettere, colle quali l’accompagna  a vostra
+Serenità, come anco li signori Stati Generali favorevolmente lo trattano
+ et lo raccommandano; et io ho stimato mio debito dargli  le presenti
+per la Serenità vostra in testimonio della conoscenza  che ho di lui,
+il quale colle patenti, et colle fedi, che  ha de’ servitii prestati in
+questi paesi nelle guerre  passate; et nell’ultime di Giuliers, et
+Bransuich si farà  conoscer a lei proprio per esser impiegato, et col
+valore,  et isperienza che possede, et per la devotione grandissima,
+che  professa verso quella serenissima Republica degno d’esser honorato
+ dalla gratia sua. Gratie etc. 
+						</p>
+        </div>
+        <div type="transcription_notes"/>
+      </div>
+    </body>
+  </text>
+</TEI>

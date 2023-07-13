@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.100 date 1617-xx-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">100</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">295r-296v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-14">14 febbraio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">Dall’Haya a’ 14 febraro 1617 <lb/></p>
+          <p xml:id="p2">di vostra Serenità <lb/></p>
+          <p xml:id="p3">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p4">Christofforo Suriano <lb/></p>
+          <p xml:id="p5">/ 295v-296r /</p>
+          <p xml:id="p6">
+            <hi rend="italic">Bianche</hi>
+          </p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f296v" n="296v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">Signor signor colendissimo <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 296vC /</p>
+          <p xml:id="ps6">14 febraro 1617 ricevute <lb/></p>
+          <p xml:id="ps7">L. C. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							il signor Gio. Seghers de Wassonhoven col consiglio, come  ha detto
+de’ signori Stati Generali, et coll’assenso de’ suoi capitani  et de’
+patroni dei vasselli doppo haver dati buoni ordini  per la soldatesca
+imbarcata parte per venirsene  per la via di terra a’ piedi di vostra
+Serenità affine di saper  il luoco, ove doveranno far capo le sue genti
+quand’ella non volesse, che arrivassero a Venetia conforme  al
+concertato nella sua capitulatione: per tanto  così pregato da lui lo
+accompagno colle presenti, oltre  quelle che gli diedi a’ 14 del mese
+passato, attestandole  di nuovo haver egli fatto ogni possibile per
+adempir  l’obligo suo. Gratie etc. 
+						</p>
+        </div>
+        <div type="transcription_notes"/>
+      </div>
+    </body>
+  </text>
+</TEI>

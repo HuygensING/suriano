@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.4 date 1617-03-4</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>Ruben Celani</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">4</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">10r-11v, 14r-15v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>The Hague</settlement>
+          <date when="1617-03-04">4 marzo 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+            <p xml:id="p1"> Serenissimo Principe <lb/> dall’aggiunta lista quelle delle Signorie vostre eccellentissime, che
+ne have-<lb/>ranno gusto, vedranno il nome de’ capitani d’infanteria <lb/> et
+cavalleria, che si leva in Brabant. Si fanno le <lb/> compagnie in
+grandissima fretta, et saranno ben presto <lb/> ad ordine per far mostra.
+  Ancorché si sia inteso, che <lb/> lo <rs type="pers" key="as">Spinola</rs> habbi cercato di accordar con
+li Anoni condo-<lb/>tieri d’Italia per condur moschetti, et altre armi, <lb/>
+tutti non credino, che siano per Italia. Il Pasini mi <lb/> scrive, che le
+genti, che si levano dovevano servir per <lb/> Milano per quanto si
+publicava; ma (aggiunge) <lb/> che persona d’auttorità haveva affermato, che
+<lb/> esse genti non haverebbono passati i monti. <lb/></p>
+          <p xml:id="p2">Oltre le sudette levate in Brabant si sente che da <lb/> ogni banda si
+fano genti et per il Christianissimo, et per li <lb/> principi mal contenti
+tanto nel paese di Lieges, <lb/> quanto in Alemagna, et anco dalli stessi
+principi <lb/> dell’Unione; et già alcuni giorni partì il colonello <lb/> Ghent
+alla volta di Cleves, ove l’aspettavano <lb/> lettere, et commissioni del
+marascial di Buglione <lb/> per far mille cavalli: stano per tanto questi
+signori <lb/> in gran dubio, ove finalmente habbi a parar <lb/></p>
+          <pb xml:id="f10v" n="10v"/>
+          <p xml:id="p3">questo negotio, et non si sano risolver ad alcuna cosa. <lb/></p>
+          <p xml:id="p4">Oltre di ciò stano occupati nell’accommodar le differenze <lb/> di
+religione, et in tutti questi giorni non si è atteso ad <lb/> altro, che
+alla riduttione della Congregatione di <lb/> Holanda coll’esservi sempre
+presente il signor principe <lb/> Mauritio, che ha l’assistenza delle
+principali città <lb/> di questa provincia, come Amsterdam, Encusen,
+Dor-<lb/>drechet, et altre. Si consulta, et si disputa <lb/> l’affare, né ancor
+vi si è trovato il buon ripiego <lb/> è stato proposto di deputar sette
+politici, et <lb/> sette ecclesiastici de’ più<ptr target="#tn1" n="1"/> sensati, perché colla maturità de’ <lb/> pareri, et de’ consigli
+portino il vero antidotto al <lb/> mal intestino. Viene trovata buona la
+propositione, <lb/> ma tutto sta quello che haverà ad esser nell’interim <lb/>
+perché quelli della vecchia religione, che chiamano gomo-<lb/>risti, et de’
+quali ha la protettione sua Eccellenza non vo-<lb/>gliono ammetter quelli
+della nuova nominati <lb/> arministi, ancorché questi si contentino, che li
+<lb/> gomoristi siano unitamente insieme. Dicono questi <lb/> che essendo la
+loro la vecchia, et la prima professa <lb/> in questi paesi (<ptr target="#tn2" n="2"/>et per la quale si sono vendicati in <lb/></p>
+          <pb xml:id="f11r" n="11r"/>
+          <p xml:id="p5">libertà vogliono prima, che questa sia accettata in <lb/> ogni città, et
+poi si parli dell’altra, asserendo<ptr target="#tn3" n="3"/> <lb/> alcuni, che s’ella non era la buona sia stato anco male <lb/> col
+pretesto di essa il scostarsi dal principe naturale. <lb/></p>
+          <p xml:id="p6">Vi è chi propone il farsi un sinodo provinciale; ma molti <lb/> disentono
+per non dar l’auttorità a’ predicanti in queste <lb/> materie. In tale stato
+si trovano le cose, et li buoni <lb/> patrioti sono in grandissima pena, pur
+si spera, che <lb/> tutto in fine sia per acquetarsi con reciproca<ptr target="#tn4" n="4"/> sodi-<lb/>sfattione. <lb/></p>
+          <p xml:id="p7">Havendomi ultimamente visitato il signor Arsen, entrato in <lb/> discorso
+delle cose correnti di religione, comiserò <lb/> lo stato, et la partialità,
+che vi si vedeva; et <lb/> a tal proposito mi disse, che anco questo
+impe-<lb/>diva, che ’l negotio di più stretta congiontione con <lb/> la Serenità
+vostra di che per<ptr target="#tn5" n="5"/> avanti mi haveva discorso <lb/> non si proseguisse il concetto de’
+più buoni di far <lb/> apertura di negotio con<ptr target="#tn6" n="6"/> lei; che non era <lb/> dubio, che vi erano di quelli, che asserivano
+<lb/> esser già l’apertura stata fatta fare col <lb/> mezo del signor Vandermil,
+et che allhora non era <lb/></p>
+          <pb xml:id="f11v" n="11v"/>
+          <p xml:id="p8">stato dato d’orrecchie, et però haverebbono voluto che <lb/>
+quest’apertura hora venite dalla Serenità vostra il qual <lb/> pensiero ho
+inteso da qualche altra parte; et esso <lb/> Arsen disse, ch’egli stimava,
+che dovesse caminarsi <lb/> col metodo proprio, et era che di qua si dovesse
+<lb/> parlare. Questo è amato da sua Eccellenza che ama anco, per <lb/> quanto
+egli mi ha affermato, l’adrizzo di questo negotio; <lb/> et
+consequentemente<ptr target="#tn7" n="7"/> non è della fattione del signor Bernvel. <lb/></p>
+          <p xml:id="p9">Si trova qui di passaggio il secondo genito del signor marchese <lb/> di
+Bada giovane di disdotto anni in circa et di buon spirito. <lb/> Viene hora
+di haver veduta l’Inghilterra, et pensa di partir <lb/> la prossima
+settimana alla volta di Durlach. Io ho <lb/> stimato bene subito arrivato
+andar a vederlo, <lb/> et complir seco; et egli è venuto a revisitarmi <lb/> et
+nell’uno, et l’altro congresso ha mostrato un <lb/> desiderio ardente di
+poter un giorno esser servitor <lb/> di quella serenissima Republica, et mi
+disse in particolare che <lb/> non haverebbe mancato<ptr target="#tn8" n="8"/> di procurar di rendersene capace <lb/> et io l’ho ringratiato della
+sua ottima volontà. <lb/></p>
+          <p xml:id="p10">Il Pasini mi dice nelle ultime lettere, che ’l Studder<ptr target="#tn9" n="9"/> <lb/> presto si metterà in camino per venir a servir <lb/></p>
+          <pb xml:id="f14r" n="14r"/>
+          <p xml:id="p11">la Serenità vostra, come anco l’alfier Michiel Pagani; che <lb/> sperava
+di accordar il capitan Giulio Cesare Pozzo; <lb/> et che ’l conte Gio.
+Giacomo Belgioioso haveva presi doi <lb/> di quelli alfieri, che haveva in
+disegno di inviar <lb/> al servitio di lei, per valersene in questa levata
+per Francia. <lb/></p>
+          <p xml:id="p12">È tornato a me il mercante, che ha fatta assistenza <lb/> al Wassonhoven
+con altri suoi compagni, pregandomi <lb/> di nuovo per l’esborso di qualche
+summa di denaro <lb/> et hanno fatto venir anco doi de’ signori Stati
+Generali <lb/> a parlarmene; li quali ho rimandati sodisfatti <lb/> di quanto ho
+loro detto per mio scarico, mentre il <lb/> Wassonhoven ha negato di voler
+da me quanto gli <lb/> offersi, et ha fatto il viaggio per costì
+accompa-<lb/>gnato da uno mandato dalli interessati per ricever <lb/> denari.
+Essi mercanti mi hanno supplicato di <lb/> nuovo di scriverne a vostra
+Serenità et io la prego insieme <lb/> darmi quell’ordine, che stimerà
+proprio per <lb/> risponderli: affineché queste genti non restino mal <lb/>
+contente, vedend’io molto bene, che vi corre <lb/> dell’interesse de’
+principali, et starò con desi-<lb/>derio attendendo la risposta. Gratie etc.
+<lb/></p>
+          <p xml:id="p13">Dall’Haya a’ 4 marzo 1617 <lb/></p>
+          <p xml:id="p14">di vostra Serenità <lb/></p>
+          <p xml:id="p15">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p16">Christofforo Suriano <lb/></p>
+          <p xml:id="p17">/ 14v-15r /</p>
+          <p xml:id="p18">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <pb xml:id="f15v" n="15v"/>
+          <p xml:id="p19">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p20">2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="p21">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="p22">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p23">/ 15vC /</p>
+          <p xml:id="p24">4 marzo 1617 ricevute 22 detto <lb/></p>
+          <p xml:id="p25">Haya. 2<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p26">L. SS. R. <lb/></p>
+          <p xml:id="p27">n. 5</p>
+          <p xml:id="p28">Allegato I al n. 4 (cc. 12r-13v)</p>
+          <pb xml:id="f12r" n="12r"/>
+          <p xml:id="p29">Relatione delle compagnie, che si levano in Brabante <lb/> a nome del re
+di Spagna per Italia come dicono <lb/></p>
+          <p xml:id="p30">Primieramente dieci compagnie di cavalleria, li capitani <lb/> delle
+quali sono <lb/></p>
+          <p xml:id="p31">Monsignor de Wittenhorst <lb/></p>
+          <p xml:id="p32">Arnolt de Saint Genois <lb/></p>
+          <p xml:id="p33">Pierre de Noeufrourt<ptr target="#tn10" n="10"/> <lb/></p>
+          <p xml:id="p34">Don Jean de Colas <lb/></p>
+          <p xml:id="p35">Jacques Baubort <lb/></p>
+          <p xml:id="p36">Gabriel de Chasteler signor d’Ansermon <lb/></p>
+          <p xml:id="p37">Il signor di Maleure <lb/></p>
+          <p xml:id="p38">Pierre Regnault <lb/></p>
+          <p xml:id="p39">Liny de Joeuene <lb/></p>
+          <p xml:id="p40">Monsignor de Wyngarde. <lb/></p>
+          <p xml:id="p41">Seguitano li nomi de’ capitani del regimento <lb/> del signor de Coing
+<lb/></p>
+          <p xml:id="p42">Prima la compagnia del Colonello <lb/></p>
+          <p xml:id="p43">Carlo de Bria figliolo del governator di Marimburg <lb/></p>
+          <p xml:id="p44">Carlo Doignies <lb/></p>
+          <p xml:id="p45">Pierre de Bonniers <lb/></p>
+          <p xml:id="p46">Theodoro Carmego <lb/></p>
+          <p xml:id="p47">Carlo d’Ische <lb/></p>
+          <p xml:id="p48">Carlo Salmier <lb/></p>
+          <p xml:id="p49">Nicolas Richard <lb/></p>
+          <p xml:id="p50">Hancelot d’Haussart<ptr target="#tn11" n="11"/> <lb/></p>
+          <p xml:id="p51">Nicolas d’Andelot <lb/></p>
+          <p xml:id="p52">Simon Quesnoy <lb/></p>
+          <p xml:id="p53">Philippo de Loqueingrin figliolo del baron di Pamele</p>
+          <pb xml:id="f12v" n="12v"/>
+          <p xml:id="p54">Gerard Schadict <lb/></p>
+          <p xml:id="p55">Eustachio de Brossy <lb/></p>
+          <p xml:id="p56">Guillaume de Haer. <lb/></p>
+          <p xml:id="p57">Item li nomi de’ capitani del reggimento di <lb/> don Guglielmo de
+Verdugo <lb/></p>
+          <p xml:id="p58">La compagnia del maestro di campo <lb/></p>
+          <p xml:id="p59">Nicolas de Marche <lb/></p>
+          <p xml:id="p60">Pierre Frey <lb/></p>
+          <p xml:id="p61">Nicolas de Laittres <lb/></p>
+          <p xml:id="p62">Monsignorr Steenhuysse <lb/></p>
+          <p xml:id="p63">Monsignor de Beauregard <lb/></p>
+          <p xml:id="p64">Jan de Hayns <lb/></p>
+          <p xml:id="p65">Monsignor Vander Beecke <lb/></p>
+          <p xml:id="p66">Don Francesco de Tympel<ptr target="#tn12" n="12"/> <lb/></p>
+          <p xml:id="p67">Monsignor Vander Hoot <lb/></p>
+          <p xml:id="p68">Gillis Anceau <lb/></p>
+          <p xml:id="p69">Le signeur de la Coye <lb/></p>
+          <p xml:id="p70">Le Baron de Saint Martin <lb/></p>
+          <p xml:id="p71">Anthoine de Binderen <lb/></p>
+          <p xml:id="p72">Pierre Tellier detto Camergo.</p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f13r" n="13r"/>
+          <p xml:id="ps1">/ 13vB /</p>
+          <p xml:id="ps2">Lista delli<ptr target="#tn13" n="13"/> capitani delle compagnie <lb/> di<ptr target="#tn14" n="14"/> cavallaria<ptr target="#tn15" n="15"/> et fantaria<ptr target="#tn16" n="16"/> che se <lb/> levano in Brabante <lb/></p>
+          <p xml:id="ps3">nelle 2<hi rend="superscript">de</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p><hi rend="italic">Segue</hi> p
+  <hi rend="italic">depennata.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p>
+              <hi rend="italic">Parentesi aperta non seguita da
+  analoga chiusa.</hi>
+            </p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Segue</hi> che
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p><hi rend="italic">Seconda</hi> -c-
+  <hi rend="italic">corretta su</hi>
+  -f-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn5">
+            <p><hi rend="italic">Corretto su</hi>
+  mi<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn6">
+            <p><hi rend="italic">Segue</hi> vostra Serenità
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p>-em(en)te <hi rend="italic">esito di
+  correzione.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn9">
+            <p><hi rend="italic">-</hi>de-
+  <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn10">
+            <p><hi rend="italic">Seconda</hi> -r-
+  <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn11">
+            <p>H- <hi rend="italic">corretta su</hi>
+  A-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn12">
+            <p>-p- <hi rend="italic">corretta su</hi>
+  -l-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn13">
+            <p>-i <hi rend="italic">corretta da</hi>
+  -e-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn14">
+            <p>capitani delle <hi rend="italic">corretto su</hi>
+  compagnie de<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn15">
+            <p>-a <hi rend="italic">corretta su</hi>
+  -e-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn16">
+            <p>-a <hi rend="italic">corretta su
+  -</hi>e-<hi rend="italic">.</hi></p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.68 date 1616-xx-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">68</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">204r-206v, 213r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1616-xx-31">31 dicembre 1616</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">il signor ambasciator d’Inghilterra per haver qualche risposta a
+quanto propose <lb/> a nome del suo Re nell’affare di Cleves, et Giuliers
+l’ha sollecitata<ptr target="#tn1" n="1"/> <lb/> appresso questi signori Stati, et l’ha havuta del tenore, che
+vedrà la Serenità vostra <lb/> in copia; sopra che il medesimo signor
+Ambasciator mi disse che gli era stata <lb/> data per provisione, et
+l’haveva ispedita a sua Maestà perché concer-<lb/>tasse la prorogatione del
+tempo. A me<ptr target="#tn2" n="2"/> è stato riferto, <lb/> che, oltre quello, ch’è in scritto gli sono
+anco stati coll’assenso <lb/> del residente del marchese di Brandemburgh
+considerati <lb/> li consigli, che l’Imperatore haveva havuti dal cardinal
+Gliselio <lb/> et da qualche altro ministro, che uscite le genti sua Maestà
+Cesarea <lb/> o col mezo di sequestro, o coll’aiuto degl’istessi Spagnuoli <lb/>
+si facesse patrone di tutto il Paese; fu considerato il pregiu-<lb/>dicio
+de’ communi interessi, et del general de’ principi pretensori, <lb/> che
+sarebbono dispossessati per sempre di detti beni, et l’altra <lb/>
+consideratione è stata, che si deve mirar a non dar mag-<lb/>giori forze a’
+Spagnuoli da valersene in Italia: perché <lb/> non essendo messo in effetto
+dall’Imperatore quant’era detto, si <lb/> poteva creder, che liberi
+Spagnuoli da intertenir militie <lb/> et cavalleria in quelle piazze, di
+questa particolarmente <lb/> se havessero valso per mandarla in Italia
+contra il signor duca <lb/> di Savoia, o per servitio dell’arciduca
+Ferdinando <lb/> contra la serenissima Republica; che come in sua Maestà è
+pensiero <lb/></p>
+          <pb xml:id="f204v" n="204v"/>
+          <p xml:id="p2">di evitar ogni inconveniente, che si potesse suspettar poter <lb/>
+avvenir da quella parte; così era necessario per benificio del <lb/>
+negotio, et per servitio, et conservatione degl’amici, et delle <lb/> cose
+d’Italia applicar l’animo, et preveder lontano il male <lb/> per oviarli.
+Non mi disse il signor ambasciator d’Inghilterra cosa alcuna di <lb/> questo
+discorso, o considerationi; ma ben mi affermò, che <lb/> questi signori
+hanno grandemente l’occhio allo stato presente delli <lb/> affari del mondo,
+et agl’interessi dell’Italia. Ha mostrato <lb/> meco restar sodisfatto di
+quanto sin qui hanno risoluto <lb/> far dir a sua Maestà, et teneva per
+fermo, ch’ella haverebbe <lb/> ricevuto in bene la risolutione. <lb/></p>
+          <p xml:id="p3">Uscì poi a dimandarmi se io havevo inteso, che l’eccellentissimo
+signor <lb/> Ottaviano Bon fosse per passar in Inghilterra. Io dissi che
+non; <lb/> et egli replicò il signor di Langarach da Parigi lo scrive <lb/> a
+questi Signori, dicendo, che non contento esso eccellentissimo signor
+Bon <lb/> delle risolutioni di corte nel suo negotiato intorno <lb/> alli affari
+de’ Grisoni, sia per lasciar la continuatione <lb/> della materia
+all’eccellentissimo signor ambasciator Gussoni, et passar <lb/> in
+Inghilterra, et di là venirsene qui a far qualche <lb/> amorevol ufficio, et
+che a lui ancora veniva scritto <lb/> altrettanto; et dicendo io pure, che
+non ne sapevo <lb/> alcuna cosa; soggiunse Veramente stimerei l’andata <lb/></p>
+          <pb xml:id="f205r" n="205r"/>
+          <p xml:id="p4">di quel signore opportuna in Inghilterra perché, se bene il signor
+secretario Lionello <lb/> bisogna dirlo essendo così in effetto vero colla
+sua gratiosa <lb/> maniera di procedere, et di trattare si rende grato a sua
+Maestà <lb/> et a tutti li suoi officiali, et fa bene il servitio di sua
+Serenità <lb/> è però attorniato dall’ambasciator di Spagna, da quello <lb/>
+delli arciduchi, dal secretario di Fiorenza, et da qualche <lb/> altro
+ministro poco amorevole, onde se il signor ambasciator Bon <lb/> passerà a
+sua Maestà farà un gran buon servitio massime <lb/> nelle presenti
+occorrenze del mondo, et dico ciò per la <lb/> riverenza, che porto alla
+serenissima Republica. Sono molti <lb/> giorni, che il medesimo Ambasciatore
+mi addimandò quando <lb/> sarebbe andato in Inghilterra il signor
+ambasciator Donato: aggiun-<lb/>gendo, che ’l signor ambasciator Cont(arin)i
+<lb/> al partir suo di Parigi tor-<lb/>nando a Venetia poteva far il viaggio per
+veder <lb/> quel Regno, et visitar sua Maestà (a che confesso, che per <lb/>
+allhora non ne feci reflesso) et pur hora non so imagi-<lb/>narmi il fine
+perché questo Ministro habbi parlato <lb/> così, et al presente mi habbi
+voluto far apparer necessaria <lb/> o opportuna l’andata
+dell’eccellentissimo Bon al suo Re <lb/> se non fosse che l’ambitione, o il
+desiderio d’esser hono-<lb/>rati, et particolarmente con ambasciata così
+principale <lb/> et con la persona di tanto senatore promovesse il concetto
+<lb/></p>
+          <pb xml:id="f205v" n="205v"/>
+          <p xml:id="p5">mentre veggono non poter l’eccellentissimo signor ambasciator Donato
+per <lb/> li motivi, et occorrenze presenti del<ptr target="#tn3" n="3"/> Piemonte <lb/> abandonar la residenza appresso il signor duca di
+Savoia; <lb/> ma tutto è proprio della prudente consideratione della
+Serenità vostra. <lb/></p>
+          <p xml:id="p6">Li signori Stati questa mattina mi hanno mandata la risposta in <lb/>
+scritto alla propositione che feci la passata settimana. Sarà qui <lb/>
+aggiunta la traduttione, ch’è in conformità de’ precedenti termini <lb/> che
+hanno usato meco nelle altre risposte. <lb/></p>
+          <p xml:id="p7">Oltre quello, che me ne ha detto il signor ambasciator d’Inghilterra
+so che <lb/> continuano nel pensare alle cose d’Italia, et agl’interessi del
+signor <lb/> duca di Savoia. <lb/></p>
+          <p xml:id="p8">Corrono qui gl’avvisi, ch’egli habbi gran assistenza dalla <lb/> parte di
+Francia fattagli da monsignor di Diguieres; et <lb/> aspettano qualche nuova
+de’ buoni successi. <lb/></p>
+          <p xml:id="p9">Io ho tentato, et fatta ogni diligente inquisitione per cavar ciò <lb/>
+che havesse nel suo secreto quel soggetto, che si offerse di <lb/> revelar
+negotio di momento alla Serenità vostra affermando il <lb/> premio, che ne
+poteva sperare, et che sarebbe stato per <lb/> appunto tale quale
+l’importanza dell’affare l’havesse <lb/> meritato, et che di tanto si poteva
+assicurare anco sen<supplied>za</supplied> <lb/> obligo precedente. Mostrò far stima
+dell’offerta; ma <lb/> è stato saldo però nel non voler uscire, asserendo,
+chi <lb/></p>
+          <pb xml:id="f206r" n="206r"/>
+          <p xml:id="p10">senza haver alcuna cosa in mano per esser premiato in negotio di <lb/>
+gravissimo momento non si sapeva risolver; che se pareva <lb/> grande la
+dimanda volontieri l’haverebbe in qualche <lb/> parte regolata: pur in fine
+replicando io quel più, che <lb/> stimai a proposito ho cavato questo tanto
+che l’impresa è <lb/> de’ Spagnuoli uniti con la casa d’Austria con disegno
+d’impa-<lb/>tronirsi nel golfo servendosi di pretesti plausibili, et tanto <lb/>
+sicuramente faranno<ptr target="#tn4" n="4"/> la botta se egli non dichiara la maniera, come <lb/> si possi
+contraminare, quanto cosa più facile a farsi; che <lb/> sapeva come, dove,
+et quando havevano a prender il <lb/> negotio a mano, di qual mezi si
+havevano a valere, et <lb/> con questi si sarebbono a man salva condotti a
+spogliar <lb/> quella serenissima Republica di così lungo dominio di quel
+mare. <lb/> La facilità vi era di ostare all’eminenza del pericolo, et egli
+<lb/> la poteva dichiarire, et pertanto sarebbe venuto in persona <lb/> a
+Venetia<ptr target="#tn5" n="5"/> a propalar il fatto accordate le conditioni, et quanto <lb/>
+ricerca, come vedrà nell’aggiunta scrittura. Mi ha <lb/> fatto veder
+lettere, colle quali viene sollecitato dalla <lb/> parte di Viena<ptr target="#tn6" n="6"/> ad andar in quella città, et sono per quanto <lb/> ho potuto vedere
+<hi rend="italic">del</hi><ptr target="#tn7" n="7"/> <hi rend="italic">conte di Altemps</hi> <lb/> afferma
+tuttavia esser il negotio grave, et degno <lb/> di pervenir prontamente alla
+notitia della Serenità vostra <lb/></p>
+          <pb xml:id="f206v" n="206v"/>
+          <p xml:id="p11">per suo servitio. La prudenza delle Signorie vostre eccellentissime
+potrà venir <lb/> a quella risolutione, che più le parerà propria. Et per me
+<lb/> (sia reverentemente detto) stimerei bene, ch’elle nell’accordar <lb/> le
+cose, che ricerca (se pur verranno a questo), l’obligassero <lb/> a venir a
+suoi piedi perché tanto maggiormente si assicurarebbo<supplied>no</supplied> <lb/> del fatto,
+et della persona per haverlo pronto a valersi di lu<supplied>i</supplied> <lb/> in quello che
+lo stimassero<ptr target="#tn8" n="8"/> proprio per l’affare; et si sincerereb-bono insieme se l’offerta
+ha in sé la sussistenza, che <lb/> promette con tanta asseverenza, et ciò
+parmi che sarebbe <lb/> suo maggior servitio. Gratie etc. <lb/></p>
+          <p xml:id="p12">Dall’Haya a’ 31 decembre 1616 <lb/></p>
+          <p xml:id="p13">di vostra Serenità <lb/></p>
+          <p xml:id="p14">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p15">Christofforo Suriano <lb/></p>
+          <pb xml:id="f213r" n="213r"/>
+          <pb xml:id="f213v" n="213v"/>
+          <p xml:id="p16">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p17">Prima <lb/></p>
+          <p xml:id="p18">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="p19">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p20">/ 213vC /</p>
+          <p xml:id="p21">31 decembre 1616 ricevute a’ 18 gennaro <lb/></p>
+          <p xml:id="p22">Secretario Surian dall’Haya prima <lb/></p>
+          <p xml:id="p23">1. L’ambasciator d’Inghilterra ha spedito al Re la <lb/> risposta de’
+signori Stati nel negotio di Cleves, <lb/> per concertar prorogatione del
+tempo. <lb/></p>
+          <p xml:id="p24">Discorso de’ dissegni dell’Imperatore circa <lb/> quello Stato: et che
+Spagnoli potrebbono <lb/> valersi di quelle forze in Italia. <lb/></p>
+          <p xml:id="p25">2. L’ambasciator d’Inghilterra discorre sopra <lb/> l’andar
+dell’ambasciator Bon<ptr target="#tn9" n="9"/> in Inghilterra. <lb/></p>
+          <p xml:id="p26">Dimanda dell’ambasciator Donado, <lb/> parla dell’ambasciator Cont(arin)i
+che potesse <lb/> passar per quel Regno. <lb/></p>
+          <p xml:id="p27">Discorso del secretario del loro fine. <lb/></p>
+          <p xml:id="p28">3. Manda la risposta de’ signori Stati <lb/> alli uffici, con li termini
+soliti. <lb/></p>
+          <p xml:id="p29">Pensano alle cose d’Italia et di Savoia. <lb/></p>
+          <p xml:id="p30">Assistenza di Dighieres fa spe-<lb/>rare buoni successi. <lb/></p>
+          <p xml:id="p31">4. Manda scrittura di quello che dice <lb/> di revelar disegno de’
+Spagnoli in Colfo. <lb/> Et dice quello ch’egli gli ha detto, offe-<lb/>rendosi
+(quando sian accordate le promesse) di venir a Venetia. <lb/></p>
+          <p xml:id="p32">L. SS. R. <lb/></p>
+          <p xml:id="p33">n. 69</p>
+          <p xml:id="p34">Allegato I al n. 68 (cc. 207r-v, 212r-v)</p>
+          <pb xml:id="f207r" n="207r"/>
+          <p xml:id="p35">Risposta delli signori Stati Generali alla propositione del <lb/>
+secretario Suriano <lb/></p>
+          <p xml:id="p36">Sopra la propositione fatta per parte della serenissima republica di
+Venetia <lb/> alli signori Stati Generali de’ Paesi Bassi Uniti dal signor
+Christofforo Suriano <lb/> residente presso di essi, et secretario di stato
+secreto della detta Republica <lb/> a’ 23 di questo mese di decembre
+dichiarano li medesimi signori Stati <lb/> ancora in conformità della loro
+precedente risposta fatta <lb/> al detto signor secretario a bocca; che per
+longa isperienza conoscono <lb/> insieme con la detta serenissima Republica
+le massime, intentioni, et <lb/> disegni de’ Spagnuoli esser di
+signoreggiare sopra tutti li re, <lb/> principi, republiche, et stati, che
+desiderano<ptr target="#tn10" n="10"/> mantener la <lb/> loro libertà, et darli legge secondo la loro
+volontà; essendo <lb/> causa che<ptr target="#tn11" n="11"/> li detti signori Stati per assicurar, et conservar il suo <lb/>
+Stato contra li detti disegni, maneggiamenti, trattati, et <lb/> pratiche
+de’ Spagnuoli, trattengono ordinariamente in loro servitio <lb/> sì gran
+numero di genti da guerra tanto da cavallo, quanto <lb/> da piede, et
+parimente provisti di artiglierie, et munitioni <lb/> da guerra per
+servirsene nell’occasioni secondo il bisogno, <lb/> et necessità; parimente
+con ogni prontezza al soccorso dei <lb/> loro collegati, et amici come si è
+veduto doppo poco, et <lb/> come fano ancora al presente, detornando, et
+divertendo <lb/> tante forze de’ Spagnuoli, che altrimenti potrebbono
+impie-<lb/>gare o contra il duca di Savoia direttivamente, et <lb/> apertamente,
+o indirettamente, et copertamente all’assistenza <lb/> dell’arciduca
+Ferdinando d’Austria contra la detta <lb/></p>
+          <pb xml:id="f207v" n="207v"/>
+          <p xml:id="p37">serenissima Republica nel che dimorano<ptr target="#tn12" n="12"/> tanto più risoluti di conti -<lb/>nuar, sperando (come lo bramano di
+tutto lor cuore) che <lb/> tutti gli altri re, principi, republiche, et
+stati interessati <lb/> nella grandezza, et prosperità delli Spagnuoli,
+faranno il <lb/> medesimo, et assisteranno il detto signor Duca all’essempio
+loro <lb/> per la sua propria sicurtà, et il mantenimento della causa <lb/>
+commune di tutta la christianità: nientedimeno continueranno <lb/> a tal
+fine, et effetto li detti signori Stati, de far ancora per <lb/> parte loro
+seriosamente avvertire, et essortare li re, prin-<lb/>cipi, republiche, et
+stati loro collegati, et amici in tutte <lb/> le occasioni; assicurandosi,
+che la detta serenissima republica di Venetia <lb/> li seconderà in ciò con
+li suoi allegati, et amici come <lb/> ne pregano affettuosamente sua
+Serenità. <lb/></p>
+          <p xml:id="p38">Fatta all’Haya nell’assemblea delli detti signori Stati Generali <lb/> li
+28 del mese di decembre 1616. <lb/></p>
+          <pb xml:id="f212r" n="212r"/>
+          <p xml:id="p39">/ 212vB /</p>
+          <p xml:id="p40">2 <hi rend="bold"><lb/></hi></p>
+          <p xml:id="p41">Risposta alla propositione del secretario <lb/> Suriano fatta dalli Stati
+Generali <lb/></p>
+          <p xml:id="p42">Nella prima <lb/></p>
+          <p xml:id="p43">n. 70</p>
+          <p xml:id="p44">Allegato II al n. 68 (cc. 208r-v, 211r-v)</p>
+          <pb xml:id="f208r" n="208r"/>
+          <p xml:id="p45">Continuando quello si offerse di propalar negozio di<ptr target="#tn13" n="13"/> grave <lb/> momento alla serenissima Republica nel medesimo zelo et
+<lb/> devosione verso di essa à fatto un puoco d’apertura <lb/> al illustrissimo
+signor residente Soriano, et però dirà anco <lb/> tutto il resto e quel
+tanto occorse, ma vorrebbe <lb/> per ogni accidente aver qualche securessa
+di esser <lb/> recognosciutto, desidera doncgue che gli conditioni <lb/>
+proposti circa il negozio scritto si debbano mandar <lb/> qui al sudetto
+illustrissimo signor residente Soriano, confirmate <lb/> in tutti gli capi
+dal serenissimo Senato in forma debita, et <lb/> conveniente par la
+securessa di esso trattante, il <lb/> quale si contenta che la pension annua
+dimandata <lb/> di dodeci mille ducati, si fermi per ora in ducati <lb/>
+cinquecento al mese per il trattante in vita sua <lb/> et per gli soi eredi
+et successori, per quanti <lb/> anni parerà conveniente alla serenissima
+Republica. Con patto <lb/> però, dipoi che il serenissimo Senato averà
+inteso il <lb/> negozio come sta, et ponderatolo<ptr target="#tn14" n="14"/>, che se le debba <lb/> augmentar quella somma annua secondo che sua
+<lb/> Serenità troverar meritar il fidel zelo del trattante <lb/> et la
+grandessa del negozio che manifesterà, il <lb/> che si offerisce farlo in
+persona propria andando a <lb/> Venezia, come è rissoluto di fare, mediante
+che <lb/> dal detto signor residente Soriano lui siano assecurate <lb/> le spese
+del viagio et altro, oltre le confirmationi <lb/></p>
+          <pb xml:id="f208v" n="208v"/>
+          <p xml:id="p46">sudette li quali tutti deveranno avere principio alla <lb/> sua partensa
+di qua. <lb/></p>
+          <p xml:id="p47">Et quando per legittimi impedimenti sia di sanità <lb/> o altro non
+potesse promptamente transferirsi <lb/> a Venezia, rechiedendo in ogni modo
+il negozio fretta <lb/> grandissima et straordinaria diligensa, che alora <lb/>
+poterà<ptr target="#tn15" n="15"/> revelarlo al detto illustrissimo signor residente <lb/> Soriano, con
+avere<ptr target="#tn16" n="16"/> la securtà del beneficio <lb/> sopradetto et quel donativo che
+parerà a sua <lb/> Serenità. <lb/></p>
+          <p xml:id="p48">Et prega il trattante che per molti gravi rispetti <lb/> et per securessa
+sua che<ptr target="#tn17" n="17"/> lui sia promesso che questa sua <lb/> revelatione sarà tenuto
+secreto, cioè l’essere<ptr target="#tn18" n="18"/> <lb/> da lui revelato, che anco così convien per <lb/> securessa del
+negozio et di essa serenissima Republica. <lb/></p>
+          <pb xml:id="f211r" n="211r"/>
+          <p xml:id="p49">/ 211vB /</p>
+          <p xml:id="p50">3 <hi rend="bold"><lb/></hi></p>
+          <p xml:id="p51">Scrittura di persona che <lb/> offerisce <lb/></p>
+          <p xml:id="p52">Nella prima <lb/></p>
+          <p xml:id="p53">n. 71</p>
+          <p xml:id="p54">Allegato III al n. 68 (cc. 209r-210v)</p>
+          <pb xml:id="f209r" n="209r"/>
+          <p xml:id="p55">Risposta delli signori Stati Generali alla propositione del <lb/> signor
+ambasciator d’Inghilterra <lb/></p>
+          <p xml:id="p56">Essendo stato bene et maturamente deliberato e parimente intesa il
+parere <lb/> di sua Eccellenza et de’ Conseglio de Stato sopra la
+propositione fatta per parte <lb/> del re della Gran Bertagna nell’assemblea
+de’ signori Stati Generali de’ Paesi <lb/> Bassi Uniti dal signor Dudley
+Carleton kavalier ambasciator ordinario di sua Maestà a’ 3 di <lb/> questo
+mese ringratiano essi signori Stati humilmente la detta Maestà sua della
+continuità <lb/> della sua regal affatione<ptr target="#tn19" n="19"/> al bene, riposo, et pace di tutta la christianità <lb/> et
+particularmente di questi Paesi insieme delli ducati di Giuliers <lb/>
+Cleves, Berges, et altri appartenenti conti et signori li più prossimi <lb/>
+vicini<ptr target="#tn20" n="20"/>, et collegati di essi Paesi Bassi Uniti pregando la medesima <lb/>
+Maestà sua di<ptr target="#tn21" n="21"/> tener per securissimo che li detti signori Stati bramando <lb/> et
+desiderando di tutto cuore, sinceramente, et con ogni candore che <lb/> de’
+detti ducati, et paesi siano constituiti, stabiliti, et conservati sotto
+<lb/> la legetima regenza de’ principi possedenti, il principe elettore <lb/> di
+Brandenburgh, del signor principe suo figliolo, et parimente del signor
+<lb/> Palatino, et duca di Neuburgh, nelle loro libertà et dretti <lb/> con la
+conservatione<ptr target="#tn22" n="22"/> ilesa della vera religion christiana <lb/> libera d’ogni difficoltà
+et carchi di guerra et da quello <lb/> che provieni d’essa, in conformità
+d’accordi fatti tra di <lb/> essi, et che l’accordo de Zanten sia veramente
+et fidelmente <lb/> totalmente accomplito<ptr target="#tn23" n="23"/> et sinceramente osservato: niente di meno <lb/> confidano che sua
+Maestà per la<ptr target="#tn24" n="24"/> sua grandissima<ptr target="#tn25" n="25"/> real saviezza <lb/> et prudenza intenderà per il meglio che in un
+affare <lb/> di così<ptr target="#tn26" n="26"/> gran<ptr target="#tn27" n="27"/> momento, nel quale per quelli dal <lb/> canto de’ Spagnoli doppoi il
+trattato di Zanten sono state <lb/></p>
+          <pb xml:id="f209v" n="209v"/>
+          <p xml:id="p57">usate stranie maniere di procieder, primiriamente per molte
+vaca-<lb/>tioni et dilationi doppo l’anno 1615 per l’ostile occupatione
+dell’im-<lb/>portante città et piazza de<ptr target="#tn28" n="28"/> Siburch et nel presente anno <lb/> per il sforzo delle città di
+Soest et Lipstadt<ptr target="#tn29" n="29"/> diretamente fatto contra <lb/> le promesse sottoscritte et sigilate
+che si continuano ancora pa-<lb/>rimente per li obedienti cambiamenti sopra
+venuti dappoi al detto <lb/> accordo nello stato d’alcuni principi et
+potentati interessati in <lb/> questo affare, li presenti deputati delle
+Provincie Unite nella loro <lb/> assemblea non sono di parere di fare una
+final risolutione <lb/> sopra ciò nell’absenza dell’altri loro collegati et
+senza <lb/> previa communicatione delli loro principali e communità, tanto <lb/>
+maggiormente in riguardo di ciò che sua Maestà et parimenti li <lb/> detti
+signori Stati intenderà esser conforme al dritto, alla ragione <lb/>
+et<ptr target="#tn30" n="30"/> all’equità che sopra il tutto sia inteso il buon <lb/> piacere et
+intentione del principe elettore di Brandenburgh et <lb/> et delli principi
+di Brandenburg et Palatino di Neuburgh come <lb/> principale interessati et
+che temendo li detti signori Stati che sarà <lb/> difficile dentro il
+termine limitato nella detta propositione perché il <lb/> detto Principe
+elettore, è al presente in Prussia, et il principe palatino di <lb/>
+Neuburgh, è<ptr target="#tn31" n="31"/> parimente lontano da’<ptr target="#tn32" n="32"/> suoi paesi ancor che essi <lb/> indubitabilmente dichiararanno in
+questo fatto tanto più prontament<supplied>e</supplied> <lb/> la loro bona<ptr target="#tn33" n="33"/> intentione stante che quelli della parte <lb/> di Spagna dicono che
+spirato il detto tempo vogliono <lb/></p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f210r" n="210r"/>
+          <p xml:id="ps1">retenir per lor medesimi<ptr target="#tn34" n="34"/> per sempre le piazze occupate da essi<ptr target="#tn35" n="35"/>. <lb/></p>
+          <p xml:id="ps2">Ricercano per tanto li detti signori Stati humilmente che piaccia a
+sua <lb/> real Maestà della Gran Bretagna pigliar in buona parte questa loro
+<lb/> provisional<ptr target="#tn36" n="36"/> dichiaratione, et che il detto signor ambasciatore a questa fine
+voglia <lb/> parimente fare ogni buon officio. <lb/></p>
+          <p xml:id="ps3">Fatta a l’Haye nell’assemblea di detti signori Stati Generali de’
+Paesi <lb/> Bassi Uniti a’ 24 decembre 1616. <lb/></p>
+          <p xml:id="ps4">/ 210vB /</p>
+          <p xml:id="ps5">1 <hi rend="bold"><lb/></hi></p>
+          <p xml:id="ps6">Risposta delli signori Stati Generali <lb/> alla propositione dell’<ptr target="#tn37" n="37"/> signor ambasciator <lb/> d’Inghilterra <lb/></p>
+          <p xml:id="ps7">Nella prima <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>-it- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> st
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Segue</hi> presente
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p>a Venetia <hi rend="italic">aggiunto nel margine
+  interno con segno di inserimento.</hi></p>
+          </note>
+          <note xml:id="tn6">
+            <p>-a <hi rend="italic">corretta su</hi>
+  -e<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p>del conte di Altemps <hi rend="italic">aggiunto in
+  sopralinea su testo cifrato</hi>.</p>
+          </note>
+          <note xml:id="tn8">
+            <p>-assero <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p>B- <hi rend="italic">corretta su</hi>
+  b-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn10">
+            <p>-no <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn11">
+            <p>c- <hi rend="italic">corretta su</hi>
+  q-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn12">
+            <p>-mo- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn13">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn14">
+            <p>-l- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn15">
+            <p><hi rend="italic">Precede</hi> le
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn16">
+            <p>-e- <hi rend="italic">corretta su</hi>
+  -i-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn17">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn18">
+            <p>l’- <hi rend="italic">esito di correzione, come
+  pare.</hi></p>
+          </note>
+          <note xml:id="tn19">
+            <p>aff- <hi rend="italic">esito di correzione, come
+  pare.</hi></p>
+          </note>
+          <note xml:id="tn20">
+            <p><hi rend="italic">Precede</hi> (
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn21">
+            <p><hi rend="italic">Segue</hi> tur
+  <hi rend="italic">depennato, come pare.</hi></p>
+          </note>
+          <note xml:id="tn22">
+            <p><hi rend="italic">Segue</hi> Ill
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn23">
+            <p>-p- <hi rend="italic">corretta su</hi>
+  -l-<hi rend="italic">, come pare.</hi></p>
+          </note>
+          <note xml:id="tn24">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn25">
+            <p>g- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn26">
+            <p><hi rend="italic">Esito di correzione; segue</hi> sua
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn27">
+            <p><hi rend="italic">Segue</hi> affar
+  <hi rend="italic">depennato, come pare.</hi></p>
+          </note>
+          <note xml:id="tn28">
+            <p><hi rend="italic">Segue</hi> Siburgh
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn29">
+            <p>-p- <hi rend="italic">corretta su</hi>
+  -b-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn30">
+            <p><hi rend="italic">Segue</hi> allequità
+  <hi rend="italic">depennato</hi></p>
+          </note>
+          <note xml:id="tn31">
+            <p><hi rend="italic">Corretto su</hi>
+  et<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn32">
+            <p>-a <hi rend="italic">corretta su</hi>
+  -e<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn33">
+            <p><hi rend="italic">Segue</hi> affettione
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn34">
+            <p>-i <hi rend="italic">corretta su</hi>
+  -a<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn35">
+            <p>da essi <hi rend="italic">aggiunto in sopralinea
+  su</hi> per loro <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn36">
+            <p><hi rend="italic">Aggiunto in sopralinea su</hi>
+  provisiolane <hi rend="italic">depennato, come
+  pare.</hi></p>
+          </note>
+          <note xml:id="tn37">
+            <p><hi rend="italic">Segue -</hi>o
+  <hi rend="italic">depennata.</hi></p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

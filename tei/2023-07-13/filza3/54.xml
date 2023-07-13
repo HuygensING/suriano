@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.108 date 1617-xx-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">108</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">324r-328v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-25">25 febbraio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">gl’avvisi, che la Serenità vostra si è compiacciuta<ptr target="#tn1" n="1"/> mandarmi de’ <lb/> buoni successi del Piemonte nelle sue lettere de’
+9 dello <lb/> stante, che hieri ricevei con altre del medesimo giorno, <lb/>
+venero fin mercordì passato a sua Eccellenza et alli ambasciatori <lb/> di
+Francia, et d’Inghilterra per la via<ptr target="#tn2" n="2"/> di Brusseles, essendovi <lb/> stati portati da un estraordinario di
+Milano. Portorono <lb/> che da’ Spagnoli stessi si confermava una rotta <lb/>
+grandissima del campo del governatore con la morte <lb/> de’ principali
+cavallieri, et signori di portata, et che molti <lb/> altri restavano mal
+contenti di don Pietro, onde <lb/> nella corte di Brusseles si mostrava
+discontento grande. <lb/></p>
+          <p xml:id="p2">Ma sapendosi qui, che Spagnoli il più delle volte si <lb/> compiacciono
+di far artificiosamente apparer vero per <lb/> li suoi fini quello anco, che
+non è di tutta loro <lb/> riputatione, et sentendo, che si sollecita a furia
+<lb/> la levata d’infanteria, et cavalleria da quella <lb/> parte ancorché la
+publichino per Milano: temono <lb/> nondimeno, che ciò faccino per dar così
+ad <lb/> intendere; ma che in effetto possi invadersi <lb/> dalla parte dei
+ducati di Cleves, et Giuliers; stano <lb/> però sull’avviso, attendendo
+quello ne succederà. <lb/></p>
+          <p xml:id="p3">La levata sarà di seimilla fanti, et mille cavalli tutta <lb/></p>
+          <pb xml:id="f324v" n="324v"/>
+          <p xml:id="p4">di gente del Paese, et la più parte Valoni: l’infanteria <lb/> sarà
+divisa sotto doi colonelli l’uno è monsignor di Cuing <lb/> governator del
+castello di Renti signore nel paese d’Artois, dove, <lb/> et nel contado di
+Heneault haverà la piazza d’armi <lb/> et l’altro, ch’è il governator di
+Gheldria don Guglielmo di <lb/> Vergo figliolo di Spagnuolo ma nativo nello
+stato di <lb/> sue Altezze l’haverà nel Lucemburgh, et in quello di Namur.
+<lb/></p>
+          <p xml:id="p5">Saranno li doi colonellati divisi in trenta compagnie <lb/> ciascuna di
+doicento fanti, et li capitani tutti del Paese <lb/> come anco nelle dieci
+compagnie di cavallaria, <lb/> havendo mirato sue Altezze ad honorar questi,
+et non <lb/> avanzar Spagnoli, né Italiani per avantaggiar, et <lb/> far con
+tanta maggior facilità, et prontezza la levata. <lb/></p>
+          <p xml:id="p6">Con tutte queste levate, et che si dica, che siano per Milano <lb/> si
+publica, che la pace habbi a seguir con Savoia <lb/> et siano anco per
+accommodarsi l’Eccellenze vostre con il serenissimo <lb/> Ferdinando, et
+ch’elle habbino data ogni auttorità <lb/> all’eccellentissimo signor
+ambasciator Giustiniano di accordar le propo-<lb/>sitioni della pace. Et di
+questo particolare sono stato <lb/> ricercato s’è vero; et io ho risposto
+non haven<supplied>do</supplied> <lb/> minimo avviso, anziché seguano ogni giorno <lb/></p>
+          <pb xml:id="f325r" n="325r"/>
+          <p xml:id="p7">tra l’uno, et l’altro campo delle fattioni; et sostento la <lb/>
+continuatione della guerra. <lb/></p>
+          <p xml:id="p8">Mi conferma il Pasini anch’egli la levata del conte Belgioioso per <lb/>
+Francia; ma che corre voce, ch’egli non anderà in <lb/> persona per la sua
+grave indispositione, et altri dicono che sì. <lb/></p>
+          <p xml:id="p9">Il marascial d’Ancre li ha mandata a donar una <lb/> bella carrozza; ma
+però senza cavalli. <lb/></p>
+          <p xml:id="p10">Li signor ambasciatori di Francia nell’instanza<ptr target="#tn3" n="3"/>, che fecero a’ Stati <lb/> ricercorono nominatamente li 4 mila
+Francesi, che sono in <lb/> questo servitio; ma si dichiarorono, che
+lasciavano <lb/> alla loro discrettione, et prudenza il far quella <lb/>
+risolutione che stimassero propria a communi inte-<lb/>ressi, et che quando
+non stimassero bene il privar-<lb/>sene li provedessero o in parte, o in
+tutto d’altra <lb/> di questa militia; et colla stessa occasione <lb/> fecero
+efficace ufficio perché non solamente non <lb/> assistessero con consiglio
+a’ principi mal contenti; <lb/> ma meno volessero far alcun ufficio per loro
+rispetto <lb/> con sua Maestà in somma, che non s’ingerissero né poco <lb/> né
+molto, et si conservassero neutrali: perché, <lb/> vedendosi li principi
+così destituti, verranno <lb/> al dovere, né haveranno l’ardire, che <lb/></p>
+          <pb xml:id="f325v" n="325v"/>
+          <p xml:id="p11">potrebbono prender, quando essi signori volessero mescolarsi qui <lb/>
+dentro. Ancor non hanno havuta la risposta, et corre <lb/> l’opinione in
+alcuni delli Stati, che nel particolar della <lb/> soldatesca se le dica,
+che non saprebbono concederla <lb/> se non con gran incomodo, et pericolo
+della sicurezza del <lb/> Paese, mentre da tutte le parti si sentono tante <lb/>
+levate, et preparationi d’armi, che non <supplied>si</supplied><ptr target="#tn4" n="4"/> sa ove <lb/> habbino a parare, et mal volontieri darebbono <lb/> queste
+genti, che sono vechie isperimentate, et <lb/> come dicono fatte quasi<ptr target="#tn5" n="5"/> sue per la spesa, che fano <lb/> già molto tempo nel mantenerle
+mentre di Francia non vengono denari; ma solo promesse di sodisfare, et
+già il debito della Corona in questo <lb/> particolare ascende alla summa di
+un millione, et mezo <lb/> di franchi. La risolutione però di questa
+risposta sta <lb/> ancor pendente, et si vuole l’avviso in particolare <lb/> de’
+deputati della Provincia di Holanda, che <lb/> sono tornati ultimamente
+insieme per gl’accidenti <lb/> successi per il negotio di religione, come
+intenderà la <lb/> Serenità vostra più a basso. <lb/></p>
+          <p xml:id="p12">Da<ptr target="#tn6" n="6"/> questa congregatione ancora si vuol l’avviso <lb/> sopra l’instanza
+del conte di Levestein, et io sto <lb/></p>
+          <pb xml:id="f326r" n="326r"/>
+          <p xml:id="p13">attendendo l’essito, havendo anco fatti qualche ufficio <lb/> a parte
+perché segui bene, et di quanto succederà ne <lb/> darò riverente conto alla
+Serenità vostra. <lb/></p>
+          <p xml:id="p14">Mentre pensava l’ambasciator ordinario francese monsignor di <lb/> Murier
+valersi del beneficio di questa straordinaria <lb/> ambasceria per passar in
+Francia per veder, come pur dice <lb/> le cose sue, li sono venuti ordini di
+doversi trattenere <lb/> et si crede sarà per il negotio di Zanten del quale
+è <lb/> informatissimo, havendolo maneggiato sin dal principio di esso.
+<lb/></p>
+          <p xml:id="p15">Si va pur qui portando innanti la risposta all’instanza <lb/> del re
+della Gran Bertagna: aspettandosi ciò, che <lb/> ne dirà il marchese di
+Brandemburgh, et quello <lb/> di Naiburgh principali interessati, et il
+Principe pala-<lb/>tino et l’ambasciator Inglese ha detto, che certo il <lb/>
+suo Re non lascierà cader questa negotiatione <lb/> et solleciterà finché ne
+vegga il fine, dicendo, <lb/> che Spagnoli al certo restituiranno Vesel.
+<lb/></p>
+          <p xml:id="p16">In molte<ptr target="#tn7" n="7"/> delle città, et de’ villagi in questa provincia <lb/> di Holanda
+sono successi li giorni passati disordini, <lb/> et inconvenienti di
+pericolosa consequenza <lb/> nel fatto di religione non volendo li più forti
+di <lb/></p>
+          <pb xml:id="f326v" n="326v"/>
+          <p xml:id="p17">un’opinione lasciar predicar gl’altri. Domenica passata <lb/> in
+particolare fu da una quantità grande di popolo <lb/> saccheggiata, et mal
+trattata una casa di un principal <lb/> borghese di Amsterdam con levar
+denari, et robbe <lb/> et ruinar tutto quello, che non si puote asportare, <lb/>
+et ciò sotto pretesto, che in essa si volesse predicar <lb/> conforme alli
+precetti di Erminio. Erano prima <lb/> stati affissi sopra le porte del
+cambio, et sopra <lb/> li muri in diversi luochi della città polizze scritte
+<lb/> a mano, che dicevano, che li figlioli della città <lb/> invitavano tutti
+gl’altri a cacciar da essa li <lb/> erministi. Non fu bastante il magistrato
+<lb/> ad impedir l’effetto; et hora quello, che ha ricevut<supplied>o</supplied> <lb/> il danno
+pretende esserne rifatto da esso magistrat<supplied>o</supplied> <lb/> ne ha fatto compianto,
+et sono venuti questi signori <lb/> di Holanda insieme per veder pure s’è
+possibile <lb/> trovar rimedio ad un tanto disordine, il quale <lb/> prevegono
+molto bene, che tirerà con sé pericolose <lb/> consequenze, et darà fomento
+ad una dissensione <lb/> civile, se non vi si porge pronto ripiego. <lb/></p>
+          <p xml:id="p18">Non lascierò di aggiunger alla Serenità vostra che a Roterdam <lb/> si
+voleva far insulto ad alcuni gomoristi <lb/></p>
+          <pb xml:id="f327r" n="327r"/>
+          <p xml:id="p19">essendo quelli habitanti per la maggior parte erministi <lb/> ma detto da
+uno, che non si facesse perché erano <lb/> protetti dal signor principe
+Mauritio, non si disse, né <lb/> si fece alcuna cosa, tant’è il rispetto, et
+l’amore, <lb/> che si porta all’Eccellenza sua. <lb/></p>
+          <p xml:id="p20">Ancorché io habbi con ogni più diligente maniera <lb/> p<supplied>ro</supplied>curato<ptr target="#tn8" n="8"/>, che il soggetto, che offerse di rivelar <lb/> negotio concernente
+il servitio, et interesse della serenissima Republica <lb/> si disponesse a
+dirmene li particolari, usando quei <lb/> termini, che ho stimati più
+proprii, non ho <lb/> potuto haver più di quello che scrissi con le mie de’
+<lb/> 31 decembre, dicendo, che non sapeva, che aggiun-<lb/>germi, se non
+propalar tutto, et che publicato il suo <lb/> interno restava con le mani
+vuote; ma mi affermava <lb/> esser il negotio di momento. Egli in luoco <lb/>
+della confermatione, che gli ho attestata della solita <lb/> gratitudine
+della serenissima Republica, et di quello di più, che <lb/> li ho aggiunto
+in conformità delli suoi prudentissimi <lb/> avvertimenti nelle lettere de’
+27 del passato, <lb/> haverebbe voluto volentieri, ch’io gl’havessi
+con-<lb/>firmata, et ratificata la provisione, et utile, <lb/> che ha richiesto
+nella scrittura. Ha nondimeno <lb/></p>
+          <pb xml:id="f327v" n="327v"/>
+          <p xml:id="p21">preso tempo a pensare, et di parlarne col padre che <lb/> sta a Breda(m),
+dicendo che quanto prima sarebbe <lb/> stato di ritorno; et io starò
+attendendo quello <lb/> mi dirà, essequendo nel resto le commissioni delle <lb/>
+Signorie vostre eccellentissime. Gratie etc. <lb/></p>
+          <p xml:id="p22">Dall’Haya a’ 25 febraro 1617 <lb/></p>
+          <p xml:id="p23">di vostra Serenità <lb/></p>
+          <p xml:id="p24">humilissimo, et devotissimo servitore <lb/></p>
+          <p xml:id="p25">Christofforo Suriano <lb/></p>
+          <p xml:id="p26">/ 327bis r-v /</p>
+          <p xml:id="p27">
+            <hi rend="italic">Carta tagliata non numerata</hi>
+          </p>
+          <pb xml:id="f328r" n="328r"/>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f328v" n="328v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Traccia di sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 328vC /</p>
+          <p xml:id="ps6">25 febraro 1617 ricevute 15 di marzo <lb/></p>
+          <p xml:id="ps7">Haya seconda <lb/></p>
+          <p xml:id="ps8">1. Circa li avisi di Piemonte. <lb/></p>
+          <p xml:id="ps9">Rotta confirmata da’ Spagnoli medesimi. <lb/></p>
+          <p xml:id="ps10">2. Faran levata in Fiandra di 6 mila <lb/> fanti, et mille cavalli del
+Paese, et <lb/> la più parte Valloni. <lb/></p>
+          <p xml:id="ps11">Divisioni de’ terzi, et compagnie d’essi. <lb/></p>
+          <p xml:id="ps12">3. Con tutto ciò si publica la pace debba <lb/> seguire. <lb/></p>
+          <p xml:id="ps13">Si conferma la levata del Belgioioso. <lb/></p>
+          <p xml:id="ps14">4. Instanza di Francia di 4 mila Francesi<ptr target="#tn9" n="9"/>, <lb/> o di altra militia in lor cambio, <lb/> et uffici
+dell’Ambasciator con quei signori. <lb/></p>
+          <p xml:id="ps15">Non hanno havuta risposta. <lb/></p>
+          <p xml:id="ps16">5. Si aspetta anche la riclut(atio)ne circa <lb/> le instanze del conte
+di Levestein. <lb/></p>
+          <p xml:id="ps17">6. L’ambasciator vecchio di Francia si trattiene <lb/> come informato del
+negotio di Santem. <lb/></p>
+          <p xml:id="ps18">Che Inghilterra non lascerà cader la negotiatione. <lb/></p>
+          <p xml:id="ps19">Che Spagnoli restituirano Vesel. <lb/></p>
+          <p xml:id="ps20">7. Disordini gravi ne’ propositi di <lb/> religione fra quei popoli.
+<lb/></p>
+          <p xml:id="ps21">8. Il soggetto che offerisce rivelare negoti <lb/> è andato a Breda(m)
+per parlar col padre. <lb/></p>
+          <p xml:id="ps22">L. C. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>-u- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p>v- <hi rend="italic">corretta su</hi> s-.</p>
+          </note>
+          <note xml:id="tn3">
+            <p>ne- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Foro nel supporto.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p>q- <hi rend="italic">corretta su</hi> l-.</p>
+          </note>
+          <note xml:id="tn6">
+            <p>D- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p>In mol- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p>
+              <hi rend="italic">Foro nel supporto.</hi>
+            </p>
+          </note>
+          <note xml:id="tn9">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

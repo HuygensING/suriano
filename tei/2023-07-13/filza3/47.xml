@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.99 date 1617-xx-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">99</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">291r-294v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-11">11 febbraio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">entrò lunedì sera in questo luoco l’ambasciator estraordinario di <lb/>
+Francia monsignor della Nua incontrato dall’ordinario <lb/> fino a Roterdam,
+et da sua Eccellenza con la sua carrozza <lb/> una mez’hora fuori. Sta
+alloggiato, et spesato da’ signori Stati <lb/> et continuerà così per otto o
+dieci giorni ancora finché <lb/> trovi casa propria. Fu mercordì
+nell’assemblea et mi <lb/> è stato riferto, che ’l suo ufficio in voce fu
+pieno de-<lb/>gl’ordinarii complimenti, et nel resto la sostanza di esso <lb/>
+versò nell’iscusar li matrimonii contratti<ptr target="#tn2" n="2"/> con la Spagna <lb/> con affermar che questi non devono dar ombra,
+che <lb/> siano per riuscir mai di pregiudicio imaginabile agl’<lb/>interessi
+de’ buoni, et antichi amici della Corona, <lb/> (concetto ordinario usitato
+dalli ambasciatori di quella Maestà <lb/> in ogni corte). Iscusò la
+prigionia del principe <lb/> di Condè, dicendo esser stata necessitata, per
+apportar <lb/> rimedio alla quiete del Regno. Mostrò che ’l Re non <lb/> ostante
+li travagli intestini non mancava di adoperarsi <lb/> per sedar gl’esterni,
+et per ciò haveva oltre l’assisten-<lb/>za del suo Ambasciator in Italia
+permesso anco a monsignor <lb/> di Dighieres di passar in Piemonte, et che
+lasciava <lb/> anco calar altri Francesi al servitio del signor Duca; <lb/> che
+per il medesimo servitio d’Italia havea<ptr target="#tn3" n="3"/> ispedito anco uno <lb/> in Spagna; che dall’altro canto haveva dato
+<lb/></p>
+          <pb xml:id="f291v" n="291v"/>
+          <p xml:id="p2">ordine in Grisoni perché fosse coadiuvata la instanza della <lb/>
+serenissima Republica; si diffuse nel considerar li presentanti bisogni
+<lb/> del Regno, disse, che sua Maestà haveva modo assai suffi-<lb/>ciente per
+sedar li tumulti: tuttavia sperava anco, che <lb/> se non fosse a bastanza,
+li vicini, et buoni amici, come <lb/> questi Stati in particolare
+haverebbono coadiuvato; iscusò <lb/> la dilatione del pagar le<ptr target="#tn4" n="4"/> militie; ma fece promessa, che <lb/> la Maestà sua haverebbe presto
+sodisfatto. La risposta fu <lb/> generale di ringratiamento, senza
+condescender a molti <lb/> particolari. <lb/></p>
+          <p xml:id="p3">Ognuno discorre sopra li concetti della sua espositione <lb/> conforme
+all’affetto, o alla passione, et par che ’l <lb/> senso generale si risolvi
+in creder che et quest’Am<supplied>basceria</supplied> <lb/> et l’altre estraordinarie ispedite
+a tutti li principi <lb/> mirino al voler levar l’impressione, che è nella
+più <lb/> gran parte, che ’l Consiglio di Francia adherisca al <lb/> presente al
+partito spagnuolo. <lb/></p>
+          <p xml:id="p4">Esso<ptr target="#tn5" n="5"/> Ambasciatore per quello viene detto di certo ha<ptr target="#tn6" n="6"/> commissione <lb/> di ricercar levata di qualche numero di genti di
+altr<supplied>a</supplied> <lb/> Natione, che della propria francese, et la vorrebbe in <lb/>
+queste truppe inglesi, holandesi, et altre, parendo che sua <lb/> Maestà
+malamente si fidi delle sue, et temi che ridotte in <lb/> Francia fuggano,
+et si appiglino al partito de’ princi<supplied>pi.</supplied> <lb/></p>
+          <pb xml:id="f292r" n="292r"/>
+          <p xml:id="p5">Non ha voluto far l’instanza, ma ben si è publicato qualche <lb/> cosa
+per scoprir gl’humori, né prima la farà, che non <lb/> sia ben assicurato
+del ritrarne l’effetto, et per scoprirli <lb/> si serve anco del signor
+Bernvel, il quale però camina <lb/> riserbato perché nel passato negotio di
+religione ha perso non <lb/> non* poco; par ch’esso Ambasciatore sia per
+incontrar delle <lb/> difficoltà, mentre dicono questi, che non ha portate <lb/>
+che parole per il pagamento di queste militie francesi <lb/> et l’interesse
+de’ signori Stati si va sempre più augu-<lb/>mentando; che se almeno havesse
+portata alcuna <lb/> parte di denaro si haverebbe potuto far qualche <lb/>
+fondamento, che si dicesse da dovero di haver a <lb/> sodisfar il resto. Et
+l’Ambasciator dice, che quanto <lb/> dimanderà sarà in virtù dell’aleanza
+con questi <lb/> stati. <lb/></p>
+          <p xml:id="p6">Io ho visitato il detto Ambasciatore il quale doppo haver <lb/>
+sodisfatto al complimento che passai seco mi disse <lb/> l’istesso, che ha
+esposto a’ signori Stati nel proposito de’ <lb/> Grisoni; aggiungendomi
+solo, che la necessità, et <lb/> la conditione de’ tempi ha causato che per
+il passato non si habbi potuto far più; et io risposi che <lb/> vostra
+Serenità si era sempre promessa dall’ottima mente <lb/> di sua Maestà
+christianissima ogni gratioso effetto, et che speravo <lb/></p>
+          <pb xml:id="f292v" n="292v"/>
+          <p xml:id="p7">dovesse succeder anco la continuatione massime in cosa, che <lb/>
+ridondava in servitio di principe, che affettionava, et <lb/> osservava le
+maestà sue senza condescender ad altro. <lb/> Contenni sopra questo termine
+general, in conformità <lb/> de’ suoi commenti ricevuti già in lettere de’
+23 decembre, <lb/> mentre massime questo Ministro, et monsignor di Murier
+ambasciator <lb/> ordinario, ch’era con lui, se la passorono ristrettamente.
+<lb/> Ma perché essi con altri hanno voluto far apparer <lb/> che tutte le cose
+passavano col mezo di sua Maestà senza <lb/> contrasto nel paese de’
+Grisoni, et havend’io con lettere <lb/> del clarissimo Padavino inteso
+diversamente, come<ptr target="#tn7" n="7"/> anco <lb/> questo signor ambasciator d’Inghilterra mi ha detto esser
+avvisat<supplied>o</supplied> <lb/> dal signor Wton dell’istesso, con ogni più destra maniera <lb/>
+ho procurato, che si sappi non esser le cose nello stato <lb/> che si vuol
+dar ad intender; et se si compiacerà <lb/> potrà la Serenità vostra mandarmi
+quell’instruttioni, che le <lb/> pareranno più a proposito: perché, volendo
+ella, sappi <lb/> parlare. <lb/></p>
+          <p xml:id="p8">Partirà di qui ben presto il detto monsignor di Murier. Dice <lb/> haver
+havuta permissione di passar in Francia per <lb/> tre mesi per suoi
+particolari affari, et che in tanto <lb/> resterà in sua piazza monsignor
+della Nua; ma <lb/> se bene lascierà qui la moglie, et li figli si tie<supplied>ne</supplied>
+<lb/></p>
+          <pb xml:id="f293r" n="293r"/>
+          <p xml:id="p9">nondimeno, che poco doppo siano per seguitarlo, et che <lb/> non
+ritornerà più a questa residenza, come è successo anco d’altri, che sono
+partiti da altre corti. <lb/></p>
+          <p xml:id="p10">L’agente del signor Principe palatino, che resiede qui mi ha <lb/>
+confermata la levata di genti da piedi, et da cavallo <lb/> da farsi da’
+principi dell’Unione, et che questa occorrendo <lb/> servirà per dar
+assistenza alli principi della Francia; <lb/> che quelli dell’Unione
+doveranno il mese venturo ridursi <lb/> nella Franconia per la commodità di
+tutti, et particolarmente <lb/> dell’elettor di Sassonia; che appresso di
+lui si trovava <lb/> il marchese di Hanspach, et il principe di Hanault <lb/> et
+si haveva per fermo, che si sarebbe dichiarito <lb/> dell’Unione; che gli
+veniva scritto, ch’esso duca <lb/> elettor di Sassonia si trovava haver
+molto buono <lb/> con li Bohemi, et con quelli di Slesia per la corona di <lb/>
+Ongaria, et che teneva che li principi haverebbono <lb/> promesso di
+coadiuvarlo per farselo affatto del suo <lb/> partito; et di più, che li
+principi hanno risoluto <lb/> nella congiontura de’ presenti tempi valersi
+per servitio <lb/> delli principi di Francia, et del duca di Savoia di <lb/>
+quel denaro, che sta ammassato, et si va gior-<lb/>nalmente per accordo
+mettendo insieme per dar all’<lb/>Imperatore da valersene nell’occasione
+della guerra <lb/></p>
+          <pb xml:id="f293v" n="293v"/>
+          <p xml:id="p11">contra il Turco. Gratie etc. <lb/></p>
+          <p xml:id="p12">Dall’Haya a’ 11 febraro 1617 <lb/></p>
+          <p xml:id="p13">di vostra Serenità <lb/></p>
+          <p xml:id="p14">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p15">Christofforo Suriano <lb/></p>
+          <pb xml:id="f294r" n="294r"/>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f294v" n="294v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 294vC /</p>
+          <p xml:id="ps6">1616 11 febraro ricevute primo marzo 1617 <lb/></p>
+          <p xml:id="ps7">Haya 3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="ps8">1. Arrivo di monsignor della Nua ambasciatore di <lb/> Francia et suoi
+uffici. <lb/></p>
+          <p xml:id="ps9">2. Si dice habbia comissione di ricercar <lb/> levata di genti straniere
+non fidandosi <lb/> sua Maestà di quelle sue francesi. Ma non farà <lb/> la
+dimanda senza sicurezza di ottenerla: <lb/> il che sarà difficile non
+havendo portato denaro <lb/> per le paghe di quei Francesi già corsi. <lb/></p>
+          <p xml:id="ps10">3. Ha parlato seco nel negotio de’ Grisoni: <lb/> mostrando che il Re
+habbia ordinato che si coadiuvi <lb/> il secretario ha fatto saper ad altri
+la verità. Etc. <lb/> L’Ambasciator ordinario partirà<ptr target="#tn8" n="8"/> presto, per Francia. <lb/></p>
+          <p xml:id="ps11">4. L’agente del Palatino conferma la <lb/> levata<ptr target="#tn9" n="9"/> di genti per quei principi, che <lb/> servirà occorrendo alli
+principi di Francia. <lb/> Loro disegni di radunarsi nella Franconia <lb/> per
+comodità di Sassonia; il quale ha buono <lb/> per la corona di Boemia.
+Pensiero di <lb/> valersi di denari per servitio de’ principi di Francia <lb/>
+et del duca di Savoia. <lb/></p>
+          <p xml:id="ps12">L. C. S. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p><hi rend="italic">Corretto su</hi>
+  2<hi rend="superscript">da</hi>.</p>
+          </note>
+          <note xml:id="tn2">
+            <p>-i <hi rend="italic">corretta su</hi> -a;
+  <hi rend="italic">segue</hi> -ti
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn3">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p>
+              <hi rend="italic">Esito di correzione; segue parola
+  depennata.</hi>
+            </p>
+          </note>
+          <note xml:id="tn6">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Segue</hi> ho
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p>-ti- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p>-v- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

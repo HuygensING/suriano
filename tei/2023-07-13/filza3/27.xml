@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.65 date 1616-xx-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">65</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">193r-194v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1616-xx-20">20 dicembre 1616</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <pb xml:id="f193v" n="193v"/>
+          <p xml:id="p1">havendo havuto qui il denaro a cinquanta un piaco <lb/> per cento come
+corre<ptr target="#tn1" n="1"/> appunto sulla piazza. Et <lb/> quando non mi prevagli del denaro;
+spero che lo <lb/> rimetterò a vostra Serenità allo stesso prezzo. Et di
+tanto <lb/> ho stimato mio debito prima di partir, dar rive-<lb/>rente conto
+alle Signorie vostre eccellentissime. <lb/></p>
+          <p xml:id="p2">Non ho d’aggiungerle in questo più di quanto <lb/> le scrissi colle mie
+de’ 17 se non che ’l signor Conte partì <lb/> hieri alla volta del Tessel
+per<ptr target="#tn2" n="2"/> veder quelle <lb/> genti; et quello che più mi duole, che ’l tempo <lb/>
+continua tuttavia nello stesso d’esser contrario <lb/> ma pur si spera
+coll’aiuto di Dio il presto <lb/> cambiamento al buono. Gratie etc. <lb/></p>
+          <p xml:id="p3">Dall’Hamsterdam a’ 20 decembre 1616 <lb/><lb/>di vostra Serenità <lb/></p>
+          <p xml:id="p4">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p5">Christofforo Suriano <lb/></p>
+          <pb xml:id="f194r" n="194r"/>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f194v" n="194v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps3">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps4">/ 194vC /</p>
+          <p xml:id="ps5">20 decembre 1616 ricevuta a’ 5 gennaro <lb/></p>
+          <p xml:id="ps6">Secretario Suriano dall’Haya <lb/></p>
+          <p xml:id="ps7">Da Amsterdam sola <lb/></p>
+          <p xml:id="ps8">Ha havuto ducati 6 mila da Gasparo <lb/> Quingetti, sono del credito
+fattogli <lb/> capitare dal fedelissimo Gratioso dal Calice. <lb/></p>
+          <p xml:id="ps9">Ha fatto la quietanza di detti ducati 6mila <lb/> che doveranno pagarli
+qui in buona <lb/> valuta alli 20 di febraro. <lb/></p>
+          <p xml:id="ps10">L. SS. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							domenica passata mi venero lettere all’Haya del signor  Gasparo
+Quigneti di Hamsterdam al quale furono dirette  quelle di credito del
+signor Melchior Quigneti suo fratello  de’ 15mila ducati, et
+d’altrettanti del signor Vancastro inviatemi  dalla Serenità vostra de’
+25 del passato; et havendomi scritto,  che in virtù de’ commissione
+datagli dal signor Gratioso del  Calice, che dovesse immediate far
+provisione per me della  detta somma l’haveva fatta d’una parte, et che
+ haverebbe supplito per il resto. Io stimai bene  transferirmi qui
+perché non passasse più innanti  non mi trovando per hora il bisogno:
+tuttavia  per tutto quello potesse occorrere non ho creduto  esser
+fuori di proposito haver pronte qualche  somma in questa piazza; et per
+tanto ho  ricevuto il vallente di sei milla ducati de’ quali  gliene
+ho fatta quietanza, che sarà da lui  mandata al medesimo signor
+Melchior suo fratello  perché con essa sia sodisfatta da vostra
+Serenità et  doverà il rimborso esser fatto alli vinti del  mese di
+febraro venturo in moneta di banco 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>
+              <hi rend="italic">Segue lettera depennata.</hi>
+            </p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> qu-
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.51 date 1616-xx-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">51</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">164r-v, 166r-167v, 169r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1616-xx-31">31 agosto 1616</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p2">/ 164vC /</p>
+          <p xml:id="p3">1616 a’ 30<ptr target="#tn1" n="1"/> agosto ricevuta a’ 14 settembre <lb/></p>
+          <p xml:id="p4">Secretario Surian <lb/> dall’Haya <lb/></p>
+          <p xml:id="p5">L. SS. R. <lb/></p>
+          <pb xml:id="f166r" n="166r"/>
+          <p xml:id="p6">Serenissimo Principe <lb/></p>
+          <p xml:id="p7">doppo l’ispeditione dell’ultime mie de’ 24 ho ricevute quattro <lb/> mani
+di lettere della Serenità vostra doi delli 8 et l’altre de’ 21 <lb/> et
+23<ptr target="#tn2" n="2"/> del passato. Hanno tardato a capitarmi perché <lb/> ispeditemi dalla
+parte di Zurich il messaggiero mi fallì nel <lb/> viaggio. Degl’avvisi mi
+vaglio secondo, che per mia <lb/> debolezza conosco proprio al servitio, et
+alla riputatione <lb/> di quel serenissimo Dominio; et sopra quanto ha
+scritto l’eccellentissimo signor <lb/> ambasciator Giustiniano in materia di
+quei <lb/> <hi rend="italic">quei</hi><ptr target="#tn3" n="3"/> <hi rend="italic">sudditi banditi, che servono al
+serenissimo <lb/> Alberto, ho havuto sabbato</hi><ptr target="#tn4" n="4"/> <hi rend="italic">lettere dall’Eccellentia sua
+es-</hi><lb/><hi rend="italic">peditemi da Misiers.</hi><ptr target="#tn5" n="5"/> <hi rend="italic">Giovan Battista <lb/> Pasini di
+Brusseles, crede il medesimo <lb/> Pasini, et un Ottavio Bardoni suddito <lb/>
+di vostra Serenità</hi> <lb/> che io habbi auttorità di far levata <lb/> ho
+rescritto all’uno, et all’altro in conformità di <lb/> quanto ella mi
+commanda. Attenderò la risposta, et <lb/> venendo alcuno a me lo riceverò
+gratamente, et sentirò <lb/> quanto propone per darlene immediate riverente
+<lb/> conto: osservando nel resto con ognuno quel tanto <lb/> che mi viene
+commesso da lei; né lascierò di dirle, <lb/> che esso
+<hi rend="italic">Bardoni</hi><ptr target="#tn6" n="6"/> mi dice questo particolare nelle <lb/> sue lettere, che quando vi
+saranno li ricapiti sufficienti, <lb/> (che vuol dir il denaro) gli dà
+l’animo, che si farà <lb/></p>
+          <pb xml:id="f166v" n="166v"/>
+          <p xml:id="p8">al sicuro non una; ma più compagnie di buoni, et esperti <lb/> soldati;
+ma non parla per dove haveranno a passare, il che <lb/> gli ho avvertito che
+mi avvisi. Scrive <hi rend="italic">il Pasini</hi><ptr target="#tn7" n="7"/> <lb/> in conformità di quanto ha significato l’eccellentissimo
+Giustiniano <lb/> alla Serenità vostra; ma più ch’è necessario haver
+gl’ordini presti <lb/> perché li soggetti, che si offeriscono non possono
+poi<ptr target="#tn8" n="8"/> aspettare, et <lb/> pigliano per l’intervallo del tempo altro
+partito né mi nomina alcuno<ptr target="#tn9" n="9"/>. Mi <lb/> aggiunge poi, che si trova appresso il marascial d’Ancr<supplied>e</supplied>
+<lb/> il capitan Gioseppe Gomorrini ingegnero eccellentissimo, che ha
+servito <lb/> in Fiandra molto spatio di tempo, et partì disgustato di là <lb/>
+ch’è molto ben conosciuto dalla Serenità vostra, et dal signor Pompeo <lb/>
+Giustiniano, che quando li fosse fatto partito convenevole <lb/> li dava
+l’animo di condurlo al servitio, et che saria stato <lb/> aspettando la
+risposta. <lb/></p>
+          <p xml:id="p9">Il signor principe Mauritio partì lunedì per la Brilla per <lb/> veder
+quella piazza, ove mai più era stato, per ordinare <lb/> qualche fabrica, et
+doveva vederne anco alcun altro <lb/> nel viaggio col medesimo oggetto. Io
+presi occasione <lb/> ancorché dovesse esser di presto ritorno, di far
+riverenza <lb/> all’Eccellenza sua prima del partire, et gli feci parte
+degl’avvisi <lb/> che havevo ricevuti, che li sentì con sodisfattione; come
+<lb/> per termine di confidenza feci il medesimo con alcuno di questi <lb/>
+signori, et anco con questo ambasciatore di Francia; il quale mi <lb/></p>
+          <pb xml:id="f167r" n="167r"/>
+          <p xml:id="p10">diede conto della<ptr target="#tn10" n="10"/> sorpresa, che haveva fatta monsignor di <lb/> Longavilla della
+fortezza di Perona; mostrando in ciò <lb/> passione d’animo, et di temere,
+che questo possi far qualche <lb/> addito a nuove perturbationi nel Regno.
+<lb/></p>
+          <p xml:id="p11">Già vostra Serenità haverà inteso (s’è vero quanto viene scritto)
+l’ar-<lb/>rivo in corte cesarea del signor principe Christiano d’Anhalt <lb/>
+ispedito in diligenza dagl’altri principi dell’Unione <lb/> per rappresentar
+in che si stimino aggravati, et per <lb/> instar il rimedio
+agl’inconvenienti, che pare si preparino, <lb/> et potrebbono succeder nella
+Germania, et massime <lb/> dalla parte dell’Halzatia; et ciò ha riguardo al
+marchese di Bada. <lb/></p>
+          <p xml:id="p12">Qui è stato detto, che ’l signor duca di Sassonia habbi fatto
+in-<lb/>tender alli principi dell'Unione, desiderar d'esser <lb/> chiamato
+anc’esso<ptr target="#tn11" n="11"/> nella riduttione, che dovevano fare: <lb/> et viene affermato,
+ch’egli sia per dichiarirsi del loro <lb/> partito. Difficilmente si crede
+l’avviso, mentre s’è veduto <lb/> per il passato, che quel Principe ha
+voluto sempre <lb/> adherir alla casa d’Austria: tuttavia essendosi già
+alcuni <lb/> giorni trovato col signor marchese di Brandemburgh in <lb/> stretti
+ragionamenti<ptr target="#tn12" n="12"/> pare che non sia lontana <lb/> la credenza da questo; sapendosi
+anco, ch’egli si <lb/> duole grandemente, che dall’Imperatore non gli sia
+osservato, <lb/> quanto gli è stato promesso. <lb/></p>
+          <pb xml:id="f167v" n="167v"/>
+          <p xml:id="p13">L’agente di esso elettore di Brandemburgh, qual fui a vedere <lb/>
+ultimamente, mi disse, che ’l suo Principe già alcuni giorni <lb/> hebbe in
+intentione di passarsene a Cleves, et arrivar anco <lb/> qui vicino, et
+forse in questo stesso luoco per abboccarsi colli <lb/> signori Stati, et
+col signor principe Mauritio; ma che sua Eccellenza l’haveva <lb/>
+sconsigliato, et s’è divertito il viaggio col rappresentar a <lb/> sua
+Altezza, che la sua venuta qui non servirebbe, che a dar <lb/> sospetto con
+poca riputatione. <lb/></p>
+          <p xml:id="p14">Questi signori hanno spedito fuori nelle Provincie per la
+convocatione <lb/> ordinaria di tutti li Stati Generali per il mese venturo,
+et <lb/> quelli in particolare del Consiglio di Holanda doveranno trattare <lb/>
+sopra il rimedio al disordine che segue tra predicanti della <lb/> religione
+riformata in questa particolar Provintia sostentando <lb/> alcuni esser di
+necessità il creder la predestinatione: onde <lb/> li popoli restano in se
+stessi confusi della diversità de’ <lb/> pareri. Si sospetta, che si vi sia
+fomento in questa <lb/> parte, et che venga da alta mano <lb/>
+<hi rend="italic">et</hi><ptr target="#tn13" n="13"/> <hi rend="italic">che Spagnoli stando impiegati
+altrove <lb/> con l’armi temporali si servino di quelle, <lb/> che possono
+alterar le conscientie, et <lb/> per consequenza mover humori, et <lb/> partorir
+disenzioni</hi> <hi rend="italic">per avanzar in <lb/> qualche
+maniera in un</hi></p>
+          <pb xml:id="f169r" n="169r"/>
+          <p xml:id="p15">
+            <hi rend="italic">istesso tempo <lb/> anco di qua. <lb/></hi>
+          </p>
+          <p xml:id="p16">Le città ansiatiche, che si sono collegate con questi Stati fanno <lb/>
+descriver qualche numero di militia per metter ne’ suoi presi-<lb/>dii, et
+assicurarsi l’une l’altre dall’invasioni, che <lb/> improvise le potessero
+esser fatte dalla parte di Danimarca. <lb/></p>
+          <p xml:id="p17">Stano li mercanti d’Amsterdam con ansia grande attendendo <lb/> l’arrivo
+di alcune navi dall’Indie, che per gl’avvisi, che <lb/> si hebbero dovevano
+arrivar già buon pezzo, onde il <lb/> ritardo li fa travagliar col pensiero.
+<lb/></p>
+          <p xml:id="p18">Il Burlamacchi mercante di Londra, ch’è qui per sollecitar il <lb/>
+rimborso del denaro, che s’è obligato al re d’Inghilterra di <lb/> sodisfar
+nella piazza di Londra per la restitutione<ptr target="#tn14" n="14"/> <lb/> di Flesinghen, et della<ptr target="#tn15" n="15"/> Brilla, et sue <lb/> adherenze, doppo haver sollecitato gran pezzo
+questi signori Stati, <lb/> finalmente ha dato principio a riscuoter, et gli
+sono stati <lb/> esborsati cento milla scudi a buon conto, et presto spera <lb/>
+che se gli conteranno gl’altri fino alla intera summa del <lb/> debito.
+Gratie etc. <lb/></p>
+          <p xml:id="p19">Dall’Haya a' 31 agosto 1616 <lb/></p>
+          <p xml:id="p20">di vostra Serenità <lb/></p>
+          <p xml:id="p21">humilissimo, et devotissimo servitore <lb/></p>
+          <p xml:id="p22">Christofforo Suriano <lb/></p>
+          <pb xml:id="f169v" n="169v"/>
+          <p xml:id="p23">n. 52</p>
+          <p xml:id="p24">Allegato I al n. 51 (cc. 165r-v, 168r-v; decodifica di cc.
+166r-167v)</p>
+          <p xml:id="p25">/ 165r-v /</p>
+          <pb xml:id="f168r" n="168r"/>
+          <p xml:id="p26">
+            <hi rend="italic">
+              <hi rend="bold">Segue
+decodifica di testo cifrato</hi>
+            </hi>
+            <ptr target="#tn16" n="16"/>
+          </p>
+        </div>
+        <div type="secretarial">
+						
+					</div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Tracce di sigilli
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>
+              <hi rend="italic">Così A; a c. 169r la lettera è data
+  al 31 agosto.</hi>
+            </p>
+          </note>
+          <note xml:id="tn2">
+            <p>-3 <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn3">
+            <p>quei sudditi … vostra Serenità
+  <hi rend="italic">decodifica di testo cifrato presente a
+  c. 168r; con segno di rimando.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p><hi rend="italic">Segue</hi> Gio. Anto
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn6">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea su testo
+  cifrato.</hi>
+            </p>
+          </note>
+          <note xml:id="tn7">
+            <p>
+              <hi rend="italic">Testo cifrato non decodificato in
+  A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn8">
+            <p>
+              <hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento.</hi>
+            </p>
+          </note>
+          <note xml:id="tn9">
+            <p>né … alcuno <hi rend="italic">aggiunto in sopralinea
+  con segno di inserimento</hi>.</p>
+          </note>
+          <note xml:id="tn10">
+            <p><hi rend="italic">Seguono lettere depennate</hi>.</p>
+          </note>
+          <note xml:id="tn11">
+            <p>
+              <hi rend="italic">Segue virgola depennata.</hi>
+            </p>
+          </note>
+          <note xml:id="tn12">
+            <p><hi rend="italic">Segue</hi> perché
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn13">
+            <p>et che Spagnoli … anco di qua
+  <hi rend="italic">decodifica di testo cifrato presente a
+  c. 168r; con segno di rimando.</hi></p>
+          </note>
+          <note xml:id="tn14">
+            <p><hi rend="italic">Segue</hi> delle <lb/> doi piazze
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn15">
+            <p><hi rend="italic">Segue</hi> Brilla
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn16">
+            <p>
+              <hi rend="italic">Testo integrato a cc. 166r, 167v e
+  169r.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

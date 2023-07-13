@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.94 date 1617-xx-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">94</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">298r-v, 300r-301v, 304r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-25">25 luglio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">doppo molte instanze, et soleciti ufficii ha il signor di Monthou
+ottenuto <lb/> quanto desiderava da’ deputati delle Provincie, che hanno <lb/>
+dato ordine al thesoriero di esborsar il denaro al primo di <lb/> agosto, et
+che in tanto egli sopra la loro parola possi prometterli <lb/> al signor di
+Monthou, il quale ha trattato col Calandrini, che li farà <lb/> haver il
+denaro a Norimbergh. Hier mattina fu a rin-<lb/>gratiarne li signori Stati,
+et a prender licenza da essi per partire. <lb/> Rinovò in brevi parole
+quanto disse anco nell’altra audientia <lb/> intorno il desiderio di sapere
+quello che sentissero sopra <lb/> le propositioni di unione delli suoi
+precessori. Fu replicato <lb/> da’ signori Stati l’ottima volontà loro verso
+sua Altezza, et che l’animo <lb/> di essi era di far cose maggiori per lei;
+ma che non si poteva <lb/> quanto si voleva per li proprii affari dello
+Stato. Et quanto <lb/> all’unione, che haverebbono considerato quello che
+potesse <lb/> mettersi ad effetto, et forsi avanti il partire gli
+haverebbo-<lb/>no detta qualche cosa. Mi è stato riferto, che questa <lb/> sera
+otto dei signori Stati devono cenar con lui, et che forse <lb/> gli
+parleranno di questo particolare, che per quanto ho <lb/> potuto penetrare
+sarà in parole generali, cioè che <lb/> hanno desiderio di unirsi, et
+stringersi con sua Altezza, et con <lb/> tutti quei principi, che haveranno
+la medesima volontà <lb/> di contrapporre all’insidie spagnuole, et di
+contra-<lb/>minare alli loro disegni. Alcuni emuli, et invidi del <lb/> signor
+Bernvel dicono esser egli causa, che non si facci <lb/></p>
+          <pb xml:id="f298v" n="298v"/>
+          <p xml:id="p2">cosa di buono, et che impedisca la trattatione di colleganza; et
+quando <lb/> si è venuto a proposito della serenissima Republica habbi
+detto, che <lb/> le mie sono parole, et che non ho alcun ordine né auttorità
+<lb/> di trattarne, et così tiri indietro artificiosamente il tutto. Et <lb/> vi
+sono pur alcuni che vorrebbono, ch’io mi dichiarissi, et io <lb/> ascolto,
+et aspetto. Et doi giorni sono
+<hi rend="italic">il</hi><ptr target="#tn1" n="1"/> <hi rend="italic">signor Vandermil mi replicò, che
+di gratia tenessi secreto <lb/> il negotio, che rissaputo non
+s’intorbidasse, et che gli <lb/> haveva adimandato il signor Bernvel se me
+lo haveva <lb/> detto</hi>. E gran cosa, che tutti <lb/> o una gran parte
+sgridano, et sparlano contra esso <lb/> Bernvel così per il fatto della
+religione, come per altro <lb/> tuttavia non vi è chi sappi fargli ostacolo
+di rilevo. <lb/> È stato per tre o quattro giorni in casa retirato, et <lb/>
+viene publicato, che sia stata artificiosa indispositione, <lb/> se ben è
+vero, che alle volte quando qualche cosa che <lb/> si tratta<ptr target="#tn2" n="2"/> di momento non li va a gusto o non desidera, o <lb/> non senti che
+prosegui, si retira<ptr target="#tn3" n="3"/>, et fa dir di esser <lb/> indisposto. Questa ultima retirata è stata
+doppo <lb/> che la moltitudine de’ mercanti, che venero qui la <lb/> settimana
+passata fecero l’instanza<ptr target="#tn4" n="4"/>, che riverentemente <lb/> scrissi haver essi deliberato di fare.
+Disse alli mer-<lb/>canti, che la causa dell’accidente nasceva da loro,
+perché <lb/></p>
+          <pb xml:id="f300r" n="300r"/>
+          <p xml:id="p3">condotti dall’aletamento del guadagno mandavano li vasselli <lb/> in
+Spagna, dove non bisognava, et che hora venivano a <lb/> molestare. Gli fu
+risposto, che se andavano in Spagna <lb/> non era per avaritia, come pareva,
+ch’egli volesse inferire; ma <lb/> per poter col guadagno sostener le
+gravezze, che sono necessitati <lb/> per la conservatione del Paese, et
+perché volevano mostrare <lb/> colla via del comercio libero nel regno di
+sua Maestà catholica <lb/> la volontà di questi popoli di non voler alterar
+la tregua, <lb/> ma che si meravigliavano grandemente di lui, che sempre si
+<lb/> mostrasse così partiale nelle cose di Spagna, né sapevano che <lb/> dirne,
+et furono aggiunte altre parole, et susuramenti <lb/> che andorono a ferir
+l’orrecchie di esso Bernvel)<ptr target="#tn5" n="5"/>. Ma <lb/> come si sia non mi par che le parole contra di lui
+vagliano <lb/> che per parole: perché si è impossessato tanto dell’animo <lb/>
+di molti delle Provincie, che non so vedere, che così facilmente <lb/> si
+possi abbatter la sua invidiata auttorità. Parlando <lb/> io col signor
+principe Mauritio dell’instanza fatta da’ mercanti <lb/> per haver vinti, o
+trenta navi da guerra, come scrissi, <lb/> disse, che haveva laudata la loro
+opinione, et consi-<lb/>gliatili a star fermi nell’instanza; et aggiunse
+sor-<lb/>ridendo, ch’era ben di dovere, che se volevano, come <lb/> desideravano
+mandar un commissario, o ambasciator in Spagna <lb/> per haver li loro
+vasselli, et esser sodisfatti delli denari <lb/> et delli interessi patiti
+vi andasse ben accompagnato. <lb/></p>
+          <pb xml:id="f300v" n="300v"/>
+          <p xml:id="p4">Et come comportava la carica del soggetto; et li contrarii si <lb/>
+servono<ptr target="#tn6" n="6"/> del signor principe Mauritio, come di contrapeso al <lb/> signor
+Bernvel: ma se bene queste doi auttorità vanno ripartite <lb/> in questo
+Governo: l’una et l’altra però sono rette dalla <lb/> prudenza de’
+possessori di esse; et<ptr target="#tn7" n="7"/> ancorché pari, <lb/> che si contrasti tra di loro la precedenza: con
+tutto ciò non <lb/> corrono a quel precipitio, che li poco intendenti
+temono, <lb/> et li mal affetti vorrebbono. <lb/></p>
+          <p xml:id="p5">Domenica di sera rivenne da Brusseles il messaggiero, che <lb/> questi
+signori spedirono alli arciduchi con la risposta da sue Altezze <lb/> che
+non contiene altro, che complimenti di displicenza <lb/> del seguito<ptr target="#tn8" n="8"/> in Spagna per l’arresto delle navi, <lb/> et promessa di scriver,
+mandar le lettere de’ signori Stati, <lb/> et far ufficio efficace in
+conformità con la Maestà catholica <lb/> per la restitutione, ch’è quello
+appunto, che si aspettava; <lb/> ma non so come li compartecipi nel danno
+resteranno <lb/> contenti, et se maggiormente soliciteranno il voler altri <lb/>
+effetti, come par, che alcuni vadino dicendo, che li <lb/> mercanti non
+desisteranno dal tentar di haver le <lb/> navi da guerra per mandar con esse
+a ricuperar il tolto <lb/> et a rifarsi altrimenti della pretesa perdita, et
+interesse. <lb/></p>
+          <p xml:id="p6">Venero a me li mercanti interessati nelli vasselli, che sono stati <lb/>
+trattenuti a Venetia, doppo haver nell’assemblea generale <lb/> fatta la
+loro indoglienza, et presentata la richiesta, che <lb/></p>
+          <pb xml:id="f301r" n="301r"/>
+          <p xml:id="p7">vostra Serenità haverà qui aggiunta tradotta nel nostro idioma <lb/>
+facendo meco ufficio conforme: perché io li raccommandassi <lb/> a vostra
+Serenità pregandola o adoprar li loro vasselli al suo <lb/> servitio, overo
+licentiarli con sodisfar alli danni, et <lb/> interessi, che havevano patito
+in tante settimane, che <lb/> erano là, doppo haver scaricate le mercantie,
+et noleggi <lb/> fatti. Prima era stato a trovarmi il secretario dei signori
+<lb/> Stati, et a nome loro, con darmi la richiesta, havevami <lb/> parlato
+della medesima maniera. Et io con l’occasione, che <lb/> mi trovai con sue
+Signorie<ptr target="#tn9" n="9"/> per il negotio del signor conte di Levenstein <lb/> li<ptr target="#tn10" n="10"/> ringratii<ptr target="#tn11" n="11"/> di quanto mi havevano fatto sapere: perché <lb/> così mi havevano
+data materia di poter farli chiari <lb/> della vera causa, che haveva mossa
+la Serenità vostra a non <lb/> lasciar partir detti vasselli, il che feci
+con li concetti detti a’ <lb/> particolari la passata settimana, et
+dipendenti dalle <lb/> precedenti informationi, et commissioni di lei. Et li
+signori Stati <lb/> non mi aggiunsero altro, se non che mi pregavano a
+scriver <lb/> a vostra Serenità in ogni miglior maniera, perché li mercanti
+fossero <lb/> sollevati, havessero li loro dritti, et non patissero senza
+colpa. <lb/> Io replicai, che haverei essequito; ma mi consolavo, che <lb/> sue
+Eccellenze conoscessero la retta intentione della Republica <lb/> et ch’ella
+s’era mossa con buon fine per questi popoli, et <lb/> per regola di buon
+governo quanto all’interesse pro-<lb/>prio, per non render più forte il
+commune inimico, che <lb/></p>
+          <pb xml:id="f301v" n="301v"/>
+          <p xml:id="p8">sarebbe stato, se li vasselli gli fossero capitati in mano, il che <lb/>
+sapevo, che da loro non era desiderato. Et in questa sostanza <lb/> ho anco
+parlato ai mercanti; et li ho quanto più mi <lb/> è stato possibile resi
+sodisfatti. <lb/></p>
+          <p xml:id="p9">Questa mattina poi sono venuti a trovarmi alcuni<ptr target="#tn12" n="12"/> altri <lb/> che hanno pur qualche interesse nei detti vasseli, ma <lb/>
+particolarmente<ptr target="#tn13" n="13"/> nel pagamento per il nolo della condotta <lb/> delle genti del
+Wassonhoven; facendomi grandissima instanza <lb/> perché vostra Serenità
+tenisse la mano, che fossero pagati o <lb/> dal colonello successore, o
+dalli capitani. Mi hanno mostra-<lb/>te lettere, nelle quali li vien
+scritto, che vostra Serenità haveva <lb/> deliberato di far donativo di
+dieci, o dodici milla ducati <lb/> alli capitani del detto Colonello con
+questo, che fossero dispensati <lb/> a’ soldati, il che riusciva a loro
+molesto, poiché speravano <lb/> con questo esser risarciti. Io risposi, che
+di ciò non <lb/> sapevo cosa alcuna; ma solo, che il Colonello haveva <lb/>
+havuto quanto da vostra Serenità era stato concertato seco <lb/> et che non
+haveva altro obligo. Mi pregorono di <lb/> nuovo a supplicarla, che tenesse
+la mano perché <lb/> fossero pagati, et per quanto ho potuto cavare parmi <lb/>
+che la pretensione sia intorno 24 mila fiorini. Et haverà <lb/> cura il
+signor Nicolò Perez di sollecitarne in qualche <lb/> maniera l’esborso; et
+prego la Serenità vostra, che ne habbi <lb/> qualche commissione per
+risponderli: perché altrimenti non <lb/></p>
+          <pb xml:id="f304r" n="304r"/>
+          <p xml:id="p10">può questo partorir buon effetto in altra occasione di <lb/> condotta di
+genti. Vorrei anco poter risponder per li <lb/> altri, et particolarmente
+alli signori Stati per l’instanza, che me ne <lb/> hanno fatta. Et vostra
+Serenità haverà lettere delli medesimi signori <lb/> in raccomandatione di
+detti mercanti. Gratie etc. <lb/></p>
+          <p xml:id="p11">Dall’Haya a’ 25 luglio 1617 <lb/></p>
+          <p xml:id="p12">di vostra Serenità <lb/></p>
+          <p xml:id="p13">humilissimo, et devotissimo servitore <lb/></p>
+          <p xml:id="p14">Christofforo Suriano <lb/></p>
+          <pb xml:id="f304v" n="304v"/>
+          <p xml:id="p15">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p16">2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="p17">
+            <hi rend="italic">Sigillo e traccia di sigillo</hi>
+          </p>
+          <p xml:id="p18">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p19">/ 304vC /</p>
+          <p xml:id="p20">25 luglio 1617 ricevute a’ 9 agosto <lb/></p>
+          <p xml:id="p21">Haya. 2<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p22">L. SS. R. <lb/></p>
+          <p xml:id="p23">n. 95</p>
+          <p xml:id="p24">Allegato I al n. 94 (cc. 299r-299bis v; decodifica di c. 298v)</p>
+          <pb xml:id="f299r" n="299r"/>
+          <p xml:id="p25">
+            <hi rend="italic">Segue decodifica di testo
+cifrato</hi>
+          </p>
+          <p xml:id="p26">/ 299v-299bis v /</p>
+          <p xml:id="p27">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <p xml:id="p28">n. 96</p>
+          <p xml:id="p29">Allegato II al n. 94 (cc. 302r-303v)</p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f302r" n="302r"/>
+          <p xml:id="ps1">Potentissimi et nobilissimi signori li signori Stati <lb/> Generali delle
+Provincie Unite <lb/></p>
+          <p xml:id="ps2">Danno a conoscere con ogni riverenza diversi partionevoli di nave
+residenti <lb/> in queste Provincie esserli stato avvertito da’ loro
+marinari come l’illustrissimi signori <lb/> di Venetia ritenghi ivi le lor
+navi in aresto senza ritenerli in servitù da ser-<lb/>virsone senza alcuna
+promessa di farli pagamento, o di volerle rilassare <lb/> da poter fornire
+li loro viaggi, ancorché da’ detti marinari con ogni instanza <lb/> sia
+stato presentato diverse richieste per poter, o esser liberi, o saper in
+che im-<lb/>piegarsi, et come li detti aresti et ritenimenti riescono<ptr target="#tn14" n="14"/> di gran preiuditio <lb/> et danno tanto alli suplicanti che altri
+che ci hanno parte et consecutivamente <lb/> a detrimento del comun Paese.
+<lb/></p>
+          <p xml:id="ps3">Son stati li suplicanti forzati ricorrer alle vostre Eccellenze come
+padri del Paese et <lb/> protettori del dritto de’ lor sudditi, suplicandoli
+riverentemente che piacci alle <lb/> Signorie loro scriver seriosamente alli
+illustrissimi signori di Venetia, et con instanza inter-<lb/>cedere che le
+navi di noi suplicanti possino essere relassate franche di spese <lb/> et
+danni dal aresto, o pure presi in servitio dalla Signoria<ptr target="#tn15" n="15"/> secondo che da’ <lb/> marinari li è stato presentato lor servitio
+senza tenerli più longo tempo <lb/> inutile con gran danno et detrimento:
+come alle sue Eccellenze per la protestatione <lb/> de’ dritti de’ lor
+suditti<ptr target="#tn16" n="16"/> conosceranno convenirsi et con ciò etc. <lb/></p>
+          <p xml:id="ps4">/ 302v-303r /</p>
+          <p xml:id="ps5">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <p xml:id="ps6">/ 303vB /</p>
+          <p xml:id="ps7">Richiesta alli signori Stati Generali <lb/> delli mercanti interessati
+nelle <lb/> navi trattenute a Venetia <lb/></p>
+          <p xml:id="ps8">nella 2<hi rend="superscript">da</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>il … haveva <lb/> detto <hi rend="italic">decodifica di
+  testo cifrato presente a c</hi>. <hi rend="italic">299r;
+  con segno di rimando.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p>
+              <hi rend="italic">Come pare.</hi>
+            </p>
+          </note>
+          <note xml:id="tn3">
+            <p>-a <hi rend="italic">corretta da</hi> -à.</p>
+          </note>
+          <note xml:id="tn4">
+            <p>-z- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn5">
+            <p>
+              <hi rend="italic">Parentesi chiusa non preceduta da
+  analoga aperta.</hi>
+            </p>
+          </note>
+          <note xml:id="tn6">
+            <p><hi rend="italic">Segue</hi> come
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Segue</hi> se ben
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p><hi rend="italic">Segue</hi> promessa
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p>
+              <hi rend="italic">Come pare.</hi>
+            </p>
+          </note>
+          <note xml:id="tn10">
+            <p>-i <hi rend="italic">esito di correzione</hi>.</p>
+          </note>
+          <note xml:id="tn11">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn12">
+            <p>-i <hi rend="italic">corretta su</hi> -e.</p>
+          </note>
+          <note xml:id="tn13">
+            <p><hi rend="italic">Segue</hi> p(er)
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn14">
+            <p>-o- <hi rend="italic">corretta su</hi>
+  -a-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn15">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn16">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

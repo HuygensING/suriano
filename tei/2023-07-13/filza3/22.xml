@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.48 date . 49-xx-Al</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">48</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">147r-148v; decodifica di c. 150r</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>undefined</settlement>
+          <date when=". 49-xx-Al">Allegato I al n. 49</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <p xml:id="p2">n. 49</p>
+          <p xml:id="p3">3 dicembre 1616, L’Aia (cc. 149r-150v)</p>
+          <pb xml:id="f149r" n="149r"/>
+          <p xml:id="p4">2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="p5">Serenissimo Principe <lb/></p>
+          <p xml:id="p6">il signor principe Mauritio mi confermò l’avviso della missione <lb/>
+d’ambasceria che haveva fatta l’Imperatore in Germania per <lb/> astradar il
+negotio dell’elettione de’ re de’ Romani <lb/> et un conte di Sultz (venuto
+espressamente qui per passar sotto <lb/> il signor conte Gio. Ernesto al
+servitio di lei) ha riferto che <lb/> era di già partito alla volta di
+Treveri l’arcivescovo <lb/> di Colonia, et che quivi doveva esser anco
+quello di <lb/> Magonza per consultar sopra questo affare; et mi <lb/> disse
+l’Eccellenza sua che<ptr target="#tn1" n="1"/> non sapeva a che risolutione <lb/> sarebbono venuti; et in chi
+vorranno far cader <lb/> che se l’elettor di Colonia havesse veduto qualche
+<lb/> addito per introdur il fratello non haverebbe mancato <lb/> di tentare di
+entrar in negotio; considerando di <lb/> più, che forse non li sarebbe stato
+difficile, mentre <lb/> pare che alcuni delli principi di Germania <lb/>
+mostrino di non amar una così lunga successione <lb/> in casa d’Austria.
+Perché vero aggiunse che li <lb/> principi ecclesiastici sono troppo
+interessati con essa, et li <lb/> principi dell’Unione sono uniti solo nel
+non far <lb/> niente, et dormono, et se non li sveglia il proprio <lb/>
+interesse, non so vedere chi altri lo possino fare. <lb/></p>
+          <p xml:id="p7">Mi addimandò se havevo inteso alcuna cosa del colonel <lb/></p>
+          <pb xml:id="f149v" n="149v"/>
+          <p xml:id="p8">Tampier intorno alla levata, che faceva risposi, che <lb/> havevo<ptr target="#tn2" n="2"/> sentito qualcheduno, che ne haveva parlato <lb/> et che la faceva
+con denari di Spagna disse egli altrettanto <lb/> ho inteso anch’io, et che
+saranno doi milla fanti, et <lb/> quattrocento<ptr target="#tn3" n="3"/> cavalli tutto per servitio dell’arciduca <lb/> Ferdinando. <lb/></p>
+          <p xml:id="p9">Ho in lettere del Pasini, che si vocifera a Brusseles <lb/> che’ l conte
+di Buquoi sia per andar a servir il detto <lb/> Arciduca; ma non è del tutto
+sicuro. <lb/></p>
+          <p xml:id="p10">Hora, che questi francesi dipendenti<ptr target="#tn4" n="4"/> dalla corte, hanno <lb/> inteso, che le genti inviate al duca di
+Nemurs <lb/> et in Savoia si sono sbandate, et dissipate; dicono <lb/> che
+l’incontro fattogli da monsignor di Dighieres non <lb/> sia stato motivo
+proprio di lui, come s’era publicato <lb/> et che non havesse voluto obedir
+alla Regina; ma <lb/> seguitar le massime del defunto Re di sostener <lb/> lo
+stato di Savoia, et quell’Altezza che certo in <lb/> questo particolare vi
+era concorso il tacito<ptr target="#tn5" n="5"/> assenso di sua Maestà <lb/> et della Regina; non essendo
+conveniente, ne’ <lb/> a proposito per la Francia, che così di fresso si <lb/>
+mostri di tener poco conto d’ un’aleanza <lb/> tanto stretta fatta colla
+corona di Spagna; <lb/> et che in apparenza si darà ben dalle maestà con
+<lb/></p>
+          <pb xml:id="f150r" n="150r"/>
+          <p xml:id="p11">sodisfattione all’instanza dell’Ambasciatore cattolico; ma che <lb/>
+nell’effetto, et nell’essecutione si caminerà con quel <lb/> metodo, che
+comporta la ragione di stato, et la <lb/> conservatione della Francia, et
+delli antichi amici <lb/> della Corona. Questo si sforzano d’imprimer nella
+<lb/> mente di ognuno; il che fa anco l’ambasciator di quella <lb/> Maestà qui
+residente; ma questi concetti non bastano <lb/> mentre qui sono avvisati
+<hi rend="italic">dal</hi><ptr target="#tn6" n="6"/> <hi rend="italic">loro Ambasciatore</hi><ptr target="#tn7" n="7"/> <hi rend="italic">che non si fa cosa, che non sia
+par-<lb/>tecipata con l’Ambasciatore spagnolo, ivi residente, et viene</hi>
+<lb/> <hi rend="italic">raportato, che le deliberationi siano
+quasi, che consultate</hi> <lb/> <hi rend="italic">dal medisimo
+Ambasciatore o almeno ne habbi una gran commu-<lb/>nicatione, vivono per
+tanto nel pensiero di quello, che <lb/> il tempo habbia a partorire, et
+pensono anco all’</hi><lb/><hi rend="italic">Inghilterra et
+qualcheduno m’ha detto esser</hi><ptr target="#tn8" n="8"/> <hi rend="italic"><lb/> d’inviare</hi><ptr target="#tn9" n="9"/> <hi rend="italic">un’ambasciata a quel Re <lb/> sotto
+qualche</hi><ptr target="#tn10" n="10"/> <hi rend="italic">intentione</hi><ptr target="#tn11" n="11"/> <hi rend="italic">pretesto, ma con particolar fine
+di divertir il ma-<lb/>trimonio di quel Re. La seconda principessa di <lb/>
+Spagna. Gratie.</hi> <lb/></p>
+          <p xml:id="p12">Dall’Haya a’ 3 decembre<ptr target="#tn12" n="12"/> 1616 <lb/></p>
+          <p xml:id="p13">di vostra Serenità <lb/></p>
+          <p xml:id="p14">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p15">Christofforo Suriano <lb/></p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f150v" n="150v"/>
+          <p xml:id="ps1">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="ps2">2<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="ps3">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="ps4">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="ps5">/ 150vC /</p>
+          <p xml:id="ps6">3 decembre 1616 ricevute 21 detto <lb/></p>
+          <p xml:id="ps7">Secretario Surian dall’Aya 2<hi rend="superscript">a</hi>
+<lb/></p>
+          <p xml:id="ps8">Avisi che tiene il principe Mauritio circa <lb/> l’elettione di re de’
+Romani. <lb/></p>
+          <p xml:id="ps9">Concetto che Colonia possa portar inanzi <lb/> il fatto. <lb/></p>
+          <p xml:id="ps10">Principi della Unione siano uniti solo <lb/> in far niente, et dormono.
+<lb/></p>
+          <p xml:id="ps11">Che il Dampier con denari di sopra <lb/> farà levata di 2mila fanti; et
+400 cavalli. <lb/></p>
+          <p xml:id="ps12">Quell’arciduca Ferdinando. <lb/></p>
+          <p xml:id="ps13">Che il conte di Buquoi sia per andarlo a servire. <lb/></p>
+          <p xml:id="ps14">Ragionamenti de’ Francesi sopra la discussione delle <lb/> genti di
+Nemurs, della Republica in appa-<lb/>renza proverà sodisfar a’ Spagnoli, ma
+in <lb/> effetto farà il servitio della Corona, et dell’amici, <lb/> l’istesso
+dice l’Ambasciator francese. <lb/></p>
+          <p xml:id="ps15">Ma non<ptr target="#tn13" n="13"/> bastano questi concetti perché <lb/> sono avisati di sopra detto
+l’ambasciatore di Spagna tiene <lb/> gran parte nelle deliberationi. <lb/></p>
+          <p xml:id="ps16">Vivono nel pensiero di ciò che porterà <lb/> il tempo; et pensano alle
+cose d’Inghilterra. <lb/></p>
+          <p xml:id="ps17">Forse con qualche intentione di mandar ambasciatore <lb/> sotto pretesto:
+ma per divertir il matrimonio di quel <hi rend="bold"><lb/></hi>
+<supplied>Principe</supplied><ptr target="#tn14" n="14"/> con la 2<hi rend="superscript">a</hi> principessa di
+Spagna. <hi rend="bold"><lb/></hi></p>
+          <p xml:id="ps18">L. SS. R. <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							/ 147v-148v /
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p><hi rend="italic">Segue</hi>
+  pensav<hi rend="italic">- depennato</hi>.</p>
+          </note>
+          <note xml:id="tn2">
+            <p>-o <hi rend="italic">corretta su</hi> -a.</p>
+          </note>
+          <note xml:id="tn3">
+            <p><hi rend="italic">Precede</hi> quadrucento
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn4">
+            <p>-ti <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn5">
+            <p>il tacito <hi rend="italic">aggiunto in sopralinea
+  su</hi> l’ <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn6">
+            <p>dal … Gratie <hi rend="italic">decodifica di testo
+  cifrato presente a c. 147r; con segno di rimando.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Aggiunto in sopralinea su</hi>
+  interesse <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn8">
+            <p><hi rend="italic">Segue</hi> in
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p><hi rend="italic">Precede</hi> termine
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn10">
+            <p>Sotto qualche <hi rend="italic">aggiunto nel margine
+  interno.</hi></p>
+          </note>
+          <note xml:id="tn11">
+            <p><hi rend="italic">Aggiunto in sopralinea con segno di
+  inserimento</hi>.</p>
+          </note>
+          <note xml:id="tn12">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn13">
+            <p><hi rend="italic">Segue</hi> gli
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn14">
+            <p>
+              <hi rend="italic">Piega nel supporto.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.62 date 1617-xx-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">62</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">199r-201v, 204r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-20">20 giugno 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">non ho havute altre lettere dal signor conte di Levenstein da quelle
+<lb/> che inviai a vostra Serenità la passata settimana. Il Calandrini <lb/> che
+è stato solito avvisarmi alcune volte le trattationi <lb/> di questo
+cavalliere mi scrive quanto vedrà dall’aggiunto <lb/> capitolo<ptr target="#tn1" n="1"/> di sue lettere del giorno di hieri; et il <lb/> capitan Mario,
+che<ptr target="#tn2" n="2"/> tornò qui sabbato a sera non mi <lb/> riportò cosa d’avantaggio;
+onde sto con ansietà <lb/> aspettando il fine di questa intrapresa del
+signor Conte. <lb/> In questo negotio mi regolerò conforme alle commissioni
+<lb/> che vostra Serenità mi ha precedentemente date, et il contento <lb/> che
+provo è di essermi conformato col senso di lei <lb/> nel risponder al detto
+capitan Mario. <lb/></p>
+          <p xml:id="p2">Questo mi ha detto, che vedendo, che va tanto alla lunga <lb/> la cosa,
+si sarebbe forse risoluto di passarsene a <lb/> Venetia ad offerirsi a
+vostra Serenità o perché impieghi la sua <lb/> persona; o gli dia qualche
+commissione di levata di <lb/> genti di qua. È bravo soldato, et
+esperimentato in <lb/> questi paesi se si risolverà a partire l’accompagnerò
+<lb/> con mie lettere per la Serenità vostra, et intenderò le <lb/> sue
+pretensioni, perché sappi ella regolarsi anticipa-<lb/>tamente nelle
+instanze. <lb/></p>
+          <p xml:id="p3">Del capitan Baldassini bastarà quanto riverentemente scrissi <lb/></p>
+          <pb xml:id="f199v" n="199v"/>
+          <p xml:id="p4">alla Serenità vostra la passata settimana perché resta condotto al
+servitio <lb/> con li 30 ducati al mese. Et per lettere del Pasini ho, che <lb/>
+haveva deliberato<ptr target="#tn3" n="3"/> far dimani la sua partenza per costì. <lb/></p>
+          <p xml:id="p5">Quanto al signor conte Gio. Giacomo Belgioioso anco di questo ella <lb/>
+haverà già inteso, ciò che hebbi dal fratello; et il detto <lb/> Pasini mi
+scrive haverli fatto con lettere intender quanto <lb/> occorre, et aspettava
+la risposta. <lb/></p>
+          <p xml:id="p6">La pratica per li doi strenui Luca Cayro<ptr target="#tn4" n="4"/>, et Gio. Cesati <lb/> non è andata avanti: poiché pare, che voglino
+viver <lb/> nel servitio che prestano alli serenissimi arciduchi. <lb/></p>
+          <p xml:id="p7">Al Pasini ho scritto nel particolar di quelli capitani che sono
+venuti <lb/> di Francia per saper come condurrebbono genti sotto de <lb/>
+titolo, et stipendio, et per ogn’altro particolare. <lb/></p>
+          <p xml:id="p8">Ha sempre il cavallier Studler mostrato buon animo <lb/> di far il
+viaggio; ma l’impedimento è nato sempre <lb/> dal mancamento di denaro, et
+dall’esser stato <lb/> prigioniero, et ultimamente intendo esser stato <lb/>
+fatto trattenere dall’agente d’Inghilterra appresso li serenissimi <lb/>
+arciduchi per voler haver sodisfattione di alcune <lb/> parole ingiuriose
+contra di lui. Io già, ricevuto il <lb/> commento dell’Eccellenze vostre
+intorno alla persona di esso<ptr target="#tn5" n="5"/> <lb/> cavalliere, havevo dato ordine al Pasini, che li <lb/></p>
+          <pb xml:id="f200r" n="200r"/>
+          <p xml:id="p9">facesse offerta, et li dasse denari per aiutarsi nel viaggio <lb/>
+caminando però cautamente; onde hoggi scrivo di nuovo <lb/> al Pasini, che
+procuri di far sicure le cose, et fermarsi <lb/> bene, che sia per passar a
+Venetia. <lb/></p>
+          <p xml:id="p10">Li serenissimi arciduchi diedero commissione li giorni passati <lb/> che
+fosse riformato il numero de’ cavalli, et de’ carri <lb/> trattenuti per
+servitio dell’artiglieria; ma, non essequita <lb/> ancora del tutto la
+riforma, hanno la settimana <lb/> passata rinovati gl’ordini in
+contrario<ptr target="#tn6" n="6"/>. Scrivono, <lb/> che a Brusseles si parlava diversamente. Alcuni <lb/>
+dicevano, che questi signori Stati volevano tentar <lb/> qualche cosa sopra
+Vesel; altri che sia per dar <lb/> gelosia alla Francia; ma che li più
+sensati presta-<lb/>vano molto poco credito a questi concetti. Si
+aggiun-<lb/>ge, che monsignor Vingarda luocotenente general
+dell’<lb/>artiglieria nei stati di sue Altezze andava visitando <lb/> tutte le
+artiglierie delle fortezze frontiere; et <lb/> che il marchese Spinola
+venerdì passato era<ptr target="#tn7" n="7"/> <lb/> partito di Brusseles con gran celerità per Marimont <lb/> il che
+dava anco maggior occasione di parlare <lb/> intendendosi appresso, che come
+per il passato non <lb/> volevano asentar piazza ad alcuna natione, se non
+con <lb/></p>
+          <pb xml:id="f200v" n="200v"/>
+          <p xml:id="p11">grandissima<ptr target="#tn8" n="8"/> fatica per via di memoriali decretati dal serenissimo <lb/> Alberto
+hora a più potere quanti ne vengono si per <lb/> cavallaria, come per
+infanteria sono aggregati; et mi <lb/> scrive il Pasini; che questo gli
+dispiaceva grandemente <lb/> perché molti, che haverebbono potuto passar al
+servitio di <lb/> vostra Serenità forse con questa occasione si
+appiglieranno al più <lb/> vicino partito. <lb/></p>
+          <p xml:id="p12">A nome del medesimo Pasini rendo a vostra Serenità humilissime, et <lb/>
+riverentissime gratie<ptr target="#tn9" n="9"/> del donativo che per parte di lei gli <lb/> ho fatto, ch’è stato
+aggradito da lui con testimonio di <lb/> gran riverenza, et di gran obligo,
+offerendo il sangue, <lb/> la vita, et quanto ha al mondo per servitio di
+vostra Serenità verso <lb/> la quale mi dice che non mancarà di diportarsi
+con <lb/> ogni fedeltà, et sincerità in tutte le cose che si vorrà <lb/> valere,
+et servir di lui, et che alleverà i figlioli <lb/> col medesimo humil devoto
+affetto, et certo dalle parole <lb/> delle sue lettere si scuopre una
+consolatione estraordinaria <lb/> di esser stato favorito, et honorato dal
+suo Principe. <lb/> Io trovata buona congiontura, gli feci haver cento <lb/>
+scudi, se bene rispetto al cambio delle monete sarà <lb/> qualche cosetta di
+più. Havendo l’Eccellenze vostre per loro <lb/> benignità rimesso a me il
+dargli quanto mi pareva <lb/></p>
+          <pb xml:id="f201r" n="201r"/>
+          <p xml:id="p13">ho stimato non poter far meno, et per hora bastar tanto per <lb/> dargli
+cuor di servire, et farlo sperare, che<ptr target="#tn10" n="10"/> saranno <lb/> ancora riconosciute le sue fatiche, et il suo buon
+servitio <lb/> il che mi prometto che da vostra Serenità sarà trovato buono,
+<lb/> et si compiacerà, che col tempo usi verso di lui qualche <lb/> altro segno
+della publica gratitudine, et munificenza <lb/> verso chi fedelmente la
+serve. Gratie etc. <lb/></p>
+          <p xml:id="p14">Dall’Haya a’ 20 giugno 1617 <lb/></p>
+          <p xml:id="p15">di vostra Serenità <lb/></p>
+          <p xml:id="p16">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p17">Christofforo Suriano <lb/></p>
+          <pb xml:id="f201v" n="201v"/>
+          <pb xml:id="f204r" n="204r"/>
+          <pb xml:id="f204v" n="204v"/>
+          <p xml:id="p18">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p19">2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="p20">
+            <hi rend="italic">Sigillo e traccia di sigillo</hi>
+          </p>
+          <p xml:id="p21">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p22">/ 204vC /</p>
+          <p xml:id="p23">1617 20 giugno ricevute 5 luglio <lb/></p>
+          <p xml:id="p24">Haya. 2<hi rend="superscript">da</hi> <lb/></p>
+          <p xml:id="p25">L. SS. R. <lb/></p>
+          <p xml:id="p26">n. 63</p>
+          <p xml:id="p27">Allegato I al n. 62 (cc. 202r-203v)</p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f202r" n="202r"/>
+          <p xml:id="ps1">In lettere 2<hi rend="superscript">e</hi> del secretario
+Surian dall’<lb/>Haya de’ 20 giugno 1617 <lb/></p>
+          <p xml:id="ps2">Capitolo di lettere de’ 19<ptr target="#tn11" n="11"/> giugno del Calandrini di <lb/> Amsterdam. <lb/></p>
+          <p xml:id="ps3">Il signor conte di Levenstein si ritrova qua tuttavia ha <lb/> assai
+difficoltà, et per parlarne chiaro faccio gran <lb/> dubio, che stenterà
+assai a uscire di questo <lb/> intrigo. Non avanza niente, restando su certi
+<lb/> termini di non voler dar a’ marinari quel do-<lb/>mandano, et pure volendo
+haverli bisognerà, <lb/> che passi per là. Non mancarò haver mira a quello <lb/>
+anderà passando facendoli parte del successo, et <lb/> baciando etc. <lb/></p>
+          <p xml:id="ps4">/ 202v-203r /</p>
+          <p xml:id="ps5">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <p xml:id="ps6">/ 203vB /</p>
+          <p xml:id="ps7">Capitolo di lettere del Calan-<lb/>drini di Amsterdam <lb/></p>
+          <p xml:id="ps8">2<hi rend="superscript">da</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p><hi rend="italic">Precede</hi> di un
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> tor-
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn3">
+            <p>-o <hi rend="italic">corretta su</hi>
+  -a<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>-o <hi rend="italic">corretta su</hi>
+  -a<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn5">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn6">
+            <p>-o <hi rend="italic">corretta su</hi>
+  -j<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Segue</hi> -n
+  <hi rend="italic">depennata.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn9">
+            <p>-e <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn10">
+            <p><hi rend="italic">Segue</hi> esser
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn11">
+            <p><hi rend="italic">Corretto su</hi>
+  7<hi rend="italic">.</hi></p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

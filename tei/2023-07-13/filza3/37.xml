@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter 3.81 date 1617-xx-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>xml</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">3</idno>
+            <idno type="letterno">81</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">243r-v, 256r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-14">14 gennaio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">Dall’Haya a’ 14 genaro 1617. <lb/></p>
+          <p xml:id="p2">di vostra Serenità <lb/></p>
+          <p xml:id="p3">humilissimo et devotissimo servitore <lb/></p>
+          <p xml:id="p4">Christofforo Suriano <lb/></p>
+          <pb xml:id="f243v" n="243v"/>
+          <pb xml:id="f256r" n="256r"/>
+          <pb xml:id="f256v" n="256v"/>
+          <p xml:id="p5">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p6">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="p7">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p8">/ 256vC /</p>
+          <p xml:id="p9">14 gennaro 1616<ptr target="#tn1" n="1"/> ricevute 15 marzo 1617 <lb/></p>
+          <p xml:id="p10">Segretario Surian dall’Haia <lb/></p>
+          <p xml:id="p11">Wasongoven<ptr target="#tn2" n="2"/> <lb/></p>
+          <p xml:id="p12">L. C. R. <lb/></p>
+          <p xml:id="p13">n. 82</p>
+          <p xml:id="p14">Allegato I al n. 81 (cc. 244r-v, 255r-v; tradotto a c. 245r)</p>
+          <p xml:id="p15">/ 244r-v /</p>
+          <p xml:id="p16">
+            <hi rend="italic">Segue testo in francese</hi>
+          </p>
+          <pb xml:id="f255r" n="255r"/>
+          <pb xml:id="f255v" n="255v"/>
+          <p xml:id="p17"><supplied>A</supplied>u serenissime <lb/><supplied>D</supplied>uc et republicque <lb/><supplied>d</supplied>e Venise <lb/></p>
+          <p xml:id="p18">
+            <hi rend="italic">Sigillo</hi>
+          </p>
+          <p xml:id="p19">n. 83</p>
+          <p xml:id="p20">Allegato II al n. 81 (cc. 245r-v, 254r-v; traduzione di c.
+244r-v)</p>
+          <pb xml:id="f245r" n="245r"/>
+          <p xml:id="p21">Serenissimo Prencipe <lb/></p>
+          <p xml:id="p22">essendo che il colonello Wassenhoven con nostra licenza ha fatto <lb/>
+levata di gente a piedi in questi paesi vista il suo accordo <lb/> fatto con
+la serenissima republica di Venetia; a sue grandissime <lb/> spese, et
+interesse, et trovandosi al presente pronto per partir <lb/> con il primo
+bon vento, havemo voluto racommandarlo con <lb/> esse sue genti alla
+Serenità vostra, supplicandola affettionatis-<lb/>simamente che le piaccia
+detto Colonello, con detta sua gente <lb/> di<ptr target="#tn3" n="3"/> ricever nella sua benigna gratia, et favorirlo nelle <lb/> occasioni
+che s’offerirano, si come havemo intiera confi-<lb/>denza, assicurandosi che
+faranno così valorosamente il debito <lb/> loro, che si faranno conoscere
+degni alla serenissima Republica <lb/> di questa nostra racomandatione, et
+se in altra occorenza <lb/> possiamo servir, et compiacer alla Serenità
+vostra, dimostraremo <lb/> sempre quanto amore portiamo a essa, et alla
+serenissima Republica <lb/> al suo bene, et conservatione del suo Stato;
+pregando nostro Signore <lb/> che conduca esso Colonello et la sua gente a
+salvamento, et <lb/> prosperi li dissegni della serenissima Republica per il
+bene della chris-<lb/>tianità, et conservi vostra Serenità. <lb/></p>
+          <p xml:id="p23">Serenissimo Duca in perfetta sanità, prosperità, et vita longa. <lb/></p>
+          <p xml:id="p24">In la Haia a dì 23 decembre 1616. <lb/></p>
+          <pb xml:id="f245v" n="245v"/>
+          <p xml:id="p25">/ 254r-v /</p>
+          <p xml:id="p26">n. 84</p>
+          <p xml:id="p27">Allegato III al n. 81 (cc. 246r-v, 253r-v; tradotto a c. 248r)</p>
+          <pb xml:id="f246r" n="246r"/>
+          <p xml:id="p28">
+            <hi rend="italic">Segue testo in francese</hi>
+          </p>
+          <pb xml:id="f246v" n="246v"/>
+          <pb xml:id="f253r" n="253r"/>
+          <pb xml:id="f253v" n="253v"/>
+          <p xml:id="p29"><supplied>…</supplied> Monseigneur <lb/></p>
+          <p xml:id="p30">Monseigneur le ducq de Venise <lb/></p>
+          <p xml:id="p31">
+            <hi rend="italic">Sigillo</hi>
+          </p>
+          <p xml:id="p32">n. 85</p>
+          <p xml:id="p33">Allegato IV al n. 81 (cc. 247r-v, 252r-v; tradotto a c. 249r)</p>
+          <p xml:id="p34">/ 247r-v /</p>
+          <p xml:id="p35">
+            <hi rend="italic">Segue testo in francese</hi>
+          </p>
+          <pb xml:id="f252r" n="252r"/>
+          <pb xml:id="f252v" n="252v"/>
+          <p xml:id="p36"><supplied>A</supplied>u serenissime <lb/><supplied>D</supplied>uc et republicque <lb/> de Venize<ptr target="#tn4" n="4"/> <lb/></p>
+          <p xml:id="p37">
+            <hi rend="italic">Traccia di sigillo</hi>
+          </p>
+          <p xml:id="p38">n. 86</p>
+          <p xml:id="p39">Allegato V al n. 81 (cc. 248r-v, 251r-v; traduzione di c. 246r)</p>
+          <pb xml:id="f248r" n="248r"/>
+          <p xml:id="p40">Signor mio <lb/></p>
+          <p xml:id="p41">il colonello Warsenhoven<ptr target="#tn5" n="5"/>, mi ha esposto essere all’ordine con la sua gente della <lb/> quale
+ha fatto levata in questi paesi per il servicio della serenissima
+Republica per <lb/> partirsi, et consequentemente, mi ha pregato di
+raccommandarlo affinché piaccia <lb/> alla Serenità vostra d’haverlo in
+buona, et favorabile consideratione, et tanto più che <lb/> mentre ha
+servito a questo Stato, se ne ha sempre comportato<ptr target="#tn6" n="6"/> bene, e debitamente. <lb/> Non ho voluto mancare di pregare la
+Serenità vostra, di favorirlo nel suo carrico, <lb/> assicurandomi che in
+esso suo carrico farà il debito suo, di maniera che la <lb/> Serenità vostra
+riceverà sodisfattione, et contento, et fra tanto pregarò il nostro
+signor Iddio <lb/> di conservare <lb/></p>
+          <p xml:id="p42">mio Signore in sua santa protettione. <lb/></p>
+          <p xml:id="p43">In la Haia a dì 17 di gennaro 1617 <lb/></p>
+          <p xml:id="p44">sottoscritto Mauritio di Nassau <lb/></p>
+          <pb xml:id="f248v" n="248v"/>
+          <p xml:id="p45">/ 251r-v /</p>
+          <p xml:id="p46">n. 87</p>
+          <p xml:id="p47">Allegato VI al n. 81 (cc. 249r-250v; traduzione di c. 247r-v)</p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f249r" n="249r"/>
+          <p xml:id="ps1">Serenissimo Principe <lb/></p>
+          <p xml:id="ps2">essendo che il colonello Wassenhoven con la nostra licenza ha fatto
+le-<lb/>vata in questi Paesi d’un regimento de soldati per servitio della
+serenissima <lb/> republica di Venetia, fin hora fu, sicome resta ancora
+impedito di <lb/> tempo contrario; di maniera, che non puol condur per
+cotesta città <lb/> di Venetia il sopradetto regimento, al quale deve
+soministrare il vito <lb/> et salarii a sue grande spese et interesse in le
+navi; nelle quale già <lb/> tre mesi imbarcato, per il sopradetto accidente
+(quale è raro in <lb/> queste parti) fu sequestrato dalla providenza di Dio,
+contra cui non <lb/> s’ha altro rimedio, che l’haver patienza con il tempo;
+per questo <lb/> preghiamo, et racommandiamo alla Serenità vostra, che le
+piacia sopra haver benigno risguardo, et scusare il sopradetto signor
+Colonello, che <lb/> lui non ha potuto cossì essatamente esseguire quello
+lui è conve-<lb/>nuto, come sempre n’ha havuto, et n’ha ancora il desiderio,
+et <lb/> bona volontà, et in questo la Serenità vostra farà cosa giusta et <lb/>
+ragionevole, et ne guardarà il sopradetto Wassenhoven della <lb/> sua tottal
+ruina, come anco li suoi amici, quali l’hanno aiutato, <lb/> et mentre ciò
+aspettiamo, pregaremo nostro Signore. <lb/></p>
+          <p xml:id="ps3">Serenissimo Prencipe di conservar la Serenità vostra in prosperità,
+et <lb/> vita longa, in la Haia a dì 11 di febraro 1617. <lb/></p>
+          <p xml:id="ps4">/ 249v-250v /</p>
+          <p xml:id="ps5">
+            <hi rend="italic">Bianche</hi>
+          </p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							lo spirito, et l’affetto, che il signor Gio. Serghes di Wassonhoven 
+ha impiegato per sodisfar all’obligatione, che già fece
+presen-tialmente alla Serenità vostra le è di già col mezo di diverse
+lettere  mie noto, pur mi trovo in obligo di significarle
+riveren-temente anco colle presenti esser stato singolare, et
+grandissimo.  Appariranno alle Eccellenze vostre gl’effetti colla
+condotta di quel  numero di genti, che ha levate in queste provincie 
+per servitio di quel serenissimo Dominio, et elle colla loro  prudenza
+considereranno essergli propria, et meritar  degnamente la gratia loro.
+Se la promette anco senza  mie lettere: tuttavia mi ha pregato, che lo
+accom-pagni con queste, et che per nome suo le supplichi  ad haver
+consideratione alle gravi spese che si sono  convenute fare per
+l’ammassamento delle genti, et  al lungo tempo, che si sono trattenute
+imbarcate,  che nel resto si rimette alla benignità loro, et  alla
+publica munificenza. Gratie etc. 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn2">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn3">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Così A.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p>-r- <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn6">
+            <p>-p- <hi rend="italic">corretta su</hi> -b-.</p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter uniformata.73 date 1617-xx-4 </title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+          <resp>transcription</resp>
+          <name>undefined</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Venice</settlement>
+            <institution>Archivio di Stato di Venezia</institution>
+            <collection>Senato, Dispacci, Signori Stati</collection>
+            <idno type="filza">uniformata</idno>
+            <idno type="letterno">73</idno>
+          </msIdentifier>
+        </msDesc>
+        <bibl>
+          <biblScope unit="page">242r-244v, 247r-v</biblScope>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name ref="bio.xml#cs">Christofforo Suriano</name>
+          <settlement>L’Aia</settlement>
+          <date when="1617-xx-4 ">4 luglio 1617</date>
+          <num>1</num>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="original">
+        <div type="text">
+          <p xml:id="p1">coll’occasione che partì di qua venerdì passato monsignor Tornon <lb/>
+uno dei capitani del signor conte di Levenstein per andar a trovarlo <lb/>
+gli scrissi, et lo eccitai alla speditione. Et rinovai anco <lb/> domenica
+altre lettere; ma ancor non veggo risposta di esse <lb/> solo un giovane,
+che si è trattenuto seco in Amsterdam <lb/> essendo venuto a trovarmi
+domenica mi ha riferito haver <lb/> il signor Conte concluso tutto, che
+stava per partir verso <lb/> Embden per ordinar a quanto occorreva da quella
+<lb/> parte, et che ’l capitano Tornon doveva esser di ritorno <lb/> hoggi o
+dimani per communicarmi tutto. Io havendo <lb/> scritto al signor Calandrini
+per haverne il certo, mi ha rescritto <lb/> che io credi pure non esser così
+avanzate le cose, che haveva <lb/> cavato da un altro de’ capitani del Conte
+che le navi si andavano<ptr target="#tn1" n="1"/> <lb/> apostando, et ne mancavano doi o tre, et che fra esse <lb/> navi
+ve ne era<ptr target="#tn2" n="2"/> una buona parte di ben proviste <lb/> con artiglieria a bastanza; ma
+qualche altra non <lb/> così, et poi mi aggiunge in un polizzino che le <lb/>
+navi conviene siano alli 25 di questo mese a <lb/> Embdem pronte per pigliar
+li soldati, et il signor Conte <lb/> pensava, che per tutta la settimana
+prossima<ptr target="#tn3" n="3"/> <lb/> si sarebbono spedite di là. Che è quel tanto ch’io <lb/> ho in
+questo proposito. Et certo se havessi creduto <lb/></p>
+          <pb xml:id="f242v" n="242v"/>
+          <p xml:id="p2">di avanzar il negotio colla mia assistenza l’haverei fatto <lb/>
+prontamente; ma sicuro, che la malitia de’ marinari col <lb/> vedermi
+presente haverebbe preso maggior vigore per sostentar <lb/> le loro
+pretensioni, et così difficoltar il negotio, me ne sono astenuto. Quello
+che vedrò poter fare in questo particolare <lb/> all’avanzamento di esso non
+lo tralascierò né trascurerò al <lb/> certo. <lb/></p>
+          <p xml:id="p3">Della persona atta al servitio di mare io ho procurato di <lb/> haverne
+informatione. Si troveranno molti; ma come <lb/> quelli che sono commodi in
+casa sua, difficilmente si moveranno <lb/> senza haver buon stipendio, et
+senza sicurezza della <lb/> carica speciale, che doveranno havere. Ne ho
+parlato <lb/> con sua Eccellenza che m’ha promesso d’informarsene ella
+ancora, <lb/> et procurerò di far quanto mi sarà possibile perché vostra
+Serenità <lb/> resti servita. Intanto quando ella stimi a proposito la <lb/>
+persona del capitano Pach, del quale scrissi a vostra Serenità colle <lb/>
+mie lettere de’ 18 marzo, et sarà arrivato di là col capitano <lb/>
+Mettonis, che mi fu descritto per buon huomo per l’essercitio del <lb/>
+mare, et per tale mi viene descritto anco al presente; et vostra <lb/>
+Serenità ne potrà prender informatione dal signor conte Gio. Ernesto <lb/> o
+altri che a lei pareranno più a proposito. <lb/></p>
+          <p xml:id="p4">Il residente Stich ha ricevute lettere dei 16 del passato
+scrit<supplied>te</supplied><ptr target="#tn4" n="4"/> <lb/></p>
+          <pb xml:id="f243r" n="243r"/>
+          <p xml:id="p5">dal secretario di suo fratello con avviso della morte successa in
+quel <lb/> punto del colonello Wassonhoven. Le lettere non gli pervenero che
+<lb/> hier mattina. Fu immediate al signor Bernvel, et avanti di andar
+nell’assemblea fu a darne parte a me ancora pregandomi <lb/> di supplicar a
+suo nome vostra Serenità di dichiarar nel fratel <lb/> suo la carica del
+colonellato stante, che egli ha havuto <lb/> quella di luocotenente di esso
+Wassonhoven; dicendo tener per <lb/> fermo, ch’ella mirerà in questa
+occasione et alle spese <lb/> che ha fatte per avanzar l’affare, che senza
+li ufficii <lb/> del padre suo, che allhora era nell’assemblea, sarebbe <lb/>
+andato in niente, et all’interesse dal quale è aggravata <lb/> per questa
+occasione la sua casa; et io gli dissi, che tanto <lb/> haverei scritto.
+Vostra Serenità vedrà la copia della lettera <lb/> ch’è aggiunta, et questi
+signori scrivono ad instanza di lui <lb/> alla Serenità vostra. Et in essa
+vi aggiongono anco raccomandatione <lb/> per li marinari, et per li soldati
+del reggimento con lasciar <lb/> anco alla prudenza di vostra Serenità se
+stima bene il metter detto <lb/> reggimento sotto il generalato del signor
+Conte, del che ho sentito <lb/> molti che hanno detto non dubitare, che
+ella<ptr target="#tn5" n="5"/> sia per <lb/> farlo, et ho pensiero, che anco sua Eccellenza
+concorri in questo commun <lb/> desiderio poiché in cose tali li signori
+Stati si sogliono regolar <lb/> col consiglio dell’Eccellenza sua. Et lo
+Stich ha mostrato di contentarsene <lb/></p>
+          <pb xml:id="f243v" n="243v"/>
+          <p xml:id="p6">mentre a questi Stati ha fatta l’instanza di haver esse lettere, <lb/> et
+le ha ricevute nella forma, che sono. <lb/></p>
+          <p xml:id="p7">Scriveranno anco per quanto intendo per un mastro d’armi de’ <lb/> quali
+ha fornito il Wassonhoven per il valor di settemilla cinquecento<ptr target="#tn6" n="6"/> <lb/> fiorini in circa de’ quali non ne ha havuti che doi milla <lb/>
+vorrebbe egli<ptr target="#tn7" n="7"/> esserne in qualche maniera risarcito <lb/> et è venuto egli ancora a
+pregarmi raccommandar a vostra Serenità <lb/> l’affare, et il suo interesse;
+poiché doverà ricorrer a lei un <lb/> suo nipote per suffraggio<ptr target="#tn8" n="8"/> per esser sodisfatto da quello che <lb/> haverà la carica del
+reggimento. <lb/></p>
+          <p xml:id="p8">Io mandai a vostra<ptr target="#tn9" n="9"/> Serenità con mie lettere de’
+<hi rend="smallcaps">xi</hi> marzo il ricever di quanto <lb/> il
+signor conte Gio. Ernesto haveva ricevuto da me in contanti, et <lb/> un
+altro ricever a parte di sette milla doicento fiorini, che <lb/> mi fece,
+come s’egli li havesse havuti, perché li pagassi ad un <lb/> mercante d’armi
+in Amsterdam quando un tal capitano non li <lb/> havesse pagati al tempo
+limitato: perché in tal caso li haverebbe <lb/> scontati nelle sue paghe. Al
+tempo stabilito non fu fatto <lb/> l’esborso, et il Quingetti lo fece a
+conto mio a primo <lb/> maggio; ma l’agente del signor Conte mi fece
+instanza di dover <lb/> differire<ptr target="#tn10" n="10"/> et doppo mi pregò di haver patienza ancora <lb/> per qualche
+settimana tanto che mi ha ridotto sin qui <lb/> senza la sodisfattione del
+detto denaro con la speranza <lb/></p>
+          <pb xml:id="f244r" n="244r"/>
+          <p xml:id="p9">che sempre da una in un’altra settimana dava il Capitano di <lb/>
+contarmelo, et ne ho sempre vedute le lettere. Hora io ho <lb/> stimato mio
+debito non differir più di darne conto alla Serenità vostra <lb/> perché
+ella se ne facci far la sodisfattione di là; compiacendosi <lb/> avvisarmi
+dell’essersene rifatta perché possi restituir all’agente <lb/> le altre doi
+copie del detto ricever, che tengo appresso di me; et io <lb/> in
+<supplied>t</supplied>anto<ptr target="#tn11" n="11"/> mi farò creditore di questa summa nei conti che <lb/> doverò
+presentare. Gratie etc. <lb/></p>
+          <p xml:id="p10">Dall’Haya a’ 4 luglio 1617 <lb/></p>
+          <p xml:id="p11">di vostra Serenità <lb/></p>
+          <p xml:id="p12">humilissimo, et devotissimo servitore <lb/></p>
+          <p xml:id="p13">Christofforo Suriano <lb/></p>
+          <pb xml:id="f244v" n="244v"/>
+          <pb xml:id="f247r" n="247r"/>
+          <pb xml:id="f247v" n="247v"/>
+          <p xml:id="p14">Al serenissimo principe di Venetia <lb/></p>
+          <p xml:id="p15">3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p16">
+            <hi rend="italic">Tracce di sigilli</hi>
+          </p>
+          <p xml:id="p17">
+            <hi rend="italic">Regesto antico</hi>
+          </p>
+          <p xml:id="p18">/ 247vC /</p>
+          <p xml:id="p19">4 luglio 1617 ricevute 16 detto <lb/></p>
+          <p xml:id="p20">Aia. 3<hi rend="superscript">a</hi> <lb/></p>
+          <p xml:id="p21">L. SS. R. <lb/></p>
+          <p xml:id="p22">n. 74</p>
+          <p xml:id="p23">Allegato I al n. 73 (cc. 245r-246v)</p>
+        </div>
+        <div type="secretarial">
+          <pb xml:id="f245r" n="245r"/>
+          <p xml:id="ps1">Copia della lettera delli signori Stati alla serenissima Republica
+<lb/></p>
+          <p xml:id="ps2">Serenissimio Duca <lb/></p>
+          <p xml:id="ps3">havendo inteso la morte del fu signor colonello Wassenhoven (a chi
+Dio doni pace) et <lb/> che noi siamo ben informati, che Gioanni Stich che è
+figliolo di uno delli deputati <lb/> della provincia di Ourisel nella nostra
+assemblea, è quello che à fatto il più <lb/> delle spese, et ogni debito, et
+diligenza per adrizzare et unir il suo reggimento, et <lb/> che d’avantaggio
+ha molto aiutato a far prestar credito al detto Colonello a fine di <lb/>
+avanzar il nolo de’ vasselli per il transporto del detto reggimento
+verso Venetia, <lb/> il che in parte è stato causa (ma particolarmente il
+suo valore et corraggio) che ha havuta <lb/> la comissione di luocotenente
+del detto Colonello. Noi non habbiamo potuto lasciar <lb/> serenissimo Duca
+di raccommandar affettuosisimamente a vostra Serenità che vi piaccia in
+consideratione <lb/> di ciò avanzar, et preferir il detto Gioan Stich
+innanti altri nella detta carica di <lb/> colonello, nel che vostra Serenità
+ci farà gran piacere, havendo ferma speranza che vostra Serenità <lb/> et la
+serenissima Republica si troveranno molto ben servite della sua persona,
+et del suo <lb/> commando. Di più raccommandamo colla medesima occasione che
+vostra Serenità voglia dar <lb/> ordine che li marinari, che hanno
+transportati li soldati possino esser pagati, come <lb/> anco rese contenti
+li soldati del detto reggimento, se già non lo sono sopra le loro <lb/>
+pretensioni stante che hanno l’equità, il dritto, et la giustitia dal
+canto loro; <lb/> et ciò fatto potrà vostra Serenità tanto meglio
+consultare, et risolver se sarà più con-<lb/>venevole, et ispediente per il
+servitio della detta serenissima Republica di ridur il detto <lb/>
+reggimento sotto il generalato del signor conte Gio. di Nassau nel che
+si rimettemo <lb/> pregando etc. <lb/></p>
+          <p xml:id="ps4">A’ 5 luglio <lb/></p>
+          <p xml:id="ps5">/ 245v-246r /</p>
+          <p xml:id="ps6">
+            <hi rend="italic">Bianche</hi>
+          </p>
+          <p xml:id="ps7">/ 246vB /</p>
+          <p xml:id="ps8">Lettera dei signori Stati alla serenissima Republica <lb/> per il Stich
+etc. <lb/></p>
+          <p xml:id="ps9">nella 3<hi rend="superscript">a</hi> <lb/></p>
+        </div>
+      </div>
+      <div type="notes">
+        <div type="summary">
+          <p>
+							Serenissimo Principe 
+						</p>
+        </div>
+        <div type="transcription_notes">
+          <note xml:id="tn1">
+            <p>-no <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn2">
+            <p><hi rend="italic">Segue</hi> -no
+  <hi rend="italic">depennato</hi>.</p>
+          </note>
+          <note xml:id="tn3">
+            <p>-ossima <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn4">
+            <p>
+              <hi rend="italic">Foro nel supporto.</hi>
+            </p>
+          </note>
+          <note xml:id="tn5">
+            <p><hi rend="italic">Corretto su</hi>
+  v(ostra)<hi rend="italic">;</hi>
+  <hi rend="italic">seguono parole depennate.</hi></p>
+          </note>
+          <note xml:id="tn6">
+            <p>cinque- <hi rend="italic">corretto su</hi> doi-.</p>
+          </note>
+          <note xml:id="tn7">
+            <p><hi rend="italic">Segue</hi> ancora
+  <hi rend="italic">depennato.</hi></p>
+          </note>
+          <note xml:id="tn8">
+            <p><hi rend="italic">Seconda</hi> -g-
+  <hi rend="italic">esito di correzione.</hi></p>
+          </note>
+          <note xml:id="tn9">
+            <p>
+              <hi rend="italic">Esito di correzione.</hi>
+            </p>
+          </note>
+          <note xml:id="tn10">
+            <p>-ff- <hi rend="italic">corrette su</hi>
+  -v-<hi rend="italic">.</hi></p>
+          </note>
+          <note xml:id="tn11">
+            <p>
+              <hi rend="italic">Foro nel supporto.</hi>
+            </p>
+          </note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
