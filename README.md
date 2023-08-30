@@ -1,11 +1,14 @@
-# The correspondence of Christofforo Suriano
-
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
+![ok](docs/images/logo.png)
+![huc](docs/images/huc.png)
+![tf](docs/images/tf-small.png)
+
+# The correspondence of Christofforo Suriano
 
 In this repo we develop a website for the correspondence of Christofforo Suriano.
 
-The proceed as follows:
+We proceed as follows:
 
 1.  There are incoming transcriptions in Word
 1.  They are converted to TEI
@@ -28,4 +31,6 @@ We'll provide a set of tutorials for that.
 # About
 
 [Project](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
+
+[Ph.D. thesis Pieter Geyl, 1913](https://archive.org/details/christofforosuri00geyl/page/n3/mode/2up)
 

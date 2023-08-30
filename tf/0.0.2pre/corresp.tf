@@ -1,0 +1,129 @@
+@node
+@author=Christofforo Suriano
+@contributors1=Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
+@contributors2=Nina Lamal
+@contributors3=Helmer Helmers
+@conversionCode=tei
+@conversionMethod=literal
+@converter=Dirk Roorda (Text-Fabric)
+@description=this is TEI attribute corresp
+@descriptionTf=Critical edition
+@institute1=HuC (Humanities Cluster) Amsterdam
+@institute2=Huygens Instituut Amsterdam
+@institute3=NL-LAB
+@language=it
+@schema=TEI + suriano
+@sourceFormat=TEI
+@teiVersion=2023-07-25
+@title=Letters
+@valueType=str
+@version=0.0.2pre
+@writtenBy=Text-Fabric
+@dateWritten=2023-07-27T11:36:49Z
+
+1267553	2
+1267555	2
+1267571	23
+1267577	25
+1267583	27
+27
+27
+1267595	33
+1267597	33
+1267602	36
+1267604	36
+36
+1267611	39
+39
+43
+1267629	44
+1267635	46
+1267640	49
+1267652	51
+51
+51
+51
+51
+1267662	57
+57
+1267669	60
+60
+60
+60
+1267698	68
+68
+68
+1267716	74
+74
+1267733	79
+1267739	81
+81
+81
+81
+81
+81
+1267750	88
+1267761	6
+6
+1267783	94
+1267824	102
+1267835	105
+1267856	10
+10
+10
+1267864	14
+14
+14
+1267872	18
+1267883	1
+1267904	23
+1267910	25
+25
+25
+1267918	29
+1267934	33
+1267965	39
+1267976	42
+42
+1267998	48
+1268004	4
+1268015	51
+1268026	54
+1268047	59
+1268058	62
+1268064	6
+6
+6
+1268077	65
+1268083	67
+71
+71
+1268101	73
+1268107	75
+1268113	77
+1268124	80
+80
+1268131	10
+1268137	83
+83
+1268149	87
+87
+87
+1268162	92
+1268168	94
+94
+1268185	99
+1268191	101
+1268197	12
+12
+1268209	104
+1268215	106
+1268226	109
+1268232	111
+1268238	113
+1268244	115
+1268255	118
+1268261	15
+1268267	120
+1268273	122
+1268304	18

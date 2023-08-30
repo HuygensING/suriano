@@ -67,12 +67,12 @@ Helmer Helmers
 
 ## version
 
-0.0.1
+0.0.2
 
 
 ## teiVersion
 
-2023-07-13
+2023-07-25
 
 
 ## schema

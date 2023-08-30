@@ -1,0 +1,71 @@
+3 36
+	expected: 238-242
+	found:    237-242
+	extra:    237
+	specs:
+		237bis r-v 
+		238r 
+		238v 
+		239r 
+		239v 
+		242r 
+		242v 
+		242vC 
+		240r 
+		240v 
+		241r 
+		241vB 
+4 48
+	expected: 256-267
+	found:    256-258,267
+	missing:  259-266
+	specs:
+		256r 
+		256v 
+		257r 
+		257v 
+		258r 
+		258v 
+		267r 
+		267v 
+		267vC 
+4 49
+	expected: 268-266
+	found:    259-266
+	extra:    259-266
+	specs:
+		259r 
+		259v 
+		260r 
+		260v 
+		261r 
+		261v 
+		266r 
+		266v 
+		266vC 
+		262r 
+		262v 
+		265r 
+		265vB 
+		263r 
+		263v-264r 
+		264vB 
+4 50
+	expected: 267-274
+	found:    268-274
+	missing:  267
+	specs:
+		268r 
+		268v 
+		271r 
+		271v 
+		273bis r-v 
+		274r 
+		274v 
+		274vC 
+		269r-v 
+		270r-v 
+		272r 
+		272v 
+		273r 
+		273vB 
