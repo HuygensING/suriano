@@ -1,0 +1,41 @@
+entityType: ent
+entitySet: "{entityType}-nodes"
+
+bucketType: chunk
+
+features:
+  - eid
+  - kind
+
+keywordFeatures:
+  - kind
+
+summaryFeatures:
+  - kind
+
+defaultValues:
+  kind: PER
+
+transform:
+  d: ""
+  da: ""
+  dal: ""
+  de: ""
+  del: ""
+  dela: ""
+  der: ""
+  detto: ""
+  di: ""
+  el: ""
+  en: ""
+  et: ""
+  giovanni: "gio"
+  il: ""
+  la: ""
+  le: ""
+  of: ""
+  tot: ""
+  van: ""
+  von: ""
+  y: ""
+  zu: ""
