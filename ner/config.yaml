@@ -3,6 +3,9 @@ entitySet: "{entityType}-nodes"
 
 bucketType: chunk
 
+strFeature: str
+afterFeature: after
+
 features:
   - eid
   - kind
@@ -12,6 +15,8 @@ keywordFeatures:
 
 defaultValues:
   kind: PER
+
+spaceEscaped: false
 
 transform:
   d: ""
