@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 4.58 date 1617-07-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">4</idno>
+                <idno type="letterno">58</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <biblScope unit="page">313r-v, 315r-v, 314r-314bis v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>L’Aia</settlement>
+            <date when="1617-07-26"></date>
+            <num>99, 100</num>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="original">
+    <div type="text" n="99">
+<head>26 luglio 1617, L’Aia (cc. 313r-v, 315r-v)</head>
+<pb xml:id="f313r" n="313r"/>
+<p>Replicata </p>
+<p>Serenissimo Principe </p>
+<p>fino hieri a sera havevo ispedito il mio dispaccio per vostra Serenità et in <lb/>
+questo punto mi arrivano lettere del signor Quingetti di Amsterdam <lb/>
+nelle quali mi avvisa haver tratti alla Serenità vostra dodici milla <lb/>
+ducati con lettera diretta a lei pagabile al signor Gratioso <lb/>
+dal Calice, pregandomi a scriver con quest’ordinario perché <lb/>
+le sudette sue lettere trovino ricapito appresso di lei. </p>
+<p>Io diedi commissione al sudetto Quingetti di far provi-<lb/>
+sione delli detti dodici milla ducati oltre la lettera delli <lb/>
+quindeci milla, che ho di credito in lui per far la summa<ptr target="#tn1" n="1"/> <lb/>
+delli vintisette milla, che doverò esborsar a suo tempo <lb/>
+al signor conte di Levenstein. Questo però mi dà materia <lb/>
+di aggiunger le presenti alla Serenità vostra perché si compiaccia <lb/>
+far che ’l signor Gratioso del Calice habbi la sodisfattione <lb/>
+del detto danaro, che doverà però esser pagato conforme <lb/>
+all’uso della piazza, et in banco. Gratie etc. </p>
+<p>Dall’Haya a’ 26<ptr target="#tn2" n="2"/> luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb xml:id="f313v" n="313v"/>
+<p><hi rend="italic">Bianca</hi></p>
+<pb xml:id="f315r" n="315r"/>
+<p><hi rend="italic">Bianca</hi></p>
+<pb xml:id="f315v" n="315v"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata </p>
+<p><hi rend="italic">Traccia di sigillo</hi></p>
+<p><hi rend="italic">Regesto antico</hi></p>
+<pb xml:id="f315vC" n="315vC"/>
+<p>26 luglio 1617 ricevute </p>
+<p>Aia </p>
+<p>L. C. R. </p>
+</div>
+<div type="appendix" n="100" corresp="99" source="314r-314bis v" >
+<head>Allegato I al n. 99 (c. 314r-314bis v)</head>
+<pb xml:id="f314r" n="314r"/>
+<p>Copia </p>
+<p>Serenissimo Principe </p>
+<p>havendomi el illustre signor Cristofforo Suriano secretario <lb/>
+de sua serenissima Republica residente in queste parti imposto <lb/>
+per dua diverse sue esso debba trare sino ducati dodeci mille <lb/>
+et indrizzarle a vostra Serenità, e s’è fatto<ptr target="#tn3" n="3"/> de tal somma per pagar <lb/>
+al signor Gratioso del Calice, credo averanno a servire per <lb/>
+spedire el illustrissimo signor conte de Leevensteyn e fare imbarcare <lb/>
+sua infanteria in la fiumara d’Emse per onde se per tera <lb/>
+esso signor Conte in breve, nostro Signor lo condciess<ptr target="#tn4" n="4"/> in salvo et a <lb/>
+sua<ptr target="#tn5" n="5"/> Serenità dia contento e felice govverno. </p>
+<p>Amsterdam a dì 25 lulio 1617 </p>
+<p>Siamo a dì primo agosto s’agionse Salvo che s’accompagna la secunda de conto delli <lb/>
+ducati dodice mille in copia detto confidando che in mancamento della prima ad essa <lb/>
+soprestarà il confidato recapito, nostro Signore la guardi da male. </p>
+<p>Gasparo Quingett </p>
+<pb xml:id="f314v-314bis_r" n="314v-314bis r"/>
+<p><hi rend="italic">Bianche</hi></p>
+<pb xml:id="f314bis_vB" n="314bis vB"/>
+<p>Al serenissimo <lb/>
+Principe veneto </p>
+</div>
+</div>
+<div type="secretarial">
+    
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> -m- <hi rendition="simple:italic">esito di correzione.</hi></p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> -6 <hi rendition="simple:italic">corretto su</hi>
+  -5<hi rendition="simple:italic">.</hi></p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> e s’è fatto <hi rendition="simple:italic">esito di correzione, come
+  pare.</hi></p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> <hi rendition="simple:italic">Come pare.</hi></p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> s- <hi rendition="simple:italic">esito di correzione.</hi></p></note>
+</div>
+<div type="summary">
+    
+</div>
+</body>
+</text>
+</TEI>

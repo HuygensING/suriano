@@ -67,12 +67,12 @@ Helmer Helmers
 
 ## version
 
-0.0.2
+0.0.3
 
 
 ## teiVersion
 
-2023-07-25
+2023-11-01
 
 
 ## schema
@@ -82,7 +82,7 @@ TEI + suriano
 
 ## Conversion
 
-Converted from TEI to Text-Fabric
+Converted from TEI to TF
 
 ## See also
 
