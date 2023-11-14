@@ -297,7 +297,7 @@ value | description
 `b` | bold font weight
 `below` | below the line
 `bold` | bold font weight
-`center` | horizontally centered text
+`center` | horizontally centred text
 `h1` | heading of level 1
 `h2` | heading of level 2
 `h3` | heading of level 3
