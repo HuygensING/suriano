@@ -4,6 +4,12 @@
 ![huc](docs/images/huc.png)
 ![tf](docs/images/tf-small.png)
 
+**N.B. Development of this resource has moved to HuC's own GitLab:**
+
+*   [suriano/letters](https://gitlab.huc.knaw.nl/suriano/letters)
+
+**This repo is archived now.**
+
 # The correspondence of Christofforo Suriano
 
 In this repo we develop a website for the correspondence of Christofforo Suriano.
