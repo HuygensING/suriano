@@ -1,0 +1,57 @@
+entityType: ent
+entitySet: "{entityType}-nodes"
+
+bucketType: chunk
+lineType: ln
+
+strFeature: str
+afterFeature: after
+
+features:
+  - eid
+  - kind
+
+keywordFeatures:
+  - kind
+
+defaultValues:
+  kind: PER
+
+featureMeta:
+  eid:
+    description: >-
+      Identifier of the entity, based on, but not identical with its string value.
+      Identifies an entity uniquely together with the kind feature.
+      Also present on entity occurrences. 
+    valueType: str
+  kind:
+    description: >-
+      Kind of the entity, e.g. PER, LOC.
+      Present on entities and entity occurrences. 
+    valueType: str
+
+spaceEscaped: false
+
+transform:
+  d: ""
+  da: ""
+  dal: ""
+  de: ""
+  del: ""
+  dela: ""
+  der: ""
+  detto: ""
+  di: ""
+  el: ""
+  en: ""
+  et: ""
+  giovanni: "gio"
+  il: ""
+  la: ""
+  le: ""
+  of: ""
+  tot: ""
+  van: ""
+  von: ""
+  y: ""
+  zu: ""

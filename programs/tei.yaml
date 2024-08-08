@@ -1,0 +1,142 @@
+generic:
+  author: Christofforo Suriano
+  title: Letters
+  language: it
+  converter: Dirk Roorda (Text-Fabric)
+  sourceFormat: TEI
+  descriptionTf: Critical edition
+  institute1: HuC (Humanities Cluster) Amsterdam
+  institute2: Huygens Instituut Amsterdam
+  institute3: NL-LAB
+  contributors1: |-
+    Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
+  contributors2: |-
+    Nina Lamal
+  contributors3: |-
+    Helmer Helmers
+
+models:
+  - suriano
+
+prelim: true
+granularity: token
+procins: false
+parentEdges: false
+siblingEdges: false
+lineModel:
+  model: II
+pageModel:
+  model: II
+  keepPb: true
+sectionModel: 
+  model: I
+  levels:
+  - folder
+  - file
+  - chunk
+  drillDownDivs: true
+  backMatter: backmatter
+
+extra:
+  date:
+    meta:
+      description: >-
+        Date when the letter was sent
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date@when
+      - correspAction:
+          type: sent
+      - correspDesc
+    nodeType: file
+  sender:
+    meta:
+      description: >-
+        Sender of the letter
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - name
+      - correspAction:
+          type: sent
+      - correspDesc
+    nodeType: file
+  senderloc:
+    meta:
+      description: >-
+        Place from where the letter was sent
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - settlement
+      - correspAction:
+          type: sent
+      - correspDesc
+    nodeType: file
+  recipient:
+    meta:
+      description: >-
+        Recipient of the letter
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - name
+      - correspAction:
+          type: received
+      - correspDesc
+    nodeType: file
+  recipientloc:
+    meta:
+      description: >-
+        Place where the letter was received
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - settlement
+      - correspAction:
+          type: received
+      - correspDesc
+    nodeType: file
+  summary:
+    meta:
+      description: >-
+        Summary of the letter in English
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - note
+      - correspDesc
+    nodeType: file
+  editornotes:
+    meta:
+      description: >-
+        Editorial notes about the attachments of the letter
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - note
+      - bibl
+      - sourceDesc
+    nodeType: file
+  shelfmark:
+    meta:
+      description: >-
+        Locator of the physical pages of the letter
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - idno:
+          type: shelf
+      - msIdentifier
+      - msDesc
+      - sourceDesc
+    nodeType: file

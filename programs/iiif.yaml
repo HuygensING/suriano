@@ -1,0 +1,207 @@
+switches:
+  dev:
+    server: 'https://suriano.diginfra.org'
+  prod:
+    server: 'https://suriano.huygens.knaw.nl'
+
+constants:
+  context: 'http://iiif.io/api/presentation/3/context.json'
+  profile: 'http://iiif.io/api/image/3/level1.json'
+  rightsCC0: 'http://creativecommons.org/publicdomain/zero/1.0/'
+  providerId: 'https://www.archiviodistatovenezia.it'
+  providerLabelIt: "L'Archivio di Stato di Venezia"
+  providerLabelEn: "Archive of the State of Venice"
+  provHomepageId: 'https://www.archiviodistatovenezia.it/it'
+  provHomepageLabel: 'Homepage of the Venetian State Archive'
+  provLogoId: 'providerlogo.png'
+  provLogoHeight: 268
+  provLogoWidth: 664
+  ext: 'jpg'
+  iiifRoot: '«server»/iiif/3/'
+  iiifParams: '/full/max/{rot}/default'
+  manifestRoot: '«server»/files/manifests/'
+  logoRoot: '«server»/files/logo'
+  coverRoot: '«server»/files/covers'
+  metaRoot: '«server»/files/meta'
+
+macros:
+  manifestUrl: '«manifestRoot»{folder}.json'
+  coversUrl: '«manifestRoot»covers.json'
+  canvasUrl: '«manifestRoot»{folder}.json/canvas/pages%2F{page}'
+  coverCanvasUrl: '«manifestRoot»covers.json/canvas/covers%2F{page}'
+  pageUrl: '«iiifRoot»pages%2F{page}.«ext»«iiifParams».«ext»'
+  coverUrl: '«iiifRoot»covers%2F{page}.«ext»«iiifParams».«ext»'
+
+scans:
+  manifestUrl:
+    folder:
+      vars:
+        folder: folder
+      value: '<manifestUrl>'
+  canvasUrl:
+    page:
+      vars:
+        folder: 'folder.folder'
+        page: facs
+      value: '<canvasUrl>' 
+    file:
+        vars:
+          folder: 'folder.folder'
+          page: '-page.facs'
+        value: '<canvasUrl>'
+  pageUrl:
+    page:
+      vars:
+        folder: 'folder.folder'
+        page: facs
+        rot: rend
+      value: '<pageUrl>' 
+  prev:
+    page:
+      vars:
+        node: '=-1'
+      value: '{node}' 
+    file:
+      vars:
+        node: '=-1'
+      value: '{node}' 
+  next:
+    page:
+      vars:
+        node: '=+1'
+      value: '{node}' 
+    file:
+      vars:
+        node: '=+1'
+      value: '{node}' 
+
+templates:
+  # manifestLevel:
+  pageSequence:
+    "@context": «context»
+    manifestInventory: '<manifestUrl>'
+    type: Manifest
+    label:
+      en:
+      - 'Folder {folder}'
+    metadata:
+    - label:
+        en:
+        - Filename
+      value:
+        en:
+        - '{folder}.json'
+    summary:
+      en:
+      - 'Folder of letters, aka filza, numbered as {folder}'
+    rights: «rightsCC0»
+    provider:
+    - id: '«providerId»'
+      type: Agent
+      label:
+      - en: '«providerLabelEn»'
+      - it: '«providerLabelIt»'
+      homepage:
+        - id: '«provHomepageId»'
+          type: Text
+          label:
+          - en: '«provHomepageLabel»'
+          format: text/html
+      logo:
+        - id: '«logoRoot»/«provLogoId»'
+          type: Image
+          format: text/html
+          height: '«provLogoHeight»'
+          width: '«provLogoWidth»'
+
+  coverSequence:
+    "@context": «context»
+    manifestInventory: '<coversUrl>'
+    type: Manifest
+    label:
+      en:
+      - 'Covers of all folders'
+    metadata:
+    - label:
+        en:
+        - Filename
+      value:
+        en:
+        - 'covers.json'
+    summary:
+      en:
+      - 'Cover pages of all folders, aka filzas aka filze'
+    rights: «rightsCC0»
+    provider:
+    - id: '«providerId»'
+      type: Agent
+      label:
+      - en: '«providerLabelEn»'
+      - it: '«providerLabelIt»'
+      homepage:
+        - id: '«provHomepageId»'
+          type: Text
+          label:
+          - en: '«provHomepageLabel»'
+          format: text/html
+      logo:
+        - id: '«logoRoot»/«provLogoId»'
+          type: Image
+          format: text/html
+          height: '«provLogoHeight»'
+          width: '«provLogoWidth»'
+
+  # canvasLevel
+  pageItem:
+    id: '<canvasUrl>'
+    type: Canvas
+    label: 
+      en:
+      - '{page}'
+    height: '{height}'
+    width: '{width}'
+    items:
+    - id: '<canvasUrl>/annotationpage'
+      type: AnnotationPage
+      items:
+      - id: '<canvasUrl>/anno'
+        type: Annotation
+        motivation: painting
+        body:
+          id: '<pageUrl>'
+          type: Image
+          height: '{height}'
+          width: '{width}'
+          service:
+          - '@id': '«iiifRoot»pages%2F{page}.«ext»'
+            '@type': ImageService2
+            profile: '«profile»'
+          format: image/jpeg
+        target: '<canvasUrl>'
+
+  coverItem:
+    id: '<coverCanvasUrl>'
+    type: Canvas
+    label: 
+      en:
+      - 'cover page {page}'
+    height: '{height}'
+    width: '{width}'
+    items:
+    - id: '<coverCanvasUrl>/annotationpage'
+      type: AnnotationPage
+      items:
+      - id: '<coverCanvasUrl>/anno'
+        type: Annotation
+        motivation: painting
+        body:
+          id: '<coverUrl>'
+          type: Image
+          height: '{height}'
+          width: '{width}'
+          service:
+          - '@id': '«iiifRoot»covers%2F{page}.«ext»'
+            '@type': ImageService2
+            profile: '«profile»'
+          format: image/jpeg
+        target: '<coverCanvasUrl>'
