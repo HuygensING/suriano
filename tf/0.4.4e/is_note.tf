@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-08T10:59:02Z
+@dateWritten=2024-08-12T13:38:42Z
 @description=whether a slot or word is in the note element
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.4e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-08T11:27:37Z
+@dateWritten=2024-08-12T13:58:15Z
 
 44	1
 50	1

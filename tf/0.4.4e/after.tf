@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-08T10:59:01Z
+@dateWritten=2024-08-12T13:38:41Z
 @description=the text after a word till the next word
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.4e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-08T11:27:36Z
+@dateWritten=2024-08-12T13:58:14Z
 
  
  

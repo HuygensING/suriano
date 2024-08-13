@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-08T10:59:02Z
+@dateWritten=2024-08-12T13:38:41Z
 @description=Editorial notes about the attachments of the letter
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.4e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-08T11:27:36Z
+@dateWritten=2024-08-12T13:58:15Z
 
 1676855	
 

@@ -59,10 +59,12 @@ from processhelpers import (
 
 
 SENDER = "sender"
+SENDERLOC = "senderLoc"
 RECIPIENT = "recipient"
 RECIPIENTLOC = "recipientLoc"
 SUMMARY = "summary"
 EDITORNOTES = "editorNotes"
+RESOURCES = "resources"
 SHELFMARK = "shelfmark"
 
 # parameters:
@@ -110,7 +112,10 @@ TEMPLATE = """\
             </msIdentifier>
         </msDesc>
         <bibl>
-            <note>{editorNotes}</note>
+            <note>
+                {editorNotes}.
+                {resources}.
+            </note>
             <biblScope unit="page">{biblScope}</biblScope>
         </bibl>
     </sourceDesc>
@@ -120,7 +125,7 @@ TEMPLATE = """\
         <note>{summary}</note>
         <correspAction type="sent">
             <name ref="bio.xml#cs">{sender}</name>
-            <settlement>{settlement}</settlement>
+            <settlement>{senderLoc}</settlement>
             <date when="{normalizedDate}">{date}</date>
             <num>{textNums}</num>
         </correspAction>
@@ -172,7 +177,7 @@ VALID_MONTH_PAT = rf"""\b{"|".join(VALID_MONTHS)}\b"""
 
 LETTER_SPLIT_RE = re.compile(
     r"""
-    \s*<p>\s*/\s*START\s+LETTER\s*/\s*</p>\s*
+    \s*<p>\s*(?:<hi\b[^>]*><lb\s*/></hi>)?/\s*START\s+LETTER\s*/\s*</p>\s*
     """,
     re.X | re.S,
 )
@@ -458,8 +463,8 @@ class TeiFromDocx(PageInfo):
             self.pageWarningCount += 1
 
         prefix = f"filza {filza}" if filza is not None else ""
-        prefix = f"{prefix}:{letter}" if letter is not None else ""
-        prefix = f"{prefix} n{textNum}" if textNum is not None else ""
+        prefix = f"{prefix}:{letter}" if letter is not None else prefix
+        prefix = f"{prefix} n{textNum}" if textNum is not None else prefix
         sep = ": " if prefix else ""
         msg = f"{prefix}{sep}{msg}"
         pageWarnings.append(msg)
@@ -545,10 +550,12 @@ class TeiFromDocx(PageInfo):
         monthI = fields["month"]
         dayI = fields["day"]
         senderI = fields[SENDER]
+        senderLocI = fields[SENDERLOC]
         recipientI = fields[RECIPIENT]
         recipientLocI = fields[RECIPIENTLOC]
         summaryI = fields[SUMMARY]
         editorNotesI = fields[EDITORNOTES]
+        resourcesI = fields[RESOURCES]
         shelfmarkI = fields[SHELFMARK]
 
         rows = [row for row in rows if any(c.value for c in row)]
@@ -560,17 +567,21 @@ class TeiFromDocx(PageInfo):
             return row[index].value or 0
 
         def fs(row, index):
-            return normalizeChars(row[index].value or "")
+            result = normalizeChars(row[index].value or "")
+            if result.startswith("(") and result.endswith(")"):
+                result = result[1:-1]
 
         for row in rows:
             year = fi(row, yearI)
             month = f"{fi(row, monthI):>02}"
             day = f"{fi(row, dayI):>02}"
             sender = fs(row, senderI)
+            senderLoc = fs(row, senderLocI)
             recipient = fs(row, recipientI)
             recipientLoc = fs(row, recipientLocI)
             summary = fs(row, summaryI)
             editorNotes = fs(row, editorNotesI)
+            resources = fs(row, resourcesI)
             shelfmark = fs(row, shelfmarkI)
 
             date = f"{year}-{month}-{day}"
@@ -578,10 +589,12 @@ class TeiFromDocx(PageInfo):
             information.setdefault(date, []).append(
                 dict(
                     sender=sender,
+                    senderLoc=senderLoc,
                     recipient=recipient,
                     recipientLoc=recipientLoc,
                     summary=summary,
                     editorNotes=editorNotes,
+                    resources=resources,
                     shelfmark=shelfmark,
                 )
             )
@@ -622,6 +635,15 @@ class TeiFromDocx(PageInfo):
         letters[-1] = STRIPTAIL_RE.sub("", letters[-1])
 
         for i, letterText in enumerate(letters):
+            if "START LETTER" in letterText:
+                self.pageWarn(
+                    True,
+                    "Undetected START LETTER",
+                    filza=filza,
+                    letter=i + 1,
+                    textNum=None,
+                )
+
             letterTexts.append(self.transform(filza, f"{i + 1:>03}", letterText))
 
         return letterTexts
@@ -669,6 +691,7 @@ class TeiFromDocx(PageInfo):
         thisPageInfo["texts"] = textInfo
 
         destLines = newTextLines
+        textKind = None
 
         def processPageMark(pageMark):
             filzaPages[pageMark].append((letter, textNum, ln))
@@ -716,10 +739,11 @@ class TeiFromDocx(PageInfo):
 
             if match:
                 if textNum:
-                    textInfo[textNum] = (
-                        set(pagesDeclared),
-                        tuple(pageMarks),
-                        set(textPages),
+                    textInfo[textNum] = dict(
+                        declared=set(pagesDeclared),
+                        marks=tuple(pageMarks),
+                        pages=set(textPages),
+                        kind=textKind,
                     )
                     pageMarks.clear()
                     pagesDeclared.clear()
@@ -737,6 +761,7 @@ class TeiFromDocx(PageInfo):
 
                 textNum = normText(match.group(1))
                 textNums.append(textNum)
+                textKind = None
                 startSection = True
                 continue
 
@@ -780,6 +805,7 @@ class TeiFromDocx(PageInfo):
 
                 if match:
                     (romanNum, target) = match.group(1, 2)
+                    textKind = "attachment"
                     atts = (
                         f"""facs="{romanNum}" n="{textNum}" """
                         f"""corresp="{target}" source="{pageSpecs}" """
@@ -787,8 +813,10 @@ class TeiFromDocx(PageInfo):
                     newTextLines.append(f"""<div type="appendix" {atts}>""")
                 else:
                     match = LETTER_RE.match(kindSpec)
+
                     if match:
                         (dateSpec, placeSpec) = match.group(1, 2)
+                        textKind = "letter"
                         date = dateSpec
                         settlement = placeSpec.strip()
                         match = DATE_RE.match(dateSpec)
@@ -820,9 +848,7 @@ class TeiFromDocx(PageInfo):
                 pre, pageMark, post = match.group(1, 2, 3)
                 pageMarks.append(pageMark)
                 pages = processPageMark(pageMark)
-                pageSeq.extend(
-                    [f"{filza}_{page}" for page in pages if page.isTrue()]
-                )
+                pageSeq.extend([f"{filza}_{page}" for page in pages if page.isTrue()])
                 newText = (
                     pre + self.trimPage(filza, letter, textNum, pageMark, pages) + post
                 )
@@ -838,7 +864,12 @@ class TeiFromDocx(PageInfo):
             destLines.append(line)
 
         if textNum:
-            textInfo[textNum] = (set(pagesDeclared), tuple(pageMarks), set(textPages))
+            textInfo[textNum] = dict(
+                declared=set(pagesDeclared),
+                marks=tuple(pageMarks),
+                pages=set(textPages),
+                kind=textKind,
+            )
             newTextLines.append("</div>")
 
         if len(secrTextLines):
@@ -887,17 +918,21 @@ class TeiFromDocx(PageInfo):
             self.warn(filza, letter, "", "", normalizedDate, warning, summarize=True)
 
             sender = ""
+            senderLoc = ""
             recipient = ""
             recipientLoc = ""
             summary = ""
             editorNotes = ""
+            resources = ""
             shelfmark = ""
         else:
             sender = extraData[SENDER]
+            senderLoc = extraData[SENDERLOC]
             recipient = extraData[RECIPIENT]
             recipientLoc = extraData[RECIPIENTLOC]
             summary = extraData[SUMMARY]
             editorNotes = extraData[EDITORNOTES]
+            resources = extraData[RESOURCES]
             shelfmark = extraData[SHELFMARK]
 
         return TEMPLATE.format(
@@ -911,10 +946,12 @@ class TeiFromDocx(PageInfo):
             respName=transcribers,
             material=text,
             sender=sender,
+            senderLoc=senderLoc,
             recipient=recipient,
             recipientLoc=recipientLoc,
             summary=summary,
             editorNotes=editorNotes,
+            resources=resources,
             shelfmark=shelfmark,
             notes="\n".join(NOTES),
         )
@@ -1320,9 +1357,19 @@ class TeiFromDocx(PageInfo):
                     rh.write(f"\tLetter {letter}\n")
                     letterPageInfo = filzaPageInfo[letter]["texts"]
 
+                    nLetters = 0
+
                     for textNum in sorted(letterPageInfo):
-                        rh.write(f"\t\tText {textNum}\n")
-                        (pagesDeclared, pageMarks, pages) = letterPageInfo[textNum]
+                        lpInfo = letterPageInfo[textNum]
+                        pagesDeclared = lpInfo["declared"]
+                        pageMarks = lpInfo["marks"]
+                        pages = lpInfo["pages"]
+                        kind = lpInfo["kind"]
+
+                        if kind == "letter":
+                            nLetters += 1
+
+                        rh.write(f"\t\t{kind} {textNum}\n")
 
                         for pageMark in pageMarks:
                             occurrences = filzaPages[pageMark]
@@ -1397,6 +1444,15 @@ class TeiFromDocx(PageInfo):
                                 self.pageWarn(False, f"\t{msg1}")
                                 self.pageWarn(False, f"\t{msg2}")
                             rh.write(f"\t\t\t{msg1}\n\t\t\t{msg2}\n{msg3}{msg4}")
+
+                    if nLetters != 1:
+                        label = "missing letter text" if nLetters == 0 else "multiple letter texts"
+                        self.pageWarn(
+                            True,
+                            label,
+                            filza=filza,
+                            letter=letter,
+                        )
 
         with open(LETTERINFO_TXT, "w") as lh:
             for filza, letterInfo in sorted(letterTranscribers.items()):

@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-08T10:59:03Z
+@dateWritten=2024-08-12T13:38:43Z
 @description=Summary of the letter in English
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.4e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-08T11:27:38Z
+@dateWritten=2024-08-12T13:58:16Z
 
 1676855	Reports that he has arrived in Stuttgart on Monday. On Tuesday, he had an audience with Duke Johann Friedrich of Würtemburg to explain the current situation with the Uskoks. The Duke informs him that the prince of Palatinate has written, in name of all the members of the Union, to the Emperor to find a solution. The Duke assures him that they will continue to support Venice, and signals that he has prevented levies of troops in his duchy. After his audience, Suriano discusses the plan of princes of the Union further with the counsellor Buwinckhausen, an old aquintance from his as a secretary time at the English court.
 Suriano reports he has encountered some difficulties in obtaining an audience with the Margrave of Baden-Durlach. Upon his arrival in Durlach, the Margrave was leaving because his one year old daughter had just passed away. He also, however, took issue with how he was addressed by the Venetians, as he wants to be addressed as ’Serenissima’. A few men from his court visit Suriano to explain the matter, but Suriano rejects their arguments claiming the Venetian Republic only uses that title for the prince of Palatinate. Further Suriano reports that he has arrived in Heidelberg and he hopes to obtain an audience the next day. Meanwhile he was being entertained by a counsellor and met with Pieter Brederode, the Dutch ambassador to the German princes.

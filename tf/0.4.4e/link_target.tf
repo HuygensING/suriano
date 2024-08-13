@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal-processed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-08T10:59:03Z
+@dateWritten=2024-08-12T13:38:43Z
 @description=links to node identified by xml:id in attribute target
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.4e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-08T11:27:38Z
+@dateWritten=2024-08-12T13:58:16Z
 
 1956187	1887996
 1887997
