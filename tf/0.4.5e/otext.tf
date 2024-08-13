@@ -4,14 +4,14 @@
 @contributors2=Nina Lamal
 @contributors3=Helmer Helmers
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:24Z
+@dateWritten=2024-08-13T15:23:33Z
 @descriptionTf=Critical edition
 @fmt:text-orig-full={str}{after}
 @institute1=HuC (Humanities Cluster) Amsterdam
 @institute2=Huygens Instituut Amsterdam
 @institute3=NL-LAB
 @language=it
-@levelConstraints=note < chunk, p; salute < opener, closer; profileDesc < chunk; fileDesc < chunk; note < chunk; p < chunk
+@levelConstraints=note < chunk, p; salute < opener, closer; profileDesc < chunk; note < chunk; fileDesc < chunk; p < chunk
 @schema=TEI + suriano
 @sectionFeatures=folder,file,chunk
 @sectionTypes=folder,file,chunk
@@ -21,5 +21,5 @@
 @version=0.4.5
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:55Z
+@dateWritten=2024-08-13T15:25:46Z
 

@@ -19,14548 +19,14548 @@
 @valueType=str
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:32Z
 
-1666883	simple:italic
-1666885	simple:italic
-1666887	simple:italic
+1769186	simple:italic
+1769188	simple:italic
+1769190	simple:italic
 simple:italic
 simple:italic
-1666891	simple:italic
+1769194	simple:italic
 simple:italic
-1666894	simple:italic
-1666896	simple:italic
+1769197	simple:italic
+1769199	simple:italic
 simple:italic
-1666905	simple:italic
+1769208	simple:italic
 simple:italic
-1666908	simple:italic
-1666910	simple:italic
+1769211	simple:italic
+1769213	simple:italic
 simple:italic
-1666913	simple:italic
-1666915	simple:italic
-1666917	simple:italic
-1666919	simple:italic
-1666921	simple:italic
-1666923	simple:italic
-1666925	simple:italic
+1769216	simple:italic
+1769218	simple:italic
+1769220	simple:italic
+1769222	simple:italic
+1769224	simple:italic
+1769226	simple:italic
+1769228	simple:italic
 simple:italic
-1666928	simple:italic
+1769231	simple:italic
 simple:italic
-1666931	simple:italic
-1666935	simple:italic
-1666937	simple:italic
-1666939	simple:italic
-1666941	simple:italic
-1666943	simple:italic
-1666945	simple:italic
-1666947	simple:italic
+1769234	simple:italic
+1769238	simple:italic
+1769240	simple:italic
+1769242	simple:italic
+1769244	simple:italic
+1769246	simple:italic
+1769248	simple:italic
+1769250	simple:italic
 simple:italic
-1666958	simple:italic
-1666960	simple:italic
-1666962	simple:italic
-1666964	simple:italic
+1769261	simple:italic
+1769263	simple:italic
+1769265	simple:italic
+1769267	simple:italic
 simple:italic
-1666967	simple:italic
+1769270	simple:italic
 simple:italic
 simple:italic
-1666971	simple:italic
+1769274	simple:italic
 simple:italic
-1666974	simple:italic
+1769277	simple:italic
 simple:italic
-1666977	simple:italic
-1666979	simple:italic
-1666981	simple:italic
+1769280	simple:italic
+1769282	simple:italic
+1769284	simple:italic
 simple:italic
-1666984	simple:italic
-1666986	simple:italic
-1666988	simple:italic
-1666990	simple:italic
-1666992	simple:italic
-1666994	simple:italic
-1666996	simple:italic
+1769287	simple:italic
+1769289	simple:italic
+1769291	simple:italic
+1769293	simple:italic
+1769295	simple:italic
+1769297	simple:italic
+1769299	simple:italic
 simple:italic
-1666999	simple:italic
+1769302	simple:italic
 simple:italic
-1667002	simple:italic
+1769305	simple:italic
 simple:italic
-1667005	simple:italic
+1769308	simple:italic
 simple:italic
-1667008	simple:italic
-1667010	simple:italic
-1667012	simple:italic
+1769311	simple:italic
+1769313	simple:italic
+1769315	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1667017	simple:italic
-1667019	simple:italic
+1769320	simple:italic
+1769322	simple:italic
 simple:italic
-1667049	simple:italic
-1667051	simple:italic
-1667053	simple:italic
+1769352	simple:italic
+1769354	simple:italic
+1769356	simple:italic
 simple:italic
 simple:italic
-1667057	simple:italic
-1667059	simple:italic
+1769360	simple:italic
+1769362	simple:italic
 simple:italic
-1667062	simple:italic
-1667064	simple:italic
-1667066	simple:italic
-1667068	simple:italic
+1769365	simple:italic
+1769367	simple:italic
+1769369	simple:italic
+1769371	simple:italic
 simple:italic
-1667071	simple:italic
+1769374	simple:italic
 simple:italic
 simple:italic
-1667075	simple:italic
-1667077	simple:italic
-1667123	simple:italic
-1667125	simple:italic
-1667127	simple:italic
-1667129	simple:italic
+1769378	simple:italic
+1769380	simple:italic
+1769426	simple:italic
+1769428	simple:italic
+1769430	simple:italic
+1769432	simple:italic
 simple:italic
-1667132	simple:italic
-1667134	simple:italic
-1667136	simple:italic
+1769435	simple:italic
+1769437	simple:italic
+1769439	simple:italic
 simple:italic
-1667139	simple:italic
+1769442	simple:italic
 simple:italic
-1667142	simple:italic
-1667144	simple:italic
+1769445	simple:italic
+1769447	simple:italic
 simple:italic
-1667147	simple:italic
-1667149	simple:italic
-1667151	simple:italic
-1667153	simple:italic
+1769450	simple:italic
+1769452	simple:italic
+1769454	simple:italic
+1769456	simple:italic
 simple:italic
-1667156	simple:italic
-1667158	simple:italic
-1667160	simple:italic
-1667162	simple:italic
-1667164	simple:italic
-1667166	simple:italic
-1667168	simple:italic
-1667170	simple:italic
-1667172	simple:italic
-1667193	simple:italic
-1667195	simple:italic
-1667197	simple:italic
+1769459	simple:italic
+1769461	simple:italic
+1769463	simple:italic
+1769465	simple:italic
+1769467	simple:italic
+1769469	simple:italic
+1769471	simple:italic
+1769473	simple:italic
+1769475	simple:italic
+1769496	simple:italic
+1769498	simple:italic
+1769500	simple:italic
 simple:italic
 simple:italic
-1667201	simple:italic
-1667203	simple:italic
+1769504	simple:italic
+1769506	simple:italic
 simple:italic
-1667206	simple:italic
+1769509	simple:italic
 simple:italic
-1667209	simple:italic
-1667211	simple:italic
-1667246	simple:italic
-1667248	simple:italic
+1769512	simple:italic
+1769514	simple:italic
+1769549	simple:italic
+1769551	simple:italic
 simple:italic
-1667251	simple:italic
+1769554	simple:italic
 simple:italic
-1667254	simple:italic
+1769557	simple:italic
 simple:italic
-1667257	simple:italic
+1769560	simple:italic
 simple:italic
-1667260	simple:italic
+1769563	simple:italic
 simple:italic
-1667263	simple:italic
+1769566	simple:italic
 simple:italic
-1667266	simple:italic
+1769569	simple:italic
 simple:italic
-1667269	simple:italic
+1769572	simple:italic
 simple:italic
-1667272	simple:italic
+1769575	simple:italic
 simple:italic
-1667275	simple:italic
+1769578	simple:italic
 simple:italic
-1667278	simple:italic
-1667282	simple:italic
-1667284	simple:italic
+1769581	simple:italic
+1769585	simple:italic
+1769587	simple:italic
 simple:italic
-1667287	simple:italic
-1667289	simple:italic
-1667291	simple:italic
-1667293	simple:italic
-1667295	simple:italic
+1769590	simple:italic
+1769592	simple:italic
+1769594	simple:italic
+1769596	simple:italic
+1769598	simple:italic
 simple:italic
-1667298	simple:italic
+1769601	simple:italic
 simple:italic
-1667310	simple:italic
-1667312	simple:italic
-1667314	simple:italic
+1769613	simple:italic
+1769615	simple:italic
+1769617	simple:italic
 simple:italic
-1667317	simple:italic
-1667319	simple:italic
-1667332	simple:italic
+1769620	simple:italic
+1769622	simple:italic
+1769635	simple:italic
 simple:italic
-1667335	simple:italic
-1667337	simple:italic
+1769638	simple:italic
+1769640	simple:italic
 simple:italic
-1667340	simple:italic
-1667342	simple:italic
+1769643	simple:italic
+1769645	simple:italic
 simple:italic
-1667345	simple:italic
+1769648	simple:italic
 simple:italic
-1667348	simple:italic
-1667350	simple:italic
+1769651	simple:italic
+1769653	simple:italic
 simple:italic
 simple:italic
-1667354	simple:italic
-1667356	simple:italic
-1667358	simple:italic
-1667372	simple:italic
+1769657	simple:italic
+1769659	simple:italic
+1769661	simple:italic
+1769675	simple:italic
 simple:italic
-1667375	simple:italic
+1769678	simple:italic
 simple:italic
-1667378	simple:italic
+1769681	simple:italic
 simple:italic
-1667381	simple:italic
-1667383	simple:italic
+1769684	simple:italic
+1769686	simple:italic
 simple:italic
-1667386	simple:italic
+1769689	simple:italic
 simple:italic
-1667389	simple:italic
+1769692	simple:italic
 simple:italic
-1667392	simple:italic
+1769695	simple:italic
 simple:italic
-1667395	simple:italic
-1667397	simple:italic
+1769698	simple:italic
+1769700	simple:italic
 simple:italic
-1667400	simple:italic
-1667402	simple:italic
-1667404	simple:italic
+1769703	simple:italic
+1769705	simple:italic
+1769707	simple:italic
 simple:italic
-1667407	simple:italic
+1769710	simple:italic
 simple:italic
-1667410	simple:italic
+1769713	simple:italic
 simple:italic
-1667413	simple:italic
-1667415	simple:italic
+1769716	simple:italic
+1769718	simple:italic
 simple:italic
-1667418	simple:italic
-1667420	simple:italic
-1667422	simple:italic
-1667424	simple:italic
+1769721	simple:italic
+1769723	simple:italic
+1769725	simple:italic
+1769727	simple:italic
 simple:italic
-1667427	simple:italic
+1769730	simple:italic
 simple:italic
-1667430	simple:italic
+1769733	simple:italic
 simple:italic
-1667433	simple:italic
-1667435	simple:italic
-1667437	simple:italic
+1769736	simple:italic
+1769738	simple:italic
+1769740	simple:italic
 simple:italic
-1667440	simple:italic
+1769743	simple:italic
 simple:italic
-1667443	simple:italic
+1769746	simple:italic
 simple:italic
-1667446	simple:italic
-1667448	simple:italic
-1667450	simple:italic
-1667452	simple:italic
-1667454	simple:italic
-1667456	simple:italic
+1769749	simple:italic
+1769751	simple:italic
+1769753	simple:italic
+1769755	simple:italic
+1769757	simple:italic
+1769759	simple:italic
 simple:italic
-1667459	simple:italic
+1769762	simple:italic
 simple:italic
-1667462	simple:italic
+1769765	simple:italic
 simple:italic
-1667465	simple:italic
+1769768	simple:italic
 simple:italic
-1667468	simple:italic
-1667470	simple:italic
+1769771	simple:italic
+1769773	simple:italic
 simple:italic
-1667473	simple:italic
-1667475	simple:italic
-1667477	simple:italic
-1667479	simple:italic
+1769776	simple:italic
+1769778	simple:italic
+1769780	simple:italic
+1769782	simple:italic
 simple:italic
-1667482	simple:italic
-1667484	simple:italic
+1769785	simple:italic
+1769787	simple:italic
 simple:italic
-1667487	simple:italic
-1667489	simple:italic
-1667491	simple:italic
-1667493	simple:italic
+1769790	simple:italic
+1769792	simple:italic
+1769794	simple:italic
+1769796	simple:italic
 simple:italic
-1667496	simple:italic
-1667498	simple:italic
-1667517	simple:italic
-1667519	simple:italic
-1667521	simple:italic
-1667523	simple:italic
-1667525	simple:italic
+1769799	simple:italic
+1769801	simple:italic
+1769820	simple:italic
+1769822	simple:italic
+1769824	simple:italic
+1769826	simple:italic
+1769828	simple:italic
 simple:italic
-1667528	simple:italic
-1667530	simple:italic
-1667532	simple:italic
-1667534	simple:italic
-1667536	simple:italic
-1667538	simple:italic
-1667540	simple:italic
+1769831	simple:italic
+1769833	simple:italic
+1769835	simple:italic
+1769837	simple:italic
+1769839	simple:italic
+1769841	simple:italic
+1769843	simple:italic
 simple:italic
-1667543	simple:italic
-1667545	simple:italic
+1769846	simple:italic
+1769848	simple:italic
 simple:italic
-1667548	simple:italic
+1769851	simple:italic
 simple:italic
-1667553	simple:italic
-1667555	simple:italic
-1667557	simple:italic
-1667559	simple:italic
-1667561	simple:italic
-1667563	simple:italic
+1769856	simple:italic
+1769858	simple:italic
+1769860	simple:italic
+1769862	simple:italic
+1769864	simple:italic
+1769866	simple:italic
 simple:italic
-1667566	simple:italic
-1667568	simple:italic
-1667570	simple:italic
-1667572	simple:italic
+1769869	simple:italic
+1769871	simple:italic
+1769873	simple:italic
+1769875	simple:italic
 simple:italic
-1667575	simple:italic
+1769878	simple:italic
 simple:italic
-1667578	simple:italic
-1667580	simple:italic
+1769881	simple:italic
+1769883	simple:italic
 simple:italic
-1667583	simple:italic
-1667585	simple:italic
-1667587	simple:italic
-1667589	simple:italic
-1667591	simple:italic
-1667593	simple:italic
-1667597	simple:italic
-1667599	simple:italic
-1667601	simple:italic
+1769886	simple:italic
+1769888	simple:italic
+1769890	simple:italic
+1769892	simple:italic
+1769894	simple:italic
+1769896	simple:italic
+1769900	simple:italic
+1769902	simple:italic
+1769904	simple:italic
 simple:italic
 simple:italic
-1667605	simple:italic
-1667619	simple:italic
-1667621	simple:italic
-1667623	simple:italic
-1667625	simple:italic
-1667627	simple:italic
+1769908	simple:italic
+1769922	simple:italic
+1769924	simple:italic
+1769926	simple:italic
+1769928	simple:italic
+1769930	simple:italic
 simple:italic
-1667630	simple:italic
-1667632	simple:italic
+1769933	simple:italic
+1769935	simple:italic
 simple:italic
-1667642	simple:italic
-1667644	simple:italic
+1769945	simple:italic
+1769947	simple:italic
 simple:italic
-1667647	simple:italic
+1769950	simple:italic
 simple:italic
-1667650	simple:italic
+1769953	simple:italic
 simple:italic
 simple:italic
-1667654	simple:italic
-1667656	simple:italic
-1667658	simple:italic
+1769957	simple:italic
+1769959	simple:italic
+1769961	simple:italic
 simple:italic
-1667661	simple:italic
-1667663	simple:italic
+1769964	simple:italic
+1769966	simple:italic
 simple:italic
-1667666	simple:italic
+1769969	simple:italic
 simple:italic
-1667669	simple:italic
-1667671	simple:italic
+1769972	simple:italic
+1769974	simple:italic
 simple:italic
-1667674	simple:italic
+1769977	simple:italic
 simple:italic
-1667677	simple:italic
-1667679	simple:italic
+1769980	simple:italic
+1769982	simple:italic
 simple:italic
-1667682	simple:italic
+1769985	simple:italic
 simple:italic
-1667685	simple:italic
+1769988	simple:italic
 simple:italic
-1667688	simple:italic
+1769991	simple:italic
 simple:italic
-1667691	simple:italic
+1769994	simple:italic
 simple:italic
-1667694	simple:italic
+1769997	simple:italic
 simple:italic
-1667697	simple:italic
-1667699	simple:italic
+1770000	simple:italic
+1770002	simple:italic
 simple:italic
-1667702	simple:italic
-1667704	simple:italic
-1667706	simple:italic
-1667708	simple:italic
+1770005	simple:italic
+1770007	simple:italic
+1770009	simple:italic
+1770011	simple:italic
 simple:italic
-1667711	simple:italic
+1770014	simple:italic
 simple:italic
 simple:italic
-1667715	simple:italic
+1770018	simple:italic
 simple:italic
-1667718	simple:italic
-1667720	simple:italic
-1667722	simple:italic
-1667724	simple:italic
+1770021	simple:italic
+1770023	simple:italic
+1770025	simple:italic
+1770027	simple:italic
 simple:italic
-1667727	simple:italic
+1770030	simple:italic
 simple:italic
-1667730	simple:italic
+1770033	simple:italic
 simple:italic
 simple:italic
-1667734	simple:italic
+1770037	simple:italic
 simple:italic
-1667737	simple:italic
+1770040	simple:italic
 simple:italic
-1667740	simple:italic
+1770043	simple:italic
 simple:italic
-1667743	simple:italic
+1770046	simple:italic
 simple:italic
-1667746	simple:italic
+1770049	simple:italic
 simple:italic
-1667749	simple:italic
-1667751	simple:italic
+1770052	simple:italic
+1770054	simple:italic
 simple:italic
-1667754	simple:italic
-1667756	simple:italic
-1667758	simple:italic
-1667760	simple:italic
-1667769	simple:italic
-1667771	simple:italic
+1770057	simple:italic
+1770059	simple:italic
+1770061	simple:italic
+1770063	simple:italic
+1770072	simple:italic
+1770074	simple:italic
 simple:italic
-1667774	simple:italic
-1667776	simple:italic
+1770077	simple:italic
+1770079	simple:italic
 simple:italic
-1667779	simple:italic
-1667781	simple:italic
-1667783	simple:italic
-1667791	simple:italic
+1770082	simple:italic
+1770084	simple:italic
+1770086	simple:italic
+1770094	simple:italic
 simple:italic
-1667794	simple:italic
-1667796	simple:italic
-1667798	simple:italic
-1667800	simple:italic
-1667802	simple:italic
-1667804	simple:italic
-1667806	simple:italic
+1770097	simple:italic
+1770099	simple:italic
+1770101	simple:italic
+1770103	simple:italic
+1770105	simple:italic
+1770107	simple:italic
+1770109	simple:italic
 simple:italic
-1667809	simple:italic
-1667811	simple:italic
+1770112	simple:italic
+1770114	simple:italic
 simple:italic
-1667814	simple:italic
+1770117	simple:italic
 simple:italic
-1667817	simple:italic
-1667819	simple:italic
+1770120	simple:italic
+1770122	simple:italic
 simple:italic
-1667822	simple:italic
-1667824	simple:italic
-1667826	simple:italic
-1667828	simple:italic
+1770125	simple:italic
+1770127	simple:italic
+1770129	simple:italic
+1770131	simple:italic
 simple:italic
-1667831	simple:italic
-1667833	simple:italic
-1667835	simple:italic
-1667837	simple:italic
-1667839	simple:italic
+1770134	simple:italic
+1770136	simple:italic
+1770138	simple:italic
+1770140	simple:italic
+1770142	simple:italic
 simple:italic
-1667842	simple:italic
-1667844	simple:italic
+1770145	simple:italic
+1770147	simple:italic
 simple:italic
-1667847	simple:italic
-1667849	simple:italic
-1667854	simple:italic
+1770150	simple:italic
+1770152	simple:italic
+1770157	simple:italic
 simple:italic
-1667857	simple:italic
-1667859	simple:italic
-1667861	simple:italic
-1667863	simple:italic
-1667865	simple:italic
-1667867	simple:italic
+1770160	simple:italic
+1770162	simple:italic
+1770164	simple:italic
+1770166	simple:italic
+1770168	simple:italic
+1770170	simple:italic
 simple:italic
-1667870	simple:italic
-1667872	simple:italic
-1667874	simple:italic
+1770173	simple:italic
+1770175	simple:italic
+1770177	simple:italic
 simple:italic
-1667877	simple:italic
+1770180	simple:italic
 simple:italic
-1667880	simple:italic
+1770183	simple:italic
 simple:italic
-1667883	simple:italic
-1667885	simple:italic
+1770186	simple:italic
+1770188	simple:italic
 simple:italic
-1667888	simple:italic
-1667900	simple:italic
-1667902	simple:italic
-1667904	simple:italic
+1770191	simple:italic
+1770203	simple:italic
+1770205	simple:italic
+1770207	simple:italic
 simple:italic
-1667907	simple:italic
-1667909	simple:italic
-1667911	simple:italic
-1667913	simple:italic
-1667915	simple:italic
-1667917	simple:italic
-1667919	simple:italic
+1770210	simple:italic
+1770212	simple:italic
+1770214	simple:italic
+1770216	simple:italic
+1770218	simple:italic
+1770220	simple:italic
+1770222	simple:italic
 simple:italic
-1667922	simple:italic
-1667924	simple:italic
+1770225	simple:italic
+1770227	simple:italic
 simple:italic
-1667927	simple:italic
+1770230	simple:italic
 simple:italic
-1667930	simple:italic
-1667932	simple:italic
-1667934	simple:italic
-1667936	simple:italic
-1667938	simple:italic
-1667940	simple:italic
+1770233	simple:italic
+1770235	simple:italic
+1770237	simple:italic
+1770239	simple:italic
+1770241	simple:italic
+1770243	simple:italic
 simple:italic
-1667945	simple:italic
-1667947	simple:italic
-1667949	simple:italic
-1667951	simple:italic
-1667953	simple:italic
-1667955	simple:italic
-1667957	simple:italic
-1667959	simple:italic
-1667961	simple:italic
-1667963	simple:italic
-1667965	simple:italic
-1667967	simple:italic
-1667969	simple:italic
-1667971	simple:italic
+1770248	simple:italic
+1770250	simple:italic
+1770252	simple:italic
+1770254	simple:italic
+1770256	simple:italic
+1770258	simple:italic
+1770260	simple:italic
+1770262	simple:italic
+1770264	simple:italic
+1770266	simple:italic
+1770268	simple:italic
+1770270	simple:italic
+1770272	simple:italic
+1770274	simple:italic
 simple:italic
 simple:italic
-1667975	simple:italic
-1667992	simple:italic
+1770278	simple:italic
+1770295	simple:italic
 simple:italic
-1667995	simple:italic
-1667997	simple:italic
-1667999	simple:italic
+1770298	simple:italic
+1770300	simple:italic
+1770302	simple:italic
 simple:italic
-1668002	simple:italic
-1668004	simple:italic
-1668006	simple:italic
+1770305	simple:italic
+1770307	simple:italic
+1770309	simple:italic
 simple:italic
-1668009	simple:italic
-1668011	simple:italic
-1668013	simple:italic
-1668015	simple:italic
-1668017	simple:italic
+1770312	simple:italic
+1770314	simple:italic
+1770316	simple:italic
+1770318	simple:italic
+1770320	simple:italic
 simple:italic
-1668020	simple:italic
+1770323	simple:italic
 simple:italic
-1668023	simple:italic
+1770326	simple:italic
 simple:italic
-1668026	simple:italic
-1668028	simple:italic
-1668030	simple:italic
-1668032	simple:italic
-1668034	simple:italic
-1668046	simple:italic
-1668048	simple:italic
-1668050	simple:italic
+1770329	simple:italic
+1770331	simple:italic
+1770333	simple:italic
+1770335	simple:italic
+1770337	simple:italic
+1770349	simple:italic
+1770351	simple:italic
+1770353	simple:italic
 simple:italic
 simple:italic
-1668054	simple:italic
-1668056	simple:italic
-1668058	simple:italic
+1770357	simple:italic
+1770359	simple:italic
+1770361	simple:italic
 simple:italic
-1668061	simple:italic
-1668063	simple:italic
+1770364	simple:italic
+1770366	simple:italic
 simple:italic
-1668071	simple:italic
+1770374	simple:italic
 simple:italic
-1668074	simple:italic
-1668076	simple:italic
-1668078	simple:italic
-1668080	simple:italic
-1668082	simple:italic
+1770377	simple:italic
+1770379	simple:italic
+1770381	simple:italic
+1770383	simple:italic
+1770385	simple:italic
 simple:italic
-1668085	simple:italic
-1668087	simple:italic
-1668089	simple:italic
+1770388	simple:italic
+1770390	simple:italic
+1770392	simple:italic
 simple:italic
-1668092	simple:italic
-1668094	simple:italic
-1668100	simple:italic
-1668102	simple:italic
-1668104	simple:italic
+1770395	simple:italic
+1770397	simple:italic
+1770403	simple:italic
+1770405	simple:italic
+1770407	simple:italic
 simple:italic
-1668107	simple:italic
-1668111	simple:italic
-1668113	simple:italic
+1770410	simple:italic
+1770414	simple:italic
+1770416	simple:italic
 simple:italic
-1668116	simple:italic
-1668118	simple:italic
-1668120	simple:italic
-1668122	simple:italic
+1770419	simple:italic
+1770421	simple:italic
+1770423	simple:italic
+1770425	simple:italic
 simple:italic
-1668129	simple:italic
-1668131	simple:italic
-1668133	simple:italic
+1770432	simple:italic
+1770434	simple:italic
+1770436	simple:italic
 simple:italic
-1668136	simple:italic
+1770439	simple:italic
 simple:italic
-1668139	simple:italic
-1668141	simple:italic
+1770442	simple:italic
+1770444	simple:italic
 simple:italic
-1668144	simple:italic
+1770447	simple:italic
 simple:italic
-1668147	simple:italic
-1668149	simple:italic
-1668151	simple:italic
+1770450	simple:italic
+1770452	simple:italic
+1770454	simple:italic
 simple:italic
-1668162	simple:italic
+1770465	simple:italic
 simple:italic
-1668165	simple:italic
-1668167	simple:italic
-1668169	simple:italic
-1668171	simple:italic
-1668173	simple:italic
-1668175	simple:italic
-1668177	simple:italic
+1770468	simple:italic
+1770470	simple:italic
+1770472	simple:italic
+1770474	simple:italic
+1770476	simple:italic
+1770478	simple:italic
+1770480	simple:italic
 simple:italic
-1668187	simple:italic
+1770490	simple:italic
 simple:italic
-1668190	simple:italic
+1770493	simple:italic
 simple:italic
-1668193	simple:italic
+1770496	simple:italic
 simple:italic
-1668196	simple:italic
-1668198	simple:italic
-1668200	simple:italic
-1668202	simple:italic
-1668251	simple:italic
-1668253	simple:italic
-1668255	simple:italic
-1668257	simple:italic
-1668259	simple:italic
-1668261	simple:italic
+1770499	simple:italic
+1770501	simple:italic
+1770503	simple:italic
+1770505	simple:italic
+1770554	simple:italic
+1770556	simple:italic
+1770558	simple:italic
+1770560	simple:italic
+1770562	simple:italic
+1770564	simple:italic
 simple:italic
-1668264	simple:italic
-1668266	simple:italic
+1770567	simple:italic
+1770569	simple:italic
 simple:italic
-1668269	simple:italic
+1770572	simple:italic
 simple:italic
-1668272	simple:italic
-1668274	simple:italic
+1770575	simple:italic
+1770577	simple:italic
 simple:italic
-1668277	simple:italic
-1668279	simple:italic
+1770580	simple:italic
+1770582	simple:italic
 simple:italic
-1668290	simple:italic
+1770593	simple:italic
 simple:italic
-1668293	simple:italic
+1770596	simple:italic
 simple:italic
-1668296	simple:italic
-1668298	simple:italic
+1770599	simple:italic
+1770601	simple:italic
 simple:superscript
 simple:italic
-1668328	simple:italic
-1668330	simple:italic
+1770631	simple:italic
+1770633	simple:italic
 simple:italic
-1668333	simple:italic
-1668335	simple:italic
-1668337	simple:italic
-1668339	simple:italic
-1668341	simple:italic
-1668343	simple:italic
+1770636	simple:italic
+1770638	simple:italic
+1770640	simple:italic
+1770642	simple:italic
+1770644	simple:italic
+1770646	simple:italic
 simple:italic
-1668346	simple:italic
+1770649	simple:italic
 simple:italic
-1668349	simple:italic
+1770652	simple:italic
 simple:italic
-1668352	simple:italic
+1770655	simple:italic
 simple:italic
-1668355	simple:italic
-1668357	simple:italic
+1770658	simple:italic
+1770660	simple:italic
 simple:italic
-1668360	simple:italic
+1770663	simple:italic
 simple:italic
-1668363	simple:italic
+1770666	simple:italic
 simple:italic
 simple:italic
-1668367	simple:italic
-1668379	simple:italic
-1668381	simple:italic
-1668383	simple:italic
+1770670	simple:italic
+1770682	simple:italic
+1770684	simple:italic
+1770686	simple:italic
 simple:italic
-1668386	simple:italic
+1770689	simple:italic
 simple:italic
-1668389	simple:italic
-1668391	simple:italic
-1668393	simple:italic
-1668395	simple:italic
-1668397	simple:italic
-1668399	simple:italic
-1668401	simple:italic
-1668403	simple:italic
-1668405	simple:italic
-1668407	simple:italic
-1668409	simple:italic
+1770692	simple:italic
+1770694	simple:italic
+1770696	simple:italic
+1770698	simple:italic
+1770700	simple:italic
+1770702	simple:italic
+1770704	simple:italic
+1770706	simple:italic
+1770708	simple:italic
+1770710	simple:italic
+1770712	simple:italic
 simple:italic
-1668412	simple:italic
-1668414	simple:italic
-1668416	simple:italic
-1668418	simple:italic
-1668420	simple:italic
-1668422	simple:italic
-1668424	simple:italic
-1668426	simple:italic
+1770715	simple:italic
+1770717	simple:italic
+1770719	simple:italic
+1770721	simple:italic
+1770723	simple:italic
+1770725	simple:italic
+1770727	simple:italic
+1770729	simple:italic
 simple:italic
-1668429	simple:italic
-1668431	simple:italic
-1668433	simple:italic
+1770732	simple:italic
+1770734	simple:italic
+1770736	simple:italic
 simple:italic
-1668436	simple:italic
+1770739	simple:italic
 simple:italic
-1668439	simple:italic
+1770742	simple:italic
 simple:italic
-1668442	simple:italic
-1668444	simple:italic
+1770745	simple:italic
+1770747	simple:italic
 simple:italic
-1668447	simple:italic
+1770750	simple:italic
 simple:italic
-1668450	simple:italic
-1668452	simple:italic
-1668454	simple:italic
-1668456	simple:italic
+1770753	simple:italic
+1770755	simple:italic
+1770757	simple:italic
+1770759	simple:italic
 simple:italic
-1668474	simple:italic
-1668476	simple:italic
+1770777	simple:italic
+1770779	simple:italic
 simple:italic
-1668479	simple:italic
+1770782	simple:italic
 simple:italic
-1668482	simple:italic
+1770785	simple:italic
 simple:italic
-1668485	simple:italic
+1770788	simple:italic
 simple:italic
-1668488	simple:italic
+1770791	simple:italic
 simple:italic
-1668491	simple:italic
-1668493	simple:italic
-1668495	simple:italic
+1770794	simple:italic
+1770796	simple:italic
+1770798	simple:italic
 simple:italic
-1668498	simple:italic
-1668500	simple:italic
+1770801	simple:italic
+1770803	simple:italic
 simple:italic
-1668503	simple:italic
-1668505	simple:italic
-1668507	simple:italic
+1770806	simple:italic
+1770808	simple:italic
+1770810	simple:italic
 simple:italic
-1668510	simple:italic
+1770813	simple:italic
 simple:italic
-1668513	simple:italic
+1770816	simple:italic
 simple:smallcaps
 simple:italic
-1668517	simple:italic
+1770820	simple:italic
 simple:smallcaps
 simple:italic
-1668521	simple:italic
+1770824	simple:italic
 simple:italic
-1668524	simple:italic
+1770827	simple:italic
 simple:italic
-1668527	simple:italic
+1770830	simple:italic
 simple:italic
-1668540	simple:italic
-1668542	simple:italic
+1770843	simple:italic
+1770845	simple:italic
 simple:italic
-1668545	simple:italic
+1770848	simple:italic
 simple:italic
-1668548	simple:italic
+1770851	simple:italic
 simple:italic
-1668551	simple:italic
-1668553	simple:italic
+1770854	simple:italic
+1770856	simple:italic
 simple:italic
-1668556	simple:italic
+1770859	simple:italic
 simple:italic
-1668559	simple:italic
-1668561	simple:italic
+1770862	simple:italic
+1770864	simple:italic
 simple:italic
-1668564	simple:italic
-1668566	simple:italic
+1770867	simple:italic
+1770869	simple:italic
 simple:italic
-1668569	simple:italic
+1770872	simple:italic
 simple:italic
-1668572	simple:italic
+1770875	simple:italic
 simple:italic
-1668575	simple:italic
-1668577	simple:italic
-1668579	simple:italic
-1668581	simple:italic
-1668609	simple:italic
-1668611	simple:italic
+1770878	simple:italic
+1770880	simple:italic
+1770882	simple:italic
+1770884	simple:italic
+1770912	simple:italic
+1770914	simple:italic
 simple:italic
 simple:italic
-1668615	simple:italic
-1668617	simple:italic
+1770918	simple:italic
+1770920	simple:italic
 simple:italic
-1668620	simple:italic
+1770923	simple:italic
 simple:italic
-1668623	simple:italic
-1668625	simple:italic
+1770926	simple:italic
+1770928	simple:italic
 simple:italic
-1668628	simple:italic
-1668630	simple:italic
+1770931	simple:italic
+1770933	simple:italic
 simple:italic
-1668633	simple:italic
-1668635	simple:italic
+1770936	simple:italic
+1770938	simple:italic
 simple:italic
-1668638	simple:italic
+1770941	simple:italic
 simple:italic
-1668641	simple:italic
-1668643	simple:italic
+1770944	simple:italic
+1770946	simple:italic
 simple:italic
-1668646	simple:italic
-1668648	simple:italic
+1770949	simple:italic
+1770951	simple:italic
 simple:italic
-1668651	simple:italic
-1668653	simple:italic
+1770954	simple:italic
+1770956	simple:italic
 simple:italic
-1668656	simple:italic
+1770959	simple:italic
 simple:italic
-1668659	simple:italic
-1668661	simple:italic
+1770962	simple:italic
+1770964	simple:italic
 simple:italic
-1668664	simple:italic
-1668666	simple:italic
+1770967	simple:italic
+1770969	simple:italic
 simple:italic
-1668669	simple:italic
-1668680	simple:italic
-1668682	simple:italic
-1668684	simple:italic
-1668686	simple:italic
+1770972	simple:italic
+1770983	simple:italic
+1770985	simple:italic
+1770987	simple:italic
+1770989	simple:italic
 simple:italic
-1668689	simple:italic
-1668691	simple:italic
-1668693	simple:italic
+1770992	simple:italic
+1770994	simple:italic
+1770996	simple:italic
 simple:italic
-1668696	simple:italic
-1668698	simple:italic
-1668700	simple:italic
-1668702	simple:italic
-1668704	simple:italic
-1668706	simple:italic
-1668708	simple:italic
-1668710	simple:italic
-1668712	simple:italic
-1668714	simple:italic
-1668716	simple:italic
-1668737	simple:italic
+1770999	simple:italic
+1771001	simple:italic
+1771003	simple:italic
+1771005	simple:italic
+1771007	simple:italic
+1771009	simple:italic
+1771011	simple:italic
+1771013	simple:italic
+1771015	simple:italic
+1771017	simple:italic
+1771019	simple:italic
+1771040	simple:italic
 simple:italic
-1668740	simple:italic
-1668742	simple:italic
+1771043	simple:italic
+1771045	simple:italic
 simple:italic
-1668745	simple:italic
-1668747	simple:italic
+1771048	simple:italic
+1771050	simple:italic
 simple:italic
-1668750	simple:italic
-1668752	simple:italic
+1771053	simple:italic
+1771055	simple:italic
 simple:italic
-1668755	simple:italic
+1771058	simple:italic
 simple:italic
-1668758	simple:italic
+1771061	simple:italic
 simple:italic
-1668761	simple:italic
-1668763	simple:italic
-1668765	simple:italic
-1668767	simple:italic
+1771064	simple:italic
+1771066	simple:italic
+1771068	simple:italic
+1771070	simple:italic
 simple:italic
-1668770	simple:italic
-1668774	simple:italic
+1771073	simple:italic
+1771077	simple:italic
 simple:italic
-1668777	simple:italic
+1771080	simple:italic
 simple:italic
-1668780	simple:italic
-1668782	simple:italic
-1668784	simple:italic
-1668786	simple:italic
-1668788	simple:italic
-1668790	simple:italic
+1771083	simple:italic
+1771085	simple:italic
+1771087	simple:italic
+1771089	simple:italic
+1771091	simple:italic
+1771093	simple:italic
 simple:italic
-1668793	simple:italic
-1668795	simple:italic
+1771096	simple:italic
+1771098	simple:italic
 simple:italic
-1668818	simple:italic
-1668820	simple:italic
+1771121	simple:italic
+1771123	simple:italic
 simple:italic
-1668823	simple:italic
-1668825	simple:italic
-1668827	simple:italic
-1668829	simple:italic
-1668831	simple:italic
-1668833	simple:italic
-1668835	simple:italic
-1668837	simple:italic
-1668846	simple:italic
+1771126	simple:italic
+1771128	simple:italic
+1771130	simple:italic
+1771132	simple:italic
+1771134	simple:italic
+1771136	simple:italic
+1771138	simple:italic
+1771140	simple:italic
+1771149	simple:italic
 simple:italic
-1668849	simple:italic
+1771152	simple:italic
 simple:italic
-1668852	simple:italic
-1668854	simple:italic
+1771155	simple:italic
+1771157	simple:italic
 simple:italic
-1668857	simple:italic
+1771160	simple:italic
 simple:italic
-1668860	simple:italic
+1771163	simple:italic
 simple:italic
-1668863	simple:italic
-1668865	simple:italic
+1771166	simple:italic
+1771168	simple:italic
 simple:italic
-1668868	simple:italic
-1668870	simple:italic
-1668872	simple:italic
+1771171	simple:italic
+1771173	simple:italic
+1771175	simple:italic
 simple:italic
-1668875	simple:italic
-1668877	simple:italic
-1668879	simple:italic
-1668881	simple:italic
-1668883	simple:italic
+1771178	simple:italic
+1771180	simple:italic
+1771182	simple:italic
+1771184	simple:italic
+1771186	simple:italic
 simple:italic
 simple:italic
-1668887	simple:italic
-1668889	simple:italic
+1771190	simple:italic
+1771192	simple:italic
 simple:italic
-1668892	simple:italic
+1771195	simple:italic
 simple:italic
-1668895	simple:italic
-1668897	simple:italic
-1668899	simple:italic
-1668901	simple:italic
+1771198	simple:italic
+1771200	simple:italic
+1771202	simple:italic
+1771204	simple:italic
 simple:italic
-1668904	simple:italic
+1771207	simple:italic
 simple:italic
-1668907	simple:italic
+1771210	simple:italic
 simple:italic
-1668921	simple:italic
-1668923	simple:italic
+1771224	simple:italic
+1771226	simple:italic
 simple:italic
-1668926	simple:italic
+1771229	simple:italic
 simple:italic
-1668929	simple:italic
-1668931	simple:italic
+1771232	simple:italic
+1771234	simple:italic
 simple:italic
 simple:italic
-1668935	simple:italic
-1668937	simple:italic
+1771238	simple:italic
+1771240	simple:italic
 simple:italic
-1668940	simple:italic
+1771243	simple:italic
 simple:italic
-1668943	simple:italic
-1668945	simple:italic
-1668947	simple:italic
-1668949	simple:italic
+1771246	simple:italic
+1771248	simple:italic
+1771250	simple:italic
+1771252	simple:italic
 simple:italic
-1668952	simple:italic
+1771255	simple:italic
 simple:italic
 simple:italic
-1668956	simple:italic
-1668958	simple:italic
-1668960	simple:italic
+1771259	simple:italic
+1771261	simple:italic
+1771263	simple:italic
 simple:italic
-1668963	simple:italic
-1668965	simple:italic
+1771266	simple:italic
+1771268	simple:italic
 simple:italic
-1668968	simple:italic
-1668970	simple:italic
-1668972	simple:italic
-1668974	simple:italic
-1668978	simple:italic
-1668980	simple:italic
+1771271	simple:italic
+1771273	simple:italic
+1771275	simple:italic
+1771277	simple:italic
+1771281	simple:italic
+1771283	simple:italic
 simple:italic
-1668985	simple:italic
+1771288	simple:italic
 simple:italic
-1668988	simple:italic
+1771291	simple:italic
 simple:italic
-1668991	simple:italic
-1668993	simple:italic
+1771294	simple:italic
+1771296	simple:italic
 simple:italic
-1668996	simple:italic
-1668998	simple:italic
+1771299	simple:italic
+1771301	simple:italic
 simple:italic
-1669006	simple:italic
-1669008	simple:italic
-1669010	simple:italic
+1771309	simple:italic
+1771311	simple:italic
+1771313	simple:italic
 simple:italic
-1669013	simple:italic
-1669015	simple:italic
+1771316	simple:italic
+1771318	simple:italic
 simple:italic
-1669018	simple:italic
-1669028	simple:italic
-1669030	simple:italic
+1771321	simple:italic
+1771331	simple:italic
+1771333	simple:italic
 simple:italic
-1669033	simple:italic
+1771336	simple:italic
 simple:italic
-1669036	simple:italic
-1669038	simple:italic
-1669040	simple:italic
+1771339	simple:italic
+1771341	simple:italic
+1771343	simple:italic
 simple:italic
-1669043	simple:italic
-1669045	simple:italic
-1669047	simple:italic
+1771346	simple:italic
+1771348	simple:italic
+1771350	simple:italic
 simple:italic
-1669050	simple:italic
-1669052	simple:italic
+1771353	simple:italic
+1771355	simple:italic
 simple:italic
-1669055	simple:italic
-1669057	simple:italic
-1669059	simple:italic
-1669061	simple:italic
+1771358	simple:italic
+1771360	simple:italic
+1771362	simple:italic
+1771364	simple:italic
 simple:italic
-1669064	simple:italic
+1771367	simple:italic
 simple:italic
-1669067	simple:italic
-1669069	simple:italic
-1669071	simple:italic
-1669073	simple:italic
+1771370	simple:italic
+1771372	simple:italic
+1771374	simple:italic
+1771376	simple:italic
 simple:italic
-1669076	simple:italic
+1771379	simple:italic
 simple:italic
-1669079	simple:italic
+1771382	simple:italic
 simple:italic
-1669082	simple:italic
+1771385	simple:italic
 simple:italic
-1669085	simple:italic
-1669087	simple:italic
-1669089	simple:italic
+1771388	simple:italic
+1771390	simple:italic
+1771392	simple:italic
 simple:italic
-1669092	simple:italic
+1771395	simple:italic
 simple:italic
-1669095	simple:italic
+1771398	simple:italic
 simple:italic
-1669098	simple:italic
+1771401	simple:italic
 simple:italic
-1669101	simple:italic
+1771404	simple:italic
 simple:italic
-1669104	simple:italic
+1771407	simple:italic
 simple:italic
-1669107	simple:italic
+1771410	simple:italic
 simple:italic
-1669110	simple:italic
+1771413	simple:italic
 simple:italic
-1669113	simple:italic
+1771416	simple:italic
 simple:italic
-1669116	simple:italic
+1771419	simple:italic
 simple:italic
-1669119	simple:italic
+1771422	simple:italic
 simple:italic
-1669122	simple:italic
+1771425	simple:italic
 simple:italic
-1669130	simple:italic
+1771433	simple:italic
 simple:italic
-1669133	simple:italic
+1771436	simple:italic
 simple:italic
-1669136	simple:italic
+1771439	simple:italic
 simple:italic
-1669139	simple:italic
+1771442	simple:italic
 simple:italic
-1669142	simple:italic
-1669144	simple:italic
+1771445	simple:italic
+1771447	simple:italic
 simple:italic
-1669147	simple:italic
-1669149	simple:italic
+1771450	simple:italic
+1771452	simple:italic
 simple:italic
-1669152	simple:italic
+1771455	simple:italic
 simple:italic
-1669155	simple:italic
+1771458	simple:italic
 simple:italic
-1669158	simple:italic
+1771461	simple:italic
 simple:italic
-1669161	simple:italic
+1771464	simple:italic
 simple:italic
-1669164	simple:italic
+1771467	simple:italic
 simple:italic
-1669167	simple:italic
+1771470	simple:italic
 simple:italic
-1669174	simple:italic
-1669176	simple:italic
+1771477	simple:italic
+1771479	simple:italic
 simple:italic
-1669179	simple:italic
+1771482	simple:italic
 simple:italic
-1669182	simple:italic
-1669184	simple:italic
-1669197	simple:italic
-1669199	simple:italic
-1669201	simple:italic
-1669203	simple:italic
+1771485	simple:italic
+1771487	simple:italic
+1771500	simple:italic
+1771502	simple:italic
+1771504	simple:italic
+1771506	simple:italic
 simple:italic
-1669206	simple:italic
+1771509	simple:italic
 simple:italic
-1669209	simple:italic
+1771512	simple:italic
 simple:italic
-1669212	simple:italic
-1669214	simple:italic
+1771515	simple:italic
+1771517	simple:italic
 simple:italic
-1669217	simple:italic
-1669219	simple:italic
+1771520	simple:italic
+1771522	simple:italic
 simple:italic
-1669222	simple:italic
+1771525	simple:italic
 simple:italic
-1669225	simple:italic
+1771528	simple:italic
 simple:italic
-1669228	simple:italic
+1771531	simple:italic
 simple:italic
 simple:italic
-1669232	simple:italic
-1669234	simple:italic
-1669236	simple:italic
+1771535	simple:italic
+1771537	simple:italic
+1771539	simple:italic
 simple:italic
-1669239	simple:italic
+1771542	simple:italic
 simple:italic
-1669242	simple:italic
-1669244	simple:italic
+1771545	simple:italic
+1771547	simple:italic
 simple:italic
-1669247	simple:italic
+1771550	simple:italic
 simple:italic
-1669250	simple:italic
+1771553	simple:italic
 simple:italic
-1669253	simple:italic
+1771556	simple:italic
 simple:italic
-1669256	simple:italic
+1771559	simple:italic
 simple:italic
-1669259	simple:italic
+1771562	simple:italic
 simple:italic
-1669262	simple:italic
+1771565	simple:italic
 simple:italic
-1669265	simple:italic
-1669267	simple:italic
+1771568	simple:italic
+1771570	simple:italic
 simple:italic
-1669270	simple:italic
+1771573	simple:italic
 simple:italic
-1669273	simple:italic
-1669275	simple:italic
+1771576	simple:italic
+1771578	simple:italic
 simple:italic
-1669278	simple:italic
-1669280	simple:italic
+1771581	simple:italic
+1771583	simple:italic
 simple:italic
-1669283	simple:italic
-1669285	simple:italic
+1771586	simple:italic
+1771588	simple:italic
 simple:italic
-1669288	simple:italic
+1771591	simple:italic
 simple:italic
-1669291	simple:italic
+1771594	simple:italic
 simple:italic
-1669294	simple:italic
+1771597	simple:italic
 simple:italic
-1669297	simple:italic
+1771600	simple:italic
 simple:italic
-1669300	simple:italic
+1771603	simple:italic
 simple:italic
-1669303	simple:italic
+1771606	simple:italic
 simple:italic
-1669306	simple:italic
+1771609	simple:italic
 simple:italic
-1669309	simple:italic
+1771612	simple:italic
 simple:italic
-1669312	simple:italic
+1771615	simple:italic
 simple:italic
-1669318	simple:italic
-1669320	simple:italic
+1771621	simple:italic
+1771623	simple:italic
 simple:italic
-1669323	simple:italic
-1669325	simple:italic
+1771626	simple:italic
+1771628	simple:italic
 simple:italic
-1669328	simple:italic
+1771631	simple:italic
 simple:italic
-1669331	simple:italic
+1771634	simple:italic
 simple:italic
-1669334	simple:italic
-1669336	simple:italic
+1771637	simple:italic
+1771639	simple:italic
 simple:italic
-1669339	simple:italic
-1669341	simple:italic
+1771642	simple:italic
+1771644	simple:italic
 simple:italic
-1669344	simple:italic
-1669351	simple:italic
-1669353	simple:italic
+1771647	simple:italic
+1771654	simple:italic
+1771656	simple:italic
 simple:italic
-1669356	simple:italic
-1669358	simple:italic
+1771659	simple:italic
+1771661	simple:italic
 simple:italic
-1669361	simple:italic
-1669363	simple:italic
-1669365	simple:italic
+1771664	simple:italic
+1771666	simple:italic
+1771668	simple:italic
 simple:italic
-1669368	simple:italic
-1669370	simple:italic
+1771671	simple:italic
+1771673	simple:italic
 simple:italic
-1669373	simple:italic
+1771676	simple:italic
 simple:italic
-1669376	simple:italic
+1771679	simple:italic
 simple:italic
-1669379	simple:italic
-1669381	simple:italic
-1669383	simple:italic
-1669385	simple:italic
-1669387	simple:italic
-1669389	simple:italic
-1669398	simple:italic
-1669400	simple:italic
+1771682	simple:italic
+1771684	simple:italic
+1771686	simple:italic
+1771688	simple:italic
+1771690	simple:italic
+1771692	simple:italic
+1771701	simple:italic
+1771703	simple:italic
 simple:italic
-1669403	simple:italic
+1771706	simple:italic
 simple:italic
-1669406	simple:italic
-1669408	simple:italic
-1669410	simple:italic
+1771709	simple:italic
+1771711	simple:italic
+1771713	simple:italic
 simple:italic
-1669413	simple:italic
+1771716	simple:italic
 simple:italic
-1669416	simple:italic
+1771719	simple:italic
 simple:italic
-1669419	simple:italic
-1669421	simple:italic
-1669423	simple:italic
+1771722	simple:italic
+1771724	simple:italic
+1771726	simple:italic
 simple:italic
-1669426	simple:italic
-1669428	simple:italic
-1669430	simple:italic
-1669432	simple:italic
-1669434	simple:italic
-1669436	simple:italic
-1669454	simple:italic
-1669456	simple:italic
-1669458	simple:italic
-1669460	simple:italic
-1669462	simple:italic
-1669464	simple:italic
-1669466	simple:italic
-1669468	simple:italic
-1669473	simple:italic
+1771729	simple:italic
+1771731	simple:italic
+1771733	simple:italic
+1771735	simple:italic
+1771737	simple:italic
+1771739	simple:italic
+1771757	simple:italic
+1771759	simple:italic
+1771761	simple:italic
+1771763	simple:italic
+1771765	simple:italic
+1771767	simple:italic
+1771769	simple:italic
+1771771	simple:italic
+1771776	simple:italic
 simple:italic
-1669476	simple:italic
-1669478	simple:italic
-1669480	simple:italic
-1669482	simple:italic
-1669484	simple:italic
-1669486	simple:italic
-1669488	simple:italic
-1669490	simple:italic
-1669492	simple:italic
-1669494	simple:italic
+1771779	simple:italic
+1771781	simple:italic
+1771783	simple:italic
+1771785	simple:italic
+1771787	simple:italic
+1771789	simple:italic
+1771791	simple:italic
+1771793	simple:italic
+1771795	simple:italic
+1771797	simple:italic
 simple:italic
-1669497	simple:italic
-1669499	simple:italic
-1669501	simple:italic
-1669508	simple:italic
+1771800	simple:italic
+1771802	simple:italic
+1771804	simple:italic
+1771811	simple:italic
 simple:italic
-1669511	simple:italic
-1669513	simple:italic
+1771814	simple:italic
+1771816	simple:italic
 simple:italic
-1669516	simple:italic
-1669518	simple:italic
-1669520	simple:italic
-1669522	simple:italic
+1771819	simple:italic
+1771821	simple:italic
+1771823	simple:italic
+1771825	simple:italic
 simple:italic
-1669525	simple:italic
+1771828	simple:italic
 simple:italic
-1669528	simple:italic
+1771831	simple:italic
 simple:italic
-1669532	simple:italic
-1669534	simple:italic
-1669536	simple:italic
-1669538	simple:italic
-1669540	simple:italic
+1771835	simple:italic
+1771837	simple:italic
+1771839	simple:italic
+1771841	simple:italic
+1771843	simple:italic
 simple:italic
-1669543	simple:italic
-1669545	simple:italic
+1771846	simple:italic
+1771848	simple:italic
 simple:italic
-1669548	simple:italic
-1669550	simple:italic
-1669552	simple:italic
-1669559	simple:italic
+1771851	simple:italic
+1771853	simple:italic
+1771855	simple:italic
+1771862	simple:italic
 simple:italic
-1669562	simple:italic
+1771865	simple:italic
 simple:italic
-1669565	simple:italic
-1669567	simple:italic
+1771868	simple:italic
+1771870	simple:italic
 simple:italic
-1669570	simple:italic
-1669572	simple:italic
+1771873	simple:italic
+1771875	simple:italic
 simple:italic
-1669575	simple:italic
-1669577	simple:italic
+1771878	simple:italic
+1771880	simple:italic
 simple:italic
-1669580	simple:italic
+1771883	simple:italic
 simple:italic
-1669583	simple:italic
+1771886	simple:italic
 simple:italic
-1669591	simple:italic
+1771894	simple:italic
 simple:italic
-1669594	simple:italic
-1669596	simple:italic
-1669602	simple:italic
+1771897	simple:italic
+1771899	simple:italic
+1771905	simple:italic
 simple:italic
-1669605	simple:italic
+1771908	simple:italic
 simple:italic
-1669608	simple:italic
-1669610	simple:italic
+1771911	simple:italic
+1771913	simple:italic
 simple:italic
-1669613	simple:italic
-1669615	simple:italic
-1669617	simple:italic
-1669619	simple:italic
+1771916	simple:italic
+1771918	simple:italic
+1771920	simple:italic
+1771922	simple:italic
 simple:italic
-1669622	simple:italic
-1669624	simple:smallcaps
+1771925	simple:italic
+1771927	simple:smallcaps
 simple:italic
-1669627	simple:italic
-1669629	simple:italic
-1669636	simple:italic
-1669638	simple:italic
-1669640	simple:italic
-1669642	simple:italic
-1669644	simple:italic
-1669646	simple:italic
-1669648	simple:italic
-1669650	simple:italic
-1669652	simple:italic
+1771930	simple:italic
+1771932	simple:italic
+1771939	simple:italic
+1771941	simple:italic
+1771943	simple:italic
+1771945	simple:italic
+1771947	simple:italic
+1771949	simple:italic
+1771951	simple:italic
+1771953	simple:italic
+1771955	simple:italic
 simple:italic
-1669659	simple:italic
-1669661	simple:italic
+1771962	simple:italic
+1771964	simple:italic
 simple:italic
-1669664	simple:italic
-1669666	simple:italic
-1669668	simple:italic
+1771967	simple:italic
+1771969	simple:italic
+1771971	simple:italic
 simple:italic
-1669671	simple:italic
+1771974	simple:italic
 simple:italic
-1669674	simple:italic
+1771977	simple:italic
 simple:italic
-1669677	simple:italic
-1669679	simple:italic
-1669681	simple:italic
-1669689	simple:italic
-1669691	simple:italic
-1669693	simple:italic
-1669695	simple:italic
-1669697	simple:italic
-1669704	simple:italic
+1771980	simple:italic
+1771982	simple:italic
+1771984	simple:italic
+1771992	simple:italic
+1771994	simple:italic
+1771996	simple:italic
+1771998	simple:italic
+1772000	simple:italic
+1772007	simple:italic
 simple:superscript
-1669707	simple:italic
+1772010	simple:italic
 simple:italic
 simple:italic
-1669711	simple:italic
-1669713	simple:italic
-1669715	simple:italic
-1669717	simple:italic
-1669719	simple:italic
+1772014	simple:italic
+1772016	simple:italic
+1772018	simple:italic
+1772020	simple:italic
+1772022	simple:italic
 simple:italic
-1669722	simple:italic
-1669724	simple:italic
-1669731	simple:italic
-1669733	simple:italic
-1669735	simple:italic
+1772025	simple:italic
+1772027	simple:italic
+1772034	simple:italic
+1772036	simple:italic
+1772038	simple:italic
 simple:italic
-1669738	simple:italic
+1772041	simple:italic
 simple:italic
-1669741	simple:italic
+1772044	simple:italic
 simple:italic
-1669744	simple:italic
-1669746	simple:italic
-1669748	simple:italic
+1772047	simple:italic
+1772049	simple:italic
+1772051	simple:italic
 simple:italic
-1669756	simple:italic
-1669758	simple:italic
-1669760	simple:italic
+1772059	simple:italic
+1772061	simple:italic
+1772063	simple:italic
 simple:italic
-1669763	simple:italic
+1772066	simple:italic
 simple:italic
-1669766	simple:italic
+1772069	simple:italic
 simple:italic
-1669769	simple:italic
+1772072	simple:italic
 simple:italic
-1669772	simple:italic
+1772075	simple:italic
 simple:italic
-1669775	simple:italic
+1772078	simple:italic
 simple:italic
-1669778	simple:italic
-1669780	simple:italic
+1772081	simple:italic
+1772083	simple:italic
 simple:italic
-1669783	simple:italic
-1669785	simple:italic
-1669787	simple:italic
+1772086	simple:italic
+1772088	simple:italic
+1772090	simple:italic
 simple:italic
-1669790	simple:italic
+1772093	simple:italic
 simple:italic
-1669793	simple:italic
-1669795	simple:italic
-1669797	simple:italic
-1669800	simple:italic
+1772096	simple:italic
+1772098	simple:italic
+1772100	simple:italic
+1772103	simple:italic
 simple:italic
-1669803	simple:italic
-1669805	simple:italic
-1669807	simple:italic
+1772106	simple:italic
+1772108	simple:italic
+1772110	simple:italic
 simple:italic
-1669810	simple:italic
-1669812	simple:italic
-1669814	simple:italic
-1669816	simple:italic
-1669818	simple:italic
+1772113	simple:italic
+1772115	simple:italic
+1772117	simple:italic
+1772119	simple:italic
+1772121	simple:italic
 simple:italic
-1669821	simple:italic
-1669823	simple:italic
-1669825	simple:italic
+1772124	simple:italic
+1772126	simple:italic
+1772128	simple:italic
 simple:italic
 simple:italic
-1669829	simple:italic
+1772132	simple:italic
 simple:italic
-1669832	simple:italic
-1669842	simple:italic
-1669844	simple:italic
-1669846	simple:italic
-1669848	simple:italic
-1669850	simple:italic
-1669852	simple:italic
-1669854	simple:italic
-1669856	simple:italic
-1669858	simple:italic
-1669860	simple:italic
+1772135	simple:italic
+1772145	simple:italic
+1772147	simple:italic
+1772149	simple:italic
+1772151	simple:italic
+1772153	simple:italic
+1772155	simple:italic
+1772157	simple:italic
+1772159	simple:italic
+1772161	simple:italic
+1772163	simple:italic
 simple:italic
-1669863	simple:italic
-1669865	simple:italic
+1772166	simple:italic
+1772168	simple:italic
 simple:italic
-1669868	simple:italic
+1772171	simple:italic
 simple:italic
-1669871	simple:italic
-1669873	simple:italic
-1669875	simple:italic
+1772174	simple:italic
+1772176	simple:italic
+1772178	simple:italic
 simple:italic
-1669878	simple:italic
+1772181	simple:italic
 simple:italic
-1669881	simple:italic
+1772184	simple:italic
 simple:italic
-1669884	simple:italic
+1772187	simple:italic
 simple:italic
-1669887	simple:italic
-1669889	simple:italic
+1772190	simple:italic
+1772192	simple:italic
 simple:italic
-1669892	simple:italic
+1772195	simple:italic
 simple:italic
-1669895	simple:italic
+1772198	simple:italic
 simple:italic
-1669898	simple:italic
-1669900	simple:italic
+1772201	simple:italic
+1772203	simple:italic
 simple:italic
-1669903	simple:italic
-1669905	simple:italic
+1772206	simple:italic
+1772208	simple:italic
 simple:italic
-1669908	simple:italic
+1772211	simple:italic
 simple:italic
-1669911	simple:italic
-1669913	simple:italic
-1669915	simple:italic
-1669917	simple:italic
+1772214	simple:italic
+1772216	simple:italic
+1772218	simple:italic
+1772220	simple:italic
 simple:italic
-1669920	simple:italic
+1772223	simple:italic
 simple:italic
-1669923	simple:italic
-1669926	simple:italic
+1772226	simple:italic
+1772229	simple:italic
 simple:italic
-1669929	simple:italic
+1772232	simple:italic
 simple:italic
 simple:italic
-1669933	simple:italic
+1772236	simple:italic
 simple:italic
-1669936	simple:italic
-1669938	simple:italic
-1669940	simple:italic
+1772239	simple:italic
+1772241	simple:italic
+1772243	simple:italic
 simple:italic
-1669943	simple:italic
+1772246	simple:italic
 simple:italic
-1669946	simple:italic
-1669948	simple:italic
-1669954	simple:italic
-1669956	simple:italic
-1669958	simple:italic
-1669960	simple:italic
-1669962	simple:italic
-1669964	simple:italic
-1669966	simple:italic
-1669968	simple:italic
-1669970	simple:italic
-1669980	simple:italic
-1669982	simple:italic
+1772249	simple:italic
+1772251	simple:italic
+1772257	simple:italic
+1772259	simple:italic
+1772261	simple:italic
+1772263	simple:italic
+1772265	simple:italic
+1772267	simple:italic
+1772269	simple:italic
+1772271	simple:italic
+1772273	simple:italic
+1772283	simple:italic
+1772285	simple:italic
 simple:italic
-1669985	simple:italic
+1772288	simple:italic
 simple:italic
-1669988	simple:italic
+1772291	simple:italic
 simple:italic
-1669991	simple:italic
-1669993	simple:italic
+1772294	simple:italic
+1772296	simple:italic
 simple:italic
-1669996	simple:italic
-1669998	simple:italic
+1772299	simple:italic
+1772301	simple:italic
 simple:italic
-1670001	simple:italic
+1772304	simple:italic
 simple:italic
 simple:italic
-1670005	simple:italic
+1772308	simple:italic
 simple:italic
-1670008	simple:italic
+1772311	simple:italic
 simple:italic
-1670011	simple:italic
-1670013	simple:italic
+1772314	simple:italic
+1772316	simple:italic
 simple:italic
-1670016	simple:italic
-1670018	simple:italic
+1772319	simple:italic
+1772321	simple:italic
 simple:italic
-1670021	simple:italic
-1670026	simple:italic
+1772324	simple:italic
+1772329	simple:italic
 simple:italic
-1670029	simple:italic
-1670031	simple:italic
+1772332	simple:italic
+1772334	simple:italic
 simple:italic
-1670034	simple:italic
-1670036	simple:italic
-1670038	simple:italic
+1772337	simple:italic
+1772339	simple:italic
+1772341	simple:italic
 simple:italic
-1670041	simple:italic
-1670050	simple:italic
+1772344	simple:italic
+1772353	simple:italic
 simple:italic
-1670053	simple:italic
-1670055	simple:italic
+1772356	simple:italic
+1772358	simple:italic
 simple:italic
-1670058	simple:italic
+1772361	simple:italic
 simple:italic
 simple:italic
-1670062	simple:italic
+1772365	simple:italic
 simple:italic
-1670065	simple:italic
+1772368	simple:italic
 simple:italic
-1670068	simple:italic
-1670070	simple:italic
-1670072	simple:italic
+1772371	simple:italic
+1772373	simple:italic
+1772375	simple:italic
 simple:italic
-1670075	simple:italic
+1772378	simple:italic
 simple:italic
-1670078	simple:italic
+1772381	simple:italic
 simple:italic
-1670081	simple:italic
+1772384	simple:italic
 simple:italic
-1670084	simple:italic
+1772387	simple:italic
 simple:italic
-1670087	simple:italic
+1772390	simple:italic
 simple:italic
-1670090	simple:italic
+1772393	simple:italic
 simple:italic
-1670093	simple:italic
+1772396	simple:italic
 simple:italic
-1670105	simple:italic
+1772408	simple:italic
 simple:italic
-1670108	simple:italic
+1772411	simple:italic
 simple:italic
-1670111	simple:italic
+1772414	simple:italic
 simple:italic
-1670114	simple:italic
+1772417	simple:italic
 simple:italic
-1670117	simple:italic
-1670119	simple:italic
+1772420	simple:italic
+1772422	simple:italic
 simple:italic
 simple:italic
-1670123	simple:italic
-1670125	simple:italic
-1670127	simple:italic
-1670129	simple:italic
-1670131	simple:italic
-1670133	simple:italic
+1772426	simple:italic
+1772428	simple:italic
+1772430	simple:italic
+1772432	simple:italic
+1772434	simple:italic
+1772436	simple:italic
 simple:italic
-1670136	simple:italic
-1670138	simple:italic
+1772439	simple:italic
+1772441	simple:italic
 simple:italic
-1670141	simple:italic
+1772444	simple:italic
 simple:italic
-1670144	simple:italic
+1772447	simple:italic
 simple:italic
-1670147	simple:italic
+1772450	simple:italic
 simple:italic
-1670150	simple:italic
+1772453	simple:italic
 simple:italic
-1670153	simple:italic
+1772456	simple:italic
 simple:italic
-1670156	simple:italic
+1772459	simple:italic
 simple:italic
-1670159	simple:italic
+1772462	simple:italic
 simple:italic
 simple:italic
-1670163	simple:italic
-1670165	simple:italic
+1772466	simple:italic
+1772468	simple:italic
 simple:italic
-1670168	simple:italic
+1772471	simple:italic
 simple:italic
 simple:italic
-1670172	simple:italic
-1670174	simple:italic
+1772475	simple:italic
+1772477	simple:italic
 simple:italic
-1670177	simple:italic
+1772480	simple:italic
 simple:italic
-1670180	simple:italic
+1772483	simple:italic
 simple:italic
-1670183	simple:italic
+1772486	simple:italic
 simple:italic
-1670186	simple:italic
+1772489	simple:italic
 simple:italic
-1670189	simple:italic
-1670191	simple:italic
+1772492	simple:italic
+1772494	simple:italic
 simple:italic
-1670194	simple:italic
+1772497	simple:italic
 simple:italic
-1670206	simple:italic
+1772509	simple:italic
 simple:italic
 simple:italic
-1670210	simple:italic
+1772513	simple:italic
 simple:italic
-1670213	simple:italic
-1670215	simple:italic
-1670217	simple:italic
+1772516	simple:italic
+1772518	simple:italic
+1772520	simple:italic
 simple:italic
 simple:italic
-1670221	simple:italic
+1772524	simple:italic
 simple:italic
-1670224	simple:italic
+1772527	simple:italic
 simple:italic
-1670233	simple:italic
+1772536	simple:italic
 simple:italic
-1670236	simple:italic
+1772539	simple:italic
 simple:italic
-1670239	simple:italic
-1670241	simple:italic
-1670243	simple:italic
+1772542	simple:italic
+1772544	simple:italic
+1772546	simple:italic
 simple:italic
-1670246	simple:italic
+1772549	simple:italic
 simple:italic
-1670249	simple:italic
-1670251	simple:italic
+1772552	simple:italic
+1772554	simple:italic
 simple:italic
-1670254	simple:italic
+1772557	simple:italic
 simple:italic
-1670257	simple:italic
-1670259	simple:italic
-1670261	simple:italic
-1670263	simple:italic
-1670265	simple:italic
-1670267	simple:italic
-1670276	simple:italic
-1670278	simple:italic
+1772560	simple:italic
+1772562	simple:italic
+1772564	simple:italic
+1772566	simple:italic
+1772568	simple:italic
+1772570	simple:italic
+1772579	simple:italic
+1772581	simple:italic
 simple:italic
-1670281	simple:italic
+1772584	simple:italic
 simple:italic
-1670284	simple:italic
+1772587	simple:italic
 simple:italic
-1670287	simple:italic
+1772590	simple:italic
 simple:italic
-1670290	simple:italic
-1670292	simple:italic
+1772593	simple:italic
+1772595	simple:italic
 simple:italic
-1670295	simple:italic
+1772598	simple:italic
 simple:italic
-1670298	simple:italic
+1772601	simple:italic
 simple:italic
-1670301	simple:italic
+1772604	simple:italic
 simple:italic
-1670304	simple:italic
-1670306	simple:italic
+1772607	simple:italic
+1772609	simple:italic
 simple:italic
-1670309	simple:italic
-1670311	simple:italic
+1772612	simple:italic
+1772614	simple:italic
 simple:italic
-1670314	simple:italic
+1772617	simple:italic
 simple:italic
-1670317	simple:italic
+1772620	simple:italic
 simple:italic
-1670320	simple:italic
+1772623	simple:italic
 simple:italic
-1670323	simple:italic
-1670325	simple:italic
+1772626	simple:italic
+1772628	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1670330	simple:italic
-1670332	simple:italic
-1670334	simple:italic
+1772633	simple:italic
+1772635	simple:italic
+1772637	simple:italic
 simple:italic
-1670337	simple:italic
+1772640	simple:italic
 simple:italic
-1670340	simple:italic
-1670342	simple:italic
+1772643	simple:italic
+1772645	simple:italic
 simple:italic
-1670345	simple:italic
-1670347	simple:italic
-1670349	simple:italic
+1772648	simple:italic
+1772650	simple:italic
+1772652	simple:italic
 simple:italic
 simple:italic
-1670353	simple:italic
-1670355	simple:italic
+1772656	simple:italic
+1772658	simple:italic
 simple:italic
-1670358	simple:italic
-1670360	simple:italic
+1772661	simple:italic
+1772663	simple:italic
 simple:italic
-1670363	simple:italic
-1670365	simple:italic
+1772666	simple:italic
+1772668	simple:italic
 simple:italic
-1670368	simple:italic
+1772671	simple:italic
 simple:italic
-1670371	simple:italic
+1772674	simple:italic
 simple:italic
-1670374	simple:italic
+1772677	simple:italic
 simple:italic
-1670377	simple:italic
+1772680	simple:italic
 simple:italic
-1670380	simple:italic
+1772683	simple:italic
 simple:italic
-1670383	simple:italic
+1772686	simple:italic
 simple:italic
-1670386	simple:italic
+1772689	simple:italic
 simple:italic
-1670389	simple:italic
+1772692	simple:italic
 simple:italic
 simple:italic
-1670393	simple:italic
-1670395	simple:italic
+1772696	simple:italic
+1772698	simple:italic
 simple:italic
-1670398	simple:italic
-1670400	simple:italic
+1772701	simple:italic
+1772703	simple:italic
 simple:italic
-1670403	simple:italic
-1670405	simple:italic
-1670407	simple:italic
+1772706	simple:italic
+1772708	simple:italic
+1772710	simple:italic
 simple:italic
-1670410	simple:italic
-1670412	simple:italic
+1772713	simple:italic
+1772715	simple:italic
 simple:italic
-1670420	simple:italic
+1772723	simple:italic
 simple:italic
-1670423	simple:italic
+1772726	simple:italic
 simple:italic
-1670426	simple:italic
-1670428	simple:italic
+1772729	simple:italic
+1772731	simple:italic
 simple:italic
-1670431	simple:italic
+1772734	simple:italic
 simple:italic
-1670437	simple:italic
+1772740	simple:italic
 simple:italic
-1670440	simple:italic
-1670442	simple:italic
+1772743	simple:italic
+1772745	simple:italic
 simple:italic
-1670445	simple:italic
+1772748	simple:italic
 simple:italic
-1670448	simple:italic
-1670450	simple:italic
-1670452	simple:italic
+1772751	simple:italic
+1772753	simple:italic
+1772755	simple:italic
 simple:italic
-1670455	simple:italic
+1772758	simple:italic
 simple:italic
-1670458	simple:italic
-1670460	simple:italic
+1772761	simple:italic
+1772763	simple:italic
 simple:italic
-1670463	simple:italic
-1670467	simple:italic
+1772766	simple:italic
+1772770	simple:italic
 simple:italic
-1670470	simple:italic
+1772773	simple:italic
 simple:italic
-1670473	simple:italic
+1772776	simple:italic
 simple:italic
-1670476	simple:italic
+1772779	simple:italic
 simple:italic
-1670479	simple:italic
+1772782	simple:italic
 simple:italic
-1670482	simple:italic
+1772785	simple:italic
 simple:italic
-1670485	simple:italic
-1670487	simple:italic
-1670489	simple:italic
+1772788	simple:italic
+1772790	simple:italic
+1772792	simple:italic
 simple:italic
-1670492	simple:italic
-1670494	simple:italic
-1670496	simple:italic
-1670505	simple:italic
+1772795	simple:italic
+1772797	simple:italic
+1772799	simple:italic
+1772808	simple:italic
 simple:superscript
-1670508	simple:italic
+1772811	simple:italic
 simple:italic
-1670511	simple:italic
-1670513	simple:italic
+1772814	simple:italic
+1772816	simple:italic
 simple:italic
-1670516	simple:italic
+1772819	simple:italic
 simple:italic
-1670519	simple:italic
+1772822	simple:italic
 simple:italic
-1670522	simple:italic
+1772825	simple:italic
 simple:italic
-1670525	simple:italic
-1670530	simple:italic
-1670532	simple:italic
-1670534	simple:italic
-1670543	simple:italic
-1670545	simple:italic
-1670550	simple:italic
-1670552	simple:italic
-1670554	simple:italic
-1670556	simple:italic
-1670558	simple:italic
-1670560	simple:italic
+1772828	simple:italic
+1772833	simple:italic
+1772835	simple:italic
+1772837	simple:italic
+1772846	simple:italic
+1772848	simple:italic
+1772853	simple:italic
+1772855	simple:italic
+1772857	simple:italic
+1772859	simple:italic
+1772861	simple:italic
+1772863	simple:italic
 simple:italic
-1670563	simple:italic
-1670565	simple:italic
+1772866	simple:italic
+1772868	simple:italic
 simple:italic
-1670568	simple:italic
+1772871	simple:italic
 simple:italic
-1670571	simple:italic
+1772874	simple:italic
 simple:italic
-1670574	simple:italic
+1772877	simple:italic
 simple:italic
-1670577	simple:italic
-1670586	simple:italic
-1670588	simple:italic
+1772880	simple:italic
+1772889	simple:italic
+1772891	simple:italic
 simple:italic
 simple:italic
-1670592	simple:italic
+1772895	simple:italic
 simple:italic
-1670595	simple:italic
-1670597	simple:italic
+1772898	simple:italic
+1772900	simple:italic
 simple:italic
-1670600	simple:italic
-1670609	simple:italic
+1772903	simple:italic
+1772912	simple:italic
 simple:italic
-1670612	simple:italic
+1772915	simple:italic
 simple:italic
-1670615	simple:italic
-1670617	simple:italic
+1772918	simple:italic
+1772920	simple:italic
 simple:italic
-1670620	simple:italic
-1670622	simple:italic
-1670624	simple:italic
+1772923	simple:italic
+1772925	simple:italic
+1772927	simple:italic
 simple:italic
-1670627	simple:italic
+1772930	simple:italic
 simple:italic
-1670633	simple:italic
-1670635	simple:italic
+1772936	simple:italic
+1772938	simple:italic
 simple:italic
-1670638	simple:italic
+1772941	simple:italic
 simple:italic
-1670650	simple:italic
+1772953	simple:italic
 simple:italic
-1670653	simple:italic
-1670655	simple:italic
+1772956	simple:italic
+1772958	simple:italic
 simple:italic
-1670658	simple:italic
-1670660	simple:italic
-1670662	simple:italic
+1772961	simple:italic
+1772963	simple:italic
+1772965	simple:italic
 simple:italic
-1670665	simple:italic
-1670667	simple:italic
-1670669	simple:italic
+1772968	simple:italic
+1772970	simple:italic
+1772972	simple:italic
 simple:italic
-1670672	simple:italic
+1772975	simple:italic
 simple:italic
-1670675	simple:italic
+1772978	simple:italic
 simple:italic
-1670678	simple:italic
-1670680	simple:italic
-1670682	simple:italic
-1670684	simple:italic
-1670686	simple:italic
-1670693	simple:italic
-1670695	simple:italic
+1772981	simple:italic
+1772983	simple:italic
+1772985	simple:italic
+1772987	simple:italic
+1772989	simple:italic
+1772996	simple:italic
+1772998	simple:italic
 simple:italic
-1670698	simple:italic
+1773001	simple:italic
 simple:italic
-1670701	simple:italic
+1773004	simple:italic
 simple:italic
-1670704	simple:italic
-1670706	simple:italic
-1670708	simple:italic
+1773007	simple:italic
+1773009	simple:italic
+1773011	simple:italic
 simple:italic
-1670713	simple:italic
-1670715	simple:italic
+1773016	simple:italic
+1773018	simple:italic
 simple:italic
-1670718	simple:italic
-1670720	simple:italic
+1773021	simple:italic
+1773023	simple:italic
 simple:italic
-1670723	simple:italic
+1773026	simple:italic
 simple:italic
-1670726	simple:italic
+1773029	simple:italic
 simple:italic
-1670729	simple:italic
-1670731	simple:italic
-1670733	simple:italic
+1773032	simple:italic
+1773034	simple:italic
+1773036	simple:italic
 simple:italic
-1670736	simple:italic
-1670743	simple:italic
-1670745	simple:italic
-1670747	simple:italic
-1670749	simple:italic
+1773039	simple:italic
+1773046	simple:italic
+1773048	simple:italic
+1773050	simple:italic
+1773052	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1670754	simple:italic
+1773057	simple:italic
 simple:italic
-1670757	simple:italic
-1670759	simple:italic
+1773060	simple:italic
+1773062	simple:italic
 simple:italic
-1670762	simple:italic
-1670764	simple:italic
-1670766	simple:italic
+1773065	simple:italic
+1773067	simple:italic
+1773069	simple:italic
 simple:italic
-1670771	simple:italic
-1670773	simple:italic
+1773074	simple:italic
+1773076	simple:italic
 simple:italic
-1670776	simple:italic
+1773079	simple:italic
 simple:italic
-1670779	simple:italic
+1773082	simple:italic
 simple:italic
-1670782	simple:italic
-1670784	simple:italic
-1670786	simple:italic
-1670788	simple:italic
-1670790	simple:italic
-1670792	simple:italic
-1670794	simple:italic
+1773085	simple:italic
+1773087	simple:italic
+1773089	simple:italic
+1773091	simple:italic
+1773093	simple:italic
+1773095	simple:italic
+1773097	simple:italic
 simple:italic
-1670797	simple:italic
+1773100	simple:italic
 simple:italic
-1670807	simple:italic
-1670809	simple:italic
+1773110	simple:italic
+1773112	simple:italic
 simple:italic
-1670812	simple:italic
+1773115	simple:italic
 simple:italic
-1670815	simple:italic
-1670817	simple:italic
+1773118	simple:italic
+1773120	simple:italic
 simple:italic
-1670820	simple:italic
-1670822	simple:italic
-1670824	simple:italic
-1670826	simple:italic
-1670828	simple:italic
-1670830	simple:italic
+1773123	simple:italic
+1773125	simple:italic
+1773127	simple:italic
+1773129	simple:italic
+1773131	simple:italic
+1773133	simple:italic
 simple:italic
-1670833	simple:italic
+1773136	simple:italic
 simple:italic
-1670836	simple:italic
+1773139	simple:italic
 simple:italic
-1670839	simple:italic
+1773142	simple:italic
 simple:italic
 simple:italic
-1670845	simple:italic
-1670847	simple:italic
+1773148	simple:italic
+1773150	simple:italic
 simple:italic
-1670850	simple:italic
-1670852	simple:italic
-1670854	simple:italic
-1670856	simple:italic
+1773153	simple:italic
+1773155	simple:italic
+1773157	simple:italic
+1773159	simple:italic
 simple:italic
-1670859	simple:italic
-1670861	simple:italic
-1670863	simple:italic
+1773162	simple:italic
+1773164	simple:italic
+1773166	simple:italic
 simple:italic
-1670866	simple:italic
-1670868	simple:italic
+1773169	simple:italic
+1773171	simple:italic
 simple:italic
-1670871	simple:italic
-1670873	simple:italic
-1670875	simple:italic
-1670884	simple:italic
-1670886	simple:italic
+1773174	simple:italic
+1773176	simple:italic
+1773178	simple:italic
+1773187	simple:italic
+1773189	simple:italic
 simple:italic
-1670889	simple:italic
+1773192	simple:italic
 simple:italic
-1670892	simple:italic
-1670894	simple:italic
-1670896	simple:italic
+1773195	simple:italic
+1773197	simple:italic
+1773199	simple:italic
 simple:italic
-1670899	simple:italic
-1670901	simple:italic
-1670903	simple:italic
-1670905	simple:italic
+1773202	simple:italic
+1773204	simple:italic
+1773206	simple:italic
+1773208	simple:italic
 simple:italic
-1670908	simple:italic
+1773211	simple:italic
 simple:italic
-1670911	simple:italic
-1670913	simple:italic
+1773214	simple:italic
+1773216	simple:italic
 simple:italic
-1670916	simple:italic
-1670918	simple:italic
-1670920	simple:italic
-1670922	simple:italic
+1773219	simple:italic
+1773221	simple:italic
+1773223	simple:italic
+1773225	simple:italic
 simple:italic
-1670925	simple:italic
+1773228	simple:italic
 simple:italic
-1670928	simple:italic
+1773231	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1670933	simple:italic
-1670937	simple:italic
-1670939	simple:italic
-1670941	simple:italic
+1773236	simple:italic
+1773240	simple:italic
+1773242	simple:italic
+1773244	simple:italic
 simple:italic
-1670944	simple:italic
-1670946	simple:italic
-1670953	simple:italic
-1670955	simple:italic
+1773247	simple:italic
+1773249	simple:italic
+1773256	simple:italic
+1773258	simple:italic
 simple:italic
-1670958	simple:italic
+1773261	simple:italic
 simple:italic
-1670961	simple:italic
+1773264	simple:italic
 simple:italic
-1670966	simple:italic
+1773269	simple:italic
 simple:italic
-1670969	simple:italic
-1670971	simple:italic
-1670979	simple:italic
-1670981	simple:italic
+1773272	simple:italic
+1773274	simple:italic
+1773282	simple:italic
+1773284	simple:italic
 simple:italic
-1670984	simple:italic
+1773287	simple:italic
 simple:italic
-1670987	simple:italic
+1773290	simple:italic
 simple:italic
-1670990	simple:italic
-1670992	simple:italic
-1670994	simple:italic
-1670996	simple:italic
-1670998	simple:italic
-1671000	simple:italic
-1671002	simple:italic
+1773293	simple:italic
+1773295	simple:italic
+1773297	simple:italic
+1773299	simple:italic
+1773301	simple:italic
+1773303	simple:italic
+1773305	simple:italic
 simple:italic
-1671005	simple:italic
+1773308	simple:italic
 simple:italic
-1671008	simple:italic
-1671010	simple:italic
+1773311	simple:italic
+1773313	simple:italic
 simple:italic
-1671018	simple:italic
-1671020	simple:italic
+1773321	simple:italic
+1773323	simple:italic
 simple:italic
-1671023	simple:italic
+1773326	simple:italic
 simple:italic
-1671026	simple:italic
-1671028	simple:italic
+1773329	simple:italic
+1773331	simple:italic
 simple:italic
-1671031	simple:italic
+1773334	simple:italic
 simple:italic
-1671034	simple:italic
+1773337	simple:italic
 simple:italic
-1671037	simple:italic
+1773340	simple:italic
 simple:italic
-1671040	simple:italic
-1671042	simple:italic
-1671047	simple:italic
+1773343	simple:italic
+1773345	simple:italic
+1773350	simple:italic
 simple:italic
-1671050	simple:italic
+1773353	simple:italic
 simple:italic
-1671053	simple:italic
+1773356	simple:italic
 simple:italic
-1671056	simple:italic
+1773359	simple:italic
 simple:italic
-1671059	simple:italic
-1671061	simple:italic
-1671063	simple:italic
+1773362	simple:italic
+1773364	simple:italic
+1773366	simple:italic
 simple:italic
-1671066	simple:italic
-1671068	simple:italic
-1671070	simple:italic
+1773369	simple:italic
+1773371	simple:italic
+1773373	simple:italic
 simple:italic
-1671078	simple:italic
-1671080	simple:italic
+1773381	simple:italic
+1773383	simple:italic
 simple:italic
-1671083	simple:italic
+1773386	simple:italic
 simple:italic
-1671086	simple:italic
+1773389	simple:italic
 simple:italic
-1671092	simple:italic
+1773395	simple:italic
 simple:italic
-1671095	simple:italic
+1773398	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1671100	simple:italic
-1671102	simple:italic
+1773403	simple:italic
+1773405	simple:italic
 simple:italic
-1671105	simple:italic
+1773408	simple:italic
 simple:italic
-1671110	simple:italic
-1671117	simple:italic
+1773413	simple:italic
+1773420	simple:italic
 simple:italic
-1671120	simple:italic
+1773423	simple:italic
 simple:italic
-1671123	simple:italic
-1671125	simple:italic
+1773426	simple:italic
+1773428	simple:italic
 simple:italic
-1671128	simple:italic
+1773431	simple:italic
 simple:italic
-1671131	simple:italic
-1671138	simple:italic
-1671140	simple:italic
+1773434	simple:italic
+1773441	simple:italic
+1773443	simple:italic
 simple:italic
-1671145	simple:italic
+1773448	simple:italic
 simple:italic
-1671148	simple:italic
-1671150	simple:italic
+1773451	simple:italic
+1773453	simple:italic
 simple:italic
-1671153	simple:italic
+1773456	simple:italic
 simple:italic
-1671156	simple:italic
+1773459	simple:italic
 simple:italic
-1671159	simple:italic
+1773462	simple:italic
 simple:italic
-1671162	simple:italic
+1773465	simple:italic
 simple:italic
-1671165	simple:italic
+1773468	simple:italic
 simple:italic
-1671168	simple:italic
+1773471	simple:italic
 simple:italic
-1671171	simple:italic
+1773474	simple:italic
 simple:italic
-1671174	simple:italic
-1671176	simple:italic
+1773477	simple:italic
+1773479	simple:italic
 simple:italic
-1671179	simple:italic
-1671181	simple:italic
-1671183	simple:italic
-1671185	simple:italic
-1671187	simple:italic
-1671189	simple:italic
-1671191	simple:italic
+1773482	simple:italic
+1773484	simple:italic
+1773486	simple:italic
+1773488	simple:italic
+1773490	simple:italic
+1773492	simple:italic
+1773494	simple:italic
 simple:italic
-1671194	simple:italic
+1773497	simple:italic
 simple:italic
-1671197	simple:italic
+1773500	simple:italic
 simple:italic
 simple:italic
-1671201	simple:italic
-1671203	simple:italic
-1671205	simple:italic
-1671207	simple:italic
+1773504	simple:italic
+1773506	simple:italic
+1773508	simple:italic
+1773510	simple:italic
 simple:italic
-1671210	simple:italic
+1773513	simple:italic
 simple:italic
 simple:italic
-1671214	simple:italic
-1671218	simple:italic
+1773517	simple:italic
+1773521	simple:italic
 simple:italic
-1671221	simple:italic
+1773524	simple:italic
 simple:italic
-1671224	simple:italic
-1671226	simple:italic
+1773527	simple:italic
+1773529	simple:italic
 simple:italic
 simple:italic
-1671230	simple:italic
-1671232	simple:italic
-1671234	simple:italic
+1773533	simple:italic
+1773535	simple:italic
+1773537	simple:italic
 simple:italic
-1671237	simple:italic
+1773540	simple:italic
 simple:italic
-1671240	simple:italic
-1671242	simple:italic
+1773543	simple:italic
+1773545	simple:italic
 simple:italic
-1671245	simple:italic
-1671247	simple:italic
+1773548	simple:italic
+1773550	simple:italic
 simple:italic
-1671250	simple:italic
-1671252	simple:italic
-1671263	simple:italic
+1773553	simple:italic
+1773555	simple:italic
+1773566	simple:italic
 simple:italic
-1671266	simple:italic
+1773569	simple:italic
 simple:italic
-1671269	simple:italic
+1773572	simple:italic
 simple:italic
-1671272	simple:italic
+1773575	simple:italic
 simple:italic
-1671275	simple:italic
-1671277	simple:italic
+1773578	simple:italic
+1773580	simple:italic
 simple:italic
-1671280	simple:italic
+1773583	simple:italic
 simple:italic
-1671283	simple:italic
-1671285	simple:italic
-1671287	simple:italic
+1773586	simple:italic
+1773588	simple:italic
+1773590	simple:italic
 simple:italic
-1671290	simple:italic
+1773593	simple:italic
 simple:italic
-1671295	simple:italic
-1671297	simple:italic
+1773598	simple:italic
+1773600	simple:italic
 simple:italic
-1671300	simple:italic
-1671302	simple:italic
+1773603	simple:italic
+1773605	simple:italic
 simple:italic
-1671305	simple:italic
-1671307	simple:italic
-1671309	simple:italic
-1671311	simple:italic
-1671313	simple:italic
-1671315	simple:italic
+1773608	simple:italic
+1773610	simple:italic
+1773612	simple:italic
+1773614	simple:italic
+1773616	simple:italic
+1773618	simple:italic
 simple:italic
 simple:italic
-1671319	simple:italic
-1671347	simple:italic
-1671349	simple:italic
-1671351	simple:italic
-1671353	simple:italic
-1671355	simple:italic
-1671357	simple:italic
-1671359	simple:italic
+1773622	simple:italic
+1773650	simple:italic
+1773652	simple:italic
+1773654	simple:italic
+1773656	simple:italic
+1773658	simple:italic
+1773660	simple:italic
+1773662	simple:italic
 simple:italic
-1671362	simple:italic
-1671364	simple:italic
+1773665	simple:italic
+1773667	simple:italic
 simple:italic
-1671373	simple:italic
+1773676	simple:italic
 simple:italic
-1671376	simple:italic
-1671378	simple:italic
+1773679	simple:italic
+1773681	simple:italic
 simple:italic
-1671381	simple:italic
+1773684	simple:italic
 simple:italic
-1671384	simple:italic
+1773687	simple:italic
 simple:italic
-1671387	simple:italic
+1773690	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1671392	simple:italic
+1773695	simple:italic
 simple:italic
-1671395	simple:italic
-1671397	simple:italic
-1671399	simple:italic
+1773698	simple:italic
+1773700	simple:italic
+1773702	simple:italic
 simple:italic
-1671402	simple:italic
-1671404	simple:italic
-1671406	simple:italic
-1671408	simple:italic
+1773705	simple:italic
+1773707	simple:italic
+1773709	simple:italic
+1773711	simple:italic
 simple:italic
-1671411	simple:italic
+1773714	simple:italic
 simple:italic
-1671414	simple:italic
+1773717	simple:italic
 simple:italic
-1671417	simple:italic
-1671419	simple:italic
-1671421	simple:italic
-1671423	simple:italic
-1671425	simple:italic
-1671427	simple:italic
-1671429	simple:italic
-1671431	simple:italic
-1671473	simple:italic
-1671475	simple:italic
-1671477	simple:italic
-1671479	simple:italic
-1671481	simple:italic
-1671483	simple:italic
-1671485	simple:italic
+1773720	simple:italic
+1773722	simple:italic
+1773724	simple:italic
+1773726	simple:italic
+1773728	simple:italic
+1773730	simple:italic
+1773732	simple:italic
+1773734	simple:italic
+1773776	simple:italic
+1773778	simple:italic
+1773780	simple:italic
+1773782	simple:italic
+1773784	simple:italic
+1773786	simple:italic
+1773788	simple:italic
 simple:italic
-1671488	simple:italic
-1671490	simple:italic
+1773791	simple:italic
+1773793	simple:italic
 simple:italic
-1671493	simple:italic
-1671495	simple:italic
+1773796	simple:italic
+1773798	simple:italic
 simple:italic
-1671498	simple:italic
-1671500	simple:italic
-1671502	simple:italic
-1671504	simple:italic
-1671506	simple:italic
-1671508	simple:italic
-1671510	simple:italic
+1773801	simple:italic
+1773803	simple:italic
+1773805	simple:italic
+1773807	simple:italic
+1773809	simple:italic
+1773811	simple:italic
+1773813	simple:italic
 simple:italic
-1671513	simple:italic
-1671515	simple:italic
-1671517	simple:italic
-1671519	simple:italic
-1671521	simple:italic
-1671523	simple:italic
-1671525	simple:italic
+1773816	simple:italic
+1773818	simple:italic
+1773820	simple:italic
+1773822	simple:italic
+1773824	simple:italic
+1773826	simple:italic
+1773828	simple:italic
 simple:italic
-1671528	simple:italic
+1773831	simple:italic
 simple:italic
-1671536	simple:italic
+1773839	simple:italic
 simple:italic
-1671539	simple:italic
-1671541	simple:italic
-1671543	simple:italic
-1671545	simple:italic
+1773842	simple:italic
+1773844	simple:italic
+1773846	simple:italic
+1773848	simple:italic
 simple:italic
-1671548	simple:italic
-1671550	simple:italic
-1671552	simple:italic
-1671554	simple:italic
-1671556	simple:italic
-1671558	simple:italic
+1773851	simple:italic
+1773853	simple:italic
+1773855	simple:italic
+1773857	simple:italic
+1773859	simple:italic
+1773861	simple:italic
 simple:italic
-1671561	simple:italic
-1671563	simple:italic
-1671574	simple:italic
-1671576	simple:italic
+1773864	simple:italic
+1773866	simple:italic
+1773877	simple:italic
+1773879	simple:italic
 simple:italic
-1671579	simple:italic
-1671581	simple:italic
-1671583	simple:italic
+1773882	simple:italic
+1773884	simple:italic
+1773886	simple:italic
 simple:italic
 simple:italic
-1671587	simple:italic
-1671589	simple:italic
+1773890	simple:italic
+1773892	simple:italic
 simple:italic
-1671592	simple:italic
+1773895	simple:italic
 simple:italic
-1671595	simple:italic
-1671597	simple:italic
+1773898	simple:italic
+1773900	simple:italic
 simple:italic
-1671600	simple:italic
-1671608	simple:italic
-1671610	simple:italic
+1773903	simple:italic
+1773911	simple:italic
+1773913	simple:italic
 simple:italic
-1671613	simple:italic
+1773916	simple:italic
 simple:italic
-1671628	simple:italic
-1671630	simple:italic
-1671632	simple:italic
-1671634	simple:italic
+1773931	simple:italic
+1773933	simple:italic
+1773935	simple:italic
+1773937	simple:italic
 simple:italic
-1671637	simple:italic
+1773940	simple:italic
 simple:italic
-1671640	simple:italic
+1773943	simple:italic
 simple:italic
-1671648	simple:italic
-1671650	simple:italic
+1773951	simple:italic
+1773953	simple:italic
 simple:italic
-1671653	simple:italic
+1773956	simple:italic
 simple:italic
-1671656	simple:italic
+1773959	simple:italic
 simple:italic
-1671659	simple:italic
-1671661	simple:italic
-1671663	simple:italic
+1773962	simple:italic
+1773964	simple:italic
+1773966	simple:italic
 simple:italic
-1671666	simple:italic
-1671678	simple:italic
+1773969	simple:italic
+1773981	simple:italic
 simple:italic
-1671681	simple:italic
+1773984	simple:italic
 simple:italic
-1671684	simple:italic
+1773987	simple:italic
 simple:italic
-1671687	simple:italic
+1773990	simple:italic
 simple:italic
-1671690	simple:italic
-1671692	simple:italic
-1671694	simple:italic
-1671696	simple:italic
+1773993	simple:italic
+1773995	simple:italic
+1773997	simple:italic
+1773999	simple:italic
 simple:italic
-1671699	simple:italic
+1774002	simple:italic
 simple:italic
-1671702	simple:italic
+1774005	simple:italic
 simple:italic
-1671705	simple:italic
+1774008	simple:italic
 simple:italic
-1671708	simple:italic
-1671710	simple:italic
-1671712	simple:italic
-1671714	simple:italic
-1671716	simple:italic
+1774011	simple:italic
+1774013	simple:italic
+1774015	simple:italic
+1774017	simple:italic
+1774019	simple:italic
 simple:italic
-1671719	simple:italic
+1774022	simple:italic
 simple:italic
-1671722	simple:italic
-1671724	simple:italic
-1671726	simple:italic
-1671728	simple:italic
-1671730	simple:italic
-1671732	simple:italic
+1774025	simple:italic
+1774027	simple:italic
+1774029	simple:italic
+1774031	simple:italic
+1774033	simple:italic
+1774035	simple:italic
 simple:italic
-1671735	simple:italic
-1671749	simple:italic
+1774038	simple:italic
+1774052	simple:italic
 simple:italic
-1671752	simple:italic
-1671754	simple:italic
-1671756	simple:italic
-1671758	simple:italic
-1671760	simple:italic
+1774055	simple:italic
+1774057	simple:italic
+1774059	simple:italic
+1774061	simple:italic
+1774063	simple:italic
 simple:italic
-1671763	simple:italic
+1774066	simple:italic
 simple:italic
-1671766	simple:italic
-1671768	simple:italic
-1671770	simple:italic
+1774069	simple:italic
+1774071	simple:italic
+1774073	simple:italic
 simple:italic
-1671773	simple:italic
+1774076	simple:italic
 simple:italic
-1671776	simple:italic
+1774079	simple:italic
 simple:italic
 simple:italic
-1671780	simple:italic
+1774083	simple:italic
 simple:italic
-1671783	simple:italic
-1671785	simple:italic
+1774086	simple:italic
+1774088	simple:italic
 simple:italic
-1671788	simple:italic
+1774091	simple:italic
 simple:italic
-1671791	simple:italic
+1774094	simple:italic
 simple:italic
-1671794	simple:italic
+1774097	simple:italic
 simple:italic
-1671797	simple:italic
-1671799	simple:italic
+1774100	simple:italic
+1774102	simple:italic
 simple:italic
-1671802	simple:italic
+1774105	simple:italic
 simple:italic
-1671805	simple:italic
+1774108	simple:italic
 simple:italic
 simple:italic
-1671809	simple:italic
+1774112	simple:italic
 simple:italic
-1671812	simple:italic
-1671814	simple:italic
-1671816	simple:italic
-1671818	simple:italic
+1774115	simple:italic
+1774117	simple:italic
+1774119	simple:italic
+1774121	simple:italic
 simple:italic
-1671821	simple:italic
+1774124	simple:italic
 simple:italic
-1671824	simple:italic
+1774127	simple:italic
 simple:italic
-1671827	simple:italic
-1671829	simple:italic
+1774130	simple:italic
+1774132	simple:italic
 simple:italic
-1671832	simple:italic
+1774135	simple:italic
 simple:italic
-1671835	simple:italic
+1774138	simple:italic
 simple:italic
-1671838	simple:italic
+1774141	simple:italic
 simple:italic
-1671841	simple:italic
+1774144	simple:italic
 simple:italic
-1671844	simple:italic
+1774147	simple:italic
 simple:italic
-1671847	simple:italic
+1774150	simple:italic
 simple:italic
 simple:italic
-1671851	simple:italic
-1671853	simple:italic
-1671855	simple:italic
-1671862	simple:italic
-1671864	simple:italic
-1671866	simple:italic
+1774154	simple:italic
+1774156	simple:italic
+1774158	simple:italic
+1774165	simple:italic
+1774167	simple:italic
+1774169	simple:italic
 simple:italic
-1671869	simple:italic
-1671871	simple:italic
-1671873	simple:italic
-1671875	simple:italic
+1774172	simple:italic
+1774174	simple:italic
+1774176	simple:italic
+1774178	simple:italic
 simple:italic
-1671891	simple:italic
-1671893	simple:italic
-1671895	simple:italic
+1774194	simple:italic
+1774196	simple:italic
+1774198	simple:italic
 simple:italic
-1671898	simple:italic
-1671900	simple:italic
-1671902	simple:italic
-1671904	simple:italic
-1671906	simple:italic
-1671908	simple:italic
-1671910	simple:italic
-1671912	simple:italic
-1671914	simple:italic
+1774201	simple:italic
+1774203	simple:italic
+1774205	simple:italic
+1774207	simple:italic
+1774209	simple:italic
+1774211	simple:italic
+1774213	simple:italic
+1774215	simple:italic
+1774217	simple:italic
 simple:italic
-1671917	simple:italic
-1671919	simple:italic
-1671921	simple:italic
-1671923	simple:italic
+1774220	simple:italic
+1774222	simple:italic
+1774224	simple:italic
+1774226	simple:italic
 simple:italic
-1671926	simple:italic
-1671928	simple:italic
-1671930	simple:italic
-1671932	simple:italic
+1774229	simple:italic
+1774231	simple:italic
+1774233	simple:italic
+1774235	simple:italic
 simple:italic
-1671935	simple:italic
-1671937	simple:italic
-1671939	simple:italic
-1671941	simple:italic
-1671943	simple:italic
-1671945	simple:italic
-1671947	simple:italic
-1671949	simple:italic
+1774238	simple:italic
+1774240	simple:italic
+1774242	simple:italic
+1774244	simple:italic
+1774246	simple:italic
+1774248	simple:italic
+1774250	simple:italic
+1774252	simple:italic
 simple:italic
-1671952	simple:italic
+1774255	simple:italic
 simple:italic
 simple:italic
-1671956	simple:italic
-1671958	simple:italic
+1774259	simple:italic
+1774261	simple:italic
 simple:italic
-1671961	simple:italic
-simple:superscript
-simple:italic
-simple:italic
-1671966	simple:italic
-1671968	simple:italic
-simple:italic
-1671971	simple:italic
-1671973	simple:italic
-simple:italic
-1671976	simple:italic
-1671978	simple:italic
-simple:italic
-1671981	simple:italic
-simple:italic
-simple:italic
-1671985	simple:italic
-1671987	simple:italic
-simple:italic
-1671990	simple:italic
-1671999	simple:italic
-1672001	simple:italic
-1672003	simple:italic
-simple:italic
-1672006	simple:italic
-1672008	simple:italic
-1672010	simple:italic
-1672012	simple:italic
-1672014	simple:italic
-simple:italic
-1672017	simple:italic
-simple:italic
-1672020	simple:italic
-1672022	simple:italic
-simple:italic
-1672025	simple:italic
-1672027	simple:italic
-simple:italic
-simple:italic
-1672031	simple:italic
-1672033	simple:italic
-simple:italic
-1672036	simple:italic
-1672038	simple:italic
-1672040	simple:italic
-1672042	simple:italic
-simple:italic
-1672045	simple:italic
-1672057	simple:italic
-simple:italic
-1672060	simple:italic
-1672062	simple:italic
-1672064	simple:italic
-1672066	simple:italic
-1672068	simple:italic
-simple:italic
-1672071	simple:italic
-simple:italic
-1672074	simple:italic
-simple:italic
-1672077	simple:italic
-1672079	simple:italic
-1672081	simple:italic
-1672083	simple:italic
-1672085	simple:italic
-simple:italic
-1672088	simple:italic
-simple:italic
-1672091	simple:italic
-1672093	simple:italic
-1672100	simple:italic
-simple:italic
-1672103	simple:italic
-1672105	simple:italic
-simple:italic
-1672108	simple:italic
-simple:italic
-1672111	simple:italic
-1672113	simple:italic
-simple:italic
-1672116	simple:italic
-1672118	simple:italic
-1672120	simple:italic
-1672122	simple:italic
-1672124	simple:italic
-1672126	simple:italic
-1672128	simple:italic
-1672130	simple:italic
-simple:italic
-1672133	simple:italic
-1672135	simple:italic
-simple:italic
-1672138	simple:italic
-simple:italic
-1672141	simple:italic
-1672143	simple:italic
-simple:italic
-1672146	simple:italic
-1672148	simple:italic
-1672150	simple:italic
-1672152	simple:italic
-1672157	simple:italic
-simple:italic
-1672160	simple:italic
-1672162	simple:italic
-simple:italic
-simple:italic
-1672166	simple:italic
-1672168	simple:italic
-simple:italic
-1672174	simple:italic
-1672176	simple:italic
-simple:italic
-1672179	simple:italic
-1672181	simple:italic
-1672183	simple:italic
-1672203	simple:italic
-1672205	simple:italic
-1672207	simple:italic
-1672209	simple:italic
-1672211	simple:italic
-1672213	simple:italic
-1672215	simple:italic
-1672217	simple:italic
-simple:italic
-1672220	simple:italic
-1672227	simple:italic
-1672229	simple:italic
-simple:italic
-1672232	simple:italic
-simple:italic
-1672235	simple:italic
-simple:italic
-1672238	simple:italic
-1672240	simple:italic
-1672242	simple:italic
-1672244	simple:italic
-1672246	simple:italic
-simple:italic
-1672249	simple:italic
-1672251	simple:italic
-simple:italic
-1672254	simple:italic
-1672256	simple:italic
-simple:italic
-1672259	simple:italic
-1672261	simple:italic
-1672273	simple:italic
-1672275	simple:italic
-1672277	simple:italic
-simple:italic
-1672280	simple:italic
-1672282	simple:italic
-simple:italic
-simple:italic
-1672286	simple:italic
-1672288	simple:italic
-1672290	simple:italic
-1672292	simple:italic
-1672294	simple:italic
-1672296	simple:italic
-1672298	simple:italic
-1672300	simple:italic
-simple:italic
-1672303	simple:italic
-1672305	simple:italic
-1672307	simple:italic
-1672309	simple:italic
-simple:italic
-1672312	simple:italic
-1672314	simple:italic
-simple:italic
-1672317	simple:italic
-1672319	simple:italic
-simple:italic
-1672322	simple:italic
-1672324	simple:italic
-1672332	simple:italic
-1672334	simple:italic
-1672336	simple:italic
-1672338	simple:italic
-simple:italic
-1672341	simple:italic
-1672343	simple:italic
-1672345	simple:italic
-1672347	simple:italic
-1672349	simple:italic
-1672351	simple:italic
-simple:italic
-1672354	simple:italic
-1672356	simple:italic
-1672358	simple:italic
-1672363	simple:italic
-1672365	simple:italic
-1672367	simple:italic
-1672369	simple:italic
-1672371	simple:italic
-1672373	simple:italic
-1672375	simple:italic
-1672377	simple:italic
-1672379	simple:italic
-1672381	simple:italic
-1672415	simple:italic
-1672417	simple:italic
-1672419	simple:italic
-1672421	simple:italic
-1672423	simple:italic
-1672425	simple:italic
-1672427	simple:italic
-1672429	simple:italic
-1672431	simple:italic
-1672433	simple:italic
-simple:italic
-1672436	simple:italic
-1672438	simple:italic
-1672440	simple:italic
-1672442	simple:italic
-1672444	simple:italic
-1672453	simple:italic
-simple:italic
-1672456	simple:italic
-1672458	simple:italic
-1672460	simple:italic
-1672462	simple:italic
-1672464	simple:italic
-1672466	simple:italic
-1672468	simple:italic
-1672470	simple:italic
-simple:italic
-1672473	simple:italic
-1672483	simple:italic
-1672485	simple:italic
-1672487	simple:italic
-1672489	simple:italic
-1672491	simple:italic
-simple:italic
-1672494	simple:italic
-1672496	simple:italic
-simple:italic
-1672499	simple:italic
-1672501	simple:italic
-1672503	simple:italic
-1672505	simple:italic
-1672507	simple:italic
-1672509	simple:italic
-1672511	simple:italic
-1672513	simple:italic
-simple:italic
-1672516	simple:italic
-1672518	simple:italic
-1672520	simple:italic
-1672522	simple:italic
-1672524	simple:italic
-1672526	simple:italic
-1672528	simple:italic
-simple:italic
-1672531	simple:italic
-1672533	simple:italic
-1672535	simple:italic
-1672537	simple:italic
-1672539	simple:italic
-1672541	simple:italic
-1672543	simple:italic
-1672545	simple:italic
-1672571	simple:italic
-1672573	simple:italic
-1672575	simple:italic
-1672577	simple:italic
-1672579	simple:italic
-1672581	simple:italic
-1672583	simple:italic
-1672585	simple:italic
-1672587	simple:italic
-1672589	simple:italic
-simple:italic
-1672592	simple:italic
-simple:italic
-1672595	simple:italic
-1672597	simple:italic
-1672599	simple:italic
-1672601	simple:italic
-1672603	simple:italic
-1672610	simple:italic
-1672612	simple:italic
-1672614	simple:italic
-1672616	simple:italic
-1672618	simple:italic
-1672620	simple:italic
-1672622	simple:italic
-simple:italic
-simple:italic
-simple:italic
-1672627	simple:italic
-simple:italic
-1672630	simple:italic
-1672632	simple:italic
-1672634	simple:italic
-1672636	simple:italic
-1672638	simple:italic
-1672640	simple:italic
-1672642	simple:italic
-1672644	simple:italic
-1672646	simple:italic
-1672648	simple:italic
-1672650	simple:italic
-1672652	simple:italic
-1672654	simple:italic
-1672663	simple:italic
-simple:italic
-1672666	simple:italic
-simple:italic
-1672669	simple:italic
-simple:italic
-1672672	simple:italic
-1672674	simple:italic
-1672676	simple:italic
-simple:italic
-1672679	simple:italic
-1672681	simple:italic
-1672683	simple:italic
-1672685	simple:italic
-1672687	simple:italic
-1672689	simple:italic
-1672691	simple:italic
-1672693	simple:italic
-1672699	simple:italic
-simple:italic
-1672702	simple:italic
-simple:italic
-1672705	simple:italic
+1774264	simple:italic
 simple:superscript
 simple:italic
-1672709	simple:italic
-1672711	simple:italic
-1672713	simple:italic
-1672715	simple:italic
-simple:italic
-1672718	simple:italic
-1672720	simple:italic
-1672729	simple:italic
-simple:italic
-1672732	simple:italic
-1672734	simple:italic
-simple:italic
-1672737	simple:italic
-simple:italic
-1672740	simple:italic
-1672742	simple:italic
-simple:italic
-1672745	simple:italic
-1672747	simple:italic
-1672749	simple:italic
-1672751	simple:italic
-simple:italic
-1672754	simple:italic
-1672756	simple:italic
-1672758	simple:italic
-1672760	simple:italic
-1672762	simple:italic
-1672764	simple:italic
-1672766	simple:italic
-1672768	simple:italic
-1672770	simple:italic
-1672772	simple:italic
-simple:italic
-1672775	simple:italic
-1672777	simple:italic
-1672779	simple:italic
-1672781	simple:italic
-simple:italic
-1672784	simple:italic
-simple:italic
-simple:italic
-1672788	simple:italic
-1672794	simple:italic
-1672796	simple:italic
-simple:italic
-1672799	simple:italic
-simple:italic
-1672802	simple:italic
-1672804	simple:italic
-1672806	simple:italic
-1672808	simple:italic
-1672810	simple:italic
-1672812	simple:italic
-1672814	simple:italic
-simple:italic
-1672817	simple:italic
-simple:italic
-1672820	simple:italic
-1672824	simple:italic
-1672826	simple:italic
-simple:italic
-1672829	simple:italic
-1672831	simple:italic
-1672833	simple:italic
-1672835	simple:italic
-1672837	simple:italic
-1672839	simple:italic
-1672846	simple:italic
-1672848	simple:italic
-1672850	simple:italic
-simple:italic
-1672853	simple:italic
-1672855	simple:italic
-1672857	simple:italic
-1672859	simple:italic
-1672861	simple:italic
-simple:italic
-1672864	simple:italic
-1672866	simple:italic
-1672868	simple:italic
-1672870	simple:italic
-simple:italic
-simple:italic
-1672874	simple:italic
-1672876	simple:italic
-1672878	simple:italic
-1672880	simple:italic
-1672882	simple:italic
-1672884	simple:italic
-1672886	simple:italic
-1672888	simple:italic
-1672895	simple:italic
-1672897	simple:italic
-1672899	simple:italic
-1672901	simple:italic
-1672903	simple:italic
-1672905	simple:italic
-1672907	simple:italic
-1672909	simple:italic
-1672911	simple:italic
-1672913	simple:italic
-1672915	simple:italic
 simple:italic
-1672918	simple:italic
-1672920	simple:italic
-1672922	simple:italic
-1672924	simple:italic
-1672928	simple:italic
-1672930	simple:italic
-1672932	simple:italic
-simple:italic
-1672935	simple:italic
-1672937	simple:italic
-simple:italic
-1672940	simple:italic
-1672942	simple:italic
-simple:italic
-1672945	simple:italic
-1672947	simple:italic
-1672949	simple:italic
-1672951	simple:italic
-1672953	simple:italic
-simple:italic
-1672956	simple:italic
-1672958	simple:italic
-1672960	simple:italic
-1672969	simple:italic
+1774269	simple:italic
+1774271	simple:italic
 simple:italic
-1672972	simple:italic
-1672974	simple:italic
-simple:italic
-1672977	simple:italic
-1672979	simple:italic
-1672981	simple:italic
-1672983	simple:italic
-1672985	simple:italic
-simple:italic
-1672988	simple:italic
-simple:italic
-1672991	simple:italic
-1672993	simple:italic
-1672999	simple:italic
-1673001	simple:italic
-simple:italic
-1673004	simple:italic
-1673006	simple:italic
-1673008	simple:italic
-1673010	simple:italic
+1774274	simple:italic
+1774276	simple:italic
 simple:italic
-1673013	simple:italic
-1673015	simple:italic
-1673017	simple:italic
-1673019	simple:italic
-1673028	simple:italic
-1673030	simple:italic
+1774279	simple:italic
+1774281	simple:italic
 simple:italic
-1673033	simple:italic
-1673035	simple:italic
+1774284	simple:italic
 simple:italic
-1673038	simple:italic
-1673040	simple:italic
-1673042	simple:italic
-1673044	simple:italic
-1673046	simple:italic
 simple:italic
-1673049	simple:italic
-1673051	simple:italic
+1774288	simple:italic
+1774290	simple:italic
 simple:italic
-1673057	simple:italic
-1673059	simple:italic
+1774293	simple:italic
+1774302	simple:italic
+1774304	simple:italic
+1774306	simple:italic
 simple:italic
-1673062	simple:italic
-1673064	simple:italic
+1774309	simple:italic
+1774311	simple:italic
+1774313	simple:italic
+1774315	simple:italic
+1774317	simple:italic
 simple:italic
-1673067	simple:italic
+1774320	simple:italic
 simple:italic
-1673070	simple:italic
+1774323	simple:italic
+1774325	simple:italic
 simple:italic
-1673073	simple:italic
-1673075	simple:italic
+1774328	simple:italic
+1774330	simple:italic
 simple:italic
-1673078	simple:italic
-1673080	simple:italic
 simple:italic
-1673083	simple:italic
+1774334	simple:italic
+1774336	simple:italic
 simple:italic
-1673086	simple:italic
+1774339	simple:italic
+1774341	simple:italic
+1774343	simple:italic
+1774345	simple:italic
 simple:italic
-1673089	simple:italic
-1673091	simple:italic
+1774348	simple:italic
+1774360	simple:italic
 simple:italic
-1673094	simple:italic
-1673096	simple:italic
-1673098	simple:italic
+1774363	simple:italic
+1774365	simple:italic
+1774367	simple:italic
+1774369	simple:italic
+1774371	simple:italic
 simple:italic
-1673101	simple:italic
+1774374	simple:italic
 simple:italic
-1673104	simple:italic
-1673106	simple:italic
-1673108	simple:italic
-1673110	simple:italic
-1673112	simple:italic
-1673114	simple:italic
-1673116	simple:italic
-1673118	simple:italic
-1673120	simple:italic
-1673131	simple:italic
-1673133	simple:italic
-1673135	simple:italic
-1673137	simple:italic
-1673139	simple:italic
-1673141	simple:italic
+1774377	simple:italic
 simple:italic
-1673144	simple:italic
-1673146	simple:italic
+1774380	simple:italic
+1774382	simple:italic
+1774384	simple:italic
+1774386	simple:italic
+1774388	simple:italic
 simple:italic
-1673149	simple:italic
-1673151	simple:italic
+1774391	simple:italic
 simple:italic
-1673154	simple:italic
+1774394	simple:italic
+1774396	simple:italic
+1774403	simple:italic
 simple:italic
-1673157	simple:italic
+1774406	simple:italic
+1774408	simple:italic
 simple:italic
-1673160	simple:italic
+1774411	simple:italic
 simple:italic
-1673163	simple:italic
-1673165	simple:italic
-1673167	simple:italic
-1673169	simple:italic
-1673171	simple:italic
-1673174	simple:italic
-1673176	simple:italic
+1774414	simple:italic
+1774416	simple:italic
 simple:italic
-1673179	simple:italic
-1673181	simple:italic
-1673183	simple:italic
-1673185	simple:italic
+1774419	simple:italic
+1774421	simple:italic
+1774423	simple:italic
+1774425	simple:italic
+1774427	simple:italic
+1774429	simple:italic
+1774431	simple:italic
+1774433	simple:italic
 simple:italic
-1673188	simple:italic
+1774436	simple:italic
+1774438	simple:italic
 simple:italic
-1673191	simple:italic
-1673193	simple:italic
-1673195	simple:italic
+1774441	simple:italic
 simple:italic
-1673198	simple:italic
-1673203	simple:italic
-1673205	simple:italic
+1774444	simple:italic
+1774446	simple:italic
 simple:italic
-1673208	simple:italic
+1774449	simple:italic
+1774451	simple:italic
+1774453	simple:italic
+1774455	simple:italic
+1774460	simple:italic
 simple:italic
-1673211	simple:italic
-1673213	simple:italic
-simple:italic
-1673216	simple:italic
-simple:italic
-1673219	simple:italic
-1673221	simple:italic
-simple:italic
-1673224	simple:italic
-1673226	simple:italic
-simple:italic
-1673229	simple:italic
-simple:italic
-1673232	simple:italic
-simple:italic
-1673235	simple:italic
-1673237	simple:italic
-simple:italic
-1673240	simple:italic
-simple:italic
-1673243	simple:italic
-1673253	simple:italic
-1673255	simple:italic
-1673257	simple:italic
-1673259	simple:italic
-1673261	simple:italic
+1774463	simple:italic
+1774465	simple:italic
+simple:italic
+simple:italic
+1774469	simple:italic
+1774471	simple:italic
+simple:italic
+1774477	simple:italic
+1774479	simple:italic
+simple:italic
+1774482	simple:italic
+1774484	simple:italic
+1774486	simple:italic
+1774506	simple:italic
+1774508	simple:italic
+1774510	simple:italic
+1774512	simple:italic
+1774514	simple:italic
+1774516	simple:italic
+1774518	simple:italic
+1774520	simple:italic
+simple:italic
+1774523	simple:italic
+1774530	simple:italic
+1774532	simple:italic
+simple:italic
+1774535	simple:italic
+simple:italic
+1774538	simple:italic
+simple:italic
+1774541	simple:italic
+1774543	simple:italic
+1774545	simple:italic
+1774547	simple:italic
+1774549	simple:italic
+simple:italic
+1774552	simple:italic
+1774554	simple:italic
+simple:italic
+1774557	simple:italic
+1774559	simple:italic
+simple:italic
+1774562	simple:italic
+1774564	simple:italic
+1774576	simple:italic
+1774578	simple:italic
+1774580	simple:italic
+simple:italic
+1774583	simple:italic
+1774585	simple:italic
+simple:italic
+simple:italic
+1774589	simple:italic
+1774591	simple:italic
+1774593	simple:italic
+1774595	simple:italic
+1774597	simple:italic
+1774599	simple:italic
+1774601	simple:italic
+1774603	simple:italic
+simple:italic
+1774606	simple:italic
+1774608	simple:italic
+1774610	simple:italic
+1774612	simple:italic
+simple:italic
+1774615	simple:italic
+1774617	simple:italic
+simple:italic
+1774620	simple:italic
+1774622	simple:italic
+simple:italic
+1774625	simple:italic
+1774627	simple:italic
+1774635	simple:italic
+1774637	simple:italic
+1774639	simple:italic
+1774641	simple:italic
+simple:italic
+1774644	simple:italic
+1774646	simple:italic
+1774648	simple:italic
+1774650	simple:italic
+1774652	simple:italic
+1774654	simple:italic
+simple:italic
+1774657	simple:italic
+1774659	simple:italic
+1774661	simple:italic
+1774666	simple:italic
+1774668	simple:italic
+1774670	simple:italic
+1774672	simple:italic
+1774674	simple:italic
+1774676	simple:italic
+1774678	simple:italic
+1774680	simple:italic
+1774682	simple:italic
+1774684	simple:italic
+1774718	simple:italic
+1774720	simple:italic
+1774722	simple:italic
+1774724	simple:italic
+1774726	simple:italic
+1774728	simple:italic
+1774730	simple:italic
+1774732	simple:italic
+1774734	simple:italic
+1774736	simple:italic
+simple:italic
+1774739	simple:italic
+1774741	simple:italic
+1774743	simple:italic
+1774745	simple:italic
+1774747	simple:italic
+1774756	simple:italic
+simple:italic
+1774759	simple:italic
+1774761	simple:italic
+1774763	simple:italic
+1774765	simple:italic
+1774767	simple:italic
+1774769	simple:italic
+1774771	simple:italic
+1774773	simple:italic
+simple:italic
+1774776	simple:italic
+1774786	simple:italic
+1774788	simple:italic
+1774790	simple:italic
+1774792	simple:italic
+1774794	simple:italic
+simple:italic
+1774797	simple:italic
+1774799	simple:italic
+simple:italic
+1774802	simple:italic
+1774804	simple:italic
+1774806	simple:italic
+1774808	simple:italic
+1774810	simple:italic
+1774812	simple:italic
+1774814	simple:italic
+1774816	simple:italic
+simple:italic
+1774819	simple:italic
+1774821	simple:italic
+1774823	simple:italic
+1774825	simple:italic
+1774827	simple:italic
+1774829	simple:italic
+1774831	simple:italic
+simple:italic
+1774834	simple:italic
+1774836	simple:italic
+1774838	simple:italic
+1774840	simple:italic
+1774842	simple:italic
+1774844	simple:italic
+1774846	simple:italic
+1774848	simple:italic
+1774874	simple:italic
+1774876	simple:italic
+1774878	simple:italic
+1774880	simple:italic
+1774882	simple:italic
+1774884	simple:italic
+1774886	simple:italic
+1774888	simple:italic
+1774890	simple:italic
+1774892	simple:italic
+simple:italic
+1774895	simple:italic
+simple:italic
+1774898	simple:italic
+1774900	simple:italic
+1774902	simple:italic
+1774904	simple:italic
+1774906	simple:italic
+1774913	simple:italic
+1774915	simple:italic
+1774917	simple:italic
+1774919	simple:italic
+1774921	simple:italic
+1774923	simple:italic
+1774925	simple:italic
+simple:italic
+simple:italic
+simple:italic
+1774930	simple:italic
+simple:italic
+1774933	simple:italic
+1774935	simple:italic
+1774937	simple:italic
+1774939	simple:italic
+1774941	simple:italic
+1774943	simple:italic
+1774945	simple:italic
+1774947	simple:italic
+1774949	simple:italic
+1774951	simple:italic
+1774953	simple:italic
+1774955	simple:italic
+1774957	simple:italic
+1774966	simple:italic
+simple:italic
+1774969	simple:italic
+simple:italic
+1774972	simple:italic
+simple:italic
+1774975	simple:italic
+1774977	simple:italic
+1774979	simple:italic
+simple:italic
+1774982	simple:italic
+1774984	simple:italic
+1774986	simple:italic
+1774988	simple:italic
+1774990	simple:italic
+1774992	simple:italic
+1774994	simple:italic
+1774996	simple:italic
+1775002	simple:italic
+simple:italic
+1775005	simple:italic
+simple:italic
+1775008	simple:italic
+simple:superscript
+simple:italic
+1775012	simple:italic
+1775014	simple:italic
+1775016	simple:italic
+1775018	simple:italic
+simple:italic
+1775021	simple:italic
+1775023	simple:italic
+1775032	simple:italic
+simple:italic
+1775035	simple:italic
+1775037	simple:italic
+simple:italic
+1775040	simple:italic
+simple:italic
+1775043	simple:italic
+1775045	simple:italic
+simple:italic
+1775048	simple:italic
+1775050	simple:italic
+1775052	simple:italic
+1775054	simple:italic
+simple:italic
+1775057	simple:italic
+1775059	simple:italic
+1775061	simple:italic
+1775063	simple:italic
+1775065	simple:italic
+1775067	simple:italic
+1775069	simple:italic
+1775071	simple:italic
+1775073	simple:italic
+1775075	simple:italic
+simple:italic
+1775078	simple:italic
+1775080	simple:italic
+1775082	simple:italic
+1775084	simple:italic
+simple:italic
+1775087	simple:italic
+simple:italic
+simple:italic
+1775091	simple:italic
+1775097	simple:italic
+1775099	simple:italic
+simple:italic
+1775102	simple:italic
+simple:italic
+1775105	simple:italic
+1775107	simple:italic
+1775109	simple:italic
+1775111	simple:italic
+1775113	simple:italic
+1775115	simple:italic
+1775117	simple:italic
+simple:italic
+1775120	simple:italic
+simple:italic
+1775123	simple:italic
+1775127	simple:italic
+1775129	simple:italic
+simple:italic
+1775132	simple:italic
+1775134	simple:italic
+1775136	simple:italic
+1775138	simple:italic
+1775140	simple:italic
+1775142	simple:italic
+1775149	simple:italic
+1775151	simple:italic
+1775153	simple:italic
+simple:italic
+1775156	simple:italic
+1775158	simple:italic
+1775160	simple:italic
+1775162	simple:italic
+1775164	simple:italic
+simple:italic
+1775167	simple:italic
+1775169	simple:italic
+1775171	simple:italic
+1775173	simple:italic
+simple:italic
+simple:italic
+1775177	simple:italic
+1775179	simple:italic
+1775181	simple:italic
+1775183	simple:italic
+1775185	simple:italic
+1775187	simple:italic
+1775189	simple:italic
+1775191	simple:italic
+1775198	simple:italic
+1775200	simple:italic
+1775202	simple:italic
+1775204	simple:italic
+1775206	simple:italic
+1775208	simple:italic
+1775210	simple:italic
+1775212	simple:italic
+1775214	simple:italic
+1775216	simple:italic
+1775218	simple:italic
+simple:italic
+1775221	simple:italic
+1775223	simple:italic
+1775225	simple:italic
+1775227	simple:italic
+1775231	simple:italic
+1775233	simple:italic
+1775235	simple:italic
+simple:italic
+1775238	simple:italic
+1775240	simple:italic
+simple:italic
+1775243	simple:italic
+1775245	simple:italic
+simple:italic
+1775248	simple:italic
+1775250	simple:italic
+1775252	simple:italic
+1775254	simple:italic
+1775256	simple:italic
+simple:italic
+1775259	simple:italic
+1775261	simple:italic
+1775263	simple:italic
+1775272	simple:italic
+simple:italic
+1775275	simple:italic
+1775277	simple:italic
+simple:italic
+1775280	simple:italic
+1775282	simple:italic
+1775284	simple:italic
+1775286	simple:italic
+1775288	simple:italic
+simple:italic
+1775291	simple:italic
+simple:italic
+1775294	simple:italic
+1775296	simple:italic
+1775302	simple:italic
+1775304	simple:italic
+simple:italic
+1775307	simple:italic
+1775309	simple:italic
+1775311	simple:italic
+1775313	simple:italic
+simple:italic
+1775316	simple:italic
+1775318	simple:italic
+1775320	simple:italic
+1775322	simple:italic
+1775331	simple:italic
+1775333	simple:italic
+simple:italic
+1775336	simple:italic
+1775338	simple:italic
+simple:italic
+1775341	simple:italic
+1775343	simple:italic
+1775345	simple:italic
+1775347	simple:italic
+1775349	simple:italic
+simple:italic
+1775352	simple:italic
+1775354	simple:italic
+simple:italic
+1775360	simple:italic
+1775362	simple:italic
+simple:italic
+1775365	simple:italic
+1775367	simple:italic
+simple:italic
+1775370	simple:italic
+simple:italic
+1775373	simple:italic
+simple:italic
+1775376	simple:italic
+1775378	simple:italic
+simple:italic
+1775381	simple:italic
+1775383	simple:italic
+simple:italic
+1775386	simple:italic
+simple:italic
+1775389	simple:italic
+simple:italic
+1775392	simple:italic
+1775394	simple:italic
+simple:italic
+1775397	simple:italic
+1775399	simple:italic
+1775401	simple:italic
+simple:italic
+1775404	simple:italic
+simple:italic
+1775407	simple:italic
+1775409	simple:italic
+1775411	simple:italic
+1775413	simple:italic
+1775415	simple:italic
+1775417	simple:italic
+1775419	simple:italic
+1775421	simple:italic
+1775423	simple:italic
+1775434	simple:italic
+1775436	simple:italic
+1775438	simple:italic
+1775440	simple:italic
+1775442	simple:italic
+1775444	simple:italic
+simple:italic
+1775447	simple:italic
+1775449	simple:italic
+simple:italic
+1775452	simple:italic
+1775454	simple:italic
+simple:italic
+1775457	simple:italic
+simple:italic
+1775460	simple:italic
+simple:italic
+1775463	simple:italic
+simple:italic
+1775466	simple:italic
+1775468	simple:italic
+1775470	simple:italic
+1775472	simple:italic
+1775474	simple:italic
+1775477	simple:italic
+1775479	simple:italic
+simple:italic
+1775482	simple:italic
+1775484	simple:italic
+1775486	simple:italic
+1775488	simple:italic
+simple:italic
+1775491	simple:italic
+simple:italic
+1775494	simple:italic
+1775496	simple:italic
+1775498	simple:italic
+simple:italic
+1775501	simple:italic
+1775506	simple:italic
+1775508	simple:italic
+simple:italic
+1775511	simple:italic
+simple:italic
+1775514	simple:italic
+1775516	simple:italic
+simple:italic
+1775519	simple:italic
+simple:italic
+1775522	simple:italic
+1775524	simple:italic
+simple:italic
+1775527	simple:italic
+1775529	simple:italic
+simple:italic
+1775532	simple:italic
+simple:italic
+1775535	simple:italic
+simple:italic
+1775538	simple:italic
+1775540	simple:italic
+simple:italic
+1775543	simple:italic
+simple:italic
+1775546	simple:italic
+1775556	simple:italic
+1775558	simple:italic
+1775560	simple:italic
+1775562	simple:italic
+1775564	simple:italic
 simple:smallcaps
 simple:italic
-1673265	simple:italic
-1673267	simple:italic
-1673269	simple:italic
-1673271	simple:italic
-1673273	simple:italic
+1775568	simple:italic
+1775570	simple:italic
+1775572	simple:italic
+1775574	simple:italic
+1775576	simple:italic
 simple:italic
 simple:italic
-1673277	simple:italic
-1673279	simple:italic
-1673281	simple:italic
-1673283	simple:italic
-1673291	simple:italic
-1673293	simple:italic
-1673295	simple:italic
-1673297	simple:italic
-1673299	simple:italic
-1673301	simple:italic
+1775580	simple:italic
+1775582	simple:italic
+1775584	simple:italic
+1775586	simple:italic
+1775594	simple:italic
+1775596	simple:italic
+1775598	simple:italic
+1775600	simple:italic
+1775602	simple:italic
+1775604	simple:italic
 simple:italic
-1673304	simple:italic
-1673306	simple:italic
-1673308	simple:italic
-1673310	simple:italic
-1673312	simple:italic
-1673319	simple:italic
+1775607	simple:italic
+1775609	simple:italic
+1775611	simple:italic
+1775613	simple:italic
+1775615	simple:italic
+1775622	simple:italic
 simple:italic
-1673322	simple:italic
+1775625	simple:italic
 simple:italic
-1673325	simple:italic
-1673327	simple:italic
+1775628	simple:italic
+1775630	simple:italic
 simple:italic
-1673330	simple:italic
-1673332	simple:italic
-1673334	simple:italic
-1673342	simple:italic
+1775633	simple:italic
+1775635	simple:italic
+1775637	simple:italic
+1775645	simple:italic
 simple:italic
-1673345	simple:italic
+1775648	simple:italic
 simple:italic
-1673348	simple:italic
-1673350	simple:italic
-1673352	simple:italic
-1673354	simple:italic
+1775651	simple:italic
+1775653	simple:italic
+1775655	simple:italic
+1775657	simple:italic
 simple:italic
-1673357	simple:italic
-1673359	simple:italic
+1775660	simple:italic
+1775662	simple:italic
 simple:italic
-1673362	simple:italic
+1775665	simple:italic
 simple:italic
-1673365	simple:italic
+1775668	simple:italic
 simple:italic
-1673368	simple:italic
-1673370	simple:italic
+1775671	simple:italic
+1775673	simple:italic
 simple:italic
-1673373	simple:italic
+1775676	simple:italic
 simple:italic
-1673376	simple:italic
+1775679	simple:italic
 simple:italic
-1673379	simple:italic
-1673385	simple:italic
-simple:italic
-simple:italic
-1673389	simple:italic
-1673391	simple:italic
+1775682	simple:italic
+1775688	simple:italic
 simple:italic
 simple:italic
-1673395	simple:italic
+1775692	simple:italic
+1775694	simple:italic
 simple:italic
-1673398	simple:italic
-1673400	simple:italic
 simple:italic
-1673424	simple:italic
-1673426	simple:italic
-1673428	simple:italic
-1673430	simple:italic
-1673432	simple:italic
+1775698	simple:italic
 simple:italic
-1673435	simple:italic
+1775701	simple:italic
+1775703	simple:italic
 simple:italic
-1673438	simple:italic
-1673440	simple:italic
+1775727	simple:italic
+1775729	simple:italic
+1775731	simple:italic
+1775733	simple:italic
+1775735	simple:italic
 simple:italic
-1673443	simple:italic
+1775738	simple:italic
 simple:italic
-1673446	simple:italic
+1775741	simple:italic
+1775743	simple:italic
 simple:italic
-1673449	simple:italic
+1775746	simple:italic
 simple:italic
-1673452	simple:italic
+1775749	simple:italic
 simple:italic
-1673455	simple:italic
-1673457	simple:italic
+1775752	simple:italic
 simple:italic
-1673460	simple:italic
-1673462	simple:italic
-1673464	simple:italic
+1775755	simple:italic
 simple:italic
-1673501	simple:italic
+1775758	simple:italic
+1775760	simple:italic
 simple:italic
-1673504	simple:italic
-1673506	simple:italic
-1673508	simple:italic
-1673510	simple:italic
-1673512	simple:italic
+1775763	simple:italic
+1775765	simple:italic
+1775767	simple:italic
 simple:italic
-1673515	simple:italic
+1775804	simple:italic
 simple:italic
-1673518	simple:italic
-1673520	simple:italic
-1673522	simple:italic
+1775807	simple:italic
+1775809	simple:italic
+1775811	simple:italic
+1775813	simple:italic
+1775815	simple:italic
 simple:italic
-1673525	simple:italic
+1775818	simple:italic
 simple:italic
-1673528	simple:italic
-1673530	simple:italic
-1673532	simple:italic
+1775821	simple:italic
+1775823	simple:italic
+1775825	simple:italic
 simple:italic
-1673535	simple:italic
+1775828	simple:italic
 simple:italic
-1673538	simple:italic
-1673540	simple:italic
+1775831	simple:italic
+1775833	simple:italic
+1775835	simple:italic
 simple:italic
-1673543	simple:italic
-1673545	simple:italic
+1775838	simple:italic
 simple:italic
-1673548	simple:italic
-1673550	simple:italic
-1673552	simple:italic
-1673554	simple:italic
+1775841	simple:italic
+1775843	simple:italic
 simple:italic
-1673574	simple:italic
+1775846	simple:italic
+1775848	simple:italic
 simple:italic
-1673577	simple:italic
+1775851	simple:italic
+1775853	simple:italic
+1775855	simple:italic
+1775857	simple:italic
 simple:italic
-1673580	simple:italic
+1775877	simple:italic
 simple:italic
-1673583	simple:italic
-1673585	simple:italic
+1775880	simple:italic
 simple:italic
-1673588	simple:italic
-1673590	simple:italic
+1775883	simple:italic
 simple:italic
-1673593	simple:italic
-1673595	simple:italic
+1775886	simple:italic
+1775888	simple:italic
 simple:italic
-1673598	simple:italic
+1775891	simple:italic
+1775893	simple:italic
 simple:italic
-1673601	simple:italic
-1673603	simple:italic
-1673605	simple:italic
+1775896	simple:italic
+1775898	simple:italic
 simple:italic
-1673636	simple:italic
+1775901	simple:italic
+simple:italic
+1775904	simple:italic
+1775906	simple:italic
+1775908	simple:italic
+simple:italic
+1775939	simple:italic
 simple:superscript
 simple:italic
-1673640	simple:italic
+1775943	simple:italic
 simple:italic
-1673643	simple:italic
-1673645	simple:italic
-1673647	simple:italic
+1775946	simple:italic
+1775948	simple:italic
+1775950	simple:italic
 simple:italic
-1673650	simple:italic
-1673652	simple:italic
-1673654	simple:italic
+1775953	simple:italic
+1775955	simple:italic
+1775957	simple:italic
 simple:italic
-1673657	simple:italic
+1775960	simple:italic
 simple:italic
-1673660	simple:italic
-1673662	simple:italic
+1775963	simple:italic
+1775965	simple:italic
 simple:italic
-1673665	simple:italic
-1673667	simple:italic
+1775968	simple:italic
+1775970	simple:italic
 simple:italic
-1673670	simple:italic
+1775973	simple:italic
 simple:italic
-1673673	simple:italic
+1775976	simple:italic
 simple:italic
-1673676	simple:italic
+1775979	simple:italic
 simple:italic
-1673679	simple:italic
+1775982	simple:italic
 simple:italic
-1673682	simple:italic
-1673684	simple:italic
+1775985	simple:italic
+1775987	simple:italic
 simple:italic
-1673687	simple:italic
-1673689	simple:italic
+1775990	simple:italic
+1775992	simple:italic
 simple:italic
-1673692	simple:italic
-1673694	simple:italic
-1673696	simple:italic
-1673698	simple:bold
+1775995	simple:italic
+1775997	simple:italic
+1775999	simple:italic
+1776001	simple:bold
 simple:italic
-1673701	simple:italic
-1673703	simple:italic
-1673705	simple:italic
+1776004	simple:italic
+1776006	simple:italic
+1776008	simple:italic
 simple:italic
-1673708	simple:italic
+1776011	simple:italic
 simple:italic
-1673711	simple:italic
+1776014	simple:italic
 simple:italic
-1673714	simple:italic
-1673716	simple:italic
+1776017	simple:italic
+1776019	simple:italic
 simple:italic
-1673719	simple:italic
-1673721	simple:italic
-1673725	simple:italic
-1673727	simple:italic
+1776022	simple:italic
+1776024	simple:italic
+1776028	simple:italic
+1776030	simple:italic
 simple:italic
-1673733	simple:italic
+1776036	simple:italic
 simple:italic
-1673736	simple:italic
-1673738	simple:italic
-1673740	simple:italic
-1673742	simple:italic
+1776039	simple:italic
+1776041	simple:italic
+1776043	simple:italic
+1776045	simple:italic
 simple:italic
-1673745	simple:italic
-1673747	simple:italic
-1673754	simple:italic
+1776048	simple:italic
+1776050	simple:italic
+1776057	simple:italic
 simple:italic
-1673757	simple:italic
-1673759	simple:italic
+1776060	simple:italic
+1776062	simple:italic
 simple:italic
-1673762	simple:italic
+1776065	simple:italic
 simple:italic
-1673765	simple:italic
+1776068	simple:italic
 simple:italic
-1673768	simple:italic
-1673770	simple:italic
-1673772	simple:italic
-1673774	simple:italic
-1673776	simple:italic
-1673782	simple:italic
+1776071	simple:italic
+1776073	simple:italic
+1776075	simple:italic
+1776077	simple:italic
+1776079	simple:italic
+1776085	simple:italic
 simple:italic
-1673785	simple:italic
-1673787	simple:italic
-1673789	simple:italic
-1673791	simple:italic
-1673793	simple:italic
-1673795	simple:italic
-1673797	simple:italic
-1673799	simple:italic
-1673801	simple:italic
-1673803	simple:italic
-1673805	simple:italic
-1673811	simple:italic
+1776088	simple:italic
+1776090	simple:italic
+1776092	simple:italic
+1776094	simple:italic
+1776096	simple:italic
+1776098	simple:italic
+1776100	simple:italic
+1776102	simple:italic
+1776104	simple:italic
+1776106	simple:italic
+1776108	simple:italic
+1776114	simple:italic
 simple:italic
-1673814	simple:italic
+1776117	simple:italic
 simple:italic
-1673817	simple:italic
-1673819	simple:italic
-1673821	simple:italic
+1776120	simple:italic
+1776122	simple:italic
+1776124	simple:italic
 simple:italic
-1673835	simple:italic
+1776138	simple:italic
 simple:italic
-1673838	simple:italic
+1776141	simple:italic
 simple:italic
-1673841	simple:italic
-1673843	simple:italic
-1673845	simple:italic
-1673847	simple:italic
-1673849	simple:italic
+1776144	simple:italic
+1776146	simple:italic
+1776148	simple:italic
+1776150	simple:italic
+1776152	simple:italic
 simple:italic
-1673852	simple:italic
-1673902	simple:italic
-1673904	simple:italic
+1776155	simple:italic
+1776205	simple:italic
+1776207	simple:italic
 simple:italic
-1673907	simple:italic
-1673909	simple:italic
-1673911	simple:italic
-1673913	simple:italic
-1673915	simple:italic
+1776210	simple:italic
+1776212	simple:italic
+1776214	simple:italic
+1776216	simple:italic
+1776218	simple:italic
 simple:italic
-1673918	simple:italic
-1673920	simple:italic
-1673922	simple:italic
-1673924	simple:italic
-1673926	simple:italic
-1673928	simple:italic
-1673930	simple:italic
+1776221	simple:italic
+1776223	simple:italic
+1776225	simple:italic
+1776227	simple:italic
+1776229	simple:italic
+1776231	simple:italic
+1776233	simple:italic
 simple:italic
 simple:italic
-1673934	simple:italic
+1776237	simple:italic
 simple:italic
-1673937	simple:italic
-1673939	simple:italic
+1776240	simple:italic
+1776242	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673944	simple:italic
+1776247	simple:italic
 simple:italic
 simple:italic
-1673948	simple:italic
+1776251	simple:italic
 simple:italic
-1673951	simple:italic
+1776254	simple:italic
 simple:italic
 simple:italic
-1673955	simple:italic
+1776258	simple:italic
 simple:italic
-1673958	simple:italic
+1776261	simple:italic
 simple:italic
-1673961	simple:italic
+1776264	simple:italic
 simple:italic
-1673964	simple:italic
-1673966	simple:italic
+1776267	simple:italic
+1776269	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673971	simple:italic
+1776274	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673976	simple:italic
+1776279	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673981	simple:italic
-1673983	simple:italic
+1776284	simple:italic
+1776286	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673988	simple:italic
-1673990	simple:italic
+1776291	simple:italic
+1776293	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1673995	simple:italic
-1673997	simple:italic
-1673999	simple:italic
+1776298	simple:italic
+1776300	simple:italic
+1776302	simple:italic
 simple:italic
-1674002	simple:italic
-1674004	simple:italic
-1674006	simple:italic
-1674019	simple:italic
-1674021	simple:italic
+1776305	simple:italic
+1776307	simple:italic
+1776309	simple:italic
+1776322	simple:italic
+1776324	simple:italic
 simple:italic
-1674024	simple:italic
-1674026	simple:italic
-1674028	simple:italic
-1674030	simple:italic
-1674032	simple:italic
+1776327	simple:italic
+1776329	simple:italic
+1776331	simple:italic
+1776333	simple:italic
+1776335	simple:italic
 simple:italic
-1674035	simple:italic
+1776338	simple:italic
 simple:italic
-1674038	simple:italic
+1776341	simple:italic
 simple:italic
-1674041	simple:italic
-1674043	simple:italic
+1776344	simple:italic
+1776346	simple:italic
 simple:italic
-1674046	simple:italic
-1674048	simple:italic
-1674050	simple:italic
-1674064	simple:italic
+1776349	simple:italic
+1776351	simple:italic
+1776353	simple:italic
+1776367	simple:italic
 simple:italic
-1674067	simple:italic
-1674069	simple:italic
-1674071	simple:italic
-1674073	simple:italic
-1674075	simple:italic
-1674077	simple:italic
+1776370	simple:italic
+1776372	simple:italic
+1776374	simple:italic
+1776376	simple:italic
+1776378	simple:italic
+1776380	simple:italic
 simple:italic
-1674080	simple:italic
-1674082	simple:italic
+1776383	simple:italic
+1776385	simple:italic
 simple:italic
-1674085	simple:italic
-1674087	simple:italic
-1674089	simple:italic
+1776388	simple:italic
+1776390	simple:italic
+1776392	simple:italic
 simple:italic
-1674092	simple:italic
-1674094	simple:italic
-1674096	simple:italic
+1776395	simple:italic
+1776397	simple:italic
+1776399	simple:italic
 simple:italic
-1674099	simple:italic
-1674101	simple:italic
+1776402	simple:italic
+1776404	simple:italic
 simple:italic
-1674104	simple:italic
+1776407	simple:italic
 simple:italic
-1674107	simple:italic
-1674109	simple:italic
+1776410	simple:italic
+1776412	simple:italic
 simple:italic
-1674112	simple:italic
+1776415	simple:italic
 simple:italic
-1674115	simple:italic
-1674117	simple:italic
+1776418	simple:italic
+1776420	simple:italic
 simple:italic
-1674120	simple:italic
+1776423	simple:italic
 simple:italic
-1674123	simple:italic
+1776426	simple:italic
 simple:italic
-1674126	simple:italic
+1776429	simple:italic
 simple:italic
-1674129	simple:italic
+1776432	simple:italic
 simple:italic
-1674136	simple:italic
-1674138	simple:italic
-1674140	simple:italic
-1674142	simple:italic
+1776439	simple:italic
+1776441	simple:italic
+1776443	simple:italic
+1776445	simple:italic
 simple:italic
-1674145	simple:italic
-1674147	simple:italic
-1674158	simple:italic
-1674163	simple:italic
+1776448	simple:italic
+1776450	simple:italic
+1776461	simple:italic
+1776466	simple:italic
 simple:italic
-1674166	simple:italic
+1776469	simple:italic
 simple:italic
-1674169	simple:italic
+1776472	simple:italic
 simple:italic
-1674172	simple:italic
-1674174	simple:italic
+1776475	simple:italic
+1776477	simple:italic
 simple:italic
-1674177	simple:italic
+1776480	simple:italic
 simple:italic
-1674186	simple:italic
-1674188	simple:italic
+1776489	simple:italic
+1776491	simple:italic
 simple:italic
-1674191	simple:italic
-1674193	simple:italic
+1776494	simple:italic
+1776496	simple:italic
 simple:italic
-1674196	simple:italic
-1674198	simple:italic
-1674200	simple:italic
-1674202	simple:italic
+1776499	simple:italic
+1776501	simple:italic
+1776503	simple:italic
+1776505	simple:italic
 simple:italic
 simple:italic
-1674206	simple:italic
+1776509	simple:italic
 simple:italic
-1674209	simple:italic
+1776512	simple:italic
 simple:italic
-1674212	simple:italic
-1674233	simple:italic
-1674235	simple:italic
+1776515	simple:italic
+1776536	simple:italic
+1776538	simple:italic
 simple:italic
-1674238	simple:italic
-1674240	simple:italic
-1674242	simple:italic
-1674244	simple:italic
+1776541	simple:italic
+1776543	simple:italic
+1776545	simple:italic
+1776547	simple:italic
 simple:italic
-1674247	simple:italic
-1674263	simple:italic
-1674265	simple:italic
-1674267	simple:italic
+1776550	simple:italic
+1776566	simple:italic
+1776568	simple:italic
+1776570	simple:italic
 simple:italic
-1674270	simple:italic
-1674272	simple:italic
-1674274	simple:italic
+1776573	simple:italic
+1776575	simple:italic
+1776577	simple:italic
 simple:italic
-1674277	simple:italic
-1674279	simple:italic
-1674281	simple:italic
-1674298	simple:italic
+1776580	simple:italic
+1776582	simple:italic
+1776584	simple:italic
+1776601	simple:italic
 simple:italic
-1674301	simple:italic
-1674303	simple:italic
+1776604	simple:italic
+1776606	simple:italic
 simple:italic
-1674306	simple:italic
-1674308	simple:italic
-1674310	simple:italic
-1674312	simple:italic
-1674314	simple:italic
-1674316	simple:italic
-1674318	simple:italic
-1674320	simple:italic
-1674322	simple:italic
-1674324	simple:italic
-1674326	simple:italic
-1674328	simple:italic
+1776609	simple:italic
+1776611	simple:italic
+1776613	simple:italic
+1776615	simple:italic
+1776617	simple:italic
+1776619	simple:italic
+1776621	simple:italic
+1776623	simple:italic
+1776625	simple:italic
+1776627	simple:italic
+1776629	simple:italic
+1776631	simple:italic
 simple:italic
-1674331	simple:italic
+1776634	simple:italic
 simple:italic
-1674374	simple:italic
-1674376	simple:italic
-1674378	simple:italic
-1674380	simple:italic
-1674382	simple:italic
-1674384	simple:italic
+1776677	simple:italic
+1776679	simple:italic
+1776681	simple:italic
+1776683	simple:italic
+1776685	simple:italic
+1776687	simple:italic
 simple:italic
-1674387	simple:italic
-1674389	simple:italic
-1674391	simple:italic
-1674393	simple:italic
-1674395	simple:italic
-1674397	simple:italic
-1674399	simple:italic
-1674401	simple:italic
+1776690	simple:italic
+1776692	simple:italic
+1776694	simple:italic
+1776696	simple:italic
+1776698	simple:italic
+1776700	simple:italic
+1776702	simple:italic
+1776704	simple:italic
 simple:italic
-1674404	simple:italic
-1674406	simple:italic
-1674408	simple:italic
-1674410	simple:italic
-1674412	simple:italic
+1776707	simple:italic
+1776709	simple:italic
+1776711	simple:italic
+1776713	simple:italic
+1776715	simple:italic
 simple:italic
-1674415	simple:italic
-1674417	simple:italic
-1674419	simple:italic
-1674421	simple:italic
-1674423	simple:italic
-1674448	simple:italic
-1674450	simple:italic
-1674452	simple:italic
-1674454	simple:italic
-1674456	simple:italic
-1674458	simple:italic
-1674460	simple:italic
+1776718	simple:italic
+1776720	simple:italic
+1776722	simple:italic
+1776724	simple:italic
+1776726	simple:italic
+1776751	simple:italic
+1776753	simple:italic
+1776755	simple:italic
+1776757	simple:italic
+1776759	simple:italic
+1776761	simple:italic
+1776763	simple:italic
 simple:italic
-1674463	simple:italic
-1674465	simple:italic
-1674467	simple:italic
-1674469	simple:italic
+1776766	simple:italic
+1776768	simple:italic
+1776770	simple:italic
+1776772	simple:italic
 simple:italic
-1674472	simple:italic
-1674474	simple:italic
+1776775	simple:italic
+1776777	simple:italic
 simple:italic
 simple:italic
-1674478	simple:italic
+1776781	simple:italic
 simple:italic
-1674481	simple:italic
-1674483	simple:italic
+1776784	simple:italic
+1776786	simple:italic
 simple:italic
-1674486	simple:italic
-1674488	simple:italic
-1674490	simple:italic
+1776789	simple:italic
+1776791	simple:italic
+1776793	simple:italic
 simple:italic
-1674493	simple:italic
-1674495	simple:italic
+1776796	simple:italic
+1776798	simple:italic
 simple:italic
-1674498	simple:italic
+1776801	simple:italic
 simple:italic
-1674501	simple:italic
+1776804	simple:italic
 simple:italic
-1674504	simple:italic
-1674514	simple:italic
-1674516	simple:italic
+1776807	simple:italic
+1776817	simple:italic
+1776819	simple:italic
 simple:italic
-1674519	simple:italic
-1674521	simple:italic
-1674523	simple:italic
+1776822	simple:italic
+1776824	simple:italic
+1776826	simple:italic
 simple:italic
-1674526	simple:italic
-1674530	simple:italic
-1674532	simple:italic
+1776829	simple:italic
+1776833	simple:italic
+1776835	simple:italic
 simple:italic
-1674562	simple:italic
+1776865	simple:italic
 simple:italic
-1674565	simple:italic
+1776868	simple:italic
 simple:italic
-1674568	simple:italic
-1674570	simple:italic
-1674572	simple:italic
+1776871	simple:italic
+1776873	simple:italic
+1776875	simple:italic
 simple:italic
-1674575	simple:italic
-1674577	simple:italic
+1776878	simple:italic
+1776880	simple:italic
 simple:italic
-1674580	simple:italic
-1674582	simple:italic
+1776883	simple:italic
+1776885	simple:italic
 simple:italic
-1674585	simple:italic
+1776888	simple:italic
 simple:italic
-1674588	simple:italic
-1674590	simple:italic
-1674592	simple:italic
-1674594	simple:italic
+1776891	simple:italic
+1776893	simple:italic
+1776895	simple:italic
+1776897	simple:italic
 simple:italic
-1674597	simple:italic
-1674609	simple:italic
-1674611	simple:italic
-1674613	simple:italic
+1776900	simple:italic
+1776912	simple:italic
+1776914	simple:italic
+1776916	simple:italic
 simple:italic
-1674616	simple:italic
+1776919	simple:italic
 simple:italic
-1674619	simple:italic
-1674621	simple:italic
+1776922	simple:italic
+1776924	simple:italic
 simple:italic
-1674624	simple:italic
-1674626	simple:italic
+1776927	simple:italic
+1776929	simple:italic
 simple:italic
-1674629	simple:italic
-1674639	simple:italic
+1776932	simple:italic
+1776942	simple:italic
 simple:italic
-1674642	simple:italic
-1674644	simple:italic
-1674646	simple:italic
+1776945	simple:italic
+1776947	simple:italic
+1776949	simple:italic
 simple:italic
-1674649	simple:italic
+1776952	simple:italic
 simple:italic
-1674652	simple:italic
-1674660	simple:italic
+1776955	simple:italic
+1776963	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1674665	simple:italic
+1776968	simple:italic
 simple:italic
-1674678	simple:italic
+1776981	simple:italic
 simple:italic
-1674681	simple:italic
-1674683	simple:italic
+1776984	simple:italic
+1776986	simple:italic
 simple:italic
-1674686	simple:italic
+1776989	simple:italic
 simple:italic
-1674689	simple:italic
-1674693	simple:italic
-1674695	simple:italic
+1776992	simple:italic
+1776996	simple:italic
+1776998	simple:italic
 simple:italic
-1674698	simple:italic
-1674700	simple:italic
-1674704	simple:italic
-1674706	simple:italic
-1674708	simple:italic
+1777001	simple:italic
+1777003	simple:italic
+1777007	simple:italic
+1777009	simple:italic
+1777011	simple:italic
 simple:italic
-1674711	simple:italic
-1674713	simple:italic
+1777014	simple:italic
+1777016	simple:italic
 simple:italic
-1674716	simple:italic
+1777019	simple:italic
 simple:italic
-1674719	simple:italic
+1777022	simple:italic
 simple:italic
-1674722	simple:italic
+1777025	simple:italic
 simple:italic
-1674725	simple:italic
+1777028	simple:italic
 simple:italic
-1674728	simple:italic
-1674730	simple:italic
+1777031	simple:italic
+1777033	simple:italic
 simple:italic
-1674733	simple:italic
+1777036	simple:italic
 simple:italic
-1674736	simple:italic
-1674738	simple:italic
+1777039	simple:italic
+1777041	simple:italic
 simple:italic
 simple:italic
-1674742	simple:italic
+1777045	simple:italic
 simple:italic
-1674745	simple:italic
+1777048	simple:italic
 simple:italic
-1674748	simple:italic
-1674750	simple:italic
-1674752	simple:italic
+1777051	simple:italic
+1777053	simple:italic
+1777055	simple:italic
 simple:italic
-1674755	simple:italic
-1674757	simple:italic
-1674764	simple:italic
-1674766	simple:italic
+1777058	simple:italic
+1777060	simple:italic
+1777067	simple:italic
+1777069	simple:italic
 simple:italic
-1674769	simple:italic
+1777072	simple:italic
 simple:italic
-1674772	simple:italic
+1777075	simple:italic
 simple:italic
-1674775	simple:italic
+1777078	simple:italic
 simple:italic
-1674778	simple:italic
-1674780	simple:italic
+1777081	simple:italic
+1777083	simple:italic
 simple:italic
-1674783	simple:italic
+1777086	simple:italic
 simple:italic
-1674786	simple:italic
-1674788	simple:italic
-1674790	simple:italic
+1777089	simple:italic
+1777091	simple:italic
+1777093	simple:italic
 simple:italic
-1674793	simple:italic
-1674795	simple:italic
-1674797	simple:italic
-1674799	simple:italic
+1777096	simple:italic
+1777098	simple:italic
+1777100	simple:italic
+1777102	simple:italic
 simple:italic
-1674802	simple:italic
-1674804	simple:italic
-1674806	simple:italic
+1777105	simple:italic
+1777107	simple:italic
+1777109	simple:italic
 simple:italic
-1674809	simple:italic
+1777112	simple:italic
 simple:italic
-1674812	simple:italic
-1674814	simple:italic
-1674816	simple:italic
-1674818	simple:italic
-1674821	simple:italic
-1674828	simple:italic
+1777115	simple:italic
+1777117	simple:italic
+1777119	simple:italic
+1777121	simple:italic
+1777124	simple:italic
+1777131	simple:italic
 simple:italic
-1674831	simple:italic
-1674833	simple:italic
+1777134	simple:italic
+1777136	simple:italic
 simple:italic
-1674836	simple:italic
-1674839	simple:italic
-1674841	simple:italic
-1674843	simple:italic
+1777139	simple:italic
+1777142	simple:italic
+1777144	simple:italic
+1777146	simple:italic
 simple:italic
-1674846	simple:italic
+1777149	simple:italic
 simple:italic
-1674849	simple:italic
-1674851	simple:italic
-1674853	simple:italic
-1674855	simple:italic
-1674868	simple:italic
+1777152	simple:italic
+1777154	simple:italic
+1777156	simple:italic
+1777158	simple:italic
+1777171	simple:italic
 simple:italic
-1674871	simple:italic
-1674873	simple:italic
-1674875	simple:italic
-1674877	simple:italic
-1674879	simple:italic
+1777174	simple:italic
+1777176	simple:italic
+1777178	simple:italic
+1777180	simple:italic
+1777182	simple:italic
 simple:italic
-1674882	simple:italic
-1674884	simple:italic
-1674892	simple:italic
+1777185	simple:italic
+1777187	simple:italic
+1777195	simple:italic
 simple:italic
-1674895	simple:italic
-1674897	simple:italic
+1777198	simple:italic
+1777200	simple:italic
 simple:italic
-1674900	simple:italic
-1674902	simple:italic
-1674904	simple:italic
-1674906	simple:italic
-1674908	simple:italic
-1674910	simple:italic
+1777203	simple:italic
+1777205	simple:italic
+1777207	simple:italic
+1777209	simple:italic
+1777211	simple:italic
+1777213	simple:italic
 simple:italic
-1674913	simple:italic
+1777216	simple:italic
 simple:italic
-1674916	simple:italic
-1674918	simple:italic
-1674920	simple:italic
+1777219	simple:italic
+1777221	simple:italic
+1777223	simple:italic
 simple:italic
-1674923	simple:italic
-1674925	simple:italic
-1674927	simple:italic
-1674929	simple:italic
-1674931	simple:italic
-1674938	simple:italic
+1777226	simple:italic
+1777228	simple:italic
+1777230	simple:italic
+1777232	simple:italic
+1777234	simple:italic
+1777241	simple:italic
 simple:italic
-1674941	simple:italic
-1674943	simple:italic
+1777244	simple:italic
+1777246	simple:italic
 simple:italic
-1674946	simple:italic
+1777249	simple:italic
 simple:italic
-1674952	simple:italic
-1674954	simple:italic
-1674956	simple:italic
-1674958	simple:italic
-1674960	simple:italic
+1777255	simple:italic
+1777257	simple:italic
+1777259	simple:italic
+1777261	simple:italic
+1777263	simple:italic
 simple:italic
-1674963	simple:italic
+1777266	simple:italic
 simple:italic
-1674966	simple:italic
-1674968	simple:italic
-1674970	simple:italic
+1777269	simple:italic
+1777271	simple:italic
+1777273	simple:italic
 simple:italic
-1674973	simple:italic
-1674975	simple:italic
+1777276	simple:italic
+1777278	simple:italic
 simple:italic
-1674978	simple:italic
+1777281	simple:italic
 simple:italic
-1674981	simple:italic
-1674991	simple:italic
+1777284	simple:italic
+1777294	simple:italic
 simple:italic
-1674994	simple:italic
-1674996	simple:italic
-1674998	simple:italic
+1777297	simple:italic
+1777299	simple:italic
+1777301	simple:italic
 simple:italic
-1675001	simple:italic
+1777304	simple:italic
 simple:italic
-1675004	simple:italic
+1777307	simple:italic
 simple:italic
-1675007	simple:italic
-1675009	simple:italic
-1675011	simple:italic
+1777310	simple:italic
+1777312	simple:italic
+1777314	simple:italic
 simple:italic
-1675014	simple:italic
+1777317	simple:italic
 simple:italic
-1675017	simple:italic
-1675019	simple:italic
-1675021	simple:italic
-1675023	simple:italic
-1675025	simple:italic
+1777320	simple:italic
+1777322	simple:italic
+1777324	simple:italic
+1777326	simple:italic
+1777328	simple:italic
 simple:italic
-1675032	simple:italic
+1777335	simple:italic
 simple:italic
-1675035	simple:italic
-1675037	simple:italic
+1777338	simple:italic
+1777340	simple:italic
 simple:italic
-1675040	simple:italic
+1777343	simple:italic
 simple:italic
-1675043	simple:italic
-1675045	simple:italic
-1675047	simple:italic
+1777346	simple:italic
+1777348	simple:italic
+1777350	simple:italic
 simple:italic
-1675050	simple:italic
-1675052	simple:italic
-1675054	simple:italic
+1777353	simple:italic
+1777355	simple:italic
+1777357	simple:italic
 simple:italic
-1675057	simple:italic
+1777360	simple:italic
 simple:italic
-1675060	simple:italic
-1675062	simple:italic
+1777363	simple:italic
+1777365	simple:italic
 simple:italic
-1675065	simple:italic
-1675067	simple:italic
+1777368	simple:italic
+1777370	simple:italic
 simple:italic
-1675070	simple:italic
-1675072	simple:italic
-1675074	simple:italic
-1675076	simple:italic
-1675078	simple:italic
+1777373	simple:italic
+1777375	simple:italic
+1777377	simple:italic
+1777379	simple:italic
+1777381	simple:italic
 simple:italic
-1675081	simple:italic
-1675087	simple:italic
-1675089	simple:italic
+1777384	simple:italic
+1777390	simple:italic
+1777392	simple:italic
 simple:italic
-1675092	simple:italic
+1777395	simple:italic
 simple:italic
-1675095	simple:italic
+1777398	simple:italic
 simple:italic
 simple:italic
-1675099	simple:italic
-1675101	simple:italic
-1675103	simple:italic
-1675105	simple:italic
+1777402	simple:italic
+1777404	simple:italic
+1777406	simple:italic
+1777408	simple:italic
 simple:italic
-1675108	simple:italic
+1777411	simple:italic
 simple:italic
-1675111	simple:italic
+1777414	simple:italic
 simple:italic
-1675114	simple:italic
+1777417	simple:italic
 simple:italic
-1675117	simple:italic
+1777420	simple:italic
 simple:italic
-1675120	simple:italic
+1777423	simple:italic
 simple:italic
-1675126	simple:italic
-1675128	simple:italic
-1675130	simple:italic
-1675132	simple:italic
+1777429	simple:italic
+1777431	simple:italic
+1777433	simple:italic
+1777435	simple:italic
 simple:italic
-1675135	simple:italic
-1675137	simple:italic
-1675139	simple:italic
+1777438	simple:italic
+1777440	simple:italic
+1777442	simple:italic
 simple:italic
-1675147	simple:italic
-1675149	simple:italic
-1675151	simple:italic
+1777450	simple:italic
+1777452	simple:italic
+1777454	simple:italic
 simple:italic
-1675154	simple:italic
-1675156	simple:italic
-1675158	simple:italic
+1777457	simple:italic
+1777459	simple:italic
+1777461	simple:italic
 simple:italic
-1675161	simple:italic
-1675163	simple:italic
+1777464	simple:italic
+1777466	simple:italic
 simple:italic
-1675166	simple:italic
-1675168	simple:italic
+1777469	simple:italic
+1777471	simple:italic
 simple:italic
-1675171	simple:italic
-1675173	simple:italic
+1777474	simple:italic
+1777476	simple:italic
 simple:italic
-1675176	simple:italic
-1675178	simple:italic
-1675180	simple:italic
-1675182	simple:italic
-1675184	simple:italic
+1777479	simple:italic
+1777481	simple:italic
+1777483	simple:italic
+1777485	simple:italic
+1777487	simple:italic
 simple:italic
-1675187	simple:italic
-1675189	simple:italic
-1675191	simple:italic
+1777490	simple:italic
+1777492	simple:italic
+1777494	simple:italic
 simple:italic
-1675194	simple:italic
-1675196	simple:italic
-1675198	simple:italic
-1675200	simple:italic
-1675202	simple:italic
+1777497	simple:italic
+1777499	simple:italic
+1777501	simple:italic
+1777503	simple:italic
+1777505	simple:italic
 simple:italic
-1675205	simple:italic
-1675221	simple:italic
-1675223	simple:italic
+1777508	simple:italic
+1777524	simple:italic
+1777526	simple:italic
 simple:italic
-1675226	simple:italic
+1777529	simple:italic
 simple:italic
-1675229	simple:italic
-1675231	simple:italic
-1675233	simple:italic
+1777532	simple:italic
+1777534	simple:italic
+1777536	simple:italic
 simple:italic
-1675236	simple:italic
+1777539	simple:italic
 simple:italic
-1675239	simple:italic
-1675241	simple:italic
-1675243	simple:italic
-1675245	simple:italic
+1777542	simple:italic
+1777544	simple:italic
+1777546	simple:italic
+1777548	simple:italic
 simple:italic
-1675248	simple:italic
-1675250	simple:italic
+1777551	simple:italic
+1777553	simple:italic
 simple:italic
-1675253	simple:italic
-1675255	simple:italic
-1675257	simple:italic
-1675259	simple:italic
-1675261	simple:italic
-1675263	simple:italic
-1675265	simple:italic
+1777556	simple:italic
+1777558	simple:italic
+1777560	simple:italic
+1777562	simple:italic
+1777564	simple:italic
+1777566	simple:italic
+1777568	simple:italic
 simple:italic
-1675268	simple:italic
-1675270	simple:italic
+1777571	simple:italic
+1777573	simple:italic
 simple:italic
-1675273	simple:italic
+1777576	simple:italic
 simple:italic
-1675276	simple:italic
+1777579	simple:italic
 simple:italic
-1675279	simple:italic
-1675281	simple:italic
-1675283	simple:italic
+1777582	simple:italic
+1777584	simple:italic
+1777586	simple:italic
 simple:italic
-1675286	simple:italic
-1675288	simple:italic
+1777589	simple:italic
+1777591	simple:italic
 simple:italic
-1675291	simple:italic
+1777594	simple:italic
 simple:italic
-1675294	simple:italic
-1675296	simple:italic
+1777597	simple:italic
+1777599	simple:italic
 simple:italic
-1675299	simple:italic
+1777602	simple:italic
 simple:italic
-1675302	simple:italic
+1777605	simple:italic
 simple:italic
-1675305	simple:italic
+1777608	simple:italic
 simple:italic
-1675308	simple:italic
+1777611	simple:italic
 simple:italic
-1675311	simple:italic
+1777614	simple:italic
 simple:italic
-1675314	simple:italic
-1675316	simple:italic
+1777617	simple:italic
+1777619	simple:italic
 simple:italic
-1675319	simple:italic
-1675321	simple:italic
-1675323	simple:italic
-1675325	simple:italic
-1675327	simple:italic
-1675329	simple:italic
-1675331	simple:italic
-1675333	simple:italic
-1675335	simple:italic
-1675337	simple:italic
+1777622	simple:italic
+1777624	simple:italic
+1777626	simple:italic
+1777628	simple:italic
+1777630	simple:italic
+1777632	simple:italic
+1777634	simple:italic
+1777636	simple:italic
+1777638	simple:italic
+1777640	simple:italic
 simple:italic
-1675340	simple:italic
+1777643	simple:italic
 simple:italic
-1675343	simple:italic
-1675345	simple:italic
+1777646	simple:italic
+1777648	simple:italic
 simple:italic
-1675348	simple:italic
+1777651	simple:italic
 simple:italic
-1675351	simple:italic
-1675353	simple:italic
-1675355	simple:italic
+1777654	simple:italic
+1777656	simple:italic
+1777658	simple:italic
 simple:italic
-1675358	simple:italic
-1675360	simple:italic
-1675362	simple:italic
-1675364	simple:italic
+1777661	simple:italic
+1777663	simple:italic
+1777665	simple:italic
+1777667	simple:italic
 simple:italic
-1675367	simple:italic
-1675369	simple:italic
-1675371	simple:italic
+1777670	simple:italic
+1777672	simple:italic
+1777674	simple:italic
 simple:italic
-1675374	simple:italic
-1675376	simple:italic
-1675378	simple:italic
-1675380	simple:italic
-1675382	simple:italic
-1675384	simple:italic
+1777677	simple:italic
+1777679	simple:italic
+1777681	simple:italic
+1777683	simple:italic
+1777685	simple:italic
+1777687	simple:italic
 simple:italic
-1675387	simple:italic
-1675389	simple:italic
-1675391	simple:italic
+1777690	simple:italic
+1777692	simple:italic
+1777694	simple:italic
 simple:italic
-1675394	simple:italic
-1675396	simple:italic
-1675398	simple:italic
-1675400	simple:italic
-1675402	simple:italic
-1675404	simple:italic
-1675406	simple:italic
-1675408	simple:italic
-1675410	simple:italic
-1675412	simple:italic
-1675414	simple:italic
-1675416	simple:italic
-1675418	simple:italic
-1675420	simple:italic
-1675422	simple:italic
-1675424	simple:italic
-1675426	simple:italic
-1675428	simple:italic
+1777697	simple:italic
+1777699	simple:italic
+1777701	simple:italic
+1777703	simple:italic
+1777705	simple:italic
+1777707	simple:italic
+1777709	simple:italic
+1777711	simple:italic
+1777713	simple:italic
+1777715	simple:italic
+1777717	simple:italic
+1777719	simple:italic
+1777721	simple:italic
+1777723	simple:italic
+1777725	simple:italic
+1777727	simple:italic
+1777729	simple:italic
+1777731	simple:italic
 simple:italic
 simple:italic
-1675432	simple:italic
-1675434	simple:italic
-1675436	simple:italic
-1675442	simple:italic
-1675444	simple:italic
-1675446	simple:italic
+1777735	simple:italic
+1777737	simple:italic
+1777739	simple:italic
+1777745	simple:italic
+1777747	simple:italic
+1777749	simple:italic
 simple:italic
-1675449	simple:italic
+1777752	simple:italic
 simple:italic
-1675452	simple:italic
+1777755	simple:italic
 simple:italic
-1675455	simple:italic
+1777758	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1675460	simple:italic
+1777763	simple:italic
 simple:italic
-1675463	simple:italic
-1675465	simple:italic
-1675467	simple:italic
-1675469	simple:italic
+1777766	simple:italic
+1777768	simple:italic
+1777770	simple:italic
+1777772	simple:italic
 simple:italic
-1675472	simple:italic
-1675474	simple:italic
+1777775	simple:italic
+1777777	simple:italic
 simple:italic
-1675477	simple:italic
+1777780	simple:italic
 simple:italic
-1675480	simple:italic
-1675482	simple:italic
-1675484	simple:italic
+1777783	simple:italic
+1777785	simple:italic
+1777787	simple:italic
 simple:italic
-1675487	simple:italic
-1675489	simple:italic
-1675491	simple:italic
-1675493	simple:italic
+1777790	simple:italic
+1777792	simple:italic
+1777794	simple:italic
+1777796	simple:italic
 simple:italic
-1675496	simple:italic
-1675498	simple:italic
-1675500	simple:italic
-1675502	simple:italic
-1675504	simple:italic
-1675506	simple:italic
-1675508	simple:italic
-1675510	simple:italic
-1675512	simple:italic
-1675514	simple:italic
-1675516	simple:italic
-1675518	simple:italic
-1675520	simple:italic
-1675522	simple:italic
-1675524	simple:italic
-1675526	simple:italic
-1675528	simple:italic
+1777799	simple:italic
+1777801	simple:italic
+1777803	simple:italic
+1777805	simple:italic
+1777807	simple:italic
+1777809	simple:italic
+1777811	simple:italic
+1777813	simple:italic
+1777815	simple:italic
+1777817	simple:italic
+1777819	simple:italic
+1777821	simple:italic
+1777823	simple:italic
+1777825	simple:italic
+1777827	simple:italic
+1777829	simple:italic
+1777831	simple:italic
 simple:italic
-1675531	simple:italic
-1675533	simple:italic
-1675535	simple:italic
-1675537	simple:italic
+1777834	simple:italic
+1777836	simple:italic
+1777838	simple:italic
+1777840	simple:italic
 simple:italic
-1675540	simple:italic
-1675542	simple:italic
+1777843	simple:italic
+1777845	simple:italic
 simple:italic
-1675545	simple:italic
-1675547	simple:italic
+1777848	simple:italic
+1777850	simple:italic
 simple:italic
-1675550	simple:italic
-1675552	simple:italic
-1675554	simple:italic
-1675556	simple:italic
-1675558	simple:italic
-1675560	simple:italic
-1675562	simple:italic
-1675564	simple:italic
+1777853	simple:italic
+1777855	simple:italic
+1777857	simple:italic
+1777859	simple:italic
+1777861	simple:italic
+1777863	simple:italic
+1777865	simple:italic
+1777867	simple:italic
 simple:italic
 simple:italic
-1675568	simple:italic
+1777871	simple:italic
 simple:italic
-1675571	simple:italic
-1675578	simple:italic
-1675580	simple:italic
+1777874	simple:italic
+1777881	simple:italic
+1777883	simple:italic
 simple:italic
-1675583	simple:italic
-1675585	simple:italic
-1675587	simple:italic
-1675589	simple:italic
-1675591	simple:italic
+1777886	simple:italic
+1777888	simple:italic
+1777890	simple:italic
+1777892	simple:italic
+1777894	simple:italic
 simple:italic
-1675594	simple:italic
+1777897	simple:italic
 simple:italic
-1675597	simple:italic
-1675599	simple:italic
-1675601	simple:italic
-1675603	simple:italic
-1675605	simple:italic
+1777900	simple:italic
+1777902	simple:italic
+1777904	simple:italic
+1777906	simple:italic
+1777908	simple:italic
 simple:italic
-1675608	simple:italic
-1675610	simple:italic
+1777911	simple:italic
+1777913	simple:italic
 simple:italic
-1675613	simple:italic
-1675615	simple:italic
+1777916	simple:italic
+1777918	simple:italic
 simple:italic
-1675618	simple:italic
+1777921	simple:italic
 simple:italic
-1675621	simple:italic
-1675623	simple:italic
-1675625	simple:italic
-1675627	simple:italic
-1675637	simple:italic
-1675639	simple:italic
-1675641	simple:italic
-1675643	simple:italic
-1675645	simple:italic
-1675647	simple:italic
+1777924	simple:italic
+1777926	simple:italic
+1777928	simple:italic
+1777930	simple:italic
+1777940	simple:italic
+1777942	simple:italic
+1777944	simple:italic
+1777946	simple:italic
+1777948	simple:italic
+1777950	simple:italic
 simple:italic
-1675650	simple:italic
+1777953	simple:italic
 simple:italic
-1675653	simple:italic
-1675655	simple:italic
-1675657	simple:italic
-1675659	simple:italic
-1675661	simple:italic
-1675663	simple:italic
-1675665	simple:italic
-1675667	simple:italic
+1777956	simple:italic
+1777958	simple:italic
+1777960	simple:italic
+1777962	simple:italic
+1777964	simple:italic
+1777966	simple:italic
+1777968	simple:italic
+1777970	simple:italic
 simple:italic
-1675670	simple:italic
-1675672	simple:italic
+1777973	simple:italic
+1777975	simple:italic
 simple:italic
-1675675	simple:italic
-1675677	simple:italic
+1777978	simple:italic
+1777980	simple:italic
 simple:italic
-1675680	simple:italic
+1777983	simple:italic
 simple:italic
-1675683	simple:italic
+1777986	simple:italic
 simple:italic
-1675686	simple:italic
+1777989	simple:italic
 simple:italic
-1675689	simple:italic
+1777992	simple:italic
 simple:italic
-1675692	simple:italic
-1675694	simple:italic
-1675696	simple:italic
-1675698	simple:italic
-1675700	simple:italic
-1675702	simple:italic
-1675704	simple:italic
+1777995	simple:italic
+1777997	simple:italic
+1777999	simple:italic
+1778001	simple:italic
+1778003	simple:italic
+1778005	simple:italic
+1778007	simple:italic
 simple:italic
-1675707	simple:italic
-1675709	simple:italic
+1778010	simple:italic
+1778012	simple:italic
 simple:italic
-1675712	simple:italic
+1778015	simple:italic
 simple:italic
-1675715	simple:italic
+1778018	simple:italic
 simple:italic
-1675718	simple:italic
-1675720	simple:italic
-1675722	simple:italic
+1778021	simple:italic
+1778023	simple:italic
+1778025	simple:italic
 simple:italic
-1675725	simple:italic
-1675727	simple:italic
-1675729	simple:italic
-1675731	simple:italic
-1675733	simple:italic
-1675735	simple:italic
-1675737	simple:italic
-1675739	simple:italic
-1675741	simple:italic
-1675743	simple:italic
-1675745	simple:italic
-1675747	simple:italic
-1675749	simple:italic
-1675751	simple:italic
+1778028	simple:italic
+1778030	simple:italic
+1778032	simple:italic
+1778034	simple:italic
+1778036	simple:italic
+1778038	simple:italic
+1778040	simple:italic
+1778042	simple:italic
+1778044	simple:italic
+1778046	simple:italic
+1778048	simple:italic
+1778050	simple:italic
+1778052	simple:italic
+1778054	simple:italic
 simple:italic
-1675754	simple:italic
-1675756	simple:italic
-1675758	simple:italic
-1675760	simple:italic
-1675762	simple:italic
-1675764	simple:italic
-1675766	simple:italic
+1778057	simple:italic
+1778059	simple:italic
+1778061	simple:italic
+1778063	simple:italic
+1778065	simple:italic
+1778067	simple:italic
+1778069	simple:italic
 simple:italic
-1675769	simple:italic
+1778072	simple:italic
 simple:italic
-1675772	simple:italic
+1778075	simple:italic
 simple:italic
-1675775	simple:italic
-1675777	simple:italic
+1778078	simple:italic
+1778080	simple:italic
 simple:italic
-1675780	simple:italic
-1675782	simple:italic
-1675784	simple:italic
-1675786	simple:italic
+1778083	simple:italic
+1778085	simple:italic
+1778087	simple:italic
+1778089	simple:italic
 simple:italic
-1675789	simple:italic
-1675791	simple:italic
+1778092	simple:italic
+1778094	simple:italic
 simple:italic
-1675794	simple:italic
+1778097	simple:italic
 simple:italic
 simple:italic
-1675798	simple:italic
+1778101	simple:italic
 simple:italic
-1675801	simple:italic
-1675803	simple:italic
-1675805	simple:italic
-1675807	simple:italic
+1778104	simple:italic
+1778106	simple:italic
+1778108	simple:italic
+1778110	simple:italic
 simple:italic
-1675810	simple:italic
+1778113	simple:italic
 simple:italic
 simple:italic
-1675814	simple:italic
-1675816	simple:italic
-1675821	simple:italic
-1675823	simple:italic
+1778117	simple:italic
+1778119	simple:italic
+1778124	simple:italic
+1778126	simple:italic
 simple:italic
-1675826	simple:italic
-1675828	simple:italic
-1675830	simple:italic
+1778129	simple:italic
+1778131	simple:italic
+1778133	simple:italic
 simple:italic
-1675833	simple:italic
-1675835	simple:italic
+1778136	simple:italic
+1778138	simple:italic
 simple:italic
-1675838	simple:italic
-1675840	simple:italic
+1778141	simple:italic
+1778143	simple:italic
 simple:italic
-1675843	simple:italic
+1778146	simple:italic
 simple:italic
-1675846	simple:italic
-1675848	simple:italic
+1778149	simple:italic
+1778151	simple:italic
 simple:italic
-1675851	simple:italic
-1675853	simple:italic
-1675855	simple:italic
+1778154	simple:italic
+1778156	simple:italic
+1778158	simple:italic
 simple:italic
-1675858	simple:italic
+1778161	simple:italic
 simple:italic
-1675861	simple:italic
-1675863	simple:italic
-1675865	simple:italic
-1675867	simple:italic
-1675869	simple:italic
-1675871	simple:italic
-1675873	simple:italic
-1675875	simple:italic
-1675877	simple:italic
+1778164	simple:italic
+1778166	simple:italic
+1778168	simple:italic
+1778170	simple:italic
+1778172	simple:italic
+1778174	simple:italic
+1778176	simple:italic
+1778178	simple:italic
+1778180	simple:italic
 simple:italic
-1675880	simple:italic
-1675882	simple:italic
-1675884	simple:italic
-1675886	simple:italic
+1778183	simple:italic
+1778185	simple:italic
+1778187	simple:italic
+1778189	simple:italic
 simple:italic
-1675889	simple:italic
-1675891	simple:italic
+1778192	simple:italic
+1778194	simple:italic
 simple:italic
-1675894	simple:italic
+1778197	simple:italic
 simple:italic
-1675897	simple:italic
-1675899	simple:italic
-1675901	simple:italic
-1675903	simple:italic
-1675912	simple:italic
+1778200	simple:italic
+1778202	simple:italic
+1778204	simple:italic
+1778206	simple:italic
+1778215	simple:italic
 simple:italic
-1675915	simple:italic
+1778218	simple:italic
 simple:italic
-1675918	simple:italic
+1778221	simple:italic
 simple:italic
-1675921	simple:italic
+1778224	simple:italic
 simple:italic
-1675924	simple:italic
+1778227	simple:italic
 simple:italic
-1675927	simple:italic
-1675929	simple:italic
-1675931	simple:italic
+1778230	simple:italic
+1778232	simple:italic
+1778234	simple:italic
 simple:italic
-1675934	simple:italic
-1675936	simple:italic
+1778237	simple:italic
+1778239	simple:italic
 simple:italic
-1675939	simple:italic
-1675941	simple:italic
+1778242	simple:italic
+1778244	simple:italic
 simple:italic
-1675944	simple:italic
-1675946	simple:italic
+1778247	simple:italic
+1778249	simple:italic
 simple:italic
-1675949	simple:italic
+1778252	simple:italic
 simple:italic
-1675952	simple:italic
-1675954	simple:italic
-1675956	simple:italic
+1778255	simple:italic
+1778257	simple:italic
+1778259	simple:italic
 simple:italic
-1675959	simple:italic
-1675961	simple:italic
-1675963	simple:italic
-1675965	simple:italic
-1675967	simple:italic
-1675969	simple:italic
-1675973	simple:italic
-1675975	simple:italic
+1778262	simple:italic
+1778264	simple:italic
+1778266	simple:italic
+1778268	simple:italic
+1778270	simple:italic
+1778272	simple:italic
+1778276	simple:italic
+1778278	simple:italic
 simple:italic
-1675978	simple:italic
-1675980	simple:italic
-1675982	simple:italic
-1675984	simple:italic
-1675986	simple:italic
-1675988	simple:italic
+1778281	simple:italic
+1778283	simple:italic
+1778285	simple:italic
+1778287	simple:italic
+1778289	simple:italic
+1778291	simple:italic
 simple:italic
-1675991	simple:italic
+1778294	simple:italic
 simple:italic
-1675994	simple:italic
+1778297	simple:italic
 simple:italic
-1675997	simple:italic
-1675999	simple:italic
+1778300	simple:italic
+1778302	simple:italic
 simple:italic
-1676002	simple:italic
-1676004	simple:italic
-1676006	simple:italic
-1676008	simple:italic
-1676010	simple:italic
-1676012	simple:italic
-1676014	simple:italic
+1778305	simple:italic
+1778307	simple:italic
+1778309	simple:italic
+1778311	simple:italic
+1778313	simple:italic
+1778315	simple:italic
+1778317	simple:italic
 simple:italic
-1676017	simple:italic
+1778320	simple:italic
 simple:italic
-1676020	simple:italic
+1778323	simple:italic
 simple:italic
-1676023	simple:italic
+1778326	simple:italic
 simple:italic
-1676026	simple:italic
+1778329	simple:italic
 simple:italic
-1676029	simple:italic
-1676031	simple:italic
-1676033	simple:italic
-1676035	simple:italic
-1676037	simple:italic
-1676039	simple:italic
-1676041	simple:italic
-1676043	simple:italic
-1676045	simple:italic
-1676047	simple:italic
-1676053	simple:italic
-1676055	simple:italic
-1676057	simple:italic
+1778332	simple:italic
+1778334	simple:italic
+1778336	simple:italic
+1778338	simple:italic
+1778340	simple:italic
+1778342	simple:italic
+1778344	simple:italic
+1778346	simple:italic
+1778348	simple:italic
+1778350	simple:italic
+1778356	simple:italic
+1778358	simple:italic
+1778360	simple:italic
 simple:italic
-1676060	simple:italic
-1676062	simple:italic
+1778363	simple:italic
+1778365	simple:italic
 simple:italic
 simple:italic
-1676066	simple:italic
-1676068	simple:italic
+1778369	simple:italic
+1778371	simple:italic
 simple:italic
-1676071	simple:italic
-1676073	simple:italic
+1778374	simple:italic
+1778376	simple:italic
 simple:italic
-1676076	simple:italic
+1778379	simple:italic
 simple:italic
-1676079	simple:italic
-1676081	simple:italic
-1676083	simple:italic
-1676085	simple:italic
-1676087	simple:italic
+1778382	simple:italic
+1778384	simple:italic
+1778386	simple:italic
+1778388	simple:italic
+1778390	simple:italic
 simple:italic
-1676096	simple:italic
+1778399	simple:italic
 simple:italic
-1676099	simple:italic
-1676101	simple:italic
-1676103	simple:italic
+1778402	simple:italic
+1778404	simple:italic
+1778406	simple:italic
 simple:italic
-1676106	simple:italic
-1676108	simple:italic
-1676110	simple:italic
-1676114	simple:italic
-1676116	simple:italic
-1676118	simple:italic
-1676120	simple:italic
+1778409	simple:italic
+1778411	simple:italic
+1778413	simple:italic
+1778417	simple:italic
+1778419	simple:italic
+1778421	simple:italic
+1778423	simple:italic
 simple:italic
-1676123	simple:italic
-1676125	simple:italic
+1778426	simple:italic
+1778428	simple:italic
 simple:italic
-1676128	simple:italic
+1778431	simple:italic
 simple:italic
-1676131	simple:italic
+1778434	simple:italic
 simple:italic
-1676134	simple:italic
-1676136	simple:italic
-1676138	simple:italic
-1676140	simple:italic
+1778437	simple:italic
+1778439	simple:italic
+1778441	simple:italic
+1778443	simple:italic
 simple:italic
-1676143	simple:italic
+1778446	simple:italic
 simple:italic
-1676146	simple:italic
+1778449	simple:italic
 simple:italic
-1676149	simple:italic
+1778452	simple:italic
 simple:italic
-1676152	simple:italic
+1778455	simple:italic
 simple:italic
-1676155	simple:italic
-1676157	simple:italic
-1676159	simple:italic
+1778458	simple:italic
+1778460	simple:italic
+1778462	simple:italic
 simple:italic
-1676163	simple:italic
-1676165	simple:italic
-1676167	simple:italic
-1676172	simple:italic
-1676174	simple:italic
-1676176	simple:italic
+1778466	simple:italic
+1778468	simple:italic
+1778470	simple:italic
+1778475	simple:italic
+1778477	simple:italic
+1778479	simple:italic
 simple:italic
-1676179	simple:italic
-1676181	simple:italic
-1676183	simple:italic
-1676185	simple:italic
+1778482	simple:italic
+1778484	simple:italic
+1778486	simple:italic
+1778488	simple:italic
 simple:italic
-1676188	simple:italic
-1676190	simple:italic
+1778491	simple:italic
+1778493	simple:italic
 simple:italic
-1676193	simple:italic
+1778496	simple:italic
 simple:italic
-1676196	simple:italic
+1778499	simple:italic
 simple:italic
-1676199	simple:italic
-1676201	simple:italic
+1778502	simple:italic
+1778504	simple:italic
 simple:italic
-1676204	simple:italic
-1676210	simple:italic
-1676218	simple:italic
-1676220	simple:italic
-1676222	simple:italic
+1778507	simple:italic
+1778513	simple:italic
+1778521	simple:italic
+1778523	simple:italic
+1778525	simple:italic
 simple:italic
-1676225	simple:italic
-1676227	simple:italic
+1778528	simple:italic
+1778530	simple:italic
 simple:italic
-1676230	simple:italic
-1676232	simple:italic
+1778533	simple:italic
+1778535	simple:italic
 simple:italic
-1676235	simple:italic
-1676237	simple:italic
+1778538	simple:italic
+1778540	simple:italic
 simple:italic
-1676240	simple:italic
+1778543	simple:italic
 simple:italic
-1676243	simple:italic
+1778546	simple:italic
 simple:italic
-1676246	simple:italic
+1778549	simple:italic
 simple:italic
-1676249	simple:italic
-1676251	simple:italic
-1676253	simple:italic
+1778552	simple:italic
+1778554	simple:italic
+1778556	simple:italic
 simple:italic
-1676256	simple:italic
-1676260	simple:italic
+1778559	simple:italic
+1778563	simple:italic
 simple:italic
-1676263	simple:italic
+1778566	simple:italic
 simple:italic
-1676266	simple:italic
-1676268	simple:italic
-1676270	simple:italic
+1778569	simple:italic
+1778571	simple:italic
+1778573	simple:italic
 simple:italic
-1676273	simple:italic
-1676275	simple:italic
-1676277	simple:italic
-1676279	simple:italic
+1778576	simple:italic
+1778578	simple:italic
+1778580	simple:italic
+1778582	simple:italic
 simple:italic
-1676282	simple:italic
-1676284	simple:italic
+1778585	simple:italic
+1778587	simple:italic
 simple:italic
-1676287	simple:italic
-1676289	simple:italic
-1676291	simple:italic
-1676293	simple:italic
+1778590	simple:italic
+1778592	simple:italic
+1778594	simple:italic
+1778596	simple:italic
 simple:italic
-1676296	simple:italic
-1676298	simple:italic
+1778599	simple:italic
+1778601	simple:italic
 simple:italic
-1676301	simple:italic
+1778604	simple:italic
 simple:italic
-1676304	simple:italic
-1676308	simple:italic
-1676310	simple:italic
+1778607	simple:italic
+1778611	simple:italic
+1778613	simple:italic
 simple:italic
-1676313	simple:italic
+1778616	simple:italic
 simple:italic
-1676316	simple:italic
+1778619	simple:italic
 simple:italic
-1676322	simple:italic
-1676324	simple:italic
+1778625	simple:italic
+1778627	simple:italic
 simple:italic
-1676327	simple:italic
+1778630	simple:italic
 simple:italic
-1676330	simple:italic
-1676332	simple:italic
+1778633	simple:italic
+1778635	simple:italic
 simple:italic
-1676335	simple:italic
+1778638	simple:italic
 simple:italic
-1676338	simple:italic
-1676340	simple:italic
+1778641	simple:italic
+1778643	simple:italic
 simple:italic
-1676343	simple:italic
-1676345	simple:italic
+1778646	simple:italic
+1778648	simple:italic
 simple:italic
-1676348	simple:italic
+1778651	simple:italic
 simple:italic
-1676351	simple:italic
-1676353	simple:italic
+1778654	simple:italic
+1778656	simple:italic
 simple:italic
-1676356	simple:italic
-1676359	simple:italic
+1778659	simple:italic
+1778662	simple:italic
 simple:italic
-1676362	simple:italic
-1676366	simple:italic
-1676368	simple:italic
+1778665	simple:italic
+1778669	simple:italic
+1778671	simple:italic
 simple:italic
-1676371	simple:italic
+1778674	simple:italic
 simple:italic
-1676374	simple:italic
-1676376	simple:italic
-1676378	simple:italic
+1778677	simple:italic
+1778679	simple:italic
+1778681	simple:italic
 simple:italic
-1676381	simple:italic
+1778684	simple:italic
 simple:italic
-1676384	simple:italic
-1676386	simple:italic
+1778687	simple:italic
+1778689	simple:italic
 simple:italic
-1676389	simple:italic
-1676391	simple:italic
-1676397	simple:italic
-1676399	simple:italic
-1676401	simple:italic
+1778692	simple:italic
+1778694	simple:italic
+1778700	simple:italic
+1778702	simple:italic
+1778704	simple:italic
 simple:italic
-1676404	simple:italic
-1676408	simple:italic
+1778707	simple:italic
+1778711	simple:italic
 simple:italic
-1676411	simple:italic
-1676413	simple:italic
+1778714	simple:italic
+1778716	simple:italic
 simple:italic
-1676416	simple:italic
-1676418	simple:italic
+1778719	simple:italic
+1778721	simple:italic
 simple:italic
-1676421	simple:italic
-1676423	simple:italic
-1676425	simple:italic
+1778724	simple:italic
+1778726	simple:italic
+1778728	simple:italic
 simple:italic
-1676428	simple:italic
-1676430	simple:italic
+1778731	simple:italic
+1778733	simple:italic
 simple:italic
-1676433	simple:italic
+1778736	simple:italic
 simple:italic
-1676436	simple:italic
-1676440	simple:italic
+1778739	simple:italic
+1778743	simple:italic
 simple:italic
-1676443	simple:italic
+1778746	simple:italic
 simple:italic
-1676446	simple:italic
+1778749	simple:italic
 simple:italic
-1676449	simple:italic
-1676451	simple:italic
+1778752	simple:italic
+1778754	simple:italic
 simple:italic
-1676454	simple:italic
+1778757	simple:italic
 simple:italic
-1676457	simple:italic
+1778760	simple:italic
 simple:italic
-1676460	simple:italic
-1676462	simple:italic
-1676464	simple:italic
+1778763	simple:italic
+1778765	simple:italic
+1778767	simple:italic
 simple:italic
-1676467	simple:italic
-1676469	simple:italic
-1676471	simple:italic
-1676477	simple:italic
+1778770	simple:italic
+1778772	simple:italic
+1778774	simple:italic
+1778780	simple:italic
 simple:italic
-1676480	simple:italic
+1778783	simple:italic
 simple:italic
-1676483	simple:italic
+1778786	simple:italic
 simple:italic
-1676486	simple:italic
+1778789	simple:italic
 simple:italic
-1676489	simple:italic
-1676491	simple:italic
+1778792	simple:italic
+1778794	simple:italic
 simple:italic
-1676494	simple:italic
+1778797	simple:italic
 simple:italic
-1676497	simple:italic
+1778800	simple:italic
 simple:italic
-1676500	simple:italic
+1778803	simple:italic
 simple:italic
-1676503	simple:italic
+1778806	simple:italic
 simple:italic
-1676506	simple:italic
-1676511	simple:italic
+1778809	simple:italic
+1778814	simple:italic
 simple:italic
-1676514	simple:italic
-1676516	simple:italic
+1778817	simple:italic
+1778819	simple:italic
 simple:italic
-1676519	simple:italic
-1676523	simple:italic
-1676525	simple:italic
-1676527	simple:italic
-1676529	simple:italic
+1778822	simple:italic
+1778826	simple:italic
+1778828	simple:italic
+1778830	simple:italic
+1778832	simple:italic
 simple:italic
-1676532	simple:italic
+1778835	simple:italic
 simple:italic
-1676535	simple:italic
+1778838	simple:italic
 simple:italic
-1676538	simple:italic
+1778841	simple:italic
 simple:italic
-1676541	simple:italic
+1778844	simple:italic
 simple:italic
-1676544	simple:italic
-1676546	simple:italic
+1778847	simple:italic
+1778849	simple:italic
 simple:italic
-1676549	simple:italic
+1778852	simple:italic
 simple:italic
-1676552	simple:italic
-1676554	simple:italic
-1676556	simple:italic
+1778855	simple:italic
+1778857	simple:italic
+1778859	simple:italic
 simple:italic
-1676594	simple:italic
+1778897	simple:italic
 simple:italic
-1676597	simple:italic
+1778900	simple:italic
 simple:italic
-1676600	simple:italic
+1778903	simple:italic
 simple:italic
-1676603	simple:italic
-1676605	simple:italic
+1778906	simple:italic
+1778908	simple:italic
 simple:italic
-1676608	simple:italic
-1676610	simple:italic
-1676612	simple:italic
-1676614	simple:italic
-1676616	simple:italic
-1676618	simple:italic
-1676620	simple:italic
+1778911	simple:italic
+1778913	simple:italic
+1778915	simple:italic
+1778917	simple:italic
+1778919	simple:italic
+1778921	simple:italic
+1778923	simple:italic
 simple:italic
-1676623	simple:italic
-1676625	simple:italic
-1676627	simple:italic
-1676629	simple:italic
-1676631	simple:italic
-1676633	simple:italic
-1676635	simple:italic
-1676637	simple:italic
-1676639	simple:italic
-1676641	simple:italic
-1676643	simple:italic
-1676645	simple:italic
+1778926	simple:italic
+1778928	simple:italic
+1778930	simple:italic
+1778932	simple:italic
+1778934	simple:italic
+1778936	simple:italic
+1778938	simple:italic
+1778940	simple:italic
+1778942	simple:italic
+1778944	simple:italic
+1778946	simple:italic
+1778948	simple:italic
 simple:italic
-1676648	simple:italic
-1676650	simple:italic
-1676652	simple:italic
-1676654	simple:italic
-1676656	simple:italic
-1676658	simple:italic
-1676660	simple:italic
-1676662	simple:italic
-1676664	simple:italic
-1676666	simple:italic
-1676668	simple:italic
-1676670	simple:italic
-1676672	simple:italic
+1778951	simple:italic
+1778953	simple:italic
+1778955	simple:italic
+1778957	simple:italic
+1778959	simple:italic
+1778961	simple:italic
+1778963	simple:italic
+1778965	simple:italic
+1778967	simple:italic
+1778969	simple:italic
+1778971	simple:italic
+1778973	simple:italic
+1778975	simple:italic
 simple:italic
 simple:italic
-1676676	simple:italic
-1676678	simple:italic
-1676680	simple:italic
-1676682	simple:italic
-1676684	simple:italic
-1676686	simple:italic
+1778979	simple:italic
+1778981	simple:italic
+1778983	simple:italic
+1778985	simple:italic
+1778987	simple:italic
+1778989	simple:italic
 simple:italic
-1676689	simple:italic
+1778992	simple:italic
 simple:italic
-1676692	simple:italic
-1676694	simple:italic
-1676696	simple:italic
-1676698	simple:italic
-1676700	simple:italic
-1676702	simple:italic
-1676704	simple:italic
-1676706	simple:italic
-1676708	simple:italic
-1676710	simple:italic
-1676712	simple:italic
-1676714	simple:italic
-1676716	simple:italic
-1676718	simple:italic
-1676720	simple:italic
-1676722	simple:italic
-1676724	simple:italic
-1676726	simple:italic
+1778995	simple:italic
+1778997	simple:italic
+1778999	simple:italic
+1779001	simple:italic
+1779003	simple:italic
+1779005	simple:italic
+1779007	simple:italic
+1779009	simple:italic
+1779011	simple:italic
+1779013	simple:italic
+1779015	simple:italic
+1779017	simple:italic
+1779019	simple:italic
+1779021	simple:italic
+1779023	simple:italic
+1779025	simple:italic
+1779027	simple:italic
+1779029	simple:italic
 simple:italic
-1676729	simple:italic
+1779032	simple:italic
 simple:italic
-1676732	simple:italic
-1676734	simple:italic
-1676736	simple:italic
+1779035	simple:italic
+1779037	simple:italic
+1779039	simple:italic
 simple:italic
-1676739	simple:italic
-1676741	simple:italic
+1779042	simple:italic
+1779044	simple:italic
 simple:italic
-1676744	simple:italic
-1676746	simple:italic
-1676748	simple:italic
-1676750	simple:italic
-1676752	simple:italic
+1779047	simple:italic
+1779049	simple:italic
+1779051	simple:italic
+1779053	simple:italic
+1779055	simple:italic
 simple:italic
-1676755	simple:italic
+1779058	simple:italic
 simple:italic
-1676758	simple:italic
+1779061	simple:italic
 simple:italic
-1676761	simple:italic
-1676763	simple:italic
-1676765	simple:italic
+1779064	simple:italic
+1779066	simple:italic
+1779068	simple:italic
 simple:italic
-1676768	simple:italic
+1779071	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1676773	simple:italic
-1676775	simple:italic
-1676777	simple:italic
-1676779	simple:italic
-1676781	simple:italic
-1676783	simple:italic
-1676785	simple:italic
-1676787	simple:italic
-1676789	simple:italic
-1676791	simple:italic
-1676793	simple:italic
+1779076	simple:italic
+1779078	simple:italic
+1779080	simple:italic
+1779082	simple:italic
+1779084	simple:italic
+1779086	simple:italic
+1779088	simple:italic
+1779090	simple:italic
+1779092	simple:italic
+1779094	simple:italic
+1779096	simple:italic
 simple:italic
-1676796	simple:italic
-1676798	simple:italic
-1676800	simple:italic
-1676802	simple:italic
-1676804	simple:italic
-1676806	simple:italic
-1676808	simple:italic
-1676810	simple:italic
-1676812	simple:italic
-1676814	simple:italic
-1676816	simple:italic
-1676818	simple:italic
-1676820	simple:italic
-1676822	simple:italic
+1779099	simple:italic
+1779101	simple:italic
+1779103	simple:italic
+1779105	simple:italic
+1779107	simple:italic
+1779109	simple:italic
+1779111	simple:italic
+1779113	simple:italic
+1779115	simple:italic
+1779117	simple:italic
+1779119	simple:italic
+1779121	simple:italic
+1779123	simple:italic
+1779125	simple:italic
 simple:italic
-1676825	simple:italic
+1779128	simple:italic
 simple:italic
-1676828	simple:italic
-1676830	simple:italic
+1779131	simple:italic
+1779133	simple:italic
 simple:italic
-1676833	simple:italic
-1676835	simple:italic
-1676837	simple:italic
+1779136	simple:italic
+1779138	simple:italic
+1779140	simple:italic
 simple:italic
-1676840	simple:italic
+1779143	simple:italic
 simple:italic
-1676843	simple:italic
+1779146	simple:italic
 simple:italic
-1676846	simple:italic
+1779149	simple:italic
 simple:italic
-1676849	simple:italic
-1676851	simple:italic
+1779152	simple:italic
+1779154	simple:italic
 simple:italic
-1676854	simple:italic
-1676856	simple:italic
-1676858	simple:italic
-1676860	simple:italic
-1676862	simple:italic
-1676864	simple:italic
-1676866	simple:italic
-1676868	simple:italic
-1676870	simple:italic
+1779157	simple:italic
+1779159	simple:italic
+1779161	simple:italic
+1779163	simple:italic
+1779165	simple:italic
+1779167	simple:italic
+1779169	simple:italic
+1779171	simple:italic
+1779173	simple:italic
 simple:italic
-1676873	simple:italic
-1676875	simple:italic
+1779176	simple:italic
+1779178	simple:italic
 simple:italic
-1676878	simple:italic
+1779181	simple:italic
 simple:italic
 simple:italic
-1676882	simple:italic
-1676884	simple:italic
+1779185	simple:italic
+1779187	simple:italic
 simple:italic
-1676887	simple:italic
-1676889	simple:italic
-1676891	simple:italic
-1676893	simple:italic
-1676895	simple:italic
+1779190	simple:italic
+1779192	simple:italic
+1779194	simple:italic
+1779196	simple:italic
+1779198	simple:italic
 simple:italic
-1676898	simple:italic
-1676900	simple:italic
+1779201	simple:italic
+1779203	simple:italic
 simple:smallcaps
 simple:italic
-1676904	simple:italic
-1676906	simple:italic
-1676908	simple:italic
-1676910	simple:italic
+1779207	simple:italic
+1779209	simple:italic
+1779211	simple:italic
+1779213	simple:italic
 simple:italic
-1676913	simple:italic
+1779216	simple:italic
 simple:italic
-1676916	simple:italic
+1779219	simple:italic
 simple:italic
-1676919	simple:italic
-1676921	simple:italic
+1779222	simple:italic
+1779224	simple:italic
 simple:italic
-1676924	simple:italic
+1779227	simple:italic
 simple:italic
-1676927	simple:italic
+1779230	simple:italic
 simple:italic
-1676930	simple:italic
+1779233	simple:italic
 simple:italic
-1676933	simple:italic
+1779236	simple:italic
 simple:italic
-1676936	simple:italic
-1676938	simple:italic
-1676940	simple:italic
+1779239	simple:italic
+1779241	simple:italic
+1779243	simple:italic
 simple:italic
-1676943	simple:italic
-1676945	simple:italic
+1779246	simple:italic
+1779248	simple:italic
 simple:italic
-1676948	simple:italic
+1779251	simple:italic
 simple:italic
-1676951	simple:italic
-1676953	simple:italic
-1676955	simple:italic
+1779254	simple:italic
+1779256	simple:italic
+1779258	simple:italic
 simple:italic
-1676958	simple:italic
-1676960	simple:italic
+1779261	simple:italic
+1779263	simple:italic
 simple:italic
-1676963	simple:italic
+1779266	simple:italic
 simple:italic
-1676966	simple:italic
+1779269	simple:italic
 simple:italic
-1676969	simple:italic
+1779272	simple:italic
 simple:italic
-1676972	simple:italic
+1779275	simple:italic
 simple:italic
 simple:italic
-1676976	simple:italic
-1676978	simple:italic
+1779279	simple:italic
+1779281	simple:italic
 simple:italic
-1676981	simple:italic
+1779284	simple:italic
 simple:italic
-1676984	simple:italic
+1779287	simple:italic
 simple:italic
-1676987	simple:italic
-1676989	simple:italic
+1779290	simple:italic
+1779292	simple:italic
 simple:italic
-1676992	simple:italic
+1779295	simple:italic
 simple:italic
-1676995	simple:italic
+1779298	simple:italic
 simple:italic
-1676998	simple:italic
-1677000	simple:italic
+1779301	simple:italic
+1779303	simple:italic
 simple:italic
-1677003	simple:italic
+1779306	simple:italic
 simple:italic
-1677006	simple:italic
+1779309	simple:italic
 simple:italic
-1677009	simple:italic
-1677011	simple:italic
+1779312	simple:italic
+1779314	simple:italic
 simple:italic
-1677014	simple:italic
+1779317	simple:italic
 simple:italic
-1677017	simple:italic
+1779320	simple:italic
 simple:italic
-1677020	simple:italic
-1677022	simple:italic
+1779323	simple:italic
+1779325	simple:italic
 simple:italic
-1677025	simple:italic
+1779328	simple:italic
 simple:italic
-1677028	simple:italic
+1779331	simple:italic
 simple:italic
-1677033	simple:italic
-1677035	simple:italic
+1779336	simple:italic
+1779338	simple:italic
 simple:italic
-1677038	simple:italic
+1779341	simple:italic
 simple:italic
-1677041	simple:italic
-1677043	simple:italic
+1779344	simple:italic
+1779346	simple:italic
 simple:italic
-1677046	simple:italic
-1677048	simple:italic
-1677050	simple:italic
-1677066	simple:italic
+1779349	simple:italic
+1779351	simple:italic
+1779353	simple:italic
+1779369	simple:italic
 simple:italic
-1677069	simple:italic
-1677071	simple:italic
-1677073	simple:italic
+1779372	simple:italic
+1779374	simple:italic
+1779376	simple:italic
 simple:italic
-1677076	simple:italic
-1677078	simple:italic
+1779379	simple:italic
+1779381	simple:italic
 simple:italic
-1677081	simple:italic
-1677083	simple:italic
+1779384	simple:italic
+1779386	simple:italic
 simple:italic
-1677086	simple:italic
-1677088	simple:italic
+1779389	simple:italic
+1779391	simple:italic
 simple:italic
-1677091	simple:italic
-1677093	simple:italic
+1779394	simple:italic
+1779396	simple:italic
 simple:italic
-1677096	simple:italic
+1779399	simple:italic
 simple:italic
-1677099	simple:italic
+1779402	simple:italic
 simple:italic
-1677102	simple:italic
+1779405	simple:italic
 simple:italic
-1677105	simple:italic
-1677107	simple:italic
+1779408	simple:italic
+1779410	simple:italic
 simple:italic
-1677110	simple:italic
-1677112	simple:italic
-1677114	simple:italic
+1779413	simple:italic
+1779415	simple:italic
+1779417	simple:italic
 simple:italic
-1677117	simple:italic
-1677119	simple:italic
-1677121	simple:italic
-1677123	simple:italic
+1779420	simple:italic
+1779422	simple:italic
+1779424	simple:italic
+1779426	simple:italic
 simple:italic
-1677126	simple:italic
+1779429	simple:italic
 simple:italic
-1677129	simple:italic
-1677131	simple:italic
+1779432	simple:italic
+1779434	simple:italic
 simple:italic
-1677134	simple:italic
-1677136	simple:italic
-1677138	simple:italic
-1677140	simple:italic
-1677142	simple:italic
+1779437	simple:italic
+1779439	simple:italic
+1779441	simple:italic
+1779443	simple:italic
+1779445	simple:italic
 simple:italic
-1677145	simple:italic
-1677147	simple:italic
-1677149	simple:italic
-1677151	simple:italic
+1779448	simple:italic
+1779450	simple:italic
+1779452	simple:italic
+1779454	simple:italic
 simple:italic
-1677154	simple:italic
-1677156	simple:italic
+1779457	simple:italic
+1779459	simple:italic
 simple:italic
-1677159	simple:italic
+1779462	simple:italic
 simple:italic
-1677162	simple:italic
-1677164	simple:italic
-1677166	simple:italic
+1779465	simple:italic
+1779467	simple:italic
+1779469	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1677171	simple:italic
-1677173	simple:italic
-1677175	simple:italic
-1677177	simple:italic
-1677179	simple:italic
-1677181	simple:italic
-1677183	simple:italic
+1779474	simple:italic
+1779476	simple:italic
+1779478	simple:italic
+1779480	simple:italic
+1779482	simple:italic
+1779484	simple:italic
+1779486	simple:italic
 simple:italic
-1677186	simple:italic
-1677188	simple:italic
-1677190	simple:italic
-1677192	simple:italic
+1779489	simple:italic
+1779491	simple:italic
+1779493	simple:italic
+1779495	simple:italic
 simple:italic
-1677195	simple:italic
+1779498	simple:italic
 simple:italic
-1677198	simple:italic
-1677200	simple:italic
-1677202	simple:italic
-1677204	simple:italic
+1779501	simple:italic
+1779503	simple:italic
+1779505	simple:italic
+1779507	simple:italic
 simple:italic
-1677207	simple:italic
-1677209	simple:italic
-1677211	simple:italic
+1779510	simple:italic
+1779512	simple:italic
+1779514	simple:italic
 simple:italic
-1677214	simple:italic
-1677216	simple:italic
-1677218	simple:italic
-1677220	simple:italic
+1779517	simple:italic
+1779519	simple:italic
+1779521	simple:italic
+1779523	simple:italic
 simple:italic
-1677223	simple:italic
-1677225	simple:italic
-1677227	simple:italic
-1677229	simple:italic
+1779526	simple:italic
+1779528	simple:italic
+1779530	simple:italic
+1779532	simple:italic
 simple:italic
-1677232	simple:italic
-1677234	simple:italic
-1677236	simple:italic
+1779535	simple:italic
+1779537	simple:italic
+1779539	simple:italic
 simple:italic
-1677239	simple:italic
-1677241	simple:italic
+1779542	simple:italic
+1779544	simple:italic
 simple:italic
-1677244	simple:italic
-1677246	simple:italic
-1677251	simple:italic
+1779547	simple:italic
+1779549	simple:italic
+1779554	simple:italic
 simple:italic
 simple:italic
-1677255	simple:italic
+1779558	simple:italic
 simple:italic
-1677258	simple:italic
+1779561	simple:italic
 simple:italic
-1677261	simple:italic
+1779564	simple:italic
 simple:italic
-1677264	simple:italic
-1677266	simple:italic
+1779567	simple:italic
+1779569	simple:italic
 simple:italic
-1677269	simple:italic
-1677271	simple:italic
-1677273	simple:italic
-1677275	simple:italic
+1779572	simple:italic
+1779574	simple:italic
+1779576	simple:italic
+1779578	simple:italic
 simple:italic
-1677278	simple:italic
-1677280	simple:italic
+1779581	simple:italic
+1779583	simple:italic
 simple:italic
-1677283	simple:italic
+1779586	simple:italic
 simple:italic
-1677286	simple:italic
-1677288	simple:italic
-1677290	simple:italic
-1677292	simple:italic
+1779589	simple:italic
+1779591	simple:italic
+1779593	simple:italic
+1779595	simple:italic
 simple:italic
-1677295	simple:italic
+1779598	simple:italic
 simple:italic
-1677298	simple:italic
+1779601	simple:italic
 simple:italic
-1677301	simple:italic
-1677303	simple:italic
-1677305	simple:italic
+1779604	simple:italic
+1779606	simple:italic
+1779608	simple:italic
 simple:italic
-1677308	simple:italic
+1779611	simple:italic
 simple:italic
-1677311	simple:italic
+1779614	simple:italic
 simple:italic
-1677322	simple:italic
-1677324	simple:italic
+1779625	simple:italic
+1779627	simple:italic
 simple:italic
-1677327	simple:italic
+1779630	simple:italic
 simple:italic
-1677330	simple:italic
+1779633	simple:italic
 simple:italic
-1677333	simple:italic
+1779636	simple:italic
 simple:italic
-1677336	simple:italic
-1677338	simple:italic
-1677340	simple:italic
-1677342	simple:italic
-1677344	simple:italic
+1779639	simple:italic
+1779641	simple:italic
+1779643	simple:italic
+1779645	simple:italic
+1779647	simple:italic
 simple:italic
-1677347	simple:italic
+1779650	simple:italic
 simple:italic
-1677350	simple:italic
-1677352	simple:italic
+1779653	simple:italic
+1779655	simple:italic
 simple:italic
-1677355	simple:italic
-1677357	simple:italic
+1779658	simple:italic
+1779660	simple:italic
 simple:italic
-1677360	simple:italic
+1779663	simple:italic
 simple:italic
-1677385	simple:italic
+1779688	simple:italic
 simple:italic
-1677388	simple:italic
+1779691	simple:italic
 simple:italic
-1677391	simple:italic
+1779694	simple:italic
 simple:italic
-1677394	simple:italic
-1677396	simple:italic
-1677398	simple:italic
-1677400	simple:italic
+1779697	simple:italic
+1779699	simple:italic
+1779701	simple:italic
+1779703	simple:italic
 simple:italic
-1677403	simple:italic
+1779706	simple:italic
 simple:italic
-1677406	simple:italic
+1779709	simple:italic
 simple:italic
-1677409	simple:italic
-1677411	simple:italic
-1677413	simple:italic
-1677415	simple:italic
+1779712	simple:italic
+1779714	simple:italic
+1779716	simple:italic
+1779718	simple:italic
 simple:italic
-1677418	simple:italic
+1779721	simple:italic
 simple:italic
-1677421	simple:italic
+1779724	simple:italic
 simple:italic
-1677424	simple:italic
+1779727	simple:italic
 simple:italic
-1677427	simple:italic
-1677429	simple:italic
-1677431	simple:italic
-1677433	simple:italic
-1677435	simple:italic
-1677437	simple:italic
+1779730	simple:italic
+1779732	simple:italic
+1779734	simple:italic
+1779736	simple:italic
+1779738	simple:italic
+1779740	simple:italic
 simple:italic
-1677440	simple:italic
-1677442	simple:italic
+1779743	simple:italic
+1779745	simple:italic
 simple:italic
-1677445	simple:italic
-1677447	simple:italic
-1677449	simple:italic
+1779748	simple:italic
+1779750	simple:italic
+1779752	simple:italic
 simple:italic
-1677452	simple:italic
-1677454	simple:italic
-1677456	simple:italic
-1677458	simple:italic
-1677460	simple:italic
+1779755	simple:italic
+1779757	simple:italic
+1779759	simple:italic
+1779761	simple:italic
+1779763	simple:italic
 simple:italic
-1677463	simple:italic
-1677465	simple:italic
-1677467	simple:italic
+1779766	simple:italic
+1779768	simple:italic
+1779770	simple:italic
 simple:italic
-1677470	simple:italic
-1677472	simple:italic
-1677474	simple:italic
-1677493	simple:italic
-1677495	simple:italic
-1677497	simple:italic
+1779773	simple:italic
+1779775	simple:italic
+1779777	simple:italic
+1779796	simple:italic
+1779798	simple:italic
+1779800	simple:italic
 simple:italic
-1677500	simple:italic
+1779803	simple:italic
 simple:italic
 simple:italic
-1677504	simple:italic
-1677506	simple:italic
+1779807	simple:italic
+1779809	simple:italic
 simple:italic
-1677509	simple:italic
+1779812	simple:italic
 simple:italic
-1677512	simple:italic
+1779815	simple:italic
 simple:italic
-1677515	simple:italic
+1779818	simple:italic
 simple:italic
-1677518	simple:italic
+1779821	simple:italic
 simple:italic
-1677521	simple:italic
-1677523	simple:italic
+1779824	simple:italic
+1779826	simple:italic
 simple:italic
-1677526	simple:italic
-1677528	simple:italic
-1677530	simple:italic
+1779829	simple:italic
+1779831	simple:italic
+1779833	simple:italic
 simple:italic
-1677533	simple:italic
-1677535	simple:italic
-1677537	simple:italic
+1779836	simple:italic
+1779838	simple:italic
+1779840	simple:italic
 simple:italic
-1677540	simple:italic
+1779843	simple:italic
 simple:italic
-1677543	simple:italic
-1677545	simple:italic
+1779846	simple:italic
+1779848	simple:italic
 simple:italic
-1677548	simple:italic
-1677550	simple:italic
+1779851	simple:italic
+1779853	simple:italic
 simple:italic
-1677553	simple:italic
-1677555	simple:italic
+1779856	simple:italic
+1779858	simple:italic
 simple:italic
-1677558	simple:italic
-1677560	simple:italic
+1779861	simple:italic
+1779863	simple:italic
 simple:italic
-1677563	simple:italic
+1779866	simple:italic
 simple:italic
-1677566	simple:italic
+1779869	simple:italic
 simple:italic
-1677569	simple:italic
-1677571	simple:italic
+1779872	simple:italic
+1779874	simple:italic
 simple:italic
-1677574	simple:italic
-1677576	simple:italic
+1779877	simple:italic
+1779879	simple:italic
 simple:italic
-1677579	simple:italic
+1779882	simple:italic
 simple:italic
-1677582	simple:italic
-1677584	simple:italic
-1677586	simple:italic
-1677588	simple:italic
-1677590	simple:italic
+1779885	simple:italic
+1779887	simple:italic
+1779889	simple:italic
+1779891	simple:italic
+1779893	simple:italic
 simple:italic
-1677593	simple:italic
-1677595	simple:italic
-1677597	simple:italic
-1677599	simple:italic
+1779896	simple:italic
+1779898	simple:italic
+1779900	simple:italic
+1779902	simple:italic
 simple:italic
 simple:italic
-1677603	simple:italic
+1779906	simple:italic
 simple:italic
-1677606	simple:italic
+1779909	simple:italic
 simple:italic
-1677609	simple:italic
-1677611	simple:italic
+1779912	simple:italic
+1779914	simple:italic
 simple:italic
-1677614	simple:italic
+1779917	simple:italic
 simple:italic
-1677617	simple:italic
-1677619	simple:italic
-1677621	simple:italic
-1677623	simple:italic
-1677625	simple:italic
-1677627	simple:italic
+1779920	simple:italic
+1779922	simple:italic
+1779924	simple:italic
+1779926	simple:italic
+1779928	simple:italic
+1779930	simple:italic
 simple:italic
-1677630	simple:italic
-1677632	simple:italic
-1677634	simple:italic
-1677636	simple:italic
-1677638	simple:italic
+1779933	simple:italic
+1779935	simple:italic
+1779937	simple:italic
+1779939	simple:italic
+1779941	simple:italic
 simple:italic
-1677641	simple:italic
-1677643	simple:italic
-1677645	simple:italic
+1779944	simple:italic
+1779946	simple:italic
+1779948	simple:italic
 simple:italic
-1677648	simple:italic
-1677650	simple:italic
-1677652	simple:italic
-1677654	simple:italic
-1677656	simple:italic
-1677658	simple:italic
-1677660	simple:italic
+1779951	simple:italic
+1779953	simple:italic
+1779955	simple:italic
+1779957	simple:italic
+1779959	simple:italic
+1779961	simple:italic
+1779963	simple:italic
 simple:italic
-1677663	simple:italic
+1779966	simple:italic
 simple:italic
-1677666	simple:italic
+1779969	simple:italic
 simple:italic
-1677669	simple:italic
+1779972	simple:italic
 simple:italic
-1677672	simple:italic
+1779975	simple:italic
 simple:italic
-1677675	simple:italic
-1677677	simple:italic
-1677679	simple:italic
+1779978	simple:italic
+1779980	simple:italic
+1779982	simple:italic
 simple:italic
-1677682	simple:italic
+1779985	simple:italic
 simple:italic
-1677685	simple:italic
+1779988	simple:italic
 simple:italic
-1677688	simple:italic
-1677690	simple:italic
-1677692	simple:italic
+1779991	simple:italic
+1779993	simple:italic
+1779995	simple:italic
 simple:italic
-1677695	simple:italic
-1677697	simple:italic
-1677699	simple:italic
+1779998	simple:italic
+1780000	simple:italic
+1780002	simple:italic
 simple:italic
-1677702	simple:italic
+1780005	simple:italic
 simple:italic
-1677705	simple:italic
-1677707	simple:italic
-1677709	simple:italic
+1780008	simple:italic
+1780010	simple:italic
+1780012	simple:italic
 simple:italic
-1677712	simple:italic
+1780015	simple:italic
 simple:italic
-1677715	simple:italic
-1677717	simple:italic
+1780018	simple:italic
+1780020	simple:italic
 simple:italic
-1677720	simple:italic
-1677722	simple:italic
+1780023	simple:italic
+1780025	simple:italic
 simple:italic
-1677725	simple:italic
+1780028	simple:italic
 simple:italic
-1677728	simple:italic
-1677730	simple:italic
-1677732	simple:italic
-1677734	simple:italic
-1677736	simple:italic
-1677738	simple:italic
-1677740	simple:italic
-1677742	simple:italic
-1677744	simple:italic
+1780031	simple:italic
+1780033	simple:italic
+1780035	simple:italic
+1780037	simple:italic
+1780039	simple:italic
+1780041	simple:italic
+1780043	simple:italic
+1780045	simple:italic
+1780047	simple:italic
 simple:italic
-1677747	simple:italic
-1677749	simple:italic
+1780050	simple:italic
+1780052	simple:italic
 simple:italic
-1677752	simple:italic
-1677754	simple:italic
+1780055	simple:italic
+1780057	simple:italic
 simple:italic
-1677757	simple:italic
+1780060	simple:italic
 simple:italic
-1677760	simple:italic
+1780063	simple:italic
 simple:italic
-1677763	simple:italic
-1677765	simple:italic
-1677767	simple:italic
+1780066	simple:italic
+1780068	simple:italic
+1780070	simple:italic
 simple:italic
-1677770	simple:italic
-1677772	simple:italic
+1780073	simple:italic
+1780075	simple:italic
 simple:italic
-1677775	simple:italic
+1780078	simple:italic
 simple:italic
-1677778	simple:italic
+1780081	simple:italic
 simple:italic
-1677781	simple:italic
-1677783	simple:italic
-1677785	simple:italic
-1677787	simple:italic
-1677789	simple:italic
+1780084	simple:italic
+1780086	simple:italic
+1780088	simple:italic
+1780090	simple:italic
+1780092	simple:italic
 simple:italic
-1677792	simple:italic
-1677794	simple:italic
-1677796	simple:italic
-1677798	simple:italic
-1677800	simple:italic
-1677802	simple:italic
+1780095	simple:italic
+1780097	simple:italic
+1780099	simple:italic
+1780101	simple:italic
+1780103	simple:italic
+1780105	simple:italic
 simple:italic
-1677805	simple:italic
+1780108	simple:italic
 simple:italic
-1677808	simple:italic
+1780111	simple:italic
 simple:italic
-1677811	simple:italic
+1780114	simple:italic
 simple:italic
-1677814	simple:italic
+1780117	simple:italic
 simple:italic
-1677817	simple:italic
-1677819	simple:italic
-1677821	simple:italic
-1677823	simple:italic
+1780120	simple:italic
+1780122	simple:italic
+1780124	simple:italic
+1780126	simple:italic
 simple:italic
-1677826	simple:italic
-1677828	simple:italic
+1780129	simple:italic
+1780131	simple:italic
 simple:italic
-1677831	simple:italic
-1677833	simple:italic
-1677835	simple:italic
+1780134	simple:italic
+1780136	simple:italic
+1780138	simple:italic
 simple:italic
-1677838	simple:italic
+1780141	simple:italic
 simple:italic
-1677841	simple:italic
+1780144	simple:italic
 simple:italic
-1677844	simple:italic
-1677846	simple:italic
+1780147	simple:italic
+1780149	simple:italic
 simple:italic
-1677849	simple:italic
-1677851	simple:italic
+1780152	simple:italic
+1780154	simple:italic
 simple:italic
-1677854	simple:italic
-1677856	simple:italic
+1780157	simple:italic
+1780159	simple:italic
 simple:italic
-1677859	simple:italic
-1677861	simple:italic
-1677863	simple:italic
-1677865	simple:italic
+1780162	simple:italic
+1780164	simple:italic
+1780166	simple:italic
+1780168	simple:italic
 simple:italic
-1677868	simple:italic
-1677870	simple:italic
+1780171	simple:italic
+1780173	simple:italic
 simple:italic
-1677873	simple:italic
-1677875	simple:italic
+1780176	simple:italic
+1780178	simple:italic
 simple:italic
-1677878	simple:italic
+1780181	simple:italic
 simple:italic
-1677881	simple:italic
+1780184	simple:italic
 simple:italic
-1677884	simple:italic
-1677886	simple:italic
-1677888	simple:italic
-1677890	simple:italic
-1677892	simple:italic
-1677894	simple:italic
-1677896	simple:italic
-1677898	simple:italic
-1677900	simple:italic
-1677902	simple:italic
-1677904	simple:italic
-1677906	simple:italic
+1780187	simple:italic
+1780189	simple:italic
+1780191	simple:italic
+1780193	simple:italic
+1780195	simple:italic
+1780197	simple:italic
+1780199	simple:italic
+1780201	simple:italic
+1780203	simple:italic
+1780205	simple:italic
+1780207	simple:italic
+1780209	simple:italic
 simple:italic
-1677909	simple:italic
-1677923	simple:italic
-1677925	simple:italic
-1677927	simple:italic
-1677929	simple:italic
-1677931	simple:italic
+1780212	simple:italic
+1780226	simple:italic
+1780228	simple:italic
+1780230	simple:italic
+1780232	simple:italic
+1780234	simple:italic
 simple:italic
-1677934	simple:italic
+1780237	simple:italic
 simple:italic
-1677937	simple:italic
+1780240	simple:italic
 simple:italic
-1677940	simple:italic
-1677942	simple:italic
+1780243	simple:italic
+1780245	simple:italic
 simple:italic
-1677945	simple:italic
-1677947	simple:italic
+1780248	simple:italic
+1780250	simple:italic
 simple:italic
-1677950	simple:italic
-1677952	simple:italic
+1780253	simple:italic
+1780255	simple:italic
 simple:italic
-1677983	simple:italic
-1677985	simple:italic
-1677987	simple:italic
+1780286	simple:italic
+1780288	simple:italic
+1780290	simple:italic
 simple:italic
-1677990	simple:italic
+1780293	simple:italic
 simple:italic
-1677993	simple:italic
-1677995	simple:italic
+1780296	simple:italic
+1780298	simple:italic
 simple:italic
-1677998	simple:italic
-1678000	simple:italic
+1780301	simple:italic
+1780303	simple:italic
 simple:italic
-1678003	simple:italic
-1678005	simple:italic
-1678007	simple:italic
-1678009	simple:italic
-1678011	simple:italic
-1678013	simple:italic
-1678015	simple:italic
-1678017	simple:italic
-1678019	simple:italic
-1678021	simple:italic
-1678023	simple:italic
+1780306	simple:italic
+1780308	simple:italic
+1780310	simple:italic
+1780312	simple:italic
+1780314	simple:italic
+1780316	simple:italic
+1780318	simple:italic
+1780320	simple:italic
+1780322	simple:italic
+1780324	simple:italic
+1780326	simple:italic
 simple:italic
-1678026	simple:italic
+1780329	simple:italic
 simple:italic
-1678029	simple:italic
-1678031	simple:italic
-1678033	simple:italic
+1780332	simple:italic
+1780334	simple:italic
+1780336	simple:italic
 simple:italic
-1678036	simple:italic
-1678038	simple:italic
-1678040	simple:italic
-1678042	simple:italic
+1780339	simple:italic
+1780341	simple:italic
+1780343	simple:italic
+1780345	simple:italic
 simple:italic
-1678045	simple:italic
-1678047	simple:italic
-1678049	simple:italic
-1678051	simple:italic
-1678053	simple:italic
+1780348	simple:italic
+1780350	simple:italic
+1780352	simple:italic
+1780354	simple:italic
+1780356	simple:italic
 simple:italic
-1678056	simple:italic
-1678058	simple:italic
-1678060	simple:italic
+1780359	simple:italic
+1780361	simple:italic
+1780363	simple:italic
 simple:italic
-1678063	simple:italic
-1678065	simple:italic
-1678067	simple:italic
-1678069	simple:italic
-1678071	simple:italic
-1678073	simple:italic
-1678075	simple:italic
-1678077	simple:italic
+1780366	simple:italic
+1780368	simple:italic
+1780370	simple:italic
+1780372	simple:italic
+1780374	simple:italic
+1780376	simple:italic
+1780378	simple:italic
+1780380	simple:italic
 simple:italic
-1678080	simple:italic
-1678082	simple:italic
-1678084	simple:italic
-1678086	simple:italic
+1780383	simple:italic
+1780385	simple:italic
+1780387	simple:italic
+1780389	simple:italic
 simple:italic
-1678089	simple:italic
+1780392	simple:italic
 simple:italic
-1678092	simple:italic
+1780395	simple:italic
 simple:italic
-1678095	simple:italic
+1780398	simple:italic
 simple:italic
-1678098	simple:italic
-1678100	simple:italic
+1780401	simple:italic
+1780403	simple:italic
 simple:italic
-1678103	simple:italic
+1780406	simple:italic
 simple:italic
-1678106	simple:italic
+1780409	simple:italic
 simple:italic
-1678109	simple:italic
+1780412	simple:italic
 simple:italic
-1678112	simple:italic
-1678114	simple:italic
+1780415	simple:italic
+1780417	simple:italic
 simple:italic
-1678117	simple:italic
+1780420	simple:italic
 simple:italic
-1678120	simple:italic
-1678122	simple:italic
+1780423	simple:italic
+1780425	simple:italic
 simple:italic
-1678125	simple:italic
+1780428	simple:italic
 simple:italic
-1678128	simple:italic
+1780431	simple:italic
 simple:italic
-1678131	simple:italic
+1780434	simple:italic
 simple:italic
-1678134	simple:italic
+1780437	simple:italic
 simple:italic
 simple:italic
-1678138	simple:italic
-1678140	simple:italic
-1678142	simple:italic
-1678144	simple:italic
-1678146	simple:italic
-1678148	simple:italic
-1678150	simple:italic
-1678152	simple:italic
-1678160	simple:italic
-1678162	simple:italic
+1780441	simple:italic
+1780443	simple:italic
+1780445	simple:italic
+1780447	simple:italic
+1780449	simple:italic
+1780451	simple:italic
+1780453	simple:italic
+1780455	simple:italic
+1780463	simple:italic
+1780465	simple:italic
 simple:italic
-1678165	simple:italic
+1780468	simple:italic
 simple:italic
-1678168	simple:italic
+1780471	simple:italic
 simple:italic
-1678171	simple:italic
-1678173	simple:italic
+1780474	simple:italic
+1780476	simple:italic
 simple:italic
-1678176	simple:italic
+1780479	simple:italic
 simple:italic
-1678179	simple:italic
+1780482	simple:italic
 simple:italic
-1678182	simple:italic
-1678184	simple:italic
-1678186	simple:italic
+1780485	simple:italic
+1780487	simple:italic
+1780489	simple:italic
 simple:italic
-1678189	simple:italic
-1678191	simple:italic
+1780492	simple:italic
+1780494	simple:italic
 simple:italic
-1678194	simple:italic
-1678196	simple:italic
-1678198	simple:italic
-1678200	simple:italic
+1780497	simple:italic
+1780499	simple:italic
+1780501	simple:italic
+1780503	simple:italic
 simple:italic
-1678203	simple:italic
-1678210	simple:italic
+1780506	simple:italic
+1780513	simple:italic
 simple:italic
-1678213	simple:italic
+1780516	simple:italic
 simple:italic
-1678216	simple:italic
+1780519	simple:italic
 simple:italic
-1678219	simple:italic
+1780522	simple:italic
 simple:italic
-1678222	simple:italic
-1678224	simple:italic
+1780525	simple:italic
+1780527	simple:italic
 simple:italic
 simple:italic
-1678232	simple:italic
-1678234	simple:italic
+1780535	simple:italic
+1780537	simple:italic
 simple:italic
-1678237	simple:italic
+1780540	simple:italic
 simple:italic
 simple:italic
-1678241	simple:italic
-1678243	simple:italic
-1678245	simple:italic
-1678247	simple:italic
+1780544	simple:italic
+1780546	simple:italic
+1780548	simple:italic
+1780550	simple:italic
 simple:italic
-1678250	simple:italic
-1678252	simple:italic
+1780553	simple:italic
+1780555	simple:italic
 simple:italic
-1678255	simple:italic
+1780558	simple:italic
 simple:italic
-1678258	simple:italic
-1678260	simple:italic
-1678262	simple:italic
+1780561	simple:italic
+1780563	simple:italic
+1780565	simple:italic
 simple:italic
-1678265	simple:italic
+1780568	simple:italic
 simple:italic
-1678268	simple:italic
-1678270	simple:italic
-1678272	simple:italic
-1678274	simple:italic
+1780571	simple:italic
+1780573	simple:italic
+1780575	simple:italic
+1780577	simple:italic
 simple:italic
-1678277	simple:italic
-1678279	simple:italic
-1678281	simple:italic
+1780580	simple:italic
+1780582	simple:italic
+1780584	simple:italic
 simple:italic
-1678284	simple:italic
+1780587	simple:italic
 simple:italic
-1678287	simple:italic
+1780590	simple:italic
 simple:italic
-1678290	simple:italic
+1780593	simple:italic
 simple:italic
-1678293	simple:italic
-1678295	simple:italic
+1780596	simple:italic
+1780598	simple:italic
 simple:italic
-1678298	simple:italic
-1678306	simple:italic
-1678308	simple:italic
+1780601	simple:italic
+1780609	simple:italic
+1780611	simple:italic
 simple:italic
-1678311	simple:italic
-1678313	simple:italic
-1678315	simple:italic
+1780614	simple:italic
+1780616	simple:italic
+1780618	simple:italic
 simple:italic
-1678318	simple:italic
+1780621	simple:italic
 simple:italic
-1678321	simple:italic
+1780624	simple:italic
 simple:italic
-1678324	simple:italic
+1780627	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1678329	simple:italic
-1678331	simple:italic
+1780632	simple:italic
+1780634	simple:italic
 simple:italic
-1678334	simple:italic
-1678336	simple:italic
+1780637	simple:italic
+1780639	simple:italic
 simple:italic
-1678339	simple:italic
+1780642	simple:italic
 simple:italic
-1678342	simple:italic
-1678344	simple:italic
+1780645	simple:italic
+1780647	simple:italic
 simple:italic
-1678347	simple:italic
+1780650	simple:italic
 simple:italic
-1678350	simple:italic
-1678352	simple:italic
-1678358	simple:italic
-1678360	simple:italic
+1780653	simple:italic
+1780655	simple:italic
+1780661	simple:italic
+1780663	simple:italic
 simple:italic
-1678363	simple:italic
-1678365	simple:italic
-1678367	simple:italic
-1678369	simple:italic
-1678371	simple:italic
-1678373	simple:italic
-1678375	simple:italic
+1780666	simple:italic
+1780668	simple:italic
+1780670	simple:italic
+1780672	simple:italic
+1780674	simple:italic
+1780676	simple:italic
+1780678	simple:italic
 simple:italic
-1678378	simple:italic
-1678380	simple:italic
-1678382	simple:italic
+1780681	simple:italic
+1780683	simple:italic
+1780685	simple:italic
 simple:italic
-1678385	simple:italic
-1678387	simple:italic
-1678389	simple:italic
+1780688	simple:italic
+1780690	simple:italic
+1780692	simple:italic
 simple:italic
-1678392	simple:italic
-1678394	simple:italic
-1678396	simple:italic
-1678398	simple:italic
+1780695	simple:italic
+1780697	simple:italic
+1780699	simple:italic
+1780701	simple:italic
 simple:italic
 simple:italic
-1678402	simple:italic
+1780705	simple:italic
 simple:italic
-1678405	simple:italic
+1780708	simple:italic
 simple:italic
-1678408	simple:italic
+1780711	simple:italic
 simple:italic
-1678411	simple:italic
-1678413	simple:italic
-1678415	simple:italic
-1678417	simple:italic
-1678419	simple:italic
-1678421	simple:italic
-1678423	simple:italic
+1780714	simple:italic
+1780716	simple:italic
+1780718	simple:italic
+1780720	simple:italic
+1780722	simple:italic
+1780724	simple:italic
+1780726	simple:italic
 simple:italic
-1678426	simple:italic
-1678428	simple:italic
+1780729	simple:italic
+1780731	simple:italic
 simple:italic
-1678431	simple:italic
-1678434	simple:italic
-1678436	simple:italic
-1678438	simple:italic
+1780734	simple:italic
+1780737	simple:italic
+1780739	simple:italic
+1780741	simple:italic
 simple:italic
-1678441	simple:italic
+1780744	simple:italic
 simple:italic
-1678444	simple:italic
-1678446	simple:italic
-1678448	simple:italic
-1678450	simple:italic
-1678456	simple:italic
-1678458	simple:italic
-1678460	simple:italic
-1678462	simple:italic
-1678464	simple:italic
+1780747	simple:italic
+1780749	simple:italic
+1780751	simple:italic
+1780753	simple:italic
+1780759	simple:italic
+1780761	simple:italic
+1780763	simple:italic
+1780765	simple:italic
+1780767	simple:italic
 simple:italic
-1678467	simple:italic
+1780770	simple:italic
 simple:italic
-1678470	simple:italic
-1678472	simple:italic
-1678474	simple:italic
-1678476	simple:italic
-1678478	simple:italic
-1678480	simple:italic
-1678482	simple:italic
-1678484	simple:italic
-1678489	simple:italic
-1678491	simple:italic
-1678509	simple:italic
+1780773	simple:italic
+1780775	simple:italic
+1780777	simple:italic
+1780779	simple:italic
+1780781	simple:italic
+1780783	simple:italic
+1780785	simple:italic
+1780787	simple:italic
+1780792	simple:italic
+1780794	simple:italic
+1780812	simple:italic
 simple:italic
-1678512	simple:italic
+1780815	simple:italic
 simple:italic
-1678515	simple:italic
-1678517	simple:italic
-1678519	simple:italic
-1678521	simple:italic
-1678523	simple:italic
-1678525	simple:italic
+1780818	simple:italic
+1780820	simple:italic
+1780822	simple:italic
+1780824	simple:italic
+1780826	simple:italic
+1780828	simple:italic
 simple:italic
-1678528	simple:italic
+1780831	simple:italic
 simple:italic
-1678531	simple:italic
+1780834	simple:italic
 simple:italic
-1678534	simple:italic
-1678536	simple:italic
-1678538	simple:italic
-1678540	simple:italic
+1780837	simple:italic
+1780839	simple:italic
+1780841	simple:italic
+1780843	simple:italic
 simple:italic
-1678543	simple:italic
-1678545	simple:italic
-1678547	simple:italic
+1780846	simple:italic
+1780848	simple:italic
+1780850	simple:italic
 simple:italic
-1678550	simple:italic
-1678552	simple:italic
-1678554	simple:italic
+1780853	simple:italic
+1780855	simple:italic
+1780857	simple:italic
 simple:italic
-1678557	simple:italic
-1678559	simple:italic
-1678561	simple:italic
+1780860	simple:italic
+1780862	simple:italic
+1780864	simple:italic
 simple:italic
-1678564	simple:italic
-1678566	simple:italic
+1780867	simple:italic
+1780869	simple:italic
 simple:italic
-1678569	simple:italic
+1780872	simple:italic
 simple:italic
-1678572	simple:italic
+1780875	simple:italic
 simple:italic
-1678575	simple:italic
-1678577	simple:italic
+1780878	simple:italic
+1780880	simple:italic
 simple:italic
-1678580	simple:italic
-1678582	simple:italic
+1780883	simple:italic
+1780885	simple:italic
 simple:italic
-1678585	simple:italic
-1678587	simple:italic
-1678589	simple:italic
-1678591	simple:italic
+1780888	simple:italic
+1780890	simple:italic
+1780892	simple:italic
+1780894	simple:italic
 simple:italic
-1678594	simple:italic
-1678596	simple:italic
+1780897	simple:italic
+1780899	simple:italic
 simple:italic
-1678599	simple:italic
-1678601	simple:italic
-1678603	simple:italic
-1678605	simple:italic
-1678607	simple:italic
-1678609	simple:italic
-1678611	simple:italic
+1780902	simple:italic
+1780904	simple:italic
+1780906	simple:italic
+1780908	simple:italic
+1780910	simple:italic
+1780912	simple:italic
+1780914	simple:italic
 simple:italic
-1678614	simple:italic
+1780917	simple:italic
 simple:italic
-1678617	simple:italic
-1678619	simple:italic
-1678621	simple:italic
-1678623	simple:italic
-1678625	simple:italic
-1678627	simple:italic
+1780920	simple:italic
+1780922	simple:italic
+1780924	simple:italic
+1780926	simple:italic
+1780928	simple:italic
+1780930	simple:italic
 simple:italic
-1678630	simple:italic
-1678632	simple:italic
-1678634	simple:italic
-1678636	simple:italic
-1678638	simple:italic
+1780933	simple:italic
+1780935	simple:italic
+1780937	simple:italic
+1780939	simple:italic
+1780941	simple:italic
 simple:italic
 simple:italic
-1678642	simple:italic
+1780945	simple:italic
 simple:italic
-1678645	simple:italic
+1780948	simple:italic
 simple:italic
-1678648	simple:italic
-1678650	simple:italic
+1780951	simple:italic
+1780953	simple:italic
 simple:italic
-1678653	simple:italic
-1678655	simple:italic
+1780956	simple:italic
+1780958	simple:italic
 simple:italic
-1678658	simple:italic
-1678660	simple:italic
-1678662	simple:italic
-1678664	simple:italic
-1678666	simple:italic
-1678668	simple:italic
-1678670	simple:italic
-1678672	simple:italic
+1780961	simple:italic
+1780963	simple:italic
+1780965	simple:italic
+1780967	simple:italic
+1780969	simple:italic
+1780971	simple:italic
+1780973	simple:italic
+1780975	simple:italic
 simple:italic
-1678675	simple:italic
+1780978	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1678680	simple:italic
-1678682	simple:italic
+1780983	simple:italic
+1780985	simple:italic
 simple:italic
-1678685	simple:italic
+1780988	simple:italic
 simple:italic
 simple:italic
-1678689	simple:italic
+1780992	simple:italic
 simple:italic
-1678692	simple:italic
-1678694	simple:italic
+1780995	simple:italic
+1780997	simple:italic
 simple:italic
-1678697	simple:italic
+1781000	simple:italic
 simple:italic
-1678700	simple:italic
-1678702	simple:italic
-1678704	simple:italic
-1678706	simple:italic
-1678708	simple:italic
+1781003	simple:italic
+1781005	simple:italic
+1781007	simple:italic
+1781009	simple:italic
+1781011	simple:italic
 simple:italic
-1678711	simple:italic
-1678713	simple:italic
-1678715	simple:italic
+1781014	simple:italic
+1781016	simple:italic
+1781018	simple:italic
 simple:italic
-1678718	simple:italic
+1781021	simple:italic
 simple:italic
-1678721	simple:italic
-1678723	simple:italic
-1678725	simple:italic
-1678727	simple:italic
+1781024	simple:italic
+1781026	simple:italic
+1781028	simple:italic
+1781030	simple:italic
 simple:italic
-1678730	simple:italic
+1781033	simple:italic
 simple:italic
-1678733	simple:italic
-1678735	simple:italic
+1781036	simple:italic
+1781038	simple:italic
 simple:italic
-1678738	simple:italic
-1678740	simple:italic
-1678742	simple:italic
-1678744	simple:italic
-1678746	simple:italic
-1678748	simple:italic
-1678750	simple:italic
+1781041	simple:italic
+1781043	simple:italic
+1781045	simple:italic
+1781047	simple:italic
+1781049	simple:italic
+1781051	simple:italic
+1781053	simple:italic
 simple:italic
 simple:italic
-1678754	simple:italic
-1678756	simple:italic
-1678758	simple:italic
-1678760	simple:italic
-1678762	simple:italic
-1678764	simple:italic
-1678778	simple:italic
-1678780	simple:italic
-1678782	simple:italic
-1678784	simple:italic
-1678786	simple:italic
-1678788	simple:italic
+1781057	simple:italic
+1781059	simple:italic
+1781061	simple:italic
+1781063	simple:italic
+1781065	simple:italic
+1781067	simple:italic
+1781081	simple:italic
+1781083	simple:italic
+1781085	simple:italic
+1781087	simple:italic
+1781089	simple:italic
+1781091	simple:italic
 simple:italic
-1678791	simple:italic
+1781094	simple:italic
 simple:italic
 simple:italic
-1678795	simple:italic
+1781098	simple:italic
 simple:italic
-1678798	simple:italic
-1678800	simple:italic
+1781101	simple:italic
+1781103	simple:italic
 simple:italic
-1678803	simple:italic
-1678805	simple:italic
+1781106	simple:italic
+1781108	simple:italic
 simple:italic
-1678808	simple:italic
-1678810	simple:italic
+1781111	simple:italic
+1781113	simple:italic
 simple:italic
-1678813	simple:italic
+1781116	simple:italic
 simple:italic
-1678816	simple:italic
+1781119	simple:italic
 simple:italic
-1678819	simple:italic
-1678821	simple:italic
+1781122	simple:italic
+1781124	simple:italic
 simple:italic
-1678824	simple:italic
-1678826	simple:italic
-1678830	simple:italic
-1678832	simple:italic
-1678834	simple:italic
-1678836	simple:italic
-1678838	simple:italic
-1678840	simple:italic
-1678842	simple:italic
-1678844	simple:italic
-1678854	simple:italic
-1678856	simple:italic
-1678858	simple:italic
+1781127	simple:italic
+1781129	simple:italic
+1781133	simple:italic
+1781135	simple:italic
+1781137	simple:italic
+1781139	simple:italic
+1781141	simple:italic
+1781143	simple:italic
+1781145	simple:italic
+1781147	simple:italic
+1781157	simple:italic
+1781159	simple:italic
+1781161	simple:italic
 simple:italic
-1678861	simple:italic
-1678863	simple:italic
-1678865	simple:italic
-1678867	simple:italic
-1678869	simple:italic
+1781164	simple:italic
+1781166	simple:italic
+1781168	simple:italic
+1781170	simple:italic
+1781172	simple:italic
 simple:italic
-1678872	simple:italic
+1781175	simple:italic
 simple:italic
-1678875	simple:italic
+1781178	simple:italic
 simple:italic
-1678878	simple:italic
+1781181	simple:italic
 simple:italic
-1678881	simple:italic
+1781184	simple:italic
 simple:italic
-1678884	simple:italic
-1678886	simple:italic
-1678888	simple:italic
-1678890	simple:italic
+1781187	simple:italic
+1781189	simple:italic
+1781191	simple:italic
+1781193	simple:italic
 simple:italic
-1678893	simple:italic
+1781196	simple:italic
 simple:italic
-1678896	simple:italic
-1678898	simple:italic
-1678900	simple:italic
+1781199	simple:italic
+1781201	simple:italic
+1781203	simple:italic
 simple:italic
-1678903	simple:italic
-1678905	simple:italic
-1678907	simple:italic
-1678909	simple:italic
+1781206	simple:italic
+1781208	simple:italic
+1781210	simple:italic
+1781212	simple:italic
 simple:italic
-1678966	simple:italic
+1781269	simple:italic
 simple:italic
-1678969	simple:italic
+1781272	simple:italic
 simple:italic
-1678972	simple:italic
-1678974	simple:italic
+1781275	simple:italic
+1781277	simple:italic
 simple:italic
-1678977	simple:italic
-1678979	simple:italic
-1678981	simple:italic
+1781280	simple:italic
+1781282	simple:italic
+1781284	simple:italic
 simple:italic
-1678984	simple:italic
-1678986	simple:italic
-1678988	simple:italic
+1781287	simple:italic
+1781289	simple:italic
+1781291	simple:italic
 simple:italic
-1678991	simple:italic
-1678993	simple:italic
+1781294	simple:italic
+1781296	simple:italic
 simple:italic
-1678996	simple:italic
+1781299	simple:italic
 simple:italic
-1678999	simple:italic
-1679001	simple:italic
+1781302	simple:italic
+1781304	simple:italic
 simple:italic
-1679004	simple:italic
-1679006	simple:italic
-1679008	simple:italic
+1781307	simple:italic
+1781309	simple:italic
+1781311	simple:italic
 simple:italic
-1679011	simple:italic
+1781314	simple:italic
 simple:italic
-1679014	simple:italic
+1781317	simple:italic
 simple:italic
-1679017	simple:italic
-1679019	simple:italic
-1679021	simple:italic
-1679023	simple:italic
+1781320	simple:italic
+1781322	simple:italic
+1781324	simple:italic
+1781326	simple:italic
 simple:italic
-1679026	simple:italic
+1781329	simple:italic
 simple:italic
-1679029	simple:italic
-1679031	simple:italic
+1781332	simple:italic
+1781334	simple:italic
 simple:italic
-1679034	simple:italic
+1781337	simple:italic
 simple:italic
-1679037	simple:italic
-1679039	simple:italic
-1679041	simple:italic
-1679043	simple:italic
-1679045	simple:italic
-1679050	simple:italic
+1781340	simple:italic
+1781342	simple:italic
+1781344	simple:italic
+1781346	simple:italic
+1781348	simple:italic
+1781353	simple:italic
 simple:italic
-1679053	simple:italic
+1781356	simple:italic
 simple:italic
-1679056	simple:italic
-1679058	simple:italic
-1679060	simple:italic
+1781359	simple:italic
+1781361	simple:italic
+1781363	simple:italic
 simple:italic
-1679063	simple:italic
-1679065	simple:italic
-1679067	simple:italic
-1679069	simple:italic
-1679071	simple:italic
-1679073	simple:italic
-1679075	simple:italic
+1781366	simple:italic
+1781368	simple:italic
+1781370	simple:italic
+1781372	simple:italic
+1781374	simple:italic
+1781376	simple:italic
+1781378	simple:italic
 simple:italic
-1679078	simple:italic
+1781381	simple:italic
 simple:italic
 simple:italic
-1679082	simple:italic
+1781385	simple:italic
 simple:italic
-1679085	simple:italic
+1781388	simple:italic
 simple:italic
-1679088	simple:italic
-1679090	simple:italic
+1781391	simple:italic
+1781393	simple:italic
 simple:italic
-1679093	simple:italic
+1781396	simple:italic
 simple:italic
-1679096	simple:italic
+1781399	simple:italic
 simple:italic
-1679099	simple:italic
-1679102	simple:italic
-1679104	simple:italic
-1679106	simple:italic
-1679108	simple:italic
+1781402	simple:italic
+1781405	simple:italic
+1781407	simple:italic
+1781409	simple:italic
+1781411	simple:italic
 simple:italic
-1679111	simple:italic
+1781414	simple:italic
 simple:italic
-1679114	simple:italic
-1679116	simple:italic
-1679118	simple:italic
-1679120	simple:italic
+1781417	simple:italic
+1781419	simple:italic
+1781421	simple:italic
+1781423	simple:italic
 simple:italic
-1679123	simple:italic
-1679125	simple:italic
-1679127	simple:italic
+1781426	simple:italic
+1781428	simple:italic
+1781430	simple:italic
 simple:italic
-1679130	simple:italic
-1679132	simple:italic
-1679134	simple:italic
+1781433	simple:italic
+1781435	simple:italic
+1781437	simple:italic
 simple:italic
-1679137	simple:italic
-1679139	simple:italic
+1781440	simple:italic
+1781442	simple:italic
 simple:italic
-1679142	simple:italic
+1781445	simple:italic
 simple:italic
 simple:italic
-1679146	simple:italic
-1679148	simple:italic
-1679150	simple:italic
-1679152	simple:italic
+1781449	simple:italic
+1781451	simple:italic
+1781453	simple:italic
+1781455	simple:italic
 simple:italic
-1679155	simple:italic
-1679157	simple:italic
+1781458	simple:italic
+1781460	simple:italic
 simple:italic
-1679160	simple:italic
-1679162	simple:italic
+1781463	simple:italic
+1781465	simple:italic
 simple:italic
-1679165	simple:italic
+1781468	simple:italic
 simple:italic
-1679171	simple:italic
+1781474	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1679176	simple:italic
-1679178	simple:italic
-1679180	simple:italic
+1781479	simple:italic
+1781481	simple:italic
+1781483	simple:italic
 simple:italic
-1679183	simple:italic
+1781486	simple:italic
 simple:italic
-1679186	simple:italic
-1679188	simple:italic
-1679190	simple:italic
-1679192	simple:italic
+1781489	simple:italic
+1781491	simple:italic
+1781493	simple:italic
+1781495	simple:italic
 simple:italic
-1679195	simple:italic
-1679197	simple:italic
-1679199	simple:italic
-1679201	simple:italic
-1679203	simple:italic
+1781498	simple:italic
+1781500	simple:italic
+1781502	simple:italic
+1781504	simple:italic
+1781506	simple:italic
 simple:italic
-1679206	simple:italic
-1679208	simple:italic
+1781509	simple:italic
+1781511	simple:italic
 simple:italic
-1679211	simple:italic
-1679213	simple:italic
-1679215	simple:italic
-1679217	simple:italic
+1781514	simple:italic
+1781516	simple:italic
+1781518	simple:italic
+1781520	simple:italic
 simple:italic
-1679220	simple:italic
-1679228	simple:italic
+1781523	simple:italic
+1781531	simple:italic
 simple:italic
-1679231	simple:italic
+1781534	simple:italic
 simple:italic
-1679234	simple:italic
-1679236	simple:italic
-1679238	simple:italic
+1781537	simple:italic
+1781539	simple:italic
+1781541	simple:italic
 simple:italic
-1679241	simple:italic
+1781544	simple:italic
 simple:italic
-1679244	simple:italic
-1679246	simple:italic
+1781547	simple:italic
+1781549	simple:italic
 simple:italic
-1679249	simple:italic
-1679251	simple:italic
+1781552	simple:italic
+1781554	simple:italic
 simple:italic
-1679254	simple:italic
+1781557	simple:italic
 simple:italic
 simple:italic
-1679258	simple:italic
-1679260	simple:italic
+1781561	simple:italic
+1781563	simple:italic
 simple:italic
-1679263	simple:italic
+1781566	simple:italic
 simple:italic
-1679266	simple:italic
+1781569	simple:italic
 simple:italic
-1679269	simple:italic
+1781572	simple:italic
 simple:italic
 simple:italic
-1679273	simple:italic
+1781576	simple:italic
 simple:italic
-1679276	simple:italic
+1781579	simple:italic
 simple:italic
-1679279	simple:italic
+1781582	simple:italic
 simple:italic
-1679282	simple:italic
-1679284	simple:italic
-1679286	simple:italic
-1679288	simple:italic
+1781585	simple:italic
+1781587	simple:italic
+1781589	simple:italic
+1781591	simple:italic
 simple:italic
-1679304	simple:italic
-1679306	simple:italic
+1781607	simple:italic
+1781609	simple:italic
 simple:italic
-1679309	simple:italic
-1679311	simple:italic
-1679313	simple:italic
-1679315	simple:italic
+1781612	simple:italic
+1781614	simple:italic
+1781616	simple:italic
+1781618	simple:italic
 simple:italic
-1679318	simple:italic
-1679320	simple:italic
+1781621	simple:italic
+1781623	simple:italic
 simple:italic
-1679323	simple:italic
+1781626	simple:italic
 simple:italic
-1679326	simple:italic
-1679328	simple:italic
+1781629	simple:italic
+1781631	simple:italic
 simple:italic
-1679331	simple:italic
-1679333	simple:italic
-1679335	simple:italic
+1781634	simple:italic
+1781636	simple:italic
+1781638	simple:italic
 simple:italic
-1679338	simple:italic
+1781641	simple:italic
 simple:italic
-1679341	simple:italic
-1679343	simple:italic
-1679345	simple:italic
+1781644	simple:italic
+1781646	simple:italic
+1781648	simple:italic
 simple:italic
-1679348	simple:italic
-1679350	simple:italic
-1679352	simple:italic
-1679354	simple:italic
-1679356	simple:italic
-1679358	simple:italic
+1781651	simple:italic
+1781653	simple:italic
+1781655	simple:italic
+1781657	simple:italic
+1781659	simple:italic
+1781661	simple:italic
 simple:italic
-1679361	simple:italic
-1679363	simple:italic
+1781664	simple:italic
+1781666	simple:italic
 simple:italic
-1679366	simple:italic
-1679368	simple:italic
+1781669	simple:italic
+1781671	simple:italic
 simple:italic
-1679371	simple:italic
-1679373	simple:italic
-1679375	simple:italic
+1781674	simple:italic
+1781676	simple:italic
+1781678	simple:italic
 simple:italic
-1679378	simple:italic
+1781681	simple:italic
 simple:italic
-1679381	simple:italic
+1781684	simple:italic
 simple:italic
-1679384	simple:italic
-1679386	simple:italic
+1781687	simple:italic
+1781689	simple:italic
 simple:italic
-1679389	simple:italic
-1679391	simple:italic
-1679398	simple:italic
-1679400	simple:italic
-1679402	simple:italic
-1679404	simple:italic
-1679406	simple:italic
+1781692	simple:italic
+1781694	simple:italic
+1781701	simple:italic
+1781703	simple:italic
+1781705	simple:italic
+1781707	simple:italic
+1781709	simple:italic
 simple:italic
-1679409	simple:italic
-1679411	simple:italic
+1781712	simple:italic
+1781714	simple:italic
 simple:italic
-1679414	simple:italic
-1679416	simple:italic
-1679418	simple:italic
+1781717	simple:italic
+1781719	simple:italic
+1781721	simple:italic
 simple:italic
-1679421	simple:italic
-1679423	simple:italic
-1679425	simple:italic
+1781724	simple:italic
+1781726	simple:italic
+1781728	simple:italic
 simple:italic
 simple:italic
-1679429	simple:italic
-1679431	simple:italic
+1781732	simple:italic
+1781734	simple:italic
 simple:italic
-1679434	simple:italic
-1679436	simple:italic
-1679438	simple:italic
-1679440	simple:italic
+1781737	simple:italic
+1781739	simple:italic
+1781741	simple:italic
+1781743	simple:italic
 simple:italic
-1679443	simple:italic
-1679445	simple:italic
-1679447	simple:italic
-1679449	simple:italic
+1781746	simple:italic
+1781748	simple:italic
+1781750	simple:italic
+1781752	simple:italic
 simple:italic
-1679455	simple:italic
-1679457	simple:italic
-1679459	simple:italic
+1781758	simple:italic
+1781760	simple:italic
+1781762	simple:italic
 simple:italic
 simple:italic
-1679463	simple:italic
-1679465	simple:italic
-1679467	simple:italic
-1679469	simple:italic
+1781766	simple:italic
+1781768	simple:italic
+1781770	simple:italic
+1781772	simple:italic
 simple:italic
-1679472	simple:italic
-1679474	simple:italic
-1679476	simple:italic
+1781775	simple:italic
+1781777	simple:italic
+1781779	simple:italic
 simple:italic
-1679479	simple:italic
-1679481	simple:italic
-1679483	simple:italic
+1781782	simple:italic
+1781784	simple:italic
+1781786	simple:italic
 simple:italic
-1679486	simple:italic
+1781789	simple:italic
 simple:italic
-1679489	simple:italic
+1781792	simple:italic
 simple:italic
-1679492	simple:italic
+1781795	simple:italic
 simple:italic
-1679495	simple:italic
+1781798	simple:italic
 simple:italic
-1679498	simple:italic
+1781801	simple:italic
 simple:italic
-1679501	simple:italic
+1781804	simple:italic
 simple:italic
-1679504	simple:italic
-1679506	simple:italic
+1781807	simple:italic
+1781809	simple:italic
 simple:italic
-1679509	simple:italic
-1679511	simple:italic
-1679513	simple:italic
-1679515	simple:italic
+1781812	simple:italic
+1781814	simple:italic
+1781816	simple:italic
+1781818	simple:italic
 simple:italic
-1679518	simple:italic
-1679520	simple:italic
-1679522	simple:italic
+1781821	simple:italic
+1781823	simple:italic
+1781825	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1679527	simple:italic
+1781830	simple:italic
 simple:italic
-1679530	simple:italic
+1781833	simple:italic
 simple:italic
-1679533	simple:italic
+1781836	simple:italic
 simple:italic
-1679536	simple:italic
+1781839	simple:italic
 simple:italic
-1679539	simple:italic
+1781842	simple:italic
 simple:italic
-1679542	simple:italic
+1781845	simple:italic
 simple:italic
-1679545	simple:italic
-1679547	simple:italic
+1781848	simple:italic
+1781850	simple:italic
 simple:italic
-1679550	simple:italic
-1679552	simple:italic
+1781853	simple:italic
+1781855	simple:italic
 simple:italic
-1679555	simple:italic
-1679557	simple:italic
+1781858	simple:italic
+1781860	simple:italic
 simple:italic
-1679560	simple:italic
+1781863	simple:italic
 simple:italic
-1679563	simple:italic
-1679565	simple:italic
+1781866	simple:italic
+1781868	simple:italic
 simple:italic
-1679568	simple:italic
+1781871	simple:italic
 simple:italic
-1679571	simple:italic
-1679573	simple:italic
+1781874	simple:italic
+1781876	simple:italic
 simple:italic
-1679576	simple:italic
-1679578	simple:italic
-1679580	simple:italic
-1679593	simple:italic
+1781879	simple:italic
+1781881	simple:italic
+1781883	simple:italic
+1781896	simple:italic
 simple:italic
-1679596	simple:italic
+1781899	simple:italic
 simple:italic
-1679599	simple:italic
+1781902	simple:italic
 simple:italic
-1679602	simple:italic
-1679604	simple:italic
+1781905	simple:italic
+1781907	simple:italic
 simple:italic
-1679607	simple:italic
+1781910	simple:italic
 simple:italic
-1679610	simple:italic
-1679612	simple:italic
+1781913	simple:italic
+1781915	simple:italic
 simple:italic
-1679615	simple:italic
-1679617	simple:italic
-1679619	simple:italic
+1781918	simple:italic
+1781920	simple:italic
+1781922	simple:italic
 simple:italic
-1679622	simple:italic
+1781925	simple:italic
 simple:italic
-1679625	simple:italic
-1679627	simple:italic
-1679629	simple:italic
-1679631	simple:italic
+1781928	simple:italic
+1781930	simple:italic
+1781932	simple:italic
+1781934	simple:italic
 simple:italic
-1679634	simple:italic
-1679636	simple:italic
-1679638	simple:italic
-1679640	simple:italic
+1781937	simple:italic
+1781939	simple:italic
+1781941	simple:italic
+1781943	simple:italic
 simple:italic
-1679643	simple:italic
+1781946	simple:italic
 simple:italic
-1679646	simple:italic
+1781949	simple:italic
 simple:italic
-1679649	simple:italic
+1781952	simple:italic
 simple:italic
-1679652	simple:italic
+1781955	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1679657	simple:italic
-1679659	simple:italic
-1679661	simple:italic
-1679663	simple:italic
-1679665	simple:italic
+1781960	simple:italic
+1781962	simple:italic
+1781964	simple:italic
+1781966	simple:italic
+1781968	simple:italic
 simple:italic
-1679668	simple:italic
+1781971	simple:italic
 simple:italic
-1679671	simple:italic
-1679673	simple:italic
-1679675	simple:italic
+1781974	simple:italic
+1781976	simple:italic
+1781978	simple:italic
 simple:italic
-1679678	simple:italic
+1781981	simple:italic
 simple:italic
-1679681	simple:italic
-1679683	simple:italic
-1679685	simple:italic
+1781984	simple:italic
+1781986	simple:italic
+1781988	simple:italic
 simple:italic
-1679688	simple:italic
-1679690	simple:italic
+1781991	simple:italic
+1781993	simple:italic
 simple:italic
-1679693	simple:italic
-1679695	simple:italic
-1679697	simple:italic
+1781996	simple:italic
+1781998	simple:italic
+1782000	simple:italic
 simple:italic
-1679700	simple:italic
+1782003	simple:italic
 simple:italic
-1679703	simple:italic
+1782006	simple:italic
 simple:italic
-1679706	simple:italic
-1679708	simple:italic
+1782009	simple:italic
+1782011	simple:italic
 simple:italic
-1679711	simple:italic
-1679713	simple:italic
+1782014	simple:italic
+1782016	simple:italic
 simple:italic
-1679716	simple:italic
+1782019	simple:italic
 simple:italic
-1679719	simple:italic
+1782022	simple:italic
 simple:italic
-1679722	simple:italic
+1782025	simple:italic
 simple:italic
-1679725	simple:italic
-1679727	simple:italic
+1782028	simple:italic
+1782030	simple:italic
 simple:italic
-1679730	simple:italic
+1782033	simple:italic
 simple:italic
-1679733	simple:italic
-1679735	simple:italic
+1782036	simple:italic
+1782038	simple:italic
 simple:italic
-1679738	simple:italic
+1782041	simple:italic
 simple:italic
-1679741	simple:italic
-1679743	simple:italic
-1679745	simple:italic
-1679747	simple:italic
-1679749	simple:italic
+1782044	simple:italic
+1782046	simple:italic
+1782048	simple:italic
+1782050	simple:italic
+1782052	simple:italic
 simple:italic
-1679752	simple:italic
+1782055	simple:italic
 simple:italic
-1679755	simple:italic
+1782058	simple:italic
 simple:italic
 simple:italic
-1679759	simple:italic
-1679761	simple:italic
+1782062	simple:italic
+1782064	simple:italic
 simple:italic
-1679774	simple:italic
+1782077	simple:italic
 simple:italic
-1679777	simple:italic
+1782080	simple:italic
 simple:italic
-1679780	simple:italic
+1782083	simple:italic
 simple:italic
-1679783	simple:italic
+1782086	simple:italic
 simple:italic
-1679786	simple:italic
+1782089	simple:italic
 simple:italic
-1679789	simple:italic
+1782092	simple:italic
 simple:italic
-1679792	simple:italic
-1679794	simple:italic
-1679796	simple:italic
-1679798	simple:italic
-1679800	simple:italic
-1679802	simple:italic
+1782095	simple:italic
+1782097	simple:italic
+1782099	simple:italic
+1782101	simple:italic
+1782103	simple:italic
+1782105	simple:italic
 simple:italic
-1679805	simple:italic
-1679807	simple:italic
-1679809	simple:italic
+1782108	simple:italic
+1782110	simple:italic
+1782112	simple:italic
 simple:italic
-1679812	simple:italic
-1679814	simple:italic
+1782115	simple:italic
+1782117	simple:italic
 simple:italic
-1679817	simple:italic
+1782120	simple:italic
 simple:italic
-1679820	simple:italic
-1679822	simple:italic
-1679824	simple:italic
-1679826	simple:italic
+1782123	simple:italic
+1782125	simple:italic
+1782127	simple:italic
+1782129	simple:italic
 simple:italic
-1679829	simple:italic
+1782132	simple:italic
 simple:italic
-1679832	simple:italic
+1782135	simple:italic
 simple:italic
-1679835	simple:italic
+1782138	simple:italic
 simple:italic
-1679838	simple:italic
+1782141	simple:italic
 simple:italic
-1679841	simple:italic
+1782144	simple:italic
 simple:italic
-1679844	simple:italic
+1782147	simple:italic
 simple:italic
-1679847	simple:italic
+1782150	simple:italic
 simple:italic
-1679850	simple:italic
-1679852	simple:italic
-1679854	simple:italic
+1782153	simple:italic
+1782155	simple:italic
+1782157	simple:italic
 simple:italic
-1679857	simple:italic
-1679859	simple:italic
+1782160	simple:italic
+1782162	simple:italic
 simple:italic
-1679862	simple:italic
+1782165	simple:italic
 simple:italic
-1679865	simple:italic
+1782168	simple:italic
 simple:italic
-1679868	simple:italic
+1782171	simple:italic
 simple:italic
-1679871	simple:italic
+1782174	simple:italic
 simple:italic
-1679874	simple:italic
+1782177	simple:italic
 simple:italic
-1679877	simple:italic
+1782180	simple:italic
 simple:italic
-1679880	simple:italic
-1679882	simple:italic
+1782183	simple:italic
+1782185	simple:italic
 simple:italic
 simple:italic
-1679886	simple:italic
-1679888	simple:italic
+1782189	simple:italic
+1782191	simple:italic
 simple:italic
-1679891	simple:italic
+1782194	simple:italic
 simple:italic
-1679896	simple:italic
+1782199	simple:italic
 simple:italic
-1679899	simple:italic
+1782202	simple:italic
 simple:italic
-1679902	simple:italic
-1679904	simple:italic
-1679906	simple:italic
-1679908	simple:italic
-1679910	simple:italic
+1782205	simple:italic
+1782207	simple:italic
+1782209	simple:italic
+1782211	simple:italic
+1782213	simple:italic
 simple:italic
-1679913	simple:italic
-1679915	simple:italic
-1679917	simple:italic
-1679919	simple:italic
-1679921	simple:italic
-1679927	simple:italic
+1782216	simple:italic
+1782218	simple:italic
+1782220	simple:italic
+1782222	simple:italic
+1782224	simple:italic
+1782230	simple:italic
 simple:italic
-1679930	simple:italic
+1782233	simple:italic
 simple:italic
-1679933	simple:italic
+1782236	simple:italic
 simple:italic
-1679936	simple:italic
-1679938	simple:italic
-1679940	simple:italic
+1782239	simple:italic
+1782241	simple:italic
+1782243	simple:italic
 simple:italic
-1679943	simple:italic
+1782246	simple:italic
 simple:italic
-1679946	simple:italic
+1782249	simple:italic
 simple:italic
-1679949	simple:italic
+1782252	simple:italic
 simple:italic
-1679952	simple:italic
+1782255	simple:italic
 simple:italic
-1679955	simple:italic
+1782258	simple:italic
 simple:italic
 simple:italic
-1679959	simple:italic
+1782262	simple:italic
 simple:italic
-1679962	simple:italic
+1782265	simple:italic
 simple:italic
-1679965	simple:italic
-1679967	simple:italic
-1679969	simple:italic
-1679971	simple:italic
+1782268	simple:italic
+1782270	simple:italic
+1782272	simple:italic
+1782274	simple:italic
 simple:italic
 simple:italic
-1679975	simple:italic
-1679977	simple:italic
+1782278	simple:italic
+1782280	simple:italic
 simple:italic
-1679980	simple:italic
-1679982	simple:italic
+1782283	simple:italic
+1782285	simple:italic
 simple:italic
-1679985	simple:italic
+1782288	simple:italic
 simple:italic
-1679988	simple:italic
-1679990	simple:italic
+1782291	simple:italic
+1782293	simple:italic
 simple:italic
-1679993	simple:italic
-1679995	simple:italic
-1680011	simple:italic
+1782296	simple:italic
+1782298	simple:italic
+1782314	simple:italic
 simple:italic
-1680014	simple:italic
+1782317	simple:italic
 simple:italic
-1680017	simple:italic
+1782320	simple:italic
 simple:italic
-1680020	simple:italic
+1782323	simple:italic
 simple:italic
-1680023	simple:italic
-1680025	simple:italic
-1680027	simple:italic
-1680034	simple:italic
-1680036	simple:italic
-1680038	simple:italic
-1680040	simple:italic
-1680042	simple:italic
-1680044	simple:italic
-1680046	simple:italic
-1680048	simple:italic
-1680050	simple:italic
-1680052	simple:italic
+1782326	simple:italic
+1782328	simple:italic
+1782330	simple:italic
+1782337	simple:italic
+1782339	simple:italic
+1782341	simple:italic
+1782343	simple:italic
+1782345	simple:italic
+1782347	simple:italic
+1782349	simple:italic
+1782351	simple:italic
+1782353	simple:italic
+1782355	simple:italic
 simple:italic
-1680066	simple:italic
-1680068	simple:italic
-1680070	simple:italic
-1680072	simple:italic
-1680074	simple:italic
+1782369	simple:italic
+1782371	simple:italic
+1782373	simple:italic
+1782375	simple:italic
+1782377	simple:italic
 simple:italic
 simple:italic
-1680078	simple:italic
-1680080	simple:italic
-1680082	simple:italic
-1680084	simple:italic
-1680086	simple:italic
-1680088	simple:italic
-1680090	simple:italic
+1782381	simple:italic
+1782383	simple:italic
+1782385	simple:italic
+1782387	simple:italic
+1782389	simple:italic
+1782391	simple:italic
+1782393	simple:italic
 simple:italic
-1680093	simple:italic
-1680095	simple:italic
-1680097	simple:italic
-1680099	simple:italic
-1680101	simple:italic
-1680103	simple:italic
-1680105	simple:italic
-1680107	simple:italic
-1680109	simple:italic
-1680111	simple:italic
-1680113	simple:italic
-1680115	simple:italic
-1680117	simple:italic
-1680119	simple:italic
-1680121	simple:italic
-1680123	simple:italic
+1782396	simple:italic
+1782398	simple:italic
+1782400	simple:italic
+1782402	simple:italic
+1782404	simple:italic
+1782406	simple:italic
+1782408	simple:italic
+1782410	simple:italic
+1782412	simple:italic
+1782414	simple:italic
+1782416	simple:italic
+1782418	simple:italic
+1782420	simple:italic
+1782422	simple:italic
+1782424	simple:italic
+1782426	simple:italic
 simple:italic
-1680126	simple:italic
-1680128	simple:italic
-1680130	simple:italic
-1680132	simple:italic
-1680134	simple:italic
+1782429	simple:italic
+1782431	simple:italic
+1782433	simple:italic
+1782435	simple:italic
+1782437	simple:italic
 simple:italic
-1680137	simple:italic
-1680139	simple:italic
-1680141	simple:italic
-1680143	simple:italic
-1680145	simple:italic
+1782440	simple:italic
+1782442	simple:italic
+1782444	simple:italic
+1782446	simple:italic
+1782448	simple:italic
 simple:italic
-1680148	simple:italic
-1680150	simple:italic
-1680152	simple:italic
-1680154	simple:italic
+1782451	simple:italic
+1782453	simple:italic
+1782455	simple:italic
+1782457	simple:italic
 simple:italic
-1680157	simple:italic
-1680161	simple:italic
+1782460	simple:italic
+1782464	simple:italic
 simple:italic
-1680164	simple:italic
+1782467	simple:italic
 simple:italic
-1680167	simple:italic
-1680169	simple:italic
+1782470	simple:italic
+1782472	simple:italic
 simple:italic
-1680172	simple:italic
-1680174	simple:italic
-1680176	simple:italic
-1680178	simple:italic
+1782475	simple:italic
+1782477	simple:italic
+1782479	simple:italic
+1782481	simple:italic
 simple:italic
 simple:italic
-1680182	simple:italic
+1782485	simple:italic
 simple:italic
-1680185	simple:italic
-1680187	simple:italic
-1680189	simple:italic
-1680191	simple:italic
+1782488	simple:italic
+1782490	simple:italic
+1782492	simple:italic
+1782494	simple:italic
 simple:italic
 simple:italic
-1680195	simple:italic
-1680197	simple:italic
-1680199	simple:italic
-1680201	simple:italic
+1782498	simple:italic
+1782500	simple:italic
+1782502	simple:italic
+1782504	simple:italic
 simple:italic
-1680204	simple:italic
-1680206	simple:italic
-1680208	simple:italic
-1680210	simple:italic
+1782507	simple:italic
+1782509	simple:italic
+1782511	simple:italic
+1782513	simple:italic
 simple:italic
-1680213	simple:italic
+1782516	simple:italic
 simple:italic
-1680216	simple:italic
-1680218	simple:italic
-1680220	simple:italic
-1680222	simple:italic
-1680224	simple:italic
+1782519	simple:italic
+1782521	simple:italic
+1782523	simple:italic
+1782525	simple:italic
+1782527	simple:italic
 simple:italic
-1680227	simple:italic
-1680231	simple:italic
-1680233	simple:italic
+1782530	simple:italic
+1782534	simple:italic
+1782536	simple:italic
 simple:italic
-1680236	simple:italic
+1782539	simple:italic
 simple:italic
 simple:italic
-1680240	simple:italic
-1680242	simple:italic
+1782543	simple:italic
+1782545	simple:italic
 simple:italic
-1680245	simple:italic
+1782548	simple:italic
 simple:italic
-1680248	simple:italic
-1680250	simple:italic
-1680252	simple:italic
-1680254	simple:italic
+1782551	simple:italic
+1782553	simple:italic
+1782555	simple:italic
+1782557	simple:italic
 simple:italic
-1680260	simple:italic
-1680262	simple:italic
-1680264	simple:italic
-1680266	simple:italic
+1782563	simple:italic
+1782565	simple:italic
+1782567	simple:italic
+1782569	simple:italic
 simple:italic
-1680269	simple:italic
+1782572	simple:italic
 simple:italic
-1680272	simple:italic
-1680274	simple:italic
+1782575	simple:italic
+1782577	simple:italic
 simple:italic
 simple:italic
-1680278	simple:italic
+1782581	simple:italic
 simple:italic
 simple:italic
-1680282	simple:italic
+1782585	simple:italic
 simple:italic
-1680285	simple:italic
-1680287	simple:italic
-1680289	simple:italic
-1680291	simple:italic
-1680293	simple:italic
-1680295	simple:italic
-1680297	simple:italic
-1680299	simple:italic
-1680301	simple:italic
-1680303	simple:italic
-1680305	simple:italic
-1680307	simple:italic
-1680309	simple:italic
-1680311	simple:italic
-1680313	simple:italic
-1680315	simple:italic
-1680317	simple:italic
+1782588	simple:italic
+1782590	simple:italic
+1782592	simple:italic
+1782594	simple:italic
+1782596	simple:italic
+1782598	simple:italic
+1782600	simple:italic
+1782602	simple:italic
+1782604	simple:italic
+1782606	simple:italic
+1782608	simple:italic
+1782610	simple:italic
+1782612	simple:italic
+1782614	simple:italic
+1782616	simple:italic
+1782618	simple:italic
+1782620	simple:italic
 simple:italic
-1680320	simple:italic
-1680322	simple:italic
-1680324	simple:italic
-1680326	simple:italic
-1680328	simple:italic
-1680330	simple:italic
+1782623	simple:italic
+1782625	simple:italic
+1782627	simple:italic
+1782629	simple:italic
+1782631	simple:italic
+1782633	simple:italic
 simple:italic
-1680333	simple:italic
-1680335	simple:italic
+1782636	simple:italic
+1782638	simple:italic
 simple:italic
-1680338	simple:italic
-1680340	simple:italic
-1680342	simple:italic
-1680344	simple:italic
-1680348	simple:italic
-1680350	simple:italic
-1680352	simple:italic
-1680354	simple:italic
-1680356	simple:italic
+1782641	simple:italic
+1782643	simple:italic
+1782645	simple:italic
+1782647	simple:italic
+1782651	simple:italic
+1782653	simple:italic
+1782655	simple:italic
+1782657	simple:italic
+1782659	simple:italic
 simple:italic
-1680359	simple:italic
+1782662	simple:italic
 simple:italic
-1680365	simple:italic
-1680367	simple:italic
-1680369	simple:italic
-1680371	simple:italic
-1680373	simple:italic
-1680375	simple:italic
-1680377	simple:italic
-1680379	simple:italic
-1680381	simple:italic
-1680383	simple:italic
+1782668	simple:italic
+1782670	simple:italic
+1782672	simple:italic
+1782674	simple:italic
+1782676	simple:italic
+1782678	simple:italic
+1782680	simple:italic
+1782682	simple:italic
+1782684	simple:italic
+1782686	simple:italic
 simple:italic
-1680386	simple:italic
-1680388	simple:italic
-1680390	simple:italic
-1680392	simple:italic
-1680394	simple:italic
-1680396	simple:italic
-1680398	simple:italic
+1782689	simple:italic
+1782691	simple:italic
+1782693	simple:italic
+1782695	simple:italic
+1782697	simple:italic
+1782699	simple:italic
+1782701	simple:italic
 simple:italic
-1680401	simple:italic
-1680403	simple:italic
-1680405	simple:italic
-1680407	simple:italic
-1680409	simple:italic
-1680411	simple:italic
-1680415	simple:italic
+1782704	simple:italic
+1782706	simple:italic
+1782708	simple:italic
+1782710	simple:italic
+1782712	simple:italic
+1782714	simple:italic
+1782718	simple:italic
 simple:italic
-1680418	simple:italic
-1680420	simple:italic
-1680422	simple:italic
-1680424	simple:italic
-1680426	simple:italic
-1680428	simple:italic
+1782721	simple:italic
+1782723	simple:italic
+1782725	simple:italic
+1782727	simple:italic
+1782729	simple:italic
+1782731	simple:italic
 simple:italic
-1680431	simple:italic
-1680433	simple:italic
-1680435	simple:italic
-1680437	simple:italic
-1680439	simple:italic
+1782734	simple:italic
+1782736	simple:italic
+1782738	simple:italic
+1782740	simple:italic
+1782742	simple:italic
 simple:italic
-1680442	simple:italic
+1782745	simple:italic
 simple:italic
-1680445	simple:italic
-1680447	simple:italic
-1680449	simple:italic
-1680451	simple:italic
-1680453	simple:italic
-1680455	simple:italic
-1680457	simple:italic
-1680459	simple:italic
-1680461	simple:italic
-1680463	simple:italic
-1680465	simple:italic
-1680467	simple:italic
-1680474	simple:italic
-1680476	simple:italic
-1680478	simple:italic
-1680480	simple:italic
-1680482	simple:italic
+1782748	simple:italic
+1782750	simple:italic
+1782752	simple:italic
+1782754	simple:italic
+1782756	simple:italic
+1782758	simple:italic
+1782760	simple:italic
+1782762	simple:italic
+1782764	simple:italic
+1782766	simple:italic
+1782768	simple:italic
+1782770	simple:italic
+1782777	simple:italic
+1782779	simple:italic
+1782781	simple:italic
+1782783	simple:italic
+1782785	simple:italic
 simple:italic
-1680485	simple:italic
-1680487	simple:italic
+1782788	simple:italic
+1782790	simple:italic
 simple:italic
-1680490	simple:italic
-1680492	simple:italic
+1782793	simple:italic
+1782795	simple:italic
 simple:italic
-1680495	simple:italic
+1782798	simple:italic
 simple:italic
 simple:italic
-1680499	simple:italic
-1680501	simple:italic
-1680503	simple:italic
+1782802	simple:italic
+1782804	simple:italic
+1782806	simple:italic
 simple:italic
-1680506	simple:italic
-1680508	simple:italic
-1680510	simple:italic
+1782809	simple:italic
+1782811	simple:italic
+1782813	simple:italic
 simple:italic
-1680513	simple:italic
+1782816	simple:italic
 simple:italic
-1680516	simple:italic
-1680518	simple:italic
-1680520	simple:italic
-1680522	simple:italic
+1782819	simple:italic
+1782821	simple:italic
+1782823	simple:italic
+1782825	simple:italic
 simple:italic
-1680525	simple:italic
-1680527	simple:italic
-1680529	simple:italic
-1680531	simple:italic
-1680533	simple:italic
-1680535	simple:italic
-1680537	simple:italic
-1680539	simple:italic
+1782828	simple:italic
+1782830	simple:italic
+1782832	simple:italic
+1782834	simple:italic
+1782836	simple:italic
+1782838	simple:italic
+1782840	simple:italic
+1782842	simple:italic
 simple:italic
-1680542	simple:italic
-1680544	simple:italic
-1680546	simple:italic
-1680548	simple:italic
-1680550	simple:italic
-1680552	simple:italic
-1680554	simple:italic
-1680556	simple:italic
-1680558	simple:italic
-1680560	simple:italic
-1680562	simple:italic
-1680568	simple:italic
+1782845	simple:italic
+1782847	simple:italic
+1782849	simple:italic
+1782851	simple:italic
+1782853	simple:italic
+1782855	simple:italic
+1782857	simple:italic
+1782859	simple:italic
+1782861	simple:italic
+1782863	simple:italic
+1782865	simple:italic
+1782871	simple:italic
 simple:italic
-1680571	simple:italic
+1782874	simple:italic
 simple:italic
-1680574	simple:italic
+1782877	simple:italic
 simple:italic
-1680577	simple:italic
+1782880	simple:italic
 simple:italic
-1680580	simple:italic
-1680582	simple:italic
-1680584	simple:italic
+1782883	simple:italic
+1782885	simple:italic
+1782887	simple:italic
 simple:italic
-1680587	simple:italic
+1782890	simple:italic
 simple:italic
-1680590	simple:italic
-1680592	simple:italic
-1680594	simple:italic
-1680596	simple:italic
+1782893	simple:italic
+1782895	simple:italic
+1782897	simple:italic
+1782899	simple:italic
 simple:italic
 simple:italic
-1680600	simple:italic
-1680602	simple:italic
+1782903	simple:italic
+1782905	simple:italic
 simple:italic
-1680605	simple:italic
-1680607	simple:italic
-1680609	simple:italic
-1680613	simple:italic
-1680615	simple:italic
+1782908	simple:italic
+1782910	simple:italic
+1782912	simple:italic
+1782916	simple:italic
+1782918	simple:italic
 simple:italic
-1680618	simple:italic
-1680620	simple:italic
-1680622	simple:italic
-1680624	simple:italic
+1782921	simple:italic
+1782923	simple:italic
+1782925	simple:italic
+1782927	simple:italic
 simple:italic
-1680627	simple:italic
-1680629	simple:italic
-1680631	simple:italic
-1680633	simple:italic
+1782930	simple:italic
+1782932	simple:italic
+1782934	simple:italic
+1782936	simple:italic
 simple:italic
-1680636	simple:italic
+1782939	simple:italic
 simple:italic
-1680639	simple:italic
-1680641	simple:italic
-1680643	simple:italic
-1680645	simple:italic
-1680647	simple:italic
-1680649	simple:italic
-1680651	simple:italic
-1680653	simple:italic
-1680655	simple:italic
-1680657	simple:italic
-1680659	simple:italic
-1680661	simple:italic
-1680713	simple:italic
-1680715	simple:italic
-1680717	simple:italic
+1782942	simple:italic
+1782944	simple:italic
+1782946	simple:italic
+1782948	simple:italic
+1782950	simple:italic
+1782952	simple:italic
+1782954	simple:italic
+1782956	simple:italic
+1782958	simple:italic
+1782960	simple:italic
+1782962	simple:italic
+1782964	simple:italic
+1783016	simple:italic
+1783018	simple:italic
+1783020	simple:italic
 simple:italic
-1680720	simple:italic
+1783023	simple:italic
 simple:italic
-1680723	simple:italic
+1783026	simple:italic
 simple:italic
-1680726	simple:italic
-1680728	simple:italic
+1783029	simple:italic
+1783031	simple:italic
 simple:italic
-1680731	simple:italic
-1680733	simple:italic
-1680735	simple:italic
-1680737	simple:italic
-1680739	simple:italic
-1680741	simple:italic
-1680743	simple:italic
-1680745	simple:italic
-1680747	simple:italic
-1680749	simple:italic
+1783034	simple:italic
+1783036	simple:italic
+1783038	simple:italic
+1783040	simple:italic
+1783042	simple:italic
+1783044	simple:italic
+1783046	simple:italic
+1783048	simple:italic
+1783050	simple:italic
+1783052	simple:italic
 simple:italic
-1680752	simple:italic
-1680754	simple:italic
-1680756	simple:italic
+1783055	simple:italic
+1783057	simple:italic
+1783059	simple:italic
 simple:italic
-1680759	simple:italic
-1680761	simple:italic
+1783062	simple:italic
+1783064	simple:italic
 simple:italic
-1680764	simple:italic
-1680766	simple:italic
-1680768	simple:italic
+1783067	simple:italic
+1783069	simple:italic
+1783071	simple:italic
 simple:italic
-1680771	simple:italic
-1680773	simple:italic
+1783074	simple:italic
+1783076	simple:italic
 simple:italic
-1680776	simple:italic
+1783079	simple:italic
 simple:italic
-1680779	simple:italic
-1680781	simple:italic
-1680783	simple:italic
+1783082	simple:italic
+1783084	simple:italic
+1783086	simple:italic
 simple:italic
-1680786	simple:italic
+1783089	simple:italic
 simple:italic
-1680789	simple:italic
+1783092	simple:italic
 simple:italic
-1680792	simple:italic
+1783095	simple:italic
 simple:italic
-1680795	simple:italic
-1680797	simple:italic
+1783098	simple:italic
+1783100	simple:italic
 simple:italic
-1680800	simple:italic
-1680802	simple:italic
-1680804	simple:italic
-1680806	simple:italic
-1680808	simple:italic
-1680810	simple:italic
-1680812	simple:italic
-1680814	simple:italic
-1680816	simple:italic
-1680818	simple:italic
-1680820	simple:italic
-1680822	simple:italic
+1783103	simple:italic
+1783105	simple:italic
+1783107	simple:italic
+1783109	simple:italic
+1783111	simple:italic
+1783113	simple:italic
+1783115	simple:italic
+1783117	simple:italic
+1783119	simple:italic
+1783121	simple:italic
+1783123	simple:italic
+1783125	simple:italic
 simple:italic
-1680825	simple:italic
+1783128	simple:italic
 simple:italic
-1680828	simple:italic
+1783131	simple:italic
 simple:italic
-1680831	simple:italic
-1680833	simple:italic
-1680835	simple:italic
-1680837	simple:italic
+1783134	simple:italic
+1783136	simple:italic
+1783138	simple:italic
+1783140	simple:italic
 simple:italic
-1680840	simple:italic
+1783143	simple:italic
 simple:italic
-1680843	simple:italic
-1680845	simple:italic
-1680847	simple:italic
+1783146	simple:italic
+1783148	simple:italic
+1783150	simple:italic
 simple:italic
-1680850	simple:italic
-1680852	simple:italic
+1783153	simple:italic
+1783155	simple:italic
 simple:italic
-1680855	simple:italic
+1783158	simple:italic
 simple:italic
-1680858	simple:italic
+1783161	simple:italic
 simple:italic
-1680861	simple:italic
-1680865	simple:italic
-1680867	simple:italic
-1680869	simple:italic
-1680871	simple:italic
+1783164	simple:italic
+1783168	simple:italic
+1783170	simple:italic
+1783172	simple:italic
+1783174	simple:italic
 simple:italic
-1680874	simple:italic
+1783177	simple:italic
 simple:italic
-1680877	simple:italic
+1783180	simple:italic
 simple:italic
-1680880	simple:italic
-1680882	simple:italic
+1783183	simple:italic
+1783185	simple:italic
 simple:italic
-1680885	simple:italic
-1680887	simple:italic
-1680889	simple:italic
-1680891	simple:italic
-1680893	simple:italic
-1680895	simple:italic
+1783188	simple:italic
+1783190	simple:italic
+1783192	simple:italic
+1783194	simple:italic
+1783196	simple:italic
+1783198	simple:italic
 simple:italic
-1680902	simple:italic
-1680904	simple:italic
+1783205	simple:italic
+1783207	simple:italic
 simple:italic
-1680907	simple:italic
+1783210	simple:italic
 simple:italic
-1680910	simple:italic
-1680912	simple:italic
+1783213	simple:italic
+1783215	simple:italic
 simple:italic
-1680915	simple:italic
+1783218	simple:italic
 simple:italic
-1680918	simple:italic
+1783221	simple:italic
 simple:italic
-1680921	simple:italic
+1783224	simple:italic
 simple:italic
-1680924	simple:italic
+1783227	simple:italic
 simple:italic
-1680927	simple:italic
+1783230	simple:italic
 simple:italic
-1680930	simple:italic
-1680932	simple:italic
-1680934	simple:italic
-1680936	simple:italic
+1783233	simple:italic
+1783235	simple:italic
+1783237	simple:italic
+1783239	simple:italic
 simple:italic
-1680939	simple:italic
+1783242	simple:italic
 simple:italic
-1680942	simple:italic
+1783245	simple:italic
 simple:italic
-1680945	simple:italic
-1680948	simple:italic
+1783248	simple:italic
+1783251	simple:italic
 simple:italic
-1680951	simple:italic
-1680953	simple:italic
+1783254	simple:italic
+1783256	simple:italic
 simple:italic
-1680956	simple:italic
-1680958	simple:italic
+1783259	simple:italic
+1783261	simple:italic
 simple:italic
-1680961	simple:italic
+1783264	simple:italic
 simple:italic
-1680964	simple:italic
+1783267	simple:italic
 simple:italic
-1680967	simple:italic
+1783270	simple:italic
 simple:italic
-1680970	simple:italic
+1783273	simple:italic
 simple:italic
-1680973	simple:italic
+1783276	simple:italic
 simple:italic
-1680976	simple:italic
+1783279	simple:italic
 simple:italic
-1680979	simple:italic
+1783282	simple:italic
 simple:italic
-1680982	simple:italic
+1783285	simple:italic
 simple:italic
-1680985	simple:italic
+1783288	simple:italic
 simple:italic
-1680988	simple:italic
+1783291	simple:italic
 simple:italic
-1680991	simple:italic
-1680993	simple:italic
+1783294	simple:italic
+1783296	simple:italic
 simple:italic
-1680996	simple:italic
-1680998	simple:italic
+1783299	simple:italic
+1783301	simple:italic
 simple:italic
-1681001	simple:italic
+1783304	simple:italic
 simple:italic
-1681004	simple:italic
+1783307	simple:italic
 simple:italic
-1681007	simple:italic
+1783310	simple:italic
 simple:italic
-1681010	simple:italic
+1783313	simple:italic
 simple:italic
-1681013	simple:italic
-1681015	simple:italic
-1681017	simple:italic
-1681019	simple:italic
+1783316	simple:italic
+1783318	simple:italic
+1783320	simple:italic
+1783322	simple:italic
 simple:italic
-1681022	simple:italic
+1783325	simple:italic
 simple:italic
-1681025	simple:italic
+1783328	simple:italic
 simple:italic
-1681028	simple:italic
-1681030	simple:italic
-1681032	simple:italic
+1783331	simple:italic
+1783333	simple:italic
+1783335	simple:italic
 simple:italic
-1681035	simple:italic
-1681037	simple:italic
+1783338	simple:italic
+1783340	simple:italic
 simple:italic
-1681040	simple:italic
-1681073	simple:italic
-1681075	simple:italic
-1681077	simple:italic
+1783343	simple:italic
+1783376	simple:italic
+1783378	simple:italic
+1783380	simple:italic
 simple:italic
-1681080	simple:italic
+1783383	simple:italic
 simple:italic
 simple:italic
-1681084	simple:italic
-1681086	simple:italic
+1783387	simple:italic
+1783389	simple:italic
 simple:italic
-1681089	simple:italic
-1681091	simple:italic
-1681093	simple:italic
+1783392	simple:italic
+1783394	simple:italic
+1783396	simple:italic
 simple:italic
-1681096	simple:italic
+1783399	simple:italic
 simple:italic
-1681099	simple:italic
+1783402	simple:italic
 simple:italic
-1681102	simple:italic
+1783405	simple:italic
 simple:italic
-1681105	simple:italic
-1681107	simple:italic
-1681109	simple:italic
+1783408	simple:italic
+1783410	simple:italic
+1783412	simple:italic
 simple:italic
 simple:italic
-1681113	simple:italic
+1783416	simple:italic
 simple:italic
-1681116	simple:italic
+1783419	simple:italic
 simple:italic
-1681119	simple:italic
+1783422	simple:italic
 simple:italic
-1681122	simple:italic
+1783425	simple:italic
 simple:italic
-1681125	simple:italic
+1783428	simple:italic
 simple:italic
-1681128	simple:italic
+1783431	simple:italic
 simple:italic
-1681131	simple:italic
-1681133	simple:italic
+1783434	simple:italic
+1783436	simple:italic
 simple:italic
-1681136	simple:italic
+1783439	simple:italic
 simple:italic
-1681139	simple:italic
+1783442	simple:italic
 simple:italic
-1681142	simple:italic
+1783445	simple:italic
 simple:italic
-1681145	simple:italic
+1783448	simple:italic
 simple:italic
-1681148	simple:italic
-1681150	simple:italic
-1681152	simple:italic
-1681154	simple:italic
+1783451	simple:italic
+1783453	simple:italic
+1783455	simple:italic
+1783457	simple:italic
 simple:italic
-1681163	simple:italic
-1681165	simple:italic
+1783466	simple:italic
+1783468	simple:italic
 simple:italic
-1681168	simple:italic
-1681170	simple:italic
-1681172	simple:italic
+1783471	simple:italic
+1783473	simple:italic
+1783475	simple:italic
 simple:italic
 simple:italic
-1681176	simple:italic
-1681178	simple:italic
+1783479	simple:italic
+1783481	simple:italic
 simple:bold
-1681181	simple:italic
-1681183	simple:italic
-1681185	simple:italic
+1783484	simple:italic
+1783486	simple:italic
+1783488	simple:italic
 simple:italic
-1681188	simple:italic
-1681190	simple:italic
-1681192	simple:italic
-1681194	simple:italic
+1783491	simple:italic
+1783493	simple:italic
+1783495	simple:italic
+1783497	simple:italic
 simple:italic
-1681197	simple:italic
-1681199	simple:italic
-1681201	simple:italic
+1783500	simple:italic
+1783502	simple:italic
+1783504	simple:italic
 simple:italic
-1681204	simple:italic
+1783507	simple:italic
 simple:italic
-1681207	simple:italic
-1681209	simple:italic
-1681211	simple:italic
-1681216	simple:italic
-1681218	simple:italic
+1783510	simple:italic
+1783512	simple:italic
+1783514	simple:italic
+1783519	simple:italic
+1783521	simple:italic
 simple:italic
-1681221	simple:italic
+1783524	simple:italic
 simple:italic
-1681224	simple:italic
+1783527	simple:italic
 simple:italic
-1681227	simple:italic
-1681229	simple:italic
+1783530	simple:italic
+1783532	simple:italic
 simple:italic
-1681232	simple:italic
+1783535	simple:italic
 simple:italic
-1681235	simple:italic
+1783538	simple:italic
 simple:italic
-1681238	simple:italic
+1783541	simple:italic
 simple:italic
-1681241	simple:italic
-1681243	simple:italic
-1681245	simple:italic
+1783544	simple:italic
+1783546	simple:italic
+1783548	simple:italic
 simple:italic
 simple:italic
-1681249	simple:italic
+1783552	simple:italic
 simple:italic
-1681252	simple:italic
+1783555	simple:italic
 simple:italic
-1681255	simple:italic
-1681257	simple:italic
-1681259	simple:italic
-1681261	simple:italic
+1783558	simple:italic
+1783560	simple:italic
+1783562	simple:italic
+1783564	simple:italic
 simple:italic
-1681264	simple:italic
+1783567	simple:italic
 simple:italic
-1681267	simple:italic
-1681269	simple:italic
-1681271	simple:italic
-1681283	simple:italic
-1681285	simple:italic
+1783570	simple:italic
+1783572	simple:italic
+1783574	simple:italic
+1783586	simple:italic
+1783588	simple:italic
 simple:italic
-1681288	simple:italic
+1783591	simple:italic
 simple:italic
-1681291	simple:italic
+1783594	simple:italic
 simple:italic
-1681294	simple:italic
-1681296	simple:italic
+1783597	simple:italic
+1783599	simple:italic
 simple:italic
-1681299	simple:italic
-1681301	simple:italic
+1783602	simple:italic
+1783604	simple:italic
 simple:italic
-1681304	simple:italic
+1783607	simple:italic
 simple:italic
-1681307	simple:italic
+1783610	simple:italic
 simple:italic
-1681310	simple:italic
-1681312	simple:italic
+1783613	simple:italic
+1783615	simple:italic
 simple:italic
-1681315	simple:italic
+1783618	simple:italic
 simple:italic
-1681318	simple:italic
-1681320	simple:italic
+1783621	simple:italic
+1783623	simple:italic
 simple:italic
-1681323	simple:italic
+1783626	simple:italic
 simple:italic
-1681326	simple:italic
+1783629	simple:italic
 simple:italic
-1681329	simple:italic
+1783632	simple:italic
 simple:italic
-1681332	simple:italic
-1681334	simple:italic
-1681336	simple:italic
+1783635	simple:italic
+1783637	simple:italic
+1783639	simple:italic
 simple:italic
-1681339	simple:italic
-1681341	simple:italic
+1783642	simple:italic
+1783644	simple:italic
 simple:italic
-1681344	simple:italic
+1783647	simple:italic
 simple:italic
-1681347	simple:italic
+1783650	simple:italic
 simple:italic
-1681350	simple:italic
+1783653	simple:italic
 simple:italic
-1681353	simple:italic
-1681355	simple:italic
-1681357	simple:italic
-1681359	simple:italic
+1783656	simple:italic
+1783658	simple:italic
+1783660	simple:italic
+1783662	simple:italic
 simple:italic
-1681362	simple:italic
+1783665	simple:italic
 simple:italic
-1681365	simple:italic
+1783668	simple:italic
 simple:italic
-1681368	simple:italic
+1783671	simple:italic
 simple:italic
-1681371	simple:italic
-1681373	simple:italic
-1681375	simple:italic
+1783674	simple:italic
+1783676	simple:italic
+1783678	simple:italic
 simple:italic
-1681378	simple:italic
-1681380	simple:italic
-1681382	simple:italic
+1783681	simple:italic
+1783683	simple:italic
+1783685	simple:italic
 simple:italic
-1681385	simple:italic
+1783688	simple:italic
 simple:italic
 simple:italic
-1681389	simple:italic
+1783692	simple:italic
 simple:italic
-1681392	simple:italic
+1783695	simple:italic
 simple:italic
-1681395	simple:italic
-1681397	simple:italic
-1681399	simple:italic
-1681401	simple:italic
-1681403	simple:italic
+1783698	simple:italic
+1783700	simple:italic
+1783702	simple:italic
+1783704	simple:italic
+1783706	simple:italic
 simple:italic
-1681406	simple:italic
-1681408	simple:italic
+1783709	simple:italic
+1783711	simple:italic
 simple:italic
-1681411	simple:italic
+1783714	simple:italic
 simple:italic
-1681414	simple:italic
+1783717	simple:italic
 simple:italic
-1681417	simple:italic
+1783720	simple:italic
 simple:italic
-1681420	simple:italic
-1681422	simple:italic
+1783723	simple:italic
+1783725	simple:italic
 simple:italic
-1681425	simple:italic
-1681427	simple:italic
-1681429	simple:italic
+1783728	simple:italic
+1783730	simple:italic
+1783732	simple:italic
 simple:italic
-1681432	simple:italic
+1783735	simple:italic
 simple:italic
-1681435	simple:italic
-1681437	simple:italic
+1783738	simple:italic
+1783740	simple:italic
 simple:italic
-1681440	simple:italic
-1681442	simple:italic
-1681444	simple:italic
+1783743	simple:italic
+1783745	simple:italic
+1783747	simple:italic
 simple:italic
-1681447	simple:italic
-1681449	simple:italic
+1783750	simple:italic
+1783752	simple:italic
 simple:italic
-1681452	simple:italic
-1681454	simple:italic
-1681456	simple:italic
+1783755	simple:italic
+1783757	simple:italic
+1783759	simple:italic
 simple:italic
 simple:italic
-1681460	simple:italic
+1783763	simple:italic
 simple:italic
-1681463	simple:italic
-1681465	simple:italic
-1681467	simple:italic
-1681469	simple:italic
-1681471	simple:italic
+1783766	simple:italic
+1783768	simple:italic
+1783770	simple:italic
+1783772	simple:italic
+1783774	simple:italic
 simple:italic
-1681474	simple:italic
+1783777	simple:italic
 simple:italic
-1681477	simple:italic
+1783780	simple:italic
 simple:italic
-1681480	simple:italic
-1681482	simple:italic
+1783783	simple:italic
+1783785	simple:italic
 simple:italic
-1681485	simple:italic
+1783788	simple:italic
 simple:italic
-1681488	simple:italic
+1783791	simple:italic
 simple:italic
-1681491	simple:italic
-1681493	simple:italic
+1783794	simple:italic
+1783796	simple:italic
 simple:italic
-1681506	simple:italic
+1783809	simple:italic
 simple:italic
-1681509	simple:italic
+1783812	simple:italic
 simple:italic
-1681512	simple:italic
+1783815	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1681517	simple:italic
-1681519	simple:italic
-1681521	simple:italic
+1783820	simple:italic
+1783822	simple:italic
+1783824	simple:italic
 simple:italic
-1681524	simple:italic
+1783827	simple:italic
 simple:italic
-1681527	simple:italic
-1681529	simple:italic
+1783830	simple:italic
+1783832	simple:italic
 simple:italic
-1681532	simple:italic
+1783835	simple:italic
 simple:italic
-1681535	simple:italic
+1783838	simple:italic
 simple:italic
-1681538	simple:italic
-1681540	simple:italic
-1681542	simple:italic
-1681544	simple:italic
-1681549	simple:italic
+1783841	simple:italic
+1783843	simple:italic
+1783845	simple:italic
+1783847	simple:italic
+1783852	simple:italic
 simple:italic
-1681552	simple:italic
+1783855	simple:italic
 simple:italic
-1681555	simple:italic
+1783858	simple:italic
 simple:italic
-1681558	simple:italic
+1783861	simple:italic
 simple:italic
-1681561	simple:italic
-1681563	simple:italic
+1783864	simple:italic
+1783866	simple:italic
 simple:italic
-1681566	simple:italic
+1783869	simple:italic
 simple:italic
-1681569	simple:italic
+1783872	simple:italic
 simple:italic
-1681572	simple:italic
-1681574	simple:italic
-1681576	simple:italic
+1783875	simple:italic
+1783877	simple:italic
+1783879	simple:italic
 simple:italic
-1681579	simple:italic
-1681581	simple:italic
-1681583	simple:italic
+1783882	simple:italic
+1783884	simple:italic
+1783886	simple:italic
 simple:italic
-1681586	simple:italic
+1783889	simple:italic
 simple:italic
-1681600	simple:italic
-1681602	simple:italic
-1681604	simple:italic
-1681606	simple:italic
-1681608	simple:italic
-1681610	simple:italic
-1681612	simple:italic
+1783903	simple:italic
+1783905	simple:italic
+1783907	simple:italic
+1783909	simple:italic
+1783911	simple:italic
+1783913	simple:italic
+1783915	simple:italic
 simple:italic
-1681615	simple:italic
-1681617	simple:italic
-1681619	simple:italic
+1783918	simple:italic
+1783920	simple:italic
+1783922	simple:italic
 simple:italic
-1681622	simple:italic
-1681624	simple:italic
+1783925	simple:italic
+1783927	simple:italic
 simple:bold
-1681627	simple:italic
-1681629	simple:italic
-1681631	simple:italic
+1783930	simple:italic
+1783932	simple:italic
+1783934	simple:italic
 simple:italic
-1681634	simple:italic
+1783937	simple:italic
 simple:italic
-1681637	simple:italic
-1681639	simple:italic
+1783940	simple:italic
+1783942	simple:italic
 simple:italic
-1681642	simple:italic
+1783945	simple:italic
 simple:italic
 simple:italic
-1681646	simple:italic
-1681648	simple:italic
-1681650	simple:italic
-1681652	simple:italic
+1783949	simple:italic
+1783951	simple:italic
+1783953	simple:italic
+1783955	simple:italic
 simple:italic
-1681655	simple:italic
-1681657	simple:italic
+1783958	simple:italic
+1783960	simple:italic
 simple:italic
-1681660	simple:italic
-1681662	simple:italic
+1783963	simple:italic
+1783965	simple:italic
 simple:italic
 simple:italic
-1681666	simple:italic
-1681668	simple:italic
+1783969	simple:italic
+1783971	simple:italic
 simple:italic
 simple:italic
 simple:italic
 simple:italic
-1681674	simple:italic
+1783977	simple:italic
 simple:italic
-1681677	simple:italic
-1681679	simple:italic
-1681681	simple:italic
-1681683	simple:italic
+1783980	simple:italic
+1783982	simple:italic
+1783984	simple:italic
+1783986	simple:italic
 simple:italic
-1681686	simple:italic
-1681688	simple:italic
-1681690	simple:italic
-1681692	simple:italic
-1681694	simple:italic
-1681696	simple:italic
-1681698	simple:italic
-1681700	simple:italic
-1681702	simple:italic
+1783989	simple:italic
+1783991	simple:italic
+1783993	simple:italic
+1783995	simple:italic
+1783997	simple:italic
+1783999	simple:italic
+1784001	simple:italic
+1784003	simple:italic
+1784005	simple:italic
 simple:italic
-1681705	simple:italic
-1681707	simple:italic
-1681709	simple:italic
-1681711	simple:italic
+1784008	simple:italic
+1784010	simple:italic
+1784012	simple:italic
+1784014	simple:italic
 simple:italic
-1681714	simple:italic
-1681716	simple:italic
+1784017	simple:italic
+1784019	simple:italic
 simple:italic
-1681719	simple:italic
-1681721	simple:italic
-1681723	simple:italic
-1681725	simple:italic
+1784022	simple:italic
+1784024	simple:italic
+1784026	simple:italic
+1784028	simple:italic
 simple:italic
-1681728	simple:italic
-1681730	simple:italic
+1784031	simple:italic
+1784033	simple:italic
 simple:italic
-1681733	simple:italic
-1681735	simple:italic
+1784036	simple:italic
+1784038	simple:italic
 simple:italic
-1681738	simple:italic
-1681740	simple:italic
-1681742	simple:italic
+1784041	simple:italic
+1784043	simple:italic
+1784045	simple:italic
 simple:italic
-1681745	simple:italic
+1784048	simple:italic
 simple:italic
-1681748	simple:italic
-1681750	simple:italic
+1784051	simple:italic
+1784053	simple:italic
 simple:italic
-1681753	simple:italic
+1784056	simple:italic
 simple:italic
-1681756	simple:italic
-1681763	simple:italic
-1681791	simple:italic
+1784059	simple:italic
+1784066	simple:italic
+1784094	simple:italic
 simple:italic
-1681794	simple:italic
+1784097	simple:italic
 simple:italic
-1681797	simple:italic
-1681799	simple:italic
-1681801	simple:italic
+1784100	simple:italic
+1784102	simple:italic
+1784104	simple:italic
 simple:italic
-1681804	simple:italic
-1681806	simple:italic
-1681808	simple:italic
+1784107	simple:italic
+1784109	simple:italic
+1784111	simple:italic
 simple:italic
-1681811	simple:italic
-1681813	simple:italic
+1784114	simple:italic
+1784116	simple:italic
 simple:italic
-1681816	simple:italic
-1681818	simple:italic
-1681820	simple:italic
-1681822	simple:italic
+1784119	simple:italic
+1784121	simple:italic
+1784123	simple:italic
+1784125	simple:italic
 simple:italic
-1681825	simple:italic
+1784128	simple:italic
 simple:italic
-1681828	simple:italic
+1784131	simple:italic
 simple:italic
-1681831	simple:italic
-1681833	simple:italic
+1784134	simple:italic
+1784136	simple:italic
 simple:italic
-1681836	simple:italic
-1681838	simple:italic
-1681840	simple:italic
+1784139	simple:italic
+1784141	simple:italic
+1784143	simple:italic
 simple:italic
-1681843	simple:italic
+1784146	simple:italic
 simple:italic
-1681846	simple:italic
+1784149	simple:italic
 simple:italic
-1681849	simple:italic
-1681851	simple:italic
-1681853	simple:italic
+1784152	simple:italic
+1784154	simple:italic
+1784156	simple:italic
 simple:italic
-1681856	simple:italic
+1784159	simple:italic
 simple:italic
-1681859	simple:italic
-1681861	simple:italic
+1784162	simple:italic
+1784164	simple:italic
 simple:italic
 simple:italic
-1681865	simple:italic
+1784168	simple:italic
 simple:italic
-1681868	simple:italic
+1784171	simple:italic
 simple:italic
-1681871	simple:italic
+1784174	simple:italic
 simple:italic
-1681874	simple:italic
-1681876	simple:italic
-1681878	simple:italic
+1784177	simple:italic
+1784179	simple:italic
+1784181	simple:italic
 simple:italic
-1681881	simple:italic
-1681883	simple:italic
-1681885	simple:italic
-1681901	simple:italic
-1681903	simple:italic
+1784184	simple:italic
+1784186	simple:italic
+1784188	simple:italic
+1784204	simple:italic
+1784206	simple:italic
 simple:italic
-1681906	simple:italic
-1681908	simple:italic
-1681910	simple:italic
+1784209	simple:italic
+1784211	simple:italic
+1784213	simple:italic
 simple:italic
 simple:italic
-1681914	simple:italic
-1681916	simple:italic
-1681918	simple:italic
-1681920	simple:italic
-1681922	simple:italic
-1681924	simple:italic
-1681926	simple:italic
-1681928	simple:italic
-1681930	simple:italic
-1681932	simple:italic
-1681934	simple:italic
-1681936	simple:italic
-1681938	simple:italic
-1681940	simple:italic
+1784217	simple:italic
+1784219	simple:italic
+1784221	simple:italic
+1784223	simple:italic
+1784225	simple:italic
+1784227	simple:italic
+1784229	simple:italic
+1784231	simple:italic
+1784233	simple:italic
+1784235	simple:italic
+1784237	simple:italic
+1784239	simple:italic
+1784241	simple:italic
+1784243	simple:italic
 simple:italic
-1681943	simple:italic
-1681945	simple:italic
+1784246	simple:italic
+1784248	simple:italic
 simple:italic
-1681948	simple:italic
-1681950	simple:italic
+1784251	simple:italic
+1784253	simple:italic
 simple:italic
-1681953	simple:italic
-1681955	simple:italic
-1681957	simple:italic
-1681959	simple:italic
+1784256	simple:italic
+1784258	simple:italic
+1784260	simple:italic
+1784262	simple:italic
 simple:italic
-1681962	simple:italic
+1784265	simple:italic
 simple:italic
-1681965	simple:italic
-1681967	simple:italic
+1784268	simple:italic
+1784270	simple:italic
 simple:italic
-1681970	simple:italic
-1681972	simple:italic
+1784273	simple:italic
+1784275	simple:italic
 simple:italic
-1681975	simple:italic
-1681977	simple:italic
-1681979	simple:italic
+1784278	simple:italic
+1784280	simple:italic
+1784282	simple:italic
 simple:italic
-1681982	simple:italic
-1681984	simple:italic
+1784285	simple:italic
+1784287	simple:italic
 simple:italic
-1681987	simple:italic
-1681989	simple:italic
-1681991	simple:italic
-1681993	simple:italic
+1784290	simple:italic
+1784292	simple:italic
+1784294	simple:italic
+1784296	simple:italic
 simple:italic
-1681996	simple:italic
+1784299	simple:italic
 simple:italic
-1681999	simple:italic
+1784302	simple:italic
 simple:italic
-1682002	simple:italic
+1784305	simple:italic
 simple:italic
-1682005	simple:italic
-1682007	simple:italic
-1682009	simple:italic
-1682011	simple:italic
-1682013	simple:italic
+1784308	simple:italic
+1784310	simple:italic
+1784312	simple:italic
+1784314	simple:italic
+1784316	simple:italic
 simple:italic
-1682016	simple:italic
-1682018	simple:italic
+1784319	simple:italic
+1784321	simple:italic
 simple:italic
-1682021	simple:italic
+1784324	simple:italic
 simple:italic
-1682024	simple:italic
+1784327	simple:italic
 simple:italic
-1682034	simple:italic
-1682036	simple:italic
+1784337	simple:italic
+1784339	simple:italic
 simple:italic
-1682039	simple:italic
+1784342	simple:italic
 simple:italic
-1682042	simple:italic
+1784345	simple:italic
 simple:italic
-1682045	simple:italic
-1682047	simple:italic
+1784348	simple:italic
+1784350	simple:italic
 simple:italic
-1682050	simple:italic
+1784353	simple:italic
 simple:italic
-1682053	simple:italic
-1682055	simple:italic
+1784356	simple:italic
+1784358	simple:italic
 simple:italic
-1682058	simple:italic
+1784361	simple:italic
 simple:italic
-1682061	simple:italic
-1682063	simple:italic
-1682065	simple:italic
-1682067	simple:italic
-1682069	simple:italic
-1682071	simple:italic
+1784364	simple:italic
+1784366	simple:italic
+1784368	simple:italic
+1784370	simple:italic
+1784372	simple:italic
+1784374	simple:italic
 simple:italic
-1682074	simple:italic
+1784377	simple:italic
 simple:italic
-1682077	simple:italic
-1682079	simple:italic
-1682081	simple:italic
+1784380	simple:italic
+1784382	simple:italic
+1784384	simple:italic
 simple:italic
-1682084	simple:italic
+1784387	simple:italic
 simple:italic
-1682087	simple:italic
+1784390	simple:italic
 simple:italic
-1682090	simple:italic
+1784393	simple:italic
 simple:italic
-1682093	simple:italic
-1682095	simple:italic
-1682097	simple:italic
+1784396	simple:italic
+1784398	simple:italic
+1784400	simple:italic
 simple:italic
-1682100	simple:italic
+1784403	simple:italic
 simple:italic
-1682103	simple:italic
-1682105	simple:italic
-1682107	simple:italic
+1784406	simple:italic
+1784408	simple:italic
+1784410	simple:italic
 simple:italic
-1682110	simple:italic
-1682112	simple:italic
+1784413	simple:italic
+1784415	simple:italic
 simple:italic
-1682115	simple:italic
+1784418	simple:italic
 simple:italic
-1682118	simple:italic
-1682120	simple:italic
-1682122	simple:italic
-1682124	simple:italic
-1682996	simple:italic
-1683026	simple:italic
-1683352	simple:italic
-1684329	simple:italic
+1784421	simple:italic
+1784423	simple:italic
+1784425	simple:italic
+1784427	simple:italic
+1785299	simple:italic
+1785329	simple:italic
+1785655	simple:italic
+1786632	simple:italic
 simple:italic
-1684332	simple:italic
-1684334	simple:italic
-1684336	simple:italic
-1684338	simple:italic
-1684340	simple:italic
+1786635	simple:italic
+1786637	simple:italic
+1786639	simple:italic
+1786641	simple:italic
+1786643	simple:italic
 simple:italic
-1684343	simple:italic
-1684345	simple:italic
-1684347	simple:italic
-1684349	simple:italic
-1684351	simple:italic
-1684353	simple:italic
-1684355	simple:italic
-1684357	simple:italic
-1684359	simple:italic
-1684361	simple:italic
-1684363	simple:italic
+1786646	simple:italic
+1786648	simple:italic
+1786650	simple:italic
+1786652	simple:italic
+1786654	simple:italic
+1786656	simple:italic
+1786658	simple:italic
+1786660	simple:italic
+1786662	simple:italic
+1786664	simple:italic
+1786666	simple:italic
 simple:italic
-1684366	simple:italic
-1684368	simple:italic
+1786669	simple:italic
+1786671	simple:italic
 simple:italic
-1684373	simple:italic
-1684375	simple:italic
+1786676	simple:italic
+1786678	simple:italic
 simple:italic
-1684378	simple:italic
-1684380	simple:italic
-1684382	simple:italic
+1786681	simple:italic
+1786683	simple:italic
+1786685	simple:italic
 simple:italic
-1684385	simple:italic
+1786688	simple:italic
 simple:italic
-1684388	simple:italic
-1684390	simple:italic
+1786691	simple:italic
+1786693	simple:italic
 simple:italic
-1684393	simple:italic
-1684395	simple:italic
-1684400	simple:italic
-1684402	simple:italic
-1684404	simple:italic
-1684406	simple:italic
-1684408	simple:italic
-1684410	simple:italic
-1684412	simple:italic
-1684414	simple:italic
-1684416	simple:italic
-1684418	simple:italic
-1684420	simple:italic
-1684422	simple:italic
-1684424	simple:italic
+1786696	simple:italic
+1786698	simple:italic
+1786703	simple:italic
+1786705	simple:italic
+1786707	simple:italic
+1786709	simple:italic
+1786711	simple:italic
+1786713	simple:italic
+1786715	simple:italic
+1786717	simple:italic
+1786719	simple:italic
+1786721	simple:italic
+1786723	simple:italic
+1786725	simple:italic
+1786727	simple:italic
 simple:italic
-1684427	simple:italic
+1786730	simple:italic
 simple:italic
-1684436	simple:italic
+1786739	simple:italic
 simple:italic
-1684439	simple:italic
+1786742	simple:italic
 simple:italic
-1684442	simple:italic
+1786745	simple:italic
 simple:italic
-1684445	simple:italic
-1684447	simple:italic
-1684449	simple:italic
-1684451	simple:italic
-1684453	simple:italic
-1684455	simple:italic
-1684457	simple:italic
-1684459	simple:italic
-1684461	simple:italic
+1786748	simple:italic
+1786750	simple:italic
+1786752	simple:italic
+1786754	simple:italic
+1786756	simple:italic
+1786758	simple:italic
+1786760	simple:italic
+1786762	simple:italic
+1786764	simple:italic
 simple:italic
-1684464	simple:italic
-1684466	simple:italic
-1684468	simple:italic
+1786767	simple:italic
+1786769	simple:italic
+1786771	simple:italic
 simple:italic
-1684471	simple:italic
-1684473	simple:italic
+1786774	simple:italic
+1786776	simple:italic
 simple:italic
-1684480	simple:italic
+1786783	simple:italic
 simple:italic
-1684483	simple:italic
+1786786	simple:italic
 simple:italic
 simple:italic
-1684487	simple:italic
-1684489	simple:italic
-1684491	simple:italic
+1786790	simple:italic
+1786792	simple:italic
+1786794	simple:italic
 simple:italic
-1684494	simple:italic
-1684497	simple:italic
-1684499	simple:italic
-1684501	simple:italic
-1684503	simple:italic
-1684505	simple:italic
-1684507	simple:italic
+1786797	simple:italic
+1786800	simple:italic
+1786802	simple:italic
+1786804	simple:italic
+1786806	simple:italic
+1786808	simple:italic
+1786810	simple:italic
 simple:italic
-1684513	simple:italic
+1786816	simple:italic
 simple:italic
-1684516	simple:italic
+1786819	simple:italic
 simple:italic
-1684519	simple:italic
-1684521	simple:italic
+1786822	simple:italic
+1786824	simple:italic
 simple:italic
-1684524	simple:italic
-1684526	simple:italic
+1786827	simple:italic
+1786829	simple:italic
 simple:italic
-1684529	simple:italic
+1786832	simple:italic
 simple:italic
-1684532	simple:italic
-1684534	simple:italic
-1684536	simple:italic
-1684542	simple:italic
+1786835	simple:italic
+1786837	simple:italic
+1786839	simple:italic
+1786845	simple:italic
 simple:italic
-1684545	simple:italic
-1684547	simple:italic
+1786848	simple:italic
+1786850	simple:italic
 simple:italic
 simple:italic
-1684551	simple:italic
-1684553	simple:italic
-1684555	simple:italic
-1684557	simple:italic
+1786854	simple:italic
+1786856	simple:italic
+1786858	simple:italic
+1786860	simple:italic
 simple:italic
-1684560	simple:italic
-1684562	simple:italic
-1684564	simple:italic
-1684566	simple:italic
-1684568	simple:italic
-1684574	simple:italic
-1684576	simple:italic
-1684578	simple:italic
-1684580	simple:italic
+1786863	simple:italic
+1786865	simple:italic
+1786867	simple:italic
+1786869	simple:italic
+1786871	simple:italic
+1786877	simple:italic
+1786879	simple:italic
+1786881	simple:italic
+1786883	simple:italic
 simple:italic
-1684583	simple:italic
+1786886	simple:italic
 simple:italic
-1684586	simple:italic
-1684588	simple:italic
-1684590	simple:italic
+1786889	simple:italic
+1786891	simple:italic
+1786893	simple:italic
 simple:italic
-1684593	simple:italic
-1684599	simple:italic
+1786896	simple:italic
+1786902	simple:italic
 simple:italic
-1684602	simple:italic
-1684604	simple:italic
-1684606	simple:italic
+1786905	simple:italic
+1786907	simple:italic
+1786909	simple:italic
 simple:italic
-1684609	simple:italic
-1684611	simple:italic
-1684613	simple:italic
+1786912	simple:italic
+1786914	simple:italic
+1786916	simple:italic
 simple:italic
-1684616	simple:italic
+1786919	simple:italic
 simple:italic
-1684619	simple:italic
-1684621	simple:italic
-1684623	simple:italic
-1684625	simple:italic
-1684627	simple:italic
+1786922	simple:italic
+1786924	simple:italic
+1786926	simple:italic
+1786928	simple:italic
+1786930	simple:italic
 simple:italic
-1684630	simple:italic
-1684632	simple:italic
-1684634	simple:italic
-1684636	simple:italic
-1684638	simple:italic
-1684640	simple:italic
+1786933	simple:italic
+1786935	simple:italic
+1786937	simple:italic
+1786939	simple:italic
+1786941	simple:italic
+1786943	simple:italic
 simple:italic
-1684643	simple:italic
+1786946	simple:italic
 simple:italic
-1684646	simple:italic
+1786949	simple:italic
 simple:italic
-1684649	simple:italic
-1684651	simple:italic
+1786952	simple:italic
+1786954	simple:italic
 simple:italic
-1684654	simple:italic
+1786957	simple:italic
 simple:italic
-1684657	simple:italic
-1684659	simple:italic
-1684661	simple:italic
+1786960	simple:italic
+1786962	simple:italic
+1786964	simple:italic
 simple:italic
-1684664	simple:italic
+1786967	simple:italic
 simple:italic
-1684669	simple:italic
-1684671	simple:italic
-1684673	simple:italic
+1786972	simple:italic
+1786974	simple:italic
+1786976	simple:italic
 simple:italic
-1684676	simple:italic
-1684678	simple:italic
-1684684	simple:italic
-1684686	simple:italic
-1684688	simple:italic
-1684690	simple:italic
-1684692	simple:italic
-1684694	simple:italic
-1684696	simple:italic
-1684698	simple:italic
-1684700	simple:italic
-1684702	simple:italic
-1684704	simple:italic
-1684706	simple:italic
-1684708	simple:italic
-1684710	simple:italic
-1684712	simple:italic
+1786979	simple:italic
+1786981	simple:italic
+1786987	simple:italic
+1786989	simple:italic
+1786991	simple:italic
+1786993	simple:italic
+1786995	simple:italic
+1786997	simple:italic
+1786999	simple:italic
+1787001	simple:italic
+1787003	simple:italic
+1787005	simple:italic
+1787007	simple:italic
+1787009	simple:italic
+1787011	simple:italic
+1787013	simple:italic
+1787015	simple:italic
 simple:italic
-1684715	simple:italic
-1684717	simple:italic
-1684719	simple:italic
-1684721	simple:italic
-1684725	simple:italic
+1787018	simple:italic
+1787020	simple:italic
+1787022	simple:italic
+1787024	simple:italic
+1787028	simple:italic
 simple:italic
-1684728	simple:italic
-1684730	simple:italic
-1684732	simple:italic
+1787031	simple:italic
+1787033	simple:italic
+1787035	simple:italic
 simple:italic
-1684735	simple:italic
-1684737	simple:italic
-1684739	simple:italic
-1684741	simple:italic
-1684743	simple:italic
+1787038	simple:italic
+1787040	simple:italic
+1787042	simple:italic
+1787044	simple:italic
+1787046	simple:italic
 simple:italic
-1684746	simple:italic
-1684748	simple:italic
-1684761	simple:italic
-1684763	simple:italic
-1684765	simple:italic
-1684767	simple:italic
+1787049	simple:italic
+1787051	simple:italic
+1787064	simple:italic
+1787066	simple:italic
+1787068	simple:italic
+1787070	simple:italic
 simple:italic
-1684770	simple:italic
-1684772	simple:italic
-1684774	simple:italic
-1684776	simple:italic
-1684778	simple:italic
-1684780	simple:italic
-1684782	simple:italic
-1684784	simple:italic
-1684786	simple:italic
+1787073	simple:italic
+1787075	simple:italic
+1787077	simple:italic
+1787079	simple:italic
+1787081	simple:italic
+1787083	simple:italic
+1787085	simple:italic
+1787087	simple:italic
+1787089	simple:italic
 simple:italic
-1684789	simple:italic
-1684791	simple:italic
-1684797	simple:italic
-1684799	simple:italic
-1684801	simple:italic
+1787092	simple:italic
+1787094	simple:italic
+1787100	simple:italic
+1787102	simple:italic
+1787104	simple:italic
 simple:italic
-1684804	simple:italic
+1787107	simple:italic
 simple:italic
-1684807	simple:italic
-1684809	simple:italic
-1684811	simple:italic
-1684813	simple:italic
-1684815	simple:italic
+1787110	simple:italic
+1787112	simple:italic
+1787114	simple:italic
+1787116	simple:italic
+1787118	simple:italic
 simple:italic
-1684818	simple:italic
+1787121	simple:italic
 simple:italic
-1684821	simple:italic
-1684840	simple:italic
-1684842	simple:italic
-1684844	simple:italic
-1684846	simple:italic
-1684848	simple:italic
-1684850	simple:italic
-1684852	simple:italic
-1684854	simple:italic
+1787124	simple:italic
+1787143	simple:italic
+1787145	simple:italic
+1787147	simple:italic
+1787149	simple:italic
+1787151	simple:italic
+1787153	simple:italic
+1787155	simple:italic
+1787157	simple:italic
 simple:italic
-1684857	simple:italic
-1684859	simple:italic
-1684861	simple:italic
-1684863	simple:italic
+1787160	simple:italic
+1787162	simple:italic
+1787164	simple:italic
+1787166	simple:italic
 simple:italic
-1684866	simple:italic
-1684868	simple:italic
-1684870	simple:italic
-1684872	simple:italic
+1787169	simple:italic
+1787171	simple:italic
+1787173	simple:italic
+1787175	simple:italic
 simple:italic
-1684875	simple:italic
-1684877	simple:italic
-1684879	simple:italic
-1684881	simple:italic
-1684892	simple:italic
-1684894	simple:italic
-1684896	simple:italic
-1684898	simple:italic
+1787178	simple:italic
+1787180	simple:italic
+1787182	simple:italic
+1787184	simple:italic
+1787195	simple:italic
+1787197	simple:italic
+1787199	simple:italic
+1787201	simple:italic
 simple:italic
-1684901	simple:italic
+1787204	simple:italic
 simple:italic
-1684904	simple:italic
-1684906	simple:italic
+1787207	simple:italic
+1787209	simple:italic
 simple:italic
-1684909	simple:italic
+1787212	simple:italic
 simple:italic
-1684912	simple:italic
+1787215	simple:italic
 simple:italic
-1684915	simple:italic
+1787218	simple:italic
 simple:italic
-1684918	simple:italic
-1684920	simple:italic
+1787221	simple:italic
+1787223	simple:italic
 simple:italic
-1684923	simple:italic
-1684925	simple:italic
+1787226	simple:italic
+1787228	simple:italic
 simple:italic
-1684928	simple:italic
-1684930	simple:italic
+1787231	simple:italic
+1787233	simple:italic
 simple:italic
-1684933	simple:italic
-1684935	simple:italic
-1684937	simple:italic
-1684939	simple:italic
-1684941	simple:italic
-1684943	simple:italic
+1787236	simple:italic
+1787238	simple:italic
+1787240	simple:italic
+1787242	simple:italic
+1787244	simple:italic
+1787246	simple:italic
 simple:italic
-1684946	simple:italic
-1684948	simple:italic
-1684950	simple:italic
-1684952	simple:italic
-1684954	simple:italic
+1787249	simple:italic
+1787251	simple:italic
+1787253	simple:italic
+1787255	simple:italic
+1787257	simple:italic
 simple:italic
-1684957	simple:italic
-1684959	simple:italic
-1684961	simple:italic
-1684963	simple:italic
+1787260	simple:italic
+1787262	simple:italic
+1787264	simple:italic
+1787266	simple:italic
 simple:italic
-1684966	simple:italic
+1787269	simple:italic
 simple:italic
-1684969	simple:italic
-1684971	simple:italic
+1787272	simple:italic
+1787274	simple:italic
 simple:italic
-1684974	simple:italic
-1684976	simple:italic
-1684978	simple:italic
-1684980	simple:italic
-1684982	simple:italic
-1684984	simple:italic
+1787277	simple:italic
+1787279	simple:italic
+1787281	simple:italic
+1787283	simple:italic
+1787285	simple:italic
+1787287	simple:italic
 simple:italic
-1684987	simple:italic
-1684989	simple:italic
+1787290	simple:italic
+1787292	simple:italic
 simple:italic
-1684992	simple:italic
-1684994	simple:italic
+1787295	simple:italic
+1787297	simple:italic
 simple:italic
-1685012	simple:italic
-1685014	simple:italic
-1685016	simple:italic
-1685018	simple:italic
-1685020	simple:italic
-1685022	simple:italic
-1685024	simple:italic
+1787315	simple:italic
+1787317	simple:italic
+1787319	simple:italic
+1787321	simple:italic
+1787323	simple:italic
+1787325	simple:italic
+1787327	simple:italic
 simple:italic
-1685027	simple:italic
-1685029	simple:italic
-1685031	simple:italic
+1787330	simple:italic
+1787332	simple:italic
+1787334	simple:italic
 simple:italic
-1685034	simple:italic
-1685036	simple:italic
+1787337	simple:italic
+1787339	simple:italic
 simple:italic
-1685039	simple:italic
+1787342	simple:italic
 simple:italic
-1685050	simple:italic
-1685052	simple:italic
+1787353	simple:italic
+1787355	simple:italic
 simple:italic
-1685055	simple:italic
+1787358	simple:italic
 simple:italic
 simple:italic
-1685059	simple:italic
-1685061	simple:italic
-1685063	simple:italic
-1685065	simple:italic
-1685067	simple:italic
+1787362	simple:italic
+1787364	simple:italic
+1787366	simple:italic
+1787368	simple:italic
+1787370	simple:italic
 simple:italic
-1685070	simple:italic
+1787373	simple:italic
 simple:italic
-1685073	simple:italic
-1685075	simple:italic
-1685077	simple:italic
+1787376	simple:italic
+1787378	simple:italic
+1787380	simple:italic
 simple:italic
-1685080	simple:italic
-1685082	simple:italic
+1787383	simple:italic
+1787385	simple:italic
 simple:italic
-1685085	simple:italic
-1685087	simple:italic
+1787388	simple:italic
+1787390	simple:italic
 simple:italic
-1685090	simple:italic
+1787393	simple:italic
 simple:italic
-1685095	simple:italic
-1685097	simple:italic
+1787398	simple:italic
+1787400	simple:italic
 simple:italic
-1685100	simple:italic
-1685102	simple:italic
+1787403	simple:italic
+1787405	simple:italic
 simple:italic
-1685105	simple:italic
+1787408	simple:italic
 simple:italic
-1685108	simple:italic
+1787411	simple:italic
 simple:italic
-1685111	simple:italic
+1787414	simple:italic
 simple:italic
-1685114	simple:italic
-1685116	simple:italic
-1685118	simple:italic
-1685120	simple:italic
-1685122	simple:italic
+1787417	simple:italic
+1787419	simple:italic
+1787421	simple:italic
+1787423	simple:italic
+1787425	simple:italic
 simple:italic
-1685125	simple:italic
-1685127	simple:italic
-1685132	simple:italic
-1685134	simple:italic
+1787428	simple:italic
+1787430	simple:italic
+1787435	simple:italic
+1787437	simple:italic
 simple:italic
-1685137	simple:italic
-1685139	simple:italic
-1685141	simple:italic
-1685143	simple:italic
+1787440	simple:italic
+1787442	simple:italic
+1787444	simple:italic
+1787446	simple:italic
 simple:italic
-1685148	simple:italic
-1685150	simple:italic
-1685152	simple:italic
-1685154	simple:italic
-1685156	simple:italic
-1685158	simple:italic
-1685160	simple:italic
+1787451	simple:italic
+1787453	simple:italic
+1787455	simple:italic
+1787457	simple:italic
+1787459	simple:italic
+1787461	simple:italic
+1787463	simple:italic
 simple:italic
-1685163	simple:italic
-1685165	simple:italic
-1685167	simple:italic
-1685169	simple:italic
+1787466	simple:italic
+1787468	simple:italic
+1787470	simple:italic
+1787472	simple:italic
 simple:italic
-1685177	simple:italic
-1685179	simple:italic
-1685181	simple:italic
+1787480	simple:italic
+1787482	simple:italic
+1787484	simple:italic
 simple:italic
-1685184	simple:italic
-1685186	simple:italic
+1787487	simple:italic
+1787489	simple:italic
 simple:italic
-1685189	simple:italic
-1685191	simple:italic
-1685193	simple:italic
-1685195	simple:italic
+1787492	simple:italic
+1787494	simple:italic
+1787496	simple:italic
+1787498	simple:italic
 simple:italic
-1685198	simple:italic
-1685200	simple:italic
+1787501	simple:italic
+1787503	simple:italic
 simple:italic
-1685203	simple:italic
-1685205	simple:italic
+1787506	simple:italic
+1787508	simple:italic
 simple:italic
 simple:italic
-1685209	simple:italic
-1685211	simple:italic
-1685213	simple:italic
-1685215	simple:italic
-1685217	simple:italic
-1685219	simple:italic
-1685221	simple:italic
-1685223	simple:italic
+1787512	simple:italic
+1787514	simple:italic
+1787516	simple:italic
+1787518	simple:italic
+1787520	simple:italic
+1787522	simple:italic
+1787524	simple:italic
+1787526	simple:italic
 simple:italic
-1685226	simple:italic
-1685228	simple:italic
-1685230	simple:italic
+1787529	simple:italic
+1787531	simple:italic
+1787533	simple:italic
 simple:italic
-1685233	simple:italic
-1685235	simple:italic
+1787536	simple:italic
+1787538	simple:italic
 simple:italic
-1685238	simple:italic
-1685240	simple:italic
+1787541	simple:italic
+1787543	simple:italic
 simple:italic
-1685243	simple:italic
-1685245	simple:italic
-1685247	simple:italic
-1685249	simple:italic
+1787546	simple:italic
+1787548	simple:italic
+1787550	simple:italic
+1787552	simple:italic
 simple:italic
-1685252	simple:italic
-1685254	simple:italic
+1787555	simple:italic
+1787557	simple:italic
 simple:italic
-1685257	simple:italic
+1787560	simple:italic
 simple:italic
-1685260	simple:italic
+1787563	simple:italic
 simple:italic
 simple:italic
-1685264	simple:italic
+1787567	simple:italic
 simple:italic
-1685267	simple:italic
+1787570	simple:italic
 simple:italic
-1685270	simple:italic
-1685272	simple:italic
-1685274	simple:italic
+1787573	simple:italic
+1787575	simple:italic
+1787577	simple:italic
 simple:italic
-1685281	simple:italic
+1787584	simple:italic
 simple:italic
-1685284	simple:italic
-1685286	simple:italic
-1685288	simple:italic
+1787587	simple:italic
+1787589	simple:italic
+1787591	simple:italic
 simple:italic
-1685291	simple:italic
-1685293	simple:italic
-1685295	simple:italic
-1685297	simple:italic
-1685299	simple:italic
-1685301	simple:italic
-1685303	simple:italic
-1685305	simple:italic
+1787594	simple:italic
+1787596	simple:italic
+1787598	simple:italic
+1787600	simple:italic
+1787602	simple:italic
+1787604	simple:italic
+1787606	simple:italic
+1787608	simple:italic
 simple:italic
-1685308	simple:italic
-1685310	simple:italic
+1787611	simple:italic
+1787613	simple:italic
 simple:italic
-1685313	simple:italic
-1685315	simple:italic
+1787616	simple:italic
+1787618	simple:italic
 simple:italic
-1685318	simple:italic
-1685325	simple:italic
+1787621	simple:italic
+1787628	simple:italic
 simple:italic
-1685328	simple:italic
+1787631	simple:italic
 simple:italic
-1685331	simple:italic
+1787634	simple:italic
 simple:italic
-1685334	simple:italic
+1787637	simple:italic
 simple:italic
-1685337	simple:italic
+1787640	simple:italic
 simple:italic
-1685340	simple:italic
-1685342	simple:italic
-1685344	simple:italic
+1787643	simple:italic
+1787645	simple:italic
+1787647	simple:italic
 simple:italic
-1685349	simple:italic
-1685351	simple:italic
+1787652	simple:italic
+1787654	simple:italic
 simple:italic
-1685354	simple:italic
-1685356	simple:italic
+1787657	simple:italic
+1787659	simple:italic
 simple:italic
-1685359	simple:italic
+1787662	simple:italic
 simple:italic
-1685362	simple:italic
-1685364	simple:italic
+1787665	simple:italic
+1787667	simple:italic
 simple:italic
-1685367	simple:italic
-1685369	simple:italic
+1787670	simple:italic
+1787672	simple:italic
 simple:italic
-1685372	simple:italic
+1787675	simple:italic
 simple:italic
-1685375	simple:italic
+1787678	simple:italic
 simple:italic
-1685387	simple:italic
-1685389	simple:italic
-1685391	simple:italic
-1685393	simple:italic
-1685395	simple:italic
-1685397	simple:italic
+1787690	simple:italic
+1787692	simple:italic
+1787694	simple:italic
+1787696	simple:italic
+1787698	simple:italic
+1787700	simple:italic
 simple:italic
-1685400	simple:italic
+1787703	simple:italic
 simple:italic
-1685403	simple:italic
+1787706	simple:italic
 simple:italic
-1685406	simple:italic
+1787709	simple:italic
 simple:italic
-1685409	simple:italic
-1685411	simple:italic
-1685415	simple:italic
-1685417	simple:italic
-1685419	simple:italic
+1787712	simple:italic
+1787714	simple:italic
+1787718	simple:italic
+1787720	simple:italic
+1787722	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1685424	simple:italic
-1685426	simple:italic
+1787727	simple:italic
+1787729	simple:italic
 simple:italic
-1685429	simple:italic
-1685431	simple:italic
-1685433	simple:italic
+1787732	simple:italic
+1787734	simple:italic
+1787736	simple:italic
 simple:italic
-1685436	simple:italic
-1685438	simple:italic
+1787739	simple:italic
+1787741	simple:italic
 simple:italic
-1685441	simple:italic
-1685443	simple:italic
-1685445	simple:italic
-1685447	simple:italic
-1685449	simple:italic
-1685451	simple:italic
-1685453	simple:italic
+1787744	simple:italic
+1787746	simple:italic
+1787748	simple:italic
+1787750	simple:italic
+1787752	simple:italic
+1787754	simple:italic
+1787756	simple:italic
 simple:italic
-1685456	simple:italic
+1787759	simple:italic
 simple:italic
-1685459	simple:italic
+1787762	simple:italic
 simple:italic
-1685462	simple:italic
-1685464	simple:italic
+1787765	simple:italic
+1787767	simple:italic
 simple:italic
-1685467	simple:italic
-1685469	simple:italic
-1685471	simple:italic
+1787770	simple:italic
+1787772	simple:italic
+1787774	simple:italic
 simple:italic
-1685474	simple:italic
+1787777	simple:italic
 simple:italic
-1685477	simple:italic
-1685479	simple:italic
+1787780	simple:italic
+1787782	simple:italic
 simple:italic
-1685482	simple:italic
+1787785	simple:italic
 simple:italic
-1685485	simple:italic
+1787788	simple:italic
 simple:italic
-1685488	simple:italic
-1685490	simple:italic
-1685492	simple:italic
-1685494	simple:italic
+1787791	simple:italic
+1787793	simple:italic
+1787795	simple:italic
+1787797	simple:italic
 simple:italic
-1685500	simple:italic
-1685502	simple:italic
+1787803	simple:italic
+1787805	simple:italic
 simple:italic
-1685505	simple:italic
-1685507	simple:italic
-1685515	simple:italic
+1787808	simple:italic
+1787810	simple:italic
+1787818	simple:italic
 simple:italic
-1685518	simple:italic
-1685520	simple:italic
-1685522	simple:italic
+1787821	simple:italic
+1787823	simple:italic
+1787825	simple:italic
 simple:italic
-1685525	simple:italic
-1685527	simple:italic
-1685529	simple:italic
-1685531	simple:italic
-1685533	simple:italic
+1787828	simple:italic
+1787830	simple:italic
+1787832	simple:italic
+1787834	simple:italic
+1787836	simple:italic
 simple:italic
-1685536	simple:italic
+1787839	simple:italic
 simple:italic
-1685539	simple:italic
+1787842	simple:italic
 simple:italic
-1685542	simple:italic
-1685544	simple:italic
+1787845	simple:italic
+1787847	simple:italic
 simple:italic
-1685547	simple:italic
-1685549	simple:italic
-1685551	simple:italic
-1685553	simple:italic
-1685555	simple:italic
-1685557	simple:italic
-1685559	simple:italic
-1685561	simple:italic
-1685563	simple:italic
-1685565	simple:italic
+1787850	simple:italic
+1787852	simple:italic
+1787854	simple:italic
+1787856	simple:italic
+1787858	simple:italic
+1787860	simple:italic
+1787862	simple:italic
+1787864	simple:italic
+1787866	simple:italic
+1787868	simple:italic
 simple:italic
-1685568	simple:italic
-1685570	simple:italic
-1685572	simple:italic
-1685574	simple:italic
-1685576	simple:italic
-1685578	simple:italic
-1685580	simple:italic
-1685582	simple:italic
-1685584	simple:italic
-1685586	simple:italic
-1685588	simple:italic
-1685590	simple:italic
+1787871	simple:italic
+1787873	simple:italic
+1787875	simple:italic
+1787877	simple:italic
+1787879	simple:italic
+1787881	simple:italic
+1787883	simple:italic
+1787885	simple:italic
+1787887	simple:italic
+1787889	simple:italic
+1787891	simple:italic
+1787893	simple:italic
 simple:italic
-1685593	simple:italic
-1685595	simple:italic
-1685597	simple:italic
-1685605	simple:italic
+1787896	simple:italic
+1787898	simple:italic
+1787900	simple:italic
+1787908	simple:italic
 simple:italic
-1685608	simple:italic
-1685610	simple:italic
-1685612	simple:italic
-1685614	simple:italic
-1685616	simple:italic
+1787911	simple:italic
+1787913	simple:italic
+1787915	simple:italic
+1787917	simple:italic
+1787919	simple:italic
 simple:italic
-1685619	simple:italic
-1685621	simple:italic
-1685623	simple:italic
+1787922	simple:italic
+1787924	simple:italic
+1787926	simple:italic
 simple:italic
-1685626	simple:italic
-1685628	simple:italic
-1685630	simple:italic
+1787929	simple:italic
+1787931	simple:italic
+1787933	simple:italic
 simple:italic
-1685633	simple:italic
+1787936	simple:italic
 simple:italic
-1685636	simple:italic
+1787939	simple:italic
 simple:italic
-1685639	simple:italic
-1685641	simple:italic
-1685643	simple:italic
-1685645	simple:italic
-1685647	simple:italic
-1685649	simple:italic
-1685651	simple:italic
-1685653	simple:italic
+1787942	simple:italic
+1787944	simple:italic
+1787946	simple:italic
+1787948	simple:italic
+1787950	simple:italic
+1787952	simple:italic
+1787954	simple:italic
+1787956	simple:italic
 simple:italic
-1685656	simple:italic
+1787959	simple:italic
 simple:italic
-1685659	simple:italic
-1685661	simple:italic
+1787962	simple:italic
+1787964	simple:italic
 simple:italic
-1685664	simple:italic
+1787967	simple:italic
 simple:italic
-1685667	simple:italic
-1685669	simple:italic
+1787970	simple:italic
+1787972	simple:italic
 simple:italic
-1685672	simple:italic
-1685674	simple:italic
+1787975	simple:italic
+1787977	simple:italic
 simple:italic
-1685677	simple:italic
+1787980	simple:italic
 simple:italic
-1685680	simple:italic
+1787983	simple:italic
 simple:italic
-1685687	simple:italic
-1685689	simple:italic
-1685691	simple:italic
+1787990	simple:italic
+1787992	simple:italic
+1787994	simple:italic
 simple:italic
-1685694	simple:italic
+1787997	simple:italic
 simple:italic
-1685697	simple:italic
-1685699	simple:italic
+1788000	simple:italic
+1788002	simple:italic
 simple:italic
-1685702	simple:italic
+1788005	simple:italic
 simple:italic
 simple:italic
-1685706	simple:italic
-1685708	simple:italic
-1685710	simple:italic
-1685714	simple:italic
-1685716	simple:italic
+1788009	simple:italic
+1788011	simple:italic
+1788013	simple:italic
+1788017	simple:italic
+1788019	simple:italic
 simple:italic
-1685719	simple:italic
-1685721	simple:italic
-1685723	simple:italic
+1788022	simple:italic
+1788024	simple:italic
+1788026	simple:italic
 simple:italic
-1685726	simple:italic
-1685728	simple:italic
+1788029	simple:italic
+1788031	simple:italic
 simple:italic
-1685738	simple:italic
-1685740	simple:italic
+1788041	simple:italic
+1788043	simple:italic
 simple:italic
-1685743	simple:italic
-1685745	simple:italic
-1685747	simple:italic
-1685749	simple:italic
-1685751	simple:italic
+1788046	simple:italic
+1788048	simple:italic
+1788050	simple:italic
+1788052	simple:italic
+1788054	simple:italic
 simple:italic
-1685754	simple:italic
-1685756	simple:italic
-1685758	simple:italic
+1788057	simple:italic
+1788059	simple:italic
+1788061	simple:italic
 simple:italic
-1685761	simple:italic
-1685763	simple:italic
-1685765	simple:italic
+1788064	simple:italic
+1788066	simple:italic
+1788068	simple:italic
 simple:italic
-1685768	simple:italic
+1788071	simple:italic
 simple:italic
 simple:italic
-1685772	simple:italic
-1685774	simple:italic
+1788075	simple:italic
+1788077	simple:italic
 simple:italic
-1685777	simple:italic
+1788080	simple:italic
 simple:italic
-1685780	simple:italic
+1788083	simple:italic
 simple:italic
-1685788	simple:italic
-1685790	simple:italic
+1788091	simple:italic
+1788093	simple:italic
 simple:italic
-1685793	simple:italic
+1788096	simple:italic
 simple:italic
-1685796	simple:italic
-1685798	simple:italic
-1685800	simple:italic
-1685802	simple:italic
-1685804	simple:italic
-1685806	simple:italic
+1788099	simple:italic
+1788101	simple:italic
+1788103	simple:italic
+1788105	simple:italic
+1788107	simple:italic
+1788109	simple:italic
 simple:italic
-1685809	simple:italic
+1788112	simple:italic
 simple:italic
 simple:italic
-1685813	simple:italic
+1788116	simple:italic
 simple:italic
-1685816	simple:italic
-1685818	simple:italic
-1685820	simple:italic
+1788119	simple:italic
+1788121	simple:italic
+1788123	simple:italic
 simple:italic
-1685823	simple:italic
-1685825	simple:italic
-1685827	simple:italic
-1685829	simple:italic
-1685831	simple:italic
-1685833	simple:italic
-1685837	simple:italic
-1685839	simple:italic
-1685841	simple:italic
-1685843	simple:italic
-1685845	simple:italic
-1685847	simple:italic
-1685849	simple:italic
-1685851	simple:italic
+1788126	simple:italic
+1788128	simple:italic
+1788130	simple:italic
+1788132	simple:italic
+1788134	simple:italic
+1788136	simple:italic
+1788140	simple:italic
+1788142	simple:italic
+1788144	simple:italic
+1788146	simple:italic
+1788148	simple:italic
+1788150	simple:italic
+1788152	simple:italic
+1788154	simple:italic
 simple:italic
-1685854	simple:italic
+1788157	simple:italic
 simple:italic
-1685857	simple:italic
-1685867	simple:italic
-1685869	simple:italic
-1685871	simple:italic
-1685873	simple:italic
+1788160	simple:italic
+1788170	simple:italic
+1788172	simple:italic
+1788174	simple:italic
+1788176	simple:italic
 simple:italic
-1685876	simple:italic
-1685878	simple:italic
-1685880	simple:italic
-1685882	simple:italic
-1685884	simple:italic
-1685886	simple:italic
-1685888	simple:italic
-1685890	simple:italic
-1685892	simple:italic
-1685894	simple:italic
-1685896	simple:italic
-1685898	simple:italic
-1685900	simple:italic
-1685902	simple:italic
+1788179	simple:italic
+1788181	simple:italic
+1788183	simple:italic
+1788185	simple:italic
+1788187	simple:italic
+1788189	simple:italic
+1788191	simple:italic
+1788193	simple:italic
+1788195	simple:italic
+1788197	simple:italic
+1788199	simple:italic
+1788201	simple:italic
+1788203	simple:italic
+1788205	simple:italic
 simple:italic
-1685905	simple:italic
+1788208	simple:italic
 simple:italic
-1685908	simple:italic
-1685910	simple:italic
+1788211	simple:italic
+1788213	simple:italic
 simple:italic
-1685913	simple:italic
-1685915	simple:italic
-1685917	simple:italic
-1685919	simple:italic
-1685921	simple:italic
-1685923	simple:italic
-1685925	simple:italic
+1788216	simple:italic
+1788218	simple:italic
+1788220	simple:italic
+1788222	simple:italic
+1788224	simple:italic
+1788226	simple:italic
+1788228	simple:italic
 simple:italic
 simple:italic
-1685929	simple:italic
+1788232	simple:italic
 simple:italic
 simple:italic
-1685933	simple:italic
-1685935	simple:italic
+1788236	simple:italic
+1788238	simple:italic
 simple:italic
-1685938	simple:italic
-1685940	simple:italic
-1685946	simple:italic
-1685948	simple:italic
-1685950	simple:italic
-1685952	simple:italic
-1685954	simple:italic
+1788241	simple:italic
+1788243	simple:italic
+1788249	simple:italic
+1788251	simple:italic
+1788253	simple:italic
+1788255	simple:italic
+1788257	simple:italic
 simple:italic
 simple:italic
-1685958	simple:italic
+1788261	simple:italic
 simple:italic
-1685961	simple:italic
+1788264	simple:italic
 simple:italic
-1685964	simple:italic
-1685966	simple:italic
+1788267	simple:italic
+1788269	simple:italic
 simple:italic
-1685969	simple:italic
+1788272	simple:italic
 simple:italic
-1685972	simple:italic
+1788275	simple:italic
 simple:italic
-1685975	simple:italic
+1788278	simple:italic
 simple:italic
-1685978	simple:italic
-1685980	simple:italic
-1685982	simple:italic
-1685984	simple:italic
+1788281	simple:italic
+1788283	simple:italic
+1788285	simple:italic
+1788287	simple:italic
 simple:italic
-1685987	simple:italic
-1685989	simple:italic
+1788290	simple:italic
+1788292	simple:italic
 simple:italic
-1685992	simple:italic
+1788295	simple:italic
 simple:italic
-1685995	simple:italic
-1685997	simple:italic
-1685999	simple:italic
+1788298	simple:italic
+1788300	simple:italic
+1788302	simple:italic
 simple:italic
-1686006	simple:italic
-1686008	simple:italic
-1686010	simple:italic
-1686012	simple:italic
-1686014	simple:italic
-1686016	simple:italic
-1686018	simple:italic
-1686020	simple:italic
-1686022	simple:italic
+1788309	simple:italic
+1788311	simple:italic
+1788313	simple:italic
+1788315	simple:italic
+1788317	simple:italic
+1788319	simple:italic
+1788321	simple:italic
+1788323	simple:italic
+1788325	simple:italic
 simple:italic
-1686025	simple:italic
-1686027	simple:italic
-1686029	simple:italic
-1686031	simple:italic
-1686033	simple:italic
-1686035	simple:italic
-1686037	simple:italic
+1788328	simple:italic
+1788330	simple:italic
+1788332	simple:italic
+1788334	simple:italic
+1788336	simple:italic
+1788338	simple:italic
+1788340	simple:italic
 simple:italic
-1686040	simple:italic
-1686042	simple:italic
-1686044	simple:italic
+1788343	simple:italic
+1788345	simple:italic
+1788347	simple:italic
 simple:italic
-1686049	simple:italic
-1686051	simple:italic
+1788352	simple:italic
+1788354	simple:italic
 simple:italic
-1686054	simple:italic
-1686056	simple:italic
-1686058	simple:italic
-1686060	simple:italic
+1788357	simple:italic
+1788359	simple:italic
+1788361	simple:italic
+1788363	simple:italic
 simple:italic
-1686063	simple:italic
-1686065	simple:italic
+1788366	simple:italic
+1788368	simple:italic
 simple:italic
 simple:italic
-1686069	simple:italic
+1788372	simple:italic
 simple:italic
-1686072	simple:italic
-1686078	simple:italic
+1788375	simple:italic
+1788381	simple:italic
 simple:italic
-1686081	simple:italic
+1788384	simple:italic
 simple:italic
-1686084	simple:italic
-1686086	simple:italic
-1686092	simple:italic
-1686094	simple:italic
-1686096	simple:italic
-1686098	simple:italic
-1686100	simple:italic
+1788387	simple:italic
+1788389	simple:italic
+1788395	simple:italic
+1788397	simple:italic
+1788399	simple:italic
+1788401	simple:italic
+1788403	simple:italic
 simple:italic
-1686103	simple:italic
-1686105	simple:italic
-1686107	simple:italic
-1686109	simple:italic
+1788406	simple:italic
+1788408	simple:italic
+1788410	simple:italic
+1788412	simple:italic
 simple:italic
-1686112	simple:italic
-1686117	simple:italic
+1788415	simple:italic
+1788420	simple:italic
 simple:italic
-1686120	simple:italic
-1686122	simple:italic
-1686124	simple:italic
+1788423	simple:italic
+1788425	simple:italic
+1788427	simple:italic
 simple:italic
-1686127	simple:italic
-1686129	simple:italic
+1788430	simple:italic
+1788432	simple:italic
 simple:italic
-1686132	simple:italic
+1788435	simple:italic
 simple:italic
-1686135	simple:italic
+1788438	simple:italic
 simple:italic
-1686138	simple:italic
-1686140	simple:italic
+1788441	simple:italic
+1788443	simple:italic
 simple:italic
-1686143	simple:italic
+1788446	simple:italic
 simple:italic
-1686146	simple:italic
+1788449	simple:italic
 simple:italic
-1686149	simple:italic
-1686151	simple:italic
+1788452	simple:italic
+1788454	simple:italic
 simple:italic
-1686157	simple:italic
-1686159	simple:italic
-1686161	simple:italic
+1788460	simple:italic
+1788462	simple:italic
+1788464	simple:italic
 simple:italic
-1686164	simple:italic
-1686166	simple:italic
-1686168	simple:italic
+1788467	simple:italic
+1788469	simple:italic
+1788471	simple:italic
 simple:italic
-1686171	simple:italic
-1686173	simple:italic
-1686175	simple:italic
-1686177	simple:italic
+1788474	simple:italic
+1788476	simple:italic
+1788478	simple:italic
+1788480	simple:italic
 simple:italic
-1686180	simple:italic
-1686182	simple:italic
-1686184	simple:italic
-1686186	simple:italic
-1686188	simple:italic
-1686190	simple:italic
-1686192	simple:italic
-1686194	simple:italic
-1686196	simple:italic
-1686198	simple:italic
-1686200	simple:italic
-1686202	simple:italic
-1686204	simple:italic
-1686206	simple:italic
-1686208	simple:italic
-1686210	simple:italic
-1686212	simple:italic
-1686214	simple:italic
-1686216	simple:italic
+1788483	simple:italic
+1788485	simple:italic
+1788487	simple:italic
+1788489	simple:italic
+1788491	simple:italic
+1788493	simple:italic
+1788495	simple:italic
+1788497	simple:italic
+1788499	simple:italic
+1788501	simple:italic
+1788503	simple:italic
+1788505	simple:italic
+1788507	simple:italic
+1788509	simple:italic
+1788511	simple:italic
+1788513	simple:italic
+1788515	simple:italic
+1788517	simple:italic
+1788519	simple:italic
 simple:italic
-1686219	simple:italic
-1686221	simple:italic
-1686223	simple:italic
+1788522	simple:italic
+1788524	simple:italic
+1788526	simple:italic
 simple:italic
-1686226	simple:italic
+1788529	simple:italic
 simple:italic
-1686229	simple:italic
-1686231	simple:italic
+1788532	simple:italic
+1788534	simple:italic
 simple:italic
-1686240	simple:italic
+1788543	simple:italic
 simple:italic
-1686243	simple:italic
+1788546	simple:italic
 simple:italic
-1686246	simple:italic
+1788549	simple:italic
 simple:italic
-1686249	simple:italic
-1686251	simple:italic
-1686253	simple:italic
-1686255	simple:italic
-1686257	simple:italic
-1686259	simple:italic
-1686261	simple:italic
-1686263	simple:italic
-1686265	simple:italic
+1788552	simple:italic
+1788554	simple:italic
+1788556	simple:italic
+1788558	simple:italic
+1788560	simple:italic
+1788562	simple:italic
+1788564	simple:italic
+1788566	simple:italic
+1788568	simple:italic
 simple:italic
-1686268	simple:italic
-1686270	simple:italic
+1788571	simple:italic
+1788573	simple:italic
 simple:italic
-1686273	simple:italic
+1788576	simple:italic
 simple:italic
-1686276	simple:italic
+1788579	simple:italic
 simple:italic
-1686279	simple:italic
+1788582	simple:italic
 simple:italic
-1686282	simple:italic
-1686284	simple:italic
-1686289	simple:italic
-1686291	simple:italic
-1686293	simple:italic
+1788585	simple:italic
+1788587	simple:italic
+1788592	simple:italic
+1788594	simple:italic
+1788596	simple:italic
 simple:italic
-1686296	simple:italic
-1686298	simple:italic
-1686300	simple:italic
-1686302	simple:italic
-1686304	simple:italic
-1686306	simple:italic
-1686308	simple:italic
+1788599	simple:italic
+1788601	simple:italic
+1788603	simple:italic
+1788605	simple:italic
+1788607	simple:italic
+1788609	simple:italic
+1788611	simple:italic
 simple:italic
-1686311	simple:italic
-1686313	simple:italic
-1686315	simple:italic
+1788614	simple:italic
+1788616	simple:italic
+1788618	simple:italic
 simple:italic
-1686320	simple:italic
+1788623	simple:italic
 simple:italic
-1686323	simple:italic
+1788626	simple:italic
 simple:italic
-1686332	simple:italic
-1686334	simple:italic
-1686336	simple:italic
-1686338	simple:italic
-1686340	simple:italic
-1686342	simple:italic
+1788635	simple:italic
+1788637	simple:italic
+1788639	simple:italic
+1788641	simple:italic
+1788643	simple:italic
+1788645	simple:italic
 simple:italic
-1686345	simple:italic
-1686347	simple:italic
-1686349	simple:italic
-1686351	simple:italic
+1788648	simple:italic
+1788650	simple:italic
+1788652	simple:italic
+1788654	simple:italic
 simple:italic
-1686354	simple:italic
-1686356	simple:italic
-1686358	simple:italic
-1686360	simple:italic
-1686362	simple:italic
-1686364	simple:italic
-1686366	simple:italic
-1686368	simple:italic
-1686370	simple:italic
-1686372	simple:italic
-1686374	simple:italic
-1686382	simple:italic
-1686384	simple:italic
+1788657	simple:italic
+1788659	simple:italic
+1788661	simple:italic
+1788663	simple:italic
+1788665	simple:italic
+1788667	simple:italic
+1788669	simple:italic
+1788671	simple:italic
+1788673	simple:italic
+1788675	simple:italic
+1788677	simple:italic
+1788685	simple:italic
+1788687	simple:italic
 simple:italic
-1686387	simple:italic
-1686389	simple:italic
-1686391	simple:italic
-1686393	simple:italic
-1686395	simple:italic
-1686397	simple:italic
-1686399	simple:italic
-1686401	simple:italic
-1686403	simple:italic
-1686405	simple:italic
-1686407	simple:italic
-1686409	simple:italic
-1686411	simple:italic
-1686413	simple:italic
+1788690	simple:italic
+1788692	simple:italic
+1788694	simple:italic
+1788696	simple:italic
+1788698	simple:italic
+1788700	simple:italic
+1788702	simple:italic
+1788704	simple:italic
+1788706	simple:italic
+1788708	simple:italic
+1788710	simple:italic
+1788712	simple:italic
+1788714	simple:italic
+1788716	simple:italic
 simple:italic
-1686416	simple:italic
-1686418	simple:italic
+1788719	simple:italic
+1788721	simple:italic
 simple:italic
-1686421	simple:italic
+1788724	simple:italic
 simple:italic
-1686424	simple:italic
-1686426	simple:italic
-1686430	simple:italic
-1686432	simple:italic
+1788727	simple:italic
+1788729	simple:italic
+1788733	simple:italic
+1788735	simple:italic
 simple:italic
-1686435	simple:italic
+1788738	simple:italic
 simple:italic
-1686438	simple:italic
-1686444	simple:italic
+1788741	simple:italic
+1788747	simple:italic
 simple:italic
-1686447	simple:italic
+1788750	simple:italic
 simple:italic
 simple:italic
-1686451	simple:italic
+1788754	simple:italic
 simple:italic
-1686454	simple:italic
-1686456	simple:italic
+1788757	simple:italic
+1788759	simple:italic
 simple:italic
-1686459	simple:italic
+1788762	simple:italic
 simple:italic
-1686466	simple:italic
-1686468	simple:italic
-1686470	simple:italic
-1686472	simple:italic
-1686474	simple:italic
-1686476	simple:italic
+1788769	simple:italic
+1788771	simple:italic
+1788773	simple:italic
+1788775	simple:italic
+1788777	simple:italic
+1788779	simple:italic
 simple:italic
-1686479	simple:italic
+1788782	simple:italic
 simple:italic
-1686482	simple:italic
-1686484	simple:italic
+1788785	simple:italic
+1788787	simple:italic
 simple:italic
-1686490	simple:italic
-1686492	simple:italic
+1788793	simple:italic
+1788795	simple:italic
 simple:italic
-1686495	simple:italic
+1788798	simple:italic
 simple:italic
-1686498	simple:italic
+1788801	simple:italic
 simple:italic
 simple:italic
-1686502	simple:italic
+1788805	simple:italic
 simple:italic
-1686505	simple:italic
+1788808	simple:italic
 simple:italic
-1686508	simple:italic
-1686510	simple:italic
-1686513	simple:italic
-1686515	simple:italic
-1686517	simple:italic
-1686524	simple:italic
-1686526	simple:italic
+1788811	simple:italic
+1788813	simple:italic
+1788816	simple:italic
+1788818	simple:italic
+1788820	simple:italic
+1788827	simple:italic
+1788829	simple:italic
 simple:italic
-1686529	simple:italic
-1686531	simple:italic
+1788832	simple:italic
+1788834	simple:italic
 simple:italic
-1686534	simple:italic
-1686536	simple:italic
+1788837	simple:italic
+1788839	simple:italic
 simple:italic
-1686539	simple:italic
+1788842	simple:italic
 simple:italic
-1686542	simple:italic
+1788845	simple:italic
 simple:italic
-1686545	simple:italic
-1686547	simple:italic
+1788848	simple:italic
+1788850	simple:italic
 simple:italic
-1686550	simple:italic
-1686552	simple:italic
-1686554	simple:italic
+1788853	simple:italic
+1788855	simple:italic
+1788857	simple:italic
 simple:italic
 simple:italic
-1686558	simple:italic
-1686560	simple:italic
+1788861	simple:italic
+1788863	simple:italic
 simple:italic
-1686565	simple:italic
-1686567	simple:italic
-1686569	simple:italic
-1686571	simple:italic
+1788868	simple:italic
+1788870	simple:italic
+1788872	simple:italic
+1788874	simple:italic
 simple:italic
-1686574	simple:italic
+1788877	simple:italic
 simple:italic
-1686577	simple:italic
-1686579	simple:italic
-1686581	simple:italic
-1686583	simple:italic
-1686585	simple:italic
+1788880	simple:italic
+1788882	simple:italic
+1788884	simple:italic
+1788886	simple:italic
+1788888	simple:italic
 simple:italic
-1686588	simple:italic
+1788891	simple:italic
 simple:italic
-1686591	simple:italic
+1788894	simple:italic
 simple:italic
-1686594	simple:italic
-1686596	simple:italic
+1788897	simple:italic
+1788899	simple:italic
 simple:italic
-1686599	simple:italic
+1788902	simple:italic
 simple:italic
-1686602	simple:italic
-1686604	simple:italic
-1686609	simple:italic
-1686611	simple:italic
-1686613	simple:italic
-1686615	simple:italic
-1686617	simple:italic
+1788905	simple:italic
+1788907	simple:italic
+1788912	simple:italic
+1788914	simple:italic
+1788916	simple:italic
+1788918	simple:italic
+1788920	simple:italic
 simple:italic
-1686620	simple:italic
-1686622	simple:italic
+1788923	simple:italic
+1788925	simple:italic
 simple:italic
-1686625	simple:italic
+1788928	simple:italic
 simple:italic
-1686630	simple:italic
-1686632	simple:italic
+1788933	simple:italic
+1788935	simple:italic
 simple:italic
-1686635	simple:italic
+1788938	simple:italic
 simple:italic
-1686638	simple:italic
-1686640	simple:italic
-1686642	simple:italic
-1686644	simple:italic
+1788941	simple:italic
+1788943	simple:italic
+1788945	simple:italic
+1788947	simple:italic
 simple:italic
-1686647	simple:italic
-1686649	simple:italic
+1788950	simple:italic
+1788952	simple:italic
 simple:italic
-1686652	simple:italic
+1788955	simple:italic
 simple:italic
-1686655	simple:italic
-1686657	simple:italic
-1686659	simple:italic
+1788958	simple:italic
+1788960	simple:italic
+1788962	simple:italic
 simple:italic
-1686662	simple:italic
-1686664	simple:italic
-1686666	simple:italic
+1788965	simple:italic
+1788967	simple:italic
+1788969	simple:italic
 simple:italic
-1686669	simple:italic
-1686671	simple:italic
-1686673	simple:italic
-1686675	simple:italic
+1788972	simple:italic
+1788974	simple:italic
+1788976	simple:italic
+1788978	simple:italic
 simple:italic
-1686678	simple:italic
-1686683	simple:italic
-1686685	simple:italic
-1686687	simple:italic
+1788981	simple:italic
+1788986	simple:italic
+1788988	simple:italic
+1788990	simple:italic
 simple:italic
-1686690	simple:italic
-1686692	simple:italic
+1788993	simple:italic
+1788995	simple:italic
 simple:italic
-1686695	simple:italic
-1686697	simple:italic
+1788998	simple:italic
+1789000	simple:italic
 simple:italic
-1686700	simple:italic
-1686702	simple:italic
-1686704	simple:italic
-1686706	simple:italic
-1686708	simple:italic
-1686710	simple:italic
-1686712	simple:italic
-1686714	simple:italic
-1686719	simple:italic
-1686721	simple:italic
-1686723	simple:italic
+1789003	simple:italic
+1789005	simple:italic
+1789007	simple:italic
+1789009	simple:italic
+1789011	simple:italic
+1789013	simple:italic
+1789015	simple:italic
+1789017	simple:italic
+1789022	simple:italic
+1789024	simple:italic
+1789026	simple:italic
 simple:italic
-1686730	simple:italic
-1686732	simple:italic
+1789033	simple:italic
+1789035	simple:italic
 simple:italic
-1686735	simple:italic
-1686737	simple:italic
-1686739	simple:italic
-1686741	simple:italic
-1686743	simple:italic
-1686746	simple:italic
-1686748	simple:italic
-1686750	simple:italic
-1686752	simple:italic
-1686754	simple:italic
-1686756	simple:italic
-1686758	simple:italic
-1686760	simple:italic
+1789038	simple:italic
+1789040	simple:italic
+1789042	simple:italic
+1789044	simple:italic
+1789046	simple:italic
+1789049	simple:italic
+1789051	simple:italic
+1789053	simple:italic
+1789055	simple:italic
+1789057	simple:italic
+1789059	simple:italic
+1789061	simple:italic
+1789063	simple:italic
 simple:italic
-1686763	simple:italic
-1686765	simple:italic
+1789066	simple:italic
+1789068	simple:italic
 simple:italic
-1686768	simple:italic
-1686770	simple:italic
+1789071	simple:italic
+1789073	simple:italic
 simple:italic
-1686773	simple:italic
-1686775	simple:italic
-1686777	simple:italic
+1789076	simple:italic
+1789078	simple:italic
+1789080	simple:italic
 simple:italic
-1686780	simple:italic
-1686782	simple:italic
-1686789	simple:italic
-1686793	simple:italic
-1686795	simple:italic
-1686797	simple:italic
+1789083	simple:italic
+1789085	simple:italic
+1789092	simple:italic
+1789096	simple:italic
+1789098	simple:italic
+1789100	simple:italic
 simple:italic
-1686800	simple:italic
-1686802	simple:italic
-1686804	simple:italic
+1789103	simple:italic
+1789105	simple:italic
+1789107	simple:italic
 simple:italic
-1686807	simple:italic
+1789110	simple:italic
 simple:italic
-1686810	simple:italic
-1686812	simple:italic
-1686814	simple:italic
-1686826	simple:italic
-1686828	simple:italic
-1686830	simple:italic
-1686832	simple:italic
+1789113	simple:italic
+1789115	simple:italic
+1789117	simple:italic
+1789129	simple:italic
+1789131	simple:italic
+1789133	simple:italic
+1789135	simple:italic
 simple:italic
-1686835	simple:italic
+1789138	simple:italic
 simple:italic
-1686838	simple:italic
-1686840	simple:italic
+1789141	simple:italic
+1789143	simple:italic
 simple:italic
-1686843	simple:italic
-1686845	simple:italic
-1686847	simple:italic
+1789146	simple:italic
+1789148	simple:italic
+1789150	simple:italic
 simple:italic
-1686850	simple:italic
-1686852	simple:italic
-1686854	simple:italic
-1686856	simple:italic
+1789153	simple:italic
+1789155	simple:italic
+1789157	simple:italic
+1789159	simple:italic
 simple:italic
-1686859	simple:italic
+1789162	simple:italic
 simple:italic
-1686862	simple:italic
-1686864	simple:italic
-1686866	simple:italic
-1686868	simple:italic
+1789165	simple:italic
+1789167	simple:italic
+1789169	simple:italic
+1789171	simple:italic
 simple:italic
-1686871	simple:italic
+1789174	simple:italic
 simple:italic
-1686874	simple:italic
-1686879	simple:italic
-1686881	simple:italic
-1686883	simple:italic
-1686885	simple:italic
+1789177	simple:italic
+1789182	simple:italic
+1789184	simple:italic
+1789186	simple:italic
+1789188	simple:italic
 simple:italic
-1686888	simple:italic
-1686890	simple:italic
+1789191	simple:italic
+1789193	simple:italic
 simple:italic
-1686893	simple:italic
-1686895	simple:italic
-1686897	simple:italic
+1789196	simple:italic
+1789198	simple:italic
+1789200	simple:italic
 simple:italic
-1686900	simple:italic
+1789203	simple:italic
 simple:italic
-1686903	simple:italic
+1789206	simple:italic
 simple:italic
-1686906	simple:italic
+1789209	simple:italic
 simple:italic
-1686909	simple:italic
-1686911	simple:italic
+1789212	simple:italic
+1789214	simple:italic
 simple:italic
-1686914	simple:italic
+1789217	simple:italic
 simple:italic
-1686917	simple:italic
+1789220	simple:italic
 simple:italic
-1686920	simple:italic
+1789223	simple:italic
 simple:italic
-1686923	simple:italic
+1789226	simple:italic
 simple:italic
-1686926	simple:italic
+1789229	simple:italic
 simple:italic
-1686929	simple:italic
+1789232	simple:italic
 simple:italic
-1686932	simple:italic
+1789235	simple:italic
 simple:italic
-1686935	simple:italic
+1789238	simple:italic
 simple:italic
-1686938	simple:italic
+1789241	simple:italic
 simple:italic
-1686941	simple:italic
+1789244	simple:italic
 simple:italic
-1686944	simple:italic
+1789247	simple:italic
 simple:italic
-1686952	simple:italic
-1686954	simple:italic
-1686956	simple:italic
+1789255	simple:italic
+1789257	simple:italic
+1789259	simple:italic
 simple:italic
-1686959	simple:italic
-1686961	simple:italic
-1686963	simple:italic
+1789262	simple:italic
+1789264	simple:italic
+1789266	simple:italic
 simple:italic
-1686969	simple:italic
+1789272	simple:italic
 simple:italic
-1686978	simple:italic
-1686980	simple:italic
-1686982	simple:italic
-1686984	simple:italic
+1789281	simple:italic
+1789283	simple:italic
+1789285	simple:italic
+1789287	simple:italic
 simple:italic
-1686987	simple:italic
+1789290	simple:italic
 simple:italic
-1686990	simple:italic
+1789293	simple:italic
 simple:italic
-1686993	simple:italic
+1789296	simple:italic
 simple:italic
-1686996	simple:italic
+1789299	simple:italic
 simple:italic
-1686999	simple:italic
+1789302	simple:italic
 simple:italic
-1687002	simple:italic
+1789305	simple:italic
 simple:italic
-1687005	simple:italic
+1789308	simple:italic
 simple:italic
-1687008	simple:italic
-1687010	simple:italic
+1789311	simple:italic
+1789313	simple:italic
 simple:italic
-1687013	simple:italic
-1687015	simple:italic
-1687022	simple:italic
-1687024	simple:italic
+1789316	simple:italic
+1789318	simple:italic
+1789325	simple:italic
+1789327	simple:italic
 simple:italic
-1687027	simple:italic
-1687029	simple:italic
+1789330	simple:italic
+1789332	simple:italic
 simple:italic
-1687032	simple:italic
+1789335	simple:italic
 simple:italic
-1687035	simple:italic
-1687037	simple:italic
-1687050	simple:italic
-1687052	simple:italic
-1687054	simple:italic
-1687056	simple:italic
+1789338	simple:italic
+1789340	simple:italic
+1789353	simple:italic
+1789355	simple:italic
+1789357	simple:italic
+1789359	simple:italic
 simple:italic
-1687059	simple:italic
-1687061	simple:italic
-1687063	simple:italic
-1687065	simple:italic
-1687067	simple:italic
-1687069	simple:italic
-1687071	simple:italic
-1687073	simple:italic
-1687075	simple:italic
-1687079	simple:italic
-1687086	simple:italic
-1687088	simple:italic
+1789362	simple:italic
+1789364	simple:italic
+1789366	simple:italic
+1789368	simple:italic
+1789370	simple:italic
+1789372	simple:italic
+1789374	simple:italic
+1789376	simple:italic
+1789378	simple:italic
+1789382	simple:italic
+1789389	simple:italic
+1789391	simple:italic
 simple:italic
-1687091	simple:italic
+1789394	simple:italic
 simple:italic
-1687094	simple:italic
+1789397	simple:italic
 simple:italic
-1687097	simple:italic
+1789400	simple:italic
 simple:italic
-1687100	simple:italic
-1687102	simple:italic
-1687110	simple:italic
-1687112	simple:italic
+1789403	simple:italic
+1789405	simple:italic
+1789413	simple:italic
+1789415	simple:italic
 simple:italic
-1687115	simple:italic
+1789418	simple:italic
 simple:italic
-1687120	simple:italic
-1687122	simple:italic
+1789423	simple:italic
+1789425	simple:italic
 simple:italic
-1687125	simple:italic
-1687127	simple:italic
+1789428	simple:italic
+1789430	simple:italic
 simple:italic
 simple:italic
-1687131	simple:italic
-1687133	simple:italic
+1789434	simple:italic
+1789436	simple:italic
 simple:italic
-1687140	simple:italic
+1789443	simple:italic
 simple:italic
-1687143	simple:italic
-1687145	simple:italic
+1789446	simple:italic
+1789448	simple:italic
 simple:italic
-1687148	simple:italic
+1789451	simple:italic
 simple:italic
-1687151	simple:italic
+1789454	simple:italic
 simple:italic
-1687154	simple:italic
+1789457	simple:italic
 simple:italic
-1687157	simple:italic
-1687159	simple:italic
-1687161	simple:italic
-1687163	simple:italic
-1687165	simple:italic
-1687167	simple:italic
+1789460	simple:italic
+1789462	simple:italic
+1789464	simple:italic
+1789466	simple:italic
+1789468	simple:italic
+1789470	simple:italic
 simple:italic
 simple:italic
-1687171	simple:italic
-1687173	simple:italic
-1687175	simple:italic
-1687177	simple:italic
+1789474	simple:italic
+1789476	simple:italic
+1789478	simple:italic
+1789480	simple:italic
 simple:italic
-1687190	simple:italic
-1687192	simple:italic
-1687194	simple:italic
-1687196	simple:italic
-1687198	simple:italic
+1789493	simple:italic
+1789495	simple:italic
+1789497	simple:italic
+1789499	simple:italic
+1789501	simple:italic
 simple:italic
-1687201	simple:italic
-1687203	simple:italic
+1789504	simple:italic
+1789506	simple:italic
 simple:italic
-1687206	simple:italic
+1789509	simple:italic
 simple:italic
-1687209	simple:italic
-1687211	simple:italic
-1687213	simple:italic
-1687215	simple:italic
-1687217	simple:italic
-1687219	simple:italic
+1789512	simple:italic
+1789514	simple:italic
+1789516	simple:italic
+1789518	simple:italic
+1789520	simple:italic
+1789522	simple:italic
 simple:italic
-1687222	simple:italic
+1789525	simple:italic
 simple:italic
-1687225	simple:italic
+1789528	simple:italic
 simple:italic
-1687228	simple:italic
-1687230	simple:italic
+1789531	simple:italic
+1789533	simple:italic
 simple:italic
-1687233	simple:italic
+1789536	simple:italic
 simple:italic
-1687236	simple:italic
-1687240	simple:italic
+1789539	simple:italic
+1789543	simple:italic
 simple:italic
-1687243	simple:italic
-1687245	simple:italic
+1789546	simple:italic
+1789548	simple:italic
 simple:italic
-1687248	simple:italic
-1687250	simple:italic
-1687252	simple:italic
+1789551	simple:italic
+1789553	simple:italic
+1789555	simple:italic
 simple:italic
-1687255	simple:italic
-1687257	simple:italic
+1789558	simple:italic
+1789560	simple:italic
 simple:italic
-1687260	simple:italic
+1789563	simple:italic
 simple:italic
-1687263	simple:italic
+1789566	simple:italic
 simple:italic
-1687266	simple:italic
+1789569	simple:italic
 simple:italic
-1687269	simple:italic
-1687271	simple:italic
-1687273	simple:italic
-1687278	simple:italic
+1789572	simple:italic
+1789574	simple:italic
+1789576	simple:italic
+1789581	simple:italic
 simple:italic
-1687281	simple:italic
+1789584	simple:italic
 simple:italic
-1687284	simple:italic
-1687286	simple:italic
-1687288	simple:italic
+1789587	simple:italic
+1789589	simple:italic
+1789591	simple:italic
 simple:italic
-1687291	simple:italic
-1687293	simple:italic
-1687295	simple:italic
-1687297	simple:italic
-1687304	simple:italic
+1789594	simple:italic
+1789596	simple:italic
+1789598	simple:italic
+1789600	simple:italic
+1789607	simple:italic
 simple:italic
-1687307	simple:italic
-1687309	simple:italic
-1687311	simple:italic
+1789610	simple:italic
+1789612	simple:italic
+1789614	simple:italic
 simple:italic
-1687314	simple:italic
+1789617	simple:italic
 simple:italic
-1687317	simple:italic
+1789620	simple:italic
 simple:italic
-1687320	simple:italic
-1687322	simple:italic
-1687324	simple:italic
-1687326	simple:italic
+1789623	simple:italic
+1789625	simple:italic
+1789627	simple:italic
+1789629	simple:italic
 simple:italic
-1687329	simple:italic
-1687331	simple:italic
-1687339	simple:italic
+1789632	simple:italic
+1789634	simple:italic
+1789642	simple:italic
 simple:italic
-1687342	simple:italic
-1687344	simple:italic
+1789645	simple:italic
+1789647	simple:italic
 simple:italic
-1687347	simple:italic
-1687349	simple:italic
-1687356	simple:italic
-1687358	simple:italic
+1789650	simple:italic
+1789652	simple:italic
+1789659	simple:italic
+1789661	simple:italic
 simple:italic
-1687361	simple:italic
-1687363	simple:italic
+1789664	simple:italic
+1789666	simple:italic
 simple:italic
-1687366	simple:italic
+1789669	simple:italic
 simple:italic
-1687369	simple:italic
-1687371	simple:italic
-1687375	simple:italic
-1687377	simple:italic
+1789672	simple:italic
+1789674	simple:italic
+1789678	simple:italic
+1789680	simple:italic
 simple:italic
-1687380	simple:italic
+1789683	simple:italic
 simple:italic
-1687383	simple:italic
+1789686	simple:italic
 simple:italic
-1687386	simple:italic
-1687388	simple:italic
-1687390	simple:italic
+1789689	simple:italic
+1789691	simple:italic
+1789693	simple:italic
 simple:italic
-1687393	simple:italic
-1687395	simple:italic
-1687408	simple:italic
+1789696	simple:italic
+1789698	simple:italic
+1789711	simple:italic
 simple:italic
-1687411	simple:italic
+1789714	simple:italic
 simple:italic
-1687414	simple:italic
-1687416	simple:italic
+1789717	simple:italic
+1789719	simple:italic
 simple:italic
-1687419	simple:italic
+1789722	simple:italic
 simple:italic
-1687422	simple:italic
+1789725	simple:italic
 simple:italic
-1687425	simple:italic
-1687427	simple:italic
-1687429	simple:italic
+1789728	simple:italic
+1789730	simple:italic
+1789732	simple:italic
 simple:italic
-1687433	simple:italic
+1789736	simple:italic
 simple:italic
-1687436	simple:italic
-1687438	simple:italic
+1789739	simple:italic
+1789741	simple:italic
 simple:italic
-1687441	simple:italic
+1789744	simple:italic
 simple:italic
-1687444	simple:italic
-1687446	simple:italic
+1789747	simple:italic
+1789749	simple:italic
 simple:italic
-1687449	simple:italic
+1789752	simple:italic
 simple:italic
-1687452	simple:italic
+1789755	simple:italic
 simple:italic
-1687455	simple:italic
+1789758	simple:italic
 simple:italic
-1687458	simple:italic
-1687460	simple:italic
+1789761	simple:italic
+1789763	simple:italic
 simple:italic
-1687463	simple:italic
+1789766	simple:italic
 simple:italic
-1687466	simple:italic
-1687468	simple:italic
-1687470	simple:italic
-1687477	simple:italic
-1687479	simple:italic
+1789769	simple:italic
+1789771	simple:italic
+1789773	simple:italic
+1789780	simple:italic
+1789782	simple:italic
 simple:italic
-1687482	simple:italic
+1789785	simple:italic
 simple:italic
-1687485	simple:italic
-1687487	simple:italic
+1789788	simple:italic
+1789790	simple:italic
 simple:italic
-1687490	simple:italic
-1687492	simple:italic
-1687494	simple:italic
+1789793	simple:italic
+1789795	simple:italic
+1789797	simple:italic
 simple:italic
-1687497	simple:italic
-1687499	simple:italic
-1687501	simple:italic
-1687503	simple:italic
+1789800	simple:italic
+1789802	simple:italic
+1789804	simple:italic
+1789806	simple:italic
 simple:italic
-1687506	simple:italic
-1687508	simple:italic
-1687510	simple:italic
+1789809	simple:italic
+1789811	simple:italic
+1789813	simple:italic
 simple:italic
-1687513	simple:italic
+1789816	simple:italic
 simple:italic
-1687517	simple:italic
+1789820	simple:italic
 simple:italic
-1687520	simple:italic
+1789823	simple:italic
 simple:italic
-1687523	simple:italic
-1687525	simple:italic
-1687527	simple:italic
+1789826	simple:italic
+1789828	simple:italic
+1789830	simple:italic
 simple:italic
-1687530	simple:italic
-1687532	simple:italic
+1789833	simple:italic
+1789835	simple:italic
 simple:italic
-1687535	simple:italic
+1789838	simple:italic
 simple:italic
-1687538	simple:italic
+1789841	simple:italic
 simple:italic
-1687541	simple:italic
-1687543	simple:italic
+1789844	simple:italic
+1789846	simple:italic
 simple:italic
-1687546	simple:italic
+1789849	simple:italic
 simple:italic
-1687549	simple:italic
-1687551	simple:italic
-1687553	simple:italic
-1687559	simple:italic
+1789852	simple:italic
+1789854	simple:italic
+1789856	simple:italic
+1789862	simple:italic
 simple:italic
-1687562	simple:italic
+1789865	simple:italic
 simple:italic
-1687565	simple:italic
+1789868	simple:italic
 simple:italic
-1687568	simple:italic
-1687570	simple:italic
-1687572	simple:italic
+1789871	simple:italic
+1789873	simple:italic
+1789875	simple:italic
 simple:italic
-1687575	simple:italic
+1789878	simple:italic
 simple:italic
-1687578	simple:italic
+1789881	simple:italic
 simple:italic
 simple:italic
-1687582	simple:italic
-1687584	simple:italic
-1687586	simple:italic
-1687588	simple:italic
+1789885	simple:italic
+1789887	simple:italic
+1789889	simple:italic
+1789891	simple:italic
 simple:italic
-1687591	simple:italic
+1789894	simple:italic
 simple:italic
-1687594	simple:italic
-1687596	simple:italic
-1687598	simple:italic
-1687600	simple:italic
-1687604	simple:italic
-1687606	simple:italic
+1789897	simple:italic
+1789899	simple:italic
+1789901	simple:italic
+1789903	simple:italic
+1789907	simple:italic
+1789909	simple:italic
 simple:italic
-1687609	simple:italic
-1687611	simple:italic
-1687613	simple:italic
+1789912	simple:italic
+1789914	simple:italic
+1789916	simple:italic
 simple:italic
-1687616	simple:italic
-1687618	simple:italic
+1789919	simple:italic
+1789921	simple:italic
 simple:italic
-1687621	simple:italic
-1687623	simple:italic
-1687625	simple:italic
+1789924	simple:italic
+1789926	simple:italic
+1789928	simple:italic
 simple:italic
-1687628	simple:italic
+1789931	simple:italic
 simple:italic
-1687631	simple:italic
-1687633	simple:italic
+1789934	simple:italic
+1789936	simple:italic
 simple:italic
-1687636	simple:italic
+1789939	simple:italic
 simple:italic
-1687639	simple:italic
+1789942	simple:italic
 simple:italic
-1687642	simple:italic
-1687644	simple:italic
-1687646	simple:italic
-1687648	simple:italic
-1687655	simple:italic
+1789945	simple:italic
+1789947	simple:italic
+1789949	simple:italic
+1789951	simple:italic
+1789958	simple:italic
 simple:italic
-1687658	simple:italic
+1789961	simple:italic
 simple:italic
-1687661	simple:italic
-1687663	simple:italic
-1687665	simple:italic
-1687667	simple:italic
-1687669	simple:italic
-1687671	simple:italic
-1687673	simple:italic
+1789964	simple:italic
+1789966	simple:italic
+1789968	simple:italic
+1789970	simple:italic
+1789972	simple:italic
+1789974	simple:italic
+1789976	simple:italic
 simple:italic
-1687676	simple:italic
-1687678	simple:italic
+1789979	simple:italic
+1789981	simple:italic
 simple:italic
-1687681	simple:italic
+1789984	simple:italic
 simple:italic
-1687689	simple:italic
-1687691	simple:italic
-1687693	simple:italic
+1789992	simple:italic
+1789994	simple:italic
+1789996	simple:italic
 simple:italic
-1687696	simple:italic
-1687698	simple:italic
-1687704	simple:italic
-1687706	simple:italic
-1687708	simple:italic
-1687710	simple:italic
-1687712	simple:italic
-1687714	simple:italic
-1687716	simple:italic
+1789999	simple:italic
+1790001	simple:italic
+1790007	simple:italic
+1790009	simple:italic
+1790011	simple:italic
+1790013	simple:italic
+1790015	simple:italic
+1790017	simple:italic
+1790019	simple:italic
 simple:italic
-1687719	simple:italic
-1687721	simple:italic
-1687723	simple:italic
-1687725	simple:italic
+1790022	simple:italic
+1790024	simple:italic
+1790026	simple:italic
+1790028	simple:italic
 simple:italic
-1687728	simple:italic
-1687730	simple:italic
+1790031	simple:italic
+1790033	simple:italic
 simple:italic
-1687733	simple:italic
-1687735	simple:italic
-1687737	simple:italic
+1790036	simple:italic
+1790038	simple:italic
+1790040	simple:italic
 simple:italic
-1687740	simple:italic
-1687742	simple:italic
-1687744	simple:italic
-1687746	simple:italic
-1687750	simple:italic
+1790043	simple:italic
+1790045	simple:italic
+1790047	simple:italic
+1790049	simple:italic
+1790053	simple:italic
 simple:italic
-1687753	simple:italic
+1790056	simple:italic
 simple:italic
-1687756	simple:italic
-1687758	simple:italic
-1687760	simple:italic
-1687762	simple:italic
-1687764	simple:italic
-1687766	simple:italic
-1687768	simple:italic
+1790059	simple:italic
+1790061	simple:italic
+1790063	simple:italic
+1790065	simple:italic
+1790067	simple:italic
+1790069	simple:italic
+1790071	simple:italic
 simple:italic
-1687771	simple:italic
-1687773	simple:italic
-1687775	simple:italic
-1687777	simple:italic
-1687779	simple:italic
-1687781	simple:italic
-1687783	simple:italic
-1687785	simple:italic
-1687787	simple:italic
-1687789	simple:italic
-1687791	simple:italic
-1687793	simple:italic
+1790074	simple:italic
+1790076	simple:italic
+1790078	simple:italic
+1790080	simple:italic
+1790082	simple:italic
+1790084	simple:italic
+1790086	simple:italic
+1790088	simple:italic
+1790090	simple:italic
+1790092	simple:italic
+1790094	simple:italic
+1790096	simple:italic
 simple:italic
-1687796	simple:italic
+1790099	simple:italic
 simple:italic
-1687807	simple:italic
-1687809	simple:italic
-1687811	simple:italic
+1790110	simple:italic
+1790112	simple:italic
+1790114	simple:italic
 simple:italic
-1687814	simple:italic
-1687816	simple:italic
+1790117	simple:italic
+1790119	simple:italic
 simple:italic
-1687819	simple:italic
+1790122	simple:italic
 simple:italic
-1687822	simple:italic
-1687826	simple:italic
-1687828	simple:italic
+1790125	simple:italic
+1790129	simple:italic
+1790131	simple:italic
 simple:italic
-1687831	simple:italic
-1687833	simple:italic
+1790134	simple:italic
+1790136	simple:italic
 simple:italic
-1687838	simple:italic
+1790141	simple:italic
 simple:italic
-1687841	simple:italic
+1790144	simple:italic
 simple:italic
-1687852	simple:italic
+1790155	simple:italic
 simple:italic
-1687855	simple:italic
-1687857	simple:italic
+1790158	simple:italic
+1790160	simple:italic
 simple:italic
-1687860	simple:italic
-1687862	simple:italic
-1687864	simple:italic
+1790163	simple:italic
+1790165	simple:italic
+1790167	simple:italic
 simple:italic
-1687867	simple:italic
+1790170	simple:italic
 simple:italic
-1687870	simple:italic
-1687872	simple:italic
-1687874	simple:italic
+1790173	simple:italic
+1790175	simple:italic
+1790177	simple:italic
 simple:italic
-1687877	simple:italic
-1687879	simple:italic
-1687881	simple:italic
+1790180	simple:italic
+1790182	simple:italic
+1790184	simple:italic
 simple:italic
-1687884	simple:italic
-1687892	simple:italic
-1687894	simple:italic
+1790187	simple:italic
+1790195	simple:italic
+1790197	simple:italic
 simple:italic
-1687897	simple:italic
+1790200	simple:italic
 simple:italic
-1687900	simple:italic
+1790203	simple:italic
 simple:italic
-1687903	simple:italic
+1790206	simple:italic
 simple:italic
-1687906	simple:italic
-1687908	simple:italic
+1790209	simple:italic
+1790211	simple:italic
 simple:italic
-1687911	simple:italic
+1790214	simple:italic
 simple:italic
-1687914	simple:italic
+1790217	simple:italic
 simple:italic
-1687917	simple:italic
+1790220	simple:italic
 simple:italic
-1687920	simple:italic
+1790223	simple:italic
 simple:italic
-1687923	simple:italic
+1790226	simple:italic
 simple:italic
-1687926	simple:italic
-1687930	simple:italic
+1790229	simple:italic
+1790233	simple:italic
 simple:italic
-1687933	simple:italic
+1790236	simple:italic
 simple:italic
-1687936	simple:italic
-1687938	simple:italic
-1687940	simple:italic
-1687942	simple:italic
+1790239	simple:italic
+1790241	simple:italic
+1790243	simple:italic
+1790245	simple:italic
 simple:italic
-1687945	simple:italic
-1687947	simple:italic
+1790248	simple:italic
+1790250	simple:italic
 simple:italic
-1687950	simple:italic
-1687952	simple:italic
+1790253	simple:italic
+1790255	simple:italic
 simple:italic
-1687955	simple:italic
-1687957	simple:italic
+1790258	simple:italic
+1790260	simple:italic
 simple:italic
-1687960	simple:italic
-1687962	simple:italic
+1790263	simple:italic
+1790265	simple:italic
 simple:italic
-1687965	simple:italic
+1790268	simple:italic
 simple:italic
-1687968	simple:italic
-1687970	simple:italic
-1687972	simple:italic
+1790271	simple:italic
+1790273	simple:italic
+1790275	simple:italic
 simple:italic
-1687975	simple:italic
-1687982	simple:italic
-1687984	simple:italic
+1790278	simple:italic
+1790285	simple:italic
+1790287	simple:italic
 simple:italic
-1687987	simple:italic
+1790290	simple:italic
 simple:italic
-1687990	simple:italic
-1687992	simple:italic
+1790293	simple:italic
+1790295	simple:italic
 simple:italic
-1687995	simple:italic
+1790298	simple:italic
 simple:italic
-1687998	simple:italic
-1688000	simple:italic
-1688004	simple:italic
-1688006	simple:italic
-1688008	simple:italic
-1688010	simple:italic
-1688012	simple:italic
-1688014	simple:italic
-1688016	simple:italic
-1688018	simple:italic
+1790301	simple:italic
+1790303	simple:italic
+1790307	simple:italic
+1790309	simple:italic
+1790311	simple:italic
+1790313	simple:italic
+1790315	simple:italic
+1790317	simple:italic
+1790319	simple:italic
+1790321	simple:italic
 simple:italic
-1688021	simple:italic
-1688023	simple:italic
+1790324	simple:italic
+1790326	simple:italic
 simple:italic
-1688026	simple:italic
-1688028	simple:italic
+1790329	simple:italic
+1790331	simple:italic
 simple:italic
-1688031	simple:italic
-1688033	simple:italic
+1790334	simple:italic
+1790336	simple:italic
 simple:italic
-1688036	simple:italic
+1790339	simple:italic
 simple:italic
-1688039	simple:italic
-1688041	simple:italic
+1790342	simple:italic
+1790344	simple:italic
 simple:italic
-1688044	simple:italic
-1688046	simple:italic
+1790347	simple:italic
+1790349	simple:italic
 simple:italic
-1688049	simple:italic
+1790352	simple:italic
 simple:italic
 simple:italic
-1688064	simple:italic
-1688066	simple:italic
-1688068	simple:italic
-1688070	simple:italic
-1688072	simple:italic
+1790367	simple:italic
+1790369	simple:italic
+1790371	simple:italic
+1790373	simple:italic
+1790375	simple:italic
 simple:italic
-1688075	simple:italic
-1688077	simple:italic
+1790378	simple:italic
+1790380	simple:italic
 simple:italic
-1688080	simple:italic
-1688082	simple:italic
+1790383	simple:italic
+1790385	simple:italic
 simple:italic
-1688085	simple:italic
+1790388	simple:italic
 simple:italic
-1688088	simple:italic
-1688092	simple:italic
-1688094	simple:italic
-1688096	simple:italic
-1688098	simple:italic
-1688100	simple:italic
-1688102	simple:italic
-1688104	simple:italic
+1790391	simple:italic
+1790395	simple:italic
+1790397	simple:italic
+1790399	simple:italic
+1790401	simple:italic
+1790403	simple:italic
+1790405	simple:italic
+1790407	simple:italic
 simple:italic
-1688107	simple:italic
-1688109	simple:italic
-1688115	simple:italic
+1790410	simple:italic
+1790412	simple:italic
+1790418	simple:italic
 simple:italic
-1688118	simple:italic
+1790421	simple:italic
 simple:italic
-1688121	simple:italic
-1688123	simple:italic
-1688125	simple:italic
-1688147	simple:italic
-1688149	simple:italic
-1688151	simple:italic
-1688153	simple:italic
-1688155	simple:italic
-1688157	simple:italic
-1688159	simple:italic
-1688161	simple:italic
+1790424	simple:italic
+1790426	simple:italic
+1790428	simple:italic
+1790450	simple:italic
+1790452	simple:italic
+1790454	simple:italic
+1790456	simple:italic
+1790458	simple:italic
+1790460	simple:italic
+1790462	simple:italic
+1790464	simple:italic
 simple:italic
-1688164	simple:italic
-1688174	simple:italic
+1790467	simple:italic
+1790477	simple:italic
 simple:italic
-1688177	simple:italic
-1688179	simple:italic
-1688181	simple:italic
+1790480	simple:italic
+1790482	simple:italic
+1790484	simple:italic
 simple:italic
-1688184	simple:italic
-1688186	simple:italic
-1688188	simple:italic
-1688190	simple:italic
+1790487	simple:italic
+1790489	simple:italic
+1790491	simple:italic
+1790493	simple:italic
 simple:italic
-1688193	simple:italic
-1688195	simple:italic
+1790496	simple:italic
+1790498	simple:italic
 simple:italic
-1688198	simple:italic
+1790501	simple:italic
 simple:italic
-1688201	simple:italic
-1688203	simple:italic
+1790504	simple:italic
+1790506	simple:italic
 simple:italic
-1688206	simple:italic
-1688208	simple:italic
-1688212	simple:italic
-1688214	simple:italic
+1790509	simple:italic
+1790511	simple:italic
+1790515	simple:italic
+1790517	simple:italic
 simple:italic
-1688217	simple:italic
+1790520	simple:italic
 simple:italic
-1688220	simple:italic
-1688222	simple:italic
-1688224	simple:italic
-1688226	simple:italic
-1688228	simple:italic
-1688230	simple:italic
-1688232	simple:italic
-1688234	simple:italic
-1688236	simple:italic
-1688238	simple:italic
-1688240	simple:italic
-1688242	simple:italic
+1790523	simple:italic
+1790525	simple:italic
+1790527	simple:italic
+1790529	simple:italic
+1790531	simple:italic
+1790533	simple:italic
+1790535	simple:italic
+1790537	simple:italic
+1790539	simple:italic
+1790541	simple:italic
+1790543	simple:italic
+1790545	simple:italic
 simple:italic
-1688245	simple:italic
-1688247	simple:italic
-1688249	simple:italic
-1688256	simple:italic
-1688258	simple:italic
-1688260	simple:italic
-1688262	simple:italic
-1688264	simple:italic
-1688266	simple:italic
-1688268	simple:italic
-1688270	simple:italic
-1688276	simple:italic
-1688278	simple:italic
-1688280	simple:italic
-1688282	simple:italic
-1688284	simple:italic
-1688286	simple:italic
-1688294	simple:italic
-1688296	simple:italic
+1790548	simple:italic
+1790550	simple:italic
+1790552	simple:italic
+1790559	simple:italic
+1790561	simple:italic
+1790563	simple:italic
+1790565	simple:italic
+1790567	simple:italic
+1790569	simple:italic
+1790571	simple:italic
+1790573	simple:italic
+1790579	simple:italic
+1790581	simple:italic
+1790583	simple:italic
+1790585	simple:italic
+1790587	simple:italic
+1790589	simple:italic
+1790597	simple:italic
+1790599	simple:italic
 simple:italic
-1688299	simple:italic
+1790602	simple:italic
 simple:italic
-1688302	simple:italic
-1688304	simple:italic
-1688306	simple:italic
+1790605	simple:italic
+1790607	simple:italic
+1790609	simple:italic
 simple:italic
-1688309	simple:italic
-1688311	simple:italic
-1688313	simple:italic
-1688315	simple:italic
-1688317	simple:italic
-1688319	simple:italic
+1790612	simple:italic
+1790614	simple:italic
+1790616	simple:italic
+1790618	simple:italic
+1790620	simple:italic
+1790622	simple:italic
 simple:italic
-1688322	simple:italic
-1688324	simple:italic
+1790625	simple:italic
+1790627	simple:italic
 simple:italic
-1688327	simple:italic
-1688329	simple:italic
-1688339	simple:italic
-1688341	simple:italic
+1790630	simple:italic
+1790632	simple:italic
+1790642	simple:italic
+1790644	simple:italic
 simple:italic
-1688344	simple:italic
+1790647	simple:italic
 simple:italic
-1688347	simple:italic
-1688349	simple:italic
+1790650	simple:italic
+1790652	simple:italic
 simple:italic
-1688352	simple:italic
-1688354	simple:italic
-1688356	simple:italic
-1688358	simple:italic
+1790655	simple:italic
+1790657	simple:italic
+1790659	simple:italic
+1790661	simple:italic
 simple:italic
-1688361	simple:italic
+1790664	simple:italic
 simple:italic
-1688364	simple:italic
-1688366	simple:italic
-1688368	simple:italic
-1688370	simple:italic
-1688382	simple:italic
-1688384	simple:italic
-1688386	simple:italic
-1688402	simple:italic
+1790667	simple:italic
+1790669	simple:italic
+1790671	simple:italic
+1790673	simple:italic
+1790685	simple:italic
+1790687	simple:italic
+1790689	simple:italic
+1790705	simple:italic
 simple:italic
-1688405	simple:italic
-1688407	simple:italic
+1790708	simple:italic
+1790710	simple:italic
 simple:italic
-1688410	simple:italic
+1790713	simple:italic
 simple:italic
-1688413	simple:italic
+1790716	simple:italic
 simple:italic
-1688416	simple:italic
-1688418	simple:italic
-1688420	simple:italic
+1790719	simple:italic
+1790721	simple:italic
+1790723	simple:italic
 simple:italic
-1688423	simple:italic
+1790726	simple:italic
 simple:italic
-1688426	simple:italic
+1790729	simple:italic
 simple:italic
-1688441	simple:italic
+1790744	simple:italic
 simple:italic
-1688444	simple:italic
-1688446	simple:italic
+1790747	simple:italic
+1790749	simple:italic
 simple:italic
-1688467	simple:italic
-1688469	simple:italic
-1688471	simple:italic
+1790770	simple:italic
+1790772	simple:italic
+1790774	simple:italic
 simple:italic
-1688474	simple:italic
+1790777	simple:italic
 simple:italic
-1688477	simple:italic
-1688479	simple:italic
-1688481	simple:italic
-1688483	simple:italic
-1688485	simple:italic
-1688487	simple:italic
-1688493	simple:italic
-1688495	simple:italic
+1790780	simple:italic
+1790782	simple:italic
+1790784	simple:italic
+1790786	simple:italic
+1790788	simple:italic
+1790790	simple:italic
+1790796	simple:italic
+1790798	simple:italic
 simple:italic
-1688498	simple:italic
-1688500	simple:italic
-1688502	simple:italic
+1790801	simple:italic
+1790803	simple:italic
+1790805	simple:italic
 simple:italic
-1688505	simple:italic
+1790808	simple:italic
 simple:italic
-1688508	simple:italic
+1790811	simple:italic
 simple:italic
-1688511	simple:italic
+1790814	simple:italic
 simple:italic
-1688514	simple:italic
-1688516	simple:italic
-1688518	simple:italic
-1688520	simple:italic
-1688534	simple:italic
-1688536	simple:italic
-1688538	simple:italic
-1688540	simple:italic
-1688542	simple:italic
-1688544	simple:italic
+1790817	simple:italic
+1790819	simple:italic
+1790821	simple:italic
+1790823	simple:italic
+1790837	simple:italic
+1790839	simple:italic
+1790841	simple:italic
+1790843	simple:italic
+1790845	simple:italic
+1790847	simple:italic
 simple:italic
-1688547	simple:italic
-1688549	simple:italic
-1688551	simple:italic
-1688553	simple:italic
+1790850	simple:italic
+1790852	simple:italic
+1790854	simple:italic
+1790856	simple:italic
 simple:italic
-1688556	simple:italic
+1790859	simple:italic
 simple:italic
-1688559	simple:italic
+1790862	simple:italic
 simple:italic
-1688562	simple:italic
-1688564	simple:italic
-1688588	simple:italic
-1688590	simple:italic
+1790865	simple:italic
+1790867	simple:italic
+1790891	simple:italic
+1790893	simple:italic
 simple:italic
-1688593	simple:italic
-1688595	simple:italic
-1688597	simple:italic
-1688599	simple:italic
+1790896	simple:italic
+1790898	simple:italic
+1790900	simple:italic
+1790902	simple:italic
 simple:italic
-1688602	simple:italic
-1688604	simple:italic
-1688612	simple:italic
-1688614	simple:italic
-1688616	simple:italic
+1790905	simple:italic
+1790907	simple:italic
+1790915	simple:italic
+1790917	simple:italic
+1790919	simple:italic
 simple:italic
-1688619	simple:italic
-1688621	simple:italic
+1790922	simple:italic
+1790924	simple:italic
 simple:italic
-1688624	simple:italic
-1688642	simple:italic
+1790927	simple:italic
+1790945	simple:italic
 simple:italic
-1688645	simple:italic
-1688647	simple:italic
-1688649	simple:italic
+1790948	simple:italic
+1790950	simple:italic
+1790952	simple:italic
 simple:italic
-1688652	simple:italic
-1688654	simple:italic
-1688656	simple:italic
+1790955	simple:italic
+1790957	simple:italic
+1790959	simple:italic
 simple:italic
-1688659	simple:italic
-1688661	simple:italic
-1688669	simple:italic
-1688671	simple:italic
+1790962	simple:italic
+1790964	simple:italic
+1790972	simple:italic
+1790974	simple:italic
 simple:italic
-1688674	simple:italic
-1688676	simple:italic
-1688678	simple:italic
+1790977	simple:italic
+1790979	simple:italic
+1790981	simple:italic
 simple:italic
-1688681	simple:italic
-1688683	simple:italic
-1688685	simple:italic
+1790984	simple:italic
+1790986	simple:italic
+1790988	simple:italic
 simple:italic
-1688688	simple:italic
-1688690	simple:italic
-1688692	simple:italic
-1688695	simple:italic
-1688697	simple:italic
-1688699	simple:italic
+1790991	simple:italic
+1790993	simple:italic
+1790995	simple:italic
+1790998	simple:italic
+1791000	simple:italic
+1791002	simple:italic
 simple:italic
-1688702	simple:italic
-1688704	simple:italic
-1688706	simple:italic
-1688708	simple:italic
-1688710	simple:italic
-1688712	simple:italic
+1791005	simple:italic
+1791007	simple:italic
+1791009	simple:italic
+1791011	simple:italic
+1791013	simple:italic
+1791015	simple:italic
 simple:italic
-1688715	simple:italic
-1688717	simple:italic
-1688719	simple:italic
-1688721	simple:italic
-1688723	simple:italic
-1688730	simple:italic
-1688732	simple:italic
-1688734	simple:italic
-1688736	simple:italic
-1688738	simple:italic
-1688740	simple:italic
-1688742	simple:italic
-1688744	simple:italic
+1791018	simple:italic
+1791020	simple:italic
+1791022	simple:italic
+1791024	simple:italic
+1791026	simple:italic
+1791033	simple:italic
+1791035	simple:italic
+1791037	simple:italic
+1791039	simple:italic
+1791041	simple:italic
+1791043	simple:italic
+1791045	simple:italic
+1791047	simple:italic
 simple:italic
-1688753	simple:italic
+1791056	simple:italic
 simple:italic
-1688756	simple:italic
+1791059	simple:italic
 simple:italic
-1688759	simple:italic
+1791062	simple:italic
 simple:italic
-1688762	simple:italic
-1688764	simple:italic
+1791065	simple:italic
+1791067	simple:italic
 simple:italic
-1688767	simple:italic
-1688769	simple:italic
+1791070	simple:italic
+1791072	simple:italic
 simple:italic
-1688772	simple:italic
-1688774	simple:italic
-1688776	simple:italic
-1688778	simple:italic
-1688780	simple:italic
+1791075	simple:italic
+1791077	simple:italic
+1791079	simple:italic
+1791081	simple:italic
+1791083	simple:italic
 simple:italic
-1688783	simple:italic
-1688785	simple:italic
+1791086	simple:italic
+1791088	simple:italic
 simple:italic
-1688788	simple:italic
+1791091	simple:italic
 simple:italic
-1688791	simple:italic
+1791094	simple:italic
 simple:italic
-1688794	simple:italic
+1791097	simple:italic
 simple:italic
-1688797	simple:italic
+1791100	simple:italic
 simple:italic
-1688800	simple:italic
-1688804	simple:italic
-1688806	simple:italic
-1688808	simple:italic
-1688810	simple:italic
+1791103	simple:italic
+1791107	simple:italic
+1791109	simple:italic
+1791111	simple:italic
+1791113	simple:italic
 simple:italic
-1688813	simple:italic
+1791116	simple:italic
 simple:italic
-1688816	simple:italic
-1688818	simple:italic
+1791119	simple:italic
+1791121	simple:italic
 simple:italic
-1688821	simple:italic
+1791124	simple:italic
 simple:italic
-1688824	simple:italic
+1791127	simple:italic
 simple:italic
-1688827	simple:italic
-1688829	simple:italic
-1688831	simple:italic
-1688833	simple:italic
-1688835	simple:italic
-1688837	simple:italic
+1791130	simple:italic
+1791132	simple:italic
+1791134	simple:italic
+1791136	simple:italic
+1791138	simple:italic
+1791140	simple:italic
 simple:italic
-1688840	simple:italic
-1688842	simple:italic
-1688844	simple:italic
-1688846	simple:italic
+1791143	simple:italic
+1791145	simple:italic
+1791147	simple:italic
+1791149	simple:italic
 simple:italic
-1688849	simple:italic
-1688851	simple:italic
-1688853	simple:italic
+1791152	simple:italic
+1791154	simple:italic
+1791156	simple:italic
 simple:italic
-1688856	simple:italic
+1791159	simple:italic
 simple:italic
-1688859	simple:italic
-1688861	simple:italic
+1791162	simple:italic
+1791164	simple:italic
 simple:italic
-1688864	simple:italic
-1688866	simple:italic
-1688868	simple:italic
-1688870	simple:italic
-1688877	simple:italic
+1791167	simple:italic
+1791169	simple:italic
+1791171	simple:italic
+1791173	simple:italic
+1791180	simple:italic
 simple:italic
-1688880	simple:italic
+1791183	simple:italic
 simple:italic
-1688883	simple:italic
-1688885	simple:italic
-1688887	simple:italic
-1688889	simple:italic
-1688891	simple:italic
-1688893	simple:italic
+1791186	simple:italic
+1791188	simple:italic
+1791190	simple:italic
+1791192	simple:italic
+1791194	simple:italic
+1791196	simple:italic
 simple:italic
-1688896	simple:italic
+1791199	simple:italic
 simple:italic
-1688899	simple:italic
+1791202	simple:italic
 simple:italic
-1688902	simple:italic
+1791205	simple:italic
 simple:italic
-1688905	simple:italic
-1688907	simple:italic
-1688909	simple:italic
-1688911	simple:italic
+1791208	simple:italic
+1791210	simple:italic
+1791212	simple:italic
+1791214	simple:italic
 simple:italic
-1688914	simple:italic
-1688916	simple:italic
+1791217	simple:italic
+1791219	simple:italic
 simple:italic
-1688919	simple:italic
-1688921	simple:italic
-1688923	simple:italic
-1688925	simple:italic
-1688929	simple:italic
-1688931	simple:italic
-1688933	simple:italic
-1688951	simple:italic
+1791222	simple:italic
+1791224	simple:italic
+1791226	simple:italic
+1791228	simple:italic
+1791232	simple:italic
+1791234	simple:italic
+1791236	simple:italic
+1791254	simple:italic
 simple:italic
-1688954	simple:italic
-1688956	simple:italic
-1688958	simple:italic
+1791257	simple:italic
+1791259	simple:italic
+1791261	simple:italic
 simple:italic
-1688961	simple:italic
-1688965	simple:italic
+1791264	simple:italic
+1791268	simple:italic
 simple:italic
-1688968	simple:italic
-1688970	simple:italic
-1688972	simple:italic
-1688974	simple:italic
+1791271	simple:italic
+1791273	simple:italic
+1791275	simple:italic
+1791277	simple:italic
 simple:italic
-1688977	simple:italic
+1791280	simple:italic
 simple:italic
-1688980	simple:italic
-1688982	simple:italic
-1688984	simple:italic
-1688986	simple:italic
+1791283	simple:italic
+1791285	simple:italic
+1791287	simple:italic
+1791289	simple:italic
 simple:italic
-1688989	simple:italic
-1688991	simple:italic
-1688993	simple:italic
-1688995	simple:italic
+1791292	simple:italic
+1791294	simple:italic
+1791296	simple:italic
+1791298	simple:italic
 simple:italic
-1688998	simple:italic
-1689000	simple:italic
+1791301	simple:italic
+1791303	simple:italic
 simple:italic
-1689003	simple:italic
+1791306	simple:italic
 simple:italic
-1689006	simple:italic
-1689008	simple:italic
-1689010	simple:italic
+1791309	simple:italic
+1791311	simple:italic
+1791313	simple:italic
 simple:italic
-1689013	simple:italic
-1689015	simple:italic
-1689017	simple:italic
+1791316	simple:italic
+1791318	simple:italic
+1791320	simple:italic
 simple:superscript
 simple:italic
-1689021	simple:italic
-simple:italic
-1689030	simple:italic
-1689032	simple:italic
-1689034	simple:italic
-1689036	simple:italic
-simple:italic
-1689039	simple:italic
-simple:italic
-1689042	simple:italic
-simple:italic
-1689045	simple:italic
-1689047	simple:italic
-simple:italic
-1689057	simple:italic
-1689060	simple:italic
-1689062	simple:italic
-simple:italic
-1689065	simple:italic
-1689067	simple:italic
-1689069	simple:italic
-1689071	simple:italic
-1689073	simple:italic
-1689075	simple:italic
-1689077	simple:italic
-1689079	simple:italic
-1689081	simple:italic
-1689088	simple:italic
-simple:italic
-1689091	simple:italic
-1689093	simple:italic
-1689095	simple:italic
-1689097	simple:italic
-1689099	simple:italic
-1689101	simple:italic
-1689103	simple:italic
-simple:italic
-1689106	simple:italic
-1689108	simple:italic
-simple:italic
-1689111	simple:italic
-1689113	simple:italic
-1689115	simple:italic
-1689117	simple:italic
-1689119	simple:italic
-1689121	simple:italic
-simple:italic
-1689124	simple:italic
-1689126	simple:italic
-1689128	simple:italic
-1689130	simple:italic
-1689132	simple:italic
-1689134	simple:italic
-1689136	simple:italic
-simple:italic
-1689139	simple:italic
-1689141	simple:italic
-simple:italic
-1689144	simple:italic
-1689146	simple:italic
-1689148	simple:italic
-simple:italic
-1689151	simple:italic
-simple:italic
-1689154	simple:italic
-1689156	simple:italic
-simple:italic
-1689162	simple:italic
-1689164	simple:italic
-simple:italic
-1689167	simple:italic
-1689169	simple:italic
-simple:italic
-1689172	simple:italic
-simple:italic
-1689175	simple:italic
-1689177	simple:italic
-1689179	simple:italic
-1689181	simple:italic
-1689183	simple:italic
-1689185	simple:italic
-1689187	simple:italic
-1689189	simple:italic
-1689191	simple:italic
-1689193	simple:italic
-simple:italic
-1689196	simple:italic
-1689198	simple:italic
-1689200	simple:italic
-simple:italic
-1689203	simple:italic
-1689205	simple:italic
-1689207	simple:italic
-simple:italic
-1689210	simple:italic
-simple:italic
-1689213	simple:italic
-1689215	simple:italic
-1689217	simple:italic
-1689221	simple:italic
-1689223	simple:italic
-1689225	simple:italic
-1689227	simple:italic
-simple:italic
-1689230	simple:italic
-1689232	simple:italic
-1689243	simple:italic
-simple:italic
-1689246	simple:italic
-simple:italic
-1689249	simple:italic
-simple:italic
-1689252	simple:italic
-1689254	simple:italic
-1689256	simple:italic
-1689258	simple:italic
-1689260	simple:italic
-1689262	simple:italic
-1689264	simple:italic
-1689266	simple:italic
-simple:italic
-1689269	simple:italic
-1689271	simple:italic
-1689273	simple:italic
-1689275	simple:italic
-simple:italic
-1689278	simple:italic
-1689280	simple:italic
-1689282	simple:italic
-simple:italic
-1689285	simple:italic
-1689287	simple:italic
-1689289	simple:italic
-1689291	simple:italic
-simple:italic
-1689294	simple:italic
-simple:italic
-1689297	simple:italic
-simple:italic
-1689300	simple:italic
-simple:italic
-1689303	simple:italic
-simple:italic
-1689306	simple:italic
-1689308	simple:italic
-1689318	simple:italic
-simple:italic
-1689321	simple:italic
-simple:italic
-1689324	simple:italic
-1689328	simple:italic
-1689330	simple:italic
-1689332	simple:italic
-1689334	simple:italic
-1689336	simple:italic
-1689338	simple:italic
-1689340	simple:italic
-1689342	simple:italic
-1689344	simple:italic
-simple:italic
-1689347	simple:italic
-1689349	simple:italic
-1689351	simple:italic
-1689353	simple:italic
-1689355	simple:italic
-1689357	simple:italic
-1689359	simple:italic
-1689361	simple:italic
-simple:italic
-simple:italic
-1689373	simple:italic
-1689375	simple:italic
-1689377	simple:italic
-1689379	simple:italic
-1689381	simple:italic
-1689383	simple:italic
-1689385	simple:italic
-simple:italic
-1689388	simple:italic
-simple:italic
-1689391	simple:italic
-1689393	simple:italic
-1689395	simple:italic
-1689397	simple:italic
-1689399	simple:italic
-simple:italic
-1689402	simple:italic
-1689404	simple:italic
-1689406	simple:italic
-1689408	simple:italic
-simple:italic
-1689411	simple:italic
-simple:italic
-1689414	simple:italic
-1689416	simple:italic
-1689418	simple:italic
-1689420	simple:italic
-1689422	simple:italic
-1689424	simple:italic
-1689426	simple:italic
-1689428	simple:italic
-1689430	simple:italic
-1689432	simple:italic
-1689434	simple:italic
-1689436	simple:italic
-1689438	simple:italic
-1689440	simple:italic
-1689442	simple:italic
-1689444	simple:italic
-1689446	simple:italic
-1689448	simple:italic
-1689450	simple:italic
-simple:italic
-1689453	simple:italic
-1689455	simple:italic
-1689457	simple:italic
-1689459	simple:italic
-1689461	simple:italic
-1689463	simple:italic
-1689465	simple:italic
-1689467	simple:italic
-1689469	simple:italic
-1689471	simple:italic
-1689473	simple:italic
-simple:italic
-1689476	simple:italic
-1689478	simple:italic
-1689480	simple:italic
-1689482	simple:italic
-1689484	simple:italic
-1689486	simple:italic
-1689488	simple:italic
-simple:italic
-1689491	simple:italic
-1689493	simple:italic
-simple:italic
-1689496	simple:italic
-simple:italic
-1689499	simple:italic
-1689501	simple:italic
-1689506	simple:italic
-1689508	simple:italic
-1689510	simple:italic
-1689512	simple:italic
-1689514	simple:italic
-1689516	simple:italic
-1689518	simple:italic
-1689520	simple:italic
-1689522	simple:italic
-simple:italic
-1689525	simple:italic
-simple:italic
-1689528	simple:italic
-simple:italic
-1689531	simple:italic
-1689533	simple:italic
-simple:italic
-simple:italic
-1689537	simple:italic
-simple:italic
-1689540	simple:italic
-1689552	simple:italic
-simple:italic
-simple:italic
-1689556	simple:italic
-1689558	simple:italic
-simple:italic
-1689561	simple:italic
-1689563	simple:italic
-1689565	simple:italic
-1689567	simple:italic
-1689569	simple:italic
-1689571	simple:italic
-1689573	simple:italic
-1689575	simple:italic
-1689577	simple:italic
-1689579	simple:italic
-simple:italic
-1689582	simple:italic
-1689584	simple:italic
-1689586	simple:italic
-simple:italic
-1689589	simple:italic
-simple:italic
-1689592	simple:italic
-1689594	simple:italic
-simple:italic
-1689597	simple:italic
-1689599	simple:italic
-1689601	simple:italic
-1689603	simple:italic
-simple:italic
-1689606	simple:italic
-1689608	simple:italic
-simple:italic
-1689611	simple:italic
-1689613	simple:italic
-1689615	simple:italic
-1689617	simple:italic
-simple:italic
-1689620	simple:italic
-1689623	simple:italic
-1689625	simple:italic
-1689627	simple:italic
-simple:italic
-1689630	simple:italic
-1689632	simple:italic
-1689634	simple:italic
-1689636	simple:italic
-1689638	simple:italic
-1689640	simple:italic
-simple:italic
-1689643	simple:italic
-simple:italic
-1689647	simple:italic
-1689649	simple:italic
-1689651	simple:italic
-1689653	simple:italic
-simple:italic
-1689656	simple:italic
-1689658	simple:italic
-1689660	simple:italic
-1689662	simple:italic
-1689664	simple:italic
-1689666	simple:italic
-1689668	simple:italic
-1689670	simple:italic
-1689672	simple:italic
-1689675	simple:italic
-1689677	simple:italic
-simple:italic
-1689680	simple:italic
-1689682	simple:italic
-1689684	simple:italic
-1689686	simple:italic
-1689688	simple:italic
-1689690	simple:italic
-1689692	simple:italic
-simple:italic
-1689695	simple:italic
-simple:italic
-1689698	simple:italic
-1689700	simple:italic
-1689702	simple:italic
-1689704	simple:italic
-1689706	simple:italic
-1689708	simple:italic
-1689710	simple:italic
-simple:italic
-1689713	simple:italic
-1689715	simple:italic
-1689717	simple:italic
-1689719	simple:italic
-simple:italic
-1689722	simple:italic
-1689724	simple:italic
-1689726	simple:italic
-1689728	simple:italic
-1689731	simple:italic
-1689733	simple:italic
-simple:italic
-1689736	simple:italic
-1689738	simple:italic
-1689767	simple:italic
-1689769	simple:italic
-simple:italic
-1689772	simple:italic
-1689774	simple:italic
-1689776	simple:italic
-1689778	simple:italic
-1689780	simple:italic
-1689782	simple:italic
-1689784	simple:italic
-1689786	simple:italic
-1689788	simple:italic
-1689790	simple:italic
-1689792	simple:italic
-1689794	simple:italic
-1689796	simple:italic
-simple:italic
-simple:italic
-1689800	simple:italic
-1689802	simple:italic
-1689804	simple:italic
-1689806	simple:italic
-simple:italic
-simple:italic
-1689810	simple:italic
-1689812	simple:italic
-1689814	simple:italic
-simple:italic
-1689817	simple:italic
-simple:italic
-1689820	simple:italic
-simple:italic
-1689823	simple:italic
-1689825	simple:italic
-1689827	simple:italic
-1689829	simple:italic
-1689831	simple:italic
-simple:italic
-1689834	simple:italic
-1689836	simple:italic
-1689838	simple:italic
-1689840	simple:italic
-simple:italic
-1689843	simple:italic
-simple:italic
-1689846	simple:italic
-1689848	simple:italic
-1689850	simple:italic
-1689852	simple:italic
-1689854	simple:italic
-1689856	simple:italic
-1689858	simple:italic
-1689860	simple:italic
-simple:italic
-1689863	simple:italic
-1689865	simple:italic
-1689876	simple:italic
-simple:italic
-1689879	simple:italic
-1689881	simple:italic
-simple:italic
-1689884	simple:italic
-1689886	simple:italic
-1689888	simple:italic
-simple:italic
-1689891	simple:italic
-1689893	simple:italic
-1689895	simple:italic
-simple:italic
-1689898	simple:italic
-1689900	simple:italic
-1689902	simple:italic
-1689904	simple:italic
-1689906	simple:italic
-simple:italic
-1689909	simple:italic
-1689911	simple:italic
-1689913	simple:italic
-1689919	simple:italic
-1689921	simple:italic
-1689923	simple:italic
-1689925	simple:italic
-simple:italic
-1689928	simple:italic
-1689930	simple:italic
-simple:italic
-1689933	simple:italic
-1689935	simple:italic
-1689937	simple:italic
-1689939	simple:italic
-1689941	simple:italic
-1689943	simple:italic
-1689945	simple:italic
-simple:italic
-1689948	simple:italic
-simple:italic
-1689951	simple:italic
-simple:italic
-1689954	simple:italic
-simple:italic
-1689957	simple:italic
-simple:italic
-1689960	simple:italic
-1689962	simple:italic
-simple:italic
-1689965	simple:italic
-1689967	simple:italic
-simple:italic
-1689972	simple:italic
-1689974	simple:italic
-simple:italic
-1689977	simple:italic
-simple:italic
-1689980	simple:italic
-1689982	simple:italic
-simple:italic
-1689985	simple:italic
-simple:italic
-1689988	simple:italic
-1689990	simple:italic
-1689992	simple:italic
+1791324	simple:italic
+simple:italic
+1791333	simple:italic
+1791335	simple:italic
+1791337	simple:italic
+1791339	simple:italic
+simple:italic
+1791342	simple:italic
+simple:italic
+1791345	simple:italic
+simple:italic
+1791348	simple:italic
+1791350	simple:italic
+simple:italic
+1791360	simple:italic
+1791363	simple:italic
+1791365	simple:italic
+simple:italic
+1791368	simple:italic
+1791370	simple:italic
+1791372	simple:italic
+1791374	simple:italic
+1791376	simple:italic
+1791378	simple:italic
+1791380	simple:italic
+1791382	simple:italic
+1791384	simple:italic
+1791391	simple:italic
+simple:italic
+1791394	simple:italic
+1791396	simple:italic
+1791398	simple:italic
+1791400	simple:italic
+1791402	simple:italic
+1791404	simple:italic
+1791406	simple:italic
+simple:italic
+1791409	simple:italic
+1791411	simple:italic
+simple:italic
+1791414	simple:italic
+1791416	simple:italic
+1791418	simple:italic
+1791420	simple:italic
+1791422	simple:italic
+1791424	simple:italic
+simple:italic
+1791427	simple:italic
+1791429	simple:italic
+1791431	simple:italic
+1791433	simple:italic
+1791435	simple:italic
+1791437	simple:italic
+1791439	simple:italic
+simple:italic
+1791442	simple:italic
+1791444	simple:italic
+simple:italic
+1791447	simple:italic
+1791449	simple:italic
+1791451	simple:italic
+simple:italic
+1791454	simple:italic
+simple:italic
+1791457	simple:italic
+1791459	simple:italic
+simple:italic
+1791465	simple:italic
+1791467	simple:italic
+simple:italic
+1791470	simple:italic
+1791472	simple:italic
+simple:italic
+1791475	simple:italic
+simple:italic
+1791478	simple:italic
+1791480	simple:italic
+1791482	simple:italic
+1791484	simple:italic
+1791486	simple:italic
+1791488	simple:italic
+1791490	simple:italic
+1791492	simple:italic
+1791494	simple:italic
+1791496	simple:italic
+simple:italic
+1791499	simple:italic
+1791501	simple:italic
+1791503	simple:italic
+simple:italic
+1791506	simple:italic
+1791508	simple:italic
+1791510	simple:italic
+simple:italic
+1791513	simple:italic
+simple:italic
+1791516	simple:italic
+1791518	simple:italic
+1791520	simple:italic
+1791524	simple:italic
+1791526	simple:italic
+1791528	simple:italic
+1791530	simple:italic
+simple:italic
+1791533	simple:italic
+1791535	simple:italic
+1791546	simple:italic
+simple:italic
+1791549	simple:italic
+simple:italic
+1791552	simple:italic
+simple:italic
+1791555	simple:italic
+1791557	simple:italic
+1791559	simple:italic
+1791561	simple:italic
+1791563	simple:italic
+1791565	simple:italic
+1791567	simple:italic
+1791569	simple:italic
+simple:italic
+1791572	simple:italic
+1791574	simple:italic
+1791576	simple:italic
+1791578	simple:italic
+simple:italic
+1791581	simple:italic
+1791583	simple:italic
+1791585	simple:italic
+simple:italic
+1791588	simple:italic
+1791590	simple:italic
+1791592	simple:italic
+1791594	simple:italic
+simple:italic
+1791597	simple:italic
+simple:italic
+1791600	simple:italic
+simple:italic
+1791603	simple:italic
+simple:italic
+1791606	simple:italic
+simple:italic
+1791609	simple:italic
+1791611	simple:italic
+1791621	simple:italic
+simple:italic
+1791624	simple:italic
+simple:italic
+1791627	simple:italic
+1791631	simple:italic
+1791633	simple:italic
+1791635	simple:italic
+1791637	simple:italic
+1791639	simple:italic
+1791641	simple:italic
+1791643	simple:italic
+1791645	simple:italic
+1791647	simple:italic
+simple:italic
+1791650	simple:italic
+1791652	simple:italic
+1791654	simple:italic
+1791656	simple:italic
+1791658	simple:italic
+1791660	simple:italic
+1791662	simple:italic
+1791664	simple:italic
+simple:italic
+simple:italic
+1791676	simple:italic
+1791678	simple:italic
+1791680	simple:italic
+1791682	simple:italic
+1791684	simple:italic
+1791686	simple:italic
+1791688	simple:italic
+simple:italic
+1791691	simple:italic
+simple:italic
+1791694	simple:italic
+1791696	simple:italic
+1791698	simple:italic
+1791700	simple:italic
+1791702	simple:italic
+simple:italic
+1791705	simple:italic
+1791707	simple:italic
+1791709	simple:italic
+1791711	simple:italic
+simple:italic
+1791714	simple:italic
+simple:italic
+1791717	simple:italic
+1791719	simple:italic
+1791721	simple:italic
+1791723	simple:italic
+1791725	simple:italic
+1791727	simple:italic
+1791729	simple:italic
+1791731	simple:italic
+1791733	simple:italic
+1791735	simple:italic
+1791737	simple:italic
+1791739	simple:italic
+1791741	simple:italic
+1791743	simple:italic
+1791745	simple:italic
+1791747	simple:italic
+1791749	simple:italic
+1791751	simple:italic
+1791753	simple:italic
+simple:italic
+1791756	simple:italic
+1791758	simple:italic
+1791760	simple:italic
+1791762	simple:italic
+1791764	simple:italic
+1791766	simple:italic
+1791768	simple:italic
+1791770	simple:italic
+1791772	simple:italic
+1791774	simple:italic
+1791776	simple:italic
+simple:italic
+1791779	simple:italic
+1791781	simple:italic
+1791783	simple:italic
+1791785	simple:italic
+1791787	simple:italic
+1791789	simple:italic
+1791791	simple:italic
+simple:italic
+1791794	simple:italic
+1791796	simple:italic
+simple:italic
+1791799	simple:italic
+simple:italic
+1791802	simple:italic
+1791804	simple:italic
+1791809	simple:italic
+1791811	simple:italic
+1791813	simple:italic
+1791815	simple:italic
+1791817	simple:italic
+1791819	simple:italic
+1791821	simple:italic
+1791823	simple:italic
+1791825	simple:italic
+simple:italic
+1791828	simple:italic
+simple:italic
+1791831	simple:italic
+simple:italic
+1791834	simple:italic
+1791836	simple:italic
+simple:italic
+simple:italic
+1791840	simple:italic
+simple:italic
+1791843	simple:italic
+1791855	simple:italic
+simple:italic
+simple:italic
+1791859	simple:italic
+1791861	simple:italic
+simple:italic
+1791864	simple:italic
+1791866	simple:italic
+1791868	simple:italic
+1791870	simple:italic
+1791872	simple:italic
+1791874	simple:italic
+1791876	simple:italic
+1791878	simple:italic
+1791880	simple:italic
+1791882	simple:italic
+simple:italic
+1791885	simple:italic
+1791887	simple:italic
+1791889	simple:italic
+simple:italic
+1791892	simple:italic
+simple:italic
+1791895	simple:italic
+1791897	simple:italic
+simple:italic
+1791900	simple:italic
+1791902	simple:italic
+1791904	simple:italic
+1791906	simple:italic
+simple:italic
+1791909	simple:italic
+1791911	simple:italic
+simple:italic
+1791914	simple:italic
+1791916	simple:italic
+1791918	simple:italic
+1791920	simple:italic
+simple:italic
+1791923	simple:italic
+1791926	simple:italic
+1791928	simple:italic
+1791930	simple:italic
+simple:italic
+1791933	simple:italic
+1791935	simple:italic
+1791937	simple:italic
+1791939	simple:italic
+1791941	simple:italic
+1791943	simple:italic
+simple:italic
+1791946	simple:italic
+simple:italic
+1791950	simple:italic
+1791952	simple:italic
+1791954	simple:italic
+1791956	simple:italic
+simple:italic
+1791959	simple:italic
+1791961	simple:italic
+1791963	simple:italic
+1791965	simple:italic
+1791967	simple:italic
+1791969	simple:italic
+1791971	simple:italic
+1791973	simple:italic
+1791975	simple:italic
+1791978	simple:italic
+1791980	simple:italic
+simple:italic
+1791983	simple:italic
+1791985	simple:italic
+1791987	simple:italic
+1791989	simple:italic
+1791991	simple:italic
+1791993	simple:italic
+1791995	simple:italic
+simple:italic
+1791998	simple:italic
+simple:italic
+1792001	simple:italic
+1792003	simple:italic
+1792005	simple:italic
+1792007	simple:italic
+1792009	simple:italic
+1792011	simple:italic
+1792013	simple:italic
+simple:italic
+1792016	simple:italic
+1792018	simple:italic
+1792020	simple:italic
+1792022	simple:italic
+simple:italic
+1792025	simple:italic
+1792027	simple:italic
+1792029	simple:italic
+1792031	simple:italic
+1792034	simple:italic
+1792036	simple:italic
+simple:italic
+1792039	simple:italic
+1792041	simple:italic
+1792070	simple:italic
+1792072	simple:italic
+simple:italic
+1792075	simple:italic
+1792077	simple:italic
+1792079	simple:italic
+1792081	simple:italic
+1792083	simple:italic
+1792085	simple:italic
+1792087	simple:italic
+1792089	simple:italic
+1792091	simple:italic
+1792093	simple:italic
+1792095	simple:italic
+1792097	simple:italic
+1792099	simple:italic
+simple:italic
+simple:italic
+1792103	simple:italic
+1792105	simple:italic
+1792107	simple:italic
+1792109	simple:italic
+simple:italic
+simple:italic
+1792113	simple:italic
+1792115	simple:italic
+1792117	simple:italic
+simple:italic
+1792120	simple:italic
+simple:italic
+1792123	simple:italic
+simple:italic
+1792126	simple:italic
+1792128	simple:italic
+1792130	simple:italic
+1792132	simple:italic
+1792134	simple:italic
+simple:italic
+1792137	simple:italic
+1792139	simple:italic
+1792141	simple:italic
+1792143	simple:italic
+simple:italic
+1792146	simple:italic
+simple:italic
+1792149	simple:italic
+1792151	simple:italic
+1792153	simple:italic
+1792155	simple:italic
+1792157	simple:italic
+1792159	simple:italic
+1792161	simple:italic
+1792163	simple:italic
+simple:italic
+1792166	simple:italic
+1792168	simple:italic
+1792179	simple:italic
+simple:italic
+1792182	simple:italic
+1792184	simple:italic
+simple:italic
+1792187	simple:italic
+1792189	simple:italic
+1792191	simple:italic
+simple:italic
+1792194	simple:italic
+1792196	simple:italic
+1792198	simple:italic
+simple:italic
+1792201	simple:italic
+1792203	simple:italic
+1792205	simple:italic
+1792207	simple:italic
+1792209	simple:italic
+simple:italic
+1792212	simple:italic
+1792214	simple:italic
+1792216	simple:italic
+1792222	simple:italic
+1792224	simple:italic
+1792226	simple:italic
+1792228	simple:italic
+simple:italic
+1792231	simple:italic
+1792233	simple:italic
+simple:italic
+1792236	simple:italic
+1792238	simple:italic
+1792240	simple:italic
+1792242	simple:italic
+1792244	simple:italic
+1792246	simple:italic
+1792248	simple:italic
+simple:italic
+1792251	simple:italic
+simple:italic
+1792254	simple:italic
+simple:italic
+1792257	simple:italic
+simple:italic
+1792260	simple:italic
+simple:italic
+1792263	simple:italic
+1792265	simple:italic
+simple:italic
+1792268	simple:italic
+1792270	simple:italic
+simple:italic
+1792275	simple:italic
+1792277	simple:italic
+simple:italic
+1792280	simple:italic
+simple:italic
+1792283	simple:italic
+1792285	simple:italic
+simple:italic
+1792288	simple:italic
+simple:italic
+1792291	simple:italic
+1792293	simple:italic
+1792295	simple:italic
 simple:italic
-1689995	simple:italic
-simple:italic
-1689998	simple:italic
+1792298	simple:italic
+simple:italic
+1792301	simple:italic
 simple:italic
-1690001	simple:italic
+1792304	simple:italic
 simple:italic
-1690004	simple:italic
+1792307	simple:italic
 simple:italic
-1690007	simple:italic
+1792310	simple:italic
 simple:italic
-1690010	simple:italic
+1792313	simple:italic
 simple:italic
-1690013	simple:italic
+1792316	simple:italic
 simple:italic
-1690021	simple:italic
-1690023	simple:italic
+1792324	simple:italic
+1792326	simple:italic
 simple:italic
-1690026	simple:italic
-1690033	simple:italic
+1792329	simple:italic
+1792336	simple:italic
 simple:italic
-1690036	simple:italic
+1792339	simple:italic
 simple:italic
-1690039	simple:italic
+1792342	simple:italic
 simple:italic
-1690042	simple:italic
+1792345	simple:italic
 simple:italic
-1690045	simple:italic
+1792348	simple:italic
 simple:italic
-1690048	simple:italic
-1690050	simple:italic
-1690052	simple:italic
+1792351	simple:italic
+1792353	simple:italic
+1792355	simple:italic
 simple:italic
-1690055	simple:italic
-1690057	simple:italic
+1792358	simple:italic
+1792360	simple:italic
 simple:italic
-1690060	simple:italic
-1690062	simple:italic
-1690064	simple:italic
-1690066	simple:italic
+1792363	simple:italic
+1792365	simple:italic
+1792367	simple:italic
+1792369	simple:italic
 simple:italic
-1690069	simple:italic
+1792372	simple:italic
 simple:italic
-1690072	simple:italic
-1690074	simple:italic
+1792375	simple:italic
+1792377	simple:italic
 simple:italic
-1690077	simple:italic
+1792380	simple:italic
 simple:italic
-1690080	simple:italic
-1690082	simple:italic
-1690084	simple:italic
+1792383	simple:italic
+1792385	simple:italic
+1792387	simple:italic
 simple:italic
-1690087	simple:italic
-1690089	simple:italic
+1792390	simple:italic
+1792392	simple:italic
 simple:italic
-1690092	simple:italic
+1792395	simple:italic
 simple:italic
-1690095	simple:italic
+1792398	simple:italic
 simple:italic
-1690098	simple:italic
-1690100	simple:italic
+1792401	simple:italic
+1792403	simple:italic
 simple:italic
-1690103	simple:italic
+1792406	simple:italic
 simple:italic
-1690106	simple:italic
+1792409	simple:italic
 simple:italic
-1690109	simple:italic
+1792412	simple:italic
 simple:italic
-1690112	simple:italic
+1792415	simple:italic
 simple:italic
-1690115	simple:italic
-1690117	simple:italic
-1690119	simple:italic
-1690121	simple:italic
-1690123	simple:italic
+1792418	simple:italic
+1792420	simple:italic
+1792422	simple:italic
+1792424	simple:italic
+1792426	simple:italic
 simple:italic
-1690128	simple:italic
-1690130	simple:italic
+1792431	simple:italic
+1792433	simple:italic
 simple:italic
-1690133	simple:italic
-1690135	simple:italic
-1690137	simple:italic
-1690139	simple:italic
-1690141	simple:italic
-1690143	simple:italic
+1792436	simple:italic
+1792438	simple:italic
+1792440	simple:italic
+1792442	simple:italic
+1792444	simple:italic
+1792446	simple:italic
 simple:italic
-1690146	simple:italic
+1792449	simple:italic
 simple:italic
-1690149	simple:italic
-1690151	simple:italic
-1690153	simple:italic
-1690155	simple:italic
+1792452	simple:italic
+1792454	simple:italic
+1792456	simple:italic
+1792458	simple:italic
 simple:italic
-1690161	simple:italic
+1792464	simple:italic
 simple:italic
-1690164	simple:italic
+1792467	simple:italic
 simple:italic
-1690167	simple:italic
+1792470	simple:italic
 simple:italic
 simple:italic
-1690171	simple:italic
-1690173	simple:italic
+1792474	simple:italic
+1792476	simple:italic
 simple:italic
-1690176	simple:italic
-1690178	simple:italic
+1792479	simple:italic
+1792481	simple:italic
 simple:italic
-1690181	simple:italic
+1792484	simple:italic
 simple:italic
-1690184	simple:italic
+1792487	simple:italic
 simple:italic
-1690187	simple:italic
+1792490	simple:italic
 simple:italic
-1690190	simple:italic
-1690192	simple:italic
+1792493	simple:italic
+1792495	simple:italic
 simple:italic
-1690195	simple:italic
-1690197	simple:italic
+1792498	simple:italic
+1792500	simple:italic
 simple:italic
-1690200	simple:italic
+1792503	simple:italic
 simple:italic
 simple:italic
-1690204	simple:italic
+1792507	simple:italic
 simple:italic
-1690207	simple:italic
-1690209	simple:italic
-1690211	simple:italic
+1792510	simple:italic
+1792512	simple:italic
+1792514	simple:italic
 simple:italic
 simple:italic
-1690215	simple:italic
-1690217	simple:italic
+1792518	simple:italic
+1792520	simple:italic
 simple:italic
-1690220	simple:italic
+1792523	simple:italic
 simple:italic
-1690223	simple:italic
-1690225	simple:italic
-1690227	simple:italic
-1690229	simple:italic
-1690231	simple:italic
+1792526	simple:italic
+1792528	simple:italic
+1792530	simple:italic
+1792532	simple:italic
+1792534	simple:italic
 simple:italic
-1690234	simple:italic
+1792537	simple:italic
 simple:italic
-1690237	simple:italic
+1792540	simple:italic
 simple:italic
-1690240	simple:italic
+1792543	simple:italic
 simple:italic
-1690243	simple:italic
-1690245	simple:italic
+1792546	simple:italic
+1792548	simple:italic
 simple:italic
-1690248	simple:italic
-1690250	simple:italic
-1690252	simple:italic
+1792551	simple:italic
+1792553	simple:italic
+1792555	simple:italic
 simple:italic
-1690255	simple:italic
+1792558	simple:italic
 simple:italic
-1690258	simple:italic
+1792561	simple:italic
 simple:italic
-1690261	simple:italic
+1792564	simple:italic
 simple:italic
-1690264	simple:italic
+1792567	simple:italic
 simple:italic
-1690267	simple:italic
+1792570	simple:italic
 simple:italic
-1690270	simple:italic
-1690272	simple:italic
+1792573	simple:italic
+1792575	simple:italic
 simple:italic
-1690275	simple:italic
+1792578	simple:italic
 simple:italic
-1690278	simple:italic
-1690280	simple:italic
+1792581	simple:italic
+1792583	simple:italic
 simple:italic
-1690283	simple:italic
-1690285	simple:italic
-1690287	simple:italic
+1792586	simple:italic
+1792588	simple:italic
+1792590	simple:italic
 simple:italic
 simple:italic
-1690291	simple:italic
+1792594	simple:italic
 simple:italic
-1690294	simple:italic
+1792597	simple:italic
 simple:italic
-1690297	simple:italic
+1792600	simple:italic
 simple:italic
-1690300	simple:italic
+1792603	simple:italic
 simple:italic
-1690303	simple:italic
+1792606	simple:italic
 simple:italic
-1690306	simple:italic
+1792609	simple:italic
 simple:italic
-1690309	simple:italic
-1690311	simple:italic
+1792612	simple:italic
+1792614	simple:italic
 simple:italic
-1690314	simple:italic
+1792617	simple:italic
 simple:italic
-1690319	simple:italic
+1792622	simple:italic
 simple:italic
-1690322	simple:italic
+1792625	simple:italic
 simple:italic
-1690325	simple:italic
+1792628	simple:italic
 simple:italic
-1690328	simple:italic
+1792631	simple:italic
 simple:italic
-1690331	simple:italic
-1690333	simple:italic
+1792634	simple:italic
+1792636	simple:italic
 simple:italic
-1690336	simple:italic
-1690338	simple:italic
+1792639	simple:italic
+1792641	simple:italic
 simple:italic
-1690346	simple:italic
-1690348	simple:italic
+1792649	simple:italic
+1792651	simple:italic
 simple:italic
-1690351	simple:italic
+1792654	simple:italic
 simple:italic
-1690354	simple:italic
+1792657	simple:italic
 simple:italic
-1690357	simple:italic
+1792660	simple:italic
 simple:italic
-1690360	simple:italic
+1792663	simple:italic
 simple:italic
-1690363	simple:italic
+1792666	simple:italic
 simple:italic
-1690366	simple:italic
+1792669	simple:italic
 simple:italic
-1690369	simple:italic
+1792672	simple:italic
 simple:italic
-1690372	simple:italic
+1792675	simple:italic
 simple:italic
-1690375	simple:italic
-1690377	simple:italic
-1690379	simple:italic
-1690381	simple:italic
+1792678	simple:italic
+1792680	simple:italic
+1792682	simple:italic
+1792684	simple:italic
 simple:italic
-1690384	simple:italic
+1792687	simple:italic
 simple:italic
-1690387	simple:italic
+1792690	simple:italic
 simple:italic
-1690390	simple:italic
+1792693	simple:italic
 simple:italic
-1690393	simple:italic
-1690395	simple:italic
-1690397	simple:italic
+1792696	simple:italic
+1792698	simple:italic
+1792700	simple:italic
 simple:italic
 simple:italic
-1690405	simple:italic
+1792708	simple:italic
 simple:italic
-1690408	simple:italic
-1690410	simple:italic
-1690412	simple:italic
+1792711	simple:italic
+1792713	simple:italic
+1792715	simple:italic
 simple:italic
-1690415	simple:italic
+1792718	simple:italic
 simple:italic
-1690418	simple:italic
+1792721	simple:italic
 simple:italic
-1690427	simple:italic
+1792730	simple:italic
 simple:italic
-1690430	simple:italic
+1792733	simple:italic
 simple:italic
-1690433	simple:italic
+1792736	simple:italic
 simple:italic
-1690436	simple:italic
+1792739	simple:italic
 simple:italic
-1690439	simple:italic
-1690441	simple:italic
+1792742	simple:italic
+1792744	simple:italic
 simple:italic
-1690444	simple:italic
-1690446	simple:italic
-1690448	simple:italic
+1792747	simple:italic
+1792749	simple:italic
+1792751	simple:italic
 simple:italic
-1690451	simple:italic
-1690453	simple:italic
-1690455	simple:italic
-1690457	simple:italic
-1690459	simple:italic
-1690461	simple:italic
+1792754	simple:italic
+1792756	simple:italic
+1792758	simple:italic
+1792760	simple:italic
+1792762	simple:italic
+1792764	simple:italic
 simple:italic
-1690464	simple:italic
+1792767	simple:italic
 simple:italic
-1690469	simple:italic
+1792772	simple:italic
 simple:italic
-1690472	simple:italic
+1792775	simple:italic
 simple:italic
-1690475	simple:italic
+1792778	simple:italic
 simple:italic
-1690478	simple:italic
+1792781	simple:italic
 simple:italic
-1690481	simple:italic
-1690483	simple:italic
+1792784	simple:italic
+1792786	simple:italic
 simple:italic
-1690486	simple:italic
+1792789	simple:italic
 simple:italic
-1690489	simple:italic
-1690491	simple:italic
+1792792	simple:italic
+1792794	simple:italic
 simple:italic
-1690494	simple:italic
+1792797	simple:italic
 simple:italic
-1690497	simple:italic
-1690499	simple:italic
+1792800	simple:italic
+1792802	simple:italic
 simple:italic
-1690502	simple:italic
+1792805	simple:italic
 simple:italic
-1690505	simple:italic
-1690507	simple:italic
+1792808	simple:italic
+1792810	simple:italic
 simple:italic
-1690510	simple:italic
+1792813	simple:italic
 simple:italic
-1690513	simple:italic
+1792816	simple:italic
 simple:italic
-1690516	simple:italic
+1792819	simple:italic
 simple:italic
-1690519	simple:italic
-1690521	simple:italic
+1792822	simple:italic
+1792824	simple:italic
 simple:italic
-1690527	simple:italic
+1792830	simple:italic
 simple:italic
-1690530	simple:italic
+1792833	simple:italic
 simple:italic
-1690533	simple:italic
-1690535	simple:italic
-1690537	simple:italic
+1792836	simple:italic
+1792838	simple:italic
+1792840	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1690542	simple:italic
-1690544	simple:italic
+1792845	simple:italic
+1792847	simple:italic
 simple:italic
-1690547	simple:italic
+1792850	simple:italic
 simple:superscript
 simple:italic
-1690551	simple:italic
+1792854	simple:italic
 simple:italic
-1690554	simple:italic
+1792857	simple:italic
 simple:italic
-1690561	simple:italic
+1792864	simple:italic
 simple:italic
-1690564	simple:italic
-1690566	simple:italic
-1690568	simple:italic
+1792867	simple:italic
+1792869	simple:italic
+1792871	simple:italic
 simple:italic
-1690571	simple:italic
+1792874	simple:italic
 simple:italic
-1690574	simple:italic
-1690576	simple:italic
-1690578	simple:italic
+1792877	simple:italic
+1792879	simple:italic
+1792881	simple:italic
 simple:italic
-1690581	simple:italic
+1792884	simple:italic
 simple:italic
-1690598	simple:italic
-1690600	simple:italic
-1690602	simple:italic
+1792901	simple:italic
+1792903	simple:italic
+1792905	simple:italic
 simple:italic
-1690611	simple:italic
+1792914	simple:italic
 simple:italic
-1690622	simple:italic
+1792925	simple:italic
 simple:italic
-1690625	simple:italic
+1792928	simple:italic
 simple:italic
-1690628	simple:italic
-1690630	simple:italic
-1690632	simple:italic
-1690634	simple:italic
+1792931	simple:italic
+1792933	simple:italic
+1792935	simple:italic
+1792937	simple:italic
 simple:italic
-1690637	simple:italic
+1792940	simple:italic
 simple:italic
-1690640	simple:italic
+1792943	simple:italic
 simple:italic
-1690643	simple:italic
+1792946	simple:italic
 simple:italic
-1690646	simple:italic
-1690650	simple:italic
+1792949	simple:italic
+1792953	simple:italic
 simple:italic
-1690653	simple:italic
+1792956	simple:italic
 simple:italic
-1690656	simple:italic
-1690658	simple:italic
-1690660	simple:italic
+1792959	simple:italic
+1792961	simple:italic
+1792963	simple:italic
 simple:italic
-1690663	simple:italic
+1792966	simple:italic
 simple:italic
-1690666	simple:italic
+1792969	simple:italic
 simple:italic
-1690669	simple:italic
+1792972	simple:italic
 simple:italic
-1690672	simple:italic
-1690674	simple:italic
-1690676	simple:italic
-1690678	simple:italic
-1690680	simple:italic
-1690686	simple:italic
-1690688	simple:italic
+1792975	simple:italic
+1792977	simple:italic
+1792979	simple:italic
+1792981	simple:italic
+1792983	simple:italic
+1792989	simple:italic
+1792991	simple:italic
 simple:italic
-1690691	simple:italic
-1690693	simple:italic
+1792994	simple:italic
+1792996	simple:italic
 simple:italic
-1690696	simple:italic
-1690698	simple:italic
-1690700	simple:italic
-1690702	simple:italic
-1690704	simple:italic
-1690711	simple:italic
-1690713	simple:italic
+1792999	simple:italic
+1793001	simple:italic
+1793003	simple:italic
+1793005	simple:italic
+1793007	simple:italic
+1793014	simple:italic
+1793016	simple:italic
 simple:italic
-1690716	simple:italic
-1690718	simple:italic
-1690720	simple:italic
-1690723	simple:italic
-1690725	simple:italic
-1690727	simple:italic
-1690729	simple:italic
-1690731	simple:italic
-1690733	simple:italic
-1690735	simple:italic
-1690737	simple:italic
-1690739	simple:italic
-simple:italic
-1690742	simple:italic
+1793019	simple:italic
+1793021	simple:italic
+1793023	simple:italic
+1793026	simple:italic
+1793028	simple:italic
+1793030	simple:italic
+1793032	simple:italic
+1793034	simple:italic
+1793036	simple:italic
+1793038	simple:italic
+1793040	simple:italic
+1793042	simple:italic
+simple:italic
+1793045	simple:italic
 simple:italic
-1690745	simple:italic
-simple:italic
-1690748	simple:italic
-1690750	simple:italic
-simple:italic
-1690753	simple:italic
-1690758	simple:italic
-simple:italic
-1690761	simple:italic
-simple:italic
-1690764	simple:italic
-1690766	simple:italic
-simple:italic
-1690769	simple:italic
-1690771	simple:italic
-simple:italic
-1690774	simple:italic
-1690776	simple:italic
-1690778	simple:italic
-1690780	simple:italic
-1690782	simple:italic
-1690784	simple:italic
-1690786	simple:italic
-simple:italic
-1690789	simple:italic
-simple:italic
-1690792	simple:italic
-1690794	simple:italic
-simple:italic
-1690797	simple:italic
-1690799	simple:italic
-1690801	simple:italic
-1690803	simple:italic
-1690805	simple:italic
-1690807	simple:italic
-1690809	simple:italic
-1690811	simple:italic
-1690813	simple:italic
-1690815	simple:italic
-1690817	simple:italic
-1690828	simple:italic
-1690830	simple:italic
-1690832	simple:italic
-1690834	simple:italic
-1690836	simple:italic
-1690838	simple:italic
-1690840	simple:italic
-1690842	simple:italic
-1690844	simple:italic
-1690846	simple:italic
-1690848	simple:italic
-1690850	simple:italic
-simple:italic
-1690853	simple:italic
-1690855	simple:italic
-1690857	simple:italic
-1690859	simple:italic
-1690861	simple:italic
-simple:italic
-1690864	simple:italic
-simple:italic
-1690867	simple:italic
-simple:italic
-1690870	simple:italic
-1690872	simple:italic
-simple:italic
-1690875	simple:italic
-simple:italic
-1690878	simple:italic
-simple:italic
-1690881	simple:italic
-1690883	simple:italic
-1690885	simple:italic
-1690887	simple:italic
-1690889	simple:italic
-1690891	simple:italic
-1690893	simple:italic
-1690902	simple:italic
-1690904	simple:italic
-simple:italic
-1690907	simple:italic
-1690909	simple:italic
-1690911	simple:italic
-simple:italic
-simple:italic
-1690915	simple:italic
-1690917	simple:italic
-1690919	simple:italic
-1690921	simple:italic
-1690923	simple:italic
-simple:italic
-1690926	simple:italic
-1690928	simple:italic
-1690930	simple:italic
-1690932	simple:italic
-1690934	simple:italic
-1690936	simple:italic
-1690938	simple:italic
-simple:italic
-1690941	simple:italic
-1690948	simple:italic
-1690950	simple:italic
-1690952	simple:italic
-1690954	simple:italic
-1690956	simple:italic
-1690958	simple:italic
-simple:italic
-1690961	simple:italic
-1690963	simple:italic
-1690965	simple:italic
-1690967	simple:italic
+1793048	simple:italic
+simple:italic
+1793051	simple:italic
+1793053	simple:italic
+simple:italic
+1793056	simple:italic
+1793061	simple:italic
+simple:italic
+1793064	simple:italic
+simple:italic
+1793067	simple:italic
+1793069	simple:italic
+simple:italic
+1793072	simple:italic
+1793074	simple:italic
+simple:italic
+1793077	simple:italic
+1793079	simple:italic
+1793081	simple:italic
+1793083	simple:italic
+1793085	simple:italic
+1793087	simple:italic
+1793089	simple:italic
+simple:italic
+1793092	simple:italic
+simple:italic
+1793095	simple:italic
+1793097	simple:italic
+simple:italic
+1793100	simple:italic
+1793102	simple:italic
+1793104	simple:italic
+1793106	simple:italic
+1793108	simple:italic
+1793110	simple:italic
+1793112	simple:italic
+1793114	simple:italic
+1793116	simple:italic
+1793118	simple:italic
+1793120	simple:italic
+1793131	simple:italic
+1793133	simple:italic
+1793135	simple:italic
+1793137	simple:italic
+1793139	simple:italic
+1793141	simple:italic
+1793143	simple:italic
+1793145	simple:italic
+1793147	simple:italic
+1793149	simple:italic
+1793151	simple:italic
+1793153	simple:italic
+simple:italic
+1793156	simple:italic
+1793158	simple:italic
+1793160	simple:italic
+1793162	simple:italic
+1793164	simple:italic
+simple:italic
+1793167	simple:italic
+simple:italic
+1793170	simple:italic
+simple:italic
+1793173	simple:italic
+1793175	simple:italic
+simple:italic
+1793178	simple:italic
+simple:italic
+1793181	simple:italic
+simple:italic
+1793184	simple:italic
+1793186	simple:italic
+1793188	simple:italic
+1793190	simple:italic
+1793192	simple:italic
+1793194	simple:italic
+1793196	simple:italic
+1793205	simple:italic
+1793207	simple:italic
+simple:italic
+1793210	simple:italic
+1793212	simple:italic
+1793214	simple:italic
+simple:italic
+simple:italic
+1793218	simple:italic
+1793220	simple:italic
+1793222	simple:italic
+1793224	simple:italic
+1793226	simple:italic
+simple:italic
+1793229	simple:italic
+1793231	simple:italic
+1793233	simple:italic
+1793235	simple:italic
+1793237	simple:italic
+1793239	simple:italic
+1793241	simple:italic
+simple:italic
+1793244	simple:italic
+1793251	simple:italic
+1793253	simple:italic
+1793255	simple:italic
+1793257	simple:italic
+1793259	simple:italic
+1793261	simple:italic
+simple:italic
+1793264	simple:italic
+1793266	simple:italic
+1793268	simple:italic
+1793270	simple:italic
 simple:italic
-1690970	simple:italic
-1690972	simple:italic
-1690974	simple:italic
+1793273	simple:italic
+1793275	simple:italic
+1793277	simple:italic
 simple:italic
-1690977	simple:italic
+1793280	simple:italic
 simple:italic
-1690980	simple:italic
-1690982	simple:italic
-1690984	simple:italic
+1793283	simple:italic
+1793285	simple:italic
+1793287	simple:italic
 simple:italic
-1690987	simple:italic
+1793290	simple:italic
 simple:italic
-1690990	simple:italic
-1690992	simple:italic
-1690994	simple:italic
-1690996	simple:italic
-1690998	simple:italic
-1691000	simple:italic
-1691002	simple:italic
+1793293	simple:italic
+1793295	simple:italic
+1793297	simple:italic
+1793299	simple:italic
+1793301	simple:italic
+1793303	simple:italic
+1793305	simple:italic
 simple:italic
-1691005	simple:italic
+1793308	simple:italic
 simple:italic
-1691008	simple:italic
-1691010	simple:italic
-1691021	simple:italic
-1691023	simple:italic
+1793311	simple:italic
+1793313	simple:italic
+1793324	simple:italic
+1793326	simple:italic
 simple:italic
-1691026	simple:italic
-1691028	simple:italic
-1691030	simple:italic
-1691032	simple:italic
-1691043	simple:italic
+1793329	simple:italic
+1793331	simple:italic
+1793333	simple:italic
+1793335	simple:italic
+1793346	simple:italic
 simple:italic
-1691046	simple:italic
+1793349	simple:italic
 simple:italic
-1691049	simple:italic
+1793352	simple:italic
 simple:italic
-1691052	simple:italic
+1793355	simple:italic
 simple:italic
-1691055	simple:italic
+1793358	simple:italic
 simple:italic
-1691058	simple:italic
+1793361	simple:italic
 simple:italic
-1691061	simple:italic
-1691063	simple:italic
+1793364	simple:italic
+1793366	simple:italic
 simple:italic
-1691066	simple:italic
-1691068	simple:italic
-1691070	simple:italic
-1691072	simple:italic
-1691074	simple:italic
+1793369	simple:italic
+1793371	simple:italic
+1793373	simple:italic
+1793375	simple:italic
+1793377	simple:italic
 simple:italic
-1691077	simple:italic
-1691079	simple:italic
+1793380	simple:italic
+1793382	simple:italic
 simple:italic
-1691082	simple:italic
-1691084	simple:italic
+1793385	simple:italic
+1793387	simple:italic
 simple:italic
-1691087	simple:italic
-1691089	simple:italic
-1691091	simple:italic
+1793390	simple:italic
+1793392	simple:italic
+1793394	simple:italic
 simple:italic
-1691094	simple:italic
-1691096	simple:italic
-1691098	simple:italic
+1793397	simple:italic
+1793399	simple:italic
+1793401	simple:italic
 simple:italic
-1691101	simple:italic
-1691103	simple:italic
-1691105	simple:italic
-1691107	simple:italic
+1793404	simple:italic
+1793406	simple:italic
+1793408	simple:italic
+1793410	simple:italic
 simple:italic
-1691110	simple:italic
+1793413	simple:italic
 simple:italic
-1691113	simple:italic
-1691115	simple:italic
+1793416	simple:italic
+1793418	simple:italic
 simple:italic
-1691118	simple:italic
+1793421	simple:italic
 simple:italic
-1691121	simple:italic
+1793424	simple:italic
 simple:italic
-1691125	simple:italic
+1793428	simple:italic
 simple:italic
-1691128	simple:italic
-1691130	simple:italic
+1793431	simple:italic
+1793433	simple:italic
 simple:italic
-1691133	simple:italic
-1691135	simple:italic
-1691137	simple:italic
+1793436	simple:italic
+1793438	simple:italic
+1793440	simple:italic
 simple:italic
-1691140	simple:italic
+1793443	simple:italic
 simple:italic
-1691143	simple:italic
+1793446	simple:italic
 simple:italic
-1691146	simple:italic
+1793449	simple:italic
 simple:italic
-1691149	simple:italic
+1793452	simple:italic
 simple:italic
-1691152	simple:italic
-1691166	simple:italic
+1793455	simple:italic
+1793469	simple:italic
 simple:italic
-1691169	simple:italic
+1793472	simple:italic
 simple:italic
-1691172	simple:italic
-1691174	simple:italic
-1691176	simple:italic
+1793475	simple:italic
+1793477	simple:italic
+1793479	simple:italic
 simple:italic
-1691179	simple:italic
-1691181	simple:italic
-1691183	simple:italic
-1691186	simple:italic
-1691188	simple:italic
+1793482	simple:italic
+1793484	simple:italic
+1793486	simple:italic
+1793489	simple:italic
+1793491	simple:italic
 simple:italic
-1691191	simple:italic
+1793494	simple:italic
 simple:italic
-1691194	simple:italic
+1793497	simple:italic
 simple:italic
-1691197	simple:italic
-1691199	simple:italic
+1793500	simple:italic
+1793502	simple:italic
 simple:italic
-1691202	simple:italic
-1691204	simple:italic
+1793505	simple:italic
+1793507	simple:italic
 simple:italic
-1691207	simple:italic
-1691209	simple:italic
+1793510	simple:italic
+1793512	simple:italic
 simple:italic
-1691212	simple:italic
+1793515	simple:italic
 simple:italic
-1691215	simple:italic
+1793518	simple:italic
 simple:italic
-1691218	simple:italic
-1691220	simple:italic
-1691222	simple:italic
-1691237	simple:italic
-1691239	simple:italic
-1691241	simple:italic
-1691243	simple:italic
-1691245	simple:italic
+1793521	simple:italic
+1793523	simple:italic
+1793525	simple:italic
+1793540	simple:italic
+1793542	simple:italic
+1793544	simple:italic
+1793546	simple:italic
+1793548	simple:italic
 simple:italic
-1691248	simple:italic
+1793551	simple:italic
 simple:italic
-1691251	simple:italic
-1691274	simple:italic
-1691276	simple:italic
+1793554	simple:italic
+1793577	simple:italic
+1793579	simple:italic
 simple:italic
-1691279	simple:italic
+1793582	simple:italic
 simple:italic
-1691282	simple:italic
-1691284	simple:italic
+1793585	simple:italic
+1793587	simple:italic
 simple:italic
-1691287	simple:italic
-1691289	simple:italic
+1793590	simple:italic
+1793592	simple:italic
 simple:italic
-1691292	simple:italic
+1793595	simple:italic
 simple:italic
-1691295	simple:italic
-1691297	simple:italic
-1691303	simple:italic
-1691318	simple:italic
-1691320	simple:italic
-1691322	simple:italic
+1793598	simple:italic
+1793600	simple:italic
+1793606	simple:italic
+1793621	simple:italic
+1793623	simple:italic
+1793625	simple:italic
 simple:italic
-1691325	simple:italic
+1793628	simple:italic
 simple:italic
-1691328	simple:italic
-1691330	simple:italic
-1691347	simple:italic
+1793631	simple:italic
+1793633	simple:italic
+1793650	simple:italic
 simple:italic
-1691350	simple:italic
-1691352	simple:italic
-1691354	simple:italic
-1691356	simple:italic
+1793653	simple:italic
+1793655	simple:italic
+1793657	simple:italic
+1793659	simple:italic
 simple:italic
-1691359	simple:italic
+1793662	simple:italic
 simple:italic
-1691362	simple:italic
-1691364	simple:italic
-1691366	simple:italic
-1691368	simple:italic
-1691370	simple:italic
-1691384	simple:italic
+1793665	simple:italic
+1793667	simple:italic
+1793669	simple:italic
+1793671	simple:italic
+1793673	simple:italic
+1793687	simple:italic
 simple:italic
-1691387	simple:italic
-1691389	simple:italic
-1691391	simple:italic
+1793690	simple:italic
+1793692	simple:italic
+1793694	simple:italic
 simple:italic
-1691394	simple:italic
+1793697	simple:italic
 simple:italic
-1691397	simple:italic
+1793700	simple:italic
 simple:italic
-1691400	simple:italic
-1691402	simple:italic
-1691404	simple:italic
+1793703	simple:italic
+1793705	simple:italic
+1793707	simple:italic
 simple:italic
-1691407	simple:italic
+1793710	simple:italic
 simple:italic
-1691410	simple:italic
-1691412	simple:italic
-1691427	simple:italic
-1691429	simple:italic
-1691431	simple:italic
+1793713	simple:italic
+1793715	simple:italic
+1793730	simple:italic
+1793732	simple:italic
+1793734	simple:italic
 simple:italic
-1691434	simple:italic
+1793737	simple:italic
 simple:italic
-1691437	simple:italic
-1691439	simple:italic
+1793740	simple:italic
+1793742	simple:italic
 simple:italic
-1691442	simple:italic
+1793745	simple:italic
 simple:italic
-1691445	simple:italic
+1793748	simple:italic
 simple:italic
-1691448	simple:italic
+1793751	simple:italic
 simple:italic
-1691451	simple:italic
+1793754	simple:italic
 simple:italic
-1691454	simple:italic
+1793757	simple:italic
 simple:italic
-1691457	simple:italic
-1691459	simple:italic
-1691461	simple:italic
+1793760	simple:italic
+1793762	simple:italic
+1793764	simple:italic
 simple:italic
-1691464	simple:italic
-1691466	simple:italic
-1691468	simple:italic
-1691470	simple:italic
-1691472	simple:italic
-1691474	simple:italic
-1691476	simple:italic
-1691478	simple:italic
-1691480	simple:italic
+1793767	simple:italic
+1793769	simple:italic
+1793771	simple:italic
+1793773	simple:italic
+1793775	simple:italic
+1793777	simple:italic
+1793779	simple:italic
+1793781	simple:italic
+1793783	simple:italic
 simple:italic
-1691483	simple:italic
+1793786	simple:italic
 simple:italic
-1691486	simple:italic
+1793789	simple:italic
 simple:italic
-1691489	simple:italic
+1793792	simple:italic
 simple:italic
-1691492	simple:italic
-1691494	simple:italic
-1691496	simple:italic
+1793795	simple:italic
+1793797	simple:italic
+1793799	simple:italic
 simple:italic
-1691499	simple:italic
+1793802	simple:italic
 simple:italic
-1691502	simple:italic
+1793805	simple:italic
 simple:italic
-1691516	simple:italic
-1691518	simple:italic
-1691520	simple:italic
+1793819	simple:italic
+1793821	simple:italic
+1793823	simple:italic
 simple:italic
-1691523	simple:italic
-1691525	simple:italic
-1691527	simple:italic
-1691529	simple:italic
+1793826	simple:italic
+1793828	simple:italic
+1793830	simple:italic
+1793832	simple:italic
 simple:italic
-1691532	simple:italic
+1793835	simple:italic
 simple:italic
-1691535	simple:italic
-1691537	simple:italic
+1793838	simple:italic
+1793840	simple:italic
 simple:italic
-1691540	simple:italic
+1793843	simple:italic
 simple:italic
-1691543	simple:italic
-1691545	simple:italic
-1691547	simple:italic
+1793846	simple:italic
+1793848	simple:italic
+1793850	simple:italic
 simple:italic
-1691550	simple:italic
-1691571	simple:italic
-1691573	simple:italic
-1691575	simple:italic
-1691577	simple:italic
-simple:italic
-1691580	simple:italic
-1691582	simple:italic
-simple:italic
-1691585	simple:italic
-simple:italic
-1691588	simple:italic
-1691590	simple:italic
-1691592	simple:italic
-simple:italic
-1691595	simple:italic
-1691597	simple:italic
-1691599	simple:italic
-1691601	simple:italic
-1691603	simple:italic
-1691605	simple:italic
-1691607	simple:italic
-1691609	simple:italic
-1691611	simple:italic
-simple:italic
-1691614	simple:italic
-1691616	simple:italic
-1691618	simple:italic
-simple:italic
-1691621	simple:italic
-1691623	simple:italic
-1691625	simple:italic
-1691627	simple:italic
-1691629	simple:italic
-simple:italic
-1691632	simple:italic
-1691634	simple:italic
-1691636	simple:italic
-1691643	simple:italic
-1691645	simple:italic
-1691647	simple:italic
-1691649	simple:italic
-1691651	simple:italic
-1691679	simple:italic
-simple:italic
-1691682	simple:italic
-simple:italic
-1691685	simple:italic
-1691687	simple:italic
-1691689	simple:italic
-1691691	simple:italic
-1691693	simple:italic
-1691695	simple:italic
-1691697	simple:italic
-1691699	simple:italic
-1691701	simple:italic
-1691703	simple:italic
-1691705	simple:italic
-1691733	simple:italic
-1691735	simple:italic
-1691737	simple:italic
-1691739	simple:italic
-1691741	simple:italic
-1691743	simple:italic
-1691745	simple:italic
-1691747	simple:italic
-1691749	simple:italic
-1691751	simple:italic
-simple:italic
-1691754	simple:italic
-1691756	simple:italic
-1691758	simple:italic
-simple:italic
-1691761	simple:italic
-1691763	simple:italic
-1691765	simple:italic
-1691767	simple:italic
-1691769	simple:italic
-1691771	simple:italic
-1691773	simple:italic
-1691775	simple:italic
-simple:italic
-1691778	simple:italic
-1691780	simple:italic
-simple:italic
-1691783	simple:italic
-1691785	simple:italic
-1691789	simple:italic
-simple:italic
-1691792	simple:italic
-simple:italic
-1691795	simple:italic
-1691797	simple:italic
-1691799	simple:italic
-1691801	simple:italic
-1691803	simple:italic
-1691805	simple:italic
-1691807	simple:italic
-1691809	simple:italic
-1691811	simple:italic
-1691813	simple:italic
-1691815	simple:italic
-1691817	simple:italic
-1691832	simple:italic
-1691834	simple:italic
-1691836	simple:italic
-1691838	simple:italic
-1691840	simple:italic
-1691842	simple:italic
-1691844	simple:italic
-1691846	simple:italic
-simple:italic
-1691849	simple:italic
-simple:italic
-1691852	simple:italic
-1691854	simple:italic
-1691856	simple:italic
-1691858	simple:italic
-simple:italic
-simple:italic
-1691862	simple:italic
-1691864	simple:italic
-1691866	simple:italic
-1691868	simple:italic
-1691870	simple:italic
-simple:italic
-1691873	simple:italic
-1691875	simple:italic
-simple:italic
-1691878	simple:italic
-1691880	simple:italic
-1691882	simple:italic
-1691884	simple:italic
-1691886	simple:italic
-simple:italic
-1691889	simple:italic
-1691891	simple:italic
-1691893	simple:italic
-1691931	simple:italic
-1691933	simple:italic
-simple:italic
-1691936	simple:italic
-1691938	simple:italic
-simple:italic
-1691941	simple:italic
-1691943	simple:italic
-simple:italic
-1691946	simple:italic
-1691948	simple:italic
-1691950	simple:italic
-1691952	simple:italic
-simple:italic
-1691955	simple:italic
-1691957	simple:italic
-1691959	simple:italic
-1691961	simple:italic
-simple:italic
-1691964	simple:italic
-simple:italic
-1691967	simple:italic
-1691969	simple:italic
-1691971	simple:italic
-1691973	simple:italic
-1691975	simple:italic
-1691977	simple:italic
-simple:italic
-1691980	simple:italic
-1691982	simple:italic
-simple:italic
-1691985	simple:italic
-simple:italic
-1691988	simple:italic
-1691994	simple:italic
-simple:italic
-1691997	simple:italic
-1691999	simple:italic
-1692001	simple:italic
-simple:italic
-1692004	simple:italic
-1692006	simple:italic
-1692008	simple:italic
-1692010	simple:italic
-1692012	simple:italic
-1692014	simple:italic
-1692016	simple:italic
-1692018	simple:italic
-1692027	simple:italic
-simple:italic
-1692030	simple:italic
-1692032	simple:italic
-1692034	simple:italic
-1692036	simple:italic
-1692038	simple:italic
-1692040	simple:italic
-simple:italic
-1692043	simple:italic
-1692045	simple:italic
-1692047	simple:italic
-simple:italic
-simple:italic
-1692051	simple:italic
-simple:italic
-1692054	simple:italic
-simple:italic
-1692057	simple:italic
-1692059	simple:italic
-1692061	simple:italic
-1692063	simple:italic
-1692065	simple:italic
-1692067	simple:italic
-1692069	simple:italic
-simple:italic
-1692072	simple:italic
-1692074	simple:italic
-1692076	simple:italic
-1692078	simple:italic
-simple:italic
-1692081	simple:italic
-1692083	simple:italic
-1692085	simple:italic
-1692087	simple:italic
-1692089	simple:italic
-1692091	simple:italic
-1692093	simple:italic
-1692095	simple:italic
-1692097	simple:italic
-1692099	simple:italic
-simple:italic
-1692102	simple:italic
-simple:italic
-1692105	simple:italic
-1692107	simple:italic
-1692109	simple:italic
-1692111	simple:italic
-1692113	simple:italic
-simple:italic
-1692116	simple:italic
-1692118	simple:italic
-1692120	simple:italic
-1692122	simple:italic
-1692124	simple:italic
-1692126	simple:italic
-1692128	simple:italic
-1692130	simple:italic
-1692132	simple:italic
-1692134	simple:italic
-1692136	simple:italic
-1692138	simple:italic
-1692147	simple:italic
-simple:italic
-1692150	simple:italic
-1692152	simple:italic
-1692154	simple:italic
-1692156	simple:italic
-1692158	simple:italic
-1692160	simple:italic
-1692162	simple:italic
-1692164	simple:italic
-1692168	simple:italic
-1692170	simple:italic
-simple:italic
-1692173	simple:italic
-1692175	simple:italic
-1692177	simple:italic
-simple:italic
-1692180	simple:italic
-simple:italic
-1692183	simple:italic
-simple:italic
-1692186	simple:italic
-simple:italic
-1692189	simple:italic
-1692191	simple:italic
-1692193	simple:italic
-1692195	simple:italic
-simple:italic
-1692198	simple:italic
-1692200	simple:italic
-simple:italic
-1692203	simple:italic
-1692205	simple:italic
-1692207	simple:italic
-1692209	simple:italic
-1692211	simple:italic
-1692213	simple:italic
-1692215	simple:italic
-1692223	simple:italic
-simple:italic
-1692226	simple:italic
-1692228	simple:italic
-simple:italic
-1692231	simple:italic
-1692233	simple:italic
-1692235	simple:italic
-simple:italic
-1692238	simple:italic
-1692240	simple:italic
-1692242	simple:italic
-1692244	simple:italic
-1692246	simple:italic
-1692248	simple:italic
-1692250	simple:italic
-simple:italic
-1692253	simple:italic
-1692255	simple:italic
-1692257	simple:italic
-1692259	simple:italic
-simple:italic
-1692262	simple:italic
-1692264	simple:italic
-simple:italic
-1692267	simple:italic
-simple:italic
-1692270	simple:italic
-1692272	simple:italic
-1692274	simple:italic
-simple:italic
-1692277	simple:italic
-1692279	simple:italic
-1692281	simple:italic
-1692283	simple:italic
-1692285	simple:italic
-1692287	simple:italic
-1692289	simple:italic
-1692291	simple:italic
-1692293	simple:italic
-simple:italic
-1692296	simple:italic
-1692298	simple:italic
-1692300	simple:italic
-simple:italic
-1692303	simple:italic
-1692305	simple:italic
-1692307	simple:italic
-simple:italic
-1692316	simple:italic
-1692318	simple:italic
-1692320	simple:italic
-1692322	simple:italic
-simple:italic
-1692325	simple:italic
-1692327	simple:italic
-1692329	simple:italic
-1692331	simple:italic
-1692333	simple:italic
-simple:italic
-1692336	simple:italic
-simple:italic
-1692339	simple:italic
-1692345	simple:italic
-simple:italic
-1692348	simple:italic
-1692350	simple:italic
-simple:italic
-1692353	simple:italic
-1692355	simple:italic
-simple:italic
-1692361	simple:italic
-simple:italic
-1692364	simple:italic
-simple:italic
-1692367	simple:italic
-1692369	simple:italic
-simple:italic
-1692392	simple:italic
-1692394	simple:italic
-simple:italic
-simple:italic
-1692398	simple:italic
-1692400	simple:italic
-1692402	simple:italic
-simple:italic
-1692405	simple:italic
-simple:italic
-1692408	simple:italic
-1692410	simple:italic
-1692412	simple:italic
-simple:italic
-1692415	simple:italic
-1692417	simple:italic
-1692419	simple:italic
-simple:italic
-1692422	simple:italic
-1692430	simple:italic
-1692432	simple:italic
-simple:italic
-1692435	simple:italic
-simple:italic
-1692438	simple:italic
-simple:italic
-1692441	simple:italic
-1692443	simple:italic
-1692445	simple:italic
-1692447	simple:italic
-simple:italic
-1692450	simple:italic
-simple:italic
-1692453	simple:italic
-1692471	simple:italic
-1692473	simple:italic
-1692475	simple:italic
-simple:italic
-1692478	simple:italic
-1692480	simple:italic
-1692482	simple:italic
-simple:italic
-1692485	simple:italic
-1692487	simple:italic
-1692489	simple:italic
-1692491	simple:italic
-1692493	simple:italic
-1692495	simple:italic
-simple:italic
-1692498	simple:italic
-1692500	simple:italic
-1692502	simple:italic
-1692504	simple:italic
-1692506	simple:italic
-1692511	simple:italic
-1692513	simple:italic
-1692515	simple:italic
-1692517	simple:italic
-1692519	simple:italic
-1692521	simple:italic
-1692523	simple:italic
-1692525	simple:italic
-1692527	simple:italic
-1692529	simple:italic
-1692531	simple:italic
-1692533	simple:italic
-1692535	simple:italic
-1692537	simple:italic
-simple:italic
-1692540	simple:italic
-simple:italic
-1692543	simple:italic
-1692545	simple:italic
-1692547	simple:italic
-1692549	simple:italic
-simple:italic
-1692552	simple:italic
-simple:italic
-1692555	simple:italic
-1692557	simple:italic
-1692559	simple:italic
-simple:italic
-simple:italic
-1692568	simple:italic
-1692570	simple:italic
-1692572	simple:italic
-1692574	simple:italic
-1692576	simple:italic
-simple:italic
-1692579	simple:italic
-1692581	simple:italic
-1692583	simple:italic
-1692585	simple:italic
-1692587	simple:italic
-simple:italic
-1692590	simple:italic
-simple:italic
-1692593	simple:italic
-1692595	simple:italic
-simple:italic
-1692598	simple:italic
-1692600	simple:italic
-1692602	simple:italic
-simple:italic
-1692605	simple:italic
-1692607	simple:italic
-1692609	simple:italic
-1692611	simple:italic
-1692613	simple:italic
-1692615	simple:italic
-simple:italic
-1692620	simple:italic
-1692622	simple:italic
-simple:italic
-1692625	simple:italic
-simple:italic
-1692628	simple:italic
-simple:italic
-1692631	simple:italic
-1692633	simple:italic
-1692635	simple:italic
-1692637	simple:italic
-simple:italic
-1692640	simple:italic
-simple:italic
-1692643	simple:italic
-1692645	simple:italic
-1692647	simple:italic
-1692649	simple:italic
-1692651	simple:italic
-1692653	simple:italic
-simple:italic
-1692656	simple:italic
-1692658	simple:italic
-1692660	simple:italic
-1692662	simple:italic
-1692664	simple:italic
-simple:italic
-1692667	simple:italic
-1692669	simple:italic
-simple:italic
-1692672	simple:italic
-1692674	simple:italic
-1692684	simple:italic
-1692686	simple:italic
-1692688	simple:italic
-simple:italic
-1692691	simple:italic
-simple:italic
-1692694	simple:italic
-simple:italic
-1692697	simple:italic
-1692699	simple:italic
-1692701	simple:italic
-1692703	simple:italic
-1692705	simple:italic
-simple:italic
-1692708	simple:italic
-simple:italic
-1692711	simple:italic
-1692713	simple:italic
-simple:italic
-1692727	simple:italic
-1692729	simple:italic
-1692731	simple:italic
-1692733	simple:italic
-1692735	simple:italic
-1692737	simple:italic
-1692739	simple:italic
-simple:italic
-1692742	simple:italic
-1692744	simple:italic
-simple:italic
-1692747	simple:italic
-1692749	simple:italic
-1692751	simple:italic
-simple:italic
-1692754	simple:italic
-1692756	simple:italic
-1692758	simple:italic
-simple:italic
-1692761	simple:italic
-1692763	simple:italic
-1692768	simple:italic
-1692770	simple:italic
-1692772	simple:italic
-1692774	simple:italic
-1692776	simple:italic
-1692778	simple:italic
-simple:italic
-1692781	simple:italic
-1692783	simple:italic
-1692785	simple:italic
-1692787	simple:italic
-1692789	simple:italic
-1692791	simple:italic
-1692793	simple:italic
-1692795	simple:italic
-1692797	simple:italic
-1692799	simple:italic
-simple:italic
-1692802	simple:italic
-1692804	simple:italic
-1692806	simple:italic
-simple:italic
-1692809	simple:italic
-1692811	simple:italic
-1692813	simple:italic
-1692815	simple:italic
-1692817	simple:italic
-1692819	simple:italic
-1692821	simple:italic
-1692823	simple:italic
-1692825	simple:italic
-simple:italic
-1692828	simple:italic
-simple:italic
-1692831	simple:italic
-1692833	simple:italic
-1692835	simple:italic
-1692837	simple:italic
-1692839	simple:italic
-1692841	simple:italic
-1692843	simple:italic
-1692845	simple:italic
-1692847	simple:italic
-1692849	simple:italic
-1692851	simple:italic
-1692853	simple:italic
-simple:italic
-1692856	simple:italic
-simple:italic
-1692859	simple:italic
-simple:italic
-1692862	simple:italic
-1692864	simple:italic
-simple:italic
-1692867	simple:italic
-1692869	simple:italic
-1692873	simple:italic
-1692875	simple:italic
-1692877	simple:italic
-1692879	simple:italic
-simple:italic
-1692882	simple:italic
-1692884	simple:italic
-1692886	simple:italic
-simple:italic
-1692889	simple:italic
-simple:italic
-1692892	simple:italic
-1692894	simple:italic
-1692896	simple:italic
-1692904	simple:italic
-1692906	simple:italic
-simple:italic
-1692909	simple:italic
-1692911	simple:italic
-simple:italic
-1692917	simple:italic
-simple:italic
-1692920	simple:italic
-1692922	simple:italic
-simple:italic
-1692925	simple:italic
-simple:italic
-1692928	simple:italic
-simple:italic
-1692931	simple:italic
-simple:italic
-1692934	simple:italic
-1692936	simple:italic
-1692938	simple:italic
-1692940	simple:italic
-1692948	simple:italic
-1692950	simple:italic
-1692952	simple:italic
-1692954	simple:italic
-simple:italic
-1692957	simple:italic
-simple:italic
-1692960	simple:italic
-simple:italic
-1692963	simple:italic
-1692965	simple:italic
-1692967	simple:italic
-simple:italic
-1692970	simple:italic
-1692972	simple:italic
-1692974	simple:italic
-simple:italic
-1692977	simple:italic
-1692979	simple:italic
-1692981	simple:italic
-1692987	simple:italic
-simple:italic
-1692990	simple:italic
-simple:italic
-1692993	simple:italic
-simple:italic
-simple:italic
-1692997	simple:italic
-simple:italic
-1693000	simple:italic
-1693002	simple:italic
-simple:italic
-1693005	simple:italic
-simple:italic
-1693008	simple:italic
-1693010	simple:italic
-1693019	simple:italic
-simple:italic
-1693022	simple:italic
-1693024	simple:italic
-simple:italic
-1693027	simple:italic
-1693029	simple:italic
-simple:italic
-1693032	simple:italic
-simple:italic
-1693035	simple:italic
-simple:italic
-1693038	simple:italic
-simple:italic
-1693041	simple:italic
-simple:italic
-1693044	simple:italic
-1693046	simple:italic
-simple:italic
-1693049	simple:italic
-simple:italic
-1693052	simple:italic
-simple:italic
-1693055	simple:italic
-1693060	simple:italic
-1693062	simple:italic
-1693064	simple:italic
-1693066	simple:italic
-simple:italic
-1693069	simple:italic
-1693071	simple:italic
-1693073	simple:italic
-simple:italic
-1693076	simple:italic
-1693078	simple:italic
-simple:italic
-1693081	simple:italic
-1693085	simple:italic
-simple:italic
-1693088	simple:italic
-1693090	simple:italic
+1793853	simple:italic
+1793874	simple:italic
+1793876	simple:italic
+1793878	simple:italic
+1793880	simple:italic
+simple:italic
+1793883	simple:italic
+1793885	simple:italic
+simple:italic
+1793888	simple:italic
+simple:italic
+1793891	simple:italic
+1793893	simple:italic
+1793895	simple:italic
+simple:italic
+1793898	simple:italic
+1793900	simple:italic
+1793902	simple:italic
+1793904	simple:italic
+1793906	simple:italic
+1793908	simple:italic
+1793910	simple:italic
+1793912	simple:italic
+1793914	simple:italic
+simple:italic
+1793917	simple:italic
+1793919	simple:italic
+1793921	simple:italic
+simple:italic
+1793924	simple:italic
+1793926	simple:italic
+1793928	simple:italic
+1793930	simple:italic
+1793932	simple:italic
+simple:italic
+1793935	simple:italic
+1793937	simple:italic
+1793939	simple:italic
+1793946	simple:italic
+1793948	simple:italic
+1793950	simple:italic
+1793952	simple:italic
+1793954	simple:italic
+1793982	simple:italic
+simple:italic
+1793985	simple:italic
+simple:italic
+1793988	simple:italic
+1793990	simple:italic
+1793992	simple:italic
+1793994	simple:italic
+1793996	simple:italic
+1793998	simple:italic
+1794000	simple:italic
+1794002	simple:italic
+1794004	simple:italic
+1794006	simple:italic
+1794008	simple:italic
+1794036	simple:italic
+1794038	simple:italic
+1794040	simple:italic
+1794042	simple:italic
+1794044	simple:italic
+1794046	simple:italic
+1794048	simple:italic
+1794050	simple:italic
+1794052	simple:italic
+1794054	simple:italic
+simple:italic
+1794057	simple:italic
+1794059	simple:italic
+1794061	simple:italic
+simple:italic
+1794064	simple:italic
+1794066	simple:italic
+1794068	simple:italic
+1794070	simple:italic
+1794072	simple:italic
+1794074	simple:italic
+1794076	simple:italic
+1794078	simple:italic
+simple:italic
+1794081	simple:italic
+1794083	simple:italic
+simple:italic
+1794086	simple:italic
+1794088	simple:italic
+1794092	simple:italic
+simple:italic
+1794095	simple:italic
+simple:italic
+1794098	simple:italic
+1794100	simple:italic
+1794102	simple:italic
+1794104	simple:italic
+1794106	simple:italic
+1794108	simple:italic
+1794110	simple:italic
+1794112	simple:italic
+1794114	simple:italic
+1794116	simple:italic
+1794118	simple:italic
+1794120	simple:italic
+1794135	simple:italic
+1794137	simple:italic
+1794139	simple:italic
+1794141	simple:italic
+1794143	simple:italic
+1794145	simple:italic
+1794147	simple:italic
+1794149	simple:italic
+simple:italic
+1794152	simple:italic
+simple:italic
+1794155	simple:italic
+1794157	simple:italic
+1794159	simple:italic
+1794161	simple:italic
+simple:italic
+simple:italic
+1794165	simple:italic
+1794167	simple:italic
+1794169	simple:italic
+1794171	simple:italic
+1794173	simple:italic
+simple:italic
+1794176	simple:italic
+1794178	simple:italic
+simple:italic
+1794181	simple:italic
+1794183	simple:italic
+1794185	simple:italic
+1794187	simple:italic
+1794189	simple:italic
+simple:italic
+1794192	simple:italic
+1794194	simple:italic
+1794196	simple:italic
+1794234	simple:italic
+1794236	simple:italic
+simple:italic
+1794239	simple:italic
+1794241	simple:italic
+simple:italic
+1794244	simple:italic
+1794246	simple:italic
+simple:italic
+1794249	simple:italic
+1794251	simple:italic
+1794253	simple:italic
+1794255	simple:italic
+simple:italic
+1794258	simple:italic
+1794260	simple:italic
+1794262	simple:italic
+1794264	simple:italic
+simple:italic
+1794267	simple:italic
+simple:italic
+1794270	simple:italic
+1794272	simple:italic
+1794274	simple:italic
+1794276	simple:italic
+1794278	simple:italic
+1794280	simple:italic
+simple:italic
+1794283	simple:italic
+1794285	simple:italic
+simple:italic
+1794288	simple:italic
+simple:italic
+1794291	simple:italic
+1794297	simple:italic
+simple:italic
+1794300	simple:italic
+1794302	simple:italic
+1794304	simple:italic
+simple:italic
+1794307	simple:italic
+1794309	simple:italic
+1794311	simple:italic
+1794313	simple:italic
+1794315	simple:italic
+1794317	simple:italic
+1794319	simple:italic
+1794321	simple:italic
+1794330	simple:italic
+simple:italic
+1794333	simple:italic
+1794335	simple:italic
+1794337	simple:italic
+1794339	simple:italic
+1794341	simple:italic
+1794343	simple:italic
+simple:italic
+1794346	simple:italic
+1794348	simple:italic
+1794350	simple:italic
+simple:italic
+simple:italic
+1794354	simple:italic
+simple:italic
+1794357	simple:italic
+simple:italic
+1794360	simple:italic
+1794362	simple:italic
+1794364	simple:italic
+1794366	simple:italic
+1794368	simple:italic
+1794370	simple:italic
+1794372	simple:italic
+simple:italic
+1794375	simple:italic
+1794377	simple:italic
+1794379	simple:italic
+1794381	simple:italic
+simple:italic
+1794384	simple:italic
+1794386	simple:italic
+1794388	simple:italic
+1794390	simple:italic
+1794392	simple:italic
+1794394	simple:italic
+1794396	simple:italic
+1794398	simple:italic
+1794400	simple:italic
+1794402	simple:italic
+simple:italic
+1794405	simple:italic
+simple:italic
+1794408	simple:italic
+1794410	simple:italic
+1794412	simple:italic
+1794414	simple:italic
+1794416	simple:italic
+simple:italic
+1794419	simple:italic
+1794421	simple:italic
+1794423	simple:italic
+1794425	simple:italic
+1794427	simple:italic
+1794429	simple:italic
+1794431	simple:italic
+1794433	simple:italic
+1794435	simple:italic
+1794437	simple:italic
+1794439	simple:italic
+1794441	simple:italic
+1794450	simple:italic
+simple:italic
+1794453	simple:italic
+1794455	simple:italic
+1794457	simple:italic
+1794459	simple:italic
+1794461	simple:italic
+1794463	simple:italic
+1794465	simple:italic
+1794467	simple:italic
+1794471	simple:italic
+1794473	simple:italic
+simple:italic
+1794476	simple:italic
+1794478	simple:italic
+1794480	simple:italic
+simple:italic
+1794483	simple:italic
+simple:italic
+1794486	simple:italic
+simple:italic
+1794489	simple:italic
+simple:italic
+1794492	simple:italic
+1794494	simple:italic
+1794496	simple:italic
+1794498	simple:italic
+simple:italic
+1794501	simple:italic
+1794503	simple:italic
+simple:italic
+1794506	simple:italic
+1794508	simple:italic
+1794510	simple:italic
+1794512	simple:italic
+1794514	simple:italic
+1794516	simple:italic
+1794518	simple:italic
+1794526	simple:italic
+simple:italic
+1794529	simple:italic
+1794531	simple:italic
+simple:italic
+1794534	simple:italic
+1794536	simple:italic
+1794538	simple:italic
+simple:italic
+1794541	simple:italic
+1794543	simple:italic
+1794545	simple:italic
+1794547	simple:italic
+1794549	simple:italic
+1794551	simple:italic
+1794553	simple:italic
+simple:italic
+1794556	simple:italic
+1794558	simple:italic
+1794560	simple:italic
+1794562	simple:italic
+simple:italic
+1794565	simple:italic
+1794567	simple:italic
+simple:italic
+1794570	simple:italic
+simple:italic
+1794573	simple:italic
+1794575	simple:italic
+1794577	simple:italic
+simple:italic
+1794580	simple:italic
+1794582	simple:italic
+1794584	simple:italic
+1794586	simple:italic
+1794588	simple:italic
+1794590	simple:italic
+1794592	simple:italic
+1794594	simple:italic
+1794596	simple:italic
+simple:italic
+1794599	simple:italic
+1794601	simple:italic
+1794603	simple:italic
+simple:italic
+1794606	simple:italic
+1794608	simple:italic
+1794610	simple:italic
+simple:italic
+1794619	simple:italic
+1794621	simple:italic
+1794623	simple:italic
+1794625	simple:italic
+simple:italic
+1794628	simple:italic
+1794630	simple:italic
+1794632	simple:italic
+1794634	simple:italic
+1794636	simple:italic
+simple:italic
+1794639	simple:italic
+simple:italic
+1794642	simple:italic
+1794648	simple:italic
+simple:italic
+1794651	simple:italic
+1794653	simple:italic
+simple:italic
+1794656	simple:italic
+1794658	simple:italic
+simple:italic
+1794664	simple:italic
+simple:italic
+1794667	simple:italic
+simple:italic
+1794670	simple:italic
+1794672	simple:italic
+simple:italic
+1794695	simple:italic
+1794697	simple:italic
+simple:italic
+simple:italic
+1794701	simple:italic
+1794703	simple:italic
+1794705	simple:italic
+simple:italic
+1794708	simple:italic
+simple:italic
+1794711	simple:italic
+1794713	simple:italic
+1794715	simple:italic
+simple:italic
+1794718	simple:italic
+1794720	simple:italic
+1794722	simple:italic
+simple:italic
+1794725	simple:italic
+1794733	simple:italic
+1794735	simple:italic
+simple:italic
+1794738	simple:italic
+simple:italic
+1794741	simple:italic
+simple:italic
+1794744	simple:italic
+1794746	simple:italic
+1794748	simple:italic
+1794750	simple:italic
+simple:italic
+1794753	simple:italic
+simple:italic
+1794756	simple:italic
+1794774	simple:italic
+1794776	simple:italic
+1794778	simple:italic
+simple:italic
+1794781	simple:italic
+1794783	simple:italic
+1794785	simple:italic
+simple:italic
+1794788	simple:italic
+1794790	simple:italic
+1794792	simple:italic
+1794794	simple:italic
+1794796	simple:italic
+1794798	simple:italic
+simple:italic
+1794801	simple:italic
+1794803	simple:italic
+1794805	simple:italic
+1794807	simple:italic
+1794809	simple:italic
+1794814	simple:italic
+1794816	simple:italic
+1794818	simple:italic
+1794820	simple:italic
+1794822	simple:italic
+1794824	simple:italic
+1794826	simple:italic
+1794828	simple:italic
+1794830	simple:italic
+1794832	simple:italic
+1794834	simple:italic
+1794836	simple:italic
+1794838	simple:italic
+1794840	simple:italic
+simple:italic
+1794843	simple:italic
+simple:italic
+1794846	simple:italic
+1794848	simple:italic
+1794850	simple:italic
+1794852	simple:italic
+simple:italic
+1794855	simple:italic
+simple:italic
+1794858	simple:italic
+1794860	simple:italic
+1794862	simple:italic
+simple:italic
+simple:italic
+1794871	simple:italic
+1794873	simple:italic
+1794875	simple:italic
+1794877	simple:italic
+1794879	simple:italic
+simple:italic
+1794882	simple:italic
+1794884	simple:italic
+1794886	simple:italic
+1794888	simple:italic
+1794890	simple:italic
+simple:italic
+1794893	simple:italic
+simple:italic
+1794896	simple:italic
+1794898	simple:italic
+simple:italic
+1794901	simple:italic
+1794903	simple:italic
+1794905	simple:italic
+simple:italic
+1794908	simple:italic
+1794910	simple:italic
+1794912	simple:italic
+1794914	simple:italic
+1794916	simple:italic
+1794918	simple:italic
+simple:italic
+1794923	simple:italic
+1794925	simple:italic
+simple:italic
+1794928	simple:italic
+simple:italic
+1794931	simple:italic
+simple:italic
+1794934	simple:italic
+1794936	simple:italic
+1794938	simple:italic
+1794940	simple:italic
+simple:italic
+1794943	simple:italic
+simple:italic
+1794946	simple:italic
+1794948	simple:italic
+1794950	simple:italic
+1794952	simple:italic
+1794954	simple:italic
+1794956	simple:italic
+simple:italic
+1794959	simple:italic
+1794961	simple:italic
+1794963	simple:italic
+1794965	simple:italic
+1794967	simple:italic
+simple:italic
+1794970	simple:italic
+1794972	simple:italic
+simple:italic
+1794975	simple:italic
+1794977	simple:italic
+1794987	simple:italic
+1794989	simple:italic
+1794991	simple:italic
+simple:italic
+1794994	simple:italic
+simple:italic
+1794997	simple:italic
+simple:italic
+1795000	simple:italic
+1795002	simple:italic
+1795004	simple:italic
+1795006	simple:italic
+1795008	simple:italic
+simple:italic
+1795011	simple:italic
+simple:italic
+1795014	simple:italic
+1795016	simple:italic
+simple:italic
+1795030	simple:italic
+1795032	simple:italic
+1795034	simple:italic
+1795036	simple:italic
+1795038	simple:italic
+1795040	simple:italic
+1795042	simple:italic
+simple:italic
+1795045	simple:italic
+1795047	simple:italic
+simple:italic
+1795050	simple:italic
+1795052	simple:italic
+1795054	simple:italic
+simple:italic
+1795057	simple:italic
+1795059	simple:italic
+1795061	simple:italic
+simple:italic
+1795064	simple:italic
+1795066	simple:italic
+1795071	simple:italic
+1795073	simple:italic
+1795075	simple:italic
+1795077	simple:italic
+1795079	simple:italic
+1795081	simple:italic
+simple:italic
+1795084	simple:italic
+1795086	simple:italic
+1795088	simple:italic
+1795090	simple:italic
+1795092	simple:italic
+1795094	simple:italic
+1795096	simple:italic
+1795098	simple:italic
+1795100	simple:italic
+1795102	simple:italic
+simple:italic
+1795105	simple:italic
+1795107	simple:italic
+1795109	simple:italic
+simple:italic
+1795112	simple:italic
+1795114	simple:italic
+1795116	simple:italic
+1795118	simple:italic
+1795120	simple:italic
+1795122	simple:italic
+1795124	simple:italic
+1795126	simple:italic
+1795128	simple:italic
+simple:italic
+1795131	simple:italic
+simple:italic
+1795134	simple:italic
+1795136	simple:italic
+1795138	simple:italic
+1795140	simple:italic
+1795142	simple:italic
+1795144	simple:italic
+1795146	simple:italic
+1795148	simple:italic
+1795150	simple:italic
+1795152	simple:italic
+1795154	simple:italic
+1795156	simple:italic
+simple:italic
+1795159	simple:italic
+simple:italic
+1795162	simple:italic
+simple:italic
+1795165	simple:italic
+1795167	simple:italic
+simple:italic
+1795170	simple:italic
+1795172	simple:italic
+1795176	simple:italic
+1795178	simple:italic
+1795180	simple:italic
+1795182	simple:italic
+simple:italic
+1795185	simple:italic
+1795187	simple:italic
+1795189	simple:italic
+simple:italic
+1795192	simple:italic
+simple:italic
+1795195	simple:italic
+1795197	simple:italic
+1795199	simple:italic
+1795207	simple:italic
+1795209	simple:italic
+simple:italic
+1795212	simple:italic
+1795214	simple:italic
+simple:italic
+1795220	simple:italic
+simple:italic
+1795223	simple:italic
+1795225	simple:italic
+simple:italic
+1795228	simple:italic
+simple:italic
+1795231	simple:italic
+simple:italic
+1795234	simple:italic
+simple:italic
+1795237	simple:italic
+1795239	simple:italic
+1795241	simple:italic
+1795243	simple:italic
+1795251	simple:italic
+1795253	simple:italic
+1795255	simple:italic
+1795257	simple:italic
+simple:italic
+1795260	simple:italic
+simple:italic
+1795263	simple:italic
+simple:italic
+1795266	simple:italic
+1795268	simple:italic
+1795270	simple:italic
+simple:italic
+1795273	simple:italic
+1795275	simple:italic
+1795277	simple:italic
+simple:italic
+1795280	simple:italic
+1795282	simple:italic
+1795284	simple:italic
+1795290	simple:italic
+simple:italic
+1795293	simple:italic
+simple:italic
+1795296	simple:italic
+simple:italic
+simple:italic
+1795300	simple:italic
+simple:italic
+1795303	simple:italic
+1795305	simple:italic
+simple:italic
+1795308	simple:italic
+simple:italic
+1795311	simple:italic
+1795313	simple:italic
+1795322	simple:italic
+simple:italic
+1795325	simple:italic
+1795327	simple:italic
+simple:italic
+1795330	simple:italic
+1795332	simple:italic
+simple:italic
+1795335	simple:italic
+simple:italic
+1795338	simple:italic
+simple:italic
+1795341	simple:italic
+simple:italic
+1795344	simple:italic
+simple:italic
+1795347	simple:italic
+1795349	simple:italic
+simple:italic
+1795352	simple:italic
+simple:italic
+1795355	simple:italic
+simple:italic
+1795358	simple:italic
+1795363	simple:italic
+1795365	simple:italic
+1795367	simple:italic
+1795369	simple:italic
+simple:italic
+1795372	simple:italic
+1795374	simple:italic
+1795376	simple:italic
+simple:italic
+1795379	simple:italic
+1795381	simple:italic
+simple:italic
+1795384	simple:italic
+1795388	simple:italic
+simple:italic
+1795391	simple:italic
+1795393	simple:italic
 simple:italic
 simple:italic
-1693094	simple:italic
-simple:italic
-1693097	simple:italic
-simple:italic
-1693100	simple:italic
-1693102	simple:italic
-simple:italic
-1693105	simple:italic
-simple:italic
-1693115	simple:italic
-simple:italic
-1693118	simple:italic
-1693120	simple:italic
-simple:italic
-1693123	simple:italic
-1693125	simple:italic
-simple:italic
-1693128	simple:italic
-simple:italic
-1693132	simple:italic
-1693134	simple:italic
-1693136	simple:italic
-1693138	simple:italic
-1693140	simple:italic
-1693142	simple:italic
-simple:italic
-1693145	simple:italic
-1693147	simple:italic
-1693149	simple:italic
-1693151	simple:italic
-1693153	simple:italic
-1693155	simple:italic
-1693157	simple:italic
-simple:italic
-1693160	simple:italic
-1693162	simple:italic
-1693164	simple:italic
-simple:italic
-1693167	simple:italic
-1693169	simple:italic
-1693171	simple:italic
-1693173	simple:italic
-1693175	simple:italic
-1693177	simple:italic
-simple:italic
-1693180	simple:italic
-simple:italic
-1693183	simple:italic
-simple:italic
-simple:italic
-1693187	simple:italic
-1693189	simple:italic
-1693191	simple:italic
+1795397	simple:italic
+simple:italic
+1795400	simple:italic
+simple:italic
+1795403	simple:italic
+1795405	simple:italic
+simple:italic
+1795408	simple:italic
+simple:italic
+1795418	simple:italic
+simple:italic
+1795421	simple:italic
+1795423	simple:italic
+simple:italic
+1795426	simple:italic
+1795428	simple:italic
+simple:italic
+1795431	simple:italic
+simple:italic
+1795435	simple:italic
+1795437	simple:italic
+1795439	simple:italic
+1795441	simple:italic
+1795443	simple:italic
+1795445	simple:italic
+simple:italic
+1795448	simple:italic
+1795450	simple:italic
+1795452	simple:italic
+1795454	simple:italic
+1795456	simple:italic
+1795458	simple:italic
+1795460	simple:italic
+simple:italic
+1795463	simple:italic
+1795465	simple:italic
+1795467	simple:italic
+simple:italic
+1795470	simple:italic
+1795472	simple:italic
+1795474	simple:italic
+1795476	simple:italic
+1795478	simple:italic
+1795480	simple:italic
+simple:italic
+1795483	simple:italic
+simple:italic
+1795486	simple:italic
+simple:italic
+simple:italic
+1795490	simple:italic
+1795492	simple:italic
+1795494	simple:italic
 simple:italic
-1693194	simple:italic
+1795497	simple:italic
 simple:italic
-1693197	simple:italic
+1795500	simple:italic
 simple:italic
-1693200	simple:italic
-1693202	simple:italic
-1693204	simple:italic
-1693206	simple:italic
+1795503	simple:italic
+1795505	simple:italic
+1795507	simple:italic
+1795509	simple:italic
 simple:italic
-1693209	simple:italic
-1693211	simple:italic
-1693213	simple:italic
-1693218	simple:italic
-1693220	simple:italic
-simple:italic
-1693223	simple:italic
+1795512	simple:italic
+1795514	simple:italic
+1795516	simple:italic
+1795521	simple:italic
+1795523	simple:italic
+simple:italic
+1795526	simple:italic
 simple:italic
-1693226	simple:italic
+1795529	simple:italic
 simple:italic
-1693229	simple:italic
+1795532	simple:italic
 simple:italic
-1693232	simple:italic
-1693234	simple:italic
-simple:italic
-1693237	simple:italic
+1795535	simple:italic
+1795537	simple:italic
+simple:italic
+1795540	simple:italic
 simple:italic
-1693240	simple:italic
+1795543	simple:italic
 simple:italic
-1693243	simple:italic
+1795546	simple:italic
 simple:italic
-1693246	simple:italic
-1693248	simple:italic
-1693253	simple:italic
+1795549	simple:italic
+1795551	simple:italic
+1795556	simple:italic
 simple:italic
-1693256	simple:italic
-1693258	simple:italic
+1795559	simple:italic
+1795561	simple:italic
 simple:italic
-1693275	simple:italic
-1693277	simple:italic
-1693279	simple:italic
-1693281	simple:italic
+1795578	simple:italic
+1795580	simple:italic
+1795582	simple:italic
+1795584	simple:italic
 simple:italic
-1693284	simple:italic
+1795587	simple:italic
 simple:italic
-1693287	simple:italic
-1693289	simple:italic
-1693291	simple:italic
-1693293	simple:italic
-1693295	simple:italic
+1795590	simple:italic
+1795592	simple:italic
+1795594	simple:italic
+1795596	simple:italic
+1795598	simple:italic
 simple:italic
-1693298	simple:italic
-1693300	simple:italic
-1693302	simple:italic
-1693304	simple:italic
-1693310	simple:italic
+1795601	simple:italic
+1795603	simple:italic
+1795605	simple:italic
+1795607	simple:italic
+1795613	simple:italic
 simple:italic
-1693313	simple:italic
+1795616	simple:italic
 simple:italic
-1693316	simple:italic
-1693318	simple:italic
+1795619	simple:italic
+1795621	simple:italic
 simple:italic
-1693321	simple:italic
-1693323	simple:italic
-1693325	simple:italic
-1693327	simple:italic
-1693329	simple:italic
-1693335	simple:italic
-1693337	simple:italic
-1693339	simple:italic
-1693341	simple:italic
-1693343	simple:italic
-1693345	simple:italic
+1795624	simple:italic
+1795626	simple:italic
+1795628	simple:italic
+1795630	simple:italic
+1795632	simple:italic
+1795638	simple:italic
+1795640	simple:italic
+1795642	simple:italic
+1795644	simple:italic
+1795646	simple:italic
+1795648	simple:italic
 simple:italic
-1693348	simple:italic
-1693350	simple:italic
-1693352	simple:italic
+1795651	simple:italic
+1795653	simple:italic
+1795655	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1693357	simple:italic
-1693363	simple:italic
+1795660	simple:italic
+1795666	simple:italic
 simple:italic
-1693366	simple:italic
-1693368	simple:italic
+1795669	simple:italic
+1795671	simple:italic
 simple:italic
-1693371	simple:italic
-1693373	simple:italic
+1795674	simple:italic
+1795676	simple:italic
 simple:italic
-1693376	simple:italic
-1693378	simple:italic
-1693380	simple:italic
-1693382	simple:italic
+1795679	simple:italic
+1795681	simple:italic
+1795683	simple:italic
+1795685	simple:italic
 simple:italic
-1693385	simple:italic
-1693387	simple:italic
+1795688	simple:italic
+1795690	simple:italic
 simple:italic
-1693390	simple:italic
-1693392	simple:italic
+1795693	simple:italic
+1795695	simple:italic
 simple:italic
-1693395	simple:italic
+1795698	simple:italic
 simple:italic
-1693398	simple:italic
-1693400	simple:italic
+1795701	simple:italic
+1795703	simple:italic
 simple:italic
-1693403	simple:italic
-1693405	simple:italic
-1693409	simple:italic
-1693411	simple:italic
-1693413	simple:italic
-1693415	simple:italic
-1693417	simple:italic
+1795706	simple:italic
+1795708	simple:italic
+1795712	simple:italic
+1795714	simple:italic
+1795716	simple:italic
+1795718	simple:italic
+1795720	simple:italic
 simple:italic
-1693420	simple:italic
-1693422	simple:italic
+1795723	simple:italic
+1795725	simple:italic
 simple:italic
-1693425	simple:italic
-1693427	simple:italic
+1795728	simple:italic
+1795730	simple:italic
 simple:italic
-1693430	simple:italic
-1693435	simple:italic
-1693437	simple:italic
-1693439	simple:italic
-1693441	simple:italic
-1693443	simple:italic
+1795733	simple:italic
+1795738	simple:italic
+1795740	simple:italic
+1795742	simple:italic
+1795744	simple:italic
+1795746	simple:italic
 simple:italic
-1693446	simple:italic
+1795749	simple:italic
 simple:italic
-1693449	simple:italic
-1693451	simple:italic
-1693453	simple:italic
-1693455	simple:italic
-1693460	simple:italic
+1795752	simple:italic
+1795754	simple:italic
+1795756	simple:italic
+1795758	simple:italic
+1795763	simple:italic
 simple:italic
-1693463	simple:italic
+1795766	simple:italic
 simple:italic
-1693466	simple:italic
-1693468	simple:italic
-1693470	simple:italic
+1795769	simple:italic
+1795771	simple:italic
+1795773	simple:italic
 simple:italic
 simple:italic
-1693474	simple:italic
-1693476	simple:italic
-1693478	simple:italic
-1693480	simple:italic
-1693482	simple:italic
+1795777	simple:italic
+1795779	simple:italic
+1795781	simple:italic
+1795783	simple:italic
+1795785	simple:italic
 simple:italic
-1693485	simple:italic
-1693487	simple:italic
+1795788	simple:italic
+1795790	simple:italic
 simple:italic
-1693490	simple:italic
-1693494	simple:italic
+1795793	simple:italic
+1795797	simple:italic
 simple:italic
-1693497	simple:italic
+1795800	simple:italic
 simple:italic
-1693500	simple:italic
-1693502	simple:italic
-1693504	simple:italic
+1795803	simple:italic
+1795805	simple:italic
+1795807	simple:italic
 simple:italic
-1693507	simple:italic
+1795810	simple:italic
 simple:italic
-1693510	simple:italic
+1795813	simple:italic
 simple:italic
-1693513	simple:italic
+1795816	simple:italic
 simple:italic
-1693516	simple:italic
-1693518	simple:italic
+1795819	simple:italic
+1795821	simple:italic
 simple:italic
-1693521	simple:italic
-1693523	simple:italic
+1795824	simple:italic
+1795826	simple:italic
 simple:italic
-1693526	simple:italic
-1693528	simple:italic
+1795829	simple:italic
+1795831	simple:italic
 simple:italic
-1693531	simple:italic
-1693549	simple:italic
-1693551	simple:italic
-1693553	simple:italic
-1693555	simple:italic
-1693557	simple:italic
-1693559	simple:italic
-1693561	simple:italic
-1693563	simple:italic
-1693565	simple:italic
-1693567	simple:italic
-1693569	simple:italic
-1693571	simple:italic
+1795834	simple:italic
+1795852	simple:italic
+1795854	simple:italic
+1795856	simple:italic
+1795858	simple:italic
+1795860	simple:italic
+1795862	simple:italic
+1795864	simple:italic
+1795866	simple:italic
+1795868	simple:italic
+1795870	simple:italic
+1795872	simple:italic
+1795874	simple:italic
 simple:italic
-1693574	simple:italic
+1795877	simple:italic
 simple:italic
-1693577	simple:italic
-1693579	simple:italic
+1795880	simple:italic
+1795882	simple:italic
 simple:italic
 simple:italic
-1693586	simple:italic
+1795889	simple:italic
 simple:italic
-1693589	simple:italic
+1795892	simple:italic
 simple:italic
-1693592	simple:italic
-1693594	simple:italic
+1795895	simple:italic
+1795897	simple:italic
 simple:italic
-1693597	simple:italic
-1693611	simple:italic
-1693613	simple:italic
-1693615	simple:italic
-1693617	simple:italic
-1693619	simple:italic
-1693621	simple:italic
-1693623	simple:italic
+1795900	simple:italic
+1795914	simple:italic
+1795916	simple:italic
+1795918	simple:italic
+1795920	simple:italic
+1795922	simple:italic
+1795924	simple:italic
+1795926	simple:italic
 simple:italic
-1693626	simple:italic
-1693628	simple:italic
-1693630	simple:italic
+1795929	simple:italic
+1795931	simple:italic
+1795933	simple:italic
 simple:italic
-1693633	simple:italic
-1693635	simple:italic
-1693637	simple:italic
-1693639	simple:italic
-1693641	simple:italic
-1693652	simple:italic
+1795936	simple:italic
+1795938	simple:italic
+1795940	simple:italic
+1795942	simple:italic
+1795944	simple:italic
+1795955	simple:italic
 simple:italic
-1693655	simple:italic
-1693657	simple:italic
+1795958	simple:italic
+1795960	simple:italic
 simple:italic
-1693660	simple:italic
-1693662	simple:italic
+1795963	simple:italic
+1795965	simple:italic
 simple:italic
-1693665	simple:italic
+1795968	simple:italic
 simple:italic
-1693668	simple:italic
+1795971	simple:italic
 simple:italic
-1693671	simple:italic
+1795974	simple:italic
 simple:italic
 simple:italic
-1693675	simple:italic
-1693677	simple:italic
-1693679	simple:italic
-1693681	simple:italic
-1693683	simple:italic
-1693685	simple:italic
-1693687	simple:italic
-1693689	simple:italic
-1693691	simple:italic
-1693693	simple:italic
+1795978	simple:italic
+1795980	simple:italic
+1795982	simple:italic
+1795984	simple:italic
+1795986	simple:italic
+1795988	simple:italic
+1795990	simple:italic
+1795992	simple:italic
+1795994	simple:italic
+1795996	simple:italic
 simple:italic
-1693696	simple:italic
-1693701	simple:italic
-1693703	simple:italic
-1693705	simple:italic
-1693711	simple:italic
+1795999	simple:italic
+1796004	simple:italic
+1796006	simple:italic
+1796008	simple:italic
+1796014	simple:italic
 simple:italic
-1693714	simple:italic
-1693716	simple:italic
+1796017	simple:italic
+1796019	simple:italic
 simple:italic
-1693719	simple:italic
-1693721	simple:italic
+1796022	simple:italic
+1796024	simple:italic
 simple:italic
-1693724	simple:italic
-1693726	simple:italic
+1796027	simple:italic
+1796029	simple:italic
 simple:italic
-1693729	simple:italic
+1796032	simple:italic
 simple:italic
-1693732	simple:italic
-1693737	simple:italic
-1693739	simple:italic
-1693741	simple:italic
-1693743	simple:italic
+1796035	simple:italic
+1796040	simple:italic
+1796042	simple:italic
+1796044	simple:italic
+1796046	simple:italic
 simple:italic
-1693746	simple:italic
+1796049	simple:italic
 simple:italic
-1693749	simple:italic
-1693757	simple:italic
-1693759	simple:italic
-1693761	simple:italic
+1796052	simple:italic
+1796060	simple:italic
+1796062	simple:italic
+1796064	simple:italic
 simple:italic
-1693764	simple:italic
-1693766	simple:italic
+1796067	simple:italic
+1796069	simple:italic
 simple:italic
-1693769	simple:italic
-1693771	simple:italic
-1693773	simple:italic
-1693775	simple:italic
-1693777	simple:italic
-1693779	simple:italic
-1693781	simple:italic
-1693783	simple:italic
+1796072	simple:italic
+1796074	simple:italic
+1796076	simple:italic
+1796078	simple:italic
+1796080	simple:italic
+1796082	simple:italic
+1796084	simple:italic
+1796086	simple:italic
 simple:italic
-1693786	simple:italic
-1693788	simple:italic
-1693790	simple:italic
-1693794	simple:italic
-1693796	simple:italic
-1693798	simple:italic
-1693800	simple:italic
-1693802	simple:italic
+1796089	simple:italic
+1796091	simple:italic
+1796093	simple:italic
+1796097	simple:italic
+1796099	simple:italic
+1796101	simple:italic
+1796103	simple:italic
+1796105	simple:italic
 simple:italic
-1693805	simple:italic
-1693807	simple:italic
+1796108	simple:italic
+1796110	simple:italic
 simple:italic
-1693810	simple:italic
-1693812	simple:italic
+1796113	simple:italic
+1796115	simple:italic
 simple:italic
 simple:italic
-1693816	simple:italic
+1796119	simple:italic
 simple:italic
-1693819	simple:italic
+1796122	simple:italic
 simple:italic
-1693822	simple:italic
+1796125	simple:italic
 simple:italic
-1693825	simple:italic
-1693827	simple:italic
+1796128	simple:italic
+1796130	simple:italic
 simple:italic
-1693830	simple:italic
-1693835	simple:italic
+1796133	simple:italic
+1796138	simple:italic
 simple:italic
-1693838	simple:italic
-1693840	simple:italic
-1693842	simple:italic
+1796141	simple:italic
+1796143	simple:italic
+1796145	simple:italic
 simple:italic
-1693845	simple:italic
+1796148	simple:italic
 simple:italic
-1693848	simple:italic
+1796151	simple:italic
 simple:italic
-1693851	simple:italic
+1796154	simple:italic
 simple:italic
-1693854	simple:italic
-1693856	simple:italic
-1693859	simple:italic
-1693861	simple:italic
-1693863	simple:italic
+1796157	simple:italic
+1796159	simple:italic
+1796162	simple:italic
+1796164	simple:italic
+1796166	simple:italic
 simple:italic
-1693866	simple:italic
-1693871	simple:italic
-1693873	simple:italic
+1796169	simple:italic
+1796174	simple:italic
+1796176	simple:italic
 simple:italic
-1693876	simple:italic
-1693878	simple:italic
+1796179	simple:italic
+1796181	simple:italic
 simple:italic
-1693881	simple:italic
+1796184	simple:italic
 simple:italic
-1693884	simple:italic
-1693886	simple:italic
-1693888	simple:italic
+1796187	simple:italic
+1796189	simple:italic
+1796191	simple:italic
 simple:italic
-1693891	simple:italic
+1796194	simple:italic
 simple:italic
-1693894	simple:italic
+1796197	simple:italic
 simple:italic
-1693897	simple:italic
+1796200	simple:italic
 simple:italic
-1693900	simple:italic
+1796203	simple:italic
 simple:italic
-1693903	simple:italic
+1796206	simple:italic
 simple:italic
 simple:italic
-1693907	simple:italic
+1796210	simple:italic
 simple:italic
 simple:italic
-1693911	simple:italic
-1693913	simple:italic
-1693915	simple:italic
-1693919	simple:italic
-1693921	simple:italic
+1796214	simple:italic
+1796216	simple:italic
+1796218	simple:italic
+1796222	simple:italic
+1796224	simple:italic
 simple:italic
-1693938	simple:italic
-1693940	simple:italic
-1693942	simple:italic
+1796241	simple:italic
+1796243	simple:italic
+1796245	simple:italic
 simple:italic
-1693945	simple:italic
+1796248	simple:italic
 simple:italic
-1693952	simple:italic
-1693954	simple:italic
+1796255	simple:italic
+1796257	simple:italic
 simple:italic
-1693957	simple:italic
+1796260	simple:italic
 simple:italic
-1693960	simple:italic
+1796263	simple:italic
 simple:italic
 simple:italic
 simple:italic
 simple:italic
-1693966	simple:italic
-1693968	simple:italic
-1693970	simple:italic
-1693972	simple:italic
-1693974	simple:italic
-1693976	simple:italic
+1796269	simple:italic
+1796271	simple:italic
+1796273	simple:italic
+1796275	simple:italic
+1796277	simple:italic
+1796279	simple:italic
 simple:italic
-1693979	simple:italic
-1693982	simple:italic
-1693984	simple:italic
+1796282	simple:italic
+1796285	simple:italic
+1796287	simple:italic
 simple:italic
-1693987	simple:italic
-1693989	simple:italic
-1693991	simple:italic
-1693993	simple:italic
+1796290	simple:italic
+1796292	simple:italic
+1796294	simple:italic
+1796296	simple:italic
 simple:italic
-1693996	simple:italic
+1796299	simple:italic
 simple:italic
-1693999	simple:italic
+1796302	simple:italic
 simple:italic
-1694011	simple:italic
+1796314	simple:italic
 simple:italic
-1694014	simple:italic
+1796317	simple:italic
 simple:italic
-1694017	simple:italic
+1796320	simple:italic
 simple:italic
-1694020	simple:italic
-1694022	simple:italic
+1796323	simple:italic
+1796325	simple:italic
 simple:italic
-1694025	simple:italic
+1796328	simple:italic
 simple:italic
-1694028	simple:italic
-1694030	simple:italic
+1796331	simple:italic
+1796333	simple:italic
 simple:italic
-1694033	simple:italic
+1796336	simple:italic
 simple:italic
 simple:italic
-1694037	simple:italic
+1796340	simple:italic
 simple:italic
 simple:italic
-1694041	simple:italic
+1796344	simple:italic
 simple:italic
-1694044	simple:italic
-1694046	simple:italic
+1796347	simple:italic
+1796349	simple:italic
 simple:italic
-1694049	simple:italic
-1694051	simple:italic
+1796352	simple:italic
+1796354	simple:italic
 simple:italic
-1694054	simple:italic
+1796357	simple:italic
 simple:italic
-1694057	simple:italic
+1796360	simple:italic
 simple:italic
-1694060	simple:italic
+1796363	simple:italic
 simple:italic
-1694063	simple:italic
+1796366	simple:italic
 simple:italic
-1694066	simple:italic
+1796369	simple:italic
 simple:italic
-1694069	simple:italic
-1694071	simple:italic
-1694073	simple:italic
-1694075	simple:italic
+1796372	simple:italic
+1796374	simple:italic
+1796376	simple:italic
+1796378	simple:italic
 simple:italic
-1694078	simple:italic
-1694080	simple:italic
-1694082	simple:italic
+1796381	simple:italic
+1796383	simple:italic
+1796385	simple:italic
 simple:italic
-1694085	simple:italic
-1694087	simple:italic
+1796388	simple:italic
+1796390	simple:italic
 simple:italic
-1694090	simple:italic
+1796393	simple:italic
 simple:italic
-1694093	simple:italic
-1694095	simple:italic
-1694097	simple:italic
-1694099	simple:italic
+1796396	simple:italic
+1796398	simple:italic
+1796400	simple:italic
+1796402	simple:italic
 simple:italic
-1694103	simple:italic
-1694105	simple:italic
+1796406	simple:italic
+1796408	simple:italic
 simple:italic
-1694108	simple:italic
+1796411	simple:italic
 simple:italic
-1694111	simple:italic
+1796414	simple:italic
 simple:italic
-1694114	simple:italic
-1694116	simple:italic
+1796417	simple:italic
+1796419	simple:italic
 simple:italic
-1694119	simple:italic
+1796422	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1694124	simple:italic
+1796427	simple:italic
 simple:italic
-1694127	simple:italic
+1796430	simple:italic
 simple:italic
-1694130	simple:italic
-1694132	simple:italic
-1694134	simple:italic
+1796433	simple:italic
+1796435	simple:italic
+1796437	simple:italic
 simple:italic
-1694137	simple:italic
-1694139	simple:italic
-1694145	simple:italic
+1796440	simple:italic
+1796442	simple:italic
+1796448	simple:italic
 simple:italic
 simple:italic
-1694149	simple:italic
-1694151	simple:italic
+1796452	simple:italic
+1796454	simple:italic
 simple:italic
 simple:italic
-1694155	simple:italic
+1796458	simple:italic
 simple:italic
-1694158	simple:italic
-1694160	simple:italic
+1796461	simple:italic
+1796463	simple:italic
 simple:italic
-1694163	simple:italic
-1694165	simple:italic
+1796466	simple:italic
+1796468	simple:italic
 simple:italic
-1694168	simple:italic
+1796471	simple:italic
 simple:italic
-1694171	simple:italic
+1796474	simple:italic
 simple:italic
-1694174	simple:italic
-1694176	simple:italic
-1694178	simple:italic
+1796477	simple:italic
+1796479	simple:italic
+1796481	simple:italic
 simple:italic
-1694181	simple:italic
+1796484	simple:italic
 simple:italic
-1694184	simple:italic
-1694186	simple:italic
+1796487	simple:italic
+1796489	simple:italic
 simple:italic
-1694189	simple:italic
+1796492	simple:italic
 simple:italic
-1694192	simple:italic
+1796495	simple:italic
 simple:italic
-1694195	simple:italic
+1796498	simple:italic
 simple:italic
-1694198	simple:italic
-1694200	simple:italic
+1796501	simple:italic
+1796503	simple:italic
 simple:italic
-1694203	simple:italic
+1796506	simple:italic
 simple:italic
-1694206	simple:italic
-1694210	simple:italic
-1694212	simple:italic
+1796509	simple:italic
+1796513	simple:italic
+1796515	simple:italic
 simple:italic
-1694215	simple:italic
+1796518	simple:italic
 simple:italic
-1694218	simple:italic
-1694222	simple:italic
-1694224	simple:italic
+1796521	simple:italic
+1796525	simple:italic
+1796527	simple:italic
 simple:italic
-1694227	simple:italic
-1694229	simple:italic
+1796530	simple:italic
+1796532	simple:italic
 simple:italic
-1694232	simple:italic
+1796535	simple:italic
 simple:italic
-1694235	simple:italic
+1796538	simple:italic
 simple:italic
-1694238	simple:italic
+1796541	simple:italic
 simple:italic
-1694241	simple:italic
+1796544	simple:italic
 simple:italic
-1694255	simple:italic
+1796558	simple:italic
 simple:italic
-1694258	simple:italic
+1796561	simple:italic
 simple:italic
-1694261	simple:italic
-1694263	simple:italic
+1796564	simple:italic
+1796566	simple:italic
 simple:italic
-1694266	simple:italic
-1694268	simple:italic
+1796569	simple:italic
+1796571	simple:italic
 simple:italic
 simple:italic
-1694272	simple:italic
-1694276	simple:italic
-1694294	simple:italic
-1694296	simple:italic
+1796575	simple:italic
+1796579	simple:italic
+1796597	simple:italic
+1796599	simple:italic
 simple:italic
-1694299	simple:italic
-1694301	simple:italic
-1694303	simple:italic
+1796602	simple:italic
+1796604	simple:italic
+1796606	simple:italic
 simple:italic
-1694316	simple:italic
-1694318	simple:italic
-1694320	simple:italic
-1694322	simple:italic
+1796619	simple:italic
+1796621	simple:italic
+1796623	simple:italic
+1796625	simple:italic
 simple:italic
-1694325	simple:italic
-1694327	simple:italic
-1694329	simple:italic
+1796628	simple:italic
+1796630	simple:italic
+1796632	simple:italic
 simple:italic
-1694332	simple:italic
-1694334	simple:italic
-1694336	simple:italic
+1796635	simple:italic
+1796637	simple:italic
+1796639	simple:italic
 simple:italic
-1694340	simple:italic
+1796643	simple:italic
 simple:italic
-1694343	simple:italic
+1796646	simple:italic
 simple:italic
-1694346	simple:italic
+1796649	simple:italic
 simple:italic
-1694349	simple:italic
+1796652	simple:italic
 simple:italic
-1694352	simple:italic
-1694354	simple:italic
-1694362	simple:italic
-1694364	simple:italic
+1796655	simple:italic
+1796657	simple:italic
+1796665	simple:italic
+1796667	simple:italic
 simple:italic
-1694367	simple:italic
+1796670	simple:italic
 simple:italic
-1694370	simple:italic
-1694372	simple:italic
+1796673	simple:italic
+1796675	simple:italic
 simple:italic
-1694375	simple:italic
-1694377	simple:italic
+1796678	simple:italic
+1796680	simple:italic
 simple:italic
-1694380	simple:italic
+1796683	simple:italic
 simple:italic
-1694383	simple:italic
-1694385	simple:italic
+1796686	simple:italic
+1796688	simple:italic
 simple:italic
-1694388	simple:italic
-1694390	simple:italic
-1694392	simple:italic
-1694394	simple:italic
-1694398	simple:italic
+1796691	simple:italic
+1796693	simple:italic
+1796695	simple:italic
+1796697	simple:italic
+1796701	simple:italic
 simple:italic
-1694401	simple:italic
+1796704	simple:italic
 simple:italic
-1694404	simple:italic
+1796707	simple:italic
 simple:italic
-1694407	simple:italic
-1694413	simple:italic
+1796710	simple:italic
+1796716	simple:italic
 simple:italic
-1694416	simple:italic
+1796719	simple:italic
 simple:italic
-1694419	simple:italic
+1796722	simple:italic
 simple:italic
-1694422	simple:italic
+1796725	simple:italic
 simple:italic
 simple:italic
-1694426	simple:italic
+1796729	simple:italic
 simple:italic
-1694429	simple:italic
+1796732	simple:italic
 simple:italic
-1694432	simple:italic
+1796735	simple:italic
 simple:italic
-1694435	simple:italic
+1796738	simple:italic
 simple:italic
-1694438	simple:italic
-1694443	simple:italic
+1796741	simple:italic
+1796746	simple:italic
 simple:italic
-1694446	simple:italic
+1796749	simple:italic
 simple:italic
-1694449	simple:italic
-1694451	simple:italic
-1694459	simple:italic
-1694461	simple:italic
-1694463	simple:italic
-1694465	simple:italic
-1694467	simple:italic
-1694469	simple:italic
+1796752	simple:italic
+1796754	simple:italic
+1796762	simple:italic
+1796764	simple:italic
+1796766	simple:italic
+1796768	simple:italic
+1796770	simple:italic
+1796772	simple:italic
 simple:italic
-1694472	simple:italic
-1694474	simple:italic
-1694476	simple:italic
+1796775	simple:italic
+1796777	simple:italic
+1796779	simple:italic
 simple:italic
-1694479	simple:italic
-1694481	simple:italic
-1694486	simple:italic
+1796782	simple:italic
+1796784	simple:italic
+1796789	simple:italic
 simple:italic
-1694489	simple:italic
+1796792	simple:italic
 simple:italic
-1694492	simple:italic
+1796795	simple:italic
 simple:italic
 simple:italic
-1694496	simple:italic
+1796799	simple:italic
 simple:italic
-1694499	simple:italic
+1796802	simple:italic
 simple:italic
-1694502	simple:italic
+1796805	simple:italic
 simple:italic
-1694505	simple:italic
+1796808	simple:italic
 simple:italic
-1694508	simple:italic
-1694515	simple:italic
+1796811	simple:italic
+1796818	simple:italic
 simple:italic
-1694518	simple:italic
+1796821	simple:italic
 simple:italic
-1694521	simple:italic
+1796824	simple:italic
 simple:italic
-1694524	simple:italic
+1796827	simple:italic
 simple:italic
-1694527	simple:italic
+1796830	simple:italic
 simple:italic
-1694530	simple:italic
-1694532	simple:italic
-1694534	simple:italic
+1796833	simple:italic
+1796835	simple:italic
+1796837	simple:italic
 simple:italic
-1694537	simple:italic
-1694539	simple:italic
+1796840	simple:italic
+1796842	simple:italic
 simple:italic
-1694542	simple:italic
-1694550	simple:italic
+1796845	simple:italic
+1796853	simple:italic
 simple:italic
-1694553	simple:italic
+1796856	simple:italic
 simple:italic
-1694556	simple:italic
+1796859	simple:italic
 simple:italic
-1694559	simple:italic
-1694561	simple:italic
+1796862	simple:italic
+1796864	simple:italic
 simple:italic
-1694564	simple:italic
-1694566	simple:italic
+1796867	simple:italic
+1796869	simple:italic
 simple:italic
-1694569	simple:italic
+1796872	simple:italic
 simple:italic
-1694572	simple:italic
+1796875	simple:italic
 simple:italic
-1694575	simple:italic
+1796878	simple:italic
 simple:italic
-1694578	simple:italic
-1694584	simple:italic
-1694586	simple:italic
-1694588	simple:italic
-1694590	simple:italic
+1796881	simple:italic
+1796887	simple:italic
+1796889	simple:italic
+1796891	simple:italic
+1796893	simple:italic
 simple:italic
-1694593	simple:italic
-1694595	simple:italic
+1796896	simple:italic
+1796898	simple:italic
 simple:italic
-1694598	simple:italic
+1796901	simple:italic
 simple:italic
-1694601	simple:italic
-1694606	simple:italic
-1694608	simple:italic
-1694610	simple:italic
+1796904	simple:italic
+1796909	simple:italic
+1796911	simple:italic
+1796913	simple:italic
 simple:italic
-1694613	simple:italic
+1796916	simple:italic
 simple:italic
-1694616	simple:italic
-1694618	simple:italic
-1694623	simple:italic
+1796919	simple:italic
+1796921	simple:italic
+1796926	simple:italic
 simple:italic
-1694626	simple:italic
-1694628	simple:italic
-1694630	simple:italic
-1694632	simple:italic
-1694634	simple:italic
-1694636	simple:italic
+1796929	simple:italic
+1796931	simple:italic
+1796933	simple:italic
+1796935	simple:italic
+1796937	simple:italic
+1796939	simple:italic
 simple:italic
-1694639	simple:italic
+1796942	simple:italic
 simple:italic
-1694642	simple:italic
+1796945	simple:italic
 simple:italic
-1694654	simple:italic
+1796957	simple:italic
 simple:italic
-1694657	simple:italic
+1796960	simple:italic
 simple:italic
-1694660	simple:italic
-1694662	simple:italic
-1694664	simple:italic
-1694666	simple:italic
-1694668	simple:italic
+1796963	simple:italic
+1796965	simple:italic
+1796967	simple:italic
+1796969	simple:italic
+1796971	simple:italic
 simple:italic
-1694671	simple:italic
-1694673	simple:italic
+1796974	simple:italic
+1796976	simple:italic
 simple:italic
-1694676	simple:italic
-1694678	simple:italic
+1796979	simple:italic
+1796981	simple:italic
 simple:italic
-1694682	simple:italic
-1694684	simple:italic
+1796985	simple:italic
+1796987	simple:italic
 simple:italic
 simple:italic
-1694688	simple:italic
-1694690	simple:italic
-1694692	simple:italic
-1694694	simple:italic
-1694696	simple:italic
+1796991	simple:italic
+1796993	simple:italic
+1796995	simple:italic
+1796997	simple:italic
+1796999	simple:italic
 simple:italic
-1694699	simple:italic
-1694701	simple:italic
-1694703	simple:italic
-1694705	simple:italic
-1694707	simple:italic
-1694709	simple:italic
-1694711	simple:italic
+1797002	simple:italic
+1797004	simple:italic
+1797006	simple:italic
+1797008	simple:italic
+1797010	simple:italic
+1797012	simple:italic
+1797014	simple:italic
 simple:italic
-1694714	simple:italic
-1694716	simple:italic
-1694724	simple:italic
-1694726	simple:italic
+1797017	simple:italic
+1797019	simple:italic
+1797027	simple:italic
+1797029	simple:italic
 simple:italic
-1694729	simple:italic
+1797032	simple:italic
 simple:italic
-1694732	simple:italic
-1694736	simple:italic
+1797035	simple:italic
+1797039	simple:italic
 simple:italic
-1694739	simple:italic
+1797042	simple:italic
 simple:italic
-1694742	simple:italic
-1694744	simple:italic
+1797045	simple:italic
+1797047	simple:italic
 simple:italic
-1694747	simple:italic
+1797050	simple:italic
 simple:italic
-1694750	simple:italic
+1797053	simple:italic
 simple:italic
-1694753	simple:italic
+1797056	simple:italic
 simple:superscript
 simple:italic
-1694757	simple:italic
-1694768	simple:italic
-1694770	simple:italic
+1797060	simple:italic
+1797071	simple:italic
+1797073	simple:italic
 simple:italic
-1694773	simple:italic
+1797076	simple:italic
 simple:italic
-1694776	simple:italic
-1694778	simple:italic
-1694780	simple:italic
-1694782	simple:italic
-1694784	simple:italic
-1694788	simple:italic
+1797079	simple:italic
+1797081	simple:italic
+1797083	simple:italic
+1797085	simple:italic
+1797087	simple:italic
+1797091	simple:italic
 simple:italic
-1694791	simple:italic
+1797094	simple:italic
 simple:italic
-1694794	simple:italic
-1694796	simple:italic
+1797097	simple:italic
+1797099	simple:italic
 simple:italic
-1694799	simple:italic
+1797102	simple:italic
 simple:italic
-1694802	simple:italic
+1797105	simple:italic
 simple:italic
-1694805	simple:italic
-1694807	simple:italic
+1797108	simple:italic
+1797110	simple:italic
 simple:italic
-1694810	simple:italic
+1797113	simple:italic
 simple:italic
-1694819	simple:italic
+1797122	simple:italic
 simple:italic
-1694822	simple:italic
+1797125	simple:italic
 simple:italic
-1694825	simple:italic
+1797128	simple:italic
 simple:italic
-1694828	simple:italic
-1694830	simple:italic
+1797131	simple:italic
+1797133	simple:italic
 simple:italic
-1694833	simple:italic
+1797136	simple:italic
 simple:italic
-1694836	simple:italic
+1797139	simple:italic
 simple:italic
-1694839	simple:italic
-1694841	simple:italic
+1797142	simple:italic
+1797144	simple:italic
 simple:italic
-1694844	simple:italic
-1694846	simple:italic
+1797147	simple:italic
+1797149	simple:italic
 simple:italic
-1694849	simple:italic
-1694864	simple:italic
-1694866	simple:italic
+1797152	simple:italic
+1797167	simple:italic
+1797169	simple:italic
 simple:italic
-1694869	simple:italic
-1694871	simple:italic
+1797172	simple:italic
+1797174	simple:italic
 simple:italic
-1694874	simple:italic
-1694882	simple:italic
+1797177	simple:italic
+1797185	simple:italic
 simple:italic
-1694885	simple:italic
-1694887	simple:italic
-1694889	simple:italic
+1797188	simple:italic
+1797190	simple:italic
+1797192	simple:italic
 simple:italic
-1694892	simple:italic
-1694894	simple:italic
+1797195	simple:italic
+1797197	simple:italic
 simple:italic
-1694897	simple:italic
+1797200	simple:italic
 simple:italic
-1694900	simple:italic
+1797203	simple:italic
 simple:italic
-1694903	simple:italic
-1694905	simple:italic
-1694907	simple:italic
-1694924	simple:italic
-1694926	simple:italic
+1797206	simple:italic
+1797208	simple:italic
+1797210	simple:italic
+1797227	simple:italic
+1797229	simple:italic
 simple:italic
-1694929	simple:italic
+1797232	simple:italic
 simple:italic
-1694932	simple:italic
-1694944	simple:italic
-1694946	simple:italic
+1797235	simple:italic
+1797247	simple:italic
+1797249	simple:italic
 simple:italic
-1694949	simple:italic
-1694951	simple:italic
+1797252	simple:italic
+1797254	simple:italic
 simple:italic
-1694954	simple:italic
+1797257	simple:italic
 simple:italic
-1694957	simple:italic
-1694959	simple:italic
-1694961	simple:italic
+1797260	simple:italic
+1797262	simple:italic
+1797264	simple:italic
 simple:italic
-1694964	simple:italic
+1797267	simple:italic
 simple:italic
-1694967	simple:italic
-1694969	simple:italic
-1694971	simple:italic
+1797270	simple:italic
+1797272	simple:italic
+1797274	simple:italic
 simple:italic
-1694974	simple:italic
-1694976	simple:italic
+1797277	simple:italic
+1797279	simple:italic
 simple:italic
-1694979	simple:italic
+1797282	simple:italic
 simple:italic
-1694982	simple:italic
-1694984	simple:italic
-1694986	simple:italic
-1694997	simple:italic
-1694999	simple:italic
-1695001	simple:italic
-1695003	simple:italic
-1695005	simple:italic
-1695011	simple:italic
-1695013	simple:italic
-1695015	simple:italic
-1695017	simple:italic
-1695019	simple:italic
-simple:italic
-1695022	simple:italic
-simple:italic
-1695025	simple:italic
-1695027	simple:italic
-1695039	simple:italic
-1695041	simple:italic
-1695043	simple:italic
-simple:italic
-1695046	simple:italic
-1695048	simple:italic
-1695050	simple:italic
-1695052	simple:italic
-1695054	simple:italic
-1695058	simple:italic
-1695060	simple:italic
-1695062	simple:italic
-simple:italic
-1695065	simple:italic
-simple:italic
-1695068	simple:italic
-simple:italic
-1695071	simple:italic
-1695073	simple:italic
-1695075	simple:italic
-simple:italic
-1695078	simple:italic
-1695080	simple:italic
-1695089	simple:italic
-1695091	simple:italic
-1695093	simple:italic
-1695095	simple:italic
-1695097	simple:italic
-simple:italic
-1695100	simple:italic
-1695102	simple:italic
-1695104	simple:italic
-1695106	simple:italic
-1695108	simple:italic
-1695110	simple:italic
-1695112	simple:italic
-simple:italic
-simple:italic
-1695116	simple:italic
-1695118	simple:italic
-1695120	simple:italic
-1695122	simple:italic
-1695124	simple:italic
-1695126	simple:italic
-1695128	simple:italic
-simple:italic
-1695131	simple:italic
-1695133	simple:italic
-1695135	simple:italic
-1695139	simple:italic
-1695141	simple:italic
-1695143	simple:italic
-1695145	simple:italic
-1695147	simple:italic
-1695155	simple:italic
-1695157	simple:italic
-1695159	simple:italic
-1695161	simple:italic
-1695163	simple:italic
-simple:italic
-1695166	simple:italic
-1695168	simple:italic
-1695170	simple:italic
-1695175	simple:italic
-1695177	simple:italic
+1797285	simple:italic
+1797287	simple:italic
+1797289	simple:italic
+1797300	simple:italic
+1797302	simple:italic
+1797304	simple:italic
+1797306	simple:italic
+1797308	simple:italic
+1797314	simple:italic
+1797316	simple:italic
+1797318	simple:italic
+1797320	simple:italic
+1797322	simple:italic
+simple:italic
+1797325	simple:italic
+simple:italic
+1797328	simple:italic
+1797330	simple:italic
+1797342	simple:italic
+1797344	simple:italic
+1797346	simple:italic
+simple:italic
+1797349	simple:italic
+1797351	simple:italic
+1797353	simple:italic
+1797355	simple:italic
+1797357	simple:italic
+1797361	simple:italic
+1797363	simple:italic
+1797365	simple:italic
+simple:italic
+1797368	simple:italic
+simple:italic
+1797371	simple:italic
+simple:italic
+1797374	simple:italic
+1797376	simple:italic
+1797378	simple:italic
+simple:italic
+1797381	simple:italic
+1797383	simple:italic
+1797392	simple:italic
+1797394	simple:italic
+1797396	simple:italic
+1797398	simple:italic
+1797400	simple:italic
+simple:italic
+1797403	simple:italic
+1797405	simple:italic
+1797407	simple:italic
+1797409	simple:italic
+1797411	simple:italic
+1797413	simple:italic
+1797415	simple:italic
+simple:italic
+simple:italic
+1797419	simple:italic
+1797421	simple:italic
+1797423	simple:italic
+1797425	simple:italic
+1797427	simple:italic
+1797429	simple:italic
+1797431	simple:italic
+simple:italic
+1797434	simple:italic
+1797436	simple:italic
+1797438	simple:italic
+1797442	simple:italic
+1797444	simple:italic
+1797446	simple:italic
+1797448	simple:italic
+1797450	simple:italic
+1797458	simple:italic
+1797460	simple:italic
+1797462	simple:italic
+1797464	simple:italic
+1797466	simple:italic
+simple:italic
+1797469	simple:italic
+1797471	simple:italic
+1797473	simple:italic
+1797478	simple:italic
+1797480	simple:italic
 simple:italic
-1695180	simple:italic
-1695182	simple:italic
+1797483	simple:italic
+1797485	simple:italic
 simple:italic
-1695185	simple:italic
-1695187	simple:italic
+1797488	simple:italic
+1797490	simple:italic
 simple:italic
-1695190	simple:italic
-1695192	simple:italic
-1695194	simple:italic
-1695217	simple:italic
-1695219	simple:italic
+1797493	simple:italic
+1797495	simple:italic
+1797497	simple:italic
+1797520	simple:italic
+1797522	simple:italic
 simple:italic
-1695222	simple:italic
+1797525	simple:italic
 simple:italic
-1695225	simple:italic
+1797528	simple:italic
 simple:italic
-1695228	simple:italic
-1695230	simple:italic
+1797531	simple:italic
+1797533	simple:italic
 simple:italic
-1695233	simple:italic
-1695235	simple:italic
+1797536	simple:italic
+1797538	simple:italic
 simple:italic
-1695238	simple:italic
-1695240	simple:italic
+1797541	simple:italic
+1797543	simple:italic
 simple:italic
-1695243	simple:italic
+1797546	simple:italic
 simple:italic
-1695246	simple:italic
-1695248	simple:italic
-1695250	simple:italic
-1695252	simple:italic
-1695254	simple:italic
+1797549	simple:italic
+1797551	simple:italic
+1797553	simple:italic
+1797555	simple:italic
+1797557	simple:italic
 simple:italic
-1695257	simple:italic
-1695259	simple:italic
-1695261	simple:italic
+1797560	simple:italic
+1797562	simple:italic
+1797564	simple:italic
 simple:italic
-1695264	simple:italic
-1695266	simple:italic
+1797567	simple:italic
+1797569	simple:italic
 simple:italic
-1695269	simple:italic
+1797572	simple:italic
 simple:italic
-1695272	simple:italic
+1797575	simple:italic
 simple:italic
-1695275	simple:italic
-1695277	simple:italic
-1695279	simple:italic
+1797578	simple:italic
+1797580	simple:italic
+1797582	simple:italic
 simple:italic
-1695282	simple:italic
-1695284	simple:italic
+1797585	simple:italic
+1797587	simple:italic
 simple:italic
-1695287	simple:italic
-1695289	simple:italic
-1695291	simple:italic
-1695293	simple:italic
-1695295	simple:italic
-1695297	simple:italic
-1695412	simple:italic
+1797590	simple:italic
+1797592	simple:italic
+1797594	simple:italic
+1797596	simple:italic
+1797598	simple:italic
+1797600	simple:italic
+1797715	simple:italic
 simple:italic
-1695415	simple:italic
+1797718	simple:italic
 simple:italic
-1695418	simple:italic
+1797721	simple:italic
 simple:italic
-1695421	simple:italic
-1695423	simple:italic
+1797724	simple:italic
+1797726	simple:italic
 simple:italic
-1695426	simple:italic
-1695428	simple:italic
+1797729	simple:italic
+1797731	simple:italic
 simple:italic
 simple:italic
-1695432	simple:italic
+1797735	simple:italic
 simple:italic
-1695435	simple:italic
-1695437	simple:italic
-1695439	simple:italic
-1695441	simple:italic
+1797738	simple:italic
+1797740	simple:italic
+1797742	simple:italic
+1797744	simple:italic
 simple:italic
-1695444	simple:italic
+1797747	simple:italic
 simple:italic
 simple:italic
-1695448	simple:italic
-1695450	simple:italic
-1695452	simple:italic
+1797751	simple:italic
+1797753	simple:italic
+1797755	simple:italic
 simple:italic
 simple:italic
-1695456	simple:italic
+1797759	simple:italic
 simple:italic
-1695459	simple:italic
-1695461	simple:italic
+1797762	simple:italic
+1797764	simple:italic
 simple:italic
-1695464	simple:italic
-1695466	simple:italic
-1695468	simple:italic
-1695470	simple:italic
+1797767	simple:italic
+1797769	simple:italic
+1797771	simple:italic
+1797773	simple:italic
 simple:italic
-1695473	simple:italic
+1797776	simple:italic
 simple:italic
-1695476	simple:italic
+1797779	simple:italic
 simple:italic
-1695479	simple:italic
+1797782	simple:italic
 simple:italic
-1695482	simple:italic
+1797785	simple:italic
 simple:italic
-1695485	simple:italic
-1695487	simple:italic
+1797788	simple:italic
+1797790	simple:italic
 simple:italic
-1695490	simple:italic
-1695492	simple:italic
-1695494	simple:italic
-1695496	simple:italic
+1797793	simple:italic
+1797795	simple:italic
+1797797	simple:italic
+1797799	simple:italic
 simple:italic
-1695499	simple:italic
+1797802	simple:italic
 simple:italic
-1695502	simple:italic
+1797805	simple:italic
 simple:italic
-1695505	simple:italic
-1695507	simple:italic
+1797808	simple:italic
+1797810	simple:italic
 simple:italic
-1695510	simple:italic
-1695512	simple:italic
+1797813	simple:italic
+1797815	simple:italic
 simple:italic
-1695515	simple:italic
-1695517	simple:italic
+1797818	simple:italic
+1797820	simple:italic
 simple:italic
-1695520	simple:italic
-1695522	simple:italic
+1797823	simple:italic
+1797825	simple:italic
 simple:italic
-1695525	simple:italic
+1797828	simple:italic
 simple:italic
-1695528	simple:italic
-1695530	simple:italic
+1797831	simple:italic
+1797833	simple:italic
 simple:italic
-1695533	simple:italic
-1695535	simple:italic
+1797836	simple:italic
+1797838	simple:italic
 simple:italic
-1695538	simple:italic
+1797841	simple:italic
 simple:italic
-1695541	simple:italic
+1797844	simple:italic
 simple:italic
-1695544	simple:italic
-1695546	simple:italic
-1695548	simple:italic
+1797847	simple:italic
+1797849	simple:italic
+1797851	simple:italic
 simple:italic
-1695551	simple:italic
-1695553	simple:italic
+1797854	simple:italic
+1797856	simple:italic
 simple:italic
-1695556	simple:italic
-1695558	simple:italic
-1695560	simple:italic
+1797859	simple:italic
+1797861	simple:italic
+1797863	simple:italic
 simple:italic
-1695563	simple:italic
-1695565	simple:italic
+1797866	simple:italic
+1797868	simple:italic
 simple:italic
-1695568	simple:italic
+1797871	simple:italic
 simple:italic
-1695571	simple:italic
+1797874	simple:italic
 simple:italic
-1695574	simple:italic
+1797877	simple:italic
 simple:italic
-1695577	simple:italic
+1797880	simple:italic
 simple:italic
-1695580	simple:italic
-1695582	simple:italic
+1797883	simple:italic
+1797885	simple:italic
 simple:italic
-1695585	simple:italic
+1797888	simple:italic
 simple:italic
-1695588	simple:italic
-1695590	simple:italic
+1797891	simple:italic
+1797893	simple:italic
 simple:italic
-1695593	simple:italic
+1797896	simple:italic
 simple:italic
-1695596	simple:italic
+1797899	simple:italic
 simple:italic
-1695599	simple:italic
+1797902	simple:italic
 simple:italic
-1695602	simple:italic
-1695604	simple:italic
-1695606	simple:italic
-1695608	simple:italic
+1797905	simple:italic
+1797907	simple:italic
+1797909	simple:italic
+1797911	simple:italic
 simple:italic
-1695611	simple:italic
-1695613	simple:italic
-1695615	simple:italic
-1695617	simple:italic
+1797914	simple:italic
+1797916	simple:italic
+1797918	simple:italic
+1797920	simple:italic
 simple:italic
-1695620	simple:italic
-1695622	simple:italic
-1695624	simple:italic
-1695626	simple:italic
-1695628	simple:italic
-1695630	simple:italic
-1695632	simple:italic
-1695634	simple:italic
-1695636	simple:italic
-1695638	simple:italic
-1695648	simple:italic
-1695650	simple:italic
-1695652	simple:italic
-1695654	simple:italic
-1695656	simple:italic
+1797923	simple:italic
+1797925	simple:italic
+1797927	simple:italic
+1797929	simple:italic
+1797931	simple:italic
+1797933	simple:italic
+1797935	simple:italic
+1797937	simple:italic
+1797939	simple:italic
+1797941	simple:italic
+1797951	simple:italic
+1797953	simple:italic
+1797955	simple:italic
+1797957	simple:italic
+1797959	simple:italic
 simple:italic
-1695659	simple:italic
+1797962	simple:italic
 simple:italic
-1695662	simple:italic
-1695664	simple:italic
+1797965	simple:italic
+1797967	simple:italic
 simple:italic
-1695667	simple:italic
-1695669	simple:italic
-1695671	simple:italic
+1797970	simple:italic
+1797972	simple:italic
+1797974	simple:italic
 simple:italic
-1695677	simple:italic
-1695679	simple:italic
-1695685	simple:italic
+1797980	simple:italic
+1797982	simple:italic
+1797988	simple:italic
 simple:italic
-1695688	simple:italic
+1797991	simple:italic
 simple:italic
-1695691	simple:italic
+1797994	simple:italic
 simple:italic
-1695694	simple:italic
+1797997	simple:italic
 simple:italic
-1695697	simple:italic
-1695699	simple:italic
+1798000	simple:italic
+1798002	simple:italic
 simple:italic
-1695702	simple:italic
+1798005	simple:italic
 simple:italic
-1695705	simple:italic
+1798008	simple:italic
 simple:italic
-1695708	simple:italic
+1798011	simple:italic
 simple:italic
-1695711	simple:italic
-1695738	simple:italic
+1798014	simple:italic
+1798041	simple:italic
 simple:italic
-1695741	simple:italic
-1695743	simple:italic
+1798044	simple:italic
+1798046	simple:italic
 simple:italic
-1695746	simple:italic
+1798049	simple:italic
 simple:italic
-1695749	simple:italic
-1695751	simple:italic
+1798052	simple:italic
+1798054	simple:italic
 simple:italic
-1695754	simple:italic
+1798057	simple:italic
 simple:italic
-1695757	simple:italic
+1798060	simple:italic
 simple:italic
-1695760	simple:italic
+1798063	simple:italic
 simple:italic
-1695763	simple:italic
+1798066	simple:italic
 simple:italic
-1695766	simple:italic
-1695768	simple:italic
-1695785	simple:italic
-1695787	simple:italic
+1798069	simple:italic
+1798071	simple:italic
+1798088	simple:italic
+1798090	simple:italic
 simple:italic
-1695790	simple:italic
-1695792	simple:italic
-1695794	simple:italic
-1695796	simple:italic
-1695814	simple:italic
+1798093	simple:italic
+1798095	simple:italic
+1798097	simple:italic
+1798099	simple:italic
+1798117	simple:italic
 simple:italic
-1695817	simple:italic
-1695819	simple:italic
+1798120	simple:italic
+1798122	simple:italic
 simple:italic
-1695822	simple:italic
+1798125	simple:italic
 simple:italic
-1695825	simple:italic
-1695827	simple:italic
-1695829	simple:italic
-1695831	simple:italic
-1695833	simple:italic
+1798128	simple:italic
+1798130	simple:italic
+1798132	simple:italic
+1798134	simple:italic
+1798136	simple:italic
 simple:italic
-1695836	simple:italic
+1798139	simple:italic
 simple:italic
-1695839	simple:italic
-1695841	simple:italic
-1695851	simple:italic
-1695853	simple:italic
-1695855	simple:italic
-1695857	simple:italic
+1798142	simple:italic
+1798144	simple:italic
+1798154	simple:italic
+1798156	simple:italic
+1798158	simple:italic
+1798160	simple:italic
 simple:italic
-1695860	simple:italic
-1695862	simple:italic
-1695864	simple:italic
+1798163	simple:italic
+1798165	simple:italic
+1798167	simple:italic
 simple:italic
-1695867	simple:italic
-1695869	simple:italic
-1695871	simple:italic
-1695873	simple:italic
+1798170	simple:italic
+1798172	simple:italic
+1798174	simple:italic
+1798176	simple:italic
 simple:italic
-1695876	simple:italic
-1695878	simple:italic
-1695880	simple:italic
+1798179	simple:italic
+1798181	simple:italic
+1798183	simple:italic
 simple:italic
-1695883	simple:italic
-1695885	simple:italic
+1798186	simple:italic
+1798188	simple:italic
 simple:italic
-1695888	simple:italic
-1695890	simple:italic
-1695892	simple:italic
-1695894	simple:italic
+1798191	simple:italic
+1798193	simple:italic
+1798195	simple:italic
+1798197	simple:italic
 simple:italic
-1695897	simple:italic
-1695899	simple:italic
-1695901	simple:italic
-1695903	simple:italic
+1798200	simple:italic
+1798202	simple:italic
+1798204	simple:italic
+1798206	simple:italic
 simple:italic
-1695906	simple:italic
+1798209	simple:italic
 simple:italic
-1695909	simple:italic
+1798212	simple:italic
 simple:italic
-1695912	simple:italic
-1695914	simple:italic
+1798215	simple:italic
+1798217	simple:italic
 simple:italic
-1695917	simple:italic
-1695922	simple:italic
-1695924	simple:italic
-1695926	simple:italic
-1695928	simple:italic
-1695930	simple:italic
-1695932	simple:italic
-1695934	simple:italic
-1695936	simple:italic
-1695938	simple:italic
-1695940	simple:italic
+1798220	simple:italic
+1798225	simple:italic
+1798227	simple:italic
+1798229	simple:italic
+1798231	simple:italic
+1798233	simple:italic
+1798235	simple:italic
+1798237	simple:italic
+1798239	simple:italic
+1798241	simple:italic
+1798243	simple:italic
 simple:italic
-1695943	simple:italic
-1695945	simple:italic
-1695947	simple:italic
+1798246	simple:italic
+1798248	simple:italic
+1798250	simple:italic
 simple:italic
-1695950	simple:italic
-1695952	simple:italic
-1695954	simple:italic
-1695956	simple:italic
-1695958	simple:italic
-1695975	simple:italic
-1695977	simple:italic
-1695979	simple:italic
-1695981	simple:italic
+1798253	simple:italic
+1798255	simple:italic
+1798257	simple:italic
+1798259	simple:italic
+1798261	simple:italic
+1798278	simple:italic
+1798280	simple:italic
+1798282	simple:italic
+1798284	simple:italic
 simple:italic
-1695984	simple:italic
+1798287	simple:italic
 simple:italic
-1695987	simple:italic
-1695989	simple:italic
-1695991	simple:italic
-1696025	simple:italic
-1696027	simple:italic
-1696029	simple:italic
+1798290	simple:italic
+1798292	simple:italic
+1798294	simple:italic
+1798328	simple:italic
+1798330	simple:italic
+1798332	simple:italic
 simple:italic
-1696032	simple:italic
+1798335	simple:italic
 simple:italic
-1696035	simple:italic
+1798338	simple:italic
 simple:italic
-1696038	simple:italic
-1696040	simple:italic
+1798341	simple:italic
+1798343	simple:italic
 simple:italic
-1696043	simple:italic
+1798346	simple:italic
 simple:italic
-1696046	simple:italic
+1798349	simple:italic
 simple:italic
-1696049	simple:italic
+1798352	simple:italic
 simple:italic
-1696052	simple:italic
-1696054	simple:italic
-1696060	simple:italic
+1798355	simple:italic
+1798357	simple:italic
+1798363	simple:italic
 simple:italic
-1696063	simple:italic
+1798366	simple:italic
 simple:italic
-1696066	simple:italic
+1798369	simple:italic
 simple:italic
-1696069	simple:italic
+1798372	simple:italic
 simple:italic
-1696072	simple:italic
-1696074	simple:italic
+1798375	simple:italic
+1798377	simple:italic
 simple:italic
-1696077	simple:italic
-1696112	simple:italic
-1696114	simple:italic
+1798380	simple:italic
+1798415	simple:italic
+1798417	simple:italic
 simple:italic
-1696117	simple:italic
-1696119	simple:italic
+1798420	simple:italic
+1798422	simple:italic
 simple:italic
-1696122	simple:italic
+1798425	simple:italic
 simple:italic
-1696125	simple:italic
+1798428	simple:italic
 simple:italic
-1696128	simple:italic
+1798431	simple:italic
 simple:italic
-1696131	simple:italic
-1696133	simple:italic
+1798434	simple:italic
+1798436	simple:italic
 simple:italic
-1696136	simple:italic
-1696138	simple:italic
+1798439	simple:italic
+1798441	simple:italic
 simple:italic
-1696141	simple:italic
+1798444	simple:italic
 simple:italic
-1696144	simple:italic
+1798447	simple:italic
 simple:italic
-1696147	simple:italic
-1696149	simple:italic
+1798450	simple:italic
+1798452	simple:italic
 simple:italic
-1696152	simple:italic
+1798455	simple:italic
 simple:italic
-1696155	simple:italic
+1798458	simple:italic
 simple:italic
-1696158	simple:italic
-1696160	simple:italic
-1696176	simple:italic
-1696178	simple:italic
-1696180	simple:italic
+1798461	simple:italic
+1798463	simple:italic
+1798479	simple:italic
+1798481	simple:italic
+1798483	simple:italic
 simple:italic
-1696183	simple:italic
+1798486	simple:italic
 simple:italic
-1696206	simple:italic
-1696208	simple:italic
+1798509	simple:italic
+1798511	simple:italic
 simple:italic
-1696211	simple:italic
-1696213	simple:italic
+1798514	simple:italic
+1798516	simple:italic
 simple:italic
-1696216	simple:italic
-1696218	simple:italic
+1798519	simple:italic
+1798521	simple:italic
 simple:italic
-1696221	simple:italic
+1798524	simple:italic
 simple:italic
-1696224	simple:italic
-1696226	simple:italic
-1696250	simple:italic
-1696252	simple:italic
-1696254	simple:italic
+1798527	simple:italic
+1798529	simple:italic
+1798553	simple:italic
+1798555	simple:italic
+1798557	simple:italic
 simple:italic
-1696257	simple:italic
-1696259	simple:italic
+1798560	simple:italic
+1798562	simple:italic
 simple:italic
-1696262	simple:italic
-1696264	simple:italic
+1798565	simple:italic
+1798567	simple:italic
 simple:italic
-1696267	simple:italic
+1798570	simple:italic
 simple:italic
-1696270	simple:italic
-1696272	simple:italic
-1696276	simple:italic
+1798573	simple:italic
+1798575	simple:italic
+1798579	simple:italic
 simple:italic
-1696279	simple:italic
+1798582	simple:italic
 simple:italic
-1696282	simple:italic
+1798585	simple:italic
 simple:italic
-1696285	simple:italic
-1696318	simple:italic
-1696320	simple:italic
-1696322	simple:italic
-1696324	simple:italic
+1798588	simple:italic
+1798621	simple:italic
+1798623	simple:italic
+1798625	simple:italic
+1798627	simple:italic
 simple:italic
-1696327	simple:italic
+1798630	simple:italic
 simple:italic
-1696330	simple:italic
+1798633	simple:italic
 simple:italic
-1696333	simple:italic
+1798636	simple:italic
 simple:italic
-1696336	simple:italic
+1798639	simple:italic
 simple:italic
-1696339	simple:italic
-1696341	simple:italic
-1696343	simple:italic
-1696345	simple:italic
+1798642	simple:italic
+1798644	simple:italic
+1798646	simple:italic
+1798648	simple:italic
 simple:italic
-1696348	simple:italic
-1696350	simple:italic
+1798651	simple:italic
+1798653	simple:italic
 simple:italic
-1696353	simple:italic
+1798656	simple:italic
 simple:italic
-1696356	simple:italic
-1696358	simple:italic
-1696360	simple:italic
-1696362	simple:italic
-1696364	simple:italic
-1696415	simple:italic
+1798659	simple:italic
+1798661	simple:italic
+1798663	simple:italic
+1798665	simple:italic
+1798667	simple:italic
+1798718	simple:italic
 simple:italic
-1696418	simple:italic
-1696420	simple:italic
+1798721	simple:italic
+1798723	simple:italic
 simple:italic
-1696423	simple:italic
+1798726	simple:italic
 simple:italic
-1696426	simple:italic
-1696428	simple:italic
-1696430	simple:italic
-1696432	simple:italic
+1798729	simple:italic
+1798731	simple:italic
+1798733	simple:italic
+1798735	simple:italic
 simple:italic
-1696435	simple:italic
-1696437	simple:italic
-1696439	simple:italic
+1798738	simple:italic
+1798740	simple:italic
+1798742	simple:italic
 simple:italic
-1696442	simple:italic
-1696444	simple:italic
-1696446	simple:italic
-1696448	simple:italic
-1696588	simple:italic
-1696590	simple:italic
+1798745	simple:italic
+1798747	simple:italic
+1798749	simple:italic
+1798751	simple:italic
+1798891	simple:italic
+1798893	simple:italic
 simple:italic
-1696593	simple:italic
+1798896	simple:italic
 simple:italic
-1696596	simple:italic
+1798899	simple:italic
 simple:italic
-1696599	simple:italic
+1798902	simple:italic
 simple:italic
-1696602	simple:italic
+1798905	simple:italic
 simple:italic
-1696605	simple:italic
+1798908	simple:italic
 simple:italic
-1696608	simple:italic
+1798911	simple:italic
 simple:italic
-1696611	simple:italic
+1798914	simple:italic
 simple:italic
-1696614	simple:italic
+1798917	simple:italic
 simple:italic
-1696617	simple:italic
+1798920	simple:italic
 simple:italic
-1696620	simple:italic
-1696622	simple:italic
-1696624	simple:italic
-1696626	simple:italic
+1798923	simple:italic
+1798925	simple:italic
+1798927	simple:italic
+1798929	simple:italic
 simple:italic
-1696629	simple:italic
-1696631	simple:italic
-1696633	simple:italic
-1696635	simple:italic
-1696637	simple:italic
-1696639	simple:italic
-1696641	simple:italic
+1798932	simple:italic
+1798934	simple:italic
+1798936	simple:italic
+1798938	simple:italic
+1798940	simple:italic
+1798942	simple:italic
+1798944	simple:italic
 simple:italic
-1696644	simple:italic
+1798947	simple:italic
 simple:italic
-1696647	simple:italic
-1696649	simple:italic
-1696651	simple:italic
-1696653	simple:italic
-1696655	simple:italic
-1696657	simple:italic
+1798950	simple:italic
+1798952	simple:italic
+1798954	simple:italic
+1798956	simple:italic
+1798958	simple:italic
+1798960	simple:italic
 simple:italic
-1696660	simple:italic
-1696662	simple:italic
+1798963	simple:italic
+1798965	simple:italic
 simple:italic
-1696665	simple:italic
+1798968	simple:italic
 simple:italic
-1696668	simple:italic
+1798971	simple:italic
 simple:italic
-1696671	simple:italic
+1798974	simple:italic
 simple:italic
-1696674	simple:italic
+1798977	simple:italic
 simple:italic
-1696677	simple:italic
+1798980	simple:italic
 simple:italic
-1696680	simple:italic
+1798983	simple:italic
 simple:italic
-1696683	simple:italic
-1696685	simple:italic
+1798986	simple:italic
+1798988	simple:italic
 simple:italic
-1696688	simple:italic
+1798991	simple:italic
 simple:italic
-1696691	simple:italic
+1798994	simple:italic
 simple:italic
-1696694	simple:italic
+1798997	simple:italic
 simple:italic
-1696697	simple:italic
-1696699	simple:italic
+1799000	simple:italic
+1799002	simple:italic
 simple:italic
-1696702	simple:italic
-1696704	simple:italic
-1696706	simple:italic
-1696708	simple:italic
+1799005	simple:italic
+1799007	simple:italic
+1799009	simple:italic
+1799011	simple:italic
 simple:italic
-1696711	simple:italic
+1799014	simple:italic
 simple:italic
-1696714	simple:italic
+1799017	simple:italic
 simple:italic
-1696717	simple:italic
+1799020	simple:italic
 simple:italic
-1696720	simple:italic
+1799023	simple:italic
 simple:italic
-1696723	simple:italic
+1799026	simple:italic
 simple:italic
-1696726	simple:italic
+1799029	simple:italic
 simple:italic
-1696729	simple:italic
+1799032	simple:italic
 simple:italic
-1696732	simple:italic
-1696734	simple:italic
-1696736	simple:italic
-1696738	simple:italic
+1799035	simple:italic
+1799037	simple:italic
+1799039	simple:italic
+1799041	simple:italic
 simple:italic
-1696741	simple:italic
-1696743	simple:italic
+1799044	simple:italic
+1799046	simple:italic
 simple:italic
-1696746	simple:italic
+1799049	simple:italic
 simple:italic
-1696749	simple:italic
+1799052	simple:italic
 simple:italic
-1696752	simple:italic
-1696754	simple:italic
+1799055	simple:italic
+1799057	simple:italic
 simple:italic
-1696757	simple:italic
-1696759	simple:italic
-1696761	simple:italic
+1799060	simple:italic
+1799062	simple:italic
+1799064	simple:italic
 simple:italic
-1696764	simple:italic
+1799067	simple:italic
 simple:italic
-1696767	simple:italic
+1799070	simple:italic
 simple:italic
-1696770	simple:italic
-1696772	simple:italic
+1799073	simple:italic
+1799075	simple:italic
 simple:italic
-1696775	simple:italic
+1799078	simple:italic
 simple:italic
-1696778	simple:italic
+1799081	simple:italic
 simple:italic
-1696791	simple:italic
+1799094	simple:italic
 simple:italic
-1696794	simple:italic
+1799097	simple:italic
 simple:italic
-1696797	simple:italic
+1799100	simple:italic
 simple:italic
-1696800	simple:italic
-1696802	simple:italic
+1799103	simple:italic
+1799105	simple:italic
 simple:italic
-1696805	simple:italic
+1799108	simple:italic
 simple:italic
-1696808	simple:italic
+1799111	simple:italic
 simple:italic
-1696811	simple:italic
+1799114	simple:italic
 simple:italic
-1696814	simple:italic
-1696816	simple:italic
+1799117	simple:italic
+1799119	simple:italic
 simple:italic
-1696881	simple:italic
+1799184	simple:italic
 simple:italic
-1696884	simple:italic
-1696886	simple:italic
-1696888	simple:italic
+1799187	simple:italic
+1799189	simple:italic
+1799191	simple:italic
 simple:italic
-1696891	simple:italic
-1696893	simple:italic
-1696895	simple:italic
+1799194	simple:italic
+1799196	simple:italic
+1799198	simple:italic
 simple:italic
-1696898	simple:italic
+1799201	simple:italic
 simple:italic
-1696901	simple:italic
+1799204	simple:italic
 simple:italic
-1696904	simple:italic
+1799207	simple:italic
 simple:italic
-1696907	simple:italic
+1799210	simple:italic
 simple:italic
-1696910	simple:italic
+1799213	simple:italic
 simple:italic
-1696913	simple:italic
+1799216	simple:italic
 simple:italic
-1696916	simple:italic
+1799219	simple:italic
 simple:italic
 simple:italic
-1696920	simple:italic
+1799223	simple:italic
 simple:italic
 simple:italic
-1696924	simple:italic
-1696945	simple:italic
-1696947	simple:italic
+1799227	simple:italic
+1799248	simple:italic
+1799250	simple:italic
 simple:italic
-1696950	simple:italic
-1696952	simple:italic
-1696954	simple:italic
-1696956	simple:italic
+1799253	simple:italic
+1799255	simple:italic
+1799257	simple:italic
+1799259	simple:italic
 simple:italic
-1696959	simple:italic
+1799262	simple:italic
 simple:italic
-1696962	simple:italic
+1799265	simple:italic
 simple:italic
-1696965	simple:italic
+1799268	simple:italic
 simple:italic
-1696968	simple:italic
+1799271	simple:italic
 simple:italic
-1696971	simple:italic
+1799274	simple:italic
 simple:italic
-1696974	simple:italic
+1799277	simple:italic
 simple:italic
-1696977	simple:italic
+1799280	simple:italic
 simple:italic
-1696980	simple:italic
-1696982	simple:italic
-1696984	simple:italic
-1696986	simple:italic
+1799283	simple:italic
+1799285	simple:italic
+1799287	simple:italic
+1799289	simple:italic
 simple:italic
-1697004	simple:italic
+1799307	simple:italic
 simple:italic
-1697007	simple:italic
-1697009	simple:italic
-1697011	simple:italic
-1697013	simple:italic
+1799310	simple:italic
+1799312	simple:italic
+1799314	simple:italic
+1799316	simple:italic
 simple:italic
-1697016	simple:italic
-1697050	simple:italic
+1799319	simple:italic
+1799353	simple:italic
 simple:italic
-1697053	simple:italic
-1697055	simple:italic
-1697057	simple:italic
+1799356	simple:italic
+1799358	simple:italic
+1799360	simple:italic
 simple:italic
-1697060	simple:italic
+1799363	simple:italic
 simple:italic
-1697063	simple:italic
+1799366	simple:italic
 simple:italic
-1697066	simple:italic
-1697068	simple:italic
+1799369	simple:italic
+1799371	simple:italic
 simple:italic
-1697071	simple:italic
+1799374	simple:italic
 simple:italic
-1697074	simple:italic
+1799377	simple:italic
 simple:italic
-1697077	simple:italic
-1697079	simple:italic
-1697081	simple:italic
+1799380	simple:italic
+1799382	simple:italic
+1799384	simple:italic
 simple:italic
-1697084	simple:italic
+1799387	simple:italic
 simple:italic
-1697087	simple:italic
-1697089	simple:italic
-1697091	simple:italic
+1799390	simple:italic
+1799392	simple:italic
+1799394	simple:italic
 simple:italic
-1697094	simple:italic
+1799397	simple:italic
 simple:italic
-1697097	simple:italic
+1799400	simple:italic
 simple:italic
-1697100	simple:italic
-1697102	simple:italic
+1799403	simple:italic
+1799405	simple:italic
 simple:italic
-1697105	simple:italic
+1799408	simple:italic
 simple:italic
-1697133	simple:italic
-1697135	simple:italic
+1799436	simple:italic
+1799438	simple:italic
 simple:italic
-1697138	simple:italic
+1799441	simple:italic
 simple:italic
-1697141	simple:italic
-1697143	simple:italic
+1799444	simple:italic
+1799446	simple:italic
 simple:italic
-1697146	simple:italic
-1697148	simple:italic
+1799449	simple:italic
+1799451	simple:italic
 simple:italic
-1697151	simple:italic
-1697153	simple:italic
+1799454	simple:italic
+1799456	simple:italic
 simple:italic
-1697156	simple:italic
-1697158	simple:italic
-1697160	simple:italic
-1697185	simple:italic
+1799459	simple:italic
+1799461	simple:italic
+1799463	simple:italic
+1799488	simple:italic
 simple:italic
-1697188	simple:italic
-1697190	simple:italic
-1697192	simple:italic
+1799491	simple:italic
+1799493	simple:italic
+1799495	simple:italic
 simple:italic
 simple:italic
-1697196	simple:italic
-1697198	simple:italic
-1697200	simple:italic
-1697202	simple:italic
+1799499	simple:italic
+1799501	simple:italic
+1799503	simple:italic
+1799505	simple:italic
 simple:italic
-1697205	simple:italic
+1799508	simple:italic
 simple:italic
-1697208	simple:italic
+1799511	simple:italic
 simple:italic
-1697224	simple:italic
-1697226	simple:italic
+1799527	simple:italic
+1799529	simple:italic
 simple:italic
-1697229	simple:italic
+1799532	simple:italic
 simple:italic
-1697232	simple:italic
-1697234	simple:italic
+1799535	simple:italic
+1799537	simple:italic
 simple:italic
-1697237	simple:italic
-1697239	simple:italic
-1697241	simple:italic
-1697283	simple:italic
-1697285	simple:italic
+1799540	simple:italic
+1799542	simple:italic
+1799544	simple:italic
+1799586	simple:italic
+1799588	simple:italic
 simple:italic
-1697288	simple:italic
+1799591	simple:italic
 simple:italic
-1697291	simple:italic
+1799594	simple:italic
 simple:italic
-1697294	simple:italic
-1697296	simple:italic
+1799597	simple:italic
+1799599	simple:italic
 simple:italic
-1697299	simple:italic
+1799602	simple:italic
 simple:italic
-1697302	simple:italic
-1697304	simple:italic
+1799605	simple:italic
+1799607	simple:italic
 simple:italic
-1697307	simple:italic
+1799610	simple:italic
 simple:italic
-1697310	simple:italic
-1697312	simple:italic
+1799613	simple:italic
+1799615	simple:italic
 simple:italic
-1697315	simple:italic
-1697317	simple:italic
-1697319	simple:italic
-1697321	simple:italic
-1697323	simple:italic
-1697325	simple:italic
-1697327	simple:italic
+1799618	simple:italic
+1799620	simple:italic
+1799622	simple:italic
+1799624	simple:italic
+1799626	simple:italic
+1799628	simple:italic
+1799630	simple:italic
 simple:italic
-1697330	simple:italic
-1697332	simple:italic
+1799633	simple:italic
+1799635	simple:italic
 simple:italic
-1697335	simple:italic
-1697337	simple:italic
+1799638	simple:italic
+1799640	simple:italic
 simple:italic
-1697340	simple:italic
+1799643	simple:italic
 simple:italic
-1697343	simple:italic
-1697365	simple:italic
-1697367	simple:italic
-1697369	simple:italic
-1697371	simple:italic
-1697373	simple:italic
+1799646	simple:italic
+1799668	simple:italic
+1799670	simple:italic
+1799672	simple:italic
+1799674	simple:italic
+1799676	simple:italic
 simple:italic
-1697376	simple:italic
-1697378	simple:italic
-1697380	simple:italic
-1697382	simple:italic
-1697384	simple:italic
-1697386	simple:italic
+1799679	simple:italic
+1799681	simple:italic
+1799683	simple:italic
+1799685	simple:italic
+1799687	simple:italic
+1799689	simple:italic
 simple:italic
-1697389	simple:italic
+1799692	simple:italic
 simple:italic
-1697392	simple:italic
-1697394	simple:italic
-1697396	simple:italic
-1697398	simple:italic
-1697400	simple:italic
-1697413	simple:italic
-1697415	simple:italic
-1697417	simple:italic
-1697419	simple:italic
+1799695	simple:italic
+1799697	simple:italic
+1799699	simple:italic
+1799701	simple:italic
+1799703	simple:italic
+1799716	simple:italic
+1799718	simple:italic
+1799720	simple:italic
+1799722	simple:italic
 simple:italic
-1697422	simple:italic
-1697424	simple:italic
-1697426	simple:italic
-1697428	simple:italic
+1799725	simple:italic
+1799727	simple:italic
+1799729	simple:italic
+1799731	simple:italic
 simple:italic
 simple:italic
-1697432	simple:italic
-1697434	simple:italic
-1697436	simple:italic
-1697476	simple:italic
-1697478	simple:italic
+1799735	simple:italic
+1799737	simple:italic
+1799739	simple:italic
+1799779	simple:italic
+1799781	simple:italic
 simple:italic
-1697481	simple:italic
-1697483	simple:italic
-1697485	simple:italic
+1799784	simple:italic
+1799786	simple:italic
+1799788	simple:italic
 simple:italic
-1697488	simple:italic
-1697490	simple:italic
-1697492	simple:italic
-1697494	simple:italic
-1697496	simple:italic
-1697498	simple:italic
+1799791	simple:italic
+1799793	simple:italic
+1799795	simple:italic
+1799797	simple:italic
+1799799	simple:italic
+1799801	simple:italic
 simple:italic
-1697501	simple:italic
-1697503	simple:italic
-1697505	simple:italic
+1799804	simple:italic
+1799806	simple:italic
+1799808	simple:italic
 simple:italic
-1697508	simple:italic
-1697510	simple:italic
-1697512	simple:italic
-1697514	simple:italic
-1697516	simple:italic
+1799811	simple:italic
+1799813	simple:italic
+1799815	simple:italic
+1799817	simple:italic
+1799819	simple:italic
 simple:italic
-1697519	simple:italic
-1697521	simple:italic
-1697523	simple:italic
-1697525	simple:italic
-1697527	simple:italic
-1697529	simple:italic
-1697531	simple:italic
-1697558	simple:italic
+1799822	simple:italic
+1799824	simple:italic
+1799826	simple:italic
+1799828	simple:italic
+1799830	simple:italic
+1799832	simple:italic
+1799834	simple:italic
+1799861	simple:italic
 simple:italic
-1697561	simple:italic
-1697563	simple:italic
+1799864	simple:italic
+1799866	simple:italic
 simple:italic
-1697566	simple:italic
-1697568	simple:italic
-1697570	simple:italic
-1697572	simple:italic
+1799869	simple:italic
+1799871	simple:italic
+1799873	simple:italic
+1799875	simple:italic
 simple:italic
-1697575	simple:italic
+1799878	simple:italic
 simple:italic
-1697578	simple:italic
+1799881	simple:italic
 simple:italic
-1697581	simple:italic
-1697583	simple:italic
-1697585	simple:italic
-1697587	simple:italic
-1697589	simple:italic
-1697591	simple:italic
-1697593	simple:italic
-1697595	simple:italic
-1697597	simple:italic
-1697599	simple:italic
-1697601	simple:italic
-1697603	simple:italic
-1697605	simple:italic
-1697607	simple:italic
+1799884	simple:italic
+1799886	simple:italic
+1799888	simple:italic
+1799890	simple:italic
+1799892	simple:italic
+1799894	simple:italic
+1799896	simple:italic
+1799898	simple:italic
+1799900	simple:italic
+1799902	simple:italic
+1799904	simple:italic
+1799906	simple:italic
+1799908	simple:italic
+1799910	simple:italic
 simple:italic
-1697610	simple:italic
-1697612	simple:italic
-1697614	simple:italic
-1697616	simple:italic
-1697618	simple:italic
-1697620	simple:italic
+1799913	simple:italic
+1799915	simple:italic
+1799917	simple:italic
+1799919	simple:italic
+1799921	simple:italic
+1799923	simple:italic
 simple:italic
-1697623	simple:italic
+1799926	simple:italic
 simple:italic
-1697663	simple:italic
-1697665	simple:italic
-1697667	simple:italic
-1697669	simple:italic
-1697671	simple:italic
-1697673	simple:italic
-1697675	simple:italic
-1697677	simple:italic
-1697679	simple:italic
-1697681	simple:italic
-1697683	simple:italic
+1799966	simple:italic
+1799968	simple:italic
+1799970	simple:italic
+1799972	simple:italic
+1799974	simple:italic
+1799976	simple:italic
+1799978	simple:italic
+1799980	simple:italic
+1799982	simple:italic
+1799984	simple:italic
+1799986	simple:italic
 simple:italic
-1697686	simple:italic
+1799989	simple:italic
 simple:italic
-1697689	simple:italic
+1799992	simple:italic
 simple:italic
-1697692	simple:italic
+1799995	simple:italic
 simple:italic
-1697695	simple:italic
-1697697	simple:italic
-1697699	simple:italic
-1697701	simple:italic
-1697703	simple:italic
+1799998	simple:italic
+1800000	simple:italic
+1800002	simple:italic
+1800004	simple:italic
+1800006	simple:italic
 simple:italic
-1697706	simple:italic
-1697708	simple:italic
-1697710	simple:italic
-1697725	simple:italic
-1697727	simple:italic
+1800009	simple:italic
+1800011	simple:italic
+1800013	simple:italic
+1800028	simple:italic
+1800030	simple:italic
 simple:italic
-1697730	simple:italic
-1697732	simple:italic
+1800033	simple:italic
+1800035	simple:italic
 simple:italic
-1697735	simple:italic
-1697737	simple:italic
-1697739	simple:italic
-1697741	simple:italic
+1800038	simple:italic
+1800040	simple:italic
+1800042	simple:italic
+1800044	simple:italic
 simple:italic
-1697744	simple:italic
-1697746	simple:italic
-1697748	simple:italic
-1697750	simple:italic
+1800047	simple:italic
+1800049	simple:italic
+1800051	simple:italic
+1800053	simple:italic
 simple:italic
-1697753	simple:italic
-1697755	simple:italic
-1697757	simple:italic
-1697759	simple:italic
+1800056	simple:italic
+1800058	simple:italic
+1800060	simple:italic
+1800062	simple:italic
 simple:italic
-1697762	simple:italic
+1800065	simple:italic
 simple:italic
-1697765	simple:italic
+1800068	simple:italic
 simple:italic
-1697768	simple:italic
-1697770	simple:italic
-1697772	simple:italic
-1697774	simple:italic
-1697776	simple:italic
-1697778	simple:italic
-1697780	simple:italic
+1800071	simple:italic
+1800073	simple:italic
+1800075	simple:italic
+1800077	simple:italic
+1800079	simple:italic
+1800081	simple:italic
+1800083	simple:italic
 simple:italic
-1697783	simple:italic
-1697785	simple:italic
-1697787	simple:italic
-1697789	simple:italic
-1697791	simple:italic
-1697793	simple:italic
+1800086	simple:italic
+1800088	simple:italic
+1800090	simple:italic
+1800092	simple:italic
+1800094	simple:italic
+1800096	simple:italic
 simple:italic
-1697796	simple:italic
-1697798	simple:italic
-1697800	simple:italic
+1800099	simple:italic
+1800101	simple:italic
+1800103	simple:italic
 simple:italic
-1697803	simple:italic
-1697805	simple:italic
+1800106	simple:italic
+1800108	simple:italic
 simple:italic
-1697873	simple:italic
-1697875	simple:italic
+1800176	simple:italic
+1800178	simple:italic
 simple:italic
-1697878	simple:italic
+1800181	simple:italic
 simple:italic
-1697881	simple:italic
-1697883	simple:italic
-1697885	simple:italic
-1697887	simple:italic
-1697889	simple:italic
-1697891	simple:italic
-1697893	simple:italic
-1697895	simple:italic
+1800184	simple:italic
+1800186	simple:italic
+1800188	simple:italic
+1800190	simple:italic
+1800192	simple:italic
+1800194	simple:italic
+1800196	simple:italic
+1800198	simple:italic
 simple:italic
-1697898	simple:italic
-1697900	simple:italic
+1800201	simple:italic
+1800203	simple:italic
 simple:italic
-1697903	simple:italic
-1697905	simple:italic
-1697907	simple:italic
-1697909	simple:italic
-1697911	simple:italic
-1697913	simple:italic
-1697915	simple:italic
-1697917	simple:italic
-1697919	simple:italic
-1697921	simple:italic
-1697923	simple:italic
-1697925	simple:italic
-1697927	simple:italic
-1697929	simple:italic
-1697931	simple:italic
-1697933	simple:italic
+1800206	simple:italic
+1800208	simple:italic
+1800210	simple:italic
+1800212	simple:italic
+1800214	simple:italic
+1800216	simple:italic
+1800218	simple:italic
+1800220	simple:italic
+1800222	simple:italic
+1800224	simple:italic
+1800226	simple:italic
+1800228	simple:italic
+1800230	simple:italic
+1800232	simple:italic
+1800234	simple:italic
+1800236	simple:italic
 simple:italic
-1697936	simple:italic
-1697938	simple:italic
-1697940	simple:italic
-1697942	simple:italic
-1697944	simple:italic
-1697946	simple:italic
-1697948	simple:italic
-1697950	simple:italic
-1697952	simple:italic
-1697954	simple:italic
+1800239	simple:italic
+1800241	simple:italic
+1800243	simple:italic
+1800245	simple:italic
+1800247	simple:italic
+1800249	simple:italic
+1800251	simple:italic
+1800253	simple:italic
+1800255	simple:italic
+1800257	simple:italic
 simple:italic
-1697957	simple:italic
+1800260	simple:italic
 simple:italic
-1697960	simple:italic
+1800263	simple:italic
 simple:italic
-1697963	simple:italic
-1697965	simple:italic
+1800266	simple:italic
+1800268	simple:italic
 simple:italic
-1697968	simple:italic
+1800271	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1697973	simple:italic
+1800276	simple:italic
 simple:italic
-1697976	simple:italic
-1697978	simple:italic
-1697980	simple:italic
-1697982	simple:italic
-1697984	simple:italic
-1697986	simple:italic
-1697988	simple:italic
-1697990	simple:italic
-1697992	simple:italic
-1697994	simple:italic
-1697996	simple:italic
-1697998	simple:italic
-1698000	simple:italic
-1698002	simple:italic
-1698004	simple:italic
+1800279	simple:italic
+1800281	simple:italic
+1800283	simple:italic
+1800285	simple:italic
+1800287	simple:italic
+1800289	simple:italic
+1800291	simple:italic
+1800293	simple:italic
+1800295	simple:italic
+1800297	simple:italic
+1800299	simple:italic
+1800301	simple:italic
+1800303	simple:italic
+1800305	simple:italic
+1800307	simple:italic
 simple:italic
-1698007	simple:italic
-1698009	simple:italic
-1698011	simple:italic
-1698030	simple:italic
-1698032	simple:italic
-1698034	simple:italic
-1698036	simple:italic
-1698038	simple:italic
-1698040	simple:italic
+1800310	simple:italic
+1800312	simple:italic
+1800314	simple:italic
+1800333	simple:italic
+1800335	simple:italic
+1800337	simple:italic
+1800339	simple:italic
+1800341	simple:italic
+1800343	simple:italic
 simple:italic
-1698043	simple:italic
-1698045	simple:italic
-1698047	simple:italic
-1698049	simple:italic
-1698051	simple:italic
-1698053	simple:italic
-1698055	simple:italic
-1698057	simple:italic
+1800346	simple:italic
+1800348	simple:italic
+1800350	simple:italic
+1800352	simple:italic
+1800354	simple:italic
+1800356	simple:italic
+1800358	simple:italic
+1800360	simple:italic
 simple:italic
-1698060	simple:italic
-1698062	simple:italic
-1698064	simple:italic
-1698066	simple:italic
-1698068	simple:italic
-1698070	simple:italic
-1698072	simple:italic
-1698074	simple:italic
-1698076	simple:italic
-1698109	simple:italic
-1698111	simple:italic
-1698113	simple:italic
-1698115	simple:italic
-1698117	simple:italic
-1698119	simple:italic
-1698121	simple:italic
+1800363	simple:italic
+1800365	simple:italic
+1800367	simple:italic
+1800369	simple:italic
+1800371	simple:italic
+1800373	simple:italic
+1800375	simple:italic
+1800377	simple:italic
+1800379	simple:italic
+1800412	simple:italic
+1800414	simple:italic
+1800416	simple:italic
+1800418	simple:italic
+1800420	simple:italic
+1800422	simple:italic
+1800424	simple:italic
 simple:italic
-1698124	simple:italic
-1698126	simple:italic
+1800427	simple:italic
+1800429	simple:italic
 simple:italic
 simple:italic
 simple:italic
 simple:italic
-1698132	simple:italic
+1800435	simple:italic
 simple:italic
-1698135	simple:italic
+1800438	simple:italic
 simple:italic
-1698138	simple:italic
+1800441	simple:italic
 simple:italic
-1698141	simple:italic
-1698143	simple:italic
-1698145	simple:italic
-1698147	simple:italic
-1698149	simple:italic
-1698151	simple:italic
-1698153	simple:italic
-1698155	simple:italic
+1800444	simple:italic
+1800446	simple:italic
+1800448	simple:italic
+1800450	simple:italic
+1800452	simple:italic
+1800454	simple:italic
+1800456	simple:italic
+1800458	simple:italic
 simple:italic
-1698158	simple:italic
-1698160	simple:italic
-1698162	simple:italic
+1800461	simple:italic
+1800463	simple:italic
+1800465	simple:italic
 simple:italic
-1698165	simple:italic
-1698167	simple:italic
-1698169	simple:italic
-1698171	simple:italic
-1698173	simple:italic
-1698175	simple:italic
+1800468	simple:italic
+1800470	simple:italic
+1800472	simple:italic
+1800474	simple:italic
+1800476	simple:italic
+1800478	simple:italic
 simple:italic
-1698178	simple:italic
-1698180	simple:italic
-1698182	simple:italic
+1800481	simple:italic
+1800483	simple:italic
+1800485	simple:italic
 simple:italic
-1698185	simple:italic
-1698214	simple:italic
-1698216	simple:italic
-1698218	simple:italic
-1698220	simple:italic
-1698222	simple:italic
-1698224	simple:italic
+1800488	simple:italic
+1800517	simple:italic
+1800519	simple:italic
+1800521	simple:italic
+1800523	simple:italic
+1800525	simple:italic
+1800527	simple:italic
 simple:italic
-1698227	simple:italic
-1698229	simple:italic
-1698231	simple:italic
-1698233	simple:italic
-1698235	simple:italic
-1698237	simple:italic
-1698239	simple:italic
-1698241	simple:italic
+1800530	simple:italic
+1800532	simple:italic
+1800534	simple:italic
+1800536	simple:italic
+1800538	simple:italic
+1800540	simple:italic
+1800542	simple:italic
+1800544	simple:italic
 simple:italic
-1698244	simple:italic
+1800547	simple:italic
 simple:italic
-1698247	simple:italic
-1698249	simple:italic
-1698251	simple:italic
-1698253	simple:italic
-1698255	simple:italic
-1698257	simple:italic
-1698259	simple:italic
-1698261	simple:italic
-1698263	simple:italic
-1698265	simple:italic
-1698267	simple:italic
-1698269	simple:italic
-1698271	simple:italic
-1698273	simple:italic
-1698275	simple:italic
-1698277	simple:italic
-1698279	simple:italic
-1698281	simple:italic
-1698283	simple:italic
-1698285	simple:italic
-1698287	simple:italic
-1698289	simple:italic
-1698291	simple:italic
-1698293	simple:italic
+1800550	simple:italic
+1800552	simple:italic
+1800554	simple:italic
+1800556	simple:italic
+1800558	simple:italic
+1800560	simple:italic
+1800562	simple:italic
+1800564	simple:italic
+1800566	simple:italic
+1800568	simple:italic
+1800570	simple:italic
+1800572	simple:italic
+1800574	simple:italic
+1800576	simple:italic
+1800578	simple:italic
+1800580	simple:italic
+1800582	simple:italic
+1800584	simple:italic
+1800586	simple:italic
+1800588	simple:italic
+1800590	simple:italic
+1800592	simple:italic
+1800594	simple:italic
+1800596	simple:italic
 simple:italic
-1698296	simple:italic
+1800599	simple:italic
 simple:italic
-1698299	simple:italic
+1800602	simple:italic
 simple:italic
-1698302	simple:italic
-1698304	simple:italic
-1698306	simple:italic
-1698308	simple:italic
+1800605	simple:italic
+1800607	simple:italic
+1800609	simple:italic
+1800611	simple:italic
 simple:italic
-1698311	simple:italic
-1698313	simple:italic
+1800614	simple:italic
+1800616	simple:italic
 simple:italic
-1698316	simple:italic
-1698372	simple:italic
-1698374	simple:italic
-1698376	simple:italic
-1698378	simple:italic
+1800619	simple:italic
+1800675	simple:italic
+1800677	simple:italic
+1800679	simple:italic
+1800681	simple:italic
 simple:italic
-1698381	simple:italic
-1698383	simple:italic
+1800684	simple:italic
+1800686	simple:italic
 simple:italic
-1698386	simple:italic
-1698388	simple:italic
+1800689	simple:italic
+1800691	simple:italic
 simple:italic
-1698391	simple:italic
+1800694	simple:italic
 simple:italic
-1698394	simple:italic
-1698396	simple:italic
-1698398	simple:italic
-1698400	simple:italic
+1800697	simple:italic
+1800699	simple:italic
+1800701	simple:italic
+1800703	simple:italic
 simple:italic
-1698403	simple:italic
-1698405	simple:italic
-1698407	simple:italic
-1698409	simple:italic
-1698411	simple:italic
-1698413	simple:italic
+1800706	simple:italic
+1800708	simple:italic
+1800710	simple:italic
+1800712	simple:italic
+1800714	simple:italic
+1800716	simple:italic
 simple:italic
-1698416	simple:italic
-1698418	simple:italic
-1698420	simple:italic
-1698433	simple:italic
-1698435	simple:italic
+1800719	simple:italic
+1800721	simple:italic
+1800723	simple:italic
+1800736	simple:italic
+1800738	simple:italic
 simple:italic
-1698438	simple:italic
+1800741	simple:italic
 simple:italic
-1698441	simple:italic
+1800744	simple:italic
 simple:italic
-1698444	simple:italic
-1698446	simple:italic
+1800747	simple:italic
+1800749	simple:italic
 simple:italic
-1698449	simple:italic
+1800752	simple:italic
 simple:italic
-1698452	simple:italic
-1698454	simple:italic
-1698456	simple:italic
-1698458	simple:italic
-1698496	simple:italic
-1698498	simple:italic
+1800755	simple:italic
+1800757	simple:italic
+1800759	simple:italic
+1800761	simple:italic
+1800799	simple:italic
+1800801	simple:italic
 simple:italic
-1698501	simple:italic
+1800804	simple:italic
 simple:italic
-1698504	simple:italic
-1698506	simple:italic
+1800807	simple:italic
+1800809	simple:italic
 simple:italic
-1698509	simple:italic
-1698511	simple:italic
-1698513	simple:italic
+1800812	simple:italic
+1800814	simple:italic
+1800816	simple:italic
 simple:italic
-1698516	simple:italic
-1698518	simple:italic
+1800819	simple:italic
+1800821	simple:italic
 simple:italic
-1698521	simple:italic
-1698523	simple:italic
-1698525	simple:italic
+1800824	simple:italic
+1800826	simple:italic
+1800828	simple:italic
 simple:italic
-1698528	simple:italic
-1698530	simple:italic
+1800831	simple:italic
+1800833	simple:italic
 simple:italic
-1698533	simple:italic
-1698535	simple:italic
-1698537	simple:italic
-1698539	simple:italic
-1698541	simple:italic
-1698543	simple:italic
+1800836	simple:italic
+1800838	simple:italic
+1800840	simple:italic
+1800842	simple:italic
+1800844	simple:italic
+1800846	simple:italic
 simple:italic
-1698546	simple:italic
+1800849	simple:italic
 simple:italic
-1698549	simple:italic
-1698578	simple:italic
-1698580	simple:italic
-1698582	simple:italic
-1698584	simple:italic
-1698586	simple:italic
-1698588	simple:italic
+1800852	simple:italic
+1800881	simple:italic
+1800883	simple:italic
+1800885	simple:italic
+1800887	simple:italic
+1800889	simple:italic
+1800891	simple:italic
 simple:italic
-1698591	simple:italic
-1698593	simple:italic
-1698595	simple:italic
+1800894	simple:italic
+1800896	simple:italic
+1800898	simple:italic
 simple:italic
-1698598	simple:italic
-1698600	simple:italic
-1698617	simple:italic
-1698619	simple:italic
-1698621	simple:italic
+1800901	simple:italic
+1800903	simple:italic
+1800920	simple:italic
+1800922	simple:italic
+1800924	simple:italic
 simple:italic
-1698624	simple:italic
+1800927	simple:italic
 simple:italic
-1698627	simple:italic
+1800930	simple:italic
 simple:italic
 simple:italic
-1698631	simple:italic
+1800934	simple:italic
 simple:italic
-1698634	simple:italic
-1698636	simple:italic
-1698669	simple:italic
-1698671	simple:italic
+1800937	simple:italic
+1800939	simple:italic
+1800972	simple:italic
+1800974	simple:italic
 simple:italic
-1698674	simple:italic
+1800977	simple:italic
 simple:italic
-1698677	simple:italic
+1800980	simple:italic
 simple:italic
-1698680	simple:italic
+1800983	simple:italic
 simple:italic
-1698683	simple:italic
-1698685	simple:italic
+1800986	simple:italic
+1800988	simple:italic
 simple:italic
-1698688	simple:italic
-1698690	simple:italic
-1698692	simple:italic
+1800991	simple:italic
+1800993	simple:italic
+1800995	simple:italic
 simple:italic
-1698695	simple:italic
-1698697	simple:italic
-1698724	simple:italic
-1698726	simple:italic
+1800998	simple:italic
+1801000	simple:italic
+1801027	simple:italic
+1801029	simple:italic
 simple:italic
-1698729	simple:italic
+1801032	simple:italic
 simple:italic
-1698732	simple:italic
+1801035	simple:italic
 simple:italic
-1698735	simple:italic
-1698737	simple:italic
+1801038	simple:italic
+1801040	simple:italic
 simple:italic
-1698740	simple:italic
+1801043	simple:italic
 simple:italic
-1698743	simple:italic
+1801046	simple:italic
 simple:italic
-1698746	simple:italic
+1801049	simple:italic
 simple:italic
-1698749	simple:italic
-1698751	simple:italic
-1698753	simple:italic
+1801052	simple:italic
+1801054	simple:italic
+1801056	simple:italic
 simple:italic
-1698756	simple:italic
-1698758	simple:italic
+1801059	simple:italic
+1801061	simple:italic
 simple:italic
 simple:italic
 simple:italic
-1698763	simple:italic
-1698765	simple:italic
+1801066	simple:italic
+1801068	simple:italic
 simple:italic
-1698768	simple:italic
-1698770	simple:italic
-1698772	simple:italic
-1698774	simple:italic
-1698776	simple:italic
-1698778	simple:italic
-1698780	simple:italic
-1698782	simple:italic
-1698799	simple:italic
+1801071	simple:italic
+1801073	simple:italic
+1801075	simple:italic
+1801077	simple:italic
+1801079	simple:italic
+1801081	simple:italic
+1801083	simple:italic
+1801085	simple:italic
+1801102	simple:italic
 simple:italic
-1698802	simple:italic
+1801105	simple:italic
 simple:italic
-1698805	simple:italic
-1698807	simple:italic
+1801108	simple:italic
+1801110	simple:italic
 simple:italic
-1698810	simple:italic
-1698812	simple:italic
-1698814	simple:italic
-1698816	simple:italic
-1698818	simple:italic
-1698846	simple:italic
-1698848	simple:italic
-1698850	simple:italic
+1801113	simple:italic
+1801115	simple:italic
+1801117	simple:italic
+1801119	simple:italic
+1801121	simple:italic
+1801149	simple:italic
+1801151	simple:italic
+1801153	simple:italic
 simple:italic
-1698853	simple:italic
-1698855	simple:italic
-1698857	simple:italic
-1698859	simple:italic
-1698861	simple:italic
-1698863	simple:italic
-1698865	simple:italic
-1698867	simple:italic
-1698869	simple:italic
-1698871	simple:italic
+1801156	simple:italic
+1801158	simple:italic
+1801160	simple:italic
+1801162	simple:italic
+1801164	simple:italic
+1801166	simple:italic
+1801168	simple:italic
+1801170	simple:italic
+1801172	simple:italic
+1801174	simple:italic
 simple:italic
-1698874	simple:italic
+1801177	simple:italic
 simple:italic
-1698877	simple:italic
-1698879	simple:italic
+1801180	simple:italic
+1801182	simple:italic
 simple:italic
-1698882	simple:italic
-1698884	simple:italic
+1801185	simple:italic
+1801187	simple:italic
 simple:italic
-1698887	simple:italic
-1698889	simple:italic
-1698891	simple:italic
+1801190	simple:italic
+1801192	simple:italic
+1801194	simple:italic
 simple:italic
-1698894	simple:italic
-1698896	simple:italic
-1698898	simple:italic
-1698927	simple:italic
-1698929	simple:italic
+1801197	simple:italic
+1801199	simple:italic
+1801201	simple:italic
+1801230	simple:italic
+1801232	simple:italic
 simple:italic
-1698932	simple:italic
-1698934	simple:italic
+1801235	simple:italic
+1801237	simple:italic
 simple:italic
-1698937	simple:italic
-1698939	simple:italic
-1698941	simple:italic
-1698943	simple:italic
-1698945	simple:italic
+1801240	simple:italic
+1801242	simple:italic
+1801244	simple:italic
+1801246	simple:italic
+1801248	simple:italic
 simple:italic
-1698948	simple:italic
-1698950	simple:italic
+1801251	simple:italic
+1801253	simple:italic
 simple:italic
-1698966	simple:italic
-1698968	simple:italic
+1801269	simple:italic
+1801271	simple:italic
 simple:italic
-1698971	simple:italic
+1801274	simple:italic
 simple:italic
-1698974	simple:italic
-1698976	simple:italic
+1801277	simple:italic
+1801279	simple:italic
 simple:italic
-1698979	simple:italic
-1699009	simple:italic
-1699011	simple:italic
+1801282	simple:italic
+1801312	simple:italic
+1801314	simple:italic
 simple:italic
 simple:italic
-1699015	simple:italic
+1801318	simple:italic
 simple:italic
-1699018	simple:italic
+1801321	simple:italic
 simple:italic
-1699021	simple:italic
+1801324	simple:italic
 simple:italic
-1699024	simple:italic
+1801327	simple:italic
 simple:italic
-1699027	simple:italic
+1801330	simple:italic
 simple:italic
-1699030	simple:italic
+1801333	simple:italic
 simple:italic
-1699033	simple:italic
+1801336	simple:italic
 simple:italic
-1699037	simple:italic
+1801340	simple:italic
 simple:italic
 simple:italic
-1699041	simple:italic
-1699069	simple:italic
-1699071	simple:italic
-1699073	simple:italic
-1699075	simple:italic
-1699077	simple:italic
-1699079	simple:italic
-1699081	simple:italic
-1699083	simple:italic
-1699085	simple:italic
-1699087	simple:italic
-1699089	simple:italic
+1801344	simple:italic
+1801372	simple:italic
+1801374	simple:italic
+1801376	simple:italic
+1801378	simple:italic
+1801380	simple:italic
+1801382	simple:italic
+1801384	simple:italic
+1801386	simple:italic
+1801388	simple:italic
+1801390	simple:italic
+1801392	simple:italic
 simple:italic
-1699092	simple:italic
-1699094	simple:italic
+1801395	simple:italic
+1801397	simple:italic
 simple:italic
-1699097	simple:italic
-1699099	simple:italic
-1699101	simple:italic
-1699103	simple:italic
-1699105	simple:italic
-1699107	simple:italic
-1699109	simple:italic
-1699111	simple:italic
-1699113	simple:italic
+1801400	simple:italic
+1801402	simple:italic
+1801404	simple:italic
+1801406	simple:italic
+1801408	simple:italic
+1801410	simple:italic
+1801412	simple:italic
+1801414	simple:italic
+1801416	simple:italic
 simple:italic
-1699116	simple:italic
+1801419	simple:italic
 simple:italic
-1699119	simple:italic
-1699121	simple:italic
-1699123	simple:italic
-1699125	simple:italic
+1801422	simple:italic
+1801424	simple:italic
+1801426	simple:italic
+1801428	simple:italic
 simple:italic
-1699128	simple:italic
-1699153	simple:italic
-1699155	simple:italic
+1801431	simple:italic
+1801456	simple:italic
+1801458	simple:italic
 simple:italic
-1699158	simple:italic
+1801461	simple:italic
 simple:italic
-1699161	simple:italic
+1801464	simple:italic
 simple:italic
-1699164	simple:italic
-1699166	simple:italic
+1801467	simple:italic
+1801469	simple:italic
 simple:italic
-1699169	simple:italic
-1699171	simple:italic
+1801472	simple:italic
+1801474	simple:italic
 simple:italic
-1699174	simple:italic
-1699176	simple:italic
+1801477	simple:italic
+1801479	simple:italic
 simple:italic
-1699179	simple:italic
+1801482	simple:italic
 simple:italic
-1699182	simple:italic
+1801485	simple:italic
 simple:italic
-1699185	simple:italic
-1699187	simple:italic
+1801488	simple:italic
+1801490	simple:italic
 simple:italic
-1699190	simple:italic
-1699202	simple:italic
-1699204	simple:italic
-1699206	simple:italic
-1699208	simple:italic
-1699210	simple:italic
-1699212	simple:italic
-1699352	simple:italic
-1699354	simple:italic
+1801493	simple:italic
+1801505	simple:italic
+1801507	simple:italic
+1801509	simple:italic
+1801511	simple:italic
+1801513	simple:italic
+1801515	simple:italic
+1801655	simple:italic
+1801657	simple:italic
 simple:italic
-1699357	simple:italic
-1699359	simple:italic
+1801660	simple:italic
+1801662	simple:italic
 simple:italic
-1699362	simple:italic
+1801665	simple:italic
 simple:italic
-1699365	simple:italic
-1699367	simple:italic
-1699369	simple:italic
+1801668	simple:italic
+1801670	simple:italic
+1801672	simple:italic
 simple:italic
-1699372	simple:italic
-1699374	simple:italic
+1801675	simple:italic
+1801677	simple:italic
 simple:italic
-1699377	simple:italic
+1801680	simple:italic
 simple:italic
-1699380	simple:italic
-1699382	simple:italic
-1699384	simple:italic
+1801683	simple:italic
+1801685	simple:italic
+1801687	simple:italic
 simple:italic
-1699387	simple:italic
-1699389	simple:italic
-1699391	simple:italic
+1801690	simple:italic
+1801692	simple:italic
+1801694	simple:italic
 simple:italic
-1699394	simple:italic
+1801697	simple:italic
 simple:italic
-1699397	simple:italic
-1699399	simple:italic
+1801700	simple:italic
+1801702	simple:italic
 simple:italic
 simple:italic
-1699403	simple:italic
+1801706	simple:italic
 simple:italic
-1699406	simple:italic
+1801709	simple:italic
 simple:italic
-1699409	simple:italic
-1699411	simple:italic
+1801712	simple:italic
+1801714	simple:italic
 simple:italic
-1699414	simple:italic
+1801717	simple:italic
 simple:italic
-1699417	simple:italic
-1699419	simple:italic
-1699421	simple:italic
+1801720	simple:italic
+1801722	simple:italic
+1801724	simple:italic
 simple:italic
-1699424	simple:italic
-1699426	simple:italic
+1801727	simple:italic
+1801729	simple:italic
 simple:italic
-1699429	simple:italic
+1801732	simple:italic
 simple:italic
-1699432	simple:italic
+1801735	simple:italic
 simple:italic
-1699435	simple:italic
+1801738	simple:italic
 simple:italic
-1699438	simple:italic
-1699440	simple:italic
-1699442	simple:italic
+1801741	simple:italic
+1801743	simple:italic
+1801745	simple:italic
 simple:italic
-1699445	simple:italic
+1801748	simple:italic
 simple:italic
-1699448	simple:italic
+1801751	simple:italic
 simple:italic
-1699451	simple:italic
+1801754	simple:italic
 simple:italic
-1699454	simple:italic
+1801757	simple:italic
 simple:italic
-1699457	simple:italic
+1801760	simple:italic
 simple:italic
-1699460	simple:italic
+1801763	simple:italic
 simple:italic
-1699463	simple:italic
-1699465	simple:italic
-1699467	simple:italic
+1801766	simple:italic
+1801768	simple:italic
+1801770	simple:italic
 simple:italic
-1699470	simple:italic
+1801773	simple:italic
 simple:italic
-1699473	simple:italic
-1699475	simple:italic
-1699477	simple:italic
-1699479	simple:italic
-1699481	simple:italic
-1699483	simple:italic
-1699485	simple:italic
+1801776	simple:italic
+1801778	simple:italic
+1801780	simple:italic
+1801782	simple:italic
+1801784	simple:italic
+1801786	simple:italic
+1801788	simple:italic
 simple:italic
-1699488	simple:italic
+1801791	simple:italic
 simple:italic
-1699491	simple:italic
+1801794	simple:italic
 simple:italic
-1699494	simple:italic
+1801797	simple:italic
 simple:italic
-1699497	simple:italic
+1801800	simple:italic
 simple:italic
-1699500	simple:italic
-1699502	simple:italic
-1699504	simple:italic
-1699506	simple:italic
-1699508	simple:italic
+1801803	simple:italic
+1801805	simple:italic
+1801807	simple:italic
+1801809	simple:italic
+1801811	simple:italic

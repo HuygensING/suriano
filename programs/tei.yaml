@@ -126,6 +126,18 @@ extra:
       - bibl
       - sourceDesc
     nodeType: file
+  resources:
+    meta:
+      description: >-
+        Additional notes about the attachments of the letter
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - note
+      - bibl
+      - sourceDesc
+    nodeType: file
   shelfmark:
     meta:
       description: >-

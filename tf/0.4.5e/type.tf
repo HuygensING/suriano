@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:23Z
+@dateWritten=2024-08-13T15:23:32Z
 @description=this is TEI attribute type
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:54Z
+@dateWritten=2024-08-13T15:25:45Z
 
-1657652	sent
+1759955	sent
 received
 sent
 received
@@ -1473,7 +1473,7 @@ sent
 received
 sent
 received
-1660552	text
+1762855	text
 original
 secretarial
 notes
@@ -5616,7 +5616,7 @@ appendix
 original
 secretarial
 notes
-1699509	filza
+1801812	filza
 letterno
 shelf
 filza

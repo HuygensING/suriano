@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=provided
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:31Z
 @description=number of a chunk within a document
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:53Z
+@dateWritten=2024-08-13T15:25:44Z
 
-1612397	1
+1714700	1
 2
 3
 4

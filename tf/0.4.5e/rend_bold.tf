@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:32Z
 @description=whether text is to be rendered as bold
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,17 +21,17 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:53Z
+@dateWritten=2024-08-13T15:25:44Z
 
-73799	1
-79212	1
-90083	1
-108645	1
-111961	1
-468217	1
-468564	1
-490108	1
-516459	1
-566820	1
-566823	1
-667506	1
+79633	1
+85391	1
+97086	1
+116558	1
+120094	1
+498835	1
+499182	1
+521294	1
+548038	1
+601238	1
+601241	1
+706262	1

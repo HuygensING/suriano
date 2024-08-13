@@ -19,730 +19,730 @@
 @valueType=str
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:32Z
 
-1665420	None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+1767723	Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
-
-
-None
-None
-None
-None
-None
-None
-None
-None
-None
-
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-
-None
-None
-
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
 
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
 
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
 
-None
-None
-None
-None
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of
+Venice, Doge, Senate and citizens of

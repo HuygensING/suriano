@@ -203,6 +203,14 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
+## `resources`
+
+Additional notes about the attachments of the letter
+The values of this feature have type str.
+*   `conversionMethod`: `derived`
+*   `conversionCode`: `tt`
+
+
 ## `shelfmark`
 
 Locator of the physical pages of the letter
@@ -490,6 +498,14 @@ The values of this feature have type str.
 ## `editornotes`
 
 Editorial notes about the attachments of the letter
+The values of this feature have type str.
+*   `conversionMethod`: `derived`
+*   `conversionCode`: `tt`
+
+
+## `resources`
+
+Additional notes about the attachments of the letter
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`

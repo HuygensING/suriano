@@ -51,6 +51,7 @@ TRANSCRIBER_TSV = f"{_TREPORTDIR}/transcribers.tsv"
 HEADERS_TXT = f"{_TREPORTDIR}/headers.txt"
 LETTERINFO_TXT = f"{_TREPORTDIR}/letterinfo.txt"
 PAGEINFO_TXT = f"{_TREPORTDIR}/pageinfo.txt"
+EXTRAINFO_YML = f"{_TREPORTDIR}/extrainfo.yml"
 PAGESEQ_JSON = f"{_TREPORTDIR}/pageseq.json"
 SCANTRANS_TSV = f"{_TREPORTDIR}/scantrans.tsv"
 SOURCEBASE = _DATADIR

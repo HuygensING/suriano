@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:23Z
+@dateWritten=2024-08-13T15:23:32Z
 @description=this is TEI attribute unit
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:54Z
+@dateWritten=2024-08-13T15:25:45Z
 
-1596612	page
+1698915	page
 page
 page
 page

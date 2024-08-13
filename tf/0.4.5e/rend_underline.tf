@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:32Z
 @description=whether text is to be rendered as underline
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T14:41:53Z
+@dateWritten=2024-08-13T15:25:44Z
 
-478077	1
-689823	1
+509087	1
+729220	1

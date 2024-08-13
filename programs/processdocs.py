@@ -32,8 +32,9 @@ from tf.core.files import (
     mTime,
     fileExists,
     writeJson,
+    writeYaml,
 )
-from tf.core.helpers import console
+from tf.core.helpers import console, htmlEsc
 from processhelpers import (
     HEADER_RE,
     PAGES,
@@ -44,6 +45,7 @@ from processhelpers import (
     TRANSCRIBER_TSV,
     HEADERS_TXT,
     PAGEINFO_TXT,
+    EXTRAINFO_YML,
     SCANTRANS_TSV,
     TEIDIR,
     REPORT_THUMBERRORS,
@@ -499,7 +501,7 @@ class TeiFromDocx(PageInfo):
             self.console("", error=True)
 
         for heading, n in sorted(summarized.items(), key=lambda x: (-x[1], x[0])):
-            self.console(f"{n:>5} {'x':<6} {heading}. See extrainfo.txt", error=True)
+            self.console(f"{n:>5} {'x':<6} {heading}. See warnings.txt", error=True)
 
         if silent:
             if nWarnings:
@@ -568,8 +570,11 @@ class TeiFromDocx(PageInfo):
 
         def fs(row, index):
             result = normalizeChars(row[index].value or "")
+
             if result.startswith("(") and result.endswith(")"):
                 result = result[1:-1]
+
+            return htmlEsc(result)
 
         for row in rows:
             year = fi(row, yearI)
@@ -599,7 +604,9 @@ class TeiFromDocx(PageInfo):
                 )
             )
 
-        self.console(f"\tfound metadata for {len(information)} letters")
+        self.console(
+            f"\tfound metadata for {sum(len(x) for x in information.values())} letters"
+        )
 
     def trimPage(self, filza, letter, textNum, spec, pages):
         rotateInfo = self.rotateInfo
@@ -619,6 +626,9 @@ class TeiFromDocx(PageInfo):
         logicalPages = "".join(elements)
         return f"""{logicalPages}"""
 
+    def addExtra(self, info):
+        pass
+
     def transformFilza(self, file, filza):
         if self.error:
             return
@@ -630,6 +640,9 @@ class TeiFromDocx(PageInfo):
         self.pageSeq[filza] = []
         self.filzaPages[filza] = collections.defaultdict(list)
         self.filzaPageNums[filza] = {}
+
+        extraLog = self.extraLog
+        extraLog[filza] = {}
 
         letters = LETTER_SPLIT_RE.split(text)[1:]
         letters[-1] = STRIPTAIL_RE.sub("", letters[-1])
@@ -652,6 +665,7 @@ class TeiFromDocx(PageInfo):
         if self.error:
             return
 
+        extraLogFilza = self.extraLog[filza]
         pageInfo = self.pageInfo
         extraLetterData = self.extraLetterData
         transcriberInfo = self.transcriberInfo
@@ -934,6 +948,14 @@ class TeiFromDocx(PageInfo):
             editorNotes = extraData[EDITORNOTES]
             resources = extraData[RESOURCES]
             shelfmark = extraData[SHELFMARK]
+
+            extraLogFilza[normalizedDate] = dict(
+                sender=sender,
+                senderLoc=senderLoc,
+                recipient=recipient,
+                recipientLoc=recipientLoc,
+                shelfmark=shelfmark,
+            )
 
         return TEMPLATE.format(
             filza=filza,
@@ -1300,6 +1322,9 @@ class TeiFromDocx(PageInfo):
         self.pageWarnings = []
         self.pageWarningCount = 0
 
+        extraLog = {}
+        self.extraLog = extraLog
+
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhp = open(REPORT_PAGEWARNINGS, mode="w")
 
@@ -1446,7 +1471,11 @@ class TeiFromDocx(PageInfo):
                             rh.write(f"\t\t\t{msg1}\n\t\t\t{msg2}\n{msg3}{msg4}")
 
                     if nLetters != 1:
-                        label = "missing letter text" if nLetters == 0 else "multiple letter texts"
+                        label = (
+                            "missing letter text"
+                            if nLetters == 0
+                            else "multiple letter texts"
+                        )
                         self.pageWarn(
                             True,
                             label,
@@ -1460,6 +1489,8 @@ class TeiFromDocx(PageInfo):
                 for letter, transcribers in sorted(letterInfo.items()):
                     tRep = ", ".join(sorted(transcribers))
                     lh.write(f"\t{letter} {tRep}\n")
+
+        writeYaml(extraLog, asFile=EXTRAINFO_YML)
 
         self.showPageWarnings()
         self.showWarnings()

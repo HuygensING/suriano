@@ -19,43 +19,43 @@
 @valueType=str
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T13:58:22Z
+@dateWritten=2024-08-13T15:23:32Z
 
-1666881	italic
+1769184	italic
 footnote
-1666884	footnote
-1666886	footnote
-1666890	footnote
-1666893	footnote
-1666895	footnote
-1666898	superscript
+1769187	footnote
+1769189	footnote
+1769193	footnote
+1769196	footnote
+1769198	footnote
+1769201	superscript
 superscript
 italic
 superscript
 smallcaps
 italic
 footnote
-1666907	footnote
-1666909	footnote
-1666912	footnote
-1666914	footnote
-1666916	footnote
-1666918	footnote
-1666920	footnote
-1666922	footnote
-1666924	footnote
-1666927	footnote
-1666930	footnote
-1666932	italic
+1769210	footnote
+1769212	footnote
+1769215	footnote
+1769217	footnote
+1769219	footnote
+1769221	footnote
+1769223	footnote
+1769225	footnote
+1769227	footnote
+1769230	footnote
+1769233	footnote
+1769235	italic
 italic
 footnote
-1666936	footnote
-1666938	footnote
-1666940	footnote
-1666942	footnote
-1666944	footnote
-1666946	footnote
-1666949	italic
+1769239	footnote
+1769241	footnote
+1769243	footnote
+1769245	footnote
+1769247	footnote
+1769249	footnote
+1769252	italic
 italic
 superscript
 italic
@@ -64,171 +64,31 @@ italic
 italic
 italic
 footnote
-1666959	footnote
-1666961	footnote
-1666963	footnote
-1666966	footnote
-1666970	footnote
-1666973	footnote
-1666976	footnote
-1666978	footnote
-1666980	footnote
-1666983	footnote
-1666985	footnote
-1666987	footnote
-1666989	footnote
-1666991	footnote
-1666993	footnote
-1666995	footnote
-1666998	footnote
-1667001	footnote
-1667004	footnote
-1667007	footnote
-1667009	footnote
-1667011	footnote
-1667016	footnote
-1667018	footnote
-1667021	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-footnote
-1667050	footnote
-1667052	footnote
-1667056	footnote
-1667058	footnote
-1667061	footnote
-1667063	footnote
-1667065	footnote
-1667067	footnote
-1667070	footnote
-1667074	footnote
-1667076	footnote
-1667078	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1667124	footnote
-1667126	footnote
-1667128	footnote
-1667131	footnote
-1667133	footnote
-1667135	footnote
-1667138	footnote
-1667141	footnote
-1667143	footnote
-1667146	footnote
-1667148	footnote
-1667150	footnote
-1667152	footnote
-1667155	footnote
-1667157	footnote
-1667159	footnote
-1667161	footnote
-1667163	footnote
-1667165	footnote
-1667167	footnote
-1667169	footnote
-1667171	footnote
-1667173	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1667194	footnote
-1667196	footnote
-1667200	footnote
-1667202	footnote
-1667205	footnote
-1667208	footnote
-1667210	footnote
-1667212	italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
+1769262	footnote
+1769264	footnote
+1769266	footnote
+1769269	footnote
+1769273	footnote
+1769276	footnote
+1769279	footnote
+1769281	footnote
+1769283	footnote
+1769286	footnote
+1769288	footnote
+1769290	footnote
+1769292	footnote
+1769294	footnote
+1769296	footnote
+1769298	footnote
+1769301	footnote
+1769304	footnote
+1769307	footnote
+1769310	footnote
+1769312	footnote
+1769314	footnote
+1769319	footnote
+1769321	footnote
+1769324	superscript
 italic
 italic
 italic
@@ -253,30 +113,170 @@ italic
 italic
 superscript
 italic
+italic
+italic
+footnote
+1769353	footnote
+1769355	footnote
+1769359	footnote
+1769361	footnote
+1769364	footnote
+1769366	footnote
+1769368	footnote
+1769370	footnote
+1769373	footnote
+1769377	footnote
+1769379	footnote
+1769381	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1769427	footnote
+1769429	footnote
+1769431	footnote
+1769434	footnote
+1769436	footnote
+1769438	footnote
+1769441	footnote
+1769444	footnote
+1769446	footnote
+1769449	footnote
+1769451	footnote
+1769453	footnote
+1769455	footnote
+1769458	footnote
+1769460	footnote
+1769462	footnote
+1769464	footnote
+1769466	footnote
+1769468	footnote
+1769470	footnote
+1769472	footnote
+1769474	footnote
+1769476	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1769497	footnote
+1769499	footnote
+1769503	footnote
+1769505	footnote
+1769508	footnote
+1769511	footnote
+1769513	footnote
+1769515	italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
 superscript
 footnote
-1667247	footnote
-1667250	footnote
-1667253	footnote
-1667256	footnote
-1667259	footnote
-1667262	footnote
-1667265	footnote
-1667268	footnote
-1667271	footnote
-1667274	footnote
-1667277	footnote
-1667279	italic
+1769550	footnote
+1769553	footnote
+1769556	footnote
+1769559	footnote
+1769562	footnote
+1769565	footnote
+1769568	footnote
+1769571	footnote
+1769574	footnote
+1769577	footnote
+1769580	footnote
+1769582	italic
 smallcaps
 footnote
-1667283	footnote
-1667286	footnote
-1667288	footnote
-1667290	footnote
-1667292	footnote
-1667294	footnote
-1667297	footnote
-1667300	italic
+1769586	footnote
+1769589	footnote
+1769591	footnote
+1769593	footnote
+1769595	footnote
+1769597	footnote
+1769600	footnote
+1769603	italic
 italic
 italic
 italic
@@ -286,11 +286,11 @@ smallcaps
 italic
 italic
 footnote
-1667311	footnote
-1667313	footnote
-1667316	footnote
-1667318	footnote
-1667320	superscript
+1769614	footnote
+1769616	footnote
+1769619	footnote
+1769621	footnote
+1769623	superscript
 italic
 superscript
 italic
@@ -302,17 +302,17 @@ italic
 italic
 italic
 footnote
-1667334	footnote
-1667336	footnote
-1667339	footnote
-1667341	footnote
-1667344	footnote
-1667347	footnote
-1667349	footnote
-1667353	footnote
-1667355	footnote
-1667357	footnote
-1667359	superscript
+1769637	footnote
+1769639	footnote
+1769642	footnote
+1769644	footnote
+1769647	footnote
+1769650	footnote
+1769652	footnote
+1769656	footnote
+1769658	footnote
+1769660	footnote
+1769662	superscript
 italic
 superscript
 italic
@@ -325,57 +325,57 @@ superscript
 italic
 superscript
 footnote
-1667374	footnote
-1667377	footnote
-1667380	footnote
-1667382	footnote
-1667385	footnote
-1667388	footnote
-1667391	footnote
-1667394	footnote
-1667396	footnote
-1667399	footnote
-1667401	footnote
-1667403	footnote
-1667406	footnote
-1667409	footnote
-1667412	footnote
-1667414	footnote
-1667417	footnote
-1667419	footnote
-1667421	footnote
-1667423	footnote
-1667426	footnote
-1667429	footnote
-1667432	footnote
-1667434	footnote
-1667436	footnote
-1667439	footnote
-1667442	footnote
-1667445	footnote
-1667447	footnote
-1667449	footnote
-1667451	footnote
-1667453	footnote
-1667455	footnote
-1667458	footnote
-1667461	footnote
-1667464	footnote
-1667467	footnote
-1667469	footnote
-1667472	footnote
-1667474	footnote
-1667476	footnote
-1667478	footnote
-1667481	footnote
-1667483	footnote
-1667486	footnote
-1667488	footnote
-1667490	footnote
-1667492	footnote
-1667495	footnote
-1667497	footnote
-1667499	italic
+1769677	footnote
+1769680	footnote
+1769683	footnote
+1769685	footnote
+1769688	footnote
+1769691	footnote
+1769694	footnote
+1769697	footnote
+1769699	footnote
+1769702	footnote
+1769704	footnote
+1769706	footnote
+1769709	footnote
+1769712	footnote
+1769715	footnote
+1769717	footnote
+1769720	footnote
+1769722	footnote
+1769724	footnote
+1769726	footnote
+1769729	footnote
+1769732	footnote
+1769735	footnote
+1769737	footnote
+1769739	footnote
+1769742	footnote
+1769745	footnote
+1769748	footnote
+1769750	footnote
+1769752	footnote
+1769754	footnote
+1769756	footnote
+1769758	footnote
+1769761	footnote
+1769764	footnote
+1769767	footnote
+1769770	footnote
+1769772	footnote
+1769775	footnote
+1769777	footnote
+1769779	footnote
+1769781	footnote
+1769784	footnote
+1769786	footnote
+1769789	footnote
+1769791	footnote
+1769793	footnote
+1769795	footnote
+1769798	footnote
+1769800	footnote
+1769802	italic
 italic
 italic
 italic
@@ -393,48 +393,48 @@ italic
 italic
 italic
 footnote
-1667518	footnote
-1667520	footnote
-1667522	footnote
-1667524	footnote
-1667527	footnote
-1667529	footnote
-1667531	footnote
-1667533	footnote
-1667535	footnote
-1667537	footnote
-1667539	footnote
-1667542	footnote
-1667544	footnote
-1667547	footnote
-1667550	italic
+1769821	footnote
+1769823	footnote
+1769825	footnote
+1769827	footnote
+1769830	footnote
+1769832	footnote
+1769834	footnote
+1769836	footnote
+1769838	footnote
+1769840	footnote
+1769842	footnote
+1769845	footnote
+1769847	footnote
+1769850	footnote
+1769853	italic
 italic
 footnote
-1667554	footnote
-1667556	footnote
-1667558	footnote
-1667560	footnote
-1667562	footnote
-1667565	footnote
-1667567	footnote
-1667569	footnote
-1667571	footnote
-1667574	footnote
-1667577	footnote
-1667579	footnote
-1667582	footnote
-1667584	footnote
-1667586	footnote
-1667588	footnote
-1667590	footnote
-1667592	footnote
-1667594	italic
+1769857	footnote
+1769859	footnote
+1769861	footnote
+1769863	footnote
+1769865	footnote
+1769868	footnote
+1769870	footnote
+1769872	footnote
+1769874	footnote
+1769877	footnote
+1769880	footnote
+1769882	footnote
+1769885	footnote
+1769887	footnote
+1769889	footnote
+1769891	footnote
+1769893	footnote
+1769895	footnote
+1769897	italic
 italic
 footnote
-1667598	footnote
-1667600	footnote
-1667604	footnote
-1667606	italic
+1769901	footnote
+1769903	footnote
+1769907	footnote
+1769909	italic
 italic
 superscript
 italic
@@ -447,13 +447,13 @@ superscript
 italic
 superscript
 footnote
-1667620	footnote
-1667622	footnote
-1667624	footnote
-1667626	footnote
-1667629	footnote
-1667631	footnote
-1667634	italic
+1769923	footnote
+1769925	footnote
+1769927	footnote
+1769929	footnote
+1769932	footnote
+1769934	footnote
+1769937	italic
 italic
 italic
 italic
@@ -461,51 +461,51 @@ bold
 italic
 italic
 footnote
-1667643	footnote
-1667646	footnote
-1667649	footnote
-1667653	footnote
-1667655	footnote
-1667657	footnote
-1667660	footnote
-1667662	footnote
-1667665	footnote
-1667668	footnote
-1667670	footnote
-1667673	footnote
-1667676	footnote
-1667678	footnote
-1667681	footnote
-1667684	footnote
-1667687	footnote
-1667690	footnote
-1667693	footnote
-1667696	footnote
-1667698	footnote
-1667701	footnote
-1667703	footnote
-1667705	footnote
-1667707	footnote
-1667710	footnote
-1667714	footnote
-1667717	footnote
-1667719	footnote
-1667721	footnote
-1667723	footnote
-1667726	footnote
-1667729	footnote
-1667733	footnote
-1667736	footnote
-1667739	footnote
-1667742	footnote
-1667745	footnote
-1667748	footnote
-1667750	footnote
-1667753	footnote
-1667755	footnote
-1667757	footnote
-1667759	footnote
-1667761	italic
+1769946	footnote
+1769949	footnote
+1769952	footnote
+1769956	footnote
+1769958	footnote
+1769960	footnote
+1769963	footnote
+1769965	footnote
+1769968	footnote
+1769971	footnote
+1769973	footnote
+1769976	footnote
+1769979	footnote
+1769981	footnote
+1769984	footnote
+1769987	footnote
+1769990	footnote
+1769993	footnote
+1769996	footnote
+1769999	footnote
+1770001	footnote
+1770004	footnote
+1770006	footnote
+1770008	footnote
+1770010	footnote
+1770013	footnote
+1770017	footnote
+1770020	footnote
+1770022	footnote
+1770024	footnote
+1770026	footnote
+1770029	footnote
+1770032	footnote
+1770036	footnote
+1770039	footnote
+1770042	footnote
+1770045	footnote
+1770048	footnote
+1770051	footnote
+1770053	footnote
+1770056	footnote
+1770058	footnote
+1770060	footnote
+1770062	footnote
+1770064	italic
 superscript
 smallcaps
 italic
@@ -513,63 +513,63 @@ superscript
 italic
 superscript
 footnote
-1667770	footnote
-1667773	footnote
-1667775	footnote
-1667778	footnote
-1667780	footnote
-1667782	footnote
-1667784	italic
+1770073	footnote
+1770076	footnote
+1770078	footnote
+1770081	footnote
+1770083	footnote
+1770085	footnote
+1770087	italic
 italic
 italic
 italic
 italic
 italic
 footnote
-1667793	footnote
-1667795	footnote
-1667797	footnote
-1667799	footnote
-1667801	footnote
-1667803	footnote
-1667805	footnote
-1667808	footnote
-1667810	footnote
-1667813	footnote
-1667816	footnote
-1667818	footnote
-1667821	footnote
-1667823	footnote
-1667825	footnote
-1667827	footnote
-1667830	footnote
-1667832	footnote
-1667834	footnote
-1667836	footnote
-1667838	footnote
-1667841	footnote
-1667843	footnote
-1667846	footnote
-1667848	footnote
-1667850	superscript
+1770096	footnote
+1770098	footnote
+1770100	footnote
+1770102	footnote
+1770104	footnote
+1770106	footnote
+1770108	footnote
+1770111	footnote
+1770113	footnote
+1770116	footnote
+1770119	footnote
+1770121	footnote
+1770124	footnote
+1770126	footnote
+1770128	footnote
+1770130	footnote
+1770133	footnote
+1770135	footnote
+1770137	footnote
+1770139	footnote
+1770141	footnote
+1770144	footnote
+1770146	footnote
+1770149	footnote
+1770151	footnote
+1770153	superscript
 italic
 superscript
 footnote
-1667856	footnote
-1667858	footnote
-1667860	footnote
-1667862	footnote
-1667864	footnote
-1667866	footnote
-1667869	footnote
-1667871	footnote
-1667873	footnote
-1667876	footnote
-1667879	footnote
-1667882	footnote
-1667884	footnote
-1667887	footnote
-1667889	superscript
+1770159	footnote
+1770161	footnote
+1770163	footnote
+1770165	footnote
+1770167	footnote
+1770169	footnote
+1770172	footnote
+1770174	footnote
+1770176	footnote
+1770179	footnote
+1770182	footnote
+1770185	footnote
+1770187	footnote
+1770190	footnote
+1770192	superscript
 italic
 italic
 superscript
@@ -580,42 +580,42 @@ italic
 italic
 italic
 footnote
-1667901	footnote
-1667903	footnote
-1667906	footnote
-1667908	footnote
-1667910	footnote
-1667912	footnote
-1667914	footnote
-1667916	footnote
-1667918	footnote
-1667921	footnote
-1667923	footnote
-1667926	footnote
-1667929	footnote
-1667931	footnote
-1667933	footnote
-1667935	footnote
-1667937	footnote
-1667939	footnote
-1667942	italic
+1770204	footnote
+1770206	footnote
+1770209	footnote
+1770211	footnote
+1770213	footnote
+1770215	footnote
+1770217	footnote
+1770219	footnote
+1770221	footnote
+1770224	footnote
+1770226	footnote
+1770229	footnote
+1770232	footnote
+1770234	footnote
+1770236	footnote
+1770238	footnote
+1770240	footnote
+1770242	footnote
+1770245	italic
 italic
 footnote
-1667946	footnote
-1667948	footnote
-1667950	footnote
-1667952	footnote
-1667954	footnote
-1667956	footnote
-1667958	footnote
-1667960	footnote
-1667962	footnote
-1667964	footnote
-1667966	footnote
-1667968	footnote
-1667970	footnote
-1667974	footnote
-1667976	italic
+1770249	footnote
+1770251	footnote
+1770253	footnote
+1770255	footnote
+1770257	footnote
+1770259	footnote
+1770261	footnote
+1770263	footnote
+1770265	footnote
+1770267	footnote
+1770269	footnote
+1770271	footnote
+1770273	footnote
+1770277	footnote
+1770279	italic
 italic
 italic
 italic
@@ -631,25 +631,25 @@ italic
 italic
 italic
 footnote
-1667994	footnote
-1667996	footnote
-1667998	footnote
-1668001	footnote
-1668003	footnote
-1668005	footnote
-1668008	footnote
-1668010	footnote
-1668012	footnote
-1668014	footnote
-1668016	footnote
-1668019	footnote
-1668022	footnote
-1668025	footnote
-1668027	footnote
-1668029	footnote
-1668031	footnote
-1668033	footnote
-1668035	superscript
+1770297	footnote
+1770299	footnote
+1770301	footnote
+1770304	footnote
+1770306	footnote
+1770308	footnote
+1770311	footnote
+1770313	footnote
+1770315	footnote
+1770317	footnote
+1770319	footnote
+1770322	footnote
+1770325	footnote
+1770328	footnote
+1770330	footnote
+1770332	footnote
+1770334	footnote
+1770336	footnote
+1770338	superscript
 italic
 superscript
 italic
@@ -660,76 +660,76 @@ italic
 bold
 italic
 footnote
-1668047	footnote
-1668049	footnote
-1668053	footnote
-1668055	footnote
-1668057	footnote
-1668060	footnote
-1668062	footnote
-1668065	italic
+1770350	footnote
+1770352	footnote
+1770356	footnote
+1770358	footnote
+1770360	footnote
+1770363	footnote
+1770365	footnote
+1770368	italic
 italic
 italic
 italic
 italic
 footnote
-1668073	footnote
-1668075	footnote
-1668077	footnote
-1668079	footnote
-1668081	footnote
-1668084	footnote
-1668086	footnote
-1668088	footnote
-1668091	footnote
-1668093	footnote
-1668095	superscript
+1770376	footnote
+1770378	footnote
+1770380	footnote
+1770382	footnote
+1770384	footnote
+1770387	footnote
+1770389	footnote
+1770391	footnote
+1770394	footnote
+1770396	footnote
+1770398	superscript
 superscript
 italic
 superscript
 footnote
-1668101	footnote
-1668103	footnote
-1668106	footnote
-1668108	italic
+1770404	footnote
+1770406	footnote
+1770409	footnote
+1770411	italic
 italic
 footnote
-1668112	footnote
-1668115	footnote
-1668117	footnote
-1668119	footnote
-1668121	footnote
-1668124	superscript
-superscript
-italic
-superscript
-footnote
-1668130	footnote
-1668132	footnote
-1668135	footnote
-1668138	footnote
-1668140	footnote
-1668143	footnote
-1668146	footnote
-1668148	footnote
-1668150	footnote
-1668153	superscript
-italic
-italic
-superscript
-italic
+1770415	footnote
+1770418	footnote
+1770420	footnote
+1770422	footnote
+1770424	footnote
+1770427	superscript
 superscript
 italic
 superscript
 footnote
-1668164	footnote
-1668166	footnote
-1668168	footnote
-1668170	footnote
-1668172	footnote
-1668174	footnote
-1668176	footnote
-1668179	italic
+1770433	footnote
+1770435	footnote
+1770438	footnote
+1770441	footnote
+1770443	footnote
+1770446	footnote
+1770449	footnote
+1770451	footnote
+1770453	footnote
+1770456	superscript
+italic
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1770467	footnote
+1770469	footnote
+1770471	footnote
+1770473	footnote
+1770475	footnote
+1770477	footnote
+1770479	footnote
+1770482	italic
 italic
 italic
 italic
@@ -737,13 +737,13 @@ italic
 italic
 italic
 footnote
-1668189	footnote
-1668192	footnote
-1668195	footnote
-1668197	footnote
-1668199	footnote
-1668201	footnote
-1668203	superscript
+1770492	footnote
+1770495	footnote
+1770498	footnote
+1770500	footnote
+1770502	footnote
+1770504	footnote
+1770506	superscript
 italic
 italic
 italic
@@ -791,19 +791,19 @@ superscript
 italic
 italic
 footnote
-1668252	footnote
-1668254	footnote
-1668256	footnote
-1668258	footnote
-1668260	footnote
-1668263	footnote
-1668265	footnote
-1668268	footnote
-1668271	footnote
-1668273	footnote
-1668276	footnote
-1668278	footnote
-1668281	superscript
+1770555	footnote
+1770557	footnote
+1770559	footnote
+1770561	footnote
+1770563	footnote
+1770566	footnote
+1770568	footnote
+1770571	footnote
+1770574	footnote
+1770576	footnote
+1770579	footnote
+1770581	footnote
+1770584	superscript
 smallcaps
 italic
 superscript
@@ -812,10 +812,10 @@ superscript
 italic
 italic
 footnote
-1668292	footnote
-1668295	footnote
-1668297	footnote
-1668301	italic
+1770595	footnote
+1770598	footnote
+1770600	footnote
+1770604	italic
 italic
 italic
 italic
@@ -842,22 +842,22 @@ superscript
 italic
 italic
 footnote
-1668329	footnote
-1668332	footnote
-1668334	footnote
-1668336	footnote
-1668338	footnote
-1668340	footnote
-1668342	footnote
-1668345	footnote
-1668348	footnote
-1668351	footnote
-1668354	footnote
-1668356	footnote
-1668359	footnote
-1668362	footnote
-1668366	footnote
-1668368	italic
+1770632	footnote
+1770635	footnote
+1770637	footnote
+1770639	footnote
+1770641	footnote
+1770643	footnote
+1770645	footnote
+1770648	footnote
+1770651	footnote
+1770654	footnote
+1770657	footnote
+1770659	footnote
+1770662	footnote
+1770665	footnote
+1770669	footnote
+1770671	italic
 italic
 italic
 italic
@@ -868,41 +868,41 @@ italic
 italic
 italic
 footnote
-1668380	footnote
-1668382	footnote
-1668385	footnote
-1668388	footnote
-1668390	footnote
-1668392	footnote
-1668394	footnote
-1668396	footnote
-1668398	footnote
-1668400	footnote
-1668402	footnote
-1668404	footnote
-1668406	footnote
-1668408	footnote
-1668411	footnote
-1668413	footnote
-1668415	footnote
-1668417	footnote
-1668419	footnote
-1668421	footnote
-1668423	footnote
-1668425	footnote
-1668428	footnote
-1668430	footnote
-1668432	footnote
-1668435	footnote
-1668438	footnote
-1668441	footnote
-1668443	footnote
-1668446	footnote
-1668449	footnote
-1668451	footnote
-1668453	footnote
-1668455	footnote
-1668458	superscript
+1770683	footnote
+1770685	footnote
+1770688	footnote
+1770691	footnote
+1770693	footnote
+1770695	footnote
+1770697	footnote
+1770699	footnote
+1770701	footnote
+1770703	footnote
+1770705	footnote
+1770707	footnote
+1770709	footnote
+1770711	footnote
+1770714	footnote
+1770716	footnote
+1770718	footnote
+1770720	footnote
+1770722	footnote
+1770724	footnote
+1770726	footnote
+1770728	footnote
+1770731	footnote
+1770733	footnote
+1770735	footnote
+1770738	footnote
+1770741	footnote
+1770744	footnote
+1770746	footnote
+1770749	footnote
+1770752	footnote
+1770754	footnote
+1770756	footnote
+1770758	footnote
+1770761	superscript
 bold
 italic
 superscript
@@ -918,26 +918,26 @@ superscript
 italic
 italic
 footnote
-1668475	footnote
-1668478	footnote
-1668481	footnote
-1668484	footnote
-1668487	footnote
-1668490	footnote
-1668492	footnote
-1668494	footnote
-1668497	footnote
-1668499	footnote
-1668502	footnote
-1668504	footnote
-1668506	footnote
-1668509	footnote
-1668512	footnote
-1668516	footnote
-1668520	footnote
-1668523	footnote
-1668526	footnote
-1668529	italic
+1770778	footnote
+1770781	footnote
+1770784	footnote
+1770787	footnote
+1770790	footnote
+1770793	footnote
+1770795	footnote
+1770797	footnote
+1770800	footnote
+1770802	footnote
+1770805	footnote
+1770807	footnote
+1770809	footnote
+1770812	footnote
+1770815	footnote
+1770819	footnote
+1770823	footnote
+1770826	footnote
+1770829	footnote
+1770832	italic
 italic
 italic
 italic
@@ -948,35 +948,23 @@ smallcaps
 superscript
 smallcaps
 footnote
-1668541	footnote
-1668544	footnote
-1668547	footnote
-1668550	footnote
-1668552	footnote
-1668555	footnote
-1668558	footnote
-1668560	footnote
-1668563	footnote
-1668565	footnote
-1668568	footnote
-1668571	footnote
-1668574	footnote
-1668576	footnote
-1668578	footnote
-1668580	footnote
-1668582	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-bold
-italic
-italic
-italic
-italic
-italic
+1770844	footnote
+1770847	footnote
+1770850	footnote
+1770853	footnote
+1770855	footnote
+1770858	footnote
+1770861	footnote
+1770863	footnote
+1770866	footnote
+1770868	footnote
+1770871	footnote
+1770874	footnote
+1770877	footnote
+1770879	footnote
+1770881	footnote
+1770883	footnote
+1770885	superscript
 italic
 italic
 italic
@@ -985,36 +973,48 @@ italic
 italic
 bold
 italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+bold
+italic
 superscript
 italic
 superscript
 italic
 italic
 footnote
-1668610	footnote
-1668614	footnote
-1668616	footnote
-1668619	footnote
-1668622	footnote
-1668624	footnote
-1668627	footnote
-1668629	footnote
-1668632	footnote
-1668634	footnote
-1668637	footnote
-1668640	footnote
-1668642	footnote
-1668645	footnote
-1668647	footnote
-1668650	footnote
-1668652	footnote
-1668655	footnote
-1668658	footnote
-1668660	footnote
-1668663	footnote
-1668665	footnote
-1668668	footnote
-1668670	italic
+1770913	footnote
+1770917	footnote
+1770919	footnote
+1770922	footnote
+1770925	footnote
+1770927	footnote
+1770930	footnote
+1770932	footnote
+1770935	footnote
+1770937	footnote
+1770940	footnote
+1770943	footnote
+1770945	footnote
+1770948	footnote
+1770950	footnote
+1770953	footnote
+1770955	footnote
+1770958	footnote
+1770961	footnote
+1770963	footnote
+1770966	footnote
+1770968	footnote
+1770971	footnote
+1770973	italic
 italic
 italic
 italic
@@ -1024,24 +1024,24 @@ italic
 italic
 italic
 footnote
-1668681	footnote
-1668683	footnote
-1668685	footnote
-1668688	footnote
-1668690	footnote
-1668692	footnote
-1668695	footnote
-1668697	footnote
-1668699	footnote
-1668701	footnote
-1668703	footnote
-1668705	footnote
-1668707	footnote
-1668709	footnote
-1668711	footnote
-1668713	footnote
-1668715	footnote
-1668717	italic
+1770984	footnote
+1770986	footnote
+1770988	footnote
+1770991	footnote
+1770993	footnote
+1770995	footnote
+1770998	footnote
+1771000	footnote
+1771002	footnote
+1771004	footnote
+1771006	footnote
+1771008	footnote
+1771010	footnote
+1771012	footnote
+1771014	footnote
+1771016	footnote
+1771018	footnote
+1771020	italic
 italic
 superscript
 italic
@@ -1061,32 +1061,32 @@ bold
 superscript
 bold
 footnote
-1668739	footnote
-1668741	footnote
-1668744	footnote
-1668746	footnote
-1668749	footnote
-1668751	footnote
-1668754	footnote
-1668757	footnote
-1668760	footnote
-1668762	footnote
-1668764	footnote
-1668766	footnote
-1668769	footnote
-1668771	smallcaps
+1771042	footnote
+1771044	footnote
+1771047	footnote
+1771049	footnote
+1771052	footnote
+1771054	footnote
+1771057	footnote
+1771060	footnote
+1771063	footnote
+1771065	footnote
+1771067	footnote
+1771069	footnote
+1771072	footnote
+1771074	smallcaps
 italic
 footnote
-1668776	footnote
-1668779	footnote
-1668781	footnote
-1668783	footnote
-1668785	footnote
-1668787	footnote
-1668789	footnote
-1668792	footnote
-1668794	footnote
-1668797	superscript
+1771079	footnote
+1771082	footnote
+1771084	footnote
+1771086	footnote
+1771088	footnote
+1771090	footnote
+1771092	footnote
+1771095	footnote
+1771097	footnote
+1771100	superscript
 italic
 italic
 italic
@@ -1100,23 +1100,6 @@ italic
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-superscript
-footnote
-1668819	footnote
-1668822	footnote
-1668824	footnote
-1668826	footnote
-1668828	footnote
-1668830	footnote
-1668832	footnote
-1668834	footnote
-1668836	footnote
-1668838	bold
 italic
 italic
 italic
@@ -1124,31 +1107,48 @@ italic
 italic
 superscript
 footnote
-1668848	footnote
-1668851	footnote
-1668853	footnote
-1668856	footnote
-1668859	footnote
-1668862	footnote
-1668864	footnote
-1668867	footnote
-1668869	footnote
-1668871	footnote
-1668874	footnote
-1668876	footnote
-1668878	footnote
-1668880	footnote
-1668882	footnote
-1668886	footnote
-1668888	footnote
-1668891	footnote
-1668894	footnote
-1668896	footnote
-1668898	footnote
-1668900	footnote
-1668903	footnote
-1668906	footnote
-1668909	superscript
+1771122	footnote
+1771125	footnote
+1771127	footnote
+1771129	footnote
+1771131	footnote
+1771133	footnote
+1771135	footnote
+1771137	footnote
+1771139	footnote
+1771141	bold
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1771151	footnote
+1771154	footnote
+1771156	footnote
+1771159	footnote
+1771162	footnote
+1771165	footnote
+1771167	footnote
+1771170	footnote
+1771172	footnote
+1771174	footnote
+1771177	footnote
+1771179	footnote
+1771181	footnote
+1771183	footnote
+1771185	footnote
+1771189	footnote
+1771191	footnote
+1771194	footnote
+1771197	footnote
+1771199	footnote
+1771201	footnote
+1771203	footnote
+1771206	footnote
+1771209	footnote
+1771212	superscript
 superscript
 italic
 superscript
@@ -1160,51 +1160,51 @@ italic
 superscript
 italic
 footnote
-1668922	footnote
-1668925	footnote
-1668928	footnote
-1668930	footnote
-1668934	footnote
-1668936	footnote
-1668939	footnote
-1668942	footnote
-1668944	footnote
-1668946	footnote
-1668948	footnote
-1668951	footnote
-1668955	footnote
-1668957	footnote
-1668959	footnote
-1668962	footnote
-1668964	footnote
-1668967	footnote
-1668969	footnote
-1668971	footnote
-1668973	footnote
-1668975	italic
+1771225	footnote
+1771228	footnote
+1771231	footnote
+1771233	footnote
+1771237	footnote
+1771239	footnote
+1771242	footnote
+1771245	footnote
+1771247	footnote
+1771249	footnote
+1771251	footnote
+1771254	footnote
+1771258	footnote
+1771260	footnote
+1771262	footnote
+1771265	footnote
+1771267	footnote
+1771270	footnote
+1771272	footnote
+1771274	footnote
+1771276	footnote
+1771278	italic
 italic
 footnote
-1668979	footnote
-1668982	italic
+1771282	footnote
+1771285	italic
 italic
 footnote
-1668987	footnote
-1668990	footnote
-1668992	footnote
-1668995	footnote
-1668997	footnote
-1669000	superscript
+1771290	footnote
+1771293	footnote
+1771295	footnote
+1771298	footnote
+1771300	footnote
+1771303	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1669007	footnote
-1669009	footnote
-1669012	footnote
-1669014	footnote
-1669017	footnote
-1669019	italic
+1771310	footnote
+1771312	footnote
+1771315	footnote
+1771317	footnote
+1771320	footnote
+1771322	italic
 italic
 italic
 italic
@@ -1213,71 +1213,71 @@ italic
 bold
 bold
 footnote
-1669029	footnote
-1669032	footnote
-1669035	footnote
-1669037	footnote
-1669039	footnote
-1669042	footnote
-1669044	footnote
-1669046	footnote
-1669049	footnote
-1669051	footnote
-1669054	footnote
-1669056	footnote
-1669058	footnote
-1669060	footnote
-1669063	footnote
-1669066	footnote
-1669068	footnote
-1669070	footnote
-1669072	footnote
-1669075	footnote
-1669078	footnote
-1669081	footnote
-1669084	footnote
-1669086	footnote
-1669088	footnote
-1669091	footnote
-1669094	footnote
-1669097	footnote
-1669100	footnote
-1669103	footnote
-1669106	footnote
-1669109	footnote
-1669112	footnote
-1669115	footnote
-1669118	footnote
-1669121	footnote
-1669124	superscript
+1771332	footnote
+1771335	footnote
+1771338	footnote
+1771340	footnote
+1771342	footnote
+1771345	footnote
+1771347	footnote
+1771349	footnote
+1771352	footnote
+1771354	footnote
+1771357	footnote
+1771359	footnote
+1771361	footnote
+1771363	footnote
+1771366	footnote
+1771369	footnote
+1771371	footnote
+1771373	footnote
+1771375	footnote
+1771378	footnote
+1771381	footnote
+1771384	footnote
+1771387	footnote
+1771389	footnote
+1771391	footnote
+1771394	footnote
+1771397	footnote
+1771400	footnote
+1771403	footnote
+1771406	footnote
+1771409	footnote
+1771412	footnote
+1771415	footnote
+1771418	footnote
+1771421	footnote
+1771424	footnote
+1771427	superscript
 superscript
 italic
 superscript
 bold
 footnote
-1669132	footnote
-1669135	footnote
-1669138	footnote
-1669141	footnote
-1669143	footnote
-1669146	footnote
-1669148	footnote
-1669151	footnote
-1669154	footnote
-1669157	footnote
-1669160	footnote
-1669163	footnote
-1669166	footnote
-1669169	italic
+1771435	footnote
+1771438	footnote
+1771441	footnote
+1771444	footnote
+1771446	footnote
+1771449	footnote
+1771451	footnote
+1771454	footnote
+1771457	footnote
+1771460	footnote
+1771463	footnote
+1771466	footnote
+1771469	footnote
+1771472	italic
 italic
 italic
 italic
 footnote
-1669175	footnote
-1669178	footnote
-1669181	footnote
-1669183	footnote
-1669185	superscript
+1771478	footnote
+1771481	footnote
+1771484	footnote
+1771486	footnote
+1771488	superscript
 italic
 italic
 superscript
@@ -1289,109 +1289,109 @@ superscript
 italic
 superscript
 footnote
-1669198	footnote
-1669200	footnote
-1669202	footnote
-1669205	footnote
-1669208	footnote
-1669211	footnote
-1669213	footnote
-1669216	footnote
-1669218	footnote
-1669221	footnote
-1669224	footnote
-1669227	footnote
-1669231	footnote
-1669233	footnote
-1669235	footnote
-1669238	footnote
-1669241	footnote
-1669243	footnote
-1669246	footnote
-1669249	footnote
-1669252	footnote
-1669255	footnote
-1669258	footnote
-1669261	footnote
-1669264	footnote
-1669266	footnote
-1669269	footnote
-1669272	footnote
-1669274	footnote
-1669277	footnote
-1669279	footnote
-1669282	footnote
-1669284	footnote
-1669287	footnote
-1669290	footnote
-1669293	footnote
-1669296	footnote
-1669299	footnote
-1669302	footnote
-1669305	footnote
-1669308	footnote
-1669311	footnote
-1669314	italic
+1771501	footnote
+1771503	footnote
+1771505	footnote
+1771508	footnote
+1771511	footnote
+1771514	footnote
+1771516	footnote
+1771519	footnote
+1771521	footnote
+1771524	footnote
+1771527	footnote
+1771530	footnote
+1771534	footnote
+1771536	footnote
+1771538	footnote
+1771541	footnote
+1771544	footnote
+1771546	footnote
+1771549	footnote
+1771552	footnote
+1771555	footnote
+1771558	footnote
+1771561	footnote
+1771564	footnote
+1771567	footnote
+1771569	footnote
+1771572	footnote
+1771575	footnote
+1771577	footnote
+1771580	footnote
+1771582	footnote
+1771585	footnote
+1771587	footnote
+1771590	footnote
+1771593	footnote
+1771596	footnote
+1771599	footnote
+1771602	footnote
+1771605	footnote
+1771608	footnote
+1771611	footnote
+1771614	footnote
+1771617	italic
 italic
 italic
 footnote
-1669319	footnote
-1669322	footnote
-1669324	footnote
-1669327	footnote
-1669330	footnote
-1669333	footnote
-1669335	footnote
-1669338	footnote
-1669340	footnote
-1669343	footnote
-1669345	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1669352	footnote
-1669355	footnote
-1669357	footnote
-1669360	footnote
-1669362	footnote
-1669364	footnote
-1669367	footnote
-1669369	footnote
-1669372	footnote
-1669375	footnote
-1669378	footnote
-1669380	footnote
-1669382	footnote
-1669384	footnote
-1669386	footnote
-1669388	footnote
-1669390	superscript
-italic
-superscript
+1771622	footnote
+1771625	footnote
+1771627	footnote
+1771630	footnote
+1771633	footnote
+1771636	footnote
+1771638	footnote
+1771641	footnote
+1771643	footnote
+1771646	footnote
+1771648	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1669399	footnote
-1669402	footnote
-1669405	footnote
-1669407	footnote
-1669409	footnote
-1669412	footnote
-1669415	footnote
-1669418	footnote
-1669420	footnote
-1669422	footnote
-1669425	footnote
-1669427	footnote
-1669429	footnote
-1669431	footnote
-1669433	footnote
-1669435	footnote
-1669437	italic
+1771655	footnote
+1771658	footnote
+1771660	footnote
+1771663	footnote
+1771665	footnote
+1771667	footnote
+1771670	footnote
+1771672	footnote
+1771675	footnote
+1771678	footnote
+1771681	footnote
+1771683	footnote
+1771685	footnote
+1771687	footnote
+1771689	footnote
+1771691	footnote
+1771693	superscript
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1771702	footnote
+1771705	footnote
+1771708	footnote
+1771710	footnote
+1771712	footnote
+1771715	footnote
+1771718	footnote
+1771721	footnote
+1771723	footnote
+1771725	footnote
+1771728	footnote
+1771730	footnote
+1771732	footnote
+1771734	footnote
+1771736	footnote
+1771738	footnote
+1771740	italic
 italic
 italic
 superscript
@@ -1408,1536 +1408,363 @@ italic
 italic
 italic
 footnote
-1669455	footnote
-1669457	footnote
-1669459	footnote
-1669461	footnote
-1669463	footnote
-1669465	footnote
-1669467	footnote
-1669469	italic
+1771758	footnote
+1771760	footnote
+1771762	footnote
+1771764	footnote
+1771766	footnote
+1771768	footnote
+1771770	footnote
+1771772	italic
 italic
 italic
 footnote
-1669475	footnote
-1669477	footnote
-1669479	footnote
-1669481	footnote
-1669483	footnote
-1669485	footnote
-1669487	footnote
-1669489	footnote
-1669491	footnote
-1669493	footnote
-1669496	footnote
-1669498	footnote
-1669500	footnote
-1669502	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1669510	footnote
-1669512	footnote
-1669515	footnote
-1669517	footnote
-1669519	footnote
-1669521	footnote
-1669524	footnote
-1669527	footnote
-1669530	italic
-footnote
-1669533	footnote
-1669535	footnote
-1669537	footnote
-1669539	footnote
-1669542	footnote
-1669544	footnote
-1669547	footnote
-1669549	footnote
-1669551	footnote
-1669553	superscript
+1771778	footnote
+1771780	footnote
+1771782	footnote
+1771784	footnote
+1771786	footnote
+1771788	footnote
+1771790	footnote
+1771792	footnote
+1771794	footnote
+1771796	footnote
+1771799	footnote
+1771801	footnote
+1771803	footnote
+1771805	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1669561	footnote
-1669564	footnote
-1669566	footnote
-1669569	footnote
-1669571	footnote
-1669574	footnote
-1669576	footnote
-1669579	footnote
-1669582	footnote
-1669585	superscript
+1771813	footnote
+1771815	footnote
+1771818	footnote
+1771820	footnote
+1771822	footnote
+1771824	footnote
+1771827	footnote
+1771830	footnote
+1771833	italic
+footnote
+1771836	footnote
+1771838	footnote
+1771840	footnote
+1771842	footnote
+1771845	footnote
+1771847	footnote
+1771850	footnote
+1771852	footnote
+1771854	footnote
+1771856	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1669593	footnote
-1669595	footnote
-1669597	italic
+1771864	footnote
+1771867	footnote
+1771869	footnote
+1771872	footnote
+1771874	footnote
+1771877	footnote
+1771879	footnote
+1771882	footnote
+1771885	footnote
+1771888	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1771896	footnote
+1771898	footnote
+1771900	italic
 italic
 smallcaps
 italic
 footnote
-1669604	footnote
-1669607	footnote
-1669609	footnote
-1669612	footnote
-1669614	footnote
-1669616	footnote
-1669618	footnote
-1669621	footnote
-1669623	footnote
-1669626	footnote
-1669628	footnote
-1669630	superscript
+1771907	footnote
+1771910	footnote
+1771912	footnote
+1771915	footnote
+1771917	footnote
+1771919	footnote
+1771921	footnote
+1771924	footnote
+1771926	footnote
+1771929	footnote
+1771931	footnote
+1771933	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1669637	footnote
-1669639	footnote
-1669641	footnote
-1669643	footnote
-1669645	footnote
-1669647	footnote
-1669649	footnote
-1669651	footnote
-1669654	smallcaps
+1771940	footnote
+1771942	footnote
+1771944	footnote
+1771946	footnote
+1771948	footnote
+1771950	footnote
+1771952	footnote
+1771954	footnote
+1771957	smallcaps
 italic
 italic
 superscript
 footnote
-1669660	footnote
-1669663	footnote
-1669665	footnote
-1669667	footnote
-1669670	footnote
-1669673	footnote
-1669676	footnote
-1669678	footnote
-1669680	footnote
-1669682	superscript
-smallcaps
-italic
-superscript
-italic
-superscript
-footnote
-1669690	footnote
-1669692	footnote
-1669694	footnote
-1669696	footnote
-1669698	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1669706	footnote
-1669710	footnote
-1669712	footnote
-1669714	footnote
-1669716	footnote
-1669718	footnote
-1669721	footnote
-1669723	footnote
-1669725	italic
-italic
-smallcaps
-italic
-italic
-footnote
-1669732	footnote
-1669734	footnote
-1669737	footnote
-1669740	footnote
-1669743	footnote
-1669745	footnote
-1669747	footnote
-1669750	superscript
-superscript
-italic
-superscript
-italic
-footnote
-1669757	footnote
-1669759	footnote
-1669762	footnote
-1669765	footnote
-1669768	footnote
-1669771	footnote
-1669774	footnote
-1669777	footnote
-1669779	footnote
-1669782	footnote
-1669784	footnote
-1669786	footnote
-1669789	footnote
-1669792	footnote
-1669794	footnote
-1669796	footnote
-1669798	italic
-footnote
-1669802	footnote
-1669804	footnote
-1669806	footnote
-1669809	footnote
-1669811	footnote
-1669813	footnote
-1669815	footnote
-1669817	footnote
-1669820	footnote
-1669822	footnote
-1669824	footnote
-1669828	footnote
-1669831	footnote
-1669833	superscript
-italic
-superscript
-italic
-superscript
-superscript
-smallcaps
-superscript
-footnote
-1669843	footnote
-1669845	footnote
-1669847	footnote
-1669849	footnote
-1669851	footnote
-1669853	footnote
-1669855	footnote
-1669857	footnote
-1669859	footnote
-1669862	footnote
-1669864	footnote
-1669867	footnote
-1669870	footnote
-1669872	footnote
-1669874	footnote
-1669877	footnote
-1669880	footnote
-1669883	footnote
-1669886	footnote
-1669888	footnote
-1669891	footnote
-1669894	footnote
-1669897	footnote
-1669899	footnote
-1669902	footnote
-1669904	footnote
-1669907	footnote
-1669910	footnote
-1669912	footnote
-1669914	footnote
-1669916	footnote
-1669919	footnote
-1669922	footnote
-1669924	italic
-footnote
-1669928	footnote
-1669932	footnote
-1669935	footnote
-1669937	footnote
-1669939	footnote
-1669942	footnote
-1669945	footnote
-1669947	footnote
-1669949	superscript
-italic
-superscript
-italic
-footnote
-1669955	footnote
-1669957	footnote
-1669959	footnote
-1669961	footnote
-1669963	footnote
-1669965	footnote
-1669967	footnote
-1669969	footnote
-1669971	superscript
-italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-footnote
-1669981	footnote
-1669984	footnote
-1669987	footnote
-1669990	footnote
-1669992	footnote
-1669995	footnote
-1669997	footnote
-1670000	footnote
-1670004	footnote
-1670007	footnote
-1670010	footnote
-1670012	footnote
-1670015	footnote
-1670017	footnote
-1670020	footnote
-1670022	superscript
-italic
-italic
-footnote
-1670028	footnote
-1670030	footnote
-1670033	footnote
-1670035	footnote
-1670037	footnote
-1670040	footnote
-1670042	superscript
-italic
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670052	footnote
-1670054	footnote
-1670057	footnote
-1670061	footnote
-1670064	footnote
-1670067	footnote
-1670069	footnote
-1670071	footnote
-1670074	footnote
-1670077	footnote
-1670080	footnote
-1670083	footnote
-1670086	footnote
-1670089	footnote
-1670092	footnote
-1670095	italic
-italic
-smallcaps
-superscript
-smallcaps
-superscript
-italic
-italic
-italic
-footnote
-1670107	footnote
-1670110	footnote
-1670113	footnote
-1670116	footnote
-1670118	footnote
-1670122	footnote
-1670124	footnote
-1670126	footnote
-1670128	footnote
-1670130	footnote
-1670132	footnote
-1670135	footnote
-1670137	footnote
-1670140	footnote
-1670143	footnote
-1670146	footnote
-1670149	footnote
-1670152	footnote
-1670155	footnote
-1670158	footnote
-1670162	footnote
-1670164	footnote
-1670167	footnote
-1670171	footnote
-1670173	footnote
-1670176	footnote
-1670179	footnote
-1670182	footnote
-1670185	footnote
-1670188	footnote
-1670190	footnote
-1670193	footnote
-1670196	superscript
-italic
-italic
-superscript
-italic
-smallcaps
-superscript
-italic
-superscript
-footnote
-1670209	footnote
-1670212	footnote
-1670214	footnote
-1670216	footnote
-1670220	footnote
-1670223	footnote
-1670226	smallcaps
-italic
-italic
-italic
-italic
-superscript
-footnote
-1670235	footnote
-1670238	footnote
-1670240	footnote
-1670242	footnote
-1670245	footnote
-1670248	footnote
-1670250	footnote
-1670253	footnote
-1670256	footnote
-1670258	footnote
-1670260	footnote
-1670262	footnote
-1670264	footnote
-1670266	footnote
-1670268	superscript
-italic
-italic
-superscript
-italic
-superscript
-superscript
-footnote
-1670277	footnote
-1670280	footnote
-1670283	footnote
-1670286	footnote
-1670289	footnote
-1670291	footnote
-1670294	footnote
-1670297	footnote
-1670300	footnote
-1670303	footnote
-1670305	footnote
-1670308	footnote
-1670310	footnote
-1670313	footnote
-1670316	footnote
-1670319	footnote
-1670322	footnote
-1670324	footnote
-1670329	footnote
-1670331	footnote
-1670333	footnote
-1670336	footnote
-1670339	footnote
-1670341	footnote
-1670344	footnote
-1670346	footnote
-1670348	footnote
-1670352	footnote
-1670354	footnote
-1670357	footnote
-1670359	footnote
-1670362	footnote
-1670364	footnote
-1670367	footnote
-1670370	footnote
-1670373	footnote
-1670376	footnote
-1670379	footnote
-1670382	footnote
-1670385	footnote
-1670388	footnote
-1670392	footnote
-1670394	footnote
-1670397	footnote
-1670399	footnote
-1670402	footnote
-1670404	footnote
-1670406	footnote
-1670409	footnote
-1670411	footnote
-1670414	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670422	footnote
-1670425	footnote
-1670427	footnote
-1670430	footnote
-1670433	italic
-italic
-italic
-footnote
-1670439	footnote
-1670441	footnote
-1670444	footnote
-1670447	footnote
-1670449	footnote
-1670451	footnote
-1670454	footnote
-1670457	footnote
-1670459	footnote
-1670462	footnote
-1670464	italic
-italic
-footnote
-1670469	footnote
-1670472	footnote
-1670475	footnote
-1670478	footnote
-1670481	footnote
-1670484	footnote
-1670486	footnote
-1670488	footnote
-1670491	footnote
-1670493	footnote
-1670495	footnote
-1670497	superscript
-smallcaps
+1771963	footnote
+1771966	footnote
+1771968	footnote
+1771970	footnote
+1771973	footnote
+1771976	footnote
+1771979	footnote
+1771981	footnote
+1771983	footnote
+1771985	superscript
 smallcaps
 italic
 superscript
 italic
 superscript
 footnote
-1670507	footnote
-1670510	footnote
-1670512	footnote
-1670515	footnote
-1670518	footnote
-1670521	footnote
-1670524	footnote
-1670526	superscript
-italic
-superscript
-footnote
-1670531	footnote
-1670533	footnote
-1670535	superscript
-italic
-italic
-superscript
-italic
-superscript
-superscript
-footnote
-1670544	footnote
-1670546	italic
-italic
-italic
-footnote
-1670551	footnote
-1670553	footnote
-1670555	footnote
-1670557	footnote
-1670559	footnote
-1670562	footnote
-1670564	footnote
-1670567	footnote
-1670570	footnote
-1670573	footnote
-1670576	footnote
-1670578	superscript
-italic
-superscript
+1771993	footnote
+1771995	footnote
+1771997	footnote
+1771999	footnote
+1772001	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1670587	footnote
-1670591	footnote
-1670594	footnote
-1670596	footnote
-1670599	footnote
-1670601	superscript
-smallcaps
+1772009	footnote
+1772013	footnote
+1772015	footnote
+1772017	footnote
+1772019	footnote
+1772021	footnote
+1772024	footnote
+1772026	footnote
+1772028	italic
 italic
-superscript
-italic
-smallcaps
-superscript
-footnote
-1670611	footnote
-1670614	footnote
-1670616	footnote
-1670619	footnote
-1670621	footnote
-1670623	footnote
-1670626	footnote
-1670629	italic
-italic
-smallcaps
-footnote
-1670634	footnote
-1670637	footnote
-1670640	superscript
-italic
-superscript
-italic
-smallcaps
-superscript
-superscript
-italic
-superscript
-footnote
-1670652	footnote
-1670654	footnote
-1670657	footnote
-1670659	footnote
-1670661	footnote
-1670664	footnote
-1670666	footnote
-1670668	footnote
-1670671	footnote
-1670674	footnote
-1670677	footnote
-1670679	footnote
-1670681	footnote
-1670683	footnote
-1670685	footnote
-1670687	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670694	footnote
-1670697	footnote
-1670700	footnote
-1670703	footnote
-1670705	footnote
-1670707	footnote
-1670710	italic
-italic
-footnote
-1670714	footnote
-1670717	footnote
-1670719	footnote
-1670722	footnote
-1670725	footnote
-1670728	footnote
-1670730	footnote
-1670732	footnote
-1670735	footnote
-1670737	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670744	footnote
-1670746	footnote
-1670748	footnote
-1670753	footnote
-1670756	footnote
-1670758	footnote
-1670761	footnote
-1670763	footnote
-1670765	footnote
-1670768	italic
-italic
-footnote
-1670772	footnote
-1670775	footnote
-1670778	footnote
-1670781	footnote
-1670783	footnote
-1670785	footnote
-1670787	footnote
-1670789	footnote
-1670791	footnote
-1670793	footnote
-1670796	footnote
-1670799	superscript
-italic
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670808	footnote
-1670811	footnote
-1670814	footnote
-1670816	footnote
-1670819	footnote
-1670821	footnote
-1670823	footnote
-1670825	footnote
-1670827	footnote
-1670829	footnote
-1670832	footnote
-1670835	footnote
-1670838	footnote
-1670842	italic
-italic
-footnote
-1670846	footnote
-1670849	footnote
-1670851	footnote
-1670853	footnote
-1670855	footnote
-1670858	footnote
-1670860	footnote
-1670862	footnote
-1670865	footnote
-1670867	footnote
-1670870	footnote
-1670872	footnote
-1670874	footnote
-1670876	superscript
-italic
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670885	footnote
-1670888	footnote
-1670891	footnote
-1670893	footnote
-1670895	footnote
-1670898	footnote
-1670900	footnote
-1670902	footnote
-1670904	footnote
-1670907	footnote
-1670910	footnote
-1670912	footnote
-1670915	footnote
-1670917	footnote
-1670919	footnote
-1670921	footnote
-1670924	footnote
-1670927	footnote
-1670932	footnote
-1670934	smallcaps
-italic
-footnote
-1670938	footnote
-1670940	footnote
-1670943	footnote
-1670945	footnote
-1670947	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670954	footnote
-1670957	footnote
-1670960	footnote
-1670963	italic
-italic
-footnote
-1670968	footnote
-1670970	footnote
-1670972	superscript
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1670980	footnote
-1670983	footnote
-1670986	footnote
-1670989	footnote
-1670991	footnote
-1670993	footnote
-1670995	footnote
-1670997	footnote
-1670999	footnote
-1671001	footnote
-1671004	footnote
-1671007	footnote
-1671009	footnote
-1671012	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1671019	footnote
-1671022	footnote
-1671025	footnote
-1671027	footnote
-1671030	footnote
-1671033	footnote
-1671036	footnote
-1671039	footnote
-1671041	footnote
-1671043	italic
-italic
-italic
-footnote
-1671049	footnote
-1671052	footnote
-1671055	footnote
-1671058	footnote
-1671060	footnote
-1671062	footnote
-1671065	footnote
-1671067	footnote
-1671069	footnote
-1671072	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1671079	footnote
-1671082	footnote
-1671085	footnote
-1671088	italic
-italic
-italic
-footnote
-1671094	footnote
-1671099	footnote
-1671101	footnote
-1671104	footnote
-1671107	italic
-italic
-footnote
-1671111	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1671119	footnote
-1671122	footnote
-1671124	footnote
-1671127	footnote
-1671130	footnote
-1671132	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1671139	footnote
-1671142	italic
-italic
-footnote
-1671147	footnote
-1671149	footnote
-1671152	footnote
-1671155	footnote
-1671158	footnote
-1671161	footnote
-1671164	footnote
-1671167	footnote
-1671170	footnote
-1671173	footnote
-1671175	footnote
-1671178	footnote
-1671180	footnote
-1671182	footnote
-1671184	footnote
-1671186	footnote
-1671188	footnote
-1671190	footnote
-1671193	footnote
-1671196	footnote
-1671200	footnote
-1671202	footnote
-1671204	footnote
-1671206	footnote
-1671209	footnote
-1671213	footnote
-1671215	italic
-italic
-footnote
-1671220	footnote
-1671223	footnote
-1671225	footnote
-1671229	footnote
-1671231	footnote
-1671233	footnote
-1671236	footnote
-1671239	footnote
-1671241	footnote
-1671244	footnote
-1671246	footnote
-1671249	footnote
-1671251	footnote
-1671253	superscript
-italic
-italic
-superscript
-italic
-superscript
-superscript
-italic
-superscript
-footnote
-1671265	footnote
-1671268	footnote
-1671271	footnote
-1671274	footnote
-1671276	footnote
-1671279	footnote
-1671282	footnote
-1671284	footnote
-1671286	footnote
-1671289	footnote
-1671292	italic
-italic
-footnote
-1671296	footnote
-1671299	footnote
-1671301	footnote
-1671304	footnote
-1671306	footnote
-1671308	footnote
-1671310	footnote
-1671312	footnote
-1671314	footnote
-1671318	footnote
-1671320	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1671348	footnote
-1671350	footnote
-1671352	footnote
-1671354	footnote
-1671356	footnote
-1671358	footnote
-1671361	footnote
-1671363	footnote
-1671366	superscript
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1671375	footnote
-1671377	footnote
-1671380	footnote
-1671383	footnote
-1671386	footnote
-1671391	footnote
-1671394	footnote
-1671396	footnote
-1671398	footnote
-1671401	footnote
-1671403	footnote
-1671405	footnote
-1671407	footnote
-1671410	footnote
-1671413	footnote
-1671416	footnote
-1671418	footnote
-1671420	footnote
-1671422	footnote
-1671424	footnote
-1671426	footnote
-1671428	footnote
-1671430	footnote
-1671432	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1671474	footnote
-1671476	footnote
-1671478	footnote
-1671480	footnote
-1671482	footnote
-1671484	footnote
-1671487	footnote
-1671489	footnote
-1671492	footnote
-1671494	footnote
-1671497	footnote
-1671499	footnote
-1671501	footnote
-1671503	footnote
-1671505	footnote
-1671507	footnote
-1671509	footnote
-1671512	footnote
-1671514	footnote
-1671516	footnote
-1671518	footnote
-1671520	footnote
-1671522	footnote
-1671524	footnote
-1671527	footnote
-1671530	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1671538	footnote
-1671540	footnote
-1671542	footnote
-1671544	footnote
-1671547	footnote
-1671549	footnote
-1671551	footnote
-1671553	footnote
-1671555	footnote
-1671557	footnote
-1671560	footnote
-1671562	footnote
-1671564	superscript
 smallcaps
 italic
 italic
-superscript
-italic
-superscript
-italic
-superscript
 footnote
-1671575	footnote
-1671578	footnote
-1671580	footnote
-1671582	footnote
-1671586	footnote
-1671588	footnote
-1671591	footnote
-1671594	footnote
-1671596	footnote
-1671599	footnote
-1671601	superscript
-italic
-italic
+1772035	footnote
+1772037	footnote
+1772040	footnote
+1772043	footnote
+1772046	footnote
+1772048	footnote
+1772050	footnote
+1772053	superscript
 superscript
 italic
+superscript
 italic
 footnote
-1671609	footnote
-1671612	footnote
-1671615	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1772060	footnote
+1772062	footnote
+1772065	footnote
+1772068	footnote
+1772071	footnote
+1772074	footnote
+1772077	footnote
+1772080	footnote
+1772082	footnote
+1772085	footnote
+1772087	footnote
+1772089	footnote
+1772092	footnote
+1772095	footnote
+1772097	footnote
+1772099	footnote
+1772101	italic
 footnote
-1671629	footnote
-1671631	footnote
-1671633	footnote
-1671636	footnote
-1671639	footnote
-1671642	superscript
+1772105	footnote
+1772107	footnote
+1772109	footnote
+1772112	footnote
+1772114	footnote
+1772116	footnote
+1772118	footnote
+1772120	footnote
+1772123	footnote
+1772125	footnote
+1772127	footnote
+1772131	footnote
+1772134	footnote
+1772136	superscript
 italic
 superscript
 italic
 superscript
-footnote
-1671649	footnote
-1671652	footnote
-1671655	footnote
-1671658	footnote
-1671660	footnote
-1671662	footnote
-1671665	footnote
-1671667	superscript
+superscript
 smallcaps
 superscript
-italic
-superscript
-italic
-superscript
-superscript
-italic
-superscript
 footnote
-1671680	footnote
-1671683	footnote
-1671686	footnote
-1671689	footnote
-1671691	footnote
-1671693	footnote
-1671695	footnote
-1671698	footnote
-1671701	footnote
-1671704	footnote
-1671707	footnote
-1671709	footnote
-1671711	footnote
-1671713	footnote
-1671715	footnote
-1671718	footnote
-1671721	footnote
-1671723	footnote
-1671725	footnote
-1671727	footnote
-1671729	footnote
-1671731	footnote
-1671734	footnote
-1671736	italic
+1772146	footnote
+1772148	footnote
+1772150	footnote
+1772152	footnote
+1772154	footnote
+1772156	footnote
+1772158	footnote
+1772160	footnote
+1772162	footnote
+1772165	footnote
+1772167	footnote
+1772170	footnote
+1772173	footnote
+1772175	footnote
+1772177	footnote
+1772180	footnote
+1772183	footnote
+1772186	footnote
+1772189	footnote
+1772191	footnote
+1772194	footnote
+1772197	footnote
+1772200	footnote
+1772202	footnote
+1772205	footnote
+1772207	footnote
+1772210	footnote
+1772213	footnote
+1772215	footnote
+1772217	footnote
+1772219	footnote
+1772222	footnote
+1772225	footnote
+1772227	italic
+footnote
+1772231	footnote
+1772235	footnote
+1772238	footnote
+1772240	footnote
+1772242	footnote
+1772245	footnote
+1772248	footnote
+1772250	footnote
+1772252	superscript
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+superscript
 italic
 footnote
-1671751	footnote
-1671753	footnote
-1671755	footnote
-1671757	footnote
-1671759	footnote
-1671762	footnote
-1671765	footnote
-1671767	footnote
-1671769	footnote
-1671772	footnote
-1671775	footnote
-1671779	footnote
-1671782	footnote
-1671784	footnote
-1671787	footnote
-1671790	footnote
-1671793	footnote
-1671796	footnote
-1671798	footnote
-1671801	footnote
-1671804	footnote
-1671808	footnote
-1671811	footnote
-1671813	footnote
-1671815	footnote
-1671817	footnote
-1671820	footnote
-1671823	footnote
-1671826	footnote
-1671828	footnote
-1671831	footnote
-1671834	footnote
-1671837	footnote
-1671840	footnote
-1671843	footnote
-1671846	footnote
-1671850	footnote
-1671852	footnote
-1671854	footnote
-1671856	superscript
+1772258	footnote
+1772260	footnote
+1772262	footnote
+1772264	footnote
+1772266	footnote
+1772268	footnote
+1772270	footnote
+1772272	footnote
+1772274	superscript
 italic
 superscript
 italic
 superscript
-footnote
-1671863	footnote
-1671865	footnote
-1671868	footnote
-1671870	footnote
-1671872	footnote
-1671874	footnote
-1671877	superscript
-italic
-superscript
-italic
-superscript
-italic
-italic
-superscript
-italic
-superscript
-superscript
-italic
-superscript
-footnote
-1671892	footnote
-1671894	footnote
-1671897	footnote
-1671899	footnote
-1671901	footnote
-1671903	footnote
-1671905	footnote
-1671907	footnote
-1671909	footnote
-1671911	footnote
-1671913	footnote
-1671916	footnote
-1671918	footnote
-1671920	footnote
-1671922	footnote
-1671925	footnote
-1671927	footnote
-1671929	footnote
-1671931	footnote
-1671934	footnote
-1671936	footnote
-1671938	footnote
-1671940	footnote
-1671942	footnote
-1671944	footnote
-1671946	footnote
-1671948	footnote
-1671951	footnote
-1671955	footnote
-1671957	footnote
-1671960	footnote
-1671965	footnote
-1671967	footnote
-1671970	footnote
-1671972	footnote
-1671975	footnote
-1671977	footnote
-1671980	footnote
-1671984	footnote
-1671986	footnote
-1671989	footnote
-1671991	italic
-italic
-italic
-italic
 italic
 italic
 italic
 footnote
-1672000	footnote
-1672002	footnote
-1672005	footnote
-1672007	footnote
-1672009	footnote
-1672011	footnote
-1672013	footnote
-1672016	footnote
-1672019	footnote
-1672021	footnote
-1672024	footnote
-1672026	footnote
-1672030	footnote
-1672032	footnote
-1672035	footnote
-1672037	footnote
-1672039	footnote
-1672041	footnote
-1672044	footnote
-1672046	superscript
+1772284	footnote
+1772287	footnote
+1772290	footnote
+1772293	footnote
+1772295	footnote
+1772298	footnote
+1772300	footnote
+1772303	footnote
+1772307	footnote
+1772310	footnote
+1772313	footnote
+1772315	footnote
+1772318	footnote
+1772320	footnote
+1772323	footnote
+1772325	superscript
 italic
 italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-superscript
 footnote
-1672059	footnote
-1672061	footnote
-1672063	footnote
-1672065	footnote
-1672067	footnote
-1672070	footnote
-1672073	footnote
-1672076	footnote
-1672078	footnote
-1672080	footnote
-1672082	footnote
-1672084	footnote
-1672087	footnote
-1672090	footnote
-1672092	footnote
-1672094	superscript
+1772331	footnote
+1772333	footnote
+1772336	footnote
+1772338	footnote
+1772340	footnote
+1772343	footnote
+1772345	superscript
+italic
+superscript
 italic
 superscript
 italic
 superscript
 footnote
-1672102	footnote
-1672104	footnote
-1672107	footnote
-1672110	footnote
-1672112	footnote
-1672115	footnote
-1672117	footnote
-1672119	footnote
-1672121	footnote
-1672123	footnote
-1672125	footnote
-1672127	footnote
-1672129	footnote
-1672132	footnote
-1672134	footnote
-1672137	footnote
-1672140	footnote
-1672142	footnote
-1672145	footnote
-1672147	footnote
-1672149	footnote
-1672151	footnote
-1672153	superscript
-italic
-italic
-footnote
-1672159	footnote
-1672161	footnote
-1672165	footnote
-1672167	footnote
-1672170	italic
-italic
-italic
-footnote
-1672175	footnote
-1672178	footnote
-1672180	footnote
-1672182	footnote
-1672184	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1672204	footnote
-1672206	footnote
-1672208	footnote
-1672210	footnote
-1672212	footnote
-1672214	footnote
-1672216	footnote
-1672219	footnote
-1672221	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1672228	footnote
-1672231	footnote
-1672234	footnote
-1672237	footnote
-1672239	footnote
-1672241	footnote
-1672243	footnote
-1672245	footnote
-1672248	footnote
-1672250	footnote
-1672253	footnote
-1672255	footnote
-1672258	footnote
-1672260	footnote
-1672262	superscript
-italic
-superscript
-italic
-italic
-italic
-superscript
-superscript
-italic
-superscript
-footnote
-1672274	footnote
-1672276	footnote
-1672279	footnote
-1672281	footnote
-1672285	footnote
-1672287	footnote
-1672289	footnote
-1672291	footnote
-1672293	footnote
-1672295	footnote
-1672297	footnote
-1672299	footnote
-1672302	footnote
-1672304	footnote
-1672306	footnote
-1672308	footnote
-1672311	footnote
-1672313	footnote
-1672316	footnote
-1672318	footnote
-1672321	footnote
-1672323	footnote
-1672325	superscript
-italic
-superscript
-superscript
-italic
-superscript
-footnote
-1672333	footnote
-1672335	footnote
-1672337	footnote
-1672340	footnote
-1672342	footnote
-1672344	footnote
-1672346	footnote
-1672348	footnote
-1672350	footnote
-1672353	footnote
-1672355	footnote
-1672357	footnote
-1672359	superscript
-superscript
-italic
-footnote
-1672364	footnote
-1672366	footnote
-1672368	footnote
-1672370	footnote
-1672372	footnote
-1672374	footnote
-1672376	footnote
-1672378	footnote
-1672380	footnote
-1672382	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1672416	footnote
-1672418	footnote
-1672420	footnote
-1672422	footnote
-1672424	footnote
-1672426	footnote
-1672428	footnote
-1672430	footnote
-1672432	footnote
-1672435	footnote
-1672437	footnote
-1672439	footnote
-1672441	footnote
-1672443	footnote
-1672445	superscript
-italic
-superscript
+1772355	footnote
+1772357	footnote
+1772360	footnote
+1772364	footnote
+1772367	footnote
+1772370	footnote
+1772372	footnote
+1772374	footnote
+1772377	footnote
+1772380	footnote
+1772383	footnote
+1772386	footnote
+1772389	footnote
+1772392	footnote
+1772395	footnote
+1772398	italic
 italic
 smallcaps
 superscript
+smallcaps
 superscript
+italic
+italic
+italic
 footnote
-1672455	footnote
-1672457	footnote
-1672459	footnote
-1672461	footnote
-1672463	footnote
-1672465	footnote
-1672467	footnote
-1672469	footnote
-1672472	footnote
-1672474	superscript
+1772410	footnote
+1772413	footnote
+1772416	footnote
+1772419	footnote
+1772421	footnote
+1772425	footnote
+1772427	footnote
+1772429	footnote
+1772431	footnote
+1772433	footnote
+1772435	footnote
+1772438	footnote
+1772440	footnote
+1772443	footnote
+1772446	footnote
+1772449	footnote
+1772452	footnote
+1772455	footnote
+1772458	footnote
+1772461	footnote
+1772465	footnote
+1772467	footnote
+1772470	footnote
+1772474	footnote
+1772476	footnote
+1772479	footnote
+1772482	footnote
+1772485	footnote
+1772488	footnote
+1772491	footnote
+1772493	footnote
+1772496	footnote
+1772499	superscript
+italic
 italic
 superscript
 italic
@@ -2946,136 +1773,34 @@ superscript
 italic
 superscript
 footnote
-1672484	footnote
-1672486	footnote
-1672488	footnote
-1672490	footnote
-1672493	footnote
-1672495	footnote
-1672498	footnote
-1672500	footnote
-1672502	footnote
-1672504	footnote
-1672506	footnote
-1672508	footnote
-1672510	footnote
-1672512	footnote
-1672515	footnote
-1672517	footnote
-1672519	footnote
-1672521	footnote
-1672523	footnote
-1672525	footnote
-1672527	footnote
-1672530	footnote
-1672532	footnote
-1672534	footnote
-1672536	footnote
-1672538	footnote
-1672540	footnote
-1672542	footnote
-1672544	footnote
-1672546	italic
+1772512	footnote
+1772515	footnote
+1772517	footnote
+1772519	footnote
+1772523	footnote
+1772526	footnote
+1772529	smallcaps
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-footnote
-1672572	footnote
-1672574	footnote
-1672576	footnote
-1672578	footnote
-1672580	footnote
-1672582	footnote
-1672584	footnote
-1672586	footnote
-1672588	footnote
-1672591	footnote
-1672594	footnote
-1672596	footnote
-1672598	footnote
-1672600	footnote
-1672602	footnote
-1672604	superscript
-italic
-superscript
 italic
 superscript
 footnote
-1672611	footnote
-1672613	footnote
-1672615	footnote
-1672617	footnote
-1672619	footnote
-1672621	footnote
-1672626	footnote
-1672629	footnote
-1672631	footnote
-1672633	footnote
-1672635	footnote
-1672637	footnote
-1672639	footnote
-1672641	footnote
-1672643	footnote
-1672645	footnote
-1672647	footnote
-1672649	footnote
-1672651	footnote
-1672653	footnote
-1672655	superscript
-italic
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1672665	footnote
-1672668	footnote
-1672671	footnote
-1672673	footnote
-1672675	footnote
-1672678	footnote
-1672680	footnote
-1672682	footnote
-1672684	footnote
-1672686	footnote
-1672688	footnote
-1672690	footnote
-1672692	footnote
-1672694	italic
-superscript
-italic
-superscript
-footnote
-1672701	footnote
-1672704	footnote
-1672708	footnote
-1672710	footnote
-1672712	footnote
-1672714	footnote
-1672717	footnote
-1672719	footnote
-1672721	superscript
+1772538	footnote
+1772541	footnote
+1772543	footnote
+1772545	footnote
+1772548	footnote
+1772551	footnote
+1772553	footnote
+1772556	footnote
+1772559	footnote
+1772561	footnote
+1772563	footnote
+1772565	footnote
+1772567	footnote
+1772569	footnote
+1772571	superscript
 italic
 italic
 superscript
@@ -3083,1548 +1808,252 @@ italic
 superscript
 superscript
 footnote
-1672731	footnote
-1672733	footnote
-1672736	footnote
-1672739	footnote
-1672741	footnote
-1672744	footnote
-1672746	footnote
-1672748	footnote
-1672750	footnote
-1672753	footnote
-1672755	footnote
-1672757	footnote
-1672759	footnote
-1672761	footnote
-1672763	footnote
-1672765	footnote
-1672767	footnote
-1672769	footnote
-1672771	footnote
-1672774	footnote
-1672776	footnote
-1672778	footnote
-1672780	footnote
-1672783	footnote
-1672787	footnote
-1672789	superscript
-superscript
-italic
-superscript
-footnote
-1672795	footnote
-1672798	footnote
-1672801	footnote
-1672803	footnote
-1672805	footnote
-1672807	footnote
-1672809	footnote
-1672811	footnote
-1672813	footnote
-1672816	footnote
-1672819	footnote
-1672821	italic
-italic
-footnote
-1672825	footnote
-1672828	footnote
-1672830	footnote
-1672832	footnote
-1672834	footnote
-1672836	footnote
-1672838	footnote
-1672840	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1672847	footnote
-1672849	footnote
-1672852	footnote
-1672854	footnote
-1672856	footnote
-1672858	footnote
-1672860	footnote
-1672863	footnote
-1672865	footnote
-1672867	footnote
-1672869	footnote
-1672873	footnote
-1672875	footnote
-1672877	footnote
-1672879	footnote
-1672881	footnote
-1672883	footnote
-1672885	footnote
-1672887	footnote
-1672889	superscript
+1772580	footnote
+1772583	footnote
+1772586	footnote
+1772589	footnote
+1772592	footnote
+1772594	footnote
+1772597	footnote
+1772600	footnote
+1772603	footnote
+1772606	footnote
+1772608	footnote
+1772611	footnote
+1772613	footnote
+1772616	footnote
+1772619	footnote
+1772622	footnote
+1772625	footnote
+1772627	footnote
+1772632	footnote
+1772634	footnote
+1772636	footnote
+1772639	footnote
+1772642	footnote
+1772644	footnote
+1772647	footnote
+1772649	footnote
+1772651	footnote
+1772655	footnote
+1772657	footnote
+1772660	footnote
+1772662	footnote
+1772665	footnote
+1772667	footnote
+1772670	footnote
+1772673	footnote
+1772676	footnote
+1772679	footnote
+1772682	footnote
+1772685	footnote
+1772688	footnote
+1772691	footnote
+1772695	footnote
+1772697	footnote
+1772700	footnote
+1772702	footnote
+1772705	footnote
+1772707	footnote
+1772709	footnote
+1772712	footnote
+1772714	footnote
+1772717	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1672896	footnote
-1672898	footnote
-1672900	footnote
-1672902	footnote
-1672904	footnote
-1672906	footnote
-1672908	footnote
-1672910	footnote
-1672912	footnote
-1672914	footnote
-1672917	footnote
-1672919	footnote
-1672921	footnote
-1672923	footnote
-1672925	italic
-italic
-footnote
-1672929	footnote
-1672931	footnote
-1672934	footnote
-1672936	footnote
-1672939	footnote
-1672941	footnote
-1672944	footnote
-1672946	footnote
-1672948	footnote
-1672950	footnote
-1672952	footnote
-1672955	footnote
-1672957	footnote
-1672959	footnote
-1672961	superscript
-italic
-italic
-superscript
-italic
-italic
-superscript
-footnote
-1672971	footnote
-1672973	footnote
-1672976	footnote
-1672978	footnote
-1672980	footnote
-1672982	footnote
-1672984	footnote
-1672987	footnote
-1672990	footnote
-1672992	footnote
-1672994	italic
-italic
+1772725	footnote
+1772728	footnote
+1772730	footnote
+1772733	footnote
+1772736	italic
 italic
 italic
 footnote
-1673000	footnote
-1673003	footnote
-1673005	footnote
-1673007	footnote
-1673009	footnote
-1673012	footnote
-1673014	footnote
-1673016	footnote
-1673018	footnote
-1673020	italic
-italic
-italic
-italic
-italic
-superscript
+1772742	footnote
+1772744	footnote
+1772747	footnote
+1772750	footnote
+1772752	footnote
+1772754	footnote
+1772757	footnote
+1772760	footnote
+1772762	footnote
+1772765	footnote
+1772767	italic
 italic
 footnote
-1673029	footnote
-1673032	footnote
-1673034	footnote
-1673037	footnote
-1673039	footnote
-1673041	footnote
-1673043	footnote
-1673045	footnote
-1673048	footnote
-1673050	footnote
-1673053	italic
-italic
-italic
-footnote
-1673058	footnote
-1673061	footnote
-1673063	footnote
-1673066	footnote
-1673069	footnote
-1673072	footnote
-1673074	footnote
-1673077	footnote
-1673079	footnote
-1673082	footnote
-1673085	footnote
-1673088	footnote
-1673090	footnote
-1673093	footnote
-1673095	footnote
-1673097	footnote
-1673100	footnote
-1673103	footnote
-1673105	footnote
-1673107	footnote
-1673109	footnote
-1673111	footnote
-1673113	footnote
-1673115	footnote
-1673117	footnote
-1673119	footnote
-1673121	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673132	footnote
-1673134	footnote
-1673136	footnote
-1673138	footnote
-1673140	footnote
-1673143	footnote
-1673145	footnote
-1673148	footnote
-1673150	footnote
-1673153	footnote
-1673156	footnote
-1673159	footnote
-1673162	footnote
-1673164	footnote
-1673166	footnote
-1673168	footnote
-1673170	footnote
-1673172	italic
-footnote
-1673175	footnote
-1673178	footnote
-1673180	footnote
-1673182	footnote
-1673184	footnote
-1673187	footnote
-1673190	footnote
-1673192	footnote
-1673194	footnote
-1673197	footnote
-1673199	italic
-italic
-superscript
-footnote
-1673204	footnote
-1673207	footnote
-1673210	footnote
-1673212	footnote
-1673215	footnote
-1673218	footnote
-1673220	footnote
-1673223	footnote
-1673225	footnote
-1673228	footnote
-1673231	footnote
-1673234	footnote
-1673236	footnote
-1673239	footnote
-1673242	footnote
-1673244	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673254	footnote
-1673256	footnote
-1673258	footnote
-1673260	footnote
-1673264	footnote
-1673266	footnote
-1673268	footnote
-1673270	footnote
-1673272	footnote
-1673276	footnote
-1673278	footnote
-1673280	footnote
-1673282	footnote
-1673284	italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673292	footnote
-1673294	footnote
-1673296	footnote
-1673298	footnote
-1673300	footnote
-1673303	footnote
-1673305	footnote
-1673307	footnote
-1673309	footnote
-1673311	footnote
-1673313	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1673321	footnote
-1673324	footnote
-1673326	footnote
-1673329	footnote
-1673331	footnote
-1673333	footnote
-1673335	italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673344	footnote
-1673347	footnote
-1673349	footnote
-1673351	footnote
-1673353	footnote
-1673356	footnote
-1673358	footnote
-1673361	footnote
-1673364	footnote
-1673367	footnote
-1673369	footnote
-1673372	footnote
-1673375	footnote
-1673378	footnote
-1673380	italic
-italic
-italic
-italic
-footnote
-1673388	footnote
-1673390	footnote
-1673394	footnote
-1673397	footnote
-1673399	footnote
-1673402	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1673425	footnote
-1673427	footnote
-1673429	footnote
-1673431	footnote
-1673434	footnote
-1673437	footnote
-1673439	footnote
-1673442	footnote
-1673445	footnote
-1673448	footnote
-1673451	footnote
-1673454	footnote
-1673456	footnote
-1673459	footnote
-1673461	footnote
-1673463	footnote
-1673466	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673503	footnote
-1673505	footnote
-1673507	footnote
-1673509	footnote
-1673511	footnote
-1673514	footnote
-1673517	footnote
-1673519	footnote
-1673521	footnote
-1673524	footnote
-1673527	footnote
-1673529	footnote
-1673531	footnote
-1673534	footnote
-1673537	footnote
-1673539	footnote
-1673542	footnote
-1673544	footnote
-1673547	footnote
-1673549	footnote
-1673551	footnote
-1673553	footnote
-1673556	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-superscript
-italic
-italic
-footnote
-1673576	footnote
-1673579	footnote
-1673582	footnote
-1673584	footnote
-1673587	footnote
-1673589	footnote
-1673592	footnote
-1673594	footnote
-1673597	footnote
-1673600	footnote
-1673602	footnote
-1673604	footnote
-1673607	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-superscript
-italic
-italic
-superscript
-italic
-italic
-superscript
-footnote
-1673639	footnote
-1673642	footnote
-1673644	footnote
-1673646	footnote
-1673649	footnote
-1673651	footnote
-1673653	footnote
-1673656	footnote
-1673659	footnote
-1673661	footnote
-1673664	footnote
-1673666	footnote
-1673669	footnote
-1673672	footnote
-1673675	footnote
-1673678	footnote
-1673681	footnote
-1673683	footnote
-1673686	footnote
-1673688	footnote
-1673691	footnote
-1673693	footnote
-1673695	footnote
-1673697	footnote
-1673700	footnote
-1673702	footnote
-1673704	footnote
-1673707	footnote
-1673710	footnote
-1673713	footnote
-1673715	footnote
-1673718	footnote
-1673720	footnote
-1673722	italic
-italic
-footnote
-1673726	footnote
-1673729	italic
-italic
-italic
-footnote
-1673735	footnote
-1673737	footnote
-1673739	footnote
-1673741	footnote
-1673744	footnote
-1673746	footnote
-1673748	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1673756	footnote
-1673758	footnote
-1673761	footnote
-1673764	footnote
-1673767	footnote
-1673769	footnote
-1673771	footnote
-1673773	footnote
-1673775	footnote
-1673777	smallcaps
-italic
-italic
-italic
-footnote
-1673784	footnote
-1673786	footnote
-1673788	footnote
-1673790	footnote
-1673792	footnote
-1673794	footnote
-1673796	footnote
-1673798	footnote
-1673800	footnote
-1673802	footnote
-1673804	footnote
-1673806	superscript
-superscript
-italic
-superscript
-footnote
-1673813	footnote
-1673816	footnote
-1673818	footnote
-1673820	footnote
-1673823	superscript
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1673837	footnote
-1673840	footnote
-1673842	footnote
-1673844	footnote
-1673846	footnote
-1673848	footnote
-1673851	footnote
-1673853	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1673903	footnote
-1673906	footnote
-1673908	footnote
-1673910	footnote
-1673912	footnote
-1673914	footnote
-1673917	footnote
-1673919	footnote
-1673921	footnote
-1673923	footnote
-1673925	footnote
-1673927	footnote
-1673929	footnote
-1673933	footnote
-1673936	footnote
-1673938	footnote
-1673943	footnote
-1673947	footnote
-1673950	footnote
-1673954	footnote
-1673957	footnote
-1673960	footnote
-1673963	footnote
-1673965	footnote
-1673970	footnote
-1673975	footnote
-1673980	footnote
-1673982	footnote
-1673987	footnote
-1673989	footnote
-1673994	footnote
-1673996	footnote
-1673998	footnote
-1674001	footnote
-1674003	footnote
-1674005	footnote
-1674007	superscript
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1674020	footnote
-1674023	footnote
-1674025	footnote
-1674027	footnote
-1674029	footnote
-1674031	footnote
-1674034	footnote
-1674037	footnote
-1674040	footnote
-1674042	footnote
-1674045	footnote
-1674047	footnote
-1674049	footnote
-1674051	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674066	footnote
-1674068	footnote
-1674070	footnote
-1674072	footnote
-1674074	footnote
-1674076	footnote
-1674079	footnote
-1674081	footnote
-1674084	footnote
-1674086	footnote
-1674088	footnote
-1674091	footnote
-1674093	footnote
-1674095	footnote
-1674098	footnote
-1674100	footnote
-1674103	footnote
-1674106	footnote
-1674108	footnote
-1674111	footnote
-1674114	footnote
-1674116	footnote
-1674119	footnote
-1674122	footnote
-1674125	footnote
-1674128	footnote
-1674131	smallcaps
-italic
-italic
-smallcaps
-footnote
-1674137	footnote
-1674139	footnote
-1674141	footnote
-1674144	footnote
-1674146	footnote
-1674148	smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674159	smallcaps
-superscript
-italic
-footnote
-1674165	footnote
-1674168	footnote
-1674171	footnote
-1674173	footnote
-1674176	footnote
-1674179	superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1674187	footnote
-1674190	footnote
-1674192	footnote
-1674195	footnote
-1674197	footnote
-1674199	footnote
-1674201	footnote
-1674205	footnote
-1674208	footnote
-1674211	footnote
-1674213	superscript
-italic
-superscript
-italic
-superscript
-smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-footnote
-1674234	footnote
-1674237	footnote
-1674239	footnote
-1674241	footnote
-1674243	footnote
-1674246	footnote
-1674248	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-superscript
-italic
-italic
-footnote
-1674264	footnote
-1674266	footnote
-1674269	footnote
-1674271	footnote
-1674273	footnote
-1674276	footnote
-1674278	footnote
-1674280	footnote
-1674282	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674300	footnote
-1674302	footnote
-1674305	footnote
-1674307	footnote
-1674309	footnote
-1674311	footnote
-1674313	footnote
-1674315	footnote
-1674317	footnote
-1674319	footnote
-1674321	footnote
-1674323	footnote
-1674325	footnote
-1674327	footnote
-1674330	footnote
-1674333	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674375	footnote
-1674377	footnote
-1674379	footnote
-1674381	footnote
-1674383	footnote
-1674386	footnote
-1674388	footnote
-1674390	footnote
-1674392	footnote
-1674394	footnote
-1674396	footnote
-1674398	footnote
-1674400	footnote
-1674403	footnote
-1674405	footnote
-1674407	footnote
-1674409	footnote
-1674411	footnote
-1674414	footnote
-1674416	footnote
-1674418	footnote
-1674420	footnote
-1674422	footnote
-1674424	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-superscript
-smallcaps
-superscript
-italic
-italic
-footnote
-1674449	footnote
-1674451	footnote
-1674453	footnote
-1674455	footnote
-1674457	footnote
-1674459	footnote
-1674462	footnote
-1674464	footnote
-1674466	footnote
-1674468	footnote
-1674471	footnote
-1674473	footnote
-1674477	footnote
-1674480	footnote
-1674482	footnote
-1674485	footnote
-1674487	footnote
-1674489	footnote
-1674492	footnote
-1674494	footnote
-1674497	footnote
-1674500	footnote
-1674503	footnote
-1674505	superscript
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1674515	footnote
-1674518	footnote
-1674520	footnote
-1674522	footnote
-1674525	footnote
-1674527	italic
-italic
-footnote
-1674531	footnote
-1674534	italic
-italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674564	footnote
-1674567	footnote
-1674569	footnote
-1674571	footnote
-1674574	footnote
-1674576	footnote
-1674579	footnote
-1674581	footnote
-1674584	footnote
-1674587	footnote
-1674589	footnote
-1674591	footnote
-1674593	footnote
-1674596	footnote
-1674598	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674610	footnote
-1674612	footnote
-1674615	footnote
-1674618	footnote
-1674620	footnote
-1674623	footnote
-1674625	footnote
-1674628	footnote
-1674630	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1674641	footnote
-1674643	footnote
-1674645	footnote
-1674648	footnote
-1674651	footnote
-1674653	superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1674664	footnote
-1674667	superscript
-superscript
-italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-italic
-footnote
-1674680	footnote
-1674682	footnote
-1674685	footnote
-1674688	footnote
-1674690	italic
-italic
-footnote
-1674694	footnote
-1674697	footnote
-1674699	footnote
-1674701	italic
-italic
-footnote
-1674705	footnote
-1674707	footnote
-1674710	footnote
-1674712	footnote
-1674715	footnote
-1674718	footnote
-1674721	footnote
-1674724	footnote
-1674727	footnote
-1674729	footnote
-1674732	footnote
-1674735	footnote
-1674737	footnote
-1674741	footnote
-1674744	footnote
-1674747	footnote
-1674749	footnote
-1674751	footnote
-1674754	footnote
-1674756	footnote
-1674758	italic
-italic
-superscript
-italic
-italic
-footnote
-1674765	footnote
-1674768	footnote
-1674771	footnote
-1674774	footnote
-1674777	footnote
-1674779	footnote
-1674782	footnote
-1674785	footnote
-1674787	footnote
-1674789	footnote
-1674792	footnote
-1674794	footnote
-1674796	footnote
-1674798	footnote
-1674801	footnote
-1674803	footnote
-1674805	footnote
-1674808	footnote
-1674811	footnote
-1674813	footnote
-1674815	footnote
-1674817	footnote
-1674819	italic
-footnote
-1674822	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1674830	footnote
-1674832	footnote
-1674835	footnote
-1674837	italic
-footnote
-1674840	footnote
-1674842	footnote
-1674845	footnote
-1674848	footnote
-1674850	footnote
-1674852	footnote
-1674854	footnote
-1674856	superscript
-italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-superscript
-footnote
-1674870	footnote
-1674872	footnote
-1674874	footnote
-1674876	footnote
-1674878	footnote
-1674881	footnote
-1674883	footnote
-1674885	italic
+1772772	footnote
+1772775	footnote
+1772778	footnote
+1772781	footnote
+1772784	footnote
+1772787	footnote
+1772789	footnote
+1772791	footnote
+1772794	footnote
+1772796	footnote
+1772798	footnote
+1772800	superscript
 smallcaps
 smallcaps
 italic
+superscript
+italic
+superscript
+footnote
+1772810	footnote
+1772813	footnote
+1772815	footnote
+1772818	footnote
+1772821	footnote
+1772824	footnote
+1772827	footnote
+1772829	superscript
+italic
+superscript
+footnote
+1772834	footnote
+1772836	footnote
+1772838	superscript
+italic
+italic
+superscript
+italic
+superscript
+superscript
+footnote
+1772847	footnote
+1772849	italic
+italic
+italic
+footnote
+1772854	footnote
+1772856	footnote
+1772858	footnote
+1772860	footnote
+1772862	footnote
+1772865	footnote
+1772867	footnote
+1772870	footnote
+1772873	footnote
+1772876	footnote
+1772879	footnote
+1772881	superscript
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1772890	footnote
+1772894	footnote
+1772897	footnote
+1772899	footnote
+1772902	footnote
+1772904	superscript
 smallcaps
 italic
-footnote
-1674894	footnote
-1674896	footnote
-1674899	footnote
-1674901	footnote
-1674903	footnote
-1674905	footnote
-1674907	footnote
-1674909	footnote
-1674912	footnote
-1674915	footnote
-1674917	footnote
-1674919	footnote
-1674922	footnote
-1674924	footnote
-1674926	footnote
-1674928	footnote
-1674930	footnote
-1674932	superscript
-italic
 superscript
-italic
-superscript
-footnote
-1674940	footnote
-1674942	footnote
-1674945	footnote
-1674948	smallcaps
-italic
-italic
-footnote
-1674953	footnote
-1674955	footnote
-1674957	footnote
-1674959	footnote
-1674962	footnote
-1674965	footnote
-1674967	footnote
-1674969	footnote
-1674972	footnote
-1674974	footnote
-1674977	footnote
-1674980	footnote
-1674982	superscript
-italic
-superscript
-italic
-italic
-italic
-smallcaps
-italic
-footnote
-1674993	footnote
-1674995	footnote
-1674997	footnote
-1675000	footnote
-1675003	footnote
-1675006	footnote
-1675008	footnote
-1675010	footnote
-1675013	footnote
-1675016	footnote
-1675018	footnote
-1675020	footnote
-1675022	footnote
-1675024	footnote
-1675027	superscript
-italic
-italic
-italic
-footnote
-1675034	footnote
-1675036	footnote
-1675039	footnote
-1675042	footnote
-1675044	footnote
-1675046	footnote
-1675049	footnote
-1675051	footnote
-1675053	footnote
-1675056	footnote
-1675059	footnote
-1675061	footnote
-1675064	footnote
-1675066	footnote
-1675069	footnote
-1675071	footnote
-1675073	footnote
-1675075	footnote
-1675077	footnote
-1675080	footnote
-1675082	superscript
-italic
-superscript
-italic
-footnote
-1675088	footnote
-1675091	footnote
-1675094	footnote
-1675098	footnote
-1675100	footnote
-1675102	footnote
-1675104	footnote
-1675107	footnote
-1675110	footnote
-1675113	footnote
-1675116	footnote
-1675119	footnote
-1675122	superscript
-superscript
-italic
-footnote
-1675127	footnote
-1675129	footnote
-1675131	footnote
-1675134	footnote
-1675136	footnote
-1675138	footnote
-1675141	italic
-italic
-italic
-italic
-italic
-footnote
-1675148	footnote
-1675150	footnote
-1675153	footnote
-1675155	footnote
-1675157	footnote
-1675160	footnote
-1675162	footnote
-1675165	footnote
-1675167	footnote
-1675170	footnote
-1675172	footnote
-1675175	footnote
-1675177	footnote
-1675179	footnote
-1675181	footnote
-1675183	footnote
-1675186	footnote
-1675188	footnote
-1675190	footnote
-1675193	footnote
-1675195	footnote
-1675197	footnote
-1675199	footnote
-1675201	footnote
-1675204	footnote
-1675206	superscript
-superscript
-italic
-italic
-italic
-superscript
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-superscript
-footnote
-1675222	footnote
-1675225	footnote
-1675228	footnote
-1675230	footnote
-1675232	footnote
-1675235	footnote
-1675238	footnote
-1675240	footnote
-1675242	footnote
-1675244	footnote
-1675247	footnote
-1675249	footnote
-1675252	footnote
-1675254	footnote
-1675256	footnote
-1675258	footnote
-1675260	footnote
-1675262	footnote
-1675264	footnote
-1675267	footnote
-1675269	footnote
-1675272	footnote
-1675275	footnote
-1675278	footnote
-1675280	footnote
-1675282	footnote
-1675285	footnote
-1675287	footnote
-1675290	footnote
-1675293	footnote
-1675295	footnote
-1675298	footnote
-1675301	footnote
-1675304	footnote
-1675307	footnote
-1675310	footnote
-1675313	footnote
-1675315	footnote
-1675318	footnote
-1675320	footnote
-1675322	footnote
-1675324	footnote
-1675326	footnote
-1675328	footnote
-1675330	footnote
-1675332	footnote
-1675334	footnote
-1675336	footnote
-1675339	footnote
-1675342	footnote
-1675344	footnote
-1675347	footnote
-1675350	footnote
-1675352	footnote
-1675354	footnote
-1675357	footnote
-1675359	footnote
-1675361	footnote
-1675363	footnote
-1675366	footnote
-1675368	footnote
-1675370	footnote
-1675373	footnote
-1675375	footnote
-1675377	footnote
-1675379	footnote
-1675381	footnote
-1675383	footnote
-1675386	footnote
-1675388	footnote
-1675390	footnote
-1675393	footnote
-1675395	footnote
-1675397	footnote
-1675399	footnote
-1675401	footnote
-1675403	footnote
-1675405	footnote
-1675407	footnote
-1675409	footnote
-1675411	footnote
-1675413	footnote
-1675415	footnote
-1675417	footnote
-1675419	footnote
-1675421	footnote
-1675423	footnote
-1675425	footnote
-1675427	footnote
-1675431	footnote
-1675433	footnote
-1675435	footnote
-1675437	italic
 italic
 smallcaps
 superscript
 footnote
-1675443	footnote
-1675445	footnote
-1675448	footnote
-1675451	footnote
-1675454	footnote
-1675459	footnote
-1675462	footnote
-1675464	footnote
-1675466	footnote
-1675468	footnote
-1675471	footnote
-1675473	footnote
-1675476	footnote
-1675479	footnote
-1675481	footnote
-1675483	footnote
-1675486	footnote
-1675488	footnote
-1675490	footnote
-1675492	footnote
-1675495	footnote
-1675497	footnote
-1675499	footnote
-1675501	footnote
-1675503	footnote
-1675505	footnote
-1675507	footnote
-1675509	footnote
-1675511	footnote
-1675513	footnote
-1675515	footnote
-1675517	footnote
-1675519	footnote
-1675521	footnote
-1675523	footnote
-1675525	footnote
-1675527	footnote
-1675530	footnote
-1675532	footnote
-1675534	footnote
-1675536	footnote
-1675539	footnote
-1675541	footnote
-1675544	footnote
-1675546	footnote
-1675549	footnote
-1675551	footnote
-1675553	footnote
-1675555	footnote
-1675557	footnote
-1675559	footnote
-1675561	footnote
-1675563	footnote
-1675567	footnote
-1675570	footnote
-1675572	superscript
+1772914	footnote
+1772917	footnote
+1772919	footnote
+1772922	footnote
+1772924	footnote
+1772926	footnote
+1772929	footnote
+1772932	italic
+italic
+smallcaps
+footnote
+1772937	footnote
+1772940	footnote
+1772943	superscript
+italic
+superscript
+italic
+smallcaps
+superscript
+superscript
+italic
+superscript
+footnote
+1772955	footnote
+1772957	footnote
+1772960	footnote
+1772962	footnote
+1772964	footnote
+1772967	footnote
+1772969	footnote
+1772971	footnote
+1772974	footnote
+1772977	footnote
+1772980	footnote
+1772982	footnote
+1772984	footnote
+1772986	footnote
+1772988	footnote
+1772990	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1675579	footnote
-1675582	footnote
-1675584	footnote
-1675586	footnote
-1675588	footnote
-1675590	footnote
-1675593	footnote
-1675596	footnote
-1675598	footnote
-1675600	footnote
-1675602	footnote
-1675604	footnote
-1675607	footnote
-1675609	footnote
-1675612	footnote
-1675614	footnote
-1675617	footnote
-1675620	footnote
-1675622	footnote
-1675624	footnote
-1675626	footnote
-1675628	superscript
+1772997	footnote
+1773000	footnote
+1773003	footnote
+1773006	footnote
+1773008	footnote
+1773010	footnote
+1773013	italic
+italic
+footnote
+1773017	footnote
+1773020	footnote
+1773022	footnote
+1773025	footnote
+1773028	footnote
+1773031	footnote
+1773033	footnote
+1773035	footnote
+1773038	footnote
+1773040	superscript
+italic
 superscript
+italic
+superscript
+footnote
+1773047	footnote
+1773049	footnote
+1773051	footnote
+1773056	footnote
+1773059	footnote
+1773061	footnote
+1773064	footnote
+1773066	footnote
+1773068	footnote
+1773071	italic
+italic
+footnote
+1773075	footnote
+1773078	footnote
+1773081	footnote
+1773084	footnote
+1773086	footnote
+1773088	footnote
+1773090	footnote
+1773092	footnote
+1773094	footnote
+1773096	footnote
+1773099	footnote
+1773102	superscript
 italic
 superscript
 italic
@@ -4632,122 +2061,884 @@ superscript
 italic
 superscript
 footnote
-1675638	footnote
-1675640	footnote
-1675642	footnote
-1675644	footnote
-1675646	footnote
-1675649	footnote
-1675652	footnote
-1675654	footnote
-1675656	footnote
-1675658	footnote
-1675660	footnote
-1675662	footnote
-1675664	footnote
-1675666	footnote
-1675669	footnote
-1675671	footnote
-1675674	footnote
-1675676	footnote
-1675679	footnote
-1675682	footnote
-1675685	footnote
-1675688	footnote
-1675691	footnote
-1675693	footnote
-1675695	footnote
-1675697	footnote
-1675699	footnote
-1675701	footnote
-1675703	footnote
-1675706	footnote
-1675708	footnote
-1675711	footnote
-1675714	footnote
-1675717	footnote
-1675719	footnote
-1675721	footnote
-1675724	footnote
-1675726	footnote
-1675728	footnote
-1675730	footnote
-1675732	footnote
-1675734	footnote
-1675736	footnote
-1675738	footnote
-1675740	footnote
-1675742	footnote
-1675744	footnote
-1675746	footnote
-1675748	footnote
-1675750	footnote
-1675753	footnote
-1675755	footnote
-1675757	footnote
-1675759	footnote
-1675761	footnote
-1675763	footnote
-1675765	footnote
-1675768	footnote
-1675771	footnote
-1675774	footnote
-1675776	footnote
-1675779	footnote
-1675781	footnote
-1675783	footnote
-1675785	footnote
-1675788	footnote
-1675790	footnote
-1675793	footnote
-1675797	footnote
-1675800	footnote
-1675802	footnote
-1675804	footnote
-1675806	footnote
-1675809	footnote
-1675813	footnote
-1675815	footnote
-1675817	italic
+1773111	footnote
+1773114	footnote
+1773117	footnote
+1773119	footnote
+1773122	footnote
+1773124	footnote
+1773126	footnote
+1773128	footnote
+1773130	footnote
+1773132	footnote
+1773135	footnote
+1773138	footnote
+1773141	footnote
+1773145	italic
+italic
+footnote
+1773149	footnote
+1773152	footnote
+1773154	footnote
+1773156	footnote
+1773158	footnote
+1773161	footnote
+1773163	footnote
+1773165	footnote
+1773168	footnote
+1773170	footnote
+1773173	footnote
+1773175	footnote
+1773177	footnote
+1773179	superscript
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773188	footnote
+1773191	footnote
+1773194	footnote
+1773196	footnote
+1773198	footnote
+1773201	footnote
+1773203	footnote
+1773205	footnote
+1773207	footnote
+1773210	footnote
+1773213	footnote
+1773215	footnote
+1773218	footnote
+1773220	footnote
+1773222	footnote
+1773224	footnote
+1773227	footnote
+1773230	footnote
+1773235	footnote
+1773237	smallcaps
+italic
+footnote
+1773241	footnote
+1773243	footnote
+1773246	footnote
+1773248	footnote
+1773250	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773257	footnote
+1773260	footnote
+1773263	footnote
+1773266	italic
+italic
+footnote
+1773271	footnote
+1773273	footnote
+1773275	superscript
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773283	footnote
+1773286	footnote
+1773289	footnote
+1773292	footnote
+1773294	footnote
+1773296	footnote
+1773298	footnote
+1773300	footnote
+1773302	footnote
+1773304	footnote
+1773307	footnote
+1773310	footnote
+1773312	footnote
+1773315	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773322	footnote
+1773325	footnote
+1773328	footnote
+1773330	footnote
+1773333	footnote
+1773336	footnote
+1773339	footnote
+1773342	footnote
+1773344	footnote
+1773346	italic
 italic
 italic
 footnote
-1675822	footnote
-1675825	footnote
-1675827	footnote
-1675829	footnote
-1675832	footnote
-1675834	footnote
-1675837	footnote
-1675839	footnote
-1675842	footnote
-1675845	footnote
-1675847	footnote
-1675850	footnote
-1675852	footnote
-1675854	footnote
-1675857	footnote
-1675860	footnote
-1675862	footnote
-1675864	footnote
-1675866	footnote
-1675868	footnote
-1675870	footnote
-1675872	footnote
-1675874	footnote
-1675876	footnote
-1675879	footnote
-1675881	footnote
-1675883	footnote
-1675885	footnote
-1675888	footnote
-1675890	footnote
-1675893	footnote
-1675896	footnote
-1675898	footnote
-1675900	footnote
-1675902	footnote
-1675904	superscript
+1773352	footnote
+1773355	footnote
+1773358	footnote
+1773361	footnote
+1773363	footnote
+1773365	footnote
+1773368	footnote
+1773370	footnote
+1773372	footnote
+1773375	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773382	footnote
+1773385	footnote
+1773388	footnote
+1773391	italic
+italic
+italic
+footnote
+1773397	footnote
+1773402	footnote
+1773404	footnote
+1773407	footnote
+1773410	italic
+italic
+footnote
+1773414	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773422	footnote
+1773425	footnote
+1773427	footnote
+1773430	footnote
+1773433	footnote
+1773435	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773442	footnote
+1773445	italic
+italic
+footnote
+1773450	footnote
+1773452	footnote
+1773455	footnote
+1773458	footnote
+1773461	footnote
+1773464	footnote
+1773467	footnote
+1773470	footnote
+1773473	footnote
+1773476	footnote
+1773478	footnote
+1773481	footnote
+1773483	footnote
+1773485	footnote
+1773487	footnote
+1773489	footnote
+1773491	footnote
+1773493	footnote
+1773496	footnote
+1773499	footnote
+1773503	footnote
+1773505	footnote
+1773507	footnote
+1773509	footnote
+1773512	footnote
+1773516	footnote
+1773518	italic
+italic
+footnote
+1773523	footnote
+1773526	footnote
+1773528	footnote
+1773532	footnote
+1773534	footnote
+1773536	footnote
+1773539	footnote
+1773542	footnote
+1773544	footnote
+1773547	footnote
+1773549	footnote
+1773552	footnote
+1773554	footnote
+1773556	superscript
+italic
+italic
+superscript
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1773568	footnote
+1773571	footnote
+1773574	footnote
+1773577	footnote
+1773579	footnote
+1773582	footnote
+1773585	footnote
+1773587	footnote
+1773589	footnote
+1773592	footnote
+1773595	italic
+italic
+footnote
+1773599	footnote
+1773602	footnote
+1773604	footnote
+1773607	footnote
+1773609	footnote
+1773611	footnote
+1773613	footnote
+1773615	footnote
+1773617	footnote
+1773621	footnote
+1773623	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1773651	footnote
+1773653	footnote
+1773655	footnote
+1773657	footnote
+1773659	footnote
+1773661	footnote
+1773664	footnote
+1773666	footnote
+1773669	superscript
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1773678	footnote
+1773680	footnote
+1773683	footnote
+1773686	footnote
+1773689	footnote
+1773694	footnote
+1773697	footnote
+1773699	footnote
+1773701	footnote
+1773704	footnote
+1773706	footnote
+1773708	footnote
+1773710	footnote
+1773713	footnote
+1773716	footnote
+1773719	footnote
+1773721	footnote
+1773723	footnote
+1773725	footnote
+1773727	footnote
+1773729	footnote
+1773731	footnote
+1773733	footnote
+1773735	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1773777	footnote
+1773779	footnote
+1773781	footnote
+1773783	footnote
+1773785	footnote
+1773787	footnote
+1773790	footnote
+1773792	footnote
+1773795	footnote
+1773797	footnote
+1773800	footnote
+1773802	footnote
+1773804	footnote
+1773806	footnote
+1773808	footnote
+1773810	footnote
+1773812	footnote
+1773815	footnote
+1773817	footnote
+1773819	footnote
+1773821	footnote
+1773823	footnote
+1773825	footnote
+1773827	footnote
+1773830	footnote
+1773833	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773841	footnote
+1773843	footnote
+1773845	footnote
+1773847	footnote
+1773850	footnote
+1773852	footnote
+1773854	footnote
+1773856	footnote
+1773858	footnote
+1773860	footnote
+1773863	footnote
+1773865	footnote
+1773867	superscript
+smallcaps
+italic
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773878	footnote
+1773881	footnote
+1773883	footnote
+1773885	footnote
+1773889	footnote
+1773891	footnote
+1773894	footnote
+1773897	footnote
+1773899	footnote
+1773902	footnote
+1773904	superscript
+italic
+italic
+superscript
+italic
+italic
+footnote
+1773912	footnote
+1773915	footnote
+1773918	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1773932	footnote
+1773934	footnote
+1773936	footnote
+1773939	footnote
+1773942	footnote
+1773945	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1773952	footnote
+1773955	footnote
+1773958	footnote
+1773961	footnote
+1773963	footnote
+1773965	footnote
+1773968	footnote
+1773970	superscript
+smallcaps
+superscript
+italic
+superscript
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1773983	footnote
+1773986	footnote
+1773989	footnote
+1773992	footnote
+1773994	footnote
+1773996	footnote
+1773998	footnote
+1774001	footnote
+1774004	footnote
+1774007	footnote
+1774010	footnote
+1774012	footnote
+1774014	footnote
+1774016	footnote
+1774018	footnote
+1774021	footnote
+1774024	footnote
+1774026	footnote
+1774028	footnote
+1774030	footnote
+1774032	footnote
+1774034	footnote
+1774037	footnote
+1774039	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1774054	footnote
+1774056	footnote
+1774058	footnote
+1774060	footnote
+1774062	footnote
+1774065	footnote
+1774068	footnote
+1774070	footnote
+1774072	footnote
+1774075	footnote
+1774078	footnote
+1774082	footnote
+1774085	footnote
+1774087	footnote
+1774090	footnote
+1774093	footnote
+1774096	footnote
+1774099	footnote
+1774101	footnote
+1774104	footnote
+1774107	footnote
+1774111	footnote
+1774114	footnote
+1774116	footnote
+1774118	footnote
+1774120	footnote
+1774123	footnote
+1774126	footnote
+1774129	footnote
+1774131	footnote
+1774134	footnote
+1774137	footnote
+1774140	footnote
+1774143	footnote
+1774146	footnote
+1774149	footnote
+1774153	footnote
+1774155	footnote
+1774157	footnote
+1774159	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1774166	footnote
+1774168	footnote
+1774171	footnote
+1774173	footnote
+1774175	footnote
+1774177	footnote
+1774180	superscript
+italic
+superscript
+italic
+superscript
+italic
+italic
+superscript
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1774195	footnote
+1774197	footnote
+1774200	footnote
+1774202	footnote
+1774204	footnote
+1774206	footnote
+1774208	footnote
+1774210	footnote
+1774212	footnote
+1774214	footnote
+1774216	footnote
+1774219	footnote
+1774221	footnote
+1774223	footnote
+1774225	footnote
+1774228	footnote
+1774230	footnote
+1774232	footnote
+1774234	footnote
+1774237	footnote
+1774239	footnote
+1774241	footnote
+1774243	footnote
+1774245	footnote
+1774247	footnote
+1774249	footnote
+1774251	footnote
+1774254	footnote
+1774258	footnote
+1774260	footnote
+1774263	footnote
+1774268	footnote
+1774270	footnote
+1774273	footnote
+1774275	footnote
+1774278	footnote
+1774280	footnote
+1774283	footnote
+1774287	footnote
+1774289	footnote
+1774292	footnote
+1774294	italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1774303	footnote
+1774305	footnote
+1774308	footnote
+1774310	footnote
+1774312	footnote
+1774314	footnote
+1774316	footnote
+1774319	footnote
+1774322	footnote
+1774324	footnote
+1774327	footnote
+1774329	footnote
+1774333	footnote
+1774335	footnote
+1774338	footnote
+1774340	footnote
+1774342	footnote
+1774344	footnote
+1774347	footnote
+1774349	superscript
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+italic
+superscript
+footnote
+1774362	footnote
+1774364	footnote
+1774366	footnote
+1774368	footnote
+1774370	footnote
+1774373	footnote
+1774376	footnote
+1774379	footnote
+1774381	footnote
+1774383	footnote
+1774385	footnote
+1774387	footnote
+1774390	footnote
+1774393	footnote
+1774395	footnote
+1774397	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1774405	footnote
+1774407	footnote
+1774410	footnote
+1774413	footnote
+1774415	footnote
+1774418	footnote
+1774420	footnote
+1774422	footnote
+1774424	footnote
+1774426	footnote
+1774428	footnote
+1774430	footnote
+1774432	footnote
+1774435	footnote
+1774437	footnote
+1774440	footnote
+1774443	footnote
+1774445	footnote
+1774448	footnote
+1774450	footnote
+1774452	footnote
+1774454	footnote
+1774456	superscript
+italic
+italic
+footnote
+1774462	footnote
+1774464	footnote
+1774468	footnote
+1774470	footnote
+1774473	italic
+italic
+italic
+footnote
+1774478	footnote
+1774481	footnote
+1774483	footnote
+1774485	footnote
+1774487	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1774507	footnote
+1774509	footnote
+1774511	footnote
+1774513	footnote
+1774515	footnote
+1774517	footnote
+1774519	footnote
+1774522	footnote
+1774524	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1774531	footnote
+1774534	footnote
+1774537	footnote
+1774540	footnote
+1774542	footnote
+1774544	footnote
+1774546	footnote
+1774548	footnote
+1774551	footnote
+1774553	footnote
+1774556	footnote
+1774558	footnote
+1774561	footnote
+1774563	footnote
+1774565	superscript
+italic
+superscript
+italic
+italic
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1774577	footnote
+1774579	footnote
+1774582	footnote
+1774584	footnote
+1774588	footnote
+1774590	footnote
+1774592	footnote
+1774594	footnote
+1774596	footnote
+1774598	footnote
+1774600	footnote
+1774602	footnote
+1774605	footnote
+1774607	footnote
+1774609	footnote
+1774611	footnote
+1774614	footnote
+1774616	footnote
+1774619	footnote
+1774621	footnote
+1774624	footnote
+1774626	footnote
+1774628	superscript
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1774636	footnote
+1774638	footnote
+1774640	footnote
+1774643	footnote
+1774645	footnote
+1774647	footnote
+1774649	footnote
+1774651	footnote
+1774653	footnote
+1774656	footnote
+1774658	footnote
+1774660	footnote
+1774662	superscript
+superscript
+italic
+footnote
+1774667	footnote
+1774669	footnote
+1774671	footnote
+1774673	footnote
+1774675	footnote
+1774677	footnote
+1774679	footnote
+1774681	footnote
+1774683	footnote
+1774685	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1774719	footnote
+1774721	footnote
+1774723	footnote
+1774725	footnote
+1774727	footnote
+1774729	footnote
+1774731	footnote
+1774733	footnote
+1774735	footnote
+1774738	footnote
+1774740	footnote
+1774742	footnote
+1774744	footnote
+1774746	footnote
+1774748	superscript
+italic
+superscript
+italic
+smallcaps
+superscript
+superscript
+footnote
+1774758	footnote
+1774760	footnote
+1774762	footnote
+1774764	footnote
+1774766	footnote
+1774768	footnote
+1774770	footnote
+1774772	footnote
+1774775	footnote
+1774777	superscript
+italic
 superscript
 italic
 smallcaps
@@ -4755,301 +2946,36 @@ superscript
 italic
 superscript
 footnote
-1675914	footnote
-1675917	footnote
-1675920	footnote
-1675923	footnote
-1675926	footnote
-1675928	footnote
-1675930	footnote
-1675933	footnote
-1675935	footnote
-1675938	footnote
-1675940	footnote
-1675943	footnote
-1675945	footnote
-1675948	footnote
-1675951	footnote
-1675953	footnote
-1675955	footnote
-1675958	footnote
-1675960	footnote
-1675962	footnote
-1675964	footnote
-1675966	footnote
-1675968	footnote
-1675970	italic
-italic
-footnote
-1675974	footnote
-1675977	footnote
-1675979	footnote
-1675981	footnote
-1675983	footnote
-1675985	footnote
-1675987	footnote
-1675990	footnote
-1675993	footnote
-1675996	footnote
-1675998	footnote
-1676001	footnote
-1676003	footnote
-1676005	footnote
-1676007	footnote
-1676009	footnote
-1676011	footnote
-1676013	footnote
-1676016	footnote
-1676019	footnote
-1676022	footnote
-1676025	footnote
-1676028	footnote
-1676030	footnote
-1676032	footnote
-1676034	footnote
-1676036	footnote
-1676038	footnote
-1676040	footnote
-1676042	footnote
-1676044	footnote
-1676046	footnote
-1676048	italic
-superscript
-italic
-superscript
-footnote
-1676054	footnote
-1676056	footnote
-1676059	footnote
-1676061	footnote
-1676065	footnote
-1676067	footnote
-1676070	footnote
-1676072	footnote
-1676075	footnote
-1676078	footnote
-1676080	footnote
-1676082	footnote
-1676084	footnote
-1676086	footnote
-1676089	superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1676098	footnote
-1676100	footnote
-1676102	footnote
-1676105	footnote
-1676107	footnote
-1676109	footnote
-1676111	italic
-italic
-footnote
-1676115	footnote
-1676117	footnote
-1676119	footnote
-1676122	footnote
-1676124	footnote
-1676127	footnote
-1676130	footnote
-1676133	footnote
-1676135	footnote
-1676137	footnote
-1676139	footnote
-1676142	footnote
-1676145	footnote
-1676148	footnote
-1676151	footnote
-1676154	footnote
-1676156	footnote
-1676158	footnote
-1676161	footnote
-footnote
-1676164	footnote
-1676166	footnote
-1676168	italic
-superscript
-italic
-footnote
-1676173	footnote
-1676175	footnote
-1676178	footnote
-1676180	footnote
-1676182	footnote
-1676184	footnote
-1676187	footnote
-1676189	footnote
-1676192	footnote
-1676195	footnote
-1676198	footnote
-1676200	footnote
-1676203	footnote
-1676205	smallcaps
-italic
-italic
-smallcaps
-footnote
-1676211	superscript
-italic
-italic
-superscript
-italic
-smallcaps
-footnote
-1676219	footnote
-1676221	footnote
-1676224	footnote
-1676226	footnote
-1676229	footnote
-1676231	footnote
-1676234	footnote
-1676236	footnote
-1676239	footnote
-1676242	footnote
-1676245	footnote
-1676248	footnote
-1676250	footnote
-1676252	footnote
-1676255	footnote
-1676257	italic
-smallcaps
-footnote
-1676262	footnote
-1676265	footnote
-1676267	footnote
-1676269	footnote
-1676272	footnote
-1676274	footnote
-1676276	footnote
-1676278	footnote
-1676281	footnote
-1676283	footnote
-1676286	footnote
-1676288	footnote
-1676290	footnote
-1676292	footnote
-1676295	footnote
-1676297	footnote
-1676300	footnote
-1676303	footnote
-1676305	italic
-smallcaps
-footnote
-1676309	footnote
-1676312	footnote
-1676315	footnote
-1676318	italic
-italic
-smallcaps
-footnote
-1676323	footnote
-1676326	footnote
-1676329	footnote
-1676331	footnote
-1676334	footnote
-1676337	footnote
-1676339	footnote
-1676342	footnote
-1676344	footnote
-1676347	footnote
-1676350	footnote
-1676352	footnote
-1676355	footnote
-1676357	footnote
-footnote
-1676361	footnote
-1676363	italic
-italic
-footnote
-1676367	footnote
-1676370	footnote
-1676373	footnote
-1676375	footnote
-1676377	footnote
-1676380	footnote
-1676383	footnote
-1676385	footnote
-1676388	footnote
-1676390	footnote
-1676392	italic
-italic
-italic
-italic
-footnote
-1676398	footnote
-1676400	footnote
-1676403	footnote
-1676405	italic
-italic
-footnote
-1676410	footnote
-1676412	footnote
-1676415	footnote
-1676417	footnote
-1676420	footnote
-1676422	footnote
-1676424	footnote
-1676427	footnote
-1676429	footnote
-1676432	footnote
-1676435	footnote
-1676437	italic
-italic
-footnote
-1676442	footnote
-1676445	footnote
-1676448	footnote
-1676450	footnote
-1676453	footnote
-1676456	footnote
-1676459	footnote
-1676461	footnote
-1676463	footnote
-1676466	footnote
-1676468	footnote
-1676470	footnote
-1676472	superscript
-italic
-superscript
-italic
-footnote
-1676479	footnote
-1676482	footnote
-1676485	footnote
-1676488	footnote
-1676490	footnote
-1676493	footnote
-1676496	footnote
-1676499	footnote
-1676502	footnote
-1676505	footnote
-1676507	italic
-italic
-italic
-footnote
-1676513	footnote
-1676515	footnote
-1676518	footnote
-1676520	smallcaps
-italic
-footnote
-1676524	footnote
-1676526	footnote
-1676528	footnote
-1676531	footnote
-1676534	footnote
-1676537	footnote
-1676540	footnote
-1676543	footnote
-1676545	footnote
-1676548	footnote
-1676551	footnote
-1676553	footnote
-1676555	footnote
-1676558	italic
+1774787	footnote
+1774789	footnote
+1774791	footnote
+1774793	footnote
+1774796	footnote
+1774798	footnote
+1774801	footnote
+1774803	footnote
+1774805	footnote
+1774807	footnote
+1774809	footnote
+1774811	footnote
+1774813	footnote
+1774815	footnote
+1774818	footnote
+1774820	footnote
+1774822	footnote
+1774824	footnote
+1774826	footnote
+1774828	footnote
+1774830	footnote
+1774833	footnote
+1774835	footnote
+1774837	footnote
+1774839	footnote
+1774841	footnote
+1774843	footnote
+1774845	footnote
+1774847	footnote
+1774849	italic
 italic
 italic
 italic
@@ -5059,8 +2985,9 @@ italic
 italic
 italic
 italic
-smallcaps
-smallcaps
+italic
+italic
+italic
 italic
 italic
 italic
@@ -5072,212 +2999,2285 @@ italic
 smallcaps
 italic
 italic
-italic
-italic
-smallcaps
-italic
-italic
-smallcaps
-smallcaps
-smallcaps
-smallcaps
-smallcaps
-italic
-italic
 footnote
-1676596	footnote
-1676599	footnote
-1676602	footnote
-1676604	footnote
-1676607	footnote
-1676609	footnote
-1676611	footnote
-1676613	footnote
-1676615	footnote
-1676617	footnote
-1676619	footnote
-1676622	footnote
-1676624	footnote
-1676626	footnote
-1676628	footnote
-1676630	footnote
-1676632	footnote
-1676634	footnote
-1676636	footnote
-1676638	footnote
-1676640	footnote
-1676642	footnote
-1676644	footnote
-1676647	footnote
-1676649	footnote
-1676651	footnote
-1676653	footnote
-1676655	footnote
-1676657	footnote
-1676659	footnote
-1676661	footnote
-1676663	footnote
-1676665	footnote
-1676667	footnote
-1676669	footnote
-1676671	footnote
-1676675	footnote
-1676677	footnote
-1676679	footnote
-1676681	footnote
-1676683	footnote
-1676685	footnote
-1676688	footnote
-1676691	footnote
-1676693	footnote
-1676695	footnote
-1676697	footnote
-1676699	footnote
-1676701	footnote
-1676703	footnote
-1676705	footnote
-1676707	footnote
-1676709	footnote
-1676711	footnote
-1676713	footnote
-1676715	footnote
-1676717	footnote
-1676719	footnote
-1676721	footnote
-1676723	footnote
-1676725	footnote
-1676728	footnote
-1676731	footnote
-1676733	footnote
-1676735	footnote
-1676738	footnote
-1676740	footnote
-1676743	footnote
-1676745	footnote
-1676747	footnote
-1676749	footnote
-1676751	footnote
-1676754	footnote
-1676757	footnote
-1676760	footnote
-1676762	footnote
-1676764	footnote
-1676767	footnote
-1676772	footnote
-1676774	footnote
-1676776	footnote
-1676778	footnote
-1676780	footnote
-1676782	footnote
-1676784	footnote
-1676786	footnote
-1676788	footnote
-1676790	footnote
-1676792	footnote
-1676795	footnote
-1676797	footnote
-1676799	footnote
-1676801	footnote
-1676803	footnote
-1676805	footnote
-1676807	footnote
-1676809	footnote
-1676811	footnote
-1676813	footnote
-1676815	footnote
-1676817	footnote
-1676819	footnote
-1676821	footnote
-1676824	footnote
-1676827	footnote
-1676829	footnote
-1676832	footnote
-1676834	footnote
-1676836	footnote
-1676839	footnote
-1676842	footnote
-1676845	footnote
-1676848	footnote
-1676850	footnote
-1676853	footnote
-1676855	footnote
-1676857	footnote
-1676859	footnote
-1676861	footnote
-1676863	footnote
-1676865	footnote
-1676867	footnote
-1676869	footnote
-1676872	footnote
-1676874	footnote
-1676877	footnote
-1676881	footnote
-1676883	footnote
-1676886	footnote
-1676888	footnote
-1676890	footnote
-1676892	footnote
-1676894	footnote
-1676897	footnote
-1676899	footnote
-1676903	footnote
-1676905	footnote
-1676907	footnote
-1676909	footnote
-1676912	footnote
-1676915	footnote
-1676918	footnote
-1676920	footnote
-1676923	footnote
-1676926	footnote
-1676929	footnote
-1676932	footnote
-1676935	footnote
-1676937	footnote
-1676939	footnote
-1676942	footnote
-1676944	footnote
-1676947	footnote
-1676950	footnote
-1676952	footnote
-1676954	footnote
-1676957	footnote
-1676959	footnote
-1676962	footnote
-1676965	footnote
-1676968	footnote
-1676971	footnote
-1676975	footnote
-1676977	footnote
-1676980	footnote
-1676983	footnote
-1676986	footnote
-1676988	footnote
-1676991	footnote
-1676994	footnote
-1676997	footnote
-1676999	footnote
-1677002	footnote
-1677005	footnote
-1677008	footnote
-1677010	footnote
-1677013	footnote
-1677016	footnote
-1677019	footnote
-1677021	footnote
-1677024	footnote
-1677027	footnote
-1677030	italic
+1774875	footnote
+1774877	footnote
+1774879	footnote
+1774881	footnote
+1774883	footnote
+1774885	footnote
+1774887	footnote
+1774889	footnote
+1774891	footnote
+1774894	footnote
+1774897	footnote
+1774899	footnote
+1774901	footnote
+1774903	footnote
+1774905	footnote
+1774907	superscript
+italic
+superscript
+italic
 superscript
 footnote
-1677034	footnote
-1677037	footnote
-1677040	footnote
-1677042	footnote
-1677045	footnote
-1677047	footnote
-1677049	footnote
-1677051	italic
+1774914	footnote
+1774916	footnote
+1774918	footnote
+1774920	footnote
+1774922	footnote
+1774924	footnote
+1774929	footnote
+1774932	footnote
+1774934	footnote
+1774936	footnote
+1774938	footnote
+1774940	footnote
+1774942	footnote
+1774944	footnote
+1774946	footnote
+1774948	footnote
+1774950	footnote
+1774952	footnote
+1774954	footnote
+1774956	footnote
+1774958	superscript
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1774968	footnote
+1774971	footnote
+1774974	footnote
+1774976	footnote
+1774978	footnote
+1774981	footnote
+1774983	footnote
+1774985	footnote
+1774987	footnote
+1774989	footnote
+1774991	footnote
+1774993	footnote
+1774995	footnote
+1774997	italic
+superscript
+italic
+superscript
+footnote
+1775004	footnote
+1775007	footnote
+1775011	footnote
+1775013	footnote
+1775015	footnote
+1775017	footnote
+1775020	footnote
+1775022	footnote
+1775024	superscript
+italic
+italic
+superscript
+italic
+superscript
+superscript
+footnote
+1775034	footnote
+1775036	footnote
+1775039	footnote
+1775042	footnote
+1775044	footnote
+1775047	footnote
+1775049	footnote
+1775051	footnote
+1775053	footnote
+1775056	footnote
+1775058	footnote
+1775060	footnote
+1775062	footnote
+1775064	footnote
+1775066	footnote
+1775068	footnote
+1775070	footnote
+1775072	footnote
+1775074	footnote
+1775077	footnote
+1775079	footnote
+1775081	footnote
+1775083	footnote
+1775086	footnote
+1775090	footnote
+1775092	superscript
+superscript
+italic
+superscript
+footnote
+1775098	footnote
+1775101	footnote
+1775104	footnote
+1775106	footnote
+1775108	footnote
+1775110	footnote
+1775112	footnote
+1775114	footnote
+1775116	footnote
+1775119	footnote
+1775122	footnote
+1775124	italic
+italic
+footnote
+1775128	footnote
+1775131	footnote
+1775133	footnote
+1775135	footnote
+1775137	footnote
+1775139	footnote
+1775141	footnote
+1775143	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1775150	footnote
+1775152	footnote
+1775155	footnote
+1775157	footnote
+1775159	footnote
+1775161	footnote
+1775163	footnote
+1775166	footnote
+1775168	footnote
+1775170	footnote
+1775172	footnote
+1775176	footnote
+1775178	footnote
+1775180	footnote
+1775182	footnote
+1775184	footnote
+1775186	footnote
+1775188	footnote
+1775190	footnote
+1775192	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1775199	footnote
+1775201	footnote
+1775203	footnote
+1775205	footnote
+1775207	footnote
+1775209	footnote
+1775211	footnote
+1775213	footnote
+1775215	footnote
+1775217	footnote
+1775220	footnote
+1775222	footnote
+1775224	footnote
+1775226	footnote
+1775228	italic
+italic
+footnote
+1775232	footnote
+1775234	footnote
+1775237	footnote
+1775239	footnote
+1775242	footnote
+1775244	footnote
+1775247	footnote
+1775249	footnote
+1775251	footnote
+1775253	footnote
+1775255	footnote
+1775258	footnote
+1775260	footnote
+1775262	footnote
+1775264	superscript
+italic
+italic
+superscript
+italic
+italic
+superscript
+footnote
+1775274	footnote
+1775276	footnote
+1775279	footnote
+1775281	footnote
+1775283	footnote
+1775285	footnote
+1775287	footnote
+1775290	footnote
+1775293	footnote
+1775295	footnote
+1775297	italic
+italic
+italic
+italic
+footnote
+1775303	footnote
+1775306	footnote
+1775308	footnote
+1775310	footnote
+1775312	footnote
+1775315	footnote
+1775317	footnote
+1775319	footnote
+1775321	footnote
+1775323	italic
+italic
+italic
+italic
+italic
+superscript
+italic
+footnote
+1775332	footnote
+1775335	footnote
+1775337	footnote
+1775340	footnote
+1775342	footnote
+1775344	footnote
+1775346	footnote
+1775348	footnote
+1775351	footnote
+1775353	footnote
+1775356	italic
+italic
+italic
+footnote
+1775361	footnote
+1775364	footnote
+1775366	footnote
+1775369	footnote
+1775372	footnote
+1775375	footnote
+1775377	footnote
+1775380	footnote
+1775382	footnote
+1775385	footnote
+1775388	footnote
+1775391	footnote
+1775393	footnote
+1775396	footnote
+1775398	footnote
+1775400	footnote
+1775403	footnote
+1775406	footnote
+1775408	footnote
+1775410	footnote
+1775412	footnote
+1775414	footnote
+1775416	footnote
+1775418	footnote
+1775420	footnote
+1775422	footnote
+1775424	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1775435	footnote
+1775437	footnote
+1775439	footnote
+1775441	footnote
+1775443	footnote
+1775446	footnote
+1775448	footnote
+1775451	footnote
+1775453	footnote
+1775456	footnote
+1775459	footnote
+1775462	footnote
+1775465	footnote
+1775467	footnote
+1775469	footnote
+1775471	footnote
+1775473	footnote
+1775475	italic
+footnote
+1775478	footnote
+1775481	footnote
+1775483	footnote
+1775485	footnote
+1775487	footnote
+1775490	footnote
+1775493	footnote
+1775495	footnote
+1775497	footnote
+1775500	footnote
+1775502	italic
+italic
+superscript
+footnote
+1775507	footnote
+1775510	footnote
+1775513	footnote
+1775515	footnote
+1775518	footnote
+1775521	footnote
+1775523	footnote
+1775526	footnote
+1775528	footnote
+1775531	footnote
+1775534	footnote
+1775537	footnote
+1775539	footnote
+1775542	footnote
+1775545	footnote
+1775547	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1775557	footnote
+1775559	footnote
+1775561	footnote
+1775563	footnote
+1775567	footnote
+1775569	footnote
+1775571	footnote
+1775573	footnote
+1775575	footnote
+1775579	footnote
+1775581	footnote
+1775583	footnote
+1775585	footnote
+1775587	italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1775595	footnote
+1775597	footnote
+1775599	footnote
+1775601	footnote
+1775603	footnote
+1775606	footnote
+1775608	footnote
+1775610	footnote
+1775612	footnote
+1775614	footnote
+1775616	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1775624	footnote
+1775627	footnote
+1775629	footnote
+1775632	footnote
+1775634	footnote
+1775636	footnote
+1775638	italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1775647	footnote
+1775650	footnote
+1775652	footnote
+1775654	footnote
+1775656	footnote
+1775659	footnote
+1775661	footnote
+1775664	footnote
+1775667	footnote
+1775670	footnote
+1775672	footnote
+1775675	footnote
+1775678	footnote
+1775681	footnote
+1775683	italic
+italic
+italic
+italic
+footnote
+1775691	footnote
+1775693	footnote
+1775697	footnote
+1775700	footnote
+1775702	footnote
+1775705	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1775728	footnote
+1775730	footnote
+1775732	footnote
+1775734	footnote
+1775737	footnote
+1775740	footnote
+1775742	footnote
+1775745	footnote
+1775748	footnote
+1775751	footnote
+1775754	footnote
+1775757	footnote
+1775759	footnote
+1775762	footnote
+1775764	footnote
+1775766	footnote
+1775769	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1775806	footnote
+1775808	footnote
+1775810	footnote
+1775812	footnote
+1775814	footnote
+1775817	footnote
+1775820	footnote
+1775822	footnote
+1775824	footnote
+1775827	footnote
+1775830	footnote
+1775832	footnote
+1775834	footnote
+1775837	footnote
+1775840	footnote
+1775842	footnote
+1775845	footnote
+1775847	footnote
+1775850	footnote
+1775852	footnote
+1775854	footnote
+1775856	footnote
+1775859	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+superscript
+italic
+italic
+footnote
+1775879	footnote
+1775882	footnote
+1775885	footnote
+1775887	footnote
+1775890	footnote
+1775892	footnote
+1775895	footnote
+1775897	footnote
+1775900	footnote
+1775903	footnote
+1775905	footnote
+1775907	footnote
+1775910	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+superscript
+italic
+italic
+superscript
+italic
+italic
+superscript
+footnote
+1775942	footnote
+1775945	footnote
+1775947	footnote
+1775949	footnote
+1775952	footnote
+1775954	footnote
+1775956	footnote
+1775959	footnote
+1775962	footnote
+1775964	footnote
+1775967	footnote
+1775969	footnote
+1775972	footnote
+1775975	footnote
+1775978	footnote
+1775981	footnote
+1775984	footnote
+1775986	footnote
+1775989	footnote
+1775991	footnote
+1775994	footnote
+1775996	footnote
+1775998	footnote
+1776000	footnote
+1776003	footnote
+1776005	footnote
+1776007	footnote
+1776010	footnote
+1776013	footnote
+1776016	footnote
+1776018	footnote
+1776021	footnote
+1776023	footnote
+1776025	italic
+italic
+footnote
+1776029	footnote
+1776032	italic
+italic
+italic
+footnote
+1776038	footnote
+1776040	footnote
+1776042	footnote
+1776044	footnote
+1776047	footnote
+1776049	footnote
+1776051	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1776059	footnote
+1776061	footnote
+1776064	footnote
+1776067	footnote
+1776070	footnote
+1776072	footnote
+1776074	footnote
+1776076	footnote
+1776078	footnote
+1776080	smallcaps
+italic
+italic
+italic
+footnote
+1776087	footnote
+1776089	footnote
+1776091	footnote
+1776093	footnote
+1776095	footnote
+1776097	footnote
+1776099	footnote
+1776101	footnote
+1776103	footnote
+1776105	footnote
+1776107	footnote
+1776109	superscript
+superscript
+italic
+superscript
+footnote
+1776116	footnote
+1776119	footnote
+1776121	footnote
+1776123	footnote
+1776126	superscript
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1776140	footnote
+1776143	footnote
+1776145	footnote
+1776147	footnote
+1776149	footnote
+1776151	footnote
+1776154	footnote
+1776156	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776206	footnote
+1776209	footnote
+1776211	footnote
+1776213	footnote
+1776215	footnote
+1776217	footnote
+1776220	footnote
+1776222	footnote
+1776224	footnote
+1776226	footnote
+1776228	footnote
+1776230	footnote
+1776232	footnote
+1776236	footnote
+1776239	footnote
+1776241	footnote
+1776246	footnote
+1776250	footnote
+1776253	footnote
+1776257	footnote
+1776260	footnote
+1776263	footnote
+1776266	footnote
+1776268	footnote
+1776273	footnote
+1776278	footnote
+1776283	footnote
+1776285	footnote
+1776290	footnote
+1776292	footnote
+1776297	footnote
+1776299	footnote
+1776301	footnote
+1776304	footnote
+1776306	footnote
+1776308	footnote
+1776310	superscript
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1776323	footnote
+1776326	footnote
+1776328	footnote
+1776330	footnote
+1776332	footnote
+1776334	footnote
+1776337	footnote
+1776340	footnote
+1776343	footnote
+1776345	footnote
+1776348	footnote
+1776350	footnote
+1776352	footnote
+1776354	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776369	footnote
+1776371	footnote
+1776373	footnote
+1776375	footnote
+1776377	footnote
+1776379	footnote
+1776382	footnote
+1776384	footnote
+1776387	footnote
+1776389	footnote
+1776391	footnote
+1776394	footnote
+1776396	footnote
+1776398	footnote
+1776401	footnote
+1776403	footnote
+1776406	footnote
+1776409	footnote
+1776411	footnote
+1776414	footnote
+1776417	footnote
+1776419	footnote
+1776422	footnote
+1776425	footnote
+1776428	footnote
+1776431	footnote
+1776434	smallcaps
+italic
+italic
+smallcaps
+footnote
+1776440	footnote
+1776442	footnote
+1776444	footnote
+1776447	footnote
+1776449	footnote
+1776451	smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776462	smallcaps
+superscript
+italic
+footnote
+1776468	footnote
+1776471	footnote
+1776474	footnote
+1776476	footnote
+1776479	footnote
+1776482	superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1776490	footnote
+1776493	footnote
+1776495	footnote
+1776498	footnote
+1776500	footnote
+1776502	footnote
+1776504	footnote
+1776508	footnote
+1776511	footnote
+1776514	footnote
+1776516	superscript
+italic
+superscript
+italic
+superscript
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+footnote
+1776537	footnote
+1776540	footnote
+1776542	footnote
+1776544	footnote
+1776546	footnote
+1776549	footnote
+1776551	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+superscript
+italic
+italic
+footnote
+1776567	footnote
+1776569	footnote
+1776572	footnote
+1776574	footnote
+1776576	footnote
+1776579	footnote
+1776581	footnote
+1776583	footnote
+1776585	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776603	footnote
+1776605	footnote
+1776608	footnote
+1776610	footnote
+1776612	footnote
+1776614	footnote
+1776616	footnote
+1776618	footnote
+1776620	footnote
+1776622	footnote
+1776624	footnote
+1776626	footnote
+1776628	footnote
+1776630	footnote
+1776633	footnote
+1776636	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776678	footnote
+1776680	footnote
+1776682	footnote
+1776684	footnote
+1776686	footnote
+1776689	footnote
+1776691	footnote
+1776693	footnote
+1776695	footnote
+1776697	footnote
+1776699	footnote
+1776701	footnote
+1776703	footnote
+1776706	footnote
+1776708	footnote
+1776710	footnote
+1776712	footnote
+1776714	footnote
+1776717	footnote
+1776719	footnote
+1776721	footnote
+1776723	footnote
+1776725	footnote
+1776727	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+superscript
+smallcaps
+superscript
+italic
+italic
+footnote
+1776752	footnote
+1776754	footnote
+1776756	footnote
+1776758	footnote
+1776760	footnote
+1776762	footnote
+1776765	footnote
+1776767	footnote
+1776769	footnote
+1776771	footnote
+1776774	footnote
+1776776	footnote
+1776780	footnote
+1776783	footnote
+1776785	footnote
+1776788	footnote
+1776790	footnote
+1776792	footnote
+1776795	footnote
+1776797	footnote
+1776800	footnote
+1776803	footnote
+1776806	footnote
+1776808	superscript
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1776818	footnote
+1776821	footnote
+1776823	footnote
+1776825	footnote
+1776828	footnote
+1776830	italic
+italic
+footnote
+1776834	footnote
+1776837	italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776867	footnote
+1776870	footnote
+1776872	footnote
+1776874	footnote
+1776877	footnote
+1776879	footnote
+1776882	footnote
+1776884	footnote
+1776887	footnote
+1776890	footnote
+1776892	footnote
+1776894	footnote
+1776896	footnote
+1776899	footnote
+1776901	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776913	footnote
+1776915	footnote
+1776918	footnote
+1776921	footnote
+1776923	footnote
+1776926	footnote
+1776928	footnote
+1776931	footnote
+1776933	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1776944	footnote
+1776946	footnote
+1776948	footnote
+1776951	footnote
+1776954	footnote
+1776956	superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1776967	footnote
+1776970	superscript
+superscript
+italic
+superscript
+italic
+superscript
+italic
+italic
+italic
+italic
+footnote
+1776983	footnote
+1776985	footnote
+1776988	footnote
+1776991	footnote
+1776993	italic
+italic
+footnote
+1776997	footnote
+1777000	footnote
+1777002	footnote
+1777004	italic
+italic
+footnote
+1777008	footnote
+1777010	footnote
+1777013	footnote
+1777015	footnote
+1777018	footnote
+1777021	footnote
+1777024	footnote
+1777027	footnote
+1777030	footnote
+1777032	footnote
+1777035	footnote
+1777038	footnote
+1777040	footnote
+1777044	footnote
+1777047	footnote
+1777050	footnote
+1777052	footnote
+1777054	footnote
+1777057	footnote
+1777059	footnote
+1777061	italic
+italic
+superscript
+italic
+italic
+footnote
+1777068	footnote
+1777071	footnote
+1777074	footnote
+1777077	footnote
+1777080	footnote
+1777082	footnote
+1777085	footnote
+1777088	footnote
+1777090	footnote
+1777092	footnote
+1777095	footnote
+1777097	footnote
+1777099	footnote
+1777101	footnote
+1777104	footnote
+1777106	footnote
+1777108	footnote
+1777111	footnote
+1777114	footnote
+1777116	footnote
+1777118	footnote
+1777120	footnote
+1777122	italic
+footnote
+1777125	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1777133	footnote
+1777135	footnote
+1777138	footnote
+1777140	italic
+footnote
+1777143	footnote
+1777145	footnote
+1777148	footnote
+1777151	footnote
+1777153	footnote
+1777155	footnote
+1777157	footnote
+1777159	superscript
+italic
+superscript
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1777173	footnote
+1777175	footnote
+1777177	footnote
+1777179	footnote
+1777181	footnote
+1777184	footnote
+1777186	footnote
+1777188	italic
+smallcaps
+smallcaps
+italic
+smallcaps
+italic
+footnote
+1777197	footnote
+1777199	footnote
+1777202	footnote
+1777204	footnote
+1777206	footnote
+1777208	footnote
+1777210	footnote
+1777212	footnote
+1777215	footnote
+1777218	footnote
+1777220	footnote
+1777222	footnote
+1777225	footnote
+1777227	footnote
+1777229	footnote
+1777231	footnote
+1777233	footnote
+1777235	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1777243	footnote
+1777245	footnote
+1777248	footnote
+1777251	smallcaps
+italic
+italic
+footnote
+1777256	footnote
+1777258	footnote
+1777260	footnote
+1777262	footnote
+1777265	footnote
+1777268	footnote
+1777270	footnote
+1777272	footnote
+1777275	footnote
+1777277	footnote
+1777280	footnote
+1777283	footnote
+1777285	superscript
+italic
+superscript
+italic
+italic
+italic
+smallcaps
+italic
+footnote
+1777296	footnote
+1777298	footnote
+1777300	footnote
+1777303	footnote
+1777306	footnote
+1777309	footnote
+1777311	footnote
+1777313	footnote
+1777316	footnote
+1777319	footnote
+1777321	footnote
+1777323	footnote
+1777325	footnote
+1777327	footnote
+1777330	superscript
+italic
+italic
+italic
+footnote
+1777337	footnote
+1777339	footnote
+1777342	footnote
+1777345	footnote
+1777347	footnote
+1777349	footnote
+1777352	footnote
+1777354	footnote
+1777356	footnote
+1777359	footnote
+1777362	footnote
+1777364	footnote
+1777367	footnote
+1777369	footnote
+1777372	footnote
+1777374	footnote
+1777376	footnote
+1777378	footnote
+1777380	footnote
+1777383	footnote
+1777385	superscript
+italic
+superscript
+italic
+footnote
+1777391	footnote
+1777394	footnote
+1777397	footnote
+1777401	footnote
+1777403	footnote
+1777405	footnote
+1777407	footnote
+1777410	footnote
+1777413	footnote
+1777416	footnote
+1777419	footnote
+1777422	footnote
+1777425	superscript
+superscript
+italic
+footnote
+1777430	footnote
+1777432	footnote
+1777434	footnote
+1777437	footnote
+1777439	footnote
+1777441	footnote
+1777444	italic
+italic
+italic
+italic
+italic
+footnote
+1777451	footnote
+1777453	footnote
+1777456	footnote
+1777458	footnote
+1777460	footnote
+1777463	footnote
+1777465	footnote
+1777468	footnote
+1777470	footnote
+1777473	footnote
+1777475	footnote
+1777478	footnote
+1777480	footnote
+1777482	footnote
+1777484	footnote
+1777486	footnote
+1777489	footnote
+1777491	footnote
+1777493	footnote
+1777496	footnote
+1777498	footnote
+1777500	footnote
+1777502	footnote
+1777504	footnote
+1777507	footnote
+1777509	superscript
+superscript
+italic
+italic
+italic
+superscript
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+superscript
+footnote
+1777525	footnote
+1777528	footnote
+1777531	footnote
+1777533	footnote
+1777535	footnote
+1777538	footnote
+1777541	footnote
+1777543	footnote
+1777545	footnote
+1777547	footnote
+1777550	footnote
+1777552	footnote
+1777555	footnote
+1777557	footnote
+1777559	footnote
+1777561	footnote
+1777563	footnote
+1777565	footnote
+1777567	footnote
+1777570	footnote
+1777572	footnote
+1777575	footnote
+1777578	footnote
+1777581	footnote
+1777583	footnote
+1777585	footnote
+1777588	footnote
+1777590	footnote
+1777593	footnote
+1777596	footnote
+1777598	footnote
+1777601	footnote
+1777604	footnote
+1777607	footnote
+1777610	footnote
+1777613	footnote
+1777616	footnote
+1777618	footnote
+1777621	footnote
+1777623	footnote
+1777625	footnote
+1777627	footnote
+1777629	footnote
+1777631	footnote
+1777633	footnote
+1777635	footnote
+1777637	footnote
+1777639	footnote
+1777642	footnote
+1777645	footnote
+1777647	footnote
+1777650	footnote
+1777653	footnote
+1777655	footnote
+1777657	footnote
+1777660	footnote
+1777662	footnote
+1777664	footnote
+1777666	footnote
+1777669	footnote
+1777671	footnote
+1777673	footnote
+1777676	footnote
+1777678	footnote
+1777680	footnote
+1777682	footnote
+1777684	footnote
+1777686	footnote
+1777689	footnote
+1777691	footnote
+1777693	footnote
+1777696	footnote
+1777698	footnote
+1777700	footnote
+1777702	footnote
+1777704	footnote
+1777706	footnote
+1777708	footnote
+1777710	footnote
+1777712	footnote
+1777714	footnote
+1777716	footnote
+1777718	footnote
+1777720	footnote
+1777722	footnote
+1777724	footnote
+1777726	footnote
+1777728	footnote
+1777730	footnote
+1777734	footnote
+1777736	footnote
+1777738	footnote
+1777740	italic
+italic
+smallcaps
+superscript
+footnote
+1777746	footnote
+1777748	footnote
+1777751	footnote
+1777754	footnote
+1777757	footnote
+1777762	footnote
+1777765	footnote
+1777767	footnote
+1777769	footnote
+1777771	footnote
+1777774	footnote
+1777776	footnote
+1777779	footnote
+1777782	footnote
+1777784	footnote
+1777786	footnote
+1777789	footnote
+1777791	footnote
+1777793	footnote
+1777795	footnote
+1777798	footnote
+1777800	footnote
+1777802	footnote
+1777804	footnote
+1777806	footnote
+1777808	footnote
+1777810	footnote
+1777812	footnote
+1777814	footnote
+1777816	footnote
+1777818	footnote
+1777820	footnote
+1777822	footnote
+1777824	footnote
+1777826	footnote
+1777828	footnote
+1777830	footnote
+1777833	footnote
+1777835	footnote
+1777837	footnote
+1777839	footnote
+1777842	footnote
+1777844	footnote
+1777847	footnote
+1777849	footnote
+1777852	footnote
+1777854	footnote
+1777856	footnote
+1777858	footnote
+1777860	footnote
+1777862	footnote
+1777864	footnote
+1777866	footnote
+1777870	footnote
+1777873	footnote
+1777875	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1777882	footnote
+1777885	footnote
+1777887	footnote
+1777889	footnote
+1777891	footnote
+1777893	footnote
+1777896	footnote
+1777899	footnote
+1777901	footnote
+1777903	footnote
+1777905	footnote
+1777907	footnote
+1777910	footnote
+1777912	footnote
+1777915	footnote
+1777917	footnote
+1777920	footnote
+1777923	footnote
+1777925	footnote
+1777927	footnote
+1777929	footnote
+1777931	superscript
+superscript
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1777941	footnote
+1777943	footnote
+1777945	footnote
+1777947	footnote
+1777949	footnote
+1777952	footnote
+1777955	footnote
+1777957	footnote
+1777959	footnote
+1777961	footnote
+1777963	footnote
+1777965	footnote
+1777967	footnote
+1777969	footnote
+1777972	footnote
+1777974	footnote
+1777977	footnote
+1777979	footnote
+1777982	footnote
+1777985	footnote
+1777988	footnote
+1777991	footnote
+1777994	footnote
+1777996	footnote
+1777998	footnote
+1778000	footnote
+1778002	footnote
+1778004	footnote
+1778006	footnote
+1778009	footnote
+1778011	footnote
+1778014	footnote
+1778017	footnote
+1778020	footnote
+1778022	footnote
+1778024	footnote
+1778027	footnote
+1778029	footnote
+1778031	footnote
+1778033	footnote
+1778035	footnote
+1778037	footnote
+1778039	footnote
+1778041	footnote
+1778043	footnote
+1778045	footnote
+1778047	footnote
+1778049	footnote
+1778051	footnote
+1778053	footnote
+1778056	footnote
+1778058	footnote
+1778060	footnote
+1778062	footnote
+1778064	footnote
+1778066	footnote
+1778068	footnote
+1778071	footnote
+1778074	footnote
+1778077	footnote
+1778079	footnote
+1778082	footnote
+1778084	footnote
+1778086	footnote
+1778088	footnote
+1778091	footnote
+1778093	footnote
+1778096	footnote
+1778100	footnote
+1778103	footnote
+1778105	footnote
+1778107	footnote
+1778109	footnote
+1778112	footnote
+1778116	footnote
+1778118	footnote
+1778120	italic
+italic
+italic
+footnote
+1778125	footnote
+1778128	footnote
+1778130	footnote
+1778132	footnote
+1778135	footnote
+1778137	footnote
+1778140	footnote
+1778142	footnote
+1778145	footnote
+1778148	footnote
+1778150	footnote
+1778153	footnote
+1778155	footnote
+1778157	footnote
+1778160	footnote
+1778163	footnote
+1778165	footnote
+1778167	footnote
+1778169	footnote
+1778171	footnote
+1778173	footnote
+1778175	footnote
+1778177	footnote
+1778179	footnote
+1778182	footnote
+1778184	footnote
+1778186	footnote
+1778188	footnote
+1778191	footnote
+1778193	footnote
+1778196	footnote
+1778199	footnote
+1778201	footnote
+1778203	footnote
+1778205	footnote
+1778207	superscript
+superscript
+italic
+smallcaps
+superscript
+italic
+superscript
+footnote
+1778217	footnote
+1778220	footnote
+1778223	footnote
+1778226	footnote
+1778229	footnote
+1778231	footnote
+1778233	footnote
+1778236	footnote
+1778238	footnote
+1778241	footnote
+1778243	footnote
+1778246	footnote
+1778248	footnote
+1778251	footnote
+1778254	footnote
+1778256	footnote
+1778258	footnote
+1778261	footnote
+1778263	footnote
+1778265	footnote
+1778267	footnote
+1778269	footnote
+1778271	footnote
+1778273	italic
+italic
+footnote
+1778277	footnote
+1778280	footnote
+1778282	footnote
+1778284	footnote
+1778286	footnote
+1778288	footnote
+1778290	footnote
+1778293	footnote
+1778296	footnote
+1778299	footnote
+1778301	footnote
+1778304	footnote
+1778306	footnote
+1778308	footnote
+1778310	footnote
+1778312	footnote
+1778314	footnote
+1778316	footnote
+1778319	footnote
+1778322	footnote
+1778325	footnote
+1778328	footnote
+1778331	footnote
+1778333	footnote
+1778335	footnote
+1778337	footnote
+1778339	footnote
+1778341	footnote
+1778343	footnote
+1778345	footnote
+1778347	footnote
+1778349	footnote
+1778351	italic
+superscript
+italic
+superscript
+footnote
+1778357	footnote
+1778359	footnote
+1778362	footnote
+1778364	footnote
+1778368	footnote
+1778370	footnote
+1778373	footnote
+1778375	footnote
+1778378	footnote
+1778381	footnote
+1778383	footnote
+1778385	footnote
+1778387	footnote
+1778389	footnote
+1778392	superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1778401	footnote
+1778403	footnote
+1778405	footnote
+1778408	footnote
+1778410	footnote
+1778412	footnote
+1778414	italic
+italic
+footnote
+1778418	footnote
+1778420	footnote
+1778422	footnote
+1778425	footnote
+1778427	footnote
+1778430	footnote
+1778433	footnote
+1778436	footnote
+1778438	footnote
+1778440	footnote
+1778442	footnote
+1778445	footnote
+1778448	footnote
+1778451	footnote
+1778454	footnote
+1778457	footnote
+1778459	footnote
+1778461	footnote
+1778464	footnote
+footnote
+1778467	footnote
+1778469	footnote
+1778471	italic
+superscript
+italic
+footnote
+1778476	footnote
+1778478	footnote
+1778481	footnote
+1778483	footnote
+1778485	footnote
+1778487	footnote
+1778490	footnote
+1778492	footnote
+1778495	footnote
+1778498	footnote
+1778501	footnote
+1778503	footnote
+1778506	footnote
+1778508	smallcaps
+italic
+italic
+smallcaps
+footnote
+1778514	superscript
+italic
+italic
+superscript
+italic
+smallcaps
+footnote
+1778522	footnote
+1778524	footnote
+1778527	footnote
+1778529	footnote
+1778532	footnote
+1778534	footnote
+1778537	footnote
+1778539	footnote
+1778542	footnote
+1778545	footnote
+1778548	footnote
+1778551	footnote
+1778553	footnote
+1778555	footnote
+1778558	footnote
+1778560	italic
+smallcaps
+footnote
+1778565	footnote
+1778568	footnote
+1778570	footnote
+1778572	footnote
+1778575	footnote
+1778577	footnote
+1778579	footnote
+1778581	footnote
+1778584	footnote
+1778586	footnote
+1778589	footnote
+1778591	footnote
+1778593	footnote
+1778595	footnote
+1778598	footnote
+1778600	footnote
+1778603	footnote
+1778606	footnote
+1778608	italic
+smallcaps
+footnote
+1778612	footnote
+1778615	footnote
+1778618	footnote
+1778621	italic
+italic
+smallcaps
+footnote
+1778626	footnote
+1778629	footnote
+1778632	footnote
+1778634	footnote
+1778637	footnote
+1778640	footnote
+1778642	footnote
+1778645	footnote
+1778647	footnote
+1778650	footnote
+1778653	footnote
+1778655	footnote
+1778658	footnote
+1778660	footnote
+footnote
+1778664	footnote
+1778666	italic
+italic
+footnote
+1778670	footnote
+1778673	footnote
+1778676	footnote
+1778678	footnote
+1778680	footnote
+1778683	footnote
+1778686	footnote
+1778688	footnote
+1778691	footnote
+1778693	footnote
+1778695	italic
+italic
+italic
+italic
+footnote
+1778701	footnote
+1778703	footnote
+1778706	footnote
+1778708	italic
+italic
+footnote
+1778713	footnote
+1778715	footnote
+1778718	footnote
+1778720	footnote
+1778723	footnote
+1778725	footnote
+1778727	footnote
+1778730	footnote
+1778732	footnote
+1778735	footnote
+1778738	footnote
+1778740	italic
+italic
+footnote
+1778745	footnote
+1778748	footnote
+1778751	footnote
+1778753	footnote
+1778756	footnote
+1778759	footnote
+1778762	footnote
+1778764	footnote
+1778766	footnote
+1778769	footnote
+1778771	footnote
+1778773	footnote
+1778775	superscript
+italic
+superscript
+italic
+footnote
+1778782	footnote
+1778785	footnote
+1778788	footnote
+1778791	footnote
+1778793	footnote
+1778796	footnote
+1778799	footnote
+1778802	footnote
+1778805	footnote
+1778808	footnote
+1778810	italic
+italic
+italic
+footnote
+1778816	footnote
+1778818	footnote
+1778821	footnote
+1778823	smallcaps
+italic
+footnote
+1778827	footnote
+1778829	footnote
+1778831	footnote
+1778834	footnote
+1778837	footnote
+1778840	footnote
+1778843	footnote
+1778846	footnote
+1778848	footnote
+1778851	footnote
+1778854	footnote
+1778856	footnote
+1778858	footnote
+1778861	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+smallcaps
+smallcaps
+smallcaps
+smallcaps
+smallcaps
+italic
+italic
+footnote
+1778899	footnote
+1778902	footnote
+1778905	footnote
+1778907	footnote
+1778910	footnote
+1778912	footnote
+1778914	footnote
+1778916	footnote
+1778918	footnote
+1778920	footnote
+1778922	footnote
+1778925	footnote
+1778927	footnote
+1778929	footnote
+1778931	footnote
+1778933	footnote
+1778935	footnote
+1778937	footnote
+1778939	footnote
+1778941	footnote
+1778943	footnote
+1778945	footnote
+1778947	footnote
+1778950	footnote
+1778952	footnote
+1778954	footnote
+1778956	footnote
+1778958	footnote
+1778960	footnote
+1778962	footnote
+1778964	footnote
+1778966	footnote
+1778968	footnote
+1778970	footnote
+1778972	footnote
+1778974	footnote
+1778978	footnote
+1778980	footnote
+1778982	footnote
+1778984	footnote
+1778986	footnote
+1778988	footnote
+1778991	footnote
+1778994	footnote
+1778996	footnote
+1778998	footnote
+1779000	footnote
+1779002	footnote
+1779004	footnote
+1779006	footnote
+1779008	footnote
+1779010	footnote
+1779012	footnote
+1779014	footnote
+1779016	footnote
+1779018	footnote
+1779020	footnote
+1779022	footnote
+1779024	footnote
+1779026	footnote
+1779028	footnote
+1779031	footnote
+1779034	footnote
+1779036	footnote
+1779038	footnote
+1779041	footnote
+1779043	footnote
+1779046	footnote
+1779048	footnote
+1779050	footnote
+1779052	footnote
+1779054	footnote
+1779057	footnote
+1779060	footnote
+1779063	footnote
+1779065	footnote
+1779067	footnote
+1779070	footnote
+1779075	footnote
+1779077	footnote
+1779079	footnote
+1779081	footnote
+1779083	footnote
+1779085	footnote
+1779087	footnote
+1779089	footnote
+1779091	footnote
+1779093	footnote
+1779095	footnote
+1779098	footnote
+1779100	footnote
+1779102	footnote
+1779104	footnote
+1779106	footnote
+1779108	footnote
+1779110	footnote
+1779112	footnote
+1779114	footnote
+1779116	footnote
+1779118	footnote
+1779120	footnote
+1779122	footnote
+1779124	footnote
+1779127	footnote
+1779130	footnote
+1779132	footnote
+1779135	footnote
+1779137	footnote
+1779139	footnote
+1779142	footnote
+1779145	footnote
+1779148	footnote
+1779151	footnote
+1779153	footnote
+1779156	footnote
+1779158	footnote
+1779160	footnote
+1779162	footnote
+1779164	footnote
+1779166	footnote
+1779168	footnote
+1779170	footnote
+1779172	footnote
+1779175	footnote
+1779177	footnote
+1779180	footnote
+1779184	footnote
+1779186	footnote
+1779189	footnote
+1779191	footnote
+1779193	footnote
+1779195	footnote
+1779197	footnote
+1779200	footnote
+1779202	footnote
+1779206	footnote
+1779208	footnote
+1779210	footnote
+1779212	footnote
+1779215	footnote
+1779218	footnote
+1779221	footnote
+1779223	footnote
+1779226	footnote
+1779229	footnote
+1779232	footnote
+1779235	footnote
+1779238	footnote
+1779240	footnote
+1779242	footnote
+1779245	footnote
+1779247	footnote
+1779250	footnote
+1779253	footnote
+1779255	footnote
+1779257	footnote
+1779260	footnote
+1779262	footnote
+1779265	footnote
+1779268	footnote
+1779271	footnote
+1779274	footnote
+1779278	footnote
+1779280	footnote
+1779283	footnote
+1779286	footnote
+1779289	footnote
+1779291	footnote
+1779294	footnote
+1779297	footnote
+1779300	footnote
+1779302	footnote
+1779305	footnote
+1779308	footnote
+1779311	footnote
+1779313	footnote
+1779316	footnote
+1779319	footnote
+1779322	footnote
+1779324	footnote
+1779327	footnote
+1779330	footnote
+1779333	italic
+superscript
+footnote
+1779337	footnote
+1779340	footnote
+1779343	footnote
+1779345	footnote
+1779348	footnote
+1779350	footnote
+1779352	footnote
+1779354	italic
 italic
 italic
 italic
@@ -5292,109 +5292,109 @@ italic
 italic
 italic
 footnote
-1677068	footnote
-1677070	footnote
-1677072	footnote
-1677075	footnote
-1677077	footnote
-1677080	footnote
-1677082	footnote
-1677085	footnote
-1677087	footnote
-1677090	footnote
-1677092	footnote
-1677095	footnote
-1677098	footnote
-1677101	footnote
-1677104	footnote
-1677106	footnote
-1677109	footnote
-1677111	footnote
-1677113	footnote
-1677116	footnote
-1677118	footnote
-1677120	footnote
-1677122	footnote
-1677125	footnote
-1677128	footnote
-1677130	footnote
-1677133	footnote
-1677135	footnote
-1677137	footnote
-1677139	footnote
-1677141	footnote
-1677144	footnote
-1677146	footnote
-1677148	footnote
-1677150	footnote
-1677153	footnote
-1677155	footnote
-1677158	footnote
-1677161	footnote
-1677163	footnote
-1677165	footnote
-1677170	footnote
-1677172	footnote
-1677174	footnote
-1677176	footnote
-1677178	footnote
-1677180	footnote
-1677182	footnote
-1677185	footnote
-1677187	footnote
-1677189	footnote
-1677191	footnote
-1677194	footnote
-1677197	footnote
-1677199	footnote
-1677201	footnote
-1677203	footnote
-1677206	footnote
-1677208	footnote
-1677210	footnote
-1677213	footnote
-1677215	footnote
-1677217	footnote
-1677219	footnote
-1677222	footnote
-1677224	footnote
-1677226	footnote
-1677228	footnote
-1677231	footnote
-1677233	footnote
-1677235	footnote
-1677238	footnote
-1677240	footnote
-1677243	footnote
-1677245	footnote
-1677247	superscript
+1779371	footnote
+1779373	footnote
+1779375	footnote
+1779378	footnote
+1779380	footnote
+1779383	footnote
+1779385	footnote
+1779388	footnote
+1779390	footnote
+1779393	footnote
+1779395	footnote
+1779398	footnote
+1779401	footnote
+1779404	footnote
+1779407	footnote
+1779409	footnote
+1779412	footnote
+1779414	footnote
+1779416	footnote
+1779419	footnote
+1779421	footnote
+1779423	footnote
+1779425	footnote
+1779428	footnote
+1779431	footnote
+1779433	footnote
+1779436	footnote
+1779438	footnote
+1779440	footnote
+1779442	footnote
+1779444	footnote
+1779447	footnote
+1779449	footnote
+1779451	footnote
+1779453	footnote
+1779456	footnote
+1779458	footnote
+1779461	footnote
+1779464	footnote
+1779466	footnote
+1779468	footnote
+1779473	footnote
+1779475	footnote
+1779477	footnote
+1779479	footnote
+1779481	footnote
+1779483	footnote
+1779485	footnote
+1779488	footnote
+1779490	footnote
+1779492	footnote
+1779494	footnote
+1779497	footnote
+1779500	footnote
+1779502	footnote
+1779504	footnote
+1779506	footnote
+1779509	footnote
+1779511	footnote
+1779513	footnote
+1779516	footnote
+1779518	footnote
+1779520	footnote
+1779522	footnote
+1779525	footnote
+1779527	footnote
+1779529	footnote
+1779531	footnote
+1779534	footnote
+1779536	footnote
+1779538	footnote
+1779541	footnote
+1779543	footnote
+1779546	footnote
+1779548	footnote
+1779550	superscript
 superscript
 italic
 footnote
-1677254	footnote
-1677257	footnote
-1677260	footnote
-1677263	footnote
-1677265	footnote
-1677268	footnote
-1677270	footnote
-1677272	footnote
-1677274	footnote
-1677277	footnote
-1677279	footnote
-1677282	footnote
-1677285	footnote
-1677287	footnote
-1677289	footnote
-1677291	footnote
-1677294	footnote
-1677297	footnote
-1677300	footnote
-1677302	footnote
-1677304	footnote
-1677307	footnote
-1677310	footnote
-1677313	superscript
+1779557	footnote
+1779560	footnote
+1779563	footnote
+1779566	footnote
+1779568	footnote
+1779571	footnote
+1779573	footnote
+1779575	footnote
+1779577	footnote
+1779580	footnote
+1779582	footnote
+1779585	footnote
+1779588	footnote
+1779590	footnote
+1779592	footnote
+1779594	footnote
+1779597	footnote
+1779600	footnote
+1779603	footnote
+1779605	footnote
+1779607	footnote
+1779610	footnote
+1779613	footnote
+1779616	superscript
 italic
 italic
 italic
@@ -5403,22 +5403,22 @@ italic
 italic
 smallcaps
 footnote
-1677323	footnote
-1677326	footnote
-1677329	footnote
-1677332	footnote
-1677335	footnote
-1677337	footnote
-1677339	footnote
-1677341	footnote
-1677343	footnote
-1677346	footnote
-1677349	footnote
-1677351	footnote
-1677354	footnote
-1677356	footnote
-1677359	footnote
-1677362	superscript
+1779626	footnote
+1779629	footnote
+1779632	footnote
+1779635	footnote
+1779638	footnote
+1779640	footnote
+1779642	footnote
+1779644	footnote
+1779646	footnote
+1779649	footnote
+1779652	footnote
+1779654	footnote
+1779657	footnote
+1779659	footnote
+1779662	footnote
+1779665	superscript
 underline
 italic
 superscript
@@ -5441,44 +5441,44 @@ superscript
 italic
 superscript
 footnote
-1677387	footnote
-1677390	footnote
-1677393	footnote
-1677395	footnote
-1677397	footnote
-1677399	footnote
-1677402	footnote
-1677405	footnote
-1677408	footnote
-1677410	footnote
-1677412	footnote
-1677414	footnote
-1677417	footnote
-1677420	footnote
-1677423	footnote
-1677426	footnote
-1677428	footnote
-1677430	footnote
-1677432	footnote
-1677434	footnote
-1677436	footnote
-1677439	footnote
-1677441	footnote
-1677444	footnote
-1677446	footnote
-1677448	footnote
-1677451	footnote
-1677453	footnote
-1677455	footnote
-1677457	footnote
-1677459	footnote
-1677462	footnote
-1677464	footnote
-1677466	footnote
-1677469	footnote
-1677471	footnote
-1677473	footnote
-1677475	italic
+1779690	footnote
+1779693	footnote
+1779696	footnote
+1779698	footnote
+1779700	footnote
+1779702	footnote
+1779705	footnote
+1779708	footnote
+1779711	footnote
+1779713	footnote
+1779715	footnote
+1779717	footnote
+1779720	footnote
+1779723	footnote
+1779726	footnote
+1779729	footnote
+1779731	footnote
+1779733	footnote
+1779735	footnote
+1779737	footnote
+1779739	footnote
+1779742	footnote
+1779744	footnote
+1779747	footnote
+1779749	footnote
+1779751	footnote
+1779754	footnote
+1779756	footnote
+1779758	footnote
+1779760	footnote
+1779762	footnote
+1779765	footnote
+1779767	footnote
+1779769	footnote
+1779772	footnote
+1779774	footnote
+1779776	footnote
+1779778	italic
 smallcaps
 bold
 smallcaps
@@ -5496,177 +5496,177 @@ italic
 italic
 italic
 footnote
-1677494	footnote
-1677496	footnote
-1677499	footnote
-1677503	footnote
-1677505	footnote
-1677508	footnote
-1677511	footnote
-1677514	footnote
-1677517	footnote
-1677520	footnote
-1677522	footnote
-1677525	footnote
-1677527	footnote
-1677529	footnote
-1677532	footnote
-1677534	footnote
-1677536	footnote
-1677539	footnote
-1677542	footnote
-1677544	footnote
-1677547	footnote
-1677549	footnote
-1677552	footnote
-1677554	footnote
-1677557	footnote
-1677559	footnote
-1677562	footnote
-1677565	footnote
-1677568	footnote
-1677570	footnote
-1677573	footnote
-1677575	footnote
-1677578	footnote
-1677581	footnote
-1677583	footnote
-1677585	footnote
-1677587	footnote
-1677589	footnote
-1677592	footnote
-1677594	footnote
-1677596	footnote
-1677598	footnote
-1677602	footnote
-1677605	footnote
-1677608	footnote
-1677610	footnote
-1677613	footnote
-1677616	footnote
-1677618	footnote
-1677620	footnote
-1677622	footnote
-1677624	footnote
-1677626	footnote
-1677629	footnote
-1677631	footnote
-1677633	footnote
-1677635	footnote
-1677637	footnote
-1677640	footnote
-1677642	footnote
-1677644	footnote
-1677647	footnote
-1677649	footnote
-1677651	footnote
-1677653	footnote
-1677655	footnote
-1677657	footnote
-1677659	footnote
-1677662	footnote
-1677665	footnote
-1677668	footnote
-1677671	footnote
-1677674	footnote
-1677676	footnote
-1677678	footnote
-1677681	footnote
-1677684	footnote
-1677687	footnote
-1677689	footnote
-1677691	footnote
-1677694	footnote
-1677696	footnote
-1677698	footnote
-1677701	footnote
-1677704	footnote
-1677706	footnote
-1677708	footnote
-1677711	footnote
-1677714	footnote
-1677716	footnote
-1677719	footnote
-1677721	footnote
-1677724	footnote
-1677727	footnote
-1677729	footnote
-1677731	footnote
-1677733	footnote
-1677735	footnote
-1677737	footnote
-1677739	footnote
-1677741	footnote
-1677743	footnote
-1677746	footnote
-1677748	footnote
-1677751	footnote
-1677753	footnote
-1677756	footnote
-1677759	footnote
-1677762	footnote
-1677764	footnote
-1677766	footnote
-1677769	footnote
-1677771	footnote
-1677774	footnote
-1677777	footnote
-1677780	footnote
-1677782	footnote
-1677784	footnote
-1677786	footnote
-1677788	footnote
-1677791	footnote
-1677793	footnote
-1677795	footnote
-1677797	footnote
-1677799	footnote
-1677801	footnote
-1677804	footnote
-1677807	footnote
-1677810	footnote
-1677813	footnote
-1677816	footnote
-1677818	footnote
-1677820	footnote
-1677822	footnote
-1677825	footnote
-1677827	footnote
-1677830	footnote
-1677832	footnote
-1677834	footnote
-1677837	footnote
-1677840	footnote
-1677843	footnote
-1677845	footnote
-1677848	footnote
-1677850	footnote
-1677853	footnote
-1677855	footnote
-1677858	footnote
-1677860	footnote
-1677862	footnote
-1677864	footnote
-1677867	footnote
-1677869	footnote
-1677872	footnote
-1677874	footnote
-1677877	footnote
-1677880	footnote
-1677883	footnote
-1677885	footnote
-1677887	footnote
-1677889	footnote
-1677891	footnote
-1677893	footnote
-1677895	footnote
-1677897	footnote
-1677899	footnote
-1677901	footnote
-1677903	footnote
-1677905	footnote
-1677908	footnote
-1677910	italic
+1779797	footnote
+1779799	footnote
+1779802	footnote
+1779806	footnote
+1779808	footnote
+1779811	footnote
+1779814	footnote
+1779817	footnote
+1779820	footnote
+1779823	footnote
+1779825	footnote
+1779828	footnote
+1779830	footnote
+1779832	footnote
+1779835	footnote
+1779837	footnote
+1779839	footnote
+1779842	footnote
+1779845	footnote
+1779847	footnote
+1779850	footnote
+1779852	footnote
+1779855	footnote
+1779857	footnote
+1779860	footnote
+1779862	footnote
+1779865	footnote
+1779868	footnote
+1779871	footnote
+1779873	footnote
+1779876	footnote
+1779878	footnote
+1779881	footnote
+1779884	footnote
+1779886	footnote
+1779888	footnote
+1779890	footnote
+1779892	footnote
+1779895	footnote
+1779897	footnote
+1779899	footnote
+1779901	footnote
+1779905	footnote
+1779908	footnote
+1779911	footnote
+1779913	footnote
+1779916	footnote
+1779919	footnote
+1779921	footnote
+1779923	footnote
+1779925	footnote
+1779927	footnote
+1779929	footnote
+1779932	footnote
+1779934	footnote
+1779936	footnote
+1779938	footnote
+1779940	footnote
+1779943	footnote
+1779945	footnote
+1779947	footnote
+1779950	footnote
+1779952	footnote
+1779954	footnote
+1779956	footnote
+1779958	footnote
+1779960	footnote
+1779962	footnote
+1779965	footnote
+1779968	footnote
+1779971	footnote
+1779974	footnote
+1779977	footnote
+1779979	footnote
+1779981	footnote
+1779984	footnote
+1779987	footnote
+1779990	footnote
+1779992	footnote
+1779994	footnote
+1779997	footnote
+1779999	footnote
+1780001	footnote
+1780004	footnote
+1780007	footnote
+1780009	footnote
+1780011	footnote
+1780014	footnote
+1780017	footnote
+1780019	footnote
+1780022	footnote
+1780024	footnote
+1780027	footnote
+1780030	footnote
+1780032	footnote
+1780034	footnote
+1780036	footnote
+1780038	footnote
+1780040	footnote
+1780042	footnote
+1780044	footnote
+1780046	footnote
+1780049	footnote
+1780051	footnote
+1780054	footnote
+1780056	footnote
+1780059	footnote
+1780062	footnote
+1780065	footnote
+1780067	footnote
+1780069	footnote
+1780072	footnote
+1780074	footnote
+1780077	footnote
+1780080	footnote
+1780083	footnote
+1780085	footnote
+1780087	footnote
+1780089	footnote
+1780091	footnote
+1780094	footnote
+1780096	footnote
+1780098	footnote
+1780100	footnote
+1780102	footnote
+1780104	footnote
+1780107	footnote
+1780110	footnote
+1780113	footnote
+1780116	footnote
+1780119	footnote
+1780121	footnote
+1780123	footnote
+1780125	footnote
+1780128	footnote
+1780130	footnote
+1780133	footnote
+1780135	footnote
+1780137	footnote
+1780140	footnote
+1780143	footnote
+1780146	footnote
+1780148	footnote
+1780151	footnote
+1780153	footnote
+1780156	footnote
+1780158	footnote
+1780161	footnote
+1780163	footnote
+1780165	footnote
+1780167	footnote
+1780170	footnote
+1780172	footnote
+1780175	footnote
+1780177	footnote
+1780180	footnote
+1780183	footnote
+1780186	footnote
+1780188	footnote
+1780190	footnote
+1780192	footnote
+1780194	footnote
+1780196	footnote
+1780198	footnote
+1780200	footnote
+1780202	footnote
+1780204	footnote
+1780206	footnote
+1780208	footnote
+1780211	footnote
+1780213	italic
 italic
 italic
 italic
@@ -5679,19 +5679,19 @@ italic
 italic
 italic
 footnote
-1677924	footnote
-1677926	footnote
-1677928	footnote
-1677930	footnote
-1677933	footnote
-1677936	footnote
-1677939	footnote
-1677941	footnote
-1677944	footnote
-1677946	footnote
-1677949	footnote
-1677951	footnote
-1677954	superscript
+1780227	footnote
+1780229	footnote
+1780231	footnote
+1780233	footnote
+1780236	footnote
+1780239	footnote
+1780242	footnote
+1780244	footnote
+1780247	footnote
+1780249	footnote
+1780252	footnote
+1780254	footnote
+1780257	superscript
 italic
 smallcaps
 superscript
@@ -5720,236 +5720,236 @@ bold
 italic
 superscript
 footnote
-1677984	footnote
-1677986	footnote
-1677989	footnote
-1677992	footnote
-1677994	footnote
-1677997	footnote
-1677999	footnote
-1678002	footnote
-1678004	footnote
-1678006	footnote
-1678008	footnote
-1678010	footnote
-1678012	footnote
-1678014	footnote
-1678016	footnote
-1678018	footnote
-1678020	footnote
-1678022	footnote
-1678025	footnote
-1678028	footnote
-1678030	footnote
-1678032	footnote
-1678035	footnote
-1678037	footnote
-1678039	footnote
-1678041	footnote
-1678044	footnote
-1678046	footnote
-1678048	footnote
-1678050	footnote
-1678052	footnote
-1678055	footnote
-1678057	footnote
-1678059	footnote
-1678062	footnote
-1678064	footnote
-1678066	footnote
-1678068	footnote
-1678070	footnote
-1678072	footnote
-1678074	footnote
-1678076	footnote
-1678079	footnote
-1678081	footnote
-1678083	footnote
-1678085	footnote
-1678088	footnote
-1678091	footnote
-1678094	footnote
-1678097	footnote
-1678099	footnote
-1678102	footnote
-1678105	footnote
-1678108	footnote
-1678111	footnote
-1678113	footnote
-1678116	footnote
-1678119	footnote
-1678121	footnote
-1678124	footnote
-1678127	footnote
-1678130	footnote
-1678133	footnote
-1678137	footnote
-1678139	footnote
-1678141	footnote
-1678143	footnote
-1678145	footnote
-1678147	footnote
-1678149	footnote
-1678151	footnote
-1678153	smallcaps
+1780287	footnote
+1780289	footnote
+1780292	footnote
+1780295	footnote
+1780297	footnote
+1780300	footnote
+1780302	footnote
+1780305	footnote
+1780307	footnote
+1780309	footnote
+1780311	footnote
+1780313	footnote
+1780315	footnote
+1780317	footnote
+1780319	footnote
+1780321	footnote
+1780323	footnote
+1780325	footnote
+1780328	footnote
+1780331	footnote
+1780333	footnote
+1780335	footnote
+1780338	footnote
+1780340	footnote
+1780342	footnote
+1780344	footnote
+1780347	footnote
+1780349	footnote
+1780351	footnote
+1780353	footnote
+1780355	footnote
+1780358	footnote
+1780360	footnote
+1780362	footnote
+1780365	footnote
+1780367	footnote
+1780369	footnote
+1780371	footnote
+1780373	footnote
+1780375	footnote
+1780377	footnote
+1780379	footnote
+1780382	footnote
+1780384	footnote
+1780386	footnote
+1780388	footnote
+1780391	footnote
+1780394	footnote
+1780397	footnote
+1780400	footnote
+1780402	footnote
+1780405	footnote
+1780408	footnote
+1780411	footnote
+1780414	footnote
+1780416	footnote
+1780419	footnote
+1780422	footnote
+1780424	footnote
+1780427	footnote
+1780430	footnote
+1780433	footnote
+1780436	footnote
+1780440	footnote
+1780442	footnote
+1780444	footnote
+1780446	footnote
+1780448	footnote
+1780450	footnote
+1780452	footnote
+1780454	footnote
+1780456	smallcaps
 italic
 italic
 italic
 italic
 italic
 footnote
-1678161	footnote
-1678164	footnote
-1678167	footnote
-1678170	footnote
-1678172	footnote
-1678175	footnote
-1678178	footnote
-1678181	footnote
-1678183	footnote
-1678185	footnote
-1678188	footnote
-1678190	footnote
-1678193	footnote
-1678195	footnote
-1678197	footnote
-1678199	footnote
-1678202	footnote
-1678204	superscript
+1780464	footnote
+1780467	footnote
+1780470	footnote
+1780473	footnote
+1780475	footnote
+1780478	footnote
+1780481	footnote
+1780484	footnote
+1780486	footnote
+1780488	footnote
+1780491	footnote
+1780493	footnote
+1780496	footnote
+1780498	footnote
+1780500	footnote
+1780502	footnote
+1780505	footnote
+1780507	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1678212	footnote
-1678215	footnote
-1678218	footnote
-1678221	footnote
-1678223	footnote
-1678227	italic
+1780515	footnote
+1780518	footnote
+1780521	footnote
+1780524	footnote
+1780526	footnote
+1780530	italic
 italic
 italic
 italic
 footnote
-1678233	footnote
-1678236	footnote
-1678240	footnote
-1678242	footnote
-1678244	footnote
-1678246	footnote
-1678249	footnote
-1678251	footnote
-1678254	footnote
-1678257	footnote
-1678259	footnote
-1678261	footnote
-1678264	footnote
-1678267	footnote
-1678269	footnote
-1678271	footnote
-1678273	footnote
-1678276	footnote
-1678278	footnote
-1678280	footnote
-1678283	footnote
-1678286	footnote
-1678289	footnote
-1678292	footnote
-1678294	footnote
-1678297	footnote
-1678299	italic
+1780536	footnote
+1780539	footnote
+1780543	footnote
+1780545	footnote
+1780547	footnote
+1780549	footnote
+1780552	footnote
+1780554	footnote
+1780557	footnote
+1780560	footnote
+1780562	footnote
+1780564	footnote
+1780567	footnote
+1780570	footnote
+1780572	footnote
+1780574	footnote
+1780576	footnote
+1780579	footnote
+1780581	footnote
+1780583	footnote
+1780586	footnote
+1780589	footnote
+1780592	footnote
+1780595	footnote
+1780597	footnote
+1780600	footnote
+1780602	italic
 italic
 smallcaps
 smallcaps
 smallcaps
 italic
 footnote
-1678307	footnote
-1678310	footnote
-1678312	footnote
-1678314	footnote
-1678317	footnote
-1678320	footnote
-1678323	footnote
-1678328	footnote
-1678330	footnote
-1678333	footnote
-1678335	footnote
-1678338	footnote
-1678341	footnote
-1678343	footnote
-1678346	footnote
-1678349	footnote
-1678351	footnote
-1678353	italic
+1780610	footnote
+1780613	footnote
+1780615	footnote
+1780617	footnote
+1780620	footnote
+1780623	footnote
+1780626	footnote
+1780631	footnote
+1780633	footnote
+1780636	footnote
+1780638	footnote
+1780641	footnote
+1780644	footnote
+1780646	footnote
+1780649	footnote
+1780652	footnote
+1780654	footnote
+1780656	italic
 italic
 italic
 italic
 footnote
-1678359	footnote
-1678362	footnote
-1678364	footnote
-1678366	footnote
-1678368	footnote
-1678370	footnote
-1678372	footnote
-1678374	footnote
-1678377	footnote
-1678379	footnote
-1678381	footnote
-1678384	footnote
-1678386	footnote
-1678388	footnote
-1678391	footnote
-1678393	footnote
-1678395	footnote
-1678397	footnote
-1678401	footnote
-1678404	footnote
-1678407	footnote
-1678410	footnote
-1678412	footnote
-1678414	footnote
-1678416	footnote
-1678418	footnote
-1678420	footnote
-1678422	footnote
-1678425	footnote
-1678427	footnote
-1678430	footnote
-1678432	italic
+1780662	footnote
+1780665	footnote
+1780667	footnote
+1780669	footnote
+1780671	footnote
+1780673	footnote
+1780675	footnote
+1780677	footnote
+1780680	footnote
+1780682	footnote
+1780684	footnote
+1780687	footnote
+1780689	footnote
+1780691	footnote
+1780694	footnote
+1780696	footnote
+1780698	footnote
+1780700	footnote
+1780704	footnote
+1780707	footnote
+1780710	footnote
+1780713	footnote
+1780715	footnote
+1780717	footnote
+1780719	footnote
+1780721	footnote
+1780723	footnote
+1780725	footnote
+1780728	footnote
+1780730	footnote
+1780733	footnote
+1780735	italic
 footnote
-1678435	footnote
-1678437	footnote
-1678440	footnote
-1678443	footnote
-1678445	footnote
-1678447	footnote
-1678449	footnote
-1678451	italic
+1780738	footnote
+1780740	footnote
+1780743	footnote
+1780746	footnote
+1780748	footnote
+1780750	footnote
+1780752	footnote
+1780754	italic
 superscript
 superscript
 italic
 footnote
-1678457	footnote
-1678459	footnote
-1678461	footnote
-1678463	footnote
-1678466	footnote
-1678469	footnote
-1678471	footnote
-1678473	footnote
-1678475	footnote
-1678477	footnote
-1678479	footnote
-1678481	footnote
-1678483	footnote
-1678485	smallcaps
+1780760	footnote
+1780762	footnote
+1780764	footnote
+1780766	footnote
+1780769	footnote
+1780772	footnote
+1780774	footnote
+1780776	footnote
+1780778	footnote
+1780780	footnote
+1780782	footnote
+1780784	footnote
+1780786	footnote
+1780788	smallcaps
 italic
 italic
 footnote
-1678490	footnote
-1678492	smallcaps
+1780793	footnote
+1780795	smallcaps
 smallcaps
 italic
 smallcaps
@@ -5966,113 +5966,113 @@ smallcaps
 smallcaps
 smallcaps
 footnote
-1678511	footnote
-1678514	footnote
-1678516	footnote
-1678518	footnote
-1678520	footnote
-1678522	footnote
-1678524	footnote
-1678527	footnote
-1678530	footnote
-1678533	footnote
-1678535	footnote
-1678537	footnote
-1678539	footnote
-1678542	footnote
-1678544	footnote
-1678546	footnote
-1678549	footnote
-1678551	footnote
-1678553	footnote
-1678556	footnote
-1678558	footnote
-1678560	footnote
-1678563	footnote
-1678565	footnote
-1678568	footnote
-1678571	footnote
-1678574	footnote
-1678576	footnote
-1678579	footnote
-1678581	footnote
-1678584	footnote
-1678586	footnote
-1678588	footnote
-1678590	footnote
-1678593	footnote
-1678595	footnote
-1678598	footnote
-1678600	footnote
-1678602	footnote
-1678604	footnote
-1678606	footnote
-1678608	footnote
-1678610	footnote
-1678613	footnote
-1678616	footnote
-1678618	footnote
-1678620	footnote
-1678622	footnote
-1678624	footnote
-1678626	footnote
-1678629	footnote
-1678631	footnote
-1678633	footnote
-1678635	footnote
-1678637	footnote
-1678641	footnote
-1678644	footnote
-1678647	footnote
-1678649	footnote
-1678652	footnote
-1678654	footnote
-1678657	footnote
-1678659	footnote
-1678661	footnote
-1678663	footnote
-1678665	footnote
-1678667	footnote
-1678669	footnote
-1678671	footnote
-1678674	footnote
-1678679	footnote
-1678681	footnote
-1678684	footnote
-1678688	footnote
-1678691	footnote
-1678693	footnote
-1678696	footnote
-1678699	footnote
-1678701	footnote
-1678703	footnote
-1678705	footnote
-1678707	footnote
-1678710	footnote
-1678712	footnote
-1678714	footnote
-1678717	footnote
-1678720	footnote
-1678722	footnote
-1678724	footnote
-1678726	footnote
-1678729	footnote
-1678732	footnote
-1678734	footnote
-1678737	footnote
-1678739	footnote
-1678741	footnote
-1678743	footnote
-1678745	footnote
-1678747	footnote
-1678749	footnote
-1678753	footnote
-1678755	footnote
-1678757	footnote
-1678759	footnote
-1678761	footnote
-1678763	footnote
-1678765	italic
+1780814	footnote
+1780817	footnote
+1780819	footnote
+1780821	footnote
+1780823	footnote
+1780825	footnote
+1780827	footnote
+1780830	footnote
+1780833	footnote
+1780836	footnote
+1780838	footnote
+1780840	footnote
+1780842	footnote
+1780845	footnote
+1780847	footnote
+1780849	footnote
+1780852	footnote
+1780854	footnote
+1780856	footnote
+1780859	footnote
+1780861	footnote
+1780863	footnote
+1780866	footnote
+1780868	footnote
+1780871	footnote
+1780874	footnote
+1780877	footnote
+1780879	footnote
+1780882	footnote
+1780884	footnote
+1780887	footnote
+1780889	footnote
+1780891	footnote
+1780893	footnote
+1780896	footnote
+1780898	footnote
+1780901	footnote
+1780903	footnote
+1780905	footnote
+1780907	footnote
+1780909	footnote
+1780911	footnote
+1780913	footnote
+1780916	footnote
+1780919	footnote
+1780921	footnote
+1780923	footnote
+1780925	footnote
+1780927	footnote
+1780929	footnote
+1780932	footnote
+1780934	footnote
+1780936	footnote
+1780938	footnote
+1780940	footnote
+1780944	footnote
+1780947	footnote
+1780950	footnote
+1780952	footnote
+1780955	footnote
+1780957	footnote
+1780960	footnote
+1780962	footnote
+1780964	footnote
+1780966	footnote
+1780968	footnote
+1780970	footnote
+1780972	footnote
+1780974	footnote
+1780977	footnote
+1780982	footnote
+1780984	footnote
+1780987	footnote
+1780991	footnote
+1780994	footnote
+1780996	footnote
+1780999	footnote
+1781002	footnote
+1781004	footnote
+1781006	footnote
+1781008	footnote
+1781010	footnote
+1781013	footnote
+1781015	footnote
+1781017	footnote
+1781020	footnote
+1781023	footnote
+1781025	footnote
+1781027	footnote
+1781029	footnote
+1781032	footnote
+1781035	footnote
+1781037	footnote
+1781040	footnote
+1781042	footnote
+1781044	footnote
+1781046	footnote
+1781048	footnote
+1781050	footnote
+1781052	footnote
+1781056	footnote
+1781058	footnote
+1781060	footnote
+1781062	footnote
+1781064	footnote
+1781066	footnote
+1781068	italic
 italic
 superscript
 italic
@@ -6085,259 +6085,259 @@ italic
 superscript
 italic
 footnote
-1678779	footnote
-1678781	footnote
-1678783	footnote
-1678785	footnote
-1678787	footnote
-1678790	footnote
-1678794	footnote
-1678797	footnote
-1678799	footnote
-1678802	footnote
-1678804	footnote
-1678807	footnote
-1678809	footnote
-1678812	footnote
-1678815	footnote
-1678818	footnote
-1678820	footnote
-1678823	footnote
-1678825	footnote
-1678827	italic
+1781082	footnote
+1781084	footnote
+1781086	footnote
+1781088	footnote
+1781090	footnote
+1781093	footnote
+1781097	footnote
+1781100	footnote
+1781102	footnote
+1781105	footnote
+1781107	footnote
+1781110	footnote
+1781112	footnote
+1781115	footnote
+1781118	footnote
+1781121	footnote
+1781123	footnote
+1781126	footnote
+1781128	footnote
+1781130	italic
 italic
 footnote
-1678831	footnote
-1678833	footnote
-1678835	footnote
-1678837	footnote
-1678839	footnote
-1678841	footnote
-1678843	footnote
-1678845	superscript
-italic
-superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1678855	footnote
-1678857	footnote
-1678860	footnote
-1678862	footnote
-1678864	footnote
-1678866	footnote
-1678868	footnote
-1678871	footnote
-1678874	footnote
-1678877	footnote
-1678880	footnote
-1678883	footnote
-1678885	footnote
-1678887	footnote
-1678889	footnote
-1678892	footnote
-1678895	footnote
-1678897	footnote
-1678899	footnote
-1678902	footnote
-1678904	footnote
-1678906	footnote
-1678908	footnote
-1678911	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1678968	footnote
-1678971	footnote
-1678973	footnote
-1678976	footnote
-1678978	footnote
-1678980	footnote
-1678983	footnote
-1678985	footnote
-1678987	footnote
-1678990	footnote
-1678992	footnote
-1678995	footnote
-1678998	footnote
-1679000	footnote
-1679003	footnote
-1679005	footnote
-1679007	footnote
-1679010	footnote
-1679013	footnote
-1679016	footnote
-1679018	footnote
-1679020	footnote
-1679022	footnote
-1679025	footnote
-1679028	footnote
-1679030	footnote
-1679033	footnote
-1679036	footnote
-1679038	footnote
-1679040	footnote
-1679042	footnote
-1679044	footnote
-1679046	italic
-italic
-superscript
-footnote
-1679052	footnote
-1679055	footnote
-1679057	footnote
-1679059	footnote
-1679062	footnote
-1679064	footnote
-1679066	footnote
-1679068	footnote
-1679070	footnote
-1679072	footnote
-1679074	footnote
-1679077	footnote
-1679081	footnote
-1679084	footnote
-1679087	footnote
-1679089	footnote
-1679092	footnote
-1679095	footnote
-1679098	footnote
-1679100	italic
-footnote
-1679103	footnote
-1679105	footnote
-1679107	footnote
-1679110	footnote
-1679113	footnote
-1679115	footnote
-1679117	footnote
-1679119	footnote
-1679122	footnote
-1679124	footnote
-1679126	footnote
-1679129	footnote
-1679131	footnote
-1679133	footnote
-1679136	footnote
-1679138	footnote
-1679141	footnote
-1679145	footnote
-1679147	footnote
-1679149	footnote
-1679151	footnote
-1679154	footnote
-1679156	footnote
-1679159	footnote
-1679161	footnote
-1679164	footnote
-1679167	italic
-italic
-italic
-footnote
-1679175	footnote
-1679177	footnote
-1679179	footnote
-1679182	footnote
-1679185	footnote
-1679187	footnote
-1679189	footnote
-1679191	footnote
-1679194	footnote
-1679196	footnote
-1679198	footnote
-1679200	footnote
-1679202	footnote
-1679205	footnote
-1679207	footnote
-1679210	footnote
-1679212	footnote
-1679214	footnote
-1679216	footnote
-1679219	footnote
-1679221	superscript
+1781134	footnote
+1781136	footnote
+1781138	footnote
+1781140	footnote
+1781142	footnote
+1781144	footnote
+1781146	footnote
+1781148	superscript
 italic
 superscript
 italic
 italic
 superscript
+italic
+superscript
 footnote
-1679230	footnote
-1679233	footnote
-1679235	footnote
-1679237	footnote
-1679240	footnote
-1679243	footnote
-1679245	footnote
-1679248	footnote
-1679250	footnote
-1679253	footnote
-1679257	footnote
-1679259	footnote
-1679262	footnote
-1679265	footnote
-1679268	footnote
-1679272	footnote
-1679275	footnote
-1679278	footnote
-1679281	footnote
-1679283	footnote
-1679285	footnote
-1679287	footnote
-1679290	smallcaps
+1781158	footnote
+1781160	footnote
+1781163	footnote
+1781165	footnote
+1781167	footnote
+1781169	footnote
+1781171	footnote
+1781174	footnote
+1781177	footnote
+1781180	footnote
+1781183	footnote
+1781186	footnote
+1781188	footnote
+1781190	footnote
+1781192	footnote
+1781195	footnote
+1781198	footnote
+1781200	footnote
+1781202	footnote
+1781205	footnote
+1781207	footnote
+1781209	footnote
+1781211	footnote
+1781214	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1781271	footnote
+1781274	footnote
+1781276	footnote
+1781279	footnote
+1781281	footnote
+1781283	footnote
+1781286	footnote
+1781288	footnote
+1781290	footnote
+1781293	footnote
+1781295	footnote
+1781298	footnote
+1781301	footnote
+1781303	footnote
+1781306	footnote
+1781308	footnote
+1781310	footnote
+1781313	footnote
+1781316	footnote
+1781319	footnote
+1781321	footnote
+1781323	footnote
+1781325	footnote
+1781328	footnote
+1781331	footnote
+1781333	footnote
+1781336	footnote
+1781339	footnote
+1781341	footnote
+1781343	footnote
+1781345	footnote
+1781347	footnote
+1781349	italic
+italic
+superscript
+footnote
+1781355	footnote
+1781358	footnote
+1781360	footnote
+1781362	footnote
+1781365	footnote
+1781367	footnote
+1781369	footnote
+1781371	footnote
+1781373	footnote
+1781375	footnote
+1781377	footnote
+1781380	footnote
+1781384	footnote
+1781387	footnote
+1781390	footnote
+1781392	footnote
+1781395	footnote
+1781398	footnote
+1781401	footnote
+1781403	italic
+footnote
+1781406	footnote
+1781408	footnote
+1781410	footnote
+1781413	footnote
+1781416	footnote
+1781418	footnote
+1781420	footnote
+1781422	footnote
+1781425	footnote
+1781427	footnote
+1781429	footnote
+1781432	footnote
+1781434	footnote
+1781436	footnote
+1781439	footnote
+1781441	footnote
+1781444	footnote
+1781448	footnote
+1781450	footnote
+1781452	footnote
+1781454	footnote
+1781457	footnote
+1781459	footnote
+1781462	footnote
+1781464	footnote
+1781467	footnote
+1781470	italic
+italic
+italic
+footnote
+1781478	footnote
+1781480	footnote
+1781482	footnote
+1781485	footnote
+1781488	footnote
+1781490	footnote
+1781492	footnote
+1781494	footnote
+1781497	footnote
+1781499	footnote
+1781501	footnote
+1781503	footnote
+1781505	footnote
+1781508	footnote
+1781510	footnote
+1781513	footnote
+1781515	footnote
+1781517	footnote
+1781519	footnote
+1781522	footnote
+1781524	superscript
+italic
+superscript
+italic
+italic
+superscript
+footnote
+1781533	footnote
+1781536	footnote
+1781538	footnote
+1781540	footnote
+1781543	footnote
+1781546	footnote
+1781548	footnote
+1781551	footnote
+1781553	footnote
+1781556	footnote
+1781560	footnote
+1781562	footnote
+1781565	footnote
+1781568	footnote
+1781571	footnote
+1781575	footnote
+1781578	footnote
+1781581	footnote
+1781584	footnote
+1781586	footnote
+1781588	footnote
+1781590	footnote
+1781593	smallcaps
 smallcaps
 superscript
 italic
@@ -6351,123 +6351,123 @@ smallcaps
 italic
 smallcaps
 footnote
-1679305	footnote
-1679308	footnote
-1679310	footnote
-1679312	footnote
-1679314	footnote
-1679317	footnote
-1679319	footnote
-1679322	footnote
-1679325	footnote
-1679327	footnote
-1679330	footnote
-1679332	footnote
-1679334	footnote
-1679337	footnote
-1679340	footnote
-1679342	footnote
-1679344	footnote
-1679347	footnote
-1679349	footnote
-1679351	footnote
-1679353	footnote
-1679355	footnote
-1679357	footnote
-1679360	footnote
-1679362	footnote
-1679365	footnote
-1679367	footnote
-1679370	footnote
-1679372	footnote
-1679374	footnote
-1679377	footnote
-1679380	footnote
-1679383	footnote
-1679385	footnote
-1679388	footnote
-1679390	footnote
-1679392	superscript
+1781608	footnote
+1781611	footnote
+1781613	footnote
+1781615	footnote
+1781617	footnote
+1781620	footnote
+1781622	footnote
+1781625	footnote
+1781628	footnote
+1781630	footnote
+1781633	footnote
+1781635	footnote
+1781637	footnote
+1781640	footnote
+1781643	footnote
+1781645	footnote
+1781647	footnote
+1781650	footnote
+1781652	footnote
+1781654	footnote
+1781656	footnote
+1781658	footnote
+1781660	footnote
+1781663	footnote
+1781665	footnote
+1781668	footnote
+1781670	footnote
+1781673	footnote
+1781675	footnote
+1781677	footnote
+1781680	footnote
+1781683	footnote
+1781686	footnote
+1781688	footnote
+1781691	footnote
+1781693	footnote
+1781695	superscript
 bold
 bold
 superscript
 italic
 footnote
-1679399	footnote
-1679401	footnote
-1679403	footnote
-1679405	footnote
-1679408	footnote
-1679410	footnote
-1679413	footnote
-1679415	footnote
-1679417	footnote
-1679420	footnote
-1679422	footnote
-1679424	footnote
-1679428	footnote
-1679430	footnote
-1679433	footnote
-1679435	footnote
-1679437	footnote
-1679439	footnote
-1679442	footnote
-1679444	footnote
-1679446	footnote
-1679448	footnote
-1679451	smallcaps
+1781702	footnote
+1781704	footnote
+1781706	footnote
+1781708	footnote
+1781711	footnote
+1781713	footnote
+1781716	footnote
+1781718	footnote
+1781720	footnote
+1781723	footnote
+1781725	footnote
+1781727	footnote
+1781731	footnote
+1781733	footnote
+1781736	footnote
+1781738	footnote
+1781740	footnote
+1781742	footnote
+1781745	footnote
+1781747	footnote
+1781749	footnote
+1781751	footnote
+1781754	smallcaps
 italic
 italic
 footnote
-1679456	footnote
-1679458	footnote
-1679462	footnote
-1679464	footnote
-1679466	footnote
-1679468	footnote
-1679471	footnote
-1679473	footnote
-1679475	footnote
-1679478	footnote
-1679480	footnote
-1679482	footnote
-1679485	footnote
-1679488	footnote
-1679491	footnote
-1679494	footnote
-1679497	footnote
-1679500	footnote
-1679503	footnote
-1679505	footnote
-1679508	footnote
-1679510	footnote
-1679512	footnote
-1679514	footnote
-1679517	footnote
-1679519	footnote
-1679521	footnote
-1679526	footnote
-1679529	footnote
-1679532	footnote
-1679535	footnote
-1679538	footnote
-1679541	footnote
-1679544	footnote
-1679546	footnote
-1679549	footnote
-1679551	footnote
-1679554	footnote
-1679556	footnote
-1679559	footnote
-1679562	footnote
-1679564	footnote
-1679567	footnote
-1679570	footnote
-1679572	footnote
-1679575	footnote
-1679577	footnote
-1679579	footnote
-1679581	smallcaps
+1781759	footnote
+1781761	footnote
+1781765	footnote
+1781767	footnote
+1781769	footnote
+1781771	footnote
+1781774	footnote
+1781776	footnote
+1781778	footnote
+1781781	footnote
+1781783	footnote
+1781785	footnote
+1781788	footnote
+1781791	footnote
+1781794	footnote
+1781797	footnote
+1781800	footnote
+1781803	footnote
+1781806	footnote
+1781808	footnote
+1781811	footnote
+1781813	footnote
+1781815	footnote
+1781817	footnote
+1781820	footnote
+1781822	footnote
+1781824	footnote
+1781829	footnote
+1781832	footnote
+1781835	footnote
+1781838	footnote
+1781841	footnote
+1781844	footnote
+1781847	footnote
+1781849	footnote
+1781852	footnote
+1781854	footnote
+1781857	footnote
+1781859	footnote
+1781862	footnote
+1781865	footnote
+1781867	footnote
+1781870	footnote
+1781873	footnote
+1781875	footnote
+1781878	footnote
+1781880	footnote
+1781882	footnote
+1781884	smallcaps
 smallcaps
 italic
 italic
@@ -6479,72 +6479,72 @@ bold
 superscript
 italic
 footnote
-1679595	footnote
-1679598	footnote
-1679601	footnote
-1679603	footnote
-1679606	footnote
-1679609	footnote
-1679611	footnote
-1679614	footnote
-1679616	footnote
-1679618	footnote
-1679621	footnote
-1679624	footnote
-1679626	footnote
-1679628	footnote
-1679630	footnote
-1679633	footnote
-1679635	footnote
-1679637	footnote
-1679639	footnote
-1679642	footnote
-1679645	footnote
-1679648	footnote
-1679651	footnote
-1679656	footnote
-1679658	footnote
-1679660	footnote
-1679662	footnote
-1679664	footnote
-1679667	footnote
-1679670	footnote
-1679672	footnote
-1679674	footnote
-1679677	footnote
-1679680	footnote
-1679682	footnote
-1679684	footnote
-1679687	footnote
-1679689	footnote
-1679692	footnote
-1679694	footnote
-1679696	footnote
-1679699	footnote
-1679702	footnote
-1679705	footnote
-1679707	footnote
-1679710	footnote
-1679712	footnote
-1679715	footnote
-1679718	footnote
-1679721	footnote
-1679724	footnote
-1679726	footnote
-1679729	footnote
-1679732	footnote
-1679734	footnote
-1679737	footnote
-1679740	footnote
-1679742	footnote
-1679744	footnote
-1679746	footnote
-1679748	footnote
-1679751	footnote
-1679754	footnote
-1679758	footnote
-1679760	footnote
-1679763	superscript
+1781898	footnote
+1781901	footnote
+1781904	footnote
+1781906	footnote
+1781909	footnote
+1781912	footnote
+1781914	footnote
+1781917	footnote
+1781919	footnote
+1781921	footnote
+1781924	footnote
+1781927	footnote
+1781929	footnote
+1781931	footnote
+1781933	footnote
+1781936	footnote
+1781938	footnote
+1781940	footnote
+1781942	footnote
+1781945	footnote
+1781948	footnote
+1781951	footnote
+1781954	footnote
+1781959	footnote
+1781961	footnote
+1781963	footnote
+1781965	footnote
+1781967	footnote
+1781970	footnote
+1781973	footnote
+1781975	footnote
+1781977	footnote
+1781980	footnote
+1781983	footnote
+1781985	footnote
+1781987	footnote
+1781990	footnote
+1781992	footnote
+1781995	footnote
+1781997	footnote
+1781999	footnote
+1782002	footnote
+1782005	footnote
+1782008	footnote
+1782010	footnote
+1782013	footnote
+1782015	footnote
+1782018	footnote
+1782021	footnote
+1782024	footnote
+1782027	footnote
+1782029	footnote
+1782032	footnote
+1782035	footnote
+1782037	footnote
+1782040	footnote
+1782043	footnote
+1782045	footnote
+1782047	footnote
+1782049	footnote
+1782051	footnote
+1782054	footnote
+1782057	footnote
+1782061	footnote
+1782063	footnote
+1782066	superscript
 superscript
 italic
 italic
@@ -6555,95 +6555,95 @@ smallcaps
 smallcaps
 smallcaps
 footnote
-1679776	footnote
-1679779	footnote
-1679782	footnote
-1679785	footnote
-1679788	footnote
-1679791	footnote
-1679793	footnote
-1679795	footnote
-1679797	footnote
-1679799	footnote
-1679801	footnote
-1679804	footnote
-1679806	footnote
-1679808	footnote
-1679811	footnote
-1679813	footnote
-1679816	footnote
-1679819	footnote
-1679821	footnote
-1679823	footnote
-1679825	footnote
-1679828	footnote
-1679831	footnote
-1679834	footnote
-1679837	footnote
-1679840	footnote
-1679843	footnote
-1679846	footnote
-1679849	footnote
-1679851	footnote
-1679853	footnote
-1679856	footnote
-1679858	footnote
-1679861	footnote
-1679864	footnote
-1679867	footnote
-1679870	footnote
-1679873	footnote
-1679876	footnote
-1679879	footnote
-1679881	footnote
-1679885	footnote
-1679887	footnote
-1679890	footnote
-1679893	italic
+1782079	footnote
+1782082	footnote
+1782085	footnote
+1782088	footnote
+1782091	footnote
+1782094	footnote
+1782096	footnote
+1782098	footnote
+1782100	footnote
+1782102	footnote
+1782104	footnote
+1782107	footnote
+1782109	footnote
+1782111	footnote
+1782114	footnote
+1782116	footnote
+1782119	footnote
+1782122	footnote
+1782124	footnote
+1782126	footnote
+1782128	footnote
+1782131	footnote
+1782134	footnote
+1782137	footnote
+1782140	footnote
+1782143	footnote
+1782146	footnote
+1782149	footnote
+1782152	footnote
+1782154	footnote
+1782156	footnote
+1782159	footnote
+1782161	footnote
+1782164	footnote
+1782167	footnote
+1782170	footnote
+1782173	footnote
+1782176	footnote
+1782179	footnote
+1782182	footnote
+1782184	footnote
+1782188	footnote
+1782190	footnote
+1782193	footnote
+1782196	italic
 italic
 footnote
-1679898	footnote
-1679901	footnote
-1679903	footnote
-1679905	footnote
-1679907	footnote
-1679909	footnote
-1679912	footnote
-1679914	footnote
-1679916	footnote
-1679918	footnote
-1679920	footnote
-1679922	italic
+1782201	footnote
+1782204	footnote
+1782206	footnote
+1782208	footnote
+1782210	footnote
+1782212	footnote
+1782215	footnote
+1782217	footnote
+1782219	footnote
+1782221	footnote
+1782223	footnote
+1782225	italic
 italic
 italic
 italic
 footnote
-1679929	footnote
-1679932	footnote
-1679935	footnote
-1679937	footnote
-1679939	footnote
-1679942	footnote
-1679945	footnote
-1679948	footnote
-1679951	footnote
-1679954	footnote
-1679958	footnote
-1679961	footnote
-1679964	footnote
-1679966	footnote
-1679968	footnote
-1679970	footnote
-1679974	footnote
-1679976	footnote
-1679979	footnote
-1679981	footnote
-1679984	footnote
-1679987	footnote
-1679989	footnote
-1679992	footnote
-1679994	footnote
-1679996	smallcaps
+1782232	footnote
+1782235	footnote
+1782238	footnote
+1782240	footnote
+1782242	footnote
+1782245	footnote
+1782248	footnote
+1782251	footnote
+1782254	footnote
+1782257	footnote
+1782261	footnote
+1782264	footnote
+1782267	footnote
+1782269	footnote
+1782271	footnote
+1782273	footnote
+1782277	footnote
+1782279	footnote
+1782282	footnote
+1782284	footnote
+1782287	footnote
+1782290	footnote
+1782292	footnote
+1782295	footnote
+1782297	footnote
+1782299	smallcaps
 superscript
 italic
 italic
@@ -6658,28 +6658,28 @@ italic
 superscript
 italic
 footnote
-1680013	footnote
-1680016	footnote
-1680019	footnote
-1680022	footnote
-1680024	footnote
-1680026	footnote
-1680028	italic
+1782316	footnote
+1782319	footnote
+1782322	footnote
+1782325	footnote
+1782327	footnote
+1782329	footnote
+1782331	italic
 italic
 italic
 superscript
 italic
 footnote
-1680035	footnote
-1680037	footnote
-1680039	footnote
-1680041	footnote
-1680043	footnote
-1680045	footnote
-1680047	footnote
-1680049	footnote
-1680051	footnote
-1680054	italic
+1782338	footnote
+1782340	footnote
+1782342	footnote
+1782344	footnote
+1782346	footnote
+1782348	footnote
+1782350	footnote
+1782352	footnote
+1782354	footnote
+1782357	italic
 italic
 italic
 italic
@@ -6691,284 +6691,284 @@ smallcaps
 italic
 italic
 footnote
-1680067	footnote
-1680069	footnote
-1680071	footnote
-1680073	footnote
-1680077	footnote
-1680079	footnote
-1680081	footnote
-1680083	footnote
-1680085	footnote
-1680087	footnote
-1680089	footnote
-1680092	footnote
-1680094	footnote
-1680096	footnote
-1680098	footnote
-1680100	footnote
-1680102	footnote
-1680104	footnote
-1680106	footnote
-1680108	footnote
-1680110	footnote
-1680112	footnote
-1680114	footnote
-1680116	footnote
-1680118	footnote
-1680120	footnote
-1680122	footnote
-1680125	footnote
-1680127	footnote
-1680129	footnote
-1680131	footnote
-1680133	footnote
-1680136	footnote
-1680138	footnote
-1680140	footnote
-1680142	footnote
-1680144	footnote
-1680147	footnote
-1680149	footnote
-1680151	footnote
-1680153	footnote
-1680156	footnote
-1680158	italic
+1782370	footnote
+1782372	footnote
+1782374	footnote
+1782376	footnote
+1782380	footnote
+1782382	footnote
+1782384	footnote
+1782386	footnote
+1782388	footnote
+1782390	footnote
+1782392	footnote
+1782395	footnote
+1782397	footnote
+1782399	footnote
+1782401	footnote
+1782403	footnote
+1782405	footnote
+1782407	footnote
+1782409	footnote
+1782411	footnote
+1782413	footnote
+1782415	footnote
+1782417	footnote
+1782419	footnote
+1782421	footnote
+1782423	footnote
+1782425	footnote
+1782428	footnote
+1782430	footnote
+1782432	footnote
+1782434	footnote
+1782436	footnote
+1782439	footnote
+1782441	footnote
+1782443	footnote
+1782445	footnote
+1782447	footnote
+1782450	footnote
+1782452	footnote
+1782454	footnote
+1782456	footnote
+1782459	footnote
+1782461	italic
 italic
 footnote
-1680163	footnote
-1680166	footnote
-1680168	footnote
-1680171	footnote
-1680173	footnote
-1680175	footnote
-1680177	footnote
-1680181	footnote
-1680184	footnote
-1680186	footnote
-1680188	footnote
-1680190	footnote
-1680194	footnote
-1680196	footnote
-1680198	footnote
-1680200	footnote
-1680203	footnote
-1680205	footnote
-1680207	footnote
-1680209	footnote
-1680212	footnote
-1680215	footnote
-1680217	footnote
-1680219	footnote
-1680221	footnote
-1680223	footnote
-1680226	footnote
-1680228	italic
+1782466	footnote
+1782469	footnote
+1782471	footnote
+1782474	footnote
+1782476	footnote
+1782478	footnote
+1782480	footnote
+1782484	footnote
+1782487	footnote
+1782489	footnote
+1782491	footnote
+1782493	footnote
+1782497	footnote
+1782499	footnote
+1782501	footnote
+1782503	footnote
+1782506	footnote
+1782508	footnote
+1782510	footnote
+1782512	footnote
+1782515	footnote
+1782518	footnote
+1782520	footnote
+1782522	footnote
+1782524	footnote
+1782526	footnote
+1782529	footnote
+1782531	italic
 italic
 footnote
-1680232	footnote
-1680235	footnote
-1680239	footnote
-1680241	footnote
-1680244	footnote
-1680247	footnote
-1680249	footnote
-1680251	footnote
-1680253	footnote
-1680256	italic
+1782535	footnote
+1782538	footnote
+1782542	footnote
+1782544	footnote
+1782547	footnote
+1782550	footnote
+1782552	footnote
+1782554	footnote
+1782556	footnote
+1782559	italic
 italic
 italic
 footnote
-1680261	footnote
-1680263	footnote
-1680265	footnote
-1680268	footnote
-1680271	footnote
-1680273	footnote
-1680277	footnote
-1680281	footnote
-1680284	footnote
-1680286	footnote
-1680288	footnote
-1680290	footnote
-1680292	footnote
-1680294	footnote
-1680296	footnote
-1680298	footnote
-1680300	footnote
-1680302	footnote
-1680304	footnote
-1680306	footnote
-1680308	footnote
-1680310	footnote
-1680312	footnote
-1680314	footnote
-1680316	footnote
-1680319	footnote
-1680321	footnote
-1680323	footnote
-1680325	footnote
-1680327	footnote
-1680329	footnote
-1680332	footnote
-1680334	footnote
-1680337	footnote
-1680339	footnote
-1680341	footnote
-1680343	footnote
-1680345	italic
+1782564	footnote
+1782566	footnote
+1782568	footnote
+1782571	footnote
+1782574	footnote
+1782576	footnote
+1782580	footnote
+1782584	footnote
+1782587	footnote
+1782589	footnote
+1782591	footnote
+1782593	footnote
+1782595	footnote
+1782597	footnote
+1782599	footnote
+1782601	footnote
+1782603	footnote
+1782605	footnote
+1782607	footnote
+1782609	footnote
+1782611	footnote
+1782613	footnote
+1782615	footnote
+1782617	footnote
+1782619	footnote
+1782622	footnote
+1782624	footnote
+1782626	footnote
+1782628	footnote
+1782630	footnote
+1782632	footnote
+1782635	footnote
+1782637	footnote
+1782640	footnote
+1782642	footnote
+1782644	footnote
+1782646	footnote
+1782648	italic
 italic
 footnote
-1680349	footnote
-1680351	footnote
-1680353	footnote
-1680355	footnote
-1680358	footnote
-1680361	italic
+1782652	footnote
+1782654	footnote
+1782656	footnote
+1782658	footnote
+1782661	footnote
+1782664	italic
 italic
 smallcaps
 footnote
-1680366	footnote
-1680368	footnote
-1680370	footnote
-1680372	footnote
-1680374	footnote
-1680376	footnote
-1680378	footnote
-1680380	footnote
-1680382	footnote
-1680385	footnote
-1680387	footnote
-1680389	footnote
-1680391	footnote
-1680393	footnote
-1680395	footnote
-1680397	footnote
-1680400	footnote
-1680402	footnote
-1680404	footnote
-1680406	footnote
-1680408	footnote
-1680410	footnote
-1680412	italic
+1782669	footnote
+1782671	footnote
+1782673	footnote
+1782675	footnote
+1782677	footnote
+1782679	footnote
+1782681	footnote
+1782683	footnote
+1782685	footnote
+1782688	footnote
+1782690	footnote
+1782692	footnote
+1782694	footnote
+1782696	footnote
+1782698	footnote
+1782700	footnote
+1782703	footnote
+1782705	footnote
+1782707	footnote
+1782709	footnote
+1782711	footnote
+1782713	footnote
+1782715	italic
 italic
 footnote
-1680417	footnote
-1680419	footnote
-1680421	footnote
-1680423	footnote
-1680425	footnote
-1680427	footnote
-1680430	footnote
-1680432	footnote
-1680434	footnote
-1680436	footnote
-1680438	footnote
-1680441	footnote
-1680444	footnote
-1680446	footnote
-1680448	footnote
-1680450	footnote
-1680452	footnote
-1680454	footnote
-1680456	footnote
-1680458	footnote
-1680460	footnote
-1680462	footnote
-1680464	footnote
-1680466	footnote
-1680468	italic
+1782720	footnote
+1782722	footnote
+1782724	footnote
+1782726	footnote
+1782728	footnote
+1782730	footnote
+1782733	footnote
+1782735	footnote
+1782737	footnote
+1782739	footnote
+1782741	footnote
+1782744	footnote
+1782747	footnote
+1782749	footnote
+1782751	footnote
+1782753	footnote
+1782755	footnote
+1782757	footnote
+1782759	footnote
+1782761	footnote
+1782763	footnote
+1782765	footnote
+1782767	footnote
+1782769	footnote
+1782771	italic
 italic
 smallcaps
 smallcaps
 italic
 footnote
-1680475	footnote
-1680477	footnote
-1680479	footnote
-1680481	footnote
-1680484	footnote
-1680486	footnote
-1680489	footnote
-1680491	footnote
-1680494	footnote
-1680498	footnote
-1680500	footnote
-1680502	footnote
-1680505	footnote
-1680507	footnote
-1680509	footnote
-1680512	footnote
-1680515	footnote
-1680517	footnote
-1680519	footnote
-1680521	footnote
-1680524	footnote
-1680526	footnote
-1680528	footnote
-1680530	footnote
-1680532	footnote
-1680534	footnote
-1680536	footnote
-1680538	footnote
-1680541	footnote
-1680543	footnote
-1680545	footnote
-1680547	footnote
-1680549	footnote
-1680551	footnote
-1680553	footnote
-1680555	footnote
-1680557	footnote
-1680559	footnote
-1680561	footnote
-1680563	smallcaps
+1782778	footnote
+1782780	footnote
+1782782	footnote
+1782784	footnote
+1782787	footnote
+1782789	footnote
+1782792	footnote
+1782794	footnote
+1782797	footnote
+1782801	footnote
+1782803	footnote
+1782805	footnote
+1782808	footnote
+1782810	footnote
+1782812	footnote
+1782815	footnote
+1782818	footnote
+1782820	footnote
+1782822	footnote
+1782824	footnote
+1782827	footnote
+1782829	footnote
+1782831	footnote
+1782833	footnote
+1782835	footnote
+1782837	footnote
+1782839	footnote
+1782841	footnote
+1782844	footnote
+1782846	footnote
+1782848	footnote
+1782850	footnote
+1782852	footnote
+1782854	footnote
+1782856	footnote
+1782858	footnote
+1782860	footnote
+1782862	footnote
+1782864	footnote
+1782866	smallcaps
 smallcaps
 italic
 italic
 footnote
-1680570	footnote
-1680573	footnote
-1680576	footnote
-1680579	footnote
-1680581	footnote
-1680583	footnote
-1680586	footnote
-1680589	footnote
-1680591	footnote
-1680593	footnote
-1680595	footnote
-1680599	footnote
-1680601	footnote
-1680604	footnote
-1680606	footnote
-1680608	footnote
-1680610	italic
+1782873	footnote
+1782876	footnote
+1782879	footnote
+1782882	footnote
+1782884	footnote
+1782886	footnote
+1782889	footnote
+1782892	footnote
+1782894	footnote
+1782896	footnote
+1782898	footnote
+1782902	footnote
+1782904	footnote
+1782907	footnote
+1782909	footnote
+1782911	footnote
+1782913	italic
 italic
 footnote
-1680614	footnote
-1680617	footnote
-1680619	footnote
-1680621	footnote
-1680623	footnote
-1680626	footnote
-1680628	footnote
-1680630	footnote
-1680632	footnote
-1680635	footnote
-1680638	footnote
-1680640	footnote
-1680642	footnote
-1680644	footnote
-1680646	footnote
-1680648	footnote
-1680650	footnote
-1680652	footnote
-1680654	footnote
-1680656	footnote
-1680658	footnote
-1680660	footnote
-1680662	italic
+1782917	footnote
+1782920	footnote
+1782922	footnote
+1782924	footnote
+1782926	footnote
+1782929	footnote
+1782931	footnote
+1782933	footnote
+1782935	footnote
+1782938	footnote
+1782941	footnote
+1782943	footnote
+1782945	footnote
+1782947	footnote
+1782949	footnote
+1782951	footnote
+1782953	footnote
+1782955	footnote
+1782957	footnote
+1782959	footnote
+1782961	footnote
+1782963	footnote
+1782965	italic
 italic
 superscript
 smallcaps
@@ -7019,142 +7019,142 @@ smallcaps
 smallcaps
 smallcaps
 footnote
-1680714	footnote
-1680716	footnote
-1680719	footnote
-1680722	footnote
-1680725	footnote
-1680727	footnote
-1680730	footnote
-1680732	footnote
-1680734	footnote
-1680736	footnote
-1680738	footnote
-1680740	footnote
-1680742	footnote
-1680744	footnote
-1680746	footnote
-1680748	footnote
-1680751	footnote
-1680753	footnote
-1680755	footnote
-1680758	footnote
-1680760	footnote
-1680763	footnote
-1680765	footnote
-1680767	footnote
-1680770	footnote
-1680772	footnote
-1680775	footnote
-1680778	footnote
-1680780	footnote
-1680782	footnote
-1680785	footnote
-1680788	footnote
-1680791	footnote
-1680794	footnote
-1680796	footnote
-1680799	footnote
-1680801	footnote
-1680803	footnote
-1680805	footnote
-1680807	footnote
-1680809	footnote
-1680811	footnote
-1680813	footnote
-1680815	footnote
-1680817	footnote
-1680819	footnote
-1680821	footnote
-1680824	footnote
-1680827	footnote
-1680830	footnote
-1680832	footnote
-1680834	footnote
-1680836	footnote
-1680839	footnote
-1680842	footnote
-1680844	footnote
-1680846	footnote
-1680849	footnote
-1680851	footnote
-1680854	footnote
-1680857	footnote
-1680860	footnote
-1680862	italic
+1783017	footnote
+1783019	footnote
+1783022	footnote
+1783025	footnote
+1783028	footnote
+1783030	footnote
+1783033	footnote
+1783035	footnote
+1783037	footnote
+1783039	footnote
+1783041	footnote
+1783043	footnote
+1783045	footnote
+1783047	footnote
+1783049	footnote
+1783051	footnote
+1783054	footnote
+1783056	footnote
+1783058	footnote
+1783061	footnote
+1783063	footnote
+1783066	footnote
+1783068	footnote
+1783070	footnote
+1783073	footnote
+1783075	footnote
+1783078	footnote
+1783081	footnote
+1783083	footnote
+1783085	footnote
+1783088	footnote
+1783091	footnote
+1783094	footnote
+1783097	footnote
+1783099	footnote
+1783102	footnote
+1783104	footnote
+1783106	footnote
+1783108	footnote
+1783110	footnote
+1783112	footnote
+1783114	footnote
+1783116	footnote
+1783118	footnote
+1783120	footnote
+1783122	footnote
+1783124	footnote
+1783127	footnote
+1783130	footnote
+1783133	footnote
+1783135	footnote
+1783137	footnote
+1783139	footnote
+1783142	footnote
+1783145	footnote
+1783147	footnote
+1783149	footnote
+1783152	footnote
+1783154	footnote
+1783157	footnote
+1783160	footnote
+1783163	footnote
+1783165	italic
 italic
 footnote
-1680866	footnote
-1680868	footnote
-1680870	footnote
-1680873	footnote
-1680876	footnote
-1680879	footnote
-1680881	footnote
-1680884	footnote
-1680886	footnote
-1680888	footnote
-1680890	footnote
-1680892	footnote
-1680894	footnote
-1680897	superscript
+1783169	footnote
+1783171	footnote
+1783173	footnote
+1783176	footnote
+1783179	footnote
+1783182	footnote
+1783184	footnote
+1783187	footnote
+1783189	footnote
+1783191	footnote
+1783193	footnote
+1783195	footnote
+1783197	footnote
+1783200	superscript
 italic
 superscript
 italic
 footnote
-1680903	footnote
-1680906	footnote
-1680909	footnote
-1680911	footnote
-1680914	footnote
-1680917	footnote
-1680920	footnote
-1680923	footnote
-1680926	footnote
-1680929	footnote
-1680931	footnote
-1680933	footnote
-1680935	footnote
-1680938	footnote
-1680941	footnote
-1680944	footnote
-1680946	italic
+1783206	footnote
+1783209	footnote
+1783212	footnote
+1783214	footnote
+1783217	footnote
+1783220	footnote
+1783223	footnote
+1783226	footnote
+1783229	footnote
+1783232	footnote
+1783234	footnote
+1783236	footnote
+1783238	footnote
+1783241	footnote
+1783244	footnote
+1783247	footnote
+1783249	italic
 footnote
-1680950	footnote
-1680952	footnote
-1680955	footnote
-1680957	footnote
-1680960	footnote
-1680963	footnote
-1680966	footnote
-1680969	footnote
-1680972	footnote
-1680975	footnote
-1680978	footnote
-1680981	footnote
-1680984	footnote
-1680987	footnote
-1680990	footnote
-1680992	footnote
-1680995	footnote
-1680997	footnote
-1681000	footnote
-1681003	footnote
-1681006	footnote
-1681009	footnote
-1681012	footnote
-1681014	footnote
-1681016	footnote
-1681018	footnote
-1681021	footnote
-1681024	footnote
-1681027	footnote
-1681029	footnote
-1681031	footnote
-1681034	footnote
-1681036	footnote
-1681039	footnote
-1681041	italic
+1783253	footnote
+1783255	footnote
+1783258	footnote
+1783260	footnote
+1783263	footnote
+1783266	footnote
+1783269	footnote
+1783272	footnote
+1783275	footnote
+1783278	footnote
+1783281	footnote
+1783284	footnote
+1783287	footnote
+1783290	footnote
+1783293	footnote
+1783295	footnote
+1783298	footnote
+1783300	footnote
+1783303	footnote
+1783306	footnote
+1783309	footnote
+1783312	footnote
+1783315	footnote
+1783317	footnote
+1783319	footnote
+1783321	footnote
+1783324	footnote
+1783327	footnote
+1783330	footnote
+1783332	footnote
+1783334	footnote
+1783337	footnote
+1783339	footnote
+1783342	footnote
+1783344	italic
 italic
 italic
 italic
@@ -7180,95 +7180,95 @@ italic
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1681074	footnote
-1681076	footnote
-1681079	footnote
-1681083	footnote
-1681085	footnote
-1681088	footnote
-1681090	footnote
-1681092	footnote
-1681095	footnote
-1681098	footnote
-1681101	footnote
-1681104	footnote
-1681106	footnote
-1681108	footnote
-1681112	footnote
-1681115	footnote
-1681118	footnote
-1681121	footnote
-1681124	footnote
-1681127	footnote
-1681130	footnote
-1681132	footnote
-1681135	footnote
-1681138	footnote
-1681141	footnote
-1681144	footnote
-1681147	footnote
-1681149	footnote
-1681151	footnote
-1681153	footnote
-1681156	italic
 italic
 italic
 italic
 italic
 italic
 footnote
-1681164	footnote
-1681167	footnote
-1681169	footnote
-1681171	footnote
-1681175	footnote
-1681177	footnote
-1681180	footnote
-1681182	footnote
-1681184	footnote
-1681187	footnote
-1681189	footnote
-1681191	footnote
-1681193	footnote
-1681196	footnote
-1681198	footnote
-1681200	footnote
-1681203	footnote
-1681206	footnote
-1681208	footnote
-1681210	footnote
-1681212	superscript
+1783377	footnote
+1783379	footnote
+1783382	footnote
+1783386	footnote
+1783388	footnote
+1783391	footnote
+1783393	footnote
+1783395	footnote
+1783398	footnote
+1783401	footnote
+1783404	footnote
+1783407	footnote
+1783409	footnote
+1783411	footnote
+1783415	footnote
+1783418	footnote
+1783421	footnote
+1783424	footnote
+1783427	footnote
+1783430	footnote
+1783433	footnote
+1783435	footnote
+1783438	footnote
+1783441	footnote
+1783444	footnote
+1783447	footnote
+1783450	footnote
+1783452	footnote
+1783454	footnote
+1783456	footnote
+1783459	italic
+italic
+italic
+italic
 italic
 italic
 footnote
-1681217	footnote
-1681220	footnote
-1681223	footnote
-1681226	footnote
-1681228	footnote
-1681231	footnote
-1681234	footnote
-1681237	footnote
-1681240	footnote
-1681242	footnote
-1681244	footnote
-1681248	footnote
-1681251	footnote
-1681254	footnote
-1681256	footnote
-1681258	footnote
-1681260	footnote
-1681263	footnote
-1681266	footnote
-1681268	footnote
-1681270	footnote
-1681272	italic
+1783467	footnote
+1783470	footnote
+1783472	footnote
+1783474	footnote
+1783478	footnote
+1783480	footnote
+1783483	footnote
+1783485	footnote
+1783487	footnote
+1783490	footnote
+1783492	footnote
+1783494	footnote
+1783496	footnote
+1783499	footnote
+1783501	footnote
+1783503	footnote
+1783506	footnote
+1783509	footnote
+1783511	footnote
+1783513	footnote
+1783515	superscript
+italic
+italic
+footnote
+1783520	footnote
+1783523	footnote
+1783526	footnote
+1783529	footnote
+1783531	footnote
+1783534	footnote
+1783537	footnote
+1783540	footnote
+1783543	footnote
+1783545	footnote
+1783547	footnote
+1783551	footnote
+1783554	footnote
+1783557	footnote
+1783559	footnote
+1783561	footnote
+1783563	footnote
+1783566	footnote
+1783569	footnote
+1783571	footnote
+1783573	footnote
+1783575	italic
 italic
 smallcaps
 superscript
@@ -7279,88 +7279,88 @@ italic
 superscript
 italic
 footnote
-1681284	footnote
-1681287	footnote
-1681290	footnote
-1681293	footnote
-1681295	footnote
-1681298	footnote
-1681300	footnote
-1681303	footnote
-1681306	footnote
-1681309	footnote
-1681311	footnote
-1681314	footnote
-1681317	footnote
-1681319	footnote
-1681322	footnote
-1681325	footnote
-1681328	footnote
-1681331	footnote
-1681333	footnote
-1681335	footnote
-1681338	footnote
-1681340	footnote
-1681343	footnote
-1681346	footnote
-1681349	footnote
-1681352	footnote
-1681354	footnote
-1681356	footnote
-1681358	footnote
-1681361	footnote
-1681364	footnote
-1681367	footnote
-1681370	footnote
-1681372	footnote
-1681374	footnote
-1681377	footnote
-1681379	footnote
-1681381	footnote
-1681384	footnote
-1681388	footnote
-1681391	footnote
-1681394	footnote
-1681396	footnote
-1681398	footnote
-1681400	footnote
-1681402	footnote
-1681405	footnote
-1681407	footnote
-1681410	footnote
-1681413	footnote
-1681416	footnote
-1681419	footnote
-1681421	footnote
-1681424	footnote
-1681426	footnote
-1681428	footnote
-1681431	footnote
-1681434	footnote
-1681436	footnote
-1681439	footnote
-1681441	footnote
-1681443	footnote
-1681446	footnote
-1681448	footnote
-1681451	footnote
-1681453	footnote
-1681455	footnote
-1681459	footnote
-1681462	footnote
-1681464	footnote
-1681466	footnote
-1681468	footnote
-1681470	footnote
-1681473	footnote
-1681476	footnote
-1681479	footnote
-1681481	footnote
-1681484	footnote
-1681487	footnote
-1681490	footnote
-1681492	footnote
-1681495	italic
+1783587	footnote
+1783590	footnote
+1783593	footnote
+1783596	footnote
+1783598	footnote
+1783601	footnote
+1783603	footnote
+1783606	footnote
+1783609	footnote
+1783612	footnote
+1783614	footnote
+1783617	footnote
+1783620	footnote
+1783622	footnote
+1783625	footnote
+1783628	footnote
+1783631	footnote
+1783634	footnote
+1783636	footnote
+1783638	footnote
+1783641	footnote
+1783643	footnote
+1783646	footnote
+1783649	footnote
+1783652	footnote
+1783655	footnote
+1783657	footnote
+1783659	footnote
+1783661	footnote
+1783664	footnote
+1783667	footnote
+1783670	footnote
+1783673	footnote
+1783675	footnote
+1783677	footnote
+1783680	footnote
+1783682	footnote
+1783684	footnote
+1783687	footnote
+1783691	footnote
+1783694	footnote
+1783697	footnote
+1783699	footnote
+1783701	footnote
+1783703	footnote
+1783705	footnote
+1783708	footnote
+1783710	footnote
+1783713	footnote
+1783716	footnote
+1783719	footnote
+1783722	footnote
+1783724	footnote
+1783727	footnote
+1783729	footnote
+1783731	footnote
+1783734	footnote
+1783737	footnote
+1783739	footnote
+1783742	footnote
+1783744	footnote
+1783746	footnote
+1783749	footnote
+1783751	footnote
+1783754	footnote
+1783756	footnote
+1783758	footnote
+1783762	footnote
+1783765	footnote
+1783767	footnote
+1783769	footnote
+1783771	footnote
+1783773	footnote
+1783776	footnote
+1783779	footnote
+1783782	footnote
+1783784	footnote
+1783787	footnote
+1783790	footnote
+1783793	footnote
+1783795	footnote
+1783798	italic
 smallcaps
 superscript
 smallcaps
@@ -7371,39 +7371,39 @@ italic
 smallcaps
 smallcaps
 footnote
-1681508	footnote
-1681511	footnote
-1681516	footnote
-1681518	footnote
-1681520	footnote
-1681523	footnote
-1681526	footnote
-1681528	footnote
-1681531	footnote
-1681534	footnote
-1681537	footnote
-1681539	footnote
-1681541	footnote
-1681543	footnote
-1681545	italic
+1783811	footnote
+1783814	footnote
+1783819	footnote
+1783821	footnote
+1783823	footnote
+1783826	footnote
+1783829	footnote
+1783831	footnote
+1783834	footnote
+1783837	footnote
+1783840	footnote
+1783842	footnote
+1783844	footnote
+1783846	footnote
+1783848	italic
 superscript
 italic
 footnote
-1681551	footnote
-1681554	footnote
-1681557	footnote
-1681560	footnote
-1681562	footnote
-1681565	footnote
-1681568	footnote
-1681571	footnote
-1681573	footnote
-1681575	footnote
-1681578	footnote
-1681580	footnote
-1681582	footnote
-1681585	footnote
-1681588	bold
+1783854	footnote
+1783857	footnote
+1783860	footnote
+1783863	footnote
+1783865	footnote
+1783868	footnote
+1783871	footnote
+1783874	footnote
+1783876	footnote
+1783878	footnote
+1783881	footnote
+1783883	footnote
+1783885	footnote
+1783888	footnote
+1783891	bold
 italic
 italic
 superscript
@@ -7415,77 +7415,77 @@ superscript
 smallcaps
 smallcaps
 footnote
-1681601	footnote
-1681603	footnote
-1681605	footnote
-1681607	footnote
-1681609	footnote
-1681611	footnote
-1681614	footnote
-1681616	footnote
-1681618	footnote
-1681621	footnote
-1681623	footnote
-1681626	footnote
-1681628	footnote
-1681630	footnote
-1681633	footnote
-1681636	footnote
-1681638	footnote
-1681641	footnote
-1681645	footnote
-1681647	footnote
-1681649	footnote
-1681651	footnote
-1681654	footnote
-1681656	footnote
-1681659	footnote
-1681661	footnote
-1681665	footnote
-1681667	footnote
-1681673	footnote
-1681676	footnote
-1681678	footnote
-1681680	footnote
-1681682	footnote
-1681685	footnote
-1681687	footnote
-1681689	footnote
-1681691	footnote
-1681693	footnote
-1681695	footnote
-1681697	footnote
-1681699	footnote
-1681701	footnote
-1681704	footnote
-1681706	footnote
-1681708	footnote
-1681710	footnote
-1681713	footnote
-1681715	footnote
-1681718	footnote
-1681720	footnote
-1681722	footnote
-1681724	footnote
-1681727	footnote
-1681729	footnote
-1681732	footnote
-1681734	footnote
-1681737	footnote
-1681739	footnote
-1681741	footnote
-1681744	footnote
-1681747	footnote
-1681749	footnote
-1681752	footnote
-1681755	footnote
-1681757	superscript
+1783904	footnote
+1783906	footnote
+1783908	footnote
+1783910	footnote
+1783912	footnote
+1783914	footnote
+1783917	footnote
+1783919	footnote
+1783921	footnote
+1783924	footnote
+1783926	footnote
+1783929	footnote
+1783931	footnote
+1783933	footnote
+1783936	footnote
+1783939	footnote
+1783941	footnote
+1783944	footnote
+1783948	footnote
+1783950	footnote
+1783952	footnote
+1783954	footnote
+1783957	footnote
+1783959	footnote
+1783962	footnote
+1783964	footnote
+1783968	footnote
+1783970	footnote
+1783976	footnote
+1783979	footnote
+1783981	footnote
+1783983	footnote
+1783985	footnote
+1783988	footnote
+1783990	footnote
+1783992	footnote
+1783994	footnote
+1783996	footnote
+1783998	footnote
+1784000	footnote
+1784002	footnote
+1784004	footnote
+1784007	footnote
+1784009	footnote
+1784011	footnote
+1784013	footnote
+1784016	footnote
+1784018	footnote
+1784021	footnote
+1784023	footnote
+1784025	footnote
+1784027	footnote
+1784030	footnote
+1784032	footnote
+1784035	footnote
+1784037	footnote
+1784040	footnote
+1784042	footnote
+1784044	footnote
+1784047	footnote
+1784050	footnote
+1784052	footnote
+1784055	footnote
+1784058	footnote
+1784060	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1681764	italic
+1784067	italic
 italic
 italic
 italic
@@ -7498,58 +7498,6 @@ italic
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1681793	footnote
-1681796	footnote
-1681798	footnote
-1681800	footnote
-1681803	footnote
-1681805	footnote
-1681807	footnote
-1681810	footnote
-1681812	footnote
-1681815	footnote
-1681817	footnote
-1681819	footnote
-1681821	footnote
-1681824	footnote
-1681827	footnote
-1681830	footnote
-1681832	footnote
-1681835	footnote
-1681837	footnote
-1681839	footnote
-1681842	footnote
-1681845	footnote
-1681848	footnote
-1681850	footnote
-1681852	footnote
-1681855	footnote
-1681858	footnote
-1681860	footnote
-1681864	footnote
-1681867	footnote
-1681870	footnote
-1681873	footnote
-1681875	footnote
-1681877	footnote
-1681880	footnote
-1681882	footnote
-1681884	footnote
-1681886	italic
 italic
 italic
 italic
@@ -7564,59 +7512,111 @@ italic
 italic
 italic
 footnote
-1681902	footnote
-1681905	footnote
-1681907	footnote
-1681909	footnote
-1681913	footnote
-1681915	footnote
-1681917	footnote
-1681919	footnote
-1681921	footnote
-1681923	footnote
-1681925	footnote
-1681927	footnote
-1681929	footnote
-1681931	footnote
-1681933	footnote
-1681935	footnote
-1681937	footnote
-1681939	footnote
-1681942	footnote
-1681944	footnote
-1681947	footnote
-1681949	footnote
-1681952	footnote
-1681954	footnote
-1681956	footnote
-1681958	footnote
-1681961	footnote
-1681964	footnote
-1681966	footnote
-1681969	footnote
-1681971	footnote
-1681974	footnote
-1681976	footnote
-1681978	footnote
-1681981	footnote
-1681983	footnote
-1681986	footnote
-1681988	footnote
-1681990	footnote
-1681992	footnote
-1681995	footnote
-1681998	footnote
-1682001	footnote
-1682004	footnote
-1682006	footnote
-1682008	footnote
-1682010	footnote
-1682012	footnote
-1682015	footnote
-1682017	footnote
-1682020	footnote
-1682023	footnote
-1682026	superscript
+1784096	footnote
+1784099	footnote
+1784101	footnote
+1784103	footnote
+1784106	footnote
+1784108	footnote
+1784110	footnote
+1784113	footnote
+1784115	footnote
+1784118	footnote
+1784120	footnote
+1784122	footnote
+1784124	footnote
+1784127	footnote
+1784130	footnote
+1784133	footnote
+1784135	footnote
+1784138	footnote
+1784140	footnote
+1784142	footnote
+1784145	footnote
+1784148	footnote
+1784151	footnote
+1784153	footnote
+1784155	footnote
+1784158	footnote
+1784161	footnote
+1784163	footnote
+1784167	footnote
+1784170	footnote
+1784173	footnote
+1784176	footnote
+1784178	footnote
+1784180	footnote
+1784183	footnote
+1784185	footnote
+1784187	footnote
+1784189	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1784205	footnote
+1784208	footnote
+1784210	footnote
+1784212	footnote
+1784216	footnote
+1784218	footnote
+1784220	footnote
+1784222	footnote
+1784224	footnote
+1784226	footnote
+1784228	footnote
+1784230	footnote
+1784232	footnote
+1784234	footnote
+1784236	footnote
+1784238	footnote
+1784240	footnote
+1784242	footnote
+1784245	footnote
+1784247	footnote
+1784250	footnote
+1784252	footnote
+1784255	footnote
+1784257	footnote
+1784259	footnote
+1784261	footnote
+1784264	footnote
+1784267	footnote
+1784269	footnote
+1784272	footnote
+1784274	footnote
+1784277	footnote
+1784279	footnote
+1784281	footnote
+1784284	footnote
+1784286	footnote
+1784289	footnote
+1784291	footnote
+1784293	footnote
+1784295	footnote
+1784298	footnote
+1784301	footnote
+1784304	footnote
+1784307	footnote
+1784309	footnote
+1784311	footnote
+1784313	footnote
+1784315	footnote
+1784318	footnote
+1784320	footnote
+1784323	footnote
+1784326	footnote
+1784329	superscript
 bold
 superscript
 italic
@@ -7624,43 +7624,43 @@ superscript
 italic
 superscript
 footnote
-1682035	footnote
-1682038	footnote
-1682041	footnote
-1682044	footnote
-1682046	footnote
-1682049	footnote
-1682052	footnote
-1682054	footnote
-1682057	footnote
-1682060	footnote
-1682062	footnote
-1682064	footnote
-1682066	footnote
-1682068	footnote
-1682070	footnote
-1682073	footnote
-1682076	footnote
-1682078	footnote
-1682080	footnote
-1682083	footnote
-1682086	footnote
-1682089	footnote
-1682092	footnote
-1682094	footnote
-1682096	footnote
-1682099	footnote
-1682102	footnote
-1682104	footnote
-1682106	footnote
-1682109	footnote
-1682111	footnote
-1682114	footnote
-1682117	footnote
-1682119	footnote
-1682121	footnote
-1682123	footnote
-1682125	italic
+1784338	footnote
+1784341	footnote
+1784344	footnote
+1784347	footnote
+1784349	footnote
+1784352	footnote
+1784355	footnote
+1784357	footnote
+1784360	footnote
+1784363	footnote
+1784365	footnote
+1784367	footnote
+1784369	footnote
+1784371	footnote
+1784373	footnote
+1784376	footnote
+1784379	footnote
+1784381	footnote
+1784383	footnote
+1784386	footnote
+1784389	footnote
+1784392	footnote
+1784395	footnote
+1784397	footnote
+1784399	footnote
+1784402	footnote
+1784405	footnote
+1784407	footnote
+1784409	footnote
+1784412	footnote
+1784414	footnote
+1784417	footnote
+1784420	footnote
+1784422	footnote
+1784424	footnote
+1784426	footnote
+1784428	italic
 italic
 smallcaps
 smallcaps
@@ -8531,7 +8531,7 @@ superscript
 italic
 superscript
 footnote
-1682997	footnote
+1785300	footnote
 footnote
 footnote
 footnote
@@ -8560,7 +8560,7 @@ italic
 footnote
 footnote
 footnote
-1683027	footnote
+1785330	footnote
 footnote
 footnote
 footnote
@@ -8885,7 +8885,7 @@ italic
 italic
 italic
 footnote
-1683353	footnote
+1785656	footnote
 footnote
 footnote
 footnote
@@ -9861,211 +9861,211 @@ italic
 italic
 italic
 footnote
-1684331	footnote
-1684333	footnote
-1684335	footnote
-1684337	footnote
-1684339	footnote
-1684342	footnote
-1684344	footnote
-1684346	footnote
-1684348	footnote
-1684350	footnote
-1684352	footnote
-1684354	footnote
-1684356	footnote
-1684358	footnote
-1684360	footnote
-1684362	footnote
-1684365	footnote
-1684367	footnote
-1684370	italic
+1786634	footnote
+1786636	footnote
+1786638	footnote
+1786640	footnote
+1786642	footnote
+1786645	footnote
+1786647	footnote
+1786649	footnote
+1786651	footnote
+1786653	footnote
+1786655	footnote
+1786657	footnote
+1786659	footnote
+1786661	footnote
+1786663	footnote
+1786665	footnote
+1786668	footnote
+1786670	footnote
+1786673	italic
 italic
 footnote
-1684374	footnote
-1684377	footnote
-1684379	footnote
-1684381	footnote
-1684384	footnote
-1684387	footnote
-1684389	footnote
-1684392	footnote
-1684394	footnote
-1684396	smallcaps
+1786677	footnote
+1786680	footnote
+1786682	footnote
+1786684	footnote
+1786687	footnote
+1786690	footnote
+1786692	footnote
+1786695	footnote
+1786697	footnote
+1786699	smallcaps
 italic
 italic
 footnote
-1684401	footnote
-1684403	footnote
-1684405	footnote
-1684407	footnote
-1684409	footnote
-1684411	footnote
-1684413	footnote
-1684415	footnote
-1684417	footnote
-1684419	footnote
-1684421	footnote
-1684423	footnote
-1684426	footnote
-1684429	superscript
+1786704	footnote
+1786706	footnote
+1786708	footnote
+1786710	footnote
+1786712	footnote
+1786714	footnote
+1786716	footnote
+1786718	footnote
+1786720	footnote
+1786722	footnote
+1786724	footnote
+1786726	footnote
+1786729	footnote
+1786732	superscript
 superscript
 italic
 smallcaps
 italic
 superscript
 footnote
-1684438	footnote
-1684441	footnote
-1684444	footnote
-1684446	footnote
-1684448	footnote
-1684450	footnote
-1684452	footnote
-1684454	footnote
-1684456	footnote
-1684458	footnote
-1684460	footnote
-1684463	footnote
-1684465	footnote
-1684467	footnote
-1684470	footnote
-1684472	footnote
-1684475	superscript
+1786741	footnote
+1786744	footnote
+1786747	footnote
+1786749	footnote
+1786751	footnote
+1786753	footnote
+1786755	footnote
+1786757	footnote
+1786759	footnote
+1786761	footnote
+1786763	footnote
+1786766	footnote
+1786768	footnote
+1786770	footnote
+1786773	footnote
+1786775	footnote
+1786778	superscript
 italic
 superscript
 italic
 footnote
-1684482	footnote
-1684486	footnote
-1684488	footnote
-1684490	footnote
-1684493	footnote
-1684495	italic
+1786785	footnote
+1786789	footnote
+1786791	footnote
+1786793	footnote
+1786796	footnote
+1786798	italic
 footnote
-1684498	footnote
-1684500	footnote
-1684502	footnote
-1684504	footnote
-1684506	footnote
-1684509	superscript
-italic
-italic
-footnote
-1684515	footnote
-1684518	footnote
-1684520	footnote
-1684523	footnote
-1684525	footnote
-1684528	footnote
-1684531	footnote
-1684533	footnote
-1684535	footnote
-1684537	italic
-italic
+1786801	footnote
+1786803	footnote
+1786805	footnote
+1786807	footnote
+1786809	footnote
+1786812	superscript
 italic
 italic
 footnote
-1684544	footnote
-1684546	footnote
-1684550	footnote
-1684552	footnote
-1684554	footnote
-1684556	footnote
-1684559	footnote
-1684561	footnote
-1684563	footnote
-1684565	footnote
-1684567	footnote
-1684569	superscript
+1786818	footnote
+1786821	footnote
+1786823	footnote
+1786826	footnote
+1786828	footnote
+1786831	footnote
+1786834	footnote
+1786836	footnote
+1786838	footnote
+1786840	italic
+italic
+italic
+italic
+footnote
+1786847	footnote
+1786849	footnote
+1786853	footnote
+1786855	footnote
+1786857	footnote
+1786859	footnote
+1786862	footnote
+1786864	footnote
+1786866	footnote
+1786868	footnote
+1786870	footnote
+1786872	superscript
 superscript
 italic
 italic
 footnote
-1684575	footnote
-1684577	footnote
-1684579	footnote
-1684582	footnote
-1684585	footnote
-1684587	footnote
-1684589	footnote
-1684592	footnote
-1684594	italic
+1786878	footnote
+1786880	footnote
+1786882	footnote
+1786885	footnote
+1786888	footnote
+1786890	footnote
+1786892	footnote
+1786895	footnote
+1786897	italic
 italic
 italic
 italic
 footnote
-1684601	footnote
-1684603	footnote
-1684605	footnote
-1684608	footnote
-1684610	footnote
-1684612	footnote
-1684615	footnote
-1684618	footnote
-1684620	footnote
-1684622	footnote
-1684624	footnote
-1684626	footnote
-1684629	footnote
-1684631	footnote
-1684633	footnote
-1684635	footnote
-1684637	footnote
-1684639	footnote
-1684642	footnote
-1684645	footnote
-1684648	footnote
-1684650	footnote
-1684653	footnote
-1684656	footnote
-1684658	footnote
-1684660	footnote
-1684663	footnote
-1684666	italic
+1786904	footnote
+1786906	footnote
+1786908	footnote
+1786911	footnote
+1786913	footnote
+1786915	footnote
+1786918	footnote
+1786921	footnote
+1786923	footnote
+1786925	footnote
+1786927	footnote
+1786929	footnote
+1786932	footnote
+1786934	footnote
+1786936	footnote
+1786938	footnote
+1786940	footnote
+1786942	footnote
+1786945	footnote
+1786948	footnote
+1786951	footnote
+1786953	footnote
+1786956	footnote
+1786959	footnote
+1786961	footnote
+1786963	footnote
+1786966	footnote
+1786969	italic
 italic
 footnote
-1684670	footnote
-1684672	footnote
-1684675	footnote
-1684677	footnote
-1684679	superscript
+1786973	footnote
+1786975	footnote
+1786978	footnote
+1786980	footnote
+1786982	superscript
 italic
 superscript
 italic
 footnote
-1684685	footnote
-1684687	footnote
-1684689	footnote
-1684691	footnote
-1684693	footnote
-1684695	footnote
-1684697	footnote
-1684699	footnote
-1684701	footnote
-1684703	footnote
-1684705	footnote
-1684707	footnote
-1684709	footnote
-1684711	footnote
-1684714	footnote
-1684716	footnote
-1684718	footnote
-1684720	footnote
-1684722	italic
+1786988	footnote
+1786990	footnote
+1786992	footnote
+1786994	footnote
+1786996	footnote
+1786998	footnote
+1787000	footnote
+1787002	footnote
+1787004	footnote
+1787006	footnote
+1787008	footnote
+1787010	footnote
+1787012	footnote
+1787014	footnote
+1787017	footnote
+1787019	footnote
+1787021	footnote
+1787023	footnote
+1787025	italic
 italic
 footnote
-1684727	footnote
-1684729	footnote
-1684731	footnote
-1684734	footnote
-1684736	footnote
-1684738	footnote
-1684740	footnote
-1684742	footnote
-1684745	footnote
-1684747	footnote
-1684749	italic
+1787030	footnote
+1787032	footnote
+1787034	footnote
+1787037	footnote
+1787039	footnote
+1787041	footnote
+1787043	footnote
+1787045	footnote
+1787048	footnote
+1787050	footnote
+1787052	italic
 italic
 superscript
 italic
@@ -10077,36 +10077,36 @@ italic
 superscript
 italic
 footnote
-1684762	footnote
-1684764	footnote
-1684766	footnote
-1684769	footnote
-1684771	footnote
-1684773	footnote
-1684775	footnote
-1684777	footnote
-1684779	footnote
-1684781	footnote
-1684783	footnote
-1684785	footnote
-1684788	footnote
-1684790	footnote
-1684792	superscript
+1787065	footnote
+1787067	footnote
+1787069	footnote
+1787072	footnote
+1787074	footnote
+1787076	footnote
+1787078	footnote
+1787080	footnote
+1787082	footnote
+1787084	footnote
+1787086	footnote
+1787088	footnote
+1787091	footnote
+1787093	footnote
+1787095	superscript
 italic
 superscript
 italic
 footnote
-1684798	footnote
-1684800	footnote
-1684803	footnote
-1684806	footnote
-1684808	footnote
-1684810	footnote
-1684812	footnote
-1684814	footnote
-1684817	footnote
-1684820	footnote
-1684822	italic
+1787101	footnote
+1787103	footnote
+1787106	footnote
+1787109	footnote
+1787111	footnote
+1787113	footnote
+1787115	footnote
+1787117	footnote
+1787120	footnote
+1787123	footnote
+1787125	italic
 italic
 italic
 italic
@@ -10124,26 +10124,26 @@ italic
 italic
 italic
 footnote
-1684841	footnote
-1684843	footnote
-1684845	footnote
-1684847	footnote
-1684849	footnote
-1684851	footnote
-1684853	footnote
-1684856	footnote
-1684858	footnote
-1684860	footnote
-1684862	footnote
-1684865	footnote
-1684867	footnote
-1684869	footnote
-1684871	footnote
-1684874	footnote
-1684876	footnote
-1684878	footnote
-1684880	footnote
-1684882	superscript
+1787144	footnote
+1787146	footnote
+1787148	footnote
+1787150	footnote
+1787152	footnote
+1787154	footnote
+1787156	footnote
+1787159	footnote
+1787161	footnote
+1787163	footnote
+1787165	footnote
+1787168	footnote
+1787170	footnote
+1787172	footnote
+1787174	footnote
+1787177	footnote
+1787179	footnote
+1787181	footnote
+1787183	footnote
+1787185	superscript
 smallcaps
 italic
 italic
@@ -10153,50 +10153,50 @@ smallcaps
 italic
 superscript
 footnote
-1684893	footnote
-1684895	footnote
-1684897	footnote
-1684900	footnote
-1684903	footnote
-1684905	footnote
-1684908	footnote
-1684911	footnote
-1684914	footnote
-1684917	footnote
-1684919	footnote
-1684922	footnote
-1684924	footnote
-1684927	footnote
-1684929	footnote
-1684932	footnote
-1684934	footnote
-1684936	footnote
-1684938	footnote
-1684940	footnote
-1684942	footnote
-1684945	footnote
-1684947	footnote
-1684949	footnote
-1684951	footnote
-1684953	footnote
-1684956	footnote
-1684958	footnote
-1684960	footnote
-1684962	footnote
-1684965	footnote
-1684968	footnote
-1684970	footnote
-1684973	footnote
-1684975	footnote
-1684977	footnote
-1684979	footnote
-1684981	footnote
-1684983	footnote
-1684986	footnote
-1684988	footnote
-1684991	footnote
-1684993	footnote
-1684996	italic
+1787196	footnote
+1787198	footnote
+1787200	footnote
+1787203	footnote
+1787206	footnote
+1787208	footnote
+1787211	footnote
+1787214	footnote
+1787217	footnote
+1787220	footnote
+1787222	footnote
+1787225	footnote
+1787227	footnote
+1787230	footnote
+1787232	footnote
+1787235	footnote
+1787237	footnote
+1787239	footnote
+1787241	footnote
+1787243	footnote
+1787245	footnote
+1787248	footnote
+1787250	footnote
+1787252	footnote
+1787254	footnote
+1787256	footnote
+1787259	footnote
+1787261	footnote
+1787263	footnote
+1787265	footnote
+1787268	footnote
+1787271	footnote
+1787273	footnote
+1787276	footnote
+1787278	footnote
+1787280	footnote
+1787282	footnote
+1787284	footnote
+1787286	footnote
+1787289	footnote
+1787291	footnote
+1787294	footnote
+1787296	footnote
+1787299	italic
 italic
 italic
 italic
@@ -10212,19 +10212,19 @@ italic
 italic
 italic
 footnote
-1685013	footnote
-1685015	footnote
-1685017	footnote
-1685019	footnote
-1685021	footnote
-1685023	footnote
-1685026	footnote
-1685028	footnote
-1685030	footnote
-1685033	footnote
-1685035	footnote
-1685038	footnote
-1685041	superscript
+1787316	footnote
+1787318	footnote
+1787320	footnote
+1787322	footnote
+1787324	footnote
+1787326	footnote
+1787329	footnote
+1787331	footnote
+1787333	footnote
+1787336	footnote
+1787338	footnote
+1787341	footnote
+1787344	superscript
 italic
 italic
 superscript
@@ -10233,154 +10233,154 @@ italic
 italic
 superscript
 footnote
-1685051	footnote
-1685054	footnote
-1685058	footnote
-1685060	footnote
-1685062	footnote
-1685064	footnote
-1685066	footnote
-1685069	footnote
-1685072	footnote
-1685074	footnote
-1685076	footnote
-1685079	footnote
-1685081	footnote
-1685084	footnote
-1685086	footnote
-1685089	footnote
-1685092	italic
+1787354	footnote
+1787357	footnote
+1787361	footnote
+1787363	footnote
+1787365	footnote
+1787367	footnote
+1787369	footnote
+1787372	footnote
+1787375	footnote
+1787377	footnote
+1787379	footnote
+1787382	footnote
+1787384	footnote
+1787387	footnote
+1787389	footnote
+1787392	footnote
+1787395	italic
 italic
 footnote
-1685096	footnote
-1685099	footnote
-1685101	footnote
-1685104	footnote
-1685107	footnote
-1685110	footnote
-1685113	footnote
-1685115	footnote
-1685117	footnote
-1685119	footnote
-1685121	footnote
-1685124	footnote
-1685126	footnote
-1685128	superscript
+1787399	footnote
+1787402	footnote
+1787404	footnote
+1787407	footnote
+1787410	footnote
+1787413	footnote
+1787416	footnote
+1787418	footnote
+1787420	footnote
+1787422	footnote
+1787424	footnote
+1787427	footnote
+1787429	footnote
+1787431	superscript
 superscript
 italic
 footnote
-1685133	footnote
-1685136	footnote
-1685138	footnote
-1685140	footnote
-1685142	footnote
-1685145	italic
+1787436	footnote
+1787439	footnote
+1787441	footnote
+1787443	footnote
+1787445	footnote
+1787448	italic
 italic
 footnote
-1685149	footnote
-1685151	footnote
-1685153	footnote
-1685155	footnote
-1685157	footnote
-1685159	footnote
-1685162	footnote
-1685164	footnote
-1685166	footnote
-1685168	footnote
-1685171	superscript
+1787452	footnote
+1787454	footnote
+1787456	footnote
+1787458	footnote
+1787460	footnote
+1787462	footnote
+1787465	footnote
+1787467	footnote
+1787469	footnote
+1787471	footnote
+1787474	superscript
 italic
 superscript
 italic
 italic
 footnote
-1685178	footnote
-1685180	footnote
-1685183	footnote
-1685185	footnote
-1685188	footnote
-1685190	footnote
-1685192	footnote
-1685194	footnote
-1685197	footnote
-1685199	footnote
-1685202	footnote
-1685204	footnote
-1685208	footnote
-1685210	footnote
-1685212	footnote
-1685214	footnote
-1685216	footnote
-1685218	footnote
-1685220	footnote
-1685222	footnote
-1685225	footnote
-1685227	footnote
-1685229	footnote
-1685232	footnote
-1685234	footnote
-1685237	footnote
-1685239	footnote
-1685242	footnote
-1685244	footnote
-1685246	footnote
-1685248	footnote
-1685251	footnote
-1685253	footnote
-1685256	footnote
-1685259	footnote
-1685263	footnote
-1685266	footnote
-1685269	footnote
-1685271	footnote
-1685273	footnote
-1685276	italic
+1787481	footnote
+1787483	footnote
+1787486	footnote
+1787488	footnote
+1787491	footnote
+1787493	footnote
+1787495	footnote
+1787497	footnote
+1787500	footnote
+1787502	footnote
+1787505	footnote
+1787507	footnote
+1787511	footnote
+1787513	footnote
+1787515	footnote
+1787517	footnote
+1787519	footnote
+1787521	footnote
+1787523	footnote
+1787525	footnote
+1787528	footnote
+1787530	footnote
+1787532	footnote
+1787535	footnote
+1787537	footnote
+1787540	footnote
+1787542	footnote
+1787545	footnote
+1787547	footnote
+1787549	footnote
+1787551	footnote
+1787554	footnote
+1787556	footnote
+1787559	footnote
+1787562	footnote
+1787566	footnote
+1787569	footnote
+1787572	footnote
+1787574	footnote
+1787576	footnote
+1787579	italic
 smallcaps
 smallcaps
 italic
 footnote
-1685283	footnote
-1685285	footnote
-1685287	footnote
-1685290	footnote
-1685292	footnote
-1685294	footnote
-1685296	footnote
-1685298	footnote
-1685300	footnote
-1685302	footnote
-1685304	footnote
-1685307	footnote
-1685309	footnote
-1685312	footnote
-1685314	footnote
-1685317	footnote
-1685319	superscript
+1787586	footnote
+1787588	footnote
+1787590	footnote
+1787593	footnote
+1787595	footnote
+1787597	footnote
+1787599	footnote
+1787601	footnote
+1787603	footnote
+1787605	footnote
+1787607	footnote
+1787610	footnote
+1787612	footnote
+1787615	footnote
+1787617	footnote
+1787620	footnote
+1787622	superscript
 italic
 superscript
 italic
 smallcaps
 footnote
-1685327	footnote
-1685330	footnote
-1685333	footnote
-1685336	footnote
-1685339	footnote
-1685341	footnote
-1685343	footnote
-1685346	italic
+1787630	footnote
+1787633	footnote
+1787636	footnote
+1787639	footnote
+1787642	footnote
+1787644	footnote
+1787646	footnote
+1787649	italic
 italic
 footnote
-1685350	footnote
-1685353	footnote
-1685355	footnote
-1685358	footnote
-1685361	footnote
-1685363	footnote
-1685366	footnote
-1685368	footnote
-1685371	footnote
-1685374	footnote
-1685377	superscript
+1787653	footnote
+1787656	footnote
+1787658	footnote
+1787661	footnote
+1787664	footnote
+1787666	footnote
+1787669	footnote
+1787671	footnote
+1787674	footnote
+1787677	footnote
+1787680	superscript
 italic
 italic
 superscript
@@ -10390,226 +10390,226 @@ italic
 superscript
 italic
 footnote
-1685388	footnote
-1685390	footnote
-1685392	footnote
-1685394	footnote
-1685396	footnote
-1685399	footnote
-1685402	footnote
-1685405	footnote
-1685408	footnote
-1685410	footnote
-1685412	italic
+1787691	footnote
+1787693	footnote
+1787695	footnote
+1787697	footnote
+1787699	footnote
+1787702	footnote
+1787705	footnote
+1787708	footnote
+1787711	footnote
+1787713	footnote
+1787715	italic
 italic
 footnote
-1685416	footnote
-1685418	footnote
-1685423	footnote
-1685425	footnote
-1685428	footnote
-1685430	footnote
-1685432	footnote
-1685435	footnote
-1685437	footnote
-1685440	footnote
-1685442	footnote
-1685444	footnote
-1685446	footnote
-1685448	footnote
-1685450	footnote
-1685452	footnote
-1685455	footnote
-1685458	footnote
-1685461	footnote
-1685463	footnote
-1685466	footnote
-1685468	footnote
-1685470	footnote
-1685473	footnote
-1685476	footnote
-1685478	footnote
-1685481	footnote
-1685484	footnote
-1685487	footnote
-1685489	footnote
-1685491	footnote
-1685493	footnote
-1685496	superscript
+1787719	footnote
+1787721	footnote
+1787726	footnote
+1787728	footnote
+1787731	footnote
+1787733	footnote
+1787735	footnote
+1787738	footnote
+1787740	footnote
+1787743	footnote
+1787745	footnote
+1787747	footnote
+1787749	footnote
+1787751	footnote
+1787753	footnote
+1787755	footnote
+1787758	footnote
+1787761	footnote
+1787764	footnote
+1787766	footnote
+1787769	footnote
+1787771	footnote
+1787773	footnote
+1787776	footnote
+1787779	footnote
+1787781	footnote
+1787784	footnote
+1787787	footnote
+1787790	footnote
+1787792	footnote
+1787794	footnote
+1787796	footnote
+1787799	superscript
 superscript
 italic
 footnote
-1685501	footnote
-1685504	footnote
-1685506	footnote
-1685508	italic
+1787804	footnote
+1787807	footnote
+1787809	footnote
+1787811	italic
 italic
 italic
 italic
 italic
 italic
 footnote
-1685517	footnote
-1685519	footnote
-1685521	footnote
-1685524	footnote
-1685526	footnote
-1685528	footnote
-1685530	footnote
-1685532	footnote
-1685535	footnote
-1685538	footnote
-1685541	footnote
-1685543	footnote
-1685546	footnote
-1685548	footnote
-1685550	footnote
-1685552	footnote
-1685554	footnote
-1685556	footnote
-1685558	footnote
-1685560	footnote
-1685562	footnote
-1685564	footnote
-1685567	footnote
-1685569	footnote
-1685571	footnote
-1685573	footnote
-1685575	footnote
-1685577	footnote
-1685579	footnote
-1685581	footnote
-1685583	footnote
-1685585	footnote
-1685587	footnote
-1685589	footnote
-1685592	footnote
-1685594	footnote
-1685596	footnote
-1685598	superscript
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1685607	footnote
-1685609	footnote
-1685611	footnote
-1685613	footnote
-1685615	footnote
-1685618	footnote
-1685620	footnote
-1685622	footnote
-1685625	footnote
-1685627	footnote
-1685629	footnote
-1685632	footnote
-1685635	footnote
-1685638	footnote
-1685640	footnote
-1685642	footnote
-1685644	footnote
-1685646	footnote
-1685648	footnote
-1685650	footnote
-1685652	footnote
-1685655	footnote
-1685658	footnote
-1685660	footnote
-1685663	footnote
-1685666	footnote
-1685668	footnote
-1685671	footnote
-1685673	footnote
-1685676	footnote
-1685679	footnote
-1685682	superscript
-italic
-superscript
-italic
-footnote
-1685688	footnote
-1685690	footnote
-1685693	footnote
-1685696	footnote
-1685698	footnote
-1685701	footnote
-1685705	footnote
-1685707	footnote
-1685709	footnote
-1685711	italic
-italic
-footnote
-1685715	footnote
-1685718	footnote
-1685720	footnote
-1685722	footnote
-1685725	footnote
-1685727	footnote
-1685730	superscript
-italic
+1787820	footnote
+1787822	footnote
+1787824	footnote
+1787827	footnote
+1787829	footnote
+1787831	footnote
+1787833	footnote
+1787835	footnote
+1787838	footnote
+1787841	footnote
+1787844	footnote
+1787846	footnote
+1787849	footnote
+1787851	footnote
+1787853	footnote
+1787855	footnote
+1787857	footnote
+1787859	footnote
+1787861	footnote
+1787863	footnote
+1787865	footnote
+1787867	footnote
+1787870	footnote
+1787872	footnote
+1787874	footnote
+1787876	footnote
+1787878	footnote
+1787880	footnote
+1787882	footnote
+1787884	footnote
+1787886	footnote
+1787888	footnote
+1787890	footnote
+1787892	footnote
+1787895	footnote
+1787897	footnote
+1787899	footnote
+1787901	superscript
 superscript
 italic
 superscript
 italic
 superscript
 footnote
-1685739	footnote
-1685742	footnote
-1685744	footnote
-1685746	footnote
-1685748	footnote
-1685750	footnote
-1685753	footnote
-1685755	footnote
-1685757	footnote
-1685760	footnote
-1685762	footnote
-1685764	footnote
-1685767	footnote
-1685771	footnote
-1685773	footnote
-1685776	footnote
-1685779	footnote
-1685782	superscript
+1787910	footnote
+1787912	footnote
+1787914	footnote
+1787916	footnote
+1787918	footnote
+1787921	footnote
+1787923	footnote
+1787925	footnote
+1787928	footnote
+1787930	footnote
+1787932	footnote
+1787935	footnote
+1787938	footnote
+1787941	footnote
+1787943	footnote
+1787945	footnote
+1787947	footnote
+1787949	footnote
+1787951	footnote
+1787953	footnote
+1787955	footnote
+1787958	footnote
+1787961	footnote
+1787963	footnote
+1787966	footnote
+1787969	footnote
+1787971	footnote
+1787974	footnote
+1787976	footnote
+1787979	footnote
+1787982	footnote
+1787985	superscript
+italic
+superscript
+italic
+footnote
+1787991	footnote
+1787993	footnote
+1787996	footnote
+1787999	footnote
+1788001	footnote
+1788004	footnote
+1788008	footnote
+1788010	footnote
+1788012	footnote
+1788014	italic
+italic
+footnote
+1788018	footnote
+1788021	footnote
+1788023	footnote
+1788025	footnote
+1788028	footnote
+1788030	footnote
+1788033	superscript
+italic
+superscript
 italic
 superscript
 italic
 superscript
 footnote
-1685789	footnote
-1685792	footnote
-1685795	footnote
-1685797	footnote
-1685799	footnote
-1685801	footnote
-1685803	footnote
-1685805	footnote
-1685808	footnote
-1685812	footnote
-1685815	footnote
-1685817	footnote
-1685819	footnote
-1685822	footnote
-1685824	footnote
-1685826	footnote
-1685828	footnote
-1685830	footnote
-1685832	footnote
-1685834	italic
+1788042	footnote
+1788045	footnote
+1788047	footnote
+1788049	footnote
+1788051	footnote
+1788053	footnote
+1788056	footnote
+1788058	footnote
+1788060	footnote
+1788063	footnote
+1788065	footnote
+1788067	footnote
+1788070	footnote
+1788074	footnote
+1788076	footnote
+1788079	footnote
+1788082	footnote
+1788085	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1788092	footnote
+1788095	footnote
+1788098	footnote
+1788100	footnote
+1788102	footnote
+1788104	footnote
+1788106	footnote
+1788108	footnote
+1788111	footnote
+1788115	footnote
+1788118	footnote
+1788120	footnote
+1788122	footnote
+1788125	footnote
+1788127	footnote
+1788129	footnote
+1788131	footnote
+1788133	footnote
+1788135	footnote
+1788137	italic
 italic
 footnote
-1685838	footnote
-1685840	footnote
-1685842	footnote
-1685844	footnote
-1685846	footnote
-1685848	footnote
-1685850	footnote
-1685853	footnote
-1685856	footnote
-1685858	italic
+1788141	footnote
+1788143	footnote
+1788145	footnote
+1788147	footnote
+1788149	footnote
+1788151	footnote
+1788153	footnote
+1788156	footnote
+1788159	footnote
+1788161	italic
 italic
 italic
 smallcaps
@@ -10618,571 +10618,571 @@ smallcaps
 smallcaps
 italic
 footnote
-1685868	footnote
-1685870	footnote
-1685872	footnote
-1685875	footnote
-1685877	footnote
-1685879	footnote
-1685881	footnote
-1685883	footnote
-1685885	footnote
-1685887	footnote
-1685889	footnote
-1685891	footnote
-1685893	footnote
-1685895	footnote
-1685897	footnote
-1685899	footnote
-1685901	footnote
-1685904	footnote
-1685907	footnote
-1685909	footnote
-1685912	footnote
-1685914	footnote
-1685916	footnote
-1685918	footnote
-1685920	footnote
-1685922	footnote
-1685924	footnote
-1685928	footnote
-1685932	footnote
-1685934	footnote
-1685937	footnote
-1685939	footnote
-1685941	superscript
+1788171	footnote
+1788173	footnote
+1788175	footnote
+1788178	footnote
+1788180	footnote
+1788182	footnote
+1788184	footnote
+1788186	footnote
+1788188	footnote
+1788190	footnote
+1788192	footnote
+1788194	footnote
+1788196	footnote
+1788198	footnote
+1788200	footnote
+1788202	footnote
+1788204	footnote
+1788207	footnote
+1788210	footnote
+1788212	footnote
+1788215	footnote
+1788217	footnote
+1788219	footnote
+1788221	footnote
+1788223	footnote
+1788225	footnote
+1788227	footnote
+1788231	footnote
+1788235	footnote
+1788237	footnote
+1788240	footnote
+1788242	footnote
+1788244	superscript
 italic
 superscript
 italic
 footnote
-1685947	footnote
-1685949	footnote
-1685951	footnote
-1685953	footnote
-1685957	footnote
-1685960	footnote
-1685963	footnote
-1685965	footnote
-1685968	footnote
-1685971	footnote
-1685974	footnote
-1685977	footnote
-1685979	footnote
-1685981	footnote
-1685983	footnote
-1685986	footnote
-1685988	footnote
-1685991	footnote
-1685994	footnote
-1685996	footnote
-1685998	footnote
-1686001	superscript
+1788250	footnote
+1788252	footnote
+1788254	footnote
+1788256	footnote
+1788260	footnote
+1788263	footnote
+1788266	footnote
+1788268	footnote
+1788271	footnote
+1788274	footnote
+1788277	footnote
+1788280	footnote
+1788282	footnote
+1788284	footnote
+1788286	footnote
+1788289	footnote
+1788291	footnote
+1788294	footnote
+1788297	footnote
+1788299	footnote
+1788301	footnote
+1788304	superscript
 italic
 superscript
 italic
 footnote
-1686007	footnote
-1686009	footnote
-1686011	footnote
-1686013	footnote
-1686015	footnote
-1686017	footnote
-1686019	footnote
-1686021	footnote
-1686024	footnote
-1686026	footnote
-1686028	footnote
-1686030	footnote
-1686032	footnote
-1686034	footnote
-1686036	footnote
-1686039	footnote
-1686041	footnote
-1686043	footnote
-1686046	italic
+1788310	footnote
+1788312	footnote
+1788314	footnote
+1788316	footnote
+1788318	footnote
+1788320	footnote
+1788322	footnote
+1788324	footnote
+1788327	footnote
+1788329	footnote
+1788331	footnote
+1788333	footnote
+1788335	footnote
+1788337	footnote
+1788339	footnote
+1788342	footnote
+1788344	footnote
+1788346	footnote
+1788349	italic
 italic
 footnote
-1686050	footnote
-1686053	footnote
-1686055	footnote
-1686057	footnote
-1686059	footnote
-1686062	footnote
-1686064	footnote
-1686068	footnote
-1686071	footnote
-1686073	superscript
+1788353	footnote
+1788356	footnote
+1788358	footnote
+1788360	footnote
+1788362	footnote
+1788365	footnote
+1788367	footnote
+1788371	footnote
+1788374	footnote
+1788376	superscript
 italic
 superscript
 italic
 footnote
-1686080	footnote
-1686083	footnote
-1686085	footnote
-1686087	superscript
+1788383	footnote
+1788386	footnote
+1788388	footnote
+1788390	superscript
 italic
 superscript
 italic
 footnote
-1686093	footnote
-1686095	footnote
-1686097	footnote
-1686099	footnote
-1686102	footnote
-1686104	footnote
-1686106	footnote
-1686108	footnote
-1686111	footnote
-1686113	superscript
+1788396	footnote
+1788398	footnote
+1788400	footnote
+1788402	footnote
+1788405	footnote
+1788407	footnote
+1788409	footnote
+1788411	footnote
+1788414	footnote
+1788416	superscript
 italic
 italic
 footnote
-1686119	footnote
-1686121	footnote
-1686123	footnote
-1686126	footnote
-1686128	footnote
-1686131	footnote
-1686134	footnote
-1686137	footnote
-1686139	footnote
-1686142	footnote
-1686145	footnote
-1686148	footnote
-1686150	footnote
-1686153	italic
+1788422	footnote
+1788424	footnote
+1788426	footnote
+1788429	footnote
+1788431	footnote
+1788434	footnote
+1788437	footnote
+1788440	footnote
+1788442	footnote
+1788445	footnote
+1788448	footnote
+1788451	footnote
+1788453	footnote
+1788456	italic
 italic
 italic
 footnote
-1686158	footnote
-1686160	footnote
-1686163	footnote
-1686165	footnote
-1686167	footnote
-1686170	footnote
-1686172	footnote
-1686174	footnote
-1686176	footnote
-1686179	footnote
-1686181	footnote
-1686183	footnote
-1686185	footnote
-1686187	footnote
-1686189	footnote
-1686191	footnote
-1686193	footnote
-1686195	footnote
-1686197	footnote
-1686199	footnote
-1686201	footnote
-1686203	footnote
-1686205	footnote
-1686207	footnote
-1686209	footnote
-1686211	footnote
-1686213	footnote
-1686215	footnote
-1686218	footnote
-1686220	footnote
-1686222	footnote
-1686225	footnote
-1686228	footnote
-1686230	footnote
-1686233	superscript
+1788461	footnote
+1788463	footnote
+1788466	footnote
+1788468	footnote
+1788470	footnote
+1788473	footnote
+1788475	footnote
+1788477	footnote
+1788479	footnote
+1788482	footnote
+1788484	footnote
+1788486	footnote
+1788488	footnote
+1788490	footnote
+1788492	footnote
+1788494	footnote
+1788496	footnote
+1788498	footnote
+1788500	footnote
+1788502	footnote
+1788504	footnote
+1788506	footnote
+1788508	footnote
+1788510	footnote
+1788512	footnote
+1788514	footnote
+1788516	footnote
+1788518	footnote
+1788521	footnote
+1788523	footnote
+1788525	footnote
+1788528	footnote
+1788531	footnote
+1788533	footnote
+1788536	superscript
 italic
 superscript
 italic
 italic
 superscript
 footnote
-1686242	footnote
-1686245	footnote
-1686248	footnote
-1686250	footnote
-1686252	footnote
-1686254	footnote
-1686256	footnote
-1686258	footnote
-1686260	footnote
-1686262	footnote
-1686264	footnote
-1686267	footnote
-1686269	footnote
-1686272	footnote
-1686275	footnote
-1686278	footnote
-1686281	footnote
-1686283	footnote
-1686285	superscript
+1788545	footnote
+1788548	footnote
+1788551	footnote
+1788553	footnote
+1788555	footnote
+1788557	footnote
+1788559	footnote
+1788561	footnote
+1788563	footnote
+1788565	footnote
+1788567	footnote
+1788570	footnote
+1788572	footnote
+1788575	footnote
+1788578	footnote
+1788581	footnote
+1788584	footnote
+1788586	footnote
+1788588	superscript
 superscript
 italic
 footnote
-1686290	footnote
-1686292	footnote
-1686295	footnote
-1686297	footnote
-1686299	footnote
-1686301	footnote
-1686303	footnote
-1686305	footnote
-1686307	footnote
-1686310	footnote
-1686312	footnote
-1686314	footnote
-1686317	italic
+1788593	footnote
+1788595	footnote
+1788598	footnote
+1788600	footnote
+1788602	footnote
+1788604	footnote
+1788606	footnote
+1788608	footnote
+1788610	footnote
+1788613	footnote
+1788615	footnote
+1788617	footnote
+1788620	italic
 italic
 footnote
-1686322	footnote
-1686325	superscript
+1788625	footnote
+1788628	superscript
 italic
 superscript
-italic
-superscript
-italic
-footnote
-1686333	footnote
-1686335	footnote
-1686337	footnote
-1686339	footnote
-1686341	footnote
-1686344	footnote
-1686346	footnote
-1686348	footnote
-1686350	footnote
-1686353	footnote
-1686355	footnote
-1686357	footnote
-1686359	footnote
-1686361	footnote
-1686363	footnote
-1686365	footnote
-1686367	footnote
-1686369	footnote
-1686371	footnote
-1686373	footnote
-1686375	superscript
-superscript
-italic
-superscript
-italic
-superscript
-footnote
-1686383	footnote
-1686386	footnote
-1686388	footnote
-1686390	footnote
-1686392	footnote
-1686394	footnote
-1686396	footnote
-1686398	footnote
-1686400	footnote
-1686402	footnote
-1686404	footnote
-1686406	footnote
-1686408	footnote
-1686410	footnote
-1686412	footnote
-1686415	footnote
-1686417	footnote
-1686420	footnote
-1686423	footnote
-1686425	footnote
-1686427	italic
-italic
-footnote
-1686431	footnote
-1686434	footnote
-1686437	footnote
-1686439	superscript
 italic
 superscript
 italic
 footnote
-1686446	footnote
-1686450	footnote
-1686453	footnote
-1686455	footnote
-1686458	footnote
-1686461	superscript
+1788636	footnote
+1788638	footnote
+1788640	footnote
+1788642	footnote
+1788644	footnote
+1788647	footnote
+1788649	footnote
+1788651	footnote
+1788653	footnote
+1788656	footnote
+1788658	footnote
+1788660	footnote
+1788662	footnote
+1788664	footnote
+1788666	footnote
+1788668	footnote
+1788670	footnote
+1788672	footnote
+1788674	footnote
+1788676	footnote
+1788678	superscript
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1788686	footnote
+1788689	footnote
+1788691	footnote
+1788693	footnote
+1788695	footnote
+1788697	footnote
+1788699	footnote
+1788701	footnote
+1788703	footnote
+1788705	footnote
+1788707	footnote
+1788709	footnote
+1788711	footnote
+1788713	footnote
+1788715	footnote
+1788718	footnote
+1788720	footnote
+1788723	footnote
+1788726	footnote
+1788728	footnote
+1788730	italic
+italic
+footnote
+1788734	footnote
+1788737	footnote
+1788740	footnote
+1788742	superscript
 italic
 superscript
 italic
 footnote
-1686467	footnote
-1686469	footnote
-1686471	footnote
-1686473	footnote
-1686475	footnote
-1686478	footnote
-1686481	footnote
-1686483	footnote
-1686486	smallcaps
+1788749	footnote
+1788753	footnote
+1788756	footnote
+1788758	footnote
+1788761	footnote
+1788764	superscript
+italic
+superscript
+italic
+footnote
+1788770	footnote
+1788772	footnote
+1788774	footnote
+1788776	footnote
+1788778	footnote
+1788781	footnote
+1788784	footnote
+1788786	footnote
+1788789	smallcaps
 italic
 smallcaps
 footnote
-1686491	footnote
-1686494	footnote
-1686497	footnote
-1686501	footnote
-1686504	footnote
-1686507	footnote
-1686509	footnote
-1686511	footnote
+1788794	footnote
+1788797	footnote
+1788800	footnote
+1788804	footnote
+1788807	footnote
+1788810	footnote
+1788812	footnote
+1788814	footnote
 footnote
-1686514	footnote
-1686516	footnote
-1686518	italic
-italic
-italic
-smallcaps
-italic
-footnote
-1686525	footnote
-1686528	footnote
-1686530	footnote
-1686533	footnote
-1686535	footnote
-1686538	footnote
-1686541	footnote
-1686544	footnote
-1686546	footnote
-1686549	footnote
-1686551	footnote
-1686553	footnote
-1686557	footnote
-1686559	footnote
-1686562	italic
-italic
-footnote
-1686566	footnote
-1686568	footnote
-1686570	footnote
-1686573	footnote
-1686576	footnote
-1686578	footnote
-1686580	footnote
-1686582	footnote
-1686584	footnote
-1686587	footnote
-1686590	footnote
-1686593	footnote
-1686595	footnote
-1686598	footnote
-1686601	footnote
-1686603	footnote
-1686605	superscript
-superscript
-italic
-footnote
-1686610	footnote
-1686612	footnote
-1686614	footnote
-1686616	footnote
-1686619	footnote
-1686621	footnote
-1686624	footnote
-1686627	italic
-italic
-footnote
-1686631	footnote
-1686634	footnote
-1686637	footnote
-1686639	footnote
-1686641	footnote
-1686643	footnote
-1686646	footnote
-1686648	footnote
-1686651	footnote
-1686654	footnote
-1686656	footnote
-1686658	footnote
-1686661	footnote
-1686663	footnote
-1686665	footnote
-1686668	footnote
-1686670	footnote
-1686672	footnote
-1686674	footnote
-1686677	footnote
-1686679	italic
-italic
-italic
-footnote
-1686684	footnote
-1686686	footnote
-1686689	footnote
-1686691	footnote
-1686694	footnote
-1686696	footnote
-1686699	footnote
-1686701	footnote
-1686703	footnote
-1686705	footnote
-1686707	footnote
-1686709	footnote
-1686711	footnote
-1686713	footnote
-1686715	superscript
-italic
-superscript
-footnote
-1686720	footnote
-1686722	footnote
-1686725	superscript
-italic
-superscript
-italic
-footnote
-1686731	footnote
-1686734	footnote
-1686736	footnote
-1686738	footnote
-1686740	footnote
-1686742	footnote
-1686744	italic
-footnote
-1686747	footnote
-1686749	footnote
-1686751	footnote
-1686753	footnote
-1686755	footnote
-1686757	footnote
-1686759	footnote
-1686762	footnote
-1686764	footnote
-1686767	footnote
-1686769	footnote
-1686772	footnote
-1686774	footnote
-1686776	footnote
-1686779	footnote
-1686781	footnote
-1686783	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1686790	italic
-italic
-footnote
-1686794	footnote
-1686796	footnote
-1686799	footnote
-1686801	footnote
-1686803	footnote
-1686806	footnote
-1686809	footnote
-1686811	footnote
-1686813	footnote
-1686815	italic
-italic
-italic
-italic
-smallcaps
-superscript
+1788817	footnote
+1788819	footnote
+1788821	italic
 italic
 italic
 smallcaps
 italic
 footnote
-1686827	footnote
-1686829	footnote
-1686831	footnote
-1686834	footnote
-1686837	footnote
-1686839	footnote
-1686842	footnote
-1686844	footnote
-1686846	footnote
-1686849	footnote
-1686851	footnote
-1686853	footnote
-1686855	footnote
-1686858	footnote
-1686861	footnote
-1686863	footnote
-1686865	footnote
-1686867	footnote
-1686870	footnote
-1686873	footnote
-1686875	italic
+1788828	footnote
+1788831	footnote
+1788833	footnote
+1788836	footnote
+1788838	footnote
+1788841	footnote
+1788844	footnote
+1788847	footnote
+1788849	footnote
+1788852	footnote
+1788854	footnote
+1788856	footnote
+1788860	footnote
+1788862	footnote
+1788865	italic
+italic
+footnote
+1788869	footnote
+1788871	footnote
+1788873	footnote
+1788876	footnote
+1788879	footnote
+1788881	footnote
+1788883	footnote
+1788885	footnote
+1788887	footnote
+1788890	footnote
+1788893	footnote
+1788896	footnote
+1788898	footnote
+1788901	footnote
+1788904	footnote
+1788906	footnote
+1788908	superscript
+superscript
+italic
+footnote
+1788913	footnote
+1788915	footnote
+1788917	footnote
+1788919	footnote
+1788922	footnote
+1788924	footnote
+1788927	footnote
+1788930	italic
+italic
+footnote
+1788934	footnote
+1788937	footnote
+1788940	footnote
+1788942	footnote
+1788944	footnote
+1788946	footnote
+1788949	footnote
+1788951	footnote
+1788954	footnote
+1788957	footnote
+1788959	footnote
+1788961	footnote
+1788964	footnote
+1788966	footnote
+1788968	footnote
+1788971	footnote
+1788973	footnote
+1788975	footnote
+1788977	footnote
+1788980	footnote
+1788982	italic
 italic
 italic
 footnote
-1686880	footnote
-1686882	footnote
-1686884	footnote
-1686887	footnote
-1686889	footnote
-1686892	footnote
-1686894	footnote
-1686896	footnote
-1686899	footnote
-1686902	footnote
-1686905	footnote
-1686908	footnote
-1686910	footnote
-1686913	footnote
-1686916	footnote
-1686919	footnote
-1686922	footnote
-1686925	footnote
-1686928	footnote
-1686931	footnote
-1686934	footnote
-1686937	footnote
-1686940	footnote
-1686943	footnote
-1686946	superscript
+1788987	footnote
+1788989	footnote
+1788992	footnote
+1788994	footnote
+1788997	footnote
+1788999	footnote
+1789002	footnote
+1789004	footnote
+1789006	footnote
+1789008	footnote
+1789010	footnote
+1789012	footnote
+1789014	footnote
+1789016	footnote
+1789018	superscript
+italic
+superscript
+footnote
+1789023	footnote
+1789025	footnote
+1789028	superscript
+italic
+superscript
+italic
+footnote
+1789034	footnote
+1789037	footnote
+1789039	footnote
+1789041	footnote
+1789043	footnote
+1789045	footnote
+1789047	italic
+footnote
+1789050	footnote
+1789052	footnote
+1789054	footnote
+1789056	footnote
+1789058	footnote
+1789060	footnote
+1789062	footnote
+1789065	footnote
+1789067	footnote
+1789070	footnote
+1789072	footnote
+1789075	footnote
+1789077	footnote
+1789079	footnote
+1789082	footnote
+1789084	footnote
+1789086	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1686953	footnote
-1686955	footnote
-1686958	footnote
-1686960	footnote
-1686962	footnote
-1686965	italic
+1789093	italic
+italic
+footnote
+1789097	footnote
+1789099	footnote
+1789102	footnote
+1789104	footnote
+1789106	footnote
+1789109	footnote
+1789112	footnote
+1789114	footnote
+1789116	footnote
+1789118	italic
+italic
+italic
+italic
+smallcaps
+superscript
+italic
+italic
+smallcaps
+italic
+footnote
+1789130	footnote
+1789132	footnote
+1789134	footnote
+1789137	footnote
+1789140	footnote
+1789142	footnote
+1789145	footnote
+1789147	footnote
+1789149	footnote
+1789152	footnote
+1789154	footnote
+1789156	footnote
+1789158	footnote
+1789161	footnote
+1789164	footnote
+1789166	footnote
+1789168	footnote
+1789170	footnote
+1789173	footnote
+1789176	footnote
+1789178	italic
+italic
+italic
+footnote
+1789183	footnote
+1789185	footnote
+1789187	footnote
+1789190	footnote
+1789192	footnote
+1789195	footnote
+1789197	footnote
+1789199	footnote
+1789202	footnote
+1789205	footnote
+1789208	footnote
+1789211	footnote
+1789213	footnote
+1789216	footnote
+1789219	footnote
+1789222	footnote
+1789225	footnote
+1789228	footnote
+1789231	footnote
+1789234	footnote
+1789237	footnote
+1789240	footnote
+1789243	footnote
+1789246	footnote
+1789249	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1789256	footnote
+1789258	footnote
+1789261	footnote
+1789263	footnote
+1789265	footnote
+1789268	italic
 italic
 smallcaps
 footnote
-1686971	superscript
+1789274	superscript
 italic
 superscript
 italic
 smallcaps
 superscript
 footnote
-1686979	footnote
-1686981	footnote
-1686983	footnote
-1686986	footnote
-1686989	footnote
-1686992	footnote
-1686995	footnote
-1686998	footnote
-1687001	footnote
-1687004	footnote
-1687007	footnote
-1687009	footnote
-1687012	footnote
-1687014	footnote
-1687016	italic
+1789282	footnote
+1789284	footnote
+1789286	footnote
+1789289	footnote
+1789292	footnote
+1789295	footnote
+1789298	footnote
+1789301	footnote
+1789304	footnote
+1789307	footnote
+1789310	footnote
+1789312	footnote
+1789315	footnote
+1789317	footnote
+1789319	italic
 italic
 smallcaps
 italic
 bold
 footnote
-1687023	footnote
-1687026	footnote
-1687028	footnote
-1687031	footnote
-1687034	footnote
-1687036	footnote
-1687038	superscript
+1789326	footnote
+1789329	footnote
+1789331	footnote
+1789334	footnote
+1789337	footnote
+1789339	footnote
+1789341	superscript
 italic
 superscript
 italic
@@ -11194,71 +11194,71 @@ superscript
 italic
 bold
 footnote
-1687051	footnote
-1687053	footnote
-1687055	footnote
-1687058	footnote
-1687060	footnote
-1687062	footnote
-1687064	footnote
-1687066	footnote
-1687068	footnote
-1687070	footnote
-1687072	footnote
-1687074	footnote
-1687076	italic
+1789354	footnote
+1789356	footnote
+1789358	footnote
+1789361	footnote
+1789363	footnote
+1789365	footnote
+1789367	footnote
+1789369	footnote
+1789371	footnote
+1789373	footnote
+1789375	footnote
+1789377	footnote
+1789379	italic
 italic
 footnote
-1687080	superscript
+1789383	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1687087	footnote
-1687090	footnote
-1687093	footnote
-1687096	footnote
-1687099	footnote
-1687101	footnote
-1687103	italic
+1789390	footnote
+1789393	footnote
+1789396	footnote
+1789399	footnote
+1789402	footnote
+1789404	footnote
+1789406	italic
 smallcaps
 superscript
 italic
 italic
 italic
 footnote
-1687111	footnote
-1687114	footnote
-1687117	italic
+1789414	footnote
+1789417	footnote
+1789420	italic
 italic
 footnote
-1687121	footnote
-1687124	footnote
-1687126	footnote
-1687130	footnote
-1687132	footnote
-1687135	superscript
+1789424	footnote
+1789427	footnote
+1789429	footnote
+1789433	footnote
+1789435	footnote
+1789438	superscript
 italic
 superscript
 italic
 footnote
-1687142	footnote
-1687144	footnote
-1687147	footnote
-1687150	footnote
-1687153	footnote
-1687156	footnote
-1687158	footnote
-1687160	footnote
-1687162	footnote
-1687164	footnote
-1687166	footnote
-1687170	footnote
-1687172	footnote
-1687174	footnote
-1687176	footnote
-1687179	superscript
+1789445	footnote
+1789447	footnote
+1789450	footnote
+1789453	footnote
+1789456	footnote
+1789459	footnote
+1789461	footnote
+1789463	footnote
+1789465	footnote
+1789467	footnote
+1789469	footnote
+1789473	footnote
+1789475	footnote
+1789477	footnote
+1789479	footnote
+1789482	superscript
 smallcaps
 smallcaps
 smallcaps
@@ -11269,105 +11269,105 @@ italic
 italic
 superscript
 footnote
-1687191	footnote
-1687193	footnote
-1687195	footnote
-1687197	footnote
-1687200	footnote
-1687202	footnote
-1687205	footnote
-1687208	footnote
-1687210	footnote
-1687212	footnote
-1687214	footnote
-1687216	footnote
-1687218	footnote
-1687221	footnote
-1687224	footnote
-1687227	footnote
-1687229	footnote
-1687232	footnote
-1687235	footnote
-1687237	italic
+1789494	footnote
+1789496	footnote
+1789498	footnote
+1789500	footnote
+1789503	footnote
+1789505	footnote
+1789508	footnote
+1789511	footnote
+1789513	footnote
+1789515	footnote
+1789517	footnote
+1789519	footnote
+1789521	footnote
+1789524	footnote
+1789527	footnote
+1789530	footnote
+1789532	footnote
+1789535	footnote
+1789538	footnote
+1789540	italic
 italic
 footnote
-1687242	footnote
-1687244	footnote
-1687247	footnote
-1687249	footnote
-1687251	footnote
-1687254	footnote
-1687256	footnote
-1687259	footnote
-1687262	footnote
-1687265	footnote
-1687268	footnote
-1687270	footnote
-1687272	footnote
-1687274	smallcaps
+1789545	footnote
+1789547	footnote
+1789550	footnote
+1789552	footnote
+1789554	footnote
+1789557	footnote
+1789559	footnote
+1789562	footnote
+1789565	footnote
+1789568	footnote
+1789571	footnote
+1789573	footnote
+1789575	footnote
+1789577	smallcaps
 italic
 italic
 footnote
-1687280	footnote
-1687283	footnote
-1687285	footnote
-1687287	footnote
-1687290	footnote
-1687292	footnote
-1687294	footnote
-1687296	footnote
-1687298	superscript
+1789583	footnote
+1789586	footnote
+1789588	footnote
+1789590	footnote
+1789593	footnote
+1789595	footnote
+1789597	footnote
+1789599	footnote
+1789601	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1687306	footnote
-1687308	footnote
-1687310	footnote
-1687313	footnote
-1687316	footnote
-1687319	footnote
-1687321	footnote
-1687323	footnote
-1687325	footnote
-1687328	footnote
-1687330	footnote
-1687332	italic
+1789609	footnote
+1789611	footnote
+1789613	footnote
+1789616	footnote
+1789619	footnote
+1789622	footnote
+1789624	footnote
+1789626	footnote
+1789628	footnote
+1789631	footnote
+1789633	footnote
+1789635	italic
 italic
 italic
 italic
 italic
 italic
 footnote
-1687341	footnote
-1687343	footnote
-1687346	footnote
-1687348	footnote
-1687350	superscript
+1789644	footnote
+1789646	footnote
+1789649	footnote
+1789651	footnote
+1789653	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1687357	footnote
-1687360	footnote
-1687362	footnote
-1687365	footnote
-1687368	footnote
-1687370	footnote
-1687372	italic
+1789660	footnote
+1789663	footnote
+1789665	footnote
+1789668	footnote
+1789671	footnote
+1789673	footnote
+1789675	italic
 smallcaps
 footnote
-1687376	footnote
-1687379	footnote
-1687382	footnote
-1687385	footnote
-1687387	footnote
-1687389	footnote
-1687392	footnote
-1687394	footnote
-1687396	superscript
+1789679	footnote
+1789682	footnote
+1789685	footnote
+1789688	footnote
+1789690	footnote
+1789692	footnote
+1789695	footnote
+1789697	footnote
+1789699	superscript
 italic
 superscript
 italic
@@ -11379,527 +11379,488 @@ superscript
 italic
 superscript
 footnote
-1687410	footnote
-1687413	footnote
-1687415	footnote
-1687418	footnote
-1687421	footnote
-1687424	footnote
-1687426	footnote
-1687428	footnote
-1687431	italic
+1789713	footnote
+1789716	footnote
+1789718	footnote
+1789721	footnote
+1789724	footnote
+1789727	footnote
+1789729	footnote
+1789731	footnote
+1789734	italic
 footnote
-1687435	footnote
-1687437	footnote
-1687440	footnote
-1687443	footnote
-1687445	footnote
-1687448	footnote
-1687451	footnote
-1687454	footnote
-1687457	footnote
-1687459	footnote
-1687462	footnote
-1687465	footnote
-1687467	footnote
-1687469	footnote
-1687471	superscript
+1789738	footnote
+1789740	footnote
+1789743	footnote
+1789746	footnote
+1789748	footnote
+1789751	footnote
+1789754	footnote
+1789757	footnote
+1789760	footnote
+1789762	footnote
+1789765	footnote
+1789768	footnote
+1789770	footnote
+1789772	footnote
+1789774	superscript
 italic
 superscript
 italic
 italic
 footnote
-1687478	footnote
-1687481	footnote
-1687484	footnote
-1687486	footnote
-1687489	footnote
-1687491	footnote
-1687493	footnote
-1687496	footnote
-1687498	footnote
-1687500	footnote
-1687502	footnote
-1687505	footnote
-1687507	footnote
-1687509	footnote
-1687512	footnote
-1687515	italic
+1789781	footnote
+1789784	footnote
+1789787	footnote
+1789789	footnote
+1789792	footnote
+1789794	footnote
+1789796	footnote
+1789799	footnote
+1789801	footnote
+1789803	footnote
+1789805	footnote
+1789808	footnote
+1789810	footnote
+1789812	footnote
+1789815	footnote
+1789818	italic
 footnote
-1687519	footnote
-1687522	footnote
-1687524	footnote
-1687526	footnote
-1687529	footnote
-1687531	footnote
-1687534	footnote
-1687537	footnote
-1687540	footnote
-1687542	footnote
-1687545	footnote
-1687548	footnote
-1687550	footnote
-1687552	footnote
-1687554	superscript
+1789822	footnote
+1789825	footnote
+1789827	footnote
+1789829	footnote
+1789832	footnote
+1789834	footnote
+1789837	footnote
+1789840	footnote
+1789843	footnote
+1789845	footnote
+1789848	footnote
+1789851	footnote
+1789853	footnote
+1789855	footnote
+1789857	superscript
 superscript
 italic
 superscript
 footnote
-1687561	footnote
-1687564	footnote
-1687567	footnote
-1687569	footnote
-1687571	footnote
-1687574	footnote
-1687577	footnote
-1687581	footnote
-1687583	footnote
-1687585	footnote
-1687587	footnote
-1687590	footnote
-1687593	footnote
-1687595	footnote
-1687597	footnote
-1687599	footnote
-1687601	italic
+1789864	footnote
+1789867	footnote
+1789870	footnote
+1789872	footnote
+1789874	footnote
+1789877	footnote
+1789880	footnote
+1789884	footnote
+1789886	footnote
+1789888	footnote
+1789890	footnote
+1789893	footnote
+1789896	footnote
+1789898	footnote
+1789900	footnote
+1789902	footnote
+1789904	italic
 italic
 footnote
-1687605	footnote
-1687608	footnote
-1687610	footnote
-1687612	footnote
-1687615	footnote
-1687617	footnote
-1687620	footnote
-1687622	footnote
-1687624	footnote
-1687627	footnote
-1687630	footnote
-1687632	footnote
-1687635	footnote
-1687638	footnote
-1687641	footnote
-1687643	footnote
-1687645	footnote
-1687647	footnote
-1687649	italic
-italic
-italic
-italic
-smallcaps
-footnote
-1687657	footnote
-1687660	footnote
-1687662	footnote
-1687664	footnote
-1687666	footnote
-1687668	footnote
-1687670	footnote
-1687672	footnote
-1687675	footnote
-1687677	footnote
-1687680	footnote
-1687683	superscript
-superscript
-italic
-smallcaps
-superscript
-footnote
-1687690	footnote
-1687692	footnote
-1687695	footnote
-1687697	footnote
-1687699	superscript
-italic
-superscript
-italic
-footnote
-1687705	footnote
-1687707	footnote
-1687709	footnote
-1687711	footnote
-1687713	footnote
-1687715	footnote
-1687718	footnote
-1687720	footnote
-1687722	footnote
-1687724	footnote
-1687727	footnote
-1687729	footnote
-1687732	footnote
-1687734	footnote
-1687736	footnote
-1687739	footnote
-1687741	footnote
-1687743	footnote
-1687745	footnote
-1687747	italic
-italic
-footnote
-1687752	footnote
-1687755	footnote
-1687757	footnote
-1687759	footnote
-1687761	footnote
-1687763	footnote
-1687765	footnote
-1687767	footnote
-1687770	footnote
-1687772	footnote
-1687774	footnote
-1687776	footnote
-1687778	footnote
-1687780	footnote
-1687782	footnote
-1687784	footnote
-1687786	footnote
-1687788	footnote
-1687790	footnote
-1687792	footnote
-1687795	footnote
-1687798	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1687808	footnote
-1687810	footnote
-1687813	footnote
-1687815	footnote
-1687818	footnote
-1687821	footnote
-1687823	superscript
-italic
-footnote
-1687827	footnote
-1687830	footnote
-1687832	footnote
-1687835	italic
-italic
-footnote
-1687840	footnote
-1687843	superscript
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-footnote
-1687854	footnote
-1687856	footnote
-1687859	footnote
-1687861	footnote
-1687863	footnote
-1687866	footnote
-1687869	footnote
-1687871	footnote
-1687873	footnote
-1687876	footnote
-1687878	footnote
-1687880	footnote
-1687883	footnote
-1687885	superscript
-italic
-superscript
-italic
-italic
-italic
-footnote
-1687893	footnote
-1687896	footnote
-1687899	footnote
-1687902	footnote
-1687905	footnote
-1687907	footnote
-1687910	footnote
-1687913	footnote
-1687916	footnote
-1687919	footnote
-1687922	footnote
-1687925	footnote
-1687927	italic
-italic
-footnote
-1687932	footnote
-1687935	footnote
-1687937	footnote
-1687939	footnote
-1687941	footnote
-1687944	footnote
-1687946	footnote
-1687949	footnote
-1687951	footnote
-1687954	footnote
-1687956	footnote
-1687959	footnote
-1687961	footnote
-1687964	footnote
-1687967	footnote
-1687969	footnote
-1687971	footnote
-1687974	footnote
-1687976	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1687983	footnote
-1687986	footnote
-1687989	footnote
-1687991	footnote
-1687994	footnote
-1687997	footnote
-1687999	footnote
-1688001	italic
-italic
-footnote
-1688005	footnote
-1688007	footnote
-1688009	footnote
-1688011	footnote
-1688013	footnote
-1688015	footnote
-1688017	footnote
-1688020	footnote
-1688022	footnote
-1688025	footnote
-1688027	footnote
-1688030	footnote
-1688032	footnote
-1688035	footnote
-1688038	footnote
-1688040	footnote
-1688043	footnote
-1688045	footnote
-1688048	footnote
-1688052	superscript
-italic
-italic
+1789908	footnote
+1789911	footnote
+1789913	footnote
+1789915	footnote
+1789918	footnote
+1789920	footnote
+1789923	footnote
+1789925	footnote
+1789927	footnote
+1789930	footnote
+1789933	footnote
+1789935	footnote
+1789938	footnote
+1789941	footnote
+1789944	footnote
+1789946	footnote
+1789948	footnote
+1789950	footnote
+1789952	italic
 italic
 italic
 italic
 smallcaps
-superscript
-superscript
-italic
-superscript
 footnote
-1688065	footnote
-1688067	footnote
-1688069	footnote
-1688071	footnote
-1688074	footnote
-1688076	footnote
-1688079	footnote
-1688081	footnote
-1688084	footnote
-1688087	footnote
-1688089	italic
-italic
-footnote
-1688093	footnote
-1688095	footnote
-1688097	footnote
-1688099	footnote
-1688101	footnote
-1688103	footnote
-1688106	footnote
-1688108	footnote
-1688110	superscript
-superscript
-italic
-superscript
-footnote
-1688117	footnote
-1688120	footnote
-1688122	footnote
-1688124	footnote
-1688126	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1688148	footnote
-1688150	footnote
-1688152	footnote
-1688154	footnote
-1688156	footnote
-1688158	footnote
-1688160	footnote
-1688163	footnote
-1688165	superscript
-italic
-superscript
-italic
-superscript
-smallcaps
-italic
-superscript
-footnote
-1688176	footnote
-1688178	footnote
-1688180	footnote
-1688183	footnote
-1688185	footnote
-1688187	footnote
-1688189	footnote
-1688192	footnote
-1688194	footnote
-1688197	footnote
-1688200	footnote
-1688202	footnote
-1688205	footnote
-1688207	footnote
-1688209	italic
-italic
-footnote
-1688213	footnote
-1688216	footnote
-1688219	footnote
-1688221	footnote
-1688223	footnote
-1688225	footnote
-1688227	footnote
-1688229	footnote
-1688231	footnote
-1688233	footnote
-1688235	footnote
-1688237	footnote
-1688239	footnote
-1688241	footnote
-1688244	footnote
-1688246	footnote
-1688248	footnote
-1688250	italic
-italic
-italic
-italic
-italic
-footnote
-1688257	footnote
-1688259	footnote
-1688261	footnote
-1688263	footnote
-1688265	footnote
-1688267	footnote
-1688269	footnote
-1688271	superscript
-superscript
-italic
-superscript
-footnote
-1688277	footnote
-1688279	footnote
-1688281	footnote
-1688283	footnote
-1688285	footnote
-1688287	italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1688295	footnote
-1688298	footnote
-1688301	footnote
-1688303	footnote
-1688305	footnote
-1688308	footnote
-1688310	footnote
-1688312	footnote
-1688314	footnote
-1688316	footnote
-1688318	footnote
-1688321	footnote
-1688323	footnote
-1688326	footnote
-1688328	footnote
-1688330	superscript
-italic
-italic
+1789960	footnote
+1789963	footnote
+1789965	footnote
+1789967	footnote
+1789969	footnote
+1789971	footnote
+1789973	footnote
+1789975	footnote
+1789978	footnote
+1789980	footnote
+1789983	footnote
+1789986	superscript
 superscript
 italic
 smallcaps
 superscript
+footnote
+1789993	footnote
+1789995	footnote
+1789998	footnote
+1790000	footnote
+1790002	superscript
+italic
+superscript
 italic
 footnote
-1688340	footnote
-1688343	footnote
-1688346	footnote
-1688348	footnote
-1688351	footnote
-1688353	footnote
-1688355	footnote
-1688357	footnote
-1688360	footnote
-1688363	footnote
-1688365	footnote
-1688367	footnote
-1688369	footnote
-1688371	italic
+1790008	footnote
+1790010	footnote
+1790012	footnote
+1790014	footnote
+1790016	footnote
+1790018	footnote
+1790021	footnote
+1790023	footnote
+1790025	footnote
+1790027	footnote
+1790030	footnote
+1790032	footnote
+1790035	footnote
+1790037	footnote
+1790039	footnote
+1790042	footnote
+1790044	footnote
+1790046	footnote
+1790048	footnote
+1790050	italic
+italic
+footnote
+1790055	footnote
+1790058	footnote
+1790060	footnote
+1790062	footnote
+1790064	footnote
+1790066	footnote
+1790068	footnote
+1790070	footnote
+1790073	footnote
+1790075	footnote
+1790077	footnote
+1790079	footnote
+1790081	footnote
+1790083	footnote
+1790085	footnote
+1790087	footnote
+1790089	footnote
+1790091	footnote
+1790093	footnote
+1790095	footnote
+1790098	footnote
+1790101	italic
 italic
 italic
 italic
+italic
+italic
+italic
+italic
+footnote
+1790111	footnote
+1790113	footnote
+1790116	footnote
+1790118	footnote
+1790121	footnote
+1790124	footnote
+1790126	superscript
+italic
+footnote
+1790130	footnote
+1790133	footnote
+1790135	footnote
+1790138	italic
+italic
+footnote
+1790143	footnote
+1790146	superscript
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+footnote
+1790157	footnote
+1790159	footnote
+1790162	footnote
+1790164	footnote
+1790166	footnote
+1790169	footnote
+1790172	footnote
+1790174	footnote
+1790176	footnote
+1790179	footnote
+1790181	footnote
+1790183	footnote
+1790186	footnote
+1790188	superscript
+italic
+superscript
+italic
+italic
+italic
+footnote
+1790196	footnote
+1790199	footnote
+1790202	footnote
+1790205	footnote
+1790208	footnote
+1790210	footnote
+1790213	footnote
+1790216	footnote
+1790219	footnote
+1790222	footnote
+1790225	footnote
+1790228	footnote
+1790230	italic
+italic
+footnote
+1790235	footnote
+1790238	footnote
+1790240	footnote
+1790242	footnote
+1790244	footnote
+1790247	footnote
+1790249	footnote
+1790252	footnote
+1790254	footnote
+1790257	footnote
+1790259	footnote
+1790262	footnote
+1790264	footnote
+1790267	footnote
+1790270	footnote
+1790272	footnote
+1790274	footnote
+1790277	footnote
+1790279	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1790286	footnote
+1790289	footnote
+1790292	footnote
+1790294	footnote
+1790297	footnote
+1790300	footnote
+1790302	footnote
+1790304	italic
+italic
+footnote
+1790308	footnote
+1790310	footnote
+1790312	footnote
+1790314	footnote
+1790316	footnote
+1790318	footnote
+1790320	footnote
+1790323	footnote
+1790325	footnote
+1790328	footnote
+1790330	footnote
+1790333	footnote
+1790335	footnote
+1790338	footnote
+1790341	footnote
+1790343	footnote
+1790346	footnote
+1790348	footnote
+1790351	footnote
+1790355	superscript
 italic
 italic
 italic
 italic
 italic
 smallcaps
-footnote
-1688383	footnote
-1688385	footnote
-1688387	italic
-italic
 superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+superscript
 italic
 superscript
 footnote
-1688404	footnote
-1688406	footnote
-1688409	footnote
-1688412	footnote
-1688415	footnote
-1688417	footnote
-1688419	footnote
-1688422	footnote
-1688425	footnote
-1688428	italic
+1790368	footnote
+1790370	footnote
+1790372	footnote
+1790374	footnote
+1790377	footnote
+1790379	footnote
+1790382	footnote
+1790384	footnote
+1790387	footnote
+1790390	footnote
+1790392	italic
+italic
+footnote
+1790396	footnote
+1790398	footnote
+1790400	footnote
+1790402	footnote
+1790404	footnote
+1790406	footnote
+1790409	footnote
+1790411	footnote
+1790413	superscript
+superscript
+italic
+superscript
+footnote
+1790420	footnote
+1790423	footnote
+1790425	footnote
+1790427	footnote
+1790429	italic
 italic
 italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1790451	footnote
+1790453	footnote
+1790455	footnote
+1790457	footnote
+1790459	footnote
+1790461	footnote
+1790463	footnote
+1790466	footnote
+1790468	superscript
+italic
+superscript
+italic
+superscript
+smallcaps
+italic
+superscript
+footnote
+1790479	footnote
+1790481	footnote
+1790483	footnote
+1790486	footnote
+1790488	footnote
+1790490	footnote
+1790492	footnote
+1790495	footnote
+1790497	footnote
+1790500	footnote
+1790503	footnote
+1790505	footnote
+1790508	footnote
+1790510	footnote
+1790512	italic
+italic
+footnote
+1790516	footnote
+1790519	footnote
+1790522	footnote
+1790524	footnote
+1790526	footnote
+1790528	footnote
+1790530	footnote
+1790532	footnote
+1790534	footnote
+1790536	footnote
+1790538	footnote
+1790540	footnote
+1790542	footnote
+1790544	footnote
+1790547	footnote
+1790549	footnote
+1790551	footnote
+1790553	italic
+italic
+italic
+italic
+italic
+footnote
+1790560	footnote
+1790562	footnote
+1790564	footnote
+1790566	footnote
+1790568	footnote
+1790570	footnote
+1790572	footnote
+1790574	superscript
+superscript
+italic
+superscript
+footnote
+1790580	footnote
+1790582	footnote
+1790584	footnote
+1790586	footnote
+1790588	footnote
+1790590	italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1790598	footnote
+1790601	footnote
+1790604	footnote
+1790606	footnote
+1790608	footnote
+1790611	footnote
+1790613	footnote
+1790615	footnote
+1790617	footnote
+1790619	footnote
+1790621	footnote
+1790624	footnote
+1790626	footnote
+1790629	footnote
+1790631	footnote
+1790633	superscript
+italic
+italic
+superscript
+italic
+smallcaps
+superscript
+italic
+footnote
+1790643	footnote
+1790646	footnote
+1790649	footnote
+1790651	footnote
+1790654	footnote
+1790656	footnote
+1790658	footnote
+1790660	footnote
+1790663	footnote
+1790666	footnote
+1790668	footnote
+1790670	footnote
+1790672	footnote
+1790674	italic
 italic
 italic
 italic
@@ -11910,9 +11871,48 @@ italic
 italic
 smallcaps
 footnote
-1688443	footnote
-1688445	footnote
-1688448	superscript
+1790686	footnote
+1790688	footnote
+1790690	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1790707	footnote
+1790709	footnote
+1790712	footnote
+1790715	footnote
+1790718	footnote
+1790720	footnote
+1790722	footnote
+1790725	footnote
+1790728	footnote
+1790731	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+footnote
+1790746	footnote
+1790748	footnote
+1790751	superscript
 italic
 italic
 italic
@@ -11931,32 +11931,32 @@ superscript
 italic
 italic
 footnote
-1688468	footnote
-1688470	footnote
-1688473	footnote
-1688476	footnote
-1688478	footnote
-1688480	footnote
-1688482	footnote
-1688484	footnote
-1688486	footnote
-1688488	italic
+1790771	footnote
+1790773	footnote
+1790776	footnote
+1790779	footnote
+1790781	footnote
+1790783	footnote
+1790785	footnote
+1790787	footnote
+1790789	footnote
+1790791	italic
 italic
 italic
 italic
 footnote
-1688494	footnote
-1688497	footnote
-1688499	footnote
-1688501	footnote
-1688504	footnote
-1688507	footnote
-1688510	footnote
-1688513	footnote
-1688515	footnote
-1688517	footnote
-1688519	footnote
-1688521	italic
+1790797	footnote
+1790800	footnote
+1790802	footnote
+1790804	footnote
+1790807	footnote
+1790810	footnote
+1790813	footnote
+1790816	footnote
+1790818	footnote
+1790820	footnote
+1790822	footnote
+1790824	italic
 italic
 superscript
 italic
@@ -11969,20 +11969,20 @@ italic
 italic
 superscript
 footnote
-1688535	footnote
-1688537	footnote
-1688539	footnote
-1688541	footnote
-1688543	footnote
-1688546	footnote
-1688548	footnote
-1688550	footnote
-1688552	footnote
-1688555	footnote
-1688558	footnote
-1688561	footnote
-1688563	footnote
-1688565	italic
+1790838	footnote
+1790840	footnote
+1790842	footnote
+1790844	footnote
+1790846	footnote
+1790849	footnote
+1790851	footnote
+1790853	footnote
+1790855	footnote
+1790858	footnote
+1790861	footnote
+1790864	footnote
+1790866	footnote
+1790868	italic
 italic
 italic
 italic
@@ -11994,42 +11994,6 @@ italic
 italic
 italic
 superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1688589	footnote
-1688592	footnote
-1688594	footnote
-1688596	footnote
-1688598	footnote
-1688601	footnote
-1688603	footnote
-1688605	superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1688613	footnote
-1688615	footnote
-1688618	footnote
-1688620	footnote
-1688623	footnote
-1688625	italic
-italic
-italic
-italic
-italic
-italic
 italic
 italic
 italic
@@ -12041,147 +12005,183 @@ italic
 italic
 italic
 footnote
-1688644	footnote
-1688646	footnote
-1688648	footnote
-1688651	footnote
-1688653	footnote
-1688655	footnote
-1688658	footnote
-1688660	footnote
-1688662	superscript
+1790892	footnote
+1790895	footnote
+1790897	footnote
+1790899	footnote
+1790901	footnote
+1790904	footnote
+1790906	footnote
+1790908	superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1790916	footnote
+1790918	footnote
+1790921	footnote
+1790923	footnote
+1790926	footnote
+1790928	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1790947	footnote
+1790949	footnote
+1790951	footnote
+1790954	footnote
+1790956	footnote
+1790958	footnote
+1790961	footnote
+1790963	footnote
+1790965	superscript
 smallcaps
 italic
 italic
 italic
 superscript
 footnote
-1688670	footnote
-1688673	footnote
-1688675	footnote
-1688677	footnote
-1688680	footnote
-1688682	footnote
-1688684	footnote
-1688687	footnote
-1688689	footnote
-1688691	footnote
-1688693	italic
+1790973	footnote
+1790976	footnote
+1790978	footnote
+1790980	footnote
+1790983	footnote
+1790985	footnote
+1790987	footnote
+1790990	footnote
+1790992	footnote
+1790994	footnote
+1790996	italic
 footnote
-1688696	footnote
-1688698	footnote
-1688701	footnote
-1688703	footnote
-1688705	footnote
-1688707	footnote
-1688709	footnote
-1688711	footnote
-1688714	footnote
-1688716	footnote
-1688718	footnote
-1688720	footnote
-1688722	footnote
-1688724	italic
+1790999	footnote
+1791001	footnote
+1791004	footnote
+1791006	footnote
+1791008	footnote
+1791010	footnote
+1791012	footnote
+1791014	footnote
+1791017	footnote
+1791019	footnote
+1791021	footnote
+1791023	footnote
+1791025	footnote
+1791027	italic
 italic
 superscript
 italic
 superscript
 footnote
-1688731	footnote
-1688733	footnote
-1688735	footnote
-1688737	footnote
-1688739	footnote
-1688741	footnote
-1688743	footnote
-1688746	superscript
+1791034	footnote
+1791036	footnote
+1791038	footnote
+1791040	footnote
+1791042	footnote
+1791044	footnote
+1791046	footnote
+1791049	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1688755	footnote
-1688758	footnote
-1688761	footnote
-1688763	footnote
-1688766	footnote
-1688768	footnote
-1688771	footnote
-1688773	footnote
-1688775	footnote
-1688777	footnote
-1688779	footnote
-1688782	footnote
-1688784	footnote
-1688787	footnote
-1688790	footnote
-1688793	footnote
-1688796	footnote
-1688799	footnote
-1688801	italic
+1791058	footnote
+1791061	footnote
+1791064	footnote
+1791066	footnote
+1791069	footnote
+1791071	footnote
+1791074	footnote
+1791076	footnote
+1791078	footnote
+1791080	footnote
+1791082	footnote
+1791085	footnote
+1791087	footnote
+1791090	footnote
+1791093	footnote
+1791096	footnote
+1791099	footnote
+1791102	footnote
+1791104	italic
 italic
 footnote
-1688805	footnote
-1688807	footnote
-1688809	footnote
-1688812	footnote
-1688815	footnote
-1688817	footnote
-1688820	footnote
-1688823	footnote
-1688826	footnote
-1688828	footnote
-1688830	footnote
-1688832	footnote
-1688834	footnote
-1688836	footnote
-1688839	footnote
-1688841	footnote
-1688843	footnote
-1688845	footnote
-1688848	footnote
-1688850	footnote
-1688852	footnote
-1688855	footnote
-1688858	footnote
-1688860	footnote
-1688863	footnote
-1688865	footnote
-1688867	footnote
-1688869	footnote
-1688871	superscript
+1791108	footnote
+1791110	footnote
+1791112	footnote
+1791115	footnote
+1791118	footnote
+1791120	footnote
+1791123	footnote
+1791126	footnote
+1791129	footnote
+1791131	footnote
+1791133	footnote
+1791135	footnote
+1791137	footnote
+1791139	footnote
+1791142	footnote
+1791144	footnote
+1791146	footnote
+1791148	footnote
+1791151	footnote
+1791153	footnote
+1791155	footnote
+1791158	footnote
+1791161	footnote
+1791163	footnote
+1791166	footnote
+1791168	footnote
+1791170	footnote
+1791172	footnote
+1791174	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1688879	footnote
-1688882	footnote
-1688884	footnote
-1688886	footnote
-1688888	footnote
-1688890	footnote
-1688892	footnote
-1688895	footnote
-1688898	footnote
-1688901	footnote
-1688904	footnote
-1688906	footnote
-1688908	footnote
-1688910	footnote
-1688913	footnote
-1688915	footnote
-1688918	footnote
-1688920	footnote
-1688922	footnote
-1688924	footnote
-1688926	italic
+1791182	footnote
+1791185	footnote
+1791187	footnote
+1791189	footnote
+1791191	footnote
+1791193	footnote
+1791195	footnote
+1791198	footnote
+1791201	footnote
+1791204	footnote
+1791207	footnote
+1791209	footnote
+1791211	footnote
+1791213	footnote
+1791216	footnote
+1791218	footnote
+1791221	footnote
+1791223	footnote
+1791225	footnote
+1791227	footnote
+1791229	italic
 italic
 footnote
-1688930	footnote
-1688932	footnote
-1688934	italic
+1791233	footnote
+1791235	footnote
+1791237	italic
 italic
 italic
 smallcaps
@@ -12198,51 +12198,51 @@ superscript
 italic
 italic
 footnote
-1688953	footnote
-1688955	footnote
-1688957	footnote
-1688960	footnote
-1688962	italic
+1791256	footnote
+1791258	footnote
+1791260	footnote
+1791263	footnote
+1791265	italic
 italic
 footnote
-1688967	footnote
-1688969	footnote
-1688971	footnote
-1688973	footnote
-1688976	footnote
-1688979	footnote
-1688981	footnote
-1688983	footnote
-1688985	footnote
-1688988	footnote
-1688990	footnote
-1688992	footnote
-1688994	footnote
-1688997	footnote
-1688999	footnote
-1689002	footnote
-1689005	footnote
-1689007	footnote
-1689009	footnote
-1689012	footnote
-1689014	footnote
-1689016	footnote
-1689020	footnote
-1689023	superscript
+1791270	footnote
+1791272	footnote
+1791274	footnote
+1791276	footnote
+1791279	footnote
+1791282	footnote
+1791284	footnote
+1791286	footnote
+1791288	footnote
+1791291	footnote
+1791293	footnote
+1791295	footnote
+1791297	footnote
+1791300	footnote
+1791302	footnote
+1791305	footnote
+1791308	footnote
+1791310	footnote
+1791312	footnote
+1791315	footnote
+1791317	footnote
+1791319	footnote
+1791323	footnote
+1791326	superscript
 smallcaps
 italic
 superscript
 italic
 superscript
 footnote
-1689031	footnote
-1689033	footnote
-1689035	footnote
-1689038	footnote
-1689041	footnote
-1689044	footnote
-1689046	footnote
-1689049	superscript
+1791334	footnote
+1791336	footnote
+1791338	footnote
+1791341	footnote
+1791344	footnote
+1791347	footnote
+1791349	footnote
+1791352	superscript
 italic
 italic
 italic
@@ -12250,244 +12250,244 @@ superscript
 italic
 superscript
 footnote
-1689058	italic
+1791361	italic
 footnote
-1689061	footnote
-1689064	footnote
-1689066	footnote
-1689068	footnote
-1689070	footnote
-1689072	footnote
-1689074	footnote
-1689076	footnote
-1689078	footnote
-1689080	footnote
-1689082	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1689090	footnote
-1689092	footnote
-1689094	footnote
-1689096	footnote
-1689098	footnote
-1689100	footnote
-1689102	footnote
-1689105	footnote
-1689107	footnote
-1689110	footnote
-1689112	footnote
-1689114	footnote
-1689116	footnote
-1689118	footnote
-1689120	footnote
-1689123	footnote
-1689125	footnote
-1689127	footnote
-1689129	footnote
-1689131	footnote
-1689133	footnote
-1689135	footnote
-1689138	footnote
-1689140	footnote
-1689143	footnote
-1689145	footnote
-1689147	footnote
-1689150	footnote
-1689153	footnote
-1689155	footnote
-1689158	italic
-italic
-italic
-footnote
-1689163	footnote
-1689166	footnote
-1689168	footnote
-1689171	footnote
-1689174	footnote
-1689176	footnote
-1689178	footnote
-1689180	footnote
-1689182	footnote
-1689184	footnote
-1689186	footnote
-1689188	footnote
-1689190	footnote
-1689192	footnote
-1689195	footnote
-1689197	footnote
-1689199	footnote
-1689202	footnote
-1689204	footnote
-1689206	footnote
-1689209	footnote
-1689212	footnote
-1689214	footnote
-1689216	footnote
-1689218	italic
-italic
-footnote
-1689222	footnote
-1689224	footnote
-1689226	footnote
-1689229	footnote
-1689231	footnote
-1689233	superscript
-superscript
-italic
-superscript
-superscript
-superscript
-italic
-superscript
-superscript
-footnote
-1689245	footnote
-1689248	footnote
-1689251	footnote
-1689253	footnote
-1689255	footnote
-1689257	footnote
-1689259	footnote
-1689261	footnote
-1689263	footnote
-1689265	footnote
-1689268	footnote
-1689270	footnote
-1689272	footnote
-1689274	footnote
-1689277	footnote
-1689279	footnote
-1689281	footnote
-1689284	footnote
-1689286	footnote
-1689288	footnote
-1689290	footnote
-1689293	footnote
-1689296	footnote
-1689299	footnote
-1689302	footnote
-1689305	footnote
-1689307	footnote
-1689309	superscript
-italic
-superscript
-italic
-superscript
-superscript
-italic
-superscript
-footnote
-1689320	footnote
-1689323	footnote
-1689325	italic
-italic
-footnote
-1689329	footnote
-1689331	footnote
-1689333	footnote
-1689335	footnote
-1689337	footnote
-1689339	footnote
-1689341	footnote
-1689343	footnote
-1689346	footnote
-1689348	footnote
-1689350	footnote
-1689352	footnote
-1689354	footnote
-1689356	footnote
-1689358	footnote
-1689360	footnote
-1689364	superscript
-italic
-italic
-superscript
+1791364	footnote
+1791367	footnote
+1791369	footnote
+1791371	footnote
+1791373	footnote
+1791375	footnote
+1791377	footnote
+1791379	footnote
+1791381	footnote
+1791383	footnote
+1791385	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1689374	footnote
-1689376	footnote
-1689378	footnote
-1689380	footnote
-1689382	footnote
-1689384	footnote
-1689387	footnote
-1689390	footnote
-1689392	footnote
-1689394	footnote
-1689396	footnote
-1689398	footnote
-1689401	footnote
-1689403	footnote
-1689405	footnote
-1689407	footnote
-1689410	footnote
-1689413	footnote
-1689415	footnote
-1689417	footnote
-1689419	footnote
-1689421	footnote
-1689423	footnote
-1689425	footnote
-1689427	footnote
-1689429	footnote
-1689431	footnote
-1689433	footnote
-1689435	footnote
-1689437	footnote
-1689439	footnote
-1689441	footnote
-1689443	footnote
-1689445	footnote
-1689447	footnote
-1689449	footnote
-1689452	footnote
-1689454	footnote
-1689456	footnote
-1689458	footnote
-1689460	footnote
-1689462	footnote
-1689464	footnote
-1689466	footnote
-1689468	footnote
-1689470	footnote
-1689472	footnote
-1689475	footnote
-1689477	footnote
-1689479	footnote
-1689481	footnote
-1689483	footnote
-1689485	footnote
-1689487	footnote
-1689490	footnote
-1689492	footnote
-1689495	footnote
-1689498	footnote
-1689500	footnote
-1689502	smallcaps
+1791393	footnote
+1791395	footnote
+1791397	footnote
+1791399	footnote
+1791401	footnote
+1791403	footnote
+1791405	footnote
+1791408	footnote
+1791410	footnote
+1791413	footnote
+1791415	footnote
+1791417	footnote
+1791419	footnote
+1791421	footnote
+1791423	footnote
+1791426	footnote
+1791428	footnote
+1791430	footnote
+1791432	footnote
+1791434	footnote
+1791436	footnote
+1791438	footnote
+1791441	footnote
+1791443	footnote
+1791446	footnote
+1791448	footnote
+1791450	footnote
+1791453	footnote
+1791456	footnote
+1791458	footnote
+1791461	italic
 italic
 italic
 footnote
-1689507	footnote
-1689509	footnote
-1689511	footnote
-1689513	footnote
-1689515	footnote
-1689517	footnote
-1689519	footnote
-1689521	footnote
-1689524	footnote
-1689527	footnote
-1689530	footnote
-1689532	footnote
-1689536	footnote
-1689539	footnote
-1689541	superscript
+1791466	footnote
+1791469	footnote
+1791471	footnote
+1791474	footnote
+1791477	footnote
+1791479	footnote
+1791481	footnote
+1791483	footnote
+1791485	footnote
+1791487	footnote
+1791489	footnote
+1791491	footnote
+1791493	footnote
+1791495	footnote
+1791498	footnote
+1791500	footnote
+1791502	footnote
+1791505	footnote
+1791507	footnote
+1791509	footnote
+1791512	footnote
+1791515	footnote
+1791517	footnote
+1791519	footnote
+1791521	italic
+italic
+footnote
+1791525	footnote
+1791527	footnote
+1791529	footnote
+1791532	footnote
+1791534	footnote
+1791536	superscript
+superscript
+italic
+superscript
+superscript
+superscript
+italic
+superscript
+superscript
+footnote
+1791548	footnote
+1791551	footnote
+1791554	footnote
+1791556	footnote
+1791558	footnote
+1791560	footnote
+1791562	footnote
+1791564	footnote
+1791566	footnote
+1791568	footnote
+1791571	footnote
+1791573	footnote
+1791575	footnote
+1791577	footnote
+1791580	footnote
+1791582	footnote
+1791584	footnote
+1791587	footnote
+1791589	footnote
+1791591	footnote
+1791593	footnote
+1791596	footnote
+1791599	footnote
+1791602	footnote
+1791605	footnote
+1791608	footnote
+1791610	footnote
+1791612	superscript
+italic
+superscript
+italic
+superscript
+superscript
+italic
+superscript
+footnote
+1791623	footnote
+1791626	footnote
+1791628	italic
+italic
+footnote
+1791632	footnote
+1791634	footnote
+1791636	footnote
+1791638	footnote
+1791640	footnote
+1791642	footnote
+1791644	footnote
+1791646	footnote
+1791649	footnote
+1791651	footnote
+1791653	footnote
+1791655	footnote
+1791657	footnote
+1791659	footnote
+1791661	footnote
+1791663	footnote
+1791667	superscript
+italic
+italic
+superscript
+italic
+superscript
+italic
+superscript
+footnote
+1791677	footnote
+1791679	footnote
+1791681	footnote
+1791683	footnote
+1791685	footnote
+1791687	footnote
+1791690	footnote
+1791693	footnote
+1791695	footnote
+1791697	footnote
+1791699	footnote
+1791701	footnote
+1791704	footnote
+1791706	footnote
+1791708	footnote
+1791710	footnote
+1791713	footnote
+1791716	footnote
+1791718	footnote
+1791720	footnote
+1791722	footnote
+1791724	footnote
+1791726	footnote
+1791728	footnote
+1791730	footnote
+1791732	footnote
+1791734	footnote
+1791736	footnote
+1791738	footnote
+1791740	footnote
+1791742	footnote
+1791744	footnote
+1791746	footnote
+1791748	footnote
+1791750	footnote
+1791752	footnote
+1791755	footnote
+1791757	footnote
+1791759	footnote
+1791761	footnote
+1791763	footnote
+1791765	footnote
+1791767	footnote
+1791769	footnote
+1791771	footnote
+1791773	footnote
+1791775	footnote
+1791778	footnote
+1791780	footnote
+1791782	footnote
+1791784	footnote
+1791786	footnote
+1791788	footnote
+1791790	footnote
+1791793	footnote
+1791795	footnote
+1791798	footnote
+1791801	footnote
+1791803	footnote
+1791805	smallcaps
+italic
+italic
+footnote
+1791810	footnote
+1791812	footnote
+1791814	footnote
+1791816	footnote
+1791818	footnote
+1791820	footnote
+1791822	footnote
+1791824	footnote
+1791827	footnote
+1791830	footnote
+1791833	footnote
+1791835	footnote
+1791839	footnote
+1791842	footnote
+1791844	superscript
 smallcaps
 superscript
 italic
@@ -12498,92 +12498,92 @@ superscript
 italic
 superscript
 footnote
-1689555	footnote
-1689557	footnote
-1689560	footnote
-1689562	footnote
-1689564	footnote
-1689566	footnote
-1689568	footnote
-1689570	footnote
-1689572	footnote
-1689574	footnote
-1689576	footnote
-1689578	footnote
-1689581	footnote
-1689583	footnote
-1689585	footnote
-1689588	footnote
-1689591	footnote
-1689593	footnote
-1689596	footnote
-1689598	footnote
-1689600	footnote
-1689602	footnote
-1689605	footnote
-1689607	footnote
-1689610	footnote
-1689612	footnote
-1689614	footnote
-1689616	footnote
-1689619	footnote
-1689621	footnote
+1791858	footnote
+1791860	footnote
+1791863	footnote
+1791865	footnote
+1791867	footnote
+1791869	footnote
+1791871	footnote
+1791873	footnote
+1791875	footnote
+1791877	footnote
+1791879	footnote
+1791881	footnote
+1791884	footnote
+1791886	footnote
+1791888	footnote
+1791891	footnote
+1791894	footnote
+1791896	footnote
+1791899	footnote
+1791901	footnote
+1791903	footnote
+1791905	footnote
+1791908	footnote
+1791910	footnote
+1791913	footnote
+1791915	footnote
+1791917	footnote
+1791919	footnote
+1791922	footnote
+1791924	footnote
 footnote
-1689624	footnote
-1689626	footnote
-1689629	footnote
-1689631	footnote
-1689633	footnote
-1689635	footnote
-1689637	footnote
-1689639	footnote
-1689642	footnote
-1689645	italic
+1791927	footnote
+1791929	footnote
+1791932	footnote
+1791934	footnote
+1791936	footnote
+1791938	footnote
+1791940	footnote
+1791942	footnote
+1791945	footnote
+1791948	italic
 footnote
-1689648	footnote
-1689650	footnote
-1689652	footnote
-1689655	footnote
-1689657	footnote
-1689659	footnote
-1689661	footnote
-1689663	footnote
-1689665	footnote
-1689667	footnote
-1689669	footnote
-1689671	footnote
-1689673	italic
+1791951	footnote
+1791953	footnote
+1791955	footnote
+1791958	footnote
+1791960	footnote
+1791962	footnote
+1791964	footnote
+1791966	footnote
+1791968	footnote
+1791970	footnote
+1791972	footnote
+1791974	footnote
+1791976	italic
 footnote
-1689676	footnote
-1689679	footnote
-1689681	footnote
-1689683	footnote
-1689685	footnote
-1689687	footnote
-1689689	footnote
-1689691	footnote
-1689694	footnote
-1689697	footnote
-1689699	footnote
-1689701	footnote
-1689703	footnote
-1689705	footnote
-1689707	footnote
-1689709	footnote
-1689712	footnote
-1689714	footnote
-1689716	footnote
-1689718	footnote
-1689721	footnote
-1689723	footnote
-1689725	footnote
-1689727	footnote
-1689729	italic
+1791979	footnote
+1791982	footnote
+1791984	footnote
+1791986	footnote
+1791988	footnote
+1791990	footnote
+1791992	footnote
+1791994	footnote
+1791997	footnote
+1792000	footnote
+1792002	footnote
+1792004	footnote
+1792006	footnote
+1792008	footnote
+1792010	footnote
+1792012	footnote
+1792015	footnote
+1792017	footnote
+1792019	footnote
+1792021	footnote
+1792024	footnote
+1792026	footnote
+1792028	footnote
+1792030	footnote
+1792032	italic
 footnote
-1689732	footnote
-1689735	footnote
-1689737	footnote
-1689739	superscript
+1792035	footnote
+1792038	footnote
+1792040	footnote
+1792042	superscript
 italic
 italic
 italic
@@ -12611,50 +12611,50 @@ superscript
 superscript
 superscript
 footnote
-1689768	footnote
-1689771	footnote
-1689773	footnote
-1689775	footnote
-1689777	footnote
-1689779	footnote
-1689781	footnote
-1689783	footnote
-1689785	footnote
-1689787	footnote
-1689789	footnote
-1689791	footnote
-1689793	footnote
-1689795	footnote
-1689799	footnote
-1689801	footnote
-1689803	footnote
-1689805	footnote
-1689809	footnote
-1689811	footnote
-1689813	footnote
-1689816	footnote
-1689819	footnote
-1689822	footnote
-1689824	footnote
-1689826	footnote
-1689828	footnote
-1689830	footnote
-1689833	footnote
-1689835	footnote
-1689837	footnote
-1689839	footnote
-1689842	footnote
-1689845	footnote
-1689847	footnote
-1689849	footnote
-1689851	footnote
-1689853	footnote
-1689855	footnote
-1689857	footnote
-1689859	footnote
-1689862	footnote
-1689864	footnote
-1689866	italic
+1792071	footnote
+1792074	footnote
+1792076	footnote
+1792078	footnote
+1792080	footnote
+1792082	footnote
+1792084	footnote
+1792086	footnote
+1792088	footnote
+1792090	footnote
+1792092	footnote
+1792094	footnote
+1792096	footnote
+1792098	footnote
+1792102	footnote
+1792104	footnote
+1792106	footnote
+1792108	footnote
+1792112	footnote
+1792114	footnote
+1792116	footnote
+1792119	footnote
+1792122	footnote
+1792125	footnote
+1792127	footnote
+1792129	footnote
+1792131	footnote
+1792133	footnote
+1792136	footnote
+1792138	footnote
+1792140	footnote
+1792142	footnote
+1792145	footnote
+1792148	footnote
+1792150	footnote
+1792152	footnote
+1792154	footnote
+1792156	footnote
+1792158	footnote
+1792160	footnote
+1792162	footnote
+1792165	footnote
+1792167	footnote
+1792169	italic
 italic
 italic
 italic
@@ -12664,1283 +12664,1283 @@ italic
 italic
 italic
 footnote
-1689878	footnote
-1689880	footnote
-1689883	footnote
-1689885	footnote
-1689887	footnote
-1689890	footnote
-1689892	footnote
-1689894	footnote
-1689897	footnote
-1689899	footnote
-1689901	footnote
-1689903	footnote
-1689905	footnote
-1689908	footnote
-1689910	footnote
-1689912	footnote
-1689914	italic
+1792181	footnote
+1792183	footnote
+1792186	footnote
+1792188	footnote
+1792190	footnote
+1792193	footnote
+1792195	footnote
+1792197	footnote
+1792200	footnote
+1792202	footnote
+1792204	footnote
+1792206	footnote
+1792208	footnote
+1792211	footnote
+1792213	footnote
+1792215	footnote
+1792217	italic
 italic
 italic
 bold
 footnote
-1689920	footnote
-1689922	footnote
-1689924	footnote
-1689927	footnote
-1689929	footnote
-1689932	footnote
-1689934	footnote
-1689936	footnote
-1689938	footnote
-1689940	footnote
-1689942	footnote
-1689944	footnote
-1689947	footnote
-1689950	footnote
-1689953	footnote
-1689956	footnote
-1689959	footnote
-1689961	footnote
-1689964	footnote
-1689966	footnote
-1689969	italic
+1792223	footnote
+1792225	footnote
+1792227	footnote
+1792230	footnote
+1792232	footnote
+1792235	footnote
+1792237	footnote
+1792239	footnote
+1792241	footnote
+1792243	footnote
+1792245	footnote
+1792247	footnote
+1792250	footnote
+1792253	footnote
+1792256	footnote
+1792259	footnote
+1792262	footnote
+1792264	footnote
+1792267	footnote
+1792269	footnote
+1792272	italic
 bold
 footnote
-1689973	footnote
-1689976	footnote
-1689979	footnote
-1689981	footnote
-1689984	footnote
-1689987	footnote
-1689989	footnote
-1689991	footnote
-1689994	footnote
-1689997	footnote
-1690000	footnote
-1690003	footnote
-1690006	footnote
-1690009	footnote
-1690012	footnote
-1690015	superscript
+1792276	footnote
+1792279	footnote
+1792282	footnote
+1792284	footnote
+1792287	footnote
+1792290	footnote
+1792292	footnote
+1792294	footnote
+1792297	footnote
+1792300	footnote
+1792303	footnote
+1792306	footnote
+1792309	footnote
+1792312	footnote
+1792315	footnote
+1792318	superscript
 italic
 superscript
 italic
 superscript
 footnote
-1690022	footnote
-1690025	footnote
-1690027	italic
+1792325	footnote
+1792328	footnote
+1792330	italic
 italic
 italic
 italic
 italic
 footnote
-1690035	footnote
-1690038	footnote
-1690041	footnote
-1690044	footnote
-1690047	footnote
-1690049	footnote
-1690051	footnote
-1690054	footnote
-1690056	footnote
-1690059	footnote
-1690061	footnote
-1690063	footnote
-1690065	footnote
-1690068	footnote
-1690071	footnote
-1690073	footnote
-1690076	footnote
-1690079	footnote
-1690081	footnote
-1690083	footnote
-1690086	footnote
-1690088	footnote
-1690091	footnote
-1690094	footnote
-1690097	footnote
-1690099	footnote
-1690102	footnote
-1690105	footnote
-1690108	footnote
-1690111	footnote
-1690114	footnote
-1690116	footnote
-1690118	footnote
-1690120	footnote
-1690122	footnote
-1690125	italic
+1792338	footnote
+1792341	footnote
+1792344	footnote
+1792347	footnote
+1792350	footnote
+1792352	footnote
+1792354	footnote
+1792357	footnote
+1792359	footnote
+1792362	footnote
+1792364	footnote
+1792366	footnote
+1792368	footnote
+1792371	footnote
+1792374	footnote
+1792376	footnote
+1792379	footnote
+1792382	footnote
+1792384	footnote
+1792386	footnote
+1792389	footnote
+1792391	footnote
+1792394	footnote
+1792397	footnote
+1792400	footnote
+1792402	footnote
+1792405	footnote
+1792408	footnote
+1792411	footnote
+1792414	footnote
+1792417	footnote
+1792419	footnote
+1792421	footnote
+1792423	footnote
+1792425	footnote
+1792428	italic
 italic
 footnote
-1690129	footnote
-1690132	footnote
-1690134	footnote
-1690136	footnote
-1690138	footnote
-1690140	footnote
-1690142	footnote
-1690145	footnote
-1690148	footnote
-1690150	footnote
-1690152	footnote
-1690154	footnote
-1690157	superscript
-italic
-italic
-footnote
-1690163	footnote
-1690166	footnote
-1690170	footnote
-1690172	footnote
-1690175	footnote
-1690177	footnote
-1690180	footnote
-1690183	footnote
-1690186	footnote
-1690189	footnote
-1690191	footnote
-1690194	footnote
-1690196	footnote
-1690199	footnote
-1690203	footnote
-1690206	footnote
-1690208	footnote
-1690210	footnote
-1690214	footnote
-1690216	footnote
-1690219	footnote
-1690222	footnote
-1690224	footnote
-1690226	footnote
-1690228	footnote
-1690230	footnote
-1690233	footnote
-1690236	footnote
-1690239	footnote
-1690242	footnote
-1690244	footnote
-1690247	footnote
-1690249	footnote
-1690251	footnote
-1690254	footnote
-1690257	footnote
-1690260	footnote
-1690263	footnote
-1690266	footnote
-1690269	footnote
-1690271	footnote
-1690274	footnote
-1690277	footnote
-1690279	footnote
-1690282	footnote
-1690284	footnote
-1690286	footnote
-1690290	footnote
-1690293	footnote
-1690296	footnote
-1690299	footnote
-1690302	footnote
-1690305	footnote
-1690308	footnote
-1690310	footnote
-1690313	footnote
-1690316	italic
-italic
-footnote
-1690321	footnote
-1690324	footnote
-1690327	footnote
-1690330	footnote
-1690332	footnote
-1690335	footnote
-1690337	footnote
-1690340	smallcaps
-italic
-superscript
-italic
-bold
-footnote
-1690347	footnote
-1690350	footnote
-1690353	footnote
-1690356	footnote
-1690359	footnote
-1690362	footnote
-1690365	footnote
-1690368	footnote
-1690371	footnote
-1690374	footnote
-1690376	footnote
-1690378	footnote
-1690380	footnote
-1690383	footnote
-1690386	footnote
-1690389	footnote
-1690392	footnote
-1690394	footnote
-1690396	footnote
-1690400	italic
-italic
-smallcaps
-bold
-footnote
-1690407	footnote
-1690409	footnote
-1690411	footnote
-1690414	footnote
-1690417	footnote
-1690420	superscript
-italic
-superscript
-italic
-smallcaps
-bold
-footnote
-1690429	footnote
-1690432	footnote
-1690435	footnote
-1690438	footnote
-1690440	footnote
-1690443	footnote
-1690445	footnote
-1690447	footnote
-1690450	footnote
-1690452	footnote
-1690454	footnote
-1690456	footnote
-1690458	footnote
-1690460	footnote
-1690463	footnote
-1690466	italic
-bold
-footnote
-1690471	footnote
-1690474	footnote
-1690477	footnote
-1690480	footnote
-1690482	footnote
-1690485	footnote
-1690488	footnote
-1690490	footnote
-1690493	footnote
-1690496	footnote
-1690498	footnote
-1690501	footnote
-1690504	footnote
-1690506	footnote
-1690509	footnote
-1690512	footnote
-1690515	footnote
-1690518	footnote
-1690520	footnote
-1690523	superscript
+1792432	footnote
+1792435	footnote
+1792437	footnote
+1792439	footnote
+1792441	footnote
+1792443	footnote
+1792445	footnote
+1792448	footnote
+1792451	footnote
+1792453	footnote
+1792455	footnote
+1792457	footnote
+1792460	superscript
 italic
 italic
 footnote
-1690529	footnote
-1690532	footnote
-1690534	footnote
-1690536	footnote
-1690541	footnote
-1690543	footnote
-1690546	footnote
-1690550	footnote
-1690553	footnote
-1690556	italic
-superscript
-italic
-smallcaps
-footnote
-1690563	footnote
-1690565	footnote
-1690567	footnote
-1690570	footnote
-1690573	footnote
-1690575	footnote
-1690577	footnote
-1690580	footnote
-1690583	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-superscript
-italic
-italic
-italic
-italic
-footnote
-1690599	footnote
-1690601	footnote
-1690604	superscript
-italic
-superscript
-italic
-smallcaps
-superscript
-footnote
-1690613	italic
-italic
-italic
-superscript
-superscript
-italic
-italic
-superscript
-footnote
-1690624	footnote
-1690627	footnote
-1690629	footnote
-1690631	footnote
-1690633	footnote
-1690636	footnote
-1690639	footnote
-1690642	footnote
-1690645	footnote
-1690647	italic
+1792466	footnote
+1792469	footnote
+1792473	footnote
+1792475	footnote
+1792478	footnote
+1792480	footnote
+1792483	footnote
+1792486	footnote
+1792489	footnote
+1792492	footnote
+1792494	footnote
+1792497	footnote
+1792499	footnote
+1792502	footnote
+1792506	footnote
+1792509	footnote
+1792511	footnote
+1792513	footnote
+1792517	footnote
+1792519	footnote
+1792522	footnote
+1792525	footnote
+1792527	footnote
+1792529	footnote
+1792531	footnote
+1792533	footnote
+1792536	footnote
+1792539	footnote
+1792542	footnote
+1792545	footnote
+1792547	footnote
+1792550	footnote
+1792552	footnote
+1792554	footnote
+1792557	footnote
+1792560	footnote
+1792563	footnote
+1792566	footnote
+1792569	footnote
+1792572	footnote
+1792574	footnote
+1792577	footnote
+1792580	footnote
+1792582	footnote
+1792585	footnote
+1792587	footnote
+1792589	footnote
+1792593	footnote
+1792596	footnote
+1792599	footnote
+1792602	footnote
+1792605	footnote
+1792608	footnote
+1792611	footnote
+1792613	footnote
+1792616	footnote
+1792619	italic
 italic
 footnote
-1690652	footnote
-1690655	footnote
-1690657	footnote
-1690659	footnote
-1690662	footnote
-1690665	footnote
-1690668	footnote
-1690671	footnote
-1690673	footnote
-1690675	footnote
-1690677	footnote
-1690679	footnote
-1690681	superscript
-italic
-superscript
-italic
-footnote
-1690687	footnote
-1690690	footnote
-1690692	footnote
-1690695	footnote
-1690697	footnote
-1690699	footnote
-1690701	footnote
-1690703	footnote
-1690705	superscript
-italic
-italic
-superscript
-italic
-footnote
-1690712	footnote
-1690715	footnote
-1690717	footnote
-1690719	footnote
-1690721	italic
-footnote
-1690724	footnote
-1690726	footnote
-1690728	footnote
-1690730	footnote
-1690732	footnote
-1690734	footnote
-1690736	footnote
-1690738	footnote
-1690741	footnote
-1690744	footnote
-1690747	footnote
-1690749	footnote
-1690752	footnote
-1690754	italic
-italic
-italic
-footnote
-1690760	footnote
-1690763	footnote
-1690765	footnote
-1690768	footnote
-1690770	footnote
-1690773	footnote
-1690775	footnote
-1690777	footnote
-1690779	footnote
-1690781	footnote
-1690783	footnote
-1690785	footnote
-1690788	footnote
-1690791	footnote
-1690793	footnote
-1690796	footnote
-1690798	footnote
-1690800	footnote
-1690802	footnote
-1690804	footnote
-1690806	footnote
-1690808	footnote
-1690810	footnote
-1690812	footnote
-1690814	footnote
-1690816	footnote
-1690818	italic
-italic
-italic
-superscript
-italic
-italic
-italic
-superscript
-italic
-footnote
-1690829	footnote
-1690831	footnote
-1690833	footnote
-1690835	footnote
-1690837	footnote
-1690839	footnote
-1690841	footnote
-1690843	footnote
-1690845	footnote
-1690847	footnote
-1690849	footnote
-1690852	footnote
-1690854	footnote
-1690856	footnote
-1690858	footnote
-1690860	footnote
-1690863	footnote
-1690866	footnote
-1690869	footnote
-1690871	footnote
-1690874	footnote
-1690877	footnote
-1690880	footnote
-1690882	footnote
-1690884	footnote
-1690886	footnote
-1690888	footnote
-1690890	footnote
-1690892	footnote
-1690894	italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1690903	footnote
-1690906	footnote
-1690908	footnote
-1690910	footnote
-1690914	footnote
-1690916	footnote
-1690918	footnote
-1690920	footnote
-1690922	footnote
-1690925	footnote
-1690927	footnote
-1690929	footnote
-1690931	footnote
-1690933	footnote
-1690935	footnote
-1690937	footnote
-1690940	footnote
-1690942	italic
-italic
-italic
-italic
-italic
-footnote
-1690949	footnote
-1690951	footnote
-1690953	footnote
-1690955	footnote
-1690957	footnote
-1690960	footnote
-1690962	footnote
-1690964	footnote
-1690966	footnote
-1690969	footnote
-1690971	footnote
-1690973	footnote
-1690976	footnote
-1690979	footnote
-1690981	footnote
-1690983	footnote
-1690986	footnote
-1690989	footnote
-1690991	footnote
-1690993	footnote
-1690995	footnote
-1690997	footnote
-1690999	footnote
-1691001	footnote
-1691004	footnote
-1691007	footnote
-1691009	footnote
-1691011	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691022	footnote
-1691025	footnote
-1691027	footnote
-1691029	footnote
-1691031	footnote
-1691033	superscript
-superscript
-italic
-superscript
-superscript
-italic
-italic
-superscript
-italic
-footnote
-1691045	footnote
-1691048	footnote
-1691051	footnote
-1691054	footnote
-1691057	footnote
-1691060	footnote
-1691062	footnote
-1691065	footnote
-1691067	footnote
-1691069	footnote
-1691071	footnote
-1691073	footnote
-1691076	footnote
-1691078	footnote
-1691081	footnote
-1691083	footnote
-1691086	footnote
-1691088	footnote
-1691090	footnote
-1691093	footnote
-1691095	footnote
-1691097	footnote
-1691100	footnote
-1691102	footnote
-1691104	footnote
-1691106	footnote
-1691109	footnote
-1691112	footnote
-1691114	footnote
-1691117	footnote
-1691120	footnote
-1691123	italic
-footnote
-1691127	footnote
-1691129	footnote
-1691132	footnote
-1691134	footnote
-1691136	footnote
-1691139	footnote
-1691142	footnote
-1691145	footnote
-1691148	footnote
-1691151	footnote
-1691153	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691168	footnote
-1691171	footnote
-1691173	footnote
-1691175	footnote
-1691178	footnote
-1691180	footnote
-1691182	footnote
-1691184	italic
-footnote
-1691187	footnote
-1691190	footnote
-1691193	footnote
-1691196	footnote
-1691198	footnote
-1691201	footnote
-1691203	footnote
-1691206	footnote
-1691208	footnote
-1691211	footnote
-1691214	footnote
-1691217	footnote
-1691219	footnote
-1691221	footnote
-1691223	smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691238	footnote
-1691240	footnote
-1691242	footnote
-1691244	footnote
-1691247	footnote
-1691250	footnote
-1691252	smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691275	footnote
-1691278	footnote
-1691281	footnote
-1691283	footnote
-1691286	footnote
-1691288	footnote
-1691291	footnote
-1691294	footnote
-1691296	footnote
-1691298	superscript
-italic
-superscript
-italic
-footnote
-1691304	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691319	footnote
-1691321	footnote
-1691324	footnote
-1691327	footnote
-1691329	footnote
-1691331	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-footnote
-1691349	footnote
-1691351	footnote
-1691353	footnote
-1691355	footnote
-1691358	footnote
-1691361	footnote
-1691363	footnote
-1691365	footnote
-1691367	footnote
-1691369	footnote
-1691371	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691386	footnote
-1691388	footnote
-1691390	footnote
-1691393	footnote
-1691396	footnote
-1691399	footnote
-1691401	footnote
-1691403	footnote
-1691406	footnote
-1691409	footnote
-1691411	footnote
-1691413	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-smallcaps
-superscript
-footnote
-1691428	footnote
-1691430	footnote
-1691433	footnote
-1691436	footnote
-1691438	footnote
-1691441	footnote
-1691444	footnote
-1691447	footnote
-1691450	footnote
-1691453	footnote
-1691456	footnote
-1691458	footnote
-1691460	footnote
-1691463	footnote
-1691465	footnote
-1691467	footnote
-1691469	footnote
-1691471	footnote
-1691473	footnote
-1691475	footnote
-1691477	footnote
-1691479	footnote
-1691482	footnote
-1691485	footnote
-1691488	footnote
-1691491	footnote
-1691493	footnote
-1691495	footnote
-1691498	footnote
-1691501	footnote
-1691504	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-footnote
-1691517	footnote
-1691519	footnote
-1691522	footnote
-1691524	footnote
-1691526	footnote
-1691528	footnote
-1691531	footnote
-1691534	footnote
-1691536	footnote
-1691539	footnote
-1691542	footnote
-1691544	footnote
-1691546	footnote
-1691549	footnote
-1691551	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-footnote
-1691572	footnote
-1691574	footnote
-1691576	footnote
-1691579	footnote
-1691581	footnote
-1691584	footnote
-1691587	footnote
-1691589	footnote
-1691591	footnote
-1691594	footnote
-1691596	footnote
-1691598	footnote
-1691600	footnote
-1691602	footnote
-1691604	footnote
-1691606	footnote
-1691608	footnote
-1691610	footnote
-1691613	footnote
-1691615	footnote
-1691617	footnote
-1691620	footnote
-1691622	footnote
-1691624	footnote
-1691626	footnote
-1691628	footnote
-1691631	footnote
-1691633	footnote
-1691635	footnote
-1691637	superscript
-italic
-superscript
-italic
-superscript
-footnote
-1691644	footnote
-1691646	footnote
-1691648	footnote
-1691650	footnote
-1691652	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-smallcaps
-superscript
-italic
-italic
-footnote
-1691681	footnote
-1691684	footnote
-1691686	footnote
-1691688	footnote
-1691690	footnote
-1691692	footnote
-1691694	footnote
-1691696	footnote
-1691698	footnote
-1691700	footnote
-1691702	footnote
-1691704	footnote
-1691706	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-superscript
-italic
-smallcaps
-superscript
-superscript
-superscript
-italic
-italic
-italic
-footnote
-1691734	footnote
-1691736	footnote
-1691738	footnote
-1691740	footnote
-1691742	footnote
-1691744	footnote
-1691746	footnote
-1691748	footnote
-1691750	footnote
-1691753	footnote
-1691755	footnote
-1691757	footnote
-1691760	footnote
-1691762	footnote
-1691764	footnote
-1691766	footnote
-1691768	footnote
-1691770	footnote
-1691772	footnote
-1691774	footnote
-1691777	footnote
-1691779	footnote
-1691782	footnote
-1691784	footnote
-1691786	italic
-italic
-footnote
-1691791	footnote
-1691794	footnote
-1691796	footnote
-1691798	footnote
-1691800	footnote
-1691802	footnote
-1691804	footnote
-1691806	footnote
-1691808	footnote
-1691810	footnote
-1691812	footnote
-1691814	footnote
-1691816	footnote
-1691818	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-footnote
-1691833	footnote
-1691835	footnote
-1691837	footnote
-1691839	footnote
-1691841	footnote
-1691843	footnote
-1691845	footnote
-1691848	footnote
-1691851	footnote
-1691853	footnote
-1691855	footnote
-1691857	footnote
-1691861	footnote
-1691863	footnote
-1691865	footnote
-1691867	footnote
-1691869	footnote
-1691872	footnote
-1691874	footnote
-1691877	footnote
-1691879	footnote
-1691881	footnote
-1691883	footnote
-1691885	footnote
-1691888	footnote
-1691890	footnote
-1691892	footnote
-1691894	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1691932	footnote
-1691935	footnote
-1691937	footnote
-1691940	footnote
-1691942	footnote
-1691945	footnote
-1691947	footnote
-1691949	footnote
-1691951	footnote
-1691954	footnote
-1691956	footnote
-1691958	footnote
-1691960	footnote
-1691963	footnote
-1691966	footnote
-1691968	footnote
-1691970	footnote
-1691972	footnote
-1691974	footnote
-1691976	footnote
-1691979	footnote
-1691981	footnote
-1691984	footnote
-1691987	footnote
-1691989	superscript
-superscript
-italic
-superscript
-footnote
-1691996	footnote
-1691998	footnote
-1692000	footnote
-1692003	footnote
-1692005	footnote
-1692007	footnote
-1692009	footnote
-1692011	footnote
-1692013	footnote
-1692015	footnote
-1692017	footnote
-1692019	italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1692029	footnote
-1692031	footnote
-1692033	footnote
-1692035	footnote
-1692037	footnote
-1692039	footnote
-1692042	footnote
-1692044	footnote
-1692046	footnote
-1692050	footnote
-1692053	footnote
-1692056	footnote
-1692058	footnote
-1692060	footnote
-1692062	footnote
-1692064	footnote
-1692066	footnote
-1692068	footnote
-1692071	footnote
-1692073	footnote
-1692075	footnote
-1692077	footnote
-1692080	footnote
-1692082	footnote
-1692084	footnote
-1692086	footnote
-1692088	footnote
-1692090	footnote
-1692092	footnote
-1692094	footnote
-1692096	footnote
-1692098	footnote
-1692101	footnote
-1692104	footnote
-1692106	footnote
-1692108	footnote
-1692110	footnote
-1692112	footnote
-1692115	footnote
-1692117	footnote
-1692119	footnote
-1692121	footnote
-1692123	footnote
-1692125	footnote
-1692127	footnote
-1692129	footnote
-1692131	footnote
-1692133	footnote
-1692135	footnote
-1692137	footnote
-1692139	italic
-superscript
-smallcaps
-italic
-superscript
-italic
-superscript
-footnote
-1692149	footnote
-1692151	footnote
-1692153	footnote
-1692155	footnote
-1692157	footnote
-1692159	footnote
-1692161	footnote
-1692163	footnote
-1692165	italic
-italic
-footnote
-1692169	footnote
-1692172	footnote
-1692174	footnote
-1692176	footnote
-1692179	footnote
-1692182	footnote
-1692185	footnote
-1692188	footnote
-1692190	footnote
-1692192	footnote
-1692194	footnote
-1692197	footnote
-1692199	footnote
-1692202	footnote
-1692204	footnote
-1692206	footnote
-1692208	footnote
-1692210	footnote
-1692212	footnote
-1692214	footnote
-1692216	italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1692225	footnote
-1692227	footnote
-1692230	footnote
-1692232	footnote
-1692234	footnote
-1692237	footnote
-1692239	footnote
-1692241	footnote
-1692243	footnote
-1692245	footnote
-1692247	footnote
-1692249	footnote
-1692252	footnote
-1692254	footnote
-1692256	footnote
-1692258	footnote
-1692261	footnote
-1692263	footnote
-1692266	footnote
-1692269	footnote
-1692271	footnote
-1692273	footnote
-1692276	footnote
-1692278	footnote
-1692280	footnote
-1692282	footnote
-1692284	footnote
-1692286	footnote
-1692288	footnote
-1692290	footnote
-1692292	footnote
-1692295	footnote
-1692297	footnote
-1692299	footnote
-1692302	footnote
-1692304	footnote
-1692306	footnote
-1692309	superscript
-italic
+1792624	footnote
+1792627	footnote
+1792630	footnote
+1792633	footnote
+1792635	footnote
+1792638	footnote
+1792640	footnote
+1792643	smallcaps
 italic
 superscript
 italic
 bold
 footnote
-1692317	footnote
-1692319	footnote
-1692321	footnote
-1692324	footnote
-1692326	footnote
-1692328	footnote
-1692330	footnote
-1692332	footnote
-1692335	footnote
-1692338	footnote
-1692340	italic
+1792650	footnote
+1792653	footnote
+1792656	footnote
+1792659	footnote
+1792662	footnote
+1792665	footnote
+1792668	footnote
+1792671	footnote
+1792674	footnote
+1792677	footnote
+1792679	footnote
+1792681	footnote
+1792683	footnote
+1792686	footnote
+1792689	footnote
+1792692	footnote
+1792695	footnote
+1792697	footnote
+1792699	footnote
+1792703	italic
+italic
+smallcaps
+bold
+footnote
+1792710	footnote
+1792712	footnote
+1792714	footnote
+1792717	footnote
+1792720	footnote
+1792723	superscript
+italic
+superscript
+italic
+smallcaps
+bold
+footnote
+1792732	footnote
+1792735	footnote
+1792738	footnote
+1792741	footnote
+1792743	footnote
+1792746	footnote
+1792748	footnote
+1792750	footnote
+1792753	footnote
+1792755	footnote
+1792757	footnote
+1792759	footnote
+1792761	footnote
+1792763	footnote
+1792766	footnote
+1792769	italic
+bold
+footnote
+1792774	footnote
+1792777	footnote
+1792780	footnote
+1792783	footnote
+1792785	footnote
+1792788	footnote
+1792791	footnote
+1792793	footnote
+1792796	footnote
+1792799	footnote
+1792801	footnote
+1792804	footnote
+1792807	footnote
+1792809	footnote
+1792812	footnote
+1792815	footnote
+1792818	footnote
+1792821	footnote
+1792823	footnote
+1792826	superscript
+italic
+italic
+footnote
+1792832	footnote
+1792835	footnote
+1792837	footnote
+1792839	footnote
+1792844	footnote
+1792846	footnote
+1792849	footnote
+1792853	footnote
+1792856	footnote
+1792859	italic
+superscript
+italic
+smallcaps
+footnote
+1792866	footnote
+1792868	footnote
+1792870	footnote
+1792873	footnote
+1792876	footnote
+1792878	footnote
+1792880	footnote
+1792883	footnote
+1792886	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+superscript
+italic
 italic
 italic
 italic
 footnote
-1692347	footnote
-1692349	footnote
-1692352	footnote
-1692354	footnote
-1692357	superscript
+1792902	footnote
+1792904	footnote
+1792907	superscript
+italic
+superscript
+italic
+smallcaps
+superscript
+footnote
+1792916	italic
+italic
+italic
+superscript
+superscript
+italic
+italic
+superscript
+footnote
+1792927	footnote
+1792930	footnote
+1792932	footnote
+1792934	footnote
+1792936	footnote
+1792939	footnote
+1792942	footnote
+1792945	footnote
+1792948	footnote
+1792950	italic
+italic
+footnote
+1792955	footnote
+1792958	footnote
+1792960	footnote
+1792962	footnote
+1792965	footnote
+1792968	footnote
+1792971	footnote
+1792974	footnote
+1792976	footnote
+1792978	footnote
+1792980	footnote
+1792982	footnote
+1792984	superscript
+italic
 superscript
 italic
 footnote
-1692363	footnote
-1692366	footnote
-1692368	footnote
-1692371	italic
+1792990	footnote
+1792993	footnote
+1792995	footnote
+1792998	footnote
+1793000	footnote
+1793002	footnote
+1793004	footnote
+1793006	footnote
+1793008	superscript
+italic
+italic
+superscript
+italic
+footnote
+1793015	footnote
+1793018	footnote
+1793020	footnote
+1793022	footnote
+1793024	italic
+footnote
+1793027	footnote
+1793029	footnote
+1793031	footnote
+1793033	footnote
+1793035	footnote
+1793037	footnote
+1793039	footnote
+1793041	footnote
+1793044	footnote
+1793047	footnote
+1793050	footnote
+1793052	footnote
+1793055	footnote
+1793057	italic
+italic
+italic
+footnote
+1793063	footnote
+1793066	footnote
+1793068	footnote
+1793071	footnote
+1793073	footnote
+1793076	footnote
+1793078	footnote
+1793080	footnote
+1793082	footnote
+1793084	footnote
+1793086	footnote
+1793088	footnote
+1793091	footnote
+1793094	footnote
+1793096	footnote
+1793099	footnote
+1793101	footnote
+1793103	footnote
+1793105	footnote
+1793107	footnote
+1793109	footnote
+1793111	footnote
+1793113	footnote
+1793115	footnote
+1793117	footnote
+1793119	footnote
+1793121	italic
+italic
+italic
+superscript
+italic
+italic
+italic
+superscript
+italic
+footnote
+1793132	footnote
+1793134	footnote
+1793136	footnote
+1793138	footnote
+1793140	footnote
+1793142	footnote
+1793144	footnote
+1793146	footnote
+1793148	footnote
+1793150	footnote
+1793152	footnote
+1793155	footnote
+1793157	footnote
+1793159	footnote
+1793161	footnote
+1793163	footnote
+1793166	footnote
+1793169	footnote
+1793172	footnote
+1793174	footnote
+1793177	footnote
+1793180	footnote
+1793183	footnote
+1793185	footnote
+1793187	footnote
+1793189	footnote
+1793191	footnote
+1793193	footnote
+1793195	footnote
+1793197	italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793206	footnote
+1793209	footnote
+1793211	footnote
+1793213	footnote
+1793217	footnote
+1793219	footnote
+1793221	footnote
+1793223	footnote
+1793225	footnote
+1793228	footnote
+1793230	footnote
+1793232	footnote
+1793234	footnote
+1793236	footnote
+1793238	footnote
+1793240	footnote
+1793243	footnote
+1793245	italic
+italic
+italic
+italic
+italic
+footnote
+1793252	footnote
+1793254	footnote
+1793256	footnote
+1793258	footnote
+1793260	footnote
+1793263	footnote
+1793265	footnote
+1793267	footnote
+1793269	footnote
+1793272	footnote
+1793274	footnote
+1793276	footnote
+1793279	footnote
+1793282	footnote
+1793284	footnote
+1793286	footnote
+1793289	footnote
+1793292	footnote
+1793294	footnote
+1793296	footnote
+1793298	footnote
+1793300	footnote
+1793302	footnote
+1793304	footnote
+1793307	footnote
+1793310	footnote
+1793312	footnote
+1793314	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793325	footnote
+1793328	footnote
+1793330	footnote
+1793332	footnote
+1793334	footnote
+1793336	superscript
+superscript
+italic
+superscript
+superscript
+italic
+italic
+superscript
+italic
+footnote
+1793348	footnote
+1793351	footnote
+1793354	footnote
+1793357	footnote
+1793360	footnote
+1793363	footnote
+1793365	footnote
+1793368	footnote
+1793370	footnote
+1793372	footnote
+1793374	footnote
+1793376	footnote
+1793379	footnote
+1793381	footnote
+1793384	footnote
+1793386	footnote
+1793389	footnote
+1793391	footnote
+1793393	footnote
+1793396	footnote
+1793398	footnote
+1793400	footnote
+1793403	footnote
+1793405	footnote
+1793407	footnote
+1793409	footnote
+1793412	footnote
+1793415	footnote
+1793417	footnote
+1793420	footnote
+1793423	footnote
+1793426	italic
+footnote
+1793430	footnote
+1793432	footnote
+1793435	footnote
+1793437	footnote
+1793439	footnote
+1793442	footnote
+1793445	footnote
+1793448	footnote
+1793451	footnote
+1793454	footnote
+1793456	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793471	footnote
+1793474	footnote
+1793476	footnote
+1793478	footnote
+1793481	footnote
+1793483	footnote
+1793485	footnote
+1793487	italic
+footnote
+1793490	footnote
+1793493	footnote
+1793496	footnote
+1793499	footnote
+1793501	footnote
+1793504	footnote
+1793506	footnote
+1793509	footnote
+1793511	footnote
+1793514	footnote
+1793517	footnote
+1793520	footnote
+1793522	footnote
+1793524	footnote
+1793526	smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793541	footnote
+1793543	footnote
+1793545	footnote
+1793547	footnote
+1793550	footnote
+1793553	footnote
+1793555	smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793578	footnote
+1793581	footnote
+1793584	footnote
+1793586	footnote
+1793589	footnote
+1793591	footnote
+1793594	footnote
+1793597	footnote
+1793599	footnote
+1793601	superscript
+italic
+superscript
+italic
+footnote
+1793607	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793622	footnote
+1793624	footnote
+1793627	footnote
+1793630	footnote
+1793632	footnote
+1793634	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+footnote
+1793652	footnote
+1793654	footnote
+1793656	footnote
+1793658	footnote
+1793661	footnote
+1793664	footnote
+1793666	footnote
+1793668	footnote
+1793670	footnote
+1793672	footnote
+1793674	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1793689	footnote
+1793691	footnote
+1793693	footnote
+1793696	footnote
+1793699	footnote
+1793702	footnote
+1793704	footnote
+1793706	footnote
+1793709	footnote
+1793712	footnote
+1793714	footnote
+1793716	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+smallcaps
+superscript
+footnote
+1793731	footnote
+1793733	footnote
+1793736	footnote
+1793739	footnote
+1793741	footnote
+1793744	footnote
+1793747	footnote
+1793750	footnote
+1793753	footnote
+1793756	footnote
+1793759	footnote
+1793761	footnote
+1793763	footnote
+1793766	footnote
+1793768	footnote
+1793770	footnote
+1793772	footnote
+1793774	footnote
+1793776	footnote
+1793778	footnote
+1793780	footnote
+1793782	footnote
+1793785	footnote
+1793788	footnote
+1793791	footnote
+1793794	footnote
+1793796	footnote
+1793798	footnote
+1793801	footnote
+1793804	footnote
+1793807	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+footnote
+1793820	footnote
+1793822	footnote
+1793825	footnote
+1793827	footnote
+1793829	footnote
+1793831	footnote
+1793834	footnote
+1793837	footnote
+1793839	footnote
+1793842	footnote
+1793845	footnote
+1793847	footnote
+1793849	footnote
+1793852	footnote
+1793854	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+footnote
+1793875	footnote
+1793877	footnote
+1793879	footnote
+1793882	footnote
+1793884	footnote
+1793887	footnote
+1793890	footnote
+1793892	footnote
+1793894	footnote
+1793897	footnote
+1793899	footnote
+1793901	footnote
+1793903	footnote
+1793905	footnote
+1793907	footnote
+1793909	footnote
+1793911	footnote
+1793913	footnote
+1793916	footnote
+1793918	footnote
+1793920	footnote
+1793923	footnote
+1793925	footnote
+1793927	footnote
+1793929	footnote
+1793931	footnote
+1793934	footnote
+1793936	footnote
+1793938	footnote
+1793940	superscript
+italic
+superscript
+italic
+superscript
+footnote
+1793947	footnote
+1793949	footnote
+1793951	footnote
+1793953	footnote
+1793955	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+superscript
+italic
+italic
+footnote
+1793984	footnote
+1793987	footnote
+1793989	footnote
+1793991	footnote
+1793993	footnote
+1793995	footnote
+1793997	footnote
+1793999	footnote
+1794001	footnote
+1794003	footnote
+1794005	footnote
+1794007	footnote
+1794009	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+superscript
+italic
+smallcaps
+superscript
+superscript
+superscript
+italic
+italic
+italic
+footnote
+1794037	footnote
+1794039	footnote
+1794041	footnote
+1794043	footnote
+1794045	footnote
+1794047	footnote
+1794049	footnote
+1794051	footnote
+1794053	footnote
+1794056	footnote
+1794058	footnote
+1794060	footnote
+1794063	footnote
+1794065	footnote
+1794067	footnote
+1794069	footnote
+1794071	footnote
+1794073	footnote
+1794075	footnote
+1794077	footnote
+1794080	footnote
+1794082	footnote
+1794085	footnote
+1794087	footnote
+1794089	italic
+italic
+footnote
+1794094	footnote
+1794097	footnote
+1794099	footnote
+1794101	footnote
+1794103	footnote
+1794105	footnote
+1794107	footnote
+1794109	footnote
+1794111	footnote
+1794113	footnote
+1794115	footnote
+1794117	footnote
+1794119	footnote
+1794121	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+italic
+footnote
+1794136	footnote
+1794138	footnote
+1794140	footnote
+1794142	footnote
+1794144	footnote
+1794146	footnote
+1794148	footnote
+1794151	footnote
+1794154	footnote
+1794156	footnote
+1794158	footnote
+1794160	footnote
+1794164	footnote
+1794166	footnote
+1794168	footnote
+1794170	footnote
+1794172	footnote
+1794175	footnote
+1794177	footnote
+1794180	footnote
+1794182	footnote
+1794184	footnote
+1794186	footnote
+1794188	footnote
+1794191	footnote
+1794193	footnote
+1794195	footnote
+1794197	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1794235	footnote
+1794238	footnote
+1794240	footnote
+1794243	footnote
+1794245	footnote
+1794248	footnote
+1794250	footnote
+1794252	footnote
+1794254	footnote
+1794257	footnote
+1794259	footnote
+1794261	footnote
+1794263	footnote
+1794266	footnote
+1794269	footnote
+1794271	footnote
+1794273	footnote
+1794275	footnote
+1794277	footnote
+1794279	footnote
+1794282	footnote
+1794284	footnote
+1794287	footnote
+1794290	footnote
+1794292	superscript
+superscript
+italic
+superscript
+footnote
+1794299	footnote
+1794301	footnote
+1794303	footnote
+1794306	footnote
+1794308	footnote
+1794310	footnote
+1794312	footnote
+1794314	footnote
+1794316	footnote
+1794318	footnote
+1794320	footnote
+1794322	italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1794332	footnote
+1794334	footnote
+1794336	footnote
+1794338	footnote
+1794340	footnote
+1794342	footnote
+1794345	footnote
+1794347	footnote
+1794349	footnote
+1794353	footnote
+1794356	footnote
+1794359	footnote
+1794361	footnote
+1794363	footnote
+1794365	footnote
+1794367	footnote
+1794369	footnote
+1794371	footnote
+1794374	footnote
+1794376	footnote
+1794378	footnote
+1794380	footnote
+1794383	footnote
+1794385	footnote
+1794387	footnote
+1794389	footnote
+1794391	footnote
+1794393	footnote
+1794395	footnote
+1794397	footnote
+1794399	footnote
+1794401	footnote
+1794404	footnote
+1794407	footnote
+1794409	footnote
+1794411	footnote
+1794413	footnote
+1794415	footnote
+1794418	footnote
+1794420	footnote
+1794422	footnote
+1794424	footnote
+1794426	footnote
+1794428	footnote
+1794430	footnote
+1794432	footnote
+1794434	footnote
+1794436	footnote
+1794438	footnote
+1794440	footnote
+1794442	italic
+superscript
+smallcaps
+italic
+superscript
+italic
+superscript
+footnote
+1794452	footnote
+1794454	footnote
+1794456	footnote
+1794458	footnote
+1794460	footnote
+1794462	footnote
+1794464	footnote
+1794466	footnote
+1794468	italic
+italic
+footnote
+1794472	footnote
+1794475	footnote
+1794477	footnote
+1794479	footnote
+1794482	footnote
+1794485	footnote
+1794488	footnote
+1794491	footnote
+1794493	footnote
+1794495	footnote
+1794497	footnote
+1794500	footnote
+1794502	footnote
+1794505	footnote
+1794507	footnote
+1794509	footnote
+1794511	footnote
+1794513	footnote
+1794515	footnote
+1794517	footnote
+1794519	italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1794528	footnote
+1794530	footnote
+1794533	footnote
+1794535	footnote
+1794537	footnote
+1794540	footnote
+1794542	footnote
+1794544	footnote
+1794546	footnote
+1794548	footnote
+1794550	footnote
+1794552	footnote
+1794555	footnote
+1794557	footnote
+1794559	footnote
+1794561	footnote
+1794564	footnote
+1794566	footnote
+1794569	footnote
+1794572	footnote
+1794574	footnote
+1794576	footnote
+1794579	footnote
+1794581	footnote
+1794583	footnote
+1794585	footnote
+1794587	footnote
+1794589	footnote
+1794591	footnote
+1794593	footnote
+1794595	footnote
+1794598	footnote
+1794600	footnote
+1794602	footnote
+1794605	footnote
+1794607	footnote
+1794609	footnote
+1794612	superscript
+italic
+italic
+superscript
+italic
+bold
+footnote
+1794620	footnote
+1794622	footnote
+1794624	footnote
+1794627	footnote
+1794629	footnote
+1794631	footnote
+1794633	footnote
+1794635	footnote
+1794638	footnote
+1794641	footnote
+1794643	italic
+italic
+italic
+italic
+footnote
+1794650	footnote
+1794652	footnote
+1794655	footnote
+1794657	footnote
+1794660	superscript
+superscript
+italic
+footnote
+1794666	footnote
+1794669	footnote
+1794671	footnote
+1794674	italic
 italic
 smallcaps
 smallcaps
@@ -13961,35 +13961,35 @@ italic
 italic
 italic
 footnote
-1692393	footnote
-1692397	footnote
-1692399	footnote
-1692401	footnote
-1692404	footnote
-1692407	footnote
-1692409	footnote
-1692411	footnote
-1692414	footnote
-1692416	footnote
-1692418	footnote
-1692421	footnote
-1692423	superscript
+1794696	footnote
+1794700	footnote
+1794702	footnote
+1794704	footnote
+1794707	footnote
+1794710	footnote
+1794712	footnote
+1794714	footnote
+1794717	footnote
+1794719	footnote
+1794721	footnote
+1794724	footnote
+1794726	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1692431	footnote
-1692434	footnote
-1692437	footnote
-1692440	footnote
-1692442	footnote
-1692444	footnote
-1692446	footnote
-1692449	footnote
-1692452	footnote
-1692454	italic
+1794734	footnote
+1794737	footnote
+1794740	footnote
+1794743	footnote
+1794745	footnote
+1794747	footnote
+1794749	footnote
+1794752	footnote
+1794755	footnote
+1794757	italic
 italic
 italic
 italic
@@ -14006,123 +14006,123 @@ smallcaps
 italic
 smallcaps
 footnote
-1692472	footnote
-1692474	footnote
-1692477	footnote
-1692479	footnote
-1692481	footnote
-1692484	footnote
-1692486	footnote
-1692488	footnote
-1692490	footnote
-1692492	footnote
-1692494	footnote
-1692497	footnote
-1692499	footnote
-1692501	footnote
-1692503	footnote
-1692505	footnote
-1692507	smallcaps
+1794775	footnote
+1794777	footnote
+1794780	footnote
+1794782	footnote
+1794784	footnote
+1794787	footnote
+1794789	footnote
+1794791	footnote
+1794793	footnote
+1794795	footnote
+1794797	footnote
+1794800	footnote
+1794802	footnote
+1794804	footnote
+1794806	footnote
+1794808	footnote
+1794810	smallcaps
 italic
 italic
 footnote
-1692512	footnote
-1692514	footnote
-1692516	footnote
-1692518	footnote
-1692520	footnote
-1692522	footnote
-1692524	footnote
-1692526	footnote
-1692528	footnote
-1692530	footnote
-1692532	footnote
-1692534	footnote
-1692536	footnote
-1692539	footnote
-1692542	footnote
-1692544	footnote
-1692546	footnote
-1692548	footnote
-1692551	footnote
-1692554	footnote
-1692556	footnote
-1692558	footnote
-1692562	italic
-italic
-italic
-italic
-italic
-footnote
-1692569	footnote
-1692571	footnote
-1692573	footnote
-1692575	footnote
-1692578	footnote
-1692580	footnote
-1692582	footnote
-1692584	footnote
-1692586	footnote
-1692589	footnote
-1692592	footnote
-1692594	footnote
-1692597	footnote
-1692599	footnote
-1692601	footnote
-1692604	footnote
-1692606	footnote
-1692608	footnote
-1692610	footnote
-1692612	footnote
-1692614	footnote
-1692617	italic
-italic
-footnote
-1692621	footnote
-1692624	footnote
-1692627	footnote
-1692630	footnote
-1692632	footnote
-1692634	footnote
-1692636	footnote
-1692639	footnote
-1692642	footnote
-1692644	footnote
-1692646	footnote
-1692648	footnote
-1692650	footnote
-1692652	footnote
-1692655	footnote
-1692657	footnote
-1692659	footnote
-1692661	footnote
-1692663	footnote
-1692666	footnote
-1692668	footnote
-1692671	footnote
-1692673	footnote
-1692675	italic
-italic
-italic
-italic
+1794815	footnote
+1794817	footnote
+1794819	footnote
+1794821	footnote
+1794823	footnote
+1794825	footnote
+1794827	footnote
+1794829	footnote
+1794831	footnote
+1794833	footnote
+1794835	footnote
+1794837	footnote
+1794839	footnote
+1794842	footnote
+1794845	footnote
+1794847	footnote
+1794849	footnote
+1794851	footnote
+1794854	footnote
+1794857	footnote
+1794859	footnote
+1794861	footnote
+1794865	italic
 italic
 italic
 italic
 italic
 footnote
-1692685	footnote
-1692687	footnote
-1692690	footnote
-1692693	footnote
-1692696	footnote
-1692698	footnote
-1692700	footnote
-1692702	footnote
-1692704	footnote
-1692707	footnote
-1692710	footnote
-1692712	footnote
-1692715	superscript
+1794872	footnote
+1794874	footnote
+1794876	footnote
+1794878	footnote
+1794881	footnote
+1794883	footnote
+1794885	footnote
+1794887	footnote
+1794889	footnote
+1794892	footnote
+1794895	footnote
+1794897	footnote
+1794900	footnote
+1794902	footnote
+1794904	footnote
+1794907	footnote
+1794909	footnote
+1794911	footnote
+1794913	footnote
+1794915	footnote
+1794917	footnote
+1794920	italic
+italic
+footnote
+1794924	footnote
+1794927	footnote
+1794930	footnote
+1794933	footnote
+1794935	footnote
+1794937	footnote
+1794939	footnote
+1794942	footnote
+1794945	footnote
+1794947	footnote
+1794949	footnote
+1794951	footnote
+1794953	footnote
+1794955	footnote
+1794958	footnote
+1794960	footnote
+1794962	footnote
+1794964	footnote
+1794966	footnote
+1794969	footnote
+1794971	footnote
+1794974	footnote
+1794976	footnote
+1794978	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1794988	footnote
+1794990	footnote
+1794993	footnote
+1794996	footnote
+1794999	footnote
+1795001	footnote
+1795003	footnote
+1795005	footnote
+1795007	footnote
+1795010	footnote
+1795013	footnote
+1795015	footnote
+1795018	superscript
 italic
 italic
 italic
@@ -14134,258 +14134,258 @@ superscript
 italic
 italic
 footnote
-1692728	footnote
-1692730	footnote
-1692732	footnote
-1692734	footnote
-1692736	footnote
-1692738	footnote
-1692741	footnote
-1692743	footnote
-1692746	footnote
-1692748	footnote
-1692750	footnote
-1692753	footnote
-1692755	footnote
-1692757	footnote
-1692760	footnote
-1692762	footnote
-1692764	italic
+1795031	footnote
+1795033	footnote
+1795035	footnote
+1795037	footnote
+1795039	footnote
+1795041	footnote
+1795044	footnote
+1795046	footnote
+1795049	footnote
+1795051	footnote
+1795053	footnote
+1795056	footnote
+1795058	footnote
+1795060	footnote
+1795063	footnote
+1795065	footnote
+1795067	italic
 italic
 superscript
 footnote
-1692769	footnote
-1692771	footnote
-1692773	footnote
-1692775	footnote
-1692777	footnote
-1692780	footnote
-1692782	footnote
-1692784	footnote
-1692786	footnote
-1692788	footnote
-1692790	footnote
-1692792	footnote
-1692794	footnote
-1692796	footnote
-1692798	footnote
-1692801	footnote
-1692803	footnote
-1692805	footnote
-1692808	footnote
-1692810	footnote
-1692812	footnote
-1692814	footnote
-1692816	footnote
-1692818	footnote
-1692820	footnote
-1692822	footnote
-1692824	footnote
-1692827	footnote
-1692830	footnote
-1692832	footnote
-1692834	footnote
-1692836	footnote
-1692838	footnote
-1692840	footnote
-1692842	footnote
-1692844	footnote
-1692846	footnote
-1692848	footnote
-1692850	footnote
-1692852	footnote
-1692855	footnote
-1692858	footnote
-1692861	footnote
-1692863	footnote
-1692866	footnote
-1692868	footnote
-1692870	italic
+1795072	footnote
+1795074	footnote
+1795076	footnote
+1795078	footnote
+1795080	footnote
+1795083	footnote
+1795085	footnote
+1795087	footnote
+1795089	footnote
+1795091	footnote
+1795093	footnote
+1795095	footnote
+1795097	footnote
+1795099	footnote
+1795101	footnote
+1795104	footnote
+1795106	footnote
+1795108	footnote
+1795111	footnote
+1795113	footnote
+1795115	footnote
+1795117	footnote
+1795119	footnote
+1795121	footnote
+1795123	footnote
+1795125	footnote
+1795127	footnote
+1795130	footnote
+1795133	footnote
+1795135	footnote
+1795137	footnote
+1795139	footnote
+1795141	footnote
+1795143	footnote
+1795145	footnote
+1795147	footnote
+1795149	footnote
+1795151	footnote
+1795153	footnote
+1795155	footnote
+1795158	footnote
+1795161	footnote
+1795164	footnote
+1795166	footnote
+1795169	footnote
+1795171	footnote
+1795173	italic
 italic
 footnote
-1692874	footnote
-1692876	footnote
-1692878	footnote
-1692881	footnote
-1692883	footnote
-1692885	footnote
-1692888	footnote
-1692891	footnote
-1692893	footnote
-1692895	footnote
-1692897	superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1692905	footnote
-1692908	footnote
-1692910	footnote
-1692913	italic
-italic
-superscript
-footnote
-1692919	footnote
-1692921	footnote
-1692924	footnote
-1692927	footnote
-1692930	footnote
-1692933	footnote
-1692935	footnote
-1692937	footnote
-1692939	footnote
-1692941	superscript
+1795177	footnote
+1795179	footnote
+1795181	footnote
+1795184	footnote
+1795186	footnote
+1795188	footnote
+1795191	footnote
+1795194	footnote
+1795196	footnote
+1795198	footnote
+1795200	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1692949	footnote
-1692951	footnote
-1692953	footnote
-1692956	footnote
-1692959	footnote
-1692962	footnote
-1692964	footnote
-1692966	footnote
-1692969	footnote
-1692971	footnote
-1692973	footnote
-1692976	footnote
-1692978	footnote
-1692980	footnote
-1692982	superscript
-superscript
+1795208	footnote
+1795211	footnote
+1795213	footnote
+1795216	italic
 italic
 superscript
 footnote
-1692989	footnote
-1692992	footnote
-1692996	footnote
-1692999	footnote
-1693001	footnote
-1693004	footnote
-1693007	footnote
-1693009	footnote
-1693011	italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1693021	footnote
-1693023	footnote
-1693026	footnote
-1693028	footnote
-1693031	footnote
-1693034	footnote
-1693037	footnote
-1693040	footnote
-1693043	footnote
-1693045	footnote
-1693048	footnote
-1693051	footnote
-1693054	footnote
-1693056	superscript
-superscript
-italic
-footnote
-1693061	footnote
-1693063	footnote
-1693065	footnote
-1693068	footnote
-1693070	footnote
-1693072	footnote
-1693075	footnote
-1693077	footnote
-1693080	footnote
-1693082	italic
-italic
-footnote
-1693087	footnote
-1693089	footnote
-1693093	footnote
-1693096	footnote
-1693099	footnote
-1693101	footnote
-1693104	footnote
-1693107	superscript
-italic
+1795222	footnote
+1795224	footnote
+1795227	footnote
+1795230	footnote
+1795233	footnote
+1795236	footnote
+1795238	footnote
+1795240	footnote
+1795242	footnote
+1795244	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1693117	footnote
-1693119	footnote
-1693122	footnote
-1693124	footnote
-1693127	footnote
-1693130	footnote
+1795252	footnote
+1795254	footnote
+1795256	footnote
+1795259	footnote
+1795262	footnote
+1795265	footnote
+1795267	footnote
+1795269	footnote
+1795272	footnote
+1795274	footnote
+1795276	footnote
+1795279	footnote
+1795281	footnote
+1795283	footnote
+1795285	superscript
+superscript
+italic
+superscript
 footnote
-1693133	footnote
-1693135	footnote
-1693137	footnote
-1693139	footnote
-1693141	footnote
-1693144	footnote
-1693146	footnote
-1693148	footnote
-1693150	footnote
-1693152	footnote
-1693154	footnote
-1693156	footnote
-1693159	footnote
-1693161	footnote
-1693163	footnote
-1693166	footnote
-1693168	footnote
-1693170	footnote
-1693172	footnote
-1693174	footnote
-1693176	footnote
-1693179	footnote
-1693182	footnote
-1693186	footnote
-1693188	footnote
-1693190	footnote
-1693193	footnote
-1693196	footnote
-1693199	footnote
-1693201	footnote
-1693203	footnote
-1693205	footnote
-1693208	footnote
-1693210	footnote
-1693212	footnote
-1693214	italic
+1795292	footnote
+1795295	footnote
+1795299	footnote
+1795302	footnote
+1795304	footnote
+1795307	footnote
+1795310	footnote
+1795312	footnote
+1795314	italic
+italic
+italic
+italic
+italic
 italic
 italic
 footnote
-1693219	footnote
-1693222	footnote
-1693225	footnote
-1693228	footnote
-1693231	footnote
-1693233	footnote
-1693236	footnote
-1693239	footnote
-1693242	footnote
-1693245	footnote
-1693247	footnote
-1693249	superscript
+1795324	footnote
+1795326	footnote
+1795329	footnote
+1795331	footnote
+1795334	footnote
+1795337	footnote
+1795340	footnote
+1795343	footnote
+1795346	footnote
+1795348	footnote
+1795351	footnote
+1795354	footnote
+1795357	footnote
+1795359	superscript
 superscript
 italic
 footnote
-1693255	footnote
-1693257	footnote
-1693260	italic
+1795364	footnote
+1795366	footnote
+1795368	footnote
+1795371	footnote
+1795373	footnote
+1795375	footnote
+1795378	footnote
+1795380	footnote
+1795383	footnote
+1795385	italic
+italic
+footnote
+1795390	footnote
+1795392	footnote
+1795396	footnote
+1795399	footnote
+1795402	footnote
+1795404	footnote
+1795407	footnote
+1795410	superscript
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1795420	footnote
+1795422	footnote
+1795425	footnote
+1795427	footnote
+1795430	footnote
+1795433	footnote
+footnote
+1795436	footnote
+1795438	footnote
+1795440	footnote
+1795442	footnote
+1795444	footnote
+1795447	footnote
+1795449	footnote
+1795451	footnote
+1795453	footnote
+1795455	footnote
+1795457	footnote
+1795459	footnote
+1795462	footnote
+1795464	footnote
+1795466	footnote
+1795469	footnote
+1795471	footnote
+1795473	footnote
+1795475	footnote
+1795477	footnote
+1795479	footnote
+1795482	footnote
+1795485	footnote
+1795489	footnote
+1795491	footnote
+1795493	footnote
+1795496	footnote
+1795499	footnote
+1795502	footnote
+1795504	footnote
+1795506	footnote
+1795508	footnote
+1795511	footnote
+1795513	footnote
+1795515	footnote
+1795517	italic
+italic
+italic
+footnote
+1795522	footnote
+1795525	footnote
+1795528	footnote
+1795531	footnote
+1795534	footnote
+1795536	footnote
+1795539	footnote
+1795542	footnote
+1795545	footnote
+1795548	footnote
+1795550	footnote
+1795552	superscript
+superscript
+italic
+footnote
+1795558	footnote
+1795560	footnote
+1795563	italic
 italic
 italic
 italic
@@ -14400,127 +14400,127 @@ italic
 italic
 italic
 footnote
-1693276	footnote
-1693278	footnote
-1693280	footnote
-1693283	footnote
-1693286	footnote
-1693288	footnote
-1693290	footnote
-1693292	footnote
-1693294	footnote
-1693297	footnote
-1693299	footnote
-1693301	footnote
-1693303	footnote
-1693305	superscript
+1795579	footnote
+1795581	footnote
+1795583	footnote
+1795586	footnote
+1795589	footnote
+1795591	footnote
+1795593	footnote
+1795595	footnote
+1795597	footnote
+1795600	footnote
+1795602	footnote
+1795604	footnote
+1795606	footnote
+1795608	superscript
 italic
 superscript
 italic
 footnote
-1693312	footnote
-1693315	footnote
-1693317	footnote
-1693320	footnote
-1693322	footnote
-1693324	footnote
-1693326	footnote
-1693328	footnote
-1693330	smallcaps
+1795615	footnote
+1795618	footnote
+1795620	footnote
+1795623	footnote
+1795625	footnote
+1795627	footnote
+1795629	footnote
+1795631	footnote
+1795633	smallcaps
 smallcaps
 italic
 italic
 footnote
-1693336	footnote
-1693338	footnote
-1693340	footnote
-1693342	footnote
-1693344	footnote
-1693347	footnote
-1693349	footnote
-1693351	footnote
-1693356	footnote
-1693358	superscript
+1795639	footnote
+1795641	footnote
+1795643	footnote
+1795645	footnote
+1795647	footnote
+1795650	footnote
+1795652	footnote
+1795654	footnote
+1795659	footnote
+1795661	superscript
 italic
 superscript
 italic
 footnote
-1693365	footnote
-1693367	footnote
-1693370	footnote
-1693372	footnote
-1693375	footnote
-1693377	footnote
-1693379	footnote
-1693381	footnote
-1693384	footnote
-1693386	footnote
-1693389	footnote
-1693391	footnote
-1693394	footnote
-1693397	footnote
-1693399	footnote
-1693402	footnote
-1693404	footnote
-1693406	italic
+1795668	footnote
+1795670	footnote
+1795673	footnote
+1795675	footnote
+1795678	footnote
+1795680	footnote
+1795682	footnote
+1795684	footnote
+1795687	footnote
+1795689	footnote
+1795692	footnote
+1795694	footnote
+1795697	footnote
+1795700	footnote
+1795702	footnote
+1795705	footnote
+1795707	footnote
+1795709	italic
 italic
 footnote
-1693410	footnote
-1693412	footnote
-1693414	footnote
-1693416	footnote
-1693419	footnote
-1693421	footnote
-1693424	footnote
-1693426	footnote
-1693429	footnote
-1693431	superscript
+1795713	footnote
+1795715	footnote
+1795717	footnote
+1795719	footnote
+1795722	footnote
+1795724	footnote
+1795727	footnote
+1795729	footnote
+1795732	footnote
+1795734	superscript
 superscript
 italic
 footnote
-1693436	footnote
-1693438	footnote
-1693440	footnote
-1693442	footnote
-1693445	footnote
-1693448	footnote
-1693450	footnote
-1693452	footnote
-1693454	footnote
-1693456	italic
+1795739	footnote
+1795741	footnote
+1795743	footnote
+1795745	footnote
+1795748	footnote
+1795751	footnote
+1795753	footnote
+1795755	footnote
+1795757	footnote
+1795759	italic
 italic
 italic
 footnote
-1693462	footnote
-1693465	footnote
-1693467	footnote
-1693469	footnote
-1693473	footnote
-1693475	footnote
-1693477	footnote
-1693479	footnote
-1693481	footnote
-1693484	footnote
-1693486	footnote
-1693489	footnote
-1693491	italic
+1795765	footnote
+1795768	footnote
+1795770	footnote
+1795772	footnote
+1795776	footnote
+1795778	footnote
+1795780	footnote
+1795782	footnote
+1795784	footnote
+1795787	footnote
+1795789	footnote
+1795792	footnote
+1795794	italic
 italic
 footnote
-1693496	footnote
-1693499	footnote
-1693501	footnote
-1693503	footnote
-1693506	footnote
-1693509	footnote
-1693512	footnote
-1693515	footnote
-1693517	footnote
-1693520	footnote
-1693522	footnote
-1693525	footnote
-1693527	footnote
-1693530	footnote
-1693532	italic
+1795799	footnote
+1795802	footnote
+1795804	footnote
+1795806	footnote
+1795809	footnote
+1795812	footnote
+1795815	footnote
+1795818	footnote
+1795820	footnote
+1795823	footnote
+1795825	footnote
+1795828	footnote
+1795830	footnote
+1795833	footnote
+1795835	italic
 italic
 italic
 italic
@@ -14537,29 +14537,29 @@ italic
 italic
 italic
 footnote
-1693550	footnote
-1693552	footnote
-1693554	footnote
-1693556	footnote
-1693558	footnote
-1693560	footnote
-1693562	footnote
-1693564	footnote
-1693566	footnote
-1693568	footnote
-1693570	footnote
-1693573	footnote
-1693576	footnote
-1693578	footnote
-1693582	superscript
+1795853	footnote
+1795855	footnote
+1795857	footnote
+1795859	footnote
+1795861	footnote
+1795863	footnote
+1795865	footnote
+1795867	footnote
+1795869	footnote
+1795871	footnote
+1795873	footnote
+1795876	footnote
+1795879	footnote
+1795881	footnote
+1795885	superscript
 superscript
 italic
 footnote
-1693588	footnote
-1693591	footnote
-1693593	footnote
-1693596	footnote
-1693598	italic
+1795891	footnote
+1795894	footnote
+1795896	footnote
+1795899	footnote
+1795901	italic
 italic
 italic
 italic
@@ -14572,21 +14572,21 @@ italic
 italic
 italic
 footnote
-1693612	footnote
-1693614	footnote
-1693616	footnote
-1693618	footnote
-1693620	footnote
-1693622	footnote
-1693625	footnote
-1693627	footnote
-1693629	footnote
-1693632	footnote
-1693634	footnote
-1693636	footnote
-1693638	footnote
-1693640	footnote
-1693642	superscript
+1795915	footnote
+1795917	footnote
+1795919	footnote
+1795921	footnote
+1795923	footnote
+1795925	footnote
+1795928	footnote
+1795930	footnote
+1795932	footnote
+1795935	footnote
+1795937	footnote
+1795939	footnote
+1795941	footnote
+1795943	footnote
+1795945	superscript
 italic
 superscript
 italic
@@ -14596,298 +14596,135 @@ italic
 superscript
 superscript
 footnote
-1693654	footnote
-1693656	footnote
-1693659	footnote
-1693661	footnote
-1693664	footnote
-1693667	footnote
-1693670	footnote
-1693674	footnote
-1693676	footnote
-1693678	footnote
-1693680	footnote
-1693682	footnote
-1693684	footnote
-1693686	footnote
-1693688	footnote
-1693690	footnote
-1693692	footnote
-1693695	footnote
-1693697	footnote
+1795957	footnote
+1795959	footnote
+1795962	footnote
+1795964	footnote
+1795967	footnote
+1795970	footnote
+1795973	footnote
+1795977	footnote
+1795979	footnote
+1795981	footnote
+1795983	footnote
+1795985	footnote
+1795987	footnote
+1795989	footnote
+1795991	footnote
+1795993	footnote
+1795995	footnote
+1795998	footnote
+1796000	footnote
 footnote
 footnote
 footnote
-1693702	footnote
-1693704	footnote
-1693706	italic
+1796005	footnote
+1796007	footnote
+1796009	italic
 italic
 italic
 italic
 footnote
-1693713	footnote
-1693715	footnote
-1693718	footnote
-1693720	footnote
-1693723	footnote
-1693725	footnote
-1693728	footnote
-1693731	footnote
-1693733	italic
+1796016	footnote
+1796018	footnote
+1796021	footnote
+1796023	footnote
+1796026	footnote
+1796028	footnote
+1796031	footnote
+1796034	footnote
+1796036	italic
 italic
 italic
 footnote
-1693738	footnote
-1693740	footnote
-1693742	footnote
-1693745	footnote
-1693748	footnote
-1693750	superscript
+1796041	footnote
+1796043	footnote
+1796045	footnote
+1796048	footnote
+1796051	footnote
+1796053	superscript
 smallcaps
 italic
 italic
 italic
 superscript
 footnote
-1693758	footnote
-1693760	footnote
-1693763	footnote
-1693765	footnote
-1693768	footnote
-1693770	footnote
-1693772	footnote
-1693774	footnote
-1693776	footnote
-1693778	footnote
-1693780	footnote
-1693782	footnote
-1693785	footnote
-1693787	footnote
-1693789	footnote
-1693791	italic
+1796061	footnote
+1796063	footnote
+1796066	footnote
+1796068	footnote
+1796071	footnote
+1796073	footnote
+1796075	footnote
+1796077	footnote
+1796079	footnote
+1796081	footnote
+1796083	footnote
+1796085	footnote
+1796088	footnote
+1796090	footnote
+1796092	footnote
+1796094	italic
 italic
 footnote
-1693795	footnote
-1693797	footnote
-1693799	footnote
-1693801	footnote
-1693804	footnote
-1693806	footnote
-1693809	footnote
-1693811	footnote
-1693815	footnote
-1693818	footnote
-1693821	footnote
-1693824	footnote
-1693826	footnote
-1693829	footnote
-1693831	superscript
+1796098	footnote
+1796100	footnote
+1796102	footnote
+1796104	footnote
+1796107	footnote
+1796109	footnote
+1796112	footnote
+1796114	footnote
+1796118	footnote
+1796121	footnote
+1796124	footnote
+1796127	footnote
+1796129	footnote
+1796132	footnote
+1796134	superscript
 superscript
 italic
 footnote
-1693837	footnote
-1693839	footnote
-1693841	footnote
-1693844	footnote
-1693847	footnote
-1693850	footnote
-1693853	footnote
-1693855	footnote
-1693857	italic
+1796140	footnote
+1796142	footnote
+1796144	footnote
+1796147	footnote
+1796150	footnote
+1796153	footnote
+1796156	footnote
+1796158	footnote
+1796160	italic
 footnote
-1693860	footnote
-1693862	footnote
-1693865	footnote
-1693867	superscript
+1796163	footnote
+1796165	footnote
+1796168	footnote
+1796170	superscript
 italic
 superscript
 footnote
-1693872	footnote
-1693875	footnote
-1693877	footnote
-1693880	footnote
-1693883	footnote
-1693885	footnote
-1693887	footnote
-1693890	footnote
-1693893	footnote
-1693896	footnote
-1693899	footnote
-1693902	footnote
-1693906	footnote
-1693910	footnote
-1693912	footnote
-1693914	footnote
-1693916	italic
+1796175	footnote
+1796178	footnote
+1796180	footnote
+1796183	footnote
+1796186	footnote
+1796188	footnote
+1796190	footnote
+1796193	footnote
+1796196	footnote
+1796199	footnote
+1796202	footnote
+1796205	footnote
+1796209	footnote
+1796213	footnote
+1796215	footnote
+1796217	footnote
+1796219	italic
 italic
 footnote
-1693920	footnote
-1693923	italic
+1796223	footnote
+1796226	italic
 italic
 superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-footnote
-1693939	footnote
-1693941	footnote
-1693944	footnote
-1693947	superscript
-italic
-superscript
-italic
-footnote
-1693953	footnote
-1693956	footnote
-1693959	footnote
-1693965	footnote
-1693967	footnote
-1693969	footnote
-1693971	footnote
-1693973	footnote
-1693975	footnote
-1693978	footnote
-1693980	italic
-footnote
-1693983	footnote
-1693986	footnote
-1693988	footnote
-1693990	footnote
-1693992	footnote
-1693995	footnote
-1693998	footnote
-1694001	italic
-superscript
-italic
-superscript
-superscript
-italic
-italic
-superscript
-italic
-footnote
-1694013	footnote
-1694016	footnote
-1694019	footnote
-1694021	footnote
-1694024	footnote
-1694027	footnote
-1694029	footnote
-1694032	footnote
-1694036	footnote
-1694040	footnote
-1694043	footnote
-1694045	footnote
-1694048	footnote
-1694050	footnote
-1694053	footnote
-1694056	footnote
-1694059	footnote
-1694062	footnote
-1694065	footnote
-1694068	footnote
-1694070	footnote
-1694072	footnote
-1694074	footnote
-1694077	footnote
-1694079	footnote
-1694081	footnote
-1694084	footnote
-1694086	footnote
-1694089	footnote
-1694092	footnote
-1694094	footnote
-1694096	footnote
-1694098	footnote
-1694101	italic
-footnote
-1694104	footnote
-1694107	footnote
-1694110	footnote
-1694113	footnote
-1694115	footnote
-1694118	footnote
-1694123	footnote
-1694126	footnote
-1694129	footnote
-1694131	footnote
-1694133	footnote
-1694136	footnote
-1694138	footnote
-1694140	smallcaps
-italic
-italic
-italic
-footnote
-1694148	footnote
-1694150	footnote
-1694154	footnote
-1694157	footnote
-1694159	footnote
-1694162	footnote
-1694164	footnote
-1694167	footnote
-1694170	footnote
-1694173	footnote
-1694175	footnote
-1694177	footnote
-1694180	footnote
-1694183	footnote
-1694185	footnote
-1694188	footnote
-1694191	footnote
-1694194	footnote
-1694197	footnote
-1694199	footnote
-1694202	footnote
-1694205	footnote
-1694207	italic
-italic
-footnote
-1694211	footnote
-1694214	footnote
-1694217	footnote
-1694219	italic
-italic
-footnote
-1694223	footnote
-1694226	footnote
-1694228	footnote
-1694231	footnote
-1694234	footnote
-1694237	footnote
-1694240	footnote
-1694243	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1694257	footnote
-1694260	footnote
-1694262	footnote
-1694265	footnote
-1694267	footnote
-1694271	footnote
-1694273	italic
-italic
-footnote
-1694277	superscript
-italic
 italic
 italic
 italic
@@ -14899,239 +14736,402 @@ italic
 italic
 superscript
 italic
-superscript
-italic
-italic
 footnote
-1694295	footnote
-1694298	footnote
-1694300	footnote
-1694302	footnote
-1694305	superscript
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1694317	footnote
-1694319	footnote
-1694321	footnote
-1694324	footnote
-1694326	footnote
-1694328	footnote
-1694331	footnote
-1694333	footnote
-1694335	footnote
-1694338	italic
-footnote
-1694342	footnote
-1694345	footnote
-1694348	footnote
-1694351	footnote
-1694353	footnote
-1694355	superscript
-italic
-superscript
-italic
-italic
-superscript
-footnote
-1694363	footnote
-1694366	footnote
-1694369	footnote
-1694371	footnote
-1694374	footnote
-1694376	footnote
-1694379	footnote
-1694382	footnote
-1694384	footnote
-1694387	footnote
-1694389	footnote
-1694391	footnote
-1694393	footnote
-1694395	italic
-italic
-footnote
-1694400	footnote
-1694403	footnote
-1694406	footnote
-1694408	superscript
+1796242	footnote
+1796244	footnote
+1796247	footnote
+1796250	superscript
 italic
 superscript
 italic
 footnote
-1694415	footnote
-1694418	footnote
-1694421	footnote
-1694425	footnote
-1694428	footnote
-1694431	footnote
-1694434	footnote
-1694437	footnote
-1694439	italic
+1796256	footnote
+1796259	footnote
+1796262	footnote
+1796268	footnote
+1796270	footnote
+1796272	footnote
+1796274	footnote
+1796276	footnote
+1796278	footnote
+1796281	footnote
+1796283	italic
+footnote
+1796286	footnote
+1796289	footnote
+1796291	footnote
+1796293	footnote
+1796295	footnote
+1796298	footnote
+1796301	footnote
+1796304	italic
+superscript
+italic
+superscript
+superscript
+italic
+italic
+superscript
+italic
+footnote
+1796316	footnote
+1796319	footnote
+1796322	footnote
+1796324	footnote
+1796327	footnote
+1796330	footnote
+1796332	footnote
+1796335	footnote
+1796339	footnote
+1796343	footnote
+1796346	footnote
+1796348	footnote
+1796351	footnote
+1796353	footnote
+1796356	footnote
+1796359	footnote
+1796362	footnote
+1796365	footnote
+1796368	footnote
+1796371	footnote
+1796373	footnote
+1796375	footnote
+1796377	footnote
+1796380	footnote
+1796382	footnote
+1796384	footnote
+1796387	footnote
+1796389	footnote
+1796392	footnote
+1796395	footnote
+1796397	footnote
+1796399	footnote
+1796401	footnote
+1796404	italic
+footnote
+1796407	footnote
+1796410	footnote
+1796413	footnote
+1796416	footnote
+1796418	footnote
+1796421	footnote
+1796426	footnote
+1796429	footnote
+1796432	footnote
+1796434	footnote
+1796436	footnote
+1796439	footnote
+1796441	footnote
+1796443	smallcaps
+italic
 italic
 italic
 footnote
-1694445	footnote
-1694448	footnote
-1694450	footnote
-1694452	superscript
+1796451	footnote
+1796453	footnote
+1796457	footnote
+1796460	footnote
+1796462	footnote
+1796465	footnote
+1796467	footnote
+1796470	footnote
+1796473	footnote
+1796476	footnote
+1796478	footnote
+1796480	footnote
+1796483	footnote
+1796486	footnote
+1796488	footnote
+1796491	footnote
+1796494	footnote
+1796497	footnote
+1796500	footnote
+1796502	footnote
+1796505	footnote
+1796508	footnote
+1796510	italic
+italic
+footnote
+1796514	footnote
+1796517	footnote
+1796520	footnote
+1796522	italic
+italic
+footnote
+1796526	footnote
+1796529	footnote
+1796531	footnote
+1796534	footnote
+1796537	footnote
+1796540	footnote
+1796543	footnote
+1796546	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1796560	footnote
+1796563	footnote
+1796565	footnote
+1796568	footnote
+1796570	footnote
+1796574	footnote
+1796576	italic
+italic
+footnote
+1796580	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1796598	footnote
+1796601	footnote
+1796603	footnote
+1796605	footnote
+1796608	superscript
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1796620	footnote
+1796622	footnote
+1796624	footnote
+1796627	footnote
+1796629	footnote
+1796631	footnote
+1796634	footnote
+1796636	footnote
+1796638	footnote
+1796641	italic
+footnote
+1796645	footnote
+1796648	footnote
+1796651	footnote
+1796654	footnote
+1796656	footnote
+1796658	superscript
+italic
+superscript
+italic
+italic
+superscript
+footnote
+1796666	footnote
+1796669	footnote
+1796672	footnote
+1796674	footnote
+1796677	footnote
+1796679	footnote
+1796682	footnote
+1796685	footnote
+1796687	footnote
+1796690	footnote
+1796692	footnote
+1796694	footnote
+1796696	footnote
+1796698	italic
+italic
+footnote
+1796703	footnote
+1796706	footnote
+1796709	footnote
+1796711	superscript
+italic
+superscript
+italic
+footnote
+1796718	footnote
+1796721	footnote
+1796724	footnote
+1796728	footnote
+1796731	footnote
+1796734	footnote
+1796737	footnote
+1796740	footnote
+1796742	italic
+italic
+italic
+footnote
+1796748	footnote
+1796751	footnote
+1796753	footnote
+1796755	superscript
 italic
 superscript
 italic
 smallcaps
 smallcaps
 footnote
-1694460	footnote
-1694462	footnote
-1694464	footnote
-1694466	footnote
-1694468	footnote
-1694471	footnote
-1694473	footnote
-1694475	footnote
-1694478	footnote
-1694480	footnote
-1694482	italic
+1796763	footnote
+1796765	footnote
+1796767	footnote
+1796769	footnote
+1796771	footnote
+1796774	footnote
+1796776	footnote
+1796778	footnote
+1796781	footnote
+1796783	footnote
+1796785	italic
 smallcaps
 superscript
 footnote
-1694488	footnote
-1694491	footnote
-1694495	footnote
-1694498	footnote
-1694501	footnote
-1694504	footnote
-1694507	footnote
-1694509	superscript
+1796791	footnote
+1796794	footnote
+1796798	footnote
+1796801	footnote
+1796804	footnote
+1796807	footnote
+1796810	footnote
+1796812	superscript
 italic
 italic
 superscript
 italic
 footnote
-1694517	footnote
-1694520	footnote
-1694523	footnote
-1694526	footnote
-1694529	footnote
-1694531	footnote
-1694533	footnote
-1694536	footnote
-1694538	footnote
-1694541	footnote
-1694543	superscript
+1796820	footnote
+1796823	footnote
+1796826	footnote
+1796829	footnote
+1796832	footnote
+1796834	footnote
+1796836	footnote
+1796839	footnote
+1796841	footnote
+1796844	footnote
+1796846	superscript
 italic
 superscript
 italic
 superscript
 bold
 footnote
-1694552	footnote
-1694555	footnote
-1694558	footnote
-1694560	footnote
-1694563	footnote
-1694565	footnote
-1694568	footnote
-1694571	footnote
-1694574	footnote
-1694577	footnote
-1694579	italic
+1796855	footnote
+1796858	footnote
+1796861	footnote
+1796863	footnote
+1796866	footnote
+1796868	footnote
+1796871	footnote
+1796874	footnote
+1796877	footnote
+1796880	footnote
+1796882	italic
 italic
 italic
 italic
 footnote
-1694585	footnote
-1694587	footnote
-1694589	footnote
-1694592	footnote
-1694594	footnote
-1694597	footnote
-1694600	footnote
-1694602	superscript
+1796888	footnote
+1796890	footnote
+1796892	footnote
+1796895	footnote
+1796897	footnote
+1796900	footnote
+1796903	footnote
+1796905	superscript
 superscript
 italic
 footnote
-1694607	footnote
-1694609	footnote
-1694612	footnote
-1694615	footnote
-1694617	footnote
-1694619	italic
+1796910	footnote
+1796912	footnote
+1796915	footnote
+1796918	footnote
+1796920	footnote
+1796922	italic
 italic
 italic
 footnote
-1694625	footnote
-1694627	footnote
-1694629	footnote
-1694631	footnote
-1694633	footnote
-1694635	footnote
-1694638	footnote
-1694641	footnote
-1694644	superscript
+1796928	footnote
+1796930	footnote
+1796932	footnote
+1796934	footnote
+1796936	footnote
+1796938	footnote
+1796941	footnote
+1796944	footnote
+1796947	superscript
 italic
 italic
 italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1694656	footnote
-1694659	footnote
-1694661	footnote
-1694663	footnote
-1694665	footnote
-1694667	footnote
-1694670	footnote
-1694672	footnote
-1694675	footnote
-1694677	footnote
-1694680	italic
-footnote
-1694683	footnote
-1694687	footnote
-1694689	footnote
-1694691	footnote
-1694693	footnote
-1694695	footnote
-1694698	footnote
-1694700	footnote
-1694702	footnote
-1694704	footnote
-1694706	footnote
-1694708	footnote
-1694710	footnote
-1694713	footnote
-1694715	footnote
-1694717	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1694725	footnote
-1694728	footnote
-1694731	footnote
-1694733	italic
+1796959	footnote
+1796962	footnote
+1796964	footnote
+1796966	footnote
+1796968	footnote
+1796970	footnote
+1796973	footnote
+1796975	footnote
+1796978	footnote
+1796980	footnote
+1796983	italic
+footnote
+1796986	footnote
+1796990	footnote
+1796992	footnote
+1796994	footnote
+1796996	footnote
+1796998	footnote
+1797001	footnote
+1797003	footnote
+1797005	footnote
+1797007	footnote
+1797009	footnote
+1797011	footnote
+1797013	footnote
+1797016	footnote
+1797018	footnote
+1797020	superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1797028	footnote
+1797031	footnote
+1797034	footnote
+1797036	italic
 italic
 footnote
-1694738	footnote
-1694741	footnote
-1694743	footnote
-1694746	footnote
-1694749	footnote
-1694752	footnote
-1694756	footnote
-1694758	superscript
+1797041	footnote
+1797044	footnote
+1797046	footnote
+1797049	footnote
+1797052	footnote
+1797055	footnote
+1797059	footnote
+1797061	superscript
 smallcaps
 superscript
 italic
@@ -15141,43 +15141,43 @@ italic
 superscript
 superscript
 footnote
-1694769	footnote
-1694772	footnote
-1694775	footnote
-1694777	footnote
-1694779	footnote
-1694781	footnote
-1694783	footnote
-1694785	italic
+1797072	footnote
+1797075	footnote
+1797078	footnote
+1797080	footnote
+1797082	footnote
+1797084	footnote
+1797086	footnote
+1797088	italic
 italic
 footnote
-1694790	footnote
-1694793	footnote
-1694795	footnote
-1694798	footnote
-1694801	footnote
-1694804	footnote
-1694806	footnote
-1694809	footnote
-1694812	superscript
+1797093	footnote
+1797096	footnote
+1797098	footnote
+1797101	footnote
+1797104	footnote
+1797107	footnote
+1797109	footnote
+1797112	footnote
+1797115	superscript
 italic
 italic
 superscript
 italic
 superscript
 footnote
-1694821	footnote
-1694824	footnote
-1694827	footnote
-1694829	footnote
-1694832	footnote
-1694835	footnote
-1694838	footnote
-1694840	footnote
-1694843	footnote
-1694845	footnote
-1694848	footnote
-1694850	italic
+1797124	footnote
+1797127	footnote
+1797130	footnote
+1797132	footnote
+1797135	footnote
+1797138	footnote
+1797141	footnote
+1797143	footnote
+1797146	footnote
+1797148	footnote
+1797151	footnote
+1797153	italic
 italic
 italic
 italic
@@ -15191,28 +15191,28 @@ italic
 italic
 italic
 footnote
-1694865	footnote
-1694868	footnote
-1694870	footnote
-1694873	footnote
-1694875	superscript
+1797168	footnote
+1797171	footnote
+1797173	footnote
+1797176	footnote
+1797178	superscript
 italic
 italic
 italic
 superscript
 italic
 footnote
-1694884	footnote
-1694886	footnote
-1694888	footnote
-1694891	footnote
-1694893	footnote
-1694896	footnote
-1694899	footnote
-1694902	footnote
-1694904	footnote
-1694906	footnote
-1694908	italic
+1797187	footnote
+1797189	footnote
+1797191	footnote
+1797194	footnote
+1797196	footnote
+1797199	footnote
+1797202	footnote
+1797205	footnote
+1797207	footnote
+1797209	footnote
+1797211	italic
 italic
 italic
 italic
@@ -15228,38 +15228,12 @@ italic
 italic
 italic
 footnote
-1694925	footnote
-1694928	footnote
-1694931	footnote
-1694933	italic
+1797228	footnote
+1797231	footnote
+1797234	footnote
+1797236	italic
 italic
 superscript
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-footnote
-1694945	footnote
-1694948	footnote
-1694950	footnote
-1694953	footnote
-1694956	footnote
-1694958	footnote
-1694960	footnote
-1694963	footnote
-1694966	footnote
-1694968	footnote
-1694970	footnote
-1694973	footnote
-1694975	footnote
-1694978	footnote
-1694981	footnote
-1694983	footnote
-1694985	footnote
-1694987	superscript
 italic
 italic
 italic
@@ -15267,456 +15241,25 @@ italic
 superscript
 italic
 italic
-italic
 footnote
-1694998	footnote
-1695000	footnote
-1695002	footnote
-1695004	footnote
-1695006	italic
-italic
-italic
-italic
-footnote
-1695012	footnote
-1695014	footnote
-1695016	footnote
-1695018	footnote
-1695021	footnote
-1695024	footnote
-1695026	footnote
-1695028	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1695040	footnote
-1695042	footnote
-1695045	footnote
-1695047	footnote
-1695049	footnote
-1695051	footnote
-1695053	footnote
-1695055	italic
-italic
-footnote
-1695059	footnote
-1695061	footnote
-1695064	footnote
-1695067	footnote
-1695070	footnote
-1695072	footnote
-1695074	footnote
-1695077	footnote
-1695079	footnote
-1695081	superscript
-italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1695090	footnote
-1695092	footnote
-1695094	footnote
-1695096	footnote
-1695099	footnote
-1695101	footnote
-1695103	footnote
-1695105	footnote
-1695107	footnote
-1695109	footnote
-1695111	footnote
-1695115	footnote
-1695117	footnote
-1695119	footnote
-1695121	footnote
-1695123	footnote
-1695125	footnote
-1695127	footnote
-1695130	footnote
-1695132	footnote
-1695134	footnote
-1695136	italic
-italic
-footnote
-1695140	footnote
-1695142	footnote
-1695144	footnote
-1695146	footnote
-1695148	superscript
-italic
-italic
-italic
-superscript
-italic
-footnote
-1695156	footnote
-1695158	footnote
-1695160	footnote
-1695162	footnote
-1695165	footnote
-1695167	footnote
-1695169	footnote
-1695171	italic
-italic
-italic
-footnote
-1695176	footnote
-1695179	footnote
-1695181	footnote
-1695184	footnote
-1695186	footnote
-1695189	footnote
-1695191	footnote
-1695193	footnote
-1695195	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-footnote
-1695218	footnote
-1695221	footnote
-1695224	footnote
-1695227	footnote
-1695229	footnote
-1695232	footnote
-1695234	footnote
-1695237	footnote
-1695239	footnote
-1695242	footnote
-1695245	footnote
-1695247	footnote
-1695249	footnote
-1695251	footnote
-1695253	footnote
-1695256	footnote
-1695258	footnote
-1695260	footnote
-1695263	footnote
-1695265	footnote
-1695268	footnote
-1695271	footnote
-1695274	footnote
-1695276	footnote
-1695278	footnote
-1695281	footnote
-1695283	footnote
-1695286	footnote
-1695288	footnote
-1695290	footnote
-1695292	footnote
-1695294	footnote
-1695296	footnote
-1695298	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1695414	footnote
-1695417	footnote
-1695420	footnote
-1695422	footnote
-1695425	footnote
-1695427	footnote
-1695431	footnote
-1695434	footnote
-1695436	footnote
-1695438	footnote
-1695440	footnote
-1695443	footnote
-1695447	footnote
-1695449	footnote
-1695451	footnote
-1695455	footnote
-1695458	footnote
-1695460	footnote
-1695463	footnote
-1695465	footnote
-1695467	footnote
-1695469	footnote
-1695472	footnote
-1695475	footnote
-1695478	footnote
-1695481	footnote
-1695484	footnote
-1695486	footnote
-1695489	footnote
-1695491	footnote
-1695493	footnote
-1695495	footnote
-1695498	footnote
-1695501	footnote
-1695504	footnote
-1695506	footnote
-1695509	footnote
-1695511	footnote
-1695514	footnote
-1695516	footnote
-1695519	footnote
-1695521	footnote
-1695524	footnote
-1695527	footnote
-1695529	footnote
-1695532	footnote
-1695534	footnote
-1695537	footnote
-1695540	footnote
-1695543	footnote
-1695545	footnote
-1695547	footnote
-1695550	footnote
-1695552	footnote
-1695555	footnote
-1695557	footnote
-1695559	footnote
-1695562	footnote
-1695564	footnote
-1695567	footnote
-1695570	footnote
-1695573	footnote
-1695576	footnote
-1695579	footnote
-1695581	footnote
-1695584	footnote
-1695587	footnote
-1695589	footnote
-1695592	footnote
-1695595	footnote
-1695598	footnote
-1695601	footnote
-1695603	footnote
-1695605	footnote
-1695607	footnote
-1695610	footnote
-1695612	footnote
-1695614	footnote
-1695616	footnote
-1695619	footnote
-1695621	footnote
-1695623	footnote
-1695625	footnote
-1695627	footnote
-1695629	footnote
-1695631	footnote
-1695633	footnote
-1695635	footnote
-1695637	footnote
-1695639	italic
-italic
-superscript
-italic
-italic
-italic
-superscript
-italic
-footnote
-1695649	footnote
-1695651	footnote
-1695653	footnote
-1695655	footnote
-1695658	footnote
-1695661	footnote
-1695663	footnote
-1695666	footnote
-1695668	footnote
-1695670	footnote
-1695673	italic
-superscript
-italic
-footnote
-1695678	footnote
-1695680	italic
-italic
-italic
-italic
-footnote
-1695687	footnote
-1695690	footnote
-1695693	footnote
-1695696	footnote
-1695698	footnote
-1695701	footnote
-1695704	footnote
-1695707	footnote
-1695710	footnote
-1695712	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-footnote
-1695740	footnote
-1695742	footnote
-1695745	footnote
-1695748	footnote
-1695750	footnote
-1695753	footnote
-1695756	footnote
-1695759	footnote
-1695762	footnote
-1695765	footnote
-1695767	footnote
-1695769	italic
-superscript
-italic
-italic
-italic
-italic
-italic
+1797248	footnote
+1797251	footnote
+1797253	footnote
+1797256	footnote
+1797259	footnote
+1797261	footnote
+1797263	footnote
+1797266	footnote
+1797269	footnote
+1797271	footnote
+1797273	footnote
+1797276	footnote
+1797278	footnote
+1797281	footnote
+1797284	footnote
+1797286	footnote
+1797288	footnote
+1797290	superscript
 italic
 italic
 italic
@@ -15726,18 +15269,23 @@ italic
 italic
 italic
 footnote
-1695786	footnote
-1695789	footnote
-1695791	footnote
-1695793	footnote
-1695795	footnote
-1695797	italic
+1797301	footnote
+1797303	footnote
+1797305	footnote
+1797307	footnote
+1797309	italic
 italic
 italic
 italic
-italic
-italic
-italic
+footnote
+1797315	footnote
+1797317	footnote
+1797319	footnote
+1797321	footnote
+1797324	footnote
+1797327	footnote
+1797329	footnote
+1797331	superscript
 italic
 italic
 italic
@@ -15748,268 +15296,26 @@ italic
 italic
 italic
 footnote
-1695816	footnote
-1695818	footnote
-1695821	footnote
-1695824	footnote
-1695826	footnote
-1695828	footnote
-1695830	footnote
-1695832	footnote
-1695835	footnote
-1695838	footnote
-1695840	footnote
-1695842	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-footnote
-1695852	footnote
-1695854	footnote
-1695856	footnote
-1695859	footnote
-1695861	footnote
-1695863	footnote
-1695866	footnote
-1695868	footnote
-1695870	footnote
-1695872	footnote
-1695875	footnote
-1695877	footnote
-1695879	footnote
-1695882	footnote
-1695884	footnote
-1695887	footnote
-1695889	footnote
-1695891	footnote
-1695893	footnote
-1695896	footnote
-1695898	footnote
-1695900	footnote
-1695902	footnote
-1695905	footnote
-1695908	footnote
-1695911	footnote
-1695913	footnote
-1695916	footnote
-1695918	superscript
-italic
+1797343	footnote
+1797345	footnote
+1797348	footnote
+1797350	footnote
+1797352	footnote
+1797354	footnote
+1797356	footnote
+1797358	italic
 italic
 footnote
-1695923	footnote
-1695925	footnote
-1695927	footnote
-1695929	footnote
-1695931	footnote
-1695933	footnote
-1695935	footnote
-1695937	footnote
-1695939	footnote
-1695942	footnote
-1695944	footnote
-1695946	footnote
-1695949	footnote
-1695951	footnote
-1695953	footnote
-1695955	footnote
-1695957	footnote
-1695959	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-footnote
-1695976	footnote
-1695978	footnote
-1695980	footnote
-1695983	footnote
-1695986	footnote
-1695988	footnote
-1695990	footnote
-1695992	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1696026	footnote
-1696028	footnote
-1696031	footnote
-1696034	footnote
-1696037	footnote
-1696039	footnote
-1696042	footnote
-1696045	footnote
-1696048	footnote
-1696051	footnote
-1696053	footnote
-1696055	superscript
-italic
-superscript
-italic
-footnote
-1696062	footnote
-1696065	footnote
-1696068	footnote
-1696071	footnote
-1696073	footnote
-1696076	footnote
-1696078	italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1696113	footnote
-1696116	footnote
-1696118	footnote
-1696121	footnote
-1696124	footnote
-1696127	footnote
-1696130	footnote
-1696132	footnote
-1696135	footnote
-1696137	footnote
-1696140	footnote
-1696143	footnote
-1696146	footnote
-1696148	footnote
-1696151	footnote
-1696154	footnote
-1696157	footnote
-1696159	footnote
-1696161	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-footnote
-1696177	footnote
-1696179	footnote
-1696182	footnote
-1696185	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1696207	footnote
-1696210	footnote
-1696212	footnote
-1696215	footnote
-1696217	footnote
-1696220	footnote
-1696223	footnote
-1696225	footnote
-1696227	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1797362	footnote
+1797364	footnote
+1797367	footnote
+1797370	footnote
+1797373	footnote
+1797375	footnote
+1797377	footnote
+1797380	footnote
+1797382	footnote
+1797384	superscript
 italic
 italic
 italic
@@ -16017,96 +15323,61 @@ superscript
 italic
 superscript
 footnote
-1696251	footnote
-1696253	footnote
-1696256	footnote
-1696258	footnote
-1696261	footnote
-1696263	footnote
-1696266	footnote
-1696269	footnote
-1696271	footnote
-1696273	italic
+1797393	footnote
+1797395	footnote
+1797397	footnote
+1797399	footnote
+1797402	footnote
+1797404	footnote
+1797406	footnote
+1797408	footnote
+1797410	footnote
+1797412	footnote
+1797414	footnote
+1797418	footnote
+1797420	footnote
+1797422	footnote
+1797424	footnote
+1797426	footnote
+1797428	footnote
+1797430	footnote
+1797433	footnote
+1797435	footnote
+1797437	footnote
+1797439	italic
 italic
 footnote
-1696278	footnote
-1696281	footnote
-1696284	footnote
-1696286	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1797443	footnote
+1797445	footnote
+1797447	footnote
+1797449	footnote
+1797451	superscript
 italic
 italic
 italic
 superscript
 italic
-superscript
 footnote
-1696319	footnote
-1696321	footnote
-1696323	footnote
-1696326	footnote
-1696329	footnote
-1696332	footnote
-1696335	footnote
-1696338	footnote
-1696340	footnote
-1696342	footnote
-1696344	footnote
-1696347	footnote
-1696349	footnote
-1696352	footnote
-1696355	footnote
-1696357	footnote
-1696359	footnote
-1696361	footnote
-1696363	footnote
-1696365	superscript
+1797459	footnote
+1797461	footnote
+1797463	footnote
+1797465	footnote
+1797468	footnote
+1797470	footnote
+1797472	footnote
+1797474	italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+footnote
+1797479	footnote
+1797482	footnote
+1797484	footnote
+1797487	footnote
+1797489	footnote
+1797492	footnote
+1797494	footnote
+1797496	footnote
+1797498	superscript
 italic
 italic
 italic
@@ -16127,52 +15398,41 @@ italic
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-superscript
 footnote
-1696417	footnote
-1696419	footnote
-1696422	footnote
-1696425	footnote
-1696427	footnote
-1696429	footnote
-1696431	footnote
-1696434	footnote
-1696436	footnote
-1696438	footnote
-1696441	footnote
-1696443	footnote
-1696445	footnote
-1696447	footnote
-1696449	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1797521	footnote
+1797524	footnote
+1797527	footnote
+1797530	footnote
+1797532	footnote
+1797535	footnote
+1797537	footnote
+1797540	footnote
+1797542	footnote
+1797545	footnote
+1797548	footnote
+1797550	footnote
+1797552	footnote
+1797554	footnote
+1797556	footnote
+1797559	footnote
+1797561	footnote
+1797563	footnote
+1797566	footnote
+1797568	footnote
+1797571	footnote
+1797574	footnote
+1797577	footnote
+1797579	footnote
+1797581	footnote
+1797584	footnote
+1797586	footnote
+1797589	footnote
+1797591	footnote
+1797593	footnote
+1797595	footnote
+1797597	footnote
+1797599	footnote
+1797601	italic
 italic
 italic
 italic
@@ -16286,100 +15546,136 @@ italic
 italic
 italic
 footnote
-1696589	footnote
-1696592	footnote
-1696595	footnote
-1696598	footnote
-1696601	footnote
-1696604	footnote
-1696607	footnote
-1696610	footnote
-1696613	footnote
-1696616	footnote
-1696619	footnote
-1696621	footnote
-1696623	footnote
-1696625	footnote
-1696628	footnote
-1696630	footnote
-1696632	footnote
-1696634	footnote
-1696636	footnote
-1696638	footnote
-1696640	footnote
-1696643	footnote
-1696646	footnote
-1696648	footnote
-1696650	footnote
-1696652	footnote
-1696654	footnote
-1696656	footnote
-1696659	footnote
-1696661	footnote
-1696664	footnote
-1696667	footnote
-1696670	footnote
-1696673	footnote
-1696676	footnote
-1696679	footnote
-1696682	footnote
-1696684	footnote
-1696687	footnote
-1696690	footnote
-1696693	footnote
-1696696	footnote
-1696698	footnote
-1696701	footnote
-1696703	footnote
-1696705	footnote
-1696707	footnote
-1696710	footnote
-1696713	footnote
-1696716	footnote
-1696719	footnote
-1696722	footnote
-1696725	footnote
-1696728	footnote
-1696731	footnote
-1696733	footnote
-1696735	footnote
-1696737	footnote
-1696740	footnote
-1696742	footnote
-1696745	footnote
-1696748	footnote
-1696751	footnote
-1696753	footnote
-1696756	footnote
-1696758	footnote
-1696760	footnote
-1696763	footnote
-1696766	footnote
-1696769	footnote
-1696771	footnote
-1696774	footnote
-1696777	footnote
-1696780	superscript
+1797717	footnote
+1797720	footnote
+1797723	footnote
+1797725	footnote
+1797728	footnote
+1797730	footnote
+1797734	footnote
+1797737	footnote
+1797739	footnote
+1797741	footnote
+1797743	footnote
+1797746	footnote
+1797750	footnote
+1797752	footnote
+1797754	footnote
+1797758	footnote
+1797761	footnote
+1797763	footnote
+1797766	footnote
+1797768	footnote
+1797770	footnote
+1797772	footnote
+1797775	footnote
+1797778	footnote
+1797781	footnote
+1797784	footnote
+1797787	footnote
+1797789	footnote
+1797792	footnote
+1797794	footnote
+1797796	footnote
+1797798	footnote
+1797801	footnote
+1797804	footnote
+1797807	footnote
+1797809	footnote
+1797812	footnote
+1797814	footnote
+1797817	footnote
+1797819	footnote
+1797822	footnote
+1797824	footnote
+1797827	footnote
+1797830	footnote
+1797832	footnote
+1797835	footnote
+1797837	footnote
+1797840	footnote
+1797843	footnote
+1797846	footnote
+1797848	footnote
+1797850	footnote
+1797853	footnote
+1797855	footnote
+1797858	footnote
+1797860	footnote
+1797862	footnote
+1797865	footnote
+1797867	footnote
+1797870	footnote
+1797873	footnote
+1797876	footnote
+1797879	footnote
+1797882	footnote
+1797884	footnote
+1797887	footnote
+1797890	footnote
+1797892	footnote
+1797895	footnote
+1797898	footnote
+1797901	footnote
+1797904	footnote
+1797906	footnote
+1797908	footnote
+1797910	footnote
+1797913	footnote
+1797915	footnote
+1797917	footnote
+1797919	footnote
+1797922	footnote
+1797924	footnote
+1797926	footnote
+1797928	footnote
+1797930	footnote
+1797932	footnote
+1797934	footnote
+1797936	footnote
+1797938	footnote
+1797940	footnote
+1797942	italic
 italic
-italic
+superscript
 italic
 italic
 italic
 superscript
+italic
+footnote
+1797952	footnote
+1797954	footnote
+1797956	footnote
+1797958	footnote
+1797961	footnote
+1797964	footnote
+1797966	footnote
+1797969	footnote
+1797971	footnote
+1797973	footnote
+1797976	italic
+superscript
+italic
+footnote
+1797981	footnote
+1797983	italic
 italic
 italic
 italic
 footnote
-1696793	footnote
-1696796	footnote
-1696799	footnote
-1696801	footnote
-1696804	footnote
-1696807	footnote
-1696810	footnote
-1696813	footnote
-1696815	footnote
-1696818	italic
+1797990	footnote
+1797993	footnote
+1797996	footnote
+1797999	footnote
+1798001	footnote
+1798004	footnote
+1798007	footnote
+1798010	footnote
+1798013	footnote
+1798015	italic
+italic
+superscript
 italic
 italic
 italic
@@ -16400,139 +15696,22 @@ italic
 italic
 italic
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+superscript
 italic
 footnote
-1696883	footnote
-1696885	footnote
-1696887	footnote
-1696890	footnote
-1696892	footnote
-1696894	footnote
-1696897	footnote
-1696900	footnote
-1696903	footnote
-1696906	footnote
-1696909	footnote
-1696912	footnote
-1696915	footnote
-1696919	footnote
-1696923	footnote
-1696925	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1798043	footnote
+1798045	footnote
+1798048	footnote
+1798051	footnote
+1798053	footnote
+1798056	footnote
+1798059	footnote
+1798062	footnote
+1798065	footnote
+1798068	footnote
+1798070	footnote
+1798072	italic
 superscript
-italic
-superscript
-italic
-italic
-footnote
-1696946	footnote
-1696949	footnote
-1696951	footnote
-1696953	footnote
-1696955	footnote
-1696958	footnote
-1696961	footnote
-1696964	footnote
-1696967	footnote
-1696970	footnote
-1696973	footnote
-1696976	footnote
-1696979	footnote
-1696981	footnote
-1696983	footnote
-1696985	footnote
-1696988	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1697006	footnote
-1697008	footnote
-1697010	footnote
-1697012	footnote
-1697015	footnote
-1697017	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
 italic
 italic
 italic
@@ -16547,29 +15726,12 @@ italic
 italic
 italic
 footnote
-1697052	footnote
-1697054	footnote
-1697056	footnote
-1697059	footnote
-1697062	footnote
-1697065	footnote
-1697067	footnote
-1697070	footnote
-1697073	footnote
-1697076	footnote
-1697078	footnote
-1697080	footnote
-1697083	footnote
-1697086	footnote
-1697088	footnote
-1697090	footnote
-1697093	footnote
-1697096	footnote
-1697099	footnote
-1697101	footnote
-1697104	footnote
-1697107	italic
-superscript
+1798089	footnote
+1798092	footnote
+1798094	footnote
+1798096	footnote
+1798098	footnote
+1798100	italic
 italic
 italic
 italic
@@ -16585,42 +15747,19 @@ italic
 italic
 italic
 italic
-italic
-smallcaps
-italic
-italic
-italic
-superscript
-italic
-superscript
 footnote
-1697134	footnote
-1697137	footnote
-1697140	footnote
-1697142	footnote
-1697145	footnote
-1697147	footnote
-1697150	footnote
-1697152	footnote
-1697155	footnote
-1697157	footnote
-1697159	footnote
-1697161	superscript
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1798119	footnote
+1798121	footnote
+1798124	footnote
+1798127	footnote
+1798129	footnote
+1798131	footnote
+1798133	footnote
+1798135	footnote
+1798138	footnote
+1798141	footnote
+1798143	footnote
+1798145	superscript
 italic
 italic
 italic
@@ -16629,16 +15768,58 @@ italic
 italic
 superscript
 footnote
-1697187	footnote
-1697189	footnote
-1697191	footnote
-1697195	footnote
-1697197	footnote
-1697199	footnote
-1697201	footnote
-1697204	footnote
-1697207	footnote
-1697210	italic
+1798155	footnote
+1798157	footnote
+1798159	footnote
+1798162	footnote
+1798164	footnote
+1798166	footnote
+1798169	footnote
+1798171	footnote
+1798173	footnote
+1798175	footnote
+1798178	footnote
+1798180	footnote
+1798182	footnote
+1798185	footnote
+1798187	footnote
+1798190	footnote
+1798192	footnote
+1798194	footnote
+1798196	footnote
+1798199	footnote
+1798201	footnote
+1798203	footnote
+1798205	footnote
+1798208	footnote
+1798211	footnote
+1798214	footnote
+1798216	footnote
+1798219	footnote
+1798221	superscript
+italic
+italic
+footnote
+1798226	footnote
+1798228	footnote
+1798230	footnote
+1798232	footnote
+1798234	footnote
+1798236	footnote
+1798238	footnote
+1798240	footnote
+1798242	footnote
+1798245	footnote
+1798247	footnote
+1798249	footnote
+1798252	footnote
+1798254	footnote
+1798256	footnote
+1798258	footnote
+1798260	footnote
+1798262	italic
+italic
+superscript
 italic
 italic
 italic
@@ -16649,25 +15830,17 @@ italic
 italic
 superscript
 italic
-italic
+superscript
 italic
 footnote
-1697225	footnote
-1697228	footnote
-1697231	footnote
-1697233	footnote
-1697236	footnote
-1697238	footnote
-1697240	footnote
-1697242	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1798279	footnote
+1798281	footnote
+1798283	footnote
+1798286	footnote
+1798289	footnote
+1798291	footnote
+1798293	footnote
+1798295	italic
 italic
 italic
 italic
@@ -16700,842 +15873,30 @@ italic
 italic
 italic
 footnote
-1697284	footnote
-1697287	footnote
-1697290	footnote
-1697293	footnote
-1697295	footnote
-1697298	footnote
-1697301	footnote
-1697303	footnote
-1697306	footnote
-1697309	footnote
-1697311	footnote
-1697314	footnote
-1697316	footnote
-1697318	footnote
-1697320	footnote
-1697322	footnote
-1697324	footnote
-1697326	footnote
-1697329	footnote
-1697331	footnote
-1697334	footnote
-1697336	footnote
-1697339	footnote
-1697342	footnote
-1697344	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1697366	footnote
-1697368	footnote
-1697370	footnote
-1697372	footnote
-1697375	footnote
-1697377	footnote
-1697379	footnote
-1697381	footnote
-1697383	footnote
-1697385	footnote
-1697388	footnote
-1697391	footnote
-1697393	footnote
-1697395	footnote
-1697397	footnote
-1697399	footnote
-1697401	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1697414	footnote
-1697416	footnote
-1697418	footnote
-1697421	footnote
-1697423	footnote
-1697425	footnote
-1697427	footnote
-1697431	footnote
-1697433	footnote
-1697435	footnote
-1697437	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1697477	footnote
-1697480	footnote
-1697482	footnote
-1697484	footnote
-1697487	footnote
-1697489	footnote
-1697491	footnote
-1697493	footnote
-1697495	footnote
-1697497	footnote
-1697500	footnote
-1697502	footnote
-1697504	footnote
-1697507	footnote
-1697509	footnote
-1697511	footnote
-1697513	footnote
-1697515	footnote
-1697518	footnote
-1697520	footnote
-1697522	footnote
-1697524	footnote
-1697526	footnote
-1697528	footnote
-1697530	footnote
-1697532	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-footnote
-1697560	footnote
-1697562	footnote
-1697565	footnote
-1697567	footnote
-1697569	footnote
-1697571	footnote
-1697574	footnote
-1697577	footnote
-1697580	footnote
-1697582	footnote
-1697584	footnote
-1697586	footnote
-1697588	footnote
-1697590	footnote
-1697592	footnote
-1697594	footnote
-1697596	footnote
-1697598	footnote
-1697600	footnote
-1697602	footnote
-1697604	footnote
-1697606	footnote
-1697609	footnote
-1697611	footnote
-1697613	footnote
-1697615	footnote
-1697617	footnote
-1697619	footnote
-1697622	footnote
-1697625	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1697664	footnote
-1697666	footnote
-1697668	footnote
-1697670	footnote
-1697672	footnote
-1697674	footnote
-1697676	footnote
-1697678	footnote
-1697680	footnote
-1697682	footnote
-1697685	footnote
-1697688	footnote
-1697691	footnote
-1697694	footnote
-1697696	footnote
-1697698	footnote
-1697700	footnote
-1697702	footnote
-1697705	footnote
-1697707	footnote
-1697709	footnote
-1697711	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-footnote
-1697726	footnote
-1697729	footnote
-1697731	footnote
-1697734	footnote
-1697736	footnote
-1697738	footnote
-1697740	footnote
-1697743	footnote
-1697745	footnote
-1697747	footnote
-1697749	footnote
-1697752	footnote
-1697754	footnote
-1697756	footnote
-1697758	footnote
-1697761	footnote
-1697764	footnote
-1697767	footnote
-1697769	footnote
-1697771	footnote
-1697773	footnote
-1697775	footnote
-1697777	footnote
-1697779	footnote
-1697782	footnote
-1697784	footnote
-1697786	footnote
-1697788	footnote
-1697790	footnote
-1697792	footnote
-1697795	footnote
-1697797	footnote
-1697799	footnote
-1697802	footnote
-1697804	footnote
-1697807	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1697874	footnote
-1697877	footnote
-1697880	footnote
-1697882	footnote
-1697884	footnote
-1697886	footnote
-1697888	footnote
-1697890	footnote
-1697892	footnote
-1697894	footnote
-1697897	footnote
-1697899	footnote
-1697902	footnote
-1697904	footnote
-1697906	footnote
-1697908	footnote
-1697910	footnote
-1697912	footnote
-1697914	footnote
-1697916	footnote
-1697918	footnote
-1697920	footnote
-1697922	footnote
-1697924	footnote
-1697926	footnote
-1697928	footnote
-1697930	footnote
-1697932	footnote
-1697935	footnote
-1697937	footnote
-1697939	footnote
-1697941	footnote
-1697943	footnote
-1697945	footnote
-1697947	footnote
-1697949	footnote
-1697951	footnote
-1697953	footnote
-1697956	footnote
-1697959	footnote
-1697962	footnote
-1697964	footnote
-1697967	footnote
-1697972	footnote
-1697975	footnote
-1697977	footnote
-1697979	footnote
-1697981	footnote
-1697983	footnote
-1697985	footnote
-1697987	footnote
-1697989	footnote
-1697991	footnote
-1697993	footnote
-1697995	footnote
-1697997	footnote
-1697999	footnote
-1698001	footnote
-1698003	footnote
-1698006	footnote
-1698008	footnote
-1698010	footnote
-1698012	superscript
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1798329	footnote
+1798331	footnote
+1798334	footnote
+1798337	footnote
+1798340	footnote
+1798342	footnote
+1798345	footnote
+1798348	footnote
+1798351	footnote
+1798354	footnote
+1798356	footnote
+1798358	superscript
 italic
 superscript
 italic
 footnote
-1698031	footnote
-1698033	footnote
-1698035	footnote
-1698037	footnote
-1698039	footnote
-1698042	footnote
-1698044	footnote
-1698046	footnote
-1698048	footnote
-1698050	footnote
-1698052	footnote
-1698054	footnote
-1698056	footnote
-1698059	footnote
-1698061	footnote
-1698063	footnote
-1698065	footnote
-1698067	footnote
-1698069	footnote
-1698071	footnote
-1698073	footnote
-1698075	footnote
-1698077	italic
+1798365	footnote
+1798368	footnote
+1798371	footnote
+1798374	footnote
+1798376	footnote
+1798379	footnote
+1798381	italic
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1698110	footnote
-1698112	footnote
-1698114	footnote
-1698116	footnote
-1698118	footnote
-1698120	footnote
-1698123	footnote
-1698125	footnote
-1698131	footnote
-1698134	footnote
-1698137	footnote
-1698140	footnote
-1698142	footnote
-1698144	footnote
-1698146	footnote
-1698148	footnote
-1698150	footnote
-1698152	footnote
-1698154	footnote
-1698157	footnote
-1698159	footnote
-1698161	footnote
-1698164	footnote
-1698166	footnote
-1698168	footnote
-1698170	footnote
-1698172	footnote
-1698174	footnote
-1698177	footnote
-1698179	footnote
-1698181	footnote
-1698184	footnote
-1698186	superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-smallcaps
-italic
-italic
-italic
-italic
-superscript
-footnote
-1698215	footnote
-1698217	footnote
-1698219	footnote
-1698221	footnote
-1698223	footnote
-1698226	footnote
-1698228	footnote
-1698230	footnote
-1698232	footnote
-1698234	footnote
-1698236	footnote
-1698238	footnote
-1698240	footnote
-1698243	footnote
-1698246	footnote
-1698248	footnote
-1698250	footnote
-1698252	footnote
-1698254	footnote
-1698256	footnote
-1698258	footnote
-1698260	footnote
-1698262	footnote
-1698264	footnote
-1698266	footnote
-1698268	footnote
-1698270	footnote
-1698272	footnote
-1698274	footnote
-1698276	footnote
-1698278	footnote
-1698280	footnote
-1698282	footnote
-1698284	footnote
-1698286	footnote
-1698288	footnote
-1698290	footnote
-1698292	footnote
-1698295	footnote
-1698298	footnote
-1698301	footnote
-1698303	footnote
-1698305	footnote
-1698307	footnote
-1698310	footnote
-1698312	footnote
-1698315	footnote
-1698317	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1698373	footnote
-1698375	footnote
-1698377	footnote
-1698380	footnote
-1698382	footnote
-1698385	footnote
-1698387	footnote
-1698390	footnote
-1698393	footnote
-1698395	footnote
-1698397	footnote
-1698399	footnote
-1698402	footnote
-1698404	footnote
-1698406	footnote
-1698408	footnote
-1698410	footnote
-1698412	footnote
-1698415	footnote
-1698417	footnote
-1698419	footnote
-1698421	italic
-italic
-italic
-italic
-italic
-smallcaps
-italic
-italic
-italic
-superscript
-italic
-footnote
-1698434	footnote
-1698437	footnote
-1698440	footnote
-1698443	footnote
-1698445	footnote
-1698448	footnote
-1698451	footnote
-1698453	footnote
-1698455	footnote
-1698457	footnote
-1698459	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-footnote
-1698497	footnote
-1698500	footnote
-1698503	footnote
-1698505	footnote
-1698508	footnote
-1698510	footnote
-1698512	footnote
-1698515	footnote
-1698517	footnote
-1698520	footnote
-1698522	footnote
-1698524	footnote
-1698527	footnote
-1698529	footnote
-1698532	footnote
-1698534	footnote
-1698536	footnote
-1698538	footnote
-1698540	footnote
-1698542	footnote
-1698545	footnote
-1698548	footnote
-1698550	superscript
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-smallcaps
-superscript
-footnote
-1698579	footnote
-1698581	footnote
-1698583	footnote
-1698585	footnote
-1698587	footnote
-1698590	footnote
-1698592	footnote
-1698594	footnote
-1698597	footnote
-1698599	footnote
-1698601	italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1698618	footnote
-1698620	footnote
-1698623	footnote
-1698626	footnote
-1698630	footnote
-1698633	footnote
-1698635	footnote
-1698637	italic
 italic
 italic
 italic
@@ -17564,21 +15925,1660 @@ italic
 italic
 italic
 italic
+italic
+italic
+italic
+footnote
+1798416	footnote
+1798419	footnote
+1798421	footnote
+1798424	footnote
+1798427	footnote
+1798430	footnote
+1798433	footnote
+1798435	footnote
+1798438	footnote
+1798440	footnote
+1798443	footnote
+1798446	footnote
+1798449	footnote
+1798451	footnote
+1798454	footnote
+1798457	footnote
+1798460	footnote
+1798462	footnote
+1798464	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1798480	footnote
+1798482	footnote
+1798485	footnote
+1798488	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1798510	footnote
+1798513	footnote
+1798515	footnote
+1798518	footnote
+1798520	footnote
+1798523	footnote
+1798526	footnote
+1798528	footnote
+1798530	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1798554	footnote
+1798556	footnote
+1798559	footnote
+1798561	footnote
+1798564	footnote
+1798566	footnote
+1798569	footnote
+1798572	footnote
+1798574	footnote
+1798576	italic
+italic
+footnote
+1798581	footnote
+1798584	footnote
+1798587	footnote
+1798589	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1798622	footnote
+1798624	footnote
+1798626	footnote
+1798629	footnote
+1798632	footnote
+1798635	footnote
+1798638	footnote
+1798641	footnote
+1798643	footnote
+1798645	footnote
+1798647	footnote
+1798650	footnote
+1798652	footnote
+1798655	footnote
+1798658	footnote
+1798660	footnote
+1798662	footnote
+1798664	footnote
+1798666	footnote
+1798668	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1798720	footnote
+1798722	footnote
+1798725	footnote
+1798728	footnote
+1798730	footnote
+1798732	footnote
+1798734	footnote
+1798737	footnote
+1798739	footnote
+1798741	footnote
+1798744	footnote
+1798746	footnote
+1798748	footnote
+1798750	footnote
+1798752	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1798892	footnote
+1798895	footnote
+1798898	footnote
+1798901	footnote
+1798904	footnote
+1798907	footnote
+1798910	footnote
+1798913	footnote
+1798916	footnote
+1798919	footnote
+1798922	footnote
+1798924	footnote
+1798926	footnote
+1798928	footnote
+1798931	footnote
+1798933	footnote
+1798935	footnote
+1798937	footnote
+1798939	footnote
+1798941	footnote
+1798943	footnote
+1798946	footnote
+1798949	footnote
+1798951	footnote
+1798953	footnote
+1798955	footnote
+1798957	footnote
+1798959	footnote
+1798962	footnote
+1798964	footnote
+1798967	footnote
+1798970	footnote
+1798973	footnote
+1798976	footnote
+1798979	footnote
+1798982	footnote
+1798985	footnote
+1798987	footnote
+1798990	footnote
+1798993	footnote
+1798996	footnote
+1798999	footnote
+1799001	footnote
+1799004	footnote
+1799006	footnote
+1799008	footnote
+1799010	footnote
+1799013	footnote
+1799016	footnote
+1799019	footnote
+1799022	footnote
+1799025	footnote
+1799028	footnote
+1799031	footnote
+1799034	footnote
+1799036	footnote
+1799038	footnote
+1799040	footnote
+1799043	footnote
+1799045	footnote
+1799048	footnote
+1799051	footnote
+1799054	footnote
+1799056	footnote
+1799059	footnote
+1799061	footnote
+1799063	footnote
+1799066	footnote
+1799069	footnote
+1799072	footnote
+1799074	footnote
+1799077	footnote
+1799080	footnote
+1799083	superscript
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+footnote
+1799096	footnote
+1799099	footnote
+1799102	footnote
+1799104	footnote
+1799107	footnote
+1799110	footnote
+1799113	footnote
+1799116	footnote
+1799118	footnote
+1799121	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1799186	footnote
+1799188	footnote
+1799190	footnote
+1799193	footnote
+1799195	footnote
+1799197	footnote
+1799200	footnote
+1799203	footnote
+1799206	footnote
+1799209	footnote
+1799212	footnote
+1799215	footnote
+1799218	footnote
+1799222	footnote
+1799226	footnote
+1799228	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1799249	footnote
+1799252	footnote
+1799254	footnote
+1799256	footnote
+1799258	footnote
+1799261	footnote
+1799264	footnote
+1799267	footnote
+1799270	footnote
+1799273	footnote
+1799276	footnote
+1799279	footnote
+1799282	footnote
+1799284	footnote
+1799286	footnote
+1799288	footnote
+1799291	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1799309	footnote
+1799311	footnote
+1799313	footnote
+1799315	footnote
+1799318	footnote
+1799320	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+footnote
+1799355	footnote
+1799357	footnote
+1799359	footnote
+1799362	footnote
+1799365	footnote
+1799368	footnote
+1799370	footnote
+1799373	footnote
+1799376	footnote
+1799379	footnote
+1799381	footnote
+1799383	footnote
+1799386	footnote
+1799389	footnote
+1799391	footnote
+1799393	footnote
+1799396	footnote
+1799399	footnote
+1799402	footnote
+1799404	footnote
+1799407	footnote
+1799410	italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1799437	footnote
+1799440	footnote
+1799443	footnote
+1799445	footnote
+1799448	footnote
+1799450	footnote
+1799453	footnote
+1799455	footnote
+1799458	footnote
+1799460	footnote
+1799462	footnote
+1799464	superscript
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1799490	footnote
+1799492	footnote
+1799494	footnote
+1799498	footnote
+1799500	footnote
+1799502	footnote
+1799504	footnote
+1799507	footnote
+1799510	footnote
+1799513	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+footnote
+1799528	footnote
+1799531	footnote
+1799534	footnote
+1799536	footnote
+1799539	footnote
+1799541	footnote
+1799543	footnote
+1799545	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1799587	footnote
+1799590	footnote
+1799593	footnote
+1799596	footnote
+1799598	footnote
+1799601	footnote
+1799604	footnote
+1799606	footnote
+1799609	footnote
+1799612	footnote
+1799614	footnote
+1799617	footnote
+1799619	footnote
+1799621	footnote
+1799623	footnote
+1799625	footnote
+1799627	footnote
+1799629	footnote
+1799632	footnote
+1799634	footnote
+1799637	footnote
+1799639	footnote
+1799642	footnote
+1799645	footnote
+1799647	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1799669	footnote
+1799671	footnote
+1799673	footnote
+1799675	footnote
+1799678	footnote
+1799680	footnote
+1799682	footnote
+1799684	footnote
+1799686	footnote
+1799688	footnote
+1799691	footnote
+1799694	footnote
+1799696	footnote
+1799698	footnote
+1799700	footnote
+1799702	footnote
+1799704	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1799717	footnote
+1799719	footnote
+1799721	footnote
+1799724	footnote
+1799726	footnote
+1799728	footnote
+1799730	footnote
+1799734	footnote
+1799736	footnote
+1799738	footnote
+1799740	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1799780	footnote
+1799783	footnote
+1799785	footnote
+1799787	footnote
+1799790	footnote
+1799792	footnote
+1799794	footnote
+1799796	footnote
+1799798	footnote
+1799800	footnote
+1799803	footnote
+1799805	footnote
+1799807	footnote
+1799810	footnote
+1799812	footnote
+1799814	footnote
+1799816	footnote
+1799818	footnote
+1799821	footnote
+1799823	footnote
+1799825	footnote
+1799827	footnote
+1799829	footnote
+1799831	footnote
+1799833	footnote
+1799835	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+footnote
+1799863	footnote
+1799865	footnote
+1799868	footnote
+1799870	footnote
+1799872	footnote
+1799874	footnote
+1799877	footnote
+1799880	footnote
+1799883	footnote
+1799885	footnote
+1799887	footnote
+1799889	footnote
+1799891	footnote
+1799893	footnote
+1799895	footnote
+1799897	footnote
+1799899	footnote
+1799901	footnote
+1799903	footnote
+1799905	footnote
+1799907	footnote
+1799909	footnote
+1799912	footnote
+1799914	footnote
+1799916	footnote
+1799918	footnote
+1799920	footnote
+1799922	footnote
+1799925	footnote
+1799928	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1799967	footnote
+1799969	footnote
+1799971	footnote
+1799973	footnote
+1799975	footnote
+1799977	footnote
+1799979	footnote
+1799981	footnote
+1799983	footnote
+1799985	footnote
+1799988	footnote
+1799991	footnote
+1799994	footnote
+1799997	footnote
+1799999	footnote
+1800001	footnote
+1800003	footnote
+1800005	footnote
+1800008	footnote
+1800010	footnote
+1800012	footnote
+1800014	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+footnote
+1800029	footnote
+1800032	footnote
+1800034	footnote
+1800037	footnote
+1800039	footnote
+1800041	footnote
+1800043	footnote
+1800046	footnote
+1800048	footnote
+1800050	footnote
+1800052	footnote
+1800055	footnote
+1800057	footnote
+1800059	footnote
+1800061	footnote
+1800064	footnote
+1800067	footnote
+1800070	footnote
+1800072	footnote
+1800074	footnote
+1800076	footnote
+1800078	footnote
+1800080	footnote
+1800082	footnote
+1800085	footnote
+1800087	footnote
+1800089	footnote
+1800091	footnote
+1800093	footnote
+1800095	footnote
+1800098	footnote
+1800100	footnote
+1800102	footnote
+1800105	footnote
+1800107	footnote
+1800110	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1800177	footnote
+1800180	footnote
+1800183	footnote
+1800185	footnote
+1800187	footnote
+1800189	footnote
+1800191	footnote
+1800193	footnote
+1800195	footnote
+1800197	footnote
+1800200	footnote
+1800202	footnote
+1800205	footnote
+1800207	footnote
+1800209	footnote
+1800211	footnote
+1800213	footnote
+1800215	footnote
+1800217	footnote
+1800219	footnote
+1800221	footnote
+1800223	footnote
+1800225	footnote
+1800227	footnote
+1800229	footnote
+1800231	footnote
+1800233	footnote
+1800235	footnote
+1800238	footnote
+1800240	footnote
+1800242	footnote
+1800244	footnote
+1800246	footnote
+1800248	footnote
+1800250	footnote
+1800252	footnote
+1800254	footnote
+1800256	footnote
+1800259	footnote
+1800262	footnote
+1800265	footnote
+1800267	footnote
+1800270	footnote
+1800275	footnote
+1800278	footnote
+1800280	footnote
+1800282	footnote
+1800284	footnote
+1800286	footnote
+1800288	footnote
+1800290	footnote
+1800292	footnote
+1800294	footnote
+1800296	footnote
+1800298	footnote
+1800300	footnote
+1800302	footnote
+1800304	footnote
+1800306	footnote
+1800309	footnote
+1800311	footnote
+1800313	footnote
+1800315	superscript
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+footnote
+1800334	footnote
+1800336	footnote
+1800338	footnote
+1800340	footnote
+1800342	footnote
+1800345	footnote
+1800347	footnote
+1800349	footnote
+1800351	footnote
+1800353	footnote
+1800355	footnote
+1800357	footnote
+1800359	footnote
+1800362	footnote
+1800364	footnote
+1800366	footnote
+1800368	footnote
+1800370	footnote
+1800372	footnote
+1800374	footnote
+1800376	footnote
+1800378	footnote
+1800380	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1800413	footnote
+1800415	footnote
+1800417	footnote
+1800419	footnote
+1800421	footnote
+1800423	footnote
+1800426	footnote
+1800428	footnote
+1800434	footnote
+1800437	footnote
+1800440	footnote
+1800443	footnote
+1800445	footnote
+1800447	footnote
+1800449	footnote
+1800451	footnote
+1800453	footnote
+1800455	footnote
+1800457	footnote
+1800460	footnote
+1800462	footnote
+1800464	footnote
+1800467	footnote
+1800469	footnote
+1800471	footnote
+1800473	footnote
+1800475	footnote
+1800477	footnote
+1800480	footnote
+1800482	footnote
+1800484	footnote
+1800487	footnote
+1800489	superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+smallcaps
+italic
+italic
+italic
+italic
+superscript
+footnote
+1800518	footnote
+1800520	footnote
+1800522	footnote
+1800524	footnote
+1800526	footnote
+1800529	footnote
+1800531	footnote
+1800533	footnote
+1800535	footnote
+1800537	footnote
+1800539	footnote
+1800541	footnote
+1800543	footnote
+1800546	footnote
+1800549	footnote
+1800551	footnote
+1800553	footnote
+1800555	footnote
+1800557	footnote
+1800559	footnote
+1800561	footnote
+1800563	footnote
+1800565	footnote
+1800567	footnote
+1800569	footnote
+1800571	footnote
+1800573	footnote
+1800575	footnote
+1800577	footnote
+1800579	footnote
+1800581	footnote
+1800583	footnote
+1800585	footnote
+1800587	footnote
+1800589	footnote
+1800591	footnote
+1800593	footnote
+1800595	footnote
+1800598	footnote
+1800601	footnote
+1800604	footnote
+1800606	footnote
+1800608	footnote
+1800610	footnote
+1800613	footnote
+1800615	footnote
+1800618	footnote
+1800620	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1800676	footnote
+1800678	footnote
+1800680	footnote
+1800683	footnote
+1800685	footnote
+1800688	footnote
+1800690	footnote
+1800693	footnote
+1800696	footnote
+1800698	footnote
+1800700	footnote
+1800702	footnote
+1800705	footnote
+1800707	footnote
+1800709	footnote
+1800711	footnote
+1800713	footnote
+1800715	footnote
+1800718	footnote
+1800720	footnote
+1800722	footnote
+1800724	italic
+italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+superscript
+italic
+footnote
+1800737	footnote
+1800740	footnote
+1800743	footnote
+1800746	footnote
+1800748	footnote
+1800751	footnote
+1800754	footnote
+1800756	footnote
+1800758	footnote
+1800760	footnote
+1800762	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1800800	footnote
+1800803	footnote
+1800806	footnote
+1800808	footnote
+1800811	footnote
+1800813	footnote
+1800815	footnote
+1800818	footnote
+1800820	footnote
+1800823	footnote
+1800825	footnote
+1800827	footnote
+1800830	footnote
+1800832	footnote
+1800835	footnote
+1800837	footnote
+1800839	footnote
+1800841	footnote
+1800843	footnote
+1800845	footnote
+1800848	footnote
+1800851	footnote
+1800853	superscript
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+smallcaps
+superscript
+footnote
+1800882	footnote
+1800884	footnote
+1800886	footnote
+1800888	footnote
+1800890	footnote
+1800893	footnote
+1800895	footnote
+1800897	footnote
+1800900	footnote
+1800902	footnote
+1800904	italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+superscript
+italic
+superscript
+footnote
+1800921	footnote
+1800923	footnote
+1800926	footnote
+1800929	footnote
+1800933	footnote
+1800936	footnote
+1800938	footnote
+1800940	italic
+italic
+italic
+italic
+smallcaps
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
 smallcaps
 smallcaps
 footnote
-1698670	footnote
-1698673	footnote
-1698676	footnote
-1698679	footnote
-1698682	footnote
-1698684	footnote
-1698687	footnote
-1698689	footnote
-1698691	footnote
-1698694	footnote
-1698696	footnote
-1698698	italic
+1800973	footnote
+1800976	footnote
+1800979	footnote
+1800982	footnote
+1800985	footnote
+1800987	footnote
+1800990	footnote
+1800992	footnote
+1800994	footnote
+1800997	footnote
+1800999	footnote
+1801001	italic
 italic
 superscript
 italic
@@ -17604,30 +17604,30 @@ italic
 italic
 superscript
 footnote
-1698725	footnote
-1698728	footnote
-1698731	footnote
-1698734	footnote
-1698736	footnote
-1698739	footnote
-1698742	footnote
-1698745	footnote
-1698748	footnote
-1698750	footnote
-1698752	footnote
-1698755	footnote
-1698757	footnote
-1698762	footnote
-1698764	footnote
-1698767	footnote
-1698769	footnote
-1698771	footnote
-1698773	footnote
-1698775	footnote
-1698777	footnote
-1698779	footnote
-1698781	footnote
-1698783	italic
+1801028	footnote
+1801031	footnote
+1801034	footnote
+1801037	footnote
+1801039	footnote
+1801042	footnote
+1801045	footnote
+1801048	footnote
+1801051	footnote
+1801053	footnote
+1801055	footnote
+1801058	footnote
+1801060	footnote
+1801065	footnote
+1801067	footnote
+1801070	footnote
+1801072	footnote
+1801074	footnote
+1801076	footnote
+1801078	footnote
+1801080	footnote
+1801082	footnote
+1801084	footnote
+1801086	italic
 italic
 superscript
 italic
@@ -17643,124 +17643,15 @@ superscript
 italic
 superscript
 footnote
-1698801	footnote
-1698804	footnote
-1698806	footnote
-1698809	footnote
-1698811	footnote
-1698813	footnote
-1698815	footnote
-1698817	footnote
-1698819	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-footnote
-1698847	footnote
-1698849	footnote
-1698852	footnote
-1698854	footnote
-1698856	footnote
-1698858	footnote
-1698860	footnote
-1698862	footnote
-1698864	footnote
-1698866	footnote
-1698868	footnote
-1698870	footnote
-1698873	footnote
-1698876	footnote
-1698878	footnote
-1698881	footnote
-1698883	footnote
-1698886	footnote
-1698888	footnote
-1698890	footnote
-1698893	footnote
-1698895	footnote
-1698897	footnote
-1698899	superscript
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-superscript
-italic
-superscript
-italic
-footnote
-1698928	footnote
-1698931	footnote
-1698933	footnote
-1698936	footnote
-1698938	footnote
-1698940	footnote
-1698942	footnote
-1698944	footnote
-1698947	footnote
-1698949	footnote
-1698952	superscript
-italic
-italic
-superscript
-italic
-italic
-superscript
-italic
-italic
-italic
-superscript
-italic
-superscript
-footnote
-1698967	footnote
-1698970	footnote
-1698973	footnote
-1698975	footnote
-1698978	footnote
-1698980	italic
-italic
-italic
+1801104	footnote
+1801107	footnote
+1801109	footnote
+1801112	footnote
+1801114	footnote
+1801116	footnote
+1801118	footnote
+1801120	footnote
+1801122	italic
 italic
 italic
 italic
@@ -17787,18 +17678,30 @@ italic
 italic
 italic
 footnote
-1699010	footnote
-1699014	footnote
-1699017	footnote
-1699020	footnote
-1699023	footnote
-1699026	footnote
-1699029	footnote
-1699032	footnote
-1699035	footnote
-footnote
-1699040	footnote
-1699042	superscript
+1801150	footnote
+1801152	footnote
+1801155	footnote
+1801157	footnote
+1801159	footnote
+1801161	footnote
+1801163	footnote
+1801165	footnote
+1801167	footnote
+1801169	footnote
+1801171	footnote
+1801173	footnote
+1801176	footnote
+1801179	footnote
+1801181	footnote
+1801184	footnote
+1801186	footnote
+1801189	footnote
+1801191	footnote
+1801193	footnote
+1801196	footnote
+1801198	footnote
+1801200	footnote
+1801202	superscript
 italic
 italic
 superscript
@@ -17817,80 +17720,31 @@ italic
 italic
 italic
 italic
+italic
+italic
+italic
+italic
 superscript
 italic
 superscript
-italic
-italic
-italic
-superscript
-footnote
-1699070	footnote
-1699072	footnote
-1699074	footnote
-1699076	footnote
-1699078	footnote
-1699080	footnote
-1699082	footnote
-1699084	footnote
-1699086	footnote
-1699088	footnote
-1699091	footnote
-1699093	footnote
-1699096	footnote
-1699098	footnote
-1699100	footnote
-1699102	footnote
-1699104	footnote
-1699106	footnote
-1699108	footnote
-1699110	footnote
-1699112	footnote
-1699115	footnote
-1699118	footnote
-1699120	footnote
-1699122	footnote
-1699124	footnote
-1699127	footnote
-1699129	italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
 italic
 footnote
-1699154	footnote
-1699157	footnote
-1699160	footnote
-1699163	footnote
-1699165	footnote
-1699168	footnote
-1699170	footnote
-1699173	footnote
-1699175	footnote
-1699178	footnote
-1699181	footnote
-1699184	footnote
-1699186	footnote
-1699189	footnote
-1699191	italic
+1801231	footnote
+1801234	footnote
+1801236	footnote
+1801239	footnote
+1801241	footnote
+1801243	footnote
+1801245	footnote
+1801247	footnote
+1801250	footnote
+1801252	footnote
+1801255	superscript
+italic
+italic
+superscript
+italic
+italic
 superscript
 italic
 italic
@@ -17898,35 +17752,53 @@ italic
 superscript
 italic
 superscript
+footnote
+1801270	footnote
+1801273	footnote
+1801276	footnote
+1801278	footnote
+1801281	footnote
+1801283	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
 italic
 italic
 footnote
-1699203	footnote
-1699205	footnote
-1699207	footnote
-1699209	footnote
-1699211	footnote
-1699213	italic
-italic
-italic
-italic
-superscript
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+1801313	footnote
+1801317	footnote
+1801320	footnote
+1801323	footnote
+1801326	footnote
+1801329	footnote
+1801332	footnote
+1801335	footnote
+1801338	footnote
+footnote
+1801343	footnote
+1801345	superscript
 italic
 italic
 superscript
@@ -17945,168 +17817,296 @@ italic
 italic
 italic
 italic
+superscript
 italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
-italic
+superscript
 italic
 italic
 italic
 superscript
 footnote
-1699353	footnote
-1699356	footnote
-1699358	footnote
-1699361	footnote
-1699364	footnote
-1699366	footnote
-1699368	footnote
-1699371	footnote
-1699373	footnote
-1699376	footnote
-1699379	footnote
-1699381	footnote
-1699383	footnote
-1699386	footnote
-1699388	footnote
-1699390	footnote
-1699393	footnote
-1699396	footnote
-1699398	footnote
-1699402	footnote
-1699405	footnote
-1699408	footnote
-1699410	footnote
-1699413	footnote
-1699416	footnote
-1699418	footnote
-1699420	footnote
-1699423	footnote
-1699425	footnote
-1699428	footnote
-1699431	footnote
-1699434	footnote
-1699437	footnote
-1699439	footnote
-1699441	footnote
-1699444	footnote
-1699447	footnote
-1699450	footnote
-1699453	footnote
-1699456	footnote
-1699459	footnote
-1699462	footnote
-1699464	footnote
-1699466	footnote
-1699469	footnote
-1699472	footnote
-1699474	footnote
-1699476	footnote
-1699478	footnote
-1699480	footnote
-1699482	footnote
-1699484	footnote
-1699487	footnote
-1699490	footnote
-1699493	footnote
-1699496	footnote
-1699499	footnote
-1699501	footnote
-1699503	footnote
-1699505	footnote
-1699507	footnote
-1927071	0
+1801373	footnote
+1801375	footnote
+1801377	footnote
+1801379	footnote
+1801381	footnote
+1801383	footnote
+1801385	footnote
+1801387	footnote
+1801389	footnote
+1801391	footnote
+1801394	footnote
+1801396	footnote
+1801399	footnote
+1801401	footnote
+1801403	footnote
+1801405	footnote
+1801407	footnote
+1801409	footnote
+1801411	footnote
+1801413	footnote
+1801415	footnote
+1801418	footnote
+1801421	footnote
+1801423	footnote
+1801425	footnote
+1801427	footnote
+1801430	footnote
+1801432	italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+footnote
+1801457	footnote
+1801460	footnote
+1801463	footnote
+1801466	footnote
+1801468	footnote
+1801471	footnote
+1801473	footnote
+1801476	footnote
+1801478	footnote
+1801481	footnote
+1801484	footnote
+1801487	footnote
+1801489	footnote
+1801492	footnote
+1801494	italic
+superscript
+italic
+italic
+italic
+superscript
+italic
+superscript
+italic
+italic
+footnote
+1801506	footnote
+1801508	footnote
+1801510	footnote
+1801512	footnote
+1801514	footnote
+1801516	italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+italic
+superscript
+footnote
+1801656	footnote
+1801659	footnote
+1801661	footnote
+1801664	footnote
+1801667	footnote
+1801669	footnote
+1801671	footnote
+1801674	footnote
+1801676	footnote
+1801679	footnote
+1801682	footnote
+1801684	footnote
+1801686	footnote
+1801689	footnote
+1801691	footnote
+1801693	footnote
+1801696	footnote
+1801699	footnote
+1801701	footnote
+1801705	footnote
+1801708	footnote
+1801711	footnote
+1801713	footnote
+1801716	footnote
+1801719	footnote
+1801721	footnote
+1801723	footnote
+1801726	footnote
+1801728	footnote
+1801731	footnote
+1801734	footnote
+1801737	footnote
+1801740	footnote
+1801742	footnote
+1801744	footnote
+1801747	footnote
+1801750	footnote
+1801753	footnote
+1801756	footnote
+1801759	footnote
+1801762	footnote
+1801765	footnote
+1801767	footnote
+1801769	footnote
+1801772	footnote
+1801775	footnote
+1801777	footnote
+1801779	footnote
+1801781	footnote
+1801783	footnote
+1801785	footnote
+1801787	footnote
+1801790	footnote
+1801793	footnote
+1801796	footnote
+1801799	footnote
+1801802	footnote
+1801804	footnote
+1801806	footnote
+1801808	footnote
+1801810	footnote
+2029374	0
 0
 0
 0
@@ -19870,20 +19870,8 @@ footnote
 0
 0
 0
-270
-0
-0
-0
-0
-0
 0
 270
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -19901,6 +19889,19 @@ footnote
 0
 0
 0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 0
 0
 0
@@ -19935,7 +19936,6 @@ footnote
 0
 0
 270
-0
 0
 0
 0
@@ -19980,8774 +19980,8 @@ footnote
 0
 0
 0
-270
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-270
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-270
-90
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-90
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-90
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-180
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-270
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-270
-270
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-180
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-180
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-270
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-270
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-180
-180
-0
-90
-0
-0
-0
-90
-180
-180
-180
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-270
-0
-0
-0
-270
-0
-90
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-180
-0
-0
-0
-180
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-90
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
 270
-0
 0
 0
 0
@@ -29229,9 +20463,9 @@ footnote
 0
 270
 0
-0
-0
 270
+0
+0
 0
 0
 0
@@ -29400,8 +20634,8 @@ footnote
 0
 0
 270
-0
 90
+0
 0
 0
 0
@@ -29944,8 +21178,8 @@ footnote
 0
 0
 0
-270
 0
+270
 0
 0
 0
@@ -30649,20 +21883,20 @@ footnote
 0
 0
 0
-0
 270
-270
-0
-0
-0
-0
-0
-0
-0
-0
 0
 270
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
 270
 0
 0
@@ -33282,71 +24516,7 @@ footnote
 0
 0
 270
-0
 270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-270
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -33367,6 +24537,16 @@ footnote
 0
 0
 0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
 0
 0
 270
@@ -33374,6 +24554,14 @@ footnote
 0
 0
 0
+0
+0
+0
+270
+0
+0
+0
+270
 0
 0
 0
@@ -33403,83 +24591,7 @@ footnote
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+270
 0
 0
 0
@@ -33492,6 +24604,34 @@ footnote
 0
 0
 270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 0
 0
 0
@@ -33605,6 +24745,100 @@ footnote
 0
 0
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 270
 0
 0
@@ -33734,8 +24968,8774 @@ footnote
 0
 0
 0
+270
+0
+0
+0
+0
+0
 0
 270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+270
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+270
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+180
+0
+90
+0
+0
+0
+90
+180
+180
+180
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+270
+0
+0
+0
+270
+0
+90
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+270
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+270
+90
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+90
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+90
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+180
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+270
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+90
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+270
+270
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+180
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+180
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+180
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+270
+0
 0
 0
 0
