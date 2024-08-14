@@ -45,7 +45,7 @@ from processhelpers import (
     TRANSCRIBER_TSV,
     HEADERS_TXT,
     PAGEINFO_TXT,
-    EXTRAINFO_YML,
+    LETTERSMETA_YML,
     SCANTRANS_TSV,
     TEIDIR,
     REPORT_THUMBERRORS,
@@ -687,6 +687,7 @@ class TeiFromDocx(PageInfo):
         secrTextLines = []
 
         textNum = None
+        target = None
         startSection = False
         date = ""
         normalizedDate = ""
@@ -765,7 +766,10 @@ class TeiFromDocx(PageInfo):
                     newTextLines.append("</div>")
 
                     if len(secrTextLines):
-                        newTextLines.append("""<div type="secretarial">""")
+                        targetRep = f""" corresp="{target}" """ if target else ""
+                        newTextLines.append(
+                            f"""<div type="secretarial" n="{textNum}"{targetRep}>"""
+                        )
                         newTextLines.extend(secrTextLines)
                         secrTextLines.clear()
                         destLines = newTextLines
@@ -775,6 +779,7 @@ class TeiFromDocx(PageInfo):
 
                 textNum = normText(match.group(1))
                 textNums.append(textNum)
+                target = None
                 textKind = None
                 startSection = True
                 continue
@@ -818,8 +823,9 @@ class TeiFromDocx(PageInfo):
                 match = ATTACHMENT_RE.match(kindSpec)
 
                 if match:
-                    (romanNum, target) = match.group(1, 2)
+                    (romanNum, targetStr) = match.group(1, 2)
                     textKind = "attachment"
+                    target = f"{targetStr:>03}"
                     atts = (
                         f"""facs="{romanNum}" n="{textNum}" """
                         f"""corresp="{target}" source="{pageSpecs}" """
@@ -831,6 +837,7 @@ class TeiFromDocx(PageInfo):
                     if match:
                         (dateSpec, placeSpec) = match.group(1, 2)
                         textKind = "letter"
+                        target = None
                         date = dateSpec
                         settlement = placeSpec.strip()
                         match = DATE_RE.match(dateSpec)
@@ -849,7 +856,10 @@ class TeiFromDocx(PageInfo):
                         self.warn(filza, letter, textNum, ln, line, warning)
                         newTextLines.append("""<div type="text">""")
 
-                newTextLines.append("""<div type="original">""")
+                targetRep = f""" corresp="{target}" """ if target else ""
+                newTextLines.append(
+                    f"""<div type="original" n="{textNum}"{targetRep}>"""
+                )
 
                 newTextLines.append(
                     line.replace("<p>", "<!--<head>").replace("</p>", "</head>-->")
@@ -887,7 +897,10 @@ class TeiFromDocx(PageInfo):
             newTextLines.append("</div>")
 
         if len(secrTextLines):
-            newTextLines.append("""<div type="secretarial">""")
+            targetRep = f""" corresp="{target}" """ if target else ""
+            newTextLines.append(
+                f"""<div type="secretarial" n="{textNum}"{targetRep}>"""
+            )
             newTextLines.extend(secrTextLines)
             secrTextLines.clear()
             destLines = newTextLines
@@ -955,6 +968,9 @@ class TeiFromDocx(PageInfo):
                 recipient=recipient,
                 recipientLoc=recipientLoc,
                 shelfmark=shelfmark,
+                editorNotes=editorNotes,
+                resources=resources,
+                summary=summary,
             )
 
         return TEMPLATE.format(
@@ -1490,7 +1506,7 @@ class TeiFromDocx(PageInfo):
                     tRep = ", ".join(sorted(transcribers))
                     lh.write(f"\t{letter} {tRep}\n")
 
-        writeYaml(extraLog, asFile=EXTRAINFO_YML)
+        writeYaml(extraLog, asFile=LETTERSMETA_YML)
 
         self.showPageWarnings()
         self.showWarnings()

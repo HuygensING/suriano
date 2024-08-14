@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T15:23:31Z
+@dateWritten=2024-08-14T10:17:11Z
 @description=whether a slot or word is in the teiHeader element
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:25:44Z
+@dateWritten=2024-08-14T10:26:23Z
 
 1
 1

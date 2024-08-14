@@ -163,7 +163,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `senderloc`
+## `senderLoc`
 
 Place from where the letter was sent
 The values of this feature have type str.
@@ -179,7 +179,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `recipientloc`
+## `recipientLoc`
 
 Place where the letter was received
 The values of this feature have type str.
@@ -195,7 +195,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `editornotes`
+## `editorNotes`
 
 Editorial notes about the attachments of the letter
 The values of this feature have type str.
@@ -463,7 +463,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `senderloc`
+## `senderLoc`
 
 Place from where the letter was sent
 The values of this feature have type str.
@@ -479,7 +479,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `recipientloc`
+## `recipientLoc`
 
 Place where the letter was received
 The values of this feature have type str.
@@ -495,7 +495,7 @@ The values of this feature have type str.
 *   `conversionCode`: `tt`
 
 
-## `editornotes`
+## `editorNotes`
 
 Editorial notes about the attachments of the letter
 The values of this feature have type str.

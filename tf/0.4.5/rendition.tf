@@ -19,7 +19,7 @@
 @valueType=str
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:23:32Z
+@dateWritten=2024-08-14T10:17:11Z
 
 1769186	simple:italic
 1769188	simple:italic

@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T15:23:32Z
+@dateWritten=2024-08-14T10:17:11Z
 @description=this is TEI attribute role
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:25:44Z
+@dateWritten=2024-08-14T10:26:23Z
 
 2061532	label
 2061534	label

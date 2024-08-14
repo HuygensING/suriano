@@ -85,7 +85,7 @@ watmDstDir="data/deploy/suriano/$watmSrcDir"
 
 if [[ "$task" == "all" || "$task" == "watm" ]]; then
     source programs/env
-    ssh "$ttvmUser@$ttvmMachine" "mkdir -p $watmDstDir"
+    ssh "$ttvmUser@$ttvmMachine" "mkdir -p /$watmDstDir"
     scp -pr "$watmSrcDir/$mode" "$ttvmUser@$ttvmMachine:/$watmDstDir" 
 fi
 

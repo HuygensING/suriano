@@ -3,7 +3,7 @@
 @valueType=str
 @version=0.4.5e
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:25:44Z
+@dateWritten=2024-08-14T10:26:23Z
 
 2071563	adam.schivelbergh
 adam.schivelbergh
@@ -299,6 +299,12 @@ alexander.van.den.berge
 alexander.van.den.berge
 alexander.van.den.berge
 alexander.van.den.berge
+alfonso.antonini
+alfonso.antonini
+alfonso.antonini
+alfonso.antonini
+alfonso.antonini
+alfonso.antonini
 alfonso.casati
 alfonso.casati
 alfonso.casati
@@ -783,6 +789,7 @@ anne.gerrard.lady.carleton
 anne.of.denmark
 anne.of.denmark
 anne.of.denmark
+anthonie.van.hilten
 anthonis.van.wassenhoven
 anthonis.van.wassenhoven
 anthonis.van.wassenhoven
@@ -836,6 +843,7 @@ antonio.donato
 antonio.donato
 antonio.donato
 antonio.donato
+antonio.foscarini
 antonio.lando
 antonio.lando
 antonio.lando
@@ -1394,6 +1402,12 @@ carlo.alajambe
 carlo.alajambe
 carlo.alajambe
 carlo.fresia
+carlos.coloma
+carlos.coloma
+carlos.coloma
+catharina.belgica.of.nassau
+catharina.belgica.of.nassau
+catharina.belgica.of.nassau
 catherine.vasa.of.sweden
 cesar.de.vendome
 cesar.de.vendome
@@ -1465,6 +1479,7 @@ charles.de.luynes
 charles.de.luynes
 charles.de.luynes
 charles.de.luynes
+charles.duke.of.mayenne
 charles.emmanuel.i.duke.of.savoy
 charles.emmanuel.i.duke.of.savoy
 charles.emmanuel.i.duke.of.savoy
@@ -1832,8 +1847,6 @@ christoffel.biesman
 christoffel.biesman
 christoffel.biesman
 christoffel.biesman
-christoffel.biesman
-christoffel.biesman
 christopher.of.ostfriesland
 chris~an.the.younger.duke.bruns~ck.luneburg
 chris~an.the.younger.duke.bruns~ck.luneburg
@@ -2088,6 +2101,8 @@ cornelius.haga
 cornelius.wixdorp
 cornelius.wixdorp
 cornelius.wixdorp
+cornelius.wixdorp
+cornelius.wixdorp
 cortland
 cortland
 cosimo.ii.de.medici
@@ -2324,6 +2339,12 @@ don.diego.sarmi~to.acuna.count.gondomar
 don.diego.sarmi~to.acuna.count.gondomar
 don.diego.sarmi~to.acuna.count.gondomar
 don.diego.sarmi~to.acuna.count.gondomar
+don.francisco.de.medina.carranza
+don.francisco.de.medina.carranza
+don.francisco.de.medina.carranza
+don.francisco.de.medina.carranza
+don.francisco.de.medina.carranza
+don.francisco.de.medina.carranza
 don.garcia.de.pareja
 don.gio.di.veglia
 don.giovanni.de.medici
@@ -3332,11 +3353,8 @@ george.villiers.1st.marquess.bucki~am
 george.william.of.brandenburg
 george.william.of.brandenburg
 george.william.of.brandenburg
-gerard.maes
-gerard.maes
-gerard.maes
-gerard.maes
-gerard.maes
+george.william.of.brandenburg
+gerard.maes.johan.prott.chris~el.pflug
 gerbrant.claessen.voocht
 gerbrant.claessen.voocht
 gerolamo.morosini
@@ -3979,6 +3997,7 @@ girolamo.lando
 girolamo.lando
 girolamo.lando
 girolamo.lando
+girolamo.priuli
 girolamo.soranzo
 girolamo.soranzo
 girolamo.trevisan
@@ -4271,6 +4290,7 @@ hendrik.wilemsen
 hendrik.wilemsen
 henri.anne.de.melun
 henri.de.la.tremoille
+henri.de.mayenne
 henri.de.mayenne
 henri.de.mayenne
 henri.de.mayenne
@@ -5227,6 +5247,7 @@ joachim.ernst.of.brandenburg.ansbach
 joachim.ernst.of.brandenburg.ansbach
 joan.wolfert.van.brederode
 joast.harinton
+jobst.von.landsberg.zu.erwitte
 johan.berck
 johan.berck
 johan.berck
@@ -5519,16 +5540,6 @@ johan.van.achtoven
 johan.van.der.veecken
 johan.van.dorth.lord.of.horst.and.pesch
 johan.van.dorth.lord.of.horst.and.pesch
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
-johan.van.groesbek
 johan.van.groesbek
 johan.van.mario.genaamd.amesmeyer
 johan.van.mario.genaamd.amesmeyer
@@ -6443,6 +6454,8 @@ lambert.adam
 lambert.adam
 lambert.adam
 lambert.charles
+lambert.charles
+lambert.charles
 lambert.from.hamburg
 lambert.hendriksz
 lambert.hendriksz
@@ -7015,6 +7028,7 @@ marco.dardani
 margaretha.van.mechelen
 maria.anna.of.bavaria
 maria.anna.of.spain
+maria.anna.of.spain
 maria.de.medici
 maria.de.medici
 maria.de.medici
@@ -7042,6 +7056,11 @@ maurice.of.hesse.kassel
 maurice.of.hesse.kassel
 maurice.of.hesse.kassel
 maurice.of.hesse.kassel
+maurice.of.hesse.kassel
+maurice.of.hesse.kassel
+maurice.of.nassau
+maurice.of.nassau
+maurice.of.nassau
 maurice.of.nassau
 maurice.of.nassau
 maurice.of.nassau
@@ -8626,6 +8645,14 @@ philip.van.steelandt.drost.van.buren
 philip.william.prince.of.orange
 philip.william.prince.of.orange
 philip.william.prince.of.orange
+philip.william.prince.of.orange
+philip.william.prince.of.orange
+philipp.christoph.von.sotern
+philipp.christoph.von.sotern
+philipp.christoph.von.sotern
+philipp.christoph.von.sotern
+philipp.christoph.von.sotern
+philipp.christoph.von.sotern
 philippe.charles.3rd.count.of.arenberg
 philippe.charles.3rd.count.of.arenberg
 philippe.de.bethune
@@ -8954,6 +8981,7 @@ reinoud.van.brederode.lord.of.cloetingen
 reinoud.van.brederode.lord.of.cloetingen
 reinoud.van.brederode.lord.of.cloetingen
 reinout.van.brederode
+renee.de.jarcourt
 reynier.pauw
 reynier.pauw
 reynier.pauw
@@ -9031,6 +9059,8 @@ sir.andrew.gray
 sir.andrew.gray
 sir.andrew.gray
 sir.andrew.gray
+sir.arthur.aston
+sir.arthur.aston
 sir.charles.morgan
 sir.francis.drake
 sir.francis.vere
@@ -9358,6 +9388,7 @@ aletta.brasser
 alexander.farnese.duke.of.parma
 alexander.rosa
 alexander.van.den.berge
+alfonso.antonini
 alfonso.casati
 alfonso.cueva.benav~es.mendoza.carrillo.marques
 alfonso.valdera
@@ -9380,11 +9411,13 @@ anna.of.holstein.gottorp
 anna.weytsen
 anne.gerrard.lady.carleton
 anne.of.denmark
+anthonie.van.hilten
 anthonis.van.wassenhoven
 antoine.potier.seigneur.de.sceaux
 anton.gunther.count.of.oldenburg
 antonio.coluri
 antonio.donato
+antonio.foscarini
 antonio.lando
 antonio.liguri.dal.zanthe
 antonio.maria.vincenti
@@ -9422,6 +9455,8 @@ captain.seton
 cardinal.francois.de.la.rochefoucauld
 carlo.alajambe
 carlo.fresia
+carlos.coloma
+catharina.belgica.of.nassau
 catherine.vasa.of.sweden
 cesar.de.vendome
 cesare.calandrini
@@ -9431,6 +9466,7 @@ charles.de.crugy
 charles.de.latfeur
 charles.de.lorraine.duke.of.guise
 charles.de.luynes
+charles.duke.of.mayenne
 charles.emmanuel.i.duke.of.savoy
 charles.i.gonzaga.duke.of.mantua
 charles.i.of.england
@@ -9486,6 +9522,7 @@ dodo.zu.innhausen.und.kyphausen
 domizio.caracciolo.marchese.della.bella
 don.cosimo.orsini
 don.diego.sarmi~to.acuna.count.gondomar
+don.francisco.de.medina.carranza
 don.garcia.de.pareja
 don.gio.di.veglia
 don.giovanni.de.medici
@@ -9568,7 +9605,7 @@ george.drugeth.homonnai
 george.frederick.of.baden.durlach
 george.villiers.1st.marquess.bucki~am
 george.william.of.brandenburg
-gerard.maes
+gerard.maes.johan.prott.chris~el.pflug
 gerbrant.claessen.voocht
 gerolamo.morosini
 gerrit.janssen.van.enkhuizen
@@ -9597,6 +9634,7 @@ giovanni.francesco.biondi
 giovanni.pesaro
 girolamo.da.novara
 girolamo.lando
+girolamo.priuli
 girolamo.soranzo
 girolamo.trevisan
 gisbert.de.coninck
@@ -9699,6 +9737,7 @@ jel
 joachim.ernst.of.brandenburg.ansbach
 joan.wolfert.van.brederode
 joast.harinton
+jobst.von.landsberg.zu.erwitte
 johan.berck
 johan.de.raet
 johan.de.roy
@@ -9841,6 +9880,7 @@ philip.otto.zu.salm
 philip.sigis~nd.bruns~ck.wolfe~el
 philip.van.steelandt.drost.van.buren
 philip.william.prince.of.orange
+philipp.christoph.von.sotern
 philippe.charles.3rd.count.of.arenberg
 philippe.de.bethune
 philippe.emmanuel.de.gondi
@@ -9878,6 +9918,7 @@ reinier.van.oldenbarnevelt
 reinier.zeno
 reinoud.van.brederode.lord.of.cloetingen
 reinout.van.brederode
+renee.de.jarcourt
 reynier.pauw
 richard.preston.lord.dingwall
 robert.devereux
@@ -9901,6 +9942,7 @@ simon.vi.count.of.lippe
 simon.vii.count.of.lippe.detmold
 simone.contarini
 sir.andrew.gray
+sir.arthur.aston
 sir.charles.morgan
 sir.francis.drake
 sir.francis.vere

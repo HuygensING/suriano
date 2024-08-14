@@ -10,7 +10,7 @@
 @institute2=Huygens Instituut Amsterdam
 @institute3=NL-LAB
 @language=it
-@levelConstraints=note < chunk, p; salute < opener, closer; profileDesc < chunk; note < chunk; fileDesc < chunk; p < chunk
+@levelConstraints=note < chunk, p; salute < opener, closer; fileDesc < chunk; profileDesc < chunk; p < chunk; note < chunk
 @schema=TEI + suriano
 @sectionFeatures=folder,file,chunk
 @sectionTypes=folder,file,chunk
@@ -19,5 +19,5 @@
 @title=Letters
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:23:33Z
+@dateWritten=2024-08-14T10:17:13Z
 

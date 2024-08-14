@@ -19,7 +19,7 @@
 @valueType=str
 @version=0.4.5
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:23:32Z
+@dateWritten=2024-08-14T10:17:12Z
 
 1767723	Reports on his audience with John Frederick, Duke of Württemburg. In relation to the war with the Uskoks, John Frederick has informed him that Frederick V of Palatinate wrote, in name of all the members of the Protestant Union, to the Holy Roman Emperor to find a solution. The Duke assures him that they will continue to support Venice, and signals that he has prevented levies of troops by the Emperor in his duchy. Reports that he further discussed the plan of princes of the Union with the counsellor Buwinckhausen, an old acquintance from his as a secretary time at the English court.
 Reports that archduke Leopold visited Stuttgart. The Duke of Württemberg has informed Suriano of his conversation with archduke Leopold on the war between the Venetians and the archduke Ferdinand. He writes further that he will continue his travel to the Dutch Republic visiting various German princes. He ends by saying how much has borrowed from different merchants to finance his mission and by offering the services of two captains who had come to see him before he left Zürich. Attached to the letter is a copy of a Latin letter by the Duke of Württemberg dated 26 June 1616.

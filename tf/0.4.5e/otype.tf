@@ -4,7 +4,7 @@
 @contributors2=Nina Lamal
 @contributors3=Helmer Helmers
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-08-13T15:23:31Z
+@dateWritten=2024-08-14T10:17:11Z
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
 @institute2=Huygens Instituut Amsterdam
@@ -18,7 +18,7 @@
 @version=0.4.5e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-08-13T15:25:44Z
+@dateWritten=2024-08-14T10:26:23Z
 
 1-1697464	t
 1697465-1698189	author
@@ -62,5 +62,5 @@
 2069388-2070112	text
 2070113-2070837	title
 2070838-2071562	titleStmt
-2071563-2080891	ent
-2080892-2081508	entity
+2071563-2080921	ent
+2080922-2081550	entity

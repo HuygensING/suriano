@@ -8826,19 +8826,17 @@ Table of contents
 | [collection](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-collection.html) |   |  | 725
 | [correspDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-correspDesc.html) |   |  | 725
 | [date](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html) | [when](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#when) | `NNNN-NN-NN` | 725
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [corresp](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#corresp) | `N` | 43
-| | | `NN` | 450
-| | | `NNN` | 123
-|   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `NNN` | 1325
-| | | `NNNa` | 2
-| | | `NNNb` | 2
-| | | `NNNbis` | 3
-| | | `NNNc` | 2
-| | | `NNNd` | 2
-| | | `NNNe` | 2
-| | | `NNNf` | 1
-| | | `NNNg` | 1
-| | | `NNNh` | 1
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [corresp](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#corresp) | `NNN` | 1252
+|   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `NNN` | 3386
+| | | `NNNa` | 4
+| | | `NNNb` | 4
+| | | `NNNbis` | 6
+| | | `NNNc` | 4
+| | | `NNNd` | 4
+| | | `NNNe` | 4
+| | | `NNNf` | 2
+| | | `NNNg` | 2
+| | | `NNNh` | 2
 |   | [source](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#source) | `NNNr-NNNbis v` | 1
 | | | `NNNr-NNNr, NNNv-NNNv` | 1
 | | | `NNNr-NNNv` | 367

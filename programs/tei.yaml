@@ -64,7 +64,7 @@ extra:
           type: sent
       - correspDesc
     nodeType: file
-  senderloc:
+  senderLoc:
     meta:
       description: >-
         Place from where the letter was sent
@@ -90,7 +90,7 @@ extra:
           type: received
       - correspDesc
     nodeType: file
-  recipientloc:
+  recipientLoc:
     meta:
       description: >-
         Place where the letter was received
@@ -114,7 +114,7 @@ extra:
       - note
       - correspDesc
     nodeType: file
-  editornotes:
+  editorNotes:
     meta:
       description: >-
         Editorial notes about the attachments of the letter

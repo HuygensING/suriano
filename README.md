@@ -10,14 +10,29 @@ In this repo we develop a website for the correspondence of Christofforo Suriano
 
 We proceed as follows:
 
-1.  There are incoming transcriptions in Word
-1.  They are converted to TEI
+1.  There are incoming page scans, they are renamed and checked for completeness
+1.  There are incoming transcriptions in Word, they are converted to TEI, and
+    in the process the page sequneces in the transcriptions are compared with
+    the pages in the scans
 1.  The TEI is converted to Text-Fabric
-1.  By means of Text-Fabric we generate a set of text fragments and annotations
-    and import it into the systems of TeamText: AnnoRepo and TextRepo
-1.  By means of Broccoli we make a configuration for a website
+1.  Using Text-Fabric and a spreadsheet of named entity triggers, we mark thousands
+    of named entities in the text
+1.  By means of Text-Fabric we generate a WATM export: a set of text fragments
+    and annotations
+1.  By means of Text-Fabric we generate IIIF manifest for the page scans
+1.  The WATM output is exported to the Team Text virtual machine
+1.  The manifests and other static files are exported to a persistent volume on
+    our k8s network
+
+This is where the control of this repo stops. The infrastructure of TeamText takes
+over from here:
+
+1.  The WATM is imported in TextRepo and AnnoRepo: essentially it is a stream of
+    tokens and a set of web annotations
+1.  Additional configuration to steer the final display and the search indexes
+    is added to Broccoli and Brinta
 1.  Finally, TextAnnoViz displays the letters on the website, fed by the contents of
-    AnnoRepo, TextRepo, Broccoli
+    AnnoRepo, TextRepo, Brinta and Broccoli.
 
 There is a large degree of isomorphism between the Text-Fabric data and the final 
 website data.
@@ -32,6 +47,47 @@ We'll provide a set of tutorials for that.
 
 The source data and the TEI that we derived from it and more is available on
 [SurfDrive (public readonly link)](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
+
+# How to operate this repo
+
+Clone this repo so that it sits in exactly this directory:
+
+```
+~/gitlab.huc.knaw.nl/suriano/letters
+```
+
+(`~` is the home directory on your system)
+
+Retrieve the contents of the Surfdrive directory above, so that it sits in exactly
+this directory:
+
+```
+~/gitlab.huc.knaw.nl/suriano/letters/datasource
+```
+
+Start JupyterLab and navigate to the notebook
+
+```
+~/gitlab.huc.knaw.nl/suriano/letters/programs/convertPlain.ipynb
+```
+
+This notebook controls the complete workflow from ingest of the scans through the
+execution steps of the conversion and ending with the export of the results
+to the right locations.
+
+You need to create a file `env` in this `programs` directory, which will not be
+version controlled, and not pushed to gitlab, with contents as in
+code.huc.knaw.nl.
+
+The notebook has three parts:
+
+1. The whole process in a single cell, with standard settings. 
+   *N.B.:* This will mill through all the 9000 scans, generates thumbnails from them
+   and recomputes their sizes. Not recommended.
+2. The whole process divided into 5-10 main steps. Here you can skip the ingest of the
+   scans. Every step is a command line instruction, so there no debugging possibilities.
+3. The whole process straight from Python, where the intermediate data remains stored
+   in memory. Recommended for fine control and debugging.
 
 # About
 
