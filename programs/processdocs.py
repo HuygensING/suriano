@@ -42,10 +42,9 @@ from processhelpers import (
     SUMMARY_FILE,
     DOCXDIR,
     TEIXDIR,
-    TRANSCRIBER_TSV,
+    PAGETRANSCRIBER_TSV,
     HEADERS_TXT,
     PAGEINFO_TXT,
-    LETTERSMETA_YML,
     SCANTRANS_TSV,
     TEIDIR,
     REPORT_THUMBERRORS,
@@ -53,7 +52,9 @@ from processhelpers import (
     REPORT_WARNINGS,
     REPORT_PAGEWARNINGS,
     PAGESEQ_JSON,
-    LETTERINFO_TXT,
+    LETTERTRANSCRIBER_TXT,
+    LETTERMETA_YML,
+    LETTERDATE_YML,
     PageInfo,
     Page,
     distilPages,
@@ -115,8 +116,7 @@ TEMPLATE = """\
         </msDesc>
         <bibl>
             <note>
-                {editorNotes}.
-                {resources}.
+                {editorNotes}
             </note>
             <biblScope unit="page">{biblScope}</biblScope>
         </bibl>
@@ -351,6 +351,22 @@ PARA_PAGE_INTERRUPT_RE = re.compile(
     re.X | re.S,
 )
 
+HEAD_PB_INVERT1_RE = re.compile(
+    r"""
+    (<head>[^\n]*</head>\n)
+    (<pb[^\n]*/>\n)
+    """,
+    re.X | re.S,
+)
+
+HEAD_PB_INVERT2_RE = re.compile(
+    r"""
+    <head>([^\n]*)</head>\n
+    <p\ (n="[^"]*")>[^<]*</p>\n
+    """,
+    re.X | re.S,
+)
+
 
 NL_RE = re.compile(r""" *\n\s*""", re.S)
 WHITE_RE = re.compile(r"""  +""", re.S)
@@ -560,7 +576,9 @@ class TeiFromDocx(PageInfo):
         resourcesI = fields[RESOURCES]
         shelfmarkI = fields[SHELFMARK]
 
-        rows = [row for row in rows if any(c.value for c in row)]
+        rows = [
+            (r + 2, row) for (r, row) in enumerate(rows) if any(c.value for c in row)
+        ]
 
         information = {}
         self.extraLetterData = information
@@ -576,7 +594,7 @@ class TeiFromDocx(PageInfo):
 
             return htmlEsc(result)
 
-        for row in rows:
+        for r, row in rows:
             year = fi(row, yearI)
             month = f"{fi(row, monthI):>02}"
             day = f"{fi(row, dayI):>02}"
@@ -587,19 +605,24 @@ class TeiFromDocx(PageInfo):
             summary = fs(row, summaryI)
             editorNotes = fs(row, editorNotesI)
             resources = fs(row, resourcesI)
+            sep = (
+                ". "
+                if editorNotes and not editorNotes.rstrip().endswith(".") and resources
+                else ""
+            )
             shelfmark = fs(row, shelfmarkI)
 
             date = f"{year}-{month}-{day}"
 
             information.setdefault(date, []).append(
                 dict(
+                    row=r,
                     sender=sender,
                     senderLoc=senderLoc,
                     recipient=recipient,
                     recipientLoc=recipientLoc,
                     summary=summary,
-                    editorNotes=editorNotes,
-                    resources=resources,
+                    editorNotes=f"{editorNotes}{sep}{resources}",
                     shelfmark=shelfmark,
                 )
             )
@@ -641,6 +664,9 @@ class TeiFromDocx(PageInfo):
         self.filzaPages[filza] = collections.defaultdict(list)
         self.filzaPageNums[filza] = {}
 
+        letterDate = self.letterDate
+        letterDate[filza] = {}
+
         extraLog = self.extraLog
         extraLog[filza] = {}
 
@@ -665,6 +691,7 @@ class TeiFromDocx(PageInfo):
         if self.error:
             return
 
+        letterDatesFilza = self.letterDate[filza]
         extraLogFilza = self.extraLog[filza]
         pageInfo = self.pageInfo
         extraLetterData = self.extraLetterData
@@ -768,7 +795,11 @@ class TeiFromDocx(PageInfo):
                     if len(secrTextLines):
                         targetRep = f""" corresp="{target}" """ if target else ""
                         newTextLines.append(
-                            f"""<div type="secretarial" n="{textNum}"{targetRep}>"""
+                            f"""<div type="recipientContent" """
+                            f"""n="{textNum}"{targetRep}>"""
+                        )
+                        newTextLines.append(
+                            f"<head>{textKind} - recipient content</head>"
                         )
                         newTextLines.extend(secrTextLines)
                         secrTextLines.clear()
@@ -858,12 +889,13 @@ class TeiFromDocx(PageInfo):
 
                 targetRep = f""" corresp="{target}" """ if target else ""
                 newTextLines.append(
-                    f"""<div type="original" n="{textNum}"{targetRep}>"""
+                    f"""<div type="senderContent" n="{textNum}"{targetRep}>"""
                 )
 
                 newTextLines.append(
-                    line.replace("<p>", "<!--<head>").replace("</p>", "</head>-->")
+                    line.replace("<p>", "<!--<p>").replace("</p>", "</p>-->")
                 )
+                newTextLines.append(f"<head>{textKind} - sender content</head>")
                 continue
 
             match = PAGES_LINE_RE.search(line)
@@ -899,8 +931,9 @@ class TeiFromDocx(PageInfo):
         if len(secrTextLines):
             targetRep = f""" corresp="{target}" """ if target else ""
             newTextLines.append(
-                f"""<div type="secretarial" n="{textNum}"{targetRep}>"""
+                f"""<div type="recipientContent" n="{textNum}"{targetRep}>"""
             )
+            newTextLines.append(f"<head>{textKind} - recipient content</head>")
             newTextLines.extend(secrTextLines)
             secrTextLines.clear()
             destLines = newTextLines
@@ -908,6 +941,7 @@ class TeiFromDocx(PageInfo):
 
         newTextLines.append("</div>")
 
+        letterDatesFilza.setdefault(normalizedDate, []).append(letter)
         transcribers = set()
 
         for page in letterPages:
@@ -927,6 +961,8 @@ class TeiFromDocx(PageInfo):
         text = NL_RE.sub("\n", text)
         text = WHITE_RE.sub(" ", text)
         text = NL_WHITE_RE.sub("\n", text)
+        text = HEAD_PB_INVERT1_RE.sub(r"\2\1", text)
+        text = HEAD_PB_INVERT2_RE.sub(r"<head><!--\2-->\1</head>\n", text)
 
         extraDatas = extraLetterData.get(normalizedDate, [])
 
@@ -941,16 +977,12 @@ class TeiFromDocx(PageInfo):
             break
 
         if extraData is None:
-            warning = "no extra letter data in xls"
-            self.warn(filza, letter, "", "", normalizedDate, warning, summarize=True)
-
             sender = ""
             senderLoc = ""
             recipient = ""
             recipientLoc = ""
             summary = ""
             editorNotes = ""
-            resources = ""
             shelfmark = ""
         else:
             sender = extraData[SENDER]
@@ -959,19 +991,19 @@ class TeiFromDocx(PageInfo):
             recipientLoc = extraData[RECIPIENTLOC]
             summary = extraData[SUMMARY]
             editorNotes = extraData[EDITORNOTES]
-            resources = extraData[RESOURCES]
             shelfmark = extraData[SHELFMARK]
 
-            extraLogFilza[normalizedDate] = dict(
+        extraLogFilza.setdefault(normalizedDate, []).append(
+            dict(
                 sender=sender,
                 senderLoc=senderLoc,
                 recipient=recipient,
                 recipientLoc=recipientLoc,
                 shelfmark=shelfmark,
                 editorNotes=editorNotes,
-                resources=resources,
                 summary=summary,
             )
+        )
 
         return TEMPLATE.format(
             filza=filza,
@@ -989,7 +1021,6 @@ class TeiFromDocx(PageInfo):
             recipientLoc=recipientLoc,
             summary=summary,
             editorNotes=editorNotes,
-            resources=resources,
             shelfmark=shelfmark,
             notes="\n".join(NOTES),
         )
@@ -1124,7 +1155,7 @@ class TeiFromDocx(PageInfo):
             for text, n in sorted(headerTexts.items()):
                 rh.write(f"{n:>3} x «{text}»\n")
 
-        with open(TRANSCRIBER_TSV, "w") as rh:
+        with open(PAGETRANSCRIBER_TSV, "w") as rh:
             for filza in sorted(transcriberInfo):
                 pages = transcriberInfo[filza]
 
@@ -1154,7 +1185,7 @@ class TeiFromDocx(PageInfo):
 
         console("Collecting transcribers ...")
 
-        with open(TRANSCRIBER_TSV) as rh:
+        with open(PAGETRANSCRIBER_TSV) as rh:
             for line in rh:
                 (filza, pageStr, transcribers) = line.rstrip("\n").split("\t")
                 page = Page.parse(pageStr, kind="log")
@@ -1338,8 +1369,13 @@ class TeiFromDocx(PageInfo):
         self.pageWarnings = []
         self.pageWarningCount = 0
 
+        letterDate = {}
+        self.letterDate = letterDate
+
         extraLog = {}
         self.extraLog = extraLog
+
+        extraLetterData = self.extraLetterData
 
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhp = open(REPORT_PAGEWARNINGS, mode="w")
@@ -1499,14 +1535,77 @@ class TeiFromDocx(PageInfo):
                             letter=letter,
                         )
 
-        with open(LETTERINFO_TXT, "w") as lh:
+        with open(LETTERTRANSCRIBER_TXT, "w") as lh:
             for filza, letterInfo in sorted(letterTranscribers.items()):
                 lh.write(f"\nFilza {filza}\n\n")
                 for letter, transcribers in sorted(letterInfo.items()):
                     tRep = ", ".join(sorted(transcribers))
                     lh.write(f"\t{letter} {tRep}\n")
 
-        writeYaml(extraLog, asFile=LETTERSMETA_YML)
+        writeYaml(letterDate, asFile=LETTERDATE_YML)
+        writeYaml(extraLog, asFile=LETTERMETA_YML)
+
+        dateFilza = {}
+
+        for filza, dates in letterDate.items():
+            for date in dates:
+                dateFilza.setdefault(date, set()).add(filza)
+
+        for date, filzas in sorted(dateFilza.items()):
+            if len(filzas) > 1:
+                filzaRep = ", ".join(filzas)
+                warning = f"{date} occurs in multiple filzas: {filzaRep}"
+                self.warn(filza, "", "", "", date, warning, summarize=False)
+
+        letterDates = {}
+
+        for dates in letterDate.values():
+            for date, textLetters in dates.items():
+                letterDates[date] = textLetters
+
+        allDates = set(extraLetterData) | set(letterDates)
+
+        warnings = []
+
+        for date in sorted(allDates):
+            textLetters = letterDates.get(date, [])
+            metaLetters = extraLetterData.get(date, [])
+
+            nTLetters = len(textLetters)
+            nMLetters = len(metaLetters)
+
+            if nTLetters == nMLetters:
+                continue
+
+            if nTLetters < nMLetters:
+                for i in range(nTLetters, nMLetters):
+                    letter = metaLetters[i]
+                    shelfmark = letter["shelfmark"]
+                    row = letter["row"]
+                    filzas = dateFilza.get(date, set())
+                    filza = ", ".join(sorted(filzas))
+                    warning = (
+                        f"{filza:2} {date}: metadata in r{row} "
+                        f"for untranscribed letter {shelfmark}"
+                    )
+                    warnings.append(warning)
+            else:
+                for i in range(nMLetters, nTLetters):
+                    letter = textLetters[i]
+                    filzas = dateFilza[date]
+                    filza = ", ".join(sorted(filzas))
+                    warning = f"{filza:2} {date}: no metadata for letter {letter}"
+                    warnings.append(warning)
+
+        if len(warnings):
+            console(
+                f"{len(warnings)} discrepancies between summary file and letters",
+                error=True,
+            )
+            for warning in warnings:
+                self.console(f"\t{warning}", error=True)
+        else:
+            self.console("Metadata in summary file corresponds to transcribed letters")
 
         self.showPageWarnings()
         self.showWarnings()

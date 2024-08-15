@@ -48,6 +48,10 @@ We'll provide a set of tutorials for that.
 The source data and the TEI that we derived from it and more is available on
 [SurfDrive (public readonly link)](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
 
+There is an extensive
+[README](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT#editor)
+that describes the contents of that data.
+
 # How to operate this repo
 
 Clone this repo so that it sits in exactly this directory:

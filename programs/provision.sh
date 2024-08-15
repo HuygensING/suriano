@@ -11,7 +11,9 @@ Arguments
 mode: prod|dev
     provision the production or development pvc and or the team text VM
 
-task: files|images|all
+task: inspect|files|images|all
+    inspect
+        open a ssh shell on the target machine
     watm
         copy the watm to the team text VM
     files
@@ -48,7 +50,7 @@ if [[ -z $task ]]; then
     printf "For more info pass --help\n"
     exit
 fi
-if [[ "$task" != "watm" && "$task" != "files" && "$task" != "images" && "$task" != "all" ]]; then
+if [[ "$task" != "inspect" && "$task" != "watm" && "$task" != "files" && "$task" != "images" && "$task" != "all" ]]; then
     printf "task argument should be watm or files or images or all\n"
     printf "For more info pass --help\n"
     exit
@@ -82,9 +84,10 @@ latest=`cat watm/latest`
 watmSrcDir="watm/$latest"
 watmDstDir="data/deploy/suriano/$watmSrcDir"
 
+source programs/env
+
 
 if [[ "$task" == "all" || "$task" == "watm" ]]; then
-    source programs/env
     ssh "$ttvmUser@$ttvmMachine" "mkdir -p /$watmDstDir"
     scp -pr "$watmSrcDir/$mode" "$ttvmUser@$ttvmMachine:/$watmDstDir" 
 fi
@@ -97,4 +100,8 @@ if [[ "$task" == "all" || "$task" == "files" ]]; then
     cd static
     ktoc -c sidecar "$mode" /data/files
     ktoc -c sidecar both /data/files
+fi
+
+if [[ "$task" == "inspect" ]]; then
+    ssh "$ttvmUser@$ttvmMachine"
 fi

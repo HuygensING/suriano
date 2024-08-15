@@ -197,15 +197,7 @@ The values of this feature have type str.
 
 ## `editorNotes`
 
-Editorial notes about the attachments of the letter
-The values of this feature have type str.
-*   `conversionMethod`: `derived`
-*   `conversionCode`: `tt`
-
-
-## `resources`
-
-Additional notes about the attachments of the letter
+Editorial notes and additional information about the letter and its attachments
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -497,15 +489,7 @@ The values of this feature have type str.
 
 ## `editorNotes`
 
-Editorial notes about the attachments of the letter
-The values of this feature have type str.
-*   `conversionMethod`: `derived`
-*   `conversionCode`: `tt`
-
-
-## `resources`
-
-Additional notes about the attachments of the letter
+Editorial notes and additional information about the letter and its attachments
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`

@@ -117,19 +117,7 @@ extra:
   editorNotes:
     meta:
       description: >-
-        Editorial notes about the attachments of the letter
-      valueType: str
-      conversionMethod: derived
-      conversionCode: tt
-    path:
-      - note
-      - bibl
-      - sourceDesc
-    nodeType: file
-  resources:
-    meta:
-      description: >-
-        Additional notes about the attachments of the letter
+        Editorial notes and additional information about the letter and its attachments
       valueType: str
       conversionMethod: derived
       conversionCode: tt
