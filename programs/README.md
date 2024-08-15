@@ -16,10 +16,6 @@ Install [Imagemagick](https://imagemagick.org).
 [Pandoc](https://pandoc.org)
 is software that can convert Word files to simple TEI.
 
-```
-[Imagemagick](https://imagemagick.org)
-```
-
 ### Install Python and packages
 
 Python can be installed from [python.org](www.python.org).
@@ -92,7 +88,7 @@ from code.huc.knaw.nl and put it in
 Start JupyterLab and navigate to the notebook
 
 ```
-~/gitlab.huc.knaw.nl => suriano => letters => programs => convertPlain.ipynb
+gitlab.huc.knaw.nl => suriano => letters => programs => convertPlain.ipynb
 ```
 
 This notebook controls the complete [workflow](#workflow-overview) from ingest of the
