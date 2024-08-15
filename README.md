@@ -54,48 +54,10 @@ that describes the contents of that data.
 
 # How to operate this repo
 
-Clone this repo so that it sits in exactly this directory:
-
-```
-~/gitlab.huc.knaw.nl/suriano/letters
-```
-
-(`~` is the home directory on your system)
-
-Retrieve the contents of the Surfdrive directory above, so that it sits in exactly
-this directory:
-
-```
-~/gitlab.huc.knaw.nl/suriano/letters/datasource
-```
-
-Start JupyterLab and navigate to the notebook
-
-```
-~/gitlab.huc.knaw.nl/suriano/letters/programs/convertPlain.ipynb
-```
-
-This notebook controls the complete workflow from ingest of the scans through the
-execution steps of the conversion and ending with the export of the results
-to the right locations.
-
-You need to create a file `env` in this `programs` directory, which will not be
-version controlled, and not pushed to gitlab, with contents as in
-code.huc.knaw.nl.
-
-The notebook has three parts:
-
-1. The whole process in a single cell, with standard settings. 
-   *N.B.:* This will mill through all the 9000 scans, generates thumbnails from them
-   and recomputes their sizes. Not recommended.
-2. The whole process divided into 5-10 main steps. Here you can skip the ingest of the
-   scans. Every step is a command line instruction, so there no debugging possibilities.
-3. The whole process straight from Python, where the intermediate data remains stored
-   in memory. Recommended for fine control and debugging.
+See the [README.md](programs/README.md) in the programs directory.
 
 # About
 
 [Project](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
 
 [Ph.D. thesis Pieter Geyl, 1913](https://archive.org/details/christofforosuri00geyl/page/n3/mode/2up)
-
