@@ -4,12 +4,9 @@ HELP="Provision the PVC on k8s
 
 USAGE
 
-./provision.sh mode task
+./provision.sh task
 
 Arguments
-
-mode: prod|dev
-    provision the production or development pvc and or the team text VM
 
 task: inspect|files|images|all
     inspect
@@ -28,20 +25,6 @@ if [[ "$1" == "--help" && "$1" == "-h" && "$1" == "-?" ]]; then
     printf "$HELP"
     exit
 fi
-
-mode=$1
-
-if [[ -z $mode ]]; then
-    printf "Pass mode and task arguments.\n"
-    printf "For more info pass --help\n"
-    exit
-fi
-if [[ "$mode" != "prod" && "$mode" != "dev" ]]; then
-    printf "mode argument should be prod or dev\n"
-    printf "For more info pass --help\n"
-    exit
-fi
-shift
 
 task=$1
 
@@ -71,13 +54,8 @@ function k {
 
 k
 
-if [[ "$mode" == "dev" ]]; then
-    imageInDir="thumb"
-    kset suriano
-else
-    imageInDir="scans"
-    kset Suriano
-fi
+imageInDir="scans"
+kset suriano
 
 kcd
 latest=`cat watm/latest`
@@ -88,8 +66,10 @@ source programs/env
 
 
 if [[ "$task" == "all" || "$task" == "watm" ]]; then
+    printf "WATM export version: $latest\n"
+    exit
     ssh "$ttvmUser@$ttvmMachine" "mkdir -p /$watmDstDir"
-    scp -pr "$watmSrcDir/$mode" "$ttvmUser@$ttvmMachine:/$watmDstDir" 
+    scp -pr "$watmSrcDir/prod" "$ttvmUser@$ttvmMachine:/$watmDstDir" 
 fi
 
 if [[ "$task" == "all" || "$task" == "images" ]]; then
@@ -98,7 +78,7 @@ fi
 
 if [[ "$task" == "all" || "$task" == "files" ]]; then
     cd static
-    ktoc -c sidecar "$mode" /data/files
+    ktoc -c sidecar "prod" /data/files
     ktoc -c sidecar both /data/files
 fi
 
