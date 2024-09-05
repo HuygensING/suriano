@@ -434,9 +434,31 @@ HI_SPURIOUS = re.compile(
     r"""
     <hi\b[^>]*>
     (
-        [\s\n.,:;\[\]\(\)|/]*
+        [\s\n.,:;\[\]\(\)|/…]*
     )
     </hi>
+    """,
+    re.X | re.S,
+)
+
+HI_SMALLCAPS = re.compile(
+    r"""
+    <hi\ rend="smallcaps">
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+HI_MOVELB = re.compile(
+    r"""
+    (</hi>)
+    (
+        [\s\n.,:;\[\]\(\)/…]*
+        [|]
+        [\s\n.,:;\[\]\(\)/…]*
+    )
+    (</p>)
     """,
     re.X | re.S,
 )
@@ -879,6 +901,14 @@ class TeiFromDocx(PageInfo):
         for i, line in enumerate(textLines):
             ln = i + 1
 
+            line = line.replace("""rendition=""", """rend=""")
+            line = line.replace("""rend="simple:""", '''rend="''')
+            line = line.replace("""<hi rend="italic"><lb /></hi>""", "")
+            line = HI_SMALLCAPS.sub(r"\1", line)
+            line = HI_REDUCE.sub(r"\1", line)
+            line = HI_SPURIOUS.sub(r"\1", line)
+            line = HI_MOVELB.sub(r"\2\1\3", line)
+
             match = SECTION_START_RE.match(line)
 
             if match:
@@ -1033,10 +1063,6 @@ class TeiFromDocx(PageInfo):
             metaMarkRepl = self.makeMetaMark(filza, lastPage)
             italicMarkRepl = self.makeItalicMark(filza, lastPage)
 
-            line = line.replace("""rendition=""", """rend=""")
-            line = line.replace("""rend="simple:""", '''rend="''')
-            line = HI_REDUCE.sub(r"\1", line)
-            line = HI_SPURIOUS.sub(r"\1", line)
             line = EDITORIAL_RE.sub(metaMarkRepl, line)
             line = ITALIC_RE.sub(italicMarkRepl, line)
 
@@ -1564,20 +1590,33 @@ class TeiFromDocx(PageInfo):
                         else:
                             unknownMarks[mat] += 1
 
-            rh.write("Unknown editorial marks encountered:\n")
+            nUnknown = len(unknownMarks)
+            totUnknown = sum(unknownMarks.values())
 
-            for mat, n in sorted(unknownMarks.items()):
+            if nUnknown:
+                console(
+                    f"Unknown editorial marks: {nUnknown} marks in {totUnknown} occs",
+                    error=True,
+                )
+
+            rh.write(
+                f"Unknown editorial marks encountered ({nUnknown} x {totUnknown}):\n"
+            )
+
+            for mat in sorted(unknownMarks, key=lambda x: x.lower()):
+                n = unknownMarks[mat]
                 rh.write(f"{n:>4} x *{mat}\n")
 
             rh.write("\nKnown editorial marks NOT encountered:\n")
 
-            for mat in sorted(allowedEditorials):
+            for mat in sorted(allowedEditorials, key=lambda x: x.lower()):
                 if mat not in knownMarks:
                     rh.write(f"\t{mat}\n")
 
             rh.write("\nKnown editorial marks encountered:\n")
 
-            for mat, n in sorted(knownMarks.items()):
+            for mat in sorted(knownMarks, key=lambda x: x.lower()):
+                n = knownMarks[mat]
                 rh.write(f"{n:>4} x {mat}\n")
 
             rh.write("\nAll editorial marks with their pages:\n")
@@ -1609,20 +1648,31 @@ class TeiFromDocx(PageInfo):
                         else:
                             unknownMarks[mat] += 1
 
-            rh.write("Unknown italic marks encountered:\n")
+            nUnknown = len(unknownMarks)
+            totUnknown = sum(unknownMarks.values())
 
-            for mat, n in sorted(unknownMarks.items()):
+            if nUnknown:
+                console(
+                    f"Unknown italic marks: {nUnknown} marks in {totUnknown} occs",
+                    error=True,
+                )
+
+            rh.write(f"Unknown italic marks encountered ({nUnknown} x {totUnknown}):\n")
+
+            for mat in sorted(unknownMarks, key=lambda x: x.lower()):
+                n = unknownMarks[mat]
                 rh.write(f"{n:>4} x *{mat}\n")
 
             rh.write("\nKnown italic marks NOT encountered:\n")
 
-            for mat in sorted(origEditorials):
+            for mat in sorted(origEditorials, key=lambda x: x.lower()):
                 if mat not in knownMarks:
                     rh.write(f"\t{mat}\n")
 
             rh.write("\nKnown italic marks encountered:\n")
 
-            for mat, n in sorted(knownMarks.items()):
+            for mat in sorted(knownMarks, key=lambda x: x.lower()):
+                n = knownMarks[mat]
                 rh.write(f"{n:>4} x {mat}\n")
 
             rh.write("\nAll italic marks with their pages:\n")
