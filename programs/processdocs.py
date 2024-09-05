@@ -31,6 +31,7 @@ from tf.core.files import (
     extNm,
     mTime,
     fileExists,
+    readYaml,
     writeJson,
     writeYaml,
 )
@@ -45,6 +46,10 @@ from processhelpers import (
     PAGETRANSCRIBER_TSV,
     HEADERS_TXT,
     PAGEINFO_TXT,
+    METAMARKS_TXT,
+    ITALICS_TXT,
+    DECODIFIED_TXT,
+    EDITORIAL_YML,
     SCANTRANS_TSV,
     TEIDIR,
     REPORT_THUMBERRORS,
@@ -351,23 +356,6 @@ PARA_PAGE_INTERRUPT_RE = re.compile(
     re.X | re.S,
 )
 
-HEAD_PB_INVERT1_RE = re.compile(
-    r"""
-    (<head>[^\n]*</head>\n)
-    (<pb[^\n]*/>\n)
-    """,
-    re.X | re.S,
-)
-
-HEAD_PB_INVERT2_RE = re.compile(
-    r"""
-    <head>([^\n]*)</head>\n
-    <p\ (n="[^"]*")>[^<]*</p>\n
-    """,
-    re.X | re.S,
-)
-
-
 NL_RE = re.compile(r""" *\n\s*""", re.S)
 WHITE_RE = re.compile(r"""  +""", re.S)
 NL_WHITE_RE = re.compile(r"""(?: \n)|(?:\n )""", re.S)
@@ -392,8 +380,66 @@ STRIP_P_RE = re.compile(
     re.X | re.S,
 )
 
+EDITORIAL_RE = re.compile(
+    r"""
+    <hi\ rend="bold"[^>]*>
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+ITALIC_RE = re.compile(
+    r"""
+    <hi\ rend="italic"[^>]*>
+    (.*?)
+    </hi>
+    (
+        (?:
+            <ptr\b[^>]*>
+        )?
+    )
+    """,
+    re.X | re.S,
+)
 
 APOS_RE = re.compile(r"""['‘]""")
+
+HI_REDUCE = re.compile(
+    r"""
+    </hi>
+    (
+        \s*
+        (?:
+            (?:
+                \[
+                [^\]]*
+                \]
+            )
+            |
+            (?:
+                <ptr\b[^>]*/>
+            )
+            |
+            [.,|]
+        )?
+        \s*
+    )
+    <hi\b[^>]*>
+    """,
+    re.X | re.S,
+)
+
+HI_SPURIOUS = re.compile(
+    r"""
+    <hi\b[^>]*>
+    (
+        [\s\n.,:;\[\]\(\)|/]*
+    )
+    </hi>
+    """,
+    re.X | re.S,
+)
 
 
 def normalizeChars(text):
@@ -462,6 +508,12 @@ class TeiFromDocx(PageInfo):
         self.filzaPageNums = {}
         self.rhw = None
         self.filzaPages = {}
+        self.metaMarks = {}
+        self.italics = {}
+        self.decodified = {}
+        editorials = readYaml(asFile=EDITORIAL_YML)
+        self.allowedEditorials = set(editorials.english)
+        self.origEditorials = set(editorials.italian)
 
     def warn(self, filza, letter, textNum, ln, line, heading, summarize=False):
         rhw = self.rhw
@@ -631,20 +683,27 @@ class TeiFromDocx(PageInfo):
             f"\tfound metadata for {sum(len(x) for x in information.values())} letters"
         )
 
-    def trimPage(self, filza, letter, textNum, spec, pages):
+    def trimPage(self, filza, letter, textNum, pages):
         rotateInfo = self.rotateInfo
-        spec = spec.strip()
 
         elements = []
 
-        for page in pages:
+        lastPage = f"{pages[-1]}"
+        nPages = len(pages)
+        sep = "" if nPages <= 1 else "\n"
+
+        for i, page in enumerate(pages):
             if not page.isTrue():
                 elements.append(f"""\n<p n="{page}">{EM_DASH * 3}</p>\n""")
                 continue
 
             facs = f"{filza}_{page}"
+            sameAs = "" if i == nPages - 1 else f""" sameAs="same as {lastPage}" """
+
             rot = rotateInfo.get(filza, {}).get(page, 0)
-            elements.append(f"""<pb n="{page}" facs="{facs}" rend="{rot}"/>""")
+            elements.append(
+                f"""<pb n="{page}" facs="{facs}"{sameAs} rend="{rot}"{sep}/>"""
+            )
 
         logicalPages = "".join(elements)
         return f"""{logicalPages}"""
@@ -652,12 +711,54 @@ class TeiFromDocx(PageInfo):
     def addExtra(self, info):
         pass
 
+    def makeMetaMark(self, filza, page):
+        metaMarks = self.metaMarks
+
+        def mmm(match):
+            material = match.group(1)
+            material = material.replace("\n", " ")
+            metaMarks[filza].setdefault(page, []).append(material)
+            return f"""<metamark facs="{material.replace('"', '&quot;')}"/>"""
+
+        return mmm
+
+    def makeItalicMark(self, filza, page):
+        italics = self.italics
+        decodified = self.decodified
+
+        def mmm(match):
+            material, ptr = match.group(1, 2)
+            material = material.replace("\n", " ")
+
+            isDecoded = "|" in material or "<ptr" in material or ptr
+
+            if isDecoded:
+                decodified[filza].setdefault(page, []).append(material)
+            else:
+                italics[filza].setdefault(page, []).append(material)
+            return (
+                f"""<hi rend="decoded">{material}</hi>{ptr}"""
+                if isDecoded
+                else f"""<metamark facs="{material.replace('"', '&quot;')}"/>"""
+            )
+
+        return mmm
+
     def transformFilza(self, file, filza):
         if self.error:
             return
 
         with open(f"{TEIXDIR}/{file}") as f:
             text = f.read()
+
+        metaMarks = self.metaMarks
+        metaMarks[filza] = {}
+
+        italics = self.italics
+        italics[filza] = {}
+
+        decodified = self.decodified
+        decodified[filza] = {}
 
         letterTexts = []
         self.pageSeq[filza] = []
@@ -714,6 +815,7 @@ class TeiFromDocx(PageInfo):
         secrTextLines = []
 
         textNum = None
+        romanNum = None
         target = None
         startSection = False
         date = ""
@@ -794,12 +896,11 @@ class TeiFromDocx(PageInfo):
 
                     if len(secrTextLines):
                         targetRep = f""" corresp="{target}" """ if target else ""
+                        romanNumRep = "" if romanNum is None else f" ({romanNum})"
                         newTextLines.append(
                             f"""<div type="recipientContent" """
+                            f"""facs="recipient content{romanNumRep}" """
                             f"""n="{textNum}"{targetRep}>"""
-                        )
-                        newTextLines.append(
-                            f"<head>{textKind} - recipient content</head>"
                         )
                         newTextLines.extend(secrTextLines)
                         secrTextLines.clear()
@@ -813,6 +914,7 @@ class TeiFromDocx(PageInfo):
                 target = None
                 textKind = None
                 startSection = True
+                romanNum = None
                 continue
 
             if startSection:
@@ -863,6 +965,7 @@ class TeiFromDocx(PageInfo):
                     )
                     newTextLines.append(f"""<div type="appendix" {atts}>""")
                 else:
+                    romanNum = None
                     match = LETTER_RE.match(kindSpec)
 
                     if match:
@@ -888,14 +991,16 @@ class TeiFromDocx(PageInfo):
                         newTextLines.append("""<div type="text">""")
 
                 targetRep = f""" corresp="{target}" """ if target else ""
+                romanNumRep = "" if romanNum is None else f" ({romanNum})"
                 newTextLines.append(
-                    f"""<div type="senderContent" n="{textNum}"{targetRep}>"""
+                    f"""<div type="senderContent" """
+                    f"""facs="sender content{romanNumRep}" """
+                    f"""n="{textNum}"{targetRep}>"""
                 )
 
                 newTextLines.append(
                     line.replace("<p>", "<!--<p>").replace("</p>", "</p>-->")
                 )
-                newTextLines.append(f"<head>{textKind} - sender content</head>")
                 continue
 
             match = PAGES_LINE_RE.search(line)
@@ -903,12 +1008,19 @@ class TeiFromDocx(PageInfo):
             if match:
                 pre, pageMark, post = match.group(1, 2, 3)
                 pageMarks.append(pageMark)
-                pages = processPageMark(pageMark)
+                pages = sorted(processPageMark(pageMark))
                 pageSeq.extend([f"{filza}_{page}" for page in pages if page.isTrue()])
-                newText = (
-                    pre + self.trimPage(filza, letter, textNum, pageMark, pages) + post
-                )
+                newText = pre + self.trimPage(filza, letter, textNum, pages) + post
                 destLines.append(newText)
+
+                if len(pages) > 1:
+                    self.pageWarn(
+                        True,
+                        f"multiple page mark {Page.setRep(pages)}",
+                        filza=filza,
+                        letter=letter,
+                        textNum=textNum,
+                    )
                 continue
 
             match = SECRETARIAL_START_RE.match(line)
@@ -916,6 +1028,17 @@ class TeiFromDocx(PageInfo):
             if match:
                 destLines = secrTextLines
                 continue
+
+            lastPage = pageSeq[-1]
+            metaMarkRepl = self.makeMetaMark(filza, lastPage)
+            italicMarkRepl = self.makeItalicMark(filza, lastPage)
+
+            line = line.replace("""rendition=""", """rend=""")
+            line = line.replace("""rend="simple:""", '''rend="''')
+            line = HI_REDUCE.sub(r"\1", line)
+            line = HI_SPURIOUS.sub(r"\1", line)
+            line = EDITORIAL_RE.sub(metaMarkRepl, line)
+            line = ITALIC_RE.sub(italicMarkRepl, line)
 
             destLines.append(line)
 
@@ -930,10 +1053,12 @@ class TeiFromDocx(PageInfo):
 
         if len(secrTextLines):
             targetRep = f""" corresp="{target}" """ if target else ""
+            romanNumRep = "" if romanNum is None else f" ({romanNum})"
             newTextLines.append(
-                f"""<div type="recipientContent" n="{textNum}"{targetRep}>"""
+                f"""<div type="recipientContent" """
+                f"""facs="recipient content{romanNumRep}" """
+                f"""n="{textNum}"{targetRep}>"""
             )
-            newTextLines.append(f"<head>{textKind} - recipient content</head>")
             newTextLines.extend(secrTextLines)
             secrTextLines.clear()
             destLines = newTextLines
@@ -956,13 +1081,10 @@ class TeiFromDocx(PageInfo):
         text = text.replace("<lb/></p>", "</p>")
         # text = text.replace("[", "<supplied>")
         # text = text.replace("]", "</supplied>")
-        text = text.replace("""rendition="simple:""", '''rend="''')
         text = PARA_PAGE_INTERRUPT_RE.sub(r"\1\2", text)
         text = NL_RE.sub("\n", text)
         text = WHITE_RE.sub(" ", text)
         text = NL_WHITE_RE.sub("\n", text)
-        text = HEAD_PB_INVERT1_RE.sub(r"\2\1", text)
-        text = HEAD_PB_INVERT2_RE.sub(r"<head><!--\2-->\1</head>\n", text)
 
         extraDatas = extraLetterData.get(normalizedDate, [])
 
@@ -1376,6 +1498,11 @@ class TeiFromDocx(PageInfo):
         self.extraLog = extraLog
 
         extraLetterData = self.extraLetterData
+        allowedEditorials = self.allowedEditorials
+        origEditorials = self.origEditorials
+        metaMarks = self.metaMarks
+        italics = self.italics
+        decodified = self.decodified
 
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhp = open(REPORT_PAGEWARNINGS, mode="w")
@@ -1422,6 +1549,106 @@ class TeiFromDocx(PageInfo):
                     f.write(letterText)
 
         writeJson(pageSeq, asFile=PAGESEQ_JSON)
+
+        with open(METAMARKS_TXT, "w") as rh:
+            knownMarks = collections.Counter()
+            unknownMarks = collections.Counter()
+
+            for filza in sorted(metaMarks):
+                pageData = metaMarks[filza]
+
+                for page in sorted(pageData):
+                    for mat in pageData[page]:
+                        if mat in allowedEditorials:
+                            knownMarks[mat] += 1
+                        else:
+                            unknownMarks[mat] += 1
+
+            rh.write("Unknown editorial marks encountered:\n")
+
+            for mat, n in sorted(unknownMarks.items()):
+                rh.write(f"{n:>4} x *{mat}\n")
+
+            rh.write("\nKnown editorial marks NOT encountered:\n")
+
+            for mat in sorted(allowedEditorials):
+                if mat not in knownMarks:
+                    rh.write(f"\t{mat}\n")
+
+            rh.write("\nKnown editorial marks encountered:\n")
+
+            for mat, n in sorted(knownMarks.items()):
+                rh.write(f"{n:>4} x {mat}\n")
+
+            rh.write("\nAll editorial marks with their pages:\n")
+
+            for filza in sorted(metaMarks):
+                rh.write(f"\nFilza {filza}\n")
+                pageData = metaMarks[filza]
+
+                for page in sorted(pageData):
+                    for i, mat in enumerate(pageData[page]):
+                        prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
+
+                        if mat not in allowedEditorials:
+                            mat = f"*{mat}"
+
+                        rh.write(f"\t{prefix}{mat}\n")
+
+        with open(ITALICS_TXT, "w") as rh:
+            knownMarks = collections.Counter()
+            unknownMarks = collections.Counter()
+
+            for filza in sorted(italics):
+                pageData = italics[filza]
+
+                for page in sorted(pageData):
+                    for mat in pageData[page]:
+                        if mat in origEditorials:
+                            knownMarks[mat] += 1
+                        else:
+                            unknownMarks[mat] += 1
+
+            rh.write("Unknown italic marks encountered:\n")
+
+            for mat, n in sorted(unknownMarks.items()):
+                rh.write(f"{n:>4} x *{mat}\n")
+
+            rh.write("\nKnown italic marks NOT encountered:\n")
+
+            for mat in sorted(origEditorials):
+                if mat not in knownMarks:
+                    rh.write(f"\t{mat}\n")
+
+            rh.write("\nKnown italic marks encountered:\n")
+
+            for mat, n in sorted(knownMarks.items()):
+                rh.write(f"{n:>4} x {mat}\n")
+
+            rh.write("\nAll italic marks with their pages:\n")
+
+            for filza in sorted(italics):
+                rh.write(f"\nFilza {filza}\n")
+                pageData = italics[filza]
+
+                for page in sorted(pageData):
+                    for i, mat in enumerate(pageData[page]):
+                        prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
+
+                        if mat not in origEditorials:
+                            mat = f"*{mat}"
+
+                        rh.write(f"\t{prefix}{mat}\n")
+
+        with open(DECODIFIED_TXT, "w") as rh:
+            for filza in sorted(decodified):
+                rh.write(f"\nFilza {filza}\n")
+                pageData = decodified[filza]
+
+                for page in sorted(pageData):
+                    for i, mat in enumerate(pageData[page]):
+                        prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
+                        rh.write(f"\t{prefix}{mat}\n")
 
         with open(PAGEINFO_TXT, "w") as rh:
             for filza in sorted(pageInfo):
