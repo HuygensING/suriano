@@ -31,7 +31,6 @@ from tf.core.files import (
     extNm,
     mTime,
     fileExists,
-    readYaml,
     writeJson,
     writeYaml,
 )
@@ -44,13 +43,15 @@ from processhelpers import (
     DOCXDIR,
     TEIXDIR,
     PAGETRANSCRIBER_TSV,
+    TRANS_TXT,
     HEADERS_TXT,
     PAGEINFO_TXT,
     METAMARKS_TXT,
-    ITALICS_TXT,
     DECODIFIED_TXT,
     DISPLACED_TXT,
-    EDITORIAL_YML,
+    FOOTNOTESRM_TXT,
+    FOOTNOTESUT_TXT,
+    FOOTNOTESEG_TXT,
     SCANTRANS_TSV,
     TEIDIR,
     REPORT_THUMBERRORS,
@@ -64,6 +65,8 @@ from processhelpers import (
     PageInfo,
     Page,
     distilPages,
+    ucFirst,
+    lcFirst,
 )
 
 
@@ -364,11 +367,6 @@ WHITE_RE = re.compile(r"""  +""", re.S)
 NL_WHITE_RE = re.compile(r"""(?: \n)|(?:\n )""", re.S)
 
 
-def stripNewlines(match):
-    text = match.group(0)
-    return text.replace("\n", " ")
-
-
 STRIP_P_RE = re.compile(
     r"""
     ^
@@ -383,9 +381,9 @@ STRIP_P_RE = re.compile(
     re.X | re.S,
 )
 
-BOLD_RE = re.compile(
+META_RE = re.compile(
     r"""
-    <hi\ rend="bold"[^>]*>
+    <hi\ rend="(bold|italic)"[^>]*>
     (.*?)
     </hi>
     """,
@@ -397,20 +395,6 @@ UNDERLINE_RE = re.compile(
     <hi\ rend="underline"[^>]*>
     (.*?)
     </hi>
-    """,
-    re.X | re.S,
-)
-
-ITALIC_RE = re.compile(
-    r"""
-    <hi\ rend="italic"[^>]*>
-    (.*?)
-    </hi>
-    (
-        (?:
-            <ptr\b[^>]*>
-        )?
-    )
     """,
     re.X | re.S,
 )
@@ -499,6 +483,89 @@ HI_TRANSLATE = re.compile(
     re.X | re.S,
 )
 
+HI_ITALIC_STRIP = re.compile(
+    r"""
+    <hi\b[^>]*rend="italic"[^>]*>
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+# All chars:
+# [^A-Za-z0-9="/,.;:?#’…½¾(){}\[\]~|^<>àáçèÈéÉęìíñòó°ùú  ­￼*_-]
+#
+
+ALL_GLYPHS = r"""A-Za-z0-9="/?#’…½¾(){}\[\]~|^àáçèÈéÉęìíñòó°ùú*_-"""
+
+
+FOOTNOTE_ROMAN = re.compile(
+    rf"""
+    (</hi>|<p>)
+    (
+        [^<{ALL_GLYPHS}]*
+        [{ALL_GLYPHS}]
+        [^<]*?
+    )
+    (<hi\b|</p>)
+    """,
+    re.X | re.S,
+)
+
+TRANS_SEP = re.compile(
+    r"""
+    ^
+    (
+        [\ .,;:-]*
+    )
+    (
+        .*?
+    )
+    (
+        [\ .,;:-]*
+    )
+    $
+    """,
+    re.X | re.S,
+)
+
+PART_SPEC = re.compile(
+    r"""
+    ^
+    (.*?)
+    (
+        [,;]
+        \s*
+    )
+    (.*)
+    $
+    """,
+    re.X | re.S,
+)
+
+PAGE_SPEC = re.compile(
+    r"""
+    ^
+    (.*?)
+    (
+        \bc?c\.
+        (?:
+            ,?
+            \s*
+            [0-9]+
+            [rv]?
+            (?:
+                -
+                [0-9rv]*
+            )?
+        )+
+    )
+    (.*)
+    $
+    """,
+    re.X | re.S,
+)
+
 
 def normalizeChars(text):
     return APOS_RE.sub("’", text)
@@ -506,6 +573,11 @@ def normalizeChars(text):
 
 def stripP(match):
     return match.group(1).strip()
+
+
+def stripNewlines(match):
+    text = match.group(0)
+    return text.replace("\n", " ")
 
 
 FILZA_RE = re.compile(r"^([0-9]+)(.*)$")
@@ -532,29 +604,6 @@ NOTE_RE = re.compile(
 )
 
 
-NOTES = []
-NOTEMARK = 0
-
-
-def moveNote(match):
-    global NOTEMARK
-
-    NOTEMARK += 1
-    noteText = match.group(1).strip()
-    noteText = STRIP_P_RE.sub(stripP, noteText)
-    footNote = (
-        f"""<note xml:id="tn{NOTEMARK}"><p><hi rend="footnote">{NOTEMARK}</hi> """
-        f"""{noteText}</p></note>"""
-    )
-    NOTES.append(footNote)
-    return f"""<ptr target="#tn{NOTEMARK}" n="{NOTEMARK}"/>"""
-
-
-# All chars:
-# [^A-Za-z0-9="/,.;:?#’…½¾(){}\[\]~|^<>àáçèÈéÉęìíñòó°ùú  ­￼*_-]
-#
-
-
 class TeiFromDocx(PageInfo):
     def __init__(self, silent=False):
         PageInfo.__init__(self, silent=silent)
@@ -567,13 +616,8 @@ class TeiFromDocx(PageInfo):
         self.rhw = None
         self.filzaPages = {}
         self.metaMarks = {}
-        self.italics = {}
         self.decodified = {}
         self.displaceds = {}
-        editorials = readYaml(asFile=EDITORIAL_YML)
-        self.allowedEditorials = set(editorials.english)
-        self.origEditorials = set(editorials.italian)
-        self.forceDecoded = set(editorials.decoded)
 
     def warn(self, filza, letter, textNum, ln, line, heading, summarize=False):
         rhw = self.rhw
@@ -771,14 +815,142 @@ class TeiFromDocx(PageInfo):
     def addExtra(self, info):
         pass
 
-    def makeMetaMark(self, filza, page):
-        metaMarks = self.metaMarks
+    def makeMoveNote(self, filza, letter):
+        notes = self.notes
+        notesLog = self.notesLog
+        notesIt = self.notesIt
+        editorialTrans = self.editorialTrans
+
+        self.noteMark += 1
+        self.noteText = None
+
+        def insertQuote(match):
+            (pre, roman, post) = match.group(1, 2, 3)
+            romanl = roman.lstrip()
+
+            if romanl != roman:
+                pre += " "
+
+            romanlr = romanl.rstrip()
+
+            if romanlr != romanl:
+                post = f" {post}"
+
+            roman = romanlr
+            return f"""{pre}"{roman}"{post}"""
+
+        def stripItalic(match):
+            it = match.group(1)
+            it = WHITE_RE.sub(" ", it)
+
+            parts = []
+            rest = it
+
+            while len(rest):
+                match = PART_SPEC.match(rest)
+
+                if match:
+                    (thisIt, sep, rest) = match.group(1, 2, 3)
+                else:
+                    thisIt = rest
+                    sep = None
+                    rest = ""
+
+                parts.append((True, thisIt))
+
+                if sep is not None:
+                    parts.append((False, sep))
+
+            result = []
+
+            for isIt, it in parts:
+                if not isIt:
+                    result.append(it)
+                    continue
+
+                rest = it
+
+                while len(rest):
+                    match = PAGE_SPEC.match(rest)
+
+                    if match:
+                        (thisIt, pages, rest) = match.group(1, 2, 3)
+                    else:
+                        thisIt = rest
+                        pages = None
+                        rest = ""
+
+                    match2 = TRANS_SEP.match(thisIt)
+                    (pre, thisIt, post) = match2.group(1, 2, 3)
+
+                    if thisIt:
+                        notesIt.setdefault(lcFirst(thisIt), []).append(
+                            (f"{filza}:{letter}", self.noteText)
+                        )
+                        en = editorialTrans.get(thisIt, thisIt)
+                    else:
+                        en = ""
+                    result.append(f"{pre}{en}{post}")
+
+                    if pages is not None:
+                        result.append(pages)
+
+            return "".join(result)
 
         def mmm(match):
-            material = match.group(1)
+            noteMark = self.noteMark
+            self.noteText = match.group(1).strip()
+            line = PARA_NEWLINE_RE.sub(stripNewlines, self.noteText)
+            line = line.replace("""rendition=""", """rend=""")
+            line = line.replace("""rend="simple:""", '''rend="''')
+            noteIn = line
+            line = HI_SMALLCAPS.sub(r"\1", line)
+            line = HI_ESCAPE.sub(r"<hi_\1>\2</hi_\1>", line)
+            line = HI_REDUCE.sub(r"\1", line)
+            line = HI_SPURIOUS.sub(r"\1", line)
+            line = FOOTNOTE_ROMAN.sub(insertQuote, line)
+            line = HI_ITALIC_STRIP.sub(stripItalic, line)
+            line = HI_UNESCAPE.sub(r"""<hi rend="\1">\2</hi>""", line)
+            line = WHITE_RE.sub(" ", line)
+            noteOut = line
+
+            noteMark = self.noteMark
+            footNote = (
+                f"""<note xml:id="tn{noteMark}">"""
+                f"""<p><hi rend="footnote">{noteMark}</hi> """
+                f"""{line}</p></note>"""
+            )
+            notes.append(footNote)
+            notesLog[filza][letter].setdefault(noteMark, []).append((noteIn, noteOut))
+            return f"""<ptr target="#tn{noteMark}" n="{noteMark}"/>"""
+
+        return mmm
+
+    def makeMetaRepl(self, filza, page):
+        editorialTrans = self.editorialTrans
+        allowedEditorials = self.allowedEditorials
+        metaMarks = self.metaMarks
+        decodified = self.decodified
+
+        def mmm(match):
+            rend = match.group(1)
+            material = match.group(2)
             material = material.replace("\n", " ")
-            metaMarks[filza].setdefault(page, []).append(material)
-            return f"""<metamark facs="{material.replace('"', '&quot;')}"/>"""
+            materialClean = material.strip()
+
+            if rend == "italic":
+                en = editorialTrans.get(materialClean, None)
+            else:
+                en = materialClean
+                if en not in allowedEditorials:
+                    en is None
+
+            if en is None:
+                decodified[filza].setdefault(page, []).append(material)
+                return f"""<hi rend="{DECODED}">{material}</hi>"""
+            else:
+                metaMarks[filza].setdefault(page, []).append(en)
+                return f"""<metamark facs="{en}"/>"""
 
         return mmm
 
@@ -793,31 +965,6 @@ class TeiFromDocx(PageInfo):
 
         return mmm
 
-    def makeDecodedMark(self, filza, page):
-        forceDecoded = self.forceDecoded
-        italics = self.italics
-        decodified = self.decodified
-
-        def mmm(match):
-            material, ptr = match.group(1, 2)
-            material = material.replace("\n", " ")
-
-            isDecoded = (
-                material in forceDecoded or "|" in material or "<ptr" in material or ptr
-            )
-
-            if isDecoded:
-                decodified[filza].setdefault(page, []).append(material)
-            else:
-                italics[filza].setdefault(page, []).append(material)
-            return (
-                f"""<hi rend="{DECODED}">{material}</hi>{ptr}"""
-                if isDecoded
-                else f"""<metamark facs="{material.replace('"', '&quot;')}"/>"""
-            )
-
-        return mmm
-
     def transformFilza(self, file, filza):
         if self.error:
             return
@@ -828,14 +975,14 @@ class TeiFromDocx(PageInfo):
         metaMarks = self.metaMarks
         metaMarks[filza] = {}
 
-        italics = self.italics
-        italics[filza] = {}
-
         decodified = self.decodified
         decodified[filza] = {}
 
         displaceds = self.displaceds
         displaceds[filza] = {}
+
+        notesLog = self.notesLog
+        notesLog[filza] = {}
 
         letterTexts = []
         self.pageSeq[filza] = []
@@ -869,6 +1016,8 @@ class TeiFromDocx(PageInfo):
         if self.error:
             return
 
+        notesLogLetter = {}
+        self.notesLog[filza][letter] = notesLogLetter
         letterDatesFilza = self.letterDate[filza]
         extraLogFilza = self.extraLog[filza]
         pageInfo = self.pageInfo
@@ -879,12 +1028,16 @@ class TeiFromDocx(PageInfo):
         filzaPageNums = self.filzaPageNums[filza]
         pageSeq = self.pageSeq[filza]
 
-        global NOTEMARK
+        notes = []
+        self.notes = notes
 
-        NOTEMARK = 0
-        NOTES.clear()
+        self.noteMark = 0
+        self.notes.clear()
+
+        moveNote = self.makeMoveNote(filza, letter)
 
         text = NOTE_RE.sub(moveNote, text)
+
         text = PARA_NEWLINE_RE.sub(stripNewlines, text)
         text = text.replace("\u00a0", " ").replace("\u00ad", " ").replace("\ufffc", " ")
         textLines = text.split("\n")
@@ -1116,12 +1269,10 @@ class TeiFromDocx(PageInfo):
                 continue
 
             lastPage = pageSeq[-1]
-            metaMarkRepl = self.makeMetaMark(filza, lastPage)
-            decodedMarkRepl = self.makeDecodedMark(filza, lastPage)
+            metaMarkRepl = self.makeMetaRepl(filza, lastPage)
             displacedMarkRepl = self.makeDisplacedMark(filza, lastPage)
 
-            line = BOLD_RE.sub(metaMarkRepl, line)
-            line = ITALIC_RE.sub(decodedMarkRepl, line)
+            line = META_RE.sub(metaMarkRepl, line)
             line = HI_UNESCAPE.sub(r"""<hi rend="\1">\2</hi>""", line)
             line = UNDERLINE_RE.sub(displacedMarkRepl, line)
             line = HI_TRANSLATE.sub(r"""<hi rend="decoded">""", line)
@@ -1230,7 +1381,7 @@ class TeiFromDocx(PageInfo):
             summary=summary,
             editorNotes=editorNotes,
             shelfmark=shelfmark,
-            notes="\n".join(NOTES),
+            notes="\n".join(notes),
         )
 
     def teiFromDocx(self):
@@ -1566,6 +1717,80 @@ class TeiFromDocx(PageInfo):
             console(msgTrans, error=noTrans > 0)
             console(f"See {SCANTRANS_TSV}", error=True)
 
+    def readTransTable(self):
+        editorialTrans = {}
+        self.editorialTrans = editorialTrans
+
+        allowedEditorials = set()
+        self.allowedEditorials = allowedEditorials
+
+        with open(TRANS_TXT) as fh:
+
+            enLine = None
+            itLine = None
+
+            inText = None
+
+            for i, line in enumerate(fh):
+                ln = i + 1
+                line = line.strip()
+
+                if line == "# IN TEXT":
+                    inText = True
+                    continue
+
+                if line == "# IN FOOTNOTES":
+                    inText = False
+                    continue
+
+                if not line or line.startswith("#"):
+                    continue
+
+                if inText is None:
+                    if line.startswith("IT: ") or line.startswith("EN: "):
+                        console(
+                            f"Error in translation table {TRANS_TXT}, line {ln}: "
+                            "No IN TEXT of IN FOOTNOTES encountered "
+                            "before IT or EN line",
+                            error=True,
+                        )
+                        continue
+
+                if line.startswith("IT: "):
+                    if itLine is not None:
+                        console(
+                            f"Error in translation table {TRANS_TXT}, line {ln}: "
+                            "Unexpected IT line",
+                            error=True,
+                        )
+                    itLine = line[4:]
+                    enLine = None
+                    continue
+
+                if line.startswith("EN: "):
+                    enLine = line[4:]
+
+                    if not enLine or enLine == "x":
+                        enLine = None
+
+                    if inText and enLine is not None:
+                        allowedEditorials.add(enLine)
+                        allowedEditorials.add(ucFirst(enLine))
+
+                    if itLine is not None:
+                        editorialTrans[itLine] = enLine
+                        editorialTrans[ucFirst(itLine)] = ucFirst(enLine)
+
+                    itLine = None
+                    enLine = None
+                    continue
+
+                console(
+                    f"Error in translation table {TRANS_TXT}, line {ln}: "
+                    f"Unrecognized line: {line}",
+                    error=True,
+                )
+
     def teiFromTei(self):
         if self.error:
             return
@@ -1583,14 +1808,20 @@ class TeiFromDocx(PageInfo):
         extraLog = {}
         self.extraLog = extraLog
 
+        notesLog = {}
+        self.notesLog = notesLog
+
+        notesIt = {}
+        self.notesIt = notesIt
+
         extraLetterData = self.extraLetterData
-        allowedEditorials = self.allowedEditorials
-        origEditorials = self.origEditorials
-        forceDecoded = self.forceDecoded
         metaMarks = self.metaMarks
-        italics = self.italics
         decodified = self.decodified
         displaceds = self.displaceds
+
+        self.readTransTable()
+        editorialTrans = self.editorialTrans
+        allowedEditorials = self.allowedEditorials
 
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhp = open(REPORT_PAGEWARNINGS, mode="w")
@@ -1669,15 +1900,23 @@ class TeiFromDocx(PageInfo):
                 n = unknownMarks[mat]
                 rh.write(f"{n:>4} x *{mat}\n")
 
-            knownMissing = allowedEditorials - set(knownMarks)
-            nKnownMissing = len(knownMissing)
+            nKnownMissing = 0
+
+            for mat in allowedEditorials:
+                if ucFirst(mat) not in knownMarks and lcFirst(mat) not in knownMarks:
+                    nKnownMissing += 1
 
             if nKnownMissing:
-                rh.write("f\nKnown editorial marks NOT encountered ({nKnownMissing}:\n")
+                rh.write(
+                    f"\nKnown editorial marks NOT encountered ({nKnownMissing}):\n"
+                )
                 console(f"{nKnownMissing} editorial marks NOT encountered", error=True)
 
                 for mat in sorted(allowedEditorials, key=lambda x: x.lower()):
-                    if mat not in knownMarks:
+                    if (
+                        ucFirst(mat) not in knownMarks
+                        and lcFirst(mat) not in knownMarks
+                    ):
                         rh.write(f"\t{mat}\n")
             else:
                 rh.write("\nAll known editorial marks encountered\n")
@@ -1703,124 +1942,15 @@ class TeiFromDocx(PageInfo):
 
                         rh.write(f"\t{prefix}{mat}\n")
 
-        with open(ITALICS_TXT, "w") as rh:
-            knownMarks = collections.Counter()
-            unknownMarks = collections.Counter()
-
-            for filza in sorted(italics):
-                pageData = italics[filza]
-
-                for page in sorted(pageData):
-                    for mat in pageData[page]:
-                        if mat in origEditorials:
-                            knownMarks[mat] += 1
-                        else:
-                            unknownMarks[mat] += 1
-
-            nUnknown = len(unknownMarks)
-            totUnknown = sum(unknownMarks.values())
-
-            if nUnknown:
-                console(
-                    f"Unknown italic marks: {nUnknown} marks in {totUnknown} occs",
-                    error=True,
-                )
-
-            rh.write(f"Unknown italic marks encountered ({nUnknown} x {totUnknown}):\n")
-
-            for mat in sorted(unknownMarks, key=lambda x: x.lower()):
-                n = unknownMarks[mat]
-                rh.write(f"{n:>4} x *{mat}\n")
-
-            knownMissing = origEditorials - set(knownMarks)
-            nKnownMissing = len(knownMissing)
-
-            if nKnownMissing:
-                console(f"{nKnownMissing} italic marks NOT encountered", error=True)
-                rh.write("\nKnown italic marks NOT encountered:\n")
-
-                for mat in sorted(origEditorials, key=lambda x: x.lower()):
-                    if mat not in knownMarks:
-                        rh.write(f"\t{mat}\n")
-            else:
-                rh.write("\nAll known italic marks encountered\n")
-
-            rh.write("\nKnown italic marks encountered:\n")
-
-            for mat in sorted(knownMarks, key=lambda x: x.lower()):
-                n = knownMarks[mat]
-                rh.write(f"{n:>4} x {mat}\n")
-
-            rh.write("\nAll italic marks with their pages:\n")
-
-            for filza in sorted(italics):
-                rh.write(f"\nFilza {filza}\n")
-                pageData = italics[filza]
-
-                for page in sorted(pageData):
-                    for i, mat in enumerate(pageData[page]):
-                        prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
-
-                        sigil = (
-                            "!"
-                            if mat in forceDecoded
-                            else "" if mat in origEditorials else "*"
-                        )
-                        mat = f"{sigil}{mat}"
-
-                        rh.write(f"\t{prefix}{mat}\n")
-
         with open(DECODIFIED_TXT, "w") as rh:
-            forceDecodedItems = collections.Counter()
-
             for filza in sorted(decodified):
                 rh.write(f"\nFilza {filza}\n")
                 pageData = decodified[filza]
 
                 for page in sorted(pageData):
                     for i, mat in enumerate(pageData[page]):
-                        if mat in forceDecoded:
-                            forceDecodedItems[mat] += 1
-
                         prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
                         rh.write(f"\t{prefix}{mat}\n")
-
-            nForceDecoded = len(forceDecodedItems)
-            totForceDecoded = sum(forceDecodedItems.values())
-
-            if nForceDecoded:
-                console(
-                    f"Force decoded italic marks: {nForceDecoded} marks in "
-                    f"{totForceDecoded} occs",
-                    error=True,
-                )
-
-            rh.write(
-                "Forced decoded italic items encountered "
-                f"({nForceDecoded} x {totForceDecoded}):\n"
-            )
-
-            for mat in sorted(forceDecodedItems, key=lambda x: x.lower()):
-                n = forceDecodedItems[mat]
-                rh.write(f"{n:>4} x *{mat}\n")
-
-            forceMissing = forceDecoded - set(forceDecodedItems)
-            nForceMissing = len(forceMissing)
-
-            if nForceMissing:
-                console(
-                    f"{nForceMissing} force decoded italic marks NOT encountered:\n",
-                    error=True,
-                )
-                rh.write(
-                    "\nForce decoded italic marks NOT encountered ({nForceMissing}):\n"
-                )
-
-                for mat in sorted(forceDecoded, key=lambda x: x.lower()):
-                    if mat not in forceDecodedItems:
-                        rh.write(f"\t{mat}\n")
-            else:
-                rh.write("\nAll force decoded italic marks encountered\n")
 
         with open(DISPLACED_TXT, "w") as rh:
             for filza in sorted(displaceds):
@@ -1831,6 +1961,55 @@ class TeiFromDocx(PageInfo):
                     for i, mat in enumerate(pageData[page]):
                         prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
                         rh.write(f"\t{prefix}{mat}\n")
+
+        with open(FOOTNOTESRM_TXT, "w") as rh:
+            for filza in sorted(notesLog):
+                rh.write(f"\nFilza {filza}\n")
+                letterData = notesLog[filza]
+
+                for letter in sorted(letterData):
+                    rh.write(f"\tletter {letter}\n")
+                    noteData = letterData[letter]
+
+                    for note in sorted(noteData):
+                        rh.write(f"\t\tnote {note}\n")
+
+                        for noteIn, noteOut in noteData[note]:
+                            rh.write(f"""\t\t\t"IN : {noteIn}"\n""")
+                            rh.write(f"""\t\t\t"OUT: {noteOut}"\n""")
+
+        with open(FOOTNOTESUT_TXT, "w") as rh, open(FOOTNOTESEG_TXT, "w") as xh:
+            nUntrans = 0
+            totUntrans = 0
+            nTrans = 0
+            totTrans = 0
+
+            for it in sorted(notesIt, key=lambda x: x.lower()):
+                en = editorialTrans.get(it, None)
+
+                if en is None:
+                    en = "x"
+                    nUntrans += 1
+                    totUntrans += n
+                    occs = notesIt[it]
+                    n = len(occs)
+                    label = "e.g. " if n > 1 else ""
+                    xh.write(f"{it}\n\t{n:>4} x {label}{occs[0][0]}\n\t{occs[0][1]}\n\n")
+                    rh.write(f"{it}\n")
+                else:
+                    nTrans += 1
+                    totTrans += n
+
+            self.console(
+                f"Translated italian editorial phrases ({nTrans} x {totTrans})"
+            )
+
+            if nUntrans:
+                console(
+                    "Untranslated italian editorial phrases "
+                    f"({nUntrans} x {totUntrans})",
+                    error=True,
+                )
 
         with open(PAGEINFO_TXT, "w") as rh:
             for filza in sorted(pageInfo):

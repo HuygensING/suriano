@@ -47,6 +47,7 @@ METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
 TEIXDIR = f"{_TRANSDIR}/teiSimple"
+TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 PAGETRANSCRIBER_TSV = f"{_TREPORTDIR}/pagetranscriber.tsv"
 HEADERS_TXT = f"{_TREPORTDIR}/headers.txt"
 LETTERTRANSCRIBER_TXT = f"{_TREPORTDIR}/lettertranscriber.txt"
@@ -54,11 +55,12 @@ LETTERMETA_YML = f"{_TREPORTDIR}/lettermeta.yml"
 LETTERDATE_YML = f"{_TREPORTDIR}/letterdate.yml"
 PAGEINFO_TXT = f"{_TREPORTDIR}/pageinfo.txt"
 METAMARKS_TXT = f"{_TREPORTDIR}/metamarks.txt"
-EDITORIAL_YML = f"{_PROGRAMDIR}/editorials.yml"
 EDITORIAL_TXT = f"{_TREPORTDIR}/editorial.txt"
 DECODIFIED_TXT = f"{_TREPORTDIR}/decodified.txt"
 DISPLACED_TXT = f"{_TREPORTDIR}/displaced.txt"
-ITALICS_TXT = f"{_TREPORTDIR}/italics.txt"
+FOOTNOTESRM_TXT = f"{_TREPORTDIR}/footnoteroman.txt"
+FOOTNOTESUT_TXT = f"{_TREPORTDIR}/footnoteuntrans.txt"
+FOOTNOTESEG_TXT = f"{_TREPORTDIR}/footnoteexamples.txt"
 PAGESEQ_JSON = f"{_TREPORTDIR}/pageseq.json"
 SCANTRANS_TSV = f"{_TREPORTDIR}/scantrans.tsv"
 SOURCEBASE = _DATADIR
@@ -148,6 +150,22 @@ HEADER_RE = re.compile(
     """,
     re.X,
 )
+
+
+def ucFirst(x):
+    return (
+        x
+        if x is None or type(x) is not str or len(x) == 0
+        else f"{x[0].upper()}{x[1:]}"
+    )
+
+
+def lcFirst(x):
+    return (
+        x
+        if x is None or type(x) is not str or len(x) == 0
+        else f"{x[0].lower()}{x[1:]}"
+    )
 
 
 @dataclass(init=True, order=True, frozen=True)
