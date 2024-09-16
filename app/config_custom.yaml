@@ -5,6 +5,12 @@ provenanceSpec:
   graphicsRelative: thumb
 typeDisplay:
   pb:
-    label: 'folio {facs}'
-    template: 'folio {n}'
+    label: '<span class=editorial>folio {facs}</span>'
+    template: '<span class=editorial>folio {n}</span>'
     graphics: true
+  metamark:
+    label: '{facs}'
+    template: '{facs}'
+  ptr:
+    label: '<span class=editorial>note {n}</span>'
+    template: '<span class=editorial>note {n}</span>'

@@ -67,7 +67,6 @@ source programs/env
 
 if [[ "$task" == "all" || "$task" == "watm" ]]; then
     printf "WATM export version: $latest\n"
-    exit
     ssh "$ttvmUser@$ttvmMachine" "mkdir -p /$watmDstDir"
     scp -pr "$watmSrcDir/prod" "$ttvmUser@$ttvmMachine:/$watmDstDir" 
 fi

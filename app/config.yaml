@@ -22,7 +22,7 @@ provenanceSpec:
   corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.5.2
+  version: "0.6.0e"
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
@@ -33,7 +33,13 @@ provenanceSpec:
   graphicsRelative: thumb
 typeDisplay:
   pb:
-    label: folio {facs}
-    template: folio {n}
+    label: <span class=editorial>folio {facs}</span>
+    template: <span class=editorial>folio {n}</span>
     graphics: true
+  metamark:
+    label: '{facs}'
+    template: '{facs}'
+  ptr:
+    label: <span class=editorial>note {n}</span>
+    template: <span class=editorial>note {n}</span>
 writing: ''
