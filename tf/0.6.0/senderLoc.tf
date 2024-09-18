@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.6.0
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-16T14:01:00Z
+@dateWritten=2024-09-16T15:03:12Z
 
-1797803	Stuttgart
+1797916	Stuttgart
 Stuttgart
 Heidelberg
 Ilshoven
@@ -30,6 +30,7 @@ Ansbach
 Nuremberg
 Nuremberg
 Cologne
+The Hague
 The Hague
 The Hague
 The Hague

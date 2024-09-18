@@ -18,7 +18,6 @@ Where task is:
 
 """
 
-import re
 import collections
 from subprocess import run
 
@@ -36,7 +35,41 @@ from tf.core.files import (
 )
 from tf.core.helpers import console, htmlEsc
 from processhelpers import (
+    EM_DASH,
+    MONTH_NUM,
+    WHITE_RE,
+    NL_WHITE_RE,
+    NL_RE,
     HEADER_RE,
+    LETTER_SPLIT_RE,
+    SECTION_START_RE,
+    SECTION_LINE_RE,
+    SECRETARIAL_START_RE,
+    META_RE,
+    UNDERLINE_RE,
+    PAGES_LINE_RE,
+    PAGE_SPEC_RE,
+    NOPAGESPEC_RE,
+    ATTACHMENT_RE,
+    LETTER_RE,
+    DATE_RE,
+    FOL_RE_RE,
+    PART_SPEC_RE,
+    P_UNWRAP_RE,
+    FOOTNOTE_ROMAN_RE,
+    HI_ITALIC_RE,
+    HI_REDUCE_RE,
+    HI_SPURIOUS_RE,
+    HI_ESCAPE_RE,
+    HI_UNESCAPE_RE,
+    HI_SMALLCAPS_RE,
+    HI_MOVELB_RE,
+    HI_TRANSLATE_RE,
+    PARA_PAGE_INTERRUPT_RE,
+    STRIPTAIL_RE,
+    NOTE_RE,
+    NOTE_NEWLINE_RE,
+    PARA_NEWLINE_RE,
     PAGES,
     THUMBPAGESDIR,
     SUMMARY_FILE,
@@ -65,8 +98,14 @@ from processhelpers import (
     PageInfo,
     Page,
     distilPages,
+    normalizeChars,
     ucFirst,
     lcFirst,
+    makeSubDiv,
+    folRepl,
+    stripNewlines,
+    normText,
+    normFilza,
 )
 
 
@@ -80,6 +119,10 @@ RESOURCES = "resources"
 SHELFMARK = "shelfmark"
 DECODED = "decoded"
 DISPLACED = "displaced"
+MAIN = "main"
+SECRETARIAL = "secretarial"
+LETTER = "letter"
+ATTACHMENT = "attachment"
 
 # parameters:
 #
@@ -161,489 +204,6 @@ TEMPLATE = """\
 """
 
 
-MONTH_NUM = {}
-VALID_MONTHS = []
-
-MONTHS = """
-    gennaio|gennaro
-    febbraio|febraro
-    marzo
-    aprile|april
-    maggio
-    giugno|zugno
-    luglio
-    agosto
-    settembre
-    ottobre
-    novembre
-    dicembre|decembre
-""".strip().split()
-
-for i, monthSpec in enumerate(MONTHS):
-    names = monthSpec.split("|")
-    for name in names:
-        MONTH_NUM[name] = i + 1
-        VALID_MONTHS.append(name)
-
-VALID_MONTH_PAT = rf"""\b{"|".join(VALID_MONTHS)}\b"""
-
-
-LETTER_SPLIT_RE = re.compile(
-    r"""
-    \s*<p>\s*(?:<hi\b[^>]*><lb\s*/></hi>)?/\s*START\s+LETTER\s*/\s*</p>\s*
-    """,
-    re.X | re.S,
-)
-
-SECRETARIAL_START_RE = re.compile(
-    r"""
-    <p>\s*<hi\b[^>]*>\s*Regesto\s+antico\s*</hi>\s*</p>\s*
-    """,
-    re.X | re.S,
-)
-
-STRIPTAIL_RE = re.compile(
-    r"""
-    \s*
-    </body>
-    \s*
-    </text>
-    \s*
-    </TEI>
-    .*
-    """,
-    re.X | re.S,
-)
-
-EM_DASH = "—"
-
-# <p>18 ottobre 1616, L’Aia (cc. 43r-44v, 50bis r-51v)</p>
-PAGES_LINE_RE = re.compile(
-    r"""
-    ^
-    (.*?)
-    <p>
-    \s*
-    /
-    \s*
-    (
-        [0-9]+
-        [^/]*
-    )
-    /
-    \s*
-    </p>
-    (.*)
-    $
-    """,
-    re.X,
-)
-
-NOPAGESPEC_RE = re.compile(
-    r"""
-    ^
-    \s*
-    (?:
-        decodifica
-      | traduzione
-    )
-    """,
-    re.X | re.S,
-)
-
-SECTION_START_RE = re.compile(
-    r"""
-    ^
-    \s*
-    <p>
-    n\.\s*
-    ([0-9]+[a-z]*)
-    \s*
-    </p>
-    \s*
-    $
-    """,
-    re.X,
-)
-
-SECTION_LINE_RE = re.compile(
-    r"""
-    ^
-    \s*
-    <p>
-    (.*)
-    \(cc?\.\s*
-    ([^);]*)
-    [\);]
-    \s*
-    .*?
-    </p>
-    \s*
-    $
-    """,
-    re.X,
-)
-
-ATTACHMENT_RE = re.compile(
-    r"""
-    ^
-    \s*
-    allegato
-    \s+
-    ([IVX]+)
-    \s+
-    al
-    \s+
-    n\.
-    \s*
-    ([0-9]+[a-z]*)
-    \s*
-    $
-    """,
-    re.X | re.I,
-)
-
-LETTER_RE = re.compile(
-    r"""
-    ^
-    \s*
-    ([^,]+)
-    ,
-    (.*)
-    $
-    """,
-    re.X,
-)
-
-DATE_RE = re.compile(
-    r"""
-    ^
-    \s*
-    ([0-9]{1,2})
-    \s*
-    ((?:"""
-    + VALID_MONTH_PAT
-    + r""")+)
-    \s*
-    ([0-9]{4})
-    \s*
-    $
-    """,
-    re.X | re.I,
-)
-
-NOTE_NEWLINE_RE = re.compile(
-    r"""
-    <note\b
-    .*?
-    </note>
-    """,
-    re.X | re.S,
-)
-
-PARA_NEWLINE_RE = re.compile(
-    r"""
-    <p\b
-    .*?
-    </p>
-    """,
-    re.X | re.S,
-)
-
-PARA_PAGE_INTERRUPT_RE = re.compile(
-    r"""
-    </p>
-    (
-        \s*
-        <pb[^>]*>
-        \s*
-    )
-    <p>
-    (
-        \s*
-        (?:
-            <[^>]*>
-            \s*
-        )*
-        [a-zàáçèéęìíñòóùú]
-    )
-    """,
-    re.X | re.S,
-)
-
-NL_RE = re.compile(r""" *\n\s*""", re.S)
-WHITE_RE = re.compile(r"""  +""", re.S)
-NL_WHITE_RE = re.compile(r"""(?: \n)|(?:\n )""", re.S)
-
-
-STRIP_P_RE = re.compile(
-    r"""
-    ^
-    \s*
-    <p>
-    \s*
-    (.*)
-    </p>
-    \s*
-    $
-    """,
-    re.X | re.S,
-)
-
-META_RE = re.compile(
-    r"""
-    <hi\ rend="(bold|italic)"[^>]*>
-    (.*?)
-    </hi>
-    \s*
-    (
-        (?:
-            <ptr\b
-        )?
-    )
-    """,
-    re.X | re.S,
-)
-
-UNDERLINE_RE = re.compile(
-    r"""
-    <hi\ rend="underline"[^>]*>
-    (.*?)
-    </hi>
-    """,
-    re.X | re.S,
-)
-
-APOS_RE = re.compile(r"""['‘]""")
-
-HI_ESCAPE = re.compile(
-    r"""
-    <hi\b[^>]*rend="(superscript|underline)"[^>]*>
-    (.*?)
-    </hi>
-    """,
-    re.X | re.S,
-)
-
-HI_UNESCAPE = re.compile(
-    r"""
-    <hi_(superscript|underline)>
-    (.*?)
-    </hi_\1>
-    """,
-    re.X | re.S,
-)
-
-HI_REDUCE = re.compile(
-    r"""
-    </hi>
-    (
-        \s*
-        (?:
-            (?:
-                \[
-                [^\]]*
-                \]
-            )
-            |
-            (?:
-                <ptr\b[^>]*/>
-            )
-            |
-            [.,|]
-        )?
-        \s*
-    )
-    <hi\b[^>]*>
-    """,
-    re.X | re.S,
-)
-
-HI_SPURIOUS = re.compile(
-    r"""
-    <hi\b[^>]*>
-    (
-        [\s\n.,:;\[\]\(\)|/…]*
-    )
-    </hi>
-    """,
-    re.X | re.S,
-)
-
-HI_SMALLCAPS = re.compile(
-    r"""
-    <hi\ rend="smallcaps">
-    (.*?)
-    </hi>
-    """,
-    re.X | re.S,
-)
-
-HI_MOVELB = re.compile(
-    r"""
-    (</hi>)
-    (
-        [\s\n.,:;\[\]\(\)/…]*
-        [|]
-        [\s\n.,:;\[\]\(\)/…]*
-    )
-    (</p>)
-    """,
-    re.X | re.S,
-)
-HI_TRANSLATE = re.compile(
-    r"""
-    <hi\b[^>]*rend="italic"[^>]*>
-    """,
-    re.X | re.S,
-)
-
-HI_ITALIC = re.compile(
-    r"""
-    <hi\b[^>]*rend="italic"[^>]*>
-    (.*?)
-    </hi>
-    """,
-    re.X | re.S,
-)
-
-P_UNWRAP = re.compile(
-    r"""
-    ^
-    \s*
-    <p>(.*)<\/p>
-    \s*
-    $
-    """,
-    re.X | re.S,
-)
-
-# All chars:
-# [^A-Za-z0-9="/,.;:?#’…½¾(){}\[\]~|^<>àáçèÈéÉęìíñòó°ùú  ­￼*_-]
-
-ALL_GLYPHS = r"""A-Za-z0-9="/?#’…½¾(){}\[\]~|^àáçèÈéÉęìíñòó°ùú*_-"""
-
-
-FOOTNOTE_ROMAN = re.compile(
-    rf"""
-    (</hi>|<p>)
-    (
-        [^<{ALL_GLYPHS}]*
-        [{ALL_GLYPHS}]
-        [^<]*?
-    )
-    (<hi\b|</p>)
-    """,
-    re.X | re.S,
-)
-
-TRANS_SEP = re.compile(
-    r"""
-    ^
-    (
-        [\ .,;:-]*
-    )
-    (
-        .*?
-    )
-    (
-        [\ .,;:-]*
-    )
-    $
-    """,
-    re.X | re.S,
-)
-
-PART_SPEC = re.compile(
-    r"""
-    ^
-    (.*?)
-    (
-        [.,;:()-]
-        \s*
-    )
-    (.*)
-    $
-    """,
-    re.X | re.S,
-)
-
-PAGE_SPEC = re.compile(
-    r"""
-    ^
-    (.*?)
-    (
-        \bc?c\.
-        (?:
-            ,?
-            \s*
-            [0-9]+
-            [rv]?
-            (?:
-                -
-                [0-9rv]*
-            )?
-        )+
-    )
-    (.*)
-    $
-    """,
-    re.X | re.S,
-)
-
-FOL_RE = re.compile(
-    r"""
-    ^
-    (c?)c\.
-    \s*
-    """,
-    re.X | re.S,
-)
-
-
-def folRepl(match):
-    c1 = match.group(1)
-
-    return "ff. " if c1 else "f. "
-
-
-def normalizeChars(text):
-    return APOS_RE.sub("’", text)
-
-
-def stripP(match):
-    return match.group(1).strip()
-
-
-def stripNewlines(match):
-    text = match.group(0)
-    return text.replace("\n", " ")
-
-
-FILZA_RE = re.compile(r"^([0-9]+)(.*)$")
-TEXT_NUM_RE = re.compile(r"^([0-9]+)(.*)$")
-
-
-def normFilza(filza):
-    match = FILZA_RE.match(filza)
-    (digits, rest) = match.group(1, 2)
-    return f"{digits:>02}{rest}"
-
-
-def normText(textNum):
-    match = TEXT_NUM_RE.match(textNum)
-    (digits, rest) = match.group(1, 2)
-    return f"{digits:>03}{rest}"
-
-
-NOTE_RE = re.compile(
-    r"""
-    <note>(.*?)</note>
-    """,
-    re.X | re.S,
-)
-
-
 class TeiFromDocx(PageInfo):
     def __init__(self, silent=False):
         PageInfo.__init__(self, silent=silent)
@@ -719,7 +279,8 @@ class TeiFromDocx(PageInfo):
             if nWarnings:
                 console(f"\tThere were {nWarnings} warnings.", error=True)
         else:
-            console("", error=True)
+            if nWarnings:
+                self.console("", error=nWarnings > 0)
             console(f"{nWarnings} warnings", error=nWarnings > 0)
 
         warnings.clear()
@@ -737,7 +298,8 @@ class TeiFromDocx(PageInfo):
             if n:
                 console(f"\tThere were {n} page warnings.", error=True)
         else:
-            self.console("", error=True)
+            if n > 0:
+                self.console("", error=n > 0)
             console(f"{n} page warnings", error=n > 0)
 
         pageWarnings.clear()
@@ -885,7 +447,7 @@ class TeiFromDocx(PageInfo):
             rest = it
 
             while len(rest):
-                match = PAGE_SPEC.match(rest)
+                match = PAGE_SPEC_RE.match(rest)
 
                 if match:
                     (pre, pages, rest) = match.group(1, 2, 3)
@@ -904,14 +466,14 @@ class TeiFromDocx(PageInfo):
 
             for isPage, comp in comps:
                 if isPage:
-                    pages = FOL_RE.sub(folRepl, comp)
+                    pages = FOL_RE_RE.sub(folRepl, comp)
                     result.append(comp)
                 else:
                     rest = comp
                     parts = []
 
                     while len(rest):
-                        match2 = PART_SPEC.match(rest)
+                        match2 = PART_SPEC_RE.match(rest)
 
                         if match2:
                             (thisIt, sep, rest) = match2.group(1, 2, 3)
@@ -964,21 +526,21 @@ class TeiFromDocx(PageInfo):
             noteMark = self.noteMark
             line = match.group(1).strip()
             self.noteText = line
-            noteIt = HI_ITALIC.sub(r"*\1*", line)
+            noteIt = HI_ITALIC_RE.sub(r"*\1*", line)
             noteIt = WHITE_RE.sub(" ", noteIt)
-            noteIt = P_UNWRAP.sub(r"\1", noteIt)
+            noteIt = P_UNWRAP_RE.sub(r"\1", noteIt)
 
             if noteIt in englishFootnotes:
                 line = noteIt
                 noteEn = line
                 noteDb = line
             else:
-                line = FOOTNOTE_ROMAN.sub(insertQuote, line)
+                line = FOOTNOTE_ROMAN_RE.sub(insertQuote, line)
                 noteDb = line
-                line = HI_ITALIC.sub(stripItalic, line)
-                line = HI_UNESCAPE.sub(r"""<hi rend="\1">\2</hi>""", line)
+                line = HI_ITALIC_RE.sub(stripItalic, line)
+                line = HI_UNESCAPE_RE.sub(r"""<hi rend="\1">\2</hi>""", line)
                 line = WHITE_RE.sub(" ", line)
-                line = P_UNWRAP.sub(r"\1", line)
+                line = P_UNWRAP_RE.sub(r"\1", line)
                 noteEn = line
 
             footNote = (
@@ -1005,7 +567,7 @@ class TeiFromDocx(PageInfo):
             material = match.group(2)
             ptr = match.group(3)
             material = material.replace("\n", " ")
-            material = HI_UNESCAPE.sub(r"""<hi rend="\1">\2</hi>""", material)
+            material = HI_UNESCAPE_RE.sub(r"""<hi rend="\1">\2</hi>""", material)
             materialClean = material.strip()
 
             # find out whether we have decoded text or editorial text
@@ -1129,6 +691,9 @@ class TeiFromDocx(PageInfo):
         self.noteMark = 0
         self.notes.clear()
 
+        curHead = None
+        inSecretarial = False
+
         text = NOTE_NEWLINE_RE.sub(stripNewlines, text)
         text = PARA_NEWLINE_RE.sub(stripNewlines, text)
         text = text.replace("\u00a0", " ").replace("\u00ad", " ").replace("\ufffc", " ")
@@ -1205,15 +770,15 @@ class TeiFromDocx(PageInfo):
             line = line.replace("""rendition=""", """rend=""")
             line = line.replace("""rend="simple:""", '''rend="''')
             line = line.replace("""<hi rend="italic"><lb /></hi>""", "")
-            line = HI_SMALLCAPS.sub(r"\1", line)
-            line = HI_ESCAPE.sub(r"<hi_\1>\2</hi_\1>", line)
-            line = HI_REDUCE.sub(r"\1", line)
-            line = HI_SPURIOUS.sub(r"\1", line)
+            line = HI_SMALLCAPS_RE.sub(r"\1", line)
+            line = HI_ESCAPE_RE.sub(r"<hi_\1>\2</hi_\1>", line)
+            line = HI_REDUCE_RE.sub(r"\1", line)
+            line = HI_SPURIOUS_RE.sub(r"\1", line)
 
             moveNote = self.makeMoveNote(filza, lastPage)
             line = NOTE_RE.sub(moveNote, line)
 
-            line = HI_MOVELB.sub(r"\2\1\3", line)
+            line = HI_MOVELB_RE.sub(r"\2\1\3", line)
 
             match = SECTION_START_RE.match(line)
 
@@ -1231,14 +796,18 @@ class TeiFromDocx(PageInfo):
                     newTextLines.append("</div>")
 
                     if len(secrTextLines):
-                        targetRep = f""" corresp="{target}" """ if target else ""
-                        romanNumRep = "" if romanNum is None else f" ({romanNum})"
-                        newTextLines.append(
-                            f"""<div type="recipientContent" """
-                            f"""facs="recipient content{romanNumRep}" """
-                            f"""n="{textNum}"{targetRep}>"""
+                        divLine, head = makeSubDiv(
+                            target, textKind, romanNum, textNum, SECRETARIAL
                         )
-                        newTextLines.extend(secrTextLines)
+                        newTextLines.append(divLine)
+
+                        if len(secrTextLines):
+                            sline = secrTextLines[0]
+                            sline = f"<!-- {sline} -->"
+                            newTextLines.append(sline)
+
+                        newTextLines.append(head)
+                        newTextLines.extend(secrTextLines[1:])
                         secrTextLines.clear()
                         destLines = newTextLines
                         newTextLines.append("</div>")
@@ -1255,6 +824,9 @@ class TeiFromDocx(PageInfo):
 
             if startSection:
                 startSection = False
+                inSecretarial = False
+                curHead = None
+
                 match = SECTION_LINE_RE.match(line)
 
                 if not match:
@@ -1293,13 +865,13 @@ class TeiFromDocx(PageInfo):
 
                 if match:
                     (romanNum, targetStr) = match.group(1, 2)
-                    textKind = "attachment"
+                    textKind = ATTACHMENT
                     target = f"{targetStr:>03}"
                     atts = (
                         f"""facs="{romanNum}" n="{textNum}" """
                         f"""corresp="{target}" source="{pageSpecs}" """
                     )
-                    newTextLines.append(f"""<div type="appendix" {atts}>""")
+                    newTextLines.append(f"""<div type="{ATTACHMENT}" {atts}>""")
                 else:
                     romanNum = None
                     match = LETTER_RE.match(kindSpec)
@@ -1320,19 +892,17 @@ class TeiFromDocx(PageInfo):
                             warning = "letter has invalid date"
                             self.warn(filza, letter, textNum, ln, dateSpec, warning)
                             normalizedDate = ""
-                        newTextLines.append(f"""<div type="text" n="{textNum}">""")
+                        newTextLines.append(f"""<div type="{LETTER}" n="{textNum}">""")
                     else:
-                        warning = "Section line is not letter nor attachment"
+                        warning = f"Section line is not letter nor {ATTACHMENT}"
                         self.warn(filza, letter, textNum, ln, line, warning)
-                        newTextLines.append("""<div type="text">""")
+                        newTextLines.append(f"""<div type="{LETTER}">""")
 
-                targetRep = f""" corresp="{target}" """ if target else ""
-                romanNumRep = "" if romanNum is None else f" ({romanNum})"
-                newTextLines.append(
-                    f"""<div type="senderContent" """
-                    f"""facs="sender content{romanNumRep}" """
-                    f"""n="{textNum}"{targetRep}>"""
+                divLine, head = makeSubDiv(
+                    target, textKind, romanNum, textNum, MAIN
                 )
+                newTextLines.append(divLine)
+                curHead = head
 
                 newTextLines.append(
                     line.replace("<p>", "<!--<p>").replace("</p>", "</p>-->")
@@ -1349,6 +919,10 @@ class TeiFromDocx(PageInfo):
                 newText = pre + self.trimPage(filza, letter, textNum, pages) + post
                 destLines.append(newText)
 
+                if not inSecretarial and curHead is not None:
+                    destLines.append(curHead)
+                    curHead = None
+
                 if len(pages) > 1:
                     self.pageWarn(
                         True,
@@ -1363,15 +937,16 @@ class TeiFromDocx(PageInfo):
 
             if match:
                 destLines = secrTextLines
+                inSecretarial = True
                 continue
 
             metaMarkRepl = self.makeMetaRepl(filza, lastPage)
             displacedMarkRepl = self.makeDisplacedMark(filza, lastPage)
 
             line = META_RE.sub(metaMarkRepl, line)
-            line = HI_UNESCAPE.sub(r"""<hi rend="\1">\2</hi>""", line)
+            line = HI_UNESCAPE_RE.sub(r"""<hi rend="\1">\2</hi>""", line)
             line = UNDERLINE_RE.sub(displacedMarkRepl, line)
-            line = HI_TRANSLATE.sub(r"""<hi rend="decoded">""", line)
+            line = HI_TRANSLATE_RE.sub(r"""<hi rend="decoded">""", line)
 
             destLines.append(line)
 
@@ -1385,14 +960,16 @@ class TeiFromDocx(PageInfo):
             newTextLines.append("</div>")
 
         if len(secrTextLines):
-            targetRep = f""" corresp="{target}" """ if target else ""
-            romanNumRep = "" if romanNum is None else f" ({romanNum})"
-            newTextLines.append(
-                f"""<div type="recipientContent" """
-                f"""facs="recipient content{romanNumRep}" """
-                f"""n="{textNum}"{targetRep}>"""
-            )
-            newTextLines.extend(secrTextLines)
+            divLine, head = makeSubDiv(target, textKind, romanNum, textNum, SECRETARIAL)
+            newTextLines.append(divLine)
+
+            if len(secrTextLines):
+                sline = secrTextLines[0]
+                sline = f"<!-- {sline} -->"
+                newTextLines.append(sline)
+
+            newTextLines.append(head)
+            newTextLines.extend(secrTextLines[1:])
             secrTextLines.clear()
             destLines = newTextLines
             newTextLines.append("</div>")
@@ -1730,6 +1307,7 @@ class TeiFromDocx(PageInfo):
         pageInfo = self.pageInfo
         scanPages = self.scanPages
         exclusions = self.exclusions
+        missingInfo = self.missingInfo
 
         pageTrans = {}
         pageScans = {}
@@ -1744,7 +1322,8 @@ class TeiFromDocx(PageInfo):
         for filza, page in scanPages:
             pageScans.setdefault(filza, set()).add(page)
 
-        noScans = 0
+        noScansBad = 0
+        noScansGood = 0
         noTrans = 0
         both = 0
 
@@ -1755,6 +1334,7 @@ class TeiFromDocx(PageInfo):
 
             for filza in sorted(allFilzas):
                 filzaExclusions = exclusions[filza]
+                filzaMissingInfo = missingInfo[filza] or set()
 
                 startAt = None
 
@@ -1775,6 +1355,7 @@ class TeiFromDocx(PageInfo):
 
                     t = page in trans
                     s = page in scans
+                    m = page in filzaMissingInfo
 
                     tRep = "yes" if t else "no"
                     sRep = "yes" if s else "no"
@@ -1784,7 +1365,11 @@ class TeiFromDocx(PageInfo):
                         rep = "OK"
                         both += 1
                     elif t:
-                        noScans += 1
+                        if m:
+                            noScansGood += 1
+                        else:
+                            noScansBad += 1
+
                     elif s:
                         noTrans += 1
 
@@ -1796,22 +1381,29 @@ class TeiFromDocx(PageInfo):
                             if s
                             else "transcription but no scan"
                         )
-                        self.console(f"{filza}: {page}: {status}", error=True)
+                        error = s or not m
+                        (console if error else self.console)(
+                            f"{filza}: {page}: {status}", error=error
+                        )
 
-        self.console(f"Pages with    transcription and    scan: {both:>5}")
+        self.console(f"Pages with    transcription and    scan:      {both:>5}")
 
-        msgScans = f"Pages with    transcription and no scan: {noScans:>5}"
-        msgTrans = f"Pages with no transcription and    scan: {noTrans:>5}"
+        msgScansGood = f"Pages with    transcription and missing scan: {noScansGood:>5}"
+        msgScansBad = f"Pages with    transcription and no scan:      {noScansBad:>5}"
+        msgTrans = f"Pages with no transcription and    scan:      {noTrans:>5}"
 
         if silent:
-            if noScans:
-                console(f"\t{msgScans}", error=True)
+            if noScansGood:
+                console(f"\t{msgScansGood}")
+            if noScansBad:
+                console(f"\t{msgScansBad}", error=True)
             if noTrans:
                 console(f"\t{msgTrans}", error=True)
         else:
-            console(msgScans, error=noScans > 0)
+            console(msgScansGood)
+            console(msgScansBad, error=noScansBad > 0)
             console(msgTrans, error=noTrans > 0)
-            console(f"See {SCANTRANS_TSV}", error=True)
+            console(f"See {SCANTRANS_TSV}", error=noTrans > 0 or noScansBad > 0)
 
     def readTransTable(self):
         editorialTrans = {}

@@ -151,6 +151,485 @@ HEADER_RE = re.compile(
     re.X,
 )
 
+HEAD_PB_EXCH_RE = re.compile(
+    r"""
+    (
+        <div\b[^>]*>
+    )
+    \s*
+    (
+        <head\b[^>]*>(.*?)<\/head>
+    )
+    \s*
+    """,
+    re.X,
+)
+
+MONTH_NUM = {}
+VALID_MONTHS = []
+
+MONTHS = """
+    gennaio|gennaro
+    febbraio|febraro
+    marzo
+    aprile|april
+    maggio
+    giugno|zugno
+    luglio
+    agosto
+    settembre
+    ottobre
+    novembre
+    dicembre|decembre
+""".strip().split()
+
+for i, monthSpec in enumerate(MONTHS):
+    names = monthSpec.split("|")
+    for name in names:
+        MONTH_NUM[name] = i + 1
+        VALID_MONTHS.append(name)
+
+VALID_MONTH_PAT = rf"""\b{"|".join(VALID_MONTHS)}\b"""
+
+
+LETTER_SPLIT_RE = re.compile(
+    r"""
+    \s*<p>\s*(?:<hi\b[^>]*><lb\s*/></hi>)?/\s*START\s+LETTER\s*/\s*</p>\s*
+    """,
+    re.X | re.S,
+)
+
+SECRETARIAL_START_RE = re.compile(
+    r"""
+    <p>\s*<hi\b[^>]*>\s*Regesto\s+antico\s*</hi>\s*</p>\s*
+    """,
+    re.X | re.S,
+)
+
+STRIPTAIL_RE = re.compile(
+    r"""
+    \s*
+    </body>
+    \s*
+    </text>
+    \s*
+    </TEI>
+    .*
+    """,
+    re.X | re.S,
+)
+
+EM_DASH = "—"
+
+# <p>18 ottobre 1616, L’Aia (cc. 43r-44v, 50bis r-51v)</p>
+PAGES_LINE_RE = re.compile(
+    r"""
+    ^
+    (.*?)
+    <p>
+    \s*
+    /
+    \s*
+    (
+        [0-9]+
+        [^/]*
+    )
+    /
+    \s*
+    </p>
+    (.*)
+    $
+    """,
+    re.X,
+)
+
+NOPAGESPEC_RE = re.compile(
+    r"""
+    ^
+    \s*
+    (?:
+        decodifica
+      | traduzione
+    )
+    """,
+    re.X | re.S,
+)
+
+SECTION_START_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p>
+    n\.\s*
+    ([0-9]+[a-z]*)
+    \s*
+    </p>
+    \s*
+    $
+    """,
+    re.X,
+)
+
+SECTION_LINE_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p>
+    (.*)
+    \(cc?\.\s*
+    ([^);]*)
+    [\);]
+    \s*
+    .*?
+    </p>
+    \s*
+    $
+    """,
+    re.X,
+)
+
+ATTACHMENT_RE = re.compile(
+    r"""
+    ^
+    \s*
+    allegato
+    \s+
+    ([IVX]+)
+    \s+
+    al
+    \s+
+    n\.
+    \s*
+    ([0-9]+[a-z]*)
+    \s*
+    $
+    """,
+    re.X | re.I,
+)
+
+LETTER_RE = re.compile(
+    r"""
+    ^
+    \s*
+    ([^,]+)
+    ,
+    (.*)
+    $
+    """,
+    re.X,
+)
+
+DATE_RE = re.compile(
+    r"""
+    ^
+    \s*
+    ([0-9]{1,2})
+    \s*
+    ((?:"""
+    + VALID_MONTH_PAT
+    + r""")+)
+    \s*
+    ([0-9]{4})
+    \s*
+    $
+    """,
+    re.X | re.I,
+)
+
+NOTE_NEWLINE_RE = re.compile(
+    r"""
+    <note\b
+    .*?
+    </note>
+    """,
+    re.X | re.S,
+)
+
+PARA_NEWLINE_RE = re.compile(
+    r"""
+    <p\b
+    .*?
+    </p>
+    """,
+    re.X | re.S,
+)
+
+PARA_PAGE_INTERRUPT_RE = re.compile(
+    r"""
+    </p>
+    (
+        \s*
+        <pb[^>]*>
+        \s*
+    )
+    <p>
+    (
+        \s*
+        (?:
+            <[^>]*>
+            \s*
+        )*
+        [a-zàáçèéęìíñòóùú]
+    )
+    """,
+    re.X | re.S,
+)
+
+NL_RE = re.compile(r""" *\n\s*""", re.S)
+WHITE_RE = re.compile(r"""  +""", re.S)
+NL_WHITE_RE = re.compile(r"""(?: \n)|(?:\n )""", re.S)
+
+
+STRIP_P_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p>
+    \s*
+    (.*)
+    </p>
+    \s*
+    $
+    """,
+    re.X | re.S,
+)
+
+META_RE = re.compile(
+    r"""
+    <hi\ rend="(bold|italic)"[^>]*>
+    (.*?)
+    </hi>
+    \s*
+    (
+        (?:
+            <ptr\b
+        )?
+    )
+    """,
+    re.X | re.S,
+)
+
+UNDERLINE_RE = re.compile(
+    r"""
+    <hi\ rend="underline"[^>]*>
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+APOS_RE = re.compile(r"""['‘]""")
+
+HI_ESCAPE_RE = re.compile(
+    r"""
+    <hi\b[^>]*rend="(superscript|underline)"[^>]*>
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+HI_UNESCAPE_RE = re.compile(
+    r"""
+    <hi_(superscript|underline)>
+    (.*?)
+    </hi_\1>
+    """,
+    re.X | re.S,
+)
+
+HI_REDUCE_RE = re.compile(
+    r"""
+    </hi>
+    (
+        \s*
+        (?:
+            (?:
+                \[
+                [^\]]*
+                \]
+            )
+            |
+            (?:
+                <ptr\b[^>]*/>
+            )
+            |
+            [.,|]
+        )?
+        \s*
+    )
+    <hi\b[^>]*>
+    """,
+    re.X | re.S,
+)
+
+HI_SPURIOUS_RE = re.compile(
+    r"""
+    <hi\b[^>]*>
+    (
+        [\s\n.,:;\[\]\(\)|/…]*
+    )
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+HI_SMALLCAPS_RE = re.compile(
+    r"""
+    <hi\ rend="smallcaps">
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+HI_MOVELB_RE = re.compile(
+    r"""
+    (</hi>)
+    (
+        [\s\n.,:;\[\]\(\)/…]*
+        [|]
+        [\s\n.,:;\[\]\(\)/…]*
+    )
+    (</p>)
+    """,
+    re.X | re.S,
+)
+HI_TRANSLATE_RE = re.compile(
+    r"""
+    <hi\b[^>]*rend="italic"[^>]*>
+    """,
+    re.X | re.S,
+)
+
+HI_ITALIC_RE = re.compile(
+    r"""
+    <hi\b[^>]*rend="italic"[^>]*>
+    (.*?)
+    </hi>
+    """,
+    re.X | re.S,
+)
+
+P_UNWRAP_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p>(.*)<\/p>
+    \s*
+    $
+    """,
+    re.X | re.S,
+)
+
+# All chars:
+# [^A-Za-z0-9="/,.;:?#’…½¾(){}\[\]~|^<>àáçèÈéÉęìíñòó°ùú  ­￼*_-]
+
+ALL_GLYPHS = r"""A-Za-z0-9="/?#’…½¾(){}\[\]~|^àáçèÈéÉęìíñòó°ùú*_-"""
+
+
+FOOTNOTE_ROMAN_RE = re.compile(
+    rf"""
+    (</hi>|<p>)
+    (
+        [^<{ALL_GLYPHS}]*
+        [{ALL_GLYPHS}]
+        [^<]*?
+    )
+    (<hi\b|</p>)
+    """,
+    re.X | re.S,
+)
+
+PART_SPEC_RE = re.compile(
+    r"""
+    ^
+    (.*?)
+    (
+        [.,;:()-]
+        \s*
+    )
+    (.*)
+    $
+    """,
+    re.X | re.S,
+)
+
+PAGE_SPEC_RE = re.compile(
+    r"""
+    ^
+    (.*?)
+    (
+        \bc?c\.
+        (?:
+            ,?
+            \s*
+            [0-9]+
+            [rv]?
+            (?:
+                -
+                [0-9rv]*
+            )?
+        )+
+    )
+    (.*)
+    $
+    """,
+    re.X | re.S,
+)
+
+FOL_RE_RE = re.compile(
+    r"""
+    ^
+    (c?)c\.
+    \s*
+    """,
+    re.X | re.S,
+)
+
+
+def folRepl(match):
+    c1 = match.group(1)
+
+    return "ff. " if c1 else "f. "
+
+
+def normalizeChars(text):
+    return APOS_RE.sub("’", text)
+
+
+def stripP(match):
+    return match.group(1).strip()
+
+
+def stripNewlines(match):
+    text = match.group(0)
+    return text.replace("\n", " ")
+
+
+FILZA_RE = re.compile(r"^([0-9]+)(.*)$")
+TEXT_NUM_RE = re.compile(r"^([0-9]+)(.*)$")
+
+
+def normFilza(filza):
+    match = FILZA_RE.match(filza)
+    (digits, rest) = match.group(1, 2)
+    return f"{digits:>02}{rest}"
+
+
+def normText(textNum):
+    match = TEXT_NUM_RE.match(textNum)
+    (digits, rest) = match.group(1, 2)
+    return f"{digits:>03}{rest}"
+
+
+NOTE_RE = re.compile(
+    r"""
+    <note>(.*?)</note>
+    """,
+    re.X | re.S,
+)
+
 
 def ucFirst(x):
     return (
@@ -165,6 +644,17 @@ def lcFirst(x):
         x
         if x is None or type(x) is not str or len(x) == 0
         else f"{x[0].lower()}{x[1:]}"
+    )
+
+
+def makeSubDiv(target, textKind, romanNum, textNum, kind):
+    targetRep = f""" corresp="{target}" """ if target else ""
+    romanNumRep = textKind if romanNum is None else f"{textKind} {romanNum}"
+    facs = f"{kind} text of {romanNumRep}"
+
+    return (
+        f"""<div type="{kind}" facs="{facs}" n="{textNum}"{targetRep}>""",
+        f"""<head>{facs}</head>"""
     )
 
 

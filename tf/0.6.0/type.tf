@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.6.0
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-16T14:01:01Z
+@dateWritten=2024-09-16T15:03:12Z
 
-1790036	sent
+1790143	sent
 received
 sent
 received
@@ -1469,7 +1469,9 @@ sent
 received
 sent
 received
-1792932	text
+sent
+received
+1793043	text
 senderContent
 recipientContent
 notes
@@ -2163,6 +2165,7 @@ senderContent
 recipientContent
 appendix
 senderContent
+notes
 text
 senderContent
 recipientContent
@@ -5616,7 +5619,10 @@ appendix
 senderContent
 recipientContent
 notes
-1814756	filza
+1814871	filza
+letterno
+shelf
+filza
 letterno
 shelf
 filza

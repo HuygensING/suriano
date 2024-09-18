@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.6.0
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-16T14:01:00Z
+@dateWritten=2024-09-16T15:03:11Z
 
-1797803	
+1797916	
 
 
 Attached to this letter are four other documents: a letter by the Elector of Palatinate written on 4 July 1615 in French and translation in Italian (Risposta del signor principe Palatino elettore a vostra Serenità) and another letter by the Elector of Palatinate written on [4 July] 1616 in French and translation in Italian (Scrittura del signor principe Palatino che serve di risposta )
@@ -140,6 +140,7 @@ Attached to the letter are three documents: lettera del conte di Leuvenstein, le
 
 
 Attached to this letter is a copy of lettera dei signori Stati alla Ser. Republica del 5 luglio 1617
+Attached to this letter is Di Amsterdam a 4 luglio 1617
 
 
 Three documents are attached to this letter: Estratto di una lettera di un marinaro Henrico Willensen Bais di Venetia a 23 giugno 1617; copia di un capitolo di lettere del Calandrini mercante di Amsterdam a 8 luglio 1617; lettera del conte Levenstein del 9 luglio 1617
