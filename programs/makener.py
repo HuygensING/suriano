@@ -6,10 +6,11 @@ from processdocs import normalizeChars
 
 
 class MakeNER:
-    def __init__(self, make, silent=False):
+    def __init__(self, make, caseSensitive=False, silent=False):
         self.make = make
         self.silent = silent
         self.error = False
+        self.caseSensitive = caseSensitive
 
         self.load()
 
@@ -38,9 +39,11 @@ class MakeNER:
 
     def task(self, sheet):
         silent = self.silent
+        caseSensitive = self.caseSensitive
+
         A = self.app
         NE = A.makeNer(normalizeChars=normalizeChars, silent=silent)
-        NE.setSheet(sheet)
+        NE.setSheet(sheet, caseSensitive=caseSensitive)
         NE.reportHits()
         NE.bakeEntities()
         self.load(withEntities=True)

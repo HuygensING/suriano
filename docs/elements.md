@@ -11,11 +11,10 @@ Table of contents
 
 | element | attribute | value | amount
 | --- | --- | --- | ---
-| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `decoded` | 2518
-| | | `displaced` | 77
+| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `decoded` | 2477
+| | | `displaced` | 79
 | | | `footnote` | 11829
 | | | `superscript` | 1069
-| | | `underline` | 2
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `0` | 8153
 | | | `180` | 20
 | | | `270` | 564
@@ -8911,7 +8910,7 @@ Table of contents
 | [fileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-fileDesc.html) |   |  | 725
 | [head](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html) |   |  | 2082
 | [institution](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-institution.html) |   |  | 725
-| [lb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html) |   |  | 110704
+| [lb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html) |   |  | 110715
 | [msDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-msDesc.html) |   |  | 725
 | [msIdentifier](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-msIdentifier.html) |   |  | 725
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 1450

@@ -37,7 +37,7 @@ class Make(MakeWATM):
         silent = self.flag_silent
         fileCopy(NERIN_FILE, NEROUT_FILE)
         NER = MakeNER(self, silent=silent)
-        NER.task(NER_NAME)
+        NER.task(NER_NAME, caseSensitive=False)
         nerMeta(*NER.getMeta(), silent=silent)
 
         if NER.error:

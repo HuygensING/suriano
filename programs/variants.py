@@ -48,33 +48,34 @@ class Detect:
         NE = A.makeNer()
         self.NE = NE
 
-        NE.readInstructions("morepeople", force=True)
+        NE.setSheet(sheet, caseSensitive=True, force=True)
+        sheetData = NE.getSheetData()
 
         console("Overview of names by length:")
-        targets = set(NE.namesByOcc)
+        triggers = set(sheetData.rowMap)
 
         lengths = collections.defaultdict(list)
 
-        for target in targets:
-            lengths[len(target.split())].append(target)
+        for trigger in triggers:
+            lengths[len(trigger.split())].append(trigger)
 
-        for n, tgts in sorted(lengths.items(), key=lambda x: -x[0]):
-            examples = "\n      ".join(sorted(tgts, key=lambda x: x.lower())[0:5])
-            console(f"  {n} tokens: {len(tgts):>3} names e.g.:\n      {examples}")
-
-        self.makeAlphabet()
-        self.makeText()
+        for n, trigs in sorted(lengths.items(), key=lambda x: -x[0]):
+            examples = "\n      ".join(sorted(trigs, key=lambda x: x.lower())[0:5])
+            console(f"  {n} tokens: {len(trigs):>3} names e.g.:\n      {examples}")
 
     def prepare(self):
+        self.makeAlphabet()
+        self.makeText()
         self.makeLexicon()
         self.setupAnaliticcl()
 
-    def search(self, start=None, end=None, score_threshold=0.8, force=False):
+    def search(self, start=None, end=None, score_threshold=0.8, force=0):
         A = self.A
         model = self.model
         rec = self.rec
         textComplete = self.textComplete
         workDir = self.workDir
+        lexiconOccs = self.lexiconOccs
 
         text = textComplete[start:end]
         nText = len(text)
@@ -90,36 +91,38 @@ class Detect:
 
         A.indent(reset=True)
 
-        if not force and fileExists(matchesFile) and fileExists(matchesPosFile):
-            A.info("Read previously computed and filtered variants of the lexicon words ...")
-            matches = readJson(asFile=matchesFile)
-            matchPositions = readJson(asFile=matchesPosFile)
+        if force == 2 or not fileExists(rawMatchesFile):
+            A.info("Compute variants of the lexicon words ...")
+            rawMatches = model.find_all_matches(
+                text,
+                SearchParameters(
+                    unicodeoffsets=True,
+                    max_ngram=4,
+                    freq_weight=0.25,
+                    score_threshold=score_threshold,
+                ),
+            )
+            writeJson(rawMatches, asFile=rawMatchesFile)
         else:
-            if not force and fileExists(rawMatchesFile):
-                A.info("Read previously computed variants of the lexicon words ...")
-                rawMatches = readJson(asFile=rawMatchesFile)
-            else:
-                A.info("Compute variants of the lexicon words ...")
+            A.info("Read previously computed variants of the lexicon words ...")
+            rawMatches = readJson(asFile=rawMatchesFile)
 
-                rawMatches = model.find_all_matches(
-                    text,
-                    SearchParameters(
-                        unicodeoffsets=True,
-                        max_ngram=4,
-                        freq_weight=0.25,
-                        score_threshold=score_threshold,
-                    ),
-                )
-                writeJson(rawMatches, asFile=rawMatchesFile)
+        A.info(f"{len(rawMatches):>8} raw   matches")
 
-            A.info(f"{len(rawMatches):>8} raw   matches")
-
+        if force == 1 or not fileExists(matchesFile) or not fileExists(matchesPosFile):
+            A.info("Filter variants of the lexicon words ...")
             positions = rec.positions(simple=True)
 
             matches = {}
             matchPositions = collections.defaultdict(list)
 
             for match in rawMatches:
+                text = match["input"].replace("\n", " ")
+                textL = text.lower()
+
+                if text in lexiconOccs:
+                    continue
+
                 candidates = match["variants"]
 
                 if len(candidates) == 0:
@@ -134,13 +137,18 @@ class Detect:
                 if len(candidates) == 0:
                     continue
 
-                text = match["input"].replace("\n", " ")
+                textRemove = set()
 
-                if text in candidates:
-                    del candidates[text]
+                for cand in candidates:
+                    candL = cand.lower()
+                    if candL == textL:
+                        textRemove.add(cand)
 
-                    if len(candidates) == 0:
-                        continue
+                for cand in textRemove:
+                    del candidates[cand]
+
+                if len(candidates) == 0:
+                    continue
 
                 # if the match ends with 's we remove the part without it from the
                 # candidates
@@ -190,18 +198,54 @@ class Detect:
                 position = match["offset"]
                 start = position["begin"]
                 end = position["end"]
-                nodes = sorted({positions[i] for i in range(offset + start, offset + end)})
+                nodes = sorted(
+                    {positions[i] for i in range(offset + start, offset + end)}
+                )
 
                 matches[text] = candidates
                 matchPositions[text].append(nodes)
 
             writeJson(matches, asFile=matchesFile)
             writeJson(matchPositions, asFile=matchesPosFile)
+        else:
+            A.info("Read previously filtered variants of the lexicon words ...")
+            matches = readJson(asFile=matchesFile)
+            matchPositions = readJson(asFile=matchesPosFile)
 
         A.info(f"{len(matches):>8} filtered matches")
 
         self.matches = matches
         self.matchPositions = matchPositions
+
+    def listResults(self, start=None, end=None):
+        workDir = self.workDir
+        matches = self.matches
+
+        lines = []
+
+        head = ("variant", "score", "candidate")
+        dash = f"{'-' * 4} | {'-' * 25} | {'-' * 5} | {'-' * 25}"
+        console(f"{'i':>4} | {head[0]:<25} | {head[1]} | {head[2]}")
+        console(f"{dash}")
+        startN = start or 0
+
+        for text, candidates in sorted(matches.items()):
+            for cand, score in sorted(candidates.items()):
+                lines.append((text, score, cand))
+
+        for i, (text, score, cand) in enumerate(lines[start:end]):
+            console(f"{i + startN:>4} | {text:<25} |  {score:4.2f} | {cand}")
+
+        console(f"{dash}")
+
+        file = f"{workDir}/variants.tsv"
+
+        with open(file, "w") as fh:
+            fh.write(f"{'\t'.join(head)}\n")
+            for text, score, cand in lines:
+                fh.write(f"{text}\t{score:4.2f}\t{cand}\n")
+
+        console(f"{len(matches)} variants found and written to {file}")
 
     def showResults(self, start=None, end=None):
         A = self.A
@@ -211,9 +255,7 @@ class Detect:
 
         i = 0
 
-        for text, candidates in sorted(
-            matches.items(), key=lambda x: (-len(x[1]), x[0])
-        )[start:end]:
+        for text, candidates in sorted(matches.items())[start:end]:
             i += 1
             nCand = len(candidates)
             pl = "" if nCand == 1 else "s"
@@ -298,7 +340,8 @@ class Detect:
             if asFile is None:
                 A.dm(
                     f"# {i}: {nVar} x variant `{varText}` on "
-                    f"candidate {candRep1}\n\n")
+                    f"candidate {candRep1}\n\n"
+                )
             else:
                 content[-1].append(
                     f"<h1>{i}: {nVar} x variant <code>{varText}</code> on "
@@ -406,17 +449,43 @@ class Detect:
         console(f"Alphabet written to {alphabetFile}")
 
     def makeText(self):
+        NE = self.NE
         A = self.A
         api = A.api
         F = A.api.F
+        L = A.api.L
         workDir = self.workDir
 
         rec = Recorder(api)
 
-        for t in range(1, F.otype.maxSlot + 1):
-            rec.start(t)
-            rec.add(f"{F.str.v(t)}{F.after.v(t)}")
-            rec.end(t)
+        lineType = NE.settings.lineType
+        slotType = F.otype.slotType
+        maxSlot = F.otype.maxSlot
+        lines = F.otype.s(lineType)
+        lineEnds = {L.d(ln, otype=slotType)[-1] for ln in lines}
+        skipTo = None
+
+        for t in range(1, maxSlot + 1):
+            tp = t + 1
+            tpp = t + 2
+
+            if tp in lineEnds and tp < maxSlot and F.str.v(tp) == "-":
+                rec.start(t)
+                rec.add(f"{F.str.v(t)}{F.after.v(t)}")
+                rec.end(t)
+                rec.start(tpp)
+                rec.add(f"{F.str.v(tpp)}{F.after.v(tpp)}\n")
+                rec.end(tpp)
+                skipTo = tpp
+            elif skipTo is not None:
+                if t < skipTo:
+                    continue
+                else:
+                    skipTo = None
+            else:
+                rec.start(t)
+                rec.add(f"{F.str.v(t)}{F.after.v(t)}")
+                rec.end(t)
 
         self.rec = rec
         textComplete = rec.text()
@@ -434,10 +503,23 @@ class Detect:
         NE = self.NE
         workDir = self.workDir
 
+        sheetData = NE.getSheetData()
+        NEinventory = sheetData.inventory
+
         A.indent(reset=True)
-        A.info("Look up occurrences for the lexicon")
-        NE.makeInventory()
-        A.info("done")
+        A.info("Collecting the triggers for the lexicon")
+
+        inventory = {}
+
+        for eidkind, triggers in NEinventory.items():
+            for trigger, scopes in triggers.items():
+                inventory.setdefault(trigger, set())
+
+                for occs in scopes.values():
+                    for slots in occs:
+                        inventory[trigger].add(tuple(slots))
+
+        A.info(f"{len(inventory)} triggers collected")
 
         remSpaceRe = re.compile(r""" +([^A-Za-z])""")
         accentSpaceRe = re.compile(r"""([’']) +""")
@@ -448,8 +530,8 @@ class Detect:
         lexiconOccs = {}
         self.lexiconOccs = lexiconOccs
 
-        for name, occs in NE.inventory.items():
-            occStr = " ".join(name)
+        for name, occs in inventory.items():
+            occStr = name
             occNormal = remSpaceRe.sub(r"\1", occStr)
             occNormal = accentSpaceRe.sub(r"\1", occNormal)
             nOccs = len(occs)
@@ -457,7 +539,7 @@ class Detect:
             mapNormal[occNormal] = occStr
             lexiconOccs[occNormal] = occs
 
-        sortedLexicon = sorted(lexicon.items(), key=lambda x: (-x[1], x[0]))
+        sortedLexicon = sorted(lexicon.items(), key=lambda x: (-x[1], x[0].lower()))
 
         for name, n in sortedLexicon[0:10]:
             console(f"  {n:>3} x {name}")

@@ -602,9 +602,14 @@ def stripP(match):
     return match.group(1).strip()
 
 
+def stripNoteNewlines(match):
+    text = match.group(0)
+    return text.replace("\n", " ").replace("<p", "<..P").replace("</p", "</..P")
+
+
 def stripNewlines(match):
     text = match.group(0)
-    return text.replace("\n", " ")
+    return text.replace("\n", " ").replace("<..P", "<p").replace("</..P", "</p")
 
 
 FILZA_RE = re.compile(r"^([0-9]+)(.*)$")

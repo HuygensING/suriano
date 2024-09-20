@@ -103,6 +103,7 @@ from processhelpers import (
     lcFirst,
     makeSubDiv,
     folRepl,
+    stripNoteNewlines,
     stripNewlines,
     normText,
     normFilza,
@@ -694,7 +695,7 @@ class TeiFromDocx(PageInfo):
         curHead = None
         inSecretarial = False
 
-        text = NOTE_NEWLINE_RE.sub(stripNewlines, text)
+        text = NOTE_NEWLINE_RE.sub(stripNoteNewlines, text)
         text = PARA_NEWLINE_RE.sub(stripNewlines, text)
         text = text.replace("\u00a0", " ").replace("\u00ad", " ").replace("\ufffc", " ")
         textLines = text.split("\n")
