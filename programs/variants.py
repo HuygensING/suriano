@@ -8,6 +8,8 @@ from tf.core.files import initTree, fileExists
 from tf.core.helpers import console
 from tf.convert.recorder import Recorder
 
+from processhelpers import NO_VARIANT_TXT, NER_NAME, NERIN_FILE_M
+
 
 HTML_PRE = """<html>
 <head>
@@ -37,8 +39,9 @@ def writeJson(data, asFile=None):
 
 
 class Detect:
-    def __init__(self, A, sheet):
+    def __init__(self, A):
         self.A = A
+        sheet = NER_NAME
         self.sheet = sheet
 
         workDir = f"{A.context.localDir}/{A.context.extraData}/analyticcl"
@@ -175,7 +178,8 @@ class Detect:
                 if len(parts) > 0:
                     (head, tail) = (parts[0:-1], parts[-1])
 
-                    if len(tail) <= 3 and tail.islower():
+                    # if len(tail) <= 3 and tail.islower():
+                    if len(tail) <= 3:
                         head = " ".join(head)
 
                         if head in candidates:
@@ -186,7 +190,8 @@ class Detect:
 
                     (head, tail) = (parts[0], parts[1:])
 
-                    if len(head) <= 3 and head.islower():
+                    # if len(head) <= 3 and head.islower():
+                    if len(head) <= 3:
                         tail = " ".join(tail)
 
                         if tail in candidates:
@@ -217,6 +222,76 @@ class Detect:
         self.matches = matches
         self.matchPositions = matchPositions
 
+    def mergeTriggers(self):
+        NE = self.NE
+        trigI = NE.trigI
+        commentI = NE.commentI
+        matches = self.matches
+
+        noVariant = set()
+        self.noVariant = noVariant
+
+        if fileExists(NO_VARIANT_TXT):
+            with open(NO_VARIANT_TXT) as fh:
+                for line in fh:
+                    noVariant.add(line.strip())
+
+            nNoVariant = len(noVariant)
+            pl = "" if nNoVariant == 1 else "s"
+            console(f"{nNoVariant} excluded variant{pl} found in {NO_VARIANT_TXT}")
+        else:
+            console(f"File with excluded variants not found: {NO_VARIANT_TXT}")
+
+        mapping = {}
+        self.mapping = mapping
+        excluded = 0
+
+        for text, candidates in matches.items():
+            if text in noVariant:
+                excluded += 1
+                continue
+            for cand in candidates:
+                mapping.setdefault(cand, set()).add(text)
+
+        rows = NE.readSheetData()
+
+        nAdded = 0
+        totAdded = 0
+
+        for r, row in enumerate(rows):
+            if r == 0 or r == 1 or row[commentI].startswith("#"):
+                continue
+
+            triggers = set(row[trigI])
+            nPrev = len(triggers)
+
+            newTriggers = []
+
+            for trigger in triggers:
+                newTriggers.append(trigger)
+
+                for variant in mapping.get(trigger, []):
+                    newTriggers.append(variant)
+
+            newTriggers = sorted(set(newTriggers))
+            row[trigI] = newTriggers
+            nPost = len(newTriggers)
+
+            nDiff = nPost - nPrev
+
+            if nDiff != 0:
+                nAdded += 1
+                totAdded += nDiff
+
+        mergedPath = NERIN_FILE_M
+        NE.writeSheetData(rows, asFile=mergedPath)
+        ple = "" if excluded == 1 else "s"
+        pls = "" if nAdded == 1 else "s"
+        plt = "" if totAdded == 1 else "s"
+        console(f"{excluded} variant{ple} excluded as trigger")
+        console(f"{nAdded} triggerset{pls} expanded with {totAdded} trigger{plt}")
+        console(f"Wrote merged triggers to sheet {mergedPath}")
+
     def listResults(self, start=None, end=None):
         workDir = self.workDir
         matches = self.matches
@@ -229,8 +304,8 @@ class Detect:
         console(f"{dash}")
         startN = start or 0
 
-        for text, candidates in sorted(matches.items()):
-            for cand, score in sorted(candidates.items()):
+        for text, candidates in sorted(matches.items(), key=lambda x: x[0].lower()):
+            for cand, score in sorted(candidates.items(), key=lambda x: x[0].lower()):
                 lines.append((text, score, cand))
 
         for i, (text, score, cand) in enumerate(lines[start:end]):

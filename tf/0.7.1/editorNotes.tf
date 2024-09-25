@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.7.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-20T11:24:31Z
+@dateWritten=2024-09-24T13:01:03Z
 
-1807098	
+1807318	
 
 
 Attached to this letter are four other documents: a letter by the Elector of Palatinate written on 4 July 1615 in French and translation in Italian (Risposta del signor principe Palatino elettore a vostra Serenità) and another letter by the Elector of Palatinate written on [4 July] 1616 in French and translation in Italian (Scrittura del signor principe Palatino che serve di risposta )

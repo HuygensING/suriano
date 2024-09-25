@@ -566,7 +566,8 @@ class TeiFromDocx(PageInfo):
         def mmm(match):
             rend = match.group(1)
             material = match.group(2)
-            ptr = match.group(3)
+            sep = match.group(3)
+            ptr = match.group(4)
             material = material.replace("\n", " ")
             material = HI_UNESCAPE_RE.sub(r"""<hi rend="\1">\2</hi>""", material)
             materialClean = material.strip()
@@ -600,7 +601,7 @@ class TeiFromDocx(PageInfo):
 
             if isDecoded:
                 decodified[filza].setdefault(page, []).append(material)
-                result = f"""<hi rend="{DECODED}">{material}</hi>{ptr}"""
+                result = f"""<hi rend="{DECODED}">{material}</hi>{sep}{ptr}"""
             else:
                 if materialClean in allowedEditorials:
                     en = materialClean

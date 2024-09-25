@@ -3,15 +3,18 @@ from subprocess import run
 
 from tf.app import use
 from tf.core.timestamp import DEEP, TERSE
-from tf.core.files import fileCopy
+from tf.core.files import fileCopy, fileExists
 from tf.convert.iiif import IIIF
 from tf.convert.makewatm import MakeWATM
 
 from processhelpers import (
     nerMeta,
     NER_NAME,
+    NER_NAME_M,
     NERIN_FILE,
+    NERIN_FILE_M,
     NEROUT_FILE,
+    NEROUT_FILE_M,
     SOURCEBASE,
     PAGESEQ_JSON,
 )
@@ -35,9 +38,19 @@ class Make(MakeWATM):
 
     def doTask_ner(self):
         silent = self.flag_silent
-        fileCopy(NERIN_FILE, NEROUT_FILE)
+
+        if fileExists(NERIN_FILE_M):
+            nerName = NER_NAME_M
+            nerInFile = NERIN_FILE_M
+            nerOutFile = NEROUT_FILE_M
+        else:
+            nerName = NER_NAME
+            nerInFile = NERIN_FILE
+            nerOutFile = NEROUT_FILE
+
+        fileCopy(nerInFile, nerOutFile)
         NER = MakeNER(self, silent=silent)
-        NER.task(NER_NAME, caseSensitive=False)
+        NER.task(nerName, caseSensitive=False)
         nerMeta(*NER.getMeta(), silent=silent)
 
         if NER.error:

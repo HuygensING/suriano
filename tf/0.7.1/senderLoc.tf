@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.7.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-20T11:24:32Z
+@dateWritten=2024-09-24T13:01:04Z
 
-1807098	Stuttgart
+1807318	Stuttgart
 Stuttgart
 Heidelberg
 Ilshoven

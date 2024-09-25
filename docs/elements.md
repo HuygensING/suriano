@@ -13,9 +13,9 @@ Table of contents
 | --- | --- | --- | ---
 | [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `decoded` | 2477
 | | | `displaced` | 79
-| | | `footnote` | 11829
+| | | `footnote` | 11831
 | | | `superscript` | 1069
-| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `0` | 8153
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `0` | 8151
 | | | `180` | 20
 | | | `270` | 564
 | | | `90` | 29
@@ -53,13 +53,14 @@ Table of contents
 | | | `shelf` | 725
 | [metamark](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-metamark.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `3v` | 1
 | | | `6r` | 1
+| | | `74v` | 1
 | | | `Blank` | 1555
 | | | `Ciphered` | 75
-| | | `Cut` | 86
+| | | `Cut` | 88
 | | | `Decoding` | 587
 | | | `Dutch` | 1
 | | | `Letterlock` | 2
-| | | `Printed` | 42
+| | | `Printed` | 41
 | | | `Seal` | 356
 | | | `Sealed` | 2
 | | | `Seals` | 30
@@ -72,14 +73,17 @@ Table of contents
 | | | `and` | 304
 | | | `by` | 3
 | | | `ciphered` | 587
+| | | `contained` | 1
 | | | `continues` | 1
 | | | `ff.` | 1
+| | | `fol` | 1
 | | | `follows` | 660
 | | | `here` | 1
 | | | `in` | 1
+| | | `information` | 1
 | | | `of` | 1167
-| | | `on` | 2
-| | | `page` | 1640
+| | | `on` | 3
+| | | `page` | 1642
 | | | `pages` | 4
 | | | `part` | 1
 | | | `previous` | 1
@@ -87,10 +91,11 @@ Table of contents
 | | | `seals` | 356
 | | | `secretary` | 3
 | | | `table` | 1
-| | | `text` | 704
+| | | `text` | 703
 | | | `the` | 4
 | | | `traces` | 302
-| | | `with` | 1
+| | | `visible` | 1
+| | | `with` | 2
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `02_071r` | 1
 | | | `02_071v` | 1
 | | | `02_072r` | 1
@@ -5044,8 +5049,6 @@ Table of contents
 | | | `09_118v` | 1
 | | | `09_119r` | 1
 | | | `09_119v` | 1
-| | | `09_120r` | 1
-| | | `09_120v` | 1
 | | | `09_121r` | 1
 | | | `09_121v` | 1
 | | | `09_122r` | 1
@@ -8916,9 +8919,9 @@ Table of contents
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 1450
 |   | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#ref) | `bio.xml#cs` | 725
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) |   |  | 1450
-|   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 11829
+|   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 11831
 | [num](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-num.html) |   |  | 725
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 48520
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 48521
 |   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `NNNrA` | 2
 | | | `NNNrB` | 5
 | | | `NNNrC` | 1
@@ -8928,13 +8931,13 @@ Table of contents
 | | | `NNNvD` | 101
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `NNNbisr` | 4
 | | | `NNNbisv` | 4
-| | | `NNNr` | 4380
-| | | `NNNv` | 4378
+| | | `NNNr` | 4379
+| | | `NNNv` | 4377
 | [profileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html) |   |  | 725
 | [ptr](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ptr.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 5594
-| | | `NN` | 6021
+| | | `NN` | 6023
 | | | `NNN` | 205
-|   | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 11820
+|   | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 11822
 | [publicationStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html) |   |  | 725
 | [quote](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html) |   |  | 10
 | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 1

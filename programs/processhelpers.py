@@ -17,6 +17,7 @@ COVERS = "covers"
 LOGO = "logo"
 
 NER_NAME = "persons"
+NER_NAME_M = "persons-merged"
 
 _REPODIR = expanduser(f"~/{BACKEND}/{ORG}/{REPO}")
 _PROGRAMDIR = f"{_REPODIR}/programs"
@@ -69,8 +70,11 @@ THUMBDIR = f"{_REPODIR}/thumb"
 THUMBPAGESDIR = f"{THUMBDIR}/{PAGES}"
 THUMBCOVERDIR = f"{THUMBDIR}/{COVERS}"
 SUMMARY_FILE = f"{_METADIR}/summaries.xlsx"
+NO_VARIANT_TXT = f"{_METADIR}/novariant.txt"
 NERIN_FILE = f"{_METADIR}/{NER_NAME}.xlsx"
 NEROUT_FILE = f"{_REPODIR}/ner/specs/{NER_NAME}.xlsx"
+NERIN_FILE_M = f"{_METADIR}/{NER_NAME}-merged.xlsx"
+NEROUT_FILE_M = f"{_REPODIR}/ner/specs/{NER_NAME}-merged.xlsx"
 REPORT_CFGERRORS = f"{_REPORTDIR}/00-cfgerrors.txt"
 REPORT_THUMBERRORS = f"{_REPORTDIR}/10-thumberrors.txt"
 REPORT_THUMBPAGES = f"{_REPORTDIR}/20-thumbpages.txt"
@@ -399,7 +403,7 @@ META_RE = re.compile(
     <hi\ rend="(bold|italic)"[^>]*>
     (.*?)
     </hi>
-    \s*
+    (\s*)
     (
         (?:
             <ptr\b
