@@ -5,7 +5,7 @@ from tf.core.files import expanduser, readYaml, writeJson, initTree, fileOpen, f
 from tf.core.helpers import console
 from tf.core.generic import AttrDict
 from tf.browser.html import H
-from tf.browser.ner.helpers import toAscii
+from tf.ner.helpers import toAscii
 
 
 ORG = "suriano"
