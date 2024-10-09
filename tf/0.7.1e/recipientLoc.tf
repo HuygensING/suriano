@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-09-20T11:24:32Z
+@dateWritten=2024-10-08T12:15:14Z
 @description=Place where the letter was received
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-09-20T11:45:32Z
+@dateWritten=2024-10-09T16:20:39Z
 
-1807098	Venice
+1803109	Venice
 Venice
 Venice
 Venice
