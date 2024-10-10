@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-08T12:15:14Z
+@dateWritten=2024-10-10T14:38:17Z
 @description=Summary of the letter in English
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-09T16:20:40Z
+@dateWritten=2024-10-10T15:01:37Z
 
-1803109	Reports on his audience with John Frederick, Duke of Württemburg, who has informed him that Frederick V of Palatinate has written, in name of all the members of the Protestant Union, to the Holy Roman Emperor to find a solution for the war with the Uskoks. The Duke assures him that they will continue to support Venice, and signals that he has prevented levies of troops on behalf of the Holy Roman Emperor in his duchy. Reports that he further discussed the plan of princes of the Union with the counsellor Buwinckhausen, an old acquintance from his as a secretary time at the English court.
+1805950	Reports on his audience with John Frederick, Duke of Württemburg, who has informed him that Frederick V of Palatinate has written, in name of all the members of the Protestant Union, to the Holy Roman Emperor to find a solution for the war with the Uskoks. The Duke assures him that they will continue to support Venice, and signals that he has prevented levies of troops on behalf of the Holy Roman Emperor in his duchy. Reports that he further discussed the plan of princes of the Union with the counsellor Buwinckhausen, an old acquintance from his as a secretary time at the English court.
 Reports that archduke Leopold visited Stuttgart. The duke of Württemberg has updated Suriano of his conversation with Leopold on the war between the Venetians and archduke Ferdinand. Further he adds that he will continue visiting various German princes en route to the Dutch Republic. He ends by saying how much he has borrowed from different merchants to finance his mission and by offering the services of two captains who had come to see him before he left Zürich. Document attached: a copy of a Latin letter by the Duke of Württemberg to the Venetian Doge on 26 June 1616.
 Reports he has encountered some difficulties in obtaining an audience with George Frederick, Margrave of Baden-Durlach. Upon his arrival in Durlach, the Margrave was leaving because his one year old daughter had just passed away. The Margrave also took issue with how he was addressed by the Venetians, as he wants to be addressed as ’Serenissima’. A few members of his court visited Suriano to explain the matter, but Suriano rejects their arguments claiming the Venetian Republic only uses that title for the prince of Palatinate. Reports that he has arrived in Heidelberg and he hopes to obtain an audience the follwzing day. Meanwhile he was being entertained by a counsellor, and met with Pieter Cornelisz. van Brederode, the Dutch ambassador to the German princes.
 Reports that he has received a warm welcome in Heidelberg and had an audience with Frederick V, whom he thanked him for writing to the Emperor on behalf of the princes of the union about the war in Gradisca. During a dinner he discusses with various important members the potential reasons for the visit of archduke Leopold to the Duke of Württemberg in Stuttgart. Announces he will write a separate letter about his conversation with Schomber. Several captains, primarily the Count of Levenstein and Count of Ortenburg, have approached him to offer their services to the Venetian Republic. Four texts attached: letters by Frederick V in French (written on 4 July 1615 and [4 July] 1616) and in Italian translation.

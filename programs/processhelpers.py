@@ -1,7 +1,15 @@
 import re
 from dataclasses import dataclass
 
-from tf.core.files import expanduser, readYaml, writeJson, initTree, fileOpen, fileCopy
+from tf.core.files import (
+    expanduser,
+    readYaml,
+    writeJson,
+    initTree,
+    fileExists,
+    fileOpen,
+    fileCopy,
+)
 from tf.core.helpers import console
 from tf.core.generic import AttrDict
 from tf.browser.html import H
@@ -663,8 +671,33 @@ def makeSubDiv(target, textKind, romanNum, textNum, kind):
 
     return (
         f"""<div type="{kind}" facs="{facs}" n="{textNum}"{targetRep}>""",
-        f"""<head>{facs}</head>"""
+        f"""<head>{facs}</head>""",
     )
+
+
+def setStage(stage=None):
+    if stage is not None and stage not in {1, 2}:
+        console(
+            f"Wrong stage (should be 1 or 2): {repr(stage)} => defaulting to 1",
+            error=True,
+        )
+        stage = 1
+
+    nerStage = stage if stage is not None else 2 if fileExists(NERIN_FILE_M) else 1
+
+    if nerStage == 2:
+        nerName = NER_NAME_M
+        nerInFile = NERIN_FILE_M
+        nerOutFile = NEROUT_FILE_M
+        fileCopy(NERIN_FILE, NEROUT_FILE)
+    else:
+        nerName = NER_NAME
+        nerInFile = NERIN_FILE
+        nerOutFile = NEROUT_FILE
+
+    fileCopy(nerInFile, nerOutFile)
+    print(f"Stage {nerStage}: working with sheet {nerName}")
+    return nerStage, nerName, nerInFile, nerOutFile
 
 
 @dataclass(init=True, order=True, frozen=True)

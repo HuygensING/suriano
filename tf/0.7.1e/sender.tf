@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-08T12:15:14Z
+@dateWritten=2024-10-10T14:38:17Z
 @description=Sender of the letter
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-09T16:20:39Z
+@dateWritten=2024-10-10T15:01:36Z
 
-1803109	Christofforo Suriano
+1805950	Christofforo Suriano
 Christofforo Suriano
 Christofforo Suriano
 Christofforo Suriano

@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-08T12:15:14Z
+@dateWritten=2024-10-10T14:38:17Z
 @description=this is TEI attribute rend
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-09T16:20:39Z
+@dateWritten=2024-10-10T15:01:36Z
 
-1806652	footnote
+1809493	footnote
 footnote
 footnote
 footnote
@@ -15479,7 +15479,7 @@ footnote
 footnote
 footnote
 footnote
-2053745	0
+2056586	0
 0
 0
 0

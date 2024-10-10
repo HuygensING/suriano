@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-08T12:15:13Z
+@dateWritten=2024-10-10T14:38:16Z
 @description=this is TEI attribute facs
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,18 +21,18 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-09T16:20:39Z
+@dateWritten=2024-10-10T15:01:36Z
 
-1798237	main text of letter
+1801078	main text of letter
 secretarial text of letter
-1798241	main text of letter
+1801082	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1798248	main text of letter
+1801089	main text of letter
 secretarial text of letter
-1798252	main text of letter
+1801093	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -43,57 +43,37 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1798265	main text of letter
+1801106	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798270	I
+1801111	I
 main text of attachment I
-1798273	main text of letter
+1801114	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1798278	I
+1801119	I
 main text of attachment I
-1798281	main text of letter
+1801122	main text of letter
 secretarial text of letter
-1798284	I
+1801125	I
 main text of attachment I
-1798287	main text of letter
+1801128	main text of letter
 secretarial text of letter
-1798291	main text of letter
+1801132	main text of letter
 secretarial text of letter
-1798295	main text of letter
+1801136	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798300	I
+1801141	I
 main text of attachment I
-1798303	main text of letter
+1801144	main text of letter
 secretarial text of letter
-1798307	main text of letter
+1801148	main text of letter
 secretarial text of letter
-1798311	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1798321	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798327	main text of letter
-secretarial text of letter
-1798331	main text of letter
-secretarial text of letter
-1798334	I
-main text of attachment I
-1798337	main text of letter
-secretarial text of letter
-1798341	main text of letter
+1801152	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -101,27 +81,19 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798351	main text of letter
-secretarial text of letter
-1798354	I
-main text of attachment I
-1798357	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1798363	main text of letter
-secretarial text of letter
-1798367	main text of letter
-secretarial text of letter
-1798371	main text of letter
+1801162	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1798379	main text of letter
+1801168	main text of letter
 secretarial text of letter
-1798383	main text of letter
+1801172	main text of letter
+secretarial text of letter
+1801175	I
+main text of attachment I
+1801178	main text of letter
+secretarial text of letter
+1801182	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -129,7 +101,27 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798393	main text of letter
+1801192	main text of letter
+secretarial text of letter
+1801195	I
+main text of attachment I
+1801198	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1801204	main text of letter
+secretarial text of letter
+1801208	main text of letter
+secretarial text of letter
+1801212	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1801220	main text of letter
+secretarial text of letter
+1801224	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -137,25 +129,7 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798403	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798409	main text of letter
-secretarial text of letter
-1798413	main text of letter
-secretarial text of letter
-1798417	main text of letter
-secretarial text of letter
-1798421	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798427	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798433	main text of letter
+1801234	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -163,23 +137,49 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798443	main text of letter
+1801244	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798449	main text of letter
+1801250	main text of letter
+secretarial text of letter
+1801254	main text of letter
+secretarial text of letter
+1801258	main text of letter
+secretarial text of letter
+1801262	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801268	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801274	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1801284	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801290	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1798454	I
+1801295	I
 main text of attachment I
-1798457	main text of letter
+1801298	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1798465	main text of letter
+1801306	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -189,23 +189,23 @@ main text of attachment II
 secretarial text of attachment II
 I
 main text of attachment I
-1798477	main text of letter
+1801318	main text of letter
 secretarial text of letter
-1798481	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798487	main text of letter
+1801322	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798492	I
+1801328	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1798495	main text of letter
+1801333	I
+main text of attachment I
+1801336	main text of letter
 secretarial text of letter
-1798499	main text of letter
+1801340	main text of letter
 secretarial text of letter
-1798503	main text of letter
+1801344	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -217,13 +217,13 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1798517	main text of letter
+1801358	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1798525	main text of letter
+1801366	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -233,13 +233,13 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1798537	main text of letter
+1801378	main text of letter
 secretarial text of letter
-1798541	main text of letter
+1801382	main text of letter
 secretarial text of letter
-1798545	main text of letter
+1801386	main text of letter
 secretarial text of letter
-1798549	main text of letter
+1801390	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -247,25 +247,25 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798559	main text of letter
+1801400	main text of letter
 secretarial text of letter
-1798563	main text of letter
+1801404	main text of letter
 secretarial text of letter
-1798567	main text of letter
+1801408	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1798575	main text of letter
+1801416	main text of letter
 secretarial text of letter
-1798579	main text of letter
+1801420	main text of letter
 secretarial text of letter
-1798583	main text of letter
+1801424	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798589	main text of letter
+1801430	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -279,99 +279,61 @@ V
 main text of attachment V
 VI
 main text of attachment VI
-1798605	main text of letter
+1801446	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798611	main text of letter
+1801452	main text of letter
 secretarial text of letter
-1798615	main text of letter
+1801456	main text of letter
 secretarial text of letter
-1798619	main text of letter
+1801460	main text of letter
 secretarial text of letter
-1798623	main text of letter
+1801464	main text of letter
 secretarial text of letter
-1798627	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798633	main text of letter
-secretarial text of letter
-1798637	main text of letter
-secretarial text of letter
-1798641	main text of letter
-secretarial text of letter
-1798645	main text of letter
-secretarial text of letter
-1798649	main text of letter
-secretarial text of letter
-1798653	main text of letter
-secretarial text of letter
-1798657	main text of letter
+1801468	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798663	main text of letter
+1801474	main text of letter
 secretarial text of letter
-1798667	main text of letter
+1801478	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1798673	main text of letter
+1801482	main text of letter
 secretarial text of letter
-1798677	main text of letter
+1801486	main text of letter
 secretarial text of letter
-1798681	main text of letter
+1801490	main text of letter
 secretarial text of letter
-1798685	main text of letter
+1801494	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1798691	main text of letter
-secretarial text of letter
-1798695	main text of letter
+1801498	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798701	main text of letter
+1801504	main text of letter
+secretarial text of letter
+1801508	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1798711	main text of letter
+1801514	main text of letter
+secretarial text of letter
+1801518	main text of letter
+secretarial text of letter
+1801522	main text of letter
+secretarial text of letter
+1801526	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798717	main text of letter
+1801532	main text of letter
+secretarial text of letter
+1801536	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1798725	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798731	main text of letter
-secretarial text of letter
-1798735	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798741	main text of letter
-secretarial text of letter
-1798745	main text of letter
-secretarial text of letter
-1798749	main text of letter
-secretarial text of letter
-1798753	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798759	main text of letter
+1801542	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -379,126 +341,164 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798769	main text of letter
+1801552	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798775	main text of letter
-secretarial text of letter
-1798779	main text of letter
-secretarial text of letter
-1798783	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798789	main text of letter
-secretarial text of letter
-1798793	main text of letter
-secretarial text of letter
-1798797	main text of letter
-secretarial text of letter
-1798801	main text of letter
-secretarial text of letter
-1798805	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798811	main text of letter
-secretarial text of letter
-1798815	main text of letter
+1801558	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1798823	main text of letter
-secretarial text of letter
-1798827	main text of letter
-secretarial text of letter
-1798831	main text of letter
-secretarial text of letter
-1798835	main text of letter
+1801566	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798841	main text of letter
+1801572	main text of letter
 secretarial text of letter
-1798845	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798851	main text of letter
-secretarial text of letter
-1798855	main text of letter
+1801576	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798861	main text of letter
+1801582	main text of letter
 secretarial text of letter
-1798865	main text of letter
+1801586	main text of letter
 secretarial text of letter
-1798869	main text of letter
+1801590	main text of letter
 secretarial text of letter
-1798873	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798879	main text of letter
-secretarial text of letter
-1798883	main text of letter
+1801594	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798889	main text of letter
-secretarial text of letter
-1798893	main text of letter
+1801600	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798899	main text of letter
+II
+main text of attachment II
+III
+main text of attachment III
+1801610	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801616	main text of letter
+secretarial text of letter
+1801620	main text of letter
+secretarial text of letter
+1801624	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801630	main text of letter
+secretarial text of letter
+1801634	main text of letter
+secretarial text of letter
+1801638	main text of letter
+secretarial text of letter
+1801642	main text of letter
+secretarial text of letter
+1801646	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801652	main text of letter
+secretarial text of letter
+1801656	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1801664	main text of letter
+secretarial text of letter
+1801668	main text of letter
+secretarial text of letter
+1801672	main text of letter
+secretarial text of letter
+1801676	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801682	main text of letter
+secretarial text of letter
+1801686	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801692	main text of letter
+secretarial text of letter
+1801696	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801702	main text of letter
+secretarial text of letter
+1801706	main text of letter
+secretarial text of letter
+1801710	main text of letter
+secretarial text of letter
+1801714	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801720	main text of letter
+secretarial text of letter
+1801724	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801730	main text of letter
+secretarial text of letter
+1801734	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801740	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1798905	I
+1801746	I
 main text of attachment I
 II
 main text of attachment II
 III
 main text of attachment III
-1798912	main text of letter
+1801753	main text of letter
 secretarial text of letter
-1798916	main text of letter
+1801757	main text of letter
 secretarial text of letter
-1798920	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1798926	main text of letter
+1801761	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798932	main text of letter
+1801767	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798938	main text of letter
-secretarial text of letter
-1798942	main text of letter
+1801773	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1798950	main text of letter
+1801779	main text of letter
+secretarial text of letter
+1801783	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1798958	main text of letter
+1801791	main text of letter
 secretarial text of letter
-1798962	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1801799	main text of letter
+secretarial text of letter
+1801803	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -506,108 +506,108 @@ II
 main text of attachment II
 III
 main text of attachment III
-1798972	main text of letter
+1801813	main text of letter
 secretarial text of letter
-1798976	main text of letter
+1801817	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1798982	main text of letter
+1801823	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1798990	main text of letter
+1801831	main text of letter
 secretarial text of letter
-1798994	main text of letter
+1801835	main text of letter
 secretarial text of letter
-1798998	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799004	main text of letter
+1801839	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799010	main text of letter
-secretarial text of letter
-1799014	main text of letter
+1801845	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799020	main text of letter
+1801851	main text of letter
+secretarial text of letter
+1801855	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799026	main text of letter
-secretarial text of letter
-1799030	main text of letter
+1801861	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799036	main text of letter
+1801867	main text of letter
+secretarial text of letter
+1801871	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799042	main text of letter
+1801877	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799048	main text of letter
+1801883	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799054	main text of letter
-secretarial text of letter
-1799058	main text of letter
+1801889	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799064	main text of letter
+1801895	main text of letter
+secretarial text of letter
+1801899	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799070	main text of letter
+1801905	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799076	main text of letter
-secretarial text of letter
-1799080	main text of letter
-secretarial text of letter
-1799084	main text of letter
-secretarial text of letter
-1799088	main text of letter
-secretarial text of letter
-1799092	main text of letter
-secretarial text of letter
-1799096	main text of letter
+1801911	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799102	main text of letter
+1801917	main text of letter
 secretarial text of letter
-1799106	main text of letter
+1801921	main text of letter
+secretarial text of letter
+1801925	main text of letter
+secretarial text of letter
+1801929	main text of letter
+secretarial text of letter
+1801933	main text of letter
+secretarial text of letter
+1801937	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799112	main text of letter
+1801943	main text of letter
+secretarial text of letter
+1801947	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799118	main text of letter
+1801953	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1801959	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
 secretarial text of attachment II
-1799127	main text of letter
+1801968	main text of letter
 secretarial text of letter
-1799131	main text of letter
+1801972	main text of letter
 secretarial text of letter
-1799135	main text of letter
+1801976	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -615,61 +615,61 @@ II
 main text of attachment II
 III
 main text of attachment III
-1799145	main text of letter
+1801986	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799153	main text of letter
+1801994	main text of letter
 secretarial text of letter
-1799157	main text of letter
+1801998	main text of letter
 secretarial text of letter
-1799161	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799167	main text of letter
+1802002	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799173	main text of letter
+1802008	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1799180	I
-main text of attachment I
-1799183	main text of letter
-secretarial text of letter
-1799187	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799193	main text of letter
+1802014	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799201	main text of letter
+1802021	I
+main text of attachment I
+1802024	main text of letter
 secretarial text of letter
-1799205	main text of letter
-secretarial text of letter
-1799209	main text of letter
-secretarial text of letter
-1799213	main text of letter
-secretarial text of letter
-1799217	main text of letter
-secretarial text of letter
-1799221	main text of letter
+1802028	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799226	I
+1802034	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1799229	main text of letter
+II
+main text of attachment II
+1802042	main text of letter
+secretarial text of letter
+1802046	main text of letter
+secretarial text of letter
+1802050	main text of letter
+secretarial text of letter
+1802054	main text of letter
+secretarial text of letter
+1802058	main text of letter
+secretarial text of letter
+1802062	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802067	I
+main text of attachment I
+1802070	main text of letter
 secretarial text of letter
 II
 main text of attachment II
@@ -679,44 +679,44 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1799241	main text of letter
+1802082	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799246	I
+1802087	I
 main text of attachment I
-1799249	main text of letter
+1802090	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1799255	main text of letter
+1802096	main text of letter
 secretarial text of letter
-1799259	main text of letter
+1802100	main text of letter
 secretarial text of letter
-1799263	main text of letter
-1799266	main text of letter
+1802104	main text of letter
+1802107	main text of letter
 secretarial text of letter
-1799270	main text of letter
+1802111	main text of letter
 secretarial text of letter
-1799274	main text of letter
+1802115	main text of letter
 secretarial text of letter
-1799278	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799284	main text of letter
+1802119	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799290	main text of letter
+1802125	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799296	main text of letter
+1802131	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799302	main text of letter
+1802137	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802143	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -724,81 +724,81 @@ II
 main text of attachment II
 III
 main text of attachment III
-1799312	main text of letter
+1802153	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799318	main text of letter
+1802159	main text of letter
 secretarial text of letter
-1799322	main text of letter
+1802163	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799327	I
+1802168	I
 main text of attachment I
-1799330	main text of letter
+1802171	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1799336	main text of letter
+1802177	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799342	main text of letter
+1802183	main text of letter
 secretarial text of letter
-1799346	main text of letter
+1802187	main text of letter
 secretarial text of letter
-1799350	main text of letter
+1802191	main text of letter
 secretarial text of letter
-1799354	main text of letter
+1802195	main text of letter
 secretarial text of letter
-1799358	main text of letter
+1802199	main text of letter
 secretarial text of letter
-1799362	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799368	main text of letter
-secretarial text of letter
-1799372	main text of letter
-secretarial text of letter
-1799376	main text of letter
-secretarial text of letter
-1799380	main text of letter
+1802203	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1799388	main text of letter
+1802209	main text of letter
+secretarial text of letter
+1802213	main text of letter
+secretarial text of letter
+1802217	main text of letter
+secretarial text of letter
+1802221	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799396	main text of letter
-secretarial text of letter
-1799400	main text of letter
-1799403	main text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799410	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799416	main text of letter
-secretarial text of letter
-1799420	main text of letter
-secretarial text of letter
-1799424	main text of letter
+1802229	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799432	main text of letter
+1802237	main text of letter
+secretarial text of letter
+1802241	main text of letter
+1802244	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802251	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802257	main text of letter
+secretarial text of letter
+1802261	main text of letter
+secretarial text of letter
+1802265	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802273	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -811,67 +811,67 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1799447	main text of letter
+1802288	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799453	main text of letter
+1802294	main text of letter
 secretarial text of letter
-1799457	main text of letter
+1802298	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799465	main text of letter
+1802306	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799471	main text of letter
+1802312	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799477	main text of letter
+1802318	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799483	main text of letter
+1802324	main text of letter
 secretarial text of letter
-1799487	main text of letter
+1802328	main text of letter
 secretarial text of letter
-1799491	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799497	main text of letter
-secretarial text of letter
-1799501	main text of letter
-secretarial text of letter
-1799505	main text of letter
-secretarial text of letter
-1799509	main text of letter
-secretarial text of letter
-1799513	main text of letter
-secretarial text of letter
-1799517	main text of letter
-secretarial text of letter
-1799521	main text of letter
-secretarial text of letter
-1799525	main text of letter
+1802332	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799531	main text of letter
+1802338	main text of letter
 secretarial text of letter
-1799535	main text of letter
+1802342	main text of letter
 secretarial text of letter
-1799539	main text of letter
+1802346	main text of letter
 secretarial text of letter
-1799543	main text of letter
+1802350	main text of letter
 secretarial text of letter
-1799547	main text of letter
+1802354	main text of letter
 secretarial text of letter
-1799551	main text of letter
+1802358	main text of letter
+secretarial text of letter
+1802362	main text of letter
+secretarial text of letter
+1802366	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802372	main text of letter
+secretarial text of letter
+1802376	main text of letter
+secretarial text of letter
+1802380	main text of letter
+secretarial text of letter
+1802384	main text of letter
+secretarial text of letter
+1802388	main text of letter
+secretarial text of letter
+1802392	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -893,9 +893,9 @@ IX
 main text of attachment IX
 X
 main text of attachment X
-1799575	main text of letter
+1802416	main text of letter
 secretarial text of letter
-1799579	main text of letter
+1802420	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -915,11 +915,11 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1799601	main text of letter
+1802442	main text of letter
 secretarial text of letter
-1799605	main text of letter
+1802446	main text of letter
 secretarial text of letter
-1799609	main text of letter
+1802450	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -931,7 +931,7 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1799623	main text of letter
+1802464	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -948,9 +948,9 @@ VI
 main text of attachment VI
 I
 main text of attachment I
-1799642	main text of letter
+1802483	main text of letter
 secretarial text of letter
-1799646	main text of letter
+1802487	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -958,41 +958,41 @@ II
 main text of attachment II
 III
 main text of attachment III
-1799656	main text of letter
+1802497	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799664	main text of letter
+1802505	main text of letter
 secretarial text of letter
-1799668	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799676	main text of letter
+1802509	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799684	main text of letter
+1802517	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799692	main text of letter
-secretarial text of letter
-1799696	main text of letter
+1802525	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799702	main text of letter
+II
+main text of attachment II
+1802533	main text of letter
 secretarial text of letter
-1799705	I
+1802537	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802543	main text of letter
+secretarial text of letter
+1802546	I
 main text of attachment I
 II
 main text of attachment II
@@ -1000,57 +1000,47 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1799714	main text of letter
+1802555	main text of letter
 secretarial text of letter
 V
 main text of attachment V
-1799719	I
+1802560	I
 main text of attachment I
-1799722	main text of letter
+1802563	main text of letter
 secretarial text of letter
-1799726	main text of letter
+1802567	main text of letter
 secretarial text of letter
-1799730	main text of letter
+1802571	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799737	I
+1802578	I
 main text of attachment I
-1799740	main text of letter
+1802581	main text of letter
 secretarial text of letter
-1799744	main text of letter
+1802585	main text of letter
 secretarial text of letter
-1799748	main text of letter
+1802589	main text of letter
 secretarial text of letter
-1799752	main text of letter
+1802593	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799758	main text of letter
+1802599	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799764	main text of letter
+1802605	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1799770	main text of letter
+1802611	main text of letter
 secretarial text of letter
-1799774	main text of letter
+1802615	main text of letter
 secretarial text of letter
-1799778	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1799790	main text of letter
+1802619	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1060,31 +1050,7 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1799802	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799808	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799816	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1799826	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799834	main text of letter
+1802631	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1094,52 +1060,31 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-V
-main text of attachment V
-VI
-main text of attachment VI
-1799850	main text of letter
-secretarial text of letter
-1799854	main text of letter
-secretarial text of letter
-1799858	main text of letter
+1802643	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-secretarial text of attachment I
-1799865	main text of letter
-secretarial text of letter
-1799869	main text of letter
-secretarial text of letter
-1799873	main text of letter
-secretarial text of letter
-1799877	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799883	main text of letter
-secretarial text of letter
-1799887	main text of letter
-secretarial text of letter
-1799891	main text of letter
+1802649	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1799899	main text of letter
+1802657	main text of letter
 secretarial text of letter
-1799903	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1802667	main text of letter
 secretarial text of letter
-1799907	main text of letter
-secretarial text of letter
-1799911	main text of letter
-secretarial text of letter
-1799915	main text of letter
-secretarial text of letter
-1799919	main text of letter
-secretarial text of letter
-1799923	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802675	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1149,314 +1094,293 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1799935	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-secretarial text of attachment I
-1799942	main text of letter
-secretarial text of letter
-1799946	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1799958	main text of letter
-secretarial text of letter
-1799962	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799970	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799978	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1799984	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1799992	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1800000	main text of letter
-secretarial text of letter
-1800004	main text of letter
-secretarial text of letter
-1800008	main text of letter
-secretarial text of letter
-1800012	main text of letter
-secretarial text of letter
-1800016	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800022	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1800028	main text of letter
-secretarial text of letter
-1800032	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1800040	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800046	main text of letter
-secretarial text of letter
-1800050	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800056	main text of letter
-secretarial text of letter
-1800060	main text of letter
-secretarial text of letter
-1800064	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800070	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-V
-main text of attachment V
-1800084	main text of letter
-secretarial text of letter
-1800088	main text of letter
-secretarial text of letter
-1800092	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-secretarial text of attachment I
-1800099	main text of letter
-secretarial text of letter
-1800103	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800109	main text of letter
-secretarial text of letter
-1800113	main text of letter
-secretarial text of letter
-1800117	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800123	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800129	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800135	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800140	I
-main text of attachment I
-1800143	main text of letter
-secretarial text of letter
-1800147	main text of letter
-secretarial text of letter
-1800150	I
-main text of attachment I
-1800153	main text of letter
-secretarial text of letter
-1800156	I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-V
-main text of attachment V
-1800167	main text of letter
-secretarial text of letter
-1800170	I
-main text of attachment I
-1800173	main text of letter
-secretarial text of letter
-1800177	main text of letter
-secretarial text of letter
-1800181	main text of letter
-secretarial text of letter
-1800184	I
-main text of attachment I
-1800187	main text of letter
-secretarial text of letter
-1800190	I
-main text of attachment I
-secretarial text of attachment I
-1800194	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1800200	main text of letter
-secretarial text of letter
-1800204	main text of letter
-secretarial text of letter
-1800208	main text of letter
-secretarial text of letter
-1800212	main text of letter
-secretarial text of letter
-1800216	main text of letter
-secretarial text of letter
-1800220	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800226	main text of letter
-secretarial text of letter
-1800230	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800235	I
-main text of attachment I
-1800238	main text of letter
-secretarial text of letter
-1800242	main text of letter
-secretarial text of letter
-1800246	main text of letter
-I
-main text of attachment I
-1800251	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800257	main text of letter
-secretarial text of letter
-1800260	I
-main text of attachment I
-1800263	main text of letter
-secretarial text of letter
-1800267	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1800274	I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1800283	main text of letter
-secretarial text of letter
 V
 main text of attachment V
 VI
 main text of attachment VI
-VII
-main text of attachment VII
-VIII
-main text of attachment VIII
-IX
-main text of attachment IX
-1800297	main text of letter
+1802691	main text of letter
 secretarial text of letter
-1800301	main text of letter
+1802695	main text of letter
 secretarial text of letter
-1800304	I
-main text of attachment I
-1800307	main text of letter
-secretarial text of letter
-1800311	main text of letter
-secretarial text of letter
-1800315	main text of letter
-secretarial text of letter
-1800318	I
-main text of attachment I
-1800321	main text of letter
-secretarial text of letter
-1800325	main text of letter
-secretarial text of letter
-1800329	main text of letter
-secretarial text of letter
-1800333	main text of letter
-secretarial text of letter
-1800337	main text of letter
+1802699	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800342	I
-main text of attachment I
-1800345	main text of letter
+secretarial text of attachment I
+1802706	main text of letter
 secretarial text of letter
-1800349	main text of letter
+1802710	main text of letter
 secretarial text of letter
-1800353	main text of letter
+1802714	main text of letter
 secretarial text of letter
-1800357	main text of letter
+1802718	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800363	main text of letter
+1802724	main text of letter
 secretarial text of letter
-1800367	main text of letter
+1802728	main text of letter
 secretarial text of letter
-1800370	I
+1802732	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1800373	main text of letter
+II
+main text of attachment II
+1802740	main text of letter
 secretarial text of letter
-1800377	main text of letter
+1802744	main text of letter
 secretarial text of letter
-1800381	main text of letter
+1802748	main text of letter
 secretarial text of letter
-1800384	I
+1802752	main text of letter
+secretarial text of letter
+1802756	main text of letter
+secretarial text of letter
+1802760	main text of letter
+secretarial text of letter
+1802764	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1800387	main text of letter
-secretarial text of letter
-1800391	main text of letter
-secretarial text of letter
-1800394	I
-main text of attachment I
-1800397	main text of letter
-secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 IV
 main text of attachment IV
+1802776	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+secretarial text of attachment I
+1802783	main text of letter
+secretarial text of letter
+1802787	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+1802799	main text of letter
+secretarial text of letter
+1802803	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802811	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802819	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802825	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802833	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802841	main text of letter
+secretarial text of letter
+1802845	main text of letter
+secretarial text of letter
+1802849	main text of letter
+secretarial text of letter
+1802853	main text of letter
+secretarial text of letter
+1802857	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802863	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1802869	main text of letter
+secretarial text of letter
+1802873	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1802881	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802887	main text of letter
+secretarial text of letter
+1802891	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802897	main text of letter
+secretarial text of letter
+1802901	main text of letter
+secretarial text of letter
+1802905	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802911	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+1802925	main text of letter
+secretarial text of letter
+1802929	main text of letter
+secretarial text of letter
+1802933	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+secretarial text of attachment I
+1802940	main text of letter
+secretarial text of letter
+1802944	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802950	main text of letter
+secretarial text of letter
+1802954	main text of letter
+secretarial text of letter
+1802958	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802964	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802970	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802976	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1802981	I
+main text of attachment I
+1802984	main text of letter
+secretarial text of letter
+1802988	main text of letter
+secretarial text of letter
+1802991	I
+main text of attachment I
+1802994	main text of letter
+secretarial text of letter
+1802997	I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+1803008	main text of letter
+secretarial text of letter
+1803011	I
+main text of attachment I
+1803014	main text of letter
+secretarial text of letter
+1803018	main text of letter
+secretarial text of letter
+1803022	main text of letter
+secretarial text of letter
+1803025	I
+main text of attachment I
+1803028	main text of letter
+secretarial text of letter
+1803031	I
+main text of attachment I
+secretarial text of attachment I
+1803035	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1803041	main text of letter
+secretarial text of letter
+1803045	main text of letter
+secretarial text of letter
+1803049	main text of letter
+secretarial text of letter
+1803053	main text of letter
+secretarial text of letter
+1803057	main text of letter
+secretarial text of letter
+1803061	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803067	main text of letter
+secretarial text of letter
+1803071	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803076	I
+main text of attachment I
+1803079	main text of letter
+secretarial text of letter
+1803083	main text of letter
+secretarial text of letter
+1803087	main text of letter
+I
+main text of attachment I
+1803092	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803098	main text of letter
+secretarial text of letter
+1803101	I
+main text of attachment I
+1803104	main text of letter
+secretarial text of letter
+1803108	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1803115	I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+1803124	main text of letter
+secretarial text of letter
 V
 main text of attachment V
 VI
@@ -1467,120 +1391,196 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1800417	main text of letter
+1803138	main text of letter
 secretarial text of letter
-1800420	I
+1803142	main text of letter
+secretarial text of letter
+1803145	I
 main text of attachment I
-1800423	main text of letter
+1803148	main text of letter
+secretarial text of letter
+1803152	main text of letter
+secretarial text of letter
+1803156	main text of letter
+secretarial text of letter
+1803159	I
+main text of attachment I
+1803162	main text of letter
+secretarial text of letter
+1803166	main text of letter
+secretarial text of letter
+1803170	main text of letter
+secretarial text of letter
+1803174	main text of letter
+secretarial text of letter
+1803178	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803183	I
+main text of attachment I
+1803186	main text of letter
+secretarial text of letter
+1803190	main text of letter
+secretarial text of letter
+1803194	main text of letter
+secretarial text of letter
+1803198	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803204	main text of letter
+secretarial text of letter
+1803208	main text of letter
+secretarial text of letter
+1803211	I
+main text of attachment I
+1803214	main text of letter
+secretarial text of letter
+1803218	main text of letter
+secretarial text of letter
+1803222	main text of letter
+secretarial text of letter
+1803225	I
+main text of attachment I
+1803228	main text of letter
+secretarial text of letter
+1803232	main text of letter
+secretarial text of letter
+1803235	I
+main text of attachment I
+1803238	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1800429	main text of letter
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+VI
+main text of attachment VI
+VII
+main text of attachment VII
+VIII
+main text of attachment VIII
+IX
+main text of attachment IX
+1803258	main text of letter
 secretarial text of letter
-1800433	main text of letter
+1803261	I
+main text of attachment I
+1803264	main text of letter
 secretarial text of letter
-1800437	main text of letter
+II
+main text of attachment II
+1803270	main text of letter
+secretarial text of letter
+1803274	main text of letter
+secretarial text of letter
+1803278	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800443	main text of letter
+1803284	main text of letter
 secretarial text of letter
-1800447	main text of letter
+1803288	main text of letter
 secretarial text of letter
-1800451	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800456	I
-main text of attachment I
-1800459	main text of letter
-secretarial text of letter
-1800463	main text of letter
-secretarial text of letter
-1800467	main text of letter
-secretarial text of letter
-1800471	main text of letter
-secretarial text of letter
-1800475	main text of letter
+1803292	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800481	main text of letter
+1803297	I
+main text of attachment I
+1803300	main text of letter
+secretarial text of letter
+1803304	main text of letter
+secretarial text of letter
+1803308	main text of letter
+secretarial text of letter
+1803312	main text of letter
+secretarial text of letter
+1803316	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800487	main text of letter
+1803322	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803328	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1800493	I
+1803334	I
 main text of attachment I
 II
 main text of attachment II
-1800498	main text of letter
+1803339	main text of letter
 secretarial text of letter
-1800502	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800508	main text of letter
-secretarial text of letter
-1800512	main text of letter
-secretarial text of letter
-1800516	main text of letter
+1803343	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800522	main text of letter
+1803349	main text of letter
 secretarial text of letter
-1800526	main text of letter
+1803353	main text of letter
 secretarial text of letter
-1800530	main text of letter
+1803357	main text of letter
 secretarial text of letter
-1800534	main text of letter
+I
+main text of attachment I
+1803363	main text of letter
 secretarial text of letter
-1800538	main text of letter
+1803367	main text of letter
 secretarial text of letter
-1800542	main text of letter
+1803371	main text of letter
+secretarial text of letter
+1803375	main text of letter
+secretarial text of letter
+1803379	main text of letter
+secretarial text of letter
+1803383	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800550	main text of letter
+1803391	main text of letter
 secretarial text of letter
-1800554	main text of letter
+1803395	main text of letter
 secretarial text of letter
-1800558	main text of letter
+1803399	main text of letter
 secretarial text of letter
-1800561	I
+1803402	I
 main text of attachment I
-1800564	main text of letter
+1803405	main text of letter
 secretarial text of letter
-1800568	main text of letter
+1803409	main text of letter
 secretarial text of letter
-1800572	main text of letter
+1803413	main text of letter
 secretarial text of letter
-1800576	main text of letter
+1803417	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800581	I
+1803422	I
 main text of attachment I
-1800584	main text of letter
+1803425	main text of letter
 secretarial text of letter
-1800588	main text of letter
+1803429	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800594	main text of letter
+1803435	main text of letter
 secretarial text of letter
-1800598	main text of letter
+1803439	main text of letter
 secretarial text of letter
-1800602	main text of letter
+1803443	main text of letter
 secretarial text of letter
-1800606	main text of letter
+1803447	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1588,25 +1588,25 @@ II
 main text of attachment II
 III
 main text of attachment III
-1800616	main text of letter
+1803457	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800622	main text of letter
+1803463	main text of letter
 secretarial text of letter
-1800626	main text of letter
+1803467	main text of letter
 secretarial text of letter
-1800630	main text of letter
+1803471	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800638	main text of letter
+1803479	main text of letter
 secretarial text of letter
-1800642	main text of letter
+1803483	main text of letter
 secretarial text of letter
-1800646	main text of letter
+1803487	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1616,25 +1616,25 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1800658	main text of letter
+1803499	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800666	main text of letter
+1803507	main text of letter
 secretarial text of letter
-1800670	main text of letter
+1803511	main text of letter
 secretarial text of letter
-1800674	main text of letter
+1803515	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800680	main text of letter
+1803521	main text of letter
 secretarial text of letter
-1800684	main text of letter
+1803525	main text of letter
 secretarial text of letter
-1800688	main text of letter
+1803529	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1643,136 +1643,136 @@ II
 main text of attachment II
 III
 main text of attachment III
-1800699	main text of letter
+1803540	main text of letter
 secretarial text of letter
-1800703	main text of letter
+1803544	main text of letter
 secretarial text of letter
-1800707	main text of letter
+1803548	main text of letter
 secretarial text of letter
-1800711	main text of letter
+1803552	main text of letter
 secretarial text of letter
-1800715	main text of letter
+1803556	main text of letter
 secretarial text of letter
-1800719	main text of letter
+1803560	main text of letter
 secretarial text of letter
-1800723	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1800731	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800737	main text of letter
-secretarial text of letter
-1800741	main text of letter
-secretarial text of letter
-1800745	main text of letter
-secretarial text of letter
-1800749	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800755	main text of letter
-secretarial text of letter
-1800759	main text of letter
-secretarial text of letter
-1800763	main text of letter
-secretarial text of letter
-1800767	main text of letter
+1803564	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800775	main text of letter
+1803572	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803578	main text of letter
+secretarial text of letter
+1803582	main text of letter
+secretarial text of letter
+1803586	main text of letter
+secretarial text of letter
+1803590	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803596	main text of letter
+secretarial text of letter
+1803600	main text of letter
+secretarial text of letter
+1803604	main text of letter
+secretarial text of letter
+1803608	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800783	main text of letter
+1803616	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800791	main text of letter
-secretarial text of letter
-1800795	main text of letter
-secretarial text of letter
-1800799	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800805	main text of letter
-secretarial text of letter
-1800809	main text of letter
-secretarial text of letter
-1800813	main text of letter
-secretarial text of letter
-1800817	main text of letter
-secretarial text of letter
-1800821	main text of letter
-secretarial text of letter
-1800825	main text of letter
-secretarial text of letter
-1800829	main text of letter
-secretarial text of letter
-1800833	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800839	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800845	main text of letter
-secretarial text of letter
-1800849	main text of letter
-secretarial text of letter
-1800853	main text of letter
-secretarial text of letter
-1800857	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800863	main text of letter
+1803624	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800871	main text of letter
+1803632	main text of letter
+secretarial text of letter
+1803636	main text of letter
+secretarial text of letter
+1803640	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800877	main text of letter
+1803646	main text of letter
 secretarial text of letter
-1800881	main text of letter
+1803650	main text of letter
+secretarial text of letter
+1803654	main text of letter
+secretarial text of letter
+1803658	main text of letter
+secretarial text of letter
+1803662	main text of letter
+secretarial text of letter
+1803666	main text of letter
+secretarial text of letter
+1803670	main text of letter
+secretarial text of letter
+1803674	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803680	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803686	main text of letter
+secretarial text of letter
+1803690	main text of letter
+secretarial text of letter
+1803694	main text of letter
+secretarial text of letter
+1803698	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803704	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1803712	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803718	main text of letter
+secretarial text of letter
+1803722	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
 II
 main text of attachment II
-1800890	main text of letter
+1803731	main text of letter
 secretarial text of letter
-1800894	main text of letter
+1803735	main text of letter
 secretarial text of letter
-1800898	main text of letter
+1803739	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1800904	main text of letter
+1803745	main text of letter
 secretarial text of letter
-1800908	main text of letter
+1803749	main text of letter
 secretarial text of letter
-1800912	main text of letter
+1803753	main text of letter
 secretarial text of letter
-1800916	main text of letter
+1803757	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1780,146 +1780,146 @@ II
 main text of attachment II
 III
 main text of attachment III
-1800926	main text of letter
+1803767	main text of letter
 secretarial text of letter
-1800930	main text of letter
+1803771	main text of letter
 secretarial text of letter
-1800934	main text of letter
+1803775	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1800942	main text of letter
+1803783	main text of letter
 secretarial text of letter
-1800946	main text of letter
+1803787	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1800953	main text of letter
+1803794	main text of letter
 secretarial text of letter
-1800957	main text of letter
+1803798	main text of letter
 secretarial text of letter
-1800961	main text of letter
+1803802	main text of letter
 secretarial text of letter
-1800965	main text of letter
+1803806	main text of letter
 secretarial text of letter
-1800969	main text of letter
+1803810	main text of letter
 secretarial text of letter
-1800973	main text of letter
+1803814	main text of letter
 secretarial text of letter
-1800977	main text of letter
+1803818	main text of letter
 secretarial text of letter
-1800981	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1800987	main text of letter
-secretarial text of letter
-1800991	main text of letter
-secretarial text of letter
-1800995	main text of letter
+1803822	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801001	main text of letter
+1803828	main text of letter
+secretarial text of letter
+1803832	main text of letter
+secretarial text of letter
+1803836	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801007	main text of letter
-secretarial text of letter
-1801011	main text of letter
-secretarial text of letter
-1801015	main text of letter
-secretarial text of letter
-1801019	main text of letter
+1803842	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801027	main text of letter
+1803848	main text of letter
 secretarial text of letter
-1801031	main text of letter
+1803852	main text of letter
 secretarial text of letter
-1801035	main text of letter
+1803856	main text of letter
 secretarial text of letter
-1801039	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801045	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801051	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801057	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801063	main text of letter
-secretarial text of letter
-1801067	main text of letter
-secretarial text of letter
-1801071	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801076	I
-main text of attachment I
-1801079	main text of letter
-secretarial text of letter
-1801082	I
-main text of attachment I
-1801085	main text of letter
-secretarial text of letter
-1801088	I
-main text of attachment I
-1801091	main text of letter
-secretarial text of letter
-1801095	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801101	main text of letter
-secretarial text of letter
-1801104	I
-main text of attachment I
-1801107	main text of letter
-secretarial text of letter
-1801110	I
-main text of attachment I
-1801113	main text of letter
-secretarial text of letter
-1801117	main text of letter
-secretarial text of letter
-1801121	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801127	main text of letter
-secretarial text of letter
-1801131	main text of letter
-secretarial text of letter
-1801135	main text of letter
+1803860	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801143	main text of letter
+1803868	main text of letter
 secretarial text of letter
-1801147	main text of letter
+1803872	main text of letter
 secretarial text of letter
-1801151	main text of letter
+1803876	main text of letter
 secretarial text of letter
-1801155	main text of letter
+1803880	main text of letter
 secretarial text of letter
-1801159	main text of letter
+I
+main text of attachment I
+1803886	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803892	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803898	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803904	main text of letter
+secretarial text of letter
+1803908	main text of letter
+secretarial text of letter
+1803912	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803917	I
+main text of attachment I
+1803920	main text of letter
+secretarial text of letter
+1803923	I
+main text of attachment I
+1803926	main text of letter
+secretarial text of letter
+1803929	I
+main text of attachment I
+1803932	main text of letter
+secretarial text of letter
+1803936	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803942	main text of letter
+secretarial text of letter
+1803945	I
+main text of attachment I
+1803948	main text of letter
+secretarial text of letter
+1803951	I
+main text of attachment I
+1803954	main text of letter
+secretarial text of letter
+1803958	main text of letter
+secretarial text of letter
+1803962	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1803968	main text of letter
+secretarial text of letter
+1803972	main text of letter
+secretarial text of letter
+1803976	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1803984	main text of letter
+secretarial text of letter
+1803988	main text of letter
+secretarial text of letter
+1803992	main text of letter
+secretarial text of letter
+1803996	main text of letter
+secretarial text of letter
+1804000	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1929,55 +1929,55 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1801171	main text of letter
+1804012	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801177	main text of letter
+1804018	main text of letter
 secretarial text of letter
-1801180	I
+1804021	I
 main text of attachment I
-1801183	main text of letter
+1804024	main text of letter
 secretarial text of letter
-1801187	main text of letter
+1804028	main text of letter
 secretarial text of letter
-1801191	main text of letter
+1804032	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801197	main text of letter
+1804038	main text of letter
 secretarial text of letter
-1801201	main text of letter
+1804042	main text of letter
 secretarial text of letter
-1801205	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801211	main text of letter
+1804046	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801217	main text of letter
-secretarial text of letter
-1801221	main text of letter
+1804052	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801227	main text of letter
+1804058	main text of letter
 secretarial text of letter
-1801231	main text of letter
+1804062	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804068	main text of letter
+secretarial text of letter
+1804072	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801239	main text of letter
+1804080	main text of letter
 secretarial text of letter
-1801243	main text of letter
+1804084	main text of letter
 secretarial text of letter
-1801247	main text of letter
+1804088	main text of letter
 secretarial text of letter
-1801251	main text of letter
+1804092	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1985,7 +1985,7 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801261	main text of letter
+1804102	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1996,279 +1996,159 @@ main text of attachment III
 IV
 main text of attachment IV
 secretarial text of attachment IV
-1801274	main text of letter
+1804115	main text of letter
 secretarial text of letter
-1801278	main text of letter
+1804119	main text of letter
 secretarial text of letter
-1801282	main text of letter
+1804123	main text of letter
 secretarial text of letter
-1801286	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1801294	main text of letter
-secretarial text of letter
-1801298	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801304	main text of letter
-secretarial text of letter
-1801308	main text of letter
-secretarial text of letter
-1801312	main text of letter
-secretarial text of letter
-1801316	main text of letter
-secretarial text of letter
-1801320	main text of letter
-secretarial text of letter
-1801324	main text of letter
-secretarial text of letter
-1801328	main text of letter
-secretarial text of letter
-1801332	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801338	main text of letter
-secretarial text of letter
-1801342	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801348	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801354	main text of letter
-secretarial text of letter
-1801358	main text of letter
-secretarial text of letter
-1801362	main text of letter
+1804127	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801370	main text of letter
+1804135	main text of letter
 secretarial text of letter
-1801374	main text of letter
-secretarial text of letter
-1801377	I
-main text of attachment I
-1801380	main text of letter
-secretarial text of letter
-1801384	main text of letter
+1804139	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801390	main text of letter
+1804145	main text of letter
+secretarial text of letter
+1804149	main text of letter
+secretarial text of letter
+1804153	main text of letter
+secretarial text of letter
+1804157	main text of letter
+secretarial text of letter
+1804161	main text of letter
+secretarial text of letter
+1804165	main text of letter
+secretarial text of letter
+1804169	main text of letter
+secretarial text of letter
+1804173	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801398	main text of letter
+1804179	main text of letter
+secretarial text of letter
+1804183	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801404	main text of letter
+1804189	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801412	main text of letter
+1804195	main text of letter
 secretarial text of letter
-1801416	main text of letter
+1804199	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1801422	main text of letter
-secretarial text of letter
-1801426	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801432	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801438	main text of letter
-secretarial text of letter
-1801442	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801447	I
-main text of attachment I
-1801450	main text of letter
-secretarial text of letter
-1801454	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801459	I
-main text of attachment I
-1801462	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1801468	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801474	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801480	main text of letter
-secretarial text of letter
-1801484	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801490	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801496	main text of letter
-secretarial text of letter
-1801500	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801506	main text of letter
+1804203	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801514	main text of letter
+1804211	main text of letter
 secretarial text of letter
-1801518	main text of letter
+1804215	main text of letter
+secretarial text of letter
+1804218	I
+main text of attachment I
+1804221	main text of letter
+secretarial text of letter
+1804225	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804231	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-III
-main text of attachment III
-1801528	main text of letter
+1804239	main text of letter
 secretarial text of letter
-1801532	main text of letter
-secretarial text of letter
-1801536	main text of letter
+I
+main text of attachment I
+1804245	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801544	main text of letter
+1804253	main text of letter
 secretarial text of letter
-1801548	main text of letter
+1804257	main text of letter
 secretarial text of letter
-1801552	main text of letter
-secretarial text of letter
-1801555	I
+I
 main text of attachment I
-1801558	main text of letter
+1804263	main text of letter
 secretarial text of letter
-1801562	main text of letter
+1804267	main text of letter
 secretarial text of letter
-1801565	I
+I
 main text of attachment I
-1801568	main text of letter
+1804273	main text of letter
 secretarial text of letter
-1801572	main text of letter
+I
+main text of attachment I
+1804279	main text of letter
 secretarial text of letter
-1801576	main text of letter
+1804283	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804288	I
+main text of attachment I
+1804291	main text of letter
+secretarial text of letter
+1804295	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804300	I
+main text of attachment I
+1804303	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1804309	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804315	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804321	main text of letter
+secretarial text of letter
+1804325	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804331	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804337	main text of letter
+secretarial text of letter
+1804341	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804347	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801584	main text of letter
+1804355	main text of letter
 secretarial text of letter
-1801588	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1801596	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801601	I
-main text of attachment I
-II
-main text of attachment II
-1801606	main text of letter
-secretarial text of letter
-1801610	main text of letter
-secretarial text of letter
-1801614	main text of letter
-secretarial text of letter
-1801618	main text of letter
-secretarial text of letter
-1801622	main text of letter
-secretarial text of letter
-1801626	main text of letter
-secretarial text of letter
-1801630	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801636	main text of letter
-secretarial text of letter
-1801640	main text of letter
-secretarial text of letter
-1801644	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1801651	I
-main text of attachment I
-1801654	main text of letter
-secretarial text of letter
-1801658	main text of letter
-secretarial text of letter
-1801662	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801668	main text of letter
-secretarial text of letter
-1801672	main text of letter
-secretarial text of letter
-1801676	main text of letter
-secretarial text of letter
-1801680	main text of letter
-secretarial text of letter
-1801684	main text of letter
-secretarial text of letter
-1801688	main text of letter
-secretarial text of letter
-1801692	main text of letter
-secretarial text of letter
-1801696	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1801704	main text of letter
-secretarial text of letter
-1801708	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801714	main text of letter
+1804359	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2276,226 +2156,346 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801724	main text of letter
+1804369	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1801730	main text of letter
+1804373	main text of letter
 secretarial text of letter
-1801734	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801740	main text of letter
-secretarial text of letter
-1801744	main text of letter
-secretarial text of letter
-1801748	main text of letter
-secretarial text of letter
-1801752	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801758	main text of letter
-secretarial text of letter
-1801761	I
-main text of attachment I
-1801764	main text of letter
-secretarial text of letter
-1801768	main text of letter
-secretarial text of letter
-1801772	main text of letter
-secretarial text of letter
-1801775	I
-main text of attachment I
-II
-main text of attachment II
-1801780	main text of letter
-secretarial text of letter
-1801784	main text of letter
-secretarial text of letter
-1801788	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801794	main text of letter
-secretarial text of letter
-1801798	main text of letter
-secretarial text of letter
-1801802	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801808	main text of letter
-secretarial text of letter
-1801812	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801818	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801824	main text of letter
-secretarial text of letter
-1801828	main text of letter
-secretarial text of letter
-1801832	main text of letter
-secretarial text of letter
-1801836	main text of letter
-secretarial text of letter
-1801840	main text of letter
-secretarial text of letter
-1801844	main text of letter
-secretarial text of letter
-1801848	main text of letter
-secretarial text of letter
-1801852	main text of letter
-secretarial text of letter
-1801856	main text of letter
-secretarial text of letter
-1801860	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801866	main text of letter
-secretarial text of letter
-1801870	main text of letter
-secretarial text of letter
-1801874	main text of letter
-secretarial text of letter
-1801878	main text of letter
-secretarial text of letter
-1801882	main text of letter
-secretarial text of letter
-1801886	main text of letter
-secretarial text of letter
-1801890	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801896	main text of letter
-secretarial text of letter
-1801900	main text of letter
-secretarial text of letter
-1801903	I
-main text of attachment I
-1801906	main text of letter
-secretarial text of letter
-1801910	main text of letter
-secretarial text of letter
-1801913	I
-main text of attachment I
-1801916	main text of letter
-secretarial text of letter
-1801919	I
-main text of attachment I
-1801922	main text of letter
-secretarial text of letter
-1801926	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801932	main text of letter
-secretarial text of letter
-1801936	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801942	main text of letter
-secretarial text of letter
-1801946	main text of letter
+1804377	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801954	main text of letter
+1804385	main text of letter
 secretarial text of letter
-1801958	main text of letter
+1804389	main text of letter
 secretarial text of letter
-1801962	main text of letter
+1804393	main text of letter
 secretarial text of letter
-1801966	main text of letter
+1804396	I
+main text of attachment I
+1804399	main text of letter
+secretarial text of letter
+1804403	main text of letter
+secretarial text of letter
+1804406	I
+main text of attachment I
+1804409	main text of letter
+secretarial text of letter
+1804413	main text of letter
+secretarial text of letter
+1804417	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801971	I
+II
+main text of attachment II
+1804425	main text of letter
+secretarial text of letter
+1804429	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1801974	main text of letter
+II
+main text of attachment II
+1804437	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804442	I
+main text of attachment I
+II
+main text of attachment II
+1804447	main text of letter
+secretarial text of letter
+1804451	main text of letter
+secretarial text of letter
+1804455	main text of letter
+secretarial text of letter
+1804459	main text of letter
+secretarial text of letter
+1804463	main text of letter
+secretarial text of letter
+1804467	main text of letter
+secretarial text of letter
+1804471	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804477	main text of letter
+secretarial text of letter
+1804481	main text of letter
+secretarial text of letter
+1804485	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1804492	I
+main text of attachment I
+1804495	main text of letter
+secretarial text of letter
+1804499	main text of letter
+secretarial text of letter
+1804503	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804509	main text of letter
+secretarial text of letter
+1804513	main text of letter
+secretarial text of letter
+1804517	main text of letter
+secretarial text of letter
+1804521	main text of letter
+secretarial text of letter
+1804525	main text of letter
+secretarial text of letter
+1804529	main text of letter
+secretarial text of letter
+1804533	main text of letter
+secretarial text of letter
+1804537	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1804545	main text of letter
+secretarial text of letter
+1804549	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804555	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1804565	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804571	main text of letter
+secretarial text of letter
+1804575	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804581	main text of letter
+secretarial text of letter
+1804585	main text of letter
+secretarial text of letter
+1804589	main text of letter
+secretarial text of letter
+1804593	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804599	main text of letter
+secretarial text of letter
+1804602	I
+main text of attachment I
+1804605	main text of letter
+secretarial text of letter
+1804609	main text of letter
+secretarial text of letter
+1804613	main text of letter
+secretarial text of letter
+1804616	I
+main text of attachment I
+II
+main text of attachment II
+1804621	main text of letter
+secretarial text of letter
+1804625	main text of letter
+secretarial text of letter
+1804629	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804635	main text of letter
+secretarial text of letter
+1804639	main text of letter
+secretarial text of letter
+1804643	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804649	main text of letter
+secretarial text of letter
+1804653	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804659	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804665	main text of letter
+secretarial text of letter
+1804669	main text of letter
+secretarial text of letter
+1804673	main text of letter
+secretarial text of letter
+1804677	main text of letter
+secretarial text of letter
+1804681	main text of letter
+secretarial text of letter
+1804685	main text of letter
+secretarial text of letter
+1804689	main text of letter
+secretarial text of letter
+1804693	main text of letter
+secretarial text of letter
+1804697	main text of letter
+secretarial text of letter
+1804701	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804707	main text of letter
+secretarial text of letter
+1804711	main text of letter
+secretarial text of letter
+1804715	main text of letter
+secretarial text of letter
+1804719	main text of letter
+secretarial text of letter
+1804723	main text of letter
+secretarial text of letter
+1804727	main text of letter
+secretarial text of letter
+1804731	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804737	main text of letter
+secretarial text of letter
+1804741	main text of letter
+secretarial text of letter
+1804744	I
+main text of attachment I
+1804747	main text of letter
+secretarial text of letter
+1804751	main text of letter
+secretarial text of letter
+1804754	I
+main text of attachment I
+1804757	main text of letter
+secretarial text of letter
+1804760	I
+main text of attachment I
+1804763	main text of letter
+secretarial text of letter
+1804767	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804773	main text of letter
+secretarial text of letter
+1804777	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804783	main text of letter
+secretarial text of letter
+1804787	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1804795	main text of letter
+secretarial text of letter
+1804799	main text of letter
+secretarial text of letter
+1804803	main text of letter
+secretarial text of letter
+1804807	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1804812	I
+main text of attachment I
+1804815	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1801979	I
+1804820	I
 main text of attachment I
-1801982	main text of letter
+1804823	main text of letter
 secretarial text of letter
-1801986	main text of letter
+1804827	main text of letter
 secretarial text of letter
-1801990	main text of letter
+1804831	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801995	I
+1804836	I
 main text of attachment I
-1801998	main text of letter
+1804839	main text of letter
 secretarial text of letter
-1802002	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802008	main text of letter
+1804843	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802014	main text of letter
+1804849	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802020	main text of letter
+1804855	main text of letter
 secretarial text of letter
-1802023	I
+I
 main text of attachment I
-1802026	main text of letter
+1804861	main text of letter
+secretarial text of letter
+1804864	I
+main text of attachment I
+1804867	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 secretarial text of attachment II
-1802032	I
+1804873	I
 main text of attachment I
-1802035	main text of letter
+1804876	main text of letter
 secretarial text of letter
-1802039	main text of letter
+1804880	main text of letter
 secretarial text of letter
-1802042	I
+1804883	I
 main text of attachment I
-1802045	main text of letter
+1804886	main text of letter
 secretarial text of letter
-1802049	main text of letter
+1804890	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802054	I
+1804895	I
 main text of attachment I
-1802057	main text of letter
+1804898	main text of letter
 secretarial text of letter
-1802060	I
+1804901	I
 main text of attachment I
-1802063	main text of letter
+1804904	main text of letter
 secretarial text of letter
-1802067	main text of letter
+1804908	main text of letter
 secretarial text of letter
-1802070	I
+1804911	I
 main text of attachment I
-1802073	main text of letter
+1804914	main text of letter
 secretarial text of letter
-1802077	main text of letter
+1804918	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802085	main text of letter
+1804926	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2511,39 +2511,39 @@ VI
 main text of attachment VI
 VII
 main text of attachment VII
-1802103	main text of letter
+1804944	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802108	I
+1804949	I
 main text of attachment I
-1802111	main text of letter
+1804952	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1802119	main text of letter
+1804960	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802124	I
+1804965	I
 main text of attachment I
-1802127	main text of letter
+1804968	main text of letter
 secretarial text of letter
-1802130	I
+1804971	I
 main text of attachment I
-1802133	main text of letter
+1804974	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1802140	I
+1804981	I
 main text of attachment I
-1802143	main text of letter
+1804984	main text of letter
 secretarial text of letter
-1802147	main text of letter
+1804988	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2551,47 +2551,47 @@ II
 main text of attachment II
 III
 main text of attachment III
-1802157	main text of letter
+1804998	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802162	I
+1805003	I
 main text of attachment I
-1802165	main text of letter
+1805006	main text of letter
 secretarial text of letter
-1802168	I
+1805009	I
 main text of attachment I
-1802171	main text of letter
+1805012	main text of letter
 secretarial text of letter
-1802174	I
+1805015	I
 main text of attachment I
-1802177	main text of letter
+1805018	main text of letter
 secretarial text of letter
-1802180	I
+1805021	I
 main text of attachment I
-1802183	main text of letter
+1805024	main text of letter
 secretarial text of letter
-1802186	I
+1805027	I
 main text of attachment I
-1802189	main text of letter
+1805030	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1802196	I
+1805037	I
 main text of attachment I
 II
 main text of attachment II
-1802201	main text of letter
+1805042	main text of letter
 secretarial text of letter
 III
 main text of attachment III
-1802207	main text of letter
+1805048	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802213	main text of letter
+1805054	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2611,19 +2611,19 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1802234	I
+1805075	I
 main text of attachment I
-1802237	main text of letter
+1805078	main text of letter
 secretarial text of letter
-1802240	I
+1805081	I
 main text of attachment I
-1802243	main text of letter
+1805084	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1802251	main text of letter
+1805092	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2635,7 +2635,7 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1802265	main text of letter
+1805106	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2643,85 +2643,85 @@ II
 main text of attachment II
 III
 main text of attachment III
-1802274	I
+1805115	I
 main text of attachment I
-1802277	main text of letter
+1805118	main text of letter
 secretarial text of letter
-1802280	I
+1805121	I
 main text of attachment I
-1802283	main text of letter
+1805124	main text of letter
 secretarial text of letter
-1802286	I
+1805127	I
 main text of attachment I
-1802289	main text of letter
+1805130	main text of letter
 secretarial text of letter
-1802292	I
+1805133	I
 main text of attachment I
-1802295	main text of letter
+1805136	main text of letter
 secretarial text of letter
-1802298	I
+1805139	I
 main text of attachment I
-1802301	main text of letter
+1805142	main text of letter
 secretarial text of letter
-1802304	I
+1805145	I
 main text of attachment I
-1802307	main text of letter
+1805148	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 secretarial text of attachment III
-1802315	I
+1805156	I
 main text of attachment I
-1802318	main text of letter
+1805159	main text of letter
 secretarial text of letter
-1802321	I
+1805162	I
 main text of attachment I
-1802324	main text of letter
+1805165	main text of letter
 secretarial text of letter
-1802327	I
+1805168	I
 main text of attachment I
-1802330	main text of letter
+1805171	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1802335	I
+1805176	I
 main text of attachment I
-1802338	main text of letter
+1805179	main text of letter
 secretarial text of letter
-1802341	I
+1805182	I
 main text of attachment I
-1802344	main text of letter
+1805185	main text of letter
 secretarial text of letter
-1802347	I
+1805188	I
 main text of attachment I
-1802350	main text of letter
+1805191	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1802357	I
+1805198	I
 main text of attachment I
-1802360	main text of letter
+1805201	main text of letter
 secretarial text of letter
-1802364	main text of letter
+1805205	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802370	main text of letter
+1805211	main text of letter
 secretarial text of letter
-1802373	I
+1805214	I
 main text of attachment I
-1802376	main text of letter
+1805217	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 secretarial text of attachment III
-1984411	Trace of a seal
+1987252	Trace of a seal
 Trace of a seal
 Trace of a seal
 Blank page
@@ -2738,41 +2738,41 @@ Blank page
 Blank page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Trace of a seal
 Letterlock with a seal and part of the address
 Letterlock
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of a seal
 Seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -2797,13 +2797,13 @@ Traces of seals
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -2844,7 +2844,7 @@ Seal and traces of a seal
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -2857,7 +2857,7 @@ Blank page
 Blank page
 Blank page
 Seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -2871,41 +2871,31 @@ Trace of a seal
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Traces of seals
-Blank page
-Decoding of ciphered text follows
-Blank page
-Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Traces of seals
 Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
-Decoding of ciphered text follows
 Blank page
 Blank page
 Blank page
@@ -2913,18 +2903,28 @@ Blank page
 Traces of seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+Blank page
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+Blank page
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -2932,7 +2932,7 @@ Traces of seals
 Traces of seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3154,26 +3154,26 @@ Blank page
 Seal and traces of a seal
 Blank page
 Seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Trace of a seal
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
@@ -3193,9 +3193,9 @@ Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of a seal
@@ -3204,8 +3204,8 @@ Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3227,7 +3227,7 @@ Traces of seals
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3241,8 +3241,8 @@ Blank page
 Blank page
 Trace of a seal
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3257,14 +3257,14 @@ Blank page
 Blank page
 Seal
 Seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal
 Blank page
@@ -3272,9 +3272,9 @@ Seals
 Blank page
 Blank page
 Seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal
@@ -3312,7 +3312,7 @@ Seal and traces of a seal
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3353,32 +3353,32 @@ Blank page
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of seals
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal
 Blank page
@@ -3399,31 +3399,31 @@ Trace of a seal
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal and traces of seals
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Seal and traces of seals
 Blank page
 Traces of seals
@@ -3439,52 +3439,52 @@ Blank page
 Seal and traces of a seal
 Seal and traces of a seal
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Cut page
 Cut page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Seal and traces of seals
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of a seal
 Seal and traces of a seal
@@ -3658,8 +3658,8 @@ Blank page
 Blank page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3704,7 +3704,7 @@ Blank page
 Blank page
 Traces of seals
 The table on the previous page continues here
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3717,14 +3717,14 @@ Traces of seals
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Traces of seals
 Blank page
 Seal and traces of a seal
@@ -3758,7 +3758,7 @@ Blank page
 Blank page
 Blank page
 Seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -3926,45 +3926,45 @@ Blank page
 Traces of seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Traces of seals
 Blank page
 Blank page
 Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seals
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
 Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Seal and traces of seals
 Blank page
 Blank page
@@ -3975,8 +3975,8 @@ Blank page
 Seal and traces of a seal
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of seals
@@ -3985,7 +3985,7 @@ Blank page
 Seal and traces of a seal
 Blank page
 Seals and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4000,58 +4000,58 @@ Traces of seals
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Traces of seals
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
-Blank page
-Blank page
-Traces of seals
 Blank page
 Blank page
 Traces of seals
+Blank page
+Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Trace of a seal
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
 Seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4063,37 +4063,37 @@ Blank page
 Blank page
 Blank page
 Traces of seals
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
 Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
-Ciphered text follows
-Ciphered text follows
-Blank page
-Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Blank page
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
-Ciphered text follows
+Blank page
+Blank page
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
 Seal and traces of seals
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4102,9 +4102,9 @@ Blank page
 Seal and traces of seals
 Blank page
 Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Traces of seals
 Blank page
@@ -4117,12 +4117,12 @@ Seal and traces of seals
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of a seal
@@ -4130,7 +4130,7 @@ Seal and traces of a seal
 Seal and traces of a seal
 Blank page
 Seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4139,12 +4139,12 @@ Seal and traces of a seal
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4153,53 +4153,53 @@ Blank page
 Seal and traces of seals
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Traces of seals
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Traces of seals
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
 Traces of seals
-Ciphered text follows
-Ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Traces of seals
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Seal and traces of a seal
 Blank page
@@ -4215,10 +4215,10 @@ Blank page
 Seal and traces of a seal
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of seals
 Traces of seals
@@ -4271,7 +4271,7 @@ Blank page
 Seal and traces of a seal
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4287,7 +4287,7 @@ Blank page
 Blank page
 Seal and traces of seals
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4296,7 +4296,7 @@ Seal and traces of seals
 Blank page
 Blank page
 Traces of seals
-Text in Dutch follows
+Followed by text in Dutch
 Blank page
 Blank page
 Blank page
@@ -4533,7 +4533,7 @@ Blank page
 Seal and traces of a seal
 Blank page
 Seal and traces of a seal
-Decoding by a secretary of ciphered text on ff. 3v and 6r
+Decoding by a secretary of encrypted text on ff. 3v and 6r
 Blank page
 Blank page
 Blank page
@@ -4555,8 +4555,8 @@ Traces of seals
 Blank page
 Blank page
 Traces of seals
-Decoding by secretary of the ciphered text
-Decoding by secretary of the ciphered text
+Decoding by secretary of the encrypted text
+Decoding by secretary of the encrypted text
 Blank page
 Blank page
 Blank page
@@ -4578,51 +4578,51 @@ Cut page
 Blank page
 Traces of seals
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Blank page
-Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Blank page
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Cut page
@@ -4655,8 +4655,8 @@ Blank page
 Traces of seals
 Blank page
 Blank page
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Traces of seals
 Blank page
@@ -4689,13 +4689,13 @@ Blank page
 Blank page
 Seal
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Ciphered text follows
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
@@ -4732,8 +4732,8 @@ Blank page
 Blank page
 Seal
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4747,7 +4747,7 @@ Blank page
 Cut page
 Cut page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4761,7 +4761,7 @@ Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4772,84 +4772,84 @@ Blank page
 Blank page
 Blank page
 Seals and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
-Blank page
-Traces of seals
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Traces of seals
 Blank page
-Decoding of ciphered text follows
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+Blank page
+Traces of seals
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4864,20 +4864,20 @@ Blank page
 Blank page
 Traces of seals
 Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of a seal
 Seal and traces of seals
@@ -4891,7 +4891,7 @@ Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4899,7 +4899,7 @@ Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4911,7 +4911,7 @@ Traces of seals
 Blank page
 Traces of seals
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4923,9 +4923,9 @@ Blank page
 Blank page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4938,13 +4938,13 @@ Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -4974,9 +4974,9 @@ Traces of seals
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Cut page
 Cut page
@@ -5000,7 +5000,7 @@ Blank page
 Traces of seals
 Traces of seals
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5010,12 +5010,12 @@ Cut page
 Cut page
 Blank page
 Seals and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seals and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5067,10 +5067,10 @@ Cut page
 Cut page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Cut page
 Cut page
 Blank page
@@ -5079,31 +5079,31 @@ Cut page
 Cut page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
 Seals and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal and traces of seals
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Seal and traces of seals
 Traces of a seal
@@ -5123,22 +5123,22 @@ Blank page
 Trace of a seal
 Blank page
 Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5152,13 +5152,13 @@ Blank page
 Traces of a seal
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of a seal
@@ -5166,44 +5166,44 @@ Cut page
 Cut page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5211,218 +5211,218 @@ Seal and traces of seals
 Blank page
 Blank page
 Seals and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Traces of seals
-Blank page
-Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Cut page
-Cut page
-Blank page
-Traces of seals
-Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Ciphered text follows
-Blank page
-Blank page
-Blank page
-Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Ciphered text follows
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Seal and traces of seals
-Cut pages
-Cut pages
-Cut pages
-Cut pages
-Blank page
-Seals
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Blank page
-Seals
-Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Blank page
-Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Blank page
-Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Blank page
-Seal and traces of a seal
-Blank page
-Blank page
-Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Blank page
-Blank page
-Seal and traces of a seal
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Traces of seals
+Blank page
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Cut page
+Cut page
+Blank page
+Traces of seals
+Seal and traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Followed by encrypted text
+Blank page
+Blank page
+Blank page
+Seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Followed by encrypted text
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Blank page
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Seal and traces of seals
+Cut pages
+Cut pages
+Cut pages
+Cut pages
+Blank page
+Seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Blank page
+Seals
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Blank page
+Seal and traces of a seal
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+Seal and traces of a seal
+Blank page
+Blank page
+Blank page
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Seal and traces of a seal
+Blank page
+Blank page
+Trace of a seal
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Seal and traces of a seal
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Trace of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Cut page
 Cut page
@@ -5431,138 +5431,138 @@ Traces of seals
 Blank page
 Blank page
 Blank page
-Ciphered text follows
+Followed by encrypted text
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
-Blank page
-Blank page
-Traces of seals
-Ciphered text follows
-Ciphered text follows
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Blank page
+Blank page
+Traces of seals
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Ciphered text follows
+Followed by encrypted text
 Blank page
 Blank page
 Traces of seals
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
-Ciphered text follows
+Followed by encrypted text
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Cut page
 Cut page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
 Blank page
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Cut page
 Cut page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5570,46 +5570,46 @@ Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Cut page
 Cut page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Cut page
 Cut page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5619,60 +5619,60 @@ Seal and traces of seals
 Blank page
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Seal and traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Seals
 Blank page
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Cut page
 Blank page
 Seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Cut page
 Cut page
@@ -5680,17 +5680,17 @@ Blank page
 Seal and traces of seals
 Blank page
 Blank page
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
-Ciphered text follows
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
+Followed by encrypted text
 Blank page
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
@@ -5700,43 +5700,43 @@ Cut page
 Cut page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Cut page
 Cut page
 Blank page
 Traces of seals
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
-Decoding of ciphered text follows
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-2053745	02_071r
+2056586	02_071r
 02_071v
 02_072r
 02_072v

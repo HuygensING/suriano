@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-08T12:15:14Z
+@dateWritten=2024-10-10T14:38:17Z
 @description=this is TEI attribute when
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=0.7.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-09T16:20:40Z
+@dateWritten=2024-10-10T15:01:37Z
 
-1797511	1616-07-09
+1800352	1616-07-09
 1616-07-09
 1616-07-13
 1616-07-16

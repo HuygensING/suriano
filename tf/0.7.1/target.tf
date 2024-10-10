@@ -19,9 +19,9 @@
 @valueType=str
 @version=0.7.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-08T12:15:14Z
+@dateWritten=2024-10-10T14:38:17Z
 
-2071998	#tn1
+2074839	#tn1
 #tn2
 #tn3
 #tn4
@@ -11843,4 +11843,4 @@
 #tn60
 #tn61
 #tn62
-2084555	https://www.ustc.ac.uk/editions/2056498
+2087396	https://www.ustc.ac.uk/editions/2056498
