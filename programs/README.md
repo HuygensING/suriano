@@ -178,6 +178,10 @@ Text-Fabric takes over (`tf.browser.ner`): it reads and interprets the sheet,
 looks up its name triggers, marks them as entities, and bakes those entities
 into a new copy of the TF dataset.
 
+Additionally, the spelling variants of the triggers will be searched for in the corpus,
+and they will be (selectively) merged with the original spreadsheet, thereby
+increasing the number of hits with 20%.
+
 All diagnostics can be inspected when you do these steps manually in the convertPlain
 notebook. Alternatively, you can fire up the Text-Fabric browser as follows:
 

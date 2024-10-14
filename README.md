@@ -61,7 +61,7 @@ Researchers can use Text-Fabric to download the letters to their computer and br
 and search them in a local browser.
 Or they can access them by means of Python programs and Jupyter notebooks.
 
-We'll provide a set of tutorials for that.
+We'll provide a tutorials for that, see below.
 
 # Curated data
 
@@ -72,6 +72,14 @@ There is an extensive
 [README](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT#editor)
 that describes the contents of that data.
 
-# How to operate this repo
+# How to operate this repo (and the tutorial)
 
 See the [README.md](programs/README.md) in the programs directory.
+
+There you see how to clone this repository. After that, you can follow a tutorial
+here: 
+[start.ipynb](https://gitlab.huc.knaw.nl/suriano/letters/-/blob/main/tutorial/start.ipynb)
+
+Note that the online version of the tutorial is not rendered optimally, it is
+recommended use the clone of the repo on your computer to work through the tutorial.
+
