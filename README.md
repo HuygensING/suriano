@@ -22,7 +22,7 @@ Christofforo Suriano:
     [suriano.huygens.knaw.nl](https://suriano.huygens.knaw.nl), this contains
     materials not covered in this repo;
 *   the correspondence itself is served by
-    [edition.suriano.huygens.knaw.nl](https://edition.suriano.huygens.knaw.nl/about/).
+    [edition.suriano.huygens.knaw.nl](https://edition.suriano.huygens.knaw.nl).
 
 We proceed as follows:
 
