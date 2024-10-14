@@ -6,6 +6,15 @@
 
 # The correspondence of Christofforo Suriano
 
+From the [suriano.huygens.nl](https://suriano.huygens.knaw.nl):
+
+> Christofforo Suriano was the first Venetian envoy to the Dutch Republic. His
+arrival in The Hague marks the beginning of official Dutch-Venetian diplomatic
+relations. This digital edition presents all 725 letters sent by Suriano to the
+Venetian Senate between 1616 and 1623, totaling approximately 7,000 pages. His
+correspondence is of great importance for Dutch, Venetian, and European history
+in the first phase of the Thirty Years’ War.
+
 In this repo we develop a website for the correspondence of Christofforo Suriano.
 
 We proceed as follows:

@@ -6,7 +6,6 @@ from tf.core.files import (
     readYaml,
     writeJson,
     initTree,
-    fileExists,
     fileOpen,
     fileCopy,
 )
@@ -81,7 +80,6 @@ SUMMARY_FILE = f"{_METADIR}/summaries.xlsx"
 NO_VARIANT_TXT = f"{_METADIR}/novariant.txt"
 NERIN_FILE = f"{_METADIR}/{NER_NAME}.xlsx"
 NEROUT_FILE = f"{_REPODIR}/ner/specs/{NER_NAME}.xlsx"
-NERIN_FILE_M = f"{_METADIR}/{NER_NAME}-merged.xlsx"
 NEROUT_FILE_M = f"{_REPODIR}/ner/specs/{NER_NAME}-merged.xlsx"
 REPORT_CFGERRORS = f"{_REPORTDIR}/00-cfgerrors.txt"
 REPORT_THUMBERRORS = f"{_REPORTDIR}/10-thumberrors.txt"
@@ -675,29 +673,25 @@ def makeSubDiv(target, textKind, romanNum, textNum, kind):
     )
 
 
-def setStage(stage=None):
-    if stage is not None and stage not in {1, 2}:
+def setStage(stage):
+    if stage not in {1, 2}:
         console(
             f"Wrong stage (should be 1 or 2): {repr(stage)} => defaulting to 1",
             error=True,
         )
         stage = 1
 
-    nerStage = stage if stage is not None else 2 if fileExists(NERIN_FILE_M) else 1
-
-    if nerStage == 2:
+    if stage == 2:
         nerName = NER_NAME_M
-        nerInFile = NERIN_FILE_M
         nerOutFile = NEROUT_FILE_M
-        fileCopy(NERIN_FILE, NEROUT_FILE)
     else:
         nerName = NER_NAME
         nerInFile = NERIN_FILE
         nerOutFile = NEROUT_FILE
+        fileCopy(nerInFile, nerOutFile)
 
-    fileCopy(nerInFile, nerOutFile)
-    print(f"Stage {nerStage}: working with sheet {nerName}")
-    return nerStage, nerName, nerInFile, nerOutFile
+    print(f"Stage {stage}: working with sheet {nerName}")
+    return nerName, nerOutFile
 
 
 @dataclass(init=True, order=True, frozen=True)
