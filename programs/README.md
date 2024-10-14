@@ -97,14 +97,16 @@ of the results to the right locations.
 
 The notebook has three parts:
 
+1. The whole process straight from Python, where the intermediate data remains stored
+   in memory. Recommended for fine control and debugging.
+   Here you can also further tweak the Named Entity Recognition process by
+   looking for spelling variants.
+1. The whole process divided into 5-10 main steps. Here you can skip the ingest of the
+   scans. Every step is a command line instruction, so there are no debugging
+   possibilities.
 1. The whole process in a single cell, with standard settings. 
    *N.B.:* This will mill through all the 9000 scans, generates thumbnails from them
    and recomputes their sizes. Not recommended.
-2. The whole process divided into 5-10 main steps. Here you can skip the ingest of the
-   scans. Every step is a command line instruction, so there are no debugging
-   possibilities.
-3. The whole process straight from Python, where the intermediate data remains stored
-   in memory. Recommended for fine control and debugging.
 
 ## Workflow overview
 
@@ -256,9 +258,6 @@ From here the scans will be served, by links coming from the TAV interface.
     are no longer important, because the metadata is served from annotations in popups
     within the TAV interface).
 *   `ner.ipynb`: Notebook to experiment with NER.
-*   `nerCorrect.ipynb`: Notebook to run `analiticcl` on the corpus to detect potential
-    missing triggers for named entities. Not part of the regular workflow, but
-    can be run on the side to provide feedback.
 *   `nerScopes.ipynb`: Notebook to experiment with scopes for NER detection.
 *   `processdocs.py`: Main program for document-oriented workflow steps.
 *   `processhelpers.py`: Settings and shared code for `processdocs.py` and

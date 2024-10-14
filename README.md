@@ -1,4 +1,4 @@
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ![ok](docs/images/logo.png)
 ![huc](docs/images/huc.png)
@@ -6,7 +6,7 @@
 
 # The correspondence of Christofforo Suriano
 
-From the [suriano.huygens.knaw.nl](https://suriano.huygens.knaw.nl):
+From [suriano.huygens.knaw.nl](https://suriano.huygens.knaw.nl):
 
 > Christofforo Suriano was the first Venetian envoy to the Dutch Republic. His
 arrival in The Hague marks the beginning of official Dutch-Venetian diplomatic
@@ -14,6 +14,10 @@ relations. This digital edition presents all 725 letters sent by Suriano to the
 Venetian Senate between 1616 and 1623, totaling approximately 7,000 pages. His
 correspondence is of great importance for Dutch, Venetian, and European history
 in the first phase of the Thirty Years’ War.
+
+For more info, see the
+[Suriano project](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/).
+
 
 In this repo we prepare the data for the website of the correspondence of
 Christofforo Suriano:
@@ -71,9 +75,3 @@ that describes the contents of that data.
 # How to operate this repo
 
 See the [README.md](programs/README.md) in the programs directory.
-
-# About
-
-[Project](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/)
-
-[Ph.D. thesis Pieter Geyl, 1913](https://archive.org/details/christofforosuri00geyl/page/n3/mode/2up)
