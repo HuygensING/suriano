@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-10T17:47:02Z
+@dateWritten=2024-10-16T10:29:26Z
 @description=this is TEI attribute target
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=1.0.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-14T11:07:12Z
+@dateWritten=2024-10-16T11:15:19Z
 
-2074839	#tn1
+2080119	#tn1
 #tn2
 #tn3
 #tn4
@@ -8855,7 +8855,6 @@
 #tn19
 #tn20
 #tn21
-#tn22
 #tn1
 #tn2
 #tn3
@@ -11845,4 +11844,4 @@
 #tn60
 #tn61
 #tn62
-2087396	https://www.ustc.ac.uk/editions/2056498
+2092675	https://www.ustc.ac.uk/editions/2056498

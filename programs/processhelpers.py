@@ -31,12 +31,11 @@ _PROGRAMDIR = f"{_REPODIR}/programs"
 _REPORTDIR = f"{_REPODIR}/report"
 _NERDIR = f"{_REPODIR}/ner/specs"
 _DATADIR = f"{_REPODIR}/datasource"
-_SCANINDIR = f"{_DATADIR}/scans"
+_SCANHRDIR = f"{_REPODIR}/curatedscans"
+_SCANINDIR = f"{_SCANHRDIR}/scans"
 _SCONFIGDIR = f"{_SCANINDIR}/config"
-_SREPORTDIR = f"{_SCANINDIR}/report"
 _ENTITYDIR = f"{_DATADIR}/entities"
 _TRANSDIR = f"{_DATADIR}/transcriptions"
-_TREPORTDIR = f"{_TRANSDIR}/report"
 _ENTITYMETA_JSON = f"{_ENTITYDIR}/entitymeta.json"
 _METADIR = f"{_DATADIR}/metadata"
 
@@ -50,27 +49,11 @@ LOGOINDIR = f"{_DATADIR}/{LOGO}"
 MISSING_YML = f"{_SCONFIGDIR}/missing.yaml"
 ROTATE_YML = f"{_SCONFIGDIR}/rotate.yaml"
 EXCL_YML = f"{_SCONFIGDIR}/exclusions.yaml"
-SCANERRORS_TXT = f"{_SREPORTDIR}/scanerrors.txt"
 METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
 TEIXDIR = f"{_TRANSDIR}/teiSimple"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
-PAGETRANSCRIBER_TSV = f"{_TREPORTDIR}/pagetranscriber.tsv"
-HEADERS_TXT = f"{_TREPORTDIR}/headers.txt"
-LETTERTRANSCRIBER_TXT = f"{_TREPORTDIR}/lettertranscriber.txt"
-LETTERMETA_YML = f"{_TREPORTDIR}/lettermeta.yml"
-LETTERDATE_YML = f"{_TREPORTDIR}/letterdate.yml"
-PAGEINFO_TXT = f"{_TREPORTDIR}/pageinfo.txt"
-METAMARKS_TXT = f"{_TREPORTDIR}/metamarks.txt"
-EDITORIAL_TXT = f"{_TREPORTDIR}/editorial.txt"
-DECODIFIED_TXT = f"{_TREPORTDIR}/decodified.txt"
-DISPLACED_TXT = f"{_TREPORTDIR}/displaced.txt"
-FOOTNOTES_TXT = f"{_TREPORTDIR}/footnotes.txt"
-FOOTNOTESUT_TXT = f"{_TREPORTDIR}/footnoteuntrans.txt"
-FOOTNOTESEX_TXT = f"{_TREPORTDIR}/footnoteexamples.txt"
-PAGESEQ_JSON = f"{_TREPORTDIR}/pageseq.json"
-SCANTRANS_TSV = f"{_TREPORTDIR}/scantrans.tsv"
 SOURCEBASE = _DATADIR
 TEIDIR = f"{SOURCEBASE}/tei"
 THUMBDIR = f"{_REPODIR}/thumb"
@@ -81,11 +64,34 @@ NO_VARIANT_TXT = f"{_METADIR}/novariant.txt"
 NERIN_FILE = f"{_METADIR}/{NER_NAME}.xlsx"
 NEROUT_FILE = f"{_REPODIR}/ner/specs/{NER_NAME}.xlsx"
 NEROUT_FILE_M = f"{_REPODIR}/ner/specs/{NER_NAME}-merged.xlsx"
-REPORT_CFGERRORS = f"{_REPORTDIR}/00-cfgerrors.txt"
-REPORT_THUMBERRORS = f"{_REPORTDIR}/10-thumberrors.txt"
-REPORT_THUMBPAGES = f"{_REPORTDIR}/20-thumbpages.txt"
-REPORT_WARNINGS = f"{_REPORTDIR}/30-warnings.txt"
-REPORT_PAGEWARNINGS = f"{_REPORTDIR}/40-pagewarnings.txt"
+
+REPORT_SCANDIR = f"{_REPORTDIR}/scans"
+REPORT_CFGERRORS = f"{REPORT_SCANDIR}/cfgerrors.txt"
+REPORT_SCANERRORS = f"{REPORT_SCANDIR}/scanerrors.txt"
+REPORT_THUMBERRORS = f"{REPORT_SCANDIR}/thumberrors.txt"
+REPORT_THUMBPAGES = f"{REPORT_SCANDIR}/thumbpages.txt"
+
+REPORT_PAGESDIR = f"{_REPORTDIR}/pages"
+REPORT_PAGEWARNINGS = f"{REPORT_PAGESDIR}/pagewarnings.txt"
+REPORT_PAGEINFO = f"{REPORT_PAGESDIR}/pageinfo.txt"
+REPORT_PAGESEQ = f"{REPORT_PAGESDIR}/pageseq.json"
+REPORT_PAGESCAN = f"{REPORT_PAGESDIR}/pagescan.tsv"
+REPORT_TRANSCRIBERS_PAGE = f"{REPORT_PAGESDIR}/pagetranscriber.tsv"
+
+REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
+REPORT_TRANSCRIBERS_LETTER = f"{REPORT_TRANSDIR}/lettertranscriber.txt"
+REPORT_HEADERS = f"{REPORT_TRANSDIR}/headers.txt"
+REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
+REPORT_LETTER_DATE = f"{REPORT_TRANSDIR}/letterdate.yml"
+REPORT_METAMARKS = f"{REPORT_TRANSDIR}/metamarks.txt"
+REPORT_DECODIFIED = f"{REPORT_TRANSDIR}/decodified.txt"
+REPORT_DISPLACED = f"{REPORT_TRANSDIR}/displaced.txt"
+REPORT_FOOTNOTES = f"{REPORT_TRANSDIR}/footnotes.txt"
+REPORT_FOOTNOTES_UNTRANS = f"{REPORT_TRANSDIR}/footnoteuntrans.txt"
+REPORT_FOOTNOTES_EXAMPLES = f"{REPORT_TRANSDIR}/footnoteexamples.txt"
+REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
+
+REPORT_TEIDIR = f"{_REPORTDIR}/tei"
 
 BIS = "bis"
 TER = "ter"
@@ -821,7 +827,9 @@ class PageInfo:
         self.error = False
 
         initTree(_REPORTDIR, fresh=False)
-        initTree(_TREPORTDIR, fresh=False)
+        initTree(REPORT_SCANDIR, fresh=False)
+        initTree(REPORT_PAGESDIR, fresh=False)
+        initTree(REPORT_TRANSDIR, fresh=False)
         self.exclusions = readYaml(asFile=EXCL_YML)
 
         scanInfo = {}

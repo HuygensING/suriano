@@ -28,6 +28,12 @@ featureMeta:
       Kind of the entity, e.g. PER, LOC.
       Present on entities and entity occurrences. 
     valueType: str
+eNameFeature:
+  ename:
+    description: >-
+      Full name of the entity, in contrast with the ways it occurs in the corpus.
+      Present on entities but not on entity occurrences. 
+    valueType: str
 
 spaceEscaped: false
 

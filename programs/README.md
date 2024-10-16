@@ -62,6 +62,23 @@ in a directory listed in the `.gitignore`.
 
 #### Suriano data
 
+##### The high resolution scans
+
+Make a new directory in the repo:
+
+```
+cd letters
+mkdir curatedscans
+```
+
+Retrieve the contents of the Surfdrive directory Suriano-Sources-Scans
+so that it sits in exactly the above created directory `curatedscans`.
+
+This is not a public directory on SurfDrive, you can get access by asking Nina Lamal
+or Dirk Roorda to share it with you.
+
+##### The texts, metadata and reports
+
 Make a new directory in the repo:
 
 ```

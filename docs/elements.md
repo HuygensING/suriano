@@ -11,9 +11,9 @@ Table of contents
 
 | element | attribute | value | amount
 | --- | --- | --- | ---
-| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `decoded` | 2477
+| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `decoded` | 2476
 | | | `displaced` | 79
-| | | `footnote` | 11831
+| | | `footnote` | 11830
 | | | `superscript` | 1069
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `0` | 8151
 | | | `180` | 20
@@ -54,8 +54,8 @@ Table of contents
 | [metamark](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-metamark.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `3v` | 1
 | | | `6r` | 1
 | | | `74v` | 1
-| | | `Blank` | 1555
-| | | `Cut` | 88
+| | | `Blank` | 1558
+| | | `Cut` | 97
 | | | `Decoding` | 3
 | | | `Dutch` | 1
 | | | `Followed` | 76
@@ -64,6 +64,7 @@ Table of contents
 | | | `Seal` | 356
 | | | `Sealed` | 2
 | | | `Seals` | 30
+| | | `Some` | 1
 | | | `Suriano's` | 584
 | | | `The` | 1
 | | | `This` | 1168
@@ -73,6 +74,7 @@ Table of contents
 | | | `a` | 809
 | | | `address` | 1
 | | | `and` | 304
+| | | `are` | 1
 | | | `been` | 584
 | | | `by` | 663
 | | | `contained` | 1
@@ -83,16 +85,18 @@ Table of contents
 | | | `fol` | 1
 | | | `has` | 584
 | | | `here` | 1
-| | | `in` | 1169
+| | | `in` | 1170
 | | | `information` | 1
 | | | `integrated` | 584
 | | | `into` | 584
 | | | `is` | 584
 | | | `italics` | 584
 | | | `letter` | 1168
+| | | `margin.` | 1
 | | | `of` | 2335
 | | | `on` | 587
-| | | `page` | 1642
+| | | `page` | 1653
+| | | `page.` | 1
 | | | `pages` | 4
 | | | `paper` | 584
 | | | `part` | 1
@@ -104,12 +108,14 @@ Table of contents
 | | | `secretary` | 587
 | | | `separate` | 584
 | | | `sheets` | 584
+| | | `still` | 1
 | | | `table` | 1
 | | | `text` | 1288
-| | | `the` | 1172
+| | | `the` | 1173
 | | | `traces` | 302
-| | | `visible` | 1
+| | | `visible` | 2
 | | | `with` | 2
+| | | `words` | 1
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `02_071r` | 1
 | | | `02_071v` | 1
 | | | `02_072r` | 1
@@ -8933,9 +8939,9 @@ Table of contents
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 1450
 |   | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#ref) | `bio.xml#cs` | 725
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) |   |  | 1450
-|   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 11831
+|   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 11830
 | [num](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-num.html) |   |  | 725
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 48521
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 48520
 |   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `NNNrA` | 2
 | | | `NNNrB` | 5
 | | | `NNNrC` | 1
@@ -8949,9 +8955,9 @@ Table of contents
 | | | `NNNv` | 4377
 | [profileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html) |   |  | 725
 | [ptr](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ptr.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 5594
-| | | `NN` | 6023
+| | | `NN` | 6022
 | | | `NNN` | 205
-|   | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 11822
+|   | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 11821
 | [publicationStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html) |   |  | 725
 | [quote](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html) |   |  | 10
 | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 1

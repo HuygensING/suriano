@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=provided
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-10T17:47:01Z
+@dateWritten=2024-10-16T10:29:25Z
 @description=name of source file
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=1.0.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-14T11:07:11Z
+@dateWritten=2024-10-16T11:15:18Z
 
-1805950	001
+1811223	001
 002
 003
 004

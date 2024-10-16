@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-10T17:47:01Z
+@dateWritten=2024-10-16T10:29:25Z
 @description=this is TEI attribute id
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,9 +21,9 @@
 @version=1.0.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-14T11:07:11Z
+@dateWritten=2024-10-16T11:15:18Z
 
-1805225	nl
+1810498	nl
 nl
 nl
 nl
@@ -748,32 +748,13 @@ nl
 nl
 nl
 nl
-1993894	tn1
+1999176	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-1993902	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1993916	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1993925	tn1
+1999184	tn1
 tn2
 tn3
 tn4
@@ -785,97 +766,14 @@ tn9
 tn10
 tn11
 tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-1993952	tn1
+1999198	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1993966	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-1993989	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1993999	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1994013	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1994023	tn1
-tn2
-tn3
-tn4
-tn5
-1994032	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1994045	tn1
+1999207	tn1
 tn2
 tn3
 tn4
@@ -900,33 +798,7 @@ tn22
 tn23
 tn24
 tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-tn38
-tn39
-tn40
-tn41
-tn42
-tn43
-tn44
-tn45
-tn46
-tn47
-tn48
-tn49
-tn50
-tn51
-1994098	tn1
+1999234	tn1
 tn2
 tn3
 tn4
@@ -938,40 +810,7 @@ tn9
 tn10
 tn11
 tn12
-tn13
-tn14
-tn15
-1994115	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-1994136	tn1
-tn2
-tn3
-tn4
-1994142	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1994151	tn1
+1999248	tn1
 tn2
 tn3
 tn4
@@ -992,38 +831,15 @@ tn18
 tn19
 tn20
 tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-tn38
-tn39
-tn40
-tn41
-tn42
-tn43
-tn44
-tn45
-1994198	tn1
+1999271	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-1994207	tn1
+tn8
+1999281	tn1
 tn2
 tn3
 tn4
@@ -1035,21 +851,20 @@ tn9
 tn10
 tn11
 tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-1994235	tn1
+1999295	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+1999305	tn1
+tn2
+tn3
+tn4
+tn5
+1999314	tn1
 tn2
 tn3
 tn4
@@ -1060,789 +875,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-tn15
-1994254	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-1994275	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1994292	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-1994313	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1994323	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1994336	tn1
-tn2
-tn3
-tn4
-1994342	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1994350	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1994362	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1994372	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1994381	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1994396	tn1
-tn2
-tn3
-tn4
-1994402	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1994420	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-1994457	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-1994479	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-1994498	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-1994524	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-1994544	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1994560	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1994572	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1994585	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-1994612	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-1994636	tn1
-tn2
-1994640	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1994648	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1994656	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-1994695	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1994711	tn1
-tn2
-tn3
-tn4
-tn5
-1994718	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-tn38
-tn39
-tn40
-tn41
-tn42
-tn43
-1994763	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1994776	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-1994795	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-1994814	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1994824	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1994840	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1994851	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1994863	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1994875	tn1
-tn2
-tn3
-1994880	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1994894	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1994905	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1994917	tn1
-tn2
-tn3
-tn4
-tn5
-1994924	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1994937	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1994947	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-1994966	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1994982	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-1995018	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1995029	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1995042	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1995060	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1995069	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1995087	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-1995122	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1995131	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1995148	tn1
+1999327	tn1
 tn2
 tn3
 tn4
@@ -1893,77 +926,7 @@ tn48
 tn49
 tn50
 tn51
-1995201	tn1
-tn2
-tn3
-tn4
-tn5
-1995208	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1995221	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1995235	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1995245	tn1
-tn2
-tn3
-1995250	tn1
-tn2
-1995254	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1995268	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1995276	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1995286	tn1
-tn2
-tn3
-1995291	tn1
+1999380	tn1
 tn2
 tn3
 tn4
@@ -1978,75 +941,7 @@ tn12
 tn13
 tn14
 tn15
-tn16
-1995309	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1995318	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995330	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995342	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-1995356	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1995372	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1995388	tn1
+1999397	tn1
 tn2
 tn3
 tn4
@@ -2065,306 +960,18 @@ tn16
 tn17
 tn18
 tn19
-tn20
-1995410	tn1
+1999418	tn1
 tn2
 tn3
 tn4
-tn5
-1995417	tn1
-tn2
-tn3
-tn4
-1995423	tn1
-tn2
-tn3
-1995428	tn1
+1999424	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1995444	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995456	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995468	tn1
-tn2
-tn3
-tn4
-1995474	tn1
-tn2
-tn3
-tn4
-tn5
-1995481	tn1
-1995484	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1995492	tn1
-tn2
-1995496	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-1995525	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1995541	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1995554	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1995567	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1995578	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-1995604	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-1995632	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1995647	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1995660	tn1
-tn2
-tn3
-1995665	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1995673	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-1995683	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-1995709	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-tn38
-tn39
-tn40
-1995751	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1995760	tn1
+1999433	tn1
 tn2
 tn3
 tn4
@@ -2406,171 +1013,17 @@ tn39
 tn40
 tn41
 tn42
-1995806	tn1
+tn43
+tn44
+tn45
+1999480	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-1995828	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1995846	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-1995871	tn1
-tn2
-tn3
-tn4
-tn5
-1995878	tn1
-tn2
-tn3
-tn4
-tn5
-1995885	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1995896	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1995913	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-1995938	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1995953	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995965	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1995982	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1995994	tn1
+1999489	tn1
 tn2
 tn3
 tn4
@@ -2596,11 +1049,7 @@ tn23
 tn24
 tn25
 tn26
-tn27
-tn28
-tn29
-tn30
-1996026	tn1
+1999517	tn1
 tn2
 tn3
 tn4
@@ -2615,8 +1064,7 @@ tn12
 tn13
 tn14
 tn15
-tn16
-1996044	tn1
+1999536	tn1
 tn2
 tn3
 tn4
@@ -2635,9 +1083,7 @@ tn16
 tn17
 tn18
 tn19
-tn20
-tn21
-1996067	tn1
+1999557	tn1
 tn2
 tn3
 tn4
@@ -2651,16 +1097,8 @@ tn11
 tn12
 tn13
 tn14
-1996083	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1996094	tn1
+tn15
+1999574	tn1
 tn2
 tn3
 tn4
@@ -2679,14 +1117,61 @@ tn16
 tn17
 tn18
 tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-1996122	tn1
+1999595	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+1999605	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+1999618	tn1
+tn2
+tn3
+tn4
+1999624	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+1999632	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+1999644	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+1999654	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+1999663	tn1
 tn2
 tn3
 tn4
@@ -2698,15 +1183,12 @@ tn9
 tn10
 tn11
 tn12
-1996136	tn1
+tn13
+1999678	tn1
 tn2
 tn3
 tn4
-tn5
-tn6
-tn7
-tn8
-1996146	tn1
+1999684	tn1
 tn2
 tn3
 tn4
@@ -2722,251 +1204,7 @@ tn13
 tn14
 tn15
 tn16
-tn17
-tn18
-tn19
-tn20
-1996168	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1996185	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1996202	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1996215	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1996227	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1996240	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-1996269	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-1996289	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1996302	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1996320	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-1996336	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1996349	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1996360	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-1996377	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1996385	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-1996404	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-1996429	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1996444	tn1
+1999702	tn1
 tn2
 tn3
 tn4
@@ -3000,26 +1238,8 @@ tn31
 tn32
 tn33
 tn34
-1996480	tn1
-tn2
-1996484	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1996493	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-1996505	tn1
+tn35
+1999739	tn1
 tn2
 tn3
 tn4
@@ -3031,12 +1251,15 @@ tn9
 tn10
 tn11
 tn12
-1996519	tn1
-tn2
-tn3
-tn4
-tn5
-1996526	tn1
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+1999761	tn1
 tn2
 tn3
 tn4
@@ -3044,7 +1267,154 @@ tn5
 tn6
 tn7
 tn8
-1996536	tn1
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+1999780	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+1999806	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+1999826	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+1999842	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+1999854	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+1999867	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+1999894	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+1999918	tn1
+tn2
+1999922	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+1999930	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+1999938	tn1
 tn2
 tn3
 tn4
@@ -3081,7 +1451,7 @@ tn34
 tn35
 tn36
 tn37
-1996575	tn1
+1999977	tn1
 tn2
 tn3
 tn4
@@ -3095,7 +1465,12 @@ tn11
 tn12
 tn13
 tn14
-1996591	tn1
+1999993	tn1
+tn2
+tn3
+tn4
+tn5
+2000000	tn1
 tn2
 tn3
 tn4
@@ -3122,48 +1497,23 @@ tn24
 tn25
 tn26
 tn27
-1996620	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1996630	tn1
-tn2
-1996634	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-1996642	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-1996657	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1996666	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-1996677	tn1
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+tn36
+tn37
+tn38
+tn39
+tn40
+tn41
+tn42
+tn43
+2000045	tn1
 tn2
 tn3
 tn4
@@ -3174,12 +1524,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-1996695	tn1
+2000058	tn1
 tn2
 tn3
 tn4
@@ -3196,14 +1541,7 @@ tn14
 tn15
 tn16
 tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-1996721	tn1
+2000077	tn1
 tn2
 tn3
 tn4
@@ -3220,22 +1558,15 @@ tn14
 tn15
 tn16
 tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-1996747	tn1
+2000096	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-1996755	tn1
-tn2
-1996759	tn1
+tn7
+tn8
+2000106	tn1
 tn2
 tn3
 tn4
@@ -3249,8 +1580,7 @@ tn11
 tn12
 tn13
 tn14
-tn15
-1996776	tn1
+2000122	tn1
 tn2
 tn3
 tn4
@@ -3259,24 +1589,30 @@ tn6
 tn7
 tn8
 tn9
-1996787	tn1
+2000133	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-1996795	tn1
-tn2
-1996801	tn1
+tn7
+tn8
+tn9
+tn10
+2000145	tn1
 tn2
 tn3
 tn4
 tn5
-1996808	tn1
+tn6
+tn7
+tn8
+tn9
+tn10
+2000157	tn1
 tn2
 tn3
-tn4
-1996814	tn1
+2000162	tn1
 tn2
 tn3
 tn4
@@ -3288,16 +1624,16 @@ tn9
 tn10
 tn11
 tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-1996837	tn1
+2000176	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2000187	tn1
 tn2
 tn3
 tn4
@@ -3307,25 +1643,12 @@ tn7
 tn8
 tn9
 tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-1996862	tn1
-1996865	tn1
+2000199	tn1
 tn2
 tn3
 tn4
-1996871	tn1
+tn5
+2000206	tn1
 tn2
 tn3
 tn4
@@ -3333,7 +1656,8 @@ tn5
 tn6
 tn7
 tn8
-1996881	tn1
+tn9
+2000219	tn1
 tn2
 tn3
 tn4
@@ -3341,7 +1665,7 @@ tn5
 tn6
 tn7
 tn8
-1996891	tn1
+2000229	tn1
 tn2
 tn3
 tn4
@@ -3358,25 +1682,7 @@ tn14
 tn15
 tn16
 tn17
-tn18
-1996911	tn1
-tn2
-tn3
-tn4
-1996917	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1996932	tn1
+2000248	tn1
 tn2
 tn3
 tn4
@@ -3390,49 +1696,7 @@ tn11
 tn12
 tn13
 tn14
-tn15
-1996949	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-1996972	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-1996987	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-1996996	tn1
+2000264	tn1
 tn2
 tn3
 tn4
@@ -3458,7 +1722,1743 @@ tn23
 tn24
 tn25
 tn26
-1997024	tn1
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+2000300	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2000311	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2000324	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2000342	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2000351	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2000369	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+2000404	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2000413	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2000430	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+tn36
+tn37
+tn38
+tn39
+tn40
+tn41
+tn42
+tn43
+tn44
+tn45
+tn46
+tn47
+tn48
+tn49
+tn50
+tn51
+2000483	tn1
+tn2
+tn3
+tn4
+tn5
+2000490	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2000503	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2000517	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2000527	tn1
+tn2
+tn3
+2000532	tn1
+tn2
+2000536	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2000550	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2000558	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2000568	tn1
+tn2
+tn3
+2000573	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2000591	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2000600	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2000612	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2000624	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2000638	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2000654	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2000670	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2000692	tn1
+tn2
+tn3
+tn4
+tn5
+2000699	tn1
+tn2
+tn3
+tn4
+2000705	tn1
+tn2
+tn3
+2000710	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2000726	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2000738	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2000750	tn1
+tn2
+tn3
+tn4
+2000756	tn1
+tn2
+tn3
+tn4
+tn5
+2000763	tn1
+2000766	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2000774	tn1
+tn2
+2000778	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+2000807	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2000823	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2000836	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2000849	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2000860	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2000886	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+2000914	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2000929	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2000942	tn1
+tn2
+tn3
+2000947	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2000955	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2000965	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2000991	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+tn36
+tn37
+tn38
+tn39
+tn40
+2001033	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2001042	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+tn36
+tn37
+tn38
+tn39
+tn40
+tn41
+tn42
+2001088	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2001110	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2001128	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+2001153	tn1
+tn2
+tn3
+tn4
+tn5
+2001160	tn1
+tn2
+tn3
+tn4
+tn5
+2001167	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2001178	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2001195	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+2001220	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2001235	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2001247	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2001264	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2001276	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+2001308	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2001326	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2001349	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2001365	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2001376	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+2001404	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2001418	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2001428	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2001450	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2001467	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2001484	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2001497	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2001509	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2001522	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+2001551	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2001571	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2001584	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2001602	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2001618	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2001631	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2001642	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2001659	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2001667	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2001686	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+2001711	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2001726	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+2001762	tn1
+tn2
+2001766	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2001775	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2001787	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2001801	tn1
+tn2
+tn3
+tn4
+tn5
+2001808	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2001818	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+tn36
+tn37
+2001857	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2001873	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+2001902	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2001912	tn1
+tn2
+2001916	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2001924	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2001939	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2001948	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2001959	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2001977	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2002003	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2002029	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2002037	tn1
+tn2
+2002041	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2002058	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2002069	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2002077	tn1
+tn2
+2002083	tn1
+tn2
+tn3
+tn4
+tn5
+2002090	tn1
+tn2
+tn3
+tn4
+2002096	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2002119	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+2002144	tn1
+2002147	tn1
+tn2
+tn3
+tn4
+2002153	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2002163	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2002173	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2002193	tn1
+tn2
+tn3
+tn4
+2002199	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2002214	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2002231	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2002254	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2002269	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2002278	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+2002306	tn1
 tn2
 tn3
 tn4
@@ -3554,7 +3554,7 @@ tn93
 tn94
 tn95
 tn96
-1997122	tn1
+2002404	tn1
 tn2
 tn3
 tn4
@@ -3610,7 +3610,7 @@ tn53
 tn54
 tn55
 tn56
-1997180	tn1
+2002462	tn1
 tn2
 tn3
 tn4
@@ -3632,7 +3632,7 @@ tn19
 tn20
 tn21
 tn22
-1997204	tn1
+2002486	tn1
 tn2
 tn3
 tn4
@@ -3709,7 +3709,7 @@ tn74
 tn75
 tn76
 tn77
-1997283	tn1
+2002565	tn1
 tn2
 tn3
 tn4
@@ -3745,7 +3745,7 @@ tn33
 tn34
 tn35
 tn36
-1997321	tn1
+2002603	tn1
 tn2
 tn3
 tn4
@@ -3769,7 +3769,7 @@ tn21
 tn22
 tn23
 tn24
-1997347	tn1
+2002629	tn1
 tn2
 tn3
 tn4
@@ -3802,7 +3802,7 @@ tn30
 tn31
 tn32
 tn33
-1997382	tn1
+2002664	tn1
 tn2
 tn3
 tn4
@@ -3817,14 +3817,14 @@ tn12
 tn13
 tn14
 tn15
-1997399	tn1
+2002681	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-1997408	tn1
+2002690	tn1
 tn2
 tn3
 tn4
@@ -3847,7 +3847,7 @@ tn20
 tn21
 tn22
 tn23
-1997433	tn1
+2002715	tn1
 tn2
 tn3
 tn4
@@ -3861,8 +3861,8 @@ tn11
 tn12
 tn13
 tn14
-1997449	tn1
-1997452	tn1
+2002731	tn1
+2002734	tn1
 tn2
 tn3
 tn4
@@ -3878,7 +3878,7 @@ tn13
 tn14
 tn15
 tn16
-1997470	tn1
+2002752	tn1
 tn2
 tn3
 tn4
@@ -3897,11 +3897,11 @@ tn16
 tn17
 tn18
 tn19
-1997491	tn1
+2002773	tn1
 tn2
 tn3
 tn4
-1997497	tn1
+2002779	tn1
 tn2
 tn3
 tn4
@@ -3918,7 +3918,7 @@ tn14
 tn15
 tn16
 tn17
-1997516	tn1
+2002798	tn1
 tn2
 tn3
 tn4
@@ -3929,11 +3929,11 @@ tn8
 tn9
 tn10
 tn11
-1997529	tn1
+2002811	tn1
 tn2
 tn3
 tn4
-1997535	tn1
+2002817	tn1
 tn2
 tn3
 tn4
@@ -3945,7 +3945,7 @@ tn9
 tn10
 tn11
 tn12
-1997549	tn1
+2002831	tn1
 tn2
 tn3
 tn4
@@ -3958,7 +3958,7 @@ tn10
 tn11
 tn12
 tn13
-1997564	tn1
+2002846	tn1
 tn2
 tn3
 tn4
@@ -3969,11 +3969,11 @@ tn8
 tn9
 tn10
 tn11
-1997577	tn1
+2002859	tn1
 tn2
 tn3
 tn4
-1997583	tn1
+2002865	tn1
 tn2
 tn3
 tn4
@@ -3987,7 +3987,7 @@ tn11
 tn12
 tn13
 tn14
-1997599	tn1
+2002881	tn1
 tn2
 tn3
 tn4
@@ -4170,7 +4170,7 @@ tn180
 tn181
 tn182
 tn183
-1997784	tn1
+2003066	tn1
 tn2
 tn3
 tn4
@@ -4178,7 +4178,7 @@ tn5
 tn6
 tn7
 tn8
-1997794	tn1
+2003076	tn1
 tn2
 tn3
 tn4
@@ -4263,7 +4263,7 @@ tn82
 tn83
 tn84
 tn85
-1997881	tn1
+2003163	tn1
 tn2
 tn3
 tn4
@@ -4287,7 +4287,7 @@ tn21
 tn22
 tn23
 tn24
-1997907	tn1
+2003189	tn1
 tn2
 tn3
 tn4
@@ -4303,7 +4303,7 @@ tn13
 tn14
 tn15
 tn16
-1997925	tn1
+2003207	tn1
 tn2
 tn3
 tn4
@@ -4342,7 +4342,7 @@ tn36
 tn37
 tn38
 tn39
-1997966	tn1
+2003248	tn1
 tn2
 tn3
 tn4
@@ -4511,7 +4511,7 @@ tn166
 tn167
 tn168
 tn169
-1998137	tn1
+2003419	tn1
 tn2
 tn3
 tn4
@@ -4524,7 +4524,7 @@ tn10
 tn11
 tn12
 tn13
-1998152	tn1
+2003434	tn1
 tn2
 tn3
 tn4
@@ -4596,7 +4596,7 @@ tn69
 tn70
 tn71
 tn72
-1998226	tn1
+2003508	tn1
 tn2
 tn3
 tn4
@@ -4614,13 +4614,13 @@ tn15
 tn16
 tn17
 tn18
-1998246	tn1
+2003528	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-1998254	tn1
+2003536	tn1
 tn2
 tn3
 tn4
@@ -4649,7 +4649,7 @@ tn26
 tn27
 tn28
 tn29
-1998285	tn1
+2003567	tn1
 tn2
 tn3
 tn4
@@ -4669,7 +4669,7 @@ tn17
 tn18
 tn19
 tn20
-1998307	tn1
+2003589	tn1
 tn2
 tn3
 tn4
@@ -4701,7 +4701,7 @@ tn29
 tn30
 tn31
 tn32
-1998341	tn1
+2003623	tn1
 tn2
 tn3
 tn4
@@ -4709,7 +4709,7 @@ tn5
 tn6
 tn7
 tn8
-1998351	tn1
+2003633	tn1
 tn2
 tn3
 tn4
@@ -4723,9 +4723,9 @@ tn11
 tn12
 tn13
 tn14
-1998367	tn1
+2003649	tn1
 tn2
-1998371	tn1
+2003653	tn1
 tn2
 tn3
 tn4
@@ -4832,7 +4832,7 @@ tn104
 tn105
 tn106
 tn107
-1998480	tn1
+2003762	tn1
 tn2
 tn3
 tn4
@@ -4852,7 +4852,7 @@ tn17
 tn18
 tn19
 tn20
-1998502	tn1
+2003784	tn1
 tn2
 tn3
 tn4
@@ -4860,7 +4860,7 @@ tn5
 tn6
 tn7
 tn8
-1998512	tn1
+2003794	tn1
 tn2
 tn3
 tn4
@@ -4884,7 +4884,7 @@ tn21
 tn22
 tn23
 tn24
-1998538	tn1
+2003820	tn1
 tn2
 tn3
 tn4
@@ -4917,7 +4917,7 @@ tn30
 tn31
 tn32
 tn33
-1998573	tn1
+2003855	tn1
 tn2
 tn3
 tn4
@@ -4937,7 +4937,7 @@ tn17
 tn18
 tn19
 tn20
-1998595	tn1
+2003877	tn1
 tn2
 tn3
 tn4
@@ -4964,7 +4964,7 @@ tn24
 tn25
 tn26
 tn27
-1998624	tn1
+2003906	tn1
 tn2
 tn3
 tn4
@@ -4985,7 +4985,7 @@ tn18
 tn19
 tn20
 tn21
-1998647	tn1
+2003929	tn1
 tn2
 tn3
 tn4
@@ -5008,7 +5008,7 @@ tn20
 tn21
 tn22
 tn23
-1998672	tn1
+2003954	tn1
 tn2
 tn3
 tn4
@@ -5045,7 +5045,7 @@ tn34
 tn35
 tn36
 tn37
-1998711	tn1
+2003993	tn1
 tn2
 tn3
 tn4
@@ -5068,7 +5068,7 @@ tn20
 tn21
 tn22
 tn23
-1998736	tn1
+2004018	tn1
 tn2
 tn3
 tn4
@@ -5117,7 +5117,7 @@ tn46
 tn47
 tn48
 tn49
-1998787	tn1
+2004069	tn1
 tn2
 tn3
 tn4
@@ -5183,7 +5183,7 @@ tn63
 tn64
 tn65
 tn66
-1998855	tn1
+2004137	tn1
 tn2
 tn3
 tn4
@@ -5228,7 +5228,7 @@ tn42
 tn43
 tn44
 tn45
-1998902	tn1
+2004184	tn1
 tn2
 tn3
 tn4
@@ -5240,7 +5240,7 @@ tn9
 tn10
 tn11
 tn12
-1998916	tn1
+2004198	tn1
 tn2
 tn3
 tn4
@@ -5266,14 +5266,14 @@ tn23
 tn24
 tn25
 tn26
-1998944	tn1
+2004226	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-1998953	tn1
+2004235	tn1
 tn2
 tn3
 tn4
@@ -5283,7 +5283,7 @@ tn7
 tn8
 tn9
 tn10
-1998965	tn1
+2004247	tn1
 tn2
 tn3
 tn4
@@ -5326,7 +5326,7 @@ tn40
 tn41
 tn42
 tn43
-1999010	tn1
+2004292	tn1
 tn2
 tn3
 tn4
@@ -5354,7 +5354,7 @@ tn25
 tn26
 tn27
 tn28
-1999040	tn1
+2004322	tn1
 tn2
 tn3
 tn4
@@ -5364,7 +5364,7 @@ tn7
 tn8
 tn9
 tn10
-1999052	tn1
+2004334	tn1
 tn2
 tn3
 tn4
@@ -5402,13 +5402,13 @@ tn35
 tn36
 tn37
 tn38
-1999092	tn1
+2004374	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-1999100	tn1
+2004382	tn1
 tn2
 tn3
 tn4
@@ -5431,7 +5431,7 @@ tn20
 tn21
 tn22
 tn23
-1999125	tn1
+2004407	tn1
 tn2
 tn3
 tn4
@@ -5456,7 +5456,7 @@ tn22
 tn23
 tn24
 tn25
-1999152	tn1
+2004434	tn1
 tn2
 tn3
 tn4
@@ -5496,7 +5496,7 @@ tn37
 tn38
 tn39
 tn40
-1999194	tn1
+2004476	tn1
 tn2
 tn3
 tn4
@@ -5513,7 +5513,7 @@ tn14
 tn15
 tn16
 tn17
-1999213	tn1
+2004495	tn1
 tn2
 tn3
 tn4
@@ -5536,7 +5536,7 @@ tn20
 tn21
 tn22
 tn23
-1999238	tn1
+2004520	tn1
 tn2
 tn3
 tn4
@@ -5599,7 +5599,7 @@ tn60
 tn61
 tn62
 tn63
-1999303	tn1
+2004585	tn1
 tn2
 tn3
 tn4
@@ -5613,7 +5613,7 @@ tn11
 tn12
 tn13
 tn14
-1999319	tn1
+2004601	tn1
 tn2
 tn3
 tn4
@@ -5630,7 +5630,7 @@ tn14
 tn15
 tn16
 tn17
-1999338	tn1
+2004620	tn1
 tn2
 tn3
 tn4
@@ -5665,7 +5665,7 @@ tn32
 tn33
 tn34
 tn35
-1999375	tn1
+2004657	tn1
 tn2
 tn3
 tn4
@@ -5696,7 +5696,7 @@ tn28
 tn29
 tn30
 tn31
-1999408	tn1
+2004690	tn1
 tn2
 tn3
 tn4
@@ -5717,7 +5717,7 @@ tn18
 tn19
 tn20
 tn21
-1999431	tn1
+2004713	tn1
 tn2
 tn3
 tn4
@@ -5739,7 +5739,7 @@ tn19
 tn20
 tn21
 tn22
-1999455	tn1
+2004737	tn1
 tn2
 tn3
 tn4
@@ -5821,7 +5821,7 @@ tn79
 tn80
 tn81
 tn82
-1999539	tn1
+2004821	tn1
 tn2
 tn3
 tn4
@@ -5836,7 +5836,7 @@ tn12
 tn13
 tn14
 tn15
-1999556	tn1
+2004838	tn1
 tn2
 tn3
 tn4
@@ -5851,7 +5851,7 @@ tn12
 tn13
 tn14
 tn15
-1999573	tn1
+2004855	tn1
 tn2
 tn3
 tn4
@@ -5916,8 +5916,8 @@ tn62
 tn63
 tn64
 tn65
-1999640	tn1
-1999643	tn1
+2004922	tn1
+2004925	tn1
 tn2
 tn3
 tn4
@@ -5955,7 +5955,7 @@ tn35
 tn36
 tn37
 tn38
-1999683	tn1
+2004965	tn1
 tn2
 tn3
 tn4
@@ -6008,7 +6008,7 @@ tn50
 tn51
 tn52
 tn53
-1999738	tn1
+2005020	tn1
 tn2
 tn3
 tn4
@@ -6045,7 +6045,7 @@ tn34
 tn35
 tn36
 tn37
-1999777	tn1
+2005059	tn1
 tn2
 tn3
 tn4
@@ -6073,7 +6073,7 @@ tn25
 tn26
 tn27
 tn28
-1999807	tn1
+2005089	tn1
 tn2
 tn3
 tn4
@@ -6116,7 +6116,7 @@ tn40
 tn41
 tn42
 tn43
-1999852	tn1
+2005134	tn1
 tn2
 tn3
 tn4
@@ -6164,7 +6164,7 @@ tn45
 tn46
 tn47
 tn48
-1999902	tn1
+2005184	tn1
 tn2
 tn3
 tn4
@@ -6215,7 +6215,7 @@ tn48
 tn49
 tn50
 tn51
-1999955	tn1
+2005237	tn1
 tn2
 tn3
 tn4
@@ -6243,7 +6243,7 @@ tn25
 tn26
 tn27
 tn28
-1999985	tn1
+2005267	tn1
 tn2
 tn3
 tn4
@@ -6254,7 +6254,7 @@ tn8
 tn9
 tn10
 tn11
-1999998	tn1
+2005280	tn1
 tn2
 tn3
 tn4
@@ -6263,20 +6263,7 @@ tn6
 tn7
 tn8
 tn9
-2000009	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2000024	tn1
+2005291	tn1
 tn2
 tn3
 tn4
@@ -6289,47 +6276,7 @@ tn10
 tn11
 tn12
 tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-2000055	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-2000081	tn1
+2005306	tn1
 tn2
 tn3
 tn4
@@ -6358,8 +6305,7 @@ tn26
 tn27
 tn28
 tn29
-2000112	tn1
-2000115	tn1
+2005337	tn1
 tn2
 tn3
 tn4
@@ -6383,23 +6329,7 @@ tn21
 tn22
 tn23
 tn24
-2000141	tn1
-tn2
-tn3
-tn4
-2000147	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2000161	tn1
+2005363	tn1
 tn2
 tn3
 tn4
@@ -6417,7 +6347,77 @@ tn15
 tn16
 tn17
 tn18
-2000181	tn1
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+2005394	tn1
+2005397	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2005423	tn1
+tn2
+tn3
+tn4
+2005429	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2005443	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2005463	tn1
 tn2
 tn3
 tn4
@@ -6459,7 +6459,7 @@ tn39
 tn40
 tn41
 tn42
-2000225	tn1
+2005507	tn1
 tn2
 tn3
 tn4
@@ -6470,11 +6470,11 @@ tn8
 tn9
 tn10
 tn11
-2000238	tn1
+2005520	tn1
 tn2
 tn3
 tn4
-2000244	tn1
+2005526	tn1
 tn2
 tn3
 tn4
@@ -6482,7 +6482,7 @@ tn5
 tn6
 tn7
 tn8
-2000254	tn1
+2005536	tn1
 tn2
 tn3
 tn4
@@ -6502,7 +6502,7 @@ tn17
 tn18
 tn19
 tn20
-2000276	tn1
+2005558	tn1
 tn2
 tn3
 tn4
@@ -6516,16 +6516,16 @@ tn11
 tn12
 tn13
 tn14
-2000292	tn1
+2005574	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2000300	tn1
+2005582	tn1
 tn2
 tn3
-2000305	tn1
+2005587	tn1
 tn2
 tn3
 tn4
@@ -6543,7 +6543,7 @@ tn15
 tn16
 tn17
 tn18
-2000325	tn1
+2005607	tn1
 tn2
 tn3
 tn4
@@ -6551,7 +6551,7 @@ tn5
 tn6
 tn7
 tn8
-2000335	tn1
+2005617	tn1
 tn2
 tn3
 tn4
@@ -6575,7 +6575,7 @@ tn21
 tn22
 tn23
 tn24
-2000361	tn1
+2005643	tn1
 tn2
 tn3
 tn4
@@ -6623,7 +6623,7 @@ tn45
 tn46
 tn47
 tn48
-2000411	tn1
+2005693	tn1
 tn2
 tn3
 tn4
@@ -6632,7 +6632,7 @@ tn6
 tn7
 tn8
 tn9
-2000422	tn1
+2005704	tn1
 tn2
 tn3
 tn4
@@ -6652,7 +6652,7 @@ tn17
 tn18
 tn19
 tn20
-2000444	tn1
+2005726	tn1
 tn2
 tn3
 tn4
@@ -6661,7 +6661,7 @@ tn6
 tn7
 tn8
 tn9
-2000455	tn1
+2005737	tn1
 tn2
 tn3
 tn4
@@ -6690,7 +6690,7 @@ tn26
 tn27
 tn28
 tn29
-2000486	tn1
+2005768	tn1
 tn2
 tn3
 tn4
@@ -6708,8 +6708,8 @@ tn15
 tn16
 tn17
 tn18
-2000506	tn1
-2000509	tn1
+2005788	tn1
+2005791	tn1
 tn2
 tn3
 tn4
@@ -6717,7 +6717,7 @@ tn5
 tn6
 tn7
 tn8
-2000519	tn1
+2005801	tn1
 tn2
 tn3
 tn4
@@ -6726,7 +6726,7 @@ tn6
 tn7
 tn8
 tn9
-2000530	tn1
+2005812	tn1
 tn2
 tn3
 tn4
@@ -6745,7 +6745,7 @@ tn16
 tn17
 tn18
 tn19
-2000551	tn1
+2005833	tn1
 tn2
 tn3
 tn4
@@ -6768,7 +6768,7 @@ tn20
 tn21
 tn22
 tn23
-2000576	tn1
+2005858	tn1
 tn2
 tn3
 tn4
@@ -6777,29 +6777,18 @@ tn6
 tn7
 tn8
 tn9
-2000587	tn1
+2005869	tn1
 tn2
 tn3
 tn4
 tn5
-2000594	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2000602	tn1
+2005876	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2000615	tn1
+2005884	tn1
 tn2
 tn3
 tn4
@@ -6810,7 +6799,7 @@ tn8
 tn9
 tn10
 tn11
-2000628	tn1
+2005897	tn1
 tn2
 tn3
 tn4
@@ -6820,18 +6809,29 @@ tn7
 tn8
 tn9
 tn10
-2000640	tn1
+tn11
+2005910	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2000648	tn1
+tn7
+tn8
+tn9
+tn10
+2005922	tn1
 tn2
 tn3
 tn4
 tn5
-2000655	tn1
+tn6
+2005930	tn1
+tn2
+tn3
+tn4
+tn5
+2005937	tn1
 tn2
 tn3
 tn4
@@ -6849,13 +6849,13 @@ tn15
 tn16
 tn17
 tn18
-2000675	tn1
+2005957	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2000683	tn1
+2005965	tn1
 tn2
 tn3
 tn4
@@ -6871,11 +6871,11 @@ tn13
 tn14
 tn15
 tn16
-2000701	tn1
+2005983	tn1
 tn2
 tn3
 tn4
-2000707	tn1
+2005989	tn1
 tn2
 tn3
 tn4
@@ -6901,7 +6901,7 @@ tn23
 tn24
 tn25
 tn26
-2000735	tn1
+2006017	tn1
 tn2
 tn3
 tn4
@@ -6918,7 +6918,7 @@ tn14
 tn15
 tn16
 tn17
-2000754	tn1
+2006036	tn1
 tn2
 tn3
 tn4
@@ -7060,7 +7060,7 @@ tn139
 tn140
 tn141
 tn142
-2000898	tn1
+2006180	tn1
 tn2
 tn3
 tn4
@@ -7076,83 +7076,19 @@ tn13
 tn14
 tn15
 tn16
-2000916	tn1
+2006198	tn1
 tn2
 tn3
-2000921	tn1
+2006203	tn1
 tn2
 tn3
-2000926	tn1
-2000929	tn1
+2006208	tn1
+2006211	tn1
 tn2
-2000933	tn1
-tn2
-tn3
-2000938	tn1
+2006215	tn1
 tn2
 tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2000955	tn1
-tn2
-tn3
-tn4
-2000961	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2000973	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2000983	tn1
-tn2
-tn3
-tn4
-tn5
-2000990	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2001000	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2001016	tn1
+2006220	tn1
 tn2
 tn3
 tn4
@@ -7167,15 +7103,79 @@ tn12
 tn13
 tn14
 tn15
-2001033	tn1
+2006237	tn1
 tn2
 tn3
-2001038	tn1
-tn2
-2001042	tn1
+tn4
+2006243	tn1
 tn2
 tn3
-2001047	tn1
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2006255	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2006265	tn1
+tn2
+tn3
+tn4
+tn5
+2006272	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2006282	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2006298	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2006315	tn1
+tn2
+tn3
+2006320	tn1
+tn2
+2006324	tn1
+tn2
+tn3
+2006329	tn1
 tn2
 tn3
 tn4
@@ -7194,7 +7194,7 @@ tn16
 tn17
 tn18
 tn19
-2001068	tn1
+2006350	tn1
 tn2
 tn3
 tn4
@@ -7204,12 +7204,12 @@ tn7
 tn8
 tn9
 tn10
-2001080	tn1
+2006362	tn1
 tn2
 tn3
 tn4
 tn5
-2001087	tn1
+2006369	tn1
 tn2
 tn3
 tn4
@@ -7251,7 +7251,7 @@ tn39
 tn40
 tn41
 tn42
-2001131	tn1
+2006413	tn1
 tn2
 tn3
 tn4
@@ -7329,7 +7329,7 @@ tn75
 tn76
 tn77
 tn78
-2001211	tn1
+2006493	tn1
 tn2
 tn3
 tn4
@@ -7343,25 +7343,14 @@ tn11
 tn12
 tn13
 tn14
-2001227	tn1
+2006509	tn1
 tn2
 tn3
-2001232	tn1
-tn2
-tn3
-tn4
-2001238	tn1
+2006514	tn1
 tn2
 tn3
 tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2001251	tn1
+2006520	tn1
 tn2
 tn3
 tn4
@@ -7372,7 +7361,7 @@ tn8
 tn9
 tn10
 tn11
-2001264	tn1
+2006533	tn1
 tn2
 tn3
 tn4
@@ -7383,18 +7372,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-2001284	tn1
-tn2
-tn3
-tn4
-2001290	tn1
+2006546	tn1
 tn2
 tn3
 tn4
@@ -7412,54 +7390,11 @@ tn15
 tn16
 tn17
 tn18
-tn19
-2001311	tn1
+2006566	tn1
 tn2
 tn3
 tn4
-tn5
-2001318	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2001334	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2001344	tn1
-tn2
-tn3
-tn4
-tn5
-2001351	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2001363	tn1
-tn2
-tn3
-tn4
-2001369	tn1
+2006572	tn1
 tn2
 tn3
 tn4
@@ -7478,51 +7413,12 @@ tn16
 tn17
 tn18
 tn19
-tn20
-tn21
-2001392	tn1
+2006593	tn1
 tn2
 tn3
 tn4
 tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2001407	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-2001428	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2001440	tn1
+2006600	tn1
 tn2
 tn3
 tn4
@@ -7536,7 +7432,20 @@ tn11
 tn12
 tn13
 tn14
-2001456	tn1
+2006616	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2006626	tn1
+tn2
+tn3
+tn4
+tn5
+2006633	tn1
 tn2
 tn3
 tn4
@@ -7546,57 +7455,11 @@ tn7
 tn8
 tn9
 tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2001475	tn1
+2006645	tn1
 tn2
 tn3
 tn4
-tn5
-tn6
-2001483	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2001491	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2001503	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2001517	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2001528	tn1
+2006651	tn1
 tn2
 tn3
 tn4
@@ -7617,19 +7480,20 @@ tn18
 tn19
 tn20
 tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-2001558	tn1
+2006674	tn1
 tn2
 tn3
 tn4
 tn5
-2001565	tn1
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2006689	tn1
 tn2
 tn3
 tn4
@@ -7648,7 +7512,7 @@ tn16
 tn17
 tn18
 tn19
-2001586	tn1
+2006710	tn1
 tn2
 tn3
 tn4
@@ -7658,8 +7522,7 @@ tn7
 tn8
 tn9
 tn10
-tn11
-2001599	tn1
+2006722	tn1
 tn2
 tn3
 tn4
@@ -7673,19 +7536,7 @@ tn11
 tn12
 tn13
 tn14
-tn15
-2001616	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2001629	tn1
+2006738	tn1
 tn2
 tn3
 tn4
@@ -7702,10 +7553,50 @@ tn14
 tn15
 tn16
 tn17
-tn18
-tn19
-tn20
-2001651	tn1
+2006757	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2006765	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2006773	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2006785	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2006799	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2006810	tn1
 tn2
 tn3
 tn4
@@ -7733,36 +7624,12 @@ tn25
 tn26
 tn27
 tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-tn35
-tn36
-tn37
-tn38
-tn39
-tn40
-tn41
-tn42
-tn43
-tn44
-2001697	tn1
+2006840	tn1
 tn2
 tn3
 tn4
 tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2001712	tn1
+2006847	tn1
 tn2
 tn3
 tn4
@@ -7779,7 +7646,20 @@ tn14
 tn15
 tn16
 tn17
-2001731	tn1
+tn18
+tn19
+2006868	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2006881	tn1
 tn2
 tn3
 tn4
@@ -7793,13 +7673,8 @@ tn11
 tn12
 tn13
 tn14
-2001747	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2001755	tn1
+tn15
+2006898	tn1
 tn2
 tn3
 tn4
@@ -7810,7 +7685,27 @@ tn8
 tn9
 tn10
 tn11
-2001768	tn1
+2006911	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2006933	tn1
 tn2
 tn3
 tn4
@@ -7854,7 +7749,20 @@ tn41
 tn42
 tn43
 tn44
-2001814	tn1
+2006979	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2006994	tn1
 tn2
 tn3
 tn4
@@ -7871,37 +7779,7 @@ tn14
 tn15
 tn16
 tn17
-2001833	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2001843	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2001856	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2001869	tn1
+2007013	tn1
 tn2
 tn3
 tn4
@@ -7915,30 +7793,24 @@ tn11
 tn12
 tn13
 tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-2001904	tn1
+2007029	tn1
 tn2
 tn3
 tn4
-2001910	tn1
+tn5
+tn6
+2007037	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2007050	tn1
 tn2
 tn3
 tn4
@@ -7976,7 +7848,13 @@ tn35
 tn36
 tn37
 tn38
-2001950	tn1
+tn39
+tn40
+tn41
+tn42
+tn43
+tn44
+2007096	tn1
 tn2
 tn3
 tn4
@@ -7993,22 +7871,7 @@ tn14
 tn15
 tn16
 tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-2001984	tn1
+2007115	tn1
 tn2
 tn3
 tn4
@@ -8016,16 +7879,7 @@ tn5
 tn6
 tn7
 tn8
-tn9
-tn10
-2001996	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2002005	tn1
+2007125	tn1
 tn2
 tn3
 tn4
@@ -8036,14 +7890,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-2002025	tn1
+2007138	tn1
 tn2
 tn3
 tn4
@@ -8054,26 +7901,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2002047	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2002059	tn1
+2007151	tn1
 tn2
 tn3
 tn4
@@ -8106,86 +7934,11 @@ tn30
 tn31
 tn32
 tn33
-2002094	tn1
+2007186	tn1
 tn2
 tn3
 tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-2002118	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-2002139	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2002151	tn1
-tn2
-tn3
-tn4
-2002157	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2002169	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2002185	tn1
+2007192	tn1
 tn2
 tn3
 tn4
@@ -8220,1021 +7973,10 @@ tn32
 tn33
 tn34
 tn35
-2002222	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-2002243	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2002258	tn1
-tn2
-2002262	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-2002285	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-2002308	tn1
-tn2
-tn3
-tn4
-2002314	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2002322	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2002333	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2002347	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002364	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2002383	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2002393	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-2002416	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002433	tn1
-tn2
-tn3
-2002438	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2002447	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2002466	tn1
-2002469	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2002485	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-2002508	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-2002535	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2002543	tn1
-2002546	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002563	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2002572	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2002587	tn1
-2002590	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2002599	tn1
-tn2
-tn3
-2002604	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2002612	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2002630	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2002652	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2002668	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2002679	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2002693	tn1
-tn2
-tn3
-tn4
-tn5
-2002700	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2002709	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2002720	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2002731	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002748	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2002766	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002783	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2002802	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-2002823	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2002837	tn1
-tn2
-tn3
-tn4
-tn5
-2002844	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2002866	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-2002890	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2002900	tn1
-tn2
-tn3
-tn4
-tn5
-2002907	tn1
-tn2
-tn3
-2002912	tn1
-2002915	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2002932	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2002948	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2002970	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2002981	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-2003004	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2003018	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2003029	tn1
-tn2
-tn3
-tn4
-tn5
-2003036	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2003047	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2003064	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-2003084	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2003094	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2003103	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2003122	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2003138	tn1
-tn2
-tn3
-2003143	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2003155	tn1
-tn2
-tn3
-2003160	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2003172	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2003186	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2003202	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2003212	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2003221	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2003232	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2003245	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2003262	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2003273	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2003295	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-2003326	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-2003350	tn1
-tn2
-tn3
-2003355	tn1
-tn2
-tn3
-tn4
-tn5
-2003362	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-2003389	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2003399	tn1
-tn2
-2003403	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2003416	tn1
+tn36
+tn37
+tn38
+2007232	tn1
 tn2
 tn3
 tn4
@@ -9265,7 +8007,43 @@ tn28
 tn29
 tn30
 tn31
-2003449	tn1
+tn32
+2007266	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2007278	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2007287	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2007307	tn1
 tn2
 tn3
 tn4
@@ -9285,18 +8063,17 @@ tn17
 tn18
 tn19
 tn20
-tn21
-tn22
-tn23
-tn24
-tn25
-2003476	tn1
+2007329	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2003484	tn1
+tn7
+tn8
+tn9
+tn10
+2007341	tn1
 tn2
 tn3
 tn4
@@ -9324,10 +8101,12 @@ tn25
 tn26
 tn27
 tn28
-2003514	tn1
-tn2
-tn3
-2003519	tn1
+tn29
+tn30
+tn31
+tn32
+tn33
+2007376	tn1
 tn2
 tn3
 tn4
@@ -9344,7 +8123,1228 @@ tn14
 tn15
 tn16
 tn17
-2003538	tn1
+tn18
+tn19
+tn20
+tn21
+tn22
+2007400	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+2007421	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2007433	tn1
+tn2
+tn3
+tn4
+2007439	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2007451	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2007467	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+tn35
+2007504	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+2007525	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2007540	tn1
+tn2
+2007544	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2007567	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2007590	tn1
+tn2
+tn3
+tn4
+2007596	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2007604	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2007615	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2007629	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2007646	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2007665	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2007675	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2007698	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2007715	tn1
+tn2
+tn3
+2007720	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2007729	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2007748	tn1
+2007751	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2007767	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2007790	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+2007817	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2007825	tn1
+2007828	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2007845	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2007854	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2007869	tn1
+2007872	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2007881	tn1
+tn2
+tn3
+2007886	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2007894	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2007912	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2007934	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2007950	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2007961	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2007975	tn1
+tn2
+tn3
+tn4
+tn5
+2007982	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2007991	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008002	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008013	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2008030	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2008048	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2008065	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2008084	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+2008105	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2008119	tn1
+tn2
+tn3
+tn4
+tn5
+2008126	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2008148	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+2008172	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2008182	tn1
+tn2
+tn3
+tn4
+tn5
+2008189	tn1
+tn2
+tn3
+2008194	tn1
+2008197	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2008214	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2008230	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2008252	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008263	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+2008286	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2008300	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008311	tn1
+tn2
+tn3
+tn4
+tn5
+2008318	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008329	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2008346	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2008366	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2008376	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2008385	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2008404	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2008420	tn1
+tn2
+tn3
+2008425	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2008437	tn1
+tn2
+tn3
+2008442	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2008454	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2008468	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2008484	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2008494	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2008503	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008514	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2008527	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2008544	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2008555	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2008577	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+2008608	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+2008632	tn1
+tn2
+tn3
+2008637	tn1
+tn2
+tn3
+tn4
+tn5
+2008644	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+2008671	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2008681	tn1
+tn2
+2008685	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2008698	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+2008731	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+2008758	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2008766	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+2008796	tn1
+tn2
+tn3
+2008801	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+2008820	tn1
 tn2
 tn3
 tn4
@@ -9404,7 +9404,7 @@ tn57
 tn58
 tn59
 tn60
-2003600	tn1
+2008882	tn1
 tn2
 tn3
 tn4
@@ -9419,7 +9419,7 @@ tn12
 tn13
 tn14
 tn15
-2003617	tn1
+2008899	tn1
 tn2
 tn3
 tn4
@@ -9461,7 +9461,7 @@ tn39
 tn40
 tn41
 tn42
-2003661	tn1
+2008943	tn1
 tn2
 tn3
 tn4
@@ -9475,7 +9475,7 @@ tn11
 tn12
 tn13
 tn14
-2003677	tn1
+2008959	tn1
 tn2
 tn3
 tn4
@@ -9501,11 +9501,11 @@ tn23
 tn24
 tn25
 tn26
-2003705	tn1
+2008987	tn1
 tn2
 tn3
 tn4
-2003711	tn1
+2008993	tn1
 tn2
 tn3
 tn4
@@ -9550,7 +9550,7 @@ tn42
 tn43
 tn44
 tn45
-2003758	tn1
+2009040	tn1
 tn2
 tn3
 tn4
@@ -9567,7 +9567,7 @@ tn14
 tn15
 tn16
 tn17
-2003777	tn1
+2009059	tn1
 tn2
 tn3
 tn4
@@ -9588,8 +9588,7 @@ tn18
 tn19
 tn20
 tn21
-tn22
-2003801	tn1
+2009082	tn1
 tn2
 tn3
 tn4
@@ -9605,10 +9604,10 @@ tn13
 tn14
 tn15
 tn16
-2003819	tn1
+2009100	tn1
 tn2
 tn3
-2003824	tn1
+2009105	tn1
 tn2
 tn3
 tn4
@@ -9645,7 +9644,7 @@ tn34
 tn35
 tn36
 tn37
-2003863	tn1
+2009144	tn1
 tn2
 tn3
 tn4
@@ -9658,7 +9657,7 @@ tn10
 tn11
 tn12
 tn13
-2003878	tn1
+2009159	tn1
 tn2
 tn3
 tn4
@@ -9715,7 +9714,7 @@ tn54
 tn55
 tn56
 tn57
-2003937	tn1
+2009218	tn1
 tn2
 tn3
 tn4
@@ -9724,50 +9723,7 @@ tn6
 tn7
 tn8
 tn9
-2003948	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2003970	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2003978	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-2003997	tn1
+2009229	tn1
 tn2
 tn3
 tn4
@@ -9787,74 +9743,13 @@ tn17
 tn18
 tn19
 tn20
-2004019	tn1
+2009251	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2004032	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2004043	tn1
-tn2
-tn3
-tn4
-2004049	tn1
-tn2
-2004053	tn1
-2004056	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2004069	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2004084	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2004096	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2004104	tn1
+2009259	tn1
 tn2
 tn3
 tn4
@@ -9869,7 +9764,111 @@ tn12
 tn13
 tn14
 tn15
-2004121	tn1
+tn16
+tn17
+2009278	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+2009300	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2009313	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2009324	tn1
+tn2
+tn3
+tn4
+2009330	tn1
+tn2
+2009334	tn1
+2009337	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2009350	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+2009365	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2009377	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2009385	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2009402	tn1
 tn2
 tn3
 tn4
@@ -9897,7 +9896,7 @@ tn25
 tn26
 tn27
 tn28
-2004151	tn1
+2009432	tn1
 tn2
 tn3
 tn4
@@ -9928,7 +9927,7 @@ tn28
 tn29
 tn30
 tn31
-2004184	tn1
+2009465	tn1
 tn2
 tn3
 tn4
@@ -9946,7 +9945,7 @@ tn15
 tn16
 tn17
 tn18
-2004204	tn1
+2009485	tn1
 tn2
 tn3
 tn4
@@ -9974,13 +9973,13 @@ tn25
 tn26
 tn27
 tn28
-2004234	tn1
+2009515	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2004242	tn1
+2009523	tn1
 tn2
 tn3
 tn4
@@ -10012,7 +10011,7 @@ tn29
 tn30
 tn31
 tn32
-2004276	tn1
+2009557	tn1
 tn2
 tn3
 tn4
@@ -10024,7 +10023,7 @@ tn9
 tn10
 tn11
 tn12
-2004290	tn1
+2009571	tn1
 tn2
 tn3
 tn4
@@ -10032,7 +10031,7 @@ tn5
 tn6
 tn7
 tn8
-2004300	tn1
+2009581	tn1
 tn2
 tn3
 tn4
@@ -10048,7 +10047,7 @@ tn13
 tn14
 tn15
 tn16
-2004318	tn1
+2009599	tn1
 tn2
 tn3
 tn4
@@ -10056,7 +10055,7 @@ tn5
 tn6
 tn7
 tn8
-2004328	tn1
+2009609	tn1
 tn2
 tn3
 tn4
@@ -10066,15 +10065,15 @@ tn7
 tn8
 tn9
 tn10
-2004340	tn1
+2009621	tn1
 tn2
-2004344	tn1
+2009625	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2004352	tn1
+2009633	tn1
 tn2
 tn3
 tn4
@@ -10085,7 +10084,7 @@ tn8
 tn9
 tn10
 tn11
-2004365	tn1
+2009646	tn1
 tn2
 tn3
 tn4
@@ -10097,7 +10096,7 @@ tn9
 tn10
 tn11
 tn12
-2004379	tn1
+2009660	tn1
 tn2
 tn3
 tn4
@@ -10128,7 +10127,7 @@ tn28
 tn29
 tn30
 tn31
-2004412	tn1
+2009693	tn1
 tn2
 tn3
 tn4
@@ -10143,7 +10142,7 @@ tn12
 tn13
 tn14
 tn15
-2004429	tn1
+2009710	tn1
 tn2
 tn3
 tn4
@@ -10173,12 +10172,12 @@ tn27
 tn28
 tn29
 tn30
-2004461	tn1
+2009742	tn1
 tn2
 tn3
 tn4
 tn5
-2004468	tn1
+2009749	tn1
 tn2
 tn3
 tn4
@@ -10191,7 +10190,7 @@ tn10
 tn11
 tn12
 tn13
-2004483	tn1
+2009764	tn1
 tn2
 tn3
 tn4
@@ -10216,7 +10215,7 @@ tn22
 tn23
 tn24
 tn25
-2004510	tn1
+2009791	tn1
 tn2
 tn3
 tn4
@@ -10230,7 +10229,7 @@ tn11
 tn12
 tn13
 tn14
-2004526	tn1
+2009807	tn1
 tn2
 tn3
 tn4
@@ -10259,7 +10258,7 @@ tn26
 tn27
 tn28
 tn29
-2004557	tn1
+2009838	tn1
 tn2
 tn3
 tn4
@@ -10284,7 +10283,7 @@ tn22
 tn23
 tn24
 tn25
-2004584	tn1
+2009865	tn1
 tn2
 tn3
 tn4
@@ -10296,7 +10295,7 @@ tn9
 tn10
 tn11
 tn12
-2004598	tn1
+2009879	tn1
 tn2
 tn3
 tn4
@@ -10348,7 +10347,7 @@ tn49
 tn50
 tn51
 tn52
-2004652	tn1
+2009933	tn1
 tn2
 tn3
 tn4
@@ -10359,7 +10358,7 @@ tn8
 tn9
 tn10
 tn11
-2004665	tn1
+2009946	tn1
 tn2
 tn3
 tn4
@@ -10381,7 +10380,7 @@ tn19
 tn20
 tn21
 tn22
-2004689	tn1
+2009970	tn1
 tn2
 tn3
 tn4
@@ -10422,7 +10421,7 @@ tn38
 tn39
 tn40
 tn41
-2004732	tn1
+2010013	tn1
 tn2
 tn3
 tn4
@@ -10434,44 +10433,18 @@ tn9
 tn10
 tn11
 tn12
-2004746	tn1
+2010027	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2004754	tn1
+2010035	tn1
 tn2
 tn3
 tn4
 tn5
-2004761	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2004778	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2004791	tn1
+2010042	tn1
 tn2
 tn3
 tn4
@@ -10486,10 +10459,18 @@ tn12
 tn13
 tn14
 tn15
-tn16
-tn17
-tn18
-2004811	tn1
+2010059	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2010072	tn1
 tn2
 tn3
 tn4
@@ -10507,13 +10488,7 @@ tn15
 tn16
 tn17
 tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-2004837	tn1
+2010092	tn1
 tn2
 tn3
 tn4
@@ -10537,7 +10512,7 @@ tn21
 tn22
 tn23
 tn24
-2004863	tn1
+2010118	tn1
 tn2
 tn3
 tn4
@@ -10561,21 +10536,7 @@ tn21
 tn22
 tn23
 tn24
-2004889	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2004905	tn1
+2010144	tn1
 tn2
 tn3
 tn4
@@ -10593,7 +10554,45 @@ tn15
 tn16
 tn17
 tn18
-2004925	tn1
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2010170	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2010186	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2010206	tn1
 tn2
 tn3
 tn4
@@ -10643,7 +10642,7 @@ tn47
 tn48
 tn49
 tn50
-2004977	tn1
+2010258	tn1
 tn2
 tn3
 tn4
@@ -10655,12 +10654,12 @@ tn9
 tn10
 tn11
 tn12
-2004991	tn1
+2010272	tn1
 tn2
 tn3
 tn4
 tn5
-2004998	tn1
+2010279	tn1
 tn2
 tn3
 tn4
@@ -10670,7 +10669,7 @@ tn7
 tn8
 tn9
 tn10
-2005010	tn1
+2010291	tn1
 tn2
 tn3
 tn4
@@ -10686,7 +10685,7 @@ tn13
 tn14
 tn15
 tn16
-2005028	tn1
+2010309	tn1
 tn2
 tn3
 tn4
@@ -10695,7 +10694,7 @@ tn6
 tn7
 tn8
 tn9
-2005039	tn1
+2010320	tn1
 tn2
 tn3
 tn4
@@ -10710,7 +10709,7 @@ tn12
 tn13
 tn14
 tn15
-2005056	tn1
+2010337	tn1
 tn2
 tn3
 tn4
@@ -10721,7 +10720,7 @@ tn8
 tn9
 tn10
 tn11
-2005069	tn1
+2010350	tn1
 tn2
 tn3
 tn4
@@ -10730,7 +10729,7 @@ tn6
 tn7
 tn8
 tn9
-2005080	tn1
+2010361	tn1
 tn2
 tn3
 tn4
@@ -10774,7 +10773,7 @@ tn41
 tn42
 tn43
 tn44
-2005126	tn1
+2010407	tn1
 tn2
 tn3
 tn4
@@ -10787,47 +10786,11 @@ tn10
 tn11
 tn12
 tn13
-2005141	tn1
+2010422	tn1
 tn2
 tn3
 tn4
-2005147	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2005164	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2005176	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005189	tn1
+2010428	tn1
 tn2
 tn3
 tn4
@@ -10842,11 +10805,17 @@ tn12
 tn13
 tn14
 tn15
-tn16
-tn17
-tn18
-tn19
-2005210	tn1
+2010445	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2010457	tn1
 tn2
 tn3
 tn4
@@ -10857,86 +10826,7 @@ tn8
 tn9
 tn10
 tn11
-2005223	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005236	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-2005252	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2005270	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2005288	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2005296	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2005314	tn1
+2010470	tn1
 tn2
 tn3
 tn4
@@ -10955,12 +10845,7 @@ tn16
 tn17
 tn18
 tn19
-tn20
-tn21
-tn22
-tn23
-tn24
-2005340	tn1
+2010491	tn1
 tn2
 tn3
 tn4
@@ -10969,13 +10854,34 @@ tn6
 tn7
 tn8
 tn9
-2005351	tn1
+tn10
+tn11
+2010504	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2005359	tn1
+tn7
+tn8
+tn9
+tn10
+tn11
+2010517	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2010533	tn1
 tn2
 tn3
 tn4
@@ -10991,35 +10897,7 @@ tn13
 tn14
 tn15
 tn16
-2005377	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-2005394	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2005405	tn1
-tn2
-tn3
-tn4
-2005411	tn1
+2010551	tn1
 tn2
 tn3
 tn4
@@ -11035,14 +10913,13 @@ tn13
 tn14
 tn15
 tn16
-tn17
-2005430	tn1
-tn2
-2005434	tn1
+2010569	tn1
 tn2
 tn3
 tn4
-2005440	tn1
+tn5
+tn6
+2010577	tn1
 tn2
 tn3
 tn4
@@ -11053,15 +10930,12 @@ tn8
 tn9
 tn10
 tn11
-2005453	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005463	tn1
+tn12
+tn13
+tn14
+tn15
+tn16
+2010595	tn1
 tn2
 tn3
 tn4
@@ -11085,17 +10959,22 @@ tn21
 tn22
 tn23
 tn24
-tn25
-tn26
-tn27
-tn28
-tn29
-tn30
-tn31
-tn32
-tn33
-tn34
-2005499	tn1
+2010621	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2010632	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2010640	tn1
 tn2
 tn3
 tn4
@@ -11109,7 +10988,37 @@ tn11
 tn12
 tn13
 tn14
-2005515	tn1
+tn15
+tn16
+2010658	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2010675	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2010686	tn1
+tn2
+tn3
+tn4
+2010692	tn1
 tn2
 tn3
 tn4
@@ -11126,54 +11035,13 @@ tn14
 tn15
 tn16
 tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-2005540	tn1
+2010711	tn1
+tn2
+2010715	tn1
 tn2
 tn3
 tn4
-2005546	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005556	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2005565	tn1
-2005568	tn1
-tn2
-tn3
-tn4
-tn5
-2005575	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2005587	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2005595	tn1
+2010721	tn1
 tn2
 tn3
 tn4
@@ -11184,14 +11052,7 @@ tn8
 tn9
 tn10
 tn11
-tn12
-tn13
-tn14
-2005611	tn1
-tn2
-tn3
-tn4
-2005617	tn1
+2010734	tn1
 tn2
 tn3
 tn4
@@ -11199,260 +11060,7 @@ tn5
 tn6
 tn7
 tn8
-tn9
-tn10
-2005629	tn1
-tn2
-tn3
-tn4
-2005635	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005648	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005658	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005671	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005684	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005694	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2005702	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2005713	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005726	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-2005744	tn1
-tn2
-tn3
-tn4
-2005750	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2005761	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005771	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2005783	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2005797	tn1
-tn2
-tn3
-tn4
-tn5
-2005804	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2005817	tn1
-tn2
-tn3
-tn4
-2005823	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-2005843	tn1
-tn2
-tn3
-tn4
-tn5
-2005850	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005860	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005870	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2005882	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-2005906	tn1
-tn2
-tn3
-tn4
-tn5
-2005913	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2005923	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-2005934	tn1
+2010744	tn1
 tn2
 tn3
 tn4
@@ -11486,7 +11094,398 @@ tn31
 tn32
 tn33
 tn34
-2005970	tn1
+2010780	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2010796	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+2010821	tn1
+tn2
+tn3
+tn4
+2010827	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2010837	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+2010846	tn1
+2010849	tn1
+tn2
+tn3
+tn4
+tn5
+2010856	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2010868	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2010876	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+2010892	tn1
+tn2
+tn3
+tn4
+2010898	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2010910	tn1
+tn2
+tn3
+tn4
+2010916	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2010929	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2010939	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2010952	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2010965	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2010975	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2010983	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2010994	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2011007	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+2011025	tn1
+tn2
+tn3
+tn4
+2011031	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2011042	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2011052	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2011064	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2011078	tn1
+tn2
+tn3
+tn4
+tn5
+2011085	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2011098	tn1
+tn2
+tn3
+tn4
+2011104	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+2011124	tn1
+tn2
+tn3
+tn4
+tn5
+2011131	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2011141	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2011151	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2011163	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+2011187	tn1
+tn2
+tn3
+tn4
+tn5
+2011194	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2011204	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2011215	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+tn25
+tn26
+tn27
+tn28
+tn29
+tn30
+tn31
+tn32
+tn33
+tn34
+2011251	tn1
 tn2
 tn3
 tn4
@@ -11576,7 +11575,7 @@ tn87
 tn88
 tn89
 tn90
-2006062	tn1
+2011343	tn1
 tn2
 tn3
 tn4
@@ -11587,19 +11586,9 @@ tn8
 tn9
 tn10
 tn11
-2006075	tn1
+2011356	tn1
 tn2
-2006079	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2006091	tn1
+2011360	tn1
 tn2
 tn3
 tn4
@@ -11609,15 +11598,7 @@ tn7
 tn8
 tn9
 tn10
-tn11
-tn12
-2006105	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2006113	tn1
+2011372	tn1
 tn2
 tn3
 tn4
@@ -11629,7 +11610,25 @@ tn9
 tn10
 tn11
 tn12
-2006127	tn1
+2011386	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2011394	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2011408	tn1
 tn2
 tn3
 tn4
@@ -11658,7 +11657,7 @@ tn26
 tn27
 tn28
 tn29
-2006158	tn1
+2011439	tn1
 tn2
 tn3
 tn4
@@ -11676,7 +11675,7 @@ tn15
 tn16
 tn17
 tn18
-2006178	tn1
+2011459	tn1
 tn2
 tn3
 tn4
@@ -11684,27 +11683,7 @@ tn5
 tn6
 tn7
 tn8
-2006188	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-2006203	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-2006212	tn1
+2011469	tn1
 tn2
 tn3
 tn4
@@ -11717,41 +11696,14 @@ tn10
 tn11
 tn12
 tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-2006234	tn1
-tn2
-tn3
-tn4
-2006240	tn1
+2011484	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
 tn7
-tn8
-tn9
-2006251	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-2006263	tn1
-tn2
-tn3
-tn4
-2006269	tn1
+2011493	tn1
 tn2
 tn3
 tn4
@@ -11771,7 +11723,34 @@ tn17
 tn18
 tn19
 tn20
-2006291	tn1
+2011515	tn1
+tn2
+tn3
+tn4
+2011521	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+2011532	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+2011544	tn1
+tn2
+tn3
+tn4
+2011550	tn1
 tn2
 tn3
 tn4
@@ -11786,7 +11765,27 @@ tn12
 tn13
 tn14
 tn15
-2006308	tn1
+tn16
+tn17
+tn18
+tn19
+tn20
+2011572	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+tn13
+tn14
+tn15
+2011589	tn1
 tn2
 tn3
 tn4
@@ -11860,7 +11859,7 @@ tn71
 tn72
 tn73
 tn74
-2006384	tn1
+2011665	tn1
 tn2
 tn3
 tn4
@@ -11870,7 +11869,7 @@ tn7
 tn8
 tn9
 tn10
-2006396	tn1
+2011677	tn1
 tn2
 tn3
 tn4
@@ -11886,7 +11885,7 @@ tn13
 tn14
 tn15
 tn16
-2006414	tn1
+2011695	tn1
 tn2
 tn3
 tn4
@@ -11903,13 +11902,13 @@ tn14
 tn15
 tn16
 tn17
-2006433	tn1
+2011714	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2006441	tn1
+2011722	tn1
 tn2
 tn3
 tn4
@@ -11931,7 +11930,7 @@ tn19
 tn20
 tn21
 tn22
-2006465	tn1
+2011746	tn1
 tn2
 tn3
 tn4
@@ -11943,7 +11942,7 @@ tn9
 tn10
 tn11
 tn12
-2006479	tn1
+2011760	tn1
 tn2
 tn3
 tn4
@@ -11953,7 +11952,7 @@ tn7
 tn8
 tn9
 tn10
-2006491	tn1
+2011772	tn1
 tn2
 tn3
 tn4
@@ -11961,7 +11960,7 @@ tn5
 tn6
 tn7
 tn8
-2006501	tn1
+2011782	tn1
 tn2
 tn3
 tn4
@@ -11986,7 +11985,7 @@ tn22
 tn23
 tn24
 tn25
-2006528	tn1
+2011809	tn1
 tn2
 tn3
 tn4
@@ -12003,7 +12002,7 @@ tn14
 tn15
 tn16
 tn17
-2006547	tn1
+2011828	tn1
 tn2
 tn3
 tn4
@@ -12014,7 +12013,7 @@ tn8
 tn9
 tn10
 tn11
-2006560	tn1
+2011841	tn1
 tn2
 tn3
 tn4
@@ -12040,7 +12039,7 @@ tn23
 tn24
 tn25
 tn26
-2006588	tn1
+2011869	tn1
 tn2
 tn3
 tn4
@@ -12070,7 +12069,7 @@ tn27
 tn28
 tn29
 tn30
-2006620	tn1
+2011901	tn1
 tn2
 tn3
 tn4
@@ -12092,7 +12091,7 @@ tn19
 tn20
 tn21
 tn22
-2006644	tn1
+2011925	tn1
 tn2
 tn3
 tn4
@@ -12128,7 +12127,7 @@ tn33
 tn34
 tn35
 tn36
-2006682	tn1
+2011963	tn1
 tn2
 tn3
 tn4
@@ -12191,7 +12190,7 @@ tn60
 tn61
 tn62
 tn63
-2006747	tn1
+2012028	tn1
 tn2
 tn3
 tn4
@@ -12214,7 +12213,7 @@ tn20
 tn21
 tn22
 tn23
-2006772	tn1
+2012053	tn1
 tn2
 tn3
 tn4
@@ -12247,7 +12246,7 @@ tn30
 tn31
 tn32
 tn33
-2006807	tn1
+2012088	tn1
 tn2
 tn3
 tn4
@@ -12295,7 +12294,7 @@ tn45
 tn46
 tn47
 tn48
-2006857	tn1
+2012138	tn1
 tn2
 tn3
 tn4
@@ -12317,7 +12316,7 @@ tn19
 tn20
 tn21
 tn22
-2006881	tn1
+2012162	tn1
 tn2
 tn3
 tn4
@@ -12328,61 +12327,7 @@ tn8
 tn9
 tn10
 tn11
-2006894	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-tn13
-tn14
-tn15
-tn16
-tn17
-tn18
-tn19
-tn20
-tn21
-tn22
-tn23
-2006919	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-2006932	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-2006942	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-tn7
-tn8
-tn9
-tn10
-tn11
-tn12
-2006956	tn1
+2012175	tn1
 tn2
 tn3
 tn4
@@ -12405,8 +12350,7 @@ tn20
 tn21
 tn22
 tn23
-tn24
-2006982	tn1
+2012200	tn1
 tn2
 tn3
 tn4
@@ -12415,7 +12359,29 @@ tn6
 tn7
 tn8
 tn9
-2006993	tn1
+tn10
+tn11
+2012213	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+2012223	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2012237	tn1
 tn2
 tn3
 tn4
@@ -12439,7 +12405,7 @@ tn21
 tn22
 tn23
 tn24
-2007019	tn1
+2012263	tn1
 tn2
 tn3
 tn4
@@ -12448,15 +12414,7 @@ tn6
 tn7
 tn8
 tn9
-tn10
-tn11
-2007032	tn1
-tn2
-tn3
-tn4
-tn5
-tn6
-2007040	tn1
+2012274	tn1
 tn2
 tn3
 tn4
@@ -12468,7 +12426,48 @@ tn9
 tn10
 tn11
 tn12
-2007054	tn1
+tn13
+tn14
+tn15
+tn16
+tn17
+tn18
+tn19
+tn20
+tn21
+tn22
+tn23
+tn24
+2012300	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+2012313	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+2012321	tn1
+tn2
+tn3
+tn4
+tn5
+tn6
+tn7
+tn8
+tn9
+tn10
+tn11
+tn12
+2012335	tn1
 tn2
 tn3
 tn4
@@ -12496,7 +12495,7 @@ tn25
 tn26
 tn27
 tn28
-2007084	tn1
+2012365	tn1
 tn2
 tn3
 tn4
@@ -12511,13 +12510,13 @@ tn12
 tn13
 tn14
 tn15
-2007101	tn1
+2012382	tn1
 tn2
 tn3
 tn4
 tn5
 tn6
-2007111	tn1
+2012392	tn1
 tn2
 tn3
 tn4

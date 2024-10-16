@@ -19,9 +19,9 @@
 @valueType=str
 @version=1.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-10T17:47:01Z
+@dateWritten=2024-10-16T10:29:25Z
 
-1805950	ASVe, Senato, Dispacci, Signori Stati, Filza 2, 71r-74v
+1811223	ASVe, Senato, Dispacci, Signori Stati, Filza 2, 71r-74v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 75r-77v, 80r-v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 81r-86v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 87r-89v, 97r-v
@@ -636,8 +636,8 @@ ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 181r-186v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 187r-192v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 193r-v, 196r-197v, 200r-v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 201r-202v
+ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 203r-205v, 208r-v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 209r-210v, 217r-218v
-ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 201r-202v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 219r-222v, 225r-226v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 227r-230v
 ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 231r-233v, 236r-v

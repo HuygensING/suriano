@@ -23,7 +23,7 @@ from processhelpers import (
     LOGOINDIR,
     PAGEDIR,
     THUMBDIR,
-    SCANERRORS_TXT,
+    REPORT_SCANERRORS,
     Page,
     PageInfo,
 )
@@ -211,7 +211,7 @@ class Scans(PageInfo):
                 sh.write(row)
                 th.write(row)
 
-        with open(SCANERRORS_TXT, "w") as rh:
+        with open(REPORT_SCANERRORS, "w") as rh:
             for msg, items in sorted(errors.items()):
                 nFiles = len(items)
                 examples = ", ".join(items[0:3])
@@ -224,7 +224,7 @@ class Scans(PageInfo):
                     rh.write(f"\t{item}\n")
 
         nErrors = sum(len(x) for x in errors.values())
-        msg = f"there were {nErrors} errors, see {SCANERRORS_TXT}"
+        msg = f"there were {nErrors} errors, see {REPORT_SCANERRORS}"
         sep = "\t" if silent else ""
         console(f"{sep}\t{msg}\n", error=nErrors != 0)
 

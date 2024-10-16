@@ -67,10 +67,24 @@ We'll provide a tutorials for that, see below.
 
 The source data and the TEI that we derived from it and more is available on
 [SurfDrive (public readonly link)](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
+This does not include the original high resolution scans, since they are not
+available as a downloadable package. These scans are also at SurfDrive, but not
+accessible via a public link. If you are interested in these scans, contact Nina Lamal.
 
-There is an extensive
-[README](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT#editor)
-that describes the contents of that data.
+Note that (very) low resolution versions of these scans are provided in this repo:
+[scans](thumb).
+
+Many aspects of the curation process have been carried out by programs, in a rule-based
+way. These processes have produced a number of report files.
+
+There are extensive README files in the report directory.
+
+*   [README_DATASOURCE](report/README_DATASOURCE.md): description of the contents of
+    the
+    [datasource directory on SurfDrive](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT);
+*   [README_SCANS](report/README_SCANS.md): description of the contents of the
+    scan directory on SurfDrive;
+*   [README](report/README.md): description of the report files.
 
 # How to operate this repo (and the tutorial)
 

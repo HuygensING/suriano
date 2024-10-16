@@ -75,26 +75,26 @@ from processhelpers import (
     SUMMARY_FILE,
     DOCXDIR,
     TEIXDIR,
-    PAGETRANSCRIBER_TSV,
+    REPORT_TRANSCRIBERS_PAGE,
     TRANS_TXT,
-    HEADERS_TXT,
-    PAGEINFO_TXT,
-    METAMARKS_TXT,
-    DECODIFIED_TXT,
-    DISPLACED_TXT,
-    FOOTNOTES_TXT,
-    FOOTNOTESUT_TXT,
-    FOOTNOTESEX_TXT,
-    SCANTRANS_TSV,
+    REPORT_HEADERS,
+    REPORT_PAGEINFO,
+    REPORT_METAMARKS,
+    REPORT_DECODIFIED,
+    REPORT_DISPLACED,
+    REPORT_FOOTNOTES,
+    REPORT_FOOTNOTES_UNTRANS,
+    REPORT_FOOTNOTES_EXAMPLES,
+    REPORT_PAGESCAN,
     TEIDIR,
     REPORT_THUMBERRORS,
     REPORT_THUMBPAGES,
     REPORT_WARNINGS,
     REPORT_PAGEWARNINGS,
-    PAGESEQ_JSON,
-    LETTERTRANSCRIBER_TXT,
-    LETTERMETA_YML,
-    LETTERDATE_YML,
+    REPORT_PAGESEQ,
+    REPORT_TRANSCRIBERS_LETTER,
+    REPORT_LETTER_META,
+    REPORT_LETTER_DATE,
     PageInfo,
     Page,
     distilPages,
@@ -115,6 +115,7 @@ SENDERLOC = "senderLoc"
 RECIPIENT = "recipient"
 RECIPIENTLOC = "recipientLoc"
 SUMMARY = "summary"
+ATTACHMENTS = "attachments"
 EDITORNOTES = "editorNotes"
 RESOURCES = "resources"
 SHELFMARK = "shelfmark"
@@ -179,7 +180,7 @@ TEMPLATE = """\
 </fileDesc>
 <profileDesc>
     <correspDesc>
-        <note>{summary}</note>
+        <note>{summary} {attachments}</note>
         <correspAction type="sent">
             <name ref="bio.xml#cs">{sender}</name>
             <settlement>{senderLoc}</settlement>
@@ -331,6 +332,7 @@ class TeiFromDocx(PageInfo):
         recipientI = fields[RECIPIENT]
         recipientLocI = fields[RECIPIENTLOC]
         summaryI = fields[SUMMARY]
+        attachmentsI = fields[ATTACHMENTS]
         editorNotesI = fields[EDITORNOTES]
         resourcesI = fields[RESOURCES]
         shelfmarkI = fields[SHELFMARK]
@@ -362,6 +364,7 @@ class TeiFromDocx(PageInfo):
             recipient = fs(row, recipientI)
             recipientLoc = fs(row, recipientLocI)
             summary = fs(row, summaryI)
+            attachments = fs(row, attachmentsI)
             editorNotes = fs(row, editorNotesI)
             resources = fs(row, resourcesI)
             sep = (
@@ -381,6 +384,7 @@ class TeiFromDocx(PageInfo):
                     recipient=recipient,
                     recipientLoc=recipientLoc,
                     summary=summary,
+                    attachments=attachments,
                     editorNotes=f"{editorNotes}{sep}{resources}",
                     shelfmark=shelfmark,
                 )
@@ -900,9 +904,7 @@ class TeiFromDocx(PageInfo):
                         self.warn(filza, letter, textNum, ln, line, warning)
                         newTextLines.append(f"""<div type="{LETTER}">""")
 
-                divLine, head = makeSubDiv(
-                    target, textKind, romanNum, textNum, MAIN
-                )
+                divLine, head = makeSubDiv(target, textKind, romanNum, textNum, MAIN)
                 newTextLines.append(divLine)
                 curHead = head
 
@@ -1016,6 +1018,7 @@ class TeiFromDocx(PageInfo):
             recipient = ""
             recipientLoc = ""
             summary = ""
+            attachments = ""
             editorNotes = ""
             shelfmark = ""
         else:
@@ -1024,6 +1027,7 @@ class TeiFromDocx(PageInfo):
             recipient = extraData[RECIPIENT]
             recipientLoc = extraData[RECIPIENTLOC]
             summary = extraData[SUMMARY]
+            attachments = extraData[ATTACHMENTS]
             editorNotes = extraData[EDITORNOTES]
             shelfmark = extraData[SHELFMARK]
 
@@ -1036,6 +1040,7 @@ class TeiFromDocx(PageInfo):
                 shelfmark=shelfmark,
                 editorNotes=editorNotes,
                 summary=summary,
+                attachments=attachments,
             )
         )
 
@@ -1054,6 +1059,7 @@ class TeiFromDocx(PageInfo):
             recipient=recipient,
             recipientLoc=recipientLoc,
             summary=summary,
+            attachments=attachments,
             editorNotes=editorNotes,
             shelfmark=shelfmark,
             notes="\n".join(notes),
@@ -1185,11 +1191,11 @@ class TeiFromDocx(PageInfo):
         else:
             console(f"\t{msg}", error=wrongHeaders > 0)
 
-        with open(HEADERS_TXT, "w") as rh:
+        with open(REPORT_HEADERS, "w") as rh:
             for text, n in sorted(headerTexts.items()):
                 rh.write(f"{n:>3} x «{text}»\n")
 
-        with open(PAGETRANSCRIBER_TSV, "w") as rh:
+        with open(REPORT_TRANSCRIBERS_PAGE, "w") as rh:
             for filza in sorted(transcriberInfo):
                 pages = transcriberInfo[filza]
 
@@ -1219,7 +1225,7 @@ class TeiFromDocx(PageInfo):
 
         console("Collecting transcribers ...")
 
-        with open(PAGETRANSCRIBER_TSV) as rh:
+        with open(REPORT_TRANSCRIBERS_PAGE) as rh:
             for line in rh:
                 (filza, pageStr, transcribers) = line.rstrip("\n").split("\t")
                 page = Page.parse(pageStr, kind="log")
@@ -1331,7 +1337,7 @@ class TeiFromDocx(PageInfo):
 
         allFilzas = set(pageTrans) | set(pageScans)
 
-        with open(SCANTRANS_TSV, "w") as rh:
+        with open(REPORT_PAGESCAN, "w") as rh:
             rh.write("filza\tpage\tstatus\ttrans\tscan\n")
 
             for filza in sorted(allFilzas):
@@ -1405,7 +1411,7 @@ class TeiFromDocx(PageInfo):
             console(msgScansGood)
             console(msgScansBad, error=noScansBad > 0)
             console(msgTrans, error=noTrans > 0)
-            console(f"See {SCANTRANS_TSV}", error=noTrans > 0 or noScansBad > 0)
+            console(f"See {REPORT_PAGESCAN}", error=noTrans > 0 or noScansBad > 0)
 
     def readTransTable(self):
         editorialTrans = {}
@@ -1568,9 +1574,9 @@ class TeiFromDocx(PageInfo):
                 with open(f"{TEIDIR}/{filza}/{letter}.xml", "w") as f:
                     f.write(letterText)
 
-        writeJson(pageSeq, asFile=PAGESEQ_JSON)
+        writeJson(pageSeq, asFile=REPORT_PAGESEQ)
 
-        with open(METAMARKS_TXT, "w") as rh:
+        with open(REPORT_METAMARKS, "w") as rh:
             knownMarks = collections.Counter()
             unknownMarks = collections.Counter()
 
@@ -1643,7 +1649,7 @@ class TeiFromDocx(PageInfo):
 
                         rh.write(f"\t{prefix}{mat}\n")
 
-        with open(DECODIFIED_TXT, "w") as rh:
+        with open(REPORT_DECODIFIED, "w") as rh:
             for filza in sorted(decodified):
                 rh.write(f"\nFilza {filza}\n")
                 pageData = decodified[filza]
@@ -1653,7 +1659,7 @@ class TeiFromDocx(PageInfo):
                         prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
                         rh.write(f"\t{prefix}{mat}\n")
 
-        with open(DISPLACED_TXT, "w") as rh:
+        with open(REPORT_DISPLACED, "w") as rh:
             for filza in sorted(displaceds):
                 rh.write(f"\nFilza {filza}\n")
                 pageData = displaceds[filza]
@@ -1663,7 +1669,7 @@ class TeiFromDocx(PageInfo):
                         prefix = f"{page:<7}: " if i == 0 else f"{'':<9}"
                         rh.write(f"\t{prefix}{mat}\n")
 
-        with open(FOOTNOTES_TXT, "w") as rh:
+        with open(REPORT_FOOTNOTES, "w") as rh:
             for filza in sorted(notesLog):
                 rh.write(f"\nFilza {filza}\n")
                 pageData = notesLog[filza]
@@ -1680,7 +1686,9 @@ class TeiFromDocx(PageInfo):
                             rh.write(f"""\t\t\tIT: {noteIt}\n""")
                             rh.write(f"""\t\t\tEN: {noteEn}\n""")
 
-        with open(FOOTNOTESUT_TXT, "w") as rh, open(FOOTNOTESEX_TXT, "w") as xh:
+        with open(REPORT_FOOTNOTES_UNTRANS, "w") as rh, open(
+            REPORT_FOOTNOTES_EXAMPLES, "w"
+        ) as xh:
             nUntrans = 0
             totUntrans = 0
             nTrans = 0
@@ -1725,7 +1733,7 @@ class TeiFromDocx(PageInfo):
                     error=True,
                 )
 
-        with open(PAGEINFO_TXT, "w") as rh:
+        with open(REPORT_PAGEINFO, "w") as rh:
             for filza in sorted(pageInfo):
                 rh.write(f"Filza {filza}\n")
                 filzaPages = self.filzaPages[filza]
@@ -1837,15 +1845,15 @@ class TeiFromDocx(PageInfo):
                             letter=letter,
                         )
 
-        with open(LETTERTRANSCRIBER_TXT, "w") as lh:
+        with open(REPORT_TRANSCRIBERS_LETTER, "w") as lh:
             for filza, letterInfo in sorted(letterTranscribers.items()):
                 lh.write(f"\nFilza {filza}\n\n")
                 for letter, transcribers in sorted(letterInfo.items()):
                     tRep = ", ".join(sorted(transcribers))
                     lh.write(f"\t{letter} {tRep}\n")
 
-        writeYaml(letterDate, asFile=LETTERDATE_YML)
-        writeYaml(extraLog, asFile=LETTERMETA_YML)
+        writeYaml(letterDate, asFile=REPORT_LETTER_DATE)
+        writeYaml(extraLog, asFile=REPORT_LETTER_META)
 
         dateFilza = {}
 

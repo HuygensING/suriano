@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-10T17:47:01Z
+@dateWritten=2024-10-16T10:29:25Z
 @description=Place from where the letter was sent
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,13 +21,13 @@
 @version=1.0.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-14T11:07:12Z
+@dateWritten=2024-10-16T11:15:19Z
 
-1805950	Stuttgart
+1811223	Stuttgart
 Stuttgart
 Heidelberg
-Ilshoven
-Ilshoven
+Ilshofen
+Ilshofen
 Ansbach
 Nuremberg
 Nuremberg

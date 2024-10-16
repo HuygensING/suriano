@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-10T17:47:01Z
+@dateWritten=2024-10-16T10:29:25Z
 @description=this is TEI attribute facs
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,18 +21,18 @@
 @version=1.0.1e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-14T11:07:11Z
+@dateWritten=2024-10-16T11:15:18Z
 
-1801078	main text of letter
+1806351	main text of letter
 secretarial text of letter
-1801082	main text of letter
+1806355	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1801089	main text of letter
+1806362	main text of letter
 secretarial text of letter
-1801093	main text of letter
+1806366	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -43,57 +43,37 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1801106	main text of letter
+1806379	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801111	I
+1806384	I
 main text of attachment I
-1801114	main text of letter
+1806387	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1801119	I
+1806392	I
 main text of attachment I
-1801122	main text of letter
+1806395	main text of letter
 secretarial text of letter
-1801125	I
+1806398	I
 main text of attachment I
-1801128	main text of letter
+1806401	main text of letter
 secretarial text of letter
-1801132	main text of letter
+1806405	main text of letter
 secretarial text of letter
-1801136	main text of letter
+1806409	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801141	I
+1806414	I
 main text of attachment I
-1801144	main text of letter
+1806417	main text of letter
 secretarial text of letter
-1801148	main text of letter
+1806421	main text of letter
 secretarial text of letter
-1801152	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1801162	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801168	main text of letter
-secretarial text of letter
-1801172	main text of letter
-secretarial text of letter
-1801175	I
-main text of attachment I
-1801178	main text of letter
-secretarial text of letter
-1801182	main text of letter
+1806425	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -101,27 +81,19 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801192	main text of letter
-secretarial text of letter
-1801195	I
-main text of attachment I
-1801198	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1801204	main text of letter
-secretarial text of letter
-1801208	main text of letter
-secretarial text of letter
-1801212	main text of letter
+1806435	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801220	main text of letter
+1806441	main text of letter
 secretarial text of letter
-1801224	main text of letter
+1806445	main text of letter
+secretarial text of letter
+1806448	I
+main text of attachment I
+1806451	main text of letter
+secretarial text of letter
+1806455	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -129,7 +101,27 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801234	main text of letter
+1806465	main text of letter
+secretarial text of letter
+1806468	I
+main text of attachment I
+1806471	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1806477	main text of letter
+secretarial text of letter
+1806481	main text of letter
+secretarial text of letter
+1806485	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1806493	main text of letter
+secretarial text of letter
+1806497	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -137,25 +129,7 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801244	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801250	main text of letter
-secretarial text of letter
-1801254	main text of letter
-secretarial text of letter
-1801258	main text of letter
-secretarial text of letter
-1801262	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801268	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801274	main text of letter
+1806507	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -163,23 +137,49 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801284	main text of letter
+1806517	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801290	main text of letter
+1806523	main text of letter
+secretarial text of letter
+1806527	main text of letter
+secretarial text of letter
+1806531	main text of letter
+secretarial text of letter
+1806535	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806541	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806547	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1806557	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806563	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1801295	I
+1806568	I
 main text of attachment I
-1801298	main text of letter
+1806571	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1801306	main text of letter
+1806579	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -189,23 +189,23 @@ main text of attachment II
 secretarial text of attachment II
 I
 main text of attachment I
-1801318	main text of letter
+1806591	main text of letter
 secretarial text of letter
-1801322	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801328	main text of letter
+1806595	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801333	I
+1806601	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1801336	main text of letter
+1806606	I
+main text of attachment I
+1806609	main text of letter
 secretarial text of letter
-1801340	main text of letter
+1806613	main text of letter
 secretarial text of letter
-1801344	main text of letter
+1806617	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -217,13 +217,13 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1801358	main text of letter
+1806631	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801366	main text of letter
+1806639	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -233,13 +233,13 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1801378	main text of letter
+1806651	main text of letter
 secretarial text of letter
-1801382	main text of letter
+1806655	main text of letter
 secretarial text of letter
-1801386	main text of letter
+1806659	main text of letter
 secretarial text of letter
-1801390	main text of letter
+1806663	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -247,25 +247,25 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801400	main text of letter
+1806673	main text of letter
 secretarial text of letter
-1801404	main text of letter
+1806677	main text of letter
 secretarial text of letter
-1801408	main text of letter
+1806681	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801416	main text of letter
+1806689	main text of letter
 secretarial text of letter
-1801420	main text of letter
+1806693	main text of letter
 secretarial text of letter
-1801424	main text of letter
+1806697	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801430	main text of letter
+1806703	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -279,99 +279,61 @@ V
 main text of attachment V
 VI
 main text of attachment VI
-1801446	main text of letter
+1806719	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801452	main text of letter
+1806725	main text of letter
 secretarial text of letter
-1801456	main text of letter
+1806729	main text of letter
 secretarial text of letter
-1801460	main text of letter
+1806733	main text of letter
 secretarial text of letter
-1801464	main text of letter
+1806737	main text of letter
 secretarial text of letter
-1801468	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801474	main text of letter
-secretarial text of letter
-1801478	main text of letter
-secretarial text of letter
-1801482	main text of letter
-secretarial text of letter
-1801486	main text of letter
-secretarial text of letter
-1801490	main text of letter
-secretarial text of letter
-1801494	main text of letter
-secretarial text of letter
-1801498	main text of letter
+1806741	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801504	main text of letter
+1806747	main text of letter
 secretarial text of letter
-1801508	main text of letter
+1806751	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1801514	main text of letter
+1806755	main text of letter
 secretarial text of letter
-1801518	main text of letter
+1806759	main text of letter
 secretarial text of letter
-1801522	main text of letter
+1806763	main text of letter
 secretarial text of letter
-1801526	main text of letter
+1806767	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1801532	main text of letter
-secretarial text of letter
-1801536	main text of letter
+1806771	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801542	main text of letter
+1806777	main text of letter
+secretarial text of letter
+1806781	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1801552	main text of letter
+1806787	main text of letter
+secretarial text of letter
+1806791	main text of letter
+secretarial text of letter
+1806795	main text of letter
+secretarial text of letter
+1806799	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801558	main text of letter
+1806805	main text of letter
+secretarial text of letter
+1806809	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801566	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801572	main text of letter
-secretarial text of letter
-1801576	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801582	main text of letter
-secretarial text of letter
-1801586	main text of letter
-secretarial text of letter
-1801590	main text of letter
-secretarial text of letter
-1801594	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801600	main text of letter
+1806815	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -379,126 +341,164 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801610	main text of letter
+1806825	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801616	main text of letter
-secretarial text of letter
-1801620	main text of letter
-secretarial text of letter
-1801624	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801630	main text of letter
-secretarial text of letter
-1801634	main text of letter
-secretarial text of letter
-1801638	main text of letter
-secretarial text of letter
-1801642	main text of letter
-secretarial text of letter
-1801646	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801652	main text of letter
-secretarial text of letter
-1801656	main text of letter
+1806831	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801664	main text of letter
-secretarial text of letter
-1801668	main text of letter
-secretarial text of letter
-1801672	main text of letter
-secretarial text of letter
-1801676	main text of letter
+1806839	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801682	main text of letter
+1806845	main text of letter
 secretarial text of letter
-1801686	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801692	main text of letter
-secretarial text of letter
-1801696	main text of letter
+1806849	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801702	main text of letter
+1806855	main text of letter
 secretarial text of letter
-1801706	main text of letter
+1806859	main text of letter
 secretarial text of letter
-1801710	main text of letter
+1806863	main text of letter
 secretarial text of letter
-1801714	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801720	main text of letter
-secretarial text of letter
-1801724	main text of letter
+1806867	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801730	main text of letter
-secretarial text of letter
-1801734	main text of letter
+1806873	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801740	main text of letter
+II
+main text of attachment II
+III
+main text of attachment III
+1806883	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806889	main text of letter
+secretarial text of letter
+1806893	main text of letter
+secretarial text of letter
+1806897	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806903	main text of letter
+secretarial text of letter
+1806907	main text of letter
+secretarial text of letter
+1806911	main text of letter
+secretarial text of letter
+1806915	main text of letter
+secretarial text of letter
+1806919	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806925	main text of letter
+secretarial text of letter
+1806929	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1806937	main text of letter
+secretarial text of letter
+1806941	main text of letter
+secretarial text of letter
+1806945	main text of letter
+secretarial text of letter
+1806949	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806955	main text of letter
+secretarial text of letter
+1806959	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806965	main text of letter
+secretarial text of letter
+1806969	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806975	main text of letter
+secretarial text of letter
+1806979	main text of letter
+secretarial text of letter
+1806983	main text of letter
+secretarial text of letter
+1806987	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1806993	main text of letter
+secretarial text of letter
+1806997	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807003	main text of letter
+secretarial text of letter
+1807007	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807013	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1801746	I
+1807019	I
 main text of attachment I
 II
 main text of attachment II
 III
 main text of attachment III
-1801753	main text of letter
+1807026	main text of letter
 secretarial text of letter
-1801757	main text of letter
+1807030	main text of letter
 secretarial text of letter
-1801761	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801767	main text of letter
+1807034	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801773	main text of letter
+1807040	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801779	main text of letter
-secretarial text of letter
-1801783	main text of letter
+1807046	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1801791	main text of letter
+1807052	main text of letter
+secretarial text of letter
+1807056	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801799	main text of letter
+1807064	main text of letter
 secretarial text of letter
-1801803	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1807072	main text of letter
+secretarial text of letter
+1807076	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -506,108 +506,108 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801813	main text of letter
+1807086	main text of letter
 secretarial text of letter
-1801817	main text of letter
+1807090	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801823	main text of letter
+1807096	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801831	main text of letter
+1807104	main text of letter
 secretarial text of letter
-1801835	main text of letter
+1807108	main text of letter
 secretarial text of letter
-1801839	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1801845	main text of letter
+1807112	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801851	main text of letter
-secretarial text of letter
-1801855	main text of letter
+1807118	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801861	main text of letter
+1807124	main text of letter
+secretarial text of letter
+1807128	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801867	main text of letter
-secretarial text of letter
-1801871	main text of letter
+1807134	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801877	main text of letter
+1807140	main text of letter
+secretarial text of letter
+1807144	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801883	main text of letter
+1807150	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801889	main text of letter
+1807156	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801895	main text of letter
-secretarial text of letter
-1801899	main text of letter
+1807162	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801905	main text of letter
+1807168	main text of letter
+secretarial text of letter
+1807172	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801911	main text of letter
+1807178	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801917	main text of letter
-secretarial text of letter
-1801921	main text of letter
-secretarial text of letter
-1801925	main text of letter
-secretarial text of letter
-1801929	main text of letter
-secretarial text of letter
-1801933	main text of letter
-secretarial text of letter
-1801937	main text of letter
+1807184	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801943	main text of letter
+1807190	main text of letter
 secretarial text of letter
-1801947	main text of letter
+1807194	main text of letter
+secretarial text of letter
+1807198	main text of letter
+secretarial text of letter
+1807202	main text of letter
+secretarial text of letter
+1807206	main text of letter
+secretarial text of letter
+1807210	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801953	main text of letter
+1807216	main text of letter
+secretarial text of letter
+1807220	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1801959	main text of letter
+1807226	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807232	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
 secretarial text of attachment II
-1801968	main text of letter
+1807241	main text of letter
 secretarial text of letter
-1801972	main text of letter
+1807245	main text of letter
 secretarial text of letter
-1801976	main text of letter
+1807249	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -615,61 +615,61 @@ II
 main text of attachment II
 III
 main text of attachment III
-1801986	main text of letter
+1807259	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1801994	main text of letter
+1807267	main text of letter
 secretarial text of letter
-1801998	main text of letter
+1807271	main text of letter
 secretarial text of letter
-1802002	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802008	main text of letter
+1807275	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802014	main text of letter
+1807281	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1802021	I
-main text of attachment I
-1802024	main text of letter
-secretarial text of letter
-1802028	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802034	main text of letter
+1807287	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802042	main text of letter
+1807294	I
+main text of attachment I
+1807297	main text of letter
 secretarial text of letter
-1802046	main text of letter
-secretarial text of letter
-1802050	main text of letter
-secretarial text of letter
-1802054	main text of letter
-secretarial text of letter
-1802058	main text of letter
-secretarial text of letter
-1802062	main text of letter
+1807301	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802067	I
+1807307	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1802070	main text of letter
+II
+main text of attachment II
+1807315	main text of letter
+secretarial text of letter
+1807319	main text of letter
+secretarial text of letter
+1807323	main text of letter
+secretarial text of letter
+1807327	main text of letter
+secretarial text of letter
+1807331	main text of letter
+secretarial text of letter
+1807335	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807340	I
+main text of attachment I
+1807343	main text of letter
 secretarial text of letter
 II
 main text of attachment II
@@ -679,44 +679,44 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1802082	main text of letter
+1807355	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802087	I
+1807360	I
 main text of attachment I
-1802090	main text of letter
+1807363	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1802096	main text of letter
+1807369	main text of letter
 secretarial text of letter
-1802100	main text of letter
+1807373	main text of letter
 secretarial text of letter
-1802104	main text of letter
-1802107	main text of letter
+1807377	main text of letter
+1807380	main text of letter
 secretarial text of letter
-1802111	main text of letter
+1807384	main text of letter
 secretarial text of letter
-1802115	main text of letter
+1807388	main text of letter
 secretarial text of letter
-1802119	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802125	main text of letter
+1807392	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802131	main text of letter
+1807398	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802137	main text of letter
+1807404	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802143	main text of letter
+1807410	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807416	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -724,81 +724,81 @@ II
 main text of attachment II
 III
 main text of attachment III
-1802153	main text of letter
+1807426	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802159	main text of letter
+1807432	main text of letter
 secretarial text of letter
-1802163	main text of letter
+1807436	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802168	I
+1807441	I
 main text of attachment I
-1802171	main text of letter
+1807444	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1802177	main text of letter
+1807450	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802183	main text of letter
+1807456	main text of letter
 secretarial text of letter
-1802187	main text of letter
+1807460	main text of letter
 secretarial text of letter
-1802191	main text of letter
+1807464	main text of letter
 secretarial text of letter
-1802195	main text of letter
+1807468	main text of letter
 secretarial text of letter
-1802199	main text of letter
+1807472	main text of letter
 secretarial text of letter
-1802203	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802209	main text of letter
-secretarial text of letter
-1802213	main text of letter
-secretarial text of letter
-1802217	main text of letter
-secretarial text of letter
-1802221	main text of letter
+1807476	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1802229	main text of letter
+1807482	main text of letter
+secretarial text of letter
+1807486	main text of letter
+secretarial text of letter
+1807490	main text of letter
+secretarial text of letter
+1807494	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802237	main text of letter
-secretarial text of letter
-1802241	main text of letter
-1802244	main text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802251	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802257	main text of letter
-secretarial text of letter
-1802261	main text of letter
-secretarial text of letter
-1802265	main text of letter
+1807502	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802273	main text of letter
+1807510	main text of letter
+secretarial text of letter
+1807514	main text of letter
+1807517	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1807524	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807530	main text of letter
+secretarial text of letter
+1807534	main text of letter
+secretarial text of letter
+1807538	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1807546	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -811,67 +811,67 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1802288	main text of letter
+1807561	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802294	main text of letter
+1807567	main text of letter
 secretarial text of letter
-1802298	main text of letter
+1807571	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802306	main text of letter
+1807579	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802312	main text of letter
+1807585	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802318	main text of letter
+1807591	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802324	main text of letter
+1807597	main text of letter
 secretarial text of letter
-1802328	main text of letter
+1807601	main text of letter
 secretarial text of letter
-1802332	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802338	main text of letter
-secretarial text of letter
-1802342	main text of letter
-secretarial text of letter
-1802346	main text of letter
-secretarial text of letter
-1802350	main text of letter
-secretarial text of letter
-1802354	main text of letter
-secretarial text of letter
-1802358	main text of letter
-secretarial text of letter
-1802362	main text of letter
-secretarial text of letter
-1802366	main text of letter
+1807605	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802372	main text of letter
+1807611	main text of letter
 secretarial text of letter
-1802376	main text of letter
+1807615	main text of letter
 secretarial text of letter
-1802380	main text of letter
+1807619	main text of letter
 secretarial text of letter
-1802384	main text of letter
+1807623	main text of letter
 secretarial text of letter
-1802388	main text of letter
+1807627	main text of letter
 secretarial text of letter
-1802392	main text of letter
+1807631	main text of letter
+secretarial text of letter
+1807635	main text of letter
+secretarial text of letter
+1807639	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807645	main text of letter
+secretarial text of letter
+1807649	main text of letter
+secretarial text of letter
+1807653	main text of letter
+secretarial text of letter
+1807657	main text of letter
+secretarial text of letter
+1807661	main text of letter
+secretarial text of letter
+1807665	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -893,9 +893,9 @@ IX
 main text of attachment IX
 X
 main text of attachment X
-1802416	main text of letter
+1807689	main text of letter
 secretarial text of letter
-1802420	main text of letter
+1807693	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -915,11 +915,11 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1802442	main text of letter
+1807715	main text of letter
 secretarial text of letter
-1802446	main text of letter
+1807719	main text of letter
 secretarial text of letter
-1802450	main text of letter
+1807723	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -931,7 +931,7 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1802464	main text of letter
+1807737	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -948,9 +948,9 @@ VI
 main text of attachment VI
 I
 main text of attachment I
-1802483	main text of letter
+1807756	main text of letter
 secretarial text of letter
-1802487	main text of letter
+1807760	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -958,41 +958,41 @@ II
 main text of attachment II
 III
 main text of attachment III
-1802497	main text of letter
+1807770	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802505	main text of letter
+1807778	main text of letter
 secretarial text of letter
-1802509	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802517	main text of letter
+1807782	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802525	main text of letter
+1807790	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802533	main text of letter
-secretarial text of letter
-1802537	main text of letter
+1807798	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802543	main text of letter
+II
+main text of attachment II
+1807806	main text of letter
 secretarial text of letter
-1802546	I
+1807810	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1807816	main text of letter
+secretarial text of letter
+1807819	I
 main text of attachment I
 II
 main text of attachment II
@@ -1000,57 +1000,47 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1802555	main text of letter
+1807828	main text of letter
 secretarial text of letter
 V
 main text of attachment V
-1802560	I
+1807833	I
 main text of attachment I
-1802563	main text of letter
+1807836	main text of letter
 secretarial text of letter
-1802567	main text of letter
+1807840	main text of letter
 secretarial text of letter
-1802571	main text of letter
+1807844	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802578	I
+1807851	I
 main text of attachment I
-1802581	main text of letter
+1807854	main text of letter
 secretarial text of letter
-1802585	main text of letter
+1807858	main text of letter
 secretarial text of letter
-1802589	main text of letter
+1807862	main text of letter
 secretarial text of letter
-1802593	main text of letter
+1807866	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802599	main text of letter
+1807872	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802605	main text of letter
+1807878	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1802611	main text of letter
+1807884	main text of letter
 secretarial text of letter
-1802615	main text of letter
+1807888	main text of letter
 secretarial text of letter
-1802619	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1802631	main text of letter
+1807892	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1060,31 +1050,7 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1802643	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802649	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802657	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-1802667	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802675	main text of letter
+1807904	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1094,52 +1060,31 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-V
-main text of attachment V
-VI
-main text of attachment VI
-1802691	main text of letter
-secretarial text of letter
-1802695	main text of letter
-secretarial text of letter
-1802699	main text of letter
+1807916	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-secretarial text of attachment I
-1802706	main text of letter
-secretarial text of letter
-1802710	main text of letter
-secretarial text of letter
-1802714	main text of letter
-secretarial text of letter
-1802718	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802724	main text of letter
-secretarial text of letter
-1802728	main text of letter
-secretarial text of letter
-1802732	main text of letter
+1807922	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1802740	main text of letter
+1807930	main text of letter
 secretarial text of letter
-1802744	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1807940	main text of letter
 secretarial text of letter
-1802748	main text of letter
-secretarial text of letter
-1802752	main text of letter
-secretarial text of letter
-1802756	main text of letter
-secretarial text of letter
-1802760	main text of letter
-secretarial text of letter
-1802764	main text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1807948	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1149,314 +1094,293 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1802776	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-secretarial text of attachment I
-1802783	main text of letter
-secretarial text of letter
-1802787	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1802799	main text of letter
-secretarial text of letter
-1802803	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802811	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802819	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802825	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802833	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802841	main text of letter
-secretarial text of letter
-1802845	main text of letter
-secretarial text of letter
-1802849	main text of letter
-secretarial text of letter
-1802853	main text of letter
-secretarial text of letter
-1802857	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802863	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1802869	main text of letter
-secretarial text of letter
-1802873	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1802881	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802887	main text of letter
-secretarial text of letter
-1802891	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802897	main text of letter
-secretarial text of letter
-1802901	main text of letter
-secretarial text of letter
-1802905	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802911	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-V
-main text of attachment V
-1802925	main text of letter
-secretarial text of letter
-1802929	main text of letter
-secretarial text of letter
-1802933	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-secretarial text of attachment I
-1802940	main text of letter
-secretarial text of letter
-1802944	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802950	main text of letter
-secretarial text of letter
-1802954	main text of letter
-secretarial text of letter
-1802958	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802964	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802970	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802976	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1802981	I
-main text of attachment I
-1802984	main text of letter
-secretarial text of letter
-1802988	main text of letter
-secretarial text of letter
-1802991	I
-main text of attachment I
-1802994	main text of letter
-secretarial text of letter
-1802997	I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-V
-main text of attachment V
-1803008	main text of letter
-secretarial text of letter
-1803011	I
-main text of attachment I
-1803014	main text of letter
-secretarial text of letter
-1803018	main text of letter
-secretarial text of letter
-1803022	main text of letter
-secretarial text of letter
-1803025	I
-main text of attachment I
-1803028	main text of letter
-secretarial text of letter
-1803031	I
-main text of attachment I
-secretarial text of attachment I
-1803035	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1803041	main text of letter
-secretarial text of letter
-1803045	main text of letter
-secretarial text of letter
-1803049	main text of letter
-secretarial text of letter
-1803053	main text of letter
-secretarial text of letter
-1803057	main text of letter
-secretarial text of letter
-1803061	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803067	main text of letter
-secretarial text of letter
-1803071	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803076	I
-main text of attachment I
-1803079	main text of letter
-secretarial text of letter
-1803083	main text of letter
-secretarial text of letter
-1803087	main text of letter
-I
-main text of attachment I
-1803092	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803098	main text of letter
-secretarial text of letter
-1803101	I
-main text of attachment I
-1803104	main text of letter
-secretarial text of letter
-1803108	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1803115	I
-main text of attachment I
-II
-main text of attachment II
-III
-main text of attachment III
-IV
-main text of attachment IV
-1803124	main text of letter
-secretarial text of letter
 V
 main text of attachment V
 VI
 main text of attachment VI
-VII
-main text of attachment VII
-VIII
-main text of attachment VIII
-IX
-main text of attachment IX
-1803138	main text of letter
+1807964	main text of letter
 secretarial text of letter
-1803142	main text of letter
+1807968	main text of letter
 secretarial text of letter
-1803145	I
-main text of attachment I
-1803148	main text of letter
-secretarial text of letter
-1803152	main text of letter
-secretarial text of letter
-1803156	main text of letter
-secretarial text of letter
-1803159	I
-main text of attachment I
-1803162	main text of letter
-secretarial text of letter
-1803166	main text of letter
-secretarial text of letter
-1803170	main text of letter
-secretarial text of letter
-1803174	main text of letter
-secretarial text of letter
-1803178	main text of letter
+1807972	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803183	I
-main text of attachment I
-1803186	main text of letter
+secretarial text of attachment I
+1807979	main text of letter
 secretarial text of letter
-1803190	main text of letter
+1807983	main text of letter
 secretarial text of letter
-1803194	main text of letter
+1807987	main text of letter
 secretarial text of letter
-1803198	main text of letter
+1807991	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803204	main text of letter
+1807997	main text of letter
 secretarial text of letter
-1803208	main text of letter
+1808001	main text of letter
 secretarial text of letter
-1803211	I
+1808005	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1803214	main text of letter
+II
+main text of attachment II
+1808013	main text of letter
 secretarial text of letter
-1803218	main text of letter
+1808017	main text of letter
 secretarial text of letter
-1803222	main text of letter
+1808021	main text of letter
 secretarial text of letter
-1803225	I
+1808025	main text of letter
+secretarial text of letter
+1808029	main text of letter
+secretarial text of letter
+1808033	main text of letter
+secretarial text of letter
+1808037	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1803228	main text of letter
-secretarial text of letter
-1803232	main text of letter
-secretarial text of letter
-1803235	I
-main text of attachment I
-1803238	main text of letter
-secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 IV
 main text of attachment IV
+1808049	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+secretarial text of attachment I
+1808056	main text of letter
+secretarial text of letter
+1808060	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+1808072	main text of letter
+secretarial text of letter
+1808076	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808084	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808092	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808098	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808106	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808114	main text of letter
+secretarial text of letter
+1808118	main text of letter
+secretarial text of letter
+1808122	main text of letter
+secretarial text of letter
+1808126	main text of letter
+secretarial text of letter
+1808130	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808136	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1808142	main text of letter
+secretarial text of letter
+1808146	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808154	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808160	main text of letter
+secretarial text of letter
+1808164	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808170	main text of letter
+secretarial text of letter
+1808174	main text of letter
+secretarial text of letter
+1808178	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808184	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+1808198	main text of letter
+secretarial text of letter
+1808202	main text of letter
+secretarial text of letter
+1808206	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+secretarial text of attachment I
+1808213	main text of letter
+secretarial text of letter
+1808217	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808223	main text of letter
+secretarial text of letter
+1808227	main text of letter
+secretarial text of letter
+1808231	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808237	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808243	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808249	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808254	I
+main text of attachment I
+1808257	main text of letter
+secretarial text of letter
+1808261	main text of letter
+secretarial text of letter
+1808264	I
+main text of attachment I
+1808267	main text of letter
+secretarial text of letter
+1808270	I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+1808281	main text of letter
+secretarial text of letter
+1808284	I
+main text of attachment I
+1808287	main text of letter
+secretarial text of letter
+1808291	main text of letter
+secretarial text of letter
+1808295	main text of letter
+secretarial text of letter
+1808298	I
+main text of attachment I
+1808301	main text of letter
+secretarial text of letter
+1808304	I
+main text of attachment I
+secretarial text of attachment I
+1808308	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1808314	main text of letter
+secretarial text of letter
+1808318	main text of letter
+secretarial text of letter
+1808322	main text of letter
+secretarial text of letter
+1808326	main text of letter
+secretarial text of letter
+1808330	main text of letter
+secretarial text of letter
+1808334	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808340	main text of letter
+secretarial text of letter
+1808344	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808349	I
+main text of attachment I
+1808352	main text of letter
+secretarial text of letter
+1808356	main text of letter
+secretarial text of letter
+1808360	main text of letter
+I
+main text of attachment I
+1808365	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808371	main text of letter
+secretarial text of letter
+1808374	I
+main text of attachment I
+1808377	main text of letter
+secretarial text of letter
+1808381	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808388	I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+IV
+main text of attachment IV
+1808397	main text of letter
+secretarial text of letter
 V
 main text of attachment V
 VI
@@ -1467,120 +1391,196 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1803258	main text of letter
+1808411	main text of letter
 secretarial text of letter
-1803261	I
+1808415	main text of letter
+secretarial text of letter
+1808418	I
 main text of attachment I
-1803264	main text of letter
+1808421	main text of letter
+secretarial text of letter
+1808425	main text of letter
+secretarial text of letter
+1808429	main text of letter
+secretarial text of letter
+1808432	I
+main text of attachment I
+1808435	main text of letter
+secretarial text of letter
+1808439	main text of letter
+secretarial text of letter
+1808443	main text of letter
+secretarial text of letter
+1808447	main text of letter
+secretarial text of letter
+1808451	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808456	I
+main text of attachment I
+1808459	main text of letter
+secretarial text of letter
+1808463	main text of letter
+secretarial text of letter
+1808467	main text of letter
+secretarial text of letter
+1808471	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808477	main text of letter
+secretarial text of letter
+1808481	main text of letter
+secretarial text of letter
+1808484	I
+main text of attachment I
+1808487	main text of letter
+secretarial text of letter
+1808491	main text of letter
+secretarial text of letter
+1808495	main text of letter
+secretarial text of letter
+1808498	I
+main text of attachment I
+1808501	main text of letter
+secretarial text of letter
+1808505	main text of letter
+secretarial text of letter
+1808508	I
+main text of attachment I
+1808511	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1803270	main text of letter
+III
+main text of attachment III
+IV
+main text of attachment IV
+V
+main text of attachment V
+VI
+main text of attachment VI
+VII
+main text of attachment VII
+VIII
+main text of attachment VIII
+IX
+main text of attachment IX
+1808531	main text of letter
 secretarial text of letter
-1803274	main text of letter
+1808534	I
+main text of attachment I
+1808537	main text of letter
 secretarial text of letter
-1803278	main text of letter
+II
+main text of attachment II
+1808543	main text of letter
+secretarial text of letter
+1808547	main text of letter
+secretarial text of letter
+1808551	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803284	main text of letter
+1808557	main text of letter
 secretarial text of letter
-1803288	main text of letter
+1808561	main text of letter
 secretarial text of letter
-1803292	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803297	I
-main text of attachment I
-1803300	main text of letter
-secretarial text of letter
-1803304	main text of letter
-secretarial text of letter
-1803308	main text of letter
-secretarial text of letter
-1803312	main text of letter
-secretarial text of letter
-1803316	main text of letter
+1808565	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803322	main text of letter
+1808570	I
+main text of attachment I
+1808573	main text of letter
+secretarial text of letter
+1808577	main text of letter
+secretarial text of letter
+1808581	main text of letter
+secretarial text of letter
+1808585	main text of letter
+secretarial text of letter
+1808589	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803328	main text of letter
+1808595	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808601	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1803334	I
+1808607	I
 main text of attachment I
 II
 main text of attachment II
-1803339	main text of letter
+1808612	main text of letter
 secretarial text of letter
-1803343	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803349	main text of letter
-secretarial text of letter
-1803353	main text of letter
-secretarial text of letter
-1803357	main text of letter
+1808616	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803363	main text of letter
+1808622	main text of letter
 secretarial text of letter
-1803367	main text of letter
+1808626	main text of letter
 secretarial text of letter
-1803371	main text of letter
+1808630	main text of letter
 secretarial text of letter
-1803375	main text of letter
+I
+main text of attachment I
+1808636	main text of letter
 secretarial text of letter
-1803379	main text of letter
+1808640	main text of letter
 secretarial text of letter
-1803383	main text of letter
+1808644	main text of letter
+secretarial text of letter
+1808648	main text of letter
+secretarial text of letter
+1808652	main text of letter
+secretarial text of letter
+1808656	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803391	main text of letter
+1808664	main text of letter
 secretarial text of letter
-1803395	main text of letter
+1808668	main text of letter
 secretarial text of letter
-1803399	main text of letter
+1808672	main text of letter
 secretarial text of letter
-1803402	I
+1808675	I
 main text of attachment I
-1803405	main text of letter
+1808678	main text of letter
 secretarial text of letter
-1803409	main text of letter
+1808682	main text of letter
 secretarial text of letter
-1803413	main text of letter
+1808686	main text of letter
 secretarial text of letter
-1803417	main text of letter
+1808690	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803422	I
+1808695	I
 main text of attachment I
-1803425	main text of letter
+1808698	main text of letter
 secretarial text of letter
-1803429	main text of letter
+1808702	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803435	main text of letter
+1808708	main text of letter
 secretarial text of letter
-1803439	main text of letter
+1808712	main text of letter
 secretarial text of letter
-1803443	main text of letter
+1808716	main text of letter
 secretarial text of letter
-1803447	main text of letter
+1808720	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1588,25 +1588,25 @@ II
 main text of attachment II
 III
 main text of attachment III
-1803457	main text of letter
+1808730	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803463	main text of letter
+1808736	main text of letter
 secretarial text of letter
-1803467	main text of letter
+1808740	main text of letter
 secretarial text of letter
-1803471	main text of letter
+1808744	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803479	main text of letter
+1808752	main text of letter
 secretarial text of letter
-1803483	main text of letter
+1808756	main text of letter
 secretarial text of letter
-1803487	main text of letter
+1808760	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1616,25 +1616,25 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1803499	main text of letter
+1808772	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803507	main text of letter
+1808780	main text of letter
 secretarial text of letter
-1803511	main text of letter
+1808784	main text of letter
 secretarial text of letter
-1803515	main text of letter
+1808788	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803521	main text of letter
+1808794	main text of letter
 secretarial text of letter
-1803525	main text of letter
+1808798	main text of letter
 secretarial text of letter
-1803529	main text of letter
+1808802	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1643,136 +1643,136 @@ II
 main text of attachment II
 III
 main text of attachment III
-1803540	main text of letter
+1808813	main text of letter
 secretarial text of letter
-1803544	main text of letter
+1808817	main text of letter
 secretarial text of letter
-1803548	main text of letter
+1808821	main text of letter
 secretarial text of letter
-1803552	main text of letter
+1808825	main text of letter
 secretarial text of letter
-1803556	main text of letter
+1808829	main text of letter
 secretarial text of letter
-1803560	main text of letter
+1808833	main text of letter
 secretarial text of letter
-1803564	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1803572	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803578	main text of letter
-secretarial text of letter
-1803582	main text of letter
-secretarial text of letter
-1803586	main text of letter
-secretarial text of letter
-1803590	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803596	main text of letter
-secretarial text of letter
-1803600	main text of letter
-secretarial text of letter
-1803604	main text of letter
-secretarial text of letter
-1803608	main text of letter
+1808837	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803616	main text of letter
+1808845	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808851	main text of letter
+secretarial text of letter
+1808855	main text of letter
+secretarial text of letter
+1808859	main text of letter
+secretarial text of letter
+1808863	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808869	main text of letter
+secretarial text of letter
+1808873	main text of letter
+secretarial text of letter
+1808877	main text of letter
+secretarial text of letter
+1808881	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803624	main text of letter
+1808889	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803632	main text of letter
-secretarial text of letter
-1803636	main text of letter
-secretarial text of letter
-1803640	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803646	main text of letter
-secretarial text of letter
-1803650	main text of letter
-secretarial text of letter
-1803654	main text of letter
-secretarial text of letter
-1803658	main text of letter
-secretarial text of letter
-1803662	main text of letter
-secretarial text of letter
-1803666	main text of letter
-secretarial text of letter
-1803670	main text of letter
-secretarial text of letter
-1803674	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803680	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803686	main text of letter
-secretarial text of letter
-1803690	main text of letter
-secretarial text of letter
-1803694	main text of letter
-secretarial text of letter
-1803698	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803704	main text of letter
+1808897	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803712	main text of letter
+1808905	main text of letter
+secretarial text of letter
+1808909	main text of letter
+secretarial text of letter
+1808913	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803718	main text of letter
+1808919	main text of letter
 secretarial text of letter
-1803722	main text of letter
+1808923	main text of letter
+secretarial text of letter
+1808927	main text of letter
+secretarial text of letter
+1808931	main text of letter
+secretarial text of letter
+1808935	main text of letter
+secretarial text of letter
+1808939	main text of letter
+secretarial text of letter
+1808943	main text of letter
+secretarial text of letter
+1808947	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808953	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808959	main text of letter
+secretarial text of letter
+1808963	main text of letter
+secretarial text of letter
+1808967	main text of letter
+secretarial text of letter
+1808971	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808977	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1808985	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1808991	main text of letter
+secretarial text of letter
+1808995	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
 II
 main text of attachment II
-1803731	main text of letter
+1809004	main text of letter
 secretarial text of letter
-1803735	main text of letter
+1809008	main text of letter
 secretarial text of letter
-1803739	main text of letter
+1809012	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803745	main text of letter
+1809018	main text of letter
 secretarial text of letter
-1803749	main text of letter
+1809022	main text of letter
 secretarial text of letter
-1803753	main text of letter
+1809026	main text of letter
 secretarial text of letter
-1803757	main text of letter
+1809030	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1780,146 +1780,146 @@ II
 main text of attachment II
 III
 main text of attachment III
-1803767	main text of letter
+1809040	main text of letter
 secretarial text of letter
-1803771	main text of letter
+1809044	main text of letter
 secretarial text of letter
-1803775	main text of letter
+1809048	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803783	main text of letter
+1809056	main text of letter
 secretarial text of letter
-1803787	main text of letter
+1809060	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 secretarial text of attachment I
-1803794	main text of letter
+1809067	main text of letter
 secretarial text of letter
-1803798	main text of letter
+1809071	main text of letter
 secretarial text of letter
-1803802	main text of letter
+1809075	main text of letter
 secretarial text of letter
-1803806	main text of letter
+1809079	main text of letter
 secretarial text of letter
-1803810	main text of letter
+1809083	main text of letter
 secretarial text of letter
-1803814	main text of letter
+1809087	main text of letter
 secretarial text of letter
-1803818	main text of letter
+1809091	main text of letter
 secretarial text of letter
-1803822	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803828	main text of letter
-secretarial text of letter
-1803832	main text of letter
-secretarial text of letter
-1803836	main text of letter
+1809095	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803842	main text of letter
+1809101	main text of letter
+secretarial text of letter
+1809105	main text of letter
+secretarial text of letter
+1809109	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1803848	main text of letter
-secretarial text of letter
-1803852	main text of letter
-secretarial text of letter
-1803856	main text of letter
-secretarial text of letter
-1803860	main text of letter
+1809115	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1803868	main text of letter
+1809121	main text of letter
 secretarial text of letter
-1803872	main text of letter
+1809125	main text of letter
 secretarial text of letter
-1803876	main text of letter
+1809129	main text of letter
 secretarial text of letter
-1803880	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803886	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803892	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803898	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803904	main text of letter
-secretarial text of letter
-1803908	main text of letter
-secretarial text of letter
-1803912	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803917	I
-main text of attachment I
-1803920	main text of letter
-secretarial text of letter
-1803923	I
-main text of attachment I
-1803926	main text of letter
-secretarial text of letter
-1803929	I
-main text of attachment I
-1803932	main text of letter
-secretarial text of letter
-1803936	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803942	main text of letter
-secretarial text of letter
-1803945	I
-main text of attachment I
-1803948	main text of letter
-secretarial text of letter
-1803951	I
-main text of attachment I
-1803954	main text of letter
-secretarial text of letter
-1803958	main text of letter
-secretarial text of letter
-1803962	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1803968	main text of letter
-secretarial text of letter
-1803972	main text of letter
-secretarial text of letter
-1803976	main text of letter
+1809133	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1803984	main text of letter
+1809141	main text of letter
 secretarial text of letter
-1803988	main text of letter
+1809145	main text of letter
 secretarial text of letter
-1803992	main text of letter
+1809149	main text of letter
 secretarial text of letter
-1803996	main text of letter
+1809153	main text of letter
 secretarial text of letter
-1804000	main text of letter
+I
+main text of attachment I
+1809159	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809165	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809171	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809177	main text of letter
+secretarial text of letter
+1809181	main text of letter
+secretarial text of letter
+1809185	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809190	I
+main text of attachment I
+1809193	main text of letter
+secretarial text of letter
+1809196	I
+main text of attachment I
+1809199	main text of letter
+secretarial text of letter
+1809202	I
+main text of attachment I
+1809205	main text of letter
+secretarial text of letter
+1809209	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809215	main text of letter
+secretarial text of letter
+1809218	I
+main text of attachment I
+1809221	main text of letter
+secretarial text of letter
+1809224	I
+main text of attachment I
+1809227	main text of letter
+secretarial text of letter
+1809231	main text of letter
+secretarial text of letter
+1809235	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809241	main text of letter
+secretarial text of letter
+1809245	main text of letter
+secretarial text of letter
+1809249	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1809257	main text of letter
+secretarial text of letter
+1809261	main text of letter
+secretarial text of letter
+1809265	main text of letter
+secretarial text of letter
+1809269	main text of letter
+secretarial text of letter
+1809273	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1929,55 +1929,55 @@ III
 main text of attachment III
 IV
 main text of attachment IV
-1804012	main text of letter
+1809285	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804018	main text of letter
+1809291	main text of letter
 secretarial text of letter
-1804021	I
+1809294	I
 main text of attachment I
-1804024	main text of letter
+1809297	main text of letter
 secretarial text of letter
-1804028	main text of letter
+1809301	main text of letter
 secretarial text of letter
-1804032	main text of letter
+1809305	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804038	main text of letter
+1809311	main text of letter
 secretarial text of letter
-1804042	main text of letter
+1809315	main text of letter
 secretarial text of letter
-1804046	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804052	main text of letter
+1809319	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804058	main text of letter
-secretarial text of letter
-1804062	main text of letter
+1809325	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804068	main text of letter
+1809331	main text of letter
 secretarial text of letter
-1804072	main text of letter
+1809335	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809341	main text of letter
+secretarial text of letter
+1809345	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804080	main text of letter
+1809353	main text of letter
 secretarial text of letter
-1804084	main text of letter
+1809357	main text of letter
 secretarial text of letter
-1804088	main text of letter
+1809361	main text of letter
 secretarial text of letter
-1804092	main text of letter
+1809365	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1985,7 +1985,7 @@ II
 main text of attachment II
 III
 main text of attachment III
-1804102	main text of letter
+1809375	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -1996,279 +1996,159 @@ main text of attachment III
 IV
 main text of attachment IV
 secretarial text of attachment IV
-1804115	main text of letter
+1809388	main text of letter
 secretarial text of letter
-1804119	main text of letter
+1809392	main text of letter
 secretarial text of letter
-1804123	main text of letter
+1809396	main text of letter
 secretarial text of letter
-1804127	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1804135	main text of letter
-secretarial text of letter
-1804139	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804145	main text of letter
-secretarial text of letter
-1804149	main text of letter
-secretarial text of letter
-1804153	main text of letter
-secretarial text of letter
-1804157	main text of letter
-secretarial text of letter
-1804161	main text of letter
-secretarial text of letter
-1804165	main text of letter
-secretarial text of letter
-1804169	main text of letter
-secretarial text of letter
-1804173	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804179	main text of letter
-secretarial text of letter
-1804183	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804189	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804195	main text of letter
-secretarial text of letter
-1804199	main text of letter
-secretarial text of letter
-1804203	main text of letter
+1809400	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804211	main text of letter
+1809408	main text of letter
 secretarial text of letter
-1804215	main text of letter
-secretarial text of letter
-1804218	I
-main text of attachment I
-1804221	main text of letter
-secretarial text of letter
-1804225	main text of letter
+1809412	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804231	main text of letter
+1809418	main text of letter
+secretarial text of letter
+1809422	main text of letter
+secretarial text of letter
+1809426	main text of letter
+secretarial text of letter
+1809430	main text of letter
+secretarial text of letter
+1809434	main text of letter
+secretarial text of letter
+1809438	main text of letter
+secretarial text of letter
+1809442	main text of letter
+secretarial text of letter
+1809446	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1804239	main text of letter
+1809452	main text of letter
+secretarial text of letter
+1809456	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804245	main text of letter
+1809462	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-II
-main text of attachment II
-1804253	main text of letter
+1809468	main text of letter
 secretarial text of letter
-1804257	main text of letter
+1809472	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1804263	main text of letter
-secretarial text of letter
-1804267	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804273	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804279	main text of letter
-secretarial text of letter
-1804283	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804288	I
-main text of attachment I
-1804291	main text of letter
-secretarial text of letter
-1804295	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804300	I
-main text of attachment I
-1804303	main text of letter
-secretarial text of letter
-II
-main text of attachment II
-1804309	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804315	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804321	main text of letter
-secretarial text of letter
-1804325	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804331	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804337	main text of letter
-secretarial text of letter
-1804341	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804347	main text of letter
+1809476	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804355	main text of letter
+1809484	main text of letter
 secretarial text of letter
-1804359	main text of letter
+1809488	main text of letter
+secretarial text of letter
+1809491	I
+main text of attachment I
+1809494	main text of letter
+secretarial text of letter
+1809498	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809504	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-III
-main text of attachment III
-1804369	main text of letter
+1809512	main text of letter
 secretarial text of letter
-1804373	main text of letter
-secretarial text of letter
-1804377	main text of letter
+I
+main text of attachment I
+1809518	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804385	main text of letter
+1809526	main text of letter
 secretarial text of letter
-1804389	main text of letter
+1809530	main text of letter
 secretarial text of letter
-1804393	main text of letter
-secretarial text of letter
-1804396	I
+I
 main text of attachment I
-1804399	main text of letter
+1809536	main text of letter
 secretarial text of letter
-1804403	main text of letter
+1809540	main text of letter
 secretarial text of letter
-1804406	I
+I
 main text of attachment I
-1804409	main text of letter
+1809546	main text of letter
 secretarial text of letter
-1804413	main text of letter
+I
+main text of attachment I
+1809552	main text of letter
 secretarial text of letter
-1804417	main text of letter
+1809556	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809561	I
+main text of attachment I
+1809564	main text of letter
+secretarial text of letter
+1809568	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809573	I
+main text of attachment I
+1809576	main text of letter
+secretarial text of letter
+II
+main text of attachment II
+1809582	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809588	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809594	main text of letter
+secretarial text of letter
+1809598	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809604	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809610	main text of letter
+secretarial text of letter
+1809614	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809620	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804425	main text of letter
+1809628	main text of letter
 secretarial text of letter
-1804429	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1804437	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804442	I
-main text of attachment I
-II
-main text of attachment II
-1804447	main text of letter
-secretarial text of letter
-1804451	main text of letter
-secretarial text of letter
-1804455	main text of letter
-secretarial text of letter
-1804459	main text of letter
-secretarial text of letter
-1804463	main text of letter
-secretarial text of letter
-1804467	main text of letter
-secretarial text of letter
-1804471	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804477	main text of letter
-secretarial text of letter
-1804481	main text of letter
-secretarial text of letter
-1804485	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1804492	I
-main text of attachment I
-1804495	main text of letter
-secretarial text of letter
-1804499	main text of letter
-secretarial text of letter
-1804503	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804509	main text of letter
-secretarial text of letter
-1804513	main text of letter
-secretarial text of letter
-1804517	main text of letter
-secretarial text of letter
-1804521	main text of letter
-secretarial text of letter
-1804525	main text of letter
-secretarial text of letter
-1804529	main text of letter
-secretarial text of letter
-1804533	main text of letter
-secretarial text of letter
-1804537	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-II
-main text of attachment II
-1804545	main text of letter
-secretarial text of letter
-1804549	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804555	main text of letter
+1809632	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2276,226 +2156,346 @@ II
 main text of attachment II
 III
 main text of attachment III
-1804565	main text of letter
+1809642	main text of letter
 secretarial text of letter
-I
-main text of attachment I
-1804571	main text of letter
+1809646	main text of letter
 secretarial text of letter
-1804575	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804581	main text of letter
-secretarial text of letter
-1804585	main text of letter
-secretarial text of letter
-1804589	main text of letter
-secretarial text of letter
-1804593	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804599	main text of letter
-secretarial text of letter
-1804602	I
-main text of attachment I
-1804605	main text of letter
-secretarial text of letter
-1804609	main text of letter
-secretarial text of letter
-1804613	main text of letter
-secretarial text of letter
-1804616	I
-main text of attachment I
-II
-main text of attachment II
-1804621	main text of letter
-secretarial text of letter
-1804625	main text of letter
-secretarial text of letter
-1804629	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804635	main text of letter
-secretarial text of letter
-1804639	main text of letter
-secretarial text of letter
-1804643	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804649	main text of letter
-secretarial text of letter
-1804653	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804659	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804665	main text of letter
-secretarial text of letter
-1804669	main text of letter
-secretarial text of letter
-1804673	main text of letter
-secretarial text of letter
-1804677	main text of letter
-secretarial text of letter
-1804681	main text of letter
-secretarial text of letter
-1804685	main text of letter
-secretarial text of letter
-1804689	main text of letter
-secretarial text of letter
-1804693	main text of letter
-secretarial text of letter
-1804697	main text of letter
-secretarial text of letter
-1804701	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804707	main text of letter
-secretarial text of letter
-1804711	main text of letter
-secretarial text of letter
-1804715	main text of letter
-secretarial text of letter
-1804719	main text of letter
-secretarial text of letter
-1804723	main text of letter
-secretarial text of letter
-1804727	main text of letter
-secretarial text of letter
-1804731	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804737	main text of letter
-secretarial text of letter
-1804741	main text of letter
-secretarial text of letter
-1804744	I
-main text of attachment I
-1804747	main text of letter
-secretarial text of letter
-1804751	main text of letter
-secretarial text of letter
-1804754	I
-main text of attachment I
-1804757	main text of letter
-secretarial text of letter
-1804760	I
-main text of attachment I
-1804763	main text of letter
-secretarial text of letter
-1804767	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804773	main text of letter
-secretarial text of letter
-1804777	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804783	main text of letter
-secretarial text of letter
-1804787	main text of letter
+1809650	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804795	main text of letter
+1809658	main text of letter
 secretarial text of letter
-1804799	main text of letter
+1809662	main text of letter
 secretarial text of letter
-1804803	main text of letter
+1809666	main text of letter
 secretarial text of letter
-1804807	main text of letter
+1809669	I
+main text of attachment I
+1809672	main text of letter
+secretarial text of letter
+1809676	main text of letter
+secretarial text of letter
+1809679	I
+main text of attachment I
+1809682	main text of letter
+secretarial text of letter
+1809686	main text of letter
+secretarial text of letter
+1809690	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804812	I
+II
+main text of attachment II
+1809698	main text of letter
+secretarial text of letter
+1809702	main text of letter
+secretarial text of letter
+I
 main text of attachment I
-1804815	main text of letter
+II
+main text of attachment II
+1809710	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809715	I
+main text of attachment I
+II
+main text of attachment II
+1809720	main text of letter
+secretarial text of letter
+1809724	main text of letter
+secretarial text of letter
+1809728	main text of letter
+secretarial text of letter
+1809732	main text of letter
+secretarial text of letter
+1809736	main text of letter
+secretarial text of letter
+1809740	main text of letter
+secretarial text of letter
+1809744	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809750	main text of letter
+secretarial text of letter
+1809754	main text of letter
+secretarial text of letter
+1809758	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1809765	I
+main text of attachment I
+1809768	main text of letter
+secretarial text of letter
+1809772	main text of letter
+secretarial text of letter
+1809776	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809782	main text of letter
+secretarial text of letter
+1809786	main text of letter
+secretarial text of letter
+1809790	main text of letter
+secretarial text of letter
+1809794	main text of letter
+secretarial text of letter
+1809798	main text of letter
+secretarial text of letter
+1809802	main text of letter
+secretarial text of letter
+1809806	main text of letter
+secretarial text of letter
+1809810	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1809818	main text of letter
+secretarial text of letter
+1809822	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809828	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+III
+main text of attachment III
+1809838	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809844	main text of letter
+secretarial text of letter
+1809848	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809854	main text of letter
+secretarial text of letter
+1809858	main text of letter
+secretarial text of letter
+1809862	main text of letter
+secretarial text of letter
+1809866	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809872	main text of letter
+secretarial text of letter
+1809875	I
+main text of attachment I
+1809878	main text of letter
+secretarial text of letter
+1809882	main text of letter
+secretarial text of letter
+1809886	main text of letter
+secretarial text of letter
+1809889	I
+main text of attachment I
+II
+main text of attachment II
+1809894	main text of letter
+secretarial text of letter
+1809898	main text of letter
+secretarial text of letter
+1809902	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809908	main text of letter
+secretarial text of letter
+1809912	main text of letter
+secretarial text of letter
+1809916	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809922	main text of letter
+secretarial text of letter
+1809926	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809932	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809938	main text of letter
+secretarial text of letter
+1809942	main text of letter
+secretarial text of letter
+1809946	main text of letter
+secretarial text of letter
+1809950	main text of letter
+secretarial text of letter
+1809954	main text of letter
+secretarial text of letter
+1809958	main text of letter
+secretarial text of letter
+1809962	main text of letter
+secretarial text of letter
+1809966	main text of letter
+secretarial text of letter
+1809970	main text of letter
+secretarial text of letter
+1809974	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1809980	main text of letter
+secretarial text of letter
+1809984	main text of letter
+secretarial text of letter
+1809988	main text of letter
+secretarial text of letter
+1809992	main text of letter
+secretarial text of letter
+1809996	main text of letter
+secretarial text of letter
+1810000	main text of letter
+secretarial text of letter
+1810004	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1810010	main text of letter
+secretarial text of letter
+1810014	main text of letter
+secretarial text of letter
+1810017	I
+main text of attachment I
+1810020	main text of letter
+secretarial text of letter
+1810024	main text of letter
+secretarial text of letter
+1810027	I
+main text of attachment I
+1810030	main text of letter
+secretarial text of letter
+1810033	I
+main text of attachment I
+1810036	main text of letter
+secretarial text of letter
+1810040	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1810046	main text of letter
+secretarial text of letter
+1810050	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1810056	main text of letter
+secretarial text of letter
+1810060	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+II
+main text of attachment II
+1810068	main text of letter
+secretarial text of letter
+1810072	main text of letter
+secretarial text of letter
+1810076	main text of letter
+secretarial text of letter
+1810080	main text of letter
+secretarial text of letter
+I
+main text of attachment I
+1810085	I
+main text of attachment I
+1810088	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1804820	I
+1810093	I
 main text of attachment I
-1804823	main text of letter
+1810096	main text of letter
 secretarial text of letter
-1804827	main text of letter
+1810100	main text of letter
 secretarial text of letter
-1804831	main text of letter
+1810104	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804836	I
+1810109	I
 main text of attachment I
-1804839	main text of letter
+1810112	main text of letter
 secretarial text of letter
-1804843	main text of letter
-secretarial text of letter
-I
-main text of attachment I
-1804849	main text of letter
+1810116	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804855	main text of letter
+1810122	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804861	main text of letter
+1810128	main text of letter
 secretarial text of letter
-1804864	I
+I
 main text of attachment I
-1804867	main text of letter
+1810134	main text of letter
+secretarial text of letter
+1810137	I
+main text of attachment I
+1810140	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 secretarial text of attachment II
-1804873	I
+1810146	I
 main text of attachment I
-1804876	main text of letter
+1810149	main text of letter
 secretarial text of letter
-1804880	main text of letter
+1810153	main text of letter
 secretarial text of letter
-1804883	I
+1810156	I
 main text of attachment I
-1804886	main text of letter
+1810159	main text of letter
 secretarial text of letter
-1804890	main text of letter
+1810163	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804895	I
+1810168	I
 main text of attachment I
-1804898	main text of letter
+1810171	main text of letter
 secretarial text of letter
-1804901	I
+1810174	I
 main text of attachment I
-1804904	main text of letter
+1810177	main text of letter
 secretarial text of letter
-1804908	main text of letter
+1810181	main text of letter
 secretarial text of letter
-1804911	I
+1810184	I
 main text of attachment I
-1804914	main text of letter
+1810187	main text of letter
 secretarial text of letter
-1804918	main text of letter
+1810191	main text of letter
 secretarial text of letter
 I
 main text of attachment I
 II
 main text of attachment II
-1804926	main text of letter
+1810199	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2511,39 +2511,39 @@ VI
 main text of attachment VI
 VII
 main text of attachment VII
-1804944	main text of letter
+1810217	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804949	I
+1810222	I
 main text of attachment I
-1804952	main text of letter
+1810225	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1804960	main text of letter
+1810233	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1804965	I
+1810238	I
 main text of attachment I
-1804968	main text of letter
+1810241	main text of letter
 secretarial text of letter
-1804971	I
+1810244	I
 main text of attachment I
-1804974	main text of letter
+1810247	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1804981	I
+1810254	I
 main text of attachment I
-1804984	main text of letter
+1810257	main text of letter
 secretarial text of letter
-1804988	main text of letter
+1810261	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2551,47 +2551,47 @@ II
 main text of attachment II
 III
 main text of attachment III
-1804998	main text of letter
+1810271	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1805003	I
+1810276	I
 main text of attachment I
-1805006	main text of letter
+1810279	main text of letter
 secretarial text of letter
-1805009	I
+1810282	I
 main text of attachment I
-1805012	main text of letter
+1810285	main text of letter
 secretarial text of letter
-1805015	I
+1810288	I
 main text of attachment I
-1805018	main text of letter
+1810291	main text of letter
 secretarial text of letter
-1805021	I
+1810294	I
 main text of attachment I
-1805024	main text of letter
+1810297	main text of letter
 secretarial text of letter
-1805027	I
+1810300	I
 main text of attachment I
-1805030	main text of letter
+1810303	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1805037	I
+1810310	I
 main text of attachment I
 II
 main text of attachment II
-1805042	main text of letter
+1810315	main text of letter
 secretarial text of letter
 III
 main text of attachment III
-1805048	main text of letter
+1810321	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1805054	main text of letter
+1810327	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2611,19 +2611,19 @@ VIII
 main text of attachment VIII
 IX
 main text of attachment IX
-1805075	I
+1810348	I
 main text of attachment I
-1805078	main text of letter
+1810351	main text of letter
 secretarial text of letter
-1805081	I
+1810354	I
 main text of attachment I
-1805084	main text of letter
+1810357	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1805092	main text of letter
+1810365	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2635,7 +2635,7 @@ IV
 main text of attachment IV
 V
 main text of attachment V
-1805106	main text of letter
+1810379	main text of letter
 secretarial text of letter
 I
 main text of attachment I
@@ -2643,85 +2643,85 @@ II
 main text of attachment II
 III
 main text of attachment III
-1805115	I
+1810388	I
 main text of attachment I
-1805118	main text of letter
+1810391	main text of letter
 secretarial text of letter
-1805121	I
+1810394	I
 main text of attachment I
-1805124	main text of letter
+1810397	main text of letter
 secretarial text of letter
-1805127	I
+1810400	I
 main text of attachment I
-1805130	main text of letter
+1810403	main text of letter
 secretarial text of letter
-1805133	I
+1810406	I
 main text of attachment I
-1805136	main text of letter
+1810409	main text of letter
 secretarial text of letter
-1805139	I
+1810412	I
 main text of attachment I
-1805142	main text of letter
+1810415	main text of letter
 secretarial text of letter
-1805145	I
+1810418	I
 main text of attachment I
-1805148	main text of letter
+1810421	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 secretarial text of attachment III
-1805156	I
+1810429	I
 main text of attachment I
-1805159	main text of letter
+1810432	main text of letter
 secretarial text of letter
-1805162	I
+1810435	I
 main text of attachment I
-1805165	main text of letter
+1810438	main text of letter
 secretarial text of letter
-1805168	I
+1810441	I
 main text of attachment I
-1805171	main text of letter
+1810444	main text of letter
 secretarial text of letter
 II
 main text of attachment II
-1805176	I
+1810449	I
 main text of attachment I
-1805179	main text of letter
+1810452	main text of letter
 secretarial text of letter
-1805182	I
+1810455	I
 main text of attachment I
-1805185	main text of letter
+1810458	main text of letter
 secretarial text of letter
-1805188	I
+1810461	I
 main text of attachment I
-1805191	main text of letter
+1810464	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
-1805198	I
+1810471	I
 main text of attachment I
-1805201	main text of letter
+1810474	main text of letter
 secretarial text of letter
-1805205	main text of letter
+1810478	main text of letter
 secretarial text of letter
 I
 main text of attachment I
-1805211	main text of letter
+1810484	main text of letter
 secretarial text of letter
-1805214	I
+1810487	I
 main text of attachment I
-1805217	main text of letter
+1810490	main text of letter
 secretarial text of letter
 II
 main text of attachment II
 III
 main text of attachment III
 secretarial text of attachment III
-1987252	Trace of a seal
+1992522	Trace of a seal
 Trace of a seal
 Trace of a seal
 Blank page
@@ -3471,6 +3471,9 @@ Blank page
 Blank page
 Seal and traces of a seal
 This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
+Blank page
+Blank page
+Blank page
 Seal and traces of seals
 Blank page
 Seal and traces of seals
@@ -3541,6 +3544,8 @@ Seal and traces of seals
 Blank page
 Cut page
 Cut page
+Cut page
+Cut page
 Blank page
 Seal and traces of seals
 Traces of seals
@@ -3642,6 +3647,8 @@ Blank page
 Trace of a seal
 Blank page
 Traces of seals
+Cut page
+Cut page
 Blank page
 Blank page
 Blank page
@@ -3662,6 +3669,8 @@ This is the decoded text of encrypted parts of Suriano's letter on separate shee
 This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics
 Blank page
 Blank page
+Cut page
+Cut page
 Blank page
 Seal and traces of a seal
 Seal and traces of a seal
@@ -3680,6 +3689,8 @@ Blank page
 Blank page
 Blank page
 Seal and traces of seals
+Cut page
+Cut page
 Blank page
 Seal and traces of a seal
 Blank page
@@ -4704,6 +4715,7 @@ Blank page
 Blank page
 Blank page
 Cut page
+Cut page. Some words are still visible in the margin.
 Blank page
 Traces of seals
 Blank page
@@ -5736,7 +5748,7 @@ Blank page
 Blank page
 Blank page
 Seal and traces of a seal
-2056586	02_071r
+2061866	02_071r
 02_071v
 02_072r
 02_072v

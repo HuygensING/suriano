@@ -17,6 +17,7 @@ from processhelpers import (
     NEROUT_FILE_M,
     SOURCEBASE,
     PAGESEQ_JSON,
+    REPORT_TEIDIR
 )
 from processdocs import TeiFromDocx
 from processscans import Scans
@@ -25,7 +26,7 @@ from makener import MakeNER
 
 class Make(MakeWATM):
     def __init__(self, fileLoc):
-        super().__init__(fileLoc, sourceBase=SOURCEBASE)
+        super().__init__(fileLoc, sourceBase=SOURCEBASE, reportDir=REPORT_TEIDIR)
 
     def doTask_docx2tei(self):
         silent = self.flag_silent
