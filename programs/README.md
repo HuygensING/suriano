@@ -1,7 +1,7 @@
 # How to work with this repository
 
 The Suriano pipeline is built with programs in this directory, where some steps
-rely heavily of functions of Text-Fabric.
+rely heavily of functions of [Text-Fabric](https://github.com/annotation/text-fabric).
 
 ## Preparation
 
@@ -122,29 +122,30 @@ The notebook has three parts:
    scans. Every step is a command line instruction, so there are no debugging
    possibilities.
 1. The whole process in a single cell, with standard settings. 
-   *N.B.:* This will mill through all the 9000 scans, generates thumbnails from them
-   and recomputes their sizes. Not recommended.
+   *N.B.:* This will mill through all the 9000 scans, generate thumbnails from them
+   and recompute their sizes. Not recommended.
 
 ## Workflow overview
 
 The toplevel steps of the workflow can be gleaned from
-[make.py](https://gitlab.huc.knaw.nl/suriano/letters/-/blame/main/programs/make.py?ref_type=heads#L92-99).
+[make.py](programs/make.py).
 
 ### WF 1: Ingest scans
 
 The scans are ingested from inside the `datasource` directory into locations
-inside the `scans` directory. The resulting directories that hold the
-images are flat, and the images have simple, non-redundant names.
+inside the `scans` directory (not synchronised in git). The resulting
+directories that hold the images are flat, and the images have simple,
+non-redundant names.
 
 ### WF 2: Process scans
 
-The scans will be inspected for their sizes, and a lowres version of the
-scans will be generated (thumbnails: in the `thumbs` directory).
+The scans will be inspected for their sizes, and a low resolution version of the
+scans will be generated (thumbnails: in the [thumb](thumb) directory).
 
-The `thumbs` directory is only used for Text-Fabric usage, and not for the pipeline
-towards TextAnnoViz. Users of the `suriano/letters` through Text-Fabric will
-auto-download the `thumbs` directory, so that they can inspect the page scans offline
-in low resolution.
+The [thumb](thumb) directory is only used for Text-Fabric usage, and not for
+the pipeline towards TextAnnoViz. Users of `suriano/letters` through
+Text-Fabric will auto-download the `thumb` directory, so that they can inspect
+the page scans offline in low resolution.
 
 ### WF 3: DOCX => TEI files
 
@@ -153,10 +154,10 @@ Each of he Word files contains the transcriptions of a complete filza, and the r
 simple TEI file also contains the material of a complete filza.
 
 However, not all data in the Word file is transferred to TEI: the page headers are
-missing. We use a separate sub step to retrieve the headers by means of `docx2python`.
+missing. We use a separate substep to retrieve the headers by means of `docx2python`.
 
-We then continnue by applying specific conversion logic to the simple TEI files,
-steered also by additional data from the page headings and a spreadsheet with
+We then continue by applying specific conversion logic to the simple TEI files,
+steered by additional data from the page headings and from a spreadsheet with
 metadata and summaries.
 
 The result is a set of TEI files, according to the
@@ -171,29 +172,32 @@ recipient, and an optional part of material that the recipient has added to the 
 often a short summary, or a brief note.
 
 This step produces several files with information about the corpus that can be used
-for diagnostic purposes. They reside in the `datasource/transcriptions/report`
-directory, and some of them are in the `reports` directory at the top-level of the
-repo.
+for diagnostic purposes. For an overview of the reporting see the
+[readme](reports/README.md) in the reports directory.
 
 ### WF 4: TEI => TF
 
 From the TEI data we generate Text-Fabric data (TF).
-This is done by a function in Text-Fabric (`tf.convert.tei`), steered by settings
-in the file [tei.yaml](tei.yaml) in the `programs` directory.
+This is done by a function in Text-Fabric,
+[tf.convert.tei](https://annotation.github.io/text-fabric/tf/convert/tei.html),
+steered by settings in the file [tei.yaml](programs/tei.yaml) in the
+[programs](programs) directory.
 
 The convertor inspects the incoming TEI, validates it, and makes an inventory
-of the elements and attributes, and the results of this end up in files
-in `datasource/report`.
+of the elements and attributes, and the results of this end up in several report files
+in [report/tei](report/tei).
 
 Then it proceeds to create a TF dataset out of the TEI.
 
 ### WF 5: Annotate named entities
 
 This step is driven by persons data in a spreadsheet in `datasource/metadata`.
-It is copied to a location within the reach of the Text-Fabric dataset, and then
-Text-Fabric takes over (`tf.browser.ner`): it reads and interprets the sheet,
-looks up its name triggers, marks them as entities, and bakes those entities
-into a new copy of the TF dataset.
+It is copied to a location [ner](ner) within the reach of the Text-Fabric
+dataset, and then Text-Fabric takes over, by means of
+[tf.ner.ner](https://annotation.github.io/text-fabric/tf/ner/ner.html):
+it reads and interprets the sheet, looks up its names and corresponding
+triggers, marks the hits as entities, and bakes those entities into a new copy
+of the TF dataset.
 
 Additionally, the spelling variants of the triggers will be searched for in the corpus,
 and they will be (selectively) merged with the original spreadsheet, thereby
@@ -230,25 +234,27 @@ WATM stands for *Web Annotation Text Model*. It is a data model where text is a
 sequence of tokens, and markup is a series of (web) annotations that target intervals
 of those tokens. These annotations can also target other annotations.
 
-The actual generation process is taken care of by Text-Fabric (`tf.convert.watm`),
-and the control of this process is also in Text-Fabric (`tf.convert.makewatm`).
+The actual generation process is taken care of by Text-Fabric,
+[tf.convert.watm](https://annotation.github.io/text-fabric/tf/convert/watm.html),
+and the control of this process is also in Text-Fabric:
+[tf.convert.makewatm](https://annotation.github.io/text-fabric/tf/convert/makewatm.html).
 
 In fact, the whole conversion pipeline is implemented as a subclass of
-`tf.cpnvert.makewatm.MakeWATM`.
+[tf.cpnvert.makewatm.MakeWATM](https://annotation.github.io/text-fabric/tf/convert/makewatm.html#tf.convert.makewatm.MakeWATM).
 
-The generation is steered by the file [watm.yaml](watm.yaml) in the `programs`
-directory.
+The generation is steered by the file [watm.yaml](programs/watm.yaml).
 
 The WATM generation is aware of the page scans: it will generate annotations that
 provide urls for page images and canvases. For this it needs the configuration file
-[iiif.yaml](iiif.yaml) in the `programs` directory.
+[iiif.yaml](programs/iiif.yaml).
 
 ### WF 7: Generate IIIF manifests
 
 In order to present the page scans in the IIIF way, we need to generate manifests.
-That happens in this step, and again, the code is in Text-Fabric (`tf.convert.iiif`).
+That happens in this step, and again, the code is in Text-Fabric:
+[tf.convert.iiif](https://annotation.github.io/text-fabric/tf/convert/iiif.html).
 
-This step makes also use of [iiif.yaml](iiif.yaml).
+This step makes also use of [iiif.yaml](programs/iiif.yaml).
 
 ### WF 8: Deploy to k8s
 
@@ -270,25 +276,38 @@ From here the scans will be served, by links coming from the TAV interface.
 
 # Overview of the program files
 
-*   `convertPlain.ipynb`: the workhorse and nerve centre of the complete workflow.
-*   `covers.html`: a static html file to show all the cover scans of the filzas.
-*   `iiif.yaml`: configuration for manifest generation; also used by WATM generation.
-*   `make.py` : automatic run of the complete pipeline, all at once, or by main step.
-*   `makener.py`: automatic run of all steps needed for NER.
-*   `meta.css`: CSS for the persons metadata in static HTML files. (These files
+*   [convertPlain.ipynb](programs/convertPlain.ipynb):
+    the workhorse and nerve centre of the complete workflow.
+*   [covers.html](programs/covers.html):
+    a static html file to show all the cover scans of the filzas.
+*   [iiif.yaml](programs/iiif.yaml):
+    configuration for manifest generation; also used by WATM generation.
+*   [make.py](programs/make.py) 
+    automatic run of the complete pipeline, all at once, or by main step.
+*   [makener.py](programs/makener.py):
+    automatic run of all steps needed for NER.
+*   [meta.css](programs/meta.css):
+    CSS for the persons metadata in static HTML files. (These files
     are no longer important, because the metadata is served from annotations in popups
     within the TAV interface).
-*   `ner.ipynb`: Notebook to experiment with NER.
-*   `nerScopes.ipynb`: Notebook to experiment with scopes for NER detection.
-*   `processdocs.py`: Main program for document-oriented workflow steps.
-*   `processhelpers.py`: Settings and shared code for `processdocs.py` and
+*   [ner.ipynb](programs/ner.ipynb):
+    Notebook to experiment with NER.
+*   [nerScopes.ipynb](programs/nerScopes.ipynb):
+    Notebook to experiment with scopes for NER detection.
+*   [processdocs.py](programs/processdocs.py):
+    Main program for document-oriented workflow steps.
+*   [processhelpers.py](programs/processhelpers.py):
+    Settings and shared code for `processdocs.py` and
     `processscans.py`.
-*   `processscans.py`: Main program for image-oriented workflow steps.
-*   `provision.sh`: Shell commands for the deploy steps: transferring results
+*   [processscans.py](programs/processscans.py):
+    Main program for image-oriented workflow steps.
+*   [provision.sh](programs/provision.sh):
+    Shell commands for the deploy steps: transferring results
     to the systems where they are needed.
-*   `syncsurfdrive.sh`: Shell command to synchronize the `datasource` directory with
+*   [syncsurfdrive.sh](programs/syncsurfdrive.sh):
+    Shell command to synchronize the `datasource` and `curatedscans` directories with
     SurfDrive.
-*   `tei.yaml`: configuration for the TEI to TF conversion.
-*   `variants.py`: functions used by `nerCorrect.ipynb`.
-*   `watm.yaml`: configuration for the TF to WATM conversion.
-
+*   [tei.yaml](programs/tei.yaml):
+    configuration for the TEI to TF conversion.
+*   [watm.yaml](programs/watm.yaml):
+    configuration for the TF to WATM conversion.

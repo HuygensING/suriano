@@ -6,8 +6,7 @@ The data we describe here is not in this repo but resides in the publicly access
 [SurfDrive folder](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
 
 The dataset consists of source material and representations of the source in
-TEI and other formats, and informational files resulting from the conversions, showing
-some properties and statistics of the source material.
+TEI and other formats, and metadata and XML schemas.
 
 # Overview of the contents
 
@@ -61,6 +60,10 @@ This is the TEI where most of the source information comes together:
 ## `transcriptions`
 
 Source material and the results of the first conversion step plus some reports.
+Plus  translation table.
+
+*   `translation.txt`: table of italian phrases encountered in editorial remarks in
+    the text (e.g. *Bianca* = *Blank page*) and in the foornotes.
 
 ### `docx`
 
@@ -68,7 +71,7 @@ The transcriptions, for each filza a single file, with the filza number in the n
 
 *   `01.docx`, `02.docx`, ... , `12.docx`
 
-## `teiSimple`
+### `teiSimple`
 
 The direct conversions of the `docx` files by Pandoc into simple `tei`.
 No special logic or configuration has been applied in this conversion.

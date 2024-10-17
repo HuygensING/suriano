@@ -45,18 +45,21 @@ in the course of the
 [Suriano project](https://www.huygens.knaw.nl/en/projecten/correspondence-of-christofforo-suriano/).
 
 ## Context
+
 The scans have been transcribed into Word documents by an Italian team, and on these
 Word documents a searchable web-version is based.
-This website is currently under development by
+This website,
+[edition.suriano.huygens.knaw.nl](https://edition.suriano.huygens.knaw.nl)
+has been developed by
 [KNAW/HuC/Team Text](https://di.huc.knaw.nl/text-analysis-en.html).
 
-A reasearchers interface via Text-Fabric is already available (as work-in-progress),
-see [Text-Fabric/suriano](https://annotation.github.io/text-fabric/tf/about/corpora.html#knawhuygensing-and-gitlabhucknawnl).
+A reasearchers interface via Text-Fabric is available, see
+[Text-Fabric/suriano](https://annotation.github.io/text-fabric/tf/about/corpora.html#knawhuygensing-and-gitlabhucknawnl).
 
 A quite sophisticated pipeline has been built to convert the Word documents into TEI,
 the TEI into Text-Fabric, the Text-Fabric into text streams and annotations, which
 is the input for the web site.
-In that pipeline a lot of consistency chekcs have been applied, and the data has been
+In that pipeline a lot of consistency checks have been applied, and the data has been
 enriched with named entity annotations.
 
 ## Content organization
@@ -181,16 +184,16 @@ The pages with missing scans are:
 *   filza 9, pages 120r and 120v;
 *   filza 12, pages 278r and 278v.
 
-There are also no transcriptions for these pages.
+There are no transcriptions for these pages.
 
 #### Order problems
 
-Somewhere in filza-11 there was a misnomer: the scan of page 299r has been named with
-page 300v. That had to be renamed. But a whole stretch after that, pages had got 
-a file name that was slightly of. After a thorough inspection this has been remedied
+Somewhere in filza 11 there was a misnomer: the scan of page 299r has been named with
+page 300v. That had to be renamed. But in a whole stretch after that, pages had got 
+a file name that was slightly off. After a thorough inspection this has been remedied
 by a one-time script.
 
-Somewherein filza-9 something like that happened too: hundreds of pages had a page
+Somewherein filza 9 something like that happened too: hundreds of pages had a page
 number in their file name that was one off. Again, after thorough inspection and with
 a one-time script, this has been straightened out.
 

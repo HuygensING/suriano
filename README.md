@@ -30,28 +30,28 @@ Christofforo Suriano:
 
 We proceed as follows:
 
-1.  There are incoming page scans, they are renamed and checked for completeness
-1.  There are incoming transcriptions in Word, they are converted to TEI, and
-    in the process the page sequneces in the transcriptions are compared with
-    the pages in the scans
-1.  The TEI is converted to Text-Fabric
-1.  Using Text-Fabric and a spreadsheet of named entity triggers, we mark thousands
-    of named entities in the text
-1.  By means of Text-Fabric we generate a WATM export: a set of text fragments
-    and annotations
-1.  By means of Text-Fabric we generate IIIF manifest for the page scans
-1.  The WATM output is exported to the Team Text virtual machine
-1.  The manifests and other static files are exported to a persistent volume on
-    our k8s network
+1.  there are incoming page scans, they are renamed and checked for completeness;
+1.  there are incoming transcriptions in Word, they are converted to TEI, and
+    in the process the page sequences in the transcriptions are compared with
+    the pages in the scans;
+1.  the TEI is converted to [Text-Fabric](https://github.com/annotation/text-fabric);
+1.  using Text-Fabric and a spreadsheet of named entity triggers, we mark thousands
+    of named entities in the text;
+1.  by means of Text-Fabric we generate a WATM export: a set of text fragments
+    and annotations;
+1.  by means of Text-Fabric we generate IIIF manifests for the page scans;
+1.  the WATM output is exported to the TeamText virtual machine;
+1.  the manifests and other static files are exported to a persistent volume on
+    our k8s network.
 
 This is where the control of this repo stops. The infrastructure of TeamText takes
 over from here:
 
-1.  The WATM is imported in TextRepo and AnnoRepo: essentially it is a stream of
-    tokens and a set of web annotations
-1.  Additional configuration to steer the final display and the search indexes
-    is added to Broccoli and Brinta
-1.  Finally, TextAnnoViz displays the letters on the website, fed by the contents of
+1.  the WATM is imported in TextRepo and AnnoRepo: essentially it is a stream of
+    tokens and a set of web annotations;
+1.  additional configuration to steer the final display and the search indexes
+    is added to Broccoli and Brinta;
+1.  finally, TextAnnoViz displays the letters on the website, fed by the contents of
     AnnoRepo, TextRepo, Brinta and Broccoli.
 
 There is a large degree of isomorphism between the Text-Fabric data and the final 
@@ -65,14 +65,14 @@ We'll provide a tutorials for that, see below.
 
 # Curated data
 
-The source data and the TEI that we derived from it and more is available on
+The source data and the TEI that we derived from it, and more, is available on
 [SurfDrive (public readonly link)](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
 This does not include the original high resolution scans, since they are not
 available as a downloadable package. These scans are also at SurfDrive, but not
 accessible via a public link. If you are interested in these scans, contact Nina Lamal.
 
 Note that (very) low resolution versions of these scans are provided in this repo:
-[scans](thumb).
+[thumb](thumb).
 
 Many aspects of the curation process have been carried out by programs, in a rule-based
 way. These processes have produced a number of report files.
@@ -95,5 +95,5 @@ here:
 [start.ipynb](https://gitlab.huc.knaw.nl/suriano/letters/-/blob/main/tutorial/start.ipynb)
 
 Note that the online version of the tutorial is not rendered optimally, it is
-recommended use the clone of the repo on your computer to work through the tutorial.
+recommended to use the clone of the repo on your computer to work through the tutorial.
 

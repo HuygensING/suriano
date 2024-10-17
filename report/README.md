@@ -11,14 +11,14 @@ The reports are grouped as follows:
 *   [pages](pages):
     results of composing a catalog of pages out of the scans and the transcriptions;
 *   [trans](trans):
-    results of analysing the transcriptions;
+    results of analyzing the transcriptions;
 *   [tei](tei):
     results of converting the TEI to TF.
 
-## `scans`
+## scanreports
 
 *   [cfgerrors](scanreports/cfgerrors.txt):
-    errors in the configuration files for the scans;
+    errors in the configuration files for the scans; expect an empty file;
 *   [scanerrors](scanreports/scanerrors.txt):
     a list of errors during the processing of the scans;  expect an empty file;
 *   [thumberrors](scanreports/thumberrors.txt):
@@ -27,7 +27,7 @@ The reports are grouped as follows:
 *   [thumbpages](scanreports/thumbpages.txt):
     a list of the generated thumbnails.
 
-## `pages`
+## pages
 
 *   [pageinfo](pages/pageinfo.txt):
     the component structure of the corpus in filzas, letters, texts and pages;
@@ -43,7 +43,7 @@ The reports are grouped as follows:
     all page related irregularities encountered during the conversion of DOCX
     to TEI; expect an empty file.
 
-## `trans`
+## trans
 
 *   [decodified](trans/decodified.txt):
     all passages with decodified text;
@@ -71,7 +71,7 @@ The reports are grouped as follows:
     all non-page related irregularities encountered during the conversion of
     DOCX to TEI; expect an empty file;
 
-## `tei`
+## tei
 
 *   [elements](tei/elements.txt):
     inventory of TEI-elements and attributes and their occurrence statistics
