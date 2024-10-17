@@ -15,9 +15,9 @@ from tf.browser.html import H
 from tf.ner.helpers import toAscii
 
 
-ORG = "suriano"
-REPO = "letters"
-BACKEND = "gitlab.huc.knaw.nl"
+ORG = "HuygensING"
+REPO = "suriano"
+BACKEND = "github"
 
 PAGES = "pages"
 COVERS = "covers"
@@ -41,8 +41,8 @@ _METADIR = f"{_DATADIR}/metadata"
 
 SCANDIR = f"{_REPODIR}/scans"
 SIMAGEDIR = f"{_SCANINDIR}/images"
-PAGEDIR = f"{SIMAGEDIR}/{PAGES}"
-COVERDIR = f"{SIMAGEDIR}/{COVERS}"
+PAGEDIR = f"{SCANDIR}/{PAGES}"
+COVERDIR = f"{SCANDIR}/{COVERS}"
 COVERINDIR = f"{_SCANINDIR}/{COVERS}"
 LOGODIR = f"{SCANDIR}/{LOGO}"
 LOGOINDIR = f"{_DATADIR}/{LOGO}"
@@ -65,7 +65,7 @@ NERIN_FILE = f"{_METADIR}/{NER_NAME}.xlsx"
 NEROUT_FILE = f"{_REPODIR}/ner/specs/{NER_NAME}.xlsx"
 NEROUT_FILE_M = f"{_REPODIR}/ner/specs/{NER_NAME}-merged.xlsx"
 
-REPORT_SCANDIR = f"{_REPORTDIR}/scans"
+REPORT_SCANDIR = f"{_REPORTDIR}/scanreports"
 REPORT_CFGERRORS = f"{REPORT_SCANDIR}/cfgerrors.txt"
 REPORT_SCANERRORS = f"{REPORT_SCANDIR}/scanerrors.txt"
 REPORT_THUMBERRORS = f"{REPORT_SCANDIR}/thumberrors.txt"

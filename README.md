@@ -92,8 +92,7 @@ See the [README.md](programs/README.md) in the programs directory.
 
 There you see how to clone this repository. After that, you can follow a tutorial
 here: 
-[start.ipynb](https://gitlab.huc.knaw.nl/suriano/letters/-/blob/main/tutorial/start.ipynb)
+[start.ipynb](https://nbviewer.org/github/HuygensING/suriano/blob/main/tutorial/start.ipynb)
 
 Note that the online version of the tutorial is not rendered optimally, it is
 recommended to use the clone of the repo on your computer to work through the tutorial.
-

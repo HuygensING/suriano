@@ -1,5 +1,5 @@
 
-# Corpus suriano - letters
+# Corpus HuygensING - suriano
 
 ## How a TF dataset represents a corpus
 

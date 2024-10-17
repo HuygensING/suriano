@@ -3,7 +3,7 @@
 
 
 
-# Corpus suriano - letters
+# Corpus HuygensING - suriano
 
 ## `author`
 
@@ -67,7 +67,7 @@
 
 ## `version`
 
-`1.0.1`
+`1.0.2`
 
 
 ## `teiVersion`
