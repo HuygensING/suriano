@@ -6,7 +6,7 @@ Here is an overview of the reports generated during the process.
 
 The reports are grouped as follows:
 
-*   [scans](scans):
+*   [scans](report/scans):
     result of scan processing;
 *   [pages](pages):
     results of composing a catalog of pages out of the scans and the transcriptions;
@@ -17,7 +17,7 @@ The reports are grouped as follows:
 
 ## `scans`
 
-*   [cfgerrors](scans/cfgerrors.txt):
+*   [cfgerrors](report/scans/cfgerrors.txt):
     errors in the configuration files for the scans;
 *   [scanerrors](scans/scanerrors.txt):
     a list of errors during the processing of the scans;  expect an empty file;
