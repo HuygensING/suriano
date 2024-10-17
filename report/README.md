@@ -6,7 +6,7 @@ Here is an overview of the reports generated during the process.
 
 The reports are grouped as follows:
 
-*   [scanreports](scans):
+*   [scanreports](scanreports):
     result of scan processing;
 *   [pages](pages):
     results of composing a catalog of pages out of the scans and the transcriptions;
