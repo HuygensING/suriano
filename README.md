@@ -1,5 +1,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/HuygensING/suriano/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/HuygensING/suriano)
+
 ![ok](docs/images/logo.png)
 ![huc](docs/images/huc.png)
 ![tf](docs/images/tf-small.png)
