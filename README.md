@@ -166,6 +166,6 @@ There are extensive README files in the report directory.
     scan directory on SurfDrive;
 *   [README](report/README.md): description of the report files.
 
-# How to operate this repo (and the tutorial)
+# How to carry out the conversion
 
 See the [README.md](programs/README.md) in the programs directory.
