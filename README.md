@@ -30,6 +30,31 @@ Christofforo Suriano:
 *   the correspondence itself is served by
     [edition.suriano.huygens.knaw.nl](https://edition.suriano.huygens.knaw.nl).
 
+# Access the corpus
+
+This repo also contains a [text-fabric](https://github.com/annotation/text-fabric)
+copy of the corpus (in fact, that copy has been instrumental to build the data for the
+website).
+
+This copy contains the transcriptions and thumbnails of the scans.
+
+Here are the express instructions to get going:
+
+1.  install Python
+1.  `pip install 'text-fabric[all]'`
+1.  `tf HuygensING/suriano`
+
+After that a browser window opens with an interface on the Suriano correspondence.
+
+You can also run your own programs on the corpus, through the Text-Fabric API.
+Here is a
+[tutorial to get started](https://nbviewer.org/github/HuygensING/suriano/blob/main/tutorial/start.ipynb).
+
+# Construction of the dataset
+
+Here we describe how we have constructed the Suriano dataset (and how you can replicate
+it).
+
 We proceed as follows:
 
 1.  there are incoming page scans, they are renamed and checked for completeness;
@@ -91,10 +116,3 @@ There are extensive README files in the report directory.
 # How to operate this repo (and the tutorial)
 
 See the [README.md](programs/README.md) in the programs directory.
-
-There you see how to clone this repository. After that, you can follow a tutorial
-here: 
-[start.ipynb](https://nbviewer.org/github/HuygensING/suriano/blob/main/tutorial/start.ipynb)
-
-Note that the online version of the tutorial is not rendered optimally, it is
-recommended to use the clone of the repo on your computer to work through the tutorial.
