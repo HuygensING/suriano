@@ -76,9 +76,10 @@ The following people all played a role in the construction of this dataset.
     Front-end developer of TextAnnoViz (the main framework of the website)
     *and* having exquisite knowledge of historical manuscript editions;
 *   **Bram Buitendijk**
-    Back-end developer on the annotation infrastructure (AnnoRepo and TextRepo);
+    Back-end developer on the annotation infrastructure
+    ([un-t-ann-gle](https://github.com/knaw-huc/un-t-ann-gle) and AnnoRepo);
 *   **Hayco de Jong**
-    Back-end developer on the search infrastructure (Broccoli and Brinta);
+    Back-end developer on the search infrastructure (TextRepo, Broccoli and Brinta);
 *   **Bas Leenknegt**
     Allround developer on back-end and front-end matters (TAV, Broccoli);
 *   **Hennie Brugman**
