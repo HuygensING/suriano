@@ -73,16 +73,16 @@ The following people all played a role in the construction of this dataset.
     Developer, wrote the conversion code and new functions for
     Text-Fabric for Named Entity Recognition;
 *   **Sebastiaan van Daalen**
-    Front-end developer *and* having exquisite knowledge
-    of historical manuscript editions;
+    Front-end developer of TextAnnoViz (the main framework of the website)
+    *and* having exquisite knowledge of historical manuscript editions;
 *   **Bram Buitendijk**
-    Back-end developer on the annotation infrastructure;
+    Back-end developer on the annotation infrastructure (AnnoRepo and TextRepo);
 *   **Hayco de Jong**
-    Back-end developer on the search infrastructure;
+    Back-end developer on the search infrastructure (Broccoli and Brinta);
 *   **Bas Leenknegt**
-    Allround developer on back-end and front-end matters;
+    Allround developer on back-end and front-end matters (TAV, Broccoli);
 *   **Hennie Brugman**
-    team leader, connecting the dots with time and budget.
+    team leader, connecting the dots with time and budget and people.
 
 # Construction of the dataset
 
