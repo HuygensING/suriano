@@ -67,6 +67,24 @@ The following people all played a role in the construction of this dataset.
 *   **[Helmer Helmers](https://nl-lab.net/en/about-nl-lab/how-are-nl-lab/helmer-helmers/)**
     researcher and leader of the Suriano project.
 
+*Funder*
+
+*   **[Menno Witteveen](https://nl.linkedin.com/in/menno-witteveen-b4887315)**
+    Entrepreneur and historian.
+
+*Transcribers*
+
+*   Alexa Bianchini
+*   Ruben Celani
+*   Michele Correra
+*   Flavia di Giampaolo
+*   Federica D’Uonno
+*   Vera Frantellizzi
+*   Cristina Lezzi
+*   Giorgia Priotti
+*   Angelo Restaino
+*   Filippo Sedda
+
 *Development by [TeamText](https://di.huc.knaw.nl/text-analysis-en.html)*
 
 *   **[Dirk Roorda](https://github.com/dirkroorda)**
