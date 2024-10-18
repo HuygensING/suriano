@@ -2,6 +2,8 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/HuygensING/suriano/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/HuygensING/suriano)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13950093.svg)](https://doi.org/10.5281/zenodo.13950093)
+
 ![ok](docs/images/logo.png)
 ![huc](docs/images/huc.png)
 ![tf](docs/images/tf-small.png)
@@ -44,7 +46,11 @@ Here are the express instructions to get going:
 1.  `pip install 'text-fabric[all]'`
 1.  `tf HuygensING/suriano`
 
+This will first download the data, and note that the thumbnails occupy 300 MB of space,
+so this may take a while.
 After that a browser window opens with an interface on the Suriano correspondence.
+You can read the text, and if you click on a camera icons (📷) you see the scan
+of the corresponding page.
 
 You can also run your own programs on the corpus, through the Text-Fabric API.
 Here is a
