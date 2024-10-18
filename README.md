@@ -56,6 +56,34 @@ You can also run your own programs on the corpus, through the Text-Fabric API.
 Here is a
 [tutorial to get started](https://nbviewer.org/github/HuygensING/suriano/blob/main/tutorial/start.ipynb).
 
+# Authors and contributors
+
+The following people all played a role in the construction of this dataset.
+
+*Research at [Huygens](https://www.huygens.knaw.nl/en/projecten/)*
+
+*   **[Nina Lamal](https://www.huygens.knaw.nl/en/medewerkers/nina-lamal-2/)**
+    Researcher, deeply familiar with all ins and outs of the corpus;
+*   **[Helmer Helmers](https://nl-lab.net/en/about-nl-lab/how-are-nl-lab/helmer-helmers/)**
+    researcher and leader of the Suriano project.
+
+*Development by [TeamText](https://di.huc.knaw.nl/text-analysis-en.html)*
+
+*   **[Dirk Roorda](https://github.com/dirkroorda)**
+    Developer, wrote the conversion code and new functions for
+    Text-Fabric for Named Entity Recognition;
+*   **Sebastiaan van Daalen**
+    Front-end developer *and* having exquisite knowledge
+    of historical manuscript editions;
+*   **Bram Buitendijk**
+    Back-end developer on the annotation infrastructure;
+*   **Hayco de Jong**
+    Back-end developer on the search infrastructure;
+*   **Bas Leenknegt**
+    Allround developer on back-end and front-end matters;
+*   **Hennie Brugman**
+    team leader, connecting the dots with time and budget.
+
 # Construction of the dataset
 
 Here we describe how we have constructed the Suriano dataset (and how you can replicate
