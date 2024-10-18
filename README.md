@@ -90,13 +90,13 @@ The following people all played a role in the construction of this dataset.
 *   **[Dirk Roorda](https://github.com/dirkroorda)**
     Developer, wrote the conversion code and new functions for
     Text-Fabric for Named Entity Recognition;
-*   **Sebastiaan van Daalen**
+*   **[Sebastiaan van Daalen](https://www.huygens.knaw.nl/en/medewerkers/sebastiaan-van-daalen-2/)**
     Front-end developer of TextAnnoViz (the main framework of the website)
     *and* having exquisite knowledge of historical manuscript editions;
-*   **Bram Buitendijk**
+*   **[Bram Buitendijk](https://github.com/brambg)**
     Back-end developer on the annotation infrastructure
     ([un-t-ann-gle](https://github.com/knaw-huc/un-t-ann-gle) and AnnoRepo);
-*   **Hayco de Jong**
+*   **[Hayco de Jong](https://github.com/hayco)**
     Back-end developer on the search infrastructure (TextRepo, Broccoli and Brinta);
 *   **Bas Leenknegt**
     Allround developer on back-end and front-end matters (TAV, Broccoli);
