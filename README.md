@@ -137,11 +137,8 @@ over from here:
 There is a large degree of isomorphism between the Text-Fabric data and the final 
 website data.
 
-Researchers can use Text-Fabric to download the letters to their computer and browse
-and search them in a local browser.
-Or they can access them by means of Python programs and Jupyter notebooks.
-
-We'll provide a tutorials for that, see below.
+Technical information on the actual deployment is in our
+[internal repository (not open, behind a firewall)](https://code.huc.knaw.nl/tt/suriano).
 
 # Curated data
 
