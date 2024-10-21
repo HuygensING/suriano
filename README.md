@@ -99,7 +99,7 @@ The following people all played a role in the construction of this dataset.
 *   **[Hayco de Jong](https://github.com/hayco)**
     Back-end developer on the search infrastructure (TextRepo, Broccoli and Brinta);
 *   **[Bas Leenknegt](https://nl.linkedin.com/in/basleenknegt)**
-    Allround developer on back-end and front-end matters (TAV, Broccoli);
+    Allround developer on back-end and front-end matters (TAV, TextRepo);
 *   **[Hennie Brugman](https://www.researchgate.net/profile/Hennie-Brugman)**
     team leader, connecting the dots with time and budget and people.
 
