@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-17T14:42:13Z
+@dateWritten=2024-10-23T11:32:26Z
 @description=this is TEI attribute ref
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=1.0.2e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-17T14:45:23Z
+@dateWritten=2024-10-23T11:35:34Z
 
 1997000	bio.xml#cs
 1997003	bio.xml#cs

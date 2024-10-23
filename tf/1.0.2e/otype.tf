@@ -4,7 +4,7 @@
 @contributors2=Nina Lamal
 @contributors3=Helmer Helmers
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-17T14:42:13Z
+@dateWritten=2024-10-23T11:32:25Z
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
 @institute2=Huygens Instituut Amsterdam
@@ -18,7 +18,7 @@
 @version=1.0.2e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-17T14:45:23Z
+@dateWritten=2024-10-23T11:35:34Z
 
 1-1738519	t
 1738520-1739244	author

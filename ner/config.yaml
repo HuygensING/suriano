@@ -28,6 +28,7 @@ featureMeta:
       Kind of the entity, e.g. PER, LOC.
       Present on entities and entity occurrences. 
     valueType: str
+
 eNameFeature:
   ename:
     description: >-
@@ -36,23 +37,6 @@ eNameFeature:
     valueType: str
 
 spaceEscaped: false
-
-variants:
-  mergedExtension: "-merged"
-  notMergedExtension: "-notmerged"
-  analiticcl:
-    weights:
-      ld: 0.3
-      lcs: 0.1
-      prefix: 0.1
-      suffix: 0.1
-      case: 0.4
-    searchParams:
-      unicodeoffsets: true
-      max_ngram: 4
-      freq_weight: 0.25
-    scoring:
-      threshold: 0.8
 
 transform:
   d: ""
@@ -77,3 +61,20 @@ transform:
   von: ""
   y: ""
   zu: ""
+
+variants:
+  mergedExtension: "-merged"
+  notMergedExtension: "-notmerged"
+  analiticcl:
+    weights:
+      ld: 0.3
+      lcs: 0.1
+      prefix: 0.1
+      suffix: 0.1
+      case: 0.4
+    searchParams:
+      unicodeoffsets: true
+      max_ngram: 4
+      freq_weight: 0.25
+    scoring:
+      threshold: 0.8

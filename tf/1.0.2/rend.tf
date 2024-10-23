@@ -19,7 +19,7 @@
 @valueType=str
 @version=1.0.2
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-17T14:42:13Z
+@dateWritten=2024-10-23T11:32:26Z
 
 1814766	footnote
 footnote

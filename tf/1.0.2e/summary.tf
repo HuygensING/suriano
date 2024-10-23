@@ -6,7 +6,7 @@
 @conversionCode=tt
 @conversionMethod=derived
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2024-10-17T14:42:14Z
+@dateWritten=2024-10-23T11:32:26Z
 @description=Summary of the letter in English
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=1.0.2e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2024-10-17T14:45:24Z
+@dateWritten=2024-10-23T11:35:35Z
 
 1811223	Reports on his audience with John Frederick, Duke of Württemburg, who has informed him that Frederick V of Palatinate has written, in name of all the members of the Protestant Union, to the Holy Roman Emperor to find a solution for the war with the Uskoks. The duke assures Suriano that they will continue to support Venice, and signals that he has prevented levies of troops on behalf of the Holy Roman Emperor in his duchy. Reports that he further discussed the plan of princes of the Union with the counsellor Buwinckhausen, an old acquintance from his as a secretary time at the English court.
 Reports that archduke Leopold visited Stuttgart. The duke of Württemberg has updated Suriano of his conversation with Leopold on the war between the Venetians and archduke Ferdinand. Further he adds that he will continue visiting various German princes en route to the Dutch Republic. He concludes by indicating how much he has borrowed from different merchants to finance his mission and by offering the services of two captains who had come to see him before he left Zürich. One document attached: a copy of a Latin letter by the Duke of Württemberg to the Venetian Doge on 26 June 1616.
