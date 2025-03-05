@@ -34,6 +34,7 @@ from tf.core.files import (
     writeYaml,
 )
 from tf.core.helpers import console, htmlEsc
+
 from processhelpers import (
     EM_DASH,
     MONTH_NUM,
@@ -256,18 +257,18 @@ class TeiFromDocx(PageInfo):
         limit = 100
 
         summarized = collections.Counter()
-        ln = 0
+        i = 0
 
         for filza, letter, textNum, ln, line, heading, summarize in warnings:
             if summarize:
                 summarized[heading] += 1
             else:
-                if ln >= limit:
+                if i >= limit:
                     continue
 
                 msg = f"{filza}:{letter} n.{textNum} ln {ln:>5} " f"{heading} :: {line}"
                 self.console(msg, error=True)
-                ln += 1
+                i += 1
 
         nSummarized = len(summarized)
 

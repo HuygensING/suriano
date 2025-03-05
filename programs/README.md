@@ -180,7 +180,7 @@ for diagnostic purposes. For an overview of the reporting see the
 From the TEI data we generate Text-Fabric data (TF).
 This is done by a function in Text-Fabric,
 [tf.convert.tei](https://annotation.github.io/text-fabric/tf/convert/tei.html),
-steered by settings in the file [tei.yaml](programs/tei.yaml) in the
+steered by settings in the file [tei.yml](config/tei.yml) in the
 [programs](programs) directory.
 
 The convertor inspects the incoming TEI, validates it, and makes an inventory
@@ -242,11 +242,11 @@ and the control of this process is also in Text-Fabric:
 In fact, the whole conversion pipeline is implemented as a subclass of
 [tf.cpnvert.makewatm.MakeWATM](https://annotation.github.io/text-fabric/tf/convert/makewatm.html#tf.convert.makewatm.MakeWATM).
 
-The generation is steered by the file [watm.yaml](programs/watm.yaml).
+The generation is steered by the file [watm.yml](config/watm.yml).
 
 The WATM generation is aware of the page scans: it will generate annotations that
 provide urls for page images and canvases. For this it needs the configuration file
-[iiif.yaml](programs/iiif.yaml).
+[iiif.yml](config/iiif.yml).
 
 ### WF 7: Generate IIIF manifests
 
@@ -254,7 +254,7 @@ In order to present the page scans in the IIIF way, we need to generate manifest
 That happens in this step, and again, the code is in Text-Fabric:
 [tf.convert.iiif](https://annotation.github.io/text-fabric/tf/convert/iiif.html).
 
-This step makes also use of [iiif.yaml](programs/iiif.yaml).
+This step makes also use of [iiif.yml](config/iiif.yml).
 
 ### WF 8: Deploy to k8s
 
@@ -280,7 +280,7 @@ From here the scans will be served, by links coming from the TAV interface.
     the workhorse and nerve centre of the complete workflow.
 *   [covers.html](programs/covers.html):
     a static html file to show all the cover scans of the filzas.
-*   [iiif.yaml](programs/iiif.yaml):
+*   [iiif.yml](config/iiif.yml):
     configuration for manifest generation; also used by WATM generation.
 *   [make.py](programs/make.py) 
     automatic run of the complete pipeline, all at once, or by main step.
@@ -307,7 +307,7 @@ From here the scans will be served, by links coming from the TAV interface.
 *   [syncsurfdrive.sh](programs/syncsurfdrive.sh):
     Shell command to synchronize the `datasource` and `curatedscans` directories with
     SurfDrive.
-*   [tei.yaml](programs/tei.yaml):
+*   [tei.yml](config/tei.yml):
     configuration for the TEI to TF conversion.
-*   [watm.yaml](programs/watm.yaml):
+*   [watm.yml](config/watm.yml):
     configuration for the TF to WATM conversion.

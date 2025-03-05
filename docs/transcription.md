@@ -65,9 +65,9 @@ the TEI source files to a TF data set.
 
 **Features**
 
-feature | description
---- | ---
-`folder` | name of the subdirectory
+ feature    | description              
+------------|--------------------------
+ `folder` | name of the subdirectory 
 
 ### node type `file`
 
@@ -77,9 +77,9 @@ feature | description
 
 **Features**
 
-feature | description
---- | ---
-`file` | name of the file, without the `.xml` extension. Other extensions are included.
+ feature  | description                                                                    
+----------|--------------------------------------------------------------------------------
+ `file` | name of the file, without the `.xml` extension. Other extensions are included. 
 
 
 
@@ -99,9 +99,9 @@ feature | description
 
 
 
-feature | description
---- | ---
-`chunk` | sequence number of the chunk within the file, starting with 1.
+ feature   | description                                                        
+-----------|--------------------------------------------------------------------
+ `chunk` | sequence number of the chunk within the file, starting with 1. 
 
 
 
@@ -120,13 +120,13 @@ feature | description
 
 **Features**
 
-feature | description
---- | ---
-`str` | the characters of the word, without soft hyphens.
-`after` | the non-word characters after the word, up till the next word.
-`is_meta` | whether a word is in the `teiHeader` element
-`is_note` | whether a word is in a note element
-`rend_r` | whether a word is under the influence of a `rend="r"` attribute.
+ feature                            | description                                                             
+------------------------------------|-------------------------------------------------------------------------
+ `str`                              | the characters of the word, without soft hyphens.                
+ `after`              | the non-word characters after the word, up till the next word.          
+ `is_meta`             | whether a word is in the `teiHeader` element                     
+ `is_note`                          | whether a word is in a note element                              
+ `rend_r`                           | whether a word is under the influence of a `rend="r"` attribute. 
 
 
 
@@ -346,8 +346,8 @@ are for their first character.
 Special formatting for the `rend_r` features is supported for some values of `r`.
 The conversion supports these out-of-the-box:
 
-value | description
---- | ---
+ value | description 
+-------|-------------
 `above` | above the line
 `b` | bold font weight
 `below` | below the line
