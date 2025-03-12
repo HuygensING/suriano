@@ -19,9 +19,9 @@
 @valueType=str
 @version=1.0.3
 @writtenBy=Text-Fabric
-@dateWritten=2025-03-05T12:36:15+00:00Z
+@dateWritten=2025-03-12T09:19:35+00:00Z
 
-1909425	ASVe, Senato, Dispacci, Signori Stati, Filza 2, 71r-74v
+1811223	ASVe, Senato, Dispacci, Signori Stati, Filza 2, 71r-74v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 75r-77v, 80r-v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 81r-86v
 ASVe, Senato, Dispacci, Signori Stati, Filza 2, 87r-89v, 97r-v

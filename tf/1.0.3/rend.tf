@@ -19,9 +19,9 @@
 @valueType=str
 @version=1.0.3
 @writtenBy=Text-Fabric
-@dateWritten=2025-03-05T12:36:15+00:00Z
+@dateWritten=2025-03-12T09:19:35+00:00Z
 
-1912968	footnote
+1814766	footnote
 footnote
 footnote
 footnote
@@ -15475,7 +15475,7 @@ footnote
 footnote
 footnote
 footnote
-2000666	0
+2061866	0
 0
 0
 0

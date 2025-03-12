@@ -1,7 +1,7 @@
 row	trigger	variant	occurences
-8	conte Guglielmo suo figlio	conte Guglielmo suo figliolo	08x1
-8	Guglielmo di Nassau	Guglielmo di Nansau	08x1
 8	Guglielmo di Nassau	Guglielmo de Nassau	09x1
+8	Guglielmo di Nassau	Guglielmo di Nansau	08x1
+8	conte Guglielmo suo figlio	conte Guglielmo suo figliolo	08x1
 13	vescovo di Paterborn	vescovo di Paterbon	07x1
 14	duca di Nevers	duca di Nivers	11x1
 15	Massimiliano	Massimilia	11x1
@@ -20,6 +20,7 @@ row	trigger	variant	occurences
 68	Proveditore	Proveditor	02x1
 68	Proveditore	Proveditor	04x1
 71	Ambasciator inglese estraordinario	Ambasciator inglese straordinario	08x1
+73	ambasciatore di Francia	ambasciator de Francia	12x1
 73	ambasciatore di Francia	ambasciator di Francia	02x2
 73	ambasciatore di Francia	ambasciator di Francia	03x12
 73	ambasciatore di Francia	ambasciator di Francia	04x4
@@ -31,8 +32,9 @@ row	trigger	variant	occurences
 73	ambasciatore di Francia	ambasciator di Francia	10x12
 73	ambasciatore di Francia	ambasciator di Francia	11x10
 73	ambasciatore di Francia	ambasciator di Francia	12x38
-73	ambasciatore di Francia	ambasciatore di Franza	02x1
-73	ambasciatore di Francia	ambasciatore di Franza	08x1
+73	ambasciatore di Francia	ambasciatore in Francia	03x3
+73	ambasciatore di Francia	ambasciatore in Francia	10x1
+73	ambasciatore di Francia	ambasciatore in Francia	11x1
 73	ambasciatore di Francia	ambasciatori di Francia	03x2
 73	ambasciatore di Francia	ambasciatori di Francia	04x13
 73	ambasciatore di Francia	ambasciatori di Francia	05x1
@@ -43,10 +45,8 @@ row	trigger	variant	occurences
 73	ambasciatore di Francia	ambasciatori di Francia	11x3
 73	ambasciatore di Francia	ambasciatori di Francia	12x2
 73	ambasciatore di Francia	ambasciatori Francia	04x1
-73	ambasciatore di Francia	ambasciator de Francia	12x1
-73	ambasciatore di Francia	ambasciatore in Francia	03x3
-73	ambasciatore di Francia	ambasciatore in Francia	10x1
-73	ambasciatore di Francia	ambasciatore in Francia	11x1
+73	ambasciatore di Francia	ambasciatore di Franza	02x1
+73	ambasciatore di Francia	ambasciatore di Franza	08x1
 83	duca di Naiburgh	duca di Noilburgh	06x1
 84	Cardinal di questo nome	Cardinale di questo nome	08x1
 85	monsignor della Rosciafocò	signor della Rosciafocò	03x1
@@ -68,37 +68,37 @@ row	trigger	variant	occurences
 138	Baglioni	Baglione	11x1
 139	monsignor Coulena	monsignor Gulena	03x8
 139	monsignor Coulena	monsignor Gulena	04x1
-144	capitano Mutonis	capitano Mettonis	04x1
+144	capitan Mutoni	capitan Mutonis	04x2
+144	capitan Mutoni	capitan Muthoni	04x1
+144	capitan Mutoni	capitan Mestoni	04x1
+144	capitan Mutoni	capitan Muttoni	04x1
+144	capitan Mutoni	capitan Metoni	09x1
+144	capitan Mutoni	capitan Mettoni	04x3
+144	capitan Mutoni	capitan Mutonio	04x3
 144	Metoni	Mettoni	04x9
 144	Metoni	Mettoni	05x1
-144	capitan Mutoni	capitan Mettoni	04x3
-144	capitan Mutoni	capitan Mutonis	04x2
-144	capitan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni	capitan Muttoni	04x1
-144	capitan Mutoni	capitan Mestoni	04x1
-144	capitan Mutoni	capitan Mutonio	04x3
-144	capitan Mutoni	capitan Muthoni	04x1
+144	capitano Mutonis	capitano Mettonis	04x1
 147	Durante di Prigni	Durante di Prignì	03x1
+148	capitan Pach	capitani Pach	09x2
 148	capitan Pach	capitano Pach	04x2
 148	capitan Pach	capitano Pach	07x1
 148	capitan Pach	capitano Pach	08x8
 148	capitan Pach	capitano Pach	09x1
-148	capitan Pach	capitani Pach	09x2
 148	capitan Pach	capitan Pack	06x1
 153	conte di Lip	conte di Le	04x1
-157	Turnon	Turnou	12x2
-157	Turnon	Turnone	12x4
-157	Turnon	Tournon	06x1
-157	Turnon	Tournon	11x5
+157	capitan Turnon	capitan Tornon	11x1
+157	capitan Turnon	capitan Tournon	11x1
 157	Turnon	Tornon	04x3
 157	Turnon	Tornon	11x2
-157	capitan Turnon	capitan Tournon	11x1
-157	capitan Turnon	capitan Tornon	11x1
+157	Turnon	Turnou	12x2
+157	Turnon	Tournon	06x1
+157	Turnon	Tournon	11x5
+157	Turnon	Turnone	12x4
 161	signor Brin di Gheldria	signor Brino di Gheldria	04x1
-163	cancellier Pecchius	cancelier Pecchius	11x1
 163	cancellier Pecchius	cancelliero Pecchius	10x1
 163	cancellier Pecchius	cancellier Pechius	10x1
 163	cancellier Pecchius	cancellier Pecchio	10x1
+163	cancellier Pecchius	cancelier Pecchius	11x1
 174	signor Falgher	signor Falghero	05x1
 174	signor Falgher	signor Falghero	09x9
 174	Pietro Falghero	Pietro Falgher a	09x1
@@ -108,8 +108,8 @@ row	trigger	variant	occurences
 195	Simon Jacobsen Coethart	Simon Jacobssen Coethart	05x1
 202	duca di Holstein	duca di Holsteim	11x1
 202	duca di Holstein	duca de Holstein	04x1
-217	Pelicart	Pellicart	09x1
 217	Pelicart	Pelicard	09x1
+217	Pelicart	Pellicart	09x1
 222	governator di Nimeghen	governator di Nemeghen	05x1
 223	baron di Anolt	baron di Anholt	10x2
 223	baron di Anolt	baron di Anholt	11x2
@@ -121,43 +121,43 @@ row	trigger	variant	occurences
 276	ambasciator Giustiniano	ambasciator Giustignano	09x1
 276	ambasciator Giustiniano	ambasciator Giust(inia)no	03x1
 286	Monsignor di Sciatiglion	Monsignor di Sciatiglione	07x1
-290	colonello Kniphusen	colonello Cniphusen	12x1
-290	colonello Chnipusen	colonello Cniphusen	12x1
-290	colonello Chnipusen	colonello Chuipusen	11x1
 290	colonello Chnipousen	colonello Cniphusen	12x1
 290	colonello Chnipousen	colonello Chuipusen	11x1
+290	colonello Chnipusen	colonello Cniphusen	12x1
+290	colonello Chnipusen	colonello Chuipusen	11x1
+290	colonello Kniphusen	colonello Cniphusen	12x1
 292	baron di Grusberch	baron di Grusbech	10x2
 292	baron di Grusberch	baron di Grusbech	11x5
 292	baron di Grusberch	baron di Grusbech	12x2
 293	ambasciator Pesaro	ambasciatore Pesaro	11x1
-295	figliolo di Bernvelt	figlioli di Bernvelt	07x1
-295	figliolo di Bernvelt	figlioli di Bernvelt	11x2
 295	figliolo di Bernvelt	figlio di Bernvelt	07x1
 295	figliolo di Bernvelt	figlio di Bernvelt	12x2
+295	figliolo di Bernvelt	figlioli di Bernvelt	07x1
+295	figliolo di Bernvelt	figlioli di Bernvelt	11x2
 300	figlolo maggiore	figliolo maggiore	11x1
 306	monsignor Randuich	signor Randuich	09x1
 307	console in Aleppo	console di Aleppo	11x1
 308	conte di Stirum	conte di Stirom	10x1
+309	duca di Bransvich	duca di Branvich	10x1
 309	duca di Bransvich	duca di Brunsvich	10x1
 309	duca di Bransvich	duchi di Bransvich	12x1
-309	duca di Bransvich	duca di Branvich	10x1
+309	giovane duca di Bransvich	giovane duca di Bransuich	09x1
+309	giovane duca di Bransvich	giovane duca di Bransuich	10x3
 309	duca Cristiano	duca Christiano	10x3
 309	duca Cristiano	duca Christiano	11x3
 309	duca Cristiano	duca Christiano	12x14
-309	giovane duca di Bransvich	giovane duca di Bransuich	09x1
-309	giovane duca di Bransvich	giovane duca di Bransuich	10x3
 309	duca di Lunemburgh	duca di Lunenburgh	09x1
 315	marchese di Iegherdorf	marchese di Iegherdof	10x1
 315	marchese di Jegherdorf	marchese di Jegherdort	10x1
-316	frate dominicano	frate domenicano	12x4
-316	frate dominicano	frate dominichino	12x1
 316	padre dominicano	padre domenicano	12x1
-320	monsignor di Montereau	monsignor di Monterau	12x1
-320	monsignor di Montereau	monsignor di Monte Reau	12x3
+316	frate dominicano	frate dominichino	12x1
+316	frate dominicano	frate domenicano	12x4
 320	Monterau	Monteran	12x1
 320	Montereau	Montreau	12x2
-320	Montereau	Montoreau	12x1
 320	Montereau	Monteneau	12x1
+320	Montereau	Montoreau	12x1
+320	monsignor di Montereau	monsignor di Monte Reau	12x3
+320	monsignor di Montereau	monsignor di Monterau	12x1
 324	duca di Wirtembergh	duca di Wirtimbergh	02x3
 324	duca di Wirtembergh	duca di Wirtimbergh	04x3
 324	duca di Wirtembergh	duca di Wirtimbergh	08x2
@@ -166,20 +166,20 @@ row	trigger	variant	occurences
 324	duca di Wirtembergh	duca di Wirtimbergh	11x3
 324	duca di Wirtembergh	duca di Virtembergh	02x1
 324	duca di Wirtembergh	duca di Virtembergh	05x2
+325	Leopoldo	Leopolto	08x1
 325	Leopoldo	Leopold	02x3
 325	Leopoldo	Leopold	10x1
 325	Leopoldo	Leopold	11x1
-325	Leopoldo	Leopolto	08x1
 330	signor Buvincauser	signor Bovincauser	08x1
 331	arciduca Ferdinando	ariciduca Ferdinando	03x1
-334	serenissimo Palatino	serenissimo Palatinato	11x1
 334	re di Bohemia	re di Bohe	12x3
 334	re di Bohemia	re di Boehmia	09x1
-335	regina di Bohemia	regina di Boema	12x1
+334	serenissimo Palatino	serenissimo Palatinato	11x1
 335	regina di Bohemia	regina di Boehmia	09x1
+335	regina di Bohemia	regina di Boema	12x1
 343	marchese di Durlach	marchese de Durlach	08x1
-343	marchese di Bada	marchese di Baden	11x2
 343	marchese di Bada	marchese di Rada	02x1
+343	marchese di Bada	marchese di Baden	11x2
 344	marchese di Hanspach	chese di Hanspach	04x1
 344	marchese di Anspach	marchese di Anspac	11x2
 345	Augusto di Neoburg	Augusto di Neoburgh è	02x1
@@ -191,14 +191,14 @@ row	trigger	variant	occurences
 349	marchese Spinola	chese Spinola	10x4
 349	marchese Spinola	chese Spinola	11x1
 349	Spinola	Spinolla	12x1
-357	marchese di Brandemburgh	marchese di Brandemburg	02x2
-357	marchese di Brandemburgh	marchese di Brandemburg	06x1
-357	marchese di Brandemburgh	marchese di Brandemburg	10x1
+357	marchese elettore di Brandemburgh	marchese elettore di Brandemburg	03x1
 357	marchese di Brandemburgh	chese di Brandemburgh	05x1
 357	marchese di Brandemburgh	chese di Brandemburgh	10x1
 357	marchese di Brandemburgh	marchese di Brandenburgh	03x2
 357	marchese di Brandemburgh	marchese di Brandeburgh	10x1
-357	marchese elettore di Brandemburgh	marchese elettore di Brandemburg	03x1
+357	marchese di Brandemburgh	marchese di Brandemburg	02x2
+357	marchese di Brandemburgh	marchese di Brandemburg	06x1
+357	marchese di Brandemburgh	marchese di Brandemburg	10x1
 357	elettore di Brandenburgh	elettore di Brandemburgh	02x2
 357	elettore di Brandenburgh	elettore di Brandemburgh	03x1
 357	elettore di Brandenburgh	elettore di Brandemburgh	09x4
@@ -206,29 +206,29 @@ row	trigger	variant	occurences
 357	elettore di Brandenburgh	elettore di Brandemburgh	11x1
 359	principe di Anault	principe di Anhalt	09x2
 359	principe di Anault	principe di Analt	06x1
+360	Casimiro di Lovestein	Casimiro di Levestein	03x1
 360	Casimiro di Lovestein	Casimiro di Levenstein	05x4
 360	Casimiro di Lovestein	Casimiro di Levenstein	07x1
 360	Casimiro di Lovestein	Casimiro di Levenstein	10x1
 360	Casimiro di Lovestein	Casimiro di Levenstein	11x3
-360	Casimiro di Lovestein	Casimiro di Levestein	03x1
-363	conte di Mansfelt	conto di Mansfelt	12x1
 363	conte di Mansfelt	conte di Masfelt	11x1
+363	conte di Mansfelt	conto di Mansfelt	12x1
 363	Masfelt	Mansfelt	02x1
 363	Masfelt	Mansfelt	03x3
 363	Masfelt	Mansfelt	08x3
 363	Masfelt	Mansfelt	10x101
 363	Masfelt	Mansfelt	11x245
 363	Masfelt	Mansfelt	12x272
-367	Wassonhovem	Wassomhovem	03x1
+367	Vassonvem	Vassomvem	03x1
 367	già colonello Wassonhoven	già colonel Wassonhoven	10x1
 367	Vassonhoven	Vassomhoven	03x1
-367	Wassonhoven	Wasson[hoven	04x1
-367	Wassonhoven	Wassnhoven	04x1
-367	Wassonhoven	Wassonhove	09x1
-367	Wassonhoven	Wassonoven	09x1
 367	colonello Warsenhoven	colonello Wassenhoven	03x2
 367	colonello Warsenhoven	colonello Wassenhoven	04x1
-367	Vassonvem	Vassomvem	03x1
+367	Wassonhovem	Wassomhovem	03x1
+367	Wassonhoven	Wassnhoven	04x1
+367	Wassonhoven	Wassonoven	09x1
+367	Wassonhoven	Wassonhove	09x1
+367	Wassonhoven	Wasson[hoven	04x1
 368	Anthoni de Wassenhove	Anthoni de Wassenhoven	09x1
 369	principe Mauritio	principe Mauri	03x1
 369	principe Mauritio	principe Mauri	07x1
@@ -238,84 +238,84 @@ row	trigger	variant	occurences
 372	conte Gioanni	conte Giovanni	07x1
 372	conte Gioanni	conte Giovanni	10x1
 372	conte Gioanni	conte Gioan	11x1
-372	signor conte Gioanni	signor conte Gioani	02x1
-372	signor conte Gioanni	signor conte Gioan	06x1
 372	signor conte Gioanni	signor conte Giovanni	02x3
 372	signor conte Gioanni	signor conte Giovanni	03x3
 372	signor conte Gioanni	signor conte Giovanni	04x3
+372	signor conte Gioanni	signor conte Gioani	02x1
+372	signor conte Gioanni	signor conte Gioan	06x1
 373	conte Gioan Ernesto	conte Gio Ernesto	04x1
 375	conte Gioanni di Nassau	conte Giovanni di Nassau	08x1
 375	conte Gioanni di Nassau	conte Giovanni di Nassau	09x1
+376	monsignor di Murier	mosignor di Murier	06x1
+376	monsignor di Murier	monsignor di Muaurir	12x1
+376	monsignor di Murier	monsignor Murier	04x1
+376	monsignor di Murier	monsignor Murier	06x1
 376	monsignor di Maurier	monsignor di Muaurir	12x1
+376	signor di Maurier	signor di Morier	08x1
+376	signor di Maurier	signore di Maurier	12x1
 376	Maurier	Murier	04x1
 376	Maurier	Murier	05x1
 376	Maurier	Murier	06x1
 376	Maurier	Murier	07x1
 376	Maurier	Murier	09x1
-376	signor di Maurier	signore di Maurier	12x1
-376	signor di Maurier	signor di Morier	08x1
 376	signor di Murier	signor di Morier	08x1
-376	monsignor di Murier	monsignor Murier	04x1
-376	monsignor di Murier	monsignor Murier	06x1
-376	monsignor di Murier	monsignor di Muaurir	12x1
-376	monsignor di Murier	mosignor di Murier	06x1
 377	residente Stich	ressidente Stich	04x1
 377	residente Stich	presidente Stich	09x1
 378	luogotenente Stich	luocotenente Stich	04x1
 379	ambasciator Carleton	ambasciatore Carleton	09x1
 379	ambasciator Carleton	ambasciatore Carleton	10x1
 380	serenissimi arciduchi	serenissimi arcidu	08x2
-382	Pasini	Pesini	11x2
 382	Pasini	Pasinii	03x1
 382	Pasini	Passini	09x1
+382	Pasini	Pesini	11x2
+384	Gamurini	Gamurrini	03x2
 384	Gomorino	Gomorin	07x1
 384	Gomorino	Gomorini	03x3
 384	Gomorino	Gomorini	07x2
 384	Gomorino	Gomorini	09x2
-384	Gamurini	Gamurrini	03x2
 385	monsignor di Longavilla	signor di Longavilla	02x1
-388	general Veer	generale Veer	09x1
 388	Horatio Veer	Horatio Ver	09x1
-390	cavalier Wton	cavaliere Wton	09x1
-390	signor ambasciator Wton	signor ambascisator Uton	11x1
+388	general Veer	generale Veer	09x1
 390	signor ambasciator Wton	signor ambasciator Ilton	04x1
+390	signor ambasciator Wton	signor ambascisator Uton	11x1
+390	cavalier Wton	cavaliere Wton	09x1
+391	Maestà della Gran Bertagna	Maestà della Gran Bretagna	03x1
 391	re della Gran Bertagna	re della Gran Berttagna	02x1
 391	re della Gran Bertagna	re della Gran Berta	11x2
-391	Maestà della Gran Bertagna	Maestà della Gran Bretagna	03x1
-392	duca elettor di Sassonia	duca elettore di Sassonia	11x2
-392	duca elettor di Sassonia	duca elettore di Sassonia	12x2
-392	elettor di Sassonia	elettori di Sassonia	12x1
 392	elettor di Sassonia	elettori Sassonia	12x2
+392	elettor di Sassonia	elettori di Sassonia	12x1
 392	elettor di Sassonia	elettore di Sassonia	04x2
 392	elettor di Sassonia	elettore di Sassonia	10x1
 392	elettor di Sassonia	elettore di Sassonia	11x1
 392	elettor di Sassonia	elettore di Sassonia	12x1
 392	elettor di Sassonia	eletto re di Sassonia	12x1
 392	duca di Sassonia	duca di Sassonio	09x1
-394	Philippo Calandrini	Philippi Calandrini	08x2
+392	duca elettor di Sassonia	duca elettore di Sassonia	11x2
+392	duca elettor di Sassonia	duca elettore di Sassonia	12x2
+394	Filippo Calandrini	Filip Calandrini	11x1
 394	Philippo Calandrini	Philip Calandrini	10x1
 394	Philippo Calandrini	Philip Calandrini	11x1
+394	Philippo Calandrini	Philippi Calandrini	08x2
 394	Calandrini mercante in Amsterdam	Calandrini mercante di Amsterdam	04x1
 394	Calandrini mercante in Amsterdam	Caladrini mercante in Amsterdam	04x1
-394	Filippo Calandrini	Filip Calandrini	11x1
+395	signor Vandermil	signor Vandermyel	04x1
 395	signor Vandermil	monsignor Vandermil	07x2
 395	signor Vandermil	signor Vandermeyl	07x1
-395	signor Vandermil	signor Vandermyel	04x1
+396	Bernvel	Bernoel	03x1
 396	Bernvel	Bernve	04x1
 396	Bernvel	Bernovel	03x1
-396	Bernvel	Bernoel	03x1
-396	signor Berniel	signor Bernvelt	05x1
-396	signor Berniel	signor Bernvelt	07x18
-396	signor Berniel	signor Bernvelt	08x1
 396	signor Berniel	signor Bernauel	05x1
-396	signor Berniel	signor Bern vel	05x1
-396	signor Berniel	signor Bernevel	05x1
 396	signor Berniel	signor Bernvel	02x2
 396	signor Berniel	signor Bernvel	03x34
 396	signor Berniel	signor Bernvel	04x76
 396	signor Berniel	signor Bernvel	05x28
 396	signor Berniel	signor Bernvel	06x10
 396	signor Berniel	signor Bernvel	07x8
+396	signor Berniel	signor Bern vel	05x1
+396	signor Berniel	signor Bernvelt	05x1
+396	signor Berniel	signor Bernvelt	07x18
+396	signor Berniel	signor Bernvelt	08x1
+396	signor Berniel	signor Bernevel	05x1
 397	Studler	Stadler	04x2
 397	Studler	Stadler	05x1
 397	Studler	Studder	03x9
@@ -329,16 +329,16 @@ row	trigger	variant	occurences
 400	duca di Holstein	duca di Holsteim	11x1
 400	duca di Holstein	duca de Holstein	04x1
 403	monsignor di Langarch	monsignor di Langa	04x1
-403	Langarach	Langerach	06x1
-403	monsignor di Langarach	monsignor Langarach	07x1
-403	monsignor di Langarach	monsignor Langarach	10x1
 403	monsignor di Langarach	signor di Langarach	03x2
 403	monsignor di Langarach	signor di Langarach	04x3
 403	monsignor di Langarach	signor di Langarach	09x2
+403	monsignor di Langarach	monsignor Langarach	07x1
+403	monsignor di Langarach	monsignor Langarach	10x1
+403	Langarach	Langerach	06x1
 403	monsignor di Langarac	monsignor di Langa	04x1
 405	Giacomo Belgioioso	Giacomo Belgioiso	03x1
-407	Quingetti di Amsterdam	Quingetti da Amsterdam	04x1
 407	Quingetti di Amsterdam	Quingetti in Amsterdam	04x1
+407	Quingetti di Amsterdam	Quingetti da Amsterdam	04x1
 407	Gasparo Quingetti	Gasparo Quigneti	03x1
 411	Alessandro Vanderbergh	Alessandro Vanderberge	06x1
 412	Louys de Geer	Louys di Geer	07x1
@@ -346,36 +346,36 @@ row	trigger	variant	occurences
 414	Ottaviano Bon	Ottavio Bon	03x1
 417	signor di Villemur	signor di Vellemur	03x1
 423	Giacomo Magnus	Giacomo Magno	08x2
-426	Guglielmo Vanderput	Guglielmo Vander	03x1
 426	Vanderput	Vanderputen	06x1
+426	Guglielmo Vanderput	Guglielmo Vander	03x1
 428	Tomaso Gates	Tomas Gates	03x1
 429	signor di Monthou	signor di Monthon	04x1
+429	signor di Monthou	signore di Monthou	04x1
+429	signor di Monthou	signor Monthou	04x2
 429	signor di Monthou	signor di Monthù	04x3
 429	signor di Monthou	signor di Monthu	04x4
-429	signor di Monthou	signor Monthou	04x2
-429	signor di Monthou	signore di Monthou	04x1
 429	monsignor di Monthon	monsignor di Montebon	09x1
 430	duca di Buglione	duca Buglione	04x1
 431	abbate Moronato	abbot Moronato	04x1
-435	colonello Anstenraedt	colonello Ansteraedt	06x1
-435	Carel Huyn de Amstenradt	Carel Huyn de Amstenrade	06x1
-435	signor Anstenraelt	signor Anstenraedt	05x1
-435	signor Anstenraelt	signor Anstenraedt	06x1
-435	signor Anstenraelt	signor Anstenraedt	07x1
-435	signor Anstenraelt	signor Anstenraedt	08x2
-435	colonello Amstenraedt	colonello Amsterraedt	06x1
 435	signor Amstenraedt	signor Anstenraedt	05x1
 435	signor Amstenraedt	signor Anstenraedt	06x1
 435	signor Amstenraedt	signor Anstenraedt	07x1
 435	signor Amstenraedt	signor Anstenraedt	08x2
-435	Amstenraedt	Astenraedt	08x1
-435	Amstenraedt	Amsteraedt	08x1
-435	Amstenraedt	Amstenradt	06x1
-435	Amstenraedt	Amstenreadt	05x1
-435	Amstenraedt	Amstenreadt	08x1
+435	signor Anstenraelt	signor Anstenraedt	05x1
+435	signor Anstenraelt	signor Anstenraedt	06x1
+435	signor Anstenraelt	signor Anstenraedt	07x1
+435	signor Anstenraelt	signor Anstenraedt	08x2
+435	Carel Huyn de Amstenradt	Carel Huyn de Amstenrade	06x1
 435	Anstenraedt	Astenraedt	08x1
 435	Anstenraedt	Anstemraedt	09x1
 435	Anstenraedt	Anstenraed	06x1
+435	Amstenraedt	Astenraedt	08x1
+435	Amstenraedt	Amsteraedt	08x1
+435	Amstenraedt	Amstenreadt	05x1
+435	Amstenraedt	Amstenreadt	08x1
+435	Amstenraedt	Amstenradt	06x1
+435	colonello Anstenraedt	colonello Ansteraedt	06x1
+435	colonello Amstenraedt	colonello Amsterraedt	06x1
 436	duca di Ossuna	duca di Oossuna	05x1
 436	duca di Ossuna	duca di Usuna	06x1
 438	principe di Conde	principe di Condé se	04x1
@@ -394,18 +394,18 @@ row	trigger	variant	occurences
 438	principe di Condé	principe di Condè	11x2
 438	principe di Condé	principe di Condè	12x1
 441	borgomastro Pavoni	borgomastro Pavo	07x1
-442	ambasciator Aghes	ambasciator Haghes	09x1
 442	ambasciator Aghes	ambasciator Aghe	09x1
+442	ambasciator Aghes	ambasciator Haghes	09x1
 442	signor Haghes	signor Hayes	10x1
-442	Hages	Hage	06x1
 442	ambasciator a Constantinopoli	ambasciatore a Constantinopoli	09x1
+442	Hages	Hage	06x1
 443	Antonio Luz	Antonio Lus	07x3
+448	monsignor di Boisise	monsignor Boisise	09x1
+448	monsignor di Boisise	monsignor di Boisisse	07x1
+448	monsignor di Boisise	monsignor de Boisise	07x1
+448	Boisise	Boisisse	07x1
 448	Boisise	Boissise	07x8
 448	Boisise	Boisese	07x1
-448	Boisise	Boisisse	07x1
-448	monsignor di Boisise	monsignor Boisise	09x1
-448	monsignor di Boisise	monsignor de Boisise	07x1
-448	monsignor di Boisise	monsignor di Boisisse	07x1
 449	Ourix	Ouris	10x1
 450	baron di Donà	baron di Dona	02x1
 450	baron di Donà	baron di Dona	08x5
@@ -414,21 +414,21 @@ row	trigger	variant	occurences
 450	baron di Donà	baron di Dona	12x1
 450	baron di Donà	baron di Do	08x1
 452	granduca di Moscovia	gran duca di Moscovia	10x1
-453	principe Gabor	prencipe Gabor	11x1
 453	Bethelem Gabor	Bethelem Gabur	08x1
+453	principe Gabor	prencipe Gabor	11x1
 455	marchese di Armenstat	marchese di Darmenstat	11x1
 457	conte di Embdem	contea di Embdem	12x1
-460	Adrian Ploos	Adrien Ploos	08x2
 460	Adrian Ploos	Adriano Ploos	08x2
 460	Adrian Ploos	Adrian Plois	08x1
+460	Adrian Ploos	Adrien Ploos	08x2
+461	Hoogerbeets	Hoogherbeets	07x1
 461	Hoogerbeets	Hogerbeets	07x2
 461	Hoogerbeets	Hogerbeets	08x1
-461	Hoogerbeets	Hoogherbeets	07x1
-463	Lidemburgh	Lademburgh	11x2
 463	Ledembergh	Ledenbergh	07x1
+463	Lidemburgh	Lademburgh	11x2
 465	signor Bucorst	monsignor Bucorst	10x4
-467	ambasciator della Lueva	ambasciator della Cueva	07x1
 467	Marchese di Belmar	Marchese di Bedmar	08x2
+467	ambasciator della Lueva	ambasciator della Cueva	07x1
 470	Vander Horst	Vander Hoot	04x1
 470	Vander Horst	Van der Horst	08x1
 471	Dighieres	Diguieres	04x1
@@ -441,33 +441,33 @@ row	trigger	variant	occurences
 475	signor di Brederod	monsignor di Brederod	09x1
 475	signor di Brederod	signori di Brederod	04x1
 478	colonello Ghent	colonel Ghent	04x3
-480	Kercoven	Kerckoven	06x9
-480	Kercoven	Kerckoven	07x8
-480	Kercoven	Kerckoven	08x5
+480	amiraglio Chercoven	amiraglio Kercoven	06x1
+480	amiraglio Chercoven	amiraglio Kercoven	09x1
+480	Chercoven	Cercoven	07x1
+480	Chercoven	Cherrcoven	08x1
+480	Melchior Vanden Kercoven	Melchior Vanden Kerckoven	07x1
+480	Melchior Vanden Kercoven	Melchior Vanden Kerchoven	07x2
 480	Kercoven	Kerkoven	06x6
 480	Kercoven	Kerkoven	07x9
 480	Kercoven	Kerkoven	08x1
 480	Kercoven	Kerkoven	09x1
-480	Chercoven	Cercoven	07x1
-480	Chercoven	Cherrcoven	08x1
-480	amiraglio Chercoven	amiraglio Kercoven	06x1
-480	amiraglio Chercoven	amiraglio Kercoven	09x1
-480	Melchior Vanden Kercoven	Melchior Vanden Kerckoven	07x1
-480	Melchior Vanden Kercoven	Melchior Vanden Kerchoven	07x2
+480	Kercoven	Kerckoven	06x9
+480	Kercoven	Kerckoven	07x8
+480	Kercoven	Kerckoven	08x5
 481	vedova Kercoven	vedova Kerkoven	08x1
 483	conte Henrico Vandembergh	conte Henrico di Vandembergh	04x1
-485	Digbi	Digby	10x19
-485	Digbi	Digbì	10x1
 485	baron Digby	baron Digbi	08x1
 485	baron Digby	baron Dighbi	10x6
 485	baron Digby	baron Digbs	10x1
+485	Digbi	Digbì	10x1
+485	Digbi	Digby	10x19
 485	ambasciator Digbi	ambasciator Dighbi	10x5
 485	ambasciator Digbi	ambasciator Dighbi	11x1
 489	conte di Solms	conti di Solms	09x1
+500	duca di Weimar	duca di Veimar	12x4
 500	duca di Weimar	duca di Wimar	10x2
 500	duca di Weimar	duca di Wimar	11x4
 500	duca di Weimar	duca di Wimar	12x1
-500	duca di Weimar	duca di Veimar	12x4
 506	conte della Torre	conte della Corre	11x1
 507	Menriques	Venriques	10x1
 511	Maestà catholica	Maestà cattolica	02x1
@@ -483,17 +483,17 @@ row	trigger	variant	occurences
 512	Maestà catholica	Maestà catolica	03x1
 512	re di Spagna	re di Spa	05x1
 514	ambasciator Gritti	ambasciator Grritti	10x1
+516	re di Francia	re di Fran	12x1
 516	sua Maestà christianissima	la Maestà christianissima	03x1
 516	sua Maestà christianissima	la Maestà christianissima	09x1
-516	re di Francia	re di Fran	12x1
 518	ambasciator di Svetia	ambasciatore di Svetia	04x1
 520	conte di Olach	conte di Holach	06x1
 520	conte di Olach	conte di Holach	10x4
 520	conte di Olach	conte di Holach	11x2
 522	Smith	Smit	06x5
+526	lantgrave Lodovico di Darmenstat	lantgrave Lodovico di Armenstat	10x1
 526	landtgrave di Darmenstat	landtgrave de Darmenstat	11x1
 526	landtgrave di Darmenstat	lantgrave di Darmenstat	11x1
-526	lantgrave Lodovico di Darmenstat	lantgrave Lodovico di Armenstat	10x1
 532	eccellentissimo signor ambasciator Contarini	eccellentissimo signor ambasciatore Contarini	09x2
 537	Vandermeulen	Vandermulen	06x1
 545	capitano Enzidel	capitan Enzidel	07x1
@@ -501,8 +501,8 @@ row	trigger	variant	occurences
 551	Buoch	Boch	06x1
 554	capitan de Roy	capitani de Roy	06x1
 554	Johan de Roy	Jean de Roy	06x1
-554	Johan de Roy	Joan de Roy	06x1
 554	Johan de Roy	Jan de Roy	06x3
+554	Johan de Roy	Joan de Roy	06x1
 555	Claudio Martino	Glaudio Martino	06x4
 555	Claudio Martino	Glaudio Martino	09x1
 557	capitan Acthoven	capitan Actonen	06x1
@@ -511,19 +511,19 @@ row	trigger	variant	occurences
 563	monsignor di Luines	signor di Luines	07x2
 572	Pietro Eversen	Pietro Everesen	06x1
 572	Pietro Evertsen	Pietro Everesen	06x1
+590	marchese di Buchingam	marchese Buchingam	12x1
 590	Villers	Viller	11x1
 590	Villers	Villiers	10x4
-590	marchese di Buchingam	marchese Buchingam	12x1
 591	Pietro Classen	Pieter Classen	06x1
 591	Pietro Classen	Pietro Claesen	06x3
 592	agente del Kerckoven	agente del Kerkoven	07x3
-594	Pietro Corson	Pietro Corssen	08x1
+594	Pieter Corson	Pieter Korson	08x1
 594	Pieter Corson	Pieter Corsen	06x2
 594	Pieter Corson	Pieter Corsen	07x1
-594	Pieter Corson	Pieter Korson	08x1
+594	Pietro Corson	Pietro Corssen	08x1
 595	Giacomo Nichetti	Giacomo Nicquetti	06x1
-600	sua Maestà cesarea	sua Maestà cesare	10x1
 600	sua Maestà cesarea	la Maestà cesarea	10x2
+600	sua Maestà cesarea	sua Maestà cesare	10x1
 600	sua Maestà cesarea	sua Maestà cersarea	10x1
 601	Frinch	Frinck	07x1
 601	capitano Frinch	capitan Frinch	08x2
@@ -531,145 +531,145 @@ row	trigger	variant	occurences
 601	capitano Frinch	capitan Frinch	10x1
 602	signor di Brederod	monsignor di Brederod	09x1
 602	signor di Brederod	signori di Brederod	04x1
-604	Cortland	Cortlant	09x3
 604	capitan Cortlant	capitano Cortlant	08x1
+604	Cortland	Cortlant	09x3
 606	Jan Janson Vander Linden	Jan Jansson vander Linden	06x2
 606	Jan Janson Vander Linden	Jan Janson Vander Linder	09x1
 607	Pieter Dirchson	Pieter Dirichson	08x1
 615	Niderzol	Nidersol	10x1
 615	Niderzol	Niderzil	11x1
 615	Niderzol	Hiderzol	11x2
-623	monsignor di Marsigliach	monsignor di Marsiglia	11x1
 623	monsignor di Marsigliach	signor di Marsigliach	06x1
+623	monsignor di Marsigliach	monsignor di Marsiglia	11x1
 628	governator di Nimeghen	governator di Nemeghen	05x1
-632	Bartoloti	Bertoloti	06x1
-632	Bartoloti	Bertoloti	11x1
-632	Bartoloti	Bartolloti	10x1
-632	Bartoloti	Bartolloti	11x1
+632	Bertolotti	Bortolotti	06x1
 632	Bertolotti	Bertoloti	06x1
 632	Bertolotti	Bertoloti	11x1
-632	Bertolotti	Bortolotti	06x1
+632	Bartoloti	Bartolloti	10x1
+632	Bartoloti	Bartolloti	11x1
+632	Bartoloti	Bertoloti	06x1
+632	Bartoloti	Bertoloti	11x1
 633	monsignor de Marchet	monsignor Marchet	04x1
 633	monsignor de Marchet	monsignor di Marchet	06x1
 633	monsignor de Marchet	monsignor di Marchet	07x1
 633	monsignor de Marchet	monsignor di Marchet	08x1
 633	monsignor de Marchet	monsignor di Marchet	09x1
+635	Pieter Janson	Pieter Janssen	06x7
 635	Pieter Janson	Pieser Janson	06x1
-635	Pieter Janson	Pieter Jansen	07x1
-635	Pieter Janson	Piter Janson	06x3
 635	Pieter Janson	Pieter Ianson	07x1
 635	Pieter Janson	Pieter Ianson	09x1
-635	Pieter Janson	Pieter Janssen	06x7
+635	Pieter Janson	Piter Janson	06x3
+635	Pieter Janson	Pieter Jansen	07x1
 640	Joast Harinton	Ioast Harinton	06x1
-648	Dirck Bas	Dirk Bas	10x1
-648	borgomastro Bas	gomastro Bas	06x1
 648	borgomastro Bas	borgomastro Pa	09x1
+648	borgomastro Bas	gomastro Bas	06x1
+648	Dirck Bas	Dirk Bas	10x1
 652	Battino Natale corso	Battino Natalie Corso	09x1
-654	capitan Storm	capitan Stur	09x1
 654	capitan Storm	capitano Storm	09x4
 654	capitan Storm	capitano Storm	10x1
-657	colonello Grè	colonello Gre	12x1
-657	colonello Grè	collonello Grè	12x1
+654	capitan Storm	capitan Stur	09x1
 657	colonello Gren	colonello Gre	12x1
-658	dama Serclas	madama Serclas	10x2
+657	colonello Grè	collonello Grè	12x1
+657	colonello Grè	colonello Gre	12x1
+658	Serclas	Seclas	10x1
 658	Serclas	Serclaes	10x2
 658	Serclas	Serclaes	12x1
-658	Serclas	Seclas	10x1
+658	dama Serclas	madama Serclas	10x2
 660	Tili	Til	10x1
 660	Tilly	Tillì	12x1
 660	Tilly	Till	11x1
 661	Rota	Rotta	03x1
 661	Rota	Rotta	11x6
 661	Rota	Rotta	12x4
-662	Scaffer	Scaffar	12x1
 662	Scaffer	Scaffero	12x1
 662	Scaffer	Schaffer	08x4
+662	Scaffer	Scaffar	12x1
 667	signor Filargirio Zuffato	signor Filargirio Zuffatti	12x1
-670	signor di Meroda	signore di Meroda	12x1
 670	signor Marada	signor Mar	02x1
+670	signor di Meroda	signore di Meroda	12x1
 673	signor ambasciator Morosini	signor ambasciator Moresini	11x2
-675	colonello Golstein	colonello Goldestein	11x1
-675	colonello Golstein	colonello Gulstein	12x1
-675	colonello Golstein	colonel Golstein	12x1
 675	Golstein	Goldstein	12x1
 675	Golstein	Goltstein	12x1
+675	colonello Golstein	colonello Gulstein	12x1
+675	colonello Golstein	colonello Goldestein	11x1
+675	colonello Golstein	colonel Golstein	12x1
 679	il suo figlio	al suo figlio	04x1
 681	Camerario	Camerarius	10x1
 681	Camerario	Camerarius	11x2
 683	Stellant	Stelant	12x1
 683	Stellant	Steelant	09x1
 688	Isaac Janson	Isaac Jansen	06x1
-688	Isaac Janson	Isaac Ianson	07x1
 688	Isaac Janson	Isaach Janson	06x1
+688	Isaac Janson	Isaac Ianson	07x1
 690	presidente di Gheldria	presidenti di Gheldria	04x1
 692	illustrissimo signor commissario Morosini	illustrissimo signor commissario Moresino	08x1
+698	capitan Elis	capitani Elis	09x3
 698	Elis	Elisa	11x1
 698	Elis	Ellis	09x1
-698	capitan Elis	capitani Elis	09x3
 708	Lambert	Lambart	09x1
 711	capitan Sansone	capitano Sansone	09x1
 718	principe di Brabanson	principe di Barbanson	09x1
 725	signor ambasciator Priuli	signor ambasciator Prioli	09x1
 731	maggior di Lovania	maggiore di Lovania	09x1
 744	signor Nardi	signor Nani	09x1
-745	visconte di Lormes	visconte de Lormes	09x3
 745	visconte di Lormes	visconte di Lomes	09x1
+745	visconte di Lormes	visconte de Lormes	09x3
 745	monsignor de Lormes	signor de Lormes	09x14
 745	monsignor de Lormes	monsignor di Lormes	09x1
 747	Molina	Molino	09x1
-748	Vosberghen	Vosbergen	09x1
 748	Vosberghen	Vorberghen	09x1
+748	Vosberghen	Vosbergen	09x1
 750	ambasciator di Danimarca	ambasciatore di Danimarca	12x2
 754	monsignor di Preau	monsignor di Preò	10x1
-756	monsignor di Basompier	monsignor di Bassonpier	09x1
 756	monsignor di Bassompier	monsignor di Bassonpier	09x1
+756	monsignor di Basompier	monsignor di Bassonpier	09x1
 759	Moens	Mens	06x1
 760	conte di Lichtenstein	conte di Liechtestein	10x1
 760	conte di Lichtenstein	conte di Liechtestein	11x1
-763	gran cancellier di Bohemia	gran cancelliere di Bohemia	10x1
 763	baron Rupa	baron Ruppa	10x1
 763	Ruppa	Rupa	10x2
+763	gran cancellier di Bohemia	gran cancelliere di Bohemia	10x1
+764	Inigo di Borgia	Inigo di Bor	10x1
 764	don Inigo	don Inico	10x7
 764	don Inigo	don Inico	11x3
-764	Inigo di Borgia	Inigo di Bor	10x1
 768	don Gonzal di Cordova	don Gonzal de Cordova	10x1
 768	don Gonzal di Cordova	don Gonzal de Cordova	11x1
 768	don Gonzal di Cordova	don Gonzales di Cordova	11x2
 768	Don Gonzal di Cordova	Don Gonzalez di Cordova	11x1
 774	capitan Tomas Viller	capitan Tomas Ziller	11x1
-779	Chichiester	Chiester	10x1
 779	Chichiester	Chichester	11x7
+779	Chichiester	Chiester	10x1
 779	baron Chichiester	baron Chicester	11x1
 788	secretario Veis	secretario Vers	12x1
 790	un figliolo maschio	un figliol maschio	09x1
 793	fratello di lui	tello di lui	11x1
-806	capitano Hornet	capitan Hornet	10x1
 806	capitano Hornech	capitano Ornech	11x1
 806	capitano Hornech	capitan Hornech	10x1
 806	capitano Hornech	capitan Hornech	11x4
-808	conte di Svart Zembergh	conte di Suvart Zembergh	10x1
+806	capitano Hornet	capitan Hornet	10x1
 808	conte di Svartzembergh	conte di Swarzembergh	11x1
+808	conte di Svart Zembergh	conte di Suvart Zembergh	10x1
 810	Baglioni	Baglione	11x1
-812	Grabendon	Gravendon	11x1
 812	Grabendon	Grabendonc	11x1
+812	Grabendon	Gravendon	11x1
 823	capitan Corbun	capitan Cobrun	12x1
 823	capitan Corbun	capitano Corbun	12x1
 827	Riou	Rio	12x1
 830	deputato della Rocella	deputati della Rocella	10x2
 838	colonello Navi	colonel Navi	11x1
-854	Ognati	Ognat	12x1
 854	Ognati	Ognate	10x10
+854	Ognati	Ognat	12x1
 856	Clas Hendrichson	Clas Henrichson	10x2
 858	Antonio Plouvier	Antonio Plovier	10x1
-860	Jan van Werden	Jan van Woenden	10x1
 860	Jan Gerth de Woerden	Jan Ghert de Woerden	10x1
+860	Jan van Werden	Jan van Woenden	10x1
 865	colonello Bür	colonnello Bür	10x1
-871	Miller	Muller	06x5
+871	Miller	Moller	06x1
 871	Miller	Mille	07x1
 871	Miller	Mille	08x2
 871	Miller	Mille	09x1
 871	Miller	Mille	11x1
-871	Miller	Moller	06x1
+871	Miller	Muller	06x5
 871	Miller	Miler	11x1
 871	Miller	Miler	12x1
 873	un moscovita	moscovita	06x2
