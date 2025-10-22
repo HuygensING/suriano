@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.047 date 1619-02-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera, Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">047</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 309r-311v, 314r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">309r-311v, 314r-v, 312r-313v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Visited Admiralty to ask they write letters to captains of twelve ships to restore order on the ships. Kerkhoven has passed away. He has arrived in Amsterdam to rent these four commercial ships but is confronted with a small group of associates. He is still waiting for the accounts. Brother of Levenstein might be raising troops in the Netherlands. One text attached: a compilation of two memorials presented to the States General on 19 and 23 February 1619 and a short letter by States General to the admiralties, all related to the twelve ships</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1619-02-26">26 febbraio 1619</date>
+            <num>101, 102</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="101">
+<div type="main" facs="main text of letter" n="101">
+<!--<p>26 febbraio 1619, Amsterdam (cc. 309r-311v, 314r-v)</p>-->
+<pb n="309r" facs="07_309r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 91 comincia 90 </p>
+<p>Serenissimo Principe </p>
+<p>conforme a quanto riverentemente scrissi colle precedenti lettere mie dei 17 <lb/>
+di dover fare mi trovai colli signori delle Amiralità, et li communicai <lb/>
+tutto quello che stimai proprio: perché comprendessero li disor-<lb/>
+dini che per falta dei capitani delle dodici navi seguivano <lb/>
+con discontento del publico, et mormoratione dei loro particolar <lb/>
+marinari, et pregai sue Signorie, che fossero scritte lettere che <lb/>
+servissero di buon avvertimento ad essi capitani ma in termine <lb/>
+però, che non essacerbasse l’animo loro assai mal disposto. Mi <lb/>
+promisero li deputati, che haverebbono riportato ai loro <lb/>
+collegi quanto li havevo detto, et che si haverebbe scritto <lb/>
+in termini, che havessero valso al maggior, et miglior <lb/>
+servitio di vostra Serenità. Ma in un istesso tempo anco, dandomi <lb/>
+essi parte di quanto era stato deliberato dai signori Stati, et per <lb/>
+la permissione di haver ancor quattro navi; et per la libertà <lb/>
+di tener ancora in servitio per sei mesi le dodici, mi prego-<lb/>
+rono di scriver che anc’ella procurasse, che vi fosse un <lb/>
+buon ordine, et particolarmente per amalati; et doi giorni <lb/>
+doppo questo congresso mi venero a trovar li deputati <lb/>
+di Roterdam, communicandomi certo compianto di qualche <lb/>
+capitano cioè<ptr target="#tn1" n="1"/> che non era possibile poter star saldo, mentre si fosse <lb/>
+continuato ad esser necessitati a pigliar le vittuarie a credito <lb/>
+della serenissma Republica da chi le dà: perché non havendo quelli <lb/>
+il denaro contante vogliono metter la robba al prezzo che <lb/>
+ad essi piace, ch’è carissimo, et eccessivo. Et li detti deputati <lb/>
+mi considerorono questo per punto di gran consequenza <lb/>
+alla continuatione dei discontenti. Vostra Serenità colle prudenza sua <lb/>
+vi farà metter quel rimedio, che stimerà proprio; né lascierò <lb/>
+di dirle, che sono alcuni giorni passati, che a me fu scritto
+<pb n="309v" facs="07_309v" rend="0"/>
+dall’alfiero<ptr target="#tn2" n="2"/> di uno dei capitani del colonello Anstenraedt, che <lb/>
+in quell’armata vi erano alcuni vivandieri grechi, che <lb/>
+facevano pagar ai soldati le vittuarie a discrettione: <lb/>
+onde tutto costava molto. </p>
+<p>Piaccia a Dio, che colla morte dell’amiraglio Kerkoven<ptr target="#tn3" n="3"/> resti <lb/>
+estinto ogni discontento, et ogni disgusto per sodisfattione, <lb/>
+et servitio della Serenità vostra. Il signor principe Mauritio mostrò meco <lb/>
+dispiacer della perdita; ma non seppe però<ptr target="#tn4" n="4"/> se non biasmar <lb/>
+il disgusto, che le attioni di lui hanno apportato a vostra Serenità <lb/>
+et li signori deputati dell’Amiralità mi dissero, che a lei toccava <lb/>
+alli<ptr target="#tn5" n="5"/> suoi rappresentanti se conoscevano<ptr target="#tn6" n="6"/> qualche manca-<lb/>
+mento in quei capitani, officiali, et marinari il provedervi <lb/>
+col castigo, poiché erano in suo servitio, et pagati da lei. <lb/>
+Io risposi, che ’l demerito lo haverebbe ricercato, ma che non <lb/>
+essendo li suoi ministri soliti proceder col rigore,<ptr target="#tn7" n="7"/> anzi <lb/>
+con ogni discretezza con genti di questi paesi non haveranno <lb/>
+voluto passar alla punitione dei mancamenti per non apportar <lb/>
+scontento nella Natione, che pur troppo si sentono quei <lb/>
+marinari dolersi anco senza esser tocchi replicorono, che <lb/>
+puniti colla ragione non haverebbe havuto luoco il compianto. </p>
+<p>Quanto alla persona del capitano Pach raccordata a vostra Serenità per atta <lb/>
+al far le rasegne io non lo ho conosciuto qui se non in occasione <lb/>
+della levata del già conte Gio. Ernesto di Nassau, ma per <lb/>
+quanto ho potuto sottrar qui per un buon capitano in mare egli <lb/>
+è assai atto; ma per questa particolar commissione di rasignare non <lb/>
+è stimato tale. Mi sono stati raccordati doi nell’armata <lb/>
+uno è Pietro Classen luogotenente del Kerkoven come capitano sopra il <lb/>
+vassello San Marco, al qual forse sarà stata conferita la dett[a]<ptr target="#tn8" n="8"/>
+<pb n="310r" facs="07_310r" rend="0"/>
+carica di capitano; et l’altra Anna Riverson patrone del vassello <lb/>
+di questo nome. Ma dell’habilità tanto del Pach, che della suffi-<lb/>
+cienza, et attitudine delli doi molto meglio sarà informata <lb/>
+di là poiché già sono stati praticati da’ suoi illustrissimi rappresentanti. </p>
+<p>Ma ognuno o sia della stessa flotta, o della Natione, o anco fuori <lb/>
+della Natione sarà atto al servitio purché sia di<ptr target="#tn9" n="9"/> fede, <lb/>
+et di sincerità, et che habbi<ptr target="#tn10" n="10"/> cognitione delli inganni, che <lb/>
+si possono far nel rasignare: perché essendo nelle navi et soldati, <lb/>
+et matelotti si fano facilmente delle maschere: onde la separatione <lb/>
+delli uni dalli altri sarà sempre buona, et che più di uno <lb/>
+assisti alle mostre perché sano li marinari caminar per <lb/>
+di fuori la nave, et travestiti rimettersi con altro nome, et <lb/>
+presentarsi di nuovo alla rasegna<ptr target="#tn11" n="11"/>. Escono<ptr target="#tn12" n="12"/> fuori per la camera <lb/>
+di puppa, vi sono le bocche porte<ptr target="#tn13" n="13"/>, et hanno qualche <lb/>
+altri passi, che saranno meglio conosciuti da chi ha governo <lb/>
+nei vasselli, che da me; et quanto io accenno è per quello <lb/>
+che di qua ne ho potuto cavare. Starà a chi tocca l’haver <lb/>
+l’occhio, et provedervi; ma particolarmente nel far le rasegne <lb/>
+far sortir fuori li soldati, altrimenti succederanno sempre <lb/>
+delli inganni. Et tanto dirò dei matelotti, quando si vorrà <lb/>
+rasignar li soldati. </p>
+<p>Io arrivai<ptr target="#tn14" n="14"/> hieri sera qui per trattar il noleggio delli quattro <lb/>
+vasselli, che procurerò segui con quel vantaggio, che <lb/>
+potrò maggiore; ma non essendovi se non una<ptr target="#tn15" n="15"/> o doi<ptr target="#tn16" n="16"/> navi <lb/>
+grandi di portata di circa trecento lasti dubito, che <lb/>
+mi si vorrà far saltare, pregarò Iddio, che mi assisti, et mi <lb/>
+liberi dalle conventicule delli interessati, che purché <lb/>
+faccino il loro profitto non mirano né a amici, né a nemici. </p>
+<pb n="310v" facs="07_310v" rend="0"/>
+<p>Hebbi prima del partirmi dell’Haya lettere per questi signori a’ quali <lb/>
+li signori Stati commettono di assistermi, et aiutarmi, et nella <lb/>
+capitulatione procurerò il maggior vantaggio, che mi sarà <lb/>
+possibile; come non mancarò di mettervi il particolar che mi <lb/>
+commanda toccante le mostre da farsi ogni mese non ostante <lb/>
+qual si sia pretesto, et quelli con chi ho già parlato trovano ciò <lb/>
+conforme al dovere. </p>
+<p>Sto attendendo il prossimo ordinario con gran devotione li roli, <lb/>
+spero che mi capiteranno, et sarà di grandissima sodisfattione, et di <lb/>
+grandissimo servitio.<ptr target="#tn17" n="17"/> Io sono andato destramente portando <lb/>
+il tempo innanti, et colla vicina speranza d’haver detti roli <lb/>
+ho fuggito di esborsar alcun denaro. </p>
+<p>Vostra Serenità non potrà far meglio certo che procurar di là, che sia concorda-<lb/>
+to con quei capitani, et marinari per la moneta; ma sopra <lb/>
+il tutto faccia che vi sia prontezza di denaro acciò non habbino <lb/>
+causa quei capitani di dire, che convengono comprar li <lb/>
+viveri a caro prezzo dai vivandieri tolendoli in credenza, <lb/>
+come facilmente può succeder; così leverà l’addito di che si ser-<lb/>
+vono quei marinari, et li capitani di compiangersi, et di far <lb/>
+correr le querele da questa parte, che io non mancarò di andar <lb/>
+assopendo in ogni miglior maniera. </p>
+<p>Parmi haver altre volte scritto che vi siano sopra le dodici navi <lb/>
+alcuni di quei matelotti, che non hanno più volontà di servire <lb/>
+quando non si possi ritenerli con le buone, et procurarli sodisfattione <lb/>
+vostra Serenità è consigliata per levar li mutini<ptr target="#tn18" n="18"/> farli licentiare, <lb/>
+et rimetterne in sua piazza<ptr target="#tn19" n="19"/> di quelli che verranno con queste <lb/>
+quattro navi. Io ne farò levar ottanta per nave compresi <lb/>
+li officiali, et vinti bombardieri o più per una. Se ne volesse
+<pb n="311r" facs="07_311r" rend="0"/>
+haver più marinari per nave me lo avvisi con la risposta delle <lb/>
+presenti, che sarà a tempo essendo impossibile, che le navi <lb/>
+possino esser pronte, che per aprile prossimo. Io soleciterò <lb/>
+quanto più potrò; ma il far provisioni di viveri, di birre <lb/>
+et di biscotti, et tutte altre cose necessarie ha bisogno di <lb/>
+tempo, senza mille altri accidenti, che possono occorrer. </p>
+<p>Il biscotto valerà in circa sette fiorini il cento. Se havessi qui denaro <lb/>
+rimesso venirebbe a costar<ptr target="#tn20" n="20"/> intorno ducati 28 il <lb/>
+migliaro; ma dovendolo pigliar qui per farlo pagar a <lb/>
+Venetia saranno più di trenta. Tanto ho voluto riverentemente <lb/>
+avvisar alla Serenità vostra se si risolvesse a qualche provisione <lb/>
+ma sarebbe necessario, che l’avviso mi capitasse con <lb/>
+qualche diligenza perché vi vuol tempo almeno di <lb/>
+vinti giorni a far il biscotto. </p>
+<p>Del<ptr target="#tn21" n="21"/> signor principe Henrico già con doi precedenti mani di lettere mie <lb/>
+ho significato alla Serenità vostra quello ch’è della sua intentione <lb/>
+che mira alla carica del signor conte di Vademont, et su questa sta <lb/>
+egli tuttavia, non volendo poter<ptr target="#tn22" n="22"/> per hora haverne <lb/>
+d’altra, et me lo disse anco la madre ultimamente che <lb/>
+fui a sua visitatione, alla quale communicai quanto <lb/>
+vostra Serenità mi ha significato con la lettera dei 9 stante: onde <lb/>
+godè della stima che l’Eccellenze vostre fanno del figliolo, et disse, <lb/>
+che si haverebbe aspettata la risposta, che in questo <lb/>
+proposito si fossero compiacciuta di dare. </p>
+<p>Col mezo del signor conte Guglielmo fratello del già conte Gio. Ernesto di <lb/>
+Nassau aspettandosi in breve per di qua farò saper al conte <lb/>
+Giovanni suo padre quanto vostra Serenità mi commanda, non <lb/>
+mancando di far conoscer a questi la stima, che fa
+<pb n="311v" facs="07_311v" rend="0"/>
+ella della casa, et delle persone. </p>
+<p>Qui corre voce, che ’l conte Gio. Casimiro di Levenstein fratello del <lb/>
+Colonello ch’è in servitio di vostra Serenità habbi a venir in questi <lb/>
+paesi per far levata di genti per lei. Et sono stato avvertito <lb/>
+da più d’uno, che non venga senza denari in mano, et <lb/>
+pronto esborso di essi perché non haverà un credito al <lb/>
+mondo, et certo se viene senza ricapiti sicuri non haverà <lb/>
+un minimo aiuto; anzi sarà mal visto. Non so se sia <lb/>
+vero perché vostra Serenità non me ne tocca moto. Ma se doverà <lb/>
+venire faccia<ptr target="#tn23" n="23"/> che sia ben capitulato seco per levar <lb/>
+di qua ogni sorte di dispute, et di disgusti; et veramente <lb/>
+dubito, che incontrarebbe anco difficoltà nel levar genti <lb/>
+mentre se sontono<ptr target="#tn24" n="24"/> tanti rumori d’armi spagnuole da <lb/>
+tutte le parti. Tal quale è l’avviso lo porto colla mia <lb/>
+solita riverenza all’Eccellenze vostre. </p>
+<p>Non devo lasciar di dirle<ptr target="#tn25" n="25"/> essermi stata fatta instanza all’Haya <lb/>
+dalli deputati delle Amiralità di haver denari per pagar <lb/>
+per questa Amiralità<ptr target="#tn26" n="26"/> un mese di viveri, et doi <lb/>
+altri<ptr target="#tn27" n="27"/> mesi per ognuna delle due altre Roterdam, <lb/>
+et Northolandia, che saranno in tutto trentasettemilla<ptr target="#tn28" n="28"/> <lb/>
+fiorini; et si sono contentati di aspettarne l’esborso per <lb/>
+tanto tempo, che servi lo avvisarne la Serenità vostra, et haverne <lb/>
+la risposta, che sarà di un mese, o cinque settimane <lb/>
+in circa, et per questo tempo faranno aspettar li creditori <lb/>
+di quei capitani delle dodici navi. Io ho tolto questo <lb/>
+tempo perché ella resti avvertita di quanto si doverà <lb/>
+esborsare per farlo discontar in armata alli detti capitan <lb/>
+et in oltre si compiacerà procurar di haver ogni chiarezza
+<pb n="314r" facs="07_314r" rend="0"/>
+di quello che è stato esborsato di là a’ detti capitani per <lb/>
+tirar in resto tutto il conto del valor de’ viveri per li 13 mesi. </p>
+<p>Invio qui aggiunta copia di un picciolo memoriale, che feci <lb/>
+[rec]apitar<ptr target="#tn29" n="29"/> alli signori Stati<ptr target="#tn30" n="30"/> fin hoggi otto per solecitar le risposte <lb/>
+[…]<ptr target="#tn31" n="31"/> di un altro, che lasciai sabbato all’assemblea delli medesimi <lb/>
+Stati per haver lettere di adrizzo a questa, et all’amiralità <lb/>
+di Northolandia, con instantia anco di esser provisto <lb/>
+di qualche pezze di artiglierie se mi fossero necessarie. <lb/>
+Le lettere furono scritte; ma doppo partito dell’Haya ho <lb/>
+cavato esser generali senza l’espressione<ptr target="#tn32" n="32"/> ch’io haverei <lb/>
+desiderato, come vedrà dal contenuto di esse;<ptr target="#tn33" n="33"/> ma <lb/>
+haverò tempo occorrendo di far replicare. Gratie etc. </p>
+<p>Da Amsterdam a’ 26 febraro 1618<ptr target="#tn34" n="34"/> </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="314v" facs="07_314v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 91 comincia 90 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="101">
+<!--
+<p n="314vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 febraro 1618<ptr target="#tn35" n="35"/> ricevute 14 marzo 1619 </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Haya. n° 91 </p>
+<p>Ufficio fatto con i signori dell’Amiralità <lb/>
+perché scrivino a’ capitani delle 12 navi <lb/>
+di desister da lamentazioni indebite <lb/>
+et loro pregano di buoni ordini <lb/>
+per i compianti di svantaggi in <lb/>
+pigliar vittuaroli a credito con <lb/>
+pagarli di più, e dice il secretario <lb/>
+haver aviso di vivandieri grechi <lb/>
+che fano pagar a discretione. <lb/>
+Mauritio si duol della perdita del <lb/>
+Chercoven ma biasma le sue ationi <lb/>
+et li deputati dell’Amiralità <lb/>
+dicono doversi rasegnar quelli sono <lb/>
+in servitio, che non fano il debito <lb/>
+passa ciò il secretario buon ufficio. <lb/>
+Loda il Pac per buon capitano in mare <lb/>
+ma non per rasegnar. Raccorda <lb/>
+il luogotenente del Chercoven et <lb/>
+Ana Reverson: esservi nondimeno <lb/>
+bisogno di persona che habbi <lb/>
+cognizione delli inganni che si fanno <lb/>
+et ne va discorrendo. </p>
+<p>È andato in Ansterdam per trattar <lb/>
+il noleggio de’ vasselli: ha havuto <lb/>
+lettere di favore de’ signori Stati e procurerà <lb/>
+ogni vantaggio. </p>
+<p>Aspetta i rolli havendo per ciò <lb/>
+portato avanti l’esborso di danaro. <lb/>
+Sarà bene accordar di qua della <lb/>
+moneta et incarica la prontezza di denaro </p>
+<p>L. R. </p>
+<p n="314vD">———</p>
+<p>per levar tanti pretesti di <lb/>
+condoglianze. </p>
+<p>Raccorda lincentiar i marinari <lb/>
+malcontenti e rimeterli sopra <lb/>
+le 4 navi che venirano. <lb/>
+Dimanda ordine se si vuol più <lb/>
+marinari servendo il tempo della <lb/>
+risposta perché non partirano <lb/>
+prima che ad aprile. </p>
+<p>Il biscotto venirà a costar <lb/>
+ducati 28 il migliaro se si <lb/>
+vuol s’avisi con diligenza. <lb/>
+Della condotta del principe Henrico <lb/>
+aspetta risposta sopra la carica <lb/>
+di Vadenont. </p>
+<p>Voce che ’l fratello del Levenstein <lb/>
+vada a far genti: che <lb/>
+se non porterà danari non farà niente<ptr target="#tn36" n="36"/>. <lb/>
+Instanza delle Amiralità <lb/>
+dei danari per viveri. </p>
+<p>Manda copia di memoriali <lb/>
+dato per haver artiglierie et altro. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="102" corresp="101" source="312r-313v" >
+<div type="main" facs="main text of attachment I" n="102" corresp="101" >
+<!--<p>Allegato I al n. 101 (cc. 312r-313v)</p>-->
+<pb n="312r" facs="07_312r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Illustrissimi et eccellentissimi signori </p>
+<p>io non dubito, che vostre Eccellenze non habbino già risoluto sopra l’instanze fatte <lb/>
+per l’innanti da me. Le prego adunque darmi la risposta toccante <lb/>
+la concessione delle quattro navi, l’ordine, che la serenissima Republica trova <lb/>
+buono, ch’elle diano ai loro capitani contra li pirati, et la <lb/>
+permissione di trattener ancor per sei mesi li dodici vasselli <lb/>
+al suo servitio; affineché con questa risposta io possi passar <lb/>
+avanti nel seguitar il mio negorio in quanto mi sarà possibile. </p>
+<p>Presentato alli 19 di febraro 1619 </p>
+<p>Altro memoriale </p>
+<p>Havendomi vostre Eccellenze concesso di poter far equipaggio di quattro <lb/>
+altri vasselli per servitio della serenissima Republica dimani io partirò <lb/>
+per Amsterdam per far il noleggio, et quello che sarà necessario; ma <lb/>
+affineché io possi avanzar in quanto meglio sarà possibile <lb/>
+questo equipaggio prego vostre Eccellenze darmi lettere per li collegi respet-<lb/>
+tivi delle amiralità d’Amsterdam, et Northolandia con ordine <lb/>
+di aiutarmi, et assistermi per il buon essito di detta preparatione <lb/>
+secondo che lo ricercasse la necessità, et l’occasione, come anco di <lb/>
+risponder, et dar per me se sarà bisogno la parola. </p>
+<p>In oltre sentendo vostre Eccellenze che li Spagnuoli sono preparati, et armati <lb/>
+non solamente per mare; ma per terra; et perché il detto mio <lb/>
+equipaggio non deve esser, che di quattro vasselli questi tanto <lb/>
+per la riputatione di questo Paese, che per la loro sicurezza <lb/>
+è necessario che siano ben armati affineché possino passar <lb/>
+sicuramente, et possino resister a qualche rancontro. Questo <lb/>
+per tanto mi fa pregar vostre Eccellenze che non potendo dai partionevoli <lb/>
+dei vasselli haver tutte le artiglierie necessarie, et proprie
+<pb n="312v" facs="07_312v" rend="0"/>
+si compiacciano di dar ordine a’ detti signori dell’Amiralità di prove-<lb/>
+dermene la quantità necessaria, et ragionevole con l’obligatione <lb/>
+a nome della serenissima Republica della restitutione. </p>
+<p>Presentata a’ 23 febraro 1619 </p>
+<p>3. Lettera delli signori Stati alle Amiralità </p>
+<p>Havendoci il signor Suriano residente della Republica di Venetia fatto saper <lb/>
+dover dimani partire per l’avanzamento della compreda o noleggio <lb/>
+delle quattro gran navi, le quali sopra la sua propositione secondo <lb/>
+l’avviso di sua Eccellenza et di vostre Signorie li habbiamo accordate per servitio della <lb/>
+predetta Republica; onde avenendo che sua Signoria havesse di bisogno <lb/>
+della loro direttione, et aiuto richiediamo, et vogliamo, che <lb/>
+le vostre Signorie sendone richieste lo voglino in questo accommodare <lb/>
+diriger, et assister quanto meglio si potrà fare senza pregiu-<lb/>
+dicio del Paese: a fine che sua Signoria possa havere le dette navi <lb/>
+al maggior vantaggio, et al miglior accommodamento si potrà. </p>
+<p>Con che gratie etc. </p>
+<p>Dall’Haya a’ 23 febraro 1619 </p>
+<pb n="313r" facs="07_313r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="313v" facs="07_313v" rend="270"/>
+<p>Doi memoriali dati alli signori <lb/>
+Stati, et una lettera di essi <lb/>
+alle Amiralità </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 91<ptr target="#tn37" n="37"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "habbi" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "laudar" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes the struck-through letters.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "ma" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "habilit" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "qua" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "E-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "arr-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line on "quattro" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "ad ognuno" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "duc" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Corrected above "Il."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "-ne" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "bella" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by "doi mesi" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "altri" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "t-" is the result of a correction.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Damaged page.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Damaged page.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "ho" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "-1" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

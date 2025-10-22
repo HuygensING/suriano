@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.025 date 1621-05-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">025</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 120r-123v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp39-57
+            </note>
+            <biblScope unit="page">118r-119v, 120r-123v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Waiting to hear what has been decided at the diet of Heilbron, reports rumours that French king has recalled his principal ambassadors in HRE. Republic fears few good things will come from France, given their feeble response in Grison and now the firm assertion of the king to attack La Rochelle. Reports that Bartholda van Swieten is meddling in truce negotiations. The captured ships have a worth of 19000 florins. The Elector of Cologne has sent to ask the States and Carleton to make sure that the forces of Denmark will not harm his possessions in Munster, Paderborn. Reports a deputee has visited him to inform him of conditions to emperor on behalf of Frederick V. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-17">17 maggio 1621</date>
+            <num>039, 040</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="039" corresp="040" source="118r-119v" >
+<div type="main" facs="main text of attachment I" n="039" corresp="040" >
+<!--<p>Allegato I al n. 40 (cc. 118r-119v; decodifica di cc. 120v-121r)</p>-->
+<pb n="118r" facs="10_118r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="118v" facs="10_118v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="119r" facs="10_119r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="119v" facs="10_119v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="040">
+<div type="main" facs="main text of letter" n="040">
+<!--<p>17 maggio 1621, L’Aia (cc. 120r-123v)</p>-->
+<pb n="120r" facs="10_120r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 300 comincia 299 </p>
+<p>Serenissimo Principe </p>
+<p>si attende con gran curiosità quello, che nella dieta di Helbrun sarà <lb/>
+stato stabilito. Si sa, che si doveva trattar del modo di sodisfar la <lb/>
+soldatesca nel licentiarla; ma anco, come si potesse conservar l’Unione. <lb/>
+Non si vede apparenza, ch’ella habbi ad esser tale, quale è stata per <lb/>
+il passato. Le città non intervengono nella Dieta, havendo fatto il lor <lb/>
+trattato a parte; manco il landtgrave d’Hassia, che ha fatto il medesimo <lb/>
+da quelli però dalla casa del Re viene assai iscusato dicendosi, ch’egli <lb/>
+sia stato pressato, et necessitato da’ suoi soldati ad accordarsi collo <lb/>
+Spinola; altrimenti protestorono, ch’essi haverebbono accordato senza <lb/>
+di lui, et abandonatolo totalmente; ma che però sia egli andato <lb/>
+differendo quanto ha potuto. Et a me disse il conte di Solms, che <lb/>
+vi era dubio s’egli habbi segnato il trattato d’accordo allo Spinola <lb/>
+prima di quello habbino fatto gl’altri principi. </p>
+<p>Vostra Serenità haverà inteso dal proprio luoco s’è vero, che gl’ambasciatori del Christianissimo <lb/>
+have[va]no<ptr target="#tn1" n="1"/> havuto ordine di licentiarsi da sua Maestà cesarea principalmente <lb/>
+il [duc]a<ptr target="#tn2" n="2"/> d’Angauleme, et monsignor di Bettune per ritornarsene in <lb/>
+F[ran]cia<ptr target="#tn3" n="3"/>; ma monsignor di Preò, come d’età più vigorosa doveva <lb/>
+restar in Alemagna per andar negotiando con quei principi sopra <lb/>
+quello potesse occorrer. A me lo ha detto il fratello monsignor d’Altariva <lb/>
+colonello qui d’un reggimento francese; ma non mi seppe dire se <lb/>
+coi principi dell’Unione haverebbe passati ufficii di essortatione <lb/>
+per far che si conservassero uniti. </p>
+<p>Poco a dir la verità si promettono qui <hi rend="decoded">dalli</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">uffici della Francia, non essendo portati con quel calore, che la urgenza delle <lb/>
+cose ricercarebbe</hi>, <lb/>
+vedendo, che prevalino li fini, et le belle parole de Spagnoli
+<pb n="120v" facs="10_120v" rend="0"/>
+et Austriaci, li quali armati trattano con vantaggio, et rendono ognuno <lb/>
+sodisfatto colle speranze. </p>
+<p>Così si presupone che succederà in Grisoni, mentre sono avvisati, che <lb/>
+monsignor Mintelon<ptr target="#tn5" n="5"/> non habbi portata altra forza, che quella delle <lb/>
+persuasioni, et degl’ufficii senza quel denaro, che si disse caminare <lb/>
+con esso, et dover anco seguitarlo; et come alcune nove che venero, <lb/>
+che erano stati cacciati li Svizzeri de piccioli cantoni fuori del <lb/>
+Paese apportorono<ptr target="#tn6" n="6"/> contento grandissimo; così altre contrarie<ptr target="#tn7" n="7"/> venute in questi <lb/>
+ultimi giorni hanno dato sommo discontento. </p>
+<p>La risolutione del Christianissimo di passar all’assedio della Rocella dà <lb/>
+da pensar non poco a questi signori, et vanno prevedendo da molti <lb/>
+accidenti, che ne’ tempi presenti si parano innanti, che ’l fine non è <lb/>
+il solo di far ubidir a Rocelessi; ma di passar più avanti contra <lb/>
+il resto del corpo di quelli della religione riformata a fine se si <lb/>
+potrà di ridurli al niente. Et qualche francese a […]e<ptr target="#tn8" n="8"/> ha detto <lb/>
+in discorso <lb/>
+<hi rend="decoded">haver</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">il Re in animo di far tutto lo sforzo contra <lb/>
+quelli della religione per mortificarli, vedendo, che <lb/>
+troppo pigliano piedi, et forse anco ruinarli a fatto. <lb/>
+Quelli di Alemagna temono simil concetto anco nell’<lb/>
+Imperatore. <lb/>
+</hi></p>
+<p><hi rend="decoded">Quella dama di che scrissi la passata settimana riverentemente <lb/>
+alla Serenità vostra, che si mescolava dell’affar della tregua <lb/>
+è partita questa matina per Brusseles, sendo mia <lb/>
+vicina l’ho veduta; né ho cavato da lei, se non che <lb/>
+andava per tirar l’ultima risolutione di sue Altezze, <lb/>
+se vogliono risolversi ad ispedir di novo qui per pro-<lb/>
+poner</hi>
+<pb n="121r" facs="10_121r" rend="0"/>
+<hi rend="decoded">essa tregua poiché di qua dalla bocca del signor principe <lb/>
+Mauritio, haveva cavato, che da questi signori non si voleva <lb/>
+proponer, et che all’Eccellenza sua non haveva bastato l’<lb/>
+animo parlarne ad alcuno; che però andava per <lb/>
+haver un ultimo fine, et restar libera da questo <lb/>
+pensiero; anco da altra persona, che è stata con lei <lb/>
+ho havuto ’l medesimo; et parmi di poter dire con qualchcheduno, che è verità il pensar, che li serenissimi arciduchi <lb/>
+mandino qui di nove. <lb/>
+</hi> Tuttavia <lb/>
+si starà a sentir l’essito. Intanto caminano le cose al solito. <lb/>
+solo ultimamente è seguita qualche hostilità in Fiandra, che qualche <lb/>
+numero de’ soldati sortiti dalla città di Hardemburgh in Fiandra <lb/>
+havendo scoperto un convoi di qualche quaranta in cinquanta <lb/>
+soldati, che facevano scorta ad alcune barche<ptr target="#tn10" n="10"/> che <lb/>
+con munitioni andavano da Gantes a Dam li hanno <lb/>
+batuti parte fugandone, et parte sono stati ammazzati con <lb/>
+haver afondate alcune delle barche, et una d’esse presa <lb/>
+l’hanno condotta all’Esclusa, altri dicono nella medesima città <lb/>
+di Hardemburgh. </p>
+<p>Il valsente delli vasselli condotti in Zelanda presi in mare dalle <lb/>
+navi di guerra di questi signori non si sa effettivamente quanto sia <lb/>
+ben il valor dell’argento batuto, et non batuto dicono, che <lb/>
+importa intorno a novecento milla fiorini, et le cassette erano <lb/>
+marcate per quanto viene detto della marca regia <lb/>
+se ben Genovesi pretendino esser suo, come quelli, che a loro
+<pb n="121v" facs="10_121v" rend="0"/>
+rischio havevano condotto il denaro per sodisfar al partito con la <lb/>
+corte, che in tanto ne patisce, in quanto bisognerà, che aspetti <lb/>
+nuova provisione. Viene detto che habbino li mercanti <lb/>
+interessati ispedito immediate a<ptr target="#tn11" n="11"/> Genova per veder se si trova <lb/>
+buono di arrestar quei vasselli, che di questi paesi fossero in quei <lb/>
+porti; ma si crede, che pensaranno di là molto bene al farlo <lb/>
+mentre li vasselli di guerra, che sono in quei mari, o poco discosti <lb/>
+potrebbono haver ordine di haverne il risarcimento. </p>
+<p>Spagnuoli stanno ancor quieti, et la sortita prima è stata quella del <lb/>
+sudetto convoi, et viene creduto, che non si muoveranno che <lb/>
+prima vorranno veder che fine haveranno le cose di Alemagna <lb/>
+per assordar quivi il tutto, et poi muoversi dove più tornerà commodo. <lb/>
+Fecero correr voce, che lo Spinola era partito per Spagna in diligenza <lb/>
+tuttavia sua Eccellenza non ne ha nuova alcuna, di più che Leopoldo <lb/>
+fosse passato di Alsatia nel Tirolo per fomentar gl’affari<ptr target="#tn12" n="12"/> <lb/>
+della Valtelina, et altri, che habbi a venir nel paese di Cleves <lb/>
+tutto a fine di tener in sospeso gl’animi. </p>
+<p>Teme il serenisismo di Colonia che l’armi di Danimarca passando nel <lb/>
+Palatinato habbino a far stradda sopra li suoi stati di Munster, <lb/>
+Paterborn, et altri, et ruinarli più di quello, che sono, et doi deputati <lb/>
+che sono qui a nome suo hanno fatto ufficio con alcuni di quei <lb/>
+signori, et con l’ambasciator d’Inghilterra in particolare per divertir questo mal <lb/>
+che gli par iminente. </p>
+<p>Questi doi sono venuti espressamente qui per trattar di rinovar la <lb/>
+neutralità con questi stati, la quale però vorrebbono stabilire <lb/>
+con sicurezza tale, che non fossero li sudditi di quel Principe
+<pb n="122r" facs="10_122r" rend="0"/>
+sottoposti, come sono stati per il passato con le levate, che si sono <lb/>
+fatte per Alemagna, et con li convoi ispediti, et ritorno della <lb/>
+cavallaria dal Palatinato, et sono anco raccomandati caldamente <lb/>
+dall’ambasciator di Francia di commissione del suo Re. </p>
+<p>Et perché nel ritorno della detta cavallaria furono constretti i popoli <lb/>
+delle terre di Paterborn, et altri per dove ella passò a contriuir <lb/>
+qualche denari, et a far polizza di promessa di più di trenta milla <lb/>
+raistaleri hanno fatta instanza questi doi ministri di esserne <lb/>
+sollevati; quanto a questi lo saranno; ma per nove milla <lb/>
+raistaleri esborsati non vi si vede apparenza, poiché già sono <lb/>
+entrati in borse particolari; et par che si contenteranno, che non <lb/>
+se ne parli; ma che sia presto ordine per l’avenire. </p>
+<p>Uno dei detti signori mi è venuto hoggi a visitare, come anco la passata <lb/>
+settimana havevano fatto ambidoi; et io fui primo al suo arrivo <lb/>
+a darli la ben venuta; et da lui ho cavato che tre conditioni <lb/>
+si proponeva dall’Imperatore per il Re palatino una che cedesse <lb/>
+a tutte le pretensioni, l’altra, che in particolare non pensasse all’<lb/>
+elettorato; et per terza, che Spagnuoli et la casa d’Austria <lb/>
+vogliono haver una o doi piazze per fortificarle nel Palatinato <lb/>
+a fine di<ptr target="#tn13" n="13"/> esser più sicuro l’Imperatore che li principi di Alemagna non habbino in quella parte a far più di ribellioni <lb/>
+simili contra l’Imperio. Scrivo questo per il rincontro che vostra Serenità potesse haver da più sicuro luoco. </p>
+<p>Dell’ambasciata ordinaria per costì haverà vostra Serenità inteso da mie precedenti
+<pb n="122v" facs="10_122v" rend="0"/>
+la iscusa, che ne fu fatta meco da sua Eccellenza, et da altro. Anco il signor cavalier Arsen doi giorni doppo l’ispeditione, che mi rincorse <lb/>
+fece delle medesime iscuse; et mi soggiunse, che sicuramente tener <lb/>
+che colla nuova riduttione della provincia di Holanda, che <lb/>
+haverà principio hoggi otto si terminerà questo negotio. </p>
+<p>Sono di nuovo instantemente pregato dal Calandrini, et compagna <lb/>
+per supplicar la Serenità vostra compiacersi dar ordine, che ’l Noirott <lb/>
+sia pagato sopra le lettere di cambio, che gli ho fatte, et m’ha <lb/>
+mandato un capitolo di lettere del medesimo Noirott nelle quali <lb/>
+gli dà conto che haveva convenuto trarli una somma di <lb/>
+quattromilla ducati in circa per rivalersi all’incontro della <lb/>
+rimessa; considerandomi il danno che ne riceveva. Può <lb/>
+la Serenità vostra colla prudenza sua considerar quelle, che le <lb/>
+possi importar la dilatione di questi pagamenti. Gratie etc. </p>
+<p>Dall’Haya li 17 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="123r" facs="10_123r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="123v" facs="10_123v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>seconda<ptr target="#tn14" n="14"/> n° 300 comincia 299 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="040">
+<!--
+<p n="123vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 maggio 1621 ricevute 9 giugno n° 300 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Damaged page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Damaged page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Damaged page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "dalli … ricercarebbe" decoding of the encrypted text in the internal margin; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i-" corrected above "-o-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> First "-r-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Damaged page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "haver … qui di nove" decoding of the encrypted text can be found on c. 118r; with cross-reference sign.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ba-" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Corrected above "in."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "del Va" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "d-" corrected above "p-."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Corrected above "prima."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.051 date 1618-02-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">051</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 299r-302v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">299r-302v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>States General have allowed levying of 1000 troops, similar to conditions granted to John Ernst of Nassau and Wassenhoven, waiting to hear from province of Holland where they will be recruited. As candidate for this levy Suriano mentions Carel Huyn van Amstenreadt, who has 28 years of experience as a soldier, including the siege of Ostend and in Poland. Reports on the practical organization of these troops and expresses concerns and difficulties with negotiating the pay of the soldiers and officers. Proposal of to send ambassador to Venice to align the common interest and correspondence between Venice and the Dutch Republic. Concludes with absence of recent letters from Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-02-13">13 febbraio 1618</date>
+            <num>091</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="091">
+<div type="main" facs="main text of letter" n="091">
+<!--<p>13 febbraio 1618, L’Aia (cc. 299r-302v)</p>-->
+<pb n="299r" facs="05_299r" rend="0"/>
+<head>main text of letter</head>
+<p>Replicata </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 6 </p>
+<p>Serenissimo Principe </p>
+<p>sopra quanto fu avvisato da quelli del Conseglio di Stato li serenissimi <lb/>
+Stati Generali hanno fatta la risposta, che vostre Eccellenze vedranno <lb/>
+qui aggiunta per la concessione della levata di 1000 fanti <lb/>
+della maniera che fu concesso per il conte Gio. Ernesto, et colonello <lb/>
+Wassenhovven. Hora attendo, che dalla provincia di Holanda <lb/>
+siano dichiarati li luochi delle Mostre, ove haveranno a ridursi <lb/>
+li soldati. Ne ho parlato al signor Bernevel il quale mi ha <lb/>
+detto esser necessario affine che gl’habitanti delle città non <lb/>
+ricevino danno et restino al di sotto, che sia posto buon ordine, <lb/>
+né succedino degl’incovenienti successi nelle levate dell’anno <lb/>
+passato, et in quella del conte di Levenstein essendo restati al di <lb/>
+sotto li poveri habitanti, che hanno fidato il suo alli capitani, et <lb/>
+soldati. Io dissi, che a questo haverei procurato ogni rimedio ma <lb/>
+che in tanto sua Signoria non mancasse di continuarmi il suo favore anco <lb/>
+in questa occasione per poter ispedir questa levata. </p>
+<p>Doppo haver aspettato molto tempo per poter trovar qualche soggetto per <lb/>
+capo di detta levata mi si offerse il governator d’Isendich luogotenente general <lb/>
+dell’artiglierie; ma non ho potuto accordar seco perché pretendeva <lb/>
+titolo di generale della condotta tanto per mare, che per terra, et altre <lb/>
+conditioni, che tiravano con seco varie consequenze, alle quali non ho <lb/>
+stimato a proposito assentire. </p>
+<p>Instesso tempo mi si è presentato il signor Anstenraelt soldato di 28 <lb/>
+anni in questi paesi, che doppo haver nella sua gioventù portate
+<pb n="299v" facs="05_299v" rend="0"/>
+l’armi a piedi, et a cavallo servì poi di luogotenente nella compagnia del <lb/>
+signor conte Ernesto di Nassau è stato capitano in Ostendem fu in Polonia <lb/>
+al servitio del marchese di Brandemburgh, et hora è ben senza tratte-<lb/>
+nimento dei signori Stati; ma però in termine tale che sua Eccellenza mi ha detto, <lb/>
+che la prima carica vacante gliel’haverebbe data, et me lo ha lodato <lb/>
+per huomo di valore, et coraggio spero che vostra Serenità sarà servita da <lb/>
+lui come anco dalli capitani che haverò seco, si leveranno mille ottanta <lb/>
+fanti; ma questi ottanta uno dei capitani li<ptr target="#tn1" n="1"/> vuol levar del suo proprio <lb/>
+et condurli al servitio, et se vostra Serenità non li vorrà havere si rimetterà <lb/>
+a lei, se ben spera che non glieli leverà facendosi forse di farli buoni, <lb/>
+et proprii per renderle buon servitio. Sarà divisa la truppa in sette <lb/>
+compagnie quella del Capitano ha voluto il titolo di colonello, <lb/>
+et stando egli saldo glielo ho concesso ma rimesso all’arbitrio <lb/>
+di vostra Serenità il confermargli la denominatione delli officiali cioè luogotenente <lb/>
+et sargente maggiore, et quartiermastro anzi nel capitolo resta espresso <lb/>
+che essendoli da vostra Serenità accordati non corri il stipendio, ch’ella accon-<lb/>
+sentirà per la sua persona, et per gl’officiali sudetti se non doppo acco-<lb/>
+dato et per il tempo della prima mostra fino all’accordo si rimette <lb/>
+alla sua munificenza per quella recognitione che stimerà propria. <lb/>
+Troppo danni mi causano le capitulationi che di là sono state nella <lb/>
+riforma stipulate con cotesti holandesi perché nel proposito delle <lb/>
+paghe stano fermi nel voler haver quello, che hanno certi quelle <lb/>
+compagnie holandesi, et io nel non voler pagar più che sette scudi
+<pb n="300r" facs="05_300r" rend="0"/>
+per testa, et questo è il punto principale<ptr target="#tn2" n="2"/> sopra il quale si <lb/>
+preme grandamente, et che ancor sta in contessa. Ricercano di haver <lb/>
+separate le paghe dei capitani et officiali accio sappino li soldati <lb/>
+quanta sarà la loro paga. Fin qui par che si contanterebbono se ben <lb/>
+non del tutto volentieri, che dal pagamento di sette scudi per testa da <lb/>
+sette lire correnti mancando soldati doppo la mostra, che se le darà <lb/>
+costi fosser detratti dodici fiorini per testa de’ 17 et mezo, che <lb/>
+possono importar in circa li sette scudi, et sarebbono quattro scudi, et <lb/>
+mezo in circa di quella moneta, io però sto saldo, et accorderò con quel <lb/>
+maggior avanzo che potrò; ma quando vostra Serenità stimasse meglio, ch’io <lb/>
+accordassi il stipendio fermo ai capitani et officiali; et tanto per soldato <lb/>
+per evitar li disgusti, o se trovasse buono il sudetto partito di ribatter <lb/>
+li dodici soli fiorini per testa, si compiacerà significarmelo colla risposta <lb/>
+di queste. Vorrei bene ch’ella non venisse a tempo; ma ne temo rispetto <lb/>
+alla stagione, che continua col gelo et con nevi che non lascierà così <lb/>
+tosto preparar le navi, et haveranno ancorché ad ordine difficile l’<lb/>
+uscita per il medesimo accidente del gelo. Sanno, et hanno havuta <lb/>
+particolar nota di quanto ella dà per ogni officiale nel reggimento del <lb/>
+Rocalaura et questo mi difficulta il caminar avanti come vorrei. <lb/>
+Tentavano et hanno fatto ogni potere per esser intertenuti dieci mesi, <lb/>
+anco doppo arrivati nello stato di vostra Serenità, et poi venero fino alli sei <lb/>
+mesi; ma io sono stato saldo nel non accordare, che per sei mesi doppo <lb/>
+la prima mostra; si vorrebbe ch’io passassi li dodeci fiorini per testa
+<pb n="300v" facs="05_300v" rend="0"/>
+per la levata, et stano saldi nel volerne 14 come il conte Gio. Ernesto. <lb/>
+Vi è l’obligo, come è appunto nella capitulatione del conte di Leven-<lb/>
+stein aggiunta, che doverà servir esso Colonello per mare et per terra <lb/>
+unitamente et separatamente secondo l’occasione et bisogno. Questo <lb/>
+è in sostanza quanto ho trattato sin qui né essendo ancor stabilito <lb/>
+mi rimetto a mandar il tutto con altre mie. </p>
+<p>Nel fine della scrittura, che diedero li signori del Consiglio di Stato vi è posto, <lb/>
+che pareva a loro, che questa fosse una propria occasione di pensare <lb/>
+il mandar qualche suo ministro a Venetia considerandosi che così <lb/>
+comportava alli communi interessi, et al servitio proprio del Paese, <lb/>
+et per passare una più stretta corrispondenza tra la serenissima Republica <lb/>
+et queste Provincie. </p>
+<p>Il promottore di questo avviso è stato il signor principe Mauritio seguitato <lb/>
+anco da altri col medesimo senso<ptr target="#tn3" n="3"/> et quando sono stato a sua Eccellenza venendo <lb/>
+a proposito me lo confermò, et mi disse, che sempre haveva creduto, <lb/>
+che questo fosse il buon mezzo, et che facilmente et senza longhi discorsi, <lb/>
+et capitulationi si poteva stringer una più perfetta corrispondenza <lb/>
+con doi sol capitoli, che nell’occasioni dovessero questi Stati assister <lb/>
+di tante navi quanto fosse,<ptr target="#tn4" n="4"/> stimate il bisogno et mentre li Stati <lb/>
+fossero pur in guerra sua Serenità assistesse di un tanto denaro <lb/>
+questa sarebbe breve capitulatione et le promesse dall’una parte <lb/>
+et l’altra fossero reciproche, et meco considerò che questo sarebbe <lb/>
+senza quei strepiti, che rendono gelosia. Ho saputo, che sopra tal <lb/>
+avviso hanno li serenissimi Stati Generali scritto alle Provincie per haver il loro
+<pb n="301r" facs="05_301r" rend="0"/>
+assenso in questo particolare parendo che vi sia l’inclinatione di mandar <lb/>
+Ministro a vostra Serenità di quello seguirà ne scriverò riverentemente alla <lb/>
+Serenità vostra. </p>
+<p>In Brusseles si veggono lettere di Alemagna dall’ambasciator di Spagna <lb/>
+residente presso vostra Serenità di cotesto Nontio, et sino del cardinal Borghese <lb/>
+che tutte parlano, che senz’altro seguirà la pace, et molti di là ne <lb/>
+sono impressi; ma qui poco vi si crede. </p>
+<p>Il messaggiero d’Anversa, che arrivò domenica non mi portò lettere <lb/>
+della Serenità vostra né fino a quest’hora è comparso il mio ordinario <lb/>
+pacchetto, temo di qualche mal incontro, et sento dispiacere perché <lb/>
+poteva esser che vi fosse qualche avvertimento o qualche ordine <lb/>
+da essequire. </p>
+<p>L’ultime lettere mie furono de’ 5 col corriero straordinario n° 3 fin <lb/>
+n° 4 et le replicate mandai per Anversa. Gratie etc. </p>
+<p>Dall’Haya a’ 13 febraro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="301v" facs="05_301v" rend="0"/>
+<p>Blank page</p>
+<pb n="302r" facs="05_302r" rend="0"/>
+<p>Blank page</p>
+<pb n="302v" facs="05_302v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> replicata </p>
+<p>n° 6 comincia n° 5 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="091">
+<!--
+<p n="302vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 febraro 1617 ricevute a’ 7 marzo </p>
+<p>Haya. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-s-" corrected above "-g-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

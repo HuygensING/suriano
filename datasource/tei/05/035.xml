@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.035 date 1617-12-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">035</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 206r-207v, 210r-211v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">206r-207v, 210r-211v, 208r-209v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Magnus had informed Suriano that the States General have sent orders to Zeeland and Holland to monitor a ship, carrying English sailors, closely as they fear it might serve Duke of Osuna. They have also sent instructions to Caron in case complaints should arise to explain the situation to James I/VI. Admiralties are instructed to investigate whether other vessels have been hired for similar voyages to Naples. Suriano discuss the matter with Carleton, who seems to suspect a hidden agenda to hinder English trade to the indies. Touches upon piracy by Algerian corsairs threatening Dutch trade and reports of military tension in Italy due to the Duke of Savoy’s potential military action. Concludes with an account that a large vessel, built in Amsterdam, for the knights of Malta has escaped a pirate attack by sailing to a Spanish port but concerns that the Spanish might seize it. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-23">23 dicembre 1617</date>
+            <num>063, 064</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="063">
+<div type="main" facs="main text of letter" n="063">
+<!--<p>23 dicembre 1617, L’Aia (cc. 206r-207v, 210r-211v)</p>-->
+<pb n="206r" facs="05_206r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>li signori Stati Generali hoggi otto per qualche altro negotio <lb/>
+trovorono tempo di ridursi insieme, et per l’instanza che <lb/>
+in publico, et con particolari havevo fatta toccante Alessandro <lb/>
+Rosa ne discorsero, et deliberorono di rescriver in Zelanda <lb/>
+replicar nuovi ordini in Holanda, et scriver in Inghilterra <lb/>
+a monsignor Carone loro ambasciatore. Di questa deliberatione <lb/>
+la domenica doppo pranso fu a darmene parte il signor <lb/>
+Magno di Zelanda, dicendomi, che li signori Stati lo <lb/>
+mandavano a me, come quello in particolare ch’era <lb/>
+amico mio. Egli doppo havermi ringratiato per <lb/>
+nome publico di quanto io havevo communicato <lb/>
+delli affari d’Italia, et de’ termini artificiosi de’ <lb/>
+Spagnoli, dicendo, che tutto si era ricevuto per segno <lb/>
+di vera confidenza, entrò a dirmi, che parendo <lb/>
+ad essi di haver havuto assai dalle lettere dell’<lb/>
+amiralità di Zelanda per confirmarsi in sospetto <lb/>
+che’ l vassello, che haveva quei marinari inglesi <lb/>
+et si tratteniva in quei porti potesse esser drizzato <lb/>
+alla volta di Napoli, havevano scritto alla detta <lb/>
+Amiralità, che stante la contrarietà dei venti, <lb/>
+non essendo possibile, che partisse lo facessero
+<pb n="206v" facs="05_206v" rend="0"/>
+osservare dalle sue navi da guerra, et quando volesse far <lb/>
+vela non lo lasciassero partire, né altro del quale havessero <lb/>
+sospetto senza assicurarsi bene del suo viaggio, et a <lb/>
+monsignor Carone in Inghilterra hanno scritto, che se il Re <lb/>
+facesse qualche compianto iscusasse con sua Maestà il negotio <lb/>
+con la sospittione per li contrasegni, che da m[e ha]ve-<lb/>
+vano<ptr target="#tn1" n="1"/> ricevuti, che detto vassello andasse in s[ervitio de]l<ptr target="#tn2" n="2"/> <lb/>
+vostro re di Napoli: et mi fece instanza a nome <lb/>
+di essi signori Stati, che mi trovassi col signor ambasciator d’Inghilterra <lb/>
+affinché anc’egli scrivesse al suo Re in conformità <lb/>
+et di più mi aggiunse, che havevano dati espressi or-<lb/>
+dini all’amiralità di Amsterdam, d’Horon, et di <lb/>
+Enkusen perché facessero inquerire nel Tessel se vi fosse <lb/>
+alcun’altro vassello, come si dubitava, che fosse compro <lb/>
+o noleggiato per il viaggio di Napoli sopra la instanza, <lb/>
+che io havevo fatta, che ne prendessero cognitione <lb/>
+et concluse, che tutto ciò era stato<ptr target="#tn3" n="3"/> deliberato <lb/>
+per complire a quella buona corrispondenza, con <lb/>
+la quale vogliono queste provincie passare con la serenissima <lb/>
+Republica. Io con ogni pienezza d’ufficio resi gratie <lb/>
+al detto signore del raporto, et lo pregai, che con quell’
+<pb n="207r" facs="05_207r" rend="0"/>
+affetto, col quale poteva comprender, che io espremivo <lb/>
+l’obligo, che havevo alli signori Stati in persona di ministro <lb/>
+della Serenità vostra portasse anco il ringratiamento, et che di <lb/>
+tutto haverei data parte alle Signorie vostre eccellentissime, come io <lb/>
+li ho assicurati questa mattina nel ringratiarli dell’ope-<lb/>
+rato. La sera stessa andai a ritrovare il signor ambasciator <lb/>
+d’Inghilterra, et gli communicai quanto mi era stato <lb/>
+espresso dal signor Magno, et feci ufficio in conformità. <lb/>
+Diss’egli io ho intesa la risolutione dei Stati, et mi <lb/>
+è caro, che si dimostrino così affettuosi nel servitio di <lb/>
+sua Serenità <hi rend="decoded">ma</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">a dirla liberamente a vostra Serenità <lb/>
+sono un poco indiscretti, perché per <lb/>
+sola sospettione non è conveniente</hi><ptr target="#tn5" n="5"/> <hi rend="decoded"><lb/>
+arrestar un vassello, et continuò. <lb/>
+Io sono entrato in grandissimo sospetto, <lb/>
+che questo motivo non sia tutto carità, <lb/>
+ma che il rispetto privato lo causi, poiché <lb/>
+vorrebbono per vantaggiare loro mer-<lb/>
+canti, che niun altro passasse in <lb/>
+qualche parti <lb/>
+</hi>
+<pb n="207v" facs="05_207v" rend="0"/>
+<hi rend="decoded">dell’Indie, ove diccono <lb/>
+asserirsi, che anco detto vassello sia destinato.</hi> <lb/>
+Questo<ptr target="#tn6" n="6"/> non dico <lb/>
+aggiunse perché non desideri, che la serenissima Republica sia servita <lb/>
+et che non sappi, che il mio Re ama il suo bene, et non <lb/>
+permetterà già mai, che alcuno de’ suoi vadi a servir <lb/>
+qual si sia principe in pregiudicio di lei <hi rend="decoded">ma</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">perché temo, che si vogli valer del <lb/>
+pretesto assai plausibile per far <lb/>
+andar il fatto loro; testimonio d’aiuto <lb/>
+alterato per altro, che per questo.</hi> <lb/>
+Et dissi io non mancarò di scriver a sua Maestà, et scriverò <lb/>
+in Zelanda a qualche amico mio perché s’informi <lb/>
+bene del negotio, et non lasci pregiudicar occorrendo, <lb/>
+in minima parte al servitio della serenissima Republica. Io lo <lb/>
+ringratiai di questo tanto; ma non lasciai di dirgli <lb/>
+che il sospetto de’ signori Stati era fondato assai, et che <lb/>
+haverebbono caminato con quella circonspettione, che <lb/>
+si conviene, et al non far cosa, che potesse dis-<lb/>
+piacere a sua Maestà che però di nuovo lo pregavo a <lb/>
+tenervi la buona mano, et in maniera, che ’l servitio <lb/>
+della serenissima Republica fosse fatto. Tanto mi promise; et io
+<pb n="210r" facs="05_210r" rend="0"/>
+aggiunsi altre lettere al signor ambasciatore Contarini toccanti anco <lb/>
+questa nuova occasione di notitia. </p>
+<p>Le lettere dei signori Stati furono ispedite domenica sera alla <lb/>
+volta di Zelanda, et il signor ambasciator d’Inghilterra non fece <lb/>
+ispeditione del suo messaggiero, che martedì passato <lb/>
+per quanto ho potuto penetrare parmi, che la dilatione <lb/>
+di questa speditione sia nata per poter rappresentar a <lb/>
+sua Maestà qualche essecutione data al Placart, che <lb/>
+fu dai signori Stati mandato in mano d’esso Ambasciatore <lb/>
+et alle sei provincie, volendo forse aspettar quello <lb/>
+che ho inteso doppo, che non ostante la dichiaratione <lb/>
+della general assemblea, che non havesse a publicarsi<ptr target="#tn8" n="8"/> <lb/>
+in questa provincia la città d’Amsterdam, et un’altra <lb/>
+l’habbi fatto publicare. </p>
+<p>Si è disciolta la Congregatione di Holanda d’aver passata <lb/>
+la riduttione con altro che con dispute, che tutte <lb/>
+non rilevano il fatto, che sta pendente. La ma-<lb/>
+teria è divenuta di eccellentia nel misto di politico. </p>
+<p>Riporteranno tutti li depoutati dell’assemblea <lb/>
+di Holanda alle città loro ciò, che si è trattato <lb/>
+et ritorneranno appresso le feste, et sempre si viene
+<pb n="210v" facs="05_210v" rend="0"/>
+colla speranza, che si habbi pur ad accommodar questo <lb/>
+fastidioso negotio. </p>
+<p>Dispiace a’ buoni patrioti, che precedi tant’altre poiché <lb/>
+molte delle buone provisioni per servitio dello Stato restano <lb/>
+a dietro aspettando l’essito di questa. Sentono, che <lb/>
+Spagnoli burlano il mondo poiché da più pa[rti]<ptr target="#tn9" n="9"/> sono <lb/>
+avvisati, et particolarmente da monsignor di Langarach dalla <lb/>
+corte di Francia, che la pace d’Italia sia in gran <lb/>
+dubio, anzi che il signor duca di Savoia stava per <lb/>
+riprender l’armi, et per consequente vi sia più <lb/>
+apparenza di nuovo governo, che altrimenti. </p>
+<p>Dall’altro canto gl’avvisi, che hanno havuti ultimamente <lb/>
+che qualche nave di mercantia di questi paesi siano <lb/>
+state prese da’ corsari li da molestia grande <lb/>
+et temono del peggio, mentre sono assicurati <lb/>
+che detti corsari di Algieri siano forti di più di <lb/>
+ottanta navi, et dicono questi liberamente temer <lb/>
+dell’interrutione del trafico perché detti corsari <lb/>
+sono ben armati, et scorrono da per tutto, né <lb/>
+perdonano a chi si sia, et vorrebbono bene per <lb/>
+quanto ho potuto penetrare, che li principi interessati
+<pb n="211r" facs="05_211r" rend="0"/>
+si unissero con essi per estirpar costoro. </p>
+<p>Del gran vassello, che la religione di Malta ha fatto <lb/>
+fabricar in Amsterdam, et partì pochi giorni prima <lb/>
+del conte di Levenstein ci è avviso, che habbi incontrato <lb/>
+in otto navi di corsari, dalle quali sia stato fortemente <lb/>
+bersagliato; ma che si sia anco molto ben difeso, et <lb/>
+havendo felicità di haver vento propitio si è in fine <lb/>
+salvato con la fuga in qualche porto di Spagna. <lb/>
+Non vorrei mo, che fuggito dalle navi de’ pirati havesse <lb/>
+dato nell’ungia de’ Spagnoli, et se ne fossero fatti <lb/>
+patroni sotto qualche pretesto, come riesce loro <lb/>
+assai facile inventarne. Il vassello è di quattrocento, <lb/>
+et più lasti, et è bellissimo. Qui non se ne ha altro <lb/>
+avviso: può esser che la Serenità vostra ne haverà forse <lb/>
+altro incontro su quella piazza. Gratie etc. </p>
+<p>Dall’Haya a’ 23 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="211v" facs="05_211v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><hi rend="decoded">Sigili e tracce di sigilli</hi></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="063">
+<!--
+<p n="211vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 decembre 1617 ricevute a’ 10 gennaro </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="064" corresp="063" source="208r-209v" >
+<div type="main" facs="main text of attachment I" n="064" corresp="063" >
+<!--<p>Allegato I al n. 63 (cc. 208r-209v; decodifica di c. 207r-v)</p>-->
+<pb n="208r" facs="05_208r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="208v" facs="05_208v" rend="0"/>
+<p>Blank page</p>
+<pb n="209r" facs="05_209r" rend="0"/>
+<p>Blank page</p>
+<pb n="209v" facs="05_209v" rend="0"/>
+<p>Blank page</p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "stato" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "ma … destinato" decoding of the encrypted text can be found on c. 208r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "che anco detto vassello sia destinato" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "ma … che per questo" decoding of the encrypted text can be found on c. 208r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-rsi" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

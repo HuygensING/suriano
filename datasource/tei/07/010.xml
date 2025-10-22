@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.010 date 1618-08-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Renzo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 60r-63v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">60r-63v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that his letters dated 14 August will arrive with a delay in Venice, to ensure that they receive the important information about the ships and soldiers he will send a duplicate via Cologne. Perplexed by the lack of communication regarding the arrival of ships in the Gulf. Reiterates the need for available funds to pay for the naval expedition. Reports on the disbandment of the soldiers and the ambitions of the prince of Maurice and the house of Nassau as the French ambassador is struggling to control the situation. Growing tensions between Maurice and the ambassador regarding the principality of Orange. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-27">27 agosto 1618</date>
+            <num>022</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>27 agosto 1618, L’Aia (cc. 60r-63v)</p>-->
+<pb n="060r" facs="07_060r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 55<ptr target="#tn1" n="1"/> sola </p>
+<p>Serenissimo Principe </p>
+<p>le lettere mie de’ 14 che dovevano capitar a vostra Serenità dimani tarderanno <lb/>
+otto giorni di vantaggio causa il messaggiero, che non è arrivato in <lb/>
+Anversa, che doppo l’ispeditione dell’ordinario. Me ne duole per la tassa <lb/>
+che potrò haver appresso di lei di negligente; ma mi assicuro, che o <lb/>
+si haverà imaginata la causa; o almeno intesala doppo condanerà <lb/>
+quello da chi nasce il mancamento. Con dette lettere mandavo <lb/>
+l’informatione, che vostre Eccellenze illustrissime mi commandorono di farli havere <lb/>
+tanto per le navi, che per le genti da guerra; et perché tengo per <lb/>
+fermo, che la replicata sia arrivata tanto in tempo in Anversa <lb/>
+che venirà insieme col dispaccio sudetto dei 14 per abondar in <lb/>
+sicurezza che dette informationi et quanto nelle lettere de’ 21 le <lb/>
+scrivo le pervenghino mando qui aggiunta un’altra copia <lb/>
+di tutto; et l’ispedisco per la via di Amsterdam alla volta di <lb/>
+Colonia. </p>
+<p>Questi signori sopra la mia espositione toccante li doi vasselli arrestati, et poi <lb/>
+liberati non m’hanno detto alcuna cosa; né credo siano per dir-<lb/>
+mene altro. Non so mo se delibereranno sopra quanto loro<ptr target="#tn2" n="2"/> <lb/>
+remostrai esser necessario, che li suoi marinari fossero avvertiti <lb/>
+per non incorrer negl’inconvenienti, et a fine, che non si possi <lb/>
+pretender nell’avvenire ignoranza mentre viaggiano, et traficano <lb/>
+nel golfo. </p>
+<p>Essendo venuto anco questo ordinario senza avviso dell’arrivo dei <lb/>
+vasselli in golfo sta dubitando ognuno di qualche sinistro <lb/>
+et io in particolare vivo con l’animo molto perplesso. Mi scrive <lb/>
+il signor Calandrini che un solo haveva avviso della loro gionta <lb/>
+a Corfù, et che si teneva per fermo<ptr target="#tn3" n="3"/>, che l’armata napolitana doveva
+<pb n="060v" facs="07_060v" rend="0"/>
+tornar in golfo.</p>
+<p>Mi aggiunge anco che li partionevoli de’ vasselli oltre la mesata che <lb/>
+li faccio pagare vorrebbono, che li facessi pagar anco la quarta <lb/>
+già scorsa. Non veggo di poter condescender con vantaggio di vostra Serenità <lb/>
+et con discapito ancorché fosse di poco non lo devo fare. Pur troppo <lb/>
+ha il publico sostenuto aggravio in questa ispeditione navale <lb/>
+mi farò iscusare col mezo del signor Antonio Luz che parte per Amsterdam <lb/>
+et porterà le presenti. Et li farò prometter, che a Venetia sarà <lb/>
+pronto il denaro di questa, et dell’altra mesata che scaderà tra <lb/>
+li 6 et 21 del mese venturo. Saranno vintidoi milla ducati <lb/>
+si compiacerà per tanto la Serenità vostra commandar che siano messi in <lb/>
+pronto: et da parte accioché alla presentatione, che gl’interessati <lb/>
+faranno far delle mie lettere ne habbino l’esborso, et così conso-<lb/>
+larli, et renderli sodisfatti con tal prontezza et il medesimo Luz <lb/>
+haverà anco cura di solecitar l’ispeditione dei conti appresso quell’<lb/>
+Amiralità. </p>
+<p>Il placart, che ispedii a vostra Serenità la settimana passata, del quale mando <lb/>
+qui aggiunta un’altra copia con il dupplicato delle lettere de’ <lb/>
+21 ha havuto forza di far depor l’armi a tutti li soldati in <lb/>
+queste poche piazze di Holanda, et farli licentiare. Una gran <lb/>
+parte di essi non sì tosto havuto quello che li fu detto di darli per <lb/>
+sodisfattione è passata dalla banda<ptr target="#tn4" n="4"/> suddita a’ serenissimi arciduchi <lb/>
+alcuni a Bolduch altri in una, et altri in un’<ptr target="#tn5" n="5"/>altra<ptr target="#tn6" n="6"/> di quelle piazze. <lb/>
+Anzi ch’è stata avvisato<ptr target="#tn7" n="7"/> il signor principe di Oranges, che me lo ha <lb/>
+detto, che ’l viaggio di sue Altezze in Fiandra non era per <lb/>
+altro rispetto, che per trovarsi in luoco vicino per assister col suo
+<pb n="061r" facs="07_061r" rend="0"/>
+consiglio a quello si havesse stimato proprio, quando si havesse <lb/>
+potuto cavar profitto da queste dissensioni; et io anco sono stato <lb/>
+avvisato, che andavano su et giù officiali, et genti da quella <lb/>
+parte, et si erano mandati alcuni pezzi in Bolduch: segno <lb/>
+che Spagnoli non dormono, et a tutto quello, che concerne il loro <lb/>
+interesse sono lesti. </p>
+<p>Questo Ambasciator francese sta aspettando, che si rispondi alla sua espositione <lb/>
+se ben vede assai chiaro, che la sua venuta qui non serve a gran <lb/>
+cosa mentre tutto va passando sotto l’auttorità dei signori Stati <lb/>
+et del signor principe Mauritio; et che par hora che ’l partito armi-<lb/>
+niano habbi la minor parte in questo affare: né il detto <lb/>
+Ambasciatore ha potuto con quanti ufficii habbi egli fatto levar <lb/>
+l’impressione, che sia stato fatto venir dal detto partito. <lb/>
+Onde si va dicendo dagl’istessi Francesi, che presto doverà <lb/>
+tornarsene, non li restando gran cosa a fare poiché non può <lb/>
+divertir il sinodo la cui convocatione resta pur stabilita <lb/>
+da’ signori Stati; et perché ha veduto non poter meno far cosa <lb/>
+alcuna intorno al mantenimento di detti soldati; o haver <lb/>
+egli l’honore almeno, che fossero licentiati sotto la sua auttorità<ptr target="#tn8" n="8"/> <lb/>
+et ho saputo, che sua Eccellentia li ha detto chiaramente ch’era un <lb/>
+mal contrastare contra sei Provincie intere, et contra una <lb/>
+gran parte delle città di Holanda; et massime che si è pur <lb/>
+veduto, che ad un solo batter di tamburo in questo luoco <lb/>
+tutto ha havuto effetto conforme alla volontà de’ signori Stati <lb/>
+così ha parlato il signor Principe ad esso Ambasciatore sabbato<ptr target="#tn9" n="9"/>, che <lb/>
+fu seco per buon spatio di tempo. </p>
+<pb n="061v" facs="07_061v" rend="0"/>
+<p>Sua Eccellentia l’istesso giorno di sabbato, che la vidi per termine di <lb/>
+complimento mi disse, ch’ella haveva, che far assai a divertir <lb/>
+le voci, et far constar vane le publicationi, che volesse intraprender <lb/>
+et far riussir a suo g[u]sto<ptr target="#tn10" n="10"/> tutte le cose; et più che havesse in <lb/>
+animo, et volesse<ptr target="#tn11" n="11"/> far<ptr target="#tn12" n="12"/> patrone del Paese; et qui mi considerò <lb/>
+che sarebbe stato misero lo Stato suo, quando havesse accettato <lb/>
+un tanto peso, che senza intrichi, né fastidii haveva quanta <lb/>
+auttorità voleva era rispettato, et amato, che altrimenti col <lb/>
+dominio di questi paesi in mano con popoli avezzi alla libertà <lb/>
+carichi<ptr target="#tn13" n="13"/> d’impositioni sarebbe stato un schiavo, poco amato, <lb/>
+et invidiato, et mi affermò con qualche asseveranza, che <lb/>
+non ha già mai havuto un pensiero al mondo in questo particolare <lb/>
+et che più tosto vorrebbe, che la tregua si rompesse, et si <lb/>
+rinovasse la guerra per potersi adoprare in armata, che questo <lb/>
+sarebbe il suo vero gusto, come è il suo desiderio. Io mostrai <lb/>
+di applauder alla prudenza dell’Eccellenza sua et di<ptr target="#tn14" n="14"/> godere <lb/>
+del suo confidente parlare. Se sua Eccellentia habbi altro in <lb/>
+mente di quello preferisce non vi è chi lo sappi facilmente pene-<lb/>
+trare; ben alcuni tra questi intrichi, et vedendo tanta auttorità <lb/>
+in questa casa di Nassau il principe Mauritio governator <lb/>
+del Paese, capo delle militie, general per terra, et per mare <lb/>
+il conte Guglielmo governator in Frisia, il conte Ernesto governator in <lb/>
+Gheldria, et hora della città di Utrechet amati dai popoli, <lb/>
+vano speculando, et essaminando l’interno, et fano congietura, <lb/>
+che se bene il signor principe Mauritio non ha disegno per sé stesso <lb/>
+lo habbi per il fratello conte Henrico più giovane
+<pb n="062r" facs="07_062r" rend="0"/>
+dodici o tredici anni<ptr target="#tn15" n="15"/> di lui; et che quando potesse <lb/>
+veder assodate le cose a sicurezza secondo il suo gusto fasse <lb/>
+maritar il detto conte Henrico; et quell’assoluto dominio che non havesse <lb/>
+l’Eccellenza sua per sé stessa in questi Stati fosse per farlo cader o nel <lb/>
+Conte, o opportunamente nei figli di lui. Queste sono cose <lb/>
+lunghe; et i discorsi fondati nell’apparente auttorità, che si <lb/>
+vede in questa casa di Nassau. </p>
+<p>In effetto al solo nome di sua Eccellentia pur che si dirigano gl’affari <lb/>
+ne’ presenti tempi, et ben si è veduto in questa occasione l’amore <lb/>
+et benevolenza de’ popoli verso di lei, come all’incontro anco di <lb/>
+quelli del proprio partito hora sgridano contra Bernvel, et <lb/>
+quelli massime, che temono esser cassi dai magistrati delle <lb/>
+città di Leidem, Harlem, et altre, et sino si mutano delli deputati<ptr target="#tn16" n="16"/> <lb/>
+nelli collegi delle Amiralità solo sospetti di dipender dall’<lb/>
+altra parte; onde tanto maggiore si fa la displicenza <lb/>
+di monsignor di Boisisse ambasciator francese. </p>
+<p>Ancor esso Ambasciatore nel negotio particolare toccante il principato di Oran-<lb/>
+ges non ha fatta altra apertura, che di dir a sua Eccellenza haver <lb/>
+alcune lettere, et documenti<ptr target="#tn17" n="17"/>, con che li farà veder le preten-<lb/>
+sioni legitime, che ha il Re sopra il detto Principato: di ma-<lb/>
+niera che par che la Maestà sua o gli vogli contender il possesso <lb/>
+o glielo vogli far saper troppo buono. Et ella ha risposto <lb/>
+all’Ambasciatore, che non era necessario, che gli facesse veder alcuna <lb/>
+cosa, che a lui bastava il possesso di tanti anni, che <lb/>
+haveva nella sua casa, et che il veder quanto egli diceva <lb/>
+sarebbe stato un metter in contesa ciò che legitimamente
+<pb n="062v" facs="07_062v" rend="0"/>
+teneva esser suo di diretto, et proprio dominio; che però poteva <lb/>
+tenir esse scritture appresso di sé, et riportarsele, non essendo a lui <lb/>
+di contestar lite con il Re, ch’era assai potente con quante <lb/>
+più valide, et più potenti ragioni ragioni che havesse havute<ptr target="#tn18" n="18"/> et con <lb/>
+li minime dell’<ptr target="#tn19" n="19"/>altro canto della Maestà sua di levarsi di <lb/>
+auttorità, et di forza il detto Principato. Resta disgustata <lb/>
+l’Eccellenza sua di questa maniera di trattare de’ Francesi, se ben non <lb/>
+dubita, che se li facci torto. Et alcuni vogliono, che questi <lb/>
+siano fomenti di monsignor di Luines, tenendosi per fermo, che <lb/>
+ardisca di aspirar a quel Principato. </p>
+<p>L’ultimo ordinario m’ha portate lettere della Serenità vostra de’ 4 del presente <lb/>
+con gl’avvisi del Friuli, et di quello che teneva<ptr target="#tn20" n="20"/> dalla parte di Napoli <lb/>
+che mi servono d’informatione. Gratie etc. </p>
+<p>Dall’Haya a’ 27 agosto 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotisimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="063r" facs="07_063r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="063v" facs="07_063v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 55 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="063vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 agosto 1618 ricevute 12 settembre </p>
+<p>Haia. n° 55 <lb/>
+sola </p>
+<p>Instanza di pagar a’ vasselli <lb/>
+la 4<hi rend="superscript">ta</hi> mesata </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o" corrected above -"e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "’" added above "-a" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-to" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Ink stain.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-sse" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by -"si" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> -"i-" corrected above -"e-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "aggradir" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "più giovane" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "d-" corrected above "q-."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-o-" corrected above -"u-."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-e-" corrected above -"a-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the deleted word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

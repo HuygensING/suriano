@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.022 date 1620-05-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">022</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 96r-99v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp252-266
+            </note>
+            <biblScope unit="page">96r-99v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 30 April and 1 May. He thanks them for raising his monthly salary to 50 scudi. He sends previous dispatch in copy to show he is paying sailors of ship and that accounts of ship owners and captains are being made. He has been visited by two lieutenants who have requested a pay increase of 8 scudi per month. States General have received news about appointement of a Venitian extraordinary ambassador. he will continue to keep an eye on the military men to enlist in service of venice. He warns Venice it is not easy to get men such as Lelio Brancaccio to abandon service of Spanish king. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-05-19">19 maggio 1620</date>
+            <num>030</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="030">
+<div type="main" facs="main text of letter" n="030">
+<!--<p>19 maggio 1620, L’Aia (cc. 96r-99v)</p>-->
+<pb n="096r" facs="09_096r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 204 fino 205 </p>
+<p>Serenissimo Principe </p>
+<p>col passato ordinario non mi pervenero lettere della Serenità vostra et <lb/>
+l’ultimo, che arrivò venerdì notte me ne portò cinque mani <lb/>
+quattro de’ 30 del passato, et uno de primo dello stante. Io sono <lb/>
+in più maniere consolato da lei tanto colla sodisfattione, <lb/>
+che mostra ricever dal mio debolissimo servitio con parole <lb/>
+proprie per infiammar chi ardentemente le serve, quanto <lb/>
+per gl’effetti manifesti, che aggiunge dell’immensa benignità, <lb/>
+et munificenza sua verso di me. L’accrescimento di scudi <lb/>
+cinquanta per mese di salario, che ha dato ad altri secretarii <lb/>
+residenti concesso anco a me è stato per un sollevo gran-<lb/>
+dissimo alle mie necessità; et proprio per sostenere con più <lb/>
+decoro, et riputatione questa mia carica per il resto <lb/>
+del tempo, che doverò fermarmi qui. Io per le grasie<ptr target="#tn1" n="1"/>, <lb/>
+che le doverei render non posso supplir che con un riverente <lb/>
+silentio, certo in ogni modo che vostra Serenità resti già del tutto <lb/>
+sicura del continuato mio devoto riverente zelo verso il <lb/>
+servitio publico. A questo è pronta la volontà, concorrerà <lb/>
+ogni mio studio, et non valendo<ptr target="#tn2" n="2"/> altrimenti pregarò del <lb/>
+continuo Iddio per la conservatione, et grandezza di quella <lb/>
+serenissima Republica, et per la prosperità dell’Eccellenze vostre. </p>
+<p>Dal mio passato dispaccio n° 202 et 203 che sarà qui aggiunto <lb/>
+in copia haverà la Serenità vostra inteso, che si proseguiva <lb/>
+il pagamento de’ matelotti delle restanti navi, et hora <lb/>
+si vanno anco facendo li conti de’ partionevoli dei vasselli
+<pb n="096v" facs="09_096v" rend="0"/>
+et particolarmente dei capitani. Voglio creder, che si termineranno <lb/>
+ben presto tutti per poter mandarne il distinto delle navi <lb/>
+all’Eccellenze vostre in conformità del loro commandamento; altrimenti <lb/>
+al presente li manderei cosa imperfetta: tuttavia se così <lb/>
+verranno non mancarò di mandar tutto quello, che haverò <lb/>
+di liquido, et reale pagato per noleggio di navi, et esbor-<lb/>
+sato alle Amiralità. Et aspetterò suo nuovo commando <lb/>
+se così vorranno. </p>
+<p>Fin qui non ho veduto, che doppo ’l viaggio già fatto potesse <lb/>
+la presenza mia esser fruttuosa; anzi stimandola nel <lb/>
+concorso de pretensioni più<ptr target="#tn3" n="3"/> tosto altrimenti mi sono <lb/>
+astenuto; ben quando vedi la necessità, et non haver ad <lb/>
+incontrar impertinenze<ptr target="#tn4" n="4"/> non mancarò d’andar in ogni luoco. </p>
+<p>Hieri mandai alla buona ventura duoi luocotenenti, che a nome <lb/>
+anco degl’altri doi delle quattro navi di Northolandia <lb/>
+mi venero a far instanza di haver tanto quanto quelli <lb/>
+d’Amsterdam, et Roterdam, che sono otto<ptr target="#tn5" n="5"/> fiorini di più <lb/>
+per uno per mese, et con maniera assai dura facevano <lb/>
+l’instanza col fondamento solo, che dovevano haver <lb/>
+quanto gl’altri; et io con altrettanta patienza soffe-<lb/>
+rendo l’imperfettione procurai di renderli capaci dell’<lb/>
+insusistenza della dimanda. Partirono; ma non contenti. <lb/>
+Non so se ritorneranno. Intanto scriverò a Encusen a <lb/>
+quei signori, che me li hanno rimessi non intendendo di pagar
+<pb n="097r" facs="09_097r" rend="0"/>
+che il promesso, et accordato. </p>
+<p>Per quelli della nave abbrucciata, che mostrorono desiderar di <lb/>
+haver il suo resto de’ noli; se ben fin la settimana <lb/>
+passata aspettavo la liquidatione non l’ho però havuta; <lb/>
+non so perché: vado pensando, che possino essersi pentiti <lb/>
+di haver fatta l’instanza, et che s’arrestino a non <lb/>
+voler toccar denaro, pensando pregiudicarsi nel resto <lb/>
+delle loro pretensioni. Havevano formato concetto in <lb/>
+sé stessi, et l’hanno publicato in Amsterdam, che li signori <lb/>
+Stati haverebbono sententiato, che vostra Serenità fosse tenuta <lb/>
+pagare. Ho inteso, che sue Eccellenze hanno scritto alla Serenità vostra <lb/>
+ma io ho stimato bene non pigliar altra notitia; ma <lb/>
+lasciar, che corri così l’affare, et sin tanto, che da lei <lb/>
+sia veduto ciò che segue, et a me sia somministrato<ptr target="#tn6" n="6"/> <lb/>
+quello<ptr target="#tn7" n="7"/>, che stimerà proprio, et di suo servitio. </p>
+<p>Alli signori Stati è<ptr target="#tn8" n="8"/> capitato l’avviso della risolutione di <lb/>
+vostra Serenità di elegger ambasciator estraordinario per qua. Col prossimo <lb/>
+ordinario aspettano la nominatione, et quando doverà <lb/>
+esser la sua partenza; mostrando alcuni di pro-<lb/>
+mettersi, ch’ella debba seguir ben presto; come anco <lb/>
+che detto estraordinario porti il senso di lei se vuole <lb/>
+ambasciatore per ordinaria residenza reciproca, havendo <lb/>
+anco cavato, et così il signor Ambasciator inglese, che altrimenti la <lb/>
+risolutione è d’aspettar o il ritorno dell’Arsen, o suoi
+<pb n="097v" facs="09_097v" rend="0"/>
+avvisi, se ’l moto però non venisse tale da lei, come mi disse il <lb/>
+medesimo signor Ambasciatore haver tirato da alcuno di questi signori, che <lb/>
+facend’ella presentemente elettione di ambasciator ordinario concorreb-<lb/>
+bono facilmente a corrisponder coll’elettione del loro: parendo <lb/>
+al loro rispetto, che basti, che habbino fatta elettione dell’<lb/>
+estraordinario. Volendo come mi ha detto alcuno regolarsi, et confor-<lb/>
+marsi in questo particolare col senso, et mente di lei. </p>
+<p>Hieri fui all’audienza per ringratiar come feci sue Eccellenze delle commis-<lb/>
+sioni date al loro ambasciatore a Constantinopoli di favorir li negotii, et <lb/>
+interessi di vostra Serenità. L’ufficio fu portato da me in conformità <lb/>
+del suo commento; fu aggradito: et mi fu attestato con <lb/>
+parole molto piene, che questa Republica sarà sempre pronta a <lb/>
+dar ogni maggior segno della continuata, et più stretta <lb/>
+buona amicitia, et corrispondenza, che vogliono passare con lei <lb/>
+et per consequente, che s’impiegaranno sempre per il bene <lb/>
+et servitio di quel serenissimo Stato. </p>
+<p>Della copia della lettera scritta per parte del re della Gran <lb/>
+Bretagna al suo ambasciator a Constantinopoli nel medesimo proposito mi <lb/>
+valerò a tempo, et luoco con quella riserva, ch’è stato <lb/>
+proprio, che sia stata detata da lei alla mia debolezza. </p>
+<p>Di quanto è successo all’eccellentissimo signor ambasciator Lando in Inghilterra non ho <lb/>
+inteso qui a dir moto. Manco questo signor ambasciator Carleton <lb/>
+sendomi venuto<ptr target="#tn9" n="9"/> a visitar domenica passata; et io sendo stato <lb/>
+seco doppo non me n’ha tocca parola. Starò attento et
+<pb n="098r" facs="09_098r" rend="0"/>
+se sentirò, che si parli haverò il riguardo, che si conviene <lb/>
+nel sostener la ragione, et la dignità publica. </p>
+<p>Non mancarò d’informarmi de’ personaggi militari, tanto di <lb/>
+qua come dalla parte di Brabant, et tali che potessero <lb/>
+esser impiegati in servitio dalla Serenità vostra. All’illustrissimo signor savio <lb/>
+di Terraferma alla scrittura scrissi la passata settimana <lb/>
+con occasione di risponder ad un suo commento toccante un’<lb/>
+informatione, che desiderava del cavalier fra Lelio Bran-<lb/>
+caccio, che per haver soggetti vi voleva una sicurezza <lb/>
+et fermezza di continuato intrattenimento perché non volentieri <lb/>
+vogliono le genti lasciar un servitio certo per pigliarlo a <lb/>
+tempo con incontrar massime quelli di là iipso<ptr target="#tn10" n="10"/> facto la <lb/>
+disgratia del Re, et fornita la condotta non esser sicuri <lb/>
+di maggior servitio. La ragione, che vostra Serenità mi somministrò <lb/>
+già nel trattato del Gomorini che chi serve bene è sicuro <lb/>
+di dover esser continuamente adoperato è buona; ma <lb/>
+l’imprimerla non è così facile: tuttavia se questa potrà <lb/>
+giovare sarà il punto primo con che si tratterà per <lb/>
+non interromper l’ordine inveterato tenuto dalla Serenità vostra <lb/>
+in simil condotte. Io vedrò di qua se vi fosse qualche <lb/>
+soggetto, et dalla parte dei serenissimi arciduchi darò la <lb/>
+cura al Pasini. Al quale per il negotio delle navi ho <lb/>
+mandato uno de miei servitori per haver l’informatione <lb/>
+che si ricerca dalla Serenità vostra; et io mi transferirò fino
+<pb n="098v" facs="09_098v" rend="0"/>
+a Dort una giornata di qua per abboccarmi seco, et intender <lb/>
+ogni particolare; et se potrò manderolo anco<ptr target="#tn11" n="11"/> con quest’ordinario; <lb/>
+se non sarà colla prima speditione. Gratie etc. </p>
+<p>Dall’Haya li 19 maggio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="099r" facs="09_099r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="099v" facs="09_099v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 204 fin 205 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="030">
+<!--
+<p n="099vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 maggio 1620 ricevute 3 giugno </p>
+<p>Haya. n° 204 </p>
+<p>Accusa ricevuta di lettere de’ 30 aprile <lb/>
+e primo maggio. </p>
+<p>Ringratia dell’acrescimento dei <lb/>
+cinquanta scudi concessili. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "v-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-st-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "tanto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction; followed by deleted letters.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "di là" crossed out, added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

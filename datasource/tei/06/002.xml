@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.002 date 1618-03-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 8r-11v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">8r-11v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports of his visit to the French ambassador, who inquired how Contarini in London is progressing in procuring ships. Reports that Contarini had not received a declaration in favour of republic and duke of Savoy pointing at Spanish efforts at thwarting that initiative. There are rumours of a Spanish attack against the Ottomans in Candia and speculation that twelve war ships will be send against the barbary pirates. From Pasini in Brussels, he received news that another old and experienced English catholic soldier is willing to serve the Venetian republic </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-04">4 marzo 1618</date>
+            <num>003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="003">
+<div type="main" facs="main text of letter" n="003">
+<!--<p>4 marzo 1618, L’Aia (cc. 8r-11v)</p>-->
+<pb n="008r" facs="06_008r" rend="0"/>
+<head>main text of letter</head>
+<p>Replicata </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 12 </p>
+<p>Serenissimo Principe </p>
+<p>spedite le mie lettere de’ 27 del passato fui a visita del signor ambasciator <lb/>
+di Francia. S’iscusò egli meco di non esser stato a vedermi <lb/>
+impedito da certa flussione catarale, dicendomi, che <lb/>
+sarebbe venuto per communicarmi gl’ufficii, che per parte <lb/>
+del suo Re haveva fatti con il signor principe Mauritio <lb/>
+et con monsignor Bernvel in conformità dell’instanza fatta <lb/>
+alla Maestà sua dall’eccellentissimo signor ambasciator Contarini che risiede appresso <lb/>
+di lei perché si dovesse haver riguardo, che lo Spagnolo <lb/>
+per qualche via indiretta non facesse preparatione de’ <lb/>
+vasselli in questi paesi per valersene contra il servitio della <lb/>
+serenissima Republica, et che nell’uno, et nell’altro haveva <lb/>
+trovata buona dispositione, et nel signor Bernvel <lb/>
+risposta molto pronta, che questi signori haverebbono <lb/>
+fatto quanto havessero potuto; ma haveva aggiunto <lb/>
+temere, che mal commodamente si potesse oviare alle <lb/>
+inventioni, che sano trovar Spagnoli, et ch’egli have-<lb/>
+va replicato, che la cosa si poteva facilmente vietare <lb/>
+mentre vi fosse un ordine generale, che chi noleggiasse <lb/>
+vasselli, o li vendesse lo facessero con sicurtà assicurandosi <lb/>
+delle persone con le quali contrattassero<ptr target="#tn1" n="1"/>, et mi aggiunse, <lb/>
+che come haveva essequito pontualmente l’ordine del Re così non haverebbe mancato nel più, che <lb/>
+occorresse di adoperarsi in servitio della serenissima Republica. <lb/>
+Io con ufficio abundante lo ringratiai dando <lb/>
+segno di aggradir ciò, che haveva fatto, et che
+<pb n="008v" facs="06_008v" rend="0"/>
+mi rallegravo di haver in questo negotio anco l’assistenza dell’Eccellenza [sua]<ptr target="#tn2" n="2"/> <lb/>
+per caminar al segno, che deve esser desiderato dalla cor[…] <lb/>
+Francia perché non habbino li Spagnoli a servirsi delle armi […] <lb/>
+proprii amici in pregiudicio di quel<ptr target="#tn3" n="3"/> serenissimo<ptr target="#tn4" n="4"/> Do[minio.] <lb/>
+Continuarò ad usar quei termini, che sin qui ho mostrati d[…] <lb/>
+con questo Ministro non tralasciando ufficio, che mi parerà […] <lb/>
+giovare al servitio della serenissima Republica. </p>
+<p>Mi addimandò egli poi come faceva l’eccellentissimo signor Ambasciator in Inghilterra nella <lb/>
+preparatione dei vasselli, et se trovava prontezza io risposi, <lb/>
+che non havevo inteso altrimenti se non che da sua Maestà riceveva og[ni] <lb/>
+favore; soggiunse a me non pare, che sia così effettivamente […] <lb/>
+si cavò di scarsella una lettera, che li scriveva l’ambasciator di <lb/>
+sua Maestà christianissima da quella corte, nella quale da con[…] <lb/>
+esser l’eccellentissimo Contarini in non poca pena per non poter haver quell’<lb/>
+assistenza, che la qualità dei tempi ricercava, et molto <lb/>
+meno dichiaratione per la Republica et per il duca di Savoia tocc[…] <lb/>
+la corrutione spagnola esser il freno ad ogni buon effett[o] <lb/>
+et che malamente si può l’huomo prometter cosa che vaglia da que[lla] <lb/>
+parte. </p>
+<p>Essagerò poi meco, et chiamò imprudente consiglio non essersi chia[…] <lb/>
+al baletto del signor principe di Gaula l’ambasciator di sua Maestà christianissima <lb/>
+non volendosi uscire in quella corte a disuguaglianza di grado <lb/>
+ma voler che sua Maestà stia in parità con quella di Spagna <lb/>
+et ben mi avidi dalle parole di questo Ministro che Francesi non <lb/>
+sono affatto ben contenti delli Inglesi. </p>
+<pb n="009r" facs="06_009r" rend="0"/>
+<p>Doppo le publicationi fatte sparger da’ Spagnoli di andar ad una <lb/>
+impresa contra Turchi si è sparsa anco un’altra novella, che <lb/>
+vogliono assalir l’isola di Candia per saccheggiare, et deguastare, <lb/>
+quando non possino far maggior acquisto. Ciò anco mi serve per <lb/>
+mostrar, che la fede dello Spagnolo nell’ingannare è la più sincera <lb/>
+onde quanto più vi erano sospetti di mille pensieri di machinar <lb/>
+contra lo stato della serenissima Republica, tanto maggiormente doveva esser <lb/>
+riguardato, che non si avanzi l’ardire, et con l’ardire il pregiu-<lb/>
+dicio a sua Serenità. Et a questo proposito non lascierò di aggiunger ad <lb/>
+ogni buon fine alla Serenità vostra, che ho inteso esser stato alli giorni passati<ptr target="#tn5" n="5"/> alla corte dello Imperatore quel tale, ch’ella altre volte haverà inteso <lb/>
+farsi nominar fratello del gran signore, et che ultimamente di là <lb/>
+ha passato a Gratz, disegnando Spagnoli<ptr target="#tn6" n="6"/> valersi dell’ombra <lb/>
+di lui per far qualche intrapresa nel Paese turchesco, che <lb/>
+rispondi nel golfo, ove essi Spagnoli hanno particolar mira di <lb/>
+metter piedi per li suoi fini. Ciò mi viene affermato esser <lb/>
+scritto di Praga; ma la Serenità vostra ne deve haver più certa cognitione. </p>
+<p>La voce continua dell’armar li dodici vasselli contra<ptr target="#tn7" n="7"/> li pirati. La <lb/>
+dichiaratione di alcuni capitani già fu fatta; ma quanto al concetto <lb/>
+discorso da quelli dell’Amiralità, che questi habbino a caminar <lb/>
+uniti con quelli di vostra Serenità non se ne sente dir alcuna cosa. Starò <lb/>
+avvertito a quello che seguirà. </p>
+<p>È venuto avviso, che ’l capitano Quast habbi preso un vassello de’ <lb/>
+corsari con doicento huomini sopra, et che haveva molte mer-<lb/>
+cantie depredate. Stano attendendo la confermatione et anco
+<pb n="009v" facs="06_009v" rend="0"/>
+migliori progressi. </p>
+<p>Sopra il negotio di unione et sopra quello, che in publico, et in particolare gi[…]<ptr target="#tn8" n="8"/> <lb/>
+del partir mio per Amsterdam mi è stato riferto non essersi fatti gra[…] <lb/>
+parendo l’espositione star sopra generali, ma che potrebbe e[…] <lb/>
+trattasse di ciò nella nuova riduttione della Congregatione di Hola[nda …] <lb/>
+sarà presto et particolarmente intorno la missione di ministro. […-]<lb/>
+mania mi ha detto, che dalli suoi stati di Frisia, a chi haveva […] <lb/>
+scritto gli era stato risposto, che quanto a residente, o altro, che […] <lb/>
+occorresse per stringer più corrispondenza con la serenissima Republica gli davan[…] <lb/>
+piena libertà di far quello, che con gl’altri deputati delle altre […] <lb/>
+trovasse buono, et il medesimo sopra l’Unione: aggiungendomi forse, che <lb/>
+sarà addimandato, se have<ptr target="#tn9" n="9"/> qualche maggior apertura da […]. <lb/>
+Io non dissi se non quanto havevo espresso della buona mente del[la serenissima] <lb/>
+Republica, et che col tempo, et maneggio si sarebbe veduto non mirar e[…] <lb/>
+ad altro, che al commune servitio. </p>
+<p>Partì il Pasini<ptr target="#tn10" n="10"/> come scrissi, che doveva fare, et avanti, che se ne <lb/>
+andasse accordai anco seco che fermasse per<ptr target="#tn11" n="11"/> il servitio di vostra Serenità un <lb/>
+soldato di vecchia isperienza, et valore, che ha servito sempre li serenissimi <lb/>
+arciduchi inglese catholico, il quale verrà anc’egli col cavalier Studer, <lb/>
+et doverà haver dieci ducati al mese. </p>
+<p>Quando mi stimavo già libero da quei doi, che il governator di Nimeghen <lb/>
+haveva condotti qui trovati che stavano tuttavia qui pretendendo <lb/>
+esser risarciti del viaggio, et spese fatte, et il sottosecretario di sua Eccellenza <lb/>
+per nome di lei mi vene a far instanza d’ispedirli pregandom[i] <lb/>
+di farli partir contenti per qualche altra occasione. Pretendevano
+<pb n="010r" facs="06_010r" rend="0"/>
+fino a 600 fiorini di donativo. Io ricusando questo affatto, ho <lb/>
+in fine convenuto ceder all’oggetto, che ho havuto, che sua Eccellenza <lb/>
+resti in qualche parte compiacciuta, et gli ho fatto contar <lb/>
+doicento fiorini; cosa certo, ch’è stata contra ogni mio gusto <lb/>
+et della quale arrossisco in me medesimo: et ho stentato ad<ptr target="#tn12" n="12"/> <lb/>
+accommodarmi a darne parte a vostra Serenità, la quale supplico <lb/>
+ad haver a grado quanto ho operato poiché tutto ho fatto a <lb/>
+contemplatione di sua Eccellenza che pur confessa esser venuto tardo <lb/>
+ma che non si poteva far di meno di non darli qualche <lb/>
+sodisfattione. Gratie etc. </p>
+<p>Dall’Haya a’ 4 marzo<ptr target="#tn13" n="13"/> 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="010v" facs="06_010v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="011r" facs="06_011r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="011v" facs="06_011v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata 2<hi rend="superscript">da</hi> </p>
+<p>n° 12 comincia 11 fin 13 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="003">
+<!--
+<p n="011vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 marzo 1618 ricevute a’ 28 detto </p>
+<p>Aya. n° 12 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-ro" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-la" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o" corrected above "-a;" followed by "Rep(ublic)a" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-sati" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-t-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "-se" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ch" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "s(er)" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-d" is the result of a correction; followed by "darne" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line on "feb(rar)o."</p></note>
+</div>
+</body>
+</text>
+</TEI>

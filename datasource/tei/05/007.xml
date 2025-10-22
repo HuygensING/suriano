@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.007 date 1617-10-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 37r-40v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">37r-40v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Levenstein has finally arrived in Delftzijl, but things are not going smoothly as several soldiers have fallen ill and some have died. News from The Hague that a peace in Italy has been concluded, which has been confirmed Count William of Nassau. He concludes the letter with news that troops have been stationed in Utrecht due to the religious conflict </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Delfzijl</settlement>
+            <date when="1617-10-06">6 ottobre 1617</date>
+            <num>012</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="012">
+<div type="main" facs="main text of letter" n="012">
+<!--<p>6 ottobre 1617, Delfzijl (cc. 37r-40v)</p>-->
+<pb n="037r" facs="05_037r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il sabbato, che fu doppo l’ispeditione delle mie ultime lettere <lb/>
+de’ 29 del passato, arrivò qui il signor conte di Levenstein doppo <lb/>
+haver scorso qualche pericolo nel passar il mare tra <lb/>
+Encusen, et Makun. Il giorno innanti si principiò <lb/>
+a dar mostra a queste genti, come scrissi alla Serenità vostra <lb/>
+che si doveva fare, et hoggi si è fornito. La compa-<lb/>
+gnia del signor Conte è forte di 400 fanti et più. Sette altre <lb/>
+passano tutte li 300 anco senza li officiali, et doi non <lb/>
+arrivano come<ptr target="#tn1" n="1"/> quella del Sargente maggiore perché tardo ha <lb/>
+havuta la commissione; et un’altra non arriva a doi-<lb/>
+cento; ma si faranno forti col rimanente delle altre. <lb/>
+La causa del poco numero di questa ultima è nata <lb/>
+perché de’ primi soldati, che il Capitano haveva fatti levare <lb/>
+molti se ne erano ritornati, havendo inteso per <lb/>
+camino, che ’l conte di Embdem havesse rivocato il primo <lb/>
+ordine, et fosse per impedir loro il passaggio, et per <lb/>
+altri, che il medesimo Conte haveva fatti tornar <lb/>
+a dietro con farli levar le spade, et insino le <lb/>
+stesse robbe, che havevano per loro uso. Ho però <lb/>
+trovato<ptr target="#tn2" n="2"/>, che ’l numero delli tre milla fanti
+<pb n="037v" facs="05_037v" rend="0"/>
+dell’obligo del signor conte di Levenstein resta compito; anzi <lb/>
+vi è sopra avanzo di alcuni di vantaggio. Ma dirò <lb/>
+di più alla Serenità vostra che hieri il Conte ha ricevute lettere da <lb/>
+Amburgh da un altro capitano a chi già haveva data <lb/>
+carica di levar altri trecento fanti, nelle<ptr target="#tn3" n="3"/> quali gli <lb/>
+scrive haverli già tutti ad ordine per imbarcare; onde <lb/>
+gli ha ispedita persona espressa perché subito se ne <lb/>
+venga, volendo condur anco questi al servitio della <lb/>
+Serenità vostra. Oltre di ciò mi ha detto haver dato ordine <lb/>
+di levar in Amsterdam doicento marinari con disegno <lb/>
+di servirsi di loro in questo viaggio, et, se veranno <lb/>
+a tempo, distribuirli sopra le navi: a fine che in ogni <lb/>
+caso di qualche mancamento de’ patroni di esse <lb/>
+o de’ suoi marinari, possino questi supplir al <lb/>
+difetto, che potesse nascer; et disegna arrivato <lb/>
+a’ piedi della Serenità vostra di offerirle li detti marinari <lb/>
+per la sua armata da mare, havendo anco dato <lb/>
+il carico di essi ad un nominato il capitano Curtlan[o] <lb/>
+huomo proveto nel mare, trovatosi in fattioni, et <lb/>
+che per qualche tempo è stato nel numero de’
+<pb n="038r" facs="05_038r" rend="0"/>
+pirati. Io sono informato, che ’l signor principe Mauritio <lb/>
+nelle guerre passate ha fatto gran capitale di haver <lb/>
+sotto lui di essi marinari, valendosene in terra <lb/>
+per il servitio particolarmente dell’artiglieria; cavando <lb/>
+molto più frutto, et beneficio per il publico da <lb/>
+questi, che da qualsisia altri. Sarà però la proposi-<lb/>
+tione, che farà il signor Conte alla Serenità vostra di queste genti <lb/>
+anco per il servitio da terra; et mi ha detto, che <lb/>
+starà a lei l’accettarle, et quando non se ne compiacci <lb/>
+ho cavato, che disegna valersi di loro per metterli <lb/>
+sopra doi navi<ptr target="#tn4" n="4"/>, nelle quali è entrato, in parte con <lb/>
+qualche mercante d’Amsterdam, per far, a mio <lb/>
+creder, trafico<ptr target="#tn5" n="5"/>. Ho scoperto in questo Cavalliere <lb/>
+desiderio grande di servir bene la Serenità vostra, et <lb/>
+l’intentione sua esser di non continuar per poco <lb/>
+nel servitio di lei; ma di starvi molto tempo; et mi <lb/>
+ha di nuovo replicato, che procurerà di conformarsi <lb/>
+in tutto con la volontà delle Signorie vostre eccellentissime, et di <lb/>
+volersi governare tutto al contrario di quello, che <lb/>
+ha fatto il signor conte Gio. Ernesto: aggiungendomi, che
+<pb n="038v" facs="05_038v" rend="0"/>
+veniva con doi fini a Venetia. L’uno di obedire, et l’altro <lb/>
+di acquistar honore, et riputatione. Queste parole <lb/>
+le ha proferite sempre et a me, et ad altri, et io pregarò <lb/>
+il signor Dio, che così succedi; et me lo voglio prometter dalla <lb/>
+generosità, che scuopro nell’animo di questo Cavalliere. </p>
+<p>Per l’impedimento della nave, che scrissi alla Serenità vostra <lb/>
+la passata settimana haver per mala fortuna dato in terra <lb/>
+et che si ritrova a Embdem per accommodarsi, et perché <lb/>
+l’ultima, che arrivò lunedì in questa fiumara carica <lb/>
+al presente le vittuarie, la soldatesca è necessitata star <lb/>
+tutta ristretta dentro alle altre navi; ma dimani o <lb/>
+appresso dimani si allargaranno; et il signor Conte spera al certo <lb/>
+partir un giorno della prossima settimana, ancorché <lb/>
+non siano venuti li 300 fanti da Amburgh, et non sia <lb/>
+ad ordine la nave, che è a Embdem. Da essa sono già <lb/>
+state levate le artiglierie, et altre monitioni, hoggi si <lb/>
+doveva voltare per veder la falla, et accommodorla. <lb/>
+Questa mattina ha mandati li suoi capitani a tutte le navi <lb/>
+per publicar gl’ordini d’obedienza ai soldati, et come <lb/>
+doveranno li padroni de’ vasselli trattarli per li viveri. </p>
+<pb n="039r" facs="05_039r" rend="0"/>
+<p>Io insto, et solecito quanto più posso, et certo veggo, che ’l <lb/>
+signori Conte non tralascia diligenza; ma la malitia dei marinari, <lb/>
+che non perdono alcuna cosa col star attaccati all’ancora, <lb/>
+supera la solecitudine, et la diligenza, che si usa, et <lb/>
+ancorché lunedì doveva partir al certo da Amsterdam <lb/>
+un vassello con<ptr target="#tn6" n="6"/> camise, scarpe, calce et altro per <lb/>
+uso dei soldati, sin qui non è arrivato, ma si aspetta di <lb/>
+hora in hora. Io vorrei, che già queste genti <lb/>
+fossero in camino, et così vorrebbono anco li capitani <lb/>
+temendo, che la lunghezza del tempo non causi qualche <lb/>
+inconveniente tra la soldatesca; et perché l’aria <lb/>
+di questo forte, et del porto istesso come grossa, et <lb/>
+salmastra causa delle febri, et la morte di qualche <lb/>
+soldato, se bene doppo che questa levata si trova <lb/>
+qui, che dal principio sinhora corrono doi mesi <lb/>
+in circa non sono morti, che quattro, o cinque, ben <lb/>
+alcuni patiscono come ho detto di febre, et doglia di <lb/>
+testa; et io talhora non sono essente da questa; <lb/>
+ma spero in sua divina Maestà, che mi guarderà da <lb/>
+maggior accidente: perché possi con sanità continuar
+<pb n="039v" facs="05_039v" rend="0"/>
+nel mio devoto, et riverente zelo di servir la Serenità vostra. </p>
+<p>All’Haya (come mi viene scritto) si publica essersi conclusa in <lb/>
+Francia la pace d’Italia sottoscritta dalli deputati delle <lb/>
+parti interessate; tanto mi scrive anco il signor conte Guglielmo <lb/>
+da Leverden; ma essendo io per benignità delli eccellentissimi signori <lb/>
+ambasciatori in Francia, avvisato,<ptr target="#tn7" n="7"/> che alla corte di Spagna <lb/>
+era stata mandata la scrittura, et se ne doveva aspettar <lb/>
+la total confermatione, temo dei soliti artificii, et pretesti <lb/>
+et che per ciò non succedi quella quiete publica, et quella <lb/>
+tranquilità, che dalle Eccellenze vostre illustrissime è piamente desiderata <lb/>
+et da me pregata da Dio per sollevo, et servitio di quella serenissima Republica. </p>
+<p>Non mi assicuro, che simil voce sia intesa volontieri in questi <lb/>
+stati bramandosi la guerra lontana, mentre massime nell’<lb/>
+intestino vi è il male delle controversie di religione, cosa che <lb/>
+viene stimata da’ più intendenti tener in bilancio la libertà <lb/>
+di questa Republica. Ho avviso essersi il signor principe Mauritio <lb/>
+con il fratello conte Henrico transferito alla Brilla per assister <lb/>
+all’elettione di quel Magistrato. </p>
+<p>Li borghesi di Utrechet, ancorché in quella città li signori Stati hab-<lb/>
+bino per le passate sollevationi trattenute sempre 15 compagnie
+<pb n="040r" facs="05_040r" rend="0"/>
+d’infanteria, et doi, o tre di cavallaria, havevano in <lb/>
+ogni modo senza auttorità di essi signori Stati descritti da 200 <lb/>
+fanti, et fattane mostra, se ben poi, dicono, li habbino <lb/>
+licentiati. Altre città ancora havevano levate genti <lb/>
+et tutte dicevano per mantener il magistrato; ma si <lb/>
+teneva, che questo fosse pretesto, et in essenza fosse <lb/>
+per mantenimento dei partiti di religione, che, come <lb/>
+in sé differenti generano la divisione degl’animi; <lb/>
+onde si teme, che un giorno non succedi qualche mal <lb/>
+incontro a contento di quelli, che amano, et forse fo-<lb/>
+mentano questa disunione<ptr target="#tn8" n="8"/>. </p>
+<p>Alle frontiere delli stati de’<ptr target="#tn9" n="9"/> serenissimi arciduchi le compagnie <lb/>
+di cavallaria stano pronte, sentendosi le levate <lb/>
+d’Alemagna andar innanti, et la voce, che si è <lb/>
+sparsa, che la pace d’Italia resti stabilita in <lb/>
+Francia<ptr target="#tn10" n="10"/> eccita anco a star più avvertiti, temendosi <lb/>
+come ho scritto altre volte, per Giuliers, o per qualche <lb/>
+altra intrapresa. Gratie etc. </p>
+<p>Da Delfsil a’ 6 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="040v" facs="05_040v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="012">
+<!--
+<p n="040vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 ottobre 1617<ptr target="#tn11" n="11"/> ricevuta a’ 25 detto </p>
+<p>Secretario Surian </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes "tanto" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" corrected above "-a"</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a-" corrected from "-o-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "m" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-sun-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

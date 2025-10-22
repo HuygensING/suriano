@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.086 date 1622-01-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">086</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 442, 445r-447v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">442r-v, 445r-447v, 443r-444v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on a conversation with Cornelis van Aerssen about a potential truce with the Spanish and the action of Tserclaes. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-01-17">17 gennaio 1622</date>
+            <num>141, 142</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="141">
+<div type="main" facs="main text of letter" n="141">
+<!--<p>17 gennaio 1622, L’Aia (cc. 442r-v, 445r-447v)</p>-->
+<pb n="442r" facs="10_442r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima replicata </p>
+<p>n° 359 fin 360 </p>
+<p>Serenissimo Principe </p>
+<p>doppo haver spedita l’ultima lettera miei dei x dello stante copia della <lb/>
+quale sarà qui aggiunta, sotto pretesto di visita mi sono travato con <lb/>
+qualcheduno di questi signori, et ho cavato, che li signori Stati et delli avvisi di <lb/>
+Vienna, et di quelli dei Grisoni havevano havuta qualche notitia; ma <lb/>
+che tenevano il negotio dell’Imperatore col principe Gabor per punto <lb/>
+di gran consequenza, et non di così facil riuscita; così anco del mal <lb/>
+de’ Grisoni non aspettavano se non il peggio tanto per essi, che per li Svizzeri <lb/>
+ancora. </p>
+<p>Ridono questi signori, et in un istesso tempo stupiscono della bontà <lb/>
+delli signori Svizzeri per un avviso, che hanno havuto, che dalla <lb/>
+parte loro siano passati al conte di Mansfelt quattro ambasciatori <lb/>
+per pregarlo a desister dal far danno nel territorio di Strasburgh <lb/>
+et nell’Alsatia, et ciò ad instigatione dell’arciduca Leopoldo <lb/>
+che ha lor dato ad intender, che se otteniranno questo da <lb/>
+Mansfelt egli restituirà il Paese occupato a’ signori Grisoni. </p>
+<p><hi rend="decoded">Del</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">farsi qui per hora risolutione stanti li detti avisi <lb/>
+di Viena, et de’ Grisoni non vego, che vi sia apparenza, <lb/>
+ben staranno a sentir quello, che Spagnoli anderanno facendo, <lb/>
+et come si anderanno movendo per proveder a sé stessi, et <lb/>
+se li resterà di poter giovar ad altri cavo, che lo faranno <lb/>
+di buon cuore: ma troppo queste Provincie sono interessate, <lb/>
+et grandissimo è il bisogno loro di haver aiuto eterno, et <lb/>
+da’ più cari amici in particolare. <lb/>
+</hi></p>
+<pb n="442v" facs="10_442v" rend="0"/>
+<p>Sopra la sustanza degl’avvisi significatami dalla prudenza della Serenità vostra <lb/>
+qualcheduno<ptr target="#tn2" n="2"/> ha fatto reflesso, et principalmente per quello, che s’aspetta <lb/>
+al passo, che resta al presente totalmente chiuso a vostra Serenità dalla parte <lb/>
+di terra, stante che vi sono di quelli, che dubitano assai, che <lb/>
+a primo tempo ella habbi ad haver del travaglio, et della <lb/>
+spesa assai. Io con questo facendomi campo non lascio con <lb/>
+chi mi occorre di portar con vantaggio della Serenità vostra li sudetti avvisi. <lb/>
+Alcuni però mirando all’interesse di queste Provincie non assentono <lb/>
+a tutto ciò, che dico de’ suspetti, dell’occasioni di spese, et dell’armi <lb/>
+vicine, che le sovrastano tanto dalla parte di mare, che di terra <lb/>
+ma dicono, che ’l servitio di vostra Serenità indubitato, et certo sia il sostener <lb/>
+questa Republica ad ogni prezzo tanto per l’aleanza, che per la <lb/>
+ragione di stato; et per tenersi lontane l’arme nemiche; et di questo <lb/>
+in particolare il secretario dell’assemblea dei Stati Generali Arsen me <lb/>
+ne discorse uno di questi passati giorni, che fui a visitarlo, <lb/>
+dicendo, che non solo a lui; ma ad altri pareva molto strano, <lb/>
+che la Serenità vostra non mirasse a questo suo interesse. Aggiungendo <lb/>
+altri concetti indicativi del sentimento, che si haveva di non esser <lb/>
+soccorsi. </p>
+<p><hi rend="decoded">Nel</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">discorso che hebbe meco il detto secretario Arsen venuto <lb/>
+a proposito de’ pensieri, che si potesse haver di tregua <lb/>
+disse, che Spagnoli non cessavano di farne correr le <lb/>
+voci, ma che si teneva per certo, che questo fosse il <lb/>
+minor pensiero, che essi ne havevano, et che perciò <lb/>
+manco da questa parte vi si pensava,</hi>
+<pb n="445r" facs="10_445r" rend="0"/>
+<hi rend="decoded">né si faceva <lb/>
+conto di quello si publicava, se ben (et mostrò di parlar <lb/>
+con confidenza) disse potrebbono venir le cose così avanti, <lb/>
+che vedendosi li signori Stati destituti, et abbandonati, e <lb/>
+da Francia, e da Inghilterra, et da Venetia, e da tutti li <lb/>
+suoi più buoni amici cadessero in qualche risolutione <lb/>
+ancorché fin qui non vi fosse cosa alcuna: ma la <lb/>
+disperatione fa far delle cose assai. A questo pro-<lb/>
+posito non lascierò di riverentemente dir alla Serenità vostra, <lb/>
+che ho veduta una lettera di monsignor di Piseurs scritta <lb/>
+qui al colonello Altariva, nella quale parlando <lb/>
+dell’incommodità, et dei patimenti nella passata <lb/>
+campagna di queste militie, diceva queste formali <lb/>
+parole, che havendo questi signori provate le incommo-<lb/>
+dità passate, et vedendo trovarsi soli sottoposti a <lb/>
+gravi interessi potranno forse dar di orecchie al <lb/>
+presente a qualche trattatione. Tuttavia non <lb/>
+ostante questo per li emergenti, che passano in Francia <lb/>
+per sospetto, che hanno alla corte del Christianissimo, che questi <lb/>
+signori habbino ad assister agli ugonotti tengono per <lb/>
+fermo li più sensati, che Francesi</hi>
+<pb n="445v" facs="10_445v" rend="0"/>
+<hi rend="decoded">impediranno a lor <lb/>
+potere anco quando si trattasse di tregua l’effetto di essa. <lb/>
+</hi></p>
+<p><hi rend="decoded">Si scuopre bene, che di qua aderiscono a quel partito: <lb/>
+poiché havendo monsignor di Langarac scritto qui di haver <lb/>
+fatta certa espositione al Re, et mandandone la copia <lb/>
+sendovi incluso parlando al re degli ugonotti dice <lb/>
+li ugonotti sudditi ribelli di vostra Maestà hanno risentito <lb/>
+questi signori grandemente una tal forma di dire, et sono stati <lb/>
+in forse di quello dovessero deliberar della persona di <lb/>
+lui: ma con un avvertimento</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">assai grave per non <lb/>
+passar a maggior disgusto con la corte di Francia, <lb/>
+hanno stimato proprio di dar ad esso Langarac <lb/>
+un poco di mortificatione. <lb/>
+</hi></p>
+<p><hi rend="decoded">La dama Serclas quella, che si intrica in questo parti-<lb/>
+colar della tregua è ritornata di Brabant doppo <lb/>
+esservi stata qualche mese: ma in un biglietto <lb/>
+pur senza sottoscrittione non ha riportato che le <lb/>
+cose passate, solo quello vi è di aggionta, che si <lb/>
+doverà lasciar il traffico dell’Indie Orientali; <lb/>
+il che viene interpretato, parlandosi con queste <lb/>
+parole generiche,</hi>
+<pb n="446r" facs="10_446r" rend="0"/>
+<hi rend="decoded">che la tregua si doverà intender <lb/>
+di là</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">la linea, et per consequenza, che Spagnoli <lb/>
+vi possino trafficar senza che più seguino ostilità. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il signor principe Mauritio non l’ha voluta ancor vedere, <lb/>
+né sentire doppo otto giorni, che è ritornata, con <lb/>
+tutto che habbi fatte più instanze, et per esser <lb/>
+introdota si serve del mezo del signor principe di Portugallo. <lb/>
+Sua Eccellenza dice ch’ella vada ai Stati; si duole, che habbi <lb/>
+parlato in Brabant cose, che non si sono sognate di <lb/>
+qua, et così anco qui de’ Spagnoli: ancor la cosa <lb/>
+sta così, né qui si attenderà certo ad altro per quello, <lb/>
+che scuopro, quando Spagnoli vogliono</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">alterar dalla passata <lb/>
+tregua. Io avertirò a tutto, et in tanto le dirò <lb/>
+quanto ho anco cavato ultimamente in tal materia, <lb/>
+et è questo. <lb/>
+</hi></p>
+<p><hi rend="decoded">Già alcuni giorni sono passò per qua uno con lettere <lb/>
+del re di Danimarca, ch’era spedito da quella Maestà <lb/>
+alla corte di Spagna per la ricuperatione di alcuni <lb/>
+vasselli trattenuti da’ Spagnoli, et lasciò lettere per li <lb/>
+signori Stati, et per il principe di Oranges; il cui contenuto <lb/>
+fu che mandando</hi>
+<pb n="446v" facs="10_446v" rend="0"/>
+<hi rend="decoded">in Spagna desiderava saper da <lb/>
+sue Eccellenze, et dal medesimo Principe se havesse procurato <lb/>
+di cavar l’intentione del Re cattolico in materia del <lb/>
+rinovar la tregua qual fosse il pensiero loro: questi <lb/>
+signori non diedero la risposta al detto apportatore: perché <lb/>
+partì verso Brusseles, ove hebbe due audienze dall’<lb/>
+Infanta, non havendosi saputo, che procurasse da sua <lb/>
+Altezza altro, che lettere di favore per il negotio di detti <lb/>
+vasselli: pur finalmente hanno risoluto sue Eccellenze di <lb/>
+risponder, che ringratiavano sua Maestà della buona <lb/>
+volontà, che mostrava</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">verso di loro, et che molto <lb/>
+bene si scopriva nel negotio, di che haveva scritto, <lb/>
+e dalla propositione del cancellier Pechius, et da <lb/>
+altro, che Spagnoli non volevano altro, che far la <lb/>
+guerra</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">a questi paesi; che le provincie per <lb/>
+tanto ben conscie di questo, come sin qui erano state <lb/>
+pronte, così haverebbono anco per l’avenire fatta <lb/>
+ogni preparatione per la diffensiva, et che però <lb/>
+pregavano la Maestà sua, che come vicina, et amico</hi>
+<pb n="447r" facs="10_447r" rend="0"/>
+<hi rend="decoded">si <lb/>
+compiacesse di preparar le sue assistenze per la <lb/>
+manutentione, et conservatione di queste Provincie; <lb/>
+tale è stata la sostanza della lettera senza passar <lb/>
+ad altro individuo. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 17 genaro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissmo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="447v" facs="10_447v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima replicata </p>
+<p>n° 359 fin 360 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="141">
+<!--
+<p n="447vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 gennaro 1621<ptr target="#tn9" n="9"/> ricevute 10 febraro </p>
+<p>Haya. n° 359<ptr target="#tn10" n="10"/> </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="142" corresp="141" source="443r-444v" >
+<div type="main" facs="main text of attachment I" n="142" corresp="141" >
+<!--<p>Allegato I al n. 141 (cc. 443r-444v; decodifica di cc. 442r-v, 445r-447r)</p>-->
+<pb n="443r" facs="10_443r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="443v" facs="10_443v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="444r" facs="10_444r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="444v" facs="10_444v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Del … amici in particolare" decoding of the encrypted text can be found on c. 443r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes "che" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Nel … Gratie etc." decoding of the encrypted text can be found on cc. 443r-444v; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "av-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "lin-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "tregua" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-59" corrected above "-60."</p></note>
+</div>
+</body>
+</text>
+</TEI>

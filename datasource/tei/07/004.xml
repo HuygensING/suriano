@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.004 date 1618-08-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">004</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 16r-17v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">16r-17v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the merchants and the captain of the ship St Paul, which like Pauw’s ship has also been arrested, have requested his help. Pleas for their release, reiterating that several individuals involved in matter are important figures in the Dutch government. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-13">13 agosto 1618</date>
+            <num>007</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="007">
+<div type="main" facs="main text of letter" n="007">
+<!--<p>13 agosto 1618, L’Aia (cc. 16r-17v)</p>-->
+<pb n="016r" facs="07_016r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>li compartecipi della nave nominata San Paulo, capitano Iacomo <lb/>
+Isbrans sono ricorsi a me, et con particolare affetto mi hanno rappresentato <lb/>
+il caso avenuto alla loro nave, et marinari essendo stata arrestata <lb/>
+in compagnia di quella del Pavone, et poste le genti alla galera <lb/>
+et con una stessa asseveranza han procurato di rimostrarmi, <lb/>
+che non tengono, che vi sia alcun difetto nel loro Capitano né <lb/>
+meno in alcuno dei marinari; che questa era nave di <lb/>
+mercantia, et che l’esser armata sarebbe più tosto in <lb/>
+occasione di servir alla serenissima Republica, che di offenderla, o <lb/>
+far cosa contra il suo gusto, et servitio. Io ho considerato <lb/>
+anco a questi signori che la qualità de’ tempi non comportava <lb/>
+il<ptr target="#tn1" n="1"/> dar alcun’ombra di sospetto, et che era impossibile <lb/>
+che non vi fosse qualche fallo dal canto del Capitano o marinari <lb/>
+massime che potesse venir dalla natura propria di poco <lb/>
+rispettare o far stima quando incontrano vasselli de’ principi <lb/>
+essi non puotero negarmi, che ciò succedeva bene spesso; ma <lb/>
+che non potevano persuadersi, né havevano alcun avviso <lb/>
+che havessero fatto insulto, né usato qualche mal termine <lb/>
+contra vasselli di vostra Serenità, et per tanto mi pregavano instan-<lb/>
+temente a mirar al loro interesse, et scriver caldamente <lb/>
+a lei perché si compiacesse, che fosse liberata la nave, <lb/>
+et gl’huomini d’essa. Io non potendo ricusar all’<lb/>
+instanza et<ptr target="#tn2" n="2"/> havendomi detto che anco li signori Stati <lb/>
+scrivono loro particolari in questo proposito, ho stimato <lb/>
+bene di aggiunger anco queste mie, per pregarla riverentemente
+<pb n="016v" facs="07_016v" rend="0"/>
+come faccio ad haver in consideratione la qualità delle persone <lb/>
+che sono interessate nel detto vassello, che sono anco delli <lb/>
+medesimi del governo, et inoltre al sodisfar in quanto può degna-<lb/>
+mente, et prontamente fare alla Natione, per obligarla <lb/>
+a corrisponder, et continuar con pari devotione, et affetto <lb/>
+a complir a’ desiderii, et alla sodisfattione di vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya a’ xiii agosto 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="017r" facs="07_017r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="017v" facs="07_017v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="007">
+<!--
+<p n="017vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 agosto 1618 ricevute a’ 31 detto </p>
+<p>Haya </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

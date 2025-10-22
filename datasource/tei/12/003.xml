@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.003 date 1623-03-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 17r-20v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">13r-16v, 17r-20v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 17 February including copy of parts of letter by Pesaro. Discussed the commission of the French and Savoyard envoy to Mansfeld and the difficulty of the plan to get Mansfeld to move to Burgundy. Du Maurier will visit Maurice to inform him about these difficulties, news that Bavaria has been appointed elector. Send a cipher to Rota. Further reports about financial assistance to Mansfeld. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-03-13">13 marzo 1623</date>
+            <num>004, 005</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="004" corresp="005" source="13r-16v" >
+<div type="main" facs="main text of attachment I" n="004" corresp="005" >
+<!--<p>Allegato I al n. 5 (cc. 13r-16v; decodifica di cc. 17r-20r)</p>-->
+<pb n="013r" facs="12_013r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="013v" facs="12_013v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="014r" facs="12_014r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="014v" facs="12_014v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="015r" facs="12_015r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="015v" facs="12_015v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="016r" facs="12_016r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="016v" facs="12_016v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="005">
+<div type="main" facs="main text of letter" n="005">
+<!--<p>13 marzo 1623, L’Aia (cc. 17r-20v)</p>-->
+<pb n="017r" facs="12_017r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima replicata </p>
+<p>n° 478 fin 479 </p>
+<p>Serenissimo Principe </p>
+<p>ho con l’ultimo ordinario ricevute le lettere di vostra Serenità dei 17 del passato <lb/>
+con esse la copia del capitolo di lettere scritte in Francia all’<lb/>
+eccellentissimo signor ambasciator Pesaro in conformità delle quali come prima mi <lb/>
+haveva mandate piene instruttioni, et io ne diedi riverente <lb/>
+conto alla Serenità vostra così con altre lettere de’ 20 febraro m’ha <lb/>
+aggiunto quello di più, che sua Eccellenza istessa a lei ha scritto <lb/>
+pur a’ 20 del medesimo mese. </p>
+<p><hi rend="decoded">Queste</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">ultime lettere mi sono state rese dalli doi</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">gentil-<lb/>
+huomini del Christianissimo, et di Savoia, che arrivorono sabbato <lb/>
+a sera, havendo messi più di xv giorni in camino, et <lb/>
+questa mattina sono partiti alla volta di Mansfelt: <lb/>
+hieri fu con loro in questa casa di vostra Serenità, et <lb/>
+poi in quella del signor ambasciator di Francia; fecero aper-<lb/>
+tura delle loro commissioni già note a lei: intorno <lb/>
+le quali il signor Ambasciator, et io concorressimo nel dirle, <lb/>
+che dovessero pontualmente essequirle. Fu discorso <lb/>
+sopra le difficoltà, che si vedevano di farsi</hi><ptr target="#tn3" n="3"/> <hi rend="decoded"><lb/>
+il conte di Mansfelt l’additò per passar in Borgogna; <lb/>
+et sopra la intentione, che si scopriva da questa <lb/>
+parte, che per sicurezza di queste Provincie, et per li <lb/>
+fini dei signori Stati, et del signor principe Mauritio <lb/>
+Mansfelt, et Bransvich restassero per impiegarli <lb/>
+al</hi>
+<pb n="017v" facs="12_017v" rend="0"/>
+<hi rend="decoded">bisogno nel loro servitio, che apparenti, et essenti-<lb/>
+li</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">parvero a monsignor di Montereau, et <lb/>
+al signor Bos: ma si disse loro dal signor Amasciatore; et <lb/>
+io ancora dissi, che bisognava in ogni modo far <lb/>
+condescender il Conte a far il viaggio, che Monte-<lb/>
+reau si fa assai facile, quando questi signori si con-<lb/>
+tenteranno al tempo della mossa di Mansfelt <lb/>
+darle fomento, morcendosi anch’essi, come se <lb/>
+volessero passar in Brabant, et questo a’ fine <lb/>
+di ingannar Spagnuoli mentre qui questi gentil-<lb/>
+huomini hanno trovato, che sua Eccellenza, et altri hanno <lb/>
+notitia della diversione, che si vorrebbe far in <lb/>
+Borgogna, per quello, che non solo ha lasciato <lb/>
+detto qui il Quat gentilhuomo di Mansfelt: ma <lb/>
+anco il medesimo Conte ha scritto a sua Eccellenza, come <lb/>
+riverentemente avvisai la passata settimana: <lb/>
+onde</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">bisognerebbe finger, che l’arme di <lb/>
+lui facessero viaggio tale, che indicassero, et <lb/>
+facessero, sospettar</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">a’ Spagnuoli, che <lb/>
+volessero gettarsi di concerto nella contea di <lb/>
+Mamurg</hi><ptr target="#tn7" n="7"/><hi rend="decoded">, et verso il Lucemburgh: in fine <lb/>
+</hi>
+<pb n="018r" facs="12_018r" rend="0"/>
+<hi rend="decoded">fu</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">concluso, che niente si potesse fermar di certo, <lb/>
+che prima non si havesse parlato, et concertato <lb/>
+con Mansfelt, che allhora haverebbono imme-<lb/>
+diate ispedito qui a’ fine di far in diligenza <lb/>
+saper alla corte del Christianissimo quello, che n’era, <lb/>
+promettendo che non haverebbono altrimenti <lb/>
+trattato</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">del desiderio, et concerto de’ confederati <lb/>
+fu stimato bene dal signor ambasciator di Francia essendo <lb/>
+passati di qua, et havendo già notitia il signor <lb/>
+Papen della sua venuta, che andassero ambi-<lb/>
+doi a visitarlo. Io anco concorsi nell’opinion, <lb/>
+poco si trattenero con l’Eccelenza sua, et riportorono, che <lb/>
+haveva mosse le difficoltà del passaggio, et <lb/>
+quanto all’assister, et secondar l’armi di <lb/>
+Masfelt, di che le tocorono in generale senza <lb/>
+condescender a’ particolari, disse che haaverebbe <lb/>
+fatto quello, c’havesse potuto appresso li signori <lb/>
+Stati per servitio di questo affare. <lb/>
+</hi></p>
+<p>Mentre erano insieme venero lettere al signor ambasciator di Francia <lb/>
+di Brusseles con avviso, che vi era capitato corriero <lb/>
+espresso con lettere del conte di Ognati, che scriveva
+<pb n="018v" facs="12_018v" rend="0"/>
+all’Infanta haver l’Imperatore rivestito dell’elettorato, et del <lb/>
+Palatinato il duca di Baviera. <hi rend="decoded">Questo</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">aviso diede ben a pensar a tutti, et <lb/>
+particolarmente alli doi</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">mentre <lb/>
+non sapevano che poter al presente promettersi <lb/>
+di quell’Altezza essendo tanto obligata, et congion-<lb/>
+ta con questa dignità a sua Maestà cesarea, né parendo <lb/>
+che vi fosse più apparenza di poter prevalersi <lb/>
+di quell’intentione, che si haveva havuta <lb/>
+in Francia per nome di detta altezza di Baviera, et <lb/>
+che tanto osseverente era uscita con Mantereau <lb/>
+dalla bocca di monsignor di Pisiurs: doveranno <lb/>
+per tanto sopra questo nuovo emergente pigliar <lb/>
+il consiglio del conte di Mansfelt, sperando, che con <lb/>
+l’assistenza, et spala dell’armata delli signori Stati, <lb/>
+si potrà</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">trovar passaggio senza toccar le <lb/>
+terre di Baviera, riducendosi alle frontiere <lb/>
+della Francia nel paese di Metz, et di là <lb/>
+poi si potrà passar avanti al luogo dessignato. <lb/>
+</hi></p>
+<p><hi rend="decoded">Se ben questo hanno promesso di far il loro debito, <lb/>
+et essequir pontualmente le sue commissioni. <lb/>
+Io però ho scritto al Rotta, <lb/>
+</hi>
+<pb n="019r" facs="12_019r" rend="0"/>
+<hi rend="decoded">perché stia averito <lb/>
+alli loro trattati, et andamenti per avisarne <lb/>
+la Serenità vostra, et a ciò lo facci tanto più sicuramente <lb/>
+li ho formata una ziffra, et sono dieci giorni, <lb/>
+che gliela ho mandata, et voglio sperar, che <lb/>
+l’haverà ricevuta. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il Bos in particolare parlandomi del concertato <lb/>
+di dar a Mansfelt 50 mila scudi per mese, disse <lb/>
+che questi erano stimati da lui pochi, et che <lb/>
+difficilmente poteva Mansfelt mettersi a far <lb/>
+il viaggio, et condur le genti con la disciplina <lb/>
+necessaria per passare, se non con difficoltà <lb/>
+et mancamento di tutte le cose, mentre il solo <lb/>
+nome della</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">soldatesca di Mansfelt fa <lb/>
+fuggir gli habitanti nei villaggi, et nelle terre, <lb/>
+che così anco in questa occasione causerebbe l’<lb/>
+incommodo, et delli alloggi, et delli viveri: <lb/>
+ma che in Francia havevano voluto tirarla <lb/>
+troppo contra l’intentione del suo padrone, et <lb/>
+pensava anco, che vostra Serenità fosse del medesimo senso, <lb/>
+che sua Altezza. Io a questo non replicai</hi>
+<pb n="019v" facs="12_019v" rend="0"/>
+<hi rend="decoded">di vantaggio; <lb/>
+se non che bisognava accomodarsi, et effettuar <lb/>
+il concertato dai confederati. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il signor Ambasciator raccordò alli detti gentilhuomini, <lb/>
+che era tato avvertito, che il conte di Mansfelt <lb/>
+di sei cento mille fiorini, che haveva havuti <lb/>
+dai signori Stati non ne haveva esborsati alla solda-<lb/>
+tesca cento mille, o perchi più, et che per questo <lb/>
+maneggio del denaro bisognava prende buona <lb/>
+guardia per tirarne frutto. <lb/>
+</hi></p>
+<p><hi rend="decoded">La causa, che li signori Stati non desiderarebbono, che <lb/>
+il</hi><ptr target="#tn14" n="14"/> <hi rend="decoded">conte di Mansfelt riuscisse da questi contorni <lb/>
+è per l’effetto, che ho già scritto a vostra Serenità <lb/>
+et in altre, et in queste: ma si aggiunge <lb/>
+anco altro rispetto, et è il timore, che hanno <lb/>
+l’Eccellenze loro, che partito Mansfelt dal contato <lb/>
+di Embdem Spagnuoli vi si introduchino; onde <lb/>
+stano ancor li doi deputati delli medesimi <lb/>
+signori Stati a Embdem per introdur guarni-<lb/>
+gioni; in</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">tutte le piazze di quel contrato: <lb/>
+ma fino che vi sta Mansfelt si assicurano <lb/>
+bene di esser in buon stato.</hi></p>
+<pb n="020r" facs="12_020r" rend="0"/>
+<p><hi rend="decoded">A questo vi con-<lb/>
+corre qualche altra cosa di reflesso, et è <lb/>
+l’intelligenza, che Mansfelt tiene con il <lb/>
+re di Danimarca, dalla qual</hi><ptr target="#tn16" n="16"/> <hi rend="decoded">Maestà <lb/>
+per persona espressa è stato mandato a fargli <lb/>
+presente di un gioiello tempestato di diamanti <lb/>
+di valor di 6000 scudi, et par che si lasci <lb/>
+intender quel Principe di voler bene l’amicitia <lb/>
+dei signori Stati lontana: ma non che si</hi><ptr target="#tn17" n="17"/> <hi rend="decoded"><lb/>
+vadino facendo tanto vicini. <lb/>
+</hi></p>
+<p><hi rend="decoded">Di quello, che mi pervenità degno della <lb/>
+notitia di vostra Serenità del negotiato delli detti <lb/>
+doi gentilhuomini; tenendo ogni buona corri-<lb/>
+spondenza con questo signor ambasciator di Francia, <lb/>
+non mancarò di darlene riverente conto, come <lb/>
+anco di tutto aviserò di tempo in tempo conforme <lb/>
+al mio debito l’eccellentissimo signor ambasciator Pesaro. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 13 marzo 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="020v" facs="12_020v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima replicata </p>
+<p>n° 478 fin 479 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="005">
+<!--
+<p n="020vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 marzo 1623. Ricevute 5 d’aprile </p>
+<p>Haya. Prima. n° 478 </p>
+<p>Ha ricevute lettere di vostra Serenità, et di Francia <lb/>
+più mani, l’ultime venegli dalli due <lb/>
+gentilhuomini del Christianissimo, e di Savoia, che <lb/>
+giunsero il sabato, et quella mattina <lb/>
+partirono alla volta di Masfelt. </p>
+<p>Si sono<ptr target="#tn18" n="18"/> trovati insieme con l’ambasciator di Francia, e con lui, <lb/>
+aprendo le commissioni loro già note, le <lb/>
+quali, dissero l’ambasciator francese, et il segretario <lb/>
+che dovessero puntualmente esequire. </p>
+<p>Discorsero delle difficoltà del passaggio <lb/>
+di Masfelt in Borgogna, et sopra l’intentione <lb/>
+da quella parte, che egli, e Bransvich restassero, <lb/>
+per impiegarli. </p>
+<p>Dissero l’ambasciator di Francia, et il segretario ai <lb/>
+due, che bisognava in ogni modo far <lb/>
+condescender il Conte al viaggio. </p>
+<p>Montereau lo fa assai facile, moven-<lb/>
+dosi nello stesso tempo li stati, come <lb/>
+se volessero passar in Brabant, et quello <lb/>
+a’ fine di ingannare Spagnoli, ond<ptr target="#tn19" n="19"/> si <lb/>
+doverebbe finger, che l’armi di Masfelt <lb/>
+facessero viaggio tale, che paresse, che <lb/>
+volessero di concerto gettarsi nella contea <lb/>
+di Mamur<ptr target="#tn20" n="20"/>, e verso il Lucemburgh. </p>
+<p>Fu concluso, nulla potersi fermare senza <lb/>
+parlarsi prima, e concertarsi con Masfelt <lb/>
+dopo che haverebbono immediatamente espedito all’<lb/>
+Haya, per farne sopra il tutto alla <lb/>
+corte del Christianissimo, prometendo, che haverb-<lb/>
+bono trattato cose al desiderio, e concerto <lb/>
+de’ confederati. </p>
+<p>Stimò bene l’ambasciator di Francia, che andassero a <lb/>
+visitare il principe Mauritio, e riportorono, che <lb/>
+haveva mosse le difficoltà del passaggio, et <lb/>
+quanto all’assister, e seddar l’armi </p>
+<p>L. SS. R. </p>
+<p n="020vD">———</p>
+<p>di Masfelt, di che gli toccorno in <lb/>
+generale, disse che haverebbe fatto </p>
+<p>quello, che havesse potuto appresso li <lb/>
+signori Stati per servitio di questo affare. </p>
+<p>L’avviso sopra giunto dell’elettorato concesso <lb/>
+a Baviera ha dato da pensar a tutti <lb/>
+e particolarmente alli due, che non sapevano <lb/>
+al presente che promettersi di quell’<lb/>
+Altezza, né come prevalere dell’inten-<lb/>
+tione, che si haveva havuta in Francia. </p>
+<p>Ha mandata una zifra al Rota. </p>
+<p>Bos stima pochi li 50 mila scudi per <lb/>
+mese per Masfelt, dicendo, che <lb/>
+in Francia l’havea voluta tirar troppo. </p>
+<p>L’ambasciator di Francia raccorda per medesima <lb/>
+grand’avvertenza circa il maneggio del <lb/>
+denaro: perché di 600 fiorini, che <lb/>
+havea havuti Masfelt dai stati, <lb/>
+ne haveva esborsati alla soldatesca <lb/>
+poco più di 200 mila. </p>
+<p>Oltre al resto, non sarebbono i stati <lb/>
+la partita di Masfelt per dubbio dell’<lb/>
+introduttione de’ popoli nelle piazze del <lb/>
+contado di Embden. Et anco vi <lb/>
+s’aggiunse l’intelligentia, che tiene <lb/>
+Masfelt con Danimarca, da cui <lb/>
+è stato regalato. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Queste … servitio di questo affare" decoding of the encrypted text can be found on c. 13r-v; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o-" corrected above "-a-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "apparvero" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "ogn-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "et facessero" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Come pare"</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added in the outer margin; followed by "tratto" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Questo … Gratie etc" decoding of the encrypted text can be found on cc. 14r-15r; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "gentilhuomini" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "de" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "que" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "Mansfelt" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "facino" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.094 date 1623-02-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">094</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 509r-510v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">509r-510v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter with news that Maurice has received information about a plot to attack depots with munition. The depots are being guarded and four have since been detained in The Hague and three in Delft. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-02-06">6 febbraio 1623</date>
+            <num>142</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="142">
+<div type="main" facs="main text of letter" n="142">
+<!--<p>6 febbraio 1623, L’Aia (cc. 509r-510v)</p>-->
+<pb n="509r" facs="11_509r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 467 seguita il 465 et <lb/>
+466 </p>
+<p>Serenissimo Principe </p>
+<p>havevo spedite l’altre mie lettere quando sono <lb/>
+stato avvertito, che ’l signor principe Mauritio <lb/>
+era stato avvisato di alcuni traditori, che <lb/>
+sparsi per il Paese havevano in disegno <lb/>
+di andar attaccando fuoco ai luochi delle <lb/>
+amunitioni; et subito sendo ancor sua Eccellenza a <lb/>
+cena ha dato ordine, che tutti li soldati <lb/>
+della sua guardia facessero ronda questo <lb/>
+luoco, et doppo si è saputo esser stati <lb/>
+presi quattro qui nell’Haya tre a <lb/>
+Delft, et dimani si aspetta nova della <lb/>
+presa di qualche altri. Così mi è stato <lb/>
+riferto, et si publica. Di quello saprò <lb/>
+di certo col prossimo ordinario ne darò <lb/>
+conto alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 6 genaro<ptr target="#tn1" n="1"/> 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="509v" facs="11_509v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="510r" facs="11_510r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="510v" facs="11_510v" rend="270"/>
+<p>Al serenissimo principe di <lb/>
+Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 467 seguita <lb/>
+le doi 465 et 466 </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="142">
+<!--
+<p n="510vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 febraro 622<ptr target="#tn2" n="2"/>. Ricevute 22 detto </p>
+<p>Haya. n° 467 </p>
+<p>Alcuni traditori disegnavan di attaccar <lb/>
+fuoco nelle munitioni. </p>
+<p>Si è dato ordine che li soldati facessero ronda <lb/>
+si sono presi 4 etc. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

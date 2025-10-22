@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.045 date 1623-07-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">045</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 441r-442v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">441r-442v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Morosini has arrived in The Hague, he will have his official entry into the city on 10 July. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-07-10">10 luglio 1623</date>
+            <num>125</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>10 luglio 1623, L’Aia (cc. 441r-442v)</p>-->
+<pb n="441r" facs="12_441r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 520 fin 521 </p>
+<p>Serenissimo Principe </p>
+<p>mentre con attentione, et desiderio aspettavo avvisi di <lb/>
+Francia dell’arrivo in Parigi dell’eccellentissimo signor ambasciator Morosini <lb/>
+che mi haverebbe fatto poi prometter, che presto dovesse <lb/>
+esser anco a queste rive in un medesimo tempo, che hebbi <lb/>
+nuova ch’era arrivato a’ 26 in quella città, et partito <lb/>
+di là a’ 28 del passato, mi fu portato il suo arrivo a <lb/>
+Roterdam. Questo fu venerdì alla notte, et io doi hore <lb/>
+nanti il giorno di sabbato andai per far riverenza a sua Eccellenza <lb/>
+che la trovai afflita, et tormentata assai dal patimento <lb/>
+del mare, et del lungo viaggio; onde per ristorarsi fu <lb/>
+necessitato di trattenersi in quella città. Risaputo questo <lb/>
+dalli signori Stati Generali l’appresso desinare del sabbato <lb/>
+mandarono a lei per salutarla, et darle la ben venuta <lb/>
+et li signori Stati di Holanda in particolare per nome della Provin-<lb/>
+cia mandorono il signor cavalier Arsen con altri tre del loro <lb/>
+congresso a complir coll’Eccellenza sua con ordine di trattenersi <lb/>
+con lei, farla spesare, et non lasciar a dietro alcun <lb/>
+termine di rispetto, et ossequio che in persona dell’<lb/>
+eccellentissimo signor Ambasciatore potessero far apparer più vivo verso <lb/>
+quella serenissima Republica, et questo fin al suo ingresso, che <lb/>
+appunto deve esser hoggidì, et io ispedito il dispaccio <lb/>
+doverò andar coll’eccellentissimo signor principe d’Oranges ad incon-<lb/>
+trar l’Eccellenza sua dalla quale ho havuta espressa commissione <lb/>
+di supplir a quanto occorre delle cose correnti <lb/>
+col notificarle a vostra Serenità mentre ella stanca dal viaggio <lb/>
+et afflita dal travaglio del mare oltre l’esser necessitata
+<pb n="441v" facs="12_441v" rend="0"/>
+a trattenersi con li detti signori non ha né tempo, né commodo di <lb/>
+poter di sua mano farlo. Laudo sua divina Maestà <lb/>
+dell’arrivo qui dell’Eccellenza sua per il servitio della Serenità vostra, perché <lb/>
+dalla grandezza, et merito del soggetto, dalla prudenza, et <lb/>
+virtù sua sarà sostenuto il servitio di quella serenissima Republica <lb/>
+con maggior vantaggio, con maggior dignità et riputatione <lb/>
+et rimediato a quei mancamenti, che nel lungo corso <lb/>
+di questa mia residenza havessi per imbecillità di spirito <lb/>
+potuto commetter. Di questo almeno mi consulterò sempre <lb/>
+che la volontà è concorsa all’operar bene. Io procurerò <lb/>
+sbrigarmi quanto più presto per ritornarmene a’ piedi <lb/>
+di vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya li 10 luglio 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="442r" facs="12_442r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="442v" facs="12_442v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 520 fin 521 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="442vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1623 10 luglio ricevute <lb/>
+a’ 27 detto </p>
+<p>Haya segretario Surian n° 520 </p>
+<p>Avvisa l’arrivo del signor ambasciator <lb/>
+Morosini, che in quel giorno doveva fare <lb/>
+l’ingresso. </p>
+<p>Dice dell’ordine havuto da sua Eccellenza di <lb/>
+scrivere, sendo ella Maestà <lb/>
+stanca dal viaggio. </p>
+<p>Complisce per il suo servitio. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

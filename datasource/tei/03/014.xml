@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.014 date 1616-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 80r-81v, 84r-85v, 91r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">80r-81v, 84r-85v, 91r-v, 82r-83v, 86r-87v, 90r-v, 88r-89v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the news on the war in Italy was being discussed. Following instructions in letters from Venice, he immediately went to the assembly of States General to keep them up to date. The Duke of Savoy defeated the governor of Milan but the Spanish are openly saying they want to rule Piedmont. Magnus and Prince Maurice fear that the Spanish will use this to strive for dominance, something that must be resisted at all cost. Wassenhoven has received a license from States General to raise troops. One document attached: "Scrittura de risposta de’ signori Stati" (also see the Resolutiën Staten-Generaal, p. 723)</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-11-13">13 novembre 1616</date>
+            <num>027, 028, 029, 030</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="027">
+<div type="main" facs="main text of letter" n="027">
+<!--<p>13 novembre 1616, L’Aia (cc. 80r-81v, 84r-85v, 91r-v)</p>-->
+<pb n="080r" facs="03_080r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>al mio ritorno d’Amsterdam ho trovato qui ognuno <lb/>
+in varii discorsi sopra gl’avvisi, che sono stati portati <lb/>
+infausti per la parte del signor duca di Savoia, et conformi <lb/>
+appunto a quanto vostra Serenità mi scrive nelle sue lettere <lb/>
+de’ 21 del passato, che haveva ricevuti da Milano <lb/>
+et Mantova, et colla commissione, che ho havuta <lb/>
+da lei nell’altre lettere pur del medesimo giorno <lb/>
+ho communicato il tutto giovedì passato a questi <lb/>
+signori Stati, rappresentando il vero termine del <lb/>
+fatto. Sentendo questi signori il male minore del <lb/>
+raporto sono restati assai contenti. <hi rend="decoded">Sopra</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">li discorsi poiché ho loro fatto in <lb/>
+conformità de’ commandamenti della Serenità vostra, <lb/>
+rappresentandoli il stato delle cose correnti, et il <lb/>
+termine, che viene usato da Spagnoli per tener <lb/>
+luntana la pace d’Italia, contaminar con <lb/>
+denari gl’animi, et come per ogni verso <lb/>
+cercano avanzarsi nel Monferrato per farsi <lb/>
+poi con questo mezo patroni del Piemonte, et <lb/>
+</hi>
+<pb n="080v" facs="03_080v" rend="0"/>
+<hi rend="decoded">inoltre delle voci, che spargono di voler, sottomesso <lb/>
+il Duca, voltarsi contro lo Stato di vostra Serenità; <lb/>
+</hi> mi avidi molto bene, che <hi rend="decoded">nell’attentione alla <lb/>
+espositione mia havevano sentimento, et <lb/>
+sospensione d’animo. Mi fu risposto dal signor <lb/>
+Magno con complimento proprio per mostrar <lb/>
+osservanza a quella serenissima Republica, ringratiandola <lb/>
+della communicatione, et degl’avvisi, et delle <lb/>
+considerationi, ch’io per nome di lei le havevo <lb/>
+fatte, et che molto bene queste Provincie havevano <lb/>
+conosciuto quanto Spagnoli havessero l’animo inclinato <lb/>
+a quello d’altri, et particolarmente a farsi monarca <lb/>
+dell’Europa; che però questi signori haverebbono <lb/>
+messo in consideratione la importanza delli <lb/>
+affari del mondo, et con altre parole simili <lb/>
+generali</hi> risposero<ptr target="#tn2" n="2"/> alla <lb/>
+mia propositione doppo che io non lasciai di ringratiali dell’assistenza, che si continuava <lb/>
+al signor conte Gio. Ernesto per la levata, et mi licentiai. </p>
+<pb n="081r" facs="03_081r" rend="0"/>
+<p>La sera poi mi mandorono <hi rend="decoded">per</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">scritto quanto vedrà la Serenità vostra dalla <lb/>
+aggiunta traduttione. Sentono con sommo <lb/>
+dispiacere d’animo li travagli del signor duca di Savoia, <lb/>
+et temono dell’iminente pericolo di quel Stato</hi>, et havendo <lb/>
+inteso che ad instanza della casa di Ghisa <lb/>
+è stato permesso transito a<ptr target="#tn4" n="4"/> genti francesi per il <lb/>
+duca di Nemurs, et che a Spagnuoli anco si <lb/>
+permetti il passaggio di genti di Borgogna <lb/>
+verso la Savoia <hi rend="decoded">si</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">sono messi a scriver con grand’efficacia a sua <lb/>
+Maestà christianissima per evitar questo disordine, <lb/>
+pregandola ad haver cura, che non succedi la <lb/>
+caduta di quell’Altezza, perché ella non <lb/>
+poteva apportar che disordine, et gran <lb/>
+pericolo allo stato della Francia, ma come si <lb/>
+sono questi signori mossi con gran zelo a questo <lb/>
+ufficio,</hi>
+<pb n="081v" facs="03_081v" rend="0"/>
+<hi rend="decoded">così temono che il frutto non riesca conforme <lb/>
+al desiderio. Prevengono molto bene li mali, et si accorgono, che <lb/>
+Spagnoli si vogliono avanzare da <lb/>
+tutte le parti; volontieri si opporrebbono, et vi <lb/>
+vorrebbono rimediare quando potessero. <lb/>
+</hi></p>
+<p><hi rend="decoded">Vivono di più con gelosia della partenza del baron <lb/>
+Ros, ispedito dal re della Gran Bertagna in <lb/>
+Spagna, credendo, che possi haver commissione per il maritaggio della 2<hi rend="superscript">da</hi> Principessa nel <lb/>
+principe d’Inghilterra, né il signor Carleton ambasciator di <lb/>
+quella</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">Maestà, per quanto mi è stato <lb/>
+affermato, lo nega. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il signor principe Mauritio giovedì, che fui a vederlo <lb/>
+fece gran reflesso sopra questo particolare dicendo, se <lb/>
+segue quest’altro matrimonio, <lb/>
+siamo accommo-<lb/>
+dati per ogni verso;</hi> onde hebbi tanto più largo campo <lb/>
+di considerar con vivezza quello, che vostra Serenità mi
+<pb n="084r" facs="03_084r" rend="0"/>
+ha commandato che discorri con l’Eccellenza sua et m’ha affer-<lb/>
+mato, che quando fu con il signor marchese d’Anspach <lb/>
+li haveva detto, <hi rend="decoded">che</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">tutti li principi dell’Unione doverebbono <lb/>
+spender la mità del suo per assister al signor duca <lb/>
+di Savoia, aggiungendo, che Spagnoli non si contente-<lb/>
+rano di far la festa solamente sopra di lui, ma <lb/>
+machinando sempre qualche cosa, la metteranno <lb/>
+in essecutione anco contra altri, et disse, che pensò <lb/>
+il Cattolico col sottomettersi queste Provincie, farsi <lb/>
+una gran apertura da questa parte alla <lb/>
+monarchia, né essendoli riuscito si voltò alla <lb/>
+Italia; tenta la parte più debole, tiene in ufficio <lb/>
+la serenissima Republica per avanzarsi poi dove più gli <lb/>
+tornerà conto. Io pur gli replicai dei <lb/>
+concetti che sono framessi nelle commissioni della <lb/>
+</hi></p>
+<pb n="084v" facs="03_084v" rend="0"/>
+<p><hi rend="decoded">Serenità vostra, et egli mi soggiunse delle medesime cose, <lb/>
+vogliendosi pure ai principi dell’Unione, che doverebbono svegliarsi per contraminare, et <lb/>
+abbatter la vastezza de’ pensieri, et mostrò <lb/>
+temer grandemente dello Stato del signor Duca</hi><ptr target="#tn8" n="8"/><hi rend="decoded">, <lb/>
+mentre non habbi assistenza. Anco il <lb/>
+signor Bernevelt mi disse haverne non poco timore, <lb/>
+et mi adimandò se era vero quello, che si diceva, <lb/>
+che il signor Duca habbi fatta richiesta alla serenissima <lb/>
+Republica di un million, o poco meno di cechini, et <lb/>
+che non li havendo, era necessitato accordarsi con <lb/>
+Spagnoli. Io gli risposi, che non sapevo di questo <lb/>
+alcuna cosa, ma credevo che fossero delle solite <lb/>
+promulgationi spagnuole per aggrandir le <lb/>
+cose sue, et render la riputatione del signor Duca <lb/>
+abieta alla intelligenza</hi>
+<pb n="085r" facs="03_085r" rend="0"/>
+<hi rend="decoded">de altri, et massime di <lb/>
+luntani. <lb/>
+</hi></p>
+<p><hi rend="decoded">Coll’occasione, che mi trovai col signor <lb/>
+principe Mauritio, procurai con destra maniera di <lb/>
+cavar se qui vi fosse qualche capitanio, persona <lb/>
+di commando, che fossero atti al servitio della Serenità vostra <lb/>
+egli mi rispose, che per allhora non haverebbe saputo <lb/>
+nominarmi alcuno, ma che vi haverebbe posto pensiero <lb/>
+et se havesse conosciuto soggetto proprio, me lo <lb/>
+haverebbe raccordato. Non mancherò d’haver <lb/>
+pensiero a questo particolare. <lb/>
+</hi></p>
+<p>Avanti hieri venne a me il secretario di questi signori Stati <lb/>
+et mi riferì, che li suoi sigori li havevano comman-<lb/>
+dato di dirmi, che havendo inteso con soddisfattione <lb/>
+l’honore, che vostra Serenità haveva fatto al signor Conte <lb/>
+col nome di Generale, restava solo, che in <lb/>
+luoco di dir Generale delle genti holandesi <lb/>
+fosse chiamato di là, delle genti de’ Paesi Bassi <lb/>
+affine di evitar le gelosie, comportando la
+<pb n="085v" facs="03_085v" rend="0"/>
+concordia, et unione di queste Provincie, che ’l tutto <lb/>
+passi sotto il nome commune, et si assicuravano <lb/>
+che vostra Serenità non haverebbe posto difficoltà in questo. Io gli risposi che ’l nome d’Holandesi <lb/>
+in Italia è inteso direttamente per questi signori uniti <lb/>
+et non altrimenti; ma che non dubitavo, che <lb/>
+la serenissima Republica non havesse incontrata ogni cosa <lb/>
+per<ptr target="#tn9" n="9"/> sodisfar ad essi signori. </p>
+<p>Poi mi riferse che havevano li signori Stati concesso <lb/>
+al Wassonhoven il far la sua levata. Non è venuto <lb/>
+a me credo che sia partito con chi gli fa assistenza <lb/>
+per effettuarla havendo come mi è stato detto <lb/>
+di già ordinate doi navi. </p>
+<p>La signora principessa d’Oranges col mezo d’un suo <lb/>
+gentilhuomo m’ha fatto ringratiare del favor <lb/>
+ricevuto dalla Serenità vostra, et essendo io andato <lb/>
+a lei m’ha pregato di attestarle, che viverà <lb/>
+eterna la sua obligatione verso le Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Dall’Haya a’ 13 novembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="091r" facs="03_091r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="091v" facs="03_091v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="027">
+<!--
+<p n="091vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1616 ricevute 30 detto </p>
+<p>Secretario Surian dall’Aia 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="028" corresp="027" source="82r-83v" >
+<div type="main" facs="main text of attachment I" n="028" corresp="027" >
+<!--<p>Allegato I al n. 27 (cc. 82r-83v; decodifica di cc. 80r-81v, 84r-85v)</p>-->
+<pb n="082r" facs="03_082r" rend="0"/>
+<head>main text of attachment I</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="082v" facs="03_082v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="083r" facs="03_083r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="083v" facs="03_083v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="029" corresp="027" source="86r-87v, 90r-v" >
+<div type="main" facs="main text of attachment II" n="029" corresp="027" >
+<!--<p>Allegato II al n. 27 (cc. 86r-87v, 90r-v)</p>-->
+<pb n="086r" facs="03_086r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Estratto dal registro delle risolutioni delli <lb/>
+signori Stati Generali delli Paesi Bassi </p>
+<p>Giovedì alli dieci di novembre 1616 </p>
+<p>è comparso nell’assemblea il signor Christofforo Suriano <lb/>
+secretario della serenissima republica di Venetia dichiarando in <lb/>
+sostanza, che teneva carico da sua Serenità di communicar a detti signori Stati per continuatione <lb/>
+di buona corrispondenza, et dimostratione <lb/>
+di sincera affettione verso questi Stati gl’ultimi <lb/>
+avvisi che sua Serenità ha ricevuti dal campo <lb/>
+del duca di Savoia dal signor Donato ambasciator della <lb/>
+detta serenissima Republica ch’è stato presente, et ha <lb/>
+veduto il rancontro successo a’ 16 d’ottobre <lb/>
+passato fra le genti di don Pietro, et del duca <lb/>
+di Savoia, onde in seguito non è stato di <lb/>
+quel momento, che fu prima riportato <lb/>
+secondo li particolari ch’egli ha significato; <lb/>
+come parimente lo stato delli affari nel Friuli che sono tali, che se ne può aspettar col <lb/>
+primo ordinario il buon successo assicurando <lb/>
+<hi rend="decoded">in oltre</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">che per certo il</hi>
+<pb n="086v" facs="03_086v" rend="0"/>
+<hi rend="decoded">dissegno del Spagnolo è come si vanta <lb/>
+da sé stesso apertamente d’incorporarsi lo Stato del duca di <lb/>
+Savoia, et doppo attaccar quello di vostra Serenità et altri stati, che <lb/>
+godono della medesima libertà come essi ammonendo, et pregando <lb/>
+per tanto li detti signori Stati di voler invigilare per sé medesimi <lb/>
+et loro amici, come la detta</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">serenissima Republica continuerà nello stesso <lb/>
+testificando inoltre il detto signor secretario esser molto contento <lb/>
+del buon progresso della levata del signor conte Gio. Hernesto <lb/>
+di Nassau, et parimente</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">del gran favore che li detti <lb/>
+signori Stati li continuano sopra di che è stato</hi>
+<pb n="087r" facs="03_087r" rend="0"/>
+<hi rend="decoded">risposto in <lb/>
+sostanza al detto signor secretario con complimento, che <lb/>
+essi signori Stati hanno sopra modo cara la continuazione <lb/>
+di questa buona corrispondenza</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">e dimostratione <lb/>
+di affetto della serenissima Republica di che ringratiano affettuosis-<lb/>
+simamente sua Serenità con assicurarla di secondarla nell’occasioni <lb/>
+decchiarando che hanno havuti avisi da diverse altre <lb/>
+parti del detto rancontro, ma che prestano più credito <lb/>
+a quello di sua Serenità et pregano Dio che vogli <lb/>
+mantener lo Stato del detto signor duca di Savoia per <lb/>
+il bene e sicurtà</hi>
+<pb n="087v" facs="03_087v" rend="0"/>
+<hi rend="decoded">della causa commune di tutta <lb/>
+la christianità, et detornar li dissegni delli <lb/>
+Spagnoli contro lo Stato della detta serenissima Republica <lb/>
+et insieme de tutti quelli che non hanno altro <lb/>
+fine, che di conservare e possedere i loro stati <lb/>
+in libertà, pace e riposo. <lb/>
+</hi></p>
+<pb n="090r" facs="03_090r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="090v" facs="03_090v" rend="270"/>
+<p>Nelle 2<hi rend="superscript">de</hi> scritt(ure) di risposta <lb/>
+de’ signori Stati </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="030" corresp="027" source="88r-89v" >
+<div type="main" facs="main text of attachment III" n="030" corresp="027" >
+<!--<p>Allegato III al n. 27 (cc. 88r-89v; decodifica di cc. 86r-87v)</p>-->
+<pb n="088r" facs="03_088r" rend="0"/>
+<head>main text of attachment III</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="088v" facs="03_088v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="089r" facs="03_089r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="089v" facs="03_089v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Sopra … generali" decoding of the encrypted text can be found on cc. 82r-82v; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "r-" corrected above "l-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "per … stato" decoding of the encrypted text can be found on c. 82v; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "a" corrected above "d."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "si … verso" decoding of the encrypted text can be found on cc. 82v-83r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "m(aes)tà" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "che … particolari" decoding of the encrypted text can be found on cc. 83r-83v; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "di Savoia" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "far" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "inoltre … riposo" decoding of the encrypted text can be found on cc. 88r-88v.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "la detta" added above the line on "della" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-r-" corrected above "-ss-."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "di affetto" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

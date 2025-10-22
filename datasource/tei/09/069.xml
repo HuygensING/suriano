@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.069 date 1620-11-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">069</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 344r-345v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">344r-345v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Delay in arrival of the letters, the last one is from 30 October in which he received instructions for provision of grain, Dardani is going to Amsterdam and will make some inquiries. Lormes and Falghero have left and are near Antwerp, not sure which route to take. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-24">24 novembre 1620</date>
+            <num>105</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="105">
+<div type="main" facs="main text of letter" n="105">
+<!--<p>24 novembre 1620, L’Aia (cc. 344r-345v)</p>-->
+<pb n="344r" facs="09_344r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 250 fin 51 </p>
+<p>Serenissimo Principe </p>
+<p>da’ 30 del passato è una lettera, c’ho ricevuta avanti <lb/>
+hieri, colla quale mi commanda la provisione di 30 mila starai <lb/>
+di formenti di fermo, et sendomi venuta sola senz’altra <lb/>
+sopracoperta, che del mastro delle poste d’Anversa, anco <lb/>
+senz’altro avviso, credo che sia restata indietro del residuo <lb/>
+di quelle, c’hebbi la passata settimana, come riverentemente avvisai <lb/>
+colle<ptr target="#tn1" n="1"/> mie 248 fin 249 qui aggiunte in <lb/>
+replica, et può esser, che mi manchi qualche altra lettera, <lb/>
+o commissione toccante gl’affari, che passano al presente. </p>
+<p>Per il detto negotio de’ formenti piglierò il pensiero con quel <lb/>
+studio, che si ricerca all’obligo mio, et non mancarò di <lb/>
+procurar tutto il vantaggio possibile, regolandomi colli <lb/>
+prudenti avvertimenti di vostra Serenità et di quell’eccellentissimo Collegio. </p>
+<p>Vado pensando poiché ho qui la comodità del signor Marco Dar-<lb/>
+dani ragionato di valermi del mezo di lui per andar <lb/>
+in Amsterdam a far quivi sotto altro pretesto scoperta <lb/>
+del vantaggio, che si potrà ritrare, et come si potranno <lb/>
+haver li formenti, et allhora subito mi conferirò in <lb/>
+quella città per assodar, et agiustar il partito in ogni <lb/>
+miglior maniera. Ben haverei havuto caro, che <lb/>
+mi fosse stata mandata copia dei capitoli di un <lb/>
+simil partito. </p>
+<p>Mando con queste una lettera delli signori Stati, ch’è risposta
+<pb n="344v" facs="09_344v" rend="0"/>
+et per rendimento di gratie della consegna del vassello <lb/>
+Jonas fatta in Candia a quel mercante holandese. <lb/>
+Quanto alla sodisfattione del denaro speso ne’ cantieri <lb/>
+d’essa non ho ancor havuta la risposta, che m’è stata <lb/>
+offerta di farmi havere, et l’attendo di giorno in giorno. </p>
+<p>Il visconte di Lormes, con il Falghero partiti di qua come <lb/>
+riverentemente scrissi, sendo il Visconte trattenutosi fuori <lb/>
+d’Anversa per li suoi rispetti per li medesimi anco sono <lb/>
+irresoluti per dove prenderanno sicuro il camino. Io <lb/>
+ho scritto al Falghero, che s’ha intrapreso il viaggio, <lb/>
+che non lo ritardino, et non ho dubio, che lo soliciterà <lb/>
+tanto ho stimato mio debito di significar riverentemente <lb/>
+alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 24 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="345r" facs="09_345r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="345v" facs="09_345v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 250 fin 251 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="105">
+<!--
+<p n="345vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 novembre ricevute x decembre n° 250 </p>
+<p>Secretario Suriano dall’Haya. Prima </p>
+<p>Haya </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Precedes "la passata settimana" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

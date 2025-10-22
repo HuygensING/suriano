@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.058 date 1620-09-15</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">058</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 301r-302v, 304r-305v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">301r-302v, 304r-305v, 303r-v, 306r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has read the letter dated 28 august in the assembly about the affair of the Grisons to move the States to act. They have asked him a copy of his speech and he has given them a summary which he also sends to Venice. He spoke to a variety of individuals including the Ambassador Carleton, who will urge his king to make a strong declaration; as well as recommend the affair to their High Mightinesses. In a conversation, Van Aerssen outlines the major problems for Dutch Republic to intervene in Switzerland, Suriano insists they can at least give some money like they have done with the Duke of Savoy for a couple of months. One document attached: "Scrittura lasciata ai signori Stati"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-09-15">15 settembre 1620</date>
+            <num>091, 092</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="091">
+<div type="main" facs="main text of letter" n="091">
+<!--<p>15 settembre 1620, L’Aia (cc. 301r-302v, 304r-305v)</p>-->
+<pb n="301r" facs="09_301r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 240 fin<ptr target="#tn1" n="1"/> 242<ptr target="#tn2" n="2"/> </p>
+<p>Serenissimo Principe </p>
+<p>vedute, et ben lette diligentemente le lettere della Serenità vostra de’ 28 <lb/>
+del passato toccanti gl’affari de’ Grisoni applicai ogni <lb/>
+studio perché l’espositione mia fosse ben intesa, et la forza <lb/>
+delle considerationi prudenti di lei facessero quell’impressione <lb/>
+nell’animo dei signori Stati, ch’ella desiderava, et la stessa <lb/>
+materia, et<ptr target="#tn3" n="3"/> urgenza della cosa ricercava. Et tanto <lb/>
+maggiormente me vi applicai per tirarne risposta, quanto <lb/>
+alli precedenti ufficii non ne havevo havuta dal pubblico; <lb/>
+non ostante, che ’l Presidente d’allhora m’havesse detto <lb/>
+che vi si haverebbe havuta consideratione. Non tralasciai <lb/>
+però, com’ho riverentemente accennato, alcun concetto, et argomento, <lb/>
+che per debolezza mia stimai proprio per indur questi signori <lb/>
+all’intender, che la dilatione in questo affare, et nel pren-<lb/>
+dersi da sua Eccellenza risolutione era il male dei signori Grisoni; che <lb/>
+si disponessero a mandar alcuno presso li signori Svizzeri, che <lb/>
+aiutassero essi Svizzeri un denari per sollievo de’ Grisoni, et <lb/>
+che li mandassero qualche capo da guerra per assister di <lb/>
+consiglio, et operare. Questo è tutto in sostanza quello, c’ho <lb/>
+espresso nell’assemblea. Et perché fossi<ptr target="#tn4" n="4"/> meglio inteso, et <lb/>
+capita l’intentione della Serenità vostra stimai bene prima di <lb/>
+entrarvi d’esser col Presidente per informarlo come feci. <lb/>
+Doppo che<ptr target="#tn5" n="5"/> esso Presidente a nome dei signori Stati mi hebbe <lb/>
+ringratiato della confidente communicatione dell’avviso <lb/>
+et dello stato, in che si trovavano quegl’affari, mi disse, <lb/>
+che si dolevano grandemente, che si fossero le cose condotte a tal <lb/>
+segno, et che vorrebbono bene, che si trovasse rimedio per <lb/>
+frenar il corso dell’ambitione dello Spagnuolo, et della brama <lb/>
+c’ha di posseder quel d’altri, et che degne erano le considerationi
+<pb n="301v" facs="09_301v" rend="0"/>
+che faceva la Serenità vostra, et meritava il fatto stesso ogni maggior <lb/>
+reflesso; che quanto a loro non haverebbono mancato di <lb/>
+pensarvi, et perché potessero far ciò con maggior fondamento. Mi <lb/>
+pregavano di dar loro per scritto o l’espositione tutta, o <lb/>
+la sostanza d’essa, perché così mi haverebbono poi resa <lb/>
+la risposta quanto più presto havessero potuto, adducendomi <lb/>
+questo esser il loro stile ordinario. Se ben mostrai un’honesta <lb/>
+et modesta renitenza replicando in sostanza quello si ri-<lb/>
+chiedeva ne fui di nuovo pregato: onde perché non pigliassero <lb/>
+materia d’iscusa stimai bene di darli in sostanza le poche <lb/>
+[r]ighe<ptr target="#tn6" n="6"/>, che mando qui aggiunte in copia, ch’è per con-<lb/>
+formarmi colle commissioni precedenti di vostra Serenità. L’hebbero <lb/>
+in francese; et questa n’è la traduttione. </p>
+<p>Fu sabbato mattina, che feci l’ufficio, il doppo pranso andai a <lb/>
+visitar uno di questi signori, et hebbi occasione di vederne doi <lb/>
+altri. La domenica parlai col signor Arsen, come quello ch’entra <lb/>
+nella Congregatione di Holanda. Hier mattina parlai <lb/>
+col Presidente di settimana; et informando tutti questi a <lb/>
+parte non ho tralasciato cosa, che stimassi di mio debito per <lb/>
+incontrar la mente publica; dando anco parte al signor ambasciator <lb/>
+Carleton per confidente communicatione di quanto è seguito <lb/>
+et delle operationi di vostra Serenità, che se ne compiacque grandemente <lb/>
+et disse confesso d’esser honorato tanto dalla serenissima Republica che <lb/>
+niente più; et come lo havevo ricercato a nome di lei di <lb/>
+scriver al Re, et eccitar la Maestà sua perché devenisse a <lb/>
+dichiaratione propria della sua auttorità, et potenza; così <lb/>
+mi promise, che l’haverebbe fatto lo stesso giorno, et <lb/>
+prese anco carica di raccomandar a parte a qualcheduno
+<pb n="302r" facs="09_302r" rend="0"/>
+di questi signori l’affare. Con tutte queste diligenze, et la solici-<lb/>
+tudine usata da me non ho fin hoggi potuto ritrar risposta <lb/>
+quelli con chi ho parlato portano dei concetti, c’ho scritti <lb/>
+la passata settimana riverentemente alla Serenità vostra nelle mie lettere <lb/>
+de’ 8 n° 239 che sono carichi di spese, che contribuiscono <lb/>
+in Bohemia, in Alemagna; mantengono essercito in piedi con <lb/>
+estraordinaria spesa; che ’l tempo è vicino allo spirar delle <lb/>
+tregue, che non sano se loro sarà dichiarita la guerra <lb/>
+o se caderanno l’armi spagnuole sopra questi Stati; ch’essi <lb/>
+sono lontani. Et il signor Francesco Arsen in particolare mi disse <lb/>
+haver cavato nei tre punti che aspettavo; che per man-<lb/>
+dar qualcheduno in Svizzeri non sapevano a chi havessero <lb/>
+potuto dar la carica meno che l’havesse<ptr target="#tn7" n="7"/> voluta <lb/>
+ricever; che per mandar anco senza, che havesse denari da <lb/>
+spender era cosa vana, et il dar denari non era cosa così <lb/>
+facile alli signori Stati, o per dir meglio alle provincie pur <lb/>
+troppo impegnate, et fiache per le molte spese; et per <lb/>
+qualche soggetto di commando, che manco di questo <lb/>
+non si sapeva che potesse giovare in un Paese, et appresso <lb/>
+huomini, che più tosto li governa il disordine, che l’ordine; <lb/>
+et che avvezzi ad esser commandati da suoi proprii non <lb/>
+haverebbono voluto ricever il commento, o consiglio da <lb/>
+altri stranieri; et concluse, che li signori Stati erano confusi, <lb/>
+che stimavano bene il negotio grave, et di sommo momento, <lb/>
+ma non vedevano, che risolutione vi potessero prender, che <lb/>
+potesse conformar colle considerationi prudenti della Serenità vostra. <lb/>
+Et qui aggiunse, ch’ella come vicina, et come poderosa <lb/>
+d’oro poteva sufficientemente supplir al bisogno, c’havesse
+<pb n="302v" facs="09_302v" rend="0"/>
+potuto esservi, et già bisognava, che l’aiuto de’ Svizzeri fosse passato <lb/>
+avanti; o se fosse stato impedito dai Svizzeri catholici tardo sa-<lb/>
+rebbe stato l’aiuto per Grisoni. Io risposi al detto signore che la serenissima <lb/>
+Republica haveva fatte porger le considerationi, che haveva stimate <lb/>
+proprie al commun interesse, et per questo anco commune-<lb/>
+mente doveva esser contribuito da tutti quelli, che lo amano, <lb/>
+et amano la libertà di quei popoli; che se si havesse mira <lb/>
+alla serenissima Republica per la sua potenza, come mi diceva, quello non <lb/>
+era sufficiente per il servitio de’ Grisoni, et per il beneficio <lb/>
+che dalla salvezza loro, et dalla ricuperatione del loro possono <lb/>
+ricever queste Provincie ancorché lontane, che però mi <lb/>
+promettevo risposta propria all’instanza, et al bisogno, et <lb/>
+quanto più presta tanto migliore. Et lo pregai, che nell’<lb/>
+assemblea di Holanda ove se ne doveva trattare, come mi <lb/>
+diceva, si compiacesse di haverlo a cuore. Io comprendendo <lb/>
+le difficoltà, che si frapongono ho procurato d’imprimer <lb/>
+in quelli con chi ho parlato, che almeno assistino con denari <lb/>
+della maniera, che havevano cominciato col signor duca di Savoia <lb/>
+et se non per quattro mesi per questi doi o tre, che si approssimano <lb/>
+alla vernata, et poi haverebbono fatto quello, che havessero <lb/>
+stimato più proprio, et questo feci per veder pur d’impe-<lb/>
+gnarli se fosse possibile. Ma serenissimo Principe non so quello <lb/>
+possi promettermi in queste congionture. Sono stato hoggi <lb/>
+presso il Presidente per intender ciò che si era fatto, mi ha <lb/>
+detto, che li deputati di Holanda havevano portato <lb/>
+il proposto nella loro Congregatione, et che ancor non era <lb/>
+stato risposto da essi alcuna cosa, et nel discorso ho cavato <lb/>
+tanto, che mi fa dubitar, che vorranno li deputati delle
+<pb n="304r" facs="09_304r" rend="0"/>
+altre provincie ispedir per la risolutione alli loro superiori <lb/>
+per esser materia nuova, di rilievo, et dove si tratta di spesa. <lb/>
+Un’altra cosa ho anco cavata dal parlar di questi, che al-<lb/>
+cuni non stimano bene mandar persona loro, ove non <lb/>
+è già mai stato residente; né quei signori Svizzeri, o Grisoni <lb/>
+che sono nel bisogno mandano qua a far l’instanza. A chi <lb/>
+me ne ha tocco ho risposto, che dove concorre il publico, <lb/>
+et commune servitio non si deve riguardar a complimenti <lb/>
+che basta assai, che la serenissima Republica raccordi, et insti questo <lb/>
+tanto; onde possono formar giudicio li signori Stati, che l’in-<lb/>
+terpositione dell’assistenza loro sia per riuscir fruttuosissima <lb/>
+per l’eccitamento, et corraggio, che daranno a quei popoli, et <lb/>
+per obligar essi Svizzeri a far ogni sforzo per ricuperar <lb/>
+dalle mani dei Spagnoli la Valtelina, et rimetterne in <lb/>
+possesso li Grisoni. Io ho stimato bene di rappresentar <lb/>
+tutto ciò, che m’è successo d’intender sopra questa instanza, <lb/>
+et le difficoltà, che si frapongono. La congiontura de’ tempi <lb/>
+è quella che ci nuoce. Non mancarò di attender a questo <lb/>
+affare di quella maniera, che stimerò propria per avanzarlo <lb/>
+se potrò con dignità, et honorevolezza publica. Se qui <lb/>
+fosse qualcheduno per nome dei signori Svizzeri, o Grisoni, o <lb/>
+fossimo in tempo, che potesse esser mandato potrebbe <lb/>
+esser che incontrasse, nel che<ptr target="#tn8" n="8"/> mi rimetto alla prudenza <lb/>
+della Serenità vostra per considerarlo. </p>
+<p>Il signor ambasciator d’Inghilterra mi disse hieri di haver scritto per la via <lb/>
+d’Anversa al Re di questo negotio, ma che li haveva <lb/>
+fatto in sostanza senza allargarsi nelle considerationi di <lb/>
+esso; che però col primo dispaccio, che farebbe per la via
+<pb n="304v" facs="09_304v" rend="0"/>
+di Midelburgh non haverebbe mancato di difusamente far alla Maestà sua <lb/>
+le considerationi che meritava questa materia. Ma se aggiunge <lb/>
+questa perplessità, et questa irresolutione dei signori Stati, dubito, <lb/>
+che confronterà, et conformerà colla natura, et volontieri <lb/>
+quel Principe si valerà dell’essempio. Et a proposito della <lb/>
+raccommandatione fatta dal signor Ambasciatore mi disse uno di que[sti]<ptr target="#tn9" n="9"/> <lb/>
+signori. Veramente il signor Carleton intende bene gl’affari di <lb/>
+Alemagna quello si debba far per là, per Bohemia, et anco <lb/>
+per Svizzeri<ptr target="#tn10" n="10"/>, et Grisoni; ma non l’intende così il suo Re <lb/>
+che sta fermo, et saldo nel non dichiarirsi manco per il suo <lb/>
+genero. Et io soggiunse tanto deve bastare alli signori Stati, <lb/>
+che intendendo meglio del re d’Inghilterra quello si debbi far <lb/>
+per l’interesse commune devono venir ad una buona risolutione per esso. </p>
+<p>Concludo serenissimo Principe, che ’l bisogno è qui conosciuto, che <lb/>
+vorrebbono far qualche bene per esso, ma non sanno trovar né il <lb/>
+modo, né il mezo. Le ragioni addotte di sopra ne sono causa. <lb/>
+Starò a sentir quello mi diranno questi signori per avvisarlo ri-<lb/>
+verentemente alla Serenità vostra. </p>
+<p>Dell’altro particolare, ch’ella mi scrive a parte in altre lettere de’ <lb/>
+27 pur del passato ne diedi conto<ptr target="#tn11" n="11"/> a sue Eccellenze, et sapendo<ptr target="#tn12" n="12"/> <lb/>
+non haver date le commissioni, che monsignor di Leone ha-<lb/>
+veva publicate in Parigi si risero; et dissero forse ci <lb/>
+mettono in pensiero di far quello, a che non si è pensato, et <lb/>
+anco di questa communicatione mi ringratiorono. </p>
+<p>Parmi, che habbino di quanto<ptr target="#tn13" n="13"/> ho esposto dato notitia alli depu-<lb/>
+tati, che sono con il signor principe d’Oranges, et a sua Eccellenza <lb/>
+medesima onde ho stimato bene di raccommandarle <lb/>
+ad ogni buon fine con una mia lettera semplicemente
+<pb n="305r" facs="09_305r" rend="0"/>
+quanto delli signori Stati le venisse significato per una buona <lb/>
+risolutione. Gratie etc. </p>
+<p>Dall’Haya li 15 settembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="305v" facs="09_305v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima<ptr target="#tn14" n="14"/> </p>
+<p>n° 240 fin 242 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="091">
+<!--
+<p n="305vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>[1]5<ptr target="#tn15" n="15"/> settembre 1620 ricevute 15 ottobre n° 240 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="092" corresp="091" source="303r-v, 306r-v" >
+<div type="main" facs="main text of attachment I" n="092" corresp="091" >
+<!--<p>Allegato I al n. 91 (cc. 303r-v, 306r-v)</p>-->
+<pb n="303r" facs="09_303r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Li presenti affari de’ Grisoni sono importantissimi et per <lb/>
+il loro pronto rimedio non vi è bisogno di dilatione, <lb/>
+né la negotiatione può haver luoco se prima non segue <lb/>
+l’intiera restitutione dell’occupato. </p>
+<p>Espedientissimo sarà per l’affare, che li signori Stati si compiacciano <lb/>
+d’inviar senza dilatione in Svizzeri persona espressa <lb/>
+et di buon senso, et intelligenza per trattenersi presso li <lb/>
+signori Svizzeri, et per trattar, et operar quello, che sarà <lb/>
+necessario. </p>
+<p>Risolver anco di assister ai detti Svizzeri con denari per <lb/>
+solevar li Grisoni. </p>
+<p>Et anco inviar alli medesimi Svizzeri qualche capo da <lb/>
+guerra di valore, et isperimentato per consultar, et <lb/>
+far quello che sarà necessario a fine d’oviare, et rime-<lb/>
+diare più facilmente, et prontamente che si possi ad attentati <lb/>
+di sì gran momento, et di sì gran pregiudicio, come <lb/>
+facilmente si può comprender. </p>
+<pb n="303v" facs="09_303v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="306r" facs="09_306r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="306v" facs="09_306v" rend="270"/>
+<p>Nella prima n° 240 </p>
+<p>Scrittura lasciata ai signori Stati </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-2" corrected above "-3."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes "d" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Ink stain.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "voluta" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the deleted parts.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "di quanto" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

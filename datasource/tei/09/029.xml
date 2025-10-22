@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.029 date 1620-06-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">029</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 160r-161v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp266-279
+            </note>
+            <biblScope unit="page">160r-161v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Awaits instructions on what to do with the artillery on the sunken ship Santa Giustina as well as with the claims of the sailors on San Marco. Requests guidance regarding the new claims presented by the Admiralty of Amsterdam on behalf of the captains saying they have been ruined financially by serving Venice (refers to the letters written on 14 March 1619). He has seen the ricondotta (re-employment) of Huyn and reports that de Lormes has returned to Brussels. Further inquests are being made in the affair of the false money in which Sticke has been involved and adds that Pauw is rumoured to be involved in the affairs, an accussation which Pauw denies. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-09">9 giugno 1620</date>
+            <num>043</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="043">
+<div type="main" facs="main text of letter" n="043">
+<!--<p>9 giugno 1620, L’Aia (cc. 160r-161v)</p>-->
+<pb n="160r" facs="09_160r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 211 comincia<ptr target="#tn1" n="1"/> 210 </p>
+<p>Serenissimo Principe </p>
+<p>aspetterò col prossimo ordinario d’intender la volontà della Serenità vostra <lb/>
+intorno alle artiglierie perse col nauffragio della nave Santa <lb/>
+Giustina, come anco per le pretensioni dei matelotti del vassello San <lb/>
+Marco, che riuscirebbe anco consequenza in qualche altro. </p>
+<p>Intorno a che voglio sperare, che si anderanno disponendo <lb/>
+costoro a non pretender più di quello, che li è dovuto. Mi capita <lb/>
+anco qualche altra difficoltà, o instanza inviatami dalli signori <lb/>
+dell’amiralità di Amsterdam l’una per dar qualche aiuto alli <lb/>
+stroppiati in servitio di vostra Serenità, et l’altra per dar estraordinarii <lb/>
+ai capitani.<ptr target="#tn2" n="2"/> Per li primi ho risposto a quei signori che si deve <lb/>
+osservarli la promessa nel termine appunto, ch’ella sta, et è <lb/>
+che se saranno stroppii, o resteranno stroppiati in guerra in <lb/>
+servitio di vostra Serenità. Con tutto ciò non li ho data libertà di dar <lb/>
+alcuna cosa; ma ricercati quei signori a mandarmi nota in <lb/>
+che maniera, dove, et come siano restati stroppiati, che <lb/>
+allhora vi haverò la consideratione, che si deve. Quanto <lb/>
+ai capitani assolutamente ho negato, che se li dii alcuna <lb/>
+cosa poiché da sé stessi potevano comprender, che la dimanda <lb/>
+era importuna mentre coll’augumento del salario, et<ptr target="#tn3" n="3"/> delli doi piacchi nei <lb/>
+viveri havevano cesso a tutto quello che pretendevano, o <lb/>
+havessero potuto pretender in alcun tempo. Così ho scritto <lb/>
+liberamente. Può esser, che penseranno di haver qualche <lb/>
+donativo per li danni patiti al distretto essendosi rimessi <lb/>
+nella scrittura approbbata l’anno passato nell’eccellentissimo Senato <lb/>
+a’ 14 di marzo; ma io non darò alcuna cosa senza <lb/>
+previo ordine della Serenità vostra. Ho pregato quei signori a far
+<pb n="160v" facs="09_160v" rend="0"/>
+che quanto più presto siano liquidati i conti, et soliciterò questo <lb/>
+ad ogni mio possibile. Per vederli confrontarli, et accordarli <lb/>
+come si conviene sentirei gran consolatione haver appresso me <lb/>
+qualcheduno dei suoi ragionati perché con maggior sicurezza, <lb/>
+che ’l pubblico non ricevesse danno, o manco che fosse possibile <lb/>
+si ridurebbe questo calcolo al fine. Se questo si potrà fare <lb/>
+ella colla sua prudenza potrà considerarlo, non mi portando <lb/>
+l’oggetto ad altro, che al solo desiderio del servitio publico. </p>
+<p>Ho veduta la ricondotta del colonello Huyn è degna della gran-<lb/>
+dezza dell’animo dell’Eccellenze vostre illustrissime, et propria della munificenza <lb/>
+di quella serenissima Republica; ma, mi duole ben in estremo, ch’io <lb/>
+habbi incontrato in soggetto, che<ptr target="#tn4" n="4"/> apporti tanto disgusto. </p>
+<p>Ho benissimo scoperto da uno de’ suoi parenti, che la maniera <lb/>
+sua di fare non piace, et sopramodo cara mi è stata la <lb/>
+instruttione, che mi dà perché me ne valerò quand’egli <lb/>
+se ne venga, o lo porti l’accidente, che parli. </p>
+<p>Intorno al negotio delli 24 vasselli non ho che aggiungerle oltre lo <lb/>
+scritto la passata settimana nelle mie lettere n° 209 che sono <lb/>
+qui aggiunte replicate colle prime 208. Se non che quel monsignor <lb/>
+de Lormes era ritornato a Brusseles, et che stava il signor <lb/>
+Falghero di partenza con lui per venirsene a questa volta; et <lb/>
+esso Falghero aggiunge, che per assicurarsi haveva cavategli <lb/>
+di mano molte delle sue scritture. </p>
+<p>Si va proseguendo nel fatto dei monetarii all’essame. Li consiglieri di <lb/>
+Cleves hanno mandato qui uno per parte sua a far iscusa <lb/>
+se conforme all’instanza dei signori Stati non potevano
+<pb n="161r" facs="09_161r" rend="0"/>
+mandarli prigione all’Haya il cavalier Stich per esser preso in <lb/>
+giurisdittione del serenissimo elettore di Brandemburgh, et per esser <lb/>
+consigliero di sua Altezza; che mandando il processo, o l’instruttioni <lb/>
+non mancaranno di far la debita giustitia ordinaria contra <lb/>
+genti notate di tal delitto. Al che si crede, che le loro Eccellenze accon-<lb/>
+sentiranno. Par che si vada moderando le colpe nella voce com-<lb/>
+mune, et alcuni vogliono che sia per coprir qualche huomo di <lb/>
+portata. Sin qui n’è stato in pena il borgomastro Pau <lb/>
+che si è difeso vivamente; et dicono che assolutamente egli non <lb/>
+habbi a far qui dentro; ma che sia stato il nome di Pau <lb/>
+preso in luoco di un altro, cognato dei Stich che si chiama <lb/>
+Pau. Se così è sta bene. Ma gl’arminiani, che lo odiano <lb/>
+sostentano il contrario. </p>
+<p>A quelli, che ricercavano cavalli, et cavalle per carrozza per <lb/>
+servitio del signor duca di Feria da valersene alla sua carrozza <lb/>
+non hanno voluto conceder questi signori più che dodici cavalle <lb/>
+et doi cavalli castrati; et vi sono state anco delle <lb/>
+contese; ma sono state superate dal signor principe Mauritio. Gratie etc. </p>
+<p>Dall’Haya li 9 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="161v" facs="09_161v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> <lb/>
+n° 211 comincia <lb/>
+210 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="043">
+<!--
+<p n="161vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 giugno 1620 ricevute li 24 detto </p>
+<p>Haya. Replicate. n° 211 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "fin."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "del salario, et" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out letter.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.074 date 1622-12-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">074</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 391r-394v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">391r-394v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Maurice has left together with his brother and Christian of Brunswick to Dordrecht. It is still unclear where they are going, some speculate for different reasons that it may be either be Antwerp, Hulst or the Sas of Ghent. Meanwhile Spanish troops are near the Rhine and Spinola has returned to Brussels. Reports that he has not received the letters from 11 November either via the Antwerp- route or Cologne one. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-12-05">5 dicembre 1622</date>
+            <num>110</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="110">
+<div type="main" facs="main text of letter" n="110">
+<!--<p>5 dicembre 1622, L’Aia (cc. 391r-394v)</p>-->
+<pb n="391r" facs="11_391r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 447 comincia 446 </p>
+<p>Serenissimo Principe </p>
+<p>il principe d’Oranges accompagnato dal fratello, dal conte <lb/>
+Ernesto di Nassau, dal duca di Bransvich, et da altri <lb/>
+principali signori della corte, et capi delle militia partì mercordì <lb/>
+mattina alle 5 hore alla volta di Dordrecht, havendo <lb/>
+fatta marchiare la sua compagnia di guardia un’hora <lb/>
+prima. Fu la sera nanti la detta città di Dort <lb/>
+ove diede ordine a tutte le cose, sendo capitate su <lb/>
+quell’acqua nelle barche settanta cinque compagnie, <lb/>
+le amunitioni, et tutti altri apprestamenti proprii per <lb/>
+sforzar una piazza. La mattina del giovedì doi <lb/>
+hore innanti giorno il signor principe Henrico partì <lb/>
+alla volta di Breda per accompagnarsi quivi colla <lb/>
+cavallaria, et dicono che con lui siamo andati molti <lb/>
+cavalli de’ carrettieri, havendo imbarcati li carri <lb/>
+et il signor principe Mauritio il doppo desinare seguitò <lb/>
+il suo viaggio colla scorta oltre altri<ptr target="#tn1" n="1"/> piccioli vasselli <lb/>
+di quattro navi da guerra; non si sapendo però il <lb/>
+camino, che habbi preso. La stessa notte, et il <lb/>
+giorno seguente gelò, et il sabbato il gelo fece <lb/>
+forte, et fermo, et non havendosi havuto altro avviso
+<pb n="391v" facs="11_391v" rend="0"/>
+si è fatto giudicio, che sua Eccellenza sia passata avanti. De tre <lb/>
+luochi si parla, ma tutto per discorso. Alcuni dicono <lb/>
+di Anversa, altri di Ulst, o il Sasso che sena la <lb/>
+riviera che va a Gant in Fiandra. Di Anversa <lb/>
+non si ha tanta sicurezza; ma delli doi altri luochi <lb/>
+si è parlato assai: Ulst altre volte fu surpreso <lb/>
+dall’Eccellenza sua, ma poi con furioso assedio ripreso dal già <lb/>
+arciduca Alberto mentr’era ancor cardinale; et come <lb/>
+quella piazza servirebbe a metter in contributione <lb/>
+quasi tutta la Fiandra; così il Sasso, ch’è come una <lb/>
+chiusa darebbe largo campo ai signori Stati di correr <lb/>
+tutto il Paese, et levar pur cotributioni di Fiandra <lb/>
+mettendo in acqua quel continente fino a Gantes. <lb/>
+Ogn’hora si aspetta avviso se sarà, o no successa <lb/>
+l’impresa; et perché sua Eccellenza vi è andata in persona <lb/>
+si giudica, che sia per cosa ben sicura, et concertata. </p>
+<p>L’inimico ha la più gran parte delle sue genti all’alto verso <lb/>
+il Rheno. Il marchese Spinola, et il conte Henrico di <lb/>
+Bergh si trattenevano all’intorno di Rurmonda, don <lb/>
+Gonzales di Cordova<ptr target="#tn2" n="2"/> più ad altro; et verso
+<pb n="392r" facs="11_392r" rend="0"/>
+il vescovato di Munster si era tirato il baron di Anolt <lb/>
+et in Brabant, et Fiandra, non vi erano, che l’ordinarie <lb/>
+guarnigioni, come appunto portavano gl’avvisi. </p>
+<p>Del marchese Spinola con lettere de’ 25 novembre me <lb/>
+avvisa il Pasini, che la passata settimana doveva tornar <lb/>
+a Brusseles, et in conformità m’è stato detto hier <lb/>
+mattina, che già vi era arrivato: con tutto ciò <lb/>
+si stima, che sua Eccellenza facilmente possi conseguir il suo <lb/>
+intento massime non presuponendosi, che come ho detto <lb/>
+habbi fatto il viaggio, che non habbi intelligenza<ptr target="#tn3" n="3"/> <lb/>
+nella piazza, che deve attaccare. </p>
+<p>Da che il signor principe Henrico tornò al’Haya mai si è <lb/>
+parlato d’altro, che del viaggio, che doveva far il <lb/>
+signor principe Mauritio, et di una surpresa. Se ne <lb/>
+sono fatte publiche preghiere. Si sono alla scoperta <lb/>
+veduti imbarcar quaranta piccioli canoni della nuova <lb/>
+inventione di sua Eccellenza da far marchiar in campagna <lb/>
+altri pezzi maggiori, scale, ponti, petardi, <lb/>
+zappe, et simil altri stromenti di che per necessità <lb/>
+bisogna, che l’inimico sia stato avvertito; onde
+<pb n="392v" facs="11_392v" rend="0"/>
+tanto più si giudica, che la cosa sia stata maturata, et <lb/>
+condotta per via d’una ben sentita intelligenza. <lb/>
+Fino a quest’hora, ch’è nanti la notte non hanno <lb/>
+li signori Stati havuto avviso alcuno, et cominciano a <lb/>
+meravigliarsi colla speranza però sempre dell’<lb/>
+essito buono. Se intenderò alcuna cosa prima del <lb/>
+partir dell’ordinario per Amsterdam non mancarò di <lb/>
+aggiungerlo colla mia solita riverenza. </p>
+<p>Mi manca il mio dispaccio delli 11 del passato non mi <lb/>
+essendo capitato né per via di Colonia, né per via <lb/>
+d’Anversa, et pur tutti hanno ricevute le sue lettere <lb/>
+mi dolerebbe se vi<ptr target="#tn4" n="4"/> fossero state lettere publiche <lb/>
+per il mancamento al servitio di votsra Serenità. </p>
+<p>Con queste mando le replicate di hoggi otto n° 444 fin 445. Gratie etc. </p>
+<p>Dall’Haya li 5 decembre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="393r" facs="11_393r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="393v" facs="11_393v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="394r" facs="11_394r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="394v" facs="11_394v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 447 comincia 446 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="110">
+<!--
+<p n="394vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 decembre 1622 ricevute 22 detto </p>
+<p>Haya. 2<hi rend="superscript">da</hi> n° 447 </p>
+<p>L. SS. R </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "verso" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

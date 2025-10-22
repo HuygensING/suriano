@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.039 date 1621-06-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">039</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 192r-193v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp57-74
+            </note>
+            <biblScope unit="page">190r-191v, 192r-193v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A brief ciphered letter about a report which came from Wotton, the English ambassador in Venice, that Rome want the return of Jesuits in the city. Carleton told him that the pope had also asked the Republic to withdraw from this alliance. Adds news that the Pope who was ’liberator d’Italia’ is favouring the Spanish politically. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-28">28 giugno 1621</date>
+            <num>063, 064</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="063" corresp="064" source="190r-191v" >
+<div type="main" facs="main text of attachment I" n="063" corresp="064" >
+<!--<p>Allegato I al n. 64 (cc. 190r-191v; decodifica di cc. 192r-193v)</p>-->
+<pb n="190r" facs="10_190r" rend="0"/>
+<head>main text of attachment I</head>
+<p>3<hi rend="superscript">a</hi> n° 312 comincia 310 </p>
+<p>Exp(lan)i p(apalist)i </p>
+<p>Serenissimo Principe </p>
+<p>corse qui una voce la settimana passata, et par, che uscisse <lb/>
+fuori della penna di cotesto signor Ambasciator inglese, che si tratti <lb/>
+con vostra Serenità dalla parte di Roma con grand’efficaccia <lb/>
+la restitutione de’ iesuiti, poi mi sono confirmato, che <lb/>
+così sia; scrivendo egli a questo signor ambasciator Carleton le cose <lb/>
+non esser tanto avanti, che non vi fusse stato del tempo <lb/>
+assai per poter scriver; dell’effetto di questo negotio ho <lb/>
+vedute le lettere. </p>
+<p>Et a questo proposito non lascierò di significare alla <lb/>
+Serenità vostra quello, che hieri a sera mi disse il medesimo <lb/>
+signor Carleton esserli scritto dallo stesso signor cavalier Vuton, che <lb/>
+’l Papa coll’occasione degli eccellentissimi signori ambasciatori estraordinarii havesse <lb/>
+instata, et essortata la serenissima Republica di due cose; l’una <lb/>
+di accettar nel suo Stato li iesuiti, et l’altra di non <lb/>
+impacciarsi con heretici, et retirarsi da questa aleanza; <lb/>
+che facendo questo non haverebbe mancato in tutti i <lb/>
+tempi di mostrarsi pronto a’ suoi interessi, et fatto <lb/>
+tutto quel più<ptr target="#tn1" n="1"/>, che havesse conosciuto poter riuscir di <lb/>
+suo servitio, et interesse; usando altri concetti simili, <lb/>
+che sommo disgusto havevano apportato alli detti eccellentissimi <lb/>
+signori ambasciatori. Non so che effetto possino produr voci tali <lb/>
+nell’animo di questi signori et non essendo informato rispondo <lb/>
+solo, che non so, et non lo credo. </p>
+<p>Viene anco scritto in lettere particolari, che ’l Papa
+<pb n="190v" facs="10_190v" rend="0"/>
+comincia ad adherire alla parte de’ Spagnoli, et che ’l <lb/>
+nipote sia stato guadagnato da loro. Sin hora è stata <lb/>
+sua Santità stimata, et dirò politicamente amata, et benedetta <lb/>
+essendo nominata col titolo di liberator d’Italia; ora <lb/>
+al presente, se così, come è scritto le cose torneranno <lb/>
+faccia, et si darà nelle popolari imprecationi. Gratie etc. </p>
+<p>Dall’Haya li 28 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="191r" facs="10_191r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="191v" facs="10_191v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="064">
+<div type="main" facs="main text of letter" n="064">
+<!--<p>28 giugno 1621, L’Aia (cc. 192r-193v; decodifica a c. 190r-v)</p>-->
+<pb n="192r" facs="10_192r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="192v" facs="10_192v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="193r" facs="10_193r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="193v" facs="10_193v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 312 comincia 310<ptr target="#tn2" n="2"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="064">
+<!--
+<p n="193vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 giugno 1621 ricevute 14 luglio n° 312 </p>
+<p>Haya. Secretario Suriano. 3<hi rend="superscript">a</hi> </p>
+<p>Exp(lan)i p(apalist)i </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Presence of a seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

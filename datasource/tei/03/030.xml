@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.030 date 1616-12-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">030</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3,fol 204r-206v, 213r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">204r-206v, 213r-v, 207r-v, 212r-v, 208r-v, 211r-v, 209r-210v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The English ambassador Carleton has received a reply from the States to the proposal of James I on the Cleves-Jülich matter, which he encloses. Carleton enquires whether Ottavio Bon or Donato are going to be sent as the next Venetian ambassador to England. He attaches translation of the response he received from the States General. Reports that an unknown individual is willing to offer his service to Venice and supposedly knows of a plan by the Habsburg in the Adriatic against Venice. Three documents attached: "Risposta alla propositione del secretario Suriano fatta dalli Stati Generali"; "Scrittura di persona che offerisce negotio" and "Risposta delli signori Stati Generali alla propositione dello signor ambasciator d’Inghilterra"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-31">31 dicembre 1616</date>
+            <num>068, 069, 070, 071</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="068">
+<div type="main" facs="main text of letter" n="068">
+<!--<p>31 dicembre 1616, L’Aia (cc. 204r-206v, 213r-v)</p>-->
+<pb n="204r" facs="03_204r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>il signor ambasciator d’Inghilterra per haver qualche risposta a quanto propose <lb/>
+a nome del suo Re nell’affare di Cleves, et Giuliers l’ha sollecitata<ptr target="#tn1" n="1"/> <lb/>
+appresso questi signori Stati, et l’ha havuta del tenore, che vedrà la Serenità vostra <lb/>
+in copia; sopra che il medesimo signor Ambasciator mi disse che gli era stata <lb/>
+data per provisione, et l’haveva ispedita a sua Maestà perché concer-<lb/>
+tasse la prorogatione del tempo. A me<ptr target="#tn2" n="2"/> è stato riferto, <lb/>
+che, oltre quello, ch’è in scritto gli sono anco stati coll’assenso <lb/>
+del residente del marchese di Brandemburgh considerati <lb/>
+li consigli, che l’Imperatore haveva havuti dal cardinal Gliselio <lb/>
+et da qualche altro ministro, che uscite le genti sua Maestà Cesarea <lb/>
+o col mezo di sequestro, o coll’aiuto degl’istessi Spagnuoli <lb/>
+si facesse patrone di tutto il Paese; fu considerato il pregiu-<lb/>
+dicio de’ communi interessi, et del general de’ principi pretensori, <lb/>
+che sarebbono dispossessati per sempre di detti beni, et l’altra <lb/>
+consideratione è stata, che si deve mirar a non dar mag-<lb/>
+giori forze a’ Spagnuoli da valersene in Italia: perché <lb/>
+non essendo messo in effetto dall’Imperatore quant’era detto, si <lb/>
+poteva creder, che liberi Spagnuoli da intertenir militie <lb/>
+et cavalleria in quelle piazze, di questa particolarmente <lb/>
+se havessero valso per mandarla in Italia contra il signor duca <lb/>
+di Savoia, o per servitio dell’arciduca Ferdinando <lb/>
+contra la serenissima Republica; che come in sua Maestà è pensiero
+<pb n="204v" facs="03_204v" rend="0"/>
+di evitar ogni inconveniente, che si potesse suspettar poter <lb/>
+avvenir da quella parte; così era necessario per benificio del <lb/>
+negotio, et per servitio, et conservatione degl’amici, et delle <lb/>
+cose d’Italia applicar l’animo, et preveder lontano il male <lb/>
+per oviarli. Non mi disse il signor ambasciator d’Inghilterra cosa alcuna di <lb/>
+questo discorso, o considerationi; ma ben mi affermò, che <lb/>
+questi signori hanno grandemente l’occhio allo stato presente delli <lb/>
+affari del mondo, et agl’interessi dell’Italia. Ha mostrato <lb/>
+meco restar sodisfatto di quanto sin qui hanno risoluto <lb/>
+far dir a sua Maestà, et teneva per fermo, ch’ella haverebbe <lb/>
+ricevuto in bene la risolutione. </p>
+<p>Uscì poi a dimandarmi se io havevo inteso, che l’eccellentissimo signor <lb/>
+Ottaviano Bon fosse per passar in Inghilterra. Io dissi che non; <lb/>
+et egli replicò il signor di Langarach da Parigi lo scrive <lb/>
+a questi Signori, dicendo, che non contento esso eccellentissimo signor Bon <lb/>
+delle risolutioni di corte nel suo negotiato intorno <lb/>
+alli affari de’ Grisoni, sia per lasciar la continuatione <lb/>
+della materia all’eccellentissimo signor ambasciator Gussoni, et passar <lb/>
+in Inghilterra, et di là venirsene qui a far qualche <lb/>
+amorevol ufficio, et che a lui ancora veniva scritto <lb/>
+altrettanto; et dicendo io pure, che non ne sapevo <lb/>
+alcuna cosa; soggiunse Veramente stimerei l’andata
+<pb n="205r" facs="03_205r" rend="0"/>
+di quel signore opportuna in Inghilterra perché, se bene il signor secretario Lionello <lb/>
+bisogna dirlo essendo così in effetto vero colla sua gratiosa <lb/>
+maniera di procedere, et di trattare si rende grato a sua Maestà <lb/>
+et a tutti li suoi officiali, et fa bene il servitio di sua Serenità <lb/>
+è però attorniato dall’ambasciator di Spagna, da quello <lb/>
+delli arciduchi, dal secretario di Fiorenza, et da qualche <lb/>
+altro ministro poco amorevole, onde se il signor ambasciator Bon <lb/>
+passerà a sua Maestà farà un gran buon servitio massime <lb/>
+nelle presenti occorrenze del mondo, et dico ciò per la <lb/>
+riverenza, che porto alla serenissima Republica. Sono molti <lb/>
+giorni, che il medesimo Ambasciatore mi addimandò quando <lb/>
+sarebbe andato in Inghilterra il signor ambasciator Donato: aggiun-<lb/>
+gendo, che ’l signor ambasciator Cont(arin)i <lb/>
+al partir suo di Parigi tor-<lb/>
+nando a Venetia poteva far il viaggio per veder <lb/>
+quel Regno, et visitar sua Maestà (a che confesso, che per <lb/>
+allhora non ne feci reflesso) et pur hora non so imagi-<lb/>
+narmi il fine perché questo Ministro habbi parlato <lb/>
+così, et al presente mi habbi voluto far apparer necessaria <lb/>
+o opportuna l’andata dell’eccellentissimo Bon al suo Re <lb/>
+se non fosse che l’ambitione, o il desiderio d’esser hono-<lb/>
+rati, et particolarmente con ambasciata così principale <lb/>
+et con la persona di tanto senatore promovesse il concetto
+<pb n="205v" facs="03_205v" rend="0"/>
+mentre veggono non poter l’eccellentissimo signor ambasciator Donato per <lb/>
+li motivi, et occorrenze presenti del<ptr target="#tn3" n="3"/> Piemonte <lb/>
+abandonar la residenza appresso il signor duca di Savoia; <lb/>
+ma tutto è proprio della prudente consideratione della Serenità vostra. </p>
+<p>Li signori Stati questa mattina mi hanno mandata la risposta in <lb/>
+scritto alla propositione che feci la passata settimana. Sarà qui <lb/>
+aggiunta la traduttione, ch’è in conformità de’ precedenti termini <lb/>
+che hanno usato meco nelle altre risposte. </p>
+<p>Oltre quello, che me ne ha detto il signor ambasciator d’Inghilterra so che <lb/>
+continuano nel pensare alle cose d’Italia, et agl’interessi del signor <lb/>
+duca di Savoia. </p>
+<p>Corrono qui gl’avvisi, ch’egli habbi gran assistenza dalla <lb/>
+parte di Francia fattagli da monsignor di Diguieres; et <lb/>
+aspettano qualche nuova de’ buoni successi. </p>
+<p>Io ho tentato, et fatta ogni diligente inquisitione per cavar ciò <lb/>
+che havesse nel suo secreto quel soggetto, che si offerse di <lb/>
+revelar negotio di momento alla Serenità vostra affermando il <lb/>
+premio, che ne poteva sperare, et che sarebbe stato per <lb/>
+appunto tale quale l’importanza dell’affare l’havesse <lb/>
+meritato, et che di tanto si poteva assicurare anco sen[za] <lb/>
+obligo precedente. Mostrò far stima dell’offerta; ma <lb/>
+è stato saldo però nel non voler uscire, asserendo, chi
+<pb n="206r" facs="03_206r" rend="0"/>
+senza haver alcuna cosa in mano per esser premiato in negotio di <lb/>
+gravissimo momento non si sapeva risolver; che se pareva <lb/>
+grande la dimanda volontieri l’haverebbe in qualche <lb/>
+parte regolata: pur in fine replicando io quel più, che <lb/>
+stimai a proposito ho cavato questo tanto che l’impresa è <lb/>
+de’ Spagnuoli uniti con la casa d’Austria con disegno d’impa-<lb/>
+tronirsi nel golfo servendosi di pretesti plausibili, et tanto <lb/>
+sicuramente faranno<ptr target="#tn4" n="4"/> la botta se egli non dichiara la maniera, come <lb/>
+si possi contraminare, quanto cosa più facile a farsi; che <lb/>
+sapeva come, dove, et quando havevano a prender il <lb/>
+negotio a mano, di qual mezi si havevano a valere, et <lb/>
+con questi si sarebbono a man salva condotti a spogliar <lb/>
+quella serenissima Republica di così lungo dominio di quel mare. <lb/>
+La facilità vi era di ostare all’eminenza del pericolo, et egli <lb/>
+la poteva dichiarire, et pertanto sarebbe venuto in persona <lb/>
+a Venetia<ptr target="#tn5" n="5"/> a propalar il fatto accordate le conditioni, et quanto <lb/>
+ricerca, come vedrà nell’aggiunta scrittura. Mi ha <lb/>
+fatto veder lettere, colle quali viene sollecitato dalla <lb/>
+parte di Viena<ptr target="#tn6" n="6"/> ad andar in quella città, et sono per quanto <lb/>
+ho potuto vedere <hi rend="decoded">del conte di Altemps</hi><ptr target="#tn7" n="7"/> <lb/>
+afferma tuttavia esser il negotio grave, et degno <lb/>
+di pervenir prontamente alla notitia della Serenità vostra
+<pb n="206v" facs="03_206v" rend="0"/>
+per suo servitio. La prudenza delle Signorie vostre eccellentissime potrà venir <lb/>
+a quella risolutione, che più le parerà propria. Et per me <lb/>
+(sia reverentemente detto) stimerei bene, ch’elle nell’accordar <lb/>
+le cose, che ricerca (se pur verranno a questo), l’obligassero <lb/>
+a venir a suoi piedi perché tanto maggiormente si assicurarebbo[no] <lb/>
+del fatto, et della persona per haverlo pronto a valersi di lu[i] <lb/>
+in quello che lo stimassero<ptr target="#tn8" n="8"/> proprio per l’affare; et si sincerereb-bono insieme se l’offerta ha in sé la sussistenza, che <lb/>
+promette con tanta asseverenza, et ciò parmi che sarebbe <lb/>
+suo maggior servitio. Gratie etc. </p>
+<p>Dall’Haya a’ 31 decembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="213r" facs="03_213r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="213v" facs="03_213v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="068">
+<!--
+<p n="213vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 decembre 1616 ricevute a’ 18 gennaro </p>
+<p>Secretario Surian dall’Haya prima </p>
+<p>1. L’ambasciator d’Inghilterra ha spedito al Re la <lb/>
+risposta de’ signori Stati nel negotio di Cleves, <lb/>
+per concertar prorogatione del tempo. </p>
+<p>Discorso de’ dissegni dell’Imperatore circa <lb/>
+quello Stato: et che Spagnoli potrebbono <lb/>
+valersi di quelle forze in Italia. </p>
+<p>2. L’ambasciator d’Inghilterra discorre sopra <lb/>
+l’andar dell’ambasciator Bon<ptr target="#tn9" n="9"/> in Inghilterra. </p>
+<p>Dimanda dell’ambasciator Donado, <lb/>
+parla dell’ambasciator Cont(arin)i che potesse <lb/>
+passar per quel Regno. </p>
+<p>Discorso del secretario del loro fine. </p>
+<p>3. Manda la risposta de’ signori Stati <lb/>
+alli uffici, con li termini soliti. </p>
+<p>Pensano alle cose d’Italia et di Savoia. </p>
+<p>Assistenza di Dighieres fa spe-<lb/>
+rare buoni successi. </p>
+<p>4. Manda scrittura di quello che dice <lb/>
+di revelar disegno de’ Spagnoli in Colfo. <lb/>
+Et dice quello ch’egli gli ha detto, offe-<lb/>
+rendosi (quando sian accordate le promesse) di venir a Venetia. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="069" corresp="068" source="207r-v, 212r-v" >
+<div type="main" facs="main text of attachment I" n="069" corresp="068" >
+<!--<p>Allegato I al n. 68 (cc. 207r-v, 212r-v)</p>-->
+<pb n="207r" facs="03_207r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Risposta delli signori Stati Generali alla propositione del <lb/>
+secretario Suriano </p>
+<p>Sopra la propositione fatta per parte della serenissima republica di Venetia <lb/>
+alli signori Stati Generali de’ Paesi Bassi Uniti dal signor Christofforo Suriano <lb/>
+residente presso di essi, et secretario di stato secreto della detta Republica <lb/>
+a’ 23 di questo mese di decembre dichiarano li medesimi signori Stati <lb/>
+ancora in conformità della loro precedente risposta fatta <lb/>
+al detto signor secretario a bocca; che per longa isperienza conoscono <lb/>
+insieme con la detta serenissima Republica le massime, intentioni, et <lb/>
+disegni de’ Spagnuoli esser di signoreggiare sopra tutti li re, <lb/>
+principi, republiche, et stati, che desiderano<ptr target="#tn10" n="10"/> mantener la <lb/>
+loro libertà, et darli legge secondo la loro volontà; essendo <lb/>
+causa che<ptr target="#tn11" n="11"/> li detti signori Stati per assicurar, et conservar il suo <lb/>
+Stato contra li detti disegni, maneggiamenti, trattati, et <lb/>
+pratiche de’ Spagnuoli, trattengono ordinariamente in loro servitio <lb/>
+sì gran numero di genti da guerra tanto da cavallo, quanto <lb/>
+da piede, et parimente provisti di artiglierie, et munitioni <lb/>
+da guerra per servirsene nell’occasioni secondo il bisogno, <lb/>
+et necessità; parimente con ogni prontezza al soccorso dei <lb/>
+loro collegati, et amici come si è veduto doppo poco, et <lb/>
+come fano ancora al presente, detornando, et divertendo <lb/>
+tante forze de’ Spagnuoli, che altrimenti potrebbono impie-<lb/>
+gare o contra il duca di Savoia direttivamente, et <lb/>
+apertamente, o indirettamente, et copertamente all’assistenza <lb/>
+dell’arciduca Ferdinando d’Austria contra la detta
+<pb n="207v" facs="03_207v" rend="0"/>
+serenissima Republica nel che dimorano<ptr target="#tn12" n="12"/> tanto più risoluti di conti -<lb/>
+nuar, sperando (come lo bramano di tutto lor cuore) che <lb/>
+tutti gli altri re, principi, republiche, et stati interessati <lb/>
+nella grandezza, et prosperità delli Spagnuoli, faranno il <lb/>
+medesimo, et assisteranno il detto signor Duca all’essempio loro <lb/>
+per la sua propria sicurtà, et il mantenimento della causa <lb/>
+commune di tutta la christianità: nientedimeno continueranno <lb/>
+a tal fine, et effetto li detti signori Stati, de far ancora per <lb/>
+parte loro seriosamente avvertire, et essortare li re, prin-<lb/>
+cipi, republiche, et stati loro collegati, et amici in tutte <lb/>
+le occasioni; assicurandosi, che la detta serenissima republica di Venetia <lb/>
+li seconderà in ciò con li suoi allegati, et amici come <lb/>
+ne pregano affettuosamente sua Serenità. </p>
+<p>Fatta all’Haya nell’assemblea delli detti signori Stati Generali <lb/>
+li 28 del mese di decembre 1616. </p>
+<pb n="212r" facs="03_212r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="212v" facs="03_212v" rend="270"/>
+<p>2 </p>
+<p>Risposta alla propositione del secretario <lb/>
+Suriano fatta dalli Stati Generali </p>
+<p>Nella prima </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="070" corresp="068" source="208r-v, 211r-v" >
+<div type="main" facs="main text of attachment II" n="070" corresp="068" >
+<!--<p>Allegato II al n. 68 (cc. 208r-v, 211r-v)</p>-->
+<pb n="208r" facs="03_208r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Continuando quello si offerse di propalar negozio di<ptr target="#tn13" n="13"/> grave <lb/>
+momento alla serenissima Republica nel medesimo zelo et <lb/>
+devosione verso di essa à fatto un puoco d’apertura <lb/>
+al illustrissimo signor residente Soriano, et però dirà anco <lb/>
+tutto il resto e quel tanto occorse, ma vorrebbe <lb/>
+per ogni accidente aver qualche securessa di esser <lb/>
+recognosciutto, desidera doncgue che gli conditioni <lb/>
+proposti circa il negozio scritto si debbano mandar <lb/>
+qui al sudetto illustrissimo signor residente Soriano, confirmate <lb/>
+in tutti gli capi dal serenissimo Senato in forma debita, et <lb/>
+conveniente par la securessa di esso trattante, il <lb/>
+quale si contenta che la pension annua dimandata <lb/>
+di dodeci mille ducati, si fermi per ora in ducati <lb/>
+cinquecento al mese per il trattante in vita sua <lb/>
+et per gli soi eredi et successori, per quanti <lb/>
+anni parerà conveniente alla serenissima Republica. Con patto <lb/>
+però, dipoi che il serenissimo Senato averà inteso il <lb/>
+negozio come sta, et ponderatolo<ptr target="#tn14" n="14"/>, che se le debba <lb/>
+augmentar quella somma annua secondo che sua <lb/>
+Serenità troverar meritar il fidel zelo del trattante <lb/>
+et la grandessa del negozio che manifesterà, il <lb/>
+che si offerisce farlo in persona propria andando a <lb/>
+Venezia, come è rissoluto di fare, mediante che <lb/>
+dal detto signor residente Soriano lui siano assecurate <lb/>
+le spese del viagio et altro, oltre le confirmationi
+<pb n="208v" facs="03_208v" rend="0"/>
+sudette li quali tutti deveranno avere principio alla <lb/>
+sua partensa di qua. </p>
+<p>Et quando per legittimi impedimenti sia di sanità <lb/>
+o altro non potesse promptamente transferirsi <lb/>
+a Venezia, rechiedendo in ogni modo il negozio fretta <lb/>
+grandissima et straordinaria diligensa, che alora <lb/>
+poterà<ptr target="#tn15" n="15"/> revelarlo al detto illustrissimo signor residente <lb/>
+Soriano, con avere<ptr target="#tn16" n="16"/> la securtà del beneficio <lb/>
+sopradetto et quel donativo che parerà a sua <lb/>
+Serenità. </p>
+<p>Et prega il trattante che per molti gravi rispetti <lb/>
+et per securessa sua che<ptr target="#tn17" n="17"/> lui sia promesso che questa sua <lb/>
+revelatione sarà tenuto secreto, cioè l’essere<ptr target="#tn18" n="18"/> <lb/>
+da lui revelato, che anco così convien per <lb/>
+securessa del negozio et di essa serenissima Republica. </p>
+<pb n="211r" facs="03_211r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="211v" facs="03_211v" rend="270"/>
+<p>3 </p>
+<p>Scrittura di persona che <lb/>
+offerisce </p>
+<p>Nella prima </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="071" corresp="068" source="209r-210v" >
+<div type="main" facs="main text of attachment III" n="071" corresp="068" >
+<!--<p>Allegato III al n. 68 (cc. 209r-210v)</p>-->
+<pb n="209r" facs="03_209r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Risposta delli signori Stati Generali alla propositione del <lb/>
+signor ambasciator d’Inghilterra </p>
+<p>Essendo stato bene et maturamente deliberato e parimente intesa il parere <lb/>
+di sua Eccellenza et de’ Conseglio de Stato sopra la propositione fatta per parte <lb/>
+del re della Gran Bertagna nell’assemblea de’ signori Stati Generali de’ Paesi <lb/>
+Bassi Uniti dal signor Dudley Carleton kavalier ambasciator ordinario di sua Maestà a’ 3 di <lb/>
+questo mese ringratiano essi signori Stati humilmente la detta Maestà sua della continuità <lb/>
+della sua regal affatione<ptr target="#tn19" n="19"/> al bene, riposo, et pace di tutta la christianità <lb/>
+et particularmente di questi paesi insieme delli ducati di Giuliers <lb/>
+Cleves, Berges, et altri appartenenti conti et signori li più prossimi <lb/>
+vicini<ptr target="#tn20" n="20"/>, et collegati di essi Paesi Bassi Uniti pregando la medesima <lb/>
+Maestà sua di<ptr target="#tn21" n="21"/> tener per securissimo che li detti signori Stati bramando <lb/>
+et desiderando di tutto cuore, sinceramente, et con ogni candore che <lb/>
+de’ detti ducati, et paesi siano constituiti, stabiliti, et conservati sotto <lb/>
+la legetima regenza de’ principi possedenti, il principe elettore <lb/>
+di Brandenburgh, del signor principe suo figliolo, et parimente del signor <lb/>
+Palatino, et duca di Neuburgh, nelle loro libertà et dretti <lb/>
+con la conservatione<ptr target="#tn22" n="22"/> ilesa della vera religion christiana <lb/>
+libera d’ogni difficoltà et carchi di guerra et da quello <lb/>
+che provieni d’essa, in conformità d’accordi fatti tra di <lb/>
+essi, et che l’accordo de Zanten sia veramente et fidelmente <lb/>
+totalmente accomplito<ptr target="#tn23" n="23"/> et sinceramente osservato: niente di meno <lb/>
+confidano che sua Maestà per la<ptr target="#tn24" n="24"/> sua grandissima<ptr target="#tn25" n="25"/> real saviezza <lb/>
+et prudenza intenderà per il meglio che in un affare <lb/>
+di così<ptr target="#tn26" n="26"/> gran<ptr target="#tn27" n="27"/> momento, nel quale per quelli dal <lb/>
+canto de’ Spagnoli doppoi il trattato di Zanten sono state
+<pb n="209v" facs="03_209v" rend="0"/>
+usate stranie maniere di procieder, primiriamente per molte vaca-<lb/>
+tioni et dilationi doppo l’anno 1615 per l’ostile occupatione dell’im-<lb/>
+portante città et piazza de<ptr target="#tn28" n="28"/> Siburch et nel presente anno <lb/>
+per il sforzo delle città di Soest et Lipstadt<ptr target="#tn29" n="29"/> diretamente fatto contra <lb/>
+le promesse sottoscritte et sigilate che si continuano ancora pa-<lb/>
+rimente per li obedienti cambiamenti sopra venuti dappoi al detto <lb/>
+accordo nello stato d’alcuni principi et potentati interessati in <lb/>
+questo affare, li presenti deputati delle Provincie Unite nella loro <lb/>
+assemblea non sono di parere di fare una final risolutione <lb/>
+sopra ciò nell’absenza dell’altri loro collegati et senza <lb/>
+previa communicatione delli loro principali e communità, tanto <lb/>
+maggiormente in riguardo di ciò che sua Maestà et parimenti li <lb/>
+detti signori Stati intenderà esser conforme al dritto, alla ragione <lb/>
+et<ptr target="#tn30" n="30"/> all’equità che sopra il tutto sia inteso il buon <lb/>
+piacere et intentione del principe elettore di Brandenburgh et <lb/>
+et delli principi di Brandenburg et Palatino di Neuburgh come <lb/>
+principale interessati et che temendo li detti signori Stati che sarà <lb/>
+difficile dentro il termine limitato nella detta propositione perché il <lb/>
+detto Principe elettore, è al presente in Prussia, et il principe palatino di <lb/>
+Neuburgh, è<ptr target="#tn31" n="31"/> parimente lontano da’<ptr target="#tn32" n="32"/> suoi paesi ancor che essi <lb/>
+indubitabilmente dichiararanno in questo fatto tanto più prontament[e] <lb/>
+la loro bona<ptr target="#tn33" n="33"/> intentione stante che quelli della parte <lb/>
+di Spagna dicono che spirato il detto tempo vogliono
+<pb n="210r" facs="03_210r" rend="0"/>
+retenir per lor medesimi<ptr target="#tn34" n="34"/> per sempre le piazze occupate da essi<ptr target="#tn35" n="35"/>. </p>
+<p>Ricercano per tanto li detti signori Stati humilmente che piaccia a sua <lb/>
+real Maestà della Gran Bretagna pigliar in buona parte questa loro <lb/>
+provisional<ptr target="#tn36" n="36"/> dichiaratione, et che il detto signor ambasciatore a questa fine voglia <lb/>
+parimente fare ogni buon officio. </p>
+<p>Fatta a l’Haye nell’assemblea di detti signori Stati Generali de’ Paesi <lb/>
+Bassi Uniti a’ 24 decembre 1616. </p>
+<pb n="210v" facs="03_210v" rend="270"/>
+<p>1 </p>
+<p>Risposta delli signori Stati Generali <lb/>
+alla propositione dell’<ptr target="#tn37" n="37"/> signor ambasciator <lb/>
+d’Inghilterra </p>
+<p>Nella prima </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-it-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "st" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "presente" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "a Venetia" added in the internal margin with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "del conte di Altemps" added above the encrypted text.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-assero" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "B-" corrected above "b-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "c-" corrected above "q-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-mo-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-l-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes "le" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "l’-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "aff-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Precedes "(" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "tur" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "Ill" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-p-" corrected above "-l-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "g-" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Is the result of a correction; followed by "sua" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "affar" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "Siburgh" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-p-" corrected above "-b-."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "allequità" crossed out</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Corrected above "et."</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "affettione" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "da essi" added above the line on "per loro" crossed out.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Added above the line on "provisiolane" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by -"o" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

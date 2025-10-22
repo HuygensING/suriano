@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.061 date 1617-08-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">061</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 327r-328v, 331r-332v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">327r-328v, 331r-332v, 329r-330v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Levenstein has finally concluded secured a deal with Quingetti, which he sends in attachment. Reports that he has travelled to Amsterdam and has seen several ships and troops. One document attached: "sicurtà del Quingetti per 21 mila ducati"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-01">1 agosto 1617</date>
+            <num>104, 105</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="104">
+<div type="main" facs="main text of letter" n="104">
+<!--<p>1 agosto 1617, L’Aia (cc. 327r-328v, 331r-332v)</p>-->
+<pb n="327r" facs="04_327r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>doppo haver il signor conte di Levenstein trattato più volte col <lb/>
+Quingetti lo ha finalmente indotto a far la sicurtà, che la Serenità vostra <lb/>
+vedrà qui aggiunta in copia. Prima del venir alla <lb/>
+conclusione stimai a proposito, et di mio debito informarmi <lb/>
+anco presentialmente come le cose fossero ordinate, et se erano <lb/>
+nel termine, ch’egli mi significò con lettere, et di bocca. <lb/>
+Onde giovedì me ne passai in Amsterdam. Qui seppi di certo <lb/>
+che le navi si mettevano ad ordine tanto nel porto di <lb/>
+quella città; quanto in altri della Nortolandia. Ho veduto <lb/>
+qualche capitano di esse, che instava di haver il<ptr target="#tn1" n="1"/> denaro, che li <lb/>
+è stato promesso anticipato per la compreda de’ viveri, et per <lb/>
+dimani come ho anco intesi dal Calandrini, et da un altro <lb/>
+mercante dovevano esserne tre pronte per Delfsil. <lb/>
+Le ispedisce immediate il signor Conte al luoco dell’imbarco <lb/>
+essendo avvisato esser vicini molti de’ soldati anzi alcuni<ptr target="#tn2" n="2"/> <lb/>
+nella stessa piazza; et mentre mi trovavo in Amsterdam <lb/>
+il venerdì ne arrivorono doi gran barche da Harnem <lb/>
+che il sabbato mattina sono partite alla volta di <lb/>
+Delfsil, et sono stati veduti da uno di quelli che <lb/>
+erano con me. Mi egli fatte veder doi delle insegne <lb/>
+alcuni rondazzi compri di quelli del signor principe Mauritio
+<pb n="327v" facs="04_327v" rend="0"/>
+per dar alla sua compagnia, alcune delle casache per li <lb/>
+moschettieri affermandomi, che ne erano fatte da mille <lb/>
+doicento, la sorte delle armi, et altre cose proprie <lb/>
+per questo servitio;<ptr target="#tn3" n="3"/> mi attestò poi con gran <lb/>
+asseveranza<ptr target="#tn4" n="4"/>, che era constretto dal bisogno ad haver <lb/>
+li vintisettemilla ducati che doveva ricever qui, perché non <lb/>
+li restava con che sodisfar li marinari, come per avanti <lb/>
+mi haveva significato, né essi volevano partir di là <lb/>
+senza haver quanto li era stato promesso di anticipato <lb/>
+onde se non li assistevo conveniva il tutto riuscir in <lb/>
+niente; et però mi risolsi di ordinar con la detta <lb/>
+sicurtà l’esborso<ptr target="#tn5" n="5"/> di essi vintisettemilla duca[ti.]<ptr target="#tn6" n="6"/> <lb/>
+Io mi prometto tanto della benignità della Serenità vostra che <lb/>
+spero sia ella per trovar buono ciò che ho fatto <lb/>
+mentre è stato partito di necessità preso da me sopra <lb/>
+il luoco, comprendendo non potersi far di meno, et <lb/>
+vedendo il bisogno della serenissima Republica esser urgente <lb/>
+et tanto più mi giova sperare, che sarà ben intes[o]<ptr target="#tn7" n="7"/> <lb/>
+doppo che al mio ritorno ho veduto quello che […]<ptr target="#tn8" n="8"/> <lb/>
+succede nell’armata, et come con disordine sia <lb/>
+governato il reggimento del signor conte Gio. Ernesto di N[assau]<ptr target="#tn9" n="9"/>
+<pb n="328r" facs="04_328r" rend="0"/>
+andandossi sperdendo, et dissipando, come la Serenità vostra mi <lb/>
+scrive colla fuga dei soldati. Posso affermar<ptr target="#tn10" n="10"/> alle<ptr target="#tn11" n="11"/> <lb/>
+Signorie vostre<ptr target="#tn12" n="12"/> eccellentissime col solito della mia sincera<ptr target="#tn13" n="13"/> <lb/>
+humiltà verso di lei, che vi è stato del da fare <lb/>
+assai ad indur il Quingetti, che venga ad una tal <lb/>
+risolutione di prometter quanto ha promesso. <lb/>
+Anco la riputatione della serenissima Republica oltre il suo servitio <lb/>
+mi ha condotto alla risolutione dell’esborso sudetto <lb/>
+parendomi bene dar ancora di tal maniera animo <lb/>
+alli patroni de’ vasselli di servirla, et massime per <lb/>
+quanto intenderà la Serenità vostra nelle sussequenti; et perché <lb/>
+non si è trovato altro mercante, che volesse ingerirsi in <lb/>
+questo: di modo che se questo si retirava, restava il <lb/>
+Conte senza denaro, et per consequenza senza frutto <lb/>
+il pensiero, et intentione della Serenità vostra, et perse tutte le <lb/>
+fatiche, et spese, che sono rilevanti, fatte da esso <lb/>
+signor Conte il quale in fine disse ad uno, che lo ha riferto, <lb/>
+che quando questo havesse mancato non potendo, o <lb/>
+non sapendo che far più si sarebbe risoluto di far <lb/>
+far un attestato, che per la parte sua haveva <lb/>
+fatto il suo debito, et che se non havesse potuto compir al
+<pb n="328v" facs="04_328v" rend="0"/>
+resto il mancamento non sarebbe stato suo. </p>
+<p>Li 27 mila ducati fano 67 mila fiorini in circa et deve dar doi mesi di <lb/>
+anticipato per li tre milla fanti, che ho fatto il conto a <lb/>
+soli sette soldi per testa il giorno, che importano sessantatre-<lb/>
+milla fiorini non fatto il computo, che per ogni vassello dov-<lb/>
+ranno pagarsi per alcuni, che mangieranno alla <lb/>
+tavola del patrone dieci soldi per uno al giorno, et a <lb/>
+doi, o tre vasselli, come significai la settimana passata <lb/>
+darà doi mesi et mezo di anticipato. Per il nolo lo <lb/>
+piglieranno li marinari a Venetia; ma alcuni hanno <lb/>
+voluto sicurtà dal Quingetti. Resta il denaro che il <lb/>
+Conte ha esborsato per la levata, et del costo delli habiti, <lb/>
+armi, bandiere, et altro; onde puosi creder esser grande <lb/>
+il suo interesse, né so chi sia per intraprender tanta carica <lb/>
+et credo bene che ne vorrebbe esser digiuno; tuttavia <lb/>
+mi ha detto haver fatta instanza a vostra Serenità di maggior <lb/>
+levata, et che aspettava venerdì la risposta. Certo <lb/>
+mostra buon animo, et devota volontà verso la Serenità vostra. </p>
+<p>Già è informato dei disgusti, ch’ella riceve, et mi ha affe[…]<ptr target="#tn14" n="14"/> <lb/>
+che non pretende, che la sola gratia di lei, et per acqui[sir-]<lb/>
+sela<ptr target="#tn15" n="15"/> procurerà con ogni spirito di evitar ogni av[…]<ptr target="#tn16" n="16"/>
+<pb n="331r" facs="04_331r" rend="0"/>
+che possi apportar mala consequenza. Io anco l’ho pregato <lb/>
+a far il viaggio con questo fine. Per rendersi tanto più <lb/>
+grato, obligarsi maggiormente il publico, et il governarsi <lb/>
+tutto al contrario di quello ha fatto il signor conte Gio. Ernesto <lb/>
+et il suo reggimento era il vero mezo di avanzar il suo <lb/>
+partito; così mi ha promesso, che farà. </p>
+<p>Io per quello si aspetta alla parte mia procurerò che tutte <lb/>
+le cose passino con ordine quanto all’imbarco, et starò <lb/>
+fino al partir de’ vasselli, come ella mi<ptr target="#tn17" n="17"/> com-<lb/>
+messe con sue lettere de’ 16 marzo passato; se bene sarà <lb/>
+proprio della prudenza della Serenità vostra considerare, se nelle presenti congionture sarà bene, che per molto <lb/>
+tempo io sia absente da questa residenza, essendo la <lb/>
+piazza di Delfsil quattro giornate lontana di qua <lb/>
+oltre l’accidente de’ venti contrarii (da che Dio mi guardi) <lb/>
+et più sarà con non poco dispendio di vostra Serenità dovendo <lb/>
+trattenermi sopra l’hosteria, ove non vi è né legge, né <lb/>
+ordine, che dia regola all’essorbitanze delli hosti in <lb/>
+questi paesi<ptr target="#tn18" n="18"/> massime<ptr target="#tn19" n="19"/> con forestieri, et particolarmente con persone, che habbino <lb/>
+carratere publico. Io però aspetterò sopra il <lb/>
+luoco dell’imbarco, sperando<ptr target="#tn20" n="20"/> di dover partir presto
+<pb n="331v" facs="04_331v" rend="0"/>
+per la come mi doverò governare. Gratie etc. </p>
+<p>Dall’Haya al primo di agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="332r" facs="04_332r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="332v" facs="04_332v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="104">
+<!--
+<p n="332vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1617 primo agosto ricevute detto </p>
+<p>Haya. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="105" corresp="104" source="329r-330v" >
+<div type="main" facs="main text of attachment I" n="105" corresp="104" >
+<!--<p>Allegato I al n. 104 (cc. 329r-330v)</p>-->
+<pb n="329r" facs="04_329r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia </p>
+<p>Io Gasparo Quingetti, riconnosco et confesso essermi constituito et constituirmi per <lb/>
+questa di mia libera volontà chieggio<ptr target="#tn21" n="21"/> et malevadore come principale (renun-<lb/>
+tiando al beneficio della divisione et discusione et alle leggi dicenti che <lb/>
+bisogna prima discutir il principale che il pieggio) per l’illustrissimo signor <lb/>
+Georgio Lodovico conte di Levenstein et signor di Scherperink<ptr target="#tn22" n="22"/> etc. al clarissimo signor <lb/>
+Christofforo Suriano residente per la serenissima republica di Venetia appresso <lb/>
+li signori Stati Generali de’ Paesi Bassi Uniti per la somma de ducati vintisette <lb/>
+milla correnti venetiani, la qual somma parte ho tratta et il resto trarò <lb/>
+per Venetia d’ordine di detto signor residente, li quali denari esso signor residente <lb/>
+mi ha ordinato et ordina provedere a detto illustrissimo signor Conte in conformità <lb/>
+delle capitulationi che sono state fatte tra la serenissima Republica <lb/>
+et detto signor Conte, et perché non doverà il detto signor residente <lb/>
+contarli li sudetti ventisette milla ducati se non veduti imbarcati <lb/>
+li tre milla fanti ch’esso signor Conte s’è obligato di condur al <lb/>
+servitio della serenissima Republica, hora facendogli li contar qui in <lb/>
+Amsterdam anticipatamente, per questo et per sicurtà del medesimo signor <lb/>
+residente mi obligo, che li sudetti tre milla fanti da guerra <lb/>
+saranno tutti effettivamente imbarcati dal detto signor Conte a servitio <lb/>
+della serenissima Republica in la fiumara d’Embden a Delffsiel <lb/>
+o altro luogo vicino a proposito per l’ultimo agosto prossimo o <lb/>
+in circa, per esser condotti al servitio d’essa serenissima Republica, <lb/>
+et conforme l’obligho di esso signor Conte colla serenissima Republica, <lb/>
+il che seguito et essendone debita prova, allhora cesserà et <lb/>
+resterà […]<ptr target="#tn23" n="23"/> <lb/>
+detti ducati ventisette mila al detto signor residente overo pro-<lb/>
+curarli cautele bastanti da sua Serenità ch’esso signor residente haverà <lb/>
+sodisfattione. Per l’osservanza di quanto è detto io obligo la <lb/>
+mia persona e beni, mobili et stabili, presenti et futturi, et <lb/>
+per fede del vero mi sono sottoscritto di proprio pugno. In <lb/>
+Amsterdam alli 29 di luglio 1617 era sottoscritto Gasparo Quingetti. </p>
+<p>In fidem auscultatae et verbotenus concordantis copiae veri <lb/>
+indubitati originalis, ego Petrus Ruttens notarius publicus <lb/>
+hic me subscripsi, signumque manuale supposui consuetum <lb/>
+Amstelodami 29<hi rend="superscript">a</hi> iulii 1617. </p>
+<p>Ruttens notarius publicus subscripsi </p>
+<p>anno 1617 </p>
+<pb n="329v" facs="04_329v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="330r" facs="04_330r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="330v" facs="04_330v" rend="90"/>
+<p>Sicurtà del Quingetti per <lb/>
+27 mila ducati </p>
+<p>nella 3<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "anche" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-v-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o" corrected above "-a"; followed by "dell" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Damaged page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Corrected above "affarmer."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "SS. VV." corrected above "S(ereni)tà."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "volontà" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Damaged page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Damaged page.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Damaged page.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "commesse" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "questi paesi" added in the internal margin.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "in questi paesi" added above the line.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Second "-i-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Fold in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.019 date 1621-04-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 84r-85v, 89r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">84r-85v, 88r-89v, 86r-87v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>With agreement between Spinola and princes of the union, the States General fear the army might attack the UP. Potential preparations in Maastricht, but fear they can be attacked from anywhere. Relief about reports from their ambassadors in France that the king remains committed to support them. Van Aerssen has visited Suriano for more support by Venice and has received intelligence that his letters might be intercepted. Reports a conversation with Adriaen de Manmaker on dispute with Venice and french court. Requests for appointment of ambassador for Venice and Calandrini requests reimbursements. One text attached: the capitulation of the princes of the union to marchese Spinola</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-04-26">26 aprile 1621</date>
+            <num>028, 029</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="028">
+<div type="main" facs="main text of letter" n="028">
+<!--<p>26 aprile 1621, L’Aia (cc. 84r-85v, 88r-89v)</p>-->
+<pb n="084r" facs="10_084r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 294 comincia 293 </p>
+<p>Serenissimo Principe </p>
+<p>imaginandosi li signori Stati Generali, che l’accommodamento seguito in Alemagna <lb/>
+et l’assettamento sicuro, che procurerà il marchese Spinola<ptr target="#tn1" n="1"/> in quella parte possi dargli <lb/>
+materia di non fermarsi di vantaggio in quelle parti, si persuadono, che <lb/>
+Spagnuoli all’armi vittoriose non habbino là a far<ptr target="#tn2" n="2"/> punto fermo, ma <lb/>
+habbino a proseguir altrove li loro attentati, onde la piena delle <lb/>
+loro forze più commodamente habbi a descender in queste Provincie. <lb/>
+Con ogni più esquisita diligenza adunque vanno l’Eccellenze sue et il signor <lb/>
+principe Mauritio dando ordini necessarii, et supplendo a quelle provisioni, che sono proprie. Et pensano oltre gl’argumenti fatti <lb/>
+et arrivati quasi del tutto commandar la levata di quattromilla <lb/>
+fanti per metter in guarnigione nei presidii. Saranno genti del <lb/>
+Paese, come dir cernide, che qui chiamano walgerders, et servi-<lb/>
+ranno per poter levar<ptr target="#tn3" n="3"/> altrettanti de’ vecchi soldati per <lb/>
+valersene in campagna. </p>
+<p>Hanno havuto avviso, che Spagnuoli si preparino alla gagliarda, <lb/>
+che a Mastricht si facci un ammasso di genti in buon numero, <lb/>
+che quivi havendo a capitar di ritorno il marchese Spinola, <lb/>
+si gionteranno quelle truppe con quelle ch’egli condurrà <lb/>
+di Alemagna. </p>
+<p>Temono di esser attaccati da diverse parti<ptr target="#tn4" n="4"/>, onde non si pretermette <lb/>
+diligenza per prender in ogni luoco. Sicuri, che sostenendo il <lb/>
+primo assalto, non potranno Spagnuoli far alcun progresso di <lb/>
+momento. </p>
+<p>Sono entrati in speranza, che il Re christianissimo non sia per abandonarli rom-<lb/>
+pendosi la guerra, havendoglielo scritto gl’ambasciatori suoi, che lo <lb/>
+hanno detto anco in voce sendo arrivati qui sabbato a notte <lb/>
+et li Francesi tutti, che rivengono dalla<ptr target="#tn5" n="5"/> corte alle<ptr target="#tn6" n="6"/> loro cariche
+<pb n="084v" facs="10_084v" rend="0"/>
+parlano della medesima maniera, et parmi di haver assai ben compreso, <lb/>
+che desiderando sua Maestà sodisfattione in alcune cose, questi signori <lb/>
+tenteranno ogni via possibile per dargliela. Restano contenti di <lb/>
+questi buoni raporti, et li loro fondamenti sin qui sono sopra questa <lb/>
+speranza della Francia, et sopra quello che sicuramente si promettono <lb/>
+in virtù dell’aleanza dalla Serenità vostra tanto d’ordinaria mensual <lb/>
+contributione, che occorrendo, et potendo di estraordinaria. Al qual <lb/>
+proposito, sendomi il signor Francesco Arsen venuto a veder avanti <lb/>
+hieri mi andò dicendo qualche cosa, et principalmente che si andava <lb/>
+maturando il tempo di goder del frutto dell’aleanza di vostra Serenità per il biso-<lb/>
+gno, che apparente si vedeva, che dovesse haver questa Republica. <lb/>
+Io risposi, che havevo già spedito alla Serenità vostra l’instanza delli <lb/>
+signori Stati, et che la risposta, che mi fosse venuta l’haverei data; <lb/>
+et esso soggiunse, che non era aspettata, che propria a quella sicurezza <lb/>
+che queste prvincie haveranno sempre dell’affetto della serenissima <lb/>
+Republica verso di loro, et propria all’obligo del contratto. Qualcheduno <lb/>
+di questi signori m’ha detto haver presentito, che le mie lettere publiche <lb/>
+erano state intercette, et dal tempo faccio conto che possino esser <lb/>
+quelle colle quali veniva l’instanza a nome dei signori Stati, <lb/>
+et le loro lettere. Tuttavia non havendo alcun avviso da lei non <lb/>
+lo credo, aspetto il dispaccio di questa settimana, che non può <lb/>
+tardar ad arrivarmi, et sono avvertito, che questi signori Stati, <lb/>
+et sua Eccellenza anco aspettano con curiosità questa risposta. </p>
+<p>Sendo arrivati come ho riverentemente detto li quattro ambasciatori dalla corte di <lb/>
+Francia sabbato a notte, hieri appresso il disnare<ptr target="#tn7" n="7"/> fui a visitarli <lb/>
+cadauno alla sua casa dandoli la ben venuta. Mi accolsero con <lb/>
+termine, et affetto cortese, et mi dissero quello che vostra Serenità
+<pb n="085r" facs="10_085r" rend="0"/>
+haverà già inteso della risolutione del Re sopra il negotio della <lb/>
+Valtelina, et che essi non havevano tralasciato ufficio et con la Maestà <lb/>
+sua, et con li ministri perché si prendesse a cuore negotio così grave <lb/>
+et di tanto momento. Lodai quanto havevano operato, et li <lb/>
+ringratiai, che havessero havuta così buona cura d’incontrar <lb/>
+colla mente della Serenità vostra intenta al bene di quei popoli, et al <lb/>
+servitio, et interesse commune. </p>
+<p>Un solo delli quattro che fu manamacher di Zelanda uscì a dirmi che <lb/>
+li spiaceva infinitamente che egli, et li suoi collega non havessero potuto <lb/>
+haver l’honore di conferir di presenza colli<ptr target="#tn8" n="8"/> signori ambasciatori della Serenità vostra, <lb/>
+ma che l’accidente non l’haveva portato. Io dissi, che non credevo che <lb/>
+dalli eccellentissimi signori ambasciatori fosse mancato, et egli rispose che manco da loro, <lb/>
+ma che la causa era stato quel puntiglio ch’io<ptr target="#tn9" n="9"/> potevo <lb/>
+sapere, al quale non havevano veduto di poter ceder in quella <lb/>
+corte, ove altri ministri de’ principi si vantano di voler haver <lb/>
+vantaggio sopra gli ambasciatori de’ Paesi Bassi. Io succintamente li dissi, <lb/>
+che si potevano le loro signorie contentare di quel titolo, che haveva <lb/>
+havuto monsignor Langarach, che s’n’era<ptr target="#tn10" n="10"/> contentato, cedendo a quello di <lb/>
+Eccellenza, rispose, che questo era negato da Langarach; che era <lb/>
+ben stato a visita delli signori ambasciatori ma che havendogli dato un <lb/>
+titolo (che disse era un poco più di illustrissimo) non lo saprei hora <lb/>
+esprimer, subito fu interrotta di nuovo la pratica. Io risposi <lb/>
+che altrimenti ero avvertito, et ero certo che monsignor di Langarach s’era <lb/>
+contentato di ceder, et dar dell’Eccellenza, et così col negare, et io affermare fu tronco il ragionamento. Se posso far giudicio credo <lb/>
+che questo sia stato il principale, ch’ha sostentato. L’eccellentissimo signor <lb/>
+Trivisano ha conosciuto il detto manamacher in Zelanda
+<pb n="085v" facs="10_085v" rend="0"/>
+che risiede a Midelburg per la nobiltà. Sendo parlato di questo <lb/>
+negotio sostenterò la dignità publica, et la ragione di vostra Serenità. </p>
+<p>Hora, che sono tornati questi ambasciatori doverà adempirsi la profetia <lb/>
+per la nominatione di ambasciatore ordinario appresso la Serenità vostra, et parmi <lb/>
+che già se ne risenti, poiché la settimana passata quello che <lb/>
+presiedeva eccitato anco dal signor principe Mauritio disse, che <lb/>
+hormai pareva tempo che si facesse questa elettione, et che <lb/>
+poiché pareva le provincie tutte esser risolute eccetto quella <lb/>
+di Holanda, ch’era bene che se ne risolvesse, altrimenti si <lb/>
+haverebbe pensato al meglio. Altro poi non è seguito, ma <lb/>
+spero per certo, che si venirà in fine a perfettione anco di <lb/>
+questo negotio, che riuscirà per ogni rispetto di mio grandissimo <lb/>
+sollievo; et credo non tarderà più molto. </p>
+<p>Il Calandrini, et compagni mi hanno pregato con grandissima instanza<ptr target="#tn11" n="11"/> in loro <lb/>
+lettere di supplicar vostra Serenità, che dia ordine per il pronto esborso <lb/>
+delle di cambio, che già hanno havuto da me, perché il Noirott <lb/>
+che le deve riscuoter sia favorito per haver prontamente il contante. Gratie etc. </p>
+<p>Dall’Haya li 26 aprile 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="088r" facs="10_088r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="088v" facs="10_088v" rend="270"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="089r" facs="10_089r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="089v" facs="10_089v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 294 comincia 293 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="028">
+<!--
+<p n="089vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 aprile 1621 ricevute 19 maggio n° 294 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>Provisioni de’ stati per dubbio, che fer-<lb/>
+mare dal Spinola le cose in <lb/>
+Alemagna porti l’armi contro <lb/>
+di loro. </p>
+<p>S’era havuto aviso Spagnoli si pre-<lb/>
+parassero a Mastrich, ove haveva <lb/>
+a capitar il Spinola. </p>
+<p>Li Stati temevano esser attaccati <lb/>
+da più parti. </p>
+<p>Erano in speranza di non esser ab-<lb/>
+bandonati dal Christianissimo, havendone <lb/>
+la compositione da loro ambasciatori tornati <lb/>
+di Franza. </p>
+<p>Si fondavano anche sopra l’aleanza <lb/>
+colla Republica, et l’Arsen ha detto al secretario, che s’avicinava il tempo di goder il ben della medesima legge. </p>
+<p>Risposta del secretario generale. </p>
+<p>Dubio che siano state intercette <lb/>
+alcune sue lettere. </p>
+<p>Li ambasciatori de’ stati havian affirmato <lb/>
+d’haver essequiti buoni ufficii <lb/>
+nel proposito<ptr target="#tn12" n="12"/> della Valtellina. </p>
+<p>L. SS. R. </p>
+<p n="089vD">———</p>
+<p>Uno delli detti amcasciatori trovò <lb/>
+il dispiacere di non essersi<ptr target="#tn13" n="13"/> <lb/>
+trovati con quelli della Republica <lb/>
+per qualche puntiglio de’ titoli con <lb/>
+risposte et repliche in tal proposito. </p>
+<p>Hora si pensava alla nominatione d’ambasciatore alla Republica, et tutte le provincie <lb/>
+paravano in ciò resolute <lb/>
+fuorché quella d’Olanda. </p>
+<p>Il Calandrini et altri <lb/>
+hanno fato instanza <lb/>
+per l’esborso. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="029" corresp="028" source="86r-87v" >
+<div type="main" facs="main text of attachment I" n="029" corresp="028" >
+<!--<p>Allegato I al n. 28 (cc. 86r-87v)</p>-->
+<pb n="086r" facs="10_086r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Suriano de’ n° 294 </p>
+<p>Capitulationi accordate col mezo delli principi elettore di Magonza <lb/>
+et Lodovico landtgrave d’Hassia tral signor marchese Spinola capitan generale dell’essercito della Maestà cesarea nel Palatinato dall’una; <lb/>
+et li signori Joachino Ernesto marchese di Brandeburgh general dell’<lb/>
+essercito dell’unione evangelica; et Giovanni Federico duca di Wirtimbergh dall’altra tanto per nome loro, che delli principi, <lb/>
+et stati uniti </p>
+<p>Primieramente resta accordato tra li detti principi, et stati di astenersi di <lb/>
+qua avanti da qual si sia hostilità, di modo che li principi, et stati dell’Unione né il loro essercito in alcuna maniera offenderanno <lb/>
+né il marchese Spinola, né la sua gente, né li luoghi, che sono nella <lb/>
+sua potestà, et altri compresi in questo trattato, né le terre, o dominii <lb/>
+loro, et che non aiuteranno Federico palatino con denari, soldati, <lb/>
+overo in altro modo né direttamente, né indirettamente perse né contra <lb/>
+la Maestà cesarea; né anco la rinovelleranno; ma prima dello spirar <lb/>
+del termine dell’Unione cioè delli 14/4 del prossimo mese di maggio <lb/>
+levino, et faccino partir, le loro genti così proprie come communi <lb/>
+del Palatinato, et altri luochi occupati per difesa d’esso Palatinato, et restino fedeli, et obedienti principi, et stati alla Maestà cesarea; come <lb/>
+di questo più volte hanno per l’innanti contestato presso la Maestà sua. </p>
+<p>All’incontro il signor marchese Spinola di qua innanzi non tenterà hostilità <lb/>
+alcuna contra le persone delli sudetti principi, et stati uniti loro <lb/>
+soldati, officiali, sudditi, piazze, città, et terre, né con depredationi <lb/>
+essationi incursioni, né in qualsisia altro modo. </p>
+<p>In questo trattato s’intendono compresi tanto li nominati nell’accordo <lb/>
+di Ulma, come gl’altri elettori, principi, stati, nobili dell’Imperio <lb/>
+tanto catholici, che evangelici: tuttavia non intendono le parti <lb/>
+disporre in ciò alcuna cosa delle terre di Giuliers. </p>
+<p>Per quello poi, che tocca a Federico palatino a cui le cose sudette <lb/>
+non appartengono il detto marchese Spinola ha promesso ad <lb/>
+instanza del re della Gran Bertagna, che da hora sino al termine
+<pb n="086v" facs="10_086v" rend="0"/>
+delli 14/4 di maggio non passerà innanti all’essecutione del suo carico <lb/>
+contra la persona sua, et beni né per sé né col mezo d’altri; con <lb/>
+questa conditione però, che li principi dell’Unione faranno, che le <lb/>
+truppe proprie del detto Palatino sendo nel Palatinato, ovvero altri <lb/>
+luochi vicini non faranno in questo mentre hostilità contra ’l <lb/>
+detto marchese Spinola, al suo essercito, et luochi da lui tenuti <lb/>
+né contra alli fedeli stati dell’Imperio, né contra li suoi ministri, et <lb/>
+sudditi. </p>
+<p>Et perché li principi vicini, stati, sudditi, et altri nelli territorii loro <lb/>
+dai soldati dell’Unione, o d’altra parte non siano aggravati, overo <lb/>
+offesi hanno li sopranominati principi di ambidoi gl’esserciti pro-<lb/>
+messo seriosamente, et certamente fare, che tutte l’escursioni, depredationi, <lb/>
+o qualsivoglia altra infestatione saranno totalmente prohibite <lb/>
+et cesseranno nelle loro terre, et paesi, et che la sicurezza delle <lb/>
+stradde et del comercio sarà promossa. </p>
+<p>Per confermatione maggiore del tutto hanno li detti principi d’ambedoi le <lb/>
+parti con li principi intervenienti roborato con li suoi sigilli, et <lb/>
+sottoscritioni questi articoli. Et il marchese Spinola procurerà, che <lb/>
+quanto prima essi siano confirmati per la Maestà cesarea, et l’arciduca <lb/>
+Alberto. </p>
+<p>Fatto a Magonza li 12/2 d’aprile 1621 erano sotto signati. </p>
+<p>Ambrosio Spinola. Ischiehard<ptr target="#tn14" n="14"/> arcivescovo di Magonza. Lodovico <lb/>
+landtgrave d’Hassia. Ioachim Ernesto marchese di Brandemburg <lb/>
+et Gio. Federico duca di Wirtimbergh. </p>
+<pb n="087r" facs="10_087r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="087v" facs="10_087v" rend="270"/>
+<p>Capitulationi dei principi dell’<lb/>
+Unione col marchese Spinola </p>
+<p>nella prima n° 293 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-ne" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "pa-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "sapevo" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "s’n’era" improper or peculiar spelling by the writer; "n’" added above the line with an insertion mark.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-posito" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

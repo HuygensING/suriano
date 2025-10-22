@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.007 date 1619-04-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 40r-41v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">40r-41v, 42r-43v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The magistrates from Enkhuizen have sent a secretary to represent the case of Pieter Dirichson who had rented a ship from Alessandro Lancelotto, a merchant in Genoa, to transport yeast to Durrës but has been withheld by Venetian army. As Lancelotto had not received the yeast, he did not want to pay, Suriano responds the Republic of Venice does not intervene in these matters. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-04-18">18 aprile 1619</date>
+            <num>011, 012</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="011">
+<div type="main" facs="main text of letter" n="011">
+<!--<p>18 aprile 1619, L’Aia (cc. 40r-41v)</p>-->
+<pb n="040r" facs="08_040r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il magistrato di Encusen col mezo del suo secretario mi ha fatto rappresentar <lb/>
+l’aggravio, di che pretende esser sollevato Pieter Dirichson Dol patrone <lb/>
+di un vassello, che noleggiato dal signor Alessandro Lancelotto mercante in <lb/>
+Genova per caricar formenti a Durazzo è stato li giorni passati <lb/>
+trattenuto dall’armata di vostra Serenità, et fatto scaricar esso formento per <lb/>
+servitio di lei. Non havendo il detto Lancelotto ricevuto il formento <lb/>
+non ha voluto al detto marinaro pagar il suo<ptr target="#tn1" n="1"/> noleggio stipulato <lb/>
+per mese in reali da otto quattrocento cinquanta: et dicendo di <lb/>
+esser stato sopra il detto viaggio tre mesi, et sei giorni fino al <lb/>
+tempo che è stato scaricato pretende per ciò mille quattrocento <lb/>
+et quaranta di detti reali da otto; et di più l’interesse di <lb/>
+settecento ducati, quali per necessità il detto marinaro Pieter <lb/>
+Dirchson ha presi ad interesse, non havendo ricevuto il pagamento <lb/>
+del suo noleggio. Ancorché io habbi fatto apparere al detto <lb/>
+secretario non esser costume della serenissima Republica, o de’ suoi rappresen-<lb/>
+tanti il pigliar cosa alcuna, et massime fuori de’ vasselli di questi <lb/>
+paesi, che non diano intero contentemento<ptr target="#tn2" n="2"/> in ogni modo m’è andato <lb/>
+confermando che l’huomo non era stato sodisfatto del suo noleggio <lb/>
+et che non potendolo haver dal mercante, che lo haveva noleggiato <lb/>
+era di dovere, che si drizzasse a vostra Serenità come a<ptr target="#tn3" n="3"/> quella nel cui servitio <lb/>
+è restato esso formento: et tanto m’ha replicato per nome <lb/>
+dei borgomastri, et magistrato della detta città, che non ho <lb/>
+potuto tralasciar di sodisfar all’instanza con rappresentarle <lb/>
+il successo, la pretensione, et il desiderio di detti signori che esso <lb/>
+marinaro habbi il suo pagamento. Gratie etc. </p>
+<p>Dall’Haya a’ 18 aprile 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="040v" facs="08_040v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="041r" facs="08_041r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="041v" facs="08_041v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="011">
+<!--
+<p n="041vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 april 1619 ricevuta a’ 13 detto maggii </p>
+<p>Haya </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="012" corresp="013" source="42r-43v" >
+<div type="main" facs="main text of attachment I" n="012" corresp="013" >
+<!--<p>Allegato I al n. 13 (cc. 42r-43v)</p>-->
+<pb n="042r" facs="08_042r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia di scrittura in francese datami per nome del signor principe Henrico <lb/>
+tradotta in italiano et posta a capo per capo come sta <lb/>
+nell’autentica </p>
+<table>
+<row role="label">
+<cell><p>[1.] Proiet des conditions sur lesquelles on pourroit<ptr target="#tn4" n="4"/> accepter la charge de general <lb/>
+des troupes de deça les monts au service de la serenissime republicque de Venise. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>[1.] Proietto delle conditioni sopra le quali po-<lb/>
+trebbe accettarsi la carica di general delle <lb/>
+truppe di qua dai monti al servitio della <lb/>
+serenissima Republica. </p></cell>
+<cell><p>Questa carica s’intende simile a quella <lb/>
+del conte di Vademont quanto al titolo, ma <lb/>
+quanto alle conditioni, et oblighi si deve <lb/>
+alterare secondo che parerà alla serenissima Republica <lb/>
+et sarà stimato accettabile. </p></cell>
+</row>
+<row>
+<cell><p>2. Primierement<ptr target="#tn5" n="5"/> sy le dict general en l’exercice de la dicte charge n’a à <lb/>
+recognoistre superieur, et commendeur aultre que ce lui qui portera <lb/>
+tiltre, et qualité de capitaine general de l’armée. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>[2.] Primieramente se ’l detto generale nell’esser-<lb/>
+citar la detta carica non ha a riconoscer <lb/>
+altro superiore, o commandatore, che quello <lb/>
+che porterà il titolo, et qualità di capitano <lb/>
+general dell’armata. </p></cell>
+<cell><p>Intende di dover obedir colla carica <lb/>
+di general delle truppe di qua dai monti <lb/>
+a quel capo, che haverà il supremo <lb/>
+commando nell’armata, oltre il gene-<lb/>
+ralissimo rappresentante la serenissima Republica. <lb/>
+In questo sarà necessario che sia specificato <lb/>
+se doverà anco prestar obedienza alli <lb/>
+illustrissimi proveditori, et altri rappresentanti sua <lb/>
+Serenità in absenza del generalissimo. </p></cell>
+</row>
+<row>
+<cell><p>3. Si l’on donne au dict general iustice souveraine, et absolute sur les troup-<lb/>
+pes de son commendement s’il donne les commissions, et pouruoit à toutes <lb/>
+les charges vacantes. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>[3.] Se viene data al detto generale giusti-<lb/>
+tia soprana, et assoluta sopra le trup-<lb/>
+pe del suo commando, et se darà <lb/>
+le commissioni, et provederà alle cariche <lb/>
+vacanti tutte. </p></cell>
+<cell><p>In questo par che sia ordinario, che <lb/>
+un tal capo di militia habbi la sua <lb/>
+auttorità retta conforme all’uso dal Consi-<lb/>
+glio di guerra. Et quanto alla distribu-<lb/>
+tione delle cariche vacanti non so l’autto-<lb/>
+rità, che haveva il conte di Vademont. <lb/>
+Starà adunque alla serenissima Republica di <lb/>
+farne la dichiaratione. </p></cell>
+</row>
+</table>
+<pb n="042v" facs="08_042v" rend="0"/>
+<table>
+<row role="label">
+<cell><p>4. Si l’on luy veut entrenir en temps de paix comme en temps de guerre un regi-<lb/>
+ment de gens de pied de 12 ou 15 compagnies suivant les guaies, et conditions qui <lb/>
+seront arrestes ci apres, et ce pour conserver un fond de milice dont on puisse tirer <lb/>
+personnes d’experience, et capables d’estre emploies aux charges. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>4. Se se gli vuol trattenere in tempo di pace come <lb/>
+in tempo di guerra un reggimento di genti da <lb/>
+piedi di dodici o quindeci compagnie in con-<lb/>
+formità delle conditioni che appresso saranno <lb/>
+stabilite, et questo per mantener un fondo <lb/>
+di militia della quale si possino tirar persone <lb/>
+d’esperienza, et capaci di esser impiegate nelle <lb/>
+cariche. </p></cell>
+<cell><p>Questo è per modo di avviso perché starà <lb/>
+alla serenissima Republica far quello, che stimerà <lb/>
+di suo servitio, et tanto viene detto <lb/>
+rispetto, che par che si habbi cavato <lb/>
+che al conte di Vademont veniva intartenuta <lb/>
+qualche cavalleria, et infanteria in tempo <lb/>
+di pace. </p></cell>
+</row>
+<row>
+<cell><p>5. Si l’on luy entretien parelliement en temps de paix, comme en temps de guerre <lb/>
+quattre hommes de commendement en l’infanterie, avec tiltres, et gaies de coronel <lb/>
+et trois à la cavallerie à fin de pouvoir conserver de personnes de merite, et qualité dont <lb/>
+on se puisse servir utilement, et asseurement<ptr target="#tn6" n="6"/> par la levée dont sera faiet <lb/>
+mention cy dessus. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>5. Se gli è parimente trattenuto in tempo di pace, <lb/>
+come in tempo di guerra quattro huomini di <lb/>
+commando nell’infanteria con titolo, et paga <lb/>
+di colonello, et tre alla cavalleria a fine di <lb/>
+poter conservar persone di merito, et qualità <lb/>
+delle quali si possi servir utilmente per la levata <lb/>
+di che sarà sopra ciò fatta mentione. </p></cell>
+<cell><p>Questa propositione è anco per avviso, che <lb/>
+si rimette alla prudenza di sua Serenità per il suo <lb/>
+miglior servitio, come anco per il trattener li <lb/>
+detti soggetti darà la serenissima Republica quella pen-<lb/>
+sione alle persone loro, che stimerà a proposito <lb/>
+et ragionevole massime per il tempo della <lb/>
+pace. </p></cell>
+</row>
+<row>
+<cell><p>6. Pour le gaies, et traictement de la personne du dict general on se rimettera pure-<lb/>
+ment, et simplement à la liberale discretion de la serenissime Republicque. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>6. Per la paga, et trattamento della persona del <lb/>
+detto generale si rimetterà puramente et <lb/>
+simplicemente alla liberale discrettione della <lb/>
+serenissima Republica. </p></cell>
+<cell><p>Non ha voluto dichiarir il stipendio <lb/>
+ma chi ha parlato ha mostrato di creder, che <lb/>
+la serenissima Republica non vorrà trattarlo meno del conte <lb/>
+di Vademont. Ma li fu considerato, che ’l <lb/>
+Conte haveva carica di gran condotta di genti <lb/>
+et che vi erano delle altre considerationi. <lb/>
+La risposta fu, che si assicurava il signor Principe <lb/>
+che sarebbe stato trattato conforme alle sue <lb/>
+qualità; ma che si protestava di non mi-<lb/>
+rar a questo; ma all’honor che li faceva <lb/>
+la serenissima Republica. </p></cell>
+</row>
+</table>
+<pb n="043r" facs="08_043r" rend="0"/>
+<table>
+<row role="label">
+<cell><p>7. Et moiennant les conditions ci dessus le dict general s’obligeroit de faire la <lb/>
+levée de dix mil hommes de pied, et mil de cheval toutes et quante fois qu’<lb/>
+il en seroit requis, et avire à temps par la serenissime Republique pour lettres <lb/>
+de la quelle levée se pourroit faire plus ample traicté à conditions iustes, <lb/>
+et raisonables lors que la dicte charge seroit acheptée, et aprouvée de <lb/>
+part, et d’aultre. Et pour ceste raison ne seroit pas mal à propos que <lb/>
+monsieur le resident eust particuliere charge d’en accorder à fin de <lb/>
+abreger le temps, et en avoir pas la paine d’envoier, et reanvoier si sou-<lb/>
+vent à Venise par une mesme chose. </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>[7.] Et stanti le conditioni dette di sopra il detto <lb/>
+generale si obligarebbe di far la levata di <lb/>
+diecimilla huomini da piedi, et mille da <lb/>
+cavallo, sempre che sarebbe ricercato, et <lb/>
+avertito dalla serenissima Republica opportunamente <lb/>
+con lettere per la qual levata si potrebbe far <lb/>
+più amplo trattato a conditioni giuste, <lb/>
+et ragionevoli allhora che la detta carica <lb/>
+sarebbe accettata, et approbata da una, <lb/>
+et l’altra parte, et per questa ragione <lb/>
+non sarà mal a proposito, che ’l signor residente <lb/>
+havesse particolar carica di accordare a fin di <lb/>
+abreviar il tempo, et non haver la pena d’<lb/>
+inviare, et reinviare così spesso a Venetia per <lb/>
+una medesima cosa. </p></cell>
+<cell><p>Si offerisce di far oltre li diecimilla <lb/>
+fanti anco mille cavalli; ma s’intende <lb/>
+però sempre, che possi haver il passaggio <lb/>
+non essendo apparenza di poterli condur <lb/>
+per mare, se non fosse di condur gl’huomini <lb/>
+imbarcandoli con le loro armi, et altri arnesi <lb/>
+et che la Republica li facesse di là metter a cavallo. <lb/>
+Ma altrimenti li convertirebbe in tanti <lb/>
+fanti da piedi doi milla, o tre milla più <lb/>
+del suo obligo. </p>
+<p>Li diecimilla fanti vorrebbe ridurli sotto <lb/>
+cinque colonelli doi di questo Paese, uno <lb/>
+francese, uno inglese, et uno alemano <lb/>
+per haver più facile, et più pronta la levata <lb/>
+la quale dove si facesse dovesse anco esser <lb/>
+coadiuvata dalli ambasciatori, o ministri di <lb/>
+sua Serenità per il suo compito buon effetto <lb/>
+li quali anco sia in Francia, o in Inghilterra o <lb/>
+altrove provederanno dei vasselli per imbar-<lb/>
+car le genti. Il qual carico lo lascierà </p></cell>
+</row>
+</table>
+<p>alla dispositione di sua Serenità perché faccia quello, che le tornerà conto, non volendo che si <lb/>
+pensi che vogli profitar in questo; et tanto pagarà per la soldatesca per li viveri quanto si <lb/>
+potrà accordar con li patroni dei vasselli. </p>
+<p>Colla divisione di x mila fanti sotto cinque colonelli è compreso il numero di 150 teste per compagnia <lb/>
+et in una truppa sì grossa, come in ogn’altra parmi, che sarebbe meglio, che le compagnie <lb/>
+fossero forti di doicento fanti. Tuttavia starà a sua Serenità il dir il più, o il meno secondo <lb/>
+che stimerà a proposito, o come le haveva il signor conte di Vademont, dichiariando in questo il <lb/>
+numero<ptr target="#tn7" n="7"/> perché io non lo so. </p>
+<p>Si lascia intender il signor Principe, che quanto alla<ptr target="#tn8" n="8"/> paga dei capitani, et dei officiali <lb/>
+et soldati in generale a quel piedi sopra il quale si trovano al presente le militie olramantane<ptr target="#tn9" n="9"/> <lb/>
+che sono al servitio di sua Serenità, o quello che fosse da lei stabilito. </p>
+<p>Per la levata anco si accommoderà al ragionevole. Al conte Gio. Ernesto di Nassau furono dati <lb/>
+14 fiorini per testa per la levata, et dodici et mezo al colonello Anstenraedt non ho potuto cavar <lb/>
+quello che si pretende dal signor Principe. Vostra Serenità ha da dichiarir il suo senso, et si tirerà anco meno <lb/>
+se sarà possibile di quello che ha havuto l’Anstenraedt. </p>
+<p>Mi è stato replicato se non havendosi detto carica di general delle truppe di qua da’ monti <lb/>
+fosse stimato bene che havesse la carica di marascial di campo generale, che doverebbe comman-<lb/>
+dar all’armata in mancamento di quel capo, che havesse il commandamento supremo. Oltre il generalissimo come <lb/>
+quello che rappresenta la stessa Republica come di sopra. </p>
+<pb n="043v" facs="08_043v" rend="270"/>
+<p>2. </p>
+<p>Scrittura per il principe Henrico di <lb/>
+Nassau </p>
+<p>nel n° 98 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o esito di correzione; segue -detto depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Così A."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Esito di correzione."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Prima -o- esito di correzione."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue -te depennato aggiunto in sopralinea."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue p(ar) depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-um- esito di correzione."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue ga depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Così A."</p></note>
+</div>
+</body>
+</text>
+</TEI>

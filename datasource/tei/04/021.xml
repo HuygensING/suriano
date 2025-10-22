@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.021 date 1617-04-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">021</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 108r-112v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Fort Fuentes was built by governor of Milan in 1603, near Lake Como, in response to the French-Swiss treaty in 1602, blocking entrance to Chiavenna which had left Spain without a satisfactory route for their own troops.
+            </note>
+            <biblScope unit="page">108r-112v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has heard from multiple sources about the plans to demolish Fort Fuentes. News from Brabant of a temporary cease fire in Piedmont and conditions negotiated by Cardinal Lodovisco. Oldenbarnevelt has negotiated a favourable position for his son in Bergen op Zoom </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-04-18">18 aprile 1617</date>
+            <num>037</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="037">
+<div type="main" facs="main text of letter" n="037">
+<!--<p>18 aprile 1617, L’Aia (cc. 108r-112v)</p>-->
+<pb n="108r" facs="04_108r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>monsignor di Langarach di Parigi ha scritto a questi signori <lb/>
+che il signor Alfonso Casale haveva capitulato con <lb/>
+Grisoni la demolitione del forte Fuentes, il passo <lb/>
+libero per genti al servitio dello stato di Milano, <lb/>
+l’esclusione della lega di vostra Serenità, che non le fosse permesso <lb/>
+né genti né transito senza loro consenso, et altro. <lb/>
+Tutto ciò mi fu detto dal signor principe Mauritio, et che Langarach lo scriveva, come di cosa fatta <lb/>
+addimandandomi quello, che ne<ptr target="#tn1" n="1"/> tenevo. <lb/>
+Havendo io havuto dal clarissimo Padavino quanto <lb/>
+esso Casale haveva accordato con li deputati dai <lb/>
+capi delle leghe a beneplacito della communità <lb/>
+tanto dissi all’Eccellenza sua et qui non lasciai di farle <lb/>
+constare, come si caminava con artificii, et come <lb/>
+varie riuscivano le promesse fatte alla Serenità vostra <lb/>
+dalla parte di Francia aggiungendo quel più, <lb/>
+che stimai proprio in questo particolare rispose <lb/>
+che pur troppo si vedevano in questi tempi <lb/>
+unite le volontà della Francia con quelle della </p>
+<pb n="108v" facs="04_108v" rend="0"/>
+<p>Spagna; ma che li piaceva intender, che la cosa non <lb/>
+fosse così risoluta come pareva, che monsignor di Langarach <lb/>
+la scrivesse; et havendomi detto<ptr target="#tn2" n="2"/> sua Eccellenza, che haveva intesi <lb/>
+li sudetti particolari dal signor Bernvel trovata buon occasione <lb/>
+di esser seco domenica sotto pretesto di visita, et di <lb/>
+addimandar l’audienza, come a quello, che entrava <lb/>
+presidente in settimana, mostrai curiosità di saper <lb/>
+lo scritto. Mi disse, che non credeva, che ciò, che <lb/>
+haveva scritto il signor di Langarach fosse tutto vero <lb/>
+significandomi tutto quello, che dall’Eccellenza sua mi era <lb/>
+stato detto; aggiungendo Spagnuoli non tralascierà <lb/>
+cosa intentata per contrastar alla serenissima Republica. Anco <lb/>
+al signor ambasciator d’Inghilterra viene scritto pur di Parigi <lb/>
+nella stessa sostanza, et che monsignor Giffier si era <lb/>
+unito con il Casale all’esclusione delle trattationi di <lb/>
+vostra Serenità et che le doble spagnuole, et li scudi di <lb/>
+Francia adunati insieme facevano la fortuna alla <lb/>
+serenissima Republica in quel Paese. </p>
+<p>È venuto in Brabant avviso, che là è stato tenuto per
+<pb n="109r" facs="04_109r" rend="0"/>
+vero, che ’l signor cardinal Lodovisio habbi ottenuta una <lb/>
+sospension d’armi nel Piemonte per un mese, con questo <lb/>
+che in tanto Spagnuoli non faccino marchiar le loro levate, <lb/>
+hieri nell’assemblea mi dissero questi signori, che non <lb/>
+credevano l’avviso, ma come si sia Spagnuoli have-<lb/>
+rebbono fatto quello che li fosse tornato commodo. <lb/>
+Et essendosi inteso, che al Papa era stata data certa <lb/>
+auttorità di trattare sopra la pace d’Italia dissero <lb/>
+bisogna tener per certo, che già mai il re di Spagna <lb/>
+accorderà alcuna cosa, che non vi vegga il suo vantaggio <lb/>
+et finché non sia certo di questo, anderà differendo <lb/>
+et promovendo delle difficoltà, o dilationi apparenti <lb/>
+di buona volontà. </p>
+<p>S’intende tuttavia che le genti marchiano, se bene <lb/>
+alcuni de’ soldati cominciavano a fuggire. Et il signor <lb/>
+Bernvel mi disse nell’assemblea, che erano passate <lb/>
+il ducato di Lucemburgh tre giornate di là di <lb/>
+Marsce in Famines. </p>
+<p>Doi di quelli, che haveva spediti il signor principe Mauritio
+<pb n="109v" facs="04_109v" rend="0"/>
+per assicurarsi del loro transito sono ritornati scapati <lb/>
+dalle mani di quelli delli Arciduca<ptr target="#tn3" n="3"/>, che li havevano <lb/>
+per cinque, o sei leghe fugati. Ognuno, che passa viene <lb/>
+ritenuto per ordine dell’Altezze sue ancorché con passaporto <lb/>
+di sua Eccellenza venendo fatto prigione per sospetto, che vadi a <lb/>
+servir li principi essend’ello cognato in particolare di <lb/>
+Buglione. Ha l’Eccellenza sua fatta nuova missione di alcuni <lb/>
+paesani non<ptr target="#tn4" n="4"/> conosciuti, et sta attendendo li <lb/>
+avvisi, che li porteranno. </p>
+<p>Hebbe sua Eccellenza che molto numero di cavallaria, et infanteria <lb/>
+delli arciduchi calava alla volta di Mastrich, ch’è <lb/>
+appunto sul passo per correr a Giuliers; ma ella<ptr target="#tn5" n="5"/> <lb/>
+non si assicura, che l’avviso datole dal fratello suo <lb/>
+naturale governator di Bredà sia vero, et attende altre <lb/>
+lettere, ben ha saputo, che da Meurs sua terra <lb/>
+siano scorsi alcuni cavalli delli arciduchi, il che <lb/>
+le è riuscito molesto, et dicesi, che questi anda-<lb/>
+vano<ptr target="#tn6" n="6"/> per vietar il passo al colonello <lb/>
+Ghent, del quale non si sa ancor, se sia passato
+<pb n="110r" facs="04_110r" rend="0"/>
+ben si è inteso non esser molti giorni, che haveva traversato <lb/>
+per il Palatinato per arrivar su quello di Treviri. <lb/>
+Già è stata ordinata la cavallaria, et infanteria <lb/>
+di questi signori delle vicine guarnisoni a Giuliers <lb/>
+di accostarsi verso quella parte, perché di passar alla <lb/>
+piazza non è stimato proprio, per non vedersi ancor <lb/>
+la necessità, oltre l’influsso, che vi continua della <lb/>
+peste non solo nella stessa piazza; ma ne’ villaggi <lb/>
+circonvicini, ove stano alloggiati i soldati uniti in <lb/>
+gran parte per l’accidente sudetto della peste. </p>
+<p>Li passaporti, che hanno dato li serenissimi arciduchi alli <lb/>
+conduttori dell’armi dicono esser delli doi soli <lb/>
+cantoni di Altorf, et Lucerna, et par che alcuni <lb/>
+formino giudicio, che qui sotto vi sia inganno, et <lb/>
+voglino, che le genti in particolare passino a sedar con conivenza del duca di Lorena. </p>
+<p>È stato riportato, che li principi mal contenti di Francia <lb/>
+habbino trattenuti tre, che dalla corte passavano <lb/>
+a Brusseles, uno altro<ptr target="#tn7" n="7"/> sia scapato, et uno delli
+<pb n="110v" facs="04_110v" rend="0"/>
+ritenuti dicesi che sia monsignor di Altariva colonello in <lb/>
+queste truppe francesi, che ritornava qui. Haveva <lb/>
+lettere per questi ambasciatori, ma più dicono, che tenesse <lb/>
+qualche instruttione di trattar con li serenissimi arciduchi, <lb/>
+a nome di sue maestà christianissime. </p>
+<p>Sabbato mattina li ambasciatori di Francia sono stati nella <lb/>
+Congregatione di Holanda per sollecitar anco appresso li <lb/>
+deputati<ptr target="#tn8" n="8"/> della detta provincia la risposta, et l’effetto <lb/>
+della loro instanza, et tuttavia attendono con <lb/>
+impatienza l’essito. Questa andata nella <lb/>
+congregatione d’una particolar provincia in negotio di <lb/>
+principe, et che ha da esser terminato dal generale <lb/>
+del Paese, il quale è de’ Stati Generali, et del Consiglio di Stato non è stata stimata né propria <lb/>
+né degna; et essi ambasciatori ne vengono poco laudati <lb/>
+ma essendo la provincia di Holanda, come <lb/>
+maggiore il direttorio di tutte l’altre hanno <lb/>
+havute instruttioni proprie dal signor Bernvel in <lb/>
+particolare per quanto si dice di farne conto già
+<pb n="111r" facs="04_111r" rend="0"/>
+ch’ella sta ridotta qui per altri negotii. </p>
+<p>Il governator di Berghem Opensoom è buon pezzo, che sta in <lb/>
+disposto. Il signor Bernvel per avanza nella carica il suo <lb/>
+secondo figliolo ha negotiato con detto Governatore, et ha ridotto <lb/>
+a tale stato l’affare, che vivente ancora ha fatto <lb/>
+andar esso suo figliolo al governo di detta piazza <lb/>
+sotto titolo di provisione, il qual<ptr target="#tn9" n="9"/> <lb/>
+risterà certamente al total reggimento. Riesce questo <lb/>
+agl’emuli del signor Bernvel di disgusto; oltre il <lb/>
+sospetto, che si ha della dipendenza di lui dalla <lb/>
+Francia per esser massime la piazza di frontiera <lb/>
+principale della Zelanda dalla parte di Brabant <lb/>
+non vi essendo di là più che cinque leghe in circa <lb/>
+per arrivar in Anversa. </p>
+<p>Mi è<ptr target="#tn10" n="10"/> detta esser stato scritto al signor principe <lb/>
+Mauritio, che don Alonso di Valasco, che sta appresso <lb/>
+li serenissimi arciduchi soldato di valore, et stimato <lb/>
+di dolce pratica, sia per andar al governo di <lb/>
+Milano in luoco di don Pietro. Il qual avviso
+<pb n="111v" facs="04_111v" rend="0"/>
+qual egli si sia non ho voluto lasciar di riverentemente <lb/>
+significare alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 18 aprile 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="112r" facs="04_112r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="112v" facs="04_112v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="037">
+<!--
+<p n="112vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 aprile 1617 ricevute 3 marzo </p>
+<p>Haia. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> -"on" corrected above "-ei;" followed by "confini" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "ne" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the deleted word with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by deleted words.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "stata" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

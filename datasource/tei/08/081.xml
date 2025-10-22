@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.081 date 1620-01-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">081</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 435r-439v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp135-139
+            </note>
+            <biblScope unit="page">435r-439v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Arrival of Rosellus, ambassador of princes of union, who elaborated on the election and coronation of Frederick of Palatinate as king of Bohemia. He has requested help from States General and has since moved to Amsterdam to collect money of Elizabeth Stuart. The States are proposing to send an embassy to Bohemia and to the Princes of the Union, but will await the result of embassy to English king. Representative of archbishop Cologne has arrived to discuss matters of contribution. The truce will expire next year, but no-one discusses this matter. Not a lot of news from Brabant, except that Torquato Conti has been nominated captain of cavalry. Family of Amstenraedt are deputees in States General for Groningen and Frisia respectively and have spoken with Suriano, who requests guidance on how to deal with these men. Langerack sent letters written by vandermijle in cipher. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-01-20">20 gennaio 1620</date>
+            <num>137</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="137">
+<div type="main" facs="main text of letter" n="137">
+<!--<p>20 gennaio 1620, L’Aia (cc. 435r-439v)</p>-->
+<pb n="435r" facs="08_435r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 172<ptr target="#tn1" n="1"/> comincia 171 </p>
+<p>Serenissimo Principe </p>
+<p>sendo restato a Heidelbergh l’Ambasciatore, che dal re di Bohemia <lb/>
+et da’ principi dell’Unione fu destinato da<ptr target="#tn2" n="2"/> questi signori, come <lb/>
+riverentemente avvisai la passata settimana alla Serenità vostra: quello, <lb/>
+che è venuto in suo luoco è stato spedito dal duca di Duipont <lb/>
+governator dell’elettorato, et è uno dei conseglieri de <lb/>
+Heidelbergh. L’espositione, che fece alli signori Stati fu <lb/>
+dar conto dell’elettione, et coronatione del serenissimo elettore <lb/>
+in re di Bohemia; ringratiar in nome di quel Principe <lb/>
+et degl’altri dell’animo di quello havevano queste Pro-<lb/>
+vincie fatto sin qui, et rappresentar nuova instantia <lb/>
+di aiuti; et tanto più gagliardi, et più pronti, quanto <lb/>
+il bisogno et li presentanei emergenti lo ricercano,<lb/>
+dilatandosi nell’ufficio quanto l’Eccellenze vostre possono <lb/>
+comprender, che l’affare lo richiedesse. </p>
+<p>Ha data per scritto la sua espositione alli signori Stati, et sopra <lb/>
+essa stano consultando per dargliene la risposta. </p>
+<p>Egli intanto se n’è passato in Amsterdam per far il cambio <lb/>
+delli restanti de’ quattrocentomilla fiorini della <lb/>
+dote della moglie del serenissimo Palatino, che si trovano in <lb/>
+quel banco. </p>
+<p>Consulteranno anco questi signori intorno all’ambasciata,<lb/>
+che doveranno mandar in Bohemia, et ai principi
+<pb n="435v" facs="08_435v" rend="0"/>
+dell’Unione per corrisponder alla missione di questo Consigliero: <lb/>
+ma per quanto si può cavare non rischieranno cosa alcuna <lb/>
+che non sentano gl’effetti dell’ambasciata destinata da’ <lb/>
+principi per Inghilterra, et quello che potrà ritrarsi di <lb/>
+frutto dalle promesse del visconte di Doncaster ambasciator <lb/>
+inglese. </p>
+<p>È stato publicato da alcuni (et se bene non ho incontro sufficiente, <lb/>
+che me lo possi accertare; tuttavia non lascierò di dirlo <lb/>
+alla Serenità vostra) che a’ signori Stati sia stata fatta offerta dal re <lb/>
+di Bohemia di obligarli qualche terre nel Palatinato <lb/>
+per tenervi proprie loro guarnigioni fino alla restitu-<lb/>
+tione di certa summa di denaro, che si vorrebbe ad <lb/>
+imprestido. Come ho detto non vi è certezza di questo <lb/>
+ma si sarà, o che vi sia qualche cosa non potrà <lb/>
+esser, che presto non si scuopri; et se vi sarà cosa <lb/>
+che vaglia non mancarò di significarla. </p>
+<p>Il serenissimo elettor di Colonia ha spedito qui uno, che si da <lb/>
+titolo di ambasciatore, et questo per far indoglienza <lb/>
+con questi signori delle lettere scritte ai sudditi del suo <lb/>
+Principe toccante le contributioni, et non a lui; che <lb/>
+l’auttorità di sua Altezza non doveva esser depressa <lb/>
+et simil altri concetti: iscusando tanto le contributioni,
+<pb n="436r" facs="08_436r" rend="0"/>
+che le levate, che ha fatto, et converrà fare, siano per <lb/>
+termine di buon governo, mentre si vede il vicino <lb/>
+armarsi, et si può temere, che sia invaso il suo Stato <lb/>
+et che ’l medesimo fine haveva causata anco la levata <lb/>
+per il fratello duca di Baviera. Ha parlato anco <lb/>
+di qualche altri affari, et particolarmente per far costare non <lb/>
+potersi dal suo Principe dare<ptr target="#tn3" n="3"/> salvacondotto ad<ptr target="#tn4" n="4"/> un tale di<ptr target="#tn5" n="5"/> <lb/>
+Utrecht solito habitar in Lieges, et absentandosi per <lb/>
+essegli stato adossato, che havesse l’anno passato havuta <lb/>
+intelligenza con alcuni in Lieges, che volevano haver libertà <lb/>
+di conscienza, allegando alli signori Stati che era stato <lb/>
+sententiato. L’Ambasciator lo nega: et questi<ptr target="#tn6" n="6"/> signori però <lb/>
+persistono per il detto salvocondotto, et quello all’incontro <lb/>
+procura in quanto può di divertir questa instanza. </p>
+<p>Parmi di scoprire che sia per haver poca sodisfattione <lb/>
+egli l’ha detto a me sendomi venuto a visitar primo <lb/>
+et io li ho restituita la visita. </p>
+<p>Si vede che qui nel punto delle contributioni stano assai <lb/>
+fermi, perché volendosi divertir li aiuti all’Imperatore <lb/>
+tenteranno, et faranno ogni cosa acciò li paesi di Munster,<lb/>
+Lieges, et altri non contribuiscano, o almeno li teniranno <lb/>
+avvertiti per non dir minacciati, che contribuendo al </p>
+<pb n="436v" facs="08_436v" rend="0"/>
+<p>Principe elettore sudetto saranno necessitati a far altrettanto <lb/>
+per di qua. </p>
+<p>Non si vede apparenza, che da questa parte habbino ad <lb/>
+uscir genti per inviar in Alemagna per le ragioni <lb/>
+altre volte humilmente rappresentate da me alla Serenità vostra <lb/>
+ben si contribuiranno denari di mese in mese, et si tiene <lb/>
+per fermo, che si farà anco qualche imprestido. </p>
+<p>All’april prossimo sarà il principio dell’ultimo delli dodici <lb/>
+anni della tregua; et questo in particolare farà pensar <lb/>
+molto bene a non lasciar uscir soldatesca del Paese <lb/>
+per il bisogno, che li signori Stati ne potessero avere. Questo <lb/>
+si crede bene, che non lascieranno di far qualche cosa <lb/>
+quando veggano che gl’arciduchi faccino sforzo per <lb/>
+l’Alemagna. </p>
+<p>Di detta tregua né di là, né di qua si parla, et questi <lb/>
+signori sono risoluti di non aprir bocca ma star a sentire <lb/>
+ciò, che seguirà. Et a questo proposito ho cavato che <lb/>
+arrivati all’ultimo anno della tregua pensano di far <lb/>
+publicar nelle Provincie tutte quando, et a che <lb/>
+tempo doverà spirar la tregua, accioché ognuno <lb/>
+sia avvertito per accorrer al bisogno. Chi l’ha detto è <lb/>
+soggetto principale, et necessariamente la consultatione n’è stata fatta. </p>
+<pb n="437r" facs="08_437r" rend="0"/>
+<p>Fin qui non s’intende di Brabant (me lo scrive il Pasini <lb/>
+solicito, et devoto al subito verso il servitio publico) se non <lb/>
+che ’l signor Torquato Conti nipote del già Cardinale di <lb/>
+questo nome haveva cominciato a dicchiarir li capitani <lb/>
+di sette compagnie<ptr target="#tn7" n="7"/> di cavallaria, che da’ serenissimi arcidu-<lb/>
+chi gli è stato permesso di levar nei loro stati, ai <lb/>
+confini però di essi. Dice bene, che si parla anco di <lb/>
+far altre levate; ma non si vede alcun effetto, credesi <lb/>
+che vi sarà quella anco del conte Giovanni di Nassau. </p>
+<p>Havendo questi signori col mezo de’ deputati della loro assemblea <lb/>
+consultato, et deliberato sopra le aromatiche contentioni <lb/>
+tra il conte di Embdem, et quelli della città, et del contato <lb/>
+rispediscono essi deputati a quella volta per ter-<lb/>
+minar tutto colla publicatione del deliberato da’ signori <lb/>
+Stati, chiamati mediatori nelle differenze tra li sudetti <lb/>
+et haveranno essi deputati auttorità di far essequir <lb/>
+l’accordato, et statuito, et forzar anco la parte, <lb/>
+che si mostrasse renietente<ptr target="#tn8" n="8"/> con l’armi, le quali saranno <lb/>
+pronte a quelle frontiere in Delfsil, et altrove; <lb/>
+ma si dubita, che ancorché accordino per il presente <lb/>
+l’animosità, che hanno gl’uni contra l’altro <lb/>
+non lasci continuar alcun buon effetto. </p>
+<pb n="437v" facs="08_437v" rend="0"/>
+<p>Uno delli detti deputati è cognato del signor colonello Huyn <lb/>
+d’Amstenreadt. Egli fu hieri a sera a vedermi, por-<lb/>
+tando per pretesto la partenza complendo meco, et <lb/>
+facendomi molte offerte; ma in effetto fu per <lb/>
+raccommandarmi il suo cognato, et pregarmi, come <lb/>
+fece con molta instanza di raccommandar gl’interessi <lb/>
+di lui alla Serenità vostra; et principalmente per nome di esso suo <lb/>
+cognato mostrò desiderar da me l’esplicatione dell’<lb/>
+undecimo<ptr target="#tn9" n="9"/> articolo della capitulatione <lb/>
+fatta tra lui, et me, et massime per le doi ultime <lb/>
+linee che dicono<ptr target="#tn10" n="10"/> intendendo<ptr target="#tn11" n="11"/>, che per ogni soldato, che mancarà <lb/>
+non siano ribatute, che sole trentasei lire venetiane <lb/>
+per testa. Et voleva che esplicando l’intelligenza di <lb/>
+questo articolo, la rappresentassi alla Serenità vostra. Io mostrai <lb/>
+di non saper alcuna cosa di questo negotio, et che in ciò <lb/>
+dovevo aspettar gl’ordini, et commandamenti di lei, <lb/>
+egli però mi fece nuova instanza, et io con nuova <lb/>
+replica divertii l’ingerirmi in questo negotio, <lb/>
+et tanto meno quanto non ho alcuna informatione <lb/>
+da quell’eccellentissimo Senato di quello si sia trattato per di là <lb/>
+sopra il punto di detto articolo, che si fa anco <lb/>
+da sé stesso assai intender. Vedendo detto signore non
+<pb n="438r" facs="08_438r" rend="0"/>
+poter ritrar altro, mi pregò che raccommandassi esso suo <lb/>
+cognato a vostra Serenità, et mi aggiunse, che haberebbe ella<ptr target="#tn12" n="12"/> havuti<ptr target="#tn13" n="13"/> <lb/>
+mezi assai per sollevar agl’interessi di lui, quando <lb/>
+havesse pensiero a consequenza usando della sua <lb/>
+munificenza in qualche maniera; et consolar insieme <lb/>
+li officiali suoi a’ quali par che dia causa di esser <lb/>
+stato licentiato. Io gli risposi, che quando vostra Serenità <lb/>
+havesse conosciuto, che se li dovesse alcuna cosa, ero sicuro<ptr target="#tn14" n="14"/> <lb/>
+che haverebbe sodisfatto et essi signor Colonello, et ognuno <lb/>
+de’ suoi officiali. Questo signore è dell’assemblea <lb/>
+dei Stati Generali per la provincia di Gruninghen <lb/>
+ha esso Amstenraedt anco un altro cugino della <lb/>
+medesima assemblea per Frisia. Quello che vostra Serenità può <lb/>
+far per gratificarlo non dubito, che riuscirà caro; et <lb/>
+io stimo bene (sia detto con ogni riverenza), che vostra Serenità <lb/>
+facci terminar seco in ogni miglior maniera, che la prudenza <lb/>
+sua saprà trovare, perché tornando di qua torni con-<lb/>
+tento, et cntenti li suoi officiali, che altrimenti ho cavato <lb/>
+che vorranno tentar ch’io dichiari il sudetto articolo. </p>
+<p>In ogni caso sarà bene, ch’io sia informato del tutto. </p>
+<p>Havendo l’Ambasciator di questi signori ch’è in Parigi così ricercato <lb/>
+mandate qui le lettere che in diversi tempi<ptr target="#tn15" n="15"/> haveva ricevute
+<pb n="438v" facs="08_438v" rend="0"/>
+del Vandermil genero del già Bernvelt scritte la più <lb/>
+gran parte in ziffra gli hanno fatta presentar la ziffra <lb/>
+et havendosi anco qualche altra cosa per intelligentia havuta <lb/>
+nelli affari passati contr di lui, sono questi signori venuti <lb/>
+in liberatione di confinarlo a Goere picciola isoletta <lb/>
+et pochissimo habitata sopra il mare fuori della bocca della <lb/>
+Mosa. Non è espresso tempo, ma per provisione. Egli si <lb/>
+querela sino al cielo contra l’ambasciator Langaraugh, che <lb/>
+habbi rotta la fede d’amico essendo restati di consenso di <lb/>
+abbrucciar le lettere l’uno dell’altro. Si crede, et si vede <lb/>
+anco assai chiaro, che questa casa di Bernvelt anderà <lb/>
+desolata. Gratie etc. </p>
+<p>Dall’Haya li 20 genaro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christoffro Suriano </p>
+<pb n="439r" facs="08_439r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="439v" facs="08_439v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 172 comincia 171<ptr target="#tn16" n="16"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="137">
+<!--
+<p n="439vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 gennaro 1619 ricevute a’ 5 febraro </p>
+<p>Del segretario Surian. n° 172 </p>
+<p>Rimasto a Heidelbergh l’ambasciator <lb/>
+del re di Bohemia a quei signori è andato <lb/>
+in suo luogo uno dei conseglieri d’Hidelbergh. </p>
+<p>Ha dato conto dell’elettione ringratiato i <lb/>
+Stati di quello hanno fatto con nuova <lb/>
+richiesta di aiuti. Se li darà risposta <lb/>
+è andato in Ansterdam a levar li <lb/>
+400 mila fiorini della dote della moglie del Re. </p>
+<p>Consulteranno sopra l’ambasciata da <lb/>
+corrisponder, ma aspetteranno la <lb/>
+risolutione si farà in Inghilterra. </p>
+<p>Si dice esservi offerta del Re <lb/>
+di obligar terre del Palatinato per <lb/>
+haver danari dai Stati. </p>
+<p>Agente di Colonia et suoi ufficiali. </p>
+<p>Li Stati non dano genti per Germania <lb/>
+ma contribuiranno danari. </p>
+<p>All’aprile è il principio dell’anno <lb/>
+che finiscono le tregue: di esse <lb/>
+non si parla et così sono risoluti <lb/>
+li Stati di tacer: ma si farà <lb/>
+publicar nelle Provincie il fine <lb/>
+di esso acciò stiano avertite. </p>
+<p>In Barbant si parla di levate <lb/>
+ma non si sente alcun effetto. </p>
+<p>Trattationi nell’affare di Embdem </p>
+<p>L. SS. X. </p>
+<p n="439vA">———</p>
+<p>Ufficio fatto da uno dei deputadi <lb/>
+che è cognato dell’Uin<ptr target="#tn17" n="17"/>. </p>
+<p>Dimanda dichiaratione dell’xi <lb/>
+capitolo: qual dice <lb/>
+che per ogni soldato che mancherà <lb/>
+non siano rebatude che lire 32<ptr target="#tn18" n="18"/> venetiane. </p>
+<p>Risponde il secretario non haver alcun <lb/>
+ordine. </p>
+<p>Raccomanda i suoi negotii <lb/>
+massime nel consolar i suoi officiali <lb/>
+a’ quali da colpa di esser stato <lb/>
+licentiato. Dice che oer le <lb/>
+dipendenze lui ha sarà caro sia <lb/>
+gratificato: altrimenti vorranno <lb/>
+tentar di là la dechiaratione <lb/>
+dell’articolo. </p>
+<p>Vandermil confinato per haver <lb/>
+scritto in zifra all’ambasciator dei <lb/>
+Stati in Parigi. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-2 corretto su -1."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e corretto su -si."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "salvacondotto ad aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue Utreht depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "q- esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e corretta su -a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Così A."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue capitolo depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "che dicono aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "i- esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-i corretta su -o."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-o corretta su -a."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-7- esito di correzione."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "U- esito di correzione."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Come pare."</p></note>
+</div>
+</body>
+</text>
+</TEI>

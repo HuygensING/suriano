@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.045 date 1617-07-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">045</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 242r-244v, 247r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">242r-244v, 247r-v, 245r-246v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>News that Levenstein has reached an agreement in Amsterdam, and he is now travelling to Emden. Surian writes to Calandrini to request confirmation. Received letters from secretary of Sticke’s brother that Wassenhoven has died. Attached is a copy of a letter by States General to Venice and recommendations to Republic on what to do with his men. He attached a number of receipts from March for payments related to John Ernst of Nassau’s levies. One text attached: a copy of a letter by States General to the Venetian Republic dated 5 July 1617 </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-04">4 luglio 1617</date>
+            <num>073, 074</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="073">
+<div type="main" facs="main text of letter" n="073">
+<!--<p>4 luglio 1617, L’Aia (cc. 242r-244v, 247r-v)</p>-->
+<pb n="242r" facs="04_242r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>coll’occasione che partì di qua venerdì passato monsignor Tornon <lb/>
+uno dei capitani del signor conte di Levenstein per andar a trovarlo <lb/>
+gli scrissi, et lo eccitai alla speditione. Et rinovai anco <lb/>
+domenica altre lettere; ma ancor non veggo risposta di esse <lb/>
+solo un giovane, che si è trattenuto seco in Amsterdam <lb/>
+essendo venuto a trovarmi domenica mi ha riferito haver <lb/>
+il signor Conte concluso tutto, che stava per partir verso <lb/>
+Embden per ordinar a quanto occorreva da quella <lb/>
+parte, et che ’l capitano Tornon doveva esser di ritorno <lb/>
+hoggi o dimani per communicarmi tutto. Io havendo <lb/>
+scritto al signor Calandrini per haverne il certo, mi ha rescritto <lb/>
+che io credi pure non esser così avanzate le cose, che haveva <lb/>
+cavato da un altro de’ capitani del Conte che le navi si andavano<ptr target="#tn1" n="1"/> <lb/>
+apostando, et ne mancavano doi o tre, et che fra esse <lb/>
+navi ve ne era<ptr target="#tn2" n="2"/> una buona parte di ben proviste <lb/>
+con artiglieria a bastanza; ma qualche altra non <lb/>
+così, et poi mi aggiunge in un polizzino che le <lb/>
+navi conviene siano alli 25 di questo mese a <lb/>
+Embdem pronte per pigliar li soldati, et il signor Conte <lb/>
+pensava, che per tutta la settimana prossima<ptr target="#tn3" n="3"/> <lb/>
+si sarebbono spedite di là. Che è quel tanto ch’io <lb/>
+ho in questo proposito. Et certo se havessi creduto
+<pb n="242v" facs="04_242v" rend="0"/>
+di avanzar il negotio colla mia assistenza l’haverei fatto <lb/>
+prontamente; ma sicuro, che la malitia de’ marinari col <lb/>
+vedermi presente haverebbe preso maggior vigore per sostentar <lb/>
+le loro pretensioni, et così difficoltar il negotio, me ne sono astenuto. Quello che vedrò poter fare in questo particolare <lb/>
+all’avanzamento di esso non lo tralascierò né trascurerò al <lb/>
+certo. </p>
+<p>Della persona atta al servitio di mare io ho procurato di <lb/>
+haverne informatione. Si troveranno molti; ma come <lb/>
+quelli che sono commodi in casa sua, difficilmente si moveranno <lb/>
+senza haver buon stipendio, et senza sicurezza della <lb/>
+carica speciale, che doveranno havere. Ne ho parlato <lb/>
+con sua Eccellenza che m’ha promesso d’informarsene ella ancora, <lb/>
+et procurerò di far quanto mi sarà possibile perché vostra Serenità <lb/>
+resti servita. Intanto quando ella stimi a proposito la <lb/>
+persona del capitano Pach, del quale scrissi a vostra Serenità colle <lb/>
+mie lettere de’ 18 marzo, et sarà arrivato di là col capitano <lb/>
+Mettonis, che mi fu descritto per buon huomo per l’essercitio del <lb/>
+mare, et per tale mi viene descritto anco al presente; et vostra <lb/>
+Serenità ne potrà prender informatione dal signor conte Gio. Ernesto <lb/>
+o altri che a lei pareranno più a proposito. </p>
+<p>Il residente Stich ha ricevute lettere dei 16 del passato scrit[te]<ptr target="#tn4" n="4"/>
+<pb n="243r" facs="04_243r" rend="0"/>
+dal secretario di suo fratello con avviso della morte successa in quel <lb/>
+punto del colonello Wassonhoven. Le lettere non gli pervenero che <lb/>
+hier mattina. Fu immediate al signor Bernvel, et avanti di andar nell’assemblea fu a darne parte a me ancora pregandomi <lb/>
+di supplicar a suo nome vostra Serenità di dichiarar nel fratel <lb/>
+suo la carica del colonellato stante, che egli ha havuto <lb/>
+quella di luocotenente di esso Wassonhoven; dicendo tener per <lb/>
+fermo, ch’ella mirerà in questa occasione et alle spese <lb/>
+che ha fatte per avanzar l’affare, che senza li ufficii <lb/>
+del padre suo, che allhora era nell’assemblea, sarebbe <lb/>
+andato in niente, et all’interesse dal quale è aggravata <lb/>
+per questa occasione la sua casa; et io gli dissi, che tanto <lb/>
+haverei scritto. Vostra Serenità vedrà la copia della lettera <lb/>
+ch’è aggiunta, et questi signori scrivono ad instanza di lui <lb/>
+alla Serenità vostra. Et in essa vi aggiongono anco raccomandatione <lb/>
+per li marinari, et per li soldati del reggimento con lasciar <lb/>
+anco alla prudenza di vostra Serenità se stima bene il metter detto <lb/>
+reggimento sotto il generalato del signor Conte, del che ho sentito <lb/>
+molti che hanno detto non dubitare, che ella<ptr target="#tn5" n="5"/> sia per <lb/>
+farlo, et ho pensiero, che anco sua Eccellenza concorri in questo commun <lb/>
+desiderio poiché in cose tali li signori Stati si sogliono regolar <lb/>
+col consiglio dell’Eccellenza sua. Et lo Stich ha mostrato di contentarsene
+<pb n="243v" facs="04_243v" rend="0"/>
+mentre a questi Stati ha fatta l’instanza di haver esse lettere, <lb/>
+et le ha ricevute nella forma, che sono. </p>
+<p>Scriveranno anco per quanto intendo per un mastro d’armi de’ <lb/>
+quali ha fornito il Wassonhoven per il valor di settemilla cinquecento<ptr target="#tn6" n="6"/> <lb/>
+fiorini in circa de’ quali non ne ha havuti che doi milla <lb/>
+vorrebbe egli<ptr target="#tn7" n="7"/> esserne in qualche maniera risarcito <lb/>
+et è venuto egli ancora a pregarmi raccommandar a vostra Serenità <lb/>
+l’affare, et il suo interesse; poiché doverà ricorrer a lei un <lb/>
+suo nipote per suffraggio<ptr target="#tn8" n="8"/> per esser sodisfatto da quello che <lb/>
+haverà la carica del reggimento. </p>
+<p>Io mandai a vostra<ptr target="#tn9" n="9"/> Serenità con mie lettere de’ xi marzo il ricever di quanto <lb/>
+il signor conte Gio. Ernesto haveva ricevuto da me in contanti, et <lb/>
+un altro ricever a parte di sette milla doicento fiorini, che <lb/>
+mi fece, come s’egli li havesse havuti, perché li pagassi ad un <lb/>
+mercante d’armi in Amsterdam quando un tal capitano non li <lb/>
+havesse pagati al tempo limitato: perché in tal caso li haverebbe <lb/>
+scontati nelle sue paghe. Al tempo stabilito non fu fatto <lb/>
+l’esborso, et il Quingetti lo fece a conto mio a primo <lb/>
+maggio; ma l’agente del signor Conte mi fece instanza di dover <lb/>
+differire<ptr target="#tn10" n="10"/> et doppo mi pregò di haver patienza ancora <lb/>
+per qualche settimana tanto che mi ha ridotto sin qui <lb/>
+senza la sodisfattione del detto denaro con la speranza
+<pb n="244r" facs="04_244r" rend="0"/>
+che sempre da una in un’altra settimana dava il Capitano di <lb/>
+contarmelo, et ne ho sempre vedute le lettere. Hora io ho <lb/>
+stimato mio debito non differir più di darne conto alla Serenità vostra <lb/>
+perché ella se ne facci far la sodisfattione di là; compiacendosi <lb/>
+avvisarmi dell’essersene rifatta perché possi restituir all’agente <lb/>
+le altre doi copie del detto ricever, che tengo appresso di me; et io <lb/>
+in [t]anto<ptr target="#tn11" n="11"/> mi farò creditore di questa summa nei conti che <lb/>
+doverò presentare. Gratie etc. </p>
+<p>Dall’Haya a’ 4 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="244v" facs="04_244v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="247r" facs="04_247r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="247v" facs="04_247v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="073">
+<!--
+<p n="247vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 luglio 1617 ricevute 16 detto </p>
+<p>Aia. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="074" corresp="073" source="245r-246v" >
+<div type="main" facs="main text of attachment I" n="074" corresp="073" >
+<!--<p>Allegato I al n. 73 (cc. 245r-246v)</p>-->
+<pb n="245r" facs="04_245r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia della lettera delli signori Stati alla serenissima Republica </p>
+<p>Serenissimio Duca </p>
+<p>havendo inteso la morte del fu signor colonello Wassenhoven (a chi Dio doni pace) et <lb/>
+che noi siamo ben informati, che Gioanni Stich che è figliolo di uno delli deputati <lb/>
+della provincia di Ourisel nella nostra assemblea, è quello che à fatto il più <lb/>
+delle spese, et ogni debito, et diligenza per adrizzare et unir il suo reggimento, et <lb/>
+che d’avantaggio ha molto aiutato a far prestar credito al detto Colonello a fine di <lb/>
+avanzar il nolo de’ vasselli per il transporto del detto reggimento verso Venetia, <lb/>
+il che in parte è stato causa (ma particolarmente il suo valore et corraggio) che ha havuta <lb/>
+la comissione di luocotenente del detto Colonello. Noi non habbiamo potuto lasciar <lb/>
+serenissimo Duca di raccommandar affettuosisimamente a vostra Serenità che vi piaccia in consideratione <lb/>
+di ciò avanzar, et preferir il detto Gioan Stich innanti altri nella detta carica di <lb/>
+colonello, nel che vostra Serenità ci farà gran piacere, havendo ferma speranza che vostra Serenità <lb/>
+et la serenissima Republica si troveranno molto ben servite della sua persona, et del suo <lb/>
+commando. Di più raccommandamo colla medesima occasione che vostra Serenità voglia dar <lb/>
+ordine che li marinari, che hanno transportati li soldati possino esser pagati, come <lb/>
+anco rese contenti li soldati del detto reggimento, se già non lo sono sopra le loro <lb/>
+pretensioni stante che hanno l’equità, il dritto, et la giustitia dal canto loro; <lb/>
+et ciò fatto potrà vostra Serenità tanto meglio consultare, et risolver se sarà più con-<lb/>
+venevole, et ispediente per il servitio della detta serenissima Republica di ridur il detto <lb/>
+reggimento sotto il generalato del signor conte Gio. di Nassau nel che si rimettemo <lb/>
+pregando etc. </p>
+<p>A’ 5 luglio </p>
+<pb n="245v" facs="04_245v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="246r" facs="04_246r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="246v" facs="04_246v" rend="270"/>
+<p>Lettera dei signori Stati alla serenissima Republica <lb/>
+per il Stich etc. </p>
+<p>nella 3<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-ossima" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "v(ostra)"; followed by deleted words.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "cinque-" corrected above "doi-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "ancora" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Second "-g-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-ff-" corrected above "-v-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

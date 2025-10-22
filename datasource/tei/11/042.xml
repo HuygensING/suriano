@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.042 date 1622-08-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">042</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 231r-233v, 236r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">231r-233v, 236r-v, 234r-235v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the United Provinces have to defend their territory on four different fronts. At Bergen-op-zoom, Italian troops have launched a nighttime attack on English and Scottish forces with a lot of causalities and wounded, including Henderson who has been brought to The Hague. Reinforcements are being sent and several French nobleman are visiting the siege. Continued hope of relief by Mansfelt, but his exact location is unknown. A report of failed expedition to ’s Hertogenbosch is included and Berck has taken his leave from Maurice. One document attached: "Relatione del viaggio all’intrapresa sopra Bolduc non successa"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-08-22">22 agosto 1622</date>
+            <num>068, 069</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="068">
+<div type="main" facs="main text of letter" n="068">
+<!--<p>22 agosto 1622, L’Aia (cc. 231r-233v, 236r-v)</p>-->
+<pb n="231r" facs="11_231r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 415 comincia 414 </p>
+<p>Serenissimo Principe </p>
+<p>hanno questi signori una troppo stretta necessitata difensiva in <lb/>
+quattro parti da terra. In Fiandra ove non si sta, <lb/>
+che a mirare; tanto si fa dalla parte del Rheno mentre <lb/>
+il conte di Bergh sta ancor appresso di Goch senza <lb/>
+apparenza di dover partir di là; né il signor principe di <lb/>
+Oranges di attaccare sendo in sito più disavantaggioso <lb/>
+havendo detto Conte una montagna, et un bosco, che li fa <lb/>
+riparo. A Papemuts ove si attende dagl’inimici a <lb/>
+serrarlo. Quelli di dentro non hanno ancor voluto <lb/>
+spiegar insegne per quanto si dice, non stimando sua <lb/>
+riputatione il farlo contro villani; et qualcheduno dice, <lb/>
+che le genti, che calano di Cordova, et Verdugo habbino <lb/>
+a servir là. Per quarto luoco di difesa è per la piazza <lb/>
+di Bergh sopra il Zoom, ove lo Spagnuolo si va <lb/>
+avanzando a tutto suo potere coi lavori, et con quei <lb/>
+avantaggi, che sono soliti in assedio di tanto momento. </p>
+<p>Martedì a notte doppo le xii hore il quartier d’Italiani <lb/>
+attaccò quelle d’Inglesi, et Scocesi improvisamente, et <lb/>
+con così buon ordine, et disciplina, che in breve <lb/>
+tempo si fecero patroni di doi meze lune; ma detti <lb/>
+Inglesi, et Scocesi riunite le genti, che colte all’<lb/>
+improviso havevano più tosto abbandonati i <lb/>
+posti, che che* ne fossero stati cacciati con altrettanto <lb/>
+ordine, et vigore diedero adosso all’inimico, et con <lb/>
+sì gran empito, che lo ributorono fuori di ambidoi <lb/>
+tuttavia par che ancor si mantenessero vicini gl’Italiani <lb/>
+et tenessero buono alla prima meza luna, et ogniuno<ptr target="#tn1" n="1"/>
+<pb n="231v" facs="11_231v" rend="0"/>
+la contendesse, et che in tanto havessero accordato il sepelir<ptr target="#tn2" n="2"/> <lb/>
+dei morti dicono tra l’una, et l’altra. Viene riferto <lb/>
+che dalla parte di qua non siano morti, che cento in circa <lb/>
+ma molti feriti, et di là molti anco feriti, et da cinque <lb/>
+in seicento morti perché il canone dei forti del quartier <lb/>
+de’ Inglesi tirava continue canonate verso le truppe <lb/>
+italiane; il che non ardivano far gl’altri per tema di non <lb/>
+offender li proprii<ptr target="#tn3" n="3"/> in gran numero erano andati all’<lb/>
+assalto. Tra feriti mortalmente dalla parte di qua vi sono <lb/>
+quattro capitani inglesi, una cornetta di cavallaria francese <lb/>
+che s’è trovato al rumore è morto di moschetata, et pur <lb/>
+da moschetata il colonello Inderson scocese ha rotta la <lb/>
+coscia, il qual venerdì a sera fu condotto, et si trova <lb/>
+in pericoloso stato havendo febre continua, che fa dubitar <lb/>
+assai delle<ptr target="#tn4" n="4"/> sua vita. La perdita di questo soggetto spiace alli <lb/>
+signori Stati perché era intendente, et valoroso soldato. </p>
+<p>Doi compagnie da Willemstat sono state inviate in quella piazza <lb/>
+et con lettere de’ 20 scritte dal campo sono avvisato <lb/>
+che sua Eccellenza habbi risoluto con li deputati delli signori Stati <lb/>
+che sono presso di lei di inviar vinti compagnie d’infanteria <lb/>
+pur nella medesima piazza; quattro delle quali parmi, <lb/>
+che saranno di quelle, che erano in Meurs poiché <lb/>
+a Brusseles è stata accordata la neutralità di quella <lb/>
+piazza, et il resto sarà d’ogni natione dell’armata <lb/>
+di sua Eccellenza. </p>
+<p>Si mantiene ancor aperto<ptr target="#tn5" n="5"/> dalla parte del mare il <lb/>
+transito in maniera, che si può introdurvi continuate provisioni
+<pb n="232r" facs="11_232r" rend="0"/>
+et soccorsi. Et molti colla commodità dell’apertura vanno <lb/>
+per curiosità a veder l’assedio, et molti signori vi vanno <lb/>
+come venturieri. Et questa mattina appunto sono <lb/>
+partiti a quella volta il figliolo del duca di Epernon <lb/>
+ch’è il conte di Caudal, et il conte di Bettune accompagnati <lb/>
+da altri francesi. </p>
+<p>A doi signori scocesi, che sono stati per curiosità al campo dello <lb/>
+Spinola ha egli detto esser risolutissimo di voler haver <lb/>
+quella piazza nelle mani; né l’haverebbe già mai aban-<lb/>
+donata ancorché vi dovesse lasciar la vita. Se li succe-<lb/>
+desse il farsene patrone poco potrebbono sperar di bene <lb/>
+Tertol, Gous, et Sirixee<ptr target="#tn6" n="6"/> in Zelanda. Ma l’osso è <lb/>
+troppo duro da roder. Questi signori hanno cuore; se ben <lb/>
+la commune, che si può dir, che non habbi ancor co-<lb/>
+minciato provar gl’incontri della guerra risente, et <lb/>
+dubita assai dei progressi dei Spagnuoli. </p>
+<p>Si vorrebbe bene da alcuni dei signori Stati, che ’l signor principe <lb/>
+Mauritio lasciando al forte di Schinch il fratello, et <lb/>
+il conte Ernesto di Nassau per dar gl’ordini necessarii <lb/>
+et poter esser nel mezo a tal effetto si ritirasse a Roterdam o a Dordrecht; ma attende ove egli <lb/>
+è che la crescenza dell’acque, che da mo’ innanti <lb/>
+si farà fortifichi quelle frontiere, et la Frisia, il che <lb/>
+seguito sono avvisato da signore amico mio da quella <lb/>
+parte (<ptr target="#tn7" n="7"/>che allhora si potrà pensar a cosa nuova <lb/>
+aggiungendomi, che la sola venuta del conte di Mansfelt <lb/>
+potrebbe apportar un gran cambiamento a tutte le cose
+<pb n="232v" facs="11_232v" rend="0"/>
+et giovar grandemente a divertir il corto dei pensieri dei <lb/>
+Spagnuoli. </p>
+<p>Per la venuta di detto Conte si sta qui con gran perplessità <lb/>
+non intendendosi nuove alcune sicure ove egli si sia: et <lb/>
+ho saputo, che sua Ecccellenza in particolare n’è impatiente, et vor-<lb/>
+rebbe, che già fosse arrivato. Ha ispedito da tutte le <lb/>
+parti persone espresse per spiar, et intender di lui ne può <lb/>
+ritardarsi ad haversene nuove. Nelle lettere, ch’<lb/>
+egli scrisse al duca di Lorena appar bene che ’l suo essercito <lb/>
+fosse di 15 mila fanti, et dieci milla cavalli; ma ho saputo <lb/>
+da qualcheduno che non è molto, ch’è partito da lui, che <lb/>
+quando la cavallaria arrivi a sei milla, et l’infanteria <lb/>
+a poco più di altrettanti sia tutto quello che può <lb/>
+esser perché molti sono stati dissipati, et spersi. Viene <lb/>
+com’ho detto aspettato con brama grande detto Conte <lb/>
+parendo, che la venuta delle sue armi habbi ad appor-<lb/>
+tar<ptr target="#tn8" n="8"/> a questi paesi un solievo grandissimo; come <lb/>
+in effetto si può sperarne servitio; quando però <lb/>
+le genti sue possino patir la disciplina necessaria in <lb/>
+queste parti per non metter in confusione tutto il resto. <lb/>
+È gente quella di Mansfelt, et di Bransvich avezzata <lb/>
+a ben viver, a non patire, alla rapina, et per consequente <lb/>
+a non prestar quell’obedienza, che si doverebbe al capo <lb/>
+tuttavia con tutte queste considerationi, che si vanno <lb/>
+facendo si spera di tirarne frutto. Tre mesi addimandò <lb/>
+il Conte come riverentemente scrissi di esser trattenuto colle sue <lb/>
+genti, et furono accordati, et questi hanno cominciato
+<pb n="233r" facs="11_233r" rend="0"/>
+a’ 16 del presente, et può esser che poco mancarà, che li <lb/>
+600 mila fiorini promessi serviranno al pagamento quando il <lb/>
+numero non sia più di quello che ho rappresentato di sopra. </p>
+<p>Si sono havuti avvisi, che ’l conte d’Henin stato a lui sia <lb/>
+ritornato a Brusseles per nove instruttioni; ma si <lb/>
+tiene per fermo, che burli affatto l’Infanta. </p>
+<p>Qui aggiunta sarà una picciola relatione del viaggio fatto <lb/>
+verso Bolduch per quell’intrapresa, che non successe. Sarà <lb/>
+per quelli dell’Eccellenze vostre che havessero gusto di vederla. </p>
+<p>Il signor cavalier Berch ritornò venerdì dal campo, dove <lb/>
+è stato a complir con sua Eccellenza et prender licenza <lb/>
+da essa. Attende qui appresso li signori Stati per pro-<lb/>
+curar, che si vada mettendo ad ordine la sua <lb/>
+commissione, et solecita a fine di avanzar li <lb/>
+buoni giorni della stagione, et si promette, che par-<lb/>
+tirà certo alla metà di settembre. Gratie etc. </p>
+<p>Dall’Haya li 22 agosto 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo<ptr target="#tn9" n="9"/> Suriano </p>
+<pb n="233v" facs="11_233v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="236r" facs="11_236r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="236v" facs="11_236v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>seconda<ptr target="#tn10" n="10"/> </p>
+<p>n° 415 comincia 414 </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="068">
+<!--
+<p n="236vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 agosto 1622 ricevute a’ 7 detto<ptr target="#tn11" n="11"/> </p>
+<p>Haya. n° 415 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="069" corresp="068" source="234r-235v" >
+<div type="main" facs="main text of attachment I" n="069" corresp="068" >
+<!--<p>Allegato I al n. 68 (cc. 234r-235v)</p>-->
+<pb n="234r" facs="11_234r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere de’ 22 agosto dall’Haya numero 415 <lb/>
+agosto 1622 </p>
+<p>Relatione del viaggio all’intrapresa sopra Bolduc non successa </p>
+<p>Domenica li 7 del presente partì il signor principe Mauritio con <lb/>
+circa quaranta compagnie d’infanteria di ogni natione, <lb/>
+che facevano tra li 4 in cinque milla fanti; né sapevasi <lb/>
+dalla soldatesca, ove si dovesse andare. Lunedì doppo <lb/>
+desinare arrivorono all’isola di Bommel restando lì quella <lb/>
+sera, et la mattina seguente uscirono dalle barche sendo <lb/>
+commandato di lasciar il bagaglio a dietro, et marchioro-<lb/>
+no alla volta di Usden, ove si congiunsero cinque compa-<lb/>
+gnie di cavallaria della guarnigioni di Breda, et di Usden, <lb/>
+marchiando così uniti con otto pezzi di campagna per tutto <lb/>
+quel giorno. La sera si arrivò alla vista di Bolduch, sopra <lb/>
+la qual piazza haveva sua Eccellenza un’intrapresa, che non <lb/>
+successe, né meno fu attentata perché havendo gl’Inglesi <lb/>
+la vanguardia, li Francesi et Scocesi la battaglia, et il <lb/>
+Reggimento delle guardie, et quello del conte Ernesto Casimiro <lb/>
+con doi compagnie di Alemani nove la retroguardia non <lb/>
+arrivorono in tempo sotto la città al luoco designato, <lb/>
+perché in luoco di arrivar alle dodici hore<ptr target="#tn12" n="12"/> cioè alla <lb/>
+meza notte erano doi hore doppo meza notte prima <lb/>
+di arrivar là. Onde sua Eccellenza vedendo venir il giorno ri-<lb/>
+solse di non far alcuna cosa, et anco perché era stato <lb/>
+mal informata del marazzo, che doveva passare <lb/>
+perché in luoco, che fu detto, che haveva tre piedi <lb/>
+di acqua fu trovato, che erano cinque, et più <lb/>
+come ha riferto il luocotenente della compagnia del <lb/>
+baron di Kessel, che era passato<ptr target="#tn13" n="13"/> là con un altro
+<pb n="234v" facs="11_234v" rend="0"/>
+fino appresso le sentinelle sopra il Riparo, che non disse alcuna cosa <lb/>
+da che crederono, che haverebbe potuto riuscir la supresa <lb/>
+se li Inglesi havessero più avanzato. Altri vogliono, che <lb/>
+l’inimico<ptr target="#tn14" n="14"/> già fosse stato avvertito, che sua Eccellenza fosse li all’intorno <lb/>
+et che monsieur Gravendon governator di quella piazza havesse <lb/>
+fatta caricar l’artiglieria l’artiglieria* con chiodi, et pezzi <lb/>
+di ferro per aspettarsi; ma come la cosa fosse non si può <lb/>
+puote saper di certo, solamente che sua Eccellenza si ritirò prima di <lb/>
+esser scoperta, et la mattina, quando fece chiaro si videro <lb/>
+cinque bandiere sopra li ripari della città. Quel gior-<lb/>
+no si andò ad alloggiar in un villaggio lì vicino chiamato <lb/>
+Vucht, non potendo li soldati per il gran camino, et per <lb/>
+il caldo, che havevano patito quella notte più avanzarsi. <lb/>
+Giovedì marchiorono tutto all’intorno la città di Bolduch, <lb/>
+et sua Eccellenza vide li forti di Crevecheur, et qualche altri, che ’l <lb/>
+baron di Kessel haveva fatti fare all’intorno sopra la <lb/>
+dica, o argine della Mosa. Quel giorno fece un caldo sì <lb/>
+eccessivo, che dieci soldati morirono sotto all’armi, et <lb/>
+anco alcuni officiali come l’alfiero del capitan Vandermeulen <lb/>
+et un alfiero d’una compagnia inglese, et quello del <lb/>
+baron di Kessel fu quasi morto, et ben vinti altri furono <lb/>
+condotti sopra carri quasi morti. Li Inglesi particolarmente non <lb/>
+volevano più caminare gettando l’armi in terra: onde <lb/>
+li officiali corsero a sua Eccellenza perché facesse far alto al reggimento <lb/>
+della guardia, che allhora haveva la vanguarda. Quella <lb/>
+sera adunque si alloggiorno nelle case dei paesani, et il <lb/>
+venerdì si marchiò fino a Meern. Sabbato fino a <lb/>
+Grave; domenica fino a Nimeghen; et lunedì la sera
+<pb n="235r" facs="11_235r" rend="0"/>
+all’armata sotto il forte di Schinch, non essendo restati <lb/>
+a dietro alcuni della guardia di sua Eccellenza in particolare. </p>
+<pb n="235v" facs="11_235v" rend="270"/>
+<p>Relatione del viaggio<ptr target="#tn15" n="15"/> di sua Eccellenza <lb/>
+per l’intrapresa di Bonduchen<ptr target="#tn16" n="16"/> che non <lb/>
+riuscì </p>
+<p>nel lettere n° 415 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-uno" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "il transito" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Open parenthesis is not followed by a corresponding close parenthesis</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "un" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-hr-" corrected above "-h-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "pas" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-co" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "via-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

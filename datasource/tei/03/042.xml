@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.042 date 1617-01-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">042</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 274r-275v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">274r-275v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A Frenchman arriving in The Hague claimed that the Venetians have defeated the Spanish near Novara. He request confirmation on this matter. Reports that so far 8000 troops have been levied in Germany but it is unclear where they will be deployed. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-01-28">28 gennaio 1617</date>
+            <num>093</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="093">
+<div type="main" facs="main text of letter" n="093">
+<!--<p>28 gennaio 1617, L’Aia (cc. 274r-275v)</p>-->
+<pb n="274r" facs="03_274r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havevo scritte l’altre mie, quando ho inteso esser arrivato <lb/>
+qui un gentilhuomo francese in diligenza da Parigi per <lb/>
+impetrar una carica di alfiere vacata per morte d’un <lb/>
+capitano nel campo del signor duca di Savoia. Egli ha raportato <lb/>
+che monsignor di Dighieres con le sue truppe aggiunte a <lb/>
+quelle di sua Altezza haveva battuti<ptr target="#tn1" n="1"/> li Spagnuoli verso Novara <lb/>
+ma che gli erano tocche tre moschetate. Questo non ha <lb/>
+fatto che ’l gusto dell’avviso sia riuscito compito: tuttavia <lb/>
+si gode nel sentirsi, che quel Principe habbi cominciato <lb/>
+ad haver così buona assistenza. Viene prestata fide <lb/>
+all’avviso riportandolo questo gentilhuomo con <lb/>
+gran asseveranza: sua Eccellenza però, et la corte tutta ne <lb/>
+vorrebbono haver maggior confermatione. </p>
+<p>Viene anco riferto, che li principi di Alemagna faccino <lb/>
+una levata di mille ottocento cavalli: non si sapendo <lb/>
+per dove vogliono impiegarli. Alcuni dicono per sovenir <lb/>
+al signor duca di Buglione particolarmente<ptr target="#tn2" n="2"/> altri più asseverantemente per <lb/>
+assister alli principi di Francia, et che la Regina <lb/>
+habbia col mezo di persona espressa sotto mano fatto <lb/>
+ogni tentativo appresso tutti dell’Unione: affineché <lb/>
+non vadi avanti essa levata. Come l’avviso di Piemonte <lb/>
+lo scrivo per il sentimento, che qui se ne è havuto <lb/>
+così dell’altro penso, che la Serenità vostra l’haverà inteso
+<pb n="274v" facs="03_274v" rend="0"/>
+per altra via, et lo scrivo per solo incontro. Gratie etc. </p>
+<p>Dall’Haya a’ 28 genaro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="275r" facs="03_275r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="275v" facs="03_275v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="093">
+<!--
+<p n="275vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 gen[naro]<ptr target="#tn3" n="3"/> 1616 ricevute a’ 15 febraro </p>
+<p>Segretario Surian dall’Haia. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

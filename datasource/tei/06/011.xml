@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.011 date 1618-04-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 77r-79v, 82</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">77r-79v, 82r-v, 80r-81v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Travelled to Amsterdam to hire a new vessel to replace an inadequate one from Enkhuizen. The fleet is ready to set sail but the low tide is preventing their departure. Outlines further obstacles, such as logistical delays, before he can finalise the contracts. Della Gamba, who is recruiting soldiers for Napels, is still in Brussels. He went to Rotterdam to negotiate a swift dispatch of crew, provisions and ammunitions to Amsterdam. Explains the terms and conditions for captains and crew of the leased ships. Mentions that it is standard in Amsterdam to insure only 2/3 of the vessel’s value. Promises to send detailed accounts to Venice for further guidance. One text attached: "Breve informatione sopra l’armamento delli dodici vasselli"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-04-02">2 aprile 1618</date>
+            <num>024, 025</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="024">
+<div type="main" facs="main text of letter" n="024">
+<!--<p>2 aprile 1618, L’Aia (cc. 77r-79v, 82r-v)</p>-->
+<pb n="077r" facs="06_077r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 21 fin 23 </p>
+<p>Serenissimo Principe </p>
+<p>scrissi riverentemente alla Serenità vostra la passata settimana l’occasione <lb/>
+perché mi havevo condotto in Amsterdam, et del noleggio fatto di <lb/>
+altro vassello in luoco di quello d’Encusen non atto al servitio <lb/>
+più tosto per esser di poca portata, che altrimenti. Haverà <lb/>
+anco inteso dalle medesime lettere numero 19 fin 20 <lb/>
+dei 27 del passato, che inviai per la via di Colonia, <lb/>
+et qui aggiunte saranno le replicate, l’ordine, che <lb/>
+havevo messo con li signori dell’amiralità di Amsterdam <lb/>
+di dar hoggi la mostra alle genti di marina; ma <lb/>
+continuando da alcuni giorni in qua il vento di <lb/>
+Levante, che seguita ancora, et causa bassezza grandissima <lb/>
+delle acque sì che li vasselli ancorché pronti, et <lb/>
+accommodati, et che sono particolarmente in Amsterdam a <lb/>
+Edam, et a Serdam in numero di otto non possono <lb/>
+uscir per le secche, ho stimato a proposito così assenten-<lb/>
+dovi anco l’Amiraglio di prorogar fino appresso dimani, <lb/>
+o giovedì la mia andata in quella città per dar <lb/>
+la detta mostra, et pigliar li capitani, officiali, et mari-<lb/>
+nari in giuramento. </p>
+<p>Prima del stipular dei contratti haverà la Serenità vostra inteso <lb/>
+quanti incontri mi sono successi, doppo anco quante
+<pb n="077v" facs="06_077v" rend="0"/>
+difficoltà mi è convenuto superare; hora mo vi voleva <lb/>
+anco questo vento, che naturalmente in questo Paese fa <lb/>
+fuggir al mare tutte le acque, per accrescer il mio tormento <lb/>
+col dispendio a che è sottoposta vostra Serenità nel mantener infrut-<lb/>
+tuosamente questa militia; la tardità del soccorso di queste <lb/>
+navi quando massime ella colle sue lettere de’ 16 del <lb/>
+passato sperava (et ogni ragione lo poteva fare) che <lb/>
+già fussero partite; et non vi è altro di certo che ’l presuposito<ptr target="#tn1" n="1"/> <lb/>
+ch’ella ha fatto sopra li miei avvisi, che siano in pronto <lb/>
+per dover presto partire: perché in effetto la marinarezza <lb/>
+è come ad ordine. Li viveri per la più gran parte compri, <lb/>
+et gl’altri apprestati, et tutte le altre cose in tale stato <lb/>
+che non vi vuole altro, che ’l vento del mezo giorno, o del <lb/>
+Ponente per far gonfiar l’acque, il che sta a Dio benedetto <lb/>
+il quale pregarò di tutto cuore: perché vostra Serenità resti <lb/>
+servita conoscendo et dagl’avvisi, ch’ella mi dà, et da <lb/>
+quelli, che capitano tra mercanti, che ’l duca di Ossuna <lb/>
+attende ad armarsi, et per ciò haver ella bisogno d’ogni <lb/>
+più celere ispeditione; et tanto più che intendo che <lb/>
+quel Gio. de la Gamba sta<ptr target="#tn2" n="2"/> tuttavia a Brusseles, et <lb/>
+se ben da una parte viene scritto, che attendesse nuovi
+<pb n="078r" facs="06_078r" rend="0"/>
+ordini di Napoli, et che non vi fosse altro effetto per hora <lb/>
+della voce, che si dovesse far detta levata; in ogni modo <lb/>
+si dice anco che sicuramente ella resti accordata, et che <lb/>
+si farà, se non si fa al presente<ptr target="#tn3" n="3"/>. </p>
+<p>Fui a Roterdam come riverentemente avvisai, che dovevo fare <lb/>
+et quell’Amiralità mi fece honore di<ptr target="#tn4" n="4"/> convitarmi <lb/>
+la sera che arrivai, et la mattina seguente venendo <lb/>
+quelli dello stesso collegio a tenermi compagnia. Io <lb/>
+li significai il desiderio, che havevo, che restassero li doi <lb/>
+vasselli senza venir nella Moza<ptr target="#tn5" n="5"/> perché potessero uscir <lb/>
+con gl’altri dal Tessel, et per ciò mandassero le genti, viveri, <lb/>
+et munitioni destinati per essi. Mostrorono<ptr target="#tn6" n="6"/> bene <lb/>
+che se ne sarebbono contentati; ma diedero anco segno <lb/>
+che più volontieri haverebbono voluto, che fossero<ptr target="#tn7" n="7"/> venuti <lb/>
+nella Moza, per haver quest’honore, come dissero di <lb/>
+prepararli, come si deve, anc’essi nel proprio luoco: et per <lb/>
+tanto doppo varie ragioni da una, et l’altra parte risolsero <lb/>
+di voler mandar li doi capitani in Amsterdam con 30 mari-<lb/>
+nari in circa per uno, et veder se fosse possibile sortire <lb/>
+altrimenti per non perder il tempo haverebbono mandati <lb/>
+il restante con li viveri, et ogn’altro apprestamento necessario
+<pb n="078v" facs="06_078v" rend="0"/>
+verso il Tessel affineché queste due navi non facessero aspettare <lb/>
+l’altre. </p>
+<p>Anco per il denaro, che dovevano havere per la loro rata per il <lb/>
+preparar di detti doi vasselli, et dell’altro che sta nella Moza <lb/>
+havevano li<ptr target="#tn8" n="8"/> signori havuto assignamento del denaro sopra il <lb/>
+Volberghen principal commesso dei signori Stati, che aspettando <lb/>
+il denaro di Frisia, né essendo comparso feci instanza che <lb/>
+lo avanzassero. Mi promisero del farlo, ma con qualche <lb/>
+riserba, che fu di fargliene scriver dalli<ptr target="#tn9" n="9"/> medesimi signori Stati, <lb/>
+li quali così a mia richiesta si compiacquero di far <lb/>
+immediate il servitio; anzi di più dimani mattina deve <lb/>
+partire<ptr target="#tn10" n="10"/> di buon hora detto<ptr target="#tn11" n="11"/> Volberghen verso Roterdam <lb/>
+per dar sodisfattione in parte all’Amiralità poiché il <lb/>
+denaro non è ancor arrivato di Frisia, et il deputato <lb/>
+di quella Pronvincia con consenso dell’assemblea <lb/>
+generale, come obbligata per questo assignamento, lo fa <lb/>
+partire. </p>
+<p>Non mancarò in tutte le cose di far che segui ogni più chiara <lb/>
+dichiaratione et con li mercanti,<ptr target="#tn12" n="12"/> patroni dei vasselli <lb/>
+et con l’Amiraglio come vostra Serenità mi avvisa, massime <lb/>
+nel particolare del denaro, et di quello, che si haverà
+<pb n="079r" facs="06_079r" rend="0"/>
+ad esborsare per acconciamenti delle navi; ben intese però che <lb/>
+non vogliono li portionevoli esser sottoposti a quelle rotture <lb/>
+o mancamenti che accadessero per occasione della guerra <lb/>
+et perché vostra Serenità resti anco meglio informata della natura <lb/>
+di questo noleggio mando qui aggiunta a parte una <lb/>
+dichiaratione che servirà per quelli, delle<ptr target="#tn13" n="13"/> Signorie vostre eccellentissime che <lb/>
+ne haveranno gusto. Et così vedranno esser patrone <lb/>
+assolute dei vasselli mediante il pagamento del noleggio; <lb/>
+come anco esser ad esse<ptr target="#tn14" n="14"/> sottoposti li capitani, officiali, et <lb/>
+marinari, ognuno de’ quali haverà il suo stipendio dichia-<lb/>
+rito a parte: di maniera che morto<ptr target="#tn15" n="15"/> uno si ritiene quel <lb/>
+soldo, con che era rolato; né il Capitano haverà ad ingerirsi <lb/>
+poiché ogni marinaro di che qualità si sia nel passar <lb/>
+la banca doverà haver il suo denaro contante in mano <lb/>
+propria. </p>
+<p>Della marinarezza non dirò di vantaggio di quello, che già <lb/>
+le ho scritto con le mie n° 15 de’ 13 marzo, havendo essequiti <lb/>
+gl’ordini suoi in questo particolare. </p>
+<p>Haveranno le navi velle, ancore, et qualche altro apprestamento <lb/>
+doppio; quella di più ch’io vi potrò far aggiunger di <lb/>
+rispetto userò ogni ufficio perché si facci in conformità
+<pb n="079v" facs="06_079v" rend="0"/>
+del commandamento della Serenità vostra. </p>
+<p>Per li biscotti<ptr target="#tn16" n="16"/> non mi ho saputo risolver a pigliarli stante <lb/>
+il disavantaggio del prezzo da quello, ch’ella me <lb/>
+ne scrisse, come già haverà inteso con precedenti lettere <lb/>
+mie de’ 18 del passato<ptr target="#tn17" n="17"/>; oltre che non potendosi caricarlo sopra<ptr target="#tn18" n="18"/> queste navi <lb/>
+per la quantità dei viveri, munitioni, et genti; mi bisognava <lb/>
+pigliar<ptr target="#tn19" n="19"/> una nave a nolo con spesa <lb/>
+di tre in quattro milla fiorini. </p>
+<p>Colle mie lettere de’ 13 marzo lisse quanto alla sicurtà per <lb/>
+li corpi dei vasselli, et loro dipendenze conforme alla <lb/>
+tassa della stima di essi, che malamente mi promettevo di <lb/>
+poterla far di qua<ptr target="#tn20" n="20"/> ad una, et <lb/>
+mezo per cento per mese, hora replico il medesimo et le <lb/>
+aggiungo esser<ptr target="#tn21" n="21"/> ordinario uso in Amsterdam, che non si <lb/>
+può assicurar, che per li doi terzi del<ptr target="#tn22" n="22"/> valor dei <lb/>
+vasselli, et sue diependenze coma a dire velle, ancore, <lb/>
+gomene, artiglierie, moschetti, spade, utensilii; ma <lb/>
+non per le robbe, che si consumano come viveri polveri <lb/>
+corde<ptr target="#tn23" n="23"/> da fuoco, et simil altre cose, che non può <lb/>
+l’huomo far stato, che restino<ptr target="#tn24" n="24"/>; o bagnate<ptr target="#tn25" n="25"/> se ne possi <lb/>
+cavar profitto: perché l’assicuratore ha sempre speranza
+<pb n="082r" facs="06_082r" rend="0"/>
+che si ricuperi qualche cosa del perso, et come ho detto <lb/>
+non potendosi assicurar il rischio che per li doi terzi; a me <lb/>
+viene presuposto, che come ministro di vostra Serenità potrei <lb/>
+haver privilegio dal magistrato di Amsterdam di assicurar <lb/>
+per il tutto non comprese le robbe consumptive. Vostra Serenità <lb/>
+per tanto intende ciò che occorre in questo particolare, et il <lb/>
+meno<ptr target="#tn26" n="26"/> al certo che potessi fare per la sicurtà da questa <lb/>
+parte sarebbe di una et meza per cento; aggiontovi <lb/>
+anco quello che si doverà pagare al sensale<ptr target="#tn27" n="27"/>, come è <lb/>
+d’ordinario. Ancor non posso dir alla Serenità vostra quello <lb/>
+che saranno valutate da’ signori delle Amiralità le arti-<lb/>
+glierie, che presteranno tanto di ferro, che di bronzo <lb/>
+quelle di ferro costeranno intorno a quindeci fiorini <lb/>
+ogni cento lire, et quelle di bronzo sessanta fiorini il cento <lb/>
+il che doverà anco esser assicurato da lei, perché <lb/>
+come la prestanza sarà per termine di amicitia; <lb/>
+così la perdita, o se ella retinesse l’artiglieria bisognarebbe <lb/>
+che la pagasse. Come sarò in Amsterdam procurerò haver <lb/>
+ogni particolar nota di tutte le cose per inviarla immediate <lb/>
+alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 2 aprile 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="082v" facs="06_082v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 21 fin 23 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="024">
+<!--
+<p n="082vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 aprile 1618 ricevute 25 detto </p>
+<p>Aia. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="025" corresp="024" source="80r-81v" >
+<div type="main" facs="main text of attachment I" n="025" corresp="024" >
+<!--<p>Allegato I al n. 24 (cc. 80r-81v)</p>-->
+<pb n="080r" facs="06_080r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Breve informatione per l’armamento delli 12 vasselli per servitio della <lb/>
+serenissima Republica </p>
+<p>Li signori Stati Generali in mancamento de’ vascelli proprii di guerra hanno <lb/>
+ordinato alli signori dell’Amiralità magistrato destinato sopra il par-<lb/>
+ticolar della guerra di nave, di noleggiare per servitio della <lb/>
+serenissima Republica 12 vascelli mercantili de’ più grandi, et armarli <lb/>
+ad uso di guerra, come loro usano armare i loro vasselli proprii. </p>
+<p>Si noleggia dunque dalli partecipi delli vasselli, il corpo del <lb/>
+vassello con le sue gomene, anchore, vele doppie, et altri de-<lb/>
+pendenti, et con quella poca artellaria, cernita tra quella <lb/>
+che prima del noleggio sudetto si ritrovava in essi vasselli, con obli-<lb/>
+go di preparar li alloggiamenti, per soldati, et marinari, et di tutto <lb/>
+quel tanto che sarà necessario per renderli pronti, et atti ad uso <lb/>
+di guerra, et così sono obligati mantenerli prontamente per tutto<ptr target="#tn28" n="28"/> il tempo <lb/>
+del servitio; fuor che per li danni, che potesserono occorrere <lb/>
+in fattione di guerra, mediante la paga o nolo con che <lb/>
+la serenissima Republica si rende assoluto patrone di detti vasselli come <lb/>
+se li havesse comprati o fatti fabbricare, havendo autorità <lb/>
+di poterli mandare, et impiegare, in tutto quello ch’a essa <lb/>
+parerà buono, et espediente al suo servitio senz’alcun rispetto. </p>
+<p>Sopra essi vasselli li signori dell’Amiralità sudetta con il signor resident[e] <lb/>
+vi mettono tali capitani soldati, et marinari, et altri, che pa-<lb/>
+rerà a loro proprii per servitio della serenissima Republica inmediate <lb/>
+a lei suggetti et dependenti. Alli quali si dà a suo tempo <lb/>
+la mostra, come alli soldati di terra, et ad ognuno in <lb/>
+sua propria mano. Si paga il soldo che si haverà stipulato
+<pb n="080v" facs="06_080v" rend="0"/>
+et fanno il giuramento in mano di esso signor residente, et <lb/>
+signori dell’Amiralità, in nome della serenissima Republica et ogni mese <lb/>
+o quando piacerà alla serenissima Republica si può dar la mostra a <lb/>
+tutti li vasselli, et non si paga alla mostra nessuno, eccetto <lb/>
+quelli che vi si trovano presenti, o per leggittime cause, e <lb/>
+con licenza de’ superiori absenti, pagandoseli il salario <lb/>
+stipulato; alla banca, et in presenza delli signori commissarii. </p>
+<p>In luogo dell’artillarie mancante et leggiere<ptr target="#tn29" n="29"/> questi signori vi <lb/>
+mettono delle artillarie di ferro grieve del Paese di 24 <lb/>
+18 et 12 libre di balla, et alcuni pezzi di bronzo. Et tutto <lb/>
+ciò ad imprescito, et rispondono li detti signori per le paghe, e[t] <lb/>
+viveri, et altro necessario per detta speditione perché si facci presto <lb/>
+et vi spedisca subbito. </p>
+<p>Li provedono anche di armi, monitione di<ptr target="#tn30" n="30"/> guerra, fuochi artificiati <lb/>
+polvere, et altri necessarii a spese di sua Serenità consegnata <lb/>
+alli scrivani, et capi<ptr target="#tn31" n="31"/> bombardieri delli vasselli per renderne <lb/>
+conto, et così restano come è detto, li sudetti conpartecipi de’ vasselli <lb/>
+intieramente esclusi<ptr target="#tn32" n="32"/> di poter commandare; durante<ptr target="#tn33" n="33"/> il scru(tini)o <lb/>
+sopra detti vasselli, né haveranno attione alcuna sopra <lb/>
+di essi mediante il pagamento delli noli stipulati, confor-<lb/>
+me l’uso di questi paesi osservato da’ signori Stati in occorrenza <lb/>
+et mancamento de’ vasselli di guerra. </p>
+<pb n="081r" facs="06_081r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="081v" facs="06_081v" rend="270"/>
+<p>Informatione sopra l’armamento delli <lb/>
+dodici vasselli </p>
+<p>nella prima n° 21 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "-r" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction; followed by "detti" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "s(igno)ri" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "de-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "m-" corrected above "p-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "de … passato" added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "s-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "aggiunger nuova" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "di poterla far di qua" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "l" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "vo" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by ", velle" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "d-" corrected above ,.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-lu-" is the result of a correction.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-u-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

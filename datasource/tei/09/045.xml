@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.045 date 1620-07-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">045</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 243r-244v, 249r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp323-342
+            </note>
+            <biblScope unit="page">243r-244v, 249r-v, 245r-246v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the Dutch suggest the Venetian republic should arm itself to respond to threats of war from Constantinople. He has received a letter by Haga about the affair to the states general which attaches in copy highlighting that the peace with Venice is on the verge of collapsing . He has received the letter from Carleton who sent a copy to the King. Two members of the States General have updated Suriano on the plans to receive Trevisano, including garrison from Emmerik and Rees will meet him. The deputies will go Schenkenschans, Nijmegen, Delft and to the house States General are preparing. One text attached: a letter from Constantinople written by Haga</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-28">28 luglio 1620</date>
+            <num>070, 071</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="070">
+<div type="main" facs="main text of letter" n="070">
+<!--<p>28 luglio 1620, L’Aia (cc. 243r-244v, 249r-v)</p>-->
+<pb n="243r" facs="09_243r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 227 comincia 226 <lb/>
+fin 228 </p>
+<p>Serenissimo Principe </p>
+<p>di quel particolare che la Serenità vostra mi significa nelle sue lettere de’ <lb/>
+9 del passato intorno alle lettere scrittele dal Bassa<ptr target="#tn1" n="1"/> <lb/>
+di Buda sopra pretensioni de’ confini n’ho fatta communicatione <lb/>
+con qualcheduno di questi signori con quali ho havuta occasione <lb/>
+o per camino, o per visita di esser, ch’è stato stimato appunto <lb/>
+venir dall’eccitamento del primo Visir; et mi dissero<ptr target="#tn2" n="2"/> tre <lb/>
+di essi, che domenica rincontrai insieme, che bisognava che <lb/>
+vostra Serenità si risolvesse di prevenir coll’armarsi, et haver qualche <lb/>
+forze in mano per opporsi<ptr target="#tn3" n="3"/> a quell’accidente, che potrebbe derivar <lb/>
+dalla mala volontà, et da qualche ordine pregiudiciale <lb/>
+che potesse esser dato per travagliar quella serenissima Republica. <lb/>
+Io risposi, che vostra Serenità stava occulata, et non haverebbe <lb/>
+mancato a sé stessa. In questo proposito delle cose <lb/>
+di Constantinopoli ho havuta commodità di haver la <lb/>
+translatione di una lettera scritta dall’orator Haghes <lb/>
+a questi signori le ne mando la copia per quelli dell’Eccellenze vostre <lb/>
+che havessero gusto di leggerla. L’ambasciator d’Inghilterra è <lb/>
+quello che me n’ha fatto parte, et egli n’ha mandata <lb/>
+una copia al suo Re, mi disse perché la Maestà sua vedesse <lb/>
+lo stato in che era ridotto il negotio; et insieme per <lb/>
+chiuder la bocca ad alcuni della corte, che vostra Serenità <lb/>
+abbandonasse gl’interessi del re di Bohemia, et de-<lb/>
+gl’istessi Bohemi; parendo che vorrebbono che ella <lb/>
+li aiutasse, non mirando più oltre negl’interessi di lei. <lb/>
+Ho saputo, che questo affare di Constantinopoli per il servitio
+<pb n="243v" facs="09_243v" rend="0"/>
+di quella serenissima Republica preme molto di qua, et con curiosità <lb/>
+vanno attendendo gl’avvisi del successo. Io intanto non <lb/>
+tralascierò far in questo particolare gl’ufficii, che stimerò <lb/>
+proprii, et necessarii. </p>
+<p>Io ho veduto quanto la Serenità vostra mi scrive nelle sudette lettere dei <lb/>
+9. Attenderò quello che dice mandarmi, et il di più che <lb/>
+nel proposito delle navi, loro capitani, et matelotti che <lb/>
+sono stati in suo servitio si compiacerà mandarmi; et <lb/>
+sopra quello in particolare che necessitato dall’importunità <lb/>
+et non già dalla volontà di apportarle minimo tedio, et <lb/>
+disgusto le significai riverentemente colle mie lettere de <lb/>
+hoggi otto n° 224 che col 225 sarà qui aggiunto. Fu replica <lb/>
+dello scritto altre volte a fine di esser più chiaramente <lb/>
+informato della intentione di lei sopra l’accordato colli <lb/>
+capitani, et massime nell’ultimo capitolo dell’accordo. </p>
+<p>Ancor mi trovo colli soli<ptr target="#tn4" n="4"/> roli de’ viveri, et del soldo delli vasselli <lb/>
+di Northolandia; et tuttavia in espettatione degl’altri <lb/>
+et poiché li<ptr target="#tn5" n="5"/> signori<ptr target="#tn6" n="6"/> delle altre Amiralità sono qui soliciterò <lb/>
+et insterò per haver quello si conviene per terminar <lb/>
+questo benedetto affare. </p>
+<p>Intorno a quelli che volessero venir a’ servitii della Serenità vostra <lb/>
+non mancarò venendo l’occasione di offerte di haver delle <lb/>
+persone tutti quei requisiti, ch’ella ricerca, et le ne <lb/>
+darò riverente avviso. </p>
+<p>Li doi signori dell<ptr target="#tn7" n="7"/>’assemblea dei Stati Generali, che hoggi sono
+<pb n="244r" facs="09_244r" rend="0"/>
+venuti a trovarmi a nome di sue Eccelenze mi hanno <lb/>
+d’ordine loro communicata la risolutione presa per <lb/>
+honorar quanto più degnamente si possi l’ingresso in <lb/>
+queste Provincie dell’eccellentissimo signor ambasciator Trivisano, et <lb/>
+l’ordine col quale lo condurranno in quest’Haya. <lb/>
+Mi hanno detto che le guarnigioni di Emerich, et Rees <lb/>
+haveranno commissioni di andar ad incontrar sua <lb/>
+Eccellenza buon spatio d[i]<ptr target="#tn8" n="8"/> camino fuori di quelle piazze <lb/>
+honorarla con salva di moschetteria, et artiglieria <lb/>
+et quivi fargli quel più che si potrà. Fino al forte <lb/>
+di Schincherscans anderanno deputati dalli signori Stati per ricever l’Eccellenza sua a quel confine di queste Provincie <lb/>
+dal qual forte si avanzerà il Giat, o barca del <lb/>
+signor principe Mauritio nella quale entrerà l’eccellentissimo <lb/>
+signor Ambasciatore, et di là si condurrà [a]<ptr target="#tn9" n="9"/> Nimeghen, poi <lb/>
+di piazza in piazza ove<ptr target="#tn10" n="10"/> doverà esser ricevuto <lb/>
+degnamente, et se il signor Principe sudetto non sarà uscito <lb/>
+in campagna, egli col fratello et gl’altri principi, <lb/>
+et signori di qualità, che sono in questa corte con <lb/>
+carrozze lo anderanno ad incontrare fino <lb/>
+a meza stradda di<ptr target="#tn11" n="11"/> qua a Delft, et li signori <lb/>
+Stati deputeranno altri della loro assemblea <lb/>
+che con altre carrozze faranno il medesimo ufficio <lb/>
+di rincontro, ma se sua Eccellenza sarà all’armata in <lb/>
+campagna supplirà da quella parte, et li signori Stati
+<pb n="244v" facs="09_244v" rend="0"/>
+da questa per condur esso eccellentissimo Trivisano nella casa <lb/>
+che si va preparando delle più belle, et in più bel sito <lb/>
+all’uso del Paese. Et mi replicorono li sudetti signori <lb/>
+che mi pregavano anco, ch’io dovessi a suo tempo <lb/>
+iscusar li mancamenti, che vi potessero esser, et assicurar <lb/>
+tanto la serenissima Republica, che ’l detto eccellentissimo signore esser in loro <lb/>
+et nell’universale ottima volontà di corrisponder <lb/>
+al molto, che ha fatto<ptr target="#tn12" n="12"/> vostra Serenità verso il signor Arsen. <lb/>
+Io di questa communcatione resi le<ptr target="#tn13" n="13"/> gratie, che devevo, <lb/>
+et stimai proprie, et li pregai di assicurar li signori Stati <lb/>
+che non havevo dubio, che dalla Serenità vostra sarebbe stato <lb/>
+aggradito questo previo testimonio dell’affetto<ptr target="#tn14" n="14"/> <lb/>
+di<ptr target="#tn15" n="15"/> queste Provincie verso di lei, come anco gl’<lb/>
+effetti honorevoli che si preparano all’eccellentissimo Trivisano. <lb/>
+La casa si<ptr target="#tn16" n="16"/> comincia ad adobbare, et proveder appresso <lb/>
+di vini, et altre cose necessarie; et ben mi aveggo, che <lb/>
+non tralasciaranno questi signori cosa, con che possino <lb/>
+alla meglio sodisfar al debito, che confessano tener <lb/>
+alle tante, et così grandi honorate dimostrationi <lb/>
+usate verso il loro Ambasciatore. Gratie etc. </p>
+<p>Dall’Haya li 28 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="249r" facs="09_249r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="249v" facs="09_249v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 227<ptr target="#tn17" n="17"/> comincia <lb/>
+226 fin 228 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="070">
+<!--
+<p n="249vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 luglio 1620 ricevute a’ 12 agosto </p>
+<p>Haya. n° 227 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="071" corresp="070" source="245r-246v" >
+<div type="main" facs="main text of attachment I" n="071" corresp="070" >
+<!--<p>Allegato I al n. 70 (cc. 245r-246v)</p>-->
+<pb n="245r" facs="09_245r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya n° 227 de’ <lb/>
+28 luglio 1620 </p>
+<p>Di Costantinopoli a’ 21 maggio 1620 </p>
+<p>Il Visir all’instanza delli marcanti interessati ha mandato <lb/>
+hoggi dì per il Bailo veneto perché venisse inanti a lui in <lb/>
+presenza delli Cadilischieri principali giudici con intentione <lb/>
+di ritenerlo per fargli pagar li scritti debiti il signor ambasciator <lb/>
+di Francia, et io ancora ad instanza del Bailo siamo <lb/>
+comparsi per agiutar a mitigar la furia, et interceder <lb/>
+che volessero aspettar la venuta del signor ambasciator Giustignano, <lb/>
+il quale è partito di Venetia a’ 20 d’aprile passato; </p>
+<p>in fine doppo molto contrasto et dibatimento l’affare fu concluso <lb/>
+di aspettar ancor 30 over quaranta giorni per l’ultima <lb/>
+volta, li quali espirati non vorranno sentir più altre <lb/>
+iscuse, et venga o non venga l’Ambasciatore si provederà <lb/>
+all’essecutione; et in caso che ’l Bailo allhora non <lb/>
+acconsenti volontariamente al pagamento, il Visir in nome <lb/>
+dell’imperatore de’ Turchi, dechiarerà che la pace sarà rotta <lb/>
+et da lì in poi levarà per ordine et commandamento l’ordinario <lb/>
+comercio, et transporto di vetovaglie come biave, et <lb/>
+altre cose mentionate, et farà arrestar tutti li vasselli <lb/>
+spettanti a’ Venetiani. Sopra che è stato ispedito a tutte <lb/>
+le frontiere un prealable avviso, </p>
+<p>di più il Visir ha addimandato alli mercanti interressati <lb/>
+in presenza nostra se in caso il Bailo doppo l’espiratione
+<pb n="245v" facs="09_245v" rend="0"/>
+del specificato tempo non vorrà accomodarsi a sodisfar <lb/>
+al pagamento essi mercanti interessati voranno ceder alle <lb/>
+loro pretensioni coll’haver impiccato il detto Bailo, come <lb/>
+è stato impicato l’inteprete Borisi<ptr target="#tn18" n="18"/> sopra che essi tutti ad <lb/>
+una voce, et con gran acclamatione hanno risposto <lb/>
+affermativamente et di questo all’instante ne fu fatto publica <lb/>
+nota dalli<ptr target="#tn19" n="19"/> Cadesleschieri o giudici supremi. Da questo l’Eccellenze vostre <lb/>
+comprenderanno a qual estremità è ridotto l’affare, se <lb/>
+la Republica serra le mano al Bailo da una parte dall’<lb/>
+altra canto sarà egli constretto ad esser sottoposto a <lb/>
+tal tirranide; </p>
+<p>hora è questione se in caso l’Ambasciatore non è autorizato ad <lb/>
+acconsentir al pagamento di che si dubita grandemente che <lb/>
+non solamente sarà rotta la pace ma il Bailo conve-<lb/>
+rrà sodisfar al debito col suo sangue il che intendemo <lb/>
+esser la certa risolutione del Visir, et si maravigliano <lb/>
+grandemente che quel savio senato di Venetia che di <lb/>
+longo tempo ha fatta isperienza della maniera de’ <lb/>
+Turchi che non habbi fatto giuditio dall’essempio del Borizi <lb/>
+che habbi lasciato condur questo negocio a tal estemità et <lb/>
+disperatione a che pure fino il dì d’oggi è stato prevenuto <lb/>
+con le gravi intercessioni, et fideli ufficii delli ambasciatori.</p>
+<pb n="246r" facs="09_246r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="246v" facs="09_246v" rend="270"/>
+<p>Lettera di Constantinopoli dell’orator <lb/>
+Haghes </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 227 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "per opporsi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Ink stain.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Ink stain.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "la ser(enissi)ma" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "verso" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes "di lei" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "fi" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Added above the line.</p></note>
+</div>
+</body>
+</text>
+</TEI>

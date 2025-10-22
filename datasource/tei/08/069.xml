@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.069 date 1619-12-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">069</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 358r-359v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">358r-359v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter to acknowledge receipt of letters from 30 November containing a patent and another piece of writing given to him by a messenger. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-17">17 dicembre 1619</date>
+            <num>119</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="119">
+<div type="main" facs="main text of letter" n="119">
+<!--<p>17 dicembre 1619, L’Aia (cc. 358r-359v)</p>-->
+<pb n="358r" facs="08_358r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 160 seguita 158, et <lb/>
+159 di questo giorno </p>
+<p>Serenissimo Principe </p>
+<p>mi sono capitate tanto in tempo le lettere della Serenità vostra de’ 30 <lb/>
+del passato con la patente, et scrittura inserta, che ’l messaggiero solo <lb/>
+era uscito, et poco discosto dalla mia casa<ptr target="#tn1" n="1"/> col mio <lb/>
+dispaccio di questo giorno; onde richiamatolo aggiungo queste <lb/>
+per accusarlene la ricevuta. Di che ho sentito contento <lb/>
+per levarla da qualche pensiero in che l’havesse potuta <lb/>
+metter la mia seconda, con che avvisavo non haverle <lb/>
+ancor ricevute. </p>
+<p>Ho veduto il contenuto di esse lettere così in passando, et <lb/>
+compreso in buona parte l’intentione di lei alla quale <lb/>
+non mancano di sodisfar con ogni studio et conforme <lb/>
+alla devotione, et zelo mio devoto, et fedele al publico <lb/>
+servitio. Non<ptr target="#tn2" n="2"/> mi dà più tempo il messaggiero, né ho <lb/>
+che dirle di vantaggio se non che pregarò Iddio di buon <lb/>
+cuor, che nell’essequir bene li suoi commandamenti mi <lb/>
+assisti. Gratie etc. </p>
+<p>Dall’Haya li 17 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="358v" facs="08_358v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="359r" facs="08_359r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="359v" facs="08_359v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 160 seguita <lb/>
+li numeri 158, 159 <lb/>
+di questo giorno </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="119">
+<!--
+<p n="358vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 decembre 1619 ricevute a’ 2 gennaro </p>
+<p>Haia. n° 160 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue ; onde depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

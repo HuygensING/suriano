@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.004 date 1617-03-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">004</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 16r-20v, 27r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">16r-20v, 27r-v, 21r-v, 26r-v, 22r-23v, 24r-25v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Tomorrow John Ernst of Nassau will leave, Vimes will accompany him on the journey together with Rocquelaure, who wants to leave as soon as possible to be freed from Odet de la Noue. John Ernst has taken leave from States General and has promised to uphold honour of nation and to be disciplined. Mettoni has still not been able to leave in Texel. Enclosed is letter by States General to the Serenissima, the cost that John Ernst has already undertaken to raise the army and rent the ships. Other bills follow about cost made and reimbursements. Suriano concludes his letter by praising Vimes services for the Venetian Republic, he has played an important role in securing the levies. In recognition for his services, Suriano has paid him 30 scudi per month and has given him 300 florins for the voyage. Three documents attached: "Lettera in francese del 10 marzo 1617"; "Lettera dei Signori Stati Generali del 7 marzo 1617" and "Nomi e qualità delli colonelli"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-11">11 marzo 1617</date>
+            <num>006, 007, 008, 009</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="006">
+<div type="main" facs="main text of letter" n="006">
+<!--<p>11 marzo 1617, L’Aia (cc. 16r-20v, 27r-v)</p>-->
+<pb n="016r" facs="04_016r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>dimani il signor conte Gio. Ernesto di Nassau si metterà in camino, <lb/>
+et gli ho date mie lettere per vostra Serenità. Varie occupationi <lb/>
+non gli hanno permessa prima la partenza; ma dice, che <lb/>
+tanto più affretterà il viaggio<ptr target="#tn1" n="1"/>. Oltre il signor Vimes, il suo <lb/>
+fiscale, il pagadore, et un paggio haverà con lui il signor di <lb/>
+Rocalaura francese colonello del secondo reggimento <lb/>
+huomo di nome, et d’effetti in questi paesi, et dal quale riceverà <lb/>
+la Serenità vostra ottimo servitio. Questo mi par di poter assicurare <lb/>
+perché tale è la riputatione di lui fra quelli della sua Natione <lb/>
+et fra altri ancora. M’ha detto, che brama partir quanto <lb/>
+più presto per liberarsi dalla molestia delli ambasciatori di <lb/>
+Francia, che più d’una volta l’hanno essortato a <lb/>
+lasciar l’impresa, et andar in Francia, et egli li ha <lb/>
+risposto, che ha obligato sé stesso con la permissione <lb/>
+del Re al servitio della serenissima Republica, che però niuna <lb/>
+cosa lo poteva retirar dall’obligo. Seguiteranno <lb/>
+il signor Conte alcuni altri pochi de’ suoi un giorno o doi doppo <lb/>
+et particolarmente doi ministri: et tutti sono stati avvertiti <lb/>
+di camminar cautamente. </p>
+<p>Fu il signor Conte a prender licenza martedì nell’assemblea <lb/>
+de’ signori Stati, li quali gli fecero molte belle parole; ma <lb/>
+nell’essentiale li raccommandorono l’honor di questa <lb/>
+Natione, il buon governo della militia, il tenervi buona
+<pb n="016v" facs="04_016v" rend="0"/>
+disciplina, et con equità proceder in tutte le cose, et particolarmente <lb/>
+gli replicorono l’haver per raccomandamento il fatto di religione. Et <lb/>
+gli hanno date lettere per vostra Serenità il tenor delle quali è <lb/>
+l’aggiunto in copia. Contiene in sostanza il rappresentar <lb/>
+le qualità, et il valore del soggetto, la prontezza nel far <lb/>
+la levata, et imbarco, le spese, alle quali, è stato necessitato <lb/>
+soccumber per la stravaganza del tempo, il tormento, <lb/>
+che ha patito nell’animo, et quello de’ soldati nell’animo, et <lb/>
+nel corpo per l’agitatione continuata; pregano vostra Serenità <lb/>
+haver in consideratione di render sodisfatto il signor Conte et li <lb/>
+soldati; et in fine raccommandano la pronta ispeditione <lb/>
+nel pagamento a’ patroni dei vasselli. Questi doi punti <lb/>
+sono essentiali, et che hanno mira ad obligar la Serenità vostra <lb/>
+con quello, che chiude le lettere a ricever caramente <lb/>
+et usar ogni buon termine non solo al signor Conte et alli officiali, <lb/>
+ma<ptr target="#tn2" n="2"/> a tutti li soldati. Et tanto anco <lb/>
+quacheduno in passando ha per via di confidenza <lb/>
+detto meco, allargandosi, che in questa occasione potrà la Serenità vostra <lb/>
+dar segno della stima, che fa della Natione, et di <lb/>
+questi Stati; et io non ho mancato di affermar ad <lb/>
+ognuno, che le dette genti riceveranno ogni buon trattamento. <lb/>
+Non ha havuta il signor Conte alcun altra commissione da’ signori Stati per vostra Serenità. </p>
+<pb n="017r" facs="04_017r" rend="0"/>
+<p>Ha piacciuto a Dio, che ’l tempo finalmente sia venuto buono, et <lb/>
+che ’l desiderio della Serenità vostra espresso anco nelle sue lettere <lb/>
+de’ 23 del passato, che mi sono capitate con altre del medesimo <lb/>
+giorno, habbi havuto effetto, altrimenti se tardavano <lb/>
+le genti ancor sette, over otto giorni ad uscire, m’ha <lb/>
+detto il signor Conte che ’l signor principe Mauritio gli haveva affermato <lb/>
+che correva opinione di pregarmi ad ispedir a vostra Serenità <lb/>
+corriero espresso per ricercarla, che si compiacesse di lasciarle <lb/>
+qua; et tanto più con la voce, che si sparse, che <lb/>
+l’accordo era fatto in Italia massime tra vostra Serenità <lb/>
+et il serenissimo Ferdinando. Sopra che io non lasciarò di <lb/>
+replicar quel tanto, che la Serenità vostra mi commanda <lb/>
+nelle medesime lettere sue. </p>
+<p>Lodata sua divina Maestà sono le genti in camino, et credo <lb/>
+tanto avanzate, che col vento proprio, ch’è seguitato <lb/>
+ognuno si promette, che sino a questo giorno o siano <lb/>
+passate il distretto, o poco habbino a star di <lb/>
+passarlo con l’avviso particolarmente, che si è havuto doi <lb/>
+giorni sono da Roterdam, che un vassello le habbi <lb/>
+rancontrate ne’ mari di Spagna. </p>
+<p>Questa mi è gran consolatione; ma dall’altro canto mi mortifica il veder che ancor mi resti qui la compagnia del capitan Mettoni, che col vassello diede
+<pb n="017v" facs="04_017v" rend="0"/>
+in terra, come ne scrissi riverentemente alla Serenità vostra l’indescret-<lb/>
+tione d’un patron di nave, che promesse la prontezza di metterla ad ordine è stata tale, che ha bisognato <lb/>
+di pigliarne un’altra. Hieri partì per Amsterdam quello, che deve sollecitar l’ispeditione per far quanto più si potrà <lb/>
+perché sia ben testo ad ordine. Io non<ptr target="#tn3" n="3"/> mancarò di <lb/>
+metter studio affineché questa compagnia non si <lb/>
+perdi massime trovandosi sbarcata nel Tessel. Ho pregato il Capitano con ogni maggior affetto, che vi <lb/>
+tenga la mano, et mi ha promesso, che non mancarà <lb/>
+et sperava, che come sono soldati volonterosi, così <lb/>
+haverebbono anco patienza d’aspettare. Lascio consi-<lb/>
+derar alla prudenza della Serenità vostra come questo <lb/>
+restante sia sofferto da me; et certo è con maggior <lb/>
+impatienza de’ passati accidenti per il suo servitio. </p>
+<p>Il signor Conte mi ha pregato, che havendolo la Serenità vostra honorato <lb/>
+del grado, et titolo di generale delle genti di quest[i] <lb/>
+paesi si compiaccia di far che anco le genti del <lb/>
+Wassnhoven siano sotto al suo generalato. Disse, non <lb/>
+per pregiudicar a quanto s’aspetta al commando <lb/>
+né ad altro privilegio, o accordo, che ha il Wasson[hoven] <lb/>
+ma solo per esser genti di questi paesi, et levate <lb/>
+doppo la sua levata. Io gli ho risposto, che
+<pb n="018r" facs="04_018r" rend="0"/>
+volontieri, ne haverei scritto a vostra Serenità; ma che sapeva bene, <lb/>
+che ’l Wassonhoven, et lo Stich suo luocotenente mal volon-<lb/>
+tieri si sarebbono accommodati. Questo stanti le cose <lb/>
+successe per la negativa del capitaneato; et l’altro per <lb/>
+non dispiacer ad esso Stich, che lo ha fatto forte di denari; <lb/>
+et io aggiungerò riverentemente alla Serenità vostra del Wassonhoven <lb/>
+per l’ambitione di esser egli ancora capo separato <lb/>
+essendo di questa Natione. </p>
+<p>Di più m’ha fatta instanza di rappresentar alla Serenità vostra <lb/>
+che come ha abbracciato con devota prontezza il venir <lb/>
+al servitio di lei; così resti anco servita di haver <lb/>
+in consideratione le gran spese, ch’egli ha fatte nel <lb/>
+noleggio de’ vasselli, che hanno servito<ptr target="#tn4" n="4"/> a condur <lb/>
+le genti alle navi grandi, a tenerne dalla parte di <lb/>
+esse per sollevar li soldati, le spese de’ viaggi necessarii <lb/>
+fatte da lui, et da’ suoi, che sono state straordinarie <lb/>
+per la lunghezza del tempo, et delli accidenti. M’ha <lb/>
+detto promettersi tanto della munificenza di lei, <lb/>
+che non dubita punto, che con aggradir la sua ottima <lb/>
+volontà, et il desiderio, che ha di far apparer <lb/>
+per effetti la brama, che tiene di far qualche segna-<lb/>
+lato servitio alla Serenità vostra sia ella anco per haver in <lb/>
+consideratione l’interesse suo, che in fine non ha poi
+<pb n="018v" facs="04_018v" rend="0"/>
+altro oggetto, che di honorar la carica, et apportar maggior <lb/>
+frutto al servitio di lei. Et si è difuso in altri concetti simili, <lb/>
+a’ quali io ho corrisposto nel miglior modo, et più proprio. </p>
+<p>Qui aggiunta sarà la ricevuta di quanto gli ho esborsato <lb/>
+per la levata, et per l’armi, et a conto del nolo de’ <lb/>
+vasselli, et della prima, et seconda paga. In questo <lb/>
+gl’accidenti hanno portato, ch’io ho avanzato più <lb/>
+di quello, che haverei voluto; né credo, che la Serenità <lb/>
+vostra sia per riceverlo con mala sodisfattione mentr’io <lb/>
+essendo occorsi tanti, et varii accidenti per la lunghezza <lb/>
+del tempo mi sono lasciato condurre dalla pura <lb/>
+necessità, et dalla mira, che ho havuta alla <lb/>
+riputatione di lei, regolandomi sul fatto; et a fine <lb/>
+anco di non dar ad intender che non si vogli haver <lb/>
+in consideratione la qualità de’ tempi, et dell’occasioni <lb/>
+che non così facilmente possono prevedersi. Con tutto ciò <lb/>
+io la supplicarò ad iscusar l’affetto quando <lb/>
+dovesse chiamarsi transgressione. </p>
+<p>Ho fatta far la ricevuta delli cento quattromilla <lb/>
+doicento sessanta sei fiorini tutto in summa a <lb/>
+buon conto della prima, et seconda paga per evitar <lb/>
+la pretensione che si haveva di ricever qui lo <lb/>
+scudo di sette lire a cinquanta sei piachi, che
+<pb n="019r" facs="04_019r" rend="0"/>
+non sapendo assolutamente che così rivenghi mi sono rimesso <lb/>
+al calcolo, che farà con li ministri della Serenità vostra, et se n’è <lb/>
+contentato; et mi ha pregato di scriverle anco, <lb/>
+che ’l denaro sia pronto perché possi render sodisfatti <lb/>
+li marinari; et particolarmente che siano provisti li soldati <lb/>
+al loro arrivo in Istria delle cose necessarie per <lb/>
+rinfrescarsi. Di questo li ho detto, che non si ponga <lb/>
+pensiero, come anco intorno a’ marinari gli ho <lb/>
+significato quanto la Serenità vostra me ne scrive. </p>
+<p>Oltre l’esborso sudetto vi sono delle altre spese fatte <lb/>
+in viaggi per questa levata, et imbarco da me, dal <lb/>
+Vimes, et da alcuni de’ miei, che invierò alla <lb/>
+Serenità vostra con altre mie: perché possi ella veder il <lb/>
+fondo di questo negotio; et credo certo, che <lb/>
+mi sarà necessario assister anco di qualche cosa alla <lb/>
+compagnia, che resta. </p>
+<p>Haverà anco vostra Serenità con queste un’altra quietanza <lb/>
+che ’l medesimo signor Conte mi ha fatta, come se egli havesse <lb/>
+ricevuti da me settemilla doicento fiorini. Questi <lb/>
+non li ho esborsati, né doverò farlo se non al primo di<ptr target="#tn5" n="5"/> maggio <lb/>
+prossimo ad un mercante in Amsterdam, in caso che <lb/>
+non sia pagato da un capitano ch’è in questi paesi <lb/>
+al servizio de’ signori Stati, come mi ha affermato
+<pb n="019v" facs="04_019v" rend="0"/>
+esso Conte, che lo farà, et doverà, così seguendo esserne <lb/>
+egli fatto creditore, altrimenti haverà a ribattersegli <lb/>
+di là nelle paghe. Io ho scritto al Quingetti in <lb/>
+Amsterdam, che dia parola di questo esborso per maggio <lb/>
+prossimo occorrendo; et a suo tempo darò riverentemente <lb/>
+conto alla Serenità vostra del seguito affineché possi regolar <lb/>
+la scrittura. Si trattava grandemente della riputatione del signor <lb/>
+Conte se non trovava questo ispediente, al quale perché <lb/>
+io adherisci mi ha fatte preghiere efficacissime. </p>
+<p>Tengo altre doi copie appresso di me della stessa <lb/>
+obligatione, sottoscritte, et sigillate; come anco doi <lb/>
+altre di tutta la summa del denaro esborsatogli. </p>
+<p>Non ho inteso a dir cosa alcuna di quanto la Serenità vostra mi <lb/>
+manda scrittogli da Zurich delle disseminationi di quel <lb/>
+gentilhuomo del signor conte Guglielmo di Nassau; anzi <lb/>
+essendo stato questa mattina col signor conte Gio. Ernesto m’ha ringratiato affettuosamente delli honori, et <lb/>
+favori fatti al fratello, ch’io gli communicai per <lb/>
+cavar se vi fosse alcuna cosa in questo particolare senza <lb/>
+condescender ad altro; né mi sono aveduto, che <lb/>
+vi sia alcun avviso: starò nondimeno avvertito di <lb/>
+quello se ne potesse scriver per levar la mala impressione <lb/>
+come le Signorie vostre eccellentissime mi commandano. </p>
+<pb n="020r" facs="04_020r" rend="0"/>
+<p>Col signor Conte parte anco, come ho riverentemente detto, il signor <lb/>
+Cornelio di Vimes per accompagnarlo. Viene col suo ordinario <lb/>
+devoto animo d’impiegarsi, et di spender sé stesso in <lb/>
+servitio di quella serenisima Republica per sodisfar all’obligo, <lb/>
+che le deve. Le fatiche, ch’egli ha fatte in paese de’ <lb/>
+Grisoni, l’angustie, che ha passate, et li patimenti sofferti <lb/>
+tra quelle genti già sono note alla Serenità vostra; et con che <lb/>
+affetto si sia sempre adoperato nel servitio di lei, ne ha <lb/>
+havuta relationa da’ suoi eccellentissimi ambasciatori, et da’ suoi ministri; <lb/>
+et io mentre sono stato nel paese de’ Svizzeri, le ho scritta <lb/>
+la verità del suo ottimo affetto. Hora le confermo lo <lb/>
+steso parendomi esserne in obligo, come faccio anco del <lb/>
+sollevo che ho havuto da lui col mezo del possesso, che <lb/>
+ha di varie lingue, et della sua sufficienza, quando <lb/>
+fui di commissione di vostra Serenità alli signori principi dell’Unione. <lb/>
+Qui oltre in altri affari, in che mi<ptr target="#tn6" n="6"/> sono valso di <lb/>
+lui in questa levata in particolare del signor Conte si è dipor-<lb/>
+tato con tanta maniera, che tra migliara de’ soldati <lb/>
+et alcuni di cervello incapace del termine honesto, <lb/>
+ha saputo ben spesso moderar l’insolenza, et l’impatienza; <lb/>
+tutto con frutto di vostra Serenità et con mia particolar sodisfattione <lb/>
+onde merita la gratia di lei. Se la promette, et la <lb/>
+spera con augumento di honore, et di fortuna. </p>
+<pb n="020v" facs="04_020v" rend="0"/>
+<p>Io li ho pagato sino qui tutte le sue mesate in ragione <lb/>
+di trenta scudi per mese in conformità delle commissioni <lb/>
+che dalle Signorie vostre eccellentissime fino all’ottobre 1615 et in altre <lb/>
+lettere ancora mi furono date: et per accommodarsi per il <lb/>
+viaggio, et per qualche spese, che sono necessarie in così <lb/>
+lunga distanza di paese, et massime nella presente <lb/>
+stagione, che non è ancor così facile a viaggiare li ho <lb/>
+dati trecento fiorini. Il che tutto mi prometto, che <lb/>
+sarà aggradito, et ben inteso da vostra Serenità massime <lb/>
+fatto con soggetto così benemerito. </p>
+<p>Gli ho consignata una copia dei roli delle compagnie con lettere <lb/>
+all’illustrissimo signor savio di Terraferma alla scrittura; et <lb/>
+un’altra per ogni buon rispetto ne mando io con quest’<lb/>
+ordinario al medesimo illustrissimo Signore, al quale scrivo anco <lb/>
+la causa di quanto vi potesse esser d’alteratione in essi <lb/>
+et qui aggiunta invio la nota della qualità de’ <lb/>
+colonelli, et capitani delle genti per quelli delle Signorie vostre <lb/>
+eccellentissime che havessero gusto di vederla. Ma<ptr target="#tn7" n="7"/> particolar <lb/>
+notitia ancora ne potranno havere da esso Vimes <lb/>
+che conosce i soggetti. Gratie etc. </p>
+<p>Dall’Haya a’ 11 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="027r" facs="04_027r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="027v" facs="04_027v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="006">
+<!--
+<p n="027vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>xi marzo 1617 ricevute 29 detto </p>
+<p>Haia. Prima </p>
+<p>1. Partiva il giorno dietro il conte Gio. Ernesto, <lb/>
+gli ha date lettere. Affretterà il viaggio. <lb/>
+Con lui il Vimes, il fiscale, il pagador, un paggio. Et il signor di Rocalaura francese. Etc. <lb/>
+Dice di partir volentieri per liberarsi dalle <lb/>
+instanze delli ambasciatori di Francia. </p>
+<p>Seguiteranno poi il Conte alcuni altri de’ suoi. </p>
+<p>2. Li signori Stati gli hanno raccomandato l’honore <lb/>
+della Natione, et il buon governo della militia. <lb/>
+Et dategli lettere come in copia; et dice <lb/>
+la loro sostanza più essentiale. </p>
+<p>Non ha havuto il Conte alcuna altra comissione<ptr target="#tn8" n="8"/> <lb/>
+da’ signori Stati per vostra Serenità. </p>
+<p>3. Se le genti tardavano 7 o 8 giorni più <lb/>
+il principe Mauritio voleva richieder si lasci-<lb/>
+assero di là. Etc. </p>
+<p>Si crede siano al passar dello stretto. <lb/>
+Un vassello li ha incontrari ne’ mari di Spagna. </p>
+<p>4. La compagnia del capitan Mettorsi resta <lb/>
+inespedita, essendosi convenuto trovar <lb/>
+un altro vassello: dubbio del sbandarsi le genti. </p>
+<p>5. Instanza del Conte, che anche le genti del <lb/>
+Vassonvem siano sotto il suo generalato. <lb/>
+Considerationi che il Vassonvem non assentirà. </p>
+<p>L. C. R. </p>
+<p n="027vD">———</p>
+<p>6. Instanze del Conte che si habbia riguardo <lb/>
+alle sue spese estraordinarie di barche, et altro: <lb/>
+confidenza nella munificienza publica <lb/>
+et uffici della sua volontà, et osservanza. </p>
+<p>7. Manda nota dell’esborsatogli per la levata <lb/>
+et per l’armi: et a conto del nolo, et della <lb/>
+prima et 2<hi rend="superscript">a</hi> paga. Cioè a bon conto </p>
+<table>
+<row role="label">
+<cell><p>Del primo et 2° mese di paga</p></cell>
+<cell><p>fiorini 104266 </p></cell>
+</row>
+<row>
+<cell><p>Per la levata di fanti 3250 a fiorini 14</p></cell>
+<cell><p>fiorini 45500 </p></cell>
+</row>
+<row>
+<cell><p>A conto di fiorini 95 mila<ptr target="#tn9" n="9"/> per il nolo</p></cell>
+<cell><p>fiorini 65000 </p></cell>
+</row>
+<row>
+<cell><p>Per avanzo del comprar l’armi</p></cell>
+<cell><p>fiorini 24000 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fiorini 238766<ptr target="#tn10" n="10"/> </p></cell>
+</row>
+</table>
+<p>Spera haver operationi con sodisfattione publica. </p>
+<p>8. Ha schivato il calcular di là il <lb/>
+valore del scudo. </p>
+<p>Instanza che sia pronto il denaro per <lb/>
+pagar li marinari, et provisioni <lb/>
+in Istria per rinfrescarsi. </p>
+<p>9. Vi sono altre spese delle quali <lb/>
+manderà il conto. </p>
+<p>Manda ricevuta di altri fiorini <lb/>
+7200 da pagarsi a maggio <lb/>
+in caso. Etc. </p>
+<p>Ordine per ciò dato <lb/>
+al Quingetti. </p>
+<p>Il Conte ringratia <lb/>
+delle cortesie usate al fratello. </p>
+<p n="027vA">———</p>
+<p>10. Parla del Vimes, et del servitio da lui <lb/>
+prestato. </p>
+<p>Lo ha pagato di tutte le mesate finhora <lb/>
+a scudi 30 il mese, giusta l’ordine. </p>
+<p>Et datoli per il viaggio fiorini 300. <lb/>
+Crede che tutto ciò sarà aggradito. </p>
+<p>xi. Gli ha consignato una copia <lb/>
+de’ rolli, et una ne manda con <lb/>
+quest’ordinario. </p>
+<p>Manda nota de’ collonelli, et capitani. <lb/>
+Il Vimes li conosce tutti. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="007" corresp="006" source="21r-v, 26r-v" >
+<div type="main" facs="main text of attachment I" n="007" corresp="006" >
+<!--<p>Allegato I al n. 6 (cc. 21r-v, 26r-v)</p>-->
+<pb n="021r" facs="04_021r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Nous Jean Ernest conte de Nassau Catzenelboges <lb/>
+confessons avoir receu de seigneur Christofforo Suriano <lb/>
+resident par la serenisseniseme<ptr target="#tn11" n="11"/> republicque de Venise <lb/>
+auprés de messires les Estats Generauls des Provinces <lb/>
+Unies la somme de sept mille deux cent florins <lb/>
+à bon compte de la solde de nos troupes, allant au <lb/>
+service de la Sernité. Thesmoni nostre signature <lb/>
+et cachet faict à la Haye ce 10<hi rend="superscript">e</hi> mars 1617. </p>
+<p>Jh. de Nassau </p>
+<p><metamark facs="Seal"/>
+<pb n="021v" facs="04_021v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="026r" facs="04_026r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="026v" facs="04_026v" rend="270"/>
+<p>n°<ptr target="#tn12" n="12"/> 3 </p>
+<p>Ricever del signor conte Gio. Ernesto <lb/>
+di fiorini sette mille doicento <lb/>
+ancorché non esborsati </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="008" corresp="006" source="22r-23v" >
+<div type="main" facs="main text of attachment II" n="008" corresp="006" >
+<!--<p>Allegato II al n. 6 (cc. 22r-23v)</p>-->
+<pb n="022r" facs="04_022r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Lettera a sua Serenità de’ signori Stati Generali data al signor conte Gio. Ernesto di Nassau <lb/>
+nel licentiarsi da sue Signorie </p>
+<p>Serenissimo Duca </p>
+<p>essendosi questa mattina licentiato da noi il signor conte Gio. Ernesto <lb/>
+conte di Nassau per la sua partenza verso Venetia <lb/>
+la sua magnanima, et corraggiosa resolutione, et dispositione <lb/>
+per far, et render servitio tale a vostra Serenità e alla serenissima Republica <lb/>
+che si assicura (se piacerà a Dio di conservarlo in sanità) <lb/>
+che vostra Serenità n’haverà ogni contentezza, et egli ne riporterà <lb/>
+honore, et li sudditi dello Stato di lei sollevo per l’ordine <lb/>
+della nostra militia, et disciplina, ch’egli farà valere <lb/>
+quanto più gli sarà possibile, come noi li habbiamo affet-<lb/>
+tuosamente<ptr target="#tn13" n="13"/> raccommandato. Noi non habbiamo potuto lasciar <lb/>
+di non avvertirne vostra Serenità con le presenti, sperando che <lb/>
+dalla divina bontà gli sarà fatta gratia, ch’egli <lb/>
+potrà tanta sodisfattione di sé stesso, com’egli valo-<lb/>
+rosamente ha fatto nel servitio nostro, et che la buona <lb/>
+fortuna lo seconderà nello stesso col mezo de’ felici <lb/>
+successi nelle sue intraprese sotto il commandamento <lb/>
+di lei. A che aggiungeremo ancora questa nostra <lb/>
+attestatione, che ’l detto signor Conte sì tosto ottenne da noi <lb/>
+di poter far la sua levata, che s’impiegò con tal <lb/>
+spirito di vera, et estraordinaria diligenza quanto
+<pb n="022v" facs="04_022v" rend="0"/>
+humanamente puote; di maniera che la fece in brevissimo spatio <lb/>
+di tempo, tenendo le sue genti pronte per farle imbarcar <lb/>
+et partir se ’l vento havesse servito; havendole doppo <lb/>
+trattenute imbarcate più di tre mesi a sue gran spese <lb/>
+et estraordinario dispendio con mal contento de’ soldati <lb/>
+per il travaglio, et continuata agitatione per le grandissime <lb/>
+tempeste, che hanno fatto, et continuato la più parte <lb/>
+del tempo del loro imbarco, et ha causato ancora, <lb/>
+che uno de’ vasselli essendo tornato il tempo al buono <lb/>
+che una delle navi è stata portata sopra la sabbia <lb/>
+nel sortire et ciò per la diligenza usata da’ marinari <lb/>
+a fine di non perder alcun tempo, o vantaggio per avanzar <lb/>
+il camino: onde il signor Conte fu astretto di<ptr target="#tn14" n="14"/> levar <lb/>
+li soldati, et farli imbarcar in un altro vassello con <lb/>
+le armi loro, bagaglie, viveri, et altre commodità <lb/>
+et provisioni, il qual<ptr target="#tn15" n="15"/> a tal fine gli è convenuto noleggiar <lb/>
+estraordinariamente. Per tanto pregiamo, et raccom-<lb/>
+mandiamo affettuosamente a vostra Serenità che si compiaccia <lb/>
+di prender favorel riguardo, et consideratione a tutte <lb/>
+le contrarietà, et mali incontri successi dalla man
+<pb n="023r" facs="04_023r" rend="0"/>
+di Dio, alle quali tutte l’industrie humane non possono porger <lb/>
+rimedio, facendo<ptr target="#tn16" n="16"/> riconoscer sì liberalmente et remunerar <lb/>
+il detto signor Conte et le sue genti, come vostra Serenità et la detta <lb/>
+serenissima Republica per ragione, et equità troverà<ptr target="#tn17" n="17"/> <lb/>
+conveniente, et essi habbino ragione di laudarsi, <lb/>
+come noi ne habbiamo piena confidenza affine di <lb/>
+altrettanto più animarli, et darli cuore. Raccomman-<lb/>
+dando in oltre ben seriosamente li marinari de’ <lb/>
+vasselli, compiacendosi dar ordine, che siano <lb/>
+prontamente pagati doppo il loro arrivo, et ispediti <lb/>
+affineché poi avanzar li loro viaggi verso li paesi <lb/>
+et quartieri, ove sono destinati, nel che sono tanto <lb/>
+tempo fa stati ritardati per le contrarietà sudette <lb/>
+dei venti. Di tal maniera la Serenità vostra ci farà la Serenità vostra <lb/>
+cosa agradevolissima, et ci obligarà tanto maggiormente <lb/>
+a riconoscerla all’occasioni, che s’offerissero per <lb/>
+sodisfar a lei, nel che saremo prontissimi, et volon-<lb/>
+terosi secondo che ci sarà concesso da’ nostri affari; <lb/>
+pregando in tanto il Creatore <lb/>
+di mantener vostra Serenità in perfettissima <lb/>
+sanità longhissima, et felicissima vita<ptr target="#tn18" n="18"/>. </p>
+<p>Serenissimo Duca </p>
+<p>nell’Haya a’ 7 marzo 1617 </p>
+<p>affettuosissimi amici per farli servitio li Stati Generali de’ <lb/>
+Paesi Bassi Uniti
+<pb n="023v" facs="04_023v" rend="270"/>
+n° 1 </p>
+<p>Lettera de’ Stati Generali al signor conte <lb/>
+Gio. Ernesto di Nassau nel licentiarsi </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="009" corresp="006" source="24r-25v" >
+<div type="main" facs="main text of attachment III" n="009" corresp="006" >
+<!--<p>Allegato III al n. 6 (cc. 24r-25v)</p>-->
+<pb n="024r" facs="04_024r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Nomi et qualità delli colonelli et capitani <lb/>
+delli tremille<ptr target="#tn19" n="19"/> doicento cinquanta fanti <lb/>
+levati dal signor conte Gio. Ernesto di Nassau </p>
+<p>Il signor conte Gio. Ernesto di Nassau etc. generale delle genti de’ Paesi Bassi. </p>
+<p>Il signor Gio. Weer locotenente generale inglese nipote che fu del già<ptr target="#tn20" n="20"/> general Francesco <lb/>
+Weer, è stato tredeci anni capitano in questi paesi nudrito da sua Eccellenza paggio <lb/>
+huomo di età di 34 anni buon soldato et amato della sua Natione. </p>
+<p>Monsignor Gulena francese sergente maggiore di questo regimento. È stato luocotenente <lb/>
+della compagnia colonella sotto la condotta di monsignor di Betuna. È soldato <lb/>
+coragioso esperimentato in questi paesi ne’ quali ha havuto anco carica di <lb/>
+capitano et la tiene tuttavia. </p>
+<p>Il signor duca de Holstein alemano nipote del re di Danimarca, et della regina <lb/>
+d’Inghilterra giovene di 22 anni desideroso di gloria et di riputatione. </p>
+<p>Il signor conte Guielmo di Nassau fratello del signor conte Gio. Ernesto hebbe carica di una <lb/>
+compagnia di cavallaria sotto al comando del conte Gio. suo fratello quando <lb/>
+fu destinato per Savoia, che furono poi licentiate mentre dovevano passar <lb/>
+il paese de’ Svizzeri, ha havuto condotta d’una compagnia d’infantaria alla <lb/>
+ultima guerra di Bransvich. </p>
+<p>Il signor di Cluting holandese fratello del signor di Brederod della vera casa di conti <lb/>
+d’Holanda giovene di 26<ptr target="#tn21" n="21"/> anni incirca, et ha<ptr target="#tn22" n="22"/> qui una compagnia <lb/>
+d’infantaria estraordinaria. </p>
+<p>Il signor Henrico Woodhousen di natione inglese huomo di 40 anni incirca sono <lb/>
+16 anni et più che li è capitano in questi paesi di compagnia della sua <lb/>
+Natione, huomo valeroso et di isperienza. </p>
+<pb n="024v" facs="04_024v" rend="0"/>
+<p>Il signor David Morlot alemano gentilhuomo di sua Eccellenza amato molto de lei <lb/>
+et de spirito grando. </p>
+<p>Il signor Pietro Melander alemano fu paggio del signor conte Gio. Ernesto nutrito con <lb/>
+lui. È stato luocotenente di<ptr target="#tn23" n="23"/> cavallaria del conte di Wanderlip in Franza <lb/>
+huomo di gran cuore, stimato et amato et che tiene in ottima regola la <lb/>
+sua compagnia. </p>
+<p>Il signor Lodovico Brederod<ptr target="#tn24" n="24"/> holandese stato alfiere del regimento valone <lb/>
+del signor conte Gio. Ernesto, si professa anc’egli della casa vera di conti d’<lb/>
+Holanda, ma quelli d’essa dichiarano altramente et che venga per linea <lb/>
+stranversale<ptr target="#tn25" n="25"/>, in ogni modo il signor conte Gio. Ernesto l’ama et fa stima <lb/>
+di lui essendo huomo di buona speranza nel<ptr target="#tn26" n="26"/> servitio. </p>
+<p>Monsignor Monbon francese questo è quello a<ptr target="#tn27" n="27"/> chi è stata data la compagnia <lb/>
+ad instanza della signora principessa d’Oranges<ptr target="#tn28" n="28"/>, et ha servito già molto <lb/>
+tempo fa in<ptr target="#tn29" n="29"/> questi paesi tra la cavallaria francese. </p>
+<p>Nomi de’ capitani del secondo <lb/>
+regimento. </p>
+<p>Il signor di Rocalaura<ptr target="#tn30" n="30"/> francese colonello capitano et sergente maggiore della Natione <lb/>
+francese huomo di valore et d’isperienza nelle cose militare di gran <lb/>
+modestia, è più di fatti che di avantarsi, è stimato dalla propria Natione <lb/>
+et è amato in questi paesi da cadauna. </p>
+<p>Il capitano Steven Koop holandese locotenente colonello<ptr target="#tn31" n="31"/> capitano d’infantaria è stato alla bataglia <lb/>
+navale di Gibilterra commendando alle genti di guerra all’armata <lb/>
+huomo dal quale, potrà sua Serenità promettersi buon servitio. </p>
+<p>Monsieur Lassel danese, è stato capitano et sergente maggiore nella guerra di <lb/>
+Danimarca contra il re di Svetia. </p>
+<pb n="025r" facs="04_025r" rend="0"/>
+<p>Il signor Leonardo Weesterbeeck holandese è stato locotenente d’una <lb/>
+compagnia d’infantaria di suo fratello. </p>
+<p>Monsignor Famà holandese fu corneta del colonello Gent, è già paggio <lb/>
+di sua Eccellenza. </p>
+<p>Monsieur Metoni francese, huomo<ptr target="#tn32" n="32"/> di gran vivezza, gentilhuomo estraordinario <lb/>
+di sua Eccellenza, et che ha veduto assai, con l’occasione della guerra di Giuliers <lb/>
+et in altre. </p>
+<p>Il capitano Seiton scocese locotenente d’una compagnia del fratello. </p>
+<p>Il signor di Wandernoot kavalier della Natione holandese, questo è stato figliolo <lb/>
+del<ptr target="#tn33" n="33"/> signor de Wandernoot governatore della Sclusa, è giovene <lb/>
+ma volonteroso di servire, et di acquistar l’istesso nome del padre <lb/>
+ch’è stato uno di più valerosi di capitani ch’habbimo havuto li signori <lb/>
+Stati al suo servitio nelle guerre passate. </p>
+<p>Il capitano Haan todesco soldato vecchio di più di 36 anni di servitio <lb/>
+in queste parti, ha commandato nella cavallaria. </p>
+<p>Il signor Paigle valone locotenente d’una compagnia nel regimento <lb/>
+valone del signor conte Gio. Ernesto.
+<pb n="025v" facs="04_025v" rend="90"/>
+n° 4 </p>
+<p>Nomi, et qualità delli <lb/>
+colonelli et capitani del reggimento <lb/>
+del signor conte Gio. Ernesto </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "camino."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes "et soldati" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Io non" corrected above "Ancor."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by ", ch-" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "primo di" added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" corrected above "-e"; followed by "ne" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "comi-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Follows the next line of crossed-out text.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "3" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "aff-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "nolegg-" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "il qual" corrected above ", et."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "-l" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "buono" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "di mantener … vita" added after "Sernissimo Duca."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "tre-" corrected above "doi-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "g-" corrected above "G-."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "6" corrected above "5"; followed by "incirca" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Corrected above "li è."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-i" corrected above -"e."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Second "-e-" corrected from "-o-."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-le" corrected above -"ria."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by "ser" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Corrected above "lì", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-e-" corrected above -"a-."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "i-" corrected above "t-."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-o-" corrected above -"a-."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "locotenente colonello" added above the line with an insertion mark.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "h-" corrected above "è."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "governator" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

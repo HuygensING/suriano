@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.043 date 1617-02-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">043</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 276r-277v, 280r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">276r-277v, 280r-v, 278r-279v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Spanish king will claim all foreign ships and goods in his port, but there are doubts about the veracity of these reports. Ships are still waiting to set sail but now problems with payments and contracts, many have sought help from States General (the letters are sent in attachment). One document attached: "Nella prima lettera delli signori Stati Generali per li cap(itol)i de’ patroni di vasseli con le genti per sua Serenità"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-04">4 febbraio 1617</date>
+            <num>094, 095</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="094">
+<div type="main" facs="main text of letter" n="094">
+<!--<p>4 febbraio 1617, L’Aia (cc. 276r-277v, 280r-v)</p>-->
+<pb n="276r" facs="03_276r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>doi giorni doppo l’ispeditione dell’ultime lettere mie si sparse qui <lb/>
+un avviso da certo mercante, che veniva da Midelburgh, <lb/>
+che il re di Spagna haveva commandato un arresto di <lb/>
+tutti li vasselli et proprii, et forastieri, ch’erano nelli <lb/>
+porti, et spiaggie della giuridittione della Maestà sua; et li <lb/>
+marinari, che con una nave sono venuti ultimamente dello <lb/>
+stretto in Zelanda fanno questo riporto; et che si discor-<lb/>
+reva, che tale arresto dovesse servire per imbarcamento <lb/>
+di genti, altri per valersi di quei vasseli, che fossero <lb/>
+stimati proprii per contrastar il passaggio di questa <lb/>
+levata del signor conte Gio. Ernesto, et del Wassonhoven: ma <lb/>
+qui vi pongono poco pensiero, et non ne dubitano, over <lb/>
+tengono il riporto falso, o mal inteso. Et il signor <lb/>
+conte Gio. Ernesto mi disse: piacesse pur a Dio, che ’l <lb/>
+vento fosse buono perché mi assicurò, che ogn’altro <lb/>
+incontro riuscirebbe facile a’ patroni dei vasselli; <lb/>
+et alli stessi soldati, che si saprebbono ben guardare. </p>
+<p>Per la continuatione della contrarietà del tempo non cessa <lb/>
+il signor Conte di far meco li ordinarii, compianti, et stamo <lb/>
+nei soliti<ptr target="#tn1" n="1"/> discorsi, che in fine si riducono all’<lb/>
+accommodarsi alla volontà divina. </p>
+<p>Quello, ch’esso Conte ispedì la settimana passata verso il Tessel
+<pb n="276v" facs="03_276v" rend="0"/>
+per la liquidatione di alcuni debiti dei capitani come riverentemente <lb/>
+significai alla Serenità vostra, che doveva fare fu da me avvisato, <lb/>
+ma con destrezza però, che rinovasse a quei capitani de’ vasselli, <lb/>
+et de’ soldati il guardarsi d’accostarsi alle terre, <lb/>
+et porti di sua Maestà catholica et tanto ha essequito, come <lb/>
+mi è venuto a riferir hieri a sera, che fu ritorno <lb/>
+et ha riportato haver trovato, che tutte le genti sono <lb/>
+in buon stato; ma con il patimento, et la malinconia dell’attender sull’ancore tanto tempo; aggiungendo che <lb/>
+in generale non hanno altro bisogno che del buon vento <lb/>
+et alcuni di qualche assistenza di denaro per preservar <lb/>
+li mal sani; ma sin qui non mi è stata fatta instanza <lb/>
+di alcun esborso. </p>
+<p>Conforme al contratto, che li patroni de’ vasselli hanno fatto <lb/>
+col signor conte Gioanni per il transporto delle genti nello Stato <lb/>
+di vostra Serenità si sono obligati far provisione tale de viveri <lb/>
+che possi servire per tre mesi dal partir delle navi <lb/>
+dai porti: onde essendo state fin giovedì passato <lb/>
+dieci settimane, che si è cominciato a far l’imbarco, <lb/>
+s’è andata consumando gran parte delle vittuarie <lb/>
+le quali di tempo in tempo son andati rimettendo <lb/>
+ma temendo, che al signor Conte nel passar a Venetia
+<pb n="277r" facs="03_277r" rend="0"/>
+possi succeder qualche disastro, o che gli sia impedito il passaggio <lb/>
+et essi arrivati costì prima di lui esser intertenuti per il <lb/>
+pagamento, et convenir star sulle spese hanno fatto ricorso <lb/>
+alli Stati Generali, et ottenuta da loro la lettera, che vedrà <lb/>
+la Serenità vostra<ptr target="#tn2" n="2"/> in copia. Tentorono prima il signor Conte a fine <lb/>
+di haver lettere per lei perché li pagasse, senza, ch’egli <lb/>
+havesse ad impedirsi in altro, il che gli fu ricusato col consi-<lb/>
+glio di sua Eccellenza, et del signor Bernvel, parendo che si trattasse <lb/>
+della riputatione di lui, che trovandosi egli ancora a Venetia <lb/>
+non havessero a trattar seco conforme al suo contrattato. </p>
+<p>Hora mi ha detto, che comportando così la direttione degl’affari, <lb/>
+et trattandosi de’ borgomastri, et altri, che sono interessati <lb/>
+monsignor Bernvel per farseli amorevoli, mentre nel negotio <lb/>
+di religione par che alcuni restino disgustati di lui <lb/>
+li ha aiutati ad ottenner essa lettera; della quale <lb/>
+mi disse che non se ne curava, et che a lui era tutto <lb/>
+uno: perché tanto gli è che siano pagati da vostra Serenità <lb/>
+quanto da lui, et che scrivessi pure, che se ne contenta <lb/>
+quando non arrivi per qualche accidente avanti di essi <lb/>
+a Venetia; che sperava, che non potesse succeder perché <lb/>
+partiti li vasselli immediate si metterà in camino <lb/>
+per esser prontamente a’ suoi piedi; nel qual caso
+<pb n="277v" facs="03_277v" rend="0"/>
+doverà egli levar questa molestia a vostra Serenità; et perché anco <lb/>
+ella ne sia del tutto libera, in ogni caso di disgratia il <lb/>
+capitano Steven luogotenente colonello haverà carico, et parimente haverebbe <lb/>
+fatto avanzare il suo computista per far la liquidatione de’ conti <lb/>
+con li marinari<ptr target="#tn3" n="3"/> conforme al calcolo delli capitani delle genti <lb/>
+di quanto haveranno havuto per li viveri; essendo già <lb/>
+stati da lui esborsati settantacinque milla; et più fiorini a <lb/>
+buon conto di spese, et di noli<ptr target="#tn4" n="4"/>. Il che tutto ho stimato <lb/>
+mio debito di significar distintamente alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 4 febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christtofforo Suriano </p>
+<pb n="280r" facs="03_280r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="280v" facs="03_280v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="094">
+<!--
+<p n="280vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 febraro 1616 ricevute 22 detto </p>
+<p>Secretario Suriano dall’Aia. Prime </p>
+<p>Aviso sparso che il Re catholico havesse comandato <lb/>
+un arresto de’ tutti li vasselli proprii, et foras-<lb/>
+tieri, che erano nelli porti, et spiaggie di sua Maestà <lb/>
+et narra diversi discorsi sopra ciò. </p>
+<p>Che per la continuatione del mal tempo il <lb/>
+signor Conte non cessa di far li ordinarii compianti <lb/>
+che haveva avisato, che si rinovasse a’ capitani de’ <lb/>
+vasselli, et de’ soldati il guardarsi dalli porti di <lb/>
+sua Maestà catholica. </p>
+<p>Che tutte le genti sono in patimento, et ma-<lb/>
+linconia per il mal tempo; che non hanno altro <lb/>
+bisogno, che di denari, ma che non le è stata <lb/>
+fatta alcuna instanza. </p>
+<p>Manda una lettera scritta per li patroni<ptr target="#tn5" n="5"/> de’ <lb/>
+vasselli dalli signori Stati Generali in proposi-<lb/>
+to di sovenir le genti persino all’arrivo <lb/>
+del Conte, il qual dice non curarsi di detta <lb/>
+lettera perché sarà a Venetia prima delle dette genti. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="095" corresp="094" source="278r-279v" >
+<div type="main" facs="main text of attachment I" n="095" corresp="094" >
+<!--<p>Allegato I al n. 94 (cc. 278r-279v)</p>-->
+<pb n="278r" facs="03_278r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Serenissimo Principe </p>
+<p>havendo li patroni, et marinari delle navi, che hanno <lb/>
+accordato, et intrapreso di transportar tutte le genti <lb/>
+da guerra levate per il signor conte Gio. di Nassau con <lb/>
+nostra permissione in questi paesi per il servitio <lb/>
+della serenissima republica di Venetia, fatte molte grandi, <lb/>
+et eccessive spese tanto per vettovagliare, le dette <lb/>
+loro navi, per il trattenimento, et norritura delle <lb/>
+dette genti da guerre; quanto per provederle di <lb/>
+tutte le altre cose necessarie, stante l’esser più <lb/>
+di nuove settimane, che la più gran parte de’ <lb/>
+soldati sono stati imbarcati, nel qual tempo <lb/>
+hanno consumata gran parte de’ detti viveri, <lb/>
+li quali devono rinfrescare, et supplir abon-<lb/>
+dantemente, di maniera che<ptr target="#tn6" n="6"/> si trovano grandemente <lb/>
+fuori del loro conto; et temono similmente che se <lb/>
+arrivando con la gratia di Dio a Venetia non <lb/>
+fossero prontamente sodisfatti nel pagamento in con-<lb/>
+formità della loro conventione, et accordo, ciò <lb/>
+causarebbe la sua ruina, in che sono stati <lb/>
+animati, et persuasi del contrario: a fine di <lb/>
+conservarli nel loro primo affetto, et buona <lb/>
+volontà; questo causa che noi habbiamo <lb/>
+stimato necessario, et conveniente di scriver <lb/>
+alla Serenità vostra et pregrarla<ptr target="#tn7" n="7"/>, et raccommandarle
+<pb n="278v" facs="03_278v" rend="0"/>
+affettuosissimamente che ella si compiaccia, et insieme <lb/>
+la detta serenissima republica di Venetia provedere et dar <lb/>
+ordine, che essendo arrivati colla gratia di Dio <lb/>
+li detti patroni, et marinari a Venetia possino <lb/>
+prontamente ricever il loro pagamento tanto <lb/>
+della norritura de’ soldati: quanto del salario <lb/>
+loro per il transporto in conformità delle conventio[ni] <lb/>
+a fine che senza alcuna dilatione possino continuar <lb/>
+et fornir li loro viaggi per dove sono stati respet-<lb/>
+tivamente destinati non ostante qual si sia accidente <lb/>
+che potesse arrivar di morte, o d’altro, il che Dio <lb/>
+non voglia, et vostra Serenità ci farà cosa gratissima, et conser-<lb/>
+verà l’affettione delli<ptr target="#tn8" n="8"/> detti patroni, et mari-<lb/>
+nari verso il servitio suo, et della serenissima Republica. </p>
+<p>Et attendendo noi questo, fondati sopra la giustitia, <lb/>
+et equità di questa nostra seriosa raccommandatione, <lb/>
+preghiamo il creatore <lb/>
+di mantener vostra Serenità in una perfetta <lb/>
+santissima, longhissima et felicissima vita.<ptr target="#tn9" n="9"/> </p>
+<p>Serenissimo Principe </p>
+<p>Dall’Haya a xxx febraro<ptr target="#tn10" n="10"/> 1617 </p>
+<p>A tergo </p>
+<p>Al serenissima<ptr target="#tn11" n="11"/> Duca, et republica di Venetia </p>
+<pb n="279r" facs="03_279r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="279v" facs="03_279v" rend="270"/>
+<p>Nella prima <lb/>
+lettera delli signori Stati Generali per <lb/>
+li capitan et<ptr target="#tn12" n="12"/> patroni di vasselli <lb/>
+con le genti per sua Serenità </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "vedrà" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "ch-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "desti" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "mantener … vita" added after "serenissima Duca."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "xxx febraro" improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Corrected above "di."</p></note>
+</div>
+</body>
+</text>
+</TEI>

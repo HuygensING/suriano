@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.018 date 1616-11-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">018</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, filza 3,fol 116r-117v, 122r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 522) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp341-360)
+            </note>
+            <biblScope unit="page">116r-117v, 122r-v, 118r-119v, 120r-121v, 123r-124v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Requests answer from Venice regarding the recruitment of standard-bears (wrote in letter from 31 October 1616). Reports on various soldiers who have visted him expressing their wishes to serve the Venetian state, including Bovier, Durante de Prigné, Colonel Ghent, and Rogier de Villemur. Enclosed he sends the offer of de Villemur’s service and a copy of a letter by Bovier to the Venetian Senate. Reports that De Dominis has arrived in The Hague. Two documents attached: "Offerta del baron di Pallie" and "Copia della lettera a sua Serenità consegnate a monsignor Bouier"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-11-20">20 novembre 1616</date>
+            <num>039, 040, 041, 042</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="039">
+<div type="main" facs="main text of letter" n="039">
+<!--<p>20 novembre 1616, L’Aia (cc. 116r-117v, 122r-v)</p>-->
+<pb n="116r" facs="03_116r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>mi servirà d’informazione quanto la Serenità vostra mi manda <lb/>
+toccante quei soggetti, che sono raccordati all’eccellentissimo <lb/>
+signor General dell’Armi dal signor Francesco Giustiniano, et <lb/>
+se verrà qualcheduno di essi a me essequirò le <lb/>
+commissioni, che già ella mi diede, con osservar anco <lb/>
+quello di più, che veggo espresso nelle lettere scritte <lb/>
+dalla Serenità vostra allo stesso eccellentssimo Generale nel medesimo <lb/>
+particolari. Et havendole scritto intorno a quei <lb/>
+alfieri de’ quali mi vene a parlar il Pasini[,]<ptr target="#tn1" n="1"/> <lb/>
+aspettarò risposta<ptr target="#tn2" n="2"/> da lei di quello sarà mente <lb/>
+della Serenità vostra ch’io faccia con essi. </p>
+<p>Venne a trovarmi monsignor Bovier quello d’Oranges del <lb/>
+quale mercordì<ptr target="#tn3" n="3"/> mi parlò il signor conte Mauritio. Egli ha <lb/>
+mostrato desiderio di venir al servitio della Serenità vostra <lb/>
+et m’ha pregato di accompagnarlo con mie lettere <lb/>
+così ho fatto, et sarà qui aggiunta la copia. <lb/>
+Mi ha mostrate quelle, che sua Eccellentia li ha dato <lb/>
+per la Serenità vostra in sua raccommandatione, et <lb/>
+altre al signor duca di Savoia in ogni evento che <lb/>
+havesse bisogno di valersi per servitio di quella <lb/>
+serenissima Republica dell’assistenza di sua Altezza. </p>
+<pb n="116v" facs="03_116v" rend="0"/>
+<p>Egli viene per servirla colla sua persona sola, et perché lo <lb/>
+esperimenti in ciò che vale per servirsi poi di lui <lb/>
+secondo che stimerà a proposito. </p>
+<p>È ritornato quel monsignor Durante di Prignì francese. Ha <lb/>
+mostrato meco grandissima sodisfattione dell’<ptr target="#tn4" n="4"/>honore, et <lb/>
+buon trattamento ricevuto dalla Serenità vostra, et dal parlar <lb/>
+suo ho cavato molto bene esser poco contento di non <lb/>
+haversi lasciato adoperare, et ne ha discorso in man(ier)a <lb/>
+meco, che volontieri ritornerebbe a servirla per <lb/>
+un anno almeno; ma mi ha detto, che non vorrebbe <lb/>
+haver manco stipendio di cento scudi, o ducati il <lb/>
+mese. Egli ha qui buon nome, come ho anco scritto <lb/>
+alla Serenità vostra con altre mie, è<ptr target="#tn5" n="5"/> luogotenente di una compagnia <lb/>
+et fa professione d’intendersi di fortificazioni. </p>
+<p>Mi vene a trovare il colonello Ghent. Disse, che in lui <lb/>
+continuava il desiderio di servir a quella serenissima <lb/>
+Republica, et che essendo hora il tempo troppo innanti <lb/>
+di far levata, et imbarco di genti quando la <lb/>
+Serenità vostra havesse stimato buono per lei il suo <lb/>
+servitio si offeriva di condurle a primo tempo <lb/>
+cinquecento, o seicento cavalli, et anco un
+<pb n="117r" facs="03_117r" rend="0"/>
+reggimento d’infanteria. Discorse meco di voler far <lb/>
+la condotta de’ cavalli per mare , <lb/>
+parendole<ptr target="#tn6" n="6"/> riuscibile<ptr target="#tn7" n="7"/> havendone condotti alcuni fino <lb/>
+alla Roscela; ma io gli ho considerato, che la spesa <lb/>
+sarebbe stata grandissima, et il pericolo della perdita <lb/>
+de’ cavalli maggiore; né l’acqua si sarebbe potuta <lb/>
+così facilmente conservare. Resta nella stessa fanta-<lb/>
+sia; ma disse, che vi haverebbe pensato, et preso <lb/>
+di tutto informatione perché io potessi con altra occasione <lb/>
+mandarla distinta alla Serenità vostra. Questo nella <lb/>
+professione di cavallaria ha qui nome tale, che <lb/>
+si potrebbe<ptr target="#tn8" n="8"/> la Serenità vostra prometter buon servitio; ma <lb/>
+per l’infanteria, credo, che faccia conto di condur <lb/>
+buoni officiali: perché non è in questa la sua pro-<lb/>
+fessione. Mi ha detto, che mi darà per scritto la <lb/>
+sua esshibitione. Quando lo facci l’invierò alla Serenità vostra. </p>
+<p>Come faccio al presente dell’offerta fattami da un <lb/>
+baron francese, sopra la quale m’è parso di pon-<lb/>
+derargli che si tiene troppo alto nell’instanze<ptr target="#tn9" n="9"/> <lb/>
+et che malamente egli poteva per ciò prometterse, <lb/>
+che fosse abbracciata la sua proposta: nondimeno
+<pb n="117v" facs="03_117v" rend="0"/>
+non ha voluto regolarne alcuna; ma mi ha pregato <lb/>
+d’inviarla alla Serenità vostra, dicendo di non poter servirla <lb/>
+in altra maniera; et io per sodisfarlo, et per non <lb/>
+mancar del mio debito non ho voluto tralasciare <lb/>
+d’ispedirla colle presenti: ben la supplico di haver <lb/>
+qualche cosa da dirli in questo particolare perché <lb/>
+quando la Serenità vostra non vi applichi l’animo resti almeno <lb/>
+sodisfatto di qualche risposta. </p>
+<p>Hor hora ho saputo esser arrivato qui l’arcivescovo di <lb/>
+Spalato d(on)no M. Antonio de Dominis<ptr target="#tn10" n="10"/> in habito secolare. <lb/>
+Ha fatto capo al signor ambasciator d’Inghilterra in casa del quale <lb/>
+mi viene detto esser stato ricevuto per habitatione finché <lb/>
+habbi tempo proprio per passarsene in Inghilterra per dove <lb/>
+ha diretto il suo camino; et per quanto ho potuto cavare <lb/>
+viene dalla corte di Roma per scuotersi dall’obligo <lb/>
+che forse gli pareva nella sua grave età troppo <lb/>
+pesante<ptr target="#tn11" n="11"/> di continuar per il restante della sua <lb/>
+vita ad esser huomo da bene. Gratie etc. </p>
+<p>Dall’Haye a’ 20 novembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="122r" facs="03_122r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="122v" facs="03_122v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="039">
+<!--
+<p n="122vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1616 20 novembre ricevute 7 decembre </p>
+<p>Secretario Surian dall’Agia 2<hi rend="superscript">de</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="040" corresp="039" source="118r-119v" >
+<div type="main" facs="main text of attachment I" n="040" corresp="039" >
+<!--<p>Allegato I al n. 39 (cc. 118r-119v)</p>-->
+<pb n="118r" facs="03_118r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In 2<hi rend="superscript">de</hi> del secretario Surian dall’Agia a’<ptr target="#tn12" n="12"/> 20 novembre 1616 </p>
+<p>Rogier de Villemur signor et baron di Pailles offerisce de menar al <lb/>
+servitio della serenissima republica di Venetia un regimento di genti da piedi francesi <lb/>
+buoni et valarosi soldati, e levarli nelle provincie maritime di Linguadogha, <lb/>
+et Provenza di dove le dette truppe potranno esser facilmente transportate <lb/>
+sopra vasselli nelli luochi et piazze, ove piacerà alla serenissima Republica servirsene <lb/>
+con le seguenti conditione. </p>
+<p>Cioè che ’l detto regimento sarà conposto di dieci compagnie intendosi la colonella <lb/>
+di 200 fanti et le nuove altre di 150 che fanno il numero di 1550. </p>
+<p>Et il detto signor Barone essendo vecchio soldato, et che ha servito 13 anni nelle truppe <lb/>
+francesi intertenute dal Re christianissimo nelle Provincie Unite dei Paesi il credito <lb/>
+che gli ha aquistato tra li suoi compagni spera che molti de’ buoni et espe-<lb/>
+rementati officiali saranno contenti di render servitio con lui alla serenissima <lb/>
+Republica a’ quali egli darà la compagnia et altra piazza di comando a fine <lb/>
+che la serenissima Republica sia meglio servita dalle truppe ch’egli offerisce condure <lb/>
+et che l’ordine et disciplina militare osservata nei Paesi Bassi sia osservata <lb/>
+strettamente nel detto regimento. </p>
+<p>Et stante che la detta levata non si può far che con gran spese e costo per esser <lb/>
+presi li soldati nei luoghi lontani dall’imbarcamento, domanda il detto Barone <lb/>
+che gli sia concesso per la detta levata 16 lira a 20 soldi per lira moneta di <lb/>
+Franza per ciascheduna testa che ciadun soldato: ricerca parimente di esser <lb/>
+avertito che, in caso ch’egli menasse alla piazza destinata per la prima mostra <lb/>
+più soldati del numero di 1550 se gli sarà imborsato li denari al medesimo <lb/>
+pretio di 15 franchi per testa. </p>
+<p>Dimanda di più il detto signor Barone per il soldo di dette truppe tutto l’istesso che sia con-<lb/>
+venuto et accordato con il signor conte Gio. Ernesto di Nassau cioè la summa di 1550 <lb/>
+ducati a 7 l(ire) l’uno moneta di Venetia per mese caduno mese di<ptr target="#tn13" n="13"/> 30 giorni. </p>
+<pb n="118v" facs="03_118v" rend="0"/>
+<p>Et essendo che detto signor Barone non potrebbe fare da lui medesimo l’avanzo dall’armi per <lb/>
+la brevità del tempo et che gli bisogiarebbe comprare in molte et diverse <lb/>
+bande, domanda alla serenissima Republica 1300 franchi per la compra di dette <lb/>
+armi da ribattarsi al 3° et 4° mese sopra il soldo delle dette truppe. </p>
+<p>Et perché le dette arme non si posseno comprare in Francia perché non se ne trovano <lb/>
+proprie per ben servirsene essendo constretto di prenderle nelle Provincie <lb/>
+Unite de’ Paesi Bassi domanda alla serenissima Republica lo summa di 500 scudi per il <lb/>
+transporto di dette arme fin al luogo dell’imbarcamento di dette truppe. </p>
+<p>Per riguardo di che il detto signor Barone prega la serenissima Republica di dar auttorità al suo <lb/>
+ambasciatore residente alla corte del Re christianissimo di concigliar con lui perché <lb/>
+non può per anco sapere qual numero di vassello gli bisogneranno medesi-<lb/>
+mamente se se ne potranno nollegiare, di qual grandezza saranno, et quello <lb/>
+che potrà costar il nolo d’il che egli diligentamente s’imformerà per esser uno <lb/>
+delli articoli principali et necessarii, et non desidera de ricever alcun denaro <lb/>
+che non sia prima assicurato di trovar detti vasselli dentro li porti di Mar-<lb/>
+seglia o Nizza nei luogi più facile all’imbarco. </p>
+<p>Prometterà la detta serenissima Republica d’intartenir al soldo di sopra espresso<ptr target="#tn14" n="14"/> et dette truppe <lb/>
+per il tempo et spatio di sette mese a 30 giorni, ciascheduno appresso esser <lb/>
+arrivato al luogo che la detta serenissima Republica desidera servirse di esse non potendo <lb/>
+esser licenziate esse truppe per qualcosa che sia sin tanto che il termine <lb/>
+sudetto non sarà espirato doppo che la serenissima Republica darà ancor un mese di paga <lb/>
+al detto signor Barone, et a tutte q(uest)e truppe per potersi andare dove più piacerà <lb/>
+con passaporti che facino fede della lor fideltà e servitio. </p>
+<p>Et per q(uest)o articolo il signor Barone intende che l’intartenimento comincierà al<ptr target="#tn15" n="15"/> giorno <lb/>
+della mostra fatto nell’imbarco. </p>
+<p>Accorderà la detta serenissima Republica per il soldo et tratenimento del Colonello delli
+<pb n="119r" facs="03_119r" rend="0"/>
+officiali cioè per il Luocotenente Colonnello, Sargente maggiore, Quartiermastro, <lb/>
+provosto et chirurgo la suma di 3000 franchi per mese. </p>
+<p>Non serà tenuto il detto signor Barone di obedir in riconoscer che il Generalissimo et <lb/>
+altri officiali della serenissima Republica et non alcun capo di Natione particolare. </p>
+<p>Et perché convenirà il detto signor Barone far molte spese nelle Province sudette ove si doverà <lb/>
+levar le genti supplica la serenissima Republica di voler haver risguardo sottometen-<lb/>
+dosi nondimeno alla sua discretione. </p>
+<p>Sotto le conditione di sopra nominate il signor baron di Pailles s’obbligarà di servir <lb/>
+fidelmente con le sue truppe la serenissima Republica tanto per mare come per terra <lb/>
+dentro le piazze dove sarà messo con il corpo intero delle sue truppe o di <lb/>
+esse seperato secondo ch’egli sarà ordinate verso tutti et contra tutti. </p>
+<pb n="119v" facs="03_119v" rend="270"/>
+<p>2 </p>
+<p>Offerta del baron di Pallie </p>
+<p>Nella 2<hi rend="superscript">da</hi> </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment I" n="040" corresp="039" >
+<!--
+<p n="119vC">———</p>
+-->
+<head>secretarial text of attachment I</head>
+<p>1616 19 novembre<ptr target="#tn16" n="16"/> ricevute 7 decembre </p>
+<p>In 2<hi rend="superscript">de</hi> dall’Agia Surian </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="041" corresp="039" source="120r-121v" >
+<div type="main" facs="main text of attachment II" n="041" corresp="039" >
+<!--<p>Allegato II al n. 39 (cc. 120r-121v)</p>-->
+<pb n="120r" facs="03_120r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In 2<hi rend="superscript">de</hi> del secretario Surian dall’Agia de’ 20 novembre<ptr target="#tn17" n="17"/> 1616 </p>
+<p>Copia </p>
+<p>Serenissimo Principe </p>
+<p>viene a’ piedi della Serenità vostra monsignor Gio. Bovier per servir <lb/>
+quella serenissima Republica, et colla sua persona sola in quella <lb/>
+carica, che sarà conosciuto proprio, et con genti, che <lb/>
+offerirà levar dalla parte del Delfinato, della <lb/>
+Provenza, et d’altrove, quand’ella stimi effettiva <lb/>
+la proposta: egli è d’Oranges ha molto tempo fa <lb/>
+servito a cavallo nella compagnia del signor principe <lb/>
+Mauritio. Condusse già una truppa di cavallaria <lb/>
+al re di Svetia<ptr target="#tn18" n="18"/>; ha servito anco quello di Dani-<lb/>
+marca; et esso signor Principe mi ha detto esser molti <lb/>
+anni che fa la professione dell’armi, et huomo <lb/>
+di spirito, come anco dalle Signorie vostre eccellentissime sarà <lb/>
+conosciuto tale. Lo accompagna con<ptr target="#tn19" n="19"/> sue lettere <lb/>
+per vostra Serenità et io non ho potuto far di meno di non <lb/>
+sodisfar all’instanza, ch’egli mi ha fatta <lb/>
+efficacissima col dargli le presenti. Gratie etc. </p>
+<p>Dall’Haye a’ 19<ptr target="#tn20" n="20"/> novembre 1616. </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="120v" facs="03_120v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="121r" facs="03_121r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="121v" facs="03_121v" rend="270"/>
+<p>1 </p>
+<p>Copia delle lettere a sua Serenità consegnate <lb/>
+a monsignor Bovier </p>
+<p>Nella 2<hi rend="superscript">da</hi> </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment II" n="041" corresp="039" >
+<!--
+<p n="121vC">———</p>
+-->
+<head>secretarial text of attachment II</head>
+<p>1616 20 novembre ricevute 7 decembre </p>
+<p>Christo(ffo)lo Surian secretario dall’Agia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="042" corresp="043" source="123r-124v" >
+<div type="main" facs="main text of attachment I" n="042" corresp="043" >
+<!--<p>Allegato I al n. 43 (cc. 123r-124v; decodifica di c. 128r-v)</p>-->
+<pb n="123r" facs="03_123r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="123v" facs="03_123v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="124r" facs="03_124r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="124v" facs="03_124v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Faded ink.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "r-" corrected above "d-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Corrected above "giovedì."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "d-" corrected above "a-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "et."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "parendole riuscibile" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-bile" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-is" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e-" corrected above "-o-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "a" corrected above "d."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "d-" corrected above "p-."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "e-" corrected above "d(ett)o."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "a-" corrected above "i-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "n-" corrected above "x."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "n-" corrected above "x."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-v-" corrected above "-a-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "-lle" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-9" corrected above "-8."</p></note>
+</div>
+</body>
+</text>
+</TEI>

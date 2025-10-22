@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.059 date 1617-08-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">059</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 316r-317v, 319r-320v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">316r-317v, 319r-320v, 318r-318bis v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has told the States General, as he has been instructed, that Venice needs assistance in Italy. The States replied that they have already done what they thought was necessary and that they know full well how the Spanish operate. They ask Suriano to put his request into writing, so they can respond accordingly. Requests clearer instructions from Venice regarding the union between the two states. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-01">1 agosto 1617</date>
+            <num>101, 102</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="101">
+<div type="main" facs="main text of letter" n="101">
+<!--<p>1 agosto 1617, L’Aia (cc. 316r-317v, 319r-320v)</p>-->
+<pb n="316r" facs="04_316r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>non havendo hieri potuto essequire il commandamento della <lb/>
+Serenità vostra nel communicar alli signori Stati Generali, come <lb/>
+ella mi commette nelle sue lettere de’ 14 del passato <lb/>
+quanto mi mandò nelle precedenti dei 7. L’ho fatto <lb/>
+questa mattina non tralasciando cosa, che habbia <lb/>
+conosciuto conformarsi col senso delle Signorie vostre eccellentissime <lb/>
+et necessaria per imprimer nell’animo di questi signori <lb/>
+le procedure de’ Spagnuoli, il mal termine con che <lb/>
+trattano, gl’artificii che usano per coprir il loro <lb/>
+mancamento, et per eccitarli a far riflesso sopra <lb/>
+tutto; et persuader al pensar vivamente di assister <lb/>
+alle cose d’Italia. Hebbi attentione grande, et <lb/>
+mi fu risposto in sostanza, che ringratiavano <lb/>
+affettuosamente la Serenità vostra della communicatione, che <lb/>
+io gl’havevo fatta a nome di lei; che dal canto <lb/>
+loro haverebbono contribuito a tutto quello che <lb/>
+havessero stimato proprio per la conservatione <lb/>
+della provincia d’Italia, conoscendo molto bene <lb/>
+quanto il re di Spagna vadi machinando per <lb/>
+farsi patrone di quella libertà; che già essi have-<lb/>
+vano dichiarato al mondo come fossero desiderosi
+<pb n="316v" facs="04_316v" rend="0"/>
+d’impiegarsi nel bene di quella provincia, et a sostentar <lb/>
+il duca di Savoia, nel che non si sarebbe cessato continuando <lb/>
+le cose nello Stato, che sono al presente facendo tutto <lb/>
+quel più, che havessero comportato le loro forze tanto <lb/>
+in servitio di quell’Altezza, quanto di ogn’altro principe <lb/>
+che ha il medesimo fine, che essi tengono di conservar <lb/>
+la propria, et commune libertà. Che la serenissima Republica <lb/>
+haveva molto ben ragione di sospettare degl’andamenti <lb/>
+dei Spagnuoli et doveva guardarsi con gran prudenza <lb/>
+dai lazzi, che andavano tendendo; che essi non <lb/>
+haverebbono mancato di haver a cuore quanto gli <lb/>
+havevo esposto; ma che per meglio capir il vero senso <lb/>
+della mia espositione mi pregavano a darla in scritto per <lb/>
+risponder anco se fosse stato necessario; et io perché <lb/>
+havessero tanto più largo campo di ponderar il proprio, <lb/>
+et il commune interesse sodisfeci alla loro instanza. <lb/>
+<hi rend="decoded">Nel</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">proposito di unione havendo già ispedito a vostra Serenità fino <lb/>
+alli 4 del passato l’apertura, che me ne fu fatta per parte del signor <lb/>
+Bernvel, sto attendendo risposta per regolarmi secondo essa per <lb/>
+</hi>
+<pb n="317r" facs="04_317r" rend="0"/>
+<hi rend="decoded">avanzamento di questo negotio, nel quale, com’ella haverà da mie lettere <lb/>
+susseguenti inteso, e tuttavia le dico anco con queste riverentemente, mi si <lb/>
+va</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">hora da uno, hora da un altro eccitando, a proporre <lb/>
+in publico nell’assemblea chiaramente che vostra Serenità sia pronta, a far <lb/>
+aleanza con questi Stati, né io, a questo mi debbo mover <lb/>
+senza particolar commandamento, perché mai da lei ho havuto quest’ordine <lb/>
+preciso, ma solo di dover andar penetrando, come da me, <lb/>
+dall’interno de’ pensieri di questi signori, et sufficientemente parmi che <lb/>
+ella haverà conosciuto nelle sudette lettere de’ 4, come si <lb/>
+pensi di trattar con lei con reciproco aiuto, et con lega; a <lb/>
+mio conto mi deve venir qualche risposta con l’ordinario di venerdì, <lb/>
+et come ho humilmente scritto all’Eccellentie vostre più d’una volta, me <lb/>
+ne ha adimandato il signor Vandermil, così anco hieri con occasione <lb/>
+che ho veduto</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">il signor</hi></p>
+<pb n="317v" facs="04_317v" rend="0"/>
+<p><hi rend="decoded">Bernvel, egli stesso mi ha ricercato <lb/>
+quando saria</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">venuta la risposta, dicendomi non bisogna dir <lb/>
+cosa alcuna, perché scoperto il negotio potrebbe esser intorbidato, et il <lb/>
+medesimo mi fu replicato domenica dal signor Vandermil con desiderio <lb/>
+che il negotio camini inanzi. <lb/>
+</hi></p>
+<p>Secondo, che andò portando il discorso col signor principe Mauritio <lb/>
+quando mi trovai seco così venne anco proposito di <lb/>
+qualche cosa in questo particolare, et di missione di publico <lb/>
+ministro, et mi disse vi sono di quelli, che hanno un <lb/>
+poco di paura più degl’altri di far dispiacere al re di <lb/>
+Spagna <hi rend="decoded">et</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">di lega che sapeva esservi la inclinatione; che ne era stato <lb/>
+trattato; et che la malatia di monsignor Bernvel havea interrotto <lb/>
+che non si era passato inanzi nella propositione, di maniera che si vede as</hi>[…]<ptr target="#tn6" n="6"/> <lb/>
+<hi rend="decoded">dal parlar del signor Principe che l’auttorità, o la direttione di negotio tale <lb/>
+dipende da questo soggetto, et mi va per la mente, et forse non <lb/>
+</hi>
+<pb n="319r" facs="04_319r" rend="0"/>
+<hi rend="decoded">m’inganno, che sua Eccellenza sappi qualche cosa, anco altri sappino <lb/>
+ma tutti tacciono, havendo lasciato ch’egli così proponga, <lb/>
+aspettando ciò, che vostra Serenità dirà, o come vi concorra. <lb/>
+</hi></p>
+<p>Fu il signor Magno di Zelanda che in proposito di missione <lb/>
+di qualche publico rappresentante mi parlò, come <lb/>
+significai nelle mie lettere de’ 27 giugno, che forse dall’<lb/>
+acquisto di Gradisca si haverebbe potuto prender l’occasione. <lb/>
+Egli non è qui essendo cinque o sei giorni, ch’è partito <lb/>
+per Midelburgh sua patria; ma ad altri con chi mi <lb/>
+occorrerà il proposito anderò esprimendo li concetti <lb/>
+che vostra Serenità mi aggiunge nelle sue de’ 14<ptr target="#tn7" n="7"/> del passato. </p>
+<p>Furono otto di questi signori principali de’ deputati nel <lb/>
+governo di diverse provincie a tener compagnia <lb/>
+alla cena al signor di Monthou, come scrissi, che dovevano <lb/>
+fare. Stetero pur sopra generali in quello, che <lb/>
+egli haveva tentato saper della loro volontà, et parlorono <lb/>
+in conformità di quanto riverentemente significai con le mie <lb/>
+precedenti. Anco le lettere a sua altezza di Savoia <lb/>
+oltre altri particolari toccanti l’aiuto deliberato, et iscusa
+<pb n="319v" facs="04_319v" rend="0"/>
+di non haver potuto far più, contengono parole di cortese ufficio <lb/>
+et di desiderio di esser uniti con lei, et con gl’altri principi, <lb/>
+per la conservatione della commune libertà. Hanno anco <lb/>
+scritto ai principi di Germania eccitandoli al venir a <lb/>
+qualche buona risolutione coll’essempio di quanto essi <lb/>
+havevano potuto fare. È stato il detto signor di Monthou <lb/>
+presentato di una catena di valor di mille fiorini in circa. <lb/>
+Cosa<ptr target="#tn8" n="8"/>, che gli è riuscita tanto più cara, quanto indica <lb/>
+maggiormente il buon affetto di questi signori verso sua Altezza poiché <lb/>
+essendo egli venuto per negotio di cavar denari, havuti <lb/>
+questi non aspettava altro. Et per tanto è partito giovedì <lb/>
+contento, et consolato di haver lasciato in tutti ottima <lb/>
+dispositione per quanto ha potuto penetrare verso il suo <lb/>
+Principe, et così è in effetto, come anco più volte so <lb/>
+di haverlo espresso alla Serenità vostra. </p>
+<p><hi rend="decoded">Al</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">signor Bernvel ha tentato di far presente di mille ongari, <lb/>
+ma per quanto mi ha detto mai, è stato possibile, che li <lb/>
+habbi voluto accettare, dicendoli, che se bene la cosa sa-<lb/>
+rebbe passata tra lui et sua Altezza, in ogni modo</hi>
+<pb n="320r" facs="04_320r" rend="0"/>
+<hi rend="decoded">anco all’<lb/>
+Altezza sua haverebbe egli dato cativo odore di lui, come <lb/>
+anco delli altri al governo, et che li affari in questo <lb/>
+Stato si avanzassero per tal strada; egli credeva al ce[rto] <lb/>
+che non l’havesse ricusato.</hi> Ma non gli dispiace haver <lb/>
+fatto il tentativo per sincerarsi dell’affetto, et dell’incli-<lb/>
+natione di questo soggetto. </p>
+<p>Il signor di Monthou se ne va in Alemagna con speranza, che <lb/>
+anco là le cose non habbino ad haver buon essito sì per le buone parole, et promesse havute già da quei principi, <lb/>
+come perché si promette, che l’essempio di qua gli habbi <lb/>
+a servir grandemente, et mi ha promesso di communi-<lb/>
+carmi con lettere quanto succederà, havendomi ringratiato <lb/>
+di quanto ho operato per avanzamento del suo negotio. </p>
+<p>Ha qui lasciato desiderio di lui, et si tiene, che se il signor Duca <lb/>
+doverà mandar di nuovo per altri aiuti egli habbi ad <lb/>
+esserne il mezano, come in effetto è attissimo per ben <lb/>
+condurre, et riuscire appresso questi signori. Gratie etc. </p>
+<p>Dall’Haya al primo agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="320v" facs="04_320v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="101">
+<!--
+<p n="320vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1617 1 agosto ricevute a’ 16 detto </p>
+<p>Haya </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="102" corresp="101" source="318r-318bis v" >
+<div type="main" facs="main text of attachment I" n="102" corresp="101" >
+<!--<p>Allegato I al n. 101 (cc. 318r-318bis v; decodifica di cc. 316v-317v, 319r-320r)</p>-->
+<pb n="318r" facs="04_318r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="318v" facs="04_318v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="318bisr" facs="04_318bisr" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="318bisv" facs="04_318bisv" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Nel … camini inanzi" decoding of the encrypted text can be found on c. 318r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "v-" corrected above "d-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ri-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "et … come vi concorra" decoding of the encrypted text can be found on c. 318r-v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-4" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "cosa" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Al … l’havesse ricusato" decoding of the encrypted text can be found on c. 318v; with cross-reference sign.</p></note>
+</div>
+</body>
+</text>
+</TEI>

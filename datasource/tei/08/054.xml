@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.054 date 1619-11-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">054</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 305r-307v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">305r-307v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Maurice is pleased that tomorrow Frederick V of the Palatinate will be crowned and that Gabor’s army is making progress. In Brussels Bedmar has arrived to discuss a prolongation of the truce but Suriano reports that no-one in the Dutch Republic seems interested. William of Nassau tells Suriano that now it is not the time, as long as they keep Spain pre-occupied with German affairs the idea is that they will not act against United Provinces. Various reports that 3000 Portugese troops are being raised to reinforce archducal garrison. Ships are being readied to sail against corsairs, new request by States General to Carleton to write to James. Concludes the letter by pleading for release of a Dutch soldier and captain condemned to galleys in Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-11-05">5 novembre 1619</date>
+            <num>099</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>5 novembre 1619, L’Aia (cc. 305r-307v)</p>-->
+<pb n="305r" facs="08_305r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> <lb/>
+n° 145<ptr target="#tn1" n="1"/> comincia 144 <lb/>
+fin 146 </p>
+<p>Serenissimo Principe </p>
+<p>è buon pezzo, che ’l signor principe Mauritio non ha mostrata tanta <lb/>
+consolatione, quanta s’è veduta in lui in questi ultimi <lb/>
+giorni da che s’è andata sempre più confirmando <lb/>
+la voce della coronatione del Palatino, et che dimani ella <lb/>
+doveva seguire. Sente consolatione ancora l’Eccellenza sua et <lb/>
+ne mostrano godimento li signori Stati delli avvisi, che si <lb/>
+hanno dell’avanzamento dell’armi del Transilvano; <lb/>
+et più da quello ch’è stato riportato qui da un gentilhuomo <lb/>
+alemano, che l’ha riferto a sua Eccellenza, et ch’erasi egli medesimo <lb/>
+trovato nel circolo di Sassonia quando si lessero le lettere <lb/>
+che Bethelem Gabor habbi scritto a quel<ptr target="#tn2" n="2"/> duca che si <lb/>
+meravigliava grandemente che sendo<ptr target="#tn3" n="3"/> ne’ tempi passati <lb/>
+stata coltivata sempre una buona amicitia, et corris-<lb/>
+pondenza tra la casa di Sassonia, et li stati di Bohemia <lb/>
+hora in queste presentanee urgenze sua Altezza non si<ptr target="#tn4" n="4"/> <lb/>
+muovesse ad assisterli; ch’egli havendo intesa, et cono-<lb/>
+sciuta la loro causa giusta non haverebbe mancato <lb/>
+di assisterli, protegerli, et difenderli a tutto suo potere, <lb/>
+che questo sia il contenuto delle lettere il detto gentilhuo-<lb/>
+mo l’ha affermato a sua Eccellentia rappresentandole <lb/>
+anco, che quell’Altezza haveva risoluto di tenersi <lb/>
+in questa congiontura neutrale. L’avviso come <lb/>
+ho detto ha piacciuto perché stimano qui che sarebbe <lb/>
+un gran punto avanzato se stasse quieto in questa <lb/>
+neutralità, che par che se ne spesi credendo, che
+<pb n="305v" facs="08_305v" rend="0"/>
+egli sia per temer la mano armata di esso Transilvano; <lb/>
+et che movendosi possi spinger qualche numero di genti <lb/>
+all’improviso, et coll’incursione far qualche danno al suo<ptr target="#tn5" n="5"/> Paese. </p>
+<p>Oltre detto Duca, noi s’intende manco, che li principi elettori ecclesiastici <lb/>
+faccino alcuna provisione d’armi, si crede bene che sotto <lb/>
+mano vadino massime gl’ecclesiastici trattando insieme; et commu-<lb/>
+nicando li pensieri con Baviera, et con qualche altri principi. </p>
+<p>A Brusseles è gionto il marchese di Beodamar ambasciator di Spagna <lb/>
+stato presso la Serenità vostra fu venerdì il suo ingresso in quella città<ptr target="#tn6" n="6"/> <lb/>
+con rincontro di molto seguito de’ signori principali. S’è pubblicato <lb/>
+ch’egli habbi a tentar l’avanzamento delle tregue. Di qua <lb/>
+non ho scoperto questi ultimi giorni<ptr target="#tn7" n="7"/> nel signor principe Mauritio né <lb/>
+in alcuni di questi signori che vi sia disegno di prestar così <lb/>
+facilmente le orecchie. Anzi mi disse a questo proposito il signor <lb/>
+conte Guglielmo di Nassau, che adesso non era tempo, <lb/>
+che sin qui la congiontura appareva troppo buona né <lb/>
+dovevasi abusarla. Concetti che sono usciti anco dalla <lb/>
+bocca di sua Eccellentia et un signore a questo proposito m’ha <lb/>
+detto, che li Bohemi haverebbono dato il metodo coi <lb/>
+loro progressi dal far la<ptr target="#tn8" n="8"/> tregua o non, et sin <lb/>
+qui si può congieturare, che duranti gl’affari di Alemagna <lb/>
+non si muoveranno, o movendosi sarà forse per dar che <lb/>
+dire, et che fare al re di Spagna. </p>
+<p>S’è qui pubblicato, ma viene portato l’avviso da più voci, che <lb/>
+tre milla fanti portughesi siano in camino per venir a rinforzar
+<pb n="306r" facs="08_306r" rend="0"/>
+li presidii dalla parte delli serenissimi arciduchi li quali si dice <lb/>
+che aspettino anco qualche numero delle genti, che sono <lb/>
+in Italia, et le restanti doveranno passar in Alemagna. </p>
+<p>Hoggi dovevano uscir in mare le navi da guerra destinate contro <lb/>
+corsari, sendo state solecitate a partire per li frequenti avvisi, <lb/>
+che si hanno de gran danni, che vanno facendo; et le navi <lb/>
+ritornate dal servitio di vostra Serenità sono state rincontrate <lb/>
+da essi corsari, che erano in sedici<ptr target="#tn9" n="9"/>; ma vedendo che <lb/>
+erano risoluti di combatter, si risolverono retirarsi <lb/>
+et se andonno. </p>
+<p>L’ambasciator d’Inghilterra ha havuto nuovo assalto, et nuova instanza <lb/>
+da questi signori<ptr target="#tn10" n="10"/> per scriver al suo Re, che s’armi anc’egli contro detti <lb/>
+corsari per spalleggiar, et far più forte la loro flotta <lb/>
+a fine di unitamente procurar l’estirpazione, o la <lb/>
+fuga almeno; ma con tutti gl’ufficii si<ptr target="#tn11" n="11"/> teme non sia per farsene <lb/>
+altro. </p>
+<p>Ispedì l’Ambasciatore domenica l’instanza al Re; et anco li signori <lb/>
+Stati hanno commesso al loro Ambasciatore per disponer quella <lb/>
+Maestà a risolversi a così degna, et pietosa opera. </p>
+<p>Raccomandai alla Serenità vostra la passata settimana per nome <lb/>
+delli signori Stati di Frisia la liberatione di un soldato, che <lb/>
+stava in galera<ptr target="#tn12" n="12"/>, come nelle mie lettere n° 143 che sono <lb/>
+qui aggiunte in copia: <lb/>
+hora scrivo<ptr target="#tn13" n="13"/> per nome delli signori Stati Generali <lb/>
+che per suoi deputati mi hanno fatto instantemente pregare <lb/>
+di raccomandarle la liberatione pur dalla galera
+<pb n="306v" facs="08_306v" rend="0"/>
+di un Jacob Janson da Hoorn ch’era capo bombardiero sopra <lb/>
+la nave abbruggiata per imputatione di haversi scordata la <lb/>
+candella vicino alla cassa delle polvere, sendo stato condanato <lb/>
+18 mesi alla galera. Già mi hanno detto<ptr target="#tn14" n="14"/> esserne passati otto <lb/>
+o dieci<ptr target="#tn15" n="15"/>; li signori Stati coll’intercessione che ne fanno <lb/>
+col mezo mio desiderano sommamente la liberatione per la sua <lb/>
+povera moglie carica de’ figli. Credo che ’l console della <lb/>
+Natione haverà ordine di parlarne in publico, et io <lb/>
+aspettarò di poter darne qualche buona risposta <lb/>
+alli medesimi signori Stati. Gratie etc. </p>
+<p>Dall’Haya li 5 novembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="307r" facs="08_307r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="307v" facs="08_307v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> <lb/>
+n° 145 commincia<ptr target="#tn16" n="16"/> 144 <lb/>
+fin 146 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="307vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 novembre 1619 ricevute a’ 20 detto </p>
+<p>Haya. n° 145 </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Consolatione di Mauritio per la coronatione <lb/>
+del Palatino che dovea seguire il primo sequente <lb/>
+et per l’avanzamento delle armi del Gabor. </p>
+<p>Aviso de lettera de esso Gabor a Sassonia <lb/>
+e risposta del Duca di assister a Bohemi <lb/>
+affermando che starà neutrale, come <lb/>
+riferisce certo gentilhuomo discorrendosi <lb/>
+che possa temer quel Duca l’armi <lb/>
+del Thransilvano per qualche incursione. </p>
+<p>Li principi ecclesiastici non fanno provisione d’armi <lb/>
+ma trattano insieme. </p>
+<p>Marchese di Bedmar gionto a Brusselles. </p>
+<p>Si publica habbi a tentar avanzamento delle <lb/>
+tregue coi Stati: dice il secretario <lb/>
+non scoprirsi che se n’habi a prestar <lb/>
+facilmente l’orecchie: haver detto il conte <lb/>
+Guglielmo adesso de ciò non esser tempo <lb/>
+Mauritio tener il medesimo concetto, et <lb/>
+altri che Boemi daranno il metodo <lb/>
+di far o no la tregua: con che si va <lb/>
+congietturando non habiano a moversi <lb/>
+durante li affari di Alemagna. </p>
+<p>Voce che vadano 3 mila Portoghesi per <lb/>
+rinforzar li presidii degli arciduchi. </p>
+<p>Uscita de’ Stati contra corsari. </p>
+<p>Le navi ritornate da questo servitio incontrano <lb/>
+con sedici vasselli de’ corsari: risoluti <lb/>
+di combatter questi si retirano. </p>
+<p>Uffitio con Inghilterra che s’armi contra essi <lb/>
+corsari, ma non se ne spera altro. </p>
+<p>Raccomanda a nome dei Stati la liberatione <lb/>
+di un soldato galeoto. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue fin depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "s- corretta su hav-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Corretto su mi."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "quella città aggiunto in sopralinea su Brusseles depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue guerra depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue altri depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "da … anni aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "in galera aggiunto in sopralinea su prisionero depennato."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue che saranno depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

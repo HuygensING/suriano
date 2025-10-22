@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.030 date 1620-06-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">030</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 162r-164v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp279-295
+            </note>
+            <biblScope unit="page">162r-164v, 175r-v, 165r-v, 174r-v, 166r-169v, 170r-171v, 172r-173v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Lormes has visited Suriano and provided him with further information about these 24 ships, their captains, and their cargo. He claims these captains want to live under the protection of a prince and abandon their corsairing activities. In attachments, he sends various writings, including the patents of Louis XIII. Reports it will be difficult to keep him waiting on a decision made by Venice Four documents attached all related to Jean de Lormes: a brief account of his activities, a copy of letter from Louis XIII, a safe conduct from Louis XIII and a copy of the commission given to the Lormes by Louis XIII all dated 31 July 1617 in Italian translation</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-16">16 giugno 1620</date>
+            <num>044, 045, 045bis, 046, 047</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="044">
+<div type="main" facs="main text of letter" n="044">
+<!--<p>16 giugno 1620, L’Aia (cc. 162r-164v, 175r-v)</p>-->
+<pb n="162r" facs="09_162r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 212 fin 214 </p>
+<p>Serenissimo Principe </p>
+<p>arrivò qui domenica passata quel monsieur de Lormes, che <lb/>
+ha in mano il negotio di quei corsari, et mi fu condotto dal <lb/>
+signor Pietro Falghero perché dalla viva voce di lui potessi haver <lb/>
+quelle informationi, che ricercavo per maggiore, et più <lb/>
+certa chiarezza della propositione fatta dal Pasini, ch’egli <lb/>
+ancora di trova qui meco. Da me stesso, et col mezo <lb/>
+delli medesimi signor Falghero, et Pasini sono andati cavando <lb/>
+tutto quello, ch’era necessario in conformità dei commandamenti <lb/>
+della Serenità vostra inviatimi nelle sue lettere de’ 30 aprile passato. </p>
+<p>Dal medesimo visconte di Lormes ho cavato informarsi tutto <lb/>
+ciò che a lei è stato scritto dal Pasini: tuttavia per <lb/>
+supplir<ptr target="#tn1" n="1"/> al mio debito le dirò, che quanto alla <lb/>
+qualità delle persone m’ha detto delli capitani <lb/>
+tutti, tredici erano li principali; ma capo di tutti era <lb/>
+il capitan Estinch inglese parente stretto di signor grande <lb/>
+et il capitan Elis pur inglese è stimato tra essi, et è <lb/>
+parente del conte d’Essex. Vi sono altri cinque <lb/>
+inglesi. Il capitan Belech, doi fratelli Georgio, et <lb/>
+Giacomo Pin questi tre figlioli di mercanti inglesi. Il capitan <lb/>
+Sansone molto ben noto alla Serenità vostra et il capitan Jel marinaro <lb/>
+o più tosto, ch’è stato pescatore ambidoi inglesi. Un <lb/>
+capitan Mandoch zelandese bravo soldato. Un holandese <lb/>
+Gioanni Amburgh, et un Lambert della città di Amburgh <lb/>
+et doi francesi li capitani Lasienes Yalvert, et Samuel <lb/>
+Ebert il primo bersone, et l’altro normando ambidoi
+<pb n="162v" facs="09_162v" rend="0"/>
+dicono esser di buona casa; et vi è un zelandese nominato <lb/>
+Cornelio in luoco del capitan Giacomo fiamingo morto. Li <lb/>
+ristanti capitani sono di bassa conditione. </p>
+<p>Prima havevano 24 vasselli, hora restano vintidua, sendone <lb/>
+persi doi doppo la propositione fatta a vostra Serenità li quali perirono <lb/>
+in un combatimento. Di questi vasselli sedici ne sono <lb/>
+che arriveranno a mille botte, altri ottocento, et il minore <lb/>
+sarà di seicento; et li restanti sei sono di trecento in <lb/>
+quattrocento botte. In essi si trovano sino a trecento pezzi <lb/>
+di artiglieria di bronzo, et buon numero di ferro, circa <lb/>
+sei milla moschetti, et anco buon numero di picche, et altre <lb/>
+sorti d’armi attinenti alla guerra; et questo è quanto <lb/>
+ai vasselli, et sue provisioni. </p>
+<p>Quanto alle mercantie hanno quantità di argenti non batuti <lb/>
+cioè in verghe, denari, gioie, perle, diamanti, quantità <lb/>
+di sete lavorate della China, et sino 1800 balle di <lb/>
+seta cruda, et qualche cuciniglia, overo grana, et qualche <lb/>
+droghe. </p>
+<p>Della loro volontà dice, et afferma questo Cavaliere ch’ella è <lb/>
+di ritrarsi sotto il vessillo di un principe sotto il quale <lb/>
+possino viver sicuri, in quiete, et in riposo, et lasciar <lb/>
+il pernitioso loro essercitio, secondo la precedente propo-<lb/>
+sitione; et ameranno volontieri di esser ricovrati particolarmente <lb/>
+sotto la protettione, et sicurezza di quella serenissima Republica <lb/>
+più tosto, che sotto qual si voglia altro principe o potentato
+<pb n="163r" facs="09_163r" rend="0"/>
+et tre di essi, che ultimamente trattorono col detto Visconte <lb/>
+a Dovre ove furono incogniti (<ptr target="#tn2" n="2"/>riferisce che restorono <lb/>
+molto contenti di haver inteso, che la proposta fosse <lb/>
+stata diretta a vostra Serenità. </p>
+<p>Per la fermezza della loro risolutione questo Cavaliere dice haver <lb/>
+parola da essi di tenir quant’egli prometterà, et questa <lb/>
+per giuramento, ne potrebbe al presente dir di vantaggio, <lb/>
+ben si offerisce passar con quello, o quelli che saranno dalla <lb/>
+serenissima Republica deputati per ratificar il contenuto del trattato <lb/>
+et così la Serenità vostra sarà tanto più sicura dell’osservanza <lb/>
+di quante haverà trattato, et promesso. Et in questo mentre <lb/>
+se si ricerca obligatione da esso Visconte sarà pronto <lb/>
+a darla a nome di tutti gl’altri. </p>
+<p>Esso Cavaliere è il solo che tratta questo negotio è visconte <lb/>
+di Lormes soggetto qualificato, di nation francese; <lb/>
+della provincia di Angiers, nipote del conte di San <lb/>
+Sera, et del signor di Siambeles, et dell’occlusa scrittura <lb/>
+intenderà anco la causa perché il negotio in Francia non <lb/>
+hebbe effetto, poiché si trattava, ch’egli si mettesse <lb/>
+in stato di mancar della fede data. </p>
+<p>Mi ha promesso, et affermato, che li detti capitani subito <lb/>
+arrivati al luoco destinato da vostra Serenità per doversi poi <lb/>
+quivi separare colli vasselli, et andar a sbarcar dove <lb/>
+più le paresse proprio faranno a lei<ptr target="#tn3" n="3"/> l’esborso scritto<ptr target="#tn4" n="4"/> <lb/>
+delli ottocento milla scudi di tre fiorini l’uno che
+<pb n="163v" facs="09_163v" rend="0"/>
+fanno in circa un millione di ducati con far inoltre libero <lb/>
+et assoluto presente a chi rappresenterà la Serenità vostra dei vasselli, <lb/>
+delle artiglierie, armi, amunitioni da guerra, cordaggi, <lb/>
+velle et tutto l’appartinente alli vasselli eccetto<ptr target="#tn5" n="5"/> le <lb/>
+mercantie, che doveranno esser libere ad essi per poterle <lb/>
+smaltire, al qual effetto li doverà esser deputato luoco <lb/>
+proprio in conformità della propositione del Pasini. </p>
+<p>Li marinari arrivati li vasselli al luoco destinato<ptr target="#tn6" n="6"/> sorti-<lb/>
+ranno tutti da essi<ptr target="#tn7" n="7"/> et all’hora che piacerà alla Serenità vostra per andar <lb/>
+et esser posti separati gl’uni dagl’altri, ove più sti-<lb/>
+merà bene senza alcuna sorte d’armi, ma con le sole <lb/>
+sue robbe. </p>
+<p>Haverà anco vostra Serenità qui aggiunta la patente c’hebbe esso Visconte <lb/>
+dal re di Francia di abolitione in generale ai capitani, <lb/>
+et marinari dei loro misfatti, et del corso fatto, et in altra <lb/>
+copia la patente particolare per li 18 vasselli; et di più <lb/>
+una commissione, che la sudetta Maestà diede al detto <lb/>
+signor di Lormes per stabilir colli medesimi capitani il tutto <lb/>
+ma una simil patente egli non ricerca di haver da lei <lb/>
+ma che la Serenità vostra per sua maggior sodisfattione, et <lb/>
+sicurezza la dia a chi a lei piacerà perché si obliga andar <lb/>
+con essi a trovar la flotta dei vasselli per ratificar <lb/>
+il tutto. Aggiungendole riverentemente, che ogni marinaro per <lb/>
+sua salvezza, et per non incontrar male anco nello stato <lb/>
+di vostra Serenità doverà haver un passaporto ordinario. </p>
+<pb n="164r" facs="09_164r" rend="0"/>
+<p>Egli non ha mostrato pretender altro, che quello che scrissi <lb/>
+il Pasini delle dieci per cento del denaro, che sarà sborsato <lb/>
+a vostra Serenità, et conferma in oltre tutto ciò, che sta descritto <lb/>
+nella medesima lettera di esso Pasini, et che sarà osservato <lb/>
+inviolabilmente ogn’altro particolare descritto in essa. <lb/>
+Ch’è quanto ho cavato da questo soggetto; che <lb/>
+parmi esser il più, che si possi havere per chiarezza <lb/>
+di questo negotio. </p>
+<p>La difficoltà, che si è havuta è stata d’indurlo ad attender <lb/>
+la risposta delle presenti che sarà di quattro o cinque settimane al più<ptr target="#tn8" n="8"/> a che in fine è pur condesceso <lb/>
+onde trapassando si va a rischio di perder il tutto; et <lb/>
+a questo proposito non lascierò di aggiungerle, che <lb/>
+molto artificio si è usato per condur esso Visconte <lb/>
+a me et levarlo dalla pratica, che potesse tornar a <lb/>
+mettersi in piedi colli Fiorentini, li quali non hanno <lb/>
+mancato a tutto loro potere di tentar il Vado, <lb/>
+ma non hanno potuto per la diligenza usata dal signor <lb/>
+Falghero incontrar come pensavano. Et perché parmi <lb/>
+il negotio esser grave, et di momento stimo a propo-<lb/>
+sito non lasciar che parti di qua, trattenendolo appresso <lb/>
+di me con li sudetti signori Falghero, et Pasini. Prego <lb/>
+Iddio, che s’è per servitio, et ben publico tutto, riesca <lb/>
+a contento, et sodisfattione di vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya li 16 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="164v" facs="09_164v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="175r" facs="09_175r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="175v" facs="09_175v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima <lb/>
+n° 212 fin 214 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="044">
+<!--
+<p n="175vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 giugno 1620 ricevute li primo luglio </p>
+<p>Haya. n° 212 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="045" corresp="044" source="165r-v, 174r-v" >
+<div type="main" facs="main text of attachment I" n="045" corresp="044" >
+<!--<p>Allegato I al n. 44 (cc. 165r-v, 174r-v)</p>-->
+<pb n="165r" facs="09_165r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya n° 212 </p>
+<p>L’anno 1617 il signor visconte di Lormes fu deputato dalla Maestà christianissima <lb/>
+verso il signor general Estinch et suoi capitani nominati nella <lb/>
+comissione per condurli nel stato di sua Maestà il che detto signor <lb/>
+visconte di Lormes mise in essecutione havendo condoto <lb/>
+la mità di essi vasselli quali andavano in squadra al n° di <lb/>
+9 oltre uno che era del sudetto signor di Lormes sino al porto <lb/>
+di Bergror costa di Normandia, che per haver incontrato <lb/>
+qualche deficultà offerendo pagar la mità dell’accordato <lb/>
+a sua Maestà che arrivava alla summa di 400 mila scudi da <lb/>
+tre fiorini l’uno obligando per ciò, condur l’altra squadra <lb/>
+de nove vasselli le qualli havevano di pagare altri 400 <lb/>
+mila scudi come di sopra che era a punto l’accomplimento <lb/>
+di quanto detto signor Visconte haveva promeso a sua Maestà christianissima. </p>
+<p>La dificultà incontrata in questo negotio fu che dal primo <lb/>
+sborso che detto signor de Lormes haveva offerto di pagar cioè <lb/>
+400 mila scudi per la prima squadra delli 9 vasselli et <lb/>
+il suo fu mossa dal signor Luines deficultà di voler <lb/>
+che il sborso fuse di tutti li 800 mila scudi et l’altri <lb/>
+vasselli venisero poi quando volesero, non mancò anco <lb/>
+monsignor de Luines di far offiti grandi con il signor de Lormes <lb/>
+che facesse intrar detti 10 vasselli nela riviera di Nantes <lb/>
+in Bertagna offerendole per ciò ricompensa grande oltre il <lb/>
+volerlo avanzar con sua Maestà christianissima, dalli quali andamenti <lb/>
+il signor de Lormes resentitosi non parendo cosa degna de <lb/>
+cavaliero né di crestiano, inganar quelli che gli haveva <lb/>
+fidato e la vita e la robba insieme per ciò restò questa <lb/>
+negotiatione imperfeta, di più essendo partito detto de Lormes <lb/>
+per andar a rimenar essi vasselli arrivato che fu alla riviera <lb/>
+de Gambra costa de Ginea li marinari et soldati del suo vassello <lb/>
+se amutinorono contra esso signor de Lormes, et havendolo fatto <lb/>
+pregione lo posero in tera esponendolo in mano de’ salvaggi <lb/>
+il che agiutato dal favor divino incontrò una barca <lb/>
+pur de’ salvaggi che passava per la medesima<ptr target="#tn9" n="9"/> costa <lb/>
+et egli sprezato il pericolo si accompagnò con essi loro
+<pb n="165v" facs="09_165v" rend="0"/>
+et con l’instesso favor<ptr target="#tn10" n="10"/> devino si conduse a Tagro nela <lb/>
+medesima costa dove ritrovò li 9 vasselli sudetti et l’altra sua <lb/>
+conserva con qualli ritornò<ptr target="#tn11" n="11"/> in Francia <lb/>
+et arivato che fu ritrovò nella riviera di Nantes il sudetto suo <lb/>
+vassello che se gli haveva amutinato nelle mani di monsier <lb/>
+de Monbason governator di Nantes, sucero del sudetto monsieur <lb/>
+de Luines benché il signor de Lormes havese fatto al segnor de <lb/>
+Mombason instantia grande per riaver il suo vassello et anco <lb/>
+che li fusse fatta giustitia del tradimento usatoli dalla sua <lb/>
+gente non ottene però cosa alcuna replicandole<ptr target="#tn12" n="12"/> il Lormes <lb/>
+che almeno gli restituise il suo vassello poiché non voleva <lb/>
+castigar li malfatori rispose Mombason che ne anco questo <lb/>
+haverebbe fatto poiché il vassello era di sua raggione haven-<lb/>
+dolo ottenuto in libero dono di sua Maestà il che travagliato dalla <lb/>
+negativa de monsignor de Mombason et della ingiustitia che <lb/>
+gli ussava, il signor de Lormes alterato per caso fortuito incontrò <lb/>
+uno de’ prencipali sudutori all’amunitatione sudetta mesa manno <lb/>
+alla spada et combattendo ambidua agiutato il signor de Lormes <lb/>
+dalla giustitia della causa, diede la morte al nemico che […]-<lb/>
+causo che vedendo li capitani dei vasselli questi inconvenienti pigl-<lb/>
+iorono qualche ombra et non si volsero più arricare di acc-<lb/>
+omodarsi in Francia. Il detto signor de Lormes necessitato dal <lb/>
+caso se retirò nel Paese Baso dove incontratosi con un <lb/>
+famigliare della Regina madre creatura del fu maresial <lb/>
+Doncre di nation fiorentino huomo di chiesa nominato il <lb/>
+signor Baldesar Nardi arciprete di Arezzo in Toscana che <lb/>
+havendolo conosciuto alla corte di Francia gli communicò <lb/>
+questo negotio offerendolo alla Altezza serenissima del Gran duca suo signore <lb/>
+del qualli detto Nardi con ogni deligenza posibile à fatto <lb/>
+in sorte che il serenissimo Gran Duca à datto grandissima orecchia <lb/>
+et senza dubio sarebbe stato concluso con quel Prencipe <lb/>
+se non che il Pasini<ptr target="#tn13" n="13"/> havendone havuto santore di questo <lb/>
+a<ptr target="#tn14" n="14"/> procurato con ogni via posibile de straviarlo et metterlo <lb/>
+avanti ala serenissima Republica.
+<pb n="174r" facs="09_174r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="174v" facs="09_174v" rend="0"/>
+<p>n° 1 </p>
+<p>Scitura tacante il negotio di <lb/>
+monsignor de Lormes in Francia </p>
+<p>nelle prime n° 212 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="045bis" corresp="044" source="166r-169v" >
+<div type="main" facs="main text of attachment II" n="045bis" corresp="044" >
+<!--<p>Allegato II al n. 44 (cc. 166r-169v)</p>-->
+<pb n="166r" facs="09_166r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya n° 212 </p>
+<p>Luigi per la gratia de Dio re di Francia et di Navara a <lb/>
+tutti presenti et havenire salute, dal prencipio del nostro Regno <lb/>
+abbiamo ricevuto diverse lamentatione tanto da’ nostri suditi che <lb/>
+de’ forestieri che frequentano et traficano nel nostro Regno de’ <lb/>
+latrocini che si fanno nei mari di Levante et Ponente dalli <lb/>
+pirati et questo con tanta crudeltà et inhumanità che<ptr target="#tn15" n="15"/> <lb/>
+ne ha moso a compasione et desiderio di proveder et far <lb/>
+cessar questa comune calamità a tutta la christianità, per questo <lb/>
+effetto abbiamo tenuto le nostre gallere le meglio armate che <lb/>
+n’è stato posibile dandoli ordene di nettar il mar di Levante <lb/>
+et perché questo non erra sufficiente abbiamo fato armar vasselli <lb/>
+tondi tanto nel detto mar di Levante che in quel di Ponente <lb/>
+e quelli mandatoli incontra a’ detti corsari per pigliarli overo <lb/>
+meterli a fondo ma la gran dilation del mare et le <lb/>
+diverse comodità et retirate ch’anno detti cosari è stato causa <lb/>
+che non abbiamo pottuto venir a una fine, abbiamo ricercato <lb/>
+ogn’altra sorte di mezo posibile per effetuar questa nostra <lb/>
+santa intentione et deliberar il mondo d’una così lacrimosa <lb/>
+miseria havendo medesmamente impiegato li nostri ambasciatori, <lb/>
+verso il gran signor di Turchia et altri prencipi et pottentati <lb/>
+christiani e in fin non potendo altrimente abbiamo fato trattare <lb/>
+con li corsari de Tunesi et d’Algieri, tanto per far cessar le <lb/>
+ditte pirature che per far liberar gran n° de’ poveri christiani <lb/>
+il che ne ha felicemente diverso, et procurato la miglior <lb/>
+sicurtà del mar di Levante et facilitato la libertà <lb/>
+de’ molti poveri christiani ma non intieramente provisto al malle <lb/>
+essendo rimasti nel mar di Ponente una grande et pottente <lb/>
+armata radunata d’ogni nattione composta de 18 gran vasselli <lb/>
+pottentemente armati di artegliarie né trovando nisun vassello <lb/>
+mercantile che gli possa resister tengono tutti li negotianti <lb/>
+in tal timore che son risoluti abandonar interamente il <lb/>
+comercio il che sarebbe privar il nostro Regno et anco <lb/>
+li altri regni vicini, della principal comodità che recevi[…]<ptr target="#tn16" n="16"/> <lb/>
+la vita humana, et la commune società d’huomeni, il
+<pb n="166v" facs="09_166v" rend="0"/>
+che essendo anco harivato alla conosanza de quelli che commandano <lb/>
+la sudetta armata, dubitando che il trafico comune non cessi né <lb/>
+pottendo può cavarne l’utile costumato essendo anco tocati dal <lb/>
+timore de Dio e dal horror di quello sono stati costreti commeter <lb/>
+per il spatio de 16 anni intieri che hanno continuato questa vitta <lb/>
+hanno pensato de retirarsi et lasciar li mari netti et pacifichi <lb/>
+per poter sicuramente alargar il comercio, per li nostri suditi et <lb/>
+de altri principi, mediante che trovassero qualche sicura retirata <lb/>
+o, habitatione per passar in pacce il resto della lor vitta, con le <lb/>
+loro famiglie perciò dando libertà a un de’ nostri suditi <lb/>
+che tenevono con loro per revenir in Francia il general <lb/>
+Estinch, et gli capitani Lambert, Elis, Mandoch, Blech, il <lb/>
+Sanson, Pin, Meach, et Giacomo Fiamengo principali cappi <lb/>
+della detta armata, habbiamo dato potter e, carica de’ rapre-<lb/>
+sentarne la loro intentione et se noi erravamo disposti sup-<lb/>
+licarrono da loro parte de permeterli lasciando il corso de <lb/>
+retrovarsi nel nostro Regno per viver all’havenire loro et loro <lb/>
+famiglie fidelmente, segondo la leggie come li nostri suditi <lb/>
+nei luoghi che li assegneremo, il che facendo lasciariano <lb/>
+non solamente il mar libero et netto, et di pericoli con li qualli <lb/>
+infestavano ma afferiscono de lasciarmi in manno li loro <lb/>
+vasselli armigi, armi, artegliarie, viveri come sono: et di più <lb/>
+modo per potter longamente trattenire essa armata et con essa <lb/>
+debelar tutti gli altri piratti che corsegiano detti marri et infe-<lb/>
+tano il trafico con questo però che noi le prometesimo de non <lb/>
+recercarli di quello che anno<ptr target="#tn17" n="17"/> fatto tratanto che anno<ptr target="#tn18" n="18"/> excreditato <lb/>
+la piratura et che possono pacificamente et sicuramente <lb/>
+possedere quel che gli resterebbe per intratenirsi loro et loro fam[…] <lb/>
+doppo haver sattisfato a quanto ne a<ptr target="#tn19" n="19"/> promesso il che havendo <lb/>
+fatto esaminar et riguardar sì per qualche altro modo poteron <lb/>
+venir a fine de’ detti corsari, et considerando che doppoi sedeci <lb/>
+anni tutto quello che noi se siamo sforcati et quello che <lb/>
+gli altri prencipi nostri vicini haveva procurato erra restato <lb/>
+inutile, et che ben saria a tutta la christianità si noi potessimo
+<pb n="167r" facs="09_167r" rend="0"/>
+far cesar tali pirature, che in ogni modo è cosa fuori <lb/>
+di speranza a quelli che sono stati depradati de potter ricuperare <lb/>
+quello che gli è stato preso et robato, attento che per la <lb/>
+legge del marre quello che è ripreso per forza apartiene <lb/>
+a, quelli che l’anno<ptr target="#tn20" n="20"/> ripreso, se sarà stato 24 horre <lb/>
+nelle manno dell’inemico; considerando anco che il dreto <lb/>
+de gente et comun politia de tutti gli huomeni volle <lb/>
+che quando li pirati ho<ptr target="#tn21" n="21"/>, altri loro simile che si son resi <lb/>
+così forti che non possino esser presi castigati e sconfiti <lb/>
+che per armi et pericolo d’un gran combatimento, si deve <lb/>
+tratare con loro con dretto di gente et segendo l’uso di <lb/>
+guerra et in modo che posi esser il più uttile per il publico <lb/>
+et che se li guardi et osservi come a tutti gli altri nemici <lb/>
+quello che se gli haverà promesso non metendone davanti <lb/>
+gli hocchi se non il ben e sicurtà de’ nostri suditi <lb/>
+et il riposo della christianità, et il desiderio de oviar alli <lb/>
+malli et medesimamente alla perdita de tante annime <lb/>
+christiane che per mezo detti pirati sono vendute all’infideli; per <lb/>
+opinione de’ prencipi et offitiali di questa Corona et altri <lb/>
+nottabili e principali del nostro conseglio habiamo questo <lb/>
+medesimo giorno per letere e pattente detto et accordato come <lb/>
+noi diamo ancora per il presente salvo condotto a detto <lb/>
+Generalle et capitani soldati et marinari con tuti li beni <lb/>
+mobeli in quella qualità che sono dentro li sodeti <lb/>
+loro vasselli pottendo restare ciascheduno di essi donde <lb/>
+li parrerà a conditione, però de rimeter li loro vasselli <lb/>
+con li loro viveri canoni monitione armigi ch’anno dentro <lb/>
+nelle nostre manni, insieme anno<ptr target="#tn22" n="22"/> promeso fornirne per <lb/>
+l’intratenimento di esse segondo ch’è dichiarato pe l’<lb/>
+instrutione da noi datte al segnor de Lormes il qualle <lb/>
+habbiamo comeso per portar il nostro salvo condotto<ptr target="#tn23" n="23"/> <lb/>
+ricever la loro fede et promessa volendo come gli habbiamo <lb/>
+promeso che tutto quello che anno<ptr target="#tn24" n="24"/> fato per il passato <lb/>
+resti scordato senza che la memoria si posa rinovare
+<pb n="167v" facs="09_167v" rend="0"/>
+all’avenire de nostra certa sientia<ptr target="#tn25" n="25"/> proprio monumento gratia <lb/>
+speciale piena posansia e hautorità realle habbiamo rimesso <lb/>
+et perdonato estinto et abolito remetemo et perdonemo et <lb/>
+estinguemo et abolimo per le presente sottoscrite de nostra manno tutto quello che per il sudetto generalle Estinch capitan <lb/>
+Lambert, Elm, Mandech, Blech, il Sanson, Pin, Meach <lb/>
+et Giacomo Fiamengo et gli altri che gli anno<ptr target="#tn26" n="26"/> assisteto <lb/>
+et assisteno dentro li sudetti vasselli et con loro ritornarsi <lb/>
+nel nostro Regno et terre della nostra hubidienza senza <lb/>
+potter esser ricercati durante li sudeti sedeci anni et sino <lb/>
+al tempo che haveranno reciuto il nostro salvo condotto et <lb/>
+prestato il giuramento di hubidire et servirne come a loro <lb/>
+supremo nelle manni dil sudetto signor de Lormes come stato, detto <lb/>
+comesso per ricever il sudetto giuramento et portarli il nostro sal-<lb/>
+vo condotto tanto per le roberie et depredamenti che anno<ptr target="#tn27" n="27"/> <lb/>
+fatto sopra nostri suditi che a quelli d’altri principi christiani <lb/>
+prese de navvi vasselli et mercantie, amacamenti assasinamenti <lb/>
+et generalmente de tutte le cosse da loro fatte durante il <lb/>
+tempo sudetto così nel mare oceano che Mediteraneo in qual <lb/>
+si voglia sorte et maniera che si sia sì ben che elle non <lb/>
+sono qui per menuto specificate et dechiarate, non volendo <lb/>
+che di fatto alcuna ricerca né perscrita, contra de loro <lb/>
+da prencipi christiani quando ben essi fossero doppo conosciuti <lb/>
+et non posino esser chiamati per la ristitution de esse per <lb/>
+qual causa o, occasion che si sia così commandemo a’ nostri <lb/>
+fideli et amati consiglieri et gente tenente alla nostra corte <lb/>
+di Parlamento che abbino a verificar le presenti et far <lb/>
+registrar et del contenuto di esse goder et usar pienamente <lb/>
+et pacificamente il detto general Estinch et capitani sopra <lb/>
+nominati con li soldati marinari et altri che gle<ptr target="#tn28" n="28"/> anno<ptr target="#tn29" n="29"/> assistito <lb/>
+et asisteno ancora al presente et se retirerano con loro nel <lb/>
+nostro Regno in quelli luogi et paesi che gli ordineremo per <lb/>
+loro stantia per tanto che per certe consideratione abbiamo <lb/>
+in esse attribuito attribuimo ogni corte giuridition e conosantia. </p>
+<pb n="168r" facs="09_168r" rend="0"/>
+<p>De tutto quel che concerne il tenor delle presenti e delle <lb/>
+circostantie che ne dependono et interdetto a tutte le <lb/>
+nostre corte di Parlamento et altri nostri offitiali di qual <lb/>
+si voglia loco che il sudetto General capitani soldati e marinari <lb/>
+venisero a retirarsi et fermarsi nella loro giureditione <lb/>
+et dove alcuna cosa fuse stata fata a pregiuditio qui di <lb/>
+sopra la facian reparare et remeter nel suo primo stato <lb/>
+nonostante qual si vogli editi hordeni et tutte altre <lb/>
+cosse alle qualli noi abbiamo per diverse cause qui di <lb/>
+sopra derogato et derogemo et alle derogationi provamo <lb/>
+per questa sol volta et sanza tirar in consequenza et per-<lb/>
+ché delle presenti si haverà a far in diversi luogi vogliamo <lb/>
+che al vidimus di esse debitamente colationate per uno <lb/>
+de’ nostri amati et fideli conseglieri et secretari sia <lb/>
+dato fede come al presente originale perché è tal <lb/>
+il nostro piacere e a finché sia cossa ferma <lb/>
+et stabilitta per sempre abbiamo fatto poner il nostro <lb/>
+sugelo alle presenti datto a Parigi l’ultimo luglio <lb/>
+l’anno di gratia 1617 e, del nostro Regno ’l 4°. </p>
+<p>Louis </p>
+<p>Per il re Pottier
+<pb n="168v" facs="09_168v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="169r" facs="09_169r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="169v" facs="09_169v" rend="180"/>
+<p>n° 2 </p>
+<p>Copia della lettera di <lb/>
+habolutione di sua Maestà christianissima </p>
+<p>nelle prime n° 212 </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="046" corresp="044" source="170r-171v" >
+<div type="main" facs="main text of attachment III" n="046" corresp="044" >
+<!--<p>Allegato III al n. 44 (cc. 170r-171v)</p>-->
+<pb n="170r" facs="09_170r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere dell’Haya n° 212 </p>
+<p>Luigi per la gratia de Dio re di Francia et di Navara <lb/>
+a tutti nostri logotenenti generalli governatori delle nostre <lb/>
+provintie amiragli et vice amiragli governatori et capitani delle <lb/>
+nostre cità giudici scabini di esse bagli senescalchi prevosti <lb/>
+giudici e loro logotenenti mastri de’ nostri porti officiali della <lb/>
+nostra Amiralità et tutti y nostri offitiali et suditi che le <lb/>
+presenti aparteneranno. Salute, il generalle Estinch et <lb/>
+li capitani Lambart, Elis, Mandoch, Blech, il Sanson, Pin, <lb/>
+Meach, e Giacomo Fiamengo ne hanno fatto dimostrar che <lb/>
+havendo doppo sedici anni in qua corsegiato continuamente <lb/>
+come fanno ancora li mari di Levante et di Ponente con <lb/>
+diciotto vasselli di guerra condoti per il sudetto general Estinch <lb/>
+et fatto diverse prese tanto sopra nostri suditi che sopra <lb/>
+quelli d’altri principi christiani, desidereriano lasciar questa <lb/>
+malla vita con tutti loro soldati e marinari et gli altri <lb/>
+che gli hanno dato assistenza sono al presente retorarsi <lb/>
+nel nostro Regno Paese terre et signorie della nostra hubidienza <lb/>
+con li loro beni mobili sia horro o, argento moneta ho<ptr target="#tn30" n="30"/>, <lb/>
+non monetta, perle gioie et altre mercantie di valore <lb/>
+che hanno al presento dentro ne’ loro vasselli di che qualità <lb/>
+e, conditione che siano se ne piacesse de permeterli e, darli <lb/>
+le sicuranze nescesarie ogniun di essi se retirerà nel <lb/>
+nostro Regno et potrà restar in sicurtà senca che posino <lb/>
+esser ricercati di tutto quello hanno fatto durante li sudetti <lb/>
+16 anni et sino al tempo che se metteranno nella nostra <lb/>
+hubidienza per qual si voglia persona e per qual si voglia <lb/>
+causa remetendo nelle nostre manno tutti li loro vasselli viveri <lb/>
+canoni et munitioni, et armizi nel medemo tempo che desiderano <lb/>
+nel nostro Regno per disponer di essi come ne parrerà, de <lb/>
+più il modo che n’an fatto prometter per intratenir qualche tempo la dita flotta per nettar il mare a benefitio della <lb/>
+christianità segondo è dichiarato per l’instrutioni sottoscrite di nostra <lb/>
+manno le qualli habiamo fatto dar al signor de Lormes portator <lb/>
+del presente salvo condotto, faciamo sapere che
+<pb n="170v" facs="09_170v" rend="0"/>
+havendo meso questo affare in deliberatione nel nostro conseglio dove <lb/>
+si trovorono diversi prencipi et offitiali di questa Corona et per <lb/>
+il medesimo conseglio doppo haver maturamente considerato l’import-<lb/>
+anza di esso et se ben pare che questo sia participar al malle <lb/>
+per impedir la punition, niente di meno giudicando il ben che <lb/>
+la loro conversione potrà apportare perché la fa cessare per l’<lb/>
+havenire li gran malli che commetono giornalmente sopra ogni <lb/>
+sorte di persona et che il traffico grandemente alterato per causa <lb/>
+loro venga per tal retirata a stabelirsi per queste cause et altre <lb/>
+considerationi noi abiamo al sudetto generale Estinch et capitani sopra <lb/>
+nominati promeso et acordato e de nostra gratia speciale piena <lb/>
+posanza et hautorità realle permetemo et acordemo et a tutti li <lb/>
+soldati marineri et altri che gli hanno assisteto et assisteno <lb/>
+de venir con ogni libertà et sicurtà con li loro vasselli soldati <lb/>
+armati et mobeli che anno<ptr target="#tn31" n="31"/> al presente dentro in essi vasselli <lb/>
+sotto la condotta del signore de Lormes il qual noi abbiamo commesso <lb/>
+et ordinato per portarli il presente salvo condotto et per amenarli <lb/>
+nel porto de Morbian nella riviera de Vanes nella nostra provincia <lb/>
+di Bertagna o, in quello della trancia riviera de Maran, nel <lb/>
+Poitu in un de’ qualli secondo la comodità li potrà permetere <lb/>
+noi abbiamo anco promesso di restar in sicurtà aspetando <lb/>
+nostro comandamento et le nostre letere de abolitione a ciò <lb/>
+doppo ricevute et haver fatto descaricar li loro vasselli di tuta <lb/>
+quel che si troverà sopra sia horro o, argento moneta o non <lb/>
+moneta perle gioie et altre mercantie de che valore et, <lb/>
+condition che le sia noi gli abbiamo premesso de portar vender <lb/>
+et destribuirle secondo gli parerà senza renderne conto né <lb/>
+ripresi da qual si voglia persona et per qual si voglia causa <lb/>
+che si sia remettendo tutti li loro vasselli domati canoni et moni-<lb/>
+tioni di guerra nelle manno delli nostri offitiali o, de quelli che <lb/>
+sarano da noi deputati per recevuerli<ptr target="#tn32" n="32"/> facendo buon et real <lb/>
+inventario per esserne il tutto apportato et rappresentato quando <lb/>
+sarà da noi ordinato: a questo effetto posino prender terre, <lb/>
+separar e retirarsi, tanto il Generalle capitani soldati e, marinari. </p>
+<pb n="171r" facs="09_171r" rend="0"/>
+<p>Et tutti quelli che sarano alhorra dentro a essi vasselli e <lb/>
+ciaschun de loro nelli luogi de nostro Regno paesi terre e signorie <lb/>
+della nostra hubidientia dove noi intendemo che posino restar <lb/>
+in ogni libertà et sicurtà seguendo il nostro pasaporto et <lb/>
+permision che vogliamo sia particolarmente datto ad ogniun <lb/>
+d’essi senca o, sugeti per ragion di giustitia di tutto quel ch’<lb/>
+anno fatto durante li sudetti sedici anni et sino al giorno <lb/>
+che pregheranno la volta delle spiagie<ptr target="#tn33" n="33"/> del nostro Regno <lb/>
+né costreti ad alcuna ristitutione de tutto quello possono <lb/>
+haver preso, sia nostri suditi o, altri in qual si voglia <lb/>
+maniera che se sia, così vi commandiamo, et a ogniun <lb/>
+de voi sì come appartenirà ordeniamo et agiungemo che <lb/>
+della presente nostra permissione salvo condotto et licenza <lb/>
+ne fatte goder et usar pienamente et pacificamente il sudetto <lb/>
+generalle Estinch et li sudetti capitani soldati e marinari et altro <lb/>
+come di sopra senza soffrire che gli sia fatto alcun <lb/>
+travaglio o, impedimento, anci al contrario, per tanto per-<lb/>
+ché noi gli abbiamo presi in nostra protetiono et salva-<lb/>
+guarda speciale et medesmamente farli aministrar li <lb/>
+logiamenti et viveri dove ne haveranno bisogno pagando <lb/>
+ragionevolmente, et perché potrebono haver a far <lb/>
+in diversi luogi vogliamo che al vidimus di essa <lb/>
+debitamente colationati per uno delli nostri amici et <lb/>
+fideli conseglieri overo secretari gli sia prestato fede <lb/>
+come al presente originale essendo talle nostra volontà. </p>
+<p>Datta a Parigi l’ultimo di luglio l’anno 1617 <lb/>
+et del nostro Regno l’ottavo segnato. </p>
+<p>Louis </p>
+<p>Per il re Pottier </p>
+<p>Sugelato con il gran sugelo di cera gialda
+<pb n="171v" facs="09_171v" rend="180"/>
+n° 3 </p>
+<p>Salvo condotto de sua Maestà christianissima <lb/>
+per li 18 vasselli del general Estinch </p>
+<p>nelle prime n° 212 </p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="047" corresp="044" source="172r-173v" >
+<div type="main" facs="main text of attachment IV" n="047" corresp="044" >
+<!--<p>Allegato IV al n. 44 (cc. 172r-173v)</p>-->
+<pb n="172r" facs="09_172r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>In lettere dell’Haya n° 212 </p>
+<p>Loigi per la gratia de Dio re di Francia et di Navara <lb/>
+al nostro caro et amato Gio. de Lormes kavalier signor della Pomere, <lb/>
+salute, havendo per diverse et importante consideratione, <lb/>
+accordato al generale Estinch et alli capitani Lambert, Elis, <lb/>
+Mandoch, Blech, Sanson, Pin Meach, et Giacomo Fiamengo <lb/>
+patroni de diversi vasselli di guerra et a, tutti li soldati <lb/>
+marinari et altri che gli hanno seguiti et assistitto doppo <lb/>
+hanni 16 che corrono et piratano il mare di Levante <lb/>
+Ponente di ritirarsi nel nostro Regno paesi terre et signorie <lb/>
+della nostra hubidienza in quei lochi che più piacerà <lb/>
+senza che nisuno possi esser ricercato de tutto quello hanno <lb/>
+fatto<ptr target="#tn34" n="34"/> né, costretti a ristitutione delle robbe da loro prese <lb/>
+durante il sudetto tempo con obligo de rimeter nelle nostre <lb/>
+manne li sudetti vasselli armati con canoni et munitioni et <lb/>
+altri armizi, abbiamo risolto di mandar alcuno verso di <lb/>
+loro tanto per portarli il salvo condotto et aboliscono che li <lb/>
+son nescessaria che per effetuar da loro parte, quello che <lb/>
+d’altrove n’è stato per loro promesso et segondo che più particolar-<lb/>
+mente specificato per la instrutione che ne abbiamo fatto <lb/>
+espedita et sottoscrita da noi, et sapendo non poter dar questa <lb/>
+carica a persona che potrà essequirla meglio che voi per queste <lb/>
+cause et per l’intiera confidenza che noi habbiamo nella <lb/>
+vostra persona vi habbiamo comesso<ptr target="#tn35" n="35"/> ordinato et deputtato <lb/>
+commetemo ordenemo deputemo per le presente sottoscrite di nostra <lb/>
+manno a ciò subito et più diligentemente che potrà transportarvi <lb/>
+dove saranno li sudetti vasselli remetre in manno del sudetto general <lb/>
+Estinch e capitani il nostro salvo conduto et secondo esso doppo <lb/>
+haver preso et recevuto il giuramento dal sudetto Generalle capitani <lb/>
+soldati et offitiali di sudetti vasselli di servir et hubidirne fidel-<lb/>
+mente per l’avenire come loro supremo et de non abusar il <lb/>
+sudetto salvo condotto, di menarli et condurli nella nostra provintia <lb/>
+di Bertagna nel porto di Morbian nella riviera de Vanes <lb/>
+ho<ptr target="#tn36" n="36"/>, nella nostra provintia de Poitu nel porto della trancia <lb/>
+riviera de Marans, secondo che il tempo vi premeterà
+<pb n="172v" facs="09_172v" rend="0"/>
+farli prender terra, et discaricar li sudetti vasselli di tutte le mercantie <lb/>
+che sono in essi<ptr target="#tn37" n="37"/> sia in argento horro moneta o, non moneta perle <lb/>
+gioie altri mobeli e mercantie che se troveranno voi li permeterete <lb/>
+di spartir portar vender cambiar secondo che li parrerà il tuto in <lb/>
+presenza de’ commisari per loro asistenza et non altrimenti che <lb/>
+si come o, più amplamente dichiarato per il nostro salvo condotto <lb/>
+alla reserva tutta volta delle armi canon, monitioni armigi de’ <lb/>
+vasselli sian mesi nella manno o, de quelli che cometteremo per <lb/>
+riceverli alli qualli ordinarete di far inventario per esserne rapre-<lb/>
+sentato et toner manno al compimento di quanto n’è stato promesso <lb/>
+da loro parte et far nell’esequtione della presente commisione <lb/>
+tutto quello che giudicherete nescesario per il nostro servitio <lb/>
+et per l’effetto di queste promesse che li sono da nostra parte <lb/>
+state fatte vi habbiamo dato et diamo, potere hautorità commision <lb/>
+commandamento speciale commandemo et ordeniamo a tuti nostri <lb/>
+luocotenenti generalli governatori delle nostre provintie amiragli <lb/>
+vice amiragli guardiani delle spiagie mastri de’ nostri porti offitiali <lb/>
+delle nostre Amiralità bagli seneschalchi prevosti giudici ho<ptr target="#tn38" n="38"/> loro <lb/>
+logotenenti et tutti gli altri nostri offitiali che le presenti apparte-<lb/>
+neranno lasciarvi liberamente et sicuramente passar tanto nell’<lb/>
+andar che nel ritorno e permeter de pigliar porto con li sudetti <lb/>
+dicidotto vasselli et desender il sudetto General capitani et soldati e, <lb/>
+tutti quelli che si troveranno in sudetti vasselli cettuato l’armamento <lb/>
+et monitione ne’ detti porti di Morbian o della Trancia senza <lb/>
+sofrir che vi sia né a voi né a loro datto alcun travaglio <lb/>
+né impedimento anci ogni agiuto favuor assistenza e medesima-<lb/>
+mente li logiamenti e viveri che haverete bisogno pagandoli <lb/>
+ragionevolmente li qual soldati farete subito licentiare doppo <lb/>
+il loro disbarco et gli ordenerete di retirarsi separatamente <lb/>
+ogniuno dove li paurerà sotto la sicurtà che li sarà datta <lb/>
+da nostra parte essendo così il nostro volere. </p>
+<p>Datta in Parigi l’ultimo di luglio l’anno 1617 del nostro Regno </p>
+<p>Louis </p>
+<p>Per il re Pottier </p>
+<p>Segnato con il gran segilo di cera gialda
+<pb n="173r" facs="09_173r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="173v" facs="09_173v" rend="180"/>
+<p>n° 4 </p>
+<p>Copia della comisione de sua <lb/>
+Maestà christianissima datta al signor de Lormes </p>
+<p>nelle prime n° 212 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "al mio" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "a lei" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "di uno" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the deleted word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "da essi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "che … più" added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "riviera" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "fav" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "nella riviera de Nantes" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

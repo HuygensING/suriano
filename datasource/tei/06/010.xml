@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.010 date 1618-03-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 69r-72v, 75r-76v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">69r-72v, 75r-76v, 73r-74v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Uncertainty and delay of letters sent between The Hague and Venice, he will write to postmaster in Antwerp and with Calandrini for the Cologne route. He has no further information on the eight ships being prepared in London, apart from the 20.000 ducats. A letter of exchange for 25.000 ducats for Calandrini should be paid by 20 May and reiterates the urgent need to settle payments to avoid reputational damage. Using information he received from Venice, he has reiterated the intentions of Ossuna in the Gulf. Reports he will continue to maintain friendly relationships with Carleton. Repeats that merchants are expressing financial strain and press for reimbursement of their cost in supplying arms to Levenstein. Attached is a plea from the merchants and potential to negotiate a settlement. One document attached: "Nomi de’ mercanti di credito in Amsterdam"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-03-27">27 marzo 1618</date>
+            <num>022, 023</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>27 marzo 1618, Amsterdam (cc. 69r-72v, 75r-76v)</p>-->
+<pb n="069r" facs="06_069r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 20 </p>
+<p>Serenissimo Principe </p>
+<p>con grandissimo dispiacer d’animo intendo nelle lettere della <lb/>
+Serenità vostra delli doi dello stante l’incertezza del recapito <lb/>
+delle mie lettere per lei, et non so da che ne venga la <lb/>
+tardità poiché mentre ispedisco talhora dalla parte <lb/>
+d’Anversa secondo la commodità dei messaggieri <lb/>
+ho havuto sempre avviso esser capitate le mie <lb/>
+lettere in tempo dell’ordinario, et credo bene che <lb/>
+li tempi, che sono stati assai fastidiosi questi dì <lb/>
+passati habbino causato questo incontro; come <lb/>
+appunto è successo col sudetto dispaccio dei doi, che <lb/>
+dovendomi arrivar il venerdì mi pervene solamente <lb/>
+il martedì seguente; et ancor non ho ricevuto <lb/>
+quelle, che devono<ptr target="#tn1" n="1"/> esser scritto a’ 9 et pur questi <lb/>
+mercanti hanno havute le lettere sue. Io già <lb/>
+ho scritto al Rolans mastro di poste in An-<lb/>
+versa perché habbi cura alla sicurezza dei <lb/>
+miei dispacci; et col signor Calandrini qui ho <lb/>
+messo ancor buon ordine per quelle lettere, che <lb/>
+gli potessi mandar da questa parte per ispedir <lb/>
+per la via di Colonia, come ha fatte
+<pb n="069v" facs="06_069v" rend="0"/>
+le precedenti. Ho ricevute le replicate de’ 23 febraro, et<ptr target="#tn2" n="2"/> la Serenità vostra <lb/>
+prima dell’arrivo delle presenti haverà inteso l’<lb/>
+essecutione data da me a’ suoi commandamenti et <lb/>
+quanto a quello, ch’ella mi scrive del solecitar <lb/>
+la partenza dei vasselli supplirà quanto si contiene <lb/>
+in questo proposito nelle prime. Et haverò principal <lb/>
+mira, che la marinarezza sia tutta pratica, et <lb/>
+propria per il servitio dell’armata, et in numero <lb/>
+che possi anco servire per<ptr target="#tn3" n="3"/> il rinforzo di essa. </p>
+<p>Dall’eccellentissimo signor ambasciator Contarini non mi fu ricercato altro <lb/>
+per l’avanzamento della preparatione delle otto <lb/>
+navi accordate in Londra, che la<ptr target="#tn4" n="4"/> summa delli <lb/>
+vintimilla ducati de’ quali saranno già pervenute <lb/>
+le lettere di cambio a vostra Serenità se altro mi ricercarà <lb/>
+non mancarò di somministrar tutto quello che per me si <lb/>
+potrà tanto in denari, quanto in lettere di credito <lb/>
+se ho presentito, che ’l signor Nichetti mercante in queste <lb/>
+città habbi qualche ordine di costì per pagar, o <lb/>
+dar credito in Londra ad esso<ptr target="#tn5" n="5"/> eccellentissimo<ptr target="#tn6" n="6"/> Contarini; ma
+<pb n="070r" facs="06_070r" rend="0"/>
+che non gli era espresso nelle lettere né che, né come <lb/>
+solo si avvisava così in generale riferendosi ad <lb/>
+altre lettere, che dice non haver ricevute. Avanti <lb/>
+che parter<ptr target="#tn7" n="7"/> per l’Haya, che sarà doppo l’ispeditione <lb/>
+di questo dispaccio m’abboccarò seco, et concerterò <lb/>
+quello sarà necessario in questo proposito. </p>
+<p>Fin la settimana passata havevo fatte lettere di <lb/>
+cambio di 25 milla ducati al Calandrini pagabili a’ <lb/>
+20 maggio prossimo; di quelle, che doverò far <lb/>
+per l’avenire non mancarò di seguitar l’ordine <lb/>
+che ella mi dà del farle a vista; ma questi mercanti <lb/>
+mal volontieri vi si accommodano, poiché havendone <lb/>
+accennato m’han detto, che non gli torna a conto, et <lb/>
+perché ancorché le lettere si faccino a vista in ogni <lb/>
+modo corrono sempre dodici, et quindeci giorni <lb/>
+prima, che di ricever il pagamento, come succede <lb/>
+anco di quelle a uso, che si scorre sempre qualche <lb/>
+giorno al pagarle<ptr target="#tn8" n="8"/>. Il Calandrini mi ha detto a <lb/>
+questo proposito, che sa bene, che questo succede <lb/>
+per la maniera del governo, et per la qualità de’ tempi
+<pb n="070v" facs="06_070v" rend="0"/>
+ancora; ma in ogni modo pregava col mezo mio vostra Serenità <lb/>
+di ordinar, che al tempo proprio le lettere fusser <lb/>
+pagate. Ho penetrato, che li corrispondenti di là <lb/>
+di questi Vanderput, Gaboii<ptr target="#tn9" n="9"/>, et Falconieri li hanno <lb/>
+scritto, che non si curino di fargli rimesse di là <lb/>
+a nome della Serenità vostra perché non vorrebbono haver <lb/>
+questi pensieri di attender a riscuoter. <lb/>
+Io haverei bene particolar gusto, che vostra Serenità trovasse <lb/>
+stradda propria, et sicura per farmi rimessa di <lb/>
+denaro perché avanzarebbe, come altre volte ho <lb/>
+riverentemente scritto, et servirebbe questo a sua <lb/>
+particolar riputatione. Qui aggiunta mando una <lb/>
+lista de’ mercanti, che hanno<ptr target="#tn10" n="10"/> corrispondenza <lb/>
+di trafico, et di cambio in quella piazza chi più <lb/>
+chi meno; ma tutto sta, che vostra Serenità trovi di là <lb/>
+la dita sufficiente<ptr target="#tn11" n="11"/>, et sicura, il che deve esser <lb/>
+conosciuto dalla prudenza della Serenità vostra. <lb/>
+In tanto si assicuri, che quel vantaggio, che saprò <lb/>
+trovar maggiore io lo procurerò; ma pochi sono <lb/>
+che vaglino ad intraprender una sì grande provisione
+<pb n="071r" facs="06_071r" rend="0"/>
+et tanto più si abbassa poi il cambio; quanto si scuopre <lb/>
+il bisogno, et la strettezza del denaro necessario per qua, <lb/>
+et per l’eccellentissimo signor ambasciator Contarini in Londra. </p>
+<p>Al medesimo signor Ambasciatore ho scritto altre volte quello andavo <lb/>
+operando con questa provisione de’ vasselli, hiersera <lb/>
+anco li ho scritto il segno a che mi attrovavo, <lb/>
+et havendo ispedite le lettere per la via di Anversa, <lb/>
+hoggi replicarò il medesimo per via di Midelburgh, et <lb/>
+se sarà possibile si concerterà il tempo dell’uscita <lb/>
+di quelle, et di queste navi perché si uniscano, se <lb/>
+non saranno essequiti da me li commandamenti della Serenità vostra <lb/>
+che l’una flotta pronta non aspetti l’altra. </p>
+<p>Avanti, ch’io partissi dell’Haya colla communicatione <lb/>
+che feci alli signori Stati Generali delli avvisi aggiunti <lb/>
+alle sue lettere de’ doi accompagnai ufficio conforme <lb/>
+al commandamento della Serenità vostra, et m’allargai in ogni <lb/>
+parte mostrando i mali termini, che usano Spagnoli <lb/>
+gl’artificii, che adoperano per inganare, et dar legge <lb/>
+al mondo, le pretensioni, che introducono a loro <lb/>
+vantaggio.<ptr target="#tn12" n="12"/> Colli capitoli delle lettere dell’eccellentissimo signor
+<pb n="071v" facs="06_071v" rend="0"/>
+ambasciatore Soranzo, et del signor residente Spinelli procurai nuovi <lb/>
+ordini ove occorreva, et sufficienti per impedir che <lb/>
+non capitino vasselli di questi paesi in mano del duca <lb/>
+di Ossuna; espresse l’artificio, che usano Spagnoli <lb/>
+di far passar, non potendo haverli a suo beneplacito <lb/>
+li vasselli di Malta contra corsari per valersi dei suoi <lb/>
+di Spagna contro la serenissima Republica, et come siano coperti <lb/>
+di mille insidie gl’ufficii fatti in Francia, et in Inghilterra <lb/>
+per unione contro detti pirati; il che tutto fu <lb/>
+inteso dall’assemblea con particolar attentione <lb/>
+et per potermi far il riflesso necessario sopra mi <lb/>
+fecero instanza, che gliene dassi li particolari <lb/>
+in nota, il che feci, et mi persuado che la detatura <lb/>
+della lettera scritta al duca di Ossuna habbi qualche <lb/>
+annessione coi concetti espressi chiari, et vivamente da <lb/>
+me. Tornato all’Haya non mancarò tra particolari <lb/>
+di andar seminando di quelle ragioni, che stimerò <lb/>
+proprie per tentare, che si applichi sempre più <lb/>
+l’animo agl’andamenti artificiosi dello Spagnolo. </p>
+<p>Aggradì il signor ambasciator d’Inghilterra grandemente la confidenza
+<pb n="072r" facs="06_072r" rend="0"/>
+che usai seco nel communicargli gl’avvisi, che tenevo <lb/>
+da vostra Serenità, et mi promise di far l’ufficio, che la Serenità vostra <lb/>
+desiderava di ringratiamento con la maestà del suo Re <lb/>
+dicendo che le confessava grande obligatione perché <lb/>
+si compiacesse di adoperar, et essercitar la devotione <lb/>
+che le professa; et come per il passato et per commandamento <lb/>
+del Re, et mosso dal suo naturale, et proprio obligo <lb/>
+verso quella serenissima Republica haveva fatto ogni ufficio <lb/>
+che haveva stimato proprio per servitio di lei; <lb/>
+tanto haverebbe anco fatto nell’avenire, et ch’io <lb/>
+l’adoperassi pure, et le accenassi la mente publica, <lb/>
+che non haverebbe mancato di dimostrarsele buon <lb/>
+servitore. A questa espressione d’affetto di questo <lb/>
+Ministro corrisposi in ogni buona maniera, et continuerò <lb/>
+seco la confidenza, ch’ella mi commanda. </p>
+<p>L’universale in questi paesi comprende chiaramente dalli <lb/>
+avvisi, ch’io communico, et da quelli, che vengono <lb/>
+da diverse parti, che Spagnoli cercano di tirar in <lb/>
+lungo le cose, et che anderanno tentando subterfugii <lb/>
+per cavar profitto dal tempo. Non tengono, che
+<pb n="072v" facs="06_072v" rend="0"/>
+habbi ad esser stabile la pace tra la serenissima casa d’Austria, <lb/>
+et vostra Serenità; non possono persuadersi con quante scritture <lb/>
+venghino dalla parte del Christianissimo, che sia il granduca di <lb/>
+Milano per ceder alla restitutione di Vercelli; ben <lb/>
+stimano di certo, che vostra Serenità habbi ad esser travagliata <lb/>
+in mare dallo Spagnolo, et che vogli far nido nel <lb/>
+golfo, et forse una sede permanente; et per <lb/>
+tanto questi signori dell’Amiralità mi dissero, ch’era <lb/>
+necessario che la Serenità vostra facesse da dovero in golfo <lb/>
+scacciasse l’armata spagnola, la facesse star fuori per <lb/>
+sempre, et che hora haveva la maniera propria <lb/>
+con sì bella flotta, et così ben armata. Concetti, che <lb/>
+sono anco all’Haya tra quelli del Governo, et nell’<lb/>
+universale del Paese. Et fa ognuno tanto capitale <lb/>
+della conservatione della giurisditione del golfo in <lb/>
+vostra Serenità; quanto della conservatione del proprio Stato <lb/>
+accorgendosi molto bene, che quel pregiudicio, che <lb/>
+ella venisse a ricevere, et lo dicono chiaramente, tutto <lb/>
+ridonderebbe a disavantaggio degl’interessi di <lb/>
+questa Republica. Il che mi dà anco occasione di far
+<pb n="075r" facs="06_075r" rend="0"/>
+apparer la ragione, che vi è di far riflesso, et devenir <lb/>
+a risolutioni generose per contraminare alla vastezza <lb/>
+de’ pensieri dei Spagnoli. </p>
+<p>Di don Gioan de la Gamba doppo l’ultima ispeditione <lb/>
+mia non ho inteso altro del seguir del suo negotio <lb/>
+a Brusseles per esser stato absente dall’Haya, et <lb/>
+perché non ho havute le mie lettere ordinarie di quello <lb/>
+intenderò, et di ciò, che haverò anco da Doncherchen <lb/>
+ove ha scritto il Calandrini ne darò riverente conto <lb/>
+alla Serenità vostra. </p>
+<p>Il signor principe Mauritio partì hieri otto per Harnem <lb/>
+per assister, come riverentemente scrissi a quel congresso, <lb/>
+et doverà esser presto di ritorno. S’intenderà <lb/>
+di sicuro quello, che porta la voce, che in quello <lb/>
+di Colonia, et nel paese de’ Valloni si facci di levata <lb/>
+de’ genti. Le lettere di Colonia appunto portano <lb/>
+questi avvisi; ma non dichiarano né per dove, né <lb/>
+per chi habbino a servire, starò avvertito, et <lb/>
+procurerò havere ogni più particolar informatione <lb/>
+affineché la Serenità vostra ne sia avvertita. </p>
+<pb n="075v" facs="06_075v" rend="0"/>
+<p>Il mercante che dà l’armi per questo reggimento d’infan-<lb/>
+teria destinato al suo servitio mi è venuto instantemente <lb/>
+a pregare di raccomandarlo alla<ptr target="#tn13" n="13"/> Serenità vostra per poter <lb/>
+haver il pagamento dell’armi, che ha dato al conte <lb/>
+di Levenstein vorrebbe, che la Serenità vostra le pagasse per <lb/>
+scontarle nelle paghe de’ soldati; mi<ptr target="#tn14" n="14"/> ha detto, che ’l suo <lb/>
+agente li scrisse haver trovato ottima dispositione in vostra Serenità <lb/>
+et nell’Eccellenze vostre; ma che bisognava trattar col Conte, et <lb/>
+non potendo da lui haver audienza servendosi<ptr target="#tn15" n="15"/> di varii <lb/>
+pretesti ricorrevano all’auttorità loro per esser suffragati <lb/>
+et sollevati dal danno, che pativano. Non ho saputo <lb/>
+negar all’instanza della raccommandatione; considerando <lb/>
+però ad esso mercante, et al suo compagno, che malamente <lb/>
+mi persuadevo, che vostra Serenità havesse esborsati 45 mila fiorini; <lb/>
+che pretendevano, dove l’armi non sarebbono costate <lb/>
+che intorno a trenta milla fiorini a proportione di <lb/>
+quelle che fornisce al presente. È vero mi hanno <lb/>
+risposto, che la<ptr target="#tn16" n="16"/> summa è alta; ma habbiamo condotto <lb/>
+tutto a nostro rischio, oltre il tenir il nostro denaro morto <lb/>
+et altro che tutto causa interesse nelle nostre<ptr target="#tn17" n="17"/> borse
+<pb n="076r" facs="06_076r" rend="0"/>
+queste considerationi devono esser approbate da vostra Serenità <lb/>
+se così si compiacerà; et credo, che si contentarebbono per <lb/>
+haver il suo rilasciarsi di qualche cosa della sua <lb/>
+pretensione; quando la Serenità vostra volesse, o si risolvesse <lb/>
+di far il pagamento di dette armi. Gratie etc. </p>
+<p>Da Amsterdam<ptr target="#tn18" n="18"/> a’ 27 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="076v" facs="06_076v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 20 comincia n° 19 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="076vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 marzo 1618 ricevute xi april </p>
+<p>Haia. n° 20. 2<hi rend="superscript">da</hi> </p>
+<p>Si duole del dubbio di ricapito alle <lb/>
+lettere: che non ha ricevuto precedente <lb/>
+de’ 9 et che né sono in mercordì. </p>
+<p>Ha scritto perché s’usi diligenza. </p>
+<p>Accusa ricevuta di replicate de’ 23 <lb/>
+che ha essequito gl’ordini et la <lb/>
+marinarezza sarà buona. </p>
+<p>Dal signor ambasciator Contarini non vi è ricercato <lb/>
+altro per rimessa di danaro se abocherà <lb/>
+con signor Nichetti mercante per concertar <lb/>
+sopra ciò quanto sarà necessario. </p>
+<p>Procurerà far le lettere di cambio <lb/>
+a vista; ma li mercanti se ne <lb/>
+dagliono<ptr target="#tn19" n="19"/>: perché non sono pagati <lb/>
+immediate fa ufficio che si paghino. </p>
+<p>Li mercanti di qua hanno scritto <lb/>
+che non si curino far rimesse <lb/>
+perché non vorriano pensieri di <lb/>
+riscuoter. </p>
+<p>Haveria caro si trovasse modo <lb/>
+di rimetterne di là. Manda <lb/>
+lista de’ mercanti che hanno traffico <lb/>
+raccorda che si trovi dita<ptr target="#tn20" n="20"/> sicura <lb/>
+procurerà ogni vantaggio. </p>
+<p>All’ambasciator Contarini ha avisato <lb/>
+quanto va operando: procurerà <lb/>
+l’Unione; se non essequirà <lb/>
+gl’ordini di inviar le flote una <lb/>
+dopo l’altra. </p>
+<p>L. SS. R. </p>
+<p n="076vD">———</p>
+<p>Avanti la sua partenza dall’<lb/>
+Aia fece ufficio con i signori Stati <lb/>
+per i correnti negozi d’Italia <lb/>
+tutto s’è sentito bene <lb/>
+non mancherà al ritorno <lb/>
+continuar. </p>
+<p>L’ambasciator d’Inghilterra ha aggradito <lb/>
+la communicatione d’avisi: ufficio <lb/>
+passato sopra ciò. </p>
+<p>Concetti che correno che <lb/>
+Spagnoli tirino in longo. Che <lb/>
+non sia durabile la pace <lb/>
+con casa d’Austria: che non <lb/>
+segua restitutione di Vercelli <lb/>
+et che s’habbi haver travaglio <lb/>
+in mare per il golfo. </p>
+<p>Che quei signori stimano doversi <lb/>
+far da dovero in scacciar <lb/>
+la spagnola di golfo: stimando <lb/>
+che ogni pregiudizio in ciò sia <lb/>
+interesse anco loro. </p>
+<p>Di don Gio. dalla Gamba non <lb/>
+intende altro. </p>
+<p>Principe Mauritio parte per Harnem. </p>
+<p>In Colonia si fa genti non <lb/>
+intende perderne, starà avertito. </p>
+<p>Instanza del mercante che dà <lb/>
+l’arme, de pagar quelli del <lb/>
+conte di Levenstein: ha promesso <lb/>
+di scriverne: crede che si <lb/>
+contenterebbero lasciar qualche <lb/>
+summa quando volesse la serenissima <lb/>
+Republica pagarli. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="023" corresp="022" source="73r-74v" >
+<div type="main" facs="main text of attachment I" n="023" corresp="022" >
+<!--<p>Allegato I al n. 22 (cc. 73r-74v)</p>-->
+<pb n="073r" facs="06_073r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Nomi dei mercanti in Amsterdam, che hanno <lb/>
+corrispondenza in Venetia, et sono di credito. Quelli dalle <lb/>
+doi croci sono i più potenti, li altri colla semplice croce <lb/>
+vagliono assai, et quelli senza han credito assai. </p>
+<p>+ + signori Calandrini, Letfeur, et Vandermulen </p>
+<p>+ + Vanderputen </p>
+<p>+ + Joanni de Vael </p>
+<p>+ + Giacomo Nicquetti </p>
+<p>+ Bartolameo Munter </p>
+<p>+ + Faconieri, et Gabri </p>
+<p>Gioanni van Ceulen </p>
+<p>+ + Iacomo Poppo </p>
+<p>+ Girolamo de Hrese</p>
+<p>+ Guielmo Bortolotti </p>
+<p>+ Henrico Tibout </p>
+<p>Federico<ptr target="#tn21" n="21"/> Smidt </p>
+<p>Francesco Pelgrim </p>
+<p>+ + Griberto<ptr target="#tn22" n="22"/> Zolinx </p>
+<p>+ + Abraham<ptr target="#tn23" n="23"/> de Marer </p>
+<p>+ + Edovardo van Zurch </p>
+<p>+ + Gio. Battista Bertoloti </p>
+<p>+ + Ian Stassart </p>
+<p>+ + Daniel Calpin Pietro, et Gio. Benoist </p>
+<p>+ + Nicolò Solier </p>
+<p>Andrea de Beyser </p>
+<p>Abraham de Ligne </p>
+<p>Paulo de Willem </p>
+<p>+ + Cornelio van Campen </p>
+<p>+ Hermano<ptr target="#tn24" n="24"/> Hesters </p>
+<pb n="073v" facs="06_073v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="074r" facs="06_074r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="074v" facs="06_074v" rend="270"/>
+<p>Nomi de’ mercanti di credito <lb/>
+in Amsterdam </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 20 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o-" corrected above "-e-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "già" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "rif" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "p-" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "sua", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line on "pagame(n)to" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "costì" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> . corrected above ,.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Second "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Da Amsterdam" is the result of a correction on "Dall’Haya."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Preceds the struck-through cross.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-ra-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

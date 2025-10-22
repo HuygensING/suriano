@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.013 date 1623-04-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 126r-v, 129r-131v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">126r-v, 129r-131v, 127r-128v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Dolbier spoke to Frederick V and Maurice about a letter from Mansfelt requesting intervention by Christian of Brunswick. Christian’s service for his brother, Frederick Ulrich, are ending, but it seems that he may stay longer as he is potential successor. Lower Saxon circle has decided to no longer allow troops to be raised for Mansfelt. Their current stance is seen as harmful. Duke of Saxony has not yet made a decision, whereas the Emperor has rejected his request to allow Lutherans more rights, including their own churches in Prague. Ideas for a truce with the Dutch Republic, including diplomatic mission by Bartholda van Swieten. She is also trying to free a Dominican friar who has been imprisoned. The VOC has obtained a 50-year extension. Reports that following numerous publications against administrators, requesting accountability. Maurice of Nassau has decided to review the financial records. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-10">10 aprile 1623</date>
+            <num>032, 033</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="032">
+<div type="main" facs="main text of letter" n="032">
+<!--<p>10 aprile 1623, L’Aia (cc. 126r-v, 129r-131v)</p>-->
+<pb n="126r" facs="12_126r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 488 comincia 487 </p>
+<p>Serenissimo Principe </p>
+<p>il Dulbier mercante ha parlato al Re, et particolarmente al signor principe <lb/>
+d’Oranges sopra certa lettera, che Mansfelt ha scritto all’Eccellenza sua <lb/>
+nella quale lo prega ad interporsi <hi rend="decoded">con</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">il giovane duca di Bransvich, affine <lb/>
+che si torni a congionger con lui se non <lb/>
+in corpo almeno in termine tale, che per <lb/>
+il servitio commune ogni uno operi di <lb/>
+concerto contra l’inimico; l’ufficio è stato <lb/>
+fatto dal signor Principe con lettere ma quello, che <lb/>
+sia per produrre è incerto per esser la <lb/>
+vivezza di quel giovane Principe guidata <lb/>
+da un consiglio di genti, le quali più tosto <lb/>
+secondano, che gli rapresentino o</hi><ptr target="#tn2" n="2"/> <hi rend="decoded"><lb/>
+l’honesto al particolare di lui, o il proffit-<lb/>
+tevole al publico servitio, può esser, che <lb/>
+la necessità lo farà far quello, che la <lb/>
+ragione ricercherebbe. <lb/>
+</hi></p>
+<p>Finiranno all’ultimo del presente, o principio del venturo li tre <lb/>
+mesi che ’l detto duca vescovo d’Alberstat si è impegnato, <lb/>
+et obligato al servitio del fratello. Si crede che la madre, <lb/>
+et il medesimo fratello tenteranno trattenerlo di vantaggio, <lb/>
+tenendosi per fermo, che artificiosamente vedendolo in necessità <lb/>
+sia stato alletato, et condotto a venir a nutrirsi in quello <lb/>
+Stato per poter haver campo sendo appresso di loro per-<lb/>
+suaderlo con vive ragioni a staccarsi da questa parte. <lb/>
+Questo punto è principale, che ’l fratello non ha figlioli <lb/>
+et che per consequente di esso Alberstat deve esser il ducato <lb/>
+di Bransvich, et se ben il corraggio, et l’aversione, che <lb/>
+ha mostrato contra casa d’Austria non fa persuader, che <lb/>
+sia per detornar pensiero: tuttavia talhora l’interesse <lb/>
+val più che altro oggetto, che l’huomo si propone, et <lb/>
+si accommodano l’attioni agl’accidenti. Già in Brusseles
+<pb n="126v" facs="12_126v" rend="0"/>
+si publica, ch’egli si<ptr target="#tn3" n="3"/> sia accommodato coll’Imperatore, o almeno lo <lb/>
+vorrebbono a fine di assicurarsi di quel Principe. Et parmi <lb/>
+intender che uno dei figlioli della casa di Lunemburgh, ch’è <lb/>
+della medesima di Bransvich sia per passar a Brusseles, et <lb/>
+che il fine miri a dar martello ad esso Principe; ma <lb/>
+divertendo egli, et non facendo caso delle coperte persuasioni <lb/>
+et concetti d’Austriaci, che cercano guadagnarlo haver <lb/>
+pretesto di dichiarirlo decaduto dal Governo, et investirne <lb/>
+detto di Lunemburgh. Se haverà fondamento il pensiero non <lb/>
+può durar lungo tempo a cavarsene il netto. </p>
+<p>Del re di Danimarca si sa, che da Holsteim sia passato a <lb/>
+Copen Haghem sua residenza senza sapersi, che persuasioni <lb/>
+habbi lasciate in quei principi, et città della Bassa Sassonia <lb/>
+non essendosi ancor certi, che si siano separati; intanto ven-<lb/>
+gono interdette non solo le levate al conte di Mansfelt da <lb/>
+alcuni di quel circolo; ma anco con publico proclama <lb/>
+il passo resta precluso a genti, che d’altrove possono <lb/>
+venir a fila, quelle però, che passano per l’armata <lb/>
+et nei quartieri, ove sono alloggiate le truppe di <lb/>
+Bransvich non incontrano tante difficoltà. </p>
+<p>Del duca di Sassonia ancor le cose stanno per li avvisi, che qui <lb/>
+si hanno nei primi<ptr target="#tn4" n="4"/> termini irresoluti, non sapendosi ove tornerà <lb/>
+il capo; non ostante che si sappi havergli l’Imperator risposto <lb/>
+assai chiaramente ad una lettera con che con gratiosa instanza <lb/>
+procurava, che l’Imperator si risolvesse a dar sodisfattione <lb/>
+a quelli della religione luterana, con far che particolarmente si <lb/>
+aprissero le chiese luterane in Praga; dicendo sua Maestà cesarea <lb/>
+a questo punto, che né per conscienza, né per ragion di <lb/>
+stato poteva intender a questa instanza, et che lo pregava <lb/>
+che più non li scrivesse di simil materia, et che sapeva nel <lb/>
+resto come doveva governarsi in quel regno di Bohemia
+<pb n="129r" facs="12_129r" rend="0"/>
+suo bene hereditario. Vostra Serenità haverà dal proprio luoco più <lb/>
+certi particolari di questo negotio. </p>
+<p>Sta per tanto ancor in sospeso il detto Principe, et con lui Bran-<lb/>
+demburgh; l’ambasciata del quale espressa a Mansfelt non <lb/>
+è stata per altro, che per raccommandargli il suo Paese, quando <lb/>
+dovesse passar per esso. </p>
+<p>Questa neutralità di detti principi et principalmente di quelli della <lb/>
+Bassa Sassonia è considerata più di danno al publico servi-<lb/>
+tio, che altrimenti et a questo proposito viene portato l’esempio <lb/>
+<hi rend="decoded">della</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">lega di Ulma, che in quella Dieta <lb/>
+si trattò più della</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">diffesa, che della <lb/>
+offesa, et di star neutrali: onde se ne <lb/>
+videro poi effetti dannosissimi, et che <lb/>
+questo doverebbe anco far aprir gli occhi <lb/>
+a quelli del detto circolo basso sassonico, et <lb/>
+ad altri. <lb/>
+</hi></p>
+<p><hi rend="decoded">Di trattatione di tregua de’ Spagnoli con questi <lb/>
+paesi si continua pur a dire che il baron <lb/>
+di Pieterson signor di Meroda si trovi ancor <lb/>
+a Bruselles con qualche negotio in questo <lb/>
+proposito: ma uno che ha scritto qui ad amico <lb/>
+mio, et è parente del medesimo signore mostra nelle <lb/>
+lettere non parergli apparenza, che questo <lb/>
+negotio habbi fondamento, o sussistenza, et <lb/>
+che il più sia nelle voci popolari, et nel <lb/>
+desiderio, che segue, desiderando per natura <lb/>
+il popolo la quiete, et esser sollevato dalli <lb/>
+aggravii della guerra, tuttavia aggionge, <lb/>
+che sendosi dato prima ordine di riempir <lb/>
+le compagnie, che sono al servitio de’ <lb/>
+Spagnoli. Questo sia poi stato rivocato, et <lb/>
+diferito fino al principio del mese ven-<lb/>
+turo; argomento,</hi>
+<pb n="129v" facs="12_129v" rend="0"/>
+<hi rend="decoded">che vi possi esser qualche <lb/>
+speranza; ma non l’afferma. <lb/>
+</hi></p>
+<p><hi rend="decoded">Intanto, che la dama Serclas della <lb/>
+quale scrissi riverentemente sarano doi anni <lb/>
+presto, et continuai di tempo in tempo, <lb/>
+che si maneggiava in questo negotio è ritor-<lb/>
+nata qui venerdì passato, et io ho inteso, <lb/>
+che voleva haver audienza dal signor principe, <lb/>
+Mauritio, che fino hieri non l’havea ad-<lb/>
+messa, ma si crede, et mi vien affer-<lb/>
+mato, che non porti, che delle medesime <lb/>
+propositioni in conformità di quanto ho significato col penultimo dispaccio esser-<lb/>
+mi stato conferito dal signor principe d’Oranges, <lb/>
+che tiene, et li suoi più confidenti sono <lb/>
+del medesimo senso, che la mira de’ Spagnoli <lb/>
+tendi al portar il tempo inanzi,</hi><ptr target="#tn7" n="7"/> <hi rend="decoded"><lb/>
+o veder, se sia possibile ridur questi signori <lb/>
+in trattatione, mentre si trovano essi Spagnoli <lb/>
+senza danari, et sono avisati, che <lb/>
+queste Provincie sono in mancamento et <lb/>
+simil promulgationi di tregua, conducono, <lb/>
+come bene si comprende qualcheduna <lb/>
+delle Provincie a non render così pronti <lb/>
+li esborsi, et le impositioni, che si <lb/>
+cercano tirar dalle città, ma quello, <lb/>
+che potrà dar vigore a quelli, che <lb/>
+sostentano il non doversi dar d’orecchio <lb/>
+alle propositioni de’ Spagnoli sarà la pron-<lb/>
+tezza all’effettto dell’esborso del danaro, <lb/>
+che la Francia ha dato intentione, <lb/>
+che sia per farsi per la metà di questo mese, <lb/>
+il che si aspetta con gran desiderio. <lb/>
+</hi></p>
+<p><hi rend="decoded">La sudetta dama si</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">cuopre col <lb/>
+pretesto di haver ordine</hi> di raccommandar a sua Eccellenza la persona di quel padre
+<pb n="130r" facs="12_130r" rend="0"/>
+dominicano, che la passata avvisai colla mia solita riverenza <lb/>
+trovarsi in queste carceri per haver parlato con il signor baron <lb/>
+di Kessel governator di Husdem, che perfetionasse il trattato a nome <lb/>
+suo con l’Infanta per darle nelle mani la detta piazza. Quello <lb/>
+che ha trattato si trova prigione in Brusseles fatto carcerar <lb/>
+da sua Altezza doppo l’avviso della ritentione del padre <lb/>
+è un naturale della casa di Horn, che altre volte ha <lb/>
+servito per gentilhuomo sotto la compagnia del medesimo signor <lb/>
+baron di Kessel, che ne fu cacciato per suoi mali portamenti <lb/>
+et questo poi ha trattato a Brusseles mostrando lettere <lb/>
+di esso Barone (dicono finte) perché sendo ricercato doppo <lb/>
+la sua prigionia ove erano<ptr target="#tn9" n="9"/> ha detto haverle abbruccia-<lb/>
+te, che fa argomentar anco ai medesimi Spagnoli che detto di <lb/>
+Horn habbi falsamente trattato, tuttavia viene riferto, <lb/>
+che dica, che morirà sopra questo di esser stato mandato <lb/>
+instrutto dal medesimo di Kessel. Si era cominciato a dar <lb/>
+ordine per far il processo al detto padre, ma sendo <lb/>
+stato fatto ufficio perché si soprasedi, et particolarmente con sua Eccellenza <lb/>
+ella ha mandato ai giudici, che portino un poco il tempo <lb/>
+innanti. Può esser che il colpo caderà sopra li doi<ptr target="#tn10" n="10"/> il <lb/>
+figliolo minore<ptr target="#tn11" n="11"/> del già Bernvelt, et il cugino suo, che si <lb/>
+trovano ancor a Goch, per haver l’Infanta questo padre <lb/>
+che si pretende inocentemente condotto in questo negotio ad instanza <lb/>
+della<ptr target="#tn12" n="12"/> medesima Altezza; et un iesuita, che qualche mese <lb/>
+fa si trova prigione a Tergau. Non vi è certezza; ma ho saputo, che qui si passerà con gran moderatione. </p>
+<p>Si è data la mostra a quelle navi, che devono uscir in <lb/>
+mare a tentar fortuna sia dove si voglia, che la <lb/>
+possino trovare a pregiudicio del re di Spagna. <lb/>
+Può esser, che queste haveranno scorta, o saranno <lb/>
+seguitate da qualche mercantili. La pena in che si sono
+<pb n="130v" facs="12_130v" rend="0"/>
+trovati li signori Stati fu di haver tanto denaro pronto per dar <lb/>
+le paghe alli marinari, et ai soldati, et col primo vento <lb/>
+uscirano dal porto di Gure per pigliar il camino dise-<lb/>
+gnato. Sono 13 al presente le navi comprese quattro con <lb/>
+viveri, et amunitioni; et tutte ben armate. </p>
+<p>Quelli della Compagnia dell’Indie Orientali hanno ottenuto nuova <lb/>
+proroga di cinquant’anni per la continuatione di quel viaggio <lb/>
+a che alcuni dei compartecipi fatto un gran ammasso insieme <lb/>
+tentorono opporsi volendo che prima precedesse il conto <lb/>
+dell’aministratione delli 24<ptr target="#tn13" n="13"/> anni passati. Sono restati <lb/>
+fermi, et saldi hanno scritte et stampate lettere, et libretti <lb/>
+con mille attacchi contra li aministratori della Compagnia <lb/>
+li quali sopportati dalla generalità del Governo, et da sua <lb/>
+Eccellenza finalmente si è concluso di procurar qualche sodisfattione <lb/>
+agl’interessati compartecipi, ch’è stata, che si farà render <lb/>
+il conto a suo tempo, et si darà li libri in mano ad alcuni <lb/>
+deputati sino a certo numero prefisso perché si possi da <lb/>
+essi medesimi veder come si sia esborsato, et speso il denaro <lb/>
+di questa risolutione essi compartecipi si contentano in <lb/>
+parte, sendosi stabilito, che quelli, che di essi saranno <lb/>
+deputati habbino ad haver il voto consultivo; ma si <lb/>
+contende hora da essi di haver anco il resolutivo, et si tiene per fermo, che lo spunteranno. </p>
+<p>Dalla perfettione, o accommodamento di questo affare dipende <lb/>
+l’effetto del viaggio dell’Indie Occidentali per il quale <lb/>
+mi è detto, che si vada mettendo ordine per cominciarlo <lb/>
+et che già vadino riscuotendo del denaro sottoscritto da <lb/>
+quelli, che vi vogliono partecipare; ma si crede, che la <lb/>
+fatica nel far un ammasso proprio per la prima volta <lb/>
+sarà altrettanto difficile quanto il poco non può giovare, <lb/>
+et il molto non si saprebbe così tosto travare<ptr target="#tn14" n="14"/>. Gratie etc. </p>
+<p>Dall’Haya li 10 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="131r" facs="12_131r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="131v" facs="12_131v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 488 comincia 487 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="032">
+<!--
+<p n="131vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 aprile 623<ptr target="#tn15" n="15"/>. Ricevuta 20 detto </p>
+<p>Haya. 2<hi rend="superscript">da</hi>. n° 488 </p>
+<p>Istanza di Masfelt a Mauritio per la <lb/>
+riunione a lui del giovine duca di <lb/>
+Bransvich; ufficio fattone con lettera; <lb/>
+incertezza dell’esito. </p>
+<p>Discorso dell’inclinatione di esso duca, <lb/>
+e<ptr target="#tn16" n="16"/> de’ pensieri della madre, e fratello <lb/>
+di lui. </p>
+<p>Voce, che si sia accommodato con l’Imperatore, <lb/>
+et altri avvisi circa Lunemburgh, <lb/>
+il re di Danimarca, et l’<lb/>
+elettor di Sassonia, e quello <lb/>
+di Brandemburgh. </p>
+<p>Circa le tregue corrono voci tuttavia che <lb/>
+in Brusseles vi sia negotio; ma sono <lb/>
+senza susistenza, e popolari: si <lb/>
+scrive però, che fosse rivocato l’<lb/>
+ordine del riempimento delle compagnie <lb/>
+de’ Spagnoli, e diferito sino al principio <lb/>
+del mese venturo: non tuttavia se ne <lb/>
+afferma l’avviso. </p>
+<p>La dama Serclas è ritornata: <lb/>
+ma s’intende, che porti solo delle <lb/>
+solite propositioni: poiché tende <lb/>
+la mira de’ Spagnoli al portar il tempo <lb/>
+innansi, o veder, se sia possibile <lb/>
+ridur quei Signori in trattatione, mentre si <lb/>
+trovano essi Spagnoli senza denari, et sono <lb/>
+avvisati, che le<ptr target="#tn17" n="17"/> Provincie ne sono in <lb/>
+mancamento, dalle quali promulgationi deri-<lb/>
+va lentezza in alcune delle Provincie negli <lb/>
+esborsi, et impositioni loro. </p>
+<p>Ma darà vigore la prontezza dell’<lb/>
+esborso che seguisse del denaro pro-<lb/>
+messo in Francia per la metà di questo mese. </p>
+<p>Circa il frate Domenicano prigione. </p>
+<p>L. C. R. </p>
+<p n="131vD">———</p>
+<p>13 navi stavano colla vela <lb/>
+per uscir a danno de’ Spagnoli. </p>
+<p>Quei della Compagnia dell’Indie Orien-<lb/>
+tali han ottenuta nuova proroga <lb/>
+di 50 anni. </p>
+<p>Dipendenza da questo negotio <lb/>
+del viaggio delle occidentali. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="033" corresp="032" source="127r-128v" >
+<div type="main" facs="main text of attachment I" n="033" corresp="032" >
+<!--<p>Allegato I al n. 32 (cc. 127r-128v; decodifica di cc. 126r, 129r-v)</p>-->
+<pb n="127r" facs="12_127r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="127v" facs="12_127v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="128r" facs="12_128r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="128v" facs="12_128v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "con … ricercherebbe" decoding of the encrypted text can be found on c. 127r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "l’oggetto" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "della … ordine" decoding of the encrypted text can be found on cc. 127r-128r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "parte" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "overo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "cuopre" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "disse" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "fi-" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line on "maggiore" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "Infanta" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes the crossed-out text.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line on "q(ueg)li" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

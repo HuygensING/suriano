@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.034 date 1619-08-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">034</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 187r-188v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">187r-188v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Last week the five points of reformed religion has been printed in Latin, he will send a copy to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-08-18">18 agosto 1619</date>
+            <num>064</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="064">
+<div type="main" facs="main text of letter" n="064">
+<!--<p>18 agosto 1619, L’Aia (cc. 187r-188v)</p>-->
+<pb n="187r" facs="08_187r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>non è uscito dalle stampe in latino se non la passata settimana le decisioni <lb/>
+sopra li cinque punti controversi nel fatto della religione riformata <lb/>
+in questi paesi sudditi a’ signori Stati. Ho stimato che forse po-<lb/>
+trebbe riuscir caro alla Serenità vostra, et alle Serenità vostre eccellentissime l’haverne <lb/>
+una copia l’invio aggiunta alle presenti con l’occasione del <lb/>
+ritorno costì del signor capitano, et luocotenente colonello<ptr target="#tn1" n="1"/> <lb/>
+Beauprau. Gratie etc. </p>
+<p>Dall’Haya a’ 18 agosto 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="187v" facs="08_187v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="188r" facs="08_188r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="188v" facs="08_188v" rend="0"/>
+<p>Al serenissimo principe di <lb/>
+Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="064">
+<!--
+<p n="188vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 agosto 1619 ricevute a’ 9 settembre </p>
+<p>Haya </p>
+<p>Manda certa stampa. </p>
+<p>L. C. X. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue Beauprau depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

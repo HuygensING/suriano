@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.048 date 1619-10-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">048</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 244r-v, 247r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">244r-v, 247r-v, 245r-246v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A brief letter in cipher on the negotiations about an alliance with Venice. Describes a meeting with seven deputies, where they questioned Suriano’s authority and whether he had any proposals to offer, as they believed it was appropriate for both parties to present proposals. Suriano assured them that the Venetian Republic would welcome their proposals, which they have confirmed later in the week to undertake. Concludes the letter that he will proceed cautiously, as instructed, and notes that the Gulf will be a crucial point of discussion. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-10-16">16 ottobre 1619</date>
+            <num>084, 085</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="084">
+<div type="main" facs="main text of letter" n="084">
+<!--<p>16 ottobre 1619, L’Aia (cc. 244r-v, 247r-v)</p>-->
+<pb n="244r" facs="08_244r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 140 fin 141 </p>
+<p><hi rend="decoded">Serenissimo</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">Principe <lb/>
+</hi></p>
+<p><hi rend="decoded">con le mie lettere prime de’ 9 della passata settimana, <lb/>
+che mando qui repplicate colle 2<hi rend="superscript">de</hi>, haverà <lb/>
+la Serenità vostra inteso quello, che toccante il trattato <lb/>
+di unione, mi era stato fatto sapere dalli signori <lb/>
+Stati, in conformità di che, sabbato doppo desinato, <lb/>
+sette deputati da sue Eccellenze per communicar meco, <lb/>
+mi fecero sapere che mi haverebbero atteso <lb/>
+nel luoco dell’assemblea, ove andai: il <lb/>
+deputato di Gheldria portando</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">per tutti la <lb/>
+parola, fece ufficio molto pieno, per confirmar <lb/>
+l’ottima volontà dei signori Stati all’unione, <lb/>
+et si diffuse assai, aggiongendo anco la <lb/>
+certezza, che si haveva della buona mente <lb/>
+di vostra Serenità, et andorono tentando di sapere <lb/>
+l’espressa commissione, che tenevo, et se io, come <lb/>
+essi haverebbono messo in scritto, haverei <lb/>
+fatto l’istesso, et proposta alcuna cosa. <lb/>
+</hi></p>
+<p><hi rend="decoded">Io corrispondendo al complimento dissi che <lb/>
+haverei sentiti quei capitoli che a sue Signorie <lb/>
+fosse parso di proporre per considerar unitamente <lb/>
+con loro quel, che mi potesse esser di difficoltà <lb/>
+et come da me haverei potuto dir il mio senso <lb/>
+ma tutto rimesso al beneplacito della serenissima <lb/>
+Republica: restorono detti signori Stati di sé</hi>
+<pb n="244v" facs="08_244v" rend="0"/>
+<hi rend="decoded">havendo <lb/>
+per quanto ho penetrato sempre creduto, che io <lb/>
+dovessi propor alcuna cosa, et mi fu replicato <lb/>
+che la materia di che si trattava, pareva che <lb/>
+ricercasse che dall’uno, et dall’altro di propones-<lb/>
+se: aggiungendomisi: parerebbe a noi far torto <lb/>
+alla serenissima Republica, che ella non havesse questo <lb/>
+honore di proporre per molti rispetti, et perché <lb/>
+potrebbe esser, che si proponesse qualche cosa <lb/>
+o pregiudiciale, o che non gustasse a sua Serenità. <lb/>
+Io risposi che non si mettessero questo scropulo <lb/>
+mentre io non me lo mettevo, et che ero sicuro <lb/>
+che vostra Serenità haverebbe preso in bene ciò che <lb/>
+proponessero, et mi promettevo che essi havereb-<lb/>
+bono fatte propositioni degne della loro sin-<lb/>
+cerità, et non pregiudiciali: a questo mi fu <lb/>
+repplicato, che se ne haverebbono guardato; <lb/>
+infine conclusero, che da’ signori Stati non <lb/>
+havevano havuta commissione, che di quello <lb/>
+mi havevano espresso; che haverebbono <lb/>
+rifferto, dicendo che credevano che da’ signori <lb/>
+Stati non sarebbe stata posta difficoltà, <lb/>
+ma che non potevano affermarlo, et che <lb/>
+mi haverebbono poi fatto saper ciò, che si <lb/>
+fosse deliberato: lunedì poi venero <lb/>
+a me doi deputati,</hi>
+<pb n="247r" facs="08_247r" rend="0"/>
+<hi rend="decoded">et mi dissero, che si era <lb/>
+rifferto, et che li signori Stati si erano contentati <lb/>
+di proporre, et essi deputati mostrorono desiderar <lb/>
+di sapere per nome di sue Eccellenze, se io in quello, che <lb/>
+havessi stimato difficoltà, haverei detto quello, <lb/>
+che sentivo: io risposi che sì, ma</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">che tutto</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">have-<lb/>
+rei sempre rimesso al beneplacito di vostra Serenità, et <lb/>
+essi soggionsero, che di tanto erano contenti, che <lb/>
+haverebbono rifferto, et s’haverebbe presto <lb/>
+cominciato a metter in opera le buone volontà. <lb/>
+</hi></p>
+<p><hi rend="decoded">Fino qui è riddotto il negotio, nella trattatione del <lb/>
+quale, non mancarò di caminar con quella <lb/>
+circonspettione, che so esser mente di vostra Serenità; <lb/>
+in tanto la posso avisare, potermi prometter <lb/>
+che del negotio del golfo si parlerà, che <lb/>
+è punto assai essentiale. Gratie etc.</hi></p>
+<p>Dall’Haya li 16<ptr target="#tn5" n="5"/> ottobre<ptr target="#tn6" n="6"/> 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="247v" facs="08_247v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n° 140 fin 141 </p>
+<p><metamark facs="Traces of seals"/></p>
+<p>16 ottobre 1619 ricevute 30 detto </p>
+<p>Haia. n° 140 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="085" corresp="084" source="245r-246v" >
+<div type="main" facs="main text of attachment I" n="085" corresp="084" >
+<!--<p>Allegato I al n. 84 (cc. 245r-246v; decodifica di cc. 244r-v, 247r)</p>-->
+<pb n="245r" facs="08_245r" rend="0"/>
+<head>main text of attachment I</head>
+<p>140 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="245v" facs="08_245v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="246r" facs="08_246r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="246v" facs="08_246v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Ser(enissi)mo … Gratie etc. decodifica di testo cifrato presente a c. 245r-246vv."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Precede ap- depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Esito di correzione."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-6 esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "o- esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

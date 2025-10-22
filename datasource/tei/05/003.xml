@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.003 date 1617-09-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">nato, Dispacci, Signori Stati, Filza 5, fol 11r-16v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">11r-16v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the levies by Levenstein in Amsterdam, leaving tomorrow to travel to Delfzijl. Acknowledges receipt of letter from Venice dated 21 August with news about actions in Friuli. Visited Maurice two hours ago for further updates from his John Ernst of Nassau in Italy: Maurice tells Suriano that it would reflect poorly on his nephew if he would return from the battlefield. Speculation about his intentions based on various letters going back and forth. Speculation that a further 6000 soldiers and 1500 calvary are recruted in Holy Roman Empire. He returns to report that Spanish ships have been attacked by corsairs. As he will leave for Delfzijl soon, Pietro Falgher, will serve the Venetian interest in The Hague during his abscence. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-09-09">9 settembre 1617</date>
+            <num>004</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="004">
+<div type="main" facs="main text of letter" n="004">
+<!--<p>9 settembre 1617, L’Aia (cc. 11r-16v)</p>-->
+<pb n="011r" facs="05_011r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>fu in questo luoco la mattina seguente al giorno dell’ispeditione <lb/>
+dell’ultimo mio dispaccio il signor conte di Levenstein, et tanto in <lb/>
+tempo, che si puotè ricercar l’audienza da questi signori, et si <lb/>
+licentiò per partire; et io ancora presi occasione di far <lb/>
+lo stesso ufficio perché sapessero la causa della mia absenza <lb/>
+di qui. Usorono molte parole cortesi verso il signor Conte, <lb/>
+et a me in particolare pregorono da Dio il buon viaggio, felice <lb/>
+et presto ritorno: perché potessi esser qui alla continuatione <lb/>
+della mia residenza presso di loro in servitio della Serenità vostra. </p>
+<p>Non vi era ancor ferma certezza, che ’l capitano Quest fosse uscito <lb/>
+dal Tessel in mare con li vasselli da guerra; onde <lb/>
+fece instanza il signor Conte et io la coadiuvai, che gli <lb/>
+fosse scritto di accompagnarsi colla sua flotta. Doppo <lb/>
+qualche consideratione, che ’l Quest non poteva ritardar il <lb/>
+viaggio per replicati ordini havuti diedero lettere con ordine, <lb/>
+che non mancasse di assister in tutto quello, che potesse <lb/>
+al signor Conte; ma ho saputo che è uscito già otto giorni <lb/>
+in circa; di maniera che resta persa l’occasione; ma è <lb/>
+vero, che dovendo star intorno al distretto verso la <lb/>
+costa di Barbaria per difender le navi di questi paesi
+<pb n="011v" facs="05_011v" rend="0"/>
+dall’invasione de’ corsari potranno quelle del signor Conte riceverne <lb/>
+servitio. </p>
+<p>Partì esso Conte giovedì di ritorno in Amsterdam doppo haver <lb/>
+io trattato lui, il fratello, il conte d’Ortemburgh, et qualche <lb/>
+altri de’ suoi gentilhuomini come ho stimato meglio in <lb/>
+questa casa, havendomi pregato di trattenermi qui <lb/>
+fino ad hoggi, poiché haveva ancor a sbrigar <lb/>
+certe picciole facende, et che per dimani sera bastava <lb/>
+che si trovassimo insieme per far il viaggio verso Delfsil <lb/>
+così partirò dimani mattina doppo havuta la messa <lb/>
+con l’aiuto di Dio, et soleciterò quanto più mi sarà <lb/>
+possibile l’ispeditione dell’imbarco delle genti, et dell’<lb/>
+uscita de’ vasselli con esse, per ritornarmene quanto <lb/>
+più presto alla continuatione di questa mia carica. </p>
+<p>Hieri alla notte ricevei le lettere della Serenità vostra de’ 25 del passato <lb/>
+con quello che ha inteso dell’attioni del duca d’Ussa<ptr target="#tn1" n="1"/> <lb/>
+con il seguito nel campo di vostra Serenità in Friuli, et quanto <lb/>
+mi manda toccante la persona del conte Gio. Ernesto <lb/>
+per mia informatione. </p>
+<p>Già doi hore fa sono stato a prender licenza dal signor principe </p>
+<pb n="012r" facs="05_012r" rend="0"/>
+<p>Mauritio, il quale mi addimandò se havevo qualche cosa <lb/>
+d’Italia. Io dissi quanto tenevo con lettere di Milano <lb/>
+intorno gl’affari di Savoia, et del successo il campo in Friuli <lb/>
+gliene diedi anco parte vedendo la curiosità; accenandogli <lb/>
+anco (venuto a proposito), che pareva, che ’l signor conte Gio. Ernesto <lb/>
+havesse pensiero di trattenersi a quel servitio, rispose che <lb/>
+faceva bene, et che bisognava, che havesse havute le <lb/>
+sue lettere, io risposi che tenevo per fermo di sì; et <lb/>
+egli mi replicò, se ha intese bene le prime, meglio ancora <lb/>
+haverà intese le sussequenti, perché gli ho replicato <lb/>
+con quel termine che si deve, che bisognava si fermasse, <lb/>
+si comportasse bene, et facesse il suo debito, et glielo ho <lb/>
+detto schietamente; et io dico alla Serenità vostra, che ho <lb/>
+saputo, che sua Eccellentia uno di questi giorni essendo a <lb/>
+tavola con la signora principessa d’Oranges, tenendosi <lb/>
+proposito del Conte disse. Mio cugino non doverebbe <lb/>
+ritornare, et farà male se lo fa; et io se fossi <lb/>
+quivi vorrei più tosto raschiar centomilla volte <lb/>
+la terra con l’ungia, che partir di là, essendo massime <lb/>
+sotto ad una terra assediata. So che ha proferiti
+<pb n="012v" facs="05_012v" rend="0"/>
+de’ simili concetti anco in altri congressi. Io mi prometto, che <lb/>
+le sussequenti doi mani di lettere alle prime del primo <lb/>
+agosto di sua Eccellentia haveranno fatto frutto, et credo <lb/>
+che la riputatione, che ’l conte Gio. Ernesto vuol sostentare <lb/>
+gli ha fatto dire, che li signori Stati vogliono, che resti a <lb/>
+quel servitio: perché da questi sono certo, che non ha havuta <lb/>
+parola ben può esser, che sua Eccellentia li habbi scritto tanto seriosa-<lb/>
+mente, et fattogli apparir anco il poco gusto, che <lb/>
+haverebbe dato al generale, con il suo ritorno, habbi <lb/>
+stabilito in sé stesso di restare. Ho saputo, che ’l <lb/>
+Dimer ha scritto qui al padre, che ’l Conte era andato <lb/>
+in gran escandescenza leggendo la lettera della signora <lb/>
+principessa d’Oranges: perché in essa gli scrisse tutto <lb/>
+quello, che li venne detato dalla buona volontà <lb/>
+che mi dimostra verso il servitio della Serenità vostra accenandogli <lb/>
+varii mancamenti et proprii, et de’ suoi soldati. <lb/>
+Come si sia duolmi infinitamente di sentir una così <lb/>
+mala riuscita, et che si habbi diportato così in-<lb/>
+discretamente come in altre lettere, et nell’ultime dell’<lb/>
+eccellentissimo signor General dell’armi veggo espresso; ma
+<pb n="013r" facs="05_013r" rend="0"/>
+forse si modererà, et cambierà natura col consiglio, o <lb/>
+più tosto commando di sua Eccellentia la quale mi ha detto <lb/>
+di voler continuar a tenerlo solecitato a far bene <lb/>
+il servitio; et io l’ho ringratiata. </p>
+<p>Il numero dell’infanteria, che si leva in Alemagna, come <lb/>
+ho con doi mani di mie lettere riverentemente scritto è di <lb/>
+sei milla<ptr target="#tn2" n="2"/> pedoni, et mille cinquecento cavalli <lb/>
+et mi riscrive il baron di Kessel haver inteso, che <lb/>
+oltre questi cavalli se ne levino anco altrettanti, et tutto <lb/>
+questo corpo di militia sarà per il re di Bohemia <lb/>
+et che lo ha di buona mano; io però me ne volsi infor-<lb/>
+mare dal signor principe Mauritio, et ho inteso, che sono <lb/>
+settemilla fanti, et doimilla cavalli, et che tutti hanno <lb/>
+la piazza d’arme nell’Halzatia, et nei contorni di <lb/>
+Strasbourgh, di dove anco il medesimo arciduca Leopoldo <lb/>
+fa far levata, che si crede esser compresa in questo <lb/>
+numero. Mi disse sua Eccellentia che tutti parlavano diver-<lb/>
+samente di questa levata, chi per far forte il serenissimo <lb/>
+Ferdinando per l’elettione in re de’ Romani, altri <lb/>
+contra la Republica, alcuni per questi paesi, o per quelli
+<pb n="013v" facs="05_013v" rend="0"/>
+di Giuliers; et per me aggiunse non so indovinarla perché <lb/>
+per il solo Giuliers non è apparenza, il tempo poi è tanto <lb/>
+innanti, che non è possibile far un così gran sforzo <lb/>
+d’armi con celerità avanti la vernata, la quale <lb/>
+sopravenendo non serve per la guerra in questi paesi. <lb/>
+Et<ptr target="#tn3" n="3"/> di qua, et di là da’ monti vi sarà l’impedimento <lb/>
+delle nevi: bisogna star a vedere. Lo Spagnuolo è accorto <lb/>
+egli è il solo principe in Europa, che ardisce d’intra <lb/>
+prender qualche cosa, et sopra gl’altri; né vi è chi <lb/>
+gli basti l’animo d’intraprender sopra di lui; et <lb/>
+sorridendo disse sono li principi tanti poveri citelli <lb/>
+che non sano manco dormir colla sposa. Horsù staremo <lb/>
+a veder quello ne succederà: et entrò in altro discorso <lb/>
+intorno al mio viaggio augurandomelo felice, et mi <lb/>
+licentiai. </p>
+<p>Facilmente si presta credenza a quello si vorrebbe, che fosse <lb/>
+onde non fu gran cosa, che restasse impresso ognuno <lb/>
+che fosse vera la tanta rotta, che la passata settimana <lb/>
+si sparse haver ricevuta lo Spagnuolo in effetto <lb/>
+non vi è stato tanto; ma ben è successo qualche cosa
+<pb n="014r" facs="05_014r" rend="0"/>
+li vasselli non furono, che sette over otto. L’affondo et abbruciamento<ptr target="#tn4" n="4"/> è stato <lb/>
+di doi con soldatesca spagnuola in numero di 400 soldati<ptr target="#tn5" n="5"/> et uno de’ corsari. <lb/>
+Li altri vasselli han presa la fuga alla meglio, che <lb/>
+hanno potuto il numero era in tutto di doi milla fanti. <lb/>
+Anco di questo poco si gode, se bene alcuni di questi <lb/>
+signori temono, che il Turco si servi della medesima <lb/>
+maniera di far dello Spagnuolo, che trattenendo vasselli <lb/>
+di questi paesi per farne il suo profitto anc’esso impari <lb/>
+a far lo stesso. Et ciò haveva particolarmente mosso <lb/>
+a replicar ordini espressissimi al Quast perché <lb/>
+uscisse, et si mettesse immediate al viaggio; et le lettere <lb/>
+sono state riportate hieri essendo di già partito. <lb/>
+Et con esso si crede sia uscito anco il gran vassello <lb/>
+che la religione di Malta ha fatto far in Amsterdam <lb/>
+di portata di più di doicento lasti, che deve servir <lb/>
+per andar in corso. </p>
+<p>Si trovano qui tre agenti del conte d’Oldembourgh venuti <lb/>
+ad effetto di stabilir anco con questi signori la neutra-<lb/>
+lità di certa Signoria che possede in feudo di ragione <lb/>
+della casa di Borgogna, il che però non ostante vuole
+<pb n="014v" facs="05_014v" rend="0"/>
+il detto Conte mostrar di far stima di questi signori per esser confinante <lb/>
+la detta Signoria con essi. Et mi è stato affermato, che con tal <lb/>
+occasione tenteranno per nome del loro signore di collegarsi <lb/>
+a queste Provincie Unite; che quello è il pretesto; ma <lb/>
+che questa è l’essential causa della loro venuta qui, <lb/>
+volendo il detto Conte coll’unione, o coll’assistenza <lb/>
+di questi signori assicurarsi tanto più del possesso della <lb/>
+detta Signoria. Sono doi di essi partiti hoggi per andar <lb/>
+a trovar fuori il signor Bernvel per trattar con<ptr target="#tn6" n="6"/> lui. </p>
+<p>È rivenuto il suo genero Vandermil, et di lui mi ha detto <lb/>
+che non sarà qui, che la settimana ventura, o l’altr[a.]<ptr target="#tn7" n="7"/> <lb/>
+Si crede certo, che starà absente per la causa, che ho <lb/>
+scritto, et già essendo venuti li deputati di Zelanda <lb/>
+si comincia a traficar il fatto di religione, né verrà <lb/>
+il signor Bernvel se non maturate le cose, o se non sia <lb/>
+espressamente chiamato; et alcuni dicono, che quelli di <lb/>
+Zelanda habbino nelle loro instruttioni di procurar <lb/>
+che al suo figliolo<ptr target="#tn8" n="8"/> sia levato il governo della piazza di Berghen <lb/>
+Opsoom<ptr target="#tn9" n="9"/>, ch’è alla frontiera di Brabant, et dell’<lb/>
+istesso Brabant. </p>
+<pb n="015r" facs="05_015r" rend="0"/>
+<p>Hoggi ispedisco queste mie in Anversa perché siano mandate <lb/>
+alla Serenità vostra col prossimo ordinario, et con questa occasione <lb/>
+scrivo a Brusseles al Pasini perché procuri far capitar <lb/>
+alla sua intelligenza tutto quello, che stimerà degno, <lb/>
+et proprio al servitio di lei. </p>
+<p>Qui si trova il signor Pietro Falgher cittadino di Venetia <lb/>
+che agita alcuni suoi interessi a questa corte. A lui <lb/>
+ancora lascio carico di star avvertito et<ptr target="#tn10" n="10"/> se sente <lb/>
+qualche cosa propria, toccante gl’interessi della <lb/>
+Serenità vostra et degna ch’ella la sappi, gliela facci <lb/>
+capitare scrivendo all’illustrissimo signor savio di Terra-<lb/>
+ferma alla scrittura. È riverente suddito, et <lb/>
+soggetto che professa ottimo zelo, et gratissima devotione <lb/>
+verso il suo Principe; et mi assicurò, che in ogni <lb/>
+occorrenza servirà in questa mia absenza molto <lb/>
+bene vostra Serenità. </p>
+<p>Dove sarò procurerò di trovar ogni occasione perché <lb/>
+ella resti avvisata di quanto anderà succedendo <lb/>
+sperando che dalla Serenità vostra sarà aggradito sempre <lb/>
+quel tanto, che potrà provenir dalla mia debolezza
+<pb n="015v" facs="05_015v" rend="0"/>
+et si compiacerà ch’io resti in qualche maniera un giorno <lb/>
+sollevato dalla sua benignità. Gratie etc. </p>
+<p>Dall’Haya a’ 9 settembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="016r" facs="05_016r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="016v" facs="05_016v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="004">
+<!--
+<p n="016vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 settembre 1617 ricevuta a’ 27 detto </p>
+<p>Haya. Sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-ssa" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "soldati" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "et abbruciamento" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "in numero … soldati" added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "essi" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "al suo figliolo" added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

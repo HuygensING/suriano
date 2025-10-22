@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.034 date 1619-01-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">034</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 226r-229v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">226r-229v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Hamel has finally arrived, who did not bring what the Admirality had hoped for (?), but also that they could no longer resist the pleas of these widows, so Suriano agreed to reimburse 30000 ducats. He discusses other matters, including the pay to enlist soldiers and sailors longer than the anticipated six months. He proposes that they need to send the rolls every month to avoid this type of bargaining again. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1619-01-08">8 gennaio 1619</date>
+            <num>075</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="075">
+<div type="main" facs="main text of letter" n="075">
+<!--<p>8 gennaio 1619, Amsterdam (cc. 226r-229v)</p>-->
+<pb n="226r" facs="07_226r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 78 prima </p>
+<p>Serenissimo Principe </p>
+<p>colla venuta in questi paesi dell’Hamel agente dell’amiraglio Kerkoven <lb/>
+che finalmente arrivò la passata settimana, havendo portate lettere alle <lb/>
+Amiralità credevo esser libero dal dovermene venir in questa <lb/>
+città, et dall’aggravar il publico a nova spesa di viaggio; ma sopra <lb/>
+alcuni particolari, che questi signori hanno stimati proprii ad essermi com-<lb/>
+municati presentialmente mi fecero far instanza di conferirmi presso di <lb/>
+loro, il che stimai servitio della Serenità vostra non ricusar di fare. </p>
+<p>Mi hanno dato parte d’haver ricevute lettere dall’Amiraglio delle dodici <lb/>
+navi; ma che non havevano con esse havuti li roli quelli che attendevano <lb/>
+con tanto desiderio, et si promottevano di dover ricever colla venuta <lb/>
+di quest’huomo; onde si trovavano impacciati, né potevano più <lb/>
+resister all’instanza di queste donne, che erano state trattenute <lb/>
+con questa speranza, et sapendo<ptr target="#tn1" n="1"/> elle anco che vi era rimessa di <lb/>
+denaro strepitavano al Magistrato per haverne, onde si vedevano <lb/>
+constretti al far risolutione per honor tanto della Serenità vostra che del <lb/>
+Paese: che vedevano molto bene (come<ptr target="#tn2" n="2"/> io le dissi) nascer il manca-<lb/>
+mento dai capitani; ma che non era rimedio acquetar queste donne, <lb/>
+che non sano, né vogliono intender ragione; che anc’essi si trovano <lb/>
+nel medesimo stato colle loro navi da guerra, che sono fuori essendo <lb/>
+sei mesi, che non ricevono li roli; tuttavia non lasciavano ogni mese <lb/>
+di sumministrar denaro per il vito, et per l’intartenimento a queste <lb/>
+donne dei loro matelotti; et che in fine non poteva la perdita riuscir <lb/>
+alla serenissima<ptr target="#tn3" n="3"/> Republica di momento, non si sentendo massimo, che siano <lb/>
+morti di quei marinari, che pochissimi. Io sostentai, che non era <lb/>
+conveniente, che si esborsasse denaro senza sapersi<ptr target="#tn4" n="4"/> come; ma <lb/>
+poiché tanti erano gli stimoli, et tanto li cridori di queste genti <lb/>
+come io anco li vedevo tutto doveva adossarsi alli capitani delle <lb/>
+navi per quello che fosse doppiamente esborsato; mi risposero che si
+<pb n="226v" facs="07_226v" rend="0"/>
+haverebbe fatto in forma tale,<ptr target="#tn5" n="5"/> et in quella miglior, et più sicura <lb/>
+maniera, che si havesse potuto per servitio della serenissima Republica. </p>
+<p>Poiché il denaro, che si ha da dar a queste donne si ha da cavar <lb/>
+dal corpo delli trenta mille ducati, che la Serenità vostra mi ha ordinato <lb/>
+di rimetter costì, et<ptr target="#tn6" n="6"/> questo è già stato accordato all’Amiraglio, et alli capitani in armata, et maggior summa nel disconto che si è fatto <lb/>
+dall’illustrissimo signor Commissario, non veggo, che mi fosse necessaria metter <lb/>
+gran difficoltà in questo affare: perché starà ai capitani (a mio <lb/>
+giudicio pensar perché debba esser dispensato. </p>
+<p>Doppo terminato questo punto mi hanno communicato quello che <lb/>
+scrive l’Amiraglio, che li matelotti affermano non esser obligati <lb/>
+servir più, che per sei mesi, per il qual tempo si sono levati; onde <lb/>
+essendo già spirato il tempo consigliavano vostra Serenità a non riguardar <lb/>
+a darli qualche cosetta di vantaggio di soldo per evitar ogni <lb/>
+discontento, et ogni amutinatione. Io risposi, che questo mi <lb/>
+pareva strano, mentre ho sempre presuposto, et tenuto che <lb/>
+nella continuatione del servitio dovessero anco continuar col <lb/>
+medesimo stipendio, che era tale, che se ne potevano molto ben <lb/>
+contentare, et così doveva seguire mi replicorono, che mi <lb/>
+dicevano quello ch’era di loro senso. </p>
+<p>Et perché mi proposero anco, che si compiangevano li capitani, che <lb/>
+era loro impossibile di poter mantener li matelotti, et soldati<ptr target="#tn7" n="7"/> <lb/>
+spirato il detto tempo di sei mesi<ptr target="#tn8" n="8"/> al medesimo prezzo per li viveri di sei soli, et dieci soldi per giorno <lb/>
+di questa moneta. Io li dissi, che l’obligo loro era di mantenere <lb/>
+li matelotti in particolare per dieci mesi, et tre mesi li soldati del <lb/>
+reggimento, che se per questi havevano consumati in parte li viveri <lb/>
+che dovevano servir per li matelotti, ch’era farlo apparer alla <lb/>
+serenissima Republica, et se li viveri di là costassero più cari, allhora toccava
+<pb n="227r" facs="07_227r" rend="0"/>
+a sua Serenità haver risguardo in questo particolare di durli quel di <lb/>
+vantaggio, che havesse stimato giusto, et conveniente. </p>
+<p>Mi consideronno inoltre l’indoglienza, che facevano li marinari per la <lb/>
+soldatesca del colonello Amstenraedt, che essendo li capitani liberati <lb/>
+per quanto veniva scritto dal farle la spesa di vito, restando non-<lb/>
+dimeno nelle navi facendosi da sé le spese volevano che essi <lb/>
+marinari li provedessero di acqua, et fuoco, et perché dicevano <lb/>
+non esser obligati, mi pregavano di avvertirne la Serenità vostra <lb/>
+perché dasse buoni ordini poiché<ptr target="#tn9" n="9"/> questo potrebbe causar qualche <lb/>
+disordine, et inconveniente. </p>
+<p>Et doppo havermi communicati altri particolari, che loro vengono scritti <lb/>
+da qualcheduno de’ capitani di pretensioni verso quei capitani, dei <lb/>
+soldati<ptr target="#tn10" n="10"/>, che tralascio per non attediar in questo la Serenità vostra <lb/>
+mi considerorno, che se vostra Serenità doveva continuar a tener quella <lb/>
+gente in servitio bisognava, che vi fosse altro ordine di quello <lb/>
+è stato sin qui, poiché per doi rispetti era in servitio di lei <lb/>
+l’uno per far appunto servitio a vostra Serenità et l’altro per apport-<lb/>
+tar honore al Paese, che per la manutentione di questi <lb/>
+doi rispetti non vedevamo il miglior rimedio, che l’haver <lb/>
+in armata un commissario huomo di auttorità, di riputatione, <lb/>
+et stima in questi paesi, che sapesse ben governarsi colla natura <lb/>
+di quelle genti sapesse maneggiarle, et le havessero quel <lb/>
+rispetto che si conviene con carica di far le mostre ogni mese, <lb/>
+et ogni mese inviar di qua li roli, con l’ordine dei pagamenti <lb/>
+necessarii, et a chi debbano contarsi li denari. Che questo <lb/>
+era l’unico rimedio per avanzar il servitio di vostra Serenità, et conser-<lb/>
+var la riputatione della marinascha di queste Provincie <lb/>
+Unite; che bisognava che vostra Serenità si risolvesse di non tener tante
+<pb n="227v" facs="07_227v" rend="0"/>
+genti nei vasselli perché<ptr target="#tn11" n="11"/> non era che un generar confussione, partorir tumulti, causa <lb/>
+di disordine et delle malatie, et delle morti. Che il numero dei <lb/>
+soldati sopra li vasselli non era la fortezza di essi, ma più tosto <lb/>
+la destruttione dell’una, et l’altra militia perché li soldati impe-<lb/>
+discono li marinari, questi odiano li soldati, onde li meno che <lb/>
+vi sono è il meglio; che il numero delle genti nelle navi di <lb/>
+Spagna è quello per appunto, che li ruina, et mai possono far <lb/>
+cosa buona; che questo era punto essentiale, et al quale dove-<lb/>
+vamo haver grandissima cura, levando tanti soldati dalle navi, <lb/>
+et tenerne solamente quella quantità, ch’è sufficiente, o può bastare <lb/>
+convenientemente per far nell’occasione buon servitio. Et il resto <lb/>
+tener nei presidii, per rinfrescar di tempo in tempo. Ch’è il <lb/>
+concetto per appunto che fu considerato (a chi me lo riferse) <lb/>
+dal signor principe Mauritio, come haverà inteso nelle mie <lb/>
+de’ 13 novembre passato. </p>
+<p>Di tutti questi particolari, et di qualche altro forse, che non mi hanno commu-<lb/>
+nicato io credo, che questi signori daranno parte alli signori Stati Generali <lb/>
+et spetialmente lo so che lo faranno quando vostra Serenità habbi a ricercar <lb/>
+nuova propagatione di tempo dell’intartenir le nav[i]<ptr target="#tn12" n="12"/> in suo <lb/>
+servitio, essendo già vicino si può dire lo spirar delli <lb/>
+ultimi sei mesi per li quali li signori Stati concessero<ptr target="#tn13" n="13"/> et <lb/>
+diedero l’assenso, che la Serenità vostra li continuasse; onde finendo <lb/>
+a’ 7 del venturo mese d’aprile per queste di Amsterdam, et per <lb/>
+altre verso la metà del medesimo mese aspetterò l’ordine <lb/>
+di ricercar nuova prorogatione. </p>
+<p>In tanto vostra Serenità, si compiacerà ordinar persona espressa nell’armata <lb/>
+che habbi cura di dar la mostra ai marinari delle dodici <lb/>
+navi, mandar li roli, con una nota all’incontro dei
+<pb n="228r" facs="07_228r" rend="0"/>
+dei* nomi di quanto lascierà cadauno per dar alle loro mogli, <lb/>
+o parenti, et così stabilir un ordine fermo, che di mese in <lb/>
+mese siano mandati essi roli; come anco ordinerà che non <lb/>
+sia dato molto denaro ad essi marinari: perché sono qui avvisati <lb/>
+che lo gettano o in bever, o in tabacco, o in altri sì fatti disor-<lb/>
+dini. Bisognerà anco terminar qualche cosa circa le monete <lb/>
+perché qui inrendono coll’avviso delli capitani non haver meno <lb/>
+di cinquanta piacchi per sette lire correnti di Venetia confor-<lb/>
+me all’accordato con essi. Scrivono anco che è stato loro <lb/>
+accordato trentadoi milla scudi, che fanno appunto a <lb/>
+cinquanta piacchi l’uno ottanta milla fiorini; tuttavia questo <lb/>
+esborso, che faccio far al presente non è che trenta milla ducati <lb/>
+che rivenirà q poco più di settanta milla fiorini stante il <lb/>
+basso cambio, che trase questa piazza per Venetia; et <lb/>
+da Venetia in mio particolare, et così anco altri non hanno <lb/>
+havuto che novanta sette grossi, et un ottavo, che sono 48 <lb/>
+piacchi in circa, et per Venetia si fa a meno. Io ho detto, che <lb/>
+tanto quanto ho havuto commandamento di esborsare tanto ho ordi-<lb/>
+nato, che ho dato al signor Calandrini lettere sotto questo stesso <lb/>
+giorno di altri vinti milla ducati, di maniera che con li <lb/>
+dieci milla prima haverò compito il numero di questa <lb/>
+summa, et si doverà ella pagar in banco al signor Melchior <lb/>
+Noirott. Aspetterò con desiderio risposta sopra tutti li <lb/>
+particolari che ho rappresentati, et sopra quali vostra Serenità troverà <lb/>
+buono, et di suo servitio, ch’io sia informato, essendo ciò<ptr target="#tn14" n="14"/> necessario <lb/>
+et proprio per il publico servitio, et per la publica riputatione, <lb/>
+di quello occorrerà di vantaggio, non mancarò col prossimo ordinario <lb/>
+di supplire la mio debito. Gratie etc. </p>
+<p>Da Amsterdam li 8 genaro 1619 </p>
+<p>di vostra Serenità </p>
+<p>humillissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="228v" facs="07_228v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="229r" facs="07_229r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="229v" facs="07_229v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 78 prima </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="075">
+<!--
+<p n="229vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 gennaro 1619 ricevute a’ 24 detto </p>
+<p>Secreario Surian da Amsterdan </p>
+<p>n° 78 <lb/>
+prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "et sap-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "co-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "non" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "spirato … mesi" added above the line on "però il" crossed out with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> There is a hole in the page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by deleted words.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line on "-lo" crossed out with an insertion mark .</p></note>
+</div>
+</body>
+</text>
+</TEI>

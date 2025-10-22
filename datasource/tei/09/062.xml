@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.062 date 1620-09-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">062</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 316r-317v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">316r-317v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A letter of formality, shorter than usual as he will leave most of the reporting to Trevisano, again lots of speculation about the plans of Spinola, who might attack Oppenheim. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-09-19">19 settembre 1620</date>
+            <num>096</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="096">
+<div type="main" facs="main text of letter" n="096">
+<!--<p>19 settembre 1620, L’Aia (cc. 316r-317v)</p>-->
+<pb n="316r" facs="09_316r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 244 comincia 243 </p>
+<p>Serenissimo Principe </p>
+<p>nelle lettere dirette all’eccellentissimo signor ambasciator Trivisano, oltre il seguito in <lb/>
+Grisoni, veggo anco quanto gli accenna toccante la nave <lb/>
+abbruggiata; et io poiché altro non aggiunge all’Eccellenza sua di quello <lb/>
+che la pregai nel fine delle mie lettere de’ 18 del passato <lb/>
+non mancarò di riverentemente informarla di quanto ho scritto, <lb/>
+et la Serenità vostra m’ha avvisato in questo proposito. </p>
+<p>Per l’altro particolare spettante l’accidente successo alle navi inglesi <lb/>
+nell’Indie mi sono tacciuto; lasciando che dall’eccellentissimo signor Tri-<lb/>
+visano colla sua prudenza siano portati gl’ufficii di <lb/>
+quella maniera, che sarà stimata dall’Eccellenza sua et più propria <lb/>
+et più opportuna. </p>
+<p>Se bene questi signori hanno pensiero d’andarla trattenendo <lb/>
+di città in città per honorarla, et accarezzarla quanto più <lb/>
+si possa: in ogni modo mi persuado, ch’egli sia per trovarsi <lb/>
+nell’Haya verso la fine della ventura settimana <lb/>
+et io scrivo hoggi le presenti per dovermi metter in camino <lb/>
+col clarissimo signor Gio. Mocenigo, et andar a servir l’Eccellenza sua com’è <lb/>
+di mio debito, fin dove potrò più lontano incontrarla. </p>
+<p>Di avvisi qui s’è inteso, che ’l marchese Spinola habbi havuto <lb/>
+pensiero di passar a forza, et contro la volontà dei <lb/>
+principi dell’Unione, che si sia messo in battaglia poco <lb/>
+discosto di Opponheim, onde accortosone li principi <lb/>
+anc’essi habbino fatto lo stesso; che questi habbino ripresa <lb/>
+certa terra di ragione del fratello del re di Bohemia; <lb/>
+et un altro avviso corre, che ’l principe di Pinore <lb/>
+con cinquecento cavalli, essendo passato innanti per far <lb/>
+prova di aprirsi camino sia stato reietato con morte
+<pb n="316v" facs="09_316v" rend="0"/>
+di molti, et disfatta del resto, et prigionia del medesimo Principe. <lb/>
+Che ’l marchese Spinola habbi rotto il ponte, che <lb/>
+haveva fatto sul Rheno, et havendo lasciate ancor le <lb/>
+genti poste nelli doi forti fabricati su le rive del Meno <lb/>
+et del Rheno si sia retirato più in dentro chi dice che <lb/>
+tornerà in dietro per passar per la Lorena o sia per il Lucem-<lb/>
+burgh in Alemagna; chi dice ancora, che si retirerà <lb/>
+o Andernach, o Bacrach, et chi aggiunge, che tornerà <lb/>
+in Brabant, voce che viene da quella parte. Tutto ciò <lb/>
+viene scritto alli signori Stati, et lettere particolari anco <lb/>
+parlano delle medesime cose; onde non si sa quello si debbi <lb/>
+creder l’Eccellenze vostre haveranno forse ricevuti in questo <lb/>
+proposito più freschi, et più certi avvisi. Gratie etc. </p>
+<p>Dall’Haya li 19 settembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="317r" facs="09_317r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="317v" facs="09_317v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 244 comincia 243 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="096">
+<!--
+<p n="317vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>[19]<ptr target="#tn1" n="1"/> settembre 1620 ricevute 15 ottobre n° 244 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

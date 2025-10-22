@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.017 date 1616-09-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">017</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 180r-183v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 431) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp287-296)
+            </note>
+            <biblScope unit="page">178r-179v, 180r-183v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that his arrival and levying of troops has led to more talk about a possible alliance between Venice and the Dutch Republic. He requests more guidance on the matter. Further raise the question of whether the Venetians would like to send an ordinary envoy to establish reciprocal diplomatic relations with the United Provinces. From France news that the prince of Condé has been arrested which has led to fears amongst French in the Republic of a revolt. Further there is growing evidence that the archdukes would like to negotiate about an extension of the Truce with the Dutch Republic </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-09-13">13 settembre 1616</date>
+            <num>055, 056</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="055" corresp="056" source="178r-179v" >
+<div type="main" facs="main text of attachment I" n="055" corresp="056" >
+<!--<p>Allegato I al n. 56 (cc. 178r-179v; decodifica di cc. 180r-183v)</p>-->
+<pb n="178r" facs="02_178r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="178v" facs="02_178v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="179r" facs="02_179r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="179v" facs="02_179v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="056">
+<div type="main" facs="main text of letter" n="056">
+<!--<p>13 settembre 1616, L’Aia (cc. 180r-183v)</p>-->
+<pb n="180r" facs="02_180r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>continuo colla mia devota riverenza a ricever le lettere sue de’ 18 <lb/>
+20 et 23 del passato. Valeromi dell’informationi, et servirà <lb/>
+per mia sola notitia quello è stato proposto dall’ambasciator del signor <lb/>
+Granduca nella corte di Praga, et mi governerò coi concetti <lb/>
+delle Signorie vostre eccellentissime espressi nella risposta data al signor ambasciator <lb/>
+Wton sopra la <hi rend="decoded">propositione</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">di colleganza</hi> <lb/>
+quando me ne fosse promosso alcun ragionamento. </p>
+<p>Qui non vi è stato chi espressamente mi habbi parlato in questo <lb/>
+proposito, ben so essersi discorso tra particolari, che oltre il <lb/>
+concetto, che prima si hebbe, che fossi stato commandato <lb/>
+da vostra Serenità di passarmene qui per far levata di gente, <lb/>
+che potesse servire la mia venuta <hi rend="decoded">per</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">trattar qualche aleanza tra lei, et questa <lb/>
+Republica, ma che si era anco considerato, ch’ella <lb/>
+difficilmente vi si condurrebbe per la qualità di <lb/>
+questi Stati, lontani dal dominio di lei, et perché <lb/>
+sono sottoposti a repentini travagli, né dall’altro <lb/>
+canto potrebbe per tali rispetti ricever con <lb/>
+prontezza aiuti necessarii di genti, et malamente <lb/>
+de’ dinari, mentre questi popoli hanno bisogno delle <lb/>
+une, et</hi>
+<pb n="180v" facs="02_180v" rend="0"/>
+<hi rend="decoded">degl’altri per sé stessi. <lb/>
+</hi></p>
+<p>Non devo a questo proposito tralasciar di significar alla Serenità vostra <lb/>
+che il signor ambasciator d’Inghilterra quando fu a vedermi disse (non credo mosso da sé)<ptr target="#tn3" n="3"/> che <lb/>
+questi signori mostravano desiderio di sapere se vostra Serenità havesse <lb/>
+pensiero di fermar un giorno un’ordinaria residenza <lb/>
+appresso loro: perché essi ancora haverebbono corrisposto, col <lb/>
+mandar uno de’ suoi a resieder appresso di lei, che sarebbe <lb/>
+stato per conservare, et avanzare una più perfetta <lb/>
+corrispondenza, et buona intelligenza; et andò parlando <lb/>
+in modo, che mostrò desiderio di cavar da me alcuna <lb/>
+cosa; et io stando sopra generali non gli dissi altro, se non <lb/>
+che la Serenità vostra mi haveva inviato qui per dimostratione <lb/>
+di confidenza, et che mi sarei trattenuto sino ad altro <lb/>
+suo ordine non sapendo ciò, ch’ella havesse in intentione. </p>
+<p>Oltre le prime lettere, che ’l signor ambasciator di Francia ha ricevute <lb/>
+dal Re con l’avviso della ritentione del signor principe di <lb/>
+Condè, non si sa che ne habbi havute d’altre; anzi dice <lb/>
+tenere, che i passi restavano chiusi. </p>
+<p>Essendo già passati otto giorni dal primo avviso questi <lb/>
+signori stano molto meravigliati di non haver sopra ciò <lb/>
+alcuna nuova da Parigi dal suo Ambasciatore, et pur lo <lb/>
+tengono per diligentissimo ministro nell’avvisar le cose;
+<pb n="181r" facs="02_181r" rend="0"/>
+et per tanto non resta in loro il solo presuposito, o timore, che <lb/>
+alle frontiere siano state intercette le lettere; ma mi viene <lb/>
+detto, che suspettano, che ’l medesimo corriero venuto all’Ambasciatore <lb/>
+qui residente l’habbi portate, et che siano trattenute per <lb/>
+qualche rispetto. </p>
+<p>Qui l’universale chiama l’atto fatto col Principe di levarli <lb/>
+la spada, et arrestarlo, violente, lontano dalla credenza, <lb/>
+né mai udito in alcuna historia per essempio; et ha <lb/>
+paura di qualche rivolta; ma li Francesi in particolare <lb/>
+che sono qui par che non ne temino mentre quelli della <lb/>
+religione riformata non si muovino non havendone <lb/>
+occasione per non esser stato trattenuto alcuno della loro <lb/>
+religione, chiamando prudente consiglio quello della Regina <lb/>
+di haversi assicurata della persona del Principe, et lasciati <lb/>
+uscire gl’altri tenuti da questi Francesi di poca auttorità <lb/>
+quando gl’ugonotti del Regno non gl’assistino. </p>
+<p>Io credo che da più sicuro luoco vostra Serenità haverà intesa <lb/>
+la riduttione de’ principi dell’Unione in quello di Sassonia, <lb/>
+ove s’è trovato anco presente quel Duca, il qual si tiene <lb/>
+per certo, che si dichiarerà<ptr target="#tn4" n="4"/> dell’Unione, vedendo sempre <lb/>
+più mancarsegli della parola. Non ho saputo altro <lb/>
+particolare del negotiato: perché chi ne scrive avvisa
+<pb n="181v" facs="02_181v" rend="0"/>
+solamente, ch’erano ridotti; et io lo significo alla Serenità vostra per solo <lb/>
+incontro. </p>
+<p>Mi viene detto, che da’ Spagnuoli si pensa alla prorogatione <lb/>
+della tregua con questi stati, et che gl’arciduchi hab-<lb/>
+bino fatto intender il pensiero, et che saranno pronti <lb/>
+ad inviar commissarii; ma mi viene anco affermato <lb/>
+che questi signori habbino consigliato di risponder, che <lb/>
+li commissarii non vengano senza portar con essi loro <lb/>
+un’assicuranza sottoscritta, et sigillata dal re di Spagna <lb/>
+et da sue Altezze di non haver durante la tregua a <lb/>
+tentar alcuna cosa contra elettori, duchi,<ptr target="#tn5" n="5"/> <lb/>
+città libere, et altri principi, che sono in unione, et in <lb/>
+colleganza colli Stati Generali; che con questa sarà <lb/>
+ascoltata la loro propositione per venir poi a quella <lb/>
+risolutione, che sarà stimata più propria. </p>
+<p>Il gentilhuomo del signor duca di Wirtimbergh, che partì in <lb/>
+diligenza per Londra (come scrissi riverentemente con le <lb/>
+mie precedenti) andava con l’avviso a quella Maestà <lb/>
+delle genti borgognone che in buon numero si trovavano <lb/>
+nel paese di Monbelgard contado di esso Duca, et si erano <lb/>
+lasciate intender di voler alloggiare, et forse svernar <lb/>
+in detto paese. Di che haverà la Serenità vostra havuto avviso
+<pb n="182r" facs="02_182r" rend="0"/>
+da più vicino luoco, havendo esso duca di Wirtimbergh dato <lb/>
+conto di ciò per quanto intendo ad ognuno de’ suoi confe-<lb/>
+derati. </p>
+<p>Io sto attendendo le sue prudentissime commissioni o per restar <lb/>
+sollevato di qua, come l’ho già humilmente supplicata; o <lb/>
+almeno se stima bene, et che così comporti il servitio publico <lb/>
+che mi trattenghi ancora per qualche poco spatio di <lb/>
+tempo d’esser aiutato nella mia povera fortuna, mentre <lb/>
+col desiderio, che ho servendo di sostentar la dignità, et <lb/>
+riputatione di quella serenissima Republica nella vista di tanti <lb/>
+ministri de’ principi, et signori principali, che sono in questo <lb/>
+luoco, et arrivano quotidianamente, contende la povertà <lb/>
+del mio stato, che non mi permette di poter far di quelle <lb/>
+cose, che sono honestamente necessarie senza l’aiuto della Serenità vostra <lb/>
+et pur veggo non poter far di meno per honorevolezza publica <lb/>
+di non tener carrozza, et far altre spese, che vano in <lb/>
+consequenza, non havendo dall’altro canto alcuna cosa <lb/>
+di mia propria fortuna; ma quel solo, che mi viene <lb/>
+contribuito dalla sua munificenza. Questa l’ho pro-<lb/>
+vata del continuo nella mia persona<ptr target="#tn6" n="6"/> nei luochi <lb/>
+ove mi sono trovato di suo commandamento, me la prometto <lb/>
+anco molto più al presente, et in questo paese, ove
+<pb n="182v" facs="02_182v" rend="0"/>
+il prezzo delle cose, è gravissimo, et dispendioso; et vorrà che io godi <lb/>
+dell’istessa benignità, che ha usata con altri, non havendo<ptr target="#tn7" n="7"/> io <lb/>
+per mettermi ad ordine in questo luoco, levar casa, et far altre <lb/>
+spese havuta alcuna cosa; com’è ben noto alle Signorie vostre <lb/>
+eccellentissime. Gratie etc. </p>
+<p>Dall’Haye a’ 13 settembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="183r" facs="02_183r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="183v" facs="02_183v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="056">
+<!--
+<p n="183vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 settembre 1616 ricevute 5 ottobre </p>
+<p>Secretario Surian dall’Haia 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "propositione di colleganza" added above the encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "per … sé stessi" decoding of the encrypted text can be found on c. 178r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "(non … sé)" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "principi," crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by deleted words.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "-mi" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

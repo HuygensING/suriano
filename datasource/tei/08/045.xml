@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.045 date 1619-10-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">045</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 227r-228v, 231r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp20-38
+            </note>
+            <biblScope unit="page">227r-228v, 231r-v, 229r-230v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on alarming troop movements by the Spanish, a total of 9 companies of soldiers have been lodged in city of Brussels to quell protests. In Republic they are waiting to see what archdukes will do next. Maurice confides to Suriano that he hopes there will be a more general revolt. The lack of news from both London and Heidelberg perplexes the States General. Johann Albrecht I, Count of Solms-Braunfels has written to Count William of Nassau that Bohemians will send a special embassy to confirm election but nothing about earlier reports that Frederick will travel to Prague with Elizabeth Stuart and accept Bohemian crown. Concludes letter by reporting that James I has lost a lot of credit. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-10-02">2 ottobre 1619</date>
+            <num>079, 080</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="079">
+<div type="main" facs="main text of letter" n="079">
+<!--<p>2 ottobre 1619, L’Aia (cc. 227r-228v, 231r-v)</p>-->
+<pb n="227r" facs="08_227r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n°137 comincia 135 </p>
+<p>Serenissimo Principe </p>
+<p>tante passate de’ Spagnuoli, tanti avanzamenti d’armi, il preparar <lb/>
+artigliere, il levar presidii dalle piazze frontiere, et così dar <lb/>
+l’allarma da questa parte non si è in fine convertito in altro, che <lb/>
+nel far entrar presidio di sette compagnie tedesche, et doi borgognone nella città di Brusseles a vista della quale havevano <lb/>
+condotte in tiro quattro canoni, et sette pezzi da campagna. </p>
+<p>Mentre si proponeva qualche partito a’ Brusselesi il marchese <lb/>
+Spinola da un canto, et il conte Henrico Vandenbergh dall’<lb/>
+altro occuporono doi porte per le quali poi fecero entrar <lb/>
+tutta la soldatesca, che stimorono sufficiente per ridur al <lb/>
+dovere li borghesi, et contenerli in ufficio; et sendo il resto <lb/>
+loggiato all’intorno Brusseles la soldatesca spagnola in particolare <lb/>
+ha usate mille insolenze contra il paesano senz’ordine, senza <lb/>
+regola, et a discrettione. </p>
+<p>S’era di già avanzata da questa parte la cavallaria li capitani <lb/>
+d’infanteria per la maggior parte partiti per le loro guarni-<lb/>
+gioni pronti alla marchia, sua Eccellentia, il signor principe Henrico <lb/>
+et tutti gl’altri officiali ad ordine per conferirsi nel luoco del <lb/>
+rende vous quando arrivò l’avviso<ptr target="#tn1" n="1"/> della sudetta impresa. </p>
+<p>Quanto habbi dato disgusto a tutta la soldatesca questa diversione <lb/>
+non si potrebbe dire. Se le imprecationi havessero effetto <lb/>
+Spagnoli sarebbono del tutto oppressi. Non per questo li signori <lb/>
+Stati hanno rivocati gl’ordini alle compagnie di cavallaria <lb/>
+di Frisia, et di Brabant, che erano le più lontane di non <lb/>
+proseguir il viaggio. Sono andate fino a Grane, ove <lb/>
+hanno fatto alto per attender se altro vorranno far li serenissimi <lb/>
+arciduchi, et se vorranno pur che habbi effetto la voce <lb/>
+sparsa di dover passar in Alemagna soldatesca. Non <lb/>
+lo crede più sua Eccellenza se ben ha havuto qualche avviso
+<pb n="227v" facs="08_227v" rend="0"/>
+che marchiavano ancor genti verso le frontiere di Germania; pur <lb/>
+ne aspetta ancor migliori avvisi. </p>
+<p>In discorso cavai dall’Eccellenza sua, et me lo disse anco con parole assai <lb/>
+chiare, <hi rend="decoded">che</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">attendevano con speranza di qualche <lb/>
+rivolta dalla parte di Brabant, che se <lb/>
+fosse stata di momento non haverebbono <lb/>
+lasciata perder l’occasione, ma per la sola <lb/>
+città di Brusseles, non si sarebbono così <lb/>
+facilmente mossi. <lb/>
+</hi></p>
+<p>Stano questi signori grandemente sospesi non intendendo alcuna nuova né <lb/>
+d’Inghilterra dell’animo, et risolutione del Re nel negotio del signor <lb/>
+principe Palatino; né de Heidelbergh poiché lettere né <lb/>
+dall’uno, né dall’altro de’ loro ministri, che tengono in quelle <lb/>
+corti non comparono. È stato solo confirmato con lettere de’ <lb/>
+particolari che li Principi ridotti a Rotemburgh habbino consigliato <lb/>
+il serenissimo Palatino ad accettar la corona di Bohemia, et che era <lb/>
+tornata sua Altezza ad Heidelbergh di dove scrive il maggiordomo <lb/>
+suo al signor conte Guglielmo qui, che havendo Bohemi scritte <lb/>
+altre lettere all’Altezza sua per maggior confermatione dell’<lb/>
+elettione di lei in loro Re erano per inviarle una solenne <lb/>
+ambasciata, che pregavano ad accettare per testimonio della buona <lb/>
+volontà loro; ma non aggiunge il di più, che in altre lettere <lb/>
+viene scritto, che si metteva ad ordine per passar a Praga <lb/>
+doppo haver ricevuta detta ambasciata per accettar la corona di <lb/>
+quel Regno, et che anco Madama si metteva in punto per <lb/>
+seguitar il Principe. Questo è quel tanto che capita <lb/>
+in questa corte, che servirà di rancontro di quello che in <lb/>
+questo proposito le sarà forse scritto dal proprio luoco. </p>
+<p>Questi signori non possono fermar l’animo suo a goder di questi
+<pb n="228r" facs="08_228r" rend="0"/>
+avvisi, che non hanno fondamento, che nel particolar discorso, che <lb/>
+per tale lo tengono fin tanto che non habbino dal fonte la vera <lb/>
+essentia del fatto. </p>
+<p>Il signor Ambasciator inglese con sua Eccellenza che me lo disse mostrò di non haver <lb/>
+nuova alcuna del trattato del baron di Dona; et a me disse in <lb/>
+discorso, che poteva esser che sua Maestà havesse spedita persona <lb/>
+espressa al Palatino per confortarlo ad appigliarsi al consiglio <lb/>
+de’ principi dell’Unione, che se havessero sentito, che dovesse pi-<lb/>
+gliar la corona di Bohemia poteva risolver secondo il loro <lb/>
+parere perché accettandola non haverebbe mancato di mantenerlo <lb/>
+che questo l’haveva presentito; et che da qualcheduno li era stato <lb/>
+scritto d’Inghilterra che sua Maestà haveva spedite<ptr target="#tn3" n="3"/> commissioni al visconte <lb/>
+Doncaster suo ambasciator straordinario in Alemagna di passar a <lb/>
+congratularsi coll’Imperatore; et che cadendo proposito del Palatino <lb/>
+per il regno di Bohemia dovesse dir a sua Maestà Cesarea, che <lb/>
+non haverebbe potuto far di meno di non sostenerlo. Et mi <lb/>
+aggiunse, che sendo questo vero haverà la Maestà sua per dar <lb/>
+color alla cosa trattenuto a dichiarirsi della sua intentione <lb/>
+et<ptr target="#tn4" n="4"/> trattenuto insieme il baron di Dona presso di lei <lb/>
+per mostrar al mondo, che non era la Maestà sua risoluta <lb/>
+et viene detto, che haveva in pensiero di trattener ancor <lb/>
+la partenza del baron Digbi destinato per Spagna: ma <lb/>
+vostra Serenità dal signor Marioni deve haver<ptr target="#tn5" n="5"/> più certi questi particolari. </p>
+<p>Ogni momento si aspettano avvisi del successo di questi affari, et particolarmente <lb/>
+se ’l Palatino haverà accettato il regno di Bohemia, come <lb/>
+vorrebbono, che l’havesse fatto: perché così sarebbe obligato <lb/>
+il re della Gran Bertagna a dichiarirsi, et mantener il <lb/>
+genero; che sarebbe in un medesimo tempo un discioglier il <lb/>
+matrimonio con Spagna, come viene desiderato da questi signori
+<pb n="228v" facs="08_228v" rend="0"/>
+con molto affetto. In somma quella Maestà nel generale non ha <lb/>
+qui maggior credito in risolutioni di momento che di haver di belle <lb/>
+parole, di esser pronta agl’ufficii, et di procurar di sodisfar <lb/>
+con quei termini, che non possino apportarle detornamento dai suoi <lb/>
+gusti, incommodo alla borsa, o alteratione alla quiete, et al riposo <lb/>
+in che brama di viver. </p>
+<p>Saranno aggiunte alle presenti le mie lettere d’hoggi otto n° 134. Gratie etc. </p>
+<p>Dall’Haya li 2 orrobre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="231r" facs="08_231r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="231v" facs="08_231v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 137 comincia 135 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="079">
+<!--
+<p n="231vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 ottobre 1619 <lb/>
+ricevute a’ 16 detto </p>
+<p>Haia. n° 137 3<hi rend="superscript">a</hi> </p>
+<p>Le genti spagnole entrate in Brusselles <lb/>
+et alloggiate intorno per riddurli <lb/>
+al<ptr target="#tn6" n="6"/> dovere. </p>
+<p>Li Stati havevano tutto in punto per <lb/>
+andar a redevos, quando gionse l’aviso. <lb/>
+Sono andati fin a Grane et ivi <lb/>
+stano attendendo ciò che faranno arciduchi. <lb/>
+Mauritio non crede vadano in Alemagna <lb/>
+ha detto che aspettano qualche <lb/>
+rivolta dalla parte di Brabant <lb/>
+se venirà, non perderanno l’occasione <lb/>
+ma per Brusselles non si moveranno. </p>
+<p>Non hanno aviso d’Inghilterra né da <lb/>
+Heidelbergh nel negocio del Palatino. </p>
+<p>Che li principi ridotti a Rotenburgh <lb/>
+hanno consigliato il Palatino accettar <lb/>
+la corona: Bohemi scriveno <lb/>
+di volerli mandar ambasceria: si dice <lb/>
+che si metta ad ordine per andar a Praga <lb/>
+per accettar la corona, et la moglie per <lb/>
+seguitarlo: ma di questi avvisi si <lb/>
+desidera maggior confirmatione. </p>
+<p>L’Ambasciator inglese dice sarà dal Re <lb/>
+essortato il Palatino adherir al conseglio <lb/>
+dei principi dell’Unione; che lui non <lb/>
+mancherà di mantenerlo in caso lo consiglino accettar: intender anco <lb/>
+che Inghilterra ha dato ordine al suo ambasciatore <lb/>
+di dir a Cesare che non haveria potuto <lb/>
+far di meno d’aiutar il Palatino; se <lb/>
+ciò sarà vero dice l’Ambasciator tenirà <lb/>
+il baron Dona presso di sé per mostrar al <lb/>
+mondo che non era risoluto. </p>
+<p>Et anco pensava trattener il <lb/>
+Dighibi destinato per Spagna. </p>
+<p>L. SS. </p>
+<p n="231vD">———</p>
+<p>Desiderano i Stati che il Palatino <lb/>
+accetti la corona per veder disciolto <lb/>
+il matrimonio con Spagna. </p>
+<p>Inghilterra è in concetto di parole <lb/>
+et di uffici non di far cosa <lb/>
+che possi disturbar il suo viver <lb/>
+quieto. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="080" corresp="079" source="229r-230v" >
+<div type="main" facs="main text of attachment I" n="080" corresp="079" >
+<!--<p>Allegato I al n. 79 (cc. 229r-230v; decodifica di c. 227v)</p>-->
+<pb n="229r" facs="08_229r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="229v" facs="08_229v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="230r" facs="08_230r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="230v" facs="08_230v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-vv- esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "che … mossi decodifica di testo cifrato presente a c. 229r; con segno di rimando."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e corretta su -a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue che depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "deve haver aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Precede po depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

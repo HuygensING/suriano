@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.003 date 1616-10-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 18r-19v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">18r-19v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter on the request of John Ernst of Nassau to serve in capacity of a general </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-02">2 ottobre 1616</date>
+            <num>005</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="005">
+<div type="main" facs="main text of letter" n="005">
+<!--<p>2 ottobre 1616, L’Aia (cc. 18r-19v)</p>-->
+<pb n="018r" facs="03_018r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havevo di già ispedito il dispaccio per vostra Serenità quando il signor <lb/>
+conte Gio. Ernesto ha mandato a me un suo gentilhuomo <lb/>
+per dirmi, che s’era scordato pregarmi a scriverle che <lb/>
+restasse servita mandarmi la sua patente. Il che io <lb/>
+non ho voluto tralasciar di significarle; dicendole <lb/>
+riverentemente che doverà haver il titolo di generale <lb/>
+secondo il concertato; et da quanto ho scritto nell’altre <lb/>
+mie desiderar, che altre genti, che fosser levate di qua <lb/>
+non siano sotto altra bandiera c’averà la prudenza <lb/>
+della Serenità vostra che haverà caro, che sia espresso generale <lb/>
+delle genti holandesi. Gratie etc. </p>
+<p>Dall’Haya a’ 2 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="018v" facs="03_018v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="019r" facs="03_019r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="019v" facs="03_019v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="005">
+<!--
+<p n="019vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 ottobre 1616 ricevute 12 detto </p>
+<p>Secretario Surian dall’Haya 3<hi rend="superscript">a</hi> </p>
+<p>Il conte Gio. Ernesto richiede <lb/>
+se gli mandi la sua patente <lb/>
+di generale. </p>
+<p>Considerationi sopra di essa. </p>
+<p>L. SS. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

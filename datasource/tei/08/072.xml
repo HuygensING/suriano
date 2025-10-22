@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.072 date 1619-12-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">072</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 372r-373v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">372r-373v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Due to adverse weather conditions, delay in arrival of post, last letters are from 7 December, thanks Venice for granting him 300 ducats. He has told the States General that Venice will release sailor from Hoorn from the galleys. Reports he has written to the magistrates of the Board of Health for the release Henry Balan, an Englishman, courier of the King of Great Britain. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-24">24 dicembre 1619</date>
+            <num>123</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="123">
+<div type="main" facs="main text of letter" n="123">
+<!--<p>24 dicembre 1619, L’Aia (cc. 372r-373v)</p>-->
+<pb n="372r" facs="08_372r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 163 comincia 161 </p>
+<p>Serenissimo Principe </p>
+<p>la stagione che al presente corre assai fastidiosa, et piena <lb/>
+d’incommodità causa anco il tardo arrivo de’ dispacci, come <lb/>
+ha fatto anco quello di questa settimana, che mi perviene <lb/>
+appunto nell’ispeditione del mio dispaccio. </p>
+<p>Le lettere della Serenità vostra sono dei 7 del presente colle replicate <lb/>
+dei 30 del passato <hi rend="decoded">nel</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">proposito dell’aleanza. <lb/>
+</hi></p>
+<p>Io continuerò com’ella mi commette con quel termine di <lb/>
+confidenza che<ptr target="#tn2" n="2"/> si deve a trattenermi con questo signor ambasciator <lb/>
+d’Inghilterra facendo con opportunità l’ufficio<ptr target="#tn3" n="3"/> che mi ordina <lb/>
+et con gl’altri ambasciatori, et ministri continuerò li miei ufficii <lb/>
+con la debita circonspettione agl’interessi, et al servitio di <lb/>
+quella serenisima Republica. Rimanendo intanto consolato <lb/>
+della sodisfattione, che mi mostra con parole molto piene <lb/>
+ricever dalla<ptr target="#tn4" n="4"/> mia debolezza; il che non bastando alla <lb/>
+sua benignità me l’ha voluto anco in un medesimo tempo <lb/>
+comprobare con segni effettivi della sua munificenza <lb/>
+col farmi dono di trecento ducati. Le ne rendo <lb/>
+humilissime gratie, et prego il signor Dio che mi dia spirito <lb/>
+di poter servire con tanto profitto<ptr target="#tn5" n="5"/> al publico quanto ho fisso <lb/>
+nel cuore; et conosco esser di mio debito. </p>
+<p>Pagarò le lettere ritornate per il nolo de’ vasselli. Ho havuto <lb/>
+gusto di quest’ordine per sollevarmi dalla continua <lb/>
+instanza, che mi veniva fatta. </p>
+<p>Per il pagamento de’ noli per la nave Il leon felice osserverò
+<pb n="372v" facs="08_372v" rend="0"/>
+quanto da vostra Serenità mi viene scritto che facci; et<ptr target="#tn6" n="6"/> farò saper a’ signori <lb/>
+Stati la risolutione in che ella è venuta di licentiar <lb/>
+di galea quel marinaro da Hoorn. </p>
+<p>Quanto alla deliberatione per trafico del golfo, altro non seppi <lb/>
+se non quanto mi fu scritto da Amsterdam dal Calandrini <lb/>
+che era venuto un tal avviso, che fosse stata publicata <lb/>
+parte, che vassello alcuno non transitasse il golfo senza <lb/>
+licenza. Tanto le scrissi quanto allhora fui avvertito, se <lb/>
+ben non ne intesi più altro. Di quello che caverò la Serenità vostra <lb/>
+sarà da me riverentemente avvisata. </p>
+<p>Scrivo alli eccellentissimi signori sopraproveditori et procuratori alla sanità per liberatione <lb/>
+di un Henrico Balan inglese corriero della maestà della Gran <lb/>
+Bertagna, che è avvisato questo eccellentissimo signor ambasciator Carleton <lb/>
+esser stato trattenuto per quel Magistrato in prigione: <lb/>
+reputa il signor Ambasciator che sia stata una ignorantissima<ptr target="#tn7" n="7"/> transgres-<lb/>
+sione dell’huomo, et poiché è servitor del Re suo signore et <lb/>
+con carica di corriero, et forestiere supplica che gli sia <lb/>
+in sua gratificatione condonato l’errore che vi fosse. <lb/>
+Mi ha esso medesimo signor Ambasciatore espressamente<ptr target="#tn8" n="8"/>, et particolarmente <lb/>
+parlato<ptr target="#tn9" n="9"/> di questo promettendosi di dover ottenere ogni <lb/>
+gratia da vostra Serenità; et io mosso dalle sue efficaci instanze, <lb/>
+con tanta maggior instanza le<ptr target="#tn10" n="10"/> raccommando questo negotio. Gratie etc. </p>
+<p>Dall’Haya li 24 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="373r" facs="08_373r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="373v" facs="08_373v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 163 comincia 161 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="123">
+<!--
+<p n="373vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 decembre 1619 ricevute a’ 9 gennaro </p>
+<p>Haya. n° 163 </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "nel … aleanza decodifica di testo cifrato presente nel margine interno."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-h- esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "u- corretta su o-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a- corretta su -e-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "e- corretta su d."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "g- corretta su -n-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-rl- esito di correzione."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

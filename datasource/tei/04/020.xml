@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.020 date 1617-04-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 104r-107v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">104r-107v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that captain Mutton has set sail from Texel with favorable winds. Describes incident of a ship near Calais that decided to return due to potential threat for Catholic ships. Acknowledges receipt of letters from Venice dated 31 March 1617, and expresses their gratitude for the States General’s support for expedition in Istria. Mentions that Levenstein will arrive in The Hague soon. Met with Maurice and discussed the health of William. John of Nassau has travelled back to Kassel, and requested to be kept informed about his son’s arrival in Venice. In honour of his guests, Suriano hosted a dinner. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-04-18">18 aprile 1617</date>
+            <num>036</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="036">
+<div type="main" facs="main text of letter" n="036">
+<!--<p>18 aprile 1617, L’Aia (cc. 104r-107v)</p>-->
+<pb n="104r" facs="04_104r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>coll’aiuto del Signor Dio uscì hieri otto il capitan Mutoni del Tessel <lb/>
+et egli stesso m’ha dato conto della sortita, mentre <lb/>
+si trovava alla vela in mare; come ha fatto il <lb/>
+capitano Pach, che mi conferma l’imbarco di cento-<lb/>
+trentasei in quaranta fanti in circa di esso Mutoni. <lb/>
+Ha havuto il vento assai propitio, et spero, che avan-<lb/>
+zerà camino, et si ridurà presto anch’egli ne’ porti <lb/>
+della Serenità vostra. Hebbe già assai buone instruttioni <lb/>
+del viaggiar cautamente, et in particolare è partito <lb/>
+l’ultima volta da me con risolutione nell’avici-<lb/>
+narsi al distretto, quando il vento non gli servi <lb/>
+più che bene di andar volteggiando per ri-<lb/>
+dursi a passar alla notte per ogni buon rispetto; <lb/>
+come mi disse, che si guarderà nell’uscir del <lb/>
+Mediteraneo, et nell’entrar nel golfo di <lb/>
+vostra Serenità. </p>
+<p>Quello che è venuto di Calis,<ptr target="#tn1" n="1"/> il qual riferse quanto <lb/>
+la passata settimana rappresentai alla Serenità vostra <lb/>
+ha detto di vantaggio, che oltre l’amutinatione <lb/>
+è occorso anco accidente altrettanto felice
+<pb n="104v" facs="04_104v" rend="0"/>
+per li vasselli con le genti; poiché un vassello, ch’era <lb/>
+andato per far scoperta, ritornato riferse, che le <lb/>
+navi con la soldatesca fatte avvertite di esser aspettate <lb/>
+da quelle del Catholico si erano fermate con disegno di <lb/>
+tornar a dietro, et che tanto più li soldati constrin-<lb/>
+sero a farsi metter in terra, et doppo ne furono <lb/>
+licentiati dal Capitano dell’armata; ma che<ptr target="#tn2" n="2"/> <lb/>
+hanno mostrato poi di esserne molto ben pentiti <lb/>
+con timore alcuno de’ capi, che gli succedi qualche <lb/>
+mala fortuna. Con tutto questo vi sono di quelli <lb/>
+che credono, che (essendo occorse queste cose) siano <lb/>
+artificiosamente avenute, et che Spagnuoli habbino <lb/>
+voluto far una sparata, per<ptr target="#tn3" n="3"/> metter così spa-<lb/>
+vento alle genti affineché non sortissero; o <lb/>
+questi signori per li loro interessi le trattenessero, <lb/>
+ma che vedendo poi non esservi<ptr target="#tn4" n="4"/> altro rimedio <lb/>
+habbino fatta con apparente maniera correr tra <lb/>
+la loro armata avvisi proprii per effettuar <lb/>
+loro disegno di non voler per hora attaccar la <lb/>
+pugna con genti, et navi di questi paesi,
+<pb n="105r" facs="04_105r" rend="0"/>
+meno di tal maniera dichiarirsi contro la Serenità vostra <lb/>
+la quale però colla sua singolar prudenza da <lb/>
+altri avvisi potrà fare più fondato giudicio. </p>
+<p>Essend’io hieri andato all’assemblea de’ signori Stati ad essequir <lb/>
+le commissioni della Serenità vostra venutemi nelle sue lettere <lb/>
+de’ 31 del passato, doppo ringratiati questi signori <lb/>
+di quanto havevano deliberato in gratificatione di lei <lb/>
+per<ptr target="#tn5" n="5"/> l’imbarco delle genti del conte di <lb/>
+Levenstein, mi parve bene di significar loro <lb/>
+quanto vostra Serenità mi aggiunge nelle medesime lettere <lb/>
+che ’l<ptr target="#tn6" n="6"/> denaro sarebbe stato <lb/>
+pronto per il pagamento de’ marinari, et delli ordini <lb/>
+dati opportunamente nell’Istria per l’arrivo, et <lb/>
+servitio delle genti, il che fu inteso con molto <lb/>
+gusto, et ne ringratiorno vostra Serenità con parole molto <lb/>
+piene, dicendomi che di questa maniera ella <lb/>
+haverebbe dato molto animo ai marinari di esser <lb/>
+tanto più pronti in altra occasione a servirla, et a’ soldati di espor sé stessi allegramente <lb/>
+ad honor, et vantaggio di quella serenissima Republica. </p>
+<pb n="105v" facs="04_105v" rend="0"/>
+<p>Et del conte di Levenstein mi risposero, che quanto havevano <lb/>
+fatto era poco al molto, che desideravano in<ptr target="#tn7" n="7"/> servitio di lei<ptr target="#tn8" n="8"/>. </p>
+<p>Di detto Conte ho inteso da un soldato venuto quattro giorni <lb/>
+fa da Heidelbergh, ch’egli habbi ad esser presto <lb/>
+qui. Il Schiaveliski scrive ad un capitano di questi <lb/>
+paesi, che il Conte attendeva sapere, se erano par-<lb/>
+tite le navi, et io non ho pur minimo avviso da esso <lb/>
+Conte; onde lo sto<ptr target="#tn9" n="9"/> aspettando per essequir <lb/>
+con ogni debita riverente prontezza il replicato <lb/>
+ordine, che nelle medesime lettere de’ 31 del passato <lb/>
+mi viene dato dalla Serenità vostra nel proposito dell’imbarco <lb/>
+delle sue genti, con sommo desiderio insieme, ch’ella <lb/>
+resti sempre più contenta del mio humile servitio, <lb/>
+che viene retto da ottima volontà. </p>
+<p>Col signor principe Mauritio fui sabbato passato. Hebbe egli <lb/>
+sentimento corraggioso dell’indispositione del nipote <lb/>
+conte Guglielmo; et mostrò di sentir con sodisfattione <lb/>
+che vostra Serenità con tanto amore, et con tanto affetto <lb/>
+havesse cura di lui, et fosse così ben trattato, <lb/>
+et si confessò a parte dell’obligo. Il fratello
+<pb n="106r" facs="04_106r" rend="0"/>
+conte Gioanni fu domenica mattina a ringratiarmene <lb/>
+et mi disse, che ne haverebbe data parte al padre. </p>
+<p>Esso suo padre è partito venerdì passato verso casa sua <lb/>
+per andar poi a Cassel, mi ha raccommandati li figlioli <lb/>
+et pregato di farli saper l’arrivo a Venetia del signor <lb/>
+conte Gio. Ernesto. Io non ho mancato di fargli tutto <lb/>
+quell’honore, che m’è stato possibile in nome di <lb/>
+vostra Serenità havendoli<ptr target="#tn10" n="10"/> dato a desinare in compagnia <lb/>
+del signor principe Henrico del conte Gioanni, et di tre <lb/>
+o quattro altri cavallieri di corte, essendovi uno <lb/>
+particolarmente de’ signori Stati Generali, il che è stato <lb/>
+da lui aggradito sommamente. Gratie etc. </p>
+<p>Dall’Haya a’ 18 aprile 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="106v" facs="04_106v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="107r" facs="04_107r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="107v" facs="04_107v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="036">
+<!--
+<p n="107vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 aprile 1617 ricevute 3 marzo </p>
+<p>Haia. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "doppo" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "pe-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> First "e-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "della Ser(eni)tà v(ostra)" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "de’ 31 del passato" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "di lei" added above the line.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "attendendo" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-i" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

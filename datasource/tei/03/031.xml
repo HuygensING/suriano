@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.031 date 1616-12-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3,fol 214r-217v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">214r-217v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Provides an update regarding the troops that are ready to set sail for Venice but the unfavourable winds continue to delay their departure. One ship sank near Rotterdam. He writes that some officials want him to go and visit the troops but he is unwilling to do so. He has drawn up a letter of exchange for Calandrini </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-31">31 dicembre 1616</date>
+            <num>072</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="072">
+<div type="main" facs="main text of letter" n="072">
+<!--<p>31 dicembre 1616, L’Aia (cc. 214r-217v)</p>-->
+<pb n="214r" facs="03_214r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>tornò hoggi otto la sera dalla Nortolandia il signor conte Gio. Ernesto <lb/>
+dall’haver visitati li soldati ne’ vasselli, et il giorno seguente <lb/>
+mi venne a riferire haverli trovati se ben con poco gusto <lb/>
+di tanta dimora in quel porto, pronti in ogni modo a <lb/>
+sopportar l’impatienza colla speranza, che un giorno <lb/>
+siano per uscirne. Mentre fu in quel luoco parve, che <lb/>
+per qualche hora l’apparenza mostrasse felicità per <lb/>
+l’uscita, et già si erano li marinari messi ad ordine <lb/>
+per alzar le vele a vista di esso signor Conte; ma riuscì <lb/>
+poi altrimenti sendosi in breve spatio d’hora cambiato <lb/>
+il vento, che s’era messo da Levante, divene calma, <lb/>
+et tornò alla parte del mezogiorno tutto contrario, <lb/>
+(tanto è successo anco da questa banda della Moza) et <lb/>
+così ha continuato sin qui con alteratione al buono <lb/>
+di momenti non dirò d’hore. Ognuno compatisce <lb/>
+un tanto lungo soggiorno di così buona gente in <lb/>
+questi porti, et pare assai, che non succedi qualche <lb/>
+inconveniente di malatia, o d’altro. </p>
+<p>Ha il signor Conte da questa parte della Moza per sollevar <lb/>
+li soldati fatto metter alla banda di ogni nave <lb/>
+uno o doi piccioli vasselli, nelli quali entrano un
+<pb n="214v" facs="03_214v" rend="0"/>
+giorno gl’uni, et l’altro giorno gl’altri, et ha fatto ciò perché <lb/>
+le genti meno patiscano, et sopportino con più patienza il <lb/>
+soggiorno; né lascia cosa a che non pensi per questo servitio <lb/>
+et per proveder ad ogni accidente di travaglio già che <lb/>
+a Dio piace, che così caminino le cose; ma non ha potuto <lb/>
+evitare, che giovedì a sera non si habbi incontrato qualche <lb/>
+disturbo, ch’è riuscito minore di quello, che in caso tale <lb/>
+si poteva temere. Erano entrati quella sera di giovedì <lb/>
+in uno di detti vasselli da 70<ptr target="#tn1" n="1"/> soldati, et venendo da <lb/>
+Dordrechet un altro grosso vassello<ptr target="#tn2" n="2"/> transportato <lb/>
+dal vento andrò a dar in quello dei soldati, et causò, <lb/>
+che si ruppe la corda, che lo teneva legato alla <lb/>
+nave, onde fu transportato con empito a dar in <lb/>
+alcuni pali, che sono innanti alla città di Roterdam, <lb/>
+et volendo li soldati salvarsi, et<ptr target="#tn3" n="3"/> per <lb/>
+scampar il pericolo, che si temeva, precipitandosi<ptr target="#tn4" n="4"/> confu-<lb/>
+samente in un altro picciolo vassello, questo presa <lb/>
+acqua si affondò, et furono per ciò constretti mettersi a <lb/>
+nuoto, et si salvorono, eccetto un giovane gentilhuomo <lb/>
+francese, che restò affogato con dispiacer grandissimo <lb/>
+del signor di Rocalaura sotto la compagnia del
+<pb n="215r" facs="03_215r" rend="0"/>
+quale era descritto; ma si deve ben ringratiar Dio, che <lb/>
+non sia successo peggio come si poteva dubitare. </p>
+<p>Li usciti dall’acqua furono del medesimo signor Rocalaura <lb/>
+fatti asciugare, et governare in diverse case; et hier mattina <lb/>
+volontarii se ne sono ritornati alla medesima nave per <lb/>
+aspettar coll’ordinario desiderio il vento buono. </p>
+<p>Il Stich, che ha coadiuvato al Wassonhoven, è pronto <lb/>
+nel Tessel con trecento fanti; et a Roterdam sopra <lb/>
+la Moza sono le genti del medesimo Wassonhoven d’un <lb/>
+suo fratello, et d’un altro capitano. Avanti hieri trovandomi in casa del residente di Bran-<lb/>
+demburgh fratello di esso Stich; il Wassonhoven, il Stich, et <lb/>
+li altri officiali di questa levata mi furono intorno <lb/>
+et mi pregorono considerar a qual spesa convengono <lb/>
+soccumber, et qual interesse patiscono mentre del <lb/>
+proprio denaro hanno fatta la levata, et tutte <lb/>
+le spese de’ vasseli, et altro per mantener, et nutrir <lb/>
+li soldati; et tutto ciò con fine che vi porgessi la mano; <lb/>
+ma vedendo, che non potevano cavar da me ciò, che forse si promettevano, mi fecero instanza, che <lb/>
+pregassi a nome loro vostra Serenità ad havervi consideratione. </p>
+<pb n="215v" facs="03_215v" rend="0"/>
+<p>Io diedi loro buone parole, tenenendomi sempre nell’assicu-<lb/>
+rarli, che vostra Serenità sodisfarà prontamente a quanto ha contrattato <lb/>
+et obligato con esso Wassonhoven. </p>
+<p>Volevano egli, et gl’altri ch’io andassi nei luochi, ove sono le <lb/>
+genti. Io me ne sono astenuto parendomi di comprender <lb/>
+il fine non esser solo ch’io le vedessi; ma che la mia pre-<lb/>
+senza o di qualcheduno de’ miei (come me ne fu <lb/>
+fatta anco instanza) servisse loro a<ptr target="#tn5" n="5"/> dar forma all’intentione, che forse hanno, che ’l tempo del servitio princi-<lb/>
+piasse dall’imbarco, o dalla visita ch’io, o altri per me <lb/>
+havesse fatta<ptr target="#tn6" n="6"/>; et contenendo le capitulationi del <lb/>
+Wassonhoven dover principiar il tempo dal giorno, che <lb/>
+saranno le genti rolate di là sotto diversi pretesti di <lb/>
+publiche occupationi, et altro mi sono iscusato. Dovendo il <lb/>
+beneficio prevenir dalla munificenza della Serenità vostra <lb/>
+havuto rispetto alle spese, che esso Wassonhoven, et <lb/>
+particolarmente quelli, che lo sostentano hanno havuti <lb/>
+sin qui, et continuano. </p>
+<p>Ho parlato al signor Conte intorno questo particolare del cominciar <lb/>
+del tempo in conformità dell’intentione, et senso delle Signorie vostre eccellentissime; ma ho trovato l’incontro duro, et stabile
+<pb n="216r" facs="03_216r" rend="0"/>
+nell’intender, che ’l tempo cominci dal giorno della mostra <lb/>
+di cadauna compagnia secondo, ch’è stata fatta di tempo <lb/>
+in tempo, et mi ha detto, che per l’amor di Dio scrivi <lb/>
+a vostra Serenità che non metti questo dubio perché sarebbe metter <lb/>
+una confusione mentre si potevano le compagnie <lb/>
+quasi lo stesso giorno della mostra poner nei vasseli <lb/>
+et in essi attender il vento come fano al presente <lb/>
+con non<ptr target="#tn7" n="7"/> poco disaggio, et se non fosse stato il <lb/>
+dubio di qualche inconveniente sarebbe forse stato <lb/>
+meglio, che fossero sin qui restati in terra. Io replicai <lb/>
+qualche cosa di vantaggio per veder pure se po-<lb/>
+tevo<ptr target="#tn8" n="8"/> avanzar il punto; ma stete egli constante <lb/>
+et disse non dubitare, che vostra Serenità non sia per far quello <lb/>
+che è di ragione, et di dovere, et che sperava <lb/>
+ch’ella haverebbe havuta anco in consideratione <lb/>
+le spese fatte (oltre quanto io ho esborsato) tanto da’ suoi capitani quanto da lui: onde <lb/>
+credo, che non potrà la Serenità vostra avanzar in questo <lb/>
+particolare del tempo alcuna cosa. </p>
+<p>Quel baron francese signor di Villemur inteso da me <lb/>
+quanto gli dissi in nome di vostra Serenità ha regolata
+<pb n="216v" facs="03_216v" rend="0"/>
+nell’offerta del suo servitio quasi in tutte la<ptr target="#tn9" n="9"/> pretensione<ptr target="#tn10" n="10"/> sua<ptr target="#tn11" n="11"/>, come vedrà dall’aggiunta traduttione. È stato <lb/>
+fermo nelli sedici franchi per testa della levata, che <lb/>
+sarebbono tre<ptr target="#tn12" n="12"/> milla più in tutto in ragion di quello <lb/>
+si ha contrattato, et ha havuto il signor Conte; ma mi <lb/>
+ha considerato, che non mettendo alcuna cosa per il transporto <lb/>
+delle armi, et pur sarà necessario che le venga a pigliar <lb/>
+in queste parti; rimettendosi al beneplacito publico <lb/>
+quanto allo stipendio proprio, et de’ principali officiali <lb/>
+del reggimento; mutando anco in qualche altra <lb/>
+parte le sue dimande oltre le spese, che doveranno <lb/>
+esser grandi, per la levata delle genti in Guasco-<lb/>
+gna, et altrove lontano da Marseglia cinquanta, et sessanta leghe non era equivalente la somma <lb/>
+a che era condesceso; che il desiderio suo era <lb/>
+ardente di servir la Serenità vostra, et che doveva <lb/>
+partir fra alcuni giorni per Parigi, che da <lb/>
+quelli eccellentissimi signori ambasciatori sarebbe andato a ricever <lb/>
+la risposta, et per stabilir anco ogni cosa con <lb/>
+essi: facendomi instanza di pregarla, che si compiacesse scriverne a’ sue Eccellenze a fine di esser risoluto. </p>
+<pb n="217r" facs="03_217r" rend="0"/>
+<p>Mi è venuto fatto di ridur la paga da scudi a ducati <lb/>
+in moneta corrente di Venetia, et che li sette <lb/>
+mesi di servitio debbino cominciar dal giorno <lb/>
+della prima mostra; et quanto all’obedienza <lb/>
+da prestarsi alli capitani delle<ptr target="#tn13" n="13"/> genti di vostra Serenità <lb/>
+parmi che corrispondi al concetto di lei; onde <lb/>
+potrà far sapere la sua prudentissima deliberatione <lb/>
+alli signori ambasciatori in Franza. </p>
+<p>Sotto li 26 del mese presente feci lettere di cambio <lb/>
+alli signori Gioanni, et Filippo Calandrini di ducati <lb/>
+mille ottocento cinquanta tre da lire 6 ¾ per ducato <lb/>
+da esser pagati a’ 26 febraro prossimo in moneta <lb/>
+di banco al signor Melchior Noirott; et d’altrettanta <lb/>
+summa ho fatte altre lettere al signor Guglielmo Vander-<lb/>
+put per il fratello signor Gio. Pietro. Et questi tutti sono <lb/>
+per il resto della valuta havuta per servitio di <lb/>
+questa levata dagl’uni, et dall’altro. </p>
+<p>Non è ancora comparso il messaggiero ordinario di Anversa <lb/>
+che doveva arrivar hieri. Gratie etc. </p>
+<p>Dall’Haya a’ 31 decembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="217v" facs="03_217v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="072">
+<!--
+<p n="217vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 decembre 1616 ricevute a’ 18 gennaro </p>
+<p>Secretario Surian dall’Hagia<ptr target="#tn14" n="14"/> </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>1. Conte Ernesto ha fatto metter due <lb/>
+vasselli piccoli alla banda d’ogni <lb/>
+nave per commodità de’ soldati. </p>
+<p>2. Grave pericolo di uno de’ vasselli <lb/>
+con 70 soldati salvati a nuoto a Rotradam <lb/>
+rimanendo anegato un gentilhuom francese. </p>
+<p>3. Il Stich è pronto nel Tessel con 300 fanti. </p>
+<p>4. Il Vuassongoven il Stich et altri officiali <lb/>
+l’ha(n) ricercato pregar sua Serenità ad haver <lb/>
+consideratione alli loro interessi. </p>
+<p>5. Volevano che andasse nei luochi <lb/>
+ma egli si è astenuto per le pretensioni <lb/>
+che hanno che il tempo principiasse <lb/>
+dall’imbarco. </p>
+<p>6. Ha parlato al signor Conte sopra il particolare <lb/>
+del cominciar del tempo, et l’ha <lb/>
+ritrovato, che intende sia dal giorno <lb/>
+della mostra di cadauna compagnia. </p>
+<p>7. Baron francese signor di Vellemur ha regolata <lb/>
+la sua dimanda, et invia la contratta-<lb/>
+ta instanza della ressolutione. </p>
+<p>8. Ha fatto lettere di cambio a signori Gio. e Filippo <lb/>
+Calandrini de ducati 1853 et de <lb/>
+altretanta somma al signor Guglielmo Vandeput. </p>
+<p>L. SS. R. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "7-" corrected above "3-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "andò" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "in un altro vassello" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Second "-i-" corrected above "-e-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" corrected above -"o", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "sue" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "prima" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

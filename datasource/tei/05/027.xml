@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.027 date 1617-12-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 168r-170v, 175r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 115) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp63-75)
+            </note>
+            <biblScope unit="page">166r-167v, 168r-170v, 175r-v, 171r-174v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he is sending a letter and reply by the States General to Venice. Encloses the alliance the States General has concluded with Hanseatic towns for Venice to see the conditions. Reports in cipher that he has attempted to obtain the treaties of alliances with France and England. According to Suriano, Maurice is preoccupied with religious issues. Reports that the Province of Holland does not want to undertake further action to satisfy the English ambassador. Troops have returned from service in Friuli and met a Scottish captain Seiton. French troops are not satisfied as they have not been paid. John Casimir Levenstein has still not left. Suriano concludes the letter by stating he has not received any letters from Venice and offers Christmas wishes. One text attached is the treaty between Hanseatic cities and States General: "L’accordo delle città ansiatiche con li Signori Stati Generali de’ Paesi Bassi"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-09">9 dicembre 1617</date>
+            <num>052, 053, 054</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="052" corresp="053" source="166r-167v" >
+<div type="main" facs="main text of attachment I" n="052" corresp="053" >
+<!--<p>Allegato I al n. 53 (cc. 166r-167v; decodifica di c. 168r-v)</p>-->
+<pb n="166r" facs="05_166r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="166v" facs="05_166v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="167r" facs="05_167r" rend="0"/>
+<p>Blank page</p>
+<pb n="167v" facs="05_167v" rend="0"/>
+<p>Blank page</p>
+</div>
+</div>
+<div type="letter" n="053">
+<div type="main" facs="main text of letter" n="053">
+<!--<p>9 dicembre 1617, L’Aia (cc. 168r-170v, 175r-v)</p>-->
+<pb n="168r" facs="05_168r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>se bene lunedì<ptr target="#tn1" n="1"/> passato con le lettere mie prime inviai <lb/>
+alla Serenità vostra <hi rend="decoded">la</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">risposta delli signori Stati Generali alle mie <lb/>
+propositioni</hi> et quanto havevo cavato <lb/>
+dal particolare <hi rend="decoded">toccante</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">il desiderio, che si ha da questa <lb/>
+parte di unirsi con la Serenità vostra</hi>: in ogni modo ho stimato <lb/>
+bene d’inviar colle presenti la replica delle medesime lettere et <lb/>
+<hi rend="decoded">risposta</hi><ptr target="#tn4" n="4"/>. Sarà anco aggiunta la traduttione <lb/>
+dal fiamingo dell’aleanza, che questi signori hanno con le <lb/>
+città ansiatiche per quelli delle Signorie vostre eccellentissime che havessero <lb/>
+curiosità di veder il termine, et la forma con che è detata <lb/>
+et si presta il giuramento; come anco per li titoli, che si dano <lb/>
+ai signori Stati Generali. Ho tentato di <hi rend="decoded">haver</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">quelle di Francia, et d’Inghilterra, et <lb/>
+sono dietro, se potrò haverle, le manderò. <lb/>
+Ma scrissi riverentemente alla Serenità vostra in <lb/>
+sostanza il loro contenuto. Di questo negotio di <lb/>
+aleanza non me n’è stato più espressamente <lb/>
+parlato da alcuno; ben essendomi trovato <lb/>
+col signor Vandermil, mi adimandò quando mi <lb/>
+sarebbe venuta la risposta, et fece il <lb/>
+conto, che non poteva esser, che per la metà <lb/>
+in circa del mese venturo;</hi>
+<pb n="168v" facs="05_168v" rend="0"/>
+<hi rend="decoded">et mi parlò con i <lb/>
+medesimi sensi del signor Bernvelt, et di lui, che <lb/>
+haveva fatto per il passato. <lb/>
+</hi></p>
+<p><hi rend="decoded">Io non puote vedere il signor principe Mauritio, che <lb/>
+dopo l’ispeditione dell’ordinario passato. Sua Eccellenza si <lb/>
+compiacque, che li signori Stati si fossero aperti <lb/>
+della maniera, che havevano fatto; dicendo <lb/>
+credo, che anco prima ciò sarebbe seguito, <lb/>
+se questi intricchi di religione, et di <lb/>
+contese non l’havessero vietato; et reppli-<lb/>
+comi de’ concetti; che anco altre volte <lb/>
+mi ha detti, et io ho significati a <lb/>
+vostra Serenità, che l’unione sia il vero <lb/>
+rimedio per ostare all’inimico commune. <lb/>
+</hi></p>
+<p>Trovai l’Eccellenza sua assai imersa nei pensieri per questa contesa <lb/>
+nel Paese, et mi disse, che sperava pure, che in fine <lb/>
+si troverebbe rimedio; ma il signor conte Guglielmo mi conferì <lb/>
+avanti hieri, che temeva, che ne anco in questa <lb/>
+Congregatione Generale dell’Holanda si fosse per terminar <lb/>
+il negotio perché le parti stano dure, et constanti <lb/>
+et non era possibile trovar così tosto una modificatione <lb/>
+propria. </p>
+<p>Hieri solamente hanno cominciato a ridursi li deputati delle <lb/>
+città di questa ia nella cui assemblea si <lb/>
+sono trovati il signor principe Mauritio, et il detto conte </p>
+<pb n="169r" facs="05_169r" rend="0"/>
+<p>Guglielmo. </p>
+<p>Doppo che il signor Bernvel ritornò all’Haya non è uscito, che <lb/>
+da quattro, o cinque giorni in qua <lb/>
+andando nell’assemblea <lb/>
+dei Stati, et nel consiglio di Holanda; et questo si aspettava <lb/>
+che facesse, non volendo entrar in alcun congresso publico, <lb/>
+che prima la più gran parte dei deputati della ia <lb/>
+non fossero ragunati. Hora si starà a vedere quello <lb/>
+ne seguirà, poiché nella ragunanza di detta provincia <lb/>
+dicono, che la più gran parte de’ voti sia del partito <lb/>
+degl’arminiani, che vuol dire del signor Bernvel; ma in <lb/>
+ogni modo gl’altri si fano forti, che non sia per succeder <lb/>
+cosa alcuna a contento di quelli. </p>
+<p>Par che quelli della medesima ia di Holanda <lb/>
+siano risoluti con le adherenti di non proceder più oltre <lb/>
+a sodisfattione del signor ambasciator d’Inghilterra di quello, che si è <lb/>
+fatto con la supressione, et difesa della vendita del <lb/>
+libro contra la sua espositione dicendo, che tanto deve <lb/>
+bastare, et se bene mostrano le quattro ie <lb/>
+che vorrebbono, che l’Ambasciator havesse sodisfattione <lb/>
+nella sua instanza: tuttavia le altre tre stano <lb/>
+ferme, che non se ne facci altro; dicendosi di più, che <lb/>
+il far proclama in questa materia, il voler, che si <lb/>
+abbrucciano libri, et cose simili, sia un non so che, che
+<pb n="169v" facs="05_169v" rend="0"/>
+habbi del termine d’inquisitione: nome odiosissimo in questi <lb/>
+paesi; et che per essa in gran parte si sono sottrati dall’obe-<lb/>
+dienza di Spagna; et però non vogliono, che si metti a campo <lb/>
+cosa, che possi dar sospetto, riuscir di mala consequenza, <lb/>
+et possi causar qualche poco buona impressione nell’animo <lb/>
+del popolo, al quale si studia di non dar alcuna minima <lb/>
+causa di disgusto per non moverlo in humore. Di queste, <lb/>
+et altre cose si vano dicendo da quelli, che tengono il partito <lb/>
+arminiano. Non cessa però l’Ambasciatore di tentar l’essecutione, <lb/>
+et in sino parla in termine di protesto; ma le dette <lb/>
+ie di Holanda, Ourisel, et Utrechet si fermano <lb/>
+nel loro proposito; pensando, oltre quanto è detto, <lb/>
+che se passassero a maggiori dimostrationi sarebbe un <lb/>
+debilitar, o più tosto infringer la loro causa; et si fon-<lb/>
+dano, che espressamente la propositione dell’Ambasciatore non sta <lb/>
+sul generale; ma condescende al particolar contro arminiani <lb/>
+chiamandoli seditiosi, et tumultuarii; et che parli <lb/>
+assolutamente dello stabilir l’opinione di Gomaro. <lb/>
+Udendo l’Ambasciator questi sensi (et negatione tanto maggiore) <lb/>
+ancora si fa il suo disgusto. </p>
+<p>Tra queste truppe francesi si sente qualche indoglienza <lb/>
+di esser mal pagate. Vorrebbono bene che sua Maestà christianissima <lb/>
+non le lasciasse senza li loro ricapiti; ma dall’altro canto
+<pb n="170r" facs="05_170r" rend="0"/>
+considerano, che havendo li signori Stati nelle guerre passate havuta <lb/>
+tanta, et sì grande assistenza dalla corona di Francia come <lb/>
+si sa doverebbono mostrarsi pronti a sodisfar al presente in <lb/>
+ricompensa, essendo sicuri, che stabilite il Re le cose in casa <lb/>
+sua contribuirà intieramente al debito, che haverà fatto con <lb/>
+queste ie: ma anco qui il peso li fa risentire <lb/>
+et si aggravano di dover continuare a sodisfar ad un <lb/>
+obligo, nel quale si è posta la Corona di mantener <lb/>
+queste sue<ptr target="#tn6" n="6"/> truppe a difesa del Paese. </p>
+<p>Sono ritornati diversi, che hanno servito vostra Serenità in Friuli <lb/>
+et in particolare il capitan Seiton Scocese, ch’è stato del <lb/>
+numero dei riformati dal già conte Gio. Ernesto è venuto <lb/>
+a visitarmi, et meco si è doluto della riforma fatta <lb/>
+et che a lui habbi toccato questo incontro, dicendo <lb/>
+esser riuscito contra suo gusto perché desiderava servir <lb/>
+ancora la Serenità vostra; ma più, che li dispiaceva, che <lb/>
+meno era stato ringratiato della buona volontà, che <lb/>
+haveva mostrata nel servirla. Io ho usato con lui <lb/>
+quei termini di complimento, che ho stimati proprii <lb/>
+per renderlo. Quanto mi è stato possibile contento <lb/>
+et sicuro, che nelle Signorie vostre eccellentissime sarà sempre viva <lb/>
+la memoria di chi l’ha servita. Non vi è pur uno <lb/>
+che dica altrimenti se non che vostra Serenità ha pagato molto
+<pb n="170v" facs="05_170v" rend="0"/>
+bene; ma che è mal servita per mancamento d’ordine, <lb/>
+et difetto di poco buona intelligenza tra i capi: concetti vecchi <lb/>
+et già intonati più volte da questa parte. Spero che la Serenità vostra <lb/>
+coll’aiuto di sua christianissima Maestà hora ne sarà libera colla pace. </p>
+<p>Non è partito ancora il conte Gio. Casimiro di Levenstein, et già <lb/>
+poco mi ha fatto dire, che questa sera vuol venire a cena <lb/>
+con me per prender licenza, et andarsene diman mattina. <lb/>
+Per quanto ho potuto penetrare parmi, che habbi tentato <lb/>
+appresso il signor principe Mauritio di haver promessa di una <lb/>
+compagnia di cavalli in questi paesi; quando sia costì <lb/>
+terminata la guerra, et che habbi havute più buone <lb/>
+parole, che certezza. Havendo col mezo del Quingetti <lb/>
+prima che falisce havuta una lettera di cambio di mille <lb/>
+ottocento fiorini da pagarseli in Colonia, accordata con un <lb/>
+altro mercante, che glie l’ha confirmata doppo ’l fallimento <lb/>
+sudetto, mi viene detto, che, essendo senza denari, come <lb/>
+era anco l’altra volta, che fu qui, ha mandato a Delft <lb/>
+per procurar di cavar di là il denaro con perdita di qualche <lb/>
+summa a fine di potersi disempegnar dall’hosteria. </p>
+<p>Il Quingetti sta ancor retirato, et il Vandembergh prigione, et li creditori del conte di Levenstein sperano tuttavia <lb/>
+che vostra Serenità non haverà esborsato alcun denaro col successo <lb/>
+di questi intrichi;<ptr target="#tn7" n="7"/> così esser essi un giorno sodisfatti </p>
+<pb n="175r" facs="05_175r" rend="0"/>
+<p>Non accusai col passato dispaccio ricevuta di lettere della <lb/>
+Serenità vostra non me ne havendo portato il messaggiero d’allhora <lb/>
+né quello di questa settimana<ptr target="#tn8" n="8"/> è ancor comparso. </p>
+<p>A vostra Serenità, et alle Signorie vostre eccellentissime con ogni più vivo affetto augu-<lb/>
+ro felici le santissime feste del Natale; et felicissimo l’ingresso <lb/>
+dell’anno nuovo a grandezza, et essaltatione maggiore di <lb/>
+quel serenissimo Dominio. Gratie etc. </p>
+<p>Dall’Haya a’ 9 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="175v" facs="05_175v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="053">
+<!--
+<p n="175vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 decembre 1617 ricevute a’ 27 detto </p>
+<p>Haya </p>
+<p>1 Vandermil fa conto che la risposta <lb/>
+venghi da signori per la metà di settembre. </p>
+<p>2 Mauritio si compiace che li Stati <lb/>
+si siano aperti; sono sospeso per le <lb/>
+contese a paesi. </p>
+<p>3 Nella Dieta arminiani si <lb/>
+teme prevaglino de’ voti; né <lb/>
+pare si senti di gratificar <lb/>
+l’Ambasciator inglese d’avantagio <lb/>
+dell’operato. </p>
+<p>4 Indoglienza delle truppe <lb/>
+francesi per non esser pagate. </p>
+<p>5 Lamentationi delli officiali che <lb/>
+ritornano dal servitio di sua Serenità. </p>
+<p>6 Levestein<ptr target="#tn9" n="9"/> partitioni doi <lb/>
+ha tentato una compagnia di cavalli di <lb/>
+Mauritio ritornando, ma non ha <lb/>
+riportato che parole, et li suoi <lb/>
+creditori stimano non poter mancarli <lb/>
+il suo et che non si sono pagate <lb/>
+col Quingenti de sua Serenità le lettere inteso <lb/>
+il suo fallimento. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="054" corresp="053" source="171r-174v" >
+<div type="main" facs="main text of attachment II" n="054" corresp="053" >
+<!--<p>Allegato II al n. 53 (cc. 171r-174v)</p>-->
+<pb n="171r" facs="05_171r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya di 9 decembre 1617 </p>
+<p>L’accordo delle città ansiatiche con li signori Stati Generali <lb/>
+de’ Paesi Bassi </p>
+<p>Li Stati Generali delle Provincie Unite de’ Paesi Bassi etc. fanno sapere <lb/>
+a qualunque si sia a cui appartenirà, che fra loro, et il commune <lb/>
+da una parte; et l’honorevoli città ansiatiche dall’altra è stata <lb/>
+firmata un’aleanza, et amichevole accordo del tenore, che <lb/>
+segue di parola in parola. </p>
+<p>Si come per tempo imemorabile appartengono alla general Aleanza <lb/>
+ansiaticha non solamente le città orientali sopra il mare di Levante, <lb/>
+con le dipendenti di Wezel, Oder, Elbee, et Weeser; ma <lb/>
+similmente molte città de’ Paesi Bassi del Mar settentrionale, et <lb/>
+meridionale, et insieme le contigue della Mase<ptr target="#tn10" n="10"/>, Wale, Reno, <lb/>
+Issele, et altre acque, et fiumi, che entrano nel Mar settentrionale, <lb/>
+et meridionale, che sono state con le altre in una stabil unione, <lb/>
+et amicitia, et hanno unitamente ottenuto per meriti, et contratti <lb/>
+diverse imunità, dritti<ptr target="#tn11" n="11"/>, et privilegi dentro li regni circonvicini, <lb/>
+et molti altri paesi; così le medesime di commune consiglio, potere, <lb/>
+et forza alcuna volta con armi difensive si sono difese, et <lb/>
+conservate nel suo esser, ancorché le città ansiatiche dei Paesi <lb/>
+Bassi per corso di tempo, et lunghe guerre, altre per qualche mal <lb/>
+intendente nelle concorrenze delle communi città ansiatiche <lb/>
+interessate, che fanno insieme, come anco per esser impedite <lb/>
+dalle lor proprie gravezze non hanno potuto contribuir all’<lb/>
+impositioni della commune aleanza, et ciò ha causato un <lb/>
+rompimento, et departimento d’insieme da qualche lor <lb/>
+vicini; da che n’è nato, che sono stati interessati, et han ricevuto danno <lb/>
+nella libera navigatione, comercio, et trafico; et in <lb/>
+altre sono stati mal trattati. Hora sono stati mossi, et <lb/>
+necessitati consigliar con qual mezo, et via (appresso Dio) po-<lb/>
+trebbono oviare al mancamento et mantenir, et stabilire la loro
+<pb n="171v" facs="05_171v" rend="0"/>
+commune franchigia dritto, et franchigia. Vedendo, che nel corso degl’<lb/>
+anni la più parte delle città ansiatiche sono concorse a congiongersi <lb/>
+all’illustri potenti signori Stati de’ Paesi Bassi; amembrate nel medesimo stato <lb/>
+non volendo esser trattate in particolare ma unitamente, et stabilmente <lb/>
+col mantenimento delle loro alte potestà a proprio profitto, et <lb/>
+vantaggio, essendo il tutto stato per qualche anno avvisato <lb/>
+con maturo consiglio da tutte le parti;<ptr target="#tn12" n="12"/> cominciato ciò <lb/>
+in diverse communicationi per lettere, et deputati finalmente è stato <lb/>
+stabilito, et concluso dalli borgomastri, conseglio del franco, <lb/>
+et dalle dette città del santo Imperio, et dagl’alti, et potenti <lb/>
+signori li Stati Generali delle Provincie Unite nel mese di maggio <lb/>
+1613. Onde è seguito, che doppo maturo, et lungo consiglio <lb/>
+gl’alti, et potenti signori li Stati Generali hanno col mezo delli <lb/>
+medesimi deputati insieme con le honorevoli città ansiatiche <lb/>
+di Levante; et le honorevoli città ansiatiche di Levante <lb/>
+con gl’illustri, et potenti signori Stati Generali sudetti rinovata <lb/>
+l’antica unione, et amicitia, unendosi insieme amichevolmente <lb/>
+et fermamente in questi punti, et articoli stabiliti, et conclusi. </p>
+<p>1. Primieramente questo accordo, et unione non sarà per offender alcuna <lb/>
+ma solamente per la conservatione, et mantenimento della libera navi-<lb/>
+gatione, negotiatione, et trafico sopra il Mar orientale, et setten-<lb/>
+trionale; così di flussi, riviere, et acque, che scorrono nei detti <lb/>
+mari, et non sarà in alcun’altra maniera si sia. Di modo che <lb/>
+respettivamente li borghesi, habitanti, et sudditi staranno, et <lb/>
+reteniranno li dritti, et privilegi accostumati sopra il Mar <lb/>
+orientale, et settentrionale sino ai limiti; et in oltra<ptr target="#tn13" n="13"/> sopra <lb/>
+li detti flussi, riviere, et acque, et useranno di esse senza <lb/>
+esser danneggiati; et contra quelli, che con forza, o altro <lb/>
+unico mezo apporteranno nocumento ai detti borghesi, <lb/>
+habitanti, et sudditi, o turberanno nel loro possesso qualche-<lb/>
+duno degl’uniti, li reuniti con pari mani li difenderanno, et
+<pb n="172r" facs="05_172r" rend="0"/>
+aiuteranno in maniera, che levate molte gran cariche, che tendino all’<lb/>
+oppressione, et danno dei borghesi, habitanti, et sudditi predetti <lb/>
+la medesima navigatione, et comercio per il sant’Imperio, per tutta l’<lb/>
+Alemagna et regni<ptr target="#tn14" n="14"/> vicini, et paesi nominatamente habbi per <lb/>
+gl’uniti ad esser augumentato, et più profitevole. </p>
+<p>2. Per questa unione non sarà parimente pregiudicato all’amicitia della <lb/>
+Maestà imperiale, né del sant’Imperio; né meno alle maestà di Francia <lb/>
+et della Gran Bertagna; come né anco agl’elettori evangelici del <lb/>
+sant’Imperio mantenuta fino al presente con li signori Stati; come anco con <lb/>
+le honorevoli città ansiatiche, che sino a quest’hora sono state sotto <lb/>
+la guardia, protettione, et soggiettione della Maestà imperiale, et del <lb/>
+sant’Imperio, nel che staranno et si conserveranno. Parimente <lb/>
+cadauna città, che haverà superiore subalterno prenderà, et <lb/>
+riceverà da lui in ogni tempo il suo dritto, et giustitia, restando <lb/>
+li loro dritti, ordinanze, et prerogative nel loro intiero, et <lb/>
+pieno vigore non sminuiti, né debilitati salvo solamente quanto <lb/>
+toccante alla presente confederatione. </p>
+<p>3. Gl’uniti manteniranno, et affermeranno per sacramento, et fedelmente <lb/>
+questi articoli. </p>
+<p>4. Li signori Stati Generali esshibiranno del miglior modo, che potranno <lb/>
+questa confederatione al commune degl’uniti; in maniera <lb/>
+che in tutto quello, che si farà haverà cadauna delle parti a <lb/>
+dar libero voto. Al qual fine potrà esser nell’Haya, o dove <lb/>
+li signori Stati si congregaranno qualcheduno delle città ansiatiche di <lb/>
+Levante nel conseglio, nel quale si tratterà cose attinenti alla presente <lb/>
+unione; o di quello che ne dipende; et li signori Stati potranno met-<lb/>
+ter alcuni, et commetterli a Lubech, overo dove la necessità, et <lb/>
+occasione lo ricercarà, con quali li consigli potranno meglio <lb/>
+communicare, et trattar quello, che farà bisogno. </p>
+<p>5. Gl’uniti con ogni debita maniera, et ordine teniranno pre-<lb/>
+parate le contributioni per quello che saranno stabilite<ptr target="#tn15" n="15"/>; et
+<pb n="172v" facs="05_172v" rend="0"/>
+tanto quanto cadauno sarà debitamente adiudicato, et ciò a proprie spese <lb/>
+tanto per il denaro, vasselli, genti a cavallo, et da piedi<ptr target="#tn16" n="16"/> si tro-<lb/>
+verà<ptr target="#tn17" n="17"/> ai luochi, ove sarà necessario non altrimenti di quello, che più <lb/>
+a basso nella conclusione viene espresso, et saranno<ptr target="#tn18" n="18"/> le dette città <lb/>
+ansiatiche tenute, essendovi dichiariti li loro nomi, contributi, et <lb/>
+oblighi. </p>
+<p>6. Se in caso, che quelli per li quali il comercio, et la navigatione <lb/>
+saranno dannificati, et sarà contravenuto alli detti privilegii <lb/>
+et accordi doppo una previa, et amorevol instanza non vorranno <lb/>
+dar d’orecchio a quello, che la ragione, et il debito ricerca si <lb/>
+procederà con forze difensivamente contra quelli della maniera <lb/>
+appunto colla quale si fa questa unione, che è perché li privi-<lb/>
+legi navigationi, et negotiationi possino esser franchiti, et assicurati <lb/>
+et venendo il caso, che ad una, o ad un’altra città per quello <lb/>
+che generalmente, o particolarmente spetta a questa unione fossero<ptr target="#tn19" n="19"/> intor-<lb/>
+bidati li sudetti privilegii; o altramente ricevesse interesse <lb/>
+sarà a quella data ogni fedel assistenza per rimover, et <lb/>
+opponer al torto fatto, et riparar il danno ricevuto. </p>
+<p>7. Et dove per la voce dell’uno, et dell’altro partito si venisse <lb/>
+all’armi gl’uniti prohibiranno ai loro borghesi, habitanti, et <lb/>
+sudditi tanto soldati, che marinari non aiutar in maniera <lb/>
+alcuna la parte adversa sotto pena della perdita della vita, <lb/>
+et dei beni. Come anco prohibiranno alli medesimi di non <lb/>
+dar alla detta parte denaro, genti, vasselli, munitioni, armi, <lb/>
+viveri, et cose simili sotto pena di corporal punitione; anzi <lb/>
+impediranno in quanto sarà loro possibile, che questo meno sia <lb/>
+fatto col mezo d’altri. </p>
+<p>8. Se in caso, che<ptr target="#tn20" n="20"/> li sudditi dei reuniti, vasselli, beni, debiti <lb/>
+dovuti fossero dall’inimico nel suo Paese arrestati, o trattenuti <lb/>
+in mare, transportati, o dati alla preda, altrettanto si farà dentro <lb/>
+li paesi riuniti, città, et sudditi, et saranno difesi contra chi si sia. </p>
+<pb n="173r" facs="05_173r" rend="0"/>
+<p>9. Li vasseli dei reuniti si serviranno parimente delli porti, et flussi<ptr target="#tn21" n="21"/> liberamente<ptr target="#tn22" n="22"/> <lb/>
+così dell’uno, come dell’altro, et là prenderanno quello, che li sarà necessario <lb/>
+et si ripareranno con questo, che persona non facci forza; ma prendino ciò <lb/>
+che haveranno bisogno pagandolo con ringratiamento. </p>
+<p>10. Sarà parimente commune il dritto dei borghesi ai sudditi delli uniti in tutti <lb/>
+li paesi, e città della detta Unione; come parimente riceveranno l’heredi-<lb/>
+tà, nella quale haveranno il dritto senza rifiuto salvo il trentesimo <lb/>
+o decimo denaro dell’alienatione, secondo, che questo viene d’ordinario <lb/>
+accostumato, il tutto senza contesa<ptr target="#tn23" n="23"/> di religioni, come quelle che <lb/>
+sono mantenute, et permesse dal sant’Imperio: niente di meno cadauno <lb/>
+ove si troverà doverà star in qualità di borghese soggetto ai Statuti <lb/>
+del luoco. </p>
+<p>11. Alcuno degl’uniti senza il consenso, et volontà degl’altri non <lb/>
+potrà condursi ad accordar con la parte adversa, o altrimenti trattar <lb/>
+cosa, che possi esser d’interesse o di danno alle parti; ma di <lb/>
+più tutti si sforzeranno, che la pace si conservi, et che fra gl’uniti <lb/>
+li borghesi, habitanti, sudditi, li loro vasseli, beni, et comercii <lb/>
+siano franchiti da cariche a fine che si possi pacificamente et sicuramente <lb/>
+perseverar nel godimento delle dette immunità, et privilegii. </p>
+<p>12. Parimente dove, et quando si farà<ptr target="#tn24" n="24"/> pace, o tregua con la parte adver-<lb/>
+sa, ciò habbi a seguire di commun consiglio, et non altrimenti. </p>
+<p>13. Questo accordo durerà dodici anni, et a piacere di ambedoi le parti <lb/>
+sarà continuato d’avantaggio. Se in rispetto di questo accordo, <lb/>
+et di tutto quello che dipende da esso alcuno degl’uniti fosse oppresso <lb/>
+et aggravato di qualche carica<ptr target="#tn25" n="25"/> ingionta tanto per acqua <lb/>
+che per terra l’uno porterà all’altro fedel aiuto, et soccorso contra <lb/>
+qualunque si sia. </p>
+<p>14. In caso, che qualche potentato, ia o città si volesse congionger a <lb/>
+questa Unione potranno esser ricevuti con ragionevoli, <lb/>
+et di commun consenso. </p>
+<p>15. In conformità di che si sono di questo accordo per gl’altri, et potenti
+<pb n="173v" facs="05_173v" rend="0"/>
+signori Stati, et le città unite ansiatiche fatte, et rancontrate diversi strumenti <lb/>
+conformi; inoltre doppo che dall’una, et dall’altra parte sarà stata <lb/>
+fatta relatione saranno per sacramento, et per sigilli pendenti debitamente <lb/>
+roborati. Così fu fatto nel mese di decembre nell’anno 1615. </p>
+<p>Et essendo questa unione, et accordo finalmente stato esshibito alle dette <lb/>
+città ansiatiche sotto la data di questo giorno, dandoci la nota <lb/>
+fermata col loro gran sigillo, et sacramento inviato per il thesoriero <lb/>
+con potente auttorità, la quale ha portata innanti di noi, et <lb/>
+presentata, promettendo de la far a parer tale<ptr target="#tn26" n="26"/>, et deponerla sicuramente. <lb/>
+Per questo noi dal canto nostro habbiamo accordato, et appro-<lb/>
+bato come accordiamo, et approbiamo con queste la detta unione; <lb/>
+et col mezo delle presenti promettiamo tenerla ferma et stabile <lb/>
+in tutti li suoi punti, clausole, et articoli; come anco di contri-<lb/>
+buir all’aiuto, et contributione accordata, et tante volte dare, <lb/>
+et contribuir cento quando quelli di Lubech contribuiranno <lb/>
+cinque et mezo, Bremen uno et mezo, Rostoch, et Straelsmid <lb/>
+Magdemburgh, et Lunenburgh cadauno uno, Amburg tre, <lb/>
+et mezo. Bransuich doi, <lb/>
+Educh per sei anni seguenti <lb/>
+solamente uno; et allhora Wismaer, et Griephvvelt <lb/>
+un mezo. A fine di che noi per la parte nostra <lb/>
+habbiamo similmente constituito, et incaricato, come facciamo ancora <lb/>
+col mezo delle presenti il nobile, et prudente huomo signor Giacomo <lb/>
+Bourmania presente nella nostra assemblea, et presidente che <lb/>
+giurerà sopra le nostre anime, che noi teniremo, et osservaremo <lb/>
+salda, et stabile la detta unione in tutti li suoi punti, clau-<lb/>
+sole, et articoli; così Dio ci aiuti. Il tutto con sincerità, et <lb/>
+senza fraude. In conformità di che habbiamo munita <lb/>
+la notula di questa unione con il nostro gran sigillo pendente <lb/>
+et colla sottoscrittione del secretario nostro. Fatta nella nostra <lb/>
+assemblea nell’Haya a’ 13 del mese di giugno 1616. </p>
+<pb n="174r" facs="05_174r" rend="0"/>
+<p>Seguitano li giuramenti. </p>
+<p>Io prometto, et giuro al nome, et sopra le anime degl’alti, et <lb/>
+potenti signori Stati Generali delle Provincie Unite de’ Paesi Bassi <lb/>
+conforme all’ordine, et auttorità a me in questo proposito data <lb/>
+che delle loro alte potestà unite, et separate sarà<ptr target="#tn27" n="27"/> stabile, <lb/>
+ferma, et irrevocabilmente mantenuto in tutti li suoi punti, <lb/>
+clausole et articoli il trattato di unione, et d’accordo con <lb/>
+le honorevoli città ansiatiche Lubech, Bremen, Amburgh, <lb/>
+Rostoch, Maelsmid, Wismaer, Magdemburgh, Bransuich <lb/>
+Lunebourgh, et Gryphswald nel giorno d’hoggi esshibito, et <lb/>
+sigillato; et lo manteniranno senza fraude, o inganno. Così <lb/>
+Dio li aiuti. </p>
+<p>Il sudetto sacramento fu prestato in questa forma nell’assemblea delli <lb/>
+alti, et potenti signori Stati Generali delle Provincie Unite alla presenza <lb/>
+de’ signori deputati di detti paesi uniti nella detta assemblea a’ 14 <lb/>
+di giugno 1616. </p>
+<p>Io prometto, et giuro a nome, et sopra l’anima dei signori borgomastri, <lb/>
+et conseglieri delle città di Lubech, Bremen, Amburg, Rostoch, <lb/>
+Straelsmid, Wismal, Mademburgh, Bransuich, Lunemburgh, et <lb/>
+Griepswald in conformità dell’ordine, et piena auttorità <lb/>
+datami in questo proposito, che essi unitamente, et cadauno di <lb/>
+essi con buona fede, et senza inganno manteniranno, et <lb/>
+conserveranno l’unione, et accordo con gl’alti, et potenti <lb/>
+signori Stati Generali delle Provincie Unite de’ Paesi Bassi hoggi <lb/>
+mostrata, et con sigillo confermata in tutti li suoi punti <lb/>
+clausole, et articoli. Così Dio li aiuti. </p>
+<p>Il sacramento è stato in tal forma fatto, et prestato nell’<lb/>
+assemblea delli potenti signori li Stati Generali delle Provincie <lb/>
+Unite de’ Paesi Bassi nella presentia de’ signori deputati di <lb/>
+dette città ansiatiche alli 14 di giugno 1616. </p>
+<pb n="174v" facs="05_174v" rend="270"/>
+<p>Consideratione de’ signori Stati <lb/>
+con le città ansiatiche </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "lunedì" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "la … propositioni" added above the encrypted text.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "toccante … vostra" decoding of the encrypted text can be found on c. 166r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "risposta" added above the encrypted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "haver … commune" decoding of the encrypted text can be found on c. 166r-v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "non è" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "essen" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Alemagna … regni" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line on "concesse" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "–nno" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "tante" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "per al" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "con" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line on "differenza" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "stabilita" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "a parer tale" added above "far" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "-nno" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

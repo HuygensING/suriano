@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.011 date 1618-08-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Renzo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 64r-65v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">64r-65v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>He reports about the imprisonment of Oldenbarnevelt, who was on his way to the assembly of States of Holland when he was arrested on orders of States General. Grotius and Hogerbeets have also been arrested. These arrests took place between 9 and 10 o’ clock, and around 12 two deputies of States General visited Suriano to inform him of these arrests. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-29">29 agosto 1618</date>
+            <num>023</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="023">
+<div type="main" facs="main text of letter" n="023">
+<!--<p>29 agosto 1618, L’Aia (cc. 64r-65v)</p>-->
+<pb n="064r" facs="07_064r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 56 sola </p>
+<p>Serenissimo Principe </p>
+<p>hoggi terzo giorno scrissi alla Serenità vostra quanto allhora mi occorrerà <lb/>
+et ispedii le lettere per la via d’Amsterdam, et hiersera di là dovevano <lb/>
+passar in Colonia. Hora havendomi assicurato il messaggiero <lb/>
+d’Anversa, che arriverà per venerdì in quella città a tempo <lb/>
+dell’ordinario per Italia, stimando degno della notitia di <lb/>
+lei l’avviso<ptr target="#tn1" n="1"/>, che mi occorre di darle, per questo le faccio <lb/>
+le presenti; et è delle retentione di monsignor Bernvel<ptr target="#tn2" n="2"/> <lb/>
+et delli pensionarii, o sindici delle città di Roterdam, et di Leidem. <lb/>
+Era questa mattina uscito monsignor Bernvel per andar nell’<lb/>
+assemblea della provincia d’Holanda<ptr target="#tn3" n="3"/>, entrato dentro al<ptr target="#tn4" n="4"/> cortile<ptr target="#tn5" n="5"/>, <lb/>
+se li presentò un gentilhuomo del signor principe Mauritio, <lb/>
+che li disse, che si contentasse di salir alle<ptr target="#tn6" n="6"/> stanze<ptr target="#tn7" n="7"/> di sua Eccellenza <lb/>
+come fese<ptr target="#tn8" n="8"/>, ove arrivato, il Capitano<ptr target="#tn9" n="9"/> dell’armi gli disse; <lb/>
+che teneva ordine dalli signori Stati Generali di trattenerlo: <lb/>
+al qual atto restò esso Bernvel molto confuso, et dimandò <lb/>
+più d’una volta s’era sua Eccellenza, o pur se erano li Stati <lb/>
+che havevano commandato il trattenerlo; a cui fu repli-<lb/>
+cato, che questi l’havevano<ptr target="#tn10" n="10"/> commandato. In un istesso <lb/>
+tempo fu fatto chiamare<ptr target="#tn11" n="11"/> il Grotius pensionario di <lb/>
+Roterdam, et l’Ogherbes<ptr target="#tn12" n="12"/> pensionario di Leidem, ch’erano <lb/>
+dentro all’assemblea d’Holanda; et ambidoi furono <lb/>
+della medesima maniera arrestati; ma ognuno di essi <lb/>
+in luochi separati. Questa retentione è successa questa
+<pb n="064v" facs="07_064v" rend="0"/>
+mattina<ptr target="#tn13" n="13"/> tra le nuove<ptr target="#tn14" n="14"/>, et dieci hore, et al mezogiorno alle <lb/>
+dodici sono venuti a me doi deputati de’ signori Stati Generali <lb/>
+per darmene<ptr target="#tn15" n="15"/> parte. Dicendo che sue Eccellenze per continuatione <lb/>
+della loro confidenza con la serenissima Republica havevano mandato <lb/>
+a me, come a suo ministro per communicarmi, che <lb/>
+havendo già gran tempo pentrato<ptr target="#tn16" n="16"/> machinarsi qualche <lb/>
+cosa contra<ptr target="#tn17" n="17"/> il servitio, la quiete, et la libertà di <lb/>
+queste Provincie con diligente consiglio, et maturo<ptr target="#tn18" n="18"/> discorso <lb/>
+havevano<ptr target="#tn19" n="19"/> trovato, che li principal machinatori fossero <lb/>
+monsignor Bernvel, et li doi pensionarii di Roterdam, et <lb/>
+Leidem erano venuti in deliberatione per meglio assi-<lb/>
+curarsi di far trattenere li tri sudetti, et che li signori <lb/>
+Stati communicando questo tanto agl’altri ministri de’ <lb/>
+principi appresso loro residenti, havevano voluto che in <lb/>
+un medesimo tempo io ancora ne havessi parte, perché <lb/>
+fossi certo che fondatamente era stata era stata fatta la sudetta <lb/>
+essecutione, et perch’io potessi esser avvertito quando <lb/>
+sentissi parlar diversamente; che poi li signori Stati oppor-<lb/>
+tunamente haverebbono in più ampia maniera fatte <lb/>
+apparer le ragioni, et le cause di detta retentione. <lb/>
+Io dissi al signor Magno uno de’ deputati, che si compiacesse <lb/>
+di ringratiar li signori Stati Generali della communicatione <lb/>
+et che come ministro della serenissima Republica a me toccava
+<pb n="065r" facs="07_065r" rend="0"/>
+il desiderar la quiete di questi popoli, l’unione di que[ste]<ptr target="#tn20" n="20"/> <lb/>
+Provincie, et la conservatione della loro libertà; et che […]<ptr target="#tn21" n="21"/> <lb/>
+fosse divertito ogni mal humore che si<ptr target="#tn22" n="22"/> trovasse tra essi, et <lb/>
+in esse che potesse prevertire<ptr target="#tn23" n="23"/> questo<ptr target="#tn24" n="24"/> buon<ptr target="#tn25" n="25"/> <lb/>
+effetto: et con questa general risposta partirono da me <lb/>
+li sudetti signori sodisfatti. È restato l’universale commosso <lb/>
+da questo accidente, et ognuno al presente parla secondo che <lb/>
+gli è dettato dalla propria passione. Fin qui non si sa di <lb/>
+vantaggio. Col prossimo ordinario avviserò riverente la Serenità vostra <lb/>
+di quello di più, che stimerò degno della notitia sua; non <lb/>
+havendo, né mi dando commodità il messaggiero di poter <lb/>
+penetrar altro, aspettando solo il serrar delle presenti per partire. Gratie etc. </p>
+<p>Dall’Haya a’ 29 agosto 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotisimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="065v" facs="07_065v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 56<ptr target="#tn26" n="26"/> sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="023">
+<!--
+<p n="065vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29<ptr target="#tn27" n="27"/> agosto 1618 ricevute 12 settembre </p>
+<p>Haia. n° 56 sola </p>
+<p>Retentione del Bernvel et <lb/>
+altri. </p>
+<p>Ufficio fatto per nome di signori <lb/>
+Stati per tal causa. </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-is" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by crossed-out words.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by -"la bassa" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-ile" corrected above -"e."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-i-" corrected above "-a-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-s" corrected above -"e", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "M-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> -"e-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-o" corrected above "-a"; followed by -"to" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-an-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Damaged page.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Damaged page.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-s" corrected above -"v", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-o" corrected above -"a."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Is the result of a correction; followed by a crossed-out word.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-6" corrected above -"5."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Added in the interlinear space below "26" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.093 date 1621-02-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">093</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 465r-468v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp566-583
+            </note>
+            <biblScope unit="page">465r-468v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reiterates the firm intention of the Dutch to double their troops and consult with admiralties and arm 50-60 ships. No ships is allowed to leave when its destination and cargo are unknown, the Spanish are arming 12 war ships at Duinkerke. No decision has been taken about war ships in the Mediterranean. English extraordinary ambassadors for HRE have arrived in The Hague, Suriano has paid them a visit. Lormes has returned to the Hague and requests money for his journey to Venice. Reports he has spoke to Maurice about Battino Natale Corso, he is a good soldier </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-02-23">23 febbraio 1621</date>
+            <num>142</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="142">
+<div type="main" facs="main text of letter" n="142">
+<!--<p>23 febbraio 1621, L’Aia (cc. 465r-468v)</p>-->
+<pb n="465r" facs="09_465r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 274 comincia 273 </p>
+<p>Serenissimo Principe </p>
+<p>non volendo mancar li signori Stati ad ogni più ferma sicurezza di queste <lb/>
+Provincie hanno risoluto, come avvisai colle mie ultime lettere n° 271<ptr target="#tn1" n="1"/> fin <lb/>
+272 che aggiungo replicate a queste, il doppio augumento delle <lb/>
+loro militie, et di più han fatti venir qui deputati di tutte le <lb/>
+Amiralità per consultar il modo col quale doverà assicurarsi le <lb/>
+cose della marina, et della navigatione. Pensano di voler <lb/>
+intratenir vasselli alla volta delle spiaggie di Gravelinghen <lb/>
+Doncherchen, et altrove ne’ luoghi sottoposti ai serenissimi arci-<lb/>
+duchi, et s’è terminato intartener a tal effetto più <lb/>
+di cinquanta, et più di sessanta vasselli armati, et che <lb/>
+doveranno esser pronti per li primi d’aprile tempo <lb/>
+alla spiratione delle tregue a fine di evitar qualche <lb/>
+mal incontro, et perché li traficanti passino sicuri nelle <lb/>
+loro negotiationi. </p>
+<p>In questo mentre quelli che hanno vasselli ad ordine per <lb/>
+sortir da questi porti non doveranno farlo prima di <lb/>
+aprile prossimo, ch’è tutto per veder ciò che riuscirà <lb/>
+della tregua. </p>
+<p>Inoltre è stato stabilito, che niun vassello potrà sortire, <lb/>
+che prima non si sappi ove habbi a diriger il suo camino, <lb/>
+qual carico porti, et dove haverà a far scala; et <lb/>
+quanto a polveri, balle, et altre amunitioni di guerra
+<pb n="465v" facs="09_465v" rend="0"/>
+ho inteso, che resta prohibita l’estrattione, il caso, et la <lb/>
+congiontura porta, che riesca la cosa conforme al desi-<lb/>
+derio, et mente della Serenità vostra. </p>
+<p>Tutte queste cose non fanno però venir in chiaro qual sia la <lb/>
+vera risolutione<ptr target="#tn2" n="2"/> da questa parte toccante la tregua <lb/>
+o per la prorogatione, o per il rompimento d’essa; basta <lb/>
+almeno che il signor principe d’Oranges per quello tocca alla <lb/>
+carica sua di generale per terra, et per mare non<ptr target="#tn3" n="3"/> manca <lb/>
+di dar ogni buon ordine, di far far ogni preparatione <lb/>
+conveniente, et tale come se havesse a farsi la guerra. </p>
+<p>Spagnuoli dall’altro canto a Doncherchen hanno ordinati <lb/>
+dodici vasselli a prepararsi in forma di vasselli da guerra <lb/>
+et si vanno mettendo ad ordine, sendo già qualcheduni <lb/>
+pronti, così sono avvisati li signori Stati. </p>
+<p>Per genti da guerra di cavallaria, et infanteria si confermano <lb/>
+li medesimi avvisi di levate dalla parte di Brabant, che <lb/>
+si sono havuti li giorni passati. </p>
+<p>Quanto alle navi da guerra di questi signori che sono nel Medi-<lb/>
+terraneo non si è fatta risolutione alcuna, né si <lb/>
+crede, che sarà fatta prima della riduttione di <lb/>
+Holanda, che sarà fra quindeci giorni; poiché <lb/>
+pensano anco governarsi secondo gl’accidenti,
+<pb n="466r" facs="09_466r" rend="0"/>
+considerando alcuni, che li signori Stati vorranno haver un <lb/>
+corpo d’armata maritima anco di là lo stretto quando <lb/>
+il caso porti, che si rompi la guerra, a fine di travagliar <lb/>
+lo Spagnuolo anco da quella parte quello che in <lb/>
+tante provisioni viene considerato da alcuni è la spesa <lb/>
+alla quale doveranno soggiacere, ma a questa doveranno <lb/>
+le Provincie, et le Amiralità provedere. </p>
+<p>Havendo questi signori mira particolare allo stato suo considerano <lb/>
+anco allo stato infermo dell’Alemagna, et con sentimento <lb/>
+proprio all’imbecilità di quei principi comiserano a <lb/>
+quell’interesse. Sentono sempre le nuove che di là <lb/>
+vengono con non poco scontento, perché sono contrarie <lb/>
+al desiderio loro, et al ben commune. La voce del bando <lb/>
+imperiale contro il Palatino, il principe d’Hanalt, et <lb/>
+altri adherenti (che vostra Serenità haverà già intesa) le spiace <lb/>
+in estremo; et se ben non è contra gl’altri principi <lb/>
+dell’Unione, l’imaginano, che non tarderanno ad haverne <lb/>
+anco quelli la parte loro: in tanto però non hanno lasciato <lb/>
+di incorraggiarli con lettere, et anco colle medesime hanno <lb/>
+ordinato ai loro ambasciatori in Inghilterra di far efficaci ufficii <lb/>
+con quella Maestà: perché non abbandoni quella <lb/>
+Provincia, et quei principi. </p>
+<pb n="466v" facs="09_466v" rend="0"/>
+<p>Li doi ambasciatori estraordinarii, che detta Maestà mandò in <lb/>
+Alemagna per la trattatione d’accordo con l’Imperatore, et col <lb/>
+Re palatino arrivorono qui hieri a sera da Amburgh <lb/>
+non haveranno audienza particolare nell’assemblea dei <lb/>
+signori Stati, poiché<ptr target="#tn4" n="4"/> non tengono lettere credentiali; ma si <lb/>
+crede, che in ogni modo l’Eccellenze loro non mancaranno <lb/>
+di far ogni ufficio con detti ambasciatori per li medesimi affari di <lb/>
+Alemagna. Io conforme al mio debito li ho visitati, <lb/>
+et dato ogni più certo testimonio come humil ministro <lb/>
+di vostra Serenità del rispetto che da lei è portato alla maestà <lb/>
+del loro Re, et da ambidoi sono stato corrisposto <lb/>
+con termine proprio, et affettuoso. Sono alloggiati in <lb/>
+casa del signor ambasciator Carleton, et credo, che partiranno fra <lb/>
+doi, o tre giorni. Uno di essi mi disse, che<ptr target="#tn5" n="5"/> havendo<ptr target="#tn6" n="6"/> <lb/>
+rimarcato in questo viaggio di Alemagna, et osservato <lb/>
+nelle negotiationi de’ Spagnuoli, et d’Austria, che <lb/>
+a niun’altra cosa si mirava più, che a portar il <lb/>
+tempo innanti, et avanzar con esso quello ch’era <lb/>
+della loro intentione,<ptr target="#tn7" n="7"/> come havevano unitamente <lb/>
+rappresentato questo al Re loro signore, così all’<lb/>
+arrivo<ptr target="#tn8" n="8"/> in Inghilterra non haverebbono mancato d’imprimerlo <lb/>
+con ogni sincerità nell’animo della Maestà sua. </p>
+<pb n="467r" facs="09_467r" rend="0"/>
+<p>Li doi ambasciatori destinati per passar a nome di questi signori ai principi <lb/>
+dell’Unione saranno ad ordine fra tre, o quattro giorni <lb/>
+per partire, quando altra risolutione non segua, che <lb/>
+li facci ritardar la partenza. </p>
+<p>Si trova qui quel visconte di Lormes, venuto doppo la disaven-<lb/>
+tura successagli per intender da me qual risolutione <lb/>
+era nella Serenità vostra per il negotio di quei vasselli di corso, et <lb/>
+s’io volevo, che andasse a Venetia, et volendolo <lb/>
+gli dassi commodità di denaro, et persona, che lo accom-<lb/>
+pagnasse<ptr target="#tn9" n="9"/>. Io credevo che l’ordinario mi portasse qualche <lb/>
+lettera, et ordine di lei in questo proposito, ma non <lb/>
+havendone havuto non so quello doverò far di lui. Egli <lb/>
+ricerca da me che lo licentii con una scrittura, che non farò, <lb/>
+o con altra maniera per la sua cautione, et scarico come <lb/>
+egli dice, né a tal cosa<ptr target="#tn10" n="10"/> devenirò, ma se vorrà andarsene <lb/>
+non<ptr target="#tn11" n="11"/> mi comparendo<ptr target="#tn12" n="12"/> cosa alcuna dalla parte di vostra Serenità <lb/>
+lascierò, che da sé stesso lo facci, in tanto se mi venirà <lb/>
+altro ordine lo essequirò in quella maniera che vedrò esser mente di lei. </p>
+<p>Dell’alfier Battino Natale corso parlai al signor principe d’Oranges <lb/>
+né sua Eccellenza mi seppe dir altro se non, che per l’instanza, ch’egli <lb/>
+le<ptr target="#tn13" n="13"/> ne haveva fatto lo haveva raccommandato all’eccellentissimo <lb/>
+Trivisano; che lo haveva conosciuto per buon soldato, ma che
+<pb n="467v" facs="09_467v" rend="0"/>
+non haverebbe potuto<ptr target="#tn14" n="14"/> dir, né<ptr target="#tn15" n="15"/> attestar di vantaggio alla Serenità vostra della <lb/>
+persona di lui; et ringratiò<ptr target="#tn16" n="16"/> vostra Serenità della stima <lb/>
+che mostrava far della sua raccommandatione aggiungendo<ptr target="#tn17" n="17"/> che altre volte <lb/>
+per nome di lei gli era stato offerto non seppe dir se sedici <lb/>
+o vinti ducati il mese, et che però ella poteva risolver <lb/>
+quello che stimasse proprio, et di suo servitio. Gratie etc. </p>
+<p>Dall’Haya li 23 febraro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="468r" facs="09_468r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="468v" facs="09_468v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 275<ptr target="#tn18" n="18"/> comincia 274<ptr target="#tn19" n="19"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="142">
+<!--
+<p n="468vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 febraro 1620<ptr target="#tn20" n="20"/> ricevute a’ 18 marzo 1621 </p>
+<p>Del segretario Suriano. n° 274 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-7-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "risolu-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "ha-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-o-" corrected above "-a-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "poiché" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-ndo" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes "gl" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "dir … né" added above the line with an insertion mark.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "la S(ereni)tà" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-5" corrected above "-4."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-4" corrected above "-3."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

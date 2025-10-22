@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.011 date 1617-10-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 66r-69v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">66r-69v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Since he is away from The Hague, he does not have a lot of news. He has warned the states about the activities of Alexander Rose, whom he thinks is renting ships for Osuna, advising them not to allow him to use ships. During his absence an unidentified individual in Amsterdam will report to States General about Rose. Continuation of suspicion against Oldenbarnevelt. Offered his condolences to Louise de coligny and William in Groningen for the death of John Ernst of Nassau. Request by Pasini for assistance. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Groningen</settlement>
+            <date when="1617-10-27">27 ottobre 1617</date>
+            <num>021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="021">
+<div type="main" facs="main text of letter" n="021">
+<!--<p>27 ottobre 1617, Groningen (cc. 66r-69v)</p>-->
+<pb n="066r" facs="05_066r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>vedendo non poter così prontamente essequir le commissioni <lb/>
+publiche intorno alla communicatione a’ signori Stati <lb/>
+Generali di quanto segue nel trattato della pace <lb/>
+per trovarmi quattro giornate discosto dall’Haya <lb/>
+oltre di questo volendo pur veder ridotto <lb/>
+a buon stato questa levata, et imbarco <lb/>
+et per rispetto della sanità delle genti, et per <lb/>
+altro, ho stimato di far con lettere quanto haverei <lb/>
+convenuto far<ptr target="#tn1" n="1"/> in voce: in ogni modo anco <lb/>
+in scrittura haverei convenuto esprimer li concetti, <lb/>
+et la mente della Serenità vostra onde ho ispedito all’<lb/>
+Haya facendo a’ signori Stati tutte quelle considerationi <lb/>
+che merita l’affar istesso, et particolarmente avverten-<lb/>
+doli di quell’Alessandro Rosa mercante, perché non <lb/>
+lascino, ch’egli si vagli de’ vasselli di questi <lb/>
+paesi in pregiudicio di vostra Serenità, et sperando poi esser <lb/>
+presto al luoco ordinario della mia residenza <lb/>
+supplirò al resto, che potesse venire. Intanto
+<pb n="066v" facs="05_066v" rend="0"/>
+non ho mancato di dar commissione a persona molto <lb/>
+capace, che hieri partì per Amsterdam, che s’informi <lb/>
+del detto Alessandro, et havendone alcun sentore lo <lb/>
+avvisi immediate a sua Eccellentia per mio nome <lb/>
+alla quale scrivo anco dello stesso, né manco con <lb/>
+questo ordinario di scriverne alli Calandrini perché <lb/>
+inquerischino, et starò quanto più sarà possibile <lb/>
+occulato per oppormi all’intrapresa di costui. </p>
+<p>Non havendo l’altra volta, che passai per di qua havuta <lb/>
+commodità di visitar li stati di questa particolar provincia <lb/>
+lo ho fatto hora, che vi sono ritornato, et oltre <lb/>
+il complimento, che ho stimato proprio, et il rendi-<lb/>
+mento di gratie per quanto hanno operato a <lb/>
+servitio di questa levata, ho loro per<ptr target="#tn2" n="2"/> <lb/>
+termine di confidenza detto quanto occorre <lb/>
+nel proposito della trattione della pace, di <lb/>
+quanto segue degl’humori del duca d’Ussuna <lb/>
+et in particolare per la missione del Rosa. Fu
+<pb n="067r" facs="05_067r" rend="0"/>
+aggradito l’ufficio con termine molto riverente et cortese; <lb/>
+et m’assicuro, che di tutto haveranno dato conto alli signori <lb/>
+Stati Generali. </p>
+<p>Anco qui suspettano male de’ Spagnoli, et se bene si <lb/>
+parla della pace d’Italia, et che corri voce, che <lb/>
+le truppe, che si levavano in Alemagna siano state <lb/>
+licentiate, et ciò venga scritto dall’Haya in ogni <lb/>
+modo dubitano del solito mal talento de’ Spagnoli <lb/>
+et che siano per spenderlo per guadagnar tempo <lb/>
+nel dar ad intender, et far il fatto loro. </p>
+<p>Dubitano grandemente delle cose proprie, et hanno per <lb/>
+contaminatissimo l’animo di monsignor Bernvel poiché <lb/>
+già mai si è voluto partir d’Utrechet, ancorché <lb/>
+chiamato, et richiamato all’Haya; et non <lb/>
+sano che giudicio formare di monsignor Oguel, <lb/>
+governator di quella piazza, che con tutto l’ordine <lb/>
+che haveva di non lasciar, che le genti levate <lb/>
+da quel Magistrato facessero il giuramento, egli
+<pb n="067v" facs="05_067v" rend="0"/>
+sotto pretesto di qualche affare sia uscito della città <lb/>
+et in tanto il Luocotenente non si habbi opposto <lb/>
+ma ricevuto le genti il giuramento sia tornato con <lb/>
+iscusa quando glien’è stato parlato, ch’egli era <lb/>
+fuori; et per quanto ho potuto penetrare parmi, <lb/>
+che con le compagnie che sono dentro la piazza<ptr target="#tn3" n="3"/> a soldo <lb/>
+dei stati, et altre che si faranno passare dal <lb/>
+principe Mauritio si sia per procurar di ridur <lb/>
+quei cittadini al dovere. Stanno però questi signori <lb/>
+in pena, et temono del peggio, se Dio non vi <lb/>
+mette la mano. </p>
+<p>Nel scriver a sua Eccellenza quanto occorre nel negotio di pace <lb/>
+ho sodisfatto anco all’ufficio di condoglienza <lb/>
+per la morte del cugino, et l’istesso ho fatto <lb/>
+colla signora principessa d’Oranges, et col signor conte <lb/>
+Guglielmo suo cio per dover poi di presenza <lb/>
+sodisfar compitamente, et ho gusto di haver<ptr target="#tn4" n="4"/> <lb/>
+havuti le<ptr target="#tn5" n="5"/> particolari cause della morte del Conte
+<pb n="068r" facs="05_068r" rend="0"/>
+perché troppo indecente, et piena di rabbiosa maledicenza <lb/>
+era la nuova, che si sparse per Amsterdam, et per <lb/>
+consequenza doveva esser passata anco più oltre. </p>
+<p>Havendo il Pasini scritto all’illustrissimo signor savio di<ptr target="#tn6" n="6"/> Terra-<lb/>
+ferma alla scrittura se deve dar li ducento ducati <lb/>
+che ha havuti da me al Studler per il suo viaggio <lb/>
+stante la voce che corre di pace, né sapendo, <lb/>
+se, non havendolo la Serenità vostra havuto in tempo <lb/>
+di guerra, vorrà soccumber<ptr target="#tn7" n="7"/> ad una spesa di <lb/>
+cento scudi per mese in tempo di pace, scrive <lb/>
+però a me, che attendeva la risposta, et per <lb/>
+me stimo bene, che vostra Serenità le facci saper quanto <lb/>
+più presto la sua volontà. </p>
+<p>Mi aggiunge esso Pasini, che l’alfier Michiel Pagani <lb/>
+haveva fatta indoglienza seco, che havendo <lb/>
+lasciato il servitio dei serenissimi arciduchi per venir a <lb/>
+quello di vostra Serenità li era stato accennato, che <lb/>
+seguendo la pace non gli sarebbe corso più il <lb/>
+soldo, che gli era stato promesso; cosa contraria
+<pb n="068v" facs="05_068v" rend="0"/>
+a quello, che gli fu presuposto che lo dovesse goder <lb/>
+per sempre. Onde con sue lettere, che esso Pasini <lb/>
+mi ha mandate, perché le vegga, mostra di dover <lb/>
+haver pretentione di esser rifatto da lui. Mi <lb/>
+prega però che supplichi la Serenità vostra per suo nome <lb/>
+a liberarlo da questo impaccio, perché potrebbe <lb/>
+ridondarle a grave pregiudicio nel suo interesse <lb/>
+per l’habitatione che tiene in Brusseles. Di ciò <lb/>
+scrivo particolarmente all’illustrissimo signor savio di Terra-<lb/>
+ferma sudetto, et vostra Serenità prenderà quella <lb/>
+risolutione che stimerà propria al suo servitio, et a <lb/>
+sollevo del medesimo Pasini. Gratie etc. </p>
+<p>Di Grunighen a’ 27 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="069r" facs="05_069r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="069v" facs="05_069v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="021">
+<!--
+<p n="069vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 ottobre 1617 ricevute a’ 15 novembre </p>
+<p>Secretario Surian da Grunighen. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "anco" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "termine" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "la piazza" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "-ne" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "detto depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-u-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

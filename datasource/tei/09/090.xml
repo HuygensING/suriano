@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.090 date 1621-02-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">090</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 455r-458v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp548-566
+            </note>
+            <biblScope unit="page">455r-458v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Frost has returned, all the rivers are closed and no letters have arrived. It turns out to be true that Frederick V has retreated to Brandenburg. Meeting in Watervliet to discuss the confiscated goods, discussion whether Spain wants a Truce. Examination of prisoners in Utrecht occurs in the utmost secrecy and Amstenraedt has told everyone in the Republic that he will receive 30 lire pay for the levy. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-02-09">9 febbraio 1621</date>
+            <num>139</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="139">
+<div type="main" facs="main text of letter" n="139">
+<!--<p>9 febbraio 1621, L’Aia (cc. 455r-458v)</p>-->
+<pb n="455r" facs="09_455r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 271 sola </p>
+<p>Serenissimo Principe </p>
+<p>da otto giorni in qua ha ricominciato il gelo, et s’è accresciuto <lb/>
+in maniera, che tutte queste riviere restano serrate <lb/>
+et i camini malagevoli ad esser transitati; per questo <lb/>
+resto la presente settimana senza lettere della Serenità vostra <lb/>
+aspettate da me con desiderio per sapermi regolar con <lb/>
+gl’ordini, et commandamenti di lei. </p>
+<p>Questo fa anco, che pochi avvisi capitano da altre parte, solo <lb/>
+viene confermato pur troppo esser vero, che ’l serenissimo <lb/>
+Palatino<ptr target="#tn1" n="1"/> si sia retirato nelle terre dell’elettore di <lb/>
+Brandemburgh; anzi, che sia stato a Castrin presso <lb/>
+la moglie, che s’è sgravata d’un figliol maschio. <lb/>
+Et continua la voce, che l’Imperatore ascolti li trattati <lb/>
+d’accordo della Moravia, et della Silesia; onde questi <lb/>
+signori restano con poca per non dir niuna speranza, <lb/>
+che ’l detto Principe habbi più a rimettersi nello stato <lb/>
+di Bohemia, et delle altre provincie incorporate; onde <lb/>
+anco per il Palatinato habbi ad esser in necessità di trattar <lb/>
+d’accordo. </p>
+<p>Non per questo s’è pretermesso da’ signori Stati di contribuir l’<lb/>
+assistenza di cinquanta milla fiorini per il presente<ptr target="#tn2" n="2"/> ancora, <lb/>
+et per il venturo mese<ptr target="#tn3" n="3"/> di marzo; così anco alli principi <lb/>
+dell’Unione. </p>
+<p>Il giorno prefisso per la partenza de’ deputati<ptr target="#tn4" n="4"/> verso li<ptr target="#tn5" n="5"/> detti principi <lb/>
+non è ancor stabilito. Et già che sono passati tanto innanti <lb/>
+vi è opinione che si habbi ad aspettar qualche avviso
+<pb n="455v" facs="09_455v" rend="0"/>
+di Francia, et d’Inghilterra in particolare col mezo dei loro ambasciatori <lb/>
+già arrivati come si crede a quelle corti. Di quelli d’Inghilterra <lb/>
+non ne hanno dubio alcuno perché l’avviso è che venerdì <lb/>
+otto entrassero nella fiumara del Tamigi; come è stato <lb/>
+riportato dai deputati, che sono stati in Fiandra <lb/>
+con quelli dei serenissimi arciduchi. </p>
+<p>Nel negotio per il quale furono mandati delli arresti non <lb/>
+hanno terminata alcuna cosa poiché quelli di sue Altezze <lb/>
+non havevano nelle loro instruttioni maggior auttorità, <lb/>
+che di sentire, et questi di qua di concluder nel fatto <lb/>
+che ha dato la prima causa dell’arresto, che doveva <lb/>
+esser giudicato se legitimamente era stato terminato <lb/>
+a Malines contra il suddito di questi signori<ptr target="#tn6" n="6"/> <lb/>
+in virtù delle tregue. Altro non s’è fatto, che metter <lb/>
+per scritto d’una parte, et d’altra, segnato di mano di essi <lb/>
+commissarii. Et si crede che ’l negotio resterà così; et può <lb/>
+esser che li signori Stati non piglieranno altra conoscenza <lb/>
+ne daranno altro arresto per non metter in nuovo disturbo <lb/>
+per un solo molti particolari interessati in beni, che sono <lb/>
+in Brabant, et altre piazze de’ serenissimi arciduchi. </p>
+<p>Li deputati da parte, et d’altra non si sono veduti, che nella <lb/>
+casa della communità a Waterulit, che vuol dir in luoco <lb/>
+publico, et<ptr target="#tn7" n="7"/> nelle proprie case non si sono veduti <lb/>
+che doi volte convitando li un gl’altri; né per quanto <lb/>
+ho potuto fermamente cavar da uno de’ deputati si è
+<pb n="456r" facs="09_456r" rend="0"/>
+da quelli delli arcidcuchi promessa parola toccante la tregua. </p>
+<p>Quattro reggimenti si publica in Brusseles, che si doveranno <lb/>
+fare di tre milla fanti l’uno, et doi milla cavalli, che <lb/>
+diversamente si parla della guerra, et della tregua; et alcuni <lb/>
+dipendenti dalla corona di Spagna si fanno gagliardi <lb/>
+et dicono che haveranno ben tempo di castigar queste <lb/>
+Provincie; et corrono anco colla lingua fino a toccar <lb/>
+[…]<ptr target="#tn8" n="8"/> stato della Serenità vostra mostrando di esser tutti pieni <lb/>
+[…]<ptr target="#tn9" n="9"/> venero contra di lei. </p>
+<p>Par bene che tuttavia vi sia apparenza, che Spagnuoli non siano per <lb/>
+parlar della tregua, et massime ne’ presenti tempi, che <lb/>
+sono tutti fastosi, et tutti gloriosi per li successi di Alemagna <lb/>
+nondimeno viene riferto da persona, che ha havuta <lb/>
+occasione di conferir con essi per qualche affar particolare <lb/>
+che facendo tregua la vorranno far col lor vantaggio <lb/>
+poiché la passata è stata con vantaggio di queste <lb/>
+Provincie; et è che la tregua, et le hostilità doverà <lb/>
+esser, et doveranno cessar anche di là la linea; et <lb/>
+che non possino gli Holandesi traficar nell’Indie Occi-<lb/>
+dentali. Punti assai difficili, et considerabili; per il <lb/>
+primo poiché al presente sono congionti gl’Inglesi con <lb/>
+questa Natione, si doverà conoscer a che inclini l’animo <lb/>
+del re della Gran Bertagna; quanto all’altro quelli <lb/>
+che già traficano nell’Indie Occidentali per conivenza de’ signori <lb/>
+Stati, et la tirano li loro effetti haveranno a discorrervi
+<pb n="456v" facs="09_456v" rend="0"/>
+sopra, a questo vi si aggiunge il trattato già passato <lb/>
+molto innanti del formar la nuova compagnia per quelle <lb/>
+Indie. Questi concetti corrono: tuttavia par che Spagnuoli <lb/>
+tacciano, et aspettino il tempo mentre dall’altro canto <lb/>
+hanno l’occhio, et pensano ad assicurar le cose dell’Imperio <lb/>
+nella casa d’Austria. </p>
+<p>Anco li signori Stati si tengono quieti, et credendo, che fatto <lb/>
+più forte lo Spagnuolo possi rivoltar l’armi di sopra queste <lb/>
+Provincie,<ptr target="#tn10" n="10"/> sono in continue consulte, et il principe d’Oranges oltre l’ordinario entra ogni giorno nel Consi-<lb/>
+glio di Stato per proveder a tutto quello, che è stimato <lb/>
+necessario<ptr target="#tn11" n="11"/> per la sicurezza, et per servitio di questi paesi. </p>
+<p>Alcuni de’ capitani, c’hebbero le commissioni d’augumentar le <lb/>
+loro compagnie hanno essequito l’ordine; ma non sendogli <lb/>
+data mostra si trovano impacciati per la spesa; altri <lb/>
+però fatti accorti dall’essempio si vano trattenendo <lb/>
+promettendosi di poter senza loro discapito far quanto <lb/>
+è loro stato imposto. </p>
+<p>Li prigionieiri si vanno essaminando, ma tutto passa con straordinaria <lb/>
+secretezza, solo s’è potuto sapere, che doi di essi sono <lb/>
+in poca colpa, et che la sedutione è tutta dalla parte <lb/>
+di quello di Utrecht, che fu il primo, che fu carcerato. </p>
+<p>Il signor ambasciator d’Inghilterra m’ha ultimamente communicato quello che <lb/>
+dall’eccellentissimo signor ambasciator Lando le sarà stato scritto della publica <lb/>
+dichiaratione fattagli dal Re, che si dichiarerà contra quelli
+<pb n="457r" facs="09_457r" rend="0"/>
+che vorranno offender quella serenissima Republica, et che voleva <lb/>
+anco dirlo apertamente all’ambasciator di Spagna, mostrandomi <lb/>
+le lettere del secretario di Stato, dal quale li era scritto questo <lb/>
+particolare; et io lo ringratiai come dovevo della communi-<lb/>
+catione. </p>
+<p>Aggiunge nelle stesse lettere un particolare, et è, che l’universale era <lb/>
+disgustasissimo dell’ambasciator di Spagna, già cognitor de’ suoi <lb/>
+inganni, et de’ suoi artificii, et che anco la Maestà sua <lb/>
+non era troppo contenta di lui. Mi dichiari il concetto <lb/>
+scritto nella lingua inglese; ma la espressione si mostrava <lb/>
+tale, che ben si poteva comprender esser quel secretario (credo) <lb/>
+Nanton alieno dagl’humori spagnuoli. </p>
+<p>È stato detto questa mattina, che in Zelanda sia arrivato un <lb/>
+ambasciator d’Inghilterra, s’è vero può esser che sia il fratello <lb/>
+del signor marchese<ptr target="#tn12" n="12"/> di Buchingam, che passa a Custrin alla <lb/>
+regina di Bohemia possibile<ptr target="#tn13" n="13"/> che passaerà di qua, <lb/>
+et io non mancarò di riverirlo, come è di mio debito. </p>
+<p>Partì il colonello Amstenraedt, del quale non so se debbi lodarmi <lb/>
+poiché con alcuni s’è lasciato uscir mentitamente ch’io <lb/>
+gl’habbi offerte quaranta lire per mese per ogni soldato <lb/>
+ma da quelli che già conoscono la maniera riservata, <lb/>
+et precisa, con che camino all’essecutione de’<ptr target="#tn14" n="14"/> comman-<lb/>
+damenti della Serenità vostra hanno formato immediate giudicio, che <lb/>
+non habbi detta la verità, ma che habbi egli voluto <lb/>
+dir questo per riputatione, et per vantaggio, ch’è con
+<pb n="457v" facs="09_457v" rend="0"/>
+disavantaggio dell’interesse publico. </p>
+<p>Così scorrendo nella lettura di alcune lettere toccanti la <lb/>
+levata dal conte di Levenstein trovò, ch’egli dava vintidoi <lb/>
+fiorini per testa per il trasporto, et sette<ptr target="#tn15" n="15"/> piacchi per <lb/>
+giorno per il vito de’ soldati ordinarii, et per quelli della <lb/>
+camera di poppe dieci. Mandai la nota a vostra Serenità in mie <lb/>
+lettere de’ 15 agosto 1617 se si compiacerà potrà vederle. Hora <lb/>
+par che costerebbe la condotta fino a 30 fiorini per testa. </p>
+<p>Qui è stato publicato, che monsignor di Dighieres habbi a condur <lb/>
+a vostra Serenità otto milla fanti, onde s’è formato giudicio, che <lb/>
+più non habbi a levar genti da questa parte, o se sia per <lb/>
+commandar levata, che non possi più tardare avanzandosi <lb/>
+la stagione. </p>
+<p>Colle mie lettere de’ 2 del presente che mando qui aggiunte replicate <lb/>
+n° 269 fin 270<ptr target="#tn16" n="16"/> scrissi nelle seconde, che quelli di Northolandia <lb/>
+erano partiti per il loro Collegio. Sono hieri a notte ritornati <lb/>
+et si attenderà hora all’ispeditione loro, et degl’altri per <lb/>
+sortir di questo affar de’ conti nella miglior maniera che <lb/>
+sarà possibile, et che vagli a commune sodisfattione; né<ptr target="#tn17" n="17"/> <lb/>
+mancaremo il signor Dardani, et io di procurar ogni maggior <lb/>
+vantaggio di vostra Serenità non havendo cosa che più ci premi, né <lb/>
+che ci sia più a cuore, che ’l suo interesse. Gratie etc. </p>
+<p>Dall’Haya li 9 febraro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="458r" facs="09_458r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="458v" facs="09_458v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 271 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="139">
+<!--
+<p n="458vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 febraro 1620<ptr target="#tn18" n="18"/> ricevute<ptr target="#tn19" n="19"/> 3 marzo n° 271 </p>
+<p>Haya. Secretario Suriano. Sola </p>
+<p>L. R. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "il presente" added above the line on "questo" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the deleted word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "de’ deputati" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "l-" corrected above "d-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "solo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "onde" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction; followed by "esser" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "suoi" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "sotto" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-7-" corrected above "-6-."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

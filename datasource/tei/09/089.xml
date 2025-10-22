@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.089 date 1621-02-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">089</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 451r-454v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp548-566
+            </note>
+            <biblScope unit="page">451r-454v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has visited both Carleton and Du Maurier to inform them about Orsini. Du Maurier promises to write to his king, Carleton argues that Spain is not sattisfied with winning over Italian princes, they even seek to impose their rule upon individuals. No certainty about Frederick V, the princes of the union will meet in Heilbron, Danish king is not inclined to assist Frederick V and Princes of the union. Fiveve people have been imprisoned for their dealing with spain in rendering island fortresses in Maas and Waal (Sint Andries) and also in Groningen a plot to hand over the city to the Spanish. These matters are opening eyes to those who want to prolong the Truce. Tries to find out whether Rocquelaure has been recalled from Venice. Amstenraedt has visited Suriano before leaving to Groningen </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-02-02">2 febbraio 1621</date>
+            <num>138</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="138">
+<div type="main" facs="main text of letter" n="138">
+<!--<p>2 febbraio 1621, L’Aia (cc. 451r-454v)</p>-->
+<pb n="451r" facs="09_451r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 270 comincia 269 </p>
+<p>Serenissimo Principe </p>
+<p>passai colli signori ambasciatori di Francia, et d’Inghilterra gl’ufficii che la Serenità vostra <lb/>
+ha mostrato esser mente di lei con quella dimostratione di <lb/>
+confidenza, che stimai propria, et con quell’affetto appunto <lb/>
+che gl’avvisi contenuti nelle lettere alli eccellentissimi signori ambasciatori in <lb/>
+Francia ricercavano l’uno, et l’altro mi ringratiorono di <lb/>
+questo segno, et termine confidente che la Serenità vostra faceva <lb/>
+usar con essi loro. Et quello di Francia mi disse, che doi <lb/>
+cose li havevo significato una toccante l’affare di casa <lb/>
+Orsina, et l’altro de’ Grisoni in ambidoi interessato il suo Re <lb/>
+et interessata anco la serenissima Republica<ptr target="#tn1" n="1"/>, et che come per quello <lb/>
+di casa Orsina era io il primo a dargliene conto, così <lb/>
+si prometteva, che il Re suo signore se ne sarebbe risentito in <lb/>
+ogni più viva maniera, et si assicurava, che almeno <lb/>
+per don Cosimo,<ptr target="#tn2" n="2"/> al sicuro non sarebbe stato levato dal <lb/>
+servitio di sua Serenità; et quanto a’ Grisoni mi poteva <lb/>
+assicurare, che sua Maestà si mostrava tanto ardente <lb/>
+a volerne veder essito conforme al dovere, et al suo interesse, <lb/>
+et della sua riputatione, che usato il termine della <lb/>
+dolcezza, et degl’ufficii colla missione in Spagna di monsignor <lb/>
+di Bassonpier, et di monsignor di Montebon in paese de’ medesimi <lb/>
+Grisoni, non li riuscendo passerà a quello che se gli <lb/>
+converrà, et farò tutto quel più che potrà perché <lb/>
+tutte le cose tornino nel pristino stato: aggiungendo
+<pb n="451v" facs="09_451v" rend="0"/>
+questo concetto, che se il Re sarà libero da travagli, et <lb/>
+dagl’inconvenienti nel suo Stato, tanto più largo campo <lb/>
+haverà di far apparer la sua forza, et la sua auttorità <lb/>
+non parla questo Ministro a caso, et la prudenza di vostra Serenità <lb/>
+colli avvisi dal proprio luoco caverà quello che può ritrarsi <lb/>
+della volontà del Christianissimo in questo gran negotio esso <lb/>
+monsignor di Maurier si offerse di scriver in Francia, et di <lb/>
+apportar colle sue lettere quel di bene, che havesse potuto <lb/>
+et io lo ringratiai. </p>
+<p>Il signor ambasciator Carleton restò sodisfattissimo della continuata confi-<lb/>
+denza, ch’io passavo a nome di vostra Serenità con lui, et disse, che <lb/>
+comprendeva un’estrema violenza<ptr target="#tn3" n="3"/> ne’ Spagnoli, che <lb/>
+non contenti di guadagnarsi l’animi dei principi italiani, <lb/>
+machinano anco sopra li particolari signori che possono in quella <lb/>
+gran corte di Roma far equilibrio alla loro<ptr target="#tn4" n="4"/> grandezza, <lb/>
+et vastezza de’ pensieri. Questa esser una mala maniera, <lb/>
+et concluse, che fino a che li principi che li potevano far <lb/>
+ostacolo non s’intendessero ben insieme era per appunto <lb/>
+un perdersi manifestamente compassionò lo stato de’ Grisoni <lb/>
+ma più dimostrò dispiacer grandissimo del grave pregiudi-<lb/>
+cio, che vostra Serenità veniva a<ptr target="#tn5" n="5"/> ricever colla perdita della Val-<lb/>
+telina, et di quel passaggio. Et mi disse, che se bene <lb/>
+s’imaginava, che ella<ptr target="#tn6" n="6"/> di tutto haverebbe fatta
+<pb n="452r" facs="09_452r" rend="0"/>
+dar parte al Re suo signore e con tutto ciò anch’egli haverebbe <lb/>
+scritto quanto da me gli era stato communicato. </p>
+<p>Ancor siamo qui all’oscuro di quello passi in Bohemia, et il signor <lb/>
+principe Mauritio, che dal Re palatino doverebbe haver <lb/>
+ogni più certo avviso, ne resta senza con suo gran <lb/>
+sentimento. L’ambasciator di Franca mi confirmò quello che <lb/>
+mi era stato anco avanti detto dal<ptr target="#tn7" n="7"/> medesimo signor Principe <lb/>
+rifettogli da esso Ambasciatore, che ’l Palatino<ptr target="#tn8" n="8"/> s’era retirato nei <lb/>
+stati del signor marchese di Brandemburgh; che havesse lasciati <lb/>
+quelli di Preslau liberi dal giuramento, che Moravi si erano <lb/>
+in parte resi all’Imperatore, et altri erano per accordarsi, che <lb/>
+Silesii attendevano a questo: tuttavia l’agente Brederod <lb/>
+ch’è a Heidelbergh per questi signori dice per bocca del consiglier <lb/>
+Plesel che ’l Re era andato in Ongaria appresso Bethelem <lb/>
+Gabor, qualche altro lo conferma anco di bocca: onde <lb/>
+in questa incertezza non si sa che creder. </p>
+<p>Doveva ai sette di questo ridursi ad Helbrun<ptr target="#tn9" n="9"/> li principi dell’<lb/>
+Unione, et ivi condursi li doi deputati da questi signori <lb/>
+per assister a quella Dieta, ma ancor star irresoluta la <lb/>
+loro partenza. Parmi intender, che sia stato scritto <lb/>
+che si manderanno, et che se si può si proroghi la ri-<lb/>
+duttione, essendo in tanto il signor Giacchini uno dei deputati <lb/>
+partito per la Zelanda a Tergous sua patria per qualche affari
+<pb n="452v" facs="09_452v" rend="0"/>
+subito tornato partirà (come si crede) con il Randuich alla <lb/>
+volta di Alemagna con titolo d’ambasciatori. Questa dilatione <lb/>
+fraposta da’ signori Stati è per veder che piega prenderanno <lb/>
+le cose di Bohemia, per scoprir li fini de’ Spagnuoli, et per cavar <lb/>
+quello che siano per far li principi interessati. </p>
+<p>Di Danimarca mi disse sua Eccellenza che doppo la rotta dara al <lb/>
+Palatino si era cambiato assai, et come prima pareva <lb/>
+che si mostrasse assai pronto ad esborso di denari per <lb/>
+assistergli, hora non par che vogli far altro, che <lb/>
+interporsi per accommodamento. Et se ben espressamente non <lb/>
+mi confessò di haver inviato il Vorberghen per far uffi-<lb/>
+cii con quella Maestà per assister al re<ptr target="#tn10" n="10"/> di Bohemia <lb/>
+in ogni modo tanto disse che ha messo assai in chiaro <lb/>
+che la missione è stata fatta dall’Eccellenza sua a cui li signori Stati <lb/>
+hanno lasciata la cura perché non si scoprisse questa <lb/>
+missione. Se sia per sfodrar quivi altre commissioni non <lb/>
+si può ancor penetrare. </p>
+<p>Verso quello di Bransuich sono doi, che vi si trovano per far <lb/>
+levata uno di doi milla fanti, et l’altro di 500 cavallieri <lb/>
+per il marchese di Bada; altre levate si faranno anco <lb/>
+nell’Alemagna. </p>
+<p>Oltre il primo prigione ne sono stati condotti finhora altri <lb/>
+cinque imputati pur d’intelligenza con Spagnoli
+<pb n="453r" facs="09_453r" rend="0"/>
+per renderli patroni del passaggio con additarglielo facile, <lb/>
+et sicuro tra la Moza, et il Wal, et così si potevano facilmente <lb/>
+anco render patroni delli doi forti di Sant’Andria, et <lb/>
+di Nassau. Si publica, che già habbino alcuni di essi <lb/>
+confessato, et detto più di quello si sapeva; mi disse l’Eccellenza sua <lb/>
+che tanto haveva inteso, ma che non si era che<ptr target="#tn11" n="11"/> cominciato <lb/>
+ad essaminarli, et che vi era tra essi prigioni uno in particolare <lb/>
+che era stato ufficiale di lei in una terra dell’Eccellenza sua a <lb/>
+Grave, che era quello, che andava su, et giù a Brusseles <lb/>
+a contrattar coi serenissimi arciduchi, et che questo non era <lb/>
+ancor stato essaminato, ma che era una fina pezza, <lb/>
+et huomo molto accorto quattro sono deputati all’essame doi <lb/>
+di Gheldria, uno di Holanda, et uno di Grunighen. </p>
+<p>Nell’istessa città di Grunighen è stato anco fatto prigione uno <lb/>
+pur per intelligenza con Spagnoli, è borghese<ptr target="#tn12" n="12"/> d’essa <lb/>
+città, et si dice che volesse dar et la medesima et un luoco <lb/>
+forte contiguo ad essa nominato Oestum nelle mani di <lb/>
+essi Spagnuoli. Et viene affermato, che non succedendo <lb/>
+la prigionia poteva riuscir l’effetto dell’intrapresa. </p>
+<p>Non si sa se quello sarà condotto qui, o se la Provincia <lb/>
+vorrà<ptr target="#tn13" n="13"/> haverne l’essame, et il giudicio. </p>
+<p>Questi accidenti aprono l’occhio a molti di quelli che <lb/>
+mirano più alla tregua, che alla guerra; conoscendo
+<pb n="453v" facs="09_453v" rend="0"/>
+li disavantaggi che nell’avenire potrebbono anco ricever colla <lb/>
+prorogatione di essa tregua: tuttavia sentendosi sino a qui <lb/>
+soli, non sano che risolutione prender se prima non <lb/>
+tirano quello, che si può sperar dalle due corone. </p>
+<p>Si vanno pian piano facendo le preparationi che si convengono <lb/>
+da questa parte, et provedendo alle cose necessarie. Ho <lb/>
+procurato di cavar se sua Eccellenza colle lettere scritte che <lb/>
+richiamano li officiali ve ne sia state per monsignor di Rocalaura <lb/>
+et mi è stato riferto di non, ma che lascierà che ’l suo <lb/>
+colonello ch’è monsignor<ptr target="#tn14" n="14"/> di Sciatiglione lo faccia se vorrà. </p>
+<p>Prima del suo partir per Grunighem fu il colonello Amstenraedt <lb/>
+a vedermi, et prender licenza da me, né puoti cavar altro <lb/>
+da lui di quello ho scritto colle passate alla Serenità vostra se non <lb/>
+che per mese almeno vorrebbe haver quaranta lire per testa <lb/>
+così disse in passando. Io ho scritto alla prudenza di <lb/>
+lei il mio debol senso di trattar di là perché potrà più <lb/>
+facilmente ritrar forse quello che desidera; ma sia sicura <lb/>
+la Serenità vostra che quelli, che haveranno la carica di far <lb/>
+levata saranno necessitati di andarsi ingegnando di <lb/>
+levar le genti fuori di queste Provincie, et in Paese può <lb/>
+esser discosto dalla commodità dell’imbarco. </p>
+<p>Li signori dell’amiralità di Northolandia partirono la settimana <lb/>
+passata per il loro Collegio a fine di agiustar qualche cosa
+<pb n="454r" facs="09_454r" rend="0"/>
+pretesa dal signor<ptr target="#tn15" n="15"/> Dardani, et da me contro li Partionevolli<ptr target="#tn16" n="16"/> <lb/>
+et altro; si camina innanti nell’agiustar li conti con quelli <lb/>
+di Amsterdam; et dai deputati o commissarii eletti uno <lb/>
+per provincia dai signori Stati si aspetterà la risolutione nelle contese <lb/>
+che habbiamo con le dette Amiralità. Gratie etc. </p>
+<p>Dall’Haya li 2 febraro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="454v" facs="09_454v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 270 comincia 269 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="138">
+<!--
+<p n="454vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 febraro 1620<ptr target="#tn17" n="17"/> ricevute 25 detto n° 270 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "Rep(ubli)ca" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "de" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "S(ereni)tà" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "detto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o" corrected above "-a"; followed by "-to" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "della med(esi)ma" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes "vol" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-olli" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

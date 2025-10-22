@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.046 date 1620-07-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">046</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 247r-248v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp323-342
+            </note>
+            <biblScope unit="page">247r-248v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The merchants and admiralties negotiate with the state general to get ships against pirates in the Mediterranean. They want at least 24 to 30 ships. Carleton informs Suriano that English cavaliers went to Tunisia in secret to plan an operation to attack. No more further news about English troops than that they have embarked. According to intercepted mail, Spinola will invade the Palatinate. Count of Lipp has switched sides with his troops and is now in service of princes of the union. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-28">28 luglio 1620</date>
+            <num>072</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="072">
+<div type="main" facs="main text of letter" n="072">
+<!--<p>28 luglio 1620, L’Aia (cc. 247r-248v)</p>-->
+<pb n="247r" facs="09_247r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 228 comincia 226 </p>
+<p>Serenissimo Principe </p>
+<p>sendo venuti qui li deputati delle Amiralità come scrissi, <lb/>
+che dovevano fare, chiamati dalli signori Stati all’instanza <lb/>
+dei mercanti sono stati seguitati da alcuni deputati <lb/>
+di essi. Et hora sono in continue consulte mattina, et <lb/>
+sera per veder, come possino sodisfare alli detti <lb/>
+mercanti per assicurarli contra pirati. Stano ancor <lb/>
+fermi nel dimandar 24 in 30 vasselli da guerra, <lb/>
+vano proponendo diveri partiti, et varii sono i pareri <lb/>
+come poter assicurar la navigatione; ma li signori Stati <lb/>
+veggono molto bene non poter da sé soli rilevar una <lb/>
+tanta spesa. Sentono che ’l re della Gran Bertagna <lb/>
+arma; si accorgono, che si va con lentezza da quella <lb/>
+parte. </p>
+<p>A questo proposito non lascierò di dir alla Serenità vostra quello che <lb/>
+in discorso cavai dal signor Ambasciator inglese, et è che già qualche <lb/>
+tempo fa doi cavalieri inglesi si conferirono a Tunisi, et <lb/>
+Algieri<ptr target="#tn1" n="1"/> in habito di mercanti, et quivi trattenendosi <lb/>
+di tal maniera, hebbero campo di andar pigliando in <lb/>
+disegno<ptr target="#tn2" n="2"/> quelle piazze, et quei porti, et riferirono <lb/>
+al Re al ritorno la facilità dell’intrapresa; ma che <lb/>
+vedevano che senza gran genti, o senza l’aiuto de’ <lb/>
+Spagnoli, overo che non interrompessero il negotio, non <lb/>
+si poteva far cosa del tutto sussistente<ptr target="#tn3" n="3"/>: tuttavia <lb/>
+aggiunse il signor Ambasciatore questa relatione è stata in buona <lb/>
+parte<ptr target="#tn4" n="4"/> causa della risolutione del Re di armar
+<pb n="247v" facs="09_247v" rend="0"/>
+li vinti vasselli, che si vanno apprestando. Se vi siano questi <lb/>
+concetti non saprei penetrarlo così facilmente. N’ho dato conto <lb/>
+all’eccellentissimo signor ambasciator Lando, che ritrarrà il certo se vi <lb/>
+sarà qualche cosa. </p>
+<p>Delle genti inglesi destinate<ptr target="#tn5" n="5"/> per Bohemia non si ha altro avviso se non <lb/>
+che siano inbarcate. Si aspettano col primo vento. </p>
+<p>L’avviso delli tre milla fanti, che ’l governatore di Milano ha havuto <lb/>
+ordine d’ispedir per Fiandra dà qui non poco da pensare <lb/>
+sentendo un tanto, et sì gran amasso di genti. <lb/>
+L’aspettarle si crede tuttavia che sia il ritardo dello <lb/>
+Spinola: poiché già il signor principe Mauritio è avvisato <lb/>
+che col mezo dell’Arciduca lo Spinola haverà <lb/>
+dodici compagnie della vecchia cavallaria; et che <lb/>
+uscirà per li otto del prossimo<ptr target="#tn6" n="6"/> mese d’agosto. </p>
+<p>Con tutto questo il signor principe Mauritio non si<ptr target="#tn7" n="7"/> moverà di qua <lb/>
+che non senti la certa<ptr target="#tn8" n="8"/> mossa di esso Spinola, et ove si <lb/>
+anderà a metter don Luigi di Valasco, che restarà <lb/>
+capo del rimanente delle militie in questi paesi. </p>
+<p>Che ’l marchese Spinola dovesse passare all’invasione <lb/>
+del Palatinato ciò l’assicuravano alcune lettere che <lb/>
+sono state intercette dalli soldati del marchese di <lb/>
+Anspach, et da quel principe<ptr target="#tn9" n="9"/> mandate con<ptr target="#tn10" n="10"/> una patente <lb/>
+autentica sottoscritta di mano dell’Imperatore, <lb/>
+a questi signori nella quale era ordinato, che esso Spinola <lb/>
+colle sue genti passasse<ptr target="#tn11" n="11"/> nel Palatina[to]<ptr target="#tn12" n="12"/>, et all’invasione
+<pb n="248r" facs="09_248r" rend="0"/>
+di quei principi di Alemagna, che sono ribelli al santo <lb/>
+Imperio: tale è la sostanza della detta patente. </p>
+<p>Oltre gl’altri avvisi, che questi signori hanno assai buoni di Alemagna <lb/>
+et di Bohemia tengono anco, che il conte di Lip ch’era al <lb/>
+servitio di Baviera<ptr target="#tn13" n="13"/> lo habbi lasciato doppo l’accordo <lb/>
+seguito tra quelli dell’Unione, et della Lega catholica <lb/>
+non volendo servir a quell’Altezza con altra conditione, <lb/>
+che con quella che era stato condotto, ch’era per la salvezza, <lb/>
+et conservatione della Baviera, et parendogli che quel <lb/>
+Duca voglia portar le sue armi a favor di Cesare <lb/>
+si è ritirato, et ha offerto il suo servitio alli principi <lb/>
+dell’Unione con seicento cavalli, et qualche seicento <lb/>
+in ottocento fanti; ancor non si sa se sia stato ricev-<lb/>
+uto parendo, che quei principi habbino più bisogno <lb/>
+di denari, che di addossarsi nuova spesa. Gratie etc. </p>
+<p>Dall’Haya li 28 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="248v" facs="09_248v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 228 comincia <lb/>
+226 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="072">
+<!--
+<p n="248vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 luglio 1620 ricevute a’ 12 agosto </p>
+<p>Haya. n° 228 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o" is the result of a correction; followed by deleted letters.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-te" corrected above "-za."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-a" Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Ink stain.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "lo" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

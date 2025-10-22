@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.055 date 1618-02-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">055</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 327r-330v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">327r-330v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters from Venice which expresses the need that these twelve war ships are ready for immediate departure. He has faced challenges in negotiating with shipowners and merchants. Reports he has offered condolences on behalf of the Venetian Republic to Maurice for the death of his brother. Maurice has promised to select experienced and obedient captains for these ships. With Oldenbarnevelt, he discusses the preparations of the ships, who suggests potential collaborative action against corsairs. Oldenbarnvelt remains optimistic about peace, whereas Suriano is rather skeptical. Studder will finally leave, Pasini will cover the travel costs and Studder’s contact will begin upon arrival, attached is his condotta. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-02-27">27 febbraio 1618</date>
+            <num>099</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>27 febbraio 1618, L’Aia (cc. 327r-330v)</p>-->
+<pb n="327r" facs="05_327r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 10 </p>
+<p>Serenissimo Principe </p>
+<p>mentre mi trovavo in Amsterdam mi pervenero le lettere <lb/>
+della Serenità vostra de’ 9 dello stante, et quanto più comprendo <lb/>
+dalla lettura di esse il bisogno, et desiderio di lei, che <lb/>
+questi vasselli già siano pronti anzi alla vela in mare; tanto <lb/>
+maggiore si fa la displicenza dell’animo mio vedendo<ptr target="#tn1" n="1"/> <lb/>
+essermi incontrate tante difficoltà anco sul proprio <lb/>
+luoco per accordar con li mercanti, et patroni de’ vasselli <lb/>
+che si sono resi difficili a condescender dirò anco a <lb/>
+più del ragionevole, come vostra Serenità ha inteso dalle <lb/>
+altre mie. </p>
+<p>Gl’avvisi, che erano nelle sudette lettere mi servirono ad <lb/>
+evitar maggiormente quei signori di Amsterdam, et qui non <lb/>
+tralascierò di far ogni più efficace ufficio perché li <lb/>
+solecitino, et instino il preparamento, et per ciò darò <lb/>
+parte di tutto ad essi signori Stati. </p>
+<p>Quando hoggi otto fui nell’assemblea, come ho riverentemente <lb/>
+scritto, che havevo trovato tempo, presentate le <lb/>
+lettere di risposta di vostra Serenità sopra il negotio de’ corsari <lb/>
+et detto quanto mi commandava intorno all’unione <lb/>
+et fatta l’instanza di scriver a’ signori dell’Amiralità <lb/>
+come fecero la risposta del Presidente non fu <lb/>
+che di ringratiamento della communicatione de-<lb/>
+gl’avvisi, et dirmi, che<ptr target="#tn2" n="2"/> si haverebbe <lb/>
+consultato, et deliberato sopra quanto havevo proposto <lb/>
+et che al solito lasciassi per scritto. Tornato solamente
+<pb n="327v" facs="05_327v" rend="0"/>
+hieri a notte hoggi non ho havuta commodità di veder <lb/>
+altri che sua Eccellenza, et il signor Bernvel; onde non posso aggiunger <lb/>
+più dello scritto intorno ai particolari significatimi, et <lb/>
+commandatimi da vostra Serenità. Con l’essecutione degl’ultimi <lb/>
+ordini nelle sudette lettere de’ 9 caverò quel più, che mi sarà <lb/>
+possibile a servitio di lei. </p>
+<p>Andai al signor principe Mauritio per condolermi seco a nome <lb/>
+della Serenità vostra per la morte del fratello principe di <lb/>
+Oranges, che è passato a miglior vita in Brusseles. Non <lb/>
+si sa la dispositione dell’ultima volontà sua poiché <lb/>
+li signori arciduchi hanno fatta metter la mano, et sigillo <lb/>
+sopra il scrittore, o luoco, ove sta riposto il testemento <lb/>
+per servitio, come viene detto da quelli, che possono haver interesse dell’heredità. Ha sua Eccellenza mandati in diverse <lb/>
+parti de’ suoi per prender il possesso de’ beni, et hora <lb/>
+s’intitola nelle scritture principe di Oranges. </p>
+<p>Ringratiai l’Eccellenza sua delle patenti fatte per il luoco di <lb/>
+guarnigione alla soldatesca, che si leva per vostra Serenità <lb/>
+et mi disse, che volontieri farà ogni cosa per farle servitio <lb/>
+le diedi parte di quanto havevo operato, et di ciò <lb/>
+che mi era occorso in Amsterdam a che disse che <lb/>
+questi marinari come si appuntano non vogliono così <lb/>
+facilmente ceder. Disse che aspettava la lista per far <lb/>
+la denominatione dei capitani per i vasselli, la quale doverà <lb/>
+esser qui hoggi, o dimani, et sopra ciò ho di nuovo
+<pb n="328r" facs="05_328r" rend="0"/>
+pregato sua Eccellenza a far che siano huomini d’isperienza <lb/>
+di valore discretti, et di buona volontà di obedire. <lb/>
+A tanto mi promise, che haverebbe havuto particolar <lb/>
+riguardo. </p>
+<p>Fui a visita del signor Bernvel, che discorse meco sopra le prepa-<lb/>
+rationi de’ vasselli, et anco sopra qualche pensiero, che tra <lb/>
+quelli dell’Amiralità è passato, et gli era stato riferto <lb/>
+da quelli di Roterdam, che armandosi hora li dodici <lb/>
+vasselli per questi Stati da servir contra corsari po-<lb/>
+trebbono in un istesso tempo esser ad ordine, et <lb/>
+uscir tutti in una flotta, et anco bisognando per maggior sicurezza, et riputatione sotto pretesto di <lb/>
+andar cercando li corsari caminar avanti fino a <lb/>
+Corfù; et mostrò non esser assolutamente l’animo suo <lb/>
+alieno da un simil concetto; a che considerai, che <lb/>
+bisognava, che li dodici vasselli, che facevo armare <lb/>
+caminassero speditamente, né si fermassero in alcuna <lb/>
+parte, che forse questi del Paese haveranno qualche <lb/>
+ordine di andarsi trattenendo. Rispose quando si venisse <lb/>
+ad<ptr target="#tn3" n="3"/> una tal risolutione di dar commissione che <lb/>
+si facesse questo accompagnamento non si farebbe <lb/>
+altro che andar avanti. Io non so se questo sia <lb/>
+riuscibile, o pur se aggradisce a vostra Serenità. Potrà ella <lb/>
+avvisarmene il suo senso perché anc’io in questo <lb/>
+mentre procurerò di cavarne qual sia la vera
+<pb n="328v" facs="05_328v" rend="0"/>
+intentione, et il fine del motivo a questo, che lo tengo <lb/>
+per buono; ma anco credo, che difficilmente si troverà rin-<lb/>
+contro nel generale al condescendervi per molti rispetti. </p>
+<p>Doppo haver data parte al signor Bernvel degl’avvisi disse <lb/>
+habbiamo qui nuove, che la pace seguirà, et che non <lb/>
+ostante le preparationi del duca di Ossuna, come la <lb/>
+serenissima Republica haverà fatto tutto, et preparato tutto et anco <lb/>
+uscito il preparamento in mare si accommoderanno le cose <lb/>
+et replicò Per mio avviso seguirà senza dubio la pace. <lb/>
+Io ripigliai lo vorrei per servitio della serenissima Republica et per la <lb/>
+commune quiete, et tranquilità; ma che non me lo <lb/>
+potevo persuadere dalli andamenti de’ Spagnoli a’ quali <lb/>
+difficilmente si può prestar alcuna fede. Confesso, che era <lb/>
+vero, et fece reflesso sopra le cose di Savoia consi-<lb/>
+derando esser troppo dura cosa, che come si intende-<lb/>
+va si volesse far disarmar al Duca totalmente per <lb/>
+aspettar poi la discrettione de’ Spagnoli. Disse bisogna <lb/>
+per far bene, che ’l Christianissimo habbi un buon corpo di <lb/>
+cavalleria, et d’infanteria pronta nel Delfinato <lb/>
+in Provenza, et ai confini della Savoia per entrar <lb/>
+prontamente a danno dei Spagnoli quando manchino <lb/>
+alla parola. Et con questi concetti tornò a replicare <lb/>
+che per suo parere al certo si haverebbe havuta la pace; <lb/>
+ma non bisognava tralasciar di attender a prepararsi <lb/>
+per evitare la finezza de’ Spagnoli: né uscì ad altro. </p>
+<pb n="329r" facs="05_329r" rend="0"/>
+<p>Per compita essecutione, et intelligenza delle cose espressemi <lb/>
+nelle sue lettere de’ 9 non mancarò di andar indagando <lb/>
+in ogni possibil maniera. </p>
+<p>Oltre quanto ho scritto con le passate mie per l’informatione <lb/>
+intorno a corsari non ho che aggiunger di più se non <lb/>
+che mi dicono essere quasi sopra ogni vassello dei <lb/>
+Turchi cosa considerabile per molti<ptr target="#tn4" n="4"/> rispetti, et degna <lb/>
+della propria prudenza di vostra Serenità. </p>
+<p>Quel giorno, che partii di qua per Amsterdam mi seguitò <lb/>
+monsignor Gio. Battista Pasini mosso dal zelo che ha del <lb/>
+servitio della Serenità vostra a fine di significarmi a bocca <lb/>
+quanto haveva operato, et come haveva finalmente <lb/>
+ridotto il cavalier Studler a partirsi, et venirsene <lb/>
+immediate al servitio di vostra Serenità, et esso cavalier ancora mi ha <lb/>
+scritto essersi risoluto, et che sarebbe partito per li <lb/>
+sette over otto del mese venturo. Ho fermata <lb/>
+in scrittura la sua condotta, et non havendo voluto <lb/>
+risolversi altrimenti che con sicurtà di servir vostra Serenità <lb/>
+in pace, et in guerra ho aggiunto, quando riesca <lb/>
+il suo servitio grato a sua Serenità. Il tempo non <lb/>
+gli comicierà, che all’animo di lui a piedi della <lb/>
+Serenità vostra, et allhora sconterà li doicento ducati <lb/>
+che il Pasini li haverà esborsati per far il viaggio <lb/>
+in quei mesi che ella farà stabilir seco. Et il <lb/>
+stipendio sarà di cento ducati il mese, come già
+<pb n="329v" facs="05_329v" rend="0"/>
+fu concluso, et sarà in moneta corrente. Hoggi parte <lb/>
+il Pasini per solecitar esso Cavaliere alla partenza, et li ho <lb/>
+pagate le spese del viaggio che ha fatte parendomi così <lb/>
+convenire; et certo non ha la Serenità vostra che desiderare più <lb/>
+di affetto, et di divotione verso il servitio del suo Principe <lb/>
+di quello, ch’è in lui, con che si rende ognhora più <lb/>
+meritevole, et degno della gratia, et munificenza sua. </p>
+<p>Dall’Haya a’ 27 febraro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="330r" facs="05_330r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="330v" facs="05_330v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 10 comincia n° 9 </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="330vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 febraro 1617 ricevuta a’ 15 marzo</p>
+<p>Haya. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "-mi" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "qu" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "ogni" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

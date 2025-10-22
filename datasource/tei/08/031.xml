@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.031 date 1619-08-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 160r-162v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">158r-159v, 160r-162v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Outlines in cipher a recent meeting with the States General on the union where they sought clarification on two point. One of issue of diversion, whether it should be unilateral or reciprocal. Secondly about the timing of financial contributions. The States have implied they expect Venice to contribute more due to its greater resources and in line with their agreements with France and England. Reports that he had to comply with their request for a written report of the discussion. Carleton reveals to Suriano that he and James I/VI are supportive of this alliance. Discussions on the matter continue in States General in presence of Maurice and Count William of Nassau, he is waiting for their written report summarising their strategic plans and financial commitments. Two documents attached: the alliance between States General and the Venetian Republic in Italian and in French translation</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-08-06">6 agosto 1619</date>
+            <num>054, 055</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="054" corresp="055" source="158r-159v" >
+<div type="main" facs="main text of attachment I" n="054" corresp="055" >
+<!--<p>Allegato I al n. 55 (cc. 158r-159v; decodifica di cc. 160r-161v)</p>-->
+<pb n="158r" facs="08_158r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Traduttione delle lettere di Aya numero 120 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="158v" facs="08_158v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="159r" facs="08_159r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="159v" facs="08_159v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="letter" n="055">
+<div type="main" facs="main text of letter" n="055">
+<!--<p>6 agosto 1619, L’Aia (cc. 160r-162v)</p>-->
+<pb n="160r" facs="08_160r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 120 comincia 119 </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">giovedì</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">passato li signori Stati mi fecero chiamar di <lb/>
+nuovo nella loro assemblea, et mi ricercorono di <lb/>
+saper più chiaramente qual fosse la mente della <lb/>
+Serenità vostra, et in particolare sopra il punto della <lb/>
+diversione, et come ella intendesse. Io risposi <lb/>
+che non era a me il dichiarir questo punto facile <lb/>
+ad esser compreso per il modo dell’essequirlo dalla <lb/>
+prudenza dell’Eccellenze loro, che dicevo quello, che vostra Serenità <lb/>
+desiderava, toccava a sue Eccellenze significarmi quello, <lb/>
+che per vostra Serenità havessero voluto, et stimato bene <lb/>
+di fare. Bene risposero vi haveremo la debita consi-<lb/>
+deratione. Ho però inteso, che sopra questo punto è <lb/>
+stato fatto particolar reflesso, non sapendo se intendeva <lb/>
+vostra Serenità, che l’obligo della diversione dovesse esser dal <lb/>
+canto di questi signori solamente o pure recipro</hi><ptr target="#tn2" n="2"/><hi rend="decoded">, che se <lb/>
+havesse ad esser reciproco senza dubio non haverebbono <lb/>
+messa difficoltà, et fu il signor Ambasciator inglese, che me ne <lb/>
+discorse venerdì, che venne in mia visitatione, il quale <lb/>
+in questo negotio si mostra molto ben intentionato <lb/>
+et scopro, che oltre le commissioni, che ne ha dal <lb/>
+Re (il quale, per quello mi ha detto uno dei commis-<lb/>
+sarii venuto d’Inghilterra ha a cuore il buon effetto di <lb/>
+questo negotio) lo muove anco la devotione, che <lb/>
+professa, et continua verso quel serenissimo Dominio. <lb/>
+</hi></p>
+<p><hi rend="decoded">Li signori Stati oltre questo punto della diversione <lb/>
+</hi>
+<pb n="160v" facs="08_160v" rend="0"/>
+<hi rend="decoded">mi <lb/>
+addimandarono anco se sapevo quando havesse ad esser <lb/>
+il denaro, che si haveva a contribuire, che fa assai <lb/>
+chiaro comprendere, che assisteranno con denari. <lb/>
+Io risposi, che non lo sapevo: ma che questo col negotio si sarebbe agiustato; a che mi fu soggionto parendo, <lb/>
+che si facesse in passando: ma ben m’avidi esser <lb/>
+seriosamente detto, che ognuno sapeva quanto la serenissima Republica possi soministrar più di questi stati: et vostra <lb/>
+Serenità intende molto bene colla prudenza sua quello, <lb/>
+che si vuol inferire, et come questi desidereranno, che <lb/>
+l’aiuto sia maggiore dal canto di vostra Serenità, che dal <lb/>
+loro, et per il mio debol senso credo, ch’ella stimerà <lb/>
+proprio, che così debba seguire per molti rispetti, et <lb/>
+particolarmente per mostrar al mondo la disuguaglianza</hi><ptr target="#tn3" n="3"/> <hi rend="decoded"><lb/>
+che è tra questa a quella serenissima Republica; il che <lb/>
+non si mostrarebbe quando l’assistenza di</hi><ptr target="#tn4" n="4"/> <hi rend="decoded"><lb/>
+vostra Serenità non fosse maggiore di quella <lb/>
+di questa Republica. Anco li re di Franza, et di <lb/>
+Inghilterra fanno il medesimo, essendo maggiore il loro <lb/>
+aiuto, che quello, a che sono obligati questi signori; <lb/>
+solo coi principi dell’Unione, et col re di Svetia sono <lb/>
+in ugual repartitione: ma alle città ansiatiche</hi><ptr target="#tn5" n="5"/> <hi rend="decoded"><lb/>
+questi dano molto più per mostrar la potenza loro <lb/>
+esser maggiore di quella di dette città. Doppo <lb/>
+l’instanze sudette fattemi</hi>
+<pb n="161r" facs="08_161r" rend="0"/>
+<hi rend="decoded">da’ signori Stati mi fu <lb/>
+aggionto, che per poter passar avanti haverebbono <lb/>
+desiderato per scritto quanto havevo loro detto per <lb/>
+nome di vostra Serenità. Io dissi loro, che mi pareva <lb/>
+di havermi espresso assai chiaro tanto in parti-<lb/>
+colare, che in publico, ne vedevo, che vi fosse altro <lb/>
+bisogno. Mi risposero tal essere la constitutione <lb/>
+del Governo per poter dar sodisfattione alle Provincie <lb/>
+da chi erano mandati. Pur allhora si contentorono <lb/>
+della replica</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">li fecci della commissione della Serenità vostra, <lb/>
+con tutto ciò il doppo desinare mandorno a me il loro <lb/>
+secretario, che di sua mano notò il punto principale <lb/>
+della dispositione di vostra Serenità di attender</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">al negotio <lb/>
+dell’unione, come anco del desiderio, che mostrava di <lb/>
+haver qualche particolare della intentione de’ signori <lb/>
+Stati intorno alle conditioni, et particolarmente se fossero <lb/>
+pronti di assister con denari in luogo di navi, con <lb/>
+diversioni, o altro, che fosse stimato il meglio. Sopra <lb/>
+questo sono andati doppo essaminando, et ponderando <lb/>
+fin hoggi, et quasi sempre con la presenza del signor <lb/>
+principe Mauritio, et anco del signor conte Guglielmo. <lb/>
+Dimani se ne deve trattar ancora: si metterà per <lb/>
+scritto per communicarmelo,</hi>
+<pb n="161v" facs="08_161v" rend="0"/>
+<hi rend="decoded">e perché faci haver il <lb/>
+tutto a vostra Serenità, et sarà cred’io col prossimo ordinario. <lb/>
+In quello, che ho scritto la passata settimana, et in <lb/>
+ciò che aggiongo la presente s’includono li principali punti, <lb/>
+sopra li quali hanno da venirmi le commissioni della Serenità vostra <lb/>
+per proseguir coll’aiuto di Dio in questo negotio. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya lì 6 agosto 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="162r" facs="08_162r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="162v" facs="08_162v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> <lb/>
+n° 120 comincia 119 </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="055">
+<!--
+<p n="162vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 agosto 1619 ricevute a’ 21 detto </p>
+<p>Haya. n° 120 <lb/>
+2<hi rend="superscript">da</hi> </p>
+<p>Chiamato il secretario nell’assemblea è <lb/>
+ricercata dichiarir l’interesse della Republica <lb/>
+particolarmente circa la diversione. Risponde <lb/>
+haver detto quello sua Serenità desidera tocar <lb/>
+a loro quello che stimano bene di fare signi-<lb/>
+ficarlo. Replicano se vi haverà consideratione. </p>
+<p>Dice il secretario haver inteso esservisi <lb/>
+discorso non sapendo se la diversione ha da <lb/>
+esser reciproca, che<ptr target="#tn8" n="8"/> in tal caso <lb/>
+non vi saria stato difficoltà. Et <lb/>
+ciò essersi discorso dall’Ambasciator inglese <lb/>
+che se n’interessa per li commissarii del <lb/>
+Re e per l’affetto alla Republica. </p>
+<p>Dimandano i stati quanto ha da <lb/>
+esser il denaro da contribuirsi. </p>
+<p>Risponde non saper ma che si agiusterà. </p>
+<p>Discorsi che l’aiuto s’aspetta maggior <lb/>
+di qua et che così conviene per la <lb/>
+maggioranza coll’essempio di altre <lb/>
+aleanze. </p>
+<p>Dimandano in scritto quanto ha <lb/>
+esposto il secretario per poterlo mandar <lb/>
+alle Provincie secondo l’uso: lui <lb/>
+lo replica e di tanto si contentano, <lb/>
+poi mandorno il secretario che prese in <lb/>
+nota il particolare della dispositione di <lb/>
+attender al negotio dell’unione. Et <lb/>
+di dar danari in luogo di navi et <lb/>
+altre conditioni che si desiderano intender. </p>
+<p>L. SS. X. </p>
+<p n="162vD">———</p>
+<p>Che vano consultando con la <lb/>
+presenza del principe Mauritio e conte Guglielmo. </p>
+<p>Si metterà in scritto et<ptr target="#tn9" n="9"/> si <lb/>
+communicherà spera col primo <lb/>
+ordinario mandar il tutto. </p>
+<p>Dice che nel scrito ha <lb/>
+la passata settimana et, hora <lb/>
+s’includono i principali punti. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "giovedì … Gratie etc. decodifica di testo cifrato presente a cc. 158r-159v."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Così A."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Seconda -g- corretta su -l-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue questa | Republica depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue alle depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue il depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

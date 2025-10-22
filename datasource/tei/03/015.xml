@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.015 date 1616-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">015</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 92r-93v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">92r-93v, 94r-95v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this brief letter, Suriano explains the potential delay for the arrival of his letters in Venice. The local messengers are slow in travelling to Antwerp. The other potential route is via Cologne, but those letters, just like the ones from Antwerp, arrive in Augsburg, from where the courier goes only once a week to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-11-13">13 novembre 1616</date>
+            <num>031, 032</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="031">
+<div type="main" facs="main text of letter" n="031">
+<!--<p>13 novembre 1616, L’Aia (cc. 92r-93v)</p>-->
+<pb n="092r" facs="03_092r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havevo già fermate le altre mie, et stavo per ispedirle <lb/>
+in Anversa quando mi sono capitate quelle della <lb/>
+Serenità vostra de’ 28 del passato d’avviso, et di negotio <lb/>
+et come può esser certa, che non prettermetterò studio <lb/>
+per essequir le sue commissioni; così può creder <lb/>
+ch’io habbi sentito afflittione d’animo, che <lb/>
+le mie lettere de’ xi del passato non fossero capitate <lb/>
+quella settimana, che la Serenità vostra m’ha scritto; ma <lb/>
+spero al certo, che saranno pervenute la <lb/>
+seguente. La causa sarà nata dal ritardo di <lb/>
+questi messaggieri, che per guadagno di qualche <lb/>
+poco denaro non si curano ancor che dicono di <lb/>
+andar prontamente in Anversa di frapor tempo <lb/>
+nel camino. Né ho avvisato il Mastro di poste <lb/>
+perché vi prendi rimedio, et m’ha rescritto, che <lb/>
+lo farà. L’accidente presente fa ch’io<ptr target="#tn1" n="1"/> temi <lb/>
+d’esser tassato di mancamento grande appresso <lb/>
+la Serenità vostra non havendo scritto la passata settimana <lb/>
+non dubito, ch’ella non presuponghi esser stata <lb/>
+pura necessità, essendo necessariissimo ch’io in persona <lb/>
+mi trovassi in Amsterdam per agiustar bene le cose <lb/>
+affineché per il mancamento del denaro non succedesse
+<pb n="092v" facs="03_092v" rend="0"/>
+qualche inconveniente nel presente affare, ricerdandosi <lb/>
+prontezza, et effettivo esborso per l’intartenir delle <lb/>
+compagnie fino all’imbarco. Io in ogni modo non <lb/>
+m’iscuserò di questo necessitato mancamento ma suppli-<lb/>
+carò bene la Serenità vostra a condonarlo con quella <lb/>
+benignità, che ho conosciuta sempre singolare <lb/>
+verso di me. </p>
+<p>Essequirò appresso questi signori, et il signor principe Mauritio <lb/>
+le commissioni datemi; et non mancarò di darne <lb/>
+immediate conto alla Serenità vostra. Solleciterò (come <lb/>
+ho fatto,<ptr target="#tn2" n="2"/> continuamente) l’imbarco, <lb/>
+et l’ispeditione delle genti: per il che si aspetta <lb/>
+solo il vento che sia buono. </p>
+<p>Per l’ispeditione delle mie lettere, oltre la stradda di <lb/>
+Anversa non vi è che quella di Colonia; ma per <lb/>
+ambedoi capitano le lettere in un medesimo tempo <lb/>
+in Augusta all’ordinario che parte una<ptr target="#tn3" n="3"/> sol <lb/>
+volta alla settimana per Venetia, com’è noto <lb/>
+alla prudenza della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 13 novembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="093r" facs="03_093r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="093v" facs="03_093v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="031">
+<!--
+<p n="093vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1616 ricevute 30 detto </p>
+<p>Secretario Surian dall’Aia<ptr target="#tn4" n="4"/> 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="032" corresp="033" source="94r-95v" >
+<div type="main" facs="main text of attachment I" n="032" corresp="033" >
+<!--<p>Allegato I al n. 33 (cc. 94r-95v; decodifica di cc. 96r-98v)</p>-->
+<pb n="094r" facs="03_094r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="094v" facs="03_094v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="095r" facs="03_095r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="095v" facs="03_095v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "dubiti" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "come ho fatto" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by 2<hi rend="superscript">a</hi> crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

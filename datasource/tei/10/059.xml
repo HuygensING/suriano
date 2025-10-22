@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.059 date 1621-09-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">059</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 306r-308v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">306r-308v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports in military activities in Habsburg Netherlands with the governor of Antwerp retreating from his position near Ekloo. The States have flooded some areas, which has caused significant damage, but has hampered the movement of Spanish forces. The troops have been sent to the garrisons to reduce cost. Key areas along the Rhine are still being defend with the aim to hinder movements of Spanish troops. Spinola is facing shortages in supplies and is preparing for winter season. Meanwhile the States continue to seek additional funds to sustain their war effort; delays in receiving 50, 000 florins from Venice causes impatience. Expresses hope that Venetian authorities will address the issue. Encloses the articles of the States of Holland who met in The Hague last week.  One document attached: "Articoli sopra li quali si congregaranno li signori cavalieri nobili et città di Holanda, et Westfrisia nell’Haya ai 6 di settembre 1621"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-09-27">27 settembre 1621</date>
+            <num>099</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>27 settembre 1621, L’Aia (cc. 306r-308v)</p>-->
+<pb n="306r" facs="10_306r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 332 fin 333 </p>
+<p>Serenissimo Principe </p>
+<p>Doppo la retirata fatta dal governator d’Anversa in Fiandra scritta <lb/>
+la passata settimana nelle mie lettere n° 331, che invio con queste <lb/>
+replicate si trova egli al presente con 9 mila fanti a Ekloo<ptr target="#tn1" n="1"/>, havendo <lb/>
+fatti passar gl’altri sette milla alle sue guarnigioni. In quel <lb/>
+luoco si è trincerato per dubio forse di non esser soprapreso coll’<lb/>
+essempio d’altri tempi mentre s’è voluto attentar in quella <lb/>
+parte. Arrabbiano Spagnuoli, che la cosa non sia successa <lb/>
+incolpano la perdita del tempo, non havendo don Inigo affrettato <lb/>
+il camino, come doveva per pigliar il posto delli argini a fine <lb/>
+d’impedir, che non fossero rotti<ptr target="#tn2" n="2"/>. A quelli dei Stati non <lb/>
+ha bastato far li primi tagli; ma hanno tagliato anco <lb/>
+un altro argine, et allagato altro più gran spatio di <lb/>
+Paese; et l’acque arrivano fin a Bruges, et a Gant<ptr target="#tn3" n="3"/> con <lb/>
+danno di più di ottocento milla fiorini; ma il più de-<lb/>
+gl’inimici. Arrivate le compagnie mandate da questa <lb/>
+Provincia, et l’altre ispedite dal signor principe Mauritio <lb/>
+in Fiandra sono state ripartite ne’ presidii; et li borghesi, <lb/>
+che uscirono di Midelburgh se ne sono ritornati alle <lb/>
+case loro per evitar anco la spesa maggiore poiché per <lb/>
+ogni borghese secondo l’ordinario si davano dieci piacchi <lb/>
+per giorno. Hora par che questi signori si promettino, che <lb/>
+stante l’allagamento del Paese, li presidii fortificati, <lb/>
+et li buoni ordini posti, non vi sia pericolo, che l’inimico <lb/>
+in quella parte possi attentar così facilmente che non possi <lb/>
+farsele buona resistenza. Li doi ridotti presi dall’inimico <lb/>
+furono dai soldati, che rivenero per riprenderli trovati <lb/>
+abbrugiati, ma poca perdita è questa nel peggio, che si
+<pb n="306v" facs="10_306v" rend="0"/>
+poteva aspettare se a tempo don Inigo faceva l’intrapresa<ptr target="#tn4" n="4"/>. <lb/>
+In questi giorni anco nel<ptr target="#tn5" n="5"/> Clomart paese dei signori Stati sul<ptr target="#tn6" n="6"/> camino <lb/>
+che riguarda al Brabant fu attentato da buona truppa <lb/>
+de’ Spagnuoli di surprender un castello chiamato Nordam <lb/>
+feudo di sua Eccellenza et piazza molto forte; ma furono ributati. </p>
+<p>Mentre un agente d’un capitano andava a portar alla guarnigione <lb/>
+da doi in tre milla fiorini è stato trovato vicino a Gorcon <lb/>
+da alcuni soldati nemici<ptr target="#tn7" n="7"/> usciti di Bolduch, et levatogli il denaro <lb/>
+l’hanno fatto prigioniero. </p>
+<p>Alle barche che passano sopra la Mosa per li medesimi che escono di <lb/>
+Bolduch è dato del travaglio, né ardiscono hora se non ben <lb/>
+armate far viaggio, et lo fuggono la notte, et quelli dei signori <lb/>
+Stati non si tengono otiosi per attaccar dove possono, havendo <lb/>
+ultimamente rubbate doi barche dell’inimico. Et così l’hosti-<lb/>
+lità seguono da parte, et d’altra. </p>
+<p>Doveva il signor principe Mauritio havendo ridotto in buona <lb/>
+difesa il forte fabricato dall’altra parte del Rheno, che <lb/>
+riguarda a Rees passar la riviera; et questo a fine <lb/>
+d’incommodar l’inimico, come anco per andar a far foraggio <lb/>
+et dar una sicura retirata a quelli dello Spinola, che volero <lb/>
+venir a rendersi,<ptr target="#tn8" n="8"/> scrivano ch’esso Spinola <lb/>
+si trovava alloggiato a Burich in un luoco molto avan-<lb/>
+taggioso, che stasse quivi ben trincerato, et havesse fatto <lb/>
+serrar<ptr target="#tn9" n="9"/> il suo ponte, temendo, che le sue genti non si <lb/>
+dibandino. Et qualcheduno<ptr target="#tn10" n="10"/> venuto dal campo dell’inimico <lb/>
+ha riportato a sua Eccellenza che d’un reggimento di Loreni, ch’era <lb/>
+di tre mille huomini non ne restavano in tutto, che ottocento. </p>
+<pb n="307r" facs="10_307r" rend="0"/>
+<p>Ancorché stia il Marchese alloggiato assai commodo, ha però <lb/>
+incommodità di viveri, carestia di tutte le cose, et penu-<lb/>
+ria in particolare di foraggio. Patiscono ben questi di qua <lb/>
+di qualche mancamento, ma non tanto rispetto alla com-<lb/>
+modità del transporto su per la riviera, che fa riuscir <lb/>
+il tutto assai buon mercato. </p>
+<p>Con lettere de’ 20 di settembre ci è avviso che ’l conte Henrico <lb/>
+Vandenbergh era ancora all’intorno di Giuliers senza <lb/>
+però accostarsegli o farli alcun danno; che faceva far <lb/>
+un forte sopra la montagna chiamata della forca dirimpetto <lb/>
+alla città; il che fa giudicar al signor principe Mauritio, che <lb/>
+sentendosi il detto Conte troppo debole per poterla sforzare <lb/>
+sia fermo il suo disegno di circondarla, et impedirle <lb/>
+ogni soccorso. </p>
+<p>Dall’altro canto il Marchese fa far diverse opere intorno <lb/>
+li quartieri della sua armata; et massime dove dalla <lb/>
+parte delli signori Stati egli pensa di poter ricever il più <lb/>
+gran pericolo; et li suoi ufficiali, et capitanii si pro-<lb/>
+vedevano di case, et di grandi habitationi, in maniera <lb/>
+che si presume da questo, che non habbi intentione <lb/>
+di partir così tosto di là. Questo conforma con lo <lb/>
+scritto altre volte, che possi lo Spinola svernar in quella <lb/>
+parte<ptr target="#tn11" n="11"/>. </p>
+<p>Mentre sua Eccellenza attende con diligenza anc’ella a quello che se le <lb/>
+spetta. Questi signori per sostener il peso delle gravi spese, che <lb/>
+hanno sopra le loro spalle attendono del continuo alla <lb/>
+materia di trovar denari. Non da tutti viene ben inteso, </p>
+<pb n="307v" facs="10_307v" rend="0"/>
+<p>Che si habbi ad aggravar il popolo; ma si vorrebbe, che li <lb/>
+più ricchi, et quelli, che hanno il maggior trafico concorressero <lb/>
+alla spesa; ma come si trovano pochi nei magistrati delle <lb/>
+città, che non habbino qualche interesse sia nei datii o nell’<lb/>
+entrate, o nell’uscite difficile riesce tal persuasione. <lb/>
+Qui aggiunti saranno gl’articoli, che scrissi riverentemente la <lb/>
+passata settimana di dover inviare, et sopra li quali tratta questa <lb/>
+Congregatione di Holanda, et saranno per quelli dell’Eccellenze vostre <lb/>
+che ne haveranno curiosità. </p>
+<p>Dalla Serenità vostra si attende con devotione, che venga la sodisfattione <lb/>
+delli 50 mila fiorni per mese in virtù dell’aleanza, non contentando <lb/>
+alcuni, come mi viene riferto della dilatione, et altri <lb/>
+mostrano<ptr target="#tn12" n="12"/> viverne impatienti; et da quelli, con chi m’incontro subito mi viene addimandato se darò denaro se <lb/>
+n’ho havuta la commissione, che hormai è il tempo, et <lb/>
+cose simili, mostrandosi desiderio, che ciò segui. Io rispondo <lb/>
+che attendo quello, che dalla Serenità vostra mi venirà commandato <lb/>
+et ch’ella ancor non era avvisata di ciò che seguiva. <lb/>
+Et di tal maniera mi vo sbrigando dall’instanze<ptr target="#tn13" n="13"/>. Gratie etc. </p>
+<p>Dall’Haya li 27 settembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="308r" facs="10_308r" rend="0"/>
+<p>Blank page</p>
+<pb n="308v" facs="10_308v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 332 fin 333 </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="308vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 settembre 1621 ricevuta a’ 14 ottobre </p>
+<p>Haya. n° 332 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "G-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ch’esso" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line on "fermar" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e" corrected above "-a."</p></note>
+</div>
+</body>
+</text>
+</TEI>

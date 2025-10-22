@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.008 date 1617-10-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 41r-46v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 51) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp14-27)
+            </note>
+            <biblScope unit="page">41r-46v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the delays and problems with the levies such as financial problems that need to be settled and mutinies of English soldiers aboard the ships. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Delfzijl</settlement>
+            <date when="1617-10-13">13 ottobre 1617</date>
+            <num>013</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="013">
+<div type="main" facs="main text of letter" n="013">
+<!--<p>13 ottobre 1617, Delfzijl (cc. 41r-46v)</p>-->
+<pb n="041r" facs="05_041r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>per la partenza di queste genti s’incontra tuttavia nell’<lb/>
+ordinaria insolente tristezza de’ marinari, perché se bene <lb/>
+quello che scrissi la settimana passata, che caricava le <lb/>
+vittuarie diede asseverante parola di esser ad ordine <lb/>
+di tutti li altri bisogni della nave: con tutto ciò ha <lb/>
+mancato; anzi ha fatto pregar mercordì il Conte ad <lb/>
+haver patientia per tre, o quattro giorni ancora <lb/>
+onde non può esser pronto, che dimani a sera con <lb/>
+un altro dei vasselli, come hanno promesso, se la <lb/>
+fede di costoro basta ad assicurarcene. </p>
+<p>A questo si aggiungeva anco un altro incontro di <lb/>
+dilatione s’io non condescendevo (se ben sforzatamente) <lb/>
+all’instanza del signor Conte, come<ptr target="#tn1" n="1"/> intenderà la Serenità vostra <lb/>
+fin domenica passata<ptr target="#tn2" n="2"/> è stato retirato dal <lb/>
+farmi alcuna dimanda. Aspettava ricapiti di <lb/>
+denari da Amsterdam, li quali per quanto ho <lb/>
+potuto penetrare sono venuti in tutto contrarii <lb/>
+al suo disegno; et pure essendo necessario per <lb/>
+sbrigarsi pagar a chi deve, sodisfar alli signori <lb/>
+di Grunighen<ptr target="#tn3" n="3"/> per li allogii, et vito dei soldati
+<pb n="041v" facs="05_041v" rend="0"/>
+che sono stati trattenuti nelle terre della loro giuriditione <lb/>
+attendendo la venuta delle navi in questa fiumara <lb/>
+et in particolar pagar in questo forte per li medesimi <lb/>
+rispetti, disimpegnar<ptr target="#tn4" n="4"/> li capitani, et officiali, et alcuni <lb/>
+soldati, che si sono trattenuti qui dal principio <lb/>
+del mese d’agosto fino ad hora presente; oltre l’avan-<lb/>
+zamento, che li medesimi capitani ricercano al Conte <lb/>
+il che fa ascender la summa grandemente; ma più <lb/>
+che anco li patroni de’ vasselli, che di giorno in <lb/>
+giorno hanno fatto provisioni a Embdem, et altrove <lb/>
+per dar a mangiar a’ soldati nei vasselli per non <lb/>
+consumar li viveri, che hanno a servire per il <lb/>
+viaggio, et contentarli di qualche promesse che <lb/>
+gli ha fatte prima che levino le vele, lo ha <lb/>
+necessitato a farmi ricercare, et poi egli stesso <lb/>
+a pregarmi d’assistergli, et dargli il restante <lb/>
+del donativo, che doveva haver al suo arrivo in <lb/>
+Venetia; disse, che havevo veduto che la mostra <lb/>
+era stata di più di tre milla fanti<ptr target="#tn5" n="5"/>, <lb/>
+che ogni giorno ne arrivano qualcheduni
+<pb n="042r" facs="05_042r" rend="0"/>
+che vedevo pure esser in questa riviera una nave di <lb/>
+più per levar trecento altri fanti, che aspettava <lb/>
+da Amburgh, che forse sarebbono stati presti per far <lb/>
+il viaggio con lui; o almeno pochi giorni doppo, <lb/>
+et poi con longo discorso mi andò di nuovo in rappre-<lb/>
+sentando di una in una le spese, che haveva <lb/>
+fatte per honorar la carica, che teneva da vostra Serenità, <lb/>
+et per il servitio di quella serenissima Republica; che <lb/>
+senza alcun minimo avanzamento, o imprestido <lb/>
+haveva fatta la provisione dell’armi per tutto il <lb/>
+reggimento, et altro necessario per esso; et che non <lb/>
+restava<ptr target="#tn6" n="6"/> al partire, che sodisfar a quello <lb/>
+ch’io stesso potevo conoscer esser necessariissimo<ptr target="#tn7" n="7"/>, <lb/>
+et senza era impossibile, che potesse metter piedi in <lb/>
+nave per far il viaggio. Io non saprei rappresentar <lb/>
+alla Serenità vostra quanto nuova, et quanto strana <lb/>
+mi sia riuscita l’instanza: presuponevo bene, <lb/>
+che non potesse esser di meno, che non m’instasse <lb/>
+di qualche summa; ma non come ha fatto. Gli <lb/>
+risposi, che mi rincresceva infinitamente, ch’egli
+<pb n="042v" facs="05_042v" rend="0"/>
+che sapeva li suoi interessi non havesse anticipatamente <lb/>
+preveduto quello, che al presente mi diceva <lb/>
+del suo bisogno; al quale hora non sapevo come <lb/>
+poter a suo desiderio<ptr target="#tn8" n="8"/> suffragare mentre <lb/>
+né per il luoco mi vedevo la commodità pronta, né <lb/>
+l’auttorità dell’eccellentissimo Senato a me così larga per <lb/>
+sodisfargli. Replicò egli signore io ho tentato, et fatto <lb/>
+tutto quello, che imaginabilmente ho potuto per non <lb/>
+darle<ptr target="#tn9" n="9"/> molestia; ma non havendo potuto ricever l’effetto <lb/>
+di quelle speranze, con le quali ero partito d’Amsterdam <lb/>
+ho convenuto necessariamente appigliarmi a quest’ultimo <lb/>
+rimedio di ricercar il suo aiuto, non sapendo dove <lb/>
+haver altro ricorso: perché in ogni modo entrato in <lb/>
+nave, volendo il signor Dio assistermi col buon vento, <lb/>
+arrivando a Venetia salvo con la mia genti doverei <lb/>
+immediate haver questo secondo donativo, et in somma <lb/>
+andò pregando, et ripregando in maniera che <lb/>
+conoscendo io in effetto, et sinceramente il bisogno, tro-<lb/>
+vandomi sopra il luoco mi parve che non fosse possibile <lb/>
+poterli negar qualche assistenza, et dissi, che io
+<pb n="043r" facs="05_043r" rend="0"/>
+mi sarei contentato di dargli fin otto, o dieci milla ducati <lb/>
+replicò che questi non bastavano né anco alla terza <lb/>
+parte di quanto deve, et che però con li 27 mila non era <lb/>
+sufficiente a pagar per tutto; onde sarebbe stato necessitato <lb/>
+mandar di nuovo in Amsterdam a far altro tentativo <lb/>
+et pur ritornò ad instarmi della medesima summa <lb/>
+et in fine in più conferenze mi ha fatto cadere <lb/>
+con le instantie sue efficaci, del fratello, et di qualche <lb/>
+altro de’ suoi più cari a dargli la summa sudetta <lb/>
+di 27 mila ducati con offerta di farmi un ricever con <lb/>
+l’obligo suo, et del fratello per tutta la summa, <lb/>
+et per undeci milla ducati in particolare che si sarebbe <lb/>
+obligato un mercante d’Amsterdam ch’è qui, inte-<lb/>
+ressato con il Quingetti, della restitutione di questo <lb/>
+denaro, quando non conduchi le genti al servitio. <lb/>
+Io prometto con ogni humiltà all’Eccellenze vostre illustrissime che <lb/>
+se bene dalle lettere dell’eccellentissimo Senato posso cavare <lb/>
+haver qualche auttorità nel dispensarmi di dar <lb/>
+qualche cosa a questo cavalliere come per termine <lb/>
+di prestanza in ogni modo l’obedienza, che
+<pb n="043v" facs="05_043v" rend="0"/>
+devo al publico, et il non arrogarmi più di quello mi si <lb/>
+deve; dall’altro canto il rosore, che ho<ptr target="#tn10" n="10"/> veduto <lb/>
+chiaro nella faccia del signor Conte nel farmi l’instanza <lb/>
+et le preghiere, stimoli contrarii gl’uni agl’altri hanno <lb/>
+agitato molto l’animo mio; ma il timore<ptr target="#tn11" n="11"/> <lb/>
+poi<ptr target="#tn12" n="12"/>, che la negativa potesse apportar qualche <lb/>
+inconveniente con tirar ancora il tempo in lungo <lb/>
+con qualche pericoloso disordine mi ha fatto condiscender <lb/>
+a quanto elle hanno inteso: spero nondimeno <lb/>
+nella benignità loro, che accetteranno in<ptr target="#tn13" n="13"/> bene <lb/>
+quel tanto, che io ho fatto veramente per bene. </p>
+<p>La levata del conte Gio. Ernesto mi ha travagliato l’animo <lb/>
+questa mi riesce di niente minor travaglio, poiché <lb/>
+succedono tanti incontri, et se ultimamente la prudenza <lb/>
+del signor Conte, et la<ptr target="#tn14" n="14"/> vigilanza di monsignor Durante di <lb/>
+Prigni suo sargente maggiore non erano, succedeva <lb/>
+senza dubio una formata amutinatione nella flotta <lb/>
+et questo per instigatione di alcuni soldati inglesi al <lb/>
+numero di vintidoi, che scrissero una lettera al <lb/>
+quartiermastro, essendo della sua compagnia
+<pb n="044r" facs="05_044r" rend="0"/>
+con ricercarlo, o di darli denari, o che volevano <lb/>
+uscire con gl’altri soldati dalla nave, minacciando <lb/>
+che forse haverebbono fatto qualche altra risolutione <lb/>
+accenando di levar l’ancora, et farsi patroni del <lb/>
+vassello; et la lettera era fatta<ptr target="#tn15" n="15"/> sopra un <lb/>
+foglio di carta dentro un circolo intorno al quale <lb/>
+li medesimi Inglesi, et settanta in ottanta d’altra <lb/>
+Natione havevano scritti li loro nomi, affineché <lb/>
+non fosse conosciuto il capo dell’amutinatione. Furono <lb/>
+fatti venir a terra sotto pretesto, che sarebbono <lb/>
+stati licentiati; ma con la scorta de’ soldati di <lb/>
+questo forte furono arrestati nei corpi di <lb/>
+guardia, et essendo un tanto numero di una <lb/>
+Natione fu stimato bene il contentarli con <lb/>
+parole, dividendoli tra le compagnie. </p>
+<p>Un altro inglese della compagnia del Conte nel suo <lb/>
+vassello haveva anco cominciato ad amutinare <lb/>
+fu levato, et sta tuttavia prigione con li ceppi <lb/>
+alle mani, et ai piedi, et nel Consiglio di <lb/>
+guerra, che il Conte ha fatto ridurre s’è deliberato
+<pb n="044v" facs="05_044v" rend="0"/>
+di tenerlo così fin alla partenza con far correr voce <lb/>
+tra il reggimento, che sarà punito. Questa Natione <lb/>
+inglese è la vera mutina; ma anco altri per la <lb/>
+lunghezza del tempo, che sono in vassello sono stanchi. </p>
+<p>È gionta una delle due barche, che si attendeva con <lb/>
+diverse provisioni per accommodar in nave li soldati. <lb/>
+Questa sera, o dimattina se ne aspetta un’altra con <lb/>
+il resto, né si attende che questo, et che le doi <lb/>
+navi siano pronte; et spero coll’aiuto di Dio colle <lb/>
+prime lettere significar alla Serenità vostra la partenza <lb/>
+del signor Conte con la sua flotta, che sua divina Maestà <lb/>
+lo voglia. Et il signor Conte lo desidera, come io, perché ogni <lb/>
+giorno gli corre per nutrir li soldati più di<ptr target="#tn16" n="16"/> mille <lb/>
+cento fiorini, senza quello, che spende in questa <lb/>
+et in altre hosterie, che ascende a più di ottanta, et <lb/>
+novanta fiorini per giorno. </p>
+<p>Le lettere di cambio per li 27 mila ducati saranno l’una <lb/>
+per 25 mila pagabile al signor Gratioso del Calice; et <lb/>
+l’altra per li doi milla ai signori Van Castri doveranno <lb/>
+pagarsi per li disisette del mese di decembre
+<pb n="045r" facs="05_045r" rend="0"/>
+venturo secondo l’uso della piazza, et in moneta di <lb/>
+banco. </p>
+<p>Io non ho ancor ricevuto il mio ordinario dispaccio <lb/>
+non so quello l’habbi potuto intertenere. Gratie etc. </p>
+<p>Da Delfsil a’ 13 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="045v" facs="05_045v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046r" facs="05_046r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046v" facs="05_046v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="013">
+<!--
+<p n="046vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 ottobre 1617 ricevuta 4 novembre </p>
+<p>Haia </p>
+<p>L. R<hi rend="superscript">tis</hi> SS.</p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "dal" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-he(n)" corrected above "-a," uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "del suo obligo" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "altro" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "sodisfar" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ho" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "dall’altro" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Corrected above "canto" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Corrected above "per."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "vigli" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "dentro" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

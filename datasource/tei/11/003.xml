@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.003 date 1622-03-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 19r-24v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">19r-24v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from 18 February, potentially some letters are missing, as these have been recuperated after a postal attack. The States General have sent 14 or 15 regiments to protect Sluis, a dike has been cut to halt the advancement of the Spanish troops and they are discussing who will take command. The Spanish are also amassing troops in direction of Wesel and Heusden. To divert Spanish attention they are supporting the actions of Christian of Brunswick near Lippstadt. John Casimir of Levenstein is buying arms for 1000 infantrymen for Christian of Brunswick and will also levy more troops to unite with Mansfeld. Frederick V requests that States General continue to support Mansfeld. No further news about imperial ambassador negotiating truce with England. Advocate of VOC has been sent to London with secret instructions. Outcry that several ships with some 2000 soldiers are ready to leave Texel for La Rochelle, according to Suriano, it is whether Du Maurier (who is a Huguenot) has informed the king. Reports that the States General are going to publish a punitive edict against the Jesuits which has left many Catholics fearing they will loose spiritual consolation. Numerous intercepted letters have been printed under the title ’Cancelleria Hispanica’, which he attaches to the letter (but are no longer kept with this letter). </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-03-14">14 marzo 1622</date>
+            <num>006</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="006">
+<div type="main" facs="main text of letter" n="006">
+<!--<p>14 marzo 1622, L’Aia (cc. 19r-24v)</p>-->
+<pb n="019r" facs="11_019r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 376 sola </p>
+<p>Serenissimo Principe </p>
+<p>lettere de’ 18 del passato di costì mi sono pervenute questa <lb/>
+mattina inviatemi dal mastro della posta d’Anversa <lb/>
+ricuperate dal svaleggio<ptr target="#tn1" n="1"/> seguito del Postiglione, che veniva <lb/>
+d’Alemagna; non mi dice ove sia seguito. M’accorgo bene <lb/>
+che mi mancano delle lettere; ma non so se di quelle di vostra Serenità. </p>
+<p>Questi signori attendono con diligenza a consultar sopra il modo di assicu-<lb/>
+rar bene l’isola di Casant, che vuol dir la piazza dell’<lb/>
+Esclusa. Hanno già fatte partir quattordici, o quindici com-<lb/>
+pagnie prese una da ogni reggimento. Tre de’ Francesi, <lb/>
+quattro d’Inglesi, doi de’ Scocesi, una de’ Valoni, et il resto <lb/>
+de’ Tedeschi, et de’<ptr target="#tn2" n="2"/> Fiaminghi. </p>
+<p>Solecitano quelli di Zelanda, come che vicini temono, et <lb/>
+aprehendono maggiormente il pericolo perché da questi signori <lb/>
+sia destinato soggetto al commando di quelle militie, che <lb/>
+vaglia in valore, et in auttorità. Viene da chi ha l’inte-<lb/>
+resse per parentella con il signor d’Otthin governatore dell’Esclusa, fratello <lb/>
+dell’amiraglio di Zelanda tirato indietro sottomano a fine <lb/>
+di mantenergli la riputatione, et il commando, che ha in <lb/>
+quella parte di Fiandra; ma parmi in ogni modo, che <lb/>
+molti inclinino ad inviar il signor di Marchet luogotenente generale <lb/>
+della cavallaria con titolo di soprintendente generale su l’<lb/>
+isola di Casant. Questo però sta indeciso: intanto ad <lb/>
+altre dodici compagnie, che vi erano prima<ptr target="#tn3" n="3"/> commanda <lb/>
+il signor Grenù luogotenente generale dell’artiglieria, come quello, ch’è
+<pb n="019v" facs="11_019v" rend="0"/>
+governator d’Isendich piazza lì appresso. </p>
+<p>È stato avvisato, che vedendo quelli dei stati, che a gran passi <lb/>
+erano per caminar avanti Spagnuoli nelle fabriche de’ forti <lb/>
+sul canale di detta piazza dell’Esclusa habbino tagliata <lb/>
+la dica<ptr target="#tn4" n="4"/>, o argine nominato di Holanda, con che si è <lb/>
+allagato tutto il Paese da quella parte fino a Bruges <lb/>
+et fatto gran danno alli lavori dei Spagnuoli, havendo <lb/>
+prima impedito un taglio, che gl’inimici havevano pen-<lb/>
+sato di fare a danno di questi di qua. Et con detto <lb/>
+taglio, et con l’altro resta allagata la parte anco fino a <lb/>
+Gantes. </p>
+<p>Verso Wesel, et all’intorno ci è avviso, che Spagnuoli fanno <lb/>
+ammasso di genti; onde da questi doi capi, Fiandra, <lb/>
+et Reno veggono li signori Stati, che saranno necessitati <lb/>
+inviar doi buoni corpi di militia per impedir massime <lb/>
+li attentati a che mirano detti Spagnuoli di passar <lb/>
+l’Isel. </p>
+<p>Anco verso Husden per conservatione di quella piazza importantissima <lb/>
+frontiera in quella Provincia il forte di Crevacuore, et altri <lb/>
+saranno constretti inviar altro corpo di militia contra <lb/>
+monsieur Grabendon, che dicono haverà 6 mila fanti nella <lb/>
+città di Bolduch, et all’intorno; come anco di tener <lb/>
+un’armata a parte per condursi alla difesa, dove più <lb/>
+il sito, et l’opportunità del tempo lo comporterà. </p>
+<pb n="020r" facs="11_020r" rend="0"/>
+<p>A tutte queste provisioni sendo necesario il denaro sono dietro <lb/>
+a cercar stradda di trovarlo; et tanto più quanto corre <lb/>
+la voce, che la corte di Brusseles habbi ad aver sei millio-<lb/>
+na di scudi; sendone stata augumentata una buona <lb/>
+summa all’<ptr target="#tn5" n="5"/>ordinaria delli anni passati per il pagamento <lb/>
+delle militie; attendono Spagnuoli a rinforzar le compa-<lb/>
+gnie; come anco a solecitar li tre nuovi reggimenti. </p>
+<p>Viene assicurata l’intentione de’ Spagnuoli esser ferma di <lb/>
+perfettionar il canale cominciato a Bruges per venir nel <lb/>
+canal dell’Esclusa; disegnando per esso,<ptr target="#tn6" n="6"/> <lb/>
+uscir<ptr target="#tn7" n="7"/> con buon numero di galeotte armate piene <lb/>
+di genti, servendosi opportunamente del beneficio della notte <lb/>
+et sbarcar nell’isola di Casant, che è l’anima di detta <lb/>
+Esclusa. Et difficilmente riuscendo questo pensiero po-<lb/>
+trebbono poi li signori Stati cacciarneli; onde scorrerà del <lb/>
+continuo la cavallaria sopra quella riva notte et giorno. </p>
+<p>Si vede anco, che per far spender genti, et divertir lo Spagnuolo <lb/>
+in altra parte continueranno ad assister al duca di <lb/>
+Bransvich, che tuttavia si trova in Lipstat, et nei contor-<lb/>
+ni va tirando contributioni. Ha scritto qui, che <lb/>
+le acque erano tanto grosse, che non poteva passare <lb/>
+altrimenti era risoluto di andar ad incontrar il baron <lb/>
+d’Anolt, et le truppe di Colonia. </p>
+<p>Quelle di Spagna non sono ancor unite alle sudette; ma dicono
+<pb n="020v" facs="11_020v" rend="0"/>
+esser poco discoste, né si è confirmato il disgusto, che fu <lb/>
+detto del conte Henrico di Bergh per il commando. Hora <lb/>
+viene detto di certo, che alle sole armi di Colonia haverebbe <lb/>
+commandato quel canonico della casa di Lorena in luoco <lb/>
+dell’Arcivescovo, che voleva andar in persona alla <lb/>
+difesa del suo; ma n’è stato sconsigliato da’ Colonesi. <lb/>
+Sono le genti di Colonia doi milla fanti, et cinquecento cavalli. </p>
+<p>Il conte Gio. Casimiro di Levenstein è arrivato qui quattro <lb/>
+giorni sono per haver delle armi per armar mille fanti, <lb/>
+che già ha mandato ad unirsi con il detto duca di <lb/>
+Bransvich; et leverà anco qualche cavalli, oltre <lb/>
+doi milla fanti, che già tiene del suo vecchio reggimento <lb/>
+in Heidelbergh, et doverà andarsene poi insieme a <lb/>
+a* trovar il conte di Mansfelt. Mi ha detto questo <lb/>
+signore, che ’l Duca sudetto habbi da circa 4 mila cavalli, <lb/>
+et cinque in seimilla fanti; che dovevano arrivarne <lb/>
+altri tre milla del duca Guglielmo di Sassonia di Wimar <lb/>
+et 1300 cavalli; onde sperava esso duca Christiano <lb/>
+in termine di tutto questo mese, et forse più tosto haver <lb/>
+insieme 12 mila fanti, et 4500 cavalli. Con questi potrebbe <lb/>
+partir questo Re riguardandosi alla sicurezza del ca-<lb/>
+mino; perché per l’andarvi è consigliato a fine d’incorrag-<lb/>
+giar tutti gl’amici, i sudditi, et li principi esterni ancora
+<pb n="021r" facs="11_021r" rend="0"/>
+et così per il commando nella armata vietar le male intelli-<lb/>
+genze tra capi da guerra, et tra li principi stessi di <lb/>
+Alemagna. </p>
+<p>Questi signori hanno dal Consiglio di Stato fatto consultar quello <lb/>
+che dovesse farsi se mandar aiuti, o no al detto Duca. <lb/>
+È stato considerato, che superfluo sarebbe il mandargli<ptr target="#tn8" n="8"/> <lb/>
+cavallaria, mentr’egli n’ha pur troppo; et quanto all’<lb/>
+infanteria non hanno li signori Stati commodità di potersene <lb/>
+disfare; havendo troppo bisogno per loro. In modo che <lb/>
+fino a qui resta indeterminata questa materia <lb/>
+alla quale però si pensa assai, conoscendo bene, che <lb/>
+dal sostenimento dell’armi in Alemagna dipende in gran <lb/>
+parte il bene, et una buona sicurezza a questi Stati <lb/>
+dall’invasioni dei Spagnuoli. </p>
+<p>Il re di Bohemia solecita li signori Stati per haver aiuti per sostener <lb/>
+Mansfelt, et per haver qualche armi; et procedendosi <lb/>
+con gran larghezza nelle deliberationi, questo lo trava-<lb/>
+glia grandemente. Pensava avanti hieri mandar <lb/>
+qualcheduno in Inghilterra per dar nuovi stimoli al Re; ma <lb/>
+il tempo è stato contrario tutti questi giorni passati; <lb/>
+hieri ha cominciato far buono, et credo, che doverà <lb/>
+ispedir immediate. </p>
+<p>Intorno alla tregua, che ha ricercato il Re inglese non ho <lb/>
+inteso di vantaggio di quanto riverentemente scrissi la
+<pb n="021v" facs="11_021v" rend="0"/>
+passata settimana nella prima n° 374 che con il n° 375 sarà <lb/>
+qui aggiunta replicata. Solo il signor conte di Solms m’ha detto <lb/>
+che era avvisata sua Maestà che dalla corte cesarea era stato <lb/>
+ispedito il conte di Svartzembergh in Inghilterra con commissione di<ptr target="#tn9" n="9"/> <lb/>
+trattar una pace, che si publicava, che a questa<ptr target="#tn10" n="10"/> Cesare era <lb/>
+solicitato da Sassonia, et che anco alcuni delli ecclesiastici hanno <lb/>
+fatto lo stesso. </p>
+<p>Ci sono avvisi qui, che resti disfatto delle sue truppe per manca-<lb/>
+mento di paghe il marchese di Jegherendorf; ma non si confer-<lb/>
+ma, né viene tenuto qui per vero l’accordo del principe <lb/>
+Gabor, almeno non si vorrebbe, che fosse. </p>
+<p>Ha il Re havuto avviso, che Tilli retiratosi dal Berghstrat <lb/>
+haveva preso altro camino né si sapeva il fine, si dubitava <lb/>
+che volesse far un torno, pigliar qualche picciole piazze, <lb/>
+et attaccar Heidelbergh per di dietro perché don Gonzal di <lb/>
+Cordova era andato al medesimo posto di dove Tilli era <lb/>
+uscito dal Berghstrat. Altri però credevano, che andasse per <lb/>
+assicurar le terre di Magonza, o per far testa alla <lb/>
+venuta del duca di Bransvich. </p>
+<p>Non sanno più che promettersi questi signori della risolutione <lb/>
+d’Inghilterra et principalmente non sanno che sperar dei loro <lb/>
+affari in quella corte. È partito il Borela avocato <lb/>
+della compagnia con instruttioni secrete<ptr target="#tn11" n="11"/> verso Londra; <lb/>
+ma per quanto ho potuto penetrare non tali, che debbino
+<pb n="022r" facs="11_022r" rend="0"/>
+servire a dar quel contento, che si ricerca, mentre publi-<lb/>
+camente alcuni di quelli della camera di Zelanda in <lb/>
+particolare dicono, che non bisogna<ptr target="#tn12" n="12"/> ceder alle preten-<lb/>
+sioni perché ceduto si pretenderà sodisfattione a nuove <lb/>
+pretensioni, che si faranno risorger, et che bisogna star <lb/>
+saldi. Di ciò resta scontento questo signor ambasciator Carleton <lb/>
+parendoli, come mi disse, che ’l male habbi ad incanche-<lb/>
+rirsi, et temendo, che non segua qualche inconveniente. <lb/>
+Quanto resta scontento questo Ambasciatore tanto par che rimanghi <lb/>
+scandalizato, et disgustato quello di Francia, et principalmente <lb/>
+quelli della Natione, che sono catholici, per haver come dicono <lb/>
+scoperto, che vasselli armati (alcuni dicono doi altri <lb/>
+quattro) siano già in Tessel con qualche doi milla soldati <lb/>
+fuggitivi dalle compagnie per andar con officiali presi pur <lb/>
+o più tosto eletti di persone però non di gran isperienza, <lb/>
+et che vadino alla Roscella con monsieur della Nua <lb/>
+figlio di quello, che primo fu che condusse li reggimenti francesi <lb/>
+in questi paesi<ptr target="#tn13" n="13"/>. Si afferma anco, che sotto mano dai proprii <lb/>
+magazini publici dei signori Stati siano state levate pol-<lb/>
+veri, corde, moschetti, altri apprestamenti tali, et anche <lb/>
+qualche pezzo di artiglieria. Non si sa se l’Ambasciatore <lb/>
+(ch’è della religione riformata) n’habbi scritto al Ee; <lb/>
+ma in effetto la verità è che a me è stato detto per <lb/>
+certo che con le genti, et provisioni sudette vi vadino doi
+<pb n="022v" facs="11_022v" rend="0"/>
+vasselli. Favoriscono questi signori quanto possono a quel partito <lb/>
+perché non vorrebbono, che fosse depresso; ma molti vorrebbono <lb/>
+bene, che se ne astenessero per non essacerbar maggiormente <lb/>
+la Francia; anzi tentassero con sodisfattioni convenienti obligarsela <lb/>
+riconciliarsi con essa, et farsela amica; et insieme l’Inghilterra per <lb/>
+haver<ptr target="#tn14" n="14"/> questi doi appoggi così potenti favorevoli alla <lb/>
+conservatione di questi paesi. </p>
+<p>Sono questi signori per publicar un rigoroso editto contro giesuiti <lb/>
+perché escano fuori di queste Provincie; il che doveranno fare iesuiti<ptr target="#tn15" n="15"/> sei giorni doppo la publicatione, che non obedendo <lb/>
+o ritornando, presi, saranno condannati a pagar la prima volta<ptr target="#tn16" n="16"/> <lb/>
+per il meno seicento fiorini; la seconda il doppo, et dove-<lb/>
+ranno haver la frusta, et esser banditi, et la terza <lb/>
+saranno castigati di maggior pena nella vita con confisca-<lb/>
+tione di tutti i beni, come per turbatori del publico riposo. </p>
+<p>Quasi egual pena sarà ingiunta a chi li riceverà in casa. </p>
+<p>Prohibiranno<ptr target="#tn17" n="17"/> le colette, che catholici facevano de denari per <lb/>
+inviar fuori del Paese per elemosine, o per altro; medesimamente il tenir <lb/>
+figlioli fuori di queste Provincie nelli collegi, et scuole de’ <lb/>
+iesuiti, et nei paesi principalmente dei Spagnuoli. </p>
+<p>Anco a detti catholici in particolare par che si vogli restringer con <lb/>
+essecutioni di emenda in virtù de’ vecchi placart l’esser-<lb/>
+citio della nostra santa<ptr target="#tn18" n="18"/> religione non tanto nelle case proprie, che in <lb/>
+quelle de’ ministri de’ principi. Alcuni sono notati; ma
+<pb n="023r" facs="11_023r" rend="0"/>
+ancor non si è venuto ad alcuna dichiaratione, o sententia dal ma-<lb/>
+gistrato. Temono nondimeno essi catholici, et modestamente si com-<lb/>
+piangono di restar privi di quella consolatione spirituale, che <lb/>
+tal volta havevano nella casa del signor principe di Portugallo <lb/>
+cognato del signor principe d’Oranges; et principalmente in questa <lb/>
+della Serenità vostra di quello seguirà le ne darò riverente conto. <lb/>
+Ma tutto parmi sia fatto per dar freno con tal esempio all’<lb/>
+insolenza delli arminiani, che non lasciano di far nuove <lb/>
+conventicole, et di tumultuare. </p>
+<p>Sono state messe alle stampre<ptr target="#tn19" n="19"/> diverse<ptr target="#tn20" n="20"/> delle lettere intercette, et manda-<lb/>
+te dal conte di Mansfelt a questo Re, con qualche dichia-<lb/>
+ratione, et il libro è intitolato Cancellaria hispanica <lb/>
+ne mando uno qui aggiunto<ptr target="#tn21" n="21"/> per quelli dell’Eccellenze vostre che <lb/>
+havessero gusto di vederlo. Et a vostra Serenità et all’Eccellenze loro <lb/>
+auguro con ogni humil riverenza felicissime le prossime <lb/>
+santissime feste di Pasqua. Gratie etc. </p>
+<p>Dall’Haya li 14 marzo 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="023v" facs="11_023v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="024r" facs="11_024r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="024v" facs="11_024v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 376 sola<ptr target="#tn22" n="22"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="006">
+<!--
+<p n="024vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 marzo 1622 ricevute a’ 30 detto </p>
+<p>Del segretario Suriano sola n° 376 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "Valoni" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "d-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "disegnando per" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Precedes "esso" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "-ene" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-te" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "creder" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Precedes "no(n)" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "la … volta" added above the deleted word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-ranno" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "nostra santa" added above the line with an insertion mark.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-t-" corrected above "-g-."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Seal and traces of seal in red wax"</p></note>
+</div>
+</body>
+</text>
+</TEI>

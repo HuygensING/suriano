@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.009 date 1616-08-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, 131r-132v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">131r-132v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that, upon his arrival in Cologne, he has heard that Johan Jacob van Bronckhorst is raising 1000 cavalry and paying them eighty thalers each. These troops will serve the house of Austria, but might secure Dortmund and Munster, two places which might be taken easily by the Dutch. The newly wedded couple, George William of Brandenburg and Elizabeth Charlotte of the Palatinate, have travelled from Heidelberg to Cologne on their way to Cleves to claim possession. The situation remained tense with no move from either side. Remarks that the merchants in Cologne supply both Dutch and Spanish with war provisions and munitions. Baltasar de Zúñiga y Velasco, the Spanish ambassador in Vienna, has written that negotiations with Venice are difficult but no-one is really talking about this matter. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Cologne</settlement>
+            <date when="1616-08-06">6 agosto 1616</date>
+            <num>041</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="041">
+<div type="main" facs="main text of letter" n="041">
+<!--<p>6 agosto 1616, Colonia (cc. 131r-132v)</p>-->
+<pb n="131r" facs="02_131r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>all’arrivo mio in questa città, che fu hieri a sera intesi, che <lb/>
+a Meulendunch cinque leghe di qua, et nei contorni si fa <lb/>
+una levata di mille cavalli sotto la condotta del barone <lb/>
+d’Anolt, che altre volte ha servito l’arciduca Leopoldo. <lb/>
+Il denaro, che si distribuisce buona parte è in doppie <lb/>
+[de]<ptr target="#tn1" n="1"/> Spagna, et ad ogni soldato si dà ottanta taleri di <lb/>
+prestanza. La mostra doverà<ptr target="#tn2" n="2"/> pur darsi nel luoco <lb/>
+sudetto per tutto il mese presente, et le patenti hanno <lb/>
+questa dichiaratione generale che habbi a farsi <lb/>
+essa cavalleria per servitio della casa d’Austria; ma <lb/>
+qui viene tenuto per fermo, che habbi in fine ad esser <lb/>
+ripartita a Durmont, et a Munster per assicurar quelle <lb/>
+doi piazze assai esposte al pericolo di sorpresa; <lb/>
+temendo l’Imperatore, o più tosto Spagnuoli, che Holandesi <lb/>
+possino servirsi della commodità, che li porgesse la <lb/>
+fortuna d’avanzarsi sotto il pretesto della protetione <lb/>
+che hanno presa del marchese di Brandemburgh; <lb/>
+ingelositi massime dalla colleganza, ch’essi hanno <lb/>
+stretta ultimamente<ptr target="#tn3" n="3"/> con le città maritime; altrettanto cara <lb/>
+dall’altro canto alli principi dell’Unione. </p>
+<p>Il figliolo del signor marchese di Brandemburgh con la sposa
+<pb n="131v" facs="02_131v" rend="0"/>
+sorella del signor Principe palatino è passato questa mattina <lb/>
+in barca, di ritorno da Heidelbergh, a visita di questa <lb/>
+città, et li cittadini di essa non potendo altrimenti <lb/>
+hanno honorato il passaggio di detti principi con hono-<lb/>
+ratissimo saluto di moschetteria<ptr target="#tn4" n="4"/> mortaletti, et tiri <lb/>
+d’artiglieria. Va esso Principe a Cleves per tenersi <lb/>
+quivi come in possesso per nome del padre. [Che]<ptr target="#tn5" n="5"/> con numero <lb/>
+di cavalleria, et d’infanteria holandese lo sta atten-<lb/>
+dendo ai confini per fargli scorta; ma qui si <lb/>
+tiene, che sia più per capo di riputatione, che per <lb/>
+necessità mentre la parte contraria non si muove, <lb/>
+osserva, et sta sul semplice avviso, né si sentono <lb/>
+movimenti dall’una, né dall’altra parte<ptr target="#tn6" n="6"/>. Et li mer-<lb/>
+canti di questa città forniscono indiferentemente <lb/>
+ad ambedoi secondo il bisogno, che hanno tanto <lb/>
+de’ viveri, quanto de’ polveri, et altre munitioni <lb/>
+da guerra: è ben vero, che si bene, che le cose di <lb/>
+qua non habbino a fermarsi in questo stato, et che <lb/>
+in tanto Spagnuoli non faccino motivo di progresso <lb/>
+in quanto stano aspettando qual essito habbino <lb/>
+ad haver li negotii d’Italia. Et sopra le controversi[e]
+<pb n="132r" facs="02_132r" rend="0"/>
+di vostra Serenità don Balthassar Zunica ambasciator di Spagna in <lb/>
+corte cesarea ha scritto ad un<ptr target="#tn7" n="7"/> suo particolar amico, et <lb/>
+principale in questa città, che il negotio ha in sé tanti capi <lb/>
+et tanto difficili ad accordarsi fra le parti, che si stenterà <lb/>
+trovarvi ripiego: non condescende però ad altro, né qui <lb/>
+se ne fa gran discorsi. </p>
+<p>Partendo dimani di buon hora l’Ordinario per Venetia <lb/>
+da questa città ho stimato mio debito prima della conti-<lb/>
+nuatione del mio viaggio abbracciar l’occasione per<ptr target="#tn8" n="8"/> rappresentar <lb/>
+alle Signorie vostre eccellentissime questo poco, che servirà almeno colla <lb/>
+sodisfattione del mio obligo a confirmatione della <lb/>
+mia humile, et devota riverenza. Gratie etc. </p>
+<p>Di Colonia a’ 6 agosto 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="132v" facs="02_132v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Signor signor colendissimo </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="041">
+<!--
+<p n="132vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 agosto 1616 ricevuta 17 detto </p>
+<p>Surian di Colonia </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "dover" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "principal" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "et" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

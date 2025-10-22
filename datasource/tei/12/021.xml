@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.021 date 1623-04-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">021</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 192r-193v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">190r-191v, 192r-193v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 6 April from Venice with the instructions to reassure the members of States General that Venice is committed to the preserving the existence of the Dutch Republic. Reports that the Elizabeth is anxious about Spanish match. Awaits further instructions regarding the burnt ship as he wishes to settle this matter. Continues to send Rota’s letters and confirms he is pleased to hear that his letters ’sotto coperta’ of Noirot have arrived in Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-24">24 aprile 1623</date>
+            <num>052, 053</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="052" corresp="053" source="190r-191v" >
+<div type="main" facs="main text of attachment I" n="052" corresp="053" >
+<!--<p>Allegato I al n. 53 (cc. 190r-191v; decodifica di cc.192r, 193r)</p>-->
+<pb n="190r" facs="12_190r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="190v" facs="12_190v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="191r" facs="12_191r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="191v" facs="12_191v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="053">
+<div type="main" facs="main text of letter" n="053">
+<!--<p>24 aprile 1623, L’Aia (cc. 192r-193v)</p>-->
+<pb n="192r" facs="12_192r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>colla barca di Amsterdam mi capita nel punto d’haver <lb/>
+fornite l’altre doi lettere mie quelle di vostra Serenità dei 6 <lb/>
+del presente et conforme ai commandamenti, et instruttioni <lb/>
+che ricevo in esse mi regolerò trovandomi con alcuni <lb/>
+di questi signori et <hi rend="decoded">con</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">destra maniera farò loro quelle <lb/>
+prudenti considerationi, che da lei mi <lb/>
+vengono dettate, per far constar l’affetto <lb/>
+di vostra Serenità al ben commune, et alla particolar <lb/>
+conservatione di queste Provincie, et di <lb/>
+quello, che anderò cavando, bene darò <lb/>
+riverente conto quanto alla tregua <lb/>
+nelle mie seconde ho detto quanto occorre, <lb/>
+né per far fermar questi signori, et alienar <lb/>
+gli animi da tal negotiatione può servire, <lb/>
+che quella assistenza, che tante volte <lb/>
+ho humilmente rappresentata a vostra Serenità, et della <lb/>
+quale già dalla parte di Francia la <lb/>
+speranza si fa sempre maggiore, massime <lb/>
+con gli ultimi ufficii, essequiti da monsignor <lb/>
+di Muaurir <lb/>
+</hi> et so bene che alla Serenità vostra <lb/>
+se ne ha molto grado da questa parte. </p>
+<p>Colle mie lettere de’ 27 del passato rappresentai alla Serenità vostra <lb/>
+di haver penetrato quello<ptr target="#tn2" n="2"/> appunto che ricevo dalla <lb/>
+sua benignità per incontro della lettera, che ’l principe
+<pb n="192v" facs="12_192v" rend="0"/>
+di Waglia haveva scritta a questa Regina sua sorella <lb/>
+et solo diferisce nel tempo dicendomi ella, che la scrivesse <lb/>
+il giorno innanti al partire, et io intesi dal signor principe <lb/>
+d’Oranges, che fu tre giorni innanti; ma il contenuto <lb/>
+non fu che solo non vi era cosa alcuna ferma del matri-<lb/>
+monio. Al presente non parlano altro; ma stano attendendo <lb/>
+questi principi l’effetto sia per partir la risolutione <lb/>
+inaspetata, et impensata, che ancor tiene in sospeso <lb/>
+gl’arrivi loro, et della Regina in particolare di quello <lb/>
+caverò di vantaggio dei loro sensi, come procurerò <lb/>
+di fare vostra Serenità sarà da me riverentemente avvisata. </p>
+<p>Al Re significarò il buon adrizzo dato alle lettere della <lb/>
+Maestà sua, et quello di più, che veggo nella lettera del <lb/>
+signor Veletullo, confirmandole in particolare la perfetta <lb/>
+dispositione di vostra Serenità verso li suoi interessi. </p>
+<p>Aspetterò le informationi che si compiacerà mandarmi <lb/>
+toccante<ptr target="#tn3" n="3"/> la nave abbruciata; che stimo necessario per <lb/>
+asopir del tutto questo negotio, ancorché doppo l’ufficio <lb/>
+che feci in pubblico, et le ragioni che andai por-<lb/>
+tando in privato non sento che più mi si dichi <lb/>
+parole: tuttavia servir per levar affatto anco <lb/>
+l’importunità all’eccellentissimo signor ambasciator Morosini. </p>
+<p>Sodisferò il Rota al commandamento di vostra Serenità, et essequirò anco <lb/>
+l’ordine suo per quello che di tempo in tempo <lb/>
+mi occorrerà ne’ presenti affari scriver all’eccellentissimo signor ambasciator <lb/>
+Pesaro al quale come la passata settimana mandai <lb/>
+la copia di quei tre capitoli di lettere, che inviai
+<pb n="193r" facs="12_193r" rend="0"/>
+colle mie prime, et terze della settimana passata <lb/>
+così coll’ordinario, che parte questa notte per Franza <lb/>
+manderò<ptr target="#tn4" n="4"/> la copia di quanto ho ricevuto <hi rend="decoded">dal</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">medesimo Rota, che mi ha in una particolare scritto <lb/>
+di dover aprir le lettere colla soprascritta al signor <lb/>
+Bortolo della nave, et mandarne copia in Francia. <lb/>
+</hi></p>
+<p>Ho inteso con gusto che ’l mio dispaccio dei 20 del passato<ptr target="#tn6" n="6"/> sia per-<lb/>
+venuto sicuro alle<ptr target="#tn7" n="7"/> mani di vostra Serenità et con esso la <lb/>
+replicata dei 13 ma mi duol bene della maniera <lb/>
+del smarrimento delle prime dei 13 che indica <lb/>
+vera tristitia. </p>
+<p><hi rend="decoded">Anco</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">queste manderò sotto coperta del <lb/>
+Noirot, et così continuerò colla speranza <lb/>
+che camineranno bene. <lb/>
+</hi></p>
+<p>Le doi copie del capitolo di lettere scritte in Inghilterra a <lb/>
+quell’eccellentissimo Ambasciatore et della risposta data dall’<lb/>
+Ambasciator di questi signori mi serviranno d’informatione<ptr target="#tn9" n="9"/>. Gratie. etc. </p>
+<p>Dall’Haya li 24 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="193v" facs="12_193v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 496 comincia 494 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="053">
+<!--
+<p n="193vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 aprile 623<ptr target="#tn10" n="10"/>. Ricevute 10 maggio </p>
+<p>Haya. 3<hi rend="superscript">za</hi> n° 496 </p>
+<p>Ha ricevuto le lettere dei 6, et eseguirà <lb/>
+gli uffici; dice circa le tregue, et <lb/>
+osservi miglior rimedio per alienare <lb/>
+gli animi, che l’assistenza scritta. </p>
+<p>Responda ai capi d’informatione di quello <lb/>
+che dicano i palatini del principe di Vaglia; <lb/>
+delle lettere di esso Palatino indirizzate <lb/>
+a Gabor; della<ptr target="#tn11" n="11"/> informatione circa la <lb/>
+nave abruggiata; del Rota; dello <lb/>
+scrivere in Francia, come ha fatto <lb/>
+e fa. </p>
+<p>Manda, e manderà sempre <lb/>
+le sue lettere sotto piego del <lb/>
+Noirot. </p>
+<p>L. Coll. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "con … di Muaurir" decoding of the encrypted text can be found on c. 190r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "q-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-te" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "g" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "dal … copia in Francia" decoding of the encrypted text can be found on c. 190r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "del passato" added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "anco queste" crossed out; "anco … bene" decoding of the encrypted text can be found on c. 190v; with cross-reference sign.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-for-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a" corrected above "-e."</p></note>
+</div>
+</body>
+</text>
+</TEI>

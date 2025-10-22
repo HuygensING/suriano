@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.008 date 1618-03-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 53, 60</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">53r-v, 60r-v, 54r-56v, 59r-v, 57r-58v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Attached is a letter by Calandrini and Luz, who have been to the Admirality of Amsterdam on behalf of Suriano problems with provisions and he mentions that it will not be possible to get the ships ready in three weeks’ time. Two texts are attached: a letter by Luz from Amsterdam and a summary (transonto) of a letter by  Calandrini</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-18">18 marzo 1618</date>
+            <num>017, 018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="017">
+<div type="main" facs="main text of letter" n="017">
+<!--<p>18 marzo 1618, L’Aia (cc. 53r-v, 60r-v)</p>-->
+<pb n="053r" facs="06_053r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 18 comincia n° 16 et <lb/>
+già fermate in questo giorno </p>
+<p>Serenissimo Principe </p>
+<p>già le mie lettere n° 15, et 16 con le replicate 14 et 15 <lb/>
+che metto aggionte a queste erano in mano del messaggie-<lb/>
+ro ordinario d’Anversa, che se ne partiva a quella volta <lb/>
+quando mi arrivò huomo espresso con lettere del <lb/>
+Calandrini, et del Luz che invia[i a]lla<ptr target="#tn1" n="1"/> Serenità vostra perché <lb/>
+ella vegga a che li signori dell’Amiralità hanno conve-<lb/>
+nuto condescender con li capitani delli vasselli di lei <lb/>
+come<ptr target="#tn2" n="2"/> hanno fatto anco altrettanto con li proprii <lb/>
+nella speditione loro contra corsari. </p>
+<p>La concorrenza delle provisioni de’ viveri ben<ptr target="#tn3" n="3"/> può <lb/>
+comprender la Serenità vostra che habbi causata come ho <lb/>
+accennato riverentemente nelle altre mie esser nata <lb/>
+dall’allestirsi tante navi da guerra, et mercantili <lb/>
+onde ne riesce l’alteratione delli doi alli tre mesi <lb/>
+anticipati; et per le paghe anco il medesimo et però <lb/>
+colla prudenza sua considererà, che bisogna <lb/>
+accommodarsi alla necessità, et far quello che non <lb/>
+si farebbe in altro tempo; che non vi fosse tanta <lb/>
+concorrenza, et minor<ptr target="#tn4" n="4"/> occasione di levata <lb/>
+de’ marinari; come ho detto la congiontura è <lb/>
+difficile, et cattiva, et l’opera necessaria ad <lb/>
+effettuarsi. </p>
+<p>Anco per il ripigliarsi dei viveri da vostra Serenità licentiandosi <lb/>
+la flotta innanti ’l tempo delli dieci mesi secondo il
+<pb n="053v" facs="06_053v" rend="0"/>
+loro costo, o essendo tenuti in servitio più del detto tempo <lb/>
+dovendo provisionarsi di là se pagaranno di più esser <lb/>
+riconosciuti intenderà quello è stato risoluto; né in ciò <lb/>
+vostra Serenità resta aggravata a creder mio in alcuna parte. </p>
+<p>Intorno all’[…]<ptr target="#tn5" n="5"/> artiglierie vedrà la promessa, che io ho <lb/>
+havuta di là haverne quattro pezzi di metalo sop[ra la]<ptr target="#tn6" n="6"/> <lb/>
+nave San Marco da quelli di Amsterdam. Et forse dim[an]i <lb/>
+mi transferirò a Roterdam per haverne qualche altr[i] <lb/>
+pezzi; ma prima non lascierò di replicare colla <lb/>
+relatione, che manderanno li signori di Amsterdam a’ signori <lb/>
+Stati, che mi si aggiungano pezzi pur di bronzo <lb/>
+di vantaggio. </p>
+<p>Intenderà, che mi si dice che si metterà tempo di tre <lb/>
+settimane in circa ancora alla perfettione<ptr target="#tn7" n="7"/> et uscita <lb/>
+di quest’armata. Piacesse a Dio, che fosse a quel <lb/>
+tempo, et che per Pasqua havessero le navi fatta <lb/>
+vela, et non vorrei, che risoluta una difficoltà <lb/>
+ne sorgesse un’altra. </p>
+<p>Del biscotto poiché sono assicurato, che queste navi non lo <lb/>
+possono ricevere ma più che ascende a più del <lb/>
+prezzo, che vostra Serenità è informata di là valere, come <lb/>
+mi viene confermato non veggo potermi risolver <lb/>
+a pigliarlo, dovendomi metter in spesa<ptr target="#tn8" n="8"/> (aggiunto <lb/>
+il rischio) di altri tre in quattro milla fiorini per
+<pb n="060r" facs="06_060r" rend="0"/>
+il noleggio di un’altra nave: tuttavia se vedrò di <lb/>
+poterne caricar qualche summa nelle stesse navi <lb/>
+non mancarò del farlo. </p>
+<p>Oltre altri particolari nell’una, et l’altra delle dette lettere <lb/>
+che non replico per non attediar la Serenità vostra ella <lb/>
+intenderà l’instanza, che fanno li signori dell’Amiralità <lb/>
+di haver nuova provisione di denaro per preparar <lb/>
+prontamente<ptr target="#tn9" n="9"/> ciò che occorre nelli <lb/>
+vasselli sopra più a quello che già è stato provisto <lb/>
+dal Calandrini; anco il secretario delli signori Stati per <lb/>
+parte loro, havendo havute lettere in questo <lb/>
+proposito mi è venuto mentre scrivevo a ritrovare <lb/>
+per farmi la medesima instanza. Onde ho fatto nuovo <lb/>
+ordine al medesimo Calandrini, che li provedi, et per <lb/>
+ciò gli ho per ora mandate lettere di cambio <lb/>
+di vinticinque milla ducati per aggiunger poi <lb/>
+quello di più, che sarà necessario, et saranno sotto <lb/>
+la data dei 20 di questo pagabili per li 20 di <lb/>
+maggio prossimo il signor Melchior Noirot, come <lb/>
+sono tutti gl’altri. Gratie etc. </p>
+<p>Dall’Haya a’ 18 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="060v" facs="06_060v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 18 comincia 16<ptr target="#tn10" n="10"/> fin 17<ptr target="#tn11" n="11"/> </p>
+<p>già fermato </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="017">
+<!--
+<p n="060vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 marzo 1618 ricevute 4 aprile </p>
+<p>Aia. 18 </p>
+<p>Manda lettere del Calandrini dove si vede <lb/>
+che l’Amiralità ha condesceso con li <lb/>
+capitani delle navi come con li loro proprii. </p>
+<p>L’alteratione da due a 3 mesi anticipati <lb/>
+è precessa dalla concorrenza di provisione <lb/>
+di viveri a tanti vasselli. </p>
+<p>Di quanto s’è risoluto intorno per il <lb/>
+ripigliar de’ viveri et altro non resta <lb/>
+la serenissima Republica aggravata. </p>
+<p>Ha ottenuto qualche pezzo di metalo <lb/>
+et procura haverne degl’altri. </p>
+<p>Tempo di 3 settimane all’uscita de’ <lb/>
+vasselli: se ne contenterebbe. </p>
+<p>Non prenderà biscotto per non noleggiar <lb/>
+altra nave: se potrà, ne caricherà <lb/>
+sopra le medesime nolleggiate. </p>
+<p>Instanza dell’Amiralità di nuova <lb/>
+provisione de danaro per preparar li vasselli. </p>
+<p>Ha dato ordine al Calandrini, che li <lb/>
+provedi et mandatoli lettere per 25 mila ducati. </p>
+<p>L. R. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="018" corresp="017" source="54r-56v, 59r-v" >
+<div type="main" facs="main text of attachment I" n="018" corresp="017" >
+<!--<p>Allegato I al n. 17 (cc. 54r-56v, 59r-v)</p>-->
+<pb n="054r" facs="06_054r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Trasunto della lettera del Luz d’Amsterdam a’ 17 marzo 1618 </p>
+<p>Questa mattina sono stato col signor Calandrini nella assemblea <lb/>
+di signor dell’Amiralità ad lor instanza, et habiamo resolto tutto <lb/>
+le difficultà, et prima toccante li viveri, faranno provisioni <lb/>
+di 10 mesi di viveri per li marinari et tre mesi per li soldati, <lb/>
+et caso che fussero licentiati prima, et tornando qua dovrà <lb/>
+la serenissima Republica o li signori dell’Amiralità per loro ricevere <lb/>
+li viveri, che avanseranno appresso che valeranno al detto tempo <lb/>
+overo restando costì le nave vendute alla serenissima Republica in poter <lb/>
+dalli proprietari di essi vasselli doverà la serenissima Republica recevere <lb/>
+et pagar detti restanti viveri al prezzo, quello<ptr target="#tn12" n="12"/> haverano<ptr target="#tn13" n="13"/> costati <lb/>
+qua, secondo l’uso che questi signori usano in simili negoti, <lb/>
+come si hanno assecurato, et non è stato possibile prevenir o <lb/>
+far altrimenti di prometter o che essi signori doveranno prometter <lb/>
+alli capitani dei vasselli di dar loro tre mesi di viveri anticipati <lb/>
+et sei settimane doppo la lor partenza di qua o del Tessel <lb/>
+un altro mese di viveri, perché altrementi non era possibile <lb/>
+ch’essi capitani le potesero far et haver robba buona che <lb/>
+hora essi signori faranno con estrema diligenza visitar si <lb/>
+saranno buoni et al dovere. Il che anco essi signori hanno et <lb/>
+sono stati sforsati di far il medesimo in questa loro speditione. </p>
+<p>In quanto al soldo di capitani officiali et marinari essi signori <lb/>
+ci<ptr target="#tn14" n="14"/> hanno anco letto<ptr target="#tn15" n="15"/> la variation del soldo ch’essi hanno fatto <lb/>
+in questa medesima loro speditione, et il medesimo seguirà <lb/>
+nella speditione che si fa per la serenissima Republica, che altrimenti <lb/>
+non era possibile havere gente buone et doveranno <lb/>
+anco havere doi mesate alla<ptr target="#tn16" n="16"/> mano come hanno dato<ptr target="#tn17" n="17"/> <lb/>
+et a quelli<ptr target="#tn18" n="18"/> del Quast<ptr target="#tn19" n="19"/> hanno dato un<ptr target="#tn20" n="20"/> mese et mezo alla mano <lb/>
+con prometter alle mogli<ptr target="#tn21" n="21"/> di essi marinari di soccorrerle
+<pb n="054v" facs="06_054v" rend="0"/>
+di tempo in tempo ch’<ptr target="#tn22" n="22"/>in questa speditione di Venetia non <lb/>
+si puol fare et anco loro per sgavarsi di questa briga <lb/>
+sono<ptr target="#tn23" n="23"/> resolti<ptr target="#tn24" n="24"/> di far il simile per loro per l’avvenire vostra Signoria […]<ptr target="#tn25" n="25"/> <lb/>
+si assicuri che queste navi saranno armate di brava <lb/>
+gente et d’ogni altra cosa. In quanto<ptr target="#tn26" n="26"/> all’artiglieria <lb/>
+hanno acconsentito 4 pezzi di bronzo per il San Marco mezi <lb/>
+canoni et il resto artiglierie di ferro di 18 libre dodeci <lb/>
+libre, otto, et cinque libre<ptr target="#tn27" n="27"/> di balla pezzi esquisiti et <lb/>
+belli, della ligiera di 5 libre ve ne sarà per ogni vassello <lb/>
+poca solo<ptr target="#tn28" n="28"/> per quella che starà di sopra, il resto sarà <lb/>
+tutto artiglierie greve come ho detto, et havendo noi fatto <lb/>
+straordinaria instanza per gl’artiglierie di bronzo<ptr target="#tn29" n="29"/> <lb/>
+di doi pezzi per ogni vassello scrivono<ptr target="#tn30" n="30"/> alli signori Stati Generali <lb/>
+il numero delle pezzi del bronzo<ptr target="#tn31" n="31"/> ch’essi signori hanno qui <lb/>
+et si essi ordinaranno ne diano le daranno sarò donque <lb/>
+buono che vostra Signoria illustre<ptr target="#tn32" n="32"/> vadi subito a parlare alli detti <lb/>
+signori et sua Eccellenza et indurli che le vogliano acconsentirlo almeno <lb/>
+quel maggior numero possibile et, caso potessero dire che <lb/>
+l’havessero di bisogno per la lor armata vostra Signoria illustre<ptr target="#tn33" n="33"/> le <lb/>
+potrà replicare che la<ptr target="#tn34" n="34"/> Generalità et città particolare hanno <lb/>
+gran quantità d’artiglierie di bronzo. Che in casi di bisogno <lb/>
+le s’ampristreranno<ptr target="#tn35" n="35"/> volentieri, et che queste nave vanno hora <lb/>
+la prima volta in simil impresa in Italia et perciò <lb/>
+bisogna siano sufficientamente armati per acquistare reputatione
+<pb n="055r" facs="06_055r" rend="0"/>
+con l’aiuto di Dio accompagiandolo in oltra con altre vive ra-<lb/>
+gione necessarie, che ella sa meglio di me allegare et supera <lb/>
+nella mia capacità. </p>
+<p>Hanno ordinato de consegnare alli capitani de’ vasselli 90 pezzi<ptr target="#tn36" n="36"/> <lb/>
+d’artiglierie di ferro grevi<ptr target="#tn37" n="37"/> compresi, li quattro di bronzo <lb/>
+una bella provisione et aiuto per questa armata; tutto <lb/>
+conforme lla<ptr target="#tn38" n="38"/> dimanda, del signor Kerchhoven et tutti li capitani <lb/>
+de’ vasselli fatto secondo<ptr target="#tn39" n="39"/> il bisogno delli vasselli et circa il <lb/>
+resto per quello toccarà all’ispeditione dell’armata <lb/>
+faranno come per loro stessi sono<ptr target="#tn40" n="40"/> accostumati di fare et se Dio nostro <lb/>
+Signore darà gratia che possino<ptr target="#tn41" n="41"/> arrivare a salvamento nel<ptr target="#tn42" n="42"/> <lb/>
+golfo restaranno stupidi, essi signori a veder una simile speditione <lb/>
+et se mai vostra Signoria haverà havuto laude del suo operato in <lb/>
+queste parti l’haverà adesso et in ogni modo la serenissima <lb/>
+Republica verrà<ptr target="#tn43" n="43"/> avenzata, come per effetto la vedrà al saldo <lb/>
+di conti et faranno ben cavar l’elmo a Ferraù<ptr target="#tn44" n="44"/>, et di buona maniera; et coll’aiuto di Dio spero che di qua <lb/>
+tre settimane saranno lontani di qua. La nave San <lb/>
+Marco perché non potrà avanti la città ricever il carica <lb/>
+dell’artiglierie et viveri per passar le seccagne<ptr target="#tn45" n="45"/> <lb/>
+partirà li primi giorni de qua al Tessel per riceverle, là sarà un bellissimo vassello. </p>
+<p>Et le<ptr target="#tn46" n="46"/> aggiongo che la serenissima Republica non sarà solamente avvantag-<lb/>
+giato nelli pezzi ma anco nella qualità delli vasselli, et spe-<lb/>
+ditione che per me si deve stimare più<ptr target="#tn47" n="47"/> che<ptr target="#tn48" n="48"/> tutto il resto ch’una
+<pb n="055v" facs="06_055v" rend="0"/>
+di queste nave sarà bastante a combatter con doi o tre<ptr target="#tn49" n="49"/> <lb/>
+che<ptr target="#tn50" n="50"/> hanno là, che tutto<ptr target="#tn51" n="51"/> si deve considerar[e]<ptr target="#tn52" n="52"/>. </p>
+<p>La reputation<ptr target="#tn53" n="53"/> del publico si<ptr target="#tn54" n="54"/> ha in tutto convenientamente <lb/>
+et al mio arrivo portarò le<ptr target="#tn55" n="55"/> instruttioni et la lettera d[…]<ptr target="#tn56" n="56"/> <lb/>
+M[…]<ptr target="#tn57" n="57"/> d’<ptr target="#tn58" n="58"/>articoli vostra Signoria ha<ptr target="#tn59" n="59"/> costì, et tutto si farà conforme <lb/>
+vostra Signoria troverà<ptr target="#tn60" n="60"/> buono. </p>
+<p>Circa li biscotti<ptr target="#tn61" n="61"/> non è possibile haverli a prezzo<ptr target="#tn62" n="62"/> minore del scrittole <lb/>
+et anco non sarà possibile di caricarlo tutto in questa nave <lb/>
+ma bisognerà farlo<ptr target="#tn63" n="63"/> fare quando il grano si trova a <lb/>
+buon mercato come li mesi passati che non veniva <lb/>
+a costar più di sei fiorini et mezo et così bisognoria <lb/>
+pigliare<ptr target="#tn64" n="64"/> la stagione et poi farlo fare et mandarlo et una nave <lb/>
+nominata Fleute si haverà senz’altro pur 3 mille in 4 <lb/>
+milla fiorini di portata de’ doicento lasti senza artiglieria <lb/>
+per fino a Venetia et mi sono informato da diversi <lb/>
+et tutti mi rispondeno ad un modo. Così che bisogna <lb/>
+in questa<ptr target="#tn65" n="65"/> pigliar l’occasione quando il grano è <lb/>
+buon mercato come fece il granduca Ferdinando. </p>
+<pb n="056r" facs="06_056r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="056v" facs="06_056v" rend="270"/>
+<p>2 </p>
+<p>Lettera del Luz d’Amsterdam </p>
+<p>nelle 3<hi rend="superscript">e</hi> n° 17 </p>
+<pb n="059r" facs="06_059r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="059v" facs="06_059v" rend="90"/>
+<p><metamark facs="Cut page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="019" corresp="017" source="57r-58v" >
+<div type="main" facs="main text of attachment II" n="019" corresp="017" >
+<!--<p>Allegato II al n. 17 (cc. 57r-58v)</p>-->
+<pb n="057r" facs="06_057r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Transonto dalle lettere del Calandrini de’ 17 marzo 1618 </p>
+<p>Fussimo chiamati; avanti al colleggio dell’Ammiralità; chiamati per risol-<lb/>
+vere sopra le difficultà, state date in memoria, la maggior fu per <lb/>
+li viveri, per il tempo della provisione, et come si havriano da gover-<lb/>
+nare essendo licentiati prima, su che è stato risoluto, dovere in questo <lb/>
+particolare seguir la metoda di questi signori avenenti in tal caso che <lb/>
+è di dovere, la serenissima Republica in caso di esso prima licentiati delli 10 <lb/>
+mesi; o che pigli a sé in compra le dette navi, dover anche pigliar <lb/>
+li viveri alla rata che hanno costato, et servendo più longamente <lb/>
+esser considerato dalla Republica caso habbiano da pigliar lor viveri <lb/>
+più cari. Il soldo delle genti hanno augumentato li loro come <lb/>
+per risolutione ci hanno mostrato, et dubitano anche che non troveranno <lb/>
+assai, secondo questa rata si governaranno per questi per Venetia ma ci <lb/>
+è la difficultà, che queste genti mettono avanti ch’in servitio <lb/>
+de’ forastieri, hanno da haver più che per il Paese, tutta volta <lb/>
+faranno come per loro istessi, le pagaranno tre mesi anticipati <lb/>
+et ci è difficultà dalli capitani che per sì lungo viaggio non si <lb/>
+possano così provedere, et li signori piglieranno in consideratione che in un <lb/>
+mese, o sei settemane partiti siano; pagare qui alle moglie un’altra <lb/>
+mesata per farli far tanto meglio il dovere. Quanto all’altellarie <lb/>
+si è fatto grand’instanza per alcune pezze di bronzo per nave, l’hanno <lb/>
+concesso per l’ammiraglio di 4 pezze, et con un expresso che mandano <lb/>
+domani, costì inviano nota del peso delle pezze di ferro, et quante <lb/>
+pezze di metallo hanno, lassando in consideratione alli signori Stati Generali <lb/>
+de ordinar quanto li parrà bene ci mettino, che così sarà<ptr target="#tn66" n="66"/> <lb/>
+osservato. Vostra Signoria potrà hora tenere la mano verso quelli signori che segua<ptr target="#tn67" n="67"/>
+<pb n="057v" facs="06_057v" rend="0"/>
+del più numero possibile, il che ha fatto tanto più risolvere <lb/>
+a spedir questo expresso acciò vostra Signoria sia avertita del seguito. A questo <lb/>
+mastro di equipaggi, si è promesso che in facendo bene il dovere <lb/>
+sollecitando il negotio, non si mancherà di riconoscenza verso di <lb/>
+lui come sarà intieramente necessario, et quasi anche alcuni signori che <lb/>
+s’impiegano con molta affettione in questa espedittione, et per far <lb/>
+tanto più avanzar l’opra; hanno deputato 3 del colleggio <lb/>
+per pigliar intieramente la cura, et l’assunto a loro, che sono molto <lb/>
+affettionati, a’ quali non si mancherà raccomandar la cosa, et <lb/>
+spero che le cose passaranno bene, et si anderà avanzando da <lb/>
+poter levar presto vostra Signoria da un rompimento de testa grande et <lb/>
+potersi mettere un poco in riposo. </p>
+<p>Mastro David ingegniero ha detto di venir costì con il signor Luz a trattar <lb/>
+con vostra Signoria a che mi rimetto. Ho hauto la lettera per la corda, et in conformità <lb/>
+di quella dovranno<ptr target="#tn68" n="68"/> concedere l’extrattione. Si fa tuttavia <lb/>
+impaccare, et sarà all’ordine ma dubito che mancherà<ptr target="#tn69" n="69"/> luogo<ptr target="#tn70" n="70"/>. Questi <lb/>
+signori hanno fatto nuova instanza per danari et che li occorreran cento <lb/>
+mille<ptr target="#tn71" n="71"/> fiorini<ptr target="#tn72" n="72"/> cioè per tutto le 12 nave. Ho detto scrivere a vostra Signoria illustre<ptr target="#tn73" n="73"/> et che sul <lb/>
+suo scrivere li metterò all’ordine. In tanto mi converrà altre lettere di <lb/>
+cambio per poter dar li ordini in tutti li luoghi che occorrono far <lb/>
+le provisioni<ptr target="#tn74" n="74"/> qua, et trar a Venetia et se pare a vostra Signoria mandarmi lettera <lb/>
+per ducati<ptr target="#tn75" n="75"/> 50000. Sarà bene acciò mi possa tener pronto a ogni occasione. </p>
+<p>La venuta del signor Luz qua è stata molto a proposito, come sarà anche a far <lb/>
+un torno a Edam et Enchusen, a sollecitar quelli signori et veder in che <lb/>
+grado sono quelle navi. Al ritorno si vedrà come le cose saranno qua
+<pb n="058r" facs="06_058r" rend="0"/>
+et sua presenza per qualche giorno non potrà che molto giovare, tutta <lb/>
+volta in quello doverà governarsi conforme da vostra Signoria sarà scritto. <lb/>
+Aspetterò quello a vostra Signoria occorerà ordinare circa il biscotto, et torno a <lb/>
+confirmarli che dovendosene fare provisione non bisogna perderci tempo <lb/>
+et che per navigarli non occorre pensar di poterlo<ptr target="#tn76" n="76"/> ripartir in queste <lb/>
+navi, che sarà tutto quello potran fare di portar li loro viveri <lb/>
+per 13 mesi, et però che si dovria pigliar un’altra nave senza <lb/>
+artigliarie e che si haverà una di lasti<ptr target="#tn77" n="77"/> 200 in più per 3500 in 4 mila <lb/>
+fiorini in circa nella quale oltra ciò si potrà mettere che altre necessarie <lb/>
+occorrenze che faranno di bisogno. </p>
+<pb n="058v" facs="06_058v" rend="90"/>
+<p>Transonto delle lettere del <lb/>
+Calandrini </p>
+<p>nella 3<hi rend="superscript">a</hi> n° 18 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes the struck-through letter.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "di q" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Precede per preparar" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-6" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-7" corrected above "-6."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by deleted words.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the deleted word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "l-" corrected above "d-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "et questi" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "et a quelli" added in the internal margin.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Q-" corrected above "q-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "meze" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "-e" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "è" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line on "loro" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Damaged page.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-anto" is the result of a correction on "-esto."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-o" corrected above -"a."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-z-" corrected above "-s-."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-o-" corrected above "-a-."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-re" corrected above "-ma."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-re" corrected above "-ma."</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Added above the line on "ella" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "-zz-" is the result of a correction.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Added above the line on "credo" crossed out.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> "ne-" is the result of a correction.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "-rà" corrected above "-à."</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "-err-" is the result of a correction.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> Added above the deleted word.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> "c-" corrected above "p-."</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> "o tre" added above the deleted words.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> Followed by "li" crossed out.</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> There is a hole in the page.</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> Corrected above "et."</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> Damaged page.</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> Ink stain.</p></note>
+<note xml:id="tn58"><p><hi rend="footnote">58</hi> Followed by "-e" crossed out.</p></note>
+<note xml:id="tn59"><p><hi rend="footnote">59</hi> Added above the line on "che" crossed out.</p></note>
+<note xml:id="tn60"><p><hi rend="footnote">60</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn61"><p><hi rend="footnote">61</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn62"><p><hi rend="footnote">62</hi> Added above the line on "app(ress)o" crossed out.</p></note>
+<note xml:id="tn63"><p><hi rend="footnote">63</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn64"><p><hi rend="footnote">64</hi> Added in the outer margin.</p></note>
+<note xml:id="tn65"><p><hi rend="footnote">65</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn66"><p><hi rend="footnote">66</hi> Followed by "ordinato" crossed out.</p></note>
+<note xml:id="tn67"><p><hi rend="footnote">67</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn68"><p><hi rend="footnote">68</hi> Followed by "condur" crossed out.</p></note>
+<note xml:id="tn69"><p><hi rend="footnote">69</hi> "-c-" added above the line with insertion mark; "-h-" corrected above "-d-."</p></note>
+<note xml:id="tn70"><p><hi rend="footnote">70</hi> "-o-" corrected above "-n-."</p></note>
+<note xml:id="tn71"><p><hi rend="footnote">71</hi> Is the result of a correction.</p></note>
+<note xml:id="tn72"><p><hi rend="footnote">72</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn73"><p><hi rend="footnote">73</hi> "-re" corrected above "-ma."</p></note>
+<note xml:id="tn74"><p><hi rend="footnote">74</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn75"><p><hi rend="footnote">75</hi> Corrected above "f(iorini)", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn76"><p><hi rend="footnote">76</hi> "-o" corrected above "-i."</p></note>
+<note xml:id="tn77"><p><hi rend="footnote">77</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.018 date 1616-09-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">018</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 184r-186v, 197r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">184r-186v, 197r-v, 187r-190v, 191r-194v, 195r-196v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that recently letters have arrived in The Hague with updates on the situation in France which includes the king’s statement to parliament. In front of the States General, the French ambassador spoke in general terms about the required help from the United Provinces. In a conversation with Suriano, Du Maurier entered into specifics stating they had to finance 5.000 troops. The States do not know what to do as they fear the Spanish might be involved in the growing unrest in France. Bouillon has written to prince Maurice explaining the reason why the French princes are discontent. Ends his letter by reporting that an anonymous publication in favour of French princes has appeared, the declaration of the king was printed with the approval of the States General. He attaches translated copies of both these documents. Three documents attached: "Scrittura contra la dichiaratione della Maestà Cristianissima fatta da lei nel parlamento di Parigi a 7 settembre"’; "Dichiaratione del re fatta nel parlamento di Parigi" and "Lettera del re della città del Regno"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-09-20">20 settembre 1616</date>
+            <num>057, 058, 059, 060</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="057">
+<div type="main" facs="main text of letter" n="057">
+<!--<p>20 settembre 1616, L’Aia (cc. 184r-186v, 197r-v)</p>-->
+<pb n="184r" facs="02_184r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>la mattina seguente al giorno, ch’ispedii l’ultime mie della <lb/>
+settimana passata alla Serenità vostra venero a questi signori le lettere, <lb/>
+che stavano attendendo con tanta brama da Parigi dal loro <lb/>
+Ambasciatore intorno alli nuovi accidenti di là; ne portorono <lb/>
+di vantaggio di quello, che s’era inteso. </p>
+<p>Il giovedì sera arrivò qui il secretario del sudetto Ambasciatore <lb/>
+havendo fatto il viaggio in tre giorni, et portò a signori Stati <lb/>
+la dichiarazione del Re nel Parlamento. </p>
+<p>L’ambasciatore di sua Maestà christianissima qui residente col mezo dello stesso <lb/>
+secretario hebbe parimente lettere dal Re, et essa dichiarazione <lb/>
+della quale sabbato mattina fu a darne parte a questo <lb/>
+Consiglio, procurando col suo ufficio di fermar negl’animi <lb/>
+il governarsi in questo accidente, come hanno fatto nei <lb/>
+passati rumori per la conservazione della corona di Francia <lb/>
+et parlando in generale de’ aiuti li raccordò l’obligo <lb/>
+che tenevano per l’aleanza con quella Corona di assister-<lb/>
+le nell’occorrenze de’ suoi travagli. Et il medesimo Ambasciatore <lb/>
+che hieri fui a visitare mi disse che se ben quest’<lb/>
+obligo era di dar cinque mille fanti da esser inter-<lb/>
+tenuti a spese di questi stati. In ogni modo <lb/>
+il Re si sarebbe contentato, occorrendo, di una
+<pb n="184v" facs="02_184v" rend="0"/>
+honesta portione per non debitare da questa parte, conoscendo <lb/>
+molto ben, che non fa per la Franza, che questi mandando<ptr target="#tn1" n="1"/> <lb/>
+tante forze in un medesimo tempo fuori del Paese, restino <lb/>
+esposti al pericolo; et mi disse, che havendo sabbato fatta <lb/>
+la sua propositione in voce, hier mattina l’haveva puntata <lb/>
+in scritto, et sperava la risposta conforme alla buona <lb/>
+intentione, che gli è stata data, et l’attende per ispedir <lb/>
+immediate in Franza. </p>
+<p>Restano questi signori tuttavia confusi dell’accidente, né sanno <lb/>
+che giudicio formare dell’essito. Sospettano, che qui sotto <lb/>
+vi siano gl’artificiosi modi de’ Spagnuoli, et che li<ptr target="#tn2" n="2"/> <lb/>
+presenti motivi<ptr target="#tn3" n="3"/> dipendino<ptr target="#tn4" n="4"/> dalla medesima radice, <lb/>
+che li passati; et tanto più perché li viene scritto <lb/>
+dall’Ambasciator loro l’offerta, che quello di Spagna ha <lb/>
+fatta al re delle genti, che sono in Fiandra: et già si <lb/>
+ha avviso, che qualche truppe supranumerarie si <lb/>
+siano retirate alle frontiere. Preme l’affare, come toccante per tal rispetto al publico interesse <lb/>
+ma preme anco per il particolare di queste provincie <lb/>
+perché molto ben conoscono, che ’l scompiglio delle <lb/>
+cose di Francia serve a profitto de’ Spagnuoli
+<pb n="185r" facs="02_185r" rend="0"/>
+et per consequente a poco bene di questi stati; ma più <lb/>
+perché si vederebbono necessitati passando le cose in-<lb/>
+nanti a continuar a mantener del proprio errario <lb/>
+come han fatto da un anno in qua, li tre reggimenti <lb/>
+francesi, quello a che è obligato il Re christianissimo, che <lb/>
+s’iscusò non poter supplire per li rivoglimenti passati; <lb/>
+et fin qua la summa ascende a più d’un million <lb/>
+di fiorini. Ne fecero ultimamente questi signori far <lb/>
+moto a sua Maestà; ma ella fece nuova iscusa, et promessa <lb/>
+di sodisfar quanto prima; et l’Ambasciator qui residente <lb/>
+la replicò sabbato passato nella medesima audienza <lb/>
+onde se ben veggono la necessità del Re in ogni modo <lb/>
+restano poco contenti, che rimanghi sopra le loro <lb/>
+braccia un sì gran interesse; vivono per tanto <lb/>
+curiosi d’intender li successi, et vorrebbono volentieri, <lb/>
+che le cose non caminassero più innanti. </p>
+<p>Si aspettava, che l’Ambasciatore facesse instanza di haver li tre <lb/>
+reggimenti francesi, che sono trattenuti qui, ma si <lb/>
+crede, che si sia considerato, che il Re ne haverebbe <lb/>
+cavato poco frutto mentre questi sono avezzi a <lb/>
+trattar l’armi contra lo Spagnolo, et che però si
+<pb n="185v" facs="02_185v" rend="0"/>
+poteva temere, che richiamati la maggior parte nel mar-<lb/>
+chiare si ritirasse alla volta de’ principi, come anco molti se ne lasciano intender. </p>
+<p>Ho saputo che ’l signor marascial di Buglione ha scritto al signor prin-<lb/>
+cipe Mauritio, dichiarando, che ciò ch’era seguito tutto <lb/>
+era stato diretto contra la persona del marascial d’Ancre <lb/>
+et la levata, che s’intendeva di fare doveva esser a servitio <lb/>
+del signor duca di Longavilla, introducendo altre cose simili <lb/>
+che risapute sono state stimate di poca sussistenza, et <lb/>
+l’Ambasciatore francese essagera grandemente contro questa <lb/>
+iscusa, dicendo, che ben si vede manifesto il mal <lb/>
+animo perché fatto l’errore lo vogliono coprir col pretesto <lb/>
+di una particolare persona; et disse a me che tante riduttioni <lb/>
+notturne in Parigi, tante armi che si volevano <lb/>
+fare non portavano all’apparenza, che dovessero <lb/>
+semplicemente contrastare al marascial d’Ancre, et <lb/>
+ch’era appunto un voler prender un grandissimo<ptr target="#tn5" n="5"/> <lb/>
+et pesantissimo martello per ammazzar una mosca; <lb/>
+et aggiunse vi dirò in confidenza, quanto non era il sin-<lb/>
+cero disegno: perché haverebbono li principi havuti <lb/>
+altri mezi più proprii, et sufficienti per disfarsi
+<pb n="186r" facs="02_186r" rend="0"/>
+del Marasciale; ma questo non faceva per loro perché have-<lb/>
+rebbono perso quello, che in ogni caso li serve di pretesto <lb/>
+per coprirsi. Così parla, et con questo, et altri concetti <lb/>
+porta<ptr target="#tn6" n="6"/> con gran sicurezza le ragioni delle loro maestà <lb/>
+procurando di far apparere contraria al dovere, et <lb/>
+all’honesto ogni attione delli principi. </p>
+<p>Questa mattina è stata portata, et sparsa in scritto una <lb/>
+scrittura a favor dei principi non si sa se sia inventata <lb/>
+o reale; ma quale ella si sia ho stimato mio debito <lb/>
+di mandarne con questa la traduttione per quelle <lb/>
+delle Eccellenze vostre che havessero curiosità di vederla, et insieme <lb/>
+al medesimo fine la traduttione della dichiaratone del Re <lb/>
+ancorché sia sicuro che le sarà capitata. Questa è <lb/>
+stata ristampata qui coll’assenso dei signori Stati, et fatta anco la stampa nel fiamingo, si vende<ptr target="#tn7" n="7"/> pu-<lb/>
+blicamente, et passa per le mani di ognuno, che ne discorre secondo la passione. Gratie ect. </p>
+<p>Dall’Haya a’ 20 settembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="186v" facs="02_186v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="197r" facs="02_197r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="197v" facs="02_197v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima</p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="057">
+<!--
+<p n="197vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 settembre 1616 ricevute 5 ottobre </p>
+<p>Secretario Suriano dall’Haia </p>
+<p>Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="058" corresp="057" source="187r-190v" >
+<div type="main" facs="main text of attachment I" n="058" corresp="057" >
+<!--<p>Allegato I al n. 57 (cc. 187r-190v)</p>-->
+<pb n="187r" facs="02_187r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Cut page"/></p>
+<pb n="187v" facs="02_187v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="188r" facs="02_188r" rend="0"/>
+<p>Scrittura contra la dichiaratione della Maestà christianissima <lb/>
+fatta da lei nel Parlamento di Parigi a’ 7 settembre </p>
+<p>Doppo il trattato di Lodun, et la publicatione dell’editto di <lb/>
+pacificatione il signor Principe, et gl’altri principi, duchi, pari, <lb/>
+et officiali della Corona, ch’erano prima uniti con lui per la <lb/>
+riforma dei disordini dello Stato hebbero un particolare pensiero <lb/>
+di levar ogni sorte di tristitie, et sotto la publica fide, abbassata <lb/>
+affaticarsi di commun parere con gl’altri principi, che erano <lb/>
+restati appresso il Re, di dar un buon ordine agl’affari del <lb/>
+Regno, et col mezo d’un buon regolamento nei consegli <lb/>
+condur ognuno ad operar secondo il suo debito, et con-<lb/>
+forme all’obedienza, debita alle leggi dello Stato: ma <lb/>
+perché questa dispositione a tal effetto andava dimi-<lb/>
+nuendo in qualche cosa, et l’impediva il grande, <lb/>
+et eccessivo potere che ’l marchese d’Ancre haveva <lb/>
+havuto per innanti, et l’impedivano per l’avenire<ptr target="#tn8" n="8"/> <lb/>
+disponendosi assolutamente di tutti li beneficii, et di tutti <lb/>
+gl’affari, in continente attraversò con ogni sorte <lb/>
+di artificii queste buone risolutioni, non stimando <lb/>
+poter<ptr target="#tn9" n="9"/> haver fermezza, che nel mezo <lb/>
+dei disordini, et della confusione; et fu principalmente <lb/>
+quando egli hebbe persa la speranza tutta di poter <lb/>
+mantenersi nella Piccardia, non havendo monsignor di <lb/>
+Longavilla voluto in maniera alcuna acconsentir <lb/>
+il cambio di quel governo con quello di Normandia
+<pb n="188v" facs="02_188v" rend="0"/>
+per non esporre quella Provincia sì importante nelle mani de’ <lb/>
+stranieri contra le leggi del Regno; et vedendo, che non <lb/>
+poteva più tener la cittadella di Amiens, doppo esser stato <lb/>
+proveduto della luocotenenza della Normandia, fece con <lb/>
+tutto ciò disegno di farne formar una nuova a Peronna <lb/>
+dove era ancora governatore, et fortificarsi con una <lb/>
+forte guarnigione de stranieri, che voleva introdurvi tutta <lb/>
+la carica del cavallier Concini: affine di deprimer, <lb/>
+et abbassar l’auttorità del signor di Longavilla nel suo <lb/>
+proprio governo, et<ptr target="#tn10" n="10"/> dar essecutione alle <lb/>
+sue passioni, et vendette sopra li suditti di detta città <lb/>
+li quali fatti prudenti cogl’essempii di loro vicini, et <lb/>
+colla propria isperienza, doppo haver in questo pro-<lb/>
+posito fatte le loro considerazioni al Re, et alla Regina <lb/>
+sua madre, alle persone de<ptr target="#tn11" n="11"/> quali si haveva qualche riguardo, veden-<lb/>
+do<ptr target="#tn12" n="12"/> accostarsi questa guarnigione straniera alla città <lb/>
+per alloggiarvi di solo commandamento del marascial <lb/>
+d’Ancre, senza lettere del Re, né<ptr target="#tn13" n="13"/> permissione <lb/>
+de monsignor di Longavilla governator della Provincia furono <lb/>
+costretti d’impedirgli l’entrata affine d’evitar il <lb/>
+malvagio trattamento, che continuamente veniva minacciato. </p>
+<p>Questo obligò monsignor di Longavilla di subito<ptr target="#tn14" n="14"/> incaminarsi <lb/>
+a quella volta per contener<ptr target="#tn15" n="15"/> li<ptr target="#tn16" n="16"/> detti habitanti nel loro <lb/>
+debito, et impedir, che non passasse cosa alcuna in prigiu-<lb/>
+dicio del servitio del Re, di che immediato ne diede <lb/>
+avviso a sua Maestà per esser avvisato in questa occorrenza
+<pb n="189r" facs="02_189r" rend="0"/>
+della sua volontà, et de’ suoi commandamenti affine di obedirgli, <lb/>
+ma questo debito fu in un istesso punto mal interpretato <lb/>
+et imputato di crime, et tentativo sopra l’auttorità del <lb/>
+Re, della quale il marchese d’Ancre, favorito dalla <lb/>
+Regina madre, hebbe assai<ptr target="#tn17" n="17"/> potere di valersene per <lb/>
+pretesto di far immediate inviar soldatesca per investir <lb/>
+Perona, et far far delle levate in<ptr target="#tn18" n="18"/> ogni parte, come <lb/>
+s’ella fosse stata nelle mani degli nemici del Regno <lb/>
+con pericolo d’un secondo naufragio più pericoloso del <lb/>
+primo. Et perché riconobbe, che ’l signor Principe, monsignor di <lb/>
+Ghisa, et li signori suoi fratelli, li duchi di Vandomo, d’Umena, della Tremaglia, et di Buglione, erano<ptr target="#tn19" n="19"/> <lb/>
+sufficienti a proveder a questi violenti consigli, stimando <lb/>
+che questo affare si dovesse accomodar col mezo della <lb/>
+dolcezza più tosto, che<ptr target="#tn20" n="20"/> inasperirlo<ptr target="#tn21" n="21"/>, et <lb/>
+irritarlo con la forza, et tentar il<ptr target="#tn22" n="22"/> più dolce <lb/>
+rimedio per evitar gl’inconvenienti, che potrebbono <lb/>
+avenire allo Stato; congiurò in un medesimo tempo con <lb/>
+qualche fa[t]ionario<ptr target="#tn23" n="23"/> con una perfidia, et un trudimento<ptr target="#tn24" n="24"/> <lb/>
+strano la ruina de tutti questi principi, et signori, et <lb/>
+havendo col mezo di sua moglie fatta approbbare <lb/>
+questa sanguinosa risolutione alla Regina madre, <lb/>
+trovò degl’huomini assai arditi per intraprender di far <lb/>
+prigioni gl’uni, et assassinar gl’altri; ma essendo <lb/>
+stato scoperto il dissegno loro in quello appunto <lb/>
+che erano per metterlo in opera, havendo cadauno
+<pb n="189v" facs="02_189v" rend="0"/>
+proveduto alla propria sicurtà et ai mezzi di uscir della città<ptr target="#tn25" n="25"/> per guarentar la sua vita<ptr target="#tn26" n="26"/> <lb/>
+il solo signor Principe, ancorché havesse<ptr target="#tn27" n="27"/> havuti diversi <lb/>
+avvisi di questa conspiratione, non potendo in ogni modo <lb/>
+creder che si volesse di questa maniera vidar la fede publica <lb/>
+essendosi trovato al Lovre fu arrestato, et fatto prisio-<lb/>
+niero il primo giorno di settembre col mezo del signor di <lb/>
+Themises, il qual in ricompensa di una così vile, et perfida <lb/>
+attione fu il giorno seguente proveduto d’un officio di <lb/>
+marescial di Francia; et qualche giorno doppo li signori <lb/>
+di Montigni, di Pralin, et di S. Geran, compartecipi, et <lb/>
+che erano stati impiegati nell’essecutione di questa per-<lb/>
+nitiosa deliberatione furono parimente proveduti di simili <lb/>
+cariche per salario della perfidia loro. In un medesimo <lb/>
+tempo fu ispedito<ptr target="#tn28" n="28"/> a cadauna città per far iscusa di <lb/>
+questa giusta ritentione del signor Principe, sotto pretesto <lb/>
+che era stato avvisato, che li detti principi, et signori gli <lb/>
+havevano persuaso di unirsi con loro per intraprender <lb/>
+sopra la persona del Re, et della Regina madre, et che <lb/>
+sentendosi colpevoli di questo delitto si siano fuggiti. </p>
+<p>Questo li obliga di unirsi, et congiongionsi tutti insieme <lb/>
+per la conservatione loro; et di proveder col mezo della <lb/>
+loro lontananza dalla corte alla sicurtà della loro vita <lb/>
+contra una sì horribil congiura, affine di poter far <lb/>
+constare la falsità di tali calumnie, et imposture, <lb/>
+l’ingiustitia della ritentione del signor Principe, et di <lb/>
+appor una giusta difesa contra una sì gran violenza <lb/>
+stante che<ptr target="#tn29" n="29"/> si continua a voler opprimerli con l’armi. </p>
+<pb n="190r" facs="02_190r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="190v" facs="02_190v" rend="270"/>
+<p>Scritta per li principi <lb/>
+contra la dichiaratione del Re. Prima </p>
+<p>nella prima </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="059" corresp="057" source="191r-194v" >
+<div type="main" facs="main text of attachment II" n="059" corresp="057" >
+<!--<p>Allegato II al n. 57 (cc. 191r-194v)</p>-->
+<pb n="191r" facs="02_191r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Dichiaratione del Re fatta nel Parlamento di Parigi </p>
+<p>Luigi per la gratia di Dio re di Franza et di Navarra </p>
+<p>a tutti quelli che vederanno la presente salute ci riesce d’un incredibil <lb/>
+discontento et che ci passa il cuore l’esser così spesso necessitati ad’impie-<lb/>
+gar l’auttorità nostra per reprimer li malvagi disegni di quelli che cercano <lb/>
+con la ruina del nostro Stato l’avanzamento della lor fortuna, et dentro le <lb/>
+prodigiose crudeltà delle guerre civili la licenza di tutto quello che li è di-<lb/>
+feso dalle leggi et dalla ragione et ancor d’avantaggio, quando bisogna che <lb/>
+li rimedii necessarii, che noi apportiamo alla sicurtà della persona nostra <lb/>
+et alla salute di questo Stato, servano per difamare et deshonorare il nostro <lb/>
+proprio sangue et per renderlo colpevole d’impietà tanto contro di noi <lb/>
+che tenemo il luoco di padre di tutti li nostri sudditi quanto contra la lor <lb/>
+commune Patria, la quale è reverita come madre dai popoli etiamdio li <lb/>
+più barbari; ciò niente di meno ci succede al presente quando facemo appa-<lb/>
+rere alla vista del mondo le giuste lamentationi che noi facemo tanto <lb/>
+contra il principe di Condè nostro cogino quanto contra li principi signori et altri <lb/>
+che adheriscono a’ malvagi et pernitiosi disegni che sono state orditi contra <lb/>
+la nostra persona et il nostro Stato essendo impossibile che quelli che d’un <lb/>
+canto considereranno la nostra smisurata clemenza tante volte impiegata <lb/>
+per guadagnarli et acquistarli et dall’altro la loro indubitabile ostinatione <lb/>
+ad offenderci, o più tosto ruinarci non ditestino con horrore una sì<ptr target="#tn30" n="30"/> ingrata <lb/>
+sconoscenza. </p>
+<p>Noi allhora che ultimamente si assicurorno con l’armi sotto pretesto d’impedir <lb/>
+la più honorevol’alleanza, che potessimo fare in tutta la Christianità, et <lb/>
+per riformar il nostro Stato col mezo della sua assoluta ruina, potevano <lb/>
+agiatamente con un poco di patienza rispettar di vederli dileguar, et consu-
+<pb n="191v" facs="02_191v" rend="0"/>
+marsi da sé stessi per rigetarsi a’ nostri piedi, et rimettersi di nuovo alla nostra <lb/>
+misericordia; ma gettando gl’occhi sopra le miserie et calamità che facevano sof-<lb/>
+ferir ai nostri popoli habbiamo come padre pietoso volutto pagar l’impositione <lb/>
+da nostri poveri sudditi col mezo della diminutione della nostra auttorità sottostante <lb/>
+l’estrema incommodità de’ nostri affari, et evidenti danno dello Stato nostro. <lb/>
+Questo fu causa che nel trattato di Ludun noi concedessimo al ditto nostro <lb/>
+cugino tutto quello che ci domandò. </p>
+<p>Non solamente si contentassimo che recevesse il governo di Berm, ma a gran prezzo <lb/>
+ricompensassimo tutte le piazzeforti che sono in esse, et tutto il dominio per darlo <lb/>
+a lui, et li accordamo sia per gratificatione, o per il licentiar delle sue truppe <lb/>
+somme di denaro sì imense che la spesa di questa guerra, o del trattato ci <lb/>
+riviene a più di vinti millioni. </p>
+<p>Per sodisfar al duca<ptr target="#tn31" n="31"/> di Longavilla habbiamo levato dalla Piccardia, et dalla citta-<lb/>
+della d’Amiens quelli che vi commandavano per mettervi soggetto, che potes[se] <lb/>
+riuscirli di gusto: et per dargli materia maggiore di accostarsi a noi faremo <lb/>
+allontanar dalla corte quelli, che noi stimavamo che potessero riuscirli di dis-<lb/>
+gusto. </p>
+<p>Noi habbiamo permessa al detto nostro cugino il signore di Conde, allhora che venne a noi <lb/>
+quella parte appunto ch’egli ha desiderato ne maneggio dello Stato, et partico-<lb/>
+larmente la direttione della nostra thesoraria, ancorché fosse cosa stimata contra <lb/>
+alla qualità di lui, et cadauno giudicava pregiudicale allo Stato. </p>
+<p>In ogni modo l’eccesso delle nostre gratie, et favori non hanno potuto contener le <lb/>
+disordinate volontà di quelli che non trovano il loro riposo, che dentro ai tra-<lb/>
+vagli del nostro Stato, et non hanno per fondamento delle loro speranze che la nostra <lb/>
+ruina; perché inanti et doppo l’arrivo del detto signor Principe sono state tenute mo[lte] <lb/>
+riduttioni notturni nella nostra città di Parigi, come anco a San Martino del Camp[o]
+<pb n="192r" facs="02_192r" rend="0"/>
+et nei soborghi di San Germano, ove si sono trovati dei più grandi principi, et ancora <lb/>
+chi fossero presso di noi; et parimente alcuni de’ nostri officiali onde gl’uni si <lb/>
+sono doppo retirati, manifestando la sua colpa colla loro fuga. </p>
+<p>Per corrispondenza di questa sono state fatte pratiche, et maneggi per sviare il popolo <lb/>
+et comoverlo a seditione et per guadagnar quelli, che tenevano carica dell’armi in questa <lb/>
+nostra buona città, come colonelli, et capi, et quello sotto diversi pretesti in che sono <lb/>
+stati impiegati molti dei nostri officiali. </p>
+<p>Non si è meno lasciato di praticar li curati et predicanti ai quali è stato fato parlar <lb/>
+scandolosamente, non più di quello facevano li signori et gentilhuomini che si tenevano <lb/>
+presso di noi, et ciò sì apertamente, che quelli che si trovavano in questi maneggi non <lb/>
+hanno punto tenuto di far dire alla Regina nostra honoratissima dama et madre, <lb/>
+ch’erano tanto stretti insieme, che cosa del mondo li poteva separare; li loro ser-<lb/>
+vitori, et seguaci dicevano publicamente che altro che Dio poteva impedire, che non <lb/>
+si cambiasse il governo. </p>
+<p>All’incontro successe la presa et occupatione della città et castello di Perona et li con-<lb/>
+segli sopra ciò sono stati bramati appresso di noi, di che se bene noi havevimo <lb/>
+giusta causa d’esser grandamente adirati, et con la forza vendicar l’ingiuria fatta <lb/>
+alla nostra auttorità; con tutto ciò noi si siamo accommodati a tutte le propositioni<ptr target="#tn32" n="32"/> <lb/>
+che ci sono state fatte per componer docilmente questo affare: ma in luoco di <lb/>
+profittar della nostra bontà, et indulgenza sono entrate dentro 4 compagnie <lb/>
+di pedoni, a tamburo battente partite dalle piazze commandate da quelli, ch’erano <lb/>
+presso di noi, et che concorrevano a tutti questi disegni. </p>
+<p>Il che è riuscito così piacevole a tutti quelli in che restava ancora qualche <lb/>
+rispetto della nostra auttorità che una principessa, che è molto attinente <lb/>
+alli medesimi interessati in quel fatto, mossa dalla compassione della nostra for-<lb/>
+tuna, diede avviso alla sudetta Regina nostra honoratissima dama et madre
+<pb n="192v" facs="02_192v" rend="0"/>
+dei disegni degl’intrapensori ci avvertì di haver guarda a noi stante che <lb/>
+li loro consegli tendevano ad *** della nostra persona, et di quella <lb/>
+Regina nostra dama, et madre et impossessarsi in tutte le Provincie del nostro <lb/>
+Regno, ma in ogni modo l’horror fu sì grande nel animo di quelli, che havevano <lb/>
+dissegnato, che lo stesso nostro cugino prima della sua intentione confessò ingenuamente <lb/>
+alla nostra detta dama et madre essersi trovato al detto Consiglio et che alla verità <lb/>
+noi havevamo occasione di suspettar di lui aggiongendo che nientedimeno noi et <lb/>
+la nostra detta dama et madre gli erano obligati, non meno che a’ nostri proprii padri <lb/>
+le quali parole proprie sono state dette pasimente d’un altro principe alla detta dama, <lb/>
+pregandola di non farne mottivo temendo ch’esso nostro cugino non si ritirasse. <lb/>
+Et in fatto noi havevamo deliberato dissimolando stancare gl’auttori di tale <lb/>
+ravoglimenti con la patienza nostra et condurli al loro debito, ma noi fussimo <lb/>
+avvertiti d’ogni parte, che nonostante la dichiaratione del detto nostro cugino non <lb/>
+lasciava con suoi adherenti di persister nei loro cativi disegni. In manie[ra] <lb/>
+che uno de’ grandi del nostro Regno vene a trovar la detta nostra dama e madre, <lb/>
+riverarle ch’era stato in uno di detto Consiglio, dove si trattava di pigliar la per-<lb/>
+sona nostra e farse patrona del governo del Regno. Et in un medesimo tempo <lb/>
+un altro d’ugual qualità mandò un consiglier dal nostro Parlamento alla <lb/>
+detta nostra dama et madre per avvisarsi delle dette intraprese, et doppo ven[e] <lb/>
+egli medesimo ancora et ci scongiurò di provedere alla segurtà delle persone non <lb/>
+protestando che lo diceva per scaricho della sua conscienza, agiungendo <lb/>
+che l’armata ch’era a Perona sarebbe stata meglio appresso di noi, et <lb/>
+che haverebbe desiderato che noi fossimo stati fuori di qua, nel mezo <lb/>
+di mille doi cento cavalli. </p>
+<p>Uno di principali di questo Regno ch’era assolutamente fuori di suspetto di
+<pb n="193r" facs="02_193r" rend="0"/>
+voler fingere alcuna cosa in questa occasione, ci vene ad avertire che veniva <lb/>
+proposto tra gl’auttori di questi disegni di andar al nostro Parlamento et ripigliare <lb/>
+le dispositioni dell’arresto per il quale era stato ordinato che fosser con-<lb/>
+vocati li principi pari di Franza et officiali della Corona per proveder al <lb/>
+governo. </p>
+<p>Et queste cose erano sì già publice che gl’ambasciatori dei principi stranieri ch’erano <lb/>
+nella nostra corte si avvertirno col mezo di lettere di lor mane, et solicita-<lb/>
+vano ufficiosamente a guardarci. </p>
+<p>Ci fu parimente riferto che<ptr target="#tn33" n="33"/> nei bancheti che si facevano tra quelli del se-<lb/>
+guito detto nostro cugino, ci era un termine di allegrezza ordinario La Barra a Basso per dar ad intender la pretentione sua alla corona. </p>
+<p>Nel medesimo tempo noi sapevamo che da tutte le parte ci faceva gente nel nostro <lb/>
+Paese senza nostra permissione e con le commissioni di quelli ch’erano <lb/>
+appresso noi, et in tempo che non si poteva prender pretesto, che quanto <lb/>
+fusse per servirsi in altrove, e ciò con tal licenza che ’l giorno inanti <lb/>
+che noi habbiamo fatto retenere il detto nostro cugino, fu tirato fuora <lb/>
+di questa città di Parigi armi per armar 3000 huomini. </p>
+<p>In fine vinta la nostra patienza dall’evidente pericolo che non rigordava <lb/>
+solo alla persona nostra, ma tirava con sé l’intera ruina del nostro <lb/>
+Regno, che ci è più caro che la vita nostra; noi siamo ricorsi a Dio <lb/>
+et doppo havere come cosa disperata implorata la sua sistenza e <lb/>
+consiglio; habbiamo trovato non haver più altro rimedio a questo male <lb/>
+che assicurarsi della persona del detto nostro cugino ancor che conosciamo <lb/>
+assai il pericolo nel qual incorrevano per li manigiamenti et pratiche
+<pb n="193v" facs="02_193v" rend="0"/>
+con li quali molto tempo fa erano stato allienati li cuori et la volontà non <lb/>
+solo de’ nostri sudditi, ma de’ nostri proprii officiali et servitori. </p>
+<p>Per tanto gl’habbiamo fatto arrestare et allogiare appresso di noi nel nostro <lb/>
+castello di Lovre con il più honorevole et buon tratamento che po-<lb/>
+trebbe compatirsi in occasione tal. </p>
+<p>E perché, per quello che detto di sopra il detto nostro cugino et gl’adherenti suoi <lb/>
+hanno manifestamente violata la fede che si diedero et contravenuta <lb/>
+in ogni capo al detto trattato di Ludun come fecero in quello di San <lb/>
+Mennud<ptr target="#tn34" n="34"/> con l’intrapresa di Poitiers, come resta verificato dalla in-<lb/>
+formatione di più di 150 testimoni degni di fede; noi non dubitiamo <lb/>
+in maniera alcuna che secondo che li spiriti sono miseriabilmente par-<lb/>
+cializati et perventi di diverse persone molti mal intenzionati verso <lb/>
+il servitio nostro, et contra il bene del nostro Stato non siamo per dare simil <lb/>
+interpretatione a questo avvenimento; noi habbiamo voluto con le presente <lb/>
+far chiar ognuno della nostra intentione, et provedere in un medesimo <lb/>
+tempo, a quello che concerne la sicurtà del nostro Stato et bene de’ nostri <lb/>
+sudditi, et far loro conoscer che la nostra bontà et clemenza pò esser <lb/>
+supperata dalla lor ostinatione. </p>
+<p>Et per tal effetto facemo sapere che doppo haver consultato questo affar <lb/>
+nel nostro Consiglio; ove erano la Regina nostra et madre qualche principe (officiali della Corona) et altri principali signori del detto nostro <lb/>
+Consiglio, et col parer di esso, noi habbiamo dichiarato et <lb/>
+dichiaramo con li presenti segnati con nostre mani; che per <lb/>
+la ritentione et arresto della persona del detto nostro cugino non
+<pb n="194r" facs="02_194r" rend="0"/>
+habbamo inteso né intendemo di contravenir in qualchi voglia <lb/>
+maniera al trattato sudetto di Ludun né privar alcun di nostri sudditi <lb/>
+che starà costante alla nostra obedienza del frutto et beneficio di esso <lb/>
+il quale volemo che sia inviobilmente osservato verso tutti li sudditi <lb/>
+nostri, che si sono mantenuti nel loro debito et ci hanno obedito. </p>
+<p>E per esercitare più abondantemente verso loro la clemenza nostra vogliamo e <lb/>
+siamo contenti che tutti quelli ch’hanno aderito al detto nostro cugino et <lb/>
+a’ disegni et consiglii che sono stati presi et tenuti contra il nostro Stato rive-<lb/>
+nendo a noi dentro 15 giorni doppo la publicatione debbe presentato nel nostro <lb/>
+Parlamento et dimandandoci pardone (non siamo in maniera alcuna <lb/>
+inquisiti; abolendo in questo caso tutto quello di che fusse sì colpevole, <lb/>
+promettendoli di riprenderli<ptr target="#tn35" n="35"/> nelle gratie nostre: come al incontro in caso <lb/>
+che perseveranno nel lor fallo li habbiamo dichiarati et dichiariamo <lb/>
+criminali di lege maestà volendo che si procedi contra di essi conforma al <lb/>
+rigor delle leggi et de’ nostri aditti ordinanzi. Parimente commendiamo <lb/>
+ai nostri amati et fideli consiglieri a quelli che tengono la nostra corte di Parlamento, <lb/>
+Balgef, siniscalchi, o loro locotenenti et a tutti gl’altri nostri iusticieri et <lb/>
+officiali a chi si aspetta, ciascun per la parte sua, che verificano <lb/>
+le presenti et le faccino registrare, publicare, conservare, et osservare <lb/>
+secondo la sua forma et continenza; et ai nostri procuratori generali <lb/>
+di detta corte far ogni inquisitione et diligenza per la sequitione <lb/>
+loro; perché tale è la volontà nostra, in testimonio di che noi habbiamo <lb/>
+fatto metter il sigillo nostro alla presente. </p>
+<p>Data Parigi ai 6 settembre 1616 et del nostro Regno il 7 </p>
+<pb n="194v" facs="02_194v" rend="270"/>
+<p>Dichiaratione del Re christianissimo </p>
+<p>nella prima </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="060" corresp="057" source="195r-196v" >
+<div type="main" facs="main text of attachment III" n="060" corresp="057" >
+<!--<p>Allegato III al n. 57 (cc. 195r-196v)</p>-->
+<pb n="195r" facs="02_195r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Lettera del re della città del Regno </p>
+<p>Cari et a noi amati. Gl’avvisi<ptr target="#tn36" n="36"/> che havemo havuti di diverse parti delle <lb/>
+fattioni e monopoli che si facevano in questa città et de diverse intraprese <lb/>
+e desegni che s’andavano trattando<ptr target="#tn37" n="37"/> contra<ptr target="#tn38" n="38"/> la nostra persona et<ptr target="#tn39" n="39"/> quella <lb/>
+della Regina nostra honoratissima dama et madre, ci hanno astretto con nostro <lb/>
+grandissimo scontento a risolutione di far arrestar gl’auttori, ma come essi me-<lb/>
+desimi si sono sentiti colpevoli di questo delito, se ne sono andati et perché fussimo <lb/>
+advertiti, che si voleva persuadere a nostro cugino il principe di Condè di unirsi <lb/>
+con loro in queste malvagie<ptr target="#tn40" n="40"/> intentioni siamo stati consigliati di assicurarsi <lb/>
+della persona sua, come havemo fatto, havendolo fatto logiare in una <lb/>
+camera del nostro castello del Lovre senza voler<ptr target="#tn41" n="41"/> per questo fargli alcun <lb/>
+mal trattamento. Di che habbiamo voluto darvene parte, et commandar <lb/>
+che ciascun si mantenghi nel suo dovere in questa nostra città della Fera, <lb/>
+come è seguito di qua; e che non si prende pensier di quello che è<ptr target="#tn42" n="42"/> passato, <lb/>
+come ne sarete più particolarmente informati dal signor di Monlie, così noi non <lb/>
+agiongeremo di vantaggio nelle presenti, se non che habbiate a far buono <lb/>
+guarda di detta nostra città, in maniera che non possi succedervi alcuna <lb/>
+sorte<ptr target="#tn43" n="43"/> di inconveniente<ptr target="#tn44" n="44"/> pregiudiciale alla nostra auttorità et al servitio nostro, <lb/>
+non mancate dunque<ptr target="#tn45" n="45"/>, che tale è la nostra volontà. </p>
+<p>Data a Parigi a primo di settembre 1616 segiata Luigi </p>
+<pb n="195v" facs="02_195v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="196r" facs="02_196r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="196v" facs="02_196v" rend="270"/>
+<p>Forma della lettera scritta <lb/>
+dal Christianissimo alle città <lb/>
+doppo la ritentione del Principe </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-da(n)do" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "trav-|agli" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected from "-o."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> First "-i-" corrected from "-e-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "publi-" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "che possino haver" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "essequir" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "persone de" added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "que" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "permission" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line on "sodisfar" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes "al-" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line on "per" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Precedes "non" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "per l’asprezza" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "ina-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "rimedio" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Ink stain.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "et ai … città" added above the line with an insertion mark.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Corrected above "persona", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "ritorno di ciò" crossed out, with "di" added above the line.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Is the result of a correction.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "nei" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Improper or peculiar spelling by the writer; second "-n-" corrected above "-h-."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "-i-" corrected from "-e-."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "G-" corrected from "g-."</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "tratta-" corrected above "face-."</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Corrected above "sopra."</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Followed by "sopra" crossed out.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> "-agie" is the result of a correction.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Followed by "-gli" crossed out.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Is the result of a correction.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "in-" added above the line with an insertion mark.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

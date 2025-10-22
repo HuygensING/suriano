@@ -142,10 +142,10 @@ Technical information on the actual deployment is in our
 
 # Curated data
 
-The source data and the TEI that we derived from it, and more, is available on
-[SurfDrive (public readonly link)](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
+The source data and the TEI that we derived from it, and more, is available in directory
+`/datasource` in this repo.
 This does not include the original high resolution scans, since they are not
-available as a downloadable package. These scans are also at SurfDrive, but not
+available as a downloadable package. These scans are at SurfDrive, but not
 accessible via a public link. If you are interested in these scans, contact Nina Lamal.
 
 Note that (very) low resolution versions of these scans are provided in this repo:
@@ -157,8 +157,7 @@ way. These processes have produced a number of report files.
 There are extensive README files in the report directory.
 
 *   [README_DATASOURCE](report/README_DATASOURCE.md): description of the contents of
-    the
-    [datasource directory on SurfDrive](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT);
+    the datasource directory;
 *   [README_SCANS](report/README_SCANS.md): description of the contents of the
     scan directory on SurfDrive;
 *   [README](report/README.md): description of the report files.

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.083 date 1620-01-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">083</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 444r-446v, 451r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp139-156
+            </note>
+            <biblScope unit="page">444r-446v, 451r-v, 447r-450v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Continous stream of reports of levies by archbishop of cologne; the States General are waiting for English decision before acting. Rosellus is still in Amsterdam. States General have received letters from Grisons detailing actions of Étienne Gueffier. The letter has been printed and after being handed out in multiple copies, prohibited, presumably due to the complaints of Du Maurier. One text attached: a copy of letter by the French king to the Grison</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-01-27">27 gennaio 1620</date>
+            <num>139, 140</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="139">
+<div type="main" facs="main text of letter" n="139">
+<!--<p>27 gennaio 1620, L’Aia (cc. 444r-446v, 451r-v)</p>-->
+<pb n="444r" facs="08_444r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 174 comincia 173 </p>
+<p>Serenissimo Principe </p>
+<p>per gl’affari d’Alemagna si continua qui nei soliti avvisi, <lb/>
+che le levate fatte dall’arcivescovo di Colonia habbino fatto <lb/>
+diverso camino per la Wesfalia, et per altrove, et<ptr target="#tn1" n="1"/> <lb/>
+ridottasi tutta la cavallaria in in numero di millecinquecento <lb/>
+et l’infanteria sino a quattromille a Limburch così ag-<lb/>
+giuntati passassero in Baviera; che li principi dell’<lb/>
+Unione catholica andavano sempre aggiungendo nuove <lb/>
+forze non ostante la stagione, et che la casa d’Austria <lb/>
+non pensava ad altra cosa più, che a far sforzo per <lb/>
+esser preparata a nuovo tempo. Vostra Serenità deve da più <lb/>
+vicino luoco haver miglior avvisi. Da questa parte <lb/>
+non si muove; ma si attende le risolutioni d’Inghilterra. </p>
+<p>Li signori Stati dal suo Ambasciatore presso quella Maestà non <lb/>
+hanno avviso alcuno, che loro genti; ben per qualche <lb/>
+lettera venuta in particolare sono entrati in speranza, che <lb/>
+l’essito delle deliberationi del Re habebi in fine a farsi <lb/>
+sentir con qualche buona risolutione: ma dalla parte <lb/>
+dei serenissimi arciduchi li Spagnuoli si persuadono assolu-<lb/>
+tamente che il re d’Inghilterra starà quieto né si muo-<lb/>
+verà punto per aiutar il genero. Sia il rigor <lb/>
+del freddo, o sia altro rispetto ancor non si sente dalla <lb/>
+parte di Brabant alcuna levata, sarà partito sin <lb/>
+hora monsignor di Balanzon spedito dai detti serenissimi arciduchi
+<pb n="444v" facs="08_444v" rend="0"/>
+alle frontiere di Borgogna per visitar quelle piazze, et farci <lb/>
+qualche fortificationi, per renderle più sicure ad ogni tentativo, <lb/>
+che potesse venir<ptr target="#tn2" n="2"/> dai principi dell’Unione. </p>
+<p>Qualche giorni passati scrissi riverentemnte alla Serenità vostra, che l’arci-<lb/>
+vesco<ptr target="#tn3" n="3"/> di Colonia haveva mandato al Re christianissimo copia <lb/>
+delle lettere, che questi signori havevano scritte ai consigli<ptr target="#tn4" n="4"/> <lb/>
+tanto di Colonia, che d’altri Stati di quel Principe sopra che <lb/>
+sua Maestà ha commesso a questo suo Ambasciatore di far qualche <lb/>
+buon ufficio in particolare non in publico con alcuni dei signori Stati <lb/>
+et col signor principe Mauritio, rappresentando che stimava <lb/>
+bene la Maestà sua, che dovesse<ptr target="#tn5" n="5"/> in simil materie andar <lb/>
+destramente, far capo con il Principe, et non con li sudditi a <lb/>
+fine di levar le gelosie, et li sospetti, che si potessero dar a’ <lb/>
+principi, che unite queste Provincie, et intendendosi bene <lb/>
+con il re d’Inghilterra havessero in animo di sovertir la <lb/>
+religione catholica, et tutte le cose far andar alla <lb/>
+peggio col fine della diversione, et simili altri concetti <lb/>
+ha usati l’Ambasciatore alterando più, et meno secondo che <lb/>
+trovava le menti disposte a ricever l’instanza che <lb/>
+faceva fa il suo Re. Mi disse esso Ambasciatore quando fui <lb/>
+a sua visitatione, che gli era parsa di haver lasciato <lb/>
+assai ben disposto il signor principe Mauritio. L’opinione <lb/>
+comune nondimeno continua, che questi signori siano
+<pb n="445r" facs="08_445r" rend="0"/>
+per far tutto quello, che potranno dalla parte loro per <lb/>
+divertir gl’aiuti a Cesare. </p>
+<p>Quello ch’è venuto qui per nome del serenissimo elettore Palatino <lb/>
+et dei principi dell’Unione si trova tuttavia in Amsterdam <lb/>
+né qui sinhora s’è risoluta alcuna cosa sopra la <lb/>
+sua espositione di nuova instanza di aiuti; né si risol-<lb/>
+verà se non con gl’avvisi d’Inghilterra, che attendono con <lb/>
+grandissimo desiderio. </p>
+<p>Hanno li signori Stati ricevuta la copia della lettera, che li signori <lb/>
+Grisoni hanno scritta al Re christianissimo, ove rappresentano <lb/>
+in particolare le attioni di monsignor Giffier, et la risolutioni <lb/>
+fatta tra essi di non voler più nel loro Paese ministri <lb/>
+de’ principi per resiedervi. Mi fu mostrato per scritto <lb/>
+da uno dell’assemblea, et mi disse sono degni di lode <lb/>
+li signori Grisoni, mostrando risolutione, et cuore contra <lb/>
+detto Giffier, et noi non habbiamo tanto cuore contra <lb/>
+monsignor Maurier. In effetto questo signore è malissimo veduto <lb/>
+qui per le cose passate. Godono li signori Stati di <lb/>
+veder quei popoli risoluti al mantener la libertà <lb/>
+loro, et godranno anco di ogni lor buon successo. </p>
+<p>Da qualche ragionamenti et discorsi ho cavato <lb/>
+esser qui intentione di haver se si potrà qualche <lb/>
+buona intelligenza, o corrispondenza con quei popoli
+<pb n="445v" facs="08_445v" rend="0"/>
+et quello, che mi mostrò la sudetta lettera mi addimandò <lb/>
+con grande instanza a che tempo era la riduttione <lb/>
+dei Grisoni in quei paesi: aggiungendo quando si manderà <lb/>
+a Venetia potrà quello, che vi sarà destinato far <lb/>
+qualche buon ufficio con essi per il servitio commune, <lb/>
+et gettar qualche fondamento d’una buona intelligenza <lb/>
+con queste Provincie; et col tempo forse coltivandosi <lb/>
+l’amicitia aprir quel passo per servitio della serenissima Republica. </p>
+<p>Io risposi a detto signore che la ridutione generale di quei <lb/>
+popoli se ben mi soveniva era a san Giovanni. Lodai <lb/>
+il pensiero; et dissi che sarebbe un gran bene se se ne <lb/>
+potesse haver buona riuscita. Mi replicò se almeno <lb/>
+avanzassimo questo, che non dassero passo aì Spagnoli <lb/>
+sarebbe assai. Io dissi, che poco importava perché l’hanno <lb/>
+commodo dal San Gottardo come s’è veduto in <lb/>
+quest’ultimo passaggio delle genti di Napoli, che <lb/>
+hanno passato per la Svizzera.<ptr target="#tn6" n="6"/> Scuopro <lb/>
+che vi è intentione di far far qualche ufficii con le <lb/>
+quattro citta<ptr target="#tn7" n="7"/> evangeliche, et so che pensano <lb/>
+a tutto, che può apportar incommodo al re di Spagna. <lb/>
+Se vostra Serenità stimerà bene, fomenterò li concetti di sopra. </p>
+<p>È stato permesso, che la sudetta lettera dei signori Grisoni si sia <lb/>
+stampata; ma doppo esser stata dispensata una
+<pb n="446r" facs="08_446r" rend="0"/>
+buona quantità di copie fu prohibito il lasciarne più uscire. </p>
+<p>Si crede sia stato per qualche compianto di monsignor di Maurier <lb/>
+per quello che viene apertamente espresso in essa della persona <lb/>
+dell’ambasciator Giffier. Et un principal signore mi disse se Mau-<lb/>
+rier ha procurata la prohibitione ha havuta ragione <lb/>
+potendosi dir di lui mutato nomine fabula de te <lb/>
+loquitur<ptr target="#tn8" n="8"/>. </p>
+<p>Ancorhé posso assicurarmi, che vostra Serenità haverà havuta la <lb/>
+copia dai proprii luochi: ad ogni buon fine nondi-<lb/>
+meno ho stimato poter incontrar col gusto di <lb/>
+alcune dell’Eccellenze vostre illustrissime il farne la translatione <lb/>
+che sarà qui aggiunta. </p>
+<p>A monsignor di Maurier è stata data risposta sopra la sua <lb/>
+espositione, l’ha in parte aggradita ma non in tutto, <lb/>
+dano li signori Stati soddisfattione taccante le casse de’ <lb/>
+zuccari arrestate in Amsterdam, che li mercanti <lb/>
+sudditi di qui ricorrino al Parlamento di Parigi per <lb/>
+la divisione; ma quanto alle navi perse allegano li Stati <lb/>
+esser de’ corsari francesi, a che non assente l’Ambasciatore, <lb/>
+et voleva il castigo del Zelandese, che n’ha fatta la <lb/>
+presa. Ha spedita la detta risoluttione alla corte; non <lb/>
+promettendo, che dovesse esser del tutto trovata buona <lb/>
+ben diede parola di porgerla con ogni miglior termine
+<pb n="446v" facs="08_446v" rend="0"/>
+et che servì a confermar la buona volontà di questi signori <lb/>
+verso la maestà del suo Re. </p>
+<p>Questo non basta però a far che tutti li credano; et che in <lb/>
+ognuno sia la buona opinione, che sua Maestà resti <lb/>
+impressa dell’ottima mente, et osservanza di queste <lb/>
+Provincie verso di lei, et verso la Corona: onde per <lb/>
+imprimerla<ptr target="#tn9" n="9"/> meglio vanno consultando la <lb/>
+missione d’ambasciata straordinaria a quella Maestà. </p>
+<p>Non si nominano per anco li soggetti, dovendosi prima <lb/>
+accordar di quali Provincie doveranno tirarsi <lb/>
+gl’ambasciatori mentre in più di uno doverà esser la <lb/>
+carica. Gratie etc. </p>
+<p>Dall’Haya li 27 genaro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="451r" facs="08_451r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="451v" facs="08_451v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 174 comincia n 173 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="139">
+<!--
+<p n="451rC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 gennaro 1619 ricevute a’ 13 febraro </p>
+<p>Haya. n° 174 <lb/>
+2<hi rend="superscript">da</hi> </p>
+<p>L. C. X. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="140" corresp="139" source="447r-450v" >
+<div type="main" facs="main text of attachment I" n="140" corresp="139" >
+<!--<p>Allegato I al n. 139 (cc. 447r-450v)</p>-->
+<pb n="447r" facs="08_447r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia di una lettera scritta al re di Francia, et di Navarra <lb/>
+dalle tre leghe de’ Grisoni </p>
+<p>Sire, noi siamo autenticamente informati, che ’l signor Giffier ambasciator della Maestà vostra, <lb/>
+nel nostro Paese col mezo d’espresse persone, et lettere ha fatto <lb/>
+intender a vostra Maestà che noi habbiamo rinontiato alla nostra <lb/>
+antica, et moltissime volte rinovellata reale aleanza con vostra Maestà <lb/>
+et della parte nostra anichilata; et ch’egli parimente si sia <lb/>
+doluto indebitamente di noi di altre cose<ptr target="#tn10" n="10"/>; come anco ha fatto <lb/>
+proporre innanti alle nostre communità una lettera, nella quale <lb/>
+seriosamente ci ha rimproverati di questa nostra rinontiatione. </p>
+<p>Questo ha data materia alli vostri fedeli collegati, et confe-<lb/>
+derati di chiarir la Maestà vostra di questi, et altri affari. Havendo <lb/>
+di nuovo levate le nostre bandiere, et alloggiato il commun <lb/>
+popolo nei quattro villaggi, et nella signoria di Mayenfeld <lb/>
+ove in publico s’è tenuta qualche congregatione: noi <lb/>
+habbiamo fatto legger al commun populo alcuni articoli <lb/>
+dell’aleanza di vostra Maestà, et per il vero noi ci siamo <lb/>
+aggravati perché toccanti le pensioni annuali, et le <lb/>
+persone dei banditi da noi, la lega della Maestà vostra <lb/>
+non è debitamente rispettata; non habbiamo però fatta<ptr target="#tn11" n="11"/>, o <lb/>
+conclusa altra cosa, che di far saper questo tanto alla <lb/>
+vostra Maestà; et quanto all’aleanza, che noi siamo <lb/>
+risoluti mantenerla per sempre in tutte le sue clausule <lb/>
+et articoli constantemente et fermamente come gente da <lb/>
+bene, et leali antichi confederati: fin tanto che
+<pb n="447v" facs="08_447v" rend="0"/>
+vostra Maestà sarà risoluta di continuarla, come dal canto nostro <lb/>
+noi ancora siamo veramente di questa intentione di volerla <lb/>
+fermamente; et inviolabilmente conservarla. </p>
+<p>In oltre noi ci siamo del tutto risoluti, et per giuramento l’habbiamo <lb/>
+confirmato innanti le nostre communità, che per l’avenire <lb/>
+non volemo più nel nostro Paese lasciar risieder gl’ambasciatori, et <lb/>
+loro secretarii, et interpreti di qualunque principe o signore <lb/>
+che si sia, alla qual resolutione li mali portamenti dell’<lb/>
+ambasciatore di vostra Maestà, ed delli suoi interpreti, et secretarii <lb/>
+ne ha data occasione: perché doppo ch’egli già doi <lb/>
+anni sono hebbe tra noi concitata una pernitiosa seditione <lb/>
+come parimente data occasione al rifiuto del passaggio nel <lb/>
+ducato di Milano, come consta per scritti di sua propria <lb/>
+mano; et similmente de’ suoi migliori, et più intimi amici <lb/>
+(li quali noi potiamo presentare) et data occasione a <lb/>
+molte altre incommodità per il mezo de’ suoi interpreti. </p>
+<p>Noi siamo stati astretti di punir li detti interpretti come <lb/>
+nostri patrioti, dandoli essilio per qualche tempo <lb/>
+rispetto alla loro contumacia: ai quali nondimeno per <lb/>
+l’intercessione fatta per essi l’anno passato dal signor colonel <lb/>
+Guler de Wyneck cavallallier ultimamente stato ambasciator presso <lb/>
+la Maestà vostra, et a nome di lei ricercati dassimo <lb/>
+salvocondotto, perché potessero ritornarsene nel Paese
+<pb n="448r" facs="08_448r" rend="0"/>
+perdonandoli le loro colpe: ma non sì tosto furono ritornati <lb/>
+con grande importunità se ne sono andati sopra le <lb/>
+communità, dove hanno prodotte molte cose, toccanti prin-<lb/>
+cipalmente la religione tutte finte, et false, come in effetto <lb/>
+questo s’è trovato, et si troverà sempre. Hanno anco <lb/>
+col mezo de’ banchetti, et altri modi per corruttioni, et donativi <lb/>
+della borsa del re di Spagna, et di quella del detto Giffier <lb/>
+(come è notorio per la confessione di alcune persone gistificate) <lb/>
+concitato il commun popolo<ptr target="#tn12" n="12"/> all’armi, et si è mostrato <lb/>
+tanto hostilmente contra altri, che ne hanno il dispiacere, <lb/>
+che sono stati attaccati a mano armata, et qualcheduno <lb/>
+è rimasto sopra la piazza. In che hanno havuto dell’<lb/>
+avantaggio grande stanti li mezi, l’adherenze, et <lb/>
+amicitie di alcuni de’ nostri infedeli, li quali doppo <lb/>
+qualche anno in qua, han fatte tali pratiche con <lb/>
+Milano, che tali machinationi sono riuscite del tutto <lb/>
+contrarie a tutti<ptr target="#tn13" n="13"/> li precedenti re di Francia, li<ptr target="#tn14" n="14"/> quali <lb/>
+tuttavia come<ptr target="#tn15" n="15"/> noi vedemo con nostra grande meraviglia <lb/>
+sono li miglior, et più fedeli amici del detto Giffier <lb/>
+il qual per mantener detti banditi ha travagliato grandemente <lb/>
+per metter la provincia nostra della Valtelina <lb/>
+nelle mani del duca di Milano; essendosi anco forzato <lb/>
+di render tutto il nostro Paese inutile alla corona
+<pb n="448v" facs="08_448v" rend="0"/>
+di Francia; come parimente egli ha condotte altre honorate per-<lb/>
+sone delle nostre leghe in un’estremo<ptr target="#tn16" n="16"/> pericolo della vita loro. </p>
+<p>Poiché dunque noi non habbiamo ad aspettare dagl’ambasciatori, <lb/>
+et dai loro secretarii altro frutto, che di seditioni, guerre <lb/>
+civili, et finalmente la ruina del nostro Paese; noi habbiamo <lb/>
+giustamente rinuntiata la residenza loro. In oltre <lb/>
+noi habbiamo abrogate le pensioni, et donativi privati de’ <lb/>
+principi et signori forastieri, havendo noi scoperto, che <lb/>
+queste sono causa di pessime pratiche, di grandissima invidia,<lb/>
+et di altre incommodità. Cadaun pensionario ha <lb/>
+sempre dato all’ambasciatore una carta bianca con signatura <lb/>
+di sua mano, et appositione el suo sigillo, et doppo <lb/>
+li tesorieri hanno là dentro potuto scriver quello che <lb/>
+hanno voluto, di che senza dubio la Maestà vostra sarà sta <lb/>
+grandemente ingannata. Li precedenti ambasciatori hanno <lb/>
+distribuite le pensioni come reali donativi d’honore, <lb/>
+senza conditioni, né oblighi: ma Giffier l’ha distribuiti <lb/>
+con tali, et sì gravi parole, et conditioni, che non sono <lb/>
+comprese dentro la<ptr target="#tn17" n="17"/> capitulatione dell’aleanza <lb/>
+et questo a fine di sforzar le communità secondo il <lb/>
+parere, et il consiglio di cadaun pensionario. Il che <lb/>
+ne’ più fedeli servitori di vostra Maestà, et negl’altri <lb/>
+ha cagionato un gravissimo disgusto, et una mala volontà
+<pb n="449r" facs="08_449r" rend="0"/>
+et poiché noi per giuramento habbiamo abrogate le dette <lb/>
+pensioni particolari noi supplichiamo la Maestà vostra <lb/>
+volerci inviar la pensione annua in commune come a <lb/>
+quelli di Zurich, et Berna. Il che rinovellerà, et augmenterà <lb/>
+meravigliosamente nel nostro Paese l’antica fede dell’aleanza <lb/>
+appresso cadauno: supplicando federalissimamente la Maestà vostra <lb/>
+non voler pigliar alcun discontento di questa maniera di <lb/>
+fare, et non dar credito alle informationi contrarie, et non vere <lb/>
+anzi del tutto persuadersi, che se noi non havessimo con tal <lb/>
+mezo procurata la pace, et la tranquilità alla nostra Patria <lb/>
+noi l’havressimo in pochi anni per le pratiche disleali de <lb/>
+persone infedeli, et per la propria dissensione, et discordia <lb/>
+esposta in preda a’ principi, et signori forastieri, non senza <lb/>
+grave danno della Maestà vostra. La quale noi raccom-<lb/>
+mandiamo ben di buon cuore alla protettione dell’Eterno <lb/>
+pregandolo voler conceder alla Maestà vostra longa, et felice <lb/>
+vita per il ben commune della christianità. </p>
+<p>Data in Tanas<ptr target="#tn18" n="18"/> </p>
+<p>di vostra Maestà li fedelissimi collegati, et <lb/>
+confederati capi, conseglieri, et commun <lb/>
+popolo delle tre leghe dei Grisoni al <lb/>
+presente ragunati in Tanas<ptr target="#tn19" n="19"/> </p>
+<pb n="449v" facs="08_449v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="450r" facs="08_450r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="450v" facs="08_450v" rend="270"/>
+<p>Lettera dei signori Grisoni alla <lb/>
+Maestà christianissima </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 174 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue ridottosi depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue dalla parte deppenato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Così A."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue di depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue Sopra depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue evangeliche depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-oq- esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue vann depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a corretta su -o."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-p- esito di correzione."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-i corretta su -e."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i corretta su -e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-o corretta su -a."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue lega depennato."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Prima -a- esito di correzione, come pare."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Prima -a- esito di correzione, come pare."</p></note>
+</div>
+</body>
+</text>
+</TEI>

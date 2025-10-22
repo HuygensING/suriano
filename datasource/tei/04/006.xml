@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.006 date 1617-03-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">006</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 34r-36v, 40r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">34r-36v, 40r-v, 37r-v, 39r-v, 38r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he accompanied John Ernst of Nassau until Leiden, who will travel to Zurich via Cologne and Heidelberg. Reports on continued problems with Mettoni’s ship in Texel, he has requested money, Suriano grants him 200 florins. Recommends services of Captain Pach. Schiavelski will request information about prices of ships in Amsterdam. Requests guidance on what to do with offers of Frederick of Baden. Updates by Pasini from Brussels: Pagani will leave and the English soldier Studder has been incarcerated. Two documents attached: "Navi che possino servire per armarsi ad uso di guerra" and a ricevuta</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-18">18 marzo 1617</date>
+            <num>012, 013, 014</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement></settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="012">
+<div type="main" facs="main text of letter" n="012">
+<!--<p>18 marzo 1617, L’Aia (cc. 34r-36v, 40r-v)</p>-->
+<pb n="034r" facs="04_034r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>partì domenica sera il signor conte Gio. Ernesto alla volta di Colonia <lb/>
+per passar ad Heidelbergh, et di là a Zurich per la continuatione <lb/>
+del suo viaggio. <lb/>
+Havendolo accompagnato fino a Leiden <lb/>
+meza giornata di qua lo lasciai entrato in barca tutto <lb/>
+contento di essersi pur un giorno messo in camino. Mi ha <lb/>
+detto, che si affretterà quanto più gli sarà possibile, et <lb/>
+procurerà la cautezza, et l’adrizzo necessario. Egli mi ha al <lb/>
+partir suo pregato di nuovo di assicurar la Serenità vostra, che <lb/>
+viene a lei con tanto devoto affetto di servirla, et di ho-<lb/>
+norar la condotta quanto qual altro, che sia stato impie-<lb/>
+gato ne’ servitii suoi; et havendo questo signore appreso <lb/>
+sotto il signor principe Mauritio la vigilanza spero, ch’ella <lb/>
+resterà servita. </p>
+<p>Non devo restar di dire alla Serenità vostra quello, che in sicorso <lb/>
+in diverse occasioni ho havuto a ragionar col signor Conte <lb/>
+et col signor di Rocalaura, et è che tra le truppe si potrebbe <lb/>
+cavar cento, et anco doicento buoni huomini da metter a <lb/>
+cavallo; quando però havesse costì come montarli; <lb/>
+et se ben le compagnie si sminuissero questi farebbono <lb/>
+ottimo servitio al resto: perché sarebbono scielte le <lb/>
+persone più capaci, et più habili, et particolarmente tra Francesi <lb/>
+et fra li Alemani. </p>
+<p>Si sta con grandissimo desiderio attendendo novelle, che le navi <lb/>
+siano passate il distretto; et uno di questi giorni che
+<pb n="034v" facs="04_034v" rend="0"/>
+visitai sua Eccellenza mostrò di aspettar tanto questo quanto la sicurtà <lb/>
+del passaggio del signor Conte per terra. </p>
+<p>Non è ancor la nave, che deve levar le genti del capitan <lb/>
+Mettoni, né sarà fin martedì venturo. Il patrone di <lb/>
+essa s’iscusa colla necessità, che vi è di provederla affatto <lb/>
+di viveri, et di ogn’altra cosa, et che vi vuol tempo a <lb/>
+tutto. Essendo la nave in Amsterdam, partendo di là <lb/>
+martedì, non può esser nel Tessel, che giovedì, volondosi<ptr target="#tn1" n="1"/> <lb/>
+doi giorni ad arrivarvi perché camina colle maree, et <lb/>
+un altro giorno vi vuole per l’imbarco de’ soldati; <lb/>
+onde al conto che mi ha fatto il capitan Pach, ch’è quello, <lb/>
+che ’l signor Conte ha lasciato per sollecitar l’ispeditione <lb/>
+mi ha detto hieri, che ritornò d’Amsterdam per <lb/>
+pigliar le sue robbe, che non potrà uscir più tosto <lb/>
+di venerdì, o sabbato venturo in mare, quando <lb/>
+però il tempo resti buono, com’è al presente per <lb/>
+la sortita. Tutte queste considerationi mi erano <lb/>
+anco state fatte dallo stesso capitan Mutoni, che <lb/>
+doi giorni prima era venuto a me perché havendo speso quanto haveva havuto<ptr target="#tn2" n="2"/> dal <lb/>
+signor Conte gli<ptr target="#tn3" n="3"/> dassi denari per intartener la compagnia, sodisfar <lb/>
+li alloggiamenti de’ soldati, che sono in terra <lb/>
+nell’isola del Tessel fino all’imbarco<ptr target="#tn4" n="4"/> et provederli delle cose necessarie <lb/>
+come camise, et altro, essendo già consumato il <lb/>
+tutto per la lunghezza del tempo, et far altre
+<pb n="035r" facs="04_035r" rend="0"/>
+provisioni per il viaggio, dovendo farlo solo, né mi è <lb/>
+stato possibile contentarlo con meno di millecinquecento <lb/>
+fiorini, che ne voleva più<ptr target="#tn5" n="5"/>. Me ne <lb/>
+ha fatto il ricever, che la Serenità vostra haverà colle presenti <lb/>
+et io ne ho tenuta un’altra copia presso di me <lb/>
+et ha scritto anco al signor Conte, et al colonel Rocalaura <lb/>
+lettere particolari che mando al signor Bortolamio Cavazza <lb/>
+perché le dia ad esso signor Conte. Mi disse, che per una <lb/>
+volta si sarebbe contentato anco di meno; ma <lb/>
+che sarebbe stato necessitato tornar a farmi <lb/>
+nuova instanza, il che sarebbe riuscito con perdita <lb/>
+di tempo volendo quattro giorni per il meno tra <lb/>
+l’andar, et il ritorno, et che in questo mentre <lb/>
+non sapeva manco quello potesse promettersi di qualcheduni della <lb/>
+sua compagnia, che non se ne fossero in sua absenza andati <lb/>
+essendo massime in terra, et in luoco aperto spetialmente in <lb/>
+questi tempi, che si sentono tante levate. Io ancorché <lb/>
+mosso da tutte queste considerationi ho nondimeno condesceso <lb/>
+sforzatamente al sodisfarlo, et è partito la notte passata <lb/>
+per esser questa mattina in Amsterdam per ricever ivi <lb/>
+il resto del denaro, havendogli io dati qui doicento <lb/>
+fiorini. Con esso è andato il medesimo capitan Pach al quale <lb/>
+ho raccomandata l’ispeditione di questo affare, et come è huomo <lb/>
+diligente; così mi prometto, che non mancarà. </p>
+<pb n="035v" facs="04_035v" rend="0"/>
+<p>Questo Pach venirà egli ancora col medesimo vassello, et vostra Serenità <lb/>
+quando havesse intentione di valersi di qualcheduna<ptr target="#tn6" n="6"/> delle <lb/>
+navi, che sono partite colle genti per armarle ad uso di <lb/>
+guerra da quest’huomo potrà haver ogni più essata<ptr target="#tn7" n="7"/> <lb/>
+informatione perché egli conosce la qualità de’ vasselli <lb/>
+et quali possino riuscir per servitio della Serenità vostra <lb/>
+et se<ptr target="#tn8" n="8"/> stimerà a proposito potrà valersi anco della <lb/>
+persona di lui, havendo praticato per molti anni il <lb/>
+mare, et dirò anco la pirateria, di che ne hebbe poi <lb/>
+da questi signori il suo perdono; ma di lui potrà ella <lb/>
+haver ogni più real informatione dal signor conte Gio. Ernesto. <lb/>
+Fra le navi sodette, che hanno sopra le genti, me ne ha <lb/>
+nominate sei, che ho messe in nota nell’aggiuno <lb/>
+foglio, et di questo si potrebbe far la scielta di <lb/>
+quante ella volesse. </p>
+<p>Ho ricevute col solito della mia riverenza le lettere di <lb/>
+vostra Serenità di negotio, et d’avvisi scritte a’ 3 dello stante. <lb/>
+Già le militie, come ella haverà inteso partirono, <lb/>
+essendosi restati li soli soldati di quel Capitano, che ho <lb/>
+detto di sopra. La necessità mi ha constretto a dar quel <lb/>
+di più, che le ho riverentemente significato, che tutto però <lb/>
+va a conto di paga, et spero che vostra Serenità lo riceverà in <lb/>
+bene. </p>
+<p>Nel particolar del Wassonhoven non ho d’aspettar altro, già
+<pb n="036r" facs="04_036r" rend="0"/>
+ch’egli partì se non quello, che si compiacerà, ch’io dichi <lb/>
+a questi mercanti, che mi fecero instanza per haver denari; <lb/>
+et in tanto supplirò col signor Magno con l’ufficio, che mi <lb/>
+commette. </p>
+<p>Partì il capitan Schiaveliski domenica notte. Ha presa la stradda <lb/>
+di Amsterdam per informarsi del prezzo de’ vasselli, et <lb/>
+d’altre cose necessarie; a fine di riferirlo al signor conte di <lb/>
+Levenstein. Temo, che detta levata non sia per andar <lb/>
+buon pezzo prima che sia fatta, et avanzando la <lb/>
+stagione, tardi habbi ella ad arrivar alla Serenità vostra perché <lb/>
+le calme del Mediteraneo sono ordinarie nelli mesi venturi <lb/>
+di maggio, et giugno, che innanti certo della fine <lb/>
+di aprile per non dir più non può esser ad ordine. Toccarà <lb/>
+alla prudenza della Serenità vostra l’havervi la necessaria <lb/>
+consideratione, et io non mancarò di essequir li suoi com-<lb/>
+mandamenti; nel farli saper in qualche maniera <lb/>
+che più non ha ad esser la levata, che di tremilla <lb/>
+fanti, li quali non mancarò di veder, che siano effettivi <lb/>
+ma ben starò attendendo con desiderio di saper, come <lb/>
+mi doverò governare se doverò andar lontano di <lb/>
+qua a<ptr target="#tn9" n="9"/> veder l’imbarco, come scrissi in mie <lb/>
+lettere de’ 18 del passato, et nelle altre de’ xi<ptr target="#tn10" n="10"/> dello <lb/>
+stante. </p>
+<p>De’ soggetti proposti dal Pasini egli mi scrive a’ 14 che
+<pb n="036v" facs="04_036v" rend="0"/>
+l’alfier Michiel Pagani doveva partir fra quattro giorni, <lb/>
+et che la dilatione era nata da qualche occupatione. </p>
+<p>Quanto al Studler dimanda quattrocento ducati per far <lb/>
+il viaggio; et da quanto mi ha scritto esso Pasini ch’è <lb/>
+stato esso Studler<ptr target="#tn11" n="11"/> per qualche giorno carcerato, credo che la necessità, <lb/>
+et il mancamento de’ quattrini lo condani, et lo astringa <lb/>
+all’instanza; ma esso Pasini gli ha risposto, che se ha <lb/>
+volontà di passar al servitio di vostra Serenità lo facci: perché non si può <lb/>
+far più. </p>
+<p>L’alfier Lobello anc’egli vuol esser sicuro dell’haver li <lb/>
+vintidoi ducati il mese; le speranze in queste levate <lb/>
+lo mette in humore di avanzar il suo interesse vicino <lb/>
+se vostra Serenità vuole che si arrivi a quel segno si essequirà. </p>
+<p>Come anco col capitano Giulio Cesare Pozzo, che non vuol manco <lb/>
+di sessante ducati per mese. Il Pasini mi scrive, che non <lb/>
+li vorrebbe dar più delli cinquanta, quando però <lb/>
+la Serenità vostra non lo acconsentisse. </p>
+<p>Non si dice hora altro del negotio de’ Grisoni. Parlandosene <lb/>
+mi valerò del concetto, che mi viene somministrato <lb/>
+dalle Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Dall’Haya a’ 18 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="040r" facs="04_040r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="040v" facs="04_040v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>[Pri]ma<ptr target="#tn12" n="12"/> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="012">
+<!--
+<p n="040vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 marzo 1617 ricevute 5<ptr target="#tn13" n="13"/> aprile </p>
+<p>Haia. Prima </p>
+<p>L. C<ptr target="#tn14" n="14"/>. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="013" corresp="012" source="37r-v, 39r-v" >
+<div type="main" facs="main text of attachment I" n="013" corresp="012" >
+<!--<p>Allegato I al n. 12 (cc. 37r-v, 39r-v)</p>-->
+<pb n="037r" facs="04_037r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Navi che possino servire per armarsi ad uso di guerra </p>
+<table>
+<row role="label">
+<cell></cell>
+<cell><p>Pieterssen Block d’Enchuysen di lasti</p></cell>
+<cell><p>5250 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cornelis Janssen Leyen d’Enchuysen di lasti</p></cell>
+<cell><p>8700 </p></cell>
+</row>
+<row>
+<cell><p>Nave del patrone</p></cell>
+<cell><p>Thomas Dowensen van Staveren di lasti</p></cell>
+<cell><p>7875 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Rochus Pieterssen Doesen di Schiedam di lasti</p></cell>
+<cell><p>6000 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Willem Pieterssen de Rotterdam di lasti</p></cell>
+<cell><p>5400 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Claes Jorissen de Rotterda di lasti</p></cell>
+<cell><p>5400 </p></cell>
+</row>
+</table>
+<pb n="037v" facs="04_037v" rend="0"/>
+<p><metamark facs="Blank page"/>
+<pb n="039r" facs="04_039r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="039v" facs="04_039v" rend="270"/>
+<p>n° 2 </p>
+<p>Navi, che possono servir per <lb/>
+armarsi ad uso di guerra </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="014" corresp="012" source="38r-v" >
+<div type="main" facs="main text of attachment II" n="014" corresp="012" >
+<!--<p>Allegato II al n. 12 (cc. 38r-v)</p>-->
+<pb n="038r" facs="04_038r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Je soubsigné capitaine Pierre de Metony, soubs le regiment <lb/>
+du seigneur le comte Jean Erneste de Nassau et General au <lb/>
+voyage de Venize, et le service de la serenissime republique <lb/>
+d’jcelle Signeurie confesse par cestes avoir receu du seigneur <lb/>
+Christoffero Suriano, resident pour la susdicte serenissime <lb/>
+Republique<ptr target="#tn15" n="15"/> auprés de messeigneurs le Estats Generaulx du Pays Bas <lb/>
+la somme de mille cincq cents florins de vingt pats <lb/>
+la piece, et ce pour le payement, fournissement <lb/>
+et embarquement de ma compagnie vers Venise susdict. <lb/>
+En tesmoing j’ay soubsigné la presente avec ques <lb/>
+promesse de faire aggréer le dict payement à mondict <lb/>
+seigneur le general, comte Jean Erneste de Nassau, <lb/>
+pour estre la dicte somme rabattue sur mes gaiges. </p>
+<p>Faict à la Haye ce 16<hi rend="superscript">e</hi> de mars 1617 </p>
+<p>Motoni seigneur capitaine </p>
+<p>en presense de moy comme tesmoing </p>
+<p>Charles Sylvius </p>
+<p>Frans Bolce
+<pb n="038v" facs="04_038v" rend="270"/>
+n° 1 </p>
+<p>Ricever di 1500 fiorini del capitan <lb/>
+Mutoni </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-si" corrected above -"ne", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "havendo … havuto" added above the line with an insertion mark; followed by "gli" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "signor Conte gli" added in the outer margin.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "fino all’imbarco" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "né mi è stato p-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" corrected above -"e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "se" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "far l’" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "esso Studler" added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> There is a hole in the page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added in the internal margin.</p></note>
+</div>
+</body>
+</text>
+</TEI>

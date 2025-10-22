@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.015 date 1621-04-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">015</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 65r-v, 70r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">65r-v, 70r-v, 66r-69v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letter 26 March, attached he sends a list of prices for the goods for the twelve ships. With the next post he will send copies of three accounts concluded with the Admiralty of Amsterdam. Dardani has the accounts as well, but he is worried to loose them due to the war and insecurity of the roads. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-04-14">14 aprile 1621</date>
+            <num>022, 023</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>14 aprile 1621, L’Aia (cc. 65r-v, 70r-v)</p>-->
+<pb n="065r" facs="10_065r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 290 sola </p>
+<p>Serenissimo Principe </p>
+<p>havevo già spedite le lettere mie per Amsterdam quando mi <lb/>
+capitò il messaggiero con quelle della Serenità vostra de’ 26 del passa-<lb/>
+[to]<ptr target="#tn1" n="1"/>. Oltre la copia delle lettere de’ 26 febraro delli eccellentissimi <lb/>
+ambasciatori in Francia toccante la visita tralasciata con gl’ambasciatori <lb/>
+di questi signori a quella corte (di che anco ultimamente ne fui <lb/>
+avvertito dalle medesime Eccellenze (et opererò in conformità <lb/>
+di quanto dalla Serenità vostra mi viene commandato) trovo <lb/>
+aggiunti doi fogli in uno la quantità, et qualità della <lb/>
+robba, che è stata consignata a nave per nave <lb/>
+delle dodici, che sono state al suo servitio fatte armar <lb/>
+da me; et nell’altro la specificatione di alcuni prezzi; <lb/>
+ma perché con questa non posso assolutamente tirar il <lb/>
+debito di cadauna nave sendovi et sevi, et tavole, <lb/>
+et molte altre cose, che non ne ho il prezzo, come <lb/>
+potrà la prudenza della Serenità vostra intenderlo da chi <lb/>
+haverà carico di riveder la copia che mando qui <lb/>
+aggiunta dall’uno, et l’altro foglio, et le ne farà <lb/>
+la relatione; per questo ho stimato a proposito <lb/>
+mandar per il messaggiero d’Anversa le presenti, aven-<lb/>
+turandole in questa congiontura; con speranza nondimeno <lb/>
+che<ptr target="#tn2" n="2"/> capitino sicuramente a fine di avanzar una settimana
+<pb n="065v" facs="10_065v" rend="0"/>
+di tempo. La supplico commandar, che siano immediate posti <lb/>
+fuori li prezzi a partita per partita perch’io possi precisamente <lb/>
+dimandar da cadauna nave sodisfattione del debito, in che <lb/>
+non tralascierò stadio, né diligenza per ricuperar quanto mi <lb/>
+sarà possibile. In fondo della lista delle robbe date a <lb/>
+navi vi sono poste alcune munitioni date al colonello <lb/>
+delle dodici navi, che non dubito voglia dir al colonello <lb/>
+Amstenraedt. Non so se sia la Serenità vostra obligata di dargli <lb/>
+l’amunitione. Nelle capitulationi fatte con lui non lo veggo <lb/>
+espresso tuttavia par che sia ordinario, che ’l principe dia <lb/>
+l’amunitione: in questo la Serenità vostra mi dirà quello, ch’è <lb/>
+di sua intentione. </p>
+<p>Alla partita del Colonello ne seguita un’altra di certo cattrame, <lb/>
+et pegola dura consignata al capitano Egbert Voteis <lb/>
+questo nome non è d’alcuno delle dodici navi. Né viene <lb/>
+espresso per qual nave: di modo che non saprei a chi lo <lb/>
+dovessi addimandare anco di ciò ne attenderò la dilucidatione. </p>
+<p>Col prossimo ordinario che spedirò per la via di Colonia invierò <lb/>
+alla Serenità vostra la copia delli<ptr target="#tn3" n="3"/> tre conti stabiliti con le tre Amiralità man-<lb/>
+datimi da Anversa dal signor Dardani, ove è arrivato <lb/>
+con estrema pena (et con pericolo grande di perdersi)
+<pb n="070r" facs="10_070r" rend="0"/>
+sopra l’acqua; et sbarcato a Sevembergh per terra ha havuti <lb/>
+rancontri fastidiosi tanto per la malagevolezza del camino, <lb/>
+che per la cavallaria, che corre la campagna. Et per quello <lb/>
+m’ha riferto il messaggiero le stradde sono pochissimo sicure, sendo <lb/>
+stati svaleggiati molti passaggieri, altri forzati a dar <lb/>
+manze. Et tra Malines, et Anversa fu svaleggiato il <lb/>
+messaggiero, che veniva per barca di Brusseles. Il signor Dar-<lb/>
+dani, vedendo non haver qui maggior occasione di prestar <lb/>
+servitio a vostra Serenità si partì in fretta per non restar impegnato <lb/>
+et così consumar qui quel tempo, che haverebbe potuto <lb/>
+meglio impiegar costì nell’obedir a qua[lu]ne<ptr target="#tn4" n="4"/> com-<lb/>
+mandamento di lei; ma dubito, che haverà difficoltà <lb/>
+a tirarsi con sicurezza fuori del Paese. </p>
+<p>Oltre quanto ho scritto con le mie doi lettere dei 12 spedite <lb/>
+per via di Colonia non ho d’aggiunger per hora novità di momento. Gratie etc. </p>
+<p>Dall’Haya 14 aprile 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="070v" facs="10_070v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 290 sola replicata </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="070vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 aprile 1621 ricevute 5 maggio n° 290 </p>
+<p>Haya. Secretario Suriano. Sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="023" corresp="022" source="66r-69v" >
+<div type="main" facs="main text of attachment I" n="023" corresp="022" >
+<!--<p>Allegato I al n. 22 (cc. 66r-69v)</p>-->
+<pb n="066r" facs="10_066r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Surian de n° 290 de’ 14 aprile 1621 </p>
+<p>Estratto cavato cavato dal libro del sopramasser dell’arsenal di Curzola <lb/>
+delle robbe, c’hanno ricevuto le dodici navi olandesi dal detto <lb/>
+sopramasser como qui sotto </p>
+<p>Al capitano del Berton nominato L’angelo volante le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>L’Angelo volante</p></cell>
+<cell><p>Un maier da galia grossa de passa n° 5 1/2</p></cell>
+<cell><p>n° 1</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stoppa bianca manocchi n° 3 pesorono</p></cell>
+<cell><p>lire 147</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Catrame ludri n° 4 pesorono</p></cell>
+<cell><p>lire 560</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Catrame barile n° 1 peso</p></cell>
+<cell><p>lire 661</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 80</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna casselle n° 3 pesorono</p></cell>
+<cell><p>lire 80</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitan del Berton nominato San Francesco le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>San Francesco</p></cell>
+<cell><p>Stoppa negra manocchi n° 6 pesorono</p></cell>
+<cell><p>lire 295</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stoppa bianca manocchi n° 3 pesorono</p></cell>
+<cell><p>lire 168</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Catrame ludri n° 2 pesorono</p></cell>
+<cell><p>lire 400</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Catrame barile uno pesò</p></cell>
+<cell><p>lire 261</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>lire 661</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n°<ptr target="#tn5" n="5"/> 1500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n°<ptr target="#tn6" n="6"/> 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Sevo</p></cell>
+<cell><p>lire 25</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 70</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto</p></cell>
+<cell><p>lire 23</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 3</p></cell>
+<cell><p>lire 512</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<table>
+<row role="label">
+<cell><p>Al capitano del Berton nominato Specchio le sottoscritte robbe </p></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Specchio</p></cell>
+<cell><p>Stoppa negra manocchi n° 3 pesorono</p></cell>
+<cell><p>lire 69</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stoppa bianca manocchi n° 1 pesò</p></cell>
+<cell><p>lire 33</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola dura in tocco<ptr target="#tn7" n="7"/></p></cell>
+<cell><p>lire 200</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n° 1500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 60</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassele n° 3 pezorono</p></cell>
+<cell><p>lire 319</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<pb n="066v" facs="10_066v" rend="0"/>
+<p>Al capitano del Berton nominato Tre re le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Tre re</p></cell>
+<cell><p>Stoppa bianca manocchi n° 1 pesò</p></cell>
+<cell><p>lire 49</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Catrame barile n° 1 pesò</p></cell>
+<cell><p>lire 265</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da terno</p></cell>
+<cell><p>n° 150</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da castagnolo</p></cell>
+<cell><p>n° 25</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Tavole n° 30</p></cell>
+<cell><p>n° 30<ptr target="#tn8" n="8"/></p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Taglie di paranchetti n° 12</p></cell>
+<cell><p>n° 12</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 30</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Al scrivan del detto Berton manocchi n°3</p></cell>
+<cell><p>lire 74</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detta manocchi n° 3</p></cell>
+<cell><p>lire 113</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Al sopramasser cercchi bine</p></cell>
+<cell><p>n° 10</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Vincchi bozolai</p></cell>
+<cell><p>n° 80</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pavero mazzi</p></cell>
+<cell><p>n° 20</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stopazzo</p></cell>
+<cell><p>lire 50</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Coffe</p></cell>
+<cell><p>n° 36</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Morali</p></cell>
+<cell><p>n° 20</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato San Marco le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>San Marco</p></cell>
+<cell><p>Stoppa bianca m[a]nocchi<ptr target="#tn9" n="9"/> n° 4 pesorono</p></cell>
+<cell><p>lire 195</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna casette n° 3 pesorono</p></cell>
+<cell><p>lire 440</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n° 1500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1600</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 40</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto</p></cell>
+<cell><p>lire 30</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>All’amirante tavole</p></cell>
+<cell><p>n° 43</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Sevo</p></cell>
+<cell><p>lire 40</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 80</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato Emaus le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Emaus</p></cell>
+<cell><p>Stoppa bianca m[a]nocchi<ptr target="#tn10" n="10"/> n° 4 pesorono</p></cell>
+<cell><p>lire 195</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stoppa negra manocchi n° 3 pesorono</p></cell>
+<cell><p>lire 111</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n°<ptr target="#tn11" n="11"/> 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n°<ptr target="#tn12" n="12"/> 1200</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 3 pesorono</p></cell>
+<cell><p>lire 438</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 60</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<pb n="067r" facs="10_067r" rend="0"/>
+<p>Al capitano del Berton nominato Santa Giustina le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Santa Giustina</p></cell>
+<cell><p>Agui da 30</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stoppa negra manochi n° 6 pesorono</p></cell>
+<cell><p>lire 222</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola cotta barile n° 1 pesò</p></cell>
+<cell><p>lire 302</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame ludri n° 3 pesorono</p></cell>
+<cell><p>lire 350</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto barili n° 2 pesorono</p></cell>
+<cell><p>lire 1322</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Sevo</p></cell>
+<cell><p>lire 30</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 60</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 3 pesorono</p></cell>
+<cell><p>lire 506</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato Leon d’oro le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Lion d’oro</p></cell>
+<cell><p>Stoppa negra manocchi n° 4 pesorono</p></cell>
+<cell><p>lire 180</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola cota barile 1/2 pesò</p></cell>
+<cell><p>lire 154</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame ludri n° 3 pesorono</p></cell>
+<cell><p>lire 356</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame barili n°3 pesorono</p></cell>
+<cell><p>lire 969</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Agui da 30</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Sevo</p></cell>
+<cell><p>lire 25</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto</p></cell>
+<cell><p>lire 20</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 70</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 3 pesorono</p></cell>
+<cell><p>lire 497</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato Re Davit le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Re Davit</p></cell>
+<cell><p>Stoppa bianca manocchi n° 2 pesorono</p></cell>
+<cell><p>lire 79</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame barili n° 2 pesorono</p></cell>
+<cell><p>lire 388</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola cotta barile n° 1 1/2 pesorono</p></cell>
+<cell><p>lire 270</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da canal</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 25</p></cell>
+<cell><p>n° 1000</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 30</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato Vacca macchiata le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>Vacca macchiata</p></cell>
+<cell><p>Cattrame barile uno pesò</p></cell>
+<cell><p>lire 181</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto barili n° 3 pesorono</p></cell>
+<cell><p>lire 801</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi da 30</p></cell>
+<cell><p>n° 500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da canal</p></cell>
+<cell><p>n° 500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere barile uno pesò</p></cell>
+<cell><p>lire 136</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassetta una pesò</p></cell>
+<cell><p>lire 172</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola detta cassetta una pesò</p></cell>
+<cell><p>lire 166</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<pb n="067v" facs="10_067v" rend="0"/>
+<p>Al capitano del Berton nominato San Christofforo le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>San Christofforo</p></cell>
+<cell><p>Catrame ludri n° 3 pesorono</p></cell>
+<cell><p>lire 415</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola dura in tocco</p></cell>
+<cell><p>lire 400</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame barili n° 4 pesorono</p></cell>
+<cell><p>lire 586</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Agui da 30</p></cell>
+<cell><p>n° 500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 2 pesorono</p></cell>
+<cell><p>lire 262</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano del Berton nominato La carità le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell><p>La carità</p></cell>
+<cell><p>Agui da 30</p></cell>
+<cell><p>n° 500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detti da 25</p></cell>
+<cell><p>n° 500</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>lire 50</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>detto barili n° 1 pesò<ptr target="#tn13" n="13"/></p></cell>
+<cell><p>lire 129</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pegola spagna cassette n° 2 pesorono</p></cell>
+<cell><p>lire 331</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al colonello delli dodici bertoni olandesi fu date le <lb/>
+sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell></cell>
+<cell><p>Polvere barili n° 5 pesorono</p></cell>
+<cell><p>lire 591</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Piombo verghe<ptr target="#tn14" n="14"/> otto pesorono</p></cell>
+<cell><p>lire 376</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Corda cotta</p></cell>
+<cell><p>lire 427</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<p>Al capitano Egbert Voteis delli 12 olandesi le sottoscritte robbe </p>
+<table>
+<row role="label">
+<cell></cell>
+<cell><p>Pegola dura in tocchi</p></cell>
+<cell><p>lire 163</p></cell>
+<cell><p>lire </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Cattrame barile un pesò</p></cell>
+<cell><p>lire 195</p></cell>
+<cell><p>lire </p></cell>
+</row>
+</table>
+<pb n="068r" facs="10_068r" rend="0"/>
+<p>In lettere dall’Haya del secretario Surian de n° 290 de’ 14 aprile 1621 </p>
+<p>Si fa fede per l’ufficio dell’Arsenale come per gl’ultimi mercati fatti <lb/>
+da esso officio si sono pagate le sottoscritte robbe alli pretii <lb/>
+infrascritti per bisogno della casa, come dall’ultimo libro <lb/>
+de’ mercati segnato n° 8 si vede con la bonificatione del datio <lb/>
+per tutte esse robbe oltre li pretii sottoscritti et prima. </p>
+<table>
+<row role="label">
+<cell><p>Pegola tenera ducati vintiquattro de 12 il migliaro</p></cell>
+<cell><p>ducati 24 de 12</p></cell>
+<cell><p>il migliaro </p></cell>
+</row>
+<row>
+<cell><p>Pegola dura ducati tredici il migliaro</p></cell>
+<cell><p>ducati 13 de</p></cell>
+<cell><p>il migliaro </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Chiodi da 14 lire quattro soldi 10</p></cell>
+<cell><p>lire 4 soldi 10 </p></cell>
+<cell><p>il migliaro <lb/>
+di n° et non di <lb/>
+peso </p></cell>
+</row>
+<row>
+<cell><p>da 25 lire 6</p></cell>
+<cell><p>lire 6 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da copano lire 6 soldi 4</p></cell>
+<cell><p>lire 6 soldi 4 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da quaderno lire 9</p></cell>
+<cell><p>lire 9 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da 30 piccoli lire 9 soldi 15</p></cell>
+<cell><p>lire 9 soldi 15 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da 30 grandi lire dieci</p></cell>
+<cell><p>lire 10 soldi</p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da terno lire dieci</p></cell>
+<cell><p>lire 10 soldi</p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>mantovani grossi lire disnove</p></cell>
+<cell><p>lire 19 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da quaranta grandi</p></cell>
+<cell><p>lire 20 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da ottanta lire<ptr target="#tn15" n="15"/> trenta sette</p></cell>
+<cell><p>lire 37 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>da quaranta piccoli lire dosisette</p></cell>
+<cell><p>lire 17 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Stoparvoli<ptr target="#tn16" n="16"/> lire quaranta</p></cell>
+<cell><p>lire 40 soldi </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Stoppa fina da Bologna da caliar ducati vintinove</p></cell>
+<cell><p>ducati 29 de il migliaro </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Solfere raffinato ducati disisette<ptr target="#tn17" n="17"/></p></cell>
+<cell><p>ducati 17 de il migliaro </p></cell>
+<cell></cell>
+</row>
+</table>
+<p>et tutte le robbe soprascritte si sono pagate a moneta <lb/>
+corrente eccetto la stoppa che fu comprata l’anno <lb/>
+1619 che non vi era specificatione di valuta. </p>
+<p>Date dell’officio dell’Arsenal li 22 marzo 1621 </p>
+<p>Piombo a lire 50 il mier </p>
+<p>corda cotta ducati 40 il mier </p>
+<p>polvere da 6 ducati 16 il cento da 5 ducati et da 14 ducati 14 </p>
+<p>el maier de gali<ptr target="#tn18" n="18"/> grossa de passa n° 5 1/2 ducati 13 </p>
+<pb n="068v" facs="10_068v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="069r" facs="10_069r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="069v" facs="10_069v" rend="270"/>
+<p>Lista, et prezzi di robbe date <lb/>
+per le dodici navi </p>
+<p>nel n° 290 sola replicata </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "la copia delli" added above the line on "li" crossed out with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Fold in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "l."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "l."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Ink stain.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Ink stain.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Corrected above "l."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Corrected above "l."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-ron" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "trenta nove sette" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by a crossed-out letter.</p></note>
+</div>
+</body>
+</text>
+</TEI>

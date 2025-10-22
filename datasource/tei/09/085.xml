@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.085 date 1621-01-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">085</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 429r-431v, 436r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp522-533
+            </note>
+            <biblScope unit="page">429r-431v, 436r-v, 432r-v, 435r-v, 433r-v, 434r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Attaches a new copy of demands by Milander and proposes Venice discusses this directly with him. Two other documents in attachment which provides more information about status of ship rentals. Reports on a conversation with John Vere. He would be willingly levy troops for Venice but requests better terms, saying it is impossible to make a levy at 30 Venetian lire a head. Miotti, a Venetian, has visited Suriano. He had raised troops for Maurice, is willing to raise a company of 200 men for Venice. Dardani has finished the North Holland accounts. One text attached: a copy of excerpts of two letters written by captain Storm and Calandrini</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-01-19">19 gennaio 1621</date>
+            <num>131, 132, 133</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="131">
+<div type="main" facs="main text of letter" n="131">
+<!--<p>19 gennaio 1621, L’Aia (cc. 429r-431v, 436r-v)</p>-->
+<pb n="429r" facs="09_429r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 266 comincia 265 </p>
+<p>Serenissimo Principe </p>
+<p>le lettere de’ 31 del passato ricevute, com’ho scritto riverentemente <lb/>
+nelle prime, mi portano quelle della Serenità vostra dirette al signor <lb/>
+principe d’Oranges col commandamento di presentargliele, et <lb/>
+di accompagnarle con ufficio conforme alla copia, che <lb/>
+me ne mandai toccante la risposta in raccomandatione della <lb/>
+persona di monsignor Milander. Farò l’ufficio, et ne darò <lb/>
+poi riverente parte alla Serenità vostra. </p>
+<p>In proposito del medesimo signor Milander invio anco con queste nova <lb/>
+copia delle considerationi fattemi dal suo fratello toccanti <lb/>
+la levata della quale si trovava in trattatione, et sarà <lb/>
+colla replicata delle mie lettere d’hoggi otto n° 263 <lb/>
+fin 264. Et certo credo, che ’l vantaggio di vostra Serenità sarà <lb/>
+il meglio trattar de là che altrimenti ella conosce il soggetto, <lb/>
+ha isperienza del suo valore, parmi che in sé habbi <lb/>
+parte degne d’honorato soldato, et che miri effettivamente <lb/>
+a servir la Serenità vostra con più fine dell’honore, che dell’<lb/>
+utile, et posso ben assicurar di certo vostra Serenità che ’l fratello <lb/>
+li ha ultimamente fatta una rimessa di mille cinquecento <lb/>
+fiorini, o poco meno per sostentarsi costì. Forse questo <lb/>
+non è successo a qualche altri, che di là hanno rimesso <lb/>
+a loro vantaggio in questa piazza d’Amsterdam. </p>
+<p>Dalli<ptr target="#tn1" n="1"/> doi aggiunti capitoli di lettere del capitano Storm, et
+<pb n="429v" facs="09_429v" rend="0"/>
+del signor Filippo Calandrini intenderà la Serenità vostra lo stato in che <lb/>
+stiamo per noli de’ vasselli, ch’è altissimo: tuttavia può <lb/>
+esser anco, che cessata la congiontura delle speditioni<ptr target="#tn2" n="2"/> <lb/>
+per Italia di formenti, et altre mercantie si possi cavar <lb/>
+qualche vantaggio. Il raccordo che mi dà esso Calandrini<ptr target="#tn3" n="3"/> di haver <lb/>
+artiglierie dalle Amiralità è buono per mandar li vasselli <lb/>
+armati a sicurezza contra li pirati, et forte <lb/>
+per<ptr target="#tn4" n="4"/> resister a Spagnuoli, ma dubito dell’effeto <lb/>
+per l’intrico de’ conti con queste Amiralità. Vostra Serenità <lb/>
+farà riflesso sopra questo colla sua somma prudenza. </p>
+<p>Con tutto che fino a hieri quindeci partissero le lettere per <lb/>
+Grunighen avviso al signor colonello Amstenraedt di <lb/>
+venirsene qua, et qualche quattro o cinque giorni <lb/>
+appresso sia partito il suo cognato a quella volta, <lb/>
+non lo veggo però a comparire, et pur vorrei poter <lb/>
+sapere quello possi promettermi di lui, o se doverò <lb/>
+voltar altrove il pensiero per la levata, che vostra Serenità <lb/>
+desidera. Monsignor Grenü governator d’Isendich <lb/>
+et luogotenente general dell’artiglieria mi ha fatto con una <lb/>
+lettera apertura di desiderar di servir la serenissima <lb/>
+Republica. Egli si trova qui nell’Haya, et questa sera <lb/>
+havendo havuta la lettera non ho havuta opportunità
+<pb n="430r" facs="09_430r" rend="0"/>
+di vederlo, procurerò di abboccarmi seco, et sentirò ciò <lb/>
+che mi proponerà per significar poi alla Serenità vostra qual <lb/>
+tanto, c’haverò cavato di questo soggetto. </p>
+<p>Il signor luogotenente colonello Gio. Ver stipendiato di vostra Serenità fu <lb/>
+uno di questi giorni a trovarmi, et entrando in discorso <lb/>
+venne a cader proposito del bisogno, che potesse <lb/>
+haver la Serenità vostra di genti nelle presenti congionture; <lb/>
+et mi disse haver havuto avviso di costì, ch’ella <lb/>
+trattava con qualcheduno di quei capitani holandesi; et <lb/>
+ch’egli ancora intraprenderebbe volontieri il servirla <lb/>
+con qualche numero di genti, quando si potesse<ptr target="#tn5" n="5"/> <lb/>
+a miglior conditione accordar dello stipendio alla <lb/>
+soldatesca perché per trenta lire venetiane per testa era <lb/>
+impossibile, che qualcheduno facesse la levata, che non <lb/>
+havesse pensiero coi passavolanti di far il suo profitto, <lb/>
+aggiungendomi, che se vostra Serenità farà ben osservare <lb/>
+in quelli, che al presente sono in servitio troverà assai <lb/>
+mancamento. Io se ben ho mostrato a lui non crederlo <lb/>
+non ho però voluto mancar di avvertirla di questo <lb/>
+tanto. </p>
+<p>A questo proposito mi occorre anco aggiungerle, che <lb/>
+un tal capitan Miotto suddito della Serenità vostra habitante
+<pb n="430v" facs="09_430v" rend="0"/>
+in Midelburgh in Zelanda li stati della qual Provincia<ptr target="#tn6" n="6"/> <lb/>
+ultimamente li fecero levar una compagnia di cento <lb/>
+fanti quando il signor principe Mauritio andò al campo, <lb/>
+et serviva di guarnigione all’Esclusa, stato a me <lb/>
+m’ha detto, che volentieri farebbe una compagnia <lb/>
+di doicento fanti, quando havesse tal aiuto da vostra Serenità <lb/>
+che potesse formarla, et condurla senza sua molta <lb/>
+perdita, o dispendio. Ha già l’armi per cento soldati <lb/>
+per il resto si provederebbe. In tanto che gli ho <lb/>
+promesso di scriverne a vostra Serenità se n’è passato in <lb/>
+Zelanda per veder che commodità di vassello poter <lb/>
+haver per imbarcar la detta compagnia, che spere-<lb/>
+rebbe di cavarla per la maggior parte di Fiandra, <lb/>
+et m’haverebbe o scritto, o sarebbe tornato a <lb/>
+rivedermi; questo è suddito di quella serenissima Republica, <lb/>
+sua Eccellenza, et li signori di Zelanda l’hanno stimato capace <lb/>
+di esser capitano, ha servito in Ongaria col padre per <lb/>
+soldato, et m’ha promesso di farmi veder le patenti <lb/>
+de’ suoi servitii, et di quelli d’esso suo padre, se <lb/>
+vostra Serenità troverà buono consolar la buona volontà di <lb/>
+questo suo suddito potrà avvertirmelo; et se questo <lb/>
+dovesse levar la detta compagnia colle conditioni prescrite
+<pb n="431r" facs="09_431r" rend="0"/>
+da vostra Serenità doverebbe spender assai del suo, pur quando <lb/>
+ella si compiacesse in caso di riforma d’essa compagnia <lb/>
+dargli il stipendio, che tirarebbe come Capitano d’essa <lb/>
+per cinque o sei anni, si contentarebbe far la levata, <lb/>
+che a mio giudicio nelle presenti congionture stimo non <lb/>
+si solverebbe con doi mille fiorini. </p>
+<p>Havendo il signor Dardani terminato con quelli di Notholandia <lb/>
+tutto quello, che d’una, et d’altra parte non poteva esser messo <lb/>
+in contesa; et di 52 mila fiorini, ch’essi pretendevano di dover <lb/>
+havere si è ridotto a liquido trenta milla fiorini in circa <lb/>
+et entrandosi nel contentioso, ch’era quello, che il signor Dar-<lb/>
+dani, et io li addimandavamo per esserne risarcita la <lb/>
+serenissima Republica per diverse munitioni, et apprestamenti, por-<lb/>
+tando essi il costume del Paese, né volendo cederci <lb/>
+in alcuna parte hanno ricercato alli signori Stati com-<lb/>
+missarii per accordar la differenza; valendosi di quella <lb/>
+scrittura, che a’ 9 aprile 1618 mandai alla Serenità vostra <lb/>
+et ella a me rimandò colla sua confirmatione a’ 4 <lb/>
+maggio del medesimo anno con la quale resta rimessa <lb/>
+nelle cose, che potessero venir in contesa tra queste <lb/>
+Amiralità; et me toccante l’equipaggio delli dodici <lb/>
+vasselli, et dipendenze da esso la decisione all’auttorità
+<pb n="431v" facs="09_431v" rend="0"/>
+delli medesimi signori Stati. Questi doveranno veder quello che <lb/>
+da noi per nome della Serenità vostra sarà preteso per procurar <lb/>
+di accordarci. Io farò ogni cosa possibile perché non <lb/>
+venghino ad assoluta decisione in quello, che s’incontrasse <lb/>
+dubio. Quello seguirà con questa servirà anco per <lb/>
+le altre Amiralità il scudo delle quali è l’uso, et costume <lb/>
+ordinario del Paese. Tanta prorogatione sin qui non <lb/>
+ha portato se non profitto al servitio di vostra Serenità poiché <lb/>
+la flemma ci ha fatte veder di quelle cose, che senz’<lb/>
+essa non sarebbono forse state così facile, o pronte ad <lb/>
+esser vedute coll’haver tempo dell’essaminarle. Gratie etc. </p>
+<p>Dall’Haya li 19 genaro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="436r" facs="09_436r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="436v" facs="09_436v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 266 comincia <lb/>
+265 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="131">
+<!--
+<p n="436vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 gennaro 1620<ptr target="#tn7" n="7"/> ricevute x febraro n° 266 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="132" corresp="266" source="432r-v, 435r-v" >
+<div type="main" facs="main text of attachment I" n="132" corresp="266" >
+<!--<p>Allegato I al n. 266 (cc. 432r-v, 435r-v)</p>-->
+<pb n="432r" facs="09_432r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Suriano 2<hi rend="superscript">de</hi> de n° 266 </p>
+<p>Copia di capitoli di doi lettere del capitan Storm una <lb/>
+de’ 12 l’altra de’ 14 genaro 1621 d’Amsterdam. </p>
+<p>Hieri scrissi l’altra mia, et le diedi sommariamente conto <lb/>
+intorno il negotio richiestomi, et questa sarà per aggiun-<lb/>
+gerle, che doppo tacitamente sono andato indagando l’opi-<lb/>
+nioni, et volontà di questi patroni de’ vasselli, et trovatili <lb/>
+difficoltosi in accettar simil partito, quando occorresse, et in <lb/>
+particolare per il transporto o nolo delli capi, cioè delle persone <lb/>
+per il prezzo come per avanti a causa delli gran riseghi<ptr target="#tn8" n="8"/> che <lb/>
+hora occorrono, quanto per la guerra<ptr target="#tn9" n="9"/>, che si crede con li Spagnuoli <lb/>
+come anco per li buoni noli, che hora corrono per Ancona, <lb/>
+Goro, et Venetia sendo anco hieri stato proferito ducatoni <lb/>
+17 genovesi per lastro per detti luoghi, di modo che io non <lb/>
+veggo apparenza che in tal caso sia per poter arrivare <lb/>
+alli prezzi passati di gran lunga quanto al nolo delle <lb/>
+persone, che per le spese di bocca con ogni poco augumento <lb/>
+non dubito haverà il suo intento. In tanto continuerò <lb/>
+nel ricercar secratamente senza, che altro che il signor Ca-<lb/>
+landrini possa scoprire il mio intento quello in questo <lb/>
+proposito sia per potersi fare. </p>
+<p>Con mia d’avantihieri a vostra Signoria avvisai quanto per allhora <lb/>
+mi occorse del negotio commessomi doppo m’è pervenuta
+<pb n="432v" facs="09_432v" rend="0"/>
+la gratissima sua de’ 12 di questo, et visto il dispiacere ne <lb/>
+prende dell’avvisatoli per avanti intorno l’istesso negotio <lb/>
+dispiacendomi sommamente esser egli caduto in così disavantag-<lb/>
+giosa congiontura, ch’io fin adesso non li posso dar altro <lb/>
+avviso a suo gusto però giovami sperare, che col successo <lb/>
+del tempo possa aspettare qualche variatione in suo favore. <lb/>
+In tanto non mancarò di esser vigilante per intender qualche <lb/>
+cosa di profitto, dovendosi prometter per l’obligo, che tengo <lb/>
+verso la serenissima Republica prometter quel tanto di me, che <lb/>
+da vero, reale, et obligato servitore aspettar si possa. <lb/>
+Per facilitar detto negotio sarebbe molto a proposito di <lb/>
+saper il tempo a poco appresso quando la levata di detta <lb/>
+gente sarebbe compita, et lesta per imbarcarsi perché di giorno <lb/>
+in giorno si variano l’occasioni per trattar simil negotio.
+<pb n="435r" facs="09_435r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="435v" facs="09_435v" rend="270"/>
+<p>n° 1 </p>
+<p>Capitoli di lettere di signor capitan <lb/>
+Storm </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 266 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="133" corresp="266" source="433r-v, 434r-v" >
+<div type="main" facs="main text of attachment II" n="133" corresp="266" >
+<!--<p>Allegato II al n. 266 (cc. 433r-v, 434r-v)</p>-->
+<pb n="433r" facs="09_433r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dall’Haya del secretario Suriano 2<hi rend="superscript">de</hi> de’ n° 266 </p>
+<p>Copia d’un capitolo di lettere del signor Filippo Calandrini de’ <lb/>
+14 genaro 1621 d’Amsterdam. </p>
+<p>Il preggio de’ noli che si paga a questa nave de’ formenti <lb/>
+li pare alto come effettivamente è per il disegno, che ha <lb/>
+convenendo calcolare a quella rata, che una nave di <lb/>
+lastri 150 che potrà levar da 250 huomini converria <lb/>
+pagar 7500 fiorini, che saria da 30 fiorini per huomo di <lb/>
+vantaggio di quello si fece altri anni. Il signor Storm mi <lb/>
+ha detto haverle scritto quello le pareva necessario: tuttavolta <lb/>
+si potrà pigliar ancor qualche altro ripiego in pigliar <lb/>
+navi non armate, et haver pezze dalle Amiralità, che <lb/>
+non lo doveranno rifiutare, et quando si venghi a trattar <lb/>
+sul saldo non si mancarà cercar ogni via, et modo possi-<lb/>
+bile a ottener il maggior vantaggio. </p>
+<pb n="433v" facs="09_433v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="434r" facs="09_434r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="434v" facs="09_434v" rend="270"/>
+<p>Capitolo di lettere del signor <lb/>
+Filippo Calandrini </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 266 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "esso Calandrini" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "rest" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "farlo" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "g-" corrected above "G-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

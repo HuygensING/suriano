@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.005 date 1622-03-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 35r-36v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">35r-36v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Georg Ludwig von Levenstein is sollecting arms to join the Duke of Brunswick. The king of Bohemia is in need of money but no-one is willing to lend money for the jewels of Elisabeth Stuart. He also sent a letter to dissuade James from trusting the emperor. A variety of rumours related to a potential marriage between Stuarts and Spanish Habsburg; general sense in the Dutch Republic is that James is being played by the Spanish. The States General are discussing whether Venice would accept electorship for Bavaria and enter into a league with Spain. Suriano reports that he has denied both scenario’s to Carleton. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-03-21">21 marzo 1622</date>
+            <num>010</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="010">
+<div type="main" facs="main text of letter" n="010">
+<!--<p>21 marzo 1622, L’Aia (cc. 35r-36v)</p>-->
+<pb n="035r" facs="11_035r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 378 comincia 377 </p>
+<p>Serenissimo Principe </p>
+<p>solecita il conte di Levenstein per haver qui armi per andar <lb/>
+quanto più presto appresso il duca di Bransvich, del quale <lb/>
+viene scritto; ma non si verifica, che si fosse batuto con il <lb/>
+baron di Anolt. </p>
+<p>Continua a scriver il medesimo Duca, che spera di esser armata<ptr target="#tn1" n="1"/> <lb/>
+per poco più della fine di questo mese; et il signor ambasciator <lb/>
+d’Inghilterra mi disse, che si teneva per fermo, che alla più <lb/>
+lunga sarebbe stato pronto per la metà del venturo <lb/>
+et che questo Re era risoluto di andar a trovarlo <lb/>
+et accompagnarsi seco subito, che fosse avvertito, che <lb/>
+havesse le genti insieme. </p>
+<p>Da altra parte ho saputo, che questa Maestà si trova in <lb/>
+gran pena per trovar denari, mentre non può incontrar <lb/>
+di haverne dai signori Stati; oppressi dal proprio bisogno: <lb/>
+et vorrebbe haver almeno centomilla raistaleri: per il <lb/>
+che va correndo hor qua hor là il maggiordomo <lb/>
+conte di Solms; né le Maestà loro <hi rend="decoded">hanno</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">saputo ancora trovar mercante, che voglia prestar danari sopra le <lb/>
+gioie della Regina, et la compassione di questo Principe è grandissimo. <lb/>
+</hi></p>
+<p>Spedì il Rès<ptr target="#tn3" n="3"/> avanti hieri lettere in Inghilterra. Per quanto <lb/>
+ho potuto cavare con fine di eccitar quella Maestà <lb/>
+all’effetto della risolutione già presa, et per procurar
+<pb n="035v" facs="11_035v" rend="0"/>
+di divertir l’animo di lei dal creder alli artificii, che <lb/>
+potrebbono esser coperti dalle propositioni et ufficii dell’<lb/>
+ambasciator dell’Imperatore. </p>
+<p>Qui corre voce nel<ptr target="#tn4" n="4"/> generale, che ’l matrimonio del principe <lb/>
+d’Inghilterra con la sorella di Spagna non sia più per seguire; et <lb/>
+come cosa che si vorrebbe, che così<ptr target="#tn5" n="5"/> fosse, viene anco desiderato <lb/>
+che tale riesca in effetto; et di più tutti questi giorni <lb/>
+corse anco voce, che ’l re stesso d’Inghilterra fosse per maritarsi <lb/>
+et l’ambasciator di Spagna essorti questo matrimonio <lb/>
+a fine di escluder dalle speranze della successione <lb/>
+a quel Regno li figlioli di<ptr target="#tn6" n="6"/> questo Principe, con altre<ptr target="#tn7" n="7"/> figlie<ptr target="#tn8" n="8"/> <lb/>
+che potesse haver quella Maestà; ma il suo ambasciatore si <lb/>
+burla di questo; et per l’altro si stringe ancor nelle spalle <lb/>
+et mostra non saper che dirne: ma molti qui concorrono <lb/>
+nell’opinione<ptr target="#tn9" n="9"/>, che Spagnuoli burlino il <lb/>
+re della Gran Bertagna; et che cerchino profitar col <lb/>
+negotio, valendosi del tempo per instupidire. </p>
+<p>Doi cose questi ultimi giorni sono passate per le bocche <lb/>
+di alcuni de’ più principali ministri, et di questo Re <lb/>
+ancora. Una che si fosse detto, che quella serenissima <lb/>
+Republica adherisca, et acconsentisse al desiderio del <lb/>
+signor duca di Baviera per l’elettorato, glossandosi a <lb/>
+questo, che poiché l’Imperatore voleva in ogni modo <lb/>
+privarne questo Principe, ch’ella haverebbe<ptr target="#tn10" n="10"/>
+<pb n="036r" facs="11_036r" rend="0"/>
+amato meglio, che fosse stato conferito in Baviera, che <lb/>
+in altri per esser Principe, che poteva far contrapeso al <lb/>
+re di Spagna. L’altra voce era, che Spagnuoli si promet-<lb/>
+tessero in questi tempi, che vostra Serenità era in stato di temer <lb/>
+delle cose sue di far lega con lei per obligarsela. Mi <lb/>
+ha dimandato il signor ambasciator d’Inghilterra se io di ciò haveva <lb/>
+notitia alcuna, dissi che non. Soggiunse egli, che <lb/>
+non si sapeva persuadere né l’uno, né l’altro, et che con il <lb/>
+Re haveva considerato esser questi veri artificii perché<ptr target="#tn11" n="11"/> <lb/>
+non si vedeva qual profitto ne potesse tirar la Serenità vostra <lb/>
+et massime sendosi sempre conosciuto la prudenza colla quale si era del continuo governata; et l’equità <lb/>
+con che haveva ognhora mostrato di desiderare <lb/>
+che niuno fosse spogliato del suo; et si sapeva <lb/>
+molto bene non potersi ella fidare dell’animo, et <lb/>
+dell’inventioni de’ Spagnuoli. Io comprobai al detto <lb/>
+signor Ambasciatore queste considerationi, come proprie, et degne <lb/>
+di lui; et egli mi aggiunse ch’il Re mostrava <lb/>
+restar sicurissimo dell’integrità, et sincerità della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 21 marzo 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="036v" facs="11_036v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 378 comincia 377<ptr target="#tn12" n="12"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="010">
+<!--
+<p n="036vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 marzo 1622 ricevute 6 april </p>
+<p>Haya. n° 378 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "hanno … grandissima" decoding of the encrypted text in the internal margin; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "Ge" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "nelli Spagnuoli, che" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "amata" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Seal and traces of seals in red wax."</p></note>
+</div>
+</body>
+</text>
+</TEI>

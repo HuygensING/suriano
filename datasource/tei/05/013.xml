@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.013 date 1617-10-30</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 72r-73v, 76r-77v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 67) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp27-35)
+            </note>
+            <biblScope unit="page">72r-73v, 76r-77v, 74r-75v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Suriano reports that Levenstein has set sail with the eleven ships. According to Suriano, his presence in Groningen has greatly helped to calm the creditors who were going to prevent the ships from leaving. He attaches a copy of the authentic document by the merchants Vandenberg which he had already included in the previous letter. He provides further information on possibility to levy more troops and a ship in Delftzijl with150 men which is almost ready to leave. He encloses the list of eleven ships with the names of masters and number of soliders and sailors, adding that upon leaving they were all in good health. One document attached to this letter: a list of eleven ships</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Groningen</settlement>
+            <date when="1617-10-30">30 ottobre 1617</date>
+            <num>023, 024</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="023">
+<div type="main" facs="main text of letter" n="023">
+<!--<p>30 ottobre 1617, Groningen (cc. 72r-73v, 76r-77v)</p>-->
+<pb n="072r" facs="05_072r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>finalmente quando ha piacciuto a Dio, et coll’aiuto di sua divina <lb/>
+Maestà il signor conte di Levenstein è uscito questa mattina <lb/>
+doi hore avanti il mezo giorno in mare con undeci <lb/>
+navi, nelle quali ha li tre milla, et più fanti levati <lb/>
+per servitio di vostra Serenità, et spero col buon vento, che si <lb/>
+è messo, che farà felicemente il viaggio. Il signor Conte haveva <lb/>
+un poco di febre, et credo nata più tosto da alteratione <lb/>
+d’animo, che da altro per le molte instanze, che <lb/>
+gli venivan fatte. Io havendo in questo punto intesa <lb/>
+la partenza l’ispedisco in Colonia per pedone espresso <lb/>
+il qual doverà arrivare sabbato, che sarà opportuna-<lb/>
+mente avanti il partir dell’ordinario per Augusta. <lb/>
+Posso ben dir sinceramente alla Serenità vostra che mi trovo <lb/>
+fuori di un gran pensiero, et travaglio d’animo <lb/>
+et certo il trattenermi in questa città ha giovato <lb/>
+grandemente alla ispeditione: perché li pretensori <lb/>
+de’ crediti havevano pensiero d’interdir la <lb/>
+partenza delle navi per esser assicurati di <lb/>
+quanto dovevano havere; ma havendo io fatto
+<pb n="072v" facs="05_072v" rend="0"/>
+loro constare, che il denaro, che io havevo accordato <lb/>
+al signor Conte era perché ognuno restasse sodisfatto,<ptr target="#tn1" n="1"/> <lb/>
+non solo han tralasciato di far altro tentativo in con-<lb/>
+trario; ma sono passati a Delfsil, et hanno eccitati <lb/>
+li marinari al partire. </p>
+<p>Scrissi sabbato passato a vostra Serenità, et le mandai copia au-<lb/>
+tentica di una scrittura, che mi<ptr target="#tn2" n="2"/> havevo fatta <lb/>
+fare dal Vandembergh mercante, che hebbe le <lb/>
+lettere di cambio a fine che vostra Serenità se havesse <lb/>
+accettate dette lettere non ne facesse il pagamento <lb/>
+se prima non le erano presentate altre mie d’avviso <lb/>
+perché era necessario, che io sapessi, che ognuno fosse <lb/>
+effettivamente, et non in parole sodisfatto dal detto <lb/>
+mercante. Per<ptr target="#tn3" n="3"/> abondare mando anco con queste <lb/>
+una copia, se ben non autentica, della medesima <lb/>
+scrittura. </p>
+<p>Qui si trova ritornato da Delfsil il signor conte Gio. Casimiro <lb/>
+fratello del Colonello, il quali dimani mattina partirà <lb/>
+a buon hora alla volta di Leverdem per parlar ad
+<pb n="073r" facs="05_073r" rend="0"/>
+un quartier mastro, che si è obligato condur 300 fanti <lb/>
+sotto al colonellato del fratello. Me lo ha accennato, <lb/>
+et io gli ho detto, che non era a proposito il mettersi <lb/>
+in spesa, senza sicurezza che la serenissima Republica havesse <lb/>
+[bi]sogno<ptr target="#tn4" n="4"/> di detta militia; et però l’astenersene <lb/>
+per hora sarebbe stato prudente consiglio. Mi ha <lb/>
+risposto, che già era la nave pronta ad Encusen <lb/>
+et che per un’altra compagnia era poca cosa; et io <lb/>
+gli ho replicato, che doveva guardar il signor Conte <lb/>
+quello, che faceva. Né egli mi ha risposo altro. </p>
+<p>L’altra nave, ch’è restata a Delfsil ha già sopra <lb/>
+cento cinquanta huomini in circa, et presto sarà <lb/>
+ad ordine per partire, né io m’ingerirò qui <lb/>
+dentro in maniera alcuna. Seguiteranno anco <lb/>
+il signor Conte li marinari, che già le scrissi, che levava, <lb/>
+et saranno da doicento in circa ripartiti sopra dette <lb/>
+doi navi. </p>
+<p>Io con queste mando alla Serenità vostra il nome delli vasselli, <lb/>
+il nome, et cognome de’ patroni di essi, il numero
+<pb n="073v" facs="05_073v" rend="0"/>
+in circa della soldatesca, ch’è in essa, et dei marinari, ch’è <lb/>
+quanto vostra Serenità ha mostrato di desiderare, et vorrei <lb/>
+volontieri haver saputo, o potuto usar maggior diligenza <lb/>
+che l’haverei fatto volontieri; ma spero, che la Serenità vostra <lb/>
+non sentirà alcun travaglio per dette genti quanto <lb/>
+alla sanità perché sono partite certo di qua [sen]za<ptr target="#tn5" n="5"/> <lb/>
+alcuna infettione; et il Conte mi scrisse, et mi ha fatto <lb/>
+anco dir di bocca, che osserverà pontualmente gl’ordini <lb/>
+et commandamenti di vostra Serenità in questo proposito di <lb/>
+sanità. Dimani piacendo a sua divina Maestà <lb/>
+mi metterò in camino per ritornar all’Haya, et <lb/>
+di là scriverò quello, che anderà occorrendo per <lb/>
+servitio, et intelligenza delle Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Di Grunighen a’ 30 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="076r" facs="05_076r" rend="0"/>
+<p>Cut page</p>
+<pb n="076v" facs="05_076v" rend="270"/>
+<p>Cut page</p>
+<pb n="077r" facs="05_077r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="077v" facs="05_077v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="023">
+<!--
+<p n="077vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>30 ottobre 1617 ricevute a’ 15 novembre </p>
+<p>Secretario Surian Grunighen </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="024" corresp="023" source="74r-75v" >
+<div type="main" facs="main text of attachment I" n="024" corresp="023" >
+<!--<p>Allegato I al n. 23 (cc. 74r-75v)</p>-->
+<pb n="074r" facs="05_074r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Il leon negro patron Gerit Janssen d’Enckusen, chiamato il Generale. <lb/>
+Sopra vi è il signor conte di Levenstein con tre cento sessanta fanti incirca <lb/>
+della sua compagnia, et con esso anco il signor conte d’Ortenburgh et questa <lb/>
+nave ha 26 marinari. </p>
+<p>L’unicorno bianco patrone Cornelis Pieterssen d’Enckusen<ptr target="#tn6" n="6"/> chiamato l’Armiraglio. <lb/>
+Sopra è tutta la compagnia del signor conte d’Ortenburgh, et il rimanente <lb/>
+di quella del signor conte di Levenstein. </p>
+<p>Il gallo negro o gallo abbruggiato patrone Jan Pieterssen Haen d’Enckusen <lb/>
+chiamato il Vice amiraglio<ptr target="#tn7" n="7"/> sopra vi è monsignor Durante de’ Prignei sergente <lb/>
+maggiore del regimento con la sua compagnia et cinquanta incirca <lb/>
+di quelli del capitano Limbach, et questa nave ha 25 marinari. </p>
+<p>Il can di caccia d’Inghilterra patrone Henrich Adrianssen da Edam sopra <lb/>
+vi è monsignor Pithan luocotenente del luocotenente colonello con 280 <lb/>
+incirca soldati della sua compagnia, et questa<ptr target="#tn8" n="8"/> nave ha 19 marinari. </p>
+<p>Santi Pietro et Paulo patrone Gerbrant Claessen Voocht sopra vi è monsignor Conoschi con <lb/>
+300 fanti incirca della compagnia del signor conte Gio. Casimiro, et questa <lb/>
+nave ha 17 marinari. </p>
+<p>Il rosignolo patrone Simon Jacobssen Coethart<ptr target="#tn9" n="9"/> sopra vi è il capitano Limbach con 290 <lb/>
+fanti incirca, et questa nave ha sedeci marinari. </p>
+<p>Il neptuno patrone Simon Isbrantssen sopra vi è il capitano Andrea quartiermastro <lb/>
+del regimento con 260 soldati incirca, et questa nave ha marinari 16. </p>
+<p>Il tabacco patrone Gioan Paulsen van Velandt<ptr target="#tn10" n="10"/> sopra vi sono soldati 260 incirca <lb/>
+del capitano Brezcker, Limbach, Kröll, et di qualch’altro, et questa nave ha 15 <lb/>
+marinari. </p>
+<p>Il carro dorato patrone Giacob<ptr target="#tn11" n="11"/> Jaobssen d’Haerlem sopra vi è il capitano Kröl con <lb/>
+280 fanti incirca, et questa nave ha 19 marinari. </p>
+<p>La nave Sant’Iacomo<ptr target="#tn12" n="12"/> patrone Pieters Jacobsen<ptr target="#tn13" n="13"/> Unkreit soprra vi è il capitano Turnou con 300 <lb/>
+fanti incirca con la sua compagnia, et questa nave ha 24 marinari. </p>
+<p>La terra di promissione patrone Gioan Dorcken Duunmeier sopra vi sono da 240 soldati <lb/>
+incirca de’ diversi capitani, et questa nave ha 18 marinari.</p>
+<pb n="074v" facs="05_074v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="075r" facs="05_075r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="075v" facs="05_075v" rend="270"/>
+<p>2 </p>
+<p>Nota de’ vasselli de’<ptr target="#tn14" n="14"/> <lb/>
+patroni d’essi della soldatesca <lb/>
+et<ptr target="#tn15" n="15"/> delli marinari </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "anche" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by ", ch" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "P-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "sopra" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Am-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "C-" corrected above "G-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Corrected above "Vlelandt", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-aco-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-m-" corrected above "-b-."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-co-" corrected above "-ob-."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "essi" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

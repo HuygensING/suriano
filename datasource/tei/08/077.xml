@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.077 date 1620-01-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">077</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 421r-v, 424r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">419r-420v, 421r-v, 424r-v, 422r-423v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Due to the adverse weather conditions delay in arrival of the post. Attached he sends another copy of alliance in French and Italian. Reports that the States are thinking of sending Van Aerssen to Venice as extraordinary ambassador, adding he is currently not liked by the French. One document attached: copies of the letters sent on 7 January 1620</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-01-13">13 gennaio 1620</date>
+            <num>130, 131, 132</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="130" corresp="131" source="419r-420v" >
+<div type="main" facs="main text of attachment I" n="130" corresp="131" >
+<!--<p>Allegato I al n. 131 (cc. 419r-420v; decodifica di c. 421r-v)</p>-->
+<pb n="419r" facs="08_419r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 168 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="419v" facs="08_419v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="420r" facs="08_420r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="420v" facs="08_420v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="131">
+<div type="main" facs="main text of letter" n="131">
+<!--<p>13 gennaio 1620, L’Aia (cc. 421r-v, 424r-v)</p>-->
+<pb n="421r" facs="08_421r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 168 fin 170 </p>
+<p>Serenissimo Principe </p>
+<p>la rudezza della stagione con mio sommo dispiacere haverà <lb/>
+causato, che non havendo potuto il messaggiero arrivar a tempo <lb/>
+dell’ordinario in Anversa colle mie lettere de’ 31del passato <lb/>
+ella non l’haverà havute che<ptr target="#tn1" n="1"/> otto giorni doppo con quelle <lb/>
+de’ 7 del presente, che furono doi segnate n° 166 et 167 de’ <lb/>
+quali mando qui la replicata. </p>
+<p><hi rend="decoded">Con</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">essa sarà anco altra copia in francese, et <lb/>
+italiano dell’aleanza del capitolo sottoscritto <lb/>
+a parte, et della procura data da’ signori Stati <lb/>
+Generali a’ loro deputati. <lb/>
+</hi></p>
+<p><hi rend="decoded">Hanno doppo lo scritto da me colle precedenti <lb/>
+discorso della missione di ministro presso vostra Serenità <lb/>
+per la corroboratione, et solenizzatione della <lb/>
+alenza, senza haver però risoluta alcuna cosa, <lb/>
+non essendo, per quanto ho potuto cavare <lb/>
+passati più avanti, che a creder esser bene <lb/>
+di aspettar l’intentione di lei. <lb/>
+</hi></p>
+<p><hi rend="decoded">Se doverano mandar Ambasciator straordinario, è stato <lb/>
+parlato del signor Francesco Arsen, che fu agente, <lb/>
+et ambasciator per queste Provincie in Francia, soggetto <lb/>
+di valore, et di spirito, ma nelle presenti <lb/>
+congiun-<lb/>
+ture è mal accetto il nome suo in Francia. <lb/>
+Egli è della provincia di Olanda, né in altro <lb/>
+</hi>
+<pb n="421v" facs="08_421v" rend="0"/>
+<hi rend="decoded">s’è fissato tanto il pensiero, desiderandosi <lb/>
+come ho riverentemente detto, saper la <lb/>
+volontà, et desiderio di vostra Serenità <lb/>
+prima, che di far altra rissolutione, et non ho <lb/>
+dubio, che quello, che da lei fosse stimato più <lb/>
+proprio, et a lei più caro, qui sarebbe seconda, <lb/>
+onde aspetterò il suo prudentissimo parere. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 13 genaro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="424r" facs="08_424r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="424v" facs="08_424v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n° 168 fin 170 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="131">
+<!--
+<p n="424vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 gennaro 1619 ricevute a’ 29 detto </p>
+<p>Haia. n° 168 </p>
+<p>Manda replicate a lettere et altra <lb/>
+copia del capitolo a parte e della procura. </p>
+<p>Circa ministro per la comprobatione della <lb/>
+lega hanno concluso aspettar risposta di qua. </p>
+<p>Se doverano mandar Ambasciator straordinario <lb/>
+di si pensa su l’Arsen. </p>
+<p>Sarà secondato il gusto di sua Serenità. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="132" corresp="168" source="422r-423v" >
+<div type="main" facs="main text of attachment II" n="132" corresp="168" >
+<!--<p>Allegato II al n. 168 (cc. 422r-423v; copia di cc. 392r-393v)</p>-->
+<pb n="422r" facs="08_422r" rend="0"/>
+<head>main text of attachment II</head>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="422v" facs="08_422v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="423r" facs="08_423r" rend="0"/>
+<p><hi rend="decoded">Francese</hi><ptr target="#tn3" n="3"/> </p>
+<p><hi rend="decoded">Les Estats Generaux des Provices Unies des <lb/>
+Pais Bas à tous ceux qui ce presentes ver-<lb/>
+ront scavoir faisons comme ainsi soit que <lb/>
+la serenisime republique de Venise et nous saia-<lb/>
+nts de long temps esté touchez esgaleme-<lb/>
+nt d’un iuste desir et volenté de pouvoir contrac-<lb/>
+ter et convenir en une bonne sincere et mu-<lb/>
+tuele amitié et aliance pour la conserva-<lb/>
+tion et defense respective de deux repub-<lb/>
+licques et subiects d’icelles contre que-<lb/>
+lquonque potentati celle serenissime repub-<lb/>
+licque de Venise ait à cest effect do-<lb/>
+nné ses lettres de pouvoir et comissio-<lb/>
+n mousieur Cristofforo Suriano leur <lb/>
+secretaire et resident en ces <lb/>
+Provinces Unies à fin de faire par icelui conferer <lb/>
+avec nos deputés des auvertures et <lb/>
+moiens pour traicter et acheminer pur en-<lb/>
+samble ce bon desir et mutuel dessein à <lb/>
+une finale et bonne conclusion pour tant <lb/>
+plus solidement corroborer la vraie <lb/>
+et sincere corrispondence qui a esté de <lb/>
+puis quelques années entretenue en-<lb/>
+tre le dites deux republicques pour ce <lb/>
+est il que de nostre part aiants entiere <lb/>
+confiance de la, preudhommie, longue <lb/>
+experience en afaires et bonnes <lb/>
+qualites de sieurs Iean de Goch cheva-<lb/>
+lier bourgemaistre de la ville de Zut-<lb/>
+phen Nicolas de Bouchorst seigneur <lb/>
+de Vimenon Iacques Magnus chevalier <lb/>
+seigneur de Berchabacht Melissa-<lb/>
+nd etc. Adrien Ploos tresorier licen-<lb/>
+tiées droictz et consellier ordi-<lb/>
+naire du pais d’Utrecht Marc Delic-<lb/>
+la maanieholtnietman par Stellimcku-<lb/>
+erff orientale Gaaspar Terborcost <lb/>
+bourgemaistre de la ville de Campen et Goses <lb/>
+</hi></p>
+<pb n="423v" facs="08_423v" rend="0"/>
+<p><hi rend="decoded">Scquaffer conseillier de la ville de Groenin-<lb/>
+gen nous avons iceux commis ordonnes et <lb/>
+depute commetons ordonnons et deputons par ces <lb/>
+presentes pour nostre nom et de nostre part traicter conve-<lb/>
+nir accorder et conclure avec le dict sieur <lb/>
+Cristofforo Suriano de la part de la dicte serenisime <lb/>
+republique de Venise une bonne estroicte et parfaicte <lb/>
+alliance et amitié entre icelle serenissime Republic-<lb/>
+que et la nostre pour la conservation et defense respec-<lb/>
+tive des dictes deux republicques et de le-<lb/>
+urs subiects avec les points et articles <lb/>
+necessaires pour cest effect suivant <lb/>
+leurs memoires et instruction et de toct <lb/>
+ce que sera convenu faire et passer telles <lb/>
+transactions contracts et promesses que be-<lb/>
+soing sera en nous obligeantes <lb/>
+termes qui ilz adviseront estre pour le <lb/>
+mieux et necesaire et generalement <lb/>
+faire en ce que dessus ses circumstances <lb/>
+et dependances tout ainsi que nous feri-<lb/>
+ons et faire pourrions si presens no-<lb/>
+us i estions iacoit que la chose <lb/>
+requist mandemant plus special qui <lb/>
+il n’est convenu par ces dictes prese-<lb/>
+ntes prometans en bonne fois avoir <lb/>
+agreable tenir ferme et stable à tou-<lb/>
+siours tout ce que sera promis convenu <lb/>
+et accordé par nos dictes deputes e <lb/>
+ce que dessus et en depend et le tout con-<lb/>
+firmer approuver et ratiffier selon que <lb/>
+sera convenu et l’observer accomplier et <lb/>
+etretenir invialablement sans iamais <lb/>
+allir ne intevenir au contraire directement oi indirectement <lb/>
+ou indirectement en quelque sorte <lb/>
+ou manière que ce soit. Donne à La Haie <lb/>
+en nostre asemblée soubz nostre grand [<hi rend="decoded">seel</hi>] <lb/>
+paraphure et la signature de nostre greffier le <lb/>
+vingiquateries me de decembre milsix-<lb/>
+centdisneuf. <lb/>
+</hi></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue ho depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Con … Gratie etc. decodifica di testo cifrato presente a c. 419r-v; con segno di rimando."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Francese … milsixcensdis-|neuf testo cifrato non decodificato in A."</p></note>
+</div>
+</body>
+</text>
+</TEI>

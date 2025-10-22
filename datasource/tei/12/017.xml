@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.017 date 1623-04-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">017</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 162r-v, 165r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">162r-v, 165r-v, 163r-164v, 166r-167v, 168r-169v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter informing Serenissima that his letters have been intercepted and that they will have received the duplicates. He will dispatch other letters to Noirot and via the postmaster of Cologne. Enclosed a part of letter from Rota dated 12 April. One document attached: "capitoli di lettere del Rota"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-17">17 aprile 1623</date>
+            <num>042, 043, 044, 045</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="042">
+<div type="main" facs="main text of letter" n="042">
+<!--<p>17 aprile 1623, L’Aia (cc. 162r-v, 165r-v)</p>-->
+<pb n="162r" facs="12_162r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 492 comincia 490 </p>
+<p>Serenissimo Principe </p>
+<p>fornite, et sottoscritte l’altre mie ricevo con la mia solita rive-<lb/>
+renza la replicata delle lettere dei 24 del passato, et di <lb/>
+quelle di credito ancora, sentendo mortificatione grande <lb/>
+con stupore, che le lettere mie particolari, et non le publiche <lb/>
+dei 13 del passato siano pervenute bisogna che l’accidente <lb/>
+nasca da’ buoni amici, che l’haveranno intercette; ma <lb/>
+spero, che la Serenità haverà doppo ricevuto<ptr target="#tn1" n="1"/> il dupli-<lb/>
+cato. Coll’avvertimento<ptr target="#tn2" n="2"/> che mi viene dalla Serenità vostra non <lb/>
+mancarò di usar quella diligenza, che dal canto mio <lb/>
+sarà possibile per penetrar con fondamento ciò che possi <lb/>
+esser seguito. </p>
+<p><hi rend="decoded">Manderò</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">le presenti et le doi prima et seconda <lb/>
+con le replicate delle 3 lettere della passata <lb/>
+settimana sotto il piego del Noirot, sperando <lb/>
+che questa stradda possi succeder meglio, né <lb/>
+lascierò però di mandar le particolari al solito <lb/>
+al mastro delle poste in Colonia, con qualche <lb/>
+lettera per vostra Serenità d’aviso. In questo punto <lb/>
+ch’io scrivo mi capitano le lettere del Rota <lb/>
+ne ho tratto il capitolo che sarà aggiunto <lb/>
+et queste</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">sono de’ 12 istante. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 17 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="162v" facs="12_162v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="165r" facs="12_165r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="165v" facs="12_165v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> n° 492 comincia 490 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="042">
+<!--
+<p n="165vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 aprile 623<ptr target="#tn5" n="5"/>. Ricevute 3 maggio </p>
+<p>Haya. 3<hi rend="superscript">a</hi>. n° 492 </p>
+<p>Ha inteso la perdita delle <lb/>
+sue lettere publiche, e però si <lb/>
+risolve di mandarle in <lb/>
+avviso<ptr target="#tn6" n="6"/> sotto piego del <lb/>
+Noirot. </p>
+<p>Manda un capitolo di lettere <lb/>
+del Rota de’ 12 d’aprile. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="043" corresp="042" source="163r-164v" >
+<div type="main" facs="main text of attachment I" n="043" corresp="042" >
+<!--<p>Allegato I al n. 42 (cc.163r-164v; decodifica di c. 162r)</p>-->
+<pb n="163r" facs="12_163r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="163v" facs="12_163v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="164r" facs="12_164r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="164v" facs="12_164v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="044" corresp="042" source="166r-167v" >
+<div type="main" facs="main text of attachment II" n="044" corresp="042" >
+<!--<p>Allegato II al n. 42 (cc. 166r-167v; decodifica di cc. 168r-169r)</p>-->
+<pb n="166r" facs="12_166r" rend="0"/>
+<head>main text of attachment II</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="166v" facs="12_166v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="167r" facs="12_167r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="167v" facs="12_167v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="attachment" facs="III" n="045" corresp="042" source="168r-169v" >
+<div type="main" facs="main text of attachment III" n="045" corresp="042" >
+<!--<p>Allegato III al n. 42 (cc. 168r-169v)</p>-->
+<pb n="168r" facs="12_168r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere d’Haya n° 492 </p>
+<p><hi rend="decoded">Capitolo</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">di lettere del Rota <lb/>
+de’ 12 aprile di Leer <lb/>
+</hi></p>
+<p><hi rend="decoded">Deve vostra Signoria sapere che Alberstat ogni giorno più <lb/>
+si va facendo forte in grande pregiudicio di <lb/>
+Mansfelt perché tutti li cavalli di esso Mansfelt <lb/>
+vanno a Alberstat quelli in particolare del Carpson, <lb/>
+et Duca di Sassonia, Lavemburgh, sì che sua Eccellenza <lb/>
+addesso non havrà più che 3 mila cavalli, et <lb/>
+questi ancora sulle alli di modo che mi pare <lb/>
+di veder Mansfelt in poco credito col re <lb/>
+di Franza stante le grandi promesse fatte <lb/>
+li mesi passati in Franza, perché per quel che <lb/>
+vedo chiaramente, se dentro un mese potrà <lb/>
+marchiar con 3 mila pedoni, et 3 mila cavalli sarà <lb/>
+quanto si deve aspettare da quella parte. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il negotio in questo Paese non è ancora fermato <lb/>
+né vedo come si possa fermare con gusto di <lb/>
+Danimarca, et Olandesi insieme perché <lb/>
+ognuno vi ha il proprio interesse diametral-<lb/>
+mente contrario a quello del compagno <lb/>
+et in tanto sua Eccellenza resta senza denaro</hi><ptr target="#tn8" n="8"/> <hi rend="decoded"><lb/>
+con suo grandissimo danno, et rovina del Paese <lb/>
+et di tutto</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">seguito, tanto più addesso <lb/>
+corre voce per tutto che Alberstat sia per fare <lb/>
+l’impresa di Bohemia, che Danimarca li <lb/>
+dia aiuto et che Sassonia li dia il passo <lb/>
+con altretante simili cose, le quali fanno <lb/>
+gagliarda impressione nelli amatori delle <lb/>
+cose nuove, li quali aiutano volentieri <lb/>
+quell’impresa, et che per</hi>
+<pb n="168v" facs="12_168v" rend="0"/>
+<hi rend="decoded">odii antichi, o <lb/>
+disgusti freschi, che hanno con il conte di Mans-<lb/>
+felt usano ogni arte per tirar a quella <lb/>
+impresa, facendo capitar in ogni parte <lb/>
+lettere, et altri ufficii, dicendosi in particolare <lb/>
+che il conte Della Torre il giovane facia</hi><ptr target="#tn10" n="10"/> <hi rend="decoded"><lb/>
+per questo grandissime pratiche col Gabor, sì che <lb/>
+vostra Signoria può ben giudicare se li Bohemi resteranno <lb/>
+con il conte di Mansfelt, essendo che Alberstat <lb/>
+comincia a quella volta. È poi opinione <lb/>
+ferma fra tutti altri che sua Eccellenza vadi così <lb/>
+in volta per il Paese, et che non habbia coraggio <lb/>
+di tornar al quartiere senza denaro, queste <lb/>
+sono tutte cose, che si vedono chiaramente; quel <lb/>
+che mo’ sia di dentro non lo so, ma se questo è <lb/>
+vero, e che camini avanti, Spagnoli et l’Imperatore <lb/>
+si daranno poca pena di fare accordo con <lb/>
+Mansfelt, né esso forse anco che volesse lo <lb/>
+potrà fare, et per dir la verità quanto alla <lb/>
+causa commune vorrebbe ben veder sua Eccellenza in <lb/>
+buona fortuna, ma dall’altra parte mi sareb-<lb/>
+be caro vederlo in tal modo mortificato, che <lb/>
+non havesse più pretesto di cacciar in testa <lb/>
+alle genti, che si accommoderà con l’Infanta, <lb/>
+con l’Imperatore, con Spagnoli, con tali pretesti esso <lb/>
+pensa di far paura a tutto il mondo.</hi></p>
+<pb n="169r" facs="12_169r" rend="0"/>
+<p><hi rend="decoded">Del resto <lb/>
+poi qui s’intende che il principe Cristiano <lb/>
+habbi una belissima armata di 15 mila fanti, et 4 mila <lb/>
+cavalli, et che con lui vi siano molti valenti <lb/>
+cavallieri et di gran sangue, fra quali il giovene <lb/>
+conte Della Torre et il conte Ludovico di Levestein et <lb/>
+che il duca Guielmo di Vimar sia suo tenente <lb/>
+generale, ma Tili non farà gran conto di queste <lb/>
+loro forze, et Dio voglia, che questa giovenil <lb/>
+furia non segna quella dell’anno passato <lb/>
+con la total ruina di tuta la causa commu-<lb/>
+ne</hi> la fortuna può far gran cose. Intanto il conte di <lb/>
+Mansfelt starà per qualche tempo sicuro dalle armi di <lb/>
+Tilli perché esso signor di Tilli non può attaccarlo in questo <lb/>
+Paese se prima non attacca il principe Christiano, né esso <lb/>
+si può per adesso attaccare, che non s’interessi tutti li stati <lb/>
+della Sassonia inferiore. Sua eccellenza di Mansfelt ha dato le tre <lb/>
+compagnie di Dragoni, che erano restate a mondisgnor di Dort <lb/>
+al quartier mastro generale Boetius. </p>
+<pb n="169v" facs="12_169v" rend="270"/>
+<p>Nella 3<hi rend="superscript">a</hi> n° 492 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Coll’" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Manderò … Graite etc." decoding of the encrypted text can be found on c. 163r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e" corrected above "-o"; followed by "e som" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Capitolo … la causa commu-|ne" decoding of the encrypted text can be found on cc. 168r-169r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "senza" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line on "tanto" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "-no" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

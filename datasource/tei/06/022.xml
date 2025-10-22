@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.022 date 1618-05-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">022</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 131, 134</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">131r-v, 134r-v, 132r-133v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Reinier Pauw has visited him in Amsterdam to offer his ship, Pauw, in the service of Venice. Enclosed Suriano sends information about this ship. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-05-09">9 maggio 1618</date>
+            <num>037, 038</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="037">
+<div type="main" facs="main text of letter" n="037">
+<!--<p>9 maggio 1618, Amsterdam (cc. 131r-v, 134r-v)</p>-->
+<pb n="131r" facs="06_131r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il signor borgomastro Pavoni principale, et di molta auttorità <lb/>
+in questa città, et in questa provincia di Holanda mi è <lb/>
+venuto a trovar, et a farmi offerta per servitio della <lb/>
+Serenità vostra di una sua nave, che al presente si trova <lb/>
+a Genova, et fra pochi giorni doverà esser a Goro, quando <lb/>
+ella habbi bisogno di noleggiar altre navi per armarle ad <lb/>
+uso di guerra; sendo sicuro che et per la qualità del <lb/>
+vassello, et per esser ben armato, et oltre ciò per esser <lb/>
+il capitano di valore, et esperienza nella professione da <lb/>
+mare, et avezzo in guerra maritima resterà molto <lb/>
+ben servita, et contenta del noleggio che potrà accordare. <lb/>
+Mi pregò di darle<ptr target="#tn1" n="1"/> queste mie per vostra Serenità volendo egli <lb/>
+stesso fargliele presentare; a fine di mostrar tanto <lb/>
+maggiormente la devotione, et l’affetto, che professa <lb/>
+verso la serenissima Republica. Io ringratiando sua Signoria <lb/>
+della sua buona volontà non ho voluto ricusar <lb/>
+alla instanza. Et per informatione della Serenità vostra <lb/>
+sarà qui aggiunto descritto quanto grande sia il vassello <lb/>
+et come armato. Gratie etc. </p>
+<p>Da Amsterdam a’ 9 maggio 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="131v" facs="06_131v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="134r" facs="06_134r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="134v" facs="06_134v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="037">
+<!--
+<p n="134vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 maggio 1618 ricevute a’ 12 luglio </p>
+<p>Secretario Surian d’Amsterdam </p>
+<p>L. C. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="038" corresp="037" source="132r-133v" >
+<div type="main" facs="main text of attachment I" n="038" corresp="037" >
+<!--<p>Allegato I al n. 37 (cc. 132r-133v)</p>-->
+<pb n="132r" facs="06_132r" rend="0"/>
+<head>main text of attachment I</head>
+<p>La nave Pavona lunga 136 piedi, larga trentaquattro un <lb/>
+poco scarsi la prima coperta dal fondo della nave alta<ptr target="#tn2" n="2"/> tredici <lb/>
+piedi, la seconda cinque et un quarto l’altra sette piedi <lb/>
+armata con quarantaquattro huomini trentadoi pezzi <lb/>
+di artigliaria di ferro, et dieci pedriere. Per le 32<ptr target="#tn3" n="3"/> <lb/>
+pezze di ferro ve ne sono di sei prestate da questi signori <lb/>
+dell’Amiralità. Il capitan si nomina Rucelof<ptr target="#tn4" n="4"/> Simonsen. </p>
+<pb n="132v" facs="06_132v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="133r" facs="06_133r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="133v" facs="06_133v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-rle" corrected above "-gli."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-2" corrected above "-6."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

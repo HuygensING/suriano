@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.011 date 1623-04-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 103r-106v , 109r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">103r-104v, 105r-106v, 109r-v, 107r-108v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>As reported in letter 27 March, rumours about a potential truce with Spain are increasing. Michael Ophovius, a Dominican friar, has been imprisoned because he tried to bribe Willem Adriaan, Count of Horn, the governor of Heusden. The pleas of Oldenbarnevelt family was to no avail, Reinier has been executed together with two other accomplices. Milander has visited Suriano multiple times to explain his delay in travelling to Venice. By now, more than two hunderd mutineers in Huissen. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-03">3 aprile 1623</date>
+            <num>026, 027</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="026">
+<div type="main" facs="main text of letter" n="026">
+<!--<p>3 aprile 1623, L’Aia (cc. 103r-104v, 105r-106v, 109r-v)</p>-->
+<pb n="103r" facs="12_103r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 486 comincia 485 </p>
+<p>Serenissimo Principe </p>
+<p>scrissi assai abundantemente alla Serenità vostra nelle mie lettere seconde <lb/>
+dei 27 del passato quello che <hi rend="decoded">intorno</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">alle voci di tregua mi <lb/>
+havea comunicato mostrando di <lb/>
+farlo in confidenza il signor principe d’Oran-<lb/>
+ges la venuta direttamente del Marada <lb/>
+Opienterson di Brusseles, qualche <lb/>
+altro apparente presuposito ha inpres-<lb/>
+so qui, e nel Paese una gran parte, <lb/>
+che ella sia per seguitare, ma il signor <lb/>
+Principe mi disse, allhora, che me ne <lb/>
+parlò in sì piena maniera, che mi di-<lb/>
+ceva il fatto, come stava, che non vo-<lb/>
+rrei dubitarne, quando quella regola <lb/>
+ordinaria di dire tal volta, non quello <lb/>
+sia vero, ma quello si vuole, sia cre-<lb/>
+duto, non mi volesse far sospettar <lb/>
+altrimenti anco l’ultima volta, che <lb/>
+fui all’Eccellenza sua mi disse a proposito, che <lb/>
+non vi era alcuna cosa, et che Spagnuoli <lb/>
+stando su le sue prime propositioni <lb/>
+si burlavano tuttavia molti, et molti <lb/>
+parlano della tregua; hora</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">una gran <lb/>
+parte, che debbi seguire, dicendo alcu-<lb/>
+ni, che pur si aspetti ancora il Ma-<lb/>
+rada, che venghi da Brusseles.</hi> <lb/>
+Io non mancarò di star avvertito. </p>
+<p>Trovasi<ptr target="#tn3" n="3"/> carcerato in queste prigioni non molti <lb/>
+giorni sono un frate dominicano, che si era condotto
+<pb n="103v" facs="12_103v" rend="0"/>
+a Bolduch città in Brabant, et di là haveva fatto saper <lb/>
+al barone Bann di Kessel general dell’artiglieria, et gover-<lb/>
+nator di Husden che desiderava haver un passaporto <lb/>
+da lui per venir a parlargli. Hebbe il passaporto, et seguì <lb/>
+l’abboccamento. Passò nel principio il buon padre qualche <lb/>
+complimento et poi facendo aluntanar da sé alcuni <lb/>
+de’ suoi disse al signor Barone, ch’era venuto dalla parte <lb/>
+della serenissima Infanta per dirgli di bocca che attendeva <lb/>
+che in fine sodisfacesse all’offerta fatta di metter Husden <lb/>
+nelle mani dell’Altezza sua, dalla quale haverebbe <lb/>
+anc’egli havuto ciò che li era promesso la contea <lb/>
+di Horn, 30 mila fiorini di rendita, buone speranze di <lb/>
+accomodar li suoi figli, et altre gratie, et che per degno<ptr target="#tn4" n="4"/> <lb/>
+haveva stimato proprio il mandarli a dir questo in <lb/>
+voce perché la cosa fosse più secreta. Il Barone <lb/>
+mostrando al frate non haver notitia alcuna di questo <lb/>
+lo fece carcerare, et corse qui a dar conto di quanto <lb/>
+era successo, et come restasse attonito, et alterato di <lb/>
+questa inventione; che si era assicurato del frate <lb/>
+et che voleva in ogni modo, che si venisse per la ripu-<lb/>
+tatione sua in chiaro di questa falsità, et impostura <lb/>
+l’attioni di questo Cavaliere, l’honorata carica, ch’egli ha <lb/>
+l’amor, che li porta il signor Principe, et altre doti et <lb/>
+qualità, che ha in questo stato hanno assai a pieno <lb/>
+reso contento l’animo di sua Eccellenza et di quelli a chi <lb/>
+fu allhora communicato l’affare. In<ptr target="#tn5" n="5"/> questa <lb/>
+congiontura il frate haverà incontrato il suo infor-<lb/>
+tunio o li doi Stotemburgh minor figliolo di Bernvelt
+<pb n="104r" facs="12_104r" rend="0"/>
+et Vanderdussen retirati in Goch perché si tenta da chi <lb/>
+ha il negotio in mano, et che si sono scritte all’Infanta <lb/>
+che se vuol rihaver questo frate dia li doi sudetti <lb/>
+o altrimenti egli patirà la pena di che doverebbono esser <lb/>
+castigati quelli se capitassero nelle mani et come <lb/>
+quello anco, ch’è venuto per instromento di tentar la <lb/>
+redittione di piazza così importante, et subornar <lb/>
+signore et ufficiale così principale in queste Provincie. <lb/>
+A stretti termini, et a debolissimo filo par appoggiata la <lb/>
+vita di esso padre non sapendosi vedere se Spagnuoli saranno <lb/>
+tanto cattolici, o tanto pii, che basti per<ptr target="#tn6" n="6"/> voler <lb/>
+redimer questo dalle mani del carneficii, o più <lb/>
+tosto lasciarlo perire per dar addito coll’essempio di <lb/>
+sicurezza a malfatori simili a quelli, che hanno <lb/>
+nel poter loro. Si attenderà la risposta et si penserà <lb/>
+al di più per pervenir al disegno di haver quei <lb/>
+doi rei nelle mani. </p>
+<p>Quanto habbino pregato, et supplicato la madre, la moglie, <lb/>
+la sorella del figliolo di Bernvelt ch’era prigioniero <lb/>
+riducendosi in fine a supplicar, per una perpetua car-<lb/>
+cere niente ha giovato, havendosi voluto, che habbi <lb/>
+in publico la testa tronca dal busto il che seguì <lb/>
+mercordì spetacolo infelice di una casa che nel <lb/>
+fior dell’honore, dell’auttorità, et d’ogni felicità <lb/>
+in brevi anni si è resa ignominiosa. Li parenti <lb/>
+hanno havuta gratia che ’l cadavere, et la testa <lb/>
+fosser sepeliti appresso il padre. Doi altri complici hebbero
+<pb n="104v" facs="12_104v" rend="0"/>
+pur tronco il capo, ma furono fatti ambidoi in <lb/>
+quattro pezzi. Si va essaminando gl’altri prigionieri per <lb/>
+venirne all’ispeditione. </p>
+<p>Il signor colonello Milander venuto più volte a me doppo <lb/>
+il suo arrivo in questo luoco mi ha di nuovo rappre-<lb/>
+sentato le cause, che li hanno detenuto in camino che <lb/>
+dipendono dalla passata stagione dal verno, et perché<ptr target="#tn7" n="7"/> <lb/>
+quanto più ha diferita la sua venuta<ptr target="#tn8" n="8"/> in tanto <lb/>
+maggior disordine ha trovato le cose sue mi ha pregato <lb/>
+con gran instanza supplicar per lui la Serenità vostra che se ella <lb/>
+non ha occasione di valersi per hora di lui si compiaccia <lb/>
+dispensarlo ancor per un mese, o doi perché possi <lb/>
+dar sesto a’ suoi affari altrimenti confessando obligo <lb/>
+grandissimo alla Serenità vostra se sentirà altrimenti, et che vogli<ptr target="#tn9" n="9"/> <lb/>
+che subito ritorno non mancarà del farlo; ma si <lb/>
+assicura di ottener da<ptr target="#tn10" n="10"/> lei la gratia, che humil-<lb/>
+mente le chiede. </p>
+<p>Li amutinati si trovavano in Hus pochi giorni sono fino <lb/>
+a ducento, et ogni dì arrivava qualcheduno ad agiun-<lb/>
+tarsi al formar il squadrone; et qui avanti hieri <lb/>
+era uno di loro, che faceva far la bandiera <lb/>
+generale hanno havuta qualche auttorità di poter <lb/>
+uscir con lor vantaggio a far danno ove potranno <lb/>
+nel Paese del’inimico. Gratie etc. </p>
+<p>Dall’Haya li 3 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo </p>
+<p>Christofforo Suriano </p>
+<pb n="105r" facs="12_105r" rend="0"/>
+<p><metamark facs="Cut pages"/></p>
+<pb n="105v" facs="12_105v" rend="0"/>
+<p><metamark facs="Cut pages"/></p>
+<pb n="106r" facs="12_106r" rend="0"/>
+<p><metamark facs="Cut pages"/></p>
+<pb n="106v" facs="12_106v" rend="0"/>
+<p><metamark facs="Cut pages"/></p>
+<pb n="109r" facs="12_109r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="109v" facs="12_109v" rend="270"/>
+<p>Al Serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>486 comincia 485 </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="026">
+<!--
+<p n="109vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 aprile 1623. Ricevuta. </p>
+<p>Haya. Seconda. n° 486. </p>
+<p>Parla delle voci di tregua <lb/>
+che corrono, e crescono, se ben <lb/>
+egli, riferendo il dettogli da <lb/>
+Mauritio che, sta che Spagnuoli su <lb/>
+le proprie propositioni, se ne burlava-<lb/>
+no essi signori, mostra di non <lb/>
+crederlo. </p>
+<p>Prigionia d’un frate <lb/>
+domenicano, che era andato <lb/>
+a Bolduch città in Brabant <lb/>
+et condottosi con passaporto all’<lb/>
+abboccamento del baron di Kessel <lb/>
+lo havea tentato a nome dell’Infanta <lb/>
+della resa di Husden piazza <lb/>
+importante, di cui era generale. </p>
+<p>Altri avvisi. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="027" corresp="026" source="107r-108v" >
+<div type="main" facs="main text of attachment I" n="027" corresp="026" >
+<!--<p>Allegato I al n. 26 (cc. 107r-108v; decodifica di c. 103r)</p>-->
+<pb n="107r" facs="12_107r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 486 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="107v" facs="12_107v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="108r" facs="12_108r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="108v" facs="12_108v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "intorno … venghi da Brusselles" decoding of the encrypted text can be found on c. 107r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line on "in" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "carcerato" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "q-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "li" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ta-" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "a-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "grati-" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.003 date 1618-08-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol12r-v, 15r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">12r-v, 15r-v, 13r-14v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Reynier and Adriaan Pauw have received letters from Ouwekerck that their ship has been arrested in the Gulf and that the captain Roelof Simonsz. and several sailors have been arrested. They visited him to ask for their release. Suriano adds in his letter that these two men are wealthy and have a lot of political weight. Attached is a letter from Amsterdam on the matter. One text attached: a copy of a letter from Amsterdam written on 10 May 1618</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-11">11 agosto 1618</date>
+            <num>005, 006</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="005">
+<div type="main" facs="main text of letter" n="005">
+<!--<p>11 agosto 1618, L’Aia (cc. 12r-v, 15r-v)</p>-->
+<pb n="012r" facs="07_012r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il signor borgomastro d’Amsterdam Pavoni, et il signor sindico pur <lb/>
+d’Amsterdam suo figliolo hanno ricevuto lettere da quel <lb/>
+Console con avviso dell’arresto fatto far in golfo dall’<lb/>
+eccellentissimo signor Capitano generale della loro nave nominata Il pavone <lb/>
+tutta, et di loro sola ragione; et insieme della prigionia <lb/>
+del patrone di essa, nominato il capitano Roeloff o Rodolfo <lb/>
+Simonsin, et dell’esser stati posti al remo alcuni dei mari-<lb/>
+nari. Essendo l’uno et l’altro deputati all’assemblea <lb/>
+di questi signori Stati, loro medesimi gliene hanno data parte, et <lb/>
+lo stesso signor Sindico ha presa carica di venir a me <lb/>
+per significarmi questo interesse, et farmi instanza perché <lb/>
+procurassi appresso la Serenità vostra la restitutione del vassello, la libertà <lb/>
+al Capitano, et marinari; et la riparatione del danno. <lb/>
+Io non havendo informatione del seguito se non per quanto <lb/>
+egli me lo rappresentava, procurai di render sua Signoria <lb/>
+capace, che senza legitima gran causa non sarà stato <lb/>
+fatto l’arresto del vassello, et carceratione delle genti. <lb/>
+Mostrò di restar in parte persuaso, se ben non lasciò di <lb/>
+replicarmi, che essendo l’affetto de’ signori Stati, et di queste <lb/>
+Provincie singolare verso quella serenissima Republica, trattandosi <lb/>
+di sudditi di questo Paese poteva ben ella anco se vi <lb/>
+fosse qualche leggiero peccato, condonarlo; ma che li veniva <lb/>
+presuposto, che non vi fosse<ptr target="#tn1" n="1"/> mancamento che meritasse la pena
+<pb n="012v" facs="07_012v" rend="0"/>
+ai marinari, l’arresto al vassello et che dovesse apportar danno <lb/>
+al padre et a lui interessati in esso; che però mi pregava <lb/>
+di scriver efficacemente a vostra Serenità in questo particolare. [L]a<ptr target="#tn2" n="2"/> Serenità vostra <lb/>
+deve sapere, che questi doi soggetti, come principali nella <lb/>
+città di Amsterdam, possono quivi, et vagliono grandemente <lb/>
+in questo Governo per l’adherenze, per le dipendenze, et <lb/>
+per le richezze, et sono amati dal signor principe Mauritio, <lb/>
+et forse oltre le lettere de’ signori Stati, ancorché absente, <lb/>
+haveranno lettere dell’Eccellenza sua per vostra Serenità. Io posso attestarle <lb/>
+con verità haver havuto<ptr target="#tn3" n="3"/> da questi signori sempre testimonii <lb/>
+di particolar devotione verso il servitor della Serenità vostra <lb/>
+et me ne diedero anco qualche segno nelle congiunture <lb/>
+delle passate levate con assentir alla commodità di esse, <lb/>
+come anco per l’avanzamento di quanto desideravo<ptr target="#tn4" n="4"/> per <lb/>
+l’ultimo<ptr target="#tn5" n="5"/> armamento dei vasselli; et di più per <lb/>
+dimostratione<ptr target="#tn6" n="6"/> maggiore della sua buona volontà verso <lb/>
+la Serenità vostra hebbero pensiero di lasciar impiegar la medesima <lb/>
+nave arrestata in servitio di lei, come vedrà dalla copia <lb/>
+della lettera, che a tal effetto diedi in Amsterdam al <lb/>
+detto signor borgomastro Pavoni, la quale doveva esserle <lb/>
+resa dal medesimo Capitano della nave. Si promettono<ptr target="#tn7" n="7"/> questi <lb/>
+signori ogni cortese effetto di buona corrispondenza verso <lb/>
+queste Provincie, et verso le loro persone particolari; et io
+<pb n="015r" facs="07_015r" rend="0"/>
+conoscendomi obligato<ptr target="#tn8" n="8"/> sì per rispetto della Serenità vostra, per li favori ricevuti a servitio di <lb/>
+lei, le raccomando l’affare con quell’affetto, che merita l’efficace <lb/>
+instanza, che mi<ptr target="#tn9" n="9"/> hanno<ptr target="#tn10" n="10"/> fatta per la liberatione della nave, <lb/>
+et degl’huomini; et comporta la qualità di questi signori principali. Gratie etc. </p>
+<p>Dall’Haya a’ 11 agosto 1618 </p>
+<p>[di]<ptr target="#tn11" n="11"/> vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="015v" facs="07_015v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="005">
+<!--
+<p n="015vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>11 agosto 1618 ricevute a’ 31 detto </p>
+<p>Haya </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="006" corresp="005" source="13r-14v" >
+<div type="main" facs="main text of attachment I" n="006" corresp="005" >
+<!--<p>Allegato I al n. 5 (cc. 13r-14v)</p>-->
+<pb n="013r" facs="07_013r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya de’ 11 agosto 1618 </p>
+<p>Copia </p>
+<p>Serenissimo<ptr target="#tn12" n="12"/> Principe </p>
+<p>il signor borgomastro Pavoni principale, et di molta auttorità in <lb/>
+questa città, et in questa provincia di Holanda mi è <lb/>
+venuto a trovare, et a farmi offerta per servitio della Serenità vostra <lb/>
+di una sua nave, che al presente si trova a Genova, et fra <lb/>
+pochi giorni doverà esser a Gozo<ptr target="#tn13" n="13"/>, quand’ella habbi bisognio <lb/>
+di noleggiar altre navi per armarle ad uso di guerra sendo <lb/>
+sicuro, che et per la qualità del vassello et per esser ben armato<ptr target="#tn14" n="14"/>, <lb/>
+et oltre ciò per esser il Capitano di valore, et isperienza <lb/>
+nella professione di mare, et avezzo in guerra maritima <lb/>
+resterà molto ben servita, et contenta del noleggio, che <lb/>
+potrà accordare. Mi pregò di darle questa mia per <lb/>
+vostra Serenità, volendo egli stesso farla presentare a fine <lb/>
+di dimostrar tanto maggiormente la devotione, et l’<lb/>
+affetto, che professa verso la serenissima Republica. Io ringratiando <lb/>
+sua Signoria della sua buona volontà, non ho voluto ricusar <lb/>
+all’istanza; et per informatione della Serenità vostra sarà qui <lb/>
+aggiunto descritto quanto grande sia il vassello, et come <lb/>
+armato. Gratie etc. </p>
+<p>Da Amsterdam a’ 10 maggio 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<p>La nave Pavona </p>
+<p>Lunga 136 piedi, larga 34 piedi scarsi alta 13 piedi dal fondo <lb/>
+la seconda coperta cinque piedi, et un 4<hi rend="superscript">to</hi> la 3<hi rend="superscript">a</hi> coperta sette <lb/>
+piedi armata con 44 huomini 32 pezzi di ferro, et dieci periere <lb/>
+tra quelli di ferro sei sono delli signori dell’Amiralità. </p>
+<pb n="013v" facs="07_013v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="014r" facs="07_014r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="014v" facs="07_014v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-osse" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-ut-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o corretta su -a"; followed by "-m" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "pr-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-h-" corrected above "-n-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> There is a hole in the page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Ser-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-to" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

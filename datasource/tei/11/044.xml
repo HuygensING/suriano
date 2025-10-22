@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.044 date 1622-08-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">044</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 241r-244v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                BHO (https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp383-401)
+            </note>
+            <biblScope unit="page">241r-244v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 30 July and 5 August, indicates he will inform the States General on the state of affairs of the Grisons. Reports that the States General are fighting on four different front and are seeking to hire Mansfeld for three months. Rumour in the past week that Mansfeld had to fight against the Huguenots on behalf of Louis XIII caused consternation. Tilly and Leopold are in Speyer, part of the imperial troops have committed atrocities in Germensheim. Negotiations about Palatinate are starting in Brussels, other matters will be resolved at the Diet of Regensburg. Swedish representative has left for negotiations between Swedish and Polish king. Edict lowering price of silver and gold has been promulgated by the States General. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-08-29">29 agosto 1622</date>
+            <num>071</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="071">
+<div type="main" facs="main text of letter" n="071">
+<!--<p>29 agosto 1622, L’Aia (cc. 241r-244v)</p>-->
+<pb n="241r" facs="11_241r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 417 comincia 416 </p>
+<p>Serenissimo Principe </p>
+<p>sabbato<ptr target="#tn1" n="1"/> coll’ordinario mi pervenero le lettere di vostra Serenità de’ 30 <lb/>
+del passato coll’informatione del trattato colli ministri regii nel <lb/>
+negotio della stradda contentiosa, et colla relatione sopra ciò fatta. <lb/>
+Tutto mi servirà d’informatione per risponder, et parlarne <lb/>
+se me sarà data materia; così anche farò delli doi milla ducati. </p>
+<p>Aggiunti<ptr target="#tn2" n="2"/> al medesimo dispaccio erano in lettere sue de’ 5 agosto gl’<lb/>
+avvisi del successo in Grisoni, et come andavano quei popoli <lb/>
+proseguendo, et avanzandosi. Speravo questa mattina poter <lb/>
+haver audienza; ma l’occupationi dei signori Stati me l’hanno <lb/>
+differita fino a dimani mattina. Essequirò quanto mi <lb/>
+commanda intorno alla confidente communicatione dell’ope-<lb/>
+ratosi sin qui in quella parte; et con quelle considerationi <lb/>
+che saprò meglio portare procurerò far constar la <lb/>
+necessità dell’assistenza, et eccitar questi signori a muoversi <lb/>
+in qualche maniera per essi. </p>
+<p>Dal contenuto delle precedenti lettere mie, et da questo dispaccio <lb/>
+ancora haverà la Serenità vostra tanto, che potrà ben comprender <lb/>
+ciò che questi signori possino per hora fare a vantaggio di quei <lb/>
+popoli, mentre danno quattro armate su le spalle a <lb/>
+Bergh, in Fiandra, sul Rheno, et al forte Papemuts <lb/>
+senza quelle forze che tengono in mare, et nelle riviere <lb/>
+di cento trenta vasselli tra piccioli, et grandi. Et tra <lb/>
+le genti da piedi, et da cavallo pagano ben per 62 mila <lb/>
+combatenti; se ben l’opinione commune è che se ar-<lb/>
+rivano a 50 mila sia assai, sendo gl’altri dodici milla <lb/>
+rubbati, secondo il costume di tutte le genti da guerra <lb/>
+da che non va punto essente lo Spagnuolo. Tal che
+<pb n="241v" facs="11_241v" rend="0"/>
+manifesto, et urgente si vede esser il bisogno dei signori Stati di haver <lb/>
+per sé stessi genti; et per consequente aiuto; che sue Eccellenze si muo-<lb/>
+vino a far ufficii con Mansfelt, che invii genti a quella volta nella Retia già haverà inteso essersi mutato lo stato delle cose <lb/>
+ch’egli era partito dal Palatinato; che s’era ridotto in Lorena <lb/>
+et che là era stato mandato di qua per assicurarlo di tenerlo <lb/>
+tre mesi in servitio: di maniera che non veggo addito appa-<lb/>
+rente per hora di alcun soccorso per quei popoli: tuttavia (come <lb/>
+ho detto) tenterò; o almeno caverò li sensi, et l’intentioni <lb/>
+di questi signori. </p>
+<p>La passata settimana corse qui una voce venuta dal campo del signor prin-<lb/>
+cipe Mauritio, che ’l conte di Mansfelt si era accordato colla <lb/>
+Francia, che haveva contrattato di ricever denari dal Re <lb/>
+christianissimo, et che andasse a servirlo contro ugonotti. Di questo <lb/>
+avviso s’è il Generale scandalizato grandemente, sparlando <lb/>
+contra esso Mansfelt con parole assai dishonorate; tuttavia <lb/>
+non si havendo la certezza non si sa quello giudicarne: <lb/>
+in tanto (quando fosse) viene stimato l’atto indegno, et li signori <lb/>
+Stati con questo avviso si risentono grandemente nell’animo <lb/>
+parendo loro, che non debba se non esser interpretata termine <lb/>
+villano, che havendo mandato qui a trattare della sua condotta <lb/>
+prima, che aspettar risposta havesse nello stesso tempo <lb/>
+fatta altra risolutione. Niun’avviso, né alcuna risposta <lb/>
+di più mano di lettere che sono state ispedite al Conte tanto <lb/>
+dai stati, che da sua Eccellenza, niun’avviso del Golstein, et del <lb/>
+Deulbier, né il lor ritorno; alcuna lettera manco si vede <lb/>
+del giovane duca di Bransvich, et la sorella qui moglie
+<pb n="242r" facs="11_242r" rend="0"/>
+del conte Ernesto di Nassau se ne contrista. Si continua pur <lb/>
+a dire, che se non ha conclusa con Francia, che tratti tuttavia <lb/>
+et che la dilatione al dar risposta a questi signori è perché <lb/>
+si trova impegnato con la Francia, et a termini, che non <lb/>
+può ritirarsi a dietro. Ognuno mentre vi è questo man-<lb/>
+camento dice ciò che vuole, sparla come vuole, et <lb/>
+fa il gudicio a modo suo. Mal volontieri sentirebbono <lb/>
+li signori Stati un tal accordo prima perché sarebbero stati <lb/>
+delusi da Mansfelt, poi perché prendendo il partito <lb/>
+del Re servirebbe di fomento ad opprimer in Francia <lb/>
+quelli della religione. Et per il primo risentono già <lb/>
+le voci della soldatesca, che assedia Bergh, che ad alta <lb/>
+voce cridano contra gl’assediati burlandosi aspettate <lb/>
+sì sì aspettate Mansfelt, che vi venghi a soccorrer. <lb/>
+Ancor nondimeno<ptr target="#tn3" n="3"/> vive la speranza, che non debbi far questo <lb/>
+mancamento, et che sarà presto in questi paesi a danni <lb/>
+dell’inimico. </p>
+<p>S’è anco inteso che doi reggimenti disunitisi in forma di <lb/>
+amutinamento si fossero separati dal corpo intero <lb/>
+dell’armi di Mansfelt, ma come che andavan disor-<lb/>
+dinati una buona parte è stata batuta; onde <lb/>
+riunitisi vedendo il pericolo maggiore hanno batuta <lb/>
+la ritirata; inviando avanti a dimandar perdono <lb/>
+a Mansfelt, et havutolo se ne erano ritornati a lui. </p>
+<p>Non si ha confirmatione, che Cordova cali a basso <lb/>
+ma benché continui a starsene intorno il paese <lb/>
+del Lucemburgh, osservando gl’andamenti di Mansfelt </p>
+<pb n="242v" facs="11_242v" rend="0"/>
+<p>Tilli si trovava ad alto unito all’arciduca Leopoldo, il quale <lb/>
+coll’ultime lettere si teneva in<ptr target="#tn4" n="4"/> Spira. Una buona <lb/>
+parte delle militie di lui era<ptr target="#tn5" n="5"/> andata ad assediar <lb/>
+Gersmensheim, quelli di dentro vedendo che con tre sole <lb/>
+compagnie poco potevan durare, stabilirono di mandar <lb/>
+a far patti per uscirne. Mentre trattavano gl’articoli <lb/>
+per l’unità, et che li soldati attendevano a metter ad <lb/>
+ordine le loro bagaglie non temendo di ciò che gl’avenne <lb/>
+le genti di esso Leopoldo destramente et senza gran romore <lb/>
+entrorono per le muraglie diedero adosso alla soldatesca <lb/>
+disarmata, et la disfecero, et massacrorono<ptr target="#tn6" n="6"/> tutta con <lb/>
+un’estrema crudeltà: segno di rispetto, che si porta <lb/>
+all’armi, et all’insegne del re della Gran Bertagna. <lb/>
+Di Colonia si è havuto l’avviso, et il signor Ambasciator inglese <lb/>
+l’ha havuto di Manheim, questo è il secondo affronto <lb/>
+che ha havuto quella Maestà dopo che ’l re di Bohemia <lb/>
+è uscito dal Palatinato, può assicurarsi del terzo, <lb/>
+et di altri sussequenti, et già si parla di assediar <lb/>
+Franchendal. </p>
+<p>In questo mentre è venuto a Brusseles il messaggiero <lb/>
+d’Inghilterra con la plenipotenza del Re al suo ambasciatore <lb/>
+il cavalier Weston. Se ben viene detto dalla Regina che <lb/>
+non vi era nella prima la parola di elettore, alcuno però <lb/>
+ha affermato, che vi fosse, ma in questa seconda non <lb/>
+vi è se non che dice il Principe palatino mio figliolo <lb/>
+et si vuol far creder che questo sia con vantaggio <lb/>
+perché dicendosi elettore bisognava, che prima precedesse
+<pb n="243r" facs="11_243r" rend="0"/>
+il titolo di re, tanto ha bastato per hora a Spagnoli che si sono <lb/>
+contentati della maniera, ch’è venuta con la sottoscrittione <lb/>
+che vi sarà di Frederico senza altro. Hora si doverà <lb/>
+cominciar, o si sarà cominciato a trattare, et con <lb/>
+curiosità si starà attendendo il frutto, che partorirà <lb/>
+quel congresso. Li deputati di Colonia, et di Magonza <lb/>
+serviranno sempre colle loro pretensioni, et aggravii <lb/>
+per quello si scuopre a diferire, o a ridur in contesa <lb/>
+nuova quello, che in apparenza mostreranno Spagnoli <lb/>
+et imperialisti di voler accordare. </p>
+<p>Le pretensioni, et aggravii delli medesimi doi principi per l’incom-<lb/>
+modità, che hanno sofferte nei loro vescovati, et <lb/>
+dominii per le corse delle genti del re di Bohemia, <lb/>
+et del giovane duca di Bransvich hanno servito a farsi <lb/>
+risposta irresoluta al signor duca di Simeren fratello del <lb/>
+re di Bohemia, che havendo fatta far instanza <lb/>
+all’Imperatore per la restitutione de’ suoi beni posti nel <lb/>
+basso Palatinato la risposta è stata, che alla Dieta <lb/>
+che doverà la Maestà sua cesarea tener a Ratisbona nel <lb/>
+mese venturo si parlerà anco del suo affare come <lb/>
+doverà seguire del modo di restaurar l’arcivescovo <lb/>
+di Magonza, et quello di Colonia, et con questa <lb/>
+ambiguità resta il detto Principe con speranza <lb/>
+assai magra di haver risolutione che servì a pro <lb/>
+de’ suoi interessi. </p>
+<p>Se bene la Regina procura di coprir la sua malinconia non <lb/>
+può farlo tanto, che non appari, et li suoi della sua
+<pb n="243v" facs="11_243v" rend="0"/>
+corte più difficilmente assai cuoprono le proprie passioni; et le <lb/>
+cose a dir la verità vanno molto male per il povero re di <lb/>
+Bohemia, che in fine potrebbe esser, che risolvesse non <lb/>
+stimandosi sicuro a Sedam di ritornarsene all’Haya <lb/>
+già se ne mormora, et qualcheduno di corte ne parla. </p>
+<p>Il Rutghertius, che per nome del re di Svetia fu qui col <lb/>
+titolo di consigliero per iscusar principalmente se non poteva <lb/>
+dar assistenza per la guerra, che haveva alle mani contro <lb/>
+Polonia, partì li giorni passati chiamato da quel Prin-<lb/>
+cipe. Era passato a Stocolms pensando<ptr target="#tn7" n="7"/> quivi alla <lb/>
+sua residenza trovar la Maestà sua, ma era partita, come <lb/>
+avvisa<ptr target="#tn8" n="8"/>, accompagnato da <lb/>
+cinquemilla combatenti per unirsi con questi al resto <lb/>
+della sua armata, et per ricuperar, come già ci è <lb/>
+avviso che habbi fatto alcune terre del duca di <lb/>
+Curlant, et poi spingersi innanti a far acquisto <lb/>
+et impatronirsi potendo di tutta la Livonia; che <lb/>
+mentre andava proseguendo erano venuti doi <lb/>
+ambasciatori di Polonia per trattar d’una tregua. <lb/>
+Esso re di Svetia li dava d’orrecchio, sperando <lb/>
+poiché Polonia fa l’instanza, et egli per l’armi <lb/>
+che ha alle mani di poter far più avantaggiosa <lb/>
+la sua conditione. </p>
+<p>Rigoroso editto è uscito dalla parte dei signori Stati Generali per <lb/>
+abbassar di prezzo le monete d’oro, et d’argento tanto <lb/>
+forestiere, che dal Paese, che ogni dì si andavano <lb/>
+argumentando particolarmente in questa provincia di Holanda
+<pb n="244r" facs="11_244r" rend="0"/>
+et così correva anco nell’altre Provincie. Et particolarmente li Jacobus d’Inghilterra sono stati calati dai dodici fiorini, et dodici piacchi (che erano in circa a ragione di moneta <lb/>
+venetiana corrente lire 37 soldi 16) ai undeci fiorini, <lb/>
+[et]<ptr target="#tn9" n="9"/> otto piacchi cioè 24 piacchi meno, che sono tre <lb/>
+lire, et dodici soldi della moneta corrente venetiana <lb/>
+et a proportione anco sono calate l’altre valute <lb/>
+con non poca mormoratione, et scontento dei popoli <lb/>
+et per l’essentione si è proposto il giuramento a tutti <lb/>
+li banchi della Generalità, et de’ particolari alli capi delle <lb/>
+arti, et a’ bottigari di non ricever né dar fuori la <lb/>
+moneta a più alto prezzo dell’editto proponendo <lb/>
+gravissima pena contro quelli, che saranno trovati <lb/>
+non haver osservato l’editto. Gratie etc. </p>
+<p>Dall’Haya li 29 agosto 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="244v" facs="11_244v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 417 comincia 416 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="071">
+<!--
+<p n="244vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29 agosto 1622 ricevute 14 settembre </p>
+<p>Haya. n° 417 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "passato" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "Spi" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-rono" added above the line on "-no" crossed out with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by deleted words.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

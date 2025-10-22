@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.022 date 1616-12-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">022</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 149r-150v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">147r-148v, 149r-150v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Receives news from Maurice on the election of the Holy Roman Emperor. Confirms reports that more troops are being raised for the archduke Ferdinand. Further reports on troops of the Duke of Nemours in Savoy. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-03">3 dicembre 1616</date>
+            <num>048, 049</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="048" corresp="049" source="147r-148v" >
+<div type="main" facs="main text of attachment I" n="048" corresp="049" >
+<!--<p>Allegato I al n. 49 (cc. 147r-148v; decodifica di c. 150r)</p>-->
+<pb n="147r" facs="03_147r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="147v" facs="03_147v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="148r" facs="03_148r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="148v" facs="03_148v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="049">
+<div type="main" facs="main text of letter" n="049">
+<!--<p>3 dicembre 1616, L’Aia (cc. 149r-150v)</p>-->
+<pb n="149r" facs="03_149r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il signor principe Mauritio mi confermò l’avviso della missione <lb/>
+d’ambasceria che haveva fatta l’Imperatore in Germania per <lb/>
+astradar il negotio dell’elettione de’ re de’ Romani <lb/>
+et un conte di Sultz (venuto espressamente qui per passar sotto <lb/>
+il signor conte Gio. Ernesto al servitio di lei) ha riferto che <lb/>
+era di già partito alla volta di Treveri l’arcivescovo <lb/>
+di Colonia, et che quivi doveva esser anco quello di <lb/>
+Magonza per consultar sopra questo affare; et mi <lb/>
+disse l’Eccellenza sua che<ptr target="#tn1" n="1"/> non sapeva a che risolutione <lb/>
+sarebbono venuti; et in chi vorranno far cader <lb/>
+che se l’elettor di Colonia havesse veduto qualche <lb/>
+addito per introdur il fratello non haverebbe mancato <lb/>
+di tentare di entrar in negotio; considerando di <lb/>
+più, che forse non li sarebbe stato difficile, mentre <lb/>
+pare che alcuni delli principi di Germania <lb/>
+mostrino di non amar una così lunga successione <lb/>
+in casa d’Austria. Perché vero aggiunse che li <lb/>
+principi ecclesiastici sono troppo interessati con essa, et li <lb/>
+principi dell’Unione sono uniti solo nel non far <lb/>
+niente, et dormono, et se non li sveglia il proprio <lb/>
+interesse, non so vedere chi altri lo possino fare. </p>
+<p>Mi addimandò se havevo inteso alcuna cosa del colonel </p>
+<pb n="149v" facs="03_149v" rend="0"/>
+<p>Tampier intorno alla levata, che faceva risposi, che <lb/>
+havevo<ptr target="#tn2" n="2"/> sentito qualcheduno, che ne haveva parlato <lb/>
+et che la faceva con denari di Spagna disse egli altrettanto <lb/>
+ho inteso anch’io, et che saranno doi milla fanti, et <lb/>
+quattrocento<ptr target="#tn3" n="3"/> cavalli tutto per servitio dell’arciduca <lb/>
+Ferdinando. </p>
+<p>Ho in lettere del Pasini, che si vocifera a Brusseles <lb/>
+che’ l conte di Buquoi sia per andar a servir il detto <lb/>
+Arciduca; ma non è del tutto sicuro. </p>
+<p>Hora, che questi francesi dipendenti<ptr target="#tn4" n="4"/> dalla corte, hanno <lb/>
+inteso, che le genti inviate al duca di Nemurs <lb/>
+et in Savoia si sono sbandate, et dissipate; dicono <lb/>
+che l’incontro fattogli da monsignor di Dighieres non <lb/>
+sia stato motivo proprio di lui, come s’era publicato <lb/>
+et che non havesse voluto obedir alla Regina; ma <lb/>
+seguitar le massime del defunto Re di sostener <lb/>
+lo stato di Savoia, et quell’Altezza che certo in <lb/>
+questo particolare vi era concorso il tacito<ptr target="#tn5" n="5"/> assenso di sua Maestà <lb/>
+et della Regina; non essendo conveniente, ne’ <lb/>
+a proposito per la Francia, che così di fresso si <lb/>
+mostri di tener poco conto d’ un’aleanza <lb/>
+tanto stretta fatta colla corona di Spagna; <lb/>
+et che in apparenza si darà ben dalle maestà con
+<pb n="150r" facs="03_150r" rend="0"/>
+sodisfattione all’instanza dell’Ambasciatore cattolico; ma che <lb/>
+nell’effetto, et nell’essecutione si caminerà con quel <lb/>
+metodo, che comporta la ragione di Stato, et la <lb/>
+conservatione della Francia, et delli antichi amici <lb/>
+della Corona. Questo si sforzano d’imprimer nella <lb/>
+mente di ognuno; il che fa anco l’ambasciator di quella <lb/>
+Maestà qui residente; ma questi concetti non bastano <lb/>
+mentre qui sono avvisati <hi rend="decoded">dal</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">loro Ambasciatore</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">che non si fa cosa, che non sia par-<lb/>
+tecipata con l’Ambasciatore spagnolo, ivi residente, et viene <lb/>
+raportato, che le deliberationi siano quasi, che consultate <lb/>
+dal medisimo Ambasciatore o almeno ne habbi una gran commu-<lb/>
+nicatione, vivono per tanto nel pensiero di quello, che <lb/>
+il tempo habbia a partorire, et pensono anco all’<lb/>
+Inghilterra et qualcheduno m’ha detto esser</hi><ptr target="#tn8" n="8"/> <hi rend="decoded"><lb/>
+d’inviare</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">un’ambasciata a quel Re <lb/>
+sotto qualche</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">intentione</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">pretesto, ma con particolar fine di divertir il ma-<lb/>
+trimonio di quel Re. La seconda principessa di <lb/>
+Spagna. Gratie. <lb/>
+</hi></p>
+<p>Dall’Haya a’ 3 decembre<ptr target="#tn12" n="12"/> 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="150v" facs="03_150v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="049">
+<!--
+<p n="150vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 decembre 1616 ricevute 21 detto </p>
+<p>Secretario Surian dall’Aya 2<hi rend="superscript">a</hi> </p>
+<p>Avisi che tiene il principe Mauritio circa <lb/>
+l’elettione di re de’ Romani. </p>
+<p>Concetto che Colonia possa portar inanzi <lb/>
+il fatto. </p>
+<p>Principi della Unione siano uniti solo <lb/>
+in far niente, et dormono. </p>
+<p>Che il Dampier con denari di sopra <lb/>
+farà levata di 2 mila fanti; et 400 cavalli. </p>
+<p>Quell’arciduca Ferdinando. </p>
+<p>Che il conte di Buquoi sia per andarlo a servire. </p>
+<p>Ragionamenti de’ Francesi sopra la discussione delle <lb/>
+genti di Nemurs, della Republica in appa-<lb/>
+renza proverà sodisfar a’ Spagnoli, ma in <lb/>
+effetto farà il servitio della Corona, et dell’amici, <lb/>
+l’istesso dice l’Ambasciator francese. </p>
+<p>Ma non<ptr target="#tn13" n="13"/> bastano questi concetti perché <lb/>
+sono avisati di sopra detto l’ambasciatore di Spagna tiene <lb/>
+gran parte nelle deliberationi. </p>
+<p>Vivono nel pensiero di ciò che porterà <lb/>
+il tempo; et pensano alle cose d’Inghilterra. </p>
+<p>Forse con qualche intentione di mandar ambasciatore <lb/>
+sotto pretesto: ma per divertir il matrimonio di quel <lb/>
+[Principe]<ptr target="#tn14" n="14"/> con la 2<hi rend="superscript">a</hi> principessa di Spagna. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "pensav"- crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes "quadrucento" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ti" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "il tacito" added above the line on "l’" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "dal … Gratie" decoding of the encrypted text can be found on c. 147r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "interesse" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "termine" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Sotto qualche" added in the internal margin.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Fold in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

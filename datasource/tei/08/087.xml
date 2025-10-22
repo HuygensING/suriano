@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.087 date 1620-02-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">087</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 463r-465v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp156-173
+            </note>
+            <biblScope unit="page">463r-465v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The removal of word enemy from treaty has been communicated to the English ambassador but not to the French. The treaty will be ratified soon, and they will send an extraordinary ambassador to do so. They have not yet decided about an ordinary one. Rosellus had requested to see copy of alliance but this has been refused. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-02-11">11 febbraio 1620</date>
+            <num>145</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="145">
+<div type="main" facs="main text of letter" n="145">
+<!--<p>11 febbraio 1620, L’Aia (cc. 463r-465v)</p>-->
+<pb n="463r" facs="08_463r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 178 fin 179 </p>
+<p>Serenissimo Principe </p>
+<p>all’arrivo delle presenti haverà la Serenità vostra ricevute le mie <lb/>
+lettere d’hoggi otto n° 175 fin 177 che saranno aggiunte a <lb/>
+queste replicate, et dalle prime haverà inteso, che dal <lb/>
+capitolo terzo dell’aleanza si doveva levar la parola <lb/>
+de’ nemici, com’è seguito. Quello che allhora scrissi fu <lb/>
+per bocca d’uno dei deputati, che <hi rend="decoded">lo</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">communicò anco al signor <lb/>
+Ambasciator inglese, non al francese</hi>, ma <lb/>
+volsero questi signori che la risolutione mi fosse significata <lb/>
+più pontulamente. Onde il giorno doppo la mia <lb/>
+speditione venero tre dei deputati in questa casa <lb/>
+della Serenità vostra, mi diedero parte di detta risolutione <lb/>
+et mi ricercorono di haver li capitoli dell’aleanza <lb/>
+per riformar il foglio, il che fatto tornorono poi <lb/>
+sabbato a me riportandomi la medesima capitulatione <lb/>
+tanto in italiano, che in francese la quale fu da <lb/>
+noi riletta, et confrontata unitamente. Hora non mi <lb/>
+par che resti altro per venirne alla ratificatione <lb/>
+et laudo Iddio di tutto cuore, restando consola-<lb/>
+tissimo di haver trovato in questi signori così pronto <lb/>
+desiderio di sodisfar in tutte le cose vostra Serenità, et le <lb/>
+rendo humilissimamente gratie del contento, che per sua <lb/>
+benignità mi apporta colle sue lettere de’ 24 del
+<pb n="463v" facs="08_463v" rend="0"/>
+passato, mostrando restar sodisfatta di quanto ho <lb/>
+concluso, et terminato nello stabilimento delle capitulationi. </p>
+<p>Quando furono a me li detti deputati l’ultima volta <lb/>
+mi diedero anco parte, che essendosi havuto discorso sopra <lb/>
+la missione di dette capitulationi sottoscritte per la <lb/>
+loro solennizatione da parte et d’altra havevano <lb/>
+li signori Stati risoluto di inviar<ptr target="#tn2" n="2"/> ambasciata straordinaria <lb/>
+disegnando, che fosse spedita di qua a doi mesi in circa <lb/>
+tanto che l’Ambasciatore dovesse esser di la, poco doppo <lb/>
+la Pasqua alla fine d’aprile, o principio di maggio; <lb/>
+che però non era nominato il soggetto: et aggiunsero <lb/>
+essi deputati, che si haverebbono potuto per questo <lb/>
+aspettar le risposte di vostra Serenità: et qui mi addi-<lb/>
+mandorono quando pensavo, che dovesse esser di <lb/>
+ritorno la risposta. Dissi in un mese, o la in circa <lb/>
+poco più. Altra risolutione non cavai, che si fosse <lb/>
+fatta per Ministro, o qualità di soggetto, che <lb/>
+havesse a far ordinaria residenza, solo mi dissero <lb/>
+che quanto a questo credevano, che haverebbono <lb/>
+li signori Stati aspettato d’intender a che la Serenità vostra <lb/>
+havesse più inclinato per reglarsi<ptr target="#tn3" n="3"/> conforme a quello <lb/>
+che da lei fosse stato stimato proprio: et parmi di
+<pb n="464r" facs="08_464r" rend="0"/>
+non haver a metter dubio, che si regoleranno questi <lb/>
+signori al senso delle Signorie vostre eccellentissime o di mandar l’ordinario <lb/>
+coll’estraordinario o chi haverà a risieder col medesimo, overo <lb/>
+mandarlo doppo solennizata, et fatta la cerimonia <lb/>
+per lo stabilimento del contratto, come riverentemente le <lb/>
+significai colle precedenti lettere mie per dargli tempo <lb/>
+di provedersi per la dimora. Aspetterò per tanto <lb/>
+ciò che in questi propositi stimerà bene et sopra quello <lb/>
+di più che ho scritto in tal materia con precedenti <lb/>
+lettere mie. </p>
+<p>Di quanto m’avvisa la Serenità vostra intorno al titolo dato al prin-<lb/>
+cipe Palatino di re, risponderò richiesto, come mi viene <lb/>
+commandato da lei, procedendo anco sempre con termini <lb/>
+generali ne’ ragionamenti che mi occorressero di parlar <lb/>
+di quel Principe. </p>
+<p>Al qual proposito non lascierò di dirle, che quello che fu <lb/>
+spedito qui ultimamente a nome suo, per parte di lui <lb/>
+ha tentato di haver la copia della capitulatione seguita <lb/>
+tra la Serenità vostra et queste Provincie. Ciò gli è stato <lb/>
+ricusato con iscusa non esser ancor seguita la rati-<lb/>
+ficatione; ma da qualcheduno et dal signor Ambasciator inglese prin-<lb/>
+cipalmente che me lo disse li è stato detto li particolari della
+<pb n="464v" facs="08_464v" rend="0"/>
+detta capitulazione. </p>
+<p>Parmi, che habbi anco fatto instanza alli signori Stati, che stante <lb/>
+detta aleanza si compiaccino di raccommandar a vostra Serenità <lb/>
+esso re di Bohemia, essendo venuto con questa instrutione. <lb/>
+Alcuno non me n’ha parlato forse che vorranno far far <lb/>
+l’ufficio dell’Ambasciator estraordinario, che disegnano d’inviare <lb/>
+costì. Questo è mio pensiero, non so se possi sussister <lb/>
+anderò cavando quello potrò con destrezza senza <lb/>
+mostrar né curiosità né affettatione per avvisarne <lb/>
+opportunamente la Serenità vostra. </p>
+<p>Dicendomi ella contentarsi che siano cambiate le procure <lb/>
+autentiche tanto sarà essequito, et già<ptr target="#tn4" n="4"/> li deputati <lb/>
+me ne hanno parlato. </p>
+<p>Per la condotta del signor conte Henrico di Nassau aspetterò <lb/>
+intender quello vorrà farmi saper della sua intentione <lb/>
+et se come intendo incontra difficoltà nel ritener ancor <lb/>
+in servitio quelli Holandesi, et doverà lasciarli partire, tanto <lb/>
+più la prudenza di vostra Serenità doverà considerare che potrà valer <lb/>
+grandemente a profitto delle cose sue l’haver obligato <lb/>
+la persona di detto principe Henrico per ogni accidente <lb/>
+di condotta di altre genti senza maggior suo travaglio, <lb/>
+che d’una spesa ferma, et limitata. Gratie etc. </p>
+<p>Dall’Haya xi febraro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="465r" facs="08_465r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="465v" facs="08_465v" rend="0"/>
+<p>Al serenissimo principe di Venetia. </p>
+<p>Prima <lb/>
+n° 178 fin 179 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="145">
+<!--
+<p n="465vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>xi febraro 1619<ptr target="#tn5" n="5"/> ricevute a’ 26 </p>
+<p>Secretario Surian dall’Haya n° 178 <lb/>
+prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "lo … francese aggiunto in sopralinea su testo cifrato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Aggiunto in sopralinea su spedir depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Così A."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue ques depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Così A."</p></note>
+</div>
+</body>
+</text>
+</TEI>

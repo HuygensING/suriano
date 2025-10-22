@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.060 date 1621-09-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">060</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 310r-311v, 317r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">310r-311v, 317r-v, 312r-316v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Frederick V requests assistance of 50 000 florins per month from States General. Money is needed to support his armies in Palatinate urgently. Reports of a potential attack on Smolensk by the Russians. Rumours from France about the Duke de Guise. Reports that ambassadors have been appointed to arrange matters related to the East India Companies. Ambassador Carleton excuses the delay also in letters to the king. It looks unlikely that Langerak will be allowed to return from his embassy in Paris. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-09-27">27 settembre 1621</date>
+            <num>100, 101</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="100">
+<div type="main" facs="main text of letter" n="100">
+<!--<p>27 settembre 1621, L’Aia (cc. 310r-311v, 317r-v)</p>-->
+<pb n="310r" facs="10_310r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 333 comincia 332 </p>
+<p>Serenissimo Principe </p>
+<p>nonostante la solicitatione, che ’l Camerario consegliero del Re <lb/>
+palatino fa alli signori Stati per li cinquanta milla fiorini per mese <lb/>
+dubita egli medesimo di non poter spuntare: con tutto ciò non manca <lb/>
+al negotio, havendo anco questa mattina fatto capitar un <lb/>
+memoriale a sue Eccellenze, pregandole d’una buona, et presta <lb/>
+risolutione perché altrimenti il Re non poteva mantener il <lb/>
+suo essercito, et tutte le cose stavano in punto per andar <lb/>
+in desolatione. Gl’avvisi effettivamente, che si hanno <lb/>
+questa settimana non sono buoni perché Mansfelt si trova a <lb/>
+stretto termine di necessità di denari, et mi è stato detto, <lb/>
+che finalmente non essendo aiutato o egli, o almeno le sue <lb/>
+genti correranno a quella parte, dove troveranno <lb/>
+poter haverne; anzi ci è avviso, che l’Imperatore col <lb/>
+mezo del marchese di Hanspach procuri, che esso <lb/>
+Mansfelt si accommodi con la Maestà sua. Se sia per <lb/>
+farlo questi della corte del Re stanno in gran dubio; ma <lb/>
+vostra Serenità da più sicuro luoco ne haverà il certo. </p>
+<p>A Amburgh si trovavano nel territorio più di mille fanti <lb/>
+aspettando con parola del baron di Donà, ch’era andato <lb/>
+a trovar il re di Danimarca, et scrive l’agente di <lb/>
+questi signori residente in quella città, che andava<ptr target="#tn1" n="1"/> a <lb/>
+rischio tutta quella soldatesca di sbandarsi non havendo<ptr target="#tn2" n="2"/> <lb/>
+sicurezza, chi<ptr target="#tn3" n="3"/> l’havesse a sostenere con denari. Et <lb/>
+quei cittadini erano in travaglio perché non vorrebbono <lb/>
+esser sottoposti a tal gravezza, meno vorrebbono che <lb/>
+mancasse questo sussidio al Re. </p>
+<p>Le cose di questo Maestà<ptr target="#tn4" n="4"/> tanto nel Basso, che nell’Alto Palatinato par
+<pb n="310v" facs="10_310v" rend="0"/>
+che al presente caminino assai male tutto per mancamento di denari <lb/>
+non sa dove dar di capo. Qui hanno spese gravissime, et d’<lb/>
+Inghilterra non si può prometter alcuna cosa; onde si dubita <lb/>
+di mal in peggio. </p>
+<p>Si conferma per altre lettere l’arrivo nella Podolia dell’armi tur-<lb/>
+chesche, che dà non poco pensiero a questi signori et<ptr target="#tn5" n="5"/> veggono <lb/>
+che ’l re di Polonia si troverà molto stretto, mentre oltre<ptr target="#tn6" n="6"/> l’assedio <lb/>
+che Svetia ha posto a Riga<ptr target="#tn7" n="7"/> <lb/>
+un gentilhuomo venuto ultimamente di Polonia affer-<lb/>
+ma, che anco il Moscovita habbi in animo di venir <lb/>
+con forze sopra Smolensco. </p>
+<p>Risentono li signori Stati questi avvisi per l’interesse della christianità <lb/>
+et più quelli che vengono di Francia per rispetto della religione. </p>
+<p>Ci è qui un avviso, che s’è vero vostra Serenità lo saprà dal luoco <lb/>
+proprio, che la renitenza del duca di Guisa d’andar <lb/>
+alla corte sia per il sospetto che ha che dal Re s’habbi <lb/>
+scoperto ch’egli non amasse, che sua Maestà tentasse sì vivamente <lb/>
+l’oppressione delli ugonotti, dubitando con altri, che <lb/>
+s’intendevano seco, che poi pensasse di tenir bassa la <lb/>
+nobiltà, et li grandi della Francia, et che totalmente dovessero <lb/>
+esser dominati dal duca di Luines, et par che alcuno vor-<lb/>
+rebbe, che così seguisse di questa intrapositione. </p>
+<p>Ha quest’Ambasciator francese alle sue instanze ricevute pur<ptr target="#tn8" n="8"/> di <lb/>
+nuovo parole generali in risposta<ptr target="#tn9" n="9"/> con iscuse della <lb/>
+libertà del Paese, et di non haver havuta notitia dell’<lb/>
+armi uscite di qua, et adolciscono quanto possono l’<lb/>
+amaro; ma non può restar contento l’Ambasciatore di questo
+<pb n="311r" facs="10_311r" rend="0"/>
+come manco lo è per il fatto delli interessati, non havendo <lb/>
+ricevuto le sodisfattioni, che da loro si desiderava poiché <lb/>
+nonostante, che l’una parte dal milione et otto<ptr target="#tn10" n="10"/> centomilla <lb/>
+fiorini sia venuta a 700 mila et l’altra da 600 mila a mille <lb/>
+cinquecento di qua si sta su le prime offerte di dar <lb/>
+alli primi 200 mila, et all’altro trenta milla. Non hanno <lb/>
+voluto gl’interessati assentirvi<ptr target="#tn11" n="11"/>, né<ptr target="#tn12" n="12"/> accommodarsi ad <lb/>
+alcun giudicio, o arbitrio, et così partiranno assai <lb/>
+disgustati. </p>
+<p>Ha l’ambasciator d’Inghilterra più volte instato a questi signori tanto in publi-<lb/>
+co che in particolare la missione degl’ambasciatori per accommo-<lb/>
+damento del negotio tra le Compagnie dell’Indie Orientali <lb/>
+dell’una, et l’altra Natione; onde finalmente questi <lb/>
+di Holanda hanno risoluto per la parte loro nella <lb/>
+nominatione di doi soggetti uno il signor cavalier Arsen, <lb/>
+et l’altro il basso borgomastro d’Amsterdam. L’Arsen <lb/>
+ha tentato di esser iscusato portando diversi interessi <lb/>
+et<ptr target="#tn13" n="13"/> publici, et privati; ma la risolutione <lb/>
+resta ferma. Dice di voler tentare nei Stati Generali <lb/>
+di esser iscusato, non si crede, che l’avanzerà; anzi <lb/>
+viene tenuto, che facci questo più per capo di riputatione <lb/>
+che perché sia totalmente vera la volontà, che mostra <lb/>
+di esser<ptr target="#tn14" n="14"/> liberato dalla carica. Hora si aspetta, <lb/>
+che Zelandesi, come anc’essi interessati deputino persona <lb/>
+per loro parte, et è stato scritto a Midelburgh, ove <lb/>
+sono ridotti quei Stati solicitando la risolutione. <lb/>
+Il signor ambasciator Carleton è andato iscusando sempre tal
+<pb n="311v" facs="10_311v" rend="0"/>
+dilatione<ptr target="#tn15" n="15"/>, et a me ha detto di haver scritto al Re con <lb/>
+quest’ultimo dispaccio, che si compiacesse esser certo che <lb/>
+qui ci sia ottima volontà, et riverente rispetto verso <lb/>
+la Maestà sua; ma che questa dilatione non deve <lb/>
+esser attribuita ad altro, che al solo difetto del Governo. </p>
+<p>Hora spedito questo negotio s’attende a quello dell’ambasceria per <lb/>
+costì pare, che la persona di monsignor di Langarach non sia <lb/>
+approbbata particolarmente coll’avviso del signor principe Mauritio <lb/>
+non stimandosi bene ritirar quel Ministro dalla corte di <lb/>
+Francia particolarmente nelle presenti congiunture, né trovandosi <lb/>
+ancor bene questa Republica con quella Corona; et dubi-<lb/>
+tando, che altro soggetto che vi si mandasse riesca <lb/>
+poco grato. Molti concorrono in questa opinione <lb/>
+tuttavia, m’ha detto il signor Arsen, che hoggi ho veduto <lb/>
+che si farà nuovo tentativo per il medesimo Langarach; ma <lb/>
+non riuscendo si piglierà altro soggetto honorato, et degno <lb/>
+della carica. Et che si sarebbe terminato anco questo. Già <lb/>
+che ’l negotio è in mano me ne<ptr target="#tn16" n="16"/> prometto la speditione. </p>
+<p>Se bene viene presuposto dalli parenti di monsieur Thienen <lb/>
+stato al servitio di vostra Serenità et che hora si trova al campo con sua <lb/>
+Eccellenza con la carica per provisione di quartiermastro generale <lb/>
+in luoco dell’absente, ch’è in Oranges, che da lei li sia <lb/>
+stata dichiarita buona la licenza, che gli concesse per sei mesi <lb/>
+come la pregai in nome di lui a’ 9 del passato: tuttavia <lb/>
+mi hanno fatto instanza di rinovar come faccio l’ufficio. </p>
+<p>Ho avviso, che in Amsterdam sia ritornato il Nichetti mercante che <lb/>
+falli, et che tenti accommodarsi con<ptr target="#tn17" n="17"/> li suoi creditori. Gratie etc. </p>
+<p>Dall’Haya li 27 settembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="317r" facs="10_317r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="317v" facs="10_317v" rend="270"/>
+<p>Articoli sopra quali è ridotta <lb/>
+l’assemblea d’Holanda per deliberarvi <lb/>
+sopra </p>
+<p>nella prima n° 332 </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="100">
+<!--
+<p n="317vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>[27] settembre 1621 ricevute 14 ottobre </p>
+<p>Haya. n° 333 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="101" corresp="100" source="312r-316v" >
+<div type="main" facs="main text of attachment I" n="101" corresp="100" >
+<!--<p>Allegato I al n. 100 (cc. 312r-316v)</p>-->
+<pb n="312r" facs="10_312r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Articoli sopra li quali si congregaranno li signori <lb/>
+cavalieri nobili et città di Holanda, et Westfrisia <lb/>
+nell’Haya ai 6 di settembre 1621 </p>
+<p>Saranno prese<ptr target="#tn18" n="18"/> in mano nell’assemblea le ordinationi fatte sopra l’affito <lb/>
+delli beni, et li mezi pratticati nel tempo passato, et la correttione, <lb/>
+che di essi per commune risolutione si doverà fare o sarà <lb/>
+rimercata dalli consigli o sia da alcuni membri dell’assemblea. <lb/>
+Doppo sarà proceduto alla confermatione di essi per lettere publiche <lb/>
+a questo convenienti a’ fine di far le attestationi in conformità di esse. </p>
+<p>Li detti signori et città compariranno per consultare, et risolvere sopra <lb/>
+tutto ciò che servirà per mettere in prattica le dette ordinationi. </p>
+<p>Item per consultare, et risolvere se per avantaggiar li datii posti sopra <lb/>
+la bira non fosse meglio per il bene del Paese che l’affito <lb/>
+di esse durasse per un anno perché li affitatori si dogliono dicendo <lb/>
+che mez’anno non basta per accomodar bene l’ordine del suo <lb/>
+affito. </p>
+<p>Item che vengano a consultare sopra la cota straordinaria di questa <lb/>
+Provincia della summa di doicento milla fiorini per una volta in <lb/>
+conformità dell’instanza di sua Eccellenza et del Consiglio di Stato <lb/>
+fatta alli vinti tre di giugno per trattenire otto compagnie di <lb/>
+soldati a piedi fatte nel Palatinato, et di doicento cinquanta <lb/>
+a cavallo fatte di nuove il tutto raccommandato per lettere <lb/>
+delli signori Stati Generali della stessa data, et di sua Eccellenza con il <lb/>
+Consiglio di Stato qui aggiunte numero uno. </p>
+<p>Sendosi fatte diverse levate di soldati per la difesa del Paese nelle <lb/>
+quali li detti nobili, et città hanno come fideli patriotti, et <lb/>
+difensori del Paese acconsentito delle quali, la paga per mese <lb/>
+importa assai. La intrata ricolta delli mezi ordinarii che <lb/>
+non s’ha potuto fare senza grande aggravio del Paese come <lb/>
+ancora non si potrà continuar la guerra senza haver intrata
+<pb n="312v" facs="10_312v" rend="0"/>
+ferma, et equipolente sopra che si possi fondare et continuare <lb/>
+la guerra per non metter in confusione lo Stato sono richiesti <lb/>
+di detti signori, et città di consultare, avvisare, per risolver di <lb/>
+trovar nuovi mezi o col far crescer li vecchi sino alla summa <lb/>
+che possi bastare a’ fine che siano rimborsati li debiti decorsi da <lb/>
+finanse fatti per l’anno currente, et riparate dell’anno passato. </p>
+<p>Al qual fine potrebbono servire li doi piacchi sopra ogni tonnello di <lb/>
+bira alla carica di quelli, che la fanno, il che è stato ancora <lb/>
+pratticato con grande avantaggio del Paese sopra che consulteranno <lb/>
+et avviseranno li detti signori, et città. </p>
+<p>Ancora di metter qualche datio sopra la bira che si consumma nelli <lb/>
+vasselli la quale non doverebbe esser del tutto francha attenta la <lb/>
+necessità del Paese, come non è nele vicine provincie. </p>
+<p>Per liberarsi dalle fraudi nelle bire li detti signori consulteranno et rice-<lb/>
+veranno ancor essi di metter<ptr target="#tn19" n="19"/> ordine contra li inganni. </p>
+<p>Sendo assai aggravato il Paese è necessario trovar grandi mezi per egualiar <lb/>
+li aggravii et metter in fermo lo stato del Paese sono però <lb/>
+richiesti li membri che si mostrano difficili, a metter innanti gl’occhi <lb/>
+che lo stato del Paese deve esser adiutato, et in fine radrizzati, et <lb/>
+egualati li carichi posti sopra le città, et il territorio alsando li <lb/>
+bassi aggravii alli alti, a’ fine di poter fornire di tal maniera <lb/>
+alle spese per il trattenimento dello stato del Paese. </p>
+<p>Che li detti signori et città adiutino a risolver la disputa delle cinque <lb/>
+spetie cioè bira, vino, drappo, sale, sapone, per levare il <lb/>
+grande inganno che si fa nello scrivere di che non vi è che <lb/>
+habbi il profitto se non alcuni astuti ingannatori et ladri dei <lb/>
+beni communi. </p>
+<pb n="313r" facs="10_313r" rend="0"/>
+<p>Item per metter meglio ordine sopra la ricolta del quarantesimo <lb/>
+et trentesimo, denaro, a’ fine che venga senza fraude nelli <lb/>
+c[o]ntori<ptr target="#tn20" n="20"/> del Paese prohibendo sotto grave pena di<ptr target="#tn21" n="21"/> non pigliare <lb/>
+in mano le lettere delle rendite, o altre<ptr target="#tn22" n="22"/> hypoth(ech)e<ptr target="#tn23" n="23"/> o pegno <lb/>
+senza pagare il detto quarantesimo o trentesimo. </p>
+<p>Sendo le case caricate al più et le terre quando si fa la alienatione <lb/>
+di esse la ragione non permitte che li vasselli siano tutti franchi <lb/>
+per tanto li detti signori et città adiuteranno a metter qualche <lb/>
+aggravio sopra l’alienatione, delli detti vasselli, come parerà <lb/>
+convenire, et pensino ad oviare agl’inganni al più gran <lb/>
+profitto del Paese. </p>
+<p>Item che li detti signori et città, vengino per consultare avvisare <lb/>
+et risolver se si potesse metter un dattio d’una meza piaccha <lb/>
+sopra ogni lasto de’ beni che si portano con vasselli per il <lb/>
+Paese, et da un luogo a l’altro sia il vassello picciolo <lb/>
+o grando da esser dimandato questo datio dai matelotti<ptr target="#tn24" n="24"/> che <lb/>
+essi lo domanderanno di sopra più del suo nolo, et per <lb/>
+trovar nella costa di questo un piede sicuro. </p>
+<p>Item se non si potesse praticare che tutti li vasselli nel viaggiare <lb/>
+dovessero esser assicurati dal Paese una volta per anno con un <lb/>
+fiorino per lasto secondo la sua grandezza nel viaggio ordinario <lb/>
+o per misso perché il Paese havesse a restituir dieci per uno <lb/>
+et che l’intrata della detta sicurtà fosse inpiegata alla <lb/>
+guerra del Paese facendo a questo fine alcuni<ptr target="#tn25" n="25"/> cantori con <lb/>
+le sue ordinationi. </p>
+<p>Et come nel’ultima assemblea hanno le città acconsentito di fornire
+<pb n="313v" facs="10_313v" rend="0"/>
+tra li mesi di luglio, et agosto<ptr target="#tn26" n="26"/> sopra le tasse del milesimo <lb/>
+quattrocento milla fiorini, et ciò per interesse di mez’anno veniranno <lb/>
+li detti signori et città, a consultare, avvisare, et risolver per <lb/>
+trovare alcuni mezi proprii per li quali essi potessero esser<ptr target="#tn27" n="27"/> rim-<lb/>
+borsati con l’interesse de<ptr target="#tn28" n="28"/> corso et con le rendite delle città per <lb/>
+questo anno non pagate ancora per consultare se non si potesse <lb/>
+trovar un mezo più ispediente come un doppio milesimo <lb/>
+facendo così radrizzare le tasse. </p>
+<p>Ancora vengino a consultare di trovar mezi per li quali di danari <lb/>
+per anticipatione ricevuti nelli mesi<ptr target="#tn29" n="29"/> di settembre, ottobre, <lb/>
+novembre, et decembre fossero rimborsati. </p>
+<p>Item per metter ordine sopra l’oro, et argento<ptr target="#tn30" n="30"/> lavorato et <lb/>
+impedire che non sia portato nel Paese argento sempliche, o <lb/>
+argento d’orarto<ptr target="#tn31" n="31"/> fabricati fuori che è di molta più bassa liga <lb/>
+di quello fatto nel Paese a’ fine che l’arte ancora non venisse <lb/>
+a decadere et li artefeci, se ne partissero per andar dove haves-<lb/>
+sero più da lavorare a gran pregiudicio del Paese. </p>
+<p>Item come si potrebbe far un corpo provisionale della Compagnia <lb/>
+delle Indie Occidentali per comparere alcune volte, et risolver <lb/>
+sopra tutte occorrenze ove sarà consultato sopra la promotione <lb/>
+della detta Compagnia in conformità di ciò che li signori Stati <lb/>
+Generali hanno scritto alle provincie in data di 6 di questo <lb/>
+qua iungta la copia numero tre. </p>
+<p>Item avvisare, et risolver sopra richiesta del signor conte di Culenz-<lb/>
+burgh a’ fine che possi pervenire alli feudi<ptr target="#tn32" n="32"/> schaduti <lb/>
+signorie basse di Eem Eemkercke, Upalm, Opalm, et Wensater,<ptr target="#tn33" n="33"/> Water. </p>
+<pb n="314r" facs="10_314r" rend="0"/>
+<p>In conformità della sua dimanda generale fatta a tal fine per <lb/>
+copia qua aggiunta con l’avviso mandato dalla Camera di <lb/>
+conti nell’anno passato sotto numero 4. </p>
+<p>Item per metter ordine nella gran schaduta della moneta <lb/>
+et trovare in piedi fermo di qual maniera le doi monete <lb/>
+del Paese potessero esser egualate, et per egualar l’uno all’<lb/>
+altra nelli materiali havendo uno battuto moneta fino ad <lb/>
+un certo numero doverà trattenirsi sin tanto che l’altro <lb/>
+haverà fatto altretanto per impedir la corrutione<ptr target="#tn34" n="34"/> <lb/>
+della moneta il che potria seguire tirando l’uno<ptr target="#tn35" n="35"/> a sé <lb/>
+il travaglio dell’altro. </p>
+<p>Item per avvisare, et adiutar a risolver come la deliberatione <lb/>
+publiche sopra li materiali della moneta fossero osservate in <lb/>
+maniera che le contraventioni fossero impedite. </p>
+<p>Item se non serveria a profitto del Paese per<ptr target="#tn36" n="36"/> impedire tutti <lb/>
+li disordini nella moneta di ordinare, che tutti li mezi, et datii <lb/>
+del Paese dovessero esser pagati alli<ptr target="#tn37" n="37"/> ricevitori in<ptr target="#tn38" n="38"/> <lb/>
+taleri di Holanda o altri denari valutati ad essi. </p>
+<p>Item che di qua innanti tutte lettere di rendite di cassa obliga-<lb/>
+tioni notariali et altri publichi strumenti<ptr target="#tn39" n="39"/> di stipulare et <lb/>
+constituire saranno pagate, et sodisfatte in taleri di <lb/>
+Holanda o altra moneta valutata al pretio, et come, li <lb/>
+medesimi nella constitutione delle rendite saranno valutati al <lb/>
+pretio del talero di Holanda caricando tutti li giudici <lb/>
+al far iustitia in conformità di quello. </p>
+<p>Item consultare, avvisare, et risolver se non sarebbe per il
+<pb n="314v" facs="10_314v" rend="0"/>
+profitto del Paese che tutti li magistrati del Paese promettessero <lb/>
+con giuramento di mantenere la vera riformata religione in conformità <lb/>
+delli canoni del sinodo nationale di Dordrecht senza fare o <lb/>
+attentare o permitter che fosse fatto o attentato contro di essi. </p>
+<p>Item che tutti li collegii vassali corti et altri officiali che han[no] <lb/>
+dritto di<ptr target="#tn40" n="40"/> eleger, o mettere<ptr target="#tn41" n="41"/> scutelo magistrato <lb/>
+schevino secretario<ptr target="#tn42" n="42"/> hussiero o altri officiali siano command[ati] <lb/>
+di non pigliare altro alli detti carichi se non quelli che havendo <lb/>
+la qualità di essercitar la carica siano ancora affettionati <lb/>
+alla detta religione, et facendo il contrario, li signori Stati Generali <lb/>
+allhora metteranno un altro affettionato alla detta<ptr target="#tn43" n="43"/> reli-<lb/>
+gione. </p>
+<p>Item se non saria buono per il stato del Paese prohibire per <lb/>
+ordine publico che alcuno di qual qualità si sia delli sudit[i] <lb/>
+del Paese senza espressa commissione di quelli che sono nel <lb/>
+Governo possi mandare alcun avviso toccante lo stato del <lb/>
+Paese né dentro né fuori di esso né manco tenir alcuna <lb/>
+corrispondenza, eccetto però che li commissi potranno tenir <lb/>
+corrispondenza<ptr target="#tn44" n="44"/> con li savi, che respectivamente li hanno <lb/>
+comissi<ptr target="#tn45" n="45"/> secondo l’ordine, et instruttione delle respettive <lb/>
+assemblee et colleggii. </p>
+<p>Item per consultare, et risolver che alcun suddito stando in quel <lb/>
+Paese potrà esser nel servitio di alcun principe straniero, et <lb/>
+per impedire inconvenienti nati da questo. </p>
+<p>Come diverse rendite si affiteranno per il<ptr target="#tn46" n="46"/> mese di ottobre veniran[no] <lb/>
+ancora li detti signori et città risoluti et caricati per commi[…]
+<pb n="315r" facs="10_315r" rend="0"/>
+in tempo commissarii al detto affitto, et provedirli di carica, et <lb/>
+instruttione bastante. </p>
+<p>Et perché nell’ultima assemblea si sono fatte diverse deputationi <lb/>
+sopra diversi articoli, et rivenute del Paese siano avvertiti <lb/>
+li detti signori, et città considerarli maturamente a’ fine che <lb/>
+li affari possino esser finiti, et fatto rapporto per poter in ciò <lb/>
+esser posto ordine avanti<ptr target="#tn47" n="47"/> l’affitatione principalmente <lb/>
+sopra la ordinatione, fattasi delle Telle, et delli Cambrai. </p>
+<p>Item che consultino avvisino, et risolvino, se non saria per il pro-<lb/>
+fitto del Paese prohibire, per lettere publiche che nesuno <lb/>
+stando in questo Paese paghi contributione all’inimico dove quello <lb/>
+non è publicamente permesso<ptr target="#tn48" n="48"/> di fare, né meno possi pigliare <lb/>
+o ricever alcuna salvaguardia o lettere di sicurtà in qualunque <lb/>
+maniera si fosse o di pagare, per questo cosa alcuna all’<lb/>
+inimico sotto qual si voglia pretesto sotto gravi pene da esser <lb/>
+ordinate contra li contravenienti, ancora che il fatto fosse <lb/>
+scoperto lungo tempo doppo. </p>
+<p>Et come l’inimico si avanza<ptr target="#tn49" n="49"/> ad affitare le terre<ptr target="#tn50" n="50"/> <lb/>
+decine et altre entrate ancora delli ecclesiastichi loro domnii <lb/>
+et altri beni quivi appartenenti che vengano per consultare <lb/>
+et<ptr target="#tn51" n="51"/> risolver se dalla parte di questo Stato non si possi fare <lb/>
+lo stesso rispetto alle terre ecclesiastiche, et domnii <lb/>
+sittuati nelle città, et paesi dove li signori Stati tirono <lb/>
+contributioni appartinenti alli collegii, et signori che si tengono <lb/>
+presso il nemico. </p>
+<p>Nella detta assemblea sarà ancora ben essaminato sopra tutti li
+<pb n="315v" facs="10_315v" rend="0"/>
+affari che sono stati proposti nelle precedenti assemblee, et che non <lb/>
+si sono terminati, come ancora sopra tutti li altri li quali potessero <lb/>
+presentarsi mentre che durerà quella assemblea in quanto ricer-<lb/>
+cherà<ptr target="#tn52" n="52"/> il servitio riposo et sicurtà de’ Paesi Bassi Uniti in <lb/>
+commune, et li paesi di Holanda, et West Frisia in <lb/>
+particolare, et delli confederati. Et sono ricercati li signori <lb/>
+et città di mitter il tutto in matura consideratione<ptr target="#tn53" n="53"/>, et di <lb/>
+venir ben risoluti. Le città, mandar suoi deputati con <lb/>
+piena facultà di aiutare a finire il tutto effettivamente <lb/>
+da potersi conformare alle più<ptr target="#tn54" n="54"/> voci. Fatto nell’Haiia<ptr target="#tn55" n="55"/> <lb/>
+a’ dì undeci agosto 1621. </p>
+<p>Post scritta </p>
+<p>Come le<ptr target="#tn56" n="56"/> cose di Bohemia, et Ongaria per singular aiuto <lb/>
+di Dio cominciano haver un altro corso, et facilmente potrebbono havere <lb/>
+una tal mutatione che così potrebbono di qua quelli<ptr target="#tn57" n="57"/> <lb/>
+ricever notabil sollievo nelle sue guerre in caso che fossero <lb/>
+li diti soccorsi in qualche modo et per questo il re di <lb/>
+Bohemia è deliberato di non abandonarle ma adiutarle con <lb/>
+forse se le suoi amici li vogliono dare in questa assistenza et <lb/>
+per tanto a tal fine sia richiesto a dì diecisette di agosto <lb/>
+dalli signori Stati Generali assistenza per 3 mesi con cinquanta <lb/>
+milla fiorini per mese. Risolveranno ancora li detti signori <lb/>
+et città, et consiglieranno, et avviseranno, se per servitio <lb/>
+del Paese non saria buono accordarle questa instanza almeno
+<pb n="316r" facs="10_316r" rend="0"/>
+sotto promessa di restitutione quando le sue cause saranno riparate <lb/>
+o havendo ripigliata la corona, o essendo ritornato alli suoi <lb/>
+beni. </p>
+<p>Item per consultare, et risolver, se per il beneficio delli datii <lb/>
+sopra il pesare non saria profitto che li detti datii per tutto <lb/>
+insieme fossero dati ad affitto et che in questi non saranno <lb/>
+permesse alcune conpositioni. </p>
+<pb n="316v" facs="10_316v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-endo" corrected above "-eva", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected above "e"; followed by "egli" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "un gentil’huomo venuto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-ta" corrected above -"a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "o-" corrected above "se."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-rv-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "n-" corrected above "i."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "sol" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Second "-i-" corrected above "t."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Corrected above "lo."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-e c"corrected on "i-"</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> First "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Ink stain.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-e" corrected above -"i."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Abbreviation sign is missing, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "m-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-o-" corrected above "-u-."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "i" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-e" corrected above -"i."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-s-" corrected above -"z-."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "lub" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "dall" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Followed by "alle" crossed out.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Corrected above "l", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Followed by "daleri" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "-u-" corrected above -"o-."</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Followed by "elle" crossed out.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Followed by "V" crossed out.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Followed by "reg" crossed out.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> Followed by deleted words.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> Precedes "premisse" crossed out.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> Second "-e-" corrected above -"i-."</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> Followed by "si habbino" crossed out.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> Followed by "da" crossed out.</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> "-h-" corrected above -"a-."</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> "-e" corrected above -"i."</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> Followed by "verbi" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> Corrected above "di."</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> Followed by "paesi" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

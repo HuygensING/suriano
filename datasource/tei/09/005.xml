@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.005 date 1620-03-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 19r-21v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp201-219
+            </note>
+            <biblScope unit="page">19r-21v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Herman Otto I van Limburg Stirum and Johann Ernst I, Duke of Saxe-Weimar has difficulty raising troops because few people are willing to undertake the journey. Rumours that Baviera wishes to remain neutral but Pasini reports that four of his lieutenants have arrived in Brussels. From frontier cities, they received news that the Archduke are increasing their military units and Pellicart, French ambassador in Brussels, again report that the French king will support the Empire with 20000 infantry and 2000 cavalry. News from Hamburg that the Duke of lunenburg took control of an island in the river to get hold of their taxes. Carleton has notified the States James I wants to settle the issue of the fishing rights. Maurice confides to Suriano that the Spanish are behind this request, as there are more important matters that need a resolution. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-17">17 marzo 1620</date>
+            <num>007</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="007">
+<div type="main" facs="main text of letter" n="007">
+<!--<p>17 marzo 1620, L’Aia (cc. 19r-21v)</p>-->
+<pb n="019r" facs="09_019r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 187 comincia <lb/>
+185 </p>
+<p>Serenissimo Principe </p>
+<p>trova il conte di Stiron assai difficoltà per far li 150 cavalli <lb/>
+principalmente per quelli che li sono stati permessi di tirar <lb/>
+dalle compagnie, perché non trova chi vogli far il viaggio, <lb/>
+né alcuno lo vuole intraprender, che non sia assicurato, che <lb/>
+la moglie, et figlioli saranno trattenuti mentre starà<ptr target="#tn1" n="1"/> <lb/>
+absente<ptr target="#tn2" n="2"/>. Volendo questi inferire, che non vogliono <lb/>
+lasciar un servizio certo<ptr target="#tn3" n="3"/> per uno dubioso, et di poco <lb/>
+profitto. </p>
+<p>La medesima difficoltà non ha dubio proverà questo duca di Wimaer, <lb/>
+o di Sassonia quanto alla permisione havuta di ritirar <lb/>
+anc’egli un huomo da piedi per ogni compagnia alemana, <lb/>
+che infine si è ridotto di levarlo dal solo reggimento <lb/>
+del signor conte Ernesto Casimiro di Nassau, et non levar in <lb/>
+quello della Marca, che quattro compagnie di 300 fanti <lb/>
+l’una, et il resto farà in Alemagna. </p>
+<p>Ha instato di haver qualche avanzo di denaro sopra la <lb/>
+summa, che signori Stati pagano a’ Bohemi; et assicurati <lb/>
+questi signori che sarà approbato li hanno accordati <lb/>
+vintimilla fiorini. Hora solecita haver piazza <lb/>
+d’armi, et scorta per la sicurtà del passaggio. </p>
+<p>Mi disse sua Eccellenza quando fui seco che pensava l’arcivescovo di <lb/>
+Magonza il baron d’Anolt, et qualche altro di far passar <lb/>
+anco le loro levate con quelle di Baviera, unendosi <lb/>
+insieme; ma che li principi glielo hanno vietato
+<pb n="019v" facs="09_019v" rend="0"/>
+onde hanno convenuto tornarsene, et passar il Reno, et <lb/>
+di là condursi se ben per lungo, et faticoso camino in <lb/>
+Alsatia, et poi ad unirsi colle truppe dell’Imperatore. </p>
+<p>Fa tuttavia correr voce Baviera da questa parte, che vuol <lb/>
+mantenersi neutrale; ma mi scrive il Pasini, che dovevano <lb/>
+partir alla volta di quel Principe quattro soggetti quali-<lb/>
+ficati che gli mandano li serenissimi arciduchi. Sono 3 sargenti <lb/>
+maggiori uno d’Irlandesi, et doi d’Alemani; et uno è <lb/>
+di Avignone con pensione di 250 fiorini di Alemagna per <lb/>
+mese per cadauno, et mille fiorini per far il viaggio con titolo <lb/>
+di consiglieri nel Consiglio di guerra. Onde la Serenità vostra <lb/>
+può formarne il suo prudentissimo giudicio. </p>
+<p>Di levate si parla tuttavia di farne dalla parte dei serenissimi <lb/>
+arciduchi, et par che per venirne ad effetto non si aspetti <lb/>
+altro che ’l ritorno di Spagna di don Francesco di Medina <lb/>
+speditovi il mese passato per informar quella Maestà del stato <lb/>
+delle cose. </p>
+<p>Intanto li signori Stati sono avvisati dalle sue piazze frontiere <lb/>
+che serenissimi arciduchi facevano ingrossar le compagnie così pian <lb/>
+piano senza far gran strepito: onde questi signori si vanno <lb/>
+anc’essi risolvendo a pensar bene ai loro affari, et l’ambasciata <lb/>
+solenne destinata da Francia per Alemagna da qui qualche <lb/>
+gelosia del fine, sendo così straordinaria la missione. Et sono <lb/>
+avvisati che monsignor Pelicart ambasciator del Christianissimo a Brusseles
+<pb n="020r" facs="09_020r" rend="0"/>
+habbi detto che ’l suo Re era risoluto di assister all’Imperatore <lb/>
+con 20 mila fanti, et dua milla cavalli, che sarebbono commandati <lb/>
+dal duca di Guisa. Ben che mandava un’ambasciata <lb/>
+per veder di accommodar l’Imperatore col serenissimo Palatino, <lb/>
+et se questo non si fosse messo alla ragione allhora si <lb/>
+dichiarerebbe<ptr target="#tn4" n="4"/> per sua Maestà cesarea. Vostra Serenità doverà haver <lb/>
+migliori avvisi qui questo Ambasciator francese non parla <lb/>
+di tal maniera. </p>
+<p>Qua si trova uno per la città di Hamburgh venuto a dar parte <lb/>
+della surpresa fatta dal duca di Lunenburgh di certo forte sopra <lb/>
+un’isola nella riviera di detta città, ch’è ove per essa si piglia <lb/>
+il datio dell’entrata, et uscita de’ vasselli, et questo sotto <lb/>
+pretesto di essentione di sententia della camera di <lb/>
+Spira; della quale hanno però quelli d’Hamburgh havuto <lb/>
+anco dichiaratione dalla medesima Camera per la revisione <lb/>
+et che perciò dovevano tutte le cose restar nello stato suo <lb/>
+par che questo faccia instanza di soccorso in virtù dell’<lb/>
+aleanza generale, che questi signori hanno con le città <lb/>
+ansiatiche, ma sue Eccellenze<ptr target="#tn5" n="5"/> fanno diversa l’interpretatione <lb/>
+per esser questo negotio di particolar interesse. </p>
+<p>Il signor ambasciator Carleton a nome del suo Re ha fatto saper a’ signori Stati <lb/>
+voler sua Maestà che si venga alla fine del negotio delle <lb/>
+pesche: accennando, che se vogliono questi del Paese <lb/>
+pescare devono riconoscerlo dalla Maestà sua, et darne
+<pb n="020v" facs="09_020v" rend="0"/>
+la conveniente recognitione, portando l’ufficio con concetti <lb/>
+molto pieni. Ha parso molto strano massime ne’ tempi <lb/>
+presenti, et mentre si ha da trattar cose di maggior momento, <lb/>
+che concernono il servitio dell’Alemagna, de’ Bohemi, et del <lb/>
+genero di sua Maestà al quale mostravano pure tutto l’affetto <lb/>
+possibile per la conservatione della corona in capo di lui, <lb/>
+et essagerano assai contra una tal propositione, et sua Eccellenza <lb/>
+con gran confidenza n’essaggerò meco quel giorno, che fui <lb/>
+a lei; et disse ch’era impossibile che ’l Re potesse haver la <lb/>
+sodisfattione, che pretendeva perché per questa pesca le <lb/>
+genti di questo Paese lasciaranno di assister, et soccorrer <lb/>
+altri, et faranno la guerra. Facendosi conto, che vivino <lb/>
+da 30 in 40 mila persone et forse più di detta pesca, et del <lb/>
+trafico d’essa. Et in fine concluse l’Eccellenza sua et conclude <lb/>
+ognuno, che questi siano eccitamenti, et fomenti spagnoli <lb/>
+li quali come hanno tentato di staccar l’animo della Francia <lb/>
+da queste Provincie, così tentano di far anco il medesimo <lb/>
+di quello d’Inghilterra. Pensano alla risposta, che haverà <lb/>
+per fondamento il procurar di divertir dal Re il pensiero <lb/>
+da questo aromatico negotio; o almeno duranti le <lb/>
+presenti congionture. Gratie etc. </p>
+<p>Dall’Haya li 17 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="021r" facs="09_021r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="021v" facs="09_021v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 187 comincia <lb/>
+185<ptr target="#tn6" n="6"/> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="007">
+<!--
+<p n="021vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 marzo 1620 ricevute a primo aprile </p>
+<p>Haia. n° 187 </p>
+<p>Avisi diversi. </p>
+<p>Instanza d’Inghilterra per diffinir <lb/>
+il negotio delle pesche: stimato <lb/>
+artifitio. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" corrected above "-i." Precedes "nell" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "c-" corrected above "p-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ere-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "sue Eccellenze" added above the line on "questi signori" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.073 date 1617-08-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">073</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 391r-393bisv</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">391r-393bis v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports delay as two ships are still in Amsterdam </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-29">29 agosto 1617</date>
+            <num>125</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>29 agosto 1617, L’Aia (cc. 391r-393bis v)</p>-->
+<pb n="391r" facs="04_391r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>vostra Serenità haverà inteso dalle precedenti lettere mie l’occasione <lb/>
+del ritardo all’ispeditione della levata del signor conte di Levenstein, <lb/>
+et tuttavia sono ancora in Amsterdam doi navi, che non sono <lb/>
+del tutto ad ordine; et una era ad Huoron, che già sarà <lb/>
+partita per Delfsil. </p>
+<p>Li signori Stati Generali giovedì passato mandorono a me un suo <lb/>
+deputato per farmi sapere, che ’l Quast, ch’è quello, che <lb/>
+deve commandar alle navi di guerra, che passano alla <lb/>
+volta di Barberia per difender queste navi di trafico <lb/>
+da quelle de’<ptr target="#tn1" n="1"/> Corsari haveva havute le sue commissioni <lb/>
+et che non poteva differir più il partir suo, che al <lb/>
+sabbato sussequente, che però se ’l signor Conte fosse stato ad <lb/>
+ordine colli suoi vasselli, et imbarco haveriano sentito <lb/>
+contento, che havesse potuto far vela con questa <lb/>
+buona compagnia. Io, ringratiati li signori Stati del favore, <lb/>
+risposi al detto gentilhuomo, che ’l tempo era tanto <lb/>
+ristretto, che non vi vedevo alcuna apparenza, <lb/>
+che ’l signor Conte potesse non solo accompagnarsi; ma né <lb/>
+anco seguitar poco appresso; onde era necessario, che <lb/>
+sue Signorie già che tanto facevano per il detto signore,
+<pb n="391v" facs="04_391v" rend="0"/>
+che voleva dir per la serenissima Republica, commandassero al detto capo <lb/>
+Quast, che diferisce ancora per qualche giorni l’uscita. Mi <lb/>
+rispose, che non era possibile perché già haveva havute le <lb/>
+sue commissioni; et doveva partir di qua la sera, o la <lb/>
+mattina seguente. Io aggiunsi, che lo haverei fatto saper <lb/>
+al signor Conte, et da lì a poco andai a trovar il presidente di <lb/>
+Frisia, che mi affermò il medesimo, et mi disse, che quanto <lb/>
+si poteva fare era che si procurasse di parlar al Quast <lb/>
+et tentar d’indurlo ad andare trattenendo qualche <lb/>
+giorno; ma che l’ordine l’haveva havuto risoluto di <lb/>
+partire, se si havesse trattato di cinque o sei giorni haveva <lb/>
+tentato appresso questi signori di haver la gratia; ma sapendo <lb/>
+che le cose ricercavano più lunghezza di tempo, com’è <lb/>
+in effetto, non m’è bastato l’animo fare l’instanza. <lb/>
+Feci trovar detto Capitano, che venne appresso di me, et con <lb/>
+ogni possibil maniera cercai d’indurlo ad aspettare; ma <lb/>
+egli disse, che il solo cambiamento di tempo haverebbe <lb/>
+potuto ritenerlo nel porto del Tessel; ma non altra <lb/>
+iscusa, havendo havuto le commissioni molto chiare <lb/>
+et risolute del partire. Con tutto ciò mi addimandò
+<pb n="392r" facs="04_392r" rend="0"/>
+quando il signor Conte sarebbe stato pronto. Io gli risposi, che non <lb/>
+lo sapevo di certo, che credevo presto; ma pur per assicurar-<lb/>
+sene poteva nell’andar ad Encusen far la stradda di <lb/>
+Amsterdam, et intender dal Conte quello, che occorreva <lb/>
+né anco in questo volse compiacermi, dicendo, che non <lb/>
+poteva in alcuna maniera, che andar a drittura ad <lb/>
+Encusen, che se il Conte havesse voluto poteva andar là a <lb/>
+parlarli (così si tratta in questi paesi). Con questo io <lb/>
+la sera stessa ispedii al signor Conte acciò che vi avvisasse <lb/>
+sopra, et egli sabbato mattina ha ispedito ad Encusen <lb/>
+il suo secretario per procurar d’indur il Capitano ad aspettarlo <lb/>
+overo uscendo trattenersi alla costa d’Inghilterra. Gli ha <lb/>
+mandata qualche cosa da presentarli per veder pure <lb/>
+se può farlo condescender. Ancor non ho avviso <lb/>
+dell’effetto, o del frutto, che si haverà cavato. <lb/>
+Quello che mandai al signor Conte mi referisce haver vedute <lb/>
+in Amsterdam le doi navi, che hanno da servir per <lb/>
+esso Conte et per il fratello di lui, che si calafatavano <lb/>
+et si andavano con ogni solecitudine apprestando; <lb/>
+ma mi disse, che non credeva certo, che dovessero esser
+<pb n="392v" facs="04_392v" rend="0"/>
+del tutto all’ordine, et alla vela per uscire, che per la fine della <lb/>
+presente settimana; se ben il signor Conte con lettere, che habbi sabbato <lb/>
+da lui mi diceva sperar di essere appresso di me per venerdì <lb/>
+prossimo; ma ha detto però, ch’egli non vuole in maniera <lb/>
+alcuna partire di là, che prima non vegga fuori le <lb/>
+dette navi, perché purtroppo tardano anco colla quotidiana <lb/>
+sua presenza. </p>
+<p>Io credo, che a quest’hora tutto il reggimento delli<ptr target="#tn2" n="2"/> <lb/>
+tre milla fanti sia ad ordine parte a Delfsil, parte <lb/>
+nel contorno, et altri nelle navi già arrivate a quel <lb/>
+porto, poiché fino con lettere de’ 21 dello stante scritte-<lb/>
+mi dal signor conte Guglielmo Lodovico di Nassau ho avu[to]<ptr target="#tn3" n="3"/> <lb/>
+che vi erano doi milla huomini in circa per la maggior <lb/>
+parte buoni<ptr target="#tn4" n="4"/>, et vecchi soldati; così appunto mi dice. <lb/>
+Io patisco con impatienza, perché temo sempre dei disordini <lb/>
+de’ soldati, et vorrei pure, che vostra Serenità fosse prontamente <lb/>
+servita. Dal Conte non si manca; né il mio sollecitar f[…]<ptr target="#tn5" n="5"/> <lb/>
+che marinari restino di mancar del loro debito, et <lb/>
+protesti non giovano. Spero nondimeno coll’aiuto di […]<ptr target="#tn6" n="6"/> <lb/>
+che col prossimo ordinario scriverò di esser pronto al
+<pb n="393r" facs="04_393r" rend="0"/>
+partire per la piazza della mostra. Ho scritto al signor Conte <lb/>
+quanto vostra Serenità aggradisce la prontezza del suo affetto, et <lb/>
+come venga farò l’ufficio a bocca. Quanto alla mia <lb/>
+solecitudine ella può esser certa, che in me non cessa. <lb/>
+Osserverò quant’ella mi commanda, se doppo seguito <lb/>
+l’imbarco occorresse dar qualche cosa al Conte, et lo farò <lb/>
+con quella cautela, ch’ella mi ordina, né mi lascierò <lb/>
+condurre a questo, se non ricercato, et se ne vedrò il bisogno. <lb/>
+Le navi veniranno unite tanto per il rispetto de’ Spagnuoli, <lb/>
+quanto per il sospetto de’ Corsari, et avvertirò il signor Conte et <lb/>
+li marinari di tutto quello, che occorre. Nelle mie <lb/>
+patenti faccio espressamente metter, che le navi non tocchino <lb/>
+l’isola del Zanthe per causa della peste, ma vadino <lb/>
+a drittura all’isola di Corfù per haver di là la lingua, <lb/>
+ove siano le armate spagnuola, et turchesca. Fra le <lb/>
+navi del Conte ve ne sono di molto proprie per servirse <lb/>
+ad uso di guerra a che espressamente hanno mirato <lb/>
+li patroni di esse, pensando di esser impiegati, et <lb/>
+particolarmente le doi, che sono tuttavia in Amsterdam mi <lb/>
+viene riferto, che siano buonissime per quell’effetto. </p>
+<pb n="393v" facs="04_393v" rend="0"/>
+<p>Mai sono più ritornati a me li patroni dei vasselli, che <lb/>
+stavano trattenuti costì. Non hanno bisogno di far compianti <lb/>
+havendo havuta la sodisfattione, che desideravano, et per <lb/>
+questo lasciano di venirmi a molestare per non dir ringratiare. </p>
+<p>Nel negotio del Wassonhoven non mi è stato detto altro. Se me <lb/>
+ne sarà parlato risponderò in conformità di quanto <lb/>
+la Serenità vostra mi commanda. Gratie etc. </p>
+<p>Dall’Haya a’ 29 agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="393bisr" facs="04_393bisr" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="393bisv" facs="04_393bisv" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="393bisvC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2[9 ago]sto<ptr target="#tn7" n="7"/> 1617 ricevute 13 [settembre]<ptr target="#tn8" n="8"/> </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "parola" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Gap in the inner magrin of the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Gap in the inner magrin of the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Gap in the inner magrin of the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Gap in the inner magrin of the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Gap in the inner magrin of the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

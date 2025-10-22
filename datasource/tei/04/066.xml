@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.066 date 1617-08-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">066</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, 354r-356v, 359r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">354r-356v, 359r-v, 357r-358v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has seen a letter from Germany, which he presumes was written by a counselor of Frederick V, on the negotiations between Venice and Ferdinand (enclosed with the letter). Rumours of large levies for Ferdinand in the Holy Roman Empire. Oldenbarnevelt wants to know more about Castiglione, a place on border with Venice, where the Spanish are placing a garrison. Reports he has visited Carleton to discuss Lionello’s journey to Scotland as well as the internal religious divisions in the United Provinces. Concludes by noting that people are speaking ill of Oldenbarnevelt openly. One text attached: "Translato d’una lettera scritte a Heidelberg a’ 12 luglio stylo vecchio’</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-08">8 agosto 1617</date>
+            <num>113, 114</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="113">
+<div type="main" facs="main text of letter" n="113">
+<!--<p>8 agosto 1617, L’Aia (cc. 354r-356v, 359r-v)</p>-->
+<pb n="354r" facs="04_354r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havendomi un signore in questo luogo fatta veder una lettera scritta <lb/>
+d’Alemagna, et credo sia del signor Plesil consigliero del signor Principe <lb/>
+palatino toccante gl’affari particolarmente della Serenità vostra con il serenissimo Ferdi-<lb/>
+nando, se bene delle medesime considerationi et particolari espressi <lb/>
+in essa le saranno prima pervenuti: con tutto ciò ho <lb/>
+stimato a proposito cavarne il transunto, che invio colle <lb/>
+presenti perché vegga il discorso, et li concetti, che mi sono <lb/>
+parsi degni della notitia di lei. </p>
+<p>Oltre altre levate, che qui viene scritto farsi in Bohemia mi <lb/>
+disse hieri il signor Bernvel, che alcuni signori di quel Regno <lb/>
+per rendersi benevoli al nuovo re Ferdinando havevano <lb/>
+fatta offerta di condur per servitio di lui da mille cavalli in circa <lb/>
+pagati del loro per tre mesi; che già vostra Serenità lo deve <lb/>
+saper, s’è vero; ma aggiunse la offerta è grande <lb/>
+ma non si crede qui, che tenirà. Anco dalla parte di <lb/>
+Brem par che si senti levarsi cavalleria, et infanteria <lb/>
+per il medesimo Ferdinando. </p>
+<p>Esso signor Bernvel mi addimandò con grande instanza dove <lb/>
+fosse Castiglione, io gli dissi che ve ne erano molti; <lb/>
+ma che presuponevo, che mi volesse parlar di quello <lb/>
+ch’è contiguo allo stato della serenissima Republica rispose <lb/>
+di questo dico, io ripigliai, ch’era vicino al veronese. Mi <lb/>
+disse s’intende qui, che Spagnuoli vi mettino guarnigione
+<pb n="354v" facs="04_354v" rend="0"/>
+per introdurvisi a danno della<ptr target="#tn1" n="1"/> serenissima Republica a quel confine <lb/>
+onde vostra Serenità haveva gran causa di aprir l’occhio perché tenderanno <lb/>
+ogni rette, et ogni insidia per opprimer se potranno. Et ho poi <lb/>
+cavato, che ciò è stato scritto a questo ambasciator d’Inghilterra cred’io <lb/>
+dal signor Wton. </p>
+<p>Uno di questi giorni essendo stato a visitatione del signor Ambasciator sudetto <lb/>
+mi addimandò, se sapevo che ’l signor Lionello fosse ritornato da <lb/>
+Scotia, io dissi che havevo avviso della sua partenza di Edemborg <lb/>
+et egli doppo qualche altre parole soggiunse, mi meraviglio <lb/>
+che la serenissima Republica nella congiontura de’ presenti tempi che <lb/>
+sono tanto fastidiosi non facci, che vi sia un ambasciatore appresso il Re <lb/>
+mio signore. Io gli risposi, che come sapeva era già destinato <lb/>
+quello, che è appresso il signor duca di Savoia; ma che havend[o]<ptr target="#tn2" n="2"/> <lb/>
+in mano quegl’affari, ne’ quali concorre tanto interesse com-<lb/>
+mune, et essendone egli informatissimo si tratteneva là aspett[ando]<ptr target="#tn3" n="3"/> <lb/>
+qualche buon radrizzo; rispose è vero, et par che sia ordinario <lb/>
+di ogni principe non levar li ministri informati. Et poi mi <lb/>
+addimandò se era vero quello che li veniva scritto, che l’eccellentissimo <lb/>
+signor Simon Contarini fosse per passar alli p[…]<ptr target="#tn4" n="4"/> di Germania <lb/>
+che così gli veniva scritto, che doveva fare, doppo esser stato <lb/>
+alli principi d’Italia. Io dissi, che non sapevo, se non che <lb/>
+havesse commissione per questi; non aggiunse altro in questo <lb/>
+particolare, né si dichiari maggiormente del suo concetto. </p>
+<pb n="355r" facs="04_355r" rend="0"/>
+<p>Presero qui li partiali nel punto di religione chiamati gomoristi <lb/>
+di propria auttorità la Chiesa che si era loro presuposto <lb/>
+di concederli per le sue predicationi ancorché non fornita, et <lb/>
+doppo haver doi volte predicato fecero instanza al consiglio <lb/>
+di Holanda perché fosse reacomodata del tutto, come andava; <lb/>
+limitando anco il tempo alla risposta, et vedendo ch’ella <lb/>
+non veniva risolsero da sé pigliar operarii in quella <lb/>
+quantità, che stimorono propria a far assai in poco <lb/>
+tempo. Il consiglio sudetto per evitar lo scandalo <lb/>
+et forse l’effusione del sangue quando si havesse voluta <lb/>
+far ostacolo chiuse gl’occhi, sperando pure, che <lb/>
+sfogata la rabbiosa passione si trovasse un giorno <lb/>
+ripiego alla dissensione, et divisione publica. </p>
+<p>Quello che li ha fatti più arditi è stata la dichiaratione <lb/>
+di sua Eccellenza del loro partito, et l’andar alle prediche come <lb/>
+continua, il che ha posto gelosia grandissima nella <lb/>
+parte aversa<ptr target="#tn5" n="5"/> della quale fano capo il signor Bernvel <lb/>
+et è quella, che sostenta l’auttorità del Magistrato <lb/>
+la quale procura in quanto più può di stabilirla. </p>
+<p>Si sono ridotti li stati di Holanda continuamente <lb/>
+per trovar ripiego all’accommodamento; ma non è <lb/>
+possibile incontrarlo tanto sono le parti ferme nelle <lb/>
+loro opinioni. Già qualche settimane<ptr target="#tn6" n="6"/> li
+<pb n="355v" facs="04_355v" rend="0"/>
+magistrati di alcune città di questa provincia fecero descriver <lb/>
+qualche soldatesca sotto pretesto di voler contener in <lb/>
+ufficio il popolo, temendo dell’insolenza; et ultimamente <lb/>
+il magistrato della Brilla ha tentato di far giurar al <lb/>
+governator o capitano di esso luoco la fedeltà in sua mano; ma <lb/>
+egli vedendo, che vi era il pregiudicio di sua Eccellenza come generale <lb/>
+di tutta la soldatesca, et dipendente da lei, se ne <lb/>
+partì; et questi dipendenti dall’auttorità del Magistrato <lb/>
+dall’altro canto hanno deputati cinque, o sei, che sono <lb/>
+andati appresso il signor principe Mauritio, dicendogli<ptr target="#tn7" n="7"/> <lb/>
+in sostanza, che havendosi l’Eccellenza sua dichiarita per la parte <lb/>
+de’ gomoristi, che contrasta di diretto all’auttorità del <lb/>
+Magistrato, et per questa dichiaratione devenuti più <lb/>
+insolenti, et per conseguente prevedendosi nell’andar <lb/>
+le cose innanti, che possono succeder disordini inevita-<lb/>
+bili col dubbio di qualche sinistro incontro a pregiud[itio]<ptr target="#tn8" n="8"/> <lb/>
+della libertà publica, pregavano sua Eccellenza a voler assister <lb/>
+et mantener la riputatione del Magistrato, et che <lb/>
+ad esso fosse giurata fedeltà dalla soldatesca; ha <lb/>
+risposto il signor Principe, ch’egli si era conse[rva]to<ptr target="#tn9" n="9"/> sem[pre] <lb/>
+fedele allo Stato, et haverebbe tenuta la [m]ano<ptr target="#tn10" n="10"/> per[ché]<ptr target="#tn11" n="11"/> <lb/>
+li magistrati non ricevessero alcun pregiudicio [fa]cian[o]<ptr target="#tn12" n="12"/> <lb/>
+questo non fosse stato in pregiudicio della […]<ptr target="#tn13" n="13"/>
+<pb n="356r" facs="04_356r" rend="0"/>
+del Paese, et della religione che professava, che era quella <lb/>
+per la quale è stata fatta la guerra, et era stata ne’ <lb/>
+principi giurata di mantenere; che l’auttorità di lui <lb/>
+dipendeva dalli Stati Generali, et che a loro toccava <lb/>
+commandarli, et con essi si sarebbe regolato. Anco al signor <lb/>
+principe Henrico, et alla madre principessa d’Oranges hanno <lb/>
+li deputati sudetti fatta<ptr target="#tn14" n="14"/> instanza in confor-<lb/>
+mità: et l’uno, et l’altra hanno risposto, che sono <lb/>
+servitori a’ signori Stati, et quanto venirà da loro commenti tanto <lb/>
+essequiranno. La<ptr target="#tn15" n="15"/> confusione per questo punto <lb/>
+di religione è grande in questo Governo, et lo Stato è <lb/>
+amalato se Dio non vi mette le mani di un apparente <lb/>
+divisione, la qual non ha per ancora alteratione di gran <lb/>
+momento, come la più gran parte tiene, che sarà <lb/>
+niente, ma se continuassero le opinioni a fermarsi nel <lb/>
+non cedere, si teme di qualche inconveniente. Ascrivono <lb/>
+gran colpa di questo avanzamento di mala intelligenza <lb/>
+ne’ popoli alla sogestione del signor Bernvel, parlandosi contra <lb/>
+di lui assai apertamente; et dall’altro canto non lasciano <lb/>
+li contrarii di darne colpa a sua Eccellenza che si sia così apertamente <lb/>
+dichiarita per la parte adversa al Magistrato<ptr target="#tn16" n="16"/> dicendo, che bisognava <lb/>
+stasse neutrale come fu il padre; ma si tiene per fermo, che se sua Eccellenza non faceva così era impossibile che non
+<pb n="356v" facs="04_356v" rend="0"/>
+succedesse qualche disordine con maggior pregiudicio delle <lb/>
+cose publiche. Li stati di Holanda si sono disciolti per <lb/>
+riunirsi verso li 15 in circa del presente mese; et si crede <lb/>
+che tutte le Provincie manderanno loro deputati per <lb/>
+intromettersi all’accommodamento di queste differenze <lb/>
+che Dio lo voglia, et liberi questo Stato dal veneno<ptr target="#tn17" n="17"/>, che <lb/>
+par vadi serpendo per metter divisione, et atterrar li <lb/>
+animi ben intentionati alla publica libertà. Il che tutto <lb/>
+ho stimato degno dell’intelligenza dell’Eccellenze vostre illustrissime. Gratie [etc.] </p>
+<p>Dall’Haya a’ 8 agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="359r" facs="04_359r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="359v" facs="04_359v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi>. </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="113">
+<!--
+<p n="359vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 agosto 1617 ricevute 23 detto </p>
+<p>Haya. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="114" corresp="113" source="357r-358v" >
+<div type="main" facs="main text of attachment I" n="114" corresp="113" >
+<!--<p>Allegato I al n. 113 (cc. 357r-358v)</p>-->
+<pb n="357r" facs="04_357r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Translato d’una lettera scritta da Heidelbergh a’ 12 luglio <lb/>
+stylo vecchio </p>
+<p>Nel proposito della guerra di Gradisca io vi dirò una circostanza degna di esser <lb/>
+intesa da voi, et s’io non m’inganno anco dalli signori Stati. Il re di Spagna non potendo <lb/>
+far la pace con Saurico senza comprendervi li Venetiani, et li Venetiani non volendo accettar <lb/>
+le conditioni, che li vengono proposte negl’articoli dell’accordo con l’arciduca Ferdinando <lb/>
+si è risoluto di fomentar la guerra di Gradisca, o Friuli non solamente con il soccorso, che trat-<lb/>
+tiene al detto Ferdinando sotto la carica di don Baldassar di Marradas, et Vique; ma anco <lb/>
+per una diversione per mare col mezo delli vasselli, et galere, che ’l vostro re di Napoli ha inviati <lb/>
+dentro il mar Adriatico, o golfo di Venetia affine che la serenissima di Venetia lasci di ascister<ptr target="#tn18" n="18"/> al duca <lb/>
+di Savoia, o almeno non possi così potentemente assister a detta Altezza essendo sforzata impiegar <lb/>
+gran spese nella flotta ch’ella arma per far testa a quella del detto vostro Re, et mantenersi <lb/>
+nell’antico possesso del dominio, et giuriditione del golfo. Ma perché<ptr target="#tn19" n="19"/> questa diversione non è per anco <lb/>
+assai bastante per guarentar il detto Ferdinando, il quale è indebolito et bisognoso contra le forze <lb/>
+de terra della detta Serenissima che sono grandi, il detto re di Spagna, che si trova, interessato di honore, <lb/>
+di riputatione, et stretto parentato, et affinità per soccorrer il detto Ferdinando (non potendo, né <lb/>
+volendo l’Imperatore mescolarsene apertamente) et tuttavia non havendo al presente modo sufficiente <lb/>
+per ministrar al detto Ferdinando<ptr target="#tn20" n="20"/> quello, che gli fa bisogno, il detto re di Spagna consiglia <lb/>
+l’Imperatore et il detto Ferdinando di haver ricorso ai circoli dell’Imperio, et loro dimandar soccorso <lb/>
+contra la detta signoria di Venetia nel che si ha da notare che ’l re di Spagna spera ritrarne tre avan-<lb/>
+tagi, et utilità. </p>
+<p>Prima pinsa<ptr target="#tn21" n="21"/> con questo mezo coprir la sua impossibilità, et evitar la disreputatione nella quale incorrerebbe<ptr target="#tn22" n="22"/> <lb/>
+alla vista di tutte la christianità se abandonasse il detto Ferdinando, et lo lasciasse perder (<ptr target="#tn23" n="23"/>perché per <lb/>
+mancamento di denaro, che deve contribuir al detto Ferdinando, non è mai di gran lunga compitamente <lb/>
+dato, et di questa maniera quasi inutile al detto Arciduca. </p>
+<p>Per secondo il re di Spagna resta tanto più potente in campagna in Piemonte potendo impiegar il <lb/>
+fiore, et il<ptr target="#tn24" n="24"/> più gran sforzo delle sue armi contro il duca di Savoia. </p>
+<p>Per terzo il detto re di Spagna non guadagnerebbe poco se con questo mezo potesse imbarcar li stati dell’<lb/>
+Imperio nella guerra contra li Venetiani, perché da questo ne potrebbe ritrare il suo profitto in molte <lb/>
+maniere. </p>
+<p>Et infatti li tre più vicini circoli del Austria sono il circolo di Baviera, quello di Franconia, et quello <lb/>
+di Svevia, o Sovabe l’Imperatore et il detto Ferdinando hanno di già scritto al signor duca di Wirtembergh </p>
+<pb n="357v" facs="04_357v" rend="0"/>
+<p>(il quale con vescovo di Costanza ha la direttione nel detto circolo di Svevia) pregandolo di voler corrisponder <lb/>
+con buoni ufficii dandogli ad intender (per metterlo in appetito) che se il detto circolo di Svevia accorda <lb/>
+quattromilla fanti, come sperano, che saranno molto ben contenti, che ’l duca Giulio fratello del detto signor <lb/>
+duca di Wirtembergh ne habbi la carica. Se ciò riuscisse sarebbe cosa pregiudiciale alla causa commune <lb/>
+et al buon partito dell’Europa, ma noi si affaticamo qui per divertirla, et impedirla, o almeno ritardar <lb/>
+si longamente, che per quest’anno non potrà succederne gran effetto. </p>
+<p>Io mi assicuro che costì si discorri dell’elettione del re Ferdinando di Bohemia le buone genti di quel <lb/>
+Regno stimano di haver fatta una buona brecchia al dritto della loro libera elettione, ma li buoni <lb/>
+patrioti sono stati o intimiditi, o transportati per la pluralità delle voci. </p>
+<p>Quanto alla Corona romana io credo, ch’il detto Ferdinando l’haverà parimente senza gran difficoltà, et se l’<lb/>
+abboccamento dell’Imperatore e del detto Ferdinando con l’elettore di Sassonia segue come si dice, ciò sarà per <lb/>
+farne il preparativo parimente da quella parte. Tuttavia il detto Ferdinando vi può pervenire senza <lb/>
+anco la voce del reverendo elettore di Sassonia, perché è assicurato delle voci delli 3 elettori ecclesiastici. Poi essendo <lb/>
+re di Bohemia et per consequente elettore può dar a sé stesso la sua voce in vigor della bolla d’oro, et <lb/>
+tutto ciò non li si<ptr target="#tn25" n="25"/> può impedirli che per la via dell’armi, et per consequenza col mezo di una guerra civi-<lb/>
+le, che è<ptr target="#tn26" n="26"/> un boccone molto incommodo ad ingottire, et di dura digestione. </p>
+<p>Un principe protestante dell’Imperio, che si voleva far compasitore rincontrarebbe mille difficoltà dentro <lb/>
+l’Imperio. Fra li Catholici romani non vi è che il duca di Baviera, che sia di qualche consideratione m[…]<ptr target="#tn27" n="27"/> <lb/>
+egli non vi vuol aspirare, né procacciar la detta Corona romana per non romper con gl’Austriaci suoi <lb/>
+prossimi parenti (egli è cugin germano del detto Ferdinando, il quale è stato parimente maritato con la <lb/>
+propria sorella del detto di Baviera) et perché medesimamente il Papa non trova buono, ch’egli entri <lb/>
+in una disputa così ripiena di gelosia con quelli d’Austria, tenendo che le loro dissensioni non <lb/>
+pagano occasione ai protestanti di far in questo mentre i fatti lor in pregiudicio della sede Romana <lb/>
+et del partito papistico. </p>
+<p>Vorrei sapere come questi signori assisteranno al signor duca di Savoia se sarà con denari, o con genti come viene detto <lb/>
+se viene della cavallaria noi certo habbiamo paura, ch’ella rancontrerà della difficoltà a passare; per <lb/>
+il signor lantgravio di Kassel è ancora in maniera offeso del passaggio del colonello Ghent, che essorta tutti li <lb/>
+stati et circoli del Reno di tener pronto il numero delle genti armate, che sono in obligo per opporsi a quelli <lb/>
+che vorranno passare. Oltre di ciò don Alfonso Casale ambasciator di Spagna residente in Lucerna in Svizze[ra] <lb/>
+è aspettato a Strasburgh<ptr target="#tn28" n="28"/>. Si tiene ch’egli sia per convenir coll’arciduca Leopoldo et al[tri]<ptr target="#tn29" n="29"/> <lb/>
+stati dell’Alsatia del mezo di fermar il passo al conte di Mansfelt, et altri che intraprende[ranno …]<ptr target="#tn30" n="30"/> <lb/>
+passar per servitio del signor duca di Savoia. </p>
+<pb n="358r" facs="04_358r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="358v" facs="04_358v" rend="270"/>
+<p>Lettera da Hedelbergh nelle 3<hi rend="superscript">e</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Damaged page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "fano" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by ", che" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Damaged page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Damaged page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Damaged page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Damaged page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Damaged page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by deleted words.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "Ce-" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "al magistrato" added above the line with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "ché" added above the line with an insertion mark.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Second "-re-" added above the line with an insertion mark.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Added above the deleted word with an insertion mark.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> There is a hole in the page.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Added above the deleted words.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Damaged page.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Damaged page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

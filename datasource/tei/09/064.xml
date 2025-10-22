@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.064 date 1620-11-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">064</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 322r-323v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">322r-323v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter to inform that Lormes and Falghero are travelling to Venice on foot. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-07">7 novembre 1620</date>
+            <num>098</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="098">
+<div type="main" facs="main text of letter" n="098">
+<!--<p>7 novembre 1620, L’Aia (cc. 322r-323v)</p>-->
+<pb n="322r" facs="09_322r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>col signor Pietro Falghero se ne viene a’ piedi della Serenità vostra <lb/>
+quel visconte di Lormes il cui negotio toccante li <lb/>
+vasselli corsari fu a lei proposto nel mese d’aprile <lb/>
+passato dal Pasini col quale si conferì per il medesimo anco <lb/>
+in Inghilterra. Dalla viva voce di lui potrà vostra Serenità <lb/>
+cavar l’essentiale del tutto; et sendo l’affare di quel <lb/>
+momento, ch’è stato molto ben compreso dalla prudenza <lb/>
+di lei, perché si tenesse in piedi in conformità del <lb/>
+desiderio suo, fu stimato a proposito, ch’esso <lb/>
+Visconte si transferisce costì, come haverà ella <lb/>
+inteso dalle lettere dell’eccellentissimo signor ambasciator Trivisano. <lb/>
+Mostra detto Visconte affetto al servitio di quella <lb/>
+serenissima Republica et vostra Serenità da suoi concetti, et dalla <lb/>
+propositione più ampla comprenderà la <lb/>
+sussistenza per regolarsi secondo il suo sapientissimo <lb/>
+parere per la più pronta, et breve speditione. Gratie etc. </p>
+<p>Dall’Haya li 7 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="322v" facs="09_322v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="323r" facs="09_323r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="323v" facs="09_323v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="098">
+<!--
+<p n="323vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 novembre 1620 ricevute 27 detto </p>
+<p>Haya. Secretario Suriano </p>
+<p>Lormes e Fogher </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

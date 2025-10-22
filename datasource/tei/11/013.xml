@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.013 date 1622-05-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 77r-82v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp311-322
+            </note>
+            <biblScope unit="page">77r-82v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters 8 April and awaiting those of 15 April adding that the merchants in Amsterdam have already received their letters. Advices to send letters to Cologne as well with Calandrini as the addressee. Van Dort will levy 2000 troops and 1000 cavalry for Brunswick’s army. Continuing reporting about the actions of Christian of Brunswick’s in vicinity of Paderborn including a description of a reichstaler he had minted. Carleton has received letters that Frederick V has arrived safely at Germershein where he met Mansfelt and Ravilla, chief negotiator for Isabella. News that Mansfelt has caputred Madenburg castle. Elizabeth has given birth to a daugther in The Hague, only Carleton, Maurice and Federick-Henry has entered her chambers. Eagerly awaiting news of the negotiations between James I and imperial ambassador fearing it might hamper the war efforts. But news that Louis of Darmstadt has requested the opinion of various German princes on implications of the truce. Rocquelaure has not been sent to France yet and Milander wants to return in Venetian service. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-05-02">2 maggio 1622</date>
+            <num>022</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>2 maggio 1622, L’Aia (cc. 77r-82v)</p>-->
+<pb n="077r" facs="11_077r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 386 sola </p>
+<p>Serenissimo Principe </p>
+<p>non ho sentito, che si sia qui parlato da alcuno del termine usato <lb/>
+in Roma dall’ambasciator di Spagna straordinario con li cardinali francesi, et <lb/>
+veneti. Et l’avviso, che la Serenità vostra si è compiacciuta di darmene <lb/>
+con le sue dei 8 del passato mi servirà d’informatione. Aspetto <lb/>
+quelle dei 15 che spero di ricever dimani, poiché già li mercanti <lb/>
+in Amsterdam per la via di Colonia hanno ricevute le sue; et io <lb/>
+le ricevo per la via d’Anversa. Quando così dovesse continuare <lb/>
+sarebbe più a proposito, et forse il più sicuro adrizzo, che anco <lb/>
+le mie venissero a drittura in Colonia, et di là in Amsterdam <lb/>
+sotto a’ piego de’ Calandrini. Il che rimetto con ogni humiltà <lb/>
+alla prudente risolutione della Serenità vostra. </p>
+<p>La settimana passata venne qui un Capitano di cavallaria ispedito dal <lb/>
+giovane duca di Bransvich per dar conto principalmente al signor <lb/>
+principe d’Oranges, ch’era in stato di partire, et la risolutione <lb/>
+era per li 22 d’aprile al vecchio stilo, ch’appunto il <lb/>
+giorno d’hoggi; ma ho cavato, che questo non potrà seguire sì <lb/>
+precisamente mentre il sudetto Capitano non arriverà (sendo partito <lb/>
+hoggi terzo giorno di qua) che mercordì, o giovedì prossimo <lb/>
+presso il signor Duca. In oltre si aggiunge, che uno degl’ultimi <lb/>
+nominato colonello per levar doi mille fanti, et mille cavalli <lb/>
+non era ancor del tutto ad ordine non si trovando in piedi che <lb/>
+sei, o sette compagnie d’infanteria, et qualche cavallieri. <lb/>
+Egli è stato doi, o tre giorni qui, et dimani di buon mattino <lb/>
+partirà alla volta di Lippe. Questo è il signor Vanderhost <lb/>
+overo Van Dort, che in altri<ptr target="#tn1" n="1"/> tempi ha servito questi Stati, et <lb/>
+già doi anni passati era per la parte di Gheldria impiegato <lb/>
+come deputato nell’assemblea dei signori Stati Generali, huomo <lb/>
+d’isperienza, et che può. Se sarà ascoltato dal detto signor Duca
+<pb n="077v" facs="11_077v" rend="0"/>
+regolarà la vivezza, et la corsa de’ pensieri. È al servitio dei <lb/>
+principi della Bassa Sassonia della casa d’Holstein, et anco <lb/>
+parmi, che tiri qualche stipendio dalla città di Amburgh. </p>
+<p>Questo<ptr target="#tn2" n="2"/> ha detto presente il signor Ambasciator inglese, et io ero ancora seco <lb/>
+che ha preso partito col signor duca di Bransvich perché gli ha conferito <lb/>
+la parola che teneva da questi signori, dal signor principe Mauritio, <lb/>
+et da Danimarca ancora, che non sarebbe abandonato, ma <lb/>
+aiutato di quella maggior assistenza, che si havesse potuto. </p>
+<p>Egli disse anco, che consigliava a tornar ad assediar Gesken <lb/>
+piazza munita di doi milla soldati, abandonata, come rive-<lb/>
+rentemente scrissi la passata settimana nella<ptr target="#tn3" n="3"/> mia<ptr target="#tn4" n="4"/> lettera n° 385 sola <lb/>
+et qui annessa replicata, havendo Bransvich veduto, che non <lb/>
+ostante la brecchia fatta non gli<ptr target="#tn5" n="5"/> tornava a conto il <lb/>
+trattenervisi sotto. Il signor ambasciator d’Inghilterra al contrario ha <lb/>
+disuaso questo nuovo assedio portando per ragione, che volendosi <lb/>
+passar ad unirsi con l’armi del Palatinato per acquistar <lb/>
+il principale non era bisogno, anzi lo stimava fuori di <lb/>
+proposito trattenersi all’assessorio; in oltre, che non poteva <lb/>
+mai perdersi così poco tempo, che non servisse all’inimico <lb/>
+di avanzarsi, et unite le armi spagnole, colonesi, et di <lb/>
+Anolt apportar sommo pregiudicio al principale di che <lb/>
+si tratta. Et procurò detto signor Ambasciator<ptr target="#tn6" n="6"/> andar ribattendo <lb/>
+le ragioni addotte all’incontro, et più discorrendone meco <lb/>
+disse essersi accorto, che l’interesse che ha il detto Vanderhoost <lb/>
+di qualche beni lì all’intorno lo inducesse a discorrer così <lb/>
+perché vorrebbe assicurarsene. Et ho tirato dal parlare del <lb/>
+signor Ambasciatore sudetto che avvertirà il Duca di questo punto, et <lb/>
+lo essorterà a pigliar, et non perder il tempo. </p>
+<pb n="078r" facs="11_078r" rend="0"/>
+<p>Ci è avviso, che ’l conte Henrico Vandembergh doverebbe <lb/>
+seguitar con 16 milla fanti, et 4 milla cavalli, ma non si crede, che <lb/>
+anco congiunto con Anolt, et Colonia sia per esser tanto forte: <lb/>
+come si sia le genti, che ha con lui non vogliono muoversi <lb/>
+né marchiare, che non habbino doi mesi di paga, et ancor <lb/>
+non s’intende, che dalla corte di Brusseles habbi havuto <lb/>
+quello che ricerca. </p>
+<p>Una lettera è stata intercetta dell’arcivescovo di Colonia nella quale <lb/>
+significava al detto conte Henrico, ch’erano in pronto cinquanta <lb/>
+milla raistaleri, et si scuopre, che Spagnoli habbino prestato <lb/>
+il loro nome all’Arcivescovo nella levata delle genti, et che in effetto <lb/>
+siano di ragione del detto Arcivescovo elettore. </p>
+<p>Vi è anco nuova, che le genti sudette si malcontentino non vedendo <lb/>
+correr denari, et alcuni si sono lasciati intender, che se troppo <lb/>
+continueranno così si retirerebbono dalla parte del signor duca <lb/>
+di Bransvich, et viene riferto<ptr target="#tn7" n="7"/>, che maledicono quelli, che <lb/>
+vogliono star solo su la difensiva; perché non possono <lb/>
+acquistar alcuna cosa. </p>
+<p>Marchieranno le genti del duca di Bransvich dai quartieri di<ptr target="#tn8" n="8"/> Lip <lb/>
+Paterborn, et altri, ove si trovano dritto verso Eischfelt ai <lb/>
+confini<ptr target="#tn9" n="9"/> delle terre del landtgrave d’Hassia; ove si <lb/>
+tiene per fermo, che converrà tentar, et farsi il passo a <lb/>
+forza, quando non vi sia la conivenza di quel Principe. </p>
+<p>In tutte quelle piazze più principali, et più atte a mantenersi <lb/>
+resteranno compagnie pagate dalli signori Stati, più et meno <lb/>
+in numero secondo il sito, et qualità delle piazze a fine <lb/>
+di poter far continuar le contributioni dai paesani, et habi-<lb/>
+tanti nelle terre. </p>
+<pb n="078v" facs="11_078v" rend="0"/>
+<p>Per le dette contributioni sin qui intendo che ’l Duca sudetto habbi <lb/>
+tirato dal territorio di Colonia trenta milla raistalieri, altrettanti <lb/>
+da Paterborn, et 20 milla da altro paese circonvicino. Con questi <lb/>
+et con altri denari, che quel Principe ha trovati sodisfa <lb/>
+al pagamento delle mesate a’ soldati. </p>
+<p>È stato vero che ha trovati li quarantamille raistaleri nel maga-<lb/>
+zino scritto, ma più fino alla summa di altrettanti et <lb/>
+più, et domenica passata appunto in un altro luoco si trovoro-<lb/>
+no doi mille rose nobili, che della moneta venetiana corrente <lb/>
+venirebbono ad esser a nove fiorini l’una contando il fiorino <lb/>
+tre lire cinquantaquattro mille lire venetiane, altro denaro <lb/>
+anco hanno trovato avanti oltre di questo, et tutto nella <lb/>
+città di Zusten, dicono di ragione del già vescovo di Pater-<lb/>
+born<ptr target="#tn10" n="10"/> per la più gran parte, et anco di quei cittadini <lb/>
+et vogliono bene, che la summa trovata sin qui ascendi <lb/>
+a doicento milla raistaleri; ma in mano del signor Duca <lb/>
+non ne sono capitati, che in circa cento trenta milla, sendo <lb/>
+parte degl’altri stati dati a chi n’ha fatta la scoperta <lb/>
+et si spera haverne degl’altri per la medesima via. </p>
+<p>Questa felicità, la munificenza, et liberalità, che usa il Duca <lb/>
+il rigore con che si fa ubidire, il devenirsi da lui facilmente al <lb/>
+castigo sopra quelli, che trova, et stima suoi nemici, mette <lb/>
+terrore et ubidienza ne’ suoi propri, et confusione tanto <lb/>
+nella soldatesca contraria, quanto animo nell’amica <lb/>
+et il spavento è grande assai nel popolo, che teme del suo <lb/>
+rigore. </p>
+<p>Ha fatti<ptr target="#tn11" n="11"/> batter alcuni raistaleri da una parte vi è un braccio <lb/>
+armato che esce fuori di una nube con una spada nuda
+<pb n="079r" facs="11_079r" rend="0"/>
+nella mano pur nuda, et nel contorno è scritto in lingua francese <lb/>
+niente senza Dio. Dall’altra parte in mezo vi sono alcune <lb/>
+parole in lingua tedesca, che dicono amico di Dio, inimico de’ <lb/>
+preti, et nel contorno pur in lingua alemana Christiano <lb/>
+duca di Bransvich, et Lunemburgh. Questo termine non è laudato <lb/>
+anzi biasmato, et ognuno qui dice, che haverebbe ben potuto <lb/>
+far di meno di far un simil impronto, che non giova punto <lb/>
+alla causa di che si tratta. </p>
+<p>È stato scritto, che ’l conte di Mansfelt habbi ottenuto da quelli di <lb/>
+Francfort di poter passar per il loro territorio per andarsene <lb/>
+a passar il Meno a fine di poter incontrar il detto duca <lb/>
+di Bransvich. </p>
+<p>Lettere venute questa mattina di Alemagna al signor ambasciator d’Inghilterra <lb/>
+che m’ha fatto l’honore di mandarmelo a dire, portano, <lb/>
+che con altre de’ 22 del passato il Re palatino era <lb/>
+arrivato salvo a Germensein, ove si trovava il signor conte <lb/>
+di Mansfelt, il quale subito giunto il Re mandò a dire <lb/>
+a monsieur Ravilla, ch’è quello, che trattava seco a <lb/>
+nome dell’Arciduchessa, et haveva habitatione nella detta <lb/>
+piazza di Germensein, che per commodità della Maestà <lb/>
+sua dovesse immediate sloggiare: tuttavia ancor a Brusseles <lb/>
+fanno correr la voce, che ancor facci trattar con quella Altezza <lb/>
+et che le cose siano ridotte a termine di conclusione; ma <lb/>
+si stimano promulgationi per ingannar il mondo, et divertir <lb/>
+se si potesse così le assistenze, et metter in odio il Conte <lb/>
+appresso chi ha da far seco, et mentre procura, et insta <lb/>
+et col mezo di lettere, et altrimenti di tirar assistenze <lb/>
+principalmente da questa parte. </p>
+<pb n="079v" facs="11_079v" rend="0"/>
+<p>Havevano li signori Stati già alcuni giorni data al suo gentilhuomo <lb/>
+una cedula di centocinquanta milla fiorini per tre mesi, con dir <lb/>
+che la<ptr target="#tn12" n="12"/> poteva mandar al Conte, perché se ne valesse; ma <lb/>
+amando questo molto meglio haver la prontezza del denaro <lb/>
+senza perdita di tempo, ha tentato, che così si deliberi, onde <lb/>
+spera anco ritrarne frutto coll’assistenza degl’ufficii, che <lb/>
+ne fa il signor ambasciator d’Inghilterra. </p>
+<p>Si è goduto qui grandemente della presa, che ’l conte di Mansfelt <lb/>
+ha fatta del castello di Mademburgh, nel quale si sono trovati <lb/>
+vintidoi pezzi di canone, che serviranno grandemente al bisogno <lb/>
+che dicono ne havesse il Conte per campagna; et anco <lb/>
+si aggiunge, che si sia trovato il valsente di doi millioni, <lb/>
+et ottocento milla fiorini: ma questi della casa della Regina <lb/>
+dicono, che si contenterebbono bene, che fossero per la metà. </p>
+<p>Gran consolatione anco è stata nella medesima casa per il parto <lb/>
+felice della Regina, che mercordì mez’hora doppo il mezo <lb/>
+giorno si sgravò d’una figliola con allegrezza della Maestà sua <lb/>
+et questa è la seconda, havendo quattro altri figlioli maschi <lb/>
+doi qui il maggiore, et il nato in Bohemia, uno a Custrin <lb/>
+che partorì l’anno passato nel venir qua, et un figliolo, <lb/>
+et una figliola nati a Heidelbergh, che sono appresso la madre <lb/>
+del Re in tutto sei. Il battesmo si farà venerdì prossimo <lb/>
+padrini sono convitati li signori Stati di questa provincia di <lb/>
+Holanda, che sono qui congregati, il principe Henrico <lb/>
+fratello di sua Eccellenza il duca sudetto di Bransvich<ptr target="#tn13" n="13"/> nella cui <lb/>
+absentia subintrerà il duca d’Holstein, ch’è stato al servitio <lb/>
+della Serenità vostra col signor conte di Nassau. Per matrine la principessa <lb/>
+di Portugallo, et la contessa di Nassau sorella di Bransvich
+<pb n="080r" facs="11_080r" rend="0"/>
+et moglie del conte Ernesto Casimiro di Nassau. </p>
+<p>Si attende qui con molta curiosità gl’avvisi della trattatione, che <lb/>
+con la maestà d’Inghilterra haverà havuta l’ambasciator di Cesare; et <lb/>
+il dubio, o più tosto tema, che si ha è che detta Maestà <lb/>
+accordi una suspension d’armi, overo tregua. Venendo creduto <lb/>
+che o l’una, o l’altra possi riuscir pernitiosa alle doi armate <lb/>
+di Bransvich, et di Mansfelt, alli affari del Re palatino, <lb/>
+et insieme al bene, et alla libertà dell’Alemagna. </p>
+<p>All’incontro viene scritto, che aluni principi di Germania stimino <lb/>
+altrimenti, et che poco conto si habbi a far<ptr target="#tn14" n="14"/> da Mansfelt, et da <lb/>
+Bransvich di tal tregua, o suspension d’armi, quando anco <lb/>
+fosse accordata; anzi<ptr target="#tn15" n="15"/> aggiunge l’avviso, che ’l landtgra-<lb/>
+ve Lodovico d’Armenstat mosso da ciò habbi scritto a <lb/>
+diversi principi, et terre neutrali per haver il loro parere <lb/>
+quando seguisse, che dalli sudetti doi signori non si volesse far <lb/>
+stima di quanto fosse risoluto, et accordato in Inghilterra. </p>
+<p>Si aspetta anco con curiosità di intender se sia vero quello che <lb/>
+qui è corso che<ptr target="#tn16" n="16"/> ’l marchese di Bada con qualche altri principi <lb/>
+et città della passata unione si siano dichiariti per il Re pala-<lb/>
+tino. Il signor conte di Solms mi disse essersi sparsa questa voce <lb/>
+ma che egli non ne haveva ancor certezza. </p>
+<p>Tutto quello, di che si tratta qui è trovar mezi per mantenersi, et <lb/>
+dar fomento, et sicurezza alle cose di Alemagna per tenir <lb/>
+occupati Spagnuoli, et in spesa: essi però colla venuta a <lb/>
+Brusseles dell’Ambasciator straordinario spedito dalla corte di <lb/>
+Spagna per condoglienza della morte del serenissimo arciduca Alberto <lb/>
+che ha portata<ptr target="#tn17" n="17"/> anco la patente del Governo al<ptr target="#tn18" n="18"/> serenissima Infanta <lb/>
+publicano, che vi sia trattato in piedi con questi di una
+<pb n="080v" facs="11_080v" rend="0"/>
+pace, o lunga tregua. Da quelli che la vorrebbono tanto di <lb/>
+qua, che di là è desiderato l’effetto; ma da quelli che <lb/>
+intendono, et conoscono l’artificio, et che sano non esservi o <lb/>
+non scoprirsi alcuno certamente, et sicuramente, che tratti, si vede ch’è <lb/>
+per dar pasto, et per profitare se possono anco da queste voci. </p>
+<p>Sono questi signori in speranza, che li affari loro in Inghilterra habbino a <lb/>
+prendere buon piedi; se bene le lettere, che vengono non <lb/>
+parlano sempre della medesima maniera ma hora bene<ptr target="#tn19" n="19"/>, hora male. </p>
+<p>Tutti questi giorni a dietro si è havuta qui buona speranza, che li <lb/>
+affari di Francia dovessero ridursi alla pace, ma intesa la <lb/>
+rotta data a monsieur di Subisa si teme da alcuni, che <lb/>
+questo non dilati il<ptr target="#tn20" n="20"/> buon essito, et che di quelli, che sono <lb/>
+all’orrecchie del Re con questa vittoria suministrino<ptr target="#tn21" n="21"/> pensieri <lb/>
+di proseguir avanti senza ascoltar propositioni di pace. </p>
+<p>Non è ancor il signor di Rocalaura stato ispedito da questi signori sopra <lb/>
+l’instanza, che fa de’ suoi resti riuscendo difficile nella <lb/>
+strettezza che sono questi paesi mentre si tratta di materia <lb/>
+di denari. Egli mostra passione, et impatienza del tratte-<lb/>
+nersi qui, et vorrebbe già esser in Francia per esser anco <lb/>
+tanto più preso costì. </p>
+<p>Anco il signor colonello Milander desidera di ritrovarsi quanto prima <lb/>
+al servitio dovuto da lui alla Serenità vostra et perché ne segui l’effetto <lb/>
+per l’instanza, che mi ha fatto efficacissima ho pregato li depu-<lb/>
+tati della provincia di Gheldria perché scrivino al consiglio <lb/>
+di essa<ptr target="#tn22" n="22"/>, che non permetti, che sia dato <lb/>
+maggior tempo alli suoi adversarii nella causa, che <lb/>
+agita sotto a quel giudicio, et non solo hanno scritte le <lb/>
+lettere a mia richiesta, ma doi anco di essi, che sono
+<pb n="081r" facs="11_081r" rend="0"/>
+partiti verso là per altri affari si sono preso carica di far ufficii <lb/>
+in conformità, et so ch’egli solecita quanto può l’ispeditione <lb/>
+per il suo ritorno a’ piedi di vostra Serenità. </p>
+<p>Quando si possi non mancarò di complir con questa Regina <lb/>
+per l’honor, che mi ha fatto, come ad humil ministro della <lb/>
+Serenità vostra di mandarmi a communicar col mezo del gentilhuomo <lb/>
+del conte di Mansfelt il suo parto. In tanto col mezo del <lb/>
+signor conte di Solms maggiordomo maggiore ho fatto supplire, <lb/>
+et attestar alla Maestà sua, che quella serenissima Republica haverebbe <lb/>
+sentito particolar contento d’ogni sua felicità. Non entra <lb/>
+nella camera di sua Maestà che le donne, l’ambasciator d’Inghilterra <lb/>
+il principe Mauritio, et il signor principe Henrico. </p>
+<p>Stavo per finir le presenti che mi sono capitate le lettere di <lb/>
+vostra Serenità dei 15 del passato. Darò essecutione agl’ordini <lb/>
+di lei, et nel particolar del denaro delle mesate a questi signori mi <lb/>
+è stato poco fa riferto, che sue Eccellenze habbino<ptr target="#tn23" n="23"/> già havuta <lb/>
+notitia dell’esborso della prima mesata. Gratie etc. </p>
+<p>Dall’Haya li 2 maggio 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="081v" facs="11_081v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="082r" facs="11_082r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="082v" facs="11_082v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 386 sola<ptr target="#tn24" n="24"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="082vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 maggio 1622 ricevute a’ 18 detto </p>
+<p>Haia. n° 386 sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "ne" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Am-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-to" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "Lippe" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Second "-n-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-rn" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "B-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "a far" added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "si" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-h-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "come hanno fatto" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Seal and traces of seals in red wax."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.013 date 1618-04-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 87r-90v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">87r-90v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Assures that the Dutch authorities are concerned about the potential lease of ships to the Duke of Ossuna. Notes he will continue to remind them of the potential danger as the liberty of these provinces, avarice of its merchants, and cunningness of Spanish are particularly challenging. Admiralty of Amsterdam are planning to deploy warships against corsairs. With favourable winds they might set sail together with the Venetian leased vessels until the Strait of Gibraltar. Decision about appointing an ambassador to Venice is still pending due to ongoing religious disputes. Reports that troop mobilization by Denmark might spark war with Sweden. Concludes with health issues of Archdukes, indicating no immediate plans in Jülich. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-04-02">2 aprile 1618</date>
+            <num>027</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="027">
+<div type="main" facs="main text of letter" n="027">
+<!--<p>2 aprile 1618, L’Aia (cc. 87r-90v)</p>-->
+<pb n="087r" facs="06_087r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 23 comincia 21 </p>
+<p>Serenissimo Principe </p>
+<p>all’istanza, che feci li giorni passati a questi signori Stati acciò <lb/>
+gl’ordini loro fossero dati efficaci perché vasselli di questi <lb/>
+paesi non capitassero in mano del duca di Ossuna aggiunsi <lb/>
+nuovo ufficio con gl’ultimi commandamenti, ch’ella me ne <lb/>
+dà nelle sue lettere de’ 9 del passato, et mostrorono che <lb/>
+haverebbono havuto pensiero particolar a questo, che diedero <lb/>
+segno di stimar grandemente per il particolar loro interesse <lb/>
+dicendo, che pativa grandemente il Paese per questi arresti, <lb/>
+che si andavano facendo. </p>
+<p>Io mi prometto, che mal volontieri intendono questi signori che <lb/>
+lo spagnolo habbi vasselli di questi habitanti in suo <lb/>
+servitio; ma la libertà del Paese, l’avaritia de’ <lb/>
+mercanti, et la finezza, et arteficii dei Spagnoli sono <lb/>
+instrumenti mirabili per far chiuder gl’occhi; se ben io <lb/>
+non cesserò, et premerò tanto qui, quanto nei luochi stessi <lb/>
+della Amiralità per far vedere, et sentir il commun danno, <lb/>
+et il maleficio, che ne deriva al publico in pregiudicio <lb/>
+di vostra Serenità. </p>
+<p>Havevano li signori dell’amiralità d’Amsterdam deliberato per <lb/>
+sabbato passato il dar mostra alle loro genti per le <lb/>
+navi da guerra, che ispediscono contro corsari, et <lb/>
+ne havevano data parte alli signori Stati; ma sue Eccellenze
+<pb n="087v" facs="06_087v" rend="0"/>
+li hanno riscritto, che soprasedino perché vogliono <lb/>
+attender nuove del Quest per saper come governarsi <lb/>
+mentre hanno anco havuti avvisi, che li corsari <lb/>
+siano fatti forti di cento trenta vasselli. </p>
+<p>Se ’l vento continua ancor qualche giorni, come è al <lb/>
+presente, potrebbe esser che uscissero li vasselli del Paese <lb/>
+con quelli di vostra Serenità; ma per la continuatione del loro <lb/>
+viaggio uniti non credo che seguirebbe<ptr target="#tn1" n="1"/>, che <lb/>
+fino allo Stretto. Io darò gl’ordini che sono necessarii <lb/>
+et commandatimi da lei perché caminino innanti senza <lb/>
+fermarsi, et della buona volontà di quelli, che in <lb/>
+questo proposito mi promossero qualche concetto li ringra-<lb/>
+tierò, come si conviene. </p>
+<p>Quanto più andamo innanti, et ch’io in publico, et in <lb/>
+particolare destramente et con riserbe<ptr target="#tn2" n="2"/> non imprimendo perché <lb/>
+si riconoschi d’avantaggio il buon animo della Serenità vostra <lb/>
+all’Unione; tanto si avanza anco il pensiero del mandar <lb/>
+soggetto, che risiedi appresso vostra Serenità, et nella Congregatione <lb/>
+di Holanda se ne è parlato, come anco nell’assemblea <lb/>
+generale s’è discorso sopra li soggetti tra quali vi è un <lb/>
+signor frisone stato adoperato in più luochi da questi <lb/>
+signori, et qualche altro anco camina sopra il tavoliere. </p>
+<pb n="088r" facs="06_088r" rend="0"/>
+<p>Si è parlato di uno di Zelanda, ch’è secretario de’ stati di <lb/>
+quella Provincia. Sono tutti di buona inclinatione <lb/>
+alla missione di ministro. Sta la risolutione ancor pen-<lb/>
+dente perché pendono ancor le dissersioni nella materia <lb/>
+di religione. Et se lo manderanno sarà con fine di più <lb/>
+stringer, et vivamente congiongersi con la serenissima Republica a che <lb/>
+particolarmente hanno l’oggetto, et se ne promettono la riuscita. </p>
+<p>Si aspetta dimani o appresso dimani il principe Mauritio <lb/>
+di ritorno di Gheldria. Alcuni dicono, che in quell’Assem-<lb/>
+blea le cose non siano passate molto bene, altri che <lb/>
+tutto sia riuscito con gusto delle parti. Al ritorno di <lb/>
+sua Eccellentia si saperà il seguito. </p>
+<p>Le levate, che fa il re di Danimarca, quelle che si dice <lb/>
+che metti in piedi<ptr target="#tn3" n="3"/> l’arcivescovo di Colonia, et le genti che <lb/>
+mette in pronto il re di Polonia con avvistar anco <lb/>
+vasselli per condur soldatesca in Svetia contra quel Re <lb/>
+fa che questi signori applichino il pensiero, et fissino gl’<lb/>
+occhi ove habbino a parar queste provisioni. Temono <lb/>
+dall’un canto che a Giuliers si muovi qualche humore, <lb/>
+dall’altro che Brem, Lubech, et qualche altra delle <lb/>
+città ansiatiche non stiano senza pericolo di qualche <lb/>
+intrapresa di Danimarca, et<ptr target="#tn4" n="4"/> dubitano, che Svetia
+<pb n="088v" facs="06_088v" rend="0"/>
+non possi sussister senza l’aiuto di qua contro Polonia; et <lb/>
+quando poi mirano questi signori a sé stessi veggono il <lb/>
+mal intestino delle dissersioni; onde tutto travaglia <lb/>
+l’animo de’ buoni patrioti. S’accorgono che questi sono <lb/>
+tutti tiri spagnoli, et che Danimarca sia stato preso <lb/>
+da loro con quei termini, che sono soliti, et sano<ptr target="#tn5" n="5"/> fare. </p>
+<p>Dalla parte dei serenissimi arciduchi<ptr target="#tn6" n="6"/> non si parla né molto né poco, che <lb/>
+in quello di Giuliers vi habbi quest’anno ad esser guerra <lb/>
+perché quei principi hanno desiderio di viver quieti <lb/>
+ma più di attender alla loro sanità della quale l’uno<ptr target="#tn7" n="7"/>, et <lb/>
+l’altra dell’Altezze loro sono in poco buon stato; et <lb/>
+particolarmente la serenissima Infanta era la settimana passata <lb/>
+con febre assai gagliarda. Et ognuno di quei popoli <lb/>
+prega Iddio per la preservatione di quei principi. Gratie etc. </p>
+<p>Dall’Haya a’ 2 aprile 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="089r" facs="06_089r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="089v" facs="06_089v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="090r" facs="06_090r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="090v" facs="06_090v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 23 comincia n° 21 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="027">
+<!--
+<p n="090vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 april 1618 ricevute 25 detto </p>
+<p>Aia. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "che non può esser" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "si" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-o" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

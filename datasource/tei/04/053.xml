@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.053 date 1617-07-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">053</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 290r-291v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">290r-291v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter about captain de Mario who wants to serve the Venetian Republic. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-20">20 luglio 1617</date>
+            <num>091</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="091">
+<div type="main" facs="main text of letter" n="091">
+<!--<p>20 luglio 1617, L’Aia (cc. 290r-291v)</p>-->
+<pb n="290r" facs="04_290r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>fin dal principio, che venni a questa residenza mostrò il <lb/>
+signor capitan Gio. de Mario desiderio di venir al servitio della <lb/>
+Serenità vostra. Se gl’offerse l’occasione col signor conte Gio. Ernesto di <lb/>
+Nassau; ma restò per qualche accidente interrotta; et conti-<lb/>
+nuando pure in lui la medesima buona volontà, vedendo caminar <lb/>
+il tempo innanti alla speditione della levata del signor conte di Levenstein <lb/>
+con chi doveva esser sargente maggiore ha risoluto non tardar <lb/>
+più. Hora se ne passa a’ piedi della Serenità vostra, et ad offerirle <lb/>
+di servir colla sua persona sola; et farà esshibitione <lb/>
+insieme di far levata di genti da questi paesi perché <lb/>
+commandi ella quello, che stimerà di suo maggiore servitio. <lb/>
+Del valore di lui, et dell’habilità sua nella professione <lb/>
+dell’armi ne rende pieno testimonio il signor principe <lb/>
+Mauritio nelle sue lettere, colle quali l’accompagna <lb/>
+a vostra Serenità, come anco li signori Stati Generali favorevolmente lo trattano <lb/>
+et lo raccommandano; et io ho stimato mio debito dargli <lb/>
+le presenti per la Serenità vostra in testimonio della conoscenza <lb/>
+che ho di lui, il quale colle patenti, et colle fedi, che <lb/>
+ha de’ servitii prestati in questi paesi nelle guerre <lb/>
+passate; et nell’ultime di Giuliers, et Bransuich si farà <lb/>
+conoscer a lei proprio per esser impiegato, et col valore, <lb/>
+et isperienza che possede, et per la devotione grandissima, che <lb/>
+professa verso quella serenissima Republica degno d’esser honorato <lb/>
+dalla gratia sua. Gratie etc. </p>
+<p>Dall’Haya a’ 20 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="290v" facs="04_290v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="291r" facs="04_291r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="291v" facs="04_291v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="091">
+<!--
+<p n="291vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 luglio 1617 ricevuta a’ 4 settembre </p>
+<p>Haya </p>
+<p>Accompagna colle presenti <lb/>
+il capitan Gio. de Mario </p>
+<p>L. C. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

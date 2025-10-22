@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.085 date 1620-02-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">085</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 457r-458v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">457r-458v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Further payment of 20,000 ducats to Noirot. Paymen of ships, except one, have been arranged. The claimants of the burned ship refused payment and are turning to States General for their claims. Reports that the ice is melting, so the sixty ships in Plymouth are expected. To enhance trade, Calandrini will send one or two ships to Venice demonstrating favourable conditions. To attract more merchants, Suriano advises to create a depot in Venice for Dutch merchants to unload their goods as has been done in the Baltic ports. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-02-04">4 febbraio 1620</date>
+            <num>143</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="143">
+<div type="main" facs="main text of letter" n="143">
+<!--<p>4 febbraio 1620, L’Aia (cc. 457r-458v)</p>-->
+<pb n="457r" facs="08_457r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 176<ptr target="#tn1" n="1"/> comincia <lb/>
+175 fin 177<ptr target="#tn2" n="2"/> </p>
+<p>Serenissimo Principe </p>
+<p>sotto li doi del corrente ho spedite lettere in Amsterdam <lb/>
+tratte a vostra Serenità di altri vintimilla ducati pagabili al <lb/>
+medesimo signor Noirott, et fatte<ptr target="#tn3" n="3"/> al Calandrini, et compagni, come <lb/>
+sono state l’altre per effetto di quanto riverentemente <lb/>
+le significai colle mie ultime de’ 27 del passato n° 173 fin <lb/>
+174 delle quali ne mando qui aggiunta la replicata. </p>
+<p>Le lettere per le navi saranno già state sodisfatte, eccetto <lb/>
+quel mese, che havevo ordinato, che fosse dato a quelli <lb/>
+del vassello abbruggiato, li quali non l’hanno voluto <lb/>
+ricever, havendo detto al Calandrini, che volevano <lb/>
+veder prima quello che haveva ad esser del pagamento <lb/>
+di detto vassello preteso da essi. Ho saputo che <lb/>
+han fatto li giorni passati ricorso alli signori Stati perché <lb/>
+interponghino l’auttorità loro in questo negotio presso <lb/>
+vostra Serenità, essi signori hanno scritto all’amiralità di Roterdam <lb/>
+per informatione, né ho saputo altro<ptr target="#tn4" n="4"/> doppo<ptr target="#tn5" n="5"/> se non, che <lb/>
+detti compartecipi dovevano trovarsi con quelli <lb/>
+del Collegio per solecitarla. Io direttamente non piglio <lb/>
+notitia di questo fatto; ma so bene che non si farà <lb/>
+a creder mia cosa alcuna, che prima non mi sia <lb/>
+communicata. </p>
+<p>Il tempo ha cambiato, si cominciano a disfar li geli, et da mo’ innanti posso sperar il ritorno dei vasselli
+<pb n="457v" facs="08_457v" rend="0"/>
+in questi porti. Et voglio creder che siano nel numero di <lb/>
+60: che come m’avvisa il signor Calandrini s’intendeva<ptr target="#tn6" n="6"/> <lb/>
+che rispetto alla contrarietà del tempo si trovavano a <lb/>
+Plemua. Prego Iddio, che vengano presto per liberar <lb/>
+la Serenità vostra da questa infruttuosissima spesa, et io possi <lb/>
+terminar anco questo negotio. So che li conti<ptr target="#tn7" n="7"/> <lb/>
+dovendo a quello vedo esser multiplici con li capitani, <lb/>
+mi porteranno in lungo la compita speditione <lb/>
+et mi figuro più tosto lunghezza di mesi, che di giorni: <lb/>
+tuttavia non mancarò di solecitare quanto mi sarà <lb/>
+possibile; se ben non potrò far tanto che servi alla <lb/>
+mia volontà; ch’è d’esser sbrigato, et sollevato. </p>
+<p>Per il trafico che scrissi la passata settimana alla Serenità vostra <lb/>
+mi scrive il Calandrini, che con destrezza lo sarebbe <lb/>
+andato maneggiando, et in tanto per un principio <lb/>
+haverebbe tenuto mano, che una, o doi delle navi, <lb/>
+nelle quali ha egli parte, et li suoi cognati<ptr target="#tn8" n="8"/> ancora <lb/>
+Latfeur, et Vandermeulen per un principio faccino <lb/>
+la prova: così mi scrive, et la prudenza di vostra Serenità puol <lb/>
+comprender<ptr target="#tn9" n="9"/>, che vogli inferire, che l’essempio <lb/>
+del loro trattamento attirerà gl’altri, che sarà colla pronta speditione, colle agevolezze, et con quei <lb/>
+termini, che la Serenità vostra saprà ben far usar da’ suoi
+<pb n="458r" facs="08_458r" rend="0"/>
+ministri perché non siano li<ptr target="#tn10" n="10"/> mercanti aggravati <lb/>
+dalla perdita del tempo, et delle spese, et così alletarli <lb/>
+a dar principio, et a fermar et stabilir scala in quella <lb/>
+piazza. Al qual proposito discorrendone con uno di <lb/>
+questi signori del Governo mi disse, che per l’effetto di <lb/>
+questa scala, o comercio haverebbe stimato buono, che <lb/>
+vostra Serenità considerando dove riputasse<ptr target="#tn11" n="11"/> bene dar luoco <lb/>
+alla Natione per far magazino in quella città, o altrove <lb/>
+che stimasse più proprio per metter le loro mercantie, <lb/>
+et offerendolo ai mercanti credeva certo, che con tutti li trafichi loro che fanno in Levante, et nello stesso <lb/>
+golfo si sarebbono disposti a far scala a Venetia portar al luoco<ptr target="#tn12" n="12"/> o magazino designato li <lb/>
+carichi, et le mercantie con profitto di quel serenissimo <lb/>
+Dominio. Così parmi che hanno fatto et fanno tuttavia <lb/>
+all’Arcanghel nel mar Sentrionale<ptr target="#tn13" n="13"/> o grand’Oceano, et a Narve (cred’io al presente) sul mar Baltico. <lb/>
+Veggo, che anco questi signori haverebbono desiderio di <lb/>
+detta scala; la prudenza di vostra Serenità doverà essa-<lb/>
+minar la cosa, et far quella risolutione, che <lb/>
+stimerà propria per dar l’esca a questi mercanti. <lb/>
+Io attenderò a quello potro cavar di vantaggio per <lb/>
+servitio publico. Gratie etc. </p>
+<p>Dall’Haya li 4 febraro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="458v" facs="08_458v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 176<ptr target="#tn14" n="14"/> comincia <lb/>
+175 fin 177 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="143">
+<!--
+<p n="458vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 febraro 1619 ricevute a’ 19 detto </p>
+<p>Haia. n° 176 </p>
+<p>Li portionevoli del vassello <lb/>
+abbruciato non hanno voluto avanzi <lb/>
+pretendendo prima veder il negotio <lb/>
+del rifacimento del vassello. </p>
+<p>Aspetta il ritorno de vasselli, <lb/>
+che crede siano in numero di <lb/>
+60 che sono a Plemua. </p>
+<p>Il Calandrini s’offerisce mandar <lb/>
+suoi vasselli per aviar traffico <lb/>
+in questa città. </p>
+<p>Discorso di signori del Governo di far <lb/>
+magazino alla Nacione in questa <lb/>
+città o altrove per mercantie <lb/>
+con che si potesse far scala a <lb/>
+Venetia. </p>
+<p>Mostrano quei signori desiderio di <lb/>
+far tal scala. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue fin depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue dop depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue che depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Esito di correzione -no."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Aggiunto in sopralinea su compagni depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Precede inferire depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Segue ministri depennato."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Così A."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-6 corretto da -7."</p></note>
+</div>
+</body>
+</text>
+</TEI>

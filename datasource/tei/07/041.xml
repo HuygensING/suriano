@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.041 date 1619-02-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera, Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">041</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 266r-v, 271r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">266r-v, 271r-v, 267r-270v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Sends copy of the indoglienze of the mariners and soldiers together with the remonstrants of admirals of the fleet. He adds that the States General expect a reply and Admiralties expect money, requesting how to conduct himself in such matters in future. Two documents are attached: French text and Italian translation of a memorial on the twelve ships</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-02-03">3 febbraio 1619</date>
+            <num>086, 087</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="086">
+<div type="main" facs="main text of letter" n="086">
+<!--<p>3 febbraio 1619, L’Aia (cc. 266r-v, 271r-v)</p>-->
+<pb n="266r" facs="07_266r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 85 seguita a<ptr target="#tn1" n="1"/> n° 84 </p>
+<p>spedite per la via d’Anversa </p>
+<p>Serenissimo Principe </p>
+<p>havevo di già spedite le mie lettere per la Serenità vostra di questo giorno n° <lb/>
+84, et era partito il messaggiero per passar con esse in Anversa <lb/>
+quando mi venne a trovare il secretario de’ signori Stati Generali, il qual <lb/>
+di commissione dell’Eccellenze loro mi venne a legger quello, che nel <lb/>
+proposito dei marinari, o delle dodici navi scrivono alla Serenità vostra <lb/>
+il tenore è il medesimo, che nell’aggiunta copia. Sono li punti <lb/>
+sopra quali desiderano, et stimano a proposito che sia posto rime-<lb/>
+dio, dicendomi il secretario, che nel principio delle loro guerre in <lb/>
+questi paesi il maggior travaglio, et timore, che habbino havuto <lb/>
+quelli del Governo è stato per li marinari, che come facili al <lb/>
+mutino possino anco presto farsi patroni dei vasselli, quando <lb/>
+par loro non haver la sodisfattione, che si conviene; che <lb/>
+però oltre l’instanza, che mi era stata fatta<ptr target="#tn2" n="2"/> dai depu-<lb/>
+tati mi pregava di nuovo anc’egli a nome di tutta l’assem-<lb/>
+blea di scriver seriosamente, et mandar gl’istessi capitoli <lb/>
+che mi dava in francese; che tanto dissi di essequire, come faccio <lb/>
+havendo però stimato bene farne la translatione nel <lb/>
+nostro idioma. </p>
+<p>Oltre quello, che ho scritto con precedenti, et colle sudette<ptr target="#tn3" n="3"/> lettere di <lb/>
+questo giorno vi è un’altra indoglienza per li soldati, che si <lb/>
+trattengono nelle navi, li quali facendosi hora le spese da sé fano <lb/>
+anco mille indignità, et sporcitie, che non intendono li marinari<ptr target="#tn4" n="4"/> esser sotto-<lb/>
+posti nettare, et che questo genera fettore, et per consequente <lb/>
+causa delle malatie. </p>
+<p>Di più raccomandano la pretensione di quei mercanti, che hanno <lb/>
+date l’armi al conte di Levenstein per haverne pagamento. Io <lb/>
+però a questo punto considerai al detto secretario quello che <lb/>
+la Serenità vostra mi ha scritto l’ottobre passato, che il Conte le era
+<pb n="266v" facs="07_266v" rend="0"/>
+debitore di molta summa della quale si andave redintegrando <lb/>
+col scontarle dalle provisioni, essendo di dovere, che prima <lb/>
+ella fosse pagata, et poi gl’altri. Anco agl’interessati ho replicato <lb/>
+l’istesso, che prima li havevo detto nella medesima forma: con tutto <lb/>
+ciò mi hanno di nuovo pregato di scriver per il loro giusto <lb/>
+sollevo, dicendo, che li era stato presuposto, et promesso, che <lb/>
+si riteneva per loro il denaro debito per l’armi. Anco il secretario <lb/>
+mi fece la medesima instanza a nome de’ signori Stati; et mi disse <lb/>
+che il Console de’ mercanti haverebbe havuto ordine di presen-<lb/>
+tar le lettere dell’Ecellenze loro. </p>
+<p>All’amiraglio Kerkoven dalli signori dell’amiralità di Amsterdam <lb/>
+sarà mandata copia della rimonstranza, che hanno fatta <lb/>
+far a’ signori Stati per li loro deputati; onde sia stimato mio <lb/>
+debito di ispedir le presenti per la via di Amsterdam poiché <lb/>
+devono le lettere di questi signori<ptr target="#tn5" n="5"/> esser spedite questa notte a quella <lb/>
+volta: perché partino martedì coll’ordinario di Colonia <lb/>
+che<ptr target="#tn6" n="6"/> se ne va la sera per là<ptr target="#tn7" n="7"/>. Et certo <lb/>
+è necessario, che l’Eccelenze vostre procurino il rimedio, et l’ordine <lb/>
+nella sua armata con questi della Natione, perché mi è <lb/>
+stato detto di più. Che anco negl’altri vasselli vi siano di <lb/>
+quelli che fanno de’<ptr target="#tn8" n="8"/> lamenti. Intenderà ella il contenuto <lb/>
+dei capitoli, o punti descritti nell’aggiunta copia, et <lb/>
+traduttione, vedrà le pretensioni, et in che consistino le <lb/>
+difficoltà, et le cause de’ compianti più distintamente di quello <lb/>
+ch’io<ptr target="#tn9" n="9"/> le ho saputto rappresentare, et devenirà a quella <lb/>
+risolutione, che stimerà propria. Questi signori Stati aspetteren <lb/>
+risposta, et le Amiralità denari. L’una, et li altri sono <lb/>
+necessarii per sodisfattione, per contento, et per publica
+<pb n="271r" facs="07_271r" rend="0"/>
+riputatione. Et attenderò con desiderio quello che doverò <lb/>
+dire, et ccome mi doverò governar nel’avenire. Si vede <lb/>
+particolar effetto in questi signori del servitio di vostra Serenità, et so che <lb/>
+loro spiace il disordine, non men che se fosse il proprio fatto <lb/>
+stesso o vero che vi concorre in questo l’interesse anco <lb/>
+della Natione. </p>
+<p>Aggiungo allo scritto nell’altre mie nel proposito dell’imbarco <lb/>
+che disegnano Spagnoli far in Doncherchen, che havendo <lb/>
+bisogno di vasselli, et havendosi qui presentito, che ne <lb/>
+procurassero<ptr target="#tn10" n="10"/> et qui in Holanda, et in Zelanda <lb/>
+è stato scritto da per tutto, perché non sia lasciato partir <lb/>
+vassello che vadi, o sia levato per tal speditione. Così mi <lb/>
+ha detto il detto secretario di quello anderò<ptr target="#tn11" n="11"/> intendendo <lb/>
+non mancarò di darne riverente parte alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 3 febraro 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="271v" facs="07_271v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 85 seguita l’84 </p>
+<p>Spedito hoggi per via d’<lb/>
+Anversa </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="086">
+<!--
+<p n="271vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 febraro 1618 more veneto ricevute a’ 20 </p>
+<p>Haya. n° 85 </p>
+<p>Manda copia delle indoglienze de’ <lb/>
+marinari data dal secretario dei signori <lb/>
+Stati, qual aggionse che loro anco <lb/>
+da principio delle guerre provocate simili <lb/>
+dificoltà, et esser bene tenerli <lb/>
+sadisfatti: et insta sia mandata <lb/>
+la medesima a Venetia. </p>
+<p>Aggionge l’indoglienza de’ soldati <lb/>
+che nelle navi facendosi le spese <lb/>
+causano diverse imonditie, che <lb/>
+poi partoriscono anco delle malatie. </p>
+<p>Raccommanda la pretencione dei <lb/>
+creditori dell’arme del Levenstein <lb/>
+a che risponde il secretario con buone ragioni. </p>
+<p>Che sarà mandata copia della <lb/>
+remostranza all’Armiraglio <lb/>
+et ben sarà qualche rimedio et <lb/>
+buon ordine in armata. Et li signori <lb/>
+Stati aspetteranno risposta et le <lb/>
+Amiralità denari. Et dimanda <lb/>
+come risponder, e governarsi <lb/>
+nell’avvenire, vedendosi in <lb/>
+quei signori particolar affetto, et <lb/>
+dispiacere de’ disordini. </p>
+<p>Ordine che non sia lasciato <lb/>
+partir vasselli per levar <lb/>
+soldati a Doncherchen. </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="087" corresp="086" source="267r-270v" >
+<div type="main" facs="main text of attachment I" n="087" corresp="086" >
+<!--<p>Allegato I al n. 86 (cc. 267r-270v; traduzione a cc. 255r-256v)</p>-->
+<pb n="267r" facs="07_267r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya de’ <lb/>
+3 febraro 1618 more veneto </p>
+<p>Memoire des points, et plaints remonstrez <lb/>
+en l’assemblée de messeigneurs les <lb/>
+Estats Generaulx des Pays Bas Uniz <lb/>
+le xxv<hi rend="superscript">e</hi> jour du mois de Janvier 1619 <lb/>
+par les deputez des collieges des admiraultéz <lb/>
+de Rotterdam, et Amsteredam, à ceste <lb/>
+fin que sur icelux pourroit estre <lb/>
+pourveu, et donné ordre en temps, affin <lb/>
+de prevenir et eviter tous disordres et <lb/>
+confusions, et que la serenissime <lb/>
+republicque de Venize puisse tirer <lb/>
+le service, et fruict de la flotte, qu’icelle <lb/>
+en attend, et espere, et soit conservé <lb/>
+l’honneur, et reputation des dicts seigneurs <lb/>
+Estats, et de ces Pays, deliburez es <lb/>
+mains du seiur Suriano resident prez <lb/>
+les dites seigneurs Estats de la part <lb/>
+de la dicte serenissime Republicque, <lb/>
+affin de moyenner le redres d’jceulx. </p>
+<p>Le troisiesme jour du mois de feburier 1619<ptr target="#tn12" n="12"/> </p>
+<p>Preimierement qu’il plaise ausudits seigneurs <lb/>
+Estats adviser, et donner ordre que l’admiral <lb/>
+Kerckhoven, avec les aultres capitaines puissent <lb/>
+demoeurer sans palintes, touchant le pain de <lb/>
+bouche des matolots, et soldats, suivant le <lb/>
+quatorziesme article de leur instruction, par <lb/>
+le quel il leur est promiz, que quant leurs <lb/>
+vivres achaptez en ces Pays seront consumez
+<pb n="267v" facs="07_267v" rend="0"/>
+qu’ilz auront aultant plus que sera trouvé <lb/>
+convenir, ce que les capitaines escripuent <lb/>
+que doibt estre pour le moins trois à quatre gros <lb/>
+pour chascun homme par jour, à commencer des <lb/>
+le premier de novembre dernier. </p>
+<p>Notammente aussy, que la serenissime <lb/>
+Republicque face prendre soigneux regard, ainsi <lb/>
+que nous faisons ici à l’endroict les malades, blessez <lb/>
+et assoulez, et qu’iceulx puissent estre <lb/>
+traictez, et accommodez des viandes, et <lb/>
+aultrement avec toute discretion, et raisonna-<lb/>
+blement, d’aultant que l’on leur à falu promectre <lb/>
+par act special devant qu’ilz se sont voulez<ptr target="#tn13" n="13"/> <lb/>
+laisser embarcquer, qu’on les laissera <lb/>
+retourner au logis, aussy tost qu’ilz ne seront <lb/>
+bien traictez. </p>
+<p>Et touchant leur payement, comme les <lb/>
+collieges des Admiraultez se trouvent sollicitez <lb/>
+pour jcelluy, si demandent ilz qu’il puise <lb/>
+la dessus estre prins, et donne tel reglement <lb/>
+que les capitaines, et matelots puissant <lb/>
+avoir leur besoing, et aussy leurs femmes <lb/>
+ici estre contentez tout ainsy que l’on est <lb/>
+accoustumé de faire et user à l’endroict <lb/>
+les navires de ces Pays, à quelle fin <lb/>
+il est necessaire que l’on aye
+<pb n="268r" facs="07_268r" rend="0"/>
+tous les mois ou deux mois les rolles des <lb/>
+monstres. </p>
+<p>Et d’aultant qu’il s’est aussy meu question <lb/>
+touchant le different pris, et cours de l’argent <lb/>
+à Venise, et ici, de tant plus, à cause du grand <lb/>
+haulsement d’jcelluy qui se voit journellement <lb/>
+à Venise. Il est necessaire qu’il soit prins regard <lb/>
+sur le xv<hi rend="superscript">e</hi> article de leur instruction, qui porte <lb/>
+que l’escu sera compté argent courant, à raison de <lb/>
+cincquante patarts de ces pays. </p>
+<p>D’avantage l’on se plaint fort de ce que les soldats <lb/>
+que l’on mect sur les navires font leurs propres despens, <lb/>
+et qu’il fault que les matelots les pourvoyent d’eau <lb/>
+fraiche, bruslage, et aultres necessitez, et <lb/>
+qu’iceulx occasionnent grande puanteur, et <lb/>
+ordure deans les navires, voires tellement que <lb/>
+l’admiral Kerckhoven par ses lettres du xxiiii<hi rend="superscript">e</hi> de <lb/>
+novembre dernier faict mencion qu’ilz avoient <lb/>
+lors bien cincq cens malades sur leurs navires, <lb/>
+et jceulx tant<ptr target="#tn14" n="14"/> foibles, que malaisement ilz pourroient <lb/>
+gouverner les navires, et qu’il voioit leur ruine <lb/>
+devant les yeulx s’ilz deburont retourner aux <lb/>
+navires, à quoy il sembloit que le General, et <lb/>
+Conseil inclinoient<ptr target="#tn15" n="15"/>. </p>
+<p>De maniere, qu’ilz prient tous ensemble fort <lb/>
+iustamment, affin de pouvoir returner au logis <lb/>
+les uns sans aulcune exception, et aultres
+<pb n="268v" facs="07_268v" rend="0"/>
+s’il ne seroit à tout remedié, comme il <lb/>
+convient. </p>
+<p>Qu’il doibt aussy estre consideré, et donné <lb/>
+ordre, affin d’obvier à toutes plaints par de ça, <lb/>
+que les collieges respectivement puissent estre <lb/>
+à temps pourveuz d’argent, pour pouvoir faire <lb/>
+les payements necessaires, et qu’il leur puisse <lb/>
+tousiours demoeurer quelque advance pour furnir <lb/>
+à quelques minutez. </p>
+<p>Les dits seigneurs Estats Generaulx recom-<lb/>
+mandent encore serieusement à la serenissime <lb/>
+republicque de Venise, en conformité de quelques <lb/>
+precedents lettres par eulx escriptes à sa Serenité, <lb/>
+que Elias Trip, et Louys de Geer habitans, et <lb/>
+marchants de la ville d’Amsteredam puissent <lb/>
+estre payez des armes qu’ilz ont transportez à <lb/>
+Venise hors du contract qu’ilz ont faict avec le <lb/>
+conte de Leeveesteyn, les quelles du sceu <lb/>
+d’icelle ont esté illecq despacquettez, et <lb/>
+distribuez aux soldats du regiment du dict seiur <lb/>
+Conte, le quel aultrement la dite serenissime <lb/>
+Republicque debuoit armer. </p>
+<p>De maniere que en ce regard icelle a adboné, et <lb/>
+approuvé la dicte livrance, et cela de tant plus <lb/>
+qu’icelle a eue cognoissance que les dites armes <lb/>
+n’essoyent encore payez. </p>
+<pb n="269r" facs="07_269r" rend="0"/>
+<p>Mesme aussy parce qu’ilz ont faict dire aux <lb/>
+suppliants que l’on rabattoit les dites armes par <lb/>
+chasque mois à leur proffict, ce que repugne <lb/>
+directement à ce que la dicte Republicque soustient <lb/>
+maintenat, seavoir qu’icelle auroit payé le <lb/>
+provenu des dictes armes au dict seiur conte de Leeuvesteyn, <lb/>
+comme aussy de mesmes à leur premier promesse, <lb/>
+soostenants encore à present qu’ilz ont plus payé <lb/>
+à icelluy Conte que ne luy competoit, et que partant <lb/>
+ilz ont faict le rabat à leur propre prouffict, <lb/>
+ce que ne peult avoir lieu selon droict, et raison <lb/>
+contre la dicte promesse. </p>
+<pb n="269v" facs="07_269v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="270r" facs="07_270r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="270v" facs="07_270v" rend="270"/>
+<p>Scrittura dei signori Stati per le xii <lb/>
+navi, et per l’armi del <lb/>
+conte di Levenstein </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment I" n="087" corresp="086" >
+<!--
+<p n="270vC">———</p>
+-->
+<head>secretarial text of attachment I</head>
+<p>13 febraro 1618 more veneto ricevute a’ 20 </p>
+<p>Haya. n° 85 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "f" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "fa" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "le" corrected above "de", then crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "li marinari" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-ri" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "partirà" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "per là" added above the line on "a quella volta" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes "riconcesso" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-ò" corrected above "-à."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Ce troisiesme … 1619" added in the interlinear space below the line of writing.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-ent" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

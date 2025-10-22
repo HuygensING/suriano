@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.006 date 1616-10-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">006</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 33r-35v, 42r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">33r-35v, 42r-v, 36r-v, 41r-v, 37r-v, 40r-v, 38r-39v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Johan Ernst of Nassau wants his troops to be garrisoned in town in Holland, but States General have refused this request and have proposed fortresses along the Meuse and on Texel. The brother of Johan Ernst has arrived in The Hague from France, he also visited Suriano offering to serve the Venetian Republic by raising cavalry. His conditions outlined in two documents are enclosed with the letter. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-18">18 ottobre 1616</date>
+            <num>010, 011, 012, 013</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="010">
+<div type="main" facs="main text of letter" n="010">
+<!--<p>18 ottobre 1616, L’Aia (cc. 33r-35v, 42r-v)</p>-->
+<pb n="033r" facs="03_033r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>la grave indispositione, et poi la morte della contessa di Olach <lb/>
+sorella di questi principi di casa di Nassau, ha causato che ’l <lb/>
+signor principe Mauritio è ritornato all’Haya più presto <lb/>
+di quello si credeva, havendo lasciato di passar a Breda <lb/>
+come haveva già in animo di fare. Il suo ritorno è <lb/>
+stato caro al signor conte Gio. Ernesto, et a me perché col <lb/>
+suo consiglio, et col suo favore le cose<ptr target="#tn1" n="1"/> camineranno <lb/>
+in questo tempo, che si trattenirà qui con maggior <lb/>
+vantaggio nostro. Doverà andar sabbato a Buron <lb/>
+per l’interramento della detta Contessa; ma ritornerà <lb/>
+in pochi giorni. L’ufficio che feci in lettere<ptr target="#tn2" n="2"/> <lb/>
+con sua Eccellenza l’ho rinovato a bocca, et ho havute parole <lb/>
+molto affettuose; et promesse d’assister alla persona<ptr target="#tn3" n="3"/> <lb/>
+del<ptr target="#tn4" n="4"/> signor Conte, et al servitio di vostra Serenità in ogni maniera <lb/>
+possibile. </p>
+<p>Ha l’Eccellenza sua concesso al signor Conte alcuni degl’officiali, che le <lb/>
+ha dimandati; ma per li</p>
+<p>Francesi non ha voluto farne <lb/>
+altro per non volersi ingerire nelle genti pagate da <lb/>
+sua Maestà christianissima; non sapendo manco se ella l’havesse caro <lb/>
+stante l’esser la serenissima Regina regnante nipote all’<lb/>
+arciduca Ferdinando; et il Conte per tal rispetto ha <lb/>
+poca speranza, che quello, che è passato in Francia <lb/>
+ottenga la licenza. Egli si aspetta appresso dimand[a]<ptr target="#tn5" n="5"/>
+<pb n="033v" facs="03_033v" rend="0"/>
+più lunga di ritorno. Intanto fin venerdì passato <lb/>
+si sono date quasi tutte le commissioni per la levata, né <lb/>
+vi restano che quelle per essi Francesi; et quelli, che l’hanno <lb/>
+havute sono andati a far le loro genti, et caminando <lb/>
+il tempo buono col beneficio di esso haveranno facilità <lb/>
+di far tanto più presto il servitio. </p>
+<p>Voleva il signor Conte per propria commodità haver la piazza <lb/>
+d’armi nei villaggi di questa provintia dell’Holanda; <lb/>
+ma li signori Stati non l’hanno stimato a proposito per suo <lb/>
+servitio, et meno per l’incommodità, che haverebbono li <lb/>
+soldati potuto apportar a’ paesani; non essendosi manco <lb/>
+accostumato mai in questi paesi di far ciò, che in terre <lb/>
+murate: onde gli hanno accordate diverse piazze dalla <lb/>
+parte della Moza<ptr target="#tn6" n="6"/>, et da quella del Tessel; et per tanto <lb/>
+il tempo riuscirà un poco maggiore per convenirsi <lb/>
+andar da luoco a luoco. </p>
+<p>Il senso del signor principe Mauritio, et di molti con chi è <lb/>
+stato consultato in questo affare è che le compagnie <lb/>
+secondo, che anderanno passando mostra col primo <lb/>
+vento e imbarchino, et faccino vela: perché se volessero <lb/>
+aspettar l’unione di tutta la flotta dentro ai porti <lb/>
+sarebbe perdita di tempo, et servirebbe a disaggio de’ <lb/>
+primi soldati rolati; temendosi anco de quelli<ptr target="#tn7" n="7"/>, che tal hor[…]
+<pb n="034r" facs="03_034r" rend="0"/>
+sogliono venere nel mese di novembre; di maniera che <lb/>
+non potrebbono sortire particolarmente dal Tessel per qualche <lb/>
+tempo; et quando si resti in questa deliberatione, a che <lb/>
+par che s’inchini, potrebbono li primi arrivar una <lb/>
+o doi settimane avanti gl’altri. </p>
+<p>In questo caso, che le navi vadino a parte a parte* il signor <lb/>
+Conte doppo ispedite tutte le cose manderà in diligenza <lb/>
+costì qualche soggetto proprio per ricever le genti, che <lb/>
+anderanno arrivando; et egli poi risolverà di fare <lb/>
+il viaggio o per mare, o per terra secondo, che <lb/>
+sarà consigliato al meglio. </p>
+<p>Cinque o sei giorni sono, ch’è capitato qui di Franza <lb/>
+il signor conte Gioanni di Nassau fratello del conte Gio. Ernesto <lb/>
+quello che altre volte voleva condursi al servitio di <lb/>
+vostra Serenità et è stato a servir il signor duca di Savoia. </p>
+<p>È venuto per veder il fratello, et li parenti; et per <lb/>
+rinovar la sua licenza per poter impiegarsi fuori del <lb/>
+Paese. Fu a visitarmi, mostrando contento della <lb/>
+condotta seguita, ha ringratiato vostra Serenità della stima, <lb/>
+che fa della casa di Nassau; dicendomi, che questa <lb/>
+gli dava cuore, et lo evitava a non haver a viver <lb/>
+manch’egli infruttuoso nel desiderio di servirla; et <lb/>
+che facendo il fratello levata di genti da piedi
+<pb n="034v" facs="03_034v" rend="0"/>
+egli si offeriva di condurla ottocento fin milla huomini a cavallo<ptr target="#tn8" n="8"/> o più <lb/>
+a piacer della Serenità vostra, contentandosi di servir anco sotto la condotta del fratello, et che condurebbe detta cavallaria <lb/>
+da questa, et dalla parte dell’Alemagna. </p>
+<p><hi rend="decoded">Disse</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">poiché non essendo il passo aperto in Guisoni era <lb/>
+necessario far la strada del Piemonte, ma che fin <lb/>
+là bisogna far correr la voce esser per il signor <lb/>
+duca di Savoia col mezo, et aiuto del quale <lb/>
+poi accordata, et intestati prima bene la Serenità. <lb/>
+</hi></p>
+<p><hi rend="decoded">Non potrebbe haver scorta sino sol Pavese, o <lb/>
+Parmegiano, et passar in brevi hore su quello di <lb/>
+vostra Serenità, et così si prometteva, che la cosa <lb/>
+havesse a riuscire et già ne haveva discorso a <lb/>
+Pariggi col mezo del signor conte di Moreta, et <lb/>
+poteva esser che vostra Serenità ne havesse notitia. <lb/>
+</hi></p>
+<p>Et però mi voleva dar una memoria, ch’è l’aggiunta, che servirebbe per offerta della sua devota intentione <lb/>
+nel servitio di lei. M’ha detto haver messo distintamente <lb/>
+tutte le cose affineché ella possi farne la sua <lb/>
+prudentissima deliberatione <hi rend="decoded">per</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">dar poi quei</hi>
+<pb n="035r" facs="03_035r" rend="0"/>
+<hi rend="decoded">ordini, che stimerà proprii <lb/>
+all’eccellentissimo signor ambasciator Donato a Turino, dal quale <lb/>
+riceverà la risposta, sperando fra tre, o quattro <lb/>
+settimane esser a quella corte. <lb/>
+</hi></p>
+<p><hi rend="decoded">Doverà alla fine di questa settimana partir per Francia, ove <lb/>
+si fermerà dieci, o dodeci giorni, et di là poi anderà in <lb/>
+Piemonte, et farà capo coll’eccelentissimo signor ambasciator Donato, <lb/>
+pregandomi di nuovo a servir alla Serenità vostra, che si <lb/>
+compiaccia di fargli dar qualche risposta</hi>. Gratie etc. </p>
+<p>Dall’Haya a’ 18 ottobre 1616 </p>
+<p>di vostra Serenità <lb/>
+<lb />humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="035v" facs="03_035v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="042r" facs="03_042r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="042v" facs="03_042v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="010">
+<!--
+<p n="042vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 ottobre 1616 ricevuta a’ 9 novembre </p>
+<p>Dall’Haya secretario Surian </p>
+<p>Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="011" corresp="010" source="36r-v, 41r-v" >
+<div type="main" facs="main text of attachment I" n="011" corresp="010" >
+<!--<p>Allegato I al n. 10 (cc. 36r-v, 41r-v)</p>-->
+<pb n="036r" facs="03_036r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Offerta del signor conte Gio. di Nassau <lb/>
+per cavalleria </p>
+<p>Il signor conte Gio. di Nassau offerisce di condur alla serenissima republica di Venetia <lb/>
+cavalleria di questi paesi, et altri circonvicini sotto la condotta, et commandamento <lb/>
+del signor conte Gio. Ernesto suo fratello. </p>
+<p>Il detto Conte condurrà tre mesi doppo haver havuta la sua speditione mille, over <lb/>
+ottocento buoni soldati a cavallo o più secondo il desiderio della detta serenissima Republica <lb/>
+per quella stradda, che già pensa esser stata rappresentata alla detta serenissima <lb/>
+Republica dalla parte di Parigi et quello con le conditioni susseguenti. </p>
+<p>Che la detta truppa sarà assicurata di tre mesi di servitio in caso che la pace <lb/>
+si facesse innanti l’esser arrivato sopra li paesi, et terre della detta Republica et es-<lb/>
+sendo arrivati di 6 mesi insieme con un mese di paga per la retirata. </p>
+<p>Di più, che arrivando nei paesi dei Svizzeri la serenissima Republica li provederà d’un com-<lb/>
+missario per condurli, et spetarli per il detto paese de’ Svizzeri le quali spese <lb/>
+nel paese de’ Svizzeri potrebbono vener alla summa. </p>
+<p>Quanto alle paghe, et trattenimento per quanto aspetta a lui, et al suo luocotenente <lb/>
+colonello si rimette alla descrettione della serenissima Republica. </p>
+<p>Nel resto si doverà contar a lui per la levata per ogni cavallo 30 ongari intenden-<lb/>
+dosi questo per le loro armi, et condotta fino nel dominio veneto, ecettuata però <lb/>
+la spesa sudetta, che doverà fare il predetto Commissario a conto della serenissima Republica <lb/>
+nel paese de’ Svizzeri. </p>
+<p>Appresso per la paga di ciascheduno capitano a cavallo 150 ongari al mese. </p>
+<p>Per il luocotenente ongari settantacinque. </p>
+<p>Per la cornetta ongari cinquanta. </p>
+<p>Al quartier mastro ongari vinti. </p>
+<p>A’ quattro caporali ongari quindeci per ciascheduno. </p>
+<p>Tutto intendendosi a’ mese corrente. </p>
+<pb n="036v" facs="03_036v" rend="0"/>
+<p>Al forrier maggiore, et al sergente maggiore delle dette truppe paga di capitano a <lb/>
+cavallo, et per l’auditore et provosto generale la metà a ciascheduno per mese. </p>
+<p>Per ciaschedun huomo a cavallo 10 ongari per mese come si accostuma in Francia, <lb/>
+et Alemagna intendendo di far le compagnie di 130 cavalli per compagnia. </p>
+<p>Che ’l Commissario, che doverà condur la detta cavallaria per li Svizzeri, habbi carica di <lb/>
+darle la mostra et doverà cominciar il mese dal giorno della rasegna. </p>
+<pb n="041r" facs="03_041r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="041v" facs="03_041v" rend="270"/>
+<p>2 </p>
+<p>Offerta del signor conte Gio. di Nassau <lb/>
+per cavallaria </p>
+<p>Nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="012" corresp="010" source="37r-v, 40r-v" >
+<div type="main" facs="main text of attachment II" n="012" corresp="010" >
+<!--<p>Allegato II al n. 10 (cc. 37r-v, 40r-v)</p>-->
+<pb n="037r" facs="03_037r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Il signor conte Gioanni<ptr target="#tn11" n="11"/> di Nassau offerisce di condur alla <lb/>
+serenissima republica di Venetia cavallaria di questi paesi <lb/>
+et altri circumvicini sotto la condotta e commandamento <lb/>
+del signor conte Gio. Ernesto suo fratello. </p>
+<p>Il detto Conte condurrà tre mesi doppo haverà havuta la sua speditione mille overo <lb/>
+otto cento buoni soldati a cavallo o più secondo il desiderio della detta serenissima Republica <lb/>
+per quella strada che già pensa esser stata rappresentata alla detta Republica dalla <lb/>
+parte di Parigi, e questo con le conditioni suseguenti. </p>
+<p>Che la detta truppa sarà assicurata di 3 mesi di servitio, in caso che la pace si facesse <lb/>
+inanti l’esser arrivato sopra li paesi et terre della detta Republica, et essendo arrivati <lb/>
+di sei mesi insieme con un mese di paga per la retirata. </p>
+<p>Di più che arrivando nei paesi di Svizzeri la serenissima Republica li provederà d’un commissario <lb/>
+per condurli et spesarli per il detto paese di Svizzeri se<ptr target="#tn12" n="12"/> occorrerà, le<ptr target="#tn13" n="13"/> quali<ptr target="#tn14" n="14"/> spese nel paese di <lb/>
+Svizzeri potrebbono venir alla summa. </p>
+<p>Quanto alle paghe et trattamento per quanto si aspetta a lui et al suo luocotenente colonello <lb/>
+si rimette alla discretione della serenissima Republica. </p>
+<p>Nel resto si doverà contar a lui per la levata per ogni cavallo 30 cecchini intendendosi <lb/>
+quello per le loro armi et condotta, fino nel dominio veneto ecetuata però la spesa sudetta <lb/>
+che doverà fare il predetto commissario a conto della serenissima Republica nel paese di Svizzeri. </p>
+<table>
+<row role="label">
+<cell><p>Appresso per la paga d’ogni mese di ciascheduno capitano a cavallo</p></cell>
+<cell><p>cecchini<ptr target="#tn15" n="15"/> 150 </p></cell>
+</row>
+<row>
+<cell><p>Per il luocotenente</p></cell>
+<cell><p>75 </p></cell>
+</row>
+<row>
+<cell><p>Per la cornetta</p></cell>
+<cell><p>50 </p></cell>
+</row>
+<row>
+<cell><p>Al quartiermastro<ptr target="#tn16" n="16"/></p></cell>
+<cell><p>20 </p></cell>
+</row>
+<row>
+<cell><p>A’ due caporali per ciaschiduno</p></cell>
+<cell><p>15 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+<p>Tutto intendendosi a’ mese corrente. </p>
+<p>Al forier maggior, et al sergente<ptr target="#tn17" n="17"/> maggior delle dette truppe paga di capitani a cavallo, et per <lb/>
+l’auditore et provosto generale la mità a ciascheduno per mese. </p>
+<p>Per ciaschedun<ptr target="#tn18" n="18"/> huomo a cavallo cecchini 10 per mese come si custuma in Francia, et <lb/>
+Alemagna, intendendo di far le compagnie di 130 cavalli per<ptr target="#tn19" n="19"/> compagnia. </p>
+<p>Che ’l commissario che doverà condur la detta cavallaria per li Svizzeri, habbi carica di darle <lb/>
+la mostra, et doverà cominciar il mese dal giorno della rasegna. </p>
+<pb n="037v" facs="03_037v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="040r" facs="03_040r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="040v" facs="03_040v" rend="270"/>
+<p>Offerta del signor conte Gio. di Nassau </p>
+<p>Nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="013" corresp="010" source="38r-39v" >
+<div type="main" facs="main text of attachment III" n="013" corresp="010" >
+<!--<p>Allegato III al n. 10 (cc. 38r-39v; decodifica di cc. 34v-35r)</p>-->
+<pb n="038r" facs="03_038r" rend="0"/>
+<head>main text of attachment III</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="038v" facs="03_038v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="039r" facs="03_039r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="039v" facs="03_039v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by ", ch-" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "persona" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "M-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "de quelli" added above the line on "dei geli" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "a cavallo" added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Disse … notitia" decoding of the encrypted text can be found on c. 38r; with cross-reference sign.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "per … risposta" decoding of the encrypted text can be found on c. 38r; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "c-" corrected above "z-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "quartier-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-ia-" corrected above "-hi-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.026 date 1621-05-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">026</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 126r-129v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">124r-125v, 126r-129v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has visited Maurice on a training exercise with his army and reports entirely in cipher on his conversation with Maurice about a potential truce. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-24">24 maggio 1621</date>
+            <num>041, 042</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="041" corresp="042" source="124r-125v" >
+<div type="main" facs="main text of attachment I" n="041" corresp="042" >
+<!--<p>Allegato I al n. 42 (cc. 124r-125v; decodifica di cc. 126r-128r)</p>-->
+<pb n="124r" facs="10_124r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="124v" facs="10_124v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="125r" facs="10_125r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="125v" facs="10_125v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="letter" n="042">
+<div type="main" facs="main text of letter" n="042">
+<!--<p>24 maggio 1621, L’Aia (cc. 126r-129v)</p>-->
+<pb n="126r" facs="10_126r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 301 fin 302 </p>
+<p>Serenissimo Principe </p>
+<p>sendo presso questa casa della Serenità vostra il luoco, ove ordinariamente <lb/>
+in questa stagione li tre primi giorni della settimana li soldati <lb/>
+della compagnia del signor principe d’Oranges fanno l’essercitio ad un <lb/>
+terzo per giorno, trovandovisi sua Eccellenza mercodì anc’io me vi <lb/>
+conferii; onde hebbi occasione di vederla. Et laudando la maniera, <lb/>
+che teneva nel far essercitar la militia dei signori Stati, mi disse, <lb/>
+che sperava condur in campagna una buona truppa di gente <lb/>
+ben adrezzata al maneggiar dell’armi, et mostrò non persua-<lb/>
+dersi altrimenti se non che la guerra dovesse esser, poiché <lb/>
+intendeva, che Spagnuoli si andavano preparando poco a poco, <lb/>
+et che havevano anc’essi di brave genti: onde soggiunse <lb/>
+haveremo a battersi ben bene. Io dissi per cavar qualche cosa <lb/>
+<hi rend="decoded">parmi</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">sentir dalle voci che sarà tregua. Rispose io <lb/>
+non vi veggo l’apparenza, ne so come si possa far <lb/>
+questo; poiché Spagnoli si sono lasciati intender, <lb/>
+che prima di trattarne deveno li signori Stati risolversi <lb/>
+a tre cose al permetter in queste Provincie libero <lb/>
+essercitio della religione cattolica romana, che non <lb/>
+pensassero all’affar delle Indie Occidentali, et che <lb/>
+permettessero l’apertura del passo per la schelda <lb/>
+alla piazza d’Anversa; allhora che da i signori Stati si <lb/>
+cedesse a questi tre punti si sarebbe il re di Spagna <lb/>
+contentato di devenir in trattatione con loro. <lb/>
+</hi></p>
+<pb n="126v" facs="10_126v" rend="0"/>
+<p><hi rend="decoded">Al primo non vi è ripiego, per il qual vi si potesse asserire <lb/>
+dalle provintie, non perché si curassero, che per ogni città <lb/>
+si dicessero cento messe il giorno et che ognuno <lb/>
+ne sentisse cento, ma per il timor, che si haverebbe <lb/>
+sempre, che li pretti dipendessero dal re di Spagna <lb/>
+et seguisse qualche soversione al suo vantaggio: <lb/>
+Per il 2<hi rend="superscript">do</hi> dell’Indie, se vedranno le provincie di <lb/>
+poterlo fare, non assentiranno già mai di perder l’utile <lb/>
+et il guadagno al Paese con quel commercio per sodisfar al <lb/>
+re di Spagna. <lb/>
+</hi></p>
+<p><hi rend="decoded">Et quanto al 3° quelli de Zelanda, saranno sempre <lb/>
+contrarii, et per consequenza la città di</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">Amsterdam <lb/>
+et qualche altra, sendo in esse il corso del commercio, <lb/>
+che con l’apertura della schelda sarebbe propriamente <lb/>
+un sviar tutti li mercanti capanzoni, che hanno <lb/>
+dopo la chiusa di quel passo portano il lor <lb/>
+denaro nella borsa di Amsterdam. <lb/>
+</hi></p>
+<p>Disse, che questi erano stati li concetti, et desiderando io penetrar <lb/>
+un poco più oltre dimandai a sua Eccellenza se questa proprositione <lb/>
+era stata fatta, mi disse il signor Principe mostrando farlo la <lb/>
+confidenza che all’Eccellenza sua era stata <hi rend="decoded">fatta</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">dal Pechius a parole</hi> <lb/>
+pensando di cavar qualche frutto <lb/>
+ma non haveva trovato rincontro a sua sodisfattione
+<pb n="127r" facs="10_127r" rend="0"/>
+per le considerationi accennate. Continuò Spagnuoli, o quelli <lb/>
+<hi rend="decoded">che</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">hanno consigliata una tal propositione <lb/>
+hanno havuto per mira di far una divisione, et <lb/>
+metter tutte le cose in disordine nel Paese, perché <lb/>
+concedendosi il libero essercitio, hanno havuto <lb/>
+pensiero, che col tempo questo fosse stato assai <lb/>
+buon instrumento per riddur il tutto sotto la soggettione <lb/>
+de’ Spagnoli; o non lo concedendo, alterar gli animi <lb/>
+dei cattolici, che fomentati da altri spiriti turbo-<lb/>
+lenti mettessero qualche bruglieria nel Paese <lb/>
+col nome, et sotto pretesto di libertà di conscienza <lb/>
+quanto al 2<hi rend="superscript">do</hi> sarebbe stato con pensiero, che <lb/>
+provincie, che non sono maritime, et che non curano <lb/>
+più, che tanto questo viaggio dell’Indie Occidentali <lb/>
+fossero per gustar che non succedesse a confusione <lb/>
+Holanda, et Zelanda in particolare</hi><ptr target="#tn5" n="5"/><hi rend="decoded">, che lo procurarò. <lb/>
+Per il 3° consolar ancora tutte l’altre provincie <lb/>
+contro quella di Holanda, che ha il commercio <lb/>
+tutto in un medesimo tempo levar al Paese il frutto <lb/>
+et impoverirlo, et di tal maniera metter gelosia <lb/>
+et una picca nello stato in generale. <lb/>
+</hi></p>
+<p><hi rend="decoded">Queste considerationi disse furono messe inanti prima <lb/>
+del far della passata tregua, ma non trattate <lb/>
+così consigliando l’avocato Bernvel,</hi>
+<pb n="127v" facs="10_127v" rend="0"/>
+<hi rend="decoded">al <lb/>
+quale, come fino, ch’egli era, non parve <lb/>
+tempo, che fossero poste in trattatione</hi><ptr target="#tn6" n="6"/><hi rend="decoded">, affine di non sturbar il successo, che <lb/>
+affettava della tregua, che poi seguì, <lb/>
+promettendo forse, che col tempo, o al fine <lb/>
+della medesima si sarebbono più facilmente <lb/>
+accostate, ma si è ingannato egli ne’ <lb/>
+suoi pensieri; et Spagnoli non si trovano così <lb/>
+ben a cavallo al presente, come si pensavano, <lb/>
+havendo tutte le cose mutata faccia, et <lb/>
+essi persa la guida. <lb/>
+</hi></p>
+<p><hi rend="decoded">Sendo venuti a proposito della tregua, <lb/>
+procurai di cavar qualche cosa del viaggio <lb/>
+di quella dama, l’Eccellenza sua tirrò</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">del capo <lb/>
+et mostrò far poco conto della sua intromessa, <lb/>
+disse, ridendo, io l’ho batteggiata col nome <lb/>
+di macarela della tregua, continuando, è <lb/>
+una burla, dà da intender mille cose <lb/>
+che non hanno sussistenza; mi portò hoggi con sé <lb/>
+una polizza del marchese Spinola, non però <lb/>
+sottoscritta, che diceva; ho inteso da madama <lb/>
+Serdas, che voi desiderate, che si entri in <lb/>
+trattatione di tregua, et io ancora, et niuna <lb/>
+altra cosa mi era aggionta. La risposta <lb/>
+doveva corrisponder: noi crediamo, che non <lb/>
+havete desiderato d’entrar in trattatione, et noi <lb/>
+manco, se la vorrà presentar, che lo facci <lb/>
+soggiungendo ho ben detto alla medesima donna, <lb/>
+che guardi bene a quello, che parla, et che <lb/>
+dicca assolutamente</hi>
+<pb n="128r" facs="10_128r" rend="0"/>
+<hi rend="decoded">al Marchese, che io non <lb/>
+ho detto quello, ch’ella stessa afferma <lb/>
+non</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">haver proferito ad esso Marchese <lb/>
+</hi> ancorché egli habbi scritto della maniera <lb/>
+c’ha fatto. Ma veggo bene aggiunse, che non si farà di <lb/>
+meno di non entrar in guerra già tengo avviso, che <lb/>
+Spagnoli marchiano d’Anversa, et fra poco tempo non potemo <lb/>
+attender, altro se non, che ci attacchino in qualche piazza. <lb/>
+Staremo all’erta per far ancor noi dalla parte nostra quello, <lb/>
+che si conviene. Tutto ciò ho stimato proprio della <lb/>
+intelligenza della Serenità vostra perché potrà farvi quel reflesso, che <lb/>
+si ricerca nelle congiunture presenti. Gratie etc. </p>
+<p>Dall’Haya li 24 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="128v" facs="10_128v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="129r" facs="10_129r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="129v" facs="10_129v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 301 fin 302 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="042">
+<!--
+<p n="129vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 maggio 1621 ricevute 16 giugno n° 301 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "parmi … borsa di Amsterdam" decoding of the encrypted text can be found on c. 124r-v; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "amb" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "fatta … parole" added above the underlined encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "che … ad esso Marchese" decoding of the encrypted text can be found on cc. 124v-125v; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "in particolare" added above the deleted word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the deleted word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

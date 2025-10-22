@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.058 date 1617-07-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">058</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 313r-v, 315r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">313r-v, 315r-v, 314r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Duplicate letter. Reports that he has received a letter from Quingetti about payment One text attached: a letter by Gaspar Quingetti</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-26">26 luglio 1617</date>
+            <num>099, 100</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>26 luglio 1617, L’Aia (cc. 313r-v, 315r-v)</p>-->
+<pb n="313r" facs="04_313r" rend="0"/>
+<head>main text of letter</head>
+<p>Replicata </p>
+<p>Serenissimo Principe </p>
+<p>fino hieri a sera havevo ispedito il mio dispaccio per vostra Serenità et in <lb/>
+questo punto mi arrivano lettere del signor Quingetti di Amsterdam <lb/>
+nelle quali mi avvisa haver tratti alla Serenità vostra dodici milla <lb/>
+ducati con lettera diretta a lei pagabile al signor Gratioso <lb/>
+dal Calice, pregandomi a scriver con quest’ordinario perché <lb/>
+le sudette sue lettere trovino ricapito appresso di lei. </p>
+<p>Io diedi commissione al sudetto Quingetti di far provi-<lb/>
+sione delli detti dodici milla ducati oltre la lettera delli <lb/>
+quindeci milla, che ho di credito in lui per far la summa<ptr target="#tn1" n="1"/> <lb/>
+delli vintisette milla, che doverò esborsar a suo tempo <lb/>
+al signor conte di Levenstein. Questo però mi dà materia <lb/>
+di aggiunger le presenti alla Serenità vostra perché si compiaccia <lb/>
+far che ’l signor Gratioso del Calice habbi la sodisfattione <lb/>
+del detto danaro, che doverà però esser pagato conforme <lb/>
+all’uso della piazza, et in banco. Gratie etc. </p>
+<p>Dall’Haya a’ 26<ptr target="#tn2" n="2"/> luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="313v" facs="04_313v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="315r" facs="04_315r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="315v" facs="04_315v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="315vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 luglio 1617 ricevute </p>
+<p>Aia </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="100" corresp="099" source="314r-v" >
+<div type="main" facs="main text of attachment I" n="100" corresp="099" >
+<!--<p>Allegato I al n. 99 (c. 314r-v)</p>-->
+<pb n="314r" facs="04_314r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia </p>
+<p>Serenissimo Principe </p>
+<p>havendomi el illustre signor Cristofforo Suriano secretario <lb/>
+de sua serenissima Republica residente in queste parti imposto <lb/>
+per dua diverse sue esso debba trare sino ducati dodeci mille <lb/>
+et indrizzarle a vostra Serenità, e s’è fatto<ptr target="#tn3" n="3"/> de tal somma per pagar <lb/>
+al signor Gratioso del Calice, credo averanno a servire per <lb/>
+spedire el illustrissimo signor conte de Leevensteyn e fare imbarcare <lb/>
+sua infanteria in la fiumara d’Emse per onde se per tera <lb/>
+esso signor Conte in breve, nostro Signor lo condciess<ptr target="#tn4" n="4"/> in salvo et a <lb/>
+sua<ptr target="#tn5" n="5"/> Serenità dia contento e felice govverno. </p>
+<p>Amsterdam a dì 25 lulio 1617 </p>
+<p>Siamo a dì primo agosto s’agionse Salvo che s’accompagna la secunda de conto delli <lb/>
+ducati dodice mille in copia detto confidando che in mancamento della prima ad essa <lb/>
+soprestarà il confidato recapito, nostro Signore la guardi da male. </p>
+<p>Gasparo Quingett </p>
+<pb n="314v" facs="04_314v" rend="0"/>
+<p>Al serenissimo <lb/>
+Principe veneto </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-6" corrected above "-5."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "e s’è fatto" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "s-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

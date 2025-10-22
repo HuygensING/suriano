@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.059 date 1622-10-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">059</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 320r-v, 323r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp477-488
+            </note>
+            <biblScope unit="page">320r-v, 323r-v, 321r-322v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Mansfelt arrived in The Hague after he had already written two letters. Suriano has briefly visited him and reports in cipher that his intentions are to go to Burgundy, leave some troops near Lippstadt. Gabor will be moving in the direction of Prague with his army. Reports that Spanish mutiny in Gennep already 1000 men strong. While he is writing the letter, news arrives that English king has declared war on the emperor. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-10-17">17 ottobre 1622</date>
+            <num>093, 094</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="093">
+<div type="main" facs="main text of letter" n="093">
+<!--<p>17 ottobre 1622, L’Aia (cc. 320r-v, 323r-v)</p>-->
+<pb n="320r" facs="11_320r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 432 comincia 430 </p>
+<p>Serenissimo Principe </p>
+<p>havevo scritto l’altre doi lettere mie, et di già ero per chiuderle <lb/>
+quando fui avvisato dell’arrivo in questo luoco del signor conte <lb/>
+di Mansfelt. Sendo l’hora del desinare mandai uno de’ miei <lb/>
+a fargli riverenza per non incommodarlo in quel punto <lb/>
+colla mia andata; et doppo fui<ptr target="#tn1" n="1"/> a sodisfar a quell’ufficio <lb/>
+che stimai di mio debito con questo Cavaliere usando quei ter-<lb/>
+mini, et concetti, che mi parve poter esser espressivi della <lb/>
+stima, che fa la Serenità vostra di lui, et del suo valore. Egli <lb/>
+corrisposto abundantemente testificandomi esser obligatissimo <lb/>
+a quella serenissima Republica, et che non aspettava, che l’occasione <lb/>
+di servirla, et esser per questo commandato da lei. </p>
+<p>Nel breve tempo che mi trattenni seco cavai da lui<ptr target="#tn2" n="2"/> che la sua <lb/>
+intentione sarebbe di <hi rend="decoded">gettarsi</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">in Borgogna, lasciar un buon corpo di milita <lb/>
+in</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">Lipstat affine di tener in Breda, Colonia, <lb/>
+et altri ecclesiastici. Disse che si prometteva di poter <lb/>
+haver vinti cinque mille combattenti insieme quando <lb/>
+haverà il mezzo di poterli sostener, che già otto giorni <lb/>
+sono haveva havuto un huomo dal principe Gabor, che lo <lb/>
+assicurava di dover questo mese uscir in campagna <lb/>
+con sessanta mille combattenti, et</hi>
+<pb n="320v" facs="11_320v" rend="0"/>
+<hi rend="decoded">dissegnava tirar <lb/>
+dritto alla volta di Praga, che di ciò esso Gabor <lb/>
+haveva data parte anco al re di Bohemia: <lb/>
+et che Turchi haverebbono tenuti occupato impe-<lb/>
+rialisti da altra parte, e tornò a dire che fossero <lb/>
+sostenute le genti, che so di poter levare col <lb/>
+far del danno a casa d’Austria, et una buona <lb/>
+diversione facile sarebbe il levar l’assedio di <lb/>
+Manehin; et venendo a proposito del re d’Inghilterra <lb/>
+disse la Regina mi ha fatto dire, che sperava, <lb/>
+che sua Maestà facesse hora una buona risolutione. <lb/>
+Aggiongendo questa darà animo a Danimarca, et ad <lb/>
+altri principi ancora: aggiongendo credo che all-<lb/>
+hora la serenissima Republica farebbe qualche cosa; et <lb/>
+poi entrò che hora era il tempo di dar vivamente <lb/>
+adosso allo Spagnuolo.</hi></p>
+<p>Mi affermò che già la mutinatione dalla parte dei Spagnuoli <lb/>
+era cominciata, che in Genep si trovavano ben più di <lb/>
+mille di tutte nationi, et ogni dì ne venivano ad agiun-<lb/>
+tarsi, che doi nativi spagnuoli ultimamente<ptr target="#tn5" n="5"/> erano passati al campo <lb/>
+a sua Eccellenza per dimandarle luoco, et piazza più larga <lb/>
+assicurando, che molti, et molti sarebbono corsi; ma che <lb/>
+sendo partito avanti hieri di là non sapeva quello
+<pb n="323r" facs="11_323r" rend="0"/>
+ch’ella havesse risoluto, non parendo bene di dar così presto <lb/>
+fide a tali genti. Al qual proposito oltre lo scritto ho <lb/>
+saputo di più, che nel bando a questi amutinati, o che <lb/>
+hanno principiato il mutino cui è aggiunto che uno<ptr target="#tn6" n="6"/> <lb/>
+amazzando il compagno sarà assolto. Che disse il signor <lb/>
+Conte questo potrebbe far peggio. Tutto ciò ho stimato <lb/>
+degno della notitia di vostra Serenità. Non mancarò di far ogni <lb/>
+dimostratione al signor Conte di honore, et di stima, et di <lb/>
+servirlo come mi si conviene. Doveva andar a visita <lb/>
+della Regina, come fece doppo essermi licentiato da lui <lb/>
+et lasciai la mia carrozza che seguitasse quella della detta <lb/>
+Regina, et del signor ambasciator d’Inghilterra come non<ptr target="#tn7" n="7"/> <lb/>
+tralascerò ogn’altro termine di rispetto. Procurerò <lb/>
+cavar altri lumi delle sue intentioni per notificarle alla <lb/>
+Serenità vostra. Il signor Bernardino Rotta è ritornato con <lb/>
+lui, havendolo<ptr target="#tn8" n="8"/> incontrato per camino. Gratie etc. </p>
+<p>Dall’Haya li 17 ottobre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<p>In questo punto è venuto qui un avviso, che ha consolato grandemente che ’l re d’Inghilterra <lb/>
+habbi dicchiarata la guerra all’Imperatore, et che vogli levar un essercito, et farlo passar <lb/>
+per la Fiandra con la licenza se si vorrà darla da Spagnuoli se non pigliarsela <lb/>
+di più conferma la venuta di una flotta spagnola, et la negativa, che ’l Re haveva fatta <lb/>
+all’Ambasciator spagnuolo di lasciarla entrar nei suoi porti a rinfrescarsi. Le lettere vengono <lb/>
+dall’ambasciator Arsen, ma il signor Carleton ancor non ha havuto lettere. Se sarà vero vostra Serenità <lb/>
+haverà inteso dal luoco proprio<ptr target="#tn9" n="9"/>. </p>
+<pb n="323v" facs="11_323v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 432 comincia 430 </p>
+<p><metamark facs="Seals and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="093">
+<!--
+<p n="323vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17<ptr target="#tn10" n="10"/> ottobre 1622 ricevute a’ 10 novembre </p>
+<p>Del segretario Suriano. 3<hi rend="superscript">a</hi>. n° 432 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="094" corresp="093" source="321r-322v" >
+<div type="main" facs="main text of attachment I" n="094" corresp="093" >
+<!--<p>Allegato I al n. 93 (cc. 321r-322v; decodifica di c. 320r-v)</p>-->
+<pb n="321r" facs="11_321r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="321v" facs="11_321v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="322r" facs="11_322r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="322v" facs="11_322v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "S" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "gettarsi … allo spagnuolo" decoding of the encrypted text can be found on c. 321r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "Liptat" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "tralascio" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "In questo punto … luoco proprio" added between the date and the signature.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-7" corrected above -"3."</p></note>
+</div>
+</body>
+</text>
+</TEI>

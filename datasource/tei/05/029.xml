@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.029 date 1617-12-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">029</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 180r-v, 185 r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">180r-v, 185r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has dispatched his letter dated 11 December 1617 via the Antwerp route, and a duplicate one via Amsterdam. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-12">12 dicembre 1617</date>
+            <num>056</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="056">
+<div type="main" facs="main text of letter" n="056">
+<!--<p>12 dicembre 1617, L’Aia (cc. 180r-v, 185r-v)</p>-->
+<pb n="180r" facs="05_180r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>essendosi presentata commodità di speditione per Anversa <lb/>
+ho stimato bene valermi di essa per inviar da quella <lb/>
+stradda la replicata delle lettere, ch’ispedii hieri sera <lb/>
+per via d’Amsterdam ancorché m’assicuro, che non siano <lb/>
+per capitar male. Servirà però questa solamente per <lb/>
+accompagnar l’alligato dispaccio non havendo, che <lb/>
+aggiunger alla Serenità vostra di vantaggio di quello che <lb/>
+le ho riverentemente scritto. Gratie etc. </p>
+<p>Dall’Haya a’ xii decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="180v" facs="05_180v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="185r" facs="05_185r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="185v" facs="05_185v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="056">
+<!--
+<p n="185vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 decembre 1617 ricevuta 3 gennaro </p>
+<p>Surian. Haya </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

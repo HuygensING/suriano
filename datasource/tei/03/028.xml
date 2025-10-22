@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.028 date 1616-12-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">028</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3,fol 195r-198v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 572) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp384-396)
+            </note>
+            <biblScope unit="page">195r-198v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reiterates that he has received 6,000 ducats from Quingetti and reports he had received several letters from Gussoni and Venice. He discusses current affairs with Oldenbarnevelt, who proposes the idea of a union to oppose the ambitions of the Spanish. He adds it will be challenging to recruit more troops in Low Countries as they want keep troops near Gullik and Kleef </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-24">24 dicembre 1616</date>
+            <num>066</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="066">
+<div type="main" facs="main text of letter" n="066">
+<!--<p>24 dicembre 1616, L’Aia (cc. 195r-198v)</p>-->
+<pb n="195r" facs="03_195r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>qui in Amsterdam per la causa, che haverà intesa la Serenità vostra dalle <lb/>
+mie lettere de’ 20 scritte da quella città, et presupongo ch’ella <lb/>
+haverà trovato buono, che ricevuto il valsente delli sei milla <lb/>
+ducati, ch’era parte della provisione, che ’l Quignetti haveva fatta <lb/>
+sopra l’ordine del signor Gratioso del Calice, l’habbi fatto scriver in <lb/>
+quel banco per valermene in ogni occorrenza di vostra Serenità, la quale <lb/>
+quando non si sodisferà, ch’io trattenghi essi denari mi darà <lb/>
+li suoi prudentissimi commandamenti: perché io immediate le <lb/>
+rimetterò la summa; la quale intanto doverà esser pagata <lb/>
+a’ corrispondenti di esso Quignetti a’ 20 febraro in moneta <lb/>
+di banco. </p>
+<p>Al ritorno mio in questo luoco, che fu mercordì a notte trovai <lb/>
+un messaggiero d’Anversa arrivato il giorno innanti con <lb/>
+lettere dell’eccellentissimo signor ambasciator Gussoni ispedite espressamente che <lb/>
+accompagnavano altre di vostra Serenità de’ 2 del presente colla <lb/>
+commissione di far ufficio con questi signori, le quali mi dove-<lb/>
+vano capitar con l’altre, che ricevei la passata settimana <lb/>
+del medesimo giorno. Io hier mattina con ogni più a me <lb/>
+possibile esatta espressione de’ concetti, che vostre Eccllenze vano frapo-<lb/>
+nendo in esse lettere sodisfeci al commandamento loro, et <lb/>
+feci tutte quelle considerationi, che stimai proprie alla <lb/>
+qualità de’ tempi, al negotio, et all’eccitar questi signori a <lb/>
+pensar a qualche effettivo aiuto. Et perché si è risoluto
+<pb n="195v" facs="03_195v" rend="0"/>
+di mandar ambasciatori in Inghilterra per gl’interessi delle pannine, et delle <lb/>
+pesche, come con altre mie ho significato alla Serenità vostra esservi <lb/>
+pensiero (non sono però ancor nominati li soggetti) mi parve <lb/>
+a proposito di aggiunger nella mia espositione, che <lb/>
+sarebbe stato bene, che, oltre gl’ufficii commessi a monsignor <lb/>
+Carone, fosse anco con questa occasione ingionto a detti <lb/>
+ambasciatori il trattar con quella Maestà de’ presenti affari, et del <lb/>
+signor duca di Savoia per dar maggior calore. Et<ptr target="#tn1" n="1"/> perché <lb/>
+prima di andar all’audienza mi trovai col signor Bernvel <lb/>
+il quale mi disse, che s’intendeva, che ’l signor duca di Savoia <lb/>
+si faceva forte, che monsignor di Dighieres l’aiutava con buon <lb/>
+nervo di gente, che con queste, et con le forze, che si giun-<lb/>
+tavano del Principe suo figliolo, et del duca di Nemurs <lb/>
+rapacificato si poteva sperar molto bene delle imprese del <lb/>
+signor Duca, et che non solo havesse ricuperato il perso; ma <lb/>
+preso, et fattosi patrone anco di qualche piazza dell’<lb/>
+inimico; mi parve bene di esprimer all’assemblea <lb/>
+come feci con il medesimo signor Bernvel, che non si haveva <lb/>
+a mirar al presente, né alle speranze, che si potevano <lb/>
+havere, ma pensar bene al futuro, et prevenir a-<lb/>
+gl’accidenti, che ben spesso portano con se gl’essiti <lb/>
+della guerra, li quali quanto più sono incerti, tanto <lb/>
+più si doveva haver l’occhio, et la mira intenta
+<pb n="196r" facs="03_196r" rend="0"/>
+a quello, che ne potesse derivare. Fui ascoltato al solito <lb/>
+attentamente et il signor Bernvel come uno de’ presidenti di <lb/>
+Holanda di settimana con breve complimento, et più breve <lb/>
+risposta ringratiò di quanto la Serenità vostra faceva communi-<lb/>
+care, disse qualche cosa della cognitione, che si ha qui <lb/>
+per prova degl’andamenti de’ Spagnuoli, et concluse, che <lb/>
+che* conforme alla maniera di questo Governo si haverebbe <lb/>
+da signori Stati havuta consultatione sopra le considerationi fatte <lb/>
+da me a nome di vostra Serenità et sarebbe stata data quella <lb/>
+risposta, che fosse stata stimata propria alla mia <lb/>
+espositione, che lasciai in sostanza per scritto, secondo <lb/>
+l’uso ordinario. Io attendo essa risposta, et se venirà <lb/>
+in tempo, che la possi inviar col messaggiero, che <lb/>
+partità a mezogiorno sarà colle presenti. </p>
+<p>Non mancarò degl’ufficii necessarii in questi particolari <lb/>
+et tentarò d’imprimer quel più che dalla mia debo-<lb/>
+lezza sarà stimato proprio per servitio di vostra Serenità et <lb/>
+a pro anco del signor duca di Savoia, coll’Ambasciator del quale <lb/>
+se verrà qui (che certo sarebbe a proposito) non <lb/>
+tralascierò d’intendermi bene, et coadiuvar gl’ufficii <lb/>
+di lui conforme alla mente, et commandamento della <lb/>
+Serenità vostra. </p>
+<p>Nel proposito di reciproca ambasceria, o d’altro ministro
+<pb n="196v" facs="03_196v" rend="0"/>
+non mi è stato detto, che quanto le scrissi humilmente la passata <lb/>
+settimana, et se me ne sarà parlato continuerò a risponder <lb/>
+come ho fatto, et come veggo essermi replicato nelle <lb/>
+medesime lettere de’ 2 del presente. </p>
+<p>Il signor Bernvel nel discorrer meco delle cose correnti uscì a <lb/>
+dirmi, che a voler ben fermar il piede per resister <lb/>
+alla vasta ambitione de’ Spagnuoli stimava non esservi <lb/>
+più proprio rimedio, che l’unione. Et in questa vi <lb/>
+concorresse la Francia, l’Inghilterra, che ne mostra desi-<lb/>
+derio, la serenissima Republica li principi d’Alemagna, <lb/>
+et altri, che hanno interesse parlando di questi stati <lb/>
+ma che all’agiustar questo vi valeva et tempo, et <lb/>
+occasione; et però era necessario il farvi reflesso, et <lb/>
+havervi sopra le proprie considerationi. Io col concetto <lb/>
+della Serenità vostra senza condescender a maggior particolare <lb/>
+gli risposi, che l’intentione di lei era di ben inten-<lb/>
+dersi con questi stati, et che sarebbe stata attendendo <lb/>
+che li fossi mostrato il modo per far poi quanto <lb/>
+si credesse a proposito. </p>
+<p>Comprendo serenissimo Principe, che qui stimano far assai <lb/>
+il tener in piedi tanta soldatesca nel proprio stato <lb/>
+et in quelli di Cleves, et Giuliers,<ptr target="#tn2" n="2"/> che chiamano <lb/>
+la brida dello Spagnuolo; onde<ptr target="#tn3" n="3"/> non so a qual<ptr target="#tn4" n="4"/>
+<pb n="197r" facs="03_197r" rend="0"/>
+effettivo soccorso potessero<ptr target="#tn5" n="5"/> questi signori venire per il signor duca <lb/>
+di Savoia se non è con qualche vassello di guerra: perché <lb/>
+difficilmente si priveranno di queste forze da terra, mentre <lb/>
+parmi di vedere, che non vorranno volontieri levarsi <lb/>
+dai presidii, che hanno in quello di Cleves, et Giuliers, <lb/>
+et lo cavo, oltre quello, che ne scrissi riverentemente la <lb/>
+passata settimana a vostra Serenità dall’havermi detto il medesimo <lb/>
+signor Bernvel, che Spagnuoli vorrebbono adormentare <lb/>
+col proponer la restitutione delle piazze per farla effetti-<lb/>
+vamente; ma valersi di quelle genti per Italia, et per <lb/>
+far poi commodamente qualche altra provisione ai <lb/>
+confini; et quando gli tornasse bene riprender il <lb/>
+possesso del dominio, che hanno al presente nelle <lb/>
+piazze di quei ducati. </p>
+<p>Sopra questo particolare et sopra l’espositione del signor Carleton <lb/>
+non si sente, che si habbi volontà di far così presto <lb/>
+risposta; ma si anderà portando il tempo innanti, <lb/>
+et il signor principe di Brandemburgh, et il consiglio <lb/>
+di lui hanno fatto intender a questi signori, che rimette <lb/>
+alla loro prudenza la deliberatione propria per la <lb/>
+conservatione di quei stati. </p>
+<p>Si va vociferando, che qualche giorni doppo le feste <lb/>
+il signor principe Mauritio ha per passar a Rees, et </p>
+<pb n="197v" facs="03_197v" rend="0"/>
+<p>Emerich non vi è però certezza. Gratie etc. </p>
+<p>Dall’Haya a’ 24 decembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="198r" facs="03_198r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="198v" facs="03_198v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="066">
+<!--
+<p n="198vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 decembre 1616 ricevute a’ 11<ptr target="#tn6" n="6"/> <lb/>
+gennaro </p>
+<p>Secretario Surian dall’Haya </p>
+<p>Prima </p>
+<p>1. Ha fatto scriver nel banco d’Amsterdam <lb/>
+li ducati 6 mila havuti dal Quingetti. </p>
+<p>2. Ha ricevuto dall’ambasciator Gussoni altre <lb/>
+lettere publiche di 2 decembre. </p>
+<p>Ha fatto l’ufficio con quei signori eccitandoli <lb/>
+a pensar a qualche effettivo aiuto. </p>
+<p>3. Aggiunse esser bene che alli ambasciatori per <lb/>
+Inghilterra fare commesso di dar calore al signor <lb/>
+Bernvel dice che il duca di Savoia si è <lb/>
+fato forte, et potersi sperar bene. </p>
+<p>4. Risponde Bernvel presidente di settimana che conoscono per prova gli andamenti de’ Spagnuoli, <lb/>
+che risponderanno poi alla espositione <lb/>
+lasciando il secretario la sostanza prescritto. </p>
+<p>5. Di reciproca ambasceria è altro ministro <lb/>
+non gli è stato detto altro: risponderà <lb/>
+conforme li ordini publici. </p>
+<p>6. Bernvel nel discorso privato parla <lb/>
+della unione, et che vi concorresse la Francia, <lb/>
+l’Inghilterra et li principi d’Alemagna: <lb/>
+et altri che hanno interessi: ma <lb/>
+che vi voleva et tempo, et occasione. </p>
+<p>C. R. </p>
+<p n="198vD">———</p>
+<p>7. Comprende il secretario che stimano far <lb/>
+assai col tener in piedi tanta soldatesca <lb/>
+anche a Cleves, et Giuliers. </p>
+<p>Difficilmente si può sperar altro aiuto <lb/>
+per Savoia, se non è qualche vassello da guerra. </p>
+<p>Discorso del negotio di Cleves <lb/>
+con Spagnuoli: li signori Stati non <lb/>
+saranno facili al disarmar <lb/>
+di quelle militie. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> ". Et" corrected above ", et."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-al" corrected from "-ell."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Prima -e-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-1" corrected above "-2."</p></note>
+</div>
+</body>
+</text>
+</TEI>

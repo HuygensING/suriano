@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.008 date 1616-10-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 52r-54v, 57r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">52r-54v, 57r-v, 55r-56v, decodifica di c. 54v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The three Frenchmen have obtained leave from French king to serve in the army of Johan Ernst. Johan Ernst has received many letters from Germany from people who want to join his expedition including Joachim Ernst, Duke of Schleswig-Holstein as well as his younger brother. Reports that rumours are circulating about a potential peace agreement between the Venetian Republic and Ferdinand. He send the prorogatione for Wassenhoven and reports on conversation he has had with brother of Johan Ernst who is now returning to Paris </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-25">25 ottobre 1616</date>
+            <num>018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="018">
+<div type="main" facs="main text of letter" n="018">
+<!--<p>25 ottobre 1616, L’Aia (cc. 52r-54v, 57r-v)</p>-->
+<pb n="052r" facs="03_052r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>rivenne di Parigi quel monsignor Gulena, che andò per <lb/>
+ottener dal Re la permissione di passar al servitio <lb/>
+della Serenità vostra per lui, et per monsignor di Rocalaura. <lb/>
+Pare che la licenza non sia del tutto risoluta se ben <lb/>
+le lettere di monsignor di Villeroi ad esso Rocalaura in <lb/>
+particolare portano lo stesso, che all’ambasciator di Francia <lb/>
+dicendo essergli accordato tutto; ma in altre di <lb/>
+monsignor Mangot par che vi siano parole, che non <lb/>
+esprimino affatto la licenza. Si doverà per tanto <lb/>
+aspettar la risolutione de’ signori Stati, et dal signor principe <lb/>
+Mauritio, senza il quale, essendo absente al ritorno <lb/>
+di esso Gulena per l’interramento della sorella <lb/>
+non si è voluto farne alcun motivo a’ signori Stati. <lb/>
+Sua Eccellentia è arrivata poco fa et il signor Conte non lascia, <lb/>
+et io insieme di sollecitare perché non mancano <lb/>
+che queste due commissioni ad ispedire. Monsignor <lb/>
+di Rocalaura in particolare si promette buon essito al <lb/>
+suo desiderio di venir a servire la Serenità vostra et io <lb/>
+lo vorrei perché ella restarebbe al certo servita <lb/>
+da questo soggetto. </p>
+<p>Ha havute il signor Conte molte lettere d’Alemagna
+<pb n="052v" facs="03_052v" rend="0"/>
+de’ signori principali, che gli promettono di andarlo ad <lb/>
+aspettar in Italia, et seguitarlo in servitio di vostra Serenità <lb/>
+et egli nel rispondergli li eccita a condur qualche soldato <lb/>
+con essi loro. </p>
+<p>Credo il Conte che sia per andar seco un duca di Holstain <lb/>
+nipote del re di Danimarca, et della regina d’Inghilterra. <lb/>
+Per esser giovane di 20 anni in circa ha accettata <lb/>
+una carica di capitano, et ha mandato un suo luocotenente <lb/>
+a far genti, et dall’altra parte ha ispedito al <lb/>
+padre per la licenza, che sta attendendo fra otto <lb/>
+o dieci giorni. </p>
+<p>Fa il signor Conte formar una compagnia per il conte <lb/>
+Guglielmo suo fratello il più giovane, il quale ha <lb/>
+havuto carica con cavallaria a Bransvich, et ha <lb/>
+servito altrove. Uno delli suoi sergenti è passato <lb/>
+a Bolduch per cavar di là qualche soldati, et già <lb/>
+ne haveva sviati da dieci, o dodici; ma<ptr target="#tn1" n="1"/> <lb/>
+avvertito il Governator della piazza li ha fatti<ptr target="#tn2" n="2"/> pigliar <lb/>
+la stradela, et presili insieme col detto Sergente <lb/>
+sono stati condotti pur a Bolduch, et si teme <lb/>
+della loro vita stante la prohibitione de’ serenissimi
+<pb n="053r" facs="03_053r" rend="0"/>
+arciduchi, che alcuno non vadi al servitio di altro <lb/>
+principe senza lor permissione, già un pezzo fa <lb/>
+publicata. Il signor Conte ha immediate ispedita persona <lb/>
+espressa con sue lettere al Governatore per rihaver il Sergente <lb/>
+et si trova per questo accidente in assai travagli. </p>
+<p>Non credo, che potranno tardar molti giorni, che <lb/>
+qualche capitano non mandi al signor Conte perché le facci <lb/>
+dar la mostra della sua compagnia, havend’egli <lb/>
+havuti avvisi da più parti, che alcuni hanno <lb/>
+cento dieci<ptr target="#tn3" n="3"/>, cento vinti soldati per uno. Questo non gusta <lb/>
+a tutti, et a quelli in particolare che non vorrebbono <lb/>
+che questa soldatesca marchiasse: onde oltre il <lb/>
+continuar a dirsi, che ’l Catholico non lascierà passar <lb/>
+distretto<ptr target="#tn4" n="4"/> a quest’armata, si publica di più, <lb/>
+che le controversie di vostra Serenità col serenissimo Ferdinando <lb/>
+non possono tardar ad accommodarsi, stante che <lb/>
+il Pontefice ha in mano gl’articoli dell’accordo, <lb/>
+et che non aspettava che certa risposta dall’<lb/>
+Imperatore o dall’Arciduca per darli fuori: ma sentendoli, <lb/>
+dall’altro canto, che l’Arciduca sollecita, et iusta <lb/>
+alla corte imperiale (come deve esser molto ben
+<pb n="053v" facs="03_053v" rend="0"/>
+noto all’Eccellenze vostre di esser aiutato si cava molto bene esser <lb/>
+questi artificii) per metter timore, et irresolutione in quelli <lb/>
+che vorrebbono far il viaggio, et massime nella stagione <lb/>
+del verno rappresentandosegli innanti l’incommodo <lb/>
+di essa, et il dubio, fatta la pace, di non haver ad <lb/>
+esser impiegati. Et io colle informationi, che preceden-<lb/>
+temente ho havute dalla Serenità vostra di quanto passa <lb/>
+et con gl’avvisi, che mi vengono somministrati<ptr target="#tn5" n="5"/> dall’eccellentissimo <lb/>
+signor ambasciator Giustiniano faccio constar diversamente <lb/>
+onde si sollecita con ogni maniera possibile, et per quanto <lb/>
+comporta la qualità de’ tempi, che hanno cominciato <lb/>
+assai piovosi. </p>
+<p>Parmi, che resti ancora obligo ad alcuni mercanti <lb/>
+d’Amsterdam d’ispedir certe munitioni di polveri, <lb/>
+piombi, et altro per sodisfattione de’ partiti fatti con la <lb/>
+Serenità vostra. Ciò è stato penetrato da ministri del signor <lb/>
+conte Gio. Ernesto, et volevano che mi facesse instanza <lb/>
+di dar ordine, che queste munitioni fossero messe <lb/>
+nelle<ptr target="#tn6" n="6"/> navi dove sarà la soldatesca per potersene <lb/>
+valer nell’occorrenze del viaggio: ma mostrando <lb/>
+io non saper cosa alcuna, et meno voler impedirmi
+<pb n="054r" facs="03_054r" rend="0"/>
+in quello di che non ho carica si sono retirati dal dirmene <lb/>
+altro, et hanno accordato con li loro marinari <lb/>
+che faccino provisione di certa quantità di polveri <lb/>
+et altro per pagar quello, che si consumerà. Et io <lb/>
+ho stimato bene non obligar da me la Serenità vostra a <lb/>
+maggior interesse di quello, che sin qui sente in <lb/>
+questa levata. </p>
+<p>Mando alla Serenità vostra qui aggiunta la scrittura fatta <lb/>
+col Wassomhovem per la prorogatione del tempo <lb/>
+alla levata, et per il condur delle genti in quello <lb/>
+Stato. Di tanto si è contentato, et partì ve-<lb/>
+nerdì per Amsterdam a far le provisioni de’ vasselli, <lb/>
+de’ viveri, et del resto, che sarà necessario per <lb/>
+tornar per quello mi disse quanto prima ad <lb/>
+assicurar questi signori del tutto, et haver da essi <lb/>
+la piazza d’armi per far immediate la levata <lb/>
+per la quale haverà in parte assistenza da quanto <lb/>
+ho potuto cavare da monsignor Hich figliolo d’uno <lb/>
+de’ deputati de’ signori Stati Generali, et da qualche <lb/>
+altro: che altrimenti sarebbe impossibile, che <lb/>
+da sé solo operasse. </p>
+<pb n="054v" facs="03_054v" rend="0"/>
+<p>Partì venerdì passato il giovane conte Gio. di Nassau alla <lb/>
+volta di Parigi. Prima di andarsene dando segno <lb/>
+di maggiormente honorar la Serenità vostra vene<ptr target="#tn7" n="7"/> a visitarmi, come <lb/>
+era stato anco per innanti, et mi disse, che quanto <lb/>
+haveva proposto di operare in servitio di vostra Serenità <lb/>
+tanto haverebbe essequito <hi rend="decoded">perché</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">gli pareva di poter dire con asseveranza <lb/>
+che non poteva falire la riuscita purchè <lb/>
+havesse havuta la sponda del signor <lb/>
+duca di Savoia per valersene di scorta <lb/>
+et di guida per passar dal Piemonte nello <lb/>
+Stato di vostra Serenità, et massime, se fino <lb/>
+in Piemonte correrà la voce, che la <lb/>
+levata della cavallaria sia per <lb/>
+servitio di sua Altezza, et era certo, <lb/>
+che il tutto si sarebbe accordato con <lb/>
+l’Altezza sua. <lb/>
+</hi></p>
+<p>Mi disse ch’io dovessi scriver alla Serenità vostra che nel <lb/>
+punto del commissario, che nel paese de’ Svizzeri <lb/>
+dovesse spesar la cavallaria, basterà, ch’ella <lb/>
+commandi il<ptr target="#tn9" n="9"/> rolar delle genti, et dar la paga
+<pb n="057r" facs="03_057r" rend="0"/>
+di un mese, che con questa li soldati si sarebbono mante-<lb/>
+nuti da sé senz’altro pensiero della Serenità vostra né del detto <lb/>
+commissario. </p>
+<p>Mi disse di più, che haveva espressa la paga di ciascheduno <lb/>
+officiale, et de’ soldati per evitar gl’inconvenienti che <lb/>
+talvolta si sono veduti succeder nelle armate <lb/>
+et tra la cavallaria in particolare più facile all’amuti-<lb/>
+narsi mentre sospetta d’esser ingannata dal colo-<lb/>
+nello o capitano che li conduce. Che questo non haveva <lb/>
+espresso nelìla scrittura, che mi diede, né me lo haveva <lb/>
+significato in voce non havendovi posto prima <lb/>
+pensiero per la brevità del tempo; et dichiarò che <lb/>
+li cecchini s’intendono Ongari. </p>
+<p>Fece il conto di dover esser hoggi in Parigi, et che <lb/>
+fatti sette, over otto dì di soggiorno in quella <lb/>
+corte, haverebbe immediate presa la posta per <lb/>
+Piemonte per<ptr target="#tn10" n="10"/> far capo (come riverentemente <lb/>
+scrissi alla Serenità vostra la passata settimana) per la risposta <lb/>
+all’eccellentissimo signor ambasciator Donato. Et ad ogni buonfine anco <lb/>
+con queste mando la copia della sua offerta. Gratie etc. </p>
+<p>Dall’Haye a’ 25 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="057v" facs="03_057v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="018">
+<!--
+<p n="057vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>25 ottobre 1616 ricevute a’ 9 novembre </p>
+<p>Segretario Surian dall’Hagye<ptr target="#tn11" n="11"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="019" corresp="018" source="55r-56v, decodifica di c. 54v" >
+<div type="main" facs="main text of attachment I" n="019" corresp="018" >
+<!--<p>Allegato I al n. 18 (cc. 55r-56v, decodifica di c. 54v)</p>-->
+<pb n="055r" facs="03_055r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="055v" facs="03_055v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="056r" facs="03_056r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="056v" facs="03_056v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "fatto" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Corrected above "vinti."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "di" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "perché … Altezza sua" decoding of the encrypted text can be found on c. 55r; with cross-reference sign.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "lor" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears; is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

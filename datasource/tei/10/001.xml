@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.001 date 1621-03-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 1r-3v, 6r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp584-592
+            </note>
+            <biblScope unit="page">1r-3v, 6r-v, 4r-5v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports decision by admiralties to arm 70 large vessels and more than 30 small ones as well as others to use on rivers with more than 6000 sailors to be recruited. Everything needs to be ready by early april, a raise of taxes is being contemplated to fund the war. The war ships for Mediterranean might gather close to Lisbon and strait to watch movements of the Spanish. In cipher he adds that Van Aerssen told him the States might enter into an alliance with Savoy. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-02">2 marzo 1621</date>
+            <num>001, 002</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>2 marzo 1621, L’Aia (cc. 1r-3v, 6r-v)</p>-->
+<pb n="001r" facs="10_001r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 276 fin 277 </p>
+<p>Serenissimo Principe </p>
+<p>li deputati delle Amiralità, che venero qui per consultar dell’<lb/>
+armamento de’ vasselli, come riverentemente avvisai nelle precedenti <lb/>
+lettere n° 274 fin 275; che mando replicate con queste <lb/>
+partirono con la risolutione dell’armar settanta vasselli <lb/>
+grandi; et da trenta, et più de’ piccioli li quali saranno <lb/>
+di portata dai vinti fino ai quaranta in cinquanta <lb/>
+lasti di questi si valeranno li signori Stati nelle Riviere <lb/>
+del Rheno, dell’Isel, della Mosa, del Wal, alla bocca <lb/>
+dela Schelda, et altrove; et dei grandi alla costa <lb/>
+di Fiandra. Et per l’armamento degl’uni, et degl’altri <lb/>
+si farà levata di sei milla marinari. </p>
+<p>Fra le tre amiralità di questa provincia di Holanda <lb/>
+saranno trovati prontamente cento milla fiorini, del <lb/>
+resto si anderà provedendo per il mantenimento colli <lb/>
+aggravii, et colle contributioni, che si anderanno <lb/>
+mettendo. </p>
+<p>A’ detti deputati è stata incaricata con buoni, et efficaci <lb/>
+ordini la solicitatione, et ispeditione di tal equipaggio <lb/>
+facendosi conto di voler haver tutto pronto come <lb/>
+scrissi, per<ptr target="#tn1" n="1"/> li primi d’aprile prossimo. </p>
+<p>Solecitano pur di haver anco al medesimo tempo la soldatesca <lb/>
+che si fa novellamente tanto del primo argumento
+<pb n="001v" facs="10_001v" rend="0"/>
+che dell’ultimo deliberato, et già s’è havuto avviso <lb/>
+che mille fanti inglesi siano arrivati in questi porti. </p>
+<p>S’è cominciato da’ magistrati a pigliar nota delle facoltà <lb/>
+de’ sudditi in questa provincia di Holanda per mettersi <lb/>
+a contributione del millesimo denaro tanto sopra <lb/>
+mobili, che sopra stabili, pensando anco (non essendo <lb/>
+questo sufficiente per la spesa) d’andar radoppiando, <lb/>
+et triplicando tal impositione a che si crede, che <lb/>
+non si potrà di meno di non venire, perché per il mante-<lb/>
+nimento di vinti milla fanti di più, che con li vecchi <lb/>
+saranno intorno cinquanta milla, et quattro milla <lb/>
+cavalli, et sei milla matelotti, oltre l’amunitioni, et <lb/>
+apprestamenti da guerra, si fa conto, che ascenderà <lb/>
+a molto la summa. Altre impositioni si mette-<lb/>
+ranno sopra le case nuove, et si darà augumento <lb/>
+d’un ottavo alla gravezza de’ terreni, et possessioni. </p>
+<p>Tutto questo si fa in questa provincia di Holanda; ma <lb/>
+nell’altre ognuna secondo la constitutione del suo <lb/>
+governo si regolerà nell’aggravar li popoli. </p>
+<p>Dei vasselli da guerra, che sono nel Mediteraneo mi <lb/>
+sono confermato, che la risolutione per essi non si <lb/>
+farà, che nell’assemblea di Holanda, la quale
+<pb n="002r" facs="10_002r" rend="0"/>
+doverà cominciar a ridursi lunedì prossimo. Ho cavato <lb/>
+che si proponerà, che detti vasselli si riducano in certo <lb/>
+posto sicuro presso a Lisbona, la Baia, et altri <lb/>
+porti di Spagna con dar ordine all’Amiraglio che <lb/>
+li commanda di trovarvisi per il tempo, che li sarà <lb/>
+destinato. Questo ho tirato in discorso dal signor cavalier <lb/>
+Arsen, che per termine di complimento fu a vedermi <lb/>
+questa mattina. </p>
+<p>Io stimai bene<ptr target="#tn2" n="2"/> in questo proposito mostrar confidenza <lb/>
+seco, et gl’accennai il desiderio, et intentione <lb/>
+di vostra Serenità toccante li detti vasselli<ptr target="#tn3" n="3"/> per tirar <lb/>
+anco la sua opinione, mi disse, che mentre li <lb/>
+signori Stati non havessero conosciuto esser necessità di <lb/>
+richiamarli di qua nell’oceano a fine (rompendosi <lb/>
+la guerra) di non restar preda in un medesimo tempo <lb/>
+a’ corsari, et a’ Spagnuoli, teneva per fermo, che <lb/>
+non haverei incontrata difficoltà; che havendone <lb/>
+parlato a sua Eccellenza come gli dissi di haver fatto <lb/>
+era bene<ptr target="#tn4" n="4"/> che anco coll’avviso di lei mi regolassi; et <lb/>
+mi promise, che in quello, che havesse conosciuto <lb/>
+poter giovar alla mia instanza non haverebbe <lb/>
+tralasciato ogni miglior ufficio. Io gli resi gratie
+<pb n="002v" facs="10_002v" rend="0"/>
+et gli dissi, che havevo confidenza nel suo buon adrizzo, <lb/>
+et nell’auttorità, et che opportunamente me ne sarei valso. <lb/>
+Qualche altro di questi signori ho trovato del medesimo <lb/>
+senso. Di nuovo ho anco scoperta buona volontà <lb/>
+nel signor principe Mauritio il quale hebbi occasione di veder <lb/>
+un giorno della passata settimana in casa del signor ambasciatore <lb/>
+Carleton, ma non mi havendo data maggior speranza <lb/>
+della prima quando gli parlai, devo aspettar quello <lb/>
+mi dirà; né io promuoverò nell’assemblea se non <lb/>
+ben assicurato (se sarà possibile) di ottener l’effetto <lb/>
+della dimanda. </p>
+<p>Parlando il signor Arsen delli presenti motivi del mondo, et <lb/>
+havendoli io communicato qualche dì quegl’avvisi, <lb/>
+che stimai proprii, mi andò considerando le grandi <lb/>
+preparationi, che da questa parte si andavano facendo <lb/>
+anco nell’incertezza delle risolutioni del re di <lb/>
+Spagna: stimando li signori Stati termine di buon <lb/>
+governo più tosto esser trovati armati, che sprove-<lb/>
+duti haver con evidente pericolo l’inimico alle spalle <lb/>
+che tanto doverebbe far la Serenità vostra armarsi di buon hora <lb/>
+et proveder alle cose sue, non essendo dubio, che <lb/>
+Spagnuoli con facilità stante la debolezza dell’Alemagna
+<pb n="003r" facs="10_003r" rend="0"/>
+potranno dar legge a quei principi ridendoli delle loro <lb/>
+provisioni, et delle loro diete; che restituiranno le <lb/>
+piazze al Re palatino nel Palatinato quando vorranno, <lb/>
+et quando vorranno anco potranno ripigliarle sendo per <lb/>
+la maggior parte poco forti; che quello, che dispiaceva <lb/>
+qui all’universale era il veder a vostra Serenità chiusi tutti i passi <lb/>
+et andò facendo di questi discorsi mostrando meco et <lb/>
+confidenza, et affetto al servitio et bene di quella <lb/>
+serenissima Republica, conchiudendo, che si poteva esser sicuri, <lb/>
+che ’l re di Spagna non poteva star senza operar <lb/>
+da qualche parte, et che fermate le cose in Alemagna <lb/>
+a modo suo, una delle doi republiche o quella di <lb/>
+Venetia, o questa dei signori Stati doveva<ptr target="#tn5" n="5"/> aspettar <lb/>
+d’esser travagliata; et cade a dire, che haverebbe <lb/>
+ben voluto, che tra l’una, et l’altra si fosse fermata <lb/>
+una più forte aleanza a fine di poter con maggior <lb/>
+reciproca assistenza che di 50 mila fiorini per mese aiutarsi, <lb/>
+et assicurarsi con più fondamento. </p>
+<p>Da lui cavai, che nella prossima riduttione della provincia <lb/>
+di Holanda si sarebbe concluso il negotio del tra-<lb/>
+fico dell’Indie Occidentali, et che a me ne sarebbe <lb/>
+stata fatta communicatione per darne conto alla Serenità vostra
+<pb n="003v" facs="10_003v" rend="0"/>
+perché potesse ella devenir a quella risolutione, che sti-<lb/>
+masse profitevole al suo servitio, utile al ben commune <lb/>
+et propria per l’una, et l’altra Republica potendosi ella <lb/>
+assicurare, che questo sia l’unico mezo per far diversione, <lb/>
+et ruinar le forze del re di Spagna. </p>
+<p>Mi disse anco, che si prometteva, che nella medesima assemblea <lb/>
+si sarebbe venuto al stabilir di venir a nominatione <lb/>
+dell’ambasciator ordinario per risieder presso la Serenità vostra<ptr target="#tn6" n="6"/> <lb/>
+iscusando la dilatione colla constitutione del Governo. <lb/>
+Io non gli risposi altro se non che sarei stato attendendo <lb/>
+per avvisar quello si fosse risoluto; ma credisi da <lb/>
+alcuni, che forse si aspetterà fino al ritorno delle doi <lb/>
+ambasciate almeno di quella, ch’è in Francia. </p>
+<p>Doppo <hi rend="decoded">varii</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">altri discorsi mi disse esso Arsen <lb/>
+in confidenza, che col mezo del signor ambasciator <lb/>
+Carleton si trattava, che li signori Stati entras-<lb/>
+sero in aleanza col signor duca di Savoia <lb/>
+che ’l signor principe Mauritio vi mostrava <lb/>
+inclinatione, et altri ancora pareva <lb/>
+che vi assentissero, ma la materia <lb/>
+haveva in sé de’ contrarii per la</hi>
+<pb n="006r" facs="10_006r" rend="0"/>
+<hi rend="decoded">gelosia <lb/>
+che potrebbe apportarsi alla Francia, et <lb/>
+a qualche altro prencipe, per la instabi-<lb/>
+lità del duca di Savoia per li suoi inte-<lb/>
+ressi, et per il poco, o niun aiuto, che si <lb/>
+potevano prometter li signori Stati da quel Paese, et <lb/>
+per altri rispetti, onde l’affare havea degli <lb/>
+intoppi, ma non si lasciava però dal <lb/>
+Ambasciator di tentare per proseguir l’effetto <lb/>
+di questa aleanza</hi>. Io <lb/>
+procurerò d’indagar quello si anderà facendo <lb/>
+per avvisarlo a vostra Serenità, et in tanto da lei aspetterò <lb/>
+in questo particolare ciò che stimerà proprio, et di <lb/>
+suo servitio perché io ne resti avvertito. Gratie etc. </p>
+<p>Dall’Haya li 2 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="006v" facs="10_006v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 276 fin 277<ptr target="#tn8" n="8"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="006vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 marzo 1621 ricevute a’ 24 detto </p>
+<p>Haia. n° 276 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="4r-5v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 4r-5v; decodifica di cc. 3v, 6r)</p>-->
+<pb n="004r" facs="10_004r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Decoding by a secretary of encrypted text on ff. 3v and 6r"/></p>
+<pb n="004v" facs="10_004v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="005r" facs="10_005r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="005v" facs="10_005v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "a fine" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by -"no" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "iscusa" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "varii … di questa aleanza" decoding of the encrypted text can be found on c. 4r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Traces of seal"</p></note>
+</div>
+</body>
+</text>
+</TEI>

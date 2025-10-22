@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.005 date 1617-09-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 23r-24v, 27r-28v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">23r-24v, 27r-28v, 25r-26v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The translated answer by Levenstein is attached which expresses his disappointment about the reduced number of troops. Reports that he has been very well received at the residence of William of Nassau whom he also informed about the actions of his nephew in the service of Venice. Maurice has sent orders to cavalry captains in Frisia and Groningen to ready themselves, speculation they are intending to go to Germany with growing fears over Jülich and the prospect that Ferdinand will be crowned Emperor. A general prayer was held by order of the States. One text attached: "Traduttione della lettera del conte di Levenstein scritta d’Amsterdam a 20 settembre 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Leeuwarden</settlement>
+            <date when="1617-09-23">23 settembre 1617</date>
+            <num>007, 008</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="007">
+<div type="main" facs="main text of letter" n="007">
+<!--<p>23 settembre 1617, L’Aia (cc. 23r-24v, 27r-28v)</p>-->
+<pb n="023r" facs="05_023r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>la risposta del conte di Levenstein m’è stata portata del suo <lb/>
+fratello, che, con il conte di Ortemburgh et il sargente <lb/>
+maggiore signor Durante di Prigni, arrivò qui hieri notte <lb/>
+dicendo, che doveva mettersi in camino hieri sera per <lb/>
+questa volta, come egli anco afferma nelle medesime <lb/>
+lettere sue; et quelle delle Signorie vostre eccellentissime, che ne have-<lb/>
+ranno gusto potranno sentire dalla loro traduttione, <lb/>
+che invio qui aggiunta, l’indoglienza, che fa del <lb/>
+non haver havuto l’ordine della levata delli 1500 <lb/>
+fanti fondato sopra l’haver io contrattato, et <lb/>
+ridottolo a quel segno, che già la Serenità vostra hebbe <lb/>
+con le mie lettere dei 15 del passato. Questo so, <lb/>
+et è vero, che passando per Encusen ho veduta <lb/>
+una nave, che si aprestava, et da qui un mese, <lb/>
+et meno dicevano, che sarebbe stata ad ordine <lb/>
+et era per questa nuova levata, et so che <lb/>
+anco in Amsterdam haveva contrattato: dell’haver<ptr target="#tn1" n="1"/> <lb/>
+fatte<ptr target="#tn2" n="2"/> far insegne, et altre provisioni, io <lb/>
+non lo so, lo dice egli nelle lettere sue. Come
+<pb n="023v" facs="05_023v" rend="0"/>
+mi trovi seco non mancarò di renderlo capace di quello <lb/>
+si conviene; perché a sé stesso, et alle sue proprie <lb/>
+speranze deve portar l’indoglienze, dovendo prima <lb/>
+assicurarsi della publica volontà, et poi entrar in spesa. <lb/>
+Farò però l’ufficio con ogni più piacevol maniera per <lb/>
+mantenerlo in quell’affetto, et devotione, che sin qui <lb/>
+ha dimostrato. Li detti conti Gio. Casimiro, et <lb/>
+d’Ortemburgh con il Sargente maggiore sono partiti <lb/>
+hier sera alla volta di Delfsil, et io partirò fermate <lb/>
+che habbi le presenti per esser questa sera a Grunighen <lb/>
+ove visiterò quei deputati, come ho fatto quelli<ptr target="#tn3" n="3"/> <lb/>
+di questa provincia, complendo<ptr target="#tn4" n="4"/> con essi per <lb/>
+testimonio di buona corrispondenza d’affetto di <lb/>
+vostra Serenità verso queste Provincie particolari, et per <lb/>
+rendimento di gratie di quanto hanno fatto per <lb/>
+il conte di Levenstein in servitio della<ptr target="#tn5" n="5"/> Serenità vostra <lb/>
+come ho anco attestato al signor conte Guglielmo di Nassau <lb/>
+che sarà aggradito da vostra Serenità il molto, ch’egli ha <lb/>
+fatto in questo negotio (et veramente posso dire, ch’egli
+<pb n="024r" facs="05_024r" rend="0"/>
+sia stato l’adrizzo, et il direttorio d’ogni buona riuscita) <lb/>
+in sostanza la sua risposta è stata, che per servitio <lb/>
+della serenissima Republica farà sempre tutte le cose, che <lb/>
+stimerà poterle essere<ptr target="#tn6" n="6"/> aggradevoli. </p>
+<p>Dell’honorato accoglimento<ptr target="#tn7" n="7"/>, et del buon trattamento havuto <lb/>
+in casa del detto signor Conte non posso dir a sufficienza <lb/>
+perché non ha tralasciato termine di splendore, d’ufficio, <lb/>
+et di cortesia, che non l’habbi usato verso di me <lb/>
+come humile ministro di vostra Serenità, et io di quella <lb/>
+miglior maniera, che ho saputo ho con parole <lb/>
+supplito, et complito nei rendimenti di gratie <lb/>
+et con la servitù sua ho usato quello, che con debita <lb/>
+et convenevole riserba ho stimato proprio, et degno <lb/>
+alla publica riputatione<ptr target="#tn8" n="8"/> et è di costume nel Paese. </p>
+<p>Con questo principalissimo signore mentre mi sono trattenuto seco <lb/>
+ho avuto campo di andarlo rendendo chiaro di <lb/>
+quanto è successo al campo, et nelle truppe di <lb/>
+questi paesi sotto alla condotta del conte Gio. Ernesto <lb/>
+suo nipote, et parmi di haverlo reso sodisfatto, et mi
+<pb n="024v" facs="05_024v" rend="0"/>
+ha in fine detto, che haverebbe voluto, che ’l nipote si havesse <lb/>
+avanzato<ptr target="#tn9" n="9"/> più in riputatione di quello, che vedeva non <lb/>
+haver egli acquistato. </p>
+<p>Sono venuti ordini per lettere del signor principe Mauritio <lb/>
+ai capitani delle compagnie di cavallaria in queste provincie <lb/>
+di Frisia, et Grunighen di star pronti con le loro genti <lb/>
+ad ogni commandamento delli signori Stati, et dell’Eccellenza sua. <lb/>
+Si congietura, che venga la causa dalle levate di Alemagna <lb/>
+così viene scritto al signor conte Guglielmo, temendosi dello stato <lb/>
+di Giuliers, o che voglino impatronirsi di qualche piazza <lb/>
+in quei confini. </p>
+<p>Par che si accordi quasi ognuno da questa parte, che <lb/>
+Austriaci, o siano Spagnuoli, voglino in ogni modo <lb/>
+far riuscir il serenissimo Ferdinando alla corona dell’<lb/>
+Imperio, et che per questo in Alemagna si armi <lb/>
+ma che prenderanno pretesto sin tanto che si rid[…] <lb/>
+il congresso elettorale d’inviar le genti dalla parte <lb/>
+di Gratz: perché haveranno in ogni modo sempre <lb/>
+tempo di farle rivenire, se ’l bisogno lo ricercarà
+<pb n="027r" facs="05_027r" rend="0"/>
+et che questa sia la causa dell’affrettarsi tanto al compi-<lb/>
+mento delle compagnie. </p>
+<p>Per tutte le provincie de’ signori Stati d’ordine loro si è <lb/>
+mercordì passato fatta una general preghiera in tutte <lb/>
+le chiese a fine che Dio inspiri il rimedio a tante <lb/>
+difficoltà, che incontra il negotio di religione torbido <lb/>
+al solito, et che tiene le menti molto occupate. Gratie etc. </p>
+<p>Da Leverden a’ 23 settembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="027v" facs="05_027v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="028r" facs="05_028r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="028v" facs="05_028v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="007">
+<!--
+<p n="028vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 settembre 1617 ricevute 11 ottobre </p>
+<p>Secretario Surian </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="008" corresp="007" source="25r-26v" >
+<div type="main" facs="main text of attachment I" n="008" corresp="007" >
+<!--<p>Allegato I al n. 7 (cc. 25r-26v)</p>-->
+<pb n="025r" facs="05_025r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Traduttione della lettera del conte di Levenstein scritta d’Amsterdam <lb/>
+a’ 20 settembre 1617 </p>
+<p>Signore con la presente l’invio mio fratello, il conte d’Ortenburgh, et il Sargente maggiore <lb/>
+(essendo impossibile ch’io parti di qui prima di venerdì prossimo) affine di poter <lb/>
+commenciare ad imbarcare et far mostra delle mie genti a Delfsil fino al mio arrivo. <lb/>
+Et vedendo di haver io fatto un tal fallo et disordine tanto verso di voi che<ptr target="#tn10" n="10"/> verso il <lb/>
+signor conte Guglielmo, per havervi fatto così tosto partir<ptr target="#tn11" n="11"/> dall’Haya et fattovi tratenir <lb/>
+tanto in camino, trovo che farò meglio di escusarmi di bocca che con lettere, niente-<lb/>
+dimeno io posso ben assicurarvi che questo è stato a mio gran discontento et mi <lb/>
+è riuscito dispiacevuole fermarmi<ptr target="#tn12" n="12"/> qui più di quello speravo; ma non potendo fare <lb/>
+ciò ch’io voglio, necessariamente mi bisogna far quello ch’io posso. Io non mancarò <lb/>
+in maniera alcuna di partirmi venerdì sera di qua, et può esser che allhora almeno <lb/>
+haverò qualche particular avviso da Venetia con la posta ordinaria, poiché non<ptr target="#tn13" n="13"/> l’ho<ptr target="#tn14" n="14"/> potuto <lb/>
+havere per l’estraordinaria, perché d’una cosa trattata tanto tempo fa fra me et <lb/>
+la serenissima Signoria et parimente essendomi lasciato condure ad abassar<ptr target="#tn15" n="15"/> la dimanda ch’io <lb/>
+havevo fatta a sua Serenità a tal punto che si sperava che non<ptr target="#tn16" n="16"/> vi<ptr target="#tn17" n="17"/> potesse esser alcun <lb/>
+impedimento per metterlo in effetto, mi sono in maniera assicurato, che già, come <lb/>
+alcune settimane sono io vi scrissi, et vi dissi di bocca ancora all’Haya, io havevo <lb/>
+fatto provisione de’ vasselli, fatto far le casache, le scarpe, camise, calzette, insegne <lb/>
+et altre cose necessarie, le quali al presente<ptr target="#tn18" n="18"/> per necessità, ancorché l’altra <lb/>
+levata non si effettuasse, mi converebbe nondimeno retenirle et pagarle. Di maniera <lb/>
+che venendo ad esser frustrato di questa così certa speranza in luoco, ch’io credevo <lb/>
+di far un’offerta per il servitio di sua Serenità et a mio honore, trovo di non haver <lb/>
+fatto altro che aggrandir (quasi che fusse destinato a questo) ancora sopra le prime <lb/>
+spese estraordinarie per la levata di questi mille<ptr target="#tn19" n="19"/> cinquecento homini<ptr target="#tn20" n="20"/> offerti a mio <lb/>
+gran danno et interesse per il servitio di sua Serenità, il costo et la spesa, et oltre di ciò <lb/>
+impegnato il mio honore, essendo di già tanto qui quanto in Alemagna nella bocca <lb/>
+d’ognuno questa ultima levata et per haver tratenuto con vana speranza <lb/>
+tanti honorati capitani, et buoni soldati, li quali mi haveranno pocca gratia <lb/>
+ch’io li<ptr target="#tn21" n="21"/> licentii<ptr target="#tn22" n="22"/> havendoli fatto tanto sperare et aspettare. Tuttavia havendo <lb/>
+lettere o non, non mancherò di partir venerdì, per fenir la mostra et farvi<ptr target="#tn23" n="23"/> uscire
+<pb n="025v" facs="05_025v" rend="0"/>
+di travagli et delle<ptr target="#tn24" n="24"/> incommodità ch’io vi ho apportato. Et vi supplico ad iscusarmi <lb/>
+se io sono stato così prolisso in queste, non essendo ad altre intentione che per dimostrar-<lb/>
+vi, che poiché havete giustissima occasione di dolervi, io ancora ho gran ragione di <lb/>
+haver sentimento perché sarebbe stato molto meglio rifiutar assolutamente questo affare <lb/>
+dal principio che esser intertenuto et lasarmi intrare in tali spese, le quali senza <lb/>
+queste erano già assai et più che grandi. Io do commissione tale a mio fratello <lb/>
+et al Sergente maggiore che spero che potranno fare che voi non haverete<ptr target="#tn25" n="25"/> alcuna<ptr target="#tn26" n="26"/> <lb/>
+pena et difficultà per cominciar<ptr target="#tn27" n="27"/> la mostra fino al mio arrivo il quale come <lb/>
+anco la fine di questo affare desidero di tutto cuore et non mancherò per cosa <lb/>
+che sia di diligenza et zelo verso sua Serenità. Restando per sempre etc. </p>
+<pb n="026r" facs="05_026r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="026v" facs="05_026v" rend="270"/>
+<p>Traduttione di lettere del conte <lb/>
+di Levenstein </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "dell’haver" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "haver" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "seco" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "di vos-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-le" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-m-" corrected above "-e-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by ; crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "a-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "-vi" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-rmi" added above the line on "-ndomi" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "l’" added above the line; "h-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-ba-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "non" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "ancora" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by a mark of insertion.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-vi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "d-" corrected above "n-."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Added above the deleted word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

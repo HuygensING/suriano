@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.017 date 1620-04-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">017</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 66r-68v, 77r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp238-245
+            </note>
+            <biblScope unit="page">66r-68v, 77r-v, 69r-76v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the States General pleased with the latest news about huge troop strength of princes of the union and rumours of mutinies in imperial army. They are less pleased with James I’s neutrality in conflict and fear the plans of Gondomar. reports about confiscations of goods in southern and northern Netherlands and potential repercussions for the truce. Attached he printed copy of defence of Bohemians (printed secretly in Middelburg? ustc 1019068?) as well as journal of voyage of the seven ships by Wixdorp, another ship has arrived in Enkhuizen. Louise de Coligny visited Suriano before leaving to France. One document attached "Giornale overo nota del viaggio che hanno fatto li sette vasselli da guerra del numero delli dodici che’l signor residente Suriano ha mandati d’Holanda al servitio della Serenissima Repubblica di Venetia, et licentiati dall’Eccellentissimo Capitano Generale da mar Veniero per tornar alla loro patria, tenuto per Cornelio Wixdorf così commandato da Sua Eccellenza Venier"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-28">28 aprile 1620</date>
+            <num>022, 023</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>28 aprile 1620, L’Aia (cc. 66r-68v, 77r-v)</p>-->
+<pb n="066r" facs="09_066r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 199 comincia 198 </p>
+<p>Serenissimo Principe </p>
+<p>restano li signori Stati assai contenti delle nuove, che ultimamente <lb/>
+hanno ricevute di Alemagna scritte a sua Eccellenza dal conte di <lb/>
+Solms della risolutione presa nella dieta di Praga, che <lb/>
+quei Stati manteniranno sei milla fanti, et doi milla <lb/>
+cavalli, altrettanti li Moravi, et tanti ancora la Slesia. <lb/>
+Et il re di Bohemia per la parte sua promette man-<lb/>
+tener sette milla fanti. Del Gabor già ridottisi nella <lb/>
+provincia di Moravia ascendono in circa a otto milla. <lb/>
+Di che tutto vostra Serenità ne deve dai luochi proprii haver <lb/>
+più particolari incontri. </p>
+<p>Questo numero è parso qui considerabile, et stimato da <lb/>
+sua Eccellenza che intende bene il mistiero<ptr target="#tn1" n="1"/>, et de altri <lb/>
+signori del Governo troppo per la spesa, et più per la <lb/>
+confusione quando massime non vi concorri la <lb/>
+disciplina, et il termine proprio per tener in <lb/>
+officio la soldatesca ch’è del ben pagarla, et <lb/>
+deviarla coll’essercitio, et colle pene dall’insolenza <lb/>
+et dal rovinar il Paese, effetti provati troppo pernitiosi. </p>
+<p>Altri avvisi vengono che dal campo imperiale si sbandi <lb/>
+la soldatesca, mal pagata, et corri all’esercito del <lb/>
+principe di Anhalt; et scrive il medesimo conte di Solms <lb/>
+che anco il reggimento del colonel Lantespergh <lb/>
+del duca di Baviera si fosse amutinato, mettendo <lb/>
+a basso l’insegne, perché s’era voluto sminuir a’ soldati <lb/>
+le loro paghe; et che la voce correva tra loro, che <lb/>
+sarebbono andati in Bohemia. Le lettere sono de’ primo
+<pb n="066v" facs="09_066v" rend="0"/>
+del presente. In ogni modo non ho voluto passar di scriver <lb/>
+questo tanto. </p>
+<p>Si contentano bene li signori Stati della conivenza, che intendono <lb/>
+usar il re d’Inghilterra nel lasciar che si levino genti, et <lb/>
+si faccino colte di denari per il re di Bohemia <lb/>
+ma mal volontieri sentono, che stia nel resto quasi <lb/>
+nella neutralità, et dubitano grandemente che <lb/>
+l’Ambasciator spagnolo lo inganni. </p>
+<p>Sendo anco avvisati della poca inclinatione che ’l principe <lb/>
+di Waglia ha di maritarsi alla figliola di Spagna <lb/>
+ne godono grandemente. L’avviso non li è scritto dal <lb/>
+loro ambasciatore; ma da altra persona a chi prestano fede <lb/>
+assai; ma vostra Serenità deve sapere quello, che intorno ciò <lb/>
+passi dall’eccellentissimo Lando, et insieme se sia vero che Gondemar <lb/>
+habbi fatto apertura al Re che s’interponghi per la proro-<lb/>
+gatione della tregua. In tanto ardisco di scriver questo <lb/>
+in quanto uno dei signori Stati me l’ha communicato ricer-<lb/>
+candomi con instanza se ne havevo qualche nuova. </p>
+<p>A questo proposito dirò riverentemente alla Serenità vostra. A dì passati <lb/>
+diedero questi signori ad un loro suddito<ptr target="#tn2" n="2"/> represaglia sopra li beni che ’l vescovo <lb/>
+di Gantes possede in questi paesi per la summa di 1500 <lb/>
+fiorini in circa di rendita: all’incontro mi disse hieri <lb/>
+l’Eccellenza sua, che havevano li serenissimi arciduchi data <lb/>
+represaglia de’ beni, che li<ptr target="#tn3" n="3"/> sudditi di queste provin-<lb/>
+cie possedono di là per il valor di più di vintimilla <lb/>
+fiorini di rendita in che erano interessati molti
+<pb n="067r" facs="09_067r" rend="0"/>
+principali, et cercano quanto possono trovare: aggiungendomi <lb/>
+con sorriso lasciano star li miei beni perché mi vogliono per <lb/>
+amico; et continuò che s’era scoperto farsi questo per <lb/>
+metter la cosa in negotio, che per esso s’inviassero deputati <lb/>
+et così trovar mezo di far passar parola di trattatione di <lb/>
+tregua, quasi come se noi fossimo quelli che ne dimandassero <lb/>
+la prorogatione. Io dimandai all’Eccellenza sua quello, che <lb/>
+ne sarebbe; rispose non lo so. Noi al certo non la cerca-<lb/>
+remo. Spagnoli mostrano di non volerla, anzi sono avvisato <lb/>
+che ancorché sia desiderata da quei sudditi: in ogni modo <lb/>
+non ardiscono parlarne parendo che vi sia come una <lb/>
+tacita prohibitione. Mostrando Spagnoli sentir male <lb/>
+quello che ne promuovi ancorché per passaggio qualche <lb/>
+discorso. Sono artificii soliti di riputatione, che <lb/>
+cuopre<ptr target="#tn4" n="4"/> l’inganno. </p>
+<p>Ho havuto avviso dal Pasini, che si attendeva con desiderio <lb/>
+grande a Brusseles di Spagna<ptr target="#tn5" n="5"/> don Francesco Me-<lb/>
+dina: intanto quelli, che pensano haver cariche di <lb/>
+levate s’erano retirati ai loro quartieri per ritor-<lb/>
+nare, et si parlava di gran levate di più ancora <lb/>
+che di diecimilla fanti. </p>
+<p>Sua Eccellenza quando fui seco haveva avvisi in conformità, <lb/>
+ma a mezo giorno ne ricevè altri, ch’era arrivato <lb/>
+il Medina, et che subito erano state spedite poste <lb/>
+per diversi luochi, et particolarmente a Bolduch richiamando <lb/>
+officiali, et altre genti. Tiene per vero l’avviso; ma
+<pb n="067v" facs="09_067v" rend="0"/>
+ne aspetta anco più sicurezza. </p>
+<p>A Doncherchen erano arrivati mille doicento Portughesi <lb/>
+et una nave venuta in Zelanda<ptr target="#tn6" n="6"/> da San Luchar <lb/>
+riferiva, che s’aspettavano in questi paesi quattro <lb/>
+milla Spagnoli, che haveva lasciati in quel porto <lb/>
+imbarcati. Se sarà vero presto se ne doverà haver <lb/>
+qualche miglior incontro. </p>
+<p>Qui aggiunta mando<ptr target="#tn7" n="7"/> per quelli dell’Eccellenze vostre che n’haveranno <lb/>
+la curiosità la difesa fatta per le ragioni de’ Bohemi stampata <lb/>
+secretamente a Videlburgh, con li patti per la perpetua successio-<lb/>
+ne delli regni d’Ongaria, et Bohemia. </p>
+<p>Mando anco la copia<ptr target="#tn8" n="8"/> del giornale del viaggio de m(esse)r Cornelio <lb/>
+Wixdorp venuto colla nave San Marco, sendomi anco <lb/>
+valuto di qualche particolari in esso contenuti nel scriver <lb/>
+a quest’Amiralità per veder s’io potessi avanzar il servitio <lb/>
+et profitto della Serenità vostra ma dubito, che incontrerò difficoltà <lb/>
+senza frutto. </p>
+<p>Un’altra nave d’Encusen La vacca macchiata arrivò la passata <lb/>
+settimana. Ne restano ancor doi. In tanto ho havuti li roli <lb/>
+ricuperati dal vassello Santa Giustina. N’ho fatta copiar <lb/>
+una parte, et l’altra si copia per mandar ove si conviene <lb/>
+già<ptr target="#tn9" n="9"/> quello di S. Marco l’ho mandato in Amsterdam <lb/>
+tre n’hanno havuti quelli d’Encusen, et uno quelli di <lb/>
+Roterdam: restano ancor doi delli doi vasselli che <lb/>
+non sono ancor arrivati, et si dubita assai, che siano persi, che Dio non vogli. </p>
+<pb n="068r" facs="09_068r" rend="0"/>
+<p>Partì hieri per il suo viaggio di Francia la signora principessa <lb/>
+d’Oranges, che a dir la verità ha lasciata la corte scon-<lb/>
+solata sendo la sua casa il più honorato trattenimento per le <lb/>
+persone di qualità. Ella non volendo mancar in conto alcuno <lb/>
+alla cortesia di chi è dotata, domenica venne in questa casa della Serenità vostra per visitarmi, come fece, et con maniere molto <lb/>
+gratiose mi pregò di attestar a tutta quella serenissima Republica <lb/>
+che le vive grandemente devota, et che io le raccommandassi <lb/>
+il principe Henrico suo figliolo assicurandomi, che è sempre <lb/>
+della medesima buona volontà di servir quel serenissimo Stato <lb/>
+quando l’occasione se gli presenterà. Io promettendole, <lb/>
+che non haverei mancato nel resto sodisfeci prima, che <lb/>
+se ne andasse con questa Principessa in quella maniera <lb/>
+che stimai propria, et debita. Ha detto di tornar <lb/>
+a settembre. </p>
+<p>Saranno con queste le replicate di tre lettere che <lb/>
+scrissi hoggi otto da n° 195 fin 197. Gratie etc. </p>
+<p>Dall’Haya lì 28 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="068v" facs="09_068v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="077r" facs="09_077r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="077v" facs="09_077v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 199 comincia 198 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="077vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28<ptr target="#tn10" n="10"/> aprile 1620 ricevute a’ 13 maggio </p>
+<p>Haya. n° 199 </p>
+<p>L. C. X. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="023" corresp="022" source="69r-76v" >
+<div type="main" facs="main text of attachment I" n="023" corresp="022" >
+<!--<p>Allegato I al n. 22 (cc. 69r-76v)</p>-->
+<pb n="069r" facs="09_069r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Giornale, overo nota del viaggio, che hanno fatto li sette <lb/>
+vasselli da guerra del numero delli dodici, che ’l signor residente <lb/>
+Suriano ha mandati d’Holanda al servitio della serenissima <lb/>
+republica di Venetia, et licentiati dall’eccellentissimo signor capitan general da <lb/>
+mar Veniero per tornar alla loro Patria, tenuto per <lb/>
+Cornelio Wixdorf così commandato da sua eccellenza Venier. </p>
+<p>Essendo li prescritti vasselli licentiati avanti la città di Corfù li <lb/>
+26 ottobre 1619. Sono ristati lì fino il primo novembre <lb/>
+seguente facendo in quel mentre le loro provisioni de’ <lb/>
+viveri, sendosi fra<ptr target="#tn11" n="11"/> loro capitani accordato di provedersi per <lb/>
+tre mesi in circa. </p>
+<p>Partendo il medesimo giorno del primo dalla detta città si messe il <lb/>
+vento hora bonazza, hora variabile, che durò così fino <lb/>
+alli 6 novembre quando passorono l’isola chiamata <lb/>
+Pachsò la più vicina di Corfù la notte fu il vento <lb/>
+tra ’l Ponente, et mezo giorno. </p>
+<p>A’ 7 novembre sendo ’l vento alla quarta di Levante verso <lb/>
+il mezo giorno ancor per quella sera non si perdé <lb/>
+di vista la detta isola di Pachsò. </p>
+<p>Alli 8 detto era il vento tra mezo giorno, et Levante Zud <lb/>
+Ost ch’era buono, et si caminava il nostro corso di <lb/>
+mezo giorno Ponente Zud West. </p>
+<p>Alli 9 detto essendo ’l vento alla quarta del Levante più <lb/>
+vicina al mezo giorno Zud Zud Ost si continuò il <lb/>
+corso come di sopra. A mezo giorno cambiò il <lb/>
+vento nella quarta di Levante<ptr target="#tn12" n="12"/> che tocca della <lb/>
+Tramontana nord nord oost con vento gagliardo, <lb/>
+et tale, che ’l capitan Bornon sopra la nave Menistecherch
+<pb n="069v" facs="09_069v" rend="0"/>
+ruppe l’arbore del moschetto caminando però il nostro <lb/>
+camino. </p>
+<p>A 10 novembre era il vento come di sopra, et passamo l’isola <lb/>
+di Malta, caminando l’undecimo giorno con vento in poppa <lb/>
+come seguì alli 12 la sera fu bonazza, che continuò fino <lb/>
+la meza notte quando cominciò a rinfrescare. </p>
+<p>A 13 vedemo l’isola di Panthelera venendo quella sera in nostra <lb/>
+compagnia doi vasselli holandesi, che venivan<ptr target="#tn13" n="13"/> di Levante <lb/>
+et era il viaggio loro verso Amsterdam. </p>
+<p>Così si caminò anco il giorno seguente che fu alli 14 con buon <lb/>
+vento, et quel giorno fossimo a vista dell’isola di Cicilia, <lb/>
+et di Trapani. </p>
+<p>Alli 15 tornò il vento Tramontana più vicina alla quarta <lb/>
+di Ponente Nord Nord West con furia sì grande che <lb/>
+fossimo sforzati levar le vele di gabbia traversando <lb/>
+il mare tra la Cicilia, et Barbaria, et quella tempesta <lb/>
+durò anco alli 16 et 17 quando vedessimo un’altra <lb/>
+volta l’isola di Pantalera. </p>
+<p>A 18 la mattina era il vento Levante<ptr target="#tn14" n="14"/> alla <lb/>
+quarta più vicina di mezo giorno Zud Zud Oost <lb/>
+et caminavamo il nostro corso fino al mezo dì che <lb/>
+il vento tornò Tramontana Ponente Nord West <lb/>
+et appresso di noi arrivorono quattro vasselli, che <lb/>
+venivano di Holanda, tirando al loro arrivo il <lb/>
+nostro Amiraglio doi tiri a fine che si venissero a <lb/>
+dar a conoscer il che fecero, et uno de loro fu <lb/>
+conosciuto per fratello del luogotenente del nostro vassello <lb/>
+San Marco, alla nave del quale andò il Capitano
+<pb n="070r" facs="09_070r" rend="0"/>
+et luocotenente tornando subito al loro vassello, et come essi <lb/>
+havendo il vento assai buono partirono da noi salutando il <lb/>
+nostro Capitano con tre tiri, a’ quali fu risposto con altri <lb/>
+tre, così noi quella notte havessimo una tempesta grandissima <lb/>
+che continuò il 19 et 20, nel quale si fece un poco <lb/>
+quiete. Il vento però era contrario sendo dalla parte <lb/>
+di Tramontana Nort. </p>
+<p>A 21 il vento si messe tra ’l mezo giorno, et Ponente più vicino <lb/>
+al mezo giorno West Zud West, et finchéa mettessimo <lb/>
+a basso dodici delli più pesanti pezzi per evitar il danno <lb/>
+che ci haveriano potuto causar per la tempesta. </p>
+<p>Su la meza notte ci venne il<ptr target="#tn15" n="15"/> vento da Levante Oost <lb/>
+ma durò poco fin li 23 novembre la sera tornando <lb/>
+tra Tramontana, et Ponente Nord West, et si vedeva <lb/>
+Capo Buono in Barbaria. </p>
+<p>Continuò il medesimo vento contarrio fino li 25 et la sera <lb/>
+sotto l’isola di Trapani si gettò l’ancora andando li <lb/>
+capitani il giorno seguente alla città di Trapani per <lb/>
+non perder tempo di proveder di quello che havevano <lb/>
+bisogno, et io fui con loro per solecitar ch’ispedissero <lb/>
+né però potemo sortir di quel porto per li venti con-<lb/>
+trarii che alli 29. </p>
+<p>Quando partì<ptr target="#tn16" n="16"/> dalla città il nostro vassello, passò quella notte <lb/>
+per la nostra armata alcuni vasselli holandesi, come anco doi inglesi, che restorono in nostra compagnia. </p>
+<p>Sendo tornato il vento contrario si passò così fino al primo <lb/>
+decembre, et non ostante, che ’l vento fosse di<ptr target="#tn17" n="17"/> mezo dì <lb/>
+che toccava della quarta di Ponente Zud Zud West furono <lb/>
+in ogni modo levate le ancore, et li vasselli entrorno
+<pb n="070v" facs="09_070v" rend="0"/>
+nel mare, parve che si mettesse buon tempo; ma la sera fu il <lb/>
+vento mezo giorno Ponente Zud West. </p>
+<p>A 2 decembre sendo il vento pur contrario mezo giorno verso <lb/>
+la quarta di Ponente West Zud West questo continuò <lb/>
+sino alli 8 quando la nave Il gallo bianco, o sia San <lb/>
+Francesco tirò un pezzo, et mandò per il nostro Capitano del <lb/>
+vassello San Marco, come fece anco per gl’altri capitani <lb/>
+per consigliar che rimedio saria per il più utile, et profite-<lb/>
+vole della serenissima Republica, poiché mentre il vento non voleva <lb/>
+servire, et li viveri suoi cominciavano andar mancando. <lb/>
+Quella sera però non fecero altro, che concluder, che ’l <lb/>
+giorno seguente sarebbono stati di nuovo insieme. </p>
+<p>Ma non puote questo esser sendo piacciuto a Dio, che li venti <lb/>
+fossero così contarii, et impetuosi, che non era possibile <lb/>
+il poter andar a bordo; et la mattina seguente venne <lb/>
+una furia di vento sì grande, che ’l nostro trinchetto <lb/>
+nuovo si ruppe, come anco la maestra, et la nostra <lb/>
+mezana andò in tanti pezzi, che non se ne salvò alcuna <lb/>
+parte. Et per la medesima borasca anco Il gallo bianco <lb/>
+perdé il suo trinchetto, et la maestra. </p>
+<p>Alli 11 tutti li vasselli funno divisi per detta tempesta l’uno <lb/>
+dall’altro trovandosi l’Amiraglio con li vasselli Emaus, et <lb/>
+Angelo volante, et li doi mercantili; et noi eramo <lb/>
+quattro San Marco, Gallo bianco, Santa Giustina, et <lb/>
+Re David: ma questa divisione non sarebbe stata <lb/>
+se li vasselli, che havevano il vento da noi fossero <lb/>
+venuti a basso. </p>
+<p>Continuò la tempesta fino alli 13 che ’l vento corse buono <lb/>
+alla parte di Levante Oost ma bonazzò essendo noi
+<pb n="071r" facs="09_071r" rend="0"/>
+sotto l’isola di Sardegna; ma alli 14 tornò il vento Tramon-<lb/>
+tana Ponente più verso<ptr target="#tn18" n="18"/> il Ponente West<ptr target="#tn19" n="19"/> Nord West con <lb/>
+tempesta che continuò fino alli 16 quando il capitano Haech <lb/>
+tirò una canonata per haver li altri capitani al suo vassello <lb/>
+che tornorono la medesima sera, che si videro lontano <lb/>
+cinque vele, né si seppe che vasselli fossero se non la mattina <lb/>
+delli 17 che arrivando appresso di noi erano li nostri <lb/>
+compagni, et li doi vasselli mercantili: onde quel giorno <lb/>
+si trovamo tutti insieme, et venendo il vento da Levante <lb/>
+Oost caminassimo unitamente il nostro corso. </p>
+<p>Ma il vassello Santa Giustina non havendo più viveri, et per <lb/>
+necessità trasportato dal vento corse per Caleri in Sardegna <lb/>
+noi però seguitamo il nostro camino; ma come la notte <lb/>
+si mise il vento di tutto contrario, et poi calmò, così <lb/>
+ancor noi mancandoci le provisioni scorressimo alla <lb/>
+volta di Caleri, et quel medesimo giorno arrivorono appresso <lb/>
+di noi li doi inglesi, che a Trapani erano venuti in <lb/>
+nostra compagnia, et per le gran tempeste si <lb/>
+scontorono<ptr target="#tn20" n="20"/> dalla nostra compagnia. </p>
+<p>A 19 decembre arrivassimo su la spiaggia di Caleri, onde li <lb/>
+nostri cinque vasselli con li doi mercantili aspettonno <lb/>
+fino al Natale che era alli 25, ma parendo che servisse <lb/>
+il vento buono La vacca macchiata, et Il re David <lb/>
+et li doi inglesi levorono l’ancore et fu li 23 decembre <lb/>
+non volendo più aspettar gl’altri vasselli, che però non <lb/>
+perderono tempo a provedersi, et li doi dissero, che non <lb/>
+ne havevano bisogno. </p>
+<p>Qua si potrebbe forse pretender qualche cosa contra li capitani <lb/>
+caso che li doi vasselli sudetti fossero prima arrivati
+<pb n="071v" facs="09_071v" rend="0"/>
+al Paese delli altri cinque, et questo perché li capitani di esse <lb/>
+cinque non si erano provisti così bene a Corfù come li duoi <lb/>
+mentre tra loro fu accordato di far provisione per tre mesi <lb/>
+et non era più che per doi mesi, o un mese et doi terzi in circa<ptr target="#tn21" n="21"/>. </p>
+<p>Li detti capitani non havendo né credito né denari per comprarli <lb/>
+loro viveri sono stati forzati vender una gran quantità di <lb/>
+polveri, et questa cred’io che fosse intorno a 113 barilli <lb/>
+della qual il peso di quaranta barilli tratti dal nostro vassello <lb/>
+fu di 4626. Quanto all’altre a me non è stato possibile <lb/>
+intender il certo numero del peso a vassello per vassello, <lb/>
+ma bisogna, che sia a proportione. Et ha anco il capitano <lb/>
+della nave Santa Giustina, come ho inteso venduti quindeci <lb/>
+moschetti. </p>
+<p>Et havendo le nostre cinque navi fatto vela com’ho detto a’ 25 decembre <lb/>
+gettorono all’ancora alla vista della città per provedersi di <lb/>
+acqua, et legne. La notte venendo il vento buono facessimo <lb/>
+vela, et la mattina del giorno seguente a’ 26 si trovassimo <lb/>
+tra otto vassellotti francesi caricati con frumenti, alli <lb/>
+quali tirassimo doi tiri, ond’essi si retirorno alla nostra <lb/>
+armata su la notte, caminando verso Marseglia. </p>
+<p>Venendo al<ptr target="#tn22" n="22"/> giorno seguente<ptr target="#tn23" n="23"/> il vento contrario et<ptr target="#tn24" n="24"/> Tramon-<lb/>
+tana Ponente fossimo forzati metter l’ancora sul <lb/>
+medesimo luoco d’onde eramo partiti, lasciando quivi <lb/>
+il capitano del vassello<ptr target="#tn25" n="25"/> Santa Giustina quattro delli suoi huomini. <lb/>
+Del vassello San Marco un marinaro, che haveva ammazzato <lb/>
+un altro marinaro. Del capitan Bornon fuggì il suo <lb/>
+luocotenente per haver ammazzato uno dei suoi huomini, <lb/>
+come il medesimo Bornon per certo tradimento come disse messe <lb/>
+in terra quattro altri delli suoi huomini. Così anco è <lb/>
+successo, che nel vassello San Francesco fu ammazzato
+<pb n="072r" facs="09_072r" rend="0"/>
+un altro huomo, onde l’altro scappò, che in tutti sono undeci huomini, <lb/>
+li quali doverebbono perder tutto quello possono prender, come che <lb/>
+sono tenuti per Schelms. </p>
+<p>Li 28 decembre venne il vento da Levante Tramontana Oost Nord Oost <lb/>
+et qualche volta Tramontana Levante Nord Oost si fece vela, et <lb/>
+si passò a’ 29 decembre l’isola di Sardegna, et San Pedro mettendo <lb/>
+il nostro corso tra ’l Ponente, et mezo giorno West + Zud. </p>
+<p>A’ 30 decembre continuò il buon vento, et corso; ma all’ultimo <lb/>
+venne il vento contrario, et assai grande con nebbie essendo il <lb/>
+vento da Ponenente<ptr target="#tn26" n="26"/> più verso il mezo giorno West Zud West <lb/>
+fino la sera che fece più calma. </p>
+<p>A’ primo genaro la sera continuando il medesimo vento vedevamo tutte <lb/>
+doi l’isole di Maiorica, et Minorica, et la notte come uno che <lb/>
+portò il fuoco passò tra l’isola così il luocotenente della <lb/>
+nostra nave San Marco<ptr target="#tn27" n="27"/> contra ’l costume messe anc’egli <lb/>
+altro fuoco, et detornò camino, così che la mattina seguente <lb/>
+non vedevamo altri vasselli, che solo Il gallo bianco o San <lb/>
+Francesco, che seguitò il nostro vassello. Il qual Luogotenente <lb/>
+ch’è posto per patrone del vassello si escusa, che con <lb/>
+sì gran vassello non li bastava l’animo mettersi in pericolo <lb/>
+la notte massime di passar tra doi isole temendo di accostar <lb/>
+le terre. </p>
+<p>A’ 3 genaro, et 4 havevamo una tempesta con contrarii venti; ma <lb/>
+alli 5 la mattina era bonazza, però vento contrario, come anco fu alli 6 genaro. </p>
+<p>A’ 7 vedevamo di nuovo l’isola di Minorica<ptr target="#tn28" n="28"/> un’altra volta <lb/>
+sendo il vento da Ponente Zud. </p>
+<p>A’ 8 genaro corse il vento Tramontana Levante, et caminassimo <lb/>
+il nostro corso fin alla meza notte, che cominciò a tempestare
+<pb n="072v" facs="09_072v" rend="0"/>
+in maniera, che non potevamo caminar che alla maestra, et <lb/>
+trinchetto. </p>
+<p>A’ 9 genaro continuò il buon vento, et era da Tramontana. <lb/>
+Qua disse il pilota, che ’l corso, ch’egli haveva posto sulla <lb/>
+sua guardia era stato cambiato, o rimesso, et questo <lb/>
+seguì a tal maniera che. </p>
+<p>A’ 10 genaro vedevamo la costa di Barbaria non pensando <lb/>
+li patroni né il pilota, che potessimo esser così vicini alla <lb/>
+terra. </p>
+<p>A’ 11 genaro era il vento ancor nort cioè da Tramontana <lb/>
+et con furia tale, che dubitassimo esser gettati contra <lb/>
+la Barbaria. </p>
+<p>A’ 12 detto<ptr target="#tn29" n="29"/> pensavamo per certo di perder il vassello, et la <lb/>
+vita perché non eramo discosti doi leghe dalla terra; conti-<lb/>
+nuando la pericolosa tempesta; et il nostro Capitano <lb/>
+circa la meza notte fece congregar tutte le nostre <lb/>
+genti per pregar Dio, che perdonasse all’anime nostre <lb/>
+perché ci pareva di certo veder la morte vicina; quanto <lb/>
+piacque a sua divina Maestà, che ’l vento s’abbassò <lb/>
+tanto, che portamo le vele di gabbia, et<ptr target="#tn30" n="30"/> così coll’<lb/>
+aiuto di Dio<ptr target="#tn31" n="31"/> per forza<ptr target="#tn32" n="32"/> di vele tenevamo il vassello <lb/>
+lontano dalla terra. </p>
+<p>A’ 13 era ancor il vento contrario però bonazzò; ma la notte tra <lb/>
+li 13, et 14 venne il vento buono che continuò fino alli 15 <lb/>
+genaro la sera, che ’l vento tornò contrario così che non po-<lb/>
+tevamo caminar più alto, che di Tramontana toccante <lb/>
+la quarta di Ponente, et tal hora di Ponente Tramontana. </p>
+<p>A’ 16 era il vento da Ponente alcune volte tra il Ponente, <lb/>
+et Tramontana assai gagliardo; et tale, che si ruppe
+<pb n="073r" facs="09_073r" rend="0"/>
+l’arboro del moschetto del vassello Il gallo bianco. </p>
+<p>La mattina a’ 17 era buon tempo; ma vento contrario, et <lb/>
+Ponente. La notte circa le otto hore vene il vente<ptr target="#tn33" n="33"/> <lb/>
+di Levante; come anco a’ 18 genaro; ma fossimo <lb/>
+forzati di aspettar Il Gallo bianco, che haveva <lb/>
+rotta la sua vela di gabbia, come disse, et perché <lb/>
+anco non haveva l’arbore del moschetto; ma fu al <lb/>
+mezo giorno la sua vela accommodata. </p>
+<p>A’ 19<ptr target="#tn34" n="34"/> fu il vento da Tramontana, et caminamo il nostro <lb/>
+corso fino alli 20 genaro la sera, quando il vento <lb/>
+corse contrario, et a’ 21 la sera<ptr target="#tn35" n="35"/> vedessimo la terra ferma <lb/>
+di Spagna. Essendo il corso Tramontana poco meno <lb/>
+che Ponente, et il vento soffiava da Ponente. </p>
+<p>A’ 22 continuando il contrario vento con tempesta risol-<lb/>
+ve il Capitano con il patron, et pilota di correr su la <lb/>
+spiaggia de Formenter, et arrivando sotto l’isola <lb/>
+non fu possibile pigliar terra; ma fossimo forzati <lb/>
+di resta<ptr target="#tn36" n="36"/> quella notte in mare. </p>
+<p>A’ 23 genaro corressimo sulla spiaggia d’Ivisa sotto <lb/>
+la città essendo il vento Ponente maestro onde <lb/>
+Il gallo bianco come quello, che non haveva <lb/>
+moschetto non puote entrar nel porto. </p>
+<p>A’ 24 non vedessimo più Il gallo bianco per li gran venti che <lb/>
+quella notte erano stati; et arrivò sul medesimo <lb/>
+giorno per contrarii venti su la spiaggia un filippato <lb/>
+di Hoorn, che camminava verso Amsterdam. Il patron <lb/>
+del quale disse, che non erano poco più di tre setti-<lb/>
+mane, ch’era partito di Bari nel golfo; et
+<pb n="073v" facs="09_073v" rend="0"/>
+noi eramo stati da Corfù a venir fin là tre mesi <lb/>
+o poco meno. Et restò in nostra compagnia. </p>
+<p>Restamo là fin alli 4 febraro, vendendo qui il Capitano<ptr target="#tn37" n="37"/> sette barilli de’ <lb/>
+polvere, che pesorono netto denari 870 per provedersi di <lb/>
+vini per le genti. </p>
+<p>Havendo a’ 3 febraro il Capitano con il Consiglio fatta giustitia <lb/>
+messero in terra 3 delli suoi huomini come schelmi <lb/>
+et uno era il suo capo bombardiero; un bombar-<lb/>
+diero, et il terzo un marinaro di gabbia, dicendo che <lb/>
+havevano voluto tradir il vassello. Quanto a me <lb/>
+non lo so se sia vero. Questi come ho detto di sopra <lb/>
+hanno anc’essi persi li loro gaggi, che devono <lb/>
+haver del servitio prestato. </p>
+<p>A’ 4 febraro levamo l’ancore facendo vela con il vento <lb/>
+nel mezo giorno Levante però calmo. Et quel filipotto <lb/>
+caminò con noi quel giorno. La notte tornò <lb/>
+il vento contrario Ponente Tramontana onde <lb/>
+non potevamo navigar più alto, che Ponente <lb/>
+maestro o lì in circa con vento assai gagliardo <lb/>
+la notte fu il vento Ponente, et così grande che <lb/>
+fin la mattina non potevamo portar le vele di gabbia. </p>
+<p>A’ 6 il vento fu Tramontana Ponente assai buono. </p>
+<p>A’ 7 fu così gran tempesta, che ’l Capitano et pilota<ptr target="#tn38" n="38"/> risolverono<ptr target="#tn39" n="39"/> correr <lb/>
+su la spiaggia di Maiorica, ove s’arrivò la medesima <lb/>
+sera aspettando quivi per li contrarii venti fino alli <lb/>
+13 facendo in questo mentre il Capitano provisioni de’ <lb/>
+viveri, dovendo far ancor un così gran viaggio <lb/>
+et sul prescritto giorno de’ 13 facessimo vela, et con noi
+<pb n="074r" facs="09_074r" rend="0"/>
+si accompagnarono un vassello francese, un inglese, che <lb/>
+velleggiavano per Alicante, et un holandese che <lb/>
+passava a Lisbona in Portugallo, sendo finchéa <lb/>
+il vento buono, che continuò fino alli 15, che venne <lb/>
+assai calmo, et il vento da Ponente onde caminassimo <lb/>
+per la quarta di mezo giorno al Ponente a vista <lb/>
+dell’isola di Formenter. </p>
+<p>Il detto vento continuò fino alli 17 quando venne Tramontana <lb/>
+et<ptr target="#tn40" n="40"/> si scostorono da noi l’Inglese, et Francese, <lb/>
+et quella sera vedessimo il Capo di San Martino <lb/>
+in Valentia. </p>
+<p>A’ 18 col medesimo vento passamo Cartagena. </p>
+<p>A’ 19 sendo vicini al Capo de Gattas vene il vento <lb/>
+contrario et Ponente, et andavimo quella notte <lb/>
+all’ancora sopra la spiaggia vicina. </p>
+<p>La mattina servendo il vento buono da Tramontana <lb/>
+Levante Nord Oost levamo l’ancore caminando <lb/>
+il nostro corso sul giorno venne il vento da Levante, <lb/>
+et poi da mezo giorno, et Levante la incirca. </p>
+<p>Caminando così con buon vento quel giorno, et il seguente <lb/>
+giorno, sendo tal volta calmo, et variabile <lb/>
+arrivamo a’ 22 la mattina avanti Gibilterra <lb/>
+nel stretto il qual passassimo a’ 23 la mattina <lb/>
+caminando così con buon vento fino al giorno <lb/>
+seguente finché venne bonazza; et la mattina a’ 24<ptr target="#tn41" n="41"/> <lb/>
+arrivò appresso di noi una nave di Medemblich <lb/>
+alla quale tirorono un tiro; vedendo finchéa il <lb/>
+vento di mezo giorno, così che ancor caminavamo. </p>
+<pb n="074v" facs="09_074v" rend="0"/>
+<p>A’ 25 arrivonno presso di noi 8 vele, che venivano fuori <lb/>
+del stretto, et furono conosciuti per Inglesi, et Francesi. Ci salutorono con tre pezzi; et noi facemo lo stesso. </p>
+<p>A’ 26 venne il vento di Tramontana, et così continuò contra-<lb/>
+rio la notte. </p>
+<p>Tra il 27, et il 28 febraro venne il vento dal mezo giorno, et <lb/>
+caminavamo il corso sul giorno dritto al Ponente <lb/>
+o Ponente maestro con buon tempo. La notte venne <lb/>
+il vento Ponente verso la quarta di mezo dì, che <lb/>
+continuò fino al primo marzo, la sera fu miglior <lb/>
+tempo. </p>
+<p>A’ 2 marzo venne il vento da Tramontana, et tra <lb/>
+Tramontana Levante più vicino alla Tramontana, onde <lb/>
+il corso nostro era Tramontana Ponente in circa et tale <lb/>
+volta giusto Ponente Tramontana. </p>
+<p>La notte fu Tramontana Levante, che continuò fino alli 6 <lb/>
+marzo quando il vento venne la mattina dal mezo giorno <lb/>
+Ponente, in maniera che caminavamo il nostro corso <lb/>
+come anco facessimo alli 7 8 9 et 10 marzo quando <lb/>
+la notte venne una furia di vento tale, che fussimo for-<lb/>
+zati cavar tutte le vele: il<ptr target="#tn42" n="42"/> vento però continuò buono <lb/>
+et quella tempesta durò fin li undeci marzo in circa il <lb/>
+mezo giorno; et poi venne così calmo, che rimettessimo tutte <lb/>
+le vele. </p>
+<p>La nostra conserva restò dietro non potendo seguitarci; ma <lb/>
+era però fuori tutti li pericoli de’ corsari. </p>
+<p>Continuandosi col buon vento a’ 12 fino li 15 la mattina <lb/>
+allhora vedemo la terra pensamo, che fosse il fin
+<pb n="075r" facs="09_075r" rend="0"/>
+d’Inghilterra et Lesart; ma intorno ’l mezo giorno trovassimo <lb/>
+d’esser tutt’intorno tra le pietre nel luoco chiamato la <lb/>
+Chischas sotto la costa di Normandia in Francia: onde per <lb/>
+li gran pericoli che vi sono per uscirne, et anco perché <lb/>
+niuno delli nostri piloti, né marinari erano pratici <lb/>
+aggiunto li contrarii venti, come dicevano, fossimo forzati <lb/>
+di restar là fino alli 5 aprile. Et il signor Governator che sta <lb/>
+per nome della maestà d’Inghilterra sopra l’isola di Jarse <lb/>
+su la qual spiaggia noi eramo ci fece haver un pi-<lb/>
+lota, che ci condusse fuori di quei luochi pericolosi <lb/>
+havendo il Capitano promesso ad esso pilota per la sua <lb/>
+fatica fiorini cento vinti. </p>
+<p>Et ha il Capitano mentre, che eramo in quel luoco venduti <lb/>
+vinti barelli di polvere, che pesorono netto lire cento <lb/>
+l’uno, che sono in tutto denari 2000. </p>
+<p>A’ 17 marzo era il nostro vassello su la prescritta spiaggia <lb/>
+in grandissimo pericolo perché l’acqua talmente si abbassò, <lb/>
+che toccavamo il fondo, da che avene anco, che si <lb/>
+perde il timone, il quale per gratia del signor Dio fu <lb/>
+ritrovato il giorno seguente nel mare quando l’<lb/>
+acqua fu di nuovo bassa; et fu accomodato alli <lb/>
+19 di marzo. </p>
+<p>Questo fu un grand’errore delli patroni, et piloti perché si <lb/>
+trovorono più di 40 leghe dentro il canal d’Inghilterra <lb/>
+et Francia, che non pensorono, et in luoco pericoloso da <lb/>
+perder et il vassello, et la vita. </p>
+<p>Havendo com’ho detto fatto vela alli 5 aprile quella <lb/>
+sera uscimo coll’aiuto di Dio fuori di tutti li pericoli
+<pb n="075v" facs="09_075v" rend="0"/>
+di pietre, mettendo il nostro corso doppo l’uscita la <lb/>
+mattina seguente per il porto di Plemua per causa del <lb/>
+vento di Levante, ch’era allhora, che ci servì per <lb/>
+uscir fuori del porto di Jarse. </p>
+<p>Et mentre il vento era contrario fece il Capitano alcune provisioni <lb/>
+di viveri, et il borgomastro della città ci diede nuova<ptr target="#tn43" n="43"/> che delli sette <lb/>
+vasselli restavano ancor tre verso Irlanda. </p>
+<p>Nel prescritto porto restassimo fino al sabbato 11 d’aprile <lb/>
+nel qual giorno facemo vela con il vento Ponente <lb/>
+mezo giorno, et passassimo il<ptr target="#tn44" n="44"/> giorno seguente <lb/>
+il luoco chimato Portlant. Sendo il vento da Po-<lb/>
+nente. </p>
+<p>A’ 13 aprile passamo la sera tra Doure e Cales sendo il <lb/>
+vento scarso dalla parte di Tramontana; et tal <lb/>
+volta dalla parte del Ponente più vicino alla <lb/>
+Tramontana. </p>
+<p>A’ 14 aprile fu ancor il medesimo vento, et corso a’ 15 aprile <lb/>
+fossimo nella vista del porto di Tessel né per il <lb/>
+contrario vento fu possibile entrarvi, et fussimo <lb/>
+necessitati metter all’ancora fin alli 17 aprile quando <lb/>
+il vento soffiando buono siamo per la gratia di <lb/>
+Dio entrati nel prescritto porto. </p>
+<pb n="076r" facs="09_076r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="076v" facs="09_076v" rend="270"/>
+<p>Giornale del Wixdor </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 199 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "ad … suddito" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "cup" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "alla" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "que" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "mag" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "però" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "più vicino" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "-rono" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "et non era … in circa" added in the interlinear space.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "medesimo" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Is the result of a correction.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Added above the deleted word.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-z-" corrected above "-s-."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "-9" corrected above "-8."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Added above the line on "quindi" crossed out.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Is the result of a correction.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Followed by "pi" crossed out.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "ci … nuova" added above the line with an insertion mark.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> Added above the line on "quel" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

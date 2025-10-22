@@ -2,8 +2,7 @@
 
 Here is the data set that represents the letters of Christofforo Suriano.
 
-The data we describe here is not in this repo but resides in the publicly accessible 
-[SurfDrive folder](https://surfdrive.surf.nl/files/index.php/s/L1bhixOQKMdXPjT).
+The data we describe here is in this repo in directory `/datasource`.
 
 The dataset consists of source material and representations of the source in
 TEI and other formats, and metadata and XML schemas.

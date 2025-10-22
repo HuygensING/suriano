@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.065 date 1617-08-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">065</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, 349r-351v, 353r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">349r-351v, 353r-v, 352r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has received news on events in Friuli and Bay of Naples. He summarises the content of the letter from Gradisca. Sticke has visited him to let him know his brother is better. One document attached: "lettera del conte Levenstein"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-08">8 agosto 1617</date>
+            <num>111, 112</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="111">
+<div type="main" facs="main text of letter" n="111">
+<!--<p>8 agosto 1617, L’Aia (cc. 349r-351v, 353r-v)</p>-->
+<pb n="349r" facs="04_349r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>quello, che la Serenità vostra mi scrive nelle sue lettere de’ 21 del passato <lb/>
+esser successo tanto nel Friuli, quanto nel golfo, è stato inteso qui <lb/>
+con particolar dispiacere per il pregiudicio, ch’ella ne riceve per il <lb/>
+comercio; et per il ritardamento della presa di Giudisca; et ho inteso, che dalla parte de’ serenissimi arciduchi se ne fa festa, et gioia <lb/>
+grande. Del mio discontento non parlerò, sicuro, che la <lb/>
+devotione dell’animo sia assai bastante per portarlo alla conoscenza della Serenità vostra. </p>
+<p>Quanto al seguito in mare qui lo stimano infortunio; ma nato <lb/>
+dalla particolar intelligenza, come da lei mi viene rappresentato. <lb/>
+Per quello da terra poi presuppongono che la mala corrispondenza <lb/>
+de’ capi l’habbi causato, fondandosi sopra lettere scritte da <lb/>
+alcuni delle militie holandesi, che quasi con un medesimo <lb/>
+concetto lo dicono, et che se si havesse seguitato il parere del signor <lb/>
+conte Gio. Ernesto la cosa non sarebbe successa; che l’introduttione <lb/>
+de’ viveri in Giudisca era stata preceduta, et avertita dal signor Conte <lb/>
+che vi si poteva rimediare ma non si ha voluto, mostrando bene <lb/>
+mentre proferì il suo senso, et lo lasciò in scrittura di <lb/>
+farsene conto, et di stimarlo; ma poi non si è voluto <lb/>
+manco dar segno di volerlo metter in alcuna essecutione; <lb/>
+che tutto era nato, come si comprendeva da invidia <lb/>
+di alcuni, che non amano la gloria del signor Conte et hanno pro-<lb/>
+curato sempre di tenirlo indietro da quelle imprese, che <lb/>
+con servitio della Serenità vostra gli potevano far honore, massime <lb/>
+doppo, che acquistò li doi forti del Generale, et delle
+<pb n="349v" facs="04_349v" rend="0"/>
+donne; che non si guardava di tirar li soldati delle truppe, et che <lb/>
+nell’indoglienza, che se ne faceva vi era per sola iscusa esservi <lb/>
+una massima generale, che li soldati pur che servino San <lb/>
+Marco non importa che siano più sotto un capo, che sotto all’<lb/>
+altro, che vedendo il Conte di non poter acquistar honore <lb/>
+anzi di esser a parte del dishonore, che ne viene a derivare <lb/>
+per essersi in faccia dell’armata lasciato introdur viveri in Gradisca <lb/>
+senza apportarvi il rimedio, che facilmente si poteva si era risoluto <lb/>
+d’ispedir a Venetia il Vimes per impetrar la sua licenza si <lb/>
+racconta esservi mancamenti de’ viveri et caminarsi nell’armata con disordine in tutte le cose. Questo è il contenuto delle <lb/>
+lettere venute la presente settimana, et particolarmente di quelle dell’<lb/>
+auditor general delle truppe Dimer. So che lo stesso Conte <lb/>
+quanto all’introduttione de’ viveri in Gradisca ha scritto a sua Eccellenza <lb/>
+presupongo, che nelle lettere vi siano dei medesimi concetti; <lb/>
+ma ella non è uscita ad altro se non che<ptr target="#tn2" n="2"/> gli scriveva, che era <lb/>
+stata introdotta quantità di farine, che haverebbe <lb/>
+ritardato l’effetto del far cader quella piazza in mano <lb/>
+della Republica mostrò dispiacer grande del successo <lb/>
+ma disse, che questi erano effetti della guerra n[on]<ptr target="#tn3" n="3"/> condescese <lb/>
+ad alcun particolare se non che sperava, che le sue lettere <lb/>
+haverebbono contenuto in ufficio il Conte, il q[u]ale<ptr target="#tn4" n="4"/> non <lb/>
+è laudato da alcuno di non haver voluto obed[i]r<ptr target="#tn5" n="5"/> al signor <lb/>
+don Gioanni, et nel generale ha perso non poco, come ho inteso <lb/>
+et mi viene riferto tanto per questo, quanto perché […]<ptr target="#tn6" n="6"/>
+<pb n="350r" facs="04_350r" rend="0"/>
+che ’l difetto si attribuisca a lui del mal governo delle genti. <lb/>
+Ma dirò anco riverentemente alla Serenità vostra che qui non è inteso bene <lb/>
+il concetto che li soldati pur che servino San Marco non importa <lb/>
+che lo faccino più sotto uno, che sotto un altro capo, dicendosi <lb/>
+non esser maniera accostumata né qui, né in altro Paese; et <lb/>
+io sostento questo non poter esser vero, ma che li soldati hanno <lb/>
+preso altro partito per non haver il loro dritto nelle paghe <lb/>
+viene anco chiamato grandissimo disordine che non vi siano <lb/>
+hospitali, né proprii ricetti per li amalati, et per li feriti <lb/>
+et che vi siano mancamenti de’ viveri, et massime per la com-<lb/>
+modità che et per l’uno, et per l’altro hanno in questo Paese <lb/>
+ma più per l’ordine che dicono esservi. Et non è meraviglia <lb/>
+essendo facile il transporto di tutte le cose per la commodità <lb/>
+dei canali navigabili per tutta l’Holanda, et per tutto il <lb/>
+resto del Paese. Di questi doi mancamenti tutti scrivono <lb/>
+in conformità, et in conformità anco, che sperano <lb/>
+ritornarsene dentro uno, o doi mesi. Io sostento in quanto <lb/>
+mi è possibile, et vado ribattendo le voci, et le considerationi <lb/>
+con quelle ragioni, che stimo proprie. </p>
+<p>Ho anco in particolare procurato dar ad intender qual sia <lb/>
+la paga de’ Svizzeri, et come siano state le truppe del signor Conte <lb/>
+avantaggiate di doicento scudi per ogni doi compagnie, et <lb/>
+questo per il maggior numero di officiali, poiché più <lb/>
+di uno questi giorni me ne ha discorso, dicendo, che
+<pb n="350v" facs="04_350v" rend="0"/>
+non sapevo intenderla mentre dall’un canto sentivo che li capitani <lb/>
+haverebbono voluto la paga de’ Svizzeri, et dall’altro sapevo <lb/>
+benissimo che li soldati volevano correr nelle bande italiane <lb/>
+che sono pagate a minor prezzo de’ Svizzeri, il che chiudo <lb/>
+la bocca, con restar sodisfatto chi ne parla; ma dove non può <lb/>
+arrivar la ragione l’inventione non sussistente fa il suo effetto. <lb/>
+Uno sorridendo mi disse, che pensando li capitani al dover esser intra-<lb/>
+tenuti così poco tempo, et che potessero esser doppo licentiati <lb/>
+o per la pace, o colla stagione non hanno voluto mancar <lb/>
+a sé stessi, et farsi la buona mano, il seguito dà molto ben <lb/>
+a conoscer esser vero il concetto, et quello che han riportato <lb/>
+doi o tre soldati fuggiti, et tornati ultimamente in questi <lb/>
+paesi lo conferma dolendosi del capitan Lodovico Bredorud <lb/>
+come anco una lettera<ptr target="#tn7" n="7"/> che mi è stato detto <lb/>
+essersi scritta da uno, ch’è pur nelle truppe del Conte <lb/>
+che rappresenta la mercantia delle vivande, il che <lb/>
+risaputo da alcuni tanto più disgusta, se ben <lb/>
+dalli amici si procura di coprir quanto si può, et <lb/>
+si è fatta paura alli soldati di maniera che non <lb/>
+si lasciano veder per l’Haya. </p>
+<p>Il residente Stich mi è venuto a riferire hav[eva]<ptr target="#tn8" n="8"/> havute <lb/>
+lettere del fratello, che si era ricuperato; che gli scriveva <lb/>
+che ’l signor don Gio. de’ Medici cercava di haver le truppe <lb/>
+del Wassonhovem, et che gli haveva offerta la luocotenenza
+<pb n="351r" facs="04_351r" rend="0"/>
+sotto di lui, che già, che vedeva non poter il fratello avanzar <lb/>
+altro, lo voleva con questo dispaccio essortar ad accettar il <lb/>
+partito, per rendersi tanto più grato: sperando, che la serenissima <lb/>
+Republica l’haverebbe in qualche altra occasione ricompensato, et honorato. </p>
+<p>Sono tornati a me li patroni, et interessati in quei vasselli <lb/>
+et con nuovo compianto, et nuove preghiere hanno mostrato <lb/>
+desiderio di esser sodisfatti nelle loro instanze. Io li ho <lb/>
+detto di haver scritto, et che era necessario attender la <lb/>
+risposta. Quelli che hanno ad haver il nolo per le genti <lb/>
+del Wassonhovem si compiangono più degli’altri, <lb/>
+et replicano il venir a me per haver risposta; et l’interesse <lb/>
+li fa creder, che ’l tempo servi per essa; né cessano per tanto <lb/>
+di visitarmi; et io li vado confortando alla meglio, et <lb/>
+con buone parole. Sua Eccellenza ha havuto avviso che a <lb/>
+Delfsil, et là intorno siano più di milla cinquecento<ptr target="#tn9" n="9"/> <lb/>
+soldati in circa del signor conte di Levenstein: egli però non mi scrive <lb/>
+in questo proposito, se non quanto intenderà la Serenità vostra dalle <lb/>
+sue lettere, che invio tradotte in copia. Le navi non partirono <lb/>
+non havendo li signori d’Amsterdam voluto permettergli il levar <lb/>
+l’armi, polveri, piombi, et altri apprestamenti necessarii <lb/>
+per esse, et per li soldati senza la particolar concessione dei <lb/>
+signori Stati Generali: per il che il signor Conte scrisse a me, et io feci <lb/>
+capo al Presidente, che sabbato mi fece haver le letter per <lb/>
+questo imbarco, le quali subito gl’ispedii. </p>
+<pb n="351v" facs="04_351v" rend="0"/>
+<p>Mandò sabbato a me un suo huomo, espressamente per sapere, se <lb/>
+havevo havuto qualche ordine, che al suo reggimento dovesse <lb/>
+aggiunger altri millecinquecento fanti, come con sue lettere haveva <lb/>
+offerto alla Serenità vostra et sta per tanto tuttavia in espettatione <lb/>
+colla speranza che gli è stata data da Venetia, che doveva <lb/>
+abbracciarsi l’offerta; mostrando animo, et volontà di essequi-<lb/>
+rla. Gratie etc. </p>
+<p>Dall’Haya a’ 8 agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="353r" facs="04_353r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="353v" facs="04_353v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="111">
+<!--
+<p n="353vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 agosto 1617 ricevute 23 detto </p>
+<p>Haia. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="112" corresp="111" source="352r-v" >
+<div type="main" facs="main text of attachment I" n="112" corresp="111" >
+<!--<p>Allegato I al n. 111 (cc. 352r-v)</p>-->
+<pb n="352r" facs="04_352r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettere del signor conte de Levenstein de’ 7 agosto d’Amsterdam </p>
+<p>Questa mattina ho ricevute lettere dal Commissario et dal mio Quartiermastro, nelle <lb/>
+quali mi avvisano che il conte d’Embdert haveva ragunati li suoi consiglieri et che <lb/>
+aspettavano ognhora la sua risolutione, tuttavia li soldati non lasciano di venir <lb/>
+et si fanno metter dentro di alcuni vasselli a Bremen et vengono per di dentro via <lb/>
+a Delfsijl, ch’è il mezo megliore, et io non facio altro ch’attender a inviar un <lb/>
+vassello appresso l’altro, et solleciterò quanto più mi sarà possibile. Già ho guardato <lb/>
+in caso che venisse la risposta di sua Serenità d’haver delle altre navi per il resto della <lb/>
+levata, et credo come mi pare che sarà facile di trovarli et più facilmente che li primi. <lb/>
+Io ho accordato qui un vassello che viene tenuto per il più buono del Paese, ecettuati <lb/>
+quelli dell’Amiralità<ptr target="#tn10" n="10"/>, ecco quanto. </p>
+<pb n="352v" facs="04_352v" rend="270"/>
+<p>Lettera del conte di Levenstein </p>
+<p>nelle 2<hi rend="superscript">de</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "Prima."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Damaged page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Damaged page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Damaged page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Damaged page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by deleted words.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Damaged page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "fanti" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the deleted word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

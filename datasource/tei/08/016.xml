@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.016 date 1619-05-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">016</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 81r-v, 84r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">81r-v, 84r-v, 82r-83v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the sentence pronounced against Oldenbarnevelt has been printed in Dutch and French and sends a copy to Venice (which is no longer attached). He has received reports that Nicholas Hamel has gone to Amsterdam to get the rolls of the dead and the sick to get the seamen to leave money for the women. He has written to Caladrini to obtain the accounts. One attachment: a copy of letter by Du Maurier, the French ambassador pleading for clemency on behalf of Oldenbarnevelt dated 13 May 1619</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-05-22">22 maggio 1619</date>
+            <num>026, 027</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="026">
+<div type="main" facs="main text of letter" n="026">
+<!--<p>22 maggio 1619, L’Aia (cc. 81r-v, 84r-v)</p>-->
+<pb n="081r" facs="08_081r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 105 seguita 104 </p>
+<p>Spedita<ptr target="#tn1" n="1"/> a’ 19 per Amsterdam </p>
+<p>Serenissimo Principe </p>
+<p>uscì solamente hieri dalla stampa la sententia contra la persona <lb/>
+del signor Bernvelt fatta in lingua fiaminga; et hoggi quella <lb/>
+fatta in francese della quale ne mando qui aggiunto <lb/>
+un essemplare per quelle dell’Eccellenze vostre, che haveranno <lb/>
+gusto di vederla, havendo più tosto voluto sodisfar alla <lb/>
+curiosità, che al bisogno; et perché mi si rappresenta<ptr target="#tn2" n="2"/> un’<lb/>
+occasione di un messaggiero, che parte in questo punto <lb/>
+per Anversa. </p>
+<p>Et non lascierò colla medesima di aggiungerle, che ho havuto questa <lb/>
+mattina avviso di Amsterdam, che Nicolò Hamel, che <lb/>
+già fu mandato qui dal morto amiraglio delle dodici <lb/>
+navi è partito per costì colle raccommadationi per la moglie dell’Amiraglio sudetto; et ha dalli signori dell’<lb/>
+amiralità di Amsterdam havuto semplice commissione <lb/>
+di solecitare, che siano mandati rolli dei vivi, et dei <lb/>
+morti, veder in che stato ha l’Amiraglio lasciate le <lb/>
+cose sue, et pigliar anco li conti dei capitani. Have-<lb/>
+v[a]no<ptr target="#tn3" n="3"/> anco pensiero quei signori di mandar con lui<ptr target="#tn4" n="4"/> <lb/>
+l[a]<ptr target="#tn5" n="5"/> nota dei<ptr target="#tn6" n="6"/> nomi di quelli per chi hanno pagati <lb/>
+denari, et anco insister, che ivi detti marinari non <lb/>
+ricevessero tutto; ma che buona parte possi esser pagata <lb/>
+qui, ma non sa il Calandrini, che m’ha scritto questo <lb/>
+tanto, se l’habbino fatto ben mi aggiunge, che la necessità <lb/>
+et mancamento che quelle donne per la maggior parte <lb/>
+povere hanno di pane le fa tal volte esser più inso-<lb/>
+lenti di quello, che doveriano. Mi dice di più, che li <lb/>
+signori dell’Amiralità per scaricarsi dall’importunità ne <lb/>
+havevano mandate parte qui con lettere alli signori Stati, <lb/>
+et a sua Eccellenza poiché non havevano potuto far di meno per
+<pb n="081v" facs="08_081v" rend="0"/>
+liberarsi da una cinquantina di esse, che erano al collegio <lb/>
+di detti signori dell’Amiralità, che facevano<ptr target="#tn7" n="7"/> strepito grande <lb/>
+volendo o denari, o lor mariti. Essi signori fecero la detta <lb/>
+risolutione, poiché non pontendole essi pagar denari <lb/>
+vogliono saper come governarsi. Io non ho ancor <lb/>
+veduta alcuna di esse, né sentito, che siano comparse. <lb/>
+Aspetto questa piena, et questo parosismo. In tanto <lb/>
+ho scritto al Calandrini, che facci saper a detti signori <lb/>
+che ’l tener sì lungo tempo il darmi la liquidatione <lb/>
+de’ conti è causa che io non posso mandar a vostra Serenità <lb/>
+quello si conviene, né ricever gl’ordini, che sono desi-<lb/>
+derati da loro. Tutto sta nella missione dei roli <lb/>
+dei vivi, et dei morti, et fuggiti, et a chi si deve pagar <lb/>
+di mese in mese: altrimenti saremo sempre al medesimo. <lb/>
+Io supplico la Serenità vostra, et le Signorie vostre illustrissime per la quiete dell’<lb/>
+animo loro, et per il servitio publico, che ordinino <lb/>
+questa missione de’ roli di mese in mese, et così a chi <lb/>
+si deve pagare. Io quando devo scriver […]se<ptr target="#tn8" n="8"/> di questa <lb/>
+sorte sento passione estrema perché so, et [mi]<ptr target="#tn9" n="9"/> assicuro <lb/>
+che debbo offender l’orrecchie dell’Eccellenze vostre; ma parmi <lb/>
+che ’l debito mio, et il servitio publico mi costringa a <lb/>
+scriver come faccio humilmente quello, che in questo proposito <lb/>
+sento, et stimo proprio della notitia delle loro Eccellenze illustrissime. Gratie etc. </p>
+<p>Dall’Haya a’ 22 maggio 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="084r" facs="08_084r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="084v" facs="08_084v" rend="270"/>
+<p>Al serenissimo principe di Venetia. </p>
+<p>n° 105 seguita 104 <lb/>
+mandata per Amsterdam <lb/>
+a’ 19 maggio </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="026">
+<!--
+<p n="084vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 maggio 1619 ricevute 7 giugno </p>
+<p>Haya. n°105 </p>
+<p>Manda copia in francese della <lb/>
+sentenza contra Bernvelt. </p>
+<p>Ha aviso dal Calandrini che Nicolò <lb/>
+Amel è mandato in Amsterdam per haver <lb/>
+i rolli de’ morti e faliti, per procurar <lb/>
+lascino i marinari danari per le <lb/>
+donne, et altro. </p>
+<p>Che le donne fanno strepito: <lb/>
+ricerca li rolli di mese in <lb/>
+mese. </p>
+<p>Ha scritto al Calandrini per <lb/>
+haver li conti. </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="027" corresp="026" source="82r-83v" >
+<div type="main" facs="main text of attachment I" n="027" corresp="026" >
+<!--<p>Allegato I al n. 26 (cc. 82r-83v)</p>-->
+<pb n="082r" facs="08_082r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere del secretario Surian de’ 29 mazo<ptr target="#tn10" n="10"/> 1619 </p>
+<p>Lettera dell’ambasciator di Francia alli signori Stati Generali <lb/>
+delli 13 maggio 1619 </p>
+<p>Signori </p>
+<p>io desideravo parlar a vostre Signorie nella loro assemblea per nome del <lb/>
+Re mio signore sopra il soggetto, che s’offerisce; havendo havuto <lb/>
+espressissimo commandamento da sua Maestà di continuar sino alla fine <lb/>
+li suoi officii sopra le presenti occorrenze; et per tal effetto ho <lb/>
+hoggidì prima delle cinque hore di mattina mandato a pregar <lb/>
+li signori di Braquel, et di Dort deputati della provincia di <lb/>
+Gheldria perché vi dimandassero audienza a nome mio; ma <lb/>
+essendo la loro risposta stata, che non lo potevano fare, ancor-<lb/>
+ché ella mi sia denegata, non vogl’io mancar del mio debito, et <lb/>
+all’ordine, che sua Maestà si è compiacciuta di darmi sopra questo <lb/>
+fatto. Ricorro adunque a questo foglio per dirvi, che <lb/>
+havendo questa mattina solamente alle quattr’hore inteso, che <lb/>
+li giudici nominati da voi per li prigionieri hanno in fine <lb/>
+pronontiato contro alcuni di essi; et nominatamente contra il signor di Olden Bernvelt; et parimente che a giorno è destinato <lb/>
+che soffri<ptr target="#tn11" n="11"/> il rigore del loro giudicio. Sua Maestà m’ha di longa <lb/>
+mano incaricato venendo tal caso di dirvi, che per il luoco <lb/>
+ch’ella tiene fra li vostri amici, et collegati, ella persiste <lb/>
+ad essortarvi, et invitarvi d’usar in questa parte della <lb/>
+clemenza; per il che io impiego le medesime ragioni, ch’io <lb/>
+vi ho rappresentate a nome di lei al primo di questo <lb/>
+mese, le quali conforme al desiderio vostro vi ho date <lb/>
+per scritto il giorno seguente. Ella non pretende entrar <lb/>
+più adrento nella cognitione delle cause motive di tal <lb/>
+giudicio, poiché voi non havete voluto communicarle <lb/>
+alcuna cosa; ma certamente ella stima, che se manca <lb/>
+qualche cosa alla sicurtà di questo stato, non sarà supplito <lb/>
+per il poco sangue restante ad un vecchio che per il corso
+<pb n="082v" facs="08_082v" rend="0"/>
+di natura, et senza l’aiuto di alcuna violenza non può fuggire che <lb/>
+ben tosto non le paghi il suo tributo; così per le ragioni, che vi <lb/>
+ho rappresentate, et che voi potete meglio giudicare il conseglio <lb/>
+di sua Maestà tende a risparmiar la vita a de più vecchi officiali <lb/>
+di questa Republica, alla quale meglio si conviene questo avviso <lb/>
+et si troverà essergli più salutifero, che al particolar della medesima <lb/>
+persona della quale è questione. Perché in un momento può <lb/>
+esser ispedito dalla sua miseria, che non sarà più soggetto ad <lb/>
+alcuna passione; ma li mali, che la vostra Patria può ricever <lb/>
+sono in pericolo d’haver una longa durata; perché oltre che <lb/>
+sarebbe trovato grandemente strano, che voi non haveste usata <lb/>
+della clemenza per quello, che ha consumata la vita sua nel <lb/>
+ben servirvi, io vi dirò con la franchezza conveniente a <lb/>
+ministro d’un gran Re, che se voi permettete questa rigo-<lb/>
+rosa essecutione, voi ricaricarete una<ptr target="#tn12" n="12"/> pesante angoscia <lb/>
+sopra tanti magistrati, che sono stati deposti in questa Provincia <lb/>
+perché, qual si sia dolcezza, colla quale si vogli moderar l’amarezza <lb/>
+di questa medicina, indubitatamente riputeranno di novo con <lb/>
+essa esser di nuovo travagliati nella detta persona. Con la quale <lb/>
+non solamente hanno havuto communicatione di pareri; ma anco <lb/>
+d’afflittioni, et dell’esser dismessi da loro carichi. Questo è <lb/>
+quello che sua Maestà crede, et desidera, che habbi ad esser prevenuto <lb/>
+dalla vostra prudenza; a fine che in luoco di guarir una <lb/>
+piaga ella non si convertì in cancrena. Alla quale ragione <lb/>
+che vi tocca molto, per sopr’abondante ella aggiunge <lb/>
+la sua affettuosissima intercessione; pregandovi di creder<ptr target="#tn13" n="13"/> ch’<lb/>
+ella retinirà per lunga memoria in sé stessa quello che voi <lb/>
+haverete diferito al suo consiglio. Hanno vostre Signorie diversi mezi </p>
+<pb n="083r" facs="08_083r" rend="0"/>
+<p>[di]<ptr target="#tn14" n="14"/> comutar con loro gloria, et sicurtà la pena, che si dice essergli <lb/>
+stata imposta, sia col confinarlo in una delle sue case in <lb/>
+campagna sotto la cautione di tutti li suoi prossimi, che non <lb/>
+attenterà alcuna cosa, né communicarà con chi si sia, onde voi <lb/>
+ne possiate haver gelosia; over con rilegarlo fuori di queste <lb/>
+Provincie dove voi troverete più a proposito. Sua Maestà <lb/>
+ve ne prega di nuovo, et voi così gusterete d’haver havuto<ptr target="#tn15" n="15"/> <lb/>
+riguardo all’interpositione di lei, di quello havereste di pregiu-<lb/>
+dicio, et ella di disgusto se voi l’usaste d’altra maniera. </p>
+<p>Non mi resta, che pregar Dio, che in questo affare egli vi <lb/>
+inspiri<ptr target="#tn16" n="16"/> un spirito di dolcezza, et di non rifiutar l’unica <lb/>
+prova che sua Maestà vi ha<ptr target="#tn17" n="17"/> in alcun tempo fatta. Credendo <lb/>
+se vi piace ancora, che io sono. </p>
+<p>Miei signori etc. </p>
+<p>All’Haya questo lunedì 13 di maggio 1619 a sei hore di matina </p>
+<p>Lettera del signor ambasciator di Francia ai signori di Braquel, et di Dort presidenti </p>
+<p>Signori poiché io non posso haver audienza dalli signori Stati in conformità <lb/>
+della preghiera, che ve ne ho fatta questa mattina a cinque <lb/>
+hore, io scrivo loro quella, che l’<ptr target="#tn18" n="18"/> apportatore vi darà, la quale <lb/>
+vi supplico di far che la veggano prima dell’essecutione <lb/>
+che si dice esser preparata: perché importa ad essi et a sua Maestà; <lb/>
+et a me che sono. </p>
+<p>Signori etc. </p>
+<p>All’Haya a’ 13 di maggio 1619 a’ sei hore di mattina </p>
+<pb n="083v" facs="08_083v" rend="270"/>
+<p>Letera del signor di Murier <lb/>
+alli signori Stati </p>
+<p>nel n° 104 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue lettera depennata."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue l’ depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Foro nel supporto"</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue anco depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Foro nel supporto"</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Esito di correzione; segue quel depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue g depennata."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Foro nel supporto"</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Foro nel supporto"</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Così A."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Segue la depennato."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Segue pensa depennato."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue q depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Presente nel richiamo della pagina precedente."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-o esito di correzione."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue d depennata."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue il depennato."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

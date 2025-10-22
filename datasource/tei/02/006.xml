@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.006 date 1616-07-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo, Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">006</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, 106r-110v, 113r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">104r-105v, 106r-110v, 113r-v, 90r-v, 111r-112v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The Margrave was absent when Suriano arrived in Ansbach, so he was visited by the counsellor Lencher to discuss politics. Reports in cipher that Lencher proposes that a diversion is possible if the Dutch would be willing to break the Truce. Suriano further summarises his audience with the Margrave on that same topic, mostly in cipher. According to the Margrave, the upcoming wedding in Heidelberg will be a good occasion for the princes of the union to discuss their strategy further. Ends the letter by saying that Count of Mansfelt was not present as he went to France. One text attached: a letter by Joachim Ernst of Brandenburg to Venice, written on 10 July 1616. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Ansbach</settlement>
+            <date when="1616-07-21">21 luglio 1616</date>
+            <num>034, 035, 036</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="034" corresp="035" source="104r-105v" >
+<div type="main" facs="main text of attachment I" n="034" corresp="035" >
+<!--<p>Allegato I al n. 35 (cc. 104r-105v; decodifica di cc. 106r-110v)</p>-->
+<pb n="104r" facs="02_104r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="104v" facs="02_104v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="105r" facs="02_105r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="105v" facs="02_105v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>21 luglio 1616, Haspach (cc. 106r-110v, 113r-v)</p>-->
+<pb n="106r" facs="02_106r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>era fuori il signor Marchese quando arrivai in questa città, et <lb/>
+steti doi giorni ad aspettar il suo ritorno. In questo mentre <lb/>
+mi venne a visitare, et trattenersi meco il signor Gio. Battista Lencher <lb/>
+uno de’ consiglieri, il quali<ptr target="#tn1" n="1"/> già sei anni ha per questo Prin-<lb/>
+cipe fatta residenza appresso la Serenità vostra. Discorse egli a lungo <lb/>
+meco de’ correnti negotii del mondo, et nel proposito degl’ <lb/>
+affari delle Signorie vostre eccellentissime mi disse, che già alcuni giorni <lb/>
+haveva havuti diversi ragionamenti col signor Marchese, et <lb/>
+in ristretto haveva scoperto in lui ottima inclinatione <lb/>
+verso gl’interessi della serenissima Republica et faceva consequenza <lb/>
+anco del general de’ principi uniti. <lb/>
+<hi rend="decoded">Tra</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">alcuni de’ suoi passava concetto, che <lb/>
+occorrendosi dovessero aggiunger alli ufficii <lb/>
+anco l’assistenza dell’opera, et de’ fatti stessi, ma <lb/>
+che tutto stava nel modo, et il punto batteva, che <lb/>
+proponendosi il mover l’armi in qualche ma-<lb/>
+niera per far diversione, si considerava, che era <lb/>
+un imbarcarsi, senza esser certi, se vostra Serenità <lb/>
+havesse a continuar la guerra, perché assicurati <lb/>
+che</hi>
+<pb n="106v" facs="02_106v" rend="0"/>
+<hi rend="decoded">ella fosse stata di questo senso essi tenterebbo-<lb/>
+no, che Olandesi rompessero la tregua, et così <lb/>
+si caminarebbe di concerto sino alla conclu-<lb/>
+sione del negocio, che il signor Marchese haveva <lb/>
+mostrato desiderio di questo suo pensiero, et <lb/>
+de qualche altri de’ principi capitasse alla <lb/>
+notitia della Serenità vostra, senza parere, che <lb/>
+egli ne havesse parte. <lb/>
+</hi></p>
+<p>Et esso Lencher haveva pensato <lb/>
+valersi del mezo del signor Vimes conosciuto da lui coll’eccellentissimo <lb/>
+Gussoni ma fu in dubio se si trattenesse ancora in Coyn[…] <lb/>
+né sapeva della mia residenza in Zurich, et hora si consola[va] <lb/>
+di tal opportunità. Io dissi a questo Signore, che come vostra Serenità <lb/>
+era stata necessitata, come si sapeva a prender l’armi co[sì] <lb/>
+haveva bramato sempre la quiete publica, et la propria <lb/>
+nel suo Stato; ma che non era per mancar certo alla di[fesa] <lb/>
+delle cose sue, et de’ suoi sudditi; che quanto m’havev[a] <lb/>
+significato. <lb/>
+<hi rend="decoded">Io</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">lo ricevevo per sincero testimonio dell’animo <lb/>
+ottimamente intentionato del signor Marchese in par-<lb/>
+ticolare verso la serenissima Republica ma che la cosa, <lb/>
+che si proponeva ricercava gran considera-<lb/>
+tione,</hi>
+<pb n="107r" facs="02_107r" rend="0"/>
+<hi rend="decoded">così dal canto di lei, come de’ principi, et <lb/>
+per consequenti vi voleva gran tempo alla risso-<lb/>
+lutione, disse, che era vero, et poi soggionse, che <lb/>
+il pensiero per la diversione era di metter in <lb/>
+campagna dieci, o dodeci mille fanti de’ migliori <lb/>
+et aprirsi il passo a forza della parte, che fosse parsa <lb/>
+più commoda, et contrastar apertamente ma che <lb/>
+come mi haveva detto era necessario saper, che la serenissima <lb/>
+Republica havendo tal dichiaratione da questi Stati, et assistenza dai principi havesse proseguito nella <lb/>
+guerra, perché sebene non amano essi principi</hi><ptr target="#tn4" n="4"/> <hi rend="decoded"><lb/>
+affatto la casa d’Austria, con essa però con ragione <lb/>
+di stato devono procurare in modo, che non habbi causa di <lb/>
+dolersi ma far le cose con qualche pretesto, che sarebbe <lb/>
+col dechiarirsi li principi di voler mantener la <lb/>
+libertà che pretendono havere, et di voler difender anco <lb/>
+un libero principe com’è la Serenità vostra questo tanto mi <lb/>
+fu proferito dal sudetto gentilhuomo con affetto dicendomi <lb/>
+che al sicuro il signor Marchese me ne haverebbe anco</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">tratte qua[lche] <lb/>
+moto</hi><ptr target="#tn6" n="6"/>,
+<pb n="107v" facs="02_107v" rend="0"/>
+<hi rend="decoded">ma non dichiaratose affatto per quei rispetti, che devo[no] <lb/>
+esser osservati per regola di buon governo, il che è seguito <lb/>
+come intenderà la Serenità vostra, et ben si scopre chiaro <lb/>
+che se non</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">è simile questo concetto a <lb/>
+quello del colonello Scombergand</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">dai Idemberg <lb/>
+come con le mie de’ 16 l’ho dato reverente conto non ha <lb/>
+disugualgianza</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">tale, che non possi</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">chiamarsi l’istes[so] <lb/>
+fine de interessar la Serenità vostra.</hi><hi rend="superscript">.</hi></p>
+<p>Mostrai col detto signor Lencher d’aggradir la communica[tione] <lb/>
+dissi, che haverei inteso ciò che ’l signor Principe m’havesse <lb/>
+tocco in questo proposito, et tutto haverei notificato a vostra Ser[enità.] </p>
+<p>Rivenne il signor Marchese nella città, et nell’istesso tempo, che <lb/>
+arrivò perché fuori haveva intesa la mia venuta mand[ò] <lb/>
+a salutarmi per il medesimo signor Lencher, et dirmi, che la <lb/>
+mattina mi haverebbe fatto venir a lui. Andai coll[a] <lb/>
+sua carrozza a palazzo, et mi presentai colle credentia[li,] <lb/>
+che ricevè con termine ufficiotissimo<ptr target="#tn11" n="11"/>, et qui aggiunta <lb/>
+sarà la sua risposta; et io prima di communicarg[li] <lb/>
+le cose toccanti li presenti motivi mi rallegrai della <lb/>
+sua buona salute, et del figliuolo maschio, che hebbe a’ <lb/>
+dì passati. Egli me ne ringratiò, et disse che tanto <lb/>
+più cara gli sarebbe riuscita la conservatione della
+<pb n="108r" facs="02_108r" rend="0"/>
+sua sanità quanto havesse con essa potuto impiegarsi nel giovar <lb/>
+agl’interessi delle Signorie vostre eccellentissime; et del figliolo, ch’era sicuro <lb/>
+ch’elle haveranno sentita consolatione, et loro prometteva <lb/>
+che lo haverebbe fatto alevare, et nutrire con quei documenti <lb/>
+ch’egli ancora hebbe dal padre di osservare, et servire <lb/>
+in tutte le occasioni quella serenissima Republica. Doppo havermi <lb/>
+rese anco gratie di quanto gl’havevo communicato nel <lb/>
+negotio ne discorse con affetto, et considerò che riducendosi <lb/>
+la pendenza sua alli duoi punti principali della resti-<lb/>
+tutione de’ posti, et del rimedio ad Uscochi, pareva a lui, <lb/>
+che et nell’uno, et nell’altro vostra Serenità condescendese al ragio-<lb/>
+nevole, né sapeva vedere se non che le passioni, et gl’affetti di <lb/>
+quelli, che hanno in mano le trattationi difficulti ogni <lb/>
+buon’effetto: aggiungendo può bene assicurarsi la serenissima <lb/>
+Republica che li principi dell’Unione non tralascieranno ufficio <lb/>
+per levarla da questi travagli; et io reputo mia buona <lb/>
+fortuna di dover conferirmi ad Heidelbergh per dover assister alle nozze di mio cugino il figlio maggiore dell’ <lb/>
+elettor di Brandemburg: perché haverò occasione informato <lb/>
+di discorrer col signor Principe palatino, et con altri principi, <lb/>
+che vi saranno <lb/>
+<hi rend="decoded">onde</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">uniti troveremo forse insieme qualche cosa di buono <lb/>
+</hi>
+<pb n="108v" facs="02_108v" rend="0"/>
+<hi rend="decoded">per servitio della giusta causa di sua Serenità et continuò <lb/>
+è necessario che si habbi sopra questo negotio molta consideratione <lb/>
+perché si vede che Spagnuoli non lasciano di tentar tutte <lb/>
+le strade per condursi alla monarchia; di loro non dobbiam</hi>[o] <lb/>
+<hi rend="decoded">fidarsi, et io andai rispondendo secondo, che stimai <lb/>
+a proposito per riscaldar maggiormente tal buona <lb/>
+dispositione; uscì poi a dire quanto a me stimo, che <lb/>
+non si potendo far altro il vero rimedio per servitio <lb/>
+della Republica in questi affari, et per mortificar <lb/>
+l’animo di Spagnoli fosse che li signori Stati, et Paesi Bassi <lb/>
+rompessero la tregua, che la serenissima Republica continuasse <lb/>
+la guerra, et che noi si movessimo in qualche maniera <lb/>
+con le armi, ma questo quanto alli Stati vi concorereb-<lb/>
+be qualche difficoltà perché vorrebbono intendersi bene <lb/>
+come et con qual fondamento havessero a venir <lb/>
+a tal rottura della tregua per non restar poi abbando-<lb/>
+nati, et imbarazati, et quanto</hi>
+<pb n="109r" facs="02_109r" rend="0"/>
+<hi rend="decoded">a noi non staressimo <lb/>
+a vedere, ma bisogna, che da ognuno si faccia la parte <lb/>
+sua, parlo mostrando di farlo come in passando, ma <lb/>
+con affetto tale, che col precedente aviso del Lencher <lb/>
+ben puoi scoprire, che l’intentione sua era tale, seben <lb/>
+accompagnata dalla natural inclinatione</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">di esso Prencipe <lb/>
+all’armi, né venendo ad alcun individuo mi conteni sopra generali, mostrando, che vostra Signoria bramava la quiete <lb/>
+si ma non</hi><ptr target="#tn14" n="14"/> <hi rend="decoded">temeva di diffendere la sua giusta causa <lb/>
+la quale sapendo che era conosciuta tale da tutti li buoni <lb/>
+principi. <lb/>
+</hi></p>
+<p>Si prometteva anco che per essa <lb/>
+si sarebbono adoperati di quella maniera, che havessero <lb/>
+stimata propria, et necessaria; et esso signor Marchese repigliò <lb/>
+che vostra Serenità della buona volontà dell’Unione poteva far <lb/>
+ogni real fondamento per li suoi interessi, et che non si sarebbe <lb/>
+mancato dai principi di pensar a quello che fosse stato <lb/>
+a proposito; et replicò <lb/>
+<hi rend="decoded">per</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">me non trovo cosa più propria, che quella, che già ho <lb/>
+detta non giovino gli ufficii, et a questo proposito in <lb/>
+discorrendo mostrò di stimare che una</hi>
+<pb n="109v" facs="02_109v" rend="0"/>
+<hi rend="decoded">ambasciata <lb/>
+espressa sarebbe stata più propria, che gl’ufficii di <lb/>
+parole, il che ho compreso essergli stato somministrato <lb/>
+dal medesimo Lencher, che me ne parlò. Vedendo <lb/>
+io l’affetto di questo Principe lo andai coadiuvand[o] <lb/>
+con termine però riservato, et senza mostrar ansietà <lb/>
+in conformità del commandamento della Serenità vostra. <lb/>
+</hi></p>
+<p>Et egli mi aggiunse, che a Heidelbergh ne haverebbe discor[so] <lb/>
+, et<ptr target="#tn16" n="16"/> sperava di far qualche bene. Mi replicò lo <lb/>
+stesso la sera, che fui a complir seco mentre stava per partir <lb/>
+verso il Principe palatino con risolutione di far il viaggio di notte <lb/>
+essendo nel giorno il caldo affanosissimo, et con la medesima <lb/>
+occasione non lasciò di toccarmi di nuovo <hi rend="decoded">il</hi><ptr target="#tn17" n="17"/> <hi rend="decoded">concetto del <lb/>
+muover l’armi</hi> della maniera, che la Serenità v[ostra] <lb/>
+ha inteso<ptr target="#tn18" n="18"/> che facendomi molte offerte in servitio di lei <lb/>
+e che tutto corrisposi con quel termine, che stimai più propr[io] <lb/>
+ringratiandolo dell’honorato trattamento che era stato fatto. </p>
+<p>Il conte Fedrigo di Solms cognato di questo Principe, al quale <lb/>
+baciai la mano, mi pregò di testificar alla Serenità vostra che <lb/>
+vive con desiderio grandissimo di potersi impiegar in servitio <lb/>
+di lei, et che volentieri lo manderà ad effetto, quando <lb/>
+l’occasione se gli presenti, et io l’ho ringratiato. </p>
+<pb n="110r" facs="02_110r" rend="0"/>
+<p>Non ho trovato a questa corte il conte di Mansfelt essendo già <lb/>
+alcuni giorni partito per Francia per liberar li conti d’Ardech <lb/>
+parenti di questo signor Marchese trattenuti a Lione, et già le Signorie vostre <lb/>
+eccellentissime haveranno forse havuto qualche avviso di lui dalla <lb/>
+parte di Torino: perché doveva far quella stradda. </p>
+<p>Parto in questo punto alla volta d’Ambergh per esser col signor <lb/>
+principe d’Hanault. Porterò meco le presenti per ispedirle alla Serenità vostra con la prima commodità, che ritrovi <lb/>
+per camino. Gratie etc. </p>
+<p>Di Haspach a’ 21 luglio 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="110v" facs="02_110v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="113r" facs="02_113r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="113v" facs="02_113v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="113vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 luglio 1616 ricevute 10 agosto </p>
+<p>Secretario Surian da Hanspach </p>
+<p>Il segretario Christiano di Brandeburg <lb/>
+considera, che se li signori hanno a <lb/>
+muoversi coll’opera in prova <lb/>
+della Serenissima far diversione <lb/>
+ciò era un’imbarcarsi <lb/>
+senza escusanti, che la Serenissima havesse <lb/>
+a continuar la guerra, perché <lb/>
+assicurati li signori dell’Unione di <lb/>
+quello tenterebbono, che Olan-<lb/>
+desi rompessero la tregua <lb/>
+etc. </p>
+<p>L. R. SS. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="036" corresp="035" source="90r-v, 111r-112v" >
+<div type="main" facs="main text of attachment II" n="036" corresp="035" >
+<!--<p>Allegato II al n. 35 (cc. 90r-v, 111r-112v)</p>-->
+<pb n="090r" facs="02_090r" rend="0"/>
+<head>main text of attachment II</head>
+<p><metamark facs="Letterlock with a seal and part of the address"/></p>
+<pb n="090v" facs="02_090v" rend="0"/>
+<p><metamark facs="Letterlock"/></p>
+<pb n="111r" facs="02_111r" rend="0"/>
+<p>In lettere del secretario Suriano da Hanspach de’ 21 luglio 1616. </p>
+<p>Serenissime domine, amice <lb/>
+ac frater cum primis dilecte, </p>
+<p>gratum fuit nobis iterum per Serenitatis vestrae <lb/>
+secretarium on. Christophorum Surianum <lb/>
+de negotiis ad Rempublicam suam pertinentibus. Certiores <lb/>
+nos fieri. Etsi enim iam ante adfectus <lb/>
+nostri ratio satis nobis constet, tamen suum <lb/>
+videamus serenissimae Rempublicae spem non vul-<lb/>
+garem in voluntate nostra positam ha[nc]<ptr target="#tn19" n="19"/> <lb/>
+hoc ipso magis incitamur, ut undiquaque de <lb/>
+remediis quibus constitui publica quies poni[ta]<ptr target="#tn20" n="20"/> <lb/>
+mature prospiciendum nobis putemus. <lb/>
+Cuius quidem rei occasio prope diem erit, <lb/>
+quod intra paucos dies de his et aliis negotiis
+<pb n="111v" facs="02_111v" rend="0"/>
+publicis cum amicis et confederatis nostris <lb/>
+conventus habituri simus. Deum <lb/>
+optimum maximum interim precamur, ut <lb/>
+omnia salva serenitate vestra et reipublicæ Venetæ esse velit. </p>
+<p>Dabantur Anspach 10 Julii anno 1616 </p>
+<p>Dei gratia Joachimus <lb/>
+Ernestus :archio Bran-<lb/>
+deburgensis, Dux Prussia <lb/>
+Burggravius Norimbergæ. </p>
+<p>Joachimus Ernestus marchio <lb/>
+Brandeburgensis (subscripsi) </p>
+<pb n="112r" facs="02_112r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="112v" facs="02_112v" rend="0"/>
+<p><hi rend="displaced">Ser</hi>enissimo principi ac do-<lb/>
+<hi rend="displaced">mino</hi> domino Iohanni Bem-<lb/>
+<hi rend="displaced">bo</hi> <hi rend="displaced">du</hi>ci Venetiarum et ami-<lb/>
+<hi rend="displaced">co ac</hi> fratri nostro carissimo.<ptr target="#tn21" n="21"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Tra … havesse parte" decoding of the encrypted text can be found on c. 104r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Io … Serenità vostra" decoding of the encrypted text can be found on c. 104r-v; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "Spagnoli" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "essi mille è simille" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "daiber" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "con" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "onde … buoni principi" decoding of the encrypted text can be found on cc. 104v-105v; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the deleted word.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "volev" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "per … Serenità vostra" decoding of the encrypted text can be found on c. 105v; with cross-reference sign.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "il concetto … l’armi" added above the encrypted text.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Part of the address is taken from the letterlock on f. 90</p></note>
+</div>
+</body>
+</text>
+</TEI>

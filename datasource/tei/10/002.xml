@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.002 date 1621-03-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 7r-8v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp584-592
+            </note>
+            <biblScope unit="page">7r-8v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Two Dutch ambassadors to meeting at Heilbron will travel to Kassel and plead with Hessen for unity amongst princes of the union. Disagreement between king of Denmark and Duke of Braunschweig. Has received no letters from Venice, is awaiting orders on what to do with Lormes. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-02">2 marzo 1621</date>
+            <num>003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="003">
+<div type="main" facs="main text of letter" n="003">
+<!--<p>2 marzo 1621, L’Aia (cc. 7r-8v)</p>-->
+<pb n="007r" facs="10_007r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 277 comincia 276 </p>
+<p>Serenissimo Principe </p>
+<p>uno delli doi ambasciatori destinati ai principi dell’Unione <lb/>
+partì hieri per Nimeghen sua patria. L’altro partirà <lb/>
+fra doi o tre giorni sendosi assignati di trovarsi a <lb/>
+Deventer per lunedì prossimo. Passeranno a Kessel <lb/>
+per essortar il lantgravio di Assia a star unito con <lb/>
+gl’altri principi; et con li medesimi faranno ogni tentativo <lb/>
+perché continuino con unione a mantenersi per servitio <lb/>
+delle cose di Alemagna. </p>
+<p>Fanno li medesimi principi levata di quattromilla fanti, et <lb/>
+qualche numero di cavallaria; ma poco fondamento <lb/>
+si fa della loro ferma sussistenza. </p>
+<p>Qui s’aspetta<ptr target="#tn1" n="1"/> d’intender che habbino ricevuto dall’Imperatore <lb/>
+il bando imperiale perché lo pubblichino contro il Re <lb/>
+palatino, et gl’altri adherenti; giudicandosi, che <lb/>
+non facendolo possino attender il medesimo contro di loro <lb/>
+a parte a* parte* per tentar di questa maniera una <lb/>
+formata disunione. </p>
+<p>Si crede, che la dieta d’Helbrun se non è fornita sia <lb/>
+vicina a disciogliersi, et veniva scritto, che quivi si <lb/>
+trovava il conte di Mansfelt. </p>
+<p>Il medesimo Conte (per quello sono avvisati li signori Stati) ha fatte <lb/>
+offerte grandi al Re palatino esshibendosi di far
+<pb n="007v" facs="10_007v" rend="0"/>
+seimilla fanti con sicurezza di dover haver diverse <lb/>
+contributioni nella Bohemia; ma ch’era necessario <lb/>
+per questi principii ch’egli fosse proveduto di 200 mila fio-<lb/>
+rini. Et par che habbi fatto passar qui lettere in <lb/>
+qualcheduni che per haver credito nel far le levate <lb/>
+vorrebbe, che li signori Stati si compiacessero, che si volesse <lb/>
+del loro nome, a che non si vede, che vi sia pensiero <lb/>
+di assentire. </p>
+<p>Della riduttione, che in quello di Bransuich deve farsi tra <lb/>
+Danimarca, il medesimo duca di Bransuich, conte di <lb/>
+Oldemburgh, et altri, si parla, ma non si promette <lb/>
+effetto che voglia, mentre massime il re di <lb/>
+Danimarca non si dichiara quello che vogli fare per <lb/>
+servitio dell’Alemagna. Solo si riserva a dichia-<lb/>
+rirsi mentre haverà assistenza prima di favore <lb/>
+per il possesso della coadiutoria di Brem alla quale <lb/>
+incessantemente pensa per l’uno dei figlioli, et n’ha fatta <lb/>
+far nuova instanza alli signori Stati perché s’impieghino <lb/>
+ma sue Eccellenze non ne vogliono far altro sì per <lb/>
+evitar le gelosie, che potrebbono dar alla città <lb/>
+di Brem, et ad altre confederate, come per non <lb/>
+invigorir maggiormente le forze di quel Principe
+<pb n="008r" facs="10_008r" rend="0"/>
+che quando fosse anco col piedi di auttorità in Brem, <lb/>
+oltre il passo del Zont<ptr target="#tn2" n="2"/> nel mar Baltico, et<ptr target="#tn3" n="3"/> quello <lb/>
+che ha nella riviera dell’Helba, n’haverebbe anco <lb/>
+un altro in quella dell’Isel; cosa che per molti <lb/>
+rispetti non tornerebbe a conto né per queste <lb/>
+Provincie, et meno per alcune<ptr target="#tn4" n="4"/> delle città ansiatiche <lb/>
+pur troppo guardate con mal occhio da quel Re. </p>
+<p>Li doi ambasciatori del re d’Inghilterra che arrivorono qui la <lb/>
+passata settimana di Alemagna partirono venerdì <lb/>
+alla volta di quell’isola et perché a nome publico <lb/>
+furono visitati, et honorati con ogni possibil ma-<lb/>
+niera, ancorché non havessero lettere di credenza <lb/>
+stimorono non poter lasciar di far ufficio di complimento <lb/>
+nella publica assemblea; colla quale occasione come <lb/>
+in privato così in publico fu fato ufficio con essi <lb/>
+perché con affetto raccommandassero al Re gl’affari di <lb/>
+Alemagna, et gl’interessi di queste Provincie. Né <lb/>
+volsero partir senza venir ad honorar anco questa <lb/>
+casa della Serenità vostra. </p>
+<p>Poche hore sono, c’ho ricevuto il dispaccio ordinario; ma <lb/>
+senza lettere di lei, le quali aspettano con desiderio per saper <lb/>
+la sua intentione per il visconte di Lormes, ch’ancor è qui. Gratie etc. </p>
+<p>Dall’Haya li 2 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="008v" facs="10_008v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>seconda </p>
+<p>n° 277 comincia 276<ptr target="#tn5" n="5"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="003">
+<!--
+<p n="008vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 marzo 1621 ricevute a’ 24 detto </p>
+<p>Haya. n° 277 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "quella" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

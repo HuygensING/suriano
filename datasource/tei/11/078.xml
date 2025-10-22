@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.078 date 1622-12-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">078</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 411r-416v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">411r-416v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letter covers the latest news including that the Army of Cordova in near the Ruhr, the Lower Saxony Circle will meet to discuss the threat of both Spanish army and Mansfeld and that Duke of Saxony is not going to Regensburg. Eagerly awaiting news about Vere’s reception in England. The Spanish have launced a failed attempt near Sas van Ghent. Questions whether the Portugese ship loaded with sugar in Zeeland can be considered as war loot. Charles of Baden offers his services to the Venetian Republic and Hornech has requested Maurice’s approval to leave for Venice. Du Maurier has arrived with his new and already pregnant wife in The Hague. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-12-19">19 dicembre 1622</date>
+            <num>115</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="115">
+<div type="main" facs="main text of letter" n="115">
+<!--<p>19 dicembre 1622, L’Aia (cc. 411r-416v)</p>-->
+<pb n="411r" facs="11_411r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 451 comincia 450 </p>
+<p>Serenissimo Principe </p>
+<p>oltre le armi di don Gonzales di Cordova, che si trovano <lb/>
+sopra il fiume della Roera, si trattengono tuttavia <lb/>
+all’intorno non molte leghe distanti altre truppe <lb/>
+de’ Spagnoli, osservando gl’andamenti di Mansfelt. </p>
+<p>Con lettere di Brusseles sono avvisato, che in quella <lb/>
+corte si fa correr voce, che non doverà ardire Mansfelt <lb/>
+uscir dal contado di Brem con pensiero di ritirarsi <lb/>
+in qualche parte della Bassa Sassonia, perché se gli <lb/>
+getterà appresso il detto Cordova. Publicationi, che <lb/>
+possono altro fine per ingelosir quella parte confusa <lb/>
+in sé stessa parte dagl’interessi, parte dal timore. </p>
+<p>L’armi di Mansfelt, et li rumori de’ Spagnuoli, aggiunti <lb/>
+li fomenti, che dano al giovane duca di Holsteim <lb/>
+nipote del vescovo di Brem designato in petto di lui <lb/>
+per suo coadiutore, ma forzato da Danimarca a <lb/>
+dichiararne il figliolo<ptr target="#tn1" n="1"/> di quella Maestà, ha dato <lb/>
+materia della convocatione della Dieta che si deve <lb/>
+domenica prossima (che saranno li 15 a stil vecchio) <lb/>
+in quel circolo. Stimando proprio il trattar la <lb/>
+sicurezza di ognuno per sé stesso tanto contra <lb/>
+Mansfelt, et Bransvich, se havessero animo di intro-<lb/>
+dursi in quella parte, quanto per rispetto de’ Spagnoli <lb/>
+non desiderando la carità per guardar, et difenderli
+<pb n="411v" facs="11_411v" rend="0"/>
+il Paese. A Danimarca<ptr target="#tn2" n="2"/> in particolare preme grandemente <lb/>
+per il suo rispetto, sapendosi, che ’l vescovo di Brem <lb/>
+haveva da alcune sue case<ptr target="#tn3" n="3"/> di campagna <lb/>
+levate le cose più pretiose, et si fosse retirato con <lb/>
+fine di dar piazza al sudetto suo nipote a fine che <lb/>
+potesse quivi svernar le sue genti, al che pensava <lb/>
+di voler ostare col mezo dei vicini. Può esser <lb/>
+che qualche altro interesse commune, et di servitio <lb/>
+publico chiami alla convocatione li principi di <lb/>
+quel circolo sassone basso; ma questi che ho detto <lb/>
+si sono per hora solamente scoperti. È stato consi-<lb/>
+gliato Mansfelt ad inviar verso loro, et a quella <lb/>
+Dieta a fine di assicurarli della buona intentione, <lb/>
+et che concorrerà con li loro interessi al publico <lb/>
+bene della Germania. Con curiosità si attenderà <lb/>
+il seguito della detta ridutione. </p>
+<p>Si sente gusto grande della sicurezza; che tutte le <lb/>
+lettere portano, che ’l duca di Sassonia elettore <lb/>
+non habbi a comparer alla dieta di Ratisbona <lb/>
+sperando che ’l disgusto che ne riceverà Cesare, et <lb/>
+quello ch’esso Duca ha ricercato dalla Maestà sua <lb/>
+per l’essecutione seguite contra quelli della religione <lb/>
+tanto martinisti, che altri possi servire grandemente
+<pb n="412r" facs="11_412r" rend="0"/>
+agl’effetti di quelle speranze, che<ptr target="#tn4" n="4"/> in simil accidente, <lb/>
+et in tali congiunture si nutriscono gl’interessati, et <lb/>
+questi principi in particolare; et molti di questo Governo <lb/>
+massime con qualche avviso, che si ha, che ’l re di <lb/>
+Danimarca soleciti con ogni buon termine, et prudente <lb/>
+ufficio l’animo del duca di Sassonia per attirarlo <lb/>
+a far qualche cosa di buono; presuponendosi ne presenti <lb/>
+tempi, che detto elettore sia il solo che nella Germania <lb/>
+può se vuole esser arbitre delli affari, et moderatore <lb/>
+al corso della grandezza di casa d’Austria. </p>
+<p>Per l’Inghilterra vanno sempre più mancando le speranze <lb/>
+sentendo, che ogni dì quel principe è subornato da <lb/>
+spetiose promesse, et da parole artificiose; et non <lb/>
+ostante, che ’l signor ambasciator Carleton (se ben alla verità <lb/>
+un poco ritenutamente) dice, che ’l suo Re a fino <lb/>
+prescritto il giorno alla risolutione del re di <lb/>
+Spagna per haver la restitutione et del Palatinato, et <lb/>
+dell’elettorato. Questo re di Bohemia non sa più <lb/>
+promettersi di quello che vede; et con ansia attende <lb/>
+quello che dagl’ufficii commessi i Francia haverà <lb/>
+ritratto di frutto il gentilhuomo che vi mandò espresso. </p>
+<p>Si conferma con più mani di lettere, che Spagnoli <lb/>
+siano all’intorno di Franchendal, et sono li assediati
+<pb n="412v" facs="11_412v" rend="0"/>
+persuasi a pigliar più tosto la guarnigione Spagnola<ptr target="#tn5" n="5"/> che <lb/>
+la Bavarese in conformità di che qui si hanno anco <lb/>
+avvisi d’Inghilterra che di questo tuono si vadino intronando <lb/>
+le orrecchie di quella Maestà colla facilità, che haverebbe <lb/>
+di ritirar<ptr target="#tn6" n="6"/> detta piazza dalle mano dei Spagnuoli. </p>
+<p>Corre qui una voce, che ’l re di Spagna non camini con <lb/>
+quel piede, che avanti faceva per l’elettorato nel duca <lb/>
+di Baviera, temendo che con questo, et con le parti <lb/>
+così buone, che ha dell’Alto, et Basso Palatinato non si <lb/>
+rendi quieto, et aquieti colla forza il resto de’ principi <lb/>
+alla sua devotione per muover nuovi humori in <lb/>
+Alemagna in pregiudicio del bene hereditario <lb/>
+di casa d’Austria. </p>
+<p>Il general Veer era arrivato a Brem. Doveva imbarcarsi <lb/>
+et sendo stato il vento proprio, hora deve esser in Inghilterra <lb/>
+et la curiosità qui in tutti è molto grande di sentire <lb/>
+in qual maniera il Re lo haverà trattato, et se <lb/>
+la colerà contra di lui eccitata da’ Spagnoli haverà <lb/>
+havuta maggior forza, che quella che le attioni <lb/>
+delli medesimi Spagnoli ha più volte alterato l’animo <lb/>
+di quella Maestà, et poi aquetatolo. </p>
+<p>Spagnuoli hanno voluto farsi in questi ultimi giorni <lb/>
+et fu hieri, un poco valere havendo con stratagema
+<pb n="413r" facs="11_413r" rend="0"/>
+fatta presa d’una nave, et d’un forte. Da ottanta soldati <lb/>
+si sono posti in quattro o cinque barche coperte <lb/>
+et quello, che conduceva l’impresa ha inviato avanti <lb/>
+a far intender alla detta nave, et al forte che<ptr target="#tn7" n="7"/> <lb/>
+dovevano passar alcune barche con pomi, et altri <lb/>
+frutti, et che desideravano esser quanto più presto <lb/>
+spediti per non perder la marea<ptr target="#tn8" n="8"/>, et per esser robba facile <lb/>
+a guastarsi, et che questo si faceva a fine tanto <lb/>
+più presto fosse fatta la visita. La nave non haveva <lb/>
+che dodici marinari sendo ordinaria a quella <lb/>
+bocca in Fiandra vicino al luoco, che chiamano <lb/>
+il Sasso, et serviva per evitar li contrabandi tanto <lb/>
+per rispetto della serenissima Infanta, che per quello <lb/>
+dei signori Stati sendo in tal caso come neutrale, et in <lb/>
+tutti i tempi havendo servito per tale. L’altre genti <lb/>
+sendo domenica erano uscite dalla detta nave <lb/>
+per andar parte alla predica, et parte a spasso. <lb/>
+Le barche accostandosi, come furono vicino <lb/>
+in manco di tiro di moschetto gettate le coperte <lb/>
+in un tempo istesso uscirono li soldati, et si <lb/>
+fecero campo coi tiri di moschetto di poter <lb/>
+più approssimarsi, et guadagnar la nave, che <lb/>
+hanno poi condotta al detto luoco del Sasso, havendo
+<pb n="413v" facs="11_413v" rend="0"/>
+però prima smontati in terra fattisi patroni del forte <lb/>
+chiamato, solito a tener per guardia quindeci soldati, <lb/>
+et allhora non ve n’erano che sette et il luoco non <lb/>
+serviva, che per habitatione delli commissarii per la visita <lb/>
+dei vasselli di mercantie, et per la sicurezza a quella <lb/>
+bocca ma se non erano presti li soldati ch’erano <lb/>
+in terra venivano colti da alcuni di Zelanda che <lb/>
+con felucche armati corsero a quella volta, et la <lb/>
+sola marea contraria causò<ptr target="#tn9" n="9"/> che gl’inimici havessero <lb/>
+tanto di tempo di poter alla loro vista gettarsi <lb/>
+confusamente nelle barche, et fuggire. Sano bene li signori <lb/>
+Stati che di questa non intrapresa, ma represaglia <lb/>
+(così la chiamano) faranno Spagnoli gloriosa pompa, <lb/>
+ma sperano di qua haverne miglior vendetta. </p>
+<p>Questa nave portughese carica di 400 casse di zuccari non <lb/>
+puote esser assolutamente presa dal vassello di guerra di <lb/>
+questi signori perché diede in spiaggia nell’<ptr target="#tn10" n="10"/>altezza <lb/>
+dell’Esclusa, et si ruppe, et abbissò. Si presero de-<lb/>
+gl’huomini, et quello in particolare ch’era stato sindico <lb/>
+in Angola, il quale è pur prigione in Midelburgh <lb/>
+nega di poter pagar il ranzone che se gli vorrebbe <lb/>
+adossare di 50 mila fiorini. Dice non esser come portughese <lb/>
+nemico di queste Provincie, et che li soli Spagnoli
+<pb n="414r" facs="11_414r" rend="0"/>
+et Castigliani devono esser chiamati; ch’egli deve andar <lb/>
+a dar la sua relatione del ministerio impostogli, et <lb/>
+parla alto protestando per tutti i danni, et interessi <lb/>
+che l’absenza di lui potesse portar al re di Spagna <lb/>
+suo signore. Ma quanto siano per giovarli questi concetti <lb/>
+la prudenza della Serenità vostra se lo può imaginare massime <lb/>
+con Zelandesi inimici mortali al Re catholico. </p>
+<p>Continua qui il marchese Carlo di Bada, et non cessa di <lb/>
+mostrar verso di me affetto riverente, et devoto <lb/>
+al servitio della Serenità vostra, alla quale m’ha pregato <lb/>
+di raccommandarlo, supplicandola ad haverlo in <lb/>
+gratia sua, dicendomi, che sperava di poter un <lb/>
+giorno gloriarsi di esser servitor effettivo, et stipen-<lb/>
+diato di quella serenissima Republica. Ho cavato dal suo <lb/>
+parlare, che si promette qualche pensione da lei; ma <lb/>
+io in termini generali ho laudata la sua buona <lb/>
+volontà, et assicuratolo, che la Serenità vostra farà sempre <lb/>
+stima di lui, et aggradirà la sua devotione. </p>
+<p>Il capitan Hornech chiesta licenza al signor principe Mauritio <lb/>
+di tornar a’ piedi della Serenità vostra il che io ancora ho <lb/>
+coadiuvato l’ha ottenuta: aspetta un passaporto <lb/>
+da Brusseles, et subito arrivato si metterà in <lb/>
+camino per venirsene in diligenza. Concorrono
+<pb n="414v" facs="11_414v" rend="0"/>
+in lui parti, et qualità di buon soldato, et merita molto <lb/>
+più che ’l solo titolo di capitano. Questo sarà conosciuto <lb/>
+dalla prudenza delle Signorie vostre eccellentissime. </p>
+<p>Si trova di ritorno in quest’Haya il signor di Murier <lb/>
+ambasciator Francese colla novella sposa, che ha presa per <lb/>
+governo di nove figlioli, et già si è scoperta gravida <lb/>
+per far la decina intera. L’ho visitato più d’una volta <lb/>
+et egli s’è compiacciuto di vedermi in questa casa <lb/>
+di vostra Serenità. Nei congressi m’ha sempre affermato <lb/>
+il Re esser dispostissimo alla ricuperatione della <lb/>
+Valtelina, et<ptr target="#tn11" n="11"/> del Paese, et libertà antica ai <lb/>
+signori Grisoni. Et qui corre già la voce dell’abbocca-<lb/>
+mento in Avignone del signor duca di Savoia con <lb/>
+sua Maestà christianissima; ma si sta con gran curiosità <lb/>
+attendendo ciò che da esso sarà seguito. </p>
+<p>Ho havuto il mio pacchetto ordinario partito di costì a’ 25 <lb/>
+del passato, ma non appar che vi fossero lettere <lb/>
+della Serenità vostra. Et con questa ella haverà la replicata <lb/>
+dell’ultimo dispaccio in doi lettere n° 448 fin 449. Gratie etc. </p>
+<p>Dall’Haya li 19 decembre 1622 </p>
+<p>di vostra Serenità<ptr target="#tn12" n="12"/> </p>
+<p>humilissimo e devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<p>In questo punto capita avviso di Zelanda che li vasselli inglesi, et holandesi nell’Indie <lb/>
+Orientali habbino presi nove vasselli de’ <lb/>
+Spagnoli l’avviso è venuto con un <lb/>
+vassello capitato in tredici giorni da <lb/>
+Lisbona </p>
+<pb n="415r" facs="11_415r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="415v" facs="11_415v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="416r" facs="11_416r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="416v" facs="11_416v" rend="180"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 451 comincia 450 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="115">
+<!--
+<p n="416vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 decembre 1622 ricevute a’ 5 gennaro </p>
+<p>Haia 2<hi rend="superscript">da</hi> n° 451 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "dell-" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "levat-" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-la" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "sono" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o" corrected above "-a", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

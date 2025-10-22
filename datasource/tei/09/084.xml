@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.084 date 1621-01-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">084</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 425r-428v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp522-533
+            </note>
+            <biblScope unit="page">425r-428v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letter 31 December, reiterates that the four Dutch ambassadors to France will plead on behalf of the Grisons, but continued doubts about how the French king will be received. Buchorst has visited Suriano about his mission. It is crucial for the Republic to receive French support as English support is feeble. the ambassadors for England have left and hopes that they will send 15,000 to 20,000 troops to Southern Netherlands. Vosbergen will be sent to Denmark to plead for assistance in HRE. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-01-19">19 gennaio 1621</date>
+            <num>130</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="130">
+<div type="main" facs="main text of letter" n="130">
+<!--<p>19 gennaio 1621, L’Aia (cc. 425r-428v)</p>-->
+<pb n="425r" facs="09_425r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 265 fin 266 </p>
+<p>Serenissimo Principe </p>
+<p>nel volermi metter a scriver alla Serenità vostra m’arrivò il <lb/>
+dispaccio ordinario d’Anversa colle lettere di lei de’ 31 del passato <lb/>
+colla commissione di rappresentar alli signori Stati ciò ch’ella haveva <lb/>
+ricevuto di Francia toccante l’affare de’ Grisoni, et gl’ordini <lb/>
+che haveva riespediti agl’eccellentissimi signori ambasciatori a quella corte, il che <lb/>
+tutto communicarò a questi signori nella loro assemblea, et non <lb/>
+mancarò anco di far quel riflesso et considerationi ne’ particolari <lb/>
+congressi, che veggo esser mente di quell’eccellentissimo Senato. </p>
+<p>Mi sono confermato anco maggiormente della commissione che li quattro <lb/>
+ambasciatori destinati per Francia haveranno di far ufficio per il <lb/>
+detto affar de’ Grisoni con sua Maestà christianissima; ma sono stato <lb/>
+avvertito, che sendo tuttavia con l’animo sospeso se l’ambasciata <lb/>
+habbi a riuscir grata a quella Maestà, et al suo Consiglio <lb/>
+haveranno a regolarsi sul luoco; et principalmente hanno ordine <lb/>
+di appigliarsi all’avviso delli eccellentissimi signori ambasciatori. Con essi <lb/>
+doveranno communicare, et parlar poi in corte, et al Re <lb/>
+quando si comprendi, che possino gl’ufficii loro apportar <lb/>
+profitto al negotio. Fui a visita ultimamente del signor <lb/>
+Bucorst, che sarà capo dell’ambasciata il qual mi communicò <lb/>
+anc’egli questa commissione, et m’aggiunse, che visitato <lb/>
+il Re, la Regina, madama, et il fratello di sua Maestà <lb/>
+tenevano ordine d’andar a visitar anco gl’ambasciatori di vostra Serenità <lb/>
+per parlar di questo affare; et nel resto di passar <lb/>
+coll’Eccellenze loro una stretta confidenza. Al qual proposito <lb/>
+il Presidente dell’assemblea, che vidi pur per termine
+<pb n="425v" facs="09_425v" rend="0"/>
+di complimento mi disse, che haverei fatto bene scriver alla Serenità vostra <lb/>
+che si compiacesse dar ordine alli medesimi signori ambasciatori suoi, che <lb/>
+colla medesima confidenza trattassero con li loro, et nel negotio <lb/>
+de’ Grisoni li avvertissero ad operar conforme a quello che <lb/>
+havessero stimato più a proposito. Dal parlar di questo <lb/>
+et da discorsi anco d’altri ho compreso molto bene, che <lb/>
+a questi signori riuscirà di sommo contento, che li eccellentissimi signori <lb/>
+ambasciatori della Serenità vostra coadiuvino in quella miglior maniera <lb/>
+che stimeranno propria la buona riuscita dell’ambasciata <lb/>
+di queste Provincie, et potendo, divertir l’ombre, et <lb/>
+qualche mala impressione alterata da ufficii appassionati. <lb/>
+A dir la verità queste Provincie hanno bisogno <lb/>
+d’esser sostentate dalla Francia, et il sostenimento dell’<lb/>
+Inghilterra non può riuscir, che languido alla manutentione <lb/>
+di questa libertà quando l’altro macasse<ptr target="#tn1" n="1"/>. Non ho <lb/>
+havuta formal preghiera; ma m’è stato parlato in <lb/>
+modo, che ho scoperto il desiderio, che si ha da questa <lb/>
+parte di un tal ufficio. Io ho stimato a proposito <lb/>
+communicar riverentemente il tutto all’eccellentissimo signor ambasciator Prioli, <lb/>
+stimando che l’eccellentissimo Contarini possi essere incaminato p[er] <lb/>
+la Patria, et quell’Eccellenza si regolerà conforme a ciò <lb/>
+che stimerà poter conformarsi colla mente della Serenità vostra <lb/>
+si per l’aleanza contratta, come per lo stato di queste <lb/>
+Provincie, et particolarmente nella presente congiuntura dello <lb/>
+spirar delle tregue per non lasciarli in preda per
+<pb n="426r" facs="09_426r" rend="0"/>
+mancamento d’aiuti proprii, et di buon animo dalla parte <lb/>
+della Francia; et che siano animati più tosto a non si <lb/>
+lasciar condur all’incanto d’una pregiudicial prorogatione <lb/>
+di tregua. Sono in ordine li sudetti quattro ambasciatori <lb/>
+per partire, ne aspettano, che il buon vento. </p>
+<p>Quelli per Inghilterra hoggi sono stati a prender licenza, et dir <lb/>
+a Dio alli signori ambasciatori di Francia, et d’Inghilterra, et hanno <lb/>
+anco voluto honorar questa casa della Serenità vostra venendo <lb/>
+a far il medesimo ufficio meco, versando<ptr target="#tn2" n="2"/> oltre <lb/>
+il semplice complimento in assicurarmi, che tutto quello, <lb/>
+che vedranno non mancaranno del farlo, et di honorar <lb/>
+la persona dell’eccellentissimo signor ambasciator Lando. Io li ho con <lb/>
+ogni debito termine ringratiati di questo testimonio <lb/>
+d’honore, che renderano alla Serenità vostra augurandoli felice <lb/>
+il viaggio, et più felice successo ne’ suoi affari. </p>
+<p>Partiranno appresso dimani per Zelanda, et quivi piglieranno <lb/>
+il primo vento a’ fine di trovarsi quanto più presto <lb/>
+a Londra per animar nella presente congiuntura, et <lb/>
+mentre sentono il Re più risoluto, che per lo innanti <lb/>
+dar cuore a quella Maestà di far da dovero, far cose <lb/>
+degne del suo nome, et della sua grandezza a’ fine <lb/>
+di dar contrapeso alla vastezza de’ pensieri dello <lb/>
+Spagnuolo; et dar freno al corso, con che senza intoppo <lb/>
+si vede lo Spinola andar innanti nell’Alemagna. </p>
+<pb n="426v" facs="09_426v" rend="0"/>
+<p>Nel congresso con questi signori ho cavato tanto dal loro discorso <lb/>
+in parlando della persona del re della Gran Bretagna, <lb/>
+che<ptr target="#tn3" n="3"/> posso<ptr target="#tn4" n="4"/> dire così<ptr target="#tn5" n="5"/> assicurar la Serenità vostra che habbino <lb/>
+in commissione di eccitar la Maestà sua a devenir a risolu-<lb/>
+tione di far diversione con gettarsi nella Fiandra con <lb/>
+un corpo di quindeci, o vinti milla fanti, perché <lb/>
+soggiungendo io qualche cosa a questo proposito per <lb/>
+tirare mi dissero Noi faremo il nostro meglio, né <lb/>
+mancaremo d’ogni buon ufficio: l’Alemagna soggiunsero <lb/>
+ha bisogno di questo per tirarvi di là lo Spinola, che <lb/>
+se vi si ferma<ptr target="#tn6" n="6"/>, quando non vi sia più di quell’assistenza, <lb/>
+ch’è stata l’anno passato farà quanto progresso saprà <lb/>
+desiderare. Piaccia a Dio, che questi ufficii habbino <lb/>
+polso, et faccino buone impressione per il servitio che <lb/>
+si potrebbe prometter non tanto per l’Alemagna, quanto <lb/>
+per l’Italia ancora. </p>
+<p>Le patenti per dar augumento alla compagnie sono state <lb/>
+distribuite, et inviate nelle Provincie, et subito havuto <lb/>
+il denaro si darà principio; resta ancor la congre-<lb/>
+gatione di Holanda ragunata per trovar mezo il <lb/>
+più quieto, et men noioso che sarà possibile per far <lb/>
+quasi insensibilmente pagar ai popoli una nuova con-<lb/>
+tributione per il matenimento di questa augumentatione. <lb/>
+Nuova imposta bisogna che sia trovata, il mezo, et il <lb/>
+come è in consulto, ma doveranno questa settimana risolver. </p>
+<pb n="427r" facs="09_427r" rend="0"/>
+<p>Hieri il Presidente di settimana propose all’assemblea li <lb/>
+doi nominati dal signor principe d’Oranges per trovarsi alla <lb/>
+dieta di Helbrun, et doverano esser confermati, il che <lb/>
+s’è rimesso ad altra riduttione; et perché il tempo stringe <lb/>
+non potranno anco questi tardar a partire per quella <lb/>
+volta. Uno d’essi voleva iscusarsi; ma per non far torto <lb/>
+all’Eccellenza sua par che s’accomandi al gusto di lei, et è quello <lb/>
+che già è stato in Alemagna l’anno passato. </p>
+<p>Sono venuti avvisi, che ’l marchese Spinola habbi rilasciato <lb/>
+di nuovo libero Frideburgh con haverne tirata qualche <lb/>
+contributione. </p>
+<p>Anco nel paese d’Hanault della signora Contessa sorella del signor prin-<lb/>
+cipe Mauritio pareva, che ’l medesimo Marchese havesse fatta <lb/>
+dimanda di cento milla raistaleri; et si dubita, che accor-<lb/>
+derà in poco meno. </p>
+<p>Così va di piazza in piazza ranzonando per il mancamento <lb/>
+che ha di pane di munitione di paglie, fieni, et biade per <lb/>
+la cavallaria, et di altre necessità massime nella presente sta-<lb/>
+gione del verno. Come si sia tiene in timore quei circonvicini <lb/>
+et si dubita di peggio. </p>
+<p>Ho inteso, che nella Bassa Sassonia veniva aspettata persona <lb/>
+espressa, che doveva esservi mandata dall’Imperatore per <lb/>
+tentar di tirar assolutamente dalla sua quei principi <lb/>
+et alcune delle città ansiatiche. Il dubio è qui <lb/>
+che mentre par che si conservino neutrali, possino
+<pb n="427v" facs="09_427v" rend="0"/>
+qualchedune di<ptr target="#tn7" n="7"/> loro esser guadagnate dagl’artificii spagnuoli. <lb/>
+Questi signori non mancaranno di avvertimenti né di essortationi <lb/>
+perché si guardino dalle insidie, et habbino a cuore la <lb/>
+propria, et la commune libertà. </p>
+<p>Sono alquanti giorni, che manca in questa corte il signor Vosberghen <lb/>
+consigliero di questo alto Consiglio, et favorito di sua Eccellenza. <lb/>
+Mi è stato affermato, che il signor principe Mauritio, fosse <lb/>
+coll’<ptr target="#tn8" n="8"/>assenso dei signori Stati, et per manco strepito lo habbi <lb/>
+ispedito al re di Danimarca; et si crede con commissione <lb/>
+di praticar l’animo di quella Maestà, et con divertirlo <lb/>
+dal dar sospetti in quella parte alle città maritime, in-<lb/>
+durlo a soccorrer, et assister all’Alemagna; et di più <lb/>
+che sia per farli apertura di unirsi in lega con queste <lb/>
+Provincie. Procurerò di haverne miglior rincontro <lb/>
+et più sicurezza della comissione, che ha havuta questo <lb/>
+soggetto vivo, et spiritoso assai. Pensano, si vede molto, <lb/>
+bene, questi signori a tutto quello, che possono scoprire doner[…] <lb/>
+riuscir di profitto, et servitio nelle presenti congionture, <lb/>
+et emergenti del mondo. </p>
+<p>Il colonello Lambert Charles, che fu deputato dal signor principe <lb/>
+Mauritio alla construttione del forte presso Colonia <lb/>
+è qui. Egli è venuto per haver nuovi ordini di quello <lb/>
+doverà far di vantaggio; perché volendosi mantener <lb/>
+la guerra da quella parte non sarà possibile, chi non <lb/>
+lo mette in maggior difesa. Era di quattro baluardi
+<pb n="428r" facs="09_428r" rend="0"/>
+al presente è di sei, et può tener mille huomini dentro <lb/>
+per la difesa. Gratie etc. </p>
+<p>Dall’Haya li 19 genaro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="428v" facs="09_428v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 265 fin 266 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="130">
+<!--
+<p n="428vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 gennaro 1620<ptr target="#tn9" n="9"/>. Ricevute x febraro n° 265 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "il buon ufficio" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "questi" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "posso" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "essere" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

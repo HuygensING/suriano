@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.014 date 1617-11-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 77r-80v, 83r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">78r-80v, 83r-v, 81r-82v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Upon his return to the Hague, Suriano reports that on 31 October he sent an express courier via Cologne to Venice to inform the Venetian state that the eleven ships carrying Levenstein and his men had set sail from Groningen. Due to the favourable winds, he surmises they will arrive in Corfu at the end of the month. He explains that due to his return to The Hague, he missed the special courier sent by Venice to inform him of peace treaty between the Republic and Habsburgs. He regrets that the news of peace deal did not reach him before the ships with troops had set sail. He speculates that many of the officers and especially Levenstein will be dissappointed to arrive and hear a peace has been concluded. At the end of the letter he clarifies he is negotiation terms with bankers Quingetti and Vandenberg. One document attached: an act signed by the merchant Alessandro Vanden Berge</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-06">6 novembre 1617</date>
+            <num>025, 026</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="025">
+<div type="main" facs="main text of letter" n="025">
+<!--<p>6 novembre 1617, L’Aia (cc. 78r-80v, 83r-v)</p>-->
+<pb n="078r" facs="05_078r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>mi partii di Grunighen il giorno seguente all’ispeditione <lb/>
+delle mie ultime lettere, che furono de’ 30 del passato <lb/>
+ispedito alla volta di Colonia per messaggiero<ptr target="#tn1" n="1"/> espresso <lb/>
+con l’avviso della partenza del conte di Levenstein <lb/>
+con le sue genti dentro ad undici navi. La notte <lb/>
+di giovedì passato arrivai in questo luoco della <lb/>
+mia residenza, ove intesi esser venuto la mattina <lb/>
+dello stesso giorno messer Gioseppe Tirabosco corriero <lb/>
+di vostra Serenità, che non mi havendo trovato, né sapen-<lb/>
+dosi il certo quando dovevo esser qui prese <lb/>
+ispediente di venirmi incontro; ma facendo <lb/>
+egli la stradda per la via di terra, et io <lb/>
+presa quella dell’acqua nell’Ovrisel<ptr target="#tn2" n="2"/>, <lb/>
+havendo il vento favorevole mi fallì nel <lb/>
+viaggio; ma havuta lingua nel camino, ch’io <lb/>
+ero passato, tornò a dietro, et arrivò venerdì <lb/>
+notte. Haveva fatto il viaggio in meno <lb/>
+di nove giorni, il che però manco haverebbe <lb/>
+servito all’intentione et desiderio di vostra Serenità
+<pb n="078v" facs="05_078v" rend="0"/>
+et per il quale s’è messa a farne l’ispeditione, poiché <lb/>
+come ella prima dell’arrivo delle presenti haverà <lb/>
+inteso, il Conte era partito quattro giorni innanti, <lb/>
+et havendo havuto sempre, come continua tuttavia <lb/>
+il vento favorevole, bisognava, che allhora fosse <lb/>
+passato l’Inghilterra. Et per me stimo, che alla fine <lb/>
+di questo mese sarà certo a Corfù. Le lettere di <lb/>
+vostra Serenità delli 19 che ricevei avanti quelle coll’<lb/>
+estraordinario mi commandavano il solecitar la sua <lb/>
+partenza; ma già anco con quelle era ispedito. <lb/>
+Ho fatto saper al conte Gio. Casimiro, che si trova <lb/>
+in Amsterdam, che suspendi il viaggio delli trecento <lb/>
+fanti, et altri, che il Conte suo fratello haveva lasciato <lb/>
+ordine, che lo seguitassero, et credo che lo farà <lb/>
+havendomi fatto instanza con sue lettere di saper <lb/>
+s’era vera la voce della pace, che si pubblicava <lb/>
+in Amsterdam, per poter come dice nelle lettere<ptr target="#tn3" n="3"/> <lb/>
+metter ordine alli affari del fratello per il resto de’ <lb/>
+vasselli, et altre cose. Mi duole infinitamente, che
+<pb n="079r" facs="05_079r" rend="0"/>
+le lettere non siano capitate in tempo di prevenir la <lb/>
+partita delle navi; ma come Dio ha cura delli inte-<lb/>
+ressi della serenissima Republica forse ha voluto così: perché li <lb/>
+suoi nemici pensino bene a non haverla questa <lb/>
+volta ad ingannare: mentre vedranno, ch’ella <lb/>
+haverà prontezza, essendo mancato all’accordato, <lb/>
+di star sulla sua sicurezza, et riputatione. </p>
+<p>So, che ’l signor Conte haverebbe sentito notabilissimo discontento <lb/>
+che fosse sospesa la sua andata, perché d’altro <lb/>
+non dubitava, et perché cessando questa occasione <lb/>
+della guerra si trova molto interessato, ma <lb/>
+molto più ancora intricato, et egli stesso ha <lb/>
+detto a qualcheduno che me lo ha ultimamente <lb/>
+riferto, che, venendo il caso della pace se vostra Serenità <lb/>
+non assisteva al suo intartenimento in qualche <lb/>
+maniera restava un povero cavalliere. <lb/>
+Haveva una volontà più che ordinaria <lb/>
+di acquistar un gran nome, et una gran <lb/>
+riputatione colla condotta delle sue genti, et col
+<pb n="079v" facs="05_079v" rend="0"/>
+servitio, che si prometteva prestar con esse. Tutti li capitani <lb/>
+havevano il medesimo fine; ma credo, che ognuno di <lb/>
+loro resterà sconsolato, quando all’arrivo nel serenissimo <lb/>
+Dominio intenderanno l’avviso della pace. Et sia <lb/>
+la Serenità vostra certa, che ognuno per la parte sua è <lb/>
+interessatissimo per la lunghezza della levata, et della <lb/>
+partenza; et per li mali trattamenti usati dal conte <lb/>
+d’Embden nell’esser causa del ritornar indietro <lb/>
+dei soldati. </p>
+<p>Io mandai alla Serenità vostra con lettere de’ 28 del passato <lb/>
+la copia autentica della riversale fattami fare <lb/>
+dal Vandembergh, che anulava l’accettatione <lb/>
+delle lettere di cambio delli 27 mila ducati in caso <lb/>
+che non le fosse presentata mia altra lettera d’avviso <lb/>
+et replicai anco un’altra copia con mie de’ <lb/>
+trenta; m’è stato caro, poiché vi sono molte <lb/>
+difficoltà nella sodisfattione dei debiti, mentre il <lb/>
+Quingetti sopra il quale il Vandembergh haveva <lb/>
+fatto fondamento dell’esborso del denaro a credito
+<pb n="080r" facs="05_080r" rend="0"/>
+non ha voluto farne altro, non essendo le lettere in lui. </p>
+<p>Ancor il negotio tra esso Quingetti, et Vandembergh non <lb/>
+è del tutto accommodato, né io farò lettera alcuna <lb/>
+d’avviso, se prima non veggo la total sodisfattione <lb/>
+a chi deve conforme al concertato con esso Van-<lb/>
+dembergh; intanto le genti arriveranno nel serenissimo <lb/>
+Dominio et allhora non sarà difficoltà, che ’l denaro <lb/>
+non sia ben esborsato. Gratie etc. </p>
+<p>Dall’Haya a’ 6 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="080v" facs="05_080v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="083r" facs="05_083r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="083v" facs="05_083v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="025">
+<!--
+<p n="083vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 novembre 1617 ricevute a’ 16 detto </p>
+<p>Haya. Prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="026" corresp="025" source="81r-82v" >
+<div type="main" facs="main text of attachment I" n="026" corresp="025" >
+<!--<p>Allegato I al n. 25 (cc. 81r-82v)</p>-->
+<pb n="081r" facs="05_081r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia </p>
+<p>Io Alessandro Vandembergh mercante d’Amsterdam dichiaro et <lb/>
+confesso con la presente scrittura haver ricevuto dal clarissimo signor Christofforo <lb/>
+Suriano residente per la serenissima republica di Venetia appresso li signori Stati Generali <lb/>
+delle Provincie Unite de’ Paesi Bassi doi lettere de cambio per la summa di <lb/>
+vinti sette milla ducati di Venetia, l’una di ducati vinticinque milla <lb/>
+pagabile al signor Gratioso del Calice de’ 14 del presente, et da esser pagata <lb/>
+la metà a’ 17 decembre venturo, et l’altra metà all’ultimo del detto <lb/>
+mese. Et l’altra lettera diretta alli signori Giacomo et Tomaso Van Castri per <lb/>
+la summa di doi milla ducati simili scritta a’ 17 di questo mese, et paga-<lb/>
+bile a’ 17 decembre prossimo, et queste per la totale espeditione del <lb/>
+signor conte Georgio Lodovico di Levenstein et sodisfattione di quanto deve, <lb/>
+delle quali doi lettere dichiaro et intendo che ogni accettatione, che facesse <lb/>
+fare di esse il serenissimo principe di Venetia, al quale elle sono dirette, sia <lb/>
+nulla, et se fosse fatto il loro pagamento li detti signori Calice et Van Castri <lb/>
+debbano ristituirlo a sua Serenità intieramente quando però esse lettere di cambio <lb/>
+non siano accompagnate d’una lettera d’avviso del medesimo clarissimo <lb/>
+signor Christofforo Suriano di haver io del tutto ispedito da quanto <lb/>
+deve qui et altrove, il signor conte Georgio Lodovico di Levenstein, et ch’esso <lb/>
+signor Conte partito da questo luoco di Delfsil et fiumiera<ptr target="#tn4" n="4"/> d’Emns<ptr target="#tn5" n="5"/>, et <lb/>
+fatto vela in mare con le navi dentro le quali sono li 3 mila fanti che <lb/>
+sua Signoria illustrissima ha levati per condurli al servitio della serenissima republica di Venetia <lb/>
+per confermatione delle<ptr target="#tn6" n="6"/> quali tutte cose sottoscriverò et segnerò le presenti <lb/>
+di mia propria mano et col mio proprio sigillo, et effettuato in <lb/>
+tutto quanto di sopra doverà la presente scrittura restar nulla et <lb/>
+di niun valore, et le sudette lettere de cambio doveranno haver il suo <lb/>
+intero vigore. </p>
+<p>De Delfsil a’ 17 ottobre 1617 stilo novo </p>
+<p>Io Alessandro Vanden Berghe affermo et ratifico di mia propria mano <lb/>
+et col mio sigillo quanto detto di sopra </p>
+<pb n="081v" facs="05_081v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="082r" facs="05_082r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="082v" facs="05_082v" rend="270"/>
+<p>1 </p>
+<p>Copia delle scritture del <lb/>
+Vandembergh </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> First "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Second "-e-" corrected above -"o-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ie-" corrected above "-a-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above -"a."</p></note>
+</div>
+</body>
+</text>
+</TEI>

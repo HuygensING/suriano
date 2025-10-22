@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.031 date 1617-05-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 158r-161v, 164r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">158r-161v, 164r-v, 162r-163v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Monthou has visited several deputies from States General to request money for Savoy. Encloses Monthou’s speech in front of States General. Suriano discusses the financial support with Oldenbarnevelt; who claims there is a lack of money as there are many ongoing matters such as garrisons, support for Sweden, English king and religious issue which require funding. Various members of States General make similar objections to the ones made by Oldenbarnevelt. Carleton also tries to get Oldenbarnevelt to support Savoy. Suriano reports on his conversation with the president of Gelre about potential union between Savoy, Venice and the Dutch Republic, which would be beneficial as they would have access to port of Villafranca. Maurice wants to know more about this port. One document attached to this letter "espositione di Monthou"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-05-23">23 maggio 1617</date>
+            <num>051, 052</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="051">
+<div type="main" facs="main text of letter" n="051">
+<!--<p>23 maggio 1617, L’Aia (cc. 158r-161v, 164r-v)</p>-->
+<pb n="158r" facs="04_158r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>tutti questi giorni passati ha il signor di Monthou atteso a visitar li più <lb/>
+principali deputati dell’assemblea de’ Stati Generali, essendogli <lb/>
+stato necessario il farlo per haver scoperte varie difficoltà, che si <lb/>
+andavano mettendo innanti alla risoluzione del pronto effettivo <lb/>
+aiuto in denari come ricerca. Si trovò, prima del rinovar la <lb/>
+sua instanza in publico, con il signor Bernvel, dal quale gli furono <lb/>
+dette diverse cose, et che in particolar due tenevano l’animo del <lb/>
+Generale molto sospeso. L’una che la pace fosse per farsi, et <lb/>
+l’altra della constanza del signor Duca in tenersi lontano dagl’interessi <lb/>
+di Spagna. Ha sodisfatto con esso Bernvel in quanto gli è <lb/>
+stato possibile in mostrar la gran ragione, che haveva il signor Duca <lb/>
+di non fidarsi mai più della Spagna, governandosi col seguito <lb/>
+in tanto tempo che continua la guerra, et all’altro nel dire <lb/>
+che gl’apparati de’ Spagnuoli da tutte le parti non davano <lb/>
+punto ad intender, che havessero volontà di pace. Per il <lb/>
+primo lo ha lasciato molto ben impresso, et gli ha detto, che <lb/>
+basta assai; ma quanto al secondo, che era bene, che <lb/>
+dicesse qualche cosa tanto nell’assemblea quanto con chi <lb/>
+ne parlava: onde dall’aggiunta traduttione intenderà <lb/>
+la Serenità vostra quanto egli ha in sostanza esposto alli Stati <lb/>
+Generali; ma in voce ha premuto molto più efficacemente <lb/>
+et con concetti più pieni per muover l’animo ad aiutar sua Altezza. <lb/>
+Gli pregò, ch’io m’impiegassi in<ptr target="#tn1" n="1"/> questo negotio, lo <lb/>
+coadiuvassi, et cooperassi appresso sua Eccellenza, con il signor Bernvel,
+<pb n="158v" facs="04_158v" rend="0"/>
+et altri, et tanto ho esseguito. Il signor Bernvel nella risposta, che mi <lb/>
+fece disse che a lui era tanto a cuore l’interesse di sua Altezza quanto il <lb/>
+fatto stesso, perché la sicurtà di lei lo ricercava, et più il servitio <lb/>
+commune, onde haverebbe tenuta la mano a tutte le cose, massime <lb/>
+facendo io<ptr target="#tn2" n="2"/> la raccomandatione a nome della serenissima Republica; ma che mi voleva <lb/>
+dire, che in ciò concorrevano varie difficoltà, che davano <lb/>
+materia da pensare al consultar il modo come poter <lb/>
+assister, poiché li signori Stati havevano diverse occasioni di spesa <lb/>
+che li teneva oppressi, et mal accomodati al presente <lb/>
+di denari. Disse, che vi erano le spese ordinarie delle <lb/>
+guarnigioni nel Paese, di quelle, che sono necessitate man-<lb/>
+tener nelle terre attinenti al ducato di Cleves, et Giuliers <lb/>
+l’altre delle fortificationi tanto in quello, quanto in questi <lb/>
+stati, il debito che tengono di assister al re di Svetia, <lb/>
+il dover compir alla sodisfattione al re della Gran Bertagna <lb/>
+per la ricuperatione delle doi piazze della Brila, et di Flesinghen. <lb/>
+A che s’aggiungevano anco le controversie, et male intelligenze <lb/>
+che passano al presente in questo corpo di Republica particolarmente <lb/>
+nella provincia di Holanda per la causa di religione <lb/>
+et il convenir proveder a diversi bisogni del Paese; ma <lb/>
+che con tutto ciò haverebbe fatto tutto quello, che havesse <lb/>
+potuto per il buon successo dell’instanza del signor di Monthou. </p>
+<p>A questi concetti risposi col metodo tenuto dal detto <lb/>
+senator Monthou, essendomi egli, prima che mi trovassi
+<pb n="159r" facs="04_159r" rend="0"/>
+con esso Bernvel venuto a riferire di haver havuto proposito di <lb/>
+queste medesime cose. Et particolarmente quanto si aspetta alla risolutione <lb/>
+dei principi di Alemagna, che non dovevano regolarsi le <lb/>
+risolutioni di questi signori dalla pendenza di quella di detti <lb/>
+principi, perché, dato, et non concesso, che non havessero <lb/>
+aiutato, non dovevano li signori Stati farsi regola perché sua Altezza <lb/>
+restasse nuda d’aiuti, aggiungendo quello di più, che <lb/>
+stimai proprio in questo affare in conformità anco <lb/>
+degl’ufficii communicatimi da esso signore di Monthou. </p>
+<p>Parvemi di lasciar esso signor Bernvel assai disposto, et doppo <lb/>
+anco essendo stato riveduto dal signor Monthou, se ben colle <lb/>
+stesse considerationi sempre alle mani, ha però mostrato di <lb/>
+non disperar di qualche soccorso. Sua Eccellenza in questo particolare <lb/>
+sabbato che fui a lei mi disse, che sperava, che haverebbe <lb/>
+havuto qualche cosa, et che haveva raccommandato <lb/>
+il negotio al signor Bernvel, il quale haveva trovato di buon <lb/>
+animo d’adoperarsi per il suo buon essito. </p>
+<p>Con alcuni de’ signori Stati ho parlato, et fatta la debita, et necessaria <lb/>
+raccommandatione, et se bene non sono condescesi in tutto alle <lb/>
+considerationi del Bernvel hanno però in sostanza tutto <lb/>
+de’ medesimi impedimenti. Et il negotio di religione, oltre gl’altri, <lb/>
+difficoltà in gran parte il bene, et prontamente operare <lb/>
+perché, essendo gl’animi confusi, et che mal s’intendono <lb/>
+tra le parti, fano che ’l corpo tutto patisca, et disentono
+<pb n="159v" facs="04_159v" rend="0"/>
+o nel proporre, o nel risolver, né qui si può far altrimenti, che <lb/>
+col Generale, non essendo costume di definir un affare con il mezo <lb/>
+de’ particolari deputati. </p>
+<p>Il signor ambasciator d’Inghilterra anc’egli è andato espressamente a raccommandar <lb/>
+questo affare al signor Bernvel, et coadiuva in quanto può, <lb/>
+et l’agente del signor Principe palatino ha fatto qualche <lb/>
+ufficio tra particolari signori. Quello che se n’è cavato <lb/>
+è che si tiene per certo che aiuteranno, ma parmi di haver <lb/>
+inteso, che presentemente daranno qualche somma di denaro, <lb/>
+che sarà per provisione per risolver poi più commodamente et con <lb/>
+maggior opportunità qualche sussidio mensuale et io penso, <lb/>
+che si daranno alcuna cosa per provisione, sarà per veder <lb/>
+in tanto quello che segue, se le cose si accommoderanno, o non <lb/>
+et poi risolveranno secondo l’accidente. </p>
+<p>Sta monsignor di Monthou attendendo con desiderio il successo, et si <lb/>
+crede, che possi questo negotio esser portato alla congregazione <lb/>
+del Consiglio di Stato, che si suole ingerire in materie simili. Si <lb/>
+nutre di buona speranza, et del concetto, che sente nel generale <lb/>
+che si ha desiderio, et volontà di assister, et questo tanto <lb/>
+ha rappresentato al signor Duca, senza obligarsi ad alcuna parola <lb/>
+di sicurezza. Et io di quello succederà ne darò riverente <lb/>
+conto alla Serenità vostra. </p>
+<p>Coll’occasione di veder per questo negotio, di questi signori, uno dei presidenti <lb/>
+di Gheldria entrato in discorso del signor duca di Savoia mi
+<pb n="160r" facs="04_160r" rend="0"/>
+disse, che bisognerebbe poter far una buona unione, ma che non si <lb/>
+sapeva come potersi assicurar dell’animo dell’Altezza sua, et <lb/>
+addimandò a me quello, che ne credevo. Io gli risposi, che <lb/>
+li accidenti, che sono occorsi sin qui mi facevano far congietura <lb/>
+che di sua Altezza potesse presupponer ogni bene, stante l’offese <lb/>
+che pretende haver havuta da Spagnuoli, et quelle che<ptr target="#tn3" n="3"/> <lb/>
+le vanno preparando, et egli replicò, che questo era appa-<lb/>
+rente, et si poteva creder così. Poi mi disse se stimavo che <lb/>
+il signor Duca si fosse contentato di conceder il porto di Villa Franca <lb/>
+per porto di sicurtà a navi da guerra, che havessero un giorno <lb/>
+potuto mandar questi signori in quelle parti; dissi ch’io non sapevo <lb/>
+et egli mi rispose, che ne havea tenuto qualche proposito a monsignor <lb/>
+di Monthou, et che haveva cavato, che forse il signor Duca non se <lb/>
+ne sarebbe mostrato alieno. Poi soggiunse bisognerebbe poter <lb/>
+far questo negotio in terzo la serenissima Republica sua altezza di <lb/>
+Savoia, et li signori Stati, dicendo che ve ne pare? Io dissi che <lb/>
+de’ pensieri del signor Duca non sapevo dir alcuna cosa; ma <lb/>
+ben dell’intentione della serenissima Republica potevo affermar questo <lb/>
+ch’ella mira alla conservatione non solo della propria libertà <lb/>
+ma di quella delli altri principi ancora, et di questa Republica <lb/>
+in particolare, et che per questo haverebbe sempre inteso <lb/>
+volentieri tutto quello, che fosse stato proposto esser per <lb/>
+il medesimo fine anco in altri per risolver poi unitamente <lb/>
+et al vantaggio commune. Repigliò anco in noi altri
+<pb n="160v" facs="04_160v" rend="0"/>
+concorre il medesimo senso perché non amiamo punto la grandezza <lb/>
+di Spagna, ma tutto sta a chi ha da esser il primo a proporre <lb/>
+da che può comprender la Serenità vostra, che vi sono sensi che vor-<lb/>
+rebbono, che si venisse a questa unione; ma sono poi predo-<lb/>
+minati, et alterati dalla riputatione, li quali accennano, come <lb/>
+questo, che altre volte si è fatta qualche apertura, et non <lb/>
+si è risposto allhora alcuna cosa. Io mi sono contenuto <lb/>
+nel dir solamente che stavo qui ministro di vostra Serenità per <lb/>
+testimonio della buona corrispondenza, che vuol tenir <lb/>
+la serenissima Republica con questi Stati, et tutto quello, che mi fosse <lb/>
+stato detto tutto haverei scritto alla Serenità vostra. </p>
+<p>Rifersi al signor di Monthou quanto, toccante il signor Duca, havevo <lb/>
+cavato dal detto Presidente, et per li aiuti, et nel particolare <lb/>
+di unione, il qual mi disse che di questa unione con sua Altezza <lb/>
+il medesimo gliene haveva parlato, come in passando; [c]olli<ptr target="#tn4" n="4"/> stessi <lb/>
+concetti, ch’egli non haveva alcuna commissione intorno di <lb/>
+ciò; ma ben di Villa Franca sua Altezza si sarebbe contentata <lb/>
+di offerirla per porto di sicurtà a questi signori quando havesse <lb/>
+veduto il bisogno, o che la condotta delli affari, et del <lb/>
+tempo l’havesse comportato; che non havendo veduta <lb/>
+la necessità si era riserbato questo capo in mano per tirar <lb/>
+a fine quanto havesse veduto difficile per altro mezo <lb/>
+che quando fu qui l’altra volta ne haveva bocco<ptr target="#tn5" n="5"/>, al signor <lb/>
+principe Mauritio, et questa volta ancora, et che l’Eccellenza sua
+<pb n="161r" facs="04_161r" rend="0"/>
+lo trovava partito molto buono, volendo esser informata <lb/>
+della qualità del sito, della capacità del porto, quante navi <lb/>
+vi si havesse potuto tenere, et simil altre cose, et gliene <lb/>
+haveva dimandato memoriale, che gli ha fatto haver questa <lb/>
+mattina in forma di lettera. Hiersera venne a farmelo vedere <lb/>
+et contiene in sostanza, che stimava, che una delle miglior <lb/>
+occasioni di far danno al nemico commune, et alli suoi adherenti <lb/>
+fosse il far passar alla costa di Genova un buon numero <lb/>
+di vasselli da guerra, perché li Genovesi non sarebbono stati <lb/>
+senza patimento et Fiorenza, et Urbino haverebbono del <lb/>
+tutto lasciato di dar soccorso al governator di Milano, et sua Altezza <lb/>
+haverebbe concesso per porto di sicurtà Villa Franca; che <lb/>
+risolvendosi in qualche tempo al<ptr target="#tn6" n="6"/> mandar navi per assistenza <lb/>
+di sua Altezza questo porto sarebbe stato proprio per evitar <lb/>
+ogni male, che potesser fare alli Francesi, che si dovevano <lb/>
+conservar amici. Ma entrato in pensiero, che sua Eccellenza <lb/>
+habbi addimandato questo memoriale per mostrarlo, et <lb/>
+consultar sopra<ptr target="#tn7" n="7"/> di esso, la prega a non promoverlo <lb/>
+perché non rimovesse gl’animi dall’effetto della prima instanza <lb/>
+essendo che questa provisione sarebbe troppo lunga, et per <lb/>
+consequente potrebbe riuscir infruttuosa; ma quella in <lb/>
+denari come necessaria sarebbe stata propria quanto fosse <lb/>
+stata più pronta, perché dell’altra se ne haverebbe <lb/>
+poi potuto trattare. Et hoggi deve trovarsi con sua Eccellenza per
+<pb n="161v" facs="04_161v" rend="0"/>
+parlarle del medesimo. </p>
+<p>Stante quello, che gli havevo detto havermi discorso il presidente <lb/>
+di Gheldria mi ha pregato di cavare, quando venga però il <lb/>
+proposito, et caschi il ragionamento di qualcheduno, con chi alle volte <lb/>
+mi occorresse trattare se vi ha in effetto nel generale il desiderio <lb/>
+o la volontà di unirsi con sua Altezza dicendomi, che gli haveva scritto <lb/>
+tutto ciò perché anc’ella pensasse ai fatti suoi, et a quello, che <lb/>
+stimasse bene per la propria sicurtà del suo Stato. Et mi rin-<lb/>
+gratiò di quanto operavo a servitio di sua Altezza. Gratie etc. </p>
+<p>Dall’Haya a’ 23 maggio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="164r" facs="04_164r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="164v" facs="04_164v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="051">
+<!--
+<p n="164vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 maggio 1617 ricevute 7 giugno </p>
+<p>Secretario Surian dall’Haya </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="052" corresp="051" source="162r-163v" >
+<div type="main" facs="main text of attachment I" n="052" corresp="051" >
+<!--<p>Allegato I al n. 51 (cc. 162r-163v)</p>-->
+<pb n="162r" facs="04_162r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere de’ 23 maggio 1617 dall’Haya </p>
+<p>Espositione di monsignor di Monthou </p>
+<p>Vedendo sua altezza di Savoia mio signore et patrone che lo Spagnolo haveva affatto risoluto di inva-<lb/>
+der li suoi stati alla peggio succedi ciò che si voglia, poiché che vidando la fede et religione pub-<lb/>
+lica in pregiuditio d’un trattato fatto et concluso in Asti. Don Pietro con una potente ar-<lb/>
+mata l’haveva di nuova assalita; ella mi mandò li mesi passati qui per rappresentar lo <lb/>
+stato de’ suoi affari l’importanza di essi, li notabili interessi, che tutti li principi et republiche della <lb/>
+christianità havevano in questa guerra, la quale havendo riguardo all’insaciabile ambitione <lb/>
+delli Spagnoli, non tendeva che alla ruina delli uni doppo gl’altri; et in conformità del com-<lb/>
+mandamento ch’io tenevo sposi la carica mia nell’assemblea del vostro conseglio dando <lb/>
+un somario della mia propositione, redatto in scritto per la quale mi sarete compiaciuti <lb/>
+ch’ella sia communicata alle provintie, onde havuto riguardo all’importanza del fatto, li suoi <lb/>
+deputati residenti ordiniaramente in questo luoco, non potevano determinare sopra questo fatto <lb/>
+senza l’avviso de’ suoi principali, et poichè per haver le risolutioni particolari delle Provincie <lb/>
+bisognava aspettar qualche tempo, io volevo impiegarlo in altri affari per ritornarmene ispe-<lb/>
+diti, ch’io li havessi havuti, come io ho fatto per procurar di havere da vostre Eccellenze la finale, <lb/>
+et favorevole risolutione, la quale io attendo per li affari del mio patrone. </p>
+<p>Doppo che io partii di qua lo stato delli affari è in parte cambiato et in parte il medesimo <lb/>
+ch’era allhora, perché lo stesso inimico che noi havevamo ci perseguita sempre vivamente <lb/>
+et del continuo ha in fantasia la nostra ruina, et in questo gl’affari non sono punto mutati, <lb/>
+ma poiché li preparativi, che già se facevano allhora, et le truppe che si levavano da <lb/>
+ogni banda sono per lo più gran parte arrivate nello stato di Milano, et il resto se inca-<lb/>
+mina d’un giorno all’altro. Il male che per in quel tempo era lontano da noi, al presente <lb/>
+è molto vicino, et perché l’aiuto et il soccorso, che il mio patrone attende da vostre Eccellenze <lb/>
+ci è hora molto più necessario perché la fine del mese di maggio, che fornisse ben tosto <lb/>
+la<ptr target="#tn8" n="8"/> Spagnolo nostro inimico deve infallibilmente mettersi in campagna con una molto grande <lb/>
+et potente armata, et con più grande mala volontàancora di ruinar il mio patrone il <lb/>
+quale per la diffesa della sua giusta causa, et per il bene con della christianità tutta <lb/>
+si mette ad ogni dovere per opporsi ne’ pernitiosi disegni dello Spagnolo. Onde signori <lb/>
+questo appunto il tempo, di mostrargli la mano favorevole, o mai, poiché il soccorso, ch’<lb/>
+egli spera da voi arrivando così in opportuna occasione la può conservare al primo <lb/>
+incontro da qualche sinistro accidente, il quale se per la mala fortuna, il che Dio non <lb/>
+permetti, gli succedesse l’assistenza che voi gli faceste doppo questa occasione riuscirebbe <lb/>
+inutile. </p>
+<pb n="162v" facs="04_162v" rend="0"/>
+<p>Il felice cambiamento che per una giusta et impensato giudicio di Dio hanno preso li affari della Francia <lb/>
+vi facilitano il mezo di aiutar il mio patrone, et a lui di difendersi meglio contra il suo nemico perché <lb/>
+essendo voi liberi dal soccorso che per gl’affari della Francia havevate accordato a sua Maestà <lb/>
+christianissima. Voi potrete più liberamente se vi piace aiutar il Duca mio signore et patrone, et egli in <lb/>
+rispetto della licenza a doi armate del Re potrà più commodamente haver delle genti per rin-<lb/>
+forzar le prime perché essendo stato proposto alli ambasciatori di sua Altezza residenti a Parigi <lb/>
+di tirar al servitio dell’Altezza sua<ptr target="#tn9" n="9"/> il colonello Ghent hanno mandata persona espressa <lb/>
+a lui per qualche effetto di modo che hoggidi o il detto Ghent è già in camino per andar in <lb/>
+Savoia in che vi è molta apparenza, o che si è fuori di speranza dall’haverlo, il che <lb/>
+non è credibile, poiché li principi in servitio de’ quali egli era l’hanno essi medesimi <lb/>
+presentato alli ambasciatori di sua Altezza. In oltre il signor marescial de Diguieres che è passato <lb/>
+per far una levata di dieci milla fanti per le sudette cause le farà commodamente; ma stante <lb/>
+che il numero delle genti cresce, et vi è la commodità dell’haverle, il bisogno del denaro si <lb/>
+va augumentando senza il quale non si può mantener una così grossa armata. Io vi prego <lb/>
+signori instantamente et con ogni maggior affetto di voler accordar a sua Altezza il soccorso, che vi si già <lb/>
+addimandato a nome suo, ma poiché il male è vicino anzi presente vi supplico signori che ’l rime-<lb/>
+dio sia parimente pronto. Voi sapete quanto ha il tempo pretioso in tutti gl’affari, et par-<lb/>
+ticolarmente in quelli della guerra perché passata una volta l’occasione ella non si <lb/>
+può ricourare et li danni che arrivano sono per la più parte irreparabili. Questo <lb/>
+causa signori ch’io vi<ptr target="#tn10" n="10"/> raccomando tanto la prontezza in questo affare non altrimenti che <lb/>
+tutto l’affare stesso. </p>
+<p>Et poiché li Spagnoli o li loro adherenti hanno publicato da per tutto che la pace era risoluta <lb/>
+et pronta a publicarsi io vi prego signori di non prestar alcuna fede a tal disseminationi <lb/>
+perché oltre che gl’apparati, che li Spagnoli fanno d’ogni parte li convincano mani-<lb/>
+festamente di falsità, l’Altezza sua con lettere de’ 28 d’april passato mi scrive, che non vi è <lb/>
+apparenza alcuna de pace, et che li Spagnoli non la desiderano, ma fanno correr questa <lb/>
+voce per ritardar il soccorso che li amici del mio patrone li potrebbono mandare per <lb/>
+prendendo col tal mezo al loro miglior vantaggio. Per tanto miei signori vi prego di non <lb/>
+ritardar punto gl’effetti della favorabile risolutione ch’io aspetto da voi per il servitio <lb/>
+del mio patrone, mene vorrei ch’el presuposito che alcuno fa dell’aiuto che li signori <lb/>
+principi di Alemagna fano conto di dar a sua Altezza retardi quelli ch’egli spero da
+<pb n="163r" facs="04_163r" rend="0"/>
+voi, perché se bene io non ho havuto al presente un aiuto specificato, et particolare dichiarato <lb/>
+con tutto ciò m’hanno promesso, et assicurato, che assisteranno di tutto lor potere; ma quando <lb/>
+tal soccorso mancasse sarà bisogno per questo che ’l nostro sia ritardato, o negato <lb/>
+sarebbe questa una causa sufficiente per produr un tall’effetto non certo; tanto <lb/>
+è che si ciò fosse che Dio non voglia, io penserei che questo sarebbe un argumento <lb/>
+sufficiente per disponervi a soccorrer d’avantaggio il mio padrone perché s’egli fosse <lb/>
+mancato del soccorso che si promette dalli signori principi di Alemagna quanto minor <lb/>
+soccorso egli venisse ad havere; tanto più grande sarebbe il pericolo nel quale si <lb/>
+ritrovarebbe, et quanto maggiore sarebbe il pericolo, tanto più vi inviterebbe all’<lb/>
+aiuto più vivamente et gagliardamente, perché signori sia il mio signore et patrone soccorso o no <lb/>
+dalli signori principi di Alemagna il soccorso che deve attender da voi non deve esser <lb/>
+punto differito sotto pretesto di aspettar ciò che faranno, perché non dipendendo le vostre <lb/>
+deliberationi dalle loro voi non dovete meno per alcun soggetto differir il soccorso <lb/>
+ch’io spero ottener da voi per il mio patrone. Onde fornendo signori con quello, che ho <lb/>
+comminciato io vi prego di nuovo di voler prontamente soccorrer il Duca mio patrone <lb/>
+con quel soccorso che vi parerà fare sia in denari poiché havendone, si trova in luoco <lb/>
+commodo per haver molte genti tanto da piedi, che da cavallo, io vi torno a pregare <lb/>
+adunque signori di farlo, et al più tosto che ce possi fare. </p>
+<pb n="163v" facs="04_163v" rend="270"/>
+<p>Propositione del signor di Monthou </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "lo" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "gl-" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page; followed by "medesimi" corrected and crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "effetto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "raccd°" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

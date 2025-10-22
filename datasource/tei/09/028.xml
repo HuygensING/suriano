@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.028 date 1620-06-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">028</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 155r-159v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp266-279
+            </note>
+            <biblScope unit="page">155r-159v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of several letters from Venice. Reports that he spoke with Maurice of Nassau about their potential reaction to news of archducal levies and Maurice informed him that they have inspected the frontier and fortresses. Rumours about levies in Brabant continue. William Louis of Nassau has suffered a stroke. States General are thinking about embassies to both France and England to discuss the Twelve Years Truce. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-09">9 giugno 1620</date>
+            <num>042</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="042">
+<div type="main" facs="main text of letter" n="042">
+<!--<p>9 giugno 1620, L’Aia (cc. 155r-159v)</p>-->
+<pb n="155r" facs="09_155r" rend="0"/>
+<head>main text of letter</head>
+<p><ptr target="#tn1" n="1"/></p>
+<p>Prima </p>
+<p>n° 210 fin 211 </p>
+<p>Serenissimo Principe </p>
+<p>quanto la Serenità vostra mi manda con lettere sue de’ 16 del <lb/>
+passato toccante quelli Uscochi, che si sono ricovrati nello Stato di <lb/>
+lei mi servirà d’informatione per sostener il servitio publico <lb/>
+et levar quelle male impressioni, che potessero esser fatte in <lb/>
+questo proposito, ancorché poss’io promettermi, che non può<ptr target="#tn2" n="2"/> <lb/>
+capir nell’animo di questi signori molto ben conscii di quello che <lb/>
+può provenire da’ cuori appassionati. </p>
+<p>Con le lettere de’ 22 ho ricevuta la credentiale, che fu in <lb/>
+Constantinopoli data a quel capitan Francesco Biscaino. <lb/>
+Le feste di Pasqua, et le multeplici occupationi di questi signori <lb/>
+non hanno permesso ch’habbi potuto sodisfar con sue Eccellenze <lb/>
+nel communicarli quanto da lei mi viene commesso sarà <lb/>
+per dimani. </p>
+<p>In tanto sendo ritornato venerdì sera il signor principe d’Oranges, <lb/>
+sabbato fui a visitatione dell’Eccellenza sua, et così tal opportunità <lb/>
+le<ptr target="#tn3" n="3"/> diedi parte di detta lettera, et le aggiunsi tutte quelle <lb/>
+considerationi, che da me furono stimate proprie all’<lb/>
+effetto dell’intentione di vostra Serenità. Mostrò sua Eccellenza <lb/>
+di creder che Austriaci, et Spagnoli faranno tutto quello <lb/>
+potranno in pregiudicio di quella serenissima Republica, et di questa <lb/>
+che però si doveva star ben avvertiti; et mi disse, che <lb/>
+non haverebbe mancato all’occasione di eccitar li signori Stati <lb/>
+a pensare, et tener buoni ordini per guardarsi<ptr target="#tn4" n="4"/> dalle <lb/>
+insidie che possono esser tese contra l’uno, et l’altro Stato. </p>
+<pb n="155v" facs="09_155v" rend="0"/>
+<p>Et io non mancai di secondar tal buona volontà. </p>
+<p>Mi communicò sua Eccellenza haver vedute le piazze di frontiera in <lb/>
+questi stati, et quelle anco di Emerich, et Giuliers in quelli del <lb/>
+ducato di Cleves, et disse, contentarsi molto di haver trovate <lb/>
+tutte le compagnie tanto di cavalleria<ptr target="#tn5" n="5"/> che <lb/>
+d’infanteria<ptr target="#tn6" n="6"/> ben ad ordine. </p>
+<p>Hora col suo ritorno attendono li signori Stati a consultar quello si haverà <lb/>
+da fare, mentre si hanno sicuri avvisi già esser stato contato tutto ’l <lb/>
+denaro per le levate dalla parte dei serenissimi arciduchi, già destinati i quartieri a cadaun capo, et capitano così di <lb/>
+cavalleria, che d’infanteria, et si promettono Spagnuoli, che <lb/>
+habbi ad esser il tutto ad ordine quanto più presto rispetto <lb/>
+ai soggetti che hanno havuta la carica, che sono cavallieri <lb/>
+di portata, et che hanno credito nel Paese, et già buon <lb/>
+pezzo haveranno caparati molti cavallieri, et soldati. </p>
+<p>Tutto questo dà hora da pensar alli signori Stati, et al metter in <lb/>
+deliberatione; come ha carica il Consiglio di Stato di dar <lb/>
+il suo avviso di quello si ha da operare sopra che <lb/>
+hoggi sua Eccellenza con li detti del Consiglio di Stato si<ptr target="#tn7" n="7"/> sono trovati <lb/>
+nell’assemblea<ptr target="#tn8" n="8"/> dei Stati Generali. Pensano come <lb/>
+parmi di haver altre volte riverentemente rappresen-<lb/>
+tato alla Serenità vostra di far quattromilla fanti nel Paese, <lb/>
+che nella lingua fiaminga si chiamano Weartgenlders <lb/>
+et questi per metter nelle piazze frontiere, et levarne
+<pb n="156r" facs="09_156r" rend="0"/>
+le vecchie guarnigioni per formar l’armata di soldatesca buona <lb/>
+et vecchia, et questa anco daranno ordine che si augumenti <lb/>
+formando le compagnie maggiori, et dicono, che saranno <lb/>
+altri quattromilla fanti stranieri. </p>
+<p>Ognuno parla, che quest’estate si habbi ad uscir in campagna, <lb/>
+et sua Eccellenza lo disse a me sabbato, che credeva, che non <lb/>
+potesse esser alrimenti, et mostra da che è venuto star <lb/>
+molto allegro per la speranza, che ha di non star più tanto <lb/>
+otioso. </p>
+<p>Con tutto questo mi aggiunse, che haverebbe tenuto indietro quanto <lb/>
+havesse potuto, et quanto havesse stimato proprio perché <lb/>
+li signori Stati non corressero a furia a far levate, mostrando <lb/>
+meco di non amar, che li signori Stati si mettino a tal impresa, <lb/>
+perché (mi aggiunse) non haverebbono tanto modo di poter <lb/>
+contribuir in aiuto a Bohemi, quando<ptr target="#tn9" n="9"/> havessero necessità <lb/>
+di far per sé medesimi. </p>
+<p>Non si crede però che habbi a diferirsi per non esser colti dagl’arti-<lb/>
+ficii de’ Spagnuoli li quali per quanto ho potuto cavar da persona <lb/>
+che ha pratica in casa del marchese Spinola, sono doi <lb/>
+o di tenir in freno questi stati; o uscendo da queste <lb/>
+Provincie<ptr target="#tn10" n="10"/> ridurli in luoco da darli una buona stretta; confessando <lb/>
+l’istesso marchese Spinola, ch’era impossibile di poter <lb/>
+altrimenti nel Paese dannificarli per la custodia, et fortezza <lb/>
+che le dà le acque bastanti in un momento di<ptr target="#tn11" n="11"/>
+<pb n="156v" facs="09_156v" rend="0"/>
+sottometter tutto il Paese<ptr target="#tn12" n="12"/>. </p>
+<p>Viene scritto di Brabant, che Spagnoli in Anversa havevano accor-<lb/>
+dati cento, et più matelotti, che servono come di guastadori; <lb/>
+ma più per il servitio dell’artiglieria; et a Malines <lb/>
+erano stati presi in servitio quattrocento carri per portar <lb/>
+munitioni, et assicuratili per otto mesi. Si dice anco, che ’l <lb/>
+detto Marchese uscirà in campagna con qualche auttorità <lb/>
+di vantaggio alla sua carica ordinaria; di questo però non <lb/>
+si sa il certo, se non, che arrivato il corriero di Spagna la <lb/>
+passata settimana in Brusseles il<ptr target="#tn13" n="13"/> giorno seguente andarono <lb/>
+tutti quei signori di corte per dargli il para bien. </p>
+<p>Bisogna, che habbino recondito disegno con tante preparationi, <lb/>
+et in un giorno hanno ispediti tre corrieri uno per Spagna, <lb/>
+uno<ptr target="#tn14" n="14"/> per Milano, et l’altro per Napoli dicono questi per <lb/>
+solicitar la passata di quelle militie in questi paesi. </p>
+<p>Con grandissimo dispiacer li<ptr target="#tn15" n="15"/> signori Stati in queste congiunture risentono <lb/>
+della grave indisposizione in che è caduto d’appoplesia il signor <lb/>
+conte Guglielmo di Nassau sendogli disceso dalla testa un <lb/>
+acutissimo cattaro dalla parte destra, che l’ha resa mortificatissima <lb/>
+et con pochissimo senso; et è ridotto in stato tale, che <lb/>
+si dubita certo che non la scapi. Perdita della quale ne <lb/>
+patirebbono molto li signori Stati, et queste Provincie per l’intel-<lb/>
+ligenza, che questo signore ha delle cose della guerra, de’ maneggi <lb/>
+del governo, et di quelle cose, che possono apportar al pubblico
+<pb n="157r" facs="09_157r" rend="0"/>
+servitio. Sua Eccellenza mostra gran sentimento la grave età <lb/>
+nella quale egli è di settanta anni in circa fa temer di vantag-<lb/>
+gio della sua vita, et della sua complessione, già oppressa <lb/>
+da una grassezza<ptr target="#tn16" n="16"/> assai piena. Il conte Ernesto Casimiro <lb/>
+suo fratello si trova a Leuverden, ove tenta di haver la carica <lb/>
+di governatore quando egli mancasse, ma si crede, che difficilmente <lb/>
+si conduranno quei popoli frisoni al desiderar altrimenti <lb/>
+che<ptr target="#tn17" n="17"/> il governo delli stessi Stati: tuttavia<ptr target="#tn18" n="18"/> si<ptr target="#tn19" n="19"/> ha <lb/>
+ancor speranza della vita del detto signore per qualche tempo <lb/>
+almeno. </p>
+<p>Al signor principe Maurizio è stato scritto di Praga dal capitan <lb/>
+Frinch di ordine del principe di Anhalt, che si trovava <lb/>
+haver trentamilla fanti, et combatenti effettivi, et che <lb/>
+Bethelem Gabor si era lasciato intender, di condur <lb/>
+altri 40 mila combatenti, che la tregua non seguirebbe, et <lb/>
+quello che ha dato maggior contento (lo scopersi nel <lb/>
+preferirmelo<ptr target="#tn20" n="20"/>) è stato che tutte le provincie <lb/>
+in Bohemia habbino stabilito con le città, et castelli quanto <lb/>
+doverà<ptr target="#tn21" n="21"/> cadauno contribuire, et vi sarà un assignamento <lb/>
+fermo. Mi disse sua Eccellenza io credo questo tanto perché <lb/>
+mi viene scritto per vero, quando fosse altrimenti ingane-<lb/>
+rebbono Bohemi sé stessi al dirlo. </p>
+<p>Quello che ultimamente è venuto di Francia per la contesa sopra <lb/>
+il codicillo dell’ultimo morto principe di Oranges per
+<pb n="157v" facs="09_157v" rend="0"/>
+parte di Conde è arrivato qui, ha visitato il secretario dei signori <lb/>
+Stati Generali, et doppo molti discorsi<ptr target="#tn22" n="22"/> ha fatto cader proposito <lb/>
+della tregua procurando cavar da lui a che inclinassero li signori <lb/>
+Stati. Il secretario (come doveva fare in materia così grave) <lb/>
+andò riservato nel parlare<ptr target="#tn23" n="23"/>, et stando sopra generali <lb/>
+scoprì, che haveva quest’ordine di andar tirando il senso, <lb/>
+mostrando di farlo più da sé, che d’ordine pubblico, <lb/>
+onde esso secretario gli disse, se haveva qualche commissione <lb/>
+pubblica in questo particolare<ptr target="#tn24" n="24"/>. Et volesse haver audienza <lb/>
+non haverebbe mancato di riferirlo alli signori Stati. Disse egli <lb/>
+che non haveva tal commandamento. Et in fine si restrinse a rimostrar <lb/>
+che l’ambasciata di questi signori era desiderata in Francia, et <lb/>
+che potevano mandarla, che sarebbe stata ben veduta. </p>
+<p>Conferma questo con sue lettere monsignor di Langarach, et hora <lb/>
+questi signori pensano alla missione. Qui si è formato <lb/>
+un concetto, che questo era un artificio de monsignor di Luines <lb/>
+ch’è di voler rendersi benevoli anco questi stati, et così <lb/>
+dar martello a’ Spagnoli, et far per tutti i versi il fatto <lb/>
+suo, regolarsi sul fatto, et consolidar la sua fortuna. </p>
+<p>Anco per Inghilterra si pensa destinar ambasciata, et il signor Carleton la <lb/>
+solecita per gl’affari delle pesche, et d’altro. Sentendosi<ptr target="#tn25" n="25"/> <lb/>
+che l’uno, et l’altro dei detti re vogliono haver queste <lb/>
+ambasciate presso di loro, ne’ presenti tempi, che va spirando <lb/>
+la tregua, alcuni entrano in sospetto, che qui sotto vi sia
+<pb n="158r" facs="09_158r" rend="0"/>
+concerto spagnuolo, che desiderando, come ognuno dice, et lo <lb/>
+fa creder la mole de gran imbarazzi<ptr target="#tn26" n="26"/>, che hanno sopra le spalle <lb/>
+la<ptr target="#tn27" n="27"/> tregua voglino far qui correr voce, che li stati <lb/>
+siano stati li primi, che hanno proposto del trattarne <lb/>
+et trovandomi hieri a visita di uno di questi signori toccan-<lb/>
+domi questo sospetto disse li nostri ambasciatori anderanno molto <lb/>
+ben instrutti non parleranno punto di questo negotio, et <lb/>
+provocati non haveranno a risponder altro dicendo non <lb/>
+haver ordine dai loro superiori, ma se Spagnuoli hanno<ptr target="#tn28" n="28"/> <lb/>
+pensiero di trattarne sanno quello che hanno fatto l’altra <lb/>
+volta, hanno mandati<ptr target="#tn29" n="29"/> suoi deputati all’Haya, li man-<lb/>
+dino, si tratterà, et si farà per quella risolutione, che <lb/>
+sarà stimata propria. </p>
+<p>Dal discorso di questo, et da altri ancora, ho cavato<ptr target="#tn30" n="30"/> che l’inclinatione <lb/>
+non è di far una pace perpetua per la diffidenza, che <lb/>
+hanno dello Spagnuolo. Colla pace si doverebbe disarmare, <lb/>
+è vero che tanto potrebbe far anc’esso; ma il vantaggio <lb/>
+di lui è che aiutato dal molto oro che tiene accumulando <lb/>
+per tempo senza spender, può pigliar materia, et pretesto <lb/>
+di romper anco l’accordato. Per la guerra ella è <lb/>
+desiderata da questa, et dalla provincia di Zelanda <lb/>
+et Utrecht non ne sarebbe alieno, ma le quattro<ptr target="#tn31" n="31"/> altre <lb/>
+provincie, che fanno frontiera con difficoltà vi <lb/>
+condescenderebbono: onde par che la tregua habbi
+<pb n="158v" facs="09_158v" rend="0"/>
+apparenza di esser desiderata, rispetto<ptr target="#tn32" n="32"/> allo stato del Paese, che <lb/>
+ancor non si trova totalmente aquietato; se ben ancor non vi è fermo <lb/>
+concetto a che si inclinarebbe. </p>
+<p>Come si sia parmi bene, che questo negotio habbi ad esser messo in <lb/>
+trattatione, et l’ho cavato da quanto mi disse il signor ambasciator Carleton <lb/>
+uno di questi giorni, che il Re non pensava levarlo di qua per <lb/>
+quest’anno potendo haver bisogno di lui in questi paesi <lb/>
+per li motivi, che si vedevano ne’ presenti tempi. Et mi com-<lb/>
+municò, che a<ptr target="#tn33" n="33"/> cavaliere Wton sarebbe stata data carica <lb/>
+di passar in Alemagna, segno che la Maestà sua non pensava <lb/>
+più per quell’ambasciata alla persona del detto signor Carleton. </p>
+<p>Osserverò quanto anderà seguendo: in tanto se stimerà bene <lb/>
+di avvertirmi di qualche cosa in questo particolare, quando <lb/>
+conoschi la sua prudenza, che possi haver qui dentro <lb/>
+qualche interesse rispetto alla nuova aleanza attenderò <lb/>
+li suoi prudentissimi sensi. Gratie etc. </p>
+<p>Dall’Haya li 9 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="159r" facs="09_159r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="159v" facs="09_159v" rend="0"/>
+<p>Al serenissimo principe di Venezia </p>
+<p>prima </p>
+<p>n° 210 fin 211 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="042">
+<!--
+<p n="159vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 giugno 1620 ricevute li 24 detto </p>
+<p>Haya. Prima. n° 210 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-uò" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes "g-" crossed out; "-e" corrected above "-i."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-rs-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "ben ad ordine" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "bensì" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-d-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line on "stati" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by deleted words.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "un" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "non" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "-a" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "-nno" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by ", che" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "S-" corrected above "s-."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-bar-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Precedes "Spag(nuo)li" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "da" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "ho cavato" added above the line.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Added above the deleted word.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Is the result of a correction.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "-ll" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

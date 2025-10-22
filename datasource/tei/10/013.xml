@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.013 date 1621-04-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 54r-v, 57r-59v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">54r-v, 57r-59v, 55r-56v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Post has not arrived, the Truce has expired but the hostilities have not yet resumed, not yet the right season to leave the garrison. In cipher he reports that Maurice thinks the Spanish troops will move to the Netherlands and that the Venetian Republic will be free to provide military assistance proposing that Alfonso Antonini might join with 300 infantry and 100 cavalry. Suriano requests instructions as the 1619 treaty only regulated financial assistance. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-04-12">12 aprile 1621</date>
+            <num>018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="018">
+<div type="main" facs="main text of letter" n="018">
+<!--<p>12 aprile 1621, L’Aia (cc. 54r-v, 57r-59v)</p>-->
+<pb n="054r" facs="10_054r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 288 fin 289 </p>
+<p>Serenissimo Principe </p>
+<p>come la settimana passata nel mio pachetto ordinario restai senza lettere <lb/>
+della Serenità vostra, così la presente sino a quest’hora non me n’attrovo, <lb/>
+non essendo ancor capitato l’ordinario messaggiero d’Anversa; <lb/>
+et si può ben creder, che da mo’ innanti difficile si haverà il passag-<lb/>
+gio tanto dalla parte di Brabant, che da quella di Colonia, <lb/>
+sendo già spirata la tregua. </p>
+<p>Ancor non si sente motivo d’hostilità. Qualche navi però di questi <lb/>
+signori sono già nanti ’l porto di Doncherchen, tutti li piccioli <lb/>
+vasselli sono mandati sopra le riviere, la cavallaria va battendo <lb/>
+la campagna; et come m’ha detto il signor principe d’Oranges hog-<lb/>
+gi che sono stato a darli le buone feste, non potrà star, che <lb/>
+non succedi qualche cosa tra le partite, et particolarmente in mare. </p>
+<p>Viene riferto, che li serenissimi arciduchi habbino data<ptr target="#tn1" n="1"/> commissione<ptr target="#tn2" n="2"/> <lb/>
+che dalle guarnigioni niune si muovi<ptr target="#tn3" n="3"/> senza precedente <lb/>
+ordine <hi rend="decoded">ma</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">di qua ho cavato non esservi altro commandamento a’ governatori <lb/>
+delle piazze, se non lasciar, che si governino secondo che troveranno il più espediente. <lb/>
+</hi></p>
+<p>S’è entrato in opinione, et concorrono molti in essa, che <lb/>
+Spagnuoli coll’essempio delle passate guerre che dal mese <lb/>
+d’agosto in là hanno sempre profitato; et al contrario <lb/>
+di qua dal mese di maggio fino al luglio per la commodità <lb/>
+delle riviere, et per altro hanno havuto ogni vantaggio, <lb/>
+et più sapendo che li signori Stati hanno maggior commodità <lb/>
+di trovarsi più tosto ad ordine di loro nelle provisioni
+<pb n="054v" facs="10_054v" rend="0"/>
+procureranno di andar dando tempo al tempo per adormen-<lb/>
+tar se potranno. Non si vede<ptr target="#tn5" n="5"/> però, che di qua vi sia questo <lb/>
+pensiero; ma con vigore si camina, et si prosegue in tutte le <lb/>
+cose; et parme di haver scoperto il signor Principe molto ardente <lb/>
+et che con corraggio aspetti le prime mosse. </p>
+<p>Il tempo al presente non è proprio, né l’uscir in campagna <lb/>
+potrà esser, che per maggio; non potendo la cavallaria <lb/>
+haver dove loggiarsi, et pascersi; come anco l’infanteria <lb/>
+mancarebbe di molte commodità in questa stagione, che <lb/>
+può in questi paesi haver ancora il nome del verno. </p>
+<p>Di una dama qui del Paese par che dalla parte di Brusseles si siano <lb/>
+serviti per far publicar qui la buona volontà di quell’Altezze <lb/>
+verso la quiete, et la tranquilità di queste Provincie. Riferisce <lb/>
+ch’elle si erano scontentate di quello, c’ha proposto il <lb/>
+Pecchius; che non era totalmente tale l’intentione loro; che <lb/>
+bisognava, che li signori Stati parlassero; et che in quei principi <lb/>
+vi era tuttavia buona volontà; qui però non se li presta <lb/>
+fede; ma si attende a quello, che più è stimato proprio <lb/>
+al servitio, et mantenimento di queste Provincie, ch’è <lb/>
+l’ordinar bene le sue forze, et dar commandamenti proprii <lb/>
+per vietar quegl’incontri di male, che potessero, senza <lb/>
+preventione, risentirsi nel cuore di questa libertà. </p>
+<p><hi rend="decoded">Mi</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">avisa il Pasini in proposito della risposta data al <lb/>
+Pecchius, che in essenza Spagnoli sono restati mortificatissimi <lb/>
+ma che in apparenza non lo mostrano anzi con</hi>
+<pb n="057r" facs="10_057r" rend="0"/>
+<hi rend="decoded">faccia <lb/>
+piena di altiero vigore fanno gran dimostratione di non <lb/>
+stimar ciò che è seguito. <lb/>
+</hi></p>
+<p><hi rend="decoded">In Anversa, et altri luoghi di Barbant per publico edito de’ <lb/>
+magistrati sono stati essortati li popoli a star lesti, e pronti ad <lb/>
+ogni occorrenza per difendersi, et che le donne haverano cura <lb/>
+a’ loro figliuoli, et alle loro case. <lb/>
+</hi></p>
+<p><hi rend="decoded">Da questa banda anco si è fatto a parte lo stesso, et di più <lb/>
+alcuni predicanti hanno rimostrato al popolo, che difficile sia <lb/>
+il prestar fede allo Spagnolo, che si guardi molto bene da proposta <lb/>
+di qualche accordo, perché sarebbe per apunto un accordar col <lb/>
+diavolo; et che il men fidarsi sia il meglio, et più salutifero <lb/>
+rimedio per mantener, et difender la libertà. <lb/>
+</hi></p>
+<p><hi rend="decoded">Così</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">si passa dall’una, et dall’altra parte, et tanto più si infervorano <lb/>
+da questa, quanto che sono chi gli assicura, che Spagnoli non <lb/>
+vogliono tregua, ma guerra, et che questo stia risoluto alla <lb/>
+corte di Spagna. <lb/>
+</hi></p>
+<p><hi rend="decoded">Sua Eccellenza discorrendo delle forze de’ Spagnoli in Italia dell’apparenza <lb/>
+che vi era, che passassero di qua per congiungerle all’altre di <lb/>
+questi paesi, disse, la Republica resterà libera, et tanto più liberamente <lb/>
+</hi>
+<pb n="057v" facs="10_057v" rend="0"/>
+<hi rend="decoded">potrà aiutarci; et a questo proposito mi adimandò, che è di quel <lb/>
+Cavalliere, che l’anno passato era qui suddito della Republica che <lb/>
+partì per Bohemia; cognobi, che volse inferire del signor Alfonso <lb/>
+Antonini, dissi, che non haveva inteso altrimente, se non che fusse <lb/>
+bene, et che sapeva, che era con carica al servitio di vostra Serenità <lb/>
+ripigliò, se la guerra si fa, non haverà da travagliar di là <lb/>
+potrebbe farlo di qua con qualche truppe italiane; et soggionse, <lb/>
+ben che ve ne pare; io mi ristrinsi nelle spalle, dicendo, che <lb/>
+prima non sapeva il bisogno, che ella potesse havere di <lb/>
+quel signore et tanto manco in che maniera potesse servir qui con <lb/>
+con</hi>* <hi rend="decoded">genti italiane. Rispose, se la Republica non havesse a <lb/>
+far di lui, perché non potrebbe condursi qui con un trecento fanti <lb/>
+et cento cavalli per la prima volta? Et sarebbe stato a conto di <lb/>
+ciò, che la serenissima Republica deve dare a questi stati. Io dissi a sua Eccellenza <lb/>
+che ella sapeva; che l’aleanza non parlava per parte della <lb/>
+Republica che di dar denari; et poi, che sua Eccellenza</hi><ptr target="#tn8" n="8"/> <hi rend="decoded"><lb/>
+poteva anco meglio di me veder se non l’impossibilità <lb/>
+la difficoltà almeno esser grandissima di condur genti; che però come <lb/>
+da me le adimandava</hi>
+<pb n="058r" facs="10_058r" rend="0"/>
+<hi rend="decoded">di qual maniera haverebbe pensato <lb/>
+che ciò si potesse farle</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">calar per terra per la Francia poco a <lb/>
+poco, et per li cavallieri montarli; et armarli di qua. Non propose <lb/>
+il condur per mare; ma solo soggionse; scrivete in prego <lb/>
+questo tanto a nome mio a i vostri signori, che forse la loro <lb/>
+prudenza concorrerà nel mio senso, et comprenderanno <lb/>
+che sarà con vantaggio della serenissima Republica perché si adestreranno <lb/>
+soldati per farli un tempo buon servitio; et più di una <lb/>
+volta mi replicò anco nel partire, che le haverei fatto piacere <lb/>
+di scrivere; mostrando di far capitale, et stima del signor Antonini <lb/>
+per le belle, e degne maniere, con le quali diede a conoscer <lb/>
+all’Eccellenza sua, quando fu qui, la sua intelligenza, et discrettione. <lb/>
+Sodisfo all’istanza del signor principe, et per la risposta, che <lb/>
+attenderà, mi dirà quello, che stimerà proprio per sua prudenza. <lb/>
+Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 12 aprile 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="058v" facs="10_058v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="059r" facs="10_059r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="059v" facs="10_059v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 288 fin 289 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="018">
+<!--
+<p n="059vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 aprile 1621 ricevute 5 maggio n° 288 </p>
+<p>Haya. Secretario Surian. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="019" corresp="018" source="55r-56v" >
+<div type="main" facs="main text of attachment I" n="019" corresp="018" >
+<!--<p>Allegato I al n. 18 (cc. 55r-56v; decodifica di cc. 54v, 57r-58r)</p>-->
+<pb n="055r" facs="10_055r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Decoding by secretary of the encrypted text"/></p>
+<pb n="055v" facs="10_055v" rend="0"/>
+<p><metamark facs="Decoding by secretary of the encrypted text"/></p>
+<pb n="056r" facs="10_056r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="056v" facs="10_056v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "ma … espediente" added above the deleted encrypted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Mi … Gratie etc." decoding of the encrypted text can be found on c. 55r-v; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Corrected above "ho."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "che ella sapeva | che l’a" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-l-" corrected above "-c-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

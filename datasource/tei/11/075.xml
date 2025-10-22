@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.075 date 1622-12-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">075</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 395r-398v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">395r-398v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that military expedition gathered by Maurice of Nassau has been disrupted by cold weather conditions and terrible winds. Many ships have sunk but no-one has died. Upon Maurice’s return to The Hague, Suriano visited him to express relief that Maurice is alive and well. Maurice inquires whether Suriano has more recent information about the intentions of the English king. The Spanish ambassador in London is trying to convince James that Vere is to blame. From Vere there is news that has been ordered to travel to Bremen and embark to England. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-12-12">12 dicembre 1622</date>
+            <num>111</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="111">
+<div type="main" facs="main text of letter" n="111">
+<!--<p>12 dicembre 1622, L’Aia (cc. 395r-398v)</p>-->
+<pb n="395r" facs="11_395r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 448 fin 449 </p>
+<p>Serenissimo Principe </p>
+<p>non si hebbero avvisi del signor principe Mauritio, che il giorno seguente <lb/>
+all’ispeditione delle lettere mie n° 446, et 447 che saranno <lb/>
+replicate con le presenti. La causa di questo ritardamento <lb/>
+fu il gelo, che serrò il Kil luoco vicino a Dort, et<ptr target="#tn1" n="1"/> con <lb/>
+rabbioso vento serrò anco le<ptr target="#tn2" n="2"/> lagune, et fece assai il signor <lb/>
+Principe a salvarsi a Willemstat facendo drizzar il <lb/>
+suo vassello a quella parte quasi alla disperata, altri-<lb/>
+menti correva rischio manifesto. Fu (il giorno primo <lb/>
+del presente) che ’l principe Henrico, il primo che partì di Dort <lb/>
+et arrivò in salvo a Breda per unirsi colla cavallaria quattro <lb/>
+o cinque hore doppo partirono gl’altri. Hebbe il signor <lb/>
+conte Ernesto la vanguardia colli Inglesi, seguitorono <lb/>
+li Francesi, et di retroguardia era il principe Mauritio <lb/>
+con l’altre nationi. Ma il vento sbandò la truppa <lb/>
+intiera de’ vasselli, ch’erano in numero di più di 600 <lb/>
+li vasselli però non portavano che circa quartanta<ptr target="#tn3" n="3"/> alcuni, <lb/>
+altri cinquanta, altri sessanta, chi più chi meno. <lb/>
+Quatordici o quindeci sono restati somersi; ma salvate <lb/>
+le genti, l’armi, et le bagaglie, che vi erano sono andate <lb/>
+al fondo. Molti altri hanno dato in spiaggia chi sfor-<lb/>
+zatamente altri di spontanea volontà, amando più tosto <lb/>
+rompersi in terra, che affogarsi in quell’acque. Il danno <lb/>
+al publico non è stato grande, solo che l’intrapresa
+<pb n="395v" facs="11_395v" rend="0"/>
+è restata per questa volta interrotta. Dico così perché non si <lb/>
+sa, che l’inimico si sia accorto dove fosse drizzata. Quelli <lb/>
+d’Anversa però dubitandone hanno fatte guardie per doi <lb/>
+giorni, et doi notte. Né qui nella commune, meno nel <lb/>
+publico si è ancor scoperto per dove dovesse caminar <lb/>
+il signor Principe essendovi molte piazze, che fanno fron-<lb/>
+tiera, et sul camino, che potevano esser attaccate dalla <lb/>
+parte dello sbarco; che doveva esser fatto al Sual <lb/>
+presso Steemberghen potendo tirar ad Anversa a <lb/>
+Malines, a Brusseles, tirar a Mastricht in Fiandra <lb/>
+et in qualche altro luoco. Si<ptr target="#tn4" n="4"/> è mostrato dispiacere, che <lb/>
+non sia successo il pensiero poiché viene detto, ch’era più che certa la riuscita. Il sabbato notte alli 3 ve-<lb/>
+nendo la domenica dei quattro doveva essequirsi. </p>
+<p>Il conte Ernesto è passato al suo governo in Frisia, et il <lb/>
+signor principe Mauritio<ptr target="#tn5" n="5"/> doppo essersi da Wilemstat condotto <lb/>
+a<ptr target="#tn6" n="6"/> Breda, et haver dati buoni ordini <lb/>
+per il retirarsi delle compagnie alle sue guarnigioni <lb/>
+è rivenuto nell’Haya giovedì a sera col principe <lb/>
+Henrico, et altri del suo seguito. Non si dispera <lb/>
+presuponendosi di haver ancor in mano l’effetto di <lb/>
+detta impresa, et si piglierà l’opportunità servendosi <lb/>
+del beneficio del tempo, che insegnerà il come, et il
+<pb n="396r" facs="11_396r" rend="0"/>
+quando. Alla verità par che questo sia stato un mira-<lb/>
+colo, o una cosa fatale poiché in un instante si può <lb/>
+dire si è fatto il gelo sì forte, che ha chiusi tutti i passi <lb/>
+et il vento sì impetuoso, che ha reso inutile ogni più pro-<lb/>
+veto marinaro et l’onda, a l’acqua, che dall’impeto <lb/>
+della tempesta era portata nelle barche subito si geleva, <lb/>
+né si poteva maneggiar né timoni né vele, et con <lb/>
+difficoltà gl’huomini stessi si potevano regger in piedi <lb/>
+et come in un momento venne questo; così tra la <lb/>
+domenica, et il lunedì sgelò, et s’aqueto la fortuna. </p>
+<p>Le lettere della Serenità vostra dei 17 del passato mi diedero mag-<lb/>
+gior occasione di andar all’Eccellenza sua per rallegrarmi <lb/>
+del suo ritorno, et che in così pericolosa tempesta si <lb/>
+fosse conservato, et conservata insieme la sua militia <lb/>
+l’ufficio fu aggradito da sua Eccellenza, che mi disse haver <lb/>
+scorso un gran naufraggio, et che nella medesima acqua <lb/>
+già 25 anni passati andando pure per un’intrapresa <lb/>
+si somersero da 40 vasselli; che laudava Iddio, che <lb/>
+questa volta non fosse seguito maggior male, et che si <lb/>
+doveva sperare miglior fortuna; et havendole io rap-<lb/>
+presentato il gusto, che la Serenità vostra haveva sentito, che <lb/>
+l’armi nemiche si fossero retirate da Berghen necessitate <lb/>
+dalla prudente maniera con che l’Eccellenza sua conduceva il suo
+<pb n="396v" facs="11_396v" rend="0"/>
+essercito per sforzarnele ringratiò la Serenità vostra et disse esser <lb/>
+sicurissima, che ogni bene di questi paesi sia sentito da lei <lb/>
+con sommo contento. Mi addimandò se havevo qualche <lb/>
+nuova d’Inghilterra intorno le risolutioni di quel Re, et lo <lb/>
+disse con sorriso. Io risposi, che havevo havuto qualche <lb/>
+cosa ma che le mie lettere erano assai vecchie né mi <lb/>
+portavano, che la riserbatezza, con che caminava <lb/>
+quella Maestà senza gran risolutione ripigliò il signor <lb/>
+Principe le più fresche lettere portano il medesimo et quelle <lb/>
+che veniranno non possono portar meglio così compor-<lb/>
+tando la natura del re d’Inghilterra, l’affettione, che ha <lb/>
+al maritaggio, la sugestione di quelli, che sanno maneg-<lb/>
+giar l’inclinatione di quella Maestà, che servono d’<lb/>
+instromento a’ Spagnuoli; et l’artificio delli medesimi <lb/>
+per tenir oppresso l’animo di lei a non mirar né <lb/>
+al proprio, né al commune interesse. Et continuò <lb/>
+ma ve ne aggiungerò un’altra, et è che sono <lb/>
+avvisato, che l’ambasciator di Spagna, querelandosi il <lb/>
+Re della presa di Manheim ha voluto rinversare <lb/>
+et far creder a quella Maestà, che tutta la colpa <lb/>
+debba addossarsi al general Veer, che male si sia <lb/>
+comportato nel ceder così prontamente la piazza et <lb/>
+pur haveva di che, et con che sostenerla; et tanto
+<pb n="397r" facs="11_397r" rend="0"/>
+ha saputo dire, che ha fatto andar in colera il Re contra <lb/>
+il Veer, non ostante disse l’Eccellenza sua che esso Veer habbi havuto <lb/>
+ordine espresso di retirarsi; ma Spagnuoli, ove trovano la <lb/>
+materia disposta le sanno metter a punto il fondamento <lb/>
+et vorrebbono volentieri, che esso Veer non solamente fosse <lb/>
+disgratiato appresso il Re, ma rovinato, et anco vederlo <lb/>
+impicato. Di esso Veer qui ci è avviso, che non <lb/>
+più venirà a Grunighen, ma per ordine del re della <lb/>
+Gran Bertagna doveva andar a Brem, là imbarcarsi <lb/>
+et passar in Inghilterra colle genti, che ha seco: quando <lb/>
+altro commandamento non lo rincontri per camino. </p>
+<p>Non si è qui inteso quello, che certamente habbi scritto <lb/>
+il Chichiester; ma per quanto ne cavo le lettere non <lb/>
+portano, che dei medesimi concetti di promessa, et spe-<lb/>
+ranze poco fondate; et parlando il signor principe <lb/>
+d’Oranges del medesimo Chichiester, havendolo io provo-<lb/>
+cato per saper quello n’haveva inteso, che volete <lb/>
+disse l’havevamo vivo qui nell’Haya; ma arrivato <lb/>
+in Inghilterra è morto come anco degl’altri sono morti <lb/>
+comportando così o l’aria della corte, o la tema <lb/>
+di passar oltre li limiti, che il Principe stesso non <lb/>
+vuol passare. Gratie etc. </p>
+<p>Dall’Haya li 12 decembre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="397v" facs="11_397v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="398r" facs="11_398r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="398v" facs="11_398v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 448 fin 449<ptr target="#tn7" n="7"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="111">
+<!--
+<p n="398vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 decembre 1622 ricevute 25 detto </p>
+<p>Haya. Prima<ptr target="#tn8" n="8"/> n° 448<ptr target="#tn9" n="9"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Precedes "che" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line on "anco" crossed out with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "S-" corrected above "s-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "Henrico" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "entrato" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Seal and traces of seals."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above 2<hi rend="superscript">da</hi>.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-8" corrected above -"9."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.099 date 1622-02-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">099</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 520r-521v, 524, 527</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">520r-521v, 524r-v, 527r-v, 522r-523v, 525r-526v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>States General have chosen Philip Calandrini as the one to whom the subsidies by Venice will be paid, attached he send a copy of letter by the States on this matter. Caladrini is embarking today from Zeeland. Carleton has assured everyone that the king will pay money for the Palatinate on 10 March and will continue to support the cause until reinstatement of Frederick. Wotton has also written that Lionello has been sent by Venice to Mansfelt but Suriano again has to say he does not know. Carleton praises the republic for its actions in protecting the German princes and their freedom. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-02-28">28 febbraio 1622</date>
+            <num>165, 166, 167</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="165">
+<div type="main" facs="main text of letter" n="165">
+<!--<p>28 febbraio 1622, L’Aia (cc. 520r-521v, 524r-v, 527r-v)</p>-->
+<pb n="520r" facs="10_520r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 372 fin 373 </p>
+<p>Serenissimo Principe </p>
+<p>col precedente mio dispaccio de’ 21 dello stante nella seconda delle <lb/>
+mie doi lettere delle quali mando qui aggiunta la replicata <lb/>
+accennai riverentemente a vostra Serenità, che si pensava da questi signori <lb/>
+<hi rend="decoded">inviar</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">persona espressa così per ricever la prima <lb/>
+mesata et le altre che seguitavan in virtù <lb/>
+della promessa della capitulatione: onde <lb/>
+risolvendosi</hi><ptr target="#tn2" n="2"/><hi rend="decoded">della missione, risolsero anco che dal signor principe Mauritio fusse <lb/>
+fatta nominatione del saggetto</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">e</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">mirando <lb/>
+sua Eccellenza come prudente ad elegger <lb/>
+persona che non potesse dar gelosia <lb/>
+alli deputati delle provincie, et che <lb/>
+potesse riuscir grata, principalmente <lb/>
+alla Serenità vostra fece</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">elettione del signor Filippo <lb/>
+Calandrini come quello per le mani del <lb/>
+quale sono passati tutte le spese <lb/>
+et</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">gli affari di vostra Serenità tocanti <lb/>
+le levati et l’espeditione tanto delle <lb/>
+genti da guerra, che delle</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">navi <lb/>
+fatte armar da me per servitio suo <lb/>
+riputando che questo per il merito <lb/>
+suo et per la devotione che mostra <lb/>
+al publico possi riuscir più caro e <lb/>
+più aggradevole di qual si sia altro. <lb/>
+Li signori Stati le hanno date commissioni <lb/>
+per ricever il danaro et lettere per la <lb/>
+Serenità vostra nelle quali è ben espressa <lb/>
+la persona del signor Melchior Noirot <lb/>
+ma in</hi>
+<pb n="520v" facs="10_520v" rend="0"/>
+<hi rend="decoded">effetto esso Calandrini haverà <lb/>
+la principal direttione dell’affare. <lb/>
+</hi> Copia delle lettere <lb/>
+delli signori Stati sarà qui aggiunta, che mi fu portata da doi <lb/>
+deputati dell’Eccellenze loro, che espressamente furono mandati a me <lb/>
+perché con mie secondassi, et raccommandassi ogni buon effetto <lb/>
+parendo che <lb/>
+<hi rend="decoded">si</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">speri che sin da</hi>’<ptr target="#tn9" n="9"/> <hi rend="decoded">9 aprile dell’anno passato <lb/>
+giorno dello spirar della tregua, si <lb/>
+compiacerà vostra Serenità sodisfar al pagargli <lb/>
+delle mesate; che in tal caso si <lb/>
+contenterano impiegar per cinque mesi <lb/>
+il danaro per il sostentamento delle armi del conte <lb/>
+di Mansfelt; et che vostra Serenità dia altre-<lb/>
+tanto: haverà esso Calandrini anco <lb/>
+lettere del signor principe Mauritio et non ho <lb/>
+dubio che l’officio conformerà con <lb/>
+quanto mi disse l’Eccellenza sua hieri quindeci <lb/>
+et lo scrissi con lettere dei 14 del presente. <lb/>
+Hoggi</hi><ptr target="#tn10" n="10"/> <hi rend="decoded"><lb/>
+deve esso Calandrini partir per Zelanda <lb/>
+et quivi imbarcarsi per far con più <lb/>
+diligenza che potrà il suo viaggio. <lb/>
+Haverà anco una lettera mia per vostra Serenità <lb/>
+tocante il particolar interesse suo <lb/>
+per ricever da lei il resto di qualche <lb/>
+mesata di nolo della nave il Leon Felice. <lb/>
+</hi> Merita il zelo, che ha mostrato <lb/>
+verso quella serenissima Republica, et la devotione, che le professa <lb/>
+ogni buon trattamento, et sodisfattione, et io mi trovo in
+<pb n="521r" facs="10_521r" rend="0"/>
+obligo di raccommandarlo, come faccio affettuosamente a vostra Serenità. </p>
+<p>Per quanto ho potuto scoprire il signor principe Mauritio haverebbe <lb/>
+voluto <lb/>
+<hi rend="decoded">far</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">elettione di più eminente soggetto <lb/>
+ma ha pensato che esso Calandrini <lb/>
+farà minor strepito; come mercanti <lb/>
+et come noto et amato da vostra Serenità <lb/>
+potrebbe far meglio et più prontamente <lb/>
+il servitio. <lb/>
+</hi></p>
+<p>Si aspettano con gran desiderio lettere di Danimarca per quello, <lb/>
+che haverà cavato da quel Re il Camerario.</p>
+<p>Questo signor ambasciator Carleton conferma qui ad ognuno, come ha <lb/>
+fato a me ancora, che l’aiuti del suo Re saranno pronti <lb/>
+che a’ x di marzo prossimo principierà ad esborsarsi <lb/>
+il denaro per servitio del Palatinato, et che la Maestà sua <lb/>
+non si obligava per mesi; ma per quanto tempo sarà <lb/>
+necessaria la sua assistenza, et fino che li suoi figlioli sa-<lb/>
+ranno restituiti nel suo dominio. Et queste Maestà <lb/>
+si mostrano contente dell’avviso; sperando, che questo possi dar animo anco ad altri principi di dichiarirsi, et <lb/>
+sostentar le cose sue. </p>
+<p>Altro avviso anco tengono di costì scritto dal signor cavalier Wton <lb/>
+che vostra Serenità habbi ispedito al signor conte di Mansfelt il signor <lb/>
+secretario Lionello, il che (come credono vero) viene ben inteso <lb/>
+dalle Maestà loro; promettendosi, che questa missione <lb/>
+sia punto essentiale per loro persuadendosi<ptr target="#tn12" n="12"/>, che non <lb/>
+possi esser, che per assicurar il conte di Mansfelt <lb/>
+di questo ne fui ricercato dal signor Ambasciator inglese, né
+<pb n="521v" facs="10_521v" rend="0"/>
+essendone io informato manco seppi risponder; et egli mi disse <lb/>
+che il signor Wton lo scriveva con tanta osservanza, che non <lb/>
+poteva creder altrimenti. </p>
+<p><hi rend="decoded">Entrò</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">a laudar la prudenza della Serenissima <lb/>
+e dice che il sostenimento del Conte <lb/>
+era il sostenimento delli principi d’Alemagna <lb/>
+et della libertà propria di essa per</hi><ptr target="#tn14" n="14"/> <lb/>
+<hi rend="decoded">fare equilibrio alla grandezza et <lb/>
+vastezza dei pensieri della casa <lb/>
+d’Austria; et de’</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">Spagnuoli in particolare. <lb/>
+Che si prometteva che vostra Serenità havuta <lb/>
+in consideratione la piena con che <lb/>
+camina la fortuna loro et d’Austriaci <lb/>
+vorrà prudentemente far diversione; <lb/>
+et questa diversione si poteva persuader <lb/>
+con buon fondamento che haverebbe <lb/>
+servito a nuova ferma</hi><ptr target="#tn16" n="16"/> <lb/>
+<hi rend="decoded">unione delli principi protestanti, che già <lb/>
+sono stati in lega, e tutto stava <lb/>
+nel venir a questo punto; et che <lb/>
+per venirvi, non vi era altro rimedio <lb/>
+che sostentar l’armi et li progressi <lb/>
+di Mansfelt: che sapeva bene che <lb/>
+da questa parte si sarebbe fatto <lb/>
+tutto quel più che si havesse potuto <lb/>
+ma che la vera sussistenza di <lb/>
+esso Mansfelt consisteva <lb/>
+</hi>
+<pb n="524r" facs="10_524r" rend="0"/>
+<hi rend="decoded">in una <lb/>
+generosa risolutione di quella serenissima Republica. <lb/>
+Io parlo, disse, confidentemente con voi <lb/>
+et la dico come l’intendo et credo <lb/>
+che incontro con i sensi di quell’eccellentissimo <lb/>
+Senato</hi><ptr target="#tn17" n="17"/>. <lb/>
+Io non rispuosi <lb/>
+altro se non che tenevo per certo, che la prudenza di <lb/>
+vostra Serenità prevedendo li pericoli iminenti tanto a <lb/>
+sé stessa, che a’ suoi amici haverebbe pensato a quel <lb/>
+miglior rimedio, che fosse stato in suo potere con mira <lb/>
+di dar sicurezza a sé stessa, et alle cose sue, et di <lb/>
+apportar profitto anco ai communi interessi. </p>
+<p>Mi aveggo bene, che da questa parte si getta l’occhio, et si <lb/>
+sta con orrecchio attento per vedere, et per sentir <lb/>
+quello, che da lei sarà operato in frangenti, et <lb/>
+in congionture di tanto momento, et in che consiste <lb/>
+come viene considerato <lb/>
+<hi rend="decoded">il</hi><ptr target="#tn18" n="18"/> <hi rend="decoded">sollievo della Germania, il dar</hi><ptr target="#tn19" n="19"/> <hi rend="decoded"><lb/>
+cuore ai principi disuniti di far nuova <lb/>
+unione; il divenir li accordi del principe <lb/>
+Gabor che qui non si hanno ancor le <lb/>
+nuove che del tutto sian stabiliti; et <lb/>
+in</hi><ptr target="#tn20" n="20"/> <hi rend="decoded">dar così proprio equilibrio alla <lb/>
+potenza spagnuola fine necessario a che <lb/>
+deveno mirar tutti li principi, che <lb/>
+hanno necessitata gelosia, et deveno <lb/>
+</hi>
+<pb n="524v" facs="10_524v" rend="0"/>
+<hi rend="decoded">haver giusto prudente timore, che essi <lb/>
+Spagnuoli non</hi><ptr target="#tn21" n="21"/> <hi rend="decoded">piglino maggior <lb/>
+piede con detrimento della libertà delle <lb/>
+Republiche, e de’ Stati et</hi><ptr target="#tn22" n="22"/> <hi rend="decoded">de’ principi <lb/>
+liberi.</hi> Questi <lb/>
+sono i discorsi, che passano serenissimo Principe, che mi è <lb/>
+parso proprio non tralasciarne la sostanza per il riflesso <lb/>
+prudente, che ne possi haver la Serenità vostra. </p>
+<p>Li deputati, che mi portorono le lettere delli signori Stati fecero ufficio <lb/>
+meco in conformità<ptr target="#tn23" n="23"/> di esse toccante la persona dell’eccellentissimo <lb/>
+signor ambasciator Morosini; usando parole degne, et honorevoli verso <lb/>
+quell’eccellentissimo signore; et ringratiando vostra Serenità di tal elettione per <lb/>
+nome di sue Eccellenze iscusorono anco la dilatione<ptr target="#tn24" n="24"/> alla venuta <lb/>
+del loro per l’absenza del signor Arsen senza dir di vantaggio et in […] <lb/>
+complii anco con parole generali in conformità. Gratie etc. </p>
+<p>Dall’Haya li 28 febraro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="527r" facs="10_527r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="527v" facs="10_527v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 372 fin 373 </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="165">
+<!--
+<p n="527vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 febraro 1621<ptr target="#tn25" n="25"/> ricevute a’ 24 marzo 1622 </p>
+<p>Haia. n° 372. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="166" corresp="165" source="522r-523v" >
+<div type="main" facs="main text of attachment I" n="166" corresp="165" >
+<!--<p>Allegato I al n. 165 (cc. 522r-523v; decodifica di cc. 520r-521v, 524r-v)</p>-->
+<pb n="522r" facs="10_522r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 372 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="522v" facs="10_522v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="523r" facs="10_523r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="523v" facs="10_523v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="167" corresp="165" source="525r-526v" >
+<div type="main" facs="main text of attachment II" n="167" corresp="165" >
+<!--<p>Allegato II al n. 165 (cc. 525r-526v)</p>-->
+<pb n="525r" facs="10_525r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Copia delle lettere delli signori Stati Generali alla serenissima Republica <lb/>
+tradotta dal francese dei 14 febraro 1622 </p>
+<p>Serenissimo Principe illustrissimi et eccellentissimi signori collegati, et confederati </p>
+<p>è lungo tempo, che con gran desiderio noi habbiamo aspet-<lb/>
+tata la risolutione vostra intorno alle precedenti nostre <lb/>
+per haver l’assistenza accordata per la cambievole conventione <lb/>
+nostra poiché il re di Spagna ci pressava con tre grandi <lb/>
+armate tutte in una volta, et ci forzava di far estreme <lb/>
+spese per mar, et per terra a fine di reprimer il suo <lb/>
+sforzo col mezo d’una generosa difesa; et poiché il signor <lb/>
+Suriano vostro residente qui li giorni passati ci ha <lb/>
+testificata la singolar affettione, che la Serenità vostra porta <lb/>
+alla conservatione de’ nostri affari, et ch’ella s’è riso-<lb/>
+luta di accomplir le conditioni del detto trattato <lb/>
+et di esborsar il primo mese nelle mani dell’ambasciator nostro <lb/>
+che resiedesse presso di vostra Serenità, o di quello, che haverebbe <lb/>
+carica da noi, il che parimente doppo è stato confirmato <lb/>
+per lettere proprie della Serenità vostra de’ 7 del mese di genaro <lb/>
+passato, che ci sono state presentate dal medesimo signor Suriano. <lb/>
+Noi habbiamo occasione grande di renderne gratie a vostra Serenità <lb/>
+molto affettuosamente, et rinovar la sicurezza, che <lb/>
+habbiamo per lo innanti diverse volte data, che non <lb/>
+mancaremo di esserne ricognitori con ogni debita <lb/>
+gratitudine, et intiero compimento della detta conventione. <lb/>
+Ma poiché l’incaminamento del signor di Somerdich verso <lb/>
+vostra Serenità in qualità di nostro ambasciatore si ritarda ancora <lb/>
+rispetto all’ambasciata straordinaria presso al re della </p>
+<pb n="525v" facs="10_525v" rend="0"/>
+<p>Gran Bertagna della quale noi l’habbiamo incaricato. <lb/>
+Noi pregamo vostra Serenità di haver a grado, che ’l pagamento del detto <lb/>
+primo mese sia dato in mano di Melchior Noirott, che tiene <lb/>
+carica da noi, et ne darà quientanza convenevole in nome <lb/>
+nostro, et di voler anco insieme dar ordine intorno al pagamento <lb/>
+delli altri mesi seguenti già scaduti; et che ancor scaderanno <lb/>
+poiché ciò n’è interamente necessario per sopportar le spese della <lb/>
+nostra guerra, che sono molto grandi, et eccessive, rispetto <lb/>
+alla forza, che l’inimico ci fa giornalmente, et ci minaccia <lb/>
+ancor di vantaggio. Quanto alla nominatione, che vostra Serenità <lb/>
+s’è compiacciuta di fare della persona dell’illustrissimo signor Marc-<lb/>
+antonio Morosini, al presente ambasciator in Savoia per risieder <lb/>
+nella qualità medesima presso di noi ci è ella riuscita molto <lb/>
+cara, et sarà il detto signor Ambasciatore benissimo ricevuto, et veduto <lb/>
+tanto per le sue buone qualità, che per l’honor della sua carica <lb/>
+et senza dubio procederanno da ciò effetti convenevoli <lb/>
+al mantenimento, et augumentatione della buona corrispon-<lb/>
+denza tanto per l’utile delle nostre Republiche, che della <lb/>
+christianità tutta. Per tanto noi pregaremo Iddio. </p>
+<p>Serenissimo Principe illustrissimi et eccellentissimi signori collegati, et confederati <lb/>
+per la prosperità vostra lunga, et felice vita. </p>
+<p>Data nell’Haya li 14 febraro 1622 </p>
+<pb n="526r" facs="10_526r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="526v" facs="10_526v" rend="270"/>
+<p>Copia della lettera delli signori <lb/>
+Stati </p>
+<p>nelle prime n° 372 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "inviar … direttione dell’affare" decoding of the encrypted text can be found on c. 522r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-si" corrected above "-mi" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "che" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "f-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "ch" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "si … il Leon Felice" decoding of the encrypted text can be found on c. 522v; with cross-reference sign.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes "ma deve esso Calandrini" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "far … il servitio" decoding of the encrypted text can be found on c. 522v; with cross-reference sign.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-rs-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Entrò … eccellentissimo Senato" decoding of the encrypted text can be found on cc. 522v-523r; with cross-reference sign.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "fa" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line on "che" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "il … de’ principi | liberi" decoding of the encrypted text can be found on c. 523v; with cross-reference sign.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-n" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "preghino" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "delle" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "del" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

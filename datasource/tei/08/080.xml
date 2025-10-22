@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.080 date 1620-01-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">080</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 430r-431v, 434r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">430r-431v, 434r-v, 432r-433v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Made payments for two monhts for shil Il leon felice, 4400 ducats to Perez. Calandrini is in The Hague with the letters of claimants of seven ships, whose return is eagerly anticipated. He sends overview of payments and elaborates on oustanding ones. From Admiralty in Rotterdam he receives claims of widows of sailors who were on the burnt ship. One document attached: a letter of exchange</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-01-20">20 gennaio 1620</date>
+            <num>135, 136</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="135">
+<div type="main" facs="main text of letter" n="135">
+<!--<p>20 gennaio 1620, L’Aia (cc. 430r-431v, 434r-v)</p>-->
+<pb n="430r" facs="08_430r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 171<ptr target="#tn1" n="1"/> fin 172 </p>
+<p>Serenissimo Principe </p>
+<p>la passata settimana feci lettere sotto li 15 del presente per <lb/>
+doi mesi per la nave Il leon felice, et sono il settimo, et <lb/>
+l’ottavo cominciati a’ 26 ottobre, et fornirono a’ 25 <lb/>
+decembre, doveranno esser pagati li quattromilla, et <lb/>
+quattrocento ducati in banco al signor Nicolo Perez. </p>
+<p>Il signor Calandrini è qui meco. A nome de’ compartecipi <lb/>
+delle sette<ptr target="#tn2" n="2"/> navi m’ha rappresentato il ritorno delle lettere <lb/>
+che loro havevo fatte, affine di haverne il pagamento. </p>
+<p>Queste sono per doi mesi, che farò pagare: et tanto <lb/>
+a questi, che agl’altri resteranno doi <lb/>
+mesi per uno, et più anco quanto più ritardano <lb/>
+li vasselli a comparire. Di Trapani in Sicilia <lb/>
+si ha solo avviso, che ivi aspettavano le dette <lb/>
+sette navi con alcune di Alessandria il vento buono <lb/>
+per venir allo Stretto. Dio glielo mandi, et faccia, <lb/>
+che vengano presto altrimenti ogni giorno si avanza <lb/>
+l’interesse a vostra Serenità che è quello, che così Dio m’aiuti <lb/>
+m’appassiona, et travaglia l’animo. </p>
+<p>Ho stimato a proposito far un estratto del denaro, che <lb/>
+resta esborsato sin qua delle lettere di cambio, che <lb/>
+per settanta mille ducati ho tratte alla Serenità vostra in <lb/>
+quattro volte da 12 novembre fin 13 del presente </p>
+<pb n="430v" facs="08_430v" rend="0"/>
+<p>Vedrà, che detratta la summa espressa per denaro dato <lb/>
+a queste Amiralità, et per il pagamento dei noli, restano <lb/>
+in circa dodici<ptr target="#tn3" n="3"/>, o tredici milla fiorini. Hora si doverà <lb/>
+pagar per tutte le navi com’è detto ancor doi <lb/>
+mesate di noleggio, et più. Vi saranno anco li pagamenti <lb/>
+de’ viveri, et de salarii per tutti li matelotti, et questi <lb/>
+in particolare bisognerà, che siano pronti per evitar <lb/>
+maggior spesa, et interessi a vostra Serenità, et però converrò <lb/>
+dar nuove lettere al detto signor Calandrini al <lb/>
+partir suo di qua. </p>
+<p>Per le sole navi per li restanti mesate non so se baste-<lb/>
+ranno sessanta milla fiorini, che vuol dir vinti-<lb/>
+tré in ventiquattro milla<ptr target="#tn4" n="4"/> et più ducati;<ptr target="#tn5" n="5"/> </p>
+<p>Per li salarii de’ matelotti vi vorranno più di cento <lb/>
+et forse centovintimilla fiorini, che saranno passa <lb/>
+cinquanta milla ducati. </p>
+<p>Vi saranno poi li viveri che importeranno summa <lb/>
+considerabile. Per il vero non saprei così precisamente <lb/>
+farne il calcolo: credo ben certo che mi atterirà <lb/>
+sentirne il conto. Si compiacerà per tanto la <lb/>
+Serenità vostra far quella provisione, che sente<ptr target="#tn6" n="6"/> esser <lb/>
+necessaria: perché la prontezza del denaro è qui
+<pb n="431r" facs="08_431r" rend="0"/>
+necessaria et<ptr target="#tn7" n="7"/> per il vantaggio, et per la riputatione; et <lb/>
+necessario anco l’esborso a chi sono dirette le <lb/>
+lettere acciò possino restar consolati. </p>
+<p>Quelli dell’amiralità di Roterdam mi diedero ultimamente <lb/>
+conto della pretensione di alcune donne mogli di <lb/>
+alcuni di quei marinari, che si sono abbruggiati <lb/>
+col vassello, che hebbe la disaventure dell’incendio, <lb/>
+et era di haver una mesata doppo la morte delli mariti; rappresentandomi esser questo l’uso del <lb/>
+Paese, et che se bene in conformità di esso, et dell’auttorità <lb/>
+che potevano havere, haverebbono potuto far tal <lb/>
+esborso di pietà, et carità: in ogni modo me ne havevano <lb/>
+voluto dar parte per haver anco il mio assenso. Io li <lb/>
+ho risposto, ringratiandoli del segno, che mostravano <lb/>
+di haver a cuore gl’affari della serenissima Republica; ma che <lb/>
+per la consequenza, et per altro non potevo prendermi <lb/>
+né dar loro questa auttorità, mentre havevo anco <lb/>
+scritto alla Serenità vostra che tutto era stato pagato da <lb/>
+sue Signorie che era dovuto, et che già mai mi era stato <lb/>
+fatto moto di questo tanto. Tale in sostanza è il <lb/>
+contenuto della mia risposta: non so quello risolveranno <lb/>
+mentre dicono, et così mi par d’intender questo
+<pb n="431v" facs="08_431v" rend="0"/>
+esser l’uso del Paese. </p>
+<p>Sono morti anco degl’altri marinari sopra l’altre navi, et <lb/>
+sopra quella abbruggiata ancora, oltre li consumati <lb/>
+dal fuoco, et il dimandar la mesata morta, come <lb/>
+chiamano qui per li soli abbruggiati ha causato<ptr target="#tn8" n="8"/> <lb/>
+in me qualche pensiero, che il dar parola di consenso <lb/>
+non partorisce qualche argumento di pretensione alli <lb/>
+partionevoli del vassello. </p>
+<p>Mi viene affermato, che sono stati, et forse sono ancora <lb/>
+a Roterdam. Da quei signori non mi viene scritta alcuna <lb/>
+cosa. Io mostrerò di non saper<ptr target="#tn9" n="9"/> niente, et arman-<lb/>
+domi alla difesa, aspetterò quello vorranno fare. Gratie etc. </p>
+<p>Dall’Haya li 20 genaro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="434r" facs="08_434r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="434v" facs="08_434v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n° 171 fin 172 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="135">
+<!--
+<p n="434vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 gennaro 1619 ricevute a’ 5 febraro </p>
+<p>Del segretario Surian. n° 171 </p>
+<p>Ha fatto lettere di cambio per Il <lb/>
+leon felice. </p>
+<p>Farà il pagamento per le lettere ritornate. </p>
+<p>Manda estratto del danaro esborsato <lb/>
+per lettere di cambio. </p>
+<p>Si doveranno far diversi pagamenti <lb/>
+vi vorrà danari assai. </p>
+<p>Dimanda si facci la provisione che <lb/>
+par: perché è necesaria la prontezza <lb/>
+del danaro. </p>
+<p>Dimanda l’amiralità di Roterdam <lb/>
+sia dato alle donne dei marinari <lb/>
+abbrucciati una mesata dopo <lb/>
+la morte essendo così l’uso del <lb/>
+Paese: ha risposto il secretario <lb/>
+che hanno havuto quanto deveno: <lb/>
+dice dubitar che tal dimanda <lb/>
+di mesata morta possa augu-<lb/>
+mentar qualche pretensione <lb/>
+a’ portionevoli del vassello abbrucciato. </p>
+<p>L. SS. X. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="136" corresp="135" source="432r-433v" >
+<div type="main" facs="main text of attachment I" n="136" corresp="135" >
+<!--<p>Allegato I al n. 135 (cc. 432r-433v)</p>-->
+<pb n="432r" facs="08_432r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Aya n° 171 </p>
+<pb n="433r" facs="08_433r" rend="270"/>
+<p>1619 </p>
+<p>Lettere di cambio ricevute dal signor <lb/>
+residente Suriano da esser <lb/>
+paghate a Venetia da sua Serenità <lb/>
+al signor Melchior Noirott </p>
+<table>
+<row role="label">
+<cell><p>a’ 12 novembre una di</p></cell>
+<cell><p>fiorini 20000 </p></cell>
+</row>
+<row>
+<cell><p>19 detto un’altra di</p></cell>
+<cell><p>fiorini 10000 </p></cell>
+</row>
+<row>
+<cell><p>15 dicembre un’altra di</p></cell>
+<cell><p>fiorini 20000 </p></cell>
+</row>
+<row>
+<cell><p>13 gennaro un’altra</p></cell>
+<cell><p>fiorini 20000 </p></cell>
+</row>
+<row>
+<cell><p>sono in tutto fiorini 70000 a piacchi <lb/>
+46 per ducato sono fiorini</p></cell>
+<cell><p>fiorini 161000 </p></cell>
+</row>
+</table>
+<p n="433rB">———</p>
+<p>1619 </p>
+<p>Segueno le partite sborsate come appresso </p>
+<table>
+<row role="label">
+<cell><p>pagato al’amiralità di Roterdam in più volte</p></cell>
+<cell><p>fiorini 22986, 16 </p></cell>
+</row>
+<row>
+<cell><p>paghato al’ amiralità di Amsterdam in più volte</p></cell>
+<cell><p>fiorini 42000 </p></cell>
+</row>
+<row>
+<cell><p>paghato al’amiralità di Northolandia</p></cell>
+<cell><p>fiorini 12000 </p></cell>
+</row>
+<row>
+<cell><p>Queste partite sono per il pagamento de’ matelotti <lb/>
+delle 5 nave, 4 ritornate et una <lb/>
+abrugiata, da darne conto esse Amiralità </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>paghato al capitan Prost per 2 lettere di cambio <lb/>
+ritornate di Venetia della nave Lo specchio <lb/>
+per il 14 15 16 17<hi rend="superscript">mo</hi> mese a fiorini 2200 per mese</p></cell>
+<cell><p>fiorini 8800 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Carità per 2 lettere tornate <lb/>
+come sopra a fiorini 1800 per mese</p></cell>
+<cell><p>fiorini 7200 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave San Christoffaro per 2 lettere come <lb/>
+sopra a fiorini 2400 il mese</p></cell>
+<cell><p>fiorini 9600 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Leon d’oro per dui lettere <lb/>
+come sopra a fiorini 2400 il mese</p></cell>
+<cell><p>fiorini 9600 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave 3 re abrugiatasi a <lb/>
+conto di una lettera ritornata di dui <lb/>
+mesi a fiorini 2050 il mese</p></cell>
+<cell><p>fiorini 2050<ptr target="#tn10" n="10"/> </p></cell>
+</row>
+<row>
+<cell><p>Resta di questa lettera ancora un mese <lb/>
+fino alla liquidattione de’ conti </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>pagato per la nave San Marco per una lettera tornata <lb/>
+di Venetia del […]<ptr target="#tn11" n="11"/> a <lb/>
+fiorini 3600 per mese</p></cell>
+<cell><p>fiorini 7 200 </p></cell>
+</row>
+</table>
+<pb n="432v" facs="08_432v" rend="270"/>
+<table>
+<row role="label">
+<cell><p>paghato per la nave San Francesco per una lettera <lb/>
+come sopra a fiorini 2400 per mese</p></cell>
+<cell><p>fiorini 4800 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Menisseherch per una <lb/>
+lettera come sopra a fiorini 2550</p></cell>
+<cell><p>fiorini 5100 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Emaus per una lettera <lb/>
+come sopra a fiorini 2400</p></cell>
+<cell><p>fiorini 4800 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Santa Giustina per una lettera <lb/>
+come sopra a fiorini 2050</p></cell>
+<cell><p>fiorini 4100 </p></cell>
+</row>
+<row>
+<cell><p>paghato per la nave Re David per una <lb/>
+lettera come sopra a fiorini 1600</p></cell>
+<cell><p>fiorini 3200 </p></cell>
+</row>
+<row>
+<cell><p>In tutto paghato la somma di</p></cell>
+<cell><p>fiorini 147536, 16 </p></cell>
+</row>
+</table>
+<pb n="433v" facs="08_433v" rend="90"/>
+<p>Nelle prime 171 </p>
+<p n="433vB">———</p>
+<p>Calculo del denaro hauto per 4 lettere <lb/>
+di cambio 12 et 19 novembre 15 <lb/>
+decembre et 13 gennaro 1620 <lb/>
+dalla Haya </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-1 esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-o- corretta su -a-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue et per depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Corretto su , ."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o corretta su -a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue ad depennato, come pare."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-05- esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Foro nel supporto."</p></note>
+</div>
+</body>
+</text>
+</TEI>

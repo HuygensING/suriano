@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.011 date 1616-08-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 142r-143v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Letter edited in Italian and translated into Dutch: Brieven van Lionello en Suriano uit Den Haag aan de Doge en Senaat van Venetië in de jaren 1616, 1617 en 1618 bevens verslag van Trevisano betreffende zijne zending naar Holland in 1620 (Utrecht, Kemink &amp; Zoon, 1883), pp. 90-91.
+            </note>
+            <biblScope unit="page">140r-141v, 142r-143v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports in this brief letter that Johann Ernst of Nassau has offered his services to the Venetian Republic. Describes Johann Ernst of Nassau as an experienced military commander, adding that he has the necessary funds to levy troops and transport them to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-08-16">16 agosto 1616</date>
+            <num>044, 045</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="044" corresp="045" source="140r-141v" >
+<div type="main" facs="main text of attachment I" n="044" corresp="045" >
+<!--<p>Allegato I al n. 45 (cc. 140r-141v)</p>-->
+<pb n="140r" facs="02_140r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Serenissime Prince </p>
+<p>j’ay receu un extreme regret, lors que i’ay entendu, que ces <lb/>
+remuements et braise de guerre, qui ont commencé a paroistre, <lb/>
+en ces quartiers, ne sont encores assopis; laquelle certitude, m’ayant <lb/>
+poussé d’un desir de rendre service à ceste serenissime Republicque. <lb/>
+J’ay entré en communication d’affaire avecq le sieur Christoffle <lb/>
+Suriano, gentilhomme et secretaire d’icelle, auquel ayant <lb/>
+faict ouverture de mon intention, comme vostre Serenité verra <lb/>
+plus amplement, hors des conditions que j’ay proiecté, auxquelles <lb/>
+je me remects du tout. Il plaira à jcelle de les examiner, <lb/>
+et si elle at mon service agreable, de faire la dessus entendre <lb/>
+sa resolution. Asseurant vostre Serenité qu’elle ne seauroit <lb/>
+faire election de personne, qui sera trouvé plus prompt et <lb/>
+disponsé à rendre service, pour le bien, manutention et <lb/>
+tranquillité de la Republicque, que moy. Qui baisant <lb/>
+humblement les mains à vostre Serenité priera le tout puissant <lb/>
+qu’il luy plaise. </p>
+<p>Serenissime Prince, conserver vostre Serenité en sa </p>
+<p>saincte protection et saulveguarde. </p>
+<p>De vostre Serenité </p>
+<p>bien humble seviteur </p>
+<p>Jean Ernest de Nassau </p>
+<p>Della Haye ce 22<hi rend="superscript">e</hi> d’aoust <lb/>
+1616 </p>
+<pb n="140v" facs="02_140v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="141r" facs="02_141r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="141v" facs="02_141v" rend="0"/>
+<p>Au serenissime prince <lb/>
+de Venice </p>
+</div>
+</div>
+<div type="letter" n="045">
+<div type="main" facs="main text of letter" n="045">
+<!--<p>16 agosto 1616, L’Aia (cc. 142r-143v)</p>-->
+<pb n="142r" facs="02_142r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havevo serrate l’altre mie lettere, et stavo per ispedirle <lb/>
+quando in questo punto ho inteso, che se vostra Serenità <lb/>
+volesse impiegar nel suo servitio il signor conte Gio. Ernesto <lb/>
+di Nassau, egli lo abbraccierebbe volontieri con quelle <lb/>
+conditioni, che fossero fermate, et stabilite con sodisfattione <lb/>
+della Serenità vostra, purché ella facesse instanza alli signori <lb/>
+Stati Generali d’haver la persona sua. Ho cavato di <lb/>
+più, che come è soggetto di qualità, di valore, et <lb/>
+d’isperienza, colonello intertenuto in questi paesi <lb/>
+et che ha commandato nell’impresa di Giuliers <lb/>
+vorrà far levata di buon numero di genti, et che <lb/>
+anco vi vorrà qui il denaro per essa, et per la sua <lb/>
+condotta per mare; ma quando havesse la <lb/>
+permissione da’ signori Stati vi concorrebbe insieme <lb/>
+l’assistenza del signor principe Mauritio suo cugino; <lb/>
+onde penso che ’l tutto potrebbe caminar sicuramente. <lb/>
+Intendo, che ’l medesimo signor Conte forse mi parlarà in questo <lb/>
+proposito, intenderò ciò che vorrà dire, et rappresenterò <lb/>
+poi il tutto col prossimo ordinario alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haye a’ 16 agosto 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="142v" facs="02_142v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="143r" facs="02_143r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="143v" facs="02_143v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="045">
+<!--
+<p n="143vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 agosto 1616 ricevute 7 settembre </p>
+<p>Secretario Surian dall’Aye </p>
+<p>2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

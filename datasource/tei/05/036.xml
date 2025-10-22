@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.036 date 1617-12-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">036</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 212r-213v, 216r-217v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">212r-213v, 216r-217v, 214r-215v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The postmaster from Dordrecht has brought a packet of letters from Venice via Cologne which made him worried that the letters may have been intercepted. Due to news that a courier from Augsburg has been robbed, he will duplicate of his previous dispatch dated 15 December and with the next those of 23 December. Outlines his efforts to maintain good relationship with States General and indicates that they are awaiting a response from Venice. Visited Maurice to exchange Christmas wishes . Reference past correspondence concerning the hiring of ships and troops for service in Venice, providing details about the cost and arrangements. Requests instructions from Venice to expedite these matters. News from Amsterdam that the ships of knights of Malta have attacked pirats. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-25">25 dicembre 1617</date>
+            <num>065, 066</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="065">
+<div type="main" facs="main text of letter" n="065">
+<!--<p>25 dicembre 1617, L’Aia (cc. 212r-213v, 216r-217v)</p>-->
+<pb n="212r" facs="05_212r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>mentre stavo pure con sospensione, et col dubio, che <lb/>
+fossero state intercette le lettere della Serenità vostra del primo <lb/>
+del presente hieri doppo ’l mezo giorno, quando meno <lb/>
+me lo aspettavo, il messaggiero di Dordrechet mi <lb/>
+portò il pacchetto venuto<ptr target="#tn1" n="1"/> da quella parte per <lb/>
+via di Colonia<ptr target="#tn2" n="2"/> cosa insolita. Io sono restato grandemente sollevato <lb/>
+nell’animo perché temevo certo, che fosse andato <lb/>
+a male né ho saputo vedere, che fosse stato tocco, <lb/>
+et era ben conditionato. Il messaggiero, che me <lb/>
+lo ha portato non mi ha saputo dir altro se non <lb/>
+che sabbato l’ha ricevuto a Dordrechet. </p>
+<p>Havend’io avanti hieri ispedito il mio dispaccio <lb/>
+ordinario per via d’Anversa ho stimato <lb/>
+mio debito trovandomi in tempo di scriver per la <lb/>
+via di Colonia, et significar come faccio a vostre Eccellenze <lb/>
+illustrissime la ricevuta di dette lettere, et con questa <lb/>
+occasione mando il duplicato di quanto<ptr target="#tn3" n="3"/> <lb/>
+scrissi ai 15 del passato, et veniva coll’ordinario di <lb/>
+Augusta, ch’è stato svaleggiato, ancorché non <lb/>
+contenga, che ’l solo avviso dell’esser stata veduta
+<pb n="212v" facs="05_212v" rend="0"/>
+al Capo Finis Terre la flotta del capitano di Levenstein. Et <lb/>
+coll’ordinario venturo manderò la replicata delle lettere <lb/>
+de’ 23 et di queste, poiché ambidoi devono capitar <lb/>
+di mani quindeci insieme col corriero d’Augusta, <lb/>
+et così farò di tempo in tempo. </p>
+<p>Osserverò li comandamenti della Serenità vostra che veggo espresse <lb/>
+nelle sue lettere de primo dello stante intorno al <lb/>
+nutrir la buona disposizione di questi signori a vantag-<lb/>
+gio del commune servitio, et essequirò quanto mi <lb/>
+commette che in questo proposito io dica <hi rend="decoded">come</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">anco quanto all’aleanza, <lb/>
+introdurrò come da me di quei <lb/>
+rispetti, che mi sono dalla prudenza son <lb/>
+stati somministrati, ancor chi ella mi <lb/>
+commanda, finché haverò alta <lb/>
+commissione</hi><ptr target="#tn5" n="5"/>. </p>
+<p>Doppo che li signori Stati Generali mi diedero la risposta <lb/>
+che a’ 4 ispedii alla Serenità vostra et replicai a’ 9 <lb/>
+non me n’è stato molto parlato come dalle mie <lb/>
+susseguenti haverà inteso <hi rend="decoded">perché</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">stano in espettatione della <lb/>
+</hi>
+<pb n="213r" facs="05_213r" rend="0"/>
+<hi rend="decoded">risposta, che ne sia per venir dalla <lb/>
+Serenità vostra, congetturando essi per quanto <lb/>
+posso penetrar, che la sua dichiarazione <lb/>
+per quale ella si sia, debba servirli <lb/>
+ad assicurarsi, se veramente vostra Serenità <lb/>
+voglia unirsi a queste provintie. <lb/>
+</hi></p>
+<p><hi rend="decoded">In questo posso affermarle esser fisso <lb/>
+il loro pensiero, et temo grandemente che <lb/>
+siano per caminar a lenti passi per far <lb/>
+qualche buona rissolutione, et massime ne’ <lb/>
+correnti emergenti senza una <lb/>
+previa certa conoscenza et sicurezza</hi><ptr target="#tn7" n="7"/><hi rend="decoded">, che ella <lb/>
+voglia stringersi in aleanza con loro, <lb/>
+mentre che ella deliberi sopra quanto <lb/>
+le ho inviato per parte de’ detti signori <lb/>
+Stati, ordopo le ho anco scritto, mi <lb/>
+contenirò in quei limiti, che mi si <lb/>
+devono. <lb/>
+</hi></p>
+<pb n="213v" facs="05_213v" rend="0"/>
+<p>Passata questa santissima giornata dal Natale a commo-<lb/>
+dità del signor principe Mauritio mi troverò coll’Eccellenza sua <lb/>
+et essequirò anco con lei li publici comandamenti nel <lb/>
+commandar il suo concetto di corrispondenza di ministro <lb/>
+da questa parte verso la Serenità vostra per quei rispetti, <lb/>
+che sono dalla prudenza di lei considerati, et io <lb/>
+parimente considererò al medesimo signor Principe <lb/>
+l’occasione delle feste, et per conseguente la strettezza del <lb/>
+tempo mi leva, ch’io non posso dar alla Serenità vostra <lb/>
+l’informatione che desidera per le navi<ptr target="#tn8" n="8"/> non <lb/>
+mancarò di farlo riferendomi in tanto a quanto <lb/>
+colle mie de’ 23 le ho humilmente scritto andarmi <lb/>
+per la mente et se volesse navi da particolar <lb/>
+mercanti potrà far riveder, se così si <lb/>
+compiace<ptr target="#tn9" n="9"/> <lb/>
+le lettere dell’anno passato scritte a’ 17 di <lb/>
+questo stesso mese di decembre, nella<ptr target="#tn10" n="10"/> quale<ptr target="#tn11" n="11"/> era inclusa <lb/>
+una scrittura molto distinta datami per nome di <lb/>
+alcuni mercanti, che fecero offerta in questo <lb/>
+proposito <hi rend="decoded">essendo</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">descritto in essa, come dovevano <lb/>
+esser armate le navi, le pretensioni <lb/>
+del stipendio, et del tempo per esser <lb/>
+intartenute; è vero, che non so, se al <lb/>
+presente saranno nella medesima volontà, <lb/>
+et parmi di sovvenirmi, che gli stessi, che <lb/>
+mi diedero la scrittura m’affermasse <lb/>
+allhora, che quando si havesse a far <lb/>
+anco qualche levata di gente, che di <lb/>
+vasselli porterebbono da 200 fanti in circa per cadauno, per quale vostra Serenità si <lb/>
+</hi>
+<pb n="216r" facs="05_216r" rend="0"/>
+<hi rend="decoded">haverebbe a far altra spesa che per il loro vito, che sarebbe di sei <lb/>
+soldi, o piachi di questa moneta <lb/>
+per ciascheduno soldato al giorno, et <lb/>
+dieci per quelli officiali o altri, che <lb/>
+mangiassero alla tavola del <lb/>
+patron del vassello, come pagò appunto <lb/>
+il signor conte Gio. Ernesto di Nansau</hi><ptr target="#tn13" n="13"/><hi rend="decoded">, et <lb/>
+accostumano li signori Stati, et potrebbe <lb/>
+anco far caricar in essi qualche <lb/>
+munitione per proprio uso: tutto sta <lb/>
+se li medesimi, come ho detto saranno <lb/>
+della volontà dell’anno passato, <lb/>
+massime havendo l’essempio di <lb/>
+quanto paga la Serenità vostra le <lb/>
+navi, che di questi paesi tiene al presente <lb/>
+in suo servitio, che è più di quello, che <lb/>
+dimandavano; onde in tal caso <lb/>
+</hi>
+<pb n="216v" facs="05_216v" rend="0"/>
+<hi rend="decoded">sarebbe necessario, ch’ella mi dicesse la sua <lb/>
+libera volontà per minor perdita di tempo. <lb/>
+Anco in lettere pur di 16 novembre par dell’<lb/>
+anno passato mandai una polizza <lb/>
+della spesa, che si fa per una nave da <lb/>
+guerra, et un’altra più distinta <lb/>
+polizza inviai con altre lettere de’ 20 <lb/>
+del medesimo nello stesso particolare, de <lb/>
+maniera che da questo in che era <lb/>
+particolarmente consigliata a comprar <lb/>
+li vasselli, et da quella delli detti <lb/>
+mercanti, caverà la Serenità vostra quello, <lb/>
+che stimerà proprio per il suo servitio. <lb/>
+Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya a’ 25 decembre 1617 </p>
+<p>di vostra Serenità, </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="217r" facs="05_217r" rend="0"/>
+<p>Si ha avviso di Amsterdam, che ’l vassello della Religion di <lb/>
+Malta, che come ho scritto colle mie de’ 23 era stato <lb/>
+attaccato da pirati habbi havuto da far a salvarsi <lb/>
+dalle loro mani, perché quattro di detti vasselli <lb/>
+[di]<ptr target="#tn14" n="14"/> corso lo havevano abordato, et hanno attaccato <lb/>
+insieme una gagliarda scaramuccia, ch’ho seguita <lb/>
+con morte, et<ptr target="#tn15" n="15"/> effusione di molto sangue. Pur <lb/>
+in fine salvandosi si è retirato a Calis vicino allo <lb/>
+stretto di Gibilterra havendo rotti arbori, antere, <lb/>
+et patito non poco nella borana. Ho stimato l’avviso <lb/>
+degno della notitia della Serenità vostra, et per questo <lb/>
+lo aggiungo qui, essendomi capitato in punto, che <lb/>
+havevo già sottoscritto le presenti. </p>
+<p>Dall’Haya a’ 25 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore, </p>
+<p>Christofforo Suriano </p>
+<pb n="217v" facs="05_217v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="065">
+<!--
+<p n="217vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>25 decembre 1617 ricevute a’ 10 gennaro </p>
+<p>Haya </p>
+<p>L. SS. R.<ptr target="#tn16" n="16"/> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="066" corresp="065" source="214r-215v" >
+<div type="main" facs="main text of attachment I" n="066" corresp="065" >
+<!--<p>Allegato I al n. 65 (cc. 214r-215v; decodifica di cc. 212v-213v, 216r-v)</p>-->
+<pb n="214r" facs="05_214r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="214v" facs="05_214v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="215r" facs="05_215r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="215v" facs="05_215v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "di Colonia" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "di quanto" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "come … commissione" decoding of the encrypted text can be found on c. 214r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Finché averò altra commisisone" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "perché … che mi si devono" decoding of the encrypted text can be found on c. 214r-v; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "et sicurezza" added above the line.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the deleted encrypted text.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "et se volesse … si compiace" added above the deleted encrypted text.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-a" corrected above -and.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "essendo … Gratie etc." decoding of the encrypted text can be found on cc. 214v-215v; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> There is a hole in the page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "effus-" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line on "L. SS. R." crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

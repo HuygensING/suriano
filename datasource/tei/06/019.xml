@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.019 date 1618-04-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 117r-118v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">117r-118v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the additional 5000 ducats after the letter of exchange for 13000 has pleased the States. In Brussels news that the peace treaty between Spain and Savoy will not go through as planned because the Venetian state wants matters to be resolved in the Gulf. Oldenbarnevelt is preoccupied because a work has been published attacking him of taking Spanish bribes.The congregation of Holland will meet soon. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-04-23">23 aprile 1618</date>
+            <num>034</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="034">
+<div type="main" facs="main text of letter" n="034">
+<!--<p>23 aprile 1618, L’Aia (cc. 117r-118v)</p>-->
+<pb n="117r" facs="06_117r" rend="0"/>
+<head>main text of letter</head>
+<p>Seconda </p>
+<p>n° 29 </p>
+<p>Serenissimo Principe </p>
+<p>l’aggiunta che vostra Serenità mi fa delle altre lettere di <lb/>
+cambio per tredici milla, et più ducati ricevute <lb/>
+con l’istesso dispaccio, dei 6 apporta anco maggior <lb/>
+il contento a questi signori, et dà riputatione alla Serenità vostra <lb/>
+la summa delli cinquanta milla ducati sarà per <lb/>
+qualche tempo sufficiente, onde come sarà ella <lb/>
+arrivata ad una tal provisione potrà trattenersi <lb/>
+fino ad altro mio reverente avviso. </p>
+<p>L’assemblea dei Stati non è in numero se non di sette, <lb/>
+over otto, non essendo ancor li deputati delle <lb/>
+Provincie tornati. Et non si sono ridotti la <lb/>
+passata settimana, che una sol volta, onde <lb/>
+ho differiti li miei ufficii, se ben in particolare <lb/>
+non ho mancato di rinovarli, et di tener in <lb/>
+buona dispositione questi pochi al pensar bene <lb/>
+ai communi interessi. </p>
+<p>Publicano in Brusseles, che l’accordo tra Spagna <lb/>
+et Savoia non ha per andar avanti dicendosi, <lb/>
+che se bene don Pietro ha accettata la ratifica-<lb/>
+tione del disarmamento non sa però l’Altezza sua, <lb/>
+trovar la stradda di restituir l’occupato, et
+<pb n="117v" facs="06_117v" rend="0"/>
+portano le lettere, che tutto si attribuisce all’Eccellenze vostre <lb/>
+dicendosi, che elle procurano che sua Altezza non si accordi <lb/>
+se prima non resta sopita la differenza del golfo <lb/>
+per non rimaner sole nei travagli, et bersagliate <lb/>
+dall’inimico. Il che io non mancarò di far apparer <lb/>
+diversamente, et procurerò, che tanto maggiormente <lb/>
+siano conosciuti gl’artificii dei Spagnuoli, et le loro <lb/>
+radicate male volontà j<ptr target="#tn1" n="1"/> coprendo il proprio mancamento <lb/>
+coll’inventioni lontane dalla propria verità. </p>
+<p>Sta monsignor Bernvel molto occupato di mente, et n’ha <lb/>
+ragione, per la publicatione di un libro in stampa <lb/>
+nel qual si sparla contro la sua persona, et le sue <lb/>
+attioni, dichiarandolo spagnolizato, che tiri pensioni <lb/>
+o habbi havuti denari di Spagna, tocca quelli <lb/>
+della sua casa, et dice altre cose molto piccanti <lb/>
+contro di lui. È scritto nella lingua di questo Paese. Si <lb/>
+ha sospetto che<ptr target="#tn2" n="2"/> l’auttore sia uno di Brabant. <lb/>
+In Amsterdam è prigioniero<ptr target="#tn3" n="3"/> un notaro complice <lb/>
+come dicono, et par che esso Bernvel sia stato <lb/>
+consigliato a non lasciar detto libro senza risposta <lb/>
+la libertà del Paese, et d’imprimer ciò che l’huomo
+<pb n="118r" facs="06_118r" rend="0"/>
+vuole causa di questi incontri. Et tratta anco detto <lb/>
+libro il punto di religione sopra il quale è preso il <lb/>
+concetto del detrahere alla riputatione et contra la persona <lb/>
+adherenti, et parenti del detto Bernvel. </p>
+<p>La congregazione di Holanda si riunirà per questo punto <lb/>
+di religione alla fine<ptr target="#tn4" n="4"/> della presente settimana <lb/>
+o principio dell’altra; ma sendosi caminato sin qui <lb/>
+con irresolutioni non si sa promettersi se non altrettanto <lb/>
+per l’avenire. Quello segue di bene è che non <lb/>
+succedono scandali; procurandosi da più prudenti <lb/>
+con il negotio et colla speranza dell’essito tenir <lb/>
+in officio li popoli. Gratie etc. </p>
+<p>Dall’Haya a’ 23 aprile 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="118v" facs="06_118v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>seconda n° 29 comincia <lb/>
+n° 28 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="034">
+<!--
+<p n="118vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 april 1618 ricevute a’ 9 maggio </p>
+<p>Haya. n° 29 </p>
+<p>Le rimesse dano sodisfatione a quei signori <lb/>
+et reputatione alla Republica: basteranno <lb/>
+fin a cinquantamille. </p>
+<p>Ha differito gl’uffici per non esser l’ancella <lb/>
+all’ordini. </p>
+<p>In Brusseles dicono, la pace con Savoia non anderà avanti. </p>
+<p>Atribuiscono l’impedimento alla Republica <lb/>
+che vogli veder accomodate prima <lb/>
+le cose di golfo: procurerà <lb/>
+far saper la verità et li loro artefici. </p>
+<p>Publicatione d’un libro contra Bernvel. </p>
+<p>Congregatione d’Olanda per la relegione <lb/>
+si unirà. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "uno" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "de pri" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

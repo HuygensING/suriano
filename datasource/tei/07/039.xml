@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.039 date 1619-01-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">039</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 247bis r-250v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">248r-250v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that members of Amsterdam Admiralty have visited States General to tell them they have received letters from men on the 5 ships. They have also visited Suriano to tell him that more than 500 men are ill and that the Venetian Republic has refused them a medic. He requests to solve this situation to avoid reputational damage for the Republic. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-01-27">27 gennaio 1619</date>
+            <num>080</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="080">
+<div type="main" facs="main text of letter" n="080">
+<!--<p>27 gennaio 1619, L’Aia (cc. 248r-250v)</p>-->
+<pb n="248r" facs="07_248r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 83 comincia 82 </p>
+<p>Serenissimo Principe </p>
+<p>per qualche altro affare sono venuti qui doi delli signori dell’<lb/>
+amiralità di Amsterdam. Con tal occasione hanno communicate <lb/>
+alli signori Stati le lettere che hanno havute dalli capitani<ptr target="#tn1" n="1"/> <lb/>
+delle cinque navi della loro ripartitione che sono in servitio <lb/>
+della Serenità vostra ricevute per mano del loro agente, et altre <lb/>
+scritte a’ 25 del passato. Già con le mie de’ 8 et con le <lb/>
+sussequenti significai alla Serenità vostra li compianti, et le <lb/>
+difficoltà, che non replicarò per non dar noia alla Serenità vostra <lb/>
+et pur troppo temo riuscirle molesta anco questa nuova <lb/>
+aggiunta; ma non devo tralasciar di scriverla mentre <lb/>
+il rimedio, che la prudenza di lei può apportare<ptr target="#tn2" n="2"/> riuscirà <lb/>
+a servitio delle cose sue in armata, di riputatione <lb/>
+in questi paesi, et di contento insieme alle genti <lb/>
+interessate. </p>
+<p>Li doi sopradetti venero a me così ordinati a significarmi quanto <lb/>
+havevano et è che tenevano avviso che trovandosi più di <lb/>
+cinquecento amalati sopra le dodici navi era stato dai <lb/>
+ministri della Serenità vostra negato il darli un medico, et medi-<lb/>
+camenti, volendo che li capitani fossero sottoposti a <lb/>
+questo aggravio, il che allegavano esser loro impossibile <lb/>
+che quello che più travagliava era, che l’eccellentissimo signor Generale <lb/>
+col suo Consiglio haveva in risolutione, che anco così <lb/>
+amalati andassero al mare, che se questo succedeva <lb/>
+era un ruinar affatto l’armata, che per consequente <lb/>
+non si pensava di metter li amalati nelli hospitali come <lb/>
+havevano fatto instanza. In oltre si sono doluti che <lb/>
+si vuole che prendino le monete a maggior prezzo
+<pb n="248v" facs="07_248v" rend="0"/>
+del lor valore, et che il patto era di haver sette lire di <lb/>
+moneta corrente per doi fiorini, et mezo; che quando si <lb/>
+havesse a continuar di questa maniera più tosto pregavano <lb/>
+essi signori a procurar che fossero licentiati. </p>
+<p>Di più mi dissero, che ricercavano, che si augumentasse la <lb/>
+paga per li viveri, facendo un conto, che non era possibile <lb/>
+che potessero mantener le genti con quello ch’era stato <lb/>
+loro deliberato di qua, et che ogni bocca comprando la <lb/>
+robba di là costava otto piacchi, et mezo per giorno. </p>
+<p>Io risposi che poiché le lettere erano tanto vecchie, che mi <lb/>
+promettevo che fino a quest’hora sarebbe stato rimediato <lb/>
+a tutto, et che sapevo che vostra Serenità coll’occasione del passar <lb/>
+in armata del nuovo eccellentissimo Capitan generale haveva dato<ptr target="#tn3" n="3"/> <lb/>
+all’<ptr target="#tn4" n="4"/> Eccellenza sua ogni più buon ordine perché le genti di <lb/>
+questi paesi ricevessero ogni più conveniente sodisfattione, <lb/>
+che mi dispiaceva in estremo, che quei capitani dassero <lb/>
+molestia con loro lettere di qua potendo<ptr target="#tn5" n="5"/> esser certi che <lb/>
+più pronto haveriano il rimedio, et il contento di là, <lb/>
+che la carità della serenissima Republica era conosciutissima, et che non <lb/>
+vi era apparenza, che ella né li suoi rappresentanti <lb/>
+volessero veder patire genti che hanno fatto così lungo <lb/>
+viaggio con dimostratione di voler ben servirla; che <lb/>
+poteva ben esser che si prendesse qualche fondamento <lb/>
+dell’obligo a’ capitani alla cura degl’<ptr target="#tn6" n="6"/> amalati<ptr target="#tn7" n="7"/> <lb/>
+per la sodisfattione che del denaro publico è stata fatta per <lb/>
+le<ptr target="#tn8" n="8"/> casse<ptr target="#tn9" n="9"/> ai barbieri. Mi risposero<ptr target="#tn10" n="10"/> che quelle erano per <lb/>
+li feriti, et che per l’altre malatie, se bene parerebb[e]<ptr target="#tn11" n="11"/>
+<pb n="249r" facs="07_249r" rend="0"/>
+che in rigore non fosse obligata la Republica in ogni modo la <lb/>
+munificenza, et carità di lei doveria farlo, come sono soliti <lb/>
+anco li signori Stati far qui con li suoi marinari. </p>
+<p>Quanto alla valuta del denaro dissi che a me pareva impos-<lb/>
+sibile, che non si prendesse abuso dai capitani poché la serenissima <lb/>
+Republica non è già mai solita di retener<ptr target="#tn12" n="12"/> un soldo di quello <lb/>
+viene promesso per nome di lei; onde sopra ciò non vedevo che <lb/>
+vi fosse molto da dire, havendo essi la dichiaratione nell’in-<lb/>
+struttione datali prima che partissero di qua, che debbino <lb/>
+haver di là sette lire, et di qua per sette lire cinquanta <lb/>
+piacchi; onde tanto più mi confirmavo dell’abuso. </p>
+<p>Per l’augumento per li viveri li assicurai, che se li rappresentanti <lb/>
+la Serenità vostra vedranno, che importi più la spesa per ogni testa <lb/>
+di sei piacchi per giorno comprando la robba di là vi si haverà <lb/>
+quel riguardo che comporta il dovere, et a che è stata <lb/>
+obligata sua Serenità in caso che li viveri costino più di là <lb/>
+che<ptr target="#tn13" n="13"/> in questi paesi; come havevo anco <lb/>
+altra volta detto nel loro Collegio. </p>
+<p>Non puotero li detti signori far di meno di non approbar quanto <lb/>
+li dissi; ma mi pregorono in ogni modo di scriver perché si <lb/>
+mettesse buon ordine a tutte le cose; replicandomi della missione <lb/>
+dei roli, et della deputatione di particolar commissario; et <lb/>
+mi aggiunsero, che havevano detto alli signori Stati, per nome <lb/>
+dei loro colleghi, che era necessario il tenir altro stile, quando <lb/>
+si habbi a continuare (come vi è l’apparenza) il ser-<lb/>
+vitio colle dette dodici navi. Et uno di essi signori in <lb/>
+particolare disse bisogna far<ptr target="#tn14" n="14"/> in altra maniera; un
+<pb n="249v" facs="07_249v" rend="0"/>
+giorno bisognarà, che facciamo tutto a nostre spese, et così la serenissima <lb/>
+Republica non haverà altro pensiero; et queste Provincie nelle <lb/>
+sue occasioni haveranno<ptr target="#tn15" n="15"/> aiuto dalla Republica”. Concetti della <lb/>
+commune universal intentione di venir ad una reciproca <lb/>
+unione. </p>
+<p>Mi parlorono poi del trattenimento straordinario per l’Amiraglio havendo <lb/>
+egli scritto, che dovessero raccomandarmi la persona sua <lb/>
+accioché io ancora la raccommandassi alle Signorie vostre eccellensittime il che <lb/>
+dissi haver fatto, et che credevo che già si fosse stabilito al-<lb/>
+cuna cosa. Et me lo raccommandorono anco perché <lb/>
+si havesse riguardo alle spese ch’era necessitato far straor-<lb/>
+dinarie nella sua nave perché venivano<ptr target="#tn16" n="16"/> molti a trovarlo <lb/>
+come amiraglio, et col semplice salario di capitanio<ptr target="#tn17" n="17"/> non <lb/>
+poteva salvarsi<ptr target="#tn18" n="18"/>. Dissi, che a questo toccava all’eccellentissimo signor <lb/>
+Capitan generale haver riguardo, et dar parte alla Serenità vostra <lb/>
+quando non volesse prender auttorità di fargli donativo. </p>
+<p>In fine mi dissero, che non sarebbe stato che di suo gran <lb/>
+servitio l’haver sodisfatto in quanto honestamente si havesse <lb/>
+potuto quelle genti per tenirsele amorevoli; et io dissi che <lb/>
+tutto si faceva, et che sapevo certo che vostra Serenità non<ptr target="#tn19" n="19"/> mirava <lb/>
+se non che fossero contenti. </p>
+<p>Et prima di partir da me dicendo di haver ricevuto il denaro <lb/>
+già ordinato dissero che<ptr target="#tn20" n="20"/> haverebbono, et essi, et gl’altri collegi havuto <lb/>
+bisogno di nuova provisione. Io dissi, che ne haverei scritto <lb/>
+a vostra Serenità; ma dubito d’esser di nuovo tanto insolentato <lb/>
+che per non haver nuovi strepiti, et nuove spese con disgusto et mal <lb/>
+contento converrò far qualche risolutione sul fatto; in ogni modo <lb/>
+doveranno risponder. Porterò avanti quanto potrò. Gratie etc. </p>
+<p>Dall’Haya a’ 27 genaro 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="250r" facs="07_250r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="250v" facs="07_250v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 83 comincia 82 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="080">
+<!--
+<p n="250vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 gennaro 1618 ricevute 20 febraro </p>
+<p>Aia. n° 83 </p>
+<p>Li signori dell’amiralità d’Ansterdam a due<ptr target="#tn21" n="21"/> <lb/>
+per altro hanno comunicato ai Stati le lettere <lb/>
+dei capitani delle navi che sono in servitio <lb/>
+con condoglianze: che sarà di profitto <lb/>
+qualche rimedio. </p>
+<p>Li medesimi d’Ansterdam si dolgono sia sta <lb/>
+negato medico e medicine ad amalati: <lb/>
+et fatti andar li infermi al mare <lb/>
+né si pensava di metterli in hospitali. </p>
+<p>Si lamentano del prezzo delle monete, <lb/>
+et quando s’habbi a continua si licentiino. </p>
+<p>Ricercano augumento di paga per li viveri <lb/>
+non potendosi mantener le genti. </p>
+<p>Risponde il secretario ch’essendo le lettere <lb/>
+vecchie finhora deve esser rimediato <lb/>
+et fa ufficio in tutti i punti tale <lb/>
+che approbano quanto disse. </p>
+<p>Pregano a scriver di metter buon <lb/>
+ordine in tutte le cose et deputar il <lb/>
+commissario. </p>
+<p>Et disse uno d’essi bisognerà un dì <lb/>
+facciamo tutto a nostre spese, et queste <lb/>
+Provincie nell’occasione haveranno <lb/>
+aiuto dalla Republica. </p>
+<p>Raccommandano l’Armiraglio <lb/>
+et il dar sodisfatione alle genti. </p>
+<p>Dice il secretario di scriverne, et <lb/>
+facendo essi<ptr target="#tn22" n="22"/> instanza di nuova <lb/>
+provisione; dice il secretario crede convenirà <lb/>
+risolversi sul fatto. Portando <lb/>
+avanti quanto potrà. </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "capi-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o-" corrected above -"a-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-o" corrected above -"a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "E(ccellenza) s(ua)" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "pote-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "hab-" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "sopra […]" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> There is a hole in the page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> First "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "se si haverà quel" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "con" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-(n)no" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line on "starvi" crossed out with an insertion mark .</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "fa" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "dissero che" added above the line with an insertion mark.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

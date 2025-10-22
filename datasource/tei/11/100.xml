@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.100 date 1623-02-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">100</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 549r-552v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">549r-552v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of information about Berck, Dutch resident in Venice, he will use it when necessary. Maurice has news that the Spanish are moving to Sluis and that they have received large sums of money. Various reports that the troops of Duke of Saxe-Altenburg (Johann-Philip?) has been disbanded and that he is left penniless. News from Rota about disagreement between Mansfeld and Christian the Younger. The remainder of letter contains a variety of reports from Holy Roman Empire, including that the Hanseatic cities and lower Saxony are arming themselves and waiting for further news from Diet in Regensburg. Imprisonement of Abram Pesini who was paymaster of John Ernst of Nassau and further people have been arrested in the treason case. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-02-27">27 febbraio 1623</date>
+            <num>153</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="153">
+<div type="main" facs="main text of letter" n="153">
+<!--<p>27 febbraio 1623, L’Aia (cc. 549r-552v)</p>-->
+<pb n="549r" facs="11_549r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 474 fin 475 </p>
+<p>Serenissimo Principe </p>
+<p>nelle lettere di vostra Serenità dei 3 dello stante ricevo la scrittura dell’<lb/>
+ambasciator di questi signori Stati, et la risposta datagli da quell’eccellentissimo <lb/>
+Senato: tutto mi servirà, secondo il commandamento di lei per <lb/>
+informatione; et risponderò principalmente nel particolar <lb/>
+dell’assistenza<ptr target="#tn1" n="1"/> di quella maniera, che dalla <lb/>
+Serenità vostra m’è ingiunto, quando me ne sia parlato. Ho <lb/>
+havuta occasione di veder qualcheduni di questi signori; ma <lb/>
+non m’è stata intorno ciò tocca parola, segno che ancor <lb/>
+non havevano havuto avviso dall’ambasciator loro di quello <lb/>
+haveva havuto in risposta. </p>
+<p>La sera di hoggi otto il signor principe Mauritio hebbe un avviso <lb/>
+che Spagnuoli havevano fatte marchiar alcune genti <lb/>
+verso la Fiandra, et particolarmente all’intorno di Gantes, ch’è <lb/>
+presso all’Esclusa; onde subito fece partir il governator <lb/>
+di quella piazza, ch’era qui; ma sin hora non si è <lb/>
+havuto altro del disegno, che habbino essi Spagnuoli. <lb/>
+Viene anco avvisato, che ’l marchese Spinola doveva <lb/>
+pur passar in Fiandra. </p>
+<p>Si vanno da’ detti Spagnuoli riempiendo li loro reggimenti, <lb/>
+et publicano, che li siano venute lettere per far partito <lb/>
+di doi milliona<ptr target="#tn2" n="2"/> et mezo, il che m’è stato affermato <lb/>
+da signor principale; metà per Fiandra, metà per Alemagna <lb/>
+ma il medesimo signore mi ha aggiunto, che li mercanti <lb/>
+stanno molto retirati nell’intricarsi nel partito;
+<pb n="549v" facs="11_549v" rend="0"/>
+mentre ancor non vi era avviso dell’arrivo della flotta: <lb/>
+tuttavia di Brusseles ho nuova che in quella corte si <lb/>
+diceva, come di cosa fatta, che vi fosse venuta provisione <lb/>
+di doicentovinti milla fiorini per mese per dieci mesi. </p>
+<p>Diverse lettere sono capitate qui alla corte del Re con avvisi <lb/>
+conformi, che quelli tre milla fanti, et da quattro in <lb/>
+cinquecento o seicento cavalli, che ’l duca di Sassonia di <lb/>
+Altemburgh haveva già in piedi si erano tutti sbandati <lb/>
+et correvano in parte alla volta di Mansfelt, havendo <lb/>
+alcuni fatto prigione il commissario dei Spagnuoli, volendo <lb/>
+le genti<ptr target="#tn3" n="3"/> esser pagate. Sono da sei mesi in circa state <lb/>
+trattenute dal detto Duca, et ha speso a tal effetto <lb/>
+vicino a centomilla raistaleri del suo. Resterà hora <lb/>
+senza denari, et senza genti per haver voluto accostarsi <lb/>
+al partito spagnuolo. </p>
+<p>Mi scrive il signor Rota con sue lettere de’ 16 del presente ricevute <lb/>
+sabbato, che ’l duca Guglielmo di Sassoniar<ptr target="#tn4" n="4"/> di Weimar <lb/>
+haveva mandato espressamente al conte di Mansfelt per <lb/>
+offerirgli alcune delle sue truppe, et delle sudette <lb/>
+ancora del duca d’Altemburgh; et che ’l medesimo <lb/>
+Mansfelt haveva riespedito a quella volta uno <lb/>
+dei suoi colonelli per accettar le conditioni. </p>
+<p>Continua<ptr target="#tn5" n="5"/> per quello veggo nelle lettere del medesimo Rota, et per <lb/>
+gl’avvisi, che qui anco si hanno la mala intelligenza
+<pb n="550r" facs="11_550r" rend="0"/>
+tra Bransvich, et Mansfelt, et si tiene, che si separeranno <lb/>
+l’uno dall’altro, il che da questi signori, da sua Eccellenza et dal Re <lb/>
+che pur faceva qualche fondamento in quelle forze unite <lb/>
+da quella parte, è risentito in estremo; et tanto, che non <lb/>
+sapendo per la distanza, come rimediarvi, comprendono, <lb/>
+che la disunione non può, che riuscir di grandissimo pregiudicio <lb/>
+ad ambidoi in particolare, et in generale al publico, et commune <lb/>
+interesse. Et tanto più risente sua Eccellenza questi avvisi quanto <lb/>
+che il Duca haveva fatte promesse grandissime al partir <lb/>
+di qua di agiustarsi con Mansfelt in maniera, che <lb/>
+tutto passasse bene. </p>
+<p>Si vanno armando a furia le città ansiatiche, et altri principi <lb/>
+della Bassa Sassonia si armano per ostar all’inimico spagnuolo <lb/>
+et austriaco; et a Mansfelt, et Bransvich perché amici <lb/>
+non corrino a nudrirsi sopra li loro paesi, come nemici. <lb/>
+Già il duca di Bransvich si trova in doi o tre piazze <lb/>
+sopra il Vesar, che sono de’ amici, et si aspetta sentire <lb/>
+che il re di Danimarca interessato sia per farne <lb/>
+risentimento colla forza. </p>
+<p>Continua la voce della riduttione di quella dieta nella Bassa <lb/>
+Sassonia al tempo nominato nelle precedenti lettere mie <lb/>
+ma sarà con quei fini, che nelle medesime riverentemente scrissi. </p>
+<p>Del duca di Sassonia elettore non si sa altro se non che <lb/>
+ancor stia irresoluto nelle sue deliberationi. Non si dichiara
+<pb n="550v" facs="11_550v" rend="0"/>
+et gl’altri principi protestanti stanno quieti. </p>
+<p>S’aspetta di giorno in giorno il scioglimento della dieta di <lb/>
+Ratisbona, che viene qui scritta, che sarà particolarmente <lb/>
+per l’elettorato con il portar il tempo innanti; ma il <lb/>
+conte di Solms ha avvisi<ptr target="#tn6" n="6"/>, che non li piacciono molto <lb/>
+che nell’Imperatore sia gran risolutione d’investirne in <lb/>
+ogni modo Baviera. </p>
+<p>Di Brusseles mi viene scritto, che per Inghilterra era stato ispedito <lb/>
+il consegliero<ptr target="#tn7" n="7"/> Buscot non si penetrava il perché; ma <lb/>
+si publicava, che fosse per indur quella Maestà a metter <lb/>
+nelle mani della serenissima Infanta Franchendal. Altro <lb/>
+bisogna, che vi sia et che ciò non servi che di pretesto <lb/>
+mentre già molto fa gl’ordini sono stati dati perché <lb/>
+si metti quella piazza in mano dei Spagnuoli: ma <lb/>
+di questo vostra Serenità deverà esservi pienamente informata <lb/>
+dall’eccellentissimo Valaresso. </p>
+<p>Fino a’ 17 dello stante erano a Brusseles li ambasciatori delli duchi <lb/>
+di<ptr target="#tn8" n="8"/> Bransvich, et di<ptr target="#tn9" n="9"/> Lunemburgh per fermar il <lb/>
+punto della neutralità; nel che havevano essi ambasciatori <lb/>
+acconsentito, con riservar però l’aggreatione, o <lb/>
+consenso dei loro principi: in tanto si sente qualche <lb/>
+effetto di questa neutralità, sendosi in quello di <lb/>
+Lunemburgh impediti alcuni soldati, che andavano <lb/>
+a Mansfelt. </p>
+<pb n="551r" facs="11_551r" rend="0"/>
+<p>Corre qui una voce doppo l’ultimo ordinario di Francia <lb/>
+che Spagnuoli habbino fatto intender al Christianissimo, che <lb/>
+se vorrà attentar alcuna cosa sopra la Valtelina <lb/>
+essi entreranno in Picardia con forze tali, che ben <lb/>
+divertiranno questi sensi, et le colegationi, che si <lb/>
+fanno contro di loro; onde questi signori argomentano <lb/>
+che sua Maestà christianissima per prevenire si conferisca in <lb/>
+quella Provincia a proveder a tutte quelle piazze <lb/>
+frontiere. Da Brusseles però non si sente motivo <lb/>
+che corrispondi a simil voce. </p>
+<p>Alcune navi di mercantie non molto grandi in numero <lb/>
+di nove sono state prese da quelle di guerra di <lb/>
+Doncherchen; et la colpa si deve imputar ai proprii <lb/>
+patroni, che non hanno voluto aspettar li vasselli <lb/>
+da guerra di questi signori, che sono soliti accompagnar <lb/>
+simil sorte di navi mercantili, et sono<ptr target="#tn10" n="10"/> essi vasselli <lb/>
+da guerra in busca d’altri dell’inimico per haver la <lb/>
+loro vendetta. </p>
+<p>Hanno li Signori Stati col Consiglio di Stato, deliberato d’ispedir <lb/>
+uno del medesimo Consiglio a Bergh sopra il Zuom <lb/>
+per assister, et solicitar lo spianar di certe monta-<lb/>
+gnole di sabbia, che si trovano all’intorno di <lb/>
+quella piazza a fine di levar quella commodità, <lb/>
+che l’anno passato hebbe lo Spagnuolo di alloggiarsi
+<pb n="551v" facs="11_551v" rend="0"/>
+coperto; et nel resto attendono alle altre provisioni necessarie <lb/>
+et<ptr target="#tn11" n="11"/> all’inventioni per trovar danari a sufficienza da <lb/>
+mettersi a buon hora in campagna et prevenir l’inimico. <lb/>
+Nella lettera, che ispedii la settimana passata n° 473<ptr target="#tn12" n="12"/> che <lb/>
+con le doi prima et 2<hi rend="superscript">da</hi> dell’istesso giorno sono qui aggiunte <lb/>
+in replica, diedi conto a vostra Serenità della prigionia del figliolo <lb/>
+maggiore del già Bernvelt, doppo, il mercordì, fu con-<lb/>
+dotto il secretario di Berchel.<ptr target="#tn13" n="13"/> Hoggi la mattina è stato <lb/>
+condotto et carcerato Abram Pesini quello che fu pagatore <lb/>
+del già conte di Gio. Ernesto di Nassau, quando fu al servitio <lb/>
+di lei et doi altri di Leidem li doi fratelli Blancert <lb/>
+tutti imputati del medesimo delitto di tradimento contra questo <lb/>
+Stato, et contra sua Eccellenza, et altri se ne aspettano. <lb/>
+In tanto questa mattina sono stati fatti morir quattro <lb/>
+che sono li primi che furono presi il<ptr target="#tn14" n="14"/> marangone, et <lb/>
+tre marinari. Tutti hanno havute tronche le teste <lb/>
+che si metteranno sopra a palli in luochi publici, <lb/>
+et il primo è stato messo in quarti. Il figliolo di <lb/>
+Bernvelt è stato da tre giorni in qua ristretto <lb/>
+et già si fa cattivo giudicio di lui; dicendosi, che <lb/>
+il denaro in gran parte sia uscito dalli<ptr target="#tn15" n="15"/> suoi ordini<ptr target="#tn16" n="16"/>. <lb/>
+Hora si aspettano nuove essecutioni. Et a questa <lb/>
+d’hoggi il concorso è stato grandissimo di genti, massime <lb/>
+venute da tutte queste città circonvicine. Gratie etc. </p>
+<p>Dall’Haya li 27 febraro 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo </p>
+<p>Christofforo Suriano </p>
+<pb n="552r" facs="11_552r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="552v" facs="11_552v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 474 fin 475 </p>
+<p><hi rend="decoded">Tracce di sigilli <lb/>
+</hi></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="153">
+<!--
+<p n="552vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 febraro 622<ptr target="#tn17" n="17"/>. Ricevute 15 marzo <lb/>
+623<ptr target="#tn18" n="18"/> </p>
+<p>Haya. Prima. n° 474 </p>
+<p>Spagnuoli </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-a" is the result of a correction; followed by deleted letters.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "conse-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line on "hanno" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "4-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "qui" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "i-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "o-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

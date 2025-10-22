@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.056 date 1622-10-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">056</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 302r-303v, 306r-307v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp466-477
+            </note>
+            <biblScope unit="page">302r-303v, 306r-307v, 304r-305v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>News about Grisons causes discontent in States General and also to Mansfelt. Weston has left Brussels and Chichester is still in Frankfurt urging Tilly to abandon the siege of Mannheim. They are awaiting news from mission by Nethersol in England. The Swedisch king has concluded a truce with Poland and has returned to Stockholm. Negotations regarding WIC are progressing slowly. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-10-10">10 ottobre 1622</date>
+            <num>088, 089</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="088">
+<div type="main" facs="main text of letter" n="088">
+<!--<p>10 ottobre 1622, L’Aia (cc. 302r-303v, 306r-307v)</p>-->
+<pb n="302r" facs="11_302r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 429 comincia 428 </p>
+<p>Serenissimo Principe </p>
+<p>a questi signori communicai la passata settimana gl’avvisi, che <lb/>
+dalla Serenità vostra mi furono mandati delle nuove miserie, <lb/>
+et infelici successi dei Grisoni portandoli con quelle consi-<lb/>
+<lb/>
+derationi, che in altre audienze havevo esposte, et con <lb/>
+altre più vive ragioni somministratemi dalla prudenza <lb/>
+della Serenità vostra. Ringratiò il Presidente vostra Serenità con parole <lb/>
+di gran rispetto di questo confidente termine, che <lb/>
+usava con li signori Stati di participarli quello, che teneva <lb/>
+de’ successi nella Retia. Laudorono la prudente maniera <lb/>
+di lei nel procurar di mantener per quanto che po-<lb/>
+teva quella libertà; si compiansero delli accidenti <lb/>
+sopravenuti, asserendo, che erano stati sentiti da <lb/>
+essi con gran dispiacere; et dispiacer sentivano <lb/>
+anco non poter porger qualche aiuto a’ quei popoli, <lb/>
+et se ben erano sicuri; in ogni modo pregavano <lb/>
+vostra Serenità esser certa, che non difetto di volontà ma sola <lb/>
+impossibilità non li lasciava far a beneficio di quei <lb/>
+popoli ciò che volontieri haverebbono voluto, sendo <lb/>
+pur troppo pressati qui nelle proprie viscere dall’<lb/>
+inimico potentissimo, come si sa, et con altri simil <lb/>
+concetti mi lasciorno partire con risposta conforme <lb/>
+alle precedenti, che se la buona fortuna havesse <lb/>
+potuto dar qualche buon respiro di bene in queste </p>
+<pb n="302v" facs="11_302v" rend="0"/>
+<p>Provincie haverebbono allhora fatto ciò, che havessero <lb/>
+potuto per il commune servitio. Replicai ben qualche altra <lb/>
+cosa per indurli a pensar bene a questo interesse, che ridon-<lb/>
+dava<ptr target="#tn1" n="1"/> così bene al loro, che all’altrui profitto; ma con <lb/>
+altrettante buone parole generali mi fu corrisposto; et in <lb/>
+effetto vi veggo poca apparenza, che per hora nella <lb/>
+necessità, che hanno di haver prontezza di denari <lb/>
+possino far alcuna cosa fuori del loro Paese, che per il proprio <lb/>
+interesse. </p>
+<p>Restano al presente solevati assai con la levata dell’assedio di <lb/>
+Steembergh perché di sola polvere se ne consumavano <lb/>
+ogni tre giorni vinticinque migliora senza poi tante <lb/>
+et tante altre munitioni, et spese. </p>
+<p>Il mancamento delle polveri è stato causa, che ancor non sono <lb/>
+uscite dal porto le navi da guerra che sono desti-<lb/>
+nate all’impresa da mare, non ancor palese a persona, <lb/>
+che a quei pochi soli, che hanno in mano l’affare. <lb/>
+Già l’Amiraglio ha havuta la commissione, et col <lb/>
+primo vento partiranno. </p>
+<p>M’è stato riferto<ptr target="#tn2" n="2"/> dal Dulbier mercante, ch’è rive-<lb/>
+nuto la passata settimana dal conte di Mansfelt havergli <lb/>
+detto che haveva <hi rend="decoded">havute</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">lettere di vostra Serenità et lo haverebbe desiderate i <lb/>
+Grisoni et</hi>
+<pb n="303r" facs="11_303r" rend="0"/>
+<hi rend="decoded">gli dispiaceva non haverne havuta la <lb/>
+notitia a tempo, et aggionse questo parendo lo dicesse <lb/>
+quasi da sé; sarà forse ancora a tempo dicendo <lb/>
+perché il signor Conte non è in stato di trattenersi a questo <lb/>
+servitio non parendogli conveniente del rispetto di vostra Serenità <lb/>
+né</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">sua riputatione essendo generale di lei il fer-<lb/>
+marsi qui ben pensa di fare entrare in Alemagna <lb/>
+su quel di Colonia, et come da lui far usa buona diversione <lb/>
+… questi lo vogliono, et si obligheranno se gli <lb/>
+vorranno far un fondo di 200 mila fiorini per mese di mantener <lb/>
+14 mila</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">fanti, un 6 mila cavalli promettendosi di tornar il <lb/>
+loro viver, o sul Colonese per esser vicino a queste Pro-<lb/>
+incie per ogni occorrenza, o altrove dell’Alemagna, ove <lb/>
+sarà trovato buono, altrimenti si risolverà dii tirarsi presso <lb/>
+vostra Serenità <lb/>
+</hi> et simil cose andò dicendo, che ascoltai, et egli mi
+<pb n="303v" facs="11_303v" rend="0"/>
+prego di tenerle in me aggiungendomi per il presente sendo <lb/>
+a questi servitii vi è disegno di qualche buon’impresa <lb/>
+non la so, ne l’ho potuta penetrare; ma dagl’andamenti <lb/>
+parmi haver compreso, che vi sia disegno grande. <hi rend="decoded">Tutti</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">susurano nella città di Anversa per gli humori, che sono <lb/>
+per dentro non bene intentionati a Spagnoli. <lb/>
+</hi></p>
+<p>Hoggi si è detto, che ’l giovane duca di Bransvich sia per far <lb/>
+una levata di sua propria borsa di 600 fanti, et 300 <lb/>
+cavalli appresso gl’altri, che ha in campagna. Va <lb/>
+guarendo, si consolida la piaga del monco del braccio <lb/>
+et hora camina da per tutto, et volse andar in carrozza <lb/>
+ad accompagnar il signor principe Mauritio, et gl’altri <lb/>
+principi con l’armata per buon spatio di hora discosto <lb/>
+da Breda non essendogli stato permesso, come deside-<lb/>
+rava il mettersi a cavallo. Non si sa ancora se sia <lb/>
+per aggiuntar questa poca truppa alle altre o per man-<lb/>
+darla altrove. </p>
+<p>Di Brusseles è partito l’Ambasciator inglese doppo haver fatte alcune <lb/>
+protestationi, come è stato scritto, che ’l Re suo signore <lb/>
+vorrà la guerra coll’Imperatore, et contra Baviera; non ha <lb/>
+parlato di Spagna per non intorbidar; come viene detto <lb/>
+li trattati di matrimonio ha con quella Maestà l’effetto
+<pb n="306r" facs="11_306r" rend="0"/>
+de’ quali viene stimato, che non riesca; o almeno così si vor-<lb/>
+rebbe, che non riuscisse. </p>
+<p>Il baron Chichiester si trattiene a Francfort può esser, che <lb/>
+vostra Serenità habbi intesa la risposta, ch’è stata scritta alli signori Stati <lb/>
+havergli data Tilly, ma la scriverò per rincontro l’Ambasciator li <lb/>
+scriveva assai sentitamente toccante l’assedio di Manheim, et <lb/>
+di doverlo lasciare con il fondamento delle lettere di Brusse-<lb/>
+les dell’Infanta, rispose, che ciò, ch’egli faceva era per nome <lb/>
+dell’Imperator suo signore, et che credeva, che ’l re della Gran Berta-<lb/>
+gna non si vorrebbe mescolar delli affari dei ribelli dell’<lb/>
+Imperio, né darli assistenza nella loro mutineria; ma <lb/>
+ben essortarli alla sua debita sommissione, et che ’l Re <lb/>
+farebbe bene di commandar al general Veer di render <lb/>
+Manheim, et Franchendal senza far alcuna resistenza <lb/>
+a’ fine che con tal mezo l’Imperatore potesse risolversi <lb/>
+a far gratia alli detti ribelli. Questa si presupone <lb/>
+sia stata la causa dell’ispeditione del secretario della Regina <lb/>
+in Inghilterra; di dove si attende con gran devotione, come <lb/>
+si muoverà, et a che si risolverà finalmente quel Re, ve-<lb/>
+dendosi così deluso, et ingannato. </p>
+<p>Il re di Bohemia per quello presento si attende qui di giorno <lb/>
+in giorno; non havendo più sicuro, né più libero rifugio, <lb/>
+che in queste Provincie. </p>
+<pb n="306v" facs="11_306v" rend="0"/>
+<p>Non s’intende alcuna cosa della Bassa Sassonia, intorno a risolu-<lb/>
+tioni, che possino far quei principi, et quelle città solo che <lb/>
+si doveva ridur una Dieta in quella parte; ma non si sa <lb/>
+ad instanza di chi. </p>
+<p>Quella di Ratisbona non si crede, che sia per seguire; altri però <lb/>
+scrivono, che solamente resti cambiato il giorno per causa <lb/>
+delli elettori ecclesiastici. </p>
+<p>Sono venuti avvisi la settimana precedente alla passata, <lb/>
+et confermati ultimamente, che ’l re di Svetia fosse in <lb/>
+camino per ritornarsene a Stocolm sua residenza havendo <lb/>
+accordata la tregua con Polonia per otto mesi, et la <lb/>
+Regina sua moglie, che lo andava a ritrovar nella <lb/>
+Lituania ha havute lettere dal Re, che ritornava, onde <lb/>
+ella si fermò alla medesima piazza di Stocolm. Alcuni <lb/>
+scrivono anco, che tra quei doi re vi sia al presente trattato <lb/>
+di pace. </p>
+<p>Ho presentito, che a Brem sia per farsi una nuova riduttione <lb/>
+de’ deputati di Danimarca, et di questi signori per stabilir l’<lb/>
+aleanza, il trattato della quale è stato sin hora dormendo <lb/>
+finché da quelli di Holanda, et di Amsterdam in par-<lb/>
+ticolare si sia trovato ripiego d’accommodarvisi. </p>
+<p>Anco il negotio dell’Indie Occidentali va pian piano marchiando <lb/>
+al suo fine, et ho saputo, che nella città di Amsterdam
+<pb n="307r" facs="11_307r" rend="0"/>
+per la parte loro siano per nominar li soggetti, che doveranno <lb/>
+chiamarsi per aministratori, ch’è un esser assai avanti; ma <lb/>
+questo non serve alla perfettione perché non so ancor, che ’l <lb/>
+denaro per l’equipaggio sia pronto; al qual proposito <lb/>
+non lascierò di dirle havere intese, che o sia per avantag-<lb/>
+giarsi quelli, che desiderano l’effetto di questa compagnia, <lb/>
+o per indur tanto più facilmente alcuni a mettervi il denaro <lb/>
+viene publicato, che quella serenissima Republica metterà <lb/>
+per sua parte una buona summa d’oro alcuni dicono <lb/>
+cento milla, altri dicono mezzo milion di fiorini. Di altro <lb/>
+che seguirà in questo proposito non mancarò di darlene <lb/>
+riverente conto. </p>
+<p>Il vento fu per tre giorni buono doppo la partenza del signor <lb/>
+cavalier Berch, onde m’assicuro, che sarà arrivato in <lb/>
+Francia, et che sia avanti nel suo viaggio, et ho cavato <lb/>
+essergli stato dato ordine espresso di visitar sua Maestà <lb/>
+christianissima. </p>
+<p>Con la replicata n° 427 sarà anco la precedente 426 <lb/>
+aggiunte ambidoi alle presenti. Gratie etc. </p>
+<p>Dall’Haya li 10 ottobre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="307v" facs="11_307v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 429 comincia 428</p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="088">
+<!--
+<p n="307vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 ottobre 622<ptr target="#tn7" n="7"/>. Ricevute 2 novembre </p>
+<p>Haya. n° 429 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="089" corresp="088" source="304r-305v" >
+<div type="main" facs="main text of attachment I" n="089" corresp="088" >
+<!--<p>Allegato I al n. 88 (cc. 304r-305v; decodifica di cc. 302v-303v)</p>-->
+<pb n="304r" facs="11_304r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="304v" facs="11_304v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="305r" facs="11_305r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="305v" facs="11_305v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-v-" corrected above "-l-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "nel" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "havute … S(ereni)tà" decoding of the encrypted text can be found on c. 304r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "di rip-" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "susurrando che dell" crossed out; "Tutti … Spagnoli" decoding of the encrypted text can be found on c. 304r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.054 date 1617-07-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">054</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 292r-294v, 297r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">292r-294v, 297r-v, 295r-296v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Levenstein spoke with Maurice, the ships will go to Emden but the city has refused. Maurice proposes Delftzijl as a solution. Carleton and Suriano both write to the count of Emden to ensure that Levenstein will get safe passage. Suriano also writes to city of emden and William of Nassau. He has discusses the payments of this levy with Quingetti. One text attached: letter written by Levenstein on 24 July 1617</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-25">25 luglio 1617</date>
+            <num>092, 093</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="092">
+<div type="main" facs="main text of letter" n="092">
+<!--<p>25 luglio 1617, L’Aia (cc. 292r-294v, 297r-v)</p>-->
+<pb n="292r" facs="04_292r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>havendo il signor conte di Levenstein discorso con sua Eccellenza, et dimandato <lb/>
+consiglio per haver qualche nave da guerra, con che potesse haver <lb/>
+scorta nel suo passaggio, et havendone ancor trattato con il signor <lb/>
+Bernvel, trovò, che non sarebbe stato così facile l’haverle <lb/>
+prontamente poiché sarebbe stato necessario il dar parte alle <lb/>
+Provincie, attender le risposte, et in tanto il tempo sarebbe <lb/>
+scorso, et forse, che esse Provincie non sarebbono state tutte <lb/>
+d’accordo per concederle: onde il signor Conte lasciò l’impresa <lb/>
+et procurò solamente colla raccomandatione di sua Eccellenza al Presidente, et con <lb/>
+haver egli stesso parlato al medesimo et io ancora per la concessione <lb/>
+di alcuni pezzi di artiglieria da darsi ai marinari con <lb/>
+le solite cautioni. Fatto questo stava il signor Conte per <lb/>
+ritornarsene in Amsterdam a sollecitar il metter ad <lb/>
+ordine le navi quando arrivò il suo Quartiermastro <lb/>
+che haveva ispedito al conte di Oldembourgh, et alla città, <lb/>
+et conte di Embdem per haver da quello il passaggio, et <lb/>
+da questi il passaggio, et la piazza d’arme<ptr target="#tn1" n="1"/> in quel territorio. <lb/>
+Il conte di Oldembourgh ha volontieri acconsentito all’<lb/>
+instanza, ma quello di Embdem l’ha negata, et la città <lb/>
+ha risposto, che si rimetterebbe a far quanto havesse <lb/>
+fatto il Conte. Ero<ptr target="#tn2" n="2"/> con il signor di Levenstein all’arrivo <lb/>
+del Quartiermastro, che fu venerdì a sera, né <lb/>
+sapendosi altro ripiego concertassimo di parlar al
+<pb n="292v" facs="04_292v" rend="0"/>
+signor principe Mauritio, come facessimo la mattina del sabbato. <lb/>
+Consigliò sua Eccellenza già che vi era la strettezza del tempo, che si <lb/>
+tentasse appresso questi signori la piazza d’armi a<ptr target="#tn3" n="3"/> Delfsil in <lb/>
+Frisia piazza frontiera de<ptr target="#tn4" n="4"/> questi signori da quella parte al <lb/>
+mare contigua allo stato di Embdem per far ivi l’imbarco. <lb/>
+Io la pregai a pormi la mano, et ella immediate mandò <lb/>
+a chiamar il presidente di Gheldria di settimana, et <lb/>
+diversi altri signori dell’assemblea in nostra presenza<ptr target="#tn5" n="5"/> raccommandandole questo <lb/>
+negotio con affetto, et procurando, che ancorché fosse <lb/>
+stabilito di non far riduttione quella mattina la facessero <lb/>
+perché noi potessimo dimandar questa gratia. Et posso <lb/>
+ben dir alla Serenità vostra che in questo negotio sua Eccellenza si è mostrata <lb/>
+di tanta buona volontà, che niente maggiore. Per <lb/>
+dar calore all’instanza io andai nell’assemblea col signor <lb/>
+Conte, et unitamente feci l’ufficio, mostrando che<ptr target="#tn6" n="6"/> qui si trattava <lb/>
+di servitio della serenissima Republica, et che li pregavo a <lb/>
+sodisfar all’instanza. Appresso il mio ufficio aggiunse <lb/>
+anco il Conte alcune poche parole, et preghiere, onde li <lb/>
+detti signori Stati ci fecero retirar in una stanza et poco <lb/>
+doppo ci diedero risposta, che volontieri se ne conten-<lb/>
+tavano; ma che nella città non vi potessero esser più <lb/>
+di doicento, o trecento soldati per volta, et che <lb/>
+haverebbono anco mandato un commissario (come<ptr target="#tn7" n="7"/>
+<pb n="293r" facs="04_293r" rend="0"/>
+consegliò sua Eccellenza a dimandarlo per facilitar l’instanza) affineché <lb/>
+vedesse, che non seguisse disordine. Et parimente con lettere di <lb/>
+questi signori in conformità replicasse ufficio efficace con il conte <lb/>
+di Embdem preché non ricavasse il transito <lb/>
+delle genti già che non havevano a far la<ptr target="#tn8" n="8"/> dimora sopra il suo. Io <lb/>
+ringratiai questi signori della prontezza, et si restò in appun-<lb/>
+tamento che ’l Commissario dovesse partir quanto più presto. <lb/>
+Il Levenstein doppo haver presa licenza dal signor principe <lb/>
+Mauritio partì domenica mattina per Amsterdam per solle-<lb/>
+citar li vasselli, disegnando secondo che saranno ad ordine <lb/>
+mandarli a Delfsil per imbarcar le genti di volta in <lb/>
+volta, che arriveranno, et in un medesimo tempo ispedì <lb/>
+colà il<ptr target="#tn9" n="9"/> Quartiermastro per ordinar li alloggiamenti. </p>
+<p>Questa mattina poi mentre scrivevo mi sono venute lettere <lb/>
+di esso signor Conte nelle quali mi significa, come intenderà <lb/>
+nella conduttione, che il conte di Embdem haveva impedito <lb/>
+ad alcuni de’ soldati, che non passassero, et pregandomi <lb/>
+per la speditione delle lettere, essend’elle già <lb/>
+pronte, mandai a sollecitar il Commissario, et feci <lb/>
+pregar l’Eccellenza sua col mezo d’uno dei miei, che dovendo <lb/>
+egli andar a lei, come havevo inteso, ella ancora <lb/>
+lo sollecitasse al partir quanto prima, come ha fatto, <lb/>
+et se non partirà questa sera per Amsterdam partirà
+<pb n="293v" facs="04_293v" rend="0"/>
+dimani mattina alle tre hore. Questo signor ambasciator d’Inghilterra <lb/>
+è come protettor di negotii del conte d’Embdem; onde <lb/>
+in questo caso ho stimato bene col termine di confidenza <lb/>
+pregarlo, che gli scrivi una lettera, et gli raccommandi <lb/>
+questo negotio, affineché non vi metti difficoltà. Volon-<lb/>
+tieri l’ha fatto, et non può esser più efficace. Io ho<ptr target="#tn10" n="10"/> <lb/>
+anco stimato a proposito scriver ad esso Conte, come <lb/>
+ho fatto alla città di Embdem, et al signor conte Guglielmo di <lb/>
+Nassau governator di Frisia. Vostra Serenità sente gl’incontri <lb/>
+et non è meraviglia di questo del conte di Embdem poiché <lb/>
+altre volte è stato affettionatissimo con il fratello al par-<lb/>
+tito di Spagna, et forse il solo timore della perdita dello <lb/>
+Stato lo fece condescender a collegarsi con questi signori prego <lb/>
+Iddio, che adherisca a questa seconda instanza, et lo <lb/>
+spero poiché non se gli dimanda se non poco. Teneva <lb/>
+per fermo il signor conte di Levenstein, che le genti dovessero <lb/>
+esser molto presto al detto luoco dell’imbarco, et mi <lb/>
+ha detto, che subito ispedite le navi a quella volta <lb/>
+o venirà, o manderà a dirmi, ch’io mi conferisca <lb/>
+alla detta piazza, il che starò attendendo. </p>
+<p>Non so quello, che troverà di ricapito per haver <lb/>
+l’esborso del denaro. Scrive di haver parlato con <lb/>
+il Quingetti; ma che ancor non era a segno. Vedrò
+<pb n="294r" facs="04_294r" rend="0"/>
+ciò che ne seguirà per regolarmi secondo che comporta <lb/>
+lo stato della cosa, et la necessità di non lasciar ispedito <lb/>
+negotio passato tanto innanti. </p>
+<p>Per le artiglierie ha il Conte havute da questi signori lettere <lb/>
+all’amiralità di Amsterdam, et sono di raccommandatione <lb/>
+perché quel Magistrato provedi in quanto gli è possibile <lb/>
+alla sicurtà delle navi, et delle genti. Et certo non <lb/>
+manca il signor Conte in alcuna cosa adoperandosi per quanto <lb/>
+si scuopre con tanto spirito, et con tanto affetto <lb/>
+quanto si può imaginare. Ha fatti far vestiti per <lb/>
+tutte dieci le compagnie di panno colorato differente, <lb/>
+le bandiere, la provisione dell’armi in somma si <lb/>
+scuopre in lui ambitione di gloria, et di honore <lb/>
+a servitio<ptr target="#tn11" n="11"/> della Serenità vostra, et può ben ella <lb/>
+far il conto che li costerà grandemente questa levata. <lb/>
+Vinti, et vinti doi fiorini per testa paga per il <lb/>
+transporto delle genti, et sotte<ptr target="#tn12" n="12"/> soldi di questa moneta <lb/>
+(che ottanta fano un ongaro) per le spese di bocca <lb/>
+per ogni giorno; et per quelli nella camera del <lb/>
+patrone dieci, et è obligato dar denari alla <lb/>
+mano per doi mesi per far la provisione de’ viveri <lb/>
+et a doi navi doi mesi, et mezo. Gratie etc. </p>
+<p>Dall’Haya a’ 25 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="294v" facs="04_294v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="297r" facs="04_297r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="297v" facs="04_297v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="092">
+<!--
+<p n="297vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>25<ptr target="#tn13" n="13"/> luglio 1617 ricevute a’ 9 agosto </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="093" corresp="092" source="295r-296v" >
+<div type="main" facs="main text of attachment I" n="093" corresp="092" >
+<!--<p>Allegato I al n. 92 (cc. 295r-296v)</p>-->
+<pb n="295r" facs="04_295r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettera del conte di Levenstein di Amsterdam a’ 24 luglio </p>
+<p>Signore essendo arrivato qui io ho immediate fatta inquisitione <lb/>
+del stato nel quale erano li vasselli, et il resto, et ho trovato che <lb/>
+si mettono ad ordine, et che non mancaranno di esser al tempo <lb/>
+prefisso, come anco tutte le altre cose, come arme, caschi, <lb/>
+et altro. Io vengo in questo punto da ricever una lettera, <lb/>
+che il conte di Embdem impedisce ai miei soldati di passar per <lb/>
+il suo Paese, et che alcuni se ne sono ritornati non potendo <lb/>
+passar il che mi dà grandissima incommodità: onde è necessarissimo <lb/>
+che li signori Stati, come parimente voi medesimo, come me<ptr target="#tn14" n="14"/> mostraste<ptr target="#tn15" n="15"/> <lb/>
+haverne<ptr target="#tn16" n="16"/> intentione, scriviate al Conte poiché le mie genti <lb/>
+non dimandano, che il passaggio per imbarcarsi a Delfsiel<ptr target="#tn17" n="17"/> <lb/>
+et che non si arresteranno<ptr target="#tn18" n="18"/> punto nel suo Paese, che non <lb/>
+le impedisca più, o non vogli rifiutarli il passaggio il<ptr target="#tn19" n="19"/> che <lb/>
+non potrà contradire, essendo cosa di poca consequenza. <lb/>
+Altrimenti questa voce farà che gl’altri non sapendo come devono <lb/>
+passare non vorranno mettersi in camino. Io spero ancor <lb/>
+hoggi di haver uno dei migliori vasselli del Paese, diman <lb/>
+mattina io anderò all’Amiralità per presentar le lettere <lb/>
+per l’artiglieria. Quanto al signor Quingetti io ho <lb/>
+trattato con lui, ma non sono ancor al fine: in ogni modo <lb/>
+io non mancarò mai di quello, che ho promesso a sua Serenità. <lb/>
+Ecco<ptr target="#tn20" n="20"/> tutto ciò, che ho pensato di scrivervi con le presenti <lb/>
+raccomandandomi etc. </p>
+<pb n="295v" facs="04_295v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296r" facs="04_296r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296v" facs="04_296v" rend="270"/>
+<p>Lettera del conte di Levenstein </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "d’ar-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line on "appresso" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "in nostra presenza" added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "imbarco" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "suo" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "della servitio" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line on "26" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Second "-st-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "h-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-fsiel" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "i-" corrected above "a-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "E-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

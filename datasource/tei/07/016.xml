@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.016 date 1618-09-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">016</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 92r-97v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">92r-97v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Upon his return to The Hague, Boissise made a new entry. During his audience, he presented a letter by Louis XIII to the assembly explaining his discontent with the current situation. Du Maurier is regarded with suspicion by Maurice. Due to incident last week, Carleton has not visited Boissise and sent his secretary instead. Oldenbarnevelt and others have been imprisoned for four weeks now and not yet been interrogated. The interrogation of Ledenberg has not revealed much but amongst his writings they claim to have found several documents which further incriminate Oldenbarnevelt. Tuarinus, the author of text against Carleton, has fled. With this change in government, Suriano reports there are plans to travel to the West Indies. From Brabant news that they are reinforcing their border garrisons. No communication about arrival of twelve ships makes people worried. Further problems with delivery of letters. Request guidance on how to deal with French ambassadors. Reports that he visited Charlotte Brabantia who thanks him for the care of her son Henri de La Trémoille while he was ill in Venice. Issues letters for 3 ships amounting to 5400 ducats for two months, informs the Serenissima about favourable exchange rate. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-09-18">18 settembre 1618</date>
+            <num>031</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="031">
+<div type="main" facs="main text of letter" n="031">
+<!--<p>18 settembre 1618, L’Aia (cc. 92r-97v)</p>-->
+<pb n="092r" facs="07_092r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 61<ptr target="#tn1" n="1"/> sola </p>
+<p>Serenissimo Principe </p>
+<p>monsignor di Boisise ambasciator straordinario di Francia prima che <lb/>
+ritornar all’Haya essendo in Anversa riespedì di là il suo secretario <lb/>
+alla corte in diligenza, dando conto di quanto era successo, et che <lb/>
+haverebbe ubidito alli commandamenti della Maestà sua col ritor-<lb/>
+narsene qui. Fu venerdì sera il suo nuovo ingresso in questo <lb/>
+luoco incontrato dal principe Mauritio, dal fratello, et dal <lb/>
+conte Guglielmo; et vi intervenero anco qualcheduni deputati <lb/>
+dalli signori Stati; et fu<ptr target="#tn2" n="2"/> tanto più numeroso di carrozze, et gentil-<lb/>
+huomini di corte; quanto in un medesimo tempo venne anco <lb/>
+madama della Tremoglia sorella di questi signori principi di <lb/>
+Nassau venuta dal viaggio di qua<ptr target="#tn3" n="3"/> a riveder li fratelli <lb/>
+doppo vintidoi anni, che non si sono veduti insieme<ptr target="#tn4" n="4"/>. </p>
+<p>Al sapersi il ritorno del detto Ambasciatore, et al suo arrivo in questo <lb/>
+luoco pareva che l’universale restasse mal contento, <lb/>
+et sospesi gl’animi di quello che havesse a spiegar di <lb/>
+nuovo nell’assemblea dei signori Stati, si stava attendendo <lb/>
+con curiosità, che ricercasse l’audienza, come lo fece per <lb/>
+hier mattina. Presentò una lettera del Re, il cui <lb/>
+contenuto per quanto mi è stato riferto è, che significa <lb/>
+sua Maestà a questi signori haver inteso il stato delli affari, <lb/>
+et l’imprigionamento di monsignor Bernvel, et altri, imputati <lb/>
+di haversi mal comportato nella conservatione della <lb/>
+libertà, et sicurezza di questo Stato ; e[t]<ptr target="#tn5" n="5"/> che da questi <lb/>
+signori si attendeva di rimediare, et stabilire per l’avvenire
+<pb n="092v" facs="07_092v" rend="0"/>
+et evitar gl’inconvenienti, onde tenendo la Maestà sua che la <lb/>
+conservatione di queste Provincie<ptr target="#tn6" n="6"/> sia la propria della <lb/>
+sua Corona, et dello Stato, desiderando contribuirvi tutto <lb/>
+quel più, che havesse potuto provenir dalla sua benevolenza <lb/>
+et<ptr target="#tn7" n="7"/> affetto verso le medesime Provincie, haveva <lb/>
+ordinato al detto monsignor di Boisise di ritornarsene <lb/>
+appresso de’ signori Stati; perché assistesse di consiglio in tutte <lb/>
+quelle cose, che sue Signorie l’havessero trovato necessario, et a <lb/>
+proposito per tanto maggiormente fermar, et stabilir la pace <lb/>
+nello Stato<ptr target="#tn8" n="8"/>, et la sicurezza della libertà di questa Republica <lb/>
+facendo offerta et di forze, et di denari, et di tutto quel <lb/>
+più, che havesse potuto provenir dall’autorità della Maestà sua <lb/>
+replicando che stimava la conservatione di questi paesi nel <lb/>
+dominio de’ signori Stati non altrimenti, che ’l mantenimento dei suoi <lb/>
+regni. In ristretto questo fu il contenuto delle lettere, nella <lb/>
+qual sostanza fece anco l’ufficio monsignor di Boisise. Del<ptr target="#tn9" n="9"/> quale <lb/>
+restò l’universal dell’assemblea molto gustato<ptr target="#tn10" n="10"/>, come anco <lb/>
+altri doppo che fu intesa l’espositione; se bene non resta, <lb/>
+che non vi siano di quelli, che tengono per fermo, che <lb/>
+habbi espressa commissione di procurar sottomano la <lb/>
+liberatione di monsignor Bernvelt, et degl’altri con ufficii <lb/>
+a parte. Dalle parole di monsignor di Murier che <lb/>
+visitai la passata settimana ben m’avidi esser egli <lb/>
+estraordinariamente appassionato, parlando con non poco affetto
+<pb n="093r" facs="07_093r" rend="0"/>
+della persona di monsignor Bernvelt, et mentre discorreva della <lb/>
+sua disgratia mi addimandò. Vostra Signoria ha già mai scoperto <lb/>
+monsignor Bernvelt spagnuolo, o dipender da’ Spagnuoli; <lb/>
+et che si habbi mostrato contrario alli affari della serenissima <lb/>
+Republica? Io risposi, che per il primo io l’havevo sempre <lb/>
+tenuto per un buon patriota; et per il secondo ero ricorso <lb/>
+d’ordinario a lui nell’occasioni delle levate passate, et <lb/>
+dell’armamento delle navi perché stimavo il suo favore <lb/>
+et il suo buon adrizzo, et che m’è parso sempre ritrarne <lb/>
+buoni effetti; che se altrimenti havessi scoperto io mi sarei <lb/>
+astenuto di ricorrer al suo consiglio, et alla sua auttorità <lb/>
+rispose; et io l’ho conosciuto sempre inclinato al bene <lb/>
+et servitio della serenissima Republica, et in particolare al buon stato <lb/>
+et sicuro governo di queste Provincie. Poi continuò <lb/>
+è gran cosa, et cosa anco nuova, che doppo che <lb/>
+gl’huomini sono prigioni se li trovino l’imputationi <lb/>
+che prima non erano manco sognate; ma le gelosie, <lb/>
+et le passioni causano di questi accidenti. Et ben nella fronte <lb/>
+mostrò l’interna passione, che haveva della caduta di <lb/>
+questo Ministro. Et perché non può celar questo suo <lb/>
+affetto si rende egli altrettanto suspetto<ptr target="#tn11" n="11"/> appresso l’universale <lb/>
+et mal volontieri vede il signor Principe, che sia egli<ptr target="#tn12" n="12"/> sempre a <lb/>
+canto di monsignor di Boisise, che da lui sia informato, <lb/>
+et che lo imprimi di quelle cose, che par che non servino
+<pb n="093v" facs="07_093v" rend="0"/>
+all’haver ad esser ben veduto. Onde haverà che far assai esso <lb/>
+monsignor di Boisise a render<ptr target="#tn13" n="13"/> certo ognuno, che questa nuova <lb/>
+missione sia con quell’intentione, che dichiara sua Maestà christianissima <lb/>
+nelle lettere sue, et che non habbi altra particolar commissione. </p>
+<p>Per la causa, che scrissi la passata settimana alla Serenità vostra il signor <lb/>
+Ambasciator inglese lasciò di visitar esso monsignor di Boisise, et <lb/>
+hora ritornato, fin a hieri non era stato a vederlo, se <lb/>
+ben sua Eccellenza ha pregato esso Ambasciatore perché lo visiti a fine <lb/>
+di trovar campo d’informarlo dello stato reale di <lb/>
+questi affari, et dell’intentione che vi è qui di ben <lb/>
+operare;<ptr target="#tn14" n="14"/> monsignor Carleton non ha fatto altro che <lb/>
+mandar il suo secretario a rallegrarsi col detto Ambasciatore <lb/>
+del suo ritorno qui; ma egli non li ha ancor corrisposto <lb/>
+con alcuna persona; onde mi disse, che si trova in <lb/>
+termine di non poter<ptr target="#tn15" n="15"/> far quello, che per servitio publico <lb/>
+haverebbe fatto; se però esso Ambasciatore non si risolvesse <lb/>
+a far qualche complimento in corrispondenza, che potesse <lb/>
+muoverlo<ptr target="#tn16" n="16"/> andar a vederlo. </p>
+<p>Saranno dimani quattro settimane, che monsignor Bernvelt con <lb/>
+gl’altri è prigioniero; né per anco è stato essaminato. <lb/>
+Doveva hiersera capitar da Utrechet il Lidemburgh </p>
+<p>già secretario di quei Stati; et par che la dilatione <lb/>
+della sua venuta procedi dall’haversi dibatuto da detti<ptr target="#tn17" n="17"/> Stati <lb/>
+se debba esser lasciato venir qui, et che questo non infringe
+<pb n="094r" facs="07_094r" rend="0"/>
+li privilegi di quella<ptr target="#tn18" n="18"/> Provincia; ma li commissarii, che sono <lb/>
+stati rimandati dicono che li delitti, o imputationi contra <lb/>
+esso Lidemburgh non toccano alla sola provincia di Utrechet; <lb/>
+ma alla generalità delle Provincie tutte; et per questo <lb/>
+era necessario, che fosse constituito sotto il giudicio dei <lb/>
+Stati Generali. Da qualcheduni viene detto che non <lb/>
+habbino potuto ritrar gran cose dalla sua bocca<ptr target="#tn19" n="19"/>; anzi <lb/>
+che habbi anco negate delle proprie scritture: altri<ptr target="#tn20" n="20"/> <lb/>
+però affermano, che habbino tirato da lui cose di <lb/>
+momento, et che lo conduchino qui per confronto. <lb/>
+Viene detto, che fra le sue scritture habbino trovata <lb/>
+una instruttione fatta l’anno passato mentre monsignor <lb/>
+Bernvel si trovava a Utrechet, nella quale sta espresso <lb/>
+il modo, come dovevano regolarsi quei Stati con quei <lb/>
+soldati, che levorono; et l’obligo che dovevano havere <lb/>
+di servir per mar et per terra; dentro la provincia<ptr target="#tn21" n="21"/> <lb/>
+di Utrechet, et fuori non obedendo a chi si sia, né meno <lb/>
+alli Stati Generali; ma solo alli stati di Utrechet. <lb/>
+Questo è un crime. Un altro si cava che monsignor <lb/>
+Bernvelt di propria auttorità valendosi del nome <lb/>
+della Congregatione di Holanda havesse fatto condessender </p>
+<p>li Stati Generali a conceder l’anno passato le sei <lb/>
+nave da guerra al Christianissimo per assediar quel suo <lb/>
+suddito in Piccardia se ben mi raccordo, che si teneva
+<pb n="094v" facs="07_094v" rend="0"/>
+dentro una di quelle piazze; a che per diversi rispetti essi<ptr target="#tn22" n="22"/> <lb/>
+Stati mostravano non assentire. Questo si publica; ma <lb/>
+dicono esservi anco altro secreto, che darà che dire, et <lb/>
+che travagliar ad esso signor Bernvelt; il qual già non doverà <lb/>
+tardar ad esser essaminato. Il maggior male è il suo <lb/>
+che hora tutto si va rinversando sopra le sue spalle. </p>
+<p>In virtù del proclama, che fecero li signori Stati sopra il libro scritto <lb/>
+contra la persona di monsignor Carleton, per salvarsi dalla <lb/>
+pena lo stampatore si è promulgato da sé presentando <lb/>
+l’originale della compositione, che fu stampata da lui in <lb/>
+Utrechet. L’auttore ch’è un ministro pur<ptr target="#tn23" n="23"/> di Utrechet se ne <lb/>
+è fuggito, et si trova, dicono, a Bolduch. Anco un <lb/>
+altro ministro qui dell’Haya dipendente da monsignor <lb/>
+Bernvelt è fuggito, et così faranno anco degl’altri per <lb/>
+la tema di quello lor potesse avvenire<ptr target="#tn24" n="24"/>. </p>
+<p>Coll’andata del principe Mauritio a Schonoven, et nell’altre <lb/>
+piazze restano le cose in stato, che hora par che manchino <lb/>
+poche<ptr target="#tn25" n="25"/> altre di questa Provincia per adherir alla <lb/>
+volontà dei Stati Generali; ma ancorché stiano renitenti <lb/>
+sin qui vi è il più delle voci, che tenirà per ben fatta <lb/>
+la risolutione della convocatione del sinodo. </p>
+<p>In questa (si può dir) mutatione di governo si è rinovat[o]<ptr target="#tn26" n="26"/> il <lb/>
+vecchio pensiero di viaggiar nell’Indie Occidentali, se <lb/>
+ne tratta da questi mercanti, che si promettono la speranza
+<pb n="095r" facs="07_095r" rend="0"/>
+del guadagno, et dar un gran scaco<ptr target="#tn27" n="27"/> al re di Spagna. <lb/>
+Li anni passati il tutto passò in discorso, et al presente dicono <lb/>
+che non sarà così mentre Bernvel sta prigione, che <lb/>
+affermano ancora esser stato il solo ostacolo, che questo <lb/>
+non passò innanti. Consiste hora la difficoltà nel trovar <lb/>
+il modo, la sicurezza di ritrar buon effetti; et di cami-<lb/>
+nar in maniera, che ’l viaggio non servi a pregiudicio <lb/>
+delli trafichi, che hanno in altre piazze di Spagna, et per <lb/>
+consequente a disreputatione (non succedendo bene) <lb/>
+di questi Stati. Di quello intenderò ne darò parte alla <lb/>
+Serenità vostra. </p>
+<p>Viene scritto di Brabantia, che quell’Altezze erano in <lb/>
+pensiero di accrescer alle loro guarnigioni di frontiera <lb/>
+qualche quattromilla fanti per valersi<ptr target="#tn28" n="28"/> poi di questo <lb/>
+estraordinario, ove<ptr target="#tn29" n="29"/> et quando fosse stato stimato <lb/>
+buono; di più che si habbi a far una mostra generale <lb/>
+delle gente da piedi, et da cavallo, che sue Altezze hanno <lb/>
+sotto il loro dominio; onde questi pensieri, et queste <lb/>
+diligenze, et l’intendersi, che habbino ricercata da Milano <lb/>
+anco quella cavallaria vallona fa entrar in sospetto <lb/>
+che vi siano pensieri<ptr target="#tn30" n="30"/> più reconditi<ptr target="#tn31" n="31"/> di qualche </p>
+<p>surpresa,<ptr target="#tn32" n="32"/> et di valersi dell’opportunità, et del vantaggio. </p>
+<p>Di Germania viene scritto in Brusseles, et qui ancora, che <lb/>
+le cose di Bohemia habbino a prender buona piega,
+<pb n="095v" facs="07_095v" rend="0"/>
+il che fa viver questi signori con una curiosità grande. </p>
+<p>Come anco di saper<ptr target="#tn33" n="33"/> se vostra Serenità resta libera affatto dalla parte <lb/>
+di terra dai sospetti; et io colle lettere sue del primo del <lb/>
+presente rappresento secondo l’occasione, che me ne viene data<ptr target="#tn34" n="34"/> <lb/>
+ciò che la Serenità vostra mi scrisse in questo particolare. </p>
+<p>Quanto al duca di Ossuna non è chi non tenga per fermo, che <lb/>
+sia per continuar a tenir travagliata, et molestata vostra Serenità <lb/>
+in golfo; et<ptr target="#tn35" n="35"/> l’universale desidererebbe, che ella adoperasse <lb/>
+le sue forze, et rintuzzase<ptr target="#tn36" n="36"/> l’ardire, et la mala volontà <lb/>
+di quel Ministro. </p>
+<p>A questo proposito non lascierò di dir alla Serenità vostra, che si <lb/>
+aspetta con sommo<ptr target="#tn37" n="37"/> desiderio da queste genti l’intender <lb/>
+il buon trattamento delli capitani, et marinari, che sono <lb/>
+venuti con le dodici navi al suo servitio. Et perché doppo <lb/>
+tanto tempo che sono arrivati non si riceve lettere né <lb/>
+dal Colonello, né dall’Amiraglio, né da’ capitani delle <lb/>
+navi vi sono stati alcuni spiriti appassionati, che <lb/>
+si hanno lasciato uscire<ptr target="#tn38" n="38"/>, che l’Eccellenze vostre illustrissime trattengono <lb/>
+le lettere a fine che non si sappi forse le indoglienze, <lb/>
+che ne fanno quelle genti. Queste relationi, che mi <lb/>
+sono fatte da buoni amici mi travagliano l’animo, </p>
+<p>et volontieri vorrei haver qualche cosa da sodisfarli: <lb/>
+in tanto non lascio di dire, che non si può essendo in mare <lb/>
+haver così pronta la commodità di scriver; che può esser
+<pb n="096r" facs="07_096r" rend="0"/>
+che le genti siano state a far la quarantena; overo che ’l difetto <lb/>
+nasca da loro di non scrivere. Et con questo rendo pur sodis-<lb/>
+fatto qualcheduno. Ma sia detto riverentemente sarà bene<ptr target="#tn39" n="39"/> che vostra Serenità <lb/>
+mi facci capitar qualche cosa, perché confermi anco maggiormente <lb/>
+la buona volontà, et il buon trattamento che affermo usarsi da lei <lb/>
+verso quella marinarezza; et verso quella soldatesca. </p>
+<p>Essendomi capitato avviso, che ’l messaggiero che partì mercordì <lb/>
+mattina della passata settimana non era arrivato che sabbato <lb/>
+sera in Anversa con le mie lettere delli xi sono restato <lb/>
+estremamente alterato nell’animo mio per una tanta et sì gran <lb/>
+negligenza di costoro. Lasciò però di mandar la replicata <lb/>
+delle dette lettere perché essendo constretto non havendo <lb/>
+altra commodità ispedir anc’hoggi per via d’Anversa <lb/>
+la<ptr target="#tn40" n="40"/> porterebbe un medesimo ordinario. Le manderò domenica <lb/>
+per la via di Amsterdam non volendo più creder a pro-<lb/>
+messe, et giuramenti<ptr target="#tn41" n="41"/> di questi messaggieri di qua; che <lb/>
+col mancarmi mi fanno parer negligente appresso la Serenità vostra <lb/>
+et tanto più haverei desiderato, che quelle fossero passate <lb/>
+avanti per haver il senso di vostra Serenità circa il visitar di nuovo<ptr target="#tn42" n="42"/> o non <lb/>
+questo ambasciator di Francia, mentre ha mostrato di tenir un<ptr target="#tn43" n="43"/> <lb/>
+così poco conto della visita che gli feci già fare, et di quella <lb/>
+ch’io feci in persona, che è per consequente tenir poco <lb/>
+conto di<ptr target="#tn44" n="44"/> un ministro di lei; che almeno havesse cor-<lb/>
+risposto con un suo gentilhuomo. Io mi regolerò conforme
+<pb n="096v" facs="07_096v" rend="0"/>
+al suo prudentissimo commandamento vedendo non poter per hora<ptr target="#tn45" n="45"/> far altro complimento <lb/>
+per riputatione di quella serenissima Republica. </p>
+<p>Ho visitata madama della Tremoglia, che con testimonio di grande <lb/>
+affetto attestò esser ella, et tutta la sua casa obligata a <lb/>
+vostra Serenità, et particolarmente per il pensiero che l’Eccellenze vostre hebbero <lb/>
+del suo primogenito mentre fu amalato in Venetia. </p>
+<p>Oltre le lettere per il pagamento del noleggio del 4° et quinto mese <lb/>
+che ho riverentemente scritto haver fatte<ptr target="#tn46" n="46"/> sotto li 15 et 16 ne <lb/>
+feci altre tre, una per la nave Il leon dorato, l’altra per <lb/>
+l’Emaus o Vergine di Dordrechet; et la terza per Lo specchio <lb/>
+che importeranno tutte tre per li doi mesi sudetti cinquemilla <lb/>
+quattrocento ducati da contarsi in banco. Ne restano ancor <lb/>
+a far per altre sei navi 3 della ripartitione di Amsterdam <lb/>
+et tre<ptr target="#tn47" n="47"/> di Northolandia. </p>
+<p>Le lettere di cambio della passata settimana sono venute in Amsterdam <lb/>
+a cento grossi, et tre ottavi per ducato. Vi è vantaggio <lb/>
+per vostra Serenità, et però<ptr target="#tn48" n="48"/> in questo doverebbe esser abbracciato <lb/>
+facendomi rimessa per il pagamento delle altre mesate, et <lb/>
+per altro denaro che possi bisognare. Et questi partionevoli <lb/>
+dei vasselli più volontieri si contenteranno esser pagati <lb/>
+di qua. Mi rimetto alla prudenza sua di cercar il </p>
+<p>suo meglio. Gratie etc. </p>
+<p>Dall’Haya a’ 18 settembre 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="097r" facs="07_097r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="097v" facs="07_097v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 61 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="031">
+<!--
+<p n="097vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 settembre 1618 ricevute a’ 3 ottobre </p>
+<p>Haya. n° 61 <lb/>
+sola </p>
+<p>Ritorno dell’Ambasciator francese. </p>
+<p>Presenta lettera del Re sopra li affari <lb/>
+di monsignor Bernvel et altri: dicendo <lb/>
+haver commesso al suo Ambasciator che assisti<ptr target="#tn49" n="49"/> <lb/>
+di consiglio; et fa ufficio in confor-<lb/>
+mità per la quiete universale. </p>
+<p>Ragionamento passato con monsignor di Murier <lb/>
+dimanda egli se ha il secretario conosciuto <lb/>
+monsignor Bernvel spagnuolo e contrario alli <lb/>
+affari della Republica. Risponde haverlo <lb/>
+conosciuto ben affettionato et così <lb/>
+lui conferma. </p>
+<p>Inghilterra non ha visitato Francia ma <lb/>
+complito per via del secretario a che non è <lb/>
+sta’ corresposo. </p>
+<p>Bernvel non è stato essaminato <lb/>
+il segretario Ledenburgh non è capitato, <lb/>
+et discorre sopra i suoi conscienti. </p>
+<p>L’auttore del libro contra il Carleton <lb/>
+è palesato dal stampator. </p>
+<p>Operato dal principe Mauritio nel negotio <lb/>
+della convocatione del sinodo. </p>
+<p>Pensieri di renovar il viaggio per le <lb/>
+Indie Orientali. </p>
+<p>Avisi di Barbantia d’accrescer <lb/>
+a quelle frontiere 4 mila fanti per valersene <lb/>
+dove fusse bisogno che habbino a <lb/>
+far mostra generale di militie: et <lb/>
+habbino ricercato da Milano la <lb/>
+cavalleria valona che dà sospetto <lb/>
+di sorpresa o altro. </p>
+<p>L. SS. R. </p>
+<p n="097vA">———</p>
+<p>Scriveno di Germania che le cose di <lb/>
+Boemia piegheranno bene. </p>
+<p>Desiderano quei sec(reta)ri saper se <lb/>
+la Republica resta libera dalla parte <lb/>
+da terra. </p>
+<p>Credeno che Ossunna travaglierà <lb/>
+sempre: desiderano che la <lb/>
+Republica adoperi le sue forze. </p>
+<p>Aspettano intender buon trattamento <lb/>
+delle genti d’armata. Et non vedendo <lb/>
+lettere dell’Amiraglio, Colonello e capitani <lb/>
+dicono siano trattenute. </p>
+<p>S’escusa al meglio può <lb/>
+ma desidera si facci capitar <lb/>
+qualche cosa. </p>
+<p>Accusa la negligenza di messaggeri <lb/>
+in portar le lettere. </p>
+<p>Dimanda come habbi a governarsi <lb/>
+con Francia: et che non lo <lb/>
+visiterà senz’altro ordine. </p>
+<p>Ha complito con madama della <lb/>
+Tremoglia. </p>
+<p>Ha fatto lettere per le navi Leon dorato <lb/>
+Vergine di Dordrechet: et Spechio <lb/>
+importano per 2 mesi ducati 5400 <lb/>
+restano a far per altre 3 di <lb/>
+Nortlandia e 3 di Ansterdam. </p>
+<p>Le lettere di cambio di Ansterdam sono <lb/>
+venute a cento grossi 3 ottavi <lb/>
+per ducato et v’è vantaggio però <lb/>
+sarà bene far rimesse. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-1" corrected above "-0."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Corrected above "et."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears; "q-" corrected above "s-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "affo verso" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "S-" corrected above "s-."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e-" corrected above -"a-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-o" corrected above -"a."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line on "far" crossed out with an insertion mark .</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "ma" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "pi-" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "m-" corrected above "n-."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Corrected above "quei."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-ll-" corrected above -"st-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-o-" corrected above -"u-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "a-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> There is a hole in the page.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-i" corrected above "-e"; followed by -"ne" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by "fosse" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-i" corrected above -"e."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "c(irc)a" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-r-" corrected above -"n-."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "da-" corrected above "lie-."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "-zz-" corrected above -"ss-."</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> "-s-" corrected above -"c-."</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "-ne" is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> "-a" corrected above -"e."</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "-i" corrected above -"o."</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> "di nuovo" added above the line with an insertion mark.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Corrected above "in."</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "d-" corrected above "a-."</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> "per hora" added above the line with an insertion mark.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> "-e" corrected above -"o."</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> "t-" is the result of a correction.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> "-ti" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.024 date 1617-11-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">024</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 138r-v, 141r-143v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 98) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp44-63#highlight-first)
+            </note>
+            <biblScope unit="page">138r-v, 141r-143v, 139r-140v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that a text had been published in reaction to Carleton’s speech on 6 November during the assembly of the States General, in which he seemed to favour the Counter-remonstrants. Carleton is furious and suspects Oldenbarnevelt is behind the publication. Report on his conversation with Carleton in cipher: Carleton stated that he thinks Oldenbarnevelt is mad.  In front of the States General, Carleton claims that the publication of this libel has offended the king and subsequently the States have now published a decree against the printer. Its author remains unknown, with many suspecting it is Oldenbarnevelt, but Suriano adds that this is not certain. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-27">27 novembre 1617</date>
+            <num>042, 043</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="042">
+<div type="main" facs="main text of letter" n="042">
+<!--<p>27 novembre 1617, L’Aia (cc. 138r-v, 141r-143v)</p>-->
+<pb n="138r" facs="05_138r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>Come scrissi riverentemente alla Serenità vostra con lettere de’ 6 del <lb/>
+presente l’ambasciator d’Inghilterra haveva fatta nell’assemblea <lb/>
+de’ Stati instanza perché fosse rescritto alla lettera <lb/>
+del suo Re toccante la materia di religione; et nell’<lb/>
+espositione sua haveva dette molte cose a favor <lb/>
+de’ gomoristi o contraremonstranti; onde quelli di <lb/>
+questo partito; havendo l’Ambasciator dato per scritto <lb/>
+la espositione la fecero stampare, et inaspetatamente <lb/>
+lunedì è uscita un’altra stampa in forma di risposta <lb/>
+intitolata Bilancia per pesar con ogni pace il dritto <lb/>
+della oratione del nobile, dotto, prudente, et provido <lb/>
+signore il signor Dudleio Carleton ambasciator del serenissimo re della Gran Bertagna etc. quanto questo tratto habbi <lb/>
+commosso l’animo dell’Ambasciatore la prudenza delle Signorie <lb/>
+vostre eccellentissime se lo può imaginare, mentre professa, che <lb/>
+quanto ha espresso tutto è stato d’ordine del Re <lb/>
+et che contra ogn’uso, ogni ragione, contra il ius <lb/>
+gentili si trovi chi viene ad attione di tal natura <lb/>
+che si ardisca di risponder contra un ambasciatore <lb/>
+ma quello che più importa della maniera, ch’è <lb/>
+stato fatto<ptr target="#tn1" n="1"/>, poiché l’auttore tassa esso Ambasciatore <lb/>
+con alcune parole assai intelligibili se ben coperte <lb/>
+di mendace, et poco aveduto; che parla contra
+<pb n="138v" facs="05_138v" rend="0"/>
+la propria sua religione, contra le dicisioni del Re contra <lb/>
+il Basilicon Doron o munus regium che sua Maestà dedicò al <lb/>
+già principe Henrico suo figliolo; et va dicendo altre <lb/>
+cose simili; onde serve l’opera più tosto di libello, che di <lb/>
+apologia. Ne fece querela col mezo del suo secretario <lb/>
+appresso il Presidente, tanto ha fatto col signor Bernvel <lb/>
+del quale resta disgustatissimo; a me ha detto libe-<lb/>
+ramente con queste formali parole <hi rend="decoded">io</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">ho stimato sempre il signor Bernauel per huomo di <lb/>
+prudenza et intelletto, ma hora mi avveggo bene, che è <lb/>
+matto, poiché havendo io mandato a far condoglienza <lb/>
+seco et dirle, che desidero riparatione, mi manda <lb/>
+a dire, che habbi patienza, che non mi movi in <lb/>
+questa materia, che lasci andar così</hi> <lb/>
+aggiungendo bisogna bene che <lb/>
+questa sia la mia ruina, o la ruina di qualche <lb/>
+altro per me non ne dubito poiché ho fatto, et esposto <lb/>
+quello, che dal Re mi è stato commandato; ma <lb/>
+altri forse si pentiranno. Li signori Stati hanno ben <lb/>
+fatti suprimer qui all’Haya li libri, et mandato <lb/>
+anco altrove per lo stesso effetto; ma questo non mi
+<pb n="141r" facs="05_141r" rend="0"/>
+voglio più non me ne contento; et insomma andò anco <lb/>
+essagerando, et con affetto assai vehemente parlando <lb/>
+di questo negotio dichiarandosi esser offeso il suo Re <lb/>
+et la riputatione regia rappresentando qui la Maestà sua. </p>
+<p>È stato vedendo quello che ne riusciva da queste <lb/>
+particolari querele, et vedendo non effettuarsi, che <lb/>
+quanto ho detto si fece chiamar sabbato nell’assem-<lb/>
+blea et con ufficio grave, et di comotione essagerò <lb/>
+l’insolenza, et in sostanza mostrò<ptr target="#tn3" n="3"/> ch’era offeso <lb/>
+il Re, ch’era offesa la sua persona, ch’era necessaria <lb/>
+una patente, et manifesta riparatione; disse che <lb/>
+l’haveva aspettata, et credeva, che senza <lb/>
+muoversi si fosse fatta poiché li stessi Stati Generali <lb/>
+erano gl’offesi come quelli, che havevano <lb/>
+permessa la stampa della sua espositione, et la <lb/>
+dispensa di essa per tutto il Paese portò essempii <lb/>
+diversi di essecutione in casi di particolari et spetialmente <lb/>
+che si haveva trovato pronto mezo di far <lb/>
+publicare contra uno, che haveva ammazzato <lb/>
+un particolar consigliere imponendo pene gravissime <lb/>
+al delinquente; ma più che uno era stato <lb/>
+frustato per l’Haya per haver semplicemente detto <lb/>
+forse essendo ubriaco che haveva veduto uno dei<ptr target="#tn4" n="4"/>
+<pb n="141v" facs="05_141v" rend="0"/>
+signori Stati alla messa (non lo nominò)<ptr target="#tn5" n="5"/> ma tutti intesero, che <lb/>
+volse inferir di monsignor Bernvel. Disse, che tutti li ambasciatori <lb/>
+et ministri de’ principi, che erano qui stavano con l’orrec-<lb/>
+chie attenti, et con l’occhio aperto per veder, et sentire <lb/>
+a che risolutione venissero li signori Stati per saper, come <lb/>
+dovessero esser nell’occasioni sicuri; che se non bastava <lb/>
+loro l’animo di riparar a questo disordine non poteva <lb/>
+dirsi più sicuro; et che tanto haverebbe potuto qualche-<lb/>
+d’uno ardire di tagliargli la golla, che non haverebbono <lb/>
+saputo, che rimedio prender. Simili altri concetti andò <lb/>
+con vehemente maniera portando, et ricercò in fine <lb/>
+che fossero abbrucciati publicamente li libri, et fossero <lb/>
+proclamati tanto l’auttor dell’opera quanto <lb/>
+lo stampator di essa. All’instanza dell’Amabsciator <lb/>
+si sono mostrate pronte le provincie di Gheldria, <lb/>
+Zelanda, Frisia, et Grunighen, quelle<ptr target="#tn6" n="6"/> di Utrechet <lb/>
+et di Ourisel mostrorono assai buona dispositione <lb/>
+ma quella di Holanda haverebbe voluto, com[e] <lb/>
+hieri li deputati ne fecero instanza all’Ambasciatore <lb/>
+che si diferisce l’essecutione all’avviso della <lb/>
+general Dieta, che si deve ridur fra otto giorni <lb/>
+l’Ambasciator non gliel’ha voluto acconsentire, dice <lb/>
+che non era stata fatta la sua espositione<ptr target="#tn7" n="7"/>
+<pb n="142r" facs="05_142r" rend="0"/>
+ad una particolar provincia; ma a tutte le Provincie <lb/>
+insieme, et che alli Stati Generali toccava il risolver <lb/>
+senza attender avviso altrui: così questa mattina <lb/>
+hanno risoluto di publicar una crida contro il <lb/>
+delinquente con taglia di milla fiorini; et di seicento <lb/>
+contro lo stampatore; et se questo in spatio di <lb/>
+certo tempo darà notitia dell’auttore resterà <lb/>
+libero; et ha voluto l’Ambasciatore questa mattina <lb/>
+col mezo d’un memoriale, che si aggiunga anco <lb/>
+pena alli complici nell’opera. Ha sospetto che <lb/>
+venga dalla mano di persona dipendente <hi rend="decoded">da</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">monsignor di Bernvel, come <lb/>
+dell’istesso partito</hi>; ma non può assicurarsene tanto <lb/>
+che basti, credo bene, che non lascierà stradda <lb/>
+intentata per venirne in cognitione: tanto mi <lb/>
+è parso degno della notitia delle Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Dall’Haya a’ 27 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="142v" facs="05_142v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="143r" facs="05_143r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="143v" facs="05_143v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="042">
+<!--
+<p n="143vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 novembre 1617 ricevute 13 decembre </p>
+<p>Haia. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="043" corresp="042" source="139r-140v" >
+<div type="main" facs="main text of attachment I" n="043" corresp="042" >
+<!--<p>Allegato I al n. 42 (cc. 139r-140v; decodifica di c. 138v)</p>-->
+<pb n="139r" facs="05_139r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="139v" facs="05_139v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="140r" facs="05_140r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="140v" facs="05_140v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "fatt" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "io … andar così" decoding of the encrypted text can be found on c. 139r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-ò" corrected above "-a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "de-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> ")" corrected above ;.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "alla" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "da … partito" decoding of the encrypted text in the internal margin; with cross-reference sign.</p></note>
+</div>
+</body>
+</text>
+</TEI>

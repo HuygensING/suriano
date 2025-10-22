@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.019 date 1619-06-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 102r-103v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp557-566
+            </note>
+            <biblScope unit="page">102r-103v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In Brussels rumours are spreading about Venice allowing passage to Spain and Suriano reports that he hopes these are not true. Reports on visit of the English ambassador to the Archdukes and in the Republic they think James wanting an extension of the Truce of a peace as is confirmed by the ambassador to the German lands, whose sole job it is to accommodate matters between Ferdinand and Bohemia. Suriano discusses the intentions of Ossuna with Magnus. Maurice is in Gelre reviewing fortresses and potentially might visit Cleves. Pach is still in Rotterdam and some notes on the cost of the munition of Il Leon Felice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-06-11">11 giugno 1619</date>
+            <num>035</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>11 giugno 1619, L’Aia (cc. 102r-103v)</p>-->
+<pb n="102r" facs="08_102r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 108 sola </p>
+<p>Serenissimo Principe </p>
+<p>s’io non havessi trovato esser li signori Stati pienamente avvisati di costà in particolare <lb/>
+della risoluta volontà della Serenità vostra di non lasciar passar le genti del re <lb/>
+di Spagna in Alemagna per il suo Stato li haverei fatti consapevoli <lb/>
+di quel tanto, ch’ella mi significa nelle sue lettere de’ 24 del passato: <lb/>
+con tutto ciò per confermar maggiormente questa risolutione di lei non <lb/>
+ho lasciato di conferirla con qualcheduni. Per abuso questi ultimi <lb/>
+giorni si era sparso, che la Serenità vostra si sarebbe contentata di far passar <lb/>
+a parte a parte sopra li vasselli, o galere di lei le genti ammassate <lb/>
+nel regno di Napoli; ma facile mi è stato il far cader questa voce <lb/>
+fondata sul vano. Come non dubito, che coll’informatione, che <lb/>
+darò al Pasini egli ancora farà riuscir vano quello, ch’è stato <lb/>
+sparso ultimamente in Brusseles del secretario dell’ambasciator del re Ferdinando <lb/>
+che si trova a quella corte, che vostra Serenità haveva concesso il passo a <lb/>
+conditione però, che non passassero più, che cinque galeoni alla <lb/>
+volta. Esso Pasini zelante al solito nel servitio di quella serenissima Republica <lb/>
+me lo ha scritto. </p>
+<p>Ho avuto avviso del ritorno dell’Ambasciator estraordinario inglese da Marimont <lb/>
+ove ha visitati li serenissimi arciduchi; ma non ho ancor incontro, che <lb/>
+habbi parlato con quelle Altezze del<ptr target="#tn1" n="1"/> negotio della tregua; ma <lb/>
+in questi signori vi è opinione, che se potrà il re di Inghilterra amerà più <lb/>
+tosto vederne la prorogatione, o una pace, che che* questi signori <lb/>
+riprendino l’armi. </p>
+<p>Questa opinione fa che si confermino anco, che l’andata del suo ambasciatore <lb/>
+in Alemagna non habbi a servir ad altro, che per accommodar <lb/>
+le cose tra Ferdinando, et Bohemi (<ptr target="#tn2" n="2"/>a’ quali (disse uno) vedendo <lb/>
+quella Maestà non poter assister come forse vorrebbe, per <lb/>
+mancamento di denaro, vorrà almeno portar la pace. Ma lo <lb/>
+stesso mi disse. Bohemi hanno havute buone informationi, et il
+<pb n="102v" facs="08_102v" rend="0"/>
+negotiato di Zanthen li è stato portato come per un specchio innanti <lb/>
+gl’occhi, et per tanto doveranno prender il loro vantaggio. </p>
+<p>Avvisi non si hanno qui delle operationi di quei Stati, che non pervenghino <lb/>
+all’Eccellenze vostre et più pronti, et più sinceri. Quelli che capitano qui dano <lb/>
+gusto per il rinforzo, che par che Bohemi vadino sempre più prendendo. </p>
+<p>Pochi si trovano qui al presente dei deputati delle Generalità; ma avanti <lb/>
+hieri fui col signor Magno di Zelanda a fine di conferirle l’offerta fatta <lb/>
+dal duca di Ossuna di restitutione, et dello stato all’incontro in che <lb/>
+si trovavano le galere, et le mercantie depredate, per communicarla <lb/>
+a’ suoi collega. Egli sorrise, et disse non è chi non sia sicuro, che Ossuna, <lb/>
+et li Spagnuoli faranno tutto per ingannar la serenissima Republica. </p>
+<p>Mentre le Provincie particolari vano facendo le loro convocationi ordinarie <lb/>
+qui da signori Stati si attende al radrizzamento dello Stato, et ad agiustar <lb/>
+gl’interessi di fuori: et sperano in particolare trovar ripiego molto <lb/>
+proprio per il comercio commune nelle Indie Orientali colla Natione <lb/>
+inglese, sopra che si travaglia con molto studio. </p>
+<p>Il signor principe di Oranges doveva nei contorni di Gheldria andar a <lb/>
+riveder le fortezze di frontiera, ove sono state mandate persone <lb/>
+espresse per assister al lavoro, volendo prevenir al bisogno <lb/>
+mentre si avvicina lo spirar della tregua sopra che sino a quest’hora <lb/>
+non si scorge qual sia la vera inclinatione. </p>
+<p>Haverà forse sua Eccellenza trovandosi vicino a Cleves risoluto di passar sin là <lb/>
+a visitar il principe di Brandemburgh, et la moglie nipote di lei. <lb/>
+Qui è stato fatto il comento sopra tal andata, che sia per il matrimonio <lb/>
+del qual scrissi riverentemente alla Serenità vostra colle mie de’ 5 del passato. <lb/>
+Alcuni lo tengono per fermo; ma che sarà più tosto per il principe <lb/>
+Henrico, altri che non; ma se andasse innanti questo parentato <lb/>
+stante qualche cessione che potesse conseguitar di pretensioni
+<pb n="103r" facs="08_103r" rend="0"/>
+nei stati di Cleves, et di Giuliers servirebbe per un gran stabilimento <lb/>
+di riputatione, et d’auttorità in questi paesi per la<ptr target="#tn3" n="3"/> casa di Nassau. </p>
+<p>Da precedenti lettere mie, et dall’ultime d’hoggi otto qui aggiunte <lb/>
+replicate haverà la Serenità vostra inteso, come sfortunatamente è passata <lb/>
+la levata del Pach. Egli si trova ancor a Roterdam solecitan-<lb/>
+do la ricuperatione di quello che potrà del denaro esborsato. <lb/>
+Et io (et lo dico con ogni sincerità) sento patimento gravissimo d’animo <lb/>
+per il servitio di lei. </p>
+<p>Al suo luocotenente capitan Cortlant rivenuto a me ho convenuto dar <lb/>
+altri settanta fiorini non li bastando li primi per far il viaggio, ma <lb/>
+sotto obligatione del capitan Pach di che ne do pur conto alli illustrissimi <lb/>
+signori proveditori all’armar. </p>
+<p>Speravo pur un giorno doppo più, et più instanze fatte haver quei benedetti <lb/>
+conti di Amsterdam; ma ancor sono allo stesso aspettando. Io non <lb/>
+so se sia negligenza dei ministri, o qualche altro rispetto. In <lb/>
+Nort Holandia ho convenuto rimandar li conti per dilucidatione <lb/>
+et perché mi trovo pronti, et spediti quelli di Roterdam, ho stimato <lb/>
+bene di mandar questi con li roli delle tre navi di quella <lb/>
+repartitione vi sarà anco aggiunto il primo conto, et la memoria <lb/>
+chiamata nell’ultimo ch’è in fiamingo con li primi se ben dell’<lb/>
+ultimo ne mando anco una copia tradotta in italiano. Per dilu-<lb/>
+cidatione del tutto il signor Antonio Luz sarà molto proprio. </p>
+<p>Mando anco con questa la nota della quantità, et del costo delle munitioni <lb/>
+poste nel vassello Il leon felice, che non ho potuto haver se non <lb/>
+questa mattina da Amsterdam dal mercante, che le ha fornite. Gratie [etc.]<ptr target="#tn4" n="4"/> </p>
+<p>Dall’Haya a’ 11 giugno 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="103v" facs="08_103v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 108 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="103vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>11 giugno 1619 ricevuta 26 detto </p>
+<p>Haya sola n° 108 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Parentesi aperta non seguita da analoga chiusa."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea su parola depennata."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Lacuna del margine esterno."</p></note>
+</div>
+</body>
+</text>
+</TEI>

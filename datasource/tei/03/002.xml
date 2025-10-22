@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.002 date 1616-10-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 14r-17v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Letter is not well conserved: several words are illegible. Some of terms and conditions are summarised in Geyl pp. 19-22
+            </note>
+            <biblScope unit="page">14r-17v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Elaborates on the financial costs attached to John Ernst of Nassau’s conditions to serve the Venetian Republic. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-02">2 ottobre 1616</date>
+            <num>004</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="004">
+<div type="main" facs="main text of letter" n="004">
+<!--<p>2 ottobre 1616, L’Aia (cc. 14r-17v)</p>-->
+<pb n="014r" facs="03_014r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>ho compiacciuto il signor conte Gio. Ernesto di cene, fare più <lb/>
+delli tre mille, che ha mostrato vostra Serenità desiderare affineché <lb/>
+possi formarne doi reggimenti interi, voleva tanti <lb/>
+che facesse tre reggimenti, che sarebbe stato il numero <lb/>
+di 4500 soldati; ma non ha imorato nell’istanza. </p>
+<p>Gli haverei permesso il levar dieci fanti più per <lb/>
+compagnia come me ne ricevo affine di poter arrivato <lb/>
+nello Stato<ptr target="#tn1" n="1"/> riempir con essi (come disse) il <lb/>
+numero delli tre milla cento, quando per morte <lb/>
+o per altro accidente non potesse condursi compito <lb/>
+ma sendo sicuro, ch’egli l’haverebbe fatto senza <lb/>
+altro interesse della Serenità vostra non ho voluto passare <lb/>
+et doppo stabilito ogni cosa tra noi, m’ha detto <lb/>
+che in ogni modo lo vuol fare, et mi ha promesso <lb/>
+di metterlo nelle commissioni che darà alli capitani <lb/>
+assicurandosi, che vostra Serenità se haverà qualche <lb/>
+soldati di più non ricuserà di pagarli alla <lb/>
+proportione. Hora se la Serenità vostra vorrà genti <lb/>
+d’avantaggio potrà deliberar colla prudenza su <lb/>
+l’ispedirmene immediate l’avviso. </p>
+<p>Colle prudentissime considerationi di lei portate al detto […]<ptr target="#tn2" n="2"/>
+<pb n="014v" facs="03_014v" rend="0"/>
+et al signor principe Mauritio ancora li ho fatti condessender al <lb/>
+non pensar alla levata della cavallaria parendo anco<ptr target="#tn3" n="3"/> <lb/>
+proprie le difficoltà che li rappresentai. </p>
+<p>Ho havuto che fare ad accordar lo stipendio delle compagnie <lb/>
+perché voleva mille duecento cinquanta scudi per ogni <lb/>
+compagnia di centociquanta fanti che resta accom-<lb/>
+modata in mille cento cinquanta scudi o ducatoni <lb/>
+specificati da lire sette l’uno, onde viene ad esser <lb/>
+la summa alla proportione de’ Svizzeri doicento <lb/>
+scudi più per paga per ogni trecento fanti rispetto <lb/>
+alli officiali doppii. </p>
+<p>Per la provisione de’ vasselli ho stimato meglio, che h[o] <lb/>
+fatta da lui perché ho considerato, che essendo io anco <lb/>
+nuovo nel Paese, et convenendo passar per le man[i] <lb/>
+de’ mercanti, o altri, che haveriano voluto far il <lb/>
+loro profitto poco o niente haverei avanzato <lb/>
+delli sei milla fiorini per vassello, ne haverei havuti <lb/>
+quegli adrizzi<ptr target="#tn4" n="4"/>, che haverà il signor Conte nel che si <lb/>
+vede interessarsi il publico, che vuol dire che ’l servitio <lb/>
+sarà fatto molto meglio et più sicuro la summa <lb/>
+importa per 15 vasselli novanta milla di questi
+<pb n="015r" facs="03_015r" rend="0"/>
+fiorini 60 mila li daverò<ptr target="#tn5" n="5"/> esborsar prontamente, et di là <lb/>
+si contenta pigliar li altri trenta mille. </p>
+<p>Quanto al donativo per li soldati non ho potuto ritrarne <lb/>
+che doi fiorini, et quattro piachi per testa ch’è la <lb/>
+metà di<ptr target="#tn6" n="6"/> un ongaro, et poco più. </p>
+<p>Nel punto delli 18 mesi di servitio al quale voleva il <lb/>
+Conte obbligar vostra Serenità per intertenerlo colle sue militie <lb/>
+quando fosse cessato il bisogno di lei ho durato fatica <lb/>
+infine è condesceso a sei mesi d’intartenimento doppo <lb/>
+il desimbarcamento nello stato della Serenità vostra. </p>
+<p>Et per la retirata quand’ella doppo detto<ptr target="#tn7" n="7"/> tempo <lb/>
+non vogli più haverlo in servitio dalli doi mesi ho <lb/>
+spuntato in mezo solamente onde haverà ad esborsar per <lb/>
+un mese, et mezo di paga. </p>
+<p>Non ha voluto contentarsi di meno di 24 mila fiorini <lb/>
+per l’avanzo<ptr target="#tn8" n="8"/> del comprar dell’armi, che saranno <lb/>
+poco più di seimilla ongari da esser scontati, come <lb/>
+intenderà nella scrittura. </p>
+<p>M’ha<ptr target="#tn9" n="9"/> replicato quanto all’intartenimento della <lb/>
+sua persona, che non se ne voleva dichiarire, ma che <lb/>
+aspettarebbe, che venisse la dichiaratione della
+<pb n="015v" facs="03_015v" rend="0"/>
+munificenza delle Signorie vostre eccellentissime, et che se bene fu accennato <lb/>
+per parte di lui di haver tre volte tanto quanto un <lb/>
+colonello svizzero né si sarebbe restretto assolutamente a <lb/>
+questo; ma sperava bene ch’ella haverebbono intorno <lb/>
+ciò quelle considerationi che sono proprie della loro <lb/>
+prudenza; come anco quanto alla paga delli <lb/>
+principali officiali del Colonellato, che saranno doi <lb/>
+luocotenenti, doi sargenti maggiori; et un prevosto <lb/>
+et mi ha astretto ad obligarmi della maniera, che la Serenità vostra <lb/>
+vedrà nella capitulatione, che tutto però resta rimesso <lb/>
+a lei, come sarà di là con le genti. </p>
+<p>Nessuno degl’articoli è stato fermato, che prima non <lb/>
+l’habbi ordinato, et consigliato il signor principe Mauritio <lb/>
+et secondo, che occorreva qualche difficoltà tra <lb/>
+di noi non la risolveva senza parlarne prima <lb/>
+a sua Eccellentia colla quale ho parlato più d’una volta<ptr target="#tn10" n="10"/> in questo <lb/>
+proposito, et ha promesso ogni assistenza il signor Conte per servire la Serenità vostra. </p>
+<p>Ho pregato Iddio, che m’illumini a condur bene <lb/>
+il negotio, et non so se sarò arrivato a quel segno
+<pb n="016r" facs="03_016r" rend="0"/>
+che possi intieramente sodisfare al desiderio, et vantaggio di <lb/>
+vostra Serenità in questa commissione; ma supplirà la benignità <lb/>
+di lei a comandar alla debolezza mia. </p>
+<p>Hieri otto che mi arrivorono le lettere di vostra Serenità le 9 del […] <lb/>
+ne ricevè il signor Vimes una<ptr target="#tn11" n="11"/> in fiamingo del Wasson-<lb/>
+ovem da Bolduch per saper se io havevo havuta risposta <lb/>
+nel suo proposito. Gli ho fatto scriver quanto da lei mi <lb/>
+è stato commandato, et se verrà a me non lascierò di <lb/>
+accordar seco quello che conoscerò esser proprio della <lb/>
+mente et servitio suo. </p>
+<p>Esso signor Vimes sarà tenuto appresso di me conforme al com-<lb/>
+mandamento della Serenità vostra et fin tanto che la levata, <lb/>
+et l’imbarco di essa sia fatto essendomi necessarissimo <lb/>
+per la lingua, et per la pratica che ha in affari di questa <lb/>
+natura; et poi mi risolverò a quello che stimerò <lb/>
+più a proposito o di dimandarlo colla stessa <lb/>
+flotta, o per terra a piedi di vostra Serenità colli roli <lb/>
+et ciò stimo il meglio affineché ella<ptr target="#tn12" n="12"/> <lb/>
+lo habbi presso di lei per dargli quelle <lb/>
+commissioni, che stimerà più a proposito per <lb/>
+il suo servitio tenendo per certo non esservi
+<pb n="016v" facs="03_016v" rend="0"/>
+alcuno, che in questa occasione particolarmente possi meglio servirla <lb/>
+di lui per riconoscer le genti che saranno state rolate, per <lb/>
+haver chi possi trattar con esse per la lingua, et perché dia <lb/>
+a conoscer la prontezza, et la qualità de’ soggetti, che <lb/>
+verranno a quel servitio. </p>
+<p>Io in ogni tempo ho havuta ogni più chiara testimonianza <lb/>
+con pienezza di benignità della munificenza della Serenità vostra <lb/>
+verso di me; et veggo anco al presente, che riguardando <lb/>
+alla povertà della mia fortuna, et gl’incommodi, che <lb/>
+ho patito si contenta ch’io mi rimborsi dello speso da me <lb/>
+fino a ricever dell’ordine di vostra Serenità l’istessa munificenza sono certo, che continuerà mentre non cesserà in me <lb/>
+(come non può<ptr target="#tn13" n="13"/> esser certo) il riverente affetto, et la devota <lb/>
+et pronta volontà di ben servirla. </p>
+<p>Stavo per terminar le presenti quando mi è venuto a trovar <lb/>
+il signor Conte et m’ha instantemente pregato di scriverle esserle <lb/>
+impossibile di poter con 15 vasselli imbarcar tre milla <lb/>
+cento fanti, che si è obligato, et qualche altro di più <lb/>
+che farà levar<ptr target="#tn14" n="14"/> oltre il numero come mi havea <lb/>
+detto; che però resti servita vostra Serenità di accordarli tre <lb/>
+altri vasselli, o doi almeno, che questo sarà poco, et
+<pb n="017r" facs="03_017r" rend="0"/>
+servirà a lei di gran profitto, et per la maggior sicurezza <lb/>
+et perché stando le genti più larghe staranno anco più care. </p>
+<p>Mi ha ricercato di farli contar il denaro per li vasselli, per il <lb/>
+donativo a’ soldati, et per l’armi, et io ho dato ordine <lb/>
+in virtù delle lettere di credito di 20mila ducati, che ho <lb/>
+ricevute per li gabrifortieri, et falconieri di Amsterdam <lb/>
+che gli contino per hora 40 mila fiorini, et faccino la provisione <lb/>
+del resto. </p>
+<p>Riespedisco a vostra Serenità in diligenza lo stesso corrispettivo che mi <lb/>
+ha portate le lettere sue de’ 25. Io haverei <lb/>
+voluto poter farlo prima; ma la maniera di q(uest)o Governo <lb/>
+la qualità del negotio, et il convenirsi dal secretario porta <lb/>
+dalla fiaminga nella lingua francese la scrittura […]<ptr target="#tn15" n="15"/> <lb/>
+ha causato dilatione; ma spero, ch’esso corrispettivo supplirà <lb/>
+per quanto è stato mancato. Al medesimo ho contati <lb/>
+cento quaranta ongari, de’ quali manderò poi con <lb/>
+altre le lettere di cambio a vostra Serenità la sodisfatione. </p>
+<p>Dall’Haya a’ 2 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="017v" facs="03_017v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="004">
+<!--
+<p n="017vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 ottobre 1616 ricevute 12 detto </p>
+<p>Secretario Surian dall’Haia 2<hi rend="superscript">a</hi> </p>
+<p>Ha compiacciuto il Conte di cento fanti <lb/>
+deve li 3 mila per far li due regimenti intieri. </p>
+<p>Il Conte condurrà oltre l’obligo X soldati <lb/>
+per compagnia di più, da rimetter li diffetti; <lb/>
+assicurandosi, che se haverà qualche soldato di <lb/>
+più, sarà pagato da sua Serenità. </p>
+<p>Se si vuol genti d’avantaggio, se li avisi. </p>
+<p>Ha divertito il pensiero di condur cavalleria. </p>
+<p>Ha lasciato al Conte il carico de’ vasselli, <lb/>
+per 15 vasselli importerà fiorini 90 mila a <lb/>
+6 mila per vassello 60 mila di là, di altri 30 mila a Venetia; </p>
+<p>Altri vantaggi guadagnati nell’accordare <lb/>
+per le arme 24 mila fiorini sono poco più de 6 mila ongari. </p>
+<p>Starà alla dechiaratione publica il Conte quanto al suo <lb/>
+trattenimento et de officiali del Collonellato. Accordato il tutto col consenso del principe Mauritio, <lb/>
+che promette assistenza al Conte. </p>
+<p>Al Wassonobem ha notificato l’ordine publico. </p>
+<p>Del Vimes risolverà quello stimato meglio, <lb/>
+di mandarlo per terra con li rolli; overo 2. </p>
+<p>Dice il Conte esser necessario 3 vasselli, o due <lb/>
+almeno di più, non supplendo li 15 et ne fa instanza. </p>
+<p>Ha dato ordine per il contar del denaro rimastogli riespedisce il corrispettivo c’egli ha dato <lb/>
+ongari 140. </p>
+<p>L. SS. C. <lb/>
+R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "rimp-" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "a-" corrected "su h-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "li daverò" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "dett-" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ho parlato più di una volta" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "da" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "lo habbi | et possa dargli" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "di più" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Faded ink.</p></note>
+</div>
+</body>
+</text>
+</TEI>

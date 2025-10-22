@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.006 date 1621-03-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">006</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 23r-25v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp592-612
+            </note>
+            <biblScope unit="page">23r-25v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that an ambassador of Denmark has arrived but that the purpose is unclear. As he was present during truce negotiations, some speculate he has returned for this purpose. Received news from States that princes of union might offer armistice to Spinola. Still no news from Digby, who has been received honorably by the archdukes. States are preparing to receive Frederick and Elizabeth Stuart, he requests instructions on how to behave. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-16">16 marzo 1621</date>
+            <num>009</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="009">
+<div type="main" facs="main text of letter" n="009">
+<!--<p>16 marzo 1621, L’Aia (cc. 23r-25v)</p>-->
+<pb n="023r" facs="10_023r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 281 comincia 280 </p>
+<p>Serenissimo Principe </p>
+<p>capitò qui avanti hieri un consigliero del re di Danimarca, che <lb/>
+viene con titolo d’ambasciatore, né havendo sin qui havuta audienza <lb/>
+non si sa il negotio preciso per il quale egli viene. Io lo ho <lb/>
+visitato né nel congresso ho potuto cavar alcuna cosa <lb/>
+non doverà però tardar a sapersi. Da questi signori viene <lb/>
+tenuto per fermo, che venga per il negotio della coadiutoria <lb/>
+a fine di disponer questi signori ad interessarvisi colli loro<ptr target="#tn1" n="1"/> <lb/>
+ufficii a sodisfattione del suo signore; in che parmi di haver <lb/>
+cavato dalli doi signori, che furono hieri a me, che già <lb/>
+il clero di Brem resti persuaso, et qualche altri della <lb/>
+città ancora, che ’l Re habbi ad esser contentato. Et viene <lb/>
+tenuto per fermo, che Vosberghen quello, che fu mandato <lb/>
+da sua Eccellenza verso quella Maestà, sotto mano nel suo <lb/>
+passaggio, et con destrezza senza interessar li signori Stati habbi <lb/>
+fatto qualche ufficio a fine di obligar quel Re, et con <lb/>
+tal maniera cauta non dar gelosia alla città stessa di <lb/>
+Brem, et ad altre delle ansiatiche. </p>
+<p>Questo medesimo consigliero fu qui nel tempo della trattatione della <lb/>
+tregua, onde molti si vogliono persuadere, che sia venuto <lb/>
+qui per il medesimo oggetto, et che ’l suo Re, non parlando le <lb/>
+doi corone habbi a servir per mediatore. Questo è discorso <lb/>
+fondato sopra opinione, ma non ancor nell’essentiale. <lb/>
+Smontò all’hosteria li signori Stati li fanno hora preparar <lb/>
+alloggiamento, il che fa argomentar, che habbi a far qui
+<pb n="023v" facs="10_023v" rend="0"/>
+qualche soggiorno. Non ha havuto incontro alcuno, ma se <lb/>
+improvvisamente è arrivato all’Haya, che manco il signor <lb/>
+ambasciator d’Inghilterra ha saputo del suo arrivo se non doppo <lb/>
+c’hebbe preso l’alloggiamento. </p>
+<p>Egli riferisce, che ’l suo Re col duca di Bransuich, di Mecheben-<lb/>
+burgh, et altri principi, et deputati di città nel circolo <lb/>
+della Bassa Sassonia dovevano ridursi nel paese di Holstein <lb/>
+a Segembergh per consultar delli affari di Alemagna <lb/>
+affermando, che ’l detto Re vi si porterà con ogni affetto <lb/>
+mentre vegga di non esser contrariato dagl’altri, et di <lb/>
+poter apportar beneficio alla causa commune. </p>
+<p>Il Re palatino, che al passaggio suo per Amburgh si trovava <lb/>
+in quella città doveva prima della detta riduttione <lb/>
+abboccarsi col<ptr target="#tn2" n="2"/> re di Danimarca, et di là poi ridursi <lb/>
+di nuovo a Walfenbutel et del successo di quella <lb/>
+Dieta si aspetta dai signori Stati con gran curiosità le novelle. </p>
+<p>Sono stati avvisati l’Eccellenze loro, che gl’altri principi dell’<lb/>
+Unione erano stati in deliberatione et risolutò anco di <lb/>
+domandar allo Spinola una sospension d’armi, et che <lb/>
+non havevano potuto ricever incontro di sodisfattione <lb/>
+il che viene interpretato dal<ptr target="#tn3" n="3"/> canto<ptr target="#tn4" n="4"/> de’ principi a <lb/>
+debolezza, et ad altrettanto<ptr target="#tn5" n="5"/> vigore da quella del marche[se] <lb/>
+avvisi, che non portano alcun gusto da questa parte <lb/>
+mentre massime sono anco accompagnati dalli acquisti, che
+<pb n="024r" facs="10_024r" rend="0"/>
+va facendo parendo, che ogni dì avanzi terreno; et temono <lb/>
+che ben tosto segua la total soggetione del Palatinato. </p>
+<p>Ancor non ci è qui nuova, che ’l cavalier Digbi a nome d’Inghilterra <lb/>
+sia arrivato a Brusseles, solo si ha, che da per tutto lo stato <lb/>
+della Fiandra, del Brabant, et in ogni luoco siano dalli <lb/>
+serenissimi arciduchi stati dati ordini espressi, che sia detto <lb/>
+Digbi trattato con ogni honorevolezza, et come fosser<ptr target="#tn6" n="6"/> le<ptr target="#tn7" n="7"/> <lb/>
+persone<ptr target="#tn8" n="8"/> proprie<ptr target="#tn9" n="9"/> di sue<ptr target="#tn10" n="10"/> Altezze. Et quelli che intendono le <lb/>
+cose si confermano; che crederanno Spagnuoli bastar <lb/>
+assai questi complimenti in luoco di sodisfar all’instanza <lb/>
+della restitutione del Palatinato per la quale è inviato. </p>
+<p>Vivono pur con speranza questi signori che in fine il re d’Inghilterra disin-<lb/>
+gattato habbi a far una buona risolutione; et lo stesso signor <lb/>
+ambasciator della Maestà sua il signor Carleton è del medesimo senso, et <lb/>
+mi disse di crederlo, et che n’haveva qualche caparra per <lb/>
+l’ordine, che haveva havuto di far provisione qui di <lb/>
+armi tanto corsaletti, che moschetti piche, et altre dipen-<lb/>
+denze per armar dodici milla fanti, et che le dovesse <lb/>
+haver pronte. Questo però non basta all’essentiale, che già <lb/>
+doverebbe esser ordinato dalla parte d’Inghilterra. </p>
+<p>Li signori Stati si preparano per ricever in quest’Haya il re, et <lb/>
+regina di Bohemia, che dovono venir fra quindeci giorni <lb/>
+o tre settimane alla più lunga; et già hanno spedito <lb/>
+ordine al capitano Stotburgh commissario della cavallaria di
+<pb n="024v" facs="10_024v" rend="0"/>
+andar a far scorta a quei principi con dodici compagnie <lb/>
+d’essa cavalleria. Hanno tenuta li signori stati celata la venuta <lb/>
+di detti principi sino a quest’hora, et al<ptr target="#tn11" n="11"/> presente <lb/>
+resta publica ad ognuno; ma ancor non si sa il fine <lb/>
+né a che oggetto si ritirino qui, et con essi sarà anco la <lb/>
+madre del Palatino. Haverei ben caro saper come gover-<lb/>
+narmi in questa occasione può esser che la risposta mi capiti <lb/>
+in tempo se l’accidente lo porterà; in ogni modo nelle <lb/>
+visite debite, et nei complimenti mi regolerò col star nella <lb/>
+generalità delli ufficii, finché habbi il vero metodo, et <lb/>
+il vero, et espresso ordine, et maniera che dalla Serenità vostra <lb/>
+mi sarà detata per caminar con essa all’essecutione de’ <lb/>
+suoi commandamenti. </p>
+<p>Ad alcuni capitani di cavallaria, et altri officiali de’ presidii <lb/>
+per li quali doveranno passar essi principi è stato com-<lb/>
+mandato di partire per rancontrarli, et farli honore. Et <lb/>
+uno di essi addimandando al signor principe d’Oranges <lb/>
+se spirata la tregua li venisse occasione di far qualche buon <lb/>
+servitio a questo Stato, se doverà abbracciarla, o che <lb/>
+sua Eccellenza si è stretta nelle spalle, et poi uscita a dire, <lb/>
+che non li poteva dir’altro, ma che occorrendo se<ptr target="#tn12" n="12"/> <lb/>
+haverebbe dato ordine a lui, et agl’altri vostra Serenità formi anco <lb/>
+da questo il giudicio suo prudente in questa materia. Gratie [etc.] </p>
+<p>Dall’Haya li 16 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="025r" facs="10_025r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="025v" facs="10_025v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 281 comincia 280<ptr target="#tn13" n="13"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="009">
+<!--
+<p n="025vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 marzo 1621 ricevute a’ 7 aprile </p>
+<p>Del segretario Suriano. n° 281<ptr target="#tn14" n="14"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "suo" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-lla" crossed out</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "parte" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-er" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "present" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "h" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Traces of seals"</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-1" corrected above "-0."</p></note>
+</div>
+</body>
+</text>
+</TEI>

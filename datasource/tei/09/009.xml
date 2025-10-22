@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.009 date 1620-03-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 32r-33v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">32r-33v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Waiting for confirmation of another ship at Texel. The vessel San Marco is near the Saltees islands. News from Ireland about the Santa Giustina, which has been shipwrecked, with 29 men drowning, and another ship which has had to ditch all its food supplies. Concludes by expressing the hope that the news is not true. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1620-03-31">31 marzo 1620</date>
+            <num>011</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="011">
+<div type="main" facs="main text of letter" n="011">
+<!--<p>31 marzo 1620, Amsterdam (cc. 32r-33v)</p>-->
+<pb n="032r" facs="09_032r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 191 comincia 190 </p>
+<p>Serenissimo Principe </p>
+<p>mentre aspettavo la confermatione dell’entrata nel Tessel <lb/>
+d’uno dei cinque restanti vasselli come scrissi la passata <lb/>
+settimana nelle mie lettere n° 189 che con l’altre n° 188 <lb/>
+haverà la Serenità vostra qui aggiunte replicate fui di nuovo <lb/>
+avvertito, che ’l umore era stato falso, et che ’l vassello San <lb/>
+Marco era scorso gettato dal vento contrario intorno alle <lb/>
+Sorles dietro all’isola d’Inghilterra. </p>
+<p>Sentendo questi avvisi, et non ricevendo risposta alla mie <lb/>
+lettere dai signori di quest’Amiralità stimai bene di conferirmi <lb/>
+in questa città<ptr target="#tn1" n="1"/> per sodisfar ai primi commandamenti che mi venero da lei in <lb/>
+lettere de’ 21 del passato. Feci l’ufficio, et mostrai all’<lb/>
+aperto anco in voce qual fosse il senso della Serenità vostra et doppo <lb/>
+haver dato segno questi signori di applauder a quanto dicevo <lb/>
+conclusero, che non vedevano di potersi far altro, che <lb/>
+attender la venuta dei vasselli; ma prima di pagare <lb/>
+far diligente essaminatione della causa perché tanto si siano <lb/>
+trattenuti in camino, et che mi assicurassi, che non have-<lb/>
+rebbono lasciato, che la serenissima Republica fosse punto <lb/>
+defraudata. Con quanto aggiungesi<ptr target="#tn2" n="2"/>, et procurassi di <lb/>
+tirar qualche risolutione al presente non fu possibile <lb/>
+cavar altro, che replicarmi quanto ho detto. Questo <lb/>
+conforma con quello, che cavai già l[i]<ptr target="#tn3" n="3"/> giorni<ptr target="#tn4" n="4"/> <lb/>
+passati dalli signori Stati, et scrissi colle mie lettere delli 17
+<pb n="032v" facs="09_032v" rend="0"/>
+dello stante io anco allhora accennai riverentemente; così ho <lb/>
+trovato riuscirmi, che tale sarebbe stato il senso di queste <lb/>
+Amiralità. Nel<ptr target="#tn5" n="5"/> vassello San Marco<ptr target="#tn6" n="6"/> vi è quello <lb/>
+a chi l’eccellentissimo signor principe Veniero ha dato sopra carico <lb/>
+in questo ritorno de’ vasselli. Doverò da lui ricever <lb/>
+ogni informatione. Ho pregato questi signori ad haver <lb/>
+a cuore gl’interessi della Serenità vostra, et tanto far anco con <lb/>
+quelli di Northolandia scrivendogli, poiché veggo, che <lb/>
+andando lì il viaggio mi riuscirebbe infruttuoso né <lb/>
+caverei altro. </p>
+<p>Mentre<ptr target="#tn7" n="7"/> scrivo mi capita un avviso, che m’ha percosso l’<lb/>
+animo sendosi inteso da una barca venuta d’Irlanda <lb/>
+che sopra quell’isola si sia affondata una delle navi <lb/>
+d’Encusen nominata Santa Giustina con<ptr target="#tn8" n="8"/> essersi affogati <lb/>
+vintinove huomini, et che un pezzo delli doi di bronzo <lb/>
+si trovava in spiaggia, et il resto andato a male <lb/>
+et haveva la nave rotte cinque ancore, et che la nuova <lb/>
+viene portata da alcuni de’ marinari scapati dal pericolo. </p>
+<p>Di più che la nave Menonistecherch facendo acqua haveva <lb/>
+scaricati tutti li viveri pur all’isola d’Irlanda <lb/>
+et procurava d’aiutar per non lasciar il padrone perder <lb/>
+il resto. Dio benedetto mi sia testimonio del patimento <lb/>
+gravissimo, che sento dubitando che tutto sia vero per
+<pb n="033r" facs="09_033r" rend="0"/>
+essermi portato l’avviso con tanti particolari. Vorrei che non <lb/>
+fosse vero, et ne prego di buon cuore sua divina Maestà, come <lb/>
+anco che concedi alla Serenità vostra, et alle Signorie vostre eccellentissime felicissimamente <lb/>
+le sante feste della prossima Pasqua. Coll’ordinario venturo <lb/>
+haverà maggior sicurezza. Gratie etc. </p>
+<p>Di [Am]sterdam<ptr target="#tn9" n="9"/> li 31 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="033v" facs="09_033v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 191 comincia 190 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="011">
+<!--
+<p n="033vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 marzo 1620 ricevute 15 aprile </p>
+<p>Del segretario Suriano. n° 191 </p>
+<p>L. C. R. </p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ink stain.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "dall" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "n-" corrected above "d-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-tre" added above the line.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "[Am]ster-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

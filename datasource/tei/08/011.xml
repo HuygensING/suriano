@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.011 date 1619-05-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 60r-62v, 64r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">60r-62v, 64r-v, 63r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In Rotterdam almost 100 men were seeking to enlist in service of Venice, but he has enlisted 32 men. They will travel to Venice overland. In Amsterdam Pach has difficulties enlisting people. He has not yet received the bills from admiralty except from North Holland, which he has translated and complains about delay due to the distance and travel is expense. Rumours that the Venetians have allowed Spain access to the German lands but he has received news to the contrary. Neither agents from Bohemia have visited Suriano so far and he has not yet visited Maurice. Continued levies in Southern NEtherlands and rumours that Albert wants to become Emperor. Further news about Henry. Carleton confirms that there will be a marriage to unite the Nassaus with Brandenburg. Payment of two months rent to Nicolo Perez and more payments regarding the twelve ships. One text attached: a letter about payment of the twelve ships</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-05-05">5 maggio 1619</date>
+            <num>019, 020</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="019">
+<div type="main" facs="main text of letter" n="019">
+<!--<p>5 maggio 1619, L’Aia (cc. 60r-62v, 64r-v)</p>-->
+<pb n="060r" facs="08_060r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 101 sola </p>
+<p>Serenissimo Principe </p>
+<p>furono ben quasi cent’huomini a Roterdam, che ricercavano servitio <lb/>
+ma scoprendo io alcuni di essi non atti alla professione meno di <lb/>
+sotto bombardiere; et altri non sufficienti per sé stessi, o coll’altrui <lb/>
+mezo a dar sicurtà del denaro sono stati da me reietti, et <lb/>
+fra capi, et compagni, ne rolai trentadoi, li quali tutti anco <lb/>
+sono partiti per far per terra la stradda de’ Svizzeri, et <lb/>
+Grisoni, dando voce a Roterdam di far quella di Francia <lb/>
+alla volta di Marsiglia. Piaccia a Dio che non habbino <lb/>
+incontro, che li detorni. </p>
+<p>Rivenne qui hier sera il Pach, et questa sera parte per Amsterdam <lb/>
+per ordinar al resto, et farmi saper quando doverò transfe-<lb/>
+rirmi o là, o in altro luoco<ptr target="#tn1" n="1"/> per rolar anco quelli, che <lb/>
+lo aspettano. Si ha difficoltà a trovar genti proprie, et piezzarie <lb/>
+perché questi huomini di mare non sono così conosciuti da tutti. <lb/>
+Io però mi governerò alla meglio, che mi sarà possibile coi <lb/>
+commandamenti della Serenità vostra. </p>
+<p>Colli presi sin hora ha convenuto il Pach acconsentir<ptr target="#tn2" n="2"/> di darli <lb/>
+tre paghe: altrimenti non volevano accordarsi; ma di tutte <lb/>
+tre per mano di notaro ho havuto le piezarie. </p>
+<p>Per quanto habbi solecitato non ho potuto haver li conti da <lb/>
+queste Amiralità, eccetto che hier mattina mi pervenero <lb/>
+quelli di Nort Holandia, che faccio tradurre a fine di saper <lb/>
+lo stato del debito, et poter poi dar quell’ordine per l’intera <lb/>
+sodisfattione, che si conviene. La distanza di questi magistrati <lb/>
+mi pregiudica grandemente nella perdita del tempo, perché <lb/>
+la solecitatione<ptr target="#tn3" n="3"/> con lettere non è tanta che basti; et il <lb/>
+conferirimi sempre in quei luochi non lo posso far se non con <lb/>
+gran spesa, et interesse di vostra Serenità alla cui volontà obedirò
+<pb n="060v" facs="08_060v" rend="0"/>
+nel mandar il conto a suo tempo in che haverò dispensati <lb/>
+li 25 mila ducati, come mostra desiderare, et sarà, subito fatto <lb/>
+l’esborso necessario già cominciato a queste Amiralità, et ispedito <lb/>
+il capitano Pach dalla sua levata. </p>
+<p>Ho sentita consolatione, ch’ella resti servita di quanto ho <lb/>
+operato nel noleggio<ptr target="#tn4" n="4"/> della nave Il leon felice, come lo <lb/>
+veggo nelle sue lettere dei 19 et prudentissimo è stato l’ordine <lb/>
+dato da lei della mutatione di qualcheduni delli dodici vasselli, et <lb/>
+de alcuni<ptr target="#tn5" n="5"/> marinari in particolare di essi. Non si sentono hora tanti <lb/>
+lamenti; et come ho fatto sempre, così non mancarò in ogni <lb/>
+possibil maniera di far apparer tutto ’l contrario delle male <lb/>
+relationi: non è però, che queste rabbiose donne qualche <lb/>
+volta non strilino. </p>
+<p>Sopra quanto mi aggiunge vostra Serenità nelle sudette lettere sue delle voci <lb/>
+sparse, ch’ella havesse dato il passo a’ Spagnuoli per Germania <lb/>
+ho scoperto ultimamente che mentre mi sono trovato in Tessel <lb/>
+dalla corte palatina havevano ricevuto questi signori un tal<ptr target="#tn6" n="6"/> avviso <lb/>
+scrittoli dal loro agente appresso il serenissimo Elettore; ma in <lb/>
+un medesimo tempo hebbero per lettere di Venetia certezza <lb/>
+del contrario; et so che li agenti di Bohemi, che sono <lb/>
+qui hanno avvisi della risolutione di vostra Serenità di non dar detto <lb/>
+passo. Io però mi valerò dell’avvertimento datomi da lei <lb/>
+se l’occasione lo ricercarà. </p>
+<p>Detti agenti ancor<ptr target="#tn7" n="7"/> non sono stati a trovarmi. Uno<ptr target="#tn8" n="8"/> è impe[…]<ptr target="#tn9" n="9"/> <lb/>
+nella sua levata di mille moschettieri, et l’altro è spesso <lb/>
+con alcuni di questi signori per attender alla fermezza dell’<lb/>
+assistenza; et per la conclusione<ptr target="#tn10" n="10"/> resta tuttavia in forse <lb/>
+la provincia di Frisia; ma non si penetra in che consist[e]<ptr target="#tn11" n="11"/>
+<pb n="061r" facs="08_061r" rend="0"/>
+la discrepanza de’ pareri. Le lettere per il re d’Inghilterra a lor favo-<lb/>
+re sono partite; quelle dirette a vostra Serenità sono state scritte. Credo <lb/>
+che le voglino dar a me per inviarle. Starò attendendo. </p>
+<p>Qui stanno gl’animi molto intenti alle cose di Germania; et hieri, <lb/>
+che vidi il signor principe Mauritio mi parlò egli con gran dubietà <lb/>
+di quello possino far li principi dell’Unione. S’è inteso, che <lb/>
+hanno permesso il passo a qualche mille cavalli; et disse l’Eccellenza sua <lb/>
+segno di debolezza; et continuò si vanno armando; ma <lb/>
+dubito, che sarà tardo; et massime per le levate, che alcuni <lb/>
+di essi fanno da questa parte. Et di quella del capitan <lb/>
+Frinch per Bohemi mostrò di temere, che la metà delle genti <lb/>
+si havesse a sbandare nel passar per la Germania. </p>
+<p>Mille cavalli di quelli levati dalla parte dei signori arciduchi si ha <lb/>
+avviso che siano passati, et che lunedì ultimo ad Arlon <lb/>
+nel Lucemburgh doveva darsi mostra a doi reggimenti <lb/>
+d’infanteria, et a mille cavalli; et sino a questi’hora <lb/>
+devono marchiare. </p>
+<p>Anco il conte Gio. di Nassau doveva partir alla volta di Treveri <lb/>
+havendo in quei confini li suoi officiali, che formano il suo <lb/>
+reggimento. La gente per quanto viene detto è assai buona <lb/>
+et ha ordine di marchiar quanto più presto; et tutta <lb/>
+sarà pagata dei denari del re di Spagna.</p>
+<p>[Si]<ptr target="#tn12" n="12"/> va tuttavia mantenendo la voce sparsa, che il serenissimo Alberto <lb/>
+vogli attender al titolo d’Imperatore, et che la serenissima Infanta <lb/>
+vi concorri con gran desiderio. Il fine vogliono alcuni sia <lb/>
+perché conoschino l’Altezze loro esser più facile, et più <lb/>
+plausibile la sua essaltatione all’Imperio, che quella di <lb/>
+Ferdinando; ma che eletta sua Altezza Imperatore non<ptr target="#tn13" n="13"/>
+<pb n="061v" facs="08_061v" rend="0"/>
+mancherebbe a Ferdinando il titolo di re de’ Romani. Tutto al <lb/>
+presente si volge in discorsi, et quelli della religione reformata <lb/>
+hanno l’occhio sopra il Palatino, o altro del suo partito, <lb/>
+ma lo veggono di difficissima riuscita. </p>
+<p>Era un pezzo, che non havevo visitata sua Eccellenza et presi hieri occasione <lb/>
+di far questo ufficio; et havendo ricevuto le lettere sue de’ 19 <lb/>
+del passato, et l’ordine di vostra Serenità di quello dovevo far saper <lb/>
+a questi signori intorno l’Unione, glielo communicai. Mostrò <lb/>
+di compiacersene, et disse, che haverebbe parlato con alcuni <lb/>
+dei signori Stati. Trovò buono quello, ch’ella desiderava saper <lb/>
+ciò che queste Provincie havessero fatto in caso, che la <lb/>
+serenissima Republica non havesse bisogno de navi. Non messe difficoltà, <lb/>
+che haverebbono contribuiti denari; ma quanto al particolar <lb/>
+di diversione considerò, che tanto per vostra Serenità che per li signori Strati <lb/>
+era punto di gran consideratione, perché sarebbe stato <lb/>
+entrar o l’uno, o l’altro in guerra aperta quando una <lb/>
+delle parti fosse stata in pace; et che col denaro si poteva <lb/>
+più francamente, et con prontezza proveder al bisogno dell’<lb/>
+uno, et dell’altro: tuttavia che non si doveva lasciar di <lb/>
+pensare come bene, et a commun servitio si potesse <lb/>
+essequir anco questo. Lasciai l’Eccellenza sua ben impressa della <lb/>
+buona volontà della Serenità vostra, et mi disse, che stima[va]<ptr target="#tn14" n="14"/> <lb/>
+a proposito, ch’io mi trovassi con li doi signori che già […]<ptr target="#tn15" n="15"/> <lb/>
+parlorono a nome dei Stati per communicar con essi <lb/>
+come egli ancora haverebbe fatto. Così farò uno di <lb/>
+questi giorni. Non essendo li sudetti signori più stati <lb/>
+a me, m’è riuscito in questo ciò che riverentemente scrissi <lb/>
+nel fine delle mie lettere n° 99 ch’erano allhora
+<pb n="062r" facs="08_062r" rend="0"/>
+venuti per cavar da me se havevo qualche cosa da comunicar <lb/>
+solamente alli signori Stati. Con questo, che mi è stato concesso <lb/>
+da vostra Serenità passerò avanti, et caminerò con quella maniera, <lb/>
+che stimerò cauta, propria al servitio, et di dignità <lb/>
+della Serenità vostra. </p>
+<p>Ma di già haverà ricevuto in mie lettere de’ 14 del passato ciò <lb/>
+che mi diede in nota il signor principe Henrico per apertura <lb/>
+della sua condotta. Con quello, che mi commanda nelle <lb/>
+ultime lettere sue proseguirò innanti. Né hieri volli toccar-<lb/>
+ne motivo a sua Eccellenza parendomi bene di conferir prima col <lb/>
+signor principe Henrico per caminar sicuro con sua sodisfattione <lb/>
+et per saper come regolarmi nell’essequir pontualmente quanto <lb/>
+mi viene da lei commesso, et poi le ne darò riverente conto. </p>
+<p>A questo proposito dirò alla Serenità vostra quello che mi è stato affer-<lb/>
+mato dal signor ambasciator d’Inghilterra et è che si tratta matrimonio <lb/>
+tra la casa di Nassau, et quella di Brandemburgh. Trattandosi <lb/>
+di<ptr target="#tn16" n="16"/> metter in questa di Nassau una figlia del signor Marchese <lb/>
+elettore, et che habbi ad esser per il signor principe Mauritio; <lb/>
+che il negotio è stato trattato, et la cosa esser avanti assai <lb/>
+et che quella Principessa sotto pretesto di visita<ptr target="#tn17" n="17"/> o di <lb/>
+trovarsi col Principe suo fratello deve venir a Cleves <lb/>
+ove egli si trova; et là […]<ptr target="#tn18" n="18"/> come vicina potrà esser <lb/>
+veduta; che però correva dubio se<ptr target="#tn19" n="19"/> sua Eccellenza la volesse <lb/>
+forse haver per il signor principe Henrico: ma tuttavia <lb/>
+si credeva, che haverebbe l’Eccellenza sua pensato per sé stessa. <lb/>
+Il fine di questa aleanza non si scuopre; et non vi è<ptr target="#tn20" n="20"/> dubio, che <lb/>
+nei beni dotali potrebbono comprendersi li stati di Giuliers <lb/>
+et di Cleves. Vedrò di cavarne il certo. </p>
+<pb n="062v" facs="08_062v" rend="0"/>
+<p>La lettera che scrissi a’ 24 marzo per il pagamento di doi <lb/>
+mesi di noleggio per la nave Il leon felice verrà riformata <lb/>
+dovendo esser pagabile al signor Nicolò Perez. </p>
+<p>Per le dodici ho fatte anco dieci lettere pagabili, et per il <lb/>
+valore come nella nota che invio con queste, alle quali <lb/>
+sarà anco aggiunta la lettera n° 100, che scrissi a’ 29 <lb/>
+del passato ispedita per via d’Anversa. Gratie etc. </p>
+<p>Dall’Haya a’ 5 maggio 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="064r" facs="08_064r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="064v" facs="08_064v" rend="270"/>
+<p>Al serenissimo Pricipe di Venetia </p>
+<p>n° 101 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="019">
+<!--
+<p n="064vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 maggio 1619 ricevute 22 […]<ptr target="#tn21" n="21"/> </p>
+<p>Haya sola n° […]<ptr target="#tn22" n="22"/> </p>
+<p>Di circa cent’huomini disposti a venir per bombardieri <lb/>
+ne ha rolato 32 [c]he<ptr target="#tn23" n="23"/> vengono per la strada di Svizzeri. </p>
+<p>Il Pac va in Ansterdam per ordinar il resto. <lb/>
+Trovano difficoltà di piezarie: alli rolati <lb/>
+ha dato 3 paghe con sicurtà. </p>
+<p>Manderà li conti: non si senteno tanti lamenti. </p>
+<p>Si valerà de avisi in proposito di passo. </p>
+<p>Agenti di Bohemi non sono ancor stati <lb/>
+a trovarlo: sono impediti uno nella <lb/>
+levata di mille moschettieri, l’altro <lb/>
+nel negotio dell’assistenza: in questa <lb/>
+ultima resta discrepante la Frisia. </p>
+<p>Le lettere per Inghilterra a favore de’ Bohemi sono <lb/>
+partite: le dirette a sua Serenità sono scritte<ptr target="#tn24" n="24"/> <lb/>
+pensa voglino darle a lui d’inviar. </p>
+<p>Mauritio sta dubioso delle cose di <lb/>
+Germania ciò che possono far quei dell’Unione. </p>
+<p>Dicesi hanno permesso il passo a circa <lb/>
+mille cavalli, che è segno di debolezza: <lb/>
+continua Mauritio in dire che si vano <lb/>
+armando ma sarà tardo massime per le <lb/>
+levate da quella parte, e mostra temer <lb/>
+di quella del Frinch per Bohemi che <lb/>
+la metà delle genti s’habbi a sbandar <lb/>
+passando per Germania. </p>
+<p>Mille cavalli dalla parte di arciduchi sono <lb/>
+passati, et ad altri si deve dar mostra. </p>
+<p>Il conte Gio. di Nassau deve passar per Treviri <lb/>
+havendo là i suoi officiali la gente è buona <lb/>
+e sarà pagata da Spagna. </p>
+<p>Voce che Alberto attendi all’Imperio <lb/>
+e l’Infanta vi concorre, e pensano </p>
+<p n="064vD">———</p>
+<p>[…]<ptr target="#tn25" n="25"/> più facile a lui che a […]<ptr target="#tn26" n="26"/> <lb/>
+[c]he eletto lui non mancherebbe a <lb/>
+[…]<ptr target="#tn27" n="27"/> re de’ Romani […]<ptr target="#tn28" n="28"/> hanno l’occhio <lb/>
+[…]<ptr target="#tn29" n="29"/> Palatino. </p>
+<p>Ha comunicato a Mauritio l’ordine di <lb/>
+quello ha da comunicar circa l’Unione. <lb/>
+Se n’è compiaciuto, et disse ne <lb/>
+haverebbe parlato con alcuno dei signori. <lb/>
+Trova buona la dimanda, circa <lb/>
+la contributione di danaro ma intorno <lb/>
+la diversione fa diverse considerationi <lb/>
+che meglio saria la contributione <lb/>
+del danaro. Tuttavia s’haverà consideratione. <lb/>
+Disse ne parli con li 2 deputadi <lb/>
+et così fara il secretario. </p>
+<p>Parlerà col principe Henrico e <lb/>
+essequirà le commissioni. </p>
+<p>Matrimonio si tratta colla casa <lb/>
+di Nassau e di Brandemburgh. </p>
+<p>Ha riformato lettera per <lb/>
+le paghe del Leon felice, et </p>
+<p>Manda nota di lettere <lb/>
+fatte per altri vasselli. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="020" corresp="019" source="63r-v" >
+<div type="main" facs="main text of attachment I" n="020" corresp="019" >
+<!--<p>Allegato I al n. 19 (cc. 63r-v)</p>-->
+<pb n="063r" facs="08_063r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Nota delle lettere fatte alli compartecipi delli dodici vasselli <lb/>
+per il pagamento delli loro noleggi del duodecimo, et <lb/>
+terzodecimo mese sotto questo di 5 maggio </p>
+<table>
+<row role="label">
+<cell><p>1. Per la nave San Marco per fiorini</p>
+<p>pagabili al magnifico Melchior Noirott </p></cell>
+<cell><p>7200 ducati 2880 </p></cell>
+</row>
+<row>
+<cell><p>2. Per la nave San Christofforo per fiorini</p>
+<p>pagabili alli magnifici Clas Classen Houtyn, Gis-<lb/>
+bert de Coninek, Hendrick van Zuityn <lb/>
+partecipi o a chi essi ordineranno in piedi <lb/>
+della lettera </p></cell>
+<cell><p>4800 ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>3. Per la nave San Francesco per fiorini</p>
+<p>pagabili a Pieter Evertson o a cui ordi-<lb/>
+nerà in piedi della lettera </p></cell>
+<cell><p>4800 ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>4. Per la nave Menonistekerk per fiorini</p>
+<p>pagabili al magnifico Gio. de Waele </p></cell>
+<cell><p>5100 ducati 2040 </p></cell>
+</row>
+<row>
+<cell><p>5. Per la nave Anna Riverson per fiorini</p>
+<p>pagabili al magnifico Nicolò Perez </p></cell>
+<cell><p>3600 ducati 1440 </p></cell>
+</row>
+<row>
+<cell><p>6. Per la nave Emaus per fiorini</p>
+<p>pagabili al magnifico Nicolò Perez </p></cell>
+<cell><p>4800 ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>7. Per la nave Lo specchio per fiorini</p>
+<p>pagabili al capitano Dirich Pieterson Proost <lb/>
+o a chi egli ordinerà in piedi della <lb/>
+lettera </p></cell>
+<cell><p>4400 ducati 1760 </p></cell>
+</row>
+<row>
+<cell><p>8. Per la nave Li tre re per fiorini</p>
+<p>pagabili alli magnifici Guglielmo Dopenghiser, et <lb/>
+Gio. Van Groll </p></cell>
+<cell><p>4100 ducati 1640 </p></cell>
+</row>
+<row>
+<cell><p>9. Per la nave Il leon dorato per fiorini</p>
+<p>pagabili alli magnifici Luca van Uffelen, et Gio-<lb/>
+van Mere </p></cell>
+<cell><p>4800 ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>10. Per le navi Santa Giustina per fiorini</p></cell>
+<cell><p>4100 ducati 1640 </p></cell>
+</row>
+<row>
+<cell><p>11. Bonte Koi, o Vacca macchiata per fiorini </p></cell>
+<cell><p>4100 ducati 1640 </p></cell>
+</row>
+<row>
+<cell><p>12. Re David per fiorini</p>
+<p>pagabili per queste tre navi in una sola lettera <lb/>
+al magnifico Steffano van Este. Et saranno per <lb/>
+queste tre, ducati 4560 </p></cell>
+<cell><p>3200 ducati 1280 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>55000 ducati 22000 </p></cell>
+</row>
+</table>
+<pb n="063v" facs="08_063v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-nsenti- esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue non depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o esito di correzione."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "un tal aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "a- esito di correzione."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "U- esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Segue , depennata."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Lacuna del supporto."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Lacuna del supporto."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Lacuna del supporto."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue da depennato."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue di depennato."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Segno di dubbia lettura."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Lacuna del supporto."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Come pare."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "Lacerazione del supporto."</p></note>
+</div>
+</body>
+</text>
+</TEI>

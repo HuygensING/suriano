@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.007 date 1620-03-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 26r-27v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">26r-27v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Emaus has arrived in Rotterdam, its mariners have been paid. There is no further certain news about the other 5 ships. Awaiting reply from admiralty in pending cases. Reports what he has paid Pach in the previous year, and claims he will not be able to recuperate money without note of people who have not arrived in Venice. Reports he has been visited by two sons of Pauw about the payment of the ship. He has also received a renewed request to free the Frisian soldier condemned to the galleys in venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-24">24 marzo 1620</date>
+            <num>009</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="009">
+<div type="main" facs="main text of letter" n="009">
+<!--<p>24 marzo 1620, L’Aia (cc. 26r-27v)</p>-->
+<pb n="026r" facs="09_026r" rend="0"/>
+<head>main text of letter</head>
+<p>Sola </p>
+<p>n° 189 comincia<ptr target="#tn1" n="1"/> 188 </p>
+<p>Serenissimo Principe </p>
+<p>nelle lettere mie seconde de hoggi otto, che con la prima, et terza <lb/>
+mando replicata<ptr target="#tn2" n="2"/> aggiunsi l’avviso havuto in quel punto del <lb/>
+vassello Emaus a Roterdam; n’hebbi la confirmatione, et <lb/>
+venerdì furono pagati li marinari. </p>
+<p>Delli altri cinque vasselli ancor non ho l’arrivo, se ben mentre <lb/>
+scrivo mi capitano lettere del Calandrini con avviso, che <lb/>
+uno fosse entrato in Tessel; ma non era del tutto certo, et che ’l <lb/>
+vassello San Marco era stato lasciato nel mar di Spagna <lb/>
+s’è dubitato assai da’ partionevoli<ptr target="#tn3" n="3"/> per certa nuova havuta <lb/>
+che fusse capitato in mano dei corsari, et sabbato fu pagato <lb/>
+sopra esso di sicurtà 25 per cento. Lodato Iddio, che sia <lb/>
+altrimenti. </p>
+<p>Sto aspettando dalle Amiralità la risposta<ptr target="#tn4" n="4"/> a quanto le <lb/>
+scrissi in conformità di ciò, ch’ella mi disse del suo senso <lb/>
+in lettere de’ 21 del passato; quando vegga che tardino di <lb/>
+vantaggio di quello spero risolverò d’andar a loro <lb/>
+per l’ufficio, che si deve di presenza. </p>
+<p>Scrivo agl’illustrissimi signori proveditori all’armamento ad instanza delli capitani <lb/>
+Pach, et Cortlant, mostrando essi desiderar che siano <lb/>
+agiustati li loro conti, et haver sodisfatione, et che questo <lb/>
+non potendo farsi senza mia attestatione, ch’esso Pach <lb/>
+in particolare habbi fatto quello, che gli è stato possibile per <lb/>
+condur li cento fra bombardieri, et aiutanti; ma <lb/>
+che per li molti rancontri<ptr target="#tn5" n="5"/> havuti, et fino di correr <lb/>
+pericolo della vita non ha potuto<ptr target="#tn6" n="6"/> far <lb/>
+più di quello che fece, mi hanno pregato di attestar
+<pb n="026v" facs="09_026v" rend="0"/>
+questo tanto. Io non saprei aggiunger più di ciò<ptr target="#tn7" n="7"/> che in questo <lb/>
+proposito le significai riverentemente l’anno passato nel mese di <lb/>
+aprile, et di maggio, et di tempo in tempo sono andato ag-<lb/>
+giungendo, da che haverà la prudenza dell’Eccellenze vostre compreso <lb/>
+che non poteva far di vantaggio, et per tanto per loro benignità <lb/>
+commanderanno, che li doi capitani sudetti siano spediti, et <lb/>
+sodisfatti con far che loro sia ritenuto quant’hanno havuto<ptr target="#tn8" n="8"/> <lb/>
+a buon conto di sue paghe, et sopra l’obligo che di cento fiorini <lb/>
+fece il Pach al Calandrini per far il viaggio verso Venetia. </p>
+<p>Io ancora aspetto la nota, che altre volte ho ricercata di quelli <lb/>
+che levati, et accordati qui dal Pach non sono arrivati perché <lb/>
+senza questa, et senza sicurezza non posso tentar (se <lb/>
+sarà possibile) la ricuperatione del denaro esborsato. <lb/>
+Scrissi di ciò in mie lettere de’ 16 luglio a quell’eccellentissimo Senato <lb/>
+et in altre de’ 23 detto alli illustrissimi signori all’armar. Aggiunsi <lb/>
+ancora doppo nella medesima sostanza altre mie, instando <lb/>
+per la detta nota, et per sapermi regolar quando mi occorresse <lb/>
+far l’instanza al magistrato di Roterdam per quello che <lb/>
+successe come scrissi. </p>
+<p>Doi figli del borgomastro Pavoni furono a pregarmi per <lb/>
+nome del padre, et delli altri fratelli interessati nella nave <lb/>
+il Pavone licentiata ultimamente dalla Serenità vostra perch’ella si <lb/>
+compiacesse dar ordine che ’l patron del vassello fosse pronta-<lb/>
+mente pagato, et non portato in lungo sendo che questo <lb/>
+riesce di troppo loro danno, et interesse. Questi pretendono <lb/>
+il resto di quanto vanno creditori per il servitio fatto col detto
+<pb n="027r" facs="09_027r" rend="0"/>
+vassello. Altre volte ho riverentemente rappresentata l’auttorità <lb/>
+che ha particolarmente il detto borgomastro Pavoni, et la stima che <lb/>
+viene fatta di lui, et che ne fa principalmente sua Eccellenza onde <lb/>
+poiché non ricerca altro che pronta speditione per pagamento di <lb/>
+servitio fatto può ella gratificarlo in questo, et obbligarselo <lb/>
+colli figli. Si compiacerà significarmi l’ordine che haverà <lb/>
+d[at]o<ptr target="#tn9" n="9"/> perché il detto borgomastro resti compiacciuto. <lb/>
+Sarà il negotio solecitato dal console della Natione. </p>
+<p>Con lettere de’ 21 novembre dell’anno passato vostra Serenità mi com-<lb/>
+mandò di significar alli signori stati di Frisia, che in loro <lb/>
+gratificatione, s’era contentata di liberar quel soldato <lb/>
+condennato alla galea, che le raccomandai; lo feci <lb/>
+et n’hebbi ringratiamento da detti signori. Hora non sentendo <lb/>
+essi la liberatione m’hanno di nuovo fatta far efficace <lb/>
+instanza per l’essecutione alla gratia fatta. Ho promesso <lb/>
+al deputato di Frisia di scriver; et così anco al signor conte <lb/>
+Guglielmo, che pur n’ha fatto ufficio meco, attenderò <lb/>
+ciò che si compiacerà ch’io rispondi. </p>
+<p>Coll’ultimo ordinario ricevo lettere della Serenità vostra de’ 29 del <lb/>
+passato con gl’avvisi, che mi servono d’informatione. Gratie etc. </p>
+<p>Dall’Haya li 29 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="027v" facs="09_027v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 189 comincia 188 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="009">
+<!--
+<p n="027vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 marzo 1620 ricevute li 8 aprile </p>
+<p>Haia. n° 189 </p>
+<p>Arivo del vascello Emaus a Roterdam<ptr target="#tn10" n="10"/>. </p>
+<p>Aviso di un altro in Thessel. </p>
+<p>Dubio della presa della nave San Marco. </p>
+<p>Farà l’uffitio commessoli per il ritardo <lb/>
+di esse navi </p>
+<p>Scrive all’armamento per li conti del <lb/>
+Pac e Cortlant. </p>
+<p>Che li sia ricevuto quanto haveva <lb/>
+havuto a buon conto et 100 fiorini <lb/>
+ha havuto il Pac per il viaggio. </p>
+<p>Aspetta il secretario nota di quelli <lb/>
+che accordati dal Pac in Olanda <lb/>
+non sono arivati a Venetia per ricuperar <lb/>
+il danaro esborsato. Ha scritto di <lb/>
+ciò in lettere de’ 16 luglio et altre. </p>
+<p>Instanza del Pavon per le paghe. </p>
+<p>Nova instantia per il galeoto liberato <lb/>
+ad instantia dei stati di Frisia. </p>
+<p>L. SS. R. <lb/>
+</p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "co-" corrected above "fi-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "dell" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "non ha potuto" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "quello" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-uto" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

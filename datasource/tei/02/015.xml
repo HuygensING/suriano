@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.015 date 1616-09-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">015</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 170r-173v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 420) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp287-296)
+            </note>
+            <biblScope unit="page">170r-173v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from 13 August from Venice via Antwerp. Reports that almost all the members of congregation of Holland have gathered to find a solution for the issue of predestination; the representatives from Amsterdam want liberty of conscience. Adds that news has arrived from Paris about the arrest of prince of Condé, but he wants to await further confirmation. Spinola is leaving to Spain via Italy, upon hearing this news from Brussels everyone was curious to find out the reason and this gave rise to the idea that the Duke of Savoy is co-operating with the governor of Milan. According to Suriano, many fear an attack on Génève could be imminent. The archducal confessor is in Spain to reach a deal with the king on how to renew trade in Antwerp, there are rumours about potentially allowing freedom of conscience in the city, but Suriano add he thinks this is unlikely. Carleton has returned from Spa and has expressed his willingness to assist Suriano. Oldenbarnevelt has also returned, Suriano has visited him in his house. Ends his letter by noting that the French king has sent six horses to give to prince Maurice and his brother Frederick-Henry. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-09-07">7 settembre 1616</date>
+            <num>053</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="053">
+<div type="main" facs="main text of letter" n="053">
+<!--<p>7 settembre 1616, L’Aia (cc. 170r-173v)</p>-->
+<pb n="170r" facs="02_170r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>ricevei con la solita humil riverenza mia le lettere della Serenità vostra <lb/>
+de’ 13 del passato con l’ordinario, che venne venerdì di <lb/>
+Anversa, et servirà per mia sola informatione, come veggo <lb/>
+esser mente di lei quanto colla benignità sua mi significa <lb/>
+intorno alle considerationi fatte fare al signor duca di <lb/>
+Savoia sopra l’instanza di lui all’eccellentissimo signor ambasciator Donato. </p>
+<p>La congregatione generale della provincia d’Holanda hieri <lb/>
+cominciò ad esser insieme: non sono ancor capitati <lb/>
+tutti li deputati di essa, et per la fine della presente <lb/>
+settimana arriveranno anco quelli delle altre provincie. <lb/>
+Intanto doveranno li ministri, o predicanti aspettar <lb/>
+da questa provincia ordine di metter in silentio quanto <lb/>
+vano predicando l’un contra l’altro intorno alla <lb/>
+predestinatione: ma si teme, che difficilmente sia per <lb/>
+rimediarsi così prontamente perché converrà cami-<lb/>
+narsi con gran riserva essendosi lasciato passar <lb/>
+troppo innanti in cosa, che tocca la conscienza. <lb/>
+Et quelli di Hamsterdam in particolare perché non <lb/>
+voglino, che se ne parli; ma si lasci in libertà <lb/>
+che ognuno credi quello che stima meglio per <lb/>
+la sua salvezza. </p>
+<p>Sono confusi gli animi sospettando alcuni tuttavia, <lb/>
+che vi sia qualche interno eccitamento, o fomento
+<pb n="170v" facs="02_170v" rend="0"/>
+come riverentemente scrissi: et questa general riduttione della <lb/>
+provincia di Holanda è fatta quasi a questo solo oggetto. </p>
+<p>Mentre si attendeva con desiderio d’intender, che l’andata in <lb/>
+corte del signor principe di Condè havesse partiroto<ptr target="#tn1" n="1"/> in fine qualche <lb/>
+buon effetto, venne hieri a sera uno di Parigi con qualche <lb/>
+diligenza, et portò che ’l detto Principe<ptr target="#tn2" n="2"/> era stato ritenuto <lb/>
+di<ptr target="#tn3" n="3"/> commissione del Re, et la più <lb/>
+parte de’ principi usciti immediate da quella città, <lb/>
+riferendo altri particolari, che se sono veri già la Serenità vostra <lb/>
+prima dell’arrivo delle presenti ne<ptr target="#tn4" n="4"/> haverà havuta piena <lb/>
+et distina notitia: l’avviso è riuscito di meraviglia, <lb/>
+dà da pensar ad ognuno, ma se ne aspetta più certa <lb/>
+informatione. Dicono che ’l signor principe Mauritio<ptr target="#tn5" n="5"/> habbi havute lettere <lb/>
+in questo proposito; et il signor Bernvel n’habbi havute anco <lb/>
+egli dal signor duca di Buglione; ma non si<ptr target="#tn6" n="6"/> è sino ad <lb/>
+hora penetrato il loro contenuto; et questo ambasciator di Francia dice<ptr target="#tn7" n="7"/> haver <lb/>
+con corriero espresso ricevuto<ptr target="#tn8" n="8"/> il solo avviso della ritentione di Condè.<ptr target="#tn9" n="9"/> </p>
+<p>Scrivono di Brusseles, che lo Spinola partito di là, come <lb/>
+prima si teneva che andasse in Spagna col con-<lb/>
+fessore, sia passato in Italia al signor duca di Savoia. <lb/>
+Et pur di questo vostra Serenità n’haverà da quella <lb/>
+parte la certezza. Ognuno doppo intesa questa <lb/>
+nuova sta con gran curiosità di saper qual <lb/>
+fine muovi la sua andata; et si rinova negl’animi
+<pb n="171r" facs="02_171r" rend="0"/>
+di alcuni l’antica sospettione, che tra il signor duca di <lb/>
+Savoia, et il governator di Milano, vi possi esser qualche <lb/>
+intelligenza; come il medesimo sospetto è stato sempre anco <lb/>
+nella più gran parte della Germania, et ne’ Svizzeri <lb/>
+evangelici in particolare. Et questi della religione gelosi di <lb/>
+quelli<ptr target="#tn10" n="10"/> del loro partito temono per Genevra; <lb/>
+o che lo Spinola ministro de’ Spagnuoli vadi con <lb/>
+qualche pretesto, o artificio a quel Principe per <lb/>
+dargli ad intender alcuna cosa; et ingannarlo. </p>
+<p>Arrivò qui domenica passata un gentilhuomo del signor duca <lb/>
+di Wirtimbergh con lettere per il re della Gran <lb/>
+Bertagna, venuto da Stucart in diligenza, et colla <lb/>
+medesima partì immediate alla volta di Londra. </p>
+<p>Oltre le commissioni, che scrissi riverentemente alla Serenità vostra <lb/>
+che si diceva esser state date al confessore dell’Arci-<lb/>
+duca, ch’è passato in Spagna, si è qui fatto publicare, <lb/>
+che habbi questa espressa di procurar, che ’l Re <lb/>
+cattolico si contenti, che per rinovar il trafico della <lb/>
+piazza d’Anversa (già decaduto) per quei particolari <lb/>
+mercanti, che si offeriranno di negotiare, essendo <lb/>
+della religione riformata sia loro permesso il <lb/>
+viver a sua conscienza. Si afferma da alcuni <lb/>
+la cosa per vera; ma molti credono, che sia
+<pb n="171v" facs="02_171v" rend="0"/>
+publicata particolarmente per evitar Zelandesi a condescender <lb/>
+all’instanze più volte replicate da’ signori arciduchi, che quei <lb/>
+popoli si contentassero di levar le gravi impositioni sopra <lb/>
+li vasseli, et mercantie, che transito per la Schelda; offerendosi <lb/>
+dello stesso<ptr target="#tn11" n="11"/> dal loro canto; credendo, ch’essi non siano <lb/>
+per lasciarsi levar di mano l’utile da altri; mentre si <lb/>
+sa haver li medesimi arciduchi fatto trattar con marcanti<ptr target="#tn12" n="12"/> <lb/>
+inglesi per esso trafico d’Anversa. </p>
+<p>Hanno li mercanti di Hamsterdam cominciato a respirare, <lb/>
+essendo arrivata la passata settimana una delle <lb/>
+tre navi, che aspettavano dall’Indie, con avviso, che <lb/>
+le altre doi doveranno arrivar ben presto con <lb/>
+carico tutte per il valor di molti migliara di scudi. </p>
+<p>Sabbato rivenne da Spa il signor Carleton ambasciator d’Inghilterra. <lb/>
+Fui a sua visitatione, nella quale mi fece offerte <lb/>
+cortesissime per servitio di vostra Serenità; et mi disse, che <lb/>
+quando fu qui il signor secretario Lionello hebbe ordine <lb/>
+dal suo Re di assistergli, et coadiuvar gl’ufficii<ptr target="#tn13" n="13"/> <lb/>
+suoi in tutte le cose; ma che hora per me non have-<lb/>
+rebbe aspettata nuova commissione; che l’impiegassi <lb/>
+pure dove occorreva, perché si haverebbe adoperato <lb/>
+con ogni maggior affetto; dicendo, che professava <lb/>
+non haver obligo più grande<ptr target="#tn14" n="14"/> appresso quello al suo Re
+<pb n="172r" facs="02_172r" rend="0"/>
+che alla Serenità vostra; et qui si estese in far mentione <lb/>
+de’ favori, et degl’honori ricevuti da lei nel corso <lb/>
+della sua ambasciaria. Io lo ringratiai, et corrisposi <lb/>
+alla pienezza dell’ufficio con quelle parole, che mi<ptr target="#tn15" n="15"/> parvero proprie <lb/>
+a darli testimonianza certa della stima, che la <lb/>
+Serenità vostra farà sempre del merito di lui. </p>
+<p>È ritornato il signor Bernvel<ptr target="#tn16" n="16"/>, il quale non andai a veder <lb/>
+fuori (come scrissi riverentemente, che pensavo di fare) <lb/>
+per esser avvisato, che col genero Vandermil, che <lb/>
+fu ambasciator alla Serenità<ptr target="#tn17" n="17"/> vostra per questi signori Stati andava <lb/>
+hora a questo, hora a quell’altro luoco per ricreatione. <lb/>
+Hieri lo vidi in casa sua, complii seco, et egli con <lb/>
+breve risposta mi rappresentò in sostanza esser <lb/>
+l’affetto di questa Republica grandissimo verso gl’interessi <lb/>
+di vostra Serenità, et altrettanta<ptr target="#tn18" n="18"/> grande l’osservanza <lb/>
+et quanto al suo particolare sperava, che niuno l’havesse <lb/>
+a superare; et si allargò in farmi amorevolissime <lb/>
+offerte: et l’istesso buon animo ho trovato anco <lb/>
+nel signor Vandermil sudetto. </p>
+<p>Il Re christianissimo ha mandato qui espressamente con uno <lb/>
+de’ suoi paggi<ptr target="#tn19" n="19"/>, uno de’ suoi mastri di stalla <lb/>
+con sei cavalli per farne presente di quattro <lb/>
+al signor principe Mauritio, et li doi altri per
+<pb n="172v" facs="02_172v" rend="0"/>
+il conte Henrico fratello di sua Eccellenza; tutti con coperte di veluto <lb/>
+pavonazzo trinate d’oro. Gratie etc. </p>
+<p>Dall’Haye a’ 7 settembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="173r" facs="02_173r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="173v" facs="02_173v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="053">
+<!--
+<p n="173vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 settembre 1616 ricevuta 28 detto </p>
+<p>Secretario Suriano dall’Aia </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-inc-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes the struck-through words.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "con corriero … Condè" added above the line; followed by a crossed-out word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes "del loro" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "stesso" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "u-" corrected above "o-."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-de" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "parole, che mi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "B-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "S-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-a-" corrected above an other letter.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-i" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

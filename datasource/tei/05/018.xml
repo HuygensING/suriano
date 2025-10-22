@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.018 date 1617-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">018</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 110r-111v, 114r-v, 117r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 81) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp35-44#highlight-first)
+            </note>
+            <biblScope unit="page">110r-111v, 114r-v, 117r-v, 112r-113v, 115r-116v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this third letter written on 13 November 1617, he reports on a conversation he has had with Jacob Simonsz. Magnus, who again raised the issue of a closer alliance between the two republics. Suriano writes he thanked him for the idea and responded following his instructions from Venice. He adds that he hopes Levenstein is making good progress and that his brother is in the Hague to settles some debts. One document attached: a copy of an act signed by the merchant Vanden Berge, ratified by a notary in Latin.</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-13">13 novembre 1617</date>
+            <num>034, 035, 036</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="034">
+<div type="main" facs="main text of letter" n="034">
+<!--<p>13 novembre 1617, L’Aia (cc. 110r-111v, 114r-v, 117r-v)</p>-->
+<pb n="110r" facs="05_110r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi><ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>oltre quanto ho significato riverentemente nelle<ptr target="#tn2" n="2"/> mie prime<ptr target="#tn3" n="3"/> alla <lb/>
+Serenità vostra haver havuto nella conferenza con il signor Magno di Zelanda <lb/>
+mi par di dover aggiunger anco un particolare che mi disse <lb/>
+perché ho poi scoperto dalle parole del signor principe Mau-<lb/>
+ritio esser nella mente d’altri; et è, che parerebbe <lb/>
+bene mentre <hi rend="decoded">volesse</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">vostra Serenità stringer qui aleanza, <lb/>
+facesse sotto mano, che ’l re d’Inghilterra <lb/>
+mostrasse a questi signori, col mezo del suo <lb/>
+ambasciatore, o altrimenti, che sentirebbe <lb/>
+volontieri questa unione; et se anco <lb/>
+si potesse fare ciò con Francia, non <lb/>
+sarebbe se non bene; et questo per <lb/>
+evitar</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">le gelosie, et levar l’ombra, <lb/>
+che par pur che sia al presente nei <lb/>
+principi, che li stati voglino collegarsi, <lb/>
+et assister ad ognuno, quasi che soli <lb/>
+possino diffendersi, et diffender contra chi si sia.</hi> Che questo concetto <lb/>
+era nel re d’Inghilterra nei principi d’Alemagna <lb/>
+il re di Danimarca l’haveva chiaramente detto, et <lb/>
+altri anco havevano mostrato di haver questo sospetto. <lb/>
+Io risposi, che sapevo esser buona volontà nella Serenità vostra <lb/>
+<hi rend="decoded">di</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">passar con questi stati ogni più buona <lb/>
+</hi>
+<pb n="110v" facs="05_110v" rend="0"/>
+<hi rend="decoded">intelligenza; ma che il resto doveva <lb/>
+dipender dalla prudenza di lei</hi> che <lb/>
+quello che importava era il rimedio, che doveva esser <lb/>
+pronto richiedendolo così lo stato delle cose presenti per <lb/>
+il ben commune sentendosi che, armato, il re di <lb/>
+Spagna invade ingiustamente dove non conviene. <lb/>
+Replicò il Magno signore quanto ho detto è per termine <lb/>
+di confidente avviso; <hi rend="decoded">ma</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">quanto al devenir ad una pronta <lb/>
+rissolutione, queste sono cose, che non si pos-<lb/>
+sono far così tosto, ma vi vuole tempo <lb/>
+et maturità di consiglio</hi> et come <lb/>
+disse a vostra Signoria nell’assemblea per nome di tutti creda, che <lb/>
+occorrendo la serenissima Republica non sarà abandonata da <lb/>
+questi stati perché si tratta del commune interesse. </p>
+<p>Questo è huomo, che ha ottima volontà, et sempre <lb/>
+l’ha mostrata al servitio publico, et particolare di vostra Serenità <lb/>
+ma discorre, et parla assai, che serve però bene <lb/>
+spesso, a cavar nel corso dei ragionamenti il senso <lb/>
+degl’altri. </p>
+<p>Io havendo inteso,<ptr target="#tn8" n="8"/> da<ptr target="#tn9" n="9"/> più d’una parte <lb/>
+che sua Eccellenza haveva discorso sopra quanto vostra Serenità mi haveva
+<pb n="111r" facs="05_111r" rend="0"/>
+scritto; et haveva raccommandato l’affare stimai a <lb/>
+proposito ritrovarmi di nuovo con lei sotto pretesto di <lb/>
+ringratiarla del pensiero, che prendeva per il bene, et <lb/>
+servitio commune; et ella mi rispose, che haveva consi-<lb/>
+gliato, et essortati alcuni di questi signori a far qualche <lb/>
+buona risolutione <hi rend="decoded">et</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">particolarmente a stringer aleanza, <lb/>
+conoscendo non si poter far cosa più <lb/>
+propria</hi> repli-<lb/>
+candomi di nuovo de’ concetti, che mi haveva detti <lb/>
+per avanti; et havendole per termine confidente con-<lb/>
+ferito il concetto del Magno, mi disse, che a lei<ptr target="#tn11" n="11"/> <lb/>
+ancora erano state fatte delle stesse considerationi; ma <lb/>
+che le stimava niente <hi rend="decoded">perché</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">li Stati Generali non sono come li <lb/>
+figliuoli, che habbino a dimandar <lb/>
+licenza al mastro; che con le città <lb/>
+ansiatiche, et con il re di Svetia <lb/>
+havevano fatta aleanza, senza <lb/>
+dimandar, né farlo saper a persona, <lb/>
+se non dopo seguita la conclusione: <lb/>
+tanto</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">dovrebbe anco farsi con la <lb/>
+serenissima Republica, quando si camini avanti, <lb/>
+et continuò,</hi>
+<pb n="111v" facs="05_111v" rend="0"/>
+<hi rend="decoded">io per me sentirei, che per <lb/>
+provisione si mandasse un ressidente a <lb/>
+Venetia, già che sete qui voi, con l’istesso titolo, <lb/>
+et quello havesse auttorità di trattar, quando <lb/>
+la Republica havesse voluntà di farlo: temo <lb/>
+però anco, che quando si proponesse questa <lb/>
+missione, l’animosità in queste contro-<lb/>
+versie non sturbi il buon fine, et le <lb/>
+buone voluntà; et aggiunse, io vi repplico <lb/>
+che stimo esser necessaria una stretta aleanza <lb/>
+tra la Republica, et questi Stati, perché gli uni, <lb/>
+et gl’altri possono di buon concerto aiutarsi <lb/>
+a romper la testa agli Spagnoli, di qua <lb/>
+con una buona armata da mare, <lb/>
+et la Republica con quella assistenza, <lb/>
+che sarà stimata propria. Questo è il <lb/>
+mio senso, et so, che le Provincie sono <lb/>
+ben disposte; ma come ho detto, non vi è <lb/>
+altro, che possi sturbar, che la malatia, che <lb/>
+habbiamo del non intendersi ben insieme; <lb/>
+ma Dio vi rimedierà. Io sempre mi <lb/>
+contenni sopra generali</hi>
+<pb n="114r" facs="05_114r" rend="0"/>
+<hi rend="decoded">nel proposito d’aleanza, <lb/>
+mostrando però, che in vostre Eccellenze vi era <lb/>
+ottima voluntà, come si fosse rappresentato <lb/>
+il modo: ma quanto alla missione di <lb/>
+ambasciator, o ressidente laudai li concetti, <lb/>
+et pensieri dell’Eccellenza sua, et ella mi <lb/>
+disse, che haverebbe operato, et fatto ogni cosa, <lb/>
+perché succedesse qualche bene. <lb/>
+</hi></p>
+<p>Intesosi qui il mal proceder de’ Spagnoli con vostra Serenità vi sono <lb/>
+stati di quelli, che sono corsi al vecchio sospetto che <lb/>
+Savoia se non è d’accordo con loro, si accommodi al <lb/>
+presente con lasciar da canto vostra Serenità con gran pregiudicio <lb/>
+di lei: il concetto però non è che in alcuni pochi. </p>
+<p>Io mi prometto nella bontà del signor Dio, che già il signor conte <lb/>
+di Levenstein sia passato lo stretto di<ptr target="#tn14" n="14"/> Gibilterra <lb/>
+hora soffiando il vento di Ponente serve mirabilmente <lb/>
+per di là lo stretto, et per ridursi ne’ mari di vostra Serenità <lb/>
+et sto sempre colla medesima speranza, che sia per <lb/>
+arrivar intorno la fine di questo mese a Corfù. </p>
+<p>Si trova qui il conte Gio. Casimiro suo fratello per <lb/>
+tentar appresso li signori Stati, che scrivino al magistrato <lb/>
+di Amsterdam acciò interponghi l’auttorità sua
+<pb n="114v" facs="05_114v" rend="0"/>
+per far pagar li debiti di esso suo fratello, procurando <lb/>
+che ’l Quingetti mercante lo facci mentre ha in deposito <lb/>
+vinticinque milla ducati delli<ptr target="#tn15" n="15"/> vintisettemilla, che <lb/>
+gli esborsai fino<ptr target="#tn16" n="16"/> al luglio passato, et ha havuta <lb/>
+la cessione delli ultimi 27 mila da quell’Alessandro Vandenbergh <lb/>
+il quale sta retirato non fornisce di sodisfar a chi deve <lb/>
+il Conte non ostante l’obligo, che si è preso del farlo <lb/>
+di maniera che convengo riverentemente replicar che vostra Serenità <lb/>
+si compiaccia commandare, che non sia esborsato alcun <lb/>
+denaro senza mie lettere d’avviso, come già le ho<ptr target="#tn17" n="17"/> <lb/>
+scritto, et per abondare le mando anco un’altra <lb/>
+copia della scrittura, che esso Vandembergh mi fece <lb/>
+se ben credo, ch’ella haverà havute le altre doi <lb/>
+et sarà bene, che vostra Serenità facci notificar alli Van Castri <lb/>
+et al signor Gratioso Del Calice in particolare esservi quest’<lb/>
+obligo del Vandembergh, et che ’l denaro non sarà contato <lb/>
+senza le mie lettere d’avviso della sodisfattione de’ debiti <lb/>
+del Conte, ancorché accettate quelle di cambio. </p>
+<p>Li signori Stati volevano scriver ad instanza di alcuni <lb/>
+mercanti interessati nelli vasselli di questa speditione <lb/>
+perché non fosse esborsato il denaro costì, ma fosse <lb/>
+dato ordine a me di farne qui l’esborso, et hieri
+<pb n="117r" facs="05_117r" rend="0"/>
+a nome di sue Signorie mi pregò il loro secretario a scriverne. </p>
+<p>Veramente il signor Conte è stato ingannato dal detto Vadembergh <lb/>
+in cui fidava tutte le cose sue, che in fine è stato <lb/>
+conosciuto per un huomo tristo, et di mal credito, et il <lb/>
+maggior beneficio, che si habbi cavato dalla sua tristezza <lb/>
+è stato che col dar ad intender, et sodisfar con qualche <lb/>
+poco esborso, et con più parole ha<ptr target="#tn18" n="18"/> la flotta<ptr target="#tn19" n="19"/> fatto vela <lb/>
+ma anco il Quingetti non è fuori di sospetto di esser a parte <lb/>
+et intendersi con lui; et io non mancarò di assister al <lb/>
+conte Gio. Casimiro. Ognuno ricorre a me, et alcuni <lb/>
+restano sodisfatti con quanto ho cavato dell’obligo <lb/>
+sudetto assicurandosi, che vostra Serenità non esborserà denaro <lb/>
+se essi non sono pagati; nel che resterà servita farne <lb/>
+avvertire a chi tocca. Gratie etc. </p>
+<p>Dall’Haya a’ 13 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="117v" facs="05_117v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="034">
+<!--
+<p n="117vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1617 ricevute a’ 24 detto </p>
+<p>Haya. 3<hi rend="superscript">a</hi> </p>
+<p>Aleanza </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="035" corresp="034" source="112r-113v" >
+<div type="main" facs="main text of attachment I" n="035" corresp="034" >
+<!--<p>Allegato I al n. 34 (cc. 112r-113v; decodifica di cc. 110r-111v, 114r)</p>-->
+<pb n="112r" facs="05_112r" rend="0"/>
+<head>main text of attachment I</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="112v" facs="05_112v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="113r" facs="05_113r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="113v" facs="05_113v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="036" corresp="034" source="115r-116v" >
+<div type="main" facs="main text of attachment II" n="036" corresp="034" >
+<!--<p>Allegato II al n. 34 (cc. 115r-116v)</p>-->
+<pb n="115r" facs="05_115r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere 3<hi rend="superscript">e</hi> dell’Haya de’ 13 novembre <lb/>
+1617 </p>
+<p>Copia </p>
+<p>Io Alessandro Vanderbergh mercante d’Amsterdam dichiaro <lb/>
+et confesso con la presente scrittura haver ricevuto dal clarissimo <lb/>
+signor Christofforo Suriano residente per la serenissima republica di <lb/>
+Venetia appresso li signori Stati Generali delle Provintie Unite de’ <lb/>
+Paesi Bassi doi lettere di cambio<ptr target="#tn20" n="20"/> per la summa di vinti sette milla <lb/>
+ducati di Venetia l’una di ducati vinti cinque milla <lb/>
+pagabile al signor Gratioso Del Calice de’ 14 del presente, et <lb/>
+da esser pagata la mettà<ptr target="#tn21" n="21"/> a’ 17 decembre venturo et l’altra <lb/>
+metà all’ultimo del detto mese. Et l’altra lettera diretta <lb/>
+alli signori, Giacomo et Tomaso Van Castri per la summa di <lb/>
+doi milla ducati simili scritta a’ 17 di questo mese, et pagabile <lb/>
+a’ 17 decembre prossimo. Et queste per la totale espeditione <lb/>
+del signor conte Giorgio Lodovico di Levensteijn et sodisfattione di <lb/>
+quanto deve, delle quali doi lettere dichiaro et intendo ch’ogni <lb/>
+accettatione che facesse fare di esse il serenissimo principe di <lb/>
+Venetia, al quale elle sono dirette, sia milla<ptr target="#tn22" n="22"/> et se fosse <lb/>
+fatto il loro pagamento li detti signori Calice et Van Castri <lb/>
+debbano ristituirlo a sua Serenità intieramente<ptr target="#tn23" n="23"/> quando però <lb/>
+esse lettere di cambio non siano accompagnate da una lettera<lb/>
+d’avviso del medisima<ptr target="#tn24" n="24"/> clarissimo signor Christofforo Suriano di
+<pb n="115v" facs="05_115v" rend="0"/>
+haver io del tutto ispedito da quanto deve qui et altrove <lb/>
+il signor conte Georgio Lodovico di Levenstein et che esso signor Conte <lb/>
+sia partito da questo luoco di Delfsil et fiumara <lb/>
+d’Emes<ptr target="#tn25" n="25"/> et fatto vela in mare con le navi dentro li <lb/>
+quali sono li 3 mila fanti che sua Signoria illustrissima ha levati per condurli <lb/>
+al servitio della serenissima republica di Venetia per conferm(ation)e<ptr target="#tn26" n="26"/> <lb/>
+della qual tutte cose sotto scriverò et segnerò le presenti di <lb/>
+mia propria mano et col mio proprio sigillo, et effettuato<ptr target="#tn27" n="27"/> <lb/>
+in tutto quanto<ptr target="#tn28" n="28"/> di sopra doverà la presente scrittura restar <lb/>
+nulla et di niun valore, et le sudette lettere di cambio dove-<lb/>
+ranno haver il suo intero vigore. </p>
+<p>Di Delfsil a’ diccisette 17<ptr target="#tn29" n="29"/> ottobre 1617 stylo nuovo. </p>
+<p>Io Alessandro Vanden Berge affermo e ratifico<ptr target="#tn30" n="30"/> di mia propria <lb/>
+mano et col mia<ptr target="#tn31" n="31"/> sigillo quanto è detto di sopra. </p>
+<p>Collata praesens copia cum originali suo <lb/>
+subscripto et signato; eamque authentico <lb/>
+per omnia convenire testamur nos consules <lb/>
+senatusque urbis Groninganae sigillo<ptr target="#tn32" n="32"/> Reipublicae <lb/>
+et subscriptione secretarii nostri, actum Groningae <lb/>
+veneris 17 octobris 1617 </p>
+<p>Awinshemius<ptr target="#tn33" n="33"/> <lb/>
+Reipublicae Groningane a secret[ario]<ptr target="#tn34" n="34"/> </p>
+<p><metamark facs="Seal"/></p>
+<pb n="116r" facs="05_116r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="116v" facs="05_116v" rend="90"/>
+<p>Scrittura del Vandembergh </p>
+<p>nella 3<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above 2<hi rend="superscript">da</hi>.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "altre" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "volesse … chi si sia" decoding of the encrypted text can be found on c. 112r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "di … di lei" decoding of the encrypted text can be found on c. 112r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "ma … di consiglio" decoding of the encrypted text can be found on c. 112r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "che sua Eccellenza haveva" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a" corrected above -"is."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "et … propria" decoding of the encrypted text can be found on c. 112v; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-ei" corrected above "-u", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "perché … succedesse qualche bene" decoding of the encrypted text can be found on cc. 112v-113r; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "dove" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "Ghi" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "27" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "all’" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "riverentemente" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-bio" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-am-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-to" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-o" corrected above "-e", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Added above the line on "diccisette."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "e r-" corrected above "Gr-."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "subs-" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Gap in the inner magrin of the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

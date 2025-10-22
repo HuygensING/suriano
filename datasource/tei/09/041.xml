@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.041 date 1620-07-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">041</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 224r-226v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp311-323
+            </note>
+            <biblScope unit="page">224r-226v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports there is still a lot of uncertainty about the plans of the Spanish troops. A gentleman from Baron Donah was in the Hague to ask the states general to consent to the passing of food thousand troops by Vere. The troops will land at Briel and travel to Emmerich and Rees. Cecil has arrived from England, who is not impressed by Vere’s levy and will take to the field with Prince Maurice. Merchants have appeared in the states general to request 24 ships against piracy. The states general have replied it would be impossible to grant the request and will seek foreign assistance. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-14">14 luglio 1620</date>
+            <num>064</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="064">
+<div type="main" facs="main text of letter" n="064">
+<!--<p>14 luglio 1620, L’Aia (cc. 224r-226v)</p>-->
+<pb n="224r" facs="09_224r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 223. Comincia 222 </p>
+<p>Serenissimo Principe </p>
+<p>sempre più incerto si rende il disegno, che habbino Spagnoli <lb/>
+coll’uscita loro in campagna non scuoprendosi<ptr target="#tn1" n="1"/> <lb/>
+l’impresa che disegnano, et meno si può assicurare <lb/>
+della partenza. Parlano in conformità gl’avvisi, et <lb/>
+continuano, che le truppe dei serenissimi arciduchi habbino <lb/>
+ad andar in Alemagna; et il signor principe Mauritio <lb/>
+mi communicò hieri, che facevano correr voce di <lb/>
+suprender Giuliers, et che publicavano per confer-<lb/>
+matione di quello<ptr target="#tn2" n="2"/> fu altre volte scritto, che ’l mar-<lb/>
+chese Spinola havesse a prender posto in Francfort, <lb/>
+et quivi far lo sforzo della riduttione dell’armi <lb/>
+per invader il Palatinato. Altri a questo proposito aggiungono, che già Spagnuoli tengono <lb/>
+l’elettorato decaduto dal nuovo Re, et che di esso <lb/>
+n’habbino impegnata la parola a Baviera, et per <lb/>
+il possesso delle terre a Naiburgh. Non cavai, <lb/>
+che sua Eccellenza havesse tal avviso. Ben si può creder <lb/>
+che Spagnuoli faccino correr simil voci per giocar <lb/>
+di vantaggio. </p>
+<p>Par che al partir delle truppe di Brabant si vada fra-<lb/>
+ponendo dilatione per aspettar li restanti quattro <lb/>
+milla fanti di Napoli, sendo arrivate le genti, <lb/>
+che partirono le settimane passate nel Lucem-<lb/>
+burgh in numero di mille cinquecento in circa di <lb/>
+doi milla, che erano. </p>
+<p>Voleva il marchese Spinola condur seco della vecchia <lb/>
+cavallaria fino a mille cavalli; ma don Luigi
+<pb n="224v" facs="09_224v" rend="0"/>
+di Valasco, che n’è capo l’ha contrastato, et in maniera, <lb/>
+che meno ha voluto ceder all’instanza, et querele <lb/>
+delo Spinola: et stando ambidoi fermi nelle loro <lb/>
+opinioni fu la settimana passata spedito in Spagna per <lb/>
+haverne il consenso, o il rifiuto assoluto ad esso <lb/>
+Spinola; l’essercito del quale è al presente tutto pieno <lb/>
+et tutte le cose ordinate al marchiare. Non si sa se <lb/>
+questa nuova controversia possi allungar il tempo <lb/>
+alla partita; et qualcheduni sono entrati in opinione <lb/>
+che questo sia un tiro concertato doppo gl’avvisi che <lb/>
+si sono havuti di Francia dell’uscita di quei principi <lb/>
+dalla corte, et mentre non si può penetrare il secreto <lb/>
+de’ Spagnuoli stando<ptr target="#tn3" n="3"/> come si dice nel solo petto delli arcidu-<lb/>
+chi, del confessore, et del marchese Spinola, può <lb/>
+esser anco del marchese di Bellamar. Restano gl’<lb/>
+animi qui confusi, et sua Eccellenza mi disse hieri, che non sapeva, <lb/>
+che giudicio formarne. </p>
+<p>Intanto questi signori vanno facendo montar il Rheno ad <lb/>
+alcune compagnie d’infanteria, con far marchiar <lb/>
+per terra della cavallaria; con ordine di ridursi alle <lb/>
+guarnigioni di Emerich, et Rees, et in quei confini. </p>
+<p>Fu qui ultimamente un gentilhuomo del baron di Donà <lb/>
+ambasciator in Inghilterra per Bohemia per ricever il consiglio di <lb/>
+questi signori se stimavano bene, che li due milla <lb/>
+fanti, che si levano dal colonello Ver debbino <lb/>
+passar per di qua. Li signori Stati col signor principe Mauritio <lb/>
+hanno concluso, che sì, onde è partito, et partì
+<pb n="225r" facs="09_225r" rend="0"/>
+anco hier mattina il Sargente maggiore di quel reggimento <lb/>
+per tornar quanto più presto con esso. Entreranno alla <lb/>
+Brila. Di là monteranno a Dort, et ascenderanno il <lb/>
+Wal per entrar nel Rheno<ptr target="#tn4" n="4"/> fino a Emerich, et Rees <lb/>
+ove doveranno haver scorta per condursi nel Palatinato. <lb/>
+Più volenteri haverebbono questi signori voluto, che <lb/>
+fosse maggiore lo sforzo d’Inghilterra, o almeno fosse <lb/>
+supplito con denari al mancamento delle genti. </p>
+<p>Viene affermato, che ’l re di Danimarca habbi mandate <lb/>
+quaranta milla lire sterline, o siano quattrocentomilla <lb/>
+di questi fiorini, al Re palatino. </p>
+<p>Hanno questi signori havute lettere di Alemagna, et si tro-<lb/>
+vano molto mal contenti perché non par all’Eccellenze loro <lb/>
+di scoprir in quei principi generosità, né vivezza <lb/>
+de’ spiriti; mostrando essi solamente di ricercar aiuti <lb/>
+et che siano sostentati da questa parte dicendomi <lb/>
+uno di questi signori, che facevano quanto potevano <lb/>
+né vedevano poter far più. </p>
+<p>Qui è capitato d’Inghilterra il signor colonello Sicil; mostra <lb/>
+poco gusto di non esser stato impiegato; ma per <lb/>
+coprire mostra ancor di far poco conto della levata <lb/>
+et ch’era venuto qui per attender alla sua carica, <lb/>
+et anc’egli all’uscita di sua Eccellenza uscirà in campagna. </p>
+<p>Sono comparsi nell’assemblea dei signori Stati otto mercanti <lb/>
+li quali a nome di altri interessati hanno fatta instanza <lb/>
+di haver vasselli da guerra per assicurar il comercio <lb/>
+conta corsari, che non mancano di attender alla
+<pb n="225v" facs="09_225v" rend="0"/>
+loro pratica, sentendosi ben spesso in Amsterdam perdite di <lb/>
+vasselli, et mercantie. Dimandavano 24 navi, et che <lb/>
+di sei in sei mesi fossero cambiate tutto a spese del Paese. <lb/>
+Ma li signori Stati gli hanno fatta risposta esser impossi-<lb/>
+bile, che possino accordar all’instanza; benché <lb/>
+faranno ogni possibile per indur li principi, che <lb/>
+hanno interesse al far dal canto suo quanto si deve <lb/>
+et essi allhora non haverebbono mancato per la <lb/>
+parte loro. Così hanno convenuto partire senza <lb/>
+più certa risolutione. </p>
+<p>Con queste vengono le replicate di tre lettere della <lb/>
+passata settimana n° 219 fin 221 con il dupplicato <lb/>
+anco di quelle dei signori Stati per Constantinopoli. Gratie etc. </p>
+<p>Dall’Haya li 14 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="226r" facs="09_226r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="226v" facs="09_226v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da <lb/>
+</hi></p>
+<p>n° 223 comincia <lb/>
+222 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="064">
+<!--
+<p n="226vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 luglio 1620 ricevute a’ 29 detto </p>
+<p>Del segretario Suriano. n° 223 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "ne" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-llo" corrected above "-sto."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.076 date 1620-12-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">076</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 380r-383v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">380r-383v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters from 28 november, 1 and 4 December, including the information about Lando’s quarrel on precedence at the English court. Promises he will do his best to search for a colonel with 1500 infantry, but warns it will be difficult as the States General want t have enough troops ready with expiry of the Truce and situation in HRE. He offers an overview of the price to hire a colonel on basis of previous hires. He also warns few will want to undertake such a mission given earlier problems. Relaunches the idea of Henry as a captain general with full powers over his own troops </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-22">22 dicembre 1620</date>
+            <num>118</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="118">
+<div type="main" facs="main text of letter" n="118">
+<!--<p>22 dicembre 1620, L’Aia (cc. 380r-383v)</p>-->
+<pb n="380r" facs="09_380r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 257 fin 258 </p>
+<p>Serenissimo Principe </p>
+<p>mentre volevo mettermi a dar conto a vostra Serenità di quanto ella <lb/>
+intenderà nelle sussequenti mi sopravengono tre mani di sue <lb/>
+lettere de’ 28 del passato, et de’ primo, et 4 del presente. Delle <lb/>
+prime intorno gl’eccellentissimi generali spediti in terra ferma, et <lb/>
+dell’ultime toccanti il negotio dell’eccellentissimo signor ambasciator Lando con <lb/>
+quello di Spagna mi valerò conforme all’intentione di lei <lb/>
+per sostentar l’interesse, et riputatione publica quando il caso <lb/>
+lo porti; così mi serve anco d’informatione la lettera che <lb/>
+ricevei doppo l’ispeditione del mio ultimo dispaccio scritta a’ 17 <lb/>
+del passato nella quale mi significa la licenza presa dall’<lb/>
+Ambasciator spagnuolo residente presso di lei di passar in Ispagna. </p>
+<p>Intorno al desiderio, ch’ella mostra in quelle del primo di haver <lb/>
+levata di un terzo di 1500 fanti con un colonello, che li com-<lb/>
+mandi io non mancarò di tentarne l’effetto; ma dubito gran-<lb/>
+demente che incontrerò difficoltà insuperabili. La risolutione <lb/>
+dei signori Stati presa, et stabilita d’augumentar le compagnie <lb/>
+tanto di cavallaria, che d’infanteria è un rincontro assai <lb/>
+gagliardo; l’avicinarsi lo spirar delle tregue non è minore <lb/>
+l’haversi havuta nuova certa, che ’l re di Danimarca levi <lb/>
+quattordici milla fanti farà star in suspeso questi signori per <lb/>
+le città ansiatiche con le quali sono collegati, ancorché <lb/>
+si tenghi per fermo, che siano per adoperarsi contra l’arci-<lb/>
+vescovo di Brem, volendo quel Re poiché per via <lb/>
+degl’ufficii non ha potuto sostituir coadiutore il figliolo
+<pb n="380v" facs="09_380v" rend="0"/>
+farlo per via dell’armi. Si aggiunge inoltre il bisogno, che <lb/>
+si potrà havere di assister ai principi dell’Unione. </p>
+<p>Dall’altra parte vostra Serenità dalle capitulationi del conte di <lb/>
+Levenstein potrà veder, che furono disdotto ducati per <lb/>
+testa li accordati con lui, in<ptr target="#tn1" n="1"/> luoco <lb/>
+di 13 che veggo annotati nelle lettere di lei. Effettuò <lb/>
+ben la levata, ma con estremo dispendio suo, et più di <lb/>
+quello d’altri, poiché è restato in un debito grandissimo, <lb/>
+et gravissimo nella piazza d’Amsterdam a Delfsil a Embdem, <lb/>
+et altrove, et poi all’arrivo costì delle militie ne seguirono <lb/>
+le amutinationi, che la sola munificente mano publica <lb/>
+fu sufficiente a sedare che altro intraprendi carica <lb/>
+simile senza, che alli soldati corri l’ordinario stipendio <lb/>
+doppo la mostra data in questo Paese non so se du-<lb/>
+bitarne. Qui lo stipendio de’ colonelli è al di almeno quat-<lb/>
+trocento fiorini per mese, et 150 ducati moneta corrente non <lb/>
+rivengono che fiorini trecento dieci contati li fiorini a <lb/>
+tre lire moneta venetiana<ptr target="#tn2" n="2"/> l’uno. Per la levata non <lb/>
+saprei per hora dirle certamente che quello che dano li signori <lb/>
+Stati agl’Inglesi, ch’è una rosa nobile per testa, che <lb/>
+riviene a nove et più di questi fiorini per soldato, né <lb/>
+hanno altro, che ’l poco passaggio del mare, che si fa in <lb/>
+24 hore. Et nuove fiorini in ragion di moneta <lb/>
+corrente venetiana sono lire vintisette. Io m’informerò
+<pb n="381r" facs="09_381r" rend="0"/>
+quanto si dà a Francesi, et ad altra Natione quanto ai <lb/>
+vasselli procurerò anco haver ogni più essata conoscenza <lb/>
+a fine di poter far tutto con quella circonspettione, et vantag-<lb/>
+gio, ch’ella desidera piaccia a Dio, che mi sia possibile su-<lb/>
+perar le difficoltà. Procurerò destramente praticar il <lb/>
+senso di qualcheduni di questi signori. Da questo capo della <lb/>
+stagione del verno vostra Serenità ha altre volte provata et con <lb/>
+militie, et con vasseli la difficoltà dell’uscita loro da questi <lb/>
+porti, onde sendo noi nella medesima stagione haverà tempo <lb/>
+di avvisarmi ciò, che stimerà proprio per sapermi gover-<lb/>
+nare, dicendo per quanto tempo vorrà assicurar il detto <lb/>
+reggimento di star in servitio perché non credo, che alcuno <lb/>
+vorrà muoversi senza haver un tempo stabilito<ptr target="#tn3" n="3"/> <lb/>
+inoltre se sia ella risoluta, che non corri il stipendio <lb/>
+se non arrivata la gente a Venetia, et insomma quello <lb/>
+di più, che stimerà proprio. Il colonello Amstenraedt <lb/>
+non è qui, né so dove al presente si truovi, et per me <lb/>
+credo, che ’l suo animo, che comprendo nelle loro lettere <lb/>
+esser molto ben conosciuto dall’Eccellenze vostre non sia per incli-<lb/>
+nar a sottomettersi ad una tal condotta mentre con <lb/>
+altra assai più avantaggiosa è stato al servitio di <lb/>
+quella serenissima Republica; et sinceramente dubito se altri <lb/>
+vi si applicaranno. Intanto non so se vostra Serenità stimasse <lb/>
+prioprio far sottomano parlar a monsignor Milander, o
+<pb n="381v" facs="09_381v" rend="0"/>
+ad altro di quei capi holandesi, che sono in quel servitio <lb/>
+che forse potrebbe tirarne vantaggio. Io di qua non lascierò <lb/>
+di usar ogni diligenza. </p>
+<p>Per il bisogno, che accenna vostra Serenità haver di capo principale, che comman-<lb/>
+dasse alle sue armi. Io in questi paesi, et in queste congionture <lb/>
+malamente mi posso prometter: tuttavia anderò pensando, et con <lb/>
+quel termine proposito a nome di lei col signor principe Mauritio. </p>
+<p>Ma quello, ch’è necessario, ch’io sappi è, che volendo <lb/>
+la Serenità vostra come dice persona, che commandi alle sue armi <lb/>
+desidero saper chiaramente se haverebbe questa a commando <lb/>
+a tutte l’armi di lei tanto italiane, che straniere o in qual <lb/>
+maniera, perché più in un modo, che nell’altro bisognerà regolarsi <lb/>
+et così anco quanto all’auttorità secondo ’l soggetto. Inoltre qual <lb/>
+doverà esser il stipendio, et il tempo della condotta considero <lb/>
+riverente alla Serenità vostra che ’l signor principe Henrico nel trattar meco <lb/>
+di condursi col titolo di generale delle genti di qua da monti,<lb/>
+sempre ha parlato di non voler ubidir ad altri, che alli <lb/>
+eccellentissimi generali, o prov(edito)ri senatori di quella serenissima Republica, et di <lb/>
+haver il commando, et giustitia sopra le sue truppe cosa <lb/>
+accostumata, come già le avvisai con mie lettere nella continua-<lb/>
+tione del trattato col detto Principe. Se questo soggetto potesse <lb/>
+haversi, et che senz’altro capo superiore oltre gl’eccellentissimi sudetti <lb/>
+suoi rappresentanti fosse la<ptr target="#tn4" n="4"/> intentione di lei<ptr target="#tn5" n="5"/> che commandasse <lb/>
+all’
+<pb n="382r" facs="09_382r" rend="0"/>
+armi di quella serenissima Republica cessarebbe ogni difficoltà. </p>
+<p>So che al partir di qua quando andò esso Principe all’ar-<lb/>
+mata partì inclinatissimo, et desideroso di haver occasione di servir la Serenità vostra; tengo per certo, che sarà al ritorno <lb/>
+del medesimo buon animo, il solo, che lo può impedire è il <lb/>
+vicino spirar delle tregue. Subito che venga tenterò di <lb/>
+saper la sua intentione, caverò il suo senso, et vedrò di <lb/>
+ridur la cosa in stato, che col condescender vostra Serenità a <lb/>
+quello stimerà proprio per allettar questo Principe <lb/>
+et per farvi condescender il signor principe Mauritio, et li <lb/>
+Stati al concederlo se ne cavi il frutto, che si desidera <lb/>
+et io allhora anco non mancarò di avantaggiar in ogni <lb/>
+possibil maniera il servitio, et l’interesse di lei. Egli <lb/>
+com’ella sa è generale della cavallaria di questi Stati <lb/>
+ha servito già tanto tempo<ptr target="#tn6" n="6"/> sotto il fratello in <lb/>
+questi paesi, ha acquistato nome anco in Alemagna, <lb/>
+gode qui preleminenza, in campagna commanda in <lb/>
+mancamento del fratello sendo la prima persona presso di lui <lb/>
+tutte considerationi da esser ponderate dalla somma, et <lb/>
+singolar prudenza della Serenità vostra. Io come dal canto mio non <lb/>
+mancarò di sottrar tutto ’l più, che si deve in questa mate-<lb/>
+ria; così ho stimato proprio di aggiunger riverentemente <lb/>
+questo tanto dirò così fuggendo mentre m’è scarso <lb/>
+il tempo per l’ispeditione, et da lei attenderò li suoi
+<pb n="382v" facs="09_382v" rend="0"/>
+prudentissimi avvertimenti et instruttioni tanto in questo, che <lb/>
+nel resto. Gratie etc. </p>
+<p>Dall’Haya li 22 decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="383r" facs="09_383r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="383v" facs="09_383v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 257 fin 258 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="118">
+<!--
+<p n="383vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 decembre 1620 ricevute a’ 14 gennaro </p>
+<p>Dal segretario Suriano. n° 257 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Precedes the struck-through words.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Fosse la" added above the line together with a crossed-out word on "havesse ella" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "di lei" added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "in esso" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

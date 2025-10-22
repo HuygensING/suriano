@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.093 date 1622-02-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">093</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 487r-490v, 493</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">487r-490v, 493r-v, 491r-492v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Due to the news from England, including instructions for Carleton to find money to maintain troops in the Palatinate, the States General have agreed to support Mansfelt for three months. Camerarius will travel to Denmark. Mansfelt also requested more money for his soldiers from king of Bohemia as well as title ’general of Palatinate’. Ends the letter with a few updates on war situation in the Low Countries with Spanish surveying territory to attack. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-02-07">7 febbraio 1622</date>
+            <num>155, 156</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="155">
+<div type="main" facs="main text of letter" n="155">
+<!--<p>7 febbraio 1622, L’Aia (cc. 487r-490v, 493r-v)</p>-->
+<pb n="487r" facs="10_487r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 366 comincia 365 </p>
+<p>fin 367 </p>
+<p>Serenissimo Principe </p>
+<p>la risolutione d’Inghilterra scritta qui anco dalli ambasciatori estra-<lb/>
+ordinarii alli signori Stati del mantener in Palatinato otto <lb/>
+milla fanti, et 1500 cavalli; che milord Chicester sia <lb/>
+per passar come ambasciatore et commissario generale a nome <lb/>
+del Re in Palatinato, che sia per essortar quei principi <lb/>
+a di nuovo congiungersi; le lettere, che in conformità <lb/>
+ha havute questo ambasciator d’Inghilterra, che confermano mag-<lb/>
+giormente, et dano avviso dei mezi coi quali si era <lb/>
+inventato il trovar il denaro necessario, ha fatto ri-<lb/>
+solver questi signori a metter in consulta l’instanza <lb/>
+del conte di Mansfelt fatta far qui per un suo genti-<lb/>
+lhuomo alli signori Stati di esserli continuati cinquanta <lb/>
+milla fiorini per mese; che con una polizza a parte <lb/>
+è stata anco raccommandata con molto affetto <lb/>
+da questo Re all’Eccellenze loro. Et si sono risolute di <lb/>
+dar assistenza per tre mesi ancora per risolver <lb/>
+poi altra continuata assistenza. </p>
+<p>Nella lettera del Re alli Stati viene espressa la risolutione <lb/>
+di quello d’Inghilterra et il consiglio, che gli dà d’ispedir <lb/>
+in Danimarca; come si è risoluto di fare, havendo <lb/>
+destinato per quella volta il signor dottor Camerario, <lb/>
+che partì sabbato passato per quel viaggio, che però
+<pb n="487v" facs="10_487v" rend="0"/>
+per adesso non potrà avanzar molto<ptr target="#tn1" n="1"/> sendosi messo da hieri <lb/>
+in qua il tempo al disgelo con vento impetuosissimo <lb/>
+è in camino, et doverà solecitarlo quanto più potrà <lb/>
+porta seco oltre le lettere di questo Re altre anco della <lb/>
+maestà d’Inghilterra della medesima sostanza che quelle <lb/>
+ch’ella ha scritto a vostra Serenità, et doverà al detto re di <lb/>
+Danimarca rappresentar lo stato delle cose. Quello <lb/>
+che si è risoluto di far in Inghilterra, ciò che faranno <lb/>
+questi signori per indurlo a muoversi con buon soccorso. </p>
+<p>Troverà già esso Camerario abozzato il negotio <lb/>
+sendo già alcuni giorni partito verso quella Maestà <lb/>
+il signor gran cancelliere Rupa, et si spera buon essito <lb/>
+di questa negotiatione. </p>
+<p>Qui stano tre o quattro<ptr target="#tn2" n="2"/> capitani attendendo ordine da <lb/>
+questa Maestà per andar a far nuove levate verso <lb/>
+Brem, et nei contorni delle città ansiatiche. </p>
+<p>Il conte di Mansfelt oltre l’instanza fatta delli cin-<lb/>
+quanta milla fiorini per mese ha richiesto al Re <lb/>
+trecento milla fiorini per dar alla sua soldatesca <lb/>
+asserendo con questi, et con altri che potrà havere<ptr target="#tn3" n="3"/> <lb/>
+di contentarla per qualche poco;<ptr target="#tn4" n="4"/> et poi<ptr target="#tn5" n="5"/> con le cenquanta <lb/>
+milla per mese sudetti, et con altri che si possi tirar da
+<pb n="488r" facs="10_488r" rend="0"/>
+altra parte di mantener la sua militia fino al mese <lb/>
+di decembre. Se li sono di poco tempo fa mandati <lb/>
+cinquanta milla fiorini; et si tenta hora trovar il modo <lb/>
+di contentarlo. Il signor principe Mauritio haverebbe desiderato <lb/>
+come significai riverentemente la passata settimana alla Serenità vostra <lb/>
+che una parte del denaro, che doverà spender il re <lb/>
+della Gran Bertagna in<ptr target="#tn6" n="6"/> Palatinato fosse dato <lb/>
+ad esso Mansfelt, et consultò hieri a sera nella <lb/>
+camera del Re questo punto sendovi anco l’ambasciator Carleton <lb/>
+ma questo signore stimò bene, che non si mettesse a campo <lb/>
+questa materia perché haverebbe potuto alterar l’<lb/>
+affare; ma che si lasciasse incaminar il commissario <lb/>
+del Re, et li denari, et poi<ptr target="#tn7" n="7"/> si haverebbe potuto <lb/>
+pensare ad altro ripiego. Il che fu trovato buono <lb/>
+et da sua Maestà et da sua Eccellenza. </p>
+<p>Il medesimo Mansfelt ha anco mostrato desiderio con sue <lb/>
+lettere scritte a queste<ptr target="#tn8" n="8"/> Re di haver il titolo di <lb/>
+generale nel<ptr target="#tn9" n="9"/> Palatinato <lb/>
+<hi rend="decoded">a</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">questo pensa sua Maestà trovar ripiego, et dar <lb/>
+sodisfattione, et non ne dubita punto il signor Ambasciator inglese <lb/>
+colla andata, che deve far la Maestà sua in quella <lb/>
+parte sen-</hi>
+<pb n="488v" facs="10_488v" rend="0"/>
+<hi rend="decoded">dosi così rissoluto per dar colore alle cose sue <lb/>
+si fa stato</hi><ptr target="#tn11" n="11"/><hi rend="decoded">, che vadi ad aggiuntarsi alle truppe <lb/>
+del duca di Bransvich, che sono da 4 milla combattenti <lb/>
+tra cavallaria, et infanteria. Pareva che avanti <lb/>
+hieri la cosa fosse come strabilita del partire <lb/>
+</hi> ma havendo fatto il tempo strano <lb/>
+si sono modificati i pensieri, credendo anco, che ’l duca <lb/>
+di Bransvich non possa esser accostato dalle genti spagnuole <lb/>
+per cacciarlo dai posti presi; et per attender qualche <lb/>
+altri avvisi non solo d’Inghilterra ma di Danimanrca <lb/>
+a fine di far le cose et con più sicurezza, et con <lb/>
+più fondamento mentre si tratta di <hi rend="decoded">materia</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">di tanto <lb/>
+momento di viaggio così difficile, et pericoloso</hi>. <lb/>
+Mi accorgo, che vi è gran risolutione, et gagliardi <lb/>
+pensieri, et che si vogli far da dovero. </p>
+<p>Il duca Christiano sudetto si [tien]e<ptr target="#tn13" n="13"/> colle genti in guarnin-<lb/>
+gione nelle terre prese in quello della Marca <lb/>
+et in quelle in particolare di Paterborn con querelle <lb/>
+di quei popoli che sono gravissime intanto che capitano<ptr target="#tn14" n="14"/>
+<pb n="489r" facs="10_489r" rend="0"/>
+per persona espressa di Colonia alle orrecchie delli signori Stati <lb/>
+et del signor principe<ptr target="#tn15" n="15"/> Mauritio. Sua Eccellenza ha preso di scriverli, che <lb/>
+passi più modestam[ente]<ptr target="#tn16" n="16"/>, che sia possibile. </p>
+<p>Devono esser questo giorno, o dimani a Nimeghen, et <lb/>
+nell’altre piazze circonvicine dei signori Stati le genti unite <lb/>
+mercordì di Giuliers, il che sarà seguito con ogni più <lb/>
+honorevol conditione sendosi così capitulato; ma non <lb/>
+con li apprestamenti, et munitioni di guerra, perché non <lb/>
+haverà il Governatore potuto far uscire che un solo pezzo <lb/>
+d’artiglieria di quattro, che vi erano dentro di <lb/>
+ragione dell’Eccellenze loro. Oltre buona quantità di <lb/>
+artiglierie, che prima erano<ptr target="#tn17" n="17"/> nella piazza saranno <lb/>
+restati cinquanta miara di polveri, et altri apprestamenti. </p>
+<p>Non si mostra qui da questi signori et da sua Eccellenza il sentimento <lb/>
+di cuore, che si ha per la perdita di detta piazza<ptr target="#tn18" n="18"/>; ben si <lb/>
+vorrebbe, che fosse creduto diverso. Grande il <lb/>
+vantaggio de’ Spagnuoli con l’acquisto di essa<ptr target="#tn19" n="19"/> piazza <lb/>
+et per il posto, et per il sito; è vero che viene detto <lb/>
+che chi è patrone della campagna è patrone di <lb/>
+Giuliers. Spagnuoli hanno forze grandi, et restano <lb/>
+questi signori privi della piazza; et della riputatione <lb/>
+che ne tenevano per essa. </p>
+<pb n="489v" facs="10_489v" rend="0"/>
+<p>Meurs<ptr target="#tn20" n="20"/> contea di ragione del signor principe Mauritio resta <lb/>
+al presente espostissima al pericolo, et se la<ptr target="#tn21" n="21"/> lasciano Spagnuoli <lb/>
+per adesso sarà perché vorranno liberar il Paese preso <lb/>
+dalle mani del duca di Bransvich. </p>
+<p>Corse qui una voce ultimamente di qualche attentato, che <lb/>
+havessero le genti di don Inico Borgia fatto preso la <lb/>
+Esclusa, et che havessero preso un posto nell’isola di <lb/>
+Cassant; ma riuscì vano il raporto. Questo è ben <lb/>
+vero, che ’l medesimo Borgia<ptr target="#tn22" n="22"/> mai si è levato dal <lb/>
+posto preso appresso la bocca del porto dell’Esclusa <lb/>
+ch’è lo stesso luoco, et sito di che valse il signor prin-<lb/>
+cipe Mauritio quando prese la detta Esclusa. Li giacci <lb/>
+li tempi freddi, et qualche altro accidente del verno <lb/>
+et viene aggiunto il non haver voluto intraprender <lb/>
+tutto in un tempo ha causato, che non si è mosso <lb/>
+a tentar; ma il non essersi già mai mosso di là <lb/>
+fa far ferma congietura, che habbi qualche pen-<lb/>
+siero da essequire. Quelli della Provincia, ch’è <lb/>
+quella della Fiandra non mancano della contributione <lb/>
+et promettono anco di augumentarla purché Spagnuoli si faccino patroni dell’Esclusa, et cavino quel <lb/>
+passo, et quella piazza tanto importante dalle mani
+<pb n="490r" facs="10_490r" rend="0"/>
+di questi signori. </p>
+<p>La settimana passata furono fatti partir per Husdem, et per <lb/>
+Gertrudembergh piazze frontiere in questa provincia <lb/>
+d’Holanda<ptr target="#tn23" n="23"/> alcuni<ptr target="#tn24" n="24"/> fiscali per inquerir, et essaminar <lb/>
+sopra un avviso havuto, che borghesi<ptr target="#tn25" n="25"/> d’Husdem, et <lb/>
+soldati a cavallo di Gertrudembergh havessero intel-<lb/>
+ligenza, et trattato con Grabendon governator di Balduch<ptr target="#tn26" n="26"/> <lb/>
+di darli dette piazze nelle mani. Ancor non sono <lb/>
+ritornati. Si aspettano, et forse colli complici. Così <lb/>
+Spagnuoli vano pensando a profitare, et cercar la <lb/>
+presa delle terre delli signori Stati, et essi si trovano in <lb/>
+bisogno di soccorso, et di procurar di far divisione <lb/>
+da ogni parte per haver manco peso sopra di essi. </p>
+<p>Ancor l’Eccellenze loro non hanno risoluto sopra il nominar <lb/>
+alla Serenità vostra la persona che <lb/>
+<hi rend="decoded">doverà</hi><ptr target="#tn27" n="27"/> <hi rend="decoded">ricever il denaro in virtù dello scritto <lb/>
+loro per accordar con mercanti dei prezzi, et per la <lb/>
+sicurezza; io mi taccio <lb/>
+</hi> et sto attendendo quello <lb/>
+risolveranno per darne riverente conto a vostra Serenità <lb/>
+in tanto ho destramente procurato detornar il <lb/>
+pensiero in che pareva, che fossero che la Serenità vostra
+<pb n="490v" facs="10_490v" rend="0"/>
+<hi rend="decoded">havesse</hi><ptr target="#tn28" n="28"/> <hi rend="decoded">a pagar il tempo scorso</hi> di che <lb/>
+credo certo, che non parlerano più per hora ma si con-<lb/>
+tenteranno per hora <lb/>
+<hi rend="decoded">ricever</hi><ptr target="#tn29" n="29"/> <hi rend="decoded">le mesate, che li veranno date da lei.</hi> Gratie etc. </p>
+<p>Dall’Haya li 7 febraro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="493r" facs="10_493r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="493v" facs="10_493v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>[…]<ptr target="#tn30" n="30"/> </p>
+<p>n° 366 comincia 365 <lb/>
+fin 367 </p>
+<p><hi rend="decoded">Sigillo <lb/>
+</hi></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="155">
+<!--
+<p n="493vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 febraro 1622 ricevute 10 marzo 1622 </p>
+<p>Haya. n° 366 </p>
+<p>L. R. cum SS. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="156" corresp="155" source="491r-492v" >
+<div type="main" facs="main text of attachment I" n="156" corresp="155" >
+<!--<p>Allegato I al n. 155 (cc. 491r-492v; decodifica di cc. 488r-v, 490r)</p>-->
+<pb n="491r" facs="10_491r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="491v" facs="10_491v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="492r" facs="10_492r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="492v" facs="10_492v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "q-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "Ing(hilter)ra" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "vi" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the deleted word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "a … del partire" decoding of the encrypted text can be found on c. 491r; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "materia … pericoloso" added above the underlined encrypted text.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Faded ink.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "P-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Faded ink.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "er-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Added above the line on "detta" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by ; crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "b-" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "doverà … io mi taccio" decoding of the encrypted text can be found on c. 491r; with cross-reference sign.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "havesse … scorso" added above the underlined encrypted text.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "ricever le … lei" added above the underlined encrypted text.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Ink stain.</p></note>
+</div>
+</body>
+</text>
+</TEI>

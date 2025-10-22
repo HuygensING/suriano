@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.010 date 1622-04-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 59r-62v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp284-292
+            </note>
+            <biblScope unit="page">57r-58v, 59r-62v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that due to a storm Frederick V’s departure has been delayed and is now embarking at Den Briel for France. Carleton confided to Suriano that Frederick will travel to Sedan and to Low Palatinate, contrary to common reports stating that Frederick is going to England. Elizabeth is staying in The Hague as she is due to give birth soon. Following his instruction he informed Maurice of the proposition by Wotton who reiterated the need for Venetian support to Frederick V. Christian of Brunswick has taken some territory in Paderborn and hung several burgomasters. He will unite his troops with those of Mansfelt, who is believed to be near Heidelberg. States General have received news that Hendrik van den Bergh is marching with 2000 cavalary, 6000 troops and 12 canons to unite with Anholt near Cologne. Several reports of unease in German territories regarding all these armies and continuing levies by the Spanish. At the court in Brussels a rumour is circlating that Venice will unite with France to conquer the Valtellina. Vessels with grain will set sail to Genoa and Livorno, Bartolloti alone has sent more than 3000 lasti, the majority for the Grand Duke of Tuscany. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-04-11">11 aprile 1622</date>
+            <num>016, 017</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="016" corresp="017" source="57r-58v" >
+<div type="main" facs="main text of attachment I" n="016" corresp="017" >
+<!--<p>Allegato I al n. 17 (cc. 57r-58v; decodifica di cc. 59r-60v)</p>-->
+<pb n="057r" facs="11_057r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="057v" facs="11_057v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="058r" facs="11_058r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="058v" facs="11_058v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="017">
+<div type="main" facs="main text of letter" n="017">
+<!--<p>11 aprile 1622, L’Aia (cc. 59r-62v)</p>-->
+<pb n="059r" facs="11_059r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 383 sola </p>
+<p>Serenissimo Principe </p>
+<p>non rivenne qui il re di Bohemia la stessa sera di lunedì, che <lb/>
+partì perché sendosi imbarcato uscì anco in mare; et fu <lb/>
+soprapreso da vento così impetuoso, et da tempesta così grande <lb/>
+che fu constretto tornar a riprender porto; con gran <lb/>
+difficoltà nondimeno, et con pericolo manifesto di perdersi <lb/>
+si salvò, et mercordì a sera fu qui. <hi rend="decoded">Venerdì</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">poi parimenti il far del giorno <lb/>
+partì di nuovo, et si andò ad imbarcar <lb/>
+alla Brilla, convento altretanto felice, <lb/>
+et buono per passar in Francia. La voce <lb/>
+commune, et la credenza che si è fatta sparger <lb/>
+nell’universale è stata, che si sia condotto <lb/>
+in Inghilterra, et ancor si fa creder così, ma il <lb/>
+signor ambasciator Carleton, che non mi ha voluto lasciar <lb/>
+in questo dubbio, mi ha affirmato, che ha <lb/>
+presa la stradda di Francia, et che al primo <lb/>
+porto, ch’havesse potuto prender sarebbe <lb/>
+smontato, et messosi su la posta, si sarebbe <lb/>
+transferito a Sedam, et di là con scorta di 150 <lb/>
+o 200 cavalli si sarebbe condotto nel Basso <lb/>
+Palatinato, che sin qui per buoni rispetti si era <lb/>
+tenuto celato questo viaggio, ma sapendo, <lb/>
+ch’io doveva scrivere a vostra Serenità, me lo havea <lb/>
+voluto conferire, il che</hi>
+<pb n="059v" facs="11_059v" rend="0"/>
+<hi rend="decoded">è stato confirmato <lb/>
+per qualche lettere venute di</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">Sedam, che <lb/>
+qui vi si aspettava la Maestà sua; <lb/>
+quell’istesso giorno, ch’ella partì l’<lb/>
+Ambasciator ispedì persona espressa in Inghilterra <lb/>
+che fu venerdì passato, onde facile mi fu <lb/>
+il conietturare che il Re havesse preso <lb/>
+tutto diverso il camino, ho nondimeno <lb/>
+ringratiato il signor Ambasciator sudetto della communicatione. <lb/>
+</hi></p>
+<p>Con il Re è andato il Niderzil secretario della Regina, che deve <lb/>
+esser appresso di lui come agente della maestà d’Inghilterra. </p>
+<p>Resta qui la Regina, che risente non poco<ptr target="#tn3" n="3"/> d’afflittione <lb/>
+per la partenza sudetta del Re; sendo ella massime vicina <lb/>
+al sgravarsi dal parto, che se non segue questa settimana <lb/>
+non credo, che sia per passar l’altra. </p>
+<p>Con il signor principe d’Oranges feci l’ufficio, che da vostra Serenità mi fu commesso <lb/>
+nelle sue lettere de’ x del passato <hi rend="decoded">toccante</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">la propositione del signor ambasciator <lb/>
+Uton, et la riposta datagli da lei. L’Eccellenza sua <lb/>
+con poche parole disse, il povero Re ha <lb/>
+bisogno d’esser aiutato: li signori Stati hanno <lb/>
+fatto quanto hanno potuto, et faranno di più <lb/>
+se potranno; il conservar l’armi di Mansfelt <lb/>
+è l’unico rimedio, et il più salutifero, che <lb/>
+al presente si possi apportar agli interessi <lb/>
+del re di Bohemia, et alla libertà della <lb/>
+Alemagna tutta, così anco con quasi li <lb/>
+medesimi concetti</hi>
+<pb n="060r" facs="11_060r" rend="0"/>
+<hi rend="decoded">mi parlò il signor ambasciator <lb/>
+Carleton, aggiungendomi, che sperava <lb/>
+hora, che vostra Serenità sentirà esser il Re in <lb/>
+Palatinato per sostener con la presenza le <lb/>
+cose sua, ella con la prudenza sua <lb/>
+rissolverà qualche cosa di buono, <lb/>
+continuando il mio Re, sostenendo <lb/>
+le genti al Ver, et facendosi in <lb/>
+corrispondenza qualche cosa per il <lb/>
+sostenimento di quelle di Mansfelt, <lb/>
+tutto con la gratia di Dio anderà bene.</hi> Io havendo <lb/>
+già esposto all’incontro quanto occorreva in conformità <lb/>
+dei commandamenti della Serenità vostra non replicai di vantaggio. </p>
+<p>Mi communicò<ptr target="#tn5" n="5"/> il medesimo ambasciator d’Inghliterra l’avviso che haveva <lb/>
+havuto dell’arrivo in Brusseles dell’ambasciator dell’Imperatore <lb/>
+et che quivi dalla corte del suo Re doveva anco capitar <lb/>
+un ambasciatore della Maestà sua per trattar seco; ma che haveva <lb/>
+poi con altri avvisi inteso, che esso ambasciator dell’Imperatore <lb/>
+era per partir per Inghilterra; né ancor si era penetrato quello <lb/>
+haveva esposto alla serenissima Infanta. </p>
+<p>Si è confermato, che ’l vescovo d’Alberstat duca di Bransvich <lb/>
+habbi havuto qualche rancontro, che vi sia stata la <lb/>
+perdita di qualcheduni de’ suoi; ma si riferisce, che ’l danno <lb/>
+sia molto maggiore di quelli del baron di Anholt; et che <lb/>
+esso Duca si sia impadronito di alcune altre terre nel <lb/>
+territorio del vescovato di Paterborn che servono a <lb/>
+commodità delle sue genti tanto per l’alloggia, che per <lb/>
+tirarne contributione; havendo anco fatti impiccar
+<pb n="060v" facs="11_060v" rend="0"/>
+alcuni borgomastri, come quelli, che erano stati causa<ptr target="#tn6" n="6"/> <lb/>
+che gl’habitanti havessero fatto torto alle sue genti. </p>
+<p>Uno venuto non è molto partito da lui riferisce, che haveva <lb/>
+in piedi cinquantasette compagnie di cavallaria, et seimilla <lb/>
+fanti in circa; per l’armar<ptr target="#tn7" n="7"/> della qual militia tutta non era <lb/>
+ancor arrivato il resto delle armi, che a’ 28 del passato <lb/>
+erano partite da Brem alla sua volta. </p>
+<p>Si va detto Duca avanzando, et va pigliando posto per ridursi <lb/>
+vicino più che può ad unirsi con le armi di Mansfelt, <lb/>
+del quale m’ha detto il suo gentilhuomo, che credeva <lb/>
+che già fosse passato il Rheno, et a Heidelbergh, doppo haver <lb/>
+assediata una piazza del vescovo di Spira, ove haveva <lb/>
+lasciato a tal effetto buon corpo di militia, et egli si riduceva <lb/>
+vicino al Berghstrat per far quivi il meglio, et aprir, et <lb/>
+assicurar tanto più facile il passaggio al duca di Bran-<lb/>
+suich. Et mi disse, che<ptr target="#tn8" n="8"/> aspettava il Re con gran desiderio <lb/>
+et che li popoli lo chiamavano. </p>
+<p>Delle piazze, che va prendendo doveranno quelli del marchese di <lb/>
+Brandemburgh veder quali doveranno, o patranno <lb/>
+tenersi massime dentro il paese della Marca et di Paterborn<ptr target="#tn9" n="9"/> <lb/>
+<hi rend="decoded">vi</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">sarà la secreta intelligenza di questi <lb/>
+signori per</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">non mostrar all’arcivescovo <lb/>
+di Colonia, che voglino intraprender <lb/>
+contra di lui, passando insieme neutra-<lb/>
+lità. <lb/>
+</hi></p>
+<p>Sono avvisati li signori Stati che ’l conte Henrico Vandembergh <lb/>
+era in stato di marchiare con più di doi milla cavalli,
+<pb n="061r" facs="11_061r" rend="0"/>
+et sei milla fanti, et dodici pezzi di canone per andar ad unirsi <lb/>
+con Colonia, et Anholt; ma che havesse fatto intender all’<lb/>
+Arcivescovo, che allhora volontieri haverebbe proseguito <lb/>
+il viaggio, che egli si fosse dichiarito di neutrale inimico <lb/>
+di queste Provincie; che esso Arcivescovo mostrava non <lb/>
+voler assentir a questa proposta per il pregiudicio <lb/>
+notabile, et per la ruina manifesta che prevedeva <lb/>
+a sé stesso, tanto per l’incursioni, che senza dubio le <lb/>
+venirebbono da questa parte quanto perché si vede <lb/>
+manifesto il giogo, che Spagnuoli hanno in animo di metterli <lb/>
+et si comprende che l’intentione di essi procrastinando <lb/>
+ad andar ad unirsi sia stata di lasciar che ’l duca <lb/>
+di Bransvich facesse alla peggio contra le<ptr target="#tn12" n="12"/> terre <lb/>
+di esso Arcivescovo, et d’altri per ridurli alla <lb/>
+necessità, et prevalersi in tal caso dell’occasione per <lb/>
+accommodarsi nelle piazze, per impossessarsene, et per <lb/>
+tirar contributioni a sua posta. </p>
+<p>Si dice anco, che l’arcivescovo<ptr target="#tn13" n="13"/> di Treveri con il clero dubitando <lb/>
+di qualche mal trattamento dall’essercito di Mansfelt <lb/>
+che scorreva verso le terre di quell’Arcivescovato <lb/>
+si fosse retirato a Ermenstein castello opposito a <lb/>
+Coblens; et viene scritto, che esso Mansfelt habbi <lb/>
+addimandato ad esso Arcivescovo, et clero a doppio <lb/>
+più di quello importano le loro rendite per contributione. </p>
+<p>L’arcivescovo di Magonza dubitando anc’egli del peggio <lb/>
+che li possi avenire scrive l’istesso Mansfelt, che <lb/>
+li haveva fatta offerta di una grossa contributione
+<pb n="061v" facs="11_061v" rend="0"/>
+et che lo tenesse in neutralità; et che quel prelato per <lb/>
+liberarsi affatto dai pericoli dell’armi pensava retirarsi <lb/>
+a Brusseles, et cieder forse ad altri li titoli, et il governo. </p>
+<p>Il duca Guglielmo di Sassonia di Wimaer con tre mille <lb/>
+fanti, et mille cavalli tentò haver passaggio sopra le <lb/>
+terre del landtgrave d’Hassia, ma non gliel’ha <lb/>
+voluto permetter iscusandosene colla negativa, che prece-<lb/>
+dentemente haveva fatta al baron di<ptr target="#tn14" n="14"/> Anolt <lb/>
+che di gran lunga era più forte di lui; onde doverà <lb/>
+esso di Sassonia mutar pensiero di unirsi con Bransvich, <lb/>
+et trovar altro camino per ridursi appresso il signor conte <lb/>
+di Mansfelt. </p>
+<p>Da questa parte si sta con orrecchie attento a sentir quello, <lb/>
+che Spagnuoli siano per fare mentre vi è solo avviso <lb/>
+che continuino le lor levate; et si sa, che non cessassi dalla fabrica del loro forte alla bocca dell’Esclusa <lb/>
+della qual piazza corre la voce in Brusseles, che per <lb/>
+ottobre alla più longa la vogliono haver nelle mani. <lb/>
+Per tal effetto studiano ogni via possibile, et quelli <lb/>
+di Fiandra promettono oltre l’ordinarie contributioni <lb/>
+che pagano, altre<ptr target="#tn15" n="15"/> maggiori purché et l’Esclusa, et quelle <lb/>
+altre piazze, che sono<ptr target="#tn16" n="16"/> in mano di questi signori gli siano <lb/>
+levate. </p>
+<p>Corre anco voce nella medesima corte di Brusseles, che vostra Serenità <lb/>
+in queste congiunture non sia per star colle mani ferme <lb/>
+ma che unita con Francesi tenterà la recuperatione <lb/>
+di Valtelina, o procurerà altrove qualche diversione
+<pb n="062r" facs="11_062r" rend="0"/>
+così è stato scritto qui ad un amico mio. Il signor ambasciator di <lb/>
+Francia qui residente a chi communicai quanto dalla <lb/>
+Serenità vostra mi fu commesso; facendolo però come da me <lb/>
+hebbe gusto di sentir la risolutione del Re suo signore, et la <lb/>
+corrispondenza con che caminava la serenissima Republica, et disse <lb/>
+la pace la* pace* in Francia è quella che può far tutto <lb/>
+Dio benedetto vogli, ch’ella segua perché posso assicurarvi <lb/>
+che il Re si porterà al ben commune di quei popoli <lb/>
+et delli amici suoi, come è la serenissima Republica in particolare <lb/>
+con affetto, et di buon cuore ma, replicò, vi bisogna <lb/>
+la pace. Da hieri in qua par che corri la voce per qua <lb/>
+di qualche speranza di essa pace in Francia. </p>
+<p>Lunedì, et martedì passati fu vento così impetuoso, che fu <lb/>
+causa, che si perderono qualche vasselli. Ha patito <lb/>
+assai la Zelanda in quell’isole contandosi il danno per <lb/>
+un million di ducati. </p>
+<p>Col buon vento, ch’è seguitato, credo che saranno usciti <lb/>
+alcuni vasselli dal Tessel, che stavano alla vela <lb/>
+et la maggior parte carichi di grani destinati per <lb/>
+Genova, et Livorno, et partite di essi<ptr target="#tn17" n="17"/> doveranno <lb/>
+passar poi a Napoli. Il solo Bertoloti marcante <lb/>
+in Amsterdam n’ha ispediti quest’anno in più volte da <lb/>
+tre milla lasti, ogni lasto è trenta doi stara venetiani <lb/>
+et una gran parte è per il gran duca di Toscana. </p>
+<p>Ancor non mi è capitato l’ordinario de’ 18 del passato <lb/>
+lo aspetto, et con queste mando le replicate de’ 4 del <lb/>
+presente n° 381, et 382. Gratie etc. </p>
+<p>Dall’Haya li xi aprile 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="062v" facs="11_062v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 383 sola<ptr target="#tn18" n="18"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="017">
+<!--
+<p n="062vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>xi aprile 1622 ricevuta a’ 27 detto. </p>
+<p>Haia. n° 383 sola </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Venerdì … della communicatione" decoding of the encrypted text can be found on c. 57r-v; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "dell" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "toccante … Dio anderà bene" decoding of the encrypted text can be found on cc. 57v-58r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "che gli" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "paese … Paterborn" added above the deleted text.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "vi … insieme neutra-|lità" decoding of the encrypted text can be found on c. 58r; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "sue" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "arci-" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-i" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Seal and traces of a seal in red wax."</p></note>
+</div>
+</body>
+</text>
+</TEI>

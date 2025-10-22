@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.044 date 1617-02-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">044</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 281r-284v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">281r-284v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>From various letters news that new levies of troops in Brabant have been halted. It has sparked more rumours about a potential peace in Savoy which could lead to a settlement between Ferdinand and Venice. The princes of the Union have sent Mansfelt to Turin. Levenstein wants to raise 3000 troops for Venice. French extraordinary ambassador will arrive in The Hague and provide an update on the situation in France as well as request that States General will not support the malcontents. Carleton enquires whether the Venetians have send an ambassador to London. Religious matters have not been settled. Due to all these problems, the members of States General do not undertake any further action to establish a closer union with Venice </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-04">4 febbraio 1617</date>
+            <num>096</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="096">
+<div type="main" facs="main text of letter" n="096">
+<!--<p>4 febbraio 1617, L’Aia (cc. 281r-284v)</p>-->
+<pb n="281r" facs="03_281r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>si è inteso qui con diverse mani di lettere, che la levata <lb/>
+che si doveva fare<ptr target="#tn1" n="1"/> in Brabant resta sospesa, con voce <lb/>
+anco, che non se ne habbi a far altro; et di più, che le <lb/>
+genti borgognone, che tanto tempo fa furono levate, <lb/>
+et sono state attendendo il passaggio,<ptr target="#tn2" n="2"/> per non saper <lb/>
+per dove farlo, et perché facevano molti danni, ove <lb/>
+si trovavano ammassate, siano state licentiate. Doppo <lb/>
+questi avvisi si è sparso, che la pace in Piemonte sia <lb/>
+per seguire, non lasciandosi anco di dire, che doverà <lb/>
+succeder anco l’accommodamento tra la Serenità vostra et il serenissimo <lb/>
+Ferdinando; et l’Ambasciator francese a questo proposito <lb/>
+mi disse avanti hieri, che credeva, che di già monsignor <lb/>
+di Bettune fosse passato a Venetia; dimandandomi <lb/>
+s’io ne havevo nuova. Io gli risposi di non; et con <lb/>
+altri mi sono valso dei concetti che mi sono stati<ptr target="#tn3" n="3"/> ordinati <lb/>
+da vostra Serenità. Né fino a quest’hora è comparso il <lb/>
+messaggiero ordinario d’Anversa; potendo esser che <lb/>
+le lettere sue mi portino più certi particolari in questi <lb/>
+propositi da potermene valere al vantaggio di suoi <lb/>
+interessi. </p>
+<p>S’è vero quello, che viene scritto qui vostra Serenità già l’<lb/>
+haverà inteso da Turino, che ’l conte di Mansfelt <lb/>
+sia andato a quel signor Duca per trattar seco intorno
+<pb n="281v" facs="03_281v" rend="0"/>
+alla levata, et ben intendersi per il servitio dell’Altezza sua. </p>
+<p>Viene detto, che li principi dell’Unione habbino stimato <lb/>
+l’avviso di questi signori del dar più tosto denari, che <lb/>
+inviar genti a quel Principe; ma che essi vorrebbono <lb/>
+in questo affare haver la loro parte di riputatione <lb/>
+che sarebbe, che si vedesse di là da’ monti qualche <lb/>
+delle sue truppe; et par, che si fermino in questo <lb/>
+puntiglio; et per tanto se sarà andato a Turino <lb/>
+il conte di Mansfelt vogliono che sia per stabilir questo <lb/>
+tanto; ma si teme delle solite lunghezze nelle risolutioni <lb/>
+di quei principi; quando non giovasse l’eccitamento <lb/>
+di monsignor di Monthou ambasciator del signor Duca, essendo qui <lb/>
+avviso, che sia stato ad Heidelbergh, di là passat[o] <lb/>
+agl’altri principi, et che doveva andar a trovar[e] <lb/>
+espressamente il signor duca di Sassonia. </p>
+<p>Il conte Giovanni Casimiro di Levestein scrive qui ad un capitano amic[o] <lb/>
+suo quanto il fratello Giorgio Lodovico ha contrattat[o] <lb/>
+con vostra Serenità intorno alla levata delli tre milla fanti <lb/>
+et lo prega se ha qualche galanthuomo, che sia <lb/>
+atto a servire in questa occasione, che lo trattenghi <lb/>
+perché gli haverebbe poi dato avviso di quello havesse a <lb/>
+fare, o egli stesso si sarebbe transferito qui; dicen[do] <lb/>
+che aspettava il fratello ad Heidelbergh, di dove scrive le[ttere]. </p>
+<pb n="282r" facs="03_282r" rend="0"/>
+<p>Deve arrivar qui dimani, o lunedì il signor della Nua <lb/>
+per ambasciator straordinario inviato da sua Maestà christianissima a questi signori Stati; <lb/>
+dicesi, che sarà per significar lo stato corrente delle cose <lb/>
+di Francia, le cause, che muovono il Re a tenersi <lb/>
+armato, et fortificarsi di vantaggio, per far instanza <lb/>
+et assicurarsi con questi signori, che non daranno assistenza <lb/>
+alli principi mal contenti, et di più, che habbi ad <lb/>
+iscusar il mancamento alla sodisfattione delle paghe <lb/>
+a queste truppe francesi. </p>
+<p>Il signor ambasciator d’Inghilterra non ha per anco havuta la risposta <lb/>
+alla sua seconda espositione; ma sollecitandola, li signori <lb/>
+Stati Generali, hanno deputati doi, che sono andati <lb/>
+a dirgli, che trattandosi di negotio di tanto momento<ptr target="#tn4" n="4"/> <lb/>
+che ha dipendenza da’ principi, che ne sono interessati <lb/>
+era necessario, che da loro si havesse quello, che <lb/>
+ne sentivano, et per tanto doveva l’Eccellenza sua haver <lb/>
+patienza: perché quanto più presto se<ptr target="#tn5" n="5"/> le darà <lb/>
+quella risposta, che sarà stimata propria in questo <lb/>
+affare. Resta l’Ambasciator attendendo, né sa quello, <lb/>
+che possa provenire, et che sia per risolversi. </p>
+<p>L’ambasciator francese continua pur nei suoi ufficii, et <lb/>
+nel mostrar, che non si habbi a far alcuna cosa senza <lb/>
+l’intervento di sua Maestà; et ha detto, che monsignor
+<pb n="282v" facs="03_282v" rend="0"/>
+della Rosciafocò, che passa straordinario ambasciatore alla corte di <lb/>
+Spagna va bene per l’affare delle cose d’Italia; ma anco <lb/>
+per parlar di questo particolar negotio; et di più, che li par <lb/>
+impossibile, che ’l re di Spagna dica da dovero mentre ha <lb/>
+fatto solo capo in Inghilterra, et che presto si chiarirà, come <lb/>
+passino le cose. L’ambasciator Carleton, che sente che <lb/>
+Francesi si dogliono mi ha detto in confidenza, che teme <lb/>
+che sarà sforzato dolersi egli ancora, che la maestà del suo <lb/>
+Re non habbi quella sodisfattione, che conviene per <lb/>
+gl’artificii de’ Spagnuoli; che haveva come ministro <lb/>
+et come servitore essequiti li commandamenti, et aspettarebbe <lb/>
+ciò che ne seguisse. </p>
+<p>Con nuova occasione, che mi sono veduto col signor Ambasciator <lb/>
+sudetto mi ha egli addimandato se havevo qualche <lb/>
+avviso intorno quanto mi disse dell’andata dell’eccellentissimo <lb/>
+Bon in Inghilterra. Io gli risposi, che non, et egli mi <lb/>
+replicò degl’istessi concetti, che con altre mie de’ 4<ptr target="#tn6" n="6"/> <lb/>
+decembre ho significati alla Serenità vostra, che là<ptr target="#tn7" n="7"/> sarebbe necessario <lb/>
+ne’ correnti tempi un Ambasciatore; et di più che di loro […] <lb/>
+alcuna volta è stato ricercato per haver informatione <lb/>
+di qualche particolare<ptr target="#tn8" n="8"/>, che presuponevano, che egli <lb/>
+potesse sapere per accertarsene maggiormente, et che d[i] <lb/>
+questa farina de’ buoni amici (accennando Spagnuoli),
+<pb n="283r" facs="03_283r" rend="0"/>
+che il signor Lionello non fosse ben informato di tutte le cose, et si <lb/>
+governasse, et manegiasse con molta prudenza; che tanto mi <lb/>
+replicava perché maggiormente io conoscessi l’affetto, et la <lb/>
+riverenza, che porta al servitio di lei, et a quella serenissima Republica. </p>
+<p>Il negotio della religione non hebbe finale risolutione per la <lb/>
+contrarietà de’ pareri. Hoggi otto fu il signor principe Mauritio <lb/>
+nel Consiglio fino all’un’hora doppo ’l mezogiorno, et <lb/>
+non hebbe sì tosto desinato, che rientrò il Consiglio <lb/>
+et l’Eccellenza sua ancora, et vi stetero fino alle otto hore. <lb/>
+Quanto si è fatto è stato di rimetter la materia alla <lb/>
+nuova ordinaria assemblea delli deputati di Holanda <lb/>
+che sarà al principio di marzo, et in tanto questi <lb/>
+predestinanti continueranno le loro predicationi. </p>
+<p>Queste controversie di religione, il negotio di Zanten, gl’<lb/>
+affari della Francia,<ptr target="#tn9" n="9"/> il procurar l’abondanza <lb/>
+nel Paese, et qualche altro publico particolar interesse <lb/>
+ha tenuti sin qui, et tiene tuttavia così occupate <lb/>
+le menti di questi signori, che poco pensano ad altro, <lb/>
+et venendo a proposito in discorso con principal signore <lb/>
+mi ha detto, che sa che continua la buona volontà <lb/>
+di questi Stati verso la serenissima Republica, et il desiderio <lb/>
+di stringersi insieme con buona corrispondenza; ma <lb/>
+che bisognava, che ’l tempo, et l’opportunità lo
+<pb n="283v" facs="03_283v" rend="0"/>
+permettesse, et gl’interessi communi lo portasse, oltre che qui <lb/>
+caminano molto riserbati, et pesati. </p>
+<p>Si trova qui il signor principe d’Oranges arrivato sabbato passat[o] <lb/>
+alla sera. L’ho visitato, et egli fu hieri con il fratello <lb/>
+principe Henrico a restituirmi la visita, havendosi sforz[ato] <lb/>
+nell’una, et nell’altra visita di testificarmi esser <lb/>
+riverente, et devoto servitore a quella serenissima Republica. <lb/>
+Pensa di partir lunedì alla volta di Breda sua ordinaria <lb/>
+habitatione con la moglie sorella del principe di Condè con <lb/>
+la quale non ho lasciato di sodisfar con ogni debito <lb/>
+complimento. Gratie etc. </p>
+<p>Dall’Haya a’ 4 febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="284r" facs="03_284r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="284v" facs="03_284v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="096">
+<!--
+<p n="284vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 febraro 1616 ricevute 22 detto </p>
+<p>Secretario Surian dall’Aia. 2<hi rend="superscript">a</hi> </p>
+<p>Che la levata che si doveva fare in Brabant <lb/>
+resta sospesa. </p>
+<p>Che le genti borgognone siano state licen-<lb/>
+tiate. </p>
+<p>Che la pace in Piemonte sia per seguire. </p>
+<p>Che l’accomodamento tra sua Serenità et l’Arcidu-<lb/>
+ca sia per succedere. </p>
+<p>Che non è ricomparso il messaggiero d’An-<lb/>
+versa, et si stava attendendo. </p>
+<p>Che il conte di Mansfelt era andato al duca di <lb/>
+Savoia per trattar intorno alla levata. </p>
+<p>Che l’ambasciator di Savoia sia stato ad Heidelbergh <lb/>
+et passato ad altri principi. </p>
+<p>Il Casimiro di Lovestein haveva scritto <lb/>
+quanto il fratello Giorgio Lodovico ha contrata-<lb/>
+to con sua Serenità intorno alla levata delli tre-<lb/>
+mille fanti, et fatta instanza di havere <lb/>
+qualche galanthuomo atto a servire. </p>
+<p>Parla intorno al segretario Lionello, che <lb/>
+non è ben informato delle cose, ma che <lb/>
+si governa con molta prudenza, et che sarebbe <lb/>
+necessario un ambasciatore. </p>
+<p>Che il negotio della religione non haveva ha-<lb/>
+vuto rissolutione. </p>
+<p>Principal signore ha detto, che sa continuare <lb/>
+la buona volontà di quei signori verso la Republica <lb/>
+et il desiderio di stringersi. </p>
+<p>Era arrivato il principe di Oranges, lo haveva <lb/>
+visitato, et era stato corrisposto; stava il <lb/>
+detto Principe per partire colla moglie sorella <lb/>
+del principe di Condè. </p>
+<p>Era arrivato il signor della Nua ambasciator di Franza <lb/>
+estraordinario per dar conto dello stato corrente <lb/>
+delle cose di quel Regno. </p>
+<p>Lo ambasciator di Inghilterra sta tuttavia attenden-<lb/>
+do la risposta. </p>
+<p>Che l’ambasciator di Francia haveva detto, che il signor <lb/>
+della Rosciafocò va bene in Spagna per le cose <lb/>
+d’Italia, ma anco per parlar di quel negotio. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ola" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "qualche" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

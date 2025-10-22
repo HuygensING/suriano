@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.027 date 1618-12-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 188r-189v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">188r-189v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A letter to announce the the arrival of Luz in Venice who will elaborate on matters related to the twelve war ships </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-12-01">1 dicembre 1618</date>
+            <num>065</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="065">
+<div type="main" facs="main text of letter" n="065">
+<!--<p>1 dicembre 1618, L’Aia (cc. 188r-189v)</p>-->
+<pb n="188r" facs="07_188r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il signor Isaac Antonio Luz con queste presenterà alla Serenità vostra <lb/>
+la copia, o traduttione delle spese fatte dalli signori delle <lb/>
+amiralità di Amsterdam, Roterdam, et Nort Holandia <lb/>
+nella preparatione, et ispetione delle dodici navi de <lb/>
+guerra. Congionti a questi conti saranno li <lb/>
+do[c]umenti<ptr target="#tn1" n="1"/> in che, et perché sia stato distribuito il denaro <lb/>
+che per nome mio dal signor Calandrini, et da me è stato <lb/>
+di tempo in tempo esborsato ad esse Amiralità. </p>
+<p>Darà esso signor Luz piena notitia a vostra Serenità, o a ch’ella <lb/>
+commanderà del costo delle ammunitioni, cordaggi, <lb/>
+et altri apprestamenti perché resti meglio, et più distin-<lb/>
+[t]amente<ptr target="#tn2" n="2"/> informata di quello, che io forse non <lb/>
+[ha]verò<ptr target="#tn3" n="3"/> potuto o saputo far io colle mie lettere, che <lb/>
+le ho riverentemente scritte in diversi tempi in questo proposito. <lb/>
+Haverà anco seco una nota c’ho procurata di haver <lb/>
+da Encusen di quanto larghe, lunghe, et alte nelle <lb/>
+coperte vogliono essere le navi da guerra secondo <lb/>
+l’uso di questo Paese, et del loro valore appresso <lb/>
+poco, se vostra Serenità risolvesse con una spesa in una <lb/>
+volta liberarsi dalla molta, che fa in alcune,
+<pb n="188v" facs="07_188v" rend="0"/>
+che come mercantili non sono così atte al servitio, et <lb/>
+all’uso di guerra, come sarebbono quelle, che fossero <lb/>
+fatte espressamente<ptr target="#tn4" n="4"/> in questo Paese<ptr target="#tn5" n="5"/> ove è la vera maniera <lb/>
+et il vero, et sicuro metodo, et ordine del fabricarle, <lb/>
+et armarle: sopra che il medesimo Luz le potrà dar <lb/>
+assai buona informatione. Gratie etc. </p>
+<p>Dall’Haya al primo decembre 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="189r" facs="07_189r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="189v" facs="07_189v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="065">
+<!--
+<p n="189vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Primo<ptr target="#tn6" n="6"/> decembre 1618 ricevute a’ 16 gennaro </p>
+<p>Haya </p>
+<p>Accompagna colle presenti <lb/>
+Isaac Antonio Luz </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Damaged page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Damaged page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Damaged page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "espressam(en)te" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "1618" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

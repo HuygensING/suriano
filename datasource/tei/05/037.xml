@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.037 date 1618-01-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">037</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 218r-221v, 226r-227v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">218r-221v, 226r-227v, 222r-225v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letters from Venice have arrived with a lot of delay, even an express courier from Venice was hindered by terrible winds. Upon receiving their instruction, he went to see Maurice and Oldenbarnevelt for support in securing the warships. Assurances were given that the request would be met. Suriano highlight some of the practical issues such as ensuring adequate supply as well as assuring the loss of the ships. Letter ends with request for clarification on several issues such as the conduct in case of enemy encounters and the colours for the flags to be used. Reports that he has given money to express courier to make the journey to Venice qnd he will dispatch the letters as instructed to Contarini. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-01-02">2 gennaio 1618</date>
+            <num>067, 068</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="067">
+<div type="main" facs="main text of letter" n="067">
+<!--<p>2 gennaio 1618, L’Aia (cc. 218r-221v, 226r-227v)</p>-->
+<pb n="218r" facs="05_218r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>replicata </p>
+<p>Serenissimo Principe </p>
+<p>dalle mie lettere de’ 25 del passato, che saranno arrivate <lb/>
+alla Serenità vostra con quelle de’ 23 haverà ella inteso come <lb/>
+tardo mi erano pervenute le sue del primo. Anco quelle <lb/>
+dei 19 per capitarmi tarde non ostante, che fossero ispedite <lb/>
+con corriero espresso hanno rancontrato in un rabiosissimo vento <lb/>
+che dalla domenica fino al martedì ha trattenuto esso <lb/>
+corriero a Zevenbergh una giornata, et meza discosto di <lb/>
+qua, et arrivò la notte stessa di martedì venendo <lb/>
+il mercore. </p>
+<p>Vidi le libere, et chiare commissioni, che mi erano date <lb/>
+dalla Serenità vostra<ptr target="#tn1" n="1"/> <hi rend="decoded">per</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">mandar dodeci vascelli da guerra</hi> <lb/>
+et il doppo desinare andai a trovar il signor principe Mauritio <lb/>
+col quale conferii l’intentione di lei, et ricercai il suo <lb/>
+favore, et assistenza. Stimò a proposito ch’io <lb/>
+parlassi prima di ogn’altra cosa con alcuni<ptr target="#tn3" n="3"/> delli <lb/>
+signori Stati, et al signor Bernvel in particolare per praticar <lb/>
+la loro volontà. Et perché colle prime lettere havevo <lb/>
+già procurata qualche informatione, et ero consigliato <hi rend="decoded">quando</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">havessi a pigliar navi da guerra ricercar di haverle <lb/>
+dalle amiralità del Paese, per esser meglio, più prontamente, più <lb/>
+sicuramente servito</hi>. Concorse l’Eccellenza sua a laudar l’avviso
+<pb n="218v" facs="05_218v" rend="0"/>
+solo questo mi disse, che erano già questi signori in deliberatione <lb/>
+di metter ad ordine <hi rend="decoded">dieci</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">navi, per aggiontar</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">le altre, che hanno armate li pirati <lb/>
+per rendersi più forti ad assicurare li vasselli di mercantia, <lb/>
+essendone già stati presi alcuni</hi> ma che in ogni <lb/>
+modo tentassi, et che egli in tutto ciò che havesse potuto far <lb/>
+servitio alla serenissima Republica non haverebbe mancato; ringratiando <lb/>
+vostra Serenità della confidenza. Parlai a diversi, et spetialmente <lb/>
+fui col signor Bernvel, che mostrò inclinatione, et dispositione nel <lb/>
+desiderar, che la Serenità vostra fosse servita, et egli ancora mi fece <lb/>
+la stessa consideratione: ma che nondimeno haverebbono potuto li signori Stati <lb/>
+scriver <hi rend="decoded">addirate</hi><ptr target="#tn7" n="7"/><hi rend="decoded">, et saper da loro il</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">stato, et la quantità de’ vasselli, che <lb/>
+esse haveranno, et altri che si trovavano nei porti</hi> il che mi fu parimente detto da <lb/>
+altri et che si sarebbe scritto quando havessi fatto saper in <lb/>
+publico la volontà della serenissima Republica. Io per tanto venerdì <lb/>
+passato procurai l’audienza nella quale doppo presentate le <lb/>
+lettere credentiali della Serenità vostra et premesse gl’ufficii, che <lb/>
+ella mi commette <hi rend="decoded">nel</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">rappresentar la giusta causa, che ella haveva di armarsi <lb/>
+essagerando contra le attioni de’ Spagnuoli, digli il comandamento che <lb/>
+tenevo da lei della preparatione di dodeci vasselli, et ricercai ’n ciò <lb/>
+l’impositione della loro auttorità, perché fosse</hi>
+<pb n="219r" facs="05_219r" rend="0"/>
+<hi rend="decoded">bene, et prontamente <lb/>
+servita, toccando che quando haversi potuto haver dalle</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">amiralità <lb/>
+delli ordinarii vasselli da guerra a soldo di vostra Serenita</hi> lo haverei stimato molto proprio. Mi fu risposto <lb/>
+dal Presidente, che li signori Stati ringratiavano la serenissima <lb/>
+Republica della communicatione, et confidenza, con che ella <lb/>
+passava con essi, et che sentivano piacere, che <hi rend="decoded">havesse</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">fatta una tale risolutione di armarsi, perché questo era <lb/>
+il vero mezo per far testa allo Spagnolo</hi> che essi in tutto quello, che haves-<lb/>
+sero potuto non haverebbono mancato di procurare, <lb/>
+che vostra Serenità fosse compiaciuta, et li lasciai per scritto <lb/>
+l’instanza a fine che consultassero, et vi delibe-<lb/>
+rassero sopra. Così fecero, et la mattina seguente <lb/>
+del sabbato <hi rend="decoded">deliberarono</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">de’ servir alle Amiralità tutte, per haver il loro aviso <lb/>
+colla volta dei vasselli, che sono proprii per armar ad uso di guerra, <lb/>
+et particolarmente per intender, se da esse si potrà haver tutto il detto <lb/>
+numero</hi><ptr target="#tn13" n="13"/> et hier mattina solamente <lb/>
+si sono spedite le lettere per essersi mandata anco la copia <lb/>
+della mia instanza. </p>
+<p>Fin qua essendomi regolato sul fatto, et col parere di sua Eccellenza <lb/>
+di monsignor Bernvel, et altri stimo tutto esser stato<ptr target="#tn14" n="14"/> <lb/>
+ben fatto; ma la dilatione, che vi si frapone è quella
+<pb n="219v" facs="05_219v" rend="0"/>
+che mi preme, perché essendo già stati ordinati di venir qui <lb/>
+per dimani a otto <hi rend="decoded">li</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">signori delle dette Amiralità temo, che aspetterano a far il <lb/>
+riporto a bocca <lb/>
+</hi> et ciò parendomi, che non servisse che a perdita di tempo lo consi-<lb/>
+derai al signor Bernvel, il qual mi disse, che non doverò prendermi <lb/>
+pena, perché otto a dieci giorni più, o meno non era il fatto <lb/>
+purché la Serenità vostra fosse stata ben servita in ogni modo <lb/>
+haverebbe bisognato, che io ancora <hi rend="decoded">haversi</hi><ptr target="#tn16" n="16"/> <hi rend="decoded">mandato, o fossi andato cercando, onde sarebbe stato tutt’<lb/>
+uno, et che era impossibile, che li vasselli potessero partir di qua <lb/>
+prima del principio, o forse della mettà di marzo, onde vi era <lb/>
+tempo assai, perché in un mese si haverebbono potuto metter ad <lb/>
+ordine</hi> tanto mi ha detto <lb/>
+anco il signor principe Mauritio col quale ho di nuovo parlato <lb/>
+et tale parimente è l’opinione di altri signori. Io però non ho mancato <lb/>
+di scriver in Amsterdam ai Calandrini, et ho data commissione <lb/>
+di scriver al signor Pietro Falghero, che andò hier mattina a quella volta <lb/>
+poiché prendi informatione di quello mi possi prometter da <lb/>
+quella parte; et me lo avvisi a fine che mi possi rego-<lb/>
+lare <hi rend="decoded">tanto</hi><ptr target="#tn17" n="17"/> <hi rend="decoded">per la qualità dei vasselli quanto del prezzo per il noleggiarli <lb/>
+et può creder la Serenità vostra che tutto sarà aspettato da me con grandissima <lb/>
+ansietà, sono però d’aviso di scriver ancor io a tutte le Amiralità <lb/>
+mie lettere di ufficio per eccitarle, et sollecitarle alla risposta</hi> et fosse me ne risolverò
+<pb n="220r" facs="05_220r" rend="0"/>
+spedito il corriero. </p>
+<p>Hora devo aggiunger alla Serenità vostra qualche cosa degna di <lb/>
+consideratione in questo proposito. Il signor Bernvel <hi rend="decoded">signor</hi><ptr target="#tn18" n="18"/> <hi rend="decoded">particolar del noleggio, disse che credeva, che non si havesse <lb/>
+potuto farlo per minor tempo di un anno, tre mesi per l’andare, <lb/>
+sei per stare, et tre per tornare, io gli risposi che questa era <lb/>
+troppo, et che ero certo, che si sarebbono contentati quelli <lb/>
+che havessero contattato meco di molto, e molto meno <lb/>
+et massime colla interpositione de’ signori Stati et della <lb/>
+particolar di Signorie; con libertà alla serenissima Republica di proro-<lb/>
+gar il tempo della condotta sicuri d’un buon servitio. <lb/>
+Rispose, così sarebbe, se la guerra continuasse; si <lb/>
+vedrà, et io non mancherò di far il mio debito in <lb/>
+</hi></p>
+<p><hi rend="decoded">servitio della serenissima Republica. Questo concetto profferito <lb/>
+dal signor Bernvel, mi ha fatto mal stomaco altri mi han-<lb/>
+no detto, che al certo di capitanii dei vasselli, non haverebbo-<lb/>
+no voluto esser assicurati per minor tempo de’ 6 mesi, comin-<lb/>
+ciando il giorno dell’uscita da questi, perchè aven-<lb/>
+do partir di qua, per far un sì longo viaggio, correr <lb/>
+tanto rischio, monitorar le navi de’ viveri</hi>
+<pb n="220v" facs="05_220v" rend="0"/>
+<hi rend="decoded">et <lb/>
+altro per un anno almeno, che vuol dir gran spesa, et <lb/>
+danno tutte cose, da esser considerate, ma può la <lb/>
+Serenità vostra esser certa, che userò ogni industria, et ogni <lb/>
+possibile, perché il tempo sia meno che si possi. <lb/>
+</hi></p>
+<p><hi rend="decoded">Un’altra consideratione, mi è stata fatta, che forse si vorrà <lb/>
+che io assicuri per la perdita del corpo del vascello, quando <lb/>
+arrivato all’attual servitio fosse, o messo a fondo, o <lb/>
+preso dall’inimico, o si abbroggiasse, per qualche avi-<lb/>
+dente, o per esser costume ordinario della Natione, <lb/>
+che quando si vede stretta ad arendersi, più tosto <lb/>
+che farlo li marinari mettono fuoco alla polvere <lb/>
+et mandano all’aria sé stessi, il vassello, et il ne-<lb/>
+mico medesimo, che talhora succede, anco a questo, <lb/>
+haver quella circospettione, che mi si deve <lb/>
+di più sarà necessario che la Serenità vostra mi avvisi, se li vasselli, <lb/>
+che per me stimo</hi><ptr target="#tn19" n="19"/> <hi rend="decoded">debbono andar uniti, per caso incon-<lb/>
+trassero, prima, che arrivino sotto il comando dell’eccellentissimo <lb/>
+suo Generale, o altri rappresentanti publici, l’inimico, se dove-<lb/>
+ranno fugir il combatter seco, o lasciar a loro dis-<lb/>
+crettione il farlo, perché questo lo faran-<lb/>
+</hi>
+<pb n="221r" facs="05_221r" rend="0"/>
+<hi rend="decoded">no certo di buon <lb/>
+core, et questa Natione è di tal natura, che quando <lb/>
+vede l’occasione la vorrebbe incontrare, et intorno ciò, <lb/>
+o per l’uno, o per l’altro, et ad ogni buon fine, la <lb/>
+prego a far, ch’io habbi per informatione una <lb/>
+formula della patente, che doverò farli, a[ffine] <lb/>
+di regolarmi in tutto col senso della Serenità vostra. <lb/>
+</hi></p>
+<p><hi rend="decoded">Mi è stato discorso dal signor principe Mauritio, et da qual-<lb/>
+che altro, che vi vorrà un armiraglio, o vostro armi-<lb/>
+raglio sopra tutta la lota, anco di questo sarò in <lb/>
+tempo di havere la mente di vostra Serenità. <lb/>
+</hi></p>
+<p><hi rend="decoded">Sono solite tutte le navi haver le bandiere, et li capi-<lb/>
+tanii me le adimanderanno, onde è bene, che la Serenità <lb/>
+vostra mi commandi ciò, che vorrà, ch’io faccia, perché mi se-<lb/>
+gnerebbe per dentro il suo San Marco et vorrei saper anco li <lb/>
+precisi colori. <lb/>
+Da più parti ho rincontri uguali, che li signori Stati sono <lb/>
+molto inclinati a far servitio alla Serenità vostra, et viene <lb/>
+tenuto per certo mi concederanno li vasselli, et faranno <lb/>
+ogni possibil assistenza, è vero, che vi si aggionge <lb/>
+con la sicurezza del Paese, vorrei mo, che fosse presto, <lb/>
+perché a gusto suo, et a suo desiderio la Serenità vostra <lb/>
+fosse servita. <lb/>
+</hi></p>
+<pb n="221v" facs="05_221v" rend="0"/>
+<p><hi rend="decoded">Qualcheduno ha detto, che quando le Amiralità dia-<lb/>
+no li vasselli, et che vi siano pezzi di bronzo, che <lb/>
+temo saranno pochi, forse si vorrà, ch’io assicuri, <lb/>
+per la perdita di essi: a tutte le cose haverò riguar-<lb/>
+do, che merita l’affare. <lb/>
+</hi></p>
+<p>Ho stimato bene non differir più la speditione di monsignor Agostin <lb/>
+Bosello corriero a fine ch’ella sappi ciò che è passato sin <lb/>
+qui, et perché la Serenità vostra si compiaccia significarmi la sua <lb/>
+volontà sopra quanto le ho riverentemente accennato in quelle cose massime <lb/>
+che colla prudenza sua può considerare, ch’io possi haver la <lb/>
+risposta, la quale attenderò con desiderio per potermi regolar <lb/>
+in tutto, et per tutto in quanto più potrò col senso di lei. </p>
+<p>Al medesimo corriero ho dati quaranta ongari, che mi ha addimandati <lb/>
+non havendo, come ha detto appresso di sé tanti denari, che li bastas-<lb/>
+sero per far il viaggio; de’ quali doverà render conto alla Serenità vostra. </p>
+<p>Le lettere, che ella mi commandò d’inviare all’eccellentissimo signor ambasciator Contarini <lb/>
+in Inghilterra partirono di qua venerdì mattina consignate ad un kavalier <lb/>
+inglese, che a drittura andava a Londra, et già sarà arrivato, <lb/>
+essendo stato il vento buono. </p>
+<p>Ho ricevute coll’ordinario le replicate delle lettere dei quattordeci con una <lb/>
+delli 15 del passato toccante la libertà di valermi di denaro <lb/>
+della quale mi valerò con quella circonspettione, che si deve, et <lb/>
+procurerò in tutto le cose ogni maggior cautela. Gratie etc. </p>
+<p>Dall’Haya a’ 2 genaro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="226r" facs="05_226r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="226v" facs="05_226v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="227r" facs="05_227r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="227v" facs="05_227v" rend="270"/>
+<p>Al serenissimo principe di Venetia <lb/>
+<lb />prima </p>
+<p>replicata de’ 2 gennaro 1618 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="067">
+<!--
+<p n="227vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 gennaro 1618 ricevute a’ 13 detto </p>
+<p>Haya. Prima </p>
+<p>Riceve le lettere per li vasselli <lb/>
+che a capo con Mauritio; e glielo <lb/>
+consiglia a parlar nella Dieta <lb/>
+essequiva il consiglio. Promette, <lb/>
+di scrivere all’Amiralità per <lb/>
+informatione del n(olegi)o. Il corriero non detta<ptr target="#tn20" n="20"/> <lb/>
+scrive anch’egli in Amsterdam <lb/>
+e altrove et il 23 et il 25<ptr target="#tn21" n="21"/> li signori dell’Amiralità <lb/>
+s’atendono, e dicono in voce informatione <lb/>
+non potranno partire che alla mittà <lb/>
+di marzo li vasselli; in un meze <lb/>
+li poran ad ordine. </p>
+<p>Li particolari del nolegio diccono <lb/>
+che per un anno almeno bisognerà <lb/>
+condurli, altri per mesi 6 dicon <lb/>
+vorà li capitani et assicurati fin <lb/>
+il mezo. </p>
+<p>Motivo che assicuri il secretario<ptr target="#tn22" n="22"/> il vasello <lb/>
+in caso di perdita. </p>
+<p>Dimandai se dovere li vasselli <lb/>
+uniti occorrendo combattere prima <lb/>
+di trovar il signor generale. </p>
+<p>Dimando formula della patente <lb/>
+che doveno farvi vasselli. </p>
+<p>L. SS. R. </p>
+<p n="227vD">———</p>
+<p>Motivo del signore che per la flota <lb/>
+vi von un amiraglio per <lb/>
+il vice. </p>
+<p>Li capitani vono le bandiere <lb/>
+dentro il San Marco e qual <lb/>
+colori dimandano. </p>
+<p>Del buon animo in ciò dei <lb/>
+stati ci promette il secretario <lb/>
+motivo assicuri parte […]<ptr target="#tn23" n="23"/> <lb/>
+di bronzo saran pochi <lb/>
+li valen detto denaro <lb/>
+[…]<ptr target="#tn24" n="24"/>. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="068" corresp="068" source="222r-225v" >
+<div type="main" facs="main text of attachment I" n="068" corresp="068" >
+<!--<p>Allegato I al n. 68 (cc. 222r-225v; decodifica di cc. 218r-221v)</p>-->
+<pb n="222r" facs="05_222r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="222v" facs="05_222v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="223r" facs="05_223r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="223v" facs="05_223v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="224r" facs="05_224r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="224v" facs="05_224v" rend="0"/>
+<p>Blank page</p>
+<pb n="225r" facs="05_225r" rend="0"/>
+<p>Blank page</p>
+<pb n="225v" facs="05_225v" rend="0"/>
+<p>Blank page</p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "per … guerra" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "quando … servito" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "dieci … alcuni" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-le" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "addirate … porti" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "nel … Serenità" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "avesse … Spagnolo" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "deliberarono … numero" decoding of the encrypted text can be found on c. 222r; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "ben" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "li … bocca" decoding of the encrypted text can be found on c. 222v; with cross-reference sign.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "aversi … ordine" decoding of the encrypted text can be found on c. 222v; with cross-reference sign.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "tanto … risposta" decoding of the encrypted text can be found on c. 222v; with cross-reference sign.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "signor … che merita l’affare" decoding of the encrypted text can be found on cc. 222v-224r; with cross-reference sign.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "me stimo" added above the line on "me costume" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "et il … 25" added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "il secretario" added above the line.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Uncertain reading.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain reading of this word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

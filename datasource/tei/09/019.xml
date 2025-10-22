@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.019 date 1620-05-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 84r-86v, 89r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">84r-86v, 89r-v, 87r-88v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Two remaining ships have arrived in Texel. The Admiralty of Amsterdam requested payment of the promised increase in their salaries of sailors, which Suriano rejects, claiming that these promises were made by Van Kerkhoven and not the Venetian state. The artillery on Santa Giustina needs to be paid by the Venetian Republic, one bronze is still in Ireland and will be brought to Enkhuizen. Suriano requests assistance from Lando in England on this matter. One note attached related to ship S. Giustina</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-05-05">5 maggio 1620</date>
+            <num>026, 027</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="026">
+<div type="main" facs="main text of letter" n="026">
+<!--<p>5 maggio 1620, L’Aia (cc. 84r-86v, 89r-v)</p>-->
+<pb n="084r" facs="09_084r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 201 comincia 200 </p>
+<p>Serenissimo Principe </p>
+<p>li doi vasselli, che restavano a venire sono coll’aiuto di <lb/>
+Dio comparsi. Hieri n’hebbi avviso dal Calandrini, che erano <lb/>
+arrivati in Tessel; et questa mattina con lettere dei signori <lb/>
+dell’amiralità di Amsterdam inviatemi per messaggiero <lb/>
+espresso ho inteso, che L’angelo volante, o Menistrkerch <lb/>
+era innanti quella città; et l’altro si attendeva d’hora in <lb/>
+hora. Di questo ch’è il vassello San Francesco otto <lb/>
+giorni sono è morto il Capitano. Me ne duole per la confu-<lb/>
+sione, che mi figuro per il render de’ conti. Ho racc(orda)to <lb/>
+il servitio di vostra Serenità a quei signori con ogni maggior affetto <lb/>
+et procurerò che ’l tutto succedi con il manco interesse <lb/>
+di lei, poiché così Dio ha voluto, che ’l viaggio di questi <lb/>
+sette vasselli sia stato accompagnato da una tanta, et <lb/>
+sì lunga contrarietà di venti, et d’accidenti. </p>
+<p>Li marinari del vassello San Marco tra hoggi, et dimani saran-<lb/>
+no pagati, et il ritardo è nato dall’haver li signori dell’<lb/>
+Amiralità contrastato ad una loro instanza fondata, <lb/>
+dicono sopra promessa dell’amiraglio Chercoven che <lb/>
+era nel medesimo vassello di dover haver doppo dieci <lb/>
+mesi di servitio un terzo più di paga per li seguenti <lb/>
+mesi con allegar che morto il detto Amiraglio non <lb/>
+havendo<ptr target="#tn1" n="1"/> potuto haver questa promessa per scritto, <lb/>
+l’eccellentissimo signor capitan general et procurator Veniero<ptr target="#tn2" n="2"/> li haveva <lb/>
+doppo promesso il medesimo. Mi scrissero li detti <lb/>
+signori tutto ciò, et mi fecero instanza di passarmene
+<pb n="084v" facs="09_084v" rend="0"/>
+in Amsterdam per agiustar questo punto, o dar loro autorità <lb/>
+di far il migliore per il servitio della serenissima Republica. Io <lb/>
+assolutamente li dissi, che questo non poteva esser perché di quello <lb/>
+ch’è stato accordato di tutto ne ho havuta notitia <lb/>
+da lei; che ’l Chercoven non poteva prometter del denaro <lb/>
+di vostra Serenità; né potevo creder che l’eccellentissimo signor Generale li havesse <lb/>
+fatta una tal promessa, che li dovessero pagar conforme <lb/>
+ai roli, et non altrimenti; et con questo riespedii il <lb/>
+messo; non havendo stimato a proposito di conferirmi <lb/>
+in Amsterdam per questo affare per non incontrar di <lb/>
+quei disgusti, et forse indignità, che dalla brutalità <lb/>
+di qualcheduno ubriaco haverei potuto ricever. Anco<ptr target="#tn3" n="3"/> <lb/>
+non<ptr target="#tn4" n="4"/> hanno rescritto altro; ma havendone scritto <lb/>
+alli signori Stati sue Eccellenze prima di farli alcuna risposta <lb/>
+hanno deputati doi per venir a me, et procurar <lb/>
+d’intender ciò, che fosse in questo proposito; et <lb/>
+quando fosse vero quanto allegavano li signori dell’<lb/>
+Amiralità per parte delli matelotti, io condescendessi <lb/>
+a dar ordine, che havessero la sodisfattione, che <lb/>
+pretendevano. Io risposi a detti signori in conformità <lb/>
+sì di quanto havevo rescritto in Amsterdam; ma con <lb/>
+un modesto resentimento dissi, che mi meravigliavo, <lb/>
+che si dasse orrecchie<ptr target="#tn5" n="5"/> a simil inventioni mai proposte <lb/>
+di qua prima del partir dei vasselli, et che mai <lb/>
+ne havevo havuta novella, et che era giusto un
+<pb n="085r" facs="09_085r" rend="0"/>
+voler fomentar humori con pregiudicio anco del servitio <lb/>
+di queste Provincie: dilatandomi in questo quanto <lb/>
+mi parve<ptr target="#tn6" n="6"/> proprio, senza mostrar alteratione di rilievo; ma <lb/>
+ben procurai, che comprendessero dalle parole mie, <lb/>
+et da miei concetti, che un tal avviso non poteva riuscir <lb/>
+che dispiacevole a quell’eccellentissimo Senato. Restorono li <lb/>
+doi signori contenti, et dissero, che prendessi in buona parte <lb/>
+quanto havevano ricercato a nome dei signori Stati, che <lb/>
+havevano voluto esser prima informati di questo affare <lb/>
+per poter col mio avviso fondatamente risponder, et che <lb/>
+ne haverebbono fatto il debito raporto. So che li <lb/>
+marinari non possono mostrar alcuna cosa perché se <lb/>
+l’havessero la presenterebbono. Il dir che habbino <lb/>
+havuta promessa dall’eccellentissimo signor Capitan generale è tutto contra <lb/>
+il mio senso. Attenderò quello mi dirà vostra Serenità, et <lb/>
+sentirò ciò che vorranno dire essi marinari se <lb/>
+persisteranno. </p>
+<p>A’ detti matelotti prevedevo molto bene, et ne sono anco <lb/>
+stato avvertito, che era impossibile ribatterli <lb/>
+un soldo dei suoi salarii<ptr target="#tn7" n="7"/>: perché sono armati dell’<lb/>
+obligo, che hanno di star coi loro capitani, di <lb/>
+caminar col corso, che facevano far alle navi, <lb/>
+et accomodarsi con essi alla contrarietà de’ venti. </p>
+<p>Per<ptr target="#tn8" n="8"/> la devotione<ptr target="#tn9" n="9"/> et riverenza, che porto a <lb/>
+quell’eccellentissimo Senato, che provo<ptr target="#tn10" n="10"/> passione incredibile
+<pb n="085v" facs="09_085v" rend="0"/>
+di sentir da un canto simil tentativi, et dall’altro <lb/>
+che debbi uscir<ptr target="#tn11" n="11"/> tanto denaro, et non vedo potermi <lb/>
+prometter di salvarne o ribatterne parte. Questo <lb/>
+almeno mi consola, che serve a confusione de’ suoi <lb/>
+nemici, che miravano senza dubio a farla risen-<lb/>
+tir nelle spese maggiori. </p>
+<p>Farò quanto saprò, et potrò per procurar il vantaggio <lb/>
+della Serenità vostra, havendo però sempre innanti gl’occhi <lb/>
+la grandezza, l’honore, et la riputatione di quel <lb/>
+serenissimo Dominio. </p>
+<p>Per il vassello Santa Giustina perso ella resta sotto-<lb/>
+posta a pagar le artiglierie, che vi erano sopra <lb/>
+per esser dell’Amiralità. Doi ne erano di bronzo <lb/>
+et il resto della qualità, ch’è descritta nell’aggiunta <lb/>
+nota con il peso, et prezzo. Una pezza di bronzo <lb/>
+è ricuperata in Irlanda, ma ancor non è capitata <lb/>
+ad Encusen, ch’io sappi, havendo accordato il Capitano <lb/>
+con<ptr target="#tn12" n="12"/> un patron di vassello di quelle parti, che la <lb/>
+debbi condurre. Hora per l’altre o vostra Serenità doverà <lb/>
+pagar il denaro, o dar altrettanti pezzi dell’istessa <lb/>
+grandezza, et peso; et questo mi è stato raccordato <lb/>
+che le sarà<ptr target="#tn13" n="13"/> assai facile col mezo dell’eccellentissimo signor ambasciator <lb/>
+Lando, che ne dimandi l’estrattione al Re. Et chi <lb/>
+m’ha raccordato questo è stato l’equipagimastro <lb/>
+d’Encusen, huomo da chi sempre ho ricevuto buon
+<pb n="086r" facs="09_086r" rend="0"/>
+servitio per vostra Serenità, et doverò riconoscerlo con qualche <lb/>
+presente, et m’ha assicurato, ch’ella haverà ben <lb/>
+un terzo vantaggio di quello si haverebbe se si <lb/>
+dovesse dar sodisfattione in denari all’Amiralità, <lb/>
+che le ha prestate. Può ordinar dunque al detto <lb/>
+eccellentissimo signore, che facci l’instanza a sua Maestà per <lb/>
+l’estrattione di tante o più pezze<ptr target="#tn14" n="14"/> conforme alle <lb/>
+perdute, et come stimerà proprio. Il che attenderò <lb/>
+di sapere. Gratie etc. </p>
+<p>Dall’Haya li 5 maggio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="086v" facs="09_086v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="089r" facs="09_089r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="089v" facs="09_089v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 201 comincia a 200 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="026">
+<!--
+<p n="089vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 maggio 1620 ricevute a’ 20 detto </p>
+<p>Haia. n° 201 </p>
+<p>Arrivo dei duo vasselli che <lb/>
+mancavano in Tessel. </p>
+<p>L’amiralità di Ambsterdam<ptr target="#tn15" n="15"/> <lb/>
+avisa al residente d’essere inanzi <lb/>
+quella città. Il vassello Angelo volante et l’altro si attendeva, che è il <lb/>
+vassello San Francesco, del quale è morto il <lb/>
+Capitano, teme per ciò confusione <lb/>
+nella revision de’ conti ha <lb/>
+raccommandato il negotio a’ signori Stati <lb/>
+et farà quanto potrà per <lb/>
+avantaggiare il pubblico interesse. </p>
+<p>Marinari del vassello San Marco <lb/>
+saranno pagati, rapresenta una <lb/>
+loro pretensione di un terzo <lb/>
+più di paga doppo dieci mesi <lb/>
+per i mesi seguenti; quelli dell’Amiralità <lb/>
+scrivono al residente. Egli le risponde <lb/>
+non esser così, il Chercoven non poter promettere, né meno credeva che l’eccellentissimo Capitano generale <lb/>
+lo habbi fatta tale promissione <lb/>
+et<ptr target="#tn16" n="16"/> l’invito di andare<ptr target="#tn17" n="17"/> <lb/>
+in Ambsterdam ha stimato bene <lb/>
+di fugire. </p>
+<p>Hanno sopra ciò scritto i signori Stati <lb/>
+quali prima di deliberare hanno <lb/>
+deputati doi per sapere dal secretario <lb/>
+come passava il negotio, e delle sue <lb/>
+risposte sono rimasti sodisfatti <lb/>
+però aspeta ordine di ciò che <lb/>
+debba fare e rispondere. </p>
+<p>L. SS. R. </p>
+<p n="089vD">———</p>
+<p>Ha previsto che a’ <lb/>
+mateloti non se le poteva <lb/>
+levare un soldo de’ suoi <lb/>
+salarii, e per doi tentativi <lb/>
+sente pena. </p>
+<p>Per il vassello Santa Giustina perso <lb/>
+resta la Republica obligata a <lb/>
+pagar le artegliarie, che sono <lb/>
+dell’Amiralità, manda <lb/>
+la nota del peso e prezzo <lb/>
+un pezzo è recuperato <lb/>
+in Irlanda, et è accordato <lb/>
+di condurla ad Encusen. </p>
+<p>Per le altre o si <lb/>
+doverrà pagar il <lb/>
+denaro, o dare altre <lb/>
+tanti pezzi della stessa <lb/>
+qualità, et le viene <lb/>
+raccordato per maggior <lb/>
+vantaggio, che <lb/>
+si procuri la <lb/>
+estratione d’Inghilterra <lb/>
+e riconoscerà <lb/>
+chi le ha dato <lb/>
+questo raccordo. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="027" corresp="026" source="87r-88v" >
+<div type="main" facs="main text of attachment I" n="027" corresp="026" >
+<!--<p>Allegato I al n. 26 (cc. 87r-88v)</p>-->
+<pb n="087r" facs="09_087r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Followed by text in Dutch"/></p>
+<table>
+<row role="label">
+<cell><p>Nave Santa Giustina capitan Dirich Marton <lb/>
+montato con doi pezzi di metallo pesanti <lb/>
+libre 6430 a 60 fiorini il cento fiorini</p></cell>
+<cell></cell>
+<cell></cell>
+<cell><p>3858 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Più 14 pezzi nominate Gotelinghen di ferro ti-<lb/>
+ranti dodici libre di balla in tutto</p></cell>
+<cell><p>libre 49500 </p></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Più sei pezzi di ferro del medesimo nome <lb/>
+tiranti 9 libre di balla pesorono</p></cell>
+<cell><p>libre 19265 </p></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>pesorono in tutto 68768 </p></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il tutto a 15 fiorini il conto fa</p></cell>
+<cell><p>fiorini</p></cell>
+<cell><p>10314,15 </p></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell><p>14172,15 </p></cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+<pb n="087v" facs="09_087v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="088r" facs="09_088r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="088v" facs="09_088v" rend="270"/>
+<p>Nota delle artiglierie <lb/>
+della nave Santa Giustina </p>
+<p>persa </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 201 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-ndo" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-ii" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line on "sento" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Precedes "del" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-e-" corrected above "-a-," uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "all’" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "d’andare ripetuto" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

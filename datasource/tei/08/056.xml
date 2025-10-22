@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.056 date 1619-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">056</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 312r-313v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">310r-311v, 312r-313v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on articles in the alliance and that Carleton has told him James I is pleased that the States will not press the matter of the Gulf and advises the Republic to instruct their new ambassador to show the Republic’s gratitude to the king himself. Suriano concludes that he will inform Lando of this matter as soon as his arrives in The Hague. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-11-13">13 novembre 1619</date>
+            <num>101, 102</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="101" corresp="102" source="310r-311v" >
+<div type="main" facs="main text of attachment I" n="101" corresp="102" >
+<!--<p>Allegato I al n. 102 (cc. 310r-311v; decodifica di cc. 312r-313v)</p>-->
+<pb n="310r" facs="08_310r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="310v" facs="08_310v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="311r" facs="08_311r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="311v" facs="08_311v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="102">
+<div type="main" facs="main text of letter" n="102">
+<!--<p>13 novembre 1619, L’Aia (cc. 312r-313v)</p>-->
+<pb n="312r" facs="08_312r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 147 fin 149 </p>
+<p>Serenissimo Principe </p>
+<p>mando alla Serenità vostra appresso queste la replicata delle mie lettere dei <lb/>
+5 che furono tre con le scritture chiamate nelle prime n° 144 fin 146. <lb/>
+<hi rend="decoded">Altro</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">intorno all’aleanza non mi occorre dirle <lb/>
+sicuro ch’ella colla prudenza sua comprenderà <lb/>
+ne’ capitoli stessi il senso di questi signori che <lb/>
+mira alla reciproca difesa, quando sarà <lb/>
+l’una, o l’altra parte a mano armata <lb/>
+attaccata dall’inimico per sorpresa, o altri <lb/>
+menti, overo in guerra aperta, da che <lb/>
+restano escluse le gelosie, come si potreb-<lb/>
+be dire l’essempio fresco delle preparationi <lb/>
+che ultimamente fecero li serenissimi arcidu-<lb/>
+chi, che ingelosiscono di qua sintanto, <lb/>
+che andorono a cader i dissegni di sue Altezze sopra Banceles. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il signor ambasciator d’Inghilterra mi ha ultimamente com-<lb/>
+municate lettere, che haveva havute <lb/>
+dal suo Re facendomele anco veder <lb/>
+nelle quali gli fa saper esser restato <lb/>
+sodisfattissimo dell’ufficio, ch’egli haveva fatto <lb/>
+per informar li signori Stati della ragione di <lb/>
+vostra Serenità sopra il golfo et disabusarli dei <lb/>
+sensi diversi che erano in quelli dell’<lb/>
+Amiralità per il libero traffico, et aggiunge, <lb/>
+che gli commette espressamente di dover <lb/>
+continuar ad apportar a nome suo tutto <lb/>
+quel più, che troverà proprio per l’avan-<lb/>
+zamento, et perfettione di questo negotio. Io <lb/>
+resi novo gratie ad esso Ambasciatore di questo <lb/>
+tanto, e gli riconfirmai la sodisfattione anco, <lb/>
+che la Serenità vostra riceverà de’ suoi uffici <lb/>
+</hi>
+<pb n="312v" facs="08_312v" rend="0"/>
+<hi rend="decoded"><lb/>
+amorevoli.</hi> <lb/>
+et il desiderio, ch’ella haveva di fargli apparere la <lb/>
+sua buona volontà verso di lui; et aggiunsi che potevo ben assi-<lb/>
+curarlo, che questo nuovo testimonio <lb/>
+<hi rend="decoded">Che</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">dava sua Maestà il vero affetto verso la <lb/>
+serenissima Republica et verso questo negotio. La obligano <lb/>
+a tener gran stima, come poteva assicu-<lb/>
+rarne la Maestà sua; sopra che mi soggiunse <lb/>
+che stimava a proposito, che la Serenità vostra <lb/>
+dasse ordine all’eccellentissimo signor ambasciator Lando <lb/>
+di far qualche ufficio con la Maestà sua</hi> <lb/>
+perché <lb/>
+sapeva<ptr target="#tn3" n="3"/> benissimo che questo sarebbe stato sommamente aggradito <lb/>
+da lei, come quella che si compiace per natura di aver questi <lb/>
+testimonii et di gratitudine, et di confidenza, et di dimostratione <lb/>
+di stima delli ufficii, che fa fare per l’avanzamento de’ negotii. <lb/>
+Risposi che non havevo dubio, che vostra Serenità non havesse commessi <lb/>
+gli ufficii necessarii, et che mi assicurano, ch’egli haverebbe <lb/>
+anco rappresentato alla Maestà sua quant’io gli havevo detto. <lb/>
+Come sia qui l’eccellentissimo signor ambasciator Lando non mancarò di communi-<lb/>
+carli tutti questi particolari perché ne resti informato, et per <lb/>
+l’essecutione di quello, che in questo proposito gli potesse esser <lb/>
+stato commandato da vostra Serenità. Io l’attendo di giorno <lb/>
+in giorno, né credo, che da mo’ innanti possi tardar molto <lb/>
+ad arrivare in questa casa della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 13 novembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="313r" facs="08_313r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="313v" facs="08_313v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n°147 fin 149 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="102">
+<!--
+<p n="313vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1619 ricevute a’ 27 detto </p>
+<p>Haia. n° 147 </p>
+<p>Ufficio dell’Ambasciator inglese che il <lb/>
+Re gli ha commesso di aiutar <lb/>
+il negotio dell’Aleanza, e lodatolo <lb/>
+dell’operato a favor della Republica. </p>
+<p>Dice il secretario haver passato ufficio <lb/>
+di ringraziamento esser sicuro lo <lb/>
+rapresenterà a sua Maestà che ne <lb/>
+informerà l’ambasciator Lando nel <lb/>
+suo passar per di là. </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Altro … amorevoli decodifica di testo cifrato presente a c. 310r-v; con segno di rimando."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Che … Maestà sua decodifica di testo cifrato presente a c. 310v; con segno di rimando."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue parola depennata."</p></note>
+</div>
+</body>
+</text>
+</TEI>

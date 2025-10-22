@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.029 date 1623-05-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">029</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 276r-281v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">276r-281v, 282r-283v, 284r-287v, 288r-291v, 292r-293v, 294r-295v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>During the absence of Maurice rumours of truce with Spain were spreading. Speculation that the Spanish are spreading these rumours to create unrest as there is no clear basis for these rumours. The archducal diplomat returning from London hints that James will mediate a truce. Maurice has dismissed these rumours as baseless. Military preparations on both sides are ongoing, with reports of Spanish forces mobilizing and Dutch strengthening defenses in Frisia. Uncertainty about the conclusion of marriage of prince of Wales with the Spanish infanta. Ongoing negotiations with corsairs and uncertain fate of imprisoned dominican friar. Ends with a requests to return to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-05-22">22 maggio 1623</date>
+            <num>082, 083, 084, 085, 086, 087</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="082">
+<div type="main" facs="main text of letter" n="082">
+<!--<p>22 maggio 1623, L’Aia (cc. 276r-281v)</p>-->
+<pb n="276r" facs="12_276r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 504<ptr target="#tn1" n="1"/> comincia 503 </p>
+<p>Serenissimo Principe </p>
+<p>nell’absenza del signor principe di Oranges, et di questi principi che <lb/>
+ritornorono mercordì passato dal viaggio di Breda con la corte <lb/>
+si rinovò, et ha continuato per tutta la settimana nuova <lb/>
+voce di tregua senza sapersi né perché, né come ne venisse <lb/>
+il fondamento. Fu sino affermato da qualcheduno che ’l Meroda <lb/>
+era arrivato qui incognito, et che per notte andasse ne-<lb/>
+gotiando; ma in fine si è trovato esser inventione, <lb/>
+che in ogni modo sparsa per il Paese non fa troppo <lb/>
+buoni effetti concorrendovi il credito, et l’intentione <lb/>
+di quelli, che fintamente ben affetti alla quiete non <lb/>
+mirano del tutto al profito di queste Provincie. <lb/>
+Anco in Brabant, et in diverse parti del dominio della <lb/>
+serenissima Infanta è corsa una tal voce; ma particolarmente <lb/>
+in Fiandra l’ambasciator Boscot tornato d’Inghilterra nel suo <lb/>
+passaggio ha seminato tra quei popoli, che ’l re della <lb/>
+Gran Bertagna era pregato per interporsi, et trattar <lb/>
+la tregua; et questo ha fatto ad arte per consolar <lb/>
+quelle genti, che par che risentino assai della <lb/>
+gravezza delle impositioni. <hi rend="decoded"><lb/>
+Questa</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">maniera di far de’ Spagnoli rende tanto <lb/>
+maggiore il sospetto delle attioni loro, et de’ <lb/>
+loro artificii, et il principe Mauritio venu-<lb/>
+tone a proposito disse sono vere burle; <lb/>
+io sin qui, come altre volte vi ho detto</hi><ptr target="#tn3" n="3"/> <hi rend="decoded"><lb/>
+ho procurato, che quelle propositioni, che <lb/>
+sapete non capitassero all’assemblea, <lb/>
+</hi>
+<pb n="276v" facs="12_276v" rend="0"/>
+<hi rend="decoded">et è <lb/>
+stato ben fatto per degni rispetti, et per me <lb/>
+farò anco quanto potrò per divertire <lb/>
+l’inganno, che apparente si vede. Io risposi, <lb/>
+che mi compiacevo della prudente maniera, <lb/>
+con che procedeva l’Eccellenza sua per servitio di questa</hi><ptr target="#tn4" n="4"/> <lb/>
+<hi rend="decoded">Republica. Con qualcheduno di questi signori <lb/>
+fu portato il caso di parlar in discorso di <lb/>
+questa materia, et uno particolarmente <lb/>
+huomo di buon spirito, et forse dei migliori <lb/>
+in questo Stato, mi ha detto, se la serenissima Republica <lb/>
+vuole, noi non faremo la tregua se non <lb/>
+quando ella lo acconsentirà, et le daremo <lb/>
+tempo sempre un anno a pensarvi; ma <lb/>
+sorridendo disse vi vuol l’assistenza, et <lb/>
+quella summa, ch’ella metterà in questo <lb/>
+Paese, sarà la conserva</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">del suo thesoro, <lb/>
+et di quello della quiete nel suo Stato. <lb/>
+Noi siamo irreconciliabili al re di Spagna, <lb/>
+se si induce a far la tregua con noi, non <lb/>
+ha dubio, lo farà per suo vantaggio, et noi <lb/>
+allhora saremo necessitati a prender il <lb/>
+nostro, quando lo vedremo per necessità, et <lb/>
+mancamento non poterlo fuggire. Io non risposi <lb/>
+punto a</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">proposito, solo dissi, che il <lb/>
+guardarsi da quell’insidie, che lo conoscevano <lb/>
+era tanta prudenza, quanto l’evitar il <lb/>
+peri-</hi>
+<pb n="277r" facs="12_277r" rend="0"/>
+<hi rend="decoded">colo imminente, et manifesto, che haveano <lb/>
+scorto, con la tregua dei dodici anni; ripigliò <lb/>
+pure questo signore, se la serenissima Republica vuole, faremo <lb/>
+veder, che le osservaremo la parola, et faremo <lb/>
+quanto la troverà buono. Io non cercai di <lb/>
+saper da lui, se questo lo diceva da sé, o pur <lb/>
+col consenso dei collega</hi><ptr target="#tn7" n="7"/><hi rend="decoded">, perché non volsi mostrar <lb/>
+di entrar in obligo di farne rifflesso a vostra Serenità; <lb/>
+per me credo, che habbi havuto qualche ordine <lb/>
+di tastarmi; io però ad ogni buon fine non ho <lb/>
+voluto mancar di rappresentarle questo tanto. <lb/>
+</hi></p>
+<p>Si sono qui havuti avvisi, che Cordova faceva la mostra delle <lb/>
+sue genti, et che a Rimbergh si fabricava un ponte <lb/>
+onde in Frisia, et nel paese di Ourisel sono andati da <lb/>
+questa parte gl’ordini necessarii per la difesa, et conser-<lb/>
+vatione di quelle Provincie. </p>
+<p>Sua Eccellenza ha da Lieges havute lettere che l’assicuravano <lb/>
+le levate di Borgogna in numero di quattromilla fanti <lb/>
+esser in camino per riempir le compagnie della <lb/>
+Natione, et altre che sono mancanti: solicitando nel <lb/>
+resto il marchese Spinola ogni provisione per la <lb/>
+campagna, alla quale si crede che non possino <lb/>
+passar molte settimane ch’egli sortirà; et sua <lb/>
+Eccellenza il signor principe d’Oranges fa egli anco il suo <lb/>
+dovere al medesimo fine. </p>
+<pb n="277v" facs="12_277v" rend="0"/>
+<p>Tilly non fa ancor gran moto, sta assai quieto ove si trova, <lb/>
+alcuni consigliano il landtgrave Mauritio d’Hassia ad <lb/>
+accordarsi; altri tengono che non lo farà così facilmente <lb/>
+massime havendo il fomento dell’armi di Bransvich <lb/>
+il giovane colle sue armi<ptr target="#tn8" n="8"/> vicine, et anco di qualche <lb/>
+principi del circolo basso sassonico, sapendosi di più <lb/>
+che li medesimi stanno attenti, come anco li doi principi <lb/>
+elettori di Sassonia, et di Brandemburgh per veder ciò che <lb/>
+farà il medesimo Tilly, risoluti quando tenti di passar <lb/>
+il Wesar di volerglielo impedire. </p>
+<p>Con gran devotione aspetta questo Re ciò che li deputati <lb/>
+dei detti doi elettori con altri del circolo alto di Sassonia <lb/>
+haveranno deliberato nella Dieta, sperando la Maestà sua <lb/>
+per l’aperta dichiaratione che quelle doi altezze in par-<lb/>
+ticolare hanno fatta a favor delle cose sue con loro <lb/>
+lettere all’Imperatore, che la deliberatione possi esserle <lb/>
+altrettanto profitevole. </p>
+<p>Si pasce il Re continuamente di queste speranze, si promette <lb/>
+assai delle armi del cugino duca Christiano, non <lb/>
+dispera, che saranno secondate dal re di Danimarca, <lb/>
+tenta, esplicita sotto mano, et con ogni studio perché <lb/>
+questi signori acconsentino<ptr target="#tn9" n="9"/> all’instanze di detto Principe <lb/>
+bramandole più adempite, che quelle di Mansfelt, et <lb/>
+massime spirando presto il tempo dell’intratenimento <lb/>
+del fratello. Ma viene stimato che senza gran fonda-<lb/>
+mento poco bene sia per tirare, et per apportar<ptr target="#tn10" n="10"/> alla <lb/>
+causa commune sendo seperato<ptr target="#tn11" n="11"/> da Mansfelt; o alme[no]<ptr target="#tn12" n="12"/>
+<pb n="279r" facs="12_279r" rend="0"/>
+si<ptr target="#tn13" n="13"/> desidera, che sia congiunto di buona intelligenza con lui. <lb/>
+Del matrimonio d’Inghilterra si parla qui come di cosa fatta, et tanto <lb/>
+più sendovi andata la dispensa del Papa. In tanto è qui <lb/>
+arrivato di Spagna in dieci giorni un gentilhuomo <lb/>
+del principe di Walia spedito<ptr target="#tn14" n="14"/> espressamente da lui a <lb/>
+questa Principessa sua sorella con lettere che l’assicura <lb/>
+non esser ancor stabilito quel maritaggio, et ch’egli per <lb/>
+la parte sua non l’haverebbe a tutto suo potere accom-<lb/>
+plito, che prima non havesse accordata la restitutione <lb/>
+del suo, et apportatale quella quiete, et riposo, che <lb/>
+le bramava. Ancor sue maestà stanno perplesse del <lb/>
+buon effetto di tal affettuosa intentione, sendo il Prin-<lb/>
+cipe nel luoco ove si trova obligato alla volontà del <lb/>
+padre, et necessitato dai stimoli, et dagl’ufficii di quelli <lb/>
+che gli stanno intorno. </p>
+<p>Il signor Pauli gentilhuomo, et consigliere di questo Re, ch’è stato <lb/>
+in Inghilterra, et è ritornato ultimamente conferma quello <lb/>
+che fu detto che quella Maestà habbi con gran asse-<lb/>
+veranza affermato, che mancando Spagnoli alla <lb/>
+promessa chiamerà la figliola, et i figlioli in Inghilterra; <lb/>
+ma non sa però qual effettiva risolutione fosse per <lb/>
+far detta Maestà quando il caso portasse qualche <lb/>
+incontro di necessità. </p>
+<p>Questi signori si trovano in gran combustione d’animo per l’avviso <lb/>
+che hanno havuto che quel Re habbi risoluto di <lb/>
+far accompagnar, et far scorta alli doi vasselli di <lb/>
+Doncherchen, che quelli di guerra di questo Paese
+<pb n="279v" facs="12_279v" rend="0"/>
+tenivano come assediati nei porti di Scotia. Più risentono <lb/>
+nell’animo gran scontento, che la medesima Maestà non habbi <lb/>
+voluto sodisfarsi della risposta, che hanno data <lb/>
+alla viva, et sensitiva propositione del signor Carleton <lb/>
+che loro diceva chiaramente di doversi allontanar dai <lb/>
+porti<ptr target="#tn15" n="15"/> del suo Re<ptr target="#tn16" n="16"/>, et tenersi lungi per due maree. <lb/>
+Anzi che erano avvisati dal signor Caron loro ambasciatore <lb/>
+esser sua Maestà alterata contra il signor Carleton così anco <lb/>
+alcuni del Consiglio regio, che haverebbono non solo che <lb/>
+non havesse accettata la risposta in scritto; ma havesse <lb/>
+protestato contra di essa. L’Ambasciatore si trova in qualche <lb/>
+pena; questi signori restano perplessi, né sanno come governano <lb/>
+perché se vogliono adherire alla volontà di quella Maestà lascia-<lb/>
+no libera la commodità di scorrer ove vogliono intorno <lb/>
+all’intorno l’oceano, né potranno li vasselli di questi <lb/>
+paesi di trafico scapar dalle loro mani.</p>
+<p><hi rend="decoded">Ho</hi><ptr target="#tn17" n="17"/> <hi rend="decoded">saputo, et me lo ha detto sua Eccellenza, che li vasselli <lb/>
+in numero di due, che sono al presente alle coste</hi> [di]<ptr target="#tn18" n="18"/> <lb/>
+<hi rend="decoded">Inghilterra hanno ordine di lasciar uscir fuori li <lb/>
+vasselli spagnoli, accompagnati da’ Inglesi, <lb/>
+ma trovando altri del Paese si uniscano, <lb/>
+et allontanati quanto si vuole dal’<lb/>
+Inghilterra battino li Spagnoli, guardandosi di <lb/>
+non attaccarsi con gli Inglesi; rissolutione <lb/>
+che ancor-<lb/>
+</hi>
+<pb n="280r" facs="12_280r" rend="0"/>
+<hi rend="decoded">ché sia ben guidata, si può dubi-<lb/>
+tare, che possi apportar qualche travaglio, <lb/>
+et materia de novi disgusti, ma come <lb/>
+disse sua Eccellenza, ognuno è obligato conservar il suo. <lb/>
+</hi></p>
+<p>Di disdotto vasselli, o siano grosse barche prese da quelle <lb/>
+14 felucche de’ Spagnoli nelle acque di Zelanda sono <lb/>
+stati condotti in Anversa vinti sei prigioni la <lb/>
+maggior parte poveri pescatori. </p>
+<p>Del frate domenicano non si parla per hora d’ispedirlo. <lb/>
+Egli è amalato, et questi signori della giustitia sono<ptr target="#tn19" n="19"/> impediti <lb/>
+nell’essame di diversi arminiani prigioni. La Serclas <lb/>
+non è ancor tornata da Brusseles, et con lei si aspetta <lb/>
+qualche rimedio allo scampo della vita di questo <lb/>
+religioso. </p>
+<p><hi rend="decoded">Vostra</hi><ptr target="#tn20" n="20"/> <hi rend="decoded">Serenità havrà con le presenti la copia, o translato <lb/>
+delle capitulationi tra questi signori, et li corsari <lb/>
+di Algieri, et Tunisi, dalle quali potrà <lb/>
+ella, et l’Eccellenze vostre vedere, come trattano</hi><ptr target="#tn21" n="21"/> <hi rend="decoded"><lb/>
+quelle genti, parendomi anco, che per <lb/>
+dentro vi sia materia degna del loro <lb/>
+prudente rifflesso, non sendo massime <lb/>
+così chiaro il punto de’ principi italiani, <lb/>
+come si ricercarebbe per il servitio di vostra Serenità, <lb/>
+et de’ suoi sudditi. <lb/>
+</hi></p>
+<p>Mi servirà d’informatione quel tanto che vostra Serenità si è compiacciuta
+<pb n="280v" facs="12_280v" rend="0"/>
+notificarmi del pensiero, che eccellenti<ptr target="#tn22" n="22"/> hanno di introdur il Rheno <lb/>
+nel Po. </p>
+<p>Rendo humilissime gratie alla Serenità vostra et alle Signorie vostre eccellentissime della <lb/>
+consolatione, che col testimonio di restar sodisfatte del mio <lb/>
+debole servitio<ptr target="#tn23" n="23"/>, apportano così viva et espressa nelle <lb/>
+lettere dei cinque del presente alla mia devota, et <lb/>
+riverente volontà, che sarà sempre la medesima coll’aiuto <lb/>
+di Dio fino all’ultimo spirito intenta al servitio di <lb/>
+quella serenissima Republica, et alla sodisfattione di vostra Serenità <lb/>
+et vivo consolatissimo della speranza, che mi propone <lb/>
+di dover presto esser libero da questa lunga residenza <lb/>
+di sette anni continui, et otto passati di absenza <lb/>
+da’ piedi della Serenità vostra a’ quali in tanto m’inchino. Gratie etc. </p>
+<p>Dall’Haya li 22 maggio 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore</p>
+<p>Christofforo Suriano </p>
+<pb n="281v" facs="12_281v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 504<ptr target="#tn24" n="24"/> comincia 503 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="082">
+<!--
+<p n="281vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 maggio 623<ptr target="#tn25" n="25"/>. Ricevute 7 giugno </p>
+<p>Haya. n° 504 </p>
+<p>S’è sparsa nuova voce di tregua <lb/>
+se ben senza fondamento, con mali <lb/>
+effetti. </p>
+<p>Anco in Brabant è corsa tal voce, et <lb/>
+in Fiandra l’ambasciator Boscot tornato <lb/>
+d’Inghilterra ha seminato, che quel Re era <lb/>
+pregato<ptr target="#tn26" n="26"/> per interporsi, e trattar la <lb/>
+tregua, a fine di consolar quelle <lb/>
+genti, assai risentite per la gra-<lb/>
+vezza delle impositioni. </p>
+<p>Il principe Mauritio disse, che erano <lb/>
+quelle vere burle, che havea <lb/>
+procurato, che le propositioni già fatte<ptr target="#tn27" n="27"/> <lb/>
+non capitassero all’assemblea, e che <lb/>
+farà quanto potrà per divertire <lb/>
+l’inganno. </p>
+<p>Uno dei migliori del Governo <lb/>
+ha detto al segretario, che non faranno <lb/>
+mai la tregua, volendo la Republica <lb/>
+se non quando ella v’acconsenta, <lb/>
+dandole un anno di tempo da <lb/>
+pensarvi. Ma soggiunse, volervi <lb/>
+l’assistenza di denaro. </p>
+<p>Il segretario gli rispose a proposito, solo <lb/>
+dicendo, che era prudenza guardarsi <lb/>
+dall’insidie, et evitar il pericolo<ptr target="#tn28" n="28"/> <lb/>
+scorso con la<ptr target="#tn29" n="29"/> tregua. </p>
+<p>Replicò egli il concetto, il quale non <lb/>
+ha cercato il segretario di sapere, </p>
+<p>L. SS. R. </p>
+<p n="281vD">———</p>
+<p>[…] <lb/>
+né crede che habbia <lb/>
+havuto ordine di trattarlo. </p>
+<p>Avviso di Cordova. </p>
+<p>7 milla fanti di Borgogna eran in <lb/>
+camino per servitio dello<ptr target="#tn30" n="30"/> <lb/>
+Spinola, e si<ptr target="#tn31" n="31"/> sollecitavano <lb/>
+le provisioni, egli, et i Stati<ptr target="#tn32" n="32"/>, per uscir in campagna<ptr target="#tn33" n="33"/>. </p>
+<p>Avvisi di Tilli. </p>
+<p>Attentioni<ptr target="#tn34" n="34"/> dell’esito della <lb/>
+Dieta dell’Alta Sassonia per <lb/>
+il Palatino. </p>
+<p>Circa il duca Christiano, <lb/>
+e Danimarca. </p>
+<p>Il principe di Vaglia ha spedite buone lettere <lb/>
+alla Palatina di voler <lb/>
+accordare la resti-<lb/>
+tutione del suo […]<ptr target="#tn35" n="35"/> del <lb/>
+matrimonio. </p>
+<p>Circa il doversi <lb/>
+chiamare dal <lb/>
+re d’Inghilterra la <lb/>
+figliola, in caso […]<ptr target="#tn36" n="36"/>. </p>
+<p>Avviso dispia-<lb/>
+cevole, che Inghilterra <lb/>
+voglia far <lb/>
+scorta alli <lb/>
+due vasselli <lb/>
+di Doncher-<lb/>
+chen, tenuti <lb/>
+come asse-<lb/>
+diati nei <lb/>
+porti di <lb/>
+Scotia. </p>
+<pb n="281r" facs="12_281r" rend="270"/>
+<p>[…] <lb/>
+Inghilterra di lasciar uscir li <lb/>
+vasselli spagnoli, accompagnati da’ <lb/>
+Inglesi: ma che, trovando altri <lb/>
+del Paese, s’uniscano, e battano lungi dall’Inghilterra li Spagnoli. </p>
+<p>26<ptr target="#tn37" n="37"/> prigioni fece lo Spinola <lb/>
+nelle barche prese. </p>
+<p>Circa il frate domenicano. </p>
+<p>Manda copia delle <lb/>
+capitulationi dei corsari <lb/>
+di Tunisi, et Algeri <lb/>
+con li Stati, facendo <lb/>
+riflesso su quella <lb/>
+parola de’ principi italiano non <lb/>
+ben chiara. </p>
+<p>Ha ricevuto le lettere publiche. </p>
+<p>Ringratia. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="083" corresp="082" source="282r-283v" >
+<div type="main" facs="main text of attachment I" n="083" corresp="082" >
+<!--<p>Allegato I al n. 82 (cc. 282r-283v; decodifica di cc. 276r-280r)</p>-->
+<pb n="282r" facs="12_282r" rend="0"/>
+<head>main text of attachment I</head>
+<p>2<hi rend="superscript">da</hi> n° 504 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="282v" facs="12_282v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="283r" facs="12_283r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="283v" facs="12_283v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="084" corresp="082" source="284r-287v" >
+<div type="main" facs="main text of attachment II" n="084" corresp="082" >
+<!--<p>Allegato II al n. 82 (cc. 284r-287v; decodifica di cc. 292r-293v)</p>-->
+<pb n="284r" facs="12_284r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya numero 504 </p>
+<p>Capitulatione di quelli di Tunisi con li <lb/>
+signori Stati </p>
+<p>In nome Dio, che è uno, et omnipotente <lb/>
+creatore del cielo, et della terra. </p>
+<p>L’illustrissimi, eccellentissimi et valorosissimi signori, il signor Bassà <lb/>
+del regno di Tunesi il signor Iosudai capitano della <lb/>
+militia, et protettor di detto regno di Tunesi, <lb/>
+signor Agn<ptr target="#tn38" n="38"/>, et tutti signori del Divano del sopramentio-<lb/>
+nato regno di Tunesi dall’una parte li illustrissimi <lb/>
+et potentissimi signori de’ Paesi Bassi, et l’illustrissimo signor <lb/>
+conte Mauritio di Nassau, principe di Oranges, <lb/>
+capitan generale, et amiraglio di detti Paesi Bassi, <lb/>
+per il signor Cornelio Pinacler, consigliero, et ambasciator suo <lb/>
+qui<ptr target="#tn39" n="39"/> presente, dall’altra parte hanno <lb/>
+accordati li articoli d’una ferma perpetua <lb/>
+inviolabile pace, amicitia, fraternità, et <lb/>
+corrispondenza, che segue. </p>
+<p>Prima, che la capitulatione fatta in Constantinopoli <lb/>
+dal gran signore, il quale Iddio sempre feliciti, et <lb/>
+conceduta alli inhabitanti de’ Paesi Bassi <lb/>
+nell’anno millevintisei dal profetta Mahemet <lb/>
+sarà di novo accettata, approbata, et da <lb/>
+ambi due parti contrattanti promesso di
+<pb n="284v" facs="12_284v" rend="0"/>
+voler la detta capitulatione puntualmente, et con <lb/>
+buona fede osservare. </p>
+<p>Secondo, che gli inhabitanti de’ Paesi Bassi have-<lb/>
+ranno piena libertà di venir a trafficar <lb/>
+francamente nel regno di Tunes, ma non <lb/>
+potranno portar grani di detto Regno alle terre de’ <lb/>
+nemici del gran signore, né anco andar alle coste <lb/>
+di questo Regno senza licenza, sotto pena di <lb/>
+perdita dei loro vasselli, et schiavitù delle genti. </p>
+<p>3° poiché gli inhabitanti di detti Paesi Bassi al <lb/>
+presente sono in guerra aperta per mar, et per <lb/>
+terra contra il re di Spagna, et tutti li suoi sudditi, che come sia vietato alli Fiamenghi <lb/>
+di venir con vasselli in Spagna, o altra terra <lb/>
+del re di Spagna, et che conseguentemente li detti <lb/>
+Fiamenghi non porteranno con suoi vasselli alcuna <lb/>
+robba pertinente alla Spagna, per questa causa <lb/>
+le visitationi dei loro vasselli, li quali li <lb/>
+corsari di questo Regno pretendevano per trovar <lb/>
+robba, o altra mercantia delli Spagnoli, o di altri <lb/>
+italiani nemici del gran signore, dopoi non saranno <lb/>
+mai usate, perché davano occasione di disturbo <lb/>
+di buona amicitia, et pace, sarà dunque <lb/>
+bastante, che li detti Fiamenghi rancontrando
+<pb n="285r" facs="12_285r" rend="0"/>
+nel mare li corsari di questo Regno, siano più <lb/>
+o meno di numero li uni sopra gli altri, non have-<lb/>
+ranno commandamento, o auttorità di far calar <lb/>
+la vela, o bandiera, gettar ancora, o fare <lb/>
+qualch’altro segno di sommissione, ma faranno <lb/>
+mutualmente honore, et cortesia convenevole, <lb/>
+et li Fiamenghi sendo dalli corsari richiesti <lb/>
+a mostrar le sue carte, o patenti, se non saranno <lb/>
+impediti per fortuna, metteranno il suo battello <lb/>
+nel mare, et anderanno a bordo delli corsari <lb/>
+per far veder le sue patenti del conte Mauritio <lb/>
+di Nassau, le quali patenti conteniranno <lb/>
+questa clausula, che li patroni delli vasselli <lb/>
+habbino prestato giuramento, che nelli suoi <lb/>
+vasselli non portano robba, o mercantia, apparti-<lb/>
+nente alli sudditi del re di Spagna, o altri <lb/>
+italiani, et che facendo contra sua fede, et <lb/>
+sagramento, saranno crudelmente castigati, et <lb/>
+mentre che li Fiamenghi vanno, et tornano <lb/>
+con suoi batteloni,<ptr target="#tn40" n="40"/> staranno li vasselli <lb/>
+dell’una, et l’altra parte discosti tra sé <lb/>
+che non vi sia sospetto d’alcuna violenza, o <lb/>
+soprapresa. </p>
+<p>Quarto, che li Fiamenghi sendo patroni de’ suoi vasselli
+<pb n="285v" facs="12_285v" rend="0"/>
+se<ptr target="#tn41" n="41"/> accade, che vendessero li suoi vasselli ad un <lb/>
+Italiano, o altro nemico del gran signore, non si potrano aiutar <lb/>
+con le patenti del conte Mauritio di Nassau, restando <lb/>
+patroni delli venduti vasselli, et per questa causa le <lb/>
+dette patenti conteniranno, che li patroni habbino fatto <lb/>
+giuramento, che il suo vassello non appartiene ad un <lb/>
+Italiano, o altro nemico del gran signore, et sendo pienamente <lb/>
+provato, che faccia contra i Signor<ptr target="#tn42" n="42"/> giuramento, et fede sarà <lb/>
+di buona presa. </p>
+<p>Quinto li vasselli de’ Paesi Bassi se porteranno robbe ap-<lb/>
+partenenti alli Italiani, et essendo richiesti dalli <lb/>
+corsari, lascieranno la robba, o mercantia delli Italiani, <lb/>
+ricevendo il nollo competente senza patir altro danno <lb/>
+alcuno. </p>
+<p>Sesto, che li Fiamenghi, che sendo richiesti per mostrar le sue <lb/>
+patenti, recuseranno, et combatterano contra essi <lb/>
+corsari saranno di buona presa, ma prima passerà un <lb/>
+anno intiero da questo accordo, acciò che tutta la gente <lb/>
+possa di questo esser avvertita. </p>
+<p>Settimo, che li inhabitanti della città di Embdem in <lb/>
+Ostfrisia a causa, che tengono la guarniggione dentro <lb/>
+delli signori Stati de’ Paesi bassi, et del conte Mauritio di <lb/>
+Nassau, et che sono nemici del re di Spagna publicamente <lb/>
+dichiarati, goderanno anco questa medesima pace. </p>
+<p>Ottavo, che li Fiamenghi, et inhabitanti di Embdem, li quali sono <lb/>
+al presente in corso con li corsari di questo Regno, sendo ritor-<lb/>
+nati dal mare, non volendo più restar qui, possino <lb/>
+andar al lor Paese. </p>
+<pb n="286r" facs="12_286r" rend="0"/>
+<p>Nono, che tutti, i quali veniranno con le patenti del conte <lb/>
+Mauritio di Nassau, et sotto sua bandiera di <lb/>
+qualunque natione siano, saranno franchi, et liberi, <lb/>
+come all’incontro li Fiamenghi, et inhabitanti <lb/>
+de’ Paesi Bassi, stando al servitio del re di Spagna <lb/>
+o altro nemico del gran signore, saranno di buona presa. </p>
+<p>Decimo console, il quale haverà a restar nel regno di <lb/>
+Tunesi, sarà rispettato, come conviene, et riceverà <lb/>
+li consolati delle mercantie dei Fiamenghi, o altri, <lb/>
+che vengono sotto bandiera del conte Mauritio, <lb/>
+tanto delle mercantie, che vanno fuori, come delle <lb/>
+entranti, et ancora delli denari contanti ancora <lb/>
+la licenza conceduta non sarà di valore, se prima <lb/>
+non saranno pagati li detti consolati. </p>
+<p>xi. Resta ancora accordato, che se dalla gente dell’una, <lb/>
+et l’altra parte sarà commesso qualche malfatto, <lb/>
+per questo non sarà incontinente rotta la pace, <lb/>
+et corrispondenza, ma inanti, che si venga <lb/>
+ad alcuna hostilità, saranno prima ricoverati, avisi <lb/>
+et buone informationi sopra il malfatto. </p>
+<p>In Tunesi alli 20 del mese di Muharrem dell’anno <lb/>
+del profetta Mahemet mille trentadue. </p>
+<p>Quanto al 3° articolo di sopra, dopo lungo contrasto <lb/>
+sta accordato, che in questo caso alcuni delli corsari <lb/>
+potranno entrar nelli vasselli delli Fiamenghi per
+<pb n="286v" facs="12_286v" rend="0"/>
+spiar le robbe, ma tuttavia senza far alcuna <lb/>
+violenza, o tormento alle genti. </p>
+<p>L’articolo ottavo di sopra sarà per niente, et <lb/>
+indeciso finché sarà communicato con li illustrissimi et <lb/>
+potentissimi signori Stati de’ Paesi Bassi, et preso <lb/>
+l’aviso, et volontà loro. In conformatione <lb/>
+della fede havemo qui messo il nostro segno etc. </p>
+<pb n="287r" facs="12_287r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="287v" facs="12_287v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="III" n="085" corresp="082" source="288r-291v" >
+<div type="main" facs="main text of attachment III" n="085" corresp="082" >
+<!--<p>Allegato III al n. 82 (cc. 288r-291v; decodifica di cc. 294r-295r)</p>-->
+<pb n="288r" facs="12_288r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere de l’Aia n° 504 </p>
+<p>Capitulatione di quelli di Algieri con li signori Stati. </p>
+<p>Questo è dalla mano di Dio, che havemo hora scritto alle <lb/>
+vostre Eccellenze illustri, et potentissimi signori, signori Stati Generali de’ <lb/>
+Paesi Bassi uniti, li quali sete signori, et principi sopra <lb/>
+tutti li altri signori, et principi della fede di Christo, <lb/>
+che fatte bene a tutti li huomini, et state amici nostri <lb/>
+sopra tutti gl’altri, et non tenemo dopo Iddio altri amici <lb/>
+et stiamo con vostre illustrissime Eccellenze insieme uniti, come <lb/>
+fratelli congionti; per questa causa pregamo <lb/>
+il nostro signor Dio, che a vostre Signorie illustrissime dia buona <lb/>
+sanità, et pace, et che le parole vostre siano <lb/>
+parole buone, le quali, et per lettere, et per bocca <lb/>
+havete inviate con l’illustre consigliero, et ambasciator vostro <lb/>
+huomo grande tra li christiani, il signor Cornelio <lb/>
+Pinacler, il quale è arrivato nella nostra <lb/>
+città di Algieri, la città del gran signore, et alli signori <lb/>
+Massulaga già Tassiboluch<ptr target="#tn43" n="43"/> Bassì, et tutti li <lb/>
+altri signori del nostro Divano. </p>
+<p>Le lettere di vostre illustrissime Eccellenze, et insieme con la sua <lb/>
+buona gracia, et inchinatione havemo ricevute, <lb/>
+et tutto quello, che in esse adimandate havemo <lb/>
+letto, et inteso. </p>
+<p>Dicemo per queste, che il nostro accordo, il quale <lb/>
+a tempo dell’illustre signor Soliman Bassà alli 27
+<pb n="288v" facs="12_288v" rend="0"/>
+del mese già massilevvel<ptr target="#tn44" n="44"/> dell’anno del nostro <lb/>
+proffetta Mahemet mille vintisei in Constantinopoli <lb/>
+inanti il vir grande del gran signore alla Porta <lb/>
+del gran signore, et inanti li signori deputati di Algieri, <lb/>
+li signori Massulagi, Chiaia Bassì, Bolves Bassì, <lb/>
+Oda Bassì, et tutte le nostre parole, tutte le <lb/>
+capitulationi, che sono fatte in Constantinopoli, et <lb/>
+tutte le altre, secondo la petitione di vostre illustri <lb/>
+Eccellenze, li illustrissimi, et potentissimi signori Stati, et principe <lb/>
+di Oranges vogliano restino nostre parole, <lb/>
+et che la pace tra le vostre illustri Eccellenze, et noi <lb/>
+stia ferma, et perché la vostra parola contiene <lb/>
+che havete guerra con Spagna per mare, et <lb/>
+per terra, per questo riputiamo la nostra <lb/>
+pace tanto più confirmata, et la nostra <lb/>
+amicitia tanto più inviolabile. </p>
+<p>Quello, che inoltre vostre<ptr target="#tn45" n="45"/> illustri Eccellenze hanno <lb/>
+ricercato, che noi lasciamo andar di qua <lb/>
+tutta la nostra gente fiamenga, così quelli <lb/>
+che stano qui, come quelli che stano nel viaggio <lb/>
+al corso con li nostri corsari, et che li vostri siano <lb/>
+restituiti nelle mani del vostro ambasciator presente, et <lb/>
+che ancora adimandate, che alli vasselli
+<pb n="289r" facs="12_289r" rend="0"/>
+fiamenghi, se siano corsari, o di mercantia <lb/>
+venendo qui, o passando il mare dentro, o <lb/>
+fuori il stretto, non facciamo<ptr target="#tn46" n="46"/> impedimento, o <lb/>
+danno alcuno, ma che più tosto prestiamo a <lb/>
+tutta la vostra gente ogni cortesia, et ogni <lb/>
+servitio, et dassimo tutte le cose, che haverano <lb/>
+bisogno, et che noi facendo questo, vostre illustri Eccellenze <lb/>
+diccono, che parlate con la vostra fede, et che la <lb/>
+pace vostra resterà confirmata, che la parola <lb/>
+vostra sarà parola, et che tutto così sarà. <lb/>
+Intendiate nella testa vostra illustrissimi, et potentissimi <lb/>
+signori, che con questa pace, et amicitia, la quale <lb/>
+dal gran signor, imperatore di tutto il mondo, al tempo <lb/>
+della capitulatione, et del suo commandamento resta <lb/>
+fatta, et tutto quello, che li sta dentro tenemo <lb/>
+fermo, et stiamo con questo tanto, et la nostra <lb/>
+parola, sta parola sopra questo, et dicemo <lb/>
+questo per la fede del signor Dio, et del nostro profetta <lb/>
+Mahemet, et del nostro signore il gran Turco, del quale <lb/>
+noi altri siamo servitori, et questa nostra fede, <lb/>
+sarà fede, et anderà la nostra parola sopra <lb/>
+questo, che tutti li amici del gran signore sono nostri amici,
+<pb n="289v" facs="12_289v" rend="0"/>
+et che l’amico vostro è lamico nostro, et il nemico <lb/>
+vostro, nostro nemico sopra la nostra fede. </p>
+<p>Ma perché è vero, che alcuni marioli, et vigliacchi <lb/>
+della vostra gente hanno pigliati certi massur-<lb/>
+mani di Algeri, et che li massulmani sono <lb/>
+stati venduti in Malta da essi, per questa <lb/>
+causa, che hanno fatti schiavi li massulmani <lb/>
+in Malta, non devono li signori fiamenghi andar <lb/>
+fuori di Algieri, prima che non vengano queste <lb/>
+nostre genti, la nostra pace, e pace, et la nostra <lb/>
+parola, è parola in questo. </p>
+<p>Habbiamo già dato commandamento stretto a tutti li <lb/>
+nostri capitani al mare, che ricontrando vostri <lb/>
+vasselli, siano da guerra, o di mercantia, <lb/>
+non piglino, né levino da essi alcuna cosa, come <lb/>
+arbori, vele, et antene, ferri, corde, gomene, <lb/>
+et non faccino ad essi pregiudicio, o impaccio <lb/>
+alcuno, conforme le conditioni, che habbiamo fatte in <lb/>
+Constantinopoli, et stiamo ancora sopra questo tutto, et <lb/>
+li contravenienti contra questo nostro commandamento mange-<lb/>
+remo vivi. </p>
+<p>Vostri illustrissime Eccellenze all’incontro faranno commandamento <lb/>
+a tutti li loro vasselli, corsari, et capitani, che non si <lb/>
+intromettino nelli negocii della Spagna, nel portar
+<pb n="290r" facs="12_290r" rend="0"/>
+con suoi vasselli robbe, o mercantie de’ Spagnoli <lb/>
+et se alcuno delle nostre genti haverà fatto contra <lb/>
+questo vostro commandamento, che sarà castigato crudelmente. <lb/>
+Inoltre quando sarà la volontà vostra lasciar <lb/>
+andar le vostre navi da guerra insieme gionte <lb/>
+con le nostre contra il re di Spagna nostro capitale <lb/>
+et commun inimico per far male a lui, et casti-<lb/>
+garlo, staremo insieme come amici, et fratelli <lb/>
+et aiuteremo gli uni gli altri, come conviene <lb/>
+a fedeli compagni, et fratelli<ptr target="#tn47" n="47"/> congionti. </p>
+<p>Per questo havemo già dato commandamento a tutta la nostra <lb/>
+gente de’ nostri capitani, che si guardino di far alcun <lb/>
+pericolo, o pregiudicio alla vostra gente. </p>
+<p>Et come in Constantinopoli al console, che ressiede si fa <lb/>
+honore, così si farà honore al console, che starà qui. <lb/>
+Ma tuttavia li Fiamenghi vostri resteranno qui <lb/>
+in mano del vostro console, siano pochi, o molti <lb/>
+finché vengano li nostri da Malta, né inanti <lb/>
+potranno andare, ma subito che quelli saranno ritor-<lb/>
+nati da Malta, anderanno via tutti tutti*. </p>
+<p>Li inhabitanti della città di Embdem saranno <lb/>
+liberi, et franchi, come gente vostra, et non faranno
+<pb n="290v" facs="12_290v" rend="0"/>
+a loro impaccio alcuno, portando lettere, et comman-<lb/>
+damento dell’illustre signor conte di Nassau, principe <lb/>
+di Oranges. </p>
+<p>In Algieri al primo del mese Tilsigge dell’anno <lb/>
+di Mehemet mille trenta uno<ptr target="#tn48" n="48"/>. </p>
+<p>Sottoscritta </p>
+<p>Ossaim Bassà </p>
+<pb n="291r" facs="12_291r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="291v" facs="12_291v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="086" corresp="082" source="292r-293v" >
+<div type="main" facs="main text of attachment IV" n="086" corresp="082" >
+<!--<p>Allegato IV al n. 82 (cc. 292r-293v; decodifica a cc. 284r-286v)</p>-->
+<pb n="292r" facs="12_292r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>In lettere dell’Haia n° 504 </p>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="292v" facs="12_292v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="293r" facs="12_293r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="293v" facs="12_293v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+</div>
+</div>
+<div type="attachment" facs="V" n="087" corresp="082" source="294r-295v" >
+<div type="main" facs="main text of attachment V" n="087" corresp="082" >
+<!--<p>Allegato V al n. 82 (cc. 294r-295v; decodifica a cc. 288r-290v)</p>-->
+<pb n="294r" facs="12_294r" rend="0"/>
+<head>main text of attachment V</head>
+<p>In lettere dell’Haia n° 504 </p>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="294v" facs="12_294v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="295r" facs="12_295r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="295v" facs="12_295v" rend="270"/>
+<p>Scrittura chiamata <lb/>
+nel n° 504 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-4" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Questa … questo tanto" decoding of the encrypted text can be found on cc. 282r-283r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "prop" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-t-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> There is a hole in the page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "No seperate image of f 278r-v as it contains a cut page visible on scan of f. 279r."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-o" corrected above "-mente" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes "navi" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Ho … il suo" decoding of the encrypted text can be found on c. 283r; with cross-reference sign.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Ink stain.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "V(ost)ra … suoi sudditi" decoding of the encrypted text can be found on c. 283r-v; with cross-reference sign.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-ttano" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "5-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "già fatte" added above the deleted word.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-llo" is the result of a correction; followed by deleted words.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "e si" added above the line.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "egli … Stati" added above the line with an insertion mark.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-pa-" is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Uncertain reading.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Uncertain reading.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Precedes the struck-through letter, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Followed by "ressidente" crossed out.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Followed by "parola" crossed out.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Precedes "parola" crossed out.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> Followed by "E(ccellenze)" crossed out.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> Followed by "gi" crossed out.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> "u-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.060 date 1619-11-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">060</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 323r-326v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">323r-326v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Confirmation that three ships have arrived in Texel. Reports that he has sent the list of crew to the Admirality of Amsterdam and that the remaining debt will be settled by Calandrini. Requires additional funds as the sailors have been underpaid and both sailors and ship owners have pressed for payment beyond the initial agreed period. Wind conditions have delayed the departure of 13 ships intended to patrol for corsairs. Mentions that merchants have inquired whether Venice would be interested in any of their vessels currently heading to Genoa and Venice. News of Frederick V’s coronation as king of Bohemia has arrived, the States are waiting for official confirmation to send an ambassador. Carleton reaffirms that the king is preparing to assist Frederick and that 4000 men are ready. Speculation about potential Spanish reaction to this coronation and rumours of a revolt in Portugal. Requests clarification on the recent Venetian decision about trade in the Gulf to be send to him. Concludes that he will welcome ambassador Lando. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-11-19">19 novembre 1619</date>
+            <num>107</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="107">
+<div type="main" facs="main text of letter" n="107">
+<!--<p>19 novembre 1619, L’Aia (cc. 323r-326v)</p>-->
+<pb n="323r" facs="08_323r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 151 comincia 150 </p>
+<p>Serenissimo Principe </p>
+<p>sino domenica passata sono stato con animo inquieto attendendo <lb/>
+alcun avviso delli vasselli, che restavano a venire, quando <lb/>
+in fine fui sollevato da lettere delli signori dell’amiralità di Amster-<lb/>
+dam, con che m’avvisavano l’entrata loro nel Tessel, et ne <lb/>
+godei in particolare per l’interesse della Serenità vostra. A quei signori <lb/>
+ho mandata la copia dei roli, che ho ricevuti dall’illustrissimo <lb/>
+signor commissario Morosini, et del debito insieme de’ capitani; <lb/>
+et il Calandrini esborserà quel denaro, che sarà necessario <lb/>
+per il pagamento de’ marinari et altro tanto a quell’Amiralità, <lb/>
+che a quella in Northolandia. al cui equipagimastro <lb/>
+ho dato il rolo della nave Il leon dorato, trovandosi qui <lb/>
+in commissione; et io, occorrendo, mi transferirò nell’una, <lb/>
+et l’altra parte. Oltre la prima lettera di vintimilla <lb/>
+ducati fatta a dieci, et tratta a pagare a vostra Serenità ne ho <lb/>
+fatta anco un’altra de dieci milla alli medesimi Latfeur <lb/>
+Calandrini, et Vandermeulen a’ 16; ma veggo bene, <lb/>
+che vi vorrà anco molta maggior summa poiché li <lb/>
+marinari non hanno ricevuto in armata tanto denaro <lb/>
+quanto mi presuponevo; et poi vi sono li partionevoli dei <lb/>
+vasselli ritornati che mi solecitano per il pagamento <lb/>
+delle restanti mesate doppo ’l terzo decimo mese, essendoli <lb/>
+state rimandate le lettere, che li havevo fatte per vostra Serenità <lb/>
+onde doveranno, per cadauna nave esser pagati per sei <lb/>
+mesi, et poiché hanno rihavute esse lettere non veggo <lb/>
+di poter ricusare né<ptr target="#tn1" n="1"/> differirle il pagamento: tuttavia
+<pb n="323v" facs="08_323v" rend="0"/>
+starò a sentir quello mi dirà il Calandrini, al quale scrissi <lb/>
+domenica in questo proposito. </p>
+<p>Per la nave Il leon felice, che è in servitio ho fatte le lettere <lb/>
+di pagamento di doi mesi il quinto, et sesto, et sono dirette <lb/>
+al signor Nicolò Perez et<ptr target="#tn2" n="2"/> anco quelle scritte a’ 16 sono di <lb/>
+nuovo grandemente instato perché il pagamento di queste, et delle <lb/>
+altre sia fatto a tempo, risentendosi questi mercanti della <lb/>
+dilatione. </p>
+<p>Continua il vento contrario all’uscita delli tredici vasselli de’ signori <lb/>
+Stati destinati contro corsari. Et spiace grandemente a sue Eccelenze <lb/>
+la spesa infruttuosa, tanto più che sempre hanno novelle, <lb/>
+che quelle genti vanno sempre tentando nuovi danni a’ <lb/>
+vasselli di questi mercanti. Ma sono tutti alla vella, et <lb/>
+par che il tempo hora servi per la loro uscita. </p>
+<p>Devono uscir con essi anco altri vasselli mercantili, et doi o tre di <lb/>
+grande di portata fin di trecento lasti, che devono passar <lb/>
+a Genova, et uno in particolare venirà a Venetia. Havereb-<lb/>
+bono ben volentieri li partionevoli voluto saper da me <lb/>
+se la Serenità vostra ne havesse a fare. Io ho detto ad essi, che <lb/>
+non sapevo, ma che andando in golfo, et presentandosi all’eccellentissimo <lb/>
+signor Capitano generale potrebbe esser, che la qualità de’ vasselli <lb/>
+riuscendole lo facesse<ptr target="#tn3" n="3"/> risolvere a cambiar per essi <lb/>
+qualch’altri di minor portata. Uno io conto che va a <lb/>
+Genova; ma spero che vostra Serenità non sia per haverne <lb/>
+bisogno, poiché Spagnoli haveranno da pensar altrove. </p>
+<pb n="324r" facs="08_324r" rend="0"/>
+<p>Et in effetto così è appunto, che pensano, et stano perplessi dalla <lb/>
+parte dei serenissimi arciduchi doppo anco gl’ultimi avvisi della <lb/>
+rotta havuta<ptr target="#tn4" n="4"/> dal conte di Buquoi, la qual però vanno <lb/>
+estenuando, anzi la dichiarano per vittoria singolare: tuttavia <lb/>
+qui gl’avvisi vengono diversi, et vostra Serenità li deve haver havuti <lb/>
+tali dal luoco proprio. </p>
+<p>Fin domenica con lettera di Colonia venne avviso della coronatione <lb/>
+del principe Palatino in re di Bohemia alli 4<ptr target="#tn5" n="5"/>, et che quella della <lb/>
+moglie doveva seguir la domenica appresso, et nell’istesso <lb/>
+giorno anco quella del Tansilvano. Lo scrive uno de’ <lb/>
+direttori a questo loro agente; et li signori Stati attendono di <lb/>
+giorno in giorno l’avviso da quel Principe: in tanto <lb/>
+nondimeno si vede manifesta nell’universale l’allegrezza, <lb/>
+se ben vi sono di quelli anco, che non se ne rallegrano. </p>
+<p>Aspetteranno li signori Stati gl’avvisi sicuri per devenir poi ad elettione <lb/>
+d’ambasciatori al detto Re, sopra che vi è come ferma risolutione <lb/>
+di ispedir<ptr target="#tn6" n="6"/> fatta la nominatione di quello, o quelli che <lb/>
+haveranno la carica dell’ambasciata, quanto più presto <lb/>
+verso Praga. </p>
+<p>Qualcheduno di questi signori mi ha detto, che se per il passato hanno <lb/>
+fatti far ufficii con sua Maestà della Gran Bertagna, hora <lb/>
+non mancheranno di rinovarli efficaci, poiché hanno il <lb/>
+campo largo, et spera al presente ognuno che quella Maestà <lb/>
+sia per far una libera risolutione: et io ho cavato ancora <lb/>
+dal signor Ambasciator inglese, che altro non attende il Re, che l’avviso
+<pb n="324v" facs="08_324v" rend="0"/>
+della coronatione aggiungendomi che si era anco trattato dell’<lb/>
+assistenza, et dei personaggi per la condotta dicendomi, che se sarà <lb/>
+di quattro milla fanti il sicil ne haverà la carica; se di più il <lb/>
+conte di Sudanton; ma vostra Serenità deve già haver havuti gl’avvisi <lb/>
+di tal discorsi preparativi. </p>
+<p>Fra doi giorni doverà esser qui ridotta la Congregatione di <lb/>
+Holanda, et fra gl’altri punti si doverà stabilir quello della <lb/>
+assistenza a Bohemi doppo finiti li altri quattro mesi, che <lb/>
+sarà all’ultimo del ventuno. Et dell’imprestido, che hanno <lb/>
+addimandato Bohemi di cinquecento milla fiorini, di che <lb/>
+par che l’agente di essi Bohemi si prometti assai, anzi sia <lb/>
+sicuro di dover ottener questo estraordinario sussidio ancora. </p>
+<p>Gl’avvisi venuti qua de’ progressi del Transilvano hanno <lb/>
+apportato contento; et Spagnoli fanno publicare, che <lb/>
+l’Humonai si sia sollevato coll’absenza d’esso Bethelem <lb/>
+Gabor nella Transilvania. Fanno sparger queste voci, <lb/>
+come anco che Portughesi habbino fatta una rivolta. <lb/>
+Dei fini non si può scoprire. Quest’è vero, che ’l signor prin-<lb/>
+cipe di Portogallo mi ha lette lettere scritte da Lisbona <lb/>
+da doi mani che portano nella stessa maniera, che <lb/>
+Portghesi erano restati malissimo sodisfatti colla venuta <lb/>
+del Re in quel Regno, et che già mai il tempo era stato <lb/>
+più proprio per lui; et che molti lo chiamavano di <lb/>
+puoco cuore, mentre poteva reacquistar quello ch’era <lb/>
+suo. Professa questo Principe non esser adulato da quelli
+<pb n="325r" facs="08_325r" rend="0"/>
+che scrivono: tuttavia bisogna che stia quieto anco con l’animo <lb/>
+et diverti il pensiero dall’impresa, mentre non ha né di che, né <lb/>
+con che poter intraprender una si gran facenda. </p>
+<p>Per le risolutioni della Dieta di Norimbergh stano in grandissimo <lb/>
+pensiero li serenissimi arciduchi, et particolarmente Spagnoli; ma da <lb/>
+questa parte par che formino buon giudicio, che sarà con-<lb/>
+forme alla congiontura de’ tempi, sendo li principi passati<ptr target="#tn7" n="7"/> <lb/>
+tanto avanti a portar colli loro consigli il Palatino all’<lb/>
+accettatione del regno di Bohemia. Qui si trova uno <lb/>
+de’ consiglieri del lantgravio di Hassia. Sta<ptr target="#tn8" n="8"/> sottocon-<lb/>
+testo di trattenersi col figliolo di quel Principe; ma in <lb/>
+effetto viene detto, che attenderà la risolutione di <lb/>
+detto convento di Norimbergh, che gli sarà mandata per <lb/>
+trattar, et negotiar con questi signori. Gl’animi si veggono <lb/>
+molto risoluti a stabilir il possesso del Palatino, et a <lb/>
+portar le cose di Alemagna allo stabilimento de’ principi <lb/>
+dell’Unione, et per la parte di qua si farà<ptr target="#tn9" n="9"/> quanto si potrà per <lb/>
+frenar<ptr target="#tn10" n="10"/> il corso alla grandezza di casa d’Austria, et <lb/>
+così tenersi la guerra lontana. </p>
+<p>S’è parlato, che vi fosse pensiero in Alemagna di far passar <lb/>
+l’arcivescovo di Treveri in Francia a quella Maestà nel qual <lb/>
+caso anco li principi dell’Unione manderebbono <lb/>
+il lantgravio d’Hassia a nome loro, et più s’è detto <lb/>
+che passerebbe per di qua. Bisogna, che vi sia qualche
+<pb n="325v" facs="08_325v" rend="0"/>
+cosa in questo proposito, che ’l tempo la scoprirà. </p>
+<p>Haverò caro, se così se ne compiacerà la Serenità vostra esser<ptr target="#tn11" n="11"/> avvisato <lb/>
+della deliberatione, ch’ella ha ultimamente fatto publicar per il <lb/>
+trafico del golfo acciò sappi governarmi nel risponder a chi <lb/>
+mi<ptr target="#tn12" n="12"/> interpellasse in materia di tanto momento; onde <lb/>
+colla copia di detta deliberatione aspetterò anco li suoi pru-<lb/>
+dentissimi avvertimenti necessariissimi d’esser saputi da me <lb/>
+per l’interesse di vostra Serenità, et per la compita essecutione di detta <lb/>
+deliberatione. Se n’è parlato da qualcheduno che n’ha <lb/>
+havuta notitia, et chi l’intende da ragione a vostra Serenità; <lb/>
+ma vi sono di quelli, che haverebbono caro saper se la licenza <lb/>
+di transitare doverà prendersi a Corfù nell’imboccar del <lb/>
+golfo, o dove. Non ho dubio, che questi signori non siano per <lb/>
+far ubidire, quando sappino l’intentione, et mente <lb/>
+di vostra Serenità che starà a lei di dichiararla se vorrà. </p>
+<p>Dell’eccellentissimo signor ambasciator Lando ho havuto avviso con lettere sue <lb/>
+di Colonia, che proseguiva il suo viaggio con felicità; et <lb/>
+buona salute. Lo credo<ptr target="#tn13" n="13"/> hora in Amsterdam, et dimani <lb/>
+o appresso dimani spero che sarà in questa casa di vostra Serenità <lb/>
+né mancarò di prestargli in essa, et in ogni luoco quell’<lb/>
+ossequio, et quella riverenza, che da me si deve<ptr target="#tn14" n="14"/>. </p>
+<p>Le mie tre lettere delli 13 n° 147 fin 149 se ne vengono con queste replicate.<ptr target="#tn15" n="15"/> </p>
+<p>Dall’Haya li 19 novembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="326r" facs="08_326r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="326v" facs="08_326v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n°151 comincia 150 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="107">
+<!--
+<p n="326vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 novembre 1619 ricevute 4 decembre </p>
+<p>Haya. n° 151 </p>
+<p>Arivo nel Tessel dei vasselli <lb/>
+licentiati dall’Armata. </p>
+<p>Ha dato ordine al Calandrini di <lb/>
+esborsar il danaro per marinari et altro <lb/>
+havendo mandato alle Amiralità <lb/>
+i conti havuti di Armata. </p>
+<p>Avviso di lettera di cambio di ducati 10 mila. </p>
+<p>Haverà bisogno di maggior summe <lb/>
+havendo i marinari havuto in Armata <lb/>
+manco danaro che non credeva. </p>
+<p>Et li partionevoli delle licentiate sono <lb/>
+creditori del noleggio di sei mesi <lb/>
+essendo ritornate le lettere ultime di cambio <lb/>
+fatte per li tre. </p>
+<p>Avviso di cambio per Il leon felice. </p>
+<p>Si dolgono della dilatione dei pagamenti. </p>
+<p>Vasselli destinati contra corsari <lb/>
+non partono per il vento contrario. </p>
+<p>Vasselli che devono passar a <lb/>
+Genova: venirebero in servitio. </p>
+<p>Avviso giunto di Colonia della coronatione <lb/>
+del Palatino. </p>
+<p>Aspettano i Stati avvisi più <lb/>
+sicuri per elegger ambasciatori. </p>
+<p>Avvisi diversi. </p>
+<p>Dimanda la deliberatione publica del <lb/>
+passaggio del golfo, che si dice <lb/>
+esser publicata. </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Esito di correzione; segue far depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "h- esito di correzione."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "alli 4 aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue -la q depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue qui depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "si farà aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Precede il depennato."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-i corretta su -e; segue parola depennata."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Aggiunto in sopralinea su parola depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Segue Gratie etc. depennato."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Le mie … replicate. aggiunto in interlinea sotto il rigo di scrittura."</p></note>
+</div>
+</body>
+</text>
+</TEI>

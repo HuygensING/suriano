@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.091 date 1622-01-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">091</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 471r-473v, 480</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">469r-470v, 471r-473v, 480r-v, 474r-479v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Maurice is worried about the ’Spanish arts’, i.e. the attempts of the Spanish in trying to make the English into enemies of the Dutch. Apparently telling the king that the Dutch are attempting to colonise Virginia with the English company now demanding 12,000,000 florins as compensation. The news together with the loss of Jülich (although expected) afflicts the states general. Nethersol has retunred from England with the news that the king has decided to keep 8000 soldiers and 1500 cavalry in Palatinate, but not raise new troops. Attached are copies of intercepted letters which includes letter by Giacinto da Casale. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-01-31">31 gennaio 1622</date>
+            <num>150, 151, 152</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="150" corresp="151" source="469r-470v" >
+<div type="main" facs="main text of attachment I" n="150" corresp="151" >
+<!--<p>Allegato I al n. 151 (cc. 469r-470v; decodifica di cc. 471r, 472v)</p>-->
+<pb n="469r" facs="10_469r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 364 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="469v" facs="10_469v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="470r" facs="10_470r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="470v" facs="10_470v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="151">
+<div type="main" facs="main text of letter" n="151">
+<!--<p>31 gennaio 1622, L’Aia (cc. 471r-473v, 480r-v)</p>-->
+<pb n="471r" facs="10_471r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 364 comincia 363 </p>
+<p>Serenissimo Principe </p>
+<p>nel proferirmi il signor principe d’Oranges quanto ho scritto <lb/>
+nelle prime ben dimostrò la stima, et il conto grande, che li <lb/>
+signori Stati facevano dell’amicitia di quella serenissima Republica et disse <lb/>
+poi gran cosa è questa, che Spagnuoli così dolcemente si vanno <lb/>
+impossessando hor qua hor là, et non vi è chi ardisca o vo-<lb/>
+glia muoversi a fargli ostacolo, et con non poca passione <lb/>
+aggiunse <hi rend="decoded">hanno</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">in maniera preso il re della Gran Bretagna, <lb/>
+et lo governano in modo, che per me dubito, che <lb/>
+non passerà forse il tempo sino alla fine <lb/>
+dell’anno, che l’haveremo affatto nemico a <lb/>
+queste Provincie</hi>. Piaccia a Dio, che questo non sia <lb/>
+ma lo temo disse sua Eccellenza, et continuò. Un bel tiro hanno <lb/>
+usato Spagnuoli per animar esso re della Gran Bertagna <lb/>
+contro questo Stato, considerandole esser la Maestà sua <lb/>
+affrontata per haversi da queste Provincie mandata <lb/>
+a far colonia nella Virginia propria giuriditione <lb/>
+di lei di acquisto in tempo della regina Elisabetta; <lb/>
+che di questo l’ambasciator Carleton le ne haveva tenuto <lb/>
+proposito, dicendo il sentimento che n’haveva il Re <lb/>
+suo signore ma che gli haveva considerato esser questa <lb/>
+un’inventione per trovar rissa fuor di proposito, <lb/>
+mentre più di quindeci anni sono, che questi popoli <lb/>
+sendo andati a traficar, et habitar in quella parte <lb/>
+chiamandola la Nuova Beglia, come francesi hanno
+<pb n="471v" facs="10_471v" rend="0"/>
+fatto la Florida, et che mai per quelli di questa Natione <lb/>
+in tanto tempo era stata promossa parola, che adesso <lb/>
+di più mi disse l’Eccellenza sua che l’Ambasciator spagnolo haveva fatta <lb/>
+offerta a quella Maestà di libero trafico nell’Indie <lb/>
+Orientali essortandola a far che li suoi mercanti disfa-<lb/>
+cessero la Compagnia fatta già con questa Natione. <lb/>
+In oltre che dimandavano quelli della Compagnia <lb/>
+inglese per rifacimento delle prede fatte, et dei <lb/>
+danni patiti dodici milliona di fiorini somma <lb/>
+tanto lontana dal giusto, et dall’honesto, che <lb/>
+niente più. Di tutti questi incontri non ho dubio, <lb/>
+che l’eccellentissimo signor ambasciator Lando haverà avvertita vostra Serenità <lb/>
+et l’Eccellenza sua nel racconto che me ne fece mostrò passione <lb/>
+d’animo, et tema, che gl’artificii spagnuoli non <lb/>
+facessero riuscir effetti pernitiosi al ben commune, <lb/>
+et al particolar servitio di queste Provincie. </p>
+<p>Disse, che haveva consigliato sempre il diferir di <lb/>
+mandar quell’ambasciata perché le pareva, che l’oppor-<lb/>
+tunità non fosse propria; et mi ringratiò anco <lb/>
+l’Eccellenza sua delli ufficii commessi al detto eccellentissimo Lando. </p>
+<p>Si comprende bene la poca speranza, che hanno li ambasciatori di buon fine di quei loro negotii con il <lb/>
+detto re d’Inghilterra lo scrivono assai chiaro, et spar-<lb/>
+gono qualche parole nelle loro lettere, che l’aria <lb/>
+non li riesce buona per la sanità: segno che vorrebbono
+<pb n="472r" facs="10_472r" rend="0"/>
+ben esser di qua. </p>
+<p>Queste novelle disgustose travagliano l’animo di questi signori <lb/>
+che risentono anco (se ben preveduta) la perdita di Giuliers <lb/>
+dovendo alli doi febraro, che sarà doppo dimani giorno <lb/>
+della purificatione di nostra Dama esser posto in mano <lb/>
+dello Spinola. Speravano questi signori et sua Eccellenza anco, che si <lb/>
+dovesse tener per doi mesi ancora; ma il conto è stato mal <lb/>
+fatto sopra le vittuarie, et particolarmente sopra il pane: perché <lb/>
+si contava per testa dieci libre, et meza di pane per <lb/>
+settimana, et si è convenuto darne quindeci rispetto <lb/>
+al non haver vivande, sendo nei principii stata fatta <lb/>
+preda dal nemico di molti capi di bestiami, de’ quali <lb/>
+il Governator si era provisto. </p>
+<p>La perdita di quella piazza fa creder, che anco Lipstat <lb/>
+sia ben tosto per cadere, et insieme Sust, che finalmente <lb/>
+si è resa al duca di Bransvich, che li presentò il canone, et tirò anco qualche balla. Hora vi è dentro <lb/>
+et sua Eccellenza, colla consultatione presane, l’ha consigliato <lb/>
+a lasciar nell’una, et l’altra piazza l’infanteria <lb/>
+et con buon ordine per tenirsi colla cavallaria <lb/>
+alla campagna a fine di evitar gl’accidenti dell’<lb/>
+assedio. </p>
+<p>Colla presa di queste doi piazze, et colli progressi, che va <lb/>
+facendo il conte di Mansfelt si sperava, portandosi tener <lb/>
+Giuliers di dar gran incommodo, et che operare a’ </p>
+<pb n="472v" facs="10_472v" rend="0"/>
+<p>Spagnuoli, et già era stato ispedito al detto conte di Mansfelt <lb/>
+il duca di Sassonia di Wimar, che è al servitio di questi signori <lb/>
+per agiustar bene le cose; ma tutto al presente resta <lb/>
+confuso con la perdita di detta piazza di Giuliers. </p>
+<p>Vi è chi dubita anco, che possi facilmente perdersi il forte Papemus <lb/>
+fatto fabricar tra Colonia, et Bona; ma sua Eccellenza mi disse <lb/>
+che non era così facile a prender; che vi erano assai pro-<lb/>
+visioni di viveri, et mille buoni huomini dentro. </p>
+<p>Ogni dì al presente il signor principe Mauritio è in Consiglio di <lb/>
+Stato, et si va consultando la maniera di ostar al corso <lb/>
+del nemico. </p>
+<p>Il Niderzol secretario della Regina ritornato d’Inghilterra ha <lb/>
+riportato a questa Maestà, che il Re sia risoluto <lb/>
+di mantener in Palatinato ottomilla fanti, et mille seicento <lb/>
+cavalli <hi rend="decoded">sua</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">Eccellenza si mostra far caso di tal rissolutione, <lb/>
+poiché non è per far gente nova, ma per il <lb/>
+mantenimento di quella, che si trova al <lb/>
+presente in Palatinato; che tra Inglesi, et <lb/>
+Alemani arriva quasi a quella summa, <lb/>
+et aggionte sono fiabe, sarà un bel niente</hi> dicendo appresso l’Eccellenza sua che haveva <lb/>
+consigliato questo Re a ricercar al re della Gran <lb/>
+Bertagna, che li dasse il danaro a fine di poter con-<lb/>
+tentar tanto le truppe del Palatinato, che in parte
+<pb n="473r" facs="10_473r" rend="0"/>
+quelle di Mansfelt, et del duca di Bransvich vescovo <lb/>
+d’Alberstat; altrimenti sarebbe una confusione, mentre <lb/>
+quelle del Palatinato fossero precisamente pagate, et l’altre che servono pure un medesimo Principe non havessero <lb/>
+pagamento. Se questa Maestà potrà spuntar di haver <lb/>
+in mano sua il denaro, consulterà poi con l’Eccellenza sua del <lb/>
+modo, et del miglior termine per il ripartimento per sodis-<lb/>
+far all’une et all’altre militie. </p>
+<p>Qui aggiunte saranno le copie<ptr target="#tn3" n="3"/> delle lettere, <lb/>
+che questa Maestà m’ha fatto havere di quelle <lb/>
+intercette, et saranno per quelle dell’Eccellenze vostre che <lb/>
+haveranno gusto sentir li concetti, et l’ansia che <lb/>
+si ha, che l’elettorato si dia a Baviera coll’Alto <lb/>
+Palatinato, et che ’l Basso resti in mano dei Spagnuoli. </p>
+<p>Si ridono qui dell’offerte che viene detto<ptr target="#tn4" n="4"/> esser state fatte <lb/>
+da’ Spagnuoli d’inviar a Cesare il Pecchius per pro-<lb/>
+curar la restitutione del Palatinato; et dicono <lb/>
+che già dalla serenissima Infanta sia stato ispedito <lb/>
+il detto cancellier Pecchius; et tanto più ridono <lb/>
+quanto si aggiunge, che per la parte loro Spagnuoli <lb/>
+faranno tregua in Palatinato con le genti del re <lb/>
+d’Inghilterra; ma non parlano di restituir alcuna cosa. Gratie etc. </p>
+<p>Dall’Haya li 31 genaro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo Servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="473v" facs="10_473v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="480r" facs="10_480r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="480v" facs="10_480v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 364 comincia 363 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="151">
+<!--
+<p n="480vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 gennaro 1621<ptr target="#tn5" n="5"/> ricevute a’ 17 febraro </p>
+<p>Haia. n° 364 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="152" corresp="151" source="474r-479v" >
+<div type="main" facs="main text of attachment II" n="152" corresp="151" >
+<!--<p>Allegato II al n. 151 (cc. 474r-479v)</p>-->
+<pb n="474r" facs="10_474r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Molto reverendo in Christo Padre osservandissimo </p>
+<p>non prima di mercordì mattina arrivò qui il padre Salvator suo compagno, che <lb/>
+furono li 13 del mese, et subito mandai a dimandar audienza a sua Maestà <lb/>
+che me la diede l’istesso giorno et havendo<ptr target="#tn6" n="6"/> cominciata <lb/>
+l’audienza con un altro negotio commessomi da nostro Signore poi entrai nel particolar delle <lb/>
+lettere, che vostra Reverenza desiderava, et certo con una prontezza grande me le <lb/>
+promise cioè quella del Re nella quale mi disse, che si saria rimesso a <lb/>
+quello, che scriveva al signor don Balthassar nella qual haveria scritto tutto <lb/>
+quello, che si desiderava, et era sua volontà tanto nel negotio principale <lb/>
+come nel servitio di vostra Reverentia un’altra all’Infanta monaca. Al confessore <lb/>
+mi disse, che non voleva scrivere per non haver corrispondenza, et raccom-<lb/>
+mandatione. Pregai sua Maestà della secretezza, et mi disse acciò il negotio <lb/>
+vada più segreto scriverò di mia mano, come ha fatto sino alla coperta, <lb/>
+come vedrà, che le mando qui incluse, et la sera appresso a 4 hore di <lb/>
+notte me le mandò per un huomo suo di camera. Li mando qui ancora inclusa <lb/>
+la scrittura mandatami da Roma dal signor conte d’Ognate, et vedrà che bella <lb/>
+propositione, essendoci ancora la mia risposta<ptr target="#tn7" n="7"/> sua Maestà nel ragionamento <lb/>
+che fece, di queste lettere entrai ancora nel negotio principale et in particolar <lb/>
+del signor duca di Baviera, et fra molti particolari, mi disse che oltre la <lb/>
+segretezza haveria scritto ancora di pugno suo per mostrar quanto le <lb/>
+prema l’interesse del detto duca di Baviera, al quale haveria desiderato <lb/>
+di dar sodisfattione sino con il sangue proprio; ma bisognava caminar <lb/>
+consideratamente fra tanto ancora spero, che haveremo buona risposta <lb/>
+di Sassonia, con la quale se per la dichiaratione del Re cattolico fatta dal signor <lb/>
+conte d’Ognate si potrà finire qui bene il negotio senza aspettar <lb/>
+altre risolutioni di Spagna bene quidem, quando che non se di <lb/>
+nuovo di qui si vorrà dar parte in Spagna in tal caso vostra Reverenza potrà <lb/>
+agiustare il negotio con la solita sua prudenza, et valore, et sperar <lb/>
+in Dio benedetto, et nella Madre sua santissima, che arriveremo all’<lb/>
+intento. Nel Palatinato inferiore si tira avanti, et già il Cordona <lb/>
+haveva occupato tutti li luochi, che sono tra Staven (che ultimamente <lb/>
+haveva preso) et Heidelbergh. Anzi qui da Spira si scrive <lb/>
+che habbi preso anco Heidelbergh: tuttavia non è certo; ma potria <lb/>
+esser facil cosa per non esserci repugnanza, et il capitano del Palatino <lb/>
+si era ritirato, et abandonato ogni cosa verso Manheim luoco
+<pb n="474v" facs="10_474v" rend="0"/>
+forte, et fortificato ultimamente vicino al Rheno con 15 compagnie di fanteria <lb/>
+et io stimolo, che si tiri avanti, se bene dubito, che non sia necessario per-<lb/>
+ché gl’amici dano intentione di far quello, che propose il conte di Zoleren <lb/>
+al duca di Baviera da parte di un ministro. Di chi vostra Reverentia m’intende. </p>
+<p>Io già ho detto per tutto che vostra Reverentia va verso Italia, et sino adesso non si è <lb/>
+penetrato altro, come sarà passato qualche tempo lo dirò al conte d’Ognate <lb/>
+del resto auguro a vostra Reverenza buon viaggio, et meglio arrivo, come credo, che <lb/>
+all’arivo di questa haverà finito. A monsignor Nontio ho diretto il piego <lb/>
+acciò subito lo dia a vostra Reverenza, et li siino in sua credenza perché del resto <lb/>
+son sicuro, che farà il debito, come si conviene. Mi era scordato <lb/>
+di dire, che sua Maestà mi disse qui, che haveria dato il dupplicato <lb/>
+di tutte le lettere al conte Chefniler che fra otto o dieci giorni tornerà <lb/>
+in Spagna acciò se queste si perdessero si trovassero dell’altre con <lb/>
+che facendo fine bacio a vostra Reverenza le mani raccommandandomi alle <lb/>
+sue sante orationi. </p>
+<p>Da Vienna a’ 16 ottobre 1621 </p>
+<p>di vostra Paternità molto reverenda </p>
+<p>servitor affettuosissimo </p>
+<p>D. Carafa vescovo <lb/>
+d’Aversa </p>
+<p>Al molto reverendo in Christo Padre il <lb/>
+padre fra Giacinto da Casale <lb/>
+Capucino </p>
+<p>Molto reverendo in Christo Padre </p>
+<p>doppo haver scritto a vostra Reverenza hier mattina che furono li 19 d’ottobre è <lb/>
+arrivato corriero a sua Maestà del signor duca di Baviera con una lettera <lb/>
+che sua Maestà fece legger in Consiglio nella quale al principio dice come già per gratia <lb/>
+di Dio, al quale si ha da dar ogni gloria, et honore, tutto il Palatinato supe-<lb/>
+riore è in potere, et all’obedienza di sua Maestà per mezo suo, che di nuovo <lb/>
+si è stabilito l’accordo con il Mansfelt, come si era stabilito prima solo <lb/>
+il Mansfelt ha voluto quindeci giorni di tempo per spedir corriero al <lb/>
+Palatino con le ragioni per le quali non ha potuto far di manco di questo <lb/>
+accordo, et che venendo in qual si voglia modo risposta, o non venendo
+<pb n="475r" facs="10_475r" rend="0"/>
+che spirato il termine subito si saria essequita ogni cosa circa l’accordo <lb/>
+il termine spira domenica, che saranno li 29 di ottobre. Nel fine <lb/>
+della lettera disse sua Maestà perché non la fece legger tutta, che ’l Duca scriveva <lb/>
+che per li buona opera meritava esser gratificato, et mantenutoli <lb/>
+quel che li era stato promesso; et così sua Maestà dimandò a tutti li consiglieri <lb/>
+quel che loro le pareva, et tutti uno ore dissero, che era conveniente <lb/>
+et così fu ordinato, che si pensasse, come si haveva da fare. Tutto <lb/>
+questo le serva per avviso, et acciò sappi le pretendenze che ’l signor conte <lb/>
+d’Ognate tenghi per la corona di Spagna in questo negotio, se bene non me <lb/>
+lo ha detto chiaramente perché vostra Reverenza lo conosce. La prima è la restitutione <lb/>
+dell’Austria,<ptr target="#tn8" n="8"/> in luoco delle spese fatte da Baviera darli la voce <lb/>
+elettorale con il Palatinato superiore, che importa assai più delle spese <lb/>
+come mi ha detto il conte Zoler, retenersi il Palatinato inferiore per <lb/>
+la corona di Spagna per le spese fatte, et ultimamente collegarsi ben <lb/>
+insieme cioè l’Imperatore, Spagna, Baviera, il Papa, et tutta la <lb/>
+Lega cattolica per difesa di tutto questo negotio, acciò gl’inimici, et li neutrali <lb/>
+non habbino molto ardire di sfacciarsi di ciò, ancor per Sassonia <lb/>
+che facendo in questo modo secondo il conte d’Ognate non è necessario <lb/>
+tanto la sua volontà, né si dubita tanto la sua potenza, tal che <lb/>
+secondo il signor conte d’Ognate, che mi disse che con questo ordinario scriverà <lb/>
+al Re in consonantia, ne saria necessario, et che Baviera depu-<lb/>
+tasse ambasciatore, come ancora sua Maestà Cesarea persona, et ancora si sapesse l’intentione della maestà del Re cattolico, et così si agiusteria <lb/>
+ogni cosa. Ho voluto scriver tutto questo a vostra Reverenza acciò sappi il <lb/>
+tutto, et perché io dubito, che mai mai* né il conte d’Ognate, né li ministri <lb/>
+di costui non spinti per mero interesse d’haver il Palatinato inferiore, <lb/>
+Stato tanto importante per la casa d’Austria sì per la Fiandra, come per la Germania perché con questo et li protestanti non potranno così <lb/>
+aiutar li Olandesi, né li Olandesi potranno aiutar li protestanti <lb/>
+et il Re sarà patrone in Fiandra, et l’Imperatore in Germania. <lb/>
+Là per me torno di nuovo a dire, se li Spagnuoli non hanno questo <lb/>
+luchetto non credo, che mai acconsentiranno per la voce elettorale <lb/>
+in Baviera, ancorché dicano, et parlino altrimenti et per il zelo <lb/>
+della religione poco importa, che l’habbino li Spagnuoli, o altro pur-
+<pb n="475v" facs="10_475v" rend="0"/>
+ché cattolico; et per me credo tenti il stato di Germania della Francia, <lb/>
+et delli Paesi Bassi, ancorché l’investissero li Spagnuoli non credo che ci <lb/>
+sarà rumore, et se ci sarà non sarà maggiore di quel che potrà esser <lb/>
+se si sforzerà il Palatino a far qualche cosa con gl’amici, et parenti, <lb/>
+et così sarà tutto uno. Vostra Reverenza è più prudente, et pratica di me. Li <lb/>
+serva tutto questo per avviso, che come si sonerà in Spagna così potrà <lb/>
+ballare, et mi creda, che tutto dipende di costà, che qua ci è buonissima <lb/>
+intentione, et volontà; ma paura, et bisogno grande. Con che <lb/>
+finisco, et li prego dal cielo ogni contento. </p>
+<p>Di Vienna li 22 ottobre 1621 </p>
+<p>di vostra Paternità reverenda </p>
+<p>servitor affettuosissimo </p>
+<p>D. Carafa vescovo <lb/>
+d’Aversa </p>
+<pb n="476r" facs="10_476r" rend="0"/>
+<p>Molt’illustre et reverendissimo signor mio come fratello </p>
+<p>il signor conte d’Onnate ha fatto rappresentar a nostro signore dal signor duca d’Alburquerque quanto <lb/>
+si contiene nell’aggiunto foglio, nel quale non pare, che voglia finalmente esprimer altro, che <lb/>
+una tacita pretesta con una chiara scusa per haver a rientegrar il Palatino, poiché né le <lb/>
+consequenze de’ inconvenienti, ch’egli trae dal farsi la guerra sono vere, né li rimedii da lui <lb/>
+proposti per doverla continuare sono necessarii, o ragionevoli. Si nega dunque la prima <lb/>
+consequenza io dico che i Venetiani continuandosi la guerra col Palatino siano per <lb/>
+muoverla all’Imperatore nel Friuli; anzi habbino tutte le ragioni, che ci persuadono il <lb/>
+contrario, et chi è informato delle cose passate, et dello stato presente della Republica <lb/>
+che verso di sé è inclinatissima alla pace, non può far sicuro argomento, et similmente si <lb/>
+nega che non componendosi le cose col Palatino habbia da rimaner l’Austria per sempre <lb/>
+impegnata al duca di Baviera perché mentre si voglia dare il Palatinato, o parte <lb/>
+di esso, et forse anco il solo elettorato al Bavaro si libererà facilmente l’Austria <lb/>
+senza haver bisogno, che i malevadori del Palatino rendano il denaro speso allo stesso <lb/>
+Bavaro, et sarebbe assai più giusto, et più giovevole, che un Principe cattolico fosse di quello <lb/>
+posseditore, che al rimettervi il capo di calvinisti, l’emulo dell’Imperatore, et il <lb/>
+perpetuo nemico della casa d’Austria. Quanto poi a’ rimedii che prepone il conte <lb/>
+d’Onnate il primo della lega da farsi dal Papa coll’Imperatore et<ptr target="#tn9" n="9"/> non bisogna <lb/>
+et<ptr target="#tn10" n="10"/> non basta. Non bisogna perché la guerra non si muoverà, et di più perché il <lb/>
+Papa non può esser in fatti più collegato di quel che sia con sua Maestà Cesarea mentre <lb/>
+li porge aiuti continui, et così stima, et procura la grandezza, et interesse di <lb/>
+lei, come se fossero suoi proprii. Non basta poiché perché se a’ Venetiani met-<lb/>
+terà a conto il muover l’armi contro di Cesare non se ne astenirebbono forse <lb/>
+perché sua Santità fosse collegata colla Maestà sua, et lo farebbono solamente in caso che <lb/>
+temessero non che col Papa si congiungessero altri principi a danni proprii, onde <lb/>
+non bastando la sola lega coll’Imperatore per reprimergli ciò sarebbe un voler metter sua Beatitudine <lb/>
+in necessità di farne una più ampia contra di loro, et di tirarvi particolarmente il Re cattolico <lb/>
+ma nell’animo di nostro signore tanto amator della pace d’Italia, et padre commune non <lb/>
+devono cader simili pensieri. Il secondo rimedio di cavar un millione, et mezo di <lb/>
+Castel Sant’Angelo, et prestarlo all’Imperatore non è necessario mentre si possa senza il danno <lb/>
+evidente anzi con chiarissimo beneficio della religione cattolica, et dell’Imperio libe-<lb/>
+rar l’Austria, accommodandosi più tosto le cose col Bavaro, che col Palatino <lb/>
+né sarebbe oltre ciò honesto aggravar tanto la Sede Apostolica purtroppo involta <lb/>
+in grandissime necessità senza quasi niuna speranza di esserne mai ristorata là <lb/>
+dove dall’altro lato ha molto maggior modo, et cagione il Re cattolico di sovenir di quella <lb/>
+summa<ptr target="#tn11" n="11"/> di denari a sua Maestà Cesarea, et di conservar ad un’hora nella sua fami-<lb/>
+glia l’antico patrimonio; onde ella prende il nome. Per la qual cosa apparisce chia-<lb/>
+ramente non esser il discorso del conte d’Onnate altro che una scusa, o pretesto da <lb/>
+coprir la risolutione, che hanno già pensato di fare di redintegrar il Palatino <lb/>
+per compiacer il re d’Inghilterra, né haverlo nemico nella guerra contra gl’Olandesi <lb/>
+ma piaccia a Dio, che questo loro proponimento non sia per esser l’ultima ruina della <lb/>
+religione Cattolica, et dell’Imperio, et della stessa casa d’Austria in Germania <lb/>
+et che l’Inglese ritornato il Palatino in Stato non trovi cento pretesti di aiutar <lb/>
+come farà li Olandesi, et di rivoltare anco contra il Re cattolico l’istesso Palatino <lb/>
+con Danimarca, et gl’altri collegati protestanti: perché ogn’altra cosa
+<pb n="476v" facs="10_476v" rend="0"/>
+vogliono tutti che la oppressione delli Olandesi, et l’accrescimento della <lb/>
+potenza delli Spagnuoli in quelle parti: onde sarebbe pur meglio, che <lb/>
+rimanendo abbatuto; et disfatto il Palatino, et augumentati li Cattolici di <lb/>
+forze si havessero inimici meno potenti; ma Iddio lascia alle volte, che <lb/>
+ci inganiamo con la presente apparenza d’interessi per doverci poi castigar <lb/>
+con più ragione. Ho voluto dar conto a vostra Signoria di tutto ciò perché considerate <lb/>
+le proposte che si fanno a sua Santità scuopra meglio li altrui andamenti <lb/>
+et se ne vaglia opportunamente; non meno per giustificatione della Santità sua <lb/>
+in evento che bisognassse che per opporsi quanto potrà il più agl’altrui <lb/>
+mal composti disegni, et il signor Dio la conservi sempre felice. </p>
+<p>Di Roma li xi settembre 1621 </p>
+<p>di vostra Signoria la quale si contenterà di far questa commune al padre fra Iacinto </p>
+<p>come fratello affettuosissimo </p>
+<p>il cardinal Lodovisio </p>
+<p>Al nontio a Vienna </p>
+<p>Fras Giacinto a quien v(uestra) S(erenida)d embio a Alemania con la commission en que v(uestra) S(erenida)d exsor-<lb/>
+ta al Emperador passe con la guerra adelante por ser contre hereies enemigos per-<lb/>
+niciosos de la s(an)ta madre Yglesia inobedientes a v(uestra) S(erenida)d y que transfiera el Emperador <lb/>
+el boto electoral en el duque de Baviera por ser Principe catolico y que le ha <lb/>
+merecido por el ayude y cuidado que ha poesto en las guerras que se han offre-<lb/>
+cido entre el Palatino a quien v(uestra) S(erenida)d pide sen depuesto del dicho boto y casti-<lb/>
+gado come merece su ruebelion y delito desseando pues el Emperador aiustarse <lb/>
+con el santo zelo de v(uestra) S(erenida)d y tomar sus paternales conteios ha mandado a sus <lb/>
+ministros que le consulten el estado en que las cosas de la paz y de la guerra <lb/>
+del Ymperio se hallan para conforme a ellas yr disponiendo a las medirs<ptr target="#tn12" n="12"/> por <lb/>
+donde se pueden salvar. El primier incoveniente es que si su Magestad cesarea passa <lb/>
+adelante con la guerra se teme y se tiene por cierto que Venetianos rompan la <lb/>
+guerra por la parte del Frioli y Croatia respecto de la colegation y alianza que <lb/>
+tienen con Olandeses y el Palatino de lo qual se seguiran grandissimos inconve-<lb/>
+nientes por no puder el Emperador asister a esta guerra defensiva respecto de la <lb/>
+occupation en que, se halla. El segundo inconveniente et<ptr target="#tn13" n="13"/> que durando la guerra <lb/>
+se impossibilita el Emperador de poder<ptr target="#tn14" n="14"/> desempennar el Austria superior que tiene <lb/>
+empennada oy en el duque de Baviera por suma de milion y medio poco menos <lb/>
+y si la desempenna luego quitando los muchos interesses que todo dia corren <lb/>
+de los cambios le sera facil el scazerlo porque los Valedons del Palatino y el <lb/>
+mismo le offreçen tanta suma de dinero que basta a disempennarla y es sin <lb/>
+duda que el Emperador dessea debolver a la casa d’Austria esta parte tan importante<ptr target="#tn15" n="15"/> <lb/>
+en ella por tener el nombre d’ally y por otras mil commoditades que se le <lb/>
+sieven de maniera que de passar con la guerra adelante abentura a perder la <lb/>
+parte que tiene en el Frioli y el Austria superior si no es que v(uestra) S(erenida)d l’ayude <lb/>
+y lo remedie con los puntos que avanque pareçen difficiles a los principios mi-<lb/>
+rados considerablemente no lo son. El primiero es que v(uestra) S(erenida)d se soligue con el <lb/>
+Emperador par esta guerra poes assi, come lo esta con las gracias y ayuda
+<pb n="477r" facs="10_477r" rend="0"/>
+que li da pura ella con muy poco mas que haga con lo qual Venecianos viendo a v(uestra) S(erenida)d <lb/>
+ynteressado alli no se attraberan a yntentar la guerra por el Frioli dando la iusta disculpa <lb/>
+a sus aliados pues de romper con v(uestra) S(erenida)d se les seguira(n) maiores dannos con la qual lega y <lb/>
+coligation cobra grande nombre la Sede apostolica y grande temor y confusion les hereios <lb/>
+viendose perseguidos de la cabezza y senor de la Iglesia con que interessa a todo el mondo <lb/>
+que siga pricados tan santas y pias. El segundo inconbeniente se rimediera con que v(uestra) S(erenida)d mande prestar el Emperador il milion y medio che deve el duque de Baviera <lb/>
+sel empenno de la dicha Austria superior, mata los interesses que le van impossibilitando <lb/>
+cada anno quinientes mil florins en las rentas ordinarias de a quella Provincia <lb/>
+que es la mas segura del mundo<ptr target="#tn16" n="16"/> por estar el Austria superior tan apartadas <lb/>
+de<ptr target="#tn17" n="17"/> esotras guerras y tan fertil y segura y besse claro la seguridad de la prenda <lb/>
+pues el duque de Baviera la tuvo<ptr target="#tn18" n="18"/> por tal quando Dio<ptr target="#tn19" n="19"/> el million y medio sobre <lb/>
+ella. De maniera que v(uestra) S(erenida)d viene haver lo mismo que el Duque hiço, y gana tan <lb/>
+gran gloria, come redimer esta Provincia sin aventurar nada pues el Emperador <lb/>
+fuera de la consignation que luego hara en manos de la persona que v(uestra) S(erenida)d non-<lb/>
+mbrare para esta cobranza come dueno de a quellas rentas hasta estar<ptr target="#tn20" n="20"/> pagando <lb/>
+la asegurara con todo lo demas del Imperio y destar el dinero que v(uestra) S(erenida)d tiene en <lb/>
+el Castillo de Sant’Angel no se le sigue interes ninguno ni vora si offrece <lb/>
+cosa que contradiga esta suma nud<ptr target="#tn21" n="21"/> y soccorso v(uestra) S(erenida)d mirara lo que mas <lb/>
+fuere servido considerando que si viene en haçeo lo que a qui se le supliqua <lb/>
+se siegue ne la christiandad y mensos aumentos y a v(uestra) S(erenida)d glorioso nombre y <lb/>
+particolarmente me pide el Emperador suplique a v(uestra) S(erenida)d el grande secreto d’estos tratados <lb/>
+no quierendo que passen por mas manos<ptr target="#tn22" n="22"/> que las de v(uestra) S(erenida)d el s(enor) card(ina)l Lodovisio <lb/>
+y las mias. </p>
+<p>Del conte d’Onnate al Papa </p>
+<p>La risposta del nontio di Viena al cardinal Lodovisio </p>
+<p>Li inconvenienti, che nella scrittura mandatami da vostra Signoria illustrissima adduce il conte d’Onnate intor-<lb/>
+no alla guerra o concordia col Palatino hanno così poco fondamento quanta <lb/>
+convenienza<ptr target="#tn23" n="23"/> si habbino i rimedii ch’egli propone; per ciò che non è niuno, che <lb/>
+sappia o asserisca, che i Venetiani siano collegati col Palatino né persuade la lega <lb/>
+fermata (se pur è vera) da loro colli Olandesi a commune difesa della libertà <lb/>
+che per rispetto del Palatino non compreso né nominato in essa habbino i Venetiani <lb/>
+(quando anco fossero alienissimi dalla quiete) a muover guerra offensiva a Cesare, et <lb/>
+essendosene astenuti quando le cose delli Austriaci erano in pericolo, et titubavano <lb/>
+non so qual ragion voglia, che habbiamo a risolversene adesso, et se havessero <lb/>
+voluto dichiarirsi collegati del Palatino col muover l’armi ad offender li stati <lb/>
+del Friuli qual più bella occasione poterono mai havere, che mentre egli era patrone <lb/>
+di tutta la Bohemia delle provincie incorporate a quel Regno havesse a sua <lb/>
+devotione l’Austria superiore, et poco manco dell’inferiore, et l’unione dei <lb/>
+calvinisti armati a suo favore. Hoggi abbatuto<ptr target="#tn24" n="24"/> esso Palatino, privo di forze
+<pb n="477v" facs="10_477v" rend="0"/>
+et hormai di tutti li Stati dissulta in maniera la corrispondenza calvinistica che <lb/>
+il marchese di Bada si trova contra li medesimi uniti con 4 mila soldati al servitio del Re <lb/>
+cattolico, et ritornati alla devotione di Cesare non solo li stati proprii ma quasi tutto <lb/>
+l’Imperio non penserei, che li Spagnuoli stimassero li Venetiani tanto privi di <lb/>
+giudicio, che intraprendessero in questo tempo impresa tanto sproportionata. Quanto <lb/>
+al modo di disempegnar l’Austria superiore è cosa chiara, che né più breve <lb/>
+né di manco incommodo a Cesare può trovarsi quanto il conceder la voce <lb/>
+elettorale, et il Palatinato superiore al duca di Baviera poiché vogliono li <lb/>
+Spagnuoli che ’l Duca habbi pretensioni essorbitanti, che pure spero in Dio col mezo <lb/>
+del padre Iacinto si riduranno a segno condecente, che può meglio aggiungere <lb/>
+in contanti quella summa, che mancasse all’intiera sodisfattione del credito del Duca <lb/>
+che li Spagnoli? Li quali con questo mezo di far qualche esborso potranno acquistar <lb/>
+qualche legitimo pretesto di ritenersi il Palatinato inferiore, del quale si vede <lb/>
+che hanno così gran desiderio, et quando mancassero tutti questi modi si sa che <lb/>
+l’Austria superiore sta in mano si sua Altezza per sicurtà del suo credito; ma per <lb/>
+sodisfattione degl’interessi senza sogiacere a’ cambii, come disse Onnate devono <lb/>
+le rendite di esse delle quali deve il Duca render conto, et il sopravanzo resti-<lb/>
+tuire, o metter in difalco della summa principale, et i feudi particolari et i beni <lb/>
+confiscati a’ ribelli sono tutti riservati a sua Maestà la quale infeudandoli di <lb/>
+nuovo può da essi (mentre non si lasci ingannar da’ suoi ministri, et questi <lb/>
+se l’amassero, doverebbono insegnarli li Spagnoli)<ptr target="#tn25" n="25"/> <lb/>
+ritrar non piccola summa di denaro che congiunta con le rendita della Provincia, <lb/>
+che sono grandissime in<ptr target="#tn26" n="26"/> non molto lungo tempo può liberar il Paese da tutto il debito <lb/>
+che la Maestà sua ha con Baviera: oltre che quei popoli, che mal volentieri stano sotto <lb/>
+il giogo bavarico si crede che per tornar sotto il piacevol dominio austriaco contri-<lb/>
+buirebbono qualche considerabil quantità di denaro. Insomma io ho il tutto per <lb/>
+chimere, et inventioni del signor conte d’Onnate quale in questo Paese vuol tirranneg-<lb/>
+giar ogni<ptr target="#tn27" n="27"/> cosa<ptr target="#tn28" n="28"/> il quale ha guisa di nuovo oracolo pretende non solo, che si segui il suo <lb/>
+consiglio in tutte le occorrenze; et massime nelle più ardue; ma con l’ambiguità <lb/>
+delle risposte, et con non lasciarsi intender procura tener qua sospeso ognuno <lb/>
+circa le sue attioni, et pensieri; et niuna cosa più mi fa creder che in questa materia <lb/>
+egli si sia governato di sua testa quanto il trovar così gl’inconvenienti alle-<lb/>
+gati come i rimedii proposti tanto lontani da ogni convenienza, et probabil <lb/>
+ragione: perché se ciò fosse stato<ptr target="#tn29" n="29"/> consultato o conferito con altri <lb/>
+si saria risoluto o di non far questo tentativo per indur<ptr target="#tn30" n="30"/> nostro signore <lb/>
+al loro intento de’ mezi più efficaci, et verisimili. Mi valerò di quanto <lb/>
+vostra Signoria illustrissima mi avvertisce secondo richiederà il tempo, et l’occasione, et di tutto <lb/>
+darò parte al padre Iacinto al suo ritorno, come mi commanda. </p>
+<p>Di vostra Signoria illustrissima alla quale etc. </p>
+<p>di Vienna a’ 2 ottobre 1621 </p>
+<pb n="478r" facs="10_478r" rend="0"/>
+<p>Illustrissimo et reverendissimo Signor mio osservandissimo </p>
+<p>si trovava così ben volta la Maestà Cesarea a conferir la voce elettorale <lb/>
+del Rheno nel duca di Baviera, che della sua intentione non può haversi <lb/>
+dubio alcuno; ma habbia vostra Signoria illustrissima per cosa certa, che la risolutione di <lb/>
+tutto questo negotio dipende omninamente da’ Spagnuoli, né io ardirei asserir ciò, <lb/>
+se l’istesso signor di Echenbergh non mi havesse confidato, che quanto non ostasse la <lb/>
+passata, et presente repugnanza de’ Spagnuoli haverebbe già l’Imperatore terminata <lb/>
+questa materia. Si sforzano veramente li Spagnuoli non havendo altra rifuggita <lb/>
+coprir col pretesto di Sassonia l’oppositione, che fanno a Baviera; ma la <lb/>
+verità è, che dispiace loro la grandezza del detto Duca, et che vorriano senza <lb/>
+fastidio di altre guerre ritenersi il Palatinato inferiore, et perché dubitano, che <lb/>
+Sassonia, come zelante delle constitutioni imperiali (che non vogliono stranieri <lb/>
+in Germania) si opponga a questo lor desiderio procurano di placarlo, et <lb/>
+guadagnarselo con voler, che habbia ogni apparente sodisfattione, et caso che <lb/>
+egli si rompa, et diventi contrario, mirano con quest’artificio a persuader al <lb/>
+mondo, che non il ritenersi da loro il Palatinato; ma il conferirsi a Baviera <lb/>
+la voce elettorale ne sia stata la cagione; onde per levar loro questa iscusa è <lb/>
+andato ultimamente dal duca di Sassonia, se ben sotto altro pretesto l’arciduca <lb/>
+Carlo, e presto aspettiamo sentirne la risposta, la quale per molti riscontri <lb/>
+si spera buona, et quando anco sia indiferente, o neutrale purché non <lb/>
+apertamente contraria si crede, et io ne farò ogn’opera, che l’Imperatore senza più <lb/>
+dilatione sia per risolversi a favore del Bavaro; massime havendo già <lb/>
+dichiarato il conte d’Ognate, che ’l Re cattolico si contenta, che al duca di Baviera <lb/>
+si dia l’elettorato mentre non se ne alteri, et non repugni Sassonia; ma <lb/>
+perché temiamo anco non contrariando Sassonia della pertinacia di <lb/>
+Ognate habbiamo perciò segretissimamente inviato in Spagna il padre Iacinto <lb/>
+acciò là possa opporsi agl’ufficii dell’istesso Ognate, et del Digbi ambasciator <lb/>
+inglese, che passerà a quella corte. Et l’Imperatore ha scritto di suo pugno senza <lb/>
+participarlo ad alcuno, al Re cattolico, a don Balthassar di Zuniga, et all’Infanta <lb/>
+monaca al favor del padre, et del negotio, et le lettere sottocoperta di monsignor nontio <lb/>
+di Spagna vengono qui aggiunte le quali io prego vostra Signoria illustrissima ad inviar colla più <lb/>
+pronta occasione, che se li offera. Comple veramente assaissimo alli Spagnoli così per mo-<lb/>
+derar la grandezza di Baviera, come per le cose di Fiandra, che ’l Palatinato infe-<lb/>
+riore resti in lor potere, et quanto alla nostra intentione è l’istesso, che <lb/>
+l’habbino loro, o altro principe cattolico, et se bene può dubitarsi per questo capo di <lb/>
+qualche tumulto nell’Imperio: tuttavia lo stato presente delle cose non lascia
+<pb n="478v" facs="10_478v" rend="0"/>
+che se n’habbia gran timore: perché quanto a catholici Baviera per far il <lb/>
+fatto suo et si accommoderà, et senz’esso gl’altri, che per lo più sono evangelici non <lb/>
+faranno motivo. I calvinisti già sono disuniti né possono fomentarli i loro <lb/>
+corrispondenti di Francia, et d’Olanda, essendo essi nell’uno, et nell’altro Paese <lb/>
+in non poco pericolo delle cose proprie. Il Re christianissimo impegnatosi a farsi obedire <lb/>
+nel proprio Regno non può dar orrecchio a chi lo consegliasse ad opporsi all’<lb/>
+aggrandimento delli Spagnuoli nella Germania, et i luterani, et neutrali non <lb/>
+hanno né forze né volontà sì che io stimo, che li Spagnuoli habbiano oppor-<lb/>
+tuna congiuntura di conseguir intorno a ciò l’intento loro, senza il quale non <lb/>
+credo mai siano per acquistarsi, né sodisfarsi, che Baviera ottenga cosa alcuna <lb/>
+non ostante che l’anno passato in Magonza il marchese Spinola alla presenza <lb/>
+del cardinale di Zoleren affermasse esser contraria alla mente, et ordini del Re <lb/>
+cattolico l’investitura, che del detto Palatinato inferiore procurava da sua Maestà cesarea <lb/>
+per li Spagnuoli il conte d’Ognati. In somma lo stato del negotio è tale quale vostra Signoria <lb/>
+illustrissima sente, et per quello si scuopre da’ discorsi del medesimo Ambasciator cattolico si <lb/>
+contenteriano li Spagnuoli da’ quali ha da dipender il tutto, che la risolutione si <lb/>
+riducesse a questi 4 capi. Primo, che Baviera restituisca l’Austria <lb/>
+superiore. Secondo, che ’l medesimo per le spese fatte habbia la voce elettorale insieme <lb/>
+col Palatinato superiore, di che sopravanzando al suo credito si contenta <lb/>
+quell’Altezza. Terzo che alli Spagnuoli si conceda il Palatinato inferiore, et <lb/>
+che Baviera rinuntii, et ceda loro tutte le pretensioni, che per rispetto della voce <lb/>
+elettorale potesse haver sopra quello Stato, che intendo non esser se non sopra quattro <lb/>
+piccioli luoghi. Quarto, che tra la Lega cattolica sua Maestà cesarea et il re di Spagna <lb/>
+si faccia lega offensiva, et difensiva contra chiunque si opponesse all’effettuatione <lb/>
+delle cose predette. Quest’ultimo capo par che possa haver qualche difficoltà <lb/>
+ma non ce n’è urgente bisogno; gl’altri, mentre li Spagnuoli dicano de vero <lb/>
+e non habbiano qualche altro occulto fine et pensiero sono facili a stringersi <lb/>
+et stabilirsi. Resta che vostra Signoria illustrissima continui a tener ben disposta la serenissima <lb/>
+Infanta e cotesti ministri persuadendoli a sperar bene di Sassonia, che non <lb/>
+è Principe di spirito né forze tali, che deva gran fatto temersi di lui, et il <lb/>
+dubitar di sollevatione da altra parte hoggi è sospetto senza fondamento. <lb/>
+Sarà anco ben fatto solecitar l’acquisto del rimanente del Palatinato <lb/>
+se ben mi persuado non se ne perda tempo, seguendo l’essempio di Baviera <lb/>
+dal quale hier matina si hebbe corriero con avviso, che haveva guadagnato <lb/>
+tutto ’l Palatinato superiore, et che Mansfelt seguitato da lei si trovava
+<pb n="479r" facs="10_479r" rend="0"/>
+vicino ad Eistat, al quale o per forza, o per buona voglia converrebbe effettuar <lb/>
+l’accordo concertato con l’Altezza sua. </p>
+<p>Di Vienna li 20 d’ottobre 1621 </p>
+<p>Di vostra Signoria illustrissima et reverendissima alla quale devo aggiungere, che havendo li Spagnuoli l’in-<lb/>
+tentione loro del Palatinato inferiore non si cureranno tanto, che si dichiari <lb/>
+Sassonia, come adesso dicono, et perciò desiderano la lega per poter opporsi senza <lb/>
+scomodarsi in Fiandra. Per esser il negotio assai lungo non ho fatto metter tutto <lb/>
+il soprascritto in cifra, et perciò prego vostra Signoria illustrissima che letta, che haverà la lettera <lb/>
+et notatisi li punti principali per servirsene nell’occasioni facci subito abbrucciar <lb/>
+la lettera; che non è bene per nissuno che si veda il negotiato, et l’altre cose con-<lb/>
+cernenti a questo per diversi rispetti con che di nuovo baccio a vostra Signoria illustrissima le mani <lb/>
+restandoli<ptr target="#tn31" n="31"/> </p>
+<p>devotissimo servitore </p>
+<p>D. C. vescovo <lb/>
+d’Aversa </p>
+<p>Riduttone questo negotio qui nelli ter-<lb/>
+mini, che si trova si è stato necessario <lb/>
+sudarsi, et stentarsi assai non solo <lb/>
+per la causa di sopra ma ancora per haver <lb/>
+li heretici in queste parti quella potenza che <lb/>
+hanno; ma Dio è patrone d’ogni cosa </p>
+<p>All’illustrissimo et reverendissimo signor mio osservandissimo monsignore l’arcivescovo di Patras <lb/>
+nuntio di nostro Signore </p>
+<p>Brusseles </p>
+<pb n="479v" facs="10_479v" rend="270"/>
+<p>Copia di lettere intercette </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 364 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "hanno … queste Provincie" decoding of the encrypted text can be found on c. 469r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "sua … un bel niente" decoding of the encrypted text can be found on c. 469r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by deleted words.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "cominciata" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "a" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Corrected above "o."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Corrected above "o."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "patri-" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "las medirs" Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears; "-o-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Corrected above "l-"</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Precedes "in-" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-at-" corrected above "-ia -", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "servono le rendite di essa" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Corrected above "et."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by "per indur" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "q" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "d" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

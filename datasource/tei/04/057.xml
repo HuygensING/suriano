@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.057 date 1617-07-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">057</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 311r-312v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">311r-312v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>He has received a letter from Quingetti about payments </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-26">26 luglio 1617</date>
+            <num>098</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="098">
+<div type="main" facs="main text of letter" n="098">
+<!--<p>26 luglio 1617, L’Aia (cc. 311r-312v)</p>-->
+<pb n="311r" facs="04_311r" rend="0"/>
+<head>main text of letter</head>
+<p>4<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>fino hieri sera havevo spedito il mio dispaccio per vostra Serenità et in <lb/>
+questo punto mi arrivano lettere del signor Quingetti da Amsterdam <lb/>
+nelle quali mi avvisa haver tratti alla Serenità vostra dodeci<ptr target="#tn1" n="1"/> milla 12 mila<ptr target="#tn2" n="2"/> <lb/>
+ducati con lettera diretta a lei, pagabile al signor Gratioso del <lb/>
+Calice; pregandomi a scriver con questo ordinario: perché le sudette<ptr target="#tn3" n="3"/> <lb/>
+sue lettere trovino recapito appresso di lei. Io diedi commissione <lb/>
+al sudetto Quingetti di far provisione delli detti dodici <lb/>
+milla ducati, oltre la lettera delli quindeci milla, che <lb/>
+ho di credito in lui, per far la summa delli vintisette<ptr target="#tn4" n="4"/> <lb/>
+milla, che doverò esborsar a suo tempo al signor conte di Levenstein. <lb/>
+Questo però mi dà materia di aggiunger le presenti <lb/>
+alla Serenità vostra: perché si compiaccia far che ’l signor Gratioso <lb/>
+dal Calice habbi la sodisfattione del detto denaro; che <lb/>
+doverà però esser pagato conforme all’uso della piazza <lb/>
+et in banco. Gratie etc. </p>
+<p>Dall’Haya a’ 26 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="311v" facs="04_311v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="312r" facs="04_312r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="312v" facs="04_312v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="098">
+<!--
+<p n="312vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26<ptr target="#tn5" n="5"/> luglio 1617 ricevute a’ 9 agosto </p>
+<p>Haya </p>
+<p>Ducati 12 mila al calice </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "quindeci."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "12 m(ila)" added above the line.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> -"d(ette)" corrected above "-e."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "v-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-6" corrected above "-5."</p></note>
+</div>
+</body>
+</text>
+</TEI>

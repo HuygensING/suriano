@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.082 date 1621-12-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">082</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 420r-423v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">420r-423v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from 26 November about Grisons and still waiting for the one from 3 December. Visited Maurice today and spoke about the war and the need for financial support from Venice. English parliament has decided to give a subsidy, Carleton has been instructed to transfer 300,000 florins to the Palatinate. Christian the Younger has taken Amöneburg. Frederick visited Du Maurier to show him the intercepted letters of emperor, but French ambassador thinks they are fabricated to move the English into action. The admiralty of Amsterdam continues to request outstanding payments. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-12-20">20 dicembre 1621</date>
+            <num>135</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="135">
+<div type="main" facs="main text of letter" n="135">
+<!--<p>20 dicembre 1621, L’Aia (cc. 420r-423v)</p>-->
+<pb n="420r" facs="10_420r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 355 sola </p>
+<p>Serenissimo Principe </p>
+<p>finchéa appunto, ch’ero per dar principio a scriver le <lb/>
+presenti m’è pervenuto il dispaccio de’ 26 del passato con sole <lb/>
+lettere particolari; et quello dei 3 dello stante lo aspetto per <lb/>
+dimani a sera, o mercordì mattina con alcune di quell’<lb/>
+eccellentissimo Senato, che mi serviranno a sapermi governare <lb/>
+colla mente publica per quello può comportare il servitio <lb/>
+della Serenità vostra nella presente congiuntura de’ tempi, et <lb/>
+nell’espettatione, nella qual stano tuttavia questi signori <lb/>
+di risolutione per<ptr target="#tn1" n="1"/> loro dal canto di lei in materia di aiuti. </p>
+<p>Io non vidi la passata settimana il signor principe Mauritio, come <lb/>
+havevo pensato perché l’Eccellenza sua fu travagliata per doi o tre giorni <lb/>
+da dolor di gola, che l’ha fatta metter in purga. Hoggi <lb/>
+però l’ho veduta per cavar da lei (sotto pretesto di visita <lb/>
+quello, che volesse dirmi sopra quanto [m]i<ptr target="#tn2" n="2"/> toccò, et riverentemente <lb/>
+scrissi nelle mie lettere prime in proposito<ptr target="#tn3" n="3"/> <lb/>
+non mi disse di vantaggio se non che nelli signori <lb/>
+Stati vi era ottima risolutione, et che haverebbono fatto <lb/>
+da dovero. </p>
+<p>Doppo diversi discorsi delli affari correnti dell’Alemagna, et di <lb/>
+questo Paese dissi, et parve, che lo facesse in passando <lb/>
+facendo l’Eccellenza sua caderne proposito. Noi haveremo pur <lb/>
+quello, che la serenissima Republica ci ha fatto l’honor di <lb/>
+prometterci. Io dissi signor Eccellentisimo non si ha da metter dubio <lb/>
+che sua Serenità lo farà quando sarà il tempo, et saremo <lb/>
+nel caso della capitulatione. Ella non mi replicò sopra questo
+<pb n="420v" facs="10_420v" rend="0"/>
+ma alzò un poco gl’occhi verso di me riguardandomi fisso; poi <lb/>
+continuò a dire concisamente.<ptr target="#tn4" n="4"/> Un’armata è stata contra <lb/>
+l’altra; ognuno ha preso il suo vantaggio la fortezza <lb/>
+del Paese per l’acqua, et le piogge stesse hanno trattenuto <lb/>
+assai, che Spagnuoli non habbino fatto il loro profitto. Vostra Serenità <lb/>
+colla prudenza sua può comprender quello, che detto <lb/>
+Principe habbi voluto inferire, che parla poco, et vuole <lb/>
+esser assai inteso. </p>
+<p>Entrò a dirmi, che ’l marchese Spinola ancor in Campagna <lb/>
+et che egli non sapeva far altro giudicio se non che volesse <lb/>
+veder il fine dell’assedio di Giuliers; sperando che cadesse <lb/>
+nanti la primavera; et qualche altro dice che ’l fine del <lb/>
+trattenervisi è stato perché temeva partendo, che li signori Stati <lb/>
+non introducessero qualche aiuti di viveri in quella piazza <lb/>
+et anco delle munitioni da guerra. Mi aggiunse sua Eccellenza che <lb/>
+anco don Inigo Borgia stava tuttavia nella Fiandra <lb/>
+né vi era apparenza, che si muovesse di là, aspettando <lb/>
+l’occasione, et il tempo proprio per qualche surpresa; ma <lb/>
+disse, non li anderà fatta. </p>
+<p>A Bruges in quelli hospitali si trovavano più di doimilla <lb/>
+fanti amalati; et il signor principe Mauritio mi ha confir-<lb/>
+mato, che Spagnoli habbino persa grandissima quantità di <lb/>
+militia tanto da piedi che da cavallo; confessandomi <lb/>
+anco l’Eccellenza sua, che li signori Stati hanno perso più di cinque <lb/>
+mille fanti; che molti erano amalati, ma che al presente <lb/>
+non morivano così facilmente. </p>
+<pb n="421r" facs="10_421r" rend="0"/>
+<p>Mi disse l’Eccellenza sua la diligenza, che al presente mettevano li stati di <lb/>
+Holanda per trovar denari; et ho saputo da buona parte <lb/>
+che li signori Stati Generali cercano mezi per haver l’anno ven-<lb/>
+turo da metter le mani sopra dodici milliona di fiorini <lb/>
+somma gravissima, et impossibile per giudicio di quelli, che <lb/>
+intendono questa materia. </p>
+<p>A Brusseles tengono che questi signori non possino più sussister <lb/>
+alle spese, et che levando Spagnoli le contributioni per la <lb/>
+parte loro così doverebbono cessar anco a questi signori; <lb/>
+ma si tiene per fermo, che essi Spagnuoli vi penseranno <lb/>
+molto bene; potendosi assicurare; che da questa parte <lb/>
+non havendosi le contributioni ordinarie si farebbe correr, et <lb/>
+ruinar il Paese. </p>
+<p>Lettere di Anversa portano, che per li disordini di tanti fallim[enti]<ptr target="#tn5" n="5"/> <lb/>
+li negotianti si trovavano in estrema pena per far bene <lb/>
+le provisioni per Brusseles alla corte stante la strettezza, <lb/>
+et discredito; sopra di che la serenissima Infanta haver lor <lb/>
+concesse sei settimane di tempo, et scritto amorevolmente <lb/>
+che non si alterassero perché trattanto sua Altezza esborserebbe <lb/>
+li denari; onde si tratta al presente di far passar li <lb/>
+contanti per Francia con licenza di sua Maestà christianissima. <lb/>
+Anco da questi signori altri, et simili avvisi sono risaputi <lb/>
+et si persuadono, come il medesimo signor principe Mauritio <lb/>
+mi disse, che Spagnoli siano così ben in bisogno de’ denari, <lb/>
+come essi lo sono. </p>
+<p>Mi disse sua Eccellenza anco esservi apparenza certa, che ’l negotio
+<pb n="421v" facs="10_421v" rend="0"/>
+dell’Indie Occidentali sia per passar avanti; che l’interesse <lb/>
+di quelli di Northolandia per il trafico de’ sali sia punto <lb/>
+principale, che impedisce la riuscita; non volendo, che <lb/>
+questo trafico resti incorporato nella Compagnia, che sin qui <lb/>
+quelli di Encusen<ptr target="#tn6" n="6"/> mostravano di contentarsene; <lb/>
+ma quelli di Hoorn stavano tuttavia renitenti: nondimeno <lb/>
+sua Eccellenza mostrò sperare, che ’l negotio andasse avanti. </p>
+<p>Il signor Ambasciator inglese ha havuta commissione di rimessa di denari <lb/>
+per la summa di 300 mila fiorini per il Palatinato; et egli <lb/>
+havendo havute questa sera lettera d’Inghilterra mi ha <lb/>
+mandato per un suo communicar la risolutione del <lb/>
+Parlamento di dar un sussidio al Re per hora, et fino <lb/>
+a nuova riduttione per poter sostentar le militie <lb/>
+nel Palatinato, et poiché</p>
+<p>’l medesimo Parlamento haverebbe <lb/>
+risoluto di mantener, et sostentar la guerra. Di che <lb/>
+tutto non ho dubio, che vostra Serenità sarà stata avvisata <lb/>
+dall’eccellentissimo signor ambasciator Lando. </p>
+<p>Altro non si scrive da quella parte del Palatinato se non <lb/>
+che Spagnuoli, et le genti di Baviera si tengono alla <lb/>
+banda del<ptr target="#tn7" n="7"/> Necar, et se bene non può dirsi <lb/>
+Heidelbergh assediato par però che resti incommo-<lb/>
+dato assai; che il conte di Mansfelt dalle terre del <lb/>
+vescovato di Spira vada passando in diversi villaggi <lb/>
+per mantener le sue genti; et che ’l vescovo di <lb/>
+Alberstat fratello del duca di Bransvich nel territorio <lb/>
+di Magonza habbi surpresa una piccola città; ma
+<pb n="422r" facs="10_422r" rend="0"/>
+fortissima nominata Amenenburgh, et insieme il castello situato <lb/>
+sopra l’alto di un monte facendo entrare da trenta de’ suoi soldati per un vecchio condotto; et egli di <lb/>
+fuori a tempo dete l’alarma alla città; onde quelli <lb/>
+di dentro correndo ai rampari, li soldati del Duca <lb/>
+presa la porta ve lo introdussero, et facilmente se ne <lb/>
+fece patrone; et si fece dar il giuramento lasciandovi <lb/>
+per governatore il conte di Stirom luogotenente delli mille <lb/>
+cavalli che detto Duca conduceva in Palatinato; che <lb/>
+dentro habbi trovate molte ricchezze, et gran provisioni <lb/>
+perché li habitanti delle piazze circonvicine havevano <lb/>
+condotto le lor cose più pretiose per maggior sicurtà <lb/>
+che detto Duca distribuisca patenti di doi milla <lb/>
+moschettieri, et che molti andavano a trovarlo. </p>
+<p>Di Colonia si aggiunge, che monsignor di Tilli intendendo <lb/>
+la perdita di detta piazza haveva inviato verso là <lb/>
+buon numero di genti da cavallo, et da piedi <lb/>
+per veder se potessero ripigliar detta piazza. Di tal <lb/>
+avviso questo Re, et Regina hanno sentito contento <lb/>
+grande, et vogliono sperar migliori progressi. </p>
+<p>Il Re fu sabbato passato a veder il signor ambasciatore di Francia, et fu sotto pretesto di visita per communicargli quelle <lb/>
+lettere dell’Imperatore, che mandai a nome di detta Maestà <lb/>
+la passata settimana in copia alla Serenità vostra et qui aggiunto <lb/>
+con li dupplicati delle mie lettere di hoggi otto ne
+<pb n="422v" facs="10_422v" rend="0"/>
+sarà la copia. L’Ambasciator ha mostrato al Re di stimar le lettere <lb/>
+ma havendolo io veduto doppo; mi ha detto, che li concetti <lb/>
+sparsi in esse possono ben esser conformi alla mente <lb/>
+dell’Imperatore, et di casa d’Austria; ma che non credeva <lb/>
+però, che fossero così scritte come si diceva; ma vi fossero <lb/>
+delle aggiunte assai. Come si sia in alcuni et particolarmente <lb/>
+Francesi vi è questo commune senso, che le lettere <lb/>
+siano fabricate per dar tanto maggior calore in Inghilterra <lb/>
+et<ptr target="#tn8" n="8"/> far accender anco maggiormente l’animo del Re <lb/>
+et di tal concetto si espresse anco detto signor Ambasciatore. </p>
+<p>La passata settimana, et fu<ptr target="#tn9" n="9"/> mercordì sera fui chiamato da <lb/>
+quattro deputati delli signori Stati ad instanza delli signori <lb/>
+dell’amiralità di Amsterdam per la pretensione, che hanno <lb/>
+di vintré milla fiorini, che dicono haver esborsato di più <lb/>
+non sapendo, che fossero stati esborsati da vostra Serenità<ptr target="#tn10" n="10"/> <lb/>
+in armata. Di questi non ho dubio, che ’l signor Dardano <lb/>
+haverà informata la Serenità vostra, et se bene io ho sostentato <lb/>
+che non sia conveniente né il dovere, ch’ella paghi <lb/>
+doppiamente con quelle ragioni che mi sono state soministra-<lb/>
+te dal fatto stesso, et dal servitio di vostra Serenità: con tutto ciò <lb/>
+stano ancor fermi nelle pretensioni, et nel dire, che non <lb/>
+sono stati avvisati in tempo delli esborsi fatti in <lb/>
+armata; et io sostento di haver loro sempre detto <lb/>
+che la serenissima Republica non vorrà pagar doppio. Con questo <lb/>
+si disciolse il congresso, sin qui. Doppo non mi è stato
+<pb n="423r" facs="10_423r" rend="0"/>
+detto altro. Aspetterò, et sentirò per darne riverente <lb/>
+conto a vostra Serenità. Intanto la prego compiacersi di far <lb/>
+chiamar a sé detto signor Dardani, et sentir da lui lo <lb/>
+stato di questo negotio per darmi quelli ordini, che <lb/>
+stimerà proprii, et necessarii. </p>
+<p>Per la provisione de’ formenti non veggo di poter avvi-<lb/>
+sar a vostra Serenità certezza di poterla far in questa ver-<lb/>
+nata, tanto per la stagione troppo avanzata, che <lb/>
+per la partenza della flotta de’ vasselli destinati <lb/>
+per l’Italia; né havendo havuti altri avvisi dal capitano <lb/>
+Storm tanto più mi confermo di non poter far detta <lb/>
+provisione. Se per il primo tempo vorrà haver <lb/>
+di detti formenti potrà opportunamente darne la <lb/>
+commissione a fine di avantaggiar nei prezzi, et <lb/>
+nelle conditioni. </p>
+<p>Dio benedetto concedi alla Serenità vostra all’Eccellenze vostre illustrissime et <lb/>
+a tutta quella serenissima Republica felicissime le santissime feste del <lb/>
+Natale, et l’ingresso felicissimo nell’anno nuovo <lb/>
+ad essaltatione, et grandezza per molti secoli di quel <lb/>
+serenissimo Dominio. Gratie etc. </p>
+<p>Dall’Haya li 20 decembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="423v" facs="10_423v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 355 sola<ptr target="#tn11" n="11"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="135">
+<!--
+<p n="423vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 decembre 1621 ricevuta a’ 20 gennaro </p>
+<p>Del segretario Suriano. n° 355 </p>
+<p>Si mostra dall’Ambasciator inglese<ptr target="#tn12" n="12"/> non creder vere le lettere <lb/>
+intercette, ma inventione per eccitar <lb/>
+Imperatore. </p>
+<p>Pretension dell’amiralità <lb/>
+d’Astradan di 23 mila fiorini <lb/>
+pagati fuor di tempo dallo </p>
+<p>residente ordinario anche di là erano <lb/>
+stati sborsati. </p>
+<p>Al Dardani se dimandi <lb/>
+et se ne avisi esso secretario. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "p-" corrected above "l-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Ink stain.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> followed by "di haver a ben battere li Spagnoli per l’anno venturo" crossed out, added above the deleted encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Fold in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-n-" is the result of a correction; followed by "q-" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "Necar" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "accen-" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "g-" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "all’" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "dall’Ambasciator inglese" added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

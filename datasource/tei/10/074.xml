@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.074 date 1621-11-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">074</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 368r-v, 371r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">368r-v, 371 r-v, 369r-v, 370r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter about the plea by someone from Utrecht from States General on behalf of four soldiers who have been condemened to the galleys to librate them, he has seen letters they wrote to family and supplication sent on their behalf to Maurice. Two translated letters attached: "Translatione di una lettera scritta, et adrizzata a lor parenti" and "Translato della richiesta diretta al signor principe d’Oranges"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-11-08">8 novembre 1621</date>
+            <num>118, 119, 120</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="118">
+<div type="main" facs="main text of letter" n="118">
+<!--<p>8 novembre 1621, L’Aia (cc. 368r-v, 371 r-v)</p>-->
+<pb n="368r" facs="10_368r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 347 comincia 345 </p>
+<p>Serenissimo Principe </p>
+<p>quello, che entra nell’assemblea dei Stati Generali a nome delli <lb/>
+stati di Utrecht m’è venuto a trovare, et con efficace <lb/>
+instanza a pregarmi di commiserar la miseria di quattro <lb/>
+poveri soldati Antonio Plouvier, Hans Coster Jan van <lb/>
+Werden, et Clas Hendrichson, che sono detenuti in galera <lb/>
+condennati al remo per accusa del suo capitano domino Jan <lb/>
+Cavallier imputandoli di haver voluto far amutinar <lb/>
+la sua compagnia fra la quale li detti quattro erano <lb/>
+assoldati. Negano, ma ben confessano di haver unitamente <lb/>
+con gl’altri richiesto li loro avanzi scaduti di 24 mesi. </p>
+<p>Più, et più parole ha usate questo signore mostrando anco <lb/>
+la sodisfattione, che della liberatione ne risentiranno <lb/>
+li signori Stati di Utrecht, et li parenti delli detti soldati <lb/>
+oltre il gusto, che ne riceverà il commune di questo <lb/>
+Paese nel sentirli liberi da quella miseria; pregandomi <lb/>
+d’intender per questa liberatione. Mi ha fatte veder le <lb/>
+lettere scritte da essi ai parenti; et la supplica per il signor <lb/>
+principe d’Oranges, che d’ambidoi ne sarà qui aggiunto <lb/>
+il translato. Supplico per tanto humilmente così instato, <lb/>
+et solicitato con calde instanze ad usar verso li sudetti <lb/>
+quattro dell’ordinaria benignità sua, come ha fatto ancor <lb/>
+altri di questa Natione per obligar la detta Provincia <lb/>
+in particolare et consolar li parenti, et la Natione in <lb/>
+generale. Gratie etc. </p>
+<p>Dall’Haya li 8 novembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="368v" facs="10_368v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="371r" facs="10_371r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="371v" facs="10_371v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 347 comincia 345<ptr target="#tn1" n="1"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="118">
+<!--
+<p n="371vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 novembre 1621 ricevute a’ 25 detto </p>
+<p>Del segretario Suriano. n° 347 </p>
+<p>Instantia delli signori Stati della provincia <lb/>
+d’Utrech per la liberatione de’ quatro <lb/>
+soldati del Capitan cavallier della <lb/>
+loro Patria condannati alla galera. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="119" corresp="118" source="369r-v" >
+<div type="main" facs="main text of attachment I" n="119" corresp="118" >
+<!--<p>Allegato I al n. 118 (c. 369r-v)</p>-->
+<pb n="369r" facs="10_369r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Translatione di una lettera scritta, et adrizzata a lor parenti da quattro <lb/>
+holandesi tenuti in galera al remo sotto ’l dominio della serenissima republica <lb/>
+di Venetia, et insime della richiesta fatta al signor principe d’Oranges. </p>
+<p>Carissimo zio Giovanni van Camerich doppo le mie affettuose salutationi a voi <lb/>
+et a mia zia, medesimamente a mio zio van Dych sua moglie, et altri zii, <lb/>
+amite, fratelli, et sorelle et cugini etc. Io vi avvertisco colle <lb/>
+presenti, come mi trovo ancora nella giurisdittione della signoria di Venetia <lb/>
+non sapendo dove al presente si trovi mio fratello Pietro de Woerden <lb/>
+se in Holanda, o altrove. Quanto a me, io qui ho servito la <lb/>
+signoria di Venetia per lo spatio di quattr’anni, et mezo tanto per terra, che <lb/>
+per mare, senza mancar alle mie guarde, et al debito mio; come <lb/>
+si deve far da un buon soldato; havendo servito sopra il mare li tre <lb/>
+ultimi anni con miseria, et sobrio pagamento, non havendo havuto <lb/>
+di vantaggio o pagamento dal nostro Capitano, che vinticinque mesi <lb/>
+a disconto. Et venendo di levante verso Venetia sopra l’isola <lb/>
+di San Nicolò di Lido pensavamo ricever l’intiero nostro pagamento <lb/>
+doppo haver quivi soggiornati tre mesi continuati, massime <lb/>
+havendo il nostro Capitano ricevuta una buona summa di denaro; <lb/>
+ma sendone da lui frustrati invece di accommodarci di qualche <lb/>
+paga in conformità della nostra richiesta, ci ha dette delle <lb/>
+male parole, con passar in oltre a minaccie di farci impicar <lb/>
+tutti, et metter sopra le galere (come di già egli n’haveva fatti <lb/>
+impicar tre altri al campo). Hora vedendo la nostra compagnia <lb/>
+tal tirannia di lui, l’habbiamo ancor per una volta ricercato <lb/>
+per il nostro pagamento; ma ci ha egli inviato verso il Principe <lb/>
+non volendo sodisfarcelo. Sopra di che sendosi la compagnia <lb/>
+transportata a Venetia, presentassimo richiesta al Principe, o <lb/>
+al Savio, desiderando solamente che noi fossimo pagati per le <lb/>
+mani della Signoria, et non dal nostro Capitano, stante in torto <lb/>
+ch’esso nostro Capitano tentava di farci; onde il<ptr target="#tn2" n="2"/> detta </p>
+<pb n="369v" facs="10_369v" rend="0"/>
+<p>Savio<ptr target="#tn3" n="3"/> ci promise di pagarci egli medesimo dentro a quattro giorni. </p>
+<p>Il che inteso dal Capitano, ci è andato ad accusare, come se noi <lb/>
+havessimo voluto far amutinar la compagnia, di che noi facessimo <lb/>
+conoscer il contrario; ma che egli ci ha sorpresi falsamente col mezo <lb/>
+dei servitori suoi domestici, et certo soldato (che in<ptr target="#tn4" n="4"/> riguardo <lb/>
+di ciò ha havuto in ricompensa d’esser corporale) facendo giuramento <lb/>
+falso; onde per tal causa noi siamo devenuti sì miserabili schiavi <lb/>
+che doppo lo spatio di cinque mesi, che siamo stati trattenuti con <lb/>
+pane, et acqua; siamo stati ancora a quattro posti in galera <lb/>
+li doi di giugno 1621 cioè io, Jan Gerth de Woerden, figliolo <lb/>
+di gerardo Pieterson, et Antonio Plouvier figliolo di Arnoult <lb/>
+Plouvier, con Clas Genrichson, et Jan Coster tutti soldati della <lb/>
+compagnia del capitan Jan cavallier luogotenente al reggimento de’ Mon <lb/>
+Serghes di Wassenhoven sendo stati condennati per l’illustrissimo Vicenzo Gussoni savio della scrittura in Venetia. Per questo <lb/>
+io Jan Ghert de Woerden con li miei compagni sudetti noi <lb/>
+vi pregamo per l’amor di Dio di procurar che possiamo <lb/>
+esser liberati di questa miserabil servitù, presentando a sua Eccellenza <lb/>
+a tal fine l’aggiunta supplicatione, o bene che col mezo di <lb/>
+qualche amici il residente della serenissima Republica all’Haya possi <lb/>
+esser instato, et pregato per haver lettere sue di raccommandatione <lb/>
+perché siamo liberati, et noi pregaremo Dio per voi. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="120" corresp="118" source="370r-v" >
+<div type="main" facs="main text of attachment II" n="120" corresp="118" >
+<!--<p>Allegato II al n. 118 (c. 370r-v)</p>-->
+<pb n="370r" facs="10_370r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Translato della richiesta diretta al signor principe d’Oranges. </p>
+<p>Humilmente rimostrammo a vostra Eccellenza noi quattro miserabili soldati Antonio Plovier <lb/>
+Gio. Coster, Clas Henrichson, et Jan de Woerden havendo ben <lb/>
+servito per mar, et per terra la signoria di Venetia secondo ch’era <lb/>
+conveniente, et senza, che non possiamo dolersi punto del Prin-<lb/>
+cipe d’essa; ma solamente del capitan Gio. cavallier, il qual partendo <lb/>
+d’Holanda era luocotenente del capitan Jan de Raedt di Roterdam <lb/>
+nel reggimento di monsignor Serghes de Wassonhoven. Doppo cassato il reggimento <lb/>
+il detto Capitan cavalliere, et stato continuato capitano, et questo per li <lb/>
+mali rapporti, ch’egli haveva fatti d’altri officiali al general del <lb/>
+Campo sotto coperta di belle promesse<ptr target="#tn5" n="5"/>. Hor sendo stato condotto <lb/>
+di sotto la città di Gradisca, nel forte di Martedouts il nostro <lb/>
+Capitano ha fatto far giustitia, et essecutione contra tre giovani <lb/>
+dei migliori soldati della compagnia, facendoli publicamente <lb/>
+impicare in vista delli Holandesi, et al dispetto del conte Gio. <lb/>
+Ernesto di Nassau, del suo colonel Rocalaura, et degl’altri <lb/>
+officiali, volendo mostrar con gran libertà il poter suo <lb/>
+sopra la sua compagnia senza anco che havessero meritata la <lb/>
+morte, ma col mezo de’ falsi testimonii inde allhora, et <lb/>
+ancor doppo la sua tirannia s’è dimostrata chiaramente notoria <lb/>
+non solo a noi; ma ad ognuno. Hora quando il reggimento <lb/>
+del signor di Rocalaura si parti verso Venetia la nostra compagnia <lb/>
+fu inviata verso levante, di dove, doppo (servitio di doi mesi) <lb/>
+noi siamo rivenuti verso venetia sopra l’isola di San Nicolò <lb/>
+di Lido pensando quivi ricever il pagamento di 24 mesi di ser-<lb/>
+vitio fatto sopra il mare. Ma nonostante che il detto nostro Capitano <lb/>
+havesse ricevuta una notabil somma di denaro, con tutto non <lb/>
+ci ha voluto pagare, pensando di là condurci in Lombardia, <lb/>
+et così trattenerci le nostre paghe; et per tanto sopra ciò desideran-<lb/>
+do humilmente ricever il nostro pagamento s’è messo a tempestare,
+<pb n="370v" facs="10_370v" rend="0"/>
+et bestemiare, minacciandoci con la forca, et con la galera, et pensando <lb/>
+trattarci della manieri, come havea fatto gl’altri. Vedendo la <lb/>
+compagnia tal<ptr target="#tn6" n="6"/> sua tirannia, et violenza, s’è sopra questo unita <lb/>
+insieme, domandando concordemente, et humilmente se non voleva <lb/>
+egli sodisfarla delli detti 24 mesi di disconto. Allhora ci <lb/>
+disse mille indegne villanie, et poltronerie, dicendo che dovessimo <lb/>
+andar appresso il Principe, o la Signoria medesima per il nostro pagamento. </p>
+<p>Il che fu fatto con presentar un’humile richiesta a’ fine di poter <lb/>
+esser pagati per le mani medesime della Signoria. Il che sendone stato <lb/>
+acconsentito per il Savio, ecco il Capitano che sopra ciò se ne andò <lb/>
+ad accusar noi quattro, come se noi volessimo far amutinar <lb/>
+tutta la compagnia; et ancorché la cosa si sia fatta apparer <lb/>
+diversamente, tuttavia col mezo di falso testimonio de’ suoi domestici <lb/>
+et d’un soldato corrotto (dandogli in ricompensa di ciò la carica <lb/>
+di caporale) siamo divenuti così miserabili schiavi come si <lb/>
+troviamo, sendo stati per tal falsi testimonii condennati <lb/>
+condennati* dall’illustrissimo Vicenzo Gussoni savio alla scrittura a Venetia <lb/>
+alli 2 di giugno 1621 lasciandoci cinque mesi intieri solamente <lb/>
+a pane, et acqua. Per tanto noi quattro miserabili schiavi <lb/>
+holandesi supplicamo humilmente, et per l’amor di Dio vostra Eccellenza <lb/>
+di procurarci la libertà, et liberatione da un tal misero stato, <lb/>
+et servitù, a’ fin di poter render servitio alla nostra Patria <lb/>
+ove noi habbiamo lasciati nostri padri, madri, et parenti, o che <lb/>
+noi possiamo incontrar queste bene di ritornar con l’aiuto di Dio. </p>
+<p>Il Capitano deve ancor a noi quattro il gagio centocinquanta cecchini <lb/>
+per mancamento d’esser secorsi et assistiti etc. di Venetia <lb/>
+a’ 21 di giugno 1621. Noi poveri schiavi </p>
+<p>Antonio Plouvier Hans Coster </p>
+<p>Jan van Woenden Clas Henrichson </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by two crossed-out words, of which one in the line above.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Corrected above "Capitano", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

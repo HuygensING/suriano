@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.038 date 1618-01-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">038</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 238r-v, 241r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 152) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp90-103)
+            </note>
+            <biblScope unit="page">228r-v, 231r-232v, 237r-v, 229r-230v, 233r-v, 236r-v, 234r-235v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Harvert, captain of an English ship, came to The Hague to complain to Carleton about their detention. Carleton and his secretary assure Suriano that has nothing to do with Alexander Rose. Eventually, persuased by Carleton, the States General write to Zeeland to let them set sail as they were going to Guinea. Claims that he could not do more against Carleton’s action and suggests the States might have wanted to appease him. Afterwards Carleton came to wish Suriano a good start to the new year and assure him once more they were going to Giunea </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-01-02">2 gennaio 1618</date>
+            <num>069, 070, 071, 072</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="069">
+<div type="main" facs="main text of letter" n="069">
+<!--<p>2 gennaio 1618, L’Aia (cc. 228r-v, 231r-232v, 237r-v)</p>-->
+<pb n="228r" facs="05_228r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>replicata </p>
+<p>Serenissimo Principe </p>
+<p>delli doicento marinari, che haveva fatti levar il conte di Levenstein già <lb/>
+alcuni giorni non ne restavano nella nave che 60 in circa li quali il capitano <lb/>
+della nave haveva presi sopra di sé per darli poi al detto Conte. </p>
+<p>Anco li soldati del capitan Rosburch non havendo havuto quello che <lb/>
+li era stato promesso di camise, calcette, et altre necessità se ne <lb/>
+sono fuggiti, et il patrone stesso del vassello, per quello, che ne ho <lb/>
+inteso li ha consigliati, et aiutati ad andarsene. Restava esso <lb/>
+vassello ancor sorto a Embdem, ma essendo obligato a far il <lb/>
+viaggio per costì doveva partir al primo tempo, et forse sin qui <lb/>
+l’haverà fatto. </p>
+<p>Io non mancarò di <hi rend="decoded">far</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">la provisione delli marinari <lb/>
+secondo, ch’ella mi commette, come anco de’ bom-<lb/>
+bardieri, et altre genti proprio per servirla in <lb/>
+mare, et vedendo nelle lettere dei 14, che oltre. <lb/>
+La preparatione de’ vasselli, et le sudette, deside-<lb/>
+ra haver anco 800 fin mille fanti</hi>, di questo ne ho già parlato <lb/>
+doi volte al signor principe Mauritio, et mi ha promesso <lb/>
+di pensare perché havessi <hi rend="decoded">un buon capo</hi><ptr target="#tn2" n="2"/> <lb/>
+et io non mancarò di nuovo di raccordarglielo, et farò <lb/>
+ogni mio sforzo perché vostra Serenità sia servita <hi rend="decoded">di</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">buona gente, et miglior, conduttori, ma mi par <lb/>
+di veder che vi sia un certo</hi>
+<pb n="228v" facs="05_228v" rend="0"/>
+<hi rend="decoded">avilimento di ani-<lb/>
+mo, per esser successe tante morti, et esser così <lb/>
+malamente state condotte le genti del conte di <lb/>
+Nassau, et quelle del Vassonhovem. <lb/>
+</hi></p>
+<p><hi rend="decoded">Nel capitolar così li capitani mi tenerò alli contrat-<lb/>
+tati con il Vassonhoven, et Levenstein, ma te-<lb/>
+mo che non vi sarà, chi vogli intraprender <lb/>
+di levar soldatesca senza il danaro della le-<lb/>
+vata, et che non cominci il tempo dell’interte-<lb/>
+nimento dalla mostra, come è nella capitula-<lb/>
+tione del conte Gio. Ernesto, et già me ne è stato <lb/>
+dato qualche motivo. <lb/>
+</hi></p>
+<p><hi rend="decoded">Trovato il capo non lascierò che facci le genti, se <lb/>
+prima non sarò sicuro del tempo, della pron-<lb/>
+tezza delle navi, per non dar nelli disordini <lb/>
+delle altre levate. <lb/>
+</hi></p>
+<p>A questo proposito non lascierò di dirle, che mi è stato riferto <lb/>
+esser stato scritto qui cred’io dal Console di questa Natione <lb/>
+che risiede appresso alla Serenità vostra che ’l corpo del già conte Gio. <lb/>
+Ernesto di Nassau restava insepolto, o sepolte doveva <lb/>
+esser desinterato ad instanza di monsignor Nontio, di […] <lb/>
+me n’è stato parlato da alcuni di questi signori a’ quali
+<pb n="231r" facs="05_231r" rend="0"/>
+ho risposto, che non sapevo come ciò potesse esser, poiché mi <lb/>
+era stato detto dal signor Vandermil, che ’l baron di Clutin <lb/>
+era stato sepolto nel monasterio de’ padri de’ servi onde <lb/>
+tanto meno credevo allo scritto; ma che il fatto doveva <lb/>
+consister, che forse se desiderava da quelli del Conte, che si <lb/>
+facesse qualche pompa, et solennità, il che per il <lb/>
+rispetto della religione, che va annesso con altri della <lb/>
+serenissima Republica non si poteva conceder. Par che si siano <lb/>
+acquistati alcuni, ho però saputo, che altri hanno havuto a dire nell’assemblea dei Stati doppo, che ne uscii <lb/>
+che volendo la serenissima Republica levar altre genti di qua <lb/>
+bisognerà che siano sicuri quelli, che anderanno a <lb/>
+quel servitio, che morendo non li sarà negata la terra <lb/>
+et luoco decente per esser sepolti<ptr target="#tn4" n="4"/> <lb/>
+<hi rend="decoded">et</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">per me dubbito, che in questa nova levata, non <lb/>
+mi venghi fatto questo tentativo, onde vor-<lb/>
+rei bene, che mi servisse il tempo di haver-<lb/>
+ne il suo prudentissimo parere. <lb/>
+</hi></p>
+<p>Il signor principe Mauritio non mi ha parlato di questo <lb/>
+negotio se ben posso tener per fermo, che egli ha li <lb/>
+medesimi avvisi, et per tanto haverei caro esser infor-<lb/>
+mato sopra questo affare a fine di saper in ogni caso
+<pb n="231v" facs="05_231v" rend="0"/>
+risponder, tanto più, che verrà anco presto qui il padre, <lb/>
+et fratello del conte Gio. Ernesto. </p>
+<p>Devo anco con la mia solita reverenza dirle, che quando <lb/>
+si possi compiacer lo Stich fratello del residente di <lb/>
+Brandemburgh con ordinar in qualche buona maniera <lb/>
+sia spedito, et contentato sarebbe bene, perché esso <lb/>
+residente si lamenta, et con me ha fatto compianto, che <lb/>
+suo fratello venga tirato in lungo sopra l’instanza <lb/>
+che fa senza poter haver in tanto tempo che sta <lb/>
+alle scale pregando, et supplicando (come ha detto) ispedito <lb/>
+et aggiunse, che se ha speso tanto per levar del <lb/>
+suo più di 300 fanti per il servitio della Serenità vostra senza <lb/>
+alcun denaro di lei, non doverebbe egli esser sottoposto <lb/>
+a risarcir gl’errori, et i falli del Wassonhoven <lb/>
+et mi pregò instantemente a scriverne alla Serenità vostra. <lb/>
+Io gli ho detto, che haverei sodisfatto all’instanza <lb/>
+con assicurarlo, che tutto quello, che havesse potuto <lb/>
+provenir dalla benignità publica a favor del fratello <lb/>
+si sarebbe fatto. </p>
+<p>Stano qui attendendo con desiderio quello che la Serenità vostra <lb/>
+sia per risponder alla loro scrittura che manda <lb/>
+con le mie lettere de’ 4 del passato, et io a quello <lb/>
+che mi hanno parlato ho risposto in conformità
+<pb n="232r" facs="05_232r" rend="0"/>
+di quanto vostra Serenità mi dice nelle sue lettere de’ 8 pur <lb/>
+del passato, al qual tempo non li era pervenuta ancor <lb/>
+detta scrittura portando li incontri, che vi potevano <lb/>
+concorrer per farvi sopra così tosto la deliberatione. </p>
+<p>Col signor principe Mauritio feci l’ufficio, che la Serenità vostra mi ha <lb/>
+commandato nel laudar il suo senso di mandar di qua <lb/>
+ministro appresso la Serenità vostra et lo trovai del medesimo parere <lb/>
+ma mi disse, che questa maniera di governo era <lb/>
+constituita in termini tali, che non si poteva <lb/>
+se non con tempo venir a capo de’ negotii, et mass(im)e <lb/>
+per la congiontura dei presenti tempi; ma che non <lb/>
+haverebbe mancato con occasione di ravivare<ptr target="#tn6" n="6"/> li spiriti <lb/>
+per quello, che stima buono, et di commun servitio all’<lb/>
+una, et l’altra republica, et anco l’Eccellenza sua mi disse <lb/>
+che si aspettava con desiderio la risposta sudetta <lb/>
+per cavar il vero stato della mente di vostra Serenità. </p>
+<p>In conformità di quanto scrissi alla Serenità vostra con le <lb/>
+mie lettere de’ 23 del passato (de’ quali mando <lb/>
+qui aggiunte le replicate, come anco di quelle <lb/>
+de’ 25) sopra l’incursioni, et danni, che fanno <lb/>
+li vasselli di mercantia hanno questi signori risoluto <lb/>
+di scriver in Franza, et in Inghilterra, et già <lb/>
+le lettere si sono ispedite, et il presidente<ptr target="#tn7" n="7"/> </p>
+<pb n="232v" facs="05_232v" rend="0"/>
+<p>Magno mi ha data l’aggiunta per vostra Serenità che contiene <lb/>
+lo stesso ch’è stato scritto alle dette maestà, et tratti <lb/>
+l’interesse delle nationi, et servono ad eccitar la <lb/>
+Serenità vostra come anco le sudette maestà ad unirsi con <lb/>
+questi stati per estirpar detti corsari ognuno secondo <lb/>
+il suo potere sia con vasselli da guerra, come il re <lb/>
+d’Inghilterra lo può fare, o con denari parlando con <lb/>
+Franza, et con vostra Serenità, et detto Presidente <lb/>
+mi fece instanza grande a nome publico perché <lb/>
+io con efficacia raccommandassi alla Serenità vostra questo <lb/>
+negotio; et che ne aspettariano li signori Stati la risposta […] <lb/>
+(la lettera è mandata con l’ispeditione del corriero Bosello) come anco <lb/>
+la replicata de’ 23 <lb/>
+et 25 del passato. </p>
+<p>Dall’Haya a’ 2 genaro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="237r" facs="05_237r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="237v" facs="05_237v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>replicata de’ 2 gennaro 1618 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="069">
+<!--
+<p n="237vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 gennaro 16 ricevute a’ 13 detto </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>Farà la provisione di marinari, e bombardieri <lb/>
+e fanti di questi pur l’animo invilito <lb/>
+in quali per le voci del maltratamento <lb/>
+dei venuti. </p>
+<p>Li tenirà tra le conditioni del Vassono-<lb/>
+ven e Nassau, ma teme vi vorrà <lb/>
+denaro per la levata, et che cominci <lb/>
+il tempo dall’intertenimento dalla <lb/>
+mostra; non lascierà far le genti <lb/>
+se non sarà prima sicuro del tempo delle <lb/>
+navi. </p>
+<p>Questo consigliere habbi scritto del sotteramento <lb/>
+del conte Gio. Ernesto. Ha risposto, <lb/>
+ma alcuni dell’assemblea dicono bisognerà <lb/>
+in questa levata metter questo capitolo della <lb/>
+sepoltura, et dimandò l’ordine publico. </p>
+<p>Raccorda per bene far spedir il Stich <lb/>
+et sodisfarlo; sta alle scale, e fratello <lb/>
+del residente di Brandemburgh, pretende <lb/>
+con la levata dei 300 fanti e suo proponimento. </p>
+<p>Aspetterò con desiderio risposta di quella scrittura. </p>
+<p>Mauritio raviverà la mission di <lb/>
+ministro reciproca, scusa la tardanza <lb/>
+delle risolutioni. </p>
+<p>Sopra i danni de’ vasselli di mercantia <lb/>
+scrivono a Franza, Inghilterra e Venezia per unirsi. </p>
+<p>L. SS. R. </p>
+<p n="237vD">———</p>
+<p>[…] <lb/>
+raccomandar questo negotio le lettere per Serenità vostra<ptr target="#tn8" n="8"/> <lb/>
+venute col Bosello. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="070" corresp="069" source="229r-230v" >
+<div type="main" facs="main text of attachment I" n="070" corresp="069" >
+<!--<p>Allegato I al n. 69 (cc. 229r-230v; decodifica di cc. 228r-v, 231r)</p>-->
+<pb n="229r" facs="05_229r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="229v" facs="05_229v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="230r" facs="05_230r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="230v" facs="05_230v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="071" corresp="069" source="233r-v, 236r-v" >
+<div type="main" facs="main text of attachment II" n="071" corresp="069" >
+<!--<p>Allegato II al n. 69 (cc. 233r-v, 236r-v; traduzione a c. 234r-v)</p>-->
+<pb n="233r" facs="05_233r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere 2<hi rend="superscript">e</hi> dell’Haya de 2 gennaro 1617 </p>
+<p>Serenissime Duc </p>
+<p>le soing que nous avons de la protection de noz subiectz, <lb/>
+nous a faict embrasser de resolutions qui plusieurs <lb/>
+années de suitte nous ont obligez à porter seuls de <lb/>
+tres grandes et excessives despenses, pour donner seureté <lb/>
+au trafficq, et navigation commune de l’Europe, par <lb/>
+l’affranchisement de deux mers incessament <lb/>
+infectées de grand nombre de pirates, se prevalans <lb/>
+pour retraicte de plusieurs ports de la coste d’Africque, <lb/>
+à nostre soule, oppression et honte commune, mais <lb/>
+comme cest officieux devuoir ne nous et pas <lb/>
+tellement reussy, que journellement il ne nous <lb/>
+vienne encor de nouvelles plaintes et doleances, <lb/>
+de grandz exces qui se commettent, ne pouvants seulx <lb/>
+suffire à faire succeder nostre entrepriuse, moins la <lb/>
+porter avec puissance en tant d’endroictz divers, et <lb/>
+separez, nous avons neaumoins resolu de le continuer <lb/>
+selon nostre portée vigoreusement, s’il plaist à vostre <lb/>
+Serenité (considerant de qu’elle suite est et sera ce <lb/>
+devoir pour voz subiectz, qui ne recoipuent pas<ptr target="#tn9" n="9"/> moins <lb/>
+de lesion en la souffrance de ceste piraterie que les <lb/>
+nostres) nous seconder puissamment, à quoy nous <lb/>
+vous supplions bien affectueusement voulloir <lb/>
+serieusement entendre, soit en nous relevant par <lb/>
+vostre ayde et contribution d’une partye de la despense <lb/>
+necessaire, soit en equippant quelque flotte, la quelle <lb/>
+separement, ou jointement peust effectuer ce nostre <lb/>
+desir, de nettoyer la mer, et restituer la liberté de
+<pb n="233v" facs="05_233v" rend="0"/>
+l’entrecours et commerce tant necessaire à l’entret[é] <lb/>
+des subiectz, et sy gandement alteré, inquieté et <lb/>
+endommagé par ceste longue, et onereuse souffrance <lb/>
+nostre impuissance ne permectant pas que seulz <lb/>
+ayons la gloire de procurer ce bien publicq à toute la <lb/>
+chrestienté, dont avons buté le dessein à diverses <lb/>
+fois, sans aulcune espargne de peril, ny despense, <lb/>
+mais aussy sans le succes necessaire, qui nous <lb/>
+oblige de requerir vostre Serenité bien serieusement <lb/>
+de cest office, à ce que ceste entrepiuse puisse <lb/>
+estre embrasset, et conduite par des conseilz et <lb/>
+moyens communs, a quoy nous attendants prions le <lb/>
+Createur </p>
+<p>serenissime Duc </p>
+<p>de conserver vostre Serenitè en tres parfaicte santé <lb/>
+tres longue, et tres heureuse vie, de la Haye le xxi<hi rend="superscript">e</hi> <lb/>
+de decembre 1617. A. V. Matinissy. </p>
+<p>De vostre Serenité </p>
+<p>tres affectionnez amis pour <lb/>
+leur faire service </p>
+<p>les Estatz Generaulx des <lb/>
+Pays Bas Uniz </p>
+<p>par l’ordonnance d’iceulx </p>
+<p>A. Clerpens<ptr target="#tn10" n="10"/> </p>
+<p>1617 </p>
+<pb n="236r" facs="05_236r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="236v" facs="05_236v" rend="0"/>
+<p>Au serenissime <lb/>
+Duc et republicque <lb/>
+de Venize </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="072" corresp="069" source="234r-235v" >
+<div type="main" facs="main text of attachment III" n="072" corresp="069" >
+<!--<p>Allegato III al n. 69 (cc. 234r-235v; traduzione di c. 233r-v)</p>-->
+<pb n="234r" facs="05_234r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Al serenissimo Duce et republica de Venetia </p>
+<p>La cura, che noi habbiamo della protettion dei nostri suddetti, <lb/>
+ci ha fatto abbracciar resolutioni, le quali per molti anni continui <lb/>
+ci hanno obligati a portar soli grandissime et eccessive spese per <lb/>
+render sicuro il traffico, et navigatione commune d’Europa. </p>
+<p>Per tener nelli doi mari continuamente infestati da gran numero <lb/>
+de’ corsari, che si vagliono per ricoverarsi de’ molti porti della <lb/>
+costa d’Affrica con nostro danno, oppressione, et vergogna <lb/>
+commune. Ma sicome quello officioso debito non ci è <lb/>
+tanto<ptr target="#tn11" n="11"/> intieramente riuscito, che giornalmente non ci vengano <lb/>
+ancora nove querelle, et indoglienze de’ grandi eccessi, che sono <lb/>
+commessi, non potendo noi soli esser sufficienti a mettere pienamente <lb/>
+in opera la nostra impresa, né meno a condur<ptr target="#tn12" n="12"/> potentemente <lb/>
+essendo in paesi diversi et separati. Con tutto ciò noi habbiamo <lb/>
+risoluto di condurla<ptr target="#tn13" n="13"/> secondo le nostre forze vigorosamente. </p>
+<p>Se piacesse a vostra Serenità (considerando di che consequenza è, vi <lb/>
+sarrebbe<ptr target="#tn14" n="14"/> per li vostri sudditi, che non ricevono manco lesione <lb/>
+mentre si sopporta questo corseggiare, che li nostri) assisterci<ptr target="#tn15" n="15"/> <lb/>
+potentemente, come<ptr target="#tn16" n="16"/> noi vi supplichiamo con grand’affetto <lb/>
+a voler attendere<ptr target="#tn17" n="17"/> seriamente, overo sollevandoci<ptr target="#tn18" n="18"/> col vostro <lb/>
+aiuto et contributione d’una parte della spesa necessaria, <lb/>
+overo armando qualche flotta, la quale separatamente, o <lb/>
+congiuntamente possi effettuar questo nostro desiderio de’ nettar <lb/>
+il mare, et restituir la libertà del transito, et commercio tanto <lb/>
+necessario per l’intratenimento dei sudditti, sì grandemente <lb/>
+alterato, inquetato, et dannegiato per causa d’una così longa, <lb/>
+et grave connivenza, non permettendo il nostro poco potere <lb/>
+che soli habbiano la gloria di procurar questo ben publico <lb/>
+a tutta la christianità,<ptr target="#tn19" n="19"/> cosa<ptr target="#tn20" n="20"/> che habbiamo molte volte tentato <lb/>
+senza risparmiar alcun pericolo, o spesa, ma parimente <lb/>
+senza la riuscita necessaria, questo<ptr target="#tn21" n="21"/> ne costringe a ricercar
+<pb n="234v" facs="05_234v" rend="0"/>
+vostra Serenità molto seriamente di questo ufficio, acciò l’impresa <lb/>
+possi esser abbraciata, et maneggiata<ptr target="#tn22" n="22"/> con consegli, et mezi <lb/>
+communi. Il che aspettando preghiamo il Creator <lb/>
+serenissimo Duce <lb/>
+che confermi vostra Serenità in perfettissima sanità lunghissima<ptr target="#tn23" n="23"/> et <lb/>
+felicissima vita. </p>
+<p>Dalla Haya il 21 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>affettuosissimi amici per farli servitio </p>
+<p>li Stati Generali dei Paesi <lb/>
+Bassi Uniti </p>
+<p>di mandato de quelli </p>
+<p>A. Clerpens<ptr target="#tn24" n="24"/> </p>
+<pb n="235r" facs="05_235r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="235v" facs="05_235v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "far … fanti" decoding of the encrypted text can be found on c. 229r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "un buon capo" is encrypted and has not been deciphered by the secretary.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "di … altre levate" decoding of the encrypted text can be found on c. 229r-v; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by deleted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "et … parere" decoding of the encrypted text can be found on c. 229v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-li."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "Magno" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "S(erenità) v(ostra)" uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-s" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line on "così" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-dur" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-durl-" corrected above "-tinu-"; followed by "-rla" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-e-" corrected above "-à-."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line on "al che" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-ol-" is the result of a correction</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "il di" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line on "il che" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "et fel-" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

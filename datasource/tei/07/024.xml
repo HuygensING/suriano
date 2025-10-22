@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.024 date 1618-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">024</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 173r-177v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp343-348
+            </note>
+            <biblScope unit="page">173r-177v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from Venice with further specifics about the conspiracy of Bedmar which he promises to not discuss the particulars unless prompted. He reports on what happens at court in Brussels, on potential union between France and Spain as well as the speculation about the actions of the Spanish, telling the Serenissima they are right to keep an eye on the outposts of the Republic. Reports having discussed with Maurice the forces of the Venetian Republic, who is astounded that they do not undertake any forceful action against the Spanish given their strength in numbers. He reiterates and quotes Maurice at length in his desire to support the Venetian Republic. (something about Luz and settlement of debt). Several reports including 7 ships which are sent to protect the fleet towards the Indies against the English, further requests for monetary assistance to Bohemia, French delegation is absent at national synod of Dordrecht. Ends the letter that he has rented tree ships. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-11-13">13 novembre 1618</date>
+            <num>061</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>13 novembre 1618, L’Aia (cc. 173r-177v)</p>-->
+<pb n="173r" facs="07_173r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 69 sola </p>
+<p>Serenissimo Principe </p>
+<p>tre lettere mi capitano in un medesimo tempo della Serenità vostra de’ 6 <lb/>
+19, et 20 del passato. Mi serviranno d’informatione, et <lb/>
+quella particolarmente dei 19 con la quale mi manda la serie <lb/>
+di tutto il seguito nella congiura, et nello scoprimento di <lb/>
+essa, il quale si vede molto chiaro esser venuto dalla <lb/>
+mano di Dio, che ne sia sempre laudato, et ringratiato per <lb/>
+la protettione, et tutella, che tiene, et haverà perpetua <lb/>
+di quella religiosissima, et devotissima Republica. </p>
+<p>Non parlerò in questo proposito se non promosso, et quando per caso <lb/>
+sentissi differentemente portarsi i concetti,<ptr target="#tn1" n="1"/> altrimenti di quello, che <lb/>
+sono<ptr target="#tn2" n="2"/> potranno esser proferiti, che da persone mal affette, et <lb/>
+della medesima taglia, che i delinquenti, et sedutori<ptr target="#tn3" n="3"/>. </p>
+<p>Delle altre doi lettere per mostrar gl’andamenti de’ Spagnoli <lb/>
+del tutto diversi da quello, che proferiscono, et fanno apparere <lb/>
+per acciecar il mondo, m’anderò valendo coll’occasione <lb/>
+di discorso con alcuno di questi del Governo. </p>
+<p>Altre volte ho scritto alla Serenità vostra con la mia ordinaria rive-<lb/>
+renza, che qui non si fa se non cattiva congietura dell’<lb/>
+attioni spagnuole, et si tiene per fermo, che questo gran <lb/>
+giro di torbido, che passa ne’ regni, et ne’ potentati venga <lb/>
+tutto da quella parte. Et spetialmente che<ptr target="#tn4" n="4"/> mirino a consumar <lb/>
+in spese quella serenissima Republica et uno di questi signori principalissimo <lb/>
+nel Governo mi ha detto haver inteso dalla bocca di soggetto grande <lb/>
+(non lo volse nominare) che erano più di quattr’anni che <lb/>
+haveva inteso, che vi fosse questo concetto nella corte, et tra <lb/>
+li ministri di Spagna. </p>
+<p>Se bene non par cosa da farne gran caso: con tutto ciò non lascierò <lb/>
+di portar al prudente reflesso della Serenità vostra quello, che s’è
+<pb n="173v" facs="07_173v" rend="0"/>
+publicato dalla parte dei serenissimi arciduchi, et lo ha detto un nipote <lb/>
+del marchese Spinola in passando di qua, che va vedendo il <lb/>
+Paese, che l’armata, che tiene il duca di Ossuna et che <lb/>
+stava verso Messina, et l’aggiunta delle galere, che aspetta <lb/>
+il<ptr target="#tn5" n="5"/> marchese Santa Croce sia per qualche impresa in Francia <lb/>
+o per tener in freno quel Re christianissimo a non repudiar la <lb/>
+moglie, come pareva, che alla corte di Spagna se ne <lb/>
+fosse sospettato. Sono publicationi, che bisogna, che <lb/>
+h[a]bbino<ptr target="#tn6" n="6"/> qualche fine, che sarà meglio penetrato dalla <lb/>
+prudenza di vostra Serenità. </p>
+<p>In Brusseles par, che vi sia una certa apparenza di dispiacere <lb/>
+dell’andata del signor cardinal di Savoia alla corte del Christianissimo <lb/>
+et più il dubio, che non succedi quel matrimonio. Et mi scrive <lb/>
+il Pasini, che si vano formando in quella corte varii <lb/>
+discorsi; ma tutti cadono col mostrar non vedersi rimedio <lb/>
+pronto al disturbar il negotio, quando vi sia la reciproca <lb/>
+inclinatione. Questi ambasciatori francesi<ptr target="#tn7" n="7"/> non parlano di detto matrimonio. <lb/>
+Ho<ptr target="#tn8" n="8"/> scoperto dal parlar di qualche principal signore che si ha <lb/>
+dubio in questo Governo del vero fine di quell’aleanza <lb/>
+dicendosi<ptr target="#tn9" n="9"/>, che poiché Spagnoli non la cercano sturbare si <lb/>
+deve creder, che stimino farne il loro profitto, et così qu[ando]<ptr target="#tn10" n="10"/> <lb/>
+mostrano anco entrar in suspetto di conivenza con intendersi <lb/>
+essi Spagnoli bene con il signor duca di Savoia. Sopramodo <lb/>
+necessario sarebbe qui un ministro di quell’Altezza perché <lb/>
+levasse il sospetto, che tuttavia si fabrica sul vecchio. </p>
+<p>Don Luigi di Valasco general della cavallaria in Fiandra <lb/>
+doveva partir per Spagna, et questa risolutione <lb/>
+ha dato in Brusseles materia di considerarne il fine. </p>
+<pb n="174r" facs="07_174r" rend="0"/>
+<p>Alcuni gli dano il governo di Cicilia, altri della Navara; et <lb/>
+li Spagnuoli in particolare dicono, che ha da esser capo di <lb/>
+una grande impresa, che hanno in traccia di fare. Ha <lb/>
+ragione vostra Serenità di munir ben le sue piazze, et di farne <lb/>
+haver cura, perché mi scrive il Pasini, che essi Spagnoli <lb/>
+si mostrano molto arrabbiati contra quel serenissimo Dominio <lb/>
+et mi promette procurar di cavar se sarà possibile il netto <lb/>
+di questi ombrosi pensieri. </p>
+<p>Già andando la stagione innanti, né sentendosi se non il mante-<lb/>
+nimento delle forze spagnole in Italia tanto nel Milanese <lb/>
+che nel regno di Napoli, et che di più in più quel Viceré <lb/>
+attendi a provisione d’armata da mare viene stimato, <lb/>
+che tutto miri alla vendetta se potranno Spagnuoli farla <lb/>
+contra quella serenissima Republica, et non potendo altrimenti consumarla <lb/>
+col farla spender. </p>
+<p>Chi ha parlato, et discorso col signor principe Mauritio sopra le forze di <lb/>
+vostra Serenità m’ha riferto haver sua Eccellentia detto stupire, ch’ella<ptr target="#tn11" n="11"/> <lb/>
+già tanto, et in più maniere<ptr target="#tn12" n="12"/> provocata, havendo così poderosa <lb/>
+armata non tenti qualche cosa contra di loro già ch’essi <lb/>
+non le portano alcun rispetto. Di più, che haveva inteso <lb/>
+che tanto le navi, che le galere erano ripiene di soldatesca <lb/>
+et che questo non stimava esser il servitio di vostra Serenità; ma <lb/>
+che bastasse tener sopra ogni nave un numero di trenta, <lb/>
+o al più quaranta moschetieri, oltre li matelotti, et <lb/>
+il restante di essi soldati tenerli in terra in luoco oppor-<lb/>
+tuno, et commodo ad haverli quando ne fosse stato il <lb/>
+bisogno, perché così si poteva andar mutando di <lb/>
+tempo in tempo, et si sarebbe parimente mantenuta la
+<pb n="174v" facs="07_174v" rend="0"/>
+gente sana, et si sarebbe potuto rinfrescare senza incommodo, <lb/>
+et con miglior servitio con questo numero di trenta, o quaranta <lb/>
+moschetieri, perché colla quantità grande non può far di meno <lb/>
+che gl’uni non impediscano gl’altri, apportino confusione <lb/>
+et occupino la piazza a’ marinari, et ai matelotti, che nel servitio <lb/>
+delle navi da guerra vogliono haver, conforme all’uso del <lb/>
+guerreggiar di questo Paese, la nave libera, et ispedita per <lb/>
+poter scorrer da per tutto secondo il bisogno. </p>
+<p>Qui sentirebbono volontieri, che vostra Serenità già che ha tanta spesa <lb/>
+facesse qualche cosa, che servisse a frenar lo Spagnuolo, et <lb/>
+mettesse quel serenissimo Dominio in un sicuro stato di non haver <lb/>
+ad esser ogni giorno a simil invasioni. </p>
+<p>L’opinione del signor principe Mauritio è anco, che la Serenità vostra procu-<lb/>
+rasse di ridur tutte le compagnie forastiere ad un soldo <lb/>
+non dovendo haver più l’una dell’altra con assignar par-<lb/>
+ticolarmente il soldo ai capi, et officiali; come anco alli soldati <lb/>
+a fine di levar di questa maniera le gelosie tra i reggimenti; <lb/>
+et liberar sé stessa dal travaglio di sentir voci di pretensioni. </p>
+<p>Questo Principe ha sempre havuto un particolar desiderio di sentir <lb/>
+la buona direttione delli affari di vostra Serenità, et che il governo <lb/>
+delle cose della guerra havessero un buon ordine: segno di <lb/>
+particolar affettione di sua Eccellentia verso quel serenissimo Dominio. </p>
+<p>Ella continua tuttavia nel pensiero, et nel desiderio, che segui una <lb/>
+buona unione tra la Serenità vostra, et questi Stati, et la passata <lb/>
+settimana, che fui a visitarla me lo disse con particolar affetto <lb/>
+aggiungendomi per la gratia di Dio gl’affari di questo <lb/>
+Governo si vanno riducendo ad un termine di un buon <lb/>
+stabilimento, et spero che le cose si fermeranno in maniera
+<pb n="175r" facs="07_175r" rend="0"/>
+che li nostri nemici haveranno di che invidiare. Et continuò <lb/>
+non vi sono quei dubii che corrono di divisione tra noi, perché si <lb/>
+mordemo ben l’un l’altro, ma non esce sangue, et il fine sincero in <lb/>
+ognuno è di ostar all’inimico; et soggiunse noi potremo aiutar <lb/>
+la Republica per mare. Ella ci può aiutare: concetti altre volte <lb/>
+proferiti dall’Eccellenza sua. Io lodai li prudenti discorsi di lei, et <lb/>
+mostrai, che in vostra Serenità era stato sempre un particolar fine <lb/>
+intento alla buona corrispondenza con questi Stati; et aggiunsi, <lb/>
+che mi consolavo, che colla prudente direttione dell’Eccellenza sua le <lb/>
+cose prendessero corso al fermar una felice quiete. </p>
+<p>Non lascierò di aggiunger alla Serenità vostra in questo proposito, che per <lb/>
+quanto ho potuto cavare dal signor Antonio Luz parmi, che <lb/>
+sua Eccellentia li habbi dato ordine, che all’occasione che <lb/>
+viene costì cavi se può il senso, che vi è nell’Eccellenze vostre <lb/>
+intorno ad unione, o colleganza con questi Stati, essendo <lb/>
+desiderata dall’Eccellenza sua come ho detto. </p>
+<p>Il detto Luz partirà uno di questi giorni essendo quasi del tutto <lb/>
+espedito da’ suoi principali. Aspettava qualche dispaccio <lb/>
+d’Amsterdam con le scritture necessarie, et qui ha havrete <lb/>
+lettere dalli signori Stati, et da sua Eccellenza di raccommandatione <lb/>
+il contenuto delle quali è qui aggiunto in copia per quelli <lb/>
+dell’Eccellenze vostre illustrissime che volessero vederlo. Parmi che haverà <lb/>
+anco lettere del conte Guglielmo pur per vostra Serenità <lb/>
+et il medesimo signore scrive anco lettere molto piene al signor conte <lb/>
+di Levenstein, come ha fatto anco il signor principe Mauritio. </p>
+<p>Con questa occasione fu stimato bene mandar alla Serenità vostra li <lb/>
+conti di queste Amiralità con<ptr target="#tn13" n="13"/> la copia di alcuni delli <lb/>
+documenti più necessarii, et esso Luz darà a conoscer
+<pb n="175v" facs="07_175v" rend="0"/>
+la qualità, et quantità delle spese a chi<ptr target="#tn14" n="14"/> la Serenità vostra commanderà <lb/>
+essendo informato di tutto; et si promette anco di non riuscir <lb/>
+infruttuosa al servitio di vostra Serenità la sua venuta costì per la <lb/>
+conoscenza, che ha havuta di qualche andamento de’ Spagnoli nel <lb/>
+golfo. </p>
+<p>All’avviso, che ’l console di Genova hebbe che li signori Stati lo volevano <lb/>
+haver qui egli partì immediate a quella volta eccitandolo <lb/>
+al farlo quelli che lo hanno favorito, et hanno però fatto <lb/>
+scrivergli li medemi Stati, che non debbi valersi delle gratia <lb/>
+ottenuta, che col particolar<ptr target="#tn15" n="15"/> contento de’ mercanti di questa <lb/>
+Natione. </p>
+<p>A quello di Venetia è stato detto che se vuole esserciti la carica <lb/>
+come ha fatto sin qui, et se vuole qualche augumento <lb/>
+per le sue fatiche lo ricerchi da’ mercanti, che ne hanno <lb/>
+l’interesse: di modo che ha convenuto acquetarsi, havendo-<lb/>
+gli li signori Stati fatto un donativo di cinquecento fiorini <lb/>
+in che sono incluse qualche spese di lettere. Et doveva <lb/>
+partir alla volta di Amsterdam per trattar il suo <lb/>
+avanzamento con quei mercanti. </p>
+<p>Il Calandrini che fu uno di quelli con chi parlai toccante al <lb/>
+più frequente comercio per Venetia m’ha detto che haveva <lb/>
+discorso con qualcheduno nella piazza, et trovava buona dispo-<lb/>
+sitione; ma con le conditioni, che scrissi la passata settimana <lb/>
+et che tornato in Amsterdam haverebbe procurato di mandarmi <lb/>
+una nota di quello era necessario per venir ad un tal effetto. </p>
+<p>Sua Eccellentia in questo particolare mi disse haver parlato; ma trovava <lb/>
+che bisognava, che questo affare per effettuarsi fosse disposto <lb/>
+dai traficanti particolari aggiungendomi la speranza del
+<pb n="176r" facs="07_176r" rend="0"/>
+guadagno li farà far ogni cosa: ma che tuttavia non have-<lb/>
+rebbe tralasciato di non discorrerne di nuovo venendogliene <lb/>
+occasione. </p>
+<p>Devono a quest’hora esser uscite dal Tessel sette navi da guerra sotto <lb/>
+la condotta del capitano Quast, et viene detto che fosse per <lb/>
+andar ad<ptr target="#tn16" n="16"/> incontrar<ptr target="#tn17" n="17"/> alcuni vasselli che vengono dall’Indie <lb/>
+per guardarli da ogni incontro, che potessero haver dai <lb/>
+vasselli inglesi per li disgusti<ptr target="#tn18" n="18"/> seguiti tra queste nationi. <lb/>
+La voce, che è stata publicata, che ’l re di Inghilterra havesse data <lb/>
+licenza di represaglia ha fatto qui<ptr target="#tn19" n="19"/> risolver ad avanzar la <lb/>
+missione de’ commissarii già deliberata; et partiranno per <lb/>
+Londra alla fine, come si crede della presente settimana. </p>
+<p>A questi signori che aspettevano come si disse li commissarii de’ Bohemi <lb/>
+sono arrivate nuove lettere di quei stati con dimanda di <lb/>
+assistenza di denari; a che non vi è apparenza, che si <lb/>
+concorri così facilmente per il bisogno che ha forse il Paese di <lb/>
+non consultare sopra il dar d’una tal assistenza in questi <lb/>
+presenti tempi. </p>
+<p>Dieci sono deputati d[a]<ptr target="#tn20" n="20"/> questa Generalità per essaminar monsignor <lb/>
+Bernvelt, che credesi si comincierà dimani, et quattro par-<lb/>
+ticolarmente sono di Holanda gl’altri sei delle altre Provincie. </p>
+<p>Il sinodo è ridotto a Dordrechet. Sono arrivati tutti li ministri <lb/>
+forastieri. Di Francia non si sente che venga alcuno ancorché <lb/>
+pareva, che il Re una volta havesse accordato, et data la <lb/>
+parola a monsignor di Langarach. Dano la colpa alli ambasciatori che <lb/>
+l’habbino divertito. </p>
+<p>Monsignor di Boisese (che fui a visitar di nuovo domenica, per non <lb/>
+mancar d’ogni ufficio dal canto mio) mi disse, che non era conveniente
+<pb n="176v" facs="07_176v" rend="0"/>
+che sua Maestà mandasse<ptr target="#tn21" n="21"/> ministri suoi sudditi, o glielo permettesse <lb/>
+et discorrendo, venne a proposito de’ Grisoni, et delle dissensioni <lb/>
+in quel Paese, et mi addimandò se si avanzava la aleanza <lb/>
+della serenissima Republica, et se vi era ministro di lei tra quei popoli. <lb/>
+Mi parve strana questa dimanda, et dissi, che io credevo che <lb/>
+sua Eccellenza fosse informata che era<ptr target="#tn22" n="22"/> molto tempo, che non vi era ministro <lb/>
+della serenissima Republica fra li signori Grisoni né vi era tal negotio<ptr target="#tn23" n="23"/> ma che pur quando vi fosse<ptr target="#tn24" n="24"/> <lb/>
+sarebbe stato<ptr target="#tn25" n="25"/> con servitio della corona di Francia stimata <lb/>
+et osservata da vostra Serenità. Replicò l’Ambasciatore in verità io non sono infor-<lb/>
+mato se vi fosse ministro di Venetia; ma so bene che il mio <lb/>
+Re haverà sempre caro ogni buon successo di quella serenissima Republica <lb/>
+et con questo non disse egli altro, né monsignor di Maurier p[ur]<ptr target="#tn26" n="26"/> che <lb/>
+era presente parlò in questo proposito. </p>
+<p>Monsignor di Boisise è ministro molto cupo, ma scuopro molto <lb/>
+bene dagl’andamenti di lui, et dell’altro, che camina quel <lb/>
+Governo con poco buona volontà verso il servitio dell’Eccellenze vostre. <lb/>
+Non tralascierò tempo, né perderò occasione per cavar quanto <lb/>
+potrò de’ loro sensi per avvisarlo alla Serenità vostra. </p>
+<p>Alli 11 ho fatte doi lettere per il noleggio di tre navi doi Santa <lb/>
+Giustina, et Bontekoi di ducati di* ducati*<ptr target="#tn27" n="27"/> tremille <lb/>
+doicento ottanta pagabili in banco al magnifico ser Steffano van Este <lb/>
+metà per una per il sesto, et settimo mese; et un’altra per li <lb/>
+medesimi mesi sotto l’istesso giorno per la nave Li tre re mille <lb/>
+seicento et quaranta pagabili pur in banco al magnifico Guglielmo <lb/>
+Dopengyser<ptr target="#tn28" n="28"/>. Gratie etc. </p>
+<p>Dall’Haya a’ 13 novembre 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="177r" facs="07_177r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="177v" facs="07_177v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 69 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="177vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1618 ricevute a’ 28 detto </p>
+<p>Haya. n° 69 <lb/>
+sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "no(n)" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "ch" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "et"; followed by "ha" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "p" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-ll-" corrected above "-ss-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> There is a hole in the page.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "suoi" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the line on "ella" crossed out with an insertion mark.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "né … negotio" added above the line with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "vi fosse" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> There is a hole in the page.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "doi" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-g-" corrected above "-y-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.084 date 1623-01-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">084</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 449r-452v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">449r-452v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Delay in receiving dispatches from Venice. Reports that Louis XIII has decided to support the Swiss financially. However, there are concerns about the potential repercussions of military action on the Huguenots in France. The States General is contemplating sending an embassy to France but this is complicated by the pending claims of merchants from St Malo against VOC and lack of a suitable ambassador. Deputies are travelling to Emden to settle disputes between Mansfeld and local population. James I is still hesitant to support the French militarily. Vere and his troops are waiting for favorable wind to travel to England. News that representative of Duke of Saxony will attend the Diet in Regensburg to protest against the treatment of Protestants and the situation in Palatinate. Spanish have captured Papemuts and they are planning new fortifications in Antwerp the Spanish. Problems with VOC are causing delay for WIC to their frustration. Concludes with news that prince Maurice is recovering and continues to be involved in state matters. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-01-09">9 gennaio 1623</date>
+            <num>125</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>9 gennaio 1623, L’Aia (cc. 449r-452v)</p>-->
+<pb n="449r" facs="11_449r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 457 sola </p>
+<p>Serenissimo Principe </p>
+<p>per via di Colonia mi capitò finalmente il mio dispaccio de’ 9 <lb/>
+del passato, che non mi portò lettere della Serenità vostra. Hora sono <lb/>
+in espettatione di quello dei 16, et può esser, che unitamente <lb/>
+mi pervenirà anco quello dei 23. Non so da che nasca <lb/>
+questo incontro di dilatione. Ho scritto al mastro della posta, <lb/>
+et spero, che sarà rimediato al disordine. </p>
+<p>Doppo l’ispeditione dell’ultime tre lettere mie n° 454 fin 456 <lb/>
+che mando con queste in replica, capitorono qui lettere di <lb/>
+monsieur di Pisiurs, che nel proposito delli affari de’ Grisoni <lb/>
+portavano avviso, che la risolutione si era presa da <lb/>
+sua Maestà christianissima di assister a’ suoi amici, et collegati; et che <lb/>
+fra tanto si era mandata una buona summa di denari <lb/>
+in Svizzeri. Questo avviso, et qualche altro rincontro <lb/>
+fa sperare l’essito conforme al desiderio, che si ha da <lb/>
+questa parte, che le cose caminino a quel fiche che et <lb/>
+la ragione, et il servitio publico comportano. Ma <lb/>
+qualcheduni di questi signori francesi, che amano il bene della <lb/>
+Francia, et desiderano, che l’armi sue giovino a’ suoi colle-<lb/>
+gati mostrano haver timor grande di qualche nuovo <lb/>
+imbroglio in quel Regno per qualche avvisi, che questi <lb/>
+hanno havuti, che da chi è solito valersi del seme <lb/>
+di Zizania par che si vadi seminando in Francia sospetti <lb/>
+in quelli della religione, che l’armi, che tiene il Re <lb/>
+in piedi, et che vuol accrescer unite con qualche <lb/>
+altra assistenza non habbino a servir per Grisoni; <lb/>
+ma per tanto più opprimer essi della religione
+<pb n="449v" facs="11_449v" rend="0"/>
+per cacciarli tutti finalmente fuori del Regno all’essempio dell’<lb/>
+Imperatore, che doppo cacciati li ministri fattosi forte, et <lb/>
+resosi patrone d’una debolezza estrema di quelli <lb/>
+della medesima religione riformata in Bohemia, Moravia, <lb/>
+et altrove li facci uscire: onde forte ancor gl’ugonotti <lb/>
+in qualche luochi con questo sospetto eccitati, et spinti <lb/>
+possino attentar di nuovo alcuna cosa, che necessiti il Re <lb/>
+ad attender più alle cose del suo Regno, che a quelle <lb/>
+di fuori. Ho compreso, che ’l zelo del ben publico <lb/>
+faceva parlar a questi; et pervenuto ciò alla notitia <lb/>
+di alcuni dei signori Stati, temono assai di quello che possi <lb/>
+apportar di scandolo simil impressioni. </p>
+<p>Sono al presente questi del Governo sopra il pensar d’inviar <lb/>
+ambasciata in Francia; et perché questo Ambasciator francese si <lb/>
+lascia intender esser necessario, che prima procedi una <lb/>
+particolar sodisfattione, et redintegratione a’ mercanti <lb/>
+di San Malò, et altri, che si pretendono danneggiati, <lb/>
+et predati dalle navi dell’Indie Orientali, sono ben <lb/>
+in pena a trovar modo con il quale si possi disponer <lb/>
+quelli della Compagnia, mentre nella communicatione <lb/>
+del negotio ancorché non sia che di particolari tanti <lb/>
+però sono interessanti, che lo fanno come publico: tuttavia <lb/>
+parmi che al presente siano li signori Stati inclinati a dar <lb/>
+sodisfattione alla Francia, credendo che la necessità li <lb/>
+constringerà a far per forza quello, che già con <lb/>
+minor spesa, et con reciproco gusto si haverebbe
+<pb n="450r" facs="11_450r" rend="0"/>
+potuto prima avantaggiosamente fare. </p>
+<p>Quanto<ptr target="#tn1" n="1"/> alla missione d’ambasciatore, o ambasciatori; in questo vi sarà <lb/>
+anco del da fare per il mancamento che si ha di huomini, <lb/>
+et perché la provincia di Holanda vuol esser il diret-<lb/>
+tore dell’Ambasciatore, perché il mandar di quelli, che altre <lb/>
+volte sono stati sarebbe per appunto un rinversar <lb/>
+affatto, sendo che gl’uni sarebbono sospetti, et gl’altri <lb/>
+mal veduti per diversi rispetti di dipendenza, et d’altro. <lb/>
+Preme questo negotio grandemente, et lo consultano con <lb/>
+diligenza. </p>
+<p>Devono partir uno di questi giorni deputati alla volta <lb/>
+di Embdem per trattar quivi delli affari di quel Conte <lb/>
+et divertir nella miglior maniera li compianti tanto del <lb/>
+medesimo Conte, che delli habitanti in quel territorio contra <lb/>
+Mansfelt; così corre la voce sin qui; ma qualcheduno <lb/>
+vuole, che non vedendosi ove possi per hora andar il <lb/>
+Conte né il duca di Bransvich, difficile sarà che <lb/>
+si levino dal nido preso finché non ne procurino altro <lb/>
+migliore et forse, che non sarà discaro alli signori Stati <lb/>
+che vi si trattenghino per li fini accennati riverentemente alla <lb/>
+Serenità vostra in lettere mie precedenti, et sopra quello mi <lb/>
+disse anco il signor principe Mauritio mi prometto ch’ella <lb/>
+haverà fatto riflesso, che parlasse per l’interesse di queste <lb/>
+Provincie le quali se a primo tempo fossero in bisogno <lb/>
+d’un pronto soccorso havessero, ove poter ricorrer <lb/>
+onde diceva l’Eccellenza sua <hi rend="decoded">non</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">esser bene che Mansfelt <lb/>
+</hi>
+<pb n="450v" facs="11_450v" rend="0"/>
+<hi rend="decoded">passasse in Italia o in Grisoni. <lb/>
+</hi></p>
+<p>D’Inghilterra si attende, che quel Re si risolve, se volesse <lb/>
+impiegar le medesime genti<ptr target="#tn3" n="3"/> per soccorrer Fran-<lb/>
+chendal; et sono avvisati questi signori, che quella Maestà <lb/>
+non volentieri impiegarebbe il conte di Mansfelt per <lb/>
+esser le genti di lui così mal disciplinate, et solo avezze <lb/>
+et dedite all’estorsioni; et alle crudeltà; onde le sia <lb/>
+stato raccordato il duca di Bransvich (le genti del <lb/>
+quale non sono molto migliori<ptr target="#tn4" n="4"/>) et si aspettava una final <lb/>
+risposta; ma si crede che sarà di niente al solito. Par <lb/>
+che si porti per iscusa non vi esser denaro, a che se le <lb/>
+sia fatta offerta di pigliarne sopra suo credito. In somma <lb/>
+da questa parte si procura di stringer quel Re <lb/>
+per cavarne sostanza, ma in vano sino a quest’hora. </p>
+<p>Quelli di Franchendal aspettano con gran desiderio qualche <lb/>
+soccorso, et lo desiderano havendo fatto sapere, che <lb/>
+ancor si possono mantener per qualche mese. </p>
+<p>Il general Veer si trova ancor qui aspettando il vento <lb/>
+che facci buono per passar in Inghilterra a soccomber a <lb/>
+quel giudicio, o a quella disgratia, che li mali ufficii <lb/>
+li haveranno praticato in quella corte. Et le genti <lb/>
+di lui, che stavano anc’esse aspettando il vento a <lb/>
+Medemblich, di là per un commissario dovevano esser <lb/>
+condotte in Zelanda per dentro via questi canali <lb/>
+sono da cinquecento in circa con spesa, con incommodo <lb/>
+et patimento grande, ne sono de’ amalati assai, ne
+<pb n="451r" facs="11_451r" rend="0"/>
+muorono, et par strano, che ’l Re vogli, che vadino in Inghilterra <lb/>
+che qui potrebbono accommodarsi in queste compagnie della <lb/>
+Natione. </p>
+<p>Non serve ancor il tempo, che si habbi qualche avviso del <lb/>
+successo nella dieta de’ principi della Bassa Sassonia; ma <lb/>
+non può tardare. Alcuni vogliono, che dovesse inter-<lb/>
+venirvi il duca elettore di Sassonia; almeno se ne fa <lb/>
+correr la voce per dar martello a Cesare. </p>
+<p>Di quello si operi nella dieta di Ratisbona vostra Serenità sarà av-<lb/>
+visata; et come li più principali punti mirino alla <lb/>
+total depressione di questo Re palatino; ma all’incon-<lb/>
+tro un gentilhuomo di Utrecht, ch’è qui nell’assem-<lb/>
+blea dei Stati ha havute lettere da quel consigliere, che ’l <lb/>
+duca di Sassonia doveva mandar alla Dieta, che lo <lb/>
+avvisava, che vi andava; ma solo per sentire, et <lb/>
+riportare. Et principalmente per protestar doi cose. L’una <lb/>
+la restitutione in Bohemia, et altri luochi di quelli della <lb/>
+religione riformata cacciati; et<ptr target="#tn5" n="5"/> in particolare <lb/>
+di quelli della confessione augustana, a fine di <lb/>
+mantenerli la promessa fattagli da’ suoi precessori <lb/>
+imperatori; l’altra per protestar pure, che non fosse <lb/>
+disposto dell’elettorato preteso vacante; né depostone <lb/>
+il Palatino, et che ciò il Duca suo signore haverebbe <lb/>
+sostentato a tutto suo potere per ordine della cui <lb/>
+Altezza dice, che scriveva le lettere. Il frutto, che <lb/>
+sia per ripostarsi da questi protesti la Serenità vostra l’haverà
+<pb n="451v" facs="11_451v" rend="0"/>
+molto prima, et più sicuro,<ptr target="#tn6" n="6"/> da altra parte, che da questa. </p>
+<p>La piazza di Papemuts finalmente si rese in mano del conte Henrico <lb/>
+di Bergh sendo impossibile, che si potesse più mantenere. <lb/>
+Si parla, che Spagnoli siano per smantelarla, ma non viene <lb/>
+prestato fede all’avviso per la commodità, che hanno <lb/>
+di servar anco da quella parte il Rheno, et tener in <lb/>
+maggior contributione le terre di Colonia, se però il volersi <lb/>
+obligar maggiormente quell’Arcivescovo elettore, et gl’stessi Colonesi <lb/>
+non li facesse risolver a questo mantelamento, che viene <lb/>
+tenuto per fermo, che allhora faranno, che le tornerà <lb/>
+più commodo. </p>
+<p>Fatti accorti Spagnoli, et entrati in sospetto dall’ultima uscita del <lb/>
+signor principe d’Oranges, che l’intrapresa fosse sopra la <lb/>
+città di Anversa si erano risoluti di introdur gua-<lb/>
+rigione in quella città, oltre quella, ch’è nel castello; ma <lb/>
+li borghesi si sono mostrati alieni, et contrarii dal <lb/>
+riceverla, onde Spagnoli con cinquecento fanti si sono <lb/>
+messi dentro la casa detta dei Osterlinghi famosa, et <lb/>
+grande situata vicino alla porta, che va a Breda <lb/>
+et viene detto, che hora siano per mandar ad effetto <lb/>
+un già consultato disegno di far quivi, et da essa <lb/>
+casa una nuova cittadella, che tanto più renderà <lb/>
+forte, et sicura dall’invasione, et sorpresa la detta <lb/>
+città di Anversa. </p>
+<p>A’ 18 del presente devono convocarsi in Amsterdam <lb/>
+li aministratori della Compagnia dell’Indie Orientali
+<pb n="452r" facs="11_452r" rend="0"/>
+per trattar il render de’ conti; et come si poteva metter <lb/>
+in mano dei participanti; o restar in mano dei detti <lb/>
+aministratori le mercantie, che al presente si trovano in <lb/>
+esser. Questo negotio dell’Orientali impedisce <lb/>
+quello delle Occidentali con non poco disgusto di quelli, <lb/>
+che amano il ben publico, et che si promettono, che ’l <lb/>
+viaggio di dette Indie Occidentali possi apportar <lb/>
+notabilissimo profitto a queste Provincie in particolare <lb/>
+et all’interesse generale. Quelli, che haverebbono in <lb/>
+animo di contribuire alla spesa non ardiscono, <lb/>
+mentre non veggono, che sia fermato un buon <lb/>
+fondamento, che non sarà così facilmente sin tanto che <lb/>
+non sia data sodisfattione nella materia de’ conti<ptr target="#tn7" n="7"/> alli parti-<lb/>
+cipanti nella Compagnia delle Orientali, per poter <lb/>
+questi più allegramente concorrer alla formatione, <lb/>
+et stabilimento dell’altra. </p>
+<p>Il signor principe Mauritio per gratia di Dio si trova al presente <lb/>
+molto meglio di quello è stato questi giorni a dietro <lb/>
+con tutto ciò non è ancor rinfrancato nel vigore solito <lb/>
+havendo della debolezza assai, et mercordì passato <lb/>
+fu in più travaglioso stato che per avanti; ma sabbato <lb/>
+consolò tutti sendo uscito nel suo giardino, et fuori <lb/>
+anco: non però ha lasciato già mai di negatione, sendo <lb/>
+di tal natura, che se non fa, et vede egli tutto non si sodisfa, <lb/>
+né crede che sia ben fatto. Gratie etc. </p>
+<p>Dall’Haya li 9 genaro 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="452v" facs="11_452v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 457 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="452vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 gennaro 622<ptr target="#tn8" n="8"/>. Ricevute 25 detto </p>
+<p>Haya. n° 457 sola </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "non esser … in Grisoni" is encrypted and has not been deciphered by the secretary.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "principal" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "de’ conti" added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

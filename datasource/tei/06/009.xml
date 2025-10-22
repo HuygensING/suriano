@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.009 date 1618-03-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 61r-64v, 68</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">61r-64v, 67r-68v, 65r-66v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Travelled to Schiedam to see the company of infantry, they will need to be paid on a weekly basis to avoid that they will be disbanned. Travelled onto Amsterdam for the ships, the fleet is being prepared by Van Kerkhoven and should be ready by the end of next week. In amsterdam the admirality of Enkhuizen is looking for a new ship. Suriano needs to travel to Rotterdam to deal with some issues. A ship of Renier Pauw has been confiscated in Naples and letters sent by the States General are attached. Reports he fears a ship is being build for Ossuna, he has altered the States General. One text attached: a letter by Duke of Ossuna</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-03-27">27 marzo 1618</date>
+            <num>020, 021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="020">
+<div type="main" facs="main text of letter" n="020">
+<!--<p>27 marzo 1618, Amsterdam (cc. 61r-64v, 67r-68v)</p>-->
+<pb n="061r" facs="06_061r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 19 fin 20 </p>
+<p>Serenissimo Principe </p>
+<p>doppo esser stato hoggi otto col colonello a Schidam a <lb/>
+dar la mostra ad una delle compagnie d’infanteria <lb/>
+me ne sono passato nella Nortolandia per rasignarne <lb/>
+delle altre come ho fatto, et holle trovate tutte formate, <lb/>
+et compite di cento cinquanta teste. La gente è <lb/>
+buona, et bella; quello mo che mi aggrava, è, che <lb/>
+scorri il tempo della paga in conformità delle <lb/>
+capitulationi del giorno della mostra, onde mi <lb/>
+bisogna andar soministrando di settimana in <lb/>
+settimana denaro per il loro intartenimento<ptr target="#tn1" n="1"/> <lb/>
+affineché le compagnie non si sbandino, o non <lb/>
+succedi qualche inconveniente nelle piazze <lb/>
+sin tanto che coll’aiuto di Dio siano ad ordine <lb/>
+le navi per riceverle, et far vela con esse<ptr target="#tn2" n="2"/>. Per <lb/>
+affrettar questo ho stimata con tal occasione necessaria <lb/>
+et propria la mia venuta in questa città, dando <lb/>
+di tal maniera calore<ptr target="#tn3" n="3"/> all’ispeditione dei <lb/>
+vasselli che sono in queste acque. Ho trovato <lb/>
+che l’amiraglio Kerckoven solecita la provisione
+<pb n="061v" facs="06_061v" rend="0"/>
+de’ viveri, et delle munitioni di guerra, et che per la <lb/>
+fine della presente settimana le navi saranno del <lb/>
+tutto pronte (<ptr target="#tn4" n="4"/>come affermano questi compartecipi <lb/>
+di quelle, che sono alla carica di quest’Amiralità <lb/>
+per armare; et quanto all’altre di Encusen saranno <lb/>
+anc’elle si crede<ptr target="#tn5" n="5"/> ad ordine, et così le tre di <lb/>
+Roterdam, perché io non ho mancato di metter ordine <lb/>
+tale, che spero, che così succederà. Li tre, che l’ami-<lb/>
+ralità di questa città ha deputati per ispedir <lb/>
+per sua parte questi vasselli furono a trovarmi <lb/>
+et habbiamo insieme concertato del giorno del <lb/>
+dar la mostra alli marinari, che anderanno <lb/>
+sopra li detti cinque vasselli, et sarà per lunedì <lb/>
+prossimo, et quel giorno stesso, se ’l tempo servirà <lb/>
+si tireranno verso<ptr target="#tn6" n="6"/> alla bocca del Tessel. Certo io ho <lb/>
+scoperto in questi signori un’ottima volontà verso <lb/>
+il servitio della Serenità vostra adoperandosi con affetto <lb/>
+et solecitando con ogni diligenza per la parte loro <lb/>
+questo preparamento. Io per corrisponder in qualche
+<pb n="062r" facs="06_062r" rend="0"/>
+parte alla loro buona volontà li invitai hieri a desinar <lb/>
+meco di che restorono con gusto. Queste sono anco spese <lb/>
+ma sono proprie, et dirò necessarie in questi paesi per <lb/>
+avanzar li negotii, et chi non seguita l’humore non <lb/>
+ha così facile, né pronta la riuscita. Oltre li quattro <lb/>
+pezzi di bronzo, che scrissi riverentemente alla Serenità vostra <lb/>
+colle mie de’ 18 n° 16 fino 18 che vengono replicate <lb/>
+aggiunte alle presenti, ho fatto ogni ufficio con questi <lb/>
+tre signori per haverne delle altre, et m’hanno parlato <lb/>
+in maniera, che ho qualche speranza, che mi <lb/>
+aggiungano ancor<ptr target="#tn7" n="7"/> altri pezzi sopra l’altre quattro <lb/>
+navi; perché li quattro sudetti sono destinati per <lb/>
+la nave San Marco, che sarà l’amiraglio; et questo <lb/>
+servirà anco d’essempio alle altre Amiralità di <lb/>
+far forse il medesimo. Ad Encusen ho scritto in questo <lb/>
+particolare, et scritto anco a Roterdam, ove dovendo <lb/>
+conferirmi dimani anco presentialmente tanto più effica-<lb/>
+cemente sarà da me fatto l’ufficio. Devo andar <lb/>
+a Roterdam per far che quei signori faccino immediate
+<pb n="062v" facs="06_062v" rend="0"/>
+ispedir<ptr target="#tn8" n="8"/> li loro tre capitani. Uno doverà imbarcar le <lb/>
+sue vettovaglie sopra la Moza, essendo arrivato <lb/>
+là il vassello sopra il quale doverà egli, et le sue <lb/>
+genti imbarcarsi, et gl’altri doi transportar<ptr target="#tn9" n="9"/> di qua <lb/>
+tutto: poiché essendo obligati doi vasselli di andar <lb/>
+anc’essi alla Mosa, né essendo ancor partiti da <lb/>
+queste rive troppo perdita di tempo sarebbe stata <lb/>
+poiché bisognava che andassero in Tessel, et di là <lb/>
+aspettar il tempo di uscire per entrar nella Mosa. <lb/>
+Io per tanto ho stimato bene<ptr target="#tn10" n="10"/> stabilir colli <lb/>
+participanti, che non vadino là, ma da questa <lb/>
+parte habbino a ricever il loro carico, et essi l’hanno <lb/>
+fatto volontieri per fuggir il pericolo a che <lb/>
+soggiacevano nell’uscir, et nell’entrar dei porti, <lb/>
+et per questo anco si rilasciano dall’accordo di noleggio <lb/>
+fatto di seicento fiorini per uno per tutti li sei mesi <lb/>
+che sono assicurati di servitio. </p>
+<p>Al mio arrivo in questa città trovai doi dell’amiralità <lb/>
+d’Encusen, che erano venuti per pigliar un altro
+<pb n="063r" facs="06_063r" rend="0"/>
+vassello, havendo scoperto, che uno delli quattro della <lb/>
+loro ripartitione non era sufficiente per portar viveri <lb/>
+munitioni, et soldatesca, et marinari in quella quantità <lb/>
+che era necessaria a proportione della compartita <lb/>
+fatta per le altre. Anzi di più il Luz che mandai <lb/>
+ad Encusen trovò oltre il sudetto mancamento <lb/>
+che ’l vassello era vecchio di dodici anni, onde <lb/>
+ho risoluto di pigliarne uno qui di 260 lasti in circa<ptr target="#tn11" n="11"/> che ancor è stato <lb/>
+a partito di noleggio; ma non si puote per allhora <lb/>
+accordare volendo haver più che doi milla, et <lb/>
+seicento fiorini, et hora, vedendo, che gl’altri fanno <lb/>
+il viaggio si è contentato di lasciarsi condurre con <lb/>
+doi milla quattrocento fiorini per mese. Ha havuta la <lb/>
+carena, è totalmente calafatrato, et per sabbato <lb/>
+sarà pronto del tutto con li alloggiamenti per li soldati <lb/>
+et per marinari, et d’ogni altra commodità per <lb/>
+andar ad Encusen a ricever il suo carico. </p>
+<p>Tutte queste cose mi sono successe, et vado superando <lb/>
+a passo a passo le difficoltà, che si vanno
+<pb n="063v" facs="06_063v" rend="0"/>
+incontrando, né intermetterò fatica, o diligenza per venir <lb/>
+a buon fine di questo negotio. </p>
+<p>Hanno havuto avviso qui dell’arresto, che a Napoli ha<ptr target="#tn12" n="12"/> <lb/>
+fatto fare quel vostro Re d’un bellissimo vassello, onde <lb/>
+li participanti di questo, et d’altri, che stano tuttavia <lb/>
+sequestrati<ptr target="#tn13" n="13"/> hanno fatto ricorso alli signori Stati Generali <lb/>
+si sono doluti, et hanno cavate le lettere del tenore, <lb/>
+che l’Eccellenze vostre intenderanno dall’aggiunta traduttione, <lb/>
+che pare a me<ptr target="#tn14" n="14"/> siano assai risolute nel dire, tutto starà <lb/>
+nell’effetto, quando il vostro Re non habbi volontà <lb/>
+di assentir all’instanza dei signori Stati; se bene <lb/>
+hieri uno di questi signori dell’Amiralità mi disse<ptr target="#tn15" n="15"/>, che <lb/>
+erano risoluti di non tolerar più tanta insolenza, <lb/>
+ma<ptr target="#tn16" n="16"/> risarcirsi in qualche maniera contra la flotta <lb/>
+di Spagna; asserendo che se contra i patti, et gl’ordi[ni] <lb/>
+della tregua Spagnoli si fanno lecito di far quello, che <lb/>
+vogliono, né il loro interesse, né la riputatione di questi <lb/>
+paesi comportava, che si stasse sempre aspettando <lb/>
+nuove ingiurie. Se tutti parlassero di questa maniera
+<pb n="064r" facs="06_064r" rend="0"/>
+si potrebbe sperar maggior bene da questa parte. <lb/>
+Le lettere partiranno coll’ordinario d’hoggi per Italia, <lb/>
+et di costì saranno immediate ispedite per Napoli. </p>
+<p>Non lasciando d’indagar per ogni stradda quello che <lb/>
+possi operar il vostro re di Napoli, nel far preparatione <lb/>
+de’ vasselli da questa parte, ho cavato esservi <lb/>
+sospetto, che qui fabrichi un vassello per il detto <lb/>
+vostro Re, et che deve esser pronto per la fine <lb/>
+di maggio prossimo. Non è fuori<ptr target="#tn17" n="17"/> la voce<ptr target="#tn18" n="18"/> ferma, <lb/>
+perché quello, che lo fa fabricare, dice, che lo fa per lui: <lb/>
+tuttavia la suspettione resta; et io supra questo <lb/>
+fondamento, tal quale egli si sia, ho fatto efficace <lb/>
+ufficio con questi signori dell’Amiralità a fine che <lb/>
+habbino l’attentione, né lascino, che prosegui <lb/>
+l’effetto a favore del detto vostro Re mi hanno promesso <lb/>
+che non mancaranno, et a tempo troveranno mezo <lb/>
+di vietar, che non habbi la Serenità vostra pregiudicio né <lb/>
+per questo, né per altro, che potesse farsi di più <lb/>
+mentre massime questi giorni passati si è sussurato
+<pb n="064v" facs="06_064v" rend="0"/>
+che Spagnoli voglino haver libertà, come la Serenità vostra ha havuta <lb/>
+di armar vasselli da questa parte; a che rispondono <lb/>
+et dicono questi mercanti, che allhora si penserà <lb/>
+di darli sodisfattione quando precedi il risarcime[nto]<ptr target="#tn19" n="19"/> <lb/>
+de’ danni patiti da questi popoli, et dal Paese <lb/>
+nell’arresto tante volte fatto de’ loro vasselli. </p>
+<p>Anco in questo haverò particolar pensiero di tenir <lb/>
+avvertiti, et solecitati li signori Stati Generali perché <lb/>
+mirino a divertir il pregiudicio, che può ricever <lb/>
+da simil tentationi la serenissima Republica. Gratie etc. </p>
+<p>Da Amsterdam a’ 27 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="067r" facs="06_067r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="067v" facs="06_067v" rend="270"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="068r" facs="06_068r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="068v" facs="06_068v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 19 fin 20 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="020">
+<!--
+<p n="068vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 marzo 1618 ricevute 11 april </p>
+<p>Haia. n° 19 fin 20. Prima </p>
+<p>Ha rasegnato al quante compagnie <lb/>
+formate di 150 teste l’una. <lb/>
+Buona gente. </p>
+<p>Come la paga: li va sommini-<lb/>
+strando di settimana in settimana denaro <lb/>
+finché le navi siano ad ordine. </p>
+<p>Ha stimato bene andar in Amster-<lb/>
+dam per procurar l’espeditione. </p>
+<p>Spera alla fine della settimana <lb/>
+saranno ad ordine. </p>
+<p>Ha concertato il Capitano per la mostra <lb/>
+di marinari: ha trova in <lb/>
+quei signori prontezza. </p>
+<p>2. Ha fatto ufficio per haver artell(ari)a <lb/>
+di bronzo: ha speranza: ha <lb/>
+scritto di ciò a Rocerdam<ptr target="#tn20" n="20"/> Encusen <lb/>
+et farà anco ufficio con i signori. </p>
+<p>Anderà a Roterdam per l’espeditione <lb/>
+dei 3 capitani: dà conto di luoghi dove doveranno caricar la mesa e genti. </p>
+<p>Quelli d’Encusen hanno accordato <lb/>
+un altro vassello essendosene scoperto <lb/>
+uno inhabile. </p>
+<p>3. Sopra l’aresto di vassello fatto <lb/>
+a Napoli hanno servito<ptr target="#tn21" n="21"/> quei signori <lb/>
+manda copia delle lettere. </p>
+<p>Sospetto di vassello che si fabrichi <lb/>
+per Napoli: ha fatto ufficio però<ptr target="#tn22" n="22"/> coi signori <lb/>
+et ne ha havuto buona risposta. </p>
+<p>L. SS. R. </p>
+<p n="068vD">———</p>
+<p>pretensione di Spagnoli di armar <lb/>
+vasselli da quella parte. </p>
+<p>Risposta che se li fa di <lb/>
+sadisfarli quando si rifacino <lb/>
+i danni delli<ptr target="#tn23" n="23"/> aresti fatti. </p>
+<p>Haverà pensiero di tener <lb/>
+avertiti sopra ciò i signori Stati. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="021" corresp="020" source="65r-66v" >
+<div type="main" facs="main text of attachment I" n="021" corresp="020" >
+<!--<p>Allegato I al n. 20 (cc. 65r-66v)</p>-->
+<pb n="065r" facs="06_065r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettera delli signori Stati Generali al signor duca di Ossuna </p>
+<p>Illustrissimo et valorosissimo signore ci è stato significato da Adrian <lb/>
+Pavoni consigliero, et pensionario della città di Amsterdam <lb/>
+tanto per il suo particolar interesse, che per parte dei <lb/>
+participanti, et patroni del vassello di Folcart Fancx<ptr target="#tn24" n="24"/> <lb/>
+che esso supplicante con diverse lettere del detto mari-<lb/>
+naro, et del suo commesso scritte da Napoli è avvertito, <lb/>
+che vostra Eccellenza non solamente<ptr target="#tn25" n="25"/> haveva fatto arrestar<ptr target="#tn26" n="26"/> <lb/>
+costì il detto marinaro con il suo vassello, et mer-<lb/>
+cantie; sotto pretesto, che doveva servir il re di <lb/>
+Spagna; anzi haveva in luoco di accomplir la <lb/>
+sua promessa di rilasciarlo fatto constituir prigioniero <lb/>
+il suo pilota, come anco egli medesimo sarebbe stato preso <lb/>
+se non havesse data cautione, tolte via, et levate <lb/>
+le vele della nave; havendo vostra Eccellenza per questa <lb/>
+maniera di proceder reso inutile, et<ptr target="#tn27" n="27"/> danneggiata <lb/>
+una gran parte della sua vettura, che consiste in <lb/>
+trafico<ptr target="#tn28" n="28"/>, et mercantie che possono perire, et <lb/>
+guastarsi, et destinate altrove, che per Napoli <lb/>
+di maniera che questo non riviene solamente a gran <lb/>
+lesione, et perdita del detto marinaro, et dei suoi
+<pb n="065v" facs="06_065v" rend="0"/>
+patroni, et portionevoli; ma anco a grandissimo pregiudicio<ptr target="#tn29" n="29"/>, et <lb/>
+dishonor di questi paesi, il che considerato, et che ’l <lb/>
+detto marinaro, et suoi patroni hanno intrapreso <lb/>
+questo viaggio fondati sopra il trattato della tregua <lb/>
+et sopra la fede publica, ch’è stata data, ratificata, <lb/>
+et giurata dall’una, et l’altra parte, hanno <lb/>
+ricercate nostre lettere di favore, et raccomandatione a <lb/>
+vostra Eccellenza per la ricuperatione del detto vassello<ptr target="#tn30" n="30"/> con <lb/>
+la riparatione della loro perdita, et danno; <lb/>
+le quali noi non habbiamo potuto rifiutarli massime <lb/>
+in cosa tanto giusta, piena di equità, et ragio-<lb/>
+nevole. Ricercamo, et pregamo in tanto illustrissimo signore <lb/>
+che considerando il grandissimo torto, et danno <lb/>
+che per ordine di vostra Eccellenza è stato fatto con l’arresto del <lb/>
+detto marinaro, et suo vassello ad esso medesimo marinaro <lb/>
+et alli suoi portionevoli, et patroni, et la violatione <lb/>
+del detto trattato di tregua, et fede publica; piacerà <lb/>
+alla medesima Eccellenza farlo prontamente rilasciare con <lb/>
+la sua nave, et ripararlo della perdita, et danno <lb/>
+patito, come si conviene, et noi interamente se ne
+<pb n="066r" facs="06_066r" rend="0"/>
+confidamo, perché altrimenti, et in che vi sarà fallo <lb/>
+noi saremo sforzati, et ci sarà data occasione <lb/>
+di usar, et risolver altri mezi per far riparar <lb/>
+il torto, che si fa a questi paesi, et alli suoi buoni <lb/>
+habitanti, particolarmente nelle piazze, et quartieri <lb/>
+dove<ptr target="#tn31" n="31"/> succede<ptr target="#tn32" n="32"/> il danno. Di che noi habbiamo <lb/>
+ben voluto avvertirne vostra Eccellenza massimamente perché <lb/>
+la sua reale maestà di Spagna ci ha fatto saper <lb/>
+con sue lettere espresse scritte poco tempo fa alli <lb/>
+serenissimi arciduchi, che non saranno fatti più simili <lb/>
+arresti. Il che<ptr target="#tn33" n="33"/> attendendosi da noi in questo mentre <lb/>
+pregaranno il Creatore </p>
+<p>illustrissimo et valorosissimo Signore di voler conservar, et mantener <lb/>
+la persona di vostra Eccellenza in una perfettissima<ptr target="#tn34" n="34"/> sanità, et <lb/>
+lunghissima vita de l’Haya a’ 21<ptr target="#tn35" n="35"/> marzo 1618 </p>
+<p>di vostra Eccellenza ben affettionati amici </p>
+<p>li Stati Generali de’ Paesi Bassi Uniti </p>
+<p>A tergo </p>
+<p>all’illustrissimo e bellicosissimo signore il signor </p>
+<p>duca di Ossuna </p>
+<pb n="066v" facs="06_066v" rend="270"/>
+<p>Lettera al duca di Usuna </p>
+<p>nella prima<ptr target="#tn36" n="36"/> n° 19 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "certo" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "qu-" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ed-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "-si" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "così" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "di … circa" added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "se-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "a me" added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "-ro" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes "et" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> There is a hole in the page.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "non" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Second "-i-" is the result of a correction.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-o" corrected above "-i."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "questo" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-e" is the result of a correction; followed by "-rà" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "-rf-" is the result of a correction.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "-1" is the result of a correction.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "pr-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

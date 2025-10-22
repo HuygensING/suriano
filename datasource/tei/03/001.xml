@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.001 date 1616-10-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 5r-9v, 13r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">1r-4v, 5r-9v, 13r-v, 10r-12v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has reached an agreement with Johan Ernst of Nassau on the conditions which has been approved by the States General. Before going to the assembly of the States General he visited first Maurice and then Oldenbarnevelt for their support. He has visited the Louise de Coligny as she wants to support a company to fight in Venice. The translated agreement and the response by the States General are send in attachment. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-02">2 ottobre 1616</date>
+            <num>001, 002, 003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="001" corresp="002" source="1r-4v" >
+<div type="main" facs="main text of attachment I" n="001" corresp="002" >
+<!--<p>Allegato I al n. 2 (cc. 1r-4v)</p>-->
+<pb n="001r" facs="03_001r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Havendo il signor conte Gio. Ernesto di Nassau li giorni passati <lb/>
+fatto offerta al clarissimo signor Christofforo Suriano secretario della serenissima <lb/>
+republica di Venetia residente per essa appresso li signori Stati Generali <lb/>
+dello Provincie Unite de’ Paesi Bassi di andar in persona al servitio <lb/>
+di detta serenissima Republica colla condotta di quel numero di genti da <lb/>
+piedi, che fusse stabilita et aggradita da sua Serenità, alla quale <lb/>
+havendo il medesimo signor secretario rappresentato il tutto, et mandate <lb/>
+diverse conditioni, colle quali il detto signor Conte intendeva, et s’obli-<lb/>
+gava di passar a quel servitio, col ritorno della risposta esso <lb/>
+signor secretario facendo per nome della detta serenissima Republica et detto signor <lb/>
+Conte per nome de sé stesso, hanno insieme concluso et stabilito <lb/>
+gl’articoli, conditioni et oblighi reciprocamente come segue. </p>
+<p>1. Che ’l detto signor Conte si obliga di condur al servitio della serenissima <lb/>
+republica di Venetia tre milla cento fanti da piedi da buoni, <lb/>
+vecchi, et esperimentati soldati, per poterne formar doi reggi-<lb/>
+menti interi, de’ quali soldati tutti la Republica se ne posse valere <lb/>
+o unitamente o in luoghi separati<ptr target="#tn1" n="1"/>, o per terra, o per mare, se-<lb/>
+condo che richiedessero le occorrenze del servitio di detta serenissima <lb/>
+Republica. </p>
+<p>2. Che sapendosi l’honore, et la carica, che ha havuto et ha tutta-<lb/>
+via esso signor Conte nell’armata de’ signori Stati Generali haverà <lb/>
+sopra essi tre milla cento soldati l’assoluto commando, et parimente
+<pb n="001v" facs="03_001v" rend="0"/>
+non haverà a ricever alcun’ordine, et commandamento, che dal <lb/>
+Senato, overo dal Generalissimo, o providitori generali, et quando <lb/>
+le truppe saranno in guarnigione lo riceveranno dalli rettori <lb/>
+delle città, o piazze di detta Republica. </p>
+<p>3. Doverà ridur questo numero di tre milla cento fanti a cento <lb/>
+cinquanta teste per compagnia, conforme all’uso de’ Paesi <lb/>
+Bassi eccetto le compagnie colonelle, che saranno di doi cento <lb/>
+teste, et per tanto per ogni compagnia di cento cinquanta <lb/>
+fanti doverà haver milla cento cinquanta ducatoni, o scudi <lb/>
+da lire sette l’uno venetiane. </p>
+<p>4. Il signor Conte intraprenderà la provisione per le detti truppe de’ <lb/>
+vasselli, et la Signoria gli farà haver per ciaschedun vassello in <lb/>
+ragione di sei milla fiorini, et doveranno esser quindeci vas-<lb/>
+selli, che verrà la summa a montar novanta milla fiorini di <lb/>
+questo Paese; sessanta mille de’ quali doverà esso signor Conte <lb/>
+ricever qui presentemente, et li restanti trenta mille al suo <lb/>
+arrivo a Venetia o nello stato di sua Serenità. </p>
+<p>5. Et stante che converranno farsi eccessive spese per la levata <lb/>
+delle truppe doverà il signor Conte haver dalla serenissima Republica per <lb/>
+ciaschedun soldato quattordeci fiorini di questo Paese il <lb/>
+tutto in denari contanti, intendendo espressamente che non habbi la </p>
+<pb n="002r" facs="03_002r" rend="0"/>
+<p>Republica a ribattargli alcuna cosa di questo avanzo. </p>
+<p>6. Et affine di prevenir alli disordini in conformità dell’instanza <lb/>
+del detto signor Conte che vi sia un commissario, che tenga piena, et <lb/>
+intera auttorità di darla nostra alle truppe, et pigliarle in giu-<lb/>
+ramento il medesimo signor secretario Suriano haverà ad haver <lb/>
+questa carica, con libertà di poter rifiutar quei soldati, che da <lb/>
+lui non fossero stimati proprii al servitio del suo Principe. </p>
+<p>7. Doverà la paga et il soldo tanto per gl’officiali in generale, <lb/>
+che de’ soldati cominciar a correr dal giorno della detta mostra <lb/>
+et imbarco in tutto et per tutto conforme all’uso, et pagamento delli <lb/>
+Svizzeri senza alcuna contraventione, o eccettione; intendendo, che <lb/>
+debbino li sudetti ricever il giorno della mostra un mese di paga <lb/>
+per potersi sostentare; et con questo il detto signor Conte prenderà a <lb/>
+suo carico di proveder le truppe delli viveri necessarii, et di con-<lb/>
+segnarle senz’altra spesa della serenissima Republica. </p>
+<p>8. Il signor Conte invierà la genti colle vasselli a parte<ptr target="#tn2" n="2"/> a parte per far <lb/>
+anco più espeditamente la levata overo unitamente secondo che sarà <lb/>
+informato dall’amiralità di Amsterdam alla quale farà capo. <lb/>
+Per tanto se succedesse qualche perdita delle detti genti per fortuna <lb/>
+di mare, o per rincontro da qualche galere, et vasselli nemici; <lb/>
+overo per qualche altri impensato disturbo<ptr target="#tn3" n="3"/>, il signor Conte intende, <lb/>
+che sia per ridondar a danno della Republica; non intendendo
+<pb n="002v" facs="03_002v" rend="0"/>
+egli nella mostra che sarà fatta a Venetia o nello Stato quando <lb/>
+arriverà esser obligato a presentar in esso tutto il compito numero <lb/>
+stabilito delli tre mille cento fanti, che deve levare et haveranno <lb/>
+passata la mostra quando quelle per gl’accidenti, com’è detto <lb/>
+del viaggio o di morte o di altro rancontro fossero mancati; et <lb/>
+toccarà a sua Serenità arrivata la soldatesca farle dar la mostra <lb/>
+et pagar il mese per il numero che sarà trovato in essa mostra. </p>
+<p>9. Et perché esse truppe siano ben armate come è mente della serenissima <lb/>
+Republica doverà il signor Conte far qui privisione dell’armi, et per <lb/>
+tanto doverà egli per farne la compreda haver prestanza di <lb/>
+vinti quattro milla di questi fiorini da esser rebatuti da esso <lb/>
+signor Conte nelle sue paghe fino al terzo et quarto mese. </p>
+<p>10. Et come questo viaggio è accompagnato da gran spese, in commodità, <lb/>
+et difficoltà, come ciò si può assai facilmente considerare, particolarmente <lb/>
+conoscendosi la distanza che vi è di qui a Venetia si obliga <lb/>
+la serenissima Signoria continuar nel suo servitio tutte esse truppe per <lb/>
+sei mesi doppo che le genti saranno desimbercate nel dominio <lb/>
+di sua Serenità, quando però non volesse la Republica servirsi passato <lb/>
+il detto tempo di sei mesi della persona sua, et parimente delle <lb/>
+sue truppe, nel che il signor Conte si rimetterà in tutto alla buona <lb/>
+volontà, piacere, et dipositione<ptr target="#tn4" n="4"/> della Signoria. </p>
+<p>11. Et occorrendo, che gl’affari, et differenze di sua Serenità si conducessero
+<pb n="003r" facs="03_003r" rend="0"/>
+alla pace, et essendo scorso il tempo per il quale il detto signor <lb/>
+Conte con le sue genti si sarà obligato non volendo la serenissima <lb/>
+Republica più servirsi di esse genti provederà prontamente et senza in-<lb/>
+dugio per la retirata a ciascun officiale, et soldato di un mese <lb/>
+et mezo di paga, considerandosi che la detta retirata è molto <lb/>
+lunga, di pena, et pericolosa.</p>
+<p>12. Intorno al trattamento delli colonelli, et officiali, sarà (conforme <lb/>
+del desiderio del signor Conte) osservato con essi lo stesso, che con <lb/>
+Svizzeri, et alla sua persona all’incontro come Generale di dette <lb/>
+truppe, il qual pagamento egli intende di dover ricever, et <lb/>
+insieme il pagamento di tutte le sue genti precisamente di mese <lb/>
+in mese senza altro dilatione né eccettione. </p>
+<p>13. Le quali conditioni accordate, et ratificate, il detto signor Conte si obliga <lb/>
+di prender l’armi per servire egli, et le sue truppe la serenissima Republica <lb/>
+contra qualunque si sia, et in ogni luoco, com’è detto di sopra, <lb/>
+promettendo, et assicurando essa serenissima Republica che havendo <lb/>
+maggior commodità et favore di far questo (senza iatanza) <lb/>
+di qual si sia altro che potesse rappresentarsi, che li condurrà <lb/>
+truppe formate di buoni, et vecchi soldati compitamente armati, <lb/>
+ben isperimentati et essercitati nell’ordine, et disciplina <lb/>
+militare, da’ quali quella Republica ne riceverà ogni buon ser-<lb/>
+vitio, et ogni bramata sodisfattione, come il detto signor Conte <lb/>
+farà apparer all’occasioni, che si potranno offerire, le
+<pb n="003v" facs="03_003v" rend="0"/>
+quali egli abbraccierà con tanto cuore, prontezza, affetto <lb/>
+et fede, quanto la Signoria potrebbe promettersi, et sperare da <lb/>
+qual si sia. </p>
+<p>14. La durata et imbarco delli qual tutti tre milla cento fanti farà, <lb/>
+che sia pronta per la metà incirca del mese di novembre <lb/>
+prossimo, et anco più presto se sarà possibile per far a drittura <lb/>
+il viaggio al servitio della serenissima Republica, et sbarcar nel suo dominio, <lb/>
+ove ella stimerà più a proposito. </p>
+<p>Quanto allo stipendio per la sua persona si dichiara che havendo <lb/>
+intrapreso questo servitio col fine d’honore, et d’acquistar maggior <lb/>
+riputatione anco sotto l’insegne della serenissima Republica, se rimette in ciò <lb/>
+alla prudenza di lei, promettendosi dalla sua munificenza ogni <lb/>
+più gratiosa dimostratione, et che sia sua Serenità per mostrar con effetti <lb/>
+d’aggradire<ptr target="#tn5" n="5"/> la prontezza del suo servitio. </p>
+<p>Et perché non ha il signor Conte espresso nelle conditioni che mandò <lb/>
+il detto signor secretario Suriano a Venetia per nome suo il trattamento <lb/>
+degl’officiali principali necessarii al Colonellato si come il detto <lb/>
+signor Conte si è rimesso per il suo intartenimento<ptr target="#tn6" n="6"/> alla discretione et <lb/>
+prudenza della serenissima Republica, così rimette anco il medesimo nella stessa <lb/>
+maniera et alla stessa prudenza et discretione di lei, assicurandosi <lb/>
+colla parola del medesimo signor secretario che li detti officiali saranno trattati <lb/>
+ragionevolmente et come si conviene considerata la longhezza del viaggio, <lb/>
+la qualità dei sogetti, et il devoto affetto col quale concorrono <lb/>
+ad andar al servitio di quella serenissima Republica. </p>
+<pb n="004r" facs="03_004r" rend="0"/>
+<p>Per essecutione, et manutentione di quanto è detto di sopra le <lb/>
+presenti saranno sottoscritte per parte della serenissima Republica dal su-<lb/>
+detto signor secretario Suriano di mano propria et sigillate col sigillo <lb/>
+publico ordinario di san Marco, et per detto signor Conte da lui me-<lb/>
+dessimo, che per ciò obliga sé stesso et tutti li suoi beni presenti <lb/>
+et futuri, come confermerà con sua mano, et fermerà col <lb/>
+sigillo dela sua casa, et queste serviranno ad esso signor Conte <lb/>
+per sua commissione della levata delli sudetti tre milla cento <lb/>
+fanti, et doverà valere tanto quanto venisse dalla mano <lb/>
+di sua Serenità. </p>
+<p>Data nell’Haya a primo<ptr target="#tn7" n="7"/> ottobre<ptr target="#tn8" n="8"/> 1616 </p>
+<p>Io Cristofforo Suriano secretario della serenissima <lb/>
+republica di Venetia et residente appresso li Stati <lb/>
+Generali de’ Paesi Bassi affermo quanto <lb/>
+di sopra. </p>
+<p>Jean Ernerst de Nassau <lb/>
+affermo quanto di sopra. </p>
+<p><metamark facs="Traces of seals"/></p>
+<pb n="004v" facs="03_004v" rend="90"/>
+<p>Capitulatione col signor conte Gio. Ernesto di Nassau </p>
+<p>Nelle prime </p>
+</div>
+</div>
+<div type="letter" n="002">
+<div type="main" facs="main text of letter" n="002">
+<!--<p>2 ottobre 1616, L’Aia (cc. 5r-9v, 13r-v)</p>-->
+<pb n="005r" facs="03_005r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>ho conclusa col signor conte Gio. Ernesto di Nassau la condotta <lb/>
+desiderata dalla Serenità vostra, et ho ottenuta dalli signori Stati <lb/>
+la licenza per la persona sua, et la levata, com’ella <lb/>
+vedrà dall’aggiunta deliberatione delli medesimi <lb/>
+Stati tradotta da me nell’italiano. Le conditioni fer-<lb/>
+mate col signor Conte saranno pur con queste sono scritte <lb/>
+et sigillate da esso, et da me. </p>
+<p>Subito, che mi venero le lettere de’ 19 del passato diedi <lb/>
+principio a trattare: in quel mentre m’arrivò [il corriero]<ptr target="#tn9" n="9"/> <lb/>
+straordinario Zupponi, che per haver fatto il viaggio per <lb/>
+la via de’ Grisoni, et Svizzeri, et per Lorena, come <lb/>
+più lunga, che quella d’Augusta non arrivò che <lb/>
+lunedì passato, portandomi le risolute commissioni <lb/>
+della Serenità vostra nelle sue de’ 25. Ero già innanti <lb/>
+colla trattatione la quale fu terminata mercoledì. </p>
+<p>Il giovedì fui nell’assemblea de’ signori Stati; ma prima <lb/>
+di andarvi feci capo col signor principe Mauritio <lb/>
+per assicurarmi di non haver ad incontrar negativa <lb/>
+presentai a sua Eccellenza le lettere della Serenità vostra, le quali <lb/>
+havend’ella consigliato, et disposto si può dir tutte <lb/>
+le cose, le hanno servito più di complimento [che]
+<pb n="005v" facs="03_005v" rend="0"/>
+di necessaria instanza; così ha con alcune gratiose parole <lb/>
+voluta ella inferire. Andai poi all’avocato Bernvel <lb/>
+che<ptr target="#tn10" n="10"/> si prese il carico <lb/>
+di disponer gl’humori alla sodisfattione dell’instanza <lb/>
+tanto operò sua Eccellenza et il signor Vandermil, che fu ambasciatore a vostra <lb/>
+Serenità, il qual ha havuto parte in questo affare; in maniera <lb/>
+che assicurato assai feci dimandar l’audienza. </p>
+<p>In essa diedi conto de’ felici progressi di vostra Serenità, della <lb/>
+maniera, et delli artificii con che si pratica di avan-<lb/>
+taggiar nelle trattationi con lei, et del poco inditio <lb/>
+che si dà dal canto d’arciducali di voler la pace, <lb/>
+et che queste cose l’induceva necessariamente a pensare <lb/>
+a’ suoi interessi, et a provedersi; che per tanto <lb/>
+havendo intesa da me l’offerta del signor conte Gio. Ernesto <lb/>
+m’haveva<ptr target="#tn11" n="11"/> commandato di trattare, et concluder <lb/>
+seco nel miglior modo; il che espresso con quella <lb/>
+maniera che mi fu somministrata più propria <lb/>
+dalla mia debolezza, richiesi la licenza per lui, et la <lb/>
+permissione per la levata. Il signor Bernvel per nome di <lb/>
+tutta l’assemblea rispondendo con parole generali <lb/>
+ringratiò della confidenza, si rallegrò de’ felici
+<pb n="006r" facs="03_006r" rend="0"/>
+progressi, mostrò che da gl’andamenti passati, et da gl’essempii <lb/>
+presenti pur troppo si vedevano gl’artifici drizzati <lb/>
+contra la ragione della Serenità vostra. Laudò la prudenza <lb/>
+di lei di procurar la sicurtà propria; et prese tempo et per nome della medesima assemblea a pensar sopra <lb/>
+quanta haveva richiesto: non fu però lasciato <lb/>
+di addimandarmi armi intorno a’ particolari delle con-<lb/>
+ditioni della condotta; et restorono sodisfatti della <lb/>
+risposta, che loro diedi. </p>
+<p>Seppi, che ’l concorso nel compiacer vostra Serenità fu unanime <lb/>
+ma vi fu da dire intorno all’haver il signor Conte trattato <lb/>
+meco senza previa permissione delli signori Stati. La quale <lb/>
+appositione fu immediate risoluta dal signor Bernvel <lb/>
+col primo capitolo della propositione del signor conte <lb/>
+che era, che niente fosse fatto senza il consenso de’ <lb/>
+signori Stati. </p>
+<p>Chiamorono la mattina seguente, che fu venerdì esso <lb/>
+Conte, vollero veder tutti gl’articoli accordati, et fu <lb/>
+trattenuto nel farlo discorrer, et dar conto d’ogni <lb/>
+particolare di essi quasi per doi hore. Tutto piacque; <lb/>
+ma furono raccordati li doi punti, che sono
+<pb n="006v" facs="03_006v" rend="0"/>
+messi nel fine della deliberatione l’uno per la retirata <lb/>
+sicura della soldatesca licentiata l’altro dell’interramento <lb/>
+de’ morti. Non mi fu essa deliberatione portata che <lb/>
+hieri alle tre hore della notte. Anco al signor Conte è <lb/>
+stato risposto in scrittura; ma per anco non l’ha havu[ta]<ptr target="#tn12" n="12"/> <lb/>
+et in essa oltre li doi punti sudetti ve ne sono doi <lb/>
+altri, che se gli commette d’haverli per raccommandati <lb/>
+l’uno di non far cosa, che possi esser contraria, et <lb/>
+pregiudicar a questi Stati; l’altro che non <lb/>
+havendo fatta mentione nel capitulato de’ predi-<lb/>
+canti debba haver pensiero sopra ciò; haverebbono <lb/>
+voluto che con gl’altri mettesse anco questo capitolo in <lb/>
+particolare. Di ciò mi fu per modo di discorso tratto <lb/>
+moto; ma a chi me ne parlò dissi, che bastava assai <lb/>
+che quello che si accostuma con Svizzeri, et Grisoni <lb/>
+tanto si sarebbe accostumato anco con queste genti <lb/>
+et stando fermo in questo non mi è stato detto di vantaggi. </p>
+<p>Non posso esprimer alla Serenità vostra con quanto gusto, et con <lb/>
+quanto contento sia stata intesa<ptr target="#tn13" n="13"/> <lb/>
+dalla più gran parte di questi popoli tal condotta, <lb/>
+et la riputatione che vostra Serenità ne viene con essa ad acquistare
+<pb n="007r" facs="03_007r" rend="0"/>
+è grandissima; mostrando ognuno all’incontro di <lb/>
+credere, che questo habbi a servire per mezo di <lb/>
+stringer maggiormente l’unione, et l’amore tra vostra Serenità <lb/>
+et questi Stati; et che nell’avenire habbi a passar <lb/>
+una reciproca buona corrispondenza et intelli-<lb/>
+genza con li soliti mezi di ambascieria o resi-<lb/>
+denza; il che vo sempre scoprendo passar per la <lb/>
+mente di molti. </p>
+<p>Poiché veggo tanta dispostezza di animo in questi <lb/>
+signori verso vostra Serenità, et di coadiuvar alla sodisfattione <lb/>
+sua, et assistere credo che s’ella vorrà più l’haverà <lb/>
+sia de’ vasselli di guerra, o d’altra quantità di <lb/>
+gente del che compiacendosene la Serenità vostra potrà <lb/>
+immediate ispedirmene il commandamento: perché nel signor <lb/>
+Conte non troverà al certo se non prontezza d’effet-<lb/>
+tuare; come egli si assicura anco dal canto <lb/>
+delle Signorie vostre eccellentissime che hora, che ha dedicato se <lb/>
+stesso al suo servitio non vorranno, che passino <lb/>
+alcune di queste genti, che sotto alla sua insegna <lb/>
+et m’ha pregato di scriver alla Serenità vostra questo <lb/>
+particolare mostrando affetto, et desiderio grandissimo
+<pb n="007v" facs="03_007v" rend="0"/>
+di esserne assicurato. </p>
+<p>Il contento, et il gusto che ha questo signore dell’esser condotto <lb/>
+a’ suoi servitii è così grande, che niente più. Mi ha <lb/>
+affermato, che niuna cosa haverà più a cuore, <lb/>
+che a farsi honore, il che spera colla prontezza <lb/>
+che professa del suo buon animo, se lo promette <lb/>
+dalla condotta che farà di buone genti; et ha <lb/>
+speranza che vostra Serenità haverà al servitio suo militia <lb/>
+che ne resterà contentissima. Io lo vado inanimando <lb/>
+a corrisponder a quei<ptr target="#tn14" n="14"/> buoni concetti, che ho<ptr target="#tn15" n="15"/> sparsi <lb/>
+di lui, li quali partoriscono nelle Signorie vostre eccellentissime <lb/>
+desiderio grande di vederli quanto più presto <lb/>
+in quei mari, et metter piedi a terra per far <lb/>
+apparer anco in Italia sotto alla sua guida <lb/>
+il valor della militia holandese. </p>
+<p>Parte hoggi per Hamsterdam per trovarsi quivi nel <lb/>
+consiglio dell’Amiralità per far con il parer di <lb/>
+quegl’huomini proveti la provisione de’ vasselli<ptr target="#tn16" n="16"/> <lb/>
+le ha lettere di favore, et di commando da’ <lb/>
+signori Stati ad essi dell’Amiralità di assistergli <lb/>
+in tutte le cose. Crede certo che li signori Stati li
+<pb n="008r" facs="03_008r" rend="0"/>
+daranno qualche vasselli di guerra per far scorta <lb/>
+all’armata, nel che raccorda, che forse non sarebbe <lb/>
+male, che vostra Serenità ne facesse anc’ella instanza <lb/>
+li pare di potersi prometter dalla prontezza de’ suoi capitani, et di quelli, che ogni giorno se li offeriscono <lb/>
+di far l’imbarco se non alla fine del presente, almeno <lb/>
+in pochi giorni del principio del<ptr target="#tn17" n="17"/> mese <lb/>
+venturo. Teme più dell’esser in ordine li vasselli <lb/>
+che d’altro. </p>
+<p>Mi resta d’aggiunger in queste alla Serenità vostra che <lb/>
+hier mattina la signora principessa d’Organges madre <lb/>
+del conte Henrico, et zia del signor conte Gio. Ernesto <lb/>
+mi mandò a pregare di andar a lei. Andai, <lb/>
+et ella mi disse, che essendo stata tarda, per haver <lb/>
+dal conte Gioanni una piazza di capo per un suo <lb/>
+dipendente mi pregava di scriver alla Serenità vostra <lb/>
+che dovendo venir al servitio di lei il suo nipote <lb/>
+offeriva<ptr target="#tn18" n="18"/> una compagnia <lb/>
+non volendo esser conosciuta meno devota <lb/>
+nel mio servitio di quello, che ’l medesimo signor Conte <lb/>
+si è dimostrato pronto; che per nome suo
+<pb n="008v" facs="03_008v" rend="0"/>
+haverebbe servito soggetto di qualità, et che sa quello è il <lb/>
+mestier della guerra; et sopra ciò mi fece instanza <lb/>
+grandissima; aggiungendo, che si prometteva, che dalla Serenità vostra <lb/>
+non gli sarebbe stata rifiutata questa prima gratia, che <lb/>
+doveva cader anco a servitio di lei. Io gli risposi <lb/>
+che quanto havevo stabilito col signor Conte tanto m’era stato <lb/>
+commandato da vostra Serenità, et che non sapevo s’ella <lb/>
+haverebbe havuto bisogno d’altra gente; ma ero certo, <lb/>
+che in questo caso l’eccellentissimo Senato haverebbe mostrato a lei <lb/>
+in particolare quanta stima facci della casa di Nassau. <lb/>
+Mi disse che haverebbe attesa la risposta con desiderio <lb/>
+et che questa era poca aggiunta d’una compagnia <lb/>
+appresso l’altre, che leverà il monsignor Gioanni, et si haverebbe <lb/>
+riputata honorata di questo nome di haver ella <lb/>
+ancora servita la Republica con una compagnia, che <lb/>
+vorrà che sia chiamata in campo la compagnia <lb/>
+della principessa d’Oranges. Questa è signora di gran <lb/>
+spirito la terza moglie del già principe d’Oranges, <lb/>
+et (come mi ha accennato) che volontieri haverebbe <lb/>
+veduto di buon pezzo al servitio di vostra Serenità il principe <lb/>
+Henrico suo figlio che sta hora obligato a’ signori Stati
+<pb n="009r" facs="03_009r" rend="0"/>
+per general della cavalleria. Starò per tanto aspettando <lb/>
+colla risposta di queste quello che vorrà che le dichi <lb/>
+perché mi ha obligato strettamente a fargli saper la <lb/>
+mente della Serenità vostra, dalla quale provenendo la <lb/>
+gratia sarà molto più aggradita, et accetta <lb/>
+che s’io l’havessi concessa, il che non haverà ardito <lb/>
+di fare per ogni rispetto. Gratie etc. </p>
+<p>Dall’Haya a’ 2 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="009v" facs="03_009v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="013r" facs="03_013r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="013v" facs="03_013v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="002">
+<!--
+<p n="013vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 ottobre 1616 ricevute 12 detto </p>
+<p>Secretario Suriano dall’Haia prima </p>
+<p>Ha conclusa la condotta col conte Gio. Ernesto <lb/>
+et ottenuta di signori Stati la licenza per la <lb/>
+persona sua, et per la levata. </p>
+<p>Concetto di buona corrispondenza, et<ptr target="#tn19" n="19"/> <lb/>
+discorso di quello si dice sopra ciò<ptr target="#tn20" n="20"/>. <lb/>
+Desiderio del Conte che volendosi altre <lb/>
+di quelle genti non passino senza <lb/>
+sotto la sua insegna, et desidera <lb/>
+di esserne assicurato. </p>
+<p>Raccorda<ptr target="#tn21" n="21"/> qualche vassello di guerra <lb/>
+per far scorta alla condotta. <lb/>
+Pensa far l’imbarco a’ primi di novembre <lb/>
+teme più dell’haver li vasselli all’ordine. <lb/>
+Instanza della principessa d’Oranges <lb/>
+di mandar una compagnia sopranu-<lb/>
+meraria sotto suo nome al servitio. <lb/>
+Manda la scrittura del capitulato: conditione di sbarcar le truppe nel <lb/>
+serenissimo Dominio ove si stimerà più a proposito. </p>
+<p>L. SS. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="003" corresp="002" source="10r-12v" >
+<div type="main" facs="main text of attachment II" n="003" corresp="002" >
+<!--<p>Allegato II al n. 2 (cc. 10r-12v)</p>-->
+<pb n="010r" facs="03_010r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Risposta de’ signori Stati Generali </p>
+<p>Li Stati Generali de’ Paesi Bassi Uniti. Havendo <lb/>
+nella loro assemblea intesa la relatione fatta <lb/>
+alle loro Signorie il giorno de’ hieri per ordine della <lb/>
+serenissima republica di Venetia dal signor Christofforo <lb/>
+Suriano residente appresso di loro, et secretario di <lb/>
+stato<ptr target="#tn22" n="22"/> della detta serenissima Republica in virtù delle lettere sue credentiali delli 15 del mese <lb/>
+presente, dello stato degl’affari di lei intorno <lb/>
+alla guerra, ch’ella sostiene contra il serenissimo <lb/>
+arciduca Ferdinando d’Austria, ringratiano <lb/>
+affettuosamente la detta serenissima Republica della <lb/>
+continuatione di questa buona corrispondenza <lb/>
+rallegrandosi del buon successo del detto suo affare <lb/>
+fino al presente; sperando, come lo bramavano <lb/>
+di tutto buon cuore, che’ l buon Dio favorirà di <lb/>
+più in più la giustitia della sua buona causa <lb/>
+et li darà per gratia sua un felice essito sia <lb/>
+col mezo dell’armi, o di una buona honorevole<ptr target="#tn23" n="23"/> et sicuro <lb/>
+trattato di pace mentre<ptr target="#tn24" n="24"/> se li offeriscano
+<pb n="010v" facs="03_010v" rend="0"/>
+conditioni ragionevoli, et degne d’esser accettate <lb/>
+non potendo lasciar di non lodare grandemente <lb/>
+la somma prudenza, et sapienza della serenissima Republica <lb/>
+in questo, che in tutti gl’eventi sia di pace, o <lb/>
+continuatione di guerra ella si mette in termini; <lb/>
+et si dispone alla conservatione, et mantenimento <lb/>
+de’ suoi stati, et de’ suoi affari; di maniera che <lb/>
+questa è la più prudente, risolutione, et lodevol <lb/>
+partito al quale la serenissima Republica possi appigliarsi, et <lb/>
+sciegliere, che Dio potentissimo non lascierà di <lb/>
+aiutare, et felicitar in ogni tempo, come ha <lb/>
+fatto finhora. Ciò ci dà occasione, che per <lb/>
+far apparere la nostra buona affettione <lb/>
+et buona volontà, et intentione, sopra la <lb/>
+instanza fatta per parte della detta serenissima Republica <lb/>
+per la propositione del detto signor secretario noi habbiamo <lb/>
+concesso, et acconsentito al signor conte Gio. Ernesto di <lb/>
+Nassau non ostante ch’egli sia uno dei più <lb/>
+valorosi, habili, et esperimentati capi da
+<pb n="011r" facs="03_011r" rend="0"/>
+guerra, che noi habbiamo al nostro servitio per <lb/>
+il buono, et pronto giudicio di lui negl’affari <lb/>
+militari, di maniera che con gran difficoltà se ne <lb/>
+potiamo privare, che per il tempo di un anno <lb/>
+perché si possi metter al servitio della detta serenissima <lb/>
+Republica et far a questo effetto una levata di <lb/>
+tremillacento fanti secondo le conditioni delle <lb/>
+capitulationi fatte con lui: nel che lo faremo <lb/>
+favorire, affinché essa levata, et transporto <lb/>
+de’ soldati si possa fare<ptr target="#tn25" n="25"/> il più tosto, che sia <lb/>
+possibile: assicurandoci che sua Serenità haverà il <lb/>
+detto signor Conte in tal raccomandatione, et stima <lb/>
+quale merita la sua persona, et le qualità <lb/>
+sue, et ad esso si farà dar il modo in confor-<lb/>
+mità delle sue capitulationi, che potrà intar-<lb/>
+tenir<ptr target="#tn26" n="26"/> le sue truppe in buon ordine, et disci-<lb/>
+plina per la conservatione della sua riputatione <lb/>
+et honore, et che riuscendo il successo d’un <lb/>
+trattato di pace sua Serenità haverà pensiero, che
+<pb n="011v" facs="03_011v" rend="0"/>
+sia parlato, et conditionato nel trattato, che li <lb/>
+licentiati dalla detta truppa, che vorranno <lb/>
+tornar nel loro Paese per le terre, et dominio <lb/>
+del serenissimo Arciduca, lo potranno fare liberamente <lb/>
+senza che nel passaggio gli sia fatto alcun torto; et che di più sarà dato ordine nelle città, et piazze <lb/>
+dove li soldati potranno ritrovarsi, et esser inviati <lb/>
+in guarnigione, succedendo che alcuno di essi <lb/>
+venisse a morte siano sepolti in luochi ho-<lb/>
+norevoli, come soldati d’honore. Nel che li <lb/>
+detti signori Stati ricercano il detto signor secretario di <lb/>
+voler scriverne affettuosamente a sua Serenità et <lb/>
+assicurarla della singolarissima affettione, et buona <lb/>
+volontà, che conserveranno continuamente al bene <lb/>
+et mantenimento degl’affari di lei. </p>
+<p>Fatta nell’Haya all’ultimo di settembre 1616 </p>
+<p>Signato </p>
+<p>Gio. Rener presidente per ordine <lb/>
+de’ signori Stati Generali </p>
+<p>Harsen secretario. </p>
+<pb n="012r" facs="03_012r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="012v" facs="03_012v" rend="270"/>
+<p>Risposta de’ signori Stati </p>
+<p>Nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> First "-a-" corrected above "-e-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-ra-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "settembre."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Faded ink.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes "per liberarmi di non haver ad" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> There is a hole in the page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "tal condotta" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i" corrected above "-l."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "venturo" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Precedes the struck-through words.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Concetto … et" added above the deleted text.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "discorso … ciò" added in the interlinear space below the crossed-out text.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "R-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "privato" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "le con-" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -90,6 +90,7 @@ class Scans(PageInfo):
 
         toCopy = []
         rotations = {}
+        nSkipped = None
 
         for filza in filzas:
             filzaExclusions = exclusions[filza]

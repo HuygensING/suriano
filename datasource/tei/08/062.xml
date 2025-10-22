@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.062 date 1619-12-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">062</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 331r-333v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">331r-333v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters dated 14 November, expresses regret that certain orders have arrived to late, as the fleet has departed. He has liaised with the Admiralty to prevent unrest when one the ships should arrive in a port due to the icy conditions and also what to do with the returning three ships. Sailors from the returning ship Emaus will be dismissed and paid. Letters have also been send to Plymouth and general of the Dutch fleet to inform them of this decision. Addresses payment of sailors affected by the burning of ship and clarifies that the licenses served to protect the Venetian Republic from war or maritime accidents, but does not relate to the hiring conditions. The ship owners have not yet pursued claims with the admiralty but is expected they will. Request instructions on settling these matters, particularly regarding the payment of returned letters of exchange. Reports that since his last letter he has not seen the Greek from Zanthe whom he tried to hire in 1617. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Rotterdam</settlement>
+            <date when="1619-12-03">3 dicembre 1619</date>
+            <num>109</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="109">
+<div type="main" facs="main text of letter" n="109">
+<!--<p>3 dicembre 1619, Rotterdam (cc. 331r-333v)</p>-->
+<pb n="331r" facs="08_331r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 153 fin 154 </p>
+<p>Serenissimo Principe </p>
+<p>mi pervengono le lettere della Serenità vostra de’ 14 del passato con la copia <lb/>
+delle doi de’ 5 et del sudetto giorno scritte all’eccellentissimo signor Capitan <lb/>
+generale. Sono piene de’ proprii, et prudentissimi ordini, et <lb/>
+vorrei bene, che fossero capitati all’armata prima del par-<lb/>
+tir delli sette vasselli perché sarebbe stato con servitio di lei, et <lb/>
+con sollievo dell’animo mio. Come si sia applicherò ogni studio <lb/>
+perché tutto passi con sodisfattione di vostra Serenità, et contento di questi <lb/>
+signori et perché ella non resti defraudata. </p>
+<p>In tanto ho procurato di prevenir al disordine, che potesse succeder <lb/>
+che le dette sette navi capitassero, et si fermassero in Zelanda <lb/>
+o in altro porto sotto pretesto della tema dei giacci all’<lb/>
+entrar in questi porti di Holanda, et però mi sono <lb/>
+trovato con questi signori dell’Amiralità considerandole il <lb/>
+caso, che potrebbe avenire a fine di applicarvi rimedio <lb/>
+proprio: onde inteso bene il mio senso hanno risoluto <lb/>
+di scriver in Zelanda a quell’Amiralità perché capi-<lb/>
+tando quivi la nave Emaus restante delle tre di questa <lb/>
+ripartitione siano licentiate le genti, et per consequente <lb/>
+la nave ancora per il noleggio di essa; con ordine alli <lb/>
+marinari di venir qui a prender li suoi<ptr target="#tn1" n="1"/> salarii <lb/>
+fino alla detta licentia. Scriveranno anco a Plemua <lb/>
+in Inghilterra, et daranno lettere al commandator delle navi <lb/>
+da guerra di questo Paese, che ancor non è uscito per dar <lb/>
+in viaggio al Capitano del detto vassello Emaus se lo ran-<lb/>
+contrerà, per il sudetto effetto. Io farò saper alli
+<pb n="331v" facs="08_331v" rend="0"/>
+signori delle amiralità di Amsterdam, et Northolandia tal risolutione <lb/>
+perché essi ancora usino la medesima diligenza. Questa preventione <lb/>
+nasce a dir la verità da un raccordo, che mi ha dato il <lb/>
+Luz, che anco in ciò mi ha mostrato l’affetto, che ha al <lb/>
+servitio publico. Piaccia a Dio, che giovi, come vorrei per <lb/>
+restar anc’io libero dal tormento con queste genti, sendo <lb/>
+veramente alcuni senza ragione, che così si può dire, come <lb/>
+doverà l’eccellentissimo signor ambasciator Lando haver avisato vostra Serenità haven-<lb/>
+do anc’egli incontrato in qualche insolenti, et veramente <lb/>
+indiscreti. </p>
+<p>Intorno quello che mi scrive la Serenità vostra che il dar paghe a marinari <lb/>
+che venissero a cascar nel tempo dell’abbruciamento del <lb/>
+vassello Li tre re non apportasse pregiudicio alle ragioni <lb/>
+publiche. Doverà ella considerare, che la licenza, che <lb/>
+pretende haver data al vassello serve solo per liberar <lb/>
+la Serenità vostra dall’obligo di esser sottoposta per esso alli <lb/>
+pericoli, et accidenti della guerra, et del mare mentr’era <lb/>
+all’obedienza dell’eccellentissimo signor Capitan generale, et non perché <lb/>
+s’intendesse fuori di noleggio: perché se non si fosse abbrug-<lb/>
+giato venendo di qua colle genti per le loro paghe, et viveri i[n]<ptr target="#tn2" n="2"/> <lb/>
+conformità del contratto per il quale anco li compar-<lb/>
+tecipi partiti li vasselli dall’obedienza sudetta <lb/>
+corrono il rischio fino al capitar in questi paesi: eccett[o]<ptr target="#tn3" n="3"/> <lb/>
+se fossero incontrati, et daneggiati da armata spagnuola. </p>
+<pb n="332r" facs="08_332r" rend="0"/>
+<p>Li partionevoli del vassello abbruggiato per quello ho potuto <lb/>
+cavare non hanno ancor fatto altro tentativo a questa Ami-<lb/>
+ralià per la sua pretensione; ma dubito non tarderanno al <lb/>
+farlo: in tanto li sono state rimandate le lettere di cambio <lb/>
+che li havevo fatte; così anco quelli delle altre quattro navi <lb/>
+l’hanno rihavute, et col mezo del signor Calandrini me ne <lb/>
+hanno ricercato il pagamento. Io conformandomi <lb/>
+colli commandamenti di vostra Serenità venutimi in lettere de’ 18 ottobre <lb/>
+ho risposto esser necessario l’haver da loro quelle chiarezze <lb/>
+che gl’intervenienti suoi erano restati in appuntamento <lb/>
+con la Serenità vostra di farmi havere del debito, o credito loro <lb/>
+con la serenissima Republica. Sono restati fermi nel farmi <lb/>
+dire, che le lettere ritornate devono almeno esser pagate <lb/>
+et dal tempo poi di esse lettere fino alla licenza de’ <lb/>
+vasselli in questo Paese si sarebbe ribatuto sopra il rimanente <lb/>
+del servitio prestato ciò che fossero andati debitori, et se <lb/>
+più importasse più pagarebbono. Si obligaranno per <lb/>
+questo come ho potuto comprender alle Amiralità. Et <lb/>
+se ben m’è stata fatta questa oblatione; io però non <lb/>
+ho voluto accordarla, ma ho preso tempo di scriverne <lb/>
+alla Serenità vostra per ricever colla risposta delle presenti li suoi <lb/>
+commandamenti, non so mo’ se li compartecipi se ne contenteranno <lb/>
+pretendendo alcuni di essi l’interesse del ritorno delle <lb/>
+lettere; ma tenterò perché resti stabilito fino all’haver <lb/>
+la risposta di quelle. Aspetterò li suoi commandamenti<ptr target="#tn4" n="4"/>
+<pb n="332v" facs="08_332v" rend="0"/>
+per<ptr target="#tn5" n="5"/> pagar almeno le lettere ritornate, che sono <lb/>
+sino al decimo settimo mese cominciando dal quartodecimo <lb/>
+et resterebbono creditori ancora per le quattro navi in <lb/>
+particolare San Christofforo, Specchio, Anna Riverson, et <lb/>
+Leon dorato per doi mesi. Vostra Serenità, come<ptr target="#tn6" n="6"/> si sia non può <lb/>
+perder perché alli signori dell’Amiralità si doverà dar sufficiente <lb/>
+piezaria di restitutione di quanto potessero esser cono-<lb/>
+sciuti debitori. L’illustrissimo signor commissario Morosini a quello <lb/>
+che intendo è a Venetia. Da sua Signoria illustrissima si potrà <lb/>
+sapere se li marinari hanno havuto denaro, o altro per <lb/>
+servitio delle navi. Nel libro ricevuto da detto<ptr target="#tn7" n="7"/> signore non <lb/>
+lo trovo. Vi sono bene nel debito generale dell’Amiraglio <lb/>
+alcune partite di concieri di nave, et altro, ma non è espre[sso]<ptr target="#tn8" n="8"/> <lb/>
+in<ptr target="#tn9" n="9"/> esse, ne messo fuori quantità di denaro, et pur vi <lb/>
+è il patrone della nave Anna Riverson che confessa <lb/>
+haver havuta certa quantità di stoppa, pegola, et cose <lb/>
+simili. Ho stimato bene di accennar questo tanto<ptr target="#tn10" n="10"/> <lb/>
+alla Serenità vostra per caminar con ordine, et ho pensato di far <lb/>
+bene ancora a scriverne al medesimo signore. Colle note del quale <lb/>
+sopra il libro sudetto toccante le paghe a marinari mi sono <lb/>
+governato, et queste Amiralità vano sodisfacendo li cre-<lb/>
+ditori. </p>
+<p>Doppo, che scrissi alla Serenità vostra di quel Greco dal Zanthe non l’ho più <lb/>
+veduto. Se verrà a me tratterò seco procurando di avantaggiar <lb/>
+quantopiù mi sarà possibile in servitio di vostra Serenità. Gratie etc. </p>
+<p>Da Roterdam li 3 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore. </p>
+<p>Christofforo Suriano </p>
+<pb n="333r" facs="08_333r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="333v" facs="08_333v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 153 fin 154 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="109">
+<!--
+<p n="333vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 decembre 1619 ricevute a’ 19 detto </p>
+<p>Secretario Surian da Roterdam </p>
+<p>n° 153 <lb/>
+prima </p>
+<p>Ordini dati dalle Amiralità <lb/>
+circa il ricorso delle navi licentiate. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue denarii depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue nella risposta depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Precede delle presenti depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue sie depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Esito di correzione."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Precede ne depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Segue tanto depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

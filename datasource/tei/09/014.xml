@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.014 date 1620-04-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo, Filippo,Flavia, Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 54r-57v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">52r-53v, 54r-57v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Van Aerssen will leave for Venice at the end of the week, he has visited Suriano to tell him he wants to see whether Venice will declare more openly their support for Bohemia and the Princes of the union. He also makes inquiries about which language he needs to use to address the Senate. Suriano informs the Serenissima that Van Aerssen claims not to speak Italian. He will be accompanied by 25 people and travel via lower Palatinate to Switserland and from there to Bergamo. Their journey will take 7-8 weeks. Assures that he will send further particulars about this embassy as they will come to dine at his place tomorrow. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-21">21 aprile 1620</date>
+            <num>018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="018" corresp="019" source="52r-53v" >
+<div type="main" facs="main text of attachment I" n="018" corresp="019" >
+<!--<p>Allegato I al n. 19 (cc. 52r-53v; decodifica di c. 54r-v)</p>-->
+<pb n="052r" facs="09_052r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="052v" facs="09_052v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="053r" facs="09_053r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="053v" facs="09_053v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="019">
+<div type="main" facs="main text of letter" n="019">
+<!--<p>21 aprile 1620, L’Aia (cc. 54r-57v)</p>-->
+<pb n="054r" facs="09_054r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 196 comincia 195 <lb/>
+fin 197 </p>
+<p>Serenissimo Principe </p>
+<p>credo, che alla fine di questa settimana il signor ambasciator Arsen si metterà <lb/>
+in camino per cotesta volta se n’è lasciato intender meco, et con <lb/>
+altri ancora, et non porterà innanti più che qualche giorno. <lb/>
+Fu a trovarmi in questa casa della Serenità vostra, et mi rinovò <lb/>
+li concetti dettimi quando fui seco, mostrando sempre più <lb/>
+desiderar, ch’io riconoscessi la sua devotione verso quel serenissimo <lb/>
+Dominio. Doi cose principali mi disse, che haverebbe havuto <lb/>
+in commissione l’una di presentarle l’approbatione dei signori <lb/>
+Stati dell’aleanza contrattata, et l’altra di veder et intender <lb/>
+quello, che la Serenità vostra stimasse bene, et a proposito di <lb/>
+aggiunger per beneficio, et servitio dell’uno, et l’altro stato. <lb/>
+Poi soggiunse, che non voleva tenermi alcuna cosa celata <lb/>
+et disse. Vediamo come Spagnoli vano<ptr target="#tn1" n="1"/> praticando, et come <lb/>
+non aspirano ad altro che alla ruina, et depressione dei Stati <lb/>
+liberi. Gl’interessi di questa Republica caminano al presente <lb/>
+si può dir del tutto uniti con quelli di sua Serenità, onde <lb/>
+l’un l’altro dobbiamo pensare a quello, che concerne il ben commune, et la propria sicurtà. <hi rend="decoded">Ho</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">in commissione di proporre, et consigliar con la <lb/>
+serenissima Republica nelle presenti turbolenze dell’Alemagna quello <lb/>
+che si possi far per bene commune sendo pronti li <lb/>
+serenissimi Stati a dichiarirsi anco più apertamente di quello <lb/>
+che hanno fatto sinhora per li principi dell’Unione, <lb/>
+et per il re di Boemia</hi>
+<pb n="054v" facs="09_054v" rend="0"/>
+<hi rend="decoded">quando da sua Serenità saranno <lb/>
+consigliati, continuando li Spagnuoli che</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">sono nostri capitali <lb/>
+nemici, et per questo (che bisogna tenirlo per fermo) <lb/>
+non potremo aspettar, che ingiurie, et offese; et però era <lb/>
+necessario pensar bene a quello si doveva fare per <lb/>
+ripararsi. Infine tornando sopra alla lega disse <lb/>
+che poteva la Serenità vostra esser certa, che</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">dal <lb/>
+canto di queste Provincie sarebbe stato osservato quanto <lb/>
+si era promesso: et havendo io corrisposto con la <lb/>
+medesima assicuranza per nome di vostra Serenità affermò, <lb/>
+che così era tenuto per fermo. <lb/>
+</hi></p>
+<p>Ha mostrato desiderio grande di cavar da me in qual lingua <lb/>
+doveva parlare se in francese, in latino, o in italiano, mostrando meco di far gran difficoltà per parlar <lb/>
+la lingua italiana, come quella che professava non <lb/>
+saperla, che per intenderla, et che mal volentieri <lb/>
+ardirebbe di parlar innanti vostra Serenità, et le Signorie vostre eccellentissime italiano <lb/>
+per i difetti, et i mancamenti che era sicuro che vi haverebbe <lb/>
+fatto; et tanto più nella prima audienza, che al solito è <lb/>
+pubblica; concorrendo in tal occasione oltre molti in particolar <lb/>
+de’ ministri de’ Principi. Io gli ho detto, che non sarà legato <lb/>
+a parlar se non quella lingua, che vorrà, ma ch’era ben <lb/>
+vero, che l’italiano era usitato. Egli è in pena, ma credo
+<pb n="055r" facs="09_055r" rend="0"/>
+che si regolerà sul luoco. Nel corso del ragionamento uscì a <lb/>
+dirmi, che non dubitava d’esser ricevuto gratamente, et che <lb/>
+gli fosse usata ogni cortesia, et honore in conformità di <lb/>
+quanto ha usato la corona di Francia, et particolarmente il re <lb/>
+Henrico quarto con gl’ambasciatori di questa Republica. Scrissi <lb/>
+alla Serenità vostra dell’ordine, che haverebbe potuto dar al Luz <lb/>
+per trovarli alloggiamento, et altre cose necessarie, potrebbe forse <lb/>
+esser che mutasse pensiero, et lo dasse a qualche mercante <lb/>
+di che m’informerò, se ben credo, che vostra Serenità non vorrà prometter <lb/>
+che da altri, che da suoi ministri li sia preparata habitatione. <lb/>
+Mi par anco di sentire, che da vostra Serenità<ptr target="#tn5" n="5"/> aspettano maggior dimostrationi <lb/>
+verso questo soggetto, che non fece il Vandermil, mentre quello <lb/>
+non venne, che per semplice complimento; et questo è<ptr target="#tn6" n="6"/> per <lb/>
+portar un contratto d’aleanza, et per stringer maggiormente <lb/>
+l’affettione, et l’amicitia. </p>
+<p>Condurrà seco vinticinque persone. Meno di vinti non poteva <lb/>
+sendogliene state accordate tante dalli signori Stati, per le <lb/>
+spese di bocca delle quali li sono assignati centovinticinque <lb/>
+fiorini per giorno, che sono poco meno di cinquanta <lb/>
+ducati. Li saranno pagate le spese de’ cavalli, de’ barche, <lb/>
+et altre cose occorrenti per il viaggio. Ha havuto un <lb/>
+donativo di tre milla fiorini per mettersi ad ordine. <lb/>
+Altro salario ordinario non è dicchiarito<ptr target="#tn7" n="7"/>; come ritorni <lb/>
+haverà un donativo d’altri tre, o quattromilla fiorini. Nel seguito vi saranno tredici persone di <lb/>
+qualità, tra queste un suo unico figliolo. Passerà in
+<pb n="055v" facs="09_055v" rend="0"/>
+viaggio per il Basso Palatinato, visiterà alcuno de’ Principi dell’<lb/>
+Alemagna piglierà scorta de’ signori Stati fino ad Heidelbergh, o <lb/>
+Stucart, et col signor duca di Wirtimbergh consiglierà per dove <lb/>
+potrà meglio passare per condursi in Svizzeri, di là in Grisoni, <lb/>
+et descenderà a Bergamo et nel Stato di vostra Serenità. Fa conto <lb/>
+di metter sette, over otto settimane in camino. Ella haverà <lb/>
+tempo di dar quegl’ordini che più a lei par[e]ranno<ptr target="#tn8" n="8"/> proprii <lb/>
+tanto a Zurich, che alla piazza, a Bergamo, et in altri luochi <lb/>
+dello Stato tanto per il libero passaggio di lui, et [d]elle<ptr target="#tn9" n="9"/> sue <lb/>
+genti, quanto delle sue robbe: assicurandosi che per <lb/>
+gratia del signor Dio qui non si sente un minimo m[o]to<ptr target="#tn10" n="10"/> di peste <lb/>
+né vi è alcuna cosa secreta, o di sospetto. </p>
+<p>Prima che parti saprò meglio cavar et di questo et d’altro, che <lb/>
+appartenga a questa ambasciata, et porti<ptr target="#tn11" n="11"/>; dovendomi trovar <lb/>
+più d’una volta seco, come sarà dimani, che verrà a <lb/>
+desinar in questa casa di vostra Serenità havendolo convitato col <lb/>
+figliolo et altri sette, over otto dei signori Stati Generali per l’<lb/>
+augurar<ptr target="#tn12" n="12"/> del suo buon viaggio, questo è il titolo apparente, <lb/>
+ma in essentia per honore, et riputatione di vostra Serenità a che <lb/>
+miro, et mirerò sempre come mi si conviene; sendo certo <lb/>
+che ella come ha tante volte fatto volgerà l’occhio della <lb/>
+sua munificenza verso la mia ottima volontà, et proverà <lb/>
+fortuna. </p>
+<p>Questi signori non vengono a dicchiaratione dell’ordinario, come colle lettere <lb/>
+ultime de’ 14 aggiunte qui in copia prima, et seconda <lb/>
+reverentemente le avvisai; ma lascieranno che l’Arsen
+<pb n="056r" facs="09_056r" rend="0"/>
+ne tiri il senso di là. Vorrei bene, che un pezzo fa si fossero <lb/>
+risoluti, perché haverei potuto promettermi del mio sollevo; <lb/>
+ma resto aggravato più che mai per la necessità, che ho <lb/>
+havuta di sloggiar della casa, ove habitavo, et riprenderne <lb/>
+un’altra con hevermi<ptr target="#tn13" n="13"/> convenuto proveder di molte cose <lb/>
+necessarie, et sottopormi a spese dalle quali credevo già esser<ptr target="#tn14" n="14"/> del <lb/>
+tutto<ptr target="#tn15" n="15"/> libero. Anco questo deve esser messo in conside-<lb/>
+ratione dalla prudenza, pietà, et munificenza della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 21 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="056v" facs="09_056v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="057r" facs="09_057r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="057v" facs="09_057v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 196 comincia 195 <lb/>
+fin 197 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="019">
+<!--
+<p n="057vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 aprile 1620 ricevute a’ 6 maggio </p>
+<p>Del secretario Surian dall’<lb/>
+Haya. n° 196 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Ho … tenuto per fermo" decoding of the encrypted text can be found on c. 52r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "dall" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "da vostra Serenità" added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "p-" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "già esser" added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "già" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

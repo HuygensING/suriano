@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.012 date 1621-04-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 48r-51v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 17, letter 13) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp1-16)
+            </note>
+            <biblScope unit="page">52r-53v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Accounts with Admiralty of Rotterdam have been concluded, Dardani has left to Venice. He praises Dardani’s diligence and service. He will escort Lormes. As instructed, he agrees to send the letters via Cologne and Amsterdam addressing them to Noirot and Calandrini as precautionary measure. After Easter, the claimants of burnt ship will present their case to council of Admiralty of Rotterdam. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-04-06">6 aprile 1621</date>
+            <num>017</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="017">
+<div type="main" facs="main text of letter" n="017">
+<!--<p>6 aprile 1621, L’Aia (cc. 52r-53v)</p>-->
+<pb n="052r" facs="10_052r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 287 comincia 286 </p>
+<p>Serenissimo Principe </p>
+<p>poche hore sono, che ritorno di Roterdam, havendo con quell’<lb/>
+Amiralità terminati, et sottoscritti li conti; onde finalmente resta <lb/>
+questo negotio ridotto a perfettione doppo una sì lunga <lb/>
+dilatione causata più dalla natura del Paese, che dalla <lb/>
+cosa in sé stessa. Poiché al signor Dardani non restava altro che <lb/>
+fare non ha voluto perder onza di tempo<ptr target="#tn1" n="1"/> al partire. <lb/>
+Risolve di mettersi in camino per passar a’ piedi della Serenità vostra <lb/>
+per renderle conto del suo ministerio. Hieri furono sotto-<lb/>
+scritti li conti, et la sera si mise in barca d’Anversa, ove <lb/>
+non ostante il vento contrario voglio creder, che dimani a <lb/>
+sera alla più lunga sia per capitare. Non dubito che <lb/>
+da quella fatica, che porterà per scritto alla Serenità vostra, et dal <lb/>
+racconto, che le farà di quanto ha operato comprenderà <lb/>
+colla prudenza sua haver egli compito a quell’espettatione <lb/>
+di fedeltà, di diligenza, et di devotione ch’ella s’è promessa <lb/>
+nell’ispeditione, che risolvè prudentemente fare della <lb/>
+persona sua per il rancontro, et agiustamento di questi <lb/>
+conti. Vi si è affaticato con ogni studio, et con haver <lb/>
+sempre l’occhio al servitio publico, et avanzatolo con <lb/>
+ogni possibil maniera, dandosi anco da questa parte quella <lb/>
+sodisfattione ch’è stata condecente; onde comprenderà <lb/>
+anco meglio di quello io potessi dirle, che merita
+<pb n="052v" facs="10_052v" rend="0"/>
+degnamente la gratia sua, et effetti della benignità della <lb/>
+Serenità vostra verso di lui. Et io laudo sua divina Maestà, che <lb/>
+hora potrà ella vedere distintamente in che, et come è stato <lb/>
+dispensato il suo denaro, et resta grandemente sollevato <lb/>
+l’animo mio. La pronta partenza del signor Dardani è <lb/>
+stata propria massime nella presente congiontura dello <lb/>
+spirar della tregua per quegl’accidenti, che doppo <lb/>
+venerdì potriano occorrer a viandanti. Ad ogni buon <lb/>
+fine però gl’ho<ptr target="#tn2" n="2"/> procurato passaporto del signor principe <lb/>
+d’Oranges. </p>
+<p>Io a quest’hora mi trovo in pena come sicuramente siano per <lb/>
+capitar le mie lettere per la via d’Anversa, stimo però bene <lb/>
+sia detto riverentemente, che vostra Serenità commandi, che li miei dispacci <lb/>
+siano mandati per la via di Colonia, et di là a drittura <lb/>
+per Amsterdam, et se le paresse anco bene, farle metter <lb/>
+sotto coperta del signor Melchior Noirott, che le drizzi <lb/>
+al signor Filippo Calandrini. Io veggo bene che in questa <lb/>
+congiontura arrivate, che siano le lettere in Amsterdam <lb/>
+per haverle prontamente sarò necessitato haver persona <lb/>
+espressa in quella città, che di volta in volta me le porti <lb/>
+il che seguirà con buona gratia di vostra Serenità. Per la medesima <lb/>
+stradda ispedirò anc’io le lettere mie per l’avenire,
+<pb n="053r" facs="10_053r" rend="0"/>
+se altro non succederà in contrario. </p>
+<p>Il signor Dardani prontamente s’è presa la carica di condur seco il <lb/>
+visconte di Lormes, havend’io stimato così a proposito et per <lb/>
+la sicurezza, et per altro rispetto. Ad esso signor Dardani <lb/>
+per le spese del viaggio d’esso Visconte ho dato ordine che <lb/>
+si[a]no<ptr target="#tn3" n="3"/> pagati in Anversa doi cento, et quaranta cinque <lb/>
+fiorini, che sono cento ducati, la qual somma di fiorini <lb/>
+a causa del cambio rivenirà a qualche cosa di vantaggio. </p>
+<p>Ho presentito, che doppo le feste di Pasqua gl’interessati nel vassello ab-<lb/>
+bruggiato siano per tirar in processo nanti questo Gran Consiglio <lb/>
+li signori dell’amiralità di Roterdam per esser sodisfatti da essi <lb/>
+vedendo non poter tirar effetto della loro pretensione da vostra Serenità. <lb/>
+Io mi tacerò<ptr target="#tn4" n="4"/>; ma occorrendo alcuna<ptr target="#tn5" n="5"/> cosa non mancarò <lb/>
+di darne riverente conto a vostra Serenità. </p>
+<p>Anco delli vinti milla fiorini, che nonostante la sottoscrittione <lb/>
+dei conti fatta da quelli dell’amiralità di Amsterdam, si sono <lb/>
+essi riservati di poterne haver rigresso di dimanda <lb/>
+parmi, che li deputati di essa Amiralità veniranno a <lb/>
+farne instanza alli signori Stati. Sentirò anco di questi il <lb/>
+tentativo, et avviserò coll’ordinaria riverenza mia <lb/>
+quanto occorrerà. Gratie etc. </p>
+<p>Dall’Haya li 6 aprile 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="053v" facs="10_053v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 287 comincia 286 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="017">
+<!--
+<p n="053vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 aprile 1621 ricevute a’ 28 detto n° 287 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "di tempo" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "gl-" is the result of a correction; precedes "è" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ce-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "al-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.002 date 1620-03-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 7r-10v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp189-201
+            </note>
+            <biblScope unit="page">7r-10v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Contrary to what Serenissima has heard, the States General have kept their promise to assist the German princes and Bohemia in particular and have even allowed Johan Ernst of Saxony-Weimar to levy some infantry and heavy cavalry. Even though they have now decided, in reaction to the news from Brabant, that no other levies by foreign powers will be allowed. They are eagerly awaiting news from Buwinckhausen’s mission in England and reports that a few English say the king will not reach a decision quickly. Visitation of town officials has been finished. Fears that letters from Venice 21 February will not reach him as rumors abound that the postal courier has drowned in canal between Zevenberg en Dordrecht. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-10">10 marzo 1620</date>
+            <num>003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="003">
+<div type="main" facs="main text of letter" n="003">
+<!--<p>10 marzo 1620, L’Aia (cc. 7r-10v)</p>-->
+<pb n="007r" facs="09_007r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 184 sola </p>
+<p>Serenissimo Principe </p>
+<p>non hanno li signori Stati Generali come la Serenità vostra haverà inteso <lb/>
+dalle precedenti lettere mie tralasciata cosa, che sia loro <lb/>
+parsa propria per servitio dei lor confederati in Alemagna; <lb/>
+et per la Bohemia in particolare, che siano concorsi con gran <lb/>
+desiderio di apportar il commodo, che si poteva aspettare, et <lb/>
+desiderare da questa parte; havendo la mira sì al sodisfar <lb/>
+all’instanze, et alli oblighi di alianza particolarmente <lb/>
+colli principi dell’Unione; ma anco per fomentar altrove <lb/>
+quel fuoco, che covando nel seno de’ Spagnuoli potevano <lb/>
+temer che si spargesse in queste Provincie. Finalmente <lb/>
+hanno anco permesso a quel duca di Wimaer, o di Sasso-<lb/>
+nia, del quale le scrissi riverentemente la passata settimana, <lb/>
+di far levata ai confini di doi reggimenti d’infanteria, <lb/>
+et qualche numero di cavallaria, et più che possi tirar <lb/>
+dalle compagnie alemane, et fiaminghe un soldato <lb/>
+per una; et permessi doi, o tre officiali nei medesimi <lb/>
+reggimenti. Dimandava quattro huomini per compa-<lb/>
+gnia; ma in fine ha convenuto accommodarsi <lb/>
+per le difficoltà, et dispute grandi, che sono state. </p>
+<p>Anco il conte di Stiron farà la sua levata di 150 cavalli <lb/>
+in quello della Marca sul ducato di Cleves. </p>
+<p>Subito permesse le dette licenze li signori Stati, et il signor principe </p>
+<pb n="007v" facs="09_007v" rend="0"/>
+<p>Mauritio consultando sopra la sicurtà, et interessi del Paese, et havendo <lb/>
+havuti avvisi di Brabant, ch’era uscito editto rigoroso, che a <lb/>
+niun soldato fosse permesso sortir fuori del Paese, anco sue Eccellenze hanno <lb/>
+risoluto, che da<ptr target="#tn1" n="1"/> hora et per tutta la prossima estate, et fino <lb/>
+al verno non si habbi a conceder licenza a qual si sia officiale <lb/>
+o soldato tanto da piedi, che da cavallo sotto qual si sia pre-<lb/>
+testo, o necessità. Onde hanno chiusa la stradda ad altri, <lb/>
+che corressero qui per far altre levate: perché se bene <lb/>
+era prohibito anco con le dette concessioni il far levata in <lb/>
+questo Paese: in ogni modo li soldati erano sviati dai capitani <lb/>
+che venivano per farla; onde al presente chi penserà a <lb/>
+voler pigliar partito bisognerà, che pensi prima come <lb/>
+guardar la vita, che resta sottoposta alla pena sendo <lb/>
+trovato; et si daranno buoni ordini a tal effetto, che <lb/>
+non escano, o fuggano alcuni soldati da questi reg-<lb/>
+gimenti. Ma per quanto ho<ptr target="#tn2" n="2"/> potuto intender pochi <lb/>
+si troveranno, che habbino volontà d’intraprender il <lb/>
+pericolo, et il viaggio, perché non dandosi maggior <lb/>
+paga in Bohemia per quello intendono di quella è <lb/>
+qui non vorranno mutar piazza per restar in una medesima <lb/>
+fortuna; onde si crede, che li sudetti doi signori incontre-<lb/>
+ranno delle difficoltà per far cosa di buono. </p>
+<pb n="008r" facs="09_008r" rend="0"/>
+<p>Oltre il detto avviso di prohibitione in Brabant si è anco <lb/>
+havuto, che si parlava di far sino a diecimilla fanti, et <lb/>
+doi milla cavalli, che però non dovevano uscir da quei stati; <lb/>
+et d’avantaggio, che alle guarnigioni ai confini del fiume <lb/>
+Lippa<ptr target="#tn3" n="3"/> s’era dato ordine, che stassero quei soldati tutti <lb/>
+ad ordine colle loro armi ad ogni avviso, che havessero <lb/>
+per marchiare, et che ’l conte Henrico di Bergh luogotenente della <lb/>
+cavallaria haverebbe il carico dell’essecutione. </p>
+<p>Il fine di tal voci di levate non vi essendo denari, et dell’ordine <lb/>
+della prontezza di quell’armi non si sa<ptr target="#tn4" n="4"/> se sia artificio <lb/>
+per tener in brida questi signori, et perché non permettino <lb/>
+tante levate, et cessino dalla tanta assistenza, et <lb/>
+fomento a’ principi dell’Unione, et a Bohemi, o perché <lb/>
+habbino qualche disegno di attaccar in qualche parte. <lb/>
+Alcuni fanno facile a’ Spagnuoli l’impresa di Giuliers; <lb/>
+altri non fondati non sopra il sito; ma sopra le forze <lb/>
+che vi sono all’intorno; ma per non esser soprapresi hanno <lb/>
+di qua dati buoni ordini perché la soldatesca, che sta <lb/>
+alloggiata in quei contorni si muovi, et entri nella <lb/>
+piazza, et soccorri al bisogno, che vi fosse. </p>
+<p>Tutta la speranza, che hanno di qua è che non vi siano <lb/>
+come ho detto dinari della parte de’ Spagnuoli, et
+<pb n="008v" facs="09_008v" rend="0"/>
+che le voci, et le bravate siano per far paura: tuttavia <lb/>
+staranno sull’avviso per non esser ingannati. </p>
+<p>Stanno in espettatione con curiosità della risolutione d’Inghilterra, <lb/>
+et se quanto hanno operato, et massime all’instanza del <lb/>
+Bovincauser haverà<ptr target="#tn5" n="5"/> potuto servir di<ptr target="#tn6" n="6"/> eccitamento <lb/>
+a quel Re. Intanto qui qualche inglesi (non si sente <lb/>
+però dalla bocca dell’Ambasciatore) portano per discorso che ’l <lb/>
+Re non si risolve così prontamente, come si vorrebbe per <lb/>
+tre cause. Una perché non pari che facci le cose sue leg-<lb/>
+gieramente; l’altra per non fomentar colla sua pronta <lb/>
+risolutione il sonno<ptr target="#tn7" n="7"/> alli Alemani, che fidati di sua Maestà <lb/>
+continuassero a dormire, et per terzo, che vuol osservar <lb/>
+gl’andamenti della Francia, pensando che movendosi esso <lb/>
+re d’Inghilterra potrebbe apportar pregiudicio al genero, <lb/>
+et a’ Bohemi, potendo esser, che Francesi pigliassero <lb/>
+qualche pretesto, et<ptr target="#tn8" n="8"/> se ne valessero a disavantag-<lb/>
+gio dell’uno, et degl’altri, et delli stessi principi dell’<lb/>
+Unione. Così li zelanti della riputatione del suo Re <lb/>
+portano questi concetti fino che quella Maestà risolvi. <lb/>
+Ma vostra Serenità dal luoco proprio ne deve haver le più <lb/>
+vere, et più sincere cause. </p>
+<p>Sta hora ridotta la Congregatione di Holanda, che
+<pb n="009r" facs="09_009r" rend="0"/>
+attende con diligenti consultationi a radrizzar lo stato di <lb/>
+questa Provincia, et al suo stabilimento. </p>
+<p>Li signori Arsen, et Marchet che con altri sono andati girando per <lb/>
+la medesima Provincia inquirendo sopra le attioni, et <lb/>
+comportamenti de officiali, et altri de’ magistrati, <lb/>
+tornati qui hanno fatte le loro relationi, che <lb/>
+doveranno esser essaminate dalla stessa congrega-<lb/>
+tione per venir alla depositione di quei tali, che <lb/>
+stimeranno perturbatori della publica quiete, o che <lb/>
+male habbino amministrate le loro cariche: non <lb/>
+havendo li detti deputati voluto haver tal auttorità <lb/>
+per fuggir l’odio, et l’invidia, stimando meglio che ’l <lb/>
+giudicio debba provenir da tutto ’l congresso della <lb/>
+Provincia in generale. </p>
+<p>Sono sulla speditione di quest’ordinario senza haver ancor <lb/>
+ricevuto il mio dispaccio di costì, che doveva esser fin <lb/>
+venerdì o sabbato passato, et sto in dubio per qualche <lb/>
+voce, ch’è corsa, che ’l messaggiero d’Anversa tra Zeven-<lb/>
+bergh, et Dort habi in quel canale patito naufragio <lb/>
+col disfar dei giacci<ptr target="#tn9" n="9"/>. Mi spiacerebbe per la persona, <lb/>
+et insieme per le lettere, che poteva havere di vostra Serenità <lb/>
+de’ 21 del passato in risposta delle miei dei 4 pur
+<pb n="009v" facs="09_009v" rend="0"/>
+del passato per haver haver* li commandamenti di lei sopra <lb/>
+esse, et sopra altre mie precedenti; et particolarmente intorno <lb/>
+al negotio dell’aleanza doppo levata la parola de’ <lb/>
+nemici; sendo anco qui da questi signori aspettata con <lb/>
+desiderio la risposta per devenir alla nominatione, <lb/>
+et ispeditione della persona per l’ambasciata straordinaria. </p>
+<p>Qui aggiunte saranno le replicate delle mie lettere d’hoggi <lb/>
+otto n° 183. Gratie etc. </p>
+<p>Dall’Haya li 10 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="010r" facs="09_010r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="010v" facs="09_010v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 184 sola </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="003">
+<!--
+<p n="010vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 marzo 1620. Ricevuta li 25 detto </p>
+<p>Aia. n° 184 </p>
+<p>Permissione di levata al<ptr target="#tn10" n="10"/> duca <lb/>
+di Sassonia con trar anco un soldato <lb/>
+per cadauna compagnia alemana e fiaminga. </p>
+<p>Farà parimente levata il conte di Stiron. </p>
+<p>Ma havuto aviso da Brabant che <lb/>
+non si lascia uscir alcun soldato del Paese, <lb/>
+hanno fatto anch’essi lo stesso editto. </p>
+<p>Altri avisi di far gente in Brabant <lb/>
+e buoni ordini dati all’incontro <lb/>
+dai Stati. </p>
+<p>S’aspetta la risolutione d’Inghilterra sopra <lb/>
+le cose del palazzo: discorsi sopra ciò. </p>
+<p>Altri avisi di quel Governo. </p>
+<p>Dubita sia perso il dispaccio <lb/>
+de’ 21 del passato in risposta di sua <lb/>
+de’ 4. </p>
+<p>Aspettano con desiderio la risposta <lb/>
+per venir a nominato di persona <lb/>
+per l’ambasciata. </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "p(er)."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "h-" corrected above "p-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-à" corrected above "-eb."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "eccimento" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "a-" corrected above "i-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

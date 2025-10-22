@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.037 date 1621-06-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">037</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 180r-182v, 185r-</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp57-74#fnn10
+            </note>
+            <biblScope unit="page">180r-182v, 185r-v, 183r-184v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that news arrived the dissolution of the English Parliament and the resolution has been published in Dutch (see attachment). A letter by Caron to Aerssens claims that parliament has decided to give substantial subsidies to the king to recover the possessions of the king, queen and their children. But arrival of General Cecil cast doubts on particulars of the decision. The Count of Mansfelt has written to his Majesty showing how he can attack Bavaria and even reach Prague, but Frederick has written to stop him, as the restitution of his possessions depends upon negotiations by Digby. States of Holland have decided to lend money to Frederick V and it will be send to Upper and lower Palatinate. speculation about intentions of danish king and Christian of Brunswick has sent someone to republic to levy troops. reports of war preparations in brabant continue, with constructions of bridges and that Spinola is preparing to march. One document attached: a resolution from Parliament in London</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-28">28 giugno 1621</date>
+            <num>060, 061</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="060">
+<div type="main" facs="main text of letter" n="060">
+<!--<p>28 giugno 1621, L’Aia (cc. 180r-182v, 185r-v)</p>-->
+<pb n="180r" facs="10_180r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 310 fin 312 </p>
+<p>Serenissimo Principe </p>
+<p>la settimana passata venne qui l’avviso della dissolutione del Parlamento <lb/>
+d’Inghilterra, et la risolutione insieme, ch’è stata impressa nella lingua <lb/>
+fiaminga; et se ben io sono sicuro, che dall’eccellentissimo signor ambasciator Lando sarà <lb/>
+stata inviata alla Serenità vostra, in ogni modo per abundare la mando<ptr target="#tn1" n="1"/> <lb/>
+tradotta colle presenti. Havutala questo signor ambasciator d’Inghilterra <lb/>
+nelle lettere sue la fece immediate capitar alli signori Stati. Ella <lb/>
+piacque; ma più sarebbe riuscita accetta se fosse stata di più <lb/>
+effettiva risolutione: considerato nondimeno il piedi, che si era <lb/>
+preso del caminar verso l’Imperatore col negotio si accommodorono <lb/>
+ad aspettar l’essito (et l’effetto con la restitutione del Palatinato. </p>
+<p>A questo avvertimento n’è susseguitato un altro scritto da monsignor Caron <lb/>
+al signor cavallier Arsen, che quelli del Parlamento havessero nel sepa-<lb/>
+rarsi gl’uni da gl’altri risoluto di dar vinti sussidii al Re per <lb/>
+ricuperar alli re, et Regina suoi<ptr target="#tn2" n="2"/> figlioli il suo, che ogni <lb/>
+sussidio<ptr target="#tn3" n="3"/> importasse ducento et cinquanta milla lire sterline <lb/>
+et simil altre stravaganze, che empirono assai le orrecchie <lb/>
+di quelli, che haverebbono voluto, che così fosse. Alli signori Stati <lb/>
+fu dal medesimo signor Arsen significato questo particolare così pregato da <lb/>
+monsignor Carone con iscusarlo con l’Eccellenze loro, et col signor principe <lb/>
+d’Oranges poiché per la brevità del tempo non gli era permesso <lb/>
+di scrivere, havendo ricevuto in quel punto, che stava <lb/>
+per ispedir le lettere il detto avviso. Ma il signor Carleton se ne <lb/>
+burla, et il signor colonello Sicil, che hoggi terzo giorno è venuto d’<lb/>
+Inghilterra havendo fatto il viaggio in trent’hore non porta, che la <lb/>
+sola prima risolutione: resta nondimeno impresso l’universale di questa <lb/>
+nuova, et la volontà, che così fosse la cosa fa che alcuni
+<pb n="180v" facs="10_180v" rend="0"/>
+non voglino persuadersi altrimenti. </p>
+<p>Della sudetta vera risolutione del Parlamento restano in buona <lb/>
+parte sodisfatti questi principi; et consolati di comprender l’animo <lb/>
+di quei popoli così ben intentionato, et ben disposto verso li loro <lb/>
+interessi. </p>
+<p>Molto avanti bisogna, che sia al presente il signor ambasciator Dighbi, et <lb/>
+forse poco discosto dall’Imperatore; onde doverà intendersi <lb/>
+tra poche settimane l’apparenza, se l’essito della negotiatione <lb/>
+habbi a parar al bene. </p>
+<p>Haveva il conte di Mansfelt scritto a questa Maestà, et fattole apparer <lb/>
+la facilità di passar avanti, danneggiar lo stato di Baviera, pro-<lb/>
+seguir anco più oltre sino sotto a Praga, dato conto delle levate <lb/>
+che haveva fatte, delle genti, che haveva in piedi, degl’ordini <lb/>
+et commodità di farne d’altre, haveva mandato anco verso <lb/>
+questa parte per procurar qualche numero di cavallaria; et <lb/>
+come si mostrava caldo nel volere, et desiderio di proseguir <lb/>
+innanti, in un medesimo tempo anco andava danneggiando <lb/>
+il territorio del vescovato di Bamberga, quello di Spira, <lb/>
+et altri. Ma questa Maestà havendo già rimesso in mano <lb/>
+del re d’Inghilterra le cose sue, et poiché la restitutione del suo <lb/>
+doveva esser maneggiata per via di trattato, et d’ufficii, et <lb/>
+havendo il detto Dighbi tanto in mano per parte di Spagna, <lb/>
+et delli arciduchi (che le serviva per promettersi la restitutione <lb/>
+non restandogli, che solo trattar coll’Imperatore) con lettere ispe-<lb/>
+dite in diligenza ha ordinato al detto conte di Mansfelt non <lb/>
+avanzarsi, et ritenersi senza far altra offesa; a che prontamente
+<pb n="181r" facs="10_181r" rend="0"/>
+ha rescritto Mansfelt, che haverebbe ubidito, dicendo<ptr target="#tn4" n="4"/> che ’l solo desiderio <lb/>
+di servir sua Maestà, et vedersi assai facile il camino per aprir <lb/>
+la stradda a miglior fortuna con danno de’ suoi nemici, ve lo haveva indotto. Anco nel Basso Palatinato ha commandato <lb/>
+che non si facci alcun motivo. Continua la sospension d’armi in <lb/>
+quelle parti, et una nuova se ne tratta di doi mesi, o sei <lb/>
+settimane col mezo dell’agente d’Inghilterra Trombol, che si trattiene<ptr target="#tn5" n="5"/> <lb/>
+a Brusseles con speranza di buon fine. </p>
+<p>Doppo haver questa Maestà fatta solicitar con instanza appresso li stati <lb/>
+di Holanda, sendo di buona intentione l’altre provincie di <lb/>
+haver imprestido di centocinquanta milla fiorini; andando la cosa <lb/>
+in lungo si era ridotto per l’urgenza, et bisogno a venir a <lb/>
+cento milla fiorini, parendo, che detta Congregatione v’inclinasse <lb/>
+ma volendo li medesimi stati di Holanda mostrar a questi <lb/>
+principi l’affettione, che li portano, et il desiderio di sodisfarli <lb/>
+hanno accordato di dar a sua Maestà tutti li centocinquanta milla <lb/>
+fiorini, che ricercava: onde doveranno esser immediate <lb/>
+ispediti verso l’Alto, et Basso Palatinato per trattener quelle <lb/>
+genti; et effettivamente questi signori fanno tutto quello, che huma-<lb/>
+namente si può per servitio di questi principi. </p>
+<p>Fu scritto, che ’l re di Danimarca vedendo<ptr target="#tn6" n="6"/> totalmente disunita <lb/>
+l’unione con niuna speranza di potersi riunire pensava <lb/>
+licentiar quelle genti, c’haveva in piedi, et unir li suoi ufficii <lb/>
+con quelli del re della Gran Bretagna, et per quanto et per quanto ho <lb/>
+potuto penetrare coi medesimi concetti ha egli scritto a questa <lb/>
+Maestà. Tuttavia<ptr target="#tn7" n="7"/> per avvisi havutisi doppo s’intende
+<pb n="181v" facs="10_181v" rend="0"/>
+che le trattenirà ancora. Ma com’è Principe, che non è così facile a <lb/>
+gettar il suo ha pensato anco prevalersi dell’occasione, et sotto pre-<lb/>
+testo di sollevar il Paese, dove si attrovano le truppe, et rinfrescarle <lb/>
+ha tentato appresso il vescovo di Brem et le città di Lubech, et Hamburgh <lb/>
+commodità di potervele trattenere: intanto però non sono restate <lb/>
+di far qualche danno in quei territorii, che ha data materia al <lb/>
+Vescovo<ptr target="#tn8" n="8"/> in particolare d’inviar qui suo gentilhuomo espresso per <lb/>
+rappresentar il danno, che riceveva<ptr target="#tn9" n="9"/>, et insieme il suspetto, che <lb/>
+vi era di qualche attentato di quella Maestà contra Brem, <lb/>
+et contra le altre città ancora. Questo riferisce esser le <lb/>
+truppe di detto Principe di quattro in cinquemille fanti, et mille <lb/>
+cavalli se vi arrivano: et ricerca<ptr target="#tn10" n="10"/> con affetto l’interpo-<lb/>
+sitione dei signori Stati perché il patrone resti sollevato dall’aggravio, <lb/>
+et dal sospetto. </p>
+<p>L’opinione concorre in molti, che quel Re finalmente farà li fatti suoi <lb/>
+sopra quelle città poiché ha forza, et volontà di effettuar <lb/>
+le sue pretensioni tanto per la coadiutoria di Brem, che per <lb/>
+la protettione di Hamburgh<ptr target="#tn11" n="11"/>. </p>
+<p>Il duca di Bransuich non ha ancor licentiate le genti, che teneva <lb/>
+come fu publicato che doveva fare, et sopra tal avviso li signori <lb/>
+Stati havevano ispedito il suo commissario per far levata di <lb/>
+sette compagnie; ma ha ricevuto ordine, che se non può haver <lb/>
+di quelle pigli altre genti, et s’ispedischi quanto più presto. </p>
+<p>Il Wolfenboutel piazza del medesimo duca di Bransuich deve <lb/>
+esser una convocatione de’ principi della Bassa Sassonia <lb/>
+ove doverà intervenir anco il duca elettor di Sassonia
+<pb n="182r" facs="10_182r" rend="0"/>
+dicono, che ’l re di Danimarca l’habbi procurata; ma per anco <lb/>
+non ho potuto cavarne il fine. Quella di Ratisbona qui si <lb/>
+parla esser stata prorogata fino a settembre, et da<ptr target="#tn12" n="12"/> Brusseles <lb/>
+se ne ha la confermatione; et viene interpretato, che sia per <lb/>
+tirar il negotio dell’ambasciator Dighbi in lungo, quando l’Ambasciatore non <lb/>
+accordi di quelle sodisfattioni, che forse sua Maestà cesarea si <lb/>
+risolverà di metter avanti per humiliatione di questo Re <lb/>
+ma non è che discorso de’ particolari, et vostra Serenità dal proprio luoco<ptr target="#tn13" n="13"/> haverà <lb/>
+la più vera, et sincera causa di tal prorogatione. </p>
+<p>Da Brusseles anco viene scritto, che l’instanza del re di Danimarca <lb/>
+fatta alle città sudette di Brem, et altre per trattener sul loro <lb/>
+le sue militie era stata con dire, ch’era per un gran servitio <lb/>
+della cristianità, et che non poteva condursi a buon termine <lb/>
+che nello spatio di sei settimane. </p>
+<p>Gl’avvisi, che vengono di Brabant portano che si facevano delle <lb/>
+preparationi assai, che hieri doveva farsi mostra di carri, cavalli <lb/>
+da tirar<ptr target="#tn14" n="14"/> artiglierie, et d’altri simil apprestamenti da guerra <lb/>
+et dovevano li conduttori ricever anco denari; che si fabricavano <lb/>
+alcune felucche, oltre li pontoni, et in particolar parlano che <lb/>
+si sono fatti tre milla paia di stivalli grandi da acqua <lb/>
+altri dicono anco più, né sano qui imaginarsi altrimenti <lb/>
+se non che habbino a servir per passar la<ptr target="#tn15" n="15"/> soldatesca con essi <lb/>
+verso la Fiandra sia a Cassant facendo l’amor a quell’<lb/>
+isola, che riguarda all’Esclusa, o altrove verso Breda <lb/>
+et bisogna che sia per fondo, che habbi del pericoloso per inco-<lb/>
+modar la soldatesca o ne’ piedi, o nelle gambe. Sono alcuni
+<pb n="182v" facs="10_182v" rend="0"/>
+giorni che si era parlato di questa provisione di stivalli, ma come <lb/>
+non era creduta così manc’io<ptr target="#tn16" n="16"/> sapevo esser solo a crederla, dicendosi <lb/>
+molte vanità, come quella della statua d’oro del beato Ignatio <lb/>
+che fu detto essersi trovata nei vasselli presi<ptr target="#tn17" n="17"/> in Zelanda da quelli di guerra dei Stati, che non è stato vero. </p>
+<p>Viene aggiunto in lettere di Brusseles, che presto il marchese Spi-<lb/>
+nola sia per uscir in campagna. Sua<ptr target="#tn18" n="18"/> Eccellenza anco n’è stata avvisata <lb/>
+ma non si sa che creder mentre le cose di là passano con una <lb/>
+grandissima, et estraordinaria secretezza consultando Spagnuoli in poco <lb/>
+numero. Fin qui le guarnigioni sono state quiete dalla <lb/>
+parte di Sue Altezze ma il signor principe Henrico, ch’oggi è stato <lb/>
+in questa casa della Serenità vostra mi ha detto, che quelli di Tillemont <lb/>
+hanno fatti prigionieri quattro cavallieri usciti di Bredà, <lb/>
+et vendutili li cavalli li habbino anco ranzonati, quei <lb/>
+mercanti che furono presi a Grave anc’essi sono stati <lb/>
+ranzonati da quelli dei signori Stati, et li doi officiali riformati, <lb/>
+che furono presi li giorni passati ancor stanno prigionieri. </p>
+<p>Questo potrebbe riscaldar le partite, et rinforzar da un canto, et <lb/>
+dall’altro il far de’ buttini: con tutto ciò non vi è ancora <lb/>
+chi<ptr target="#tn19" n="19"/> sappi comprender se sarà guerra, o prorogatione <lb/>
+di tregua. Et molti presupongono, che prima li Spagnuoli <lb/>
+vorranno veder a che termineranno li affari di Alemagna <lb/>
+per l’Imperatore. Et se seguirà l’effetto della voce, che <lb/>
+corre, anzi di quello che viene scritto a questo re, che <lb/>
+Bethelem Gabor alla fine<ptr target="#tn20" n="20"/> di questo mese, o <lb/>
+principio dell’altro sia per esser<ptr target="#tn21" n="21"/> in campagna con
+<pb n="185r" facs="10_185r" rend="0"/>
+settanta milla combattenti, et che si coronerà re d’Ongaria. <lb/>
+Il numero della militie è stimato troppo grande, et se ne batte <lb/>
+qualche summa: in ogni modo mette egli in speranza di far <lb/>
+qualche cosa di buono anco per questa Maestà. Di quello che <lb/>
+possi seguir da quella parte vostre Eccellenze devono haver li più sinceri<ptr target="#tn22" n="22"/> <lb/>
+avvisi. Qui sono avvisati, che ’l marchese di Jegherdort <lb/>
+havesse buona militia, ma che haveva ricevuto in essa alcun <lb/>
+danno da soldati di Polonia. Gratie etc. </p>
+<p>Dall’Haya li 28 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="185v" facs="10_185v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 310 fin 312<ptr target="#tn23" n="23"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="060">
+<!--
+<p n="185vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 giugno 1621 ricevute 14 luglio n° 310 </p>
+<p>Haya. Secretario Suriano. Prima<ptr target="#tn24" n="24"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="061" corresp="060" source="183r-184v" >
+<div type="main" facs="main text of attachment I" n="061" corresp="060" >
+<!--<p>Allegato I al n. 60 (cc. 183r-184v)</p>-->
+<pb n="183r" facs="10_183r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Surian de n° 310 </p>
+<p>Radunato il commune nel Parlamento pigliando nella <lb/>
+propria seriosa consideratione il stato presente delli <lb/>
+figlioli del Re fuori del Paese; aggiunto lo stato presente <lb/>
+miserabile di quelli, che professano, et confessano la loro <lb/>
+medesima christiana religione, la quale è insegnata <lb/>
+nelle chiese d’Inghilterra; et altre forestiere commossi da <lb/>
+compassione, et sentimento della loro miseria, come <lb/>
+essendo membri dello stesso corpo, sopra questo, <lb/>
+concordemente, et ognuno in particolare di commun <lb/>
+consenso nel loro proprio nome, et in nome del <lb/>
+commun corpo del Regno, che essi rappresentano <lb/>
+dichiarano a sua Maestà, et al mondo tutto il loro cor-<lb/>
+dial dolore, et tristezza, et offeriscono sé stessi nelle <lb/>
+sue humili, et devote preghiere a Dio omnipotente <lb/>
+di voler proteger, et difender la sua vera chiesa, et <lb/>
+impedir tutti li presenti iminenti periculi: ma protestano <lb/>
+anco concordemente et solennemente, che (se alli pietosi, <lb/>
+et affettuosi ufficii di sua Maestà per procurar la sua pace <lb/>
+et sicurezza non seguita l’effetto, et non impetra la <lb/>
+dimanda,<ptr target="#tn25" n="25"/> nel trattare, ricercamo <lb/>
+humilmente la Maestà sua di non permetter più lunga dilatione <lb/>
+o sutterfugio) essi allhora col beneplacito di sua Maestà <lb/>
+dichiarano nel Parlamento esser pronti all’ultimo poter <lb/>
+suo insieme con il corpo, et vita assisterli talmente <lb/>
+che coll’aiuto dell’omnipotente Iddio, che mai <lb/>
+abandona quelli (che nel suo timore pigliano la
+<pb n="183v" facs="10_183v" rend="0"/>
+difesa della sua propria causa) haverà il suo valore <lb/>
+colla spada, et effettuarà quello, che non può con <lb/>
+mezi amicabili. </p>
+<pb n="184r" facs="10_184r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="184v" facs="10_184v" rend="270"/>
+<p>Risolutione del Parlamento <lb/>
+di Londra </p>
+<p>nelle prime n° 310 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "invio."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> -"ne" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "tutt" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-va" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "quest" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "H-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "alti" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "l"- is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "di questo principio" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Presence of a seal and traces of seals"</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Precedes 2<hi rend="superscript">da</hi> crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "non se ha riguardo" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.078 date 1620-01-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">078</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 425r-426v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">425r-426v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Replies that he will pay, as instructed, for the rent of four returning ships as well as the burnt one. He acknowledges receipt of letters to use when necessary in case of the ship owners who claim more payment. reports he has taken 20 000 ducats to be paid to Noirrot. No news about the seven ships as the entire land is frozen. He does his utmost to delay the liquidation of accounts until hamel has arrived. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-01-13">13 gennaio 1620</date>
+            <num>133</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="133">
+<div type="main" facs="main text of letter" n="133">
+<!--<p>13 gennaio 1620, L’Aia (cc. 425r-426v)</p>-->
+<pb n="425r" facs="08_425r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 169 comincia 168 </p>
+<p>fin 170 </p>
+<p>Serenissimo Principe </p>
+<p>già sta dato l’ordine per l’effetto della sodisfattione che <lb/>
+vostra Serenità mi commanda colle sue lettere de’ 27 del passato <lb/>
+che dia alli partionevoli delle quattro navi ritornate, <lb/>
+toccante<ptr target="#tn1" n="1"/> li avanzi dei loro noleggi, et saranno fatti <lb/>
+li pagamenti con la circonspettione che le scrissi, come anco <lb/>
+per quel che resta pur di noleggio per la nave abbruggiata. </p>
+<p>Quanto alla pretensione dei partionevoli d’essa da molte <lb/>
+settimane in qua non ho sentito a toccar moto né direttamente <lb/>
+né indirettamente, non so però se possi dirmene libero, se ’l <lb/>
+loro sia stato un esperimento, o se aspettino ragioni per <lb/>
+corroborar, et convalidar la loro pretensione. Io in ogni <lb/>
+caso resto armato delle ragioni della Serenità vostra et precedenti, <lb/>
+et ultime venutemi colle medesime lettere de’ 27 con la copia <lb/>
+di quanto ha scritto l’eccellentissimo signor capitan general Venier, che <lb/>
+in conformità scrive a me ancora, et mi sono capitate <lb/>
+le lettere col medesimo dispaccio. Mi valerò d’esse con <lb/>
+speranza d’esser aiutato dal favor del Signor Dio per <lb/>
+liberar l’Eccellenze vostre illustrissime da questo pensiero. </p>
+<p>Uno degl’interessati nelli sette restanti vasselli a venire, m’ha <lb/>
+detto che erano state rimandate l’ultime lettere per il <lb/>
+loro noleggio anco queste doverò pagare, et vi vorrà <lb/>
+ben del denaro poiché ognuno<ptr target="#tn2" n="2"/> di essi vasselli anderà <lb/>
+creditore di più di quattro mesi. Questa mattina <lb/>
+ho mandate lettere in Amsterdam di 20 mila ducati <lb/>
+pagabili<ptr target="#tn3" n="3"/> al signor Melchior Noirott per altrettanta valuta
+<pb n="425v" facs="08_425v" rend="0"/>
+che doverà esser esborsata da’ signori Latfeur, Calandrini, et <lb/>
+Vandermeulen per pagar li noleggi detti di sopra delle <lb/>
+cinque prime navi et per altro: et per quest’ultime <lb/>
+vi vorrà anco maggior somma di denaro, et per me <lb/>
+non haverei creduto, che queste ultime lettere ritornassero <lb/>
+tant’è io non mancarò di sodisfar come è mente della <lb/>
+Serenità vostra. </p>
+<p>Delle dette sette navi non sento alcuna nuova, quello che <lb/>
+mi spiace, et mi tormenta l’animo è che tutto il Paese <lb/>
+al presente è in giaccio. Queste Amiralità mi diedero intensione <lb/>
+di scriver in Inghilterra voglio creder, che l’haveranno fatto <lb/>
+ma spedito questo dispaccio non mancarò di scriverli che <lb/>
+faccino nuova replica. Piacesse a Dio, che vostra Serenità fosse <lb/>
+stata servita nel farli accordar, et stabilir un tempo <lb/>
+prefisso anco che fosse stato di tre mesi: perché l’haverei <lb/>
+riputato suo maggior vantaggio, come in effetto sarebbe <lb/>
+stato. Non posso far altro che pregar Iddio che comparino. </p>
+<p>Io procuro in quanto m’è possibile, che si ritardi la liquidatione <lb/>
+dei conti colli capitani, o heredi dei morti capitani fino <lb/>
+alla venuta di Nicolo Hamel agente della vedova <lb/>
+Kerkoven, stimando per publico servitio ch’egli sia <lb/>
+presente qui per poter haver lumi necessarii per<ptr target="#tn4" n="4"/> <lb/>
+ridur le cose a buon fine. La supplico se ancor è costì <lb/>
+solecitando, come intendo che vi era, far che sia spedito <lb/>
+acciò sia quanto più presto di qua. Gratie etc. </p>
+<p>Dall’Haya li 13 genaro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="426r" facs="08_426r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="426v" facs="08_426v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 169 comincia 168 <lb/>
+fin 170 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="133">
+<!--
+<p n="426vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 gennaro 1619. Ricevute 29 detto </p>
+<p>Haya. n° 169 </p>
+<p>Farà i pagamenti dei noleggi delle 4 <lb/>
+navi et della nave abbrucciata. </p>
+<p>Li portionevoli di esta per la pretensione <lb/>
+non dicono altro. </p>
+<p>Farà bisogno molto danaro li <lb/>
+avanzi de’ vasselli essendo anco <lb/>
+ritornati l’ultime lettere. </p>
+<p>Manda di cambio per ducati 20 mila </p>
+<p>Le sette navi tardano a <lb/>
+gionger. </p>
+<p>Va trattenendo li conti dei morti <lb/>
+alla venuta dell’Amel commesso <lb/>
+del Cherrcoven: sollecita l’espeditione <lb/>
+sua per ciò. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o corretta su -a."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Esito di correzione."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Corretto su a; segue fine | di depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>
