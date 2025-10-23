@@ -1,4 +1,4 @@
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/HuygensING/suriano/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/HuygensING/suriano)
 
@@ -7,6 +7,19 @@
 ![ok](docs/images/logo.png)
 ![huc](docs/images/huc.png)
 ![tf](docs/images/tf-small.png)
+
+This is an auxiliary repo for publishing the letters by Suriano through the
+Text-Fabric pipeline.
+
+We expect to put this corpus in a new pipeline, via the 🥕 application.
+
+See
+
+*   [🥕 pipeline old style](https://code.huc.knaw.nl/tt/editem)
+*   [🥕 pipeline new style](https://code.huc.knaw.nl/tt/editemx) (in development)
+
+This repo is now archived, but it remains the basis of the currently published version
+of the corpus.
 
 # The correspondence of Christofforo Suriano
 
