@@ -54,6 +54,7 @@ METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
 TEIXDIR = f"{_TRANSDIR}/teiSimple"
+TRANSCRIBER_YML = f"{_TRANSDIR}/transcribers.yml"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _DATADIR
 TEIDIR = f"{SOURCEBASE}/tei"

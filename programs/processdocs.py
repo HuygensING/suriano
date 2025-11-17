@@ -32,6 +32,7 @@ from tf.core.files import (
     fileExists,
     writeJson,
     writeYaml,
+    readYaml,
 )
 from tf.core.helpers import console, htmlEsc
 
@@ -76,6 +77,7 @@ from processhelpers import (
     SUMMARY_FILE,
     DOCXDIR,
     TEIXDIR,
+    TRANSCRIBER_YML,
     REPORT_TRANSCRIBERS_PAGE,
     TRANS_TXT,
     REPORT_HEADERS,
@@ -1130,6 +1132,31 @@ class TeiFromDocx(PageInfo):
         self.transcriberInfo = transcriberInfo
 
         wrongHeaders = 0
+
+        extraTranscriberInfo = readYaml(asFile=TRANSCRIBER_YML, plain=True)
+
+        for (filza, specs) in extraTranscriberInfo.items():
+            for spec in specs:
+                pageSpec = spec["pages"]
+                transcriber = spec["transcriber"]
+                (warnings, pages) = distilPages(pageSpec, True, simpleOnly=True)
+
+                x = f"{filza}: " if silent else "\t\t"
+
+                if warnings:
+                    self.console(
+                        f"{x}wrong page spec in header «{pageSpec}»: {warnings}",
+                        error=True,
+                    )
+                    continue
+
+                for page in pages:
+                    headers.setdefault(transcriber, {}).setdefault(filza, set()).add(
+                        page
+                    )
+                    transcriberInfo.setdefault(filza, {}).setdefault(page, set()).add(
+                        transcriber
+                    )
 
         for file in files:
             self.console(f"\t{file}")

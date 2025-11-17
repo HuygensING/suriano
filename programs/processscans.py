@@ -49,11 +49,12 @@ class Scans(PageInfo):
 
         PageInfo.__init__(self, silent=silent)
 
-    def ingest(self, dry=False):
+    def ingest(self, dry=False, force=None):
         if self.error:
             return
 
-        force = self.force
+        if force is None:
+            force = self.force
 
         self.ingestLogo(dry=dry)
 
@@ -81,7 +82,11 @@ class Scans(PageInfo):
         rotateInfo = self.rotateInfo
         scanExt = SCAN_EXT[0]
 
-        filzas = sorted(f for f in dirContents(SIMAGEDIR)[1] if f.isdecimal())
+        filzas = sorted(
+            f
+            for f in dirContents(SIMAGEDIR)[1]
+            if f.isdecimal() or f.rstrip("b").isdecimal
+        )
 
         errors = {}
 
