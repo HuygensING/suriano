@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09b.011 date 1602-09-15</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>xxx_yyy</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09b</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf"></idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">38r-39v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note> </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs"></name>
+            <settlement></settlement>
+            <date when="1602-09-15">15 settembre 1602</date>
+            <num>010</num>
+        </correspAction>
+        <correspAction type="received">
+            <name></name>
+            <settlement></settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="010">
+<div type="main" facs="main text of letter" n="010">
+<!--<p>15 settembre 1602, Colonia (cc. 38r-39v)</p>-->
+<pb n="038r" facs="09b_038r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 10 </p>
+<p>3<hi rend="superscript">za</hi> </p>
+<p>Serenissimo Principe </p>
+<p>sigillate le precedenti mie lettere per vostra Serenità <lb/>
+intendo, che avanzatossi dall’esercito de’ signori <lb/>
+principi il collonello Ombrentraut habbi batuto due <lb/>
+compagnie de’ cavalli del Spinola, amazzati <lb/>
+forse trenta huomini, et fatti prigioni diversi, <lb/>
+e fra questi alcune persone di conto, et <lb/>
+particolarmente il principe di Epinoi valone; <lb/>
+son anco assicurato, che con il principe Henrico <lb/>
+di Nansau<ptr target="#tn1" n="1"/>, oltre le compagnie de’ cavalli, <lb/>
+avisate<ptr target="#tn2" n="2"/>, sieno anco li fanti levati in Inghilterra <lb/>
+per servitio del re di Bohemia sotto il collonel <lb/>
+Ver in numero di due mille ducento, li quali però <lb/>
+si dubita, che per andare a congiongersi con <lb/>
+l’esercito delli principi possino ritrovar incontro <lb/>
+del Spinola, resta non di meno questo Principe <lb/>
+avisato di ciò, che passa; onde non aventurerà <lb/>
+sé stesso, né la sua gente senza le convenienti <lb/>
+avertenze; qui si è sparsa voce, che il <lb/>
+Spinola habbi presa la terra di Baccarach, <lb/>
+ma non vi essendo rincontro non è creduto, né <lb/>
+io lo porto con fondamento all’Eccellenze vostre. Dimani <lb/>
+partirò da questa città, seguitando il camino
+<pb n="038v" facs="09b_038v" rend="0"/>
+del Reno, tenuto per meno pericoloso, spero <lb/>
+in due giorni trovarmi col signor principe di <lb/>
+Oranges, col quale darò principio ad esequire <lb/>
+ciò, che dall’Eccellenze vostre tengo in commissione, di che <lb/>
+resteranno di tempo in tempo avisate conforme <lb/>
+al debito della mia dovuta riverenza. Gratie etc. </p>
+<p>Di Colonia lì 15 settembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>Hieronimo Trivisan ambasciator </p>
+<pb n="039r" facs="09b_039r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="039v" facs="09b_039v" rend="270"/>
+<p>Al serenissimo principe di Venetia <lb/>
+etc. </p>
+<p>n° 10 </p>
+<p>3<hi rend="superscript">za</hi> </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="010">
+<!--
+<p n="039vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1620, 15 settembre ricevute a primo ottobre </p>
+<p>Ambasciator Trivisan da Colonia </p>
+<p>3<hi rend="superscript">za</hi> n° 10 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" corrected above "-i", uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

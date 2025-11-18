@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09b.002 date 1620-08-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>xxx_yyy</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09b</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf"></idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">13r-14v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note> </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs"></name>
+            <settlement></settlement>
+            <date when="1620-08-18">18 agosto 1620</date>
+            <num>001</num>
+        </correspAction>
+        <correspAction type="received">
+            <name></name>
+            <settlement></settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>18 agosto 1620, Trento (cc. 13r-14v)</p>-->
+<pb n="013r" facs="09b_013r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 1 </p>
+<p>Serenissimo Principe </p>
+<p>doppo essermi trattenuto per quattro giorni a <lb/>
+Bassano per riparare al meglio, che si è potuto <lb/>
+al grave danno patito nelle mie robbe cadute <lb/>
+in gran parte con la carretta, che le conduceva <lb/>
+in un gran fosso di aqua; continuando il mio <lb/>
+camino questa sera son giunto in questa <lb/>
+città, dove subbito ho procurato col mezo del <lb/>
+secretario Padavino l’audienza da questo illustrissimo, et <lb/>
+reverendissimo signor Cardinal per essequir seco l’ufficio di <lb/>
+creanza commessomi da vostra Serenità, ma ritrovandosi <lb/>
+egli a certo suo luoco qualche miglio di qui <lb/>
+discosto, cessa a me l’occasione di vederlo; intendo <lb/>
+però, che sia per ritornare in città sabbato <lb/>
+prossimo per allestirsi, come dicono, per <lb/>
+andare inmediate a Roma, havendo havuta <lb/>
+la protettione di Spagna, la verità saprà la <lb/>
+Serenità vostra da più proprio luoco; ho però <lb/>
+stimato mio debito l’avisarne ciò, che qui se<ptr target="#tn1" n="1"/> <lb/>
+ne ragiona. </p>
+<p>Ho ricevuto con la mia solita, et dovuta riverenza <lb/>
+le lettere della Serenità vostra di tredeci del corrente <lb/>
+con la commissione degli uffici, che doverò passare <lb/>
+con quelli de’ signori principi dell’Unione, che
+<pb n="013v" facs="09b_013v" rend="0"/>
+mi occorresse di vedere in proposito della <lb/>
+ribellione de’ Valtellini, il che sarà da me <lb/>
+puntulmente essequito, come per mia debolezza <lb/>
+stimerò concerner il servitio publico, et <lb/>
+poter riuscire di gusto all’Eccellenze vostre. Gratie etc. </p>
+<p>Di Trento li 18 agosto 1620 </p>
+<p>di vostra Serenità </p>
+<p>Hieronimo Trivisan ambasciatore </p>
+<pb n="014r" facs="09b_014r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="014v" facs="09b_014v" rend="270"/>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="014vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 agosto 1620 ricevuta a’ 26 detto </p>
+<p>ambasciator Trevisan destinato <lb/>
+ai Stati da Trento </p>
+<p>n° 1 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e" corrected above "-i."</p></note>
+</div>
+</body>
+</text>
+</TEI>

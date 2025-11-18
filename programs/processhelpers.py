@@ -47,9 +47,9 @@ COVERDIR = f"{SCANDIR}/{COVERS}"
 COVERINDIR = f"{SIMAGEDIR}/{COVERS}"
 LOGODIR = f"{SCANDIR}/{LOGO}"
 LOGOINDIR = f"{_DATADIR}/{LOGO}"
-MISSING_YML = f"{_SCONFIGDIR}/missing.yml"
-ROTATE_YML = f"{_SCONFIGDIR}/rotate.yml"
-EXCL_YML = f"{_SCONFIGDIR}/exclusions.yml"
+MISSING_YML = f"{_SCONFIGDIR}/missing.yaml"
+ROTATE_YML = f"{_SCONFIGDIR}/rotate.yaml"
+EXCL_YML = f"{_SCONFIGDIR}/exclusions.yaml"
 METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
@@ -320,6 +320,21 @@ ATTACHMENT_RE = re.compile(
     \s*
     ([0-9]+[a-z]*)
     \s*
+    $
+    """,
+    re.X | re.I,
+)
+
+REGESTI_RE = re.compile(
+    r"""
+    ^
+    \s*
+    regesti
+    \s*
+    ,
+    \s*
+    (.*?)
+    \s+
     $
     """,
     re.X | re.I,

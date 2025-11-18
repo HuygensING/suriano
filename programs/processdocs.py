@@ -53,6 +53,7 @@ from processhelpers import (
     PAGE_SPEC_RE,
     NOPAGESPEC_RE,
     ATTACHMENT_RE,
+    REGESTI_RE,
     LETTER_RE,
     DATE_RE,
     FOL_RE_RE,
@@ -128,6 +129,7 @@ MAIN = "main"
 SECRETARIAL = "secretarial"
 LETTER = "letter"
 ATTACHMENT = "attachment"
+REGESTI = "regesti"
 
 # parameters:
 #
@@ -870,42 +872,64 @@ class TeiFromDocx(PageInfo):
                         )
 
                 biblScope.append(pageSpecs)
-                match = ATTACHMENT_RE.match(kindSpec)
+                match = REGESTI_RE.match(kindSpec)
 
                 if match:
-                    (romanNum, targetStr) = match.group(1, 2)
-                    textKind = ATTACHMENT
-                    target = f"{targetStr:>03}"
-                    atts = (
-                        f"""facs="{romanNum}" n="{textNum}" """
-                        f"""corresp="{target}" source="{pageSpecs}" """
-                    )
+                    textKind = REGESTI
+                    dateSpec = match.group(1)
+                    date = dateSpec
+                    match = DATE_RE.match(dateSpec)
+                    if match:
+                        (day, month, year) = match.group(1, 2, 3)
+                        normalizedDate = f"{year}-{MONTH_NUM[month]:>02}-{int(day):>02}"
+                    else:
+                        warning = f"{REGESTI} has invalid date"
+                        self.warn(filza, letter, textNum, ln, dateSpec, warning)
+                        normalizedDate = ""
+                    atts = f"""n="{textNum}" """ f"""source="{pageSpecs}" """
                     newTextLines.append(f"""<div type="{ATTACHMENT}" {atts}>""")
                 else:
-                    romanNum = None
-                    match = LETTER_RE.match(kindSpec)
+                    match = ATTACHMENT_RE.match(kindSpec)
 
                     if match:
-                        (dateSpec, placeSpec) = match.group(1, 2)
-                        textKind = "letter"
-                        target = None
-                        date = dateSpec
-                        settlement = placeSpec.strip()
-                        match = DATE_RE.match(dateSpec)
+                        (romanNum, targetStr) = match.group(1, 2)
+                        textKind = ATTACHMENT
+                        target = f"{targetStr:>03}"
+                        atts = (
+                            f"""facs="{romanNum}" n="{textNum}" """
+                            f"""corresp="{target}" source="{pageSpecs}" """
+                        )
+                        newTextLines.append(f"""<div type="{ATTACHMENT}" {atts}>""")
+                    else:
+                        romanNum = None
+                        match = LETTER_RE.match(kindSpec)
+
                         if match:
-                            (day, month, year) = match.group(1, 2, 3)
-                            normalizedDate = (
-                                f"{year}-{MONTH_NUM[month]:>02}-{int(day):>02}"
+                            (dateSpec, placeSpec) = match.group(1, 2)
+                            textKind = "letter"
+                            target = None
+                            date = dateSpec
+                            settlement = placeSpec.strip()
+                            match = DATE_RE.match(dateSpec)
+                            if match:
+                                (day, month, year) = match.group(1, 2, 3)
+                                normalizedDate = (
+                                    f"{year}-{MONTH_NUM[month]:>02}-{int(day):>02}"
+                                )
+                            else:
+                                warning = "letter has invalid date"
+                                self.warn(filza, letter, textNum, ln, dateSpec, warning)
+                                normalizedDate = ""
+                            newTextLines.append(
+                                f"""<div type="{LETTER}" n="{textNum}">"""
                             )
                         else:
-                            warning = "letter has invalid date"
-                            self.warn(filza, letter, textNum, ln, dateSpec, warning)
-                            normalizedDate = ""
-                        newTextLines.append(f"""<div type="{LETTER}" n="{textNum}">""")
-                    else:
-                        warning = f"Section line is not letter nor {ATTACHMENT}"
-                        self.warn(filza, letter, textNum, ln, line, warning)
-                        newTextLines.append(f"""<div type="{LETTER}">""")
+                            warning = (
+                                "Section line is not letter nor "
+                                f"{ATTACHMENT} nor {REGESTI}"
+                            )
+                            self.warn(filza, letter, textNum, ln, line, warning)
+                            newTextLines.append(f"""<div type="{LETTER}">""")
 
                 divLine, head = makeSubDiv(target, textKind, romanNum, textNum, MAIN)
                 newTextLines.append(divLine)
@@ -1135,7 +1159,7 @@ class TeiFromDocx(PageInfo):
 
         extraTranscriberInfo = readYaml(asFile=TRANSCRIBER_YML, plain=True)
 
-        for (filza, specs) in extraTranscriberInfo.items():
+        for filza, specs in extraTranscriberInfo.items():
             for spec in specs:
                 pageSpec = spec["pages"]
                 transcriber = spec["transcriber"]
@@ -1745,7 +1769,7 @@ class TeiFromDocx(PageInfo):
                         f"{it}\n\t{n:>4} x {label}{occs[0][0]}{extraEx}"
                         f"\n\t{occs[0][1]}\n\n"
                     )
-                    rh.write(f"{it}\n")
+                    rh.write(f"{n}x : {it}\n\t{occs=}\n\n")
                 else:
                     nTrans += 1
                     totTrans += n
@@ -1781,7 +1805,7 @@ class TeiFromDocx(PageInfo):
                         pages = lpInfo["pages"]
                         kind = lpInfo["kind"]
 
-                        if kind == "letter":
+                        if kind in {"letter", REGESTI}:
                             nLetters += 1
 
                         rh.write(f"\t\t{kind} {textNum}\n")

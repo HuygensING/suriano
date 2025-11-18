@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09b.024 date 1620-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>uuu_vvv</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09b</idno>
+                <idno type="letterno">024</idno>
+                <idno type="shelf"></idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">90r-91v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note> </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs"></name>
+            <settlement></settlement>
+            <date when="1620-11-13">13 novembre 1620</date>
+            <num>023</num>
+        </correspAction>
+        <correspAction type="received">
+            <name></name>
+            <settlement></settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="023">
+<div type="main" facs="main text of letter" n="023">
+<!--<p>13 novembre 1620, Saint-Denis (cc. 90r-91v)</p>-->
+<pb n="090r" facs="09b_090r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 24 </p>
+<p>Sola </p>
+<p>Serenissimo Principe </p>
+<p>partito da Midelburgh in Zelanda, di dove scrissi le mie <lb/>
+ultime riverenti lettere a vostra Serenità, non havendo potuto <lb/>
+tener altro camino, ho preso<ptr target="#tn1" n="1"/> la via della Fiandra, <lb/>
+avanzandomi a poco a poco, quanto comporta la qualità <lb/>
+della stagione, le giornate brevi, e le strade cattive; <lb/>
+hora mi truovo capitato in questo luoco di San Dioniggi, <lb/>
+non più lontano da Pariggi, che doi sole leghe, et se <lb/>
+ben son stato eccitato, et quasi violentato ad entrare <lb/>
+nella città dall’eccellentissimo signor ambasciator Contarini, che servendo <lb/>
+all’Eccellenze vostre in questa corte con somma reputatione, splendore, <lb/>
+et publico servitio, mi honorò hieri di venire a <lb/>
+vedermi in questo luoco, ho stimato bene di ricusare <lb/>
+il favore, credendo incontrare il gusto, et sodisfattione <lb/>
+dell’Eccellenze vostre, per le cause altre volte scritte; fatta la <lb/>
+provisione necessaria de’ cavalli, et carette in due giorni <lb/>
+mi partirò verso Lione, et di là passerò a’ suoi piedi; <lb/>
+ricevo in questo luoco le lettere di cotesto eccellentissimo Senato <lb/>
+di sedeci del passato, inviatemi in copia dal signor secretario <lb/>
+Suriano, che così come mi<ptr target="#tn2" n="2"/> colmano di <lb/>
+obligatione per la sodisfattione, che mi significano <lb/>
+l’Eccellenze vostre di haver ricevuto del primo ufficio, che io passai <lb/>
+con l’eccellentissimo signor principe di Oranges, così sono d’avantaggio <lb/>
+bastanti per solevarmi da ogni patimento, et incommodo, <lb/>
+che di qual si sia sorte io pruovo in questo così lungo, <lb/>
+et difficile viaggio, nel quale non havendo io incontrato <lb/>
+cosa degna di sua notitia, mi astenirò di apportarle <lb/>
+tedio maggiore con più lunga lettura delle
+<pb n="090v" facs="09b_090v" rend="0"/>
+mie lettere. Gratie etc. </p>
+<p>Da San Dinigi<ptr target="#tn3" n="3"/> li 13 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>Hieronimo Trivisan ambasciator </p>
+<pb n="091r" facs="09b_091r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="091v" facs="09b_091v" rend="0"/>
+<p>Al serenissimo principe di Venetia <lb/>
+etc. </p>
+<p>n° 24 sola </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="023">
+<!--
+<p n="091vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1620. Ricevuta 12 decembre n° 24 [sola]<ptr target="#tn4" n="4"/> </p>
+<p>Ambasciator Trivisan da San Dinigi </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "obligano" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "D-" corrected above "l-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Damaged page.</p></note>
+</div>
+</body>
+</text>
+</TEI>
