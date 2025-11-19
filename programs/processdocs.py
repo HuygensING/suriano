@@ -35,6 +35,7 @@ from tf.core.files import (
     readYaml,
 )
 from tf.core.helpers import console, htmlEsc
+from tff.convert.iiif import FILE_NOT_FOUND
 
 from processhelpers import (
     EM_DASH,
@@ -332,6 +333,7 @@ class TeiFromDocx(PageInfo):
         yearI = fields["year"]
         monthI = fields["month"]
         dayI = fields["day"]
+        filzaI = fields["filza"]
         senderI = fields[SENDER]
         senderLocI = fields[SENDERLOC]
         recipientI = fields[RECIPIENT]
@@ -364,6 +366,7 @@ class TeiFromDocx(PageInfo):
             year = fi(row, yearI)
             month = f"{fi(row, monthI):>02}"
             day = f"{fi(row, dayI):>02}"
+            filza = f"{fs(row, filzaI)}"
             sender = fs(row, senderI)
             senderLoc = fs(row, senderLocI)
             recipient = fs(row, recipientI)
@@ -379,7 +382,8 @@ class TeiFromDocx(PageInfo):
             )
             shelfmark = fs(row, shelfmarkI)
 
-            date = f"{year}-{month}-{day}"
+            filzaRep = f"-{filza}" if filza else ""
+            date = f"{year}-{month}-{day}{filzaRep}"
 
             information.setdefault(date, []).append(
                 dict(
@@ -1007,7 +1011,12 @@ class TeiFromDocx(PageInfo):
 
         newTextLines.append("</div>")
 
-        letterDatesFilza.setdefault(normalizedDate, []).append(letter)
+        dateKey = (
+            f"{normalizedDate}-{filza.lstrip("0")}"
+            if filza == "09b"
+            else normalizedDate
+        )
+        letterDatesFilza.setdefault(dateKey, []).append(letter)
         transcribers = set()
 
         for page in letterPages:
@@ -1027,7 +1036,7 @@ class TeiFromDocx(PageInfo):
         text = WHITE_RE.sub(" ", text)
         text = NL_WHITE_RE.sub("\n", text)
 
-        extraDatas = extraLetterData.get(normalizedDate, [])
+        extraDatas = extraLetterData.get(dateKey, [])
 
         extraData = None
 
@@ -1058,7 +1067,7 @@ class TeiFromDocx(PageInfo):
             editorNotes = extraData[EDITORNOTES]
             shelfmark = extraData[SHELFMARK]
 
-        extraLogFilza.setdefault(normalizedDate, []).append(
+        extraLogFilza.setdefault(dateKey, []).append(
             dict(
                 sender=sender,
                 senderLoc=senderLoc,
@@ -1320,7 +1329,8 @@ class TeiFromDocx(PageInfo):
             parts = name.split("_", 1)
 
             if len(parts) != 2:
-                errors.setdefault("no_filza", []).append(thumb)
+                if name != FILE_NOT_FOUND:
+                    errors.setdefault("no_filza", []).append(thumb)
                 continue
 
             (filza, pageStr) = parts
@@ -1908,6 +1918,7 @@ class TeiFromDocx(PageInfo):
         writeYaml(extraLog, asFile=REPORT_LETTER_META)
 
         dateFilza = {}
+        warnings = []
 
         for filza, dates in letterDate.items():
             for date in dates:
@@ -1916,8 +1927,8 @@ class TeiFromDocx(PageInfo):
         for date, filzas in sorted(dateFilza.items()):
             if len(filzas) > 1:
                 filzaRep = ", ".join(filzas)
-                warning = f"{date} occurs in multiple filzas: {filzaRep}"
-                self.warn(filza, "", "", "", date, warning, summarize=False)
+                warning = f"{filzaRep:3} {date}: occurs in multiple filzas"
+                warnings.append(warning)
 
         letterDates = {}
 
@@ -1926,8 +1937,6 @@ class TeiFromDocx(PageInfo):
                 letterDates[date] = textLetters
 
         allDates = set(extraLetterData) | set(letterDates)
-
-        warnings = []
 
         for date in sorted(allDates):
             textLetters = letterDates.get(date, [])
@@ -1945,9 +1954,9 @@ class TeiFromDocx(PageInfo):
                     shelfmark = letter["shelfmark"]
                     row = letter["row"]
                     filzas = dateFilza.get(date, set())
-                    filza = ", ".join(sorted(filzas))
+                    filzaRep = ", ".join(sorted(filzas))
                     warning = (
-                        f"{filza:2} {date}: metadata in r{row} "
+                        f"{filzaRep:3} {date}: metadata in r{row} "
                         f"for untranscribed letter {shelfmark}"
                     )
                     warnings.append(warning)
@@ -1955,8 +1964,8 @@ class TeiFromDocx(PageInfo):
                 for i in range(nMLetters, nTLetters):
                     letter = textLetters[i]
                     filzas = dateFilza[date]
-                    filza = ", ".join(sorted(filzas))
-                    warning = f"{filza:2} {date}: no metadata for letter {letter}"
+                    filzaRep = ", ".join(sorted(filzas))
+                    warning = f"{filzaRep:3} {date}: no metadata for letter {letter}"
                     warnings.append(warning)
 
         if len(warnings):
