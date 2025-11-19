@@ -23,6 +23,7 @@ from processhelpers import (
     LOGOINDIR,
     PAGEDIR,
     THUMBDIR,
+    THUMBLOGODIR,
     REPORT_SCANERRORS,
     Page,
     PageInfo,
@@ -250,7 +251,9 @@ class Scans(PageInfo):
         if self.error:
             return
 
-        if True or not dry:
+        if not dry:
+            dirRemove(THUMBLOGODIR)
+            dirCopy(LOGOINDIR, THUMBLOGODIR)
             dirRemove(LOGODIR)
             dirCopy(LOGOINDIR, LOGODIR)
 

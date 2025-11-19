@@ -1,0 +1,13 @@
+.label {
+  font-weight: bold;
+}
+.label::after {
+  content: ": "
+}
+table, td, th {
+  border: 1pt solid grey;
+  border-collapse: collapse;
+}
+td {
+  padding: 0.3rem 0.5rem;
+}
