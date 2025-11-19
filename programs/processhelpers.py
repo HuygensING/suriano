@@ -99,6 +99,8 @@ REPORT_TEIDIR = f"{_REPORTDIR}/tei"
 BIS = "bis"
 TER = "ter"
 
+FILZA_SHELF_RE = re.compile(r"""filza\s*([0-9]+)((?:bis|b)?)\b""", re.I)
+
 PAGE_STRICT_RE = re.compile(rf"""([0-9]{{1,3}})((?:{BIS}|{TER})?)([rv])([A-Z]?)""")
 
 PAGESPEC_RE = re.compile(

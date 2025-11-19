@@ -40,6 +40,7 @@ from tff.convert.iiif import FILE_NOT_FOUND
 from processhelpers import (
     EM_DASH,
     MONTH_NUM,
+    FILZA_SHELF_RE,
     WHITE_RE,
     NL_WHITE_RE,
     NL_RE,
@@ -333,7 +334,6 @@ class TeiFromDocx(PageInfo):
         yearI = fields["year"]
         monthI = fields["month"]
         dayI = fields["day"]
-        filzaI = fields["filza"]
         senderI = fields[SENDER]
         senderLocI = fields[SENDERLOC]
         recipientI = fields[RECIPIENT]
@@ -348,6 +348,7 @@ class TeiFromDocx(PageInfo):
             (r + 2, row) for (r, row) in enumerate(rows) if any(c.value for c in row)
         ]
 
+        shelfFilzas = set()
         information = {}
         self.extraLetterData = information
 
@@ -366,7 +367,6 @@ class TeiFromDocx(PageInfo):
             year = fi(row, yearI)
             month = f"{fi(row, monthI):>02}"
             day = f"{fi(row, dayI):>02}"
-            filza = f"{fs(row, filzaI)}"
             sender = fs(row, senderI)
             senderLoc = fs(row, senderLocI)
             recipient = fs(row, recipientI)
@@ -382,8 +382,18 @@ class TeiFromDocx(PageInfo):
             )
             shelfmark = fs(row, shelfmarkI)
 
-            filzaRep = f"-{filza}" if filza else ""
-            date = f"{year}-{month}-{day}{filzaRep}"
+            match = FILZA_SHELF_RE.search(shelfmark)
+
+            if match:
+                (num, ext) = match.group(1, 2)
+                filza = f"{num.lstrip("0").lower():>02}{ext.lower()}"
+            else:
+                console(f"Row {r + 1}: No filza in shelfmark: {shelfmark}", error=True)
+                filza = "??"
+
+            shelfFilzas.add(filza)
+
+            date = f"{year}-{month}-{day}-{filza}"
 
             information.setdefault(date, []).append(
                 dict(
@@ -402,6 +412,7 @@ class TeiFromDocx(PageInfo):
         self.console(
             f"\tfound metadata for {sum(len(x) for x in information.values())} letters"
         )
+        self.console(f"\tin filzas {', '.join(sorted(shelfFilzas))}")
 
     def trimPage(self, filza, letter, textNum, pages):
         rotateInfo = self.rotateInfo
@@ -1011,11 +1022,7 @@ class TeiFromDocx(PageInfo):
 
         newTextLines.append("</div>")
 
-        dateKey = (
-            f"{normalizedDate}-{filza.lstrip("0")}"
-            if filza == "09b"
-            else normalizedDate
-        )
+        dateKey = f"{normalizedDate}-{filza}"
         letterDatesFilza.setdefault(dateKey, []).append(letter)
         transcribers = set()
 
