@@ -46,30 +46,30 @@ Thumbs.db
 
 # Build directories #
 #####################
-site/
+/site/
 _site/
 _themes/
 build/
 _build/
 __pycache__/
 _temp/
-_local/
+/_local/
 dist
 .tf/
 .ipynb_checkpoints/
-scans/
 # static/
-watm/
+/watm/
 illustrations/
 
 # Directories with hi-res scans
 
-curatedscans/scans/images/
-scans/covers/
-scans/pages/
+/curatedscans/scans/images/
+/scans/covers/
+/scans/pages/
 
 # Config files which get locally modified
 #########################################
 .jekyll-metadata
 .obsidian*
+.env
 env
