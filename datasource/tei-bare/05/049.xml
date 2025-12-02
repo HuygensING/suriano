@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.049 date 1618-02-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">049</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 289r-293v, 296r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">289r-293v, 296r-v, 294r-295v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Requests further guidance with the proposal for further union. Prince Maurice has spoken to him again on the matter, but they want a firmer answers from Venice. Suriano suggests it will help with twelve ships. The issue of burial of protestant soldiers, the States General has requested a solution. He has written a letter to Christian of Anhalt to see whether he wants to serve the Venetian republic. References his letter written on 19 January about John of Nassau, who might serve the Habsburg forces. One document attached "Copia della lettera scritta dalli Signori Stati Generali alli Signori Consiglieri, et commessi alle Amiralità di Amsterdam Roterdam Hord et Encusen per la preparatione delli 12 vasselli"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-02-05">5 febbraio 1618</date>
+            <num>088, 089</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="088">
+<div type="main" facs="main text of letter" n="088">
+<!--<p>5 febbraio 1618, L’Aia (cc. 289r-293v, 296r-v)</p>-->
+<pb n="289r" facs="05_289r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 4 </p>
+<p>Serenissimo Principe </p>
+<p>molti dicono oh volesse Iddio, che fossimo uniti in colleganza <lb/>
+insieme perché hora assistessimo da dovero alla serenissima Republica. <lb/>
+Vivono colla speranza, che la Serenità vostra habbi a mandar altra <lb/>
+risposta propria al suo desiderio, et il concetto della corris-<lb/>
+pondenza di Ministro appresso di lei par che facci muover <lb/>
+lo spirito di alcuni a farvi reflesso doppo l’espositione che <lb/>
+feci la passata settimana, della quale così iustato dal <lb/>
+de’ stati, et per nome loro dal secretario suo gliene ho data <lb/>
+la sostanza, non mi scostando però da quei concetti, et <lb/>
+parole, che vostra Serenità mi commesse nelle sue lettere de’ 6 et 18 <lb/>
+del passato.<ptr target="#tn1" n="1"/> </p>
+<p>Il signor principe Mauritio hieri, che fui seco mi disse vorrei <lb/>
+che vi fosse questa colleganza: perché li Stati metterebbono <lb/>
+ad ordine dieci, o dodici vasselli, et assisterebbono con <lb/>
+gl’altri alla Republica; che il servitio commune <lb/>
+non ricercava dilatione in cose di questa natura <lb/>
+perché poteva esser sicura, et certa la Republica, che il <lb/>
+Spagnolo l’haverebbe<ptr target="#tn2" n="2"/> tormentata fino, che <lb/>
+havesse potuto: aggiungendomi, et però bisogna far <lb/>
+da dovero lasciar che queste navi, che vano, come <lb/>
+saranno in faccia all’inimico non si faccino retirare <lb/>
+o far che stiano sulla semplice difesa, ma si <lb/>
+lasci che diano dentro, et faccino qualche buon <lb/>
+effetto. Vi vuole risolutione: et di questa
+<pb n="289v" facs="05_289v" rend="0"/>
+maniera parla la più gran parte di quelli del Governo, dicendo <lb/>
+alcuni, che la mira delli Spagnuoli è questa di andar <lb/>
+volteggiando, et tentando di tener in spesa vostra Serenità et in <lb/>
+una guerra difensiva, che in fine si risolve in consumptivo <lb/>
+a che mi viene considerato, ch’ella deve particolarmente mirare <lb/>
+et non si lasciar ingannare. Questi popoli sono tanto <lb/>
+avezzi per natura a dar dentro quando vengono a <lb/>
+fronte all’inimico, che vorrebbono, che anco di là la Serenità <lb/>
+commandasse che coraggiosamente si facesse il medesimo. </p>
+<p>Havendo terminato colli signori delle Amiralità per il presente quanto <lb/>
+occorreva stimai bene, così sentendo il signor principe Mauritio <lb/>
+et mi consigliò anco il signor Bernvel far l’instanza per la levata <lb/>
+delli ottocento fin mille fanti. Venerdì ne feci la richiesta <lb/>
+et con qualche ufficii, che non ha tralasciati, hieri mattina <lb/>
+quelli del Consiglio di Stato a chi era commesso l’avvisare, <lb/>
+et risponder hanno con sua Eccellenza risoluto, che si possi concedere <lb/>
+il far questa levata ma nei contorni fuori di queste <lb/>
+provincie; et l’Eccellenza sua me ne diede l’avviso. Deve questa <lb/>
+deliberatione esser risoluta dalli signori Stati Generali, et mi <lb/>
+prometto, che la prenderanno per mano per terminar anco <lb/>
+più presto il far dei capitani essendo diversi in sospeso, et <lb/>
+aspettandosi il governator di Nemeghen con qualcheduno che deve <lb/>
+condur seco, che se sarà stimato habile al servitio da sua Eccellenza <lb/>
+si avanzarà in quella carica, che sarà stimata propria
+<pb n="290r" facs="05_290r" rend="0"/>
+et sarò con lei, per haver anco in questo l’assistenza sua. <lb/>
+Ho ricercato anco in un medesimo tempo la piazza d’arme <lb/>
+fino che s’imbarchino le genti, anco questa<ptr target="#tn3" n="3"/> posso <lb/>
+sperare, che mi concederanno, et forse mi gratificheranno <lb/>
+di darmi qualcheduno per capo, che ha di questo Paese se bene <lb/>
+in servitio. </p>
+<p>Al tempo vostra Serenità mi ha scritto intorno l’interramento <lb/>
+de’ morti poiché il giorno che fui a dimandar la <lb/>
+permissione per a levata de genti, mi fu detto dai signori <lb/>
+Stati, che havevano havuti diverse volte lamenti, che <lb/>
+costì, et nel dominio di vostra Serenità fosse negata la sepoltura <lb/>
+a questi del Paese, che erano andati in servitio della Republica <lb/>
+che ciò non stimavano proprio, et che era contra il ius <lb/>
+gentium, et per tanto mi pregavano<ptr target="#tn4" n="4"/> scriver a vostra Serenità <lb/>
+perché vi fosse messo ordine<ptr target="#tn5" n="5"/> <lb/>
+et per li cadaveri vi fosse luogo. Io <lb/>
+dissi loro quel tanto, che dalla Serenità vostra mi viene commesso <lb/>
+che mai da nessun rappresentante publico era stata <lb/>
+negata la sepoltura, come né anco per l’avvenire <lb/>
+quando li rappresentanti di vostra Serenità havessero havuto <lb/>
+notitia si negarà; che mi dolevo che fosse scritto, <lb/>
+et si dasse materia di sparger questa voce da quelli, <lb/>
+che mancando a sé stessi non si governano della <lb/>
+maniera, che sarebbe propria in casi tali. Non mi fu
+<pb n="290v" facs="05_290v" rend="0"/>
+replicato d’avantaggio se non che mi pregavano a scriver. <lb/>
+Dubito che per questo punto vi sarà che dire nell’accordo <lb/>
+con li capitani de’ soldati; et forse anco con li marinari essendomene <lb/>
+stato tocco qualche cosa da quelli delle Amiralità; ma io <lb/>
+anderò divertendo in quanto mi sarà possibile. Et viene <lb/>
+detto da alcuni che se la serenissima Republica dà luoco di <lb/>
+sepoltura agl’hebrei inimici di Christo, et della medesima <lb/>
+fede, che pur a questi che sono christiani si doverebbe <lb/>
+assignar luoco, dove più stimasse ella proprio per l’<lb/>
+interramento dei morti. </p>
+<p>Fin martedì passato ho fatto scriver al signor principe Christiano <lb/>
+di Hanalt intorno a quanto ella mi significa nelle <lb/>
+sue lettere de’ 18 per intender il suo pensiero di conduta <lb/>
+a quel servitio, et le sue pretensioni; ma bisognerà <lb/>
+aspettar buon pezzo la risposta perché detto Principe sta <lb/>
+lontano di qua più di dieci giorni se non più, facendo la <lb/>
+residenza sua in Ambergh nel Palatinato alto, ove è Governatore <lb/>
+per il Palatino, di maniera che forse sarebbe meglio essendo <lb/>
+anco la più breve per la via di Zurich di fargli saper <lb/>
+da quella parte qualche cosa. Io volsi informarmi <lb/>
+di lui dal signor principe Mauritio, il qual mi confirmò quello <lb/>
+che io ancora quando fui seco per nome di vostra Serenità havevo <lb/>
+rimarcato in esso che è signore di spirito, et disse, che era <lb/>
+anco valoroso, che era stato in Francia a servir il
+<pb n="291r" facs="05_291r" rend="0"/>
+re Henrico; che fu all’assedio di Roano, et condusse <lb/>
+a quella Maestà quattrocento cavalli; che col titolo <lb/>
+di generale a nome dei principi uniti haveva condotto <lb/>
+sotto Giuliers quell’aiuto, che allhora diedero al mar-<lb/>
+chese di Brandemburgh, et duca di Naiburgh; et hora <lb/>
+si chiama per quello disse crederne sua Eccellenza, Generale dei <lb/>
+principi dell’Unione; et l’Eccellenza sua meco considerò, che forse <lb/>
+potrebbe parlarsi del figliolo; ma che era vero questo <lb/>
+esser giovane di circa 18 anni poco più. Io di quello <lb/>
+che haverò non mancarò di darne subito parte <lb/>
+a vostra Serenità. </p>
+<p>Con mie lettere dei 19 dello stante scrissi alla Serenità vostra <lb/>
+l’offerta del signor conte Gio. di Nassau fratello del già <lb/>
+conte Gio. Ernesto, et hora<ptr target="#tn6" n="6"/> è tornato a rinovarmi <lb/>
+il<ptr target="#tn7" n="7"/> desiderio che ha di esser ascritto servitor <lb/>
+suo, et come brami mostrarle d’effetti la sua <lb/>
+devotione, et buona volontà. Mi ha detto che quando <lb/>
+riuscisse a vostra Serenità grata la sua persona egli si <lb/>
+condurrebbe al suo servitio immediate<ptr target="#tn8" n="8"/>, et tanto <lb/>
+volontieri, quanto ardentemente lo brama, et come <lb/>
+vi è stato sempre inclinatione et lo farebbe con fine <lb/>
+di viver et morir nel servitio suo. Mi disse che è <lb/>
+instato, et solecitato dal principe di Oranges per <lb/>
+condurlo seco a Brusseles, et farlo accettar nel
+<pb n="291v" facs="05_291v" rend="0"/>
+servitio del re di Spagna, o per di là passar a quello <lb/>
+dell’Imperatore havendo l’uno, et l’altro per mano con <lb/>
+larghe promesse del detto Principe di lasciarli nel testamento <lb/>
+buona quantità del suo. è vero certo, che anco il conte <lb/>
+di Egmont, che si trattiene qui<ptr target="#tn9" n="9"/> si può dir ministro <lb/>
+esperto degli arciduchi, et per consequenza di Spagna <lb/>
+ha mano in questa farina, et vorrebbe pur dar <lb/>
+in preda allo Spagnolo anco questo Cavalliere; ma <lb/>
+egli mi disse, che se si riducesse a questo punto <lb/>
+di darsi al servitio di Spagna o della casa d’Austria <lb/>
+sarebbe affatto contra il suo gusto perché l’inclinatione <lb/>
+sua è diversa; ma che tal volta gl’huomini si lasciano <lb/>
+condur dai tempi, et dall’occasioni, et replicò, che <lb/>
+inclina, et ha tutto il suo desiderio intento al <lb/>
+servitio della serenissima Republica et quando vostra Serenità vorrà impie-<lb/>
+garlo in mare, in terra, a piedi, a cavallo, et come <lb/>
+più stimerà egli poter valere intraprenderà il servirla. <lb/>
+Il signor principe Mauritio col quale hieri sono stato per <lb/>
+raccommandarli la levata mi ha da sé parlato con <lb/>
+affetto di esso Conte, che havendogli communicato il <lb/>
+pensiero suo lo haveva lodato, et consigliato andar <lb/>
+a servir la Republica. Mi laudò esso Conte et mi disse, che <lb/>
+se vostra Serenità lo accettasse al servitio sua Eccellenza l’haverebbe havuto <lb/>
+caro, et ella haverebbe un huomo che vale particolarmente nella
+<pb n="292r" facs="05_292r" rend="0"/>
+cavalleria essendo stata questa la sua prima, et particolar <lb/>
+professione; et mi parlò con termine molto pieno segno <lb/>
+della sodisfattione che haverebbe ch’egli fosse condotto. <lb/>
+Io ho tentato sua Eccellenza come havevo anco fatto il medesimo Conte <lb/>
+per saper le sue pretensioni, et l’Eccellenza sua mi disse che non si <lb/>
+dichiariva di pretender ma di esser impiegato essendo <lb/>
+buono, et valoroso per la cavalleria; ma haverebbe anco <lb/>
+servita vostra Serenità per l’infanteria, et esso Conte mi disse che <lb/>
+non pretendeva più né altra carica che quella di che <lb/>
+ella per sua prudenza l’havesse stimato degno, et suffi-<lb/>
+ciente, bastandoli in tanto di esser condotto, et goder <lb/>
+qualche honorato trattenimento perché fatta poi la Serenità vostra <lb/>
+prova del suo servitio, et buon animo facesse quello di <lb/>
+più che stimasse proprio. Questo a dir la verità <lb/>
+lo stimo soggetto proprio per lei nel servitio della <lb/>
+cavallaria, et anco per l’infanteria, et non vorrei vo-<lb/>
+lontieri, che vostra Serenità se lo lasciasse scappare, et rubar <lb/>
+da’ Spagnoli, è catholico, et bravo et generoso soldato <lb/>
+diverso d’humore del fratello conte Gio. Ernesto doppo <lb/>
+la morte del quale è successo capo della casa, et è di età <lb/>
+di trenta tre in 34 anni in circa, et havendomi il signor <lb/>
+principe Mauritio parlato di lui, come ho detto <lb/>
+si può creder che haverà sempre la sua assistenza <lb/>
+et gl’istessi signori Stati haveranno più caro, che si conduchi
+<pb n="292v" facs="05_292v" rend="0"/>
+al servitio di vostra Serenità che che* vadi a quello della casa d’Austria <lb/>
+et per quanto ho potuto penetrare il non haver havuto il Colo-<lb/>
+nellato del fratello è<ptr target="#tn10" n="10"/> stato perché il luogotenente<ptr target="#tn11" n="11"/> di esso <lb/>
+gentilhuomo del Paese ha prevenuto et con li parenti et <lb/>
+amici; prima ch’esso<ptr target="#tn12" n="12"/> Conte<ptr target="#tn13" n="13"/> potesse arrivar qui da Parigi. </p>
+<p>Egli non ha mai voluto uscire a dir che trattenimento volesse solo <lb/>
+quello che stimava degno della sua persona haveva qui <lb/>
+una compagnia di cavalleria, et particolar pensione;<ptr target="#tn14" n="14"/> <lb/>
+aspetterà la volontà della <lb/>
+Serenità vostra colla risposta delle presenti, et in tanto anderà <lb/>
+trattenendo con qualche pretesto il signor principe di Oranges <lb/>
+dal quale mi confirmò anco l’Eccellenza sua che era solecitato, et che <lb/>
+non li riuscendo di servir vostra Serenità bisognava, che<ptr target="#tn15" n="15"/> si <lb/>
+appigliasse a qualche altro partito, che però vostra Serenità facesse <lb/>
+capitale di lui. Io aspetterò quello vorrà ella ch’io <lb/>
+rispondi a sua Eccellenza et al medesimo signor Conte. </p>
+<p>Mentre dall’una parte il publico servitio mi astringeva <lb/>
+a tacere, et dall’altro canto la povertà del mio Stato <lb/>
+et per consequente il bisogno che tengo di ripatriare <lb/>
+in un’istesso tempo agitava l’animo mio, et mi <lb/>
+necessitava pregar vostra Serenità di sollevo mi pervengono <lb/>
+effetti di tanta benignità, et munificienza publica <lb/>
+che posso ben tenermi felice venendo così aggradito <lb/>
+il mio humile servitio, et aiutata in qualche
+<pb n="293r" facs="05_293r" rend="0"/>
+parte la mia povera fortuna. Dio benedetto mi concedi <lb/>
+savità, et spirito sufficiente per avanzar il publico servitio <lb/>
+di quella maniera, che più bramo. In tanto sperando <lb/>
+anco maggiori frutti della benigna gratia sua, et che <lb/>
+troverà tempo al mio sollevo, le rendo humilissime gratie <lb/>
+del donativo fattomi delli trecento ducati tanto più <lb/>
+riuscitomi caro; quanto proviene dalla motione <lb/>
+propria di quell’eccellentissimo Senato. </p>
+<p>Riespedisco il corriero il* corriero* di vostra Serenità al quale ho <lb/>
+dato settanta ognari per far il viaggio, de’ quali doverà <lb/>
+render conto. Dubito grandemente, che da qui in Anversa <lb/>
+gli sia per riuscir più difficile il camino, che nel venir <lb/>
+qui<ptr target="#tn16" n="16"/>; et converrà allungarlo rispetto ai giacci, che <lb/>
+hanno<ptr target="#tn17" n="17"/> serrati li passi della Mosa dalla parte di <lb/>
+Rotterdam. </p>
+<p>All’eccellentissimo signor Ambasciator in Londra ho mandate le lettere, che <lb/>
+vostra Serenità mi ha espedite con ordine di fargliele havere. Gratie etc. </p>
+<p>Dall’Haya a’ 5 febraro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="293v" facs="05_293v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296r" facs="05_296r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296v" facs="05_296v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn18" n="18"/> </p>
+<p>dal 3 fin questo n° 4 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="088">
+<!--
+<p n="296vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 febraro 1617 ricevute a’ 17 detto </p>
+<p>Haya. n° 4 </p>
+<p>Sommo desiderio di haver altra <lb/>
+risposta si scuopre in quei signori. <lb/>
+Nel particolare dell’aleanza, et pensano <lb/>
+a mandar reciprocamente il Ministro, e assistenza <lb/>
+con dodeci proprii vasselli, e Mauritio <lb/>
+sollecita, et eccita si lasci alle navi <lb/>
+dar dentro. </p>
+<p>Ha fatto l’instanza delle genti; e spera <lb/>
+d’haver anche qualche capo di quelli che ha. </p>
+<p>Sopra l’interamento ha convenuto in-<lb/>
+sistere. </p>
+<p>D’Anolt ha scritto tarderà la <lb/>
+risposta; si chiama dell’unione <lb/>
+e valoroso,<ptr target="#tn19" n="19"/> potrà forse il <lb/>
+motivo inferir al figliolo. </p>
+<p>Nova offerta del conte Gio. di Nassau <lb/>
+è raccomandato da Mauritio, dediserato da’ Spagnuoli <lb/>
+dice d’esser impiegato non di tener pretensioni, <lb/>
+il residente lo stima atti(vi)ss(im)o e ade questa<ptr target="#tn20" n="20"/> al servitio <lb/>
+in cavalleria particolarmente, di tutto diverso <lb/>
+della mente del fratello ne atende risposta. </p>
+<p>Ha dato 20 ongari al corriero detto. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="089" corresp="088" source="294r-295v" >
+<div type="main" facs="main text of attachment I" n="089" corresp="088" >
+<!--<p>Allegato I al n. 88 (cc. 294r-295v)</p>-->
+<pb n="294r" facs="05_294r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia della lettera scritta dalli<ptr target="#tn21" n="21"/> signori Stati Generali <lb/>
+alli signori conseglieri, et commessi alle amiralità di <lb/>
+Amsterdam, Roterdam, Horon, et Encusen per <lb/>
+la preparatione delli 12 vasselli </p>
+<p>Li Stati Generali </p>
+<p>magnifici honorandi non havendoci il signor Suriano residente qui <lb/>
+della serenissima Republica ha fatto bastante assicuranza <lb/>
+a nostro contentamento per la paga, et equipagio qual <lb/>
+egli per ordine della serenissima Republica sudetta ha ricercato <lb/>
+di poter far in questi paesi di dodici navi buone, et <lb/>
+atte alla guerra per servitio della detta serenissima Republica <lb/>
+come anco per quello dipende da questo sopra che sua Signoria <lb/>
+ha trattato con voi deputati dei collegi delle amira-<lb/>
+lità di Amsterdam, Horon, Encusen, et stato in diverse <lb/>
+communicationi, et conferenze, et fatte conventioni <lb/>
+però vi ricerchiamo instantemente, et dimandamo, che <lb/>
+voi per questo, et per quanto tocca al collegio di Roter-<lb/>
+dam vogliate far metter ad ordine le navi, che <lb/>
+a loro carico vengono ripartite, et far andar in-<lb/>
+nanti detto preparamento conforme agl’ordini, <lb/>
+che di mano in mano vi mandaremo<ptr target="#tn22" n="22"/> mandando; <lb/>
+et ci avvertirete a questo medesimo fine giornalmente <lb/>
+in che termine haverete ridotto detto preparamento <lb/>
+per farvi in tempo proveder<ptr target="#tn23" n="23"/> di nuovo senza esser
+<pb n="294v" facs="05_294v" rend="0"/>
+in mancamento di questo: raccommandandovi ben seriosamente <lb/>
+non perder tempo in questo; ma diligentar che tutto <lb/>
+conforme richiede il servitio della detta serenissima Republica <lb/>
+et sopra questo si riposamo; et vi raccommandamo <lb/>
+alla protettion del servitio. Dall’Haya a’ 3 febraro 1618 </p>
+<pb n="295r" facs="05_295r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="295v" facs="05_295v" rend="270"/>
+<p>4 </p>
+<p>Commissione alli signori delle <lb/>
+Amiralità </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by deleted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "fin" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "sp" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "et per tanto mi pregavano a | scriver a v(ostra) S(ereni)tà" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Precedes "l’affetto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "del" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-sso" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by deleted text.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "ch" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Precedes "replicata" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "se" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-r-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

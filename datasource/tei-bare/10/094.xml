@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.094 date 1622-02-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">094</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 494r-495v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp195-213; 
+            </note>
+            <biblScope unit="page">494r-495v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The incident at the imperial court between Venetian and Spanish ambassador was reported in the Amsterdam newspaper last week (in the manner described by Venetian government to its ambassadors, see the letter BHO 285). He received more letters from man send by Mansfelt related to Grisons and the trade conflict between Amsterdam and merchant Rodrigrues d’Andrade has been resolved. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-02-07">7 febbraio 1622</date>
+            <num>157</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="157">
+<div type="main" facs="main text of letter" n="157">
+<!--<p>7 febbraio 1622, L’Aia (cc. 494r-495v)</p>-->
+<pb n="494r" facs="10_494r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 367 comincia 365 </p>
+<p>Serenissimo Principe </p>
+<p>la copia delle lettere intercette, che mandai alla Serenità vostra <lb/>
+la passata settimana, come faccio anco la presente del <lb/>
+dupplicato con le doi lettere n° 363 et 364 conferma <lb/>
+assai il concetto del quale vostra Serenità mi instruisce nelle <lb/>
+sue lettere dei 12. Qui non ho sentito a parlar di questo <lb/>
+negotio; ma se nei discorsi sarà tenuto alcun proposito <lb/>
+non mancarò valermi delle prudenti considerationi di vostra Serenità. </p>
+<p>Così anco farò dell’avviso toccante la stradda contentiosa <lb/>
+per il servitio et riputatione di lei. </p>
+<p>Del successo nella corte di Viena qui si hebbe la passata <lb/>
+settimana l’avviso nell’ordinario foglio stampato in <lb/>
+Amsterdam di diverse novelli, come da lettere di <lb/>
+Colonia, ch’era successo della maniera, ch’ella si <lb/>
+compiace scrivermi: con aggiunta, che si erano sfodrate <lb/>
+le spade dalli familiari delli signori ambasciatori. A me ne fu <lb/>
+dimandato, né io sapendo altro ma pensando quello <lb/>
+poteva esser sostentai la ragione dell’eccellentissimo signor ambasciator <lb/>
+Gritti. Se ben lodato<ptr target="#tn1" n="1"/> Iddio qui non ho fatica di stabilir <lb/>
+nell’animo dell’universale le ragioni, che ha detto eccellentissimo <lb/>
+Gritti di sostener quello ch’è proprio della dignità <lb/>
+publica. </p>
+<p>Il gentilhuomo del signor conte di Mansfelt<ptr target="#tn2" n="2"/>, che ha
+<pb n="494v" facs="10_494v" rend="0"/>
+portato qui il resto delle lettere intercette; a me anco <lb/>
+ha reso alquante lettere che corsero il medesimo naufraggio <lb/>
+dandomele, et salutandomi a nome del detto signor Conte. <lb/>
+Ve n’erano de particolari et di publiche tutte benissimo <lb/>
+conditionate et delle publiche ve n’erano doi de’ <lb/>
+22 ottobre una dell’affar de’ Grisoni; et l’altra toccante <lb/>
+un tal capitan Dognola grisone, et tre altre de’ <lb/>
+16 et 30 ottobre et 5 novembre pur nel medesimo affar <lb/>
+de’ Grisoni, che se ben arrivate tardi mi servono <lb/>
+d’informatione. Ho stimato bene di ringratiar <lb/>
+come da me il signor Conte con proprie lettere. </p>
+<p>Havendo li signori Stati scritto alli signori dell’amiralità di <lb/>
+Amsterdam circa il negotio delle sete balle di seta <lb/>
+et venuti deputati del Collegio per dar relatione <lb/>
+in fine li signori Stati mirando a sodisfar, et dar contento <lb/>
+alla Serenità vostra hanno terminato, che le sete siano date <lb/>
+alli Rodrighes d’Andrade proprietarii con questo <lb/>
+che faccino constar al Magistrato, che siano <lb/>
+inhabitanti, et sudditi di vostra Serenità l’agente<ptr target="#tn3" n="3"/> suo <lb/>
+n’è restato contento, et io ho per mezo del <lb/>
+Presidente fatti ringratiar li signori Stati. Gratie etc. </p>
+<p>Dall’Haya li 7 febraro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christrofforo Suriano </p>
+<pb n="495r" facs="10_495r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="495v" facs="10_495v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 367 comincia 365<ptr target="#tn4" n="4"/> </p>
+<p><hi rend="decoded">Sigillo <lb/>
+</hi></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="157">
+<!--
+<p n="495vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 febraro 1621<ptr target="#tn5" n="5"/> ricevute 10 marzo 1622 </p>
+<p>Haya. n° 367 </p>
+<p>L. R. cum SS. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "M-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "l’a-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-5" corrected above "-6."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

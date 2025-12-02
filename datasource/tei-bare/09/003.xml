@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.003 date 1620-03-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 11r-14v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">11r-14v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The postal courier has been found after two days in the marshes, he has been taken to Antwerp. Informed the States General of the troops being sent by the governor of Milan towards CastiglionE. in response to this news, Maurice advises not to trust the Spanish and he asks whether the Dutch troops have been sent towards Bressa and whether they will remain in Venetian service or whether they will be fired. The cities of Holland are discussing the embassy to Venice, but some fear it might upset the French king. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-17">17 marzo 1620</date>
+            <num>004</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="004">
+<div type="main" facs="main text of letter" n="004">
+<!--<p>17 marzo 1620, L’Aia (cc. 11r-14v)</p>-->
+<pb n="011r" facs="09_011r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 185<ptr target="#tn1" n="1"/> fin 187 </p>
+<p>Serenissimo Principe </p>
+<p>doppo haver tenuto fin venerdì per perso il messaggiero di <lb/>
+Anversa col dispaccio della Serenità vostra de’ 21 del passato, finalmente <lb/>
+mi venne reso, sendo esso messaggiero stato portato in <lb/>
+Anversa amalato, per essersi trovato con altri quasi per doi <lb/>
+giorni tra alcuni marazzi. La sera stessa di venerdì <lb/>
+mi pervenero anco le lettere de’ 28 pur del passato; <lb/>
+et in conformità dell’une, et dell’altre commissioni il <lb/>
+giorno seguente diedi parte alli signori Stati del motivo seguito <lb/>
+per Medola, dell’armi inviate dal governator di Milano verso <lb/>
+Castiglione, delli apparati, che si erano ordinati, et delle <lb/>
+risolutioni, et officii di vostra Serenità per divertir qualche mala <lb/>
+consequenza, et la pertubatione della quiete in Italia; <lb/>
+accompagnando il tutto con quei termini, che per mia <lb/>
+debolezza stimai proprii, et che pensai servire all’<lb/>
+intentione, et commandamento della Serenità vostra per mostrar <lb/>
+in particolare a questi signori che l’Eccellenze vostre vogliono continuar <lb/>
+con essi una perfetta corrispondenza. Era di già capi-<lb/>
+tato l’avviso del motivo; ma io fui tanto più volon-<lb/>
+tieri ascoltato, quanto era il desiderio in tutti di <lb/>
+saper la vera causa della mossa di quell’armi. Fu dai <lb/>
+signori Stati laudata la prontezza, et prudenza di vostra Serenità <lb/>
+in accorrer ai confini colle sue militie; et rendendole <lb/>
+gratie della communicatione, et della confidenza con che
+<pb n="011v" facs="09_011v" rend="0"/>
+ella voleva continuar con loro dissero, che anc’essi have-<lb/>
+rebbono fatto lo stesso; communicandole quei particolari, che<ptr target="#tn2" n="2"/> <lb/>
+havessero stimati proprii, et convenienti ai communi interessi<ptr target="#tn3" n="3"/>. </p>
+<p>Il signor principe Mauritio a cui anco communicai il seguito si <lb/>
+compiacque della generosa risolutione di vostra Serenità, et<ptr target="#tn4" n="4"/> disse <lb/>
+senza dubio Spagnoli havevano disegno di far il loro <lb/>
+profitto sopra Castiglione, o altro posto; ma tutto che <lb/>
+par habbino mostrato di retirarsi da quella piazza, <lb/>
+non è bene fidarsi di loro; perché mentre sono sul confine <lb/>
+possono sotto altro pretesto far qualche pregiudicio: <lb/>
+deve però la serenissima Republica molto ben guardarsi. </p>
+<p>Mi addimandò se tutte le truppe holandesi erano passate <lb/>
+in quelle parti, havendo sua Eccellenza inteso, che la Serenità vostra haveva <lb/>
+verso Bressa fatta ispeditione di monsignor di Rocalaura <lb/>
+col suo reggimento. Risposi, che havevo presentito a<ptr target="#tn5" n="5"/> qualche <lb/>
+cosa in questo proposito, ma che a dir la verità non <lb/>
+haverei saputo con quante genti esso signor Rocalaura vi <lb/>
+si<ptr target="#tn6" n="6"/> fosse conferito. Soggiunse sua Eccellenza bene resterà <lb/>
+egli in servitio; o sarà licentiato? Io dissi<ptr target="#tn7" n="7"/>, che per <lb/>
+quanto havevo potuto intender non s’era con li suoi <lb/>
+capitani ancor voluto accommodar alle conditioni, <lb/>
+che se gl’erano offerte; se fosse mo’ per farlo non <lb/>
+potevo penetrarlo. Rispose sua Eccellenza veramente è difficile
+<pb n="012r" facs="09_012r" rend="0"/>
+lo sminuir la paga ad un soldato, et credo che la serenissima <lb/>
+Republica haverà<ptr target="#tn8" n="8"/> difficoltà grande a superar questo punto. Continuò <lb/>
+intendo, che ’l reggimento è pieno di brave genti, ben <lb/>
+ad ordine, et tutte volonterose di servire. Anc’io dissi <lb/>
+ho inteso lo stesso; ma non volendosi accommodar ad <lb/>
+un honesto<ptr target="#tn9" n="9"/> partito non vedevo come havessero volontà <lb/>
+di continuar presso la Serenità vostra; né vedevo che potessero in <lb/>
+alcun altro luoco, che appresso quel serenissimo Dominio haver <lb/>
+paga simile a quella, che loro era stata proposta <lb/>
+rispose voi havete<ptr target="#tn10" n="10"/> ragione; ma non vi è pur un <lb/>
+soldato, che sia tanto savio, che vogli intender <lb/>
+questo per il vero senso; et nel corso del ragionamento <lb/>
+uscì sua Eccellenza a dirmi, che haveva scritto già qualche <lb/>
+giorno a monsignor di Rocalaura, che vedesse di accommo-<lb/>
+darsi se poteva, et io la ringratiai. Ho compreso <lb/>
+molto bene dal parlar dell’Eccellenza sua che vorrebbe, che vostra Serenità <lb/>
+havesse sodisfattione, et che quel reggimento restasse <lb/>
+al suo servitio; et alcuni secondo l’occasione di <lb/>
+congresso hanno mostrato l’istesso affetto, et massime per <lb/>
+servitio di vostra Serenità per quello potesse occorrer nel suo Stato, <lb/>
+per tener in freno Spagnuoli, et così necessitarli anco a <lb/>
+star sul suo, et non inviar tutte quelle forze<ptr target="#tn11" n="11"/>, che farebbo-<lb/>
+no forse verso Alemagna quando vedessero disarmata
+<pb n="012v" facs="09_012v" rend="0"/>
+quella serenissima Republica. </p>
+<p>Stavano questi signori aspettando come riverentemente avvisai colle prece-<lb/>
+denti lettere mie dei x (qui aggiunte in copia) quello, che vostra Serenità <lb/>
+facesse dir della sua intentione intorno alla missione de’ <lb/>
+ministri. Et non sentendo altro che quel generale, che da lei <lb/>
+mi viene espresso nelle lettere sue, hieri ne hanno tra loro <lb/>
+discorso, et li deputati di Holanda s’hanno presa carica <lb/>
+di parlarne nella loro Congregatione per riportar poi il <lb/>
+parere, et venir ad una fine di questo negotio, per <lb/>
+communicarmi poi quello haveranno risoluto, o stimeranno <lb/>
+proprio far saper alla Serenità vostra. </p>
+<p>Ho cavato, che stano in dubio questi signori di far dichiaratione <lb/>
+del soggetto da mandarsi<ptr target="#tn12" n="12"/> a lei prima del <lb/>
+farla per Francia dubitando alcuni, che sia preso in mala <lb/>
+parte da’ Francesi, che si mostri al mondo di far più stima <lb/>
+per così dire d’una nuova amicitia, che d’un’antica, <lb/>
+et dell’obligo, che queste Provincie hanno alla Corona <lb/>
+et vorrebbono divertir, che non si andassero aggregando <lb/>
+disgusti a disgusti in quella corte contra questi Stati. <lb/>
+Poiché si vede prendersi materia da ogni picciol cosa <lb/>
+di ricever scontento. Come par che lo accenni anco monsignor <lb/>
+di Langarach,<ptr target="#tn13" n="13"/> scrivendo a sue Eccellenze, che prima di lui <lb/>
+l’eccellentissimo signor ambasciator Contarini haveva havuto ordine da vostra Serenità
+<pb n="013r" facs="09_013r" rend="0"/>
+di dar parte al Christianissimo della conclusione dell’aleanza. In che si <lb/>
+accorgono di haver mancato assai, se ben per allhora parve <lb/>
+ad essi, che bastasse haverne data parte all’ambasciator di sua Maestà <lb/>
+christianissima qui residente, come havevano fatta alli ambasciatori del re <lb/>
+della Gran Bertagna. </p>
+<p>Vivo consolatissimo di haver havuta così buona fortuna d’haver <lb/>
+sodisfatto al desiderio dell’Eccellenze vostre nell’ultimo negotiato intorno <lb/>
+la detta aleanza. Il fine col quale ho incaminato <lb/>
+il negotio è stato retto da Dio, a cui<ptr target="#tn14" n="14"/> ho sempre raccomandate <lb/>
+l’attioni mie; ma in particolar l’interesse, et servitio della Serenità vostra. </p>
+<p>Dall’Haya li 17 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="013v" facs="09_013v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="014r" facs="09_014r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="014v" facs="09_014v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 185 fin 187 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="004">
+<!--
+<p n="014vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 marzo 1620 ricevute a primo aprile </p>
+<p>Haia. n° 185 </p>
+<p>Risposta di lettere de’ 21 febraro che credeva perse. </p>
+<p>Di altre de’ 28 del matino di Medole. </p>
+<p>Ha fatto li uffici commessili con i signori Stati, <lb/>
+essi ringratiano della confidenza. </p>
+<p>Mauritio loda le risolutioni di qua <lb/>
+mostra desiderio che continuino <lb/>
+le genti di Rocalaura al servitio. </p>
+<p>Aspettavano i Stati l’interesse della <lb/>
+Republica circa la missione di ministro: et <lb/>
+havendo inteso il generale espresso <lb/>
+nelle lettere, ne hanno tra essi <lb/>
+discorso et li deputati d’Olanda <lb/>
+preso carica di parlarne nella <lb/>
+Congregatione per venir a fine del negotio <lb/>
+et comunicar poi la risolutione. </p>
+<p>Dubio in quei signori nel far la dechiaratione <lb/>
+del soggetto da mandarsi prima qua o <lb/>
+in Francia: non vorriano dar <lb/>
+occasione di maggior desgusto al Christianissimo <lb/>
+havendo havuto nova di Francia <lb/>
+che l’ambasciator della Republica è stato prima <lb/>
+del loro a darne parte dell’aleanza. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-5" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "c-" corrected above ,.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-essi" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "E-" corrected above ,.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "vi depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-ete" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-z-" corrected above "-s-"</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by deleted words.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "l" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

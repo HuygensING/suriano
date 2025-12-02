@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.009 date 1618-08-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 54r-59v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">50r-53v, 54r-59v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In cipher Suriano describes the response of Oldenbarnevelt and Van der Mijle to the message of Venice regarding the proposed alliance. Van der Mijle expressed dissapointment as the response did not specify the nature and extent of the Venetian assistance requesting that the Venetian Republic would make a declaration about the support it could offer in the future. Oldenbarnevelt advocates for more concrete steps to be taken such as the appointment of an ambassador to discuss the terms. Prince Maurice’s approval is also necessary and in a later discussion Maurice expresses his support for an alliance. General sense is that without a clear commitment from Venice, sending an ambassador might be premature. Requests further instructions on how to respond to Oldenbarnevelt and Van der Mijle’s proposals. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-22">22 agosto 1618</date>
+            <num>020, 021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="020" corresp="021" source="50r-53v" >
+<div type="main" facs="main text of attachment I" n="020" corresp="021" >
+<!--<p>Allegato I al n. 21 (cc. 50r-53v; decodifica di cc. 54r-59v)</p>-->
+<pb n="050r" facs="07_050r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="050v" facs="07_050v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="051r" facs="07_051r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="051v" facs="07_051v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="052r" facs="07_052r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="052v" facs="07_052v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="053r" facs="07_053r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="053v" facs="07_053v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="letter" n="021">
+<div type="main" facs="main text of letter" n="021">
+<!--<p>22 agosto 1618, L’Aia (cc. 54r-59v)</p>-->
+<pb n="054r" facs="07_054r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">né</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">monsignor Bernvel, né il genero suo Vandermil restorno <lb/>
+sodisfatti di quanto loro dessi a nome di vostra Serenità nel proposito dell’<lb/>
+apertura fattami di trattattione di lega, poiché aspettavano, che <lb/>
+sopra li articoli inviati da me con le lettere de’ 14 del passato <lb/>
+ella si dechiarisse, non in generale come è loro parso della <lb/>
+sua volontà, ma con la rissoluttione di far qualche cosa. <lb/>
+</hi></p>
+<p><hi rend="decoded">Fu il primo monsignor Vandermil a chi ne</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">parlai, poiché <lb/>
+in quell’hora apunto, che arivò il messaiero si trovava a <lb/>
+mia visitatione, venuto però espressamente per intender se io <lb/>
+havevo havuto il mio dispacio di Venetia con qualche risposta <lb/>
+in quel particolare egli sentendo quanto gl’esposi in nome di vostra Serenità <lb/>
+restò sospeso, et poi disse, questi sono concetti che indicano l’<lb/>
+ordinaria buona volontà della Republica in questo affare, ma non <lb/>
+abbraciano, né stringono alcuna cosa, perché sebene ella <lb/>
+non stimava hora il tempo proprio, rispetto alla vicina sta-<lb/>
+gione del verno</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">di valersi de’ vasselli di guerra proposti, <lb/>
+poteva però far qualche dichiaratione della qualità, et <lb/>
+quantità del soccorso, che in occasione havesse stimato proprio <lb/>
+per sua assistenza; <lb/>
+</hi>
+<pb n="054v" facs="07_054v" rend="0"/>
+<hi rend="decoded">et quello, che in corrispondenza havesse <lb/>
+potuto fare per questi stati</hi> <lb/>
+perché di tal maniera, et mentre si era <lb/>
+aperta la stradda con l’abozzo, ch’era stato mandato si saria <lb/>
+mostrato di voler assentir al negotio, et incaminarlo; et con <lb/>
+qualche altro simil concetto prese per allhora licenza da me <lb/>
+dicendo, che voleva lasciarmi legger le mie lettere, et io nel <lb/>
+partir gli dissi che <lb/>
+<hi rend="decoded">ponderasse</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">bene le parole di vostra Serenità, perché havevano <lb/>
+fondamento certo di voler attendere a questa unione; <lb/>
+il giorno seguente del sabbato vidi il signor Bernvel il <lb/>
+quale avisato prima dal signor Vandermil di quanto haveva <lb/>
+sentito da me, dopo communicatogli ciò, che ella mi <lb/>
+scrive, si strinse nelle spalle, et poi disse; io non <lb/>
+veggo alcuna cosa, che più possi servire alla serenissima Republica, et a questi stati, che una unione per la conservatione <lb/>
+della commune libertà, et per tener attatto</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">lo Spagnolo <lb/>
+in freno. Io ve lo ho detto ancora, che questa <lb/>
+colleganza, dell</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">quale ben è stata fatta apertura, <lb/>
+sarebbe per far far un’honorevole, et avantaggiosa <lb/>
+pace alla Republica, et forse far cader la guerra <lb/>
+</hi>
+<pb n="055r" facs="07_055r" rend="0"/>
+<hi rend="decoded">sopra di noi: tuttavia questi stati, purché servissero a <lb/>
+conservatione di sua Serenità, che in un istesso tempo <lb/>
+saria stata la mia, si sarebbero dichiariti in <lb/>
+altro particolare, come si conviene; et che veramente non <lb/>
+bisognava chiamar per assistenza vasselli di questi <lb/>
+paesi, che non fossero andati per dar adosso all’inimico <lb/>
+commune, et noi certo non haveressimo havuto pur <lb/>
+minimo scrupulo del farlo immediate; mi aggiunse, che la <lb/>
+consideratione della stagione per valersi di detti vasselli era <lb/>
+buona, ma che si poteva comminciar a far qualche <lb/>
+cosa; et quanto alla missione di ambasciator per trattare <lb/>
+che questo si poteva fare: ma haverebbe bisognato <lb/>
+tempo a disporre, et senza qualche sicurezza, et dichia-<lb/>
+ratione di quello vogli fare la Republica, non era così <lb/>
+facile. Io gli risposi, che per me stimavo propria <lb/>
+la missione di reciproca ambasciata perché non potendosi <lb/>
+in negotio di tanto momento complir in poco tempo le <lb/>
+cose appositamente, et con più proprio termine, si <lb/>
+haverebbero potute effettuare. Mi repplicò succintamente, <lb/>
+questo è negotio, che ha bisogno di consideratione, et io non <lb/>
+</hi>
+<pb n="055v" facs="07_055v" rend="0"/>
+<hi rend="decoded">mancherò <lb/>
+</hi> di tenervi la mano, et far ogni bene, et interruppe <lb/>
+il discorso con addimandarmi quello temevo della voce, <lb/>
+che passava, che si havesse a far la pace in Italia, essendo <lb/>
+scritto qui, che li ambasciatori della serenissima Republica, che sono appresso <lb/>
+sua Maestà christianissima si affaticano per haverla. Io risposi, che di questo <lb/>
+non havevo, che la voce universale; ma che sua Signoria sapeva <lb/>
+molto bene quanto li Spagnuoli fossero artificiosi, et come per <lb/>
+avantaggiarsi sapessero portar li loro interessi. Egli di nuovo <lb/>
+a questo proposito <hi rend="decoded">tornò</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">et disse, et vostra Signoria adunque vede come bisogna <lb/>
+ostarli</hi><ptr target="#tn8" n="8"/><hi rend="decoded">, et io non stimo modo migliore, né più proprio, <lb/>
+che la unione. Gli animi qui sono disposti; facci saper <lb/>
+il senso della serenissima Republica perché si possi far fondamento <lb/>
+dell’animo di lei, con qualche special dechiaratione sopra li <lb/>
+capitoli proposti, che potrà anco esser facile la <lb/>
+riuscita: ma si tenga secreto perché non sii sturbato. <lb/>
+Io devo andar un poco fuori dell’Aia, et vostra Serenità anderà <lb/>
+a Delfsil; in questo mentre potrebbe venir qualche <lb/>
+particolare per caminar inanti, seben disse il negotio non <lb/>
+vorrebbe gran dilatione, mentre si scoprono gli animi <lb/>
+ben intentionati. Io pur procurai, che restasse</hi>
+<pb n="056r" facs="07_056r" rend="0"/>
+<hi rend="decoded">impresso <lb/>
+nella</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">mente publica, et che ella è inclinata a questa <lb/>
+colleganza, et a quello, che sarà conosciuto raggione-<lb/>
+vole, et conveniente</hi>. <lb/>
+Con tutto ciò poco mostrò <lb/>
+di stimar questo Generale, et lasciò il discorso con il repli-<lb/>
+carmi, che per la parte sua haverebbe fatti tutti li buoni <lb/>
+ufficii. Io vidi di nuovo <hi rend="decoded">il</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">signor Vandermil che</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">mi repplicò delle istesse cose <lb/>
+del giorno inanzi, et delli concetti del Bernvuel, che <lb/>
+ben conobbi, che havevano conferito insieme, et <lb/>
+aggionse, che haveva considerato la risposta, et trovava <lb/>
+ch’ella non era di gran cosa differente da quella, che <lb/>
+hebbe da vostra Serenità, quando fu costì per nome de’ <lb/>
+signori Stati, che l’inviar</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">ambasciator a Venetia sarebbe <lb/>
+poco, ma che l’essenza della missione, consisteva <lb/>
+nel mandarlo con qualche sicurtà, propria al <lb/>
+negotio, et con fondamento; che sperava, che con le prime <lb/>
+lettere io dovessi haver qualche altro ordine più risoluto <lb/>
+che quando vostra Serenità havesse fatto intender col <lb/>
+mezzo mio quello ella havesse potuto far per <lb/>
+questi Stati, et quello haverebbe voluto da essi, <lb/>
+allhora con altra sicurtà si haverebbe potuto <lb/>
+</hi>
+<pb n="056v" facs="07_056v" rend="0"/>
+<hi rend="decoded">ispedir l’ambasciatore, con darli le commissioni proprie, et <lb/>
+dir, come si dovesse governar per terminar prontamente <lb/>
+il tutto. Io risposi a questo, che la missione dell’ambasciator <lb/>
+ancorchè fosse antecipata ad altra più aperta <lb/>
+dechiaratione</hi> della serenissima Republica <lb/>
+di quella che era in essenza non levava, che non si <lb/>
+havessero potuto far<ptr target="#tn13" n="13"/> tutte queste diligenze; è vero<ptr target="#tn14" n="14"/> <lb/>
+disse; ma meglio nell’altra maniera. Nel particolar <lb/>
+poi del signor principe Mauritio, che sia necessario <hi rend="decoded">quando</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">si habbi a proceder inanzi nella prattica <lb/>
+che v’intervenghi il consenso, et il gusto di sua Eccellenza <lb/>
+ne parlai col medesimo Vandermil, il quale <lb/>
+</hi> mi disse che<ptr target="#tn16" n="16"/> senza l’Eccellenza sua <lb/>
+non si sarebbe fatta alcuna cosa, et tanto andai replicando <lb/>
+delle parole, che cavai molto bene, che di questo negotio <lb/>
+haveva particolar conoscenza, dicendomi, che credeva <lb/>
+<hi rend="decoded">che il signor Bernvel le ne havesse tenuto proposito</hi><ptr target="#tn17" n="17"/> <lb/>
+et non finii di trattenermi seco, che <lb/>
+cavai anco che egli stesso le ne haveva parlato il <lb/>
+giorno innanti, che lo trovava ben disposto, et incli-<lb/>
+natissimo, et più me ne assicurai da questo concetto che <lb/>
+disse, che sua Eccellenza era lontanissima dalle cerimonie, che queste
+<pb n="057r" facs="07_057r" rend="0"/>
+le abhorisce, et massime in negotii di tal natura, tenendosi <lb/>
+all’essentiale, et che haverebbe consigliato <hi rend="decoded">il</hi><ptr target="#tn18" n="18"/> <hi rend="decoded">mandarsi ambasciatore, o altro ministro quando vi <lb/>
+fosse una sicurtà di quello potesse, o volesse far la <lb/>
+serenissima Republica per caminar fondatamente nella <lb/>
+conclusione</hi> che tanto poteva dirmi cavar del senso <lb/>
+dell’Eccellenza sua et io hieri prendendo occasione di riveder sua Eccellenza <lb/>
+per ricercarla di alcuni passaporti ai pirati per le navi, <lb/>
+et genti del conte di Levenstein, tentai destramente di cavar <lb/>
+qualche cosa, et ella uscì a dirmi che <hi rend="decoded">haveva</hi><ptr target="#tn19" n="19"/> <hi rend="decoded">stimata sempre buona una unione reci-<lb/>
+proca tra la Republica, et questi stati, et la consi-<lb/>
+glierà sempre, perché conosceva esser servitio dell’una <lb/>
+et degl’altri; essendo queste colleganze di republiche <lb/>
+durabili, et ferme, mai morono, et hanno uno ordinario <lb/>
+governo, che quelle con li principi hanno sempre <lb/>
+mutatione, o per il cambiamento del prencipe, o per <lb/>
+l’alteratione de’ humori; che mi poteva assicurar <lb/>
+esser il Paese inclinatissimo, et quando la Republica vogli <lb/>
+</hi>
+<pb n="057v" facs="07_057v" rend="0"/>
+<hi rend="decoded">sarà facile il successo. Io risposi, che dal canto <lb/>
+della serenissima Republica era la medesima volontà, et <lb/>
+inclinatione, et da che sono qui, sono stato sempre <lb/>
+attendendo, che mi venga detto qualche cosa: ma che <lb/>
+non si era voluto uscire, et pur</hi><ptr target="#tn20" n="20"/> <hi rend="decoded">a me pareva di <lb/>
+haver detto assai, aggiungendo, che a questo fine <lb/>
+haverebbe potuto servir molto bene un ambasciator, o <lb/>
+altro ministro, che si havesse voluto ispedir da <lb/>
+questa parte. Rispose sua Eccellenza che bisognava <lb/>
+trovar la opportunità, et che era facile vostra Serenità, <lb/>
+che poteva in poco spatio di tempo promover, et <lb/>
+rissolver le cose sue, ma che qui bisognava <lb/>
+caminar col dar parte a diversi, che in ogni modo <lb/>
+però era necessaria una buona rissolutione. Io dissi <lb/>
+che ero qui pronto a intender</hi> et sua Eccellenza non uscì a maggior particolare <lb/>
+ma stete sempre sopra questo termine generale <lb/>
+dal<ptr target="#tn21" n="21"/> quale, et dalle parole, che uscirono con esso <lb/>
+nel corso del ragionamento compresi molto
+<pb n="058r" facs="07_058r" rend="0"/>
+bene che conformava con quello, che mi disse il <hi rend="decoded">Vandermil</hi><ptr target="#tn22" n="22"/> <lb/>
+et che l’Eccellenza sua ne havesse cognitione <lb/>
+come appunto le ne scrissi nelle mie lettere del primo <lb/>
+dello stante. </p>
+<p><hi rend="decoded">Il detto Vandermil</hi><ptr target="#tn23" n="23"/> nel licentiarmi da lui <lb/>
+mi replicò havendomelo detto ancor più d’una volta <lb/>
+nella conferenza, che havessimo insieme,<ptr target="#tn24" n="24"/> <lb/>
+che <hi rend="decoded">sperava</hi><ptr target="#tn25" n="25"/><hi rend="decoded">, che col ordinario venturo mi venisse qualche <lb/>
+altra cosa, et più chiara dechiaratione di</hi><ptr target="#tn26" n="26"/> <hi rend="decoded">vostra Serenità in <lb/>
+questa materia, che però se così fosse gli facessi favore <lb/>
+di farglielo saper con mie lettere. <lb/>
+</hi></p>
+<p>Con occasione che ho veduti alcuni di questi signori secondo, <lb/>
+che o l’ha portato il discorso, o mosso alcuno da <lb/>
+sé, mi si è pur parlato <hi rend="decoded">di</hi><ptr target="#tn27" n="27"/> <hi rend="decoded">questa unione, accen-<lb/>
+nandomi, che era proprio et di servitio de’ communi <lb/>
+stare di venirne ad un fine; et io senza mos-<lb/>
+trarmi ad altro, ho proposto la missione di <lb/>
+ambasciatore, ma da qualcheduno mi è stato</hi><ptr target="#tn28" n="28"/> <hi rend="decoded">risposto, <lb/>
+non esser solito di queste Provincie mandar <lb/>
+ambasciatore,</hi>
+<pb n="058v" facs="07_058v" rend="0"/>
+<hi rend="decoded">o altri ministri a’ principe, col quale non <lb/>
+habbino colleganza, come in Franzia, in Inghilterra, <lb/>
+al Principe palatino, et per il comercio, et certa <lb/>
+dechiaratione di reciproca corrispondenza lo hanno <lb/>
+in Const</hi>(antinopo)<hi rend="decoded">li, che però sia bene il far prima <lb/>
+questa colleganza; et il signor Brumagno residente di <lb/>
+Frisia havendomi detto il medesimo mi adimandò, se <lb/>
+ne havevo parlato al signor Bernvel, volendo infe-<lb/>
+rir, che con lui bisognava far capo. Insomma serenissimo <lb/>
+Prencipe quello, che altre volte le ho significato, in <lb/>
+sostanza è lo stesso, che al presente; desiderano questi signori <lb/>
+dichiaratione delle volontà della Serenità vostra per il suo <lb/>
+servitio, et assistenza; quello, che possi far per essi <lb/>
+nei suoi bisogni, et reciprocamente l’</hi><ptr target="#tn29" n="29"/><hi rend="decoded">uno per l’uno <lb/>
+et l’altro per l’altro in tempo di pace, et io mi sono <lb/>
+molto ben avveduto dal parlar del signor Bernvel, <lb/>
+da quello del signor Vandermil, et anco da qualche-<lb/>
+duno altro, che entrano in qualche dubbio, <lb/>
+che vostra Serenità, hora</hi><ptr target="#tn30" n="30"/><hi rend="decoded">, che si tratta della pace, che come <lb/>
+ho detto, ne corre la voce, si sia ella per <lb/>
+caminar con calore in tal materia, alla quale <lb/>
+qui</hi>
+<pb n="059r" facs="07_059r" rend="0"/>
+<hi rend="decoded">inclinano, et io attenderò ciò, che vorrà, <lb/>
+che rispondi ad esso signor Bernvel, et Vandermil, <lb/>
+poiché questo a nome del suocero mi ha fatto <lb/>
+intanza di scriver di nuovo, et procurar la <lb/>
+risposta. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya a’ 22 agosto 1617<ptr target="#tn31" n="31"/> </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo, servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="059v" facs="07_059v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="021">
+<!--
+<p n="059vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 agosto 1617<ptr target="#tn32" n="32"/> ricevute a’ 6 settembre </p>
+<p>Haya prima </p>
+<p>[…]<ptr target="#tn33" n="33"/> sodisfatti </p>
+<p>14 luglio </p>
+<p>4 agosto </p>
+<p>13 ottobre </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "né … per questi stati" decoding of the encrypted text can be found on c. 50r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the deleted word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "ponderasse … et io non | mancherò" decoding of the encrypted text can be found on cc. 50r-51r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "tornò … et conveniente" decoding of the encrypted text can be found on c. 51r-v; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes the struck-through letter.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "n-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "il … più aperta dechiaratione" decoding of the encrypted text can be found on cc. 51v-52r; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the deleted word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "l’inviar" added above the line on "li inviavano" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "fe" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "è vero" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "quando … il quale" decoding of the encrypted text can be found on c. 52r; with cross-reference sign.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by deleted words.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "che … proposito" added above the deleted encrypted text.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "il … nella conclusione" decoding of the encrypted text can be found on c. 52r; with cross-reference sign.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "stimata … pronto a intender" decoding of the encrypted text can be found on c. 52r-v; with cross-reference sign.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the line on "per" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-a-" corrected above -and-.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the deleted encrypted text.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Il detto Vandermil" added above the deleted encrypted text.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "che | sperava," crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "sperava … mie lettere" decoding of the encrypted text can be found on c. 52v; with cross-reference sign.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Added above the line where the page has been damaged.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "di … risposta Gratie etc." decoding of the encrypted text can be found on c. 53r-v; with cross-reference sign.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "pro" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Uncertain reading of this word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

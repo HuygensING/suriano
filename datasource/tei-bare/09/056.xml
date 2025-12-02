@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.056 date 1620-09-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">056</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 294r-295v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">294r-295v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Two deputies have travelled from army to inform States General about Spinola’s troop movements with rumours he has taken Diest by force. Maurice and his army are near Wesel and reports that the acceptance of Spanish companies into Cologne was false. The two deputies have also come to request money and a general day of prayer has been announced. Discussion whether Maurice should return to The Hague when Spinola goes to Bohemia. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-09-01">1 settembre 1620</date>
+            <num>089</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="089">
+<div type="main" facs="main text of letter" n="089">
+<!--<p>1 settembre 1620, L’Aia (cc. 294r-295v)</p>-->
+<pb n="294r" facs="09_294r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 238 comincia 237 </p>
+<p>Serenissimo Principe </p>
+<p>dal campo sono venuti doi deputati delli otto, che sono con il signor <lb/>
+principe d’Oranges per riferir alli signori Stati la passata del mar-<lb/>
+chese Spinola di qua<ptr target="#tn1" n="1"/> il Rheno, che havendo addimandato <lb/>
+transito per Diest terra nella contea di Nassau di ragion <lb/>
+del signor conte Ernesto Casimiro, sendoli stato negato se lo <lb/>
+haveva preso per forza, dicono con morte di buona <lb/>
+quantità di quei habitanti, ben di doicento; ma questo <lb/>
+non è sicuro; che pensava il Marchese surprender <lb/>
+a contemplatione del marchese d’Armenstat, Marburgh <lb/>
+nella giuridittione del lantgravio d’Hassia; che <lb/>
+detto Lantgrave mostrava cuore per impedir dalla parte <lb/>
+sua il passo; che gl’altri principi dell’Unione si lascia-<lb/>
+vano intender del medesimo, sendosi assicurati dell’animo <lb/>
+di quelli di Francfort, nella qual città erano da doimilla <lb/>
+fanti, et l’armata dei detti principi all’intorno; <lb/>
+che havevano oltre molta infanteria cinque milla <lb/>
+cavalli, onde erano più forti assai del marchese <lb/>
+Spinola: ma detti deputati portano all’incontro, che <lb/>
+non sapevano veder se havessero havuto cuore d’impe-<lb/>
+dir il passo, overo di non prestar fede alle buone <lb/>
+parole, che gli havesse potuto dar il Marchese per trattenerli <lb/>
+et egli passar avanti. Di tutti questi particolari sono <lb/>
+essi deputati venuti a dar conto, come anco della <lb/>
+risolutione presa, che ’l signor principe<ptr target="#tn2" n="2"/> Henrico senza <lb/>
+dilatione si doveva incaminare<ptr target="#tn3" n="3"/> con quasi tutta <lb/>
+la cavallaria dei signori Stati, et doi milla fanti, et più per <lb/>
+far scorta alli Inglesi. Et questo a fine di unirsi con
+<pb n="294v" facs="09_294v" rend="0"/>
+li principi, et già deve esso signor principe Henrico esser in <lb/>
+camino, conducendosi l’infanteria sopra carri per far più <lb/>
+celemente<ptr target="#tn4" n="4"/>, et più commodamente il viaggio. Dubitano solo <lb/>
+come ho detto, che detto Principe non habbi a servir, dar <lb/>
+per scorta, credendosi, che ’l marchese Spinola haverà <lb/>
+avanzato camino. </p>
+<p>Il principe Mauritio è alloggiato con la sua armata a Bis[…] <lb/>
+discosto meno d’un’hora di camino presso Wesel, ove ha <lb/>
+fatto un ponte per transitar il Rheno, et dall’una, et <lb/>
+dall’altra parte vi ha fatto fabricar meze lune; et dicono <lb/>
+qui, che facilmente se si<ptr target="#tn5" n="5"/> volesse potrebbe gettarsi dentro<ptr target="#tn6" n="6"/> <lb/>
+Wesel dove non vi sono, che doi milla fanti. Gl’habitanti <lb/>
+hanno timore della sorpresa; molti però di essi, che sono del partito della religione riformata sentirebbono <lb/>
+volontieri, che sua Eccellenza vi si introducesse, il che si starà <lb/>
+attendendo, poiché la risolutione porta con sé molte <lb/>
+considerationi non così facili a terminarsi; massime per <lb/>
+rispetto della tregua per la pretensione, che Spagnoli <lb/>
+potrebbono prender della rotura di essa da questa <lb/>
+parte, perché il medesimo pretesto prenderebbono li signori <lb/>
+Stati se Spagnoli attaccassero qualche terre nel ducato <lb/>
+di Cleves, ove essi tengono guarnigione. </p>
+<p>Dentro Reimbergh vi sono state aggiunte alcune <lb/>
+compagnie straordinarie de’ presidii; altre in Zanthem <lb/>
+ove si attendeva don Luigi di Valasco senza minima <lb/>
+voce però di torbidar in quella parte. </p>
+<p>Fu vano raporto quello, che in Colonia si fossero introdotte
+<pb n="295r" facs="09_295r" rend="0"/>
+compagnie<ptr target="#tn7" n="7"/> spagnuole; ben si tiene per fermo, <lb/>
+che la più gran parte di quelli, che vi sono siano <lb/>
+del partito<ptr target="#tn8" n="8"/>; ma che non si dichiarino per li <lb/>
+rispetti, che hanno stante la neutralià di non <lb/>
+dichiarirsi quella città contraria in tutto a questa <lb/>
+parte. </p>
+<p>Li sudetti doi deputati sono venuti ben per riferir quanto <lb/>
+ho detto; ma anco in particolare per provisione di denari <lb/>
+per l’armata. È stato dato l’ordine per l’esborso, et <lb/>
+uno di essi già è partito per Utrecht, et l’altro par-<lb/>
+tirà giovedì, sendo dimani giorno deputato ad <lb/>
+una preghiera generale per implorar l’aiuto di Dio <lb/>
+per servitio dell’Alemagna, et sarà generale in tutte <lb/>
+le città, et terre delle sette Provincie. </p>
+<p>Consulteranno appresso questi signori quello doverà far il signor <lb/>
+principe d’Oranges se ’l marchese Spinola sarà <lb/>
+passato, et a drittura in Bohemia, se doverà sua Eccellenza <lb/>
+tornansene qui, et licentiar l’armata; mentre <lb/>
+senza far niente la soldatesca otiosa non può <lb/>
+apportare che danno, et malificio con spesa <lb/>
+considerabile a questi stati. Gratie etc. </p>
+<p>Dall’Haya il dì primo settembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="295v" facs="09_295v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 238 comincia <lb/>
+237 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="089">
+<!--
+<p n="295vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Primo settembre 1620 ricevute a’ 16 detto </p>
+<p>Haya. n° 238 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "se" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "spagnole" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "di qua" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

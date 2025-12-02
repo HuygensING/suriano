@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.026 date 1617-12-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">026</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 160rv, 163r-165v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 109) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp63-75)
+            </note>
+            <biblScope unit="page">160r-v, 163r-165v, 161r-162v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Prince Maurice has visited Delft, Rotterdam, Schiedam, Rotterdam, Gorinchem and other cities to counter the idea amongst magistrates in Holland about his position in the religious controversies and he seeks support for a national synod. Suriano describes how citizens in Leiden are arming themselves. In cipher he writers that it is rumored Oldenbarnevelt is behind the call to arm citizens in Holland. On the issue of the Weegschaal a placcard has been registered but not yet publicly proclaimed and the French ambassador tries to find remedy to situation. Jean Casimir Levenstein leaves tomorrow, he was unable to settle the debts of his brother. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-05">5 dicembre 1617</date>
+            <num>050, 051</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="050">
+<div type="main" facs="main text of letter" n="050">
+<!--<p>5 dicembre 1617, L’Aia (cc. 160r-v, 163r-165v)</p>-->
+<pb n="160r" facs="05_160r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>è ritornato hieri a sera il signor principe Mauritio dall’esser <lb/>
+stato a Delft, Roterdam, Schidam, Dordrechet, Gorcon, <lb/>
+et qualche altra città di questa provincia, alle quali <lb/>
+è andato espressamente per levargli l’impressione, che era <lb/>
+stata fatta in esse, et tra li magistrati, che sua Eccellenza havesse <lb/>
+ambitione di voler far far a sua fantasia, et dar <lb/>
+legge a’ detti magistrati, et sostentar partialità in questa <lb/>
+controversia di religione. Ha fatti ridur li consigli delle <lb/>
+dette città, li ha fatto conoscer il contrario, et quanto <lb/>
+l’animo suo sia alieno da queste imposture; ha <lb/>
+rimostrati li disordini, che vano seguitando, il <lb/>
+male, che ne può seguire, viver ella obligata <lb/>
+a queste provincie; onde per obligo, et per giuramento <lb/>
+altro non desiderava se non che si trovasse ripiego <lb/>
+a queste dissensioni; ch’ella non si affetionava <lb/>
+tanto al partito de’ gomoristi, che spezzasse <lb/>
+quello delli erministi; et a questo anco haverebbe <lb/>
+adherito quando da<ptr target="#tn1" n="1"/> persone dotte, et indipendenti <lb/>
+fosse conosciuta la dottrina d’Erminio esser<ptr target="#tn2" n="2"/> <lb/>
+migliore di quella ch’è stata prima giurata <lb/>
+et di lungo tempo osservata in questi paesi; che <lb/>
+stimava esser proprio un sinodo nationale <lb/>
+et per tanto li pregava a pensar bene al rimedio
+<pb n="160v" facs="05_160v" rend="0"/>
+et venendo alla general Dieta portar sensi tali, che valessero <lb/>
+a divertir il male, et a restituir quel bene alla Patria, <lb/>
+et allo Stato, che deve desiderarsi da buoni cittadini, et <lb/>
+patrioti. Questo in sostanza è stato l’ufficio, che sua Eccellenza ha <lb/>
+fatto nelle dette città, nelle quali tutto è stato ricevuto <lb/>
+gratamente essendogli venuta incontro la borghesia <lb/>
+con bandiere spiegate, et altri testimonii di affettiona-<lb/>
+tissimo honore verso la persona sua. </p>
+<p>Al partir suo di qua fu creduto, che andasse a drittura <lb/>
+a Leiden, et mi è stato affermato, che là fu scritto <lb/>
+che si dovessero tener pronti, et haver cura a sé stessi <lb/>
+perché sua Eccellenza veniva accompagnata da doi compagnie <lb/>
+d’infanteria né si sapeva, che pensieri, et fini fossero <lb/>
+li suoi. La sera della domenica furono ispedite le lettere <lb/>
+et quella notte stessa fu fatto ridur il Consiglio, et <lb/>
+fu anco deliberato, che si armassero li borghesi, et <lb/>
+facessero guarda<ptr target="#tn3" n="3"/> alle porte; et in un istesso sopra <lb/>
+il medesimo avviso, col quale si consigliava anco di <lb/>
+dar parte ad altre città fu scritto a Harlem, a <lb/>
+Utrechet, a Schonoven, et altrove, che tutti si tenero <lb/>
+presti, il che ha dato da dir non poco. </p>
+<p><hi rend="decoded">Dicono</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">che l’auttore dell’aviso sia stato monsignor <lb/>
+Bernvel, et</hi>
+<pb n="163r" facs="05_163r" rend="0"/>
+<hi rend="decoded">l’essecutore il genero Vandermil, <lb/>
+che si trovava per appunto a Leidei, il qual fece <lb/>
+la notte convocar il Consiglio et ispedir in diligenza <lb/>
+alle</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">dette</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">città, che ancor elle, si misero in <lb/>
+arme. <lb/>
+</hi></p>
+<p>Dimani si comincierà a ridur l’assemblea generale <lb/>
+d’Holanda, essendo già arrivata la più gran <lb/>
+parte de’ deputati. Si aspettano delle dispute <lb/>
+assai, poiché par che il fatto sia ridotto a sostentar <lb/>
+partito, non al ponderar ciò che è di religione, o di <lb/>
+servitio della Patria. M’è stata fatta una consi-<lb/>
+deratione questa mattina da huomo, che la intende <lb/>
+che havendo lo stato di Holanda proposto di <lb/>
+voler accommodar prima questo punto di religione <lb/>
+innanzi, che devenir alla contributione delle <lb/>
+impositioni colle quali si mantiene la soldatesca <lb/>
+alla difesa delle provincie, essendo stato messo <lb/>
+questo<ptr target="#tn7" n="7"/> per ultimo capo, che doveva esser <lb/>
+il primo correndo dubio del buon successo nel detto <lb/>
+punto di religione, et non essendo rimediato <lb/>
+a questo delle contributioni mal commodamente <lb/>
+si potrà mantener le genti, et potrebbono
+<pb n="163v" facs="05_163v" rend="0"/>
+succeder delle amutinationi, et peggiori consequenze et <lb/>
+questo stesso mi disse Parmi di vedere, che per dispute <lb/>
+con presuposito di acquistar il cielo si metterno a <lb/>
+rischio di perder quello, et la terra insieme. </p>
+<p>Gl’erminiani non vorrebbono il sinodo nationale, al quale <lb/>
+al* quale* concorrono per lo più li signori Stati; et che fu <lb/>
+consigliato da sua Eccellenza alle città, alle quali è stato; dicendo <lb/>
+essi, che non può esser che partiale; mentre gl’esterni <lb/>
+tutti sono del medesimo senso nei dogmi della religione <lb/>
+che sono lì contra remonstranti. </p>
+<p>Dicesi che li Stati Generali attenderanno la risolutione <lb/>
+di questa Dieta di Holanda; et non deliberandosi <lb/>
+cosa che vaglia sino alla fine di genaro prossimo; all-<lb/>
+hora publicaranno il loro editto già messo in carta <lb/>
+chiamando<ptr target="#tn8" n="8"/> ministri di diverse<ptr target="#tn9" n="9"/> nationi <lb/>
+delle Chiese di Francia, d’Inghilterra, d’Alemagna, <lb/>
+della Svizzera per il mese di giugno dell’anno venturo. </p>
+<p>Con quanto ha di nuovo sollecitato, et instato il signor ambasciator <lb/>
+d’Inghilterra non si è venuto ancor a publica proclama <lb/>
+contra l’autor del libro scritto sopra la sua proposi-<lb/>
+tione; se bene il placart è stato notato, et è registrato <lb/>
+ma la ia di Utrechet, et Ourisel non lo lasciano
+<pb n="164r" facs="05_164r" rend="0"/>
+metter ad effetto stante che dicono, che se si venisse a <lb/>
+questa publicatione sarebbe un dichiarire<ptr target="#tn10" n="10"/>, che fosse male <lb/>
+quanto havesse scritto l’auttore essendo con quei termini <lb/>
+che professano; onde per consequenza applaudendo all’<lb/>
+opera si fa contra la Maestà d’Inghilterra, che non può far <lb/>
+di non restarne gravemente offesa. Questo è lo stato <lb/>
+presente delle cose prego Iddio, che ve metti la mano. <lb/>
+Si spera bene col mezo di questa assemblea generale <lb/>
+l’ambasciator di Francia si affatica per persuadere a trovar <lb/>
+rimedio proprio al male, et vorrebbe, come mi ha detto, <lb/>
+che quello d’Inghilterra per nome del suo Re non fosse passato <lb/>
+tanto innanti; o almeno non havesse sopportata la <lb/>
+stampa della sua relatione per haverlo unito a far <lb/>
+insieme de quegli ufficii che sono proprii in questa congiontura. </p>
+<p>Deve partir dimani o appresso dimani per Alemagna <lb/>
+et di là pur per costì il signor conte Gio. Casimiro di Levenstein <lb/>
+tornato qui fino a venerdì da Amsterdam, senza <lb/>
+haver potuto cavar cosa buona per la sodisfattione <lb/>
+dei debiti del fratello; anzi vostra Serenità saprà che il signor <lb/>
+Gasparo Quingetti doppo haver fatto far prigione <lb/>
+venerdì<ptr target="#tn11" n="11"/> Alessandro<ptr target="#tn12" n="12"/> Vandembergh, si è <lb/>
+retirato, onde è stato dichiarito fallito. Tutto è
+<pb n="164v" facs="05_164v" rend="0"/>
+nato dalla gran fede, ch’egli sempre ha prestata a detto <lb/>
+Vandembergh, che governava tutte le cose sue, et l’ha <lb/>
+maneggiate in maniera, che facendosi buona mano <lb/>
+ha rovinato esso Quingetti. Hora si tenta che sia <lb/>
+scarcerato il Vandembergh, come quello che haveva <lb/>
+sicurtà di corpo dai signori Stati Generali, et il Quingetti <lb/>
+ricerca, che vi sia trattenuto con accusarlo di ladro <lb/>
+procurando per sé medesimo un salvo condotto per poter <lb/>
+sodisfar a tutti. </p>
+<p>Qualche giorno prima di questa novità il magistrato <lb/>
+di Amsterdam mi scrisse lettere pregandomi di pensar <lb/>
+a qualche ordine con che potessero pagarsi li credi-<lb/>
+tori del conte di Levenstein. Io gli ho rescritto, che <lb/>
+l’auttorità loro era sufficiente per questo, mentre <lb/>
+tra ’l Quingetti, et Alessandro Vandembergh si sapeva <lb/>
+che era capitato il denaro dato al conte di Levenstein <lb/>
+non ho havuto altro in risposta, ben alcuni dei <lb/>
+mercanti, et creditori sono pur ricorsi a me <lb/>
+presuponendo, che ’l denaro dell’ultime lettere <lb/>
+di cambio non essendo maturo il tempo manco <lb/>
+sia stato pagato, et mi liberò con ognuno <lb/>
+con dire non haver contrattato, et haver sodisfatto <lb/>
+a ciò che si deveva. </p>
+<pb n="165r" facs="05_165r" rend="0"/>
+<p>Più, et più volte ho avvertito il conte Gio Casimiro, che <lb/>
+non lasci andar l’ultima nave, che restava con le genti <lb/>
+del Rosburch, et venerdì<ptr target="#tn13" n="13"/>, et hieri glielo dissi di nuovo <lb/>
+mi ha risposo<ptr target="#tn14" n="14"/>, che vada o non vada bisognarà che <lb/>
+il suo fratello paghi in ogni modo il nolo delle navi <lb/>
+et delle genti, et che vostra Serenità ne haverà sempre bisogno. <lb/>
+Io gli ho risposto, che colla pace cessava il bisogno <lb/>
+egli s’ha stretto nelle spalle dicendo, che non sapeva <lb/>
+che fare, et credeva, che già la nave fosse partita <lb/>
+di Delfsil: onde veggo doi fratelli con la sua intra-<lb/>
+presa, mala condotta, et tarda essecutione molto <lb/>
+intricati, et mal accommodati. Gratie etc. </p>
+<p>Dall’Haya a’ 5 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="165v" facs="05_165v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="050">
+<!--
+<p n="165vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 decembre 1617 ricevute a’ 20 detto </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="051" corresp="050" source="161r-162v" >
+<div type="main" facs="main text of attachment I" n="051" corresp="050" >
+<!--<p>Allegato I al n. 50 (cc. 161r-162v; decodifica di cc. 160v, 163r)</p>-->
+<pb n="161r" facs="05_161r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="161v" facs="05_161v" rend="0"/>
+<p>Blank page</p>
+<pb n="162r" facs="05_162r" rend="0"/>
+<p>Blank page</p>
+<pb n="162v" facs="05_162v" rend="0"/>
+<p>Blank page</p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Dicono … arme" decoding of the encrypted text can be found on c. 161r, with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "capo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "diversi" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "nat" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "il" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

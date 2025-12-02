@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.020 date 1621-05-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 92r-94v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">90r-91v, 92r-94v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters 16 April and in cipher reports his audience with States General where he promises that the Venetian Republic will stick to promises in the alliance treaty, offers additional information from Italy regarding the Grisons and thanks them for assistance of Haga in Constantinople. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-03">3 maggio 1621</date>
+            <num>030, 031</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="030" corresp="031" source="90r-91v" >
+<div type="main" facs="main text of attachment I" n="030" corresp="031" >
+<!--<p>Allegato I al n. 31 (cc. 90r-91v; decodifica di c. 92r-v)</p>-->
+<pb n="090r" facs="10_090r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="090v" facs="10_090v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="091r" facs="10_091r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="091v" facs="10_091v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="031">
+<div type="main" facs="main text of letter" n="031">
+<!--<p>3 maggio 1621, L’Aia (cc. 92r-94v)</p>-->
+<pb n="092r" facs="10_092r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 295 fin 296 </p>
+<p>Serenissimo Principe </p>
+<p>coll’ordinario d’Anversa, che qui capitò hieri hebbi le lettere <lb/>
+della Serenità vostra de’ 16 et quella insieme per li signori Stati. Poiché <lb/>
+opportunamente mi erano capitate stimai a proposito non differire <lb/>
+ma chieder come feci questa mattina l’audienza. L’hebbi, et <lb/>
+esposi <hi rend="decoded">intorno</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">l’assistenza debita per capitulatione <lb/>
+ricercata da loro Eccellenze in caso di bisogno, <lb/>
+quei concetti, che mi sono stati suministrati dalla somma prudenza di lei, accom-<lb/>
+pagnadoli con ufficio conforme, et <lb/>
+con pienezza di parole tali, quali <lb/>
+stimai poter supplire all’intentione <lb/>
+sua, di avivar gl’animi de questi <lb/>
+signori alla continuatione dei loro appa-<lb/>
+rati, senza obligarla però a più <lb/>
+del contenuto nelli artcioli della <lb/>
+aleanza; laudando, et essaltando <lb/>
+la providenza loro, et i loro degni <lb/>
+pensieri, et mostrando il gusto <lb/>
+ch’ella haveva ricevuto della <lb/>
+confidenza, et della corrispondenza <lb/>
+usata con essa in questa congiontura <lb/>
+intromettendo di quelle altre parole, <lb/>
+che mi furono detate dalla materia <lb/>
+stessa, per imprimer bene il guardarsi <lb/>
+da vane propositioni, et da insidiosi <lb/>
+trattati; comprendendo li signori <lb/>
+della semblea</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">per principio della <lb/>
+mia narratione a che serviva <lb/>
+la lettera di vostra Serenità, che tenevo <lb/>
+in mano, et le presentai; attesero <lb/>
+con attentione il fine. <lb/>
+</hi></p>
+<p><hi rend="decoded">Terminato, <lb/>
+</hi>
+<pb n="092v" facs="10_092v" rend="0"/>
+<hi rend="decoded">che hebbi, et letta <lb/>
+la lettera, disse il Presidente <lb/>
+a nome di tutti, da chi haveva <lb/>
+presa la parola, che della buona <lb/>
+mente, et ottima volontà della Serenità vostra si promettevano ogni <lb/>
+buon effetto, et che compitamente <lb/>
+haverebbe sodisfatto alle promesse <lb/>
+stabilite</hi> <lb/>
+ch’ella amando <lb/>
+la libertà di questa Republica si sarebbe con ogni fervore impie-<lb/>
+gata per essa, perché il medesimo si poteva ella prometter <lb/>
+da queste Provincie per servitio, et sicurezza di quella serenissima <lb/>
+Republica; che non ralentavano punto il corso dei loro apparati, anzi augumentavano di più in più le forze <lb/>
+sendo troppo palesi l’insidie, che sogliono tender Spagnuoli, <lb/>
+a queste haverebbono mirato fisso, senza lasciarsi subornar <lb/>
+da proposte pregiudiciali alla loro sopranità, accenando <lb/>
+quelle del Pecchius, colaudando io il concetto soggiunse il <lb/>
+Presidente, la serenissima Republica haverà forse inteso quello, <lb/>
+ch’è passato, et non dubitamo, che sarà riuscito a lei, et <lb/>
+a tutti gl’altri principi propria, et corrispondente la risposta <lb/>
+fatta da noi alla proposta spiegata dal Pecchius. Io dissi che non poteva se non laudarsi sempre dalla Serenità vostra <lb/>
+la generosità dell’animo delle loro Eccellenze, poiché ha radice <lb/>
+da una esperimentata prudenza, c’ha valso a sostenersi <lb/>
+per il passato contra li suoi nemici, et della medesima maniera <lb/>
+valerà anco nell’avenire coll’aiuto di Dio, dal quale <lb/>
+augurai in nome di vostra Serenità a questo stato felice adrizzo <lb/>
+più felice condotta, et perfettissimo fine ad ogni intrapresa
+<pb n="093r" facs="10_093r" rend="0"/>
+per conservatione della libertà di questa Republica, di che <lb/>
+fui ringratiato con parole cortesissime, et corrispondenti a <lb/>
+questo mio ultimo ufficio. </p>
+<p>Degli avvisi de’ Grisoni per altra stradda li signori Stati erano avvisati<ptr target="#tn3" n="3"/> <lb/>
+in generale di quello, che era seguito, ma gustorono di sentir <lb/>
+l’espressione dei particolari che puntualmente li andai com-<lb/>
+municando. Ringratiò il Presidente la Serenità vostra della commu-<lb/>
+nicatione, et disse, che li loro ambasciatori ritornati di Francia confermavano esser stati abbracciati dal Christianissimo <lb/>
+gl’interessi de’ Grisoni con molto affetto, et tenevano per <lb/>
+fermo, che non haverebbe mancato di adoperarsi quella Maestà <lb/>
+per riportarne il frutto, che si ricercava; ma che <lb/>
+toccava anco alla serenissima Republica non meno, che alla corona <lb/>
+di Francia il non lasciar perir quei popoli il soministrargli <lb/>
+aiuti di consiglio sì; ma di effetti ancora in quanto fosse <lb/>
+stato possibile per tenerli animati alla difesa della propria <lb/>
+libertà, et a cacciarsi dagl’occhi quelli, che li vogliono <lb/>
+far sottogiacer. Io a questo risposi, che già havevo rappresentato, che sua Serenità non mancava de’ suoi buoni <lb/>
+ufficii, et effetti, et che tanto in Francia, che nello stesso <lb/>
+Paese de’ signori Svizzeri, et Grisoni non tralasciava quello, <lb/>
+che stimava proprio, et di servitio di quei popoli, et così <lb/>
+haverebbe continuato: tutto stava però, et presta condotta <lb/>
+della Francia. Risposero li signori Stati, che a tutti li principi, <lb/>
+republiche, et altri interessati, et massime alli vicini
+<pb n="093v" facs="10_093v" rend="0"/>
+si aspettava porgere quel rimedio, che pronto possono <lb/>
+dare. Terminai con replicar, che vostra Serenità faceva dal canto <lb/>
+suo tutto ciò, che più si può fare, che anco ad altri principi, <lb/>
+et republiche benché lotani si aspettava mirar a quella <lb/>
+parte della Retia perché persa quella libertà, et assogietita <lb/>
+non poteva, che riuscir di pregiudicio a quelli, che <lb/>
+amano, et sono nello stesso stato di libertà. Mi fu a questo <lb/>
+punto risposto, che di qua si haveva fatto ciò che si era <lb/>
+potuto, né si mancarebbe di operare quello che si fosse <lb/>
+veduto esser proprio. </p>
+<p>Il rendimento di gratie, che feci per quello, che continuava a far <lb/>
+di bene alla porta di Costantinopoli il loro orator Hages <lb/>
+et della buona corrispondenza, che teneva con li suoi eccellentissimi <lb/>
+baili riuscì caro, et con l’essermi ciò testificato con <lb/>
+parole abondanti furono anco accomplite con assersione <lb/>
+che sentiranno sempre con gusto, che ’l loro Ministro <lb/>
+si adoperi in servitio di quella serenissima Republica con ogni <lb/>
+affetto, et occorrendo, et* occorrendo* havendo anco date <lb/>
+nuove commissioni; et io di nuovo ringratiai l’Eccellenze <lb/>
+loro et partii. </p>
+<p>Mostro il signor principe Mauritio particolar gusto della risposta <lb/>
+data con la lettera alli signori Stati, et insieme degl’avvisi <lb/>
+de’ Grisoni, et parlò si può dir con medesimi concetti dei signori Stati <lb/>
+dell’interesse, che haveva quella serenissima Republica, et mi ringratiò <lb/>
+della confidenza. Gratie etc. </p>
+<p>Dall’Haya li 3 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="094r" facs="10_094r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="094v" facs="10_094v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>295 fin 296 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="031">
+<!--
+<p n="094vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 maggio 1621 ricevute 25 detto n° 295 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "intorno … promesse | stabilite" decoding of the encrypted text can be found on cc. 90r-91r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected above "-o."</p></note>
+</div>
+</body>
+</text>
+</TEI>

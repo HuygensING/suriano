@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.041 date 1621-07-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">041</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 198r-200v, 203r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp75-95
+            </note>
+            <biblScope unit="page">198r-200v, 203r-v, 201r-202v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Waiting for news of the convocation of princes of Lower Saxony. Reports he has received letter by James VI/I to the princes of the union (which he sends in Italian translation attached). French king has sent someone to the States to counter a mission by those of La Rochelle and Van Aerssen is undertaking action to restore his reputation in France. The Polish ambassador is frustrated as he has not obtained anything for the States. Langerack has been put forward by province of Holland as candidate for Venetian ambassador. Case of Moens has been put forwards. Reminds the Venetians of the accounts he has send about the 12 ships and since not received a reply. One text attached: a letter from James VI/I to princes of the union</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-07-05">5 luglio 1621</date>
+            <num>066, 067</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="066">
+<div type="main" facs="main text of letter" n="066">
+<!--<p>5 luglio 1621, L’Aia (cc. 198r-200v, 203r-v)</p>-->
+<pb n="198r" facs="10_198r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 314 comincia 313 </p>
+<p>Serenissimo Principe </p>
+<p>qui si sta con particolar espettatione del fine della convocatione <lb/>
+de’ principi della Bassa Sassonia a Wolfenbutel, et particolarmente dovendovi <lb/>
+intervenir l’elettore di Sassonia. Il re di Danimarca interverrà anco <lb/>
+personalmente. <lb/>
+Si crede<ptr target="#tn1" n="1"/> che sarà per intendersi bene per la presente <lb/>
+constitutione delli affari dell’Alemagna, et trovar ripiego, che non <lb/>
+le si levi la total libertà sua: tuttavia pensano che sotto vi sia <lb/>
+qualche altro misterio. </p>
+<p>Ho havuta copia della lettera, che ’l re della Gran Bertagna scrive <lb/>
+ai principi dell’Unione dolendosi di quello hanno fatto, et di ciò che <lb/>
+hanno detto della Maestà sua incolpandola del trattato loro di pace <lb/>
+onde come di cosa non vera dimanda ad essi principi risarcimento <lb/>
+per la riputatione dell’honor suo, et del genero. Può esser che <lb/>
+d’altra parte le sia capitata, io però non ho voluto far di meno <lb/>
+di non inviarlene anco un translato nella lingua italiana. </p>
+<p>Havendo presentito il Christianissimo, che come in Inghilterra qui ancora quelli <lb/>
+della Roscella dovevano mandar quattro lor deputati doi genti-<lb/>
+lhuomini, et doi predicanti ha sua Maestà spedito qui suo gentilhuomo <lb/>
+espresso per avvertir questi signori che non siano sentiti, anzi venendo <lb/>
+siano arrestati, et fatti capitar nelle mani di lei, et di più che <lb/>
+né ad essi della Roscella né ad altri suoi sudditi sia data assistenza <lb/>
+o commodità di provedersi da questi paesi di amonitioni di guerra <lb/>
+né fatto altro, che possi riuscir in alcuna parte contra il servitio di <lb/>
+sua Maestà. Detto gentilhuomo in publica assemblea presentato <lb/>
+da monsignor di Maurier ha fatto l’ufficio con efficacia grande <lb/>
+et n’ha riportata risposta di riverente ossequio, et devotione <lb/>
+verso la Maestà sua et con parole generali l’hanno assicurata, che <lb/>
+piglieranno buona cura, che non sia attentata cosa, che possi
+<pb n="198v" facs="10_198v" rend="0"/>
+riuscir in pregiudicio di lei<ptr target="#tn2" n="2"/>, et con altri concetti simili hanno <lb/>
+dimostrata la buona volontà di queste Provincie, et la loro osservanza <lb/>
+alla Corona: onde<ptr target="#tn3" n="3"/> ha il detto gentilhuomo dato segno di restar <lb/>
+sodisfatto. Anco con sua Eccellenza ha fatto il medesimo ufficio. </p>
+<p>A lei anco ha raccommandato la liberatione di alcuni francesi tra <lb/>
+quali vi è un scudiero di madama sorella del Re posti prigioni alcuni <lb/>
+giorni sono imputati per fabricatori di monete. Si pretende, che <lb/>
+siano inocenti, et li Francesi publicano la prigionia esser stata inven-<lb/>
+tata per tirar il modello d’un secreto da seccar acque che havevano <lb/>
+offerto per levarne nella Northolandia, et ne dimandavano centomilla <lb/>
+fiorini a opera fatta: tuttavia sono tenuti ristretti, et separati <lb/>
+et contra di loro si sta nel punto delle monete. </p>
+<p>È qualche pezzo, che ’l signor cavallier Arsen va praticando, et nego-<lb/>
+tiando per sé stesso per reconciliarsi in Francia. Ho saputo haver <lb/>
+egli adoperato il mezo di monsignor d’Altariva colonello francese. <lb/>
+Hora venuto questo gentilhuomo è andato a trovarlo nella <lb/>
+casa del medesimo Colonello, et confessando gl’oblighi grandissimi <lb/>
+che conservava alla gloriosa memoria di Henrico quarto <lb/>
+mostrò anco il desiderio, che teneva di esser conosciuto riverente <lb/>
+et humil servitore del presente Re, usando altri concetti simili <lb/>
+d’un’apparente summissione. Ho scoperto dal parlar confidente <lb/>
+del detto gentilhuomo, che da monsignor di Diguieres amico dell’Arsen <lb/>
+haveva havuto qualche ordine di coadiuvar col mezo di qualche <lb/>
+abboccamento la redintegratione in gratia del Re dell’Arsen <lb/>
+et s’è concluso esser necessario ch’egli procuri di dar sodisfattione <lb/>
+a sua Maestà et alli ministri di lei, che in particolar si professano offesi <lb/>
+per rispetto della Maestà sua et per sé medesimi, dicendomi detto signore, che
+<pb n="199r" facs="10_199r" rend="0"/>
+a questo bisognava, che mirasse, et se haveva volontà di sodisfar <lb/>
+al Re, et servirlo lo facesse constar con effetti riverenti et di som-<lb/>
+missione, et di sodisfattione. Ciò ch’egli sia per fare non si sa. </p>
+<p>La risposta all’ambasciator di Polonia fu conforme a quella, che in sostanza <lb/>
+riverentemente significai hoggi otto alla Serenità vostra. S’era già accommodato lo <lb/>
+stomaco il che mi significò quando si compiacque venir<ptr target="#tn4" n="4"/> a licentiarsi <lb/>
+da me in questa casa della Serenità vostra. Mi disse però che aspettava almeno, <lb/>
+che questi signori havessero fatta qualche picciola cosa per il suo Re, ma che <lb/>
+l’havevano tenuto qui tre settimane, et infine lo spedivano con <lb/>
+un bel niente; et anco per la nave che doveva transportar<ptr target="#tn5" n="5"/> l’armi <lb/>
+dategli dalli arciduchi, et per lo stesso transporto doveva egli medesimo <lb/>
+ingegnarsi di trovarla, assicurar la condotta, et far altro, che <lb/>
+tanto si sarebbe fatto anco con un particolare patienza disse non si può <lb/>
+far altro la congiontura vuole così. Mi communicò esser stato presentato <lb/>
+di una cattena di milla fiorini, et che l’haverebbe rifiutata se non fosse <lb/>
+stato per qualche rispetti. Questo credé sempre di esser spesato a nome <lb/>
+publico per gl’ordini, ch’erano stati dati nell’hosteria alla sua venuta, <lb/>
+ma tutto se gli è lasciato pagare, anzi non havendo tanto che lo potesse <lb/>
+fare, ha condotto seco l’hoste in Amsterdam per sodisfarlo. Havevano <lb/>
+li signori Stati nella lettera datagli per risposta a quella del Re posto <lb/>
+nella mansione il solo titolo di re di Polonia, egli non la volse ricever, <lb/>
+senza il titolo anco di re di Svetia in che l’hanno contentato <lb/>
+in ogni modo è partito malissimo sodisfatto sendosene dichiarito colli <lb/>
+ambasciatori di Francia, et d’Inghilterra, et con me ancora quando fui a dirli <lb/>
+a Dio<ptr target="#tn6" n="6"/>. Ma ha bisognato ch’egli habbi patienza. </p>
+<p>Mi fu detto anco da altri quello, che l’eccellentissimo signor Ambasciator inglese mi mandò <lb/>
+a communicar della risolutione della Congregatione d’Holanda
+<pb n="199v" facs="10_199v" rend="0"/>
+della nominatione per la parte loro di monsignor di Langarach per presentarlo alli <lb/>
+signori Stati per ambasciator per Venetia. L’apertura non è ancor stata fatta all’<lb/>
+assemblea, et la causa si tiene che sia per voler quelli, che hanno l’<lb/>
+interesse particolare brigar di indur gl’altri dell’altre provincie ad <lb/>
+assentir nella persona, che doverà succederli in Francia, ch’è quel <lb/>
+Burcost che vi è stato straordinario. S’è già buon pezzo scoperto <lb/>
+l’artificio, et l’interesse, et fra l’altre provincie quella di Gheldria <lb/>
+si formalisa assai sendo la prima tra le sette, et par strano, che <lb/>
+quella di Holanda vogli haver in ogni occasione, et in ogni corte la <lb/>
+preheminenza: con tutto ciò non havendo manc’ella soggetto proprio <lb/>
+si crede, che in fine si potrebbe accommodar in monsignor di Langarach <lb/>
+della persona del quale non so come si contenti il signor principe Mauritio <lb/>
+per li rispetti scritti nelle mie lettere de’ 10 maggio passato: tutto biso-<lb/>
+gna, c’habbi tempo nella constitutione di questo Governo, che mi<ptr target="#tn7" n="7"/> giova <lb/>
+sperare, che non diferirà molto. </p>
+<p>Havevano li signori Stati all’instanza, et per la raccommandatione fatta al <lb/>
+Presidente la settimana passata a nome di vostra Serenità per l’interesse del mer-<lb/>
+cante Moens scritte lettere favorevoli alli signori dell’amiralità di <lb/>
+Zelanda<ptr target="#tn8" n="8"/> dandoli commissione di far breve, giusta, et <lb/>
+ragionevol ispeditione, ma sendo doppo sopragiunte lettere da <lb/>
+Midelburgh dell’agente là del medesimo Moens all’avocato Vandervech <lb/>
+qui nell’Haya<ptr target="#tn9" n="9"/>, c’ha in mano la solicitatione dell’affare, che si erano <lb/>
+sotto<ptr target="#tn10" n="10"/> cautione restituite alcune mercantie a qualche interessati <lb/>
+francesi et altri, m’ha pregato di rinovar l’ufficio per nuove <lb/>
+commissioni a fine di metter in più sicuro il bene del detto <lb/>
+Moens così feci hieri a sera col presidente di Gheldria <lb/>
+che<ptr target="#tn11" n="11"/> mi promise di operare a sodisfattione di questa nuova
+<pb n="200r" facs="10_200r" rend="0"/>
+raccomandatione di quello seguirà le ne darò riverente avviso. </p>
+<p>Con mie lettere de’ 14 aprile passato rimandai alla Serenità vostra la copia, et <lb/>
+seguitò anco a’ 19 del medesimo la replicata di doi fogli: in uno vi era <lb/>
+anotata la quantità, et qualità di robbe consignate a nave per nave <lb/>
+delle dodici, et nell’altro la specificatione di alcuni prezzi; ma perché con <lb/>
+questa non potevo cavarne il vero debito sendovi diverse cose delle quali non <lb/>
+vi era anotato il prezzo la pregai far notar a chi aspettava all’<lb/>
+incontro il vero costo a partita per partita per poter dimandar a chi <lb/>
+tocca precisamente il debito. Non ho mai havuta altra risposta, se si <lb/>
+compiacerà potrà commandar, ch’io ne sia avvertito per procurar come <lb/>
+farò ad ogni mio potere il rimborso da quelli, che anderanno <lb/>
+debitori. Non ho dubio, che ’l signor Marco Dardani sarà già arrivato <lb/>
+a Venetia a lui potrebbe vostra Serenità commandar la cura di dilucidar <lb/>
+questo conto per ribatter quello sa esser stato fatto buono dagl’interessati. </p>
+<p>A’ 22 ottobre dell’anno passato vostra Serenità mi commandò di procurar dalli <lb/>
+partionevoli della nave Jonas, ch’ella fece consignar in Candia <lb/>
+al loro agente doi milla ducati incirca che erano stati spesi ne’ concieri<ptr target="#tn12" n="12"/> di <lb/>
+essa; et essendomi stato affermato, che a Venetia ne sarebbe fatta <lb/>
+la sodisfattione, et che al consule Ouris<ptr target="#tn13" n="13"/> sarebbe stato dato <lb/>
+carico di trattarne colli ministri della Serenità vostra credo che ciò sia <lb/>
+seguito; ma non havendone havuta alcuna notitia scrivo riverentemente <lb/>
+questo tanto a fine occorrendo di ricever li suoi prudentissimi commandamenti. </p>
+<p>Mi capitano hor hora lettere di Brusseles con avviso che con corriero <lb/>
+espresso qualche giorno passato il serenissimo Leopoldo havea fatta <lb/>
+instanza a sua Altezza di non effettuar l’ordine del Catholico come <lb/>
+essecutor di esso nella restitutione della Valtelina; ma sendosi <lb/>
+già spedito il Dolar<ptr target="#tn14" n="14"/> risolvé sua Altezza di scriver in Spagna a fine che
+<pb n="200v" facs="10_200v" rend="0"/>
+da sua Maestà catholica fosse risoluto, et dato nuovo ordine se così li paresse <lb/>
+l’ambasciator di Spagna si affaticava per intricar le cose a tutto suo potere<ptr target="#tn15" n="15"/>. <lb/>
+Le lettere sono de’ 29 del passato né sono più fresche di altre <lb/>
+ricevute sabbato. Gratie etc. </p>
+<p>Dall’Haya li 5 luglio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="203r" facs="10_203r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="203v" facs="10_203v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 314 comincia<ptr target="#tn16" n="16"/> 313 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="066">
+<!--
+<p n="203vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 luglio 1621 ricevute 21 detto n° 314 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="067" corresp="066" source="201r-202v" >
+<div type="main" facs="main text of attachment I" n="067" corresp="066" >
+<!--<p>Allegato I al n. 66 (cc. 201r-202v)</p>-->
+<pb n="201r" facs="10_201r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Suriano de n° 314 </p>
+<p>Lettera del re della Gran Bertagna alli principi dell’Unione </p>
+<p>Signori miei cugini. Finchéa, che noi vi scrivessimo le lettere nostre dei 5 di marzo. <lb/>
+Per il baron Digby, il qual noi inviassimo ambasciator estraordinario alli arciduchi, noi <lb/>
+si promettevamo tanto sicuramente del rispetto, et affettione vostra verso la nostra <lb/>
+persona, et verso quelli, che ci appartengono, che noi volessimo bene col <lb/>
+mezo delle dette lettere non solamente riconoscer l’obligo nostro verso voi, et la <lb/>
+costanza vostra alla difesa, che voi sostenevate del Paese hereditario del <lb/>
+nostro genero, ma anco promettervi di haver ugual pensiero di voi, et vostri <lb/>
+Stati, pigliando a mano gl’interessi vostri per haverli nella medesima consi-<lb/>
+deratione, et condotta, che quelli del detto vostro genero nel trattato di pace <lb/>
+che di presente siamo per negotiar coll’Imperatore come voi benissimo sapete. <lb/>
+Ma tutto ciò non ostante a che vi sete condotti? Voi havete fatta la vostra <lb/>
+pace coll’Imperatore (che non ve ne volemo biasimare) ancorché molto meglio <lb/>
+havreste fatto, far constar questa buona inclinatione allhora che fuste <lb/>
+nella vostra dieta di Rottemburgh con divertir vostro genero dall’accettar la <lb/>
+corona di Bohemia; ma quello, che noi al presente trovamo molto strano in <lb/>
+questa attione, et di che noi habbiamo soggetto di risentirsi, è primieramente <lb/>
+che senza haver riguardo all’amicitia, della quale havete fatta sempre <lb/>
+professione portar al detto mio genero, voi del tutto l’havete abando-<lb/>
+nato nella maggior estremità de’ suoi affari, et per un articolo espresso <lb/>
+l’havete escluso dal beneficio di quel trattato, che a parte havete con-<lb/>
+cluso, non essendovi contentato di far una tregua (come la potevate fare) <lb/>
+per qualche tempo)<ptr target="#tn17" n="17"/> sin tanto che unitamente et mano a mano voi haveste <lb/>
+potuto far una buona, et sicura pace per tutto ’l corpo et per tutti i <lb/>
+membri della vostra unione; ma l’havete fatta assoluta, et perpetua <lb/>
+per voi soli senza includer lui: disolvendo, et rinontiando di tal manie-<lb/>
+ra a tutte unioni presenti, et future tra di voi senza havere, né ricever <lb/>
+il consenso di lui, che n’era il direttore, et infine lo havete abandonato alla <lb/>
+sua fortuna perché n’esca della maniera, ch’egli potrà. Inoltre voi vi sete
+<pb n="201v" facs="10_201v" rend="0"/>
+condotti in questo con tal ardore, et con un sì violente<ptr target="#tn18" n="18"/> desiderio (come pare) di sbri-<lb/>
+garvi dalla compagnia, c’havevate con lui, et di scuoterne prontamente il vincolo <lb/>
+che mettendo in oblivione tutte le promesse, et sicurezze, che voi ci havevate poco <lb/>
+innanti fatte col mezo di molte lettere vostre; ma vedendo il biasmo, che dal mondo <lb/>
+vi viene dato di tal infrattione tentate<ptr target="#tn19" n="19"/> artificiosamente coprirne il mancamento <lb/>
+et sopra noi ranversarne<ptr target="#tn20" n="20"/> la colpa, che sapremo ben ributtar ove ella deve esser. <lb/>
+Et non haveressimo fatto gran caso del tocco quando da molte parti non fossimo stati <lb/>
+avvertiti dei rumori, che a sommo pregiudicio dell’honor nostro si vanno spargendo, <lb/>
+che noi saressimo stati causa di farvi far questa separatione se bene assai <lb/>
+chiaramente habbiamo veduto, et conosciuto doppo ’l ritorno del cavalier Morton <lb/>
+a che tendevano sin dal principio li vostri disegni. Ma a fine che voi, e <lb/>
+il mondo tutto sappiate, che non siamo Principe di così poco intendimento e hab-<lb/>
+biamo a lasciarci governar da artificii, sappiamo benissimo che doppo haver voi <lb/>
+ricevuto il denaro, che v’inviassimo per il detto Morton<ptr target="#tn21" n="21"/>, ch’era per mantenervi <lb/>
+et far c’haveste sussistenza sin tanto, che havessimo potuto meglio proveder <lb/>
+alli affari di nostro genero, et ai vostri colli mezi, che si erano proposti, de’ <lb/>
+quali noi vi facessimo informare col mezo del detto Morton, quando<ptr target="#tn22" n="22"/> non ostante <lb/>
+faceste sembiante colle lettere, et memorie, che c’inviaste al suo ritorno di <lb/>
+trovarlo buonissimo, et ce ne faceste ringratiamenti grandi, come di cosa sopra la quale <lb/>
+voi vi volevate riposare: tuttavia havendo voi fin d’allhora risoluto, come <lb/>
+al presente si comprende manifestamente di far gl’affari vostri d’altra maniera senza <lb/>
+di noi, et senza nostro genero ci proponeste in un medesimo tempo conditioni vane, et <lb/>
+impossibili, di far che li signori Stati Generali, come per forma d’anticipatione <lb/>
+inviassero nel Palatinato cinque milla fanti, et mille cavalli con ogni sorte <lb/>
+di provisione da guerra, et questo nello spatio d’un mese, che doveva cominciar <lb/>
+alli 19 febraro, ch’era la data della vostra memoria, et di più, che noi <lb/>
+vi provedessimo cento milla scudi per mese da cominciar similmente dal detto mese <lb/>
+di febraro, et così di mese in mese per le spese della difesa la quale con<ptr target="#tn23" n="23"/>
+<pb n="202r" facs="10_202r" rend="0"/>
+tali conditioni voi promettevate continuar nel Palatinato; ma dichiaraste, <lb/>
+che senza questo non la potevate mantener più lungamente. Qual giudicio pen-<lb/>
+sate voi, che genti savie, et libere da passione potranno far d’una tal instanza? <lb/>
+Se voi havevate qualche sicura speranza di ottenner quello, che dimandavate, <lb/>
+come in doi, o tre parti della vostra memoria volevate inferire, et far creder <lb/>
+al mondo, perché havete voi tanto solecitato di fare, et concluder sì precipi-<lb/>
+tosamente un trattato a Wineham con il landegrave Lodovico di Darmstat <lb/>
+prima della fine del mese senza pigliar sopra ciò né il nostro parere, né quello <lb/>
+del nostro genero?<ptr target="#tn24" n="24"/> Et se voi non havevate questa speranza, et non potevate pro-<lb/>
+mettervi l’effetto di tal propositione allhora, che la faceste (come veramente <lb/>
+non vi è huomo d’intendimento, che si possi persuadere, che voi poteste aspettare <lb/>
+stante l’impossibilità palpabile, et manifesta di accomplirne le conditioni, <lb/>
+tanto rispetto alla brevità del tempo limitato, che a gran pena poteva bastare <lb/>
+per andar, et rivenire da voi a noi, molto meno darci tempo di trattar colli <lb/>
+signori Stati per il fornire, et inviar le forze sudette nel Palatinato, et di mandarvi sì pron-<lb/>
+tamente una tal summa di denaro; quanto per il mal tempo, che in quella stagione <lb/>
+dell’anno faceva, et per molti altri impedimenti) perché sendo così havete voi volu-<lb/>
+to burlarvi di noi facendoci una tal instanza, che non era possibile ad huomo <lb/>
+vivente il sodisfarla? Trattanto credendo voi esservi così ben scaricati, et <lb/>
+gettato sopra noi la colpa di quello, che proponevate, et havevate già riso-<lb/>
+luto far da voi medesimi. Et per dar tutto il color, che potevate (ancorché <lb/>
+frivole) all’indecenza di quest’atto voi ci portate per obiettione nella vostra <lb/>
+lettera dei 3 aprile una ragione, che vi haverebbe mossi a concluder il <lb/>
+trattato di tregua (così voi lo chiamate) c’havete fatto a Magonza, et segnato <lb/>
+alli 2 del mese d’aprile, cioè che havevate compreso<ptr target="#tn25" n="25"/> da una lettera <lb/>
+che vi era stata resa per parte nostra nel medesimo giorno, o il precedente per <lb/>
+il signor Trombol agente nostro, che noi<ptr target="#tn26" n="26"/> inclinavamo al procurar una tregua, o <lb/>
+suspension d’armi col mezo dell’Arciduca et del marchese Spinola, che veramente
+<pb n="202v" facs="10_202v" rend="0"/>
+fu occasione ben presto abbracciata per farvi risolver sì prontamente ad un affare di tal <lb/>
+peso, et importanza. Ma noi lasciamo il giudicio di ciò a tutti quelli, che in-<lb/>
+tendono, né credemo, che getteranno mai alcuna macchia sopra l’honor nostro pur-<lb/>
+ché restino bene, et convenientemente informati del proceder nostro. Hora <lb/>
+havendovi fatto apparere, che noi assai chiaro comprendemo l’attioni altrui, et in <lb/>
+che elle possono toccar le nostre, et che non si può così facilmente anuvolarci la <lb/>
+vista sia in fatto di cortesia, o d’iniuria, non<ptr target="#tn27" n="27"/> habbiamo a ricercarvi d’altro <lb/>
+se non<ptr target="#tn28" n="28"/> che<ptr target="#tn29" n="29"/> havendo<ptr target="#tn30" n="30"/> tanto disobligato et noi, et il genero nostro, abandonando <lb/>
+come havete fatto nello stato, ov’egli si trova,<ptr target="#tn31" n="31"/> ci vogliate far questa giustitia <lb/>
+di purgar l’honor nostro col mezo di vostre lettere scritte a noi, et per altre, <lb/>
+che pigliarete la fatica di scriver al medesimo fine al detto nostro genero, dalla <lb/>
+imputatione di questo cattivo biasimo; il che facendo noi resteremo. </p>
+<p>Signori miei cugini </p>
+<p>Nel nostro palazzo di Genuich a’ 2 di maggio <lb/>
+1621 </p>
+<p>Alli signori miei cugini li principi <lb/>
+dell’Unione di Alemagna </p>
+<p>Vostro affettionatissimo cugino </p>
+<p>J. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "bene" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "l-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "v-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-io" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "facendogli" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "H-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "resti" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "com-" corrected above "fin."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Close parenthesis, the open parenthesis is missing.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "M-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "tali" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "compreso" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-oi" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-on" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "che perché" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Added above the line; precedes "poi-" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-do" is the result of a correction.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "ch" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

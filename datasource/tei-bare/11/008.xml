@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.008 date 1622-04-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 47r-52v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Interessante zin in deze brief: ’Mi mando anco il medisimo signor ambasciatore una bergamina aperta che con il suo piego ben stracciato et ha trattato ha trovata diretta a me senza il cibo di publici avisi. (bergamina = mucca da latte della Bassa lombarda, bergamina aperta; eventueel een open weiland?) pakket letters is ragged, in tatters, missing are the news-sheets referred to as food.
+            </note>
+            <biblScope unit="page">43r-46v, 47r-52v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that letter from Venice late February had erroneously travelled to London instead of The Hague and have only arrived now. Especially the letter from 18 February with information on proposal in Rome to create a league against heretics will be of use. Further letters have arrived, and as instructed, he has spoken with Frederick, Carleton about the actions in Valtelline. Frederick is preparing to leave to Germany but due to contrary winds has not yet left. In his study, Carleton showed the route of his voyage on a map to Suriano and hinted that he may travel to England incognito to meet with the king but asked Suriano to keep it a secret. A representative of Solms and Milander have dinned at Suriano’s house to request need for money for count of Solms. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-04-04">4 aprile 1622</date>
+            <num>013, 014</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="013" corresp="014" source="43r-46v" >
+<div type="main" facs="main text of attachment I" n="013" corresp="014" >
+<!--<p>Allegato I al n. 14 (cc. 43r-46v; decodifica di cc. 47v-50v)</p>-->
+<pb n="043r" facs="11_043r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="043v" facs="11_043v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="044r" facs="11_044r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="044v" facs="11_044v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="045r" facs="11_045r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="045v" facs="11_045v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="046r" facs="11_046r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046v" facs="11_046v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="014">
+<div type="main" facs="main text of letter" n="014">
+<!--<p>4 aprile 1622, L’Aia (cc. 47r-52v)</p>-->
+<pb n="047r" facs="11_047r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 381<ptr target="#tn1" n="1"/> fin 382 </p>
+<p>Serenissimo Principe </p>
+<p>la passata settimana mi pervenne di Londra mandatomi dall’eccellentissimo <lb/>
+signor ambasciator Lando il mio dispaccio, che partì a’ 25 febraro di <lb/>
+Venetia, et per error della soprascritta era andato alle mani <lb/>
+di quell’eccellentissimo signore. Nel pacchetto ho trovata una lettera di <lb/>
+vostra Serenità de’ 18 del medesimo mese, che serviva a maggior mia <lb/>
+informatione intorno il negotio di lega promosso in Roma <lb/>
+contra heretici, della quale mi valerò all’occasioni. <lb/>
+Mi manda anco il medesimo signor Ambasciatore una bergamina aperta <lb/>
+che con il suo piego ben stracciato, et mal trattato ha <lb/>
+trovata diretta a me senza il cibo de’ publici avvisi <lb/>
+scritta pur a’ 18 febraro. Appare che cominciasse <lb/>
+se bene etc. con nota sotto, che vi era anco il duppli-<lb/>
+cato de’ x dello stesso mese. Queste sono le lettere <lb/>
+di quel dispaccio, che con precedenti<ptr target="#tn2" n="2"/> mie scrissi rive-<lb/>
+rentemente esser stato mal trattato nel svaleggio del corriero <lb/>
+di Alemagna. Così mi avvisa anco esso eccellentissimo signor Lando <lb/>
+esser successo del suo. Aspetterò (se così vostra Serenità troverà <lb/>
+buono) di haverne il<ptr target="#tn3" n="3"/> dupplicato. </p>
+<p>Sabbato a notte poi ricevei con le particolari de’ xi marzo tre <lb/>
+mani di lettere di vostra Serenità una dei 5 et doi delli x <lb/>
+del medesimo mese. Quella è concernente il negotio della <lb/>
+stradda contentiosa della quale mi valerò (sendomene <lb/>
+discorso) per informatione. Dell’altre doi una è intorno
+<pb n="047v" facs="11_047v" rend="0"/>
+il negotio della Valtelina, et l’altra mi porta <hi rend="decoded">la</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">risposta da darsi a questo Re all’ambasciator d’<lb/>
+Inghilterra, et al prencipe d’Oranges: colli <lb/>
+doi primi feci l’ufficio hieri a sera con quella <lb/>
+forma di parole, et di concetti, che vidi espressi <lb/>
+nell’espositione del signor cavalier Uton, et nella risposta <lb/>
+datali da quell’eccellentissimo Senato. Mi disse il <lb/>
+Re che ringratiava vostra Serenità del buon animo, che <lb/>
+dimostrava verso di lui, et che è stato sempre <lb/>
+sicuro della sua affettione et confessava, che <lb/>
+molto li havevano profittato le preparationi <lb/>
+et operationi della serenissima Republica, principalmente <lb/>
+la condotta</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">a’ suoi servitii del conte di <lb/>
+Mansfelt con fine, che altro Principe non lo <lb/>
+levasse, et lasciando che continuasse l’opera <lb/>
+incominciata a proffitto de’ suoi interessi <lb/>
+in Palatinato, verso del quale, disse poi tutto <lb/>
+quel di più, che avesse fatto lo haverebbe <lb/>
+aggradito come fatto alla persona sua propria. <lb/>
+In oltre laudò li concetti di vostra Serenità intorno lo <lb/>
+affare della Valtelina,</hi>
+<pb n="048r" facs="11_048r" rend="0"/>
+<hi rend="decoded">et doppo aggionse <lb/>
+io tengo per certo che la serenissima Republica proffitterebbe più <lb/>
+a sé stessa, et alla sicurezza delle cose sue assis-<lb/>
+tendomi con 100 mila fiorini, non espresse se né per mese, <lb/>
+o altrimenti, che con le armi che ha in piedi, et che <lb/>
+può esser sarà necessitata dalla finezza et dalla <lb/>
+avidità de’ Spagnuoli ad accrescer con maggior svantaggio <lb/>
+et spesa, forse senza proffitto nel suo Stato, et <lb/>
+concluse che havendo intesa la sua buona volontà <lb/>
+si prometterà sempre di essa, et di nuovo mi pregò <lb/>
+ringratiarne la Serenità vostra et non ostante che io <lb/>
+havessi espresso tanto chiaro, che bastasse l’inten-<lb/>
+tione di lei il Re volse aggiongermi mentre volevo <lb/>
+partire, che quello che vostra Serenità stimasse bene non far <lb/>
+scopertamente potendo farlo sotto mano. <lb/>
+</hi></p>
+<p><hi rend="decoded">Et l’ambasciator d’Inghilterra ringratiandola anch’egli <lb/>
+con termine riverente della risposta che gli faceva <lb/>
+dare, et mostrando stimar assai quanto da vostra Serenità <lb/>
+era stato risposto al signor ambascisator Uton</hi>
+<pb n="048v" facs="11_048v" rend="0"/>
+<hi rend="decoded">disse che <lb/>
+poteva esser che la propositione di detto Ambasciatore <lb/>
+fosse stato un preparativo assai buono alla <lb/>
+instanza, che questo Re con sue proprie lettere <lb/>
+già ispedite faceva. Io all’uno, et all’altro <lb/>
+ripigliando delle cose dette, non feci che confirmar <lb/>
+la buona volontà di lei, procurando di divertir <lb/>
+nuove instanze in conformità dell’espresso com-<lb/>
+mandamento della Serenità vostra il che può esser che <lb/>
+seguirà con l’aviso del signor ambasciator Uton, non ostante <lb/>
+le lettere forse a quest’hora arrivate a Venetia <lb/>
+scritte dal Re, et dal principe Mauritio a vostra Serenità. <lb/>
+</hi></p>
+<p><hi rend="decoded">Entrò poi detto Ambasciator a laudar il generoso pensiero <lb/>
+di lei in proposito della Valtellina, ma mostrò <lb/>
+di dubbitar della Franza, et che non così facil-<lb/>
+mente le cose del Regno fossero per accommodarsi. <lb/>
+</hi></p>
+<p>Non ho havuto tempo di trovarmi col signor principe Mauritio, <lb/>
+ma non mancarò del farlo; come anco di veder il signor ambasciator <lb/>
+di Francia dandogli parte dell’affar di Valtelina, nel <lb/>
+quale<ptr target="#tn6" n="6"/> ho saputo certo, ch’esso Ambasciatore sin qui non
+<pb n="049r" facs="11_049r" rend="0"/>
+ha nell’assemblea dei Stati Generali proposta alcuna cosa; <lb/>
+onde anc’io mi trattenirò osservando solo di farne communicatione <lb/>
+con qualcheduno di essa assemblea. </p>
+<p><hi rend="decoded">Il</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">Re palatino sin da principio della passata setti-<lb/>
+mana ispedì li suoi cavalli, et bagaglio verso <lb/>
+Alemagna, et egli questa mattina avanti il <lb/>
+far del giorno. Mi ha detto il signor Ambasciator inglese <lb/>
+è andato alla Brilla ad imbarcarsi, ma sendo <lb/>
+il vento contrario credeva certo che dovesse <lb/>
+tornar all’Haya questa sera; et sendo nel <lb/>
+suo gabinetto mi mostrò sopra una carta il <lb/>
+viaggio, che pensava di prendere o di Amburgh <lb/>
+o di Bren, et con la solita sua confidenza ag-<lb/>
+gionse; forse andarà prima qua, motrandomi l’<lb/>
+isola d’Inghilterra per trovarsi con il Re sconosciu-<lb/>
+to, et mi disse, che tutto ciò mi communicava <lb/>
+in confidenza, et mi pregava di tenerlo in <lb/>
+me, facendo poi scusa meco a nome del Re <lb/>
+se non si era licentiato, perché non</hi>
+<pb n="049v" facs="11_049v" rend="0"/>
+<hi rend="decoded">haveva manco <lb/>
+detta alcuna cosa al prencipe Henrico, alla <lb/>
+contessa di Nassau, né ad altri congionti, eccetto <lb/>
+al signor principe di Oranghes, et della sua casa <lb/>
+oltre la Regina il solo maggiordomo conte di <lb/>
+Sols, et 4 che sono andati con lui, ma repplicò <lb/>
+che credeva che questa sera sarebbe rispetto <lb/>
+al vento stato di ritorno: io ringratiai l’<lb/>
+Ambasciatore, et dissi che alla Maestà sua desideravo, et <lb/>
+auguravo felicissimo viaggio. <lb/>
+Mi disse poi l’Ambasciatore che haveva tanto denaro seco <lb/>
+che si haverebbe potuto condur presso il duca di <lb/>
+Bransvich, et altro ne haverebbe trovato in Palatinato, <lb/>
+ma per il bisogno del conte di Mansfelt si strinse <lb/>
+nelle spalle et disse solo non so quello sarà. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il gentilhuomo di esso Conte solecita, et prega quanto <lb/>
+più può questi signori affine che gli assistino, mostran-<lb/>
+do di dubbitar di qualche inconveniente, quando <lb/>
+veda di non potersi prometter manco di questa parte: fu hieri</hi>
+<pb n="050r" facs="11_050r" rend="0"/>
+<hi rend="decoded">a desinar meco con il collonello <lb/>
+Milander, et qualch’altro, et mi espresse con molta passione la necessità, che haveva il conte di denari, <lb/>
+et perché è corsa qui voce che il Christianissimo procurasse di <lb/>
+haverlo in suo servitio, gli adimandai se questo <lb/>
+era vero, mi rispose, che così era, et che sì come <lb/>
+dal canto de re di Franza si tentava di haverlo <lb/>
+affine di divertir il fomento, et aiuto che potesse <lb/>
+prestar agl’ugonoti, così dalla parte del Conte <lb/>
+il fine sarebbe stato d’intraprender la carica <lb/>
+per doi rispetti o di procurar che sua Maestà si servisse <lb/>
+delle sue armi, et degl’ugonoti per travagliar il re <lb/>
+di Spagna nella Borgogna, overo nella Navara <lb/>
+per l’antica pretensione che nelle doi ha la <lb/>
+corona di Franza, et mi assicurò che ancorchè <lb/>
+corresse voce di trattato con l’Infanta, come <lb/>
+me ne ha scritto qualche cosa il Pasini, che <lb/>
+questo non era, che per dar parole, et far proffitto <lb/>
+et dal tempo, et coll’inganno: nel discorso poi <lb/>
+mi disse, che tentava d’haver dalli signori Stati <lb/>
+</hi>
+<pb n="050v" facs="11_050v" rend="0"/>
+<hi rend="decoded">principalmente assignatione di 50 mila fiorini per mese <lb/>
+ma che haverebbe ben voluto haverne altri 50 mila <lb/>
+mensuali, et perciò pensava di voler tentare <lb/>
+che le Eccellenze vostre si contentassero di assegnar <lb/>
+al Conte quelli che la serenissima Republica dava in <lb/>
+virtù dell’aleanza; che vedeva bene di dover <lb/>
+incontrar difficoltà, ma che</hi> non haverebbe lasciato di <lb/>
+tentare, et far ogni sforzo possibile. </p>
+<p>Quello che di più ha ottenuto, doppo li 150 mila fiorini fin del mese <lb/>
+di febraro esborsati è stata<ptr target="#tn8" n="8"/> un’assignatione di altri 50 mila <lb/>
+fiorini per dar a buon conto delli<ptr target="#tn9" n="9"/> novantamilla tolti <lb/>
+per il conte di Mansfelt a credito da<ptr target="#tn10" n="10"/> quel mercante di <lb/>
+Strasburgh; ma ancor non ha ricevuto, che la polizza. </p>
+<p>Doppo, che si hebbe avviso, che ’l giovane duca di Bransvich <lb/>
+era passato all’acquisto di quella picciola terra avvisata <lb/>
+nelle precedenti mie non s’è inteso altro se non una <lb/>
+voce, che habbi rotti altri 400 fanti, et ch’egli sia stato <lb/>
+ferito di leggiero colpo in un brazzo. <lb/>
+Quello che se gli <lb/>
+predica da’ suoi più cari è di guardarsi dall’esponersi <lb/>
+temerariamente ai pericoli. Si fa conto, ch’egli sia <lb/>
+al presente quasi del tutto ad ordine. In tanto parmi <lb/>
+haver inteso, che sia stato ispedito commissario verso quelle <lb/>
+piazze che tiene<ptr target="#tn11" n="11"/> per fortificarle, et oltre le tre Lipstat </p>
+<pb n="051r" facs="11_051r" rend="0"/>
+<p>Paterborn et Zusten doi altre Ham, et Linon<ptr target="#tn12" n="12"/>. Di più che <lb/>
+anco<ptr target="#tn13" n="13"/> sia stato spedito verso Brem per far levata <lb/>
+di qualche numero d’infanteria per metterla di presidio nelle <lb/>
+dette piazze al partir del signor duca di Bransvich perché <lb/>
+li signori Stati disegnano mantenersele ad ogni potere stiman-<lb/>
+dole assai per il sito in che sono, che dano a pensar all’ini-<lb/>
+mico. Pensando anco guarnirle di buone provisioni <lb/>
+et non lasciarsele cader di mano, come è successo di Giuliers <lb/>
+che non per mancamento di volontà; ma d’impotenza di darli <lb/>
+soccorso et per la distanza del luoco, et per altri rispetti, che <lb/>
+ha tenute l’armi di sua Eccellenza et delli signori Stati per esser <lb/>
+lontane, et in posto disavantaggioso dall’inviarle a <lb/>
+quella parte; né poteva farsi che<ptr target="#tn14" n="14"/> con un sforzo di <lb/>
+dodici, o quindeci milla fanti, et cavallaria a pro-<lb/>
+portione. </p>
+<p>L’ambasciator dell’Imperatore è arrivato a Brusseles; ma ancor non <lb/>
+s’è inteso quello habbi proposto, non portando l’ultime <lb/>
+lettere venute di là, che ancor havesse havuta audienza <lb/>
+dalla serenissima Infanta. Gratie etc. </p>
+<p>Dall’Haya li 4 aprile 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="051v" facs="11_051v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="052r" facs="11_052r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="052v" facs="11_052v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 381 fin 382<ptr target="#tn15" n="15"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="014">
+<!--
+<p n="052vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 april 1622 ricevute 21 detto </p>
+<p>Haya. n° 381 </p>
+<p>Prima </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-1" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e"; followed by "-m(en)te" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "i-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "la … fossero per accomodarsi" decoding of the encrypted text can be found on cc. 43r-44r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "affare" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Il … difficoltà, ma che" decoding of the encrypted text can be found on cc. 44r-45v; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "90" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Lünen?"</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes "anco" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Seal and traces of seals in red wax."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.077 date 1620-12-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">077</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 384r-387v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp499-507
+            </note>
+            <biblScope unit="page">384r-387v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Dardani has been working to finalise the accounts of North Holland, he is encountering some difficulties and will continue his work after christmas. Henry has still not arrived, probably due to the heavy snowfall. Number of infantry and cavalry will be increased in Dutch Republic, but French ones will remain at 100. Embassies to Egnland and France will not leave before mid-January; Maurice has received letter from Frederick V confirming his defeat. emperor will travel to munich for a diet to which duke of saxony is invited and construction of fortress in Udenheim by bishop of Speyer. In Dutch republic awaiting news from England. concludes that he has learned from letters of Langerack that Louis XIII has decided to send an extraordinary ambassador to Spain re: the Valtelina </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-22">22 dicembre 1620</date>
+            <num>119</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="119">
+<div type="main" facs="main text of letter" n="119">
+<!--<p>22 dicembre 1620, L’Aia (cc. 384r-387v)</p>-->
+<pb n="384r" facs="09_384r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 258 comincia 257 </p>
+<p>Serenissimo Principe </p>
+<p>colli signori dell’amiralità di Northolandia si è terminato il conto <lb/>
+dei stipendii, et dei viveri de’ marinari delle loro quattro navi, <lb/>
+non essendosi dal signor Dardani pretermessa diligenza, et accura-<lb/>
+tezza per far essattamente il servitio; sendosi incontrate delle <lb/>
+difficoltà che si sono andate superando in ogni miglior ma-<lb/>
+niera. Resta hora far il conto del ricevuto, et dello speso <lb/>
+in munitioni, et altri apprestamenti, et di quello, ch’è stato <lb/>
+riportato, il che si farà doppo le feste del santissimo Natale, <lb/>
+havendo detti signori presa licenza di conferirsi alle case loro. <lb/>
+Spedito questo Collegio, si attenderà agl’altri dua <lb/>
+con quella maggior celerità che si potrà per la speditione <lb/>
+procurando di superar le differenze, et difficoltà, che <lb/>
+si anderà incontrando, et credo che sia mente della Serenità vostra <lb/>
+che si miri ben essatamente al servitio publico; ma non <lb/>
+si guardi tanto alla sotile certe cose, mentre questi <lb/>
+vasselli sono stati noleggiati, armati, et ispediti <lb/>
+secondo l’uso del Paese, che per ordinario è solito dar <lb/>
+sodisfattione alli capitani. Et chi sa vostra Serenità potrebbe <lb/>
+ancor haver bisogno (che Dio lo tenghi lontano) delli <lb/>
+medesimi magistrati, dei marinari, et delli stessi partio-<lb/>
+nevoli. S’aspetterà quei conti, et quelle informationi <lb/>
+che da me con precedenti lettere sono stati ricercati <lb/>
+et particolarmente toccante le piazze vacanti de’ officiali <lb/>
+proviste in altri, et quello, che habbino havuto le navi
+<pb n="384v" facs="09_384v" rend="0"/>
+dai magazini della Serenità vostra per poterle ribatter dai noleggi <lb/>
+ai partionevoli. </p>
+<p>Si credeva, che fin hieri, o hoggi dovesse esser qui il signor principe <lb/>
+Henrico; ma ancor non si ha nuova certa, che sia arrivato <lb/>
+alle frontiere colla cavallaria. Fa il viaggio per il Paese <lb/>
+del lantgravio d’Hassia per toccar quanto meno può di <lb/>
+quello di Colonia, et sarà per breve spatio di camino in <lb/>
+quello di Munster, et Paterborn. La dilatione si tiene nascer <lb/>
+dall’impedimento delle nevi, che sono state assai grande <lb/>
+in questi paesi. </p>
+<p>Resta affatto stabilita, et fermamente presa la deliberatione di <lb/>
+augumentar le compagnie tanto d’infanteria, che di <lb/>
+cavallaria dalli settanta ai cento fanti, et dalli 200 <lb/>
+a 250; et così anco s’augumenterà la cavallaria <lb/>
+fino ai cento cavalli per compagnia. Questo augumento <lb/>
+non si darà alle compagnie francesi sendo di cento fanti <lb/>
+l’una; et si vuol lasciar scoprire dalli ambasciatori destinati <lb/>
+per quella corte, se vorrà sua Maestà christianissima intratenerle <lb/>
+ancora, o pur lasciarà che li Stati continuino a pa-<lb/>
+garle come fanno al presente, non parendo bene né per <lb/>
+sicurezza, né per riputatione, et meno per non mostrar <lb/>
+sprezzo di riformarle. </p>
+<p>Alla metà del mese che viene, et non prima si crede che <lb/>
+partiranno gl’ambasciatori dell’elettione de’ quali
+<pb n="385r" facs="09_385r" rend="0"/>
+et della loro missione fin sabbato fu risoluto di darne <lb/>
+parte a monsignor Maurier ambasciator francese; come anco dell’<lb/>
+ambasciata per Inghilterra a monsignor Carleton; ma fin hoggi né all’<lb/>
+uno né all’altro è stata fatta questa communicatione. </p>
+<p>Monsignor di Langarach scrive di Parigi, che quella Maestà <lb/>
+doverà conferirsi a Cales, che di là haverebbe spedito <lb/>
+al re della Gran Bertagna Cadenet fratello del duca <lb/>
+di Luines, né dicendo perché, questi signori sono entrati <lb/>
+in sospetto, et sua Eccellenza che me lo disse, che fosse per far <lb/>
+qualche ufficio pregiudiciale agl’interessi del re di <lb/>
+Bohemia. Di questa andata, et di questa missione <lb/>
+vostra Serenità dal luoco proprio haverà più facilmente la vera <lb/>
+causa. </p>
+<p>Il signor principe Mauritio è stato tutti questi giorni passati mal <lb/>
+contento di non haver nuova del re di Bohemia. <lb/>
+Hieri sera hebbe lettere di lui, nelle quali sobriamente se la <lb/>
+passa nel racconto della disgratia successagli, et mostra <lb/>
+cuore fomentato come par, che si scuopri dalle buone <lb/>
+speranze, che Moravi, et quelli di<ptr target="#tn1" n="1"/> Slesia gli dano <lb/>
+di secondarlo, et aiutarlo con un gran corpo di <lb/>
+essercito. </p>
+<p>Viene scritto, che l’Imperatore doverà passar a Salzpurgh, et di <lb/>
+là a Monaco in Baviera, ove doveva convocarsi una <lb/>
+Dieta alla quale era stato chiamato il duca di Sassonia
+<pb n="385v" facs="09_385v" rend="0"/>
+con altri principi di Alemagna. </p>
+<p>Il detto duca di Sassonio<ptr target="#tn2" n="2"/> dice di voler haver agiuntate alle <lb/>
+altre armi, ch’egli tiene in piedi altri sei milla fanti, et <lb/>
+doi milla cavalli a primo tempo, et tutto per servitio dell’<lb/>
+Imperatore; et corre la voce, che si pensi sempre più d’Austriaci alle preparationi per la guerra. </p>
+<p>Anco li principi dell’Unione si vanno armando così viene <lb/>
+scritto, et par che l’animo non gli manchi; tuttavia <lb/>
+dalle cose passate si forma poco buon giudicio dell’<lb/>
+evento nel resto. </p>
+<p>Lasciano che ’l vescovo di Spira, senza fargli ostacolo,<ptr target="#tn3" n="3"/> fabrichi <lb/>
+di nuovo la piazza d’Oedeneim, che già fu smantellata <lb/>
+tre<ptr target="#tn4" n="4"/>, o quattr’anni fa dal re di Boehmia allhora <lb/>
+principe Palatino. L’ha messa già in stato di defesa, vi <lb/>
+ha da ottocento huomini alla custodia, et vi è chi afferma <lb/>
+che ’l marchese Spinola ne soministri qualche portione. <lb/>
+Li principi dell’Unione s’iscusano se non gli fano <lb/>
+impedimento<ptr target="#tn5" n="5"/> non volendo<ptr target="#tn6" n="6"/> dar a Baviera occasione <lb/>
+sendo occupati da quella parte di far qualche <lb/>
+intrapresa su l’Alto Palatinato. </p>
+<p>Ancor s’aspettano con curiosità le nuove d’Inghilterra; ma si teme <lb/>
+che habbino ad esser le medesime d’altre volte irresolute<ptr target="#tn7" n="7"/> <lb/>
+et di niun frutto al servitio del re di Bohemia. </p>
+<p>Qui si tratta oltre l’augumento delle militie, di metter<ptr target="#tn8" n="8"/> una
+<pb n="386r" facs="09_386r" rend="0"/>
+impositione capitale a’ fine di haver commodità maggiore <lb/>
+di provedersi per sé stessi, o altrimenti di assister agl’amici. </p>
+<p>Dimani l’assemblea di Holanda si<ptr target="#tn9" n="9"/> disunirà per revenir alli 6 <lb/>
+del mese venturo, riserbando a quel tempo nella conti-<lb/>
+nuatione appresso di detta assemblea di terminar la difficoltà <lb/>
+per il negotio dell’Indie Occidentali. La volontà del guadagno <lb/>
+fa in apparenza tirar questo negotio in longo, ma in <lb/>
+essenza camina la risolutione a lenti passi per arrivar pian <lb/>
+piano sino al tempo dello spirar delle tregue per poter <lb/>
+allhora far la risolutione da dovero<ptr target="#tn10" n="10"/> se si romperà<ptr target="#tn11" n="11"/> la tregua <lb/>
+della quale ciò che n’habbi ad esser non si può facilmente <lb/>
+penetrare non lasciandosi intender né di qua, né di là, <lb/>
+ma la maggior parte tiene per fermo, che da questi<ptr target="#tn12" n="12"/> <lb/>
+ella grandemente si brami per molti rispetti. </p>
+<p>Non lascierò di riverentemente significar alla Serenità vostra quello ho <lb/>
+inteso haver scritto monsignor di Langarach, et è che havendo <lb/>
+sua Maestà christianissima deliberata la missione d’Ambasciator straordinario in <lb/>
+Spagna per il negotio della Valtelina doppo l’espositione <lb/>
+dell’eccellentissimo signor ambasciator Priuli, qualcheduno dei consiglieri di sua Maestà <lb/>
+havevan detto ad esso Langarach, che la serenissima Republica <lb/>
+era d’intentione di interessar il Re<ptr target="#tn13" n="13"/>, et impegnarlo in <lb/>
+quella fastidiosa materia per star ella a mirare, et <lb/>
+sollevarsi dal travaglio: concetto sopra ’l quale la<ptr target="#tn14" n="14"/> fatto <lb/>
+reflesso il signor principe Mauritio, considerando che di poco
+<pb n="386v" facs="09_386v" rend="0"/>
+buon piedi marchiavano quei consiglieri in questo negotio, <lb/>
+et disse, che vi volevano altro, che ambasciate dal Christianissimo <lb/>
+ma effetti proprii; et però<ptr target="#tn15" n="15"/> dubitava, che qui sotto vi fosse <lb/>
+qualche machinatione pregiudiciale al servitio de’ Grisoni <lb/>
+et di quella parte. </p>
+<p>Le mie lettere segnate n° 256<ptr target="#tn16" n="16"/> sono qui aggiunte in replica <lb/>
+et le spedii hoggi otto per Anversa. Gratie etc. </p>
+<p>Dall’Haya li 22 decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="387r" facs="09_387r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="387v" facs="09_387v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 258 comincia 257 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="119">
+<!--
+<p n="387vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 decembre 1620 ricevute a’ 14 gennaro </p>
+<p>Del segretario Suriano. n° 258 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "Sl" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Corrected above "doi."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "col" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "vole."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "r-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-i" corrected above -"a"; followed by "parte" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "et però" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-2" corrected above "-1."</p></note>
+</div>
+</body>
+</text>
+</TEI>

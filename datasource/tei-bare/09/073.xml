@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.073 date 1620-12-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">073</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 364r-v, 367r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">364r-v, 367r-v, 365r-366v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports about Dardani’s work on the accounts and his consultations with the admiralties. Members of States General have visited him to request to satisfy the shareholders and captains, imploring him to have compassion, and that there might be a trial for admiralty of Amsterdam. One document attached: "Informatione che si desidera per le navi toccanti robbe date a portionevoli et per altro"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-08">8 dicembre 1620</date>
+            <num>112, 113</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="112">
+<div type="main" facs="main text of letter" n="112">
+<!--<p>8 dicembre 1620, L’Aia (cc. 364r-v, 367r-v)</p>-->
+<pb n="364r" facs="09_364r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 254 fin 255 </p>
+<p>Serenissimo Principe </p>
+<p>vengono aggiunte alle presenti le replicate d’hoggi otto n° 252 fin <lb/>
+253. Colle prime inviai l’estratto fatto dal signor Dardani de’ conti <lb/>
+del mio maneggio; et voglio sperar, che non falliranno a pervenir <lb/>
+alla Serenità vostra, che quando se ne fosse dubitato si haverebbe <lb/>
+fatta nuova copia; ma sarebbe stato un rubbar il tempo <lb/>
+al resto dell’opera, che ’l signor Dardani ha per mano, nella quale <lb/>
+continua con studio, et ogni diligenza maggiore. Siamo hora <lb/>
+colli signori dell’amiralità di Northolandia, et a testa per testa <lb/>
+si va facendo il conto sopra li roli venuti di armata, et <lb/>
+portati in copia da lui. S’incontrano delle difficoltà, <lb/>
+che si vanno superando nella miglior maniera; una in <lb/>
+particolare ve n’è alla quale par che ’l signor Dardani con quelli <lb/>
+signori mostri renitenza, et è dell’haver a far buono qualche <lb/>
+soldo a’ marinari, che doppo la morte, o fuga, o licen-<lb/>
+tiamento di qualche officiali sono stati posti, et hanno <lb/>
+servito in loro piazza, la quale non poteva esser senza <lb/>
+detti officiali come patroni, penesi, piloti, provosti, et <lb/>
+altri simili necessarii per la buona regola in una nave <lb/>
+et questo per non esserci nota sopra il registro d’armata <lb/>
+questa è cosa per quanto si vede necessaria, et osservata, <lb/>
+di maniera che non credo che l’Eccellenze vostre vi metteranno <lb/>
+dubio alcuno, et tanto meno poiché li signori dell’Amiralità
+<pb n="364v" facs="09_364v" rend="0"/>
+asseriscono haver già pagato a quelli, che hanno in cariche <lb/>
+tali servito. </p>
+<p>Hanno anco pagato alcuni denari a qualche parenti o siano <lb/>
+mogli, o altri de’ marinari fuggiti prima di haver notitia <lb/>
+del tempo della loro fuga, così necessitati dall’importunità <lb/>
+di queste genti, che fu così grande, come tante volte <lb/>
+n’ho riverentemente scritto a vostre Eccellenze che non puoteno scaricarsene <lb/>
+senza darli allhora qualche sodisfattione. Al qual proposito <lb/>
+si haverà ogni maggior risguardo per avantaggiarsi in quello <lb/>
+che sarà possibile. </p>
+<p>Nell’aggiunta scrittura del signor Marco Dardani oltre quanto ho <lb/>
+detto si aggiunge anco qualche altra cosa toccante li patroni <lb/>
+dei vasselli per haver informatione di tutto quello c’havevano <lb/>
+havuto le dodici navi per concieri di esse mentre sono <lb/>
+state per di là a fine di poter debater dalla somma <lb/>
+che ancor se li deve per noleggi. </p>
+<p>Hoggi tanto per li partionevoli, quanto per li capitani delle <lb/>
+navi sono venuti a me dei deputati delli signori Stati <lb/>
+per indurmi a dar sodisfattione alli sudetti con dar <lb/>
+qualche denaro a buon conto (con buona cautione però) <lb/>
+ai capitani dei vasselli, o alle vedove di alcuni capitani <lb/>
+commiserando lo stato loro l’esser alcuni carichi di
+<pb n="367r" facs="09_367r" rend="0"/>
+figlioli, et di famiglia, a’ quali ancora più la necessità, che <lb/>
+l’aspettare, et simil altri concetti m’andarono dicendo; et io <lb/>
+con buone parole rimostrando quello, che si operava, et <lb/>
+che bisognava, che una nave alla volta si espedisce, tor-<lb/>
+narono di nuovo a pregarmi di haver compassione a questi <lb/>
+a sollevar li signori Stati da tanto, et così grave tormento <lb/>
+che hanno ogni giorno da queste genti, et particolarmente al <lb/>
+presente nel colmo delli affati, et mentre convengono esser <lb/>
+impediti in altro. Io soggiongendo quello di più, che mi <lb/>
+parve a proposito mostrarono non desdir totalmente alla <lb/>
+risposta, et alle mie ragioni. Partirono con dirmi che <lb/>
+alli signori stati haverebbono data parte di quanto havevano <lb/>
+tirato da me, et di nuovo mi pregorono a nome di sue Eccellenze <lb/>
+a risolvermi a far qualche cosa; avertendomi, che <lb/>
+gl’interessati protestano, et vogliono far processo all’<lb/>
+amiralità d’Amsterdam, sendo quelli delle cinque navi di <lb/>
+quella repartitione, che fanno la più gran furia. Io dissi a <lb/>
+questa, che mi promettevo, che li signori Stati non haverebbono <lb/>
+lasciato aprir tal addito. Non mi muoverò, che <lb/>
+necessitato, et con ogni maggior sicurezza. Quello è da <lb/>
+considerare meglio dalla prudenza di vostra Serenità che da me è l’occasione <lb/>
+che in altri tempi potrebbono avenire di valersi di queste <lb/>
+genti per il suo servitio. Gratie etc. </p>
+<p>Dall’Haya li 8 decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="367v" facs="09_367v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 254 fin 255 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="112">
+<!--
+<p n="367vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 decembre 1620 ricevute 31 detto n° 254 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="113" corresp="112" source="365r-366v" >
+<div type="main" facs="main text of attachment I" n="113" corresp="112" >
+<!--<p>Allegato I al n. 112 (cc. 365r-366v)</p>-->
+<pb n="365r" facs="09_365r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya del secretario Surian de n° 254 </p>
+<p>Li parcenevoli della nave San Francesco, et Angelo Volante, confessano, che per servitio <lb/>
+di dette nave, siano state recevute, dal magazino di Curzola, in più volte le sottodete <lb/>
+robbe per scontar con li noli. </p>
+<table>
+<row role="label">
+<cell><p>Nave San Francesco </p></cell>
+<cell><p>Tre piccoli coffani di pegola pesorno insieme</p></cell>
+<cell><p>libre 512 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Un piciol tonello di solfere pesò col tonello</p></cell>
+<cell><p>libre 53 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Un piciol tonello di secco pesò.</p></cell>
+<cell><p>libre 25 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Un altro tonello di pegola pesò insieme</p></cell>
+<cell><p>libre 400 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Un tonello, con gudron, over secco di moscone a pesò</p></cell>
+<cell><p>libre 661 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Doi pele, overo ludri di pegola tenera pesorno</p></cell>
+<cell><p>libre 463 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi mezani</p></cell>
+<cell><p>libre 1500 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Detti grandi</p></cell>
+<cell><p>libre 1000 </p></cell>
+</row>
+<row>
+<cell><p>Nave Angelo volante </p></cell>
+<cell><p>Pegola</p></cell>
+<cell><p>libre 1160 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Secco</p></cell>
+<cell><p>libre 398 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Solfere</p></cell>
+<cell><p>libre 40 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Stopazzo</p></cell>
+<cell><p>libre 147 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Chiodi mezani</p></cell>
+<cell><p>libre 2000 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Un tavolo di noce longo piedi 5 1/2 largo piedi 1 e mezzo alto de di 4</p></cell>
+<cell><p>libre 1 </p></cell>
+</row>
+</table>
+<p>Tutte le sudette robbe, come sopra, sono senza prezo, in modo che è necessario il valor di esse <lb/>
+per potersi agiustar con li suddetti parcenevoli. </p>
+<p>Medemamente sarrebbe necessario sapere se le altre navi havessero havuto robbe dal detto maga-<lb/>
+zino, o, d’altri luoghi da mar, come anco se alle sudette navi fossero state date <lb/>
+altre robbe d’avvantaggio, di che, come sopra, confessano, perché dovendosi concluder li <lb/>
+conti, non rimanesse a dietro qualche summa de danaro, per il valsente di che potessero <lb/>
+haver recevuto, a danno di sua Serenità. </p>
+<p>Dal signor Gio. Battista Parma ragionato, nelli conti fatti da lui vien decchiarato che si debba <lb/>
+trattenir, nelle paghe del salario alli officiali, et matelotti delle navi, il soldo per ducato <lb/>
+della cancelleria ducale et ragionati, che qui non è stato osservato nelli pagamenti fatti dalle <lb/>
+Amiralità, le quali in modo altro non intendono far buono cos’altra, non solo per-<lb/>
+chè hanno pagato effettivamente tutto il danaro mensuale, ma anco perché in questo <lb/>
+Paese non si osserva tal usanza, del che mi è parso darne parte a sua Serenità <lb/>
+acciò non mi fusse attribuito a mancamento. </p>
+<p>Nel far al presente li conti con li signori dell’amiralità di Northolandia, che qui sono, trovo che hanno <lb/>
+pagato qualche mesate di provigione ad alcune moglie, et parenti de’ faliti, dicendo loro che al tempo <lb/>
+di detto pagamento non sapevano la fuga di essi, come anco per alcuni carrichi vacati nelle navi, o per <lb/>
+morte, o per fuggita, conferriti in altre persone, essendo che senza detti carrichi, non si poteva <lb/>
+governar il vassello, li quali per non esser descritti nel rolo, mi son resservato a quanto da sua Serenità mi <lb/>
+sarà perciò commesso, benché conosca veramente che sia ragionevole il farglieli buoni; assicurando <lb/>
+sua Serenità che io non mancarò di diligenza per avanzar quel più che sarà possibile per il suo <lb/>
+interresse, et senza apportar materia di desgusto. </p>
+<p>Marco Dardani ragionato </p>
+<pb n="365v" facs="09_365v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="366r" facs="09_366r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="366v" facs="09_366v" rend="270"/>
+<p>Informatione che si desidera <lb/>
+per le navi toccanti robbe<ptr target="#tn1" n="1"/> <lb/>
+date a’ partionevoli et per <lb/>
+altro </p>
+<p>nella prima n° 254 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "r-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

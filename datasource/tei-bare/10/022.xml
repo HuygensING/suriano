@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.022 date 1621-05-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">022</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 104r-106v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">102r-103v, 104r-106v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that people in Silesia are not satisfied with emperor and that a certain Jogherdorf has given them weapons. Mansfelt has 8000 to 1000 troops in upper palatinate who might be able to restore the situation, in cipher he adds that two deputies came to see him to request financial assistance from Venice for Mansfelt. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-10">10 maggio 1621</date>
+            <num>034, 035</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="034" corresp="035" source="102r-103v" >
+<div type="main" facs="main text of attachment I" n="034" corresp="035" >
+<!--<p>Allegato I al n. 35 (cc. 102r-103v; decodifica di cc. 104r-105v)</p>-->
+<pb n="102r" facs="10_102r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="102v" facs="10_102v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="103r" facs="10_103r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="103v" facs="10_103v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>10 maggio 1621, L’Aia (cc. 104r-106v)</p>-->
+<pb n="104r" facs="10_104r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 297 fin 298 </p>
+<p>Serenissimo Principe </p>
+<p>hebbero li signori Stati per via di Alemagna avviso, che li popoli della <lb/>
+Slesia mal contenti di quanto si andava essequendo da Cesare <lb/>
+contra la persona di alcuni principali signori et altri, facendoli sottometter <lb/>
+all’essecutione della giustitia, dicendo non osservarsi dalla Maestà sua <lb/>
+né la parola, né la fede data s’erano lasciati intender non voler <lb/>
+assentir a quello, che per nome loro haveva trattato Sassonia, et <lb/>
+dall’altro canto ritrovandosi presso d’essi il marchese di Jogherdorf <lb/>
+gl’havevano date l’armi in mano; et egli col numero di sei in <lb/>
+sette milla fanti, et buona quantità di cavalleria haveva prese <lb/>
+doi piazze in quella Provincia; che pensava il detto Marchese <lb/>
+unir le sue con le forze di Bethelem Gabor, (che si scriveva <lb/>
+l’accordo di lui esser totalmente rotto con l’Imperatore) per far qualche <lb/>
+miglior effetto. Di più hanno anco havuto la confirmatione <lb/>
+che ’l conte di Mansfelt teneva buono con otto, o dieci milla fanti <lb/>
+nell’Alto Palatinato verso li confini del vescovato di Bamberga. </p>
+<p>Con questi avvisi doi deputati dell’assemblea venero a nome dell’Eccellenze loro <lb/>
+a communicarmene li<ptr target="#tn1" n="1"/> particolari <lb/>
+<hi rend="decoded">et</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">a considerarmi l’importanza di questo negocio, et <lb/>
+come facilmente si potevano rimetter in piedi le cose, et <lb/>
+tirarne profitto per servitio commune, che per ciò altro non mancava <lb/>
+ai detti due cavallieri, che una buona assistenza di denari <lb/>
+che doverebbono concorrere in questo tutti quelli, che per il <lb/>
+ben commune, et per conservatione della libertà dell’Alemagna <lb/>
+et della propria hanno interesse; che a questo doveva <lb/>
+</hi>
+<pb n="104v" facs="10_104v" rend="0"/>
+<hi rend="decoded">mirar la Serenità vostra a fine col mantener quell’armi, et <lb/>
+dar fomento al proseguir nel non lasciar correr alla total <lb/>
+disperatione la perdita della Germania in mano di chi poi <lb/>
+non si vorrebbe. Aggiunsero, queste provintie hanno sin <lb/>
+qui fatto quanto hanno potuto, hanno dati non ha molto 50 mila <lb/>
+fiorini al conte di Mansfelt per mantenersi; penseranno <lb/>
+anco a quello si possi far di vantaggio; ma si vedeva il <lb/>
+grave, et poderoso peso, che havevano sopra le spalle di <lb/>
+convenir al presente trattener più di 60 mila fanti, et 45 <lb/>
+compagnie di cavallaria nel Paese, et le gravi spese per le <lb/>
+navi da guerra, che non essendo sodisfatte sin hora, che dalla <lb/>
+sola propria borsa senza niuna assistenza esterna, <lb/>
+troppo pesava, né sapevano, che poter far più, et pur lo <lb/>
+vorrebono a volontiri potere; et per tanto li signori Stati <lb/>
+havendo riguardo al debito di confidenza, che hanno con la <lb/>
+Serenità vostra, non havevano voluto mancar di sodisfar con <lb/>
+questa communicatione, et sodisfare insieme all’interesse <lb/>
+commune, con farla pregar col mezo mio a pensar di porger <lb/>
+un poco del suo aiuto per incoraggiar non solo quelli, che <lb/>
+si movono con tanto zelo verso il publico bene per la <lb/>
+conversatione del Palatinato,</hi>
+<pb n="105r" facs="10_105r" rend="0"/>
+<hi rend="decoded">et dell’Alemagna tutta; ma <lb/>
+coll’essempio animar anco altri; et con altri concetti simili <lb/>
+procurorono di sodisfar molto bene alla loro commisione, <lb/>
+per imprimer bene questa necessità, et questo così gran <lb/>
+bene, et perché ne scrivessi con ogni più vivo affetto. <lb/>
+</hi></p>
+<p><hi rend="decoded">Io lasciato, che si sodisfacessero nella espressione loro, dissi, <lb/>
+che in nome di vostra Serenità ringratiavo gli eccellentissimi signori Stati della <lb/>
+confidenza, che continuavano ad usar con la Serenità vostra, et <lb/>
+che sapeva, che le sarebbe riuscita cara, come anco ogni <lb/>
+buon successo, che andasse seguendo a pro, e beneficio publico; <lb/>
+et dissi, che le nuove erano buone, et migliori vorrei che <lb/>
+fossero, che sarebbe con una sicurezza, che havessero a <lb/>
+proseguir di ben in meglio; ma che mancandovi quello <lb/>
+che più importava per haver questo buon effetto, me ne dolevo; <lb/>
+et aggiongendo, che non haverei mancato di partecipar il tutto a <lb/>
+vostra Serenità dissi, che doveva considerarle, che sicome comprendevo <lb/>
+sendo qui le spese gravi, a che erano sottoposte queste Provincie <lb/>
+per il procinto, nel quale stavano di entrare in una guerra, <lb/>
+così la prudenza dei signori Stati da quanto più d’una audienza <lb/>
+havevo esposto, da quelli, che essi medesimi havevano inteso da <lb/>
+altra parte, potevano ben comprender le spese della Republica <lb/>
+essere eccessive per quello che passa in Grisoni, et Svizzeri, <lb/>
+per la necessità</hi>
+<pb n="105v" facs="10_105v" rend="0"/>
+<hi rend="decoded">in che la pone l’armi spagnole ai suoi <lb/>
+confini per li sospetti della parte di mare, et altrimenti, <lb/>
+tuttavia replicai, che non haverei mancato di significar <lb/>
+quanto dall’Eccellenze loro m’era stato fatto sapere. Mi soggiunsero, che poteva essere, oltre quanto haveva <lb/>
+accennato, che qualche rispetti potessero trattener la serenissima <lb/>
+Republica dal dare assistenza; che a questo si poteva <lb/>
+rimediare col far passar sotto mano il denaro o sotto <lb/>
+altro pretesto dove, et in quella maniera, che fusse <lb/>
+stimata più propria. Stringendomi nelle spalle dissi, <lb/>
+che non potevo se non rapresentar quanto mi havevano <lb/>
+esposto, et replicai, che haverei scritto. Di quanto <lb/>
+hanno potuto cavar da me ne fecero relatione alli signori Stati, <lb/>
+et a sua Eccellenza ancora, come ho cavato da lei medesima <lb/>
+sendo</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">stato a sua visitatione; che venuta a <lb/>
+questo proposito mi disse; farebbe con gran bene la <lb/>
+serenissima Republica a dar qualche assistenza di denari; et io <lb/>
+in sostanza ho replicati li medesimi concetti. <lb/>
+</hi></p>
+<p>Fu giovedì, che venero a me li detti deputati doppo il giorno seguente <lb/>
+è capitato un gentilhuomo del marchese di Jegherdorf con <lb/>
+lettere sue di credenza, et conferma di bocca le medesime cose; <lb/>
+ma ricerca denaro quello che siano per far questi signori non lo veggo <lb/>
+perché sono assai imbarazzati. Gratie etc. </p>
+<p>Dall’Haya li 10 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="106r" facs="10_106r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="106v" facs="10_106v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 297 fin 298 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="106vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>x maggio 1621 ricevute 2 giugno n° 297 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line on "questi" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "et … li medesimi concetti" decoding of the encrypted text can be found on cc. 102r-103r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes "senza" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

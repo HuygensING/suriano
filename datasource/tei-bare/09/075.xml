@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.075 date 1620-12-15</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">075</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 372r-374v, 379r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp486-499
+            </note>
+            <biblScope unit="page">372r-374v, 379r-v, 375r-v, 378r-v, 376r-377v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>reports that troops are returning to garrison and that an increase of troops for next season is on the table. States General have received final confirmation of the loss of Prague. Randwijck has returned from the princes of the union and expresses their hopes that James I will now intervene on behalf of Frederick V. Attached he sends a letter by States General to Venice to request payment of 1000s florins for the sons of Wassenhoven. Two texts attached: a letter by States General in French and in Italian translation</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-15">15 dicembre 1620</date>
+            <num>115, 116, 117</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="115">
+<div type="main" facs="main text of letter" n="115">
+<!--<p>15 dicembre 1620, L’Aia (cc. 372r-374v, 379r-v)</p>-->
+<pb n="372r" facs="09_372r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 256 sola </p>
+<p>Serenissimo Principe </p>
+<p>sono arrivati doi officiali della cavallaria di questi signori <lb/>
+ispediti innanti dal signor principe Henrico suo generale, et <lb/>
+questi hanno avanzato camino a fine, che restasse il signor <lb/>
+principe d’Oranges anticipatamente avvertito, et dasse l’or-<lb/>
+dine, che trovasse buono per ridur le compagnie alle <lb/>
+loro accostumate guarnigioni; et si crede, che ’l detto <lb/>
+principe Henrico possi esser di qua alla metà della <lb/>
+ventura settimana. </p>
+<p>È ritornato anco monsignor di Randuich uno del Consiglio di Stato <lb/>
+che d’ordine di questi signori s’è trattenuto per alcuni <lb/>
+mesi presso li principi dell’Unione. Questa mossa, <lb/>
+et questo ritorno è stato per precedenti lettere, <lb/>
+che sue Eccellenze havevano spedite ai detti principi, et al signor <lb/>
+principe Henrico, colle quali rimettevano alla <lb/>
+loro cognitione (sendo sopra ’l luoco) della necessità, <lb/>
+che vi fosse di trattener la cavallaria di queste <lb/>
+Provincie ancor in quella parte; ma rimostrando <lb/>
+anco in dette lettere l’apparenza del bisogno, che <lb/>
+li signori Stati possono haver da mo innanti coll’<lb/>
+espiratione della tregua; consideratosi appresso dal <lb/>
+signor principe Henrico, che s’andavano perdendo <lb/>
+sempre qualche cavalli, et cavallieri; che li <lb/>
+principi di tal militia erano assai ben provisti
+<pb n="372v" facs="09_372v" rend="0"/>
+et a sufficienza per la difesa; inoltre, che ’l marchese <lb/>
+Spinola havesse fatta ritirar in guarnigione la sua armata <lb/>
+risolvé con l’assenso anco delli medesimi principi di <lb/>
+ritornarsene. La consulta delli signori Stati della quale <lb/>
+scrissi riverentemente la passata settimana non versò in <lb/>
+altro, che nel considerar se fosse bene contramandar <lb/>
+il ritorno della detta cavallaria ne seguì altra risolutione. </p>
+<p>Se non tutte la maggior parte almeno delle provincie ha <lb/>
+dato quasi affatto il suo assenso, che si habbino ad <lb/>
+augumentar tutte le compagnie di cavallaria, et d’infan-<lb/>
+teria. Per questa par che si vogli far augumento <lb/>
+di nuove fin dieci milla fanti per l’altra di doi milla <lb/>
+cavalli. Non seguirà questo augumento con far nuove <lb/>
+compagnie; ma col rinforzar le vecchie; né questo <lb/>
+seguirà, che verso la fine di febraro, o principio di <lb/>
+marzo. A tal effetto anco per mantenimento di <lb/>
+quest’estraordinario si pensa di metter nuove imposi-<lb/>
+tioni, et ciò seguirà con la maggior modestia, et con <lb/>
+il minor aggravio possibile sendo purtroppo cari-<lb/>
+cate le consumptioni dalle quali si cavano le <lb/>
+gravezze. </p>
+<p>Li signori Stati hebbero ultimamente l’avviso certo della presa <lb/>
+della città di Praga, et se ben non si aspettava
+<pb n="373r" facs="09_373r" rend="0"/>
+altrimenti; con tutto ciò s’è rinovato il sentimento nell’<lb/>
+animo di ognuno. Alcuni per confortarsi dicono, <lb/>
+che poiché l’accidente era successo stimavano maggior <lb/>
+vantaggio, che fosse seguito nella stagione presente <lb/>
+che l’Imperatore, et casa d’Austria non possono seguitar la <lb/>
+vittoria che altrimenti se fosse successo in miglior sta-<lb/>
+gione haverebbono potuto ruinar totalmente il re <lb/>
+Palatino, et seguitar a danno, et supressione del <lb/>
+Palatinato, et del resto dell’Alemagna, et di quei <lb/>
+principi. </p>
+<p>Riferisce il sudetto signor Randuich haver lasciati li <lb/>
+principi uniti in molta buona intelligenza tra loro, <lb/>
+et che siano risoluti assai a far testa all’inimico <lb/>
+et ricuperar il perduto coll’assistenza massime del <lb/>
+re della Gran Bertagna, sperando, che non <lb/>
+tarderà più a far dichiaratione maggior. Anco <lb/>
+quei principi si passono d’una simil speranza. Intanto <lb/>
+resta presso di loro il general Horatio Veer colli suoi <lb/>
+Inglesi. Solo il conte d’Essex è partito per Inghilterra <lb/>
+colla credenza, che le nuove di Praga habbino ad <lb/>
+isvegliar il Re a soccorsi per il genero, et esso Conte <lb/>
+di esser impiegato in carica propria per la sua <lb/>
+qualità. </p>
+<pb n="373v" facs="09_373v" rend="0"/>
+<p>Ancor questi signori sono senza avvisi d’Inghilterra, et l’istesso <lb/>
+signor ambasciator Carleton ne sta con attentione per saper quello <lb/>
+che quella Maestà risolverà nella congiontura, et nel bisogno <lb/>
+così grande, c’ha il genero, et la figliola. </p>
+<p>Voglion dir alcuni, che ’l re di Bohemia in Slesia, et in <lb/>
+Moravia si rinforzi. Altri mettono tutte le loro <lb/>
+speranze sopra Bethelem Gabor, a chi però ognuno <lb/>
+non fida per l’interesse, c’ha con il Turco, et per <lb/>
+l’homaggio, che gli rende. </p>
+<p>Havendo monsignor Templi maggior di Lovania concertato, <lb/>
+et stabilito, che ’l giorno della risolutione dei deputati <lb/>
+di questi signori con quei dei serenissimi arciduchi habbi ad <lb/>
+esser per li 6 del venturo nel luoco stabilito in Fiandra <lb/>
+è partito questa mattina per Brabant per riferir <lb/>
+a’ serenissimi arciduchi le quali doveranno venir a deputatione <lb/>
+per loro parte d’altri tre. </p>
+<p>Ricercato questo da qualcheduno per tirar li suoi sensi toc-<lb/>
+cante la tregua ha havuto a dire, che poteva <lb/>
+assicurarsi, che le commissioni, che li serenissimi arciduchi <lb/>
+haverebbono date ai loro deputati non sarebbono <lb/>
+versate in altro, che nel fatto che vi è disputa <lb/>
+toccante li sequestri, et represaglie, ma che né <lb/>
+direttamente, né indirettamente havessero a parlar della
+<pb n="374r" facs="09_374r" rend="0"/>
+tregua. La stessa commissione ognuno crede che sarà anco <lb/>
+data di qua. </p>
+<p>Ho presentito, che hieri questi signori siano stati insieme con <lb/>
+alcuni delli aministratori dell’Indie Orientali per il <lb/>
+negotio delle Occidentali a’ fine di accordar la tassa <lb/>
+et la ripartitione propriamente alle città maritime. Si comprende, che hanno a cuore il negotio, tutto sta <lb/>
+nell’essecutione, che non si crede, se la guerra non <lb/>
+si rompe. Starò avvertito a quello che seguirà. </p>
+<p>Con queste invio a vostra Serenità una lettera dei signori Stati. Con essa <lb/>
+l’Eccellenze loro la pregano per quello m’han fatto dire, et anco n’ho veduta la copia, che si compiaccia dar ordine <lb/>
+che li mille fiorini concessi dalla munificenza di lei per <lb/>
+gravità alli figlioli del già colonello Wassonhoven siano <lb/>
+pagati al capitan Antonio suo fratello, come zio di <lb/>
+dette creature a’ quali egli assiste. Il medesimo Capitano <lb/>
+m’è venuto a parlare, et pregar anco di questo tanto. </p>
+<p>Havendo già la Serenità vostra deliberato di dar segno della <lb/>
+sua munificenza, et carità a questi figlioli per il servitio ricevuto dal padre, starà a lei commandar <lb/>
+quello si compiacerà per consolarli, et sodisfar all’instanza <lb/>
+delli signori Stati. </p>
+<p>Queste mie verranno accompagnate con quelle d’hoggi
+<pb n="374v" facs="09_374v" rend="0"/>
+otto n° 254 fin 255 in replica con nuova copia di quanto <lb/>
+si desidera per sodisfar a quei officiali, che sopra le dodici <lb/>
+navi sono stati posti nei luochi vacanti, come necessario <lb/>
+ad esser provisti; et così anco per quello hanno havut[o]<ptr target="#tn1" n="1"/> <lb/>
+effettivamente li patroni per servitio delle navi per accommodarle, con il costo delle robbe conforme <lb/>
+a quanto riverentemente le scrissi nelle prime n° 254. </p>
+<p>Intorno al debito di doi milla ducati in circa, che ha il <lb/>
+vassello Jonas colla serenissima Republica per li concieri fatti <lb/>
+in esso in Candia non dimandati nella restitutione, et <lb/>
+consegna fatta di lui, non ho sin qui potuto tirar <lb/>
+altro per risposta se non, che doveva esser dato <lb/>
+ordine dai partionevoli costi ai loro agenti per veder <lb/>
+quello, che ci fosse di spesa. Vostra Serenità potrà se si compiacerà <lb/>
+farne ricercar il console della Natione, ch’egli saprà <lb/>
+render conto di quest’ordine, et dove potrà <lb/>
+ella retirar questo credito, et io attenderò quello di <lb/>
+più, che da lei mi sarà commesso per essequirlo. </p>
+<p>L’ordinario, che doveva capitar la passata settimana <lb/>
+sino qui non è comparso, dò la causa ai giacci <lb/>
+che da qualche giorno in qua hanno serrate <lb/>
+queste riviere. </p>
+<p>Mi resta di anuntiar (come faccio) con ogni più riverente
+<pb n="379r" facs="09_379r" rend="0"/>
+affetto felici alla Serenità vostra et a caduna delle Serenità vostre eccellentissime le <lb/>
+feste del santissimo Natale, promettendomi da Dio bene-<lb/>
+detto, che a quella religiosissima Republica concederà <lb/>
+anco la divina Maestà sua felicissimo il principio, <lb/>
+et la continuatione dell’anno nuovo con prosperi, et <lb/>
+gloriosissimi successi ne’ secoli a venire a grandezza di quel serenissimo Dominio, et conservatione perpetua <lb/>
+della sua libertà, come con humilissime, et devote <lb/>
+preghiere incessantemente ne prego, et glielo auguro <lb/>
+di tutto cuore. Gratie etc. </p>
+<p>Dall’Haya li 15 decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="379v" facs="09_379v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 256 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="115">
+<!--
+<p n="379vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>15 decembre 1620 ricevute 7 gennaro n° 256 </p>
+<p>Haya. Secretario Suriano. Sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="116" corresp="115" source="375r-v, 378r-v" >
+<div type="main" facs="main text of attachment I" n="116" corresp="115" >
+<!--<p>Allegato I al n. 115 (cc. 375r-v, 378r-v; traduzione a c. 376r-v)</p>-->
+<pb n="375r" facs="09_375r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Serenissime Duc et tresexcellens seigneurs confederez <lb/>
+et alliez </p>
+<p>comme Anthoni de Wassenhove escuier, frere de <lb/>
+feu Jehan de Zegers de Wassonhove, en son vivant <lb/>
+colonnel au service de la serenissime republicque de <lb/>
+Venise, nous a remonstré en qualité de mambour des <lb/>
+enfants de soudit frere qu’il n’a point encore receu les <lb/>
+mille florins, qu’il a pleu à vostre Serenité accorder <lb/>
+à iceulx enfants, pour une gratuité et memoire des <lb/>
+services de leur feu pere faicts à la Republicque et que <lb/>
+mesmes il ne scait a qui s’addresser pour les recepuoir <lb/>
+pardeca, et pource regard bien humblement prie, que <lb/>
+vouldrions moyenner envers vostre Serenité, que ordre <lb/>
+puisse estre envoié au sieur Suriano vostre resident icy <lb/>
+prez de nous, de luy furnir comme mambour desoudits enfans, <lb/>
+lesoudits mille florins, nous ne luy avons peu refuser ceste <lb/>
+nostre intercession, en la faveur d’iceulx enfans, prions <lb/>
+à tant serenissime Duc puis qu’il vous a pleu leur <lb/>
+faire ceste gratitude, qu’il vous plaise aussy leur en faire <lb/>
+jovir reelement les effects, en envoyant ordre audite sieur <lb/>
+resident de compter ou faire compter avec Anthoni de <lb/>
+Wassenhoven, pour lesdits enfans, lesdits mille florins, <lb/>
+soubz sa quietance, et iceulx demoeureront tant plus <lb/>
+obligez de recognoistre tout leur vie ledit bien faict, et <lb/>
+nous a prier Dieu. Fredrich de Vervou ut. </p>
+<p>serenissime Duc et tresexcellens seigneurs confederez <lb/>
+et alliez </p>
+<p>de vouloir conserver et maintenir la personne de vostre </p>
+<pb n="375v" facs="09_375v" rend="0"/>
+<p>Serenité et tresparfaicte santé et treslougne vie </p>
+<p>de la Haye vii<hi rend="superscript">e</hi> decembre 1620 </p>
+<p>de vostre Serenité et <lb/>
+Excellences </p>
+<p>tresaffectionnez amis <lb/>
+et alliez, à vous faire <lb/>
+service </p>
+<p>les Estats Generaulx <lb/>
+des Pays Bas Uniz </p>
+<p>par l’ordonnance d’iceulx </p>
+<p>C(ornelis) Aersens <lb/>
+1620 </p>
+<pb n="378r" facs="09_378r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="378v" facs="09_378v" rend="180"/>
+<p>Aux serenissime <lb/>
+Duc et republique <lb/>
+de Venise, noz <lb/>
+confederez et alliez </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment I" n="116" corresp="115" >
+<!--
+<p n="378vC">———</p>
+-->
+<head>secretarial text of attachment I</head>
+<p>5 decembre 1620 ricevute a’ 8<ptr target="#tn2" n="2"/> gennaro </p>
+<p>Delli Stati Generali. </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="117" corresp="115" source="376r-377v" >
+<div type="main" facs="main text of attachment II" n="117" corresp="115" >
+<!--<p>Allegato II al n. 115 (cc. 376r-377v; traduzione di cc. 375r-v, 378v)</p>-->
+<pb n="376r" facs="09_376r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Al serenissimo duce et republica di Venetia nostri confederati <lb/>
+et collegati </p>
+<p>Serenissimo duce et eccellentissimi signori confederati et collegati <lb/>
+Antonio di Wassenout scudiero fratello del già Giovanni <lb/>
+de Zegieres de Wassenout, che vivendo era collonello <lb/>
+al servitio della serenissima republica di Venetia c’ha rimostrato <lb/>
+come tuttore dei figli del detto suo fratello, che egli non <lb/>
+ha ancora ricevuto li mille fiorini che ha piacciuto <lb/>
+a vostra Serenità concedere a quei figliuoli per una gratifi-<lb/>
+catione, et memoria delli zervitii del loro gran padre <lb/>
+fatti alla Republica, et che paremente egli non sa a <lb/>
+chi cacciarsi per riceverli qua et pertanto humilmente <lb/>
+c’ha pregato di voler operare con vostra Serenità che sia <lb/>
+inviato ordine al signor Suriano vostro residente appresso <lb/>
+di noi di provederli come a tuttore di detti figli li <lb/>
+mille fiorini: noi non habbiamo potuto recusarli questa <lb/>
+nostra intercessione a favore di detti figliuoli per <lb/>
+tanto pregamo serenissimo Duce, che sicome vi ha piacciuto<ptr target="#tn3" n="3"/> farle
+<pb n="376v" facs="09_376v" rend="0"/>
+questa gratia, vi piaccia parimente fargliene <lb/>
+godere li effetti reealmente, inviando ordine al <lb/>
+detto signor residente di contare, overo far contare <lb/>
+al detto Antonio di Wassenout per li detti figliuoli <lb/>
+li detti mille fiorini sotto suo ricevere, et chi reste-<lb/>
+ranno sempre più obligati di riconoscere in tutta <lb/>
+la sua vita il detto benefitio, et noi a pregar Dio <lb/>
+serenissimo Duce, et eccellentissimi signori confederati, et <lb/>
+collegati. </p>
+<p>Di voler conservare, et mantere la persona di <lb/>
+vostra Serenità in perfettissima sanità et lunghissima vita. </p>
+<p>Dall’Aya il 7 decembre 1620 </p>
+<p>di vostra Serenità et Eccellenze </p>
+<p>affettuosissimi amici et collegati per </p>
+<p>fano servitio </p>
+<p>Li Stati Generali dei Paesi Bassi Uniti. </p>
+<p>Per ordinatione di quelli </p>
+<p>Aersen </p>
+<pb n="377r" facs="09_377r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="377v" facs="09_377v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Corrected above "9."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "sicome … piacciuto" added above the line on "vi piaccia" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

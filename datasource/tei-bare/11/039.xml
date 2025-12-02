@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.039 date 1622-08-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">039</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 209r-210v, 217r-218v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">209r-210v, 217r-218v, 211r-212v, 213r-214v, 215r-216v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Spinola has returned to Brussels to make preparations and avoid an invasion by Mansfeld as well as peace negotiations about the Palatinate which have stalled. Rumours that the Spanish match will not proceed. He send a variety of reports related to skirmish with Van den Bergh. Berck has been chosen to represent the Dutch Republic in Venice and has visited Suriano. Captain Storm has been ill and Du Maurier is leaving to Paris for business, before leaving he reiterated his pleas about Bonfadio to Suriano; the passages he finds problematic are send in attachment to the letter. Two manuscript news letters and one other tekst attached: "avvisi dal campo del Principe Mauritio", "avvisi di Colonia" and "capitolo del qual si dede l’ambasciator di Francia monsieur Maurier" (in Latin)</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-08-08">8 agosto 1622</date>
+            <num>061, 062, 063, 064</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>8 agosto 1622, (cc. 209r-210v, 217r-218v)</p>-->
+<pb n="209r" facs="11_209r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 412 comincia 411 </p>
+<p>Serenissimo Principe </p>
+<p>l’andata del marchese Spinola a Brusseles viene scritto esser <lb/>
+per dar buoni ordini per il viaggio del conte di Mansfelt, et <lb/>
+proveder d’eccitar l’infestatione del Paese suddito alla <lb/>
+serenissima Infanta; non si promettendo Spagnoli di dover spuntar <lb/>
+coi trattati appresso il detto Mansfelt, et tenendo per fermo <lb/>
+che ’l suo sia tutto artificio; onde si aspettava il conte <lb/>
+d’Henin di ritorno da lui senza haver effettuata cosa <lb/>
+che vagli. Viene anco detto, che esso Spinola sia <lb/>
+passato a quella corte per il negotio del Palatinato; ma par <lb/>
+che si vedino ridotte le cose a stato tale, che non si possi <lb/>
+sperarne frutto, sendosi a quella corte opposto sempre <lb/>
+hora ad una hor ad un’altra cosa. Si era trovato il <lb/>
+ripiego dalla parte d’Inghilterra, che li ministri del Palatino <lb/>
+non dovessero valersi della procura nella quale haveva <lb/>
+titolo di Re, et altri, ma ben della plenipotenza data <lb/>
+dal re d’Inghilterra al Weston, et che a quella<ptr target="#tn1" n="1"/> dovesse <lb/>
+sottoscriver il re di Bohemia semplicemente Frederico. <lb/>
+Ma Spagnuoli, et imperialisti in particolare si sono attaccati <lb/>
+alla parola elettore volendo, che fosse levata, a che <lb/>
+Weston per nome del re d’Inghilterra suo signore non voleva <lb/>
+acconsentire, onde la negotiatione caminava con piedi <lb/>
+lento<ptr target="#tn2" n="2"/>: in tanto s’è inteso, che Bavaresi, et quelli <lb/>
+di Cesare si siano impossessati di Nievostat presso il <lb/>
+Palatinato, et di qualche altra piazza; et che andavano <lb/>
+preparando l’assedio a Franchendal, che si tiene <lb/>
+per fermo, che già sia posto; né questi della casa del <lb/>
+Re, la Regina, et altri si promettono diversamente. <lb/>
+Si lauda questa Maestà grandemente della dritta maniera di <lb/>
+proceder dell’ambasciator Weston a Brusseles, et con ansia
+<pb n="209v" facs="11_209v" rend="0"/>
+attende il fine della negotiatione: et questi signori sentono <lb/>
+estremo discontento, che ’l re della Gran Bertagna non <lb/>
+si avegga come è mal trattato, et come sia trattenuto con <lb/>
+vane speranze, et deluso con vani pretesti. </p>
+<p>Qui è stato detto, che il maritaggio con Spagna non sia per seguire <lb/>
+ma che la figliola di Spagna sarà maritata al gran duca <lb/>
+di Toscana con premessa del titolo di re di Toscana; ma <lb/>
+l’opinione commune è che fallendo (come si tiene per fermo <lb/>
+qui, che seguirà con Inghilterra)<ptr target="#tn3" n="3"/> Spagnoli vorranno più tosto <lb/>
+che sia data al figliolo dell’Imperatore a fine di stabilir <lb/>
+tanto meglio la successione nella casa d’Austria, et divertir <lb/>
+quella gelosia, et mala volontà, che si potesse haver contra <lb/>
+Spagnuoli, quando dovesse succeder il re di Spagna all’<lb/>
+Imperio, o ai regni di Bohemia, et Ongaria. Questi sono <lb/>
+li discorsi, ma grandissimo è il timor dell’universale del <lb/>
+pregiudicio (<ptr target="#tn4" n="4"/>che questo maritaggio possi apportar non tanto <lb/>
+alle cose proprie di questi paesi, che degl’esteri, et amici. </p>
+<p>In questo punto che scrivo mi arriva una lettera dal campo, ove <lb/>
+è il signor principe Mauritio, et n’ho fatta copia, o translato <lb/>
+d’essa. Sentirà appresso poco, come sia successo il rancontro <lb/>
+fatto dalle genti del conte Henrico di Bergh. Aggiungo <lb/>
+anco altri avvisi capitatemi di lettere scritte da Colonia <lb/>
+dall’agente di questi signori tirati dal fiamingo, né mancarò <lb/>
+di procurar ogni più preciso particolare per darne <lb/>
+di tempo in tempo riverente conto a vostra Serenità. </p>
+<p>Il signor Filippo Thinen è stato dichiarito al campo dal signor principe <lb/>
+Mauritio luocotenente colonello del terzo del signor <lb/>
+di Brederod, me ne ha dato parte acciò possi rapresen-<lb/>
+tar alla Serenità vostra come con questa carica, et con quella
+<pb n="210r" facs="11_210r" rend="0"/>
+di quartiermastro generale sia al servitio della Patria;<ptr target="#tn5" n="5"/> <lb/>
+sperando (come dice) che vostra Serenità troverà buono non havendo <lb/>
+costì gran occasione d’impiegarlo, ch’egli continui a frutuo-<lb/>
+samente impiegarsi nel proprio Paese, che sarà con avanzo <lb/>
+d’isperienza a servitio maggiore di quella serenissima Republica. </p>
+<p>A nome delli signori Stati Generali venne il presidente di Zelanda <lb/>
+il giorno stesso della mia speditione della passata setti-<lb/>
+mana a darmi parte dell’elettione, et confirmatione del signor <lb/>
+cavalier Berch in ambasciator<ptr target="#tn6" n="6"/> per dover resieder ordinario presso <lb/>
+la Serenità vostra, et che erano devenuti a questo per le rei-<lb/>
+terate efficaci instanze dell’Arsen, et fatte a nome <lb/>
+suo di sollevarselo, et per veder, che non si scopriva <lb/>
+il quando dovesse esser libero dall’ambasciata d’Inghilterra <lb/>
+sendo sicure sue Eccellenze che vostra Serenità haverebbe aggradito di <lb/>
+haver questo soggetto, che stimavano per le qualità sue <lb/>
+et per esser stato impiegato<ptr target="#tn7" n="7"/> dal Paese fuori <lb/>
+in ambasciate a più gran principi in Inghilterra et in Danimarca <lb/>
+et dentro ancora nei maneggi del Governo; et che <lb/>
+sarebbe partito fra quattro settimane in circa; dicendomi <lb/>
+che li signori Stati me ne facevano dar parte a fine che <lb/>
+io potessi scriverlo a vostra Serenità. Dissi, che tanto haverei <lb/>
+fatto; et che già di quello havevo inteso havevo anco <lb/>
+scritto la stessa mattina. Ritornò il signor cavalier Berch <lb/>
+sabbato a notte da Dordrecht, et non prima. Hieri <lb/>
+appresso desinare fu a vedermi in questa casa della Serenità vostra <lb/>
+et io lo accolsi con quel termine, che stimai proprio <lb/>
+et mostra gran devotione verso quella serenissima Republica <lb/>
+disse, che non poteva ancor dir di esser ambasciatore perché <lb/>
+non era<ptr target="#tn8" n="8"/> stato ancor nell’assemblea delli signori Stati </p>
+<pb n="210v" facs="11_210v" rend="0"/>
+<p>Generali, et che questo sarebbe seguito questa mattina, confir-<lb/>
+mandomi anc’egli la sua presta partenza. Iscusò l’età <lb/>
+sua, l’esser maritato, gl’incommodi del viaggio, et la difficoltà <lb/>
+massime in queste congionture; ma disse, che haverebbe <lb/>
+fatto quanto havesse potuto, et venendo presso di lei (necessitato <lb/>
+dal publico commento) non haverebbe mancato di servirla a tutto <lb/>
+suo potere. </p>
+<p>Il capitan Giacomo Storm partì la settimana passata verso <lb/>
+Zelanda doppo essersi sollevato da una lunga malatia, <lb/>
+che l’ha fatto trattener qui più di quello haverebbe voluto, <lb/>
+et si promette all’arrivo suo costì a’ piedi di lei di esser <lb/>
+riconosciuto da essa<ptr target="#tn9" n="9"/> colla gratia sua solita; et spera <lb/>
+di dar ogni buon testimonio a vostra Serenità della fedeltà, et servitù <lb/>
+sua et m’ha pregato instantemente di raccommandarlo alla sua <lb/>
+benignità come humilmente faccio. </p>
+<p>Questo signor di Maurier ambasciator francese ha havuta licenza dal suo <lb/>
+Re di passar per doi mesi a Parigi per suoi particolari affari con <lb/>
+obligo di ritornarsene subito espirati<ptr target="#tn10" n="10"/> alla sua residenza <lb/>
+alcuni dicono, che vadi a pigliar moglie, altri per dar sesto <lb/>
+alle cose sue. Egli venne a pigliar licenza da me, et io <lb/>
+fui a far il mio debito seco; nell’uno, et l’altro congresso <lb/>
+mi rinovo l’ufficio sopra lo scritto dal signor Bonfadio sopra il <lb/>
+quale ha mostrato desiderio grande di haver buona risposta <lb/>
+et miglior essecutione, et sentirla almeno al suo ritorno qui <lb/>
+et mi ha dato il capitolo, nel quale disse esser tocca la persona <lb/>
+sua, pregandomi di mandarlene copia, et che l’assicurassi <lb/>
+esser stato il signor Bonfadio malissimo informato; et veramente <lb/>
+parmi che le lettere mie di quel tempo non portino tali concetti <lb/>
+tuttavia mi rimetto alla prudenza di vostra Serenità, et questo tanto
+<pb n="217r" facs="11_217r" rend="0"/>
+è conforme all’instanza, che me ne fece, et io scrissi riverentemente <lb/>
+alla Serenità vostra colle mie dei 25 del passato, che precederono <lb/>
+a quelle del primo del presente n° 409 fin 410 che saranno <lb/>
+replicate colle presenti. Gratie etc. </p>
+<p>Dall’Haya li 8 agosto 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="217v" facs="11_217v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="218r" facs="11_218r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="218v" facs="11_218v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 412 comincia 411 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="218vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 agosto 1622 ricevute 24 detto </p>
+<p>Haya numero 412 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="062" corresp="061" source="211r-212v" >
+<div type="main" facs="main text of attachment I" n="062" corresp="061" >
+<!--<p>Allegato I al n. 61 (cc. 211r-212v)</p>-->
+<pb n="211r" facs="11_211r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya de’ 8 de agosto numero 412 </p>
+<p>Translato di lettere dal campo del principe Mauritio <lb/>
+di Schincherscans alla corte li 6<ptr target="#tn11" n="11"/> agosto 1622 </p>
+<p>Doi hore sono, che qui havemo visto l’inimico sotto le nostre <lb/>
+trinciere, havendo con 7<ptr target="#tn12" n="12"/> compagnie di cavallaria del <lb/>
+capitan Walfort scocese che allhora haveva la guardia <lb/>
+in circa una mez’hora fuori in un villaggio, et sono <lb/>
+della medesima compagnia morti in circa 6 over 7 et in circa <lb/>
+15 prigionieri con il Capitan medesimo, et il Luogotenente <lb/>
+ferito in una gamba, et un’altra ferita havuta nella <lb/>
+schena<ptr target="#tn13" n="13"/>, et dell’inimico sono restati 4 morti, et uno <lb/>
+prigione. </p>
+<p>Ancor un’altra partita si è gettata nel quartiero del duca <lb/>
+di Wimar che era nella sua guardia doi hore di qua <lb/>
+essendo anco quel cavaliere restato prigioniero con alcuni <lb/>
+cavallieri, et l’inimico sentendo l’aiuto si ritirò. </p>
+<p>Ancor in un altro luoco ove la cavallaria era alloggiata <lb/>
+si sono portate le sue truppe; ma essendo le genti <lb/>
+più leste sono stati gl’inimici ribatuti con in circa <lb/>
+vintiquattro prigionieri dell’inimico, che ho veduti <lb/>
+con un capitan di cavallaria chiamato Neufuille <lb/>
+di natione valone. </p>
+<p>Il disegno era di venir nelle nostre trincere, come essendo<ptr target="#tn14" n="14"/> <lb/>
+tutto il luoco aperto; et le genti del nostro reggimento, <lb/>
+et anco alcuni francesi, et inglesi sono alloggiati nei <lb/>
+vasselli di modo che non così facilmente possono esser all’armi <lb/>
+et erano per questo marchiati fuori dei suoi quartieri <lb/>
+con circa 400 cavalli, et 7000 moschetieri come si dice <lb/>
+alle 8 la sera; ma le guide<ptr target="#tn15" n="15"/> per l’oscurità non potevano <lb/>
+così bene conoscer il camino; onde parte arrivonno <lb/>
+ben all’hora destinata (come quelli del duca di Wimar
+<pb n="211v" facs="11_211v" rend="0"/>
+et altri); ma quelle del Walfort havevano la carica di <lb/>
+metter il fuoco; et essi non arrivorono se non alle tre <lb/>
+hore la mattina, che furono scoperti dalle sentinelle <lb/>
+et ciò sarà causa, che doveranno star più alerta <lb/>
+et non alloggiar la cavallaria tanto lontana da noi <lb/>
+che quasi arriva fino a Nimeghen. </p>
+<p>Quello, che doveva accostar la nostra guardia di sua Eccellenza era <lb/>
+chiamato don Diego Queva spagnolo et una compagnia <lb/>
+corrazzieri; et vedendo, che la nostra moscheteria <lb/>
+era così presto ad ordine si diedero alla fugga a galoppo <lb/>
+facendo preda di 100 cavalli de carrettieri, che essi <lb/>
+medesimi havevano condotti in quelle praderie discoste <lb/>
+assai ma per esser brune pastare<ptr target="#tn16" n="16"/>. Non mancarò di <lb/>
+scriver ciò che seguirà sendo anco meglio informato. </p>
+<pb n="212r" facs="11_212r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="212v" facs="11_212v" rend="270"/>
+<p>1 </p>
+<p>Avvisi dal campo del <lb/>
+principe Mauritio </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 412 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="063" corresp="061" source="213r-214v" >
+<div type="main" facs="main text of attachment II" n="063" corresp="061" >
+<!--<p>Allegato II al n. 61 (cc. 213r-214v)</p>-->
+<pb n="213r" facs="11_213r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dall’Haya de’ 8 de agosto numero 412 </p>
+<p>Lettere di Colonia delli 2 di agosto 1622 </p>
+<p>L’assedio di Papemuts è ancora nel medesimo termine, come io <lb/>
+vi ho avvertito sabbato passato solamente che in luoco di <lb/>
+balle de cinque libre viene tirato con altre de’ 26 contra il <lb/>
+detto forte. </p>
+<p>Sendo stati portati li canoni di Giuliers a Berchem et posti <lb/>
+sopra la batteria, non ostante, che habbino con essi tirato <lb/>
+più di 60 colpi non hanno però fino a quest’hora fatto <lb/>
+alcun danno se non che hanno fatto doi o tre<ptr target="#tn17" n="17"/> fori <lb/>
+et faranno ancor manco danno nell’avenire perché quelli <lb/>
+di dentro hanno fatto un’opera sì alta contra la parte <lb/>
+di Berchem, che alcun colpo non può far danno, havendo <lb/>
+il Governator stesso lavorato con tutti li capitani offi-<lb/>
+ciali, huomini, et donne. Viene detto, che ’l reggimento <lb/>
+del principe di Simai venirà da questa parte del Rheno <lb/>
+dalla banda di Colonia ad assediar Papemeuts. </p>
+<p>Gl’affari del re di Bohemia nel Palatinato vanno di mal <lb/>
+in peggio, et ancorchè il re d’Inghilterra habbi prese le <lb/>
+restanti piazze in sua protettione; nondimeno<ptr target="#tn18" n="18"/> gl’impe-<lb/>
+rialisti tentano di prenderle, et apparentemente le <lb/>
+prenderanno, se però Dio non li provede miracolosamente. <lb/>
+Hanno già preso Nieustat a’ 26 di luglio, et tirano <lb/>
+verso Germensheim sendo risoluti di attaccar Franchendal <lb/>
+et esperimentar ancor una volta la loro fortuna sperando <lb/>
+di haver al presente maggior felicità, et che quelli di dentro <lb/>
+non aspetteranno l’estremità; perché al presente non hanno <lb/>
+speranza di socorso. A Udenheim si fa un ponte sopra <lb/>
+il Rheno. Si pensa che li Bavaresi marchieranno da <lb/>
+questa parte Rheno per assister alli Spagnuoli, in <lb/>
+questo mentre li Bavaresi fanno gran danno per incendii <lb/>
+et saccheggiamenti nel paese del lantgrave di Darmenstat. </p>
+<pb n="213v" facs="11_213v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="214r" facs="11_214r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="214v" facs="11_214v" rend="270"/>
+<p>2 </p>
+<p>Avvisi di Colonia </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 412<ptr target="#tn19" n="19"/> </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="064" corresp="061" source="215r-216v" >
+<div type="main" facs="main text of attachment III" n="064" corresp="061" >
+<!--<p>Allegato III al n. 61 (cc. 215r-216v)</p>-->
+<pb n="215r" facs="11_215r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere dall’Haya de’ 8 de agosto numero 412 </p>
+<p>Discorso, et avviso sopra le cause dei moti d’Europa inviato <lb/>
+ai re, et principi per la conservatione dei loro principati fatto <lb/>
+per monsignor Herimand Conrado baron d’Infrindembourg, et conte <lb/>
+del Palatinato presentato al Re per il conte di Frustembergh <lb/>
+impresso a Parigi 1620 8° </p>
+<p>Questo picciolo libro è stato veduto in latino, et in spagnuolo <lb/>
+et il francese non è che una versione dal latino assai mal fatta. </p>
+<p>È stato risposto per il libro intitolato. </p>
+<p>Diaecaologia omnium rerum publicarum. Iosephus Bonfadius instituit <lb/>
+actionem aequessimam adversus paraeneticam orationem <lb/>
+Herimanni Conradi ad Reges, et Principes. Venetiis 1620 4° <lb/>
+Dedicato al principe di Venetia, et contiene otto fogli. Et <lb/>
+è diviso in dodici capitoli al settimo intitolato Conatus <lb/>
+alienandi Gallos foederatos a Batavis, et vicissim Batavos <lb/>
+a Gallis per alternas calumnias de magno Henrico, et <lb/>
+Ludovico eius filio. Rispondendo a quello che viene <lb/>
+rimproverato alli stati di Holanda di haver rifiutato <lb/>
+soccorso al Re, durante la regenza della Regina dice. </p>
+<p>Verumtamen quia multo plures ignorant quam sciunt veritatem <lb/>
+ab re non fuerit paucis totam rem perstringere. Inter <lb/>
+amplissimum Galliae regnum, Batavosque ordines cum alia <lb/>
+foedera quondam celebrata sunt, tum novissimum illud <lb/>
+est confectum quo se obstrinxere mutuo ad ferendam <lb/>
+opem, si quando accideret ut armis lacesserentur ex <lb/>
+induciis nuperrime factis tempore captato. Coortis igitur <lb/>
+in Gallia repentino turbis hinc iis qui Reginae parenti <lb/>
+assidebant, stantibus: inde proceribus e regia stirpe <lb/>
+aliisque principibus; concinus ad cuius nutum res tum
+<pb n="215v" facs="11_215v" rend="0"/>
+agebantur ad foederatus ordines illico dat litteras, quibus nomine <lb/>
+Regis id petebat ut Gallorum, qui regia stipendia apud ipsos me-<lb/>
+rebant, dimidia pars, quae validior foret censeretur, altera vero <lb/>
+pars dimidia suppleretur ex Belgis; quae copiae in Galliam quam-<lb/>
+primum transmitterentur nobilissimi, et peritissimi bellicae<ptr target="#tn20" n="20"/> rei cuius-<lb/>
+piam ductu. Ad eam rem procurandam, acriterque urgendam <lb/>
+oratoris Regii apud ordines usus est industria, qui tam ad-<lb/>
+ductus illi existimabatur, quam Batavorum libertati, salutique <lb/>
+infestus: quod multis aliis in rebus cum declarasset, tum <lb/>
+omnium maxime in tumultu illo arminiano, qui nisi mature <lb/>
+compositus, sublatusque esset extremam perniciem rebus fuerat <lb/>
+allaturus: haerebant omnes principio, et pendebant animis <lb/>
+neque poterant expedire quid consilii caperent. Nam <lb/>
+Regis ipsius nomen, et auctoritas praetexeretur literis, atque <lb/>
+postulatis, subibat nihilominus illa cogitatio; concinum <lb/>
+novum plane hominem, exterumque esse, qui summam rerum <lb/>
+sibi temere arrogasset; eius in potestate Regem, ac Reginam, <lb/>
+cuius<ptr target="#tn21" n="21"/> gratia cunctisque opibus foede abuteretur. Omnes <lb/>
+ordines Galliae, omnes duces ac principes arrogantiam, et <lb/>
+fastum hominis aperte aversari: denique cum induciae turbis <lb/>
+iis causam non dedissem ex foederis ipsius legibus liquido con-<lb/>
+stare; auxilia nulla eo tempore a Batavis deberi. Attamen <lb/>
+vicit studium ardens atque obsequium in Regem cuius dignitas <lb/>
+periclitari vulgo credebatur. Itaque comparata sunt auxilia <lb/>
+quam sedulo, et quaternis peditum millibus, quae fuerunt <lb/>
+petita, insuper adiuncta sunt alia bina millia partim e Gallicis <lb/>
+partim e Belgis contracta aequabiliter. Hae copiae cum <lb/>
+in eo essent, iam iam ut conscenderent, supervenere commodum <lb/>
+Regiae litterae quas villaregius conscripserat mandatu ipsius <lb/>
+Regis. Harum litterarum porro haec erat sententia. Pro ea
+<pb n="216r" facs="11_216r" rend="0"/>
+fide atque observantia qua colerent Regem; id enixe curarent <lb/>
+ac omnino peragerent ut auxiliorum transimissio vel prohiberetur <lb/>
+vel saltem in dies aliquot protraheretur: esse caussas admodum <lb/>
+graves, quae Regem moverent: eas aperire in presentia <lb/>
+minime expedire brevi fore, ut patescant omnia explorata, <lb/>
+et certa. Interea rem totam silentio premendam ne qua vox <lb/>
+ad Regium oratorem aut suspicio emanet, qui obaeratus <lb/>
+Concino existat, nec non exploratur. Eiusmodi litterae, ne quis <lb/>
+fictas, atque falsas putet, asservantur, ut par est, adhuc magna <lb/>
+diligentia. Inde caedes Concini consecuta est, quae cuncta <lb/>
+pacavit in Gallia, et tranquilla praebuit: tum demum Rex ipse <lb/>
+per literas gratias egit, et summis laudibus extulit ordinum <lb/>
+prudentiam quod cunctatione salutari usi tempus extrassis-<lb/>
+sent<ptr target="#tn22" n="22"/>, neque ad auxilia mittenda praecipites agi se siv[…]at<ptr target="#tn23" n="23"/> <lb/>
+Haec est gestae<ptr target="#tn24" n="24"/> rei series. </p>
+<pb n="216v" facs="11_216v" rend="270"/>
+<p>Capitolo del qual si duole <lb/>
+l’ambasciator di Francia <lb/>
+monsieur Maurier </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 412 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "si sott" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "presso" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "dallo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "batt" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-i-" corrected above "-o-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-1- esito di correzione; segue prima depennato."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-ae esito di correzione."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-us esito di correzione."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Ink stain.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-e-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

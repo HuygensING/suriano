@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.096 date 1622-02-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">096</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 504r-506v, 509</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">504r-506v, 509r-v, 507r-508v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The letter provides an overview of the war preparations and levies by either side in the war. Baron of Flechstein has arrived in The Hague for the 8000 remaining reichstaler to be paid to Baden and will raise a further 1000 man to join Christian the Younger. Ecclesiastical princes are also levying toops in Holy Roman Empire, especially Holstein and they might join the troops of Hendrik van den Berg. Talk about a potential agreement between Brandenburg and Haiburgh about Cleves and Berg. Ships from East Indies have arrived in Zeeland and the States were warned that Earl of Arga (a scot serving the Spanish) had three ships to make prisoners of the troops they would find at sea to serve the Spanish. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-02-14">14 febbraio 1622</date>
+            <num>160, 161</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="160">
+<div type="main" facs="main text of letter" n="160">
+<!--<p>14 febbraio 1622, L’Aia (cc. 504r-506v, 509r-v)</p>-->
+<pb n="504r" facs="10_504r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 369 comincia 366 </p>
+<p>Serenissimo Principe </p>
+<p>il baron di Flechstein è venuto qui per tirar alcuni denari <lb/>
+dovuti al signor marchese di Bada, che sono per la summa <lb/>
+di ottomilla raistaleri per alcune armi date alle compa-<lb/>
+gnie di Alemani, che venero qui l’anno passato. Ha havuto <lb/>
+questo stesso Barone<ptr target="#tn1" n="1"/> la quarta parte, et promessa di dover <lb/>
+nelle prime fiere pagarsi le restanti. Passerà a far leva-<lb/>
+ta di mille cavalli, li quali con altre levate, che si devo-<lb/>
+no fare per questo<ptr target="#tn2" n="2"/> Re si uniranno con le genti del giovane <lb/>
+duca di Bransvich per andar in Palatinato; et dicono <lb/>
+che il marchese di Bada manderà ad incontrarle per <lb/>
+poter così farle sicuramente passare. Tale è il concerto <lb/>
+et formata questa militia <hi rend="decoded">il</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">detto Re per quello si parla <lb/>
+caminerà con essa. <lb/>
+</hi></p>
+<p>Il principe elettore di Brandemburgh doveva trovarsi se <lb/>
+ancor non è al presente con il duca maggiore di Bran-<lb/>
+svich sotto altro pretesto, ma con fine di veder di <lb/>
+ridurlo a qualche buon effetto per servitio della Germa-<lb/>
+nia. </p>
+<p>Il marchese di Hanspach ha fatta levata di cinquecento <lb/>
+cavalli, et doi milla fanti <lb/>
+<hi rend="decoded">publica</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">egli per diffesa del suo Stato, ma viene <lb/>
+rifferto di concerto con il conte di Mansfelt, che <lb/>
+perché habbi detto Prencipe</hi>
+<pb n="504v" facs="10_504v" rend="0"/>
+<hi rend="decoded">maniera</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">di coprirsi, li ha <lb/>
+fatto intendere di voler contributione</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">nel suo <lb/>
+Stato. Et quanto alle levate del marchese <lb/>
+di Bada, si tiene per fermo, che alquante delle <lb/>
+terre franche gli assistino, et caminino di <lb/>
+concerto al pensar a nuova unione. <lb/>
+</hi> L’arcivescovo di Colonia, il baron d’Anolt molti altri <lb/>
+principi ecclesiastici, et laici levano genti in Alemagna; <lb/>
+et nella Bassa Sassonia particolarmente il duca di Holstein <lb/>
+fratello del vescovo di Brem fa una levata di doi <lb/>
+milla cavalli per l’Imperatore. Delli altri principi di quel <lb/>
+circolo sin qui non si sa altro se non che stiano quieti, <lb/>
+et a vedere; et il Camerario ispedito da questa <lb/>
+Maestà a Danimarca doverà anco trovarsi con <lb/>
+quei principi della Bassa Sassonia per indurli non <lb/>
+volendo esser favorevoli al suo signore al meno al non <lb/>
+esserli contrarii. </p>
+<p>La mossa di Colonia, d’Anolt, et d’altri da questa parte di <lb/>
+qua si tiene per fermo da sua Eccellenza, et da questi signori che <lb/>
+doverà servire per unirsi di concerto con il conte Henrico <lb/>
+Vandembergh per cacciar il giovane duca di Bransvich <lb/>
+dalle terre prese. Detto duca ha tirato fuori <lb/>
+di Paterborn tredici pezzi di artiglieria, et fattili<ptr target="#tn7" n="7"/> condur
+<pb n="505r" facs="10_505r" rend="0"/>
+in Lipstat, come anco pur da Paterborn, et Zust amuni-<lb/>
+tioni<ptr target="#tn8" n="8"/> di guerra facendoli metter in Lipstat sendo quella <lb/>
+piazza la più forte delle tre, et la più sicura per sostener <lb/>
+in ogni evento un assedio. Mi disse sua Eccellenza li signori Stati <lb/>
+fanno quanto possono, et non mancaranno ad ogni lor <lb/>
+potere <lb/>
+<hi rend="decoded">di</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">dar spale al Duca affine di conservarlo <lb/>
+perché possi mantenersi, et principalmente <lb/>
+salvar Lipstat</hi><ptr target="#tn10" n="10"/><hi rend="decoded">, et così haver modo di far la <lb/>
+levata, che bissogna</hi>. <lb/>
+Fin qui il Duca è <lb/>
+forte di doimilla doicento cavalli, et mille doicento <lb/>
+fanti, li quali fa stato di accrescer fino al numero di <lb/>
+quattromilla, et ha scritto, che non dubita punto che <lb/>
+li riesca mentre habbi tre solo settimane di tempo nel <lb/>
+quale l’inimico non lo<ptr target="#tn11" n="11"/> facci ostacolo. </p>
+<p>A Brusseles, in Anversa, et altri luochi de’ Spagnuoli s’è fatta <lb/>
+festa di fuochi, et di tiri di artiglierie per l’acquisto di <lb/>
+Giuliers; et si promettono anco Spagnuoli di far acquisti <lb/>
+maggiori a danno, et pregiudicio di queste Provincie. </p>
+<p>Qui si trova il conte di<ptr target="#tn12" n="12"/> Svartzembergh<ptr target="#tn13" n="13"/>, che già alcuni <lb/>
+mesi fu a questi signori per nome del marchese di Bran-<lb/>
+demburgh<ptr target="#tn14" n="14"/> et come fu allhora <lb/>
+per accordar un’aleanza (<ptr target="#tn15" n="15"/>che forse ne continuerà
+<pb n="505v" facs="10_505v" rend="0"/>
+il trattato così al presente è qui per consultar coll’Eccellenze loro <lb/>
+la proposta, ch’è stata fatta al suo Principe di far partag-<lb/>
+gio delli stati di Cleves, et Giuliers tra esso Brandem-<lb/>
+burgh, et il duca di Naiburgh: che da una parte si <lb/>
+metti il ducato di Giuliers, il ducato di Bergh, et la <lb/>
+contea di Ravenspergh; dall’altro il ducato di Cleves <lb/>
+la contea della Marca, et adherenze. Et gettando alla <lb/>
+sorte tra li doi principi ognuno tenga la parte, che <lb/>
+le toccarà; che Wesel habbi a restar in mano alli <lb/>
+Spagnuoli, et li signori Stati si tengano anch’essi una delle piazze <lb/>
+che hanno al presente delle cinque fortificate cioè E[…]erich<ptr target="#tn16" n="16"/>, <lb/>
+Rees, Genep, Ravenstein, et Papemuz. La cosa è messa <lb/>
+in consulta; ma in tanto ridendosi della proposta si <lb/>
+scuopre bene, che non sarà consigliato quel Principe <lb/>
+a devenir ad un tal partaggio. <lb/>
+In oltre si dice, <lb/>
+che per dar buon principio a questo negotio doverebbono<ptr target="#tn17" n="17"/> <lb/>
+Spagnuoli in virtù del trattato di Zanten restituir Wesel, <lb/>
+et quanto alle piazze, che tengono li signori Stati non vi <lb/>
+è apparenza, che siano per restituirle. Questo Conte <lb/>
+mostra, che l’elettor di Brandemburgh si regolerà secondo <lb/>
+il consiglio, che venirà dato di qua. Di più tenta <lb/>
+d’impegnar qualche terra<ptr target="#tn18" n="18"/>, et qualche gabella per <lb/>
+tirar denari a fine di servirsene per far presenti in </p>
+<pb n="506r" facs="10_506r" rend="0"/>
+<p>Prussia per la nuova investitura di quel Ducato. </p>
+<p>Qualche avviso venuto di Amburgh porta, che il gran <lb/>
+duca di Moscovia si intrometti tra Polonia, et Svetia <lb/>
+per accommodar insieme quei doi Re, et che detto re di <lb/>
+Svetia sia per intervenir ad una Dieta in Lituania <lb/>
+nella quale doveranno anco esser quelli di Riga. Della <lb/>
+qual città non si conferma, che ’l principe d’Anhalt sia <lb/>
+stato<ptr target="#tn19" n="19"/> posto per governatore<ptr target="#tn20" n="20"/>. </p>
+<p>Da alcuni giorni in qua si trova qui un deputato dell’arci-<lb/>
+vescovo di Colonia per procurare, che il Paese di quel <lb/>
+Principe sia liberato dall’aggravio, che questi signori li hanno <lb/>
+intimato di 23 milla fiorini di contributione in corrispondenza <lb/>
+del foraggio, ch’è stato dato dalli sudditi di sua Altezza <lb/>
+alle genti spagnuole; ma qui non s’intende di farli <lb/>
+alcuna agevolezza non facendosi buona l’iscusa, <lb/>
+che ci è stato sforzo, et necessità. Così interviene <lb/>
+ad altri deputati di terre neutrali, che hanno <lb/>
+fatta la medesima assistenza a’ Spagnuoli. </p>
+<p>È venuto avviso, che doi navi di questi paesi venute <lb/>
+dall’Indie Orientali siano con ricco carico capitate <lb/>
+in Zelanda se ben tutti non l’affermano. Intorno <lb/>
+le quali questi signori sono stati avvertiti, che li Inglesi
+<pb n="506v" facs="10_506v" rend="0"/>
+volevano attaccarle; ma che avvisati li marinari si <lb/>
+siano scostati prontamente dall’isola d’Inghilterra questo <lb/>
+mi è stato communicato dal signor principe Mauritio mo-<lb/>
+strando di risentir grandemente l’attione. </p>
+<p><hi rend="decoded">Furono</hi><ptr target="#tn21" n="21"/> <hi rend="decoded">li signori Stati avvertiti, che il signor conte di Arga</hi><ptr target="#tn22" n="22"/> <hi rend="decoded"><lb/>
+il Scocese, ch’è al servitio de’ Spagnuoli havesse ottenuta <lb/>
+licenza di far levata in Inghilterra, et in Scotia: hanno <lb/>
+deliberato, che tre navi di guerra si vadino a metter <lb/>
+una appresso a Cales, l’altra presso Bologna, et la <lb/>
+3<hi rend="superscript">a</hi></hi><ptr target="#tn23" n="23"/> <hi rend="decoded">poco più in qua, con ordine di far pregione <lb/>
+et condur qui tutta quella soldatesca che <lb/>
+incontrassero, et li venisse per mano, che <lb/>
+andasse al servitio de’ Spagnuoli. <lb/>
+</hi></p>
+<p>Mi servirà d’informatione quanto la Serenità vostra si compiace <lb/>
+di significarmi nelle sue lettere de’ 15 del passato toccanti <lb/>
+l’eccellentissimo signor ambasciator Grritti, et delle cose de’ Grisoni. </p>
+<p>Qui aggiunte saranno le tre lettere mie n° 365 fin 367 repli-<lb/>
+cate. Gratie etc. </p>
+<p>Dall’Haya li 14 febraro 1622 </p>
+<p>di vostra Serenità<ptr target="#tn24" n="24"/> </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="509r" facs="10_509r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="509v" facs="10_509v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 369 comincia 368 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="160">
+<!--
+<p n="509vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 febraro 1621<ptr target="#tn25" n="25"/> ricevute x marzo </p>
+<p>Haia. 2<hi rend="superscript">a</hi>. n° 369 </p>
+<p>L. R. cum SS. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="161" corresp="160" source="507r-508v" >
+<div type="main" facs="main text of attachment I" n="161" corresp="160" >
+<!--<p>Allegato I al n. 160 (cc. 507r-508v; decodifica di cc. 504r, 505r, 506v)</p>-->
+<pb n="507r" facs="10_507r" rend="0"/>
+<head>main text of attachment I</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 369 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="507v" facs="10_507v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="508r" facs="10_508r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="508v" facs="10_508v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "il … essa" added above the deleted encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "publica … a nuova unione" decoding of the encrypted text can be found on c. 507r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "di … che bissogna" decoding of the encrypted text can be found on c. 507r; with cross-reference sign.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line on "li stati" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Second "-e-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by deleted words.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Ink stain.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-ebb-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Furono … servitio de’ Spagnuoli" decoding of the encrypted text can be found on c. 507r-v; with cross-reference sign.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "poco p-" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "S-" corrected above "E-."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

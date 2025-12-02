@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.076 date 1621-11-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">076</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 377r-381v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">376r-381v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from 29 October and reports he has visited the States General to represent the Venetian answer to the request of financial assistance. His response that there is not yet an open war has been received with astonishment. In this letter he pays attention to the body language of members of States General during his speech and replicates the speech of president (Magnus) who voices their dissatisfaction and offers a range of arguments to illustrate the point that they are clearly at war. After the meeting of States General, he receives three deputies who reiterate this point. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-11-22">22 novembre 1621</date>
+            <num>122</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="122">
+<div type="main" facs="main text of letter" n="122">
+<!--<p>22 novembre 1621, L’Aia (cc. 376r-381v)</p>-->
+<pb n="376r" facs="10_376r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Cut page"/></p>
+<pb n="376v" facs="10_376v" rend="270"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="377r" facs="10_377r" rend="0"/>
+<p>Prima </p>
+<p>n° 349 fin 350 </p>
+<p>Serenissimo Principe </p>
+<p>le lettere de’ 29 del passato, che ’l messaggiero d’Anversa riportò <lb/>
+qui essersi perse, finalmente doi giorni doppo l’ispeditione della <lb/>
+mia de’ 15, che invio qui aggiunta in copia mi furono rese <lb/>
+ben conditionate. Trovati nel piego quelle di vostra Serenità, et in <lb/>
+conformità della commissione, che mi dava per riferir a questi <lb/>
+signori fui il giovedì mattina nella loro assemblea, esponen-<lb/>
+dole tutto il contenuto con la più viva, et ordinaria maniera <lb/>
+che seppi, rappresentandole la buona, et inclinata volontà <lb/>
+della Serenità vostra di sodisfar alle loro instanze di aiuti nel <lb/>
+caso delle capitluationi; aggiungendoli quello, che espressamente <lb/>
+mi commanda di dire, esser conveniente veder il continuato <lb/>
+progresso delle operationi dei Spagnuoli, che riducendosi <lb/>
+il stato di queste Provincie a guerra aperta, che non si <lb/>
+poteva ancor affermare sarebbe concorsa vostra Serenità all’essecutione <lb/>
+de’ vivi effetti, et ch’ella desiderava fondatamente, et senza, <lb/>
+che si potesse imputar in contrario caminar all’assistenza <lb/>
+lor dissi insieme lo stato delli affari di Valtelina, le spese <lb/>
+a che era la Serenità vostra sottoposta, et le sue prudenti ragioni per <lb/>
+divertir li pensieri<ptr target="#tn1" n="1"/> dei Spagnuoli. Replicandole <lb/>
+pure il concetto, che sempre sarebbe stata pronta alla <lb/>
+sodisfattione nel caso del capitulato con quello di più, che <lb/>
+la materia stessa, et le commissioni di lei mi portavano. <lb/>
+Al proferir delle parole furono sempre attenti, et pendenti <lb/>
+gli occhi, et l’orrecchie dei signori Stati verso di me, et sen-<lb/>
+tendo il concetto, che non si poteva affermar guerra <lb/>
+aperta alcuni cominciorono trar della testa, altri abbassar
+<pb n="377v" facs="10_377v" rend="0"/>
+gl’occhi, et far altri motivi, che denotavano poca sodisfattione <lb/>
+et di questo, et di quanto seguitai sino alla fine della mia <lb/>
+espositione. Fornito c’hebbi di dire<ptr target="#tn2" n="2"/>, parlando <lb/>
+per qualche poco spatio di tempo li uni agl’altri, et <lb/>
+prendendo la parola di risponder il Magno di Zelanda <lb/>
+che mi era vicino disse a nome dell’assemblea. Che <lb/>
+ringratiavano vostra Serenità di quanto lor faceva dire della <lb/>
+buona corrispondenza, che continuava con queste Pro-<lb/>
+vincie, et della buona volontà, che affermava di haver <lb/>
+verso di loro; ma che non potevano far di meno di non <lb/>
+meravigliarsi grandemente, che da vostra Serenità una cosa così chiara <lb/>
+fosse messa in dubio, et si persuadesse altrimenti, che se <lb/>
+non fosse la guerra aperta in questi paesi; ch’ella si poteva <lb/>
+intender tale sin dal principio della spiratione della <lb/>
+tregua; ma pur l’uscita delli esserciti, ch’erano già <lb/>
+tre mesi, che si trovavano in campagna la denotava<ptr target="#tn3" n="3"/> <lb/>
+come le prese da una parte, et dall’altra delle genti, <lb/>
+il far pagar con ogni rigore le contributioni, il corrersi <lb/>
+il Paese, il sequestro dei beni dei sudditi tanto dalla <lb/>
+parte delli arciduchi, che da questa, il tentativo di surprender <lb/>
+in Fiandra l’isola di Cassant, che solo Dio benedetto haveva <lb/>
+voluto salvar quella parte; altrimenti se a Spagnuoli non <lb/>
+mancava il tempo a quest’hora Cassant sarebbe a loro <lb/>
+et in pericolo l’Esclusa. Al presente si vede la construttione <lb/>
+che si fa da quella banda di diversi ridotti, di un canal <lb/>
+col quale si ha mira di levarci ogni commodità, et
+<pb n="378r" facs="10_378r" rend="0"/>
+chiuder, et assediar l’Esclusa. Non ha mancato dallo Spinola <lb/>
+di far tentar la presa di Genop; si sente pur l’assedio for-<lb/>
+mato di Giuliers, ove sono tante, et tutte delle nostre genti, <lb/>
+et si può comprender il fine, ch’è di serrarci<ptr target="#tn4" n="4"/>. In somma <lb/>
+tante altre attioni, che questi signori non saprebbono esprimerle <lb/>
+così precisamente ad una ad una; stante le quali non deve <lb/>
+esser messo in dubio da sua Serenità, et dalla serenissima Republica <lb/>
+che non sia la guerra aperta; et in consequenza non dubitiamo, <lb/>
+che sarà pronto il denaro, et che voi haverete ordine <lb/>
+del darcelo, poiché il servitio, et l’interesse di questi Stati <lb/>
+lo comporta; et l’interesse anco di sua Serenità lo ricerca, che <lb/>
+si manteniamo. Habbiamo fatte levate di genti con sicurezza <lb/>
+che non dovesse mancarci il denaro dovutoci da sua Serenità. <lb/>
+Vi pregano questi signori a far sì ch’egli sia pronto, et quanto <lb/>
+più presto ci sia fatto esborsare. Et in fine havendo<ptr target="#tn5" n="5"/> riferito dello <lb/>
+stato della Valtelina in conformità di quanto dalla Serenità vostra <lb/>
+mi viene commesso, disse il medesimo signor Magno, che raccomman-<lb/>
+davano come altre volte havevano fatto a vostra Serenità quelli po-<lb/>
+veri popoli, che non li abandonasse, poiché anco si trattava <lb/>
+del particolar interesse di vostra Serenità. Io in questo dissi, che <lb/>
+haverei scritto; aggiungendo, che l’interesse anco di questi <lb/>
+signori era di assister a quei popoli per l’apertura, et commo-<lb/>
+dità, che haverebbono sempre havuta Spagnuoli di passar <lb/>
+per quella parte a loro piacere tanto a danno di questi <lb/>
+paesi, che dei loro confederati. Et nel particolar delli aiuti <lb/>
+per la capitulatione mostrai non haver, che dir loro di
+<pb n="378v" facs="10_378v" rend="0"/>
+vantaggio, replicando, che potevano esser certi, che nel caso della <lb/>
+capitulazione vostra Serenità non sarebbe stata punto tarda alla sodisfat-<lb/>
+tione. Non bastò a quelli dell’assemblea, che ’l Magno havesse <lb/>
+tocco tutto quello, che ho di sopra accennato; ma quasi ogn-<lb/>
+uno a parte volse rappresentar chi un caso seguito di hostilità <lb/>
+chi un altro di formata guerra; et principalmente il sindico <lb/>
+Duch della provincia di Holanda successo a Bernvelt,<ptr target="#tn6" n="6"/> <lb/>
+ch’è huomo di spirito, et di vivacità, et che parla libero. Disse <lb/>
+non so quello che la serenissima Republica vogli veder più chiaro <lb/>
+del nostro pericolo in questo Paese, et che sia guerra aperta <lb/>
+se non sente che Spagnoli siano venuti (preso il tutto) fin <lb/>
+nel bel mezo dell’Haya a pigliar noi altri per resto, che allhora <lb/>
+poi non ci sarà più bisogno di aiuti con pregiudicio anco di <lb/>
+sua Serenità medesima, replicando si vedono pur assediate le città <lb/>
+si sono pur fatti prigionieri, et tanti altri accidenti, che non vi <lb/>
+è persona, che possi<ptr target="#tn7" n="7"/> dire, che non sia guerra aperta. Ogni dì <lb/>
+non si può far fatti d’armi ognuno cerca il suo vantaggio <lb/>
+et se uno potesse pigliar all’altro non si lascierebbe adietro <lb/>
+piazza. Se fossimo stati qui all’Haya senza far ispeditione <lb/>
+della nostra armata con tanto interesse sarebbe già tutto <lb/>
+assolutamente perso, et con simili concetti terminò, concludendo <lb/>
+ognuno, che si sperava l’aiuto, et che sua Serenità meglio <lb/>
+informata anco delle ultime lettere delli signori Stati have-<lb/>
+rebbe sovenuto al loro bisogno, trovandosi aggravati <lb/>
+con tre armate doi in terra, et una in mare. Io procura[i] <lb/>
+nel pigliar licenza che restassero sodisfatti delle
+<pb n="379r" facs="10_379r" rend="0"/>
+prudenti considerationi di vostra Serenità, ma m’avidi bene che non <lb/>
+restorono contenti pregandomi di nuovo a rappresentarle quanto <lb/>
+sentivo, et vedevo io medesimo che seguiva, et uno mi disse, che <lb/>
+li signori Stati speravano, che tutto sarebbe venuto in una volta <lb/>
+et parve che volesse accennare del tempo doppo, che l’armata <lb/>
+era in campagna. </p>
+<p>Non bastò alli signori Stati le considerationi, et dirò le essagerationi fatte <lb/>
+che il doppo desinare mandorono a me tre della loro assemblea <lb/>
+et quello che portava la parola mi disse li signori Stati Generali perpelssi, <lb/>
+et meravigliati di quanto voi questa mattina havete esposto, <lb/>
+ci hanno mandato qui usando ogni confidenza con voi per <lb/>
+saper, poiché si vede pure, che noi siamo in guerra <lb/>
+formata se vi sia alcuno a Venetia, che porti malevolenza <lb/>
+a queste Provincie, perché non sano imaginarsi da che procedi <lb/>
+il dubio, che vostra Serenità si prende, et dubitano, che vi siano <lb/>
+alcuni poco ben affetti a questo Stato, che tentano <lb/>
+di mal informare, et abusar quella serenissima Republica io dissi, <lb/>
+che dall’eccellentissimo Senato mi<ptr target="#tn8" n="8"/> veniva scritto quanto havevo loro esposto <lb/>
+che voleva dir dalla prudenza di quella serenissima Republica, <lb/>
+che vede le cose, et le considera con quella maturità <lb/>
+ch’è sua propria. Conosce ben gl’affetti degl’invidi, et <lb/>
+de’ malevoli; ma il fondamento suo lo prende dalli emergenti <lb/>
+del mondo, et da quelle considerationi, che principe <lb/>
+prudente deve haver di fondatamente operare, et in <lb/>
+maniera, che non si possi opporle in contrario, diver-<lb/>
+tendo così il muover humori a pregiudicio della libertà
+<pb n="379v" facs="10_379v" rend="0"/>
+commune, et che pregavo sue Eccellenze a non haver altro senso, et creder <lb/>
+et tener per fermo, che quell’eccellentissimo Senato amava tanto gl’inte-<lb/>
+ressi di questi stati, quanto la conservatione del suo stesso Domi-<lb/>
+nio. Parve, che di questa assertione di prudente governo <lb/>
+restassero detti signori assai impressi; ma non lasciorono di replicar <lb/>
+per il soccorso. Et usando della loro solita confidenza meco <lb/>
+dissero, che havevano creduto li signori Stati, ch’io tenessi qualche <lb/>
+altra commissione secreta per l’esborso; ma che nell’assem-<lb/>
+blea non me n’havessi voluto in generale dichiarire, et per tanto <lb/>
+anco a tal effetto erano stati inviati per saper quello ci fosse. <lb/>
+Io ripigliai che la serenissima Republica quando havesse riputato esser <lb/>
+nel caso della capitulatione non haverebbe riguardato punto <lb/>
+a portar secrete le cose, che l’aleanza si sa ch’ella è fatta <lb/>
+che l’obligo è alla difesa; ma solo restava, che venissimo <lb/>
+al caso. Qui aggiungero oltre<ptr target="#tn9" n="9"/> molte delle cose dette di sopra,<ptr target="#tn10" n="10"/> prin-<lb/>
+cipalmente, che ’l terzo, et quarto capitolo dell’aleanza <lb/>
+parlavano assai chiaro.<ptr target="#tn11" n="11"/> Toccorono qualche cosa <lb/>
+della lettera scritta dal Spinola<ptr target="#tn12" n="12"/> a sua Eccellenza nella spiratione della tregua <lb/>
+quando li vasselli spagnuoli con i denari furono arrestati <lb/>
+dolendosene, poiché in Spagna si era dato salvo condotto <lb/>
+per un mese di più ai vasselli di questi paesi ad uscir <lb/>
+di quei porti; del tentativo fatto a Nardam, di tanti <lb/>
+prigiornieri fatti; de’ soldati fatti impicar, et decapitar <lb/>
+da una et dall’altra parte; del tentativo di pigliar <lb/>
+prigioniero il signor principe Henrico, sendosi gl’inimici <lb/>
+tirati la barba, che li fosse fallita l’intrapresa; che se
+<pb n="380r" facs="10_380r" rend="0"/>
+egli, et gl’altri de’ più principali signori, che erano seco non have-<lb/>
+vano buoni cavalli sotto facilmente cadevano si può dir perpetui <lb/>
+prisionieri. Tutto ciò riverentemente scrissi già passano quindeci <lb/>
+giorni. In somma con questi, et altri concetti volsero farmi <lb/>
+constare, che la guerra era aperta, et assolutamente rotta <lb/>
+aggiungendomi, che non vorrebbono certo, che si sapesse <lb/>
+questa difficoltà per non far rider li communi nemici. <lb/>
+Mostrorono inoltre dubio, che fosse pervenuta ad orrecchio <lb/>
+di vostra Serenità qualche voce di tregua, et che ciò divertisse il <lb/>
+suo buon animo; che la pregavano a non creder, che vi fosse <lb/>
+alcuna cosa in questo proposito; ma che siano artificii de’ <lb/>
+Spagnuoli per ingannare, et che non vi era manco apparenza <lb/>
+di trattare, mentre a lettere aperte queste Provincie sono <lb/>
+chiamate dal re di Spagna sue ribelli; et già la risposta <lb/>
+data al Pecchius mostrava ben chiaro esser stimato incapace <lb/>
+di trattar con esse chi vorrà parlar contra la loro sovranità. <lb/>
+Ma che li signori Stati haverebbono anco ben guardato<ptr target="#tn13" n="13"/> <lb/>
+prima d’entrar in trattato conoscendo purtroppo il re <lb/>
+di Spagna non haver altro pensiero, che di far perder queste <lb/>
+Provincie con<ptr target="#tn14" n="14"/> trattati. In fine disse noi non habbiamo <lb/>
+della conservatione di questi Stati, et della nostra libertà <lb/>
+più fondata sicurezza, che quella della serenissima Republica <lb/>
+come ella ci manca; male sarà per noi; et male anco <lb/>
+per lei perché Spagnuoli non ci contenteranno di haver <lb/>
+preso il vantaggio sopra di noi, che sarà con esser abando-<lb/>
+nati dal più sincero amico, che noi s’habbiamo sempre
+<pb n="380v" facs="10_380v" rend="0"/>
+promesso<ptr target="#tn15" n="15"/> di havere; ma passeranno anco a’ danni di quella <lb/>
+serenissima Republica et terminorono con pregarmi di nuovo a <lb/>
+rappresentar quanto era di vero tanto del seguito, quanto <lb/>
+di quello passava al presente a fine che vostra Serenità restasse <lb/>
+tanto meglio informata. Tutti questi concetti ho stimato <lb/>
+mio debito rappresentar distintamente a vostra Serenità a fine <lb/>
+che ella possi comprender la poca sodisfattione ricievuta<ptr target="#tn16" n="16"/> <lb/>
+da questi signori, ch’è moderata però dalla speranza di altri <lb/>
+migliori avvisi, et ordini di vostra Serenità per deliberar quello, che <lb/>
+stimerà di<ptr target="#tn17" n="17"/> servitio di lei, mentre la mala riuscita <lb/>
+in questi paesi, o qualche accordo che necessitati facessero <lb/>
+con Spagna non può riuscir che di disavantaggio<ptr target="#tn18" n="18"/> a quella<ptr target="#tn19" n="19"/> <lb/>
+serenissima Republica. Gratie etc.</p>
+<p>Dall’Haya li 22 novembre 1621<ptr target="#tn20" n="20"/> </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="381r" facs="10_381r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="381v" facs="10_381v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 349 fin 350<ptr target="#tn21" n="21"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="122">
+<!--
+<p n="381vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 novembre 1621 ricevute a’ 9 decembre </p>
+<p>Del segretario Suriano. n° 349. Prima </p>
+<p>Ha ricuperato le lettere de’ 29, et con l’<lb/>
+assemblea ha essequito gl’ordini publici nel <lb/>
+particolar della prontezza<ptr target="#tn22" n="22"/> di concorer <lb/>
+alle contributioni quando si sii in istituto dell’<lb/>
+aleanza, et aperta si vedi la guerra. </p>
+<p>Quei signori cominciarono a crollar lor <lb/>
+teste, et dar altri segni di poca sodisfattione. </p>
+<p>Il Magno di Zelanda rispose a nome de’ <lb/>
+tutti con rendimento di gratie delle parole d’<lb/>
+ufficio, ma con espression di meraviglia <lb/>
+che si ponesse da Serenità vostra in dubbio che non <lb/>
+fosse la guera aperta. </p>
+<p>Che tale si dovea intenderla da che si rupe <lb/>
+la tregua. </p>
+<p>Già tre mesi eran usciti li eserciti. </p>
+<p>S’erano fatti hinc inde prigioni. </p>
+<p>S’era corso il Paese, sequestrati mutualmente <lb/>
+li beni de’ sudditi. </p>
+<p>S’era tentata la surpresa di Cassant de’ Spagnuoli. </p>
+<p>Al presente si constuiscono a quella banda ridotti <lb/>
+un canale per chiuder l’Esclusa. </p>
+<p>Lo Spinola ha tentato Genop. </p>
+<p>Vi è, l’assedio formato di Giuliers, oltre <lb/>
+molt’altre ragioni. </p>
+<p>Hano fatto le levate col fondamento di questa contributione. </p>
+<p>Mostrarono non dubitar che infine non siino per esser <lb/>
+pronte. </p>
+<p>Raccomandano Grisoni alla Republica. </p>
+<p>L. SS. </p>
+<p>L. R. </p>
+<p n="381vD">———</p>
+<p>Ognuno poi dell’assemblea agionse <lb/>
+qualche caso che dichiara la guerra <lb/>
+et il sindico parlò più libero dicendo <lb/>
+che se Spagnoli vengono all’Haia<ptr target="#tn23" n="23"/> non <lb/>
+sa veder aperta magiormente la guerra <lb/>
+ma allhora non vi sarebbe più bisogno <lb/>
+d’aiuti; et se si fosse stati senza <lb/>
+armarsi già tutta la Fiandra <lb/>
+saria de’ Spagnoli. Ogni dì non si fa fatti <lb/>
+concludendo che s’assicurasse<ptr target="#tn24" n="24"/> meglio <lb/>
+informar la Republica anche dalle <lb/>
+ultime de’ signori Stati havrebbe <lb/>
+concorso. </p>
+<p>Si trovano con 3 armate. </p>
+<p>Mandano li Stati […]<ptr target="#tn25" n="25"/> <lb/>
+al secretario, li diccono <lb/>
+temersi vi sii qualche <lb/>
+mal effetto nella Republica contro essi <lb/>
+credevano che <lb/>
+il secretario havesse <lb/>
+qualche comissione <lb/>
+secreta di <lb/>
+dar il denaro. </p>
+<p>Uno disse <lb/>
+tutto credemo ver-<lb/>
+rà ad un <lb/>
+tempo <lb/>
+accen-<lb/>
+nando <lb/>
+la con-<lb/>
+[…]<ptr target="#tn26" n="26"/> <lb/>
+[…]<ptr target="#tn27" n="27"/> </p>
+<p n="381vA">———</p>
+<p>L’uscita in campagna. </p>
+<p>Dissero che il 3° e 4° capitolo <lb/>
+della lega parla chiaro. </p>
+<p>Replicarono diversi casi di fationi<ptr target="#tn28" n="28"/> <lb/>
+non voriano si risapesse questo <lb/>
+negotio per non far rider li communi <lb/>
+nemici. </p>
+<p>Assicurarono non esservi alcuna <lb/>
+tratativa di tregua, ben si guar-<lb/>
+deranno dai trattati. </p>
+<p>Che non hanno maggior sicurezza <lb/>
+né apogio che la lega della Republica. </p>
+<p>Il disvantaggio è moderato con la speranza <lb/>
+di veder alterata da sua Serenità la risolutione. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "li pensieri" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "di dire" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-n-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> This "-r-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Senato mi" added above the deleted word with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "dal Spinola" added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line on "ton" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "di disa-" is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "qu-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-21" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Uncertain reading of this word.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain reading of this word.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Uncertain reading of this word.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

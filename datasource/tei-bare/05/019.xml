@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.019 date 1617-11-15</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 118r-119v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">118r-119v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this brief letter, Suriano writes he has received news from Amsterdam where ships from Spain have recently arrived that all Levenstein’s ships are together near Cape Finisterre. He adds that the same news has been confirmed by letters coming from Rotterdam. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-15">15 novembre 1617</date>
+            <num>037</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="037">
+<div type="main" facs="main text of letter" n="037">
+<!--<p>15 novembre 1617, L’Aia (cc. 118r-119v)</p>-->
+<pb n="118r" facs="05_118r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>in questo ho inteso per la via di Amsterdam, che <lb/>
+dalli patroni dei vasselli arrivati in quel porto <lb/>
+che vengono di Spagna si ha havuta nuova, <lb/>
+che dieci giorni sono havevano rancontrato <lb/>
+il signor conte di Levenstein sopra l’altura del <lb/>
+Capo Finis Terrae lontano di qua<ptr target="#tn1" n="1"/> dallo Stretto cinquanta <lb/>
+leghe; et dicono che habbia fatto gran camino <lb/>
+per li buoni venti, che lo seguiva, et tutti <lb/>
+li vasselli erano insieme. Le lettere di Am-<lb/>
+sterdam sono del giorno d’hieri, et mentre <lb/>
+scrivo, anco per la via di Rotterdam mi viene <lb/>
+affermato haversi lo stesso avviso il quale <lb/>
+stimando, che possi riuscir di sodisfattione <lb/>
+alla Serenità vostra l’intenderlo ispedisco le presenti <lb/>
+dietro all’ordinario, che già è partito per <lb/>
+Anversa. Hier mattina avanti ’l far del <lb/>
+giorno partì il Bordogna corriero con il mio <lb/>
+dispaccio per vostra Serenità, et facendo<ptr target="#tn2" n="2"/> il viaggio in diligenza <lb/>
+sarà hoggi o dimani otto alla più lunga costì. Gratie etc. </p>
+<p>Dall’Haya a’ 15 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="118v" facs="05_118v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="119r" facs="05_119r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="119v" facs="05_119v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="037">
+<!--
+<p n="119vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>15 novembre 1617 ricevute a’ 6 decembre </p>
+<p>Haya </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "di qua" added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-ce(n)do" corrected above "-rò."</p></note>
+</div>
+</body>
+</text>
+</TEI>

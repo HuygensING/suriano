@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.046 date 1617-07-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">046</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 248r-v, 251r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">248r-v, 251r-v, 249r-250v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A brief letter that he received letters from Levenstein which he sends in attachment, and he hopes that they will be able to set sail on 5 August One document attached to this letter "Di Amsterdam a 4 luglio 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-05">5 luglio 1617</date>
+            <num>075, 076</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="075">
+<div type="main" facs="main text of letter" n="075">
+<!--<p>5 luglio 1617, L’Aia (cc. 248r-v, 251r-v)</p>-->
+<pb n="248r" facs="04_248r" rend="0"/>
+<head>main text of letter</head>
+<p>4<hi rend="superscript">ta</hi> </p>
+<p>Serenissimo Principe </p>
+<p>in questo punto vengo di ricever lettere del giorno di hieri <lb/>
+del signor conte di Levenstein, et ho havuta fortuna che ’l <lb/>
+messaggiero per qualche accidente non era ancor partito <lb/>
+onde ripresso il piego mio che già li havevo consignato <lb/>
+ve le aggiungo. Dalla traduttione di esse vedrà ciò che <lb/>
+passa, et la speranza che mi dà di esser pronto all’<lb/>
+imbarco per li 5 di agosto. Il tempo mi par lungo: tuttavia <lb/>
+non vi è altro rimedio. Mi dice di esser qui fra<ptr target="#tn1" n="1"/> tre o <lb/>
+quattro giorni per darmi conto di quello ha<ptr target="#tn2" n="2"/> fatto; et <lb/>
+io mi preparo a sentir qualche instanza, et qualche <lb/>
+compianto; et procurerò di salvarmi alla meglio che <lb/>
+potrò colla sodisfattione publica, et privata. Gratie etc. </p>
+<p>Dall’Haya a’ 5 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="248v" facs="04_248v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="251r" facs="04_251r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="251v" facs="04_251v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>4<hi rend="superscript">ta</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="075">
+<!--
+<p n="251vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 luglio 1617 ricevute a’ 19 detto </p>
+<p>Haya </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="076" corresp="075" source="249r-250v" >
+<div type="main" facs="main text of attachment I" n="076" corresp="075" >
+<!--<p>Allegato I al n. 75 (cc. 249r-250v)</p>-->
+<pb n="249r" facs="04_249r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya de’ 5 luglio 1617 </p>
+<p>Havendo ricevuta la vostra delli doi di questo mese io ho inteso <lb/>
+che Giacomo, ch’è stato appresso il capitan Mario vi haveva apportata <lb/>
+qualche sicurezza de’ miei affari: tuttavia perché io credevo di <lb/>
+mandar a voi il capitano Tornon affinché vi dicesse particolarmente come <lb/>
+tutte le cose passavano, io ho tralasciato di scrivervi fino a <lb/>
+quest’hora: l’affare per tanto è in maniera tale accomplito <lb/>
+ch’io ho inviato cinque giorni sono dentro il Paese per avanzar <lb/>
+le mie genti, che saranno come vi è stato detto per li cinque <lb/>
+di agosto all’imbarco. Et io spero dentro doi o tre giorni <lb/>
+esser all’Haya per informarvi a bocca di quello che è <lb/>
+passato, et spero a sodisfattione; quanto al tempo è stato <lb/>
+impossibile farlo più presto, non havendo che fornito <lb/>
+di accordarmi per il che è necessario che vi corrino quattro <lb/>
+settimane per condur le truppe fino a Embden facendo fine <lb/>
+etc. </p>
+<p>Io vi supplico di tener questa lettera secreta tanto al capitano Mario <lb/>
+quanto alli altri fin tanto ch’io sarò all’Haya per <lb/>
+le ragioni che allhora vi dirò. </p>
+<p>Di Amsterdam a’ 4 luglio 1617<ptr target="#tn3" n="3"/> </p>
+<pb n="249v" facs="04_249v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="250r" facs="04_250r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="250v" facs="04_250v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "-nno" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Follows on the next line "d" erased.</p></note>
+</div>
+</body>
+</text>
+</TEI>

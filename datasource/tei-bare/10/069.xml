@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.069 date 1621-10-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">069</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 348r-349v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">348r-349v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters of 2 and 5 October, he has travelled to Amsterdam for the commission of the grain and reports that with news from Poland, the prices will increase. He also reports rumours in Amsterdam that Venice is conducting business with Deodati which complicates his task significantly. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-10-26">26 ottobre 1621</date>
+            <num>111</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="111">
+<div type="main" facs="main text of letter" n="111">
+<!--<p>26 ottobre 1621, Amsterdam (cc. 348r-349v)</p>-->
+<pb n="348r" facs="10_348r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 342 seguita 340 fin 341 </p>
+<p>del giorno d’hieri </p>
+<p>Serenissimo Principe </p>
+<p>havevo già fornite, et sigillate le doi altre lettere mie<ptr target="#tn1" n="1"/> n° 240 <lb/>
+et 241 quando, sendo per ispedir il pacchetto mi pervenero quelle <lb/>
+della Serenità vostra de’ 2 et de’ 5 dello stante. Di queste che toccano <lb/>
+il negotio de’ iesuiti mi valerò quando me ne sia promosso <lb/>
+discorso; et per la commissione del partito de’ formenti com-<lb/>
+messomi nell’altre non volendo perder tempo mi sono messo in <lb/>
+camino per questa città; ma stante la mala stagione <lb/>
+che corre, et il vento contrario, che mi ha tenuto più <lb/>
+di sei quasi sett’hore su l’acqua sono arrivato tardo <lb/>
+onde non posso dar preciso conto a vostra Serenità di alcun trattato <lb/>
+solo ho presentito, che sono avvisati in questa piazza <lb/>
+haver ella fatto partito con un Deodati per una <lb/>
+buona quantità di grani a lire 26, et a 24 il staro <lb/>
+moneta di banco, et questo in particolare scrive il signor Melchior <lb/>
+Noirott a questi suoi corrispondenti, et che la Serenità vostra <lb/>
+haveva trattato anco con altri; et stabilito intorno la <lb/>
+medesima valuta pur di moneta di banco. Non posso <lb/>
+se non dubitare, che questo mi difficulti il negotio <lb/>
+ma non mancarò di valermi di tutta quell’industria, <lb/>
+che a me sarà possibile per pervenir a qualche <lb/>
+effetto; procurando quel vantaggio, che mi <lb/>
+sarà possibil maggiore per servitio di vostra Serenità. Questi <lb/>
+che hanno grani nei magazini stano retirati nel
+<pb n="348v" facs="10_348v" rend="0"/>
+venderli, stanti gl’avvisi di Polonia, persuadendosi, che se il <lb/>
+Turco fa progressi in quella parte, penuria sarà il poterne <lb/>
+ritrare; male stimano di poter far maggiore il loro profitto <lb/>
+o sia qui nel Paese, o fuori stante anco la voce, che diversi <lb/>
+principi di Europa siano per li loro Stati in gran necessità. <lb/>
+Tenterò com’ho detto il meglio, et il più vantaggio, che <lb/>
+mi sarà possibile tenendomi più basso delle 24 lire moneta <lb/>
+corrente il staro, et se doverò necessitato avanzarmi non <lb/>
+passerò il segno delle dette 24 in conformità di quanto di <lb/>
+vostra Serenità precisamente mi viene commandato; et con prime <lb/>
+le darà riverente avviso di quanto haverò essequito. Gratie etc. </p>
+<p>D’Amsterdam li 26 ottobre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="349r" facs="10_349r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="349v" facs="10_349v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 342 seguita il n° 340 <lb/>
+et 341 aggiunto<ptr target="#tn2" n="2"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="111">
+<!--
+<p n="349vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 ottobre 1621 ricevute a’ xi novembre </p>
+<p>Del segretario Suriano. n° 342. 3<hi rend="superscript">a</hi> </p>
+<p>Avuta la ricevuta del’ordine <lb/>
+di procurar grani, l’essequirà <lb/>
+seben crede dover incontrar <lb/>
+difficoltà. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

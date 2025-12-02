@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.069 date 1617-08-15</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">069</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 370r-372v, 375r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">370r-372v, 375r-v, 373r-374v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Levenstein asked Suriano about the news coming from Venice regarding his proposed levies. They discuss the matter before he travels to Amsterdam. His new offer in translation is enclosed. Approval by Count of Emden, troops can set sail from Delfzijl. Six of seven ships are being sent against corsairs by States General. Frederick of Palatinate travelled to Sedan to meet with Bouillon and the ambassador of elector of Mainz is in Brussels. One text attached: "a copia di una lettera e di una scrittura del conte Levenstein"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-15">15 agosto 1617</date>
+            <num>118, 119</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="118">
+<div type="main" facs="main text of letter" n="118">
+<!--<p>15 agosto 1617, L’Aia (cc. 370r-372v, 375r-v)</p>-->
+<pb n="370r" facs="04_370r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>all’arrivo delle lettere delle Eccellenze vostre illustrissime ne hebbi anco del signor Conte <lb/>
+di Levenstein, che mi pregava di significarli se havevo havuto <lb/>
+qualche cosa nel particolar della offerta fatta da lui della <lb/>
+levata delli altri mille cinquecento fanti. Io gli rescrissi <lb/>
+che sì, et che era necessario, che fossimo insieme, et che però <lb/>
+non potendo io partire per qualche ufficio con questi signori <lb/>
+si contentasse di arrivar fin qui aggiungendogli <lb/>
+che in tanto poteva pensare a regolar la dimanda <lb/>
+che haveva fatta delli 40 mila ducati. Egli venne <lb/>
+domenica mattina, et havendogli io detto che la sua <lb/>
+dimanda era troppo grande, et eccedeva di molto <lb/>
+la prima mi rispose, che potevo io stesso considerare <lb/>
+che non era possibile far con meno perché si trovava <lb/>
+grandemente di sotto per quello che haveva fatto, et che <lb/>
+quando vostra Serenità havesse havuto bisogno delli detti <lb/>
+1500 fanti gli era del tutto impossibile il farli <lb/>
+col medesimo denaro delli primi pur doppo qualche <lb/>
+parole si ridusse a dirmi, che quello che in fine <lb/>
+havesse potuto far meno sarebbe stato di 36 mila ducati. <lb/>
+Disse, che li haverebbe voluti tutti alla mano <lb/>
+ha però detto, che si contenterà di haver la metà in <lb/>
+Amsterdam, et l’altra metà all’imbarco, che <lb/>
+haverebbe dato ordine, che li vasselli, et le genti
+<pb n="370v" facs="04_370v" rend="0"/>
+sarebbono state preste al partire, quando fosse venuto l’avviso <lb/>
+et haverebbe lasciato il conte Gio. Casimiro suo fratello, et egli <lb/>
+sarebbe partito con questa prima levata, con dar buon ordine <lb/>
+per tutte le cose. Tornato in Amsterdam m’ha hoggi spedito <lb/>
+un huomo espresso con sue lettere, et li capitoli, che <lb/>
+disigna mandar alla Serenità vostra perché io scrivi in confor-<lb/>
+mità, et io ho fatta la traduttione et della lettera, et della <lb/>
+scrittura, che invio con queste<ptr target="#tn1" n="1"/>, mandarò<ptr target="#tn2" n="2"/> <lb/>
+ad esso signore una lettera come mi ricerca per vostra Serenità et la copia di <lb/>
+questa et delle altre mie doi lettere perché colla stessa occasione <lb/>
+provenghino a<ptr target="#tn3" n="3"/> lei, mandando le presenti per la via <lb/>
+d’Anversa. Non parla in questi capitoli alcuna cosa di <lb/>
+sicurtà, se ben io gliene ho tocco, che mi disse temer di <lb/>
+non haverla così pronta, et io lo credo coll’essempio del <lb/>
+passato, et tuttavia sarà necessario che la Serenità vostra mi avvisi <lb/>
+in quello particolare come nel resto anco quello vorrà ch’io facci. Nella <lb/>
+sudetta polizza o sia offerta vedrà la spesa, che <lb/>
+anderà per questa levata, non vi è altro che il pagar <lb/>
+per 3 mesi per il viver alli soldati, che presupongo <lb/>
+che non sarà tanto. Se ben senza dubio li marinari <lb/>
+fano sempre provisione de’ viveri per tre mesi. </p>
+<p>Il conte di Embden in fine ha concesso, che il signor di Levenstein <lb/>
+possi far marchiar le genti sul suo non però per tutto il </p>
+<pb n="371r" facs="04_371r" rend="0"/>
+<p>Paese; ma per una parte, et là s’imbarchino a Delfsil. <lb/>
+Va arrivando in quella piazza ogni giorno la soldatesca <lb/>
+et havendo già il signor Conte ispedite cinque navi, credo, che <lb/>
+saranno arrivate per l’imbarco. Et hoggi ho inteso esserne <lb/>
+partita una d’Amsterdam, et una da Encusen. Et è <lb/>
+necessario che vadino prontamente perché non si sbandino <lb/>
+li soldati; et per far piazza agl’altri, che anderanno <lb/>
+arrivando. Il signor conte Guglielmo governator di Frisia <lb/>
+attende a favorir questa levata. A me, et anco al <lb/>
+Conte ha scritto perché egli provedi di denari per il man-<lb/>
+tener dei soldati acciò non succedino degl’inconve-<lb/>
+nienti, et egli mi ha detto, che ne haveva già ispedite <lb/>
+al suo Quartiermastro. Posso ben dir alla Serenità vostra <lb/>
+che non bisogna, che ’l Conte perdi oncia di tempo <lb/>
+nel sollicitar li vasselli al partire perché se bene <lb/>
+promisero, et dovevano esser pronti per li 25 del <lb/>
+passato in ogni modo non si curano di mancar della parola. </p>
+<p>Dovendo andar sei, o sette navi da guerra verso Barbaria<ptr target="#tn4" n="4"/> <lb/>
+per l’assicuratione della navigatione, come scrissi alla <lb/>
+Serenità vostra che dovevano fare, se ben con altro oggetto <lb/>
+come si crede, già hanno havuta la mostra, et sono per partir fra pochi giorni, et questi<ptr target="#tn5" n="5"/> signori
+<pb n="371v" facs="04_371v" rend="0"/>
+vorrebbono se li vasselli del signor Conte fossero ad ordine colle genti, <lb/>
+che questi andassero per loro scorta fino di là lo stretto, et <lb/>
+me lo dissero sabbato nell’assemblea. Onde questo mi ha <lb/>
+data materia di farli<ptr target="#tn6" n="6"/> pregar questa mattina <lb/>
+col mezo del Presidente, al quale ho parlato perché scrivesser[o]<ptr target="#tn7" n="7"/> <lb/>
+alli magistrati di Amsterdam, d’Huorom<ptr target="#tn8" n="8"/>, et Encusen <lb/>
+a fine che questi con la loro auttorità commandassero <lb/>
+alli patroni dei vasselli di partire, et faccio tutto quello <lb/>
+che mi è possibile perché quanto prima vadino dette genti. <lb/>
+Il mio esser hora a Delfsil senza che vi siano tutte <lb/>
+le navi non è necessario perché non servirebbe a niente. <lb/>
+Subito partite d’Amsterdam ho concertato col Conte che <lb/>
+verrà a levarmi per andar alla detta piazza a dar <lb/>
+mostra alle genti. </p>
+<p>L’andata del serenissimo Elettor palatino a Sedan ad abboccarsi col signor <lb/>
+duca di Buglione è qui interpretata da alcuni, et dall’agente suo <lb/>
+in particolare che sia per parlar parlar* seco secondo l’eletione di re de’ Romani <lb/>
+mentre vede che l’Imperatore et il serenissimo Ferdinando vogliono tirar <lb/>
+affatto dalla sua il duca di Sassonia, et per haver il suo parere <lb/>
+se la Francia si congiongerebbe con li principi dell’Unione a far <lb/>
+ostacolo a questa successione nella persona di Ferdinando; ma questo <lb/>
+par che sia se non discorso fondato sopra le cose correnti, et vostra <lb/>
+Serenità ne deve haver miglior informatione. </p>
+<pb n="372r" facs="04_372r" rend="0"/>
+<p>Quello che si dice a Brusseles dell’abboccamento di sua Maestà cesarea <lb/>
+et il serenissimo Ferdinando con Sassonia, vogliono che sia per il <lb/>
+medesimo rispetto dell’elettione di Re de’ Romani, et che <lb/>
+per rendersi benevolo esso duca di Sassonia<ptr target="#tn9" n="9"/> li prometteranno <lb/>
+li stati di Cleves, et Giuliers, seguendo le loro<ptr target="#tn10" n="10"/> pretensioni <lb/>
+et li Spagnuoli offeriscono di aiutarlo al conquisto; <lb/>
+aggiungendo il Pasini, che l’arciduca Alberto lo coadiu-<lb/>
+verà; che in quella città si vociferava di far levata di doi reggimenti Valoni; publicano per il re Ferdi-<lb/>
+nando; ma si teneva certo, che havesse ad esser per tal <lb/>
+effetto. </p>
+<p>Appresso sue Altezze si trovava un ambasciatore del serenissimo elettor <lb/>
+di Magonza; ma per anco non si sapeva, né si penetrava il suo negotio. </p>
+<p>Intendendo questi signori, che ’l re di Danimarca con li suoi <lb/>
+deputati alla corte imperiale tentava l’anulatione <lb/>
+dell’aleanza delle città ansiatiche con questi Stati <lb/>
+hanno risoluto di ispedire loro persona espressa <lb/>
+perché risiedi a Lubech, come città la principale <lb/>
+delle ansiatiche, che sono collegate a’ signori Stati <lb/>
+per contenerle in ufficio, poiché doppo, che l’Imperatore, <lb/>
+et li serenissimi arciduchi mandorono ad essi suoi ministri <lb/>
+per tentar questa anulatione intendono anco, che ’l re
+<pb n="372v" facs="04_372v" rend="0"/>
+di Spagna vogli mandar persona per sua parte per simil tentativo. <lb/>
+Quello ch’è stato dichiarito è di Frisia partì doi giorni sono <lb/>
+verso casa sua, et di là anderà alla sua residenza che sarà <lb/>
+dentro dodici<ptr target="#tn11" n="11"/> o quindeci giorni, il che viene interpre-<lb/>
+tato, che detti principi pensino a disfar le amicitie di <lb/>
+questi stati per renderli più deboli; considerando alcuni <lb/>
+che faranno anco altrettanto con la Francia et con l’Inghilterra <lb/>
+se potranno. Gratie etc. </p>
+<p>Dall’Haya a’ 15 agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="375r" facs="04_375r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="375v" facs="04_375v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="118">
+<!--
+<p n="375vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>15 agosto 1617 ricevute a’ 30 detto </p>
+<p>Haya. 3<hi rend="superscript">a</hi> </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="119" corresp="118" source="373r-374v" >
+<div type="main" facs="main text of attachment I" n="119" corresp="118" >
+<!--<p>Allegato I al n. 118 (cc. 373r-374v)</p>-->
+<pb n="373r" facs="04_373r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettera del signor conte de Levenstein de’ 15 agosto <lb/>
+d’Amsterdam </p>
+<p>Signore </p>
+<p>havendo io doppo il suo ritorno in Amsterdam sufficientemente pensato a quello <lb/>
+che non habbiamo trattato insieme sopra la risolutione di sua Serenità intorno la levata <lb/>
+di 1500 huomini, ch’io ho ricercato di condure per li 40 mila ducati, ho in fine <lb/>
+trovato esser impossibile di farla con meno di quello ch’è espresso nella <lb/>
+memoria o articoli qui aggionti, et tuttavia l’armi, le bandiere, i tam-<lb/>
+buri, et altre cose sarò io forsato proveder della mia propria borsa; nondi-<lb/>
+meno stando insieme con voi a l’Haya essendomi risoluto di farla <lb/>
+ancora per il pretio che dentro della memoria descritta, io non mancarò <lb/>
+della parola, et stimarò sempre quel denaro ben impiegato che sarà <lb/>
+speso per il mio honore et per il servitio di sua Serenità. A questo affetto <lb/>
+adunque invio le presenti a vostra Serenità affine che far conformi gl’articoli ch’ella <lb/>
+invierà a Venetia ai miei et obligarmi d’una lettera di raccomandatione a <lb/>
+sua Serenità, perché la risolutione della concessione possi esser più facilmente al più tosto <lb/>
+inviata. Et perché mi riporti essa scrittura io ho commandato all’dator <lb/>
+delle presenti d’aspettar a l’Haya affine che subito che me la haverà <lb/>
+portata io possi immediate ispedire un corriere espresso a sua Serenità, verso <lb/>
+la qual io mi piegerò mi sarà possibile per darle a conoscer la devotione <lb/>
+ch’io tengo, di conservarmi continuamente suo humilissimo et obediente servitore. </p>
+<p>Per l’effettuatione di questa levata io di già ho fermati tre buoni vasselli et <lb/>
+havendo la risposta haverò lasciato così buon ordine et instruttione a mio <lb/>
+fratello che non gli sarà difficile l’effettuar il resto. Io supplico d’haver <lb/>
+la lettera di favore per sua Serenità quanto prima affine di poter ispedire <lb/>
+il corriere, et terrò questo perpetuamente per una d’una più gran[de]<ptr target="#tn12" n="12"/> <lb/>
+favore et obligatione, che io potrò haver, restando. </p>
+<pb n="373v" facs="04_373v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="374r" facs="04_374r" rend="0"/>
+<p>Memoria di quello che costeranno li 1500 huomini ch’io <lb/>
+ho intrapreso di levar di più </p>
+<table>
+<row role="label">
+<cell><p>Il nolo de’ vasselli a 22 fiorini per testa</p></cell>
+<cell><p>fiorini 33000 </p></cell>
+</row>
+<row>
+<cell><p>Le spese di bocca a sette soldi per huomo per tre mesi come <lb/>
+è il costume</p></cell>
+<cell><p>47250 </p></cell>
+</row>
+<row>
+<cell><p>Per il calcolo a dodeci soldo per huomo che monterà per 150 <lb/>
+persone de vantaggio</p></cell>
+<cell><p>3375 </p></cell>
+</row>
+<row>
+<cell><p>Per la levata de mille cinque cento huomini</p></cell>
+<cell><p>10000 </p></cell>
+</row>
+<row>
+<cell><p>Che monta in tutto</p></cell>
+<cell><p>93625 </p></cell>
+</row>
+</table>
+<p>Li trenta sie<ptr target="#tn13" n="13"/> milla ducati a cento grossi per ducato montano fiorini 90 000 <lb/>
+et come si vede per la specificante che il di sopra monta più non di meno essendomi <lb/>
+lasciato ridure da 40 000 ducati alli 36 000, io mantenirò la mia parola <lb/>
+havendo più riguardo al mio honore ch’al profito. </p>
+<p>Et questa levata non impedirà il mio imbarco, il qual senz’alcun dubbio sarà fatto il primo. </p>
+<p>Per l’imbarco delli 1500 homini havendo di già fatto buona preparatione lascierò in questo luocho <lb/>
+mio fratello con sufficiente instruttione per effettuarlo et menar le genti quanto più presto sarà <lb/>
+possibile. </p>
+<p>Per dar denaro sopra la mano ai marinari per provisione di spese di bocca mi è bisogno <lb/>
+necessariamente la mettà dei 36 000 ducati. </p>
+<p>Et per il resto io intendo riceverli quando li 1500 homini saranno effettivamente imbarcati. </p>
+<p>Et affine che questa seconda levata passi col medesimo consenso tanto per il passo che per <lb/>
+la piazza, mostra, io la comanciarò incontinente di seguitarla alla prima, affine di non <lb/>
+haver la difficultà di adimender le dette permissioni alle dette Provincie et Stati. </p>
+<p>Io ho espedito<ptr target="#tn14" n="14"/> un espresso a mie spese per haver tanto più presto la concessione di questa <lb/>
+domanda, la quale io spero d’ottenere assicurandomi che chi si sia non l’essequirà con <lb/>
+minor spesa né di miglior volontà et devotione. </p>
+<p>Georgio Lodovico di Levenstein </p>
+<pb n="374v" facs="04_374v" rend="270"/>
+<p>Copia di una lettera et di una <lb/>
+scrittura del conte di Levenstein </p>
+<p>nella 3<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "havendo" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-rò" corrected above "-to."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "vostra Serenità" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "pregar" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Ink stain.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by a crossed-out word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.048 date 1622-09-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">048</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 259r-262v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">257r-258v, 259r-262v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letter 25 August. Reports that he was visited by someone who discussed financial arrangements with the utmost secrecy. Given the change in circumstances, the payments need to be redirected from Ferens to Calandrini. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-09-12">12 settembre 1622</date>
+            <num>076, 077</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="076" corresp="077" source="257r-258v" >
+<div type="main" facs="main text of attachment I" n="076" corresp="077" >
+<!--<p>Allegato I al n. 77 (cc. 257r-258v; decodifica di cc. 259r-260v)</p>-->
+<pb n="257r" facs="11_257r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya de’ 12 di settembre 1622 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="257v" facs="11_257v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="258r" facs="11_258r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="258v" facs="11_258v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="077">
+<div type="main" facs="main text of letter" n="077">
+<!--<p>12 settembre 1622, L’Aia (cc. 259r-262v)</p>-->
+<pb n="259r" facs="11_259r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 421 comincia 420 fin 422 </p>
+<p>Serenissimo Principe </p>
+<p>le lettere della Serenità vostra dei 25 del passato mi portano gl’ufficii <lb/>
+del signor Ferens a nome del signor conte di Mansfelt, et quelli del Calan-<lb/>
+drini a nome di questi signori con le risposte per ambidoi. Appunto <lb/>
+mi sono venute in tempo perché ho potuto risponder accom-<lb/>
+modatamente a chi m’ha parlato. </p>
+<p>Questa mattina mentre m’ero messo per scriver alla Serenità vostra <lb/>
+uno di quelli, che entrano nell’assemblea dei signori Stati <lb/>
+fu a vedermi, et mi disse, che era venuto espressamente <lb/>
+per communicarmi qualche cosa, che desiderava che <lb/>
+fosse tenuta secreta, et era, che già qualche mesi <lb/>
+passati per le continuate replicate assidue instanze <hi rend="decoded">fatte</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">alli signori Stati dal conte di Mansfelt <lb/>
+col mezo del signor Ferens et coaiuvate dal <lb/>
+re di Bohemia, et dopo dalli ministri <lb/>
+di sua Maestà, perché fossero</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">sostenute le <lb/>
+truppe di esso Mansfelt per il servitio <lb/>
+di detto Re, racordandosi il mezo, fu <lb/>
+proposto qualche assignamento sopra la serenissima Republica, <lb/>
+onde risolverono li signori Stati di assignarli <lb/>
+cinque mesi delli sei, o sette, che <lb/>
+almeno la serenissima Republica haverebbe a pagar <lb/>
+dopo</hi>
+<pb n="259v" facs="11_259v" rend="0"/>
+<hi rend="decoded">che fu cominciata ad attaccarsi <lb/>
+dall’inimico l’Esclusa, ma sendo <lb/>
+andate le cose in Alemagna altrimenti <lb/>
+di quello si sperava, sendo stato licen-<lb/>
+tiato Mansfelt con le suoi genti dal Re, <lb/>
+et havendosi penetrato per via dell’<lb/>
+ambasciator d’Inghilterra, che, ciò non ostante, esso Mansfelt haveva mandato a Venetia per <lb/>
+haver l’esborso di questo assignamento, mi <lb/>
+pregava, che poiché era stato fatto <lb/>
+per il rispetto sudetto di trattener le <lb/>
+genti a servitio del re di Bohemia, <lb/>
+et sendo cessato quel bisogno, non doves-<lb/>
+sero darsi esse cinque mesate al <lb/>
+Ferens: ma più tosto al signor Calan-<lb/>
+drini per li bisogni di questi paesi, <lb/>
+pregandomi instantemente a nome dei <lb/>
+deputati in questo affare, che non era <lb/>
+comune all’assemblea dei signori Stati <lb/>
+Generali, ma a tre, o quattro particolari <lb/>
+deputati, che fosse tenuto sconto, a fine <lb/>
+che non provenisse all’orecchio di</hi></p>
+<pb n="260r" facs="11_260r" rend="0"/>
+<p><hi rend="decoded">Mansfelt <lb/>
+per quei degni rispetti, che possono esser <lb/>
+ponderati dalla prudenza della serenissima Republica. <lb/>
+Io lasciai, che si compiacesse di dir <lb/>
+tutto quello, che voleva: poi gli dissi, <lb/>
+mi meravigliavo bene, che fosse <lb/>
+stato fatto un tal assignamento, mentre <lb/>
+havevo fatto intender alli signori Stati <lb/>
+et a parte anco, come pur la serenissima Republica <lb/>
+in risposta al signor Colandrini, ch’ella era <lb/>
+devenuta a quello, che convenientemente <lb/>
+se l’aspettava, et che potevo dirle, <lb/>
+che il Ferens non haverebbe havuto il detto <lb/>
+denaro, et che già la Serenità vostra haveva <lb/>
+dichiarito non esser tenuta ad altro, che <lb/>
+</hi></p>
+<p><hi rend="decoded">a quello, che sin qui ha fatto dopo la <lb/>
+risolutione sua de’ 8 di aprile passato, <lb/>
+accommodando questa risposta con alti concetti <lb/>
+propri al commandamento di lei. Detto signore <lb/>
+mostrò ben gusto di haver incontrato <lb/>
+in rispetto del Ferens quello, che desi-<lb/>
+derava: ma restò sospeso per l’altra <lb/>
+sì risoluta risposta: tuttavia ripigliò, et <lb/>
+disse, habbiamo buona speranza, che il <lb/>
+rifiuto al Ferens non sarà per li signori <lb/>
+Stati, et io in brevi parole ripigliai <lb/>
+che et per il Ferens, et per li signori Stati</hi>
+<pb n="260v" facs="11_260v" rend="0"/>
+<hi rend="decoded">non <lb/>
+vi vedevo più apparenza di più pen-<lb/>
+sava. Questo non mi rispose altro: <lb/>
+ma solo mi pregò di tener la cosa secreta. <lb/>
+</hi></p>
+<p>Io ho parlato assai chiaro con detto signore, et mi tenirò anco <lb/>
+(promosso) nei medesimi concetti, come anco se questi signori deve-<lb/>
+nissero ad instanza de’ maggiori soccorsi mi valerò dell’<ptr target="#tn3" n="3"/><lb/>
+instruzione, et ragione soministratami dalla Serenità vostra per <lb/>
+rimoverne il concetto. Voglio creder che manco dal <lb/>
+Calandrini si farà nuova instanza; egli per quanto intendo <lb/>
+si trattenirà costì fino alla venuta del<ptr target="#tn4" n="4"/> signor ambasciator <lb/>
+Berch. Questa mattina è partito verso la l’armata <lb/>
+un cognato di esso Calandrini con una lettera per il signor <lb/>
+principe d’Oranges, al quale scrisse ordinariamente <lb/>
+sendo passata la sua missione a Venetia per l’auttorità <lb/>
+dell’Eccellenza sua col solo conoscimento di tre o quattro dell’<lb/>
+assemblea auttorizati a tal effetto perché il negotio contasse <lb/>
+secreto. Io non ho potuto penetrar se non che scrivi <lb/>
+che desidera saper dall’Eccellenza sua come devva governarsi <lb/>
+se altro intenderò non mancarò di significarlo colla <lb/>
+mia solita riverenza. Gratie etc. </p>
+<p>Dall’Haya li 12 settembre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="261r" facs="11_261r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="261v" facs="11_261v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="262r" facs="11_262r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="262v" facs="11_262v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 421 comincia <lb/>
+420 fin 422 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="077">
+<!--
+<p n="262vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 settembre 1622 ricevute 28 detto </p>
+<p>Haya. n° 421 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "fatte … cosa secreta" decoding of the encrypted text can be found on cc. 257r-258v; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "instru-|tione" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "Berch" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

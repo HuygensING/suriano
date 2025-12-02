@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.008 date 1618-08-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 43r-44v, 49r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">43r-44v, 49r-v, 45r-46v, 47r-48v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Boissise has addressed the States General conveying the French king’s displeasure at the ongoing divisions in the Netherlands. The extraordinary ambassador is dismayed that the States General have taken the lead in ordering the soldiers to disarm within 48 hours. The edict (attached to this letter) was announced in The Hague and has been distributed to other cities. It is uncertain whether Leiden will comply. Pasini has passed on letter from Spanish ambassador in Venice that Venice lacks funds to maintain troops near border with Milan and about arrest of five ships. Reports that the arms suppliers for Levenstein request direct payment from Venice. Apologises for the delay in sending financial accounts from Amsterdam. Enclosed are also duplicates of his previous letters. Two documents attached: a copy of a letter by Filippo Calandrini dated 17 August 1618 and a placcard by the States General dated 18 Agust 1618 against raising of soldiers in some cities in Holland</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-21">21 agosto 1618</date>
+            <num>017, 018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="017">
+<div type="main" facs="main text of letter" n="017">
+<!--<p>21 agosto 1618, L’Aia (cc. 43r-44v, 49r-v)</p>-->
+<pb n="043r" facs="07_043r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 54 comincia 53<ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo </p>
+<p>l’Ambasciator straordinario francesce fece hoggi otto la sua espositione <lb/>
+a’ signori Stati a nome del suo Re mostrando il dispiacere, che la <lb/>
+Maestà sua sentiva di queste dissensioni, et rappresentando l’amore <lb/>
+del Re, et il desiderio che ha del mantenimento di questo Stato <lb/>
+di questa libertà, et dell’accommodamento per il qual effetto l’haveva <lb/>
+spedito, et perché vi tenesse la mano. Versando l’ufficio <lb/>
+suo in parole totalmente generali<ptr target="#tn2" n="2"/>, il quale ha fatto haver <lb/>
+anco per scritto all’Eccellenze loro; ma non ha però fin hora havuta <lb/>
+la risposta: in tanto non ha mancato di trovarsi spesso <lb/>
+con sua Eccellentia, et quelli del partito remonstrante fanno <lb/>
+ricorso a lui. Et mi disse il signor Principe sono tre che vogliono <lb/>
+haver l’honore del licentiar le genti li stati, le città<ptr target="#tn3" n="3"/> <lb/>
+stesse, et l’Ambasciatore; ma è conveniente, che li signori Stati habbino <lb/>
+la preeminenza: onde spiace grandemente ad esso Ambasciatore la <lb/>
+publicatione di un editto, che detti signori Stati han fatta <lb/>
+far<ptr target="#tn4" n="4"/> contra li soldati levati in queste piazze di Holanda. <lb/>
+Di questo mando qui aggiunta la traduttione che <lb/>
+in questo punto ho fatta fare per quelli dell’Eccellenze vostre <lb/>
+che havessero gusto d’intender il breve spatio di 48 <lb/>
+hore, che si dà alla detta soldatesca di disporre l’armi <lb/>
+et le pene, che lor sono ingionte contrafacendo <lb/>
+è stato publicato esso editto questa mattina a suono
+<pb n="043v" facs="07_043v" rend="0"/>
+di tamburo in questa Haya; affisso nei luochi principali, et <lb/>
+ispedito a tutte le città nelle quali vi è di simil soldatesca con <lb/>
+ordini a parte, che sia immediate essequito. Quelli di <lb/>
+Roterdam havevano fin di domenica cominciato a licentiar delle <lb/>
+sue genti in numero di centocinquanta; et restandone poco <lb/>
+meno di altrettanti furono ispediti deputati di quella città <lb/>
+per pregar sua Eccellenza che si lasciassero intertenir questi restanti <lb/>
+per la sicurtà della stessa città. Ella rispose, che non poteva <lb/>
+far cosa alcuna contra la deliberatione dei signori Stati; anzi <lb/>
+che in quanto havesse potuto haverebbe procurato, che le loro <lb/>
+risolutioni havessero effetto: onde si crede che doveranno <lb/>
+con questa nuova promulgatione licentiar il resto, et <lb/>
+tanto siano per far l’altre città. Leidem però par che <lb/>
+stia irresoluta: tuttavia rimediandosi a quello di che <lb/>
+teme quel Magistrato (ch’è di ricever qualche affronto dai <lb/>
+borghesi) mandandosi alcune compagnie delle pagate <lb/>
+dai signori Stati si crede, che anco in quella città si accorderà <lb/>
+la licenza; et così pian piano si anderanno riducendo <lb/>
+le cose a qualche buon stato, che Dio lo voglia. </p>
+<p>Invigilando il Pasini a quanto può in Brusseles toccante il servitio <lb/>
+di quella serenissima Republica ha havuto mezo di cavar copia di un <lb/>
+capitolo di lettere dell’ambasciator di Spagna che risiedeva a Venetia
+<pb n="044r" facs="07_044r" rend="0"/>
+nel qual dice, che a vostra Serenità per mantener l’armata, et genti, che <lb/>
+tiene ai confini di Milano non basta il denaro avanzato di <lb/>
+tanti anni; ma che andava pigliandone ad interesse, et tratta-<lb/>
+va di aggravar li vassalli con grandi impositioni, con che haverebbe <lb/>
+fornito di disgustar ognuno del suo governo; et che aggiunge <lb/>
+anco altre parole di poco rispetto. Mi dice di più haver <lb/>
+veduta una lettera scritta da quelli di Trieste al Marada<ptr target="#tn5" n="5"/> <lb/>
+dolendosi dell’arresto di qualche barche fatte da’ ministri <lb/>
+della Serenità vostra cinque cariche de’ salli, una di formenti, <lb/>
+et una di maioliche, et che dicono esser questo poco buon <lb/>
+segno di libero comercio, et la<ptr target="#tn6" n="6"/> lettera<ptr target="#tn7" n="7"/> è<ptr target="#tn8" n="8"/> de’ 18 del passato. <lb/>
+Io credo con lui che questa<ptr target="#tn9" n="9"/> lettera<ptr target="#tn10" n="10"/> si vadi<ptr target="#tn11" n="11"/> publicando <lb/>
+per metter in disreputatione et in odio la Serenità vostra a che esso <lb/>
+Pasini mi dice, che non mancarà di contrapporsi della manie-<lb/>
+ra che stimerà esser propria alla publica riputatione, <lb/>
+et al publico servitio. Et certo convengo replicarle riverentemente <lb/>
+esser questo un devotissimo, et svisceratissimo suddito di vostra Serenità <lb/>
+et che merita la gratia sua, et esser riconosciuto dalla sua <lb/>
+munificenza. Mi scrive aspettar risposta di quell’<lb/>
+ingegnero Gomorini, et che volontieri vorrebbe, ch’ella <lb/>
+havesse un tal huomo al suo servitio, et di ciò le scrissi a’ <lb/>
+24 del passato. </p>
+<pb n="044v" facs="07_044v" rend="0"/>
+<p>Quelli, che hanno proviste l’armi al signor conte di Levenstein mi sono <lb/>
+venuti a pregare, et hanno fatto far anco ufficio meco perché <lb/>
+havendo inteso da’ suoi agenti, che tratta il detto Conte <lb/>
+haver il pagamento per esse armi, vostra Serenità si compiaccia, <lb/>
+non far far a lui; ma ad essi l’esborso, come quelli, che <lb/>
+hanno date l’armi, et si sono contentati, che vadino sino <lb/>
+a Venetia a loro proprio rischio<ptr target="#tn12" n="12"/> né dal Conte hanno <lb/>
+havuto pur un soldo. Volevano ricorrer alli signori Stati; <lb/>
+ma per hora hanno tralasciato del farlo fidandosi, ch’io <lb/>
+gliene dovessi scriver; et sopra questa rappresentatione <lb/>
+della loro istanza (che a me pare giusta) la Serenità vostra <lb/>
+havesse a tener come in sequestro il denaro finché possino man-<lb/>
+dar persona costì per questo suo particolar grave interesse a farle <lb/>
+constar più chiare, et valide le sue ragioni, fondate <lb/>
+sopra reale, et liquido contratto. </p>
+<p>Vostra Serenità vedrà dall’aggiunta copia di lettere del Calandrini la dila-<lb/>
+tione, che mi si fraponne ad haver d’Amsterdam li conti. Io non <lb/>
+posso far altro che haver patienza quello che più mi duole <lb/>
+è il tedio, che apporto a vostra Serenità. </p>
+<p>Con queste haverà anco il dupplicato delle doi lettere mie de’ 14 del <lb/>
+presente n° 51, et 52 con le scritture che sono chiamate in esse. Gratie etc. </p>
+<p>Dall’Haya a’ 21 agosto 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="049r" facs="07_049r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="049v" facs="07_049v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> n° 54 comincia 53 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="017">
+<!--
+<p n="049vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 agosto 1618 ricevute a’ 5 settembre </p>
+<p>Haya. n° 54 </p>
+<p>Il Pasini dà conto di lettera <lb/>
+scritta dall’ambasciator della Cueva <lb/>
+che non basta il denaro messo <lb/>
+da parte per pagar le navi <lb/>
+ma ne pigliano a interesse. </p>
+<p>Lettera del Marada dolendosi di <lb/>
+arresto di barche de’ sali, formenti. </p>
+<p>3. Instanza di quelli hanno dato <lb/>
+l’armi al Levestein non <lb/>
+si facci a lui, ma a loro <lb/>
+l’esborso. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="018" corresp="017" source="45r-46v" >
+<div type="main" facs="main text of attachment I" n="018" corresp="017" >
+<!--<p>Allegato I al n. 17 (cc. 45r-46v)</p>-->
+<pb n="045r" facs="07_045r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya n° 54 de’ 21 agosto 1618 </p>
+<p>Copia del contenuto in lettere del signor Filippo Calandrini <lb/>
+d’Amsterdam a’ 17 d’agosto 1618 </p>
+<p>Martedì avvisai a vostra Signoria la ricevuta della sua, et che speravo presto <lb/>
+poterli dar avviso della terminatione di questi benedetti conti <lb/>
+sono stato diverse volte in Collegio, et raccommandatolo <lb/>
+molto instantemente sì che quasi mi vergogno di più andarci <lb/>
+in effetto li commissarii sono stati, et sono ancora absenti <lb/>
+et non lo fariano volontieri senza la loro presenza massime <lb/>
+per la ricompensa; così conviene haver ancor un po’ di <lb/>
+patienza. Ho fatta provisione per la paga di un <lb/>
+mese per le navi, et mando a Hoorn la loro portione <lb/>
+aspettavano, che fosse pagata qui anche la seconda mesata <lb/>
+secondo l’intentione data, et li partionevoli si metteranno <lb/>
+insieme, et risolveranno se li starà meglio haver lettere <lb/>
+separate da vostra Signoria per il resto, overo farlo tutto insieme <lb/>
+che glielo avviserò acciò possi mandar li ricapiti. <lb/>
+A me pareria, che non saria male per venir al saldo <lb/>
+con questi signori per li conti mandar qua il signor Luz <lb/>
+che potrà vivamente rimostrarli, il che da me non <lb/>
+saria così ben preso. Mi spiaceno queste lunghezze <lb/>
+ma non ci posso far altro. A vostra Signoria mi raccomando etc. </p>
+<pb n="045v" facs="07_045v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046r" facs="07_046r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046v" facs="07_046v" rend="270"/>
+<p>Contenuto in lettere del <lb/>
+Calandrini di Amsterdam </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 54 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="019" corresp="017" source="47r-48v" >
+<div type="main" facs="main text of attachment II" n="019" corresp="017" >
+<!--<p>Allegato II al n. 17 (cc. 47r-48v)</p>-->
+<pb n="047r" facs="07_047r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya n° 54 de’ 21 agosto 1618 </p>
+<p>Placarti fatto contro li soldati di Hollanda levati <lb/>
+in alcune piazze contro li ordini delli signori Stati Generali delle Province Unite de’ Paesi <lb/>
+Bassi </p>
+<p>Li Stati Generali delle Province Unite fan sapere ch’adesso più d’un anno passato <lb/>
+in diverse province et città fuori dell’ordine et modo consueto si è fatta <lb/>
+levata nuova di notabil numero di nuovi soldati quali sono fuori <lb/>
+del giuramento della Generalità et<ptr target="#tn13" n="13"/> di sua Eccellenza. Et viene a quello modo as-<lb/>
+soldato nel Paese dua sorte di soldati, il che necessariamente tenderia <lb/>
+a danno grandissimo, pregiuditio et divisione dalla singular unione quando <lb/>
+ognuno a sua propria voluntà et<ptr target="#tn14" n="14"/> appetito senza direttione della Generalità <lb/>
+sarebbe permesso far levate di nuove compagnie et disporne di sé, oltra <lb/>
+che le province et città ove questo si fa si rendono incapaci di pagar <lb/>
+lor contingente al commun tributo, a confusione del Stato, et accrescimento <lb/>
+d’ogni sorte di fattione et di annullatione della legitima autorità:<ptr target="#tn15" n="15"/> <lb/>
+noi con l’aviso di sua Eccellenza<ptr target="#tn16" n="16"/> del illustrissimo signor conte Guglielmo Ludovico de <lb/>
+Nassau locotenente generale etc. et del Conseglio di Stato per prevenir a tutti inconvenienti, et incomodità che sopra<ptr target="#tn17" n="17"/> stano<ptr target="#tn18" n="18"/> per tal rispetto a questi <lb/>
+paesi; habbiamo trovato<ptr target="#tn19" n="19"/> buono, et resoluto che per cassatione et li-<lb/>
+centiatione di detta nuova levata di soldati, saria senza alcuna <lb/>
+dilatione proceduto autorizzando perciò sua Eccellenza et certi nostri comme-<lb/>
+ssi uniti seco come è seguito nella città di Utrecht. Tuttavia come <lb/>
+ancora in alcune città di Hollanda non obstante la nostra resolu-<lb/>
+tione si continuano a notabil diservitio come è detto, aggiungendosi <lb/>
+a quello che li detti soldati in alcune città usano di grandissime <lb/>
+et esorbitanti insolenze, et scandali, dal che potrebbe nascere mag-<lb/>
+giori difficultà, et periculi. Sì che per prevenir a tempo, et per levar <lb/>
+li detti pericoli, et per ridur li buoni sudditi alla pristina quiete <lb/>
+è necessaria ubidienza nella quale lor erano avanti la levata <lb/>
+di questi nuovi soldati ordiniamo et comandiamo alli detti soldati <lb/>
+con lor capitani, et ufficiali et altri comandatori che fra il tempo di 48 <lb/>
+hore di poi la publicatione affixione o insinuation di questo
+<pb n="047v" facs="07_047v" rend="0"/>
+senza aspettar altro nuovo ordine o comandamento debbano prontamente et senza <lb/>
+replica alcuna depor lor armi et renuntiar<ptr target="#tn20" n="20"/> il giuramento partir da quei <lb/>
+servitii sotto pena che contravenendo, et tralasciando<ptr target="#tn21" n="21"/> tal di obedir a <lb/>
+questo ordine saranno puniti come ribelli et<ptr target="#tn22" n="22"/> perturbatori della comun <lb/>
+quiete tanto nella vita quanto nelli beni senza dissimulatione o <lb/>
+conivenza alcuna, et questo per dar essempio agl’altri; comandando <lb/>
+et ordinando a tutti, et ciascheduno offitiale, et a chi questo toccarà <lb/>
+et spetterà di far effettuare, et esequire il contenuto di questo nostro <lb/>
+edetto per tutto senza mancamento alcuno, perché habbiamo trovato <lb/>
+questo convenie<ptr target="#tn23" n="23"/> per la quiete, servitio, pace, assecuration, et ben star <lb/>
+di questo<ptr target="#tn24" n="24"/> stato delle Province Unite. Dato sotto il <lb/>
+nostro contro sigillo firma, et segnatura del notaro Griffieri nell’Haya <lb/>
+alli 18 di agosto 1618. Era fermata Adriaen van Man-<lb/>
+maker. Sotto diceva per ordinanza delli detti alti signori Stati Generali <lb/>
+signato c(onte) Arsens essendo sigillato del contrasigillo delle <lb/>
+loro alte potenze in cera rossa. </p>
+<pb n="048r" facs="07_048r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="048v" facs="07_048v" rend="270"/>
+<p>Placart contro li soldati levati in <lb/>
+alcune piazze di Hollanda </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 54 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-3" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line on "sono" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by -"no" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "nel" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "è" added above the line and crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "s" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-r" corrected above "-nte" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "tr-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the line.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "star di questo" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

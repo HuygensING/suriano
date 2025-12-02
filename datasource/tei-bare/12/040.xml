@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.040 date 1623-06-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">040</idno>
+                <idno type="shelf"> ASVe, Senato, Dispacci, Signori Stati, Filza 12, 402r-405v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">400r-401v, 402r-405v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the dire financial situation of Frederick V. Updates that the rulers of Saxony and Brandenburg are maintaining their defensive stance. Rumours about Bethlen Gabor gathering troops are circulating. Preparations by Mansfeld and Spanish troops are under way but funding remains a problem as representative of Gelre are meeting to discuss further contributions. Ships from WIC are preparing their voyage to Guinea and some Dutch ships have captured Portuguese vessels.  </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-06-19">19 giugno 1623</date>
+            <num>113, 114</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="113" corresp="114" source="400r-401v" >
+<div type="main" facs="main text of attachment I" n="113" corresp="114" >
+<!--<p>Allegato I al n. 114 (cc. 400r-401v; decodifica di c. 402r)</p>-->
+<pb n="400r" facs="12_400r" rend="0"/>
+<head>main text of attachment I</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="400v" facs="12_400v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="401r" facs="12_401r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="401v" facs="12_401v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="114">
+<div type="main" facs="main text of letter" n="114">
+<!--<p>19 giugno 1623, L’Aia (cc. 402r-405v)</p>-->
+<pb n="402r" facs="12_402r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 515 comincia 513 </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">ho</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">avuta maggior confermatione di quello che <lb/>
+questo Re ha detto al Dulbier, come ha inteso <lb/>
+la Serenità vostra nel fine della mia 2<hi rend="superscript">da</hi>, havendo <lb/>
+il signor Camerario detto al medesimo Dulbier, che sua <lb/>
+Maestà non è certo d’intentione di sottoscriverli <lb/>
+articoli dell’accordo fatto dal re della Gran <lb/>
+Bertagna, et disse più tosto anderemo a-<lb/>
+catando il pane; concetto, che dipende dal <lb/>
+presuposito, che ha fatto il Re, et lo ha detto a <lb/>
+signore, che me lo rifferì, che ’l più, che resti a fare <lb/>
+al Re suo suocero, è di levarle quel poco di <lb/>
+trattenimento, che dà alla Regina di dieci</hi><ptr target="#tn2" n="2"/> <hi rend="decoded"><lb/>
+fiorini per mese, nel qual caso, quando lo facci <lb/>
+haverà patienza, né saprà, che far altro, che <lb/>
+mandar in Inghilterra la moglie, et li figlioli, et egli <lb/>
+ritirarsi dove potrà, et viver, come potrà, fin <lb/>
+che Dio gli porga miglior fortuna, et il detto signore, <lb/>
+che me lo disse, mi aggiunse, si troveranno ancor <lb/>
+qui tanti galanthuomini, che sapranno far <lb/>
+una borsa per lui. Miserabile stato di prencipe <lb/>
+battuto dalla fortuna, et ridotto alla <lb/>
+perdita di tutto il suo, et sottoposto alla <lb/>
+compassione del mondo. <lb/>
+</hi></p>
+<p>Gl’avvisi che vengono di Sassonia, et di Brandenburgh
+<pb n="402v" facs="12_402v" rend="0"/>
+non sono tali, che vi possino far fondamento le maestà loro <lb/>
+poiché il risorto della Dieta ultima tenuta nell’Alta <lb/>
+Sassonia non rileva più, che di star armati quei doi prin-<lb/>
+cipi elettori, et gl’altri di quel circolo alla difesa. Et di <lb/>
+Bethelem Gabor continuano ben gl’avvisi, che habbi <lb/>
+armi in piedi, che ne aspetti per soccorso da’ Turchi; ma <lb/>
+né della mossa, né del quando, né come habbino ad esser <lb/>
+impiegate non si sa; né si sente il certo. Io ricevo <lb/>
+questa mattina le lettere di vostra Serenità de’ 2 dello stante <lb/>
+con gl’avvisi, che parlano del medesimo Gabor, et altri <lb/>
+dell’armi dell’Imperatore et gl’uni, et gl’altri mi serviranno <lb/>
+d’informatione. </p>
+<p>Qui si aspetta la mossa dell’armi di Mansfelt al suo viaggio <lb/>
+per pigliar forse l’occasione di uscir allhora in campagna <lb/>
+et quell’opportunità, che le portasse il tempo, et la <lb/>
+congiuntura. </p>
+<p>Anco dalla parte della serenissima Infanta si vanno preparando <lb/>
+Spagnuoli, ma gl’avvisi continuano del mancamento <lb/>
+di denari; et come altre volte ho riverentemente scritto da <lb/>
+questa parte ancora non è quella larghezza, che si <lb/>
+vorrebbe. </p>
+<p>Qui si trovano convocati più di 26 deputati della pro-<lb/>
+vincia di Gheldria che non potendosi nei loro tre quar-<lb/>
+tieri d’Arnhem, Nimeghen, et Zutphen accordar ad <lb/>
+augumentar le contributioni, iscusandosi ogni città, <lb/>
+et li territorii di esse di non poter portar il peso <lb/>
+sì grave, hanno preso ispediente di ricorrer alla <lb/>
+direttione del consiglio dei signori Stati, et del signor principe <lb/>
+d’Oranges in particolare per trovar ripiego di accommodarsi
+<pb n="403r" facs="12_403r" rend="0"/>
+insieme, et si spera, che presto seguirà. </p>
+<p>Si vanno anco destramente accommodando dalla prudenza <lb/>
+di sua Eccellenza li aministratori, et compartecipi della <lb/>
+nuova Compagnia delle Indie Occidentali, a fine che <lb/>
+ella passi avanti: intanto non si lascia di metter ad <lb/>
+ordine qualche vasselli, che doveranno ben presto mettersi <lb/>
+a quel viaggio; andando per primo nella Ginea per <lb/>
+far quivi principio di ammasso nei luoghi ove prima <lb/>
+erano le navi di questo Paese accostumate di andarvi. </p>
+<p>Si ha avviso, che quelle che partirono di qua per il viaggio <lb/>
+secreto siano state vedute nanti la bocca della riviera <lb/>
+di Lisbona. </p>
+<p>Altri avvisi capitano di Spagna tanto d’Anversa, che diretta-<lb/>
+mente venuti di Spagna in Amsterdam, et conformano, <lb/>
+che le navi da guerra dell’Indie Orientali di questa <lb/>
+Compagnia a chi era fallito di sorprender una flotta di <lb/>
+vasselli portughesi carichi di ricche merci di ritorno per <lb/>
+Spagna<ptr target="#tn3" n="3"/> ne habbino incontrati cinque pur <lb/>
+portughesi tre siano stati abbruggiati, et affondati <lb/>
+et li doi altri credendo salvarsi habbino dato in spiaggia <lb/>
+et si siano rotti. Dai primi nanti, che mettervi il <lb/>
+fuoco hanno preso quel più di mercantie, che non è <lb/>
+stato in poca quantità. </p>
+<p>Di Zelanda si hebbi nuova hier mattina, che alcuni vasseloti <lb/>
+di costo di questi signori habbino prese qualche barche <lb/>
+nella riviera d’Anversa con dentro passaggieri. </p>
+<p>In Brusseles si aspettava il marchese dell’Inoiosa <lb/>
+che passava in Inghilterra si sparge qui per il negotio
+<pb n="403v" facs="12_403v" rend="0"/>
+del matrimonio, et per procurar come dicono Spagnuoli la <lb/>
+sicurezza dell’Infanta, cercando il Re cattolico haver <lb/>
+tal sicurezza dal Parlamento termine stimato d’inven-<lb/>
+tione spagnuola per differir l’effetto del maritaggio <lb/>
+a fine di far in tanto quello, che loro tornerà commodo <lb/>
+ma vostra Serenità haverà havuta maggior certezza dalla corte <lb/>
+di Spagna, et l’haverà da quella d’Inghilterra anco più <lb/>
+fondata. </p>
+<p>Hebbi il capitan Bernardino Rota l’avviso che gli mandai <lb/>
+in Amsterdam della gratia, che la Serenità vostra gli haveva <lb/>
+fatta, honorandolo, et premiandolo così degnamente, <lb/>
+onde mi ha fatta instanza con sue lettere di rappresen-<lb/>
+tarle più dal vivo ch’io possi con mie lettere l’obligo <lb/>
+et la devotione, che le professa; ringratiandola <lb/>
+humilmente per suo nome; et assicurandola, che farà <lb/>
+tutto il suo meglio, et il possibile per rendersi non <lb/>
+imerito di tanta gratia, et di tanta munificenza <lb/>
+publica: aggiungendomi, che quel giorno stesso <lb/>
+che fu il martedì passava di nuovo al signor conte di <lb/>
+Mansfelt per continuar appresso di lui quel servitio <lb/>
+a che si conosce obligato in essecutione dei commandamenti <lb/>
+della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 19 giugno 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="404r" facs="12_404r" rend="0"/>
+<pb n="404v" facs="12_404v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="405r" facs="12_405r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="405v" facs="12_405v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> n° 515 comincia 513 </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="114">
+<!--
+<p n="405vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 zugno 623<ptr target="#tn4" n="4"/>. Ricevute 8 luglio </p>
+<p>Haya. 3<hi rend="superscript">a</hi> n. 515 </p>
+<p>Ha fatto sapere il Palatino al <lb/>
+conte di Mansfelt, che non ha intentione <lb/>
+di sottoscriver li<ptr target="#tn5" n="5"/> articoli <lb/>
+dell’accordo, dicendo di voler <lb/>
+più tosto andar acatando il <lb/>
+pane. </p>
+<p>Sassonia, e Brandemburgh per la risolutione<ptr target="#tn6" n="6"/> dell’<lb/>
+ultima dieta dell’Alta Sassonia. </p>
+<p>E staranno su la difesa. </p>
+<p>Gabor non si sa quando sia <lb/>
+per moversi. </p>
+<p>Si aspetta la mossa di Mansfelt <lb/>
+per uscir forse allhora i Stati. </p>
+<p>Avvisi. </p>
+<p>Ringratiamento del Rota. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "ho … del mondo" decoding of the encrypted text can be found on c. 400r-v.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "milla" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "habbi" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "capitoli" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "per la risolutione" added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

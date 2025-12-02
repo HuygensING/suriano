@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.031 date 1622-07-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 169r-172v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">169r-172v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the defeat of Christian of Brunswick near Höchst by Catholic army of 30.000 men strong. From Cologne it is being reported that 2500 men have either drowned, been killed or captured, amongst them is John Casimir of Levenstein. Mansfelt will be going to Alsace and uncertainty over the negotiations with England concering the Palatinate. Camerarius is at the lower Saxony diet on behalf of Frederick V and rumours of levies by the Danish king. In the Dutch Republic the war preparations continue. They are very surprised to hear that James I/VI has allowed the Spanish to levy of troops in his realm. The States General have sequestered a few ships, the French ambassador Du Maurier has requested to free the ships and pay for the damages. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-07-04">4 luglio 1622</date>
+            <num>050</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="050">
+<div type="main" facs="main text of letter" n="050">
+<!--<p>4 luglio 1622, L’Aia (cc. 169r-172v)</p>-->
+<pb n="169r" facs="11_169r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 404 comincia 403 </p>
+<p>Serenissimo Principe </p>
+<p>non ho dubio alcuno, che da più vicina parte sarà capitato alla <lb/>
+Serenità vostra l’avviso dell’infortunio successo al signor duca di Bran-<lb/>
+suich nel suo essercito. Qui capitò l’avviso un giorno doppo <lb/>
+l’ispeditione delle mie lettere 401, et 402 qui aggiunte in replica <lb/>
+che doppo haversi fatto patrone di Hust, et fabricato il ponte <lb/>
+sopra il Meno mentre pensava passarlo fu caricato il corpo <lb/>
+della sua militia<ptr target="#tn1" n="1"/> con quattordici pezzi di canone <lb/>
+posti sopra l’eminenza di alcune coline. Voleva il Duca in <lb/>
+ogni modo dar<ptr target="#tn2" n="2"/> la battaglia; ma non fu dai capi del suo seguito <lb/>
+stimato a proposito il farlo, trovandosi in luoco disavantag-<lb/>
+gioso con minor genti, che non haveva l’inimico, et meglio <lb/>
+armato d’ogni sorte di provisioni necessarie. Haveva <lb/>
+Tilli una grossa armata sendosi alle sue militie congionte <lb/>
+quelle di don Gonzal di Cordova, di Arnolt, di Baviera, <lb/>
+di Colonia, et quattro reggimenti inviati dall’Imperatore, <lb/>
+onde si faceva il<ptr target="#tn3" n="3"/> conto, che fossero in numero di trenta <lb/>
+milla combatenti. Da una parte si porta un falo grande <lb/>
+che ha fatto il Duca, et le sue genti di perder il tempo <lb/>
+in discorsi, et non passar le genti la notte; ma viene stimato anco, che gran fortuna sia stata la sua di non haver <lb/>
+maggior danno di quello, che ha ricevuto mentre haveva <lb/>
+nel passar il ponte alle spalle l’inimico così grossamente <lb/>
+armato, et alla riva d’una riviera ove non haverano <lb/>
+passaggio, che d’un ponte. Passò una gran parte, ma <lb/>
+la retroguardia fu batuta, preso il bagaglio, et tre pezzi <lb/>
+di canone, che soli haveva. Dalla calca, et nel corso <lb/>
+del passaggio il ponte si ruppe, che causò la perdita di
+<pb n="169v" facs="11_169v" rend="0"/>
+molti che vi erano sopra, et di altri che a cavallo, et a nuoto <lb/>
+tentorono far il passaggio: molti sono stati anco fatti<ptr target="#tn4" n="4"/> <lb/>
+prigioni. In Brusseles si parla che ’l Duca sia stato totalmente <lb/>
+disfatto, le lettere di Colonia non portano che doi mille, et <lb/>
+cinquecento soldati tra morti, et prigioni; qui si fa il numero <lb/>
+minore<ptr target="#tn5" n="5"/>, et ognuno parla secondo la passione. <lb/>
+Intanto tra i morti viene detto essersi anegato<ptr target="#tn6" n="6"/> il conte <lb/>
+Gio: Casimiro di Levenstein fratello del colonello di questo <lb/>
+nome, che con lui è stato al servitio di vostra Serenità. Del <lb/>
+Duca si sa certo ch’è passato, et con buona truppa di cavallaria <lb/>
+et infanteria si è unito al Re. Et l’ultime lettere di <lb/>
+Colonia portano, che restava a Manheim, et in altre <lb/>
+guarnigioni circonvicine con le sue genti per ristorarsi <lb/>
+et rifarsi dal patimento in questo mentre si è risoluto <lb/>
+d’inviarsi Mansfelt verso l’Alsatia, et doveva<ptr target="#tn7" n="7"/> seguitarlo <lb/>
+il Duca, mentre il paese circonvicino, <lb/>
+et dove egli si trova <lb/>
+al presente è tutto rovinato. La prudenza di vostra Serenità può <lb/>
+ben considerare se questo accidente habbi qui turbati <lb/>
+gl’animi: tuttavia si promettono già che ’l Duca si è unito <lb/>
+qualche buon progresso. L’avviso è stato ispedito di qua al <lb/>
+re della Gran Bertagna, et si dubita, che farà mal effetto <lb/>
+perché quella Maestà tanto più sarà eccitata ad essortar il <lb/>
+genero ad commodarsi al tempo, et alla necessità, et ad <lb/>
+accettar la suspension d’armi. </p>
+<p>Ho saputo che ’l signor baron Chichiester havendo scritto al signor don <lb/>
+Gonzal di Cordova, che stanti le trattationi che passavano in <lb/>
+Brusseles non dovesse proseguir a nuove hostilità, haveva
+<pb n="170r" facs="11_170r" rend="0"/>
+havuto in risposta, che intendeva anc’egli di quei<ptr target="#tn8" n="8"/> trattati, <lb/>
+che veramente non haveva ordine alcuno di fermarsi, ma che si <lb/>
+haverebbe regolato secondo che l’accidente havesse portato <lb/>
+passando con questo termine generale, et ambiguo. Tilli a chi <lb/>
+dal<ptr target="#tn9" n="9"/> Chichiester era stata fatta la medesima instanza disse che <lb/>
+egli dipendeva dall’Imperatore, et dal suo patrone il duca di <lb/>
+Baviera, che bisognava per fermarsi che havesse altro <lb/>
+in contrario; et il re di Bohemia fece doi a Chichiester <lb/>
+che non potendo promettersi dell’inimico bisognava che <lb/>
+stasse sull’avviso, et sul riparar ai colpi, che se gli <lb/>
+minacciava. </p>
+<p>Di Brusseles non si parla gran cosa, stanno trattando, havendo <lb/>
+li ministri venuti dal Palatinato informato solo il signor Westr[…]<ptr target="#tn10" n="10"/> <lb/>
+di quelli affari, et di quelle pretensioni; si<ptr target="#tn11" n="11"/> sentiva, <lb/>
+che havessero altro in commissione; ma si doveva aspettarne. <lb/>
+Par che Spagnuoli desiderino, o mostrino assenso alla sus-<lb/>
+pension d’armi, et lo Spinola era del continuo colli ambasciatori <lb/>
+et deputati del congresso; ma qui non si fidano, et tengono <lb/>
+per fermo, che tutto si facci per guadagnar tempo per servirsi <lb/>
+del beneficio di esso per condur il re della Gran Bertagna <lb/>
+a far quello ch’essi vorranno, et non havendo le genti <lb/>
+del Re palatino con che viver, et mantenersi che da <lb/>
+sé si sbandino, et si dissipino. Et in effetto in quella parte <lb/>
+di Manheim, et Franchendal, et altra tutte le cose sono <lb/>
+a carissimo prezzo; et il Paese desolato. </p>
+<p>Il gentilhuomo del signor conte di Mansfelt partì la passata settimana <lb/>
+verso il suo signore havendo tentato, et affaticato quanto
+<pb n="170v" facs="11_170v" rend="0"/>
+ha potuto per indur li signori Stati ad una ferma assistenza di mese <lb/>
+in mese. Mi disse, che li era stato promesso quattro mesi <lb/>
+ancora, et di far risolver questo nella assemblea d’Holanda <lb/>
+per la quale hoggi sono cominciati arrivar li deputati. Io <lb/>
+con lui ho usati tutti quei termini di cortesia, che ho <lb/>
+stimati proprii<ptr target="#tn12" n="12"/>, havendolo alcune volte alla mia tavola<ptr target="#tn13" n="13"/> <lb/>
+honorandolo tanto per il proprio merito, che per rispetto del signor <lb/>
+Conte a fine di tanto più obligarlo a mantenersi con <lb/>
+animo devoto al servitio di vostra Serenità. </p>
+<p>Qui ci sono avvisi, che la Dieta de’ principi della Bassa <lb/>
+Sassonia si era unita, et si continuava. Il dottor Came-<lb/>
+rario consigliero del re di Bohemia haveva ordine di far <lb/>
+qualche ufficio. Non era partito di Brem, ove si tratteneva <lb/>
+tuttavia; ma col mezo di qualche scrittura, et di lettere <lb/>
+agl’amici faceva rappresentar lo stato delle cose, le ra-<lb/>
+gioni, et il bisogno del suo patrone, et metteva innanti <lb/>
+l’interesse, che haveva il general dell’Alemagna in questi <lb/>
+emergenti. Egli non ha stimato proprio di comparer nel <lb/>
+luoco del congresso; non essendo in particolare ben sentito <lb/>
+il suo nome da alcuni di quei principi, et in generale <lb/>
+anco poco grato riuscendo l’affare di che si tratta <lb/>
+et credono alcuni, et principalmente il signor baron di Donà <lb/>
+che l’attione seguita di Darmenstat haverà fatto qualche <lb/>
+mal effetto nell’anime di detti principi, et che l’ultima <lb/>
+mala fortuna successa al Re nella retirata da Aschem-<lb/>
+burgh, et quest’ultima del duca di Bransvich have-<lb/>
+rà levato assai di cuore ai buoni; et suggerita materia,
+<pb n="171r" facs="11_171r" rend="0"/>
+agl’animi poco ben affetti di mostrar di sgomentarsi, et di <lb/>
+non lasciar passar avanti di quelli effetti, che li felici pro-<lb/>
+gressi ben spesso sogliono tirarsi dietro. </p>
+<p>Quello che fu detto, et io scrissi alla Serenità vostra colle mie precedenti <lb/>
+lettere de’ 30 del passato di levata, che facesse far il re <lb/>
+di Danimarca si è confermato con quanto si è di <lb/>
+certo saputo, che si erano vedute patenti di levate, <lb/>
+di quella Maestà. Et il sudetto Barone mi ha detto haver <lb/>
+inteso, che detto Re, et il duca di Sassonia dovevano esser <lb/>
+uniti insieme con qualche altri principi per far un terzo <lb/>
+partito in Alemagna sotto presto presto* della difesa <lb/>
+della libertà sua. Il che stima punto essentialmente al com-<lb/>
+mune servitio quando sia vero, et al particolare del Re suo signore. </p>
+<p>Da questi signori si attende tuttavia alla preparatione per la guerra, et <lb/>
+a munir quelle piazze, che più n’hanno bisogno; né per <lb/>
+uscire il signor principe Mauritio in campagna altro si atten-<lb/>
+de, che la mossa dello Spinola, che al certo ancorché <lb/>
+le nuove corrino, che si facci nuovo ammasso di genti <lb/>
+in Brabant, non si crede, che sarà se non si vede la <lb/>
+continuatione del felice progresso delli affari di Alemagna, <lb/>
+o almeno sarà ancor per qualche giorno ritardato l’effetto <lb/>
+et la sortita. </p>
+<p>Li forti all’incontro di Bolduich si avanzano, et già sono <lb/>
+ridotti a stato tale, che ben possono servir sin hora a <lb/>
+difender il passo, et evitar le scorrerie, che l’inimico <lb/>
+faceva da quella parte sopra Bomel, et altri luochi cir-<lb/>
+convicini in Gheldria ch’è oggetto principal di tal construttione. </p>
+<pb n="171v" facs="11_171v" rend="0"/>
+<p>Restano questi signori, et il signor principe Mauritio molto scontenti, <lb/>
+et meravigliati per un avviso, che ultimamente hanno havuto <lb/>
+che Spagnuoli coll’assenso del Re della Gran Bertagna <lb/>
+levino ancor quattromilla de’ suoi sudditi per lor servitio, <lb/>
+il che mi fu detto hieri da sua Eccellenza con gran passione; <lb/>
+aggiungendo può, che un giorno essi Spagnuoli si ser-<lb/>
+viranno delle medesime genti contra lo stesso Re. </p>
+<p>Havevano ultimamente li signori Stati fatte sequestrar alquante navi <lb/>
+mercantili dentro a questi porti doppo l’avviso, che heb-<lb/>
+bero della flotta, che si faceva in Spagna, et tra quelle <lb/>
+una<ptr target="#tn14" n="14"/> di circa quattrocento lasti, che non era ancor <lb/>
+del tutto fornita, ma vi mancava poco, et si è fabricata <lb/>
+sotto a nome de’ mercanti di San Malò; ma in effetto <lb/>
+è del Re christianissimo; per tanto l’ambasciator qui residente della <lb/>
+Maestà sua è andato la settimana passata a dichiarir <lb/>
+questo nell’assemblea dei signori Stati Generali ricercando, <lb/>
+che come<ptr target="#tn15" n="15"/> nave del Re fosse liberata. Haverà l’<lb/>
+Ambasciatore ciò che ricerca; ma è stato pregato di scriver <lb/>
+seriosamente, et procurar appresso il Re suo signore la repa-<lb/>
+ratione del danno, che li lor vasselli la guerra che <lb/>
+erano stati conosciuti nel porto di Borders, sia risarcito. <lb/>
+L’Ambasciatore ha promesso di far l’ufficio; et questo vassello è <lb/>
+destinato per quanto intendo a servir contra Rocelesi. </p>
+<p>Qui sono arrivati doi signori principali francesi per essercitarsi in queste <lb/>
+guerre l’uno è il conte di Candal figliolo del duca di Epernone, <lb/>
+l’altro il conte di Betune figliolo dell’ambasciatore, che fu all’accordo <lb/>
+di Asti<ptr target="#tn16" n="16"/> per sua Maestà christianissima gl’anni passati. Gratie etc. </p>
+<p>Dall’Haya li 4 luglio 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="172r" facs="11_172r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172v" facs="11_172v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 404 comincia<ptr target="#tn17" n="17"/> 403<ptr target="#tn18" n="18"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="050">
+<!--
+<p n="172vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 luglio 622<ptr target="#tn19" n="19"/>. Ricevute 27 detto </p>
+<p>Haya. n° 404 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "prima" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-r" corrected above "-l."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "C" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "maggiore" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "a-" corrected above "-d."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-va" corrected above "-rà."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ti" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "G" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "et" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "tanto" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "nave" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "Ambasciator" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Corrected above "fin."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Traces of seals in red wax."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

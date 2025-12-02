@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.021 date 1616-12-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">021</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 139r-140v, 143r-146v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">139r-140v, 143r-146v, 141r-142v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Writes that he is frustrated not being able to report that the ships have set sail, but due to the bad weather the ships can not leave the harbour. Johan Ernst of Nassau requests provisions from Venice upon the arrival of his troops so that they can rest. Vimes reports from Alkmaar that two compagnies have embarked without much difficulty thanks to a letter by prince Maurice. Further speculation about the route Johan Ernst needs to take as he has received a letter from someone close to the Milanese governor warning him that the Trent route is watched closely. He has written to Pasini to take care of enlisting Studder and the standard-bearer Filippo, Gamurrini has entered service of French king. Wassenhoven has come to see him to report almost all his ships are ready to leave. Pasini wrote to Suriano that the nuncio in Brussels is watching the enlisting protestant troops by the Venetians closely and Pasini defended the Catholic beliefs of the Venetian state in response. Ends with a request for money for a priest to conduct Catholic services. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-03">3 dicembre 1616</date>
+            <num>046, 047</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="046">
+<div type="main" facs="main text of letter" n="046">
+<!--<p>3 dicembre 1616, L’Aia (cc. 139r-140v, 143r-146v)</p>-->
+<pb n="139r" facs="03_139r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>ero per mettermi a scriver, et ispedir a vostra Serenità quando in quel <lb/>
+punto mi sopravenero<ptr target="#tn1" n="1"/> le lettere sue de’ 18 del passato, et come <lb/>
+resto consolato della sodisfattione continuata, che mostra <lb/>
+ella ricever dal mio sollecitar questa speditione di militie; <lb/>
+così dall’altro canto il discontento mio è grandissimo <lb/>
+non potendo significarle esser già uscite da questi <lb/>
+porti; o almeno una parte di esse mentre li tempi <lb/>
+continuano del tutto contrarii, et questa notte in particolare <lb/>
+ha fatto un vento impetuosissimo. Io prego Iddio, che si <lb/>
+faccia buono; et mi viene riferto, che li soldati fanno <lb/>
+lo stesso la mattina, et la sera, mentre fanno l’orationi <lb/>
+bramando di esser quanto prima a quel servitio. </p>
+<p>Al signor conte Gio. Ernesto ho espresso il testimonio della stima, <lb/>
+che fa vostra Serenità della sua prontezza, et affetto in questo <lb/>
+negotio con quelle parole, che ho stimate più proprie; <lb/>
+et egli mi ha risposto, che ben vedevo, che non <lb/>
+poteva in alcuna maniera dissimiluar la pena, che <lb/>
+pativa per la continuatione di questo fastidioso tempo. </p>
+<p>Quanto al bisogno, che potessero haver le militie al loro <lb/>
+arrivo in Istria, ne discorsi già con esso signor Conte che <lb/>
+mi disse, che vi haverebbe pensato, et questa mattina <lb/>
+ricevute le lettere di vostra Serenità havendogli detto il desiderio <lb/>
+di lei di esserne avvisata, trova esso signor Conte
+<pb n="139v" facs="03_139v" rend="0"/>
+che altro non occorrerà, che qualche particolar commodità per <lb/>
+quei soldati, che potessero esser amalati dal disaggio <lb/>
+del mare, et provisioni de’ viveri, et di alloggiamenti <lb/>
+per poter ristorar il resto delle genti dal patimento <lb/>
+del viaggio; stimando anco, che per rinfrancarsi si <lb/>
+contenterà la Serenità vostra che stiano ferme qualche giorni <lb/>
+in quelle piazze, che stimerà a proposito per rifarsi<ptr target="#tn2" n="2"/>; ma che <lb/>
+di questo et d’altro, che potesse occorrere, ne have-<lb/>
+rebbe trattato con vostra Serenità; sperando di esser costì <lb/>
+tanto innanti l’arrivo delle navi, che si haverebbe <lb/>
+potuto farlo, et proveder opportunamente; et <lb/>
+qualcheduno dei capitani dei vasselli mi han detto, <lb/>
+ch’era necessario ch’ella facesse, che fosser pronti <lb/>
+de’ pedoti per l’entrata sicura dei porti. </p>
+<p>Il signor Conte ringratia vostra Serenità di quanto gli ho detto <lb/>
+intorno al liberar li patroni delle navi dall’obligo <lb/>
+dell’ancorazo. </p>
+<p>Vengo avvisato dal signor Vimes, che da Alchmar doveva <lb/>
+passar innanti, essendosi imbarcate le doi compagnie <lb/>
+che erano in quella piazza, nel che non si haveva <lb/>
+incontrata gran difficoltà, et quella poca era <lb/>
+anco stata superata dalla prudenza del capitan Steven <lb/>
+aiutata massime dall’auttorità di quel Magistrato
+<pb n="140r" facs="03_140r" rend="0"/>
+mosso spetialmente da lettere dle signor principe Mauritio, il qual <lb/>
+ha scritto non solamente alla detta città, ma a tutte le altre <lb/>
+della Nortolandia: perché assistino, et coadiuvino in <lb/>
+evitar ogni accidente, che potesse nascer dall’insolenza <lb/>
+di qualche soldati. Sua Eccellenza ha posto particolar <lb/>
+pensiero a questo negotio, et raccorda tutto ciò, che <lb/>
+stima a proposito; et per quanto può venir da lei <lb/>
+provede all’occorrenze; et per ciò ha ordinato <lb/>
+al suo secretario di far patenti a tutti li capitani di navi <lb/>
+affineché, oltre quella ch’io ho data ad essi capitani, <lb/>
+per gli illustrissimi<ptr target="#tn3" n="3"/> rappresentati, et capitani da Mar della Serenità vostra <lb/>
+si servino secondo che stimeranno a proposito anco <lb/>
+delle sue; et massime per li corsari di questa Natione, <lb/>
+essendoci avviso, che ne siano vinti doi alla volta <lb/>
+dello stretto; ma li detti capitani non temono né <lb/>
+di essi, né di altro incontro, havendo buone navi, et buone genti. </p>
+<p>Monsignor di Rocalaura, et monsignor Gulena francesi<ptr target="#tn4" n="4"/> si trovano <lb/>
+al presente alli loro vasselli, come possi esser con essi li <lb/>
+dirò quanto dalla Serenità vostra mi viene commesso. </p>
+<p>È stato mostrato al signor Conte un capitolo di lettera scritta di <lb/>
+Milano ad uno di questi paesi, che vuole venir a servir <lb/>
+la Serenità vostra, nella quale quello che scrive, ch’è servitor del
+<pb n="140v" facs="03_140v" rend="0"/>
+signor<ptr target="#tn5" n="5"/> Governatore lo dissuade di passar per la via di Trento perché <lb/>
+si facevano grandissime guardie, et inquisitioni, et che quel <lb/>
+signor Cardinale haveva avvisato, che un conte di Nassau <lb/>
+sarebbe passato per quella stradda di Trento in habito <lb/>
+di mercante da cavalli con doi, o tre altri seco dovendo <lb/>
+andar al servitio della serenissima Republica per la quale haveva <lb/>
+inviati seimilla soldati. </p>
+<p><hi rend="decoded">Il</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">signor Conte procurerà in ogni modo di caminar cauto, et <lb/>
+il signor principe Mauritio, mette in questo, particolar pensiero <lb/>
+ma resta pur fermo nel passar del signor Conte per la via de’ Gri-<lb/>
+soni non vedendo</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">esserevi strada di manco incontro <lb/>
+persuadendosi come ha detto l’Eccellenza sua, che il più, <lb/>
+che possa avenire al Conte è di farlo tornar in-<lb/>
+dietro a tentar altro camino, et voglio sperar, <lb/>
+che vostra Serenità prima del gionger di lui in quel <lb/>
+Paese haverà fatto dar ordini tali, che con facilità <lb/>
+passerà, et non troverà intopo, et io non mancarò <lb/>
+ad ogni buon rispetto di darle</hi>
+<pb n="143r" facs="03_143r" rend="0"/>
+<hi rend="decoded">lettere di adriccio <lb/>
+per il signor Lodovico Orelli mercante di Zurich, il mezo <lb/>
+del quale, essendo egli devotissimo et affetionatissimo a vostra Serenità <lb/>
+stimo, che possa giovarli grandemente, ma più come <lb/>
+ho detto gli gioverà gli ordini, che vostra Serenità darà <lb/>
+in quei luochi, et massime se ella stimerà bene <lb/>
+valersi confidendemente</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">del signor cavalier Salice, o del signor <lb/>
+Artmano Pianta tanto divoti, et affetionati <lb/>
+alla serenissima Republica o ad altri, il che io dico con ogni <lb/>
+humile riverenza. <lb/>
+</hi></p>
+<p>Scriverò con il medesimo messaggiero, che porterà le presenti in <lb/>
+Anversa al Pasini a Brusseles: perché tratti con <lb/>
+quel cavallier Studder per condurlo al servitio, et pari-<lb/>
+mente con l’alfier Filippo detto il Bello, et con gl’<lb/>
+altri, della maniera, che viene commandato da vostra Serenità <lb/>
+et osserverò nel resto tutto quello, che sarà necessario <lb/>
+per essecutione delle sue commissioni in questo particolare. </p>
+<p>Dal Gomorini non credo che vostra Serenità potrà farne altro <lb/>
+havendomi scritto il Pasini, che sta condotto al servitio del Re christianissimo, di che ella ne haverà da Parigi
+<pb n="143v" facs="03_143v" rend="0"/>
+particolar informatione dalli eccellentissimi signori ambasciatori. </p>
+<p>Già tre giorni fu il Vassonhoven a vedermi, et io gli risposi la <lb/>
+sodisfattione, che vostra Serenità riceveva dalla sua prontezza, nel far <lb/>
+la levata, assicurandolo ch’ella gli mosterà al suo arrivo <lb/>
+di là tenerne conto. Mi ha risposto che le rendeva humilissime <lb/>
+gratie et sperava di riuscir con honore, et contento di lei. <lb/>
+Mi disse che le navi che devono condur le sue genti erano <lb/>
+quasi del tutto preste, et havevano dentro una buona <lb/>
+parte de’ viveri, et dell’armi; onde non credo che <lb/>
+mi occorrerà far altra promessa alli patroni dei vasselli; <lb/>
+tuttavia quando pur ne sia ricercato essequirò li commandamenti <lb/>
+della Serenità vostra. </p>
+<p>Li corrispondenti del Gabri da chi hebbi il valsente delli <lb/>
+40 mila ducati hanno meco inteso, che si habbi a far il <lb/>
+pagamento in buona valuta, et le lettere sono fatte <lb/>
+veramente in ragion di cambio, che altrimenti non haventi <lb/>
+potuto trovar chi mi servisse. Così l’intenderà ancora <lb/>
+per gl’altri denari havuti sin qui da Calandrini, et <lb/>
+Vanderput in Amsterdam; et so che gl’uni, et <lb/>
+gl’altri hanno, per trovar il denaro, convenuto <lb/>
+trarlo a cambio in parte per Anversa, per Londra <lb/>
+et per Francfort non portando la piazza di Amsterdam <lb/>
+tanta summa di denaro per Venetia, et come li
+<pb n="144r" facs="03_144r" rend="0"/>
+primi vintimille li ho havuti a cinquanta piachi, et tre <lb/>
+quarti per ducato; così per gl’altri, essendosi ristretta <lb/>
+la detta piaza non è stato possibile, che habbi potuto far <lb/>
+che essi Calandrini, et Vanderput passino li cinquanta <lb/>
+piachi; né trovai altri, che prontamente come era necessario <lb/>
+mi facessero l’esborso di una tanta summa. Pertanto <lb/>
+dirà riverentemente alla Serenità vostra, che quando elle habbi <lb/>
+pensiero di far altra levata a primo tempo (che <lb/>
+prima non può esser) maggior vantaggio sarà pagar <lb/>
+di là anticipatamente in contanti il denaro o a tutto <lb/>
+uso che sarà doi mesi doppo la data delle lettere <lb/>
+o a mezo uso regolandosi secondo il bisogno: perché <lb/>
+ella avanzerà grandemente, et massime in grossa summa. </p>
+<p>Mi scrive il Pasini, che a Brusseles fanno correr voce <lb/>
+che la serenissima Republica non ha denari, et che le ha bisognato <lb/>
+far dar sicurtà in Amsterdam per le paghe delli <lb/>
+soldati a quelli mercanti nel che ha sostentata <lb/>
+la publica dignità con ogni maggior affetto. </p>
+<p>Di più, mi dice, che monsignor Gesualdo nontio apostolico <lb/>
+appresso sue Altezze<ptr target="#tn9" n="9"/> l’haveva mandato a chiamare, gli haveva dimandato <lb/>
+di me, et dettogli, che mi haveva conosciuto in Roma, <lb/>
+et che mi stimava assai; ma che gli dispiaceva <lb/>
+hora intender, che havessi operato a far andar
+<pb n="144v" facs="03_144v" rend="0"/>
+heretici a Venetia, che ne haveva cordoglio, et temeva, <lb/>
+che havessero a pululare qualche cominciamento de’ <lb/>
+cattivi humori in quelle parti; con altre simil parole <lb/>
+essortandolo a guardarsi, che per esser venetiano non si <lb/>
+adoperasse in alcuna cosa perché haverebbe causata <lb/>
+la sua total ruina. Mi scrive d’havergli risposto <lb/>
+vivamente, et in particolare di havergli detto, che <lb/>
+non teme di cosa alcuna, et volontieri haverebbe sparso <lb/>
+il sangue proprio, et de’ figlioli per la serenissima Republica; che <lb/>
+quanto io havevo fatto era stato per debito della mia <lb/>
+carica, et la causa perché la Serenità vostra si era valsa <lb/>
+di queste genti era nata dall’ingratidutine delli <lb/>
+Italiani, li quali scordatisi dell’obligo loro verso <lb/>
+la Republica, non prevedendo<ptr target="#tn10" n="10"/> il suo male favorivano <lb/>
+più tosto bastare, che una causa tanto giusta come <lb/>
+ha la serenissima Republica; ch’ella dal suo nascimento <lb/>
+haveva sempre conservata la catholica religione, et <lb/>
+questa sarà mantenuta da lei per sempre; et per ciò <lb/>
+mantiene l’inquisitione rigorosa in tutto ’l suo stato <lb/>
+et altri simili concetti. Et per me tengo per fermo che <lb/>
+habbi detto anco più per haverlo io conosciuto svisce-<lb/>
+ratissimo<ptr target="#tn11" n="11"/>, et devotissimo alla Serenità vostra; la quale certo qua[ndo] <lb/>
+usi della sua munificenza verso di lui le attesto con
+<pb n="145r" facs="03_145r" rend="0"/>
+ogni sincerità, che sarà molto ben impiegato perché serve <lb/>
+di cuore, et con affetto, non mancando di darne <lb/>
+ogni più chiara dimostratione ad ogni rappresentante <lb/>
+et ministro della Serenità vostra. </p>
+<p>Sino a quest’hora ho ricevuto il beneficio di veder la messa <lb/>
+nella casa della signora principessa di Ligni, che si è tratte-<lb/>
+nuta qui per suoi affari particolari: et perché ella sta <lb/>
+di partenza, né havend’io altra commodità di <lb/>
+poter haver questo essercitio christiano, et essendo necessario <lb/>
+per debito pur di christiano<ptr target="#tn12" n="12"/>, et per publica riputatione <lb/>
+ancora, ch’io non ne resti senza doverò prender un <lb/>
+sacerdote, che mi assisti in questo ministerio; il che <lb/>
+sin qui ho portato il starne senza col pretesto, et <lb/>
+dirò anco colla speranza di non havermi a fermar <lb/>
+molto: pertanto supplicarò la Serenità vostra, che a me sia <lb/>
+concesso dalla religiosa benignità di lei il poter mantener<ptr target="#tn13" n="13"/> <lb/>
+un capellano per questo ufficio divino; trovandomi in questi <lb/>
+paesi ove è vietato, et prohibito l’essercitio publico <lb/>
+della nostra religione. Non dubito, che dall’Eccellenze vostre non <lb/>
+mi sia fatta la gratia, che gode anco il signor residente <lb/>
+Lionello in Inghilterra. Quando non mi venga altro in <lb/>
+contrario da lei trattenirò un sacerdote, sicuro, <lb/>
+che mi sarà fatta buona la spesa. Gratie etc. </p>
+<p>Dall’Haye a’ 3 decembre 1616. </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="145v" facs="03_145v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="146r" facs="03_146r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="146v" facs="03_146v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="046">
+<!--
+<p n="146vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 decembre 1616 ricevute 21 detto </p>
+<p>Secretario Surian dall’Aya. Prima </p>
+<p>1. Riceve le lettere pub(licate) de’ 18 novembre. </p>
+<p>Per il mal tempo le genti non partono. </p>
+<p>Il conte Gio. Ernesto ne ha gran pena. </p>
+<p>2. All’arrivo in Istria vi sia qualche particolar <lb/>
+comodità per li soldati malati. </p>
+<p>Provisioni de’ viveri et d’alloggiamenti per ristorar <lb/>
+tutte le genti da’ patimenti del viaggio. </p>
+<p>Qualche giorno per rifarsi si fermino <lb/>
+in alcuna di quelle piazze. </p>
+<p>Che il Conte sarà qui a tempo di trattar <lb/>
+egli di questi bisogni. </p>
+<p>Alcuno de’ capitani dei vasselli<ptr target="#tn14" n="14"/>, raccorda che <lb/>
+siano pronti pedotti per l’entrar ne’ porti. </p>
+<p>Il Conte ringratia del dettogli circa l’ancorazo. </p>
+<p>3. Il Vimes passava oltre Amsterdam, essendo <lb/>
+imbarcate quelle due compagnie. Il principe Mauritio ha scritto alle città di Nortlandia <lb/>
+perché ostino ad ogni disordine. </p>
+<p>Ha fatto anche sue patenti alle navi per li <lb/>
+corsari che in 22 sono verso lo stretto. </p>
+<p>Ma li capitani delle navi non temono. </p>
+<p>Rocalaura, et Gulena francesi; sono alli lor vasselli. </p>
+<p>4. Capitolo di lettera mostrato al conte, scritta da Milano <lb/>
+da<ptr target="#tn15" n="15"/> uno servitor del Governatore<ptr target="#tn16" n="16"/> ad uno che vien al servitio <lb/>
+dissuadendolo dal passar per Trento, rispetto <lb/>
+alle strette guardie: et che il Cardinale ha avisato <lb/>
+dovere passar un conte di Nassau incognito. </p>
+<p>L. SS. R. </p>
+<p n="146vD">———</p>
+<p>5. Il Conte procurerà caminar cauto. </p>
+<p>Il principe Mauritio mette in ciò pensiero. </p>
+<p>La via de’ Grisoni è di manco incontro. </p>
+<p>Alla peggio possono farlo tornar a dietro. </p>
+<p>Il Suriano gli darà lettere per l’Orelli. </p>
+<p>Spera sua Serenità havrà dati ordini. </p>
+<p>Raccorda il volersi del cavalier Salice, <lb/>
+o del signor Artmano Pianta. </p>
+<p>6. Ha scritto al Pasini a Brusseles per <lb/>
+la condotta del k(avalie)r Studer, et del Bello, <lb/>
+et altri, giusta li ordini publici. </p>
+<p>Il Gomorini<ptr target="#tn17" n="17"/> è condotto per il Christianissimo. </p>
+<p>Se ne havrà informatione da quei signori ambasciatori. </p>
+<p>7. Il Vassonvem dice haver le <lb/>
+navi pronte spera prestar <lb/>
+buon servitio non ricerca altra <lb/>
+promessa alli patroni. </p>
+<p>Le lettere del Gabri; et de’ <lb/>
+Calandrini, et Vanderput <lb/>
+sono da pagarsi in bona valuta. </p>
+<p>Meglio sarà trar di qua <lb/>
+il denaro quando si voglia <lb/>
+nova levata che non può <lb/>
+esser che a poco tempo.</p>
+<p n="146vA">———</p>
+<p>8. Voci in Brusseles che la Republica non <lb/>
+ha denari. Il Pasini ha fatto dar sicurtà <lb/>
+per le paghe. </p>
+<p>Uffici di monsignor Gesualdo nontio apostolico <lb/>
+circa il far venir heretici a Venetia. </p>
+<p>Risposte del Pasini. </p>
+<p>9. L’usarli qualche munificenza saria <lb/>
+ben impiegato. </p>
+<p>10. Instanza di doversegli<ptr target="#tn18" n="18"/> bonificar la spesa <lb/>
+del tener un sacerdote per la messa. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="047" corresp="046" source="141r-142v" >
+<div type="main" facs="main text of attachment I" n="047" corresp="046" >
+<!--<p>Allegato I al n. 46 (cc. 141r-142v; decodifica di cc. 140v, 143r)</p>-->
+<pb n="141r" facs="03_141r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="141v" facs="03_141v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="142r" facs="03_142r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="142v" facs="03_142v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "sopra-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "per rifarsi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "sono" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Il … riverenza" decoding of the encrypted text can be found on c. 141r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "-vi" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "appresso sue Altezza" added in the internal margin.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "pre-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-t-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-ss-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-ni" added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "dov-" corrected above "pot-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

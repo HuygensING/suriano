@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.020 date 1616-11-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 131r-v, 134r-138v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 528) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp341-360)
+            </note>
+            <biblScope unit="page">131r-v, 134r-138v, 132r-133v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports in cipher that Aerssen has visited him to discuss the possibility of a closer union between the two republics. They also talked about the situation in Savoy. Reports that he has heard, from letters to Maurice,  that the Count of Holach has been sent to German princes to discuss the elections of the Holy Roman Emperor. Suriano has received and spoken to De Dominis. Further he has drawn up exchange letters for Vanderput and Calandrini and requests help from Venetian state for some merchants in Zurich. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-11-28">28 novembre 1616</date>
+            <num>044, 045</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="044">
+<div type="main" facs="main text of letter" n="044">
+<!--<p>28 novembre 1616, L’Aia (cc. 131r-v, 134r-138v)<ptr target="#tn1" n="1"/></p>-->
+<pb n="131r" facs="03_131r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>venne mercordì a mia visitatione il signor Arsen, che fu <lb/>
+ambasciator ordinario per questo signori Stati alla Maestà cristianissima <lb/>
+figlo del secretario di questo Governo, et mostrò di far la <lb/>
+visita, come ad amico, et conoscente suo nella corte di <lb/>
+Francia. Ma doppo qualche complimento entrò in <lb/>
+discorso delli<ptr target="#tn2" n="2"/> <hi rend="decoded">andamenti</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">de’</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">Spagnuoli della maniera del <lb/>
+loro trattare, et come si vadino ragirando per <lb/>
+avanzarsi alla meglio, che possino; che a questo <lb/>
+sarebbe necessario l’opporsi a tutto potere, et che <lb/>
+gran vantaggio sarebbe ne’ presenti tempi alla <lb/>
+serenissima Republica esser in più stretta congiuntione <lb/>
+d’amicitia con questi Stati, perché le servirebbe <lb/>
+tanto di riputatione, quanto di far conoscer a’ <lb/>
+medesimi Spagnuoli, che, quando s’offendesse la Serenità <lb/>
+vostra, offenderebbono queste</hi></p>
+<pb n="131v" facs="03_131v" rend="0"/>
+<p><hi rend="decoded">Provincie Unite, che <lb/>
+il tempo veramente non poteva esser più <lb/>
+proprio</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">del presente, mentre la Serenità vostra è tra-<lb/>
+vagliata da essi Spagnuoli, se non apertamente <lb/>
+in essentia, almeno con l’assistenza, che dano al <lb/>
+serenissimo Ferdinando, et che quanto a lui stimava <lb/>
+che una tal unione tra vostra Serenità, et questi <lb/>
+Stati fosse necessaria, ma dall’altro canto disse <lb/>
+Conosco molto bene, che non tocca alla serenissima Republica <lb/>
+far apertura di questo, perché la riputatione di lei <lb/>
+non comporta, et questa Republica, che è nata di poco <lb/>
+tempo fa, non</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">deve pretender uguaglianza con la serenissima <lb/>
+republica di Venetia principe di mille, et trecento <lb/>
+anni, avezza a trattar con re, et principi grandi, <lb/>
+ma conviene, che di qua venga la proposi-<lb/>
+</hi>
+<pb n="134r" facs="03_134r" rend="0"/>
+<hi rend="decoded">tione. Aggiunse, che haveva discorso di questo particolare <lb/>
+col principe Mauritio, et l’haveva <lb/>
+trovato del medesimo senso, et parere; che <lb/>
+volontieri haverebbe veduta questa congiuntione <lb/>
+reciproca, perché la stimava di riputatione <lb/>
+grande, et ugualmente profitevole a’ communi <lb/>
+stati. Et qui</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">m’andò con lungo giro di pa-<lb/>
+role considerando la potenza di queste provincie <lb/>
+la buona volontà, che hanno mostrato verso la <lb/>
+Serenità vostra, l’inclinatione a far di più, quello, <lb/>
+che habbino fatto per li suoi vicini, l’unione, che <lb/>
+hanno con Inghiltera, et con li principi de <lb/>
+Alemagna, et l’aleanza conclusa utlimamente <lb/>
+con le città ansiatiche. Io tutto ascoltai, et le <lb/>
+diedi gusto in questa parte, ma nella risposta <lb/>
+la passai con</hi>
+<pb n="134v" facs="03_134v" rend="0"/>
+<hi rend="decoded">quella generalità, che comporta <lb/>
+l’affare, et la prepositione</hi>, et <lb/>
+gl’affermai, che la serenissima Republica fa stima grandissima <lb/>
+della benevolenza di questi signori Stati; et che il ter-<lb/>
+mine della buona corrispondenza, et dell’interesse <lb/>
+commune, che porta con sé la conditione de’ tempi <lb/>
+haveva fatto venir in deliberatione la Serenità vostra <lb/>
+di farmi passar qui dal paese de’ Svizzeri per <lb/>
+communicar con questi signori le cose, che vano <lb/>
+succedendo. Egli replicò, che l’honor che vostra Serenità <lb/>
+haveva fatto era stimato, et se ne faceva capitale, <lb/>
+et già si haveva veduto qualche effetto della <lb/>
+buona volontà delle Provincie in questa levata <lb/>
+<hi rend="decoded">et</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">pur entri nel medesimo discorso di più stretta <lb/>
+congiuntione, et aleanza, dicendo infine,bisogna <lb/>
+certo, che segui, se sarà trovato buono da sua <lb/>
+Serenità, ma replicò, toccherà a’ signori Stati il <lb/>
+far l’apertura, io mi contenni pur nei medesimi <lb/>
+</hi>
+<pb n="136r" facs="03_136r" rend="0"/>
+<hi rend="decoded">termini</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">generali</hi> et così continuerò quando <lb/>
+mi venga parlato da lui, o da altri, di questo <lb/>
+particolare, come mi ha<ptr target="#tn10" n="10"/> accennato che forse si farà, et di <lb/>
+tutto darò riverente conto alla Serenità vostra per aspettar <lb/>
+da lei li suoi prudentissimi commandamenti. </p>
+<p>Questo signor Arsen entrato meco a parlare delli affari <lb/>
+di Savoia, mi disse, che gli pareva, che ’l signor Duca <lb/>
+mancasse a sé stesso mentre li signori Stati mostravano <lb/>
+così buona<ptr target="#tn11" n="11"/> inclinatione di assisterli, di non <lb/>
+haver qui persona, che trattasse per esso perché <lb/>
+credeva certo, che non haverebbe incontrata <lb/>
+difficoltà nell’haver qualche<ptr target="#tn12" n="12"/> assistenza; anzi <lb/>
+(disse) ultimamente, che ’l signor ambasciator di Francia <lb/>
+addimandò li vasselli di guerra per l’accidente <lb/>
+di Blais doppo l’haver assicurati questi signori <lb/>
+che non sarebbono a pregiudicio di quelli della <lb/>
+religione, come mostrorno di dubitare sollecitand[o]<ptr target="#tn13" n="13"/> <lb/>
+egli l’ispeditione si stete in forse di permetter-<lb/>
+gliela sotto pretesto che quell’affare fosse accom-<lb/>
+modato; ma che standosi pur fermi da quelli <lb/>
+che portano le cose di Francia, accennando del signor </p>
+<pb n="136v" facs="03_136v" rend="0"/>
+<p>Bernvel; che fosse compiacciuto l’Ambasciatore; nella deliberatione <lb/>
+di conceder essi vasselli al Re fu aggiunto, che <lb/>
+occorrendo altrettanto si facesse per servitio del signor <lb/>
+duca di Savoia o quando havesse fatto esporre <lb/>
+il bisogno di una simil assistenza da questa parte. <lb/>
+Mi disse di più, che ’l contenuto della lettera dell’<lb/>
+agente, o ambasciatore di sua Altezza partito di Parigi era <lb/>
+il rappresentar lo stato de’ presenti negotii, il fine <lb/>
+che potevano havere gl’affari di quell’Altezza, <lb/>
+pregiudiciale anco a questi Stati, et richiedeva <lb/>
+che si deliberassero di quell’aiuto, che fosse sti-<lb/>
+mato proprio: aggiungendo che questo non <lb/>
+bastava a sufficientemente muover, perché in <lb/>
+fine le lettere non sano replicare, et che questi <lb/>
+signori, se dichiarano una buona volontà, vogliono <lb/>
+anco ch’ella sia stimata, inferendo, che <lb/>
+vogliono in miglior maniera esser ricercati. </p>
+<p>Ho inteso che al<ptr target="#tn14" n="14"/> signor principe Mauritio in alcune <lb/>
+lettere, che ha havuto di Alemagna viene <lb/>
+scritto, che sua Maestà Cesarea haveva ispedito <lb/>
+il conte d’Holach come ambasciatore alli principi elettori
+<pb n="135r" facs="03_135r" rend="0"/>
+et agl’altri principi di Germania per disporli all’<lb/>
+elettione di re de’ Romani: di questo l’Eccellenze vostre <lb/>
+ne devono havere dal proprio luoco più sicuro <lb/>
+l’avviso. </p>
+<p>L’arcivescovo di Spalato partì venerdì alla volta di Londra[;]<ptr target="#tn15" n="15"/> <lb/>
+non ha habitato per dormire in casa dell’ambasciator d’Inghilterra <lb/>
+ma ben quasi sempre è stato il resto del tempo con <lb/>
+lui. Il signor principe Mauritio l’ha voluto a desinar <lb/>
+seco; ognuno ha havuto curiosità di saper il certo <lb/>
+della sua venuta in queste arti; et da un suo <lb/>
+manifesto non<ptr target="#tn16" n="16"/> si crede altrimenti, se non che habbi <lb/>
+mutata religione. Questo l’ha fatto stampar <lb/>
+ad Heidelbergh del<ptr target="#tn17" n="17"/> quale per abundare sarà <lb/>
+qui aggiunto un essemplare, se ben credo <lb/>
+che l’Eccellenze vostre l’haveranno di già havuto <lb/>
+et ho saputo, che l’ha ristampato anco qui <lb/>
+affine di haverlo pronto per distribuirlo al <lb/>
+suo gionger<ptr target="#tn18" n="18"/> in Inghilterra. Egli il lunedì seguente <lb/>
+al suo arrivo in questo luoco venne alla <lb/>
+mia casa<ptr target="#tn19" n="19"/> nella carrozza del signor ambasciator inglese, <lb/>
+io stimai bene non ricusar di riceverlo. </p>
+<pb n="135v" facs="03_135v" rend="0"/>
+<p>Mi disse in sostanza, che ’l debito, che teneva come <lb/>
+suddito humilissimo di vostra Serenità l’haveva astretto a <lb/>
+venir a veder me suo ministro; che haveva <lb/>
+notificata a lei la causa della sua partita; parlò <lb/>
+in maniera, che ben mostrò esser disgustato per <lb/>
+male sodisfattioni havute da questo pontefice[;] <lb/>
+volse darmi ad intender, che non haveva cambiata <lb/>
+religione, et che s’era risoluto ricorrer alla prot[ezione] <lb/>
+del re d’Inghilterra per salvezza della sua vita; et con <lb/>
+altre simil dicerie si sforzò di coprire il suo <lb/>
+humore poco sano. Io gli risposi, che non pote[vo] <lb/>
+approbar la sua risolutione di andar a cercar un[a] <lb/>
+protettione lontana, mentre havendo la giustitia <lb/>
+dal canto suo, come diceva poteva haver quella <lb/>
+di vostra Serenità suo Principe naturale, che mai ha <lb/>
+abandonati li suoi sudditi, et che essendovi <lb/>
+questa conoscenza nell’universale, crede[vo] <lb/>
+che niuno haverebbe riputata legitima <lb/>
+la causa, ch’egli portava della sua parte[nza] <lb/>
+anzi all’incontro sarebbe stato stimato<ptr target="#tn20" n="20"/> diverso il s[…] <lb/>
+interno. Egli mi replicò, che quanto mi have[va]
+<pb n="137r" facs="03_137r" rend="0"/>
+detto era vero; et io restai nella mia credenza <lb/>
+né doppo l’ho più veduto; né li più sensati <lb/>
+li hanno prestato gran credito; ma tengono <lb/>
+che più tosto la necessità lo constringa andar a <lb/>
+cercar il vito; et il signor ambasciator di Francia mi <lb/>
+disse, che haverebbe servito questo in Inghilterra <lb/>
+per dar materia a quel Re di essercitar maggiormente <lb/>
+la sua liberalità. </p>
+<p>Hoggi ho fatte lettere di cambio di sei milla ducati <lb/>
+al signor Guglielmo Vanderput per il fratello Gio. Pietro <lb/>
+et di altri sei milla doicento vinti sei alli signori Calan-<lb/>
+drini per il signor Melchior Noirott, et li doicento <lb/>
+vinti sei sono quelli che già hebbe il corriero <lb/>
+straordinario, come ne diedi riverente conto alla <lb/>
+Serenità vostra colle<ptr target="#tn21" n="21"/> mie de’ 2 del passato, et tutti <lb/>
+doveranno pagarsi per li quindeci del mese <lb/>
+di genaro venturo. </p>
+<p>Li signori Orelii di Zurich mi scrivono, che li signori Gua-<lb/>
+dagni havevano havuto dall’eccellentissimo Collegio <lb/>
+il mandato delli seicento scudi, che<ptr target="#tn22" n="22"/> presi da <lb/>
+loro per far il viaggio da Zurich sin qui; ma
+<pb n="137v" facs="03_137v" rend="0"/>
+che fin il mese passato non havevano ancor potuto <lb/>
+haverne la sodisfattione, et mi pregano di scrivere <lb/>
+a vostra Serenità, il che faccio colla mia ordinaria riverenza <lb/>
+se ben stimo, che già saranno restati contenti. Gratie etc. </p>
+<p>Dall’Haye a’ 28 novembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="138r" facs="03_138r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="138v" facs="03_138v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="044">
+<!--
+<p n="138vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 novembre 1616 ricevute<ptr target="#tn23" n="23"/> 14 decembre </p>
+<p>Haia 2<hi rend="superscript">a</hi> </p>
+<p>Il signor Arsen è stato a visitarlo. <lb/>
+Discorre de’ concetti de’ Spagnoli, <lb/>
+et di più stretta congiontione, et amicitia <lb/>
+con quei signori dicendo che dalla parte loro <lb/>
+conviene che venga la propositione, et <lb/>
+che si faccia l’apertura. </p>
+<p>Ha corrisposto con affermare la buona <lb/>
+volontà della serenissima Republica, la buona <lb/>
+corrispondenza, et la stima che si fa di <lb/>
+quei signori, et così farà quando gli venga parlato. </p>
+<p>Discorre anche del signor duca di Savoia. <lb/>
+Della buona volontà che gli portano <lb/>
+quei signori nelli quali troverà pronta <lb/>
+corrispondenza. Et porta l’esempio <lb/>
+de’ vasselli già richieste per Francia. </p>
+<p>Avisi circa elettion di re de’ Romani. </p>
+<p>Del già arcivescovo di Spalato. </p>
+<p>Ha fatto lettere di ducati 6 mila a Vanderput. <lb/>
+Et<ptr target="#tn24" n="24"/> d’alti 6226 a Calandrini. </p>
+<p>Li Oreli di Zurich scrivono che li <lb/>
+Guadagni non han potuto riscuotere <lb/>
+li scudi 600 che prese per il viaggio. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="045" corresp="044" source="132r-133v" >
+<div type="main" facs="main text of attachment I" n="045" corresp="044" >
+<!--<p>Allegato I al n. 44 (cc. 132r-133v; decodifica di cc. 131r-v, 134r-v, 136r)</p>-->
+<pb n="132r" facs="03_132r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="132v" facs="03_132v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="133r" facs="03_133r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="133v" facs="03_133v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Mistake in numbering of the folios cc. 134r-137v.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "d-" corrected above "n-; -ll-" corrected above "-i-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "andamenti … prepositione" decoding of the encrypted text can be found on cc. 132r-132v; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "spagnuoll", crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-p-" corrected above "-r-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "ma" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "et … generali" decoding of the encrypted text can be found on c. 132v; with cross-reference sign.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "di g" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "così" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Gap in het outer margin of the page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "che al" corrected above "che ’l."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Gap in het outer margin of the page.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Corrected above "se."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line on "arrivo" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "con" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> -"ll-" corrected above "-n-."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Corrected above "a."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

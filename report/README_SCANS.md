@@ -26,14 +26,38 @@ Contains the scans and additional information in the following subfolders:
     orientation for reading in quite a few cases. This file specifies the rotation
     that needs to be applied for optimal reading.
 
-### `images`
+### `covers`
 
-Here are all the scans, in subdirectories according to the filzas (folders).
-Each filza directory is in turn divided in directories of 100 full pages (all pages
-whose number start with the same hundredth, i.e. 100 recto-verso pairs).
+These are scans of the covers of the filzas, which are physical carton folders
+containing the letters. These covers are not transcribed, since they do not contain
+original text.
 
-There is a separate directory `covers` that contains all the cover pages of the
-filzas. These pages do not have textual content, and do not belong to letters.
+### `logo`
+
+The logo of the archive in Venice that holds the physical filzas and their content.
+
+### `pages`
+
+The scans of all transcribed pages, ca. 9150 in total. The file names start
+with the filza number,
+`02`, `03`, `04`, `05`, `06`, `07`, `08`, `09`, `09b`, `10`, `11`, `12`, followed
+bij the letter number, possibly followed by `bis` or `ter`, followed by `r` or `v`
+(recto/verso), followed by `.jpg`.
+
+Remarks:
+
+*   the initial pages of filza 02 are not transcribed, the transcriptions start
+    at page 71;
+*   The resolution of the pages is moderate and variable: 300 x 300 and 400 x 400,
+    the file sizes are roughly between 500KB and 3MB.
+*   The orientation of the pages is portrait, and you see all recto pages on
+    the right side of the binding and all verso pages on the left side of the binding.
+*   However, the written material is often in different orientations.
+*   We provide a file `rotate.yaml` that specifies the best orientation for reading for
+    each page that needs to be rotated for that. The amount of rotation is specified in 
+    degrees (0-360) in the clockwise direction.
+    IIIF applications that want to display these pages can use this information
+    to present a readable view to end users.
 
 # Provenance of the scans
 
@@ -61,56 +85,6 @@ the TEI into Text-Fabric, the Text-Fabric into text streams and annotations, whi
 is the input for the web site.
 In that pipeline a lot of consistency checks have been applied, and the data has been
 enriched with named entity annotations.
-
-## Content organization
-
-The physical letters in the archive are bound into folders (*filze*, plural of *filza*).
-
-The corpus consists of filze 02, 03, 04, 05, 06, 07, 08, 09, 09b, 10, 11, 12, and
-contains ca. 9150 scans.
-
-The transcriptions cover the vast majority of these scans, the exceptions being:
-
-* the initial pages of filza 02 are not transcribed, the transcriptions start
-  at page 71;
-* the entire filza 9b (marked as 9-bis) is not transcribed.
-
-The cover pages of the filze are taken together in the subdirectory `covers`.
-
-Every filza corresponds with a subdirectory of the same name, and they contain the
-proper recto and verso pages.
-
-Inside every filza directory you find the pages divided in subfolders by the hundred:
-folders 0, 1, 2, 3, etc. containing the pages 1-99, 100-199, 200-299, 300-399, etc.
-
-Every page corresponds to one `.jpg` file, with the file name built up as
-
-```
-ff_ssss_ppp-rv.jpg
-```
-
-where
-
-*   `ff` is the *filza*
-*   `ssss` is the sequence number of the page in the filza
-*   `ppp` is the page number within the filza; it is a number, and sometimes there is 
-    `bis` or `ter` appended
-*   `rv` is either `r` (recto) or `v` (verso)
-
-The resolution of the pages is moderate and variable: 300 x 300 and 400 x 400,
-the file sizes are rpughly between 500KB and 3MB.
-
-The orientation of the pages is portrait, and you see all recto pages on the right side
-of the binding and all verso pages on the left side of the binding.
-
-However, the written material is often in different orientations.
-
-We provide a file `rotate.yaml` that specifies the best orientation for reading for
-each page that needs to be rotated for that. The amount of rotation is specified in 
-degrees (0-360) in the clockwise direction.
-
-IIIF applications that want to display these pages can use this information to present
-a readable view to end users.
 
 ## Curation
 
@@ -193,7 +167,7 @@ page 300v. That had to be renamed. But in a whole stretch after that, pages had 
 a file name that was slightly off. After a thorough inspection this has been remedied
 by a one-time script.
 
-Somewherein filza 9 something like that happened too: hundreds of pages had a page
+Somewhere in filza 9 something like that happened too: hundreds of pages had a page
 number in their file name that was one off. Again, after thorough inspection and with
 a one-time script, this has been straightened out.
 
@@ -212,30 +186,3 @@ different  orientations. We have adapted the rotation to the most salient piece 
 writing on the page. Often that was the biggest piece of the page, but in other cases
 the most conspicuous writing was just a formula, with some smaller, more content-rich
 writing in an other direction. Then we went for that smaller piece.
-
-## How to use this set of scans
-
-The division of files in folders of 100 pages might seem arbitrary, but it is actually
-helpful if you need to transport the pages in smaller chunks. Some cloud services, such
-as Dropbox, Surfdrive and others fail in mysterious ways if you ask them to handle
-a lot of files, or they do not resume an upload of download after a glitch in the
-network connection.
-
-However, if you use this dataset in an application, it is recommended to let the
-files land in one single directory, or possibly in directories per filza.
-There will be no clashes, since every file has a unique name within the dataset.
-
-Except for the pages in `covers`, you can also leave out the sequence numbers, which
-may or may not be handy. There will be no clashes, and the ordering will be the same.
-
-This hinges on two things:
-
-*   we have checked that the page numbers do increase: there are no two pages with
-    a different sequence number while the combination of their page number and`rv` 
-    specifier are identical;
-*   in the case of `bis` and `ter` pages: in the natural sort order `bis` comes
-    before `ter`, and the page without these suffixes comes before the two;
-*   in the natural sort order `r` comes before `v`.
-
-In our pipeline to produce the Suriano corpus on the web, we have done exactly this:
-we made a flat directory of all scans, with simplified file names.

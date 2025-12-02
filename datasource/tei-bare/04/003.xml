@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.003 date 1617-03-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 10r-11v, 14r-15v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">10r-11v, 14r-15v, 12r-13v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Pasini has sent a list of troops being levied in Brabant destined for Milan, document is enclosed. More troops are being raised for the French king. Reports that the religious divisions continue as the Gomarists want to be recognised in every city. Reports that he has visited van Aerssen who claims the religious tensions cause delay in talks about closer union between the Dutch Republic and Venice. Further reports from Pasini that Studder will leave soon and two soldiers who had offered their service to Venice have joined Belgioioso to France. A merchant who offered assistance to Van Wassenhoven has visited Suriano together with two men from States General to request a payment. One document attached to this letter: "Relazione delle compagnie che si levano in Brabante"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-04">4 marzo 1617</date>
+            <num>004, 005</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="004">
+<div type="main" facs="main text of letter" n="004">
+<!--<p>4 marzo 1617, L’Aia (cc. 10r-11v, 14r-15v)</p>-->
+<pb n="010r" facs="04_010r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>dall’aggiunta lista quelle delle Signorie vostre eccellentissime, che ne have-<lb/>
+ranno gusto, vedranno il nome de’ capitani d’infanteria <lb/>
+et cavalleria, che si leva in Brabant. Si fanno le <lb/>
+compagnie in grandissima fretta, et saranno ben presto <lb/>
+ad ordine per far mostra. Ancorché si sia inteso, che <lb/>
+lo Spinola habbi cercato di accordar con li Anoni condo-<lb/>
+tieri d’Italia per condur moschetti, et altre armi, <lb/>
+tutti non credino, che siano per Italia. Il Pasini mi <lb/>
+scrive, che le genti, che si levano dovevano servir per <lb/>
+Milano per quanto si publicava; ma (aggiunge) <lb/>
+che persona d’auttorità haveva affermato, che <lb/>
+esse genti non haverebbono passati i monti. </p>
+<p>Oltre le sudette levate in Brabant si sente che da <lb/>
+ogni banda si fano genti et per il Christianissimo, et per li <lb/>
+principi mal contenti tanto nel paese di Lieges, <lb/>
+quanto in Alemagna, et anco dalli stessi principi <lb/>
+dell’Unione; et già alcuni giorni partì il colonello <lb/>
+Ghent alla volta di Cleves, ove l’aspettavano <lb/>
+lettere, et commissioni del marascial di Buglione <lb/>
+per far mille cavalli: stano per tanto questi signori <lb/>
+in gran dubio, ove finalmente habbi a parar
+<pb n="010v" facs="04_010v" rend="0"/>
+questo negotio, et non si sano risolver ad alcuna cosa. </p>
+<p>Oltre di ciò stano occupati nell’accommodar le differenze <lb/>
+di religione, et in tutti questi giorni non si è atteso ad <lb/>
+altro, che alla riduttione della Congregatione di <lb/>
+Holanda coll’esservi sempre presente il signor principe <lb/>
+Mauritio, che ha l’assistenza delle principali città <lb/>
+di questa provincia, come Amsterdam, Encusen, Dor-<lb/>
+drechet, et altre. Si consulta, et si disputa <lb/>
+l’affare, né ancor vi si è trovato il buon ripiego <lb/>
+è stato proposto di deputar sette politici, et <lb/>
+sette ecclesiastici de’ più<ptr target="#tn1" n="1"/> sensati, perché colla maturità de’ <lb/>
+pareri, et de’ consigli portino il vero antidotto al <lb/>
+mal intestino. Viene trovata buona la propositione, <lb/>
+ma tutto sta quello che haverà ad esser nell’interim <lb/>
+perché quelli della vecchia religione, che chiamano gomo-<lb/>
+risti, et de’ quali ha la protettione sua Eccellenza non vo-<lb/>
+gliono ammetter quelli della nuova nominati <lb/>
+arministi, ancorché questi si contentino, che li <lb/>
+gomoristi siano unitamente insieme. Dicono questi <lb/>
+che essendo la loro la vecchia, et la prima professa <lb/>
+in questi paesi (<ptr target="#tn2" n="2"/>et per la quale si sono vendicati in
+<pb n="011r" facs="04_011r" rend="0"/>
+libertà vogliono prima, che questa sia accettata in <lb/>
+ogni città, et poi si parli dell’altra, asserendo<ptr target="#tn3" n="3"/> <lb/>
+alcuni, che s’ella non era la buona sia stato anco male <lb/>
+col pretesto di essa il scostarsi dal principe naturale. </p>
+<p>Vi è chi propone il farsi un sinodo provinciale; ma molti <lb/>
+disentono per non dar l’auttorità a’ predicanti in queste <lb/>
+materie. In tale stato si trovano le cose, et li buoni <lb/>
+patrioti sono in grandissima pena, pur si spera, che <lb/>
+tutto in fine sia per acquetarsi con reciproca<ptr target="#tn4" n="4"/> sodi-<lb/>
+sfattione. </p>
+<p>Havendomi ultimamente visitato il signor Arsen, entrato in <lb/>
+discorso delle cose correnti di religione, comiserò <lb/>
+lo stato, et la partialità, che vi si vedeva; et <lb/>
+a tal proposito mi disse, che anco questo impe-<lb/>
+diva, che ’l negotio di più stretta congiontione con <lb/>
+la Serenità vostra di che per<ptr target="#tn5" n="5"/> avanti mi haveva discorso <lb/>
+non si proseguisse il concetto de’ più buoni di far <lb/>
+apertura di negotio con<ptr target="#tn6" n="6"/> lei; che non era <lb/>
+dubio, che vi erano di quelli, che asserivano <lb/>
+esser già l’apertura stata fatta fare col <lb/>
+mezo del signor Vandermil, et che allhora non era
+<pb n="011v" facs="04_011v" rend="0"/>
+stato dato d’orrecchie, et però haverebbono voluto che <lb/>
+quest’apertura hora venite dalla Serenità vostra il qual <lb/>
+pensiero ho inteso da qualche altra parte; et esso <lb/>
+Arsen disse, ch’egli stimava, che dovesse caminarsi <lb/>
+col metodo proprio, et era che di qua si dovesse <lb/>
+parlare. Questo è amato da sua Eccellenza che ama anco, per <lb/>
+quanto egli mi ha affermato, l’adrizzo di questo negotio; <lb/>
+et consequentemente<ptr target="#tn7" n="7"/> non è della fattione del signor Bernvel. </p>
+<p>Si trova qui di passaggio il secondo genito del signor marchese <lb/>
+di Bada giovane di disdotto anni in circa et di buon spirito. <lb/>
+Viene hora di haver veduta l’Inghilterra, et pensa di partir <lb/>
+la prossima settimana alla volta di Durlach. Io ho <lb/>
+stimato bene subito arrivato andar a vederlo, <lb/>
+et complir seco; et egli è venuto a revisitarmi <lb/>
+et nell’uno, et l’altro congresso ha mostrato un <lb/>
+desiderio ardente di poter un giorno esser servitor <lb/>
+di quella serenissima Republica, et mi disse in particolare che <lb/>
+non haverebbe mancato<ptr target="#tn8" n="8"/> di procurar di rendersene capace <lb/>
+et io l’ho ringratiato della sua ottima volontà. </p>
+<p>Il Pasini mi dice nelle ultime lettere, che ’l Studder<ptr target="#tn9" n="9"/> <lb/>
+presto si metterà in camino per venir a servir
+<pb n="014r" facs="04_014r" rend="0"/>
+la Serenità vostra, come anco l’alfier Michiel Pagani; che <lb/>
+sperava di accordar il capitan Giulio Cesare Pozzo; <lb/>
+et che ’l conte Gio. Giacomo Belgioioso haveva presi doi <lb/>
+di quelli alfieri, che haveva in disegno di inviar <lb/>
+al servitio di lei, per valersene in questa levata per Francia. </p>
+<p>È tornato a me il mercante, che ha fatta assistenza <lb/>
+al Wassonhoven con altri suoi compagni, pregandomi <lb/>
+di nuovo per l’esborso di qualche summa di denaro <lb/>
+et hanno fatto venir anco doi de’ signori Stati Generali <lb/>
+a parlarmene; li quali ho rimandati sodisfatti <lb/>
+di quanto ho loro detto per mio scarico, mentre il <lb/>
+Wassonhoven ha negato di voler da me quanto gli <lb/>
+offersi, et ha fatto il viaggio per costì accompa-<lb/>
+gnato da uno mandato dalli interessati per ricever <lb/>
+denari. Essi mercanti mi hanno supplicato di <lb/>
+nuovo di scriverne a vostra Serenità et io la prego insieme <lb/>
+darmi quell’ordine, che stimerà proprio per <lb/>
+risponderli: affineché queste genti non restino mal <lb/>
+contente, vedend’io molto bene, che vi corre <lb/>
+dell’interesse de’ principali, et starò con desi-<lb/>
+derio attendendo la risposta. Gratie etc. </p>
+<p>Dall’Haya a’ 4 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="014v" facs="04_014v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="015r" facs="04_015r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="015v" facs="04_015v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="004">
+<!--
+<p n="015vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 marzo 1617 ricevute 22 detto </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="005" corresp="004" source="12r-13v" >
+<div type="main" facs="main text of attachment I" n="005" corresp="004" >
+<!--<p>Allegato I al n. 4 (cc. 12r-13v)</p>-->
+<pb n="012r" facs="04_012r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Relatione delle compagnie, che si levano in Brabante <lb/>
+a nome del re di Spagna per Italia come dicono </p>
+<p>Primieramente dieci compagnie di cavalleria, li capitani <lb/>
+delle quali sono </p>
+<p>Monsignor de Wittenhorst </p>
+<p>Arnolt de Saint Genois </p>
+<p>Pierre de Noeufrourt<ptr target="#tn10" n="10"/> </p>
+<p>Don Jean de Colas </p>
+<p>Jacques Baubort </p>
+<p>Gabriel de Chasteler signor d’Ansermon </p>
+<p>Il signor di Maleure </p>
+<p>Pierre Regnault </p>
+<p>Liny de Joeuene </p>
+<p>Monsignor de Wyngarde. </p>
+<p>Seguitano li nomi de’ capitani del regimento <lb/>
+del signor de Coing </p>
+<p>Prima la compagnia del Colonello </p>
+<p>Carlo de Bria figliolo del governator di Marimburg </p>
+<p>Carlo Doignies </p>
+<p>Pierre de Bonniers </p>
+<p>Theodoro Carmego </p>
+<p>Carlo d’Ische </p>
+<p>Carlo Salmier </p>
+<p>Nicolas Richard </p>
+<p>Hancelot d’Haussart<ptr target="#tn11" n="11"/> </p>
+<p>Nicolas d’Andelot </p>
+<p>Simon Quesnoy </p>
+<p>Philippo de Loqueingrin figliolo del baron di Pamele</p>
+<pb n="012v" facs="04_012v" rend="0"/>
+<p>Gerard Schadict </p>
+<p>Eustachio de Brossy </p>
+<p>Guillaume de Haer. </p>
+<p>Item li nomi de’ capitani del reggimento di <lb/>
+don Guglielmo de Verdugo </p>
+<p>La compagnia del maestro di campo </p>
+<p>Nicolas de Marche </p>
+<p>Pierre Frey </p>
+<p>Nicolas de Laittres </p>
+<p>Monsignorr Steenhuysse </p>
+<p>Monsignor de Beauregard </p>
+<p>Jan de Hayns </p>
+<p>Monsignor Vander Beecke </p>
+<p>Don Francesco de Tympel<ptr target="#tn12" n="12"/> </p>
+<p>Monsignor Vander Noot </p>
+<p>Gillis Anceau </p>
+<p>Le signeur de la Coye </p>
+<p>Le Baron de Saint Martin </p>
+<p>Anthoine de Binderen </p>
+<p>Pierre Tellier detto Camergo.</p>
+<pb n="013r" facs="04_013r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="013v" facs="04_013v" rend="270"/>
+<p>Lista delli<ptr target="#tn13" n="13"/> capitani delle compagnie <lb/>
+di<ptr target="#tn14" n="14"/> cavallaria<ptr target="#tn15" n="15"/> et fantaria<ptr target="#tn16" n="16"/> che se <lb/>
+levano in Brabante </p>
+<p>nelle 2<hi rend="superscript">de</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Second "-c-" corrected above "-f-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "mi."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "vostra Serenità" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-em(en)te" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> -"de-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Second "-r-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "H-" corrected above "A-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-p-" corrected above "-l-."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-i" corrected from "-e-."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "capitani delle" corrected above "compagnie de."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-a" corrected above "-e-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-a" corrected above -"e-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

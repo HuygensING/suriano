@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.027 date 1620-06-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 147r-149v, 154r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp266-279
+            </note>
+            <biblScope unit="page">147r-149v, 154r-v, 150r-v, 153r-v, 151r-152v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Waiting for Lormes in Brussels, requests safe conduct for these captains and ships. Attached are copies of two letters by Falghero to Pasini about this matter (27 and 29 May 1620). Reports that all the ships have returned and that he is waiting for the accounts from admiralties. Sticke has confessed to the charges and accussed his brother, the master minter has fled to Antwerp. One text attached: a copy of a letter by Falger to Pasini from Brussels to The Hague dated 27 May 1620 and another one dated 29 May 1620</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-02">2 giugno 1620</date>
+            <num>039, 040, 041</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="039">
+<div type="main" facs="main text of letter" n="039">
+<!--<p>2 giugno 1620, L’Aia (cc. 147r-149v, 154r-v)</p>-->
+<pb n="147r" facs="09_147r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 209 comincia 208 </p>
+<p>Serenissimo Principe </p>
+<p>mandai la passata settimana alla Serenità vostra colle mie lettere <lb/>
+206 et 207 l’obligo, che haveva fatto quel monsignor de Lormes, <lb/>
+che ha in mano il negotio di quei vasselli, et qui aggiunta <lb/>
+sarà la replicata dell’uno, et dell’altro. Egli non è <lb/>
+ancor comparso di ritorno dal viaggio, che haveva intra-<lb/>
+preso; ma il signor Falghero, che lo attende a Brusseles <lb/>
+ha scritto, che d’hora in hora deve venire. Ma perché <lb/>
+l’obligo di detto Cavalliere non tiene, che sino alla fine di <lb/>
+maggio il Pasini, ch’è appresso di me, et anco il Falghero <lb/>
+nelle lettere sue mostran di temer, che l’intervallo del <lb/>
+tempo alla risolutione della Serenità vostra possi esser il solo <lb/>
+che disturbi questo negotio poiché li fiorentini ad <lb/>
+ogni loro possibile cercano condur detto Cavalliere al <lb/>
+suo fine desiderato. Detto signor Falghero si trova a Brus-<lb/>
+seles con ordine espresso di operare acciò subito tornato <lb/>
+il detto monsignor di Lormes lo conduchi qui. Egli se n’è <lb/>
+passato dove sono li vasselli per reguagliar li capi di <lb/>
+quanto haveva trattato per il servitio, et sicurtà loro; et anco <lb/>
+per dar gl’ordini proprii, che restando servato, et concluso <lb/>
+il concerto siano pronti ad adempire gl’ordini della <lb/>
+Serenità vostra quando elle glieli manderà. Li sensi del Pasini, <lb/>
+et del Falghero ambidui fidelissimi sudditi di quella serenissima <lb/>
+Republica sono, che, dovendosi abbracciar questo affare, <lb/>
+sarebbe più necessaria per levar gl’impedimenti
+<pb n="147v" facs="09_147v" rend="0"/>
+per dir meglio il pretesto, che la lunghezza delle risposta<ptr target="#tn1" n="1"/> <lb/>
+o la tardanza possi portar contrarii effetti a beneficio <lb/>
+di altri Principi, la Serenità vostra si compiacesse mandar il <lb/>
+salvacondotto per quei capitani, et genti dei vasselli; et il <lb/>
+più presto sarebbe il più proprio con quelle clausule, et <lb/>
+conditioni, ch’ella saprà per sua prudenza commandare <lb/>
+et che conformino col contenuto della lettera scritta dal <lb/>
+Pasini a quell’eccellentissimo Senato nel far la proposta di questo affare <lb/>
+mandata a me in lettere de’ 30 del mese di aprile passato. <lb/>
+Concorro anc’io coll’opinione di esso Pasini, et Falghero <lb/>
+per la missione di esso passaporto; et quando ella giudichi <lb/>
+così proprio il mandarmelo, per troncar, come ho detto <lb/>
+le lunghezze, et per conseguenza levar ogni pretesto al <lb/>
+detto signor de Lormes potrebbe farlo con conditione, che <lb/>
+non<ptr target="#tn2" n="2"/> gli sia dato se non con quella più certa cautione, et <lb/>
+approbratione, che dall’Eccellenze vostre venirà stimata propria <lb/>
+et per tanta maggior sicurezza di questo negotio, quando <lb/>
+elle stimassero così a proposito, et servitio della serenissima Republica <lb/>
+si offeriscono esso Pasini, et Falghero transferirsi o uniti, <lb/>
+o seperati, o un solo di loro alla flotta dei 24 <lb/>
+vasselli, et sul luoco tirar la volontà di costoro per <lb/>
+renderle fedeli, et osservar anco diligentemente <lb/>
+tutto quello, che giudicaranno esser proprio, et degno <lb/>
+della notitia dell’Eccellenze vostre. Qui aggiunta sarà copia
+<pb n="148r" facs="09_148r" rend="0"/>
+del contenuto di doi lettere del Falghero scritte al Pasini di <lb/>
+Brusseles. Sarà bene, che siano lette per maggior espressione<ptr target="#tn3" n="3"/> <lb/>
+di quanto ho riverentemente detto; non lasciando con l’istessa <lb/>
+riverenza di aggiunger, che parmi il negotio esser ben <lb/>
+fondato, ma che non possi patir dilatione. La prudenza <lb/>
+però della Serenità vostra vedrà molto più lontano; et io non <lb/>
+mancarò venendo qui il detto Cavalliere di far che <lb/>
+porti il tempo innanti il più che mi sarà possibile. </p>
+<p>Dalle mie precedenti lettere haveranno l’Eccellenze vostre inteso l’ar-<lb/>
+rivo di tutte le navi; et dall’ultime, che si attendeva <lb/>
+dalle Amiralità a far li conti. Per quello ne ho avviso <lb/>
+sono li detti magistrati intricati; et io non ho mancato <lb/>
+di solecitarli con mie lettere. Veggo anco nell’ultime <lb/>
+sue il desiderio ch’elle hanno di haver ogni più <lb/>
+distinto conto tanto farò. Ma è necessario aspettar <lb/>
+che sia fatto dall’Amiralità sudetta. Non posso <lb/>
+darle altro, che ’l fondo del denaro in generale <lb/>
+a cui a parte a* parte* è stato dispensato. Il che <lb/>
+mi sarà facile, et pronto quando un tal ordine, <lb/>
+et commandamento da lei di volerlo; et poi haverlo <lb/>
+a suo tempi più particolare. </p>
+<p>Il presidente Stich prigione<ptr target="#tn4" n="4"/> per la falsificatione delle monete senza <lb/>
+fortuna ha confessata la complicità, et accusato il suo <lb/>
+fratel maggiore per capo principale. Questo è stato
+<pb n="148v" facs="09_148v" rend="0"/>
+ambasciator doi volte per il già marchese elettore di Branden-<lb/>
+burgh in Inghilterra; et fu fatto cavalliere da quella <lb/>
+Maestà. È stato anco appresso questi signori con titolo di <lb/>
+consigliero di quell’Altezza, et ha havute altre cariche <lb/>
+honorate. È stato seguitato et quelli che seguivano <lb/>
+la sua traccia hanno havuto odore, che fosse a Cleves, <lb/>
+là lo<ptr target="#tn5" n="5"/> hanno ritrovato, et richiesti quelli, che <lb/>
+quivi governano è stato carcerato. Ha anco il <lb/>
+residente confermato haver gettati al partir suo di <lb/>
+qua in un condotto tra sacchi con<ptr target="#tn6" n="6"/> diverse monete <lb/>
+di argento, et d’uno poste<ptr target="#tn7" n="7"/> in uno di dove sono <lb/>
+stati levati; et trovati essi denari della medesima <lb/>
+qualità falsa, et adulterata. Il mastro, che fabricava <lb/>
+fuggì alla presa dei primi garzoni, et ritirato in <lb/>
+Anversa: tanto hanno sperato questi signori con <lb/>
+promesse, et impunità, et con amplo passaporto, che <lb/>
+si è condotto qui; onde non potrà negarsi da alcuno <lb/>
+il mal talento nel fabricar così indegna materia <lb/>
+et particolarmente alla qualità, che rappresentava qui <lb/>
+esso Stich per nome del suo Principe. Di quello seguirà <lb/>
+ne darò riverente conto alla Serenità vostra se sarà <lb/>
+degno della notitia di lei. </p>
+<p>Sopra<ptr target="#tn8" n="8"/> le relationi, et ufficii di monsignor Giffier <lb/>
+fatti così arrabbiati alla corte non s’è parlato qui
+<pb n="149r" facs="09_149r" rend="0"/>
+moto. Ho visitato l’Ambasciatore francese più di una volta <lb/>
+egli è venuto a vedermi doppo c’hebbi le sue de’ <lb/>
+6 del passato né in alcuno de’ congressi ha tocco <lb/>
+alcuna cosa de’ Grisoni; et io ho tacciuto, et mi <lb/>
+valerò solo dell’avviso<ptr target="#tn9" n="9"/> quando per mia debolezza <lb/>
+conoscerò proprio, et profitevole al servitio di vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya li 2 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="149v" facs="09_149v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="154r" facs="09_154r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="154v" facs="09_154v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">de</hi> </p>
+<p>n° 209 comincia 208 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="039">
+<!--
+<p n="154vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 giugno 1620 ricevute a’ 17 detto </p>
+<p>Del segretario Suriano. 2<hi rend="superscript">da</hi>. n° 209 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="040" corresp="039" source="150r-v, 153r-v" >
+<div type="main" facs="main text of attachment I" n="040" corresp="039" >
+<!--<p>Allegato I al n. 39 (cc. 150r-v, 153r-v)</p>-->
+<pb n="150r" facs="09_150r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia d’una letera scrita dal signor Pietro Falgher a <lb/>
+Gio. Battista Pasini di Brusselles delli 27 maggio 1620 </p>
+<p>Già mezhora fa ho solo recevua la sua delli 23 stante et <lb/>
+per essa ho veduto quanto se haveva operato circa quel negotio <lb/>
+nostro et come si ridotto la cosa in apuntamento di menare <lb/>
+costi monsieur de Lormes per abbocarsi con il clarissimo signor residente <lb/>
+Suriano, la cosa sta bene ma dubito che la dilatione non <lb/>
+causi qualche accidente che questo negotio se interompi prima <lb/>
+per la cosa se tratti et che vengano le resposte di Venetia correrà <lb/>
+puoco meno per non dire due mesi. Tratanto se l’ambasciatore di <lb/>
+Francia residente a quella corte se ne accorgesse, quello questo <lb/>
+sugetto trata come facilmente può avenire; potrebbe forse <lb/>
+opperare in maniera con partiti larghi di disturbarlo, né <lb/>
+occore dire che l’esser stato una volta inganato non lo lascierà <lb/>
+cascare la segonda, l’amore della Patria el servitio del suo <lb/>
+Prencipe naturalle obliga per non dire accrecha<ptr target="#tn10" n="10"/> ogn’huomo <lb/>
+a non comprendere tutte queste cosse, l’altra venendo costì <lb/>
+per abocarsi solamente et restare in apuntamento con dover <lb/>
+ritornare de qui per aspetare la risolutione di Venetia li <lb/>
+fiorentini lo assaliranno alla gagliarda et quello pottesse <lb/>
+resolvere Dio lo sa, perché se l’uno avanti de noi le <lb/>
+monstrerà il negotio concluso da quella parte dubito che <lb/>
+non ostante qual si voglia promessa lui acceterà il propostio <lb/>
+vi vadi un puoco considerando per potter prevenire a quello <lb/>
+che pottesse acadere. </p>
+<p>Fra tanto me parerebbe non fuori di proposito che se ci è <lb/>
+la volontà come si scuopre di abbraciare il partito. <lb/>
+Sua Serenità può sopra la relatione di vostra Serenità, mandare il
+<pb n="150v" facs="09_150v" rend="0"/>
+salvo conduto al clarissimo Suriano, perché poi confrontando la <lb/>
+proposta con quella di monsieur di Lormes sudetto si potrà <lb/>
+effetuare il negotio senza stare a dilatando, poiché da una <lb/>
+et dal’altra parte è, circondato de mille acidenti. </p>
+<pb n="153r" facs="09_153r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="153v" facs="09_153v" rend="270"/>
+<p>Lettere del Falghero </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 209 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="041" corresp="039" source="151r-152v" >
+<div type="main" facs="main text of attachment II" n="041" corresp="039" >
+<!--<p>Allegato II al n. 39 (cc. 151r-152v)</p>-->
+<pb n="151r" facs="09_151r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Copia d’altra letera scrita dal signor Falgher di <lb/>
+Brusseles all’Haya a Gio. Battista Pasini delli 29 maggio 1620 </p>
+<p>Martedì scrissi a lungo a vostra Serenità che puoco me resta a dirli poi-<lb/>
+ché il nostro amico sino a quest’hora non è per anco <lb/>
+comparso, le affermo di novo che la tardanza de’ costi <lb/>
+non porterà alcun benefitio a questo negotio però vorei far <lb/>
+in modo come con esse mie le ho detto et che la nostra <lb/>
+venuta costì non abbia servire ad altro che a rattificatione <lb/>
+del negotio. Non passa secondo giorno che non batti alla porta <lb/>
+de monsieur Maes per havere nove de lui dal qualle <lb/>
+dopo la sua partenza non hanno havuto altro haviso <lb/>
+né sano che pensare salvo che deve essere de qui di <lb/>
+horra in horra che il signor Iddio<ptr target="#tn11" n="11"/> lo conduchi a salvamento. </p>
+<pb n="151v" facs="09_151v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="152r" facs="09_152r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="152v" facs="09_152v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "là lo" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line on "di" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "gli affa" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "(" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-ec-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "I-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

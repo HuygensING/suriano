@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.025 date 1622-06-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">025</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 137r-138v, 145r-146v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">137r-138v, 145r-146v, 139r-140v, 141r-144v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Seeing that Hendrik van den Berg is not leaving Rheinberg, the States have decided that Frederick Henry will leave for Emmerich and Rees with 60 companies of infantry and 12 companies of calvary. Troops have been moved to he cities of Leuven and Mechelen to avoid further attacks from States General. Wassenaer and Katwijk have been granted to Frederik Henry. Reports that Maurice has worked really hard on agreement regarding the WIC, he sends attched the translation of the placard regarding the WIC, with note that foreign investors can sign up until september. Bad news has arrived from Prussia on potential deposing of the Polish king by the nobility and list of potential candidates to be elected at the next diet. Acknowledges receipt of letters 28 May including a copy of letter sent to Lando in London. Attached is the Italian translation of printed account of the expedition of Frederick Henry in May 1622 he included in letters of 6 June. Two documents attached: placard WIC and "vera descrittione dell’impresa fatta a 13 maggio"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-06-13">13 giugno 1622</date>
+            <num>040, 041, 042</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="040">
+<div type="main" facs="main text of letter" n="040">
+<!--<p>13 giugno 1622, L’Aia (cc. 137r-138v, 145r-146v)</p>-->
+<pb n="137r" facs="11_137r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 398 comincia 397 </p>
+<p>Serenissimo Principe </p>
+<p>doppo varie consulte, et vedendosi qui, che ’l conte Henrico di <lb/>
+Bergh non si muoveva dal posto presto presso Reinbergh <lb/>
+hanno questi signori deliberato, che ’l Principe partisse alla <lb/>
+volta di Emerich, et Rees deliberando per allhora sotto a <lb/>
+sua carica sessanta compagnie d’infanteria, et dodici <lb/>
+di cavallaria. Partì giovedì passato con doi colonelli <lb/>
+uno francese, et l’altro inglese. Et questo a fine di <lb/>
+divertir l’armi di detto Conte, et salvar se potranno <lb/>
+le piazze di Lip, et di Ham, sendoci avviso esser questa <lb/>
+batuta dall’inimico; ma non si sa ancorché sia presa. </p>
+<p>Appresso la partita del signor principe Henrico si è fatto venir <lb/>
+all’Haya il General<ptr target="#tn1" n="1"/> dell’artiglieria, il qual questa <lb/>
+mattina è partito verso Dordrecht per far caricar <lb/>
+artiglieria, et altre amunitioni. Altri ordini anco <lb/>
+si sono dati per incaminar tutto quello, ch’è necessario <lb/>
+per far campagna. Disegnando il signor principe Mauritio <lb/>
+partir anc’egli con il resto delli officiali maggiori <lb/>
+ma si tiene per fermo, che vorrà sentir quello farà <lb/>
+il marchese Spinola. </p>
+<p>Nel Brabant a Lovanio, a Malines, et altre piazze hanno <lb/>
+Spagnuoli fatto metter presidio di cavallaria, et in-<lb/>
+fanteria a fine di evitar altra scorreria, che volessero <lb/>
+far far li signori Stati. Ch’è appunto uno dei beneficii <lb/>
+aspettati da questa parte di far che spendino Spagnuoli <lb/>
+necessariamente in quella parte senza gran profito. </p>
+<p>Qualche doi o tre dì quelli Brabant sono<ptr target="#tn2" n="2"/> venuti qui per <lb/>
+accordar la contributione; ma si crede, che pochi
+<pb n="137v" facs="11_137v" rend="0"/>
+altri veniranno, et che a questi ancora sarà prohibito il dar <lb/>
+detta contributione. </p>
+<p>Al principe Henrico prima del suo partire è stato concesso da questi <lb/>
+signori di goder la confiscatione della signoria di Wassonher principal <lb/>
+signoria in questo Paese, et di dove ne sono uscite molte delle <lb/>
+più principali famiglie della nobiltà, et è di ragione del <lb/>
+principe di Ligni suddito dei serenissimi arciduchi. A questo <lb/>
+anco è annesso la signoria di Catuich, et un’altra. Tutto <lb/>
+godrà finché durarà la guerra. Così è espresso nella <lb/>
+concessione. </p>
+<p>All’incontro tutti li beni del signor principe Mauritio, et di casa di <lb/>
+Nassau restano dalla parte dei Spagnuoli confiscati, et <lb/>
+il stabile nobilissimo della famiglia, ch’è in Brusseles serve <lb/>
+al presente in parte per fonderia di artiglierie. </p>
+<p>Mando qui aggiunta la traduttione in sostanza del nuovo <lb/>
+placart fatto per l’errettione della Compagnia dell’Indie <lb/>
+Occidentali, sendosi venerdì risoluto, ch’ella vadi avanti <lb/>
+et che in essa resti incorporato il trafico dei sali <lb/>
+ancorché la città di Hoorn, et quella di Edam, che hanno <lb/>
+sempre contrastato, l’habbino ricusato: tuttavia <lb/>
+havendo li signori Stati fatta ogni diligenza<ptr target="#tn3" n="3"/> per condurle <lb/>
+amorevolmente al dovere, et stando ferme nella sua <lb/>
+pretensione et superstitione di non voler che s’incorpori<ptr target="#tn4" n="4"/> <lb/>
+tal materia nella Compagnia, et di non voler far guerra <lb/>
+sendo li traficanti de’ sali per maggior parte anabatisti <lb/>
+hanno sue Eccelenze fatto cuore, et li hanno lasciati <lb/>
+fuori. Il termine per sottoscriver alla depositione del
+<pb n="138r" facs="11_138r" rend="0"/>
+denaro è prefisso a quelli del Paese fino tutto luglio, et <lb/>
+alli forestieri fino tutto settembre prossimi. Il signor principe <lb/>
+Mauritio ha portato, come si suol dir di peso questo <lb/>
+negotio, et ha tentato di far venir le città tutte di Ho-<lb/>
+landa ad una buona risolutione in capo a molti anni <lb/>
+che se ne tratta, et tre continuati, che si è ripreso per le <lb/>
+mani; et soliciterà vederne la perfettione. </p>
+<p>Ci sono qui avvisi molto cattivi del re di Polonia, che <lb/>
+vengono scritti di Prussia, che quella Maestà sia in gran <lb/>
+pericolo di esser deposta dalla Corona; sendosi<ptr target="#tn5" n="5"/> amuti-<lb/>
+nati molti della nobiltà, del popolo, et della solda-<lb/>
+tesca in numero di quaranta milla in circa, che habbino <lb/>
+fatto una Dieta chiamata da essi Colo, che precide <lb/>
+al Racas nome di altra Dieta che sempre è contra <lb/>
+il Re, et che in quella habbino statuito, che ’l Re sia <lb/>
+deposto; che fino siano stati proposti tre per <lb/>
+elegger uno alla successione della Corona. Il re di <lb/>
+Svetia, quello di Bohemia, et il marchese elettore <lb/>
+di Brandemburgh; che il Re si armava, et <lb/>
+già haveva con l’assistenza di altri, che tenevano <lb/>
+il suo partito levati da circa trenta milla Cosacchi; <lb/>
+che havesso ispediti tre ambasciatori al re di Svetia <lb/>
+per trattar pace con lui; et che da per tutto le cose <lb/>
+caminavano in quel Regno con gran sospetti. <lb/>
+Tanto scrivo riverentemente per rincontro dei più sicuri <lb/>
+avvisi che vostra Serenità havesse da luochi proprii, quando <lb/>
+queste fossero promulgationi forse con artificio. </p>
+<pb n="138v" facs="11_138v" rend="0"/>
+<p>Le lettere della Serenità vostra dei 14 del passato hanno trovato partito <lb/>
+il signor di Rocalaura già più di tre settimane sono, et <lb/>
+m’è caro, che habbi incontrato col commandamento il <lb/>
+desiderio di lei. </p>
+<p>Mentre stavo per terminar la presente mi capita il dispaccio <lb/>
+mio ordinario, con le lettere della Serenità vostra de’ 28 del <lb/>
+passato delle quali, et della copia della lettera scritta <lb/>
+all’eccellentissimo signor ambasciator Lando mi valerò per informatione, <lb/>
+et per sostener quello che desidera che sia conosciuto <lb/>
+haver ella fatto servitio al re di Bohemia quanto <lb/>
+è stato conosciuto proprio colla condotta del conte <lb/>
+di Mansfelt. Et lo farò secondo che mi sarà data <lb/>
+materia di parlare<ptr target="#tn6" n="6"/>. </p>
+<p>Sarà qui aggiunta la copia della tradutione del viaggio del signor principe Henrico <lb/>
+et della finta rimonstranza all’Infanta <lb/>
+Gratie etc<ptr target="#tn7" n="7"/>. </p>
+<p>Dall’Haya li 13 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="145r" facs="11_145r" rend="0"/>
+<p>Cut page</p>
+<pb n="145v" facs="11_145v" rend="270"/>
+<p>Cut page</p>
+<pb n="146r" facs="11_146r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="146v" facs="11_146v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Seconda<ptr target="#tn8" n="8"/> </p>
+<p>n° 398 comincia 397<ptr target="#tn9" n="9"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="040">
+<!--
+<p n="146vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Haya 13 zugno 1622 </p>
+<p>n° 398 ricevute 30 detto </p>
+<p>L. C. R </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="041" corresp="040" source="139r-140v" >
+<div type="main" facs="main text of attachment I" n="041" corresp="040" >
+<!--<p>Allegato I al n. 40 (cc. 139r-140v)</p>-->
+<pb n="139r" facs="11_139r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Li Stati Generali de’ Paesi Bassi Uniti a tutti quelli che vederanno <lb/>
+o sentiranno legger le presenti salute; havendo noi doppo <lb/>
+matura deliberatione et consiglio fatto conchiuder per il <lb/>
+profitto delle Provincie et per l’avantaggio dei buoni sudditi <lb/>
+d’esse<ptr target="#tn10" n="10"/> una Compagnia et trafico in questi Paesi Bassi verso <lb/>
+l’Indie Occidentali Affrica<ptr target="#tn11" n="11"/> et altri luochi posti nelle <lb/>
+nostri precedente placcart de’ 9 di giugnio nell’<lb/>
+anno 1621 con prohibitione che neusciuno<ptr target="#tn12" n="12"/> delli <lb/>
+nati o habitanti di questi paesi possi durante il tempo <lb/>
+di 24 anni doppo il primo di luglio prossimo navigar <lb/>
+o negotiar fra le medesime limiti, eccetti solo quelli alli <lb/>
+quali nella licenza conceduta alla detta Compagnia <lb/>
+è permesso<ptr target="#tn13" n="13"/> di poter navigare per sale verso il ponto <lb/>
+del Reii sotto conditione dell’ordine da noi sopra questo <lb/>
+conchiuso o ancora da ponersi, et havendo noi considerato <lb/>
+il negotio puntualmente per il servizio del Paese, et vantaggio <lb/>
+della detta Compagnia havemo trovato utile et necessario <lb/>
+che la detta navigatione per sale verso il ponto del <lb/>
+Reii sia incorporata alla detta Compagnia per tanto <lb/>
+restando il nostro placcart delle 9 di giugnio nel suo <lb/>
+intiero havemo ancora prohibito, et interdetto come <lb/>
+per le presenti prohibimo, et interdicemo, che niesciuno <lb/>
+nato o inhabitante di questi paesi né li nati o <lb/>
+inhabitanti<ptr target="#tn14" n="14"/> ancora d’altri qual si sia, regni o
+<pb n="139v" facs="11_139v" rend="0"/>
+paesi direttamente o indirettamente potranno navigare verso il <lb/>
+detto ponte per sale se non in nome, et dalla parte <lb/>
+di questa Compagnia<ptr target="#tn15" n="15"/> volendo et ordinando che tutti altri <lb/>
+nati et inhabitanti che al contrario vorranno fare, o <lb/>
+saranno trovati di haver fatto<ptr target="#tn16" n="16"/> perderanno li vasselli <lb/>
+et beni li quali subbito saranno presi, et confiscati <lb/>
+per la detta Compagnia et in caso che tali vasselli o <lb/>
+beni doppo fossero stati venduti o asportati in altri <lb/>
+paesi o porti havemo statuito et ordinato, statuimo <lb/>
+et ordinamo con queste che li aministratori, et partici-<lb/>
+panti habbitanti in questi paesi o havendo qui beni <lb/>
+possino per il valore di essi esser qui convenuti et <lb/>
+essequiti; havemo ancora trovato buono di <lb/>
+prorogar il tempo per venir in questa Compagnia come <lb/>
+facciamo con le presenti per li inhabitanti di questi paesi <lb/>
+sino all’ultimo luglio prossimo stilo nuovo <lb/>
+inclusive, et per li forastieri sino il ultime di settembre <lb/>
+seguente ancora stilo nuova inclusive, ispirato il <lb/>
+qual tempo a nesciuno sarà più lecito di sottosignore <lb/>
+o entrar nella detta Compagnia a fine che tutti quelli <lb/>
+che vorranno ancora venire nella detta Compagnia <lb/>
+durante il detto tempo possino sottosignare o <lb/>
+far sottosignare di sotto alcuni<ptr target="#tn17" n="17"/> dei direttori, a questo <lb/>
+ordinati per tal summa di denari come troveranno
+<pb n="140r" facs="11_140r" rend="0"/>
+buono per profitar nella detta Compagnia volendo di più <lb/>
+che isperata le prime sei settimane prontamente siano <lb/>
+eletti fatti et constituiti administratori atti<ptr target="#tn18" n="18"/> et <lb/>
+sperimentati, et participanti che haveranno contri-<lb/>
+buito il più in conformità della licenza, et che alhora <lb/>
+li medesimi procederanno prontamente per l’equipaggio <lb/>
+per essequir prestamente et effettuar la conceduta <lb/>
+navigatione, et trafico, et perché volemo che tutto <lb/>
+il sopra detto resti fermo et stabile et sia osservato <lb/>
+in giudicio et fuori havemo richiesto alli Stati <lb/>
+et luochotenenti delle respettive provincie di Gheldria <lb/>
+Sutphen, Hollanda, et Westfrisia, Zelanda <lb/>
+Utrecht, Frisia, Overysel, et Groeminghe, et <lb/>
+paesi anessi con li consigli comessi, o stati deputati <lb/>
+come ancora alli cancelari presidenti, et quelli <lb/>
+della giustitia delli detti paesi, et in oltre commandato <lb/>
+et ordinmati<ptr target="#tn19" n="19"/> come commandiamo, et ordiniamo per <lb/>
+le presenti a tutti li collegii di Amiralità, et amiragli, superiori, colonelli, cornette, et capitani per <lb/>
+mar et per terra con tutti li giudici, et officiali <lb/>
+di ciò essiquire, et far essiquire, et conformar <lb/>
+addesso le sue sentenze non permettendo il contrario <lb/>
+et perché di ciò non possi alcuni pretender <lb/>
+ignoranza richiadamo, et commandiamo, a tutti
+<pb n="140v" facs="11_140v" rend="0"/>
+li superiori magistrati, officiali, et giudici, di questi Paesi <lb/>
+Uniti a chi appartenirà che faccino publicare queste <lb/>
+in ogni luocho dove è di costume<ptr target="#tn20" n="20"/> far publicationi <lb/>
+havendo noi trovato questo buono per il servitio <lb/>
+del Paese et delli buoni sudditi. Così fatto, et <lb/>
+concluso nell’Assemblea di signori Stati Generali nell’<lb/>
+Haya li dieci di giugnio 1622. </p>
+<p n="140vC">———</p>
+<p>1 </p>
+<p>Placart per la Compagnia <lb/>
+dell’Indie Occidentali </p>
+<p>nel n° 398 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="042" corresp="040" source="141r-144v" >
+<div type="main" facs="main text of attachment II" n="042" corresp="040" >
+<!--<p>Allegato II al n. 40 (cc. 141r-144v)</p>-->
+<pb n="141r" facs="11_141r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Vera descrittione dell’impresa fatta a’ 13 maggio 1622 per l’illustrissimo <lb/>
+et eccellentissimo signor principe Henrico Frederico nato principe d’Oranges <lb/>
+conte di Nassau etc. </p>
+<p>A’ 13 maggio 1622 sua Eccellenza partì dall’Haya la mattina a doi hore di <lb/>
+giorno conducendo seco il conte della Vale; il colonello marchese <lb/>
+di Cortumer; il colonello d’Alta Riva; il colonello Morgan; <lb/>
+il colonello Broch; il luocotenente colonel d’Osciant, il <lb/>
+marchese della Mossè con diversi altri arrivando la medesima <lb/>
+sera a Breda, ove era la piazza d’armi dell’infanteria. </p>
+<p>A’ 14 restò<ptr target="#tn21" n="21"/> a Breda per dar buon ordine al levar delle amunitioni <lb/>
+et altre cose necessarie per detta impresa. </p>
+<p>A’ 15 la mattina partì di Breda con tre mezi canoni di portata di 24 <lb/>
+lire. Sette pontoni, o barche per far con ponte otto pezzi di ponti <lb/>
+di paglia, intorno vinti, o trenta carra di amunitione, et altre provi-<lb/>
+sioni da guerra. Doi mille trecento fanti, sei cornette di cavallaria <lb/>
+quattro erano di Breda una di Gertrundenbergh, et l’altra di Husden <lb/>
+et tra Breda, et Hoostrater<ptr target="#tn22" n="22"/> arrivavano altre quattro cornette <lb/>
+di Berghen op zoom. A mezo giorno rinfrescato a Richevorssell fino <lb/>
+alle cinque hore doppo mezo giorno si partì di là, et si passò <lb/>
+per un fiume verso Grobendonc marchiando tutta la notte <lb/>
+et sendo la stradda molto cativa, et grandemente travagliata <lb/>
+l’infanteria il principe Henrico smontò da cavallo, mar-<lb/>
+chiando a piedi un’hora, et meza per il più cattivo, et <lb/>
+profondo della stradda per dar buon animo alla soldatesca <lb/>
+a fine che più volontieri travagliasse. </p>
+<p>Così arrivati la mattina dei 16 a Harentals dove era disegnata la sua <lb/>
+impresa, sendo stata la notte la stradda così cattiva, et havendo <lb/>
+alcuni della fanteria fallito il camino, sendo arrivati troppo <lb/>
+tardi, et per altre considerationi non si volse tentar altro col <lb/>
+petardo, sendosi totalmente lasciata la prima risolutione <lb/>
+et perché la soldatesca erasi stancata dal marchiar tutta<ptr target="#tn23" n="23"/> <lb/>
+la notte, si andò a rinfrescarla a Harenfort; ma all’un’hora
+<pb n="141v" facs="11_141v" rend="0"/>
+di notte si partì verso<ptr target="#tn24" n="24"/> Idegom per passar di là la riviera del Neth. </p>
+<p>Alli 17 la mattina all’alba gionse il signor di Marchet con 23 cornette <lb/>
+et così con le 33 cornette 2300 fanti si marchiò verso il fiume di Demmer <lb/>
+ove fu fatto con sei picciole barche un ponte tra il castello di <lb/>
+Rustenburgh, et il forte di Neiden, ove fu trovata una truppa <lb/>
+di contadini armati per impedir il passo tirando continuamente, che non <lb/>
+ostante si avanzò fino al forte; onde vedendo gl’inimici la risolutione <lb/>
+nostra abandorono il forte ritirandosi nel castello di Rust; ove im-<lb/>
+mediate noi piantavamo tre pezzi di artiglieria lasciandole tirare <lb/>
+fino alle 23 hore, et fin al n° di 54 colpi; et allhora si rende <lb/>
+il castello con compositione, uscendone fuori 44 soldati valoni, et <lb/>
+intorno ottanta contadini. Di là sua Eccellenza andò ad alloggiare con <lb/>
+tutta la fanteria ad Haiffe<ptr target="#tn25" n="25"/> la cavallaria nelli villaggi circonvicini <lb/>
+come il signor di Marchet a Wespelar, Staschenbroch a Tielendonc<ptr target="#tn26" n="26"/> <lb/>
+Rihoven a Merbech. </p>
+<p>Il giorno seguente commandò sua Eccellenza che la cavallaria mettesse a fuoco tutte le <lb/>
+terre, che ricusavano dar la contributione alli signori Stati; al qual <lb/>
+effetto si divise la cavallaria. Il signor di Marchet messe il fuoco intorno <lb/>
+Lovania, li signori di Potlitz, et Viller intorno Brusseles, il signor di <lb/>
+Rihoven intorno Malines, ove il giorno innanti havevano fatti <lb/>
+fuochi d’allegrezza per la vittoria ottenuta nel Palatinato; quelli<ptr target="#tn27" n="27"/> <lb/>
+però apportavano più di dolore, che li altri di gusto. La <lb/>
+più parte delli contadini con le loro robbe, cavalli, et bestiami <lb/>
+si erano salvati, quelli ch’erano restati si mostravano con <lb/>
+molta ostinatione, et ubriachi per le feste di villaggio. In modo <lb/>
+che tra villaggi, castelli, et borghi sono restati abbrucciati <lb/>
+al n° di settanta; quelli che davano contributione furono preser-<lb/>
+vati. Intanto sua Eccellenza dal martedì fino al venerdì restò con la <lb/>
+fanteria a Hacht, lasciando uscir per giorno hor 200, hor 300 fanti
+<pb n="142r" facs="11_142r" rend="0"/>
+che tornavano la sera. </p>
+<p>Et come doveva il conte Henrico di Bergh ritornar, et per la levata, <lb/>
+et ammasso, che si faceva intorno Malines, et Lovania sua Eccellenza partì <lb/>
+(doppo haver messo sotto contributione tutto il Paese, conducendo seco intorno <lb/>
+400 prigionieri, la più parte dei quali fu riscatata, o ranzonata <lb/>
+dall’altra parte del fiume Demmer) et passò verso Arscot, et <lb/>
+quelli del luoco mandorono presso sua Eccellenza alcuni commissarii per trattar <lb/>
+la contributione, il che fu immediate essequito; et quella sera <lb/>
+s’alloggiò insieme con la cavallaria a Geel, l’altro giorno a Turnhout <lb/>
+et in questo viaggio fu osservata così buona disciplina, che <lb/>
+alcuni<ptr target="#tn28" n="28"/> di quelli, che davano contributione non<ptr target="#tn29" n="29"/> furono danneggiati <lb/>
+onde li paesani cridavano o buoni (Geusi) (così sono chiamati <lb/>
+li Holandesi) una compagnia<ptr target="#tn30" n="30"/> spagnuola ha fatto qui più <lb/>
+danno, che non hanno fatto tutte queste truppe; ma sua Eccellenza ha <lb/>
+fatto rovinar gl’ostinati<ptr target="#tn31" n="31"/>; et così ha<ptr target="#tn32" n="32"/> mostrato verso gl’osti-<lb/>
+natione ostinatione*; et verso gl’humili conservatione. <lb/>
+Secondo il detto dei Romani <lb/>
+parcere subiectis, et debellare superbos. </p>
+<p>Di Tornhout noi marchiessimo verso Breda, et intorno doi hore di <lb/>
+stradda di Breda si separò la cavallaria, che haveva condotta il signor di <lb/>
+Marchet, insieme le quattro cornette di Berghen op Zoom, le altre <lb/>
+venero con noi fino a Breda, di dove ognuno s’è retirato <lb/>
+nel suo presidio. Sua Eccellenza con tutto il seguito arrivò la sera sano <lb/>
+et salvo all’Haya sendo successa la detta essecutione felice-<lb/>
+mente; et così habbiamo divertito il conte Henrico di Berghen <lb/>
+dall’intentione, che haveva di perseguire il duca Christiano <lb/>
+di Bransvich, messo il Paese sotto contributione, et fatta <lb/>
+la maggior vergogna del mondo all’inimico; poiché l’Infanta
+<pb n="142v" facs="11_142v" rend="0"/>
+et il Marchese potevano veder<ptr target="#tn33" n="33"/> l’incendio, et il fuoco in nove luochi nel <lb/>
+contorno di Brusseles nel mezo, et nel miglior del suo Paese per <lb/>
+haver mandate le loro militie in Alemagna senza lasciarne alcune <lb/>
+per difender li loro proprii paesi, et impedir le nostre forze; onde <lb/>
+li poveri sudditi (che per sostener la soldatesca contribuivano) giusta-<lb/>
+mente si dolevano, rimostrando questo all’Arciduchessa con una <lb/>
+supplica, la qual io diligentemente ho messa<ptr target="#tn34" n="34"/> qui sotto. </p>
+<p>Rimostranza del commun di Brabant fatta alla <lb/>
+serenissima duchessa<ptr target="#tn35" n="35"/> Isabella Clara Eugenia infanta di Spagna. </p>
+<p>Habbiamo serenissima Duchessa diverse volte per il passato dato a conoscer <lb/>
+il miserabil stato nel quale noi si troviamo per l’invasione, che li <lb/>
+nostri nemici possono fare con gran facilità, poiché da vostra Altezza ci è <lb/>
+stato prohibito, et commandato di non contribuire alli signori Stati <lb/>
+li quali giustamente ce ne hanno ricercato, promettendo di <lb/>
+lasciarci viver in pace, senza abbrucciare, rubbare, saccheg-<lb/>
+giare o far alcun altro<ptr target="#tn36" n="36"/> oltraggio, o danno a noi, et ai <lb/>
+nostri, il che da noi poveri sudditi<ptr target="#tn37" n="37"/> è grandemente desiderato con <lb/>
+pagar una giusta contributione per liberarci dalle loro insidie <lb/>
+et forze. Ma vostra Altezza con animo grande ci minacciò perché non lo <lb/>
+facessimo; persuadendo a noi di non temer queste forze, anzi <lb/>
+con grosse somme di denari contribuire alla sostentatione <lb/>
+delle vostre militie, che con laude haverebbono difeso il <lb/>
+nostro Paese; al qual effetto habbiamo impiegati<ptr target="#tn38" n="38"/> tutti li nostri <lb/>
+beni, et facoltà sperando di viver in pace; ma vostra Altezza manda <lb/>
+in paesi forestieri le militie per seguitar li amici delli nostri nemici
+<pb n="143r" facs="11_143r" rend="0"/>
+il che non toccava a voi. Per questo s’è mosso il principe Henrico <lb/>
+a venir in persona a dimandare; ma queste dimande della militia <lb/>
+costano alli poveri sudditi lacrime, robba, et sangue; et insieme <lb/>
+tutta la loro facoltà per la quale per tanto tempo havevano affa-<lb/>
+ticato. Et per tanto sovenga a vostra Altezza quanto patimento sopportiamo <lb/>
+per il smisurato appetito, che havete di dominare; et quanto, oltre <lb/>
+il danno nostro, riceviamo di vergogna, et di disgusto. L’uno <lb/>
+dice, che siamo come ucelli, che volano più Paese, di quello che <lb/>
+possono difender; et come quelli che mettono li lor ovi nei <lb/>
+nidi d’altri cercando altri paesi, et perdendo il nostro col guasto, <lb/>
+et abbrucciamento nella vista nostra di vostra Altezza et del Marchese, che <lb/>
+doveva difendersi. Vergogna intolerabile. Noi facciamo fuochi <lb/>
+per loro dishonore, et essi fanno fuochi a nostro danno abbruccian-<lb/>
+do li nostri Paesi. Che tocca a noi il Palatinato, et mettersi <lb/>
+in pena? Lasciate Duchessa il Palatinato in Alemagna, et guar-<lb/>
+date il vostro. Li savii guardano prima le cose loro poi quelle <lb/>
+del lor vicino; et li matti cercano di burlar altri. Noi go-<lb/>
+demo della perdita del Palatinato, lasciando perder il thesoro di <lb/>
+Zust, contribuirsi<ptr target="#tn39" n="39"/> tanti raistaleri dal paese di Munster, et <lb/>
+Paterborn, li qual denari se li preti, et le monache li havessero <lb/>
+sarebbono molto a proposito per loro, che l’hanno poco fa esbor-<lb/>
+sati. Et se noi havessimo così li nostri beni, case, et cortili, <lb/>
+il che tutto al presente è ridotto in polvere, grande sarebbe <lb/>
+la nostra felicità. Adesso non portiamo viver, et di questo havete <lb/>
+voi la sola colpa, et questo<ptr target="#tn40" n="40"/> è, o Duchessa è sola vostra Altezza che a noi <lb/>
+apporta<ptr target="#tn41" n="41"/> una tal miseria, guerra, et patimento perché <lb/>
+li nostri vicini, che davano contributione sono stati lasciati <lb/>
+in pace, et senza<ptr target="#tn42" n="42"/> esserli dato fastidio, non essendosi trovato veruno <lb/>
+a chi habbino fatto il manco danno. Haveressimo ancor noi
+<pb n="143v" facs="11_143v" rend="0"/>
+molto volontieri pagata la parte nostra, la quale ci era addimandata; <lb/>
+ma voi Duchessa non lo volesti; nonostante, che ciò da noi fu in-<lb/>
+stantemente ricercato; et come essi all’improvista ci hanno invaso <lb/>
+voi ci havete lasciato senza difesa ammazzare, et abbrucciare. <lb/>
+Può questo esser? È questo fondato in leggi<ptr target="#tn43" n="43"/>, o in ragione? Credo <lb/>
+che ’l mondo tutto risponderà per noi che non. Di ciò havete <lb/>
+voi Duchessa sola la colpa. Per voi siamo caduti in questa <lb/>
+miseria; et se non fate per confessione penitenza, et in parte <lb/>
+restitutione delle nostre perdite, vi accuserà il nostro inno-<lb/>
+cente sangue nell’ultimo giorno nanti la sedia di Dio. Et <lb/>
+non solo Brabantia; ma Fiandra ancora si dolerà del <lb/>
+giorno, che cominciaste a governar<ptr target="#tn44" n="44"/> sola. </p>
+<pb n="144r" facs="11_144r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="144v" facs="11_144v" rend="270"/>
+<p>Viaggio del principe Hen-<lb/>
+rico </p>
+<p>nel 398 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> First "-e-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-pori" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "d" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "Gratie etc." crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Sarà … Gratie etc. in sopralinea"</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Seal in red wax and Slit-and-band letterlock."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-A" corrected above "-a."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-er-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-o" corrected above "-i."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "A-" corrected above "d-."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-i-" corrected above "-o-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-um-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "-ro" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "Ide" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-fe" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-li" corrected above "-la."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "Hola" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Precedes "h-" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Is the result of a correction.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Followed by deleted words.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Precedes "Arci-" crossed out.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Followed by "danno" crossed out.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by "fa" crossed out.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "-si-" is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Precedes the struck-through word; followed by "qu-" crossed out.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "-r" corrected above "-re."</p></note>
+</div>
+</body>
+</text>
+</TEI>

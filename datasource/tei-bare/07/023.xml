@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.023 date 1618-11-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 158r-160v, 172r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">158r-160v, 172r-v, 161r-v, 165r-v, 162r-v, 163r-164v, 166r-v, 171r-v, 167r-168v, 169r-170v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Provides information on the dispute between Dutch consul in Venice with Amsterdam merchants on 1 % concession on ships. The consul in Genoa had secured such a levy but merchants were now trying to revoke it. The consul in Venice is seeking a similar concession but has not yet submitted his request to the States. Highlights the logistical and commercial challenges in transporting salt to Venice and reiterates the suggestion that the Venetian Republic should establish fixed prices and prompt payment to ensure trade. Encloses the proposition by Gamurini again, and also sends information about a Spanish book on ecclesiastical jurisdiction which the nuncio has tried to get suspended (https://ustc.ac.uk/editions/5008541) and a proposal of a publication in honour of the Venetian State, sent by Pasini to Suriano. Also enclosed are letters by States General and Maurice to the Doge related to ships rented in service of Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-11-06">6 novembre 1618</date>
+            <num>054, 055, 056, 057, 058, 059, 060</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="054">
+<div type="main" facs="main text of letter" n="054">
+<!--<p>6 novembre 1618, L’Aia (cc. 158r-160v, 172r-v)</p>-->
+<pb n="158r" facs="07_158r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 68 sola </p>
+<p>Serenissimo Principe </p>
+<p>non fu la sola pretensione del console di questa Natione, che resiede <lb/>
+in Venetia, che fece venir in questo luoco quei mercanti di Amsterdam, che <lb/>
+significai riverentemente alla Serenità vostra colle mie de’ 30 del passato qui ag-<lb/>
+giunte in replica ma come ho saputo doppo quella anco<ptr target="#tn1" n="1"/> del console della <lb/>
+medesima Natione, che resiede in Genova, il quale già haveva ottenuto dai <lb/>
+signori Stati la concessione dell’uno per cento del noleggio de’ vasselli, et <lb/>
+l’instanza de’ mercanti è che sia rivocata. Sue Eccelenze hanno fatto <lb/>
+saper[e]<ptr target="#tn2" n="2"/> ad esso Console, che habbi a venirsene qui a fine di sentir le <lb/>
+ragioni di ambe le parti. </p>
+<p>Questa concessione ha dato fomento di pretender al console di Venetia, <lb/>
+il quale ha fatto sottoscriver a diversi portionevoli di navi, et <lb/>
+particolarmente al magistrato di Amsterdam, che contentano alla sua dimanda <lb/>
+dell’una per cento; ma non ha ancor presentata supplica alcuna alli <lb/>
+signori Stati, ben fa ufficio con quelli, che lo possono aiutare. Egli si fa <lb/>
+forte con la ragione di convenirsegli qualche recognitione delle <lb/>
+fa[t]iche<ptr target="#tn3" n="3"/>, che fa costì; ma gl’interessati vogliono esser essi ricono-<lb/>
+sc[iu]ti<ptr target="#tn4" n="4"/> da detto Console, et che habbi da dipender il suo stato <lb/>
+da loro: devono esser di ritorno essendo andati in Amsterdam, <lb/>
+et procureranno far rivocar al console di Genova la detta conces-<lb/>
+sione, che se succede resterà questo di Venetia con poca speranza <lb/>
+di dover goder alcun beneficio dal suo pensiero senza la <lb/>
+particolar dispositione di detti mercanti. </p>
+<p>Un Genovese, che agita in questa corte di Holanda certa sua lite mi ha <lb/>
+detto tener assolutamente per fermo, che li suoi signori non amette-<lb/>
+rebbono la patente al detto Console per il pregiudicio, che ver-<lb/>
+rebbono a ricever molte case, che sono in Genova<ptr target="#tn5" n="5"/>, che <lb/>
+hanno commissioni da questi mercanti fiaminghi per li frequenti
+<pb n="158v" facs="07_158v" rend="0"/>
+noleggi, che annualmente si fanno in quella città, et in diverse piazze, <lb/>
+che rispondono ad essa. </p>
+<p>Io sotto pretesto di visita, mi sono trovato con qualcheduno di questi signori; et <lb/>
+fatto cader proposito di questo affare, ho considerato, che devono <lb/>
+li signori Stati molto ben ponderar il negotio, perché non ne venga <lb/>
+a riuscir qualche pregiudicio tanto per la parte delle loro Eccellenze, <lb/>
+et de’ suoi sudditi, che per la serenissima Republica rispetto all’ag-<lb/>
+gravio, et all’interruttione del trafico con Venetia; et ho <lb/>
+cavata buona dispositione ad havervi il pensiero, et che mi <lb/>
+sarà data parte di quanto si farà. </p>
+<p>Intorno alla maggior frequentatione di trafico di questi mercanti con <lb/>
+la piazza di Venetia anco di questo ho parlato. Viene <lb/>
+trovato buono il concetto, et scuopro, che vi sarà la dispositione <lb/>
+dal canto dei signori Stati; ma questa non esser sufficiente, mentre <lb/>
+non vi concorri la speranza dell’utile, et del profitto, che allhora <lb/>
+vi condescenderanno li mercanti. Uno di ess[i]<ptr target="#tn6" n="6"/> mi ha det[to]<ptr target="#tn7" n="7"/> <lb/>
+che dovessi esser certo di questo, che finché [la]<ptr target="#tn8" n="8"/> serenissima Republica <lb/>
+non dia un prezzo certo ai sali in particolare, et [si]<ptr target="#tn9" n="9"/> oblighi di <lb/>
+prender tutti quelli che verranno condotti, et siano prontamente <lb/>
+fatti scaricare, et sodisfare li marinari del loro prezzo <lb/>
+con aggiunger degl’avantaggi, che alletino per far diretta-<lb/>
+mente scala in Venetia, al sicuro arrischieranno più <lb/>
+tosto di andar ove sano di haver il profitto certo, di esser <lb/>
+ben trattati, et haver pronto il loro denaro per potersene <lb/>
+partir immediate; ma che quando habbino la sicurezza <lb/>
+di haver tutto ciò in Venetia si contenteranno di capitar più tosto <lb/>
+in quel porto per la speranza certa di esser poi noleggiati
+<pb n="159r" facs="07_159r" rend="0"/>
+et non partir vuoti. Mi aggiunse anco il medesimo mercante <lb/>
+un’altra causa, che detiene li vasselli con sali a non passar costì, <lb/>
+et è l’incertezza, che siano ricevuti essi sali, havendo più di <lb/>
+una volta provato, che parendo tal hora alla serenissima Republica <lb/>
+haver sali a sufficienza, non ha voluto far ricever quelli, che <lb/>
+in quella congiuntura erano stati condotti, onde li patroni <lb/>
+di nave con grave suo interesse, et de’ compartecipi hanno <lb/>
+convenuto ritornarsene col carico, et tentar la sua fortuna <lb/>
+in altro luoco con pericoli di mare nel passar sino a Venetia, <lb/>
+et d’incontrar nel ritorno qualche altra mala fortuna.<ptr target="#tn10" n="10"/> </p>
+<p>Se questi motivi siano proprii io non lo so; questi mercanti <lb/>
+me li affermano per veri, onde vostra Serenità colla sua somma <lb/>
+prudenza sente in che par che consisti la difficoltà di questo <lb/>
+negotio, et perché poche navi si dispongano passar a quella volta. <lb/>
+Io a chi m’ha parlato di questo ho detto, che come non <lb/>
+poteva alcuno metter dubio del buono, et pronto pagamento <lb/>
+della Republica; così si poteva cadauno prometter anco da <lb/>
+lei ogni buon trattamento, et che tutto quello, che honestamente <lb/>
+si havesse potuto fare a vantaggio della Natione si sarebbe <lb/>
+fatto. </p>
+<p>Resteranno ben sodisfatti<ptr target="#tn11" n="11"/> qui di questi concetti; ma serenissimo Principe <lb/>
+è necessario che la Serenità vostra per corroboratione di essi pensi la ma-<lb/>
+niera con la quale siano aletate queste genti. Ella deve <lb/>
+sapere a che prezzo sono pagati li sali, et altre mercantie <lb/>
+ad altre scale, l’imunità, et essentioni, che hanno li trafi-<lb/>
+canti, et marinari; in che maniera siano trattati, et ben <lb/>
+ispediti; onde haverà mezo facile coll’aggiunta a tutti
+<pb n="159v" facs="07_159v" rend="0"/>
+questi beneficii, et profitti di quello, che le parerà proprio per<ptr target="#tn12" n="12"/> <lb/>
+atirar questa Natione alla sua scala, ove verrà molto volen-<lb/>
+tieri<ptr target="#tn13" n="13"/> quando habbi cosa di certo o col mezo mio, o col farlo <lb/>
+saper la Serenità vostra a quei mercanti corrispondenti di questi, che <lb/>
+habitano<ptr target="#tn14" n="14"/> in Venetia. L’offerta di accettar tutti li sali, <lb/>
+che verranno, lo stabilimento del prezzo, la prontezza dello <lb/>
+scarico, et ispeditione, et del pagamento di essi, che tutto vuol <lb/>
+dire la speranza dell’utile, et del guadagno saranno suffi-<lb/>
+cienti mezi per guidar tanto, et così gran negotio per vostra Serenità <lb/>
+a buon fine coll’aiuto di Dio. Perché come più, et più <lb/>
+volte le ho humilmente significato le genti di questo Paese si <lb/>
+lasciano condur dal profitto, et dall’esser accarezzate; ma <lb/>
+il primo le aletta in particolare perché conforma con il naturale, <lb/>
+che ama il vantaggio. Io starò attendendo la sua riso-<lb/>
+lutione, et in tanto non tralascierò di passar ogni buon ufficio <lb/>
+in questo proposito; ma sarà necessario che io sappi assicurar <lb/>
+qualche cosa di certo; perché da chi m’ha discorso di <lb/>
+questo negotio m’è stato aggiunto, che bisogna stabilir li <lb/>
+prezzi, perché possino li traficanti far il loro fondamento <lb/>
+et di tal maniera si potrebbe condur l’affare, et che così si <lb/>
+faceva a Genova, et altrove. Onde potrà dir la Serenità vostra la <lb/>
+sua volontà non solo per la materia de’ sali, ma per altre mercantie. </p>
+<p>Si trova ancora il signor principe Mauritio fuori dell’Haya; sarà qui hoggi <lb/>
+lo vedrò, et caverò anco dall’Eccellenza sua quel più che potrò in questo <lb/>
+particolare con disporla ad avanzar quel trafico, et quel comercio <lb/>
+con il termine però che stimerò proprio alla riputatione della Serenità vostra. </p>
+<pb n="160r" facs="07_160r" rend="0"/>
+<p>Sono venuti a trovarmi alcuni deputati della città di Encusen pregan-<lb/>
+domi di scriver all’Eccellenze vostre che restano interessati alcuni mercanti <lb/>
+di quella città per l’arresto fatto di alcuni vasselli per condur sol-<lb/>
+datesca in Candia, et che il loro aggravio si è fatto tanto <lb/>
+maggiore, quanto una volta licentiati dall’arresto, sono stati <lb/>
+di nuovo arrestati con perdita di noli, ch’erano in pronto di <lb/>
+fare, di spese a’ marinari senza profitto, et altri interessi <lb/>
+simili; che consistendo in questo le entrate de’ portionevoli <lb/>
+m[al]<ptr target="#tn15" n="15"/> volontieri sentono di esser così trattati; che però mi <lb/>
+p[reg]avano<ptr target="#tn16" n="16"/> di nuovo a scriverne seriosamente a vostra Serenità io <lb/>
+promisi a detti deputati di scriver; et gli considerai, che la <lb/>
+necessità, che ha al presente la serenissima Republica di simil ispeditioni la <lb/>
+constringeva a valersi dei vasselli dei suoi più buoni amici, <lb/>
+et che però con allegro animo si doveva concorrer anco da <lb/>
+questa parte al far servitio a sua Serenità. Mi risposero, che <lb/>
+volontieri gl’interessati farebbono servitio alla Republica; ma <lb/>
+non haverebbono per questo voluto patire, et ella vi doveva <lb/>
+haver riguardo, et con questo partirono. </p>
+<p>Essendo capitato di Spagna in Brusseles certo libro, che pare <lb/>
+tocchi la giurisdittione ecclesiastica ha quel Nontio tentata la <lb/>
+sua supressione, il che non pare che gli sia riuscito. Non ho po-<lb/>
+tuto haver altro che ’l titolo, che mando qui aggiunto. <lb/>
+Meno ha<ptr target="#tn17" n="17"/> potuto spuntare nel far annullar certo editto de’ serenissimi <lb/>
+arciduchi, che de cetero niun soldato maritato, o che si mari-<lb/>
+tasse possi pretender avanzamento; cosa che la prudenza <lb/>
+della Serenità vostra può comprender poter haver in sé qualche <lb/>
+mala consequenza, et massime nella soldatesca dedita assai
+<pb n="160v" facs="07_160v" rend="0"/>
+alli peccati. Oltre la ragione di Stato facile a penetrarsi dalla prudenza di vostra Serenità. </p>
+<p>M’ha inviato il Pasini l’aggiunta scrittura, con che l’auttore di essa <lb/>
+promette gran beneficio, et profitto alli principi, et a’ sudditi loro <lb/>
+et dice haverne havuti privilegii dalla<ptr target="#tn18" n="18"/> Maestà christianissima et catholica <lb/>
+ma che si è riservato conferir la propositione anco ad altri <lb/>
+principi per publicar poi unitamente il secreto. Per questo <lb/>
+lo fa offerir a vostra Serenità per haverne il privilegio, et io atten-<lb/>
+derò anco in questo la risolutione di lei. </p>
+<p>Oltre le lettere che con precedenti mie ho scritto river[entemente]<ptr target="#tn19" n="19"/> alla Serenità vostra <lb/>
+haver fatte alli partionevoli delle 12 navi ne [ha]<ptr target="#tn20" n="20"/> fatte per <lb/>
+cinque altre uno sotto li 31 del passato, et quattro sotto <lb/>
+il primo dello stante, et tutte per il sesto, et settimo mese, <lb/>
+per il denaro, et pagabili, come nell’aggiunta nota. Gratie etc. </p>
+<p>Dall’Haya a’ 6 novembre 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="172r" facs="07_172r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172v" facs="07_172v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 68 sola </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="054">
+<!--
+<p n="172vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 novembre 1618 ricevute a’ 28 detto </p>
+<p>Haya. n° 68 <lb/>
+sola </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="055" corresp="054" source="161r-v, 165r-v" >
+<div type="main" facs="main text of attachment I" n="055" corresp="054" >
+<!--<p>Allegato I al n. 54 (cc. 161r-v, 165r-v; copia di cc. 153r-v, 156r-v)</p>-->
+<pb n="161r" facs="07_161r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya n° 68 <lb/>
+li 6 novembre 1618 </p>
+<p>Pretentioni del Gomarrino </p>
+<p>Essendo il signor Gamurrino al servitio della Maestà christianissima con titolo di consigliero <lb/>
+di Stato, e con provisione fra soldo e pensione di ottomila franchi l’anno <lb/>
+ben pagati, ben visto, e acarezato da detta Maestà et da tutta quella corte <lb/>
+per haverlo conosciuto, e provato per homo valente nella sua professione <lb/>
+tanto nella espugnatione di Soissons che nella fortificatione di Chillebuff <lb/>
+fortezza in Normandia dove egli fece con 10 milla scudi di spesa quel <lb/>
+che altri non haverebbono fatto con tre e quattro volte tante poiché <lb/>
+il disfarla n’ha costato 14 mila e fra li favoriti del già mariscial <lb/>
+d’Ancre stati perseguitati e scacciati, solo egli è restato in servitio in <lb/>
+tanto che per che come li altri egli non si fuggisse<ptr target="#tn21" n="21"/> di Francia sua Maestà <lb/>
+lo fece ditenere con guardia argumento della sua sufficieza<ptr target="#tn22" n="22"/>. </p>
+<p>Non ostante questo egli come italiano, che poco si confà con quella Natione <lb/>
+francese amerebbe più tosto servire alcun potestato italiano e <lb/>
+particolarmente la serenissima Republica veneta come altre volte mentre stava in <lb/>
+Fiandra al servitio del re di Spagna lo ha desiderato, parendoli che <lb/>
+servendo quella egli resterà sicuro di viver per sempre in suo servitio <lb/>
+e di esser impiegato honorato, e avanzato, e benificiato secondo il buon <lb/>
+costume e generosità di essa. </p>
+<p>E se di ciò le sarà data intentione, et accordatoli se non tanto quanto ha in <lb/>
+Francia al meno scudi duemila<ptr target="#tn23" n="23"/> d’oro l’anno di provvisione tra soldo <lb/>
+etc. Egli volontieri venirà al detto servitio ancorché sia con circa scudi <lb/>
+milla l’anno meno di quello gode di presente per dover vivere in <lb/>
+Italia, e in servitio, nel quale egli si promette quanto di sopra non obs-<lb/>
+tante che egli serva maggior potentato et habbia prima servtone<ptr target="#tn24" n="24"/> <lb/>
+un altro maggiore in questi paesi, et con l’uno, et con l’altro senza <lb/>
+superiore nella sua professione, et con vantaggio sopra gli altri tanto <lb/>
+di soldo che di pontual pagamento. </p>
+<pb n="161v" facs="07_161v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="165r" facs="07_165r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="165v" facs="07_165v" rend="270"/>
+<p>Pretensione del Gumurino </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="056" corresp="054" source="162r-v" >
+<div type="main" facs="main text of attachment II" n="056" corresp="054" >
+<!--<p>Allegato II al n. 54 (cc. 162r-v)</p>-->
+<pb n="162r" facs="07_162r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya n° 68 de’ <lb/>
+6 novembre 1618 </p>
+<p>Tractatus de cognitione per viam violentiae in <lb/>
+causis ecclesiasticis, et inter personas <lb/>
+ecclesiasticas duplex. </p>
+<p>In primo huius cognitionis theorica, hoc <lb/>
+est regis Hispaniarum nostri circa res temporales <lb/>
+potestas manifestatur. </p>
+<p>Cui accedit Imperatorem in suo regno esse dominum<ptr target="#tn25" n="25"/> nullique <lb/>
+unquam subiectum in temporalibus et <lb/>
+per occasionem de imperii ac monarchia <lb/>
+Hispaniarum origine ubi per plures <lb/>
+glosas<ptr target="#tn26" n="26"/> lex xxxvi titu v lib ii <lb/>
+recopie precipue declaratur. </p>
+<p>In secundo eiusdem cognitionis praxis<ptr target="#tn27" n="27"/> hoc <lb/>
+est ad iudices a Rege nostro constitutos <lb/>
+recursus quibus cix questionum numero <lb/>
+patens praemunitur aditus. </p>
+<p>In utroque tam civilis quam nostri iuris leges <lb/>
+plurime nove et curiose explicantur <lb/>
+a <lb/>
+Hieronimo de Cevallos hispano toletano i(n) c(uria) nobilium <lb/>
+in hac imperiali urbe decurione. </p>
+<pb n="162v" facs="07_162v" rend="0"/>
+<p>A D <lb/>
+Philippum iii Hispaniarum et Indiarum cattolicum <lb/>
+regem opt maximique eius consiglii presidem <lb/>
+et consiliarios.<ptr target="#tn28" n="28"/> </p>
+<p>Toleti cum privilegio regio; et auctoris <lb/>
+expensis apud Didacum Rodriguez </p>
+<p>tip(ographum) regium anno 1618. </p>
+<p n="162vC">———</p>
+<p>Titolo del libro di <lb/>
+Spagna. </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="057" corresp="054" source="163r-164v" >
+<div type="main" facs="main text of attachment III" n="057" corresp="054" >
+<!--<p>Allegato III al n. 54 (cc. 163r-164v)</p>-->
+<pb n="163r" facs="07_163r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere dell’Haya n° 68 de’ 8 novembre 1618 </p>
+<p>Vero modo, che comprende ne’ suoi limitatati<ptr target="#tn29" n="29"/> termini, l’osservanza della <lb/>
+pura giustitia et sincera fede, et in tutto et per tutto chiude la via <lb/>
+alla malvagità, come a capo per capo si può vedere; et questo si deve <lb/>
+abbraciare da ogni prencipe, perché oltre all’utile che ne haverà de <lb/>
+più millioni, resterà sicuro di non esser defraudato da’ suoi suditti, <lb/>
+et essi cercherano a gara che tal negocio sii posto in effetto, sendo che essi <lb/>
+verano a viver molto sicuri, et fuori d’ogni suspettione. E prima. </p>
+<p>Tutti li negotii che si fanno, e trattano dagl’huomini, si possono fare e tratare in doi modi <lb/>
+cioè in fede, et per scrittura; ma pare che pochi trattino sopra la fede per non esser negocio <lb/>
+sicuro per molte cause, et maxime per causa della morte. Si tratta et negocia dunque per scrittura <lb/>
+la quale divideremo in tre capi principali cioè. </p>
+<p>In libri, dove si notano debitori e creditori, entrata e uscita ricordi di varie sorti, e finalm[ente]<ptr target="#tn30" n="30"/> <lb/>
+intendendo de tutti li libri tenuti mercantilmente da qual si voglia persona. </p>
+<p>In cedole, o, scritte tanto publiche quanto private per le quali si possano contrare infiniti oblighi, <lb/>
+conventioni, et dispositioni. </p>
+<p>In istrumenti, sotto il cui nome si comprendono ogni sorte d’oblighi, conventioni, ordinationi <lb/>
+et dispositioni che dagl’huomini contrare, ordinare, et disporre si possano. E perché sotto <lb/>
+ciascheduna delle predette tre sorti de scritture, si posono comettere et giornalmente si <lb/>
+comettono infinitissimi inganni, errori, e fraudi, perciò si è trovato il vero et sicuro modo <lb/>
+di provedere et remediare al tutto, et a capo per capo discorreremo sopra li inganni che si <lb/>
+possano comettere sopra essi. Di poi si darano li remedii, si mostrerà l’utile che renderà <lb/>
+questo negocio a quei prencipi che lo metterano in esecutione, et finalmente il beneficio <lb/>
+universale; et cominciando dal primo capo concernente i libri diremo che è </p>
+<p>Inganni che si possono far ne, i, libri. </p>
+<p>Ciascun libro si può il primo dì falsificare ne[ll]i<ptr target="#tn31" n="31"/> infrascritti modi. </p>
+<p>Alcuni possono levar delle carte da’ detti libri con mettervi delle altre nove, et questo si può <lb/>
+fare, o, da sé stesso, o, per forza de’ denari, con farle rimettere a’ cartolari, o, ad altre maligne <lb/>
+persone, con accomodarli che non si paia pigliando poi diverse penne, et inchiostro et <lb/>
+polvere che presto fanno ammortire. </p>
+<pb n="163v" facs="07_163v" rend="0"/>
+<p>Altri scrivono sul quadernuccio, o, estratto giornalmente, et stando poi assai tempo a raguagliare <lb/>
+al libro grande causa spesse volte che agiongono, o, levano secondo le occasione che li sono porte <lb/>
+in detto tempo. Et perché non si possa trovare la verità, stracciano il quadernuccio, o, stratto <lb/>
+come cosa facile a rifarlo conforme al libro. </p>
+<p>Altri possono anchora in breve tempo copiare libri interi, con tor carta con marcha di qualche <lb/>
+anno adietro, penne, inchiostro, e polvere variate come sopra. </p>
+<p>Altri tengono libri doppi per ofendere et diffendere, talhora intitolandoli sotto nome <lb/>
+d’altri; ponendo spesse volte debitore un morto. </p>
+<p>Altri in occasione de litti negano haver tenuto libri, dal che, ne derivano liti immortali. </p>
+<p>Altri simulando d’esser falliti fanno accordo con alcuno de’ loro creditori, di pagare a dieci <lb/>
+per cento, et havendo prima accomodate le partite, seguitano per via di questi accordi a <lb/>
+fare li negocii, onde ne deriva danno grandissimo al publico et al privato, togliendo l’animo <lb/>
+a’ mercanti reali di più negociare. </p>
+<p>Altri per loro interesse et malvagità fanno fallire li mercanti, perché talhora tremando un <lb/>
+mercante, li suoi ministri vanno facendo delle coperchielle con accomodar partite a <lb/>
+loro piacimento. </p>
+<p>Altri andandosene per le tante spese che hanno fatte, o, per trovarsi allo scoperto per qualche <lb/>
+altro accidente; li parenti loro ascondono li libri, et scritture, il che apporta danno a <lb/>
+quelli che hanno creduto il loro. </p>
+<p>Altri ancora quali tengono libri di fattorie di luoghi pii, comunità, et altri, sono segnati <lb/>
+da’ superiori, falsificano in questo modo, che salvando il libro del superiore, tengono <lb/>
+un altro libro, nel quale scrivono giornalmente et poi a loro comodo copiano le partite <lb/>
+al libro che hanno havuto dal superiore, accomodandolo a loro più piacere. </p>
+<p>Inganni che si possono fare nel secondo capo. </p>
+<p>Venendo al secondo capo concernente cedole, scritte, ricevute, e cessioni, diremo. </p>
+<p>Che molti usano di fare usure et cambii sechi, tenendo cedole e scritture da’ loro debitori <lb/>
+in questa maniera, [ch]e<ptr target="#tn32" n="32"/> prestando ad alcuno per essempio cento scudi, dicono, io <lb/>
+te li do a cambio; et a capo d’anno si fanno fare una lista di quelo che hanno fatto <lb/>
+i cambii di maggior fiera, et mostrando al debitore, vogliono esser pagati di quelle <lb/>
+provisioni come se fossero mercanti, la qual cosa, è in pregiudicio de quelli che tengono detti <lb/>
+denari, et causa stretezza de’ cambii reali. </p>
+<pb n="164r" facs="07_164r" rend="0"/>
+<p>Altri pagando un debito, si fanno far la riceuta in un poco di foglio, et per qualche accidente <lb/>
+la perdono, et spesse volte li heredi hanno a pagare quel debito un’altra volta. </p>
+<p>Altri havendo cedole, scritti, o qual si voglia altro obligo, possono levar con acqua lo scritto <lb/>
+in quella parte che più loro torna commodo con gran danno della parte. </p>
+<p>Altri danno stocchi consegnando mercantie cative per buone, et spesse volte fanno cedole <lb/>
+di danari contati, il che apporta infinito danno a quello che li piglia. </p>
+<p>Accade ancora che molti huomini ecclesiastici, et altri graduati, o, titolati, comprano grano, <lb/>
+biade, vini, oglii, et altre grascie, e poi occultamente le dano a credenza per cedola, o, scritto <lb/>
+sopramettendole d’assai, et così causa rovina di chi piglia, et carestia al publico. </p>
+<p>Altri ancora usano far debitori, i morti con cedole, o, scritture di qualche anno adietro <lb/>
+con testimonii corotti con danari. </p>
+<p>Altri trovandosi alla scoperta fanno creditore un loro amico, di quella somma che loro <lb/>
+accomoda, con cedole, o, scritte indietro, et dove li altri sono anteriori, apparono posteri-<lb/>
+ori, et questo per ingannare, i, loro creditori. </p>
+<p>Altri havendo una cedola con doi testimoni la rifanno di qualche anno adietro con tre per <lb/>
+acquistare l’ippotecha de’ beni. </p>
+<p>Altri nel gioco fanno scritte et oblighi occulti, giocando sopra la fede che ciò, causa la ruina <lb/>
+de molti, il che non seguiria per molte cause, se tali oblighi, si facessero publichi. </p>
+<p>Altri volendo pigliar moglie, o, far qualche altro negocio per parere richi, si accordano con alcuno <lb/>
+de’ loro amici, et fanno cedole, et oblighi, de buone somme de danari, et fanno a loro le <lb/>
+contracedole, et questo per ingannare altrui. </p>
+<p>Accade ancora che qualche ministro di alcun mercante, si accomoda con alcuno di quelli <lb/>
+con, i, quali à negociato, facendo scritture et ricevute adietro di buone somme di danari, <lb/>
+fingendosi poi detto Ministro fallito, né havendo ricevuto le somme, si accordano con il suo <lb/>
+principale, intendendosi con<ptr target="#tn33" n="33"/> coloro a’ quali ha fatto gli oblighi et ricevute. </p>
+<p>Altri fingendosi in bisogno pigliano a cambio buone somme di danari, et alla fine mostrando <lb/>
+haver fatto male, trovano huomini [d]i<ptr target="#tn34" n="34"/> paglia, fanno accordo usurpando altrui. </p>
+<p>Inganni che si fanno et possono fare nelli instrumenti di qual si voglia <lb/>
+sorte, ne’ libri civili, et criminali e protocolli de notari. </p>
+<p>Et venendo al terzo capo concernente libri civili, et criminali, protocolli de notari <lb/>
+testamenti, donationi oblighi, et contratti, di qual si voglia sorte diremo. </p>
+<pb n="164v" facs="07_164v" rend="0"/>
+<p>Che alcuna volta, accade che mediante liti, o, inimicicie, per esser interessato colui che tiene <lb/>
+libri, o, corotto per danari, levano qualche quinterno da’ detti libri, accomodandoli in buona <lb/>
+forma in pregiuditio delle parti; dal che ne nasce cattiva giustitia et danno al publico et privato. </p>
+<p>Altri nel medemo modo possono defraudare una lite, che essendo trapassato il tempo di presentare <lb/>
+una scrittura in giuditio, si accomodano con il Cancelliere, o, suo coadiutore, et la fanno <lb/>
+mettere sotto quel giorno che più li torna commodo. </p>
+<p>Li testamenti et contratti di qualunche sorte possono esser falsificati in questa maniera: <lb/>
+facendo il notaro la stippulatione sopra un poco di carta come usano, per accomodarla <lb/>
+dipoi al protocollo, nel qual tempo può dar comodità di far alterare a beneplacito di <lb/>
+alcuna delle parti con gran danno dell’altra. </p>
+<p>Et havendo mostrato in quanti modi si può comettere inganni e fraudi, per le sopradette <lb/>
+tre sorti de scritture dalli quali inganni ne nascono liti immortali, stirpamenti di <lb/>
+famiglie, et spesse volte morte d’huomini, et infinitissimi altri inconvenienti. </p>
+<p>Perciò si daranno li remedii per obviare [a’]<ptr target="#tn35" n="35"/> detti inconvenienti et si mosterà la facile <lb/>
+et vera via di poterlo metter in esecutione, da tutti<ptr target="#tn36" n="36"/> quei prencipi che lo desideranno. </p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="058" corresp="054" source="166r-v, 171r-v" >
+<div type="main" facs="main text of attachment IV" n="058" corresp="054" >
+<!--<p>Allegato IV al n. 54 (cc. 166r-v, 171r-v)</p>-->
+<pb n="166r" facs="07_166r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>In lettere dell’Haya n° 68 de’ 8 novembre 1618 </p>
+<p>Il presente arbitrio, è stato visto et accettato in Spagna da sua Maestà <lb/>
+cattolica sì come anco dal christianissimo re di Francia, ma non si è publicato <lb/>
+sino a quest’hora, perché l’inventore si è sempre salvato franchi-<lb/>
+ggia, di poterlo prima conferire con tutti quelli potentati et signorie <lb/>
+che più a lui parea commodo; et che poi si publicase per tutto <lb/>
+in un istesso tempo; havendone perciò havuto privilegii tali. <lb/>
+È questo negocio di grandissima importanza, perché quasi <lb/>
+con nessuna, o, ben poca descomodità de’ popoli, viene a dare <lb/>
+utile al Principe de più millioni, senza agravar a chi l’à <lb/>
+da consentire come si potrà vedere; perché per la notificatione <lb/>
+che si ha [d]a<ptr target="#tn37" n="37"/> far de’ beni stabili, non si ha da pagar che una <lb/>
+pochissima cosa, et questo per una volta sola le scritture <lb/>
+d’instromenti et oblighi, un tanto per cento, nell’atto <lb/>
+della contratatione, è vero che l’authenticacione de’ <lb/>
+libri dopii, et altri libri de mercanti et fattorie, bisogna <lb/>
+che paghino ogni volta che li faranno autenticare, <lb/>
+ma non sarà cosa di molta consideratione, et si darà <lb/>
+occasione di levare tutte le fraudi et inganni; et questo si deve <lb/>
+dagli huomini reali et sinceri<ptr target="#tn38" n="38"/> infinitamente desiderare <lb/>
+cercare, et<ptr target="#tn39" n="39"/> seguire et diffendere; come al contrario si ha da <lb/>
+haver in odio da tristi et maligni, assicurandosi quelli, <lb/>
+che da questi non potranno esser ingannati, né
+<pb n="166v" facs="07_166v" rend="0"/>
+meno che onorevolmente menzonati ne’ loro negocii; né, i, prencipi <lb/>
+potranno esser defraudati da’ loro ministri; né se li potranno occultare, <lb/>
+i beni che potessero pervenire per qual si voglia accidente, o, tempo <lb/>
+alla Camera, o, fisco; né li mercanti potranno esser ingannati da’ suoi <lb/>
+agenti; né potranno malitiosamente fallire, perché d’ogni tempo <lb/>
+si vedrano, i, loro effetti: le persone ecclesiastiche et luoghi pii <lb/>
+secolari non potranno esser ingannati da’ suoi fattori o li pupilli <lb/>
+et minori di qual si voglia sorte non potranno esser ingannati da’ <lb/>
+suoi tuttori et curatori. Le donne maritate, vedove, et di qual si <lb/>
+voglia altra sorte, non potranno perdere le scritture della loro dote <lb/>
+né essa dote, le liti dalle quali ne nascono inimicicie mortali, <lb/>
+spesse volte morti d’huomini con quiete delle parti finiranno <lb/>
+in breve tempo, né più sotto lo scudo della fede si ricopriranno <lb/>
+, i, scellerati inganni. </p>
+<pb n="171r" facs="07_171r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="171v" facs="07_171v" rend="90"/>
+<p>2. Propositione di<ptr target="#tn40" n="40"/> raccordo </p>
+</div>
+</div>
+<div type="attachment" facs="V" n="059" corresp="054" source="167r-168v" >
+<div type="main" facs="main text of attachment V" n="059" corresp="054" >
+<!--<p>Allegato V al n. 54 (cc. 167r-168v)</p>-->
+<pb n="167r" facs="07_167r" rend="0"/>
+<head>main text of attachment V</head>
+<p>In lettere dell’Haya n° 68 de’ 6 novembre 1618 </p>
+<p>Cinque lettere per cinque delle dodici navi armate <lb/>
+et sono per il nolo del sesto, et settimo mese </p>
+<p>A’ 31 ottobre per la nave San Christofforo ducati mille novecento <lb/>
+vinti da lire 6 soldi 4 per ducato in banco pagabili<ptr target="#tn41" n="41"/> alli magnifici Clas Classe <lb/>
+Houtyn, Gisbert de Coninek, Hendrick van Buyten partecipi <lb/>
+di detta nave, o a chi essi ordineranno in piedi delle mie lettere. </p>
+<p>A’ primo novembre per la nave Emaus ducati mille novecento <lb/>
+vinti da lire 6 soldi 4 per ducato in banco pagabili al magnifico Nicolò <lb/>
+Perez. </p>
+<p>A dì detto per la nave Anna Riverson per ducati mille quattrocento qua-<lb/>
+ranta da lire 6 soldi 4 per ducato in banco pagabili al medesimo magnifico <lb/>
+Nicolò Perez. </p>
+<p>Detto per la nave Leon dorato ducati mille novecento vinti da lire 6 soldi 4 <lb/>
+per ducato in banco pagabili alli magnifici Luca van Uffelen, et Ian <lb/>
+van Meren. </p>
+<p>Detto per la nave Menonistekerch per ducati doimillaquaranta da <lb/>
+lire 6 soldi 4 per ducato<ptr target="#tn42" n="42"/> in banco pagabili al magnifico Gio. de Waele. </p>
+<table>
+<row role="label">
+<cell><p>Nave</p></cell>
+<cell><p>San Christofforo</p></cell>
+<cell><p>ducati</p></cell>
+<cell><p>1920</p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Emaus</p></cell>
+<cell></cell>
+<cell><p>1920</p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Anna Riverson</p></cell>
+<cell></cell>
+<cell><p>1440</p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Leon dorato</p></cell>
+<cell></cell>
+<cell><p>1920</p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Menonistecerch</p></cell>
+<cell></cell>
+<cell><p>2040</p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fanno in tutto</p></cell>
+<cell></cell>
+<cell><p>9240</p></cell>
+</row>
+</table>
+<pb n="167v" facs="07_167v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="168r" facs="07_168r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="168v" facs="07_168v" rend="270"/>
+<p>3 </p>
+<p>Nota di 9240 ducati per il nolo <lb/>
+del sesto, et settimo mese <lb/>
+per cinque navi </p>
+</div>
+</div>
+<div type="attachment" facs="VI" n="060" corresp="054" source="169r-170v" >
+<div type="main" facs="main text of attachment VI" n="060" corresp="054" >
+<!--<p>Allegato VI al n. 54 (cc. 169r-170v)</p>-->
+<pb n="169r" facs="07_169r" rend="0"/>
+<head>main text of attachment VI</head>
+<p>In lettere della Haya n° 68 de’ 6 novembre 1618 </p>
+<p>Lettera delli signori Stati Generali per il signor Antonio Luz <lb/>
+commesso delli creditori di conte di Levenstein </p>
+<p>Serenissimo Principe </p>
+<p>noi habbiamo diverse volte scritto molto ampiamente a favor di qualche <lb/>
+mercanti di Amsterdam, li quali per affettione (per avanzar il <lb/>
+servitio della serenissima republica di Venetia nel transporto del conte di <lb/>
+Levenstein col suo reggimento verso Venetia) si sono intricati seco <lb/>
+appoggiandosi però sopra la detta Republica assicurandosi di non dover <lb/>
+incontrar mancanza di pagamento nel loro contratto, come fanno. <lb/>
+Fra questi vi sono molte vedove, et orfani, che hanno contri-<lb/>
+buito parte del loro bene; senza però che la detta intercessione <lb/>
+habbi ad essi apportato alcun sollievo, o che noi habbiamo <lb/>
+ricevuta qualche risposta sopra le lettere nostre, colla quale <lb/>
+havessimo potuto in qualche maniera acquietare, et contentare <lb/>
+li detti interessati affineché in questo mentre havessero lasciato <lb/>
+d’inquietarci colle loro solicitationi, et trovandosi constretti; <lb/>
+et massime per liberar noi dalle loro solecite instanze, et <lb/>
+importunità hanno deputato, et mandano al presente verso Venetia <lb/>
+per nostra permissione espresso Isaac Antonio Lus con commis-<lb/>
+sione per solicitar, et humilmente impetrar da vostra Serenità il loro pagamento <lb/>
+et sodisfattione. Noi non habbiamo potuto lasciare di ricercar <lb/>
+conforme alla loro instanza affettuosamente vostra Serenità che si com-<lb/>
+piaccia in maniera tale, et così benignamente ricever, haver caro, <lb/>
+et favorir il detto Antonio Lus, che col mezo dell’interventione <lb/>
+et interpositione dell’auttorità di vostra Serenità, et della sua liberalità <lb/>
+possino li detti interessati conseguir dal detto conte di Levenstein <lb/>
+l’intero pagamento di tutto quello, che giustamente sarà tro-<lb/>
+vato essergli dovuto, et come per quello, ch’essi hanno sì <lb/>
+volontariamente impiegato per il servitio vostro: affineché
+<pb n="169v" facs="07_169v" rend="0"/>
+siano un’altra volta (se ’l bisogno lo ricercarà) tanto più volontarii <lb/>
+al vostro servitio. Et vostra Serenità in questo ci farà cosa gratissima, et <lb/>
+piacer grande, il quale non mancaremo di ricompensar all’occasione. <lb/>
+Il che attendendo preghiamo il Creatore </p>
+<p>Serenissimo Principe </p>
+<p>di conservar la persona di vostra Serenità in una perfettissima sanità, lunghissima et <lb/>
+felicissima vita. Del’Haya a’ 27 ottobre 1618 </p>
+<p>Lettera del signor principe Mauritio nel <lb/>
+medesimo soggetto a sua Serenità </p>
+<p>Monsignor li patroni dei vasselli, che l’anno passato 1617 <lb/>
+sono stati levati, et impiegati per il transporto del signor conte di Levenstein <lb/>
+col suo reggimento di qua verso la serenissima republica di Venetia, hanno <lb/>
+fatto meco loro indoglienze perché fino a quest’hora non sono <lb/>
+stati pagati del detto transporto, et viveri, che hanno avanzato <lb/>
+ai detti soldati, ancorché habbino continuamente solecitato <lb/>
+et richiesto con lettere delli signori Stati Generali, pregandomi <lb/>
+instantemente voler interceder per essi verso vostra Serenità affineché <lb/>
+si compiaccia di ordinare, che possino ricever il loro pagamento. <lb/>
+Et poiché<ptr target="#tn43" n="43"/> inviano al presente il signor Isaac Antonio Lus appor-<lb/>
+tator di queste per solecitar il loro affare appresso vostra Serenità
+<pb n="170r" facs="07_170r" rend="0"/>
+et farle intender le particularità della loro dimanda; non ho potuto <lb/>
+mancare per l’instanza loro grande di accompagnarlo con queste <lb/>
+pregando vostra Serenità ben humilmente che sia servita di udir il detto <lb/>
+Luz benignamente, et prestarli fede in quello, ch’egli esporrà <lb/>
+per parte di detti patroni, et far diriger questo affare così <lb/>
+bene, ch’egli possi ritornarsene con sodisfattione, et contento. <lb/>
+In che Vostra Serenità farà cosa degna della sua grandezza, et obligarà <lb/>
+li detti patroni di restarle tanto maggiormente suoi humilissimi, et <lb/>
+devotissimi servitori. Et con questo fine io prego Dio <lb/>
+monsignor <lb/>
+di mantener vostra Serenità nella sua santa protettione. Dell’Haya <lb/>
+a’ 22 ottobre 1618. </p>
+<pb n="170v" facs="07_170v" rend="270"/>
+<p>Translatione di lettere dei Stati <lb/>
+Generali et del principe Mauritio <lb/>
+per il Luz </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "quella"; followed by "città" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-sf-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "atirar" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "v-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i-" corrected above "-b-."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Damaged page.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Damaged page.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-a" corrected above "-o."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Damaged page.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Damaged page.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-gi-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-x-" corrected above "-g-."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Corrected above "consigliarios."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Damaged page.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> There is a hole in the page.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> There is a hole in the page.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "loro" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> There is a hole in the page.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> There is a hole in the page.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Added above the line.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> There is a hole in the page.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Corrected above "dell’."</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "-g-" is the result of a correction.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Followed by "pagabi" crossed out.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "-i-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

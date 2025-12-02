@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.050 date 1617-07-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">050</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 268r-v, 271r-v, 274r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">268r-v, 271r-v, 274r-v, 269r-270v, 272r-273v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Monthou has been called into the assembly and told that the United Provinces will assist the Duke of Savoy (2000 florins per 4 months). In attachment, Suriano sends a translation of Monthou’s speech. Monthou will go to German princes looking for further assistance. One document attached to this letter: "Risposta alla propositione di mons. Di Montheu fatta da Signori Stati Generali"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-07-19">19 luglio 1617</date>
+            <num>083, 084, 085</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="083">
+<div type="main" facs="main text of letter" n="083">
+<!--<p>19 luglio 1617, L’Aia (cc. 268r-v, 271r-v, 274r-v)</p>-->
+<pb n="268r" facs="04_268r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>fu chiamato giovedì il signor di Monthou nell’assemblea, et datagli <lb/>
+parte in voce della deliberatione fatta da queste Provincie di assister <lb/>
+al signor duca di Savoia con doicentomilla fiorini per quattro mesi, <lb/>
+dicendo, che facevano questo per il desiderio, che hanno della <lb/>
+conservatione di sua Altezza, et mossi dalla favorevolissima rac-<lb/>
+commandatione della serenissima Republica più volte reiterata da <lb/>
+me; che havevano speranza, che sua Altezza si fosse contentata <lb/>
+di questo testimonio della loro buona volontà, che servirebbe <lb/>
+anco per essempio ad altri di far l’istesso, et che seguitando la <lb/>
+guerra haverebbono pensato a quello havessero potuto far <lb/>
+di più per servitio del signor Duca. Corrispose il signor di Monthou <lb/>
+all’ufficio con pienezza di parole, et di ringratiamento, <lb/>
+aggiungendo, che si prometteva, che qui non havesse a fermarsi <lb/>
+l’effetto della buona dispositione di questi Stati verso il Duca <lb/>
+suo signore; ma ch’ella havesse a continuare; et che prose-<lb/>
+guendo Spagnoli, come l’apparenza lo dimostra nella loro <lb/>
+ambitiosa volontà di commandar, et dominar sopra tutti <lb/>
+li principi non haverebbono mancato di continuar ad <lb/>
+assister all’Altezza sua. Oltre quanto gli è stato detto <lb/>
+in voce, gli hanno anco data la risposta in scritto; <lb/>
+et la traduttione è qui aggiunta. </p>
+<p>Doppo l’ufficio che monsignor di Monthou fece di ringratiamento
+<pb n="268v" facs="04_268v" rend="0"/>
+come ho detto; soggiunse che sapeva, che altre volte da altri <lb/>
+ministri di sua Altezza era stata fatta apertura per parte <lb/>
+di lei a questi signori Stati di stringersi in unione con essi, a che <lb/>
+non era mai stata risposta alcuna cosa, et però haverebbe <lb/>
+desiderato saper ciò che ne sentivano per poter rappresentarlo <lb/>
+al suo Principe<ptr target="#tn1" n="1"/>; fu risposto in generale, che si haverebbe <lb/>
+veduto. È il detto signore condesceso a questo sollecitato da qualcheduno <lb/>
+a destar la memoria delle passate propositioni a fine di caminar <lb/>
+avanti con sua Altezza in materia di unione; ma per anco non vi è <lb/>
+risposta alcuna. Et li medesimi a me hanno fatto dir sottomano <lb/>
+che vorrebbono pur, ch’io mi dichiarisi<ptr target="#tn2" n="2"/>, che parlasi<ptr target="#tn3" n="3"/> apertamente <lb/>
+et chiaramente; et io ho tenuto confermato a chi me ne <lb/>
+ha discorso, che se havevo, secondo le occasioni, fatto assai <lb/>
+intender l’animo della serenissima Republica disposto a sentir <lb/>
+tutto quello, che questi signori stimassero bene per il commune <lb/>
+servitio per havervi la debita consideratione, mi pareva che <lb/>
+fosse a bastanza, che però stava a loro il raccordar, <lb/>
+et dire ciò che reputavano proprio. </p>
+<p><hi rend="decoded">Così</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">caminerò in tanto che mi vengano <lb/>
+ordini da vostra Serenità sopra quanto ho scritto in <lb/>
+questo particolare, del quale avanti <lb/>
+hieri il signor Vandermil</hi>
+<pb n="271r" facs="04_271r" rend="0"/>
+<hi rend="decoded">me ne discorse, <lb/>
+dicendomi, che se ella havesse havuta <lb/>
+voluntà, che proseguisse questo negotio, <lb/>
+hora era il tempo proprio, poiché gli <lb/>
+animi stavano molto ben disposti; fece <lb/>
+il conto, che già le lettere dovevano esser <lb/>
+arrivate costì, et la risposta poteva <lb/>
+forse esser in camino</hi>. <lb/>
+Et ciò tanto più mi confermo, ch’egli habbi volontà del successo <lb/>
+buono, et credo d’esser impiegato. </p>
+<p>Il signor di Monthou procura al presente, che dalli signori Stati sia dato <lb/>
+ordine al ricevitor generale di esborsar il denaro della prima <lb/>
+mesata di agosto, per poter con questa sicurezza trovar qualche <lb/>
+mercante, che gliene faccia l’esborso prontamente; deside-<lb/>
+rando partir quanto più presto alla volta di Alemagna <lb/>
+per rinovar con quei principi, et città unite gl’ufficii, et ecci-<lb/>
+tarli a risolversi al far qualche cosa per il signor Duca <lb/>
+et in un medesimo tempo spinger innanti la levata del conte <lb/>
+di Mansfelt. Sta attendendo la risposta, che è il solo <lb/>
+impedimento, che lo ritiene dal partire essendo di già <lb/>
+tutto pronto per mettersi in camino. Si è questa <lb/>
+mattina appunto <hi rend="decoded">doluto</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">meco di trovar nel signor</hi><ptr target="#tn6" n="6"/> <lb/>
+<hi rend="decoded">Bernvelt poca prontezza a questa <lb/>
+sodisfattione, che ricerca, et come egli</hi>
+<pb n="271v" facs="04_271v" rend="0"/>
+<hi rend="decoded">è <lb/>
+stato sospetto, come dopo da alcuni si è detto, <lb/>
+che per la deliberatione dell’assistenza sia <lb/>
+stato principal causa della dilatione <lb/>
+così teme</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">anco il signor di Monthon</hi><ptr target="#tn8" n="8"/> <hi rend="decoded"><lb/>
+che intorbidi l’essecutione. Ha havuto <lb/>
+sempre pensiero di presentarlo, ma è <lb/>
+stato in dubio della qualità del presente <lb/>
+et dell’opportunità del farlo, et mi ha <lb/>
+detto che pensa di volerli donare per <lb/>
+mille, o millecinquecento ducati di <lb/>
+argenteria, tenendo per certo, che <lb/>
+non sia per ricusarla. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya a’ 19 luglio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="274r" facs="04_274r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="274v" facs="04_274v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="083">
+<!--
+<p n="274vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 luglio 1617 ricevute a’ 2 agosto </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="084" corresp="083" source="269r-270v" >
+<div type="main" facs="main text of attachment I" n="084" corresp="083" >
+<!--<p>Allegato I al n. 83 (cc. 269r-270v; decodifica di cc. 268v, 271r-v)</p>-->
+<pb n="269r" facs="04_269r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Prima </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="269v" facs="04_269v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="270r" facs="04_270r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="270v" facs="04_270v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="085" corresp="083" source="272r-273v" >
+<div type="main" facs="main text of attachment II" n="085" corresp="083" >
+<!--<p>Allegato II al n. 83 (cc. 272r-273v)</p>-->
+<pb n="272r" facs="04_272r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere prime dell’Haya de’ 19 <lb/>
+luglio 1617<ptr target="#tn9" n="9"/> </p>
+<p>Risposta delli signori Stati Generali </p>
+<p>Essendosi li signori Stati Generali de’ Paesi Bassi Uniti dechiarati con la loro risposta de’ <lb/>
+18 del mese di marzo passato sopra la propositione fatta nella lor assemblea per <lb/>
+parte dell’alto et potentissimo principe et signore il signor duca di Savoia principe di <lb/>
+Piemonte etc. ai 14 del mese sudetto dal signor di Monthu suo consigliere in virtù <lb/>
+delle sue lettere credenziali<ptr target="#tn10" n="10"/> dell’ultimo dell’anno 1616, quanto volontieri havevano <lb/>
+inteso col mezo della detta propositione il buon stato dell’affari dell’Altezza sua <lb/>
+et che fin allhora era piacciuto al Signor Dio di render<ptr target="#tn11" n="11"/> felici et prospere le sue <lb/>
+armi contra le grandi forze, hostili intraprese, et pretentioni del re di Spagna <lb/>
+bramando che sua divina Maestà vogli non solamente continuare per l’avvenire <lb/>
+a sua Altezza li suoi buoni successi, ma di più perfecionarli et accompirli<ptr target="#tn12" n="12"/> per una <lb/>
+vera vittoria se la guerra durasse; o venendo altrimente<ptr target="#tn13" n="13"/> a fine d’essa<ptr target="#tn14" n="14"/> <lb/>
+col mezo d’un honorato et sicuro trattato di pace, col quale possi sua Altezza possieder <lb/>
+i suoi paesi in riposo con li suoi buoni sudditi; et di più havendo fatto intender <lb/>
+a sua Altezza quanto all’asistenza<ptr target="#tn15" n="15"/> et soccorso richiesti colla detta propositione la loro <lb/>
+buona volontà et singularissima affettione al mantenimento del suo Stato, et affare contra <lb/>
+le violenti usurpationi del detto re di Spagna col mezo della risposta, che fecero a <lb/>
+detta Altezza nell’anno 1615, in<ptr target="#tn16" n="16"/> che non desiderano cosa alcuna più che l’occasioni <lb/>
+et i mezi purché sua Altezza<ptr target="#tn17" n="17"/> vedi et provi gl’effetti di tal loro buona volontà, nel<ptr target="#tn18" n="18"/> che <lb/>
+non mancarebbono nullamente in quanto gli fusse permesso da’ loro affari, come fecero <lb/>
+apparere, et veder chiaramente; stante che continuavano a tenir occupata per di <lb/>
+qua un’armata spagnola di tre o quattro milla cavalli, et di vinti o trenta milla <lb/>
+fanti, la quale senza questo haverebbe il<ptr target="#tn19" n="19"/> re di Spagna potuto impiegar in gran <lb/>
+parte contra sua Altezza; havendo di più li detti signori Stati fatti sollicitare li re <lb/>
+di Franza, et della Gran Bertagna; come parimente li principi et città unite
+<pb n="272v" facs="04_272v" rend="0"/>
+dell’Alemagna<ptr target="#tn20" n="20"/>, li quali non erano sottoposti alli<ptr target="#tn21" n="21"/> aggravii<ptr target="#tn22" n="22"/> come essi signori et tutto affine <lb/>
+di soccorrer parimente la detta Altezza sua per quanto al<ptr target="#tn23" n="23"/> loro<ptr target="#tn24" n="24"/> si spettava<ptr target="#tn25" n="25"/> <lb/>
+a<ptr target="#tn26" n="26"/> proportione dell’<ptr target="#tn27" n="27"/>interesse che respettivamente hanno contra l’agrandirsi<ptr target="#tn28" n="28"/> <lb/>
+del re di Spagna non senza speranza di buon successo; et di più promesso per parte <lb/>
+loro<ptr target="#tn29" n="29"/> che<ptr target="#tn30" n="30"/> sì come li deputati delle Provincie nella lor <lb/>
+assemblea in quel tempo non si trovavano auttorizati per poter risponder pron-<lb/>
+tamente sopra la detta proposta assistenza di farla communicare per ogni ri-<lb/>
+spetto alli loro superiori con tutti li<ptr target="#tn31" n="31"/> megliori ufficii et con ogni necessario termi[ne] <lb/>
+affine di ritrare che da loro si ottenesse una buona et fruttuosa risolutione per <lb/>
+poter doppo sopra essa risolver a contento dell’Altezza sua. Per tanto havendo <lb/>
+appresso li detti deputati delle Provintie Unite cavato et ottenuto da’<ptr target="#tn32" n="32"/> loro <lb/>
+superiori la detta auttorità ne fecero dichiaratione nella loro assemblea della <lb/>
+maniera che si conveniva, li detti signori Stati Generali per satisfare alla detta <lb/>
+sua promessa doppo una matura deliberatione sopra il contenuto della sua <lb/>
+propositione del signor di Monthu acompagnata<ptr target="#tn33" n="33"/> dalla favorevolissima <lb/>
+raccomandatione della serenissima republica di Venetia fatta ad essi et più volte <lb/>
+reiterata nella detta loro assemblea per il signor Suriano residente qui <lb/>
+per parte di lei, hanno con il previo parere di sua Eccellenza del Conseglio <lb/>
+di Stato delle dette Provintie Unite consentito, et promesso; consentono, <lb/>
+et prometteno con queste, non ostanti tutti li presenti loro gran capi chi <lb/>
+così per diffesa propria; che per<ptr target="#tn34" n="34"/> l’assistenza, et sicurezza delgl’affar<ptr target="#tn35" n="35"/> <lb/>
+de qualche patentato lor colegato, di assister et far fornire alla detta <lb/>
+altezza sua di Savoia a<ptr target="#tn36" n="36"/> piacimento di lei in mano di quello che ne haver[ebbe] <lb/>
+la carica per parte sua per li mesi d’agosto, settembre, ottobre et novembre, per <lb/>
+una soventione nella guerra che la sostiene al presente contra il re di </p>
+<pb n="273r" facs="04_273r" rend="0"/>
+<p>Spagna cinquanta milla fiorini per mese, occorrendo che sua Altezza durando li dett[i] <lb/>
+quattro mesi continui la detta guerra. Facendo essi signori Stati Generali conto che <lb/>
+con la detta somma di cinquanta milla fiorini potranno esser intartenuti <lb/>
+cadaun mese quattro mille fanti et quattocento cavalli, conforme al soldo <lb/>
+che dano ordinariamente. Assicurandosi che sua Altezza riceverà questa lor assistenza <lb/>
+per grata, et conoscerà col mezo d’essa quanto da’ detti signori Stati sia augu-<lb/>
+rata<ptr target="#tn37" n="37"/> et desiderata la conservatione et mantenimento del suo Stato, contra le dette <lb/>
+violenti<ptr target="#tn38" n="38"/> usupationi dal re di Spagna; col mezo delle quali pretende di <lb/>
+dare legge all’Altezza sua. Pregando Dio potentissimo, che voglia per <lb/>
+tal<ptr target="#tn39" n="39"/> effetto felicitare et prosperare l’armi et l’intraprese di detta Altezza <lb/>
+contra li suoi nemici, a beneficio della christianità tutta. Ricercando pari-<lb/>
+mente il detto signor di Monthu di voler fare all’Altezza sua ogni buon <lb/>
+raporto della buona affetione che le detti signori Stati portano all’avanzamento <lb/>
+del suo servitio, et particolarmente iscusare, che per le difficultà et ragioni <lb/>
+sudette non hanno potuto prender più tosto questa lor risolutione. </p>
+<p>Fatta nell’Haya nell’assemblea de’ detti signori Stati Generali a’ dodeci <lb/>
+del mese di luglio<ptr target="#tn40" n="40"/> 1617 </p>
+<pb n="273v" facs="04_273v" rend="270"/>
+<p>Risposta alla <lb/>
+propositione di monsignor di Monthou <lb/>
+fatta da’ signori Stati Generali </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "a che" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-si" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-si" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Così … in camino" decoding of the encrypted text can be found on c. 269r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "doluto … Gratie etc." decoding of the encrypted text can be found on c. 269r-v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "Rernuelt" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "tiene" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-z-" corrected above "-c-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "r-" corrected above "f-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is present on "a-" deleted mark; "-i-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "affine di" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Apostrophe added above on "-a" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "quello" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "no" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Corrected from "in."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "dell’" corrected above "d’."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> First "-g-" and "-i" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "-l’" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "l-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "dell’" corrected above "d’."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Apostrophe added above on "-a" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by "come deputati delle Provincie" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "tutti li" added above the line on "quelli" crossed out with an insertion mark.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "l’" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Third and last "a" is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Improper or peculiar spelling by the writer; "-g-" corrected above "-l-."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Followed by "p-" crossed out.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Second "-u-" corrected above "-gu-."</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> "-ti" is the result of a correction.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Followed by two crossed-out words.</p></note>
+</div>
+</body>
+</text>
+</TEI>

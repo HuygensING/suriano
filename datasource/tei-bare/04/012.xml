@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.012 date 1617-03-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 63r-64v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">63r-64v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>A brief letter about someone who has come to visit Suriano and claims to know interesting things for the Venetian Republic </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-28">28 marzo 1617</date>
+            <num>022</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>28 marzo 1617, L’Aia (cc. 63r-64v)</p>-->
+<pb n="063r" facs="04_063r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>è ritornato quello, che mi haveva proposta la revelatione <lb/>
+di importante negotio al servitio della serenissima Republica et sta <lb/>
+pur saldo nel voler havere qualche cosa in mano, con <lb/>
+che egli si assicuri della publica munificenza. Et mi <lb/>
+disse doppo molti discorsi passati seco, et haver io ten-<lb/>
+tato di cavar alcun lume, già vostra Serenità sente<ptr target="#tn1" n="1"/> il <lb/>
+frutto, che ha cavato la serenissima Republica da quella <lb/>
+poca apertura, che le feci li giorni passati, et<ptr target="#tn2" n="2"/> <lb/>
+sua Serenità ha veduto, che non parlavo, che con fondamento <lb/>
+ma non ha scoperto quali siano li disegni de’ Spagnoli. <lb/>
+Deve ella sapere, et esser sicura, che hora che essi <lb/>
+Spagnuoli vedranno che la serenissima Republica si arma per <lb/>
+mare a fine di ostarli; tanto più si affreteranno <lb/>
+ad accommodar le differenze di lei col serenissimo Ferdi-<lb/>
+nando, et l’altre tutte d’Italia per adormentare, et <lb/>
+come haveranno fatto tanto che basti per assicu-<lb/>
+rarla, et renderla libera da sospetti, allhora <lb/>
+faranno il gioco, et prontamente appresteranno lo <lb/>
+sforzo perché haveranno modo facile del farlo <lb/>
+con varii pretesti, et con l’intelligenze, che hanno <lb/>
+in golfo. È vero che Massimiliano, et Ferdinando devono
+<pb n="063v" facs="04_063v" rend="0"/>
+al presente esser alla corte cesarea per affari dell’Imperio; ma <lb/>
+mi credi, che vi sono anco per questo particolare né altro <lb/>
+che Dio può evitare, che non succedino li loro disegni, <lb/>
+et intrapresa, se non vi si rimedia, et se non vi si contramina <lb/>
+et disse, che haveva la maniera, et la poteva mostrar <lb/>
+facile alla serenissima Republica non tanto di guardarsi dal pericolo <lb/>
+che se le minaccia, quanto di far altrettanto contra <lb/>
+la volontà d’essi Spagnuoli con loro danno, et se vorrà <lb/>
+senza loro danno ancora. Et replicò la vostra Serenità, voleva <lb/>
+poteva, et haveva il modo di servirla, ma era necessario, <lb/>
+che havesse cosa di certo in mano, che così l’haveva <lb/>
+consigliato il padre, et desiderava, che fosse con <lb/>
+annua assignatione oltre quanto ha esposto nelle <lb/>
+sue scritture, et<ptr target="#tn3" n="3"/> che fosse propria, et conveniente al <lb/>
+servitio, che proponeva che era di momento, et si lasciò intender, che haverebbe voluto una ducale <lb/>
+sigillata. Tutto, che ho detto alla Serenità vostra è la <lb/>
+sostanza di quanto nel corso del ragionamento sono <lb/>
+andato cavando; et havendogli promesso di scrivere <lb/>
+m’ha detto, che attenderà la risposta perché le <lb/>
+vive tanto devoto, et affettionato, che niente più
+<pb n="064r" facs="04_064r" rend="0"/>
+ella per tanto mi commanderà quanto le parerà per sua <lb/>
+prudenza proprio al servitio di lei. Gratie etc. </p>
+<p>Dall’Haya a’ 28 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="064v" facs="04_064v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="064vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 marzo 1617 ricevuta 12 aprile </p>
+<p>Haya secretario Surian. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

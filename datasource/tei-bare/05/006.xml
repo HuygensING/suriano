@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.006 date 1617-09-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">006</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 29r-31v, 34r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">29r-31v, 34r-v, 32r-33v, 35r-36v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports continued delay of the levies by Levenstein, only ten ships are now ready, one large ship has been damaged and had to sail back to Enkhuizen, as a result of this Suriano will need to stay in Delftzijl longer than anticipated. Continued rumours on the peace in Italy. Levenstein has not yet arrived and Suriano does not know what caused this delay. He wants to be in The Hague to fullfill the demands of the Venetian government, but due to the delay he has instructed Falghero to act on his behalf. He has received a letter by Monthou that matters are not progressing well. One text attached: a letter from Giovanni Battista Pasini written on 30 September 1617 from Brussels, who claims he will serve the Venetians with the latest news in Suriano’s absence. He claims he has already served the Venetian Republic for more than 15 years.</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Delfzijl</settlement>
+            <date when="1617-09-29">29 settembre 1617</date>
+            <num>009, 010, 011</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="009">
+<div type="main" facs="main text of letter" n="009">
+<!--<p>29 settembre 1617, Delfzijl (cc. 29r-31v, 34r-v)</p>-->
+<pb n="029r" facs="05_029r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>volontieri vorrei poter significar alla Serenità vostra qualche fine <lb/>
+di questa levata del signor conte di Levenstein; ma anco sopra il <lb/>
+luoco vedo aggiungersi dilatione, a dilatione. Speravo <lb/>
+al mio arrivo qui coll’esser venuto innanti il fratello <lb/>
+trovar le cose ordinate, et tutto pronto ma<ptr target="#tn1" n="1"/> è restata delusa <lb/>
+la speranza. Dieci sole delle navi erano su la fiumara <lb/>
+quando arrivai qui domenica di sera, non ostante, che <lb/>
+le rimanenti fossero partite d’Amsterdam già molti <lb/>
+giorni per questa volta. Hieri ne arrivò una delle <lb/>
+più grandi della flotta nella quale deve entrar la <lb/>
+compagnia del conte Gio. Casimiro; ma non so per qual <lb/>
+mala fortuna tre leghe o poco più discosto di qua <lb/>
+nell’imboccar essa fiumara ha dato nella sabbia, <lb/>
+che li causato<ptr target="#tn2" n="2"/> un poco di rottura, che se bene <lb/>
+non mostra di far acqua è però tale, ch’è stato <lb/>
+necessario, che vadi a Embden doi, o tre hore di qua <lb/>
+per accommodarsi, poiché li marinari non haverebbono <lb/>
+arischiato di far il viaggio con tal fallo e questo <lb/>
+necessariamente porterà dilatione di otto giorni, et <lb/>
+forse più, il che mi afflige l’animo<ptr target="#tn3" n="3"/> vedendo <lb/>
+questo nuovo ritardo all’ispeditione che mi necessiterà
+<pb n="029v" facs="05_029v" rend="0"/>
+a trattenermi qui più di quello, che haverei desiderato <lb/>
+per servitio di vostra Serenità et<ptr target="#tn4" n="4"/> per l’interesse che per questa mia <lb/>
+dimora riceverà il publico nella spesa, che riesce grave <lb/>
+conforme alla qualità della carestia del Paese. Nelli <lb/>
+altri vasselli vi è quasi tutto il numero delli 3 mila fanti <lb/>
+senza quelli, che sono in terra, et hoggi si comincierà a <lb/>
+dar mostra alla compagnia colonella del signor Conte affine di <lb/>
+render consolati li soldati col far qualche cosa, massi-<lb/>
+me quelli che da quattro settimane in qua sono <lb/>
+imbarcati. Et ben si deve gratie al Signor Dio che sin qui <lb/>
+non<ptr target="#tn5" n="5"/> sia successo tra questo reggimento alcun accidente <lb/>
+et mentre massime da Spagnoli si fa sparger anco da <lb/>
+questa parte voce<ptr target="#tn6" n="6"/>, che la pace in Italia sia fatta <lb/>
+et hiersera appunto venero qui doi, delle guarnigioni <lb/>
+di Linghen, che dissero il medesimo. Uno de’ quali confessando <lb/>
+di esser suddito di vostra Serenità nativo della Parga nell’<lb/>
+Albania mi vene con questo pretesto a visitare subito <lb/>
+sbarcato accompagnato da un altro, che a me si <lb/>
+nominò Girolamo da Novara, et ad altri Adolfo, <lb/>
+et l’altro disse esser Girolamo albanese, se ben con me <lb/>
+si diede il nome di Pietro albanese, il che causò anco
+<pb n="030r" facs="05_030r" rend="0"/>
+doppo in questi capitani sospetto, che fossero mandati <lb/>
+espressamente per spiare; confermandosi nell’opinione <lb/>
+per precedenti avvisi, che ’l Governator di questa piazza <lb/>
+haveva havuti, che costoro dovevano capitar. Esso <lb/>
+Governatore li ha essaminati, né hanno saputo negare, che <lb/>
+non fossero li stessi, che gl’erano stati avvertiti; ma <lb/>
+che erano passati per di qua essendo stati a Grunighen <lb/>
+alla fiera per comprar qualche<ptr target="#tn7" n="7"/> cavallo per loro uso, et <lb/>
+che andavano a Embden per suoi particolari affari. Sono <lb/>
+partiti questa mattina di buon hora né credo, che <lb/>
+ardiranno di tornar qui havendogli il sergente mag-<lb/>
+giore Durante di Prigni protestato, che se ritornano <lb/>
+non saprà ritenir li soldati, che non li faccino qualche <lb/>
+affronto. Essendo andato uno delle truppe a <lb/>
+Embden con la nave per solicitar l’acconcio li ho <lb/>
+dato ordine che osservi li loro andamenti. </p>
+<p>Il Conte ancor non è arrivato qui. Suo fratello gli <lb/>
+ha ispedito hieri huomo espresso, perché venga <lb/>
+et io non so da che procedi questo ritardo, se non <lb/>
+fosse per dar sodisfattione alle spese fatte in Amsterdam <lb/>
+et al convenire assicurar per l’armi, et per altro, et
+<pb n="030v" facs="05_030v" rend="0"/>
+forse anco per liberarsi dalli oblighi in che si era posto per <lb/>
+l’altra levata. Chiamo in testimonio Iddio del <lb/>
+patimento del mio animo; ma certo (sia detto con ogni <lb/>
+riverenza) levate di questa natura incontreranno <lb/>
+sempre difficoltà<ptr target="#tn8" n="8"/> senza l’assoluta effettiva<ptr target="#tn9" n="9"/> publica <lb/>
+assistenza. Se il mio solecitare o l’assister di <lb/>
+qualche cosa secondo che ne vedessi il bisogno, come <lb/>
+da vostra Serenità ne ho l’auttorità potrà giovare, possono <lb/>
+l’Eccellenze vostre esser certe, che non sarà pretermesso da me <lb/>
+sì che<ptr target="#tn10" n="10"/> prontamente non si essequisca. Sono ridotto <lb/>
+qui; et vorrei esser all’Haya in un istesso tempo <lb/>
+per servire<ptr target="#tn11" n="11"/> et là et qua ai commandamenti della Serenità vostra par-<lb/>
+ticolarmente a quelli, che mi vengono nelle sue lettere <lb/>
+de’ 8 del presente per far ufficio con li signori Stati, et il signor <lb/>
+principe Mauritio per divertir li concetti de’ capitani, et <lb/>
+far apparere l’essorbitante delli loro articoli, <lb/>
+de’ quali ricevo la copia nelle medesime lettere. <lb/>
+Vedendo di non poter far altro ho ispedito hieri lettere <lb/>
+al signor Pietro Falghero per presentar alli signori Stati, et al <lb/>
+signor principe Mauritio, facendo instanza alli uni <lb/>
+et all’altro di lettere per l’effetto desiderato dalla
+<pb n="031r" facs="05_031r" rend="0"/>
+dalla Serenità vostra con ordine, che havutele le invii all’illustrissimo signor <lb/>
+savio di Terraferma alla scrittura. L’instanza fatta <lb/>
+da me all’Eccellenza sua è con quel termine riservato, <lb/>
+che dalla prudenza dell’Eccellenze vostre illustrissime mi viene <lb/>
+nelle lettere sue detata; et ho stimato bene di procurar <lb/>
+che anco il signor conte Guglielmo zio del conte Gio. Ernesto <lb/>
+faccia un simil ufficio; ma spero, che la prudenza, <lb/>
+et munificenza di vostra Serenità haverà già superata la <lb/>
+vastezza delle dimande di quelle genti, che Dio lo <lb/>
+voglia per sollevo al publico servitio. </p>
+<p>Le altre lettere pur delli 8 con li avvisi di Piemonte, <lb/>
+et dell’armata da mare di vostra Serenità et di Napoli <lb/>
+mi serviranno d’informatione. </p>
+<p>Questo luoco è assai lontano da comercio civile <lb/>
+onde non ho cosa degna da rappresentare a vostra Serenità. <lb/>
+Hier sera ricevei lettere di Alemagna del signor di <lb/>
+Monthou nelle quali mi scrive, che partiva di <lb/>
+Heidelbergh disperato vedendo tutte <hi rend="decoded">le</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">speranze tedesche</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">andar in niente; <lb/>
+che non voleva publicarle per falite assoluta-<lb/>
+mente, ma che era</hi>
+<pb n="031v" facs="05_031v" rend="0"/>
+<hi rend="decoded">cosa sicura, che haverebbe <lb/>
+fatto niente; né ardiva ancora di scriverle <lb/>
+vergognose propositioni di aiuto, che alcuni <lb/>
+hanno fatte, poiché lo riputava ad ingiu-<lb/>
+ria fatta a sua Altezza, et conclude, <lb/>
+che in fine era gionto, dove sempre have-<lb/>
+va dubitato, et anco a termini peggiori.</hi> Gratie etc. </p>
+<p>Da Delfsil a’ 29 settembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="034r" facs="05_034r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="034v" facs="05_034v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="009">
+<!--
+<p n="034vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29 settembre 1617 ricevute a’ 19 ottobre </p>
+<p>Secretario Surian </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="010" corresp="009" source="32r-33v" >
+<div type="main" facs="main text of attachment I" n="010" corresp="009" >
+<!--<p>Allegato I al n. 9 (cc. 32r-33v; decodifica di c. 31r-v)</p>-->
+<pb n="032r" facs="05_032r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="032v" facs="05_032v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="033r" facs="05_033r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="033v" facs="05_033v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="011" corresp="009" source="35r-36v" >
+<div type="main" facs="main text of attachment II" n="011" corresp="009" >
+<!--<p>Allegato II al n. 9 (cc. 35r-36v)</p>-->
+<pb n="035r" facs="05_035r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Illustrissimo signor mio signor, et patron<ptr target="#tn14" n="14"/> colendissimo </p>
+<p>Mi diede comissione il signor residente Suriano, nel suo partir di Olanda per Limbe[…]<ptr target="#tn15" n="15"/> <lb/>
+di quelle genti del conte di Levestin, che avendo in questa corte alcuna cosa <lb/>
+di novo, dovesi avisarlo a vostra Signoria illustrissima acciò sua Serenità et le Signorie vostre eccellentissime, fosse anco <lb/>
+nella absentia sua, reguagliate al quanto di quello passa, dove obedendo io <lb/>
+a quanto mi à comandato ò pigliato ardire con questa mia di dirci quanto <lb/>
+ò potuto sapere, et sì bene sua Signoria illustrissima conoserà imperfetione grande nel mio scriver <lb/>
+sieglierà il sugo del contenuto, con la sua prudenza, et a me scuserà se in <lb/>
+questa, troverà errori poiché nel scriver pocha pratica tengo, et menno <lb/>
+hortografia, del che signor illustrissimo acceterà il bon animo in un fidel sudito <lb/>
+di questa serenissima Republica, al qualle in tutte le occasioni si à mostrato pronto <lb/>
+in servir molti eccellentissimi ambasciatori, in condur gente al servitio di sua Serenità, et in <lb/>
+molte altre occasione che per il spatio di 15 anni si sono rapresentate sprezando <lb/>
+ogni sorte di pericoli pure che sia statto di servitio della serenissima Republica et orra <lb/>
+illustrissimo mio signore più pronto che mai poiché altro non desidero in questo mondo che <lb/>
+spender questa mia vitta in servitio de Dio et della serenissima Republica. </p>
+<p>Con letere delli 13 corente venute al marchese Spinola di don Pietro di <lb/>
+Toledo se à inteso come don Pietro scrive a detto Marchese, che la cavallaria <lb/>
+levata in Alemagna la devano licentiare, come anco li due regimenti <lb/>
+di fanteria levati in Alsatia, et anco le giente levate nel Palatinato <lb/>
+si è nova di licentiarle ancora, sì bene queste orra come dicono per servitio del serenissimo <lb/>
+di Savogia, et altre del serenissimo Ferdinando l’une levate con il denaro del <lb/>
+Cattolico et altre del Duca, molti soldati in queste parte si ramaricano che <lb/>
+sia seguita la pasce essendone molti che desegnavano venir a servir alla <lb/>
+serenissima Republica et particolarmente un tal Sargente Maggiore inglese qual io aveva <lb/>
+condoto un 100 ducati di soldo al mese di ordine del signor Suriano, havendo ricevuto<ptr target="#tn16" n="16"/> <lb/>
+200 ducati per far il viagio a conto delle sue page et per qualche acidente <lb/>
+è stato carcerato sinora et deve sortire fra pochi giorni. Io sto inresoluto <lb/>
+di quello devo fare non sapendo se sarà gusto di sua Serenità haver un sugieto
+<pb n="035v" facs="05_035v" rend="0"/>
+di questa spesa in tempo di pace, li 200 ducati li tengo appreso di me, et non <lb/>
+li sborserò sino a novo ordine, io l’ò havisato al signor Suriano a ciò scrivesi <lb/>
+a sua Serenità sopra questo starò aspetando da vostra Signoria illustrissima ordine di quanto devo <lb/>
+opperare, il marchese Spinola parte domani per Fiandra starà come dicano <lb/>
+quatro giorni dicesi sia per riveder le fortificatione di Dama tera posta <lb/>
+fra Brugia, et l’Inclusa, si vocifera anco che monsignor Pechius cancelier <lb/>
+di Brabante sia per partirsi per Olanda per terminar le corse in materia <lb/>
+delli confini della Fiandra fra li signori Stati et l’arciduca Alberto poiché li doi com[isari] <lb/>
+mandati all’Aya li giorni pasati, dicano haver fato pocho fruto, dicano ancora <lb/>
+che detto Pechius averà comisione di tratar con detti signori Statti di contracambiar <lb/>
+alcune piazze di sua Altezza di llà del Renno con alcune che sono in Fiandra delli <lb/>
+signori Stati questo si vocifera in casa di ministri prencipali. </p>
+<p>Don Pietro di Toledo lemoseniero magior di questi principi si parte fra due giorni <lb/>
+per la sua legatione a Cessare, et al novo re Ferdinando, a nome del Re catholico <lb/>
+et di lorro Altezze van con bel aparato. </p>
+<p>La vicario<ptr target="#tn17" n="17"/> gieneralle di Olanda, a presente in Brusselles, à fatto relation a <lb/>
+monsignor Morra nuntio per nostro signore che in Olanda nel convento nationalle <lb/>
+tenuto in quella provintia in 19 volte che si sono giuntati non ànno <lb/>
+trovato modo nisuno, per acomodarsi, ancsi, dice che l’uno e l’altro siano<ptr target="#tn18" n="18"/> <lb/>
+detto molte ingiurie, et affirma debbiano venir a una guera civille <lb/>
+fra de loro, se Dio nostro Signore non si mete la sua santa mano questo è quanto <lb/>
+potrò dir a vostra Signoria illustrissima. Baciandoli umilmente le mano. </p>
+<p>Di Brusselles a dì 30 settembre 1617 </p>
+<p>di vostra Signoria illustrissima </p>
+<p>devotissimo et ubidientissimo vasallo e servitore </p>
+<p>Giovan Battista Pasini </p>
+<pb n="036r" facs="05_036r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="036v" facs="05_036v" rend="0"/>
+<p>Per vostra Signoria illustrissima </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment II" n="011" corresp="009" >
+<!--
+<p n="036vC">———</p>
+-->
+<head>secretarial text of attachment II</head>
+<p>30 settembre 1617 ricevute […] ottobre </p>
+<p>Gio. Battista Pasini da Brusseles </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "v-" corrected above ,.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "q-" corrected above "c-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "publica" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "no(n)" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "le … Gratie etc." decoding of the encrypted text can be found on c. 32r; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "no(n)" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Damaged page.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "La vicario" uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

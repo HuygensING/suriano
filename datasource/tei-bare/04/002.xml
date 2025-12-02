@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.002 date 1617-03-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">002</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 6r-9v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">6r-9v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Mettoni’s ship is the only one left in Texel and is stuck in the sand. Soon John Ernst will travel to Venice via the Grison. Rumours from the Spanish court that the ministers are thinking about stopping the ships carrying troops at the Strait of Gibraltar. Continuing speculation about peace mediated by Spain and count of Egmont has asked Suriano more information on the matter. Odet de la Noue has visited Suriano to know more about levies by Levenstein </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-04">4 marzo 1617</date>
+            <num>003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="003">
+<div type="main" facs="main text of letter" n="003">
+<!--<p>4 marzo 1617, L’Aia (cc. 6r-9v)</p>-->
+<pb n="006r" facs="04_006r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>scrissi a primo del corrente alla Serenità vostra la partenza <lb/>
+de’ vasselli, ch’erano da questa banda<ptr target="#tn1" n="1"/> della Moza, <lb/>
+et la credenza, che tenevo, che anco quelli del Tessel <lb/>
+fossero in camino. Hora essendo rivenuto di là il signor <lb/>
+conte Giovanni le confermò, ch’egli n’ha veduti sei <lb/>
+a far vella, et uno doveva uscir il giorno stesso <lb/>
+di giovedì, che partì di là essendo tutto pronto; ma <lb/>
+restava quello del capitan Mettoni francese, che non si è <lb/>
+mai potuto levar dalla sabbia, rispetto alla bassezza, <lb/>
+et mancamento delle acque; onde è stato necessario il <lb/>
+dar ordine, perché prontamente se ne apparecchi <lb/>
+un altro, che piacendo a Dio fra tre, o quattro <lb/>
+giorni farà vela anch’egli continuando il vento buono, <lb/>
+et l’apparenza ci dimostra, che non habbi a mutar <lb/>
+faccia così tosto. Dio lo voglia affineché anco <lb/>
+questi doicento fanti, che sono buoni, et bella <lb/>
+soldatesca faccino il suo viaggio. Mi par di esser <lb/>
+sollevato assai, et lo sarei del tutto se non vi restasse <lb/>
+quest’unico rancontro. </p>
+<p>Fa pensiero il signor Conte di partir verso giovedì, et credo <lb/>
+che hoggi otto<ptr target="#tn2" n="2"/> significarò alla Serenità vostra, che si sarà
+<pb n="006v" facs="04_006v" rend="0"/>
+messo in camino. Egli è tutto allegro, et tutto contento, né <lb/>
+altro hora desidera, che esser di là a servirla, riservan-<lb/>
+dosi questo per particolar sollevo dal patimento passato <lb/>
+nell’animo. Farà il viaggio per Svizzeri, et Grisoni <lb/>
+onde vostra Serenità si compiacerà di rinovar gl’ordini necessarii <lb/>
+per il suo buon adrizzo. </p>
+<p>Il signor principe Mauritio l’ha veduto volontieri di ritorno <lb/>
+del Tessel con così buone nuove, et lo ha abbracciato <lb/>
+in testimonio del gusto, che ne prova; che se ben <lb/>
+è stato nel generale, riesce però di confusione <lb/>
+a qualcheduno, che non ha volontieri sentita l’<lb/>
+uscita delle genti. </p>
+<p>Anderanno li vasselli senza nave da guerra perché <lb/>
+troppo tarda è stata la deliberatione del ricercarla <lb/>
+et essendo continuato il buon vento, si crede, che le <lb/>
+navi siano già nelli mari di Spagna. Dio benedetto <lb/>
+li<ptr target="#tn3" n="3"/> conduca felicemente perché possi la Serenità vostra dal <lb/>
+zelo di quelle genti ricever quel fruttuoso servitio <lb/>
+che mi prometto siano per prestare. </p>
+<p>Viene detto da molti, che allo stretto siano per haver <lb/>
+ostacolo dall’armata, che ivi si trattiene del Catholico
+<pb n="007r" facs="04_007r" rend="0"/>
+ma li patroni dei vasselli, come altre volte ho scritto <lb/>
+riverentemente alla Serenità vostra, non stimano l’avviso, né <lb/>
+temono l’incontro. </p>
+<p>Se bene le Signorie vostre eccellentissime haveranno inteso dalla corte di Spagna <lb/>
+che vi sia pensiero in quei ministri, che ’l Re facci far <lb/>
+un forte allo stretto di Gibilterra per fermar il passo, <lb/>
+et farsi patrone del Mediteraneo, in ogni modo, essen-<lb/>
+dosene con l’occasione del passaggio, che deve far per di là <lb/>
+la detta gente, discorso lo scrivo per solo rancontro. </p>
+<p>A tempo mi sono pervenute le lettere della Serenità de’ <lb/>
+17 del<ptr target="#tn4" n="4"/> passato<ptr target="#tn5" n="5"/>, et quelle particolarmente nelle quali col solito <lb/>
+della sua prudenza m’informa dell’apertura <lb/>
+di trattatione di pace, che si è fatta all’eccellentissimo signor ambasciator <lb/>
+Gritti alla corte di Spagna: perché ne havevo bisogno; <lb/>
+mentre continua la voce, che la trattatione sia in <lb/>
+termine tale, che non possi se non seguir l’accom-<lb/>
+modamento delle differenze tra vostra Serenità et il <lb/>
+serenissimo Ferdinando. Et il signor conte di Egmont <lb/>
+suddito de’ serenissimi arciduchi mi ha mandato<ptr target="#tn6" n="6"/> <lb/>
+a dimandar con una grandissima instanza quello <lb/>
+che ne tenevo. Hora, che ho la particolar instruttione
+<pb n="007v" facs="04_007v" rend="0"/>
+parlerò in conformità, et procurerò, che queste publicationi <lb/>
+non diventino le buone volontà, che si havessero di <lb/>
+coadiuvare con la permissione delli aiuti al servitio della <lb/>
+Serenità vostra. </p>
+<p>Non ho risposta all’instanza del signor conte di Lev[e]nstein<ptr target="#tn7" n="7"/> <lb/>
+et si scusano questi signori di esser occupati nell’attender <lb/>
+a trovar ripiego alle dissensioni intestine, che sono <lb/>
+per il punto di religione. Anco li ambasciatori di <lb/>
+Francia sollecitano, et instano, né hanno potuto <lb/>
+cavar cosa alcuna in risposta quanto al publico, <lb/>
+ben nel particolare se li fanno delle considerationi, che <lb/>
+ho già notificate alla Serenità vostra et il signor ambasciator della <lb/>
+Nua, che fu hieri per la 2<hi rend="superscript">da</hi> volta a vedermi <lb/>
+mostrò poco gusto del ritardo, et mi disse, che <lb/>
+havendo parlato ad alcuni perché si venisse alla <lb/>
+risolutione di assister al Re in conformità <lb/>
+delle capitulationi, s’iscusano con la necessità, <lb/>
+che ha il Paese per sentirsi la levata di tante armi ai confini; et che essendo partiti <lb/>
+quattromilla fanti per passar al servitio della <lb/>
+serenissima Republica, se si convenisse anco snervarlo di
+<pb n="008r" facs="04_008r" rend="0"/>
+altrettanti per Francia troppo sarebbe; ma (aggiunse) questa <lb/>
+non è risposta propria perché li capitoli dell’aleanza giurata <lb/>
+con sua Maestà christianissima li mette in obligo; et l’obligo deve <lb/>
+stimarsi più, o al pari almeno della cortesia, et <lb/>
+della dimostratione di buona volontà. Io ho saputo, che <lb/>
+si dura fatica nel risolver a conceder queste genti <lb/>
+per il rispetto sudetto della suspitione de’ vicini romori, <lb/>
+et perché la instanza viene a ferir l’errario publico <lb/>
+non tanto per le spese fatte da doi anni in qua nel <lb/>
+mantenersi dalle Provincie Unite questa soldatesca, <lb/>
+quanto perché si vorrebbe, che li 4 mila fanti o tutti <lb/>
+francesi, o parte, et parte fosser pagati, et mantenuti <lb/>
+per un anno di questo denaro al servitio della Corona: <lb/>
+ma infine, si crede, che non si potrà negare alla <lb/>
+Francia di non darle quest’assistenza. </p>
+<p>Il re di Svetia col mezo del suo ambasciator qui residente <lb/>
+vuol far instanza di haver una levata di mille-<lb/>
+doicento fanti. </p>
+<p>Anco il signor conte Gioanni fratello del conte Gio. Ernesto deve <lb/>
+arrivar qui fra tre, o quattro giorni con commissione <lb/>
+di levar cento corrazze per servitio del Christianissimo
+<pb n="008v" facs="04_008v" rend="0"/>
+ma si crede, che l’uno, et l’altro habbino ad incontrar <lb/>
+delle difficoltà; et forse la negativa, essendo massime <lb/>
+venuto ad orrecchie di questi signori, che ’l re di <lb/>
+Danimarca si metti all’armi a tutto potere, et <lb/>
+che disegni sopra alcuna delle città ansiatiche <lb/>
+alle quali questi signori per la nuova aleanza saranno <lb/>
+constretti, occorrendo, dar soccorso. </p>
+<p>Tutto ciò mi fa star in dubio della riuscita del negotio <lb/>
+del conte di Levenstein, il quale se ben non è per <lb/>
+levar le genti da questa parte: con tutto ciò non <lb/>
+lascia di haver scrupulo del passaggio, et di <lb/>
+considerar, che non sia riputatione conceder cosa, <lb/>
+che non possi haver il suo effetto. Io però penso <lb/>
+dimani di parlarne col signor Bernvel, et cavar quello <lb/>
+che se ne può sperare, et lo farò con quella destrezza <lb/>
+che comporta la qualità de’ tempi, et dell’affare <lb/>
+et quanto ad altra levata non farò per li medesimi <lb/>
+rispetti altro senza espressa, et particolar nuova <lb/>
+commissione della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 4 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="009r" facs="04_009r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="009v" facs="04_009v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="003">
+<!--
+<p n="009vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 marzo 1617 ricevute 22 detto </p>
+<p>Haia. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "b-" corrected above "p-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-l" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.073 date 1619-12-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">073</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 376r-378v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">374r-375v, 376r-378v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this ciphered letter he reports they have signed the alliance. The term to ratify the treaty is 6-8 months as no decision has been made yet about exchange of extra-ordinary ambassadors or residents. Suriano requests to know the preference of Serenissima in this matter. He reports he will inform Carleton of the alliance as instructed. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-31">31 dicembre 1619</date>
+            <num>124, 125</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="124" corresp="125" source="374r-375v" >
+<div type="main" facs="main text of attachment I" n="124" corresp="125" >
+<!--<p>Allegato I al n. 125 (cc. 374r-375v; decodifica di cc. 376r-377v)</p>-->
+<pb n="374r" facs="08_374r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 164 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="374v" facs="08_374v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="375r" facs="08_375r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="375v" facs="08_375v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>31 dicembre 1619, L’Aia (cc. 376r-378v)</p>-->
+<pb n="376r" facs="08_376r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 164 fin 165 </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">col</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">nome del Signor Dio, in questa sera resta conclusa, <lb/>
+et sottoscritta da deputati dei Stati Generali, <lb/>
+et da me l’unione tra la Serenità vostra, <lb/>
+et questa Republica, sotto il beneplacito però <lb/>
+dell’una, et dell’altra: tutto in conformità <lb/>
+di quanto precedentemente le scrissi, et le <lb/>
+aggiunsi hoggi otto, et qui aggiunto è il <lb/>
+dupplicato. Restano sottoscritti li articoli <lb/>
+dell’aleanza in lingua francese, si sottoscri-<lb/>
+verano</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">anco nell’italiana per maggior intelli-<lb/>
+genza delle parti; et resta ancor sottoscritto <lb/>
+quel capitolo, che ha vostra Serenità acconsentito, <lb/>
+che si firmi a parte. Il termine per la <lb/>
+agreatione</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">è stato posto così per sei, over otto <lb/>
+mesi, o più tosto se sarà possibile, et questo perché <lb/>
+ancor non si è risoluto né di là, né di qua <lb/>
+quanto alla missione di ministro. <lb/>
+</hi></p>
+<p><hi rend="decoded">Hanno detti deputati discorso, se la Serenità vostra <lb/>
+fosse contenta, che di là fosse mandata <lb/>
+la sua agreatione, et ella mandar di qua <lb/>
+la sua, et poi a suo tempo</hi>
+<pb n="376v" facs="08_376v" rend="0"/>
+<hi rend="decoded">mandar per <lb/>
+stabilir sotto l’ambasciator, o ressidente, secondo, <lb/>
+che fosse stimato a proposito, in che hanno <lb/>
+premuto grandemente per saperne la volontà di <lb/>
+quella serenissima Republica, desiderando, ch’ella <lb/>
+in ciò dichiarisca quello, che stimerà il <lb/>
+meglio, parendo ad essi, che a vostra Serenità per <lb/>
+riputatione tocchi questo honore di dir, se sia <lb/>
+meglio mandar o ambasciatore, o residente; <lb/>
+io li ho risposto, che non sapevo dirli quanto <lb/>
+al mandar l’</hi><ptr target="#tn4" n="4"/><hi rend="decoded">agreatione ciò che <lb/>
+havesse fatto la Serenità vostra, mentre pareva, <lb/>
+che si fosse sempre detto, che messe le cose ad <lb/>
+ordine, come sono al presente, si sarebbe mandato <lb/>
+da una, et dall’altra parte ministri per la <lb/>
+stipulatione</hi><ptr target="#tn5" n="5"/><hi rend="decoded">; et quanto alla dichiaratione <lb/>
+di ambasciatore, o ressidente, che in ogni modo, che si <lb/>
+fosse stimato proprio si sarebbe dal canto <lb/>
+di lei corrisposto. Mi repplicorono, che era bene, che <lb/>
+</hi>
+<pb n="377r" facs="08_377r" rend="0"/>
+<hi rend="decoded">dalla Serenità vostra si fosse dichiarito quello <lb/>
+per maggior riputatione, et uno di essi deputati <lb/>
+mi disse, quando poi quei signori eccellentissimi vorrano <lb/>
+che noi habbiamo questo honore, si rissolverà <lb/>
+sopra tal affarre. Hora starà alla Serenità <lb/>
+vostra, se vorrà dichiarir la sua intentione <lb/>
+in questo particolare, affine di passar avanti <lb/>
+alla stipulatione, et commune corrobor-<lb/>
+ratione da ambi le parti; le feste del <lb/>
+Natale la venuta dell’Ambasciator straordinario inglese, <lb/>
+et la terminatione dell’affar di Embdem <lb/>
+ha fatto, che sia stato portato inanti questo <lb/>
+negotio fino a questo giorno, anzi sino a questa <lb/>
+sera, onde per la strettezza del tempo non ho potuto <lb/>
+far copia di quello si è sottoscritto, et non essendo <lb/>
+messa ancor la mano sotto all’unione scritta <lb/>
+in italiano, sarà per la prossima settimana <lb/>
+che la Serenità vostra havrà quanto sarà necessario, affine <lb/>
+di poter</hi>
+<pb n="377v" facs="08_377v" rend="0"/>
+<hi rend="decoded">veder il tutto in forma, et come doverà <lb/>
+esser firmato, et roborato tanto da lei, come <lb/>
+dalli signori Stati. <lb/>
+</hi></p>
+<p><hi rend="decoded">Questa mattina sono stato a visitar il signor principe <lb/>
+Mauritio per occasione di augurarli il buon principio <lb/>
+dell’anno nuovo, et rallegrarmi, che sia arrivato <lb/>
+sino a questo giorno con sanità; et venendo a <lb/>
+parlar di quest’unione, mostrò goder, che <lb/>
+infine in questa giornata si havesse a <lb/>
+stabilir così buona amicitia, sperandone, <lb/>
+come disse, ogni buon successo. <lb/>
+</hi></p>
+<p><hi rend="decoded">Alli ambasciatori d’Inghilterra farò parte di questo successo per <lb/>
+continuatione della confidenza, con che mi commandò, <lb/>
+ch’io mi dovessi governar con il signor Carleton in particolare, <lb/>
+et quanto alla commissione, che si compiace <lb/>
+accennarmi nelle sue lettere de’ 14, haver data <lb/>
+all’eccellentissimo signor ambasciator Lando, la tenirò in me, né <lb/>
+parlerò di essa se non astretto da grand’instanza <lb/>
+che me ne fosse fatta. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 31 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="378r" facs="08_378r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="378v" facs="08_378v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n° 164 fin 165 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="378vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 decembre 1619 ricevute a’ 22 gennaro </p>
+<p>Haya. n° 164 </p>
+<p>Sottoscrittione della lega. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "col … Gratie etc. decodifica di testo cifrato presente a cc. 374r-375v."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-scri- esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Corretto da agregatione."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue agreg- depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-a- esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

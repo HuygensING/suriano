@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.029 date 1617-05-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">029</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 148r-150v, 153r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">148r-150v, 153r-v, 151r-152v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Waiting for the arrival of Levenstein from Amsterdam, Suriano received letters from captain Marco about the difficulties to get ships. He request money to do so. Pasini reports that more men want to serve the Venetian Republic and the English soldier Studder requests more money for the jouney. Various rumours are circulating about the intentions of the Neapolitan viceroy. One document attached to this letter: "Lettera del conte Levenstein del 13 maggio 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-05-16">16 maggio 1617</date>
+            <num>048, 049</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="048">
+<div type="main" facs="main text of letter" n="048">
+<!--<p>16 maggio 1617, L’Aia (cc. 148r-150v, 153r-v)</p>-->
+<pb n="148r" facs="04_148r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>mentre attendevo di ritorno d’Amsterdam il signor conte di Leven-<lb/>
+stein, hebbi domenica lettere sue portatemi dal capitan <lb/>
+Mario, ch’è di questo Paese, et doverà venir con esso al <lb/>
+servitio, del tenore, che vostra Serenità vedrà in copia. A bocca <lb/>
+mi rappresentò esso Capitano le difficoltà grandi, che incon-<lb/>
+trava il Conte, che haveva ben accordati tre, o quattro <lb/>
+vasselli in parola; ma non fermati in scrittura, et de-<lb/>
+gl’altri non vi era ancora certezza, et era venuto per <lb/>
+procurar o da me la parola di esborsar immediate <lb/>
+il denaro; o che ’l signor Arsen la dasse al Quirgetti per <lb/>
+tal effetto: perché li patroni de’ vasselli vogliono <lb/>
+haverlo anticipato per far le provisioni; et alcuni <lb/>
+si lasciavano intender volerlo tutto qui senza <lb/>
+aspettar di riceverlo a Venetia, il che gli feci <lb/>
+constare esser in tutto contrario al capitulato, <lb/>
+et alle commissioni di vostra Serenità. Esso Quingetti ricerca <lb/>
+l’Arsen perché egli gli scrisse in raccomandatione <lb/>
+del signor Conte; ma non ha voluto farne altro, mentre <lb/>
+non ha cognitione di questo cavalliere che per sole <lb/>
+lettere del Bovincauser consigliero del signor duca di <lb/>
+Wirtimbergh; et essendomi venuto a ritrovar questa <lb/>
+mattina con detto capitan Mario disse doppo qualche
+<pb n="148v" facs="04_148v" rend="0"/>
+ragionamento che sapend’egli il contenuto dell’obligo di <lb/>
+vostra Serenità nelle capitulationi contrattate con il detto signor Conte <lb/>
+di dar a me una pieggiaria di mia sodisfattione <lb/>
+et che la metà del denaro, che deve havere in virtù dell[a]<ptr target="#tn1" n="1"/> <lb/>
+detta capitulatione non ha da esser esborsato che con <lb/>
+questa conditione, et all’imbarco delle genti; né <lb/>
+havend’io la detta sicurtà né essendo le genti ancor <lb/>
+levate, o ridotte al luoco dell’imbarco, ch’è quello <lb/>
+che importa il tutto, non vedeva ch’io potessi assicu-<lb/>
+rar lui come haverebbe voluto, et che anch’egli <lb/>
+era stato ambasciator in Francia, et sapeva, come dovevano <lb/>
+fermarsi li ministri nell’essecutione de’ publici com-<lb/>
+mandamenti. Io gli dissi, che lo potevo assicurare <lb/>
+che ’l denaro sarebbe stato pronto all’arrivo delle <lb/>
+genti, et l’esborso imbarcate che fossero; ma egli mi <lb/>
+replicò che questo non gli bastava, et che vedeva <lb/>
+molto bene, che non potevo far più, che però se ’l signor <lb/>
+Conte li havesse fatto scriver dal signor duca di Wirtimbergh <lb/>
+una meza parola, egli haverebbe fatto quanto <lb/>
+il Conte havesse desiderato, et sarebbe tuttavia pronto <lb/>
+al farlo. Io ripigliai, che ’l tempo sarebbe stato troppo <lb/>
+lungo et era necessaria la prontezza. Egli si strinse
+<pb n="149r" facs="04_149r" rend="0"/>
+nelle spalle, et partì colla prima risolutione, et di scriver <lb/>
+al signor Conte quanto poteva fare. Doppo rivenne a me <lb/>
+il detto capitan Mario, et disse che sarebbe tornato immediate <lb/>
+in Amsterdam, come ha fatto già un’hora, per esservi <lb/>
+questa notte al serrar delle porte a riferir al signor Conte <lb/>
+il seguito; et uscì a dire, che credeva, ch’egli havesse <lb/>
+tanto in mano, che haverebbe senz’altra sicurezza <lb/>
+potuto operare. Et la Serenità vostra<ptr target="#tn2" n="2"/> intenderà, che non <lb/>
+mi dimanda espressamente questo nelle lettere sue, se ben <lb/>
+può interpretarsi con quella parola di assister; onde <lb/>
+non veggo, ch’io potessi far più, poiché le lettere della <lb/>
+Serenità vostra ricevute<ptr target="#tn3" n="3"/> la passata settimana de’ 21 del passato <lb/>
+mi portano le commissioni chiare, et espresse, come <lb/>
+mi devo governar in questo particolare; et mi soviene <lb/>
+anco, che le Signorie vostre eccellentissime approbando in lettere sue <lb/>
+de’ 4 novembre passato quanto havevo operato <lb/>
+nel fatto del Wassonhoven, mi commandorono, ch’io <lb/>
+dovessi astenermi dall’acconsentir anco nell’avvenire <lb/>
+all’instanza delle sicurtà richieste, onde crederò <lb/>
+di haver incontrato nella sua volontà coll’essequir <lb/>
+li publici commenti massime non essendomi offerta <lb/>
+alcuna cautione, né vedendo le genti levate. </p>
+<pb n="149v" facs="04_149v" rend="0"/>
+<p>Penso che ’l signor Conte, essendosi avanzato tanto nell’affare, et <lb/>
+trattato anco di armar di qua le genti, come ho cavato <lb/>
+dal detto Capitano sia per haver modo di perfettionar la <lb/>
+sua obligatione, il che spero, et starò aspettando <lb/>
+quello farà, et del seguito ne darò particolar riverente <lb/>
+conto alle Signorie vostre eccellentissime. </p>
+<p>Arrivorono a Brusseles sono passati otto giorni doi commissarii <lb/>
+ispediti dal signor don Pietro di Toledo da Milano per far <lb/>
+provisione di cavalli per quello Stato, et di alcuni huomini <lb/>
+per guidar carriaggi, et credisi anco con qualche altro <lb/>
+ordine di procurar altre genti, mentre di quelle, che <lb/>
+sono partite ne sono fuggiti molti, come riverentemente <lb/>
+scrissi alla Serenità vostra. </p>
+<p>Mi replica il Pasini di quel greco dal Zanthe, che le scrissi <lb/>
+la passata settimana perché affermi a vostra Serenità ch’ella <lb/>
+ne può far capitale, et che prendi pur informatione <lb/>
+di lui<ptr target="#tn4" n="4"/> nel<ptr target="#tn5" n="5"/> campo oltre il signor Francesco Giustiniano tra <lb/>
+quei soldati, che hanno servito in questi paesi. <lb/>
+Et fra la soldatesca si chiamava il greghetto. </p>
+<p>Coll’occasione dell’esser state licentiate le truppe fatte <lb/>
+levare dal marascial d’Ancre col mezo del conte <lb/>
+Gio. Giacomo Belgioioso, alquanti capitani gli hanno
+<pb n="150r" facs="04_150r" rend="0"/>
+fatto parlare se potranno haver luoco in servitio di vostra Serenità <lb/>
+o con le loro compagnie, o con le loro persone; tanto <lb/>
+significò riverentemente alla Serenità vostra per saperne la sua <lb/>
+intentione, se ben scriverò al Pasini ch’è necessario <lb/>
+ch’io habbi quello, che pretendono, et come volessero far <lb/>
+passar le genti. </p>
+<p>Mi scrive di più, che del Cayro, et del Cesati aspettava <lb/>
+certa risposta: ma, per quanto haveva potuto pene-<lb/>
+trare temeva, che non pensassero ad altro servitio <lb/>
+che a quelli dei serenissimi arciduchi. </p>
+<p>In oltre mi aggiunge, che il conte Gio. Giacomo Belgioioso <lb/>
+tiene volontà di servir la Serenità vostra, et havendola <lb/>
+sottrata si valeva del conte galeotto suo fratello <lb/>
+per mezano, et dice, che fra pochi giorni aspettava <lb/>
+le sue pretensioni. Et io dirò riverentemente alla <lb/>
+Serenità vostra, che poiché ella ha havuto già quanto <lb/>
+altre volte pretendeva se si compiacesse vederlo <lb/>
+et darmi qualche ordine anticipato servirebbe <lb/>
+per risponder, et acelerar tanto più presto la <lb/>
+condotta: tuttavia, mi rimetto alla sua somma prudenza. </p>
+<p>Il cavalier Studller<ptr target="#tn6" n="6"/> ha tornato di nuovo a far instanza <lb/>
+al Pasini di haver doicento ducati per far il viaggio
+<pb n="150v" facs="04_150v" rend="0"/>
+offerendosi scontarli nelle sue prime paghe; et mi aggiunge <lb/>
+che haveva inteso, che ’l duca di Parma gli<ptr target="#tn7" n="7"/> faceva far <lb/>
+buoni partiti; ma che gli ha replicato quello che <lb/>
+più volte gl’ha detto: onde resta tuttavia esso Studler <lb/>
+col mostrar il solo desiderio di poter effettuar la <lb/>
+sua offerta, et l’effetto della sua condotta, et senza <lb/>
+l’aiuto di denari non veggo che lo possi fare. </p>
+<p>Communicai a sua Eccellenza, come ho riverentemente scritto l’avvisi <lb/>
+della partenza de’ vasselli de Napoli da Sabioncello <lb/>
+et così essendo ricercato ne diedi parte anco ad altri <lb/>
+li quali sono entrati in gran curiosità di saper quello <lb/>
+che sarà successo, et stupisce ognuno, che non habbin[o]<ptr target="#tn8" n="8"/> <lb/>
+attaccata alcuna delle navi di questi paesi. Il signor <lb/>
+conte di Egmont, che per termine di complimento <lb/>
+vidi uno di questi giorni passati, venendo seco a <lb/>
+proposito di detti galeoni disse, che haveva inteso <lb/>
+da Brusseles, che ’l vostro re di Napoli sì come è stato <lb/>
+sempre huomo di sua testa, et che ne ha dati <lb/>
+molti chiari segni in diverse cariche, che ha havute <lb/>
+così lo mostra anco al presente perché tutte le prepa-<lb/>
+rationi da mare, ch’egli va facendo tutte sono <lb/>
+di suo capriccio, et nel mandar li galeoni in colf[…]
+<pb n="153r" facs="04_153r" rend="0"/>
+di vostra Serenità non vi sia stato alcun assenso del Re catholico. <lb/>
+N[on]<ptr target="#tn9" n="9"/> so quello mi possi persuader a creder che possi esser <lb/>
+[…]<ptr target="#tn10" n="10"/> vero o verosimile, o del tutto falso; considerati <lb/>
+gl’artificii accostumati da’ Spagnuoli, che non<ptr target="#tn11" n="11"/> li <lb/>
+succedendo alcuna cosa bene, imputano al <lb/>
+Ministro il mal effetto, et che non habbi havuta <lb/>
+commissione. Gratie etc. </p>
+<p>Dall’Haya a’ 16 maggio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="153v" facs="04_153v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="048">
+<!--
+<p n="153vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 maggio 1617 ricevute a’ 31 detto </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>Interessi del conte di Levenstein </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="049" corresp="048" source="151r-152v" >
+<div type="main" facs="main text of attachment I" n="049" corresp="048" >
+<!--<p>Allegato I al n. 48 (cc. 151r-152v)</p>-->
+<pb n="151r" facs="04_151r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Traduttione della lettera del signor conte di Levenstein </p>
+<p>Signore la presente è<ptr target="#tn12" n="12"/> per escusarmi dell’haver tanto intardato a darvi avviso <lb/>
+come passava l’affare che io ho nelle mani; sono stato sforzato lasciar di scriver <lb/>
+per mancamento di materia, più tosto che per buona volontà, perché ho <lb/>
+trovato qui tante difficultà con questi marinari, sì per il nolo de’ vasselli come <lb/>
+anco per le spese de bocca per li soldati, ch’ancorché non habbi lasciato <lb/>
+di far ogni possibile, non ho sin a quest’hora potuto concluder alcuna cosa con <lb/>
+essi. Alciono<ptr target="#tn13" n="13"/> in maniera il mercato che non vogliono prender per testa <lb/>
+per la vetuta meno di vinti cinque fiorini et per le spese di boccha piacchi <lb/>
+otto et mezo per giorno, ch’è poco meno del doppio di quello che ha dato <lb/>
+il conte Gio. Ernesto di Nassau. Mi anoia di spender qui con inutilmente <lb/>
+il tempo, et sarò sforzato affine di tener la promessa d’accordar fi-<lb/>
+nalmente con loro al meglio che io potrò, ancorché sarà molto facile <lb/>
+cognoscer la grandissima summa che potrà venire et l’interesse che io sarò <lb/>
+per partirne, se si sa la picciola summa che io ho in tutto; niente di meno la <lb/>
+pietra è giettata non ci è altro rimedio. Nel resto havendo d’assicurar li mari-<lb/>
+nari avanti che di accordare del pagamento tanto di quello che riceveranno qua, <lb/>
+che d’altra summa a Venetia;<ptr target="#tn14" n="14"/> ho trovato il mezo del signor Gaspar Quingetti ch’<lb/>
+egli intraprenderà di assicurarli più che egli habbia una picciola assicuranza <lb/>
+dal signor Arssen, il che sarà facile secondo che vostra Serenità intenderà di bocca dall’apartatore <lb/>
+dalla presente; il capitano Mario al quale vi prego prestar fede alla relatione ch’egli farà <lb/>
+perché ha commissione di avvertirvi di tutte queste difficultà; e più ampiamente <lb/>
+mi pregò di assisterli che possi haver questa lettera dal signor Arssen per Quingetti <lb/>
+a fin ch’egli sia appresso dimani qui di ritorno, sopra che io starò attendendo, <lb/>
+raccommandomi. Gratie etc. </p>
+<p>Amsterdam 13 maggio 1617 </p>
+<pb n="151v" facs="04_151v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="152r" facs="04_152r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="152v" facs="04_152v" rend="270"/>
+<p>Lettera del conte di Levenstein </p>
+<p>nelle 2<hi rend="superscript">de</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "dal" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "poi" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "non" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

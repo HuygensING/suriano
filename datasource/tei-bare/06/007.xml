@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.007 date 1618-03-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 49r-52v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">49r-52v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the price of biscotti and letter by calandrini on the matter. From Pasini he receives news that an eminent subject wants to serve the Venetian Republic by raising 6000 walloon troops, Suriano has requested more information. Recommends the services of Amstenraedt. Maurice will travel to Gelre, causes rumours. Spanish keep spreading the news that a peace has been reached in Italy. The Duke of Neuburg is still in Brussels. Maurice is unhappy with how the inheritance of his brother is proceeding. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-18">18 marzo 1618</date>
+            <num>016</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="016">
+<div type="main" facs="main text of letter" n="016">
+<!--<p>18 marzo 1618, L’Aia (cc. 49r-52v)</p>-->
+<pb n="049r" facs="06_049r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 17<ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>oltre quanto avvisai<ptr target="#tn2" n="2"/> riverentemente alla Serenità vostra coll’ultime <lb/>
+lettere mie intorno ai biscotti haverà inteso<ptr target="#tn3" n="3"/> nelle <lb/>
+medesime lettere del Calandrini l’informatione, che <lb/>
+egli me ne ha data, che mi pare ecceder la prima <lb/>
+che hebbi qui: ho però commesso di nuovo a quello <lb/>
+che ho mandato in Amsterdam, che s’informi parti-<lb/>
+colarmente et essatamente per risolver quello, che stimerò <lb/>
+di suo vantaggio, et servitio. Quello, che mi dispiace <lb/>
+è l’aggiunta, che esso Calandrini mi fa nelle stesse <lb/>
+lettere sue, ch’è in conformità del dubio, che mi posi <lb/>
+come haverà veduto nell’ultime mie rispetto<ptr target="#tn4" n="4"/> che<ptr target="#tn5" n="5"/> li<ptr target="#tn6" n="6"/> <lb/>
+viveri di 13 mesi, et l’alloggio delle genti have-<lb/>
+rebbono preso una gran parte delle navi, <lb/>
+essendo necessario lasciar luoco aperto, et spatioso <lb/>
+per il combatter, et del pigliar per questo un’<lb/>
+altra nave a nolo non devo risolvermene così <lb/>
+facilmente se ’l vantaggio del prezzo del biscotto <lb/>
+non mi compensasse la perdita, che in tal caso <lb/>
+mi risolverei al farlo; starò attendendo altro <lb/>
+avviso, et mi regolerò secondo quello. </p>
+<p>Il Pasini mi scrive esservi un cavalliere soggetto eminente
+<pb n="049v" facs="06_049v" rend="0"/>
+che volontieri<ptr target="#tn7" n="7"/> in servitio della Serenità vostra intraprenderebbe di levar <lb/>
+sei milla Valoni, buoni soldati, et condurli cinquanta <lb/>
+leghe lontano di Lieges; non mi aggiunge di lui né <lb/>
+conditioni, né altra cosa solo, che darebbe sicurt[à]<ptr target="#tn8" n="8"/> <lb/>
+del denaro, che se gli esborsasse, et ogn’altra […] <lb/>
+che si potesse pretender. Io gli rescrivo appunto con <lb/>
+quest’ordinario, che prendi più chiara informatione <lb/>
+perché possi significarla a vostra Serenità. </p>
+<p>Mi raccorda anco esservi doi capitani che verrebbono al servitio <lb/>
+della Serenità vostra uno per infanteria, et l’altro per cavallaria <lb/>
+che uno pretendi 80 ducati per mese, et l’altro <lb/>
+quaranta così mi pare, come in guerra, et che vi <lb/>
+siano anco altri simil soggetti, che pigliarebbono servir <lb/>
+appresso vostra Serenità della medesima maniera. Queste <lb/>
+sono le pretensioni, che hanno gl’huomini perché se si <lb/>
+levano da un servitio, et trattenimento fermo, et <lb/>
+con abandonar qualche crediti, che hanno col Re <lb/>
+catholico vogliono esser assicurati di un sicuro et <lb/>
+perpetuo servitio. Gli scriverò che procuri di ridur <lb/>
+quelli, che si offeriscono ad accordarsi per un tempo <lb/>
+di certo, et qualche altro di rispetto con aggiunger ad
+<pb n="050r" facs="06_050r" rend="0"/>
+essi quelle considerationi del buon trattamento della serenissima Republica <lb/>
+che li potesse ridurre a contentarsi. </p>
+<p>Non con tanta facilità si può trovar di qua soggetti, che <lb/>
+siano buoni per farle servitio, come si farà dalla parte <lb/>
+delli arciduchi: perché questi si contentano di viver <lb/>
+con un’honesta sicura commodità, et gl’altri malamente <lb/>
+si accommodano al vedersi ogni giorno accrescer il credito <lb/>
+col Re con poca speranza di haver a ricever sodisfatione. </p>
+<p>Il signor colonello Anstenraedt, che condurrà li mille fanti <lb/>
+se vostra Serenità vorrà lo potrà haver in servitio. È bravo, <lb/>
+et corraggioso soldato di buonissima condotta, et mi <lb/>
+ha dichiarito, che ’l suo desiderio sarebbe di servirla <lb/>
+per lungo tempo, et particolarmente nella cavallaria mi ha pregato di far apertura all’Eccellenze vostre di questo suo <lb/>
+desiderio, sperando con questa occasione, che viene <lb/>
+a servirla di darsele a conoscer così buon servitore, <lb/>
+che forse ella lo farà degno della gratia sua, et di <lb/>
+continuarlo per qualche tempo in suo servitio. </p>
+<p>Egli prese licenza hieri dalli signori Stati, et partirà dimani <lb/>
+verso Hardervich ove fa la massa della sua compagnia <lb/>
+et li signori Stati lo accompagnaranno con lettere d’ufficio, et
+<pb n="050v" facs="06_050v" rend="0"/>
+di raccommandatione a vostra Serenità. Ha preso anco licenza dall’<lb/>
+Eccellenza sua la quale lo ha incaricato di scrivergli spesso del successo <lb/>
+delle cose di là, et dettogli, che prima del mettersi in nave <lb/>
+ritorni a vederla; et hieri sua Eccellenza mi parlò di lui molto <lb/>
+honoratamente. </p>
+<p>Fui hieri al signor Principe per augurarle il buon viaggio, dove[…]<ptr target="#tn9" n="9"/> <lb/>
+partir dimani verso Gheldria la causa è per assister <lb/>
+alla riduttione dei stati di quella Provincia, ove disse <lb/>
+a me, che erano molti anni, che non era stato in simil <lb/>
+occasione. La risolutione di quest’andata porge <lb/>
+materia di discorso, et di gelosia al partito degl’<lb/>
+erminiani, che l’hanno intesa con qualche sentimento <lb/>
+non fidandosi, che nella detta riduttione di quella Provincia <lb/>
+la quale, come Ducato ha preminenza nell’assemblea <lb/>
+dei Stati Generali non si deliberi qualche cosa pregiu-<lb/>
+dicale al detto loro partito per quello si sostenta in <lb/>
+materia di religione. Seguitano li rancori, <lb/>
+et li intestini disgusti né ancor è possibile trovar un <lb/>
+ripiego, che basti ad unir gl’animi delle città di <lb/>
+questa provincia di Holanda: poiché quello, che uno <lb/>
+propone, l’altra tenta di stringerlo, et così passano
+<pb n="051r" facs="06_051r" rend="0"/>
+li congressi dall’uno all’altro senz’alcun buon effetto. Et il signor <lb/>
+ambasciator di Francia mercordì passato fece nuovo ufficio <lb/>
+a nome del suo Re, et molto efficace<ptr target="#tn10" n="10"/> nella Congregatione <lb/>
+di Holanda, essortando in generale a trovar ripiego alle <lb/>
+presenti dissensioni. Starà il signor principe Mauritio se<ptr target="#tn11" n="11"/> <lb/>
+partirà, che ancor non era assolutamente sicuro da dieci in <lb/>
+dodici giorni a ritornare. </p>
+<p>Non cessano Spagnoli di publicare, et far correr da per tutto <lb/>
+che la pace resterà stabilita in Italia, dicendosi, che <lb/>
+il signor duca di Savoia assolutamente disarmerà ad instanza <lb/>
+di sua Maestà christianissima; ma di questo la Serenità vostra ne <lb/>
+haverà più certi particolari non servono però le mie ad <lb/>
+altro, che perché ella intenda (essendo altrimenti) <lb/>
+come Spagnoli da questa parte diano ad intender le cose secondo che possono giovar alli loro artificii. </p>
+<p>Qui non cessa il suspetto, che nella prossima stagione le cose <lb/>
+non habbino ad haver alteratione. Continuava<ptr target="#tn12" n="12"/> il duca di <lb/>
+Naiburgh la sua dimora a Brusseles, et vi <lb/>
+era fino alli 12 di questo con 100 huomini, et <lb/>
+altrettanti cavalli a spese di sue Altezze; ma non pareva, <lb/>
+che nelle cose proposte da lui ricevesse quelle sodisfattioni,
+<pb n="051v" facs="06_051v" rend="0"/>
+che vorrebbe, et massime nel desiderar, che sia levato il <lb/>
+presidio spagnuolo, ch’è a Duceldorf, et in altre piazze <lb/>
+del ducato di Cleves, et Giuliers per metterne altro a suo <lb/>
+nome, et far anco maggior levata a questo effetto. </p>
+<p>Si duolse meco il signor principe Mauritio del<ptr target="#tn13" n="13"/> torto […]<ptr target="#tn14" n="14"/> <lb/>
+che gli veniva scritto da Brusseles dai suoi essergli fatto, <lb/>
+dicendo, che non trovava manco avocati, che volessero <lb/>
+intraprender di sostentar l’invalidità del codicillo del <lb/>
+fratello, et a me viene scritto, che si tiene, che haverà <lb/>
+effetto a favor della Principessa, allegandosi, che conti <lb/>
+chiaramente della mente del Principe morto, la quale basta <lb/>
+a supplire a qualche mancamento, che ’l detto codicillo <lb/>
+potesse havere. Ma sua Eccellenza non abandonerà certo l’impresa <lb/>
+et si crede che in fine converrà far qualche generosa risolutione. </p>
+<p>Era arrivato in Brusseles uno per parte del duca di Umena, <lb/>
+et un altro del conte di Suisson per compir con la principessa <lb/>
+d’Oranges per nome loro, et che esso di Umena la <lb/>
+ricercava in matrimonio. </p>
+<p>Le replicate delle sue lettere de’ 13 dello stante n° 14<ptr target="#tn15" n="15"/> <lb/>
+fin 15 saranno aggiunte a queste con le scritture chiamate <lb/>
+in esse. Gratie etc. </p>
+<p>Dall’Haya a’ 18 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="052r" facs="06_052r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="052v" facs="06_052v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 17<ptr target="#tn16" n="16"/> comincia 16<ptr target="#tn17" n="17"/> </p>
+<p>si aggiunge n° 17 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="016">
+<!--
+<p n="052vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 marzo 1618 ricevute 4 aprile </p>
+<p>Aia. 17 </p>
+<p>Oltre quanto ha scritto de’ biscotti, ha <lb/>
+dato ordine in Ansterdam per informatione. </p>
+<p>Dubio del Calandrini che li viveri <lb/>
+occuperanno i vasselli che vi bisogna <lb/>
+un’altra nave: se ’l vantaggio del <lb/>
+biscotto compensasse la spesa, lo farà; <lb/>
+starà aspettando risposta. </p>
+<p>Pasini propone soggetto per levar 6 mila Valoni <lb/>
+et condurli 50 leghe lontano da Liege <lb/>
+ha scritto per più chiara informatione. </p>
+<p>Propone anco due capitani; et che altri <lb/>
+soggetti vi sariano. </p>
+<p>Colonnello<ptr target="#tn18" n="18"/> Anstrazarde<ptr target="#tn19" n="19"/> che condurrà <lb/>
+mille fanti; se si vorrà: venirà<ptr target="#tn20" n="20"/> in servitio<ptr target="#tn21" n="21"/> lo loda. <lb/>
+È accompagnato con lettere d’ufficio de’ signori Stati. </p>
+<p>Ha complito col Principe che va in Gheldria <lb/>
+la qual andata dà gelosia alli erminiani. </p>
+<p>Dissensione tra le Provincie. </p>
+<p>Spagnoli publicano la pace in Italia <lb/>
+per loro fine et interesse. </p>
+<p>Sospetto che a nuova stagione, le cose <lb/>
+di là prendino alteratione. </p>
+<p>Il duca di Noilburgh<ptr target="#tn22" n="22"/> a Brusseles <lb/>
+continua gli uffici et per levar il presidio <lb/>
+spagnolo dà Duceldorf. Ma senza frutto. </p>
+<p>Duolsi il Principe delle trattationi a Brusseles <lb/>
+sopra il codicilo del fratello, et che converrà <lb/>
+far qualche generosa risolutione. </p>
+<p>Humena ricerca in matrimonio la principessa <lb/>
+di Oranges. </p>
+<p>Manda replicata. </p>
+<p>L. R. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-7" corrected above "-6."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> First "-v-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "haverà inteso" added above the deleted words.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o" corrected above "-e."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "l-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "s’impiegarebbe" crossed out, added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Damaged page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-nuav-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "fo" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Damaged page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "fin" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-7" corrected above "-6."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-6" corrected above "-5."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Precedes "Che dall" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "venirà in servitio" added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

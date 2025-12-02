@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.004 date 1620-03-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">004</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 15r-v, 18r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">15r-v, 18r-v, 16r-17v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that one of the returning ships has arrived in Enkhuizen, another in Rotterdam, the other ones are near Spain and 1 is in Marseille. He attaches a copy of a letter from the Admiralty of Rotterdam in which the sailor’s of the Three Kings request reimbursement for the burnt material on the ship. He has written a letter of exchange for Calandrini. Hamel has arrived in The Hague. One document attached: an Italian translation of the letter from the Admirality of Rotterdam to Suriano, including his response</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-17">17 marzo 1620</date>
+            <num>005, 006</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="005">
+<div type="main" facs="main text of letter" n="005">
+<!--<p>17 marzo 1620, L’Aia (cc. 15r-v, 18r-v)</p>-->
+<pb n="015r" facs="09_015r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 186 comincia <lb/>
+185 fin 187 </p>
+<p>Serenissimo Principe </p>
+<p>nelle lettere della Serenità vostra de’ 21 del passato comprendo la <lb/>
+displicenza di quell’eccellentissimo Senato per non intender da me <lb/>
+alcuna nuova dell’arrivo delle navi. Non posso con le <lb/>
+presenti dirle se non haver havuto avviso avanti hieri d’Am-<lb/>
+sterdam dal Calandrini, che n’era arrivata una d’Encusen <lb/>
+entrata colle navi di Cipro, et che li marinari di queste <lb/>
+riferivano di haverne lasciate cinque nel mar di Spagna, <lb/>
+che d’hora in hora potevano entrar anc’elle in questi <lb/>
+porti. Altro avviso<ptr target="#tn1" n="1"/> ricevei anco venerdì, che <lb/>
+la sesta agitata, et travagliata dalla tempesta haveva <lb/>
+convenuto tirarsi nel porto di Marseglia per accommodarsi <lb/>
+che altrimenti andava a rischio di abbissarsi, et il Capitano <lb/>
+per li bisogni haveva presi in quella città tremilla fiorini <lb/>
+in circa a cambio a fattane tratta alli signori dell’amiralità <lb/>
+d’Amsterdam. Io non ostante questi avvisi, et la <lb/>
+speranza in che sono che<ptr target="#tn2" n="2"/> non possino tardar ad <lb/>
+arrivar tutte, non<ptr target="#tn3" n="3"/> mancarò<ptr target="#tn4" n="4"/> di scriver il senso di <lb/>
+vostra Serenità alle Amiralità portando nelle lettere gl’istessi <lb/>
+concetti detatimi da lei. Anco il tutto ho fatto capitar <lb/>
+all’orrecchio delli signori Stati col mezo del Presidente <lb/>
+et il medesimo m’ha riferto essersi detto uniformemente, che <lb/>
+quando si potrà trovar, che per difetto o negligenza dei <lb/>
+capitani, o patroni dei vasselli sia seguito il ritardo <lb/>
+che sarà più che ragionevole, che vi si trovi qualche
+<pb n="015v" facs="09_015v" rend="0"/>
+compenso. Dubito, che lo stesso senso habbi ad esser in quelli <lb/>
+dell’Amiralità, et che malamente se ne possi cavar frutto per <lb/>
+l’interesse ch’è nel particolare quanto ai noleggi, et quanto <lb/>
+ai matelotti per li loro stipendii. Sono queste genti da <lb/>
+mare troppo terribili, et troppo affettionate al quattrino. <lb/>
+Io non mancarò di far tutto quel più, che mi sarà possibile <lb/>
+per avantaggiar il servitio di vostra Serenità, et se vedrò che <lb/>
+la mia presenza possi apportar bene al negotio mi <lb/>
+transferirò sopra i luochi delle residenze di dette Amiralità <lb/>
+intanto haveranno le lettere, et vedrò se mi daranno <lb/>
+risposta. In effetto il tempo è stato strano, et il vento <lb/>
+contrariissimo li giorni passati; come haverà inteso da <lb/>
+mie lettere precedenti. </p>
+<p>Mando qui aggiunta alla Serenità vostra la translatione di una lettera <lb/>
+delli signori dell’amiralità di Roterdam, et insieme copia della <lb/>
+risposta, che li ho fatta per trattener quei signori di non passar <lb/>
+avanti a far alcun esborso di denaro per gratuità alli<ptr target="#tn5" n="5"/> <lb/>
+marinari<ptr target="#tn6" n="6"/> per l’<ptr target="#tn7" n="7"/>abbruciamento<ptr target="#tn8" n="8"/> de lor vestiti et robbe<ptr target="#tn9" n="9"/> nel vassello <lb/>
+Li tre re; ma prima aspettar il senso, et assenso di <lb/>
+vostra Serenità. Ne parlai al signor principe Mauritio, perché glie <lb/>
+n’era stato scritto, et mi disse, che haveva rescritto<ptr target="#tn10" n="10"/>, <lb/>
+et stimava, che si potesse dar qualche cosa come per carità, <lb/>
+et a fine di render tanto più volonterosi altri a far <lb/>
+servitio (venendo più il caso) a vostra Serenità. Io dicendo
+<pb n="018r" facs="09_018r" rend="0"/>
+a sua Eccellenza che questo non mi pareva bene. Tanto per la consequenza <lb/>
+che perché non era conveniente che fosse da lei pagato il fallo <lb/>
+d’altri. Rispose havete ragione; ma non bate la cosa che per <lb/>
+pochi<ptr target="#tn11" n="11"/> matelotti et replicand’io dei medesimi concetti fu tronco <lb/>
+questo discorso. La supplico dirmi quello, che doverò<ptr target="#tn12" n="12"/> <lb/>
+risponder a detti signori, che alla mia risposta non hanno <lb/>
+replicato. </p>
+<p>Ho fatte lettere di cambio per 20 mila ducati al Calandrini, et compa-<lb/>
+gni sotto li 15 saranno a mezo uso, et pagabili in banco <lb/>
+al signor Melchior Noirott; et questi per andar provedendo al <lb/>
+bisogno, che haverò anco di maggior summa alla venuta <lb/>
+delle navi. </p>
+<p>L’Hamel agente del già amiraglio Kerchoven è arrivato. <lb/>
+Attenderà li vasselli per far il disconto per la vedova del <lb/>
+detto Kerchoven, che si trova poco contenta (come mi ha <lb/>
+fatto dire) di dover ricever così poco per stipendio del suo <lb/>
+marito. Gratie etc. </p>
+<p>Dall’Haya li 17<ptr target="#tn13" n="13"/> marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<p>Anco ’l vassello Emaus è arrivato <lb/>
+a Roterdam così sono avvisato in <lb/>
+questo punto spero altrettanto <lb/>
+delli altri. </p>
+<pb n="018v" facs="09_018v" rend="270"/>
+<p>Al serenissimo principe di <lb/>
+Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 186 comincia <lb/>
+185<ptr target="#tn14" n="14"/> fin 187 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="005">
+<!--
+<p n="018vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 marzo 1620 ricevute primo aprile </p>
+<p>Haia. n° 186 </p>
+<p>Arivo di una delle 7 navi ad <lb/>
+Encusen. Un’altra a Marsilia. </p>
+<p>Ufficio fatto co’ i Stati per la tardanza <lb/>
+del ritorno di esse navi. </p>
+<p>Instanza di rifacimento a marinari <lb/>
+per le robbe abbruciate nel vassello 3 re. </p>
+<p>Risposta fatta dal secretario. </p>
+<p>Dimanda risolutione. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="006" corresp="005" source="16r-17v" >
+<div type="main" facs="main text of attachment I" n="006" corresp="005" >
+<!--<p>Allegato I al n. 5 (cc. 16r-17v)</p>-->
+<pb n="016r" facs="09_016r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Translatione<ptr target="#tn15" n="15"/> di lettera delli signori dell’amiralità <lb/>
+di Roterdam al Suriano </p>
+<p>Sopra le grandi instanze, et continui compianti di molti <lb/>
+matelotti<ptr target="#tn16" n="16"/> tornati ultimamente sopra il vassello del <lb/>
+capitan Ian Ianson Van Linden che non lasciano parimente <lb/>
+d’inquietar l’orrecchie del signor principe d’Oranges, et delli <lb/>
+signori Stati Generali, non potiamo più longamente iscusar <lb/>
+di darli qualche ricompensa estraordinaria d’uno, o doi <lb/>
+mesi di paga per il danno ricevuto nei loro vestiti, et robbe <lb/>
+per l’infortunato abbrucciamento del vassello Li tre re: et tuttavia <lb/>
+per far apparere, che noi non vi condescendemo leggiermente <lb/>
+et senza previo vostro avviso habbiamo stimato bene scriver-<lb/>
+vene questo tanto. Et assicurarvi, che in ciò procederemo <lb/>
+con sì grande circonspettione, et risparmio per la serenissima <lb/>
+Republica come altrimenti faressimo in affare di tal natura <lb/>
+per il nostro medesimo Paese. </p>
+<p>Copia di risposta alla detta lettera </p>
+<p>Vengo colle presenti a ringratiar vostre Signorie dell’avvertimento <lb/>
+che mi hanno dato colle loro lettere dei x del presente <lb/>
+toccante l’instanza di quelli che pretendono qualche <lb/>
+ricompensa per il danno ricevuto nei loro vestiti, et <lb/>
+robbe per<ptr target="#tn17" n="17"/> l’abbrucciamento del vassello Li tre re. </p>
+<pb n="016v" facs="09_016v" rend="0"/>
+<p>Se quest’infortunio fosse in qualche maniera accaduto <lb/>
+per servitio della serenissima Republica come cosa estraordinaria noi <lb/>
+ne deveressimo attender l’avviso, et l’assenso di lei <lb/>
+hora tanto maggiormente dovemo aspettarlo poiché <lb/>
+il tutto è successo per negligenza del marinaro, et dei me-<lb/>
+desimi matelotti, li quali facendo fuori di proposito alle-<lb/>
+grezze per la loro licenza sono caduti nella miseria, et <lb/>
+nella perdita che habbiamo inteso. Sendo dunque questo <lb/>
+un fatto straordinario come vostre Signorie medesime lo conoscono <lb/>
+le prego signori ch’io possi darne parte alla serenissima Republica <lb/>
+dalla quale dovendo pervenire tal gratuità alle povere <lb/>
+genti io parimenti possi haver l’assenso di lei. Io scriverò <lb/>
+di ciò martedì prossimo in quattro o cinque settimane <lb/>
+doppo havrò la risposta, et così elle mostreranno <lb/>
+la loro continuata affettione verso di lei, il che sarà <lb/>
+attendendo questo poco di tempo et per fine etc. </p>
+<pb n="017r" facs="09_017r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="017v" facs="09_017v" rend="270"/>
+<p>Lettera dei signori dell’Amiralità <lb/>
+di Roterdam, et risposta ad <lb/>
+essa </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 186 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "avviso" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "siano" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "gl’ò" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-rò" corrected above "-to."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes the struck-through words.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "per l’" added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-to" corrected above "-ti."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "de’ … robbe" added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "r-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "risp" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-5" corrected above "-3."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "delli" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "il" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

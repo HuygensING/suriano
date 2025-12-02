@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.005 date 1618-03-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 22r-28v, 41</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">22r-28v, 41r-v, 29r-v, 40r-v, 30r-v, 39r-v, 32r-v, 37r-v, 31r-v, 33r-34v, 38r-v, 35r-36v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>This is an extensive letter. He sends the taxation for 5 ships from Amsterdam and other particulars attached to the proposal. The contract for renting ships is ready, the one from Rotterdam is not yet attached as it has not been translated into French. Van Kerkhoven will be the captain of this fleet. Troops are being raised in Brussels for Naples, Studer should be leaving now as he has been reassured by Pasini he will continue to be paid even in time of peace, he is waiting for a response from Anhalt. Marseillac arrived in to discuss the inheritance of principality of Oranges. Five documents attached: Letter by States General to the admiralties dated 20 February 1618; extract from a letter by Calandrini dated 9 March; document from Pasini to Studer; document about the rental of ships; another document "Tassatione delle navi". </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-13">13 marzo 1618</date>
+            <num>008, 009, 010, 011, 012, 013</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="008">
+<div type="main" facs="main text of letter" n="008">
+<!--<p>13 marzo 1618, L’Aia (cc. 22r-28v, 41r-v)</p>-->
+<pb n="022r" facs="06_022r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 15 </p>
+<p>Serenissimo Principe </p>
+<p>già sarà pervenuta alla Serenità vostra la summa dei noleggi <lb/>
+fatti dei vasselli. Hora le mando la tassatione <lb/>
+delli cinque, che sono in Amsterdam a carica di <lb/>
+quell’Amiralità fatta fare dal medesimo Magistrato <lb/>
+et delli tre di Roterdam. Per li quattro di Nort-<lb/>
+landia ancor non l’ho potuta havere, et la causa <lb/>
+l’intenderà dall’aggiunto translato delle lettere <lb/>
+del Calandrini. Intenderà anco quanto di van-<lb/>
+taggio si dimanda per mese per li otto sudetti <lb/>
+oltre il noleggio per lasciarli a rischio dei mer-<lb/>
+canti, ch’è intorno uno et mezo per cento al mese <lb/>
+et fra tutti dodici computandosi gl’uni con gl’altri <lb/>
+si haverebbe a pagar da otto<ptr target="#tn1" n="1"/> milla fiorini in circa <lb/>
+il mese di più del noleggio; di maniera che <lb/>
+importando la summa di esso noleggio da <lb/>
+vintisei milla trecento cinquanta fiorini l’aggiunta <lb/>
+sarebbe<ptr target="#tn2" n="2"/> sino alli 34 mila et più, che fano <lb/>
+14 mila ducati poco più, o meno. Vi saranno appresso <lb/>
+le artiglierie, che daranno li signori Stati ad impresti-<lb/>
+do, che saranno in buona quantità per le quali <lb/>
+vostra Serenità non sarà obligata ad altro, che a<ptr target="#tn3" n="3"/> rifar <lb/>
+il frusto, o consumo, havendo ordine quelli <lb/>
+delle Amiralità di farne il pezo, et il prezzo <lb/>
+per lasciar a optione della Serenità vostra il pagarle se vorrà
+<pb n="022v" facs="06_022v" rend="0"/>
+come se ne sarà servita. </p>
+<p>Et la quantità, che metteranno detti signori dell’Amiralità [di]<ptr target="#tn4" n="4"/> ess[…] <lb/>
+artiglierie è perché fanno levar a’ mercanti dalle navi <lb/>
+quelle che non sono proprie, et aggiungeranno sino alla <lb/>
+summa necessaria. Affineché le navi siano come si <lb/>
+conviene ben proviste. </p>
+<p>Già li contratti di noleggio dei vasselli si sono fatti, e[t] <lb/>
+vostra Serenità mi creda, che ho fatto tutto quel più, che huma-<lb/>
+namente mi è stato possibile perché non cominciasse il <lb/>
+tempo delle mesate, che dal partir dei vasselli fuori <lb/>
+dai porti, ma è stato impossibile lo spuntare, <lb/>
+essendomi asseverantemente affermato esser così solito <lb/>
+in simili occasioni di armare, che subito data <lb/>
+la mostra habbi principio il mese tanto per li marinari <lb/>
+che per le navi; ma vedrò bene se sarà possibile <lb/>
+arrivar al segno, ch’ella desidera col prometter <lb/>
+il donativo. Questo quando mi andasse fatto <lb/>
+potrebbe farsi colli portionevoli dei vasselli; ma <lb/>
+non con li marinari: perché a questi entra il mese <lb/>
+allhora, che hanno havuta mostra, et bisogna <lb/>
+pregar Dio, che ’l tempo servi all’uscir in mare <lb/>
+come non dubito, essendo questa la più buona, et <lb/>
+bella stagione, et quanto più andamo innanti tanto <lb/>
+è migliore. </p>
+<pb n="023r" facs="06_023r" rend="0"/>
+<p>Al particolar della libertà alla Serenità vostra di prorogar il tempo <lb/>
+questa resta espressa nel primo capo d’una forma <lb/>
+di noleggio, che vedrà qui aggiunta fatta dai signori di <lb/>
+Roterdam, che prima non ho potuta mandare, haven-<lb/>
+do convenuto dal fiamingo farne fare la traduttione <lb/>
+in francese, che ho poi ridotta nel nostro idioma, <lb/>
+et tutti gli altri noleggi mutatis mutandis saranno <lb/>
+della medesima qualità; et per quanto ho instato, ricu-<lb/>
+sato, et detto non ho mai potuto né hanno potuto <lb/>
+li signori dell’Amiralità riuscire a farli con più vantaggio <lb/>
+della Serenità vostra per li rispetti addotti da’ mercanti, <lb/>
+come riventemente avvisai in altre lettere mie. </p>
+<p>L’haversi fatto differente il noleggio de’ vasselli da quello <lb/>
+de’ marinari è stato secondo l’ordine, che sono accostu-<lb/>
+mati li signori Stati in occasione d’armar vasselli <lb/>
+de’ mercanti; et in ciò non vegga, che la Serenità vostra <lb/>
+habbi ad haver alcun disturbo, o pregiudicio perché <lb/>
+ella già saprà quello che doverà pagar ai mercanti <lb/>
+in ragione di cinquanta piacchi per ducato, onde <lb/>
+fatta ogni mese la provisione di tanti ducati per <lb/>
+ogni vassello a portione del nolo stabilito, non <lb/>
+haverà che far contar di là in banco tutto in <lb/>
+summa, overo rimetterla a me in lettere di <lb/>
+cambio perché la paghi di qua, che sarà il suo
+<pb n="023v" facs="06_023v" rend="0"/>
+maggior vantaggio, come parmi haver chiaramente scritto <lb/>
+a vostra Serenità colle mie de’ 27 febraro perché il beneficio, che essi <lb/>
+mercanti cavarebbono colla rimessa del denaro a più di <lb/>
+cinquanta piacchi per ducato ridonderà tutto a servitio di <lb/>
+vostra Serenità, et replico con la mia solita riverenza, et zelo <lb/>
+verso il publico, ch’ella si compiaccia non mi comme[…]<ptr target="#tn5" n="5"/> <lb/>
+che pigli di qua il denaro per il danno grandissimo ch[e] <lb/>
+ne venirebbe a ricever perché in dieci milla cinquec[ento] <lb/>
+quaranta ducati, che sarà la summa per il pagamento <lb/>
+del semplice noleggio, tolendo qui il denaro rivenirebbe <lb/>
+la perdita contandomisi quaranta otto piacchi per ducato <lb/>
+a circa<ptr target="#tn6" n="6"/> quattrocento venti un ducato <lb/>
+et trenta piacchi<ptr target="#tn7" n="7"/> per mese contando il ducato a soli <lb/>
+cinquanta piacchi, imaginisi ora vostra Serenità la perdita <lb/>
+che al presente fa<ptr target="#tn8" n="8"/> in tanta summa di denaro, che <lb/>
+bisogna esborsar di qua, che mi fa spavento. Et <lb/>
+tanto maggiore sarà la perdita se ella vorrà pagar il <lb/>
+rischio a’ mercanti per li vasselli a che non è in alcuna <lb/>
+maniera consigliata: perché non ritrarebbe da essi <lb/>
+il servitio conveniente, essendo che li patroni si <lb/>
+retirarebbono assai facilmente dalle fattioni quando <lb/>
+vedessero il pericolo pigliando varii pretesti. <lb/>
+Onde con la dichiaratione della tassa, che le mando <lb/>
+et qualche maggior summa rispetto alle artiglierie
+<pb n="024r" facs="06_024r" rend="0"/>
+et per le<ptr target="#tn9" n="9"/> provisioni<ptr target="#tn10" n="10"/> da guerra, che si metteranno a conto <lb/>
+di vostra Serenità ella<ptr target="#tn11" n="11"/> farà vedere se di là con suo maggior <lb/>
+vantaggio, e sicurezza potrà far far la sicurtà del <lb/>
+tutto non mi promettendo poterla io far qui ad uno<ptr target="#tn12" n="12"/>, et <lb/>
+mezo per cento tant’è l’avidità degl’huomini. </p>
+<p>Ella ha molto ben ragione di dubitar del capitale in materia <lb/>
+di alcuna rimessa per gl’accidenti, che succedono ben <lb/>
+spesso nelle piazze; ond’io havendo li giorni a dietro <lb/>
+passato qualche discorso con alcuni in questo particolare <lb/>
+di assicurar il denaro della Serenità vostra promuoverò di <lb/>
+nuovo il concetto, et vedrò se sarà possibile cavarne <lb/>
+il frutto, che si desidera; et già ho<ptr target="#tn13" n="13"/> cominciato a <lb/>
+farne moto ai signori Stati; ma essendo materia, che ha bisogno <lb/>
+d’intelligenza vi vuole tempo; et il mio senso sarebbe, <lb/>
+che ’l denaro, che vostra Serenità contasse di là al prezzo della <lb/>
+piazza capitasse nel banco di Amsterdam. Tutto sta nel <lb/>
+trovar il mezo, et la stradda. Io per hora non saprei <lb/>
+dir alla Serenità vostra conoscer in Amsterdam la più buona <lb/>
+dita<ptr target="#tn14" n="14"/> per mercante ordinario di borsa, del Calandrini <lb/>
+che mi provede colli suoi compagni il denaro, et <lb/>
+sempre ha havuto col padre Gio. Andrea, che hora <lb/>
+si è ridotto ad habitar in Inghilterra buon nome nella <lb/>
+detta piazza di Amsterdam. </p>
+<p>Sarà necessario che la Serenità vostra non tardi doppo l’arrivo
+<pb n="024v" facs="06_024v" rend="0"/>
+delle presenti far far rimessa delli undicimilla o più <lb/>
+ducati in circa che importerà il semplice noleggio d[oi]<ptr target="#tn15" n="15"/> <lb/>
+vasselli perché vi vorrà tempo doi mesi al maturar delle <lb/>
+lettere, cominciando dalla data di esse, et questi <lb/>
+maturati saranno giusto a mio conto passati li doi mesi <lb/>
+che si haveranno pagati anticipati, in tanto si trov[erà] <lb/>
+ripiego per stabilir se sarà possibile quanto è dett[o] <lb/>
+di sopra. </p>
+<p>Ai marinari non si pagarà il denaro, che in moneta corrente <lb/>
+et ho stabilito con li signori delle Amiralità, che dichiariscano <lb/>
+che lo scudo sia contato in ragione di cinquanta piacchi <lb/>
+ch’è con vantaggio di vostra Serenità ridotto a moneta <lb/>
+corrente, et questo ho fatto per la commissione, che <lb/>
+li marinari potessero dare, che di qua fosse pagato<ptr target="#tn16" n="16"/> <lb/>
+qualche cosa alle loro famiglie; ma non penso, che <lb/>
+mi occorrerà far altro. Ho detto asseverantemente <lb/>
+non voler dar più, che doi paghe anticipate per li doi <lb/>
+primi mesi, con che li capitani eletti già tutti per li <lb/>
+vasselli haveranno a far le provisioni dei viveri <lb/>
+et dar li salarii di maniera che questo servirà per <lb/>
+le paghe anticipate, che pretendono, né haveranno <lb/>
+qui di più, et saranno obligati proveder di viveri <lb/>
+per dieci mesi per la marinarezza, et tre mesi per li <lb/>
+soldati. </p>
+<pb n="025r" facs="06_025r" rend="0"/>
+<p>Ho dato ordine, che sia sopra ogni vassello computato <lb/>
+l’un l’altro cento dieci col capitano, officiali, et marinari. <lb/>
+Di questi dieci ho ordinato, che tre siano bombardieri <lb/>
+et sette soldati marinari, di modo saranno 36 bombar-<lb/>
+dieri, et 84 marinari dei qual cento vinti huomini <lb/>
+vostra Serenità haverà la optione del levarli o tutti, o parte <lb/>
+o a parte a parte secondo che ’l suo servitio compor-<lb/>
+terà il valersene. Oltre il detto numero ne faccio <lb/>
+levar altri cento vinti, che assolutamente saranno per <lb/>
+vostra Serenità per metterli sopra altri vasselli. Che è per <lb/>
+essecutione di quanto mi commandò colle prime <lb/>
+commissioni in lettere<ptr target="#tn17" n="17"/> delli 14 decembre passato sopra che <lb/>
+non havendo io fatta risposta di quello operavo, et <lb/>
+meno intorno alla corda, la quale è già compra <lb/>
+in buona quantità la supplico iscusarmi perché <lb/>
+ho havuto più mira all’operare, che memoria del <lb/>
+dargliene conto. </p>
+<p>Sopra le navi saranno compartiti li soldati a proportione <lb/>
+della grandezza di esse, et se bene non si ha a metter <lb/>
+difficoltà alcuna che vostra Serenità non possi metter sopra le navi <lb/>
+soldati, et servirsene di esse a qual si sia altro <lb/>
+uso poiché ella sarà patrona del disponerne <lb/>
+a suo piacere, et massime essendo a suo rischio: in <lb/>
+ogni modo non lascierò di procurar che sia aggiunto
+<pb n="025v" facs="06_025v" rend="0"/>
+tutto ciò, ch’ella mi dice se sarà stimato necessario. </p>
+<p>Vostra Serenità haverà inteso dalle<ptr target="#tn18" n="18"/> precedenti lettere mie de’ 4 di […]<ptr target="#tn19" n="19"/> <lb/>
+stante n° 11 fin 13 delle quali con queste saranno le <lb/>
+replicate, che era stato nominato per amiraglio, o comman-<lb/>
+dator delli dodici vasselli il Chercoven. L’honore della <lb/>
+dichiaratione della persona l’ha havuto sua Eccellenza; ma in esse <lb/>
+la confermatione era in me; onde la patente, che […] <lb/>
+al detto Chercoven lo dichiara eletto da me amiraglio [d]ella <lb/>
+flotta, et capitano d’uno dei vasselli. Con esso Chercoven <lb/>
+ho agiustati tutti li capi della scrittura per appunto, et <lb/>
+colle stesse parole, et concetti espressimi da vostra Serenità nelle <lb/>
+sue de’ 23 in che non ho incontrata gran difficoltà <lb/>
+ma più tosto prontezza, et l’ha anco sottoscritta, <lb/>
+et confirmata di sua mano. Nelle particolari instruttioni <lb/>
+si aggiungerà quello di più, che si contiene nelle <lb/>
+sue antecedenti, et ultime commissioni per miglior <lb/>
+chiarezza del servitio, et obedienza, che deve <lb/>
+prestar egli, et gl’altri capitani, et spero che la Serenità vostra <lb/>
+da questo soggetto sarà molto ben servita per l’intelli-<lb/>
+genza, che ha delle cose da mare, et<ptr target="#tn20" n="20"/> del fatto della <lb/>
+guerra sopra esso<ptr target="#tn21" n="21"/> per esser di<ptr target="#tn22" n="22"/> discretto proceder <lb/>
+et parla<ptr target="#tn23" n="23"/> molto bene, et benissimo<ptr target="#tn24" n="24"/> intende la nostra <lb/>
+lingua italiana; ma gl’altri undici capitani non parlano <lb/>
+che la lingua naturale, et qualcheduno intende la
+<pb n="026r" facs="06_026r" rend="0"/>
+spagnola o francese. </p>
+<p>L’[Alag]ambe<ptr target="#tn25" n="25"/> è arrivato in Brusseles, et il Pasini con sue lettere dei <lb/>
+9 me lo avvisa, et che si parlava, che havesse a levar <lb/>
+doi milla Valoni, et condurli a Napoli per mare, dovendoli <lb/>
+imbarcar a Doncherchen, che questa però con voce di corte <lb/>
+né ci era cosa di sicuro, et facendosi, bisogna, che presto se <lb/>
+ne vedi qualche segno; onde mi promette, che sarebbe <lb/>
+stato attento ad ogni suo andamento per avvisarmelo in-<lb/>
+continente. Dell’arrivo di costui ho inteso haverne <lb/>
+avviso anco il signor Bernvel. Se va avanti questa provisione <lb/>
+potrebbe succeder, che li vasselli di vostra Serenità incontrassero con <lb/>
+quelli, et forse attaccarsi, come si discorre, che non sarebbe <lb/>
+riputatione, che questi capitani non li incontrassero; io però <lb/>
+gli darò l’ordine spetiale, che vostra Serenità mi commesse nelle <lb/>
+sue lettere de’ 6 genaro: tuttavia ad ogni buon fine <lb/>
+non ho voluto far di meno di non fargli capitar questo <lb/>
+avviso ordinando in Amsterdam al Calandrini, che di là <lb/>
+ispedisca il presente dispaccio con qualche diligenza a <lb/>
+Venetia. Ella l’haverà per mano del signor Melchior Noirot <lb/>
+et per la stessa stradda, et colla medesima maniera con <lb/>
+minor spesa publica potrà inviarmi la risposta, acciò <lb/>
+capitando in tempo mi possi meglio governare; et così <lb/>
+sarò anche avvisato quanto alla risolutione che farà per <lb/>
+il rischio dei vasselli. Si<ptr target="#tn26" n="26"/> attende con diligenza a solecitar
+<pb n="026v" facs="06_026v" rend="0"/>
+l’ispeditione d’essi, et hora che<ptr target="#tn27" n="27"/> l’Amiraglio, et tutti <lb/>
+li capitani sono eletti non si lascierà perder tempo: per [i]l<ptr target="#tn28" n="28"/> qual <lb/>
+effetto io non tralascierò studio né<ptr target="#tn29" n="29"/> diligenza imaginab[ile.] </p>
+<p>Io credo certo, che la settimana ventura sarò chiamato a dar <lb/>
+mostra alla soldatesca. Si è convenuto mutar doi gua[rni-]<lb/>
+gioni non havendo quelli di Horn voluto accettar [so]ldat[i] <lb/>
+essendo, (per quanto è stato publicato) entrati in sospetto [de’] <lb/>
+borghesi, che sua Eccellenza si servisse di questo pretesto<ptr target="#tn30" n="30"/> della Republica <lb/>
+per far il fatto suo<ptr target="#tn31" n="31"/> et contener in ufficio quella città in queste <lb/>
+dissensioni di religione, come quelli che sono del partito <lb/>
+erminiano. </p>
+<p>Il Pasini, et lo stesso cavalier Studer m’avvisa che deve partir <lb/>
+sabbato venturo per costì, et quelle parole che messi <lb/>
+nella patente di dover esser intartenuto in servitio quando <lb/>
+questo riuscirà grato a vostra Serenità li han dato<ptr target="#tn32" n="32"/> <lb/>
+fastidio, et non voleva farne altro dubitando che venissero <lb/>
+ad inferire che subito fatta la pace, (come anco egli me ne <lb/>
+scrive) havesse ad esser riformato: onde il Pasini ha <lb/>
+convenuto consolarlo, et essortarlo al partire con <lb/>
+dargli<ptr target="#tn33" n="33"/> l’aggiunta nota, che starà <lb/>
+poi a vostra Serenità il farla buona; et ciò ha fatto per non <lb/>
+perder il denaro, che già li haveva esborsato. </p>
+<p>Di altri capitani<ptr target="#tn34" n="34"/> o altri per servitio di vostra Serenità osserverò <lb/>
+l’ordine che coll’ultime lettere mi commette espresso
+<pb n="027r" facs="06_027r" rend="0"/>
+per accordar con essi per qualche anno di fermo, et altri di <lb/>
+rispetto, et per officiali per cavallaria se ne troverò farò quanto <lb/>
+ella mi commanda, et in ciò, come in tutte le altre cose di <lb/>
+suo servitio usarò<ptr target="#tn35" n="35"/> ogni studio, et ogni diligenza maggiore. <lb/>
+Chi scrisse al<ptr target="#tn36" n="36"/> signor principe di Analt sta ancora attendendo <lb/>
+la risposta,<ptr target="#tn37" n="37"/> come venga non tralascierò immediate <lb/>
+di significargliela; et qualcheduni di questi signori a chi è perve-<lb/>
+nuto questo avviso mi hanno fatto sotto mano capitar <lb/>
+all’orrecchio, che manco che ella può si impacci con <lb/>
+Tedeschi, perché sono pieni di pretensioni, et che di qua <lb/>
+haverà forte maggiore, et più buon rancontro. Et io ascolto <lb/>
+et parmi di comprender, che tutti corremo ad un segno, <lb/>
+massime quando si scorge il bisogno. Mi è stato accennato <lb/>
+della persona del conte Ernesto di Nassau zio carnale <lb/>
+del conte Gio. Ernesto, et dell’altro conte Gioanni. È huomo <lb/>
+certo, che ha nome singolare di diligente, et valoroso <lb/>
+soldato, ma è in servitio dei signori Stati, et la quarta <lb/>
+persona in carica in queste Provincie, né vorrebbe se non <lb/>
+un gran titolo, et con esso le consequenze. </p>
+<p>Il conte Gio. di Nassau<ptr target="#tn38" n="38"/> sudetto pochi giorni doppo, che <lb/>
+di lui scrissi alla Serenità vostra passò a Brusseles, et perché <lb/>
+sua Eccellenza mi parlò così affettuosamente (come allhora rappre-<lb/>
+sentai riverentemente) della persona di lui raccommandandomelo, <lb/>
+et commendandomelo<ptr target="#tn39" n="39"/>, stimai bene dar parte all’Eccellenza sua
+<pb n="027v" facs="06_027v" rend="0"/>
+di quanto ella mi commette di trattar con esso conte Gioanni, <lb/>
+la quale sentì gusto particolarissimo, et disse, che voleva ella <lb/>
+stessa scrivergli, et essortarlo ad accommodarsi. Ha scritte <lb/>
+le lettere, nelle quali li promesse tutto quel favore et <lb/>
+assistenza, che potrà; et quando le dissi se credev[a]<ptr target="#tn40" n="40"/> <lb/>
+che havesse potuto far doi milla in tre milla fanti […] <lb/>
+la Republica lo haverebbe voluto obligare per levarli qua[…] <lb/>
+havesse commandato, rispose che sì perché haverebbe potuto <lb/>
+farli in Alemagna, et particolarmente sopra il principato di <lb/>
+Oranges; et quanto all’ubidir a capo forestiere, che <lb/>
+commandasse l’armi della serenissima Republica et alli publici <lb/>
+rappresentanti, rispose, che questo era di dovere. <lb/>
+Et ben mi avidi, et m’è stato ancor riferto, che <lb/>
+sua Eccellenza ne ha havuto gusto. Il detto conte Gioanni è stato <lb/>
+luogotenente del conte di Holach<ptr target="#tn41" n="41"/> nipote<ptr target="#tn42" n="42"/> del principe <lb/>
+Mauritio, in Ongaria, et poi capo pur in Ongaria di <lb/>
+500 cavalli al servitio dell’Imperatore che li furono fatti dal <lb/>
+lantgravio di Hassia suo cognato; qui ha militato <lb/>
+col signor principe Henrico in diverse fattioni, et anco <lb/>
+sotto Giuliers colla sua compagnia di cavallaria; è <lb/>
+stato al servitio del duca di Savoia, dal quale hebbe poi ordine di<ptr target="#tn43" n="43"/> condur<ptr target="#tn44" n="44"/> <lb/>
+da questi paesi mille cinquecento cavalli, et doi milla <lb/>
+fanti, già posti insieme, et incaminati fino ai <lb/>
+confini de’ Svizzeri, che furono poi licentiati;
+<pb n="028r" facs="06_028r" rend="0"/>
+et quanto alla persona sua ha nome di bravo, et va-<lb/>
+loroso soldato, ch’è quanto per riverente essecutione <lb/>
+del suo commandamento li posso dire in questo particolare. </p>
+<p>Mi resta aggiunger alla Serenità vostra quanto alli biscotti, che <lb/>
+fatti di mezo formento, et meza segalla veniranno <lb/>
+a costar sette fiorini et mezo il cento, o sette fiorini <lb/>
+et cinque piacchi così lo comprano li capitani dei vasselli <lb/>
+et sono più di 28 ducati o la intorno al migliaro. <lb/>
+Dell’haverne sarebbe facile, ma siamo tanto alle <lb/>
+strette, et in congiontura tale, che difficilmente quando anco <lb/>
+fosse il prezzo eguale a quello delli 25 ducati, <lb/>
+che ella mi commette non potrei forse haverli in <lb/>
+tempo: ve ne sono di manco prezzo tutto di segala <lb/>
+a cinque fiorini et mezo in circa il cento<ptr target="#tn45" n="45"/> et qualche cosa meno<ptr target="#tn46" n="46"/>; ma <lb/>
+di questo non sarei consigliato a pigliarne essendo facile <lb/>
+a corromperli o far il verme, che lo fa poi divenir <lb/>
+frisoppo; né alcuna nave fa provisione di tal sorte <lb/>
+per la mala riuscita. Vedrò nondimeno della prima <lb/>
+sorte se potessi haver buono, et profitevol riscontro <lb/>
+et mi regolerò con esso per il<ptr target="#tn47" n="47"/> servitio di vostra Serenità. Li sette fiorini <lb/>
+et cinque soldi il cento si intende di<ptr target="#tn48" n="48"/> pagarlo così qua, vi <lb/>
+sarebbono poi le spese del nolo del transporto, che <lb/>
+al presente non si pagarebbe, essendo i corpi dei vasselli <lb/>
+tutti a sua dispositione, et nei quali<ptr target="#tn49" n="49"/> non lascierò
+<pb n="028v" facs="06_028v" rend="0"/>
+metter alcuna mercantia se non fosse per servitio della <lb/>
+serenissima Republica. Et credo bene che tredici mesi di viveri teni-<lb/>
+ranno, et occuperanno del luoco assai; oltre li alloggia-<lb/>
+menti de’ soldati, et marinari, che<ptr target="#tn50" n="50"/> imbarazzano <lb/>
+d’avantaggio<ptr target="#tn51" n="51"/>. </p>
+<p>Il Re christianissimo ha inviato qui monsignor di Marsigliach per <lb/>
+far ufficio di complimento col signor principe Mauritio <lb/>
+per la morte del fratello, et successione di lui al principe <lb/>
+di Oranges, portando lettere della Maestà sua <lb/>
+nelle quali (sono assicurato) che li dà<ptr target="#tn52" n="52"/> titolo <lb/>
+di principe di Oranges; et il medesimo cavalliere in passa[…] <lb/>
+per cavar l’intentione ha promosso<ptr target="#tn53" n="53"/> se sua Eccellenza volesse <lb/>
+vender il Principato sudetto; ma non ha travato<ptr target="#tn54" n="54"/> <lb/>
+rancontro, anzi che malamente è stato inteso anco <lb/>
+quello, che ha proferito; et qualcheduno degl’int[…]<ptr target="#tn55" n="55"/> <lb/>
+dell’Eccellenza sua ha detto, che se vi è qualcheduno che vogli <lb/>
+comprar le scarpe vecchie di lei elle sono a ve[…] <lb/>
+ma non il Principato. Et più si burla ognuno del <lb/>
+motivo fatto dal nontio Bentivoglio, che la Sede <lb/>
+apostolica pretendi sopra il detto Principato o in <lb/>
+parte o in tutto come annesso al contado di Avi-<lb/>
+gnone; di dove essendo nativo monsignor di Luines <lb/>
+favorito del Christianissimo si crede che li<ptr target="#tn56" n="56"/> motivi<ptr target="#tn57" n="57"/> della <lb/>
+compreda et del nontio<ptr target="#tn58" n="58"/> siano nati<ptr target="#tn59" n="59"/> di là. Hieri a sera capi[…]
+<pb n="041r" facs="06_041r" rend="0"/>
+huomo a posta da Oranges con avviso esser stata <lb/>
+giurata fedeltà con applauso universale da tutti quei <lb/>
+popoli alla persona del signor principe Mauritio. Al quale <lb/>
+(sia detto riverentemente) sarà<ptr target="#tn60" n="60"/> bene, che vostra Serenità scrivi <lb/>
+sue particolari di complimento; se ben presupongo, che <lb/>
+all’arrivo delle presenti saranno in camino. Gratie etc. </p>
+<p>Dall’Haya a’ 13 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="041v" facs="06_041v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 15 comincia 14 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="008">
+<!--
+<p n="041vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 marzo 1618. Ricevute a’ 28 </p>
+<p>Haya. n° 15 </p>
+<p>1. Manda tassation di 5 vasselli che <lb/>
+sono in Amsterdam; per li 4 di Nortlandia <lb/>
+non la ha potuta havere: </p>
+<p>per lasciarli a risico di mercanti dimandano <lb/>
+1 1/2 per cento al mese: importano 8 mila fiorini. </p>
+<p>Per l’artiglierie<ptr target="#tn61" n="61"/> non haveria altro obligo <lb/>
+che del frusto. </p>
+<p>Ha fatto li contratti di nolleggi de’ vasselli. </p>
+<p>Data la mostra haveria principio il <lb/>
+mese, non si può spontar altro. </p>
+<p>Procurerà con promessa del donativo <lb/>
+avantaggiarsi con li parcinevoli, <lb/>
+ma con i marinari non occorre pensar. </p>
+<p>2. La libertà di prorogar il tempo sarà <lb/>
+espressa, ne manda forma del nolleggio. </p>
+<p>Li nolleggi differenti da’ vasselli a’ marinari <lb/>
+è ordinario: non vi sarà disturbo alcuno <lb/>
+nei pagamenti: meglio sarà rimetter <lb/>
+i danari che pigliarli di là. </p>
+<p>Considera non esser bene pagar il <lb/>
+rischio a’ mercanti per li vasselli. </p>
+<p>Manda la causa per far le sicurtà. </p>
+<p>3. Promoverà negotio di assicurar il <lb/>
+danaro. </p>
+<p>Dimanda rimessa di 11 mila ducati. </p>
+<p>A’ marinari si pagherà a moneta corrente. </p>
+<p>Ha detto non voler dar paghe che per doi <lb/>
+mesi anticipati. </p>
+<p>Saranno sopra ogni vassello 110: capitano officiali <lb/>
+bombardieri etc. Si potranno levar tutti o parte: oltre il detto numero ne fa levar <lb/>
+altri 120: saranno però compartiti <lb/>
+a […]<ptr target="#tn62" n="62"/> portione della grandezza de’ vasselli. </p>
+<p>Farà aggionger che si possano metter <lb/>
+sopra le navi altri soldati. </p>
+<p>4. Chercoven nominato<ptr target="#tn63" n="63"/> amiraglio, li ha fatto <lb/>
+la patente. Ha agiustato seco scrittura <lb/>
+si aggiongerà a quello commanda sua Serenità. </p>
+<p>L. R.<ptr target="#tn64" n="64"/> </p>
+<p n="041vD">———</p>
+<p>Parla italiano ma non li altri capitani. </p>
+<p>5. L’Alagambe a Brusseles per levar <lb/>
+Valloni e Tedeschi per Napoli. </p>
+<p>Se andasse avanti la provisione potriano <lb/>
+incontrarsi con li vasselli. </p>
+<p>Espedisce per via di mercanti aspetta <lb/>
+per la medesima via la risposta. </p>
+<p>6. La settimana ventura sarà chiamato <lb/>
+a dar mostra a’ soldati: s’ha <lb/>
+mutato 2 governi per sospetti. </p>
+<p>Cavalier Studer deve partir per Venetia <lb/>
+restava in dubio per parole nella <lb/>
+patente: ma il Pasini l’ha consolato <lb/>
+oserverà l’ordine per altri capitani. </p>
+<p>Aspetta risposta dal principe d’Analt. </p>
+<p>Quei signori raccordano non si <lb/>
+impaciar con Tedeschi che pretendono assai. </p>
+<p>7. Raccorda il conte Ernesto di Nasau <lb/>
+pretenderebbe gran titolo. </p>
+<p>Sua Eccellenza li ha scritto che s’accom-<lb/>
+modi: discorse che potrebbe <lb/>
+far genti. Et<ptr target="#tn65" n="65"/> carichi ha havuto. </p>
+<p>8. Di biscotti. </p>
+<p>Monsignor di Marigliach per il Christiano <lb/>
+per officio di complimento per la <lb/>
+successione al principato d’Oranges<ptr target="#tn66" n="66"/>. <lb/>
+Ha mosso negotio di comprar il <lb/>
+detto Principato: non è stato <lb/>
+ben inteso. </p>
+<p>La messa del nontio di Pontefice<ptr target="#tn67" n="67"/> <lb/>
+sopra il detto Principato come <lb/>
+annesso ad Avignone. </p>
+<p>Sarà bene sua Serenità faccia ufficio <lb/>
+di complimento col principe Mauritio. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="009" corresp="008" source="29r-v, 40r-v" >
+<div type="main" facs="main text of attachment I" n="009" corresp="008" >
+<!--<p>Allegato I al n. 8 (cc. 29r-v, 40r-v)</p>-->
+<pb n="029r" facs="06_029r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Li Stati Generali delle Provincie Unite </p>
+<p>Nobili etc. delle vostre de’ 17 del presente intendemo le difficultà che a <lb/>
+loro sono occorse nell’effettuare l’affittamento delle sette restanti <lb/>
+navi per la serenissima republica di Venetia l’istesso ci ha rimostrato questa <lb/>
+matina nella nostra Congregatione il signor Soriano residente di quella <lb/>
+Republica communicandoci la lettera vostra, et così come sua Signoria in questo <lb/>
+ci ha dato parimente ad intendere essere risoluto di transferirsi in <lb/>
+Amstradamo a fine di poter con la sua presenza agiutar l’accom-<lb/>
+odamento al meglio possibile di dette difficultà, non<ptr target="#tn68" n="68"/> habbiamo<ptr target="#tn69" n="69"/> <lb/>
+volsuto<ptr target="#tn70" n="70"/> tralasciar di exortarvi di nuovo, et commandarvi di pigliare <lb/>
+a cuore, et aiutare ad avanzare il restante affittamento delle dette <lb/>
+navi con ogni avantaggio così come se fusse, per il proprio, et necessario <lb/>
+servitio del Paese, et a questo fine far tutto quello ch’è possibile per <lb/>
+impedire le conventicule che sopra di ciò potrebbero fare li patroni <lb/>
+compartecipi di nave, o da altri essere interpreso come fidamo in <lb/>
+voi, et sopra di ciò si riposiamo. </p>
+<p>Et sì come de poi haver mandato le nostre lettere delli 16 di questo alli <lb/>
+colleggii dell’Ammiralità ci è venuto nuovo aviso ch’il viceré<ptr target="#tn71" n="71"/> <lb/>
+di Napoli habbia mandato ordine, et provisione per assoldare alcu-<lb/>
+ni vascelli qui, et in Fiandra sotto pretesto di volersene servire <lb/>
+contro il Turco, ma con intentione de impiegarli contro la detta republica <lb/>
+di Venetia; così volontieri vedressimo che con ogni mezo possibile <lb/>
+ciò fusse impedito. <lb/>
+Voressimo adunque, et desideraressimo che le Signorie <lb/>
+vostre dicessero il parer loro, li mezi et modi più commodi, che potri-<lb/>
+ano servire per impedir simil noleggio di nave in questi paesi et per <lb/>
+impedire effettivamente che non sia venduto né armato alcun <lb/>
+vascello direttamente o indirettamente in pregiuditio della sudetta republica <lb/>
+di Venetia et specialmente se questo non potesse essere impedito con suf-<lb/>
+ficiente, et bastante cautione, a fin che inteso il vostro aviso possi <lb/>
+da noi essere sopra di ciò risoluto quanto si troverà conveniente
+<pb n="029v" facs="06_029v" rend="0"/>
+et con questo vi raccomandiamo alla protectione dell’onnipotente <lb/>
+Dio dell’Haya li 20 di febraro 1618. </p>
+<pb n="040r" facs="06_040r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="040v" facs="06_040v" rend="270"/>
+<p>Lettera de’ signori Stati alli signori delle Amiralità <lb/>
+perché non si affitino<ptr target="#tn72" n="72"/>, o comprino <lb/>
+navi i<ptr target="#tn73" n="73"/> pregiuditio della Republica </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="010" corresp="008" source="30r-v, 39r-v" >
+<div type="main" facs="main text of attachment II" n="010" corresp="008" >
+<!--<p>Allegato II al n. 8 (cc. 30r-v, 39r-v)</p>-->
+<pb n="030r" facs="06_030r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Estratto da una lettera del Calandrini di Amsterdam de’ 9 <lb/>
+marzo </p>
+<p>Ognuno è appresso ad apparecchiar le navi facendo <lb/>
+l’uno a gara dell’altro San Marco haverà l’honore <lb/>
+di esser il primo all’ordine, ma li altri non tarderanno <lb/>
+et spero che le genti anco saranno all’ordine <lb/>
+da non haver ad aspettar l’un l’altro. È molto <lb/>
+bene habbino ad andar unite insieme; ma di <lb/>
+poter affermativamente nominar il tempo <lb/>
+che sariano all’ordine non si puole; ma mi imagino <lb/>
+che queste saranno ben così pronte come quelle <lb/>
+d’Inghilterra. </p>
+<p>Havrò pur in fine la tassa delle navi di qua <lb/>
+da mandar con queste. Sono qui li signori di <lb/>
+Horn a’ quali ho parlato questa mattina <lb/>
+sono provisti delle quattro navi, et promettono <lb/>
+esser così presto ad ordine, che questi, et quelli <lb/>
+della Mosa faranno in emulatione l’uno dell’<lb/>
+altro per acquistarne honore richesi di <lb/>
+haver la tassa delle quattro navi non la possono <lb/>
+ancor dare havendo assai difficoltà con li patroni <lb/>
+di nave, che la vogliono più alta di quello
+<pb n="030v" facs="06_030v" rend="0"/>
+converria massine<ptr target="#tn74" n="74"/> l’una di 1400 fiorini fa assai giuoco <lb/>
+vedranno superarla, et fra tre o quattro giorni al <lb/>
+più mandarla. </p>
+<p>Post scritta. </p>
+<p>Mando alligata la tassa delle navi noleggiate da questa <lb/>
+Amiralità quella di Pietro Eversen resta tassata <lb/>
+come era prima; ma alli signori pare, che per contentarlo <lb/>
+et non dar occasione di lamentarsi si potria augumentarla <lb/>
+a 2000 fiorini più essendo effettivamente stata <lb/>
+tassata bassa; ma non hanno voluto risolvere senza <lb/>
+prima vostra Signoria ne sia avvertita. Questo<ptr target="#tn75" n="75"/> è quanto mi <lb/>
+è stato imposto da questi signori di scriver etc. </p>
+<pb n="039r" facs="06_039r" rend="270"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="039v" facs="06_039v" rend="270"/>
+<p>2 </p>
+<p>Estratto di lettere del Calandrini </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 15 </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="011" corresp="008" source="32r-v, 37r-v" >
+<div type="main" facs="main text of attachment III" n="011" corresp="008" >
+<!--<p>Allegato III al n. 8 (cc. 32r-v, 37r-v)</p>-->
+<pb n="032r" facs="06_032r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere dell’Haya n° 15 de’ 13 marzo 1618<ptr target="#tn76" n="76"/> </p>
+<p>Scrittura fatta dal Pasini al cavalier Studer </p>
+<p>Dico io Gio. Battista Pasini, che quelle parole quando <lb/>
+il suo servitio resterà grato a sua Serenità nella patente <lb/>
+del signor Suriano s’intende che ’l cavalier ser Tomaso Studer <lb/>
+servendo bene come soldato honorato, et fedele resterà <lb/>
+al servitio di sua Serenità così in pace, come in guerra <lb/>
+senza riformatione nessuna della quale io prometto <lb/>
+così in fede di ciò io ho formata di mia mano. Al <lb/>
+villaggio di Oppen li 7 di marzo 1618. </p>
+<pb n="032v" facs="06_032v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="037r" facs="06_037r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="037v" facs="06_037v" rend="90"/>
+<p>4 </p>
+<p>Scrittura del Pasini fatta <lb/>
+allo Studer </p>
+<p>nella 2<hi rend="superscript">da</hi> </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment III" n="011" corresp="008" >
+<!--
+<p n="037vC">———</p>
+-->
+<head>secretarial text of attachment III</head>
+<p>In lettere dell’Haya <lb/>
+n° 15 de’ 13 marzo <lb/>
+1618 </p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="012" corresp="008" source="31r-v, 33r-34v, 38r-v" >
+<div type="main" facs="main text of attachment IV" n="012" corresp="008" >
+<!--<p>Allegato IV al n. 8 (cc. 31r-v, 33r-34v, 38r-v)<ptr target="#tn77" n="77"/></p>-->
+<pb n="033r" facs="06_033r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>In lettere dell’Haya n° 15 de’ 13 marzo <lb/>
+1618<ptr target="#tn78" n="78"/> </p>
+<p>Conditioni, et conventioni sopra le quali li deputati delli rispettivi colleggi dell’<lb/>
+Amiralità in Holanda et Westfrisia affittano alcuni vasselli al servitio della serenissima <lb/>
+signoria di Venetia. </p>
+<p>Primieramente saranno li detti vasselli accettati, et noleggiati per lo spatio di sei mesi per esser <lb/>
+impiegati, alla guerra nel servitio della detta Signoria, et venendo il caso che la Signoria appresso <lb/>
+l’expiratione del detto tempo, vorrà ritener li detti vasselli più longo tempo ancora in suo <lb/>
+servitio, saramno<ptr target="#tn79" n="79"/> li affittatori tenuti sopra le medeme conditioni fatte con li detti <lb/>
+deputati, o ancora a farsi, di servir per tanto tempo quanto piacerà alla Signoria. </p>
+<p>Li patroni, et partionevoli delli vasselli saranno tenuti di bene, et debitamente preparar <lb/>
+li loro vasselli, et provederli di quattro buone anchore, una picciola anchora con <lb/>
+sei cable, doppie vele, et altre necessità che si ricercano ad un tal apprestamento <lb/>
+et montarli con tanti pezzi di artigliaria di ferro, et petriere come intorno ciò <lb/>
+potranno insieme accordare. </p>
+<p>Saranno anco obligati di far fare a loro spese tante lettiere, come sarà bisogno per <lb/>
+cento matalotti, et in oltre di far le cucine di legno conforme al solito ch’elle <lb/>
+si fanno ne’ vasselli di guerra. </p>
+<p>Et in caso ch’il signor residente della Signoria con li detti vasselli noleggiati, vorrà mandar <lb/>
+qualche soldato verso Venetia, saranno li detti patroni, et partionevoli obligati <lb/>
+a loro spese procurar, che siano fatte, et accommodate piazze proprie per alloggiare <lb/>
+fino a cento teste più o meno a proportione de la grandezza et capacità di <lb/>
+detti vasselli. </p>
+<p>Il soldo del mese di paga per le dette navi haverà il suo principio, et si pagherà così <lb/>
+tosto che li capitani et marinari haveranno passato mostra. </p>
+<p>Et sarà dato a’ patroni, et participanti, alla mano prima del partir delli vasselli <lb/>
+avanti la città ove le genti, et marinari haveranno passato monstra, doi mesi <lb/>
+di paga di quello che haveranno accordato, et insieme convenuto. </p>
+<p>Il resto, et altri mesi della loro paga saranno pagati a Venetia di mese in mese in <lb/>
+banco, per il qual pagamento li signori Stati Generali per parte del Paese, o li colleggi <lb/>
+sudetti respettivamente haveranno a rispondere. </p>
+<p>Li detti vasselli saranno per li patroni, et per li partionevoli noleggiati a tal conditione <lb/>
+ch’essi con li detti vasselli haveranno a correr il rischio, et il pericolo, et fortu-<lb/>
+ne ordinarie del mare, et della sabbia, et in oltre tutto quello che potesse sopra-<lb/>
+venire, et arivare ad essi vasselli fin tanto saranno arivati a Corfù o altro <lb/>
+luoco dove saranno ordinati che si habbino a rendere, et che dopo tutti li peri-<lb/>
+coli, et danni<ptr target="#tn80" n="80"/> che potessero avenire a detti vasselli per la guerra in qualunque <lb/>
+maniera che ciò potesse essere, et che similmente ch’alli medesimi vasselli potesse <lb/>
+succedere per il mare o sabbia durante la guerra sarà alla carica, et pericolo
+<pb n="033v" facs="06_033v" rend="0"/>
+della Republica ben inteso, che dopo ritornando li detti vasselli di qua alla <lb/>
+sua stanza haveranno di nuovo a correr il pericolo, et fortuna ordinaria del <lb/>
+mare, et sabbia overo altramente come per appunto hanno corso, et sofferto verso lì <lb/>
+andandosene; con tal riserva però, et conditione che venendo il caso che li vass[elli] <lb/>
+tanto andando verso là, che ritornando di qua fussero danneggiati o presi <lb/>
+da una flotta generale dalla parte del re di Spagna, che tutto ciò ridon-<lb/>
+derà alla carica et al pericolo della sudetta Signoria. </p>
+<p>Et saranno li locatori tenuti davanti al partir loro di far sinceramente et fedelmente <lb/>
+tassar li detti vasselli quanto al valsente di essi con tutte le appartenenze <lb/>
+et questo per persone neutrali da eleggersi dalle dua parti, et sopra la qual <lb/>
+tassa haverà la Signoria la sua volontà, et optione o scielta per poter <lb/>
+haver, et prendere a sua proprietà li detti vasselli per compredo<ptr target="#tn81" n="81"/> non; p[…]<ptr target="#tn82" n="82"/> <lb/>
+che ne sia di ciò fatta dichiaratione, in termine di 14 giorni dopo l’arivo <lb/>
+di detti vasselli al luoco destinato; ove essi doveranno rendersi. Et in <lb/>
+caso che la Signoria dopo la tassa fatta vorrà pigliar li detti vasselli in <lb/>
+compredo doveranno li locatori ricevere, et goder li loro mesi accordati <lb/>
+del nolo a proportione del tempo che saranno noleggiati, et presi in sco[nto]. </p>
+<p>Et occorrendo che la detta Signoria non vogli comprar li detti vasselli dopo la <lb/>
+tassatione fatta ma lassarli nelle mani, et posesso delli locatori. Allhora <lb/>
+in detto caso li locatori che saranno obligati di rimenar li detti soldati, et <lb/>
+matalotti di nuovo di qua, come haveranno<ptr target="#tn83" n="83"/> fatto andando là, haveranno <lb/>
+a godere, et ricever il loro noleggio, et pagamento per mese delli loro <lb/>
+vasselli dal giorno della mostra fino a tanto che li detti vasselli sar[anno]<ptr target="#tn84" n="84"/> <lb/>
+di nuovo ritornati nel Paese di qua; se però non avenisse che li patroni et <lb/>
+compartecipi delli vasselli havessero fatto, et stipulato altre conditioni <lb/>
+di là con la Signoria avanti il ritorno delli detti vasselli verso questo <lb/>
+Paese. </p>
+<p>Et ritornando di qua sarà la Signoria tenuta di lassar nelli detti vasselli con l’<lb/>
+artillarie di essi tanta polvere balle et altre monitioni da guerra, vi-<lb/>
+veri, et genti che li capitani et patroni de’ vasselli sudetti vorranno <lb/>
+ritener presso di essi, pur ché il sopra più di tali monitioni di <lb/>
+guerra, essendo tornati li vasselli di qua nel Paese saranno res-<lb/>
+tituiti nelle mani delli signori dell’Amiralità a profitto della detta Signoria. </p>
+<p>Li patroni de’ vasselli saranno impiegati per patroni et commendatori con <lb/>
+paga tale per mese, come nel Paese è di costume pagare o altrimente <lb/>
+così come insieme si potrà accordare. </p>
+<p>In conformità delli sudetti articoli, et conditioni et parimente con le conditioni
+<pb n="034r" facs="06_034r" rend="0"/>
+et patti che seguitano con matura deliberatione si sono insieme accordati <lb/>
+et convenuti li detti signori deputati delli respettivi colleggi dell’Amiralità <lb/>
+in Holanda et Frisia occidentale al nome delli altri, et potenti signori <lb/>
+li signori Stati Generali delle Provincie Unite de’ Paesi Bassi da una parte, et <lb/>
+il signor Elia Trip mercante di Amstradam come proprietario della nave <lb/>
+nominata La vergine di Dordrecht grande di circa doicento lasti, sopra la <lb/>
+quale sarà ordinato per pron<ptr target="#tn85" n="85"/> del detto vassello. </p>
+<p>Dall’altra parte cioè che il detto Elias Trip sarà obligato di procurare <lb/>
+che il detto vassello ch’al presente si trova inanti detta città di Amsterdam <lb/>
+quanto più presto sarà possibile di far sarrà<ptr target="#tn86" n="86"/> menata a sue spese, carico <lb/>
+et rischio, et pericolo delli partecipanti dentro alla Moza inanti <lb/>
+la città di Rotterdam, et là lo consegnarà con tutte le cose ad esso <lb/>
+appertinenti, con ogni diligenza, et prestezza; ad ordine, serrato, chiuso, <lb/>
+et ben calafatato, et proveduto di tali apprestamenti come di sopra <lb/>
+è stato nominato, et specificato, et in oltre dovrà montar detto vassello <lb/>
+con 24 cannoni di ferro, et quattro petriere con li bastoni per nettar, <lb/>
+caricare, et altri instrumenti necessarii, il tutto conforme all’inventa-<lb/>
+rio, et specificatione, sopra di che seguirà la tassatione sopra nominata <lb/>
+della nave con le sue appertinenze, preparamenti, et cannoni, et dependen-<lb/>
+ze, et le restanti provisioni, et appare che del detto vassello sarà alla <lb/>
+carica, et spesa della serenissima Republica. Ben inteso che la detta nave riceverà <lb/>
+et profitterà per mese per il servitio con li articoli sudetti nominati la somma <lb/>
+di doi mila quattrocento fiorini carolos a 20 piache l’uno, et questo in <lb/>
+ducati in Venetia in banco per riduttione assegnato et contato il <lb/>
+ducato di Venetia a due fiorini, et mezo, o vero si farà di qua in queste <lb/>
+parti il pagamento a optione della Signoria. </p>
+<p>Et parimente espressamente aggiunto, et accordato ch’il signor residente della <lb/>
+serenissima republica di Venetia potrà, come quello ch’havrà solo la scelta; lassar <lb/>
+ch’il detto vassello con li suoi apprestamenti sopranominati, canoni, et dipendenze qui a basso più ampiamente specificato durante tutto il <lb/>
+tempo del servitio, et viaggio di sopra largamente expresso, andar, et correr, <lb/>
+la fortuna al rischio del patrone, et partecipante della nave totalmente <lb/>
+tal pericolo, infortunio, et rincontro niuno eccettuato; et altrimente <lb/>
+come la detta Signoria in conformità delle sudette conditioni deve correr, et sopportare <lb/>
+et questo per la somma di 600 fiorini<ptr target="#tn87" n="87"/> carolus per mese di vantaggio di <lb/>
+quello che di sopra è detto, et trattato, di maniera che il signor residente, otto <lb/>
+o quattordici giorni prima del partir del detto vassello farà la sua
+<pb n="034v" facs="06_034v" rend="0"/>
+dichiaratione, et apertura, sopra di che l’huomo haverà da regolarsi <lb/>
+in segno di verità fatto di questi doi accordi<ptr target="#tn88" n="88"/> simili l’uno all’altro, et <lb/>
+per le parti sopradette respettivamente segnate, di che ciascheduna parte ne ha <lb/>
+uno fatto in Amstradam a’ 24 di febraro 1618, et era segnato H. de <lb/>
+Braumont FV<ptr target="#tn89" n="89"/> Versyde, Elias Trip. </p>
+<p>Doppo la ratificatione, et confirmatione del detto contratto per nome delle sudette parti <lb/>
+da dui parte sono stati richiesti li honorati huomini Kellebrant den Otter <lb/>
+et Dierck Claissen Schepel mercanti et borghesi della sudetta città, li q[uali] <lb/>
+alla requisitione delle dette parti hanno sinceramente tassato, et pregiato <lb/>
+il detto vassello, con li suoi apprestamenti, et preparamenti nominati nel <lb/>
+detto contratto di noleggio alla somma di vitiseimilla cinquecento fiorini<ptr target="#tn90" n="90"/> corren[ti]. </p>
+<p>Seguita la qualità, et quantità, insieme il valor dei canoni di fer[ro]<ptr target="#tn91" n="91"/> <lb/>
+et petriere che sono in detto vassello. </p>
+<table>
+<row role="label">
+<cell><p>Otto pezzi nominati meze colobrine che tirano una balla di 9 libre di ferro <lb/>
+pesanti ciascheduno in circa 3100<ptr target="#tn92" n="92"/> fa 3100 libre</p></cell>
+<cell><p>24800 libre </p></cell>
+</row>
+<row>
+<cell><p>8 pezzi nominati colobrine bastarde pesanti cadauno 3800</p></cell>
+<cell><p>30400 libre </p></cell>
+</row>
+<row>
+<cell><p>4 pezzi con le camere di 18 […]<ptr target="#tn93" n="93"/> di ferro pesanti insieme</p></cell>
+<cell><p>9382 </p></cell>
+</row>
+<row>
+<cell><p>2 pezzi leggieri pesanti cadauno in circa 800</p></cell>
+<cell><p>1600 </p></cell>
+</row>
+<row>
+<cell><p>2 pezzi di camera cadauno di 1600 di ferro riviene a</p></cell>
+<cell><p>3200 </p></cell>
+</row>
+</table>
+<table>
+<row role="label">
+<cell><p>4 pezzi petriere pesano cadauno 300 fanno</p></cell>
+<cell><p>1200 </p></cell>
+</row>
+<row>
+<cell><p>rivengono insieme</p></cell>
+<cell><p>70582 </p></cell>
+</row>
+<row>
+<cell><p>cadauna cento libre computata una per l’altra a quindici fiorini la lira riviene</p></cell>
+<cell><p>10587, 6 </p></cell>
+</row>
+<row>
+<cell><p>riviene il detto vassello con li suoi apparechi canoni, et <lb/>
+apartenenze seguitando insieme la sudetta tassatione fiorini</p></cell>
+<cell><p>37087, 6 </p></cell>
+</row>
+</table>
+<p>Ben inteso, s’il detto vassello sarà compro dalla Republica ch’allora il detto <lb/>
+cannone a spese della Signoria sarà messo fuori del bordo, et pesato <lb/>
+et quelle ch’il detto cannone si troverà più o meno pesante di quello <lb/>
+che qui di sopra, è scritto, et specificato che le parti l’un <lb/>
+l’altra lo farà bono secondo il prezzo sopranominato in <lb/>
+segno della verità etc. </p>
+<pb n="031r" facs="06_031r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="031v" facs="06_031v" rend="270"/>
+<p>3<ptr target="#tn94" n="94"/> </p>
+<p>Nella 2<hi rend="superscript">da</hi> n° 15 </p>
+<p>forma di noleggio </p>
+<pb n="038r" facs="06_038r" rend="270"/>
+<p>Cut page</p>
+<pb n="038v" facs="06_038v" rend="90"/>
+<p>Cut page</p>
+</div>
+</div>
+<div type="attachment" facs="V" n="013" corresp="008" source="35r-36v" >
+<div type="main" facs="main text of attachment V" n="013" corresp="008" >
+<!--<p>Allegato V al n. 8 (cc. 35r-36v)</p>-->
+<pb n="035r" facs="06_035r" rend="0"/>
+<head>main text of attachment V</head>
+<p>In lettere dell’Haya n° 15 de’ 13 marzo <lb/>
+1618<ptr target="#tn95" n="95"/> </p>
+<p>Tassatione delle navi senza l’artigliarie, et sono le cinque <lb/>
+tolte dall’amiralità di Amstradam a nolo </p>
+<p>La nave di Pietro Claesen di Udam grande 360 lasti in circa, a fiorini <lb/>
+5200. Haverà per mese fiorini 3600, et correndo li portionali […]<ptr target="#tn96" n="96"/> <lb/>
+pericolo a fiorini 800 più il mese in optione della serenissima Republica di […-]<lb/>
+cettarlo così. Sarà montata dalli partionevoli con pezze venti <lb/>
+di artellaria. </p>
+<p>La nave Meus Tanam d’Edam grande 300 lasti in circa, tassata fiorini […]. <lb/>
+Havrà per mese fiorini 2400 et per il pericolo da correre fiorini 700 <lb/>
+al mese in optione come sopra senza artigliaria. </p>
+<p>La nave di Pietro Everesen grande circa 300 lasti tassata a fiorini 32[…]. <lb/>
+Havrà per mese fiorini 2400 et li pericoli da correre fiorini 600 più <lb/>
+al mese, in optione come sopra senz’artillarie. </p>
+<p>La nave di Pietro Claesen Ministe Kerch, grande lasti 260 in circa, tassata [fiorini] <lb/>
+28500. Havrà per mese fiorini 2550 et per li pericoli da correre fiorini 4[…] <lb/>
+più al mese in optione come sopra, sarà montata dalli partionevoli con <lb/>
+pezzi 20 di artigliaria. </p>
+<p>La nave di Anna Rivetten grande lasti 170 in circa tassata fiorini 24000. <lb/>
+Havrà per mese fiorini 1800 et per li pericoli da correre, fiorini 450 più al <lb/>
+mese, in optione come sopra, sarà montata da portionevoli con 14 pezzi d’<lb/>
+artillaria. </p>
+<p>L’artigliarie delli portionevoli che giungono <lb/>
+alle navi, vengono tassate separatamente. </p>
+<p>Tassatione delle navi tolte dalli signori dell’amiralità di <lb/>
+Rotterdam con le artigliarie </p>
+<p>La nave di Elias Trip grande circa 200 lasti tassata a fiorini 37087, 6 <lb/>
+con 24 cannoni di ferro, et 4 pietrere. Haverà per mese fiorini 240[0] <lb/>
+et per li pericoli da correre fiorini 600 più al mese, in optione della serenissima </p>
+<pb n="035v" facs="06_035v" rend="0"/>
+<p>Republica ma vol essere avertito otto o vero 14 giorni prima del partir <lb/>
+delli vasselli. </p>
+<p>La nave di Dierich Pietersen Proost da Encusen grande di 180 lasti in circa <lb/>
+haverà sopra venti pezze di cannoni di ferro et sei petriere, et è tassata <lb/>
+con dette artigliarie fiorini 37257, 15. Haverà per mese fiorini 2400 <lb/>
+et per li pericoli da correre fiorini 600 più il mese in optione della <lb/>
+serenissima Republica ma vol esser avertito come di sopra. </p>
+<p>La nave di Henrico Cornelissen Denys d’Amsterdam nominata Li tre re di <lb/>
+lasti 200 in circa, tassata fiorini 25000 senza l’artigliarie che dovrà <lb/>
+anch’ella esser tassata; et sarà montata di 20 pezzi di cannone di <lb/>
+ferro doi piccoli pezze, et sei pezze petriere. Haverà per mese la <lb/>
+somma di doi mille cinquanta fiorini al mese per li pericoli da correr <lb/>
+in optione della serenissima Republica et questo anco sarà alla medesima conditione <lb/>
+dell’altre sopradette. </p>
+<p>Di quelle di Encusen non è potuto haversi la <lb/>
+tassa. Ma fatto il conto così all’ingrosso sarà <lb/>
+per il correr del rischio in circa settemila <lb/>
+doi centocinquanta fiorini poco più o meno. </p>
+<pb n="036r" facs="06_036r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="036v" facs="06_036v" rend="270"/>
+<p>1 </p>
+<p>Tassatione di otto navi </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 15 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "sette."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "sarebbe" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "f" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "quattromilla doi" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line on "piacchi" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line on "potrà" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "fa" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-a-" is the result of a correction</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Corrected above ,.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the line on "esser" crossed out with an insertion mark.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "-r" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Damaged page.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "tutt" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by "diling" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "un gra" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "l’aggiunta nota" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Added above the deleted word; "-rò" is the result of a correction.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Added above the line on "allo stesso" crossed out.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by "aspe" crossed out.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Second "-o-" is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Is the result of a correction.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "hebbe … di" added above the line with an insertion mark.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "-r" is the result of a correction.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> "il cento" added above the line with an insertion mark.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> Is the result of a correction.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> "per il" uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> Followed by "può" crossed out.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> Followed by "mi" crossed out.</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> Followed by "principe" crossed out.</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> Second "-o-" is the result of a correction.</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> Damaged page.</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> Added above the line on "’l" crossed out.</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn58"><p><hi rend="footnote">58</hi> "et … no(n)tio" added above the line with an insertion mark.</p></note>
+<note xml:id="tn59"><p><hi rend="footnote">59</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn60"><p><hi rend="footnote">60</hi> Added above the line on "sarebbe" crossed out.</p></note>
+<note xml:id="tn61"><p><hi rend="footnote">61</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn62"><p><hi rend="footnote">62</hi> Character is difficult to read clearly.</p></note>
+<note xml:id="tn63"><p><hi rend="footnote">63</hi> Added above "L. R.", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn64"><p><hi rend="footnote">64</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn65"><p><hi rend="footnote">65</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn66"><p><hi rend="footnote">66</hi> "-es" is the result of a correction.</p></note>
+<note xml:id="tn67"><p><hi rend="footnote">67</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn68"><p><hi rend="footnote">68</hi> "-n" corrected above "-i."</p></note>
+<note xml:id="tn69"><p><hi rend="footnote">69</hi> Followed by "ri-" crossed out.</p></note>
+<note xml:id="tn70"><p><hi rend="footnote">70</hi> Corrected above "ri-|soluto."</p></note>
+<note xml:id="tn71"><p><hi rend="footnote">71</hi> "-ré" is the result of a correction.</p></note>
+<note xml:id="tn72"><p><hi rend="footnote">72</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn73"><p><hi rend="footnote">73</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn74"><p><hi rend="footnote">74</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn75"><p><hi rend="footnote">75</hi> "Q-" is the result of a correction.</p></note>
+<note xml:id="tn76"><p><hi rend="footnote">76</hi> This information was added upon receipt by a secretary.</p></note>
+<note xml:id="tn77"><p><hi rend="footnote">77</hi> Mistake in numbering of the folio cc. 31r-v, 33r-34v, 38r-v.</p></note>
+<note xml:id="tn78"><p><hi rend="footnote">78</hi> This information was added upon receipt by a secretary.</p></note>
+<note xml:id="tn79"><p><hi rend="footnote">79</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn80"><p><hi rend="footnote">80</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn81"><p><hi rend="footnote">81</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn82"><p><hi rend="footnote">82</hi> Damaged page.</p></note>
+<note xml:id="tn83"><p><hi rend="footnote">83</hi> "h-" is the result of a correction.</p></note>
+<note xml:id="tn84"><p><hi rend="footnote">84</hi> Damaged page.</p></note>
+<note xml:id="tn85"><p><hi rend="footnote">85</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn86"><p><hi rend="footnote">86</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn87"><p><hi rend="footnote">87</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn88"><p><hi rend="footnote">88</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn89"><p><hi rend="footnote">89</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn90"><p><hi rend="footnote">90</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn91"><p><hi rend="footnote">91</hi> Damaged page.</p></note>
+<note xml:id="tn92"><p><hi rend="footnote">92</hi> Added above the line; "-1-" corrected above "-0-."</p></note>
+<note xml:id="tn93"><p><hi rend="footnote">93</hi> Character is difficult to read clearly.</p></note>
+<note xml:id="tn94"><p><hi rend="footnote">94</hi> Corrected above "1."</p></note>
+<note xml:id="tn95"><p><hi rend="footnote">95</hi> This information was added upon receipt by a secretary.</p></note>
+<note xml:id="tn96"><p><hi rend="footnote">96</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+</div>
+</body>
+</text>
+</TEI>

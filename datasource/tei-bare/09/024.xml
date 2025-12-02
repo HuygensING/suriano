@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.024 date 1620-05-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">024</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 133r-135v, 138r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp252-266
+            </note>
+            <biblScope unit="page">133r-135v, 138r-v, 136r-137v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has met with Pasini about with viscount Lormes and Falghero will arrange a meeting (letter in attachment). Various bits of news about Holy Roman Empire and actions of the Danish king near the Elbe. Sticke has been accussed of false minting and been imprisoned. One text attached: a letter from Brussels dated 11 april 1620</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-05-26">26 maggio 1620</date>
+            <num>035, 036</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>26 maggio 1620, L’Aia (cc. 133r-135v, 138r-v)</p>-->
+<pb n="133r" facs="09_133r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 206 fin 207 </p>
+<p>Serenissimo Principe </p>
+<p>spedito il dispaccio della passata settimana con doi lettere <lb/>
+per vostra Serenità scritte a’ 19 che sono aggiunte in copia mi <lb/>
+volsi metter in camino per Dort per aboccarmi col Pasini per <lb/>
+il negotio delle navi proposto da lui; ma pensato che <lb/>
+havessi fatto il viaggio indarno perché non mi serviva poi <lb/>
+il tempo per scriver, et ispedir prima che d’Anversa <lb/>
+partisse il corriero<ptr target="#tn1" n="1"/> per Italia; onde mi <lb/>
+arrestai, et esso Pasini venne avanti a trovarmi in questo <lb/>
+luoco, et mi confirmò tutto quello, che ha scritto alla <lb/>
+Serenità vostra nelle lettere sue, mostrando, che credeva certo <lb/>
+non esser alcun dubio nella proposta, facendomi veder <lb/>
+l’obligatione di quello da San Malo di aspettar sei <lb/>
+settimane la risposta daicosti, che vano spirando, la quale <lb/>
+convalidava<ptr target="#tn2" n="2"/> anco più la sicurtà del negotio. <lb/>
+Tuttavia ha stimato meglio, et per maggior sicurtà, et <lb/>
+chiarezza del fatto, et perché io possi haver tutte quelle <lb/>
+informationi, che la Serenità vostra mostra desiderare nelle <lb/>
+sue lettere de’ 30 del passato, procurar che mi abbocchi <lb/>
+il visconte di Lormes, così si chiama quello che <lb/>
+ha il negotio nelle mani; et a tal effetto ha ispedito <lb/>
+lettere al signor Pietro Falghero, che si trova a Brusseles <lb/>
+perché conduchi qui esso Visconte. Lo attendo, et ho <lb/>
+stimato a proposito, che così si faccia perché meritando
+<pb n="133v" facs="09_133v" rend="0"/>
+il negotio, che si porti innanti il tempo, procurerò di <lb/>
+presenza, che lo avanzi quanto più sarà possibile. <lb/>
+Io voglio sperare, che l’haverò qui per domenica, col <lb/>
+prossimo ordinario sopra quello sarà seguito. In tanto <lb/>
+le mando la translatione dal francese dell’obligo, ch’<lb/>
+egli ha fatto. </p>
+<p>Delle dodici navi non ho che dirle mentre si attende al far <lb/>
+dei conti; et so bene, che li signori dell’Amiralità havevano <lb/>
+assai più intrico in questi, che non non* hanno havuto <lb/>
+nell’ispedire di esse navi verso il golfo. </p>
+<p>Dell’impertinenze di qualche marinari non dirò altro perché <lb/>
+non è necessario, né giova assordir l’orrecchie all’Eccellenze vostre; <lb/>
+ma tutto si anderà destamente portando al fine. </p>
+<p>Resta ancor sospesa ogni essecutione delle levate di Brabant; <lb/>
+parendo, che manco si muoveranno a dar principio <lb/>
+che l’ordine di Spagna non venga con provisione suffi-<lb/>
+ciente per l’effetto sudetto. </p>
+<p>Se ben è stato publicato che ’l signor principe Mauritio sia per <lb/>
+affrettar il suo ritorno<ptr target="#tn3" n="3"/> all’Haya: nondimeno da’ <lb/>
+suoi più dipendenti non è confermata; anzi che <lb/>
+questa sera debba esser a Nimeghen, et trattenutosi la <lb/>
+giornata di dimani, che è delle preghiere generali, <lb/>
+ordinaria in queste chiese, farà qualche soggiorno
+<pb n="134r" facs="09_134r" rend="0"/>
+con quei Stati, et poi continuerà a visitar le piazze <lb/>
+frontiere. </p>
+<p>Qui si è messo in deliberatione ma non ancor risoluto il far 4 mila fanti <lb/>
+il tutto però per quanto si congietura haverà in questo <lb/>
+proposito direttione da quello si farà dalla parte dei <lb/>
+serenissimi arciduchi. </p>
+<p>In lettere capitate a questi signori viene detto, che essendosi <lb/>
+intimati fino a questi hora tre termini al nuovo re <lb/>
+di Bohemia di lasciar quel Stato et la Corona, si sia <lb/>
+anco concertato da Austriaci, et per consequente <lb/>
+da Spagnuoli di tenersi tanto maggiormente obligato <lb/>
+il duca di Sassonia con darli ad intender, che <lb/>
+haverà il possesso di duca di Cleves, et per contentar <lb/>
+Naiburgh per la cessione si dano ad intender di farli <lb/>
+haver il titolo di conte palatino del Rheno, et elettor <lb/>
+dell’Imperio. Li signori Stati non prestano fede all’avviso <lb/>
+tuttavia questi concetti, che corrono sotto la pena de’ <lb/>
+particolari può esser, che vadino vagando nel capo <lb/>
+de chi pensa governar a suo modo li stati, et <lb/>
+gl’affari del mondo. </p>
+<p>Sono anco avvisati qui, che al<ptr target="#tn4" n="4"/> Lantgravio d’Hassia <lb/>
+come principe collegato all’Unione sia posta qualche <lb/>
+difficoltà nella possessione del suo Stato, et questa
+<pb n="134v" facs="09_134v" rend="0"/>
+dalla parte del marchese d’Armenstat prossimo suo cugino, <lb/>
+che ne possede la quarta<ptr target="#tn5" n="5"/> parte, et che è dell’Unione catholica <lb/>
+non ostante l’esser egli riformato; ma poco caso ne fa <lb/>
+il Lantgravio, mentre sta nel possesso, et si promette <lb/>
+di esser agiutato. </p>
+<p>Sono anco li signori Stati avvisati, che all’Imperatore non habbi <lb/>
+gustata la missione dell’ambasciata di Francia, adombrato <lb/>
+che non habbi a servire, se non per manter il re di <lb/>
+Bohemia. Dal luoco proprio haverà la Serenità vostra hav-<lb/>
+uto se sia vero questo avviso, che intanto lo scrivo <lb/>
+per incontro perché mi par anco che conformi col conce[sso]<ptr target="#tn6" n="6"/> <lb/>
+dell’ambasciator di Francia, scritto nelle mie lettere secondo <lb/>
+di hoggi otto. </p>
+<p>So bene, che l’eccellentissimo signor ambasciator Lando haverà scritto alla Serenità vostra <lb/>
+come il re della Gran Bertagna pensi a missione di <lb/>
+ambasceria di Alemagna<ptr target="#tn7" n="7"/>. Qui il signor Carleton mi <lb/>
+ha communicato, che vi si pensa; et ho cavato <lb/>
+tanto dal suo dire, che disegnandosi di mandar <lb/>
+più d’uno si disegni sopra di lui per uno; essendo-<lb/>
+gliene stato scritto da qualcheduno intimo consigliero <lb/>
+alla corte. Hieri partì la moglie di lui per Londra <lb/>
+con voce di andarci per negotii particolari della casa <lb/>
+et di tornar fra quattro mesi al più, ma credo che
+<pb n="135r" facs="09_135r" rend="0"/>
+che* a lei senz’altro già che fa il viaggio saranno state <lb/>
+date le lettere, et della la volta per tirar innanti il <lb/>
+negotio secondo, che dagl’avvisi sarà trovato buono. </p>
+<p>Il re di Danimarca ha dato ordine alle navi di guerra, <lb/>
+che ha fatto montar sopra l’Elva di pigliar la gabella <lb/>
+da tutti li vasselli, che transitano sopra quella <lb/>
+riviera<ptr target="#tn8" n="8"/>, il che s’è comminciato ad essequire, et <lb/>
+con diligenza n’è stata data parte a questi signori, <lb/>
+che ne sono restatati disgustati, et hanno inviato <lb/>
+ordine dietro ai loro commissarii perché affrettino <lb/>
+il camino a fine di trovarsi quanto più presto <lb/>
+sul luoco per evitar li pregiudicii alla città ansia-<lb/>
+tiche; et fermar colla presenza li disordini, che <lb/>
+possono nascer da un simil tentativo. </p>
+<p>Li mesi passati furono posti prigioni trovati sul fatto <lb/>
+alcuni fabricatori di monete false, che stampavano <lb/>
+a vida in questo luoco dell’Haya. Erano questi <lb/>
+li lavoranti, et il principale, o condutor loro <lb/>
+fuggì; ma tanto hanno indagato di lui, che lo hanno <lb/>
+havuto nelle forze. Ha accusato alcuni partecipi, <lb/>
+et da una settimana all’altra si sono scoperti <lb/>
+molti interessati, et soggetti assai buoni. Et <lb/>
+particolarmente è stato inditiato<ptr target="#tn9" n="9"/> il Stich, ch’è stato
+<pb n="135v" facs="09_135v" rend="0"/>
+qui residente per il marchese di Brandemburgh onde <lb/>
+ben assicurati quelli, che havevano il negotio nelle <lb/>
+mani; in fine l’hanno ritenuto, et sta prigione <lb/>
+in Amsterdam. Un suo di casa, che haveva titolo di <lb/>
+secretario fu hier sera posto prigione la casa è guardata <lb/>
+dai sargenti dei signori Stati, sono tenute in guardia <lb/>
+nella medesima doi massone<ptr target="#tn10" n="10"/>, hanno bollato il tutto, et <lb/>
+si crede che la farà male. A doi suoi fratelli ancora <lb/>
+hanno mandato dietro, et si dice, che siano arrestati. <lb/>
+Questi signori pretendono di poter proseguire sopra la <lb/>
+persona di esso Stich, non ostante la qualità, ch’egli <lb/>
+ha di ministro dell’elettore di Brandemburgh, perché <lb/>
+è suddito di queste provincie della città di Deventer <lb/>
+in Ourisel. Si starà a sentire quello ne seguirà <lb/>
+vivendone ognuno con gran curiosità. </p>
+<p>Havendo havuta notitia dell’elettione fatta dalla Serenità vostra <lb/>
+della persona dell’eccellentissimo signor Girolamo Trivisano in ambasciator <lb/>
+straordinario a questi signori stimai a proposito, che ne <lb/>
+havessero notitia sì per la prontezza mostrata da <lb/>
+vostra Serenità in corrisponderli, come per la<ptr target="#tn11" n="11"/> qualità, et meriti <lb/>
+virtuosi di quel signore, communicandolo al Presidente <lb/>
+col<ptr target="#tn12" n="12"/> quale mi trovai sabbato sotto pretesto di <lb/>
+visita; et so che l’Eccellenze loro ne hanno ricevuto gu[…]<ptr target="#tn13" n="13"/>.
+<pb n="138r" facs="09_138r" rend="0"/>
+et godranno anco più se lo vedranno presto di qua. Gratie etc. </p>
+<p>Dall’Haya li 26 maggio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="138v" facs="09_138v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 206 fin 207<ptr target="#tn14" n="14"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="138vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 maggio 1620 ricevute li x giugno </p>
+<p>Haya. n° 206 </p>
+<p>L. C. X. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="036" corresp="035" source="136r-137v" >
+<div type="main" facs="main text of attachment I" n="036" corresp="035" >
+<!--<p>Allegato I al n. 35 (cc. 136r-137v)</p>-->
+<pb n="136r" facs="09_136r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya ricevute 206 </p>
+<p>Noi Jan de Lormes cavalier signor della<ptr target="#tn15" n="15"/> Pouvaye <lb/>
+visconte de Lornes et Fredefoiù confesso che questo <lb/>
+giorno sendo nella città di Brusseles ho fatto trattato, et <lb/>
+accordo con doi signori habitanti della città di Venetia nominati <lb/>
+Pietro Falghero, et Gio. Battista Pasini per un importante <lb/>
+affare: li quali mi hanno promesso che dentro a sei <lb/>
+settimane mi renderanno risposta della risolutione del <lb/>
+loro Principe, et Republica; et<ptr target="#tn16" n="16"/> a tal effetto io loro ho <lb/>
+data, et do la mia parola, che dentro il tempo detto <lb/>
+di sopra di non trattar con altra persona fino al venir <lb/>
+della risposta della detta Signoria al tempo di sopra espresso <lb/>
+espirato in fede di che ho segnato di mia mano in segno <lb/>
+accostumato. Fatta in Brusseles a ii aprile 1620 </p>
+<p>Le visconte de Lormes </p>
+<pb n="136v" facs="09_136v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="137r" facs="09_137r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="137v" facs="09_137v" rend="270"/>
+<p>Nella prima n° 206<ptr target="#tn17" n="17"/> fin <lb/>
+207 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "d’Anversa" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the deleted words.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "il" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ie-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Precedes "sotto" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> There is a hole in the page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "sola" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "2-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.032 date 1620-06-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">032</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 184r-187v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">184r-187v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Has communicated the letter of credence of Francesco Aquila, and reports he is not well-liked or regarded in the Dutch Republic. The Admiralty of Rotterdam has made a similar request for their captains as Amsterdam, according to Suriano they are copying each other’s claims as several widow also makes claims. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-16">16 giugno 1620</date>
+            <num>051</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="051">
+<div type="main" facs="main text of letter" n="051">
+<!--<p>16 giugno 1620, L’Aia (cc. 184r-187v)</p>-->
+<pb n="184r" facs="09_184r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 214<ptr target="#tn1" n="1"/> comincia 212<ptr target="#tn2" n="2"/> </p>
+<p>Serenissimo Principe </p>
+<p>sodisfeci il giorno seguente all’ispeditione delle mie doi ultime <lb/>
+lettere d’hoggi otto qui aggiunte in copia all’ufficio, che <lb/>
+mi fu commesso dalla Serenità vostra a’ 22 del passato di far con <lb/>
+questi signori; communicandoli la lettera credentiale data <lb/>
+a quel capitan Francesco Aguilar, o Aquila, come qui lo <lb/>
+conoscono per tal nome. Et li signori Stati rendendo gratie <lb/>
+a vostra Serenità dell’avviso, et della confidenza mi dissero che <lb/>
+non haverebbono mancato di haver a cuore questo negotio, <lb/>
+che tocca così bene al loro interesse, che a quello della <lb/>
+serenissima Republica, et mi pregorono, che quando havessi altro <lb/>
+di vantaggio glielo volessi communicare, et datagli <lb/>
+da me materia mi dissero che già havevano scritto in <lb/>
+Constantinopoli, et con occasione non haverebbono mancato <lb/>
+di aggiunger nuovi commandamenti al loro Ambasciatore <lb/>
+d’intendersi sempre bene con li rappresentanti la Serenità vostra <lb/>
+a quella porta. </p>
+<p>Il detto capitan Francesco è conosciuto qui da molti per spirito <lb/>
+inquieto, non affettionato a questo Stato, et che sempre <lb/>
+ha havuto umori stravaganti nel capo. </p>
+<p>Scrissi riverentemente la passata settimana alla Serenità vostra l’instanza <lb/>
+che mi vene fatta da quelli dell’amiralità di Amsterdam <lb/>
+et la risposta, che in sostanza li diedi. Doppo
+<pb n="184v" facs="09_184v" rend="0"/>
+ho havuto da quelli di Roterdam la medesima instanza tanto per <lb/>
+gl’estraordinarii a capitani, che per altri; et sendo solo tre <lb/>
+hore discosto stimai a proposito trovarmi con quei signori come feci <lb/>
+per rimostrarli il fondamento delle ragioni publiche, et la <lb/>
+susistenza di quanto dicevo per esclusione delle pretentioni <lb/>
+dei capitati allegando l’articolo<ptr target="#tn3" n="3"/> ultimo del capitulato <lb/>
+che dice Nel resto promettemo di continuar a servir <lb/>
+fedelmente, et prontamente colle conditioni accordate, et che <lb/>
+finhora habbiamo fatto, che in niun’altra cosa eccetto <lb/>
+che nelle sopradette doveranno esser alterate, rinontiando <lb/>
+ogn’altra pretensione, che in qual si voglia tempo potessimo <lb/>
+havere. Et quanto più mi affaticai di farglielo capire <lb/>
+secondo ’l mio senso al contrario uno dei ministri di <lb/>
+quei signori per nome loro sosteneva, che detto capitolo <lb/>
+non escludeva li capitani dall’haver quello, che d’ordi-<lb/>
+nario hanno li capitani del Paese, che servono li vasselli <lb/>
+di guerra, et che potevo ben haver veduto, che non <lb/>
+havevano accordato di dar tutto quello che havevano <lb/>
+ricercato, poiché ad uno di doimilla et quattrocento <lb/>
+fiorini non haverebbono dato, che ottocento ottanta otto, <lb/>
+et ad un altro di doi milla doi cento cinquanta, ottocento <lb/>
+vinticinque, et altrettanti al terzo che haveva posto
+<pb n="185r" facs="09_185r" rend="0"/>
+ne’ suoi conti mille et trenta fiorini; onde potevo ben <lb/>
+comprender, che li signori havevano mira ben a contentar in <lb/>
+qualche parte che stimavano giusta, et propria anco per <lb/>
+non interessar la Serenità vostra; ma non nelle essorbitanze <lb/>
+delle dimande; et però dovevo contentarmi di ciò, che <lb/>
+havevano fatto, replicandomi, che haverebbono sempre <lb/>
+riguardato al servitio di vostra Serenità; et però io dassi ordine <lb/>
+che havessero questo denaro di straordinarii, oltre <lb/>
+quello che senza difficoltà loro appartiene per li viveri <lb/>
+et spese fatte a’ matelotti. In oltre m’aggiunse che <lb/>
+alla vedova del Capitano del vasselo abbrucciato per la <lb/>
+perdita dei viveri fatti in esso, et per altro havevano accon-<lb/>
+sentito in tre milla, et quattrocento fiorini, che tanto per <lb/>
+l’informationi havute havevano stimato importarne <lb/>
+il valsente, et mi ricercorono di dar ordine per il <lb/>
+pagamento anco di questo. Io stando fermo nel mio <lb/>
+primo proposito dissi, che non vedevo di poter accordar <lb/>
+alcuna cosa senza la previa conoscenza della Serenità vostra <lb/>
+dalla quale dovevo aspettar l’ordine, et se così intendeva di haver accordato con essi capitani; et che ’l detto capitolo non <lb/>
+derogasse all’accordato di qua, et all’ordinario uso del <lb/>
+Paese. Et quanto alla vedova, che manco in questo
+<pb n="185v" facs="09_185v" rend="0"/>
+potevo dar parola di assenso senza ch’io non ne dessi conto <lb/>
+alla Serenità vostra et che l’haverei fatto col primo ordinario sentendosi <lb/>
+questo, et che fino alla risposta sarebbono corse quattro <lb/>
+o cinque settimane si procurò ch’io non fraponessi questo <lb/>
+tempo di mezo tanto per la povertà, et miserie della <lb/>
+vedova, et figlioli, che perché gl’altri havessero (senz’aspettare) <lb/>
+la sodisfattione. Io in ogni modo dissi, che mi bisognava <lb/>
+far così. </p>
+<p>Perché veggo che quello, che si fa da un’Amiralità si osserva <lb/>
+anco dalle altre sendomi venuti a trovar hieri quattro di <lb/>
+quelli di Northolandia parlandomi di questi straordinarii <lb/>
+dei capitani,<ptr target="#tn4" n="4"/> altri per li stroppiati, et feriti in servitio di vostra Serenità <lb/>
+che sono però pochi la supplico si compiaccia colla risposta <lb/>
+delle presenti significarmi quello, che doverò fare per <lb/>
+terminar questo benedetto negotio. </p>
+<p>Volevano, et me ne hanno diverse volte fatto motivo questi <lb/>
+signori delle Amiralità perché io li dassi auttorità, promettendomi <lb/>
+di far tutto il meglio per servitio della serenissima Republica; ma io già <lb/>
+mai ho risposo a verso perché tal cosa deve provenir <lb/>
+dalla sola volontà di quell’eccellentissimo Senato. </p>
+<p>Nella capitulatione con li tre capitani è rimessa alla gratia <lb/>
+di vostra Serenità, che per la pretensione de’ danni ricevuti nel
+<pb n="186r" facs="09_186r" rend="0"/>
+combattimento al stretto di Gibilterra di usarli qualche cortesia <lb/>
+o nel licentiarli, o prima, o morendo essi fossero ricono-<lb/>
+sciuti li suoi heredi. Anco di questo mi è stata fatta instanza<ptr target="#tn5" n="5"/> perch’<lb/>
+io dessi questa sodisfattione, ma sendo rimesso a lei, a <lb/>
+lei tocca anco il dicchiarirla. </p>
+<p>Anco la moglie del capitan Jan Janson Vander Linder<ptr target="#tn6" n="6"/> il quale <lb/>
+doppo la morte dell’Amiraglio hebbe carica di haver cura <lb/>
+di tutti li vasselli, mi ha fatto ricercare per l’estraordinario<ptr target="#tn7" n="7"/> <lb/>
+come lo ha havuto esso Kerkoven. Credo bene che si <lb/>
+contenterebbe di haver qualche cosa meno. </p>
+<p>Quattro luocotenenti dei quattro vasselli di Northolandia <lb/>
+doppo esser stati a me non hanno cessato di tormentar <lb/>
+di nuovo li signori di quelle Amiralità per haver tanto quanto <lb/>
+hanno havuto gl’altri dell’altre doi Amiralità, che fra <lb/>
+tutti importerebbe intorno a quattro cento in cinquecento <lb/>
+fiorini per tutto il tempo, se ben li signori sudetti mi dissero <lb/>
+che haverebbono fatto ogni cosa perché si contentassero <lb/>
+della metà. Io non volsi assentir a questo punto, ben <lb/>
+li promisi, che haverei scritto alla Serenità vostra per haverne <lb/>
+la sua volontà. </p>
+<p>Mi ricordorono anco il pagamento dell’artiglierie perse nel <lb/>
+naufraggio della nave Santa Giustina, et io ho loro
+<pb n="186v" facs="09_186v" rend="0"/>
+detto, che non può tardare ad arrivarmi la risposta di quanto <lb/>
+ho scritto in questo proposito. </p>
+<p>Dirò anco riverentemente haver più volte scritto, et ricercato <lb/>
+particolarmente alli illustrissimi signori procuratori all’armamento per la <lb/>
+speditione delli capitani Pach, et Cortlant, et insieme per <lb/>
+haver nota di quei bombardieri, et aiutanti, che levò <lb/>
+esso Pach, che non sono capitati a Venetia; ma mai ho <lb/>
+potuto haver questo avviso. Et dubito, che la lunghezza <lb/>
+del tempo fraposto pregiudichi, et di non poter ricupe-<lb/>
+rar qualche partita da quelli, che hanno fatta <lb/>
+la sicurtà: tuttavia venendo la nota ricercata, et il <lb/>
+senso di vostra Serenità intorno a quello, che nelle mie lettere <lb/>
+dei 16 luglio dell’anno passato scrissi alla Serenità vostra per <lb/>
+haver informatione in questo particolare, tenterò, et <lb/>
+farò ogni mio possibile. Gratie etc. </p>
+<p>Dall’Haya li 16 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="187r" facs="09_187r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="187v" facs="09_187v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi><ptr target="#tn8" n="8"/> <lb/>
+n° 214<ptr target="#tn9" n="9"/> comincia <lb/>
+212<ptr target="#tn10" n="10"/> </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="051">
+<!--
+<p n="187vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 giugno 1620 ricevute li primo luglio </p>
+<p>Haya. n° 214 </p>
+<p>L. SS. R </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "l’articolo" added above the line on "il capitolo" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "l’" added above the line; followed by "questo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "3" corrected above "2."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "2-" corrected above "1-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

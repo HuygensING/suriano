@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.009 date 1617-03-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 52r-v, 55r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">52r-v, 55r-v, 53r-54v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The response by States General to Monthou is sent in attachment. Continuing rumours that from Brussels troops will travel to Milan. One document attached: "Risposta dei Signori Stati al duca di Savoia del 18 marzo 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-21">21 marzo 1617</date>
+            <num>018, 019</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="018">
+<div type="main" facs="main text of letter" n="018">
+<!--<p>21 marzo 1617, L’Aia (cc. 52r-v, 55r-v)</p>-->
+<pb n="052r" facs="04_052r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>havendo il signor di Monthou havuta risposta all’espositione <lb/>
+ch’egli ha fatta a questi signori l’invio tradotta nell’aggiunto <lb/>
+folio alla Serenità vostra ispedendola con persona espressa in Anversa <lb/>
+perché capiti in tempo<ptr target="#tn1" n="1"/> all’ordinario, et resti ella <lb/>
+avvisata di quello possi promettersi sua Altezza da questa parte. <lb/>
+[E]t<ptr target="#tn2" n="2"/> è conforme a quanto con lettere de’ 18 ho riverentemente <lb/>
+scritto, che havevo cavato; et il detto signor di Monthou non <lb/>
+potendo avanzar più nella strettezza del tempo parendo <lb/>
+esser necessitato a non far di meno di non trovarsi alla Dieta <lb/>
+de’ principi dell’Unione, che si doverà far a’ 6 del <lb/>
+venturo, come ho<ptr target="#tn3" n="3"/> scritto, se ne contenta <lb/>
+massime colla speranza, che in particolar da qualcheduno <lb/>
+di questi signori li fu hieri detto, che<ptr target="#tn4" n="4"/> l’intentione <lb/>
+et la volontà era di aiutare, et che andasse pur <lb/>
+a complire, et sollecitar quei principi, perché al <lb/>
+suo ritorno haverebbe erto havuta risposta di <lb/>
+sua sodisfattione. Si parte hoggi per dover trovarsi <lb/>
+ad Heilbrun per la Dieta, et fornita ritornerà qui <lb/>
+immediate. Io di nuovo gli ho offerta l’opera mia <lb/>
+per servitio di sua Altezza, et egli m’ha pregato d’andar <lb/>
+secondo l’opportunità disponendo gli animi nella
+<pb n="052v" facs="04_052v" rend="0"/>
+miglior maniera possibile, et tanto essequirò. </p>
+<p>Di Brusseles si ha, che non ostante il dirsi, che si cargaranno <lb/>
+da trenta carri d’armi per condur a Bada in Svizzeri <lb/>
+per la gente, che va a Milano, et che per detta gente sia <lb/>
+stato spedito un gentilhuomo spagnuolo don Luigi <lb/>
+Davila a quel governatore nondimeno la commune op[i]nione<ptr target="#tn5" n="5"/> <lb/>
+vuole, che quella soldatesca non habbi a partirsi <lb/>
+da questi Paesi Bassi. Gratie etc. </p>
+<p>Dall’Haya a’ 21<ptr target="#tn6" n="6"/> marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="055r" facs="04_055r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="055v" facs="04_055v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="018">
+<!--
+<p n="055vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 marzo 1617 ricevute 5 aprile </p>
+<p>Aia </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="019" corresp="018" source="53r-54v" >
+<div type="main" facs="main text of attachment I" n="019" corresp="018" >
+<!--<p>Allegato I al n. 18 (cc. 53r-54v)</p>-->
+<pb n="053r" facs="04_053r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Risposta al signor di Monthou </p>
+<p>Li Stati Generali de’ Paesi Bassi Uniti havendo sentita, et maturamente essami-<lb/>
+nata la propositione fatta nella loro essemblea per parte dell’alto potentissimo principe et signore il duca di Savoia principe di Piemonte etc. a’ 14 del presente mese di marzo <lb/>
+per il signor di Monthù suo consigliere in virtù della sua lettera credentiale <lb/>
+data dal campo a Masserano all’ultimo dell’anno 1616 et doppo presentata <lb/>
+in scritto et sopra tutto debilamente deliberato, dichiarano, che loro è stato <lb/>
+sopra modo caro d’intender per la detta propositione lo stato presente delli <lb/>
+affari di sua Altezza: et che ha piacciuto a Dio fino al presente felicitar, et <lb/>
+prosperar le sue armi contra le gran forze hostil intraprese, et pretension <lb/>
+del re di Spagna, di che gli rendono gratie et pregano Dio potentissimo <lb/>
+che vogli non solamente continuar all’Altezza sua ogni buon successo nell’avve-<lb/>
+nire ma di più accomplir il resto<ptr target="#tn7" n="7"/> col mezo d’una perfetta vittoria <lb/>
+mentre habbi ancor la guerra a continuare o altremente far che resti <lb/>
+finita, et terminato con un honorevole et sicuro trattato di pace, affineché sua Altezza possi posseder li suo’ paesi in riposo, et li suoi buoni <lb/>
+sudditi; et quanto a quello che tocca l’aiuto et soccorsi richiesto <lb/>
+nella detta propositione sua Altezza ha potuto a sufficienza conoscer <lb/>
+la gran benevolenza et singolarissima affettione de’ detti signori Stati al <lb/>
+mantenimento del suo Stato, et affari contra le violenze et usur-<lb/>
+patione del re di Spagna delle risposte che hanno fatte ad essa <lb/>
+sopra le propositioni che sono state fatte l’anno 1615 per parte <lb/>
+di lei, non desiderando cosa alcuna più che l’occasione et il mezo <lb/>
+per fargliene veder, et sentir gl’effetti: né<ptr target="#tn8" n="8"/> mancarebbono in <lb/>
+conto alcuno se non fosse che essi si trovano al presente in grandissima <lb/>
+apparenza, et minaccia di guerra per le grandi estraordinarie levate <lb/>
+di genti da cavallo et da piedi, che fa il re di Spagna nelli paesi <lb/>
+delli arciduchi di Lieges<ptr target="#tn9" n="9"/>, et altri confini di queste Provincie il che
+<pb n="053v" facs="04_053v" rend="0"/>
+è causa, che necessariamente et per ragione di Stato siano necessitati d’im-<lb/>
+piegar tutto loro potere alla loro propria diffesa, et sicurtà<ptr target="#tn10" n="10"/> <lb/>
+nientedimeno procurano parimente il servitio et soccorso di sua Altezza, con-<lb/>
+tinuando a tenir sempre occupato da questa parte un’armata spagnola <lb/>
+di tre, o quattro mille cavalli, et de vinti in trenta milla pedoni, la quale <lb/>
+il re di Spagna potrebbe senza questo per una gran parte impiegar <lb/>
+contra la medesima Altezza sua, havendo di più li detti signori Stati fatti <lb/>
+sollecitar li re di Francia, et della Gran Bertagna, come parimente li <lb/>
+principi, et città unite di Alemagna che non sopportano tanta carica <lb/>
+quanta esse hanno perché soccorrino mediante sua Altezza per la parte loro a <lb/>
+proportione dell’interesse che hanno respettivamente nell’accrescimento <lb/>
+del re di Spagna non senza speranza di buoni successi, nol con-<lb/>
+tinueranno ancora al medesimo fine, et d’avantaggio non mancaranno <lb/>
+insieme, stante che li deputanti delle Provincie Unite non si trovano autto-<lb/>
+rizati a risolver prontamente sopra il detto aiuto, et soccorso di che sua Altezza <lb/>
+li fa al presente ricercar, di far communicar la detta propositione <lb/>
+del detto signor Monthù a’ lor principali respettivamente con ogni debito <lb/>
+accostumato et necessario per ottener da essi una buona, et fruttuosa <lb/>
+risolutione, secondo che li affari di questo lo potranno in alcuna maniera <lb/>
+permetter, per risolver doppo sopra di essa a contento di sua Altezza pre-<lb/>
+gando li detti signori Stati l’Altezza sua, di voler haver questa <lb/>
+lor benevolenza et buona volontà grata, et creder di certo, che non <lb/>
+mancaranno già mai di farle apparer quanto desiderano compiacerle<ptr target="#tn11" n="11"/> <lb/>
+et favorirla, et parimente contribuir il loro talento con gl’altri re <lb/>
+principi, et republiche interessate contra l’hostil usurpatione, et vio-<lb/>
+lenza de’ Spagnoli a sua legitima difesa et total conservatione. Fatta <lb/>
+nll’Haya nell’assemblea de’ detti signori Stati Generali a’ 18 marzo <lb/>
+1617. </p>
+<p>Per ordine di detti signori Stati etc. </p>
+<pb n="054r" facs="04_054r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="054v" facs="04_054v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "scritto" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "li n" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "r-" corrected above "d-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "-l man" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-s" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ancorché" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-cerle" added above the deleted text.</p></note>
+</div>
+</body>
+</text>
+</TEI>

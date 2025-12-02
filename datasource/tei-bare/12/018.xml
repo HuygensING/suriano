@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.018 date 1623-04-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">018</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 170r-v, 173r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">170r-v, 173r-v, 171r-172v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter reiterating postal arrangements for his letters. Navi, with recommendations of Elizabeth Stuart, Maurice, and Frederick Henry, has left to join army of Christian of Brunswick. He has promised that he will keep them up to date. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-17">17 aprile 1623</date>
+            <num>046, 047</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="046">
+<div type="main" facs="main text of letter" n="046">
+<!--<p>17 aprile 1623, L’Aia (cc. 170r-v, 173r-v)</p>-->
+<pb n="170r" facs="12_170r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 493 seguita n° 490 fin 492 </p>
+<p>inviato </p>
+<p><hi rend="decoded">Serenissimo</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">Principe <lb/>
+</hi></p>
+<p><hi rend="decoded">sotto a piego del signor</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">Noirot</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">ho spedito un pacchetto <lb/>
+diretto alla Serenità vostra con 3 lettere del giorno <lb/>
+d’hoggi segnate n° 490 fin 492 et con esse <lb/>
+la replicata della passata settimana n° <lb/>
+487 fin 489. Et queste se ne vengono per la <lb/>
+mano ordinaria del mastro delle poste di <lb/>
+Colonia. <lb/>
+</hi></p>
+<p>Con questa occasione non lascierò di riverentemente signifi-<lb/>
+carle, che il signor colonello Navi partì venerdì da questo <lb/>
+luoco con lettere della Regina del signor principe Mau-<lb/>
+ritio, et del signor principe Henrico al signor duca di Bran-<lb/>
+svich appresso il quale ha risoluto di andare a fine <lb/>
+di militar in campagna se troverà luoco proprio <lb/>
+per lui, et come mi ha detto per avanzar più di <lb/>
+isperienza nella professione militare per rendersi tanto <lb/>
+più capace al servitio di vostra Serenità egli mi ha detto che <lb/>
+ovunque si troverà non mancarà di avvertirmi <lb/>
+quello che anderà intendendo, et mi ha aggiunto <lb/>
+che sempre, et ad ogni ceno, che vostra Serenità li comman-<lb/>
+derà non mancarà di venir a servirla con <lb/>
+quella carica, et numero di genti, che stimerà <lb/>
+proprio per il proprio servitio di lei in conformità delle
+<pb n="170v" facs="12_170v" rend="0"/>
+offerte che dice haverle più volte riverentemente fatte <lb/>
+col mezo di lettere dell’eccellentissimo ambasciator Gritti, che Dio habbia <lb/>
+in cielo. <hi rend="decoded">Di</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">più mi ha detto, che se sente che Betelem <lb/>
+Gabor si movi da dovero lo vuol certo andar <lb/>
+a trovare, pensando di poter meglio servire <lb/>
+alla causa commune</hi>. Qui ha lasciato buon nome dice <lb/>
+et s’era<ptr target="#tn5" n="5"/> reso amabile a tutta la corte et particolarmente <lb/>
+a questi principi che facevano stima delle sue <lb/>
+buone maniera, et della intelligenza, che mostrava <lb/>
+haver della professione militare. Gratie etc. </p>
+<p>Dall’Haya li 17 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="173r" facs="12_173r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="173v" facs="12_173v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 493 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="046">
+<!--
+<p n="173vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 aprile 623<ptr target="#tn6" n="6"/>. Ricevute 3 maggio </p>
+<p>Haya 4<hi rend="superscript">ta</hi> n° 493 </p>
+<p>Avvisa l’indiriccio<ptr target="#tn7" n="7"/> delle sue <lb/>
+lettere sotto piego del Noirot. </p>
+<p>Dice del Navi partito per <lb/>
+andar a trovar Bransvich, <lb/>
+con dissegno di militar in <lb/>
+campagna; della sua promessa di notificare le occorrenze; della <lb/>
+dispositione di venir a servire <lb/>
+a vostra Serenità ad ogni cenno; et <lb/>
+della sua volontà di andar <lb/>
+appresso Betelem Gabor, quando <lb/>
+si movesse da Ungheria<ptr target="#tn8" n="8"/>. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="047" corresp="046" source="171r-172v" >
+<div type="main" facs="main text of attachment I" n="047" corresp="046" >
+<!--<p>Allegato I al n.46 (cc. 171r-172v; decodifica di c. 170r-v)</p>-->
+<pb n="171r" facs="12_171r" rend="0"/>
+<head>main text of attachment I</head>
+<p>493 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="171v" facs="12_171v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172r" facs="12_172r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172v" facs="12_172v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Ser(enissi)mo … Colonia" decoding of the encrypted text can be found on c. 171r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line on "ve-" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "N-" corrected above "-sc-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Di … commune" decoding of the encrypted text can be found on c. 171r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "b" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "l’ind-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

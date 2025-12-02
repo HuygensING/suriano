@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.090 date 1620-02-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">090</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 477r-482v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp173-189
+            </note>
+            <biblScope unit="page">477r-482v, 483r-484v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>reports that States General have informed him they will send extraordinary ambassador, it is still rumoured to be van aerssen. as a more permanent resident will not be able to leave soon, they want to speed the mission of the extraordinary one. This person, Suriano warns, will plea for help to crown of Bohemia in Venice. Abraham Sixt, a Dutch mercant will handle the loans, he has arived from Pague. He has visited Suriano to request support from Venice as they are fighting the same cause. He also brings news of the deal between Frederick and Gabor. Suriano remarks that Maurice is impressed by Gabor. General collection of money in Antwerp to support the army and confirmation of levies in France on behalf of the emperor. reports that Lieutenant-Colonel John Vere has visited him, discovering that the States and Prince Maurice, hearing of the difficulties about the maintenance of the Dutch troops would willingly have them back here after they have been paid off. Three documents attached: a letter to request pardon for others who just like Vincezo Teyens have been condemned to the galleys, a French translation of a bill for colonel John Vere and a letter from the Antwerp postmaster Roelans</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-02-18">18 febbraio 1620</date>
+            <num>150, 151</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="150">
+<div type="main" facs="main text of letter" n="150">
+<!--<p>18 febbraio 1620, L’Aia (cc. 477r-482v)</p>-->
+<pb n="477r" facs="08_477r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 181 comincia 180 </p>
+<p>Serenissimo Principe </p>
+<p>alla risolutione, che li signori Stati mi fecero communicare, haver <lb/>
+fatta di ispedir l’Ambasciata straordinaria alla Serenità vostra è sussegui-<lb/>
+tata la passata settimana la deputatione di qualche tre <lb/>
+o quattro per la forma dell’instruttione, che doverà <lb/>
+haver l’ambasciatore. La persona però non è dicchiarita <lb/>
+né credo si farà fino al ritorno della risposta di vostra Serenità. <lb/>
+Continua ben l’inclinatione sopra l’Arsen; ma par <lb/>
+ch’egli se ne iscuserebbe volontieri allegando qualche <lb/>
+impedimento che lo detenirebbe per li suoi affari <lb/>
+domestici, et per altre occupationi; ma concorro <lb/>
+nell’opinione di qualcheduno con chi n’ho discorso <lb/>
+ch’egli vorrebbe se non esser pregato, almeno che <lb/>
+gliene fosse fatta instanza a fine di ricever la <lb/>
+carica con più riputatione. </p>
+<p>Per l’ordinaria residenza sia d’ambasciatore o di residente <lb/>
+sendo ultimamente con qualche signori di Gheldria ho <lb/>
+cavato da loro, che li signori Stati tenevano che non <lb/>
+si poteva prometter, che quello che fosse eletto <lb/>
+potesse così tosto partire, come farebbe l’ambasciator <lb/>
+straordinario dovendo provedersi di molte cose, onde <lb/>
+se gli doveva dar tempo, il che non poteva <lb/>
+bastare nel termine dell’ispeditione di detto <lb/>
+estraordinario pensandosi di inviarlo nel tempo di <lb/>
+doi mesi, come ho riverentemente significato alla Serenità vostra
+<pb n="477v" facs="08_477v" rend="0"/>
+nelle mie lettere d’hoggi otto n° 178, che mando replicate <lb/>
+coll’altre n° 179 aggiunte a queste. Sì che l’ambasciata <lb/>
+straordinaria doverà venir sola, et susseguitar poi a suo tempo <lb/>
+il ministro, che doverà far<ptr target="#tn1" n="1"/> la continuata dimora <lb/>
+tanto dall’una, che dall’altra parte. Questo stesso <lb/>
+concetto ho accennato anco nelle<ptr target="#tn2" n="2"/> dette lettere. </p>
+<p>L’accelerar di questa speditione dall’ambasciata<ptr target="#tn3" n="3"/> straordinaria mi <lb/>
+viene detto che sia per maggiormente honorar la Serenità vostra <lb/>
+et attestarle quanto questi signori restino consolati <lb/>
+dell’unione<ptr target="#tn4" n="4"/>; ma ho anco cavato che sia con <lb/>
+altro fine abbracciando l’occasione et il tempo <lb/>
+nella presente congiontura delle cose del mondo. </p>
+<p>Scrissi humilmente a vostra Serenità nelle ultime lettere mie l’ufficio <lb/>
+che quello che venne qui per nome del re di Bohemia <lb/>
+haveva fatto colli signori Stati perché raccommandassero <lb/>
+con affetto gl’interessi del suo patrone, et de’ signori <lb/>
+Bohemi alle Signorie vostre eccellentissime et vedendosi essi signori Stati <lb/>
+un’opportunità così propria ho cavato da buon <lb/>
+luoco (il che conferma quello di che stavo in dubio) <lb/>
+che l’Ambasciatore haverà, oltre il complimento, carico <lb/>
+espresso di far ogni più efficace ufficio, raccomandando <lb/>
+gl’interessi di detto Re; et dello stato di Bohemia. <lb/>
+Et ho anco saputo di più che et a parte, et con lettere <lb/>
+hanno consigliato esso Re a far speditione di ambasciata
+<pb n="478r" facs="08_478r" rend="0"/>
+alla Serenità vostra considerandoli, che vedevano questo esser <lb/>
+di suo debito, mentre poteva dire, che la serenissima Republica <lb/>
+era stata la prima a dargli il titolo di re. </p>
+<p>Hanno li stati di Bohemia accordato con un ricco mercante <lb/>
+di questi paesi il cambio del denaro, che li signori Stati <lb/>
+qui dano per loro assistenza, onde è arrivato qui <lb/>
+ultimamente di Praga per stabilir con l’Eccellenze loro <lb/>
+tal cambio, et questo per haverne tanto più <lb/>
+sicuro, et più pronto l’esborso. Egli è stato a <lb/>
+ritrovarmi, dicendo haver havuta commissione <lb/>
+espressa da signori direttori bohemi del farlo, et pregarmi <lb/>
+di raccommandar le cose loro alla Serenità vostra, et di far <lb/>
+ufficio perché ella si disponesse ad assisterli, nel <lb/>
+che si servì, per persuadermi lo scrivere, di parole <lb/>
+molto efficaci, concludendo esser questa una causa <lb/>
+commune, et che non comportava manco al servitio <lb/>
+di lei l’abandonarla, perché riprendendo vigore la <lb/>
+casa d’Austria, se l’Imperatore mentre era arciduca <lb/>
+haveva intrapreso di travagliar quel serenissimo Domi-<lb/>
+nio,<ptr target="#tn5" n="5"/> invigorito, et auttorizato haverebbe <lb/>
+fatto di peggio, usando altri simili concetti. Io <lb/>
+ringratiando quei signori della dimostratione di stima <lb/>
+che facevano della mia persona come humil ministro <lb/>
+di vostra Serenità inviandomi a salutare; con parole
+<pb n="478v" facs="08_478v" rend="0"/>
+generali m’andai schermendo dell’instanza, facendolo certo <lb/>
+che dalla Serenità vostra sarà desiderata in ogni tempo la <lb/>
+tranquillità, et la conservatione di quei stati,<ptr target="#tn6" n="6"/> che <lb/>
+credevo, ch’essi medesimi havessero veduta<ptr target="#tn7" n="7"/> questa buona <lb/>
+volontà della<ptr target="#tn8" n="8"/> serenissima Republica, et che si potevano <lb/>
+prometter, che colla singolar prudenza sua haverebbe <lb/>
+continuato nella medesima. Replicomi il sudetto mercante <lb/>
+de’ primi concetti colla conclusione di preghiera perch’io <lb/>
+scrivessi a vostra Serenità, et raccommandassi essi Bohemi per <lb/>
+l’estrema (così disse) assistenza di denari poiché altro <lb/>
+non li bisognava. Io dissi, che tanto haverei scritto <lb/>
+quant’egli m’haveva esposto per nome de’ signori Bohemi. </p>
+<p>Sono tre settimane in circa ch’egli è partito di<ptr target="#tn9" n="9"/> Praga <lb/>
+et ha portato qui passar ottima intelligenza, et esser <lb/>
+seguito fermo accordo tra il re di Bohemia, et <lb/>
+Bethelem Gabor, che tra l’uno, et l’altro potevano <lb/>
+metter in campagna sessanta milla combatenti; ma <lb/>
+vi aggiunge un ma, che hanno bisogno di denari. </p>
+<p>Alcuni di questi signori che mostrano intender le cose non <lb/>
+possono fermarsi a dar credito alla detta intelligenza <lb/>
+considerando, che le congionture de’ tempi fanno <lb/>
+veder scritto in fronte ai principi, quello che non hanno <lb/>
+nel<ptr target="#tn10" n="10"/> petto. Meno questi medesimi possono persuadersi <lb/>
+che vi sia sussistenza di gran forze in Bethelem </p>
+<pb n="479r" facs="08_479r" rend="0"/>
+<p>Gabor chiamandolo<ptr target="#tn11" n="11"/> semplice principe di Transilvania, che non ha gran <lb/>
+cosa da spender, et non sano se, send’egli tributario del signor <lb/>
+Turco, se gli possi prestar tutto il credito. Amandosi <lb/>
+qui la conservatione del Re, et Stati di Bohemia <lb/>
+si va caminando con questi concetti di dubio, et di timore. <lb/>
+Tuttavia resta il signor Principe sin qua impresso altrimenti di <lb/>
+esso Gabor. </p>
+<p>Non cessano li signori Stati, né cesseranno di far ufficii da per tutto <lb/>
+per servitio de’ Bohemi, et questi ultimi giorni hanno <lb/>
+replicati gl’ufficii con loro lettere alle città ansiatiche <lb/>
+perché anc’elle si risolvino di contribuir per l’Ale-<lb/>
+magna perché et Bohemi, et li principi dell’Unione <lb/>
+possino far testa a Spagnoli, et alla casa d’Austria in <lb/>
+generale. </p>
+<p>Se bene qui<ptr target="#tn12" n="12"/> conoscono, et par loro non poter creder altrimenti, <lb/>
+che li Spagnoli non siano per tentar alcuna cosa <lb/>
+da questa parte sendo troppo occupati per li <lb/>
+affari di Alemagna; in ogni modo hanno spedito <lb/>
+alle piazze frontiere per proveder ai mancamenti <lb/>
+che vi fossero tanto nelle fortificationi, che nelle stesse <lb/>
+piazze, inviando da vinticinque pezzi di artiglieria <lb/>
+per distribuirla in diverse parti. Questa è stata fabricata in <lb/>
+quest’<ptr target="#tn13" n="13"/> Haya, altrove anco se n’è gettata <lb/>
+per lo stesso effetto in buona quantità. </p>
+<pb n="479v" facs="08_479v" rend="0"/>
+<p>Sono questi signori avvisati, che li serenissimi arciduchi siano per <lb/>
+far una mostra generale di tutte le sue genti; et signori arciduchi <lb/>
+hanno ultimamente fatto sparger cose, che voglino far <lb/>
+doi corpi d’armata in questi paesi l’uno per andarsi <lb/>
+a gettar con altro soccorso dentro il Palatinato; et <lb/>
+l’altro verso Giuliers, et qui si crede che queste <lb/>
+appunto siano voci. </p>
+<p>Il vero è, che si vanno continuando a far colette a casa <lb/>
+per casa tanto in Anversa, che in altre città di quell’<lb/>
+Altezze, et pensano di tirar così una gran summa <lb/>
+di denari. Et par che li soli jesuiti<ptr target="#tn14" n="14"/> nei stati dell’<lb/>
+Altezze loro promettino dieci milla filippi per mese <lb/>
+così sono avvisati li signori Stati. </p>
+<p>È stata confirmata la levata di genti che si fa in Francia <lb/>
+per l’Imperatore, et è fatta da un Reingraft, et hanno qui <lb/>
+avvisi, che fano entrar in suspitione che sia con <lb/>
+denari del Re; come anco dubitano di quello che <lb/>
+doverà seguir delle genti, che si levano per mandar <lb/>
+in Sciampagna, temendo che ’l pretesto sia per <lb/>
+Metz, et che l’effetto le porti a calar a parte <lb/>
+a parte a congiongersi con altre che si levano in <lb/>
+Lorena. Monsignor di Murier nondimeno sostenta <lb/>
+lo stesso che la Francia non porterà soccorso all’Alemagna <lb/>
+m’è parso però che parli un poco freddamente ma vostra Serenità
+<pb n="480r" facs="08_480r" rend="0"/>
+deve haver avvisi dal proprio luoco per farne<ptr target="#tn15" n="15"/> <lb/>
+consiquenza più certa. </p>
+<p>Li signori Stati doppo haver ben consultato se per le pretensioni de’ <lb/>
+loro mercanti contro il re di Spagna per danni ricevuti <lb/>
+in arresto di navi, et mercantie doppo la tregua, <lb/>
+dovessero inviar ai serenissimi arciduchi persona espressa <lb/>
+hanno stimato bene non farlo, pensando che mandando <lb/>
+soggetto di qualità non sendo trattato come si doveva <lb/>
+sarebbe stata una disreputatione; se altro d’inferior <lb/>
+conditioni erano sicuri, che non sarebbe stato stimato punto <lb/>
+onde hanno stabilito di mandar lettere, come han fatto <lb/>
+per un loro messaggiero con ogni chiarezza de’ danni che <lb/>
+importano alla summa di novecentomilla scudi <lb/>
+d’oro dicono liquidi, et chiari dando ordine al detto <lb/>
+messaggiero di attender otto giorni a Brusseles per <lb/>
+la risposta, et non l’havendo se ne ritorni; et a serenissimi <lb/>
+arciduchi limitano tempo di quattro mesi a fine <lb/>
+di dar commodità che se vogliono possino scriver in <lb/>
+Spagna per il risarcimento; altrimenti non venendo nello <lb/>
+detto spatio risposta haverebbono poi consultato <lb/>
+quello che allhora dovessero fare per l’indemnità de’ <lb/>
+suoi sudditi. Questa è la sostanza delle lettere. </p>
+<p>Mi resta dir riverentemente alla Serenità vostra, che sendo stato più <lb/>
+volte a mia visita il luocotenente colonello Gioan Ver
+<pb n="480v" facs="08_480v" rend="0"/>
+del reggimento del signor di Rocalaura venuto qui con licenza <lb/>
+ho ultimamente cavato da lui, che li signori Stati, et il signor prin-<lb/>
+cipe Mauritio sendo avvisati delle difficoltà che passano <lb/>
+di là per l’intrattenimento delle truppe di questi paesi, quando <lb/>
+fossero licentiate, vorrebbono volontieri haverle di qua <lb/>
+per la buona qualità loro; ma che sua Eccellenza in particolare <lb/>
+ha scritto al signor di Rocalaura, et fatto scriver anco per <lb/>
+altra mano, che se possono si accomodino al servitio <lb/>
+di quella serenissima Republica. Altrimenti credeva esso Ver, che <lb/>
+questi signori li haverebbono fatti imbarcar, et venir per la <lb/>
+via di mare: in che mi aggiunse, che lo haverebbono<ptr target="#tn16" n="16"/> fatto<ptr target="#tn17" n="17"/> perché <lb/>
+per terra non era possibile altrimenti se non che capitassero <lb/>
+in mano della casa d’Austria; et il medesimo Ver considerò <lb/>
+che dubitava, che si<ptr target="#tn18" n="18"/> haverebbe havuta gran difficoltà <lb/>
+per farle imbarcar a far si lungo viaggio. Mi disse di <lb/>
+una differenza che vi era del rolarle a polo<ptr target="#tn19" n="19"/> et segno <lb/>
+et che questo non era possibile con natione straniera <lb/>
+perché in brevissimo spatio di tempo si sarrebbono disfatte <lb/>
+le compagnie. Io ho voluto prender qualche informa-<lb/>
+tione, et ho trovato, che qui non è questa praticha <lb/>
+massime con li forastieri, et sono assicurato che <lb/>
+non si fa manco questa diligenza con le genti del Paese. <lb/>
+Altre volte si è fatto, ma hanno veduto li signori Stati non <lb/>
+riuscirgli, ben hanno li commissarii di nostre altre
+<pb n="481r" facs="08_481r" rend="0"/>
+inventioni per non esser ingannato: et tutto sta in questo <lb/>
+ch’essi commissarii siano huomini sinceri, et reali al <lb/>
+servitio del suo Principe; et purché si possi assicurar <lb/>
+che ’l Capitano rimetti in piazza de’ morti, de’ fuggiti <lb/>
+o di chi si licentia altri soldati buoni, tanto deve servire <lb/>
+a profitto del Principe così mi aggiunse il Ver. Et parmi <lb/>
+che ordinariamente si osservi così in questi paesi; et lo <lb/>
+veggo ben io qui nella compagnia delle guardie di <lb/>
+sua Eccellenza. Se vostra Serenità mi commanderà alcuna cosa per infor-<lb/>
+matione in questo proposito non mancarò di cavarla <lb/>
+et in tanto di quello potrò havere lo notificarò <lb/>
+colla mia solita devotione alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 18 febraro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="481v" facs="08_481v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="482r" facs="08_482r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="482v" facs="08_482v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 181 comincia <lb/>
+180 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="150">
+<!--
+<p n="482vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 febraro 1619 ricevute 4 marzo 1620 </p>
+<p>Aia numero 181 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="151" corresp="150" source="483r-484v" >
+<div type="main" facs="main text of attachment I" n="151" corresp="150" >
+<!--<p>Allegato I al n. 150 (cc. 483r-484v)</p>-->
+<pb n="483r" facs="08_483r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Serenissimo Principe </p>
+<p>sotto li 21 novembre dell’anno passato mi commandò la <lb/>
+Serenità vostra di far sapere alli signori Stati di Frisia la libertà <lb/>
+che a lor gratificatione haveva diliberata far dare a <lb/>
+Cant Ales, over Vincenzo Teyens condannato al remo <lb/>
+nella galea del illustrissimo signor Gio. Cabriel Contarini; raccommandato <lb/>
+anco dal signor conte Guglielmo di Nassau. Hora sendoci <lb/>
+avviso, che tuttavia la gratia fatta dalla Serenità vostra fin <lb/>
+d’allhora resta senza essecutione, come governator di <lb/>
+Frisia, et per reiterate instanze del vecchio padre <lb/>
+di detto<ptr target="#tn20" n="20"/> Vincenzo m’ha instantemente pregato di <lb/>
+aggiunger nuovo ufficio, perché la buona mente <lb/>
+della Serenità vostra habbi la sua intera essecutione <lb/>
+et accompagnar le lettere, che anc’egli m’ha detto <lb/>
+di scriver in questo proposito; come anco di <lb/>
+accumular la sua obligatione col commandar <lb/>
+la liberatione di quelli, che parimente condannati <lb/>
+alla galea, sono stati compagni nell’infortunio <lb/>
+del detto Vincenzo. La dimostratione di devoto <lb/>
+affetto di questo signore verso quella serenissima Republica <lb/>
+merita qualche dimostratione della benevolenza<ptr target="#tn21" n="21"/> <lb/>
+sua verso di lui, il che si promette, et col mezo mio <lb/>
+la supplica di questa gratia. Gratie etc. </p>
+<p>Dall’Haya li 18 febraro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="483v" facs="08_483v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="484r" facs="08_484r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="484v" facs="08_484v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment I" n="151" corresp="150" >
+<!--
+<p n="484vC">———</p>
+-->
+<head>secretarial text of attachment I</head>
+<p>18 febraro 1619 more veneto ricevute a’ 30 aprile 1620 </p>
+<p>Haya secretario Surian </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue altre depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Esito di correzione."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ell corretto su -i; segue questa depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue et depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-a esito di correzione."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Precede lettera depennata."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue -a depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Segue d depennata."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue miglior depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Così A."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "de- corretto su lui."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.068 date 1619-12-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">068</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 356r-357v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">356r-357v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>No letters due to the delay of courier from Italy. He has given letters of exchange of 20000 ducats, with 15000 payable to Noirott. He will need more money when the ships return and requests instructions on what to do with payment to three bombers recruted by Pach. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-17">17 dicembre 1619</date>
+            <num>118</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="118">
+<div type="main" facs="main text of letter" n="118">
+<!--<p>17 dicembre 1619, L’Aia (cc. 356r-357v)</p>-->
+<pb n="356r" facs="08_356r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 159 comincia 158 </p>
+<p>Serenissimo Principe </p>
+<p>non era ancor giovedì passato arrivato in Anversa l’ordinario d’<lb/>
+Italia: onde sino a quest’hora mi trovo senza lettere della Serenità vostra <lb/>
+né credo di haverle, che questa sera, o domani. Le sto aspettando <lb/>
+con desiderio per intender il certo della partenza dei sette <lb/>
+restanti vasselli, et del quando per poter calcolar presso <lb/>
+poco il tempo; et tenermi provisto per il loro arrivo a fine <lb/>
+di sodisfar et al servitio di vostra Serenità, et alle genti. </p>
+<p>Per il pagamento delli restanti roli ai compartecipi delle <lb/>
+prime cinque navi starò attendendo risposta di quello, <lb/>
+che riverentissimamente le scrissi con mie delli tre delle quali <lb/>
+mandai la replicata con le seguenti dei x et queste vengono <lb/>
+pur in replica con le presenti. In tanto non mi lasciano <lb/>
+di tenir solecitato, et instato per haver sodisfattione. Io col <lb/>
+pretesto di non haver havuto ancor le lettere di questa <lb/>
+settimana ho portato innanti: tuttavia non potrò fuggir <lb/>
+di non pagar almeno li doi mesi, che le scrissi hoggi otto; <lb/>
+mentre<ptr target="#tn1" n="1"/> veggo, che la Serenità vostra non può perder, parmi di non <lb/>
+dover metter difficoltà in dar questa sodisfattione. </p>
+<p>Alli signori Latfeur, Calandrini, et Vandermeulen ho date lettere <lb/>
+di cambio di altri vintimilla ducati sotto li 15 pagabili al signor <lb/>
+Noirutt, et verranno con quest’ordinario. Per il pagamento <lb/>
+di quanto è l’importar de’ roli, viveri, et salarii delle <lb/>
+cinque navi si potrà calcular quello, che anderà per <lb/>
+le sette, et anderò trazendo alla Serenità vostra la somma, che
+<pb n="356v" facs="08_356v" rend="0"/>
+importerà. La prontezza del denaro è qui necessaria <lb/>
+particolarmente per contentar li matelotti, et li compartecipi <lb/>
+dei vasselli; et quanto ai viveri si può portar avanti, <lb/>
+dovendosi far di essi la liquidatione previsa sopra il debito <lb/>
+dei capitani, et sopra l’avanzo. In che haverò ogni <lb/>
+risguardo che questi signori mirino in tutto al vantaggio <lb/>
+della Serenità vostra. </p>
+<p>Io sono stato sempre attendendo, che col ritorno a Venetia del <lb/>
+capitan Pach mi fosse avvertito da lei, o dagl’illustrissimi signori <lb/>
+procuratori all’armar quanti de’ bombardieri levati di qua <lb/>
+fossero arrivati di<ptr target="#tn2" n="2"/> là a fine di tentar la ricuperatione <lb/>
+del denaro per quelli, che non fosser pervenuti con esser <lb/>
+avvisato delli nomi loro. Aspettavo anco la volontà <lb/>
+di lei per governarmi al magistrato di Roterdam <lb/>
+per quello, che occorse con esso al Pach come le noti-<lb/>
+ficai con le mie de’ 16 luglio passato: onde si compiacerà <lb/>
+far vedere dette lettere, et significarmi il suo senso <lb/>
+a fine di tentar se sarà possibile la ricuperatione del <lb/>
+denaro dalla pieggieria per quei tre bombardieri, che esso <lb/>
+Pach fece metter prigioni, et furono liberati poi dal detto <lb/>
+magistrato, et per altri; et se deverò in questo proposito <lb/>
+far capo<ptr target="#tn3" n="3"/> alli signori Stati Generali, come nelle medesime lettere la ricercavo <lb/>
+della stessa instruttione. Gratie etc. </p>
+<p>Dall’Haya li 17 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="357r" facs="08_357r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="357v" facs="08_357v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 159 comincia 158 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="118">
+<!--
+<p n="357vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 decembre 1619 ricevute a’ 2 gennaro </p>
+<p>Haia. n° 159 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "m- corretta su M-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "far capo aggiunto in sopralinea con segno di inserimento."</p></note>
+</div>
+</body>
+</text>
+</TEI>

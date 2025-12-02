@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.042 date 1620-07-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">042</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 227r-230v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp323-342
+            </note>
+            <biblScope unit="page">227r-230v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The merchants have presented a new petition to the states for arming vessels to protect trade. Carleton informs that James I will contribute to such an endeavour, by arming six Royal ships and others by merchant. They hope the ships will act against the Pirates, but also alarm the Spanish at the end of the Truce. More news from Brussels about troops and speculation about the intentions of Spinola and the Spanish army as well as news of agreement between Catholics and protestants in the holy Roman Empire. News about new rebellion against French king causes displeasement, arrival of a French nobleman who has visited Maurice. Amstenraedt has arrived and visited Suriano. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-21">21 luglio 1620</date>
+            <num>065</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="065">
+<div type="main" facs="main text of letter" n="065">
+<!--<p>21 luglio 1620, L’Aia (cc. 227r-230v)</p>-->
+<pb n="227r" facs="09_227r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 225 comincia 224 </p>
+<p>Serenissimo Principe </p>
+<p>li signori Stati hanno alla nuova solecitatione de’ mercanti <lb/>
+chiamati qui deputati delle Amiralità tutte per <lb/>
+consultar sopra l’armar di qualche vasselli per <lb/>
+sicurezza della navigatione. L’ambasciator di sua maestà <lb/>
+della Gran Bertagna assicura che in quel Regno <lb/>
+si armano sei vasselli proprii del Re a sua spese, <lb/>
+et altri quattordici saranno armati dai mercanti <lb/>
+a fine di far dal canto loro tutto quello si potrà <lb/>
+per atterir li corsari, scacciarli dal Mediteraneo, <lb/>
+et incontrandoli batterli vivamente. </p>
+<p>Vi è qui pensiero che questa nuova armata de’ vasselli <lb/>
+faccia doi effetti di metter freno a’ pirati, et estir-<lb/>
+parli se potranno, et dar gelosia a’ Spagnuoli <lb/>
+nel fine di queste tregue; et tanto più uscendo <lb/>
+uniti li vasselli d’Inghilterra. </p>
+<p>In Fiandra questi giorni passati coll’avviso dell’armar <lb/>
+de’ detti vasselli, et della levata, che fu dalla fama <lb/>
+portata arrivar a più dei seimilla fanti; che <lb/>
+questa già in ordine era per passar all’Esclusa <lb/>
+et di là tirar in quella Provincia, si diede l’alar-<lb/>
+ma tra quei popoli in maniera, che più di <lb/>
+cinquecento carri furono veduti marchiar con <lb/>
+utensilii<ptr target="#tn1" n="1"/> li migliori verso le città murate dubi-<lb/>
+tando haver già il soldato alla rapina. </p>
+<p>Si sta attendendo di giorno in giorno, che la detta <lb/>
+levata passi per far il viaggio scritto per andarsi <lb/>
+ad unir coi principi protestanti di Alemagna. </p>
+<p>Sua Eccellenza ha avuto avviso, che detti principi si siano
+<pb n="227v" facs="09_227v" rend="0"/>
+accordati con li catholici, et altri della lega, et arcivescovi <lb/>
+elettori, che niun’invasione fatta nell’Ale-<lb/>
+magna et particolarmente nei duoi Palatinati; ma che <lb/>
+tutti staranno nel suo dovere, senza usar hostilità <lb/>
+alcuna lasciando dall’altro canto, che si disputi <lb/>
+tra l’Imperatore, et il re di Bohemia; onde resta <lb/>
+tacitamente permesso ad ognuno il soccorrer quella <lb/>
+parte che più aggradirà. Questo accommodamento è <lb/>
+stato avanzato dall’ambasciatori francesi. Et scrive <lb/>
+il marchese d’Anspache, che li principi uniti, ancor-<lb/>
+ché si siano accorti, che qui sotto vi sia la furba<ptr target="#tn2" n="2"/> <lb/>
+hanno però stimato bene abbracciar il partito <lb/>
+a fine di haver modo di ostare all’armi dello <lb/>
+Spinola. </p>
+<p>Viene stimata qui tal risolutione avantagiosa <lb/>
+per l’Imperatore perché tutte l’arme di Alsatia, di Ba-<lb/>
+viera; et dei principi ecclesiastici et altre, che havevano <lb/>
+assai che fare a tener in gelosia quelli<ptr target="#tn3" n="3"/> dell’<lb/>
+Unione hora potranno in parte o tutte tornarsi <lb/>
+in aiuto dell’Imperatore a pregiudicio dei Bohemi <lb/>
+mente li principi dell’Unione non potranno muo-<lb/>
+versi per andar in soccorso di essi Bohemi <lb/>
+per la necessità, che haveranno di star a veder <lb/>
+quello, che farà lo Spinola, et per dove vorrà <lb/>
+marchiare a fine di opporsi a qualche tentativo <lb/>
+pregiudiciale tanto al Palatinato, che al resto <lb/>
+loro attinente nell’Alemagna. Già s’intende <lb/>
+ch’essi principi col campo da Ulma pensavano
+<pb n="228r" facs="09_228r" rend="0"/>
+ridursi a Oppenheim vicino a Magonza per chiuder <lb/>
+il passo allo Spinola, per dove li sarebbe interdetto <lb/>
+tirar a Francofort conforme al disegno publicato. </p>
+<p>Già la Serenità vostra haverà intesa la risposta generale<ptr target="#tn4" n="4"/> <lb/>
+che ’l serenissimo Alberto ha data all’agente d’Inghilterra <lb/>
+sopra che questo signor ambasciatore Carleton fa poco buon <lb/>
+giudicio, et pensa, che sua Maestà non lascierà, che sia <lb/>
+fatto pregiudicio al suo genero nel Palatinato. </p>
+<p>Questi signori, et il signor principe di Oranges hanno avviso, che <lb/>
+il marchese Spinola non marchierà, che verso la <lb/>
+metà del venturo, tuttavia altri credono altrimenti <lb/>
+et altri avvisi corrono, che accordato col General <lb/>
+della cavallaria doverà haver quattro compagnie <lb/>
+di essa delle vecchie; et che ’l medesimo Marchese si <lb/>
+incaminerà al suo viaggio non ancor sicuro se ben <lb/>
+tutti dicono per Alemagna; ma anco le città <lb/>
+ansiatiche, et Embden sono in Alemagna. Di più <lb/>
+si scrive, che il sudetto General della cavallaria <lb/>
+con dodici milla fanti, et millecinquecento cavalli <lb/>
+si ridurrà tra Duceldorp, et Wesel, et <lb/>
+Munster a fine di guardar quei paesi perché la<ptr target="#tn5" n="5"/> <lb/>
+militia di questi signori, et Inglesi non vadino a <lb/>
+soccorrer o il Palatinato, o il Palatino. </p>
+<p>Qui si sta attendendo la mossa, né altro si desidera <lb/>
+o tenta, che saper l’intentione de’ Spagnuoli; <lb/>
+et ancorché venga scritto, che li principi di <lb/>
+Alemagna habbino fatto saper al Marchese, <lb/>
+che può lasciar di venir al Palatinato: in ogni modo
+<pb n="228v" facs="09_228v" rend="0"/>
+si dice che la riputatione di lui, et de’ signori Spagnoli non comporti <lb/>
+ch’egli s’arresti, et che però caminarà avanti. </p>
+<p>Havendo il Commissario general de’ viveri dell’armata <lb/>
+dello Spinola fatta banca rotta è ricorso da questa <lb/>
+parte, et ha havuto salvocondotto. Riferisce, che <lb/>
+esso Spinola è risoluto di marchiare; et ch’egli <lb/>
+haveva, commissione di proveder per 14 mesi per <lb/>
+Alemagna, così stava la sua patente. </p>
+<p>Qui risentono questi signori grandemente li travagli della Francia <lb/>
+non sapendo il fine che possino havere, sentendo <lb/>
+il partito troppo esser formato grande contro il Re. <lb/>
+Di qua è passato monsignor di San Luc cavallier <lb/>
+dell’ordine. Arrivato<ptr target="#tn6" n="6"/> sabbato sera <lb/>
+fu domenica mattina a veder il signor principe <lb/>
+d’Oranges accompagnato dall’ambasciator di Francia <lb/>
+che non solo nella propria casa, ma nella carrozza <lb/>
+et nell’entrar, et uscir da sua Eccellenza gli diede <lb/>
+il luoco, il che è stato notato, non sapendosi for-<lb/>
+marne vero giudicio. Partì hiersera verso Zelanda <lb/>
+per imbarcarsi, et passar a<ptr target="#tn7" n="7"/> Bruai suo governo. <lb/>
+Il gran torno che ha fatto di uscir di Parigi per <lb/>
+passar di qua, et andar a Bruai dà da pensar <lb/>
+dell’intentione del detto Cavalliere. Et l’ambasciator di <lb/>
+Francia questa mattina ha mandato a me per <lb/>
+informarsi di<ptr target="#tn8" n="8"/> qual maniera ho<ptr target="#tn9" n="9"/> fatti li noleggi <lb/>
+dei dodici vasselli, et dell’altro. Facendomi <lb/>
+dire, che lo ricercava per qualche commandamento che <lb/>
+gli potesse esser dato; mostrando temere,
+<pb n="229r" facs="09_229r" rend="0"/>
+o che la corte temi, che la Rocella armi, et<ptr target="#tn10" n="10"/> <lb/>
+si possi bandar contra il Re. </p>
+<p>È arrivato all’Haya il colonnello Amstenraedt domenica <lb/>
+fu subio a vedermi, anc’hoggi l’ha fatto, <lb/>
+dandomi segno nell’uno, et nell’altro congresso <lb/>
+et sendo stato io a lui, che si vuol conservar <lb/>
+devotissimo servitore a quella serenissima Republica. <lb/>
+Dice d’esser contento di lei tanto delli honori <lb/>
+ricevuti, che della pensione, che gli è stata <lb/>
+assignata; et m’assicurò che per il vero, et per <lb/>
+la riputatione sua non potrà dir mai altri-<lb/>
+menti. Gratie etc. </p>
+<p>Dall’Haya li 21 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="229v" facs="09_229v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="230r" facs="09_230r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="230v" facs="09_230v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 225 comincia <lb/>
+224 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="065">
+<!--
+<p n="230vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 luglio 1620 ricevute a’ 5 agosto </p>
+<p>Haya. n° 224 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "q-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "g-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "perché la" added above the line on "a fine" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction; followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

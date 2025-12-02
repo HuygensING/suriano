@@ -158,8 +158,9 @@ Technical information on the actual deployment is in our
 The source data and the TEI that we derived from it, and more, is available in directory
 `/datasource` in this repo.
 This does not include the original high resolution scans, since they are not
-available as a downloadable package. These scans are at SurfDrive, but not
-accessible via a public link. If you are interested in these scans, contact Nina Lamal.
+available as a downloadable package. These scans are at
+[SurfDrive, accessible, but not publicly]().
+If you are interested in these scans, contact Nina Lamal.
 
 Note that (very) low resolution versions of these scans are provided in this repo:
 [thumb](thumb).

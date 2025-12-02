@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.083 date 1621-12-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">083</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 424r-426v, 429r-431v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">424r-426v, 429r-431v, 427r-428v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>It continues to be extremely cold, prince Henry has returned from Nijmegen, but Spinola continues to be out in the field. William of Nassau has visited him as well as a German captain Hornet to offer his services to the Venetian Republic. Lack of money in the Dutch Republic to pay troops, causes a lot of problems with creditors. Confirmation that Christian the Younger has taken Amöneburg. Nethersole is travelling to England to secure support for Frederick, who might travel to Denmark. Reports that visited Maurice, who fears that James I might not continue his support as he had heard that the king was enraged with parliament after the remonstrance being presented to him. Acknowledges receipt of letters 3 December and is pleased to hear that Morosini has been elected as ambassador to replace him, awaits confirmation to communicate this to States General. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-12-27">27 dicembre 1621</date>
+            <num>136, 137</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="136">
+<div type="main" facs="main text of letter" n="136">
+<!--<p>27 dicembre 1621, L’Aia (cc. 424r-426v, 429r-431v)</p>-->
+<pb n="424r" facs="10_424r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 356 sola </p>
+<p>Serenissimo Principe </p>
+<p>il giorno seguente alla speditione del mio ultimo dispaccio colla <lb/>
+lettera sola n° 355 (replicata colle presenti) arrivò nell’Haya il signor <lb/>
+principe Henrico parendo, che a Nimeghen non fosse bisogno <lb/>
+della persona sua; mentre la stagione si andava sempre più <lb/>
+avanzando al rigor del freddo. In ogni modo il mar-<lb/>
+chese Spinola non ha ancor mutata piazza, et si trattiene <lb/>
+intorno la contea di Meurs, et viene confermato il fine <lb/>
+suo esser di non abandonar quei contorni finché Giuliers <lb/>
+non cadi. Doppo la venuta qui del detto principe <lb/>
+Henrico ha cominciato a gelare, et ogni dì il giaccio <lb/>
+si fa più forte; onde continuando si tiene per fermo, che <lb/>
+sarà necessitato il detto Principe tornar a Nimeghen; <lb/>
+et gl’altri capitani tanto d’infanteria, che di cavallaria <lb/>
+passeranno ai posti situati alle riviere per guardarle; po-<lb/>
+tendo facilmente l’inimico surpender o nell’Isel, o altro-<lb/>
+ve colla commodità del gelo. Intanto si è saputo certo <lb/>
+che ’l Marchese doppo buoni giorni habbi continuato a <lb/>
+far portar dentro a Reinberch gran quantità di fieni <lb/>
+di paglie, et di biade, volendo esser provisto in quella <lb/>
+parte per la cavallaria in particolare a primo tempo. </p>
+<p>Viene detto, ch’esso Spinola habbi a molti dato passa-<lb/>
+porto con obligo di tornar a primo tempo; ma senza <lb/>
+dar però alcuna paga. </p>
+<pb n="424v" facs="10_424v" rend="0"/>
+<p>Doppo varie consulte, et dispute sopra il ridursi a minor <lb/>
+numero da questa parte le compagnie d’infanteria per la <lb/>
+presente vernata a fine di sgravarsi dalle spese<ptr target="#tn1" n="1"/> <lb/>
+finalmente fu stabilito venerdì passato, che le undici com-<lb/>
+pagnie alemane levate già cinque mesi in Palatinato siano <lb/>
+ridotte dalli trecento fanti a centocinquanta l’una con <lb/>
+libertà a’ licentiati di rimettersi in altre compagnie <lb/>
+che sono difettive del suo compito numero. Il tempo di dette <lb/>
+compagnie spirerà tra li tre, et 20 del venturo. In questo <lb/>
+mentre li capitanti risentono gravemente di questa risolutione. </p>
+<p>Il conte Guglielmo di Nassau, ch’è stato al servitio di vostra Serenità non have-<lb/>
+rebbe voluto, che seguisse questa riformatione perché si pro-<lb/>
+metteva haver egli la condotta di questo reggimento <lb/>
+che in ogni modo ancorché diminuito della metà si contenta <lb/>
+di haverne ad esser il capo. Col consiglio del signor prin-<lb/>
+cipe Mauritio, et colla sua assistenza ha stabilito esso <lb/>
+conte Guglielmo di venir a far sede permanente in <lb/>
+queste Provincie; et è partito per Alemagna a levar <lb/>
+la moglie per condurla di qua. Lo visitai, et egli anco <lb/>
+fu a vedermi, et per mantener affettionato lui, <lb/>
+et la casa alla devotione di vostra Serenità prima del suo partir <lb/>
+lo convitai col fratello a desinar in questa casa della Serenità vostra. </p>
+<p>Vi fu anco insieme il capitano Hornech alemano, che ha una
+<pb n="425r" facs="10_425r" rend="0"/>
+compagnia qui pur di 300 fanti; che sarà anc’ella <lb/>
+ridotta alli 150 et egli, spirando il tempo della licenza, che <lb/>
+vostra Serenità gli ha prolungata di quattro mesi è partito tre, o <lb/>
+quattro giorni sono per venir a’ piedi della Serenità vostra mostrando <lb/>
+desiderio di più tosto impiegarsi costì occorrendo nel suo servitio. </p>
+<p>Si trovano questi signori estremamente essausti di denari; né in alcuna <lb/>
+cosa si sono risoluti nanti le feste li deputati di Ho-<lb/>
+landa; ma andati cadauni alle case loro per li tre del <lb/>
+venturo doveranno ritornare per stabilire la necessaria <lb/>
+provisione ricercata, et consultata dal Consiglio di Stato <lb/>
+per sodisfar alle spese della guerra l’anno venturo; et a <lb/>
+quelle, che restano a pagarsi per la passata campagna. </p>
+<p>Vanno queste militie creditori di molte paghe tanto dalla gene-<lb/>
+ralità, che dalle particolari provincie sotto la cui distributione <lb/>
+elle sono. Strillano i Fiaminghi, gl’Inglesi molto più; et <lb/>
+anco li Francesi si dogliono; et li capitani de’ reggimenti di <lb/>
+cadauna Natione a parte hanno fatti li loro compianti <lb/>
+al signor principe Mauritio; asserendo non poter resister <lb/>
+all’interesse, che sono necessitati pagare per trovar denari <lb/>
+per intertenir le compagnie. Sua Eccellenza li ha con buone <lb/>
+parole acquetati, et data speranza, che saranno presto <lb/>
+sodisfatti: Francesi in particolare dicono Frisia avanzarsi <lb/>
+quattordici mesi, Grunighen undici, Ovrisel nove, Holanda
+<pb n="425v" facs="10_425v" rend="0"/>
+novantatré milla fiorini per doi mesi per li quali l’interesse ascende <lb/>
+a tre milla, et doicento fiorini. </p>
+<p>Con tutto ciò li signori Stati a poco tempo doveranno levar ancora dieci <lb/>
+milla fanti per dar miglior forma al suo essercito, mentre Spa-<lb/>
+gnuoli faranno anc’essi lo stesso; et già pian piano vanno fa-<lb/>
+cendo qualche levata. </p>
+<p>È venuto avviso, che quelli di Bolduch genti delli Spagnuoli hab-<lb/>
+bino nella riviera vicina surpresa una naveta da guerra ha-<lb/>
+vendo ammazzatti tutti li marinari. Sono quei soldati in <lb/>
+opportuno posto per far spesso delle hostilità. </p>
+<p>È arrivato uno espressamente mandato dal giovane duca di <lb/>
+Bransvich a dar parte a questa Maestà della presa fatta <lb/>
+di Amenenburch, et d’haver egli fatto prestar l’homaggio <lb/>
+di fedeltà al nome di questo<ptr target="#tn2" n="2"/> Re. Si teneva detto Duca in cam-<lb/>
+pagna, et già s’intendeva haver egli aggiunti 500 <lb/>
+cavalli alli primi 1500 che haveva, et faceva pensiero <lb/>
+haverne ancor mille, et tre milla fanti, che già haveva <lb/>
+esborsati cento milla raistaleri né da questo Re haveva <lb/>
+havuto, che la sola prima paga per la levata, il resto spendeva<ptr target="#tn3" n="3"/> <lb/>
+egli del suo. A detto Duca il lantgrave Lodovico di <lb/>
+Armenstat ha scritte lettere particolari a nome anco dell’<lb/>
+Imperatore amonendolo di lasciar l’impresa di favorir li ribelli <lb/>
+di sua Maestà cesarea; altrimenti caderebbe sotto la medesima
+<pb n="426r" facs="10_426r" rend="0"/>
+indignatione, et che se havesse abandonata l’impresa <lb/>
+sarebbe stato amico suo. Il Duca gli ha risposto sentitamente <lb/>
+che non pretendeva far torto a sua Maestà cesarea mentre difen-<lb/>
+deva li suoi parenti, et amici, et che doveva, et voleva <lb/>
+farlo, et quanto all’amicitia del Lantgrave non se ne <lb/>
+curava. È signore di gran vivezza di spirito; ma che <lb/>
+tira più tosta alla temerità, che alla sodezza. È partito <lb/>
+di qua risoluto di far dir di lui in Alemagna. <lb/>
+Viene detto, che ’l lantgrave d’Hassia habbi a detto <lb/>
+Principe fatte gran offerte, et questo per mantenersi <lb/>
+nel possesso di ciò, che tiene dei conti di Valdech. <lb/>
+Spagnuoli hanno pensato di attaccar alcuna cosa sopra <lb/>
+il detto<ptr target="#tn4" n="4"/> lantgrave d’Hassia, volendo surprender una <lb/>
+terra di sua giuridittione; ma non essendoli andato <lb/>
+fatto, come si erano promessi don Gonzal di Cordova <lb/>
+ha procurato di dar sodisfattione a detto Principe <lb/>
+ma di quelle sodisfattioni solite de’ Spagnoli, che for-<lb/>
+niscono in parole, et complimenti. </p>
+<p>Queste Maestà hanno avviso, che ’l conte di Mansfelt vadi <lb/>
+mettendo in contributtione tutto quello, che può, et <lb/>
+particolarmente che su quello di Spira haveva fatto contribuir <lb/>
+non solo al Vescovo, ma al clero, et alla stessa camera <lb/>
+di Spira, che era<ptr target="#tn5" n="5"/> passato più avanti facendo contribuir
+<pb n="426v" facs="10_426v" rend="0"/>
+a Haganà in Alsatia, et veniva detto, che doveva levar <lb/>
+genti. L’armi bavaresi, et spagnuole andavano <lb/>
+marchiando chi da una, chi dall’altra parte per fugar tanto <lb/>
+esso Mansfelt, che ’l duca di Bransvich. </p>
+<p>Questi principi hanno sentimento delli avvisi, che vanno <lb/>
+venendo, né sanno che potersi prometter. Sperano, che in <lb/>
+Palatinato fino a primo tempo si sostenteranno; et godono <lb/>
+delli avvisi ultimamenti venuti di Morovia, che in quella <lb/>
+parte il marchese di Iegherendorf si sia impossessato <lb/>
+di Olmiez piazza di consequenza; et che Gabor tenisse <lb/>
+buone per le Maestà loro. </p>
+<p>Parmi che <hi rend="decoded">quell’abboccamento</hi><ptr target="#tn6" n="6"/><hi rend="decoded">, che dovette farsi tra questo <lb/>
+Re, et essi Bethelem, et Iegherendorf non anderà <lb/>
+avanti, ma ben un altro in Danimarca <lb/>
+ove fra pochi dì doverà tornarsi il Re <lb/>
+in conferenza con quella Maestà, et <lb/>
+par, che ’l viaggio sia, come rissoluto</hi> tuttavia ancor non si sa il <lb/>
+quando, et forse si attenderanno nuove d’Inghilterra. </p>
+<p>A quella volta partì hoggi terzo giorno il secretario della <lb/>
+Regina sendosi stimato a proposito di così fare per <lb/>
+dar maggior calore all’animo del Re mentre si vede <lb/>
+inclinato a favorire, assister, et aiutar l’interesse di
+<pb n="429r" facs="10_429r" rend="0"/>
+questi principi, et quello, che mi ha discorso di questo tanto <lb/>
+mi ha detto, ch’esso secretario per certo haverà havuta commissione <lb/>
+per tirar tutto quello, che sarà possibile dal Re di effettive <lb/>
+risolutioni <hi rend="decoded">perché</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">questa Maestà possi poi far con maggior frutto <lb/>
+il viaggio di Danimarca. <lb/>
+</hi></p>
+<p>Uno di questi giorni, che visitai il signor ambasciator d’Inghilterra mi com-<lb/>
+municò il pensiero, che haveva questo Re <hi rend="decoded">di</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">espedir soggetto proprio verso la Serenità vostra <lb/>
+et che havea pensato di mandar il baron <lb/>
+di Dona, che l’anno passato era in Inghilterra per la <lb/>
+Maestà sua ambasciatore, et mi disse tant’oltre, che <lb/>
+non pensava di mandarlo, come ambasciatore <lb/>
+ma ben, che per il luogo haverebbe <lb/>
+la Serenità vostra potuto darli quello, che <lb/>
+nell’eccellentissimo Collegio hebbe il senator Piscina <lb/>
+che fu presso di lei, a nome del duca di Savoia; <lb/>
+non mi disse quando questo dovesse seguire, <lb/>
+meno lo stesso Barone, che fu la settimana <lb/>
+passata a visitarmi, mi toccò parola sopra <lb/>
+questo particolare</hi> di quello
+<pb n="429v" facs="10_429v" rend="0"/>
+seguirà ne darò riverente conto alla Serenità vostra. </p>
+<p>Fui hieri a dar le buone feste al signor principe Mauritio, et fra le <lb/>
+altre cose venne a parlar dello stato di questo Re commise-<lb/>
+randolo, et mostrando temer assai, che ’l re della Gran Bertagna non si raffreddi. Mi fece racconto dell’avviso <lb/>
+che si haveva havuto qui della colera in che era quella <lb/>
+Maestà contra il Parlamento per la rimostranza, che <lb/>
+le haveva inviato. Tra li altri punti sendovi che non <lb/>
+facesse il matrimonio con Spagna, che assolutamente si dichia-<lb/>
+risce inimico del Re catholico, che dovesse intraprender <lb/>
+senza più sentir parole la difesa de’ suoi figlioli, et <lb/>
+procurasse con ogni sforzo la ricuperatione de’ suoi <lb/>
+Stati, che lasciasse di più dar orrecchie all’ambasciator di <lb/>
+Spagna; et mi disse anco qualche cosa della risposta <lb/>
+data da Re molto risentita, et con dir chiaramente <lb/>
+che non dovessero quelli del Parlamento ingerirsi nel <lb/>
+parlar di tali materia; meno contra la persona <lb/>
+del re di Spagna suo buon amico, né delli altri <lb/>
+re, et prinipi suoi confederati, et amici, et <lb/>
+mostrò temer che questo non dovesse giovar punto <lb/>
+all’interessi di questi principi. Di tutto ciò, che in <lb/>
+questo proposito è passato non dubito, che vostra Serenità <lb/>
+sarà stata pienamente informata dall’eccellentissimo signor ambasciatore </p>
+<pb n="430r" facs="10_430r" rend="0"/>
+<p>Lando. Nel partir sua Eccellenza mi addimandò se havevo <lb/>
+havute lettere di Venetia: io rispondendo che non <lb/>
+ella disse solamente ben et si tacque. Compresi ben <lb/>
+quello voleva inferire; ma io mi licentiai senza <lb/>
+passar più avanti. </p>
+<p>Hebbi hieri a sera il dispaccio dei 3 senza lettere di <lb/>
+vostra Serenità et da particolari ho veduta l’elettione fatta <lb/>
+da quell’eccellentissimo Senato di ambasciator a questi signori nella <lb/>
+persona dell’eccellentissimo Moresini. Ho inteso, che li signori <lb/>
+Stati in publico ne hanno havuto l’avviso. Io <lb/>
+non ho veduta persona da chi habbi potuta cavar <lb/>
+il gusto, o il contento, che ne ricevono, et sto <lb/>
+aspettando lettere di vostra Serenità con commandamento di <lb/>
+communicarlo in publica assemblea. Gratie etc. </p>
+<p>Dall’Haya li 27 decembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="430v" facs="10_430v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="431r" facs="10_431r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="431v" facs="10_431v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 356 sola </p>
+<p><metamark facs="Seals and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="136">
+<!--
+<p n="431vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 decembre ricevute a’ 27 gennaro </p>
+<p>Del segretario Suriano. n° 356. Sola </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="137" corresp="136" source="427r-428v" >
+<div type="main" facs="main text of attachment I" n="137" corresp="136" >
+<!--<p>Allegato I al n. 136 (cc. 427r-428v; decodifica di cc. 426v, 429r)</p>-->
+<pb n="427r" facs="10_427r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="427v" facs="10_427v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="428r" facs="10_428r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="428v" facs="10_428v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "di questa vernata" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "di questo" added above the line on "del" crossed out with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-va" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "tra-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "quell’abboccamento … come rissoluto" decoding of the encrypted text can be found on c. 427r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "perché … Danimarca" added above the deleted encrypted text.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "di … questo particolare" decoding of the encrypted text can be found on c. 427r; with cross-reference sign.</p></note>
+</div>
+</body>
+</text>
+</TEI>

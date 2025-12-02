@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.008 date 1621-03-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">008</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 32r-35v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp612-622
+            </note>
+            <biblScope unit="page">32r-35v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letter 5 March and reports his actions. He has thanked Carleton on behalf of Republic for his service and has given Lormes money to go to Venice and might send Dardani along with him. Requests guidance about dutch request for subsidies. Vere has come to see him and might raise 2000 troops. Requests again to be considered for post of ambassador in Milan, wishes to leave. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-23">23 marzo 1621</date>
+            <num>011</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="011">
+<div type="main" facs="main text of letter" n="011">
+<!--<p>23 marzo 1621, L’Aia (cc. 32r-35v)</p>-->
+<pb n="032r" facs="10_032r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 283 comincia 282 </p>
+<p>Serenissimo Principe </p>
+<p>opportunamente farò gl’ufficii, che dalla Serenità vostra mi vengono <lb/>
+commessi nelle sue lettere de’ 5 dello stante ricevute hoggi <lb/>
+communicando alli signori Stati la provisione di genti da guerra, <lb/>
+che Spagnuoli fanno in Italia, et li capitoli conclusi dalla <lb/>
+Lega Grisa con Milano. </p>
+<p>Col signor ambasciator d’Inghilterra sendomi venuto a proposito di vederlo <lb/>
+ho sodisfatto a quanto la Serenità vostra m’ha commandato; mi <lb/>
+ha ringratiato, et pregato di assicurarla, che ancorché <lb/>
+si conoschi debole instromento per servir agl’interessi com-<lb/>
+muni, et di una tanta Republica egli però in ogni tempo <lb/>
+spenderà quel talento, che potrà per servirla; in tanto <lb/>
+le rendeva humilissimamente gratie, che con sì singolar benignità <lb/>
+ricevesse a grado il suo affetto. </p>
+<p>Essequirò l’ordine col visconte di Lormes, ispedendolo a <lb/>
+quella volta per presentarsi a’ piedi di vostra Serenità; et perché <lb/>
+il signor Dardani sarà ben presto ispedito dal suo ministerio <lb/>
+sto in pensiero per maggior sicurezza, che si accompagni <lb/>
+con lui. Già doi Amiralità hanno spedito non mancando <lb/>
+quella d’Amsterdam, che sottoscriver, che doverà farsi <lb/>
+in quella città per ove mi trasferirò presso dimani, et con <lb/>
+quella di Roterdam siamo in stato di poter in <lb/>
+breve tempo dar compimento. Se verrà qualche <lb/>
+informatione sopra le cose ricercate riverentemente da me
+<pb n="032v" facs="10_032v" rend="0"/>
+et viene da lei aspettata, si procurerà di farla bonificare<ptr target="#tn1" n="1"/>. </p>
+<p>Con mie lettere de’ 9 mandai la replicata per instanza de’ signori Stati <lb/>
+toccante li figlioli del già colonel Wassonhoven. Et intorno quanto <lb/>
+ella mi scrive in questo particolare vengo assicurato, che qui ci <lb/>
+sono doi figlioli maschi oltre quello, ch’è a Venetia, o in terra <lb/>
+ferma al servitio della Serenità vostra, et una, o doi femine, che si trovano <lb/>
+in bisogno di esser suffragati. Io piglierò miglior informatione <lb/>
+per darlene<ptr target="#tn2" n="2"/> particolar conto. </p>
+<p>Haverà con queste le replicate delle lettere che scrissi hoggi otto <lb/>
+n° 280<ptr target="#tn3" n="3"/> fin 281, et con esse la copia in francese della lettera <lb/>
+dei signori Stati con la traduttione in italiano toccante l’instanza <lb/>
+per l’assistenza dei cinquanta milla fiorini per mese in caso <lb/>
+siano necessitati entrar in guerra aperta con Spagnuoli. <lb/>
+Aspetterò quello vorrà, che rispondi per segno della buona <lb/>
+volontà sua, et per fermar, o divertir gl’animi di questi <lb/>
+signori dal far qualche risolutione in questa congiuntura, <lb/>
+che potesse riuscir pregiudiciale ai publici interessi, et <lb/>
+a quello in particolar di quella serenissima Republica se si sentissero <lb/>
+buon piedi, et havesser buoni puntelli mi persuado che <lb/>
+abandonerebbono ogni trattato. Ma di Francia, et d’Inghilterra che <lb/>
+sono stati i fondamenti di questa libertà non sano che prometter <lb/>
+mentre in questa strettezza di tempo, che spirano le tregue, <lb/>
+si vuol prima sodisfattione nelle cose pretese dall’una, et
+<pb n="033r" facs="10_033r" rend="0"/>
+dall’altra corte, avanti che venir alla rinovatione dell’aleanza <lb/>
+che come con altre mie ho riverentemente notificato<ptr target="#tn4" n="4"/> spirarà con la <lb/>
+medesima tregua. </p>
+<p>All’ambasciator di Danimarca procurano li signori Stati dar ogni sodisfattione <lb/>
+sopra le sue instanze, poiché havendo rappresentata la <lb/>
+buona volontà del suo Re di assister con ogni suo <lb/>
+potere alle cose di Alemagna, farvi condiscender gl’altri <lb/>
+principi, et coadiuvar anco agl’interessi del Re pala-<lb/>
+tino, ha anco procurato, che questi signori faccino in sorte <lb/>
+che gli siano levate le gelosie, che le città ansiatiche <lb/>
+si mettino in termine proprio, et di dovere con lui, <lb/>
+et che sia dischiarito, che l’aleanza con quelle città fatta <lb/>
+da questi signori non habbi ad apportargli pregiudicio, et <lb/>
+più, che potendo accader che li principi dell’Unione <lb/>
+non si possino sostener, et la piena dell’armi imperiali, <lb/>
+et d’adherenti alla casa d’Austria<ptr target="#tn5" n="5"/> precipitassero <lb/>
+sopra la Bassa Sassonia, et principalmente sopra li suoi stati, <lb/>
+in tal caso queste Provincie si dichiarino d’assistergli. <lb/>
+L’eccitamento di questo ufficio nasce da<ptr target="#tn6" n="6"/> quello del <lb/>
+Vosberghen fatto con il Re. Com’ho riverentemente detto li <lb/>
+signori Stati sono inclinatissimi a dar contento alle dimande <lb/>
+del Re. L’Ambasciator resta sodisfatto sì delle promesse; ma <lb/>
+non della dilatione alla risposta, che sta attendendo per
+<pb n="033v" facs="10_033v" rend="0"/>
+poterla ispedir al suo signore. </p>
+<p>Per efficaci instanze di mercanti della piazza d’Amsterdam interessati<ptr target="#tn7" n="7"/> <lb/>
+ne’ vasselli, che in molto numero sono stati presi da’ corsari in <lb/>
+questi ultimi mesi, et aspettandone con ricche merci di levante <lb/>
+li signori Stati li hanno acconsentito che cinque de’ vasselli da <lb/>
+guerra, che sono nel Mediterraneo si accompagnino per scorta. </p>
+<p>Per il desiderio di vostra Serenità toccante quelle medesime navi da guerra <lb/>
+non ho ancor cavata ferma sicurezza da sua Eccellenza, et resta <lb/>
+so bene tuttavia irresoluto quello si doverà fare, se richiamarli <lb/>
+di qua, o continuarli le commissioni per trattenerse ove si <lb/>
+trovano. Come mi vedrò li addito non mancarò entrar <lb/>
+per farne instanza. </p>
+<p>Il luogotenente colonello Gio. Ver, ch’è stato al servitio di vostra Serenità <lb/>
+m’è venuto la passata settimana a far offerta della sua <lb/>
+persona per servirla, e compiacendosi, che leverebbe da <lb/>
+questi paesi doimilla fanti constituendosi sotto le stesse <lb/>
+conditioni, che la Serenità vostra haverà fatto costi con quelli che <lb/>
+trattano di tali levate. Né mi ha aggiunto di vantaggio <lb/>
+se non, che haverebbe attesa la volontà sua. </p>
+<p>Vostra Serenità con pienezza<ptr target="#tn8" n="8"/> di benigno affetto ha sempre dato segno <lb/>
+con publiche attestationi della sodisfattione, che si compi <lb/>
+ricever dal mio debole servitio. Et perché io la riconosca <lb/>
+maggiormente, ella gettanndo l’occhio della carità sua
+<pb n="034r" facs="10_034r" rend="0"/>
+sopra la povera mia fortuna, ha voluto consolarmi nell’<lb/>
+afflittione, che pativo di vedermi et per imbecillità di spirito, <lb/>
+et per debolezza di fortune inhabile a sodisfar con publico <lb/>
+servitio alla carica, che m’era stata imposta di andar <lb/>
+a servirla a Milano, liberandomi con signolar benignità <lb/>
+da quella residenza. Le gratie, che le ne devo quanto <lb/>
+sono grandi; altrettanto sono per me inhabile al sodisfarle. <lb/>
+Procurerò bene di dar segno a vostra Serenità et con diligenza, et <lb/>
+con affetto del mio continuato zelo nel ben servirla <lb/>
+et dell’ultima volontà mia; nel resto pregarò il Signor Dio <lb/>
+che concedi a quella serenissima Republica, alla Serenità vostra, et alle Signorie <lb/>
+vostre eccellentissime ogni perfetta felicità ad honor, et maggior <lb/>
+essaltatione della libertà di quel serenissimo Dominio. Gratie etc. </p>
+<p>Dall’Haya li 23 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="034v" facs="10_034v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="035r" facs="10_035r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="035v" facs="10_035v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 283 comincia 282<ptr target="#tn9" n="9"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="011">
+<!--
+<p n="035vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 marzio 1621 ricevute 14 aprile. 283 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-re" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line on "darnle" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-0" corrected above "-1."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "cadess" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-l" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-teressati" Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "fierezza."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

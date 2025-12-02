@@ -92,7 +92,7 @@ from processhelpers import (
     REPORT_FOOTNOTES_UNTRANS,
     REPORT_FOOTNOTES_EXAMPLES,
     REPORT_PAGESCAN,
-    TEIDIR,
+    TEIBAREDIR,
     REPORT_THUMBERRORS,
     REPORT_THUMBPAGES,
     REPORT_WARNINGS,
@@ -1605,7 +1605,7 @@ class TeiFromDocx(PageInfo):
         console("simple TEI per filza => enriched TEI per letter ...")
 
         files = dirContents(TEIXDIR)[0]
-        initTree(TEIDIR, fresh=True, gentle=True)
+        initTree(TEIBAREDIR, fresh=True, gentle=True)
 
         letterTranscribers = {}
         pageInfo = {}
@@ -1621,7 +1621,7 @@ class TeiFromDocx(PageInfo):
             self.console(f"\t{file}")
 
             filza = file.removesuffix(".xml")
-            initTree(f"{TEIDIR}/{filza}", fresh=True, gentle=True)
+            initTree(f"{TEIBAREDIR}/{filza}", fresh=True, gentle=True)
             thisTranscriberInfo = transcriberInfo[filza]
             letterTexts = self.transformFilza(file, filza)
 
@@ -1640,7 +1640,7 @@ class TeiFromDocx(PageInfo):
 
                 # startPage = nextPage
 
-                with open(f"{TEIDIR}/{filza}/{letter}.xml", "w") as f:
+                with open(f"{TEIBAREDIR}/{filza}/{letter}.xml", "w") as f:
                     f.write(letterText)
 
         writeJson(pageSeq, asFile=REPORT_PAGESEQ)

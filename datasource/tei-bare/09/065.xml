@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.065 date 1620-11-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">065</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 324r-326v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp462-477
+            </note>
+            <biblScope unit="page">324r-326v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Maurice has returned from Gelre and companies are returning to their garrison. He will continue to remind Maurice and other members of States General about Valtellina. Lormes and Falghero have left, They received 300 florins for the journey. Pasini left for Brussels, where he needs to look after his house after an absence of four or five months. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-10">10 novembre 1620</date>
+            <num>099</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>10 novembre 1620, L’Aia (cc. 324r-326v)</p>-->
+<pb n="324r" facs="09_324r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 246 fin 247 </p>
+<p>Serenissimo Principe </p>
+<p>quattro giorni doppo le precedenti lettere mie de’ 3 dello <lb/>
+stante n° 245, che replicate invio aggiunte a queste, <lb/>
+rivenne il signor principe d’Oranges all’Haya, havendo <lb/>
+dati gl’ordini necessarii per il retirarsi delle compagnie <lb/>
+alle loro guarnigioni; et vedendo non esser bisogno per <lb/>
+hora in Gheldria dell’assistenza sua a questa Dieta. </p>
+<p>Le poche genti, che tiene don Luigi di Valasco hanno data <lb/>
+occasione al signor Principe di non lasciar le guarnigioni <lb/>
+de’ confini più provedute di quello, che erano per <lb/>
+avanti. Et a questi signori con l’uscita della loro <lb/>
+armata in campagna ha bastato di far cono-<lb/>
+scer a Spagnuoli, et ad ognuno, che possono <lb/>
+tener testa a chi li volesse offender, et assister <lb/>
+anco ai loro amici. </p>
+<p>Visitai sua Eccellenza che con termine molto cortese, mi ricevè et <lb/>
+abondantemente corrispose al complimento che feci per <lb/>
+l’ottima salute, con che era ritornata; assicu-<lb/>
+randola, che questo a vostra Serenità sarebbe riuscito <lb/>
+di sommo gusto. </p>
+<p>Mi addimandò dello stato in che havevo lasciato al <lb/>
+partir suo l’eccellentissimo signor ambasciator Trivisano, et come si era <lb/>
+contentato del Paese. Io diedi quella risposta, <lb/>
+che mi parve propria per comprobar la sodisfattione <lb/>
+ricevuta da quell’eccellentissimo signore. Ho scoperto
+<pb n="324v" facs="09_324v" rend="0"/>
+alcuni dubiosi se l’eccellentissimo signor Ambasciatore sia partito totalmente <lb/>
+contenti; et altri mortificati per quel denaro pagato a quei <lb/>
+servitori di casa scusandosi col poco intendimento, che <lb/>
+hanno havuto quelli, che ne tenevano la cura. </p>
+<p>Sopra il negotio di Valtelina non hanno questi signori fatta ancor <lb/>
+altra risolutione; ne parlai a sua Eccellenza il giorno, che fui <lb/>
+seco, che mostrò anc’ella stimarlo, et stimar i sensi di <lb/>
+vostra Serenità; ma non uscì ad alcun particolare, dicendomi non <lb/>
+haver ancor havuto tempo di discorrerne. Io troverò <lb/>
+occasione di esser di nuovo con l’Eccellenza sua, et con qualche <lb/>
+di questi signori, et soliciterò con destrezza perché segui, <lb/>
+se sarà possibile risolutione propria all’importanza <lb/>
+della cosa. </p>
+<p>Le lettere, che dovevano capitarmi venerdì, per il detorno <lb/>
+che devono far li postiglioni, non mi furono portate <lb/>
+che hieri a sera. Darò essecutione a quanto la <lb/>
+Serenità vostra mi promette nelle sue de’ 23 toccante il <lb/>
+vassello restituito in Candia a quel mercante holandese <lb/>
+et tenterò con ogni spirito di ricuperar dai partionevoli <lb/>
+li doi milla ducati spesi nei concieri d’esso. </p>
+<p>Al capitan Storm referirò quanto dall’Eccellenze vostre mi viene <lb/>
+commandato. Egli fu ben posto in polizza dall’ami-<lb/>
+ralità d’Amsterdam, ma con l’iscusa fatta non sendo <lb/>
+tempo per aspettare fu nominato un altro per
+<pb n="325r" facs="09_325r" rend="0"/>
+vice amiraglio. In vero rende sempre più buon testi-<lb/>
+monio d’esser, et voler viver buon servitor di quella <lb/>
+serenissima Republica. </p>
+<p>Ho fatto saper al signor Marco Dardani ragionato l’intentione <lb/>
+di vostra Serenità, et egli soleciterà con ogni diligenza, che di <lb/>
+questa posso con sincerità affermare, che non manca <lb/>
+per sbrigarsi quanto più presto. Ma sendo la scrittura <lb/>
+molteplice, et li conti, et pretensioni di che si tratta <lb/>
+meritano acuratezza nel rivederli tanto per quello, <lb/>
+ch’io ho maneggiato, et è uscito dalle mie mani; <lb/>
+quanto per quello, c’hanno havuto le Amiralità; <lb/>
+onde questo anco ricerca tempo per venir a buon <lb/>
+fine per sodisfattione intesa della Serenità vostra, dei signori <lb/>
+Stati, delle Amiralità, et delli interessati. Et sia pur <lb/>
+certa che non perderemo onza di tempo. </p>
+<p>Domenica partì per costì il visconte di Lormes, et con lui il signor Pietro Falghero. Hanno havuto trecento <lb/>
+fiorini per il viaggio, de’ quali ne ho havuta ricevuta <lb/>
+con promessa in scritto da esso Falghero di renderne <lb/>
+conto a vostra Serenità. Anco il Pasini partì per Brusseles <lb/>
+sua habitatione. Non è risoluto di seguitar li sudetti <lb/>
+così subito per la necessità, che ha di dar sesto alle <lb/>
+cose della sua casa, doppo quattro, o cinque mesi <lb/>
+in circa, che n’è fuori, et non trovandosi totalmente disposto
+<pb n="325v" facs="09_325v" rend="0"/>
+di sanità; ma ben sendo l’intentione di vostra Serenità, che venga <lb/>
+come quello c’ha maneggiato quest’affare sarà pronto a <lb/>
+mettersi subito in camino lasciando ogni cosa da canto <lb/>
+per venirsi a render all’obedienza della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 10 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="326r" facs="09_326r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="326v" facs="09_326v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 246 fin n° 247 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="326vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>x novembre 1620 ricevute 27 detto n° 246 </p>
+<p>Haya. Secretario Surian </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.013 date 1616-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 74r-76v, 79r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">74r-76v, 79r-v, 77r-78v, decodifica di c. 76r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Explains that he was not able to write to Venice last week because he joined John Ernst of Nassau in Northern Holland, where 15 companies are ready to embark. He also travelled to Amsterdam to settle some financial issues with the bankers. Acknowledges received of the letter dated 21 October 1616 instructing him to recruit an additional 1,000 soldiers. Adds that he will proceed as instructed with the note that first he needs to request permission to do so and foresees some difficulties due to lack of lodging facilities. Reports in cipher that Oldenbarnevelt told him that when the ships set sail for Venice, it would be best for them to split before going through the Strait of Gibraltar as it is rumoured that in the vicinity more than 20 corsairs are waiting for Spanish fleet. Ends by promising to discuss raising 300 horseman with Colonel Ghent. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-11-13">13 novembre 1616</date>
+            <num>025, 026</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="025">
+<div type="main" facs="main text of letter" n="025">
+<!--<p>13 novembre 1616, L’Aia (cc. 74r-76v, 79r-v)</p>-->
+<pb n="074r" facs="03_074r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>non haverà la Serenità vostra ricevute mie lettere per l’ordinario <lb/>
+della settimana passata, havendo convenuto (come riverentemente <lb/>
+le scrissi all’ultimo del passato) andar nella Nortolandia <lb/>
+col signor conte Gioanni Ernesto a dar mostra a tre compagnie <lb/>
+et poi in Amsterdam per la causa, che dirò più a basso. <lb/>
+Doppo hanno passato mostra delle altre nella medesima Provincia <lb/>
+et sulla Moza parte vedute da me, et parte dal signor Vimes <lb/>
+et da un mio familiare, non potendo io esser in ogni <lb/>
+luoco per li rispetti, che ho considerati in altre mie <lb/>
+et fino a questo giorno sono 15 compagnie pronte <lb/>
+per l’imbarco, et se piacerà a Dio benedetto, che <lb/>
+arrivino, et si conservino sane spero che vostra Serenità ne <lb/>
+resterà contenta. Posso dire, che non si habbi certo <lb/>
+punto di tempo, né sin qui il vento mai è stato <lb/>
+buono per la sortita da questi porti. Quasi tutti <lb/>
+li vasselli sono pronti, le provisioni de’ viveri sono <lb/>
+fatte sono state visitati da periti, et tanto in <lb/>
+questo quanto perché l’armi siano ad ordine <lb/>
+si è usata dal signor Conte ogni diligenza. Ha egli <lb/>
+data la commissione perché sia fatto l’imbarco sulla <lb/>
+Moza, et dalla parte del Tessel col primo vento <lb/>
+questa<ptr target="#tn1" n="1"/> nel Tessel l’ha havuta il
+<pb n="074v" facs="03_074v" rend="0"/>
+capitan Steven huomo d’isperienza nelle cose militari <lb/>
+et che intende molto bene la navigatione. Sarà capitano <lb/>
+d’una compagnia, et luogotenente d’uno dei reggimenti <lb/>
+promettendosi esso signor Conte molto dal suo valore. Et ho <lb/>
+saputo che la sua compagnia è delle belle, et buone <lb/>
+che sia in tutta la truppa. Ognuno si sforza <lb/>
+di far buona gente, et va sempre rimettendo <lb/>
+qualche miglior soldato. </p>
+<p>La causa propria di non haver potuto scriver a vostra Serenità <lb/>
+è stata per la necessità, che ho havuta di passarmene <lb/>
+in Amsterdam per poter presentialmente ordinar la <lb/>
+pronta provisione del denaro che fa bisogno. <lb/>
+Quei mercanti che mi diedero la valuta delli <lb/>
+quaranta milla ducati hanno ingannata la mia <lb/>
+speranza, stavo riposato sopra di loro; ma vedendo <lb/>
+non comparer avvisi risolsi l’andata per prender <lb/>
+altro partito, et ho trovato li signori Calandrini, et <lb/>
+Vanderput, che prontamente hanno fornito a <lb/>
+buona parte del bisogno. Hieri gli feci lettere di <lb/>
+cambio di trenta mille ducati 15 mila alli signori Calandrini <lb/>
+per contar al signor Melchior Noirott et quindeci <lb/>
+altri milla al signor Guglielmo Vanderput in persona
+<pb n="075r" facs="03_075r" rend="0"/>
+del signor Piero suo fratello da pagarsi all’ultimo di <lb/>
+decembre prossimo. </p>
+<p>Tornato d’Amsterdam ho trovate le lettere della Serenità vostra <lb/>
+de’ 21 del passato col nuovo commandamento di commetter <lb/>
+al signor conte Gioanni l’aggiunta di altri milla fanti alla <lb/>
+sua levata. Egli si mostrò pronto al farlo ma disse <lb/>
+che dovendo dipender ciò dall’assenso de’ signori Stati <lb/>
+era necessario il farne nuova instanza; et havendo <lb/>
+egli conferito ciò con il signor conte Mauritio, et io col signor <lb/>
+Bernvel questo mi ha detto, che consigliava il <lb/>
+lasciar che queste genti levate s’incamminassero et <lb/>
+poi si haverebbe potuto pensar a nuova promessa <lb/>
+altrimenti dubitava, che s’incontrasse qualche difficoltà <lb/>
+non per altro che per non esservi in questa Provincia <lb/>
+luochi più atti, né più commodi per l’imbarco <lb/>
+che quelli dove al presente sono le genti in guar-<lb/>
+nigione, li quali tutti sono ripieni; et mi replicò <lb/>
+che tale era il suo consiglio, et che lo seguitassi <lb/>
+perché altrimenti non si prometteva l’essito così felice <lb/>
+così disse il signor principe Mauritio al signor conte Gio. Ernesto <lb/>
+et a me ancora, et esso signor Conte dice haver cavato <lb/>
+che sua Eccellenza teme, che con questa levata le truppe
+<pb n="075v" facs="03_075v" rend="0"/>
+di questi paesi si diminiscano di buoni huomini mentre <lb/>
+le è stato suggerito, che dentro le compagnie levate <lb/>
+per vostra Serenità vi siano più di milla cinquecento sviati, <lb/>
+o fuggitivi, che erano in attual servitio<ptr target="#tn2" n="2"/>. <lb/>
+Non credo che<ptr target="#tn3" n="3"/> siano tanti; <lb/>
+ma ve ne sono certo assai<ptr target="#tn4" n="4"/>. Il buon raporto, che ha fatto il Commissario, che <lb/>
+questi signori, et il signor Principe hanno mandato con noi perché <lb/>
+avvertisca di non lasciar passar mostra a quelli<ptr target="#tn5" n="5"/>, che sono <lb/>
+in attual servitio, se ben credo, che habbi havuto anco qualche <lb/>
+ordine di non veder tutto, fa acquetar esso signor Principe <lb/>
+in particolare perché in fine mostra desiderio, che vostra Serenità <lb/>
+sia ben servita, et il cugino habbi buone genti; et certo <lb/>
+sarà necessario ch’io riconoschi questo Commissario con <lb/>
+qualche honorario, che desidererei fosse a piacimento <lb/>
+della Serenità vostra et haverò caro haverne il suo prudentissimo <lb/>
+commandamento prima di far alcuna cosa. </p>
+<p>Il signor Conte, et io per questa levata habbiamo stimato bene <lb/>
+il differire, et attender un poco per non incontrar <lb/>
+negativa, et va pensando che sarà bene, quando <lb/>
+si habbi a far detta levata di dimandar la piazza <lb/>
+in Zelanda perché così non si aggregarebbe incommodo <lb/>
+maggiore da questa parte. Il signor Bernvel quando
+<pb n="076r" facs="03_076r" rend="0"/>
+fui a vederlo per parlar di questo affare mi disse <hi rend="decoded">intorno</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">all’uscita de’ vasselli che consultato col conte Mauritio <lb/>
+et con qualche altro si è stimato bene che vadino a parte a <lb/>
+parte. Et il maggior numero sia di tre insieme ben se have-<lb/>
+ranno il vento propitio potranno farlo unitamente ma sortiti <lb/>
+si debbano separare, il medesimo concetto mi ha detto il signor prencipe <lb/>
+Mauritio assicurandosi l’uno e l’altro che così non potrano <lb/>
+incontrar difficoltà allo stretto di Gibilterra col essempio <lb/>
+de’ tempi passati, che ancorché vi fosse la guerra aperta <lb/>
+in ogni modo transitavano li vasselli per di là, essendo uno <lb/>
+o doi insieme senza ricevere alcuna molestia, che altrimenti <lb/>
+si darebbe gelosia, et si potrebbe incontrar in qualche disordine <lb/>
+et che questa era più sicura. Io non lasciai di dir all’uno, et <lb/>
+all’altro che stimavo certo maggior sicurtà la</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">unione che la <lb/>
+separatione de’ vasselli con tutto ciò io rimettevo a quello <lb/>
+che fosse stimato più proprio e più sicuro; mi fu repplicato <lb/>
+degli istessi concetti, et il signor Conte aderisce anch’egli ma era ben pronto andando li vasselli insieme di far il viaggio con essi. <lb/>
+</hi></p>
+<pb n="076v" facs="03_076v" rend="0"/>
+<p>È stato scritto, che da 22 o 24 corsari si trovino verso <lb/>
+lo Stretto aspettando la flotta di Spagna, che <lb/>
+viene dell’Indie, et che don Luigi Fasciardo si <lb/>
+trovi in quei contorni con alquante navi da guerra <lb/>
+et questo si fa anco publicar qui per metter timore <lb/>
+a queste genti. </p>
+<p>Delli trecento huomini da cavallo desiderati dalla Serenità vostra <lb/>
+come mi scrive nelle sue lettere de’ 21 ne parlerò al signor <lb/>
+colonello Ghent come sia qui essendo hora absente <lb/>
+si vorrà venir con essi, volontieri il signor Conte lo vedrebbe <lb/>
+seco, come mi ha detto, et quando possi far il resto <lb/>
+prenderà anco la carica di questo. </p>
+<p>Delle navi ho scritto per informatione ad Amsterdam <lb/>
+l’haverò da qualche altra parte, et di tanto col <lb/>
+primo ordinario darò alla Serenità vostra particolare et distinto conto. Gratie etc. </p>
+<p>Dall’Haye a’ 13 novembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="079r" facs="03_079r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="079v" facs="03_079v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="025">
+<!--
+<p n="079vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1616 ricevute 30 detto </p>
+<p>Secretario Surian dall’Aia prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="026" corresp="025" source="77r-78v, decodifica di c. 76r-v" >
+<div type="main" facs="main text of attachment I" n="026" corresp="025" >
+<!--<p>Allegato I al n. 25 (cc. 77r-78v, decodifica di c. 76r-v)</p>-->
+<pb n="077r" facs="03_077r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="077v" facs="03_077v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="078r" facs="03_078r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="078v" facs="03_078v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "l’ha havuta" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "ma il buon rispose che ha" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "ve … assai" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "intorno … con essi" decoding of the encrypted text can be found on c. 77r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

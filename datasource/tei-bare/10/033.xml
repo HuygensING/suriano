@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.033 date 1621-06-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">033</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 159r-163v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp57-74#fnn10
+            </note>
+            <biblScope unit="page">159r-163v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has informed the States General and Maurice of the recent developments in Valtellina and the threats faced by Venetian Republic by archduke Leopold. So far no war movements by archducal troops, reports on efforts by Serclaes to have negotiations about prolongation of Truce. Merchants are confused about the current situation. Reports various bits of news from the Holy Roman Empire about troops and loans for the king and queen of Bohemia. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-21">21 giugno 1621</date>
+            <num>052</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="052">
+<div type="main" facs="main text of letter" n="052">
+<!--<p>21 giugno 1621, L’Aia (cc. 159r-163v)</p>-->
+<pb n="159r" facs="10_159r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 308 fin 309 </p>
+<p>Serenissimo Principe </p>
+<p>sendomi sabbato passato pervenute le lettere della Serenità vostra del primo, et 3 <lb/>
+del corrente, ho stimato bene non differire, ma questa mattina dar <lb/>
+conto alli signori Stati di quanto mi manda toccante il negotio della <lb/>
+Valtelina, et degl’inditii assai chiari, che vi erano tanto di lunghezza <lb/>
+nella restitutione, che doppo anco fatto, prima<ptr target="#tn1" n="1"/> forte della <lb/>
+demolitione dei forti fosse per entrarvi in essa l’arciduca Leopoldo <lb/>
+et tenerla per lui aggiungendo quello di più che gl’avvisi <lb/>
+di Milano ricevuti nelle medesime lettere dei 3 dicevano<ptr target="#tn2" n="2"/> per <lb/>
+rancontro di questo pensiero di Leopoldo; portando l’espositione <lb/>
+mia con quei concetti che stimai per mia debolezza più pro-<lb/>
+prii perché comprendessero et da questo, et da altri accidenti <lb/>
+li sospetti, che necessariamente doveva haver quella serenissima Republica, <lb/>
+et per consequente l’esser necessitata di continuar in grossissime <lb/>
+et gravissime spese, il che con quell’opportunità, che mi sarà <lb/>
+porta dal tempo, et dall’occasione non mancarò di far più chiaramente <lb/>
+constare in conformità della mente di lei per quello, che <lb/>
+mi fu parlato per avanti di dar assistenza per gl’interessi della <lb/>
+Germania. Li signori Stati havendo inteso quanto loro esposi mi <lb/>
+risposero, che restavano con molto obligo alla Serenità vostra della <lb/>
+communicatione (<ptr target="#tn3" n="3"/>et tanto più cara li era riuscita, quanto <lb/>
+che non havevano havuta notitia maggiore, che del capitulato <lb/>
+in Spagna; ma de’ pensieri, che habbi l’arciduca Leopoldo <lb/>
+non ne havevano intesa alcuna cosa, che li particolari racontati <lb/>
+et la materia stessa faceva ben creder alli signori Stati, che<ptr target="#tn4" n="4"/> fosse <lb/>
+per<ptr target="#tn5" n="5"/> esservi lunghezza nella trattatione, et le circonstanze, <lb/>
+l’intelligenza di Leopoldo col governator di Milano, et fine d’<lb/>
+impossessarsi di quella vale; che non haverebbono mancato <lb/>
+di farvi sopra necessario reflesso, et portando l’occasione
+<pb n="159v" facs="10_159v" rend="0"/>
+haverebbono<ptr target="#tn6" n="6"/> fatto dal canto loro quello, c’havessero stimato poter servire <lb/>
+continuando<ptr target="#tn7" n="7"/> con vostra Serenità la corrispondenza di quella maniera <lb/>
+che si deve come buoni amici, et collegati. </p>
+<p>Al signor principe Mauritio diedi anco il conto medesimo delle cose seguite <lb/>
+et delle voci, et pensieri che correvano; et l’Eccellenza sua<ptr target="#tn8" n="8"/> concorrer <lb/>
+nel concetto della lunghezza, et nel dubio della intrapresa che <lb/>
+potesse farsi dall’arciduca Leopoldo, et disse il suo concetto <lb/>
+ordinario Spagnuoli sono fini, et Austriaci niente meno, se <lb/>
+potranno far un bel tiro non mancaranno del farlo. <lb/>
+Nel discorso coll’Eccellenza sua procurai d’imprimer ancor lei <lb/>
+delle gravi spese sopportate, di quelle che continuamente faceva <lb/>
+et dall’apparenza, che gl’andamenti delle militie del Milanese <lb/>
+mostravano di necessitarla ancor a sostenerne, con gravissimo <lb/>
+dispendio. Concluse sua Eccellenza, che era vero; et poi mi <lb/>
+addimandò se sapevo che le militie del Milanese fossero <lb/>
+per passar nei Paesi Bassi, io risposi, che non sapevo; et <lb/>
+ella continuò con certo tal qual (non affatto chiaro) inditio di <lb/>
+passione. Noi haveremo tutte quell’armi sopra le spalle. </p>
+<p>Mi confermò che si fabricavano in Brabant<ptr target="#tn9" n="9"/> certi pontoni <lb/>
+volendosene lo Spinola servir in campagna quando esca, <lb/>
+che ancor non se n’ha alcuna novella. </p>
+<p>Continuano le militie delli arciduchi a tenersi quiete. Viene scritto <lb/>
+che quelle da piedi restano mal pagate, ma che tuttavia, <lb/>
+si doveva presto darli denari, et forse<ptr target="#tn10" n="10"/> fin hora se<ptr target="#tn11" n="11"/> haveranno <lb/>
+havuti. La cavallaria è molto ben pagata perché altrimenti <lb/>
+sarebbe ella la causa del disordine, come, sendo pagata, serve <lb/>
+a tener in freno l’infanteria perché non amutini. </p>
+<p>Da questa parte si sta sull’avviso, si sono<ptr target="#tn12" n="12"/> cominciati a mandar qualche
+<pb n="160r" facs="10_160r" rend="0"/>
+pezzi di artiglierie verso Dordrecht per inviarli poi dalla parte, <lb/>
+che sarà necessario. Doi capitani spagnoli oltre li borghesi <lb/>
+di Bolduch sono stati ritenuti, né ancor si sa, che siano <lb/>
+stati licentiati. Tre navi ancora sono state ultimamente con-<lb/>
+dotte in Zelanda qualcheduna uscita di Doncherchen, et altre <lb/>
+che volevano entrar in quei porti con Zuccari. Dall’Esclusa <lb/>
+si tira qualche canonata nel forte di San Donà, et da quello <lb/>
+verso l’Esclusa, ma non<ptr target="#tn13" n="13"/> segue danno di momento, questo è <lb/>
+quanto passa, che ha inditio di hostilità, et le maggior repre-<lb/>
+saglie seguono da questa parte contra Spagnuoli. </p>
+<p>Al qual proposito mi disse il signor principe Mauritio Spagnuoli vo-<lb/>
+gliono esser nostri amici ancorchè noi non lo volemo, continuando <lb/>
+attendono a prepararti, et in questo mentre fanno correr voce che <lb/>
+vogliono haver la tregua, se noi volemo. Et mostrò meco stimar <lb/>
+molto poco il trattare, et l’andar su, et giù di quella dama, <lb/>
+dicendo, che serviva per accommodarsi del tempo. </p>
+<p>Sicome detta dama ha intrapreso di caminare per condur sue Altezze <lb/>
+et questi stati ad una conferenza per effetto della proro-<lb/>
+gatione della tregua, così partì martedì passato per Brabant <lb/>
+havendo havuta una polizza senza signatura, che diceva <lb/>
+madama Serclas potrà dir se le piace a sua Altezza, che <lb/>
+se vuole inviar per parte sua per trattare sopra il medesimo <lb/>
+piedi della precedente tregua s’invierà anco da questa <lb/>
+a Lieges, o altra città neutrale. Ma<ptr target="#tn14" n="14"/> si vuole haver risposta <lb/>
+autentica, et segnata di mano dell’Altezza sua; et la detta <lb/>
+Dama si è fatta forte, che la riporterà sottoscritta da sua Altezza <lb/>
+(che non viene creduto) et pensava di far il viaggio in <lb/>
+dieci, o dodici giorni, di maniera che<ptr target="#tn15" n="15"/> doverebbe esser
+<pb n="160v" facs="10_160v" rend="0"/>
+alla più lunga qui per la fine di questa settimana. La risposta sudetta <lb/>
+data alla Serclas è passata sotto alla consulta di sua Eccellenza con alcuni <lb/>
+pochi conte Ernesto di Nassau, Arsen, et qualche altro; ma per quanto <lb/>
+ho potuto penetrare non è senza cognitione dei Stati Generali. <lb/>
+È ben vero che né Holanda, né Zelanda assolutamente concorrono <lb/>
+tuttavia adherendovi gl’altri, et dovendosi trattar colle conditioni <lb/>
+passate facilmente il negotio caminerà avanti, massime venendo <lb/>
+la sottoscrittione, che si ricerca. Il popolo tiene che se ne tratti secretamente. </p>
+<p>Havendo li signori Stati fatto publicar il placart per il negotio dell’Indie <lb/>
+Occidentali, che mandai hoggi otto con le lettere n° 306 fin 307 <lb/>
+che vengono replicate, la detta Dama parlò a sua Eccellenza di questo, <lb/>
+et mostrò desiderio di haver parola, che questa Compagnia <lb/>
+non passarebbe avanti, seguendo il trattato di tregua. Gli è stato <lb/>
+detto, che vadi, et riporti cosa più auttentica, et sicura <lb/>
+di quello, che sin qui ha fatto, che poi si parlerà. Concorro con <lb/>
+l’opinione di molti, che facendosi la tregua questo negotio dell’<lb/>
+Indie sia per andar a monte. </p>
+<p>Nell’incertezza o della guerra, o della continuatione della tregua <lb/>
+restano li mercanti, et traficanti assai confusi, et viene <lb/>
+più tosto desiderata questa tregua da loro, né si persuadono <lb/>
+altrimenti se non che habbi a seguire, et la vorrebbono per il trafico <lb/>
+che hora resta interdetto; et più sarebbe se seguisse la guerra. <lb/>
+Ella anco è desiderata da alcuni, che sono in magistrato, et <lb/>
+al giorno per mantenervisi, et altri alettati dal gusto che è <lb/>
+apparente del dominare sperando di esser ammessi in tempo di <lb/>
+tregua, la bramano. Alcuni altri però giudicano meglio la <lb/>
+rottura della guerra per li popoli che avezzi alla libertà si <lb/>
+sostentano colla guerra in essa, et colla quiete<ptr target="#tn16" n="16"/> si ruinirianno
+<pb n="161r" facs="10_161r" rend="0"/>
+con tutto questo molti si persuadono, che habbi a seguir la tregua <lb/>
+et qualche colonelli, et capitani hanno di qua levata mano di far <lb/>
+certe sorte di spese per la campagna per non spender infruttuosamente <lb/>
+se Spagnuoli la vogliono, par che non vi sia dubio, ch’ella non <lb/>
+sia per seguire, perché volendola si accommoderanno anco al <lb/>
+dicchiarir di voler trattar sopra il medesimo piedi dell’espirata; <lb/>
+ma dubitano però alcuni, che con questi discorsi si vogli andar <lb/>
+temporeggiando finché tutto sia pronto, et s’habbi danaro, o fondo <lb/>
+equivalente al bisogno delle spese della guerra; et forse anco <lb/>
+procurar d’incaminar qualche intrapresa sicura per cader poi <lb/>
+come il folgore all’improviso sopra queste Provincie. </p>
+<p>Si parla, che al signor principe Mauritio siano state fatte pervenir offer-<lb/>
+te grandissime fino di darli l’investitura del ducato di Gheldria <lb/>
+per lui, et per la posterità, ma come di questo per sé stesso non <lb/>
+ne fa caso alcuno, così per altro rispetto si tiene per fermo, che <lb/>
+non accetterebbe mai alcuna offerta; ma che desideri la tregua <lb/>
+questo viene affermato da molti: tuttavia mostra altrimenti <lb/>
+questo è negotio, che non può da mo’ innanti durar molto <lb/>
+celato, la stagione si avanza, tutte le compagnie hanno <lb/>
+ordine per moversi quando, et per dove sarà ordinato, le <lb/>
+levate di Germania del conte Guglielmo di Nassau, et del <lb/>
+conte di Stinon hanno<ptr target="#tn17" n="17"/> cominciato<ptr target="#tn18" n="18"/> ad arrivar in Paese, et può esser <lb/>
+che a quest’hora siano già entrate. Quanto all’altre levate <lb/>
+nel Palatinato per sue Eccellenze<ptr target="#tn19" n="19"/> alli 8 havevano cominciato <lb/>
+ad incaminarsi verso Brem per quivi imbarcarsi per condursi <lb/>
+in queste Provincie. L’une, et l’altre però si dice, che non <lb/>
+siano prese per maggior tempo che di quattro mesi che <lb/>
+forniti questi siano per riformarsi li capitani et officiali, et
+<pb n="161v" facs="10_161v" rend="0"/>
+ripartir li soldati in supplimento di altre<ptr target="#tn20" n="20"/> compagnie. </p>
+<p>Hanno havuto avviso questi signori che all’intorno di Colonia erano <lb/>
+arrivati diversi lorenesi, et molti soldati presi a soldo di <lb/>
+quelli licentiati dai principi, et questi per unirsi all’essercito del <lb/>
+marchese Spinola; ma aggiunge anco l’agente Bilderberch <lb/>
+che alcuni andavano fuggendo per mancamento di paga, et di <lb/>
+viveri. Et per di qua continuano a passar alcuna volta <lb/>
+sei alcuna doi, tal altra più, et meno de soldati; che <lb/>
+abandonano l’insegne de’ reggimenti al servitio de’ Spagnuoli per <lb/>
+il medesimo rispetto di mal pagamento. </p>
+<p>Viene anco scritto, che a Bittinghen, o altra simil piazza nella giuriditione <lb/>
+del duca<ptr target="#tn21" n="21"/> di Wirtimbergh dovevano di breve trovarsi doi depu-<lb/>
+tati della Maestà cesarea per esser col medesimo duca, col marchese <lb/>
+di Hanspach, et dicono anco col marchese di Bada <lb/>
+per qual negotio qui ancor non si scuopre, ma vostra Serenità da Vienna <lb/>
+ne haverà il compito raguaglio. </p>
+<p>Il marchese Landtgravio d’Armenstat solecita, et tenta appresso <lb/>
+li principi sudetti per persuader il Re palatino ad entar <lb/>
+in trattato d’accordo vedendo non poter avanzar altro, <lb/>
+ma questa Maestà non ha volontà di pensar ad altro mentre <lb/>
+in mano del re d’Inghilterra ha posto la somma del negotio. </p>
+<p>S’era sparsa una voce, che forse<ptr target="#tn22" n="22"/> sarà capitate ad orecchie di <lb/>
+vostra Serenità di<ptr target="#tn23" n="23"/> matrimonio seguito tra una figliola del duca di Sassonia <lb/>
+et un fratello del duca di Naiburgh con la cessione de’ beni <lb/>
+di Cleves spettanti a detto di Sassonia, ma fu tutta vanità per <lb/>
+quanto un agente suo passato già tre, o quattro giorni di <lb/>
+qua ha riferto. Viene confermato che esso di Sassonia <lb/>
+già si pentì di haver fatto ciò che haveva fatto, et rivedersi
+<pb n="162r" facs="10_162r" rend="0"/>
+dell’errore, et il medesimo agente si è lasciato intender, che havendo <lb/>
+il suo signore havuta la parola doppo l’investitura datagli delle <lb/>
+terre attinenti al paese di Cleves, anco di quelle che sono ai<ptr target="#tn24" n="24"/> <lb/>
+confini di Fiandra con obligo di mettervelo al possesso se <lb/>
+mancava la Maestà sua cesarea della promessa haverebbe risoluto <lb/>
+di prevalersi anc’egli del suo vantaggio, et non più crederle. Il che <lb/>
+aggiunto a quanto scrissi la passata settimana di qualche <lb/>
+altri disgusti<ptr target="#tn25" n="25"/> toccante la riformata religione, dà da <lb/>
+pensare che quel principe potrebbe far qualche gran <lb/>
+mutatione; tuttavia havendolo il mondo conosciuto tanto <lb/>
+interessato, et legato alla casa d’Austria non sa persuadersi <lb/>
+che sia mai per detornar camino. </p>
+<p>Fin sabbato passato otto giorni si ha avviso, che a Namurs fosse <lb/>
+stato l’ambasciator Digbi, che a buone giornate faceva il suo <lb/>
+camino verso la corte dell’Imperatore per condurvisi <lb/>
+quanto più presto per negotiar la restitutione del Palatinato <lb/>
+et l’accommodamento di questa Maestà coll’Imperatore. </p>
+<p>Tra tanto ha ella tentato appresso li signori Stati di haver un imprestido <lb/>
+di cento cinquanta milla fiorini, par che le sei provincie <lb/>
+accordino, et siano di buona volontà del darglieli; ma <lb/>
+quella di Holanda ancor non è risoluta. Il baron<ptr target="#tn26" n="26"/> di Donà <lb/>
+ha fatto ufficio efficace con tutte li deputati<ptr target="#tn27" n="27"/> delle città <lb/>
+né in altro, che in questo, et nel trovar modo di cavar <lb/>
+denari è stata dispensata dalla detta Congregatione <lb/>
+la settimana passata. Et preme quanto può il Re di <lb/>
+haver questa sodisfattione per mandar detto denaro al <lb/>
+conte di Mansfelt, che lo ricerca per dar contento alla <lb/>
+soldatesca ch’egli ha in piedi. Il duca di Baviera non
+<pb n="162v" facs="10_162v" rend="0"/>
+mostra minimo cenno di attaccarlo, et si dice, che habbi l’ordine di così <lb/>
+fare perché in un medesimo tempo sendo il detto Cavalliere senza denari <lb/>
+ruinerà la sua armata, sé stesso, et compirà di desolar il Palatinato <lb/>
+totalmente: et senza sfodrar spada si ottenirà quanto si brama. </p>
+<p>Del re di Danimarca non si intende altrimenti se non che tenisse sotto <lb/>
+l’armi sue in piedi, et che havesse passato l’Elba senza altro motivo. </p>
+<p>Il general Horatio Veer si trattiene colle genti di Inghilterra nel Basso <lb/>
+Palatinato con titolo di generale, et governa anco quelle del medesimo <lb/>
+Re palatino. È soldato di isperienza, di valore, et di molta <lb/>
+intelligenza nella professione. Anco quei reggimenti hanno <lb/>
+bisogno di denari. </p>
+<p>Dal re di Danimarca il cavalier Anstruder che per nome d’Inghilterra <lb/>
+si trattiene appresso quella Maestà procura di tirar ancor <lb/>
+imprestido di trecento milla fiorini per dar a questi principi <lb/>
+et per quanto ho potuto cavar di più di certo li doi cento milla <lb/>
+che sono capitati<ptr target="#tn28" n="28"/> ultimamente accordati per avanti <lb/>
+dal medesimo re di Danimarca furono per imprestido, havendo <lb/>
+il re della Gran Bretagna fatta instanza di haverne cinque-<lb/>
+cento milla. Quel Re non getta, né abandona così volon-<lb/>
+tieri il suo. La summa è grande, et viene creduto che <lb/>
+difficile sarà all’Anstruder il tirarsi a capo di tutto questo <lb/>
+imprestido. </p>
+<p>Dicono che ’l principe d’Anhalt privatamente si trovi a Staden colla moglie, <lb/>
+et figli, non havendo voluto venir qui per riputatione sendovi <lb/>
+stato con tanto honore gl’anni passati. </p>
+<p>Anco il conte di Holach, s’è ritirato dicono a Lubech aspettando <lb/>
+questi, et altri, che giri la fortuna. Gratie etc. </p>
+<p>Dall’Haya li 21 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="163r" facs="10_163r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="163v" facs="10_163v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 308 fin 309<ptr target="#tn29" n="29"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="052">
+<!--
+<p n="163vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 giugno 1621 ricevute 7 luglio n° 308 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "p-" corrected above "f-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "ve" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "lungh" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added in the outer margin.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-do" corrected above "-ta"; precedes the struck-through word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "sua" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "doi" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "M-" corrected above "m-."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "dopp" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-ie-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-to" corrected above "-no."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "q" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-tre" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> -"rse" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line on "del" crossed out with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "a-" corrected above "i-."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "b-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "de-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Is the result of a correction. "Presence of seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

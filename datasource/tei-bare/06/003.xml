@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.003 date 1618-03-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">003</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 12r-13v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">12r-13v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Maurice has received the testament of his recently deceased brother in Brussels. He has been excluded from inherting any of the lands in Brabant or other parts of the Habsburg Netherlands. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-04">4 marzo 1618</date>
+            <num>004</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="004">
+<div type="main" facs="main text of letter" n="004">
+<!--<p>4 marzo 1618, L’Aia (cc. 12r-13v)</p>-->
+<pb n="012r" facs="06_012r" rend="0"/>
+<head>main text of letter</head>
+<p>Replicata </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 13 </p>
+<p>Serenissimo Principe</p>
+<p>ha il signor principe Mauritio havuta mercordì la copia del testamento <lb/>
+del già Principe suo fratello nel quale è instituito herede universale <lb/>
+di tutti li beni paterni. Et non ostante, che sua Eccellenza sia nata di <lb/>
+altra madre, in ogni modo per il detto testamento resta patrone <lb/>
+del contado di Buren, et altri beni, che erano della madre <lb/>
+del Principe morto ordinandolo esso così nel detto testamento <lb/>
+con conditione però, che morendo senza figli legitimi capiti <lb/>
+il tutto nella persona del principe Henrico. A questo <lb/>
+testamento con artificiosa maniera è stato attaccato un <lb/>
+codicilo<ptr target="#tn1" n="1"/> che ben si scuopre essersi fatto espressamente per escluder <lb/>
+del tutto sua Eccellenza dai beni, che sono in Brabant, et nel resto delle provincie soggette alli serenissimi arciduchi, et ne viene <lb/>
+instituita perpetua herede madama Leonora di Borbon<ptr target="#tn2" n="2"/> <lb/>
+sorella del principe di Condè moglie del già detto principe <lb/>
+di Oranges. Si comprende anco molto bene esser il detto <lb/>
+codicillo stato fatto all’impressa, essendo mancante, et <lb/>
+caduco per sé stesso in molte parti. Il principe di <lb/>
+Oranges per accidente di offesa fattale da un suo cameriero <lb/>
+nell’interiore nel mettergli un crestiero in 24 hore fu <lb/>
+privo di vita, essendosi putrefatto incontinente la parte <lb/>
+offesa, onde non hebbe maggior tempo, che di pensar all’<lb/>
+anima sua, et non ad altro, il che compreso da quelli, che <lb/>
+havevano in intentione di far la bo[tt]a<ptr target="#tn3" n="3"/> formorono <lb/>
+una scrittura in forma di codicillo. Morte il Principe <lb/>
+a’ 21 febraro et la scrittura comincia in francese questo <lb/>
+dì 23 febraro 1618 il signor principe di Oranges fatti venir <lb/>
+alla sua presenza etc., et continua, che haverà la signora <lb/>
+Principessa sua moglie per la sua vedovanza, oltre
+<pb n="012v" facs="06_012v" rend="0"/>
+quello, che sta espresso nel suo testamento ch’è 16 mila fiorini d’entrata altri <lb/>
+20 mila ma prima era scritto 10 mila nell’originale, et poi cassato fatto <lb/>
+20 mila. Le lascia 4 signorie, che possono render da 24 mila fiorini per <lb/>
+anno nomina diverse terre in dono tra quali per equivoco si <lb/>
+mette Herental città di ragione dei serenissimi arciduchi in luoco <lb/>
+della terra di Heristal, che era del Principe. Le fa un donativo <lb/>
+di 200 mila scudi da pigliarli in contanti dove, et sopra che ella li <lb/>
+vorrà havere. La fa patrona in perpetuo della casa di Brusseles <lb/>
+che vale intorno 60 mila scudi come anco di tutti li mobili, che […]<ptr target="#tn4" n="4"/> <lb/>
+sole argenterie, et gioie vagliono più di 150 mila fiorini, et nel testa[mento] <lb/>
+non è beneficiata, che della metà. A questo codicillo si sono <lb/>
+sottoscritti tre, o quattro cavalieri dell’ordine del Tosone, et qualche <lb/>
+altro signore. Vi era nominato un sacerdote, che chiamato alla <lb/>
+lettura ha ricusato di esservi presente, et fatto cassar il suo nome <lb/>
+et sorridendo mi disse il signor principe Mauritio è stato un prete <lb/>
+huomo da bene, anco di questi si trovano nella vostra religione. <lb/>
+Disse poi quei cavallieri hanno fatto parlar un morto acce[n-]<lb/>
+nando alla data del codicillo, et hanno fatto dir de sì a[l] <lb/>
+Principe mio fratello ancorché non lo volesse o lo potesse dire. <lb/>
+Chiara, et espresse si conosce la caducità della detta scrittura <lb/>
+per quanto è detto di sopra; ma quello, che la fa più caduca è una <lb/>
+particolar dichiaratione, che doi, o tre volte è replicata dal principe <lb/>
+di Oranges nel testamento, che non vaglia altro testamento, o codicillo <lb/>
+se non sarà sottoscritto di sua mano, il che conforma anco <lb/>
+con un placart degl’istessi arciduchi, che particolarmente annula [li] <lb/>
+testamenti, et ultime volontà fatte dagl’istessi testatori se non <lb/>
+saranno sottoscritte come è il sudetto testamento che fermò di sua <lb/>
+mano esso Principe subito che sentì, che poteva sperar poco
+<pb n="013r" facs="06_013r" rend="0"/>
+della sua saluta. Non ostante tutto questo mi ha detto il signor principe <lb/>
+Mauritio, che havevano li serenissimi arciduchi dato il possesso alla signora <lb/>
+Principessa sua cognata, et tutto è fatto per escluder lui dal beneficio <lb/>
+dell’heredità; ma particolarmente dalle terre, et signorie che sono nel Bra-<lb/>
+bant, nel Lucemburgh, et altrove, poiché nel codicillo non si tocca <lb/>
+alcun altro luoco, che sia fuori del dominio di sue Altezze. Stante il <lb/>
+detto possesso bisognerà, che sua Eccellenza contesti lite, et mi ha detto, che dovea<ptr target="#tn5" n="5"/> <lb/>
+mandar in Brabant; ma che se bene si promette assai della <lb/>
+bontà dell’Altezze loro: tuttavia tiene per fermo, che si seguiterà <lb/>
+nell’ingiustitia, che però starà a vedere per risolver poi quello <lb/>
+che si stimerà a proposito. Et qualche spirito inquieto riputando, <lb/>
+che ’l signor Principe habbi ad haver del contrasto forma anco <lb/>
+giudicio, che questo non habbi<ptr target="#tn6" n="6"/> ad accommodarsi, che con la <lb/>
+forza et con la spada. Si starà a veder l’essito. Et io <lb/>
+giudicando tutto ciò degno della notitia della Serenità vostra non <lb/>
+ho voluto tralasciar<ptr target="#tn7" n="7"/> di significarglielo riverentemente. Gratie etc. </p>
+<p>Dall’Haya a’ 4 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="013v" facs="06_013v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata 3<hi rend="superscript">a</hi> </p>
+<p>n° 13 comincia n° 11 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="004">
+<!--
+<p n="013vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 marzo 1618 ricevute a’ 28 detto </p>
+<p>Aya. n° 13 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "B-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ink stain.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "h-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "-lo" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

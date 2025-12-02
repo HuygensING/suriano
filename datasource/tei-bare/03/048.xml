@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.048 date 1617-02-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">048</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 295r-296v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">295r-296v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter that Wassenhoven’s troops will travel to Venice via land  </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-14">14 febbraio 1617</date>
+            <num>100</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="100">
+<div type="main" facs="main text of letter" n="100">
+<!--<p>14 febbraio 1617, L’Aia (cc. 295r-296v)</p>-->
+<pb n="295r" facs="03_295r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il signor Gio. Seghers de Wassonhoven col consiglio, come <lb/>
+ha detto de’ signori Stati Generali, et coll’assenso de’ suoi capitani <lb/>
+et de’ patroni dei vasselli doppo haver dati buoni ordini <lb/>
+per la soldatesca imbarcata parte per venirsene <lb/>
+per la via di terra a’ piedi di vostra Serenità affine di saper <lb/>
+il luoco, ove doveranno far capo le sue genti quand’<lb/>
+ella non volesse, che arrivassero a Venetia conforme <lb/>
+al concertato nella sua capitulatione: per tanto <lb/>
+così pregato da lui lo accompagno colle presenti, oltre <lb/>
+quelle che gli diedi a’ 14 del mese passato, attestandole <lb/>
+di nuovo haver egli fatto ogni possibile per adempir <lb/>
+l’obligo suo. Gratie etc. </p>
+<p>Dall’Haya a’ 14 febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="295v" facs="03_295v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296r" facs="03_296r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="296v" facs="03_296v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Signor signor colendissimo </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="100">
+<!--
+<p n="296vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 febraro 1617 ricevute </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

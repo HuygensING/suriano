@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.013 date 1620-04-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 50r-51v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">50r-51v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the ship named San Marco has arrived in Texel. Relieved to hear that Cornelius Wixdorp had received the assignment from Venetian authorities to travel with the ships on their return journey and report on the voyage. All the muster rolls and instructions related to the 12 ships were apparently on the Santa Giustina which has perished, but a sailor has been able to recuperate the documents. No news about the remaining three ships. The payment of San Marco is expensive and he takes out money from Calandrini and Noirot. Currently in a dispute about monthly payment which according to the Dutch is 30 days that need to be paid. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-21">21 aprile 1620</date>
+            <num>017</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="017">
+<div type="main" facs="main text of letter" n="017">
+<!--<p>21 aprile 1620, L’Aia (cc. 50r-51v)</p>-->
+<pb n="050r" facs="09_050r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 195 fin 197 </p>
+<p>Serenissimo Principe </p>
+<p>entrò nel Tessel venerdì a notte il vassello San Marco. <lb/>
+Li signori dell’amiralità d’Amsterdam me ne diedero parte con <lb/>
+loro lettere espresse, che m’arrivorono domenica alle 8 hore <lb/>
+della sera; ma doi hore innanti n’havevo havuto l’avviso <lb/>
+con mia grandissima consolatione da quello, che l’eccellentissimo signor procurator <lb/>
+Veniero ha<ptr target="#tn1" n="1"/> ordinato di venir colli vasselli, il quale <lb/>
+ha<ptr target="#tn2" n="2"/> notato ciò, ch’è passato per il viaggio, et col prossimo <lb/>
+ordinario, che haverò essa nota, ne manderò una copia alla <lb/>
+Serenità vostra. Credevo, che il medesimo m(esser) Cornelio Wixdorp havesse <lb/>
+tutte l’instruttioni, roli, et conti delle dodici navi, et dicen-<lb/>
+domi che non, fui in pena perché era stato messo<ptr target="#tn3" n="3"/> tutto sopra <lb/>
+il vessello Santa Giustina, che si è perso; ma la buona <lb/>
+fortuna ha voluto, ch’uno de marinari nel fuggir il <lb/>
+pericolo hazardò<ptr target="#tn4" n="4"/> per ricuperar detti <lb/>
+documenti, così mi viene scritto d’Amsterdam, et d’hora <lb/>
+in hora aspetto che mi vengano portati: altrimenti <lb/>
+senza sarei stato in pena, et in confusione. Meriterà il <lb/>
+detto marinaro la manza. Al detto Wixdorp doverò <lb/>
+anco satisfar per il viaggio fatto<ptr target="#tn5" n="5"/> non m’ha potato <lb/>
+alcun assignamento fattogli dall’eccellentissimo signor procurator Veniero, <lb/>
+forse che l’haverò con le scritture che aspetto; ma in <lb/>
+ogni caso<ptr target="#tn6" n="6"/> haverei caro haver qualche avviso. Questo <lb/>
+haveva di stipendio al mese sopra il vassello Il leon <lb/>
+felice vinti fiorini non comprese le spese, che li erano <lb/>
+fatte dentro la camera di poppe. Il servitio che ora <lb/>
+ha fatto è stato straordinario, onde doverà anco questo esser <lb/>
+messo in consideratione, io lo trattenirò presso di me
+<pb n="050v" facs="09_050v" rend="0"/>
+per valermene in quello che potesse occorrermi in questi intrichi <lb/>
+delle navi. Dell’altre tre ancor non c’è avviso, che si doverà <lb/>
+attender da un giorno all’altro. Bisogna che le navi<ptr target="#tn7" n="7"/> siano in <lb/>
+mal ordine, et che ’l ritardo nasci tanto dal tempo, che dall’<lb/>
+accomodarsi per non perire. </p>
+<p>Per l’ispeditione, er pagamento del vassello San<ptr target="#tn8" n="8"/> Marco, et genti di <lb/>
+esso mi occorrerà del denaro assai, et così anco per gl’altri<ptr target="#tn9" n="9"/> et per <lb/>
+tutti li viveri; onde oltre la lettera che diedi sotto li<ptr target="#tn10" n="10"/> 12 <lb/>
+al Calandrini, et compagni, ne ho anco a’ 19 fatta un’<lb/>
+altra di 25 mila ducati alli medesimi diretta al Noirott, che <lb/>
+la presenterà alla Serenità vostra. </p>
+<p>Sono in una disputa, alla quale non vorrei ceder per il noleggio <lb/>
+dei vasselli, volendosi ch’io paghi li mesi a 30 giorni per mese <lb/>
+et non ostante, che ’l contratto dica mese corrente con tutto <lb/>
+questo li signori dell’Amiralità dicono che questo si accostuma <lb/>
+anco per il proprio servitio del Paese. Io tenirò fermo quanto <lb/>
+mi sarà possibile per ceder solo (se sarà) quando vedrò <lb/>
+non poter far di meno. Gratie etc. </p>
+<p>Dall’Haya li 21 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="051r" facs="09_051r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="051v" facs="09_051v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 195 finisce 197<ptr target="#tn11" n="11"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="017">
+<!--
+<p n="051vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 aprile 1620 ricevute a’ 6 maggio </p>
+<p>Del segretario Suriano. n° 195 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "il pericolo" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears; is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-5 … 197" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

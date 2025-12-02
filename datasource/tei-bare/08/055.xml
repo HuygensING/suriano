@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.055 date 1619-11-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">055</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 308r-311v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">308r-309v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that out of four ships which had been dismissed by Venice, the Mirror had arrived in Rotterdam. He went to city, but only to find that the sailors had already left. The captain of this ship had died during the journey and been buried on Sardinia. He will meet with deputies of admiralty to settle the accounts. No news about the other three returning ships. Advises it would be wisest to settle remaining rent in Venice to avoid exchange rate. Requests guidance/instruction about Henry. Noirrot is in charge of sale of ships especially the San Marco, which is a new one. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-11-05">5 novembre 1619</date>
+            <num>100</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="100">
+<div type="main" facs="main text of letter" n="100">
+<!--<p>5 novembre 1619, L’Aia (cc. 308r-309v)</p>-->
+<pb n="308r" facs="08_308r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 146 comincia 144 </p>
+<p>Serenissimo Principe </p>
+<p>delli quattro vasselli del numero delli dodici licentiati dall’<lb/>
+eccellentissimo signor Capitan generale venerdì a sera arrivò a Roterdam <lb/>
+quello nominato Lo specchio colli marinari proprii, et da trenta <lb/>
+in circa del vassello abbruggiato. La sera stessa dal scrivano <lb/>
+mi furono portate lettere del detto eccellentissimo signor Capitan generale, <lb/>
+et dell’illustrissimo signor commissario Morosini, et con queste li conti <lb/>
+de’ denari esborsati per pagamento de’ salari a dette cinque <lb/>
+navi; et io immediate la mattina seguente mi transferii a Roterdam per dar mostra, ma trovai che la più gran <lb/>
+parte de’ matelotti, et quasi tutti erano usciti et alcuni <lb/>
+passati chi a questa chi a quella città et chi di qua et chi <lb/>
+di là per visitar, et veder li suoi: onde protestai al Vice <lb/>
+capitano sendo il Capitano morto nel viaggio, et sepolto <lb/>
+sopra l’isola di Sardegna, che intendevo che d’allhora <lb/>
+fossero tutti li marinari fuori di servitio et meno haver <lb/>
+a pagar per li viveri, come tenirò saldo se però l’uso <lb/>
+del Paese non mi fosse fatto apparere esser in contrario, <lb/>
+che non lo credo. Dimani aspetto presso di me il rice-<lb/>
+vitor generale di quell’Amiralità per far conto seco <lb/>
+di quello che resta, ribatter quello che s’è dato di qua <lb/>
+et saldar il conto de’ morti, de’ fuggiti, et de’ conden-<lb/>
+nati alla galera. Non dubito di non haver a far assai, <lb/>
+et haver a contender più che assai. Come si sia pro-<lb/>
+curerò in tutte le cose che ’l servitio publico non <lb/>
+patisca, et nel consignar le restanti munitioni, <lb/>
+che la Serenità vostra non resti defraudata<ptr target="#tn1" n="1"/>. Delli altri <lb/>
+tre non vi è ancor novella alcuna che siano arrivati <lb/>
+in Amsterdam; et pur sono stati lasciati da questo sopra </p>
+<pb n="308v" facs="08_308v" rend="0"/>
+<p>Inghilterra. Questo conferma con ciò che riverentemente accennai <lb/>
+alla Serenità vostra che sarebbe stato bene l’accordar un termine <lb/>
+prefisso di doi mesi almeno o più se più havesse parso bene <lb/>
+perché in ogni modo fin qui hanno passati li doi mesi sendo <lb/>
+le lettere dell’eccellentissimo signor Generale de’ 21 agosto. Per gl’altri sette <lb/>
+restanti che vedo saranno licentiati se non si mette il detto <lb/>
+termine prefisso vi sarà pericolo che stiano ben di vantaggio <lb/>
+coll’iscusa della stagione, del verno, de’ giacci, che so io di <lb/>
+mille altri<ptr target="#tn2" n="2"/> subterfugii, che questi marinari hanno alle mani <lb/>
+et supplico la Serenità vostra per suo servitio commandare, che siano <lb/>
+fatti li conti tanto dell’haver che del dare sì per viveri, che <lb/>
+per salarii fino al partir di detti sette vaselli: perché questo <lb/>
+non può se non profitarle, che altrimenti le pretensioni saranno <lb/>
+in campagna, et così anco far che quelli a chi spetta <lb/>
+rendino conto delle amunitioni, et apprestamenti che restano <lb/>
+a fine di saper ciò che portano in dietro; altrimenti bisognerà <lb/>
+accommodarsi alla conscienza loro. Ho stimato bene <lb/>
+nella risposta, che do all’eccellentissimo signor Generale tovargliene un <lb/>
+moto; ma vostra Serenità potrà ordinar ciò che per sua <lb/>
+prudenza stimerà proprio, et buono. </p>
+<p>Quanto al pagamento delli restanti noli se vostra Serenità vuol pagarli <lb/>
+di qua perderà troppo perché non può haver il denaro che <lb/>
+a 46 piacchi o quarantasei e mezzo per ducato, che manco <lb/>
+ne sono sicuro, et ella ha havuta la libertà di pagarli di <lb/>
+là ch’è vantaggio evidente per lei nello stato che al presente <lb/>
+si trova il cambio, come all’incontro danno evidententissimo <lb/>
+quando io dovessi traserli il danaro per simil noleggi. </p>
+<p>Per il pagamento delli restanti salarii<ptr target="#tn3" n="3"/> a matelotti bisognerà
+<pb n="309r" facs="08_309r" rend="0"/>
+ch’io prendi il denaro a cambio, come farò, et ne procu-<lb/>
+rerò quel vantaggio, che potrò maggiore. </p>
+<p>È gran pezzo, che non ho sentito motivo alcuno dalli interessati <lb/>
+nel vassello abbruggiato: quando più parlino mi valerò <lb/>
+delle ragioni, che mi significa la Serenità vostra nelle lettere sue <lb/>
+de’ 18 del passato, et non mancarò di sostenere, che le <lb/>
+intensioni di essi interessati devono esser portate di là; <lb/>
+intanto attenderò anco quel di più, che ella potrà rice-<lb/>
+ver dall’eccellentissimo signor Generale per convalidar maggiormente le <lb/>
+ragioni di quella serenissima Republica ma in particolare è necessario <lb/>
+ch’io sappi, come altre volte ho riverentemente rappre-<lb/>
+sentato se data la licenza al vasello il Capitano habbi <lb/>
+havuto qualche cosa in scritto. Perché sopra ciò fanno gl’inte-<lb/>
+ressati il fundamento della sua pretensione dicendo che <lb/>
+non si era havuta alcuna cosa. Attenderò l’avviso. </p>
+<p>Aspetterò anco quello che vostra Serenità haverà deliberato nel negotio <lb/>
+del signor conte Henrico. È qualche giorno che non mi sono <lb/>
+trovato seco, et so nondimeno, ch’egli desidera saper <lb/>
+qualche cosa. </p>
+<p>Parmi di haver presentito, che la Serenità vostra ha in volontà di <lb/>
+comprar alcuni dei dodici vasselli restanti in conformità <lb/>
+di che ho saputo che ’l signor Filippo Calandrini colli comparte-<lb/>
+cipi hanno dato ordine al signor Melchior Noirott di atten-<lb/>
+der alla trattatione, et che habbi ogni auttorità per il <lb/>
+vassello San Marco. Il vassello è nuovo dell’anno passato <lb/>
+vostra Serenità doverà haver informatione. Se vadi bene alla vela <lb/>
+perché quanto al corpo del vassello era di bella grandezza <lb/>
+et fabricato molto bene. Gratie etc. </p>
+<p>Dall’Haya li 5 novembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="309v" facs="08_309v" rend="270"/>
+<p>Al serenissimo principe di <lb/>
+Venetia. </p>
+<p>3<hi rend="superscript">a</hi> <lb/>
+n° 146 comincia 144 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="100">
+<!--
+<p n="309vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 novembre 1619 ricevute a’ 20 detto </p>
+<p>Haya. n° 146 </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Arivo del vassello Lo Specchio <lb/>
+licentiato. Andato per dar mostra <lb/>
+trova li mateloti partiti da vassello. </p>
+<p>Ha protestato al Vice capitano che intende <lb/>
+siano fuori di servitio. Farà li conti <lb/>
+e procurerà il publico resti avantagiato. </p>
+<p>Raccordo di agiustar li conti et accordar <lb/>
+tempo prefisso per il ritorno. </p>
+<p>Pagar li restanti nolli di là, sarà <lb/>
+svantaggio per il cambio. </p>
+<p>Per pagar li matelotti piglierà il <lb/>
+danaro con manco discapito si potrà. </p>
+<p>Circa il vassello abbrucciato è bene <lb/>
+saper se il Capitano nella licenza hebbe <lb/>
+alcuna cosa inscritto che sopra ciò si fa <lb/>
+gran fondamento, dicendo essi che non <lb/>
+haveva havuto alcuna cosa. </p>
+<p>Desidera qualche cosa del conte <lb/>
+Henrico. </p>
+<p>Auttorità al Noirot di trattar <lb/>
+vendita de’ vasselli, e particolarmente <lb/>
+della nave San Marco. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea su pagamenti depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

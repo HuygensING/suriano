@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.033 date 1617-05-30</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">033</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, 168r-169v, 172r-173v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">168r-169v, 172r-173v, 170r-171v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Monthou is trying to get the States General to support the Duke of Savoy in some shape or form. Three deputies of the States have dined with Monthou to discuss the matter. Encloses the letter by Levenstein on the ship from Amsterdam. Reports on Temple’s attempts to get the archdukes to undertake action against Puteanus, whom he believes is the author of libel Corona Regia. No further news from Pasini in Brussels. One letter attached: a translation of a letter by Levenstein written from Amsterdam on 24 May</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-05-30">30 maggio 1617</date>
+            <num>054, 055</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="054">
+<div type="main" facs="main text of letter" n="054">
+<!--<p>30 maggio 1617, L’Aia (cc. 168r-169v, 172r-173v)</p>-->
+<pb n="168r" facs="04_168r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>sta il signor di Monthou sollecitando con pienezza d’ufficii <lb/>
+et aspettando con desiderio, che di<ptr target="#tn1" n="1"/> qui<ptr target="#tn2" n="2"/> si risolvi <lb/>
+qualche cosa a pro del suo Signore. La maggior parte de’ <lb/>
+deputati delle Provincie ha in petto la commissione, <lb/>
+et s’attende, che quelli di Ourisel l’inviino quelli <lb/>
+di Holanda durano fatica a venir a risolutione per <lb/>
+la continuata molesta occupatione nel fatto di religione <lb/>
+che non lascia far quello, che alcuni vorrebbono: tuttavia <lb/>
+tre giorni sono alcuni deputati delle città di questa <lb/>
+provincia, che s’invitorono a cena col signor di Monthou <lb/>
+nella consolatione della conversatione dissero, se ben <lb/>
+non molto chiaro, che nella congregatione vi era corso <lb/>
+il parer di aiutare; ma che si pensava al come, <lb/>
+et havevano accennato, che non si potendo stante <lb/>
+la moltiplicità, o più tosto agrezza delli affari presenti <lb/>
+et insieme la necessità del signor Duca risolver così tosto <lb/>
+si sarebbe provisionalmente aiutata sua Altezza per veder poi <lb/>
+di stringer un’unione, il che però non ha potuto il signor <lb/>
+di Monthou cavar per rincontro dal signor Bernvel, col <lb/>
+quale fu egli domenica, havendo sempre parlato sopra <lb/>
+generali, et detto solamente che haveva tanto fatto, che
+<pb n="168v" facs="04_168v" rend="0"/>
+nella sua Congregatione di Holanda si era preso l’affare per <lb/>
+mano. Si tiene per fermo dall’universale, che non si negarà <lb/>
+assistenza a sua Altezza ma che si vorrà saper come poter fidarsi <lb/>
+di lei. Et corre il concetto di addimandar qualche cosa <lb/>
+di certo o di aleanza in scrittura o di porto sicuro, o <lb/>
+l’una, et l’altro. Et per quanto ho potuto cavare <lb/>
+par che queste siano bene le cause della dilatione; <lb/>
+ma viene anco affermato, che vorrebbono pur intender <lb/>
+quello, che sia per far la Francia in servitio di detto Prin-<lb/>
+cipe già ch’è mutato lo stato delle cose, et del governo. <lb/>
+Tutti sono discorsi, li quali dano poco gusto a monsignor di <lb/>
+Monthou, che vorrebbe, che terminassero con buon effetto <lb/>
+della sua instanza. Spera egli, et io non manco di ado-<lb/>
+perarmi, come si conviene. </p>
+<p>Come esso signor Monthou aspetta l’essito con ansia; così si trava-<lb/>
+glia di non ricever certe lettere, che sua Altezza gli ha ispedite <lb/>
+per persona espressa in Alemagna con commissione, che <lb/>
+s’egli fosse partito di là le dasse al signor conte di Mansfelt per <lb/>
+fargliele havere. Tanto più si accresce in lui il desi-<lb/>
+derio di haver esse lettere; quanto sua Altezza in altre gli <lb/>
+dà conto di queste, si riporta ad esse, et li commettte<ptr target="#tn3" n="3"/>
+<pb n="169r" facs="04_169r" rend="0"/>
+di operar in conformità. Ha saputo, che quello, che <lb/>
+le portava era arrivato ad Heidelbergh, et havendo inteso <lb/>
+ch’esso<ptr target="#tn4" n="4"/> signor di Monthou era venuto in questi <lb/>
+paesi era partito per Hanspach per consegnarle in mano <lb/>
+del conte di Mansfelt, et non havendo altro avviso ha <lb/>
+risoluto di mandar espressamente a quella volta per <lb/>
+la ricuperatione di esse. </p>
+<p>Hebbi venerdì una lettera del signor conte di Levenstein con <lb/>
+l’avviso della provisione di quella parte de’ navi, che <lb/>
+intenderà la Serenità vostra dalla copia della medesima lettera qui <lb/>
+aggiunta. Mi scrive, che si affretterà anco maggiormente per <lb/>
+quello viene significato da Venetia<ptr target="#tn5" n="5"/> a Stuart, et <lb/>
+havendomi egli mandato quello che ha ricevuto nel <lb/>
+suddetto particolare anco questo invio colle presenti perché <lb/>
+vegga da che nasce l’eccitamento. Il suo Quar-<lb/>
+tiermastro, che per qualche affare venne ultimamente <lb/>
+all’Haya disse, che ’l signor Conte era stato a Embden , ma non <lb/>
+sapeva a che fare, et che doveva passar nella <lb/>
+Nortolandia, et quando quivi non havesse trovati <lb/>
+vasselli quanti havesse voluto per supplimento haveva <lb/>
+disegno di passar in Frisia. Sabbato a sera
+<pb n="169v" facs="04_169v" rend="0"/>
+rescrissi ad esso Signore eccitandolo, et sollecitandolo ad ispedirsi, <lb/>
+confirmandogli, ch’era desiderato con le sue genti; né man-<lb/>
+carò di dargli ogni stimolo perché quanto più presto <lb/>
+s’ispedisca. </p>
+<p>Fin la settimana passata partirono di Brusseles li serenissimi arciduchi <lb/>
+per Marimont ordinario luoco di ricreatione. Nell’estate <lb/>
+et il marchese Spinola è partito verso li confini di Frisia <lb/>
+per riveder alcune fortificationi fatte in diverse piazze <lb/>
+et nel ritorno deve passar in Fiandra per solecitar <lb/>
+che si fornisca la riviera di Gantes a Brugies prin-<lb/>
+cipiata tre anni sono. </p>
+<p>L’Ambasciator inglese estraordinario ha procurato appresso sue Altezze il castigo <lb/>
+del Potiano, che ha scritto quel libello famoso contra il Re <lb/>
+o di haverlo nelle mani; et veniva detto che doveva <lb/>
+trattar alcuna cosa delli affari di Cleves, et Giuliers <lb/>
+ma si credeva anco, che sarebbe restato con poca <lb/>
+sodisfattione per l’uno, et per l’altro, et che non <lb/>
+fosse per riportar che belle parole, et larghe promesse <lb/>
+senza effetto, perché il Potiano è fuggito; et <lb/>
+quanto a Vesel par che l’inclinatione sia di non <lb/>
+rilasciarlo così facilmente anzi si giudica, che ’l marchese </p>
+<pb n="172r" facs="04_172r" rend="0"/>
+<p>Spinola trovandosi in viaggio possi dar una scorsa fin la <lb/>
+per riveder quella piazza, et riordinar la perfettione <lb/>
+di qualche opera per maggior sicurezza di essa. </p>
+<p>Non sono ancor partite le navi, che mandano questi signori <lb/>
+ad assister al re di Svetia; ma sono pronte del tutto. <lb/>
+Et le genti per quanto ho inteso hanno fatto vela <lb/>
+la passata settimana. </p>
+<p>Non ha il Pasini havuta per anco alcuna risposta del <lb/>
+Belgioioso, ma l’aspettava, et me l’haverebbe fatta <lb/>
+sapere; come anco del Cesati, et del Cayro, havendo <lb/>
+trovato qualche amico confidente, che procurarci di <lb/>
+cavar il loro pensiero. Gratie etc. </p>
+<p>Dall’Haya a’ 30 maggio 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="172v" facs="04_172v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="173r" facs="04_173r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="173v" facs="04_173v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="054">
+<!--
+<p n="173vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>30 maggio 1617 ricevute 14 detto </p>
+<p>Haia </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="055" corresp="054" source="170r-171v" >
+<div type="main" facs="main text of attachment I" n="055" corresp="054" >
+<!--<p>Allegato I al n. 54 (cc. 170r-171v)</p>-->
+<pb n="170r" facs="04_170r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Traduttione della lettera del conte di Levenstein di Amsterdam scritta a’ 24 <lb/>
+maggio </p>
+<p>Signore con questa occasione non ho voluto mancare di avvisarvi, <lb/>
+che ho tanto operato, che per hora io ho fermato la metà de’ <lb/>
+vasselli, et spero dentro poco tempo haver il resto. Quelli <lb/>
+che di già sono fermati sono belli, grandi, et molto ben <lb/>
+ad ordine, et spero, che quando li haverò tutti insieme <lb/>
+haver una così bella flotta di navi, ch’ella sarà <lb/>
+sufficiente per farsi stradda contra la volontà di <lb/>
+quelli, che gliela vorranno impedire. Egli è ben vero <lb/>
+che per esser tutti già vasselli, et ben montati, mi costano <lb/>
+assai più ch’io non credevo: tuttavia è meglio dar qui <lb/>
+qualche cosa di vantaggio, che esser sforzato <lb/>
+doppo azardar il tutto. </p>
+<p>Io invio qui un estratto d’una lettera scritta a Stucart <lb/>
+la quale mi darà materia di affrettarmi, et di far <lb/>
+il mio debito vedendo il desiderio, et la buona volontà <lb/>
+della serenissima Signoria verso di me. Ecco quanto io non ho <lb/>
+voluto mancare di farvi sapere, come non mancarò <lb/>
+di far di tutto quello passerà toccante questo affare <lb/>
+restando in ogni occasione etc. </p>
+<p>Estratto della lettera scritta a Stucart <lb/>
+da Venetia a’ 7 aprile </p>
+<p>Et poi mi occorre dire che tutto il giorno mi viene addiman-<lb/>
+data quando veniranno queste genti del signor Conte
+<pb n="170v" facs="04_170v" rend="0"/>
+et lo aspettano con estremo desiderio perché lui è qui cono-<lb/>
+sciuto per soggetto di gran valore, et sperano da lui, et dalle <lb/>
+sue genti gran bene, et non veggono lettere del suo arrivo <lb/>
+et vostra Signoria illustrissima assicuri esso signor Conte che quando lui sarà di qua <lb/>
+haverà molto più sodisfatione, che quando lui partì <lb/>
+et di quello che lui ha concluso nelli patti etc. </p>
+<pb n="171r" facs="04_171r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="171v" facs="04_171v" rend="270"/>
+<p>Tradutione della lettera di <lb/>
+Levenstein <lb/>
+et copia dell’estratto di quanto <lb/>
+è stato scritto da Venetia </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above -and; followed by "-sti" crossed out; followed by "S(igno)ri" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "com-" corrected from "pro-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "sapute" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "S-" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.017 date 1617-11-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">017</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 104r-105v, 108r-109v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">104r-105v, 108r-109v, 106r-107v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this letter he describes his conversation with the French ambassador on the reaction of the French king on the the recent troop movements by the Milanese governor near the Venetian border. The French consider it as an act of outright hostility. In cipher, Suriano adds that he was scandalised by the way this ambassador spoke to him on the matter, warning that he does not know if the French are to be trusted. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-13">13 novembre 1617</date>
+            <num>032, 033</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="032">
+<div type="main" facs="main text of letter" n="032">
+<!--<p>13 novembre 1617, L’Aia (cc. 104r-105v, 108r-109v)</p>-->
+<pb n="104r" facs="05_104r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>il doppo desinare di mercordì passato sotto titolo di visita <lb/>
+fu a vedermi il signor ambasciator di Francia, et doppo qualche <lb/>
+complimento mi disse, che per avanti haveva inteso, che <lb/>
+da vostra Serenità ero stato avvisato, ch’ella haveva ricevuta <lb/>
+la stipulatione della pace, et tanto egli ancora haveva <lb/>
+portato di Francia; ma che hora intendeva haver io <lb/>
+havuti avvisi, ch’erano contrarii alla buon opera, che <lb/>
+haveva fatta il suo Re, et per tanto era venuto anco a <lb/>
+me per intenderne il vero. Io gli raccontai quanto era <lb/>
+successo, et con ufficio molto pieno gli rappresentai, che <lb/>
+quanto era stato fatto tutto ridondava in pregiudicio <lb/>
+della parola, et della riputatione di sua Maestà christianissima <lb/>
+interessatissima in questo negotio nel quale haveva durata tanta <lb/>
+pena per venirne a capo, che però toccava a lei il <lb/>
+risentirsene et con parole, et con quegl’effetti, che <lb/>
+devono esser proprii, et andai essagerando l’eccesso <lb/>
+de’ Spagnoli di quella maniera, che stimai più propria. <lb/>
+Mostrò bene l’Ambasciatore un poco di senso in questo <lb/>
+affare, et disse, che sua Maestà non haverebbe lasciata <lb/>
+passar la cosa così di sopra via, perché veramente <lb/>
+ella n’era interessata per ogni capo; ma non <lb/>
+lasciò di dire, che poteva esser stata un’insolenza <lb/>
+militare, et che non sarebbe poi successo altro. Io risposi
+<pb n="104v" facs="05_104v" rend="0"/>
+che questa non poteva chiamarsi insolenza militare; ma <lb/>
+concorso di volontà de’ capi spagnoli, et del governator di <lb/>
+Milano in particolare, et questo lo confermavano troppo <lb/>
+li particolari che ne havevo. L’insolenza militare si faceva <lb/>
+in passando; ma mutava natura mentre si saccheggia <lb/>
+un luoco d’altro principe, et si tiene il posto; che ’l <lb/>
+marchiar d’artiglierie, il concorso di tutta la cavallaria, <lb/>
+et infanteria ai confini, et entrar dentro lo Stato <lb/>
+senza licenza del principe patrone di esso, l’aggiunta <lb/>
+di gente alle compagnie, et molte altre cose dovevano <lb/>
+chiamarsi formatamente hostilità, et non accidental inso-<lb/>
+lenza oltreché si aggiungeva il nuovo ritorno dell’<lb/>
+armata di Napoli in golfo, che anco questo aggrava <lb/>
+il mancamento. Replicò questo è troppo lo <lb/>
+confesso. Et poi mi addimandò, se per passar a qualche <lb/>
+piazza del re di Spagna si faceva tal volta il <lb/>
+viaggio per quello della Republica, risposi che sì, et <lb/>
+era per il Cremasco nell’andar a Soncino, se ben <lb/>
+si poteva anco prender altra stradda. Rispose <lb/>
+haveranno voluto andar a Soncino, et io replicai <lb/>
+mostrando qualche modesto sentimento, poiché mi <lb/>
+pareva, che volese sostentar l’attione, come signore <lb/>
+tutta la cavallaria, et infanteria si tirerà da quella
+<pb n="105r" facs="05_105r" rend="0"/>
+parte per passar a Soncino picciola piazza, et senza <lb/>
+dimandar licenza. Li pensieri del governator di Milano, <lb/>
+et de’ Spagnoli non sono stati questi; ma di offender <lb/>
+la Republica, come han fatto, infringer la parola del suo <lb/>
+Re<ptr target="#tn2" n="2"/>, et mostrar di poco curarsi dell’operato <lb/>
+da sua Maestà christianissima; et che questo era il vero, et l’essen-<lb/>
+tiale della volontà del re di Spagna, o de’ suoi ministri. <lb/>
+Restò a questa mia seconda confutatione né altro mi <lb/>
+replicò se non che sperava, che in brevi giorni have-<lb/>
+rebbe havuti avvisi della<ptr target="#tn3" n="3"/> corte di quello fosse <lb/>
+seguito, perché là ancora la serenissima Republica haverà <lb/>
+fatto sapere quanto è successo, et si prometteva, <lb/>
+che anc’io colle prime lettere sarei stato avvisato <lb/>
+da vostra Serenità, che Spagnoli non sarebbono corsi più <lb/>
+avanti. Prometto bene alla Serenità vostra <lb/>
+che <hi rend="decoded">sono</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">restato scandalizato della forma <lb/>
+di parlare di questo Ministro; et sono <lb/>
+entrato in non poco sospetto, et tanto <lb/>
+maggiormente parmi di haverne causa, <lb/>
+poiché anco</hi> <lb/>
+tra qualche particolari è stato sparso che ’l villaggio <lb/>
+della Bettola<ptr target="#tn5" n="5"/> è luoco che non vale, di poco rilevo, <lb/>
+et che ’l fatto è seguito per causa de’ soldati
+<pb n="105v" facs="05_105v" rend="0"/>
+et cose simili, del che io non ho mancato, con chi m’è accaduto <lb/>
+di haverne discorso, che anco espressamente ne ho procurata l’occasione <lb/>
+di far constar l’attione molto ingiusta; et da non esser sopportata <lb/>
+per propria riputatione da quei principi, che si sono interessati, et <lb/>
+impegnati di parola. <hi rend="decoded">Insomma</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">io non so come mi debba fidar de’ Francesi, <lb/>
+mi par di sentir una gran contaminatione <lb/>
+di affetti; et in tanto per me, sia riveren-<lb/>
+temente detto, stimo di dover usar confi-<lb/>
+denza seco, in quanto servi a cavar <lb/>
+li suoi fini, et quello, che habbino in <lb/>
+cuore per schivar lo scoglio, affine di non <lb/>
+romper l’amicitia, tal qual ella si sia <lb/>
+ne’ presenti tempi. Io parlo con affetto, perché <lb/>
+mi par, che si vendi mercantia a caro <lb/>
+prezzo, et si spendi con doppiezza. <lb/>
+</hi></p>
+<p>Un’altra cosa devo con la riverenza mi solita dire a vostra Serenità <lb/>
+che in questa occasione si è anco sparso, che<ptr target="#tn7" n="7"/> <lb/>
+ella<ptr target="#tn8" n="8"/> mal volontieri ha sentita<ptr target="#tn9" n="9"/> la stipulatione <lb/>
+della pace, et che ’l richiamar delli suoi ambasciatori dalla <lb/>
+corte del Christianissimo è stato per il dispiacere, che<ptr target="#tn10" n="10"/> ha havuto <lb/>
+di essa<ptr target="#tn11" n="11"/> perché altrimenti non era stato tanto grande il male, che <lb/>
+non vi fosse stato pronto il rimedio, com’è seguito
+<pb n="108r" facs="05_108r" rend="0"/>
+coll’interpositione del Re christianissimo. </p>
+<p><hi rend="decoded">Anco</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">questo, con quanto le scrissi la passata settimana, <lb/>
+si vede, che è pasta della medesima farina.</hi> Io però non manco <lb/>
+con ognuno di far constar chiaro qual sia la vera <lb/>
+inclinatione di quella serenissima Republica, et anderò sostentan-<lb/>
+do la pia mente di lei, nel desiderar la quiete, et <lb/>
+la tranquillità propria, et commune nella provincia <lb/>
+d’Italia, et nella christianità tutta. Tanto ho stimato <lb/>
+mio debito, et esser bene di chiaramente esporre alla <lb/>
+Serenità vostra affineché ella colla prudenza sua ponderi <lb/>
+colle voci, che si spargono lo stato delle cose, et <lb/>
+deliberi quello, che stimerà bene, et di suo servitio. Gratie etc. </p>
+<p>Dall’Haya a’ 13 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="108v" facs="05_108v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="109r" facs="05_109r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="109v" facs="05_109v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn13" n="13"/> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="032">
+<!--
+<p n="109vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 novembre 1617 ricevute a’ 24 detto </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="033" corresp="032" source="106r-107v" >
+<div type="main" facs="main text of attachment I" n="033" corresp="032" >
+<!--<p>Allegato I al n. 32 (cc. 106r-107v; decodifica di cc. 105r-v, 108r)</p>-->
+<pb n="106r" facs="05_106r" rend="0"/>
+<head>main text of attachment I</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="106v" facs="05_106v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="107r" facs="05_107r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="107v" facs="05_107v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "2" corrected above "3", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "christianissimo" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "sono … poiché anco" decoding of the encrypted text can be found on c. 106r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "B-" corrected above "b-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Insomma … con doppiezza" decoding of the encrypted text can be found on c. 106r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "la S(ereni)tà v(ostra)" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ne" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "di essa" added in the outer margin with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Anco … farina" decoding of the encrypted text can be found on c. 106r; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "2" corrected above "3", uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

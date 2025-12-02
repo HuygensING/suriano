@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.005 date 1621-03-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 17r-19v, 22r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp592-612
+            </note>
+            <biblScope unit="page">17r-19v, 22r-v, 20r-21v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Hear only news of spanish war preparations without knowing the aim, given the end of truce is approaching, general fear it may be directed against the United Provinces. Reports he has received a visit from two deputies as the States are looking for assistance, they have read their letter to Venice out loud to him explaining their current predicament with the end of truce which also marks the end of alliance with France and England. One document attached: an Italian translation from French letter by the States General dated 13 March 1621</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-16">16 marzo 1621</date>
+            <num>007, 008</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="007">
+<div type="main" facs="main text of letter" n="007">
+<!--<p>16 marzo 1621, L’Aia (cc. 17r-19v, 22r-v)</p>-->
+<pb n="017r" facs="10_017r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 280 fin 281 </p>
+<p>Serenissimo Principe </p>
+<p>non sentendosi in queste parti, che preparationi d’armi dal <lb/>
+canto de’ Spagnuoli senza sapersi il fine, o dove le habbino <lb/>
+ad impiegare; et parendo, che fatti già assai forti in Alemagna <lb/>
+et tanto, che potrebbe apparentemente credersi, che bastassero <lb/>
+per dar la legge a quei principi, che nella stessa unione <lb/>
+vengono in sé<ptr target="#tn1" n="1"/> medesimi stimati disuniti chi per rispetti, <lb/>
+chi per timore, alcuni per pretensioni, altri per ambitione, <lb/>
+vanno li signori Stati pensando a’ casi loro; et dubitando, che <lb/>
+la piena per la vicinità della spiratione della tregua possi <lb/>
+cader sopra di loro, come continuano al proveder per <lb/>
+mare; et per terra alla sicurezza di queste Provincie; <lb/>
+così anco hanno pensato far ricorso alli aiuti esterni, <lb/>
+et principalmente a quelli, che per obligo di aleanza nelle <lb/>
+loro necessità saranno dovuti. Venero perciò hieri <lb/>
+a me doi deputati dell’assemblea, et doppo qualche <lb/>
+complimento mi dissero, che sendo pervenute all’orecchio <lb/>
+dei signori Stati le gran preparationi, che Spagnuoli face-<lb/>
+vano, et parendo, che tendessero alla spiratione della <lb/>
+tregua a travagliar queste Provincie si andavano <lb/>
+provedendo nella miglior maniera per non esser soprapresi <lb/>
+et perché vedevano, se la guerra cadeva sopra di loro
+<pb n="017v" facs="10_017v" rend="0"/>
+di poterla da sé soli difficilmente sostenere<ptr target="#tn2" n="2"/> havevano pensato <lb/>
+di opportunamente far ricorso, et avertir quelli che et per <lb/>
+vicinanza stimavano li più buoni amici, et per obligatione <lb/>
+di aleanza dovevano darli le promesse assistenze: onde <lb/>
+in particolare havevano deliberato di scriver a quella serenissima Republica congionta et per interesse di Stato, et per affettione <lb/>
+molto ben praticata, et conosciuta sincera, et reale verso <lb/>
+questi stati per significarle questo loro interesse, et <lb/>
+avvertirla del dubio, che tenevano di dover haver <lb/>
+la guerra aperta collo Spagnuolo, et che però in tal <lb/>
+caso da vostra Serenità haverebbono aspettato li suoi aiuti in <lb/>
+conformità dell’accordo stabilito tra l’una et l’altra <lb/>
+Republica che colla prima occasione haverebbono <lb/>
+inviate le loro lettere, et che a me come a ministro <lb/>
+di vostra Serenità havevano stimato proprio, et debito darne <lb/>
+parte perché potessi far ufficio in conformità a nome <lb/>
+dei signori Stati. Mi fecero lettura delle dette lettere, che <lb/>
+in sostanza hanno il medesimo contenuto, come la <lb/>
+prudenza della Serenità vostra lo intenderà dalla traduttione <lb/>
+che ne ho fatta, sendomene stata fatta haver la copia. <lb/>
+Ringratiai detti signori della communicatione, et dissi, che
+<pb n="018r" facs="10_018r" rend="0"/>
+non haverei mancato di significar quanto da essi m’era stato <lb/>
+espresso, aggiungendoli, che potevano li signori Stati esser sicuri, <lb/>
+che dalla serenissima Republica sarebbe stato puntualmente osservato <lb/>
+in caso di bisogno il contenuto delle capitulationi, et <lb/>
+principalmente, se (come anco essi dicevano) li signori Stati <lb/>
+havessero havuta, o fossero stati necessitati entrar in guerra <lb/>
+aperta. Altro non mi dissero, se non che mi pregarono <lb/>
+di nuovo a significar alla Serenità vostra l’instanza, et intentione <lb/>
+delli signori Stati. </p>
+<p>Questa così anticipata preventione mira per il mio poco <lb/>
+intendimento a procurar di assicurarsi dalla parte di <lb/>
+vostra Serenità della sua risolutione non tanto dei reciprochi <lb/>
+aiuti, che di qualche avantaggio secondo che l’urgenza, <lb/>
+et la necessità della spesa potesse portare, poiché da <lb/>
+qualche discorso ho cavato, che qualche spirito si per-<lb/>
+suade a sé stesso, et vuol che altri entrino anco nella <lb/>
+sua opinione, che vostra Serenità non sia per passar più oltre al <lb/>
+limite dell’accordato, per il quale quelli di retto senso <lb/>
+fondati nella sincerità, et ingenuità dell’animo <lb/>
+delle Signorie vostre eccellentissime non dubitano punto di non haver <lb/>
+risposta conforme all’instanza, et pontualissima effettuatione
+<pb n="018v" facs="10_018v" rend="0"/>
+alle promesse; anzi che habbi a concorrer con prontezza <lb/>
+all’aiuto debito, et a di più secondo la necessità; potendosi <lb/>
+l’Eccellenze vostre prometter, che mentre nei Paesi Bassi si haverà <lb/>
+la guerra, elle habbino a restar libere et dai sospetti, <lb/>
+et dall’offese dell’armi spagnuole. </p>
+<p>Quello serenissimo Principe, che trovo considerabile nella presente <lb/>
+congiontura è il non sentirsi, che cosa possino questi stati <lb/>
+promettersi dalli re di Francia, et d’Inghilterra in caso che <lb/>
+queste Provincie siano necessitate ad entrar in guerra; <lb/>
+et pur si può creder, che difficilmente senza l’assistenza <lb/>
+dell’una, et dell’altra potranno regersi. L’aleanze<ptr target="#tn3" n="3"/> <lb/>
+con quei principi spirano colla spiratione della tregua <lb/>
+et la sola ragione di stato può muoverli a sostener <lb/>
+questa Republica perché non cadi, et la sua ruina servi a <lb/>
+maggior grandezza anco da questa parte del re di <lb/>
+Spagna. Gl’ambasciatori che sono alle due corone <lb/>
+se non hanno parlato doveranno parlar, et eccitar <lb/>
+quei re a mirar a questo interesse. </p>
+<p>Sendo stato questi giorni a visitatione delli signori ambasciatori <lb/>
+di Francia, et d’Inghilterra non ho saputo ritrar quello, <lb/>
+che habbi ad esser di questa tregua, sendo così vicino
+<pb n="019r" facs="10_019r" rend="0"/>
+lo spirar di essa, et confessano l’un l’altro non saper compren-<lb/>
+der l’essito: quello di Francia però in particolare credo, <lb/>
+che Spagnuoli lasciando caminar così innanti, lascierà, che <lb/>
+da sé cadi una sospension d’anni, et in questo mentre<ptr target="#tn4" n="4"/> <lb/>
+parlamentar col mezo di alcuno, che sarà portato dal <lb/>
+tempo, et dall’occasione; giudicando, che la constitutione <lb/>
+presente di questo Stato, gl’humori che sono in esso alterati <lb/>
+da’ passati accidenti, et qualche altri rispetti del poco, che <lb/>
+si possono prometter dal proprio Paese per sostener <lb/>
+la guerra li facci condescender a dar d’orecchio <lb/>
+a qualche propositione di novella tregua. </p>
+<p>Un’altra consideratione porto alla prudenza di vostra Serenità et è che <lb/>
+le Amiralità non havendo tanti de’ proprii vasselli, <lb/>
+che possino supplir a far l’armamento deliberato né <lb/>
+prendono de’ mercantili, et li hanno noleggiati <lb/>
+in questa forma nell’amiralità di Amsterdam, che dovendo <lb/>
+metter la vela haveranno un mese di paga; passando <lb/>
+in Tessel un mese, et mezo; et unendo dal Tessel <lb/>
+tre mesi. Le altre Amiralità si sono<ptr target="#tn5" n="5"/> regolate<ptr target="#tn6" n="6"/> conforme <lb/>
+alla commodità, et più vicina sortita dei porti; ma <lb/>
+tutti restano noleggiati per tre mesi fermi, vostra Serenità può
+<pb n="019v" facs="10_019v" rend="0"/>
+considerar da questo il dubio in che sono li signori Stati di quello <lb/>
+habbi ad esser di questa tregua. </p>
+<p>Scrissi riverentemente a vostra Serenità col mio precedente dispaccio, che <lb/>
+mando qui aggiunto replicato n° 278 fin 279 la speranza <lb/>
+che dava il conte di Mansfelt di qualche buon <lb/>
+progresso col ramasso di genti, che haveva fatte in <lb/>
+Bohemia, et l’instanza, che faceva di esser aiutato; <lb/>
+et che questo doveva esser messo in deliberatione <lb/>
+dei signori Stati; mi<ptr target="#tn7" n="7"/> viene detto che sia stato risoluto <lb/>
+di darli cinquanta milla fiorini, ch’è una mesata <lb/>
+come si dava al Re palatino<ptr target="#tn8" n="8"/>, volendo veder per <lb/>
+una volta quello possi profitar questa summa, et <lb/>
+se vedranno, che la fortuna adherisca ai disegni <lb/>
+risolveranno anco di vantaggio; ma se saranno necessitati <lb/>
+per sé medesimi non ha dubio, che retireranno et quelli, <lb/>
+et altri che dano ai principi dell’Unione. </p>
+<p>Dicono che le navi che si armano devono esser ad ordine <lb/>
+per la fine del presente mese, et fuori dei porti per la <lb/>
+settimana santa, sendo il venerdì santo il giorno <lb/>
+della spiratione della tregua, et alcuni vogliono creder <lb/>
+che non possi esser di meno, che non segui qualche
+<pb n="022r" facs="10_022r" rend="0"/>
+atto d’hostilità mentre questi si metteranno innanti ai <lb/>
+porti<ptr target="#tn9" n="9"/> attinenti ai serenissimi arciduchi; se non haveranno <lb/>
+però li capitani qualche commissione secreta, che servi <lb/>
+a divertir, et fuggir l’occasioni d’incontro per non esser <lb/>
+imputati<ptr target="#tn10" n="10"/> esser li primi ad attaccare. </p>
+<p>Io in questa congiontura procurerò di andar penetrando <lb/>
+tutto quel più, che a me sarà possibile, et aspetterò da vostra Serenità <lb/>
+li suoi prudentissimi avvertimenti, et massime sopra la <lb/>
+instanza, che con loro lettere sopradette le faranno li signori <lb/>
+Stati; et ho saputo, che li deputati di Frisia, et qualche <lb/>
+altri haverebbono voluto volentieri, che fosse stato mandato <lb/>
+alla Serenità vostra nella occasione presente più tosto un ambasciatore <lb/>
+che le sudette lettere; ma<ptr target="#tn11" n="11"/> si attrubuisce<ptr target="#tn12" n="12"/> la causa <lb/>
+alla provincia di Holanda, che sta tuttavia su la <lb/>
+consultatione intorno al soggetto, et li affari presenti <lb/>
+levano il tempo a poter terminar molte cose come <lb/>
+vorrebbono, che seguisse: tuttavia si crede, che non <lb/>
+si licentierà detta assemblea, che non si risolvi in <lb/>
+questo proposito qualche cosa. </p>
+<p>Nel punto, che stavo per terminar le presenti li signori Stati mi mandano <lb/>
+le lettere congionte per vostra Serenità facendomi pregar di mandarle con le mie. Gratie etc. </p>
+<p>Dall’Haya li 16 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="022v" facs="10_022v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 280 fin 281<ptr target="#tn13" n="13"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="007">
+<!--
+<p n="022vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 marzo 1621 ricevute a’ 7 aprile </p>
+<p>Del segretario Suriano. n° 280<ptr target="#tn14" n="14"/> </p>
+<p>Con la transaltion della <lb/>
+lettera dei signori Stati <lb/>
+a vostra Serenità. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="008" corresp="007" source="20r-21v" >
+<div type="main" facs="main text of attachment I" n="008" corresp="007" >
+<!--<p>Allegato I al n. 7 (cc. 20r-21v)</p>-->
+<pb n="020r" facs="10_020r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Translatione dal francese della lettera dei signori Stati</p>
+<p>Serenissimo Principe, illustrissimi et eccellentissimi signori collegati, et confererati </p>
+<p>la consideratione, nella quale si trovano ridotti gl’affari della christianità per <lb/>
+li grandi, et diversi muovimenti, che l’hanno tenuta essercitata <lb/>
+doppo alcuni anni sono, in maniera tale, che par che la loro <lb/>
+rivolutione minacci un violente scosso, et cambiamento alla <lb/>
+presente conditione, et riposo di questa Republica in particolare <lb/>
+sopra il rancontro dell’espiratione della sua tregua, che ci sta <lb/>
+nanti gl’occhi, ci obliga di pensar molto bene agl’ispedienti <lb/>
+per la nostra conservatione, per lo stabilimento della quale <lb/>
+non mancamo in consequenza d’impiegar, et il pensier nostro <lb/>
+et li nostri mezi a fine di metterla et per mar, et per terra <lb/>
+in tal buono, et sicuro stato, che mediante la gratia di Dio <lb/>
+noi<ptr target="#tn15" n="15"/> speriamo, che senza esser mossa, ella potrà sostenersi, <lb/>
+et romper li più gran tentativi di quelli, che col vantaggio <lb/>
+delle prosperità loro vorrebbono farne l’intrapresa. </p>
+<p>Ma poiché per non piegar in questo dovere sotto il dispendio <lb/>
+di così estrema spesa, che ci sarà necessario fare, et conti-<lb/>
+nuare, già haveremo bisogno di prevalersi parimente dell’<lb/>
+aiuto, et assistenza dei nostri buoni amici, et collegati <lb/>
+interessati o per stato o per trattato alla manutentione <lb/>
+nostra, habbiamo stimato necessario di dover informar la <lb/>
+Serenità vostra della giusta aprehensione della quale siano tocchi
+<pb n="020v" facs="10_020v" rend="0"/>
+d’una forte guerra aperta, nella quale secondo ogni appa-<lb/>
+renza saremo al primo giorno sforzati d’entrare; stanti <lb/>
+li grandi apparecchi, che fanno il re di Spagna, et li prin-<lb/>
+cipi, che lo secondano; et insieme della nostra ferma risolutione <lb/>
+di ben vigorosamente ripulsarla; et questo a fine che vostra Serenità <lb/>
+portata dalla sua grande, et ordinaria affettione al bene, <lb/>
+et prosperità di questo Stato vogli sovenirsi a tempo del <lb/>
+reciproco aiuto promesso nella conventione non ha molto <lb/>
+conclusa, et ratificata fra le nostre republiche in caso <lb/>
+di guerra aperta; et dar ordine perché profitamo de-<lb/>
+gl’effetti con quella prontezza, che la necessità, et il pensiero <lb/>
+di lei verso la nostra difesa lo ricerca; et come appunto <lb/>
+dal canto nostro haveressimo realmente sodisfatto se per <lb/>
+aventura la vostra serenissima Republica fosse stata la prima <lb/>
+ad esser assalita. Sopra che aspettando, et che la Serenità vostra <lb/>
+si compiaccia di avertirci delle sue deliberationi; noi prega-<lb/>
+remo Iddio. </p>
+<p>Serenissimo Principe illustrissimi et eccellentissimi signori collegati, et confederati <lb/>
+per la prosperità grandezza, et lunghissima vita di vostra Serenità. </p>
+<p>Dall’Haya a’ 13 marzo 1621 </p>
+<p>di vostra Serenità et Eccellenze </p>
+<p>affetionatissimi amici, et collegati per farle servitio </p>
+<p>li Stati Generali de’ Paesi Bassi Uniti </p>
+<pb n="021r" facs="10_021r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="021v" facs="10_021v" rend="270"/>
+<p>Traduttione dal francese <lb/>
+della lettera dei signori Stati </p>
+<p>nella prima n° 280 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "stessi" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-re" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "spirano" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ntr-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "m-" corrected above "M-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o" corrected above "-ato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Seal and traces of seals."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-0" corrected above "-1."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes the struck-through letters.</p></note>
+</div>
+</body>
+</text>
+</TEI>

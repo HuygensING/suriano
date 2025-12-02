@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.034 date 1617-12-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">034</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 198r-v, 203r-205v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">198r-v, 203r-205v, 199r-v, 202r-v, 200r-201v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Suriano reports he has informed the States General of the new letters he has received from Venice. There are problems with the post, the Republic of Venice requests more information regarding three war ships and Suriano in this letter promises to investigate the matter </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-23">23 dicembre 1617</date>
+            <num>061, 062</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>23 dicembre 1617, L’Aia (cc. 198r-v, 203r-205v)</p>-->
+<pb n="198r" facs="05_198r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>poche volte si è questa settimana ridotta l’assemblea <lb/>
+dei signori Stati Generali rispetto alla Congregatione di <lb/>
+Holanda, che fu hieri licentiata per ritornar per li <lb/>
+x del mese venturo. Onde questa mattina per <lb/>
+qualche publico affare è stata convocata la detta <lb/>
+assemblea, et io ho presa occasione di andar a <lb/>
+communicarle quel tanto, che mi è pervenuto hieri <lb/>
+a notte con le sue lettere de’ 8 dello stante. Fu <lb/>
+aggradita la communicatione ringratiandomene <lb/>
+il Presidente a nome di tutti con parole molto <lb/>
+affettuose, usando dei soliti concetti della mala <lb/>
+dispositione de’ Spagnuoli, et dicendo che chiari <lb/>
+si vedevano li loro artificii, et che li principi <lb/>
+apprenderanno ciò che sia il meglio il prestarli, <lb/>
+o non prestarli fede, et che ad ognuno tutta <lb/>
+per la parte sua haver pensiero a quello, <lb/>
+che sia per succeder a fine di ostare ad una <lb/>
+espressissima ambitione, che si vede esser nell’ani-<lb/>
+mo di essi, et io replicando qualche altro
+<pb n="198v" facs="05_198v" rend="0"/>
+concetto di eccitamento a pensar bene alle cose, doppo haver-<lb/>
+li ringratiati di quanto havevano scritto sopra la <lb/>
+mia instanza in Zelanda, come intenderà la Serenità vostra <lb/>
+et auguratole le buone feste mi licentiai, lasciandoli <lb/>
+in sostanza in scritto quanto li havevo espresso di <lb/>
+bocca. </p>
+<p>Dalle medesime lettere delli 8 veggo, che le Signorie vostre eccellentissime <lb/>
+mi havevano scritto al primo, et questo dispaccio, come <lb/>
+lo ho la passata<ptr target="#tn1" n="1"/> settimana riverentemente signifi-<lb/>
+cato non m’è pervenuto dubito, che sia stata intercetta[ta] <lb/>
+poiché l’ordinario di Anversa, et quello di Colonia <lb/>
+che portano le lettere di Augusta ambidoi sono ar-<lb/>
+rivati, et li particolari hebbero le lettere loro. </p>
+<p>Mi spiace dell’accidente per il publico presuponendo <lb/>
+che vi potesse esser qualche ordine da essequire per <lb/>
+suo servitio, et qualche informatione propria<ptr target="#tn2" n="2"/> <lb/>
+nelle presenti congionture. </p>
+<p>Coll’ordinario, che fu svaleggiato sotto Bassano veniva <lb/>
+una lettera per vostra Serenità scritta a’ 15 del passato, nella
+<pb n="203r" facs="05_203r" rend="0"/>
+quale le davo semplicemente conto, che al Capo Finis <lb/>
+Terrae dieci giorni prima era stato veduto il signor conte <lb/>
+di Levenstein con le sue navi, né altro vi era in esse. </p>
+<p>Ho veduto in queste sue ultime lettere de’ 8 il desiderio <lb/>
+che hanno l’Eccellenze vostre di esser informate di 3<ptr target="#tn3" n="3"/> <lb/>
+navi di guerra<ptr target="#tn4" n="4"/>. Non mancarò di prenderne ogni <lb/>
+maggior informatione <hi rend="decoded">tanto</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">per le conditioni, et per la facilità <lb/>
+dell’haverle, quanto per ognaltro <lb/>
+particolare. Intanto non lascierò di <lb/>
+dire alla Serenità vostra, che crederei, che il <lb/>
+meglio, ch’ella potesse fare per esser ben <lb/>
+servita, sarebbe il far far instanza <lb/>
+in publico a questi signori Stati d’haverne <lb/>
+tre, quattro, o quante a lor paresse, <lb/>
+sotto alla loro auttorità, or se si potesse <lb/>
+anco col medesimo soldo, et conditioni, che sono <lb/>
+accostumati ad esser tenute da loro,</hi>
+<pb n="203v" facs="05_203v" rend="0"/>
+<hi rend="decoded">che <lb/>
+dissero esser ben servita, seben non lascierò <lb/>
+anco d’aggiungerle, passami un dubbio <lb/>
+per la mente, se questi capitani de’ vasselli <lb/>
+volessero obedir così puntualmente ai suoi <lb/>
+capi da Mare per la pretensione, che hanno <lb/>
+che non vi siano al mondo né più <lb/>
+buoni, né più valorosi marinari di essi, <lb/>
+et vostra Serenità già lo ha provato, et <lb/>
+qui alcuni si dolsero, come mi par di <lb/>
+haver scritto, che se fosse stato fatto a <lb/>
+modo loro, già l’armata spagnola <lb/>
+sarebbe rovinata; ma quando vi <lb/>
+fosse l’auttorità publica, crederei, che <lb/>
+sotto havesse a passar bene; né <lb/>
+altro ostacolo inoltre non vi veggo, <lb/>
+se non che questi signori o non si volsero <lb/>
+così facilmente impegnar, o se pur <lb/>
+lo volsero fare, tentassero cavar <lb/>
+profitto da questo</hi>
+<pb n="204r" facs="05_204r" rend="0"/>
+<hi rend="decoded">di condur meglio <lb/>
+vostra Serenità a collegarsi con essi, per esser <lb/>
+sicuri</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">nelle loro occasioni delli <lb/>
+reciprochi aiuti.</hi> Ma queste cose sono degne della <lb/>
+singolar prudenza di quell’eccellentissimo Senato, le quali io <lb/>
+più per abondanza di riverente affetto al servitio <lb/>
+publico proferisco, che perché non conoschi esser dalle <lb/>
+Signorie vostre eccellentissime prevedute, et considerate. Gratie etc. </p>
+<p>Dall’Haya a’ 23 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="204v" facs="05_204v" rend="0"/>
+<p>Blank page</p>
+<pb n="205r" facs="05_205r" rend="0"/>
+<p>Blank page</p>
+<pb n="205v" facs="05_205v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="205vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 decembre 1617 ricevute a’ 10 gennaro </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="062" corresp="061" source="199r-v, 202r-v, 200r-201v" >
+<div type="main" facs="main text of attachment I" n="062" corresp="061" >
+<!--<p>Allegato I al n. 61 (cc. 199r-v, 202r-v, 200r-201v; decodifica di cc. 203r-204r)<ptr target="#tn7" n="7"/></p>-->
+<pb n="199r" facs="05_199r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="199v" facs="05_199v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="202r" facs="05_202r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="202v" facs="05_202v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="200r" facs="05_200r" rend="0"/>
+<p>2<hi rend="superscript">da</hi> </p>
+<pb n="200v" facs="05_200v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="201r" facs="05_201r" rend="0"/>
+<p>Prima </p>
+<p>1618 5 febraro </p>
+<pb n="201v" facs="05_201v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "infor-|matione propria" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the deleted encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "navi di guerra" added above the deleted encrypted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "tanto … reciprochi aiuti" decoding of the encrypted text can be found on c. 199r-v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "che le loro" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> cc. 200r-201v loose or detached strips of paper.</p></note>
+</div>
+</body>
+</text>
+</TEI>

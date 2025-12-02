@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.055 date 1617-02-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">055</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 329r-330v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">329r-330v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>As the departure of messenger has been delayed he provides a further update. He hopes the ships will set sail soon </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-26">26 febbraio 1617</date>
+            <num>109</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="109">
+<div type="main" facs="main text of letter" n="109">
+<!--<p>26 febbraio 1617, L’Aia (cc. 329r-330v)</p>-->
+<pb n="329r" facs="03_329r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>essendosi trattenuto il messaggiero per suoi particolari <lb/>
+affari a partir fino a questa mattina ho stimato bene <lb/>
+di aggiunger le presenti alla Serenità vostra con avviso che ’l <lb/>
+tempo continua quasi nello stesso stato di hieri. </p>
+<p>Quelli della famiglia del conte Gioanni sono andati <lb/>
+a nave, et spero nel signor Dio, che le genti finalmente <lb/>
+usciranno; se però doppo ’l mezogiorno non cambiasse <lb/>
+il vento. Il signor Conte non è ancor ritornato, et per <lb/>
+me credo, che voglia forse trattenersi a veder <lb/>
+a far vela nel Tessel. Se sarà così io immediate <lb/>
+ispedirò l’avviso dietro al messaggiero. Gratie etc. </p>
+<p>Dall’Haya a’ 26 febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="329v" facs="03_329v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="330r" facs="03_330r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="330v" facs="03_330v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="109">
+<!--
+<p n="330vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 febraro 1617 ricevute 15 marzo </p>
+<p>Haia 3<hi rend="superscript">a</hi> </p>
+<p>Il tempo continua nello stato <lb/>
+d’hieri. </p>
+<p>La famiglia del Conte è <lb/>
+andata a nave. </p>
+<p>Spera che le genti partiranno. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

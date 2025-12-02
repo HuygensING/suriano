@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.077 date 1621-11-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">077</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 383r-386v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">382r-v, 385r-v, 383r-384v, 386r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Troops on way to the Palatinate are disorganized and plundering as well as murdering. Spain have reconquered Berghstat and are burning several villages to the ground, including the castle of Louise Juliana Nassau. Carleton has told him in confidence that Frederick wants to travel to Palatinate or Denmark and try to get some subsidies from Venice (via his father-in-law). Van Aerssen has left to England and tried to come up with further excuses as to why he should not go to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-11-22">22 novembre 1621</date>
+            <num>123, 124</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="123" corresp="124" source="382r-v, 385r-v" >
+<div type="main" facs="main text of attachment I" n="123" corresp="124" >
+<!--<p>Allegato I al n. 124 (cc. 382r-v, 385r-v; decodifica di c. 384r)</p>-->
+<pb n="382r" facs="10_382r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="382v" facs="10_382v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="385r" facs="10_385r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="385v" facs="10_385v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="124">
+<div type="main" facs="main text of letter" n="124">
+<!--<p>22 novembre 1621, L’Aia (cc. 383r-384v, 386r-v)</p>-->
+<pb n="383r" facs="10_383r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 350 comincia 349 </p>
+<p>Serenissimo Principe </p>
+<p>se una settimana vengono a queste Maestà nuove di qualche <lb/>
+gusto, seguitano l’altre con poco contento, havendo elle <lb/>
+questi ultimi giorni inteso per via di Colonia, et d’altrove <lb/>
+che le genti, che venivano d’Amburgh, et andavano <lb/>
+verso il Palatinato, non essendo regolate, come si conveniva <lb/>
+hanno rincontrato in diversi luochi nei contadini, che ne <lb/>
+hanno morti, et fuggati; che delle genti del giovane <lb/>
+duca di Bransuich non si havevano ancor nuove sicure; che <lb/>
+Spagnuoli havevano preso di nuovo il Berghstrat, il quale<ptr target="#tn1" n="1"/> era stato <lb/>
+ricuperato dalle genti di questo Re, eccetto Stein<ptr target="#tn2" n="2"/>; havendo <lb/>
+il general Veer lasciate quelle piazze in esso Berghstrat<ptr target="#tn3" n="3"/> non poterle<ptr target="#tn4" n="4"/> <lb/>
+tenere; et par che si aggiunghi, che Spagnuoli habbino <lb/>
+corso fino a Heidelbergh; et fatto intimar ai cittadini <lb/>
+di rendersi; altrimenti protestavano<ptr target="#tn5" n="5"/> di voler abbruggiar <lb/>
+tutte le piazze prese. Questo è vero, et non dubito che <lb/>
+la Serenità vostra l’haverà havuto anco da altra parte, che <lb/>
+Spagnuoli habbino abbruggiati quattro grossi villaggi <lb/>
+del marchese di Hanspach<ptr target="#tn6" n="6"/> et più di altri vinti<ptr target="#tn7" n="7"/> piccioli <lb/>
+luochi del medesimo Marchese abbruggiati, o saccheggiati. <lb/>
+Di più che sia stato abbruggiato<ptr target="#tn8" n="8"/> da<ptr target="#tn9" n="9"/> essi Spagnuoli <lb/>
+un bellissimo vilaggio<ptr target="#tn10" n="10"/>, o più tosto castello della signora <lb/>
+contessa di Hanaut sorella del signor principe d’Oranges <lb/>
+et che in tutti quei contorni, andavano facendo non <lb/>
+estorsioni; ma crudeltà indicibili, stando li soldati <lb/>
+con li moschetti in posta di tirare; et anco tiravano
+<pb n="383v" facs="10_383v" rend="0"/>
+et amazzavano quelli, che ardivano, o smorzar il fuoco, <lb/>
+o salvar qualche cosa da esso; et par che tutto faccino alla <lb/>
+disperata, et si dubita<ptr target="#tn11" n="11"/>, che così proseguiranno avanti<ptr target="#tn12" n="12"/> li <lb/>
+Spagnuoli uniti con quasi tutti li Bavaresi per impossessarsi <lb/>
+di tutto il Basso Palatinato. </p>
+<p>Del conte di Mansfelt si parla, che havesse messo in contributione <lb/>
+il vescovato di Spira, et che anco dalle sue genti erano <lb/>
+stati<ptr target="#tn13" n="13"/> abbruggiati molti villaggi. </p>
+<p>Worms pagava anco qualche denaro; et haveva di volontà <lb/>
+prese qualche genti di Mansfelt per guarnigione, et pro-<lb/>
+pria sicurezza. </p>
+<p>Questo non serve a consolatione di detti principi; mancò <lb/>
+la nuova confermatione, che alcuni delli principi, <lb/>
+che erano del suo partito si armino; parendo impossibile <lb/>
+che possino far cosa buona. </p>
+<p>Al marchese di Bada sono state inviate dal signor principe <lb/>
+di Oranges lettere intercette, che ’l marchese Spinola <lb/>
+scriveva a don Gonzal di Cordova in Palatinato, ordi-<lb/>
+nandogli, che preso Franchendal, pigliando seco il <lb/>
+miglior sforzo delle sue genti passasse nel marchesato <lb/>
+di Bada, et quivi abbruggiasse, et rovinasse quant[o]<ptr target="#tn14" n="14"/> <lb/>
+poteva. </p>
+<p>Non si è saputo se non l’arrivo di Dighbi in Inghilterra et quanto <lb/>
+alla relatione, che possi haver fatta<ptr target="#tn15" n="15"/>, il vento contrario <lb/>
+la fa aspettar a questa<ptr target="#tn16" n="16"/> Maestà con gran desiderio a fine
+<pb n="384r" facs="10_384r" rend="0"/>
+di sentir il frutto, che ne può derivare<ptr target="#tn17" n="17"/>, preparandosi secondo quella far risolutione propria al suo interesse.<ptr target="#tn18" n="18"/> </p>
+<p>Con nuova occasione, c’ho venduto questo signor Ambasciator inglese mi sono <lb/>
+di nuovo confermato che questa Maestà sia risoluta <lb/>
+agiustate le cose con buon fondamento <hi rend="decoded">voler</hi><ptr target="#tn19" n="19"/> <hi rend="decoded">passar questa vernata, o in Palatinato, o in <lb/>
+Danimarca, et con darsi poi con buon ordine alla <lb/>
+ricuperatione del suo. Mi ha il medesimo signor Ambasciator <lb/>
+communicato in confidenza esser questa Maestà <lb/>
+d’intentione, intesa la risolutione della maestà <lb/>
+d’Inghilterra, che non si promette se non buona, <lb/>
+et massime nei presenti tempi, che si tratta di <lb/>
+ricuperar il suo proprio di pregar detta Maestà a far <lb/>
+ufficio con la Serenità vostra con il mezo dell’eccellentissimo ambasciator <lb/>
+Lando, affine d’indurla a qualche sussidio <lb/>
+sperandolo massime al presente, che si tratta di <lb/>
+sollevarlo dall’oppressione, et di ricuperar il suo <lb/>
+stato. Di più che disdegna la medesima Maestà <lb/>
+parlar a me perché scrivi in conformità, ag-<lb/>
+giongendomi che il capitale, che fa maggiore <lb/>
+sia dell’ufficio che venirà d’Inghilterra <lb/>
+massime colla speranza, che quel Re <lb/>
+si habbia a dechiarare, stimandolo proprio <lb/>
+evitamento <lb/>
+</hi>
+<pb n="384v" facs="10_384v" rend="0"/>
+tanto a quella serenissima Republica quanto ad altri principi<ptr target="#tn20" n="20"/>. <lb/>
+Ancorché si sia parlato del ritorno qui di sua Eccellenza non vi è però total <lb/>
+sicurezza in alcuni; se ben par che venga scritto, che per dimani <lb/>
+si doveva metter in camino non per venir<ptr target="#tn21" n="21"/> subito all’Haya, <lb/>
+ma per far visita alle frontiere. </p>
+<p>Dello Spinola non si può cavar ancora quali disegni egli habbia <lb/>
+perché partendo teme sua Eccellenza non si avanzi o per dar qualche <lb/>
+sussidio a Giuliers, o per far qualche diversione sia intorno <lb/>
+Wesel, o altrimenti. Quelli della città<ptr target="#tn22" n="22"/> di Giuliers <lb/>
+hanno scritto a sua Eccellenza di haver viveri fino a maggio prossimo <lb/>
+et se le acque<ptr target="#tn23" n="23"/> crescono questa vernata haveranno <lb/>
+commodità di condur altri viveri nella città. </p>
+<p>Hieri a sera fu spedita la commissione per l’Arsen, et gl’altri che <lb/>
+vanno con lui in Inghilterra, et è solecitato alla partenza, <lb/>
+et col buon vento, che soffia al presente<ptr target="#tn24" n="24"/>. Continua <lb/>
+ancora per l’ambasciata<ptr target="#tn25" n="25"/> di Venetia a portar la difficoltà <lb/>
+del viaggio, et alcuno dice, che se ne vorrebbe volontieri <lb/>
+iscusare; ma per anco non ha fatta instanza alli<ptr target="#tn26" n="26"/> signori Stati <lb/>
+oltre la prima; né sue Eccellenze risoluto né meno consultato <lb/>
+per adherire<ptr target="#tn27" n="27"/> ai pensieri di lui. Gratie etc. </p>
+<p>Dall’Haya li 22 novembre 1621 </p>
+<p>di vostra Serenità<ptr target="#tn28" n="28"/> </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="386r" facs="10_386r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="386v" facs="10_386v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 350<ptr target="#tn29" n="29"/> comincia 349<ptr target="#tn30" n="30"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="124">
+<!--
+<p n="386vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 novembre 1621 ricevute 9 decembre </p>
+<p>Haya. n° 350 </p>
+<p>Avvisi non buoni delle cose di <lb/>
+Bohemia. </p>
+<p>Spedite le comissioni dell’Arsen <lb/>
+et altri ambasciatori. </p>
+<p>Continua l’Arsen nelle <lb/>
+difficoltà del viagio per venir qui <lb/>
+vi è creder<ptr target="#tn31" n="31"/> pensi scusarsene. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "il quale" corrected above "che."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "in … Berghstrat" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-le" is the result of a correction; followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a" corrected above "-o."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "in" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> There is a hole in the page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line on "aspettare" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "co" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "voler … proprio | evitamento" decoding of the encrypted text can be found on c. 382r; with cross-reference sign.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "all’" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "hanno" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "h" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "a-" corrected at the comma.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "S-" corrected above "E-."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-50" corrected above "-49."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

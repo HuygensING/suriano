@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.030 date 1618-12-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">030</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 199r-200v, 203r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">199r-200v, 203r-v, 201r-202v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Travelled to Amsterdam to discuss the payment of widows of deceased sailors. Due to difference in letters from Hamel, they have agreed to wait another week. He sends the letter in translation in attachment. Ordered Calandrini to make a letter of exchange for 10.000 ducats. One document attached: a translated letter related to the issue of the twelve ships</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-12-11">11 dicembre 1618</date>
+            <num>068, 069</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="068">
+<div type="main" facs="main text of letter" n="068">
+<!--<p>11 dicembre 1618, L’Aia (cc. 199r-200v, 203r-v)</p>-->
+<pb n="199r" facs="07_199r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 74 sola </p>
+<p>Serenissimo Principe </p>
+<p>doppo l’ispedizione delle mie ultime lettere dall’Italia n° 73 de’ otto <lb/>
+del presente mi capitorono le sera del medesimo giorno quelle <lb/>
+che attendono in risposta di mie dalli signori di questa Amiralità, <lb/>
+le quali, et particolarmente ciò che ad essi scriveva l’agente dell’ami-<lb/>
+raglio Kerckoven mi fecero risolver non ostante la stagione <lb/>
+fredda<ptr target="#tn1" n="1"/>, et il giaccio a venir in questa città per rappresentar <lb/>
+a questi signori quel tanto che stimai proprio per darli sudisfattione <lb/>
+e[t]<ptr target="#tn2" n="2"/> in un medesimo tempo far il servitio publico; al qual solo <lb/>
+e[ff]etto<ptr target="#tn3" n="3"/> mi sono mosso a far questo viaggio. L’agente sudetto <lb/>
+ha fatto instanza a vostra Serenità che non dovesse esser da me esborsata <lb/>
+alcuna summa delli ottanta milla fiorini accordati alli capitani <lb/>
+delle dodici navi se prima non fosse egli stato qui, per esser <lb/>
+presente alla distributione di detto denaro; le lettere di <lb/>
+vostra Serenità sono dei 15 del passato, et quelle del detto agente a <lb/>
+questi signori sono dei 16 et in esse scrive, che debbano avvertirmi <lb/>
+et farmi esborsar detti ottantamilla fiorini, come l’Eccellenze vostre <lb/>
+illustrissime se si compiaceranno potranno veder dall’aggiunto translato <lb/>
+o[n]de<ptr target="#tn4" n="4"/> sentendo questi signori la contrarietà dell’une, et l’altre lettere <lb/>
+sono restati scandalizati del medesimo agente perché una cosa <lb/>
+habbi instato a vostra Serenità, et diversamente scrissi a loro; et però <lb/>
+si sono contentati ad instantia mia di aspettar ancora per <lb/>
+tutta questa settimana, et per il principio della ventura <lb/>
+ancora la venuta del sudetto, et non venendo contentarsi <lb/>
+di una partita di denaro per li creditori dei viveri, et <lb/>
+temporeggiar per il resto finché venga l’Hamel a poco <lb/>
+per volta. Per il che ho dato già l’ordine al<ptr target="#tn5" n="5"/> Calandrini <lb/>
+che era presente di far l’esborso di somma ragionevole <lb/>
+per questo primo avanzo a buon conto. Et a lui ho fatte
+<pb n="199v" facs="07_199v" rend="0"/>
+lettere di cambio per dieci milla ducati in questo giorno da <lb/>
+contarsi in banco al signor Melchior Noirott. Et la Serenità vostra sia <lb/>
+certa, che colla rimostranza che ho fatta a questi signori sono <lb/>
+essi restati molto sodisfatti delle ragioni addotte tanto per <lb/>
+questo, quanto in particolare per l’esborso di denaro a conto <lb/>
+di paghe a queste donne, o parenti dei marinari; havendo <lb/>
+avanzato in buona, et destra maniera questo punto <lb/>
+di non esborsar alcuna cosa, se prima non vengono li documenti <lb/>
+necessarii, o roli per veder a chi si doverà dar [e]ffettivamente<ptr target="#tn6" n="6"/> <lb/>
+tutto, o parte delle paghe; se bene non hanno lasciato di <lb/>
+considerarmi esser inquietati, et molestati, del continuo <lb/>
+ma dall’altro canto non sanno di meno di non dar ragione <lb/>
+a vostra Serenità conoscendo non esser conveniente, che ’l denaro di <lb/>
+lei sia<ptr target="#tn7" n="7"/> dato o doppio, overo per persone morte. </p>
+<p>Hanno li medesimi mostrata indoglienza grandissima contra li <lb/>
+capitani, che non ostante l’ordine che loro fu dato, et <lb/>
+le promesse che fecero di essequirlo ogni mese non habbino <lb/>
+mandati li roli, et ben hanno mostrato avede[rs]i<ptr target="#tn8" n="8"/>, che <lb/>
+qui sotto vi sia in loro qualche fine di profitto che cavano <lb/>
+da paghe morte. Mi hanno addimandato se l’eccellentissimo <lb/>
+Generale fa fare spesso le mostre. Io dissi, che non sapevo; <lb/>
+mi soggionsero doverebbe farlo, et l’Eccellenza sua overo altri <lb/>
+per<ptr target="#tn9" n="9"/> lei haver cosa che la Republica non resti defraudata <lb/>
+et di più dissero, che se<ptr target="#tn10" n="10"/> vostra Serenità dovesse continuar a teni[r]<ptr target="#tn11" n="11"/> <lb/>
+quei vasselli, et marinari in servitio sarebbe ottimamente <lb/>
+fatto che fusse deputato un commissario espresso sopra detti <lb/>
+dodici vasselli, che havesse cura particolare di far far le <lb/>
+mostre di mese in mese, o secondo, che più tornasse commodo
+<pb n="200r" facs="07_200r" rend="0"/>
+perché così caminarebbe il servitio di lei con frutto, con sodisfattione <lb/>
+et contento tanto di là quanto di qua: poiché haverebbe <lb/>
+cura di ritener quello, che si dovesse pagar a questi<ptr target="#tn12" n="12"/> paren-<lb/>
+ti delli marinari, et notar puntualmente il mancamento di essi <lb/>
+nelle dette navi, o per morte, o per fugga, o per la libertà <lb/>
+che ha la Serenità vostra di valersi di parte di essi, conforme <lb/>
+al capitulato sopra altre navi: et scopersi che quando <lb/>
+ell[i]<ptr target="#tn13" n="13"/> havesse pensato di attender a questa necessaria <lb/>
+de[pu]tatione<ptr target="#tn14" n="14"/> di commissario haverebbono essi con le <lb/>
+a[l]tre<ptr target="#tn15" n="15"/> Amiralità deputata persona propria, et di chi <lb/>
+si potesse fidare. Intorno al far tutte le paghe di là <lb/>
+ho proposto quanto dalla Serenità vostra mi viene commandato <lb/>
+nelle sue lettere de’ 15; ma non ho<ptr target="#tn16" n="16"/> trovato rincontro a <lb/>
+sodisfattione di lei, essendomi detto da essi signori dell’Ami-<lb/>
+ralità, ch’era impossibile poter far di meno di non haver <lb/>
+denari qui<ptr target="#tn17" n="17"/> per questi povere genti, mogli, et figlioli <lb/>
+de’ marinari, essendo questo l’ordinario costume, et <lb/>
+però si doveva continuar in esso non potendosi far <lb/>
+altrimenti. Havendo io stimato a proposito ho <lb/>
+significata l’instanza, che hanno fatta li capitani <lb/>
+di haver accrescimento per la compreda de’ viveri volendo <lb/>
+un piaccho più per<ptr target="#tn18" n="18"/> testa dal giorno della mostra, hanno <lb/>
+questi signori tutti insieme crolato il capo mostrando non <lb/>
+gustarli, che così tosto, et nel principio del servitio <lb/>
+si fossero messi in pretensioni; et quanto al mancamento <lb/>
+de’ viveri, che asseriscono quei capitani, esser venuto <lb/>
+per li caldi, et altro, dissero non vi meravigliate signore<ptr target="#tn19" n="19"/> <lb/>
+perché ancor a noi non sì tosto sono fuori in mare, che
+<pb n="200v" facs="07_200v" rend="0"/>
+ci portano delle medesime querelle, et indoglienze. Et questo nasce <lb/>
+perché vogliono in qualche maniera profittare. Et il fiscale <lb/>
+che era presente disse sono in obligo se hanno qualche <lb/>
+cosa di guasto metterlo separato<ptr target="#tn20" n="20"/> in tonelli per mostrarlo, <lb/>
+che volse inferire, che così dovevano far anc’essi. </p>
+<p>Veggo che questa venuta mia non è riuscita se hora <lb/>
+buona perché ho di viva voce significato a questi signori et <lb/>
+cavato da loro quello che con<ptr target="#tn21" n="21"/> lettere non è c[osì]<ptr target="#tn22" n="22"/> facile <lb/>
+et mi prometto, che riuscirà anco di sodis[fatt]ione<ptr target="#tn23" n="23"/> <lb/>
+alla Serenità vostra essendo per servitio, et riputa[tio]ne<ptr target="#tn24" n="24"/> di lei <lb/>
+il che incontrerò sempre senza risparmio di fatica, o <lb/>
+evitar di pericolo in qual si sia tempo. Li ho lasciati <lb/>
+sodisfatti con l’ordine al Calandrini; et coll’informationi <lb/>
+che ho ad essi date, onde dimattina di buon hora partirò <lb/>
+per l’Haya. Et havendo trovata la commodità d’ispedir <lb/>
+le presenti coll’ordinario che parte hoggi per Colonia, et <lb/>
+di là per Italia ho stimato esser proprio significar <lb/>
+tutto ciò alla Serenità vostra supplirò al di più, che haverò <lb/>
+coll’ordinario venturo. </p>
+<p>In tanto non lascierò di aggiongerle né particolar che veggo espresso<ptr target="#tn25" n="25"/> <lb/>
+nella supplica fatta all’eccellentissimo signor Capitano generale dai capitani <lb/>
+delli dodici vasselli, che par che pretendino li siano <lb/>
+pagate le barille, et puppe della birra, et cose simili, et <lb/>
+tuttavia queste Amiralità tutte le mettono a conto del[la]<ptr target="#tn26" n="26"/> <lb/>
+serenissima Republica, onde questo tira in consequenza anco <lb/>
+altri absurdi, et inconvenienti a’ quali la prudenza <lb/>
+della Serenità vostra doverà<ptr target="#tn27" n="27"/> mirare per non restar defraudata. </p>
+<p>Per la via d’Anversa ispedii sabbato le mie lettere n° 73 de’ 8 del presente. Gratie etc. </p>
+<p>Da Amsterdam a’ 11 decembre 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="203r" facs="07_203r" rend="90"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="203v" facs="07_203v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 74 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="068">
+<!--
+<p n="203vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>xi decembre 1618 ricevute a’ 27 detto </p>
+<p>Haya. n° 74 <lb/>
+sola </p>
+<p>Scrive il secretario haver havuta la <lb/>
+risposta dai signori dell’Amiralità <lb/>
+per le quali si è rissoluto <lb/>
+andar in Amsterdam. </p>
+<p>L’agente del Amiraglio <lb/>
+scrivergli<ptr target="#tn28" n="28"/> voler esser presente al <lb/>
+contrar del denaro alli <lb/>
+capitani delle dodici navi. </p>
+<p>Aggiunge il secretario le lettere di <lb/>
+sua Serenità le 15 del passato <lb/>
+quelle del agente de’ 16 <lb/>
+a quei signori, et avvisa loro <lb/>
+che debbano far al secretario <lb/>
+sborsar li ottantamille fiorini. </p>
+<p>Manda il translato della <lb/>
+lettere, et dice essersi quei <lb/>
+signori scandelezati della cuntra-<lb/>
+rietà delle lettere del agente <lb/>
+proprio. </p>
+<p>Che aspetteranno due settimane <lb/>
+la<ptr target="#tn29" n="29"/> andata del agente e <lb/>
+non capitando si contente-<lb/>
+ranno d’una partita di <lb/>
+denaro. </p>
+<p>Ha dato però ordine al Calandrini <lb/>
+per somma ragionevole. </p>
+<p>L. SS. R. </p>
+<p n="203vD">———</p>
+<p>Et a lui ha fatto lettere di cambio <lb/>
+per diecimille ducati. Scrive […]<ptr target="#tn30" n="30"/> <lb/>
+hal<ptr target="#tn31" n="31"/> fatto buon fructo i suoi ufficii <lb/>
+in proposito di non sborsar <lb/>
+denari se prima non <lb/>
+capitano i rolli. </p>
+<p>Aggionge, che li medesimi signori <lb/>
+hanno dimostrato disgusto <lb/>
+contra i capitani, che contrariamente<ptr target="#tn32" n="32"/> <lb/>
+all’ordine, et alle promesse <lb/>
+non habbino mandati li <lb/>
+rolli. </p>
+<p>Hanno mostrato <lb/>
+curiosità di saper <lb/>
+se il General fa far <lb/>
+spesso mostre <lb/>
+et danno in <lb/>
+conformità <lb/>
+alcun ricordo. </p>
+<p>Intorno <lb/>
+al far tutte <lb/>
+le paghe in <lb/>
+armata <lb/>
+non incon-<lb/>
+trar faci-<lb/>
+lità per […]<ptr target="#tn33" n="33"/>. </p>
+<p n="203vA">———</p>
+<p>Ha significato l’istanza de’ <lb/>
+capitani d’accrescimento <lb/>
+et non esser stato sentito <lb/>
+bene<ptr target="#tn34" n="34"/> di[…]<ptr target="#tn35" n="35"/> quei signori <lb/>
+che così presto princi-<lb/>
+piino a pretender. </p>
+<p>Aggionge, che l’andata <lb/>
+in Astradan è stata <lb/>
+proffittevole. </p>
+<p>Nel particolar delle <lb/>
+barille della lira <lb/>
+è necessario che la Signoria <lb/>
+vi habbia mira <lb/>
+per non accrescer <lb/>
+nel intacco. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="069" corresp="068" source="201r-202v" >
+<div type="main" facs="main text of attachment I" n="069" corresp="068" >
+<!--<p>Allegato I al n. 68 (cc. 201r-202v)</p>-->
+<pb n="201r" facs="07_201r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettera dell’Haya n° 74 di xi decembre 1618 </p>
+<p>Traslato della lettera dell’aente<ptr target="#tn36" n="36"/> dell’ammiraglio <lb/>
+Kerckhoven scritta alli signori dell’Amiralità <lb/>
+d’Amsterdam sotto li 18 novembre 1618 </p>
+<p>Nobili discreti, prudenti, et providi signori </p>
+<p>signori miei doppo la mie humil raccomandatione servirà questa per <lb/>
+avisare a vostre nobiltà come l’ammiraglio Melchior Vanden <lb/>
+Kerchoven dall’armata di Corfù mi ha mandato per Venetia <lb/>
+coll’aviso delli altri capitani per quivi procurare della serenissima Republica <lb/>
+una lettera di cambio di trenta doi<ptr target="#tn37" n="37"/> mille scudi a cinquanta <lb/>
+piachi il scudo facendo insieme ottantamille fiorini affine <lb/>
+chd per vostra nobiltà fossero partiti alli respettivi collegi <lb/>
+et di più alli respettivi capitani seguitando il conto di ogniuno. <lb/>
+Ho hoggidì ricevuto per risposta che sua Serenità non dà qui <lb/>
+alcuna potente lettere di cambio, ma ben che scriveranno <lb/>
+al signor residente Christofforo Suriano, che egli riceverà <lb/>
+in Hollanda la somma di trenta milla ducati per paghar <lb/>
+come di sopra et di più che sua Serenità scriverà all’<ptr target="#tn38" n="38"/> generale <lb/>
+illustrissimo Barbarigo in armata per questo è la mia dimanda <lb/>
+dalla parte dell’Amiraglio et delli capitani che ha<ptr target="#tn39" n="39"/> mei<ptr target="#tn40" n="40"/> nobili <lb/>
+signori piacia far metter ordine, et amonire al detto signor <lb/>
+residente Suriano che con la prima li medesimi trenta milla <lb/>
+ducati possono esser ricevuti a ciò li deti creditori dello Capitano <lb/>
+possono venire al suo paghamento tratanto mi transfirerò <lb/>
+di qua colla prima commodità in Hollanda per dare alle <lb/>
+vostre nobiltà le lettere et conti dell’Amiraglio et capitani con <lb/>
+questo etc. </p>
+<pb n="201v" facs="07_201v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="202r" facs="07_202r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="202v" facs="07_202v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-re-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Damaged page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Damaged page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Damaged page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "a-" corrected above "i-."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Damaged page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "deto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Damaged page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "p(er) lei" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-s" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Damaged page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> There is a hole in the page; followed by "[S](ereni)tà v(ostra)" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> There is a hole in the page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> There is a hole in the page.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Added above the line.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line with an insertion mark; followed by "non" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Damaged page.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Damaged page.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Damaged page.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> There is a hole in the page.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Precedes "et" crossed out.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Character is difficult to read clearly.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by a word of uncertain reading.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> There is a hole in the page.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Is the result of a correction.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

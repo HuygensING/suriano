@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.039 date 1618-01-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">039</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 228r-v, 231-232v, 237r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 149) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp90-103)
+            </note>
+            <biblScope unit="page">238r-v, 241r-v, 239r-240v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Suriano reports on the problem of paying and supplying the sailors and soldiers. He promises to act following the orders he has received from Venice and raise more troops. He touches upon the issue of burial of John Ernst of Nassau as he has received conflicting information about whether he has been buried in Venice. According to him, the proper burial of protestant soldiers will be an issue in the next negotiations for more troops with the states and he requests guidance on the matter. Sticke promises to pay for 300 more soldiers if his brother can return from Venice. Lastly, he reports that the States have decided to write to French and English king about the incursions by corsairs to join forces. Magnus has given him the letter by States to the Doge on issue of the corsairs. This letter is attached in French and in Italian translation. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-01-02">2 gennaio 1618</date>
+            <num>073, 074</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="073">
+<div type="main" facs="main text of letter" n="073">
+<!--<p>2 gennaio 1618, L’Aia (cc. 238r-v, 241r-v)</p>-->
+<pb n="238r" facs="05_238r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>replicata </p>
+<p>Serenissimo Principe </p>
+<p>essendo venuto qui con doi altri gentilhuomini inglesi<ptr target="#tn1" n="1"/> il signor Harvert <lb/>
+capitano di quel vassello, che sta in Zelanda con il carico d’Inglesi <lb/>
+ha fatto compianto con l’ambasciator Carleton di haver presentito, <lb/>
+che quando fosse alla vela per partire sarebbe stato inter-<lb/>
+tenuto; onde l’Ambasciator col mezo del suo secretario, et anc’egli <lb/>
+medesimo, mi fece instanza, perché questi signori fossero <lb/>
+licentiati; assicurando che non havevano participatione <lb/>
+con Alessandro Ros né sua conoscenza, et il viaggio loro <lb/>
+era destinato per la Ghinea, onde più tosto andavano <lb/>
+a’ danni del re di Spagna, che altrimenti, et fra <lb/>
+questi tre vi era uno, suo strettissimo parente, et <lb/>
+gl’altri ero conosciuti da esso per gentilhuomini di <lb/>
+honore. Io m’iscusai, di non poter venir a delibe-<lb/>
+ratione, che potesse pregiudicar al servitio del mio <lb/>
+Principe mentre vi era il sospetto, che li signori dell’<lb/>
+amiralità di Zelanda havevano scritto egli vedendo, <lb/>
+che dimoravo fermo in questo fece ufficio con li signori <lb/>
+Stati li quali mi parlorono la mattina dell’audienza. <lb/>
+Et io dissi loro, che confessavo di haver ricevuto <lb/>
+per nome della Serenità vostra gran favore per quello, che <lb/>
+havevano scritto, et commandato in Zelanda, et de <lb/>
+il ritrarlo sarebbe un pregiudicar a quella buona
+<pb n="238v" facs="05_238v" rend="0"/>
+intentione, che hanno verso il servitio di vostra Serenità. Mi fu risposto, che non <lb/>
+vi essendo, che un semplice sospetto per questo non pareva <lb/>
+loro conveniente se non si<ptr target="#tn2" n="2"/> verificava di dover tratte-<lb/>
+ner un vassello con sudditi del re della Gran Bertagna, et signori <lb/>
+che affermavano con loro giuramento, come anco asseriva l’Ambasciator <lb/>
+istesso esser il viaggio destinato verso l’Indie [Occ]identali<ptr target="#tn3" n="3"/>. <lb/>
+Io replicai dei medesimi concetti pregandoli a guardar bene <lb/>
+quello che facevano, ad assicurarsi, et mirar che si trattava <lb/>
+del servitio della serenissima Republica che io non desideravo, che <lb/>
+fossero trattenute genti di sua Maestà senza causa, ma stavo <lb/>
+sul scritto da’ signori dell’amiralità di Zelanda intorno a <lb/>
+detto vassello. Ma non ostante, che mi sia opposto quanto <lb/>
+ho potuto ha nondimeno l’Ambasciatore ottenuto, che si scrivi in <lb/>
+Zelanda perché sia licentiato il detto vassello; nelle lettere <lb/>
+però è stato aggiunto a mia contemplatione, et per mia <lb/>
+sodisfattione, che quando non trovino inditio sufficiente <lb/>
+della partecipatione del Ros, o che il vassello sia desti-<lb/>
+nato contra li amici de questi stati, et in particolar con <lb/>
+la serenissima Republica o in servitio del re di Napoli, o destinato <lb/>
+per altrove a tal effetto lo lascino andare; ma trovan[do] <lb/>
+cosa in contrario scrivino qui in diligenza per attender la <lb/>
+risolutione dei signori Stati. Domenica partirono le lettere
+<pb n="241r" facs="05_241r" rend="0"/>
+et di quanto sarà successo, ne darò conto alla Serenità vostra non havendo <lb/>
+potuto far più contra l’efficace instanza del signor Ambasciatore alla quale <lb/>
+questi signori hanno stimato giusto di adherire, et hanno <lb/>
+procurato dargli sodisfattione in quanto si sia potuto forse <lb/>
+per risarcir il mal gusto, ch’egli per altro ha ricevuto. </p>
+<p>Fu h[i]eri<ptr target="#tn4" n="4"/> a me il detto signor Ambasciatore con occasione, come disse, di <lb/>
+venir ad augurarmi il buon principio d’anno, et mi <lb/>
+confermò di nuovo, che ’l viaggio del detto Capitano, et altri <lb/>
+15 giovani gentilhuomini inglesi alcuno de’ quali haveva <lb/>
+fino doi milla lire sterline di rendita era destinato per <lb/>
+l’Indie, et per quanto haveva potuto cavare <hi rend="decoded">con</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">intelligenza del Biondi, che rissiede, come agen-<lb/>
+te in Londra per il signor duca di Savoia, con qual-<lb/>
+che patente, che gli ha dato per nome di sua Altezza, <lb/>
+di far danno a’ Spagnoli</hi> et sorridendo aggiunse <lb/>
+io aspetto di giorno in giorno se questo vassello incontra <lb/>
+di no partire o per il tempo o per altro accidente di haver ordi-<lb/>
+ne dal Re di farlo arrestare ad instanza dell’ambasciator di <lb/>
+Spagna residente appresso sua Maestà essendo io avvisato <lb/>
+esser stato scritto di Zelanda che questo vassello era desti-<lb/>
+nato contra il servitio della Maestà cattolica. Gratie etc. </p>
+<p>Dall’Haya a’ 2 genaro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="241v" facs="05_241v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>replicata 2 gennaro 1618 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="073">
+<!--
+<p n="241vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 gennaro 1618 ricevute a’ 13 detto </p>
+<p>Haya. 3<hi rend="superscript">a</hi> </p>
+<p>Licenza data al vassello inglese <lb/>
+dell’Aventhen ad istanza del <lb/>
+Ambasciator con conditioni però che non <lb/>
+vi si inditii che mandi al servitio <lb/>
+di Napoli et con giuramento del pad(ro)ne<ptr target="#tn6" n="6"/>. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="074" corresp="073" source="239r-240v" >
+<div type="main" facs="main text of attachment I" n="074" corresp="073" >
+<!--<p>Allegato I al n. 73 (cc. 239r-240v; decodifica di c. 241r)</p>-->
+<pb n="239r" facs="05_239r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="239v" facs="05_239v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="240r" facs="05_240r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="240v" facs="05_240v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "veririfa" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "con … Spagnoli" decoding of the encrypted text can be found on c. 239r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

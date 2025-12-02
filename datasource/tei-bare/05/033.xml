@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.033 date 1617-12-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">033</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 196r-197v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">196r-197v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Received a letter from Antwerp to inform him that no new letters from Venice have arrived. The postal courier from Augsburg has been robbed. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-16">16 dicembre 1617</date>
+            <num>060</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="060">
+<div type="main" facs="main text of letter" n="060">
+<!--<p>16 dicembre 1617, L’Aia (cc. 196r-197v)</p>-->
+<pb n="196r" facs="05_196r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il mastro delle porte d’Anversa m’avvisa con sue <lb/>
+lettere arrivatemi doppo l’haver fermate, et sigillate <lb/>
+l’altre mie per vostra Serenità, che non haveva ricevuto da <lb/>
+Venetia alcune lettere mie; et il messaggiero mi ha <lb/>
+riferto di vantaggio, che si haveva inteso, che’ l corriero <lb/>
+d’Augusta era stata svaleggiato sopra lo stato della <lb/>
+Serenità vostra; il che ho voluto aggionger ad ogni buon fine. Gratie etc. </p>
+<p>Dall’Haya a’ 16 decembre 1617 </p>
+<p>di vostra Serenita </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="196v" facs="05_196v" rend="0"/>
+<p>Blank page</p>
+<pb n="197r" facs="05_197r" rend="0"/>
+<p>Blank page</p>
+<pb n="197v" facs="05_197v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="060">
+<!--
+<p n="197vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 decembre 1617 ricevute 3 gennaro </p>
+<p>Aia. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

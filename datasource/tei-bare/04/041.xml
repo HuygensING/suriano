@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.041 date 1617-06-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">041</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 215r- 218v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">209r-v, 212r-214v, 210r-211v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he will inquire with the president of Gelre about the idea of a closer union. He discusses this as well with Oldenbarnevelt. Remarks that indecision is part of how the government in United Provinces works. Three documents attached: "lettera del conte di Leuvenstein"; "lettera di … al principe di Venezia" and "bifoglio di rendicontazione delle spese crittografato su due colonne"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-06-27">27 giugno 1617</date>
+            <num>065, 066</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="065">
+<div type="main" facs="main text of letter" n="065">
+<!--<p>27 giugno 1617, L’Aia (cc. 209r-v, 212r-214v)</p>-->
+<pb n="209r" facs="04_209r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>si trova fuori dell’Haya il presidente di Gheldria; deve ritornar <lb/>
+dimani, o appresso dimani procurerò di cavar i sensi <lb/>
+di lui nel proposito <hi rend="decoded">di unione</hi><ptr target="#tn1" n="1"/> come veggo essermi <lb/>
+commandato dalla Serenità vostra. In tanto posso dirle quello <lb/>
+che da altra parte, et avanti l’arrivo delle lettere, et <lb/>
+anco doppo ho cavato, et è che corre il concetto che <lb/>
+quando <hi rend="decoded">havesse</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">a farsi colleganza con vostra Serenità et il signor duca di Savoia <lb/>
+havessero ad esser inclusi oltre li principi di Allemagna <lb/>
+che scrissi la passata settimana essersene parlato anco dal <lb/>
+re della Gran Bertagna, et li Svizzeri evangelisti. Io con <lb/>
+chi mi è accaduto di haverne qualche discorso ho consi-<lb/>
+derato che questa multiplicità o genererebbe confusione <lb/>
+nel trattare, o longhezza di tempo nel risolver, che la <lb/>
+qualità delli affari, le presentanee turbolenze, il male che si <lb/>
+vede andar aprendo nelle viscere non patisce dilattione al <lb/>
+rimedio, che però vi sarebbe necessaria la prontezza et una <lb/>
+buona, et salda risoluttione. <lb/>
+</hi></p>
+<p>Mentre discorsi con monsignor Bernvel del negotio di Spagna
+<pb n="209v" facs="04_209v" rend="0"/>
+per cavar qualche cosa del suo senso in questo particolare presi <lb/>
+campo di laudar la sua prudenza atta a conoscer le conse-<lb/>
+quenze del male et l’opportunità al rimedio, gli respose <lb/>
+ch’era necessario il pensarvi, et procurar di trovar mezo <lb/>
+tale, che servisse al commune beneficio <hi rend="decoded">ancor</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">l’intendersi ben insieme, et con qualche unione, ma che <lb/>
+era necessaria anco matura consultatione. Io a questo dissi che <lb/>
+la serenissima Republica aspettava d’intender ciò che si havesse voluto fare <lb/>
+et potevo assicurar sua Signoria, che in vostra Serenità si haverebbe trovata <lb/>
+prontezza, et risoluttione. <lb/>
+</hi></p>
+<p>Egli replicò vi vuol tempo a pensare, et <lb/>
+poi entrò subito in altro, non essendo suo ordinario <lb/>
+persister in un concetto, del quale non vogli così tosto <lb/>
+dichiarirsi del suo senso; ma come si sia questa è la <lb/>
+prima volta che è uscito a tanto, et il signor principe <lb/>
+Mauritio mi affermò quando fui seco, e a buon proposito <lb/>
+che vi era volontà buona, et che pensava, che presto si <lb/>
+sarebbe detto qualche cosa: ma per me credo da quanto <lb/>
+ha detto <hi rend="decoded">il</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">signor ambasciator d’Inghilterra come intenderà la Serenità vostra più abasso, <lb/>
+che si vorrebbe qui haver questa riputatione, che si propo-</hi>
+<pb n="212r" facs="04_212r" rend="0"/>
+<hi rend="decoded">nesse <lb/>
+chiaramente in publico, ma il farlo non bisognerebbe a mio <lb/>
+giudizio sia detto riverentemente che fosse senza qualche sicurezza <lb/>
+che fosse abbracciata la proposta. Il detto signor ambasciator d’Inghilterra, <lb/>
+col quale venimo a proposito di questo negotio quando fui seco <lb/>
+mi desse, che qui vi era buona volontà</hi>, inclinatione <lb/>
+grandissima, et ottimo desiderio, che è quello, che tante <lb/>
+volte<ptr target="#tn5" n="5"/> ho scritto riverentemente a vostra Serenità; ma che ciò haveva il suo <lb/>
+contrario dell’irresolutione, la quale nasceva dalla <lb/>
+forma del governo di questo Stato, dall’andar pesati <lb/>
+in tutte le sue attioni, et che forse le gelosie private, <lb/>
+et le particolar dissentioni nel negotio di religione non <lb/>
+lasciavano così tosto veder tutto o pensar alla risolutione <lb/>
+del meglio; che ben questo poteva dirmi per certo, <lb/>
+et io stesso l’haverò anco potuto scoprire nell’animo <lb/>
+dell’universale, che non vengono ritenuti <hi rend="decoded">da</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">tema, che habbino d’offender Spagnoli, anzi dove potrano <lb/>
+dargliene ocasione lo faranno, ma come haveva detto <lb/>
+dal pesar, et considerar tutte le cose, et egli anco mi <lb/>
+confermò il concetto, che la unione si havesse</hi>
+<pb n="212v" facs="04_212v" rend="0"/>
+<hi rend="decoded">a far con <lb/>
+il</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">concorso degl’altri principi, et republiche, et</hi> mi <lb/>
+<hi rend="decoded">considerò che parendo che fusse ordinario, che quelli che non <lb/>
+sono nei travagli aspettino il molto da quelli che li hanno <lb/>
+così forse qui stanno attendendo, et però quanto a lui <lb/>
+trovava la strada assai facile, et era per il particolar <lb/>
+di vostra Serenità, che ella et havesse stimato bene, et proprio <lb/>
+al suo servitio rispondesse a quella espositione, che egli <lb/>
+fece nell’eccellentissimo Collegio a nome del Re suo signore di unione <lb/>
+per sé, et per parte delli principi di Allemagna, et di questi <lb/>
+Stati, poiché allhora fu risposto con termini et parole <lb/>
+generali senza formar alcuna cosa, né escluder la proposta <lb/>
+onde ripigliando con la risposta la pratica si potrebbe far bene <lb/>
+et prontamente l’affare, che i tempi alle volte et le occasioni non <lb/>
+erano stimate proprie, et il bisogno non era parso tale, che spingesse <lb/>
+a devenir alle ressoluttioni, ma che egli stimava al presente la <lb/>
+opportunità molto accomodata, et teneva per fermo, che il Re <lb/>
+stasse nel medesimo senso de allhora,</hi>
+<pb n="213r" facs="04_213r" rend="0"/>
+<hi rend="decoded">del quale come mi haveva <lb/>
+detto fece far communicatione a vostra Serenità et propositione assai ampla <lb/>
+col mezo suo, che da quanto mi accenò così inpassando mi <lb/>
+par di poter dire esser conforme a quella che fece il signor Uton <lb/>
+al primo di agosto, inviatami con lettere dei 20 pur del medesimo <lb/>
+mese, et</hi><ptr target="#tn8" n="8"/> <hi rend="decoded">quella di esso monsignor Carleton bisogna che sia quando <lb/>
+essendo passato in Piemonte fu fatto tornar a Venetia. <lb/>
+</hi></p>
+<p><hi rend="decoded">Disse poi da sé nel corso del raggionamento, che non sarebbe <lb/>
+sua Maestà stata impedita da alcuna cosa, ancorché si dica <lb/>
+che habbi dato ordine al suo ambasciatore andato alla corte <lb/>
+di Spagna, di sentir ciò che si proporrà de’ matrimonii, <lb/>
+perché queste sono cerimonie, et non essentie, et la Maestà <lb/>
+sua mirerà molto di più al publico bene, che a quello che <lb/>
+possi intorbidarlo, né questo impedirebbe, che ella non <lb/>
+seguisse il suo concetto, che è di non lasciar avanzar</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">lo <lb/>
+Spagnolo, né perder li suoi buoni amici per difesa anco <lb/>
+del proprio Stato</hi> ch’è quanto <lb/>
+mi occorre riverentemente dir per hora in questo <lb/>
+particolare alla Serenità vostra, alla quale ispedisco le presenti
+<pb n="213v" facs="04_213v" rend="0"/>
+et altre con l’ordinario; non mi parendo esservi cosa tanto <lb/>
+essentiale, che meriti la spesa di un’estraordinaria diligenza. Gratie etc. </p>
+<p>Dall’Haya a’ 27 giugno 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="214r" facs="04_214r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="214v" facs="04_214v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="065">
+<!--
+<p n="214vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 giugno 1617 ricevute a’ 12 luglio </p>
+<p>Haya. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="066" corresp="065" source="210r-211v" >
+<div type="main" facs="main text of attachment I" n="066" corresp="065" >
+<!--<p>Allegato I al n. 65 (cc. 210r-211v; decodifica di cc. 209r-213r)</p>-->
+<pb n="210r" facs="04_210r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="210v" facs="04_210v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="211r" facs="04_211r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="211v" facs="04_211v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "di unione" added above the deleted encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "havesse … risoluttione" decoding of the encrypted text can be found on c. 210r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "ancor … risoluttione" decoding of the encrypted text can be found on c. 210r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "il … volontà" decoding of the encrypted text can be found on c. 210r-v; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added in the internal margin.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "da … del proprio Stato" decoding of the encrypted text can be found on cc. 210v-211r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "suo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "-lo" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

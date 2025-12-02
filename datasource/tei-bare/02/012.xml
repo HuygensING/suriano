@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.012 date 1616-08-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo, Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 145r-147v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 408) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp269-287)
+            </note>
+            <biblScope unit="page">144r-147v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on his first meeting with the States General. He explained the war situation in Istria and now awaits further instructions from Venice. Complains about his financial situation as he had to leave Zurich so sudden and now needs to rent a house in The Hague. Du Maurier, the French ambassador, has to come to visit him and they discuss the French position towards Venice. The representative of Brandenburg has also come to pay his respect and Carleton, the English ambassador, is still in Spa. From Brussels, reports the news that the confessor of the archdukes is going to Spain, the reason is not known. Ends with note that Colonel Schomberg, whom he had met on his way to The Hague, has passed away. One text attached: a letter by John Ernst of Nassau to the doge of Venice in French dated 22 August 1616</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-08-24">24 agosto 1616</date>
+            <num>046</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="046">
+<div type="main" facs="main text of letter" n="046">
+<!--<p>24 agosto 1616, L’Aia (cc. 144r-147v)</p>-->
+<pb n="144r" facs="02_144r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Cut page"/></p>
+<pb n="144v" facs="02_144v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="145r" facs="02_145r" rend="0"/>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>redottisi giovedì li signori Stati Generali mi fecero sapere, che se volevo <lb/>
+potevo andar a loro, per non attender d’avantaggio ad essequir <lb/>
+le mie commissioni. Io stimai bene non differire, ancorché non <lb/>
+havessi di più delle prime instruttioni, non mi essendo<ptr target="#tn1" n="1"/> <lb/>
+allhora, né fino a questo punto capitate ancor lettere della <lb/>
+Serenità vostra. Introdotto li dissi, che non volendo vostra Serenità tralasciar <lb/>
+occasione, colla quale possi dar a questi signori Stati Generali ma-<lb/>
+nifesto segno della confidenza, che vuole haver continuata <lb/>
+con essi m’haveva commandato di venir a significarli <lb/>
+gl’accidenti successi doppo la communicatione, che li fu fatta <lb/>
+per nome di vostra Serenità dal signor secretario Leonello: procurando nei <lb/>
+particolari dell’affare non lasciar cosa essentiale et propria <lb/>
+per l’espressione della ragione della Serenità vostra, et per dar segno <lb/>
+a questi signori del suo confidentissimo animo. Fui ascoltato con <lb/>
+attentione, et doppo facendomi retirar in una stanza, lette <lb/>
+le lettere credentiali, consultorono insieme la risposta, che fu <lb/>
+in sostanza, ch’era piacciuto a’ signori Stati Generali<ptr target="#tn2" n="2"/> la mia <lb/>
+venuta qui, et l’espressione, che havevo fatta della bene-<lb/>
+volenza, et amore della serenissima Republica verso di loro; che <lb/>
+a questa non mancaranno in alcun tempo d’ogni maggiore, <lb/>
+et più perfetta corrispondenza, che già dal signor Lionelli<ptr target="#tn3" n="3"/> have-<lb/>
+vano inteso la causa della mossa dell’armi della Serenità vostra <lb/>
+et hora la ringratiavano della parte, che li faceva <lb/>
+dare del seguito sino a questi tempi tra lei<ptr target="#tn4" n="4"/> <lb/>
+(dissero) et Spagnuoli, o la casa d’Austria, che tutto era
+<pb n="145v" facs="02_145v" rend="0"/>
+uno, che gl’interessi suoi con quelli di questo Stato erano communi <lb/>
+perché tendevano del pari alla conservatione della libertà; <lb/>
+replicandomisi, che non si sarebbe mancato di ogni perfetta <lb/>
+corrispondenza. Di che rese gratie a detti signori di questo <lb/>
+ufficio mi licentiai. Il sabbato seguente venero a visi-<lb/>
+tarmi doi del Consiglio per nome di tutti li signori Stati, <lb/>
+usando dei medesimi concetti, quali diedi segno d’aggradire, <lb/>
+come li ringratiai anco della visita. </p>
+<p>Hora starò attendendo li ordini<ptr target="#tn5" n="5"/> della Serenità vostra di quello <lb/>
+doverò operare; et non mancarò secondo l’intentione, et il <lb/>
+commandamento di lei di<ptr target="#tn6" n="6"/> nutrir buona intelligenza in questi <lb/>
+signori, et di procurar ogni buona corrispondenza con quella <lb/>
+maggior vivezza di spirito, che possi nascer dalla debolezza m[ia]. </p>
+<p>Ho qui fermata una casa per modum provisionis, et può la <lb/>
+benignità delle Signorie vostre eccellentissime imaginarsi, che havendo <lb/>
+lasciata improvisamente l’habitatione di Zurich sia stato grande <lb/>
+il danno, che n’ho ricevuto; et qui il dispendio per la <lb/>
+mia povera fortuna sarà anco grandissimo mentre dall’<lb/>
+un canto devo manter<ptr target="#tn7" n="7"/> la dignità publica, et dall’<lb/>
+altro converrò accommodarmi necessariamente al caro <lb/>
+prezzo che porta con sé l’uso, et la natura del Paese mancante <lb/>
+di molte cose, che riceve con interesse di fuori; onde aggrava[ti] <lb/>
+li popoli di gabelle estraordinarie, et gravi, procurano d’andarsi risarcendo alla meglio, che possono con chi ha <lb/>
+bisogno del loro. </p>
+<pb n="146r" facs="02_146r" rend="0"/>
+<p>Questo signor ambasciatore di Franza, con chi mi sono trovato, et fui da lui <lb/>
+visitato, doppo qualche discorso passato fra noi delle cose <lb/>
+correnti uscì a dirmi da sé, che quello, ch’era successo in Grisoni <lb/>
+non ha havuto per fine di contrariare alla buona amicitia <lb/>
+della corona di Francia con la serenissima Republica; ma perché la <lb/>
+conditione de’ tempi, et la<ptr target="#tn8" n="8"/> ragione di Stato <lb/>
+comportava così per li travagli, che andavano ognhora <lb/>
+sorgendo nel Regno; né potevano per ciò il Re, la Regina, <lb/>
+et il suo Consiglio fare aperte dimostrationi; ma erano <lb/>
+necessitati caminar con riservatezza, et attender prima <lb/>
+a sopir li tumulti di dentro; et poi assister di fuori a’ <lb/>
+suoi buoni amici; che hora, che lodato Iddio si era dato <lb/>
+qualche sesto alle cose poteva creder la serenissima Republica che <lb/>
+sua Maestà non haverebbe mancato di dargli ogni più perfetto <lb/>
+segno dell’ottima dispositione, che le porta. Io ascoltai esso <lb/>
+Ambasciatore, lasciai, che si sodisfacesse d’andarmi presuponendo <lb/>
+quanto voleva, et poi passando con termini generali gli <lb/>
+dissi, che l’osservanza della serenissima Republica verso la corona di <lb/>
+Franza era stata sempre grande, et meritava<ptr target="#tn9" n="9"/> l’assistenza <lb/>
+sua senza riguardo né di tempo, né di accidente, et massime <lb/>
+in causa di tanta giustitia quant’è quella per la quale <lb/>
+travaglia al presente; ch’ero ben conscio di quanto <lb/>
+era successo nel paese dei signori Grisoni, et che tutto non era proce-<lb/>
+duto dalla buona mente di sua Maestà christianissima, ma da eccitamenti <lb/>
+esterni. Mi tornò a replicar degl’istessi concetti; et io
+<pb n="146v" facs="02_146v" rend="0"/>
+corrisposi in modo, che mi parve di lasciarlo ben impresso che sia per <lb/>
+passar seco con ogni confidenza. </p>
+<p>L’agente del marchese di Brandemburg nel venir a visitarmi, <lb/>
+et nel corrisponder io all’honore che fece alla Serenità vostra in persona <lb/>
+di me suo humilissimo Ministro usò<ptr target="#tn10" n="10"/> termini di molto ossequio <lb/>
+verso di lei, et io non mancai di comprobarle la confidenza <lb/>
+che hanno le Signorie vostre eccellentissime in sua Altezza elettorale. </p>
+<p>A Spa si trova il signor Carleton ambasciator d’Inghilterra a questi signori Stati <lb/>
+et in questo tempo di vacanza non vi<ptr target="#tn11" n="11"/> sono qui altri ministri <lb/>
+de’ principi. Con tutti io non mancarò di tener buona <lb/>
+corrispondenza, come comporta il mio debito, et il servitio <lb/>
+della Serenità vostra. </p>
+<p>Scrivono di Brusseles, ch’era sulla partenza di là per passar-<lb/>
+sene in Spagna il confessore di sua Altezza; che s’era <lb/>
+publicato, che l’andata fosse per portar il giuramento <lb/>
+dato a quelle Provincie per la persona del principe Carlo, <lb/>
+ma che li più tenevano questi non esser il principal <lb/>
+fine; ma per le cose di Giuliers, overo per trattar di <lb/>
+prolungar la tregua con questi stati. </p>
+<p>È morto il colonello Sciombergh tanto caro, et amato dal signor Principe <lb/>
+palatino, et è quello, che mi discorse quel tanto che la Serenità vostra haverà <lb/>
+inteso nelle mie lettere de’ 16 del passato. Per l’auttorità che haveva <lb/>
+con quell’Altezza era invidiato, et odiato, et alcuni sono in opinione <lb/>
+che sia stato acelerato il fine al corso della sua vita con veneno. Gratie etc. </p>
+<p>Dall’Haye a’ 24 agosto 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano</p>
+<pb n="147r" facs="02_147r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="147v" facs="02_147v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="046">
+<!--
+<p n="147vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 agosto 1616 ricevute 7 settembre </p>
+<p>Secretario Surian dall’Aya prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "ancora" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-erali" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction; followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "commandamenti" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "d-" corrected above "n-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ragione di" corrected from "conditione" and then crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-va" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.007 date 1617-03-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 41r-43v, 48r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">41r-43v, 48r-v, 44r-47v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Monthou, ambassador from Savoy, arrived in The Hague on Sunday. He has visited Monthou and sends his proposal to States General in attachment. Magnus has proposed on behalf of States General that Monthou returns to the German lands to attend meeting of princes of the union. Further news about potential peace negotiations. One document attached: "Scrittura presentata ai Signori Stati dal duca di Savoia del 14 marzo 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-18">18 marzo 1617</date>
+            <num>015, 016</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="015">
+<div type="main" facs="main text of letter" n="015">
+<!--<p>18 marzo 1617, L’Aia (cc. 41r-43v, 48r-v)</p>-->
+<pb n="041r" facs="04_041r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>monsignor di Monthu destinato dal signor duca di Savoia per venir <lb/>
+a questi signori arrivò qui domenica sera. Io il giorno seguente <lb/>
+fui a visitarlo gli offersi quant’egli poteva conoscer valer <lb/>
+in me per servitio del signor Duca, et per avanzamento del suo <lb/>
+negotio, essequendo in ciò le commissioni, che anticipatamente <lb/>
+ho havuto dall’Eccellenze vostre illustrissime il che fu aggradito dal detto <lb/>
+Signore, che conferì<ptr target="#tn1" n="1"/> meco quanto pensava di voler proporre <lb/>
+all’assemblea con ogni confidenza, et mi pregò di coope-<lb/>
+rare, et coadiuvar con ufficii la sua negotiatione appresso <lb/>
+alcuno di questi signori; tanto ho operato, mentr’egli <lb/>
+dall’altro canto ha fatta la propositione, che inten-<lb/>
+derà la Serenità vostra dalla qui aggiunta copia; esponendo <lb/>
+però più difusamente in voce (come disse, et come ho inteso) <lb/>
+di quello che ha fatto in scrittura tutto il corso delli <lb/>
+affari presenti, le ragioni del signor Duca, difondendosi <lb/>
+nel mostrar il bisogno, che ha di esser soccorso, et che <lb/>
+la serenissima Republica fa la parte sua; et che dalli principi dell’<lb/>
+Unione haveva havuta un ottima intentione. </p>
+<p>Parlò in generale nel proposito di aiuti, senza conde-<lb/>
+scender più ad una, che ad un’altra cosa; ma <lb/>
+avvertito da qualcheduno di quelli, che lo accompagnò <lb/>
+al ritorno dell’assemblea è condesceso, come ella
+<pb n="041v" facs="04_041v" rend="0"/>
+intenderà nella scrittura. Questa mattina, essendo stato <lb/>
+per la seconda volta a visitarmi mi ha detto, che hieri furono <lb/>
+tre o quattro de’ signori Stati a desinar con lui, et gli havevano <lb/>
+detto, che se gli sarebbe data risposta per lunedì, o martedì <lb/>
+et che<ptr target="#tn2" n="2"/> haveva dalle loro parole concetta buona <lb/>
+speranza; che questa l’ha cavata anco dal signor Bernvel <lb/>
+et che ha trovato in doi, o tre conferenze, che ha havute <lb/>
+col signor principe Mauritio, ch’egli ha a cuore il negotio <lb/>
+et brama la conservatione di sua Altezza et sia per coadiuvar <lb/>
+all’instanza: et a me disse l’Eccellenza sua quando<ptr target="#tn3" n="3"/> le <lb/>
+raccommandai l’affare, ch’era superfluo perché l’haveva <lb/>
+a cuore. Mi aggiunse esso signor di Monthu, che uno <lb/>
+di detti signori in discorrendo seco gli havevano addimandato <lb/>
+quanto la serenissima Republica dava per mese al signor Duca, che <lb/>
+gli pareva di poter dire, che questa dimanda fosse <lb/>
+stata consultatamente fatta per cavar la misura con che <lb/>
+possino livellar dal canto suo; gli ha detto che fino <lb/>
+al novembre passato sapeva, che la summa delli aiuti <lb/>
+era più di 70 mila ducati per mese, et che credeva, <lb/>
+che hora fosse maggiore, quanto maggiore s’è fatto <lb/>
+anco il bisogno del signor Duca. Hora sta attendendo il <lb/>
+successo, tentando, che si venga all’espressione della
+<pb n="042r" facs="04_042r" rend="0"/>
+summa, se ben per quanto ho potuto cavare non credo <lb/>
+che in materia di tal rilevo, et ove concorre interesse <lb/>
+di spese sia per farsi<ptr target="#tn4" n="4"/> così di presente l’assoluta <lb/>
+risolutione senza l’avviso delle Provincie tutte, a’ quali <lb/>
+questi deputati generali doveranno dar parte: onde <lb/>
+quanto faranno per quello che mi ha detto il signor Magno, <lb/>
+con chi fui uno di questi giorni, sarà di darli risposta <lb/>
+che si darà aiuto; ma si risolverà col parere delle <lb/>
+dette Provincie il che, il come, et il quanto; et in <lb/>
+questo mentre potrà il detto signor Monthù ritornarsene <lb/>
+in Alemagna per esser a tempo alla Dieta de’ principi <lb/>
+et procurar con essi il servitio di sua Altezza; a che <lb/>
+risposi, che questi signori l’haverebbono avanzato anco <lb/>
+maggiormente coll’essempio, et era dichiarandosi delli <lb/>
+aiuti, questo è bramato da esso signor Monthù, il quale <lb/>
+disse, che se bene haveva lasciati ottimamente disposti <lb/>
+quei principi nell’aiutar il signor Duca, in ogni <lb/>
+modo l’essempio haverebbe giovato grandemente <lb/>
+et tenta per quanto può, et io coadiuvo perché <lb/>
+si venghi a questa effettiva dichiaratione; ma come <lb/>
+ho detto, credo, che non si farà risolutione tale senza<ptr target="#tn5" n="5"/>
+<pb n="042v" facs="04_042v" rend="0"/>
+precedente parere; et egli immediate havuta la risposta <lb/>
+partirà come ha detto per trovarsi in tempo alla detta <lb/>
+Dieta, che si farà ad Helbrun per li 6 over 7 del <lb/>
+mese venturo. Di quello che seguirà saranno da me <lb/>
+l’Eccellenze vostre riverentemente avvisate. </p>
+<p>Mi disse esso Monthu il primo giorno, che fu a vedermi che ’l <lb/>
+signor Duca gli scriveva haver inteso dall’eccellentissimo signor ambasciator Donato <lb/>
+et d’altra parte ancora, che vostra Serenità mostrava di adherir <lb/>
+ad una proposta del re di Spagna di accommodar <lb/>
+le cose d’Italia a quella corte, et che procurasse d’infor-<lb/>
+marsi da quei ministri della serenissima Republica, et chi si<ptr target="#tn6" n="6"/> <lb/>
+trovasse, di questo affare, meravigliandosi, che se gli dia <lb/>
+d’orecchio, potendosi creder, che questi siano delli <lb/>
+ordinarii artificii, et mi pregò di dirgliene qualche <lb/>
+particolare. Io gli risposi, ch’era vero, che l’apertura <lb/>
+era stata fatta, come sua Altezza haveva inteso, che la Serenità vostra <lb/>
+haveva mostrato (quello che sempre ha fatto) di desiderar <lb/>
+la pace, et la quiete commune, et propria, et<ptr target="#tn7" n="7"/> <lb/>
+accioché il mondo fosse certo, che non è nella serenissima Republica <lb/>
+altra intentione; ma che non restava in lei alcun <lb/>
+fondamento; et egli replicò non devono quei signori eccellentissimi <lb/>
+manco farlo,<ptr target="#tn8" n="8"/> che resteranno ingannati perché
+<pb n="043r" facs="04_043r" rend="0"/>
+mala cosa è haver per giudice, chi ha parte nella controversia <lb/>
+pendente; et io replicai, che poteva l’Altezza sua restar sicura, <lb/>
+che dal canto delle Signorie vostre eccellentissime si haverebbe havuto mira <lb/>
+di far fondamentalmente, et stabilmente le cose; né altro mi ha <lb/>
+replicato per allhora né detto doppo in questo particolare. Gratie etc. </p>
+<p>Dall’Haya a’ 18 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="043v" facs="04_043v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="048r" facs="04_048r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="048v" facs="04_048v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="015">
+<!--
+<p n="048vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 marzo 1617 ricevute 5 aprile </p>
+<p>Aia. 2<hi rend="superscript">a</hi> </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="016" corresp="015" source="44r-47v" >
+<div type="main" facs="main text of attachment I" n="016" corresp="015" >
+<!--<p>Allegato I al n. 15 (cc. 44r-47v)</p>-->
+<pb n="044r" facs="04_044r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Propositione del signor di Monthù per il signor duca di Savoia <lb/>
+alli signori Stati </p>
+<p>Signori </p>
+<p>per sodisfar a quello, che vi sete compiacciuti de dirmi questa mattina io vi <lb/>
+ridurò brevemente in scritto ciò<ptr target="#tn9" n="9"/> che ho esposto di bocca dalla parte del mio <lb/>
+patrone. Io non voglio discorrer a longo dei servitii della casa di Savoia fatti <lb/>
+a quella di Spagna perché vi sarebbe troppo da dire. Mi contento di havervi <lb/>
+significato che Carlo avo del mio patrone, per seguitar l’imperator Carlo Quinto <lb/>
+suo cognato perdé tutti li suoi stati restando Emanuel Filiberto per molto tempo <lb/>
+privo di essi sin tanto che col mezo del suo valore et d’un felice maritaggio <lb/>
+gli furono restituiti. Carlo moderno duca per secondar<ptr target="#tn10" n="10"/> li dissegni del suo <lb/>
+suocero, et di suo cognato ha persa una parte del suo antico patrimonio, <lb/>
+et ha ruinato grandamente il resto: tutto ciò non ha generato altro nello spirito <lb/>
+delli Spagnoli che una disleale ingratitudine et un desiderio di spogliar <lb/>
+il mio signore delli suoi stati, come si sforza di far al dì d’hoggi cosa ben <lb/>
+strana ma facile a vedersi de quelli, che conoscono il natural de’ <lb/>
+Spagnoli ancorché non ne vedesse gl’effetti, ma la loro ambitione non <lb/>
+resta fin là, passando ella più oltre. </p>
+<p>Perché non è alcun dubio che aspirano<ptr target="#tn11" n="11"/> all’assoluta monarchia di tutta l’<lb/>
+Europa disegno<ptr target="#tn12" n="12"/> che non hanno già mai potuto far apparere; né azardare <lb/>
+così grande intrapresa nel tempo del fu re di Francia Henrico <lb/>
+il Grande, il quale haveva in maniera disposti gl’affari, che lo Spagniolo in luoco <lb/>
+di pensar alla dominatione sopra altri non temeva altro che la sua propria <lb/>
+ruina delle quale non ne sarebbe restato libero senza l’essecrando paricidar <lb/>
+del Re; et sapendo che la Francia poteva ancorché priva d’un tal Re <lb/>
+contrapesare questi disegni volendo riprender il corso della loro ambitione col <lb/>
+mezo d’un maritaggio, che si prevede funesto alla Francia hanno in maniera <lb/>
+guadagnati li principali, che hanno veduto in fonte<ptr target="#tn13" n="13"/> tutti li disegni del <lb/>
+fu Re, veduto tutte le scritture originali d’essi, penetrando con tal mezo
+<pb n="044v" facs="04_044v" rend="0"/>
+nel più profondo dei secreti de’ principi et stati; che erano uniti al detto <lb/>
+fu Re hanno creduto che essendo mancato il capo il giocco fosse tornato per <lb/>
+essi; et che in luogo de guardarsi dalli disegni che si havevano contra di <lb/>
+loro dovessero faticarsi per la mira di tutti persuadendosi di poterne venir <lb/>
+a fine havendo parimente a loro divotione il consiglio di Franza. </p>
+<p>Per effetuatione delli loro disegni bisognava che si disfacessero delli più risoluti <lb/>
+alla diffesa della libertà et d’Italia et d’Europa a questo fine hanno <lb/>
+suscitato una guerra alli signori Venetiani et all’altezza<ptr target="#tn14" n="14"/> di Savoia, pensando (come <lb/>
+egli è vero in effetto) che essendo<ptr target="#tn15" n="15"/> queste doi potenze abbassate tutto sa-<lb/>
+rebbe a loro perché il Papa non ardirebbe moversi, Fiorenza è loro <lb/>
+prossimo parente et feudatario per causa di Siena, Genua, et Parma in-<lb/>
+tieramente dipendenti de Spagna per le ragioni che troppo sono notorie. </p>
+<p>Essendo patrone in Italia ecco la loro piazza d’arme molto grande et sicura per pas-<lb/>
+sare quando li tornerà meglio in Germania dove il principal loro disegno <lb/>
+sarebbe d’unir l’Imperio alla casa di Spagna. Fatto questo ecco tutti li <lb/>
+principi d’Alemagna esposti alla tirania spagniola, et di più ancora <lb/>
+le città et stati liberi de’ quali il Spagnolo in particolare è inreconcilia-<lb/>
+bile inimico è perché non mirano ad altro che a<ptr target="#tn16" n="16"/> metter la loro libertà <lb/>
+in servitù, il che sarebbe loro facile in questo caso, perché contra gl’uni <lb/>
+prenderebbero per pretesto molte ragioni et pretentioni del Imperio <lb/>
+come parimente molto della casa d’Austria; contra gl’altri il pretesto <lb/>
+della religione che è il più pricieoso<ptr target="#tn17" n="17"/> mantello della sua avida <lb/>
+rapacità. </p>
+<p>Hora vedendo li signori Stati Unitti de’ Paesi Bassi che la crudele<ptr target="#tn18" n="18"/> et detistabile <lb/>
+ambitione de’ Spagnoli non perdona al suo proprio sangue né alla così <lb/>
+stretta consanguinità, et non ha alcun riguardo a così gran servitii
+<pb n="045r" facs="04_045r" rend="0"/>
+prestati dalla casa di Savoia anzi mettendosi sotto il piede tutto il dritto divino et <lb/>
+humano vuol ruinar li stati et l’antiquo patrimonio del duca di Savoia che <lb/>
+deveno essi adunque esporre o per dir meglio che cosa deveno temere se <lb/>
+non tutte le cose di crudeltà d’un inimico il quale oltre ch’egli è da <lb/>
+sé stesso inseconciliabile<ptr target="#tn19" n="19"/> ha tanto di mal talento contra li detti miei <lb/>
+signori Stati che senza dubio che ha più a cuore la loro ruina che de <lb/>
+tutti gl’altri. </p>
+<p>Essendogli parimente la loro grandezza et prosperità del tutto intolerabile per le <lb/>
+cause troppo notte a’ detti<ptr target="#tn20" n="20"/> miei signori et perché egli non ha nisun <lb/>
+dubio che tutto quello che si tenta contra il mio patrone non tende <lb/>
+ad altro fine che ad auvrir il passo libero per portar la guerra <lb/>
+dentro all’intimo de’ loro Stati, et per prevenire con più segureza <lb/>
+a questo disegno vorebbono levarsi dinanzi l’occhi il solo principe <lb/>
+d’Italia a chi dà il cuore d’opporse alla loro tirania et sarebbe <lb/>
+sufficiente per soccorrere li signori delli Stati si vi fusse bisogno. </p>
+<p>Stando l’affare et il disegno de’ Spagnoli in tale stato non è<ptr target="#tn21" n="21"/> dubbio che <lb/>
+la guerra ch’egli fa in Italia al duca di Savoia mio patrone, ella <lb/>
+non è solo contra li principi et li Stati Uniti de’ Paesi Bassi, ma per <lb/>
+venir a fine d’essi, s’una volta egli se agrandisse con la ruina <lb/>
+del duca di Savoia che Dio non la voglia. </p>
+<p>Et per tanto bisogna ch’ogni uno facci un fundamento indubitabile <lb/>
+et che tenghi per massima infalibile che la conservatione dal duca <lb/>
+di Savoia mio signore è la loro et la sua perdita la loro ruina. </p>
+<p>Per evirarla adonque il solo sicur mezo è d’assister a sua altezza di Savoia <lb/>
+il che è facile et utile alli miei signori li dotti signori et Stati Uniti de’ <lb/>
+Paesi Bassi. </p>
+<pb n="045v" facs="04_045v" rend="0"/>
+<p>Utile perché è la<ptr target="#tn22" n="22"/> conservatione d’essi et che di là dipende la loro <lb/>
+sigurezza la quale non ha un tal fondamento, perché aiutando sua Altezza <lb/>
+fanno la guerra al loro inimico fuoro di suoi confini et paesi <lb/>
+con ogni vantaggio et speranza de buon successo. </p>
+<p>Facile perché volendo li detti signori<ptr target="#tn23" n="23"/> principi et le città posseno soccorrer la <lb/>
+detta sua Altezza de genti et di denari et di munitioni de guerra, et essendo <lb/>
+sua Altezza soccorsa non ha dubio alcuno ch’ella può non solamente diffendersi<ptr target="#tn24" n="24"/> <lb/>
+ma grandamente dannegiare li Spagnioli li quali sono più facili a <lb/>
+vincere in Italia che in luoco del mondo et essendo una volta <lb/>
+vinti, ecco tutti li loro affari sono per andare evidentamente in <lb/>
+gran decadenza perché restando una volta privi, non di tutto <lb/>
+quello ch’hanno in Italia, ma di quello che possedono in <lb/>
+Lombardia non vi è mezo né speranza che possino pensar <lb/>
+di tirarsi in Alemagna né mantener<ptr target="#tn25" n="25"/> li Paesi Bassi, perché <lb/>
+il cuore della monarchia Spagnola essendo in Spagna quando <lb/>
+ella non potrà mandar li soccorsi necessarii ai membri più lontani <lb/>
+d’essa non si è de dubitare che tutto non perisca perché nella <lb/>
+medesima maniera ch’in<ptr target="#tn26" n="26"/> un corpo humano li membri per qualche acci-<lb/>
+dente restano privi et di nutrimento et de’ spiriti vitali così<ptr target="#tn27" n="27"/> riesce<ptr target="#tn28" n="28"/> <lb/>
+con li stati lontani dal suo cuore non potendo esser soccorsi<ptr target="#tn29" n="29"/> in bene. </p>
+<p>Essendo ciò come<ptr target="#tn30" n="30"/> è in effetto li<ptr target="#tn31" n="31"/> miei signori<ptr target="#tn32" n="32"/> principi et Stati Uniti <lb/>
+de’ Paesi Bassi non deveno pensar ad altro che ad anichilare la <lb/>
+potenza di Spagna in Germania ove ella ha pur troppo d’<lb/>
+introito tanto per<ptr target="#tn33" n="33"/> il mezo dell’oro del Perù che per la corri-<lb/>
+spondenza d’altri principi d’Austria con il Spagniolo, perché
+<pb n="046r" facs="04_046r" rend="0"/>
+ancorché alla longa la grandezza di Spagna può nuocere <lb/>
+alli altri principi d’Austria in Alemagna, con tutto ciò saranno <lb/>
+sempre pronti et disposti a secondar li disegni di Spagna vedendo <lb/>
+la<ptr target="#tn34" n="34"/> grandezza d’essa e quella della sua propria casa <lb/>
+aggiungendosi che li detti Spagnoli sono assai artificiosi per <lb/>
+disporli, et nel resto per guadagnar li più intimi conseglieri <lb/>
+della casa d’Austria che non ardirebbono opporsi ad alcuni <lb/>
+disegni de’ Spagnoli. </p>
+<p>Et per romperli assolutamente oltra l’asistenza<ptr target="#tn35" n="35"/> che si deve<ptr target="#tn36" n="36"/> fare a <lb/>
+sua altezza di Savoia sarebbe bene di tirar li Svizzeri nell’Unione <lb/>
+et stante che sarebbe molto difficile tirar<ptr target="#tn37" n="37"/> li<ptr target="#tn38" n="38"/> 13 cantoni <lb/>
+essendo li piccioli cantoni affatto Spagnoli, bastarebbe de <lb/>
+tirarvi dentro li Cantoni protestanti, perché da questo ne <lb/>
+risultarebbe un gran bene et vantaggio per il profitto della <lb/>
+causa comune. </p>
+<p>Stante che non potendo la Spagna<ptr target="#tn39" n="39"/> far la guerra in Italia <lb/>
+senza tirar genti d’Alemagna li signori di Berna, Zurich et Basilea, <lb/>
+posseno essi soli serar el passo, che li Spagnoli hanno per li piccioli <lb/>
+cantoni, li qual vedendo li protestanti uniti a’ detti miei signori li <lb/>
+principi haverebbono occasione di pensare ai fatti loro e non <lb/>
+sarebbe<ptr target="#tn40" n="40"/> concesso il passo de’ loro proprii sudditi che vanno <lb/>
+in servitio di Spagna, perché essendo in timore non vo-<lb/>
+rebbono né deverebbono<ptr target="#tn41" n="41"/> dessarmarsi facendo delle levate per <lb/>
+il Spagnolo cosa che indebolirebbe molto li disegni e forze <lb/>
+del nostro commun inimico il quale havendo la Borgognia
+<pb n="046v" facs="04_046v" rend="0"/>
+et il Paese intieramente appresso li Svizzeri per paura di perdarla <lb/>
+haverebbono altretanto soggietto di pensare a conservarsi come senza <lb/>
+causa né materia procurano di anichilare la parte d’altri. </p>
+<p>Ecco doi mezi molto facili per assicurar li signori de’ Stati Uniti et per diffender <lb/>
+la giusta causa d’un principe tanto ingiustamente travagliato li <lb/>
+quali mezi se li dotti signori Stati scielgono fano la guerra al Spag-<lb/>
+nolo senza sentir puoco o niente d’incommodità perché soccorrendo <lb/>
+sua Altezza tengono lontanto da loro il suo inimico, et godono<ptr target="#tn42" n="42"/> totalmente <lb/>
+della libertà che si procura de levarsi in luoco che lo Spagnolo <lb/>
+accrecesse<ptr target="#tn43" n="43"/> le sue forze et stati con la ruina di quelli di sua Altezza <lb/>
+haverebbono insieme immediatamente<ptr target="#tn44" n="44"/> la guerra<ptr target="#tn45" n="45"/> sopra le brazzie. </p>
+<p>A tal fine io le prego et supplico a nome di sua altezza di Savoia mio signore <lb/>
+di voler aiutarlo et soccorerlo<ptr target="#tn46" n="46"/> con 4 mila homini da piedi o più et di <lb/>
+400 cavalli pagati dalli detti miei signori durante questa guerra et <lb/>
+di qualche monitione de guerra come polveri, corda, piombo, et di <lb/>
+qualche pezzo d’arteglieria. </p>
+<p>E perché la distanza de’ luogi sarebbe mal commoda a<ptr target="#tn47" n="47"/> condur la gente <lb/>
+in Piemonte<ptr target="#tn48" n="48"/> aggiongendosi a questo, che li detti miei signori non vorebbono <lb/>
+privarsi di tante genti, li suplico di soccorerla<ptr target="#tn49" n="49"/> in dinari a <lb/>
+proportione della paga delli sudetti 4 mila fanti et 400 cavalli. </p>
+<p>Et perché miei signori lo Spagnolo nostro inimico commune è grande et <lb/>
+potente et li mezi della guerra sono violenti bisogna un buon <lb/>
+mezo et sopra tutto un pronto rimedio, che è<ptr target="#tn50" n="50"/> quello<ptr target="#tn51" n="51"/> di che io <lb/>
+vi supplico particularmente et tanto affettuosamente a fine che vi piacia <lb/>
+di affrettare l’essecutione con una favorabole resolutione la quale <lb/>
+io spero che prenderete per il bene delli affari communi, essendo
+<pb n="047r" facs="04_047r" rend="0"/>
+che nella prontezza miei signori consiste il bene de questo affare, <lb/>
+io per tanto la raccommando quanto l’affare istesso. </p>
+<p>Et in contra cambio sua Altezza s’offerisce et si obligerà in caso del simil <lb/>
+necessità di corrisponder secondo che comporterà le sue forze alla <lb/>
+assistenza che voi gli farete in questa occasione pregandoli <lb/>
+che per effetto della buona volontà che havete testificata a <lb/>
+sua Altezza vi piacia d’aggredire et favorir questa pro-<lb/>
+positione fattavi da sua parte. </p>
+<p>Data nel’Haya a’ 14 marzo 1617 </p>
+<pb n="047v" facs="04_047v" rend="270"/>
+<p>Scrittura presentata a’ signori Stati <lb/>
+dal signor di Monthù </p>
+<p>nelle 2<hi rend="superscript">de</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-rì" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "ne" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "risolversi" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "precedente parere" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "s-" corrected above "l-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "accio-" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line on "quello" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the deleted word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a-" corrected above -"i-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "a" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "a-" corrected from "s(ignor)."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "a" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Correction in the line above on "e" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-o-" corrected above "-s-."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Uncertain, transcribed as it appears"; -ci-" added above the line, first "-l-" corrected above -"b-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by deleted text.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "è la" added above the line on "con."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "li" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-d-" is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "-si" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "in" added above the line with an insertion mark.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Added above the line.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-e" corrected above -"o"; followed by "-no" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "è ne-", crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "li" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-r" corrected above "-l."</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Precedes "che" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "l’a" corrected above "la."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Added above the line on "debba" crossed out.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by "-li" crossed out.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Correction in the line above on "m" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "-a" corrected above -"ia."</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Precedes "sareb-" crossed out.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Followed by "d’" crossed out.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Second "-o-" corrected above -"a-."</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> Added above the line on "indubitabilmente" crossed out.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> "la guerra" added above the line with an insertion mark.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> Added above the line on "secorlo" crossed out.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> Is the result of a correction.</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> Added above the line on "sorcorbarla" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> Followed by "che" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.015 date 1620-04-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">015</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 58r-61v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">58r-61v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Sterckenburg levies troops for princes of the Union in Liège, Cleves and Jülich as he was unable to levy in the Dutch Republic due to new restrictions. Almost certain that the duke of Saxony has chosen the side of the Emperor. The States General are not sure what to make off news that Gabor is trying to be crowned king of Hungary and reports incoming news from Poland. Attached letter by States General to Haga to encourage him to maintain good relationship with the bailo and inform him on the alliance. Reports fears over plot to assasinate Maurice. Louise de Coligny is preparing to go to France and news from Brussels that Badoer has been to Amsterdam and will travel to England. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-21">21 aprile 1620</date>
+            <num>020</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="020">
+<div type="main" facs="main text of letter" n="020">
+<!--<p>21 aprile 1620, L’Aia (cc. 58r-61v)</p>-->
+<pb n="058r" facs="09_058r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 197 comincia 195 </p>
+<p>Serenissimo Principe </p>
+<p>su li confini di Lieges, Cleves, et Giuliers fa il Sterchemburgh la <lb/>
+levata del suo reggimento d’infanteria per li principi dell’<lb/>
+Unione, et la cavallaria anco prendono da quei quartieri, <lb/>
+sendosi di già avanzati assai, nel ridurla insieme. Non <lb/>
+hanno potuto ottenere di cavar direttamente gente da questi <lb/>
+paesi; può esser, che habbino havuto qualche fugitivo. <lb/>
+Li signori Stati con nuova rigorosa prohibitione difendenno a cadauno <lb/>
+officiale, et soldato l’abandonar le loro compagnie a fine <lb/>
+che non sviassero la soldatesca; et sue Eccelenze<ptr target="#tn1" n="1"/>, et il signor <lb/>
+principe Mauritio me lo disse sabbato, che fui ad augurarle<ptr target="#tn2" n="2"/> <lb/>
+le buone feste, che amerebbono meglio mandar ai Prin-<lb/>
+cipi dell’Unione le compagnie intiere più tosto che di tal <lb/>
+maniera restassero rovinate. </p>
+<p>Ognuno tiene per sicuro al presente, che ’l duca di Sassonia si sia <lb/>
+dichiarato per Cesare a Brusseles almeno se ne parla come <lb/>
+di cosa fatta. Il signor Landtgrave d’Hassia risolve di <lb/>
+scrivergli una lettera. È stata efficacemente detata, et ha <lb/>
+havuto per fine di divertir quell’Altezza dal tenir dalla <lb/>
+parte degl’elettori ecclesiastici, et di non si lasciar sodur da essi <lb/>
+per venir a sostener il partito dell’Imperatore: dimo-<lb/>
+strandogli, che questo venirebbe a ferir gl’interessi della <lb/>
+casa; pregiudicarebbe ai parentati c’ha con li principi, <lb/>
+et con la casa di Hassia in particolare, et pregiudicarebbe insieme <lb/>
+alla religione. Ha havuta risposta dal duca con lettera <lb/>
+molto garba, et piccante, faccendogli constar assai <lb/>
+chiaro il disgusto, che haveva ricevuto di esser stato
+<pb n="058v" facs="09_058v" rend="0"/>
+avvertito; onde questo, et gl’altri andamenti, che si scuoprono <lb/>
+nel duca dano assai di materia per persuader, che ’l partito dell’<lb/>
+Imperatore sarà seguitato da lui. </p>
+<p>Hanno questi signori et il signor principe Mauritio martello de’ fini, <lb/>
+et andamenti di Bethelem<ptr target="#tn3" n="3"/> Gabor. Dubitano che <lb/>
+gl’arteficii lo vincano, et subornato apporti pregiudicio <lb/>
+notabile agl’interessi, et affari de’ Bohemi. Non sanno se <lb/>
+devono creder, che mirerà sempre di far le cose con l’oggetto <lb/>
+alla Porta di Costantinopoli: tuttavia in questa perplessità <lb/>
+di discorso hanno un sostenimento all’animo di lettere scritte da <lb/>
+conte di Solms camerier maggiore del re di Bohemia, con le <lb/>
+quali avvisò, che viene da Gabor tentato, et fatto tutto <lb/>
+per rendersi patrone del Regno d’Ongaria. Le lettere sono <lb/>
+scritte al conte Guglielmo, che l’ha mandate a sua Eccellenza per com-<lb/>
+municarle alli signori Stati. </p>
+<p>Vostra Serenità deve haver di questo più certi particolari, come anco non <lb/>
+dubito, che di Viena haverà inteso quello che passi in Polonia. <lb/>
+Non tacerò ciò<ptr target="#tn4" n="4"/> che qui se ne dice. Et serva di rincontro <lb/>
+se fosse vero che quel Re s’era absentato dalla corte retirandosi <lb/>
+fuori in luogo sicuro, non sapendo quello gli potesse succeder per <lb/>
+le male volontà, che haveva scoperte in quei Stati, disgustati; <lb/>
+come publicavano dell’impresa fatta in Moravia, et in Slesia <lb/>
+contra la volontà et la conoscenza della più gran parte dei <lb/>
+popoli, che una gran parte della colpa era gettata <lb/>
+su li iesuiti che stavano nel concetto de’ molti per <lb/>
+essere licentiati del Regno; et più, che correva la voce
+<pb n="059r" facs="09_059r" rend="0"/>
+di far elettione di nuovo Re. </p>
+<p>Si sono havuti avvisi di Lisbona capitati a sua Eccellenza che 3 mila Spagnoli <lb/>
+si erano ridotti all’imbarco per esser mandati nelli Stati sudditi <lb/>
+a’ serenissimi arciduchi; ma quando crederono haver il numero <lb/>
+compito, mentre stavano alla vela per partire non ne trovo-<lb/>
+rono alla rasegna che la metà, et imbarcata di nuovo <lb/>
+questa si sono ridotti a mille, et doicento; onde non si <lb/>
+sapeva se havessero atteso per far nuovo augumento <lb/>
+per ridur al numero compito delli tremilla. </p>
+<p>Devono fra tre o quattro giorni partir verso Hamburgh alcuni <lb/>
+deputati dalli signori Stati Generali per trovar ripiego d’<lb/>
+accommodar il duca di Lunemburgh con quei popoli; <lb/>
+et divertir qualche intrapresa, che par, che si scuopri dalla <lb/>
+parte del re di Danimarca sopra li medesimi Hamburghesi; <lb/>
+servendosi del pretesto del titolo di protettore, che ha di <lb/>
+quella città della quale fu eletto, chiamato, et in essa <lb/>
+solennemente accettato; et essi si scusano con dire, che l’Imperatore <lb/>
+lo vuole come cosa che<ptr target="#tn5" n="5"/> a lui direttamente appartiene sendo <lb/>
+città imperiale. </p>
+<p>Mando qui aggiunta alla Serenità vostra la lettera, che li signori Stati Generali <lb/>
+scrivono al loro oratore in Constantinopoli; toccante la <lb/>
+commissione, che gli dano sopra l’instanza che lo fece. <lb/>
+A me l’hanno inviata facendomi dire, che era perché <lb/>
+capitasse più sicuramente il contenuto e il ringraziamente<ptr target="#tn6" n="6"/> <lb/>
+ch’io loro havevo fatto per li buoni ufficii di esso <lb/>
+oratore. Lo laudano, et lo incaricano con parole molto
+<pb n="059v" facs="09_059v" rend="0"/>
+piene a tenir ogni sorte di buona corrispondenza coll’eccellentissimo <lb/>
+signor bailo Nani. Li dano conto dell’aleanza fatta, et gli <lb/>
+mandano l’estratto della capitulatione. Io colla prima <lb/>
+occasione non mancarò di ringratiar questi signori. </p>
+<p>Si trova da alcuni giorni in qua prigione in Delft uno di assai bassa <lb/>
+conditione, che sendo in Amsterdam in un’hosteria a tavola hebbe <lb/>
+a dire che voleva venir a Leiden per compar<ptr target="#tn7" n="7"/> un archibuso per <lb/>
+ammazzar all’Haya un ricco mercante. Fu osservato il suo <lb/>
+dire, et interpretato il pericolo sopra la persona del signor principe <lb/>
+Mauritio, et perché prese qualche danari in Amsterdam da un <lb/>
+mercante sopra una lettera di cambio, che era rimessa di <lb/>
+Spagna fu ritenuto il mercante, ma veduta la lettera, <lb/>
+conosciuto, che non poteva haver alcuna mala<ptr target="#tn8" n="8"/> communicatione <lb/>
+fu rilasciato; ma l’altro sta tuttavia prigione senza haver <lb/>
+potuto tirar da lui cosa che vaglia, et il signor principe Mauritio <lb/>
+ha ordinato, che si procedi seco con ogni moderatione. Sabbato <lb/>
+fu<ptr target="#tn9" n="9"/> condotto da Leiden uno anco, che ho havuta cono-<lb/>
+scenza o compagnia con quello di Delft per tirar quello <lb/>
+si potrà fin qui non ci è che sospetto senza fondamento ancora. <lb/>
+Ho voluto accennar questo tanto per quello, che ne potesse <lb/>
+esser detto. </p>
+<p>La signora principessa d’Oranges ha già inviate le sue<ptr target="#tn10" n="10"/> bagaglie innanti <lb/>
+per fare un viaggio in Francia. Si dice che va per affari suoi <lb/>
+particolari per riscuoter la sua pensione, che già è andata <lb/>
+a dietro senza pagamento di cinque o sei anni, veder altri <lb/>
+interessi suoi in quella corte. Et alcuni vogliono, che possi <lb/>
+tirar li concetti della dispositione di quei ministri verso
+<pb n="060r" facs="09_060r" rend="0"/>
+questi Stati. Ma altri tengono che non sia affare per lei. Il signor <lb/>
+principe Mauritio l’informa molto bene per le contese che ha <lb/>
+con il principe di Conde per la sorella che fu principessa di <lb/>
+Oranges. </p>
+<p>Fui avvisato di Brusseles ch’ivi era capitato il cavalier Badoaro <lb/>
+che doveva venir in Holanda, et passar in Inghilterra. Per li <lb/>
+contrasegni che ne ho havuto da Amsterdam è stato qui una <lb/>
+mattina, et doppo ’l mezo giorno passò ad essa città di Amster-<lb/>
+dam, ove s’è trettenuto doi giorni. Con lui sono doi luchesi <lb/>
+coi quali è ritornato a Brusseles, doveva in Anversa <lb/>
+far le feste di Pasqua, et di là passar in Inghilterra. Ho scritto al <lb/>
+Pasini, che mi avvisò la sua venuta in questa Provincia, <lb/>
+che cavi quello, che col suo replicato ritorno in Brusseles <lb/>
+habbi negotiato. S’è finto in Amsterdam d’altro Paese, <lb/>
+che venetiano, ma chi ha parlato seco, et me lo ha riferto <lb/>
+sendo venuto qui nell’Haya, ha detto che si dava<ptr target="#tn11" n="11"/> ben <lb/>
+a conoscer per venetiano all’accento. Questo è quello <lb/>
+che ho saputo, et ho stimato non lasciar di aggiunger alla <lb/>
+Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 21 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="060v" facs="09_060v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="061r" facs="09_061r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="061v" facs="09_061v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 197 comincia 195 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="020">
+<!--
+<p n="061vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 aprile 1620 ricevute a’ 6 maggio </p>
+<p>Del segretario Suriano. n° 197 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "Gabor" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "quello" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "posto" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "bagl" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out letter.</p></note>
+</div>
+</body>
+</text>
+</TEI>

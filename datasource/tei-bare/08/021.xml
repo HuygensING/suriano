@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.021 date 1619-06-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">021</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 109r-112v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">109r-112v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>He sends the copies of accounts anew. Calandrini will write to Amsterdam to express his displeasure about the delay and he equally writes about ship to be ready at Texel. Pach however has not yet left. He refers to a letter he has written on 9 May 1617 about a Greek from Zanthe, who was in the service of Archdukes and it has been confirmed he is a good gunner. He has requested Pasini whether he wants to join Venice. Asks for advice to see if Venice wants more merchant ships. Following Maurice, the States have urged James I to help the Bohemians. More about the potential title for Frederick-Henry in the service of Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-06-25">25 giugno 1619</date>
+            <num>038</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="038">
+<div type="main" facs="main text of letter" n="038">
+<!--<p>25 giugno 1619, L’Aia (cc. 109r-112v)</p>-->
+<pb n="109r" facs="08_109r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 110 sola </p>
+<p>Serenissimo Principe </p>
+<p>ispedii coll’ordinario di hoggi otto, et col precedente li conti, et roli delle <lb/>
+amiralità di Roterdam, et di Nort Holandia: et di questa le ne <lb/>
+mando nuova copia colla replicata delle lettere de’ 18. </p>
+<p>Qui è il Calandrini per agiustar meco intorno il denaro proveduto, <lb/>
+et esborsato. Scriverò col suo ritorno alli signori di Amsterdam, et li <lb/>
+rappresenterò il dispiacere, et il disordine, che può partorir la <lb/>
+dilatione, che tuttavia frapongono nel farmi haver li conti. </p>
+<p>Il medesimo Calandrini haverà l’ordine de’ bombardieri, ch’ella <lb/>
+desidera, et mi commanda nelle sue lettere de’ 7 et coll’occasione <lb/>
+di una nave, che fra pochi dì sarà pronta nel Tessel per uscire <lb/>
+spero, che ne potrà inviar qualche buona parte. Il Pach non <lb/>
+è ancor partito, et sono qualche giorni che andò<ptr target="#tn1" n="1"/> di qua, né <lb/>
+più ho saputo alcuna nuova di lui, se non che si trovava a <lb/>
+Roterdam. </p>
+<p>Per li quindeci, o vinti, che desiderassero fermarsi al servitio di vostra Serenità ho <lb/>
+pur data carica al Calandrini, et anc’io dall’altro canto non <lb/>
+mancarò di procurar l’effetto del desiderio di lei. A questo pro-<lb/>
+posito m’è sovenuto haverle scritto sin alli 9 maggio 1617 di <lb/>
+un tal greco dal Zanthe, che si trovava al servitio dei serenissimi arciduchi. <lb/>
+Mi è stato affermato, che oltre le altre qualità scritte sia egli buon <lb/>
+canoniere; et che haverà forse modo di condur seco qualchedun <lb/>
+altri al suo servitio. Fin sabbato scrissi al Pasini, che intendi <lb/>
+se continua nella medesima volontà; et a lei ho stimato bene dar <lb/>
+questo riverente avviso, perché faccia veder le<ptr target="#tn2" n="2"/> sudette lettere <lb/>
+per ordinarmi li suoi prudentissimi commandamenti, mentre il detto greco fa <lb/>
+stato abandonando<ptr target="#tn3" n="3"/> il sudetto servitio di assicurarsi di venir <lb/>
+a finir costì li suoi giorni in quello della serenissima Republica. </p>
+<pb n="109v" facs="08_109v" rend="0"/>
+<p>Secondo l’occasioni ho procurato cavar se qualcheduno di questi mercanti <lb/>
+si disponessero volentieri ad inviar a loro spese sino in colfo di Venetia <lb/>
+alcune navi, delle quali potesse poi vostra Serenità valersene in luoco delle <lb/>
+poco atte. Parmi di haver persuaso in maniera, che si farebbe <lb/>
+quand’io assicurassi, che le navi sarebbono poste in servitio. <lb/>
+Hora tocca alla prudenza di lei considerar il suo vantaggio. <lb/>
+Massime se avesse pensiero di far licentiar qualcheduni dei capitani <lb/>
+delle 12 navi, et se volesse, che questi mercanti trovassero altri <lb/>
+huomini proprii per commandare lo farebbono. Aspetterò il suo senso. </p>
+<p>La nave, che doverà presto partire passa a dirittura all’armata in <lb/>
+golfo con provisioni de’ viveri. Il Calandrini mi ha fatta instanza <lb/>
+di far una lettera di raccomandatione per l’eccellentissimo signor Capitan generale <lb/>
+perché il patrone di essa sia favorito acciò non ricevi qualche torto <lb/>
+nella vendita di detti viveri colla permissione di esso eccellentissimo Signore. <lb/>
+Di tanto ho stimato bene dar riverente conto a vostra Serenità per l’ordine <lb/>
+che si compiacesse far dar in questo proposito, che fosse usata qualche <lb/>
+honesta agevolezza a questo a fine d’eccitar gl’altri ad inviar di <lb/>
+tempo in tempo di simil provisioni all’armata per renderla abondante. </p>
+<p>All’avviso, che scrissi hoggi otto haver questi signori havuto del quast non n’è <lb/>
+susseguitato d’altro, attendono con desiderio il certo, come anco <lb/>
+di saper la risolutione finale, che li principi dell’Unione haveranno <lb/>
+presa ad Helbrun, se ben s’imaginano, che niuna cosa haveranno <lb/>
+fatta che vaglia per Bohemi. </p>
+<p>In conformità di quello disse il signor principe Mauritio hanno li signori Stati <lb/>
+scritte lettere molto efficaci al re della Gran Bretagna perché <lb/>
+rinnovi le commissioni al suo Ambasciatore, acciò nella trattatione del negotio <lb/>
+non lasci, che Bohemi siano astretti a partiti lontani dal giusto
+<pb n="110r" facs="08_110r" rend="0"/>
+et pregiudiciali non tanto alla loro, che all’altrui libertà; et li commissari <lb/>
+loro che sono in Inghilterra hanno havuto commandamento di portar <lb/>
+quest’ufficio con molta efficacia. Dall’altro canto hanno anco <lb/>
+procurato di far capitar nuovi raccordi a Bohemi perché non si <lb/>
+lascino ingannar da belle parole. </p>
+<p>Nella Congregatione di Holanda, et tra li signori Stati si consulta <lb/>
+per la continuatione dell’assistenza a detti Bohemi. </p>
+<p>Diverse sono le cose, che si devono trattar al presente in questo Governo <lb/>
+et la principale è di darli un fermo stabilimento, et rinovar con <lb/>
+più forte, et stabil fondamento l’unione di Utrechet. Di altre <lb/>
+materie si parla ancora, et in particolar di stringersi colla Serenità vostra <lb/>
+sopra che si venirà per quanto sono avvisato ad una risolutione <lb/>
+prima della dissolutione di questa assemblea di Holanda; ma <lb/>
+trattano prima di stabilir quello, che ho detto di sopra per servitio <lb/>
+dello Stato et per la sua universal quiete. L’absenza di sua <lb/>
+Eccellentia et d’altri signori del Governo, mi ha levata l’occasione di haverne <lb/>
+qualche discorso. Starò aspettando quello mi sarà detto. </p>
+<p>Hor si sodisfacendo il signor Principe degl’andamenti del governatore di Oranges <lb/>
+ha pensato alla sua depositione, et per far le cose con più riputazione, <lb/>
+et sicurezza ha risoluto, che ’l principe Henrico suo fratello passi <lb/>
+a quella volta per ricever la piazza per consignata, et regolarsi <lb/>
+poi secondo lo stato delle cose, che vedendo non poter partir <lb/>
+alteratione per gl’interessi di quella Signoria, et della casa, doverà <lb/>
+lasciar quivi col titolo di governatore, un suo nipote figlolo<ptr target="#tn4" n="4"/> maggiore <lb/>
+della sorella propria maritata al<ptr target="#tn5" n="5"/> principe di Portogallo. <lb/>
+Metterà questo per esser catholico, restando<ptr target="#tn6" n="6"/> il<ptr target="#tn7" n="7"/> luocotenente<ptr target="#tn8" n="8"/> ch’è al presente<ptr target="#tn9" n="9"/> <lb/>
+se vorrà<ptr target="#tn10" n="10"/>, che haverà in effetto quello, che l’altro
+<pb n="110v" facs="08_110v" rend="0"/>
+possederà in titolo, non arrivando il giovane a 20 anni della sua età. </p>
+<p>Quel gentilhuomo, che ha trattato meco per il detto signor principe Henrico <lb/>
+fu a me<ptr target="#tn11" n="11"/> per cavar il senso della Serenità vostra quanto al titolo, al commando, et <lb/>
+altro facendo<ptr target="#tn12" n="12"/> memoria<ptr target="#tn13" n="13"/> di sua propria mano, mi disse, come anco fece <lb/>
+il principe Henrico, per poter il signor principe Mauritio<ptr target="#tn14" n="14"/> proporla <lb/>
+alli signori Stati per haver la permissione. Io gli espressi in detti particolari <lb/>
+quello pontualmente ch’ella m’ha commandato di significar nelle <lb/>
+lettere sue, senza alteratione alcuna. Per il<ptr target="#tn15" n="15"/> commando ha <lb/>
+mostrato un poco di senso, dicendo, che il signor conte di Vademont non <lb/>
+ubidiva ad altri, che al generalissimo senatore principale della Republica. <lb/>
+Io risposi, che non poteva esserci questa restrintione<ptr target="#tn16" n="16"/> particolare <lb/>
+ma ben gli sapevo dire questa esser la mente publica, che <lb/>
+sia ubidito a quello che commanderà all’armi della serenissima<ptr target="#tn17" n="17"/> Republica <lb/>
+et alli suoi rappresentanti, che siano senatori. Ho trovato <lb/>
+che fanno gran caso sopra questo commando, et di dover<ptr target="#tn18" n="18"/> esser il principe <lb/>
+Henrico sottoposto a tanti, come anco per la giustitia sopra <lb/>
+le sue truppe, quando non potessero il Generale, o colonelli, o altri <lb/>
+ufficiali, castigar li loro soldati che facessero qualche male. </p>
+<p>M’imagino, che et per l’uno, et per l’altro punto saranno poste <lb/>
+difficoltà. Io continuerò nel commessomi da vostra Serenità quando non <lb/>
+habbi fra tempo altro commandamento. Per la quantità de’ colo-<lb/>
+nelli non credo incontrar difficoltà; quanto alle compagnie <lb/>
+se vostra Serenità stimasse bene direi riverentemente che havessero ad esser di <lb/>
+doicento fanti l’una. Se bene questi vorrebbono che fossero di <lb/>
+150. Se fossimo sicuri, che tutti gl’ufficiali fossero persone esperi-<lb/>
+mentate, o almeno honestamente buone, allhora si potrebbe asentire <lb/>
+ma la Serenità vostra ha<ptr target="#tn19" n="19"/> havuto l’essempio, et colla prudenza
+<pb n="111r" facs="08_111r" rend="0"/>
+sua discorrerà quello crederà dover riuscir di suo servitio. Scrivo questo <lb/>
+tanto per haver il senso di lei, che mi può venir in tanto, che starà <lb/>
+absente il detto Principe, che sarà per quattro, o cinque settimane <lb/>
+come egli stesso appunto mi ha detto hoggi ch’è stato a me per prender <lb/>
+licenza, dandomi parte della causa di questo suo viaggio che si mostra <lb/>
+voler che si credi venga da reiterate instanze del Governatore di rinontiar <lb/>
+alla piazza; se bene si tiene, che ’l vero sia quello che ho detto di sopra. <lb/>
+Farà il detto Principe il viaggio per Francia, et mi ha detto che <lb/>
+vedrà il Re, o nell’andar o nel ritorno. Alcuni vogliono che <lb/>
+qui sotto vi sia qualche altro negotio, ma non vi è cosa di sicuro. </p>
+<p>Nel suo particolare mi ha detto che l’affare è nelle mani di sua Eccellenza che doverà <lb/>
+parlar alli signori Stati, et che forse prima del suo ritorno ne potrei <lb/>
+haver qualche risposta. Gratie etc. </p>
+<p>Dall’Haya a’ 25 giugno 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="111v" facs="08_111v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="112r" facs="08_112r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="112v" facs="08_112v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 110 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="038">
+<!--
+<p n="112vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>25 giugno 1619 ricevuta a’ 10 giugno </p>
+<p>Haya. n° 110 <lb/>
+sola </p>
+<p>Manda conti et rolli di <lb/>
+Roterdam e Nortolandia replicati. </p>
+<p>Il Calandrini venuto per agiustar i conti <lb/>
+et haverà il medesimo ordine per bombardieri. </p>
+<p>Il Pac si trova a Roterdam. </p>
+<p>Ha dato ordine al Calandrini per li 15 <lb/>
+o vinti bombardieri. </p>
+<p>Raccorda un greco del qual scrisse <lb/>
+con lettere 9 maggio 1617: si revedino <lb/>
+et si dia ordine. </p>
+<p>Ha parlato con mercanti per saper se in-<lb/>
+vieriano vasselli in colfo per cambiar <lb/>
+con altri sono in servitio poco ati: <lb/>
+si mostrano pronti quando siano <lb/>
+sicuri siano ricevuti. </p>
+<p>La nave che passa all’armata porta <lb/>
+carico di viveri, fa instantia che sia <lb/>
+il padron raccomandato. </p>
+<p>Li Stati hanno scritto in Inghilterra per il <lb/>
+negotio de’ Boemi. <lb/>
+Et a’ Boemi <lb/>
+avisato che non si lascino inganar <lb/>
+et consultano per assistenza da continuar <lb/>
+a’ Bohemi. </p>
+<p>Nel Governo tra altre cose si parla <lb/>
+dell’unione colla Republica et si venirà <lb/>
+a risolutione avanti si disciolga l’assemblea <lb/>
+[per]<ptr target="#tn20" n="20"/> l’absenza di Mauritio et altri del <lb/>
+[go]verno, non ha avuto occasione di <lb/>
+parlarne. </p>
+<p>Avisi del governo di Oranges. </p>
+<p>Ragionamento col gentilhuomo che tratta <lb/>
+per il conte Henrico: difficoltà sopra </p>
+<p>L. SS. </p>
+<p n="112vD">———</p>
+<p>l’obedienza ad altri che al Generalissimo <lb/>
+et sopra la giustitia alle truppe. </p>
+<p>Che continuerà essequir le com-<lb/>
+missioni quando non habbi altro ordine <lb/>
+et propone se fosse bene <lb/>
+le compagnie a numero di 200. </p>
+<p>Starà il Conte lontano 4 o <lb/>
+5 settimane: al suo <lb/>
+ritorno si tratterà. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Aggiunto in sopralinea su partì depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue scritture depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Così A."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Corretto su nel."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue suo depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue presente depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "ch’è al presente aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Aggiunto con segno di inserimento; seguono parole depennate."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "fu a me aggiunto nel margine esterno."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Esito di correzione."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Esito di correzione."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Esito di correzione."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Corretto da la; segue parola depennata."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Esito di correzione."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Corretto su Rep(ublic)a."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Foro nel supporto."</p></note>
+</div>
+</body>
+</text>
+</TEI>

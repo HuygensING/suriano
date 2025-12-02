@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.052 date 1620-08-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">052</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 266r-269v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp360-373#fnn1
+            </note>
+            <biblScope unit="page">266r-269v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Spinola will leave for Marimont and that he will reach Maastricht on Monday. As a reaction the Dutch troops were sent to Delft, from where they will take the boat to Arnhem. Maurice has visited the English, French and Venetian ambassador to take his leave. Other members of Nassau family and colonels equally visited Suriano before leaving, Vere is still in The Hague as his companies still need to be armed. Maurice will take 2000 cavalry and 15,000 infantry, all experienced army veterans. Sticke has been condemned to death and has been beheaded. Reports he is awaiting news from Passini about the pirate ships. This letter will be brought by courier from Contarini in Paris, for which he has given him 40 scudi. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-08-12">12 agosto 1620</date>
+            <num>079</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="079">
+<div type="main" facs="main text of letter" n="079">
+<!--<p>12 agosto 1620, L’Aia (cc. 266r-269v)</p>-->
+<pb n="266r" facs="09_266r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 234 comincia 232 </p>
+<p>Serenissimo Principe </p>
+<p>finalmente doppo haver ben attesi agl’avvisi della mossa <lb/>
+dello Spinola li hebbero questi signori, et il signor principe <lb/>
+Mauritio, che esso Spinola sabbato passato doveva <lb/>
+partire per Marimont. Di là la domenica, o lunedì seguente <lb/>
+doveva trovarsi a Mastricht alla piazza d’armi per <lb/>
+seguitar innanti, onde immediate fu dato ordine per <lb/>
+la mossa di qua della compagnie<ptr target="#tn1" n="1"/> della guardia di sua Eccellenza <lb/>
+che lunedì presso mezo giorno a bandiera spiegata, <lb/>
+s’incaminò per Delft a piedi, sendo in fila <lb/>
+alla testa de’ picchieri il signor Guglielmo di Nassau figliolo <lb/>
+naturale di sua Eccellenza, che non ostante il caldo; et il <lb/>
+camino assai penato per la sabbia commandò che mar-<lb/>
+chiasse con gl’altri. A Delft si messero in barca per <lb/>
+condursi ad Arnhem; et esso signor Guglielmo ritornò all’<lb/>
+Haya. </p>
+<p>Per hoggi risolvé l’Eccellenza sua la partenza, et hieri visitò questi <lb/>
+signori ambasciatori di Francia, et d’Inghilterra, et volse anco in <lb/>
+persona mia honorar quella serenissima Republica venendo <lb/>
+a prender licenza da me in questa casa della Serenità vostra <lb/>
+mostrai di aggradir l’honore, et stimarlo per grande; <lb/>
+et corrisposi hieri a sera, augurando a sua Eccellenza felicità <lb/>
+in questo viaggio, et che a commun servitio, grandezza <lb/>
+di queste Provincie in particolare, et a gloria di lei <lb/>
+havesse venendo l’occasione successi proprii al mio <lb/>
+desiderio. Mi disse l’Eccellenza sua Andiamo per esser spettatori <lb/>
+et questo mi molesta, poiché posso dire, che non sappiamo <lb/>
+ove andiamo né a che far andiamo. Non potremo
+<pb n="266v" facs="09_266v" rend="0"/>
+far altro, che regolarsi sul fatto. </p>
+<p>Sono stato anco visitato dal signor principe Henrico, dal figliolo del signor <lb/>
+principe d’Oranges, dal signor Mauritio figliolo del vecchio conte Gio. <lb/>
+di Nassau, dal colonel Sicol, da uno de’ colonelli francesi, e[t]<ptr target="#tn2" n="2"/> <lb/>
+da altri di questi principali capitani, et officiali, mostrando <lb/>
+tutti di tal maniera la devotione, et honore, che portano <lb/>
+a quella serenissima Republica. </p>
+<p>Questa mattina alle 4 hore è partito il signor principe. Lo ha seguitato <lb/>
+il fratello doi hore doppo sollevato affatto dal suo mal <lb/>
+di fianco, et tutti gl’altri principali officiali hanno preso <lb/>
+il camino per ritrovarsi coll’Eccellenza sua questa sera a Utrechet <lb/>
+et dimani sarà a Arrhem ove si trattenirà, osservando <lb/>
+qui quello farà lo Spinola, et il fine de’ Spagnoli; mentre fanno accampar con il resto dell’armata don Luigi di <lb/>
+Valasco alle frontiere di Giuliers, Duceldorp, et altri <lb/>
+circonvicini. </p>
+<p>Il colonello Ver è restato ancor qui per seguitar colli suoi <lb/>
+doi milla fanti; et il ritardo nave dall’armarli sendo <lb/>
+venuti di qua disarmati; et per dar ordine sia provisto <lb/>
+per gl’altri doi milla, et seguitino gl’altri. </p>
+<p>Il pensiero è che si habbi a dar con voi a questa soldatesca <lb/>
+per passar nel Palatinato; et per quanto si scuopre ne <lb/>
+haverà la cura il signor principe Henrico, et già par che <lb/>
+alcuni riportino, che ’l marchese Spinola habbi a far doi <lb/>
+corpi di armata uno per resister ai principi per prender <lb/>
+posto, et aprirsi addito sicuro per passar in Alemagna; et <lb/>
+l’altro per non lasciar passar innanti li detti Inglesi, et far
+<pb n="267r" facs="09_267r" rend="0"/>
+testa al principe Henrico. Questa è voce ch’è corsa fondata <lb/>
+parmi sopra l’imaginatione di quello potesse fare il Marchese; <lb/>
+non in realtà d’avviso; considerando alcuni, che ben <lb/>
+haverà che far il Marchese ad aprirsi il passo (andando <lb/>
+in Alemagna) anco con tutte le sue genti, se li principi <lb/>
+dell’Unione sono risoluti, come viene affermato di chiuderli <lb/>
+il passo. Si trovano ridotti con la loro armata a Oppenheim <lb/>
+pensavano nel sito più avantaggioso far un ponte per <lb/>
+passar il Reheno, ma riferisce il signor Arsen che havevano <lb/>
+mancamento di strumenti proprii, come ancore, et altro <lb/>
+per mantener fermo il ponte. </p>
+<p>Sua Eccellenza si troverà in campagna con doi milla cavalli, et da <lb/>
+quindecimilla fanti tutta genti sperimentate<ptr target="#tn3" n="3"/>, sendo rette <lb/>
+per la maggior parte, et quasi tutte da vecchi Capitani, et <lb/>
+officiali, ch’è il gusto, che ha l’Eccellenza sua; et non potrei dirle <lb/>
+con quanto contento tutti dal maggior fino al minore habbino <lb/>
+sentita questa mossa sarà<ptr target="#tn4" n="4"/> hormai di star in guarnigione <lb/>
+solo spiace che non si vede ancor che l’occasione sia d’impiegarsi; <lb/>
+et sua Eccellenza in particolar mi disse, che tre modi si haveva di far del <lb/>
+bene all’Alemagna. Uno che l’armata dei signori Stati <lb/>
+facesse diversione; l’altro d’inviar soccorso; et il terzo <lb/>
+di muover le terre neutrali a far diversione. Per il <lb/>
+primo sarebbe romper assolutamente la tregua né si saprebbe <lb/>
+come decentemente poterlo fare; l’altro è possibile se ben <lb/>
+si resterebbe con minor forze nel Paese; ma non sarà se <lb/>
+non in caso, che lo Spinola passi avanti nel Palatinato <lb/>
+et per il terzo le difficoltà sono grandi perché il condur
+<pb n="267v" facs="09_267v" rend="0"/>
+popoli non soggetti ad una tal attione di diversione è impresa <lb/>
+assai scabrosa: et aggiunse sul luoco, et col tempo la <lb/>
+necessità ci apprenderà quello dovremo, o potremo fare. </p>
+<p>Con sua Eccellenza saranno otto deputati dei Stati Generali un[o]<ptr target="#tn5" n="5"/> <lb/>
+per Provincia eccetto di quella d’Holanda, che ve ne saranno <lb/>
+doi. Questi seguiteranno l’armata, ove ella anderà. <lb/>
+Avviseranno con sua Eccellenza, et occorrendo si manderà anco <lb/>
+qui per il Consiglio di Stato; che in tanto resta per consultar <lb/>
+colli signori Stati Generali, che si fermano in quest’Haya per <lb/>
+scorrer ai bisogni, che potessero esser da questa parte. </p>
+<p>Il detto Consiglio di Stato ha hieri spedite lettere per tutte<ptr target="#tn6" n="6"/> le <lb/>
+città di queste Provincie con ordine di far crida di campo <lb/>
+a fine che li vivandieri portino le provisioni per l’abondanza <lb/>
+dell’armata uso accostumato da questa, con che la <lb/>
+soldatesca non ha bisogno di alcuna cosa. </p>
+<p>Di quello anderà succedendo, che venirà a mia notitia non <lb/>
+mancarò significarne ogni particolare alla Serenità vostra. </p>
+<p>Hora dandole riverente conto di mandarli con queste le replicate <lb/>
+delle mie lettere d’hoggi otto n° 229 fin 231 le aggiungo <lb/>
+anco di haver ricevute tre mani di sue lettere doi dei <lb/>
+disdotto del passato toccante il successo alla casa, et genti <lb/>
+dell’ambasciator di Spagna, et intorno a vassello del Rivera <lb/>
+non ho sentito parlare; et mi serviranno d’informatione <lb/>
+venendo il caso. Et la terza<ptr target="#tn7" n="7"/> è de’ 24 pur del passato. </p>
+<p>Nel proposito dei dodici vasselli non le dirò d’avantaggio <lb/>
+dello scritto perché ancor aspetto li conti. Et del Lorme[s]<ptr target="#tn8" n="8"/> <lb/>
+per li vasselli di corso starò aspettando l’operato dal Pasini
+<pb n="268r" facs="09_268r" rend="0"/>
+et ella haverà in tanto sentita la difficoltà, che<ptr target="#tn9" n="9"/> <lb/>
+s’incontrava a indur doi, o tre di quelli a venir a <lb/>
+trattar costì. </p>
+<p>Fornito il processo contra la persona del residente Stich dai <lb/>
+giudici di Amsterdam sendo prigione in quella città sopra <lb/>
+l’imputatione di batter moneta adulterata, et della <lb/>
+confessione della propria bocca della complicità, venerdì <lb/>
+fu sententiato a morte, et sabbato in pubblico gli fu <lb/>
+tronco il capo. Corsero li parenti per la gratia alli signori <lb/>
+Stati, et doi deputati di Cleves andonno dagl’ambasciatori <lb/>
+di Francia, et d’Inghilterra et venero a me ancora, perché <lb/>
+interponessi con loro l’auttorità publica; ma sendo il <lb/>
+caso della natura che era non ostante l’esser egli mi-<lb/>
+nistro del principe elettore di Brandemburgh niuno <lb/>
+si mosse, et io me ne escusai nella miglior maniera. Anco un mercante complice del medesimo delitto è <lb/>
+passato con la spada sotto la medesima mano. </p>
+<p>Le presenti saranno portate in Anversa dal medesimo corriero <lb/>
+ch’è stato spedito a me dall’eccellentissimo Contarini di Parigi <lb/>
+ove tornerà a drittura, et farò che resti sodisfatto <lb/>
+di quaranta scudi che li sopr’avanza dell’accordo <lb/>
+fatto, come mi ordina con sue lettere il medesimo eccellentissimo signore <lb/>
+et li metterò a conto publico. Gratie etc. </p>
+<p>Dall’Haya li 12 agosto 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="268v" facs="09_268v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="269r" facs="09_269r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="269v" facs="09_269v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 234 comincia 232 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="079">
+<!--
+<p n="269vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 agosto 1620 ricevute a’ 26 detto </p>
+<p>Secretario Surian dall’Haya <lb/>
+n° 234 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> There is a hole in the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears, is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "s’incontrano" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

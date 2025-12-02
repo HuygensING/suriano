@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.064 date 1619-12-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">064</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 342r-343v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">340r-341v, 342r-343v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters from 21 November. Reports that Carleton has shown him part of a letter from secretary of state encouraging Carleton to help to bring alliance between Venice and Dutch Republic to fruitition. He translated another part of the letter about Donato which had recently caused some friction between England and Venice. As Suriano has not been informed on the specifics of the matter, he steered the conversation onto a different matter after remarking that the king’s laws do not uphold in case of between sovereigns and not individuals. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-10">10 dicembre 1619</date>
+            <num>112, 113</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="112" corresp="113" source="340r-341v" >
+<div type="main" facs="main text of attachment I" n="112" corresp="113" >
+<!--<p>Allegato I al n. 113 (cc. 340r-341v; decodifica di cc. 342r-343v)</p>-->
+<pb n="340r" facs="08_340r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="340v" facs="08_340v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="341r" facs="08_341r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="341v" facs="08_341v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="113">
+<div type="main" facs="main text of letter" n="113">
+<!--<p>10 dicembre 1619, L’Aia (cc. 342r-343v)</p>-->
+<pb n="342r" facs="08_342r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 155 fin 157 </p>
+<p>Serenissimo Principe </p>
+<p>le lettere della Serenità vostra delli 21 del passato mi portaono la ricevuta <lb/>
+delle mie dei cinque hora starò attendendo <hi rend="decoded">la</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">sua prudente <lb/>
+rissolutione intorno il negotio dell’aleanza</hi> <lb/>
+consultandomi, ch’ella resti <lb/>
+sodisfatta del modo, che ho tenuto nell’essequir li suoi <lb/>
+commandamenti in che non mancarà già mai in me la volontà <lb/>
+di esser pontuale. </p>
+<p><hi rend="decoded">Quelli</hi><ptr target="#tn2" n="2"/><hi rend="decoded">, che interessati nel ben pubblico stimano male <lb/>
+et profittevole all’uno, et all’altro Stato la <lb/>
+perfettione di questa unione, vanno facendo il <lb/>
+conto del tempo alla risposta col desiderio; <lb/>
+tuttavia si rimettono anco alla ragione, <lb/>
+che come negotio grave merita anco esser <lb/>
+ben pesato, ma li medesimi non lasciano <lb/>
+dimostrar di temere vedendo, o sentendo massime <lb/>
+al presente, che la Serenità vostra con li travagli <lb/>
+di Alemagna possi esser se non del tutto al-<lb/>
+meno in gran parte libera da sospetti; ma <lb/>
+dall’altro conto considerano anco, che non <lb/>
+sarebbe passata tanto inanti per doversi poi retirare.</hi> Questi <lb/>
+sono concetti che corrono, che direttamente sentiti da me <lb/>
+non manco con parole generali però di attender la buona
+<pb n="342v" facs="08_342v" rend="0"/>
+volontà, che la Serenità vostra haverà sempre al publico bene, et al <lb/>
+servitio degl’uni, et gl’altri Stati. </p>
+<p>Il signor ambasciator d’Inghilterra con chi mi trovai venerdì passato mi communicò <lb/>
+un capitolo di lettere scritteli dal secretario di Stato, che rispondendo <lb/>
+a nome del Re alla notitia, che esso Ambasciatore haveva data <lb/>
+alla Maestà sua <hi rend="decoded">delli</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">capitoli trattatigli rappresenta il contento <lb/>
+grande, ch’ella haveva ricevuto, che andasse <lb/>
+così ben inanti la trattattione, et gli commette <lb/>
+di tono a</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">portar a suo nome tutti gli ufficii <lb/>
+che stimerà proprii, et necessarii perché resti <lb/>
+perfetta così buona spera.</hi> Io non mancai di <lb/>
+render gratie all’Ambasciator sudetto di quanto mi haveva commu-<lb/>
+nicato, et attestarle l’obligo, che haverà sempre la serenissima <lb/>
+Republica a sua Maestà dell’ultima volontà sua. </p>
+<p>Non lascierò anco di dirle a proposito della communicatione <lb/>
+di detto particolare, che d’avantaggio mostrando di farlo con <lb/>
+confidenza mi translato (legendo) dall’inglese nell’italiano <lb/>
+un altro capitolo nelle medesime lettere, che seguitava il primo <lb/>
+toccante la persona del Donato. Dice il secretario sudetto. La <lb/>
+nostra perfetta, et amorevol corrispondenza tra questa <lb/>
+Corona, et quella serenissima Republica ha havuto un poco <lb/>
+d’incontro per l’instanza fattaci di haver il Donato. <lb/>
+Si vede, che questi signori vogliono haver l’inviolabil osservanza <lb/>
+delle loro leggi; ma siamo sicuri, che non vorranno, che si
+<pb n="343r" facs="08_343r" rend="0"/>
+rompino le nostre. Tanto (come ho detto) mi tradusse. Et io <lb/>
+non essendo punto informato di quanto o passi, o sia seguito <lb/>
+in questo proposito, confirmandomi egli che erano leggi in <lb/>
+Inghilterra, che assicuravano le genti, che ricorrevano alla protettione <lb/>
+del Re in certi casi simili, risposi solo al signor Carleton, con <lb/>
+modesta maniera però, che poteva<ptr target="#tn5" n="5"/> ben esser che le leggi <lb/>
+abbracciassero casi tra particolari, et particolari, ma tra principe <lb/>
+et particolare che direttamente havesse data nota alla publica <lb/>
+riputazione non pareva a me che potessero sussister. </p>
+<p>Tacque l’Ambasciatore, et io tacqui entrando in altri discorsi. Gratie etc. </p>
+<p>Dall’Haya li 10 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="343v" facs="08_343v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 155 fin 157 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="113">
+<!--
+<p n="343vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 decembre 1619 ricevute a’ 26 detto </p>
+<p>Del segretario Suriano. n° 155 prima </p>
+<p>Accusa risposta di lettere de’ 21 novembre </p>
+<p>S’aspetta la risposta del negotio d’aleanza </p>
+<p>Communica l’ambasciator d’Inghilterra lettera del secretario maggior <lb/>
+che avisa ’l piacer del Re per l’imbastimento <lb/>
+della lega. Fa il secretario ufficio di ringratiamento </p>
+<p>Aggionge il medesimo Ambasciator che la confidenza <lb/>
+tra ’l Re et la Republica ha havuto un poco <lb/>
+d’incontro per la negativa di dar il Donato <lb/>
+l’escusa colle leze del Regno: </p>
+<p>risponde il secretario che le leggi sono tra <lb/>
+particolari, non tra principe e particolar <lb/>
+che diretamente dia nota alla Republica. </p>
+<p>L’Ambasciator non risponde altro. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "la … dell’alenaza aggiunto in sopralinea su testo cifrato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Quelli … retirare decodifica di testo cifrato presente a c. 340r; con segno di rimando."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "delli … buona spera decodifica di testo cifrato presente a c. 340r-v; con segno di rimando."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Aggiunta in sopralinea su ap- depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-v- corretta su -ss-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

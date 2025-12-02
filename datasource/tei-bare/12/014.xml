@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.014 date 1623-04-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 134r-135v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">132r-133v, 134r-135v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 24 March with news that the Spanish have handed control over Valtellina strongholds to the Pope. Acknowledges receipt of letters of exchange but awaits decision from France. Suggest France and Venice can influence the outcome of the truce negotiations, as the Dutch will unlikely agree as long as they can sustain themselves. Reports that Elizabeth Stuart humorously dismissed Spanish proposal to her father to get her to move to Brussels to better treatment. He describes her as courageous and spirited. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-10">10 aprile 1623</date>
+            <num>034, 035</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="034" corresp="035" source="132r-133v" >
+<div type="main" facs="main text of attachment I" n="034" corresp="035" >
+<!--<p>Allegato I al n. 35 (cc. 132r-133v; decodifica di c. 134r)</p>-->
+<pb n="132r" facs="12_132r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="132v" facs="12_132v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="133r" facs="12_133r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="133v" facs="12_133v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>10 aprile 1623, L’Aia (cc. 134r-135v)</p>-->
+<pb n="134r" facs="12_134r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 489 seguita 487 et <lb/>
+488 aggiunto a queste </p>
+<p>Serenissimo Principe </p>
+<p>havevo già chiuso il pacchetto, et stavo per inviarlo alla barca <lb/>
+mentre mi è sopravenuto il dispaccio de’ 24 del passato con le <lb/>
+lettere di vostra Serenità del medesimo giorno con quelle che mi significa <lb/>
+intorno all’assenso de’ Spagnuoli del deposito delle piazze di <lb/>
+Valtelina in mano del Pontefice et del successo doppo; intorno <lb/>
+a che essequirò la commissione, che mi viene ingionta da vostra Serenità <lb/>
+alla quale accuso anco la ricevuta delle lettere di<ptr target="#tn1" n="1"/> credito <lb/>
+che per hora non haverò di valermi per quello che le ho riverentemente <lb/>
+scritto, dovendo prima sentirsi le risolutioni, che in confor-<lb/>
+mità <hi rend="decoded">veniranno</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">di Francia.</hi> Delle copie delli avvisi, che <lb/>
+mi manda mi valerò per informatione, et per cavar quel <lb/>
+più che mi sarà possibile, come farò in particolare toccante <lb/>
+<hi rend="decoded">il negotio</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">di tregua di che sin qui le ho <lb/>
+humilmente scritto quanto ho potuto ritrarne <lb/>
+se questi signori haveranno, con che potersi <lb/>
+mantener sia certa vostra Serenità, che non veni-<lb/>
+ranno così facilmente ad assentir a’ trattati <lb/>
+con Spagnoli, la Francia può far assai, et <lb/>
+vostra Serenità non poco. <lb/>
+</hi></p>
+<p><hi rend="decoded">Devo aggiongere con queste ciò che ho inteso <lb/>
+haver detto questa Regina, parlandosi con <lb/>
+lei della propositione, che havevano</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">fatto <lb/>
+Spagnoli di far condur il re della Gran <lb/>
+Bertagna a far ch’ella andasse a star <lb/>
+a Brusselles, ove sarebbe trattata degnamente, <lb/>
+et conforme alla sua qualità, et meglio si <lb/>
+sarebbe trovata là, che tra questi grossieri <lb/>
+holandesi, et ribelli: disse ella se mio padre <lb/>
+mi scrive questo il ho la risposta pronta</hi> che è passato
+<pb n="134v" facs="12_134v" rend="0"/>
+il primo giorno di aprile. In questo dì si accostuma in Holanda <lb/>
+et nei Paesi Bassi mandar in più parti uno o con lettere <lb/>
+o con qualche messaggio, che infine non rileva che un <lb/>
+riso, et una burla tra le compagnie. Et aggiunse Non vi <lb/>
+anderei mai. <hi rend="decoded">È</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">questa Principessa coragiosa <lb/>
+et di spirito vivissimo. <lb/>
+</hi></p>
+<p>Supplirò al di più col dispaccio venturo in conformità dell’<lb/>
+obligo, et della riverenza verso la Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 10 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="135r" facs="12_135r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="135v" facs="12_135v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 489 seguita 487 et <lb/>
+488 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="135vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 aprile 1623. Ricevute 21 detto </p>
+<p>Haya. 3<hi rend="superscript">za</hi>. n° 489 </p>
+<p>Ha ricevuto le lettere de’ 24 del passato <lb/>
+con quelle di credito per il denaro, <lb/>
+del quale non havrà a valersi se prima <lb/>
+non vengono le risolutioni di Francia. </p>
+<p>Circa il proposito di tregua esequirà le <lb/>
+commissioni, et dice, che, havendo quei <lb/>
+signori con che potersi mantenere, <lb/>
+sia certa vostra Serenità, che non verranno <lb/>
+così facilmente ad assentir a trattati <lb/>
+co’ Spagnoli, soggiungendo, che la Francia <lb/>
+può far assai, e vostra Serenità non poco. </p>
+<p>Risposta<ptr target="#tn6" n="6"/> della Regina palatina al concetto di <lb/>
+sua andata ad habitare in <lb/>
+Brusseles, concludendo, che non vi <lb/>
+anderebbe mai. </p>
+<p>L. C. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "cambio" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "veniranno di Francia" added above the deleted encrypted text.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "il … risposta pronta" decoding of the encrypted text can be found on c. 132r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Corrected above "haveranno."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "È … vivissimo" added above the deleted encrypted text.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.101 date 1623-02-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">101</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 555r-556v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">553r-554v, 555r-556v, 557r-558v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letters by Rota have been brought by a gentleman in the entourage of Mansfelt sent to The Hague to get information about the decision of the French king One text attached: a letter by Filip Calandrini requesting a reward for his services</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-02-27">27 febbraio 1623</date>
+            <num>154, 155, 156</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="154" corresp="155" source="553r-554v" >
+<div type="main" facs="main text of attachment I" n="154" corresp="155" >
+<!--<p>Allegato I al n. 155 (cc. 553r-554v; decodifica di c. 555r-v)</p>-->
+<pb n="553r" facs="11_553r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 475 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="553v" facs="11_553v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="554r" facs="11_554r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="554v" facs="11_554v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="155">
+<div type="main" facs="main text of letter" n="155">
+<!--<p>27 febbraio 1623, L’Aia (cc. 555r-556v)</p>-->
+<pb n="555r" facs="11_555r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 475<ptr target="#tn1" n="1"/> comincia 474<ptr target="#tn2" n="2"/> </p>
+<p><hi rend="decoded">Serenissimo</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">Principe <lb/>
+</hi></p>
+<p><hi rend="decoded">quello che mi ha portate le lettere del Rota <lb/>
+è un gentilhuomo del conte di Mansfelt <lb/>
+inviato qui da lui per saper la risolutione <lb/>
+del Re christianissimo mentre col mezo del conte di <lb/>
+Levestein detto Ambasciator li haveva fatto sapere <lb/>
+che attendeva ogni dì qualche cosa per lui <lb/>
+per impiegarlo, et che o sarebbe in persona andato <lb/>
+a trovarlo, overo haverebbe mandato qualche <lb/>
+d’uno a lui. Hora ha cammunicato a <lb/>
+questo che attendeva doi gentilhuomini del <lb/>
+Re christianissimo, et di Savoia, che dovevano passar <lb/>
+a Mansfelt a nome di sua Maestà, et questo si <lb/>
+trattiene ancor qui, né forse partirà, che <lb/>
+prima non arrivino detti gentilhuomini. È <lb/>
+stato a vedermi, mi ha communicato questo <lb/>
+tanto; et io in un medesimo tempo ho ricevuto <lb/>
+doi lettere con piene instruttioni sopra questo <lb/>
+particolare che l’eccellentissimo signor ambasciator Pesaro mi <lb/>
+aggiunge anco qualche particolarità</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">intorno <lb/>
+al duca di <lb/>
+</hi></p>
+<pb n="555v" facs="11_555v" rend="0"/>
+<p><hi rend="decoded">Baviera, et attenderò il di più <lb/>
+che mi significa di dovermi mandare per tener-<lb/>
+mi instrutto; et di quanto sarà da me operato, <lb/>
+et scoperto non mancarò darne riverente conto <lb/>
+a vostra Serenità. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 27 febraro 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="556r" facs="11_556r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="556v" facs="11_556v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 475 comincia 474 </p>
+<p><hi rend="decoded">Sigillo e tracce di sigillo <lb/>
+</hi></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="155">
+<!--
+<p n="556vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 febraro 1623<ptr target="#tn5" n="5"/> ricevute 15 marzo 623<ptr target="#tn6" n="6"/> </p>
+<p>Haya. n° 475 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="156" corresp="155" source="557r-558v" >
+<div type="main" facs="main text of attachment II" n="156" corresp="155" >
+<!--<p>Allegato II al n. 155 (cc. 557r-558v)</p>-->
+<pb n="557r" facs="11_557r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Illustrissimo e eccellentissimo signor signor mio e patron colendissimo </p>
+<p>dalle dimostrattioni fattomi in colleggio nel pigliar mia <lb/>
+licenza di gratificattione de’ servitii fatti aspettavo che li <lb/>
+effetti corispondessero alle parole, essendo massime noto in <lb/>
+publico et a vostra Eccellenza in particolare dalle relattione del signor residente <lb/>
+Suriano li servitii fatti nelli sborsi di tutti li denari ocorsi <lb/>
+per le levate fatte, asistenza nel armamento delle 12 nave <lb/>
+con le Amiralità, et travagli hauti con le donne de’ <lb/>
+matelotti per la restitutione de’ lor mariti, diversi viaggi <lb/>
+a quest’effetto, et havendo visto la munificenza publica <lb/>
+in altri di minor merito, credevo di doverne anche io <lb/>
+sentir qualche effetto; patienza atribuendolo alla mia poca <lb/>
+sorte, partendomi di qua grandemente mortificato tanto più <lb/>
+che havendo portato lettere di credenza de’ signori Stati et del <lb/>
+signor principe d’Oranges, stato più volte in colleggio, venghi <lb/>
+anche trattato meno di quello è seguito a’ agenti del <lb/>
+conte di Mansfelt e marchese di Baden quali sono stati <lb/>
+reghalati di rinfrescamenti et di una colana d’oro per uno <lb/>
+me ne dispiacci non per l’importanza della casa che per rispetto <lb/>
+publico in veder la poca stima fatta, non ho potuto <lb/>
+di meno che dolermene con vostra Eccellenza preghando scusar la <lb/>
+libertà, et augurandoli da vostra nostro signore Iddio ogni felicità li <lb/>
+bacio humilmente le mani et resto per sempre </p>
+<p>di casa li 24 febraro 1622<ptr target="#tn7" n="7"/> </p>
+<p>di vostra Eccellenza </p>
+<p>humilissimo e divotissimo servitore </p>
+<p>Filippo Calandrini </p>
+<pb n="557v" facs="11_557v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="558r" facs="11_558r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="558v" facs="11_558v" rend="0"/>
+<p>A vostra Eccellenza </p>
+</div>
+<div type="secretarial" facs="secretarial text of attachment II" n="156" corresp="155" >
+<!--
+<p n="558vC">———</p>
+-->
+<head>secretarial text of attachment II</head>
+<p>24 febraro. Haya </p>
+<p>Lettera di Filippo Calandrini </p>
+<p>a …<ptr target="#tn8" n="8"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-75" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-7-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "S(erenissi)mo … Gratie etc." decoding of the encrypted text can be found on c. 553r.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Second "-i-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-3" corrected above "-2."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

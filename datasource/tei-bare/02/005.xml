@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.005 date 1616-07-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 98r-99v, 102r-103v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 364) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp258-269)
+            </note>
+            <biblScope unit="page">98r-99v, 102r-103v, 100r-101v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on his hour long conversation with Colonel Schomberg, quoting him extensively in cipher. Schomberg cautions Suriano against the Spanish and proposes that it would be good idea for Venice to unite itself with the princes of the Union, the Dutch Republic, and even the king of England to defend themselves against the Spanish. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Ilshofen</settlement>
+            <date when="1616-07-16">16 luglio 1616</date>
+            <num>032, 033</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="032">
+<div type="main" facs="main text of letter" n="032">
+<!--<p>16 luglio 1616, Hulzoven (cc. 98r-99v, 102r-103v)</p>-->
+<pb n="098r" facs="02_098r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il colonnello Sciombergh (col quale ho riverentemente accennato <lb/>
+nelle mie prime haver havuto ragionamento) nell’uscir <lb/>
+dalla visita della serenissima Principessa mi venne ad incon-<lb/>
+trare, et disse, che doppo ’l desinare si saressimo trovati <lb/>
+insieme perché voleva communicarmi qualche cosa <lb/>
+stimata da lui di non poco rilevo. Così fossimo insieme <lb/>
+per buon spatio d’hora, nel qual tempo mi disse, che <lb/>
+haveva inteso dal signor Principe ciò che gl’havevo con-<lb/>
+ferito, et veduto anco quanto gl’havevo fatto haver <lb/>
+in scritto toccante lo stato del negotio, la condotta <lb/>
+sua, et sopra che al presente pendi la controversia, <lb/>
+che tutto stava bene, et quanto alla ragione qui <lb/>
+ella era conosciuta per la serenissima Republica perché la dichia-<lb/>
+ratione sua fondava nell’honesto, né arciducali <lb/>
+potevano dolersi: ma, aggiunse, quanto a me dirò <lb/>
+liberamente il termine ufficioso, che usa la serenissima Republica <lb/>
+con li principi dell’Unione, et la dimostratione di confidenza <lb/>
+con loro nel farli communicar lo stato delle cose sue è <lb/>
+buono; ma questo non è tutto perché a muoverli vi vuole <lb/>
+più stretta pratica, et quando essi saranno espressa-<lb/>
+mente, et chiaramente<ptr target="#tn1" n="1"/> ricercati dalla Republica <lb/>
+ad operar con l’Imperatore lo faranno con vivezza, et il <lb/>
+mio Principe in particolare, ch’è inclinatissimo al veder
+<pb n="098v" facs="02_098v" rend="0"/>
+che sua Serenità sia libera da travagli, et desidera la tranquilità <lb/>
+di quello Stato lo farà, et per l’auttorità che tiene con gl’altri <lb/>
+principi dell’Unione sarà il nervo principale per sostentar <lb/>
+tutto il corpo, et portar gl’affari unitamente secondo, che <lb/>
+sarà necessario, et porterà l’occasione. Et io rispuosi che questi <lb/>
+principi potevano bene trovar l’opportunità di operar <lb/>
+né era necessario alla Republica raccordar questo alla loro <lb/>
+prudenza, né eccitar la loro buona intentione mentre <lb/>
+conoscono la ragione esser dal canto della serenissima Republica. <lb/>
+Disse poi bisogna ch’io a questo proposito dica più olt[re.] <lb/>
+Noi vediamo come passano le cose in Italia, come si <lb/>
+tratta con noi in questa provincia della Germania <lb/>
+quello che si tenti nei paesi di Giuliers, et che tutti<ptr target="#tn2" n="2"/> questi sono eccitamenti de’ Spagnuoli <hi rend="decoded">di</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">maniera che l’opponersi tutti a così fatti</hi><ptr target="#tn4" n="4"/> <hi rend="decoded"><lb/>
+pensieri sarà proprio della prudenza de’ principi <lb/>
+che ne sono interessati, quando fossero tutti <lb/>
+li prencipi dell’Unione con la serenissima Republica et li <lb/>
+stati di Olanda, et forse anco il re della <lb/>
+Gran Bertagna</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">tenuto da’ <lb/>
+Spagnuoli con una certa intelligenza di lega <lb/>
+o sia di buona corispon-</hi>
+<pb n="099r" facs="02_099r" rend="0"/>
+<hi rend="decoded">denza; ma tutto <lb/>
+però con obligo della commune diffesa <lb/>
+ognuno per la parte, che potrà, o con danari <lb/>
+o con genti colla diversione, o in altra <lb/>
+maniera, sarebbe un metter la briglia <lb/>
+allo Spagnolo, non per una volta, ma per <lb/>
+sempre, che non saprebbe come reggersi <lb/>
+onde per consequenza si fermarebbe un giorno <lb/>
+dal voler abbracciar il mondo tutto. <lb/>
+</hi></p>
+<p>A questo si deve haver l’occhio, <lb/>
+et pensar molto bene, il mio Principe vi pensa, et so <lb/>
+quello che ne dico; et quando la serenissima Republica vi po-<lb/>
+serà lo spirito troverà, che a fermar la quiete nel <lb/>
+suo stato, la pubblica tranquilità, et quella della pro-<lb/>
+vincia d’Italia, ch’è tanto desiderata da lei non si <lb/>
+vuol altro, né si ricerca altro mezo più potente <lb/>
+<hi rend="decoded">il</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">mio Prencipe è inclinatissimo a questa unione <lb/>
+et ognuno per la propria, et commune diffesa <lb/>
+vi può entrare perché qui non si tratta di <lb/>
+religione; si tratta di solo tener in freno <lb/>
+il re di Spagna, che tende alla monarchia <lb/>
+et così di concerto assicurar ognuno il proprio. <lb/>
+Noi intendemo</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">le pratiche fanno</hi>
+<pb n="099v" facs="02_099v" rend="0"/>
+<hi rend="decoded">quelli <lb/>
+della Lega cattolica vogliono, che noi cedemo <lb/>
+li beni, che già erano ecclesiastici sotto la ditione <lb/>
+del Papa; dall’altro canto Spagnuoli fanno <lb/>
+quanto possono coll’impossessarsi così</hi><ptr target="#tn8" n="8"/> <hi rend="decoded"><lb/>
+pian piano con li soliti artificiosi pretesti <lb/>
+de’ luochi in quello di Giuliers, et lo tentano <lb/>
+altrove; di maniera, che pur troppo è patente <lb/>
+la loro volontà di dominare da per tucto</hi>. <lb/>
+Io mostrando <lb/>
+di aggradire quanto<ptr target="#tn9" n="9"/> si era compiacciuto di signifi-<lb/>
+carmi gli dissi, che questi erano concetti, che merita-<lb/>
+vano in sé stessi gran consideratione, et di matura <lb/>
+deliberatione, et con parole generali lo lasciai impres[o] <lb/>
+dell’ottima mente di vostra Serenità nel desiderar la publica <lb/>
+tranquilità, et la propria della provincia d’Italia. <lb/>
+Uscì poi il medesimo a dirmi, che vedendosi, che <lb/>
+la casa d’Austria procuri di farsi<ptr target="#tn10" n="10"/> <hi rend="decoded">ereditario</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">l’Imperio, il che forse non succed</hi>[e-]<lb/>
+<hi rend="decoded">rà così facilmente perché intendendosi <lb/>
+il signor Prencipe molto bene con il marchese <lb/>
+di Brandemburg et con il duca <lb/>
+</hi>
+<pb n="102r" facs="02_102r" rend="0"/>
+<hi rend="decoded">di Sassonia <lb/>
+si farà ogni cosa perché non cadi la successio[ne] <lb/>
+in casa d’Austria, né si mi sarà, che sia dell[a] <lb/>
+religione, anzi si vuole che sia cattolico per que[i] <lb/>
+rispetti, che comporta la ragione di stato, et si[come] <lb/>
+Austriaci tutti concorono nel voler far riusci-<lb/>
+re re de’ Romani Ferdinando così</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">da <lb/>
+questi prencipi si sarebbe sentito altrimenti, <lb/>
+et procurato altro prencipe cattolico come sa-<lb/>
+rebbe a dire uno della casa di Baviera, <lb/>
+l’elettor di Colonia, che è della medesima o altro <lb/>
+che tutto ciò passava secretissimo et a me lo <lb/>
+diceva in confidenza; aggiongendo, che <lb/>
+vi era del pensiero assai per trovar modo <lb/>
+di riparar, et ostar ai contrarii. <lb/>
+</hi></p>
+<p>Io lo ringratiai di quanto mi haveva communicato <lb/>
+né ho voluto mancare di rappresentarlo alle Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Di Hulzoven a’ 16 luglio 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="102v" facs="02_102v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="103r" facs="02_103r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="103v" facs="02_103v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="032">
+<!--
+<p n="103vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 luglio 1616 ricevuta 2 agosto </p>
+<p>Segretario Suriano </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="033" corresp="032" source="100r-101v" >
+<div type="main" facs="main text of attachment I" n="033" corresp="032" >
+<!--<p>Allegato I al n. 32 (cc. 100r-101v; decodifica di cc. 98r-99v, 102r-103v)</p>-->
+<pb n="100r" facs="02_100r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="100v" facs="02_100v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="101r" facs="02_101r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="101v" facs="02_101v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "di … mondo tutto" decoding of the encrypted text can be found on c. 100r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "tenuto da’ Spagnuoli" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "il … da per tucto" decoding of the encrypted text can be found on c. 100r-v; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "era" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-s-" corrected above an other letter; followed by "hereditario" and the cipher "z8" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "ereditario … ostar ai contrarii" decoding of the encrypted text can be found on cc. 99v, 102r.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

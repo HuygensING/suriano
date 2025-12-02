@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.019 date 1616-09-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">019</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, fol 199r-201v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">198r-201v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on a conservation with Du Maurier who read a piece from a letter claiming that the Venetians will have free passage of the Grisons thanks to the actions of the French king. Rumours about involvement of the Poles in stirring subjects of Brandenburg to rebel. Maurice advices that Brandenburg cannot leave Cleves to go to Prussia. Ends the letter with news that Dutch ships have attacked Spanish and Portugese galleys nears the Molukken. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-09-20">20 settembre 1616</date>
+            <num>061</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>20 settembre 1616, L’Aia (cc. 198r-201v)</p>-->
+<pb n="198r" facs="02_198r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Cut page"/></p>
+<pb n="198v" facs="02_198v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="199r" facs="02_199r" rend="0"/>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il signor ambasciatore di Francia doppo havermi trattenuto con lungo discorso <lb/>
+sopra gl’affari di quel Regno mi disse, che si rallegrava <lb/>
+meco che finalmente si fosse aperto il passo in Grisoni per la serenissima <lb/>
+Republica per l’assistenza di sua Maestà. Io gli risposi, che per lettere <lb/>
+di Zurich de’ 27 del passato havevo ben inteso l’ordine dato <lb/>
+dal Re al signor Giffier; ma non mi portavano questa apertura<ptr target="#tn1" n="1"/> <lb/>
+anzi che tuttavia vi erano l’ordinarie difficoltà. Restò <lb/>
+l’Ambasciatore a questo rincontro; ma poi aggiunse et le <lb/>
+mie ultime lettere sono de’ x dello stante da Parigi <lb/>
+et pigliando una lettera doppo esser scorso un pezzo <lb/>
+con l’occhio mi lesse alcune parole, che contenevano l’ordi-<lb/>
+ne dato dal Re per l’<ptr target="#tn2" n="2"/>accomodamento delle <lb/>
+differenze del signor duca di Savoia, et per la libera apertura <lb/>
+del passo, et che questo era già successo a favor della serenissima <lb/>
+Republica. Io mi restrinsi, et mostrai di dar credito <lb/>
+all’avviso, che vorrei che fosse così in effetto per servitio <lb/>
+della Serenità vostra; ma le cose passate, et gl’accidenti presenti <lb/>
+che hanno il medesimo corso mi fanno temere. Né lasciai <lb/>
+di ringratiar esso Ambasciatore del gusto che diede segno <lb/>
+di haverne, et delli progressi di vostra Serenità contra arciduchi <lb/>
+et ognaltro sente qui contento di quanto va felicemente
+<pb n="199v" facs="02_199v" rend="0"/>
+seguendo a servitio di vostra Serenità nel Friuli, et nell’Istria, come per sua benign[ità] <lb/>
+me lo significa anco nelle lettere sue de primo dello stante <lb/>
+ricevute da me sabbato passato colla mia solita riverenza <lb/>
+et questi soldati ne godono grandemente per la consequenza <lb/>
+che ’l desiderio li fa fare, che la guerra vadi innanti sper[ando] <lb/>
+esser impiegati, et in particolar il signor conte Gio. Ernesto di Nassau <lb/>
+il qual si promette assai del buon essito della sua offerta <lb/>
+et aspetta con sommo desiderio, che mi capitino le <lb/>
+lettere, che doveranno esser qui con l’ordinario di sabb[ato] <lb/>
+facendo il conto, che servi la risposta alla sua prop[ositione.] </p>
+<p>Havendo il signor marchese elettore di Brandemburgh acce[ttato] <lb/>
+per buono l’avviso del signor principe Mauritio di non ven[ir] <lb/>
+qua ha inviato uno de’ suoi consiglieri a’ signori Stati per trattar <lb/>
+come dicono a parte sopra gl’affari di Galiens. Doi giorni <lb/>
+doppo ’l suo arrivo gli sopragionsero lettere di quell’Alt[ezza] <lb/>
+nelle quali gli dava conto d’esser stato avvisato che li <lb/>
+sudditi suoi nella Prussia si erano sollevati sotto p[…] <lb/>
+di religione sedotti dal cancelliere di quella Provincia, et fo[men-]<lb/>
+tati per quanto ha scoperto dal re di Polonia, esser <lb/>
+state intercette alcune lettere scritte d’Austriaci (così di <lb/>
+sua Altezza) dirette al medesimo re di Polonia, nelle quali
+<pb n="200r" facs="02_200r" rend="0"/>
+veniva eccitato a tener travagliato da quella parte <lb/>
+esso Elettore per divertir le provisioni nelli stati di <lb/>
+Cleves; che havendo inteso l’accidente<ptr target="#tn3" n="3"/> s’era risoluto <lb/>
+d’andar in posto ad acquetar il rumore, et partialmente <lb/>
+la vanità del pretesto, mentre a quelli della religione <lb/>
+catholica è permessa chiesa libera. Il Principe figlio che <lb/>
+si tiene a Cleves voleva seguitar il padre; ma il sudetto <lb/>
+consigliere è passato a disuaderlo per consiglio del signor principe <lb/>
+Mauritio, et essortarlo a non abandonar quella piazza. </p>
+<p>Intanto il residente ordinario di sua Altezza elettorale, che mi ha <lb/>
+conferito tutto ciò mi ha anco communicato <lb/>
+tener ordine di procurar, che siano pronti cinque-<lb/>
+cento huomini, et che aspetta solamente il preciso<ptr target="#tn4" n="4"/> <lb/>
+commandamento della maniera dell’armi, et del tempo <lb/>
+et dove haverà ad inviar le genti; ma però teneva <lb/>
+che si sarebbe accommodato il tutto. </p>
+<p>È venuto avviso, che alcune navi holandesi habbino <lb/>
+trattato molto male verso le Moluche<ptr target="#tn5" n="5"/> alcuni <lb/>
+galeoni spagnoli, et portughesi parte de’ quali <lb/>
+hanno gettati a fondo, parti si sono salvati colla <lb/>
+fuga, et tre in particolare sono restati preda de’ </p>
+<pb n="200v" facs="02_200v" rend="0"/>
+<p>Holandesi, nei quali han trovate molte ricche merci, et questi <lb/>
+han havuto perdita di soli quattro vasselli. La nuova <lb/>
+è stata portata da una picciola nave, che riferisce haver <lb/>
+lasciate nel posto di Sant’Helena l’altre. Se li è ispedito <lb/>
+incontro tre vasselli di guerra con velle, et altri apprestamenti <lb/>
+per quanto si dice. Et quelli di Amsterdam vivono contenti <lb/>
+di questa buona nuova. Gratie etc. </p>
+<p>Dall’Haya a’<ptr target="#tn6" n="6"/> 20 settembre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="201r" facs="02_201r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="201v" facs="02_201v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="201vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2[0]<ptr target="#tn7" n="7"/> settembre 1616 ricevute 5 ottobre </p>
+<p>Secretario Suriano dall’Haia </p>
+<p>2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "effettuatione" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-cc-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "pregisso" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out number.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

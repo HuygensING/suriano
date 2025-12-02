@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.012 date 1620-04-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 44r-49v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp219-238#fnn7
+            </note>
+            <biblScope unit="page">47r-49v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>reports he visited Du Maurier, who told him that that the French king had decided to send an embassy to Germany. A decision not yet known in the Dutch republic. Carleton informed him that three leading nobles, the clergy and some towns will contribute money to help the new King of Bohemia. James I is asking Denmark for a loan of a considerable sum to his son-in-law, others speculate that it is also to dissuade him from attacking the Hanseatic cities as this would prevent assistance to the Princes of the Union. General hope that Venice will assist the new King of Bohemia financially. Sterckenburgh tries to levy more troops but has little success. No news about the other 4 ships </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-14">14 aprile 1620</date>
+            <num>016</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="016">
+<div type="main" facs="main text of letter" n="016">
+<!--<p>14 aprile 1620, L’Aia (cc. 47r-49v)</p>-->
+<pb n="047r" facs="09_047r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 194 comincia <lb/>
+193 </p>
+<p>Serenissimo Principe </p>
+<p>sendo stato ultimamente a visita del signor ambasciator di Francia <lb/>
+mi communicò, che quello d’Inghilterra li haveva a nome <lb/>
+del suo Re rappresentato gl’ufficii, che ’l Christianissimo haveva <lb/>
+fatti far seco perché si<ptr target="#tn1" n="1"/> uni[ss]e<ptr target="#tn2" n="2"/> alla Maestà sua <lb/>
+per caminar di concerto al fine ch’ella haveva <lb/>
+inten[…]<ptr target="#tn3" n="3"/> ad accomodar la difficoltà, et dispareri <lb/>
+che sono in Alemagna; et che per tanto quella Maestà <lb/>
+era risoluta d’inviar sua<ptr target="#tn4" n="4"/> ambasciata ancora in Germania. </p>
+<p>Non è publica qui questa risolutione: tuttavia se chiara-<lb/>
+mente non ho cavato tutto ’l communicato all’Ambasciator <lb/>
+francese dal signor Carleton; almeno ho trovato tanto dalla <lb/>
+sua confidenza, che m’ha confermato che ’l Re suo signore, <lb/>
+ispedirà l’ambasciata, portando questo con termine <lb/>
+che parve, che fosse necessitato al farlo mentre <lb/>
+Francesi si muovevano ad una tal funtione, et <lb/>
+che la prudenza del Re non permetteva, che <lb/>
+in un trattato, che le può toccar più a lui per il <lb/>
+sangue, che a’ Francesi per il<ptr target="#tn5" n="5"/> loro<ptr target="#tn6" n="6"/> parentato, che <lb/>
+stasse a vedere. Et qualcheduno che ha pur<ptr target="#tn7" n="7"/> notitia <lb/>
+di questa risolutione del re della Gran Bertagna <lb/>
+lauda il pensiero, ma che debba far seguitar <lb/>
+anco l’armi, come fanno li Francesi. </p>
+<p>Il detto signor Carleton m’ha confermato quello che già
+<pb n="047v" facs="09_047v" rend="0"/>
+deve esser noto alla Serenità vostra per mano dell’eccellentissimo signor ambasciator <lb/>
+Lando che tre signori principali del Regno, il clero, alcune <lb/>
+città sono per contribuir aiuti di denari al nuovo re <lb/>
+di Bohemia, di che ne ha notitia il Re, et sotto mano <lb/>
+eccita, et sprona al farlo: tuttavia qui questa riser-<lb/>
+vatezza non piace. </p>
+<p>Dirò anco di più, et servirà più tosto per incontro, che se sarà <lb/>
+vero le sarà stato scritto, che uno di questi signori mi ha <lb/>
+detto, che la maestà d’Inghilterra ispedisca in Danimarca <lb/>
+per haver un imprestido da quella Maestà di una <lb/>
+buona summa di denaro per soccorrer al genero o alli principi<ptr target="#tn8" n="8"/>, <lb/>
+volendo fuggir lo scoglio di ridur il Parlamento. <lb/>
+Et alcuni aggiungono qui, che mandi anco per <lb/>
+divertir qualche pensieri del detto re di Danimarca <lb/>
+di attaccar in qualche delle città ansiatiche, non <lb/>
+parendo bene che siano travagliate, et si levi il <lb/>
+modo ad esse colli presenti motivi causati dal duca <lb/>
+di Lunemburgh di ritirarsi dalla risolutione, ch’era <lb/>
+come presa di assister di tre, o quattro mille fanti ai <lb/>
+principi dell’Unione. Al qual effetto oltre la <lb/>
+commissione, che li Stati hanno data al loro agenti <lb/>
+in quelle parti, si risolvono anco di mandar altri <lb/>
+commissarii per veder di accommodar quelle differenze. </p>
+<pb n="048r" facs="09_048r" rend="0"/>
+<p>Questi accidenti turbano gl’animi, che sono però <lb/>
+dall’altra parte consolati dalla confermatione delle rotte, <lb/>
+et recenti vittorie che ’l principe d’Hanalt ha<ptr target="#tn9" n="9"/> date, <lb/>
+et ottenute sopra il campo imperiale. Scrivono <lb/>
+di là tutto passar bene; ma che ancor passerebbe il <lb/>
+[…]esto<ptr target="#tn10" n="10"/> meglio se vi fossero denari. Et chiamano questi <lb/>
+da tutte le parti. Qui pare di far assai; et l’universale <lb/>
+che vuole in ogni modo, che vostra Serenità somministri sotto <lb/>
+mano al nuovo Re buona summa di denario, lauda <lb/>
+la prudenza di quella serenissima Republica di che resta fissa <lb/>
+l’impressione. Et io taccio, et lascio, che ognuno si <lb/>
+pasca di questo tanto. </p>
+<p>Sterchemburgh non cessa di solecitar la sua levata per li principi <lb/>
+dell’Unione, spera di far qualche cosa, et va cercando <lb/>
+l’hore opportune per tirar il signor principe Mauritio dalla <lb/>
+sua; ma dura fatica estrema. Porta innanti l’<lb/>
+haversi impegnato nella speranza, l’esser con questa <lb/>
+già corso a dar denari fuori, che<ptr target="#tn11" n="11"/> un capitano haveva <lb/>
+già sopra le spalle una compagnia di trecento teste, <lb/>
+potrebbe per quanto intendo<ptr target="#tn12" n="12"/> sortir per questa a buon <lb/>
+fine, et se così è sotto a 300 può esser che arriverà <lb/>
+al migliaro: tanto più che li soldati sono in paese<ptr target="#tn13" n="13"/> <lb/>
+di Cleves, et Giuliers<ptr target="#tn14" n="14"/>. Il fine del signor principe Mauritio
+<pb n="048v" facs="09_048v" rend="0"/>
+è di non privarsi delle genti; ma haver sempre ove poter <lb/>
+dar di mano in ogni evento. </p>
+<p>Resto ancor senza<ptr target="#tn15" n="15"/> nuove delli 4 restanti vasselli, <lb/>
+il vento continua contrario; et questa bisogna che sia <lb/>
+la causa quando non vi sia altro accidente di quello <lb/>
+che haveranno<ptr target="#tn16" n="16"/> inteso<ptr target="#tn17" n="17"/> l’Eccellenze vostre nelle lettere che [m]i<ptr target="#tn18" n="18"/> furono <lb/>
+scritte dalli signori dell’amiralità di Norholandia, che <lb/>
+inviai colle mie 192 che mando replicate. Intanto <lb/>
+per pagar resti de’ noleggi, et denari per matelotti ho <lb/>
+fatte lettere al Calandrini, et compagni di quindeci <lb/>
+milla ducati, et queste sotto li 12 dello stante a mezo <lb/>
+uso dirette al magnifico Melchior<ptr target="#tn19" n="19"/> Noirott. Gratie etc. </p>
+<p>Dall’Haya li 14 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="049r" facs="09_049r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="049v" facs="09_049v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 194 comincia 193 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="016">
+<!--
+<p n="049vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 aprile 1620 ricevute li 29 detto </p>
+<p>Haya. n° 194 </p>
+<p>L. C. X. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Ink stain.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ink stain.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the deleted word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "o … principi aggiunto" above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "h-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-ese" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "G-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "non" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-a(n)no" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the deleted word.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> There is a hole in the page.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

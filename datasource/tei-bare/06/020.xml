@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.020 date 1618-04-30</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 119r-124v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                The dispute between the English and the Dutch was the English occupation of the islands of Polaroon and Rosengin. The Dutch attacked with three ships, but on finding the defenses too strong they retired. Soon after, in January, 1617, they seized the English Company’s ship, Swan, and in March following the Dutch obtained the defence by bribing the crew.
+            </note>
+            <biblScope unit="page">119r-124v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports further delay to ships leaving due to the bad weather, but weather is now improving. Two days ago he travelled to Rotterdam to see whether the provisions could be transported on three ships on the Meuse. Due to the bad weather they had not yet prepared the ships, Luz will remain in Rotterdam to oversee the matter. He is preparing to travel to Amsterdam to seal the deal, from where he will travel to Texel. Reports that he has again written to Admiralty in Enkhuizen to prevent the agent of Duke of Osuna from buying or renting any ships. French want Duke of Guise to lead expedition against corsairs. No futher reports from Brussels confirming levies of troops for Naples, rumours of encounter between Dutch and Spanish in the indies, but also of a confrontation between the English and Dutch in Moluccas. There is further disagreement about herring and whaling between the two nations. The Bishop of Oranges, without the approval of the Pope, has arrived to settle religious matters with the prince. Carleton has received license to go to London for a while for medical reasons. Three ambassadors will be sent to Denmark. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-04-30">30 aprile 1618</date>
+            <num>035</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="035">
+<div type="main" facs="main text of letter" n="035">
+<!--<p>30 aprile 1618, L’Aia (cc. 119r-124v)</p>-->
+<pb n="119r" facs="06_119r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 30 sola </p>
+<p>Serenissimo Principe </p>
+<p>non tengo questa settimana lettera della Serenità vostra, et presu-<lb/>
+pongo, che li giorni santi nelli quali ad altro si attende <lb/>
+habbino ciò causato. Io hoggi otto scrissi a vostra Serenità <lb/>
+che speravo, che alla fine della presente settimana tutte le <lb/>
+navi già dovessero esser all’ordine, et alla vela in mare; ma come nel principio li<ptr target="#tn1" n="1"/> giacci interdissero<ptr target="#tn2" n="2"/> <lb/>
+il calafatar dei vasselli; doppo dalle acque magre <lb/>
+sono stati impediti per<ptr target="#tn3" n="3"/> passar le secche; così tutti <lb/>
+questi giorni sono stati venti crudelissimi, et piog-<lb/>
+gie continuate, le quali hanno causato, che non si <lb/>
+sono potute caricar le provisioni de’ viveri, le mu-<lb/>
+nitioni, le artiglierie, et altro. Par che l’aria <lb/>
+aridi a’ Spagnuoli, et vadi facendo corso alla mia <lb/>
+poco buona fortuna; ma lodato Iddio il tempo <lb/>
+si è pur rimesso da hieri a sera in qua al buono. <lb/>
+Avanti hieri andai in diligenza a Roterdam per veder <lb/>
+pure se fosse possibile, che s’imbarcassero le provisioni <lb/>
+in quelle tre navi, che sono nella Mosa. Fui sopra <lb/>
+ognuna di esse, andai visitando quello che più
+<pb n="119v" facs="06_119v" rend="0"/>
+vi mancava, trovai, che ’l più era il biscotto, che li <lb/>
+capitani dei vasselli mi hanno detto non haver potuto <lb/>
+né osato imbarcare per le continue pioggie; perché <lb/>
+se per caso una parte di questo si fosse bagnata <lb/>
+sarebbe stato il metter a rischio per mandar a <lb/>
+male tutto il resto; pregandomi, ch’io havessi <lb/>
+patienza, perché non poteva mai il tempo star <lb/>
+così continuato in questa stagione. Come ho riverentemente <lb/>
+detto par che ’l tempo vogli fermarsi al buono, et per <lb/>
+tanto si anderà caricando, et hieri lasciai a bordo <lb/>
+de’ vasselli robbe, che si caricavano non ostante la <lb/>
+giornata della domenica, et questa mattina una <lb/>
+delle navi doveva prender il carico della soldatesca <lb/>
+la quale hoggi quarto giorno si trova in un <lb/>
+piccolo vassello nella detta riviera. </p>
+<p>Tornai hiersera all’Haya per far il presente dispaccio <lb/>
+a vostra Serenità, et ho lasciato a Roterdam<ptr target="#tn4" n="4"/> Antonio <lb/>
+Luz perché soleciti, né parti di là che non vegga <lb/>
+le cose ridotte in stato d’ispeditione et per mercordì
+<pb n="120r" facs="06_120r" rend="0"/>
+prossimo mi hanno promesso che faranno tutto lo sforzo <lb/>
+perché tutto sia pronto, et saranno imbarcati nelle <lb/>
+altre doi navi centocinquanta fanti, et si farà <lb/>
+in quello stesso giorno la revista delle genti per <lb/>
+far poiché sortino nel medesimo tempo se ’l vento <lb/>
+sarà buono fuori della detta riviera. </p>
+<p>Mi preparo per passare in Amsterdam, ove sono chiamato <lb/>
+per dover con quei signori accordar tutte le cose; et di quelle in particolare, che trovano haver in sé qualche <lb/>
+difficoltà, che però non specificano prego Iddio che <lb/>
+mi aiuti. Di là anderò in Tessel, per riveder pure <lb/>
+quei nuovi vasselli, le genti di essi, et<ptr target="#tn5" n="5"/> il resto <lb/>
+delle militie, et di tutte darò parte alla Serenità vostra <lb/>
+che piaccia a Dio benedetto, che vagli<ptr target="#tn6" n="6"/> ad <lb/>
+apportarle<ptr target="#tn7" n="7"/> maggior gusto, che forse non faranno <lb/>
+le presenti. Quello, che mi consola è che almeno <lb/>
+vostra Serenità haverà il rinforzo alla sua armata <lb/>
+delle navi<ptr target="#tn8" n="8"/> d’Inghilterra, et seguiteranno poi queste <lb/>
+coll’aiuto di sua divina Maestà. </p>
+<pb n="120v" facs="06_120v" rend="0"/>
+<p>Ho avviso, che l’Alagambe è stato in Encusen hieri otto <lb/>
+ma che è partito senza sapersi che habbi noleggiato <lb/>
+né comprò alcun vassello; né meno che habbi <lb/>
+lasciato alcun ordine per tal effetto. A quei signori dell’<lb/>
+Amiralità ho rescritto, et ispedito con qualche diligenza <lb/>
+che mirino bene perché costui non haverà fatto il viag-<lb/>
+gio per niente. Non ho havuta altra risposta, ma <lb/>
+mi prometto, che haveranno pensiero, che non succedi <lb/>
+alcuna cosa in deservitio di vostra Serenità come sono assicu-<lb/>
+rato dalla parte di Amsterdam per lettere arrivate <lb/>
+hieri, che la si sarebbono dati buoni ordini perché <lb/>
+non fosse fatta alcuna cosa a profitto de’ Spagnoli, o <lb/>
+del viceré di Napoli, né che lascieranno che <lb/>
+comprino, o affittino alcune navi, et che sopra <lb/>
+di ciò debba riposarmi, et assicurarmi. Io non <lb/>
+lascierò però di tenir viva questa attestatione <lb/>
+di buona volontà. </p>
+<p>Quelli che partirono la settimana passata verso Amsterdam <lb/>
+per comprar vasselli, come riverentemente scrissi, funno alcuni </p>
+<pb n="121r" facs="06_121r" rend="0"/>
+<p>Francesi venuti qui con un cavallier di Malta pur <lb/>
+francese ispedito dal signor duca di Guisa per il quale <lb/>
+venerdì fece instanza l’ambasciator di sua Maestà christianissima <lb/>
+affine ché fosse dai signori Stati Generali permessa questa <lb/>
+compreda. Ma la sostanza della sua audienza fu <lb/>
+per indur questi signori con ufficio proprio a contentarsi, <lb/>
+che ’l duca di Guisa, come amiraglio destinato ad andar <lb/>
+per Francia contra corsari, dovesse commandar anco <lb/>
+alli vasselli di questi paesi, a che non si vede mi-<lb/>
+nima inclinatione di assentire, ancor non ha havuta <lb/>
+l’Ambasciatore la negativa, ma tiensi per fermo, che <lb/>
+l’haverà. Il detto Cavalliere ha ordine dal signor <lb/>
+duca di Guisa di comprar quattro buoni vasselli <lb/>
+armarli, et ben provisionarli: ma sono assicurato <lb/>
+da alcuni di questi signori, che<ptr target="#tn9" n="9"/> si vorrà esser certi <lb/>
+che detti vasselli habbino certo ad esser impiegati <lb/>
+conforme all’instanza contra corsari. </p>
+<p>Ho niuna confermatione di Brusseles che della levata <lb/>
+de’ Valoni per Napoli non se ne vedeva ancor segno
+<pb n="121v" facs="06_121v" rend="0"/>
+et veniva detto, che se il duca di Ossuna havesse voluto <lb/>
+che si facesse haverebbe bisognato, che mandasse de’ denari <lb/>
+per farla, mantenerla, et condurla; et per non haver <lb/>
+ispediti li recapiti necessarii si era restato di essequire; ma <lb/>
+che ancor si attendevano ordini di Spagna in questo <lb/>
+proposito, et poteva esser che fosse andata in fumo <lb/>
+sarebbe assai se così fosse. </p>
+<p>Sono venuti avvisi che sei delle navi di questo Paese habbino <lb/>
+nell’Indie combatuto alla gagliarda con 18 vele <lb/>
+in galeoni, galere, et fregate. Doi delle navi olandesi <lb/>
+sono state gettate a fondo, et una terza conoscendo <lb/>
+essergli impossibile lo scapare si attaccò con uno dei <lb/>
+galeoni, et dato fuoco alla polvere andò in <lb/>
+aria con esso. </p>
+<p>Dicono che le dette sei navi havevano sopra un ricco <lb/>
+bottino di seta in particolare et parte ne era sopra le <lb/>
+dette tre navi andate di male, che quello ch’è stato <lb/>
+di buono è che si sono salvati da un millione <lb/>
+et seicento milla fiorini. Gl’Holandesi hanno
+<pb n="122r" facs="06_122r" rend="0"/>
+persi circa trecento huomini, et Spagnoli intorno mille <lb/>
+tanto portano le lettere. </p>
+<p>Le navi di qua hanno parimente rancontrato con Inglesi <lb/>
+che pretendendo di traficar nelle Malucche con due <lb/>
+navi sono state attaccate, et prese l’una un giorno <lb/>
+doppo l’altro. Et questi signori stano attendendo quello <lb/>
+che ne diranno Inglesi, tenendo per fermo che <lb/>
+da loro sarà sentito male; et aggiunta questo <lb/>
+alli altri disgusti, che riceve l’una, et l’altra <lb/>
+Natione per la pesca delle aringhe, et delle balene <lb/>
+farà crescer anco maggiormente la poca buona <lb/>
+volontà, et forse il desiderio<ptr target="#tn10" n="10"/> negli Inglesi <lb/>
+di volersi rifare con discapito della reciproca <lb/>
+amicitia tra la corona della Gran Bretagna, <lb/>
+et queste Provincie. </p>
+<p>Del capitano Quast s’intende, che habbi havuta, che trava-<lb/>
+gliar assai con corsaro, che haveva una nave <lb/>
+con 140 huomini. Doppo qualche difesa l’ha <lb/>
+vinto. Quaranta sono restati morti sopra la nave
+<pb n="122v" facs="06_122v" rend="0"/>
+ottanta ne ha gettati in mare, et<ptr target="#tn11" n="11"/> vinti che erano Spagnoli <lb/>
+in virtù delle capitolationi ha liberati, et messi in terra <lb/>
+et esso Quast doverà esser ben presto qui ispettandosi <lb/>
+di giorno in giorno. </p>
+<p>Si vano alestendo, et già sono quasi del tutto ad ordine <lb/>
+le navi da guerra di questi signori per andar contra corsari <lb/>
+et la medesima causa, et impedimento, che ha trattenuto <lb/>
+il preparar di quelle di vostra Serenità; ha anco trattenuto <lb/>
+quello di queste onde credo, che servirà il tempo <lb/>
+perché escano unitamente, se bene haverà ordine <lb/>
+l’Amiraglio uscito ch’egli sia di proseguire speditamente <lb/>
+il viaggio, come è mente della Serenità vostra. </p>
+<p>È arrivato in questo luoco il vescovo di Oranges venuto <lb/>
+a riconoscer questo signor Principe, et per stabilir le cose <lb/>
+toccanti alla catholica religione in quel Principato <lb/>
+nelle quali si promette il detto Vescovo, che non vi <lb/>
+sarà alcuna inovatione. È stato caramente accettato <lb/>
+dal signor Principe, lo accarezza, fu hiermattina a <lb/>
+desinar col’Eccellenza sua, et gli usa ogni buon trattamento. Il nontio
+<pb n="123r" facs="06_123r" rend="0"/>
+in Brusseles ha intesa mal volentieri la sua venuta in <lb/>
+questa parte, dice il detto Vescovo, che vi è venuto <lb/>
+da sé senza participatione del Pontefice; può ben <lb/>
+esser che lo proferischi comportandolo così l’interesse <lb/>
+politico; ma viene tenuto per fermo, che o il nontio <lb/>
+in Francia, o il vice legato d’Avignone, ch’è al <lb/>
+confine gli habbi fatto capitar il placet. </p>
+<p>Questo signor ambasciator d’Inghilterra doppo haver lasciata partir la <lb/>
+moglie per Londra<ptr target="#tn12" n="12"/>, sono già quattro settimane passate, <lb/>
+ha havuto avviso, che ’l Re gli concederà licenza per <lb/>
+poter per qualche mese andar<ptr target="#tn13" n="13"/> a riveder le cose <lb/>
+della<ptr target="#tn14" n="14"/> sua casa. Me lo disse avanti hieri, che fui <lb/>
+seco; et disse particolarmente, che andava per consultar <lb/>
+con medici del Paese del governo per la sua salute trovandosi <lb/>
+ben spesso tormentato dalla gravella. Io non m’assicuro <lb/>
+che questo non sia pretesto forse per liberarsi un giorno <lb/>
+di qua per il disgusto, ch’egli hebbe per il libro <lb/>
+scritto contra di lui, sopra il quale non sono state <lb/>
+fatte se non apparenti dismostrationi. </p>
+<pb n="123v" facs="06_123v" rend="0"/>
+<p>È risoluta l’ambasciata per Danimarca per levar dall’<lb/>
+animo di quel Re l’impressione ch’egli ha di far pagar <lb/>
+gabella alle mercantie, che di qua partiranno, et <lb/>
+passeranno per il Sent. Saranno tre ambasciatori <lb/>
+il conte di Colemburgh principalissimo signore di Gheldria, <lb/>
+et<ptr target="#tn15" n="15"/> doi pensionarii l’uno di Dordrechet, et l’altro <lb/>
+di Amsterdam. Li quali tutti si vanno mettendo ad ordine <lb/>
+per dover partire subito che da signori Stati haveranno <lb/>
+la loro commissione. A queste saranno aggiunte le<ptr target="#tn16" n="16"/> lettere replicate<ptr target="#tn17" n="17"/> d’hoggi otto <lb/>
+n° 28, et 29 ispedite a me di Anversa. Gratie etc. </p>
+<p>Dall’Haya all’ultimo di aprile 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="124r" facs="06_124r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="124v" facs="06_124v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 30 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="035">
+<!--
+<p n="124vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>30 aprile 1618 ricevuta a’ 16 maggio </p>
+<p>Haya sola n° 30 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "li vasselli" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line on "dal" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-le" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line on "quelle" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "20" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the deleted word with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line on "tornar" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue D depennata."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

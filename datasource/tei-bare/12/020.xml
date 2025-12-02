@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.020 date 1623-04-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 186r-189v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">184r-185v, 186r-189v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>From Cologne reports that the inhabitants are dissatisfied with James I after having learnt that he wants to surrender them to the Spanish. Baron of Anholt has taken Borchen and requested a large sum of the citizens to avoid sacking. From Emden news that 13000-14000 troops have gathered in Lower Saxony. Met with Du Maurier to discuss matters in Valtellina. Nothing more to report about a potential truce, the Spanish are making provisions for war. The French have promised 400.000 scudi to the States General. New warships are being prepared to go the Canary islands. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-04-24">24 aprile 1623</date>
+            <num>050, 051</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="050" corresp="051" source="184r-185v" >
+<div type="main" facs="main text of attachment I" n="050" corresp="051" >
+<!--<p>Allegato I al n. 51 (cc. 184r-185v; decodifica di cc. 186r, 187r-188v)</p>-->
+<pb n="184r" facs="12_184r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 495 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="184v" facs="12_184v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="185r" facs="12_185r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="185v" facs="12_185v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="051">
+<div type="main" facs="main text of letter" n="051">
+<!--<p>24 aprile 1623, L’Aia (cc. 186r-189v)</p>-->
+<pb n="186r" facs="12_186r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 495 comincia 494<ptr target="#tn1" n="1"/> fin 496 </p>
+<p>Serenissimo Principe </p>
+<p>l’istesso capitan Corbun scocese solecita appresso questi signori <lb/>
+oltre quello, che riverentemente ho significato nelle mie prime <lb/>
+<hi rend="decoded">perché</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">essi si interessino nella leva d’Inghilterra, et <lb/>
+Scotia, impiegando il loro nome, con offerta che <lb/>
+il collonello Grè farà</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">all’Eccellenze loro una promessa <lb/>
+in scritto di non haver a pretender alcun <lb/>
+pagamento da questa Republica, ma non si <lb/>
+vede, che siano ancor punto disposti a questo. <lb/>
+</hi></p>
+<p>Con le ultime lettere di Colonia si tiene avviso, che quelli di <lb/>
+Franchendal siano restati molto mal contenti della <lb/>
+necessità nella quale si scopriva voler il re della Gran <lb/>
+Bertagna indurli per soggettarsi in mano de’ Spagnoli sia in <lb/>
+forma di deposito, o di sequestro, et mostravano resis-<lb/>
+tenza ad acconsentire all’accordo fatto da quella Maestà <lb/>
+con li ministri della Maestà catholica, et della serenissima Infanta <lb/>
+né si scopriva, che fossero per adherir a questa risolutione <lb/>
+quando da una estrema necessità non fossero constretti. </p>
+<p>Il baron di Anolt quindeci<ptr target="#tn4" n="4"/> gorni sono o poco più, che <lb/>
+ha per forza presa nel vescovato di Paterborn una <lb/>
+città chiamata Borcon. Entratovi dentro ha incon-<lb/>
+tinente fatti impiccar sei soldati di quella guarnigione, <lb/>
+et sei dei borghesi sotto pretesto, che havessero voluto <lb/>
+contrastar alle sue forze; di più ha cominato al <lb/>
+resto delli habitanti il sacco quando non li diano <lb/>
+settanta milla raistaleri di ranzone; il che è stato <lb/>
+ispedito immediate per avviso, et consiglio all’arcivescovo
+<pb n="186v" facs="12_186v" rend="0"/>
+di Colonia loro signore pigliando<ptr target="#tn5" n="5"/> tempo alla risolutione, che <lb/>
+sarà in ogni modo necessaria trovandosi colle armi di Anolt <lb/>
+alla gola; et mi disse l’agente di quel Principe, che questa <lb/>
+dilatione non serviva che ad avanzar tempo, et in questo <lb/>
+veder di accordar con minor summa. </p>
+<p>Quelli che vengono dalla parte di Embdem, et d’altrove <lb/>
+in questi contorni portano, che li principi, et città della <lb/>
+Bassa Sassonia si trovano al presente con tredici in quattor -<lb/>
+dici milla combatenti; riferendo, che ognuno stava <lb/>
+con l’occhio, et orrecchio attento a quello di bene <lb/>
+che potesse portar la fortuna al miglior stato della <lb/>
+Germania, et alla conservatione della libertà in essa. </p>
+<p>Ancor del re di Danimarca non si sa quello che <lb/>
+assolutamente risolverà; ma se ne spera ogni bene, <lb/>
+tanto più per quello che già si dice da qualcheduno <lb/>
+che sia messa in contesa la coadiutoria del vescovato [di] <lb/>
+Osembruch al suo figliolo; et si tiene per fermo, che ne <lb/>
+vorrà haver l’effetto. </p>
+<p>A questo<ptr target="#tn6" n="6"/> signor ambasciator di Francia venne giovedì il sudetto secretario di <lb/>
+ritorno dalla corte christianissima, et io fui con l’Eccellenza sua il giorno <lb/>
+seguente, che mi disse non haver che avvisi generali, <lb/>
+che li doi gentilhuomini al partir del secretario non erano <lb/>
+ancor arrivati, ma che gli veniva scritto, che erano <lb/>
+attesi con gran devotione, et che in tanto sua Maestà si <lb/>
+mostrava risolutissima di passar avanti per la restitutione <lb/>
+della Valtelina, et del Paese a’ signori Grisoni. </p>
+<p>Et in conformità con le lettere che hier mattina venero <lb/>
+da quella corte si pubblicò, che monsieur di Diguieres
+<pb n="187r" facs="12_187r" rend="0"/>
+doveva andar un rendevous<ptr target="#tn7" n="7"/> che vuol dir piazza d’<lb/>
+arme per condursi verso il paese de’ Grisoni: nuova <lb/>
+che ha dato gusto all’universale, desiderandosi da <lb/>
+ognuno l’effetto della confederatione. </p>
+<p>Di trattato di tregua qui non si sente a dir altro, et par <lb/>
+che il rumore, et le voci si siano quasi del tutto <lb/>
+mortificate; all’incontro Spagnoli attendono alle pro-<lb/>
+visioni di guerra, et in Bolduch hanno ultimamente <lb/>
+introdotte diverse amunitioni in buona quantità. <lb/>
+Il che è seguito con una grandissima scorta d’infan-<lb/>
+teria, et cavallaria, et haveva dato una grandissima <lb/>
+alarma da questa parte, onde li signori Stati in <lb/>
+tutta diligenza ordinorono commissioni sufficienti <lb/>
+alla frontiera per ostar a quello che havesse <lb/>
+potuto attentar l’inimico. </p>
+<p>Non è apparenza, che le propositioni<ptr target="#tn8" n="8"/>, o più tosto intentioni <lb/>
+de’ Spagnuoli significate da me con precedenti lettere mie <lb/>
+possino haver luoco appresso la libertà<ptr target="#tn9" n="9"/>, et sovranità <lb/>
+che assolutamente si tiene propria da questi popoli; <lb/>
+et non ha dubio <hi rend="decoded">che ’l danno</hi><ptr target="#tn10" n="10"/><hi rend="decoded">, che si aspetta di Francia darà <lb/>
+maggior cuore, et maggior fomento a questa <lb/>
+parte di servar l’orecchio alle proposte <lb/>
+spagnole; l’ambasciator di sua Maestà christianissima fece <lb/>
+sabbato apertura alli stati nell’assemblea <lb/>
+della deliberatione del Re, di darli quattrocento <lb/>
+mille scudi, metà al presente, et metà <lb/>
+alla fine</hi>
+<pb n="187v" facs="12_187v" rend="0"/>
+<hi rend="decoded">dell’anno, et nell’esporre questo <lb/>
+tanto aggiunse, che sua Maestà voleva divertir <lb/>
+a questi signori la pena di destinarli</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">a <lb/>
+a</hi>* <hi rend="decoded">tal effetto ambasciata. Questo ultimo <lb/>
+ufficio non è stato in tutto per carità, ma <lb/>
+per divertir in effetto, che non siano <lb/>
+mandati quelli, che l’altra volta son <lb/>
+stati, che riuscirono tutti quattro di mal <lb/>
+gusto, alcuni come giudici nel caso del <lb/>
+già Bernvelt, altro per dipendenza, et <lb/>
+il quarto per esser troppo confidente <lb/>
+al cancellier Arsen, in disgracia della corte <lb/>
+et dei ministri di sua Maestà christianissima, et tanto <lb/>
+più che quelli della provincia di <lb/>
+Olanda havevano già eletti per loro parte <lb/>
+li doi dell’altra volta Bucorst, et Pavoni</hi> con non poco risentimento <lb/>
+dell’Ambasciator francese che ne diede conto alla corte, et <lb/>
+di tutti li Francesi. </p>
+<p>Si attende con studio al presente dalli amatori del ben publico di metter avanti il rispetto, et l’honore <lb/>
+che si deve portare alla corona di Francia con <lb/>
+rappresentar il bene, et l’utile che da quella <lb/>
+possono promettersi, et aspettar di sicuro queste <lb/>
+Provincie, et si spera di superar gl’affetti, et le <lb/>
+passioni contaminate; il che non riuscirà di <lb/>
+poco profito alli mercanti di San Malò, che <lb/>
+agitano qui contra quelli della Compagnia delle </p>
+<pb n="188r" facs="12_188r" rend="0"/>
+<p>Indie Orientali; alli quali è stato commesso dalli signori <lb/>
+Stati il far tutto quello che si può <lb/>
+per terminar la <lb/>
+contesa con detti mercanti che possi riuscir di ragio-<lb/>
+nevol sodisfattione, et contento a sua Maestà christianissima, <lb/>
+et agl’interessati medesimi. </p>
+<p>Gl’aministratori della Compagnia sudetta delle Orientali, <lb/>
+che resiedono in Zelanda partirono sabbato di qua <lb/>
+per Amsterdam a fine di trovarsi unitamente con quelli che <lb/>
+risiedono in quella città per condurli a contentarsi di dar <lb/>
+la sodisfattione che desiderano li compartecipi del voto <lb/>
+risolutivo, per poter accommodato questo<ptr target="#tn12" n="12"/> <lb/>
+negotio passar avanti a vantaggio, et profito del <lb/>
+Paese. </p>
+<p>Si vanno preparando qualche altre navi da guerra, che <lb/>
+uscite quelle, che al presente sono alla vela destinate <lb/>
+per l’impresa designata doppo qualche tempo do-<lb/>
+veranno seguitarle<ptr target="#tn13" n="13"/>. Dicono, che queste <hi rend="decoded">andaranno</hi><ptr target="#tn14" n="14"/> <hi rend="decoded">verso le isole delle Canarie, <lb/>
+che nel viaggio vedranno se possono incontrar <lb/>
+la flotta spagnola, che il Generale habbia <lb/>
+spaciate carte stampate per dispensarle <lb/>
+in quei paesi che potrano arrivare, ove <lb/>
+siano genti commandate da Spagnoli, promettendoli <lb/>
+sollievo, con libertà dalla tirranide de’ Spagnoli; <lb/>
+questo mi è stato detto da persona di qualità, <lb/>
+ma in ogni modo viene affer-</hi>
+<pb n="188v" facs="12_188v" rend="0"/>
+<hi rend="decoded">mato, che <lb/>
+siano per far un bel colpo.</hi> Gratie etc. </p>
+<p>Dall’Haya li 24 aprile 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="189r" facs="12_189r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="189v" facs="12_189v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 495 comincia <lb/>
+494 fin 496<ptr target="#tn15" n="15"/> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="051">
+<!--
+<p n="189vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 aprile 623<ptr target="#tn16" n="16"/>. Ricevute 20 maggio </p>
+<p>Haya. n° 495 2<hi rend="superscript">a</hi> </p>
+<p>Il Capitano scocese sollecita anco, perché gli <lb/>
+stati s’interessino nella leva d’Inghilterra, e <lb/>
+Scotia, impiegando il loro nome ma <lb/>
+non v’è dispositione di compiacimento. </p>
+<p>Quelli di Franchendal non adherirebbono <lb/>
+alla risolutione di soggettarli a’ Spagnoli <lb/>
+senza estrema necessità. </p>
+<p>Anolt ha presa la città di Dorcon <lb/>
+nel vescovato di Paterborn; et altri <lb/>
+avvisi. </p>
+<p>Il segretario dell’ambasciator di Francia gli ha <lb/>
+solo portato avvisi generali della riso-<lb/>
+lutione del Re per la restitutione di Valtellina. </p>
+<p>S’è publicato, che Digleres andava alla <lb/>
+piazza d’arme per condursi in Grisoni <lb/>
+nuova M(aes)tà ben sentita. </p>
+<p>Circa la tregua non si dice altro, <lb/>
+mortificatene le voci quasi del tutto <lb/>
+Spagnoli attendono alle provisioni della <lb/>
+guerra. </p>
+<p>Consideratione, che non vi sia apparenza <lb/>
+che le conditioni scritte possano haver <lb/>
+luogo. </p>
+<p>L’ambasciator di Francia ha detto in assemblea <lb/>
+la deliberatione del Re di dar loro 400 mila <lb/>
+scudi, metà al presente, et metà alla <lb/>
+fine dell’anno, soggiungendo in fine <lb/>
+che sua Maestà voleria divertir a questi signori <lb/>
+la pena di destinare a tal effetto<ptr target="#tn17" n="17"/> <lb/>
+ambasciata. </p>
+<p>Altri avvisi. </p>
+<p>Dissegno di allestir altre navi per <lb/>
+tirar verso le Canarie, per incontrar, <lb/>
+potendo la flotta et per far <lb/>
+in ogni modo bel colpo. </p>
+<p>L. C. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-4" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "perché … disposti a questo" decoding of the encrypted text can be found on c. 184r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the deleted word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> First "-i-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "li-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "’l danno … et Pavoni" decoding of the encrypted text can be found on c. 184r-v; with cross-reference sign.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "a’" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "questo" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "andaranno … un bel colpo" decoding of the encrypted text can be found on c. 184v; with cross-reference sign.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "4-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.007 date 1616-10-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 43r-44v, 51r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">43r-44v, 51r-v, 45r-46v, 47r-48v, 49r-50v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on his problems with Wassenhoven, who request payment before levying the troops, yet Suriano only wants to give him additional time to fulfill his obligations. From Brussels, he reports they are upset with progress the Venetian Republic is making and that Pompeo Giustianiani has left service of the Spanish. An Amsterdam merchant from whom John Ernst of Nassau has bought weapons has visited Suriano to request advance payment. In two notes attached to letter the cost of weapons and their transport to Venice. Three documents are attached: "Proroga al Wassonhoven, et sua obligatione"; "Memoria data d’un mercante d’Amsterdam" and "Dichiaratione del costo et transporto di armi"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-18">18 ottobre 1616</date>
+            <num>014, 015, 016, 017</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="014">
+<div type="main" facs="main text of letter" n="014">
+<!--<p>18 ottobre 1616, L’Aia (cc. 43r-44v, 51r-v)</p>-->
+<pb n="043r" facs="03_043r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il Wassonhoven tutti questi giorni è andato praticando alcuni <lb/>
+de’ signori Stati, et ha tentato haver la permissione della <lb/>
+sua levata, et la piazza d’arme. L’impressione che è <lb/>
+in ognuno, che ques’huomo non possa<ptr target="#tn1" n="1"/> far il servitio ha <lb/>
+causato, che questi signori siano andati pesati nel risolver <lb/>
+conforme alla sua instanza; et hieri inviorono <lb/>
+a me il loro secretario, che mi disse per nome di essi, <lb/>
+che desideravano sapere se io gl’haverei dati denari <lb/>
+per la levata, pagati li vasselli, contribuito alle spese <lb/>
+de’ viveri, et esborsato per un mese di paga. Io <lb/>
+risposi, che non havevo a far alcuna di queste cose <lb/>
+ma solo dar al Wassonhoven prorogatione di tempo <lb/>
+così commessomi da vostra Serenità perché possi far l’imbarco <lb/>
+et la condotta delle genti et che tanto haveva <lb/>
+ricercato, et di tanto s’era contentato. Restò il secretario <lb/>
+et disse, che haverebbe fatto raporto a’ suoi signori <lb/>
+perché potessero deliberar sopra il negotio et questa <lb/>
+mattina gli hanno fatto intender, che fatta la <lb/>
+provisione de’ vasselli, et de’ viveri, et perché<ptr target="#tn2" n="2"/> li <lb/>
+soldati siano trattenuti sino all’imbarco senza <lb/>
+pericolo che dannifichino il Paese, porti fede,
+<pb n="043v" facs="03_043v" rend="0"/>
+et assicuranza di tutto ciò, che allhora li permetteranno la <lb/>
+levata. Mi è venuto a dire, che partirà dimani, per <lb/>
+Amsterdam per essequir quanto è stato deliberato, et che <lb/>
+era pronto per far ogni cosa. Se lo fa supera <lb/>
+l’espettatione, et vostra Serenità haverà a riconoscerlo per <lb/>
+devotissimo, et desiderosissimo di servirla. Per il tempo, <lb/>
+che ha perso in questi giorni bisognerà<ptr target="#tn3" n="3"/>, che gli avanzi <lb/>
+qualche dì de più dell’accordato la passata<ptr target="#tn4" n="4"/> settimana <lb/>
+come riverentemente le scrissi. </p>
+<p>Vi è scritto di Brusseles, che là si porta con gran <lb/>
+vantaggio de’ Spagnuoli il seguito tra ’l signor duca <lb/>
+di Savoia, et il governator di Milano. Ne fanno alle-<lb/>
+grezza, et par che si promettino con questo il <lb/>
+progresso maggiore nel Piemonte a’ danni di sua Altezza. </p>
+<p>In tanto hanno fatto publicar dall’altra parte, <lb/>
+che l’accordo sia seguito, et che unita l’Altezza sua con <lb/>
+Spagnuoli voglino dar addosso a’ Bernesi; né si sa <lb/>
+intorno ciò comprender l’artificio reale. </p>
+<p>Restano pur a Brusseles mortificati li fautori <lb/>
+dalli progressi che la Serenità vostra va facendo con l’aiuto <lb/>
+di Dio sopra quello d’arciducali, né la possono
+<pb n="044r" facs="03_044r" rend="0"/>
+patire; et quanto più si può vano descrivendo le <lb/>
+forze di lei di poco rilevo, et publicano mille <lb/>
+vanità; et tra l’altre, che ’l signor Pompeo Giustiniano <lb/>
+col beneficio dell’oscuro della notte sia fuggito da <lb/>
+quel servitio, et ch’ella per dispetto habbi fatto <lb/>
+impiccar il figlio, et fatta far qualche altra essecutione <lb/>
+contro altri de’ suoi. </p>
+<p>Non si è potuto penetrare dell’abboccamento tra ’l signor principe <lb/>
+Mauritio, et il marchese d’ Hanspach, se non che <lb/>
+habbino discorso della maniera di assicurar le <lb/>
+pretensioni nello stabilimento dello stato di Cleves <lb/>
+et Giuliers nel marchese di Brandemburgh contra <lb/>
+quello, che ’l signor duca di Neoburgh ha procurato <lb/>
+di avanzar alla corte imperiale. </p>
+<p>Quel mercante da chi il signor conte Gio. Ernesto ha presi li <lb/>
+moschetti, corsaletti, et altre armi per servitio della <lb/>
+sua levata è venuto a dirmi, che quando vostra Serenità <lb/>
+volesse haver una provisione per armar cinque <lb/>
+in sei milla fanti overo genti da cavallo egli <lb/>
+la fornirebbe, et una parte se potrebbe mandar <lb/>
+con la commodità delle navi, che noleggiate<ptr target="#tn5" n="5"/>
+<pb n="044v" facs="03_044v" rend="0"/>
+al signor Conte. Ha messo per iscritto la pretensione sua <lb/>
+per cadauna arma secondo la qualità sua, et sarà <lb/>
+nell’aggiunta prima nota. </p>
+<p>Un altro pure si obliga di condur armi a tutte sue spese <lb/>
+fino a Venetia col prezzo, ch’ella vedrà pur dall’<lb/>
+aggiunta seconda nota: onde se la Serenità vostra haverà <lb/>
+bisogno di tal sorte d’armi potrà deliberare quello <lb/>
+che li tornerà commodo o al presente, o aspettar di <lb/>
+farne veder la forma, et la qualità all’arrivo <lb/>
+del signor conte Gioanni Ernesto<ptr target="#tn6" n="6"/>. </p>
+<p>Dalli 24 e 29 del passato<ptr target="#tn7" n="7"/> sono le lettere <lb/>
+della Serenità vostra ricevute da me coll’ordinaria rive-<lb/>
+renza mia. L’una et l’altre mi serviranno d’infor-<lb/>
+matione ne’ correnti affari tanto per quello, ch’è <lb/>
+seguito alla corte imperiale; quanto nell’Istria. Gratie etc. </p>
+<p>Dall’Haya a’ 18 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="051r" facs="03_051r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="051v" facs="03_051v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="014">
+<!--
+<p n="051vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 ottobre 1616 ricevute 9 novembre </p>
+<p>Secretario Suriano dall’Haya 2<hi rend="superscript">de</hi> </p>
+<p>Armi </p>
+<p>R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="015" corresp="014" source="45r-46v" >
+<div type="main" facs="main text of attachment I" n="015" corresp="014" >
+<!--<p>Allegato I al n. 14 (cc. 45r-46v)</p>-->
+<pb n="045r" facs="03_045r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Non havendo il signor Gio. Seghers de Wassonhoven potuto per diversi impedi-<lb/>
+menti sodisfar all’obligo che haveva di condur alla serenissima republica di Venetia <lb/>
+500 fanti et 200 cavalli per li 28 del mese agosto passato come nelle sue <lb/>
+patente et con le conditioni poste nella scrittura presentata da lui a sua Serenità fece <lb/>
+instanza al signor Christofforo Suriano secretarIo della detta serenissima Republica, residente ap-<lb/>
+presso li signori Stati Generali delle Provintie Unite de’ Paesi Bassi di haver proro-<lb/>
+gatione di tempo; onde il medesimo signor secretario scrittone a sua Serenità da lei gli <lb/>
+è stato commandato di conceder ad esso signor di Wassonhoven proroga per la <lb/>
+condotta di detta militia di questi paesi nello stato di lei di quel tempo <lb/>
+che stimerà proprio; doverà dunque il detto signor di Wassonhoven haver fatto <lb/>
+l’imbarco delle sue militie per tutti li 25 di novembre prossimo per doverle <lb/>
+inviar immediate et condurle nel serenissimo Dominio veneto fino a mezo il mese <lb/>
+di genaro prossimo; non dovendo la detta serenissima Republica per questa levata et <lb/>
+transporto restar obligata ad alcuna cosa, espressa nelle capitulationi accordati <lb/>
+con lui a’ 28 maggio passato quando non fusse dal canto del detto signor Was-<lb/>
+sonhoven sodisfatto, come è sudetto, il che promette egli di effetuare tanto <lb/>
+per l’imbarco quanto per il transporto delle genti nello Stato veneto, et per <lb/>
+confermatione di ciò le presenti saranno sottoscritte del detto signor secretario Suriano <lb/>
+e del medesimo signor di Wassonhoven. </p>
+<p>Data nell’Hayae a’ 20 ottobre 1616 </p>
+<p>Christofforo Suriano secretario della serenissima republica di Venetia </p>
+<p>Wassonhoven aferma ut supra
+<pb n="045v" facs="03_045v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="046r" facs="03_046r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="046v" facs="03_046v" rend="270"/>
+<p>i </p>
+<p>Proroga al Wassonhoven et sua <lb/>
+obligatione </p>
+<p>Nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="016" corresp="014" source="47r-48v" >
+<div type="main" facs="main text of attachment II" n="016" corresp="014" >
+<!--<p>Allegato II al n. 14 (cc. 47r-48v)</p>-->
+<pb n="047r" facs="03_047r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Memoria data d’un mercante d’Amsterdam </p>
+<p>Si offerisce di dar armi alla serenissima Republica se ella haverà bisogno <lb/>
+per armar cinque fin sei milla huomini da piedi tanto di <lb/>
+moschetti quanto di corsaleti piche et fornimento per esse 200 pezzi <lb/>
+d’arme de cavallaria armata di tutta pezza, et fina cinque <lb/>
+in sei cento armature da cavallaria liggiera, insieme con li <lb/>
+loro cardini e pistole il tutto secondo il modo et l’uso de’ <lb/>
+signori Stati. </p>
+<table>
+<row role="label">
+<cell><p>Un moschetto con la sua bandeliera e forchetta fiorini</p></cell>
+<cell><p>9 </p></cell>
+</row>
+<row>
+<cell><p>Un corsaletto celata scarsaloni, brazzali et picca</p></cell>
+<cell><p>9 </p></cell>
+</row>
+<row>
+<cell><p>Un’armatura da cavallo</p></cell>
+<cell><p>38 </p></cell>
+</row>
+<row>
+<cell><p>Un’armatura da carabino alla prova della pistola</p></cell>
+<cell><p>12 </p></cell>
+</row>
+<row>
+<cell><p>Un paio de’ pistole con la sua cassa</p></cell>
+<cell><p>26 </p></cell>
+</row>
+<row>
+<cell><p>Li carabini con la sua bandeliera</p></cell>
+<cell><p>10 </p></cell>
+</row>
+</table>
+<p>La condotta doverà esser pagata a spese della serenissima <lb/>
+Republica. </p>
+<pb n="047v" facs="03_047v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="048r" facs="03_048r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="048v" facs="03_048v" rend="270"/>
+<p>Nota prima di offerta d’armi </p>
+<p>Nelle seconde </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="017" corresp="014" source="49r-50v" >
+<div type="main" facs="main text of attachment III" n="017" corresp="014" >
+<!--<p>Allegato III al n. 14 (cc. 49r-50v)</p>-->
+<pb n="049r" facs="03_049r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Dichiaratione del costo et transporto di armi <lb/>
+per servitio della serenissima republica di Venetia </p>
+<table>
+<row role="label">
+<cell><p>Per ogni moschetto che porterà dieci bale per libra con la for-<lb/>
+chetta et bandaliera all’uso della soldatesca della guardia <lb/>
+del signor principe Mauritio costerà moneta di questo Paese</p></cell>
+<cell><p>fiorini 11 soldi 9 </p></cell>
+</row>
+<row>
+<cell><p>Un moschetto d’altra fatura che porterà dodeci bale per libra <lb/>
+costerà</p></cell>
+<cell><p>10, 5 </p></cell>
+</row>
+<row>
+<cell><p>L’armatura per un soldato pichiero negra costerà</p></cell>
+<cell><p>13 </p></cell>
+</row>
+<row>
+<cell><p>La biancha costerà</p></cell>
+<cell><p>15 </p></cell>
+</row>
+<row>
+<cell><p>Et l’ordinarie</p></cell>
+<cell><p>11 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
+<p>Et tutto offerisce quello che darà le dette armi portar col <lb/>
+detto pretio fino a Venetia o nello stato di sua Serenità. </p>
+<p>Il medesimo ha anco un vassello provisto d’ogni sorte di mu-<lb/>
+nitione capace di 200 lastri di portata, buono per la na-<lb/>
+vigatione, ben accommodato et appropriato potendo portar <lb/>
+sedeci over 18 pezzi <lb/>
+d’artiglieria e 14 pezzi di periera; <lb/>
+il qual vassello offerisce egli in servitio della serenissima Republica <lb/>
+per portar di qua et di là munitioni secondo che farà il <lb/>
+bisogno, et con esso farà il detto transporto aggradendo così <lb/>
+a sua Serenità. </p>
+<pb n="049v" facs="03_049v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="050r" facs="03_050r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="050v" facs="03_050v" rend="270"/>
+<p>Offerta d’armi <lb/>
+nota seconda<ptr target="#tn8" n="8"/> </p>
+<p>Nelle seconde </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "b-" corrected above "p-; -à" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "pass-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "no-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "Grazie etc". crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Dalli … passato" corrected above "Dall’Haya a’ 18 ottobre 1616."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "s-" corrected above "p-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

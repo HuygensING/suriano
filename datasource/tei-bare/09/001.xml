@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.001 date 1620-03-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 1r-3v, 6r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp189-201
+            </note>
+            <biblScope unit="page">1r-3v, 6r-v, 4r-5v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>As instructed, he will continue to draw letters of exchange. Reports latest news from returning ships dates from 21 January, 5 are stuck in Malaga and the delay is due to unfavourable winds. Thanks them for passing on information about a Venitian ecpedition against corsairs. Buwinckhausen is satisfied with motnhly subsidies from States General and will leave for England. The French ambassador has reassured him that the French king will not assist the emperor. Talk about reforming miltary companies, ranging from 100 to 150 men and preparations to strenghten fortifications. Admiralties have been instructed to watch potential sale or lease of material to the Spanish. From Brabant, news of large sums of money for Spinola’s army and talk that he may attack Jülich. Attached he sends a letter by William of Nassau-Siegen about his employment by Venice One text attached: a letter written by William of Nassau-Siegen to Suriano</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-03-03">3 marzo 1620</date>
+            <num>001, 002</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>3 marzo 1620, L’Aia (cc. 1r-3v, 6r-v)</p>-->
+<pb n="001r" facs="09_001r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 183 sola </p>
+<p>Serenissimo Principe </p>
+<p>perché la Serenità vostra trova meglio, ch’io continui a trarle a pagar <lb/>
+lettere di cambio per quello mi può bisognare per li pagamenti, <lb/>
+che doverò far per le navi seguiterò, come ho fatto per il passato <lb/>
+et essequirò li commandamenti di lei venutimi in lettere de’ 13 febraro, <lb/>
+et non mancarò di tirar tutto quel vantaggio, che potrò maggiore. </p>
+<p>Gl’ultimi avvisi, che si sono havuti delle navi sono de’ 21 <lb/>
+genaro, che erano a Malega con altre; non potendo passar <lb/>
+avanti rispetto alla contrarietà del vento; che continuando <lb/>
+da molte settimane in qua soffiar da Levante non è possi-<lb/>
+bile che possino spuntare a passar il distretto. Particolarmente <lb/>
+le navi di Cipro, et di Alessandria sono anc’elle nel porto di <lb/>
+Malega; ma non viene<ptr target="#tn1" n="1"/> scritto, che siano manco tutte <lb/>
+le sette navi; ma solo cinque, et delle doi altre che <lb/>
+si siano sbandate senza sapersene novella. Questo viene <lb/>
+scritto in particolare alli signori dell’amiralità di Amsterdam <lb/>
+da uno di quei capitani, che ha fatta tratta a’ detti signori del <lb/>
+valor di doicento reali da otto pigliati là per necessità <lb/>
+di qualche provisione. Parmi al presente, che ’l difetto <lb/>
+non nasca dalla malitia dei capitani, ma dalla fortuna <lb/>
+del vento, che s’altrimenti fosse non mancarei di trattarne <lb/>
+colle Amiralità. Ai deputati delle quali, che erano <lb/>
+qui, ho la settimana passata raccordato, et raccom-<lb/>
+mandato il<ptr target="#tn2" n="2"/> servitio della Serenità vostra in tutto ciò che <lb/>
+ho stimato proprio. </p>
+<pb n="001v" facs="09_001v" rend="0"/>
+<p>Ho veduto il capitolo di lettere scritte all’eccellentissimo signor ambasciator Lando <lb/>
+in Inghilterra. Mi valerà d’informatione, et tenirò anco <lb/>
+presso di me quello, che per sola mia informatione mi <lb/>
+scrive toccante la speditione fatta da vostra Serenità delli otto <lb/>
+vasselli per andar in busca de’ corsari. Se ben questa missione <lb/>
+in generale, è pubblica tra mercanti in Amsterdam <lb/>
+come già riverentemente le accennai a dì passati, che ne <lb/>
+havevo intesa qualche cosa. </p>
+<p>All’incontro a questi signori spiace il non potersi prometter, che <lb/>
+dall’Inghilterra eschino quei vinti vasselli, che già fu fatta <lb/>
+correr voce, che dovevano andar contra corsari. </p>
+<p>L’operationi, o più tosto le risolutioni di quel re sono <lb/>
+stimate qui per lunghe; poiché l’effetto nel presente <lb/>
+stato delle cose del mondo lo fa troppo apparere. </p>
+<p>Il mezo termine a che la passata settimana scrissi riverentemente <lb/>
+che li signori Stati, et il signor principe Mauritio pensavano per <lb/>
+dar sodisfattione al Bovincauser, è stato di dargli denari <lb/>
+et se ben non erano in obligo per vigor del contratto di <lb/>
+far cominciar a correr la mesata, che al principio <lb/>
+di aprile prossimo: in ogni modo hanno stabilito, che <lb/>
+corri al principio del presente. <lb/>
+Detta mesata anti-<lb/>
+cipata doverà servire per far provisione d’armi, et <lb/>
+per far la levata. Doveranno li signori principi dell’Uni[…]<ptr target="#tn3" n="3"/> <lb/>
+procurar di far essi la levata nelli loro paesi, o nei confini
+<pb n="002r" facs="09_002r" rend="0"/>
+in quelle parti di Alemagna, et non li riuscendo, hanno pro-<lb/>
+messa dalli signori Stati, che la faranno essi, et di più facendo <lb/>
+Spagnuoli marchiar le sue genti verso l’Alemagna, anco <lb/>
+di qua faranno marchiar delle loro truppe. </p>
+<p>Il Bovincauser è restato contento di questa risolutione. <lb/>
+Me l’inviò a communicare per uno de’ suoi; et partì <lb/>
+giovedì tutto sodisfatto verso Inghilterra. </p>
+<p>Mostrò sperare, che senza alcun<ptr target="#tn4" n="4"/> dubio haverebbe havuto <lb/>
+anco da quel Re l’assistenza dovuta a’ principi, et il signor <lb/>
+Carleton ancora a me disse, che l’essempio di questi signori <lb/>
+servirà grandemente a muover quella Maestà, et che godeva, <lb/>
+che ’l Bovincauser fosse partito con una tal risolutione. </p>
+<p>Fu l’ambasciator di Francia a render la visita al detto Bovincau-<lb/>
+ser, et quando io fui per il medesimo complimento al detto signore <lb/>
+mi communicò, ch’esso Ambiasciatore lo haveva voluto assi-<lb/>
+curare, che dalla Maestà christianissima al certo non haverebbe <lb/>
+l’Imperatore havuta alcuna assistenza: mentre le cose <lb/>
+non havessero per fine il toccar le religione catholica ro-<lb/>
+mana, o la sua soversione: ma trattandosi di sola <lb/>
+materia di Stato haverebbe la Maestà sua adoperati <lb/>
+gl’ufficii per acquietarle. </p>
+<p>Un conte di Stiron, et un duca di Sassonia sono venuti qua <lb/>
+per far genti per Bohemia il primo 150 cavalli, et <lb/>
+l’altro un reggimento d’infanteria, et qualche numero
+<pb n="002v" facs="09_002v" rend="0"/>
+di cavallaria. Per haverne nel Paese non si condescenderà <lb/>
+a quello si può comprendere; et se sarà ai confini si scuo-<lb/>
+pre in questi signori, che non condescenderanno, che con gran <lb/>
+riserva per il bisogno, ch’essi potessero havere. </p>
+<p>Vorrebbono li signori Stati far più forti le loro compagnie; ma <lb/>
+diferenti<ptr target="#tn5" n="5"/> sono li concetti. Alcuni vorrebbono, che fossero <lb/>
+di 150. Altri più, altri meno; et li più che non <lb/>
+passassero cento teste, facendo molto più capitale <lb/>
+d’officiali in numero, che di soldati assai, et haver <lb/>
+pochi officiali.<ptr target="#tn6" n="6"/> Havendo principalmente il signor principe <lb/>
+Mauritio questa per massima osservata da lui profi-<lb/>
+tevole ad un buon governo, che vi siano delli officiali <lb/>
+assai perché concorrono in tal caso assai soggetti di ho-<lb/>
+nore; che alletati dalla speranza di esser più pron-<lb/>
+tamente essaltati, et avanzati alle cariche si fra-<lb/>
+pongono nelle compagni<ptr target="#tn7" n="7"/>, et questi sono il nervo <lb/>
+di un essercito, et il sostenimento, et vigore nelle più <lb/>
+difficili imprese. È venuto questo tanto a proposito <lb/>
+ne ho stimato se non bene il toccarlo per il sugo <lb/>
+che la Serenità vostra potesse<ptr target="#tn8" n="8"/> ritrarne per il suo servitio. </p>
+<p>Attende il detto signor Principe con diligenza a dar ordini per le <lb/>
+fortificationi. Ha fatto venir qui alcuni mercanti per <lb/>
+contrattar<ptr target="#tn9" n="9"/> per materia da fonder arteglierie, volend[o]<ptr target="#tn10" n="10"/> <lb/>
+che tutte le piazze, se potrà tanto siano guarnite
+<pb n="003r" facs="09_003r" rend="0"/>
+di pezze di bronzo. </p>
+<p>Anco con li signori deputati delle Amiralità ha discorso di questo <lb/>
+negotio per quello spetta all’armar dalla parte di mare, <lb/>
+et hanno havuti ordini di osservar, et far osservar con <lb/>
+ogni diligenza, che non siano lasciati passar contratti o di <lb/>
+comprede<ptr target="#tn11" n="11"/>, o di noleggi di navi, che diretamente, o indi-<lb/>
+rettamente si potessero far per Spagnoli; et così per <lb/>
+materiali<ptr target="#tn12" n="12"/>, o munitioni da guerra; né<ptr target="#tn13" n="13"/> altro che servi a fabriche di navi; et insomma che impediscano <lb/>
+a tutta forza ogni tentativo, che si facesse per la <lb/>
+construttione delle navi, che hanno publicato doversi <lb/>
+far a Doncherchen. </p>
+<p>Di Brabant oltre le cose passate non si ha di vantaggio se <lb/>
+non ch’era arrivata provisione in Anversa per Brusseles <lb/>
+di 130<ptr target="#tn14" n="14"/> mila scudi per mese; che si continuava a dir che lo <lb/>
+Spinola sarebbe uscito fra cinque, o sei settimane <lb/>
+in campagna. Questo ben è vero che ’l signor Calandrini, <lb/>
+ch’è qui presso di me, me lo ha detto; et ha esbor-<lb/>
+sato il denaro, che per lo Spinola sono stati <lb/>
+compri dieci cavalli, et altri se ne cercavano <lb/>
+ancora da un suo agente. </p>
+<p>Ancor si parla, che Spagnoli voglino attaccar Giuliers. Non ama-<lb/>
+rebbono li signori Stati, che cadesse in mano d’essi Spagnoli <lb/>
+lo difenderanno, et non mancaranno essi di attaccarsi altrove
+<pb n="003v" facs="09_003v" rend="0"/>
+nei stati di Cleves, et Giuliers, et quando potessero ricuperar <lb/>
+dalle<ptr target="#tn15" n="15"/> loro mani Vesel non risentirebbono la spesa: <lb/>
+tuttavia scuopro bene, che non temono manco della detta <lb/>
+piazza di Giuliers sendo molto ben proveduta. </p>
+<p>Invio qui aggiunta copia del contenuto di una lettera <lb/>
+scrittami dal signor conte Guglielmo da Sighem per la quale <lb/>
+vedrà la volontà, et<ptr target="#tn16" n="16"/> il desiderio, ch’egli ha di<ptr target="#tn17" n="17"/> <lb/>
+continuar ad esser in servitio della Serenità vostra del desiderio <lb/>
+che la sua Compagnia sia intartenuta costì con <lb/>
+le conditioni ultime proposte, et della prontezza sua <lb/>
+di abbracciar quella carica che stimasse propria alla <lb/>
+sua persona. Il signor conte Guglielmo suo zio questa <lb/>
+mattina, che l’ho incontrato m’ha pregato di portar <lb/>
+tutto quel di bene, che posso in questo affare presso vostra Serenità <lb/>
+aggiungendomi, che haverebbe goduto che ’l suo nipote <lb/>
+fosse dicchiarito servitor della serenissima Republica in quella <lb/>
+maniera che havesse stimata propria, facendovi <lb/>
+instanza di rappresentarle questa sua preghiera, et <lb/>
+l’obligo, che haverà la casa<ptr target="#tn18" n="18"/> di veder intartenuto <lb/>
+appresso vostra Serenità et nel suo servitio uno di essa casa. <lb/>
+Io promisi<ptr target="#tn19" n="19"/> a questo signore di sodisfar all’instanza <lb/>
+che mi faceva, et se stimerà proprio darmene qualche <lb/>
+risposta l’attenderò. Gratie etc. </p>
+<p>Dall’Haya li 3 marzo 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="006r" facs="09_006r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="006v" facs="09_006v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 183 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="006vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 marzo 1620 ricevute a’ 18 detto </p>
+<p>Del segretario Suriano. 183. Sola </p>
+<p>Trarà a pagar le lettere di cambiar, come ha <lb/>
+fatto finhora. </p>
+<p>Avisi havuti delle navi de’ 21 gennaro <lb/>
+da Malega: vien scritto che delle <lb/>
+7 ne siano cinque, le altre 2 sbandate <lb/>
+senz’haverne novella: l’aviso <lb/>
+vien da un capitano di esse navi che ha <lb/>
+tratto a pagar all’amiralità di Ansterdam 200 reali per bisogni e <lb/>
+provisione. Dice il mancamento non <lb/>
+esser de’ capitani ma del vento: che <lb/>
+se fusse altrimente non mancheria <lb/>
+trattarne colle Amiralità. Sta <lb/>
+però raccordato ai deputati il servitio <lb/>
+della Republica. </p>
+<p>Risolutione dei Stati di dar danari <lb/>
+anticipati per assistenza a’ Boemi. </p>
+<p>Ambasciator di Francia assicura il Bonincauter <lb/>
+che ’l Re non assisterà all’Imperator. </p>
+<p>A’ personaggi andati in Olanda per far <lb/>
+genti per Bohemia non sarà permesso. </p>
+<p>Regolatione che disegnano far i Stati delle <lb/>
+loro compagnie, stimando meglio haver <lb/>
+più numero di buoni offitiali. </p>
+<p>Buoni ordini dati perché non habbiano <lb/>
+comodità Spagnoli di haver vasselli <lb/>
+e munitioni, né modo di fabricar <lb/>
+navi a Donchencher. </p>
+<p>Voce che Spagnoli vogliano attacar Iuliers <lb/>
+li Stati la deffenderanno. </p>
+<p>Offerta del conte Guglielmo di Nassau. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="4r-5v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 4r-5v)</p>-->
+<pb n="004r" facs="09_004r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Contenuto di lettere del signor conte Guglielmo de Nassau <lb/>
+de’ 24 febraro 1620 di Siegen scritte al Suriano <lb/>
+nella lingua fransese </p>
+<p>Signore sendo stato avertito come le nostre truppe si trovano al <lb/>
+presente a Lio, et di là dopo l’aver ricevuto ordine et comandamento <lb/>
+dalla serenissima Republica, et secondo che prenderanno le conditione <lb/>
+una parte potrebbe esser licentiata, o ben trattenuta, et <lb/>
+messa in guarnigione in Lombardia, onde non ho potuto <lb/>
+mancare di baciarvi le mani con queste pregandovi a <lb/>
+volermi far tanto piacere, che è di certificar il serenissimo Principe <lb/>
+con la prima occasione del humilissimo servitio et del <lb/>
+desiderio ch’io sempre hauto, et haverò d’impiegarmi <lb/>
+nel ben publico, et vedendo che sono risoluto quanto al <lb/>
+intratenimento della mia Compagnia di rimetter il tutto <lb/>
+alla buona discrettione di sua Serenità, come anche se li <lb/>
+piacesse di impiegarmi in cosa magiore o qualche altra <lb/>
+carica propria alla mia persona, et ocorendo se il signor <lb/>
+colonelo Bocalauro fosse per prender licenza et ritirarsi <lb/>
+nel Paese, che al hora in tutte le occasioni io sarei <lb/>
+pronto di ricever li comandamenti di detta sua Serenità <lb/>
+et obedirgli ad ogni mio potere, quanto alle conditioni <lb/>
+et altro trattamento come io spero sarò sempre impiegato et avanzato inanti qualche altro, rispetto al servitio <lb/>
+del già mio fratello di haver condutto costì tanta gente <lb/>
+et lasciatovi la vita, signore io so che voi havete mostrato
+<pb n="004v" facs="09_004v" rend="0"/>
+buona volontà verso mio fratello et ancor a me <lb/>
+onde vi pregho di voler continuare in essa et scriver <lb/>
+una lettera alla serenissima Republica a mio favore il che io <lb/>
+spero sia per effettuar qualche buon effetto et io <lb/>
+sarò parimente pronto a servirvi, et in questo <lb/>
+mentre vi piacerà iscusarmi del importunità che <lb/>
+vi aporto restandovi etc. </p>
+<pb n="005r" facs="09_005r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="005v" facs="09_005v" rend="270"/>
+<p>Contenuto di lettere <lb/>
+del signor conte Guglielmo <lb/>
+di Nassau </p>
+<p>nel n° 183 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "v-" corrected above "n-," uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Damaged page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-n" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "H-" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-sse" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-ratt-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Damaged page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-eri-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "n-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-3-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "esser" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "di" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

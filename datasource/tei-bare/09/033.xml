@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.033 date 1620-06-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">033</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 188r-189v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp279-295
+            </note>
+            <biblScope unit="page">188r-189v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Lormes has promised that if these ships contain Venetian goods that these will be restituted and that he claims he does not know the age of these ships. He has written to the captains of the ships, telling them of his stay here. Reports that Falghero and Pasini are willing to go to the fleet and take care of this affair. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-23">23 giugno 1620</date>
+            <num>052</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="052">
+<div type="main" facs="main text of letter" n="052">
+<!--<p>23 giugno 1620, L’Aia (cc. 188r-189v)</p>-->
+<pb n="188r" facs="09_188r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>215 fin 217 </p>
+<p>Serenissimo Principe </p>
+<p>tenendo appresso di me (come riverentemente avvisa la Serenità vostra <lb/>
+la passata settimana) quel visconte di Lormes ho procu-<lb/>
+rato haver qualche altro particolare per vantaggio, et <lb/>
+sicurezza del negotio, quando ella<ptr target="#tn1" n="1"/> risolvi<ptr target="#tn2" n="2"/> che si <lb/>
+passi innanti. </p>
+<p>Ho pensato che nei vasselli vi possi esser qualche mer-<lb/>
+cantie spettanti a’ sudditi della Serenità vostra per le quali <lb/>
+ho havuto promessa da esso Visconte, che se ve ne sarano<ptr target="#tn3" n="3"/> in esser saran<ptr target="#tn4" n="4"/> restituite; se ben mi ha affermato <lb/>
+et ha affermato al signor Falghero, et Pasini, che ’l capitan <lb/>
+Sansone, il quale ha corseggiato verso li mari di Venetia <lb/>
+per quello poteva dubitare havesse baratata tutta la <lb/>
+robba presa in altra mercantia, et venduta. </p>
+<p>Di più ha fatta promessa, che non ostante, che in Francia <lb/>
+sia stata fatta difficoltà quando menò li soli nove <lb/>
+vasselli di non voler pagar che la metà dell’accordato <lb/>
+con tutto questo si obliga, che venendo tutti, overo <lb/>
+parte uno resti obligato per l’altro alla detta summa <lb/>
+di ottocentomilla scudi per il suo pronto esborso, et <lb/>
+anco quando venisse un sol vassello, che quello <lb/>
+doverà far l’esborso di tutta la detta summa al <lb/>
+primo ingresso. Et questa parmi una gran oblatione. </p>
+<p>Ho voluto anco haver maggior informatione della qualità <lb/>
+dei vasselli, mi dice non saper di quanti anni siano <lb/>
+ma che si può creder che siano buoni<ptr target="#tn5" n="5"/> aggiungendo
+<pb n="188v" facs="09_188v" rend="0"/>
+che quando un vassello ha qualche mancamento, et che <lb/>
+n’incontrano un altro migliore lo cambiano, non <lb/>
+tenendo con essi vasselli, che habbino bisogno di esser <lb/>
+o rifatti, o acconciati. </p>
+<p>Quello serenissimo Principe, che mi fa far buon giudicio di <lb/>
+questo negotio è che il Falghero, et Pasini mi affermano <lb/>
+non haverli mai da che trattano seco interessati di alcun <lb/>
+denaro, meno mostrata alcuna pretensione oltre la scritta<ptr target="#tn6" n="6"/>, et a me <lb/>
+manco ne ha dato segno, solo prega per l’ispeditione <lb/>
+asserendo che quanto più presto ch’ella venga <lb/>
+sarà conforme al suo desiderio perché la dilatione <lb/>
+non le apporti nocumento. Ha scritte lettere ai <lb/>
+detti capitani dei vasselli, dicendoli della dimora <lb/>
+che fa qui, et tenendoli confortati colla<ptr target="#tn7" n="7"/> speranza <lb/>
+di andarli a trovar presto con qualche cosa di buono <lb/>
+et dimani saranno spedite per Londra in mano di <lb/>
+un gentilhuomo, che si trattiene presso l’ambasciator del <lb/>
+re di Bohemia; et io per la sicurezza del recapito <lb/>
+le raccomanderò all’eccellentissimo signor ambasciator Lando. </p>
+<p>Saranno pronti il Falghero, et Pasini per andar alla <lb/>
+flotta ad assicurar et stabilir tutte le cose quando <lb/>
+a loro vogli la Serenità vostra o ad uno d’essi commetter <lb/>
+questo affare, concorrendo ambidoi d’una stessa <lb/>
+volontà per servir al suo Principe, et mostrarsele <lb/>
+riverentissimi et devotissimi sudditi. Gratie etc. </p>
+<p>Dall’Haya li 23 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="189r" facs="09_189r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="189v" facs="09_189v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 215 fin 217 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="052">
+<!--
+<p n="189vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 giugno 1620 ricevute 8 luglio </p>
+<p>Haya. n° 215 </p>
+<p>Prime </p>
+<p>L. SS. X. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "la S(ereni)tà v(ostra)" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-n" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "oltre la scritta" added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "co-" corrected above "a-", uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

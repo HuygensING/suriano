@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.010 date 1620-04-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 34r-37v, 42r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp219-238
+            </note>
+            <biblScope unit="page">34r-37v, 42r-v, 38r-39v, 40r-41v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has thanked the Republic and Haga specifically for his assistance in Borisi affair, and requests Haga continues his good services. Therefore the States General decide to send Haga a copy of the treaty between the two states. Aerssen has always been the likely candidate for extraordinary embassy; he will be accepting the position. yet no resolution about the other issues related to embassy, they will send one to France and a special one to England, but no decision yet aboyt who will go. reports that du maurier has visited him about van aerssen. Sterkenburg has arrived to raise more troops and news of defeat of imperial armies by Anhalt. Reports they have agreed to establish the WIC and will try to send the specific details. News about the Santa Giustina in Ireland is confirmed. acknowledges receipt of letters datin 14 march and reports Antonini will travel to England. Two texts attached: a copy of letters from Admirality of Enkhuizen dated 3 April 1620 and letters from North Holland written to Suriano dated 26 March 1620</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-07">7 aprile 1620</date>
+            <num>012, 013, 014</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="012">
+<div type="main" facs="main text of letter" n="012">
+<!--<p>7 aprile 1620, L’Aia (cc. 34r-37v, 42r-v)</p>-->
+<pb n="034r" facs="09_034r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 192 sola </p>
+<p>Serenissimo Principe </p>
+<p>conforme al nuovo commandamento venutomi in lettere <lb/>
+della Serenità vostra de’ 20 del passato rinovai gratie <lb/>
+affetuose alli signori Stati per la continuatione <lb/>
+delli ufficii dell’orator loro fatti alla porta <lb/>
+di Costantinopoli alla requisitione dell’eccellentissimo signor <lb/>
+bailo Nani, rappresentando l’obbligo, che l’Eccellenze vostre <lb/>
+illustrissime havevano a’ detti signori, et aggiungendo dell’<lb/>
+animo, et de’ pensieri del Bassa primo Visir quel tanto <lb/>
+ch’<ptr target="#tn1" n="1"/>ella nelle medesime lettere mi commette di dire. <lb/>
+Trovai al ritorno mio di Amsterdam, che ancor non <lb/>
+havevano scritto, et doppo havermi il Presidente <lb/>
+attestato a nome di tutti dell’assemblea, che ricevevano <lb/>
+per cara questa confidenza continuata, mi disse <lb/>
+che si haverebbe scritto in conformità dell’instanza <lb/>
+della Serenità vostra, et hieri doppo l’audienza fui a veder <lb/>
+il secretario, che mi disse l’ordine esser stato <lb/>
+dato di scriver, et che si mandasse all’<lb/>
+orator Aghe la copia o sostanza della capitulatione <lb/>
+di lega stabilita tra quella serenissima Republica et questi <lb/>
+Stati; et con destro modo avertii perché fossero <lb/>
+spedite le lettere in maniera<ptr target="#tn2" n="2"/>, che andassero con <lb/>
+ogni maggior diligenza. Mi promise, che sarebbe fatto
+<pb n="034v" facs="09_034v" rend="0"/>
+et io procurerò, che così segua. </p>
+<p>Per Ambasciator straordinario per portar costi la ratificatione dell’<lb/>
+aleanza, havendo questi signori havuto sempre l’occhio sopra <lb/>
+la persona del signor Francesco Arsen hier mattina <lb/>
+lo fecero chiamar nanti loro nell’assemblea, <lb/>
+et con concetti pieni di laude, et di stima che facevano <lb/>
+del suo valore gli dissero la risolutione, che havevano <lb/>
+presa di valersi di lui per il detto complimento. Non <lb/>
+diede segno di ricusare; ma con prudente maniera <lb/>
+non accettò così allhora la carica. Si vantò d’esser <lb/>
+egli stato il promotore di quest’aleanza, mentre <lb/>
+fu ambasciatore presso Henrico quarto, et mostrando gusto, <lb/>
+che havess’ella havuto felice essito doppo molti <lb/>
+ringraziamenti ha preso tempo di communicar questa <lb/>
+risolutione dei signori Stati ai deputati di Holanda <lb/>
+da’ quali dipendeva, et già haveva havuta carica per <lb/>
+il servitio del Paese adducendo, che oltre li suoi particolari <lb/>
+interessi questo publico pareva, che non potesse per-<lb/>
+metterli, che facesse il viaggio, et che haverebbe anco <lb/>
+con il signor principe Mauritio. Ciò li fu concesso; <lb/>
+et ho saputo hoggi per via del Presidente, che <lb/>
+accetterà la carica, et si sta hora<ptr target="#tn3" n="3"/> per prefiger<ptr target="#tn4" n="4"/> il<ptr target="#tn5" n="5"/> tempo alla partenza <lb/>
+col prossimo ordinario n’haverà vostra Serenità maggior certezza. </p>
+<pb n="035r" facs="09_035r" rend="0"/>
+<p>Per ambasciator ordinario o residente resta tuttavia irresoluta<ptr target="#tn6" n="6"/> la <lb/>
+mente delli signori Stati, che concorsi nella speditione <lb/>
+della straordinaria ambasciata par che si fermino per aspettar <lb/>
+quello, che stimasse bene la Serenità vostra et mi par di prevedere <lb/>
+che siano in pensiero di attender, che sia cavato il senso <lb/>
+di lei dall’<ptr target="#tn7" n="7"/>Ambasciator straordinario. Di quello seguirà, et <lb/>
+del tempo della partenza di qua di detto Ambasciatore <lb/>
+quando me ne sarà data parte non mancarò di darne <lb/>
+preciso conto riverente a vostra Serenità. </p>
+<p>Resta pur stabilito, che si habbino a mandar quanto <lb/>
+più presto ambasciatori alle doi corti di Francia, et d’Inghilterra. <lb/>
+Per la prima sono in pena per trovar persona, che possi <lb/>
+riuscir et grata, et propria per il servitio. Finhora <lb/>
+monsignor di Maurier ha fatta l’esclusione se non direttamente <lb/>
+indirettamente almeno al signor di Marchet luogotenente generale <lb/>
+della cavallaria, come quello che è stato in Francia <lb/>
+per il signor principe d’Oranges parlò assai liberamente <lb/>
+contra la mente di quel Consiglio, et che qui anco <lb/>
+nelli affari di Bernvelt<ptr target="#tn8" n="8"/> s’è mostrato assai <lb/>
+contrario alli officii d’esso ambasciatore di Francia, et di monsignor <lb/>
+Boisise, che fu estraordinario per il Christianissimo. Questo gl’adossano. </p>
+<p>Monsignor di Maurier uno di questi giorni, che fui a sua visitatione
+<pb n="035v" facs="09_035v" rend="0"/>
+mi confermò assai liberamente, che detto Cavaliere sarebbe mal <lb/>
+veduto<ptr target="#tn9" n="9"/>; et mi aggiunse che bisognava, che questi signori si <lb/>
+risolvessero non tanto di mandar persona, che potesse <lb/>
+riuscir accetta a sua Maestà, et alla corte, quanto che <lb/>
+portasse seco effetti, o assicuranza di voler sodisfar <lb/>
+all’instanze, che loro haveva fatte, et fatte far la Maestà sua <lb/>
+che subitava, che questo fosse il punto sopra il quale <lb/>
+non si sapevano risolver; et replicòmi con apparenza di <lb/>
+severità, bisogna che vadi chi anderà ben armato di <lb/>
+sodisfattioni a quello che si vede vi vorrà petto, et <lb/>
+franchezza di spirito sendo l’animo del Re conta-<lb/>
+minato per quanto intendo più dalle relationi, che <lb/>
+da natural alteratione contra questi Stati. </p>
+<p>Per<ptr target="#tn10" n="10"/> Inghilterra si deputerà anco persona espressa, et hieri formatamente <lb/>
+ne diedero parti all’Ambasciatore portandogli per scritto la <lb/>
+risolutione dei signori Stati, la quale hoggi spedisce con <lb/>
+persona espressa al suo Re et la sostanza è quella <lb/>
+che scrissi riverentemente la passata settimana nelle mie <lb/>
+lettere 190 prime che con le seconde de’ 191 mando <lb/>
+aggiunte replicate. Manco per detta ambasciata è stata <lb/>
+nominata persona, et perché si aggiunse nella scrittura <lb/>
+all’Ambasciatore che si manderà per il negotio della pesca
+<pb n="036r" facs="09_036r" rend="0"/>
+dovendosi inviar per altra causa. Questa parmi che sia per <lb/>
+la rinovatione dell’aleanza tra quella Maestà, et questi Stati. <lb/>
+Così si farà anco per Francia finendo presto il tempo <lb/>
+delli dodici anni d’essa et con l’una, et con l’altra <lb/>
+Corona. </p>
+<p>Stano su la fine delle loro levate d’infanteria, et cavalleria per <lb/>
+Bohemia il duca di Wimaer, et conte di Stird<ptr target="#tn11" n="11"/>. In questo <lb/>
+mentre è ritornato qui il Sterchemburgh, che fu li <lb/>
+giorni passati per li principi dell’<ptr target="#tn12" n="12"/>Unione da’ quali <lb/>
+ha patenti per far levata di doimilla fanti, et il <lb/>
+luogotenente della compagnia del signor principe Henrico <lb/>
+di 150 cavalli parte archibusieri, et parte corrazzieri <lb/>
+et 400 cavalli anco ha ordine di levar il governator di <lb/>
+Gertrudenbergh con patente delli medesimi principi.<ptr target="#tn13" n="13"/> <lb/>
+Questa non basta sin qui, perché<ptr target="#tn14" n="14"/> quanto più essi <lb/>
+affaticano, et solecitano con ufficii tanto dall’altro <lb/>
+canto hanno per contratii li signori Stati, et principalmente <lb/>
+il signor principe Mauritio. Non restano ancor esclusi; <lb/>
+ma stano però in dubio li tre sudetti di haver l’assenso. </p>
+<p>È venuto qui un avviso di Norimbergh d’una gran <lb/>
+rotta data dal signor principe di<ptr target="#tn15" n="15"/> Anhalt alle genti <lb/>
+imperiali con morte di circa tre mille di queste,
+<pb n="036v" facs="09_036v" rend="0"/>
+perdita di bagaglie, di alcuni pezzi di artiglieria; et <lb/>
+che era seguito anco un altro fatto d’arme con danno <lb/>
+pur d’imperiali. Vostra Serenità ne deve haver il certo, et <lb/>
+più sicuro avviso da più vicino luoco. Questo capitato <lb/>
+qui ha data somma consolatione; et in Brusseles al <lb/>
+presente non lo negano. </p>
+<p>Non si sente altro di là se non che risolutioni dipendono <lb/>
+dall’arrivo di don Francesco Medina. </p>
+<p>Havendo li signori Stati continuato senza intermissione nel <lb/>
+consigliar quotidianamente sopra il trattato dell’Indie Occi-<lb/>
+dentali, hanno finalmente risoluto, che la Compagnia si <lb/>
+faccia. La concessione è per vinti quattro anni. Li <lb/>
+signori Stati daranno per sussidio mezo milione di fiorini, <lb/>
+et questi in cinque anni, a cento milla fiorini per <lb/>
+anno, et l’altro mezo milione di fiorini metteranno <lb/>
+incontinente per capitale. Et in oltre promettono <lb/>
+di mantener in occasione di guerra vinti navi <lb/>
+armate. Sarà lecito a chi si sia l’entrar in <lb/>
+detta Compagnia. Le doi provincie di Frisia, et <lb/>
+Grunighem entreranno per una parte, Northolandia <lb/>
+per una Holanda dalla parte della meza per una; <lb/>
+Zelanda per doi et Amsterdam per quattro
+<pb n="037r" facs="09_037r" rend="0"/>
+et così sarà diviso l’equipaggio in nuove parti. </p>
+<p>Vi sono altri articoli procurerò di haverne una <lb/>
+copia per inviarla alla Serenità vostra. Hora si man-<lb/>
+dano detti articoli alle provincie per haverne l’ag-<lb/>
+gregatione, che doverà esser qui in termine di un mese <lb/>
+o sei settimane; et doppo sarà pubblicata, et in doi <lb/>
+mesi dato tempo per la contributione del denaro <lb/>
+fino alla summa, che sarà stabilita, che sin qui <lb/>
+non si crede, che possi esser meno di dieci milliona <lb/>
+di fiorini. </p>
+<p>Credo, che venuto il consenso delle provincie li signori Stati <lb/>
+daranno parte ai ministri de’ principi di questa <lb/>
+risolutione. </p>
+<p>Con tutte queste diligenze si crede però, che l’equipaggio <lb/>
+non si farà così tosto; ma sarà regolato dallo stato <lb/>
+delle cose che corrono et dall’essito dei fini de’ <lb/>
+Spagnuoli per la tregua che camina all’ultimo <lb/>
+delli dodici anni che fu fermata. </p>
+<p>Resta confermato pur troppo l’avviso della nave <lb/>
+Santa Giustina persa in Irlanda, come intenderà <lb/>
+la Serenità vostra dall’aggiunta traduttione di lettere dei <lb/>
+signori Stati dell’amiralità di Northolandia; et sono entrato
+<pb n="037v" facs="09_037v" rend="0"/>
+in non poco timore dell’altre. Dio guardi che non sia successo <lb/>
+di peggio: quei signori hanno risposto alle lettere, che <lb/>
+li inviai; et mando anco qui aggiunta la traduttione <lb/>
+della risposta, che conforma con quella, che <lb/>
+a bocca ho havuta dai signori dell’amiralità di Amsterdam. </p>
+<p>Ho ricevute colla solita riverenza mia doi lettere della <lb/>
+Serenità vostra dei 19<ptr target="#tn16" n="16"/> del passato una con gl’avvisi, et l’<lb/>
+altra colla copia di quanto ha scritto di Roma <lb/>
+l’eccellentissimo signor ambasciatore Soranzo toccante il tentativo del signor <lb/>
+cardinal Borghese per la protettione delle cose di <lb/>
+Spagna, che mi serviranno d’informatione. </p>
+<p>Il signor Alfonso Antonini è partito per Inghilterra, et di là passerà <lb/>
+per quanto mi ha detto in Bohemia. Ha egli nel <lb/>
+signor principe Mauritio in particolare lasciato gusto <lb/>
+grandissime delle sue belle maniere. Gratie etc. </p>
+<p>Dall’Haya li 7 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="042r" facs="09_042r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="042v" facs="09_042v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 192 sola </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="012">
+<!--
+<p n="042vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 aprile 1620 ricevute a’ 22 detto </p>
+<p>Del segretario Suriano. Sola. n° 192 </p>
+<p>Ha ringraziato degli uffici fatti alla Porta. </p>
+<p>Rispondeno di dar ordini al loro ambasciator <lb/>
+Aghe per la continuatione con mandar anco <lb/>
+copia della capitulatione della lega. </p>
+<p>Li Stati chiamano in assemblea l’Arsen <lb/>
+li conferiscono la risolutione di valersi <lb/>
+di lui per il complimento di ratificatione <lb/>
+dell’aleanza: egli non ricusa né <lb/>
+accetta ma prende tempo di communicar <lb/>
+la risolutione ai deputati di Olanda <lb/>
+e parlarne a Mauritio, che li fu concesso. </p>
+<p>Dice il secretario haver saputo che <lb/>
+accetterà la carica: co’ ’l primo ordinario <lb/>
+se n’haverà certezza. </p>
+<p>Per ambasciator ordinario o residente resta irresoluto <lb/>
+per aspettar coll’espeditione estraordinaria <lb/>
+quello si stimerà bene de più<ptr target="#tn17" n="17"/>. </p>
+<p>Quando ne sarà dato parte al secretario <lb/>
+ne darà preciso conto. </p>
+<p>Hanno stabilito di mandar ambasciatori in <lb/>
+Francia, e Inghilterra: per Francia non hanno <lb/>
+soggetto pronto Murier oppone al <lb/>
+luogotentente Marchet. Per Inghilterra si <lb/>
+deputerà persona, ne hanno dato parte <lb/>
+all’Ambasciator: dicono mandar per il negotio <lb/>
+della pesca, mentre pare sia per <lb/>
+rinovatione di aleanza: et per lo stesso <lb/>
+si manderà in Francia essendosi al <lb/>
+fine di dodeci anni con l’uno e l’altro. </p>
+<p>Avisi. </p>
+<p>L. SS. R. </p>
+<p></p>
+<p n="042vA">———</p>
+<p>Risolutione dei Stati per la Compagnia <lb/>
+della navigatione per l’Indie Occidentali. </p>
+<p>Lecito ad ogni uno entrarvi; conditione <lb/>
+di mantener vinti navi et altro <lb/>
+procurerà mandar copia delli <lb/>
+articoli. </p>
+<p>Confirma la perdita della nave <lb/>
+Santa Giustina manda lettere di tal <lb/>
+aviso. </p>
+<p>Ricevuta di lettere de’ 14. </p>
+<p>Parte l’Antonini per Inghilterra. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="013" corresp="012" source="38r-39v" >
+<div type="main" facs="main text of attachment I" n="013" corresp="012" >
+<!--<p>Allegato I al n. 12 (cc. 38r-39v)</p>-->
+<pb n="038r" facs="09_038r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia traslata dalle lettere de’ signori dell’amiralità <lb/>
+d’Encusen de’ 3 aprile 1620 </p>
+<p>Mentre avanti hieri eramo<ptr target="#tn18" n="18"/> in opera sopra la paga del <lb/>
+capitano Pieter Ianson, et delli suoi marinari ci sono <lb/>
+capitate cattive nove<ptr target="#tn19" n="19"/>. Cioè che li capitani si sono spartiti <lb/>
+fuori del canale alli 4 over 5 di marzo per la tempesta. <lb/>
+Essendo il Capitano con la nave di Santa Giustina transportata <lb/>
+in Irlanda tra l’isola Saltees, et la terra ferma, et <lb/>
+accostatosi alla terra hanno lasciato cader l’ancora <lb/>
+giornaliera, della quale si ruppe la corda; et subito <lb/>
+lasciando cader la tuynàncora questa ancora s’è persa <lb/>
+per il fondo fangoso; sì che per la terza volta hanno <lb/>
+gettato la plechtàncora; et essendo in gran pericolo <lb/>
+il Capitano, et li matelotti si sono messi a pregar Iddio, che la <lb/>
+la* notte potesse andarsene con poca tempesta per poter <lb/>
+salvar la vita. Sendo fatto giorno hanno condotto il Capitano <lb/>
+a terra per cercar aiuto perché fossero condotti a qualche <lb/>
+commodo porto. Et come furono entrati doi nella barca <lb/>
+volsero preparar per far vela, ma non lo puotero per il <lb/>
+tempo incostante, oscuro et del tutto incommodo <lb/>
+onde alli 10, over 12 di marzo passato perderono la <lb/>
+nave, et beni, et ciò in un’hora, incirca le doi hore <lb/>
+innanti ’l giorno. Sopra la barca<ptr target="#tn20" n="20"/> come scrive il Capitano <lb/>
+si sono anegati 32 persone con li doi di aiuto che <lb/>
+havevano preso nella barca, li altri si sono salvati
+<pb n="038v" facs="09_038v" rend="0"/>
+sopra le tavole, et sono stati gettati a terra, et hanno anco <lb/>
+salvata una pezza d’artiglieria con la bassezza delle acque. </p>
+<p>La nave<ptr target="#tn21" n="21"/> d’Amsterdam sopra la quale serve come luocotenente <lb/>
+capitano Hans Burnon è anc’ella in Irlanda a Waterfut<ptr target="#tn22" n="22"/> <lb/>
+tre miglia<ptr target="#tn23" n="23"/> discosta dell’altra havendo perso il governale et patiti altri danni. </p>
+<p>Del capitano Scrobop con la nave La vacca macchiata habbiamo <lb/>
+hieri ricevute nuove cioè che si trova nella Walsch-<lb/>
+Inghilterra in uno luoco de pescatori con gran periculo <lb/>
+di dove non può partire se non con vento di Levante. </p>
+<p>Sì che non deve vostra Signoria pensare, che essi siano per cercar di <lb/>
+prolungar il tempo; ma se non sono già persi tenteranno <lb/>
+far stradda corta. </p>
+<p>Per ordine delli signori dell’Amiralità havemo mandato questo <lb/>
+messaggiero per procurar da vostra Signoria li roli delli matelotti <lb/>
+di Santa Giustina, et della Vacca macchiata come anco <lb/>
+del Re David alle quali havemo già sodisfatto <lb/>
+restano tre o quattro persone per le quali vor-<lb/>
+ressimo ben veder li roli di vostra Signoria et li aspettaremo <lb/>
+tutti tre con il presente; et fratanto etc. </p>
+<pb n="039r" facs="09_039r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="039v" facs="09_039v" rend="270"/>
+<p>Prima </p>
+<p>Lettera de’ signori d’Encusen de’ 3 <lb/>
+aprile </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="014" corresp="012" source="40r-41v" >
+<div type="main" facs="main text of attachment II" n="014" corresp="012" >
+<!--<p>Allegato II al n. 12 (cc. 40r-41v)</p>-->
+<pb n="040r" facs="09_040r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Translatione di lettera delli signori dell’amiralità <lb/>
+di Northolandia scritta al residente Suriano <lb/>
+a’ 26 marzo 1620 </p>
+<p>Havemo ricevuta la lettera di vostra Signoria delli 17 di questo mese <lb/>
+et inteso il contenuto, et havendo avvisato sopra il tutto <lb/>
+trovamo buono di risponder a vostra Signoria, che ’l capitano Pieter <lb/>
+Janson d’Alemar è arrivato con la sua nave a Tessel <lb/>
+alli 11 di questo mese, et è arrivato davanti Encusen <lb/>
+alli 20 seguenti, et il medesimo giorno fu licentiato <lb/>
+con li suoi matelotti, et levato dal giuramento. La nave <lb/>
+chiamata il Re David sopra la quale il Capitano ha <lb/>
+servito fu licentiata alli 21 di marzo seguente, non <lb/>
+essendogli stato possibile venir prima qui innanti la <lb/>
+città stante la forza del vento del mezogiorno, tuttoché <lb/>
+si sia usata ogni debita diligenza da loro. Lo stesso <lb/>
+Capitano comparso inanti di noi ha detto che<ptr target="#tn24" n="24"/> ambi <lb/>
+le navi Santa Giustina, et Vacca macchiata con <lb/>
+un’altra ancora sopra la quale è capitano Hans Bornon <lb/>
+erano presso il canale, ma essersi dispartite l’una <lb/>
+dall’altra per la gran tempesta. Questo capitano <lb/>
+causualmente<ptr target="#tn25" n="25"/> è arrivato tra Inghilterra et Francia, <lb/>
+et doppo in Tessel credendo, che l’altre navi siano <lb/>
+state transportate dietro l’Inghilterra. </p>
+<p>Vostra Signoria può ben assicurarsi, che li capitani faranno ogni diligenza <lb/>
+possibile per venir a casa, come quelli, che lungo <lb/>
+tempo sono stati fuori, et che hanno anco ogni <lb/>
+cosa guasta. Sperano, che ogni dì entreranno
+<pb n="040v" facs="09_040v" rend="0"/>
+et in ciò non potemo ordinare né tempo, né giorno poiché <lb/>
+restano nel solo servitio della serenissima republica di Venetia <lb/>
+né possono far altro servitio particolare né per questi paesi <lb/>
+et se possiamo cavar dalli capitani che senza necessità siamo <lb/>
+abordati a qualche porto<ptr target="#tn26" n="26"/> provederemo in ciò a <lb/>
+contento della serenissima Republica. </p>
+<p>Spesso avvine, che per li venti contrarii le navi non possono <lb/>
+venir fuori dello stretto, come avvenne gl’anni passati <lb/>
+alle navi da guerra di questa repartitione, le quali <lb/>
+stettero undici settimane innanti che d’<ptr target="#tn27" n="27"/>Algiers potessero <lb/>
+uscir lo stretto. Supplichiamo per ciò vostra Signoria pigli in <lb/>
+buona parte il lungo tardar delle dette navi subito <lb/>
+che di esse intenderemo cosa alcuna vostra Signoria ne sarà avvisata. <lb/>
+Con questo etc. </p>
+<pb n="041r" facs="09_041r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="041v" facs="09_041v" rend="270"/>
+<p>Lettera<ptr target="#tn28" n="28"/> de’ signori d’Encusen de’ <lb/>
+26 marzo </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "c-" corrected above "q-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "-li" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-o-" corrected above "-u-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-a-" corrected above "-e-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "ved-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "Qu-" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-o-" and "-e" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the line on "nave" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Corrected above "barca."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line on "leghe" crossed out with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "che d’" added above the line on "ad" crossed out with an insertion mark.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Precedes "prima" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

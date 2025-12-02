@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.063 date 1621-10-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">063</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 325r-326v, 329r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">325r-326v, 329r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Describes the return of Villiers to Frederick V from London. James I/VI hesitated to give a clear response and Frederick is perplexed by the irresolution of the king. The Duke of Bavaria is moving into Upper Palatinate after taking Cam and Spanish forces are moving to the Lower Palatinate. Mansfeld’s potential agreement with Bavaria is uncertain and rumours that he may serve Savoy. Frederick is waiting for news from Diby, who is negotiating with Bavaria. Villiers apparently only speaks English and Carleton suspects this is on purpose, so he can not communicate with anyone. Frederick shows sign of distress whereas Elisabeth remain outwardly composed. Frederick initially had planned to go to Palatinate but news from England has changed this. Elector of Mainz is using this to press his claims on Bergstrat. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-10-11">11 ottobre 1621</date>
+            <num>104</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="104">
+<div type="main" facs="main text of letter" n="104">
+<!--<p>11 ottobre 1621, L’Aia (cc. 325r-326v, 329r-v)</p>-->
+<pb n="325r" facs="10_325r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 336 fin 337 </p>
+<p>Serenissimo Principe </p>
+<p>quella stessa sera, che ispedii il mio dispaccio colle lettere de’ 4 <lb/>
+n° 334 fin 335, che mando replicate arrivò il signor Villers di ritorno <lb/>
+qui doppo esser andato quasi fino a Emerich per trovar il re di <lb/>
+Bohemia. Egli hebbe audienza il martedì mattina da sua Maestà <lb/>
+alla quale presentando le lettere del re della Gran Bertagna <lb/>
+espose a nome di lui la sua commissione. Il primo punto <lb/>
+del levarsi dal campo di questi signori, sendo già fatto, passò sotto <lb/>
+termine di complimento; ma quanto al disarmarsi com-<lb/>
+mandar<ptr target="#tn1" n="1"/> a tal effetto a Mansfelt, al Veer, et a tutti gl’<lb/>
+altri di licentiar le genti, revocar gl’ordini dati per nove <lb/>
+levate et far restituir le piazze che si tengono in Bohemia a sua devotione, con risposta di titoli<ptr target="#tn2" n="2"/> mostrò sua Maestà non poter così per allhora dar pronta <lb/>
+risposta, l’ha in ogni modo il detto Cavaliere solecitata doppo <lb/>
+con molto affetto; ma ancor la Maestà sua resta irresoluta <lb/>
+et vostra Serenità, et le Signorie vostre eccellentissime colla prudenza loro comprenderanno <lb/>
+molto bene quale, et quanta debba esser la perplessità di <lb/>
+questo Principe, mentre ha doi gravi, et grandi peremptorii <lb/>
+l’uno dalla parte del suocero, che mostra non adherendo <lb/>
+al suo consiglio non voler più ingerirsi nei suoi affari; et <lb/>
+l’altro dalla parte del principe Bethelem Gabor, c’ha qui <lb/>
+persona espressa, come anco il marchese di Jegherdorf, che <lb/>
+lo solecitano a dicchiarirsi, et particolarmente Gabor se vuole star <lb/>
+unito seco per la Boehmia, altrimenti egli passerà avanti, <lb/>
+et haverebbe fatto per sé quello havesse potuto; et che una <lb/>
+risposta dubia gli<ptr target="#tn3" n="3"/> servirà per assoluta negativa. <lb/>
+Sente, che ’l duca di Baviera s’è impossessato della piazza <lb/>
+di Cam per compositione, et che passava avanti nell’Alto <lb/>
+Palatinato; che nel Basso non vi restavano che tre piazze
+<pb n="325v" facs="10_325v" rend="0"/>
+di qualche conto Heidelbergh, Maneheim, et Linderbergh, et di <lb/>
+giorno in giorno aspettava, che Spagnuoli fatti patroni <lb/>
+dell’una, et l’altra riva del Rheno da quella parte si <lb/>
+facessero patroni di tutto il suo. Già sono incaminati <lb/>
+li seimilla fanti, et qualche quattrocento cavalli levati nelle <lb/>
+terre ansiatiche, et mille cavalli levati anco contra la volontà <lb/>
+della madre del fratello del duca di Brunsvich parte <lb/>
+in quello stato, et parte nei contorni dei paesi di Cleves, <lb/>
+et della marca s’incaminavano alla volta del vescovato <lb/>
+di Ildersin per andar tutta questa soldatesca nel Basso <lb/>
+Palatinato. Continua tuttavia la voce, che Mansfelt tratti <lb/>
+d’accordo, anzi che si sia accordato, et che ricevendo buona <lb/>
+somma di denari per sodisfar a’ debiti dei suoi soldati pensi passar <lb/>
+al servitio di Savoia per congiungersi seco all’assedio di <lb/>
+Genevra, che qui è stato scritto dalli stessi cittadini, che ’l <lb/>
+Duca vi miri; et che erano per deputar alcuni per venir a <lb/>
+questa volta per soccorso, et per consiglio. Tale è la voce, che corre <lb/>
+di quel Cavaliere, che non è creduta, tenendosi per certo, che non <lb/>
+sia per ceder se estrema necessità non ve lo conduce. Et sua Maestà <lb/>
+ha lasciato partir ultimamente il duca di Wimar di Sassonia <lb/>
+che se bene non ha cosa assoluta da portar a Mansfelt <lb/>
+ha almeno havuto da portar speranza, che sua Maestà farà <lb/>
+tutto il meglio, che potrà per assister, et mantener quella <lb/>
+soldatesca. </p>
+<p>L’ordine di continuar il viaggio alle levate non è stato rivocato; <lb/>
+et qui si solecita anco la permissione delli cinquanta milla <lb/>
+fiorini per mese; ma ancor non si cava più di quello, s’è fatto
+<pb n="326r" facs="10_326r" rend="0"/>
+per avanti, ch’è di non disperare. </p>
+<p>La maggior iscusa c’ha potuto trovar il Re in questa angustia, <lb/>
+et solicitatione, che lo circonda, et l’introna l’orrecchio di risposta <lb/>
+è di voler sentir l’operationi di Dighbi con Baviera, mentre <lb/>
+sua Maestà è avvisata, ch’egli arrivato a Ratisbona habbi <lb/>
+ispedito suo gentilhuomo a detto duca di Baviera per <lb/>
+procurar di cavare se sia inclinato ad una sospension d’armi <lb/>
+con Mansfelt. S’aspetta pertanto di giorno in giorno <lb/>
+questo avviso. </p>
+<p>Ha scritto Dighbi con parole aperte, che trova in molte cose <lb/>
+essersi abusato, et esser stato abusato. Ogni ragione <lb/>
+vuole, che tanto habbi scritto al Re suo signore. </p>
+<p>Questo signor Villers non parla che la sola sua lingua natural <lb/>
+inglese, il che qui da ministri di questo Principe <lb/>
+viene interpretato essersi fatto propriamente, ad arte col <lb/>
+consiglio de’ Spagnuoli, accioché non potesse haver communi-<lb/>
+catione con alcuno di loro. È alloggiato in casa del signor ambasciator <lb/>
+Carleton, il quale camina con gran prudenza, et con <lb/>
+gran destrezza in questo affare. Non frequenta al <lb/>
+presente molto il Re, et cuopre il desiderio colla <lb/>
+necessità, che ha di così fare per regolarsi colla mente <lb/>
+del suo Principe. Il medesimo signor Villers è quello, che a <lb/>
+Custrin vide il Re prima di venir qui, et gli disse a nome <lb/>
+della maestà d’Inghilterra, ch’ella era risoluta non restituendo <lb/>
+il preso nel Palatinato di far levata di 20 mila fanti per <lb/>
+ricuperarlo con la forza. Il che sendogli stato tocco dal <lb/>
+Re, non ha risposto altro se non siamo in altri tempi. </p>
+<pb n="326v" facs="10_326v" rend="0"/>
+<p>Mostra assai chiaro nella faccia il Re l’afflittione dell’animo; <lb/>
+et quanto alla Regina si è osservato, che in camera sfoga <lb/>
+con calde lacrime la sua passione; ma fuori mostra vivacità né <lb/>
+perdersi di cuore. </p>
+<p>È ritornato con sua Maestà il cancellier di Bohemia Ruppa, che anc’egli <lb/>
+la solicita per risolutione, et egli in confidenza m’ha detto, che <lb/>
+già s’era risoluto il Re di passar nel Palatinato, et che questo <lb/>
+doveva farsi martedì passato, ma sopragiunto l’avviso di <lb/>
+Inghilterra ha fatto mutar la deliberatione. Disse<ptr target="#tn4" n="4"/> sua Maestà di <lb/>
+chiamata, et desiderata da’ suoi sudditi, quelli di Bohemia <lb/>
+di Silesia, et altri la desiderano, vogliono alcuni signori dar <lb/>
+li tre quarti dei lor beni, ma cosa fatale, non è possibile <lb/>
+poter venir ad una buona risolutione, et se ne compianse <lb/>
+grandemente meco. </p>
+<p>Lettere di Colonia de’ 5 arrivate hoggi portano che Mansfelt <lb/>
+non habbi voluto accordar con Baviera, rifiutando totalmente <lb/>
+come dicono le lettere le montagne d’oro, che gli venivano <lb/>
+offerte. </p>
+<p>Di più confermano quello era<ptr target="#tn5" n="5"/> scritto per avanti, che ’l duca di <lb/>
+Duipont fosse partito da Heidelbergh, come havevano <lb/>
+fatto li più principali in buon numero, prendendo la loro<ptr target="#tn6" n="6"/> <lb/>
+ritirata alcuni ad Helbrun, altri a Strasburgh. Segno, <lb/>
+che tutte le cose caminano in quella parte alla disperatione. </p>
+<p>L’elettor di Magonza con questa occasione comincia ad intentar <lb/>
+attione sopra la pretensione ch’egli ha nel Berghstrat <lb/>
+sperando al presente ricuperarlo. Gratie etc. </p>
+<p>Dall’Haya li 11 ottobre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="329r" facs="10_329r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="329v" facs="10_329v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 336 fin 337 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="104">
+<!--
+<p n="329vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>xi ottobre 1621 ricevute a’ 28 detto </p>
+<p>Del segretario Suriano. n° 336 </p>
+<p>Arivo di Viliers, et suo negotio <lb/>
+con Bohemia, et perplession <lb/>
+di quel Re nel adherir alle persuasive <lb/>
+de Inghilterra. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> First "-m-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Et far … titoli" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "il Re" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Correction in the line above on "haveva" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-oro" corrected above -"a."</p></note>
+</div>
+</body>
+</text>
+</TEI>

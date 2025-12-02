@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.040 date 1620-07-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">040</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 220r-223v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp311-323
+            </note>
+            <biblScope unit="page">220r-223v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Van Aerssen has only written to his father, and not to the States General. He was again present in the assembly to request assistance by Haga in Constantinople and to inform them about the Spanish claims on the Valtellina. Reports that news has been received of praise in Venice of Rocquelaure. Reports he has been visited by a captain Seur, who is the subject of Venice. Waiting for a reply regarding the pirates: Lormes thinks it might be time to leave as he is being prosecuted for something he said against Pellicard in Brussels. Du Maurier, the French ambassador in the Hague, has presented letters to imprison Lormes. Suriano requests further guidance as Lormes is staying in his house and add that he has never taken him to be an angel and will proceed with caution. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-14">14 luglio 1620</date>
+            <num>063</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="063">
+<div type="main" facs="main text of letter" n="063">
+<!--<p>14 luglio 1620, L’Aia (cc. 220r-223v)</p>-->
+<pb n="220r" facs="09_220r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 222 fin 223 </p>
+<p>Serenissimo Principe </p>
+<p>non hanno questi signori coll’ultimo ordinario ricevute lettere dal signor <lb/>
+ambasciator Arsen. Scrive solo al padre, et continu[a]ndo<ptr target="#tn1" n="1"/> a laudar <lb/>
+gl’honorati trattamenti dice, che lasciava per allhora <lb/>
+di scriver in publico perché stava attendendo la risposta <lb/>
+alla sua espositione, copia della quale ricevo nelle lettere della Serenità vostra de’ 25 del passato, insieme con essa risposta <lb/>
+che haveva terminato di dargli. </p>
+<p>Nella medesima veggo quanto haveva risoluto intorno alla <lb/>
+corrispondenza d’ambasciator ordinario da parte, et d’altra <lb/>
+et ch’ella lo haverebbe eletto doppo, che qui havessero <lb/>
+eletto il suo. Di che io tacierò lasciando, come mi com-<lb/>
+manda, che questo sia portato dalle lettere del medesimo <lb/>
+signor Arsen. </p>
+<p>Con quanto vostra Serenità mi accenna nelle medesime lettere sue, et veggo <lb/>
+espresso nella sudetta risposta sono stato questa mattina <lb/>
+alli signori Stati Generali, non havendo potuto farlo prima <lb/>
+per li multiplici affari di questi signori, et con ufficio con-<lb/>
+forme al commandamento della Serenità vostra portai la mia espositione, <lb/>
+non tralasciando concetto, che mi parve poter imprimer <lb/>
+nell’animo dei signori Stati l’interesse non tanto di vostra Serenità <lb/>
+che il commune con queste Provincie. Tutto fu atten-<lb/>
+tamente udito, et doppo haver li signori dell’assemblea <lb/>
+parlato un poco insieme, il Presidente mi confirmò <lb/>
+in lingua latina quello, di che mi ero aveduto nel <lb/>
+corso del parlare, che risentivano assai della maniera del proceder del primo Visir, et mi aggiunse, che <lb/>
+havevano certa speranza, che l’Haghes non haverebbe
+<pb n="220v" facs="09_220v" rend="0"/>
+tralasciato ufficio alcuno per conformarsi colla mente dei signori <lb/>
+Stati intenta al riposo, et quiete della serenissima Republica, al <lb/>
+bene del commune interesse, et al servitio della christianità, et <lb/>
+erano certi, che haverebbe impiegata quell’auttorità, che <lb/>
+pareva, ch’esso Haghes havesse alla porta di Constantinopoli <lb/>
+aggiungendo, che godevano li signori Stati, che vostra Serenità havesse così buone <lb/>
+relationi delli ufficii, che faceva l’Haghes. Et mi ringratiò <lb/>
+della communicatione confidente d’un tal importante avviso. </p>
+<p>Mi ringratiò anco di quanto loro communicai toccante i pen-<lb/>
+sieri de’ Spagnuoli di fomentar humori dentro al paese <lb/>
+de’ Grisoni, far calar genti a quei confini, della mira, <lb/>
+che havevano sopra la Valtelina, et dei fini per li quali a <lb/>
+questo si muovevano; et dall’Eccellenze loro furono conosciuti <lb/>
+quali dalla Serenità vostra vengono descritti nella risposta al <lb/>
+signor Arsen. </p>
+<p>Il tutto rifersi hieri anco al signor principe d’Oranges, c’hebbe <lb/>
+sentimento grande, et concluse la finezza de’ Spagnuoli <lb/>
+esser la sola, che inganna ognuno, et particolarmente <lb/>
+faranno ogni attentato contra la serenissima Republica <lb/>
+onde haveva ella gran occasione di star avvertita. </p>
+<p>Io non mancarò di andar tuttavia nei discorsi privati <lb/>
+facendo con questi signori quelle considerationi, che <lb/>
+merita negotio di tanto momento; o almeno in quanto <lb/>
+saprò loro anderò imprimendo l’interesse commune. </p>
+<p>Gl’avvisi ordinarii, o riporti parlano della condotta del signor <lb/>
+colonello Rocalaura, et alcuni di questi Francesi, che <lb/>
+l’hanno inteso laudano grandemente la serenissima Republica, così
+<pb n="221r" facs="09_221r" rend="0"/>
+fanno anco altri poiché così bene ella tratti chi la serve. <lb/>
+Questo è venuto anco a notitia del signor principe Mauritio <lb/>
+che ha mostrato di stimar<ptr target="#tn2" n="2"/> assai; et lauda <lb/>
+grandemente (come ha sempre fatto) il signor di Rocalaura per <lb/>
+soldato di valore, et d’isperienza, et che può render <lb/>
+vuon servitio a quel serenissimo Dominio. </p>
+<p>Intorno alle navi, et ai conti di esse, non ho d’aggiunger <lb/>
+alcuna cosa all’Eccellenze vostre aspettando, che mi venghino <lb/>
+dalle Amiralità quanto più presto stante la solicitatione <lb/>
+che gliene hanno fatta li signori Stati. Intanto resto <lb/>
+consolatissimo, che habbi trovato buono il riverente av-<lb/>
+viso, et della risolutione presa sopra esso, che coll’eccentissimo <lb/>
+signor ambasciator Trivisano venga<ptr target="#tn3" n="3"/> uno de’ suoi ragionati <lb/>
+a fine di poter con esso agiustar tutte le cose a <lb/>
+a*<ptr target="#tn4" n="4"/> sollevo mio, et particolarmente a sodisfattione della <lb/>
+Serenità vostra. </p>
+<p>Aspetterò anco quello ella mi dirà intorno a diversi particolari <lb/>
+contenuti nelle mie lettere dei 16 del passato toccanti le <lb/>
+navi, capitani di esse, et mogli dei capitani morti. </p>
+<p>Arrivato il capitan Stur<ptr target="#tn5" n="5"/> in questa Provincia fu a vedermi <lb/>
+et mostrando di esser obligatissimo servitore di vostra Serenità <lb/>
+mi ha pregato di confirmarglielo, et insieme, che <lb/>
+sarà a tutt’hore pronto per rivenir a’ piedi<ptr target="#tn6" n="6"/> <lb/>
+di lei quanto ella si compiacerà fargliene far <lb/>
+ogni picciolo moto. </p>
+<p>Attendo con l’ordinario di venerdì prossimo, che risponda <lb/>
+alla data dei 16 del passato ciò che haverà risoluto
+<pb n="221v" facs="09_221v" rend="0"/>
+sopra le informationi havute da quel signor di Lormes per li vas-<lb/>
+seli de’ pirati. Egli pensa, che sia necessario che si ritiri <lb/>
+di qua in qualche luoco, mentre per pica<ptr target="#tn7" n="7"/> particolare per <lb/>
+parole assai alte<ptr target="#tn8" n="8"/>, et ingiuriose espresse contra monsignor <lb/>
+Pelicart agente del Christianissimo in Brusseles par che <lb/>
+sia perseguitato: al qual proposito darò quello che <lb/>
+m’è venuto. Questo signor ambasciator di Francia fu ulti-<lb/>
+mamente a me, et sotto pretesto di visita mi communicò <lb/>
+una lettera del detto monsignor Pelicart, nella quale gli dà <lb/>
+conto di haver havuto ordine dalla corte di far<ptr target="#tn9" n="9"/> <lb/>
+metter prigione detto di Lormes. Mi mostrò la copia <lb/>
+della lettera del re, non so se finta, o reale, o pur <lb/>
+cavata come si suole: tant’è che Pelicart lo prega <lb/>
+che havendo inteso, ch’esso di Lormes si trova <lb/>
+nell’Haya debbi far instanza alli signori Stati, et <lb/>
+al signor principe Mauritio per haverlo prigione perché <lb/>
+questo era servitio del re. L’Ambasciator mi disse confi-<lb/>
+dentemente come mostrò di farlo, che comprendeva per <lb/>
+quello haveva havuto anco da altri della Natione <lb/>
+che questo era particolar odio di Pelicart; ma che <lb/>
+tuttavia havendo inteso ch’era questo signor di Lormes <lb/>
+nella mia casa era venuto ad avertirmi, et conferirmi <lb/>
+quest’ordine che haveva da esso Pelicart, che se non <lb/>
+fosse esso visconte di Lormes uscito dell’Haya vedeva <lb/>
+che non haverebbe potuto far di meno di non tentar la <lb/>
+sua retentione; che non haveva voluto far alcuna cosa per <lb/>
+esser nella mia casa, et però mi pregava, che lo facessi
+<pb n="222r" facs="09_222r" rend="0"/>
+partir di qua acciò potesse scriver ad esso Pelicart <lb/>
+ch’era stato nell’Haya, ma che era partito, et <lb/>
+che fra tanto non lo lasciassi uscire, né veder<ptr target="#tn10" n="10"/> <lb/>
+da qualcheduno de’ suoi; et disse che questo era corsaro, <lb/>
+che voleva dir inganatore, et simil altri concetti <lb/>
+proprii di simil sorte di genti; che mi sono stati <lb/>
+aggiunti anco da qualcheduno di questi Francesi. Io <lb/>
+dissi all’Ambasciatore che lo ringratiavo dell’avviso, <lb/>
+et che esso Visconte era venuto in compagnia <lb/>
+del signor Falghero, et Pasini venetiani, che per suoi par-<lb/>
+ticolari affari erano capitati qui, né altrimenti lo <lb/>
+conoscevo, et che credevo, che esso Visconte risa-<lb/>
+puto questo se ne sarebbe andato da sé medesimo. <lb/>
+Egli come ho detto pensa a sbrigarsi di qua, ma <lb/>
+ancor sta incerto dove habbi a ritirarsi se in qualche <lb/>
+luoco di queste Provincie, o pur passar in Inghilterra <lb/>
+et quivi aspettar fino al termine stabilito con le mie <lb/>
+d’hoggi otto alla più lunga l’ordine, che può <lb/>
+venire dalla Serenità vostra. Non esce di casa, né <lb/>
+si lascia vedere, et sendo tanto prossimo venerdì <lb/>
+alla venuta del dispaccio, credo che si trattenirà <lb/>
+fino a quel giorno per prender poi altra risolutione <lb/>
+che l’Ambasciatore habbi voluto dichiarir questo per <lb/>
+huomo poco buono, io so di non haverlo havuto mai <lb/>
+per un angelo; ma che li corsari si valessero del mezo <lb/>
+suo per esser lor confidente, et della stessa natura: con tanto maggior desiderio adunque aspetto
+<pb n="222v" facs="09_222v" rend="0"/>
+li prudenti ordini della Serenità vostra. In tanto non mancarò di <lb/>
+caminar con ogni maggior cautezza per non pregiudicar <lb/>
+al servitio che si aspetta, et alla riputatione in quanto <lb/>
+si deve. Gratie etc. </p>
+<p>Dall’Haya li 14 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="223r" facs="09_223r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="223v" facs="09_223v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima</p>
+<p>n° 222 fin 223</p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="063">
+<!--
+<p n="223vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 luglio 1620 ricevute a’ 29 detto </p>
+<p>Secretario Surian dall’Haya. <lb/>
+n° 222 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Ink stain.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i-" is the result of a correction; followed by "assai esser" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "v-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "altre" with "-r-" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "-lo" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

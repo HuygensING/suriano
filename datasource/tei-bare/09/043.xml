@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.043 date 1620-07-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">043</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 231r-234v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp323-342
+            </note>
+            <biblScope unit="page">231r-234v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Lormes is staying inside, and he does not know what to do, as Lormes does not want to go to the other captains empty-handed. Expresses he had hoped for more firm action regarding the Admiralty of Amsterdam and their interpretation of the last agreement concluded 14 March 1619. North Holland have sent accounts for their first ships. Letters by Van Aerssen about his leave in Venice and reports to be confused about outstanding payment he is instructed to make by Venice to the heirs of John Ernst of Nassau. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-21">21 luglio 1620</date>
+            <num>066</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="066">
+<div type="main" facs="main text of letter" n="066">
+<!--<p>21 luglio 1620, L’Aia (cc. 231r-234v)</p>-->
+<pb n="231r" facs="09_231r" rend="0"/>
+<head>main text of letter</head>
+<p>prima </p>
+<p>n° 224 fin 225 </p>
+<p>Serenissimo Principe </p>
+<p>dalle precedenti lettere mie d’hoggi quindeci, et da <lb/>
+quelle della settimana passata, che prima, et 2<hi rend="superscript">da</hi> aggiunte <lb/>
+mando replicate, haverà la Serenità vostra intesa la dificoltà, <lb/>
+che faceva quel signor di Lormes, et come disperava del frutto <lb/>
+che potesse apportar quel passaporto, ch’ella mi mandò, <lb/>
+quando doi o tre dei corsari volessero passar a Venetia <lb/>
+a trattar coll’Eccellenze vostre, tenendo tuttavia fermo, che non <lb/>
+haverebbono voluto veder altra patente, che d’un’aboli-<lb/>
+tione assoluta dei loro misfatti. Nel qual caso si sarebbono <lb/>
+condotti unitamente per ubidir al commandamento di quella <lb/>
+serenissima Republica, et separarsi in quelle piazze, o spiaggie, ove <lb/>
+più havesse ella stimato a proposito. Sperava coll’ultimo <lb/>
+ordinario haver qualche cosa per veder a terminatione <lb/>
+di quel affare, et si è trattenuto senza uscir mai di casa <lb/>
+né lasciarsi veder, che ai miei, et sta tuttavia in dubio quello <lb/>
+che doverà fare, et afferma<ptr target="#tn1" n="1"/> , che andar appresso quelle <lb/>
+genti senza cosa sicura in mano sarà un far niente, et <lb/>
+che ’l Pasini non potrebbe ritrar più di quello, ch’è stato <lb/>
+rappresentato, che vostra Serenità non viene a perder alcuna cosa <lb/>
+perché mentre haverà esso Pasini, o chi ordinerà la detta <lb/>
+patente di abolitione non la darà che prima non confronti <lb/>
+tutte le offerte, le promesse, et quanto dal detto visconte <lb/>
+di Lormes è stato rappresentato per dichiaratione, et espres-<lb/>
+sione di ques’affare. Aggiunge esso Visconte, che doi <lb/>
+o tre ancorché si disponessero venir a Venetia <lb/>
+non saprebbono poi per dove far il loro camino. Per terra <lb/>
+non sa ove potessero passare, che non fossero conosciuti da <lb/>
+qualcheduno, et incontrar mala fortuna. Per mare non sa veder <lb/>
+come. Perché venir soli senza vasselli conosciuti da qualche <lb/>
+marinari sarebbe un darsi in preda alla loro ruina
+<pb n="231v" facs="09_231v" rend="0"/>
+o dar nelle mani de’ corsari di Barbaria cioè de’ Turchi, <lb/>
+et simil altre cose mi è andato allegando per confermarmi la <lb/>
+dificoltà d’indurli a separarsi gl’uni da gl’altri se non in luoco <lb/>
+sicuro, et sotto ’l vessilo della Serenità vostra. Questo è quanto posso <lb/>
+dirle in questo proposito, aspetterò la risposta delle mie d’hoggi <lb/>
+quindeci, che deve esser qui per li sette del ventuno. Sentirò <lb/>
+quello m’ordinerà allhora, poché fino a quel tempo ha <lb/>
+promesso di attender la risposta, et la risolutione di lei<ptr target="#tn2" n="2"/> <lb/>
+allegando ancora, che ’l tempo si avanza alla vernata, <lb/>
+et qualche voce, che venisse ad orrecchio d’essi corsari de’ <lb/>
+principi, che armassero per perseguitarli con gl’altri po-<lb/>
+trebbe farli passar in luoco dove non sarebbe pià così facile trovarli. </p>
+<p>Speravo<ptr target="#tn3" n="3"/> di haver con l’ultime lettere della Serenità vostra più espressa <lb/>
+dichiaratione sopra tutti li particolari de’ quali colle mie lettere <lb/>
+de’ 16 del passato le diedi riverente conto esser io stato ri-<lb/>
+cercato da questi signori delle Amiralità. Le lettere de’ 15 marzo <lb/>
+1619 non esprimono al mio povero spirito così chiaramente quello, <lb/>
+di che sono solecitato, et instato di qua; onde la supplico <lb/>
+di nuovo dirmi la sua<ptr target="#tn4" n="4"/> interpretatione sopra l’ultimo <lb/>
+capitolo della scrittura stabilita a’ 14 marzo coi capitani <lb/>
+quello che senti, che se li dia per la perdita al distretto, rimetten-<lb/>
+do essi questo tanto alla publica munificenza. Se vuole <lb/>
+che sia riconosciuta la vedova del capitano del vassello <lb/>
+abbruggiato per li viveri, et altro perso nell’incendio, et quanto. <lb/>
+Se sente che quel Capitano che doppo la morte dell’amiraglio <lb/>
+Kercoven ha havuto il carico habbi anco lo stesso stipendio, <lb/>
+o qualche donativo. Non potrebbono creder l’Eccellenze vostre quanto <lb/>
+sii tormenato<ptr target="#tn5" n="5"/>; et per tanto si compiaceranno aggiungermi <lb/>
+quello di più, che per loro prudenza stimeranno proprio, <lb/>
+et conveniente. </p>
+<pb n="232r" facs="09_232r" rend="0"/>
+<p>Li signori di Northolandia mi hanno mandati pr il loro equipagi-<lb/>
+mastro li conti dei viveri, et dell’esborso de’ salarii ai <lb/>
+matelotti dei loro quattro vesselli. Hora io li vo rivedendo <lb/>
+et confrontando coll’esborsato di là; et sarò pronto <lb/>
+alla fine di questi. </p>
+<p>Aspetterò dall’altre amiralità gl’altri per far la medesima diligenza <lb/>
+finché arrivi il ragionato, che vostra Serenità ha stimato a <lb/>
+proposito di mandar qui, perché rivederà poi con <lb/>
+più facilità il resto. </p>
+<p>Non ho dubio alcuno, che li signori dell’Amiralità, che devono <lb/>
+esser qui hoggi, o dimani per affari di questo Stato mi <lb/>
+torneranno a far nuove<ptr target="#tn6" n="6"/> instanze<ptr target="#tn7" n="7"/> conformi<ptr target="#tn8" n="8"/> alla pas-<lb/>
+sate, et questo è quello, che mi necessita prevenir <lb/>
+collo scriver quello, che m’imagino, che mi ricercaranno. </p>
+<p>Nelle medesime lettere de’ 2 che sicuro con quest’ultimo ordi-<lb/>
+nario ho ricevute le scritture chiamate in esse intorno <lb/>
+gl’ufficii fatti dal signor Arsen, et risposte dategli, che mi <lb/>
+serviranno d’informatione. Et quanto agl’honori, et <lb/>
+buoni trattamenti, che la vostra Serenità gli sono stati fatti sia <lb/>
+ella sicura, et siano sicure l’Eccellenze vostre che li ha l’Arsen <lb/>
+rappresentati, et anco li suoi in modo, che questi signori <lb/>
+ne restano sodisfattissimi, et contentissimi; et havendosi <lb/>
+deputati sette uno per Provincia per haver cura <lb/>
+a trovar casa, a proveder di quello sarà necessario, et <lb/>
+a dar gl’ordini convenienti. Questi sono sempre <lb/>
+insieme, et non tralascieranno cosa alcuna con <lb/>
+che possino concambiare tanta<ptr target="#tn9" n="9"/> dimostratione<ptr target="#tn10" n="10"/> et <lb/>
+d’affetto, et d’honore mostrate verso queste Provincie <lb/>
+nella persona del loro Ambasciatore di quello seguirà, et <lb/>
+sarà stabilito non mancarò di tenerne riverentemente
+<pb n="232v" facs="09_232v" rend="0"/>
+avvisata la Serenità vostra. </p>
+<p>Nelle lettere de’ 3 pur dello stante mi viene l’espressa commissione <lb/>
+di lei di procurar la sodisfattione di sette milla doi cento fiorini <lb/>
+pagati da me per il conte Gio. Ernesto di Nassau, de’ quali <lb/>
+mandai il ricever a’ 11 marzo 1617 et 4 luglio dello stesso <lb/>
+anno nell’ultimo capitolo della terza lettera mia diedi <lb/>
+riverente conto a quell’ eccellentissimo Senato, che li ribattesse, et facesse <lb/>
+far buoni dal signor Conte. Hora che veggo per le lettere di lei esser <lb/>
+successo altrimenti sono restato confuso per l’interesse del publico. <lb/>
+Qui non si trova alcuno herede, et non è altro herede <lb/>
+che ’l padre conte Gioanni, che sta in Alemagna, et hora <lb/>
+governa l’armi nel Palatinato. Con lui bisognerà far capo <lb/>
+et com’è pieno di pretensioni, come con mie lettere de’ <lb/>
+12 genaro 1619 riverentemente accenai, che pensava <lb/>
+farle esprimer a vostra Serenità il che procurai di divertire, et tengo <lb/>
+anco di esse una nota appresso di me, che allhora <lb/>
+le feci apparer al suo secretario non sussistenti; così <lb/>
+sentendo parlarseli di questo, credo bene che lo risentirà <lb/>
+per le poche fortune, che anc’egli ha, et per le sudette pretensioni <lb/>
+tal<ptr target="#tn11" n="11"/> quali elle si siano, che se si compiacerà gliene <lb/>
+manderò copia. Io<ptr target="#tn12" n="12"/> vedute le lettere di vostra Serenità non <lb/>
+potendo altrimenti procurai di trovarmi col pagadore che <lb/>
+fu del Conte per indenter da lui, come era passato questo <lb/>
+affare. Si strinse nelle spalle, né altro mi seppe dire <lb/>
+solo mi avvertì, che fra qualche otto o dieci giorni dove-<lb/>
+va esser qui uno dei consiglieri del conte Gioanni, et che <lb/>
+a lui potrei porger l’instanza perché la portasse al detto signor <lb/>
+Conte tanto per li settemilla doicento fiorini, quanto per <lb/>
+quello, che si trova debitore il detto conte Gioan Ernesto <lb/>
+per munitioni, pagliazzi, et schiavine. Detto consigliero
+<pb n="233r" facs="09_233r" rend="0"/>
+di qua partì la settimana passata per trovarsi all’<lb/>
+interamento in Frisia del conte Guglielmo; et ritornerà qui. <lb/>
+Et io subito non mancarò di trattar seco; et farò quanto <lb/>
+sarà in mio potere. Questo ben desidero esser<ptr target="#tn13" n="13"/> avvisa-<lb/>
+to da vostra Serenità, se vorrà, che in caso di qualche negativa <lb/>
+o dificoltà parli al signor principe Mauritio. La prudenza <lb/>
+della Serenità vostra ponderarlo colla sua riputatione. </p>
+<p>Quanto al vassello, che partì ultimo della levata del Conte <lb/>
+egli uscì del Tessel a’ 10 aprile 1617. Come con mie lettere <lb/>
+de’ 18 del medesimo mese li diedi riverente conto, et fu <lb/>
+quello con la compagnia del capitan Mutoni, che <lb/>
+restò per gl’infortuni<ptr target="#tn14" n="14"/>, che gli successero: onde in <lb/>
+conformità di quant’ella scrive non veggo di haver <lb/>
+a far altro per questo vassello. Gratie etc. </p>
+<p>Dall’Haya li 21 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christtofforo Suriano </p>
+<pb n="233v" facs="09_233v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="234r" facs="09_234r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="234v" facs="09_234v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 224 fin 225 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="066">
+<!--
+<p n="234vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 luglio 1520 ricevute a’ 5 agosto </p>
+<p>Haya. n° 225 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-ei" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "inter" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "tale" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "ho" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "-i" crossed out, uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

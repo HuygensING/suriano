@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.023 date 1621-05-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 107r-108v, 111r-113v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp39-57
+            </note>
+            <biblScope unit="page">107r-108v, 111r-113v, 109r-110v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Carleton has informed him that he received letters from secretary of the king to express his displeasure with agreements made by the princes and especially at the exclusion of his son-in-law. Carleton informed the Palatine and Maurice that the king would restore him to his ancient titles and dignity, who want to see results. He reports that Elizabeth and Frederick V go hunting most days, often accompanied by Maurice. Waiting to see whether king of denmark’s will change something. Maurice tells him that there have never been so many men in arms from the Spanish side and that they have captured 2 ships laden with money and goods. Continued discussion about the desirability of a truce, reports frustration with the Republic due to the delay in appointing an ambassador to Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-10">10 maggio 1621</date>
+            <num>036, 037</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="036">
+<div type="main" facs="main text of letter" n="036">
+<!--<p>10 maggio 1621, L’Aia (cc. 107r-108v, 111r-113v)</p>-->
+<pb n="107r" facs="10_107r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 298 comincia 297 </p>
+<p>Serenissimo Principe </p>
+<p>lettere venute al signor ambasciator d’Inghilterra scritte dal secretario della Maestà del suo Re <lb/>
+a nome di lei portorono avviso del disgusto, et discontento grandissimo <lb/>
+che la Maestà sua haveva ricevuto dell’accordo fatto dai principi et massime <lb/>
+con l’esclusione del suo genero, a quali doveva obligo grande, et simil <lb/>
+altri concetti di sentimento rifertimi dal signor Ambasciator sudetto esprimendoli colla <lb/>
+lettera in mano dall’inglese nella lingua italiana, et più che per suo <lb/>
+nome dovesse assicurar il suo genero, che haverebbe fatto tutto il <lb/>
+possibile, anzi esser risoluto di rimetterlo nei suoi antichi titoli, et <lb/>
+dignità. Questi particolari sono stati communicati all’uno, et all’altro di <lb/>
+questi principi, che li hanno sentiti con contento sì, ma vorrebbono <lb/>
+vederne gl’effetti. Stimorono proprio di riscriver a sua Maestà in <lb/>
+rungratiamento, et ispedirono quel gentilhuomo, che all’arrivo delle <lb/>
+Maestà sue fu qui nell’Haya per essortarli a fermarsi, et non passar <lb/>
+il mare a fine di eccitar sua Mestà a non ritardar quelle provisioni, et quelli <lb/>
+aiuti, che sono proprii a simil effetto. </p>
+<p><hi rend="decoded">Mi</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">disse il signor principe Mauritio a dirla . . . <lb/>
+il re d’Inghilterra vorrebbe, che ’l Re rinontiasse tutte <lb/>
+le sue pretensioni per provisione, et poi fargli haver il <lb/>
+suo patrimonio, o Palatinato, et io lo consiglio a non si <lb/>
+lasciar così facilmente persuadere; ma se ha a rinontiare <lb/>
+una cosa, habbi l’altra in mano. <lb/>
+</hi></p>
+<p><hi rend="decoded">Ho inteso da altra parte, che tenterà il Re perché si <lb/>
+compiaccia, che uno di questi due principi passi in <lb/>
+Inghilterra; ma difficile</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">credo non sarà il persua-<lb/>
+derglielo.</hi> <lb/>
+A monsignor Caron è stata data com-<lb/>
+missione di tentar questo per quanto potrà a nome dell’Eccellenze loro. </p>
+<pb n="107v" facs="10_107v" rend="0"/>
+<p>Confessano questi principi grandissima obligatione alli signori Stati sì per quello, <lb/>
+che hanno fatto sino a qui per loro, come per le dimostrationi amo-<lb/>
+revoli, et affettuose colle quali li danno ogni testimonio di amar <lb/>
+li loro interessi. Si rendono qui familiari con ognuno, et la <lb/>
+Regina in particolare di bellissimo spirito, et ingegno mostra con somma <lb/>
+prudenza et generoso cuore sprezzar l’ingiuria della fortuna. <lb/>
+Non è che in sé non ne risenti fino al cuore, come si può ben <lb/>
+creder; ma non lo mostra, manco il Re mostra il sentimento, <lb/>
+tuttavia sendo di faccia melanconica fa persuader nel difuori <lb/>
+un’interna passione. Vanno quasi ogni giorno fuori a spasso <lb/>
+a ricreatione di caccie, et passeggiando per questo luoco accompagnati <lb/>
+il più delle volte dal signor principe Mauritio. </p>
+<p>Confermassi qui, che Sassonia non si vogli mescolar nell’essecutione contra <lb/>
+lo stato del principe d’Anhalt, et marchese di Jegherdorf, <lb/>
+et che l’elettorato non sia stato assunto dal duca di Baviera <lb/>
+come qualcheduno diceva, né egli manco vuol dar effetto alla <lb/>
+commissione, c’ha dall’Imperatore di metter in essecutione il Palatinato <lb/>
+allegando che non si conoscevano obligati a più, che di assister a sua Maestà <lb/>
+cesarea per far che rihavesse la Bohemia, et che havendo essequito quanto <lb/>
+era di lor dovere tanto doveva bastare. Se questo segue è un <lb/>
+vantaggio assai buono. Diciamo che ’l duca di Baviera arresti <lb/>
+sé stesso in questa risolutione<ptr target="#tn3" n="3"/> a fine di non tirarsi forse<ptr target="#tn4" n="4"/> <lb/>
+adosso l’armi di Danimarca, oltre gl’altri rispetti tocchi da me <lb/>
+riverentemente in precedenti lettere mie del re d’Inghilterra, et della casa. </p>
+<p>Per tutta la metà del mese presente l’armi tutte del medesimo re di Dani-<lb/>
+marca dovevano esser pronte, ma mi disse l’Eccellenza sua che dubitava <lb/>
+grandemente se la trattatione stabilita da principi altererà la <lb/>
+buona volontà sua. Questo Re se ne promette molto, et ogni
+<pb n="108r" facs="10_108r" rend="0"/>
+giorno si sta attendendo con gran curiosità le nuove come haverà <lb/>
+risentita la risolutione dei principi et l’assoluta risolutione che <lb/>
+sia per prender. </p>
+<p>L’ambasciator del medesimo Re si trattiene ancor qui, negotiando la lega con <lb/>
+questi signori et discordano fra lui, et li deputati nel metter giù le <lb/>
+parole più in una, che in un’altra maniera, volendo li stati <lb/>
+fuggir in ogni modo gl’equivochi, che par che dalla parte dell’Ambasciatore per avvantaggiarsi toccante il trafico del Gant. Et quanto all’<lb/>
+assistenza non vorrebbe dichiararla assolutamente ma che si lasciasse <lb/>
+ad arbitrio, et più che fornita la guerra si havesse a restituire <lb/>
+con dar di questo cautione da parte, et d’altra. </p>
+<p>Delle cose di qua siamo al solito non si sentendo maggior motivo di quello <lb/>
+che per avanti haverà inteso, et parlandone con sua Eccellenza mi disse, che <lb/>
+da questa parte si stava a vedere si meravigliò meco, che di qua <lb/>
+Spagnuoli havessero tante armi in piedi arrivando tra Spagnoli Italiani, <lb/>
+Alemani, et d’altra Natione intorno a vinti reggimenti di <lb/>
+infanteria, senza molte compagnie libere. Li reggimenti hanno <lb/>
+le compagnie in numero di dodici fin quindeci per uno, et ogni <lb/>
+compagnia deve esser compita di doicento fanti, et le compa-<lb/>
+gnie libere sono di cinquecento, o almeno devono esser poco più <lb/>
+o poco manco tra questo numero sono compresi quei quattro, o <lb/>
+cinque milla fanti lasciati nel Palatinato. Vi è la cavallaria, <lb/>
+ch’è di<ptr target="#tn5" n="5"/> ottanta quattro compagnie; soggiongendo mai più <lb/>
+hanno havuta tanta gente insieme ne anco quando si faceva <lb/>
+la guerra, a questo si aggiunge una gran quantità di carri, et <lb/>
+apprestamenti diversi per tirar l’artiglieria, oltre una gran <lb/>
+quantità di matelotti, onde la spesa riesce grossissima né so
+<pb n="108v" facs="10_108v" rend="0"/>
+disse ove possi trovar tanto denari, et pur anco in Italia ha delle genti assai. <lb/>
+Intesi da sua Eccellenza che doi vasselli ancora erano stati condotti in Zelanda prese <lb/>
+dalle navi da guerra delli signori Stati con denari, et mercantie. Mi <lb/>
+communicò l’Eccellenza sua in confidenza esserle venuto l’avvertimento del venir di detti vasselli in non pensata maniera. <lb/>
+<hi rend="decoded">Disse</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">entrò un huomo assai ben ad ordine nella mia camera vestito alla brabantese con spada, et venendo <lb/>
+verso me disse, che mi voleva parlare; io feci <lb/>
+retirar a parte alcuni, che erano meco, et nella stessa camera; et egli mi avertì essere stato inviato <lb/>
+da persona, che si tratteneva in Brusseles, che amava <lb/>
+questi stati; et mi faceva sapere, che si aspettavano <lb/>
+cinque vasselli di Spagna con denari di ragione de Spagnoli dello Spinola, et di mercanti genovesi; parte <lb/>
+l’huomo senza che l’habbia più veduto solo haveva detto <lb/>
+a tempo, e luogo si darà a conoscer chi mi manda. <lb/>
+</hi> Io subito scrissi in Zelanda a quelli dell’Amiralità l’avviso <lb/>
+et essi avvertirono li capitani da guerra, che sono stati lesti <lb/>
+tre n’hanno havuto nelle mani, uno s’è salvato a Cales, et <lb/>
+l’altro nel porto di Plemua in Inghilterra. </p>
+<p>Hora sono ricorsi alcuni mercanti, che reclamano sopra la presa <lb/>
+dicendo il carico esser di loro ragione, et li signori Stati hanno <lb/>
+scritto all’amiralità di Zelanda per informatione et doverà <lb/>
+vedersi la causa per giustitia. <lb/>
+<hi rend="decoded">Sua</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">Eccellenza disse sorridendo, sarà difficile che la <lb/>
+vincano. <lb/>
+</hi></p>
+<p>Le cose sta qui pendenti nell’animo di ognuno mentre se sentono </p>
+<pb n="111r" facs="10_111r" rend="0"/>
+<p>Spagnuoli ben provedersi assai in Fiandra per il sospetto maggiore da <lb/>
+quella parte, ma non farsi motivo d’hostilità. Et vi sono di quelli che se <lb/>
+persuadono ancora, che vi habbi ad esser tregua. Quella dama <lb/>
+della quale colle precedenti lettere mie scrissi a vostra Serenità valersi li serenissimi <lb/>
+arciduchi, per far sparger, che desiderano la quiete va ancor su, et giù <lb/>
+postando sempre simil avvisi, et so che si è trovata col principe <lb/>
+Mauritio vorrebbe, che si inducessero li signori Stati a parlare, et a <lb/>
+proporre, ma parmi che non trovi incontro. È donna di spirito, <lb/>
+et vivacità; ma se ne fa poco caso. Con quei signori che venero dalla <lb/>
+parte dei stati a trovarmi com’ho detto nelle mie prime promossi <lb/>
+ragionamento in questo particolar di tregua, dicendo haver presentito <lb/>
+un non so che, et che si voleva, che li signori Stati facessero apertura. <lb/>
+(Fui per cavare). Mi rispose uno di essi francamente questo non si <lb/>
+accostuma in questa Republica ben se alcuno vuol parlare si ascolta <lb/>
+et si risponde poi secondo le cose, ne puoti cavar altro, se non <lb/>
+che questa era voce del volgo. Alcuni si persuadono, che se <lb/>
+fosse proposta dalli arciduchi la tregua colle passate conditioni <lb/>
+forse, che vi si accommodarebbe: tuttavia non par che vi sia appa-<lb/>
+renza, che quelle Altezze habbino ad esser li primi stare attento <lb/>
+a quello si potesse far in questo proposito, se ben l’apparenza <lb/>
+mostra<ptr target="#tn8" n="8"/> più la guerra , che altrimenti. </p>
+<p>S’aspetta qui ben presto il conte Guglielmo di Nassau fratello del già <lb/>
+conte Gio. Ernesto colla compagnia d’infanteria, et cavallaria <lb/>
+che haveva al servitio dei principi ritiratasi molto prima <lb/>
+et di qualche mese nanti la capitolatione accordata da detti <lb/>
+principi stante l’intimatione dello Spinola al padre nel proprio <lb/>
+paese di Sighern. </p>
+<p>Con lui venirà il consigliero del detto conte Gioanni padre con la
+<pb n="111v" facs="10_111v" rend="0"/>
+risposta, che longo tempo fa aspetto, et ho fatta solicitar <lb/>
+diverse volte sopra la commissione datami l’anno passato <lb/>
+dalla Serenità vostra fin sotto li 3 di luglio per ricuperar li 7200 <lb/>
+fiorini, che non sono stati fatti buoni a vostra Serenità da esso conte <lb/>
+Gio. Ernesto nonostante ch’io le mandassi fino del 1617 <lb/>
+nel mese di luglio la ricevuta, et per qualche altro debito <lb/>
+sentirò quello mi farà dire per darne riverente avviso <lb/>
+a vostra Serenità. </p>
+<p>Scrissi alla Serenità vostra colle mie seconde della settimana passata n° 29 <lb/>
+che con le prime vengo allegate in replica, la speranza che <lb/>
+havevo, che nell’assemblea di Holanda si dovesse venir alla <lb/>
+terminatione del punto di mandar ambasciator a Venetia, che <lb/>
+n’ero stato assicurato da diversi, et particolarmente dall’Arsen <lb/>
+non è questo seguito. Coll’occasione della visita, che feci al signor <lb/>
+principe Mauritio volsi veder di saperne la causa, dicendo <lb/>
+che mi pareva un poco strano, che tanto si differisse, rispose <lb/>
+Credete certo che qui sotto non vi è finezza alcuna, ma solo <lb/>
+che non si accordono, né sano trovar persona come vorrebbono <lb/>
+doi sono stati proposti Langarach, ch’è in Francia, et <lb/>
+Bucorst. Per il primo <lb/>
+<hi rend="decoded">sendosi</hi><ptr target="#tn9" n="9"/> <hi rend="decoded">li deputati venuti a consigliar meco, io gli ho <lb/>
+detta la mia opinione, che stante lo stato, in che siamo <lb/>
+con la Francia non stimavo proprio il rimoverlo da <lb/>
+quella corte, ove è ben veduto per mandar un altro <lb/>
+che Dio sa se nominato Francesi non l’havessero voluto <lb/>
+o correr rischio di non voler che vi andasse</hi>
+<pb n="112r" facs="10_112r" rend="0"/>
+<hi rend="decoded">più ambasciator <lb/>
+</hi> et l’avviso mio è stato abbracciato per <lb/>
+buono; quanto a Bucorst ricercato, et tentato perché si con-<lb/>
+tentasse di risolversi di andar a Venetia non l’ha voluto <lb/>
+fare iscusandosene per la sua complessione; onde il negotio per <lb/>
+hora è restato indeciso; ma fra doi settimane doverà di novo <lb/>
+convocarsi l’assemblea, et tengo per fermo disse l’Eccellenza sua che si <lb/>
+perfettionerà questo negotio; et replicò credetemi certo, et <lb/>
+attestatelo a su Serenità, che questa, et non altra causa fa portar <lb/>
+questo negotio in lungo. La provincia d’Holanda come quella, che ha il trafico vuol haver ella questa prerogativa di mandar <lb/>
+ambasciatore et<ptr target="#tn10" n="10"/> oltre li doi sopradetti non sappiamo per hora trovar <lb/>
+in essa persone tali, che siano così capaci per mandar a <lb/>
+risieder presso ad una si gran Republica, ma si troverà <lb/>
+pure, et presto. Scrivete pur a nome mio, che ’l fine è sincero <lb/>
+et inclinato di honorar, et servir quella serenissima Republica. Io dissi, <lb/>
+che tanto haverei significato. Anco hieri sotto pretesto di <lb/>
+visita uno della medesima assemblea d’Holanda mi venne <lb/>
+a vedere, et iscusò con molte parole questa dilatione. </p>
+<p>Io ne sento estremo discontento. Veggo bene, et m’accorgo <lb/>
+che questa nave oltre la mancanza de’ soggetti dalla <lb/>
+imbecillità di questo Governo, et dalla constitutione sua <lb/>
+perché ogni Provincia pretende in simil elettioni; ma più <lb/>
+mi duole perché la Serenità vostra et de Signorie vostre eccellentissime non riceveno <lb/>
+al presente quella sodisfattione così prontamente come si con-<lb/>
+verrebbe, et comporterebbe il servitio publico massime <lb/>
+nelle presenti congiunture. Il che vorrei bene che fosse <lb/>
+seguito un pezzo fa per restar sollevata da questa pur troppo <lb/>
+lunga residenza per me della quale supplico humilmente
+<pb n="112v" facs="10_112v" rend="0"/>
+la Serenità vostra liberarmi di quella maniera, che stimerà più <lb/>
+propria, et degna della sua prudenza. Gratie etc. </p>
+<p>Dall’Haya li 10 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="113r" facs="10_113r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="113v" facs="10_113v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 298 comincia 297 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="036">
+<!--
+<p n="113vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 maggio 1621 ricevute 2 giugno n° 298 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="037" corresp="036" source="109r-110v" >
+<div type="main" facs="main text of attachment I" n="037" corresp="036" >
+<!--<p>Allegato I al n. 36 (cc. 109r-110v; decodifica di cc. 107r, 108v, 111v-112r)</p>-->
+<pb n="109r" facs="10_109r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="109v" facs="10_109v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="110r" facs="10_110r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="110v" facs="10_110v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Mi … persua-|derglielo" decoding of the encrypted text can be found on c. 109r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "forse" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "a" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out number.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Disse … chi mi manda" decoding of the encrypted text can be found on c. 109r; with cross-reference sign.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Sua … vincano" decoding of the encrypted text can be found on c. 109r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "sendosi … più ambasciator" decoding of the encrypted text can be found on c. 109v; with cross-reference sign.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

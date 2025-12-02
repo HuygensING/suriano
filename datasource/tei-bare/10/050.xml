@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.050 date 1621-08-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">050</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 249r-252v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp96-110
+            </note>
+            <biblScope unit="page">249r-252v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters dated 17 July. Rumour in Spain of prolongation of truce as there is no open warfare only small hostilities. Various reports on the amount of money being sent from Madrid to Antwerp for payment of the troops. Frederick V is indecisive and worried about Digby’s negotiations with the Emperor. Reports on a visit he received from Du Maurier on these matters and provides an overview of latest news from the Empire. James I might be armying ships to counter actions against his subjects by the Dutch. Five members from Grisons have arrived in The Hague and visited Suriano. Captain Hornet and Thinen, two germans in service of Venice, licensed to serve in conflict in HRE. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-08-09">9 agosto 1621</date>
+            <num>081</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="081">
+<div type="main" facs="main text of letter" n="081">
+<!--<p>9 agosto 1621, L’Aia (cc. 249r-252v)</p>-->
+<pb n="249r" facs="10_249r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 323 sola </p>
+<p>Serenissimo Principe </p>
+<p>il contenuto delle lettere della Serenità vostra de’ 17 del passato mi servirà d’informatione <lb/>
+della maniera, che mi viene commesso da lei, et conforme all’importanza delli <lb/>
+avvisi. </p>
+<p>Per quello tocca vostra Serenità che passi divulgatione in Spagna, che in questi paesi <lb/>
+habbi ad esser la prorogatione della tregua qui continua a correr la medesima <lb/>
+opinione nell’universale, et massime mentre non si veggono Spagnuoli risoluti <lb/>
+di uscir col grosso dell’armata in campagna: vanno nondimeno ogni <lb/>
+giorno seguendo qualche hostilità, havendo ultimamente Spagnuoli fatti <lb/>
+impiccar sei soldati della guarnigione di Grunighen, ch’erano andati per <lb/>
+riscuoter certa contributione da’ paesani. Tutte le guarnigioni <lb/>
+dei signori Stati hanno ordine di poter lasciar fuori dieci, et dodici soldati <lb/>
+per guarnigione, et fino ai quaranta secondo, che si conoscerà poter <lb/>
+servire ad essequir qualche cosa di buono. La commissione è data <lb/>
+da sua Eccellenza la quale anco in particolare ha auttorizato il duca di Sassonia <lb/>
+detto di Wimar preso ultimamente dalli signori Stati nel suo servitio, con <lb/>
+haverli assignata la compagnia di cavallaria del conte di Holach, di <lb/>
+correr il Paese con altre quattro, o cinque compagnie di cavalli. <lb/>
+Viene detto, c’habbi ricontrati di quelli degl’inimici, che andavano <lb/>
+di convoi con denari per pagamento di soldatesca, che ’l danaro nei <lb/>
+carri si sia salvato, ma rotti, et fuggati i cavallieri. Altri riportano, <lb/>
+et di questo sono lettere alli stati di Holanda, che si siano ritirati <lb/>
+in un castello, et habbino ricusato venir alla zuffa: s’attende <lb/>
+però la certezza dell’avviso. </p>
+<p>Non può tardar, che non si senti di ritorno a Brusseles il corriero, <lb/>
+che fu spedito in Spagna con l’avviso della morte del serenissimo Alberto, <lb/>
+et questo doverà portar ciò c’habbi a farsi da’ ministri spagnoli <lb/>
+da questa parte. Viene<ptr target="#tn1" n="1"/> scritto, che questo corriero si aspettava
+<pb n="249v" facs="10_249v" rend="0"/>
+con desiderio della serenissima Infanta a fine di saper la risolutione di quello do-<lb/>
+verà esser di lei nel particolar del governo, sendo per quanto s’intende risoluta <lb/>
+non accettar altra conditione, che quella della sovranità sin che vive. <lb/>
+Et doppo il signor principe Mauritio è stato avvisato, che alla detta Altezza sia <lb/>
+venuto di Spagna il titolo di regina di Valenza; così m’è stato riferto; <lb/>
+ma vostra Serenità dal luoco proprio haverà havuto più sicuro l’avviso. </p>
+<p>Al primo del presente arrivò a Brusseles corriero di Spagna con provisione (mi <lb/>
+scrive il Pasini) di un million, et mezo di ducati; ma al signor principe di <lb/>
+Oranges viene scritto un millione, et doicento mille da esser esborsati nella <lb/>
+piazza di Anversa da mercanti per via di lettere, non havendosi voluto <lb/>
+aventurar il contante, come hanno fatto per il passato. L’ambasciator <lb/>
+del re della Gran Bertagna alla corte catholica per rincontro di questo <lb/>
+scrive al signor ambasciator Carleton qui, che alla corte erano stati destinati <lb/>
+per Fiandra trecento milla ducati da pagarsi in tre mesi agosto, <lb/>
+settembre, et ottobre, et questi sopra più delli cento trenta milla ducati, che <lb/>
+si rispondono di mese in mese per il pagamento delle militie; et fa quell’<lb/>
+ambasciator giudicio nelle sue lettere, che li Spagnuoli senz’altro vogliono haver la <lb/>
+guerra in questi paesi; et il signor Carleton tiene per certo, ch’ella sarà, et <lb/>
+ben gagliardo<ptr target="#tn2" n="2"/>. La maniera però colla quale Sapgnuoli si governano <lb/>
+da questa parte mostra più tosto di voler far spender, che altrimenti. <lb/>
+è vero che spenderanno anc’essi essendo caricati d’un gran quantità di genti. </p>
+<p>Stando per espirar la tregua nel Palatinato fu procurato a Brusseles, ch’<lb/>
+ella si prorogasse; ma non si ha voluto dar più d’orecchio pigliandosi <lb/>
+per pretesto l’operationi del conte di Mansfelt a suggestioni anco del duca <lb/>
+di Baviera, che haveva ispediti doi corrieri a quella corte uno <lb/>
+doppo l’altro. Col primo avvisava l’entrata nel suo Stato del <lb/>
+conte di Mansfelt; coll’altro, che da lui, et dalle sue genti havesse
+<pb n="250r" facs="10_250r" rend="0"/>
+ricevuto qualche danno; instava però a sua Altezza et al marchese Spinola, che <lb/>
+nel Basso Palatinato si muovessero l’armi a fine di far diversione, et egli <lb/>
+dal canto suo haverebbe fatto ogni cosa possibile per strigliar (come <lb/>
+diceva) il conte di Mansfelt. Ancor non si sa veramente la risolutione presa dall’Altezza sua <lb/>
+et dal suo Consiglio; ma corre una voce non so con qual fondamento <lb/>
+che habbino dalla parte di Brabant ad inviarsi una buona parte di militia alla volta di Alemagna. </p>
+<p>È avvisata questa Maestà, che agl’habitanti dell’Alto Palatinato sia stato <lb/>
+fatto sapere a nome dell’Imperatore di dover lasciar il loro Principe naturale <lb/>
+et ridursi sotto all’obedienza della Maestà sua cesarea altrimenti non aspettassero <lb/>
+altro, che lo sforzo, et la violenza. </p>
+<p>Per questo, et altri avvisi simili sta questo Re perplesso assai, et più perplesso <lb/>
+non havendo ancor nuova alcuna del negotiato di Dighbi coll’Imperatore <lb/>
+dubitando assai dell’essito, et che le conditioni, che saranno proposte <lb/>
+habbino ad esser dure, et difficli ad accettarsi; non si fidando dell’<lb/>
+intramessa del detto Dighbi, et non le accettando di esser totalmente aban-<lb/>
+donato dal re della Gran Bertagna. </p>
+<p>Dall’altro canto non sa promettersi, che ’l conte di Mansfelt possi sussister, né <lb/>
+vede il mezo, come poterlo sostenere. Et mi è stato affermato, ch’esso <lb/>
+Mansfelt habbi fatto pervenir all’orrecchie di questa Maestà, che <lb/>
+non saprà più che fare, mentre non ha con che mantenersi, et che <lb/>
+haverebbe<ptr target="#tn3" n="3"/> fatto il più, c’havesse potuto; ma non potendo più have-<lb/>
+rebbe tentato retirarsi dalla parte di Bethelem Gabor, et lasciando <lb/>
+la sua correr quella fortuna. Di più ho inteso anco che ’l Ruppa <lb/>
+cancelliero di Bohemia, ch’è qui si sia doluto assai dell’irresolutione <lb/>
+del Re, et desidera anc’egli haver qualche cosa della mente <lb/>
+di sua Maestà, o che almeno lo lasci libero di ritirarsi alla parte di </p>
+<pb n="250v" facs="10_250v" rend="0"/>
+<p>Gabor per far il meglio, che gli dava l’animo a vantaggio di quel <lb/>
+Principe, et per salvezza, et sicurezza di sé medesimo. Ma quello, che me <lb/>
+lo disse concluse, che havendosi posto il Re in mano di quello d’Inghilterra <lb/>
+et non havendo il nervo proprio per sostenersi da sé stesso era impossibile, <lb/>
+che potesse altrimenti disponer delle cose sue. </p>
+<p>L’ambasciator di Francia, che fu avanti hieri in questa casa della Serenità vostra a proposito di <lb/>
+questo Principe mi disse, che non dubitava, che gli sarebbe stato restituito il <lb/>
+suo Stato coi titoli, et prerogative proprie, et che come sua Maestà christianissima <lb/>
+si era offerta di far ogni buon ufficio a tal effetto; così l’haveva <lb/>
+commesso al suo agente appresso Cesare; dicendomi di più, che al certo sua Maestà <lb/>
+non haverebbe permesso, che gli fosse levato in alcuna maniera il suo. <lb/>
+Ma che Spagnuoli, et la casa d’Austria vedendo imbarazzata la Maestà sua <lb/>
+nel far venir al dovere li sudditi suoi nel suo Regno si valevano dell’<lb/>
+opportunità per avanzar migliori le loro conditioni, et<ptr target="#tn4" n="4"/> profitar del tempo <lb/>
+per altri suoi interessi; et che questa massima li serviva anco per l’incontro <lb/>
+della Valtelina, confermandomi anc’egli l’ufficio fatto da Pelicart <lb/>
+alla corte di Brusseles, di quello haveva ottenuto per la trattatione del <lb/>
+negotio, et per la restitutione di detta vale, et che vorrà il Re certo che <lb/>
+segui, sendo troppo interessata la sua parola, et la sua riputatione. </p>
+<p>È stato pur confirmato, che ’l duca di Sassonia dovesse star per quest’anno senza <lb/>
+far alcuna cosa a profitto dell’Imperatore. Tuttavia l’agente di questi signori <lb/>
+scrive di Colonia, che vedendo quell’Altezza che ’l marchese di Iegher-<lb/>
+dorf passava avanti colle sue genti, ella con quelle, che haveva in piedi <lb/>
+fosse stata necessitata di farli oppositione; scrivendo anco alli stati <lb/>
+di Silesia in particolare con essortatione di tenersi all’accordo fatto <lb/>
+con lei come commissario<ptr target="#tn5" n="5"/> dell’Imperatore, che si dicchiarava piegio<ptr target="#tn6" n="6"/> della <lb/>
+promessa fatali da sua Maestà cesarea del perdono; che li haveva inviato
+<pb n="251r" facs="10_251r" rend="0"/>
+un reggimento d’infanteria, et una compagnia di cavalli, che li consiglia-<lb/>
+va a sortir in campagna colle genti, che havevano levate, et unirle colle sue <lb/>
+occupando da per tutto li passi più necessarii, et che insieme facessero tutto <lb/>
+ciò, che conveniva per il servitio del Paese. Et altri scrivono, che Iegher-<lb/>
+dorf<ptr target="#tn7" n="7"/> senza dubio anderà ad unirsi con Bethelem Gabor di che <lb/>
+vostra Serenità haverà più sicuri avvisi dal proprio luoco. </p>
+<p>Il re di Danimarca, havendo spediti li suoi affari più importanti con <lb/>
+Amburgh, et Brem, sendo confirmato da più parti quello, che riverentemente <lb/>
+le scrissi la passata settimana della sopravivenza dell’Arcivescovato per <lb/>
+il figliolo ottenuta dal Capitolo; era per licentiar le sue genti; ma prima <lb/>
+il governatore del ducato, o provincia d’Holsteim<ptr target="#tn8" n="8"/> così commandato da <lb/>
+sua Maestà le haveva offerte a questi signori; ma sendone assai cariche, et non <lb/>
+offerendo d’intratenirle hanno ricusato di haverle con ringratiar <lb/>
+detto Governatore dell’offerta. </p>
+<p>Da alcuno viene detto essersi inteso, che l’arcivescovo di Brem havesse deli-<lb/>
+berato di conferirsi alla corte dell’Imperatore per raccomandarsi alla Maestà sua cesarea <lb/>
+mentre pur a lui, che sia stata usata violenza alla sua volontà; et <lb/>
+dubita anco che ’l Re sia per necessitarlo a pigliar per moglie la sorella <lb/>
+del conte d’Oldemburgh per la pretensione che esso Arcivescovo habbi pro-<lb/>
+messo di maritarla, il che nega, et anco per esser sua cugina germana. </p>
+<p>Alli tre deputati dai signori Stati per andar a stabilir la lega contrattata qui <lb/>
+coll’ambasciator di quella Maestà è stato aggiunto uno della provincia <lb/>
+di Grunighen per l’interesse, che ha quella parte di Frisia nel trafico <lb/>
+nei stati di detta Maestà, et credo, che questa settimana verso la <lb/>
+fine partiranno alla volta di Brem piazza destinatavi per la <lb/>
+trattatione; com’ho detto nel mio dispaccio n° 321 fin 322 qui appresso <lb/>
+replicato. </p>
+<pb n="251v" facs="10_251v" rend="0"/>
+<p>Tre doveranno deputarsi dalli signori Stati per Inghilterra questa è la deliberatione <lb/>
+presa; ma non ancor delle persone; né ancor è nominato alcuno per detta <lb/>
+carica. Sono stati all’allarma questi signori et li mercanti in Amsterdam ancor <lb/>
+di certa voce cosa, et confirmata dalla viva voce di qualcheduno venuto di <lb/>
+Londra, che ’l Re era risoluto di armar nuovi vasselli, o far venir <lb/>
+li suoi del Mediteraneo per vendir<ptr target="#tn9" n="9"/> l’ingiuria<ptr target="#tn10" n="10"/> fatta a’ suoi sudditi nell’<lb/>
+Indie. Et più, ch’era risoluta quella Maestà di voler, che fosse libero <lb/>
+l’ingresso, et la sortita de’ porti di Fiandra. Il signor ambasciator Carleton mi <lb/>
+ha detto, ch’egli in questo proposito non haveva cosa alcuna; ma ben <lb/>
+che questi signori haverebbono ben fatto di mandar quanto prima <lb/>
+a sua Maestà. </p>
+<p>Di quello, che habbino fatto quei 200 genilhuomini entrati in alcune <lb/>
+felucche<ptr target="#tn11" n="11"/> delle navi di sua maestà d’Inghilterra destinate contra corsari <lb/>
+di haver fin sotto le mura d’Algieri attaccato il fuoco in alcuni vasselli <lb/>
+di quei pirati qui si è havuto tal avviso, et vostra Serenità con più particolari <lb/>
+l’haverà dalla corte d’Inghilterra. </p>
+<p>Qui è venuta nuova, che essendosi acceso il fuoco in Oppenheim ne<ptr target="#tn12" n="12"/> Pala-<lb/>
+tinato si sia arso più della metà. Dicono, che sia stato accidentale <lb/>
+et che li habitanti si siano mostrati assai renitenti ad accorrer per <lb/>
+estinguerlo ancorché fossero necessitati dalla soldatesca. </p>
+<p>Si trovano in questo luoco cinque Grisoni alcuni habitanti di Coira, et <lb/>
+uno particolarmente, che par capo di essi è di Gruz il qual è stato a vederne<ptr target="#tn13" n="13"/> <lb/>
+sabbato. Dice esser venuto con li suoi compagni tutti giovani per accom-<lb/>
+modarsi a questo servitio, poiché nella loro Patria non sano come <lb/>
+trattenerli; et disegna questo d’informar il signor principe d’Oranges <lb/>
+dello stato delle cose di là, et ricever consiglio da lei, per servitio del <lb/>
+suo Paese. Io l’ho trattato amorevolmente, et fattogli buona ciera
+<pb n="252r" facs="10_252r" rend="0"/>
+dice tutto il peggio di Giffier, et non vorrebbe esser conosciuto da questo <lb/>
+Ambasciator francese. Osserverò quello farà egli, et gl’altri per avvisarne <lb/>
+riverentemente vostra Serenità. In questo mentre non mancarò di dimostrarmele sempre <lb/>
+amorevole; tanto più quanto professa, et attesta esser buon servitore <lb/>
+di quella serenissima Republica. </p>
+<p>Il capitan Hornet alemano, c’ha una compagnia al servitio di vostra Serenità, et <lb/>
+c’hebbe licenza, mancando allhora l’occasioni di là, di potersi venir <lb/>
+ad essercitar in Patria appresso il marchese d’Anspach lasciando il governo <lb/>
+della compagnia al luogotenente suo, m’è venuto a trovare, et dandomi <lb/>
+parte di haver accettata un’altra compagnia al servitio di questi signori <lb/>
+di quelle del Palatinato, m’ha detto che la ritiene sin tanto, che sarà <lb/>
+commandato da lei se haverà bisogno della sua persona, che se <lb/>
+ne ritorni a’ suoi piedi. La supplica però ad honorarlo, che <lb/>
+altrimenti possi trattenersi con sua buona gratia. L’instanza sarà <lb/>
+fatta dal signor Ventura Cavalli avocato in quel palazzo, che presen-<lb/>
+terà anco lettere di sua Eccellenza in raccomandatione di esso capitano Hornet. </p>
+<p>Anco il sargente maggior Thinen di questa Natione, che ha havuta licentia <lb/>
+per sei mesi, havendo inteso, che si sia parlato di qualche difficoltà <lb/>
+per essa la supplica, che non resti interrotta quella gratia c’ha ottenuta <lb/>
+da vostra Serenità per riveder la Patria, et le cose della sua casa. Gratie etc. </p>
+<p>Dall’Haya li 9 agosto 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="252v" facs="10_252v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 323 sola<ptr target="#tn14" n="14"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="081">
+<!--
+<p n="252vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 agosto 1621 ricevuta 26 detto n° 323 </p>
+<p>Haya. Secretario Surian. Sola </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-rdo" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "c-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-g-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-ia" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

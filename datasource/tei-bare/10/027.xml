@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.027 date 1621-05-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 130r-133v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp39-57
+            </note>
+            <biblScope unit="page">130r-133v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the Spanish are confused about capture of two ships and that Spinola had written a letter to Maurice requesting the money back from the ships. At the same time, troops are gathering near confines of Cleves and Jülich. States General have decided to raise 4000 waardgelders (mercenaries). Still waiting for news from Heilbron. Cologne wants neutrality and its ambassadors in republic are frustrated, the Danish ambassador has left. People are not satisfied with response of English and have fabricated some rumours. Describes the funeral of Louise de Coligny in Delft. Calandrini has requested payment. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-05-24">24 maggio 1621</date>
+            <num>043</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="043">
+<div type="main" facs="main text of letter" n="043">
+<!--<p>24 maggio 1621, L’Aia (cc. 130r-133v)</p>-->
+<pb n="130r" facs="10_130r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 302 comincia 301 </p>
+<p>Serenissimo Principe </p>
+<p>mi disse poi sua Eccellenza haver inteso, che Spagnuoli si trovavano molto <lb/>
+confusi per la presa, che si era fatta di quei vasselli condotti in Zelanda <lb/>
+(et la nuova è venuta che doi ancora ne siano presi) poiché non <lb/>
+potendo haver il denaro ch’è stato scaricato; manco potevano <lb/>
+nella borsa d’Anversa haver chi facilmente si disponesse far partito. <lb/>
+Aggiunse il Marchese m’ha scritta una lettera molto efficace <lb/>
+intorno al detto denaro, et si vede dalla detatura, ch’egli <lb/>
+n’è grandemente interessato; anzi mi è stato<ptr target="#tn1" n="1"/> riferto, che <lb/>
+mai più è stato veduto in tanta fugga. Dice nella lettera, <lb/>
+che questi vasselli non doverebbono esser di buona presa, poiché <lb/>
+sono partiti dai porti di sua Maestà catholica in tempo, che se ’l <lb/>
+vento non era contrario potevano capitar assai avanti lo spirar <lb/>
+della tregua; che sua Maestà haveva permesso, che vasselli di questi <lb/>
+paesi che per li mali tempi erano sequestrati nei medesimi porti di sua Maestà <lb/>
+non fossero molestati per tutto ’l mese d’aprile (tuttavia corre <lb/>
+voce, che a Lisbona siano stati arrestati tutti li vasselli di questi paesi) <lb/>
+et che da questa parte si usava troppo rigore. Dicendo, che <lb/>
+da che il mondo, è mondo non s’era mai inteso, che tra <lb/>
+due parti si facesse la guerra; tenendosi l’una quieta, et in <lb/>
+pace; et pregava però per la restitutione. La risposta <lb/>
+non può seguir al suo contento, poiché di qua si pretende <lb/>
+buona presa, et che se il re di Spagna ha fatta habilità <lb/>
+nei suoi stati, che anco di qua si sono lasciati sortir dei
+<pb n="130v" facs="10_130v" rend="0"/>
+vasselli, et che ognuno nello stato suo può constituir leggi. <lb/>
+In effetto dell’argento, et dei denari credo certo, che non siano Spa-<lb/>
+gnuoli per tirarne il suo intento, ben qualche picciola partita <lb/>
+sarà pagata, conosciuto che propriamente sia d’altri, et non per <lb/>
+servitio della corte. Et già Elman d’Anversa ha qualche <lb/>
+intentione per quindeci mille, o poco più fiorini; et il Burlamacchi <lb/>
+di Londra per dieci in dodici milla. </p>
+<p>Verso Rurmonda, Mastricht, Venlò, et altre piazze ai confini <lb/>
+del ducato di Cleves, et Giuliers si fa ammasso di genti delli <lb/>
+arciduchi; altro ammasso si fa anco in Fiandra, et disegnano <lb/>
+Spagnuoli tener questi doi esserciti alla difesa, et haver un <lb/>
+altro essercito volante, et tanto doveranno far li signori Stati. </p>
+<p>É stato riferto qui per cosa certa, che ’l fratello del marchese di <lb/>
+Hanspach, et un fratello del duca di Wirtembergh habbino fatto <lb/>
+offerir alli serenissimi arciduchi levata questo di milla cavalli, <lb/>
+et l’altro di quattro milla fanti; et si teneva per fermo, che <lb/>
+dovesse esser abbracciata l’offerta. Qui par grandemente strano <lb/>
+questo avviso, et si stenta a crederlo. </p>
+<p>Poiché si va approssimando il tempo che sarà proprio per sortir <lb/>
+in campagna hanno li signori Stati risoluto di far far levata <lb/>
+di quattromilla Wartghelders, che doveranno esser ripartiti <lb/>
+come quello dell’anno passato nelle piazze, che ne haveranno <lb/>
+bisogno, di dove si doveranno levar le vecchie compagnie
+<pb n="131r" facs="10_131r" rend="0"/>
+per condurle in campagna. </p>
+<p>Di Alemagna non vi è qui altro avviso se non la resa al conte di Buquoi <lb/>
+di Holemboghen a confini dell’Alto Palatinato. Vi andava a <lb/>
+soccorrerlo il conte di Mansfelt; ma era arrivato tardi. </p>
+<p>L’arcivescovo di Colonia ha qualche armi in piedi necessitato <lb/>
+come dicono li suoi ambasciatori, che sono qui dalla gelosia, che li <lb/>
+viene data dal forte fatto fabricar dai stati sopra il Rheno, <lb/>
+vicino a Bonna, la qual città quel Principe ha fatto forti-<lb/>
+ficar ultimamente. </p>
+<p>Si sta attendendo la risolutione di Helbrun; et dalla Bassa <lb/>
+Sassonia si è havuto messaggero espresso con avviso, che ’l <lb/>
+re di Danimarca marchiava con i suo<ptr target="#tn2" n="2"/> cavalli, et cinque <lb/>
+milla fanti per unirsi ad altrettanti di Bransuich, et si <lb/>
+teneva per fermo, che dovesse andar nel Palatinato, et quivi <lb/>
+fermarsi non per far qualche offesa; ma per osservar <lb/>
+le conditioni, che si vorranno far al re di Bohemia <lb/>
+et servirà di stromento perché siano fatte le migliori. </p>
+<p>Teme l’elettor di Colonia, che quelle genti passino per li <lb/>
+suoi stati, et per questo rinforzerà forse di vantaggio <lb/>
+quella soldatesca, che tiene. </p>
+<p>Viene avvisato da quella parte, che a’ 24 del mese venturo <lb/>
+si habbi a far un convento elettorale a Ratisbona <lb/>
+et che già sia stato intimato, di che vostra Serenità doverà
+<pb n="131v" facs="10_131v" rend="0"/>
+già haverne notitia dalla corte cesarea. Qui si parla, che <lb/>
+detto convento sia per trattar sopra gl’affari del Re palatino <lb/>
+et per stabilir la sicurezza a Cesare nell’Alemagna. </p>
+<p>Li ambasciatori dell’elettor di Colonia si malcontentano assai, che alla <lb/>
+loro propositione di stabilir la neutralità nei termini proprii <lb/>
+di vera, et perfetta corrispondenza sì tardi tanto la risposta, <lb/>
+et ispeditione; massime dalla provincia di Holanda. Li depu-<lb/>
+tati della quale nel concorso della buona volontà, che <lb/>
+mostrano tutte l’altre sei non hanno voluto risolver senza <lb/>
+prima dar notitia all’assemblea, della quale hoggi è il <lb/>
+principio della risolutione, et si lamenta uno d’essi <lb/>
+grandemente del signor cavallier Arsen, che si mostri direttamente <lb/>
+contrario, et vogli, come disse, sostentar l’insolenze, et la <lb/>
+libertà della soldatesca; et trovano molti, che secondano <lb/>
+l’indoglienza contra ’l detto signor Arsen. Questi<ptr target="#tn3" n="3"/> ambasciatori <lb/>
+vogliono haver una risposta chiara, et assoluta, se <lb/>
+pretendono li signori Stati haver sua Altezza et li suoi sudditi per <lb/>
+amici, o per nemici per potersi regolar nel sodisfar <lb/>
+in quanto sarà possibile a queste Provincie, o nella <lb/>
+difesa di sé medesime li ambasciatori di Francia, et Inghilterra <lb/>
+coadiuvano con ufficii la sodisfattione di quelli dell’<lb/>
+arcivescovo di Colonia, et in particolare proferiscono, che <lb/>
+doverebbono conservarsi li vecchi amici, et questo a
+<pb n="132r" facs="10_132r" rend="0"/>
+nome dei loro re; ma sono però ufficii a parte con sua <lb/>
+Eccellenza et con altri. </p>
+<p>L’ambasciator del re di Danimarca partì sabbato passato alla <lb/>
+volta della Maestà sua. Venne a complir meco dan-<lb/>
+domi parte in generale dell’aleanza contrattata con <lb/>
+questi signori, et dicendo, che mirando il suo Re, et questi <lb/>
+stati a quell’oggetto appunto, c’ha la serenissima Republica della conservatione del proprio, sperava, che un giorno <lb/>
+havesse a seguir una maggior congiontione tra sua Maestà <lb/>
+quella d’Inghilterra la Republica, et questi stati, et in fine <lb/>
+molte offerte cortesissime; dichiarandosi obligatissimo a quel <lb/>
+serenissimo Dominio per esser stato da cinque anni in esso, <lb/>
+et massime in Padova, dove haveva fatta la maggior <lb/>
+parte de’ suoi studii. Corrisposi al complimento in termini, <lb/>
+che stimai proprii, et fui prima, che partisse a visitarlo, <lb/>
+et dirle a Dio nel proprio alloggiamento. </p>
+<p>Sabbato mattina fu publicato colla venuta di un soldato in questo luoco, che ’l marchese Spinola fosse stato fatto <lb/>
+prigione tra Andernach, et Coblens, et condotto al re di <lb/>
+Danimarca. Questo avviso riempì di gusto il popolo, <lb/>
+ma quelli, che l’intendevano non l’hanno creduto, et <lb/>
+in effetto non è riuscito vero se non, che quello che l’ha <lb/>
+portato sia un pazzo, tuttavia è stato posto prigione
+<pb n="132v" facs="10_132v" rend="0"/>
+scrivo alla Serenità vostra questo tanto per quello che la fama <lb/>
+potesse rappresentar vanamente anco costì. </p>
+<p>Questi popoli, che tengono <hi rend="decoded">il</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">re d’Inghilterra per irrissoluto a servitio del suo sangue, et havendo compresa <lb/>
+poca sodisfattione nel ritorno delli ambasciatori stati a quella Maestà in questi ultimi <lb/>
+giorni non sapendo che dir altro alcuni si sono lasciati uscir a dire, che quel Re <lb/>
+volendo mostrar in tutte le cose compiacere a Spagnoli, haveva essortato <lb/>
+l’eccellentissimo signor ambasciator Lando, che persuadesse vostra Serenità a non trattener la lega con <lb/>
+questi stati; il che capitato anco all’orecchio del signor ambasciator Carlenton, se ne ha riso <lb/>
+dicendo a me, che poteva assicurarsi, che sua Maestà vorrebbe più tosto stringerla <lb/>
+maggiormente.</hi> <lb/>
+Sono effetti di persone appassionate <lb/>
+né sento a dirne al presente altro. </p>
+<p>Hoggi a Delft un’hora vicino di qua è stato fatto l’interramento alla signora principessa di Oranges. Precedeva alla barra <lb/>
+la carrozza di lei tutta coperta et li cavalli di duolo <lb/>
+poi alcuni gentilhuomini principali con la corona, et
+<pb n="133r" facs="10_133r" rend="0"/>
+insegne della casa. Seguitava il principe Henrico tra ’l duca di Simeren fratello del re di Bohemia, et il figlio del lant-<lb/>
+grave d’Hassia, che gli assistevano dalle parti, sendo <lb/>
+tenuto il mantello con lunga codda da principal signore <lb/>
+di corte. Solo seguiva il signor principe d’Oranges, et solo <lb/>
+poi il re di Bohemia come congionto alla casa. Segui-<lb/>
+tavano molti parenti tanto della casa di Nassau, quanto <lb/>
+di altre famiglie di Alemagna, et del Paese. A questi venivano dietro gl’ambasciatori di Francia, et d’Inghilterra, uno delli <lb/>
+ambasciatori dell’elettor di Colonia, et io. Poi li Stati Generali, il <lb/>
+Consiglio di Stato, li deputati di Holanda, quelli del Gran <lb/>
+Consiglio, et li magistrati di Delft, et di questo luoco; <lb/>
+oltre quantità di colonelli, capitani, et officiali. </p>
+<p>Nella chiesa maggiore è stata sepolta la detta Principessa <lb/>
+appresso il marito. Il concorso delle genti per veder la <lb/>
+cerimonia è stato grandissima, et la Regina anco accompa-<lb/>
+gnata da molte damme principali ha voluto vederla<ptr target="#tn5" n="5"/>. </p>
+<p>Il Calandrini è qui meco, mi ha di nuovo rappresentato <lb/>
+il grave interesse che patisce per il ritorno di rimessa sopra <lb/>
+le lettere mie non pagate<ptr target="#tn6" n="6"/> costì, dicendo, che non era <lb/>
+conveniente, ch’egli dovesse restarne sotto. Io lo <lb/>
+mantengo con buone parole; ma prego vostra Serenità humilmente <lb/>
+che faccia, che se non è seguito, ne segui l’effetto. </p>
+<p>Il duplicato delle mie ultime n° 299 fin 300 è qui aggiunto. Gratie etc. </p>
+<p>Dall’Haya li 24 maggio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="133v" facs="10_133v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 302 comincia 301<ptr target="#tn7" n="7"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="043">
+<!--
+<p n="133vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 maggio 1621 ricevute 16 giugno n° 302 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "ambasciatori vogl" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "il … maggiormente" decoding of the encrypted text present in the upper margin; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "Gratie etc." crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

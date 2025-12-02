@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.074 date 1619-12-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">074</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 379r-382v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">379r-382v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Describes the entry of viscount of Doncaster, the English extraordinary ambassador, into The Hague. He had a formal audience with States General, they did not discuss the potential prolongation of the truce, contrary to what the aggrevated French think. He has visited the ambassador who inquired whether Venice was inclined to assist Bohemia. According to Doncaster the emperor is ill prepared for war, levies and war preparations are on-going. An embassy of Palatinate will travel to England to request support, suriano requests guidance on how to treat this ambassador. Letter by States General protesting against contributions by archbihop of cologne has been sent to France by the archbishop and Suriano attaches a copy of this letter. Henry Balan has arrived in The Hague and complained about his treatment in Venice. Suriano advices that Lando may go and visit him. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-31">31 dicembre 1619</date>
+            <num>126</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="126">
+<div type="main" facs="main text of letter" n="126">
+<!--<p>31 dicembre 1619, L’Aia (cc. 379r-382v)</p>-->
+<pb n="379r" facs="08_379r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 165 comincia 164 </p>
+<p>Serenissimo Principe </p>
+<p>la seconda festa di Natale l’ambasciator straordinario d’Inghilterra <lb/>
+fece ingresso in questo luoco honorato dalla presenza <lb/>
+del principe Mauritio, et dal seguito di quelli della casa, <lb/>
+et di gran compagnia di cavallieri. Si alloggia in casa <lb/>
+del signor ambasciator Carleton, nella quale ha esso signor Carleton <lb/>
+banchettato tutti questi giorni. Questa mattina è stato <lb/>
+a desinar col principe Mauritio, dimani a sera sarà <lb/>
+col principe Henrico; et non si manca di usarli ogni <lb/>
+termine di honore. Non so con che occhio lo vegga <lb/>
+l’Ambasciator francese, poiché a monsignor di Boisise non è <lb/>
+stato fatto tanto. </p>
+<p>Sabbato passato fu esso visconte Doncaster in audienza <lb/>
+de’ signori Stati, che fu di semplice complimento; et <lb/>
+quanto passò fu di toccar, et essortar questi signori <lb/>
+ad haver cura alli affari di Bohemia aiutandoli <lb/>
+in quanto potessero. Fu aggradito l’ufficio, et fu <lb/>
+la risposta generale, se ben quanto al secondo <lb/>
+capo disse il Presidente per esser inteso, che queste <lb/>
+Provincie dal canto loro facevano quel più ch’era <lb/>
+in loro potere. </p>
+<p>Io fui a sua visitatione, et fui accolto da lui con <lb/>
+somma cortesia, come in questa<ptr target="#tn1" n="1"/> parte è <lb/>
+dotato<ptr target="#tn2" n="2"/> di sorte, che oltre il splendore che essercita <lb/>
+si fa amar da ognuno. Appresso altri discorsi<ptr target="#tn3" n="3"/>
+<pb n="379v" facs="08_379v" rend="0"/>
+entrò a dimandarmi se la serenissima Republica sarebbe<ptr target="#tn4" n="4"/> <lb/>
+inclinata ad assister al re di Bohemia. Io gli rispose <lb/>
+che non potevo saper la mente della Serenità vostra in questo <lb/>
+regolandosi ella nelli eventi delli affari del mondo <lb/>
+con quella prudenza, ch’è stata sempre sua propria <lb/>
+ma con quanto il discorso passasse innanti non seppe che <lb/>
+dir della risolutione assolut del Re suo signore questo <lb/>
+tanto disse di creder, che sua Maestà haverebbe fatto quello <lb/>
+se le doveva, et che al suo arrivo in Inghilterra sperava <lb/>
+trovar qualche cosa di buono. </p>
+<p>Li Francesi sono restati molto amartellati tenendo per fermo <lb/>
+che detto ambasciatore havesse a’ signori Stati<ptr target="#tn5" n="5"/> toccato qualche cosa, <lb/>
+et fatta apertura nel negotio della continuatione della <lb/>
+tregua; ma il signor Carleton m’ha detto<ptr target="#tn6" n="6"/> con gran asseve-<lb/>
+ranza, che non ha<ptr target="#tn7" n="7"/> tocco<ptr target="#tn8" n="8"/> pur moto; tanto mi è stato <lb/>
+affermato anco da qualcheduni dell’assemblea delli signori <lb/>
+Stati Generali. </p>
+<p>Par che li signori Stati siano risoluti di tenersi<ptr target="#tn9" n="9"/> sopra li <lb/>
+primi loro propositi di star a veder quello che <lb/>
+seguirà in Alemagna. </p>
+<p>Porta il detto Ambasciatore che haveva lasciato l’Imperatore a mali <lb/>
+termini, et molto mal provisto per la guerra: tuttavia <lb/>
+si sente da tutte le parti, che si faccino, o si voglino far <lb/>
+levate. Il<ptr target="#tn10" n="10"/> baron d’Anolt sopra li stati di Magonza
+<pb n="380r" facs="08_380r" rend="0"/>
+faceva un reggimento d’infanteria, et cavalleria; et <lb/>
+pareva che anco nel paese di Lieges si pensasse di far <lb/>
+levate. </p>
+<p>Qualche Spagnoli a Brusseles vanno dicendo, che ’l Re catholico <lb/>
+difficilmente accorderà che siano levate genti dai paesi <lb/>
+soggetti alli serenissimi arciduchi per mandar in Alemagna <lb/>
+non volendo privarsi di quello che ha; benché manderà <lb/>
+denari; et così levarà anco l’occasione a questi signori di <lb/>
+mandar genti in servitio del re di Bohemia. </p>
+<p>Il conte Gio. di Nassau è tornato di Alemagna per <lb/>
+far cinquecento cavalli pur per l’Imperatore, et il conte <lb/>
+d’Embdem gli assisterà<ptr target="#tn11" n="11"/>; ma si porta il tempo innanti <lb/>
+senza risolutione. </p>
+<p>Qui stano attenti per intender il certo di dette levate <lb/>
+et quello che faranno al presente li principi dell’<lb/>
+Unione. Hanno avviso della loro disolutione dal <lb/>
+convento di Norimbergh, et dell’ispeditione che si faceva <lb/>
+d’un ambasciator che passerà in Inghilterra, et di un altro, che <lb/>
+venirà qui ben presto, et sarà per dar parte di <lb/>
+quanto è seguito in detta Dieta, et dicono anco <lb/>
+della coronatione del signor Principe elettor palatino. </p>
+<p>L’Ambasciata destinata per Inghilterra doverà cavar come <lb/>
+qui si spera l’intentione del Re; onde si desiderereb-<lb/>
+be, che andasse<ptr target="#tn12" n="12"/> presto l’ambasciatore che li<ptr target="#tn13" n="13"/> è destinato
+<pb n="380v" facs="08_380v" rend="0"/>
+a fine di potersi regolar di qua, conforme a ciò che farà <lb/>
+quella Maestà; et poter risponder come si deve all’ambasciator <lb/>
+che sarà destinato a queste Provincie. </p>
+<p>È necessario, ch’io sia avvertito venendo detto ambasciatore come <lb/>
+mi doverò regolare nel complir seco quando lo visiterò <lb/>
+sendo materia degna della prudenza della Serenità vostra. </p>
+<p>La voce dell’Ambasciata che si doveva<ptr target="#tn14" n="14"/> dalla Maestà christianissima <lb/>
+ispedir qui, come fu detto par che si vadi mortificando <lb/>
+et tanto più che con lettere ultimamente arrivate di <lb/>
+Parigi del signor di<ptr target="#tn15" n="15"/> Langarach egli<ptr target="#tn16" n="16"/> non scrive alcuna <lb/>
+cosa di questo particolare: onde si tiene che la publi-<lb/>
+catione sia stata fatta con artificio. </p>
+<p>Par che Spagnuoli si promettino assai dalla Francia per l’Imperatore <lb/>
+tuttavia sono questi signori avvisati da quella corte altrimenti, <lb/>
+come la Serenità vostra lo può molto ben<ptr target="#tn17" n="17"/> haver inteso, et <lb/>
+massime che poco contento si lasci partir l’ambasciator di Cesare. </p>
+<p>In Francia (come sono questi signori stati avvisati) è stata <lb/>
+mandata dall’arcivescovo di Colonia la lettera che contiene <lb/>
+il protesto de’ signori Stati quando egli o altri ecclesiastici vor-<lb/>
+rano trar contributioni: non ha risposto di qua, <lb/>
+et si<ptr target="#tn18" n="18"/> attende l’essito di dette lettere: <lb/>
+se ben qualcheduno dell’assemblea mi disse<ptr target="#tn19" n="19"/> che non tutti havevano <lb/>
+assentito al scriver di dette lettere per non esser obligati <lb/>
+a far quello che in esse asserivano, et così mettersi in
+<pb n="381r" facs="08_381r" rend="0"/>
+compromesso con poca sicurezza di trarne honore. </p>
+<p>Dicono, che si facci una gran colta de danari per soministrar <lb/>
+all’Imperatore, et questi de’ beni ecclesiastico<ptr target="#tn20" n="20"/>: si comprende molto <lb/>
+bene da questa parte, che si farà ogni sforzo da <lb/>
+ecclesiastici, et da principi della Unione catholica; et ogni giorno <lb/>
+si sente che approntano genti, et a nuovo tempo <lb/>
+sperano d’esser provisti per Cesare<ptr target="#tn21" n="21"/> et degl’uni<ptr target="#tn22" n="22"/>, et <lb/>
+dell’<ptr target="#tn23" n="23"/>altre. </p>
+<p>Il signor principe Mauritio desidera<ptr target="#tn24" n="24"/> sopramodo saper quello <lb/>
+va succedendo in Vienna, et sentirebbe di buon cuore, <lb/>
+ch’ella fosse presa da’ Bohemi; ma teme, che si lascino <lb/>
+sopraprender<ptr target="#tn25" n="25"/> dal tempo. </p>
+<p>Invio aggiunta alle presenti quella compositione fatta contra <lb/>
+li stati liberi<ptr target="#tn26" n="26"/>, havendola havuta ultimamente di Colonia, <lb/>
+et che direttamente viene a ferir questi signori, et serà per quelli <lb/>
+dell’Eccellenze vostre illustrissime che havessero gusto di leggerla. </p>
+<p>Con l’occasione del trovarmi questa sera con li deputati, ho <lb/>
+stimato bene di rappresentarli<ptr target="#tn27" n="27"/> quanto mi commette <lb/>
+toccante la persona del signor ambasciator Lando intorno li honori <lb/>
+ricevuti in questo luoco; et mi fu risposto, che poco <lb/>
+havevano fatto verso quel signore rispetto a quello, <lb/>
+che esse desideravano, et sorridendo soggionsero, et <lb/>
+vostra Signoria n’ha levato il modo del farlo: passando altre <lb/>
+parole in tal proposito, che venero a toccar ciò che
+<pb n="381v" facs="08_381v" rend="0"/>
+havevano<ptr target="#tn28" n="28"/> desiderato far meco, a che risposi che <lb/>
+mi godevo<ptr target="#tn29" n="29"/> di esser nella loro buona gratia. </p>
+<p>Mi hanno<ptr target="#tn30" n="30"/> con tal occasione di riduttione raccontato a nome dei <lb/>
+signori Stati l’interesse di quei mercanti, che hanno date <lb/>
+l’armi al conte di Levenstein, che non sono mai stati <lb/>
+pagati. Sue Eccellenze scriveranno, et desiderano anco ch’io <lb/>
+accompagni le sue con le mie lettere, come farò: et sperano <lb/>
+che dalla Serenità vostra li sarà adiudicato<ptr target="#tn31" n="31"/> il stipendio, che <lb/>
+ella<ptr target="#tn32" n="32"/> ha ultimamente ordinato al detto Conte. Se in questo <lb/>
+può<ptr target="#tn33" n="33"/> dar qualche sodisfattione sarà, di certo, aggradito <lb/>
+sopra modo da questi signori che desiderano, che in qualche <lb/>
+parte questi suoi mercanti siano risarciti. </p>
+<p>Il corriero d’Inghilterra del quale scrissi hoggi otto a<ptr target="#tn34" n="34"/> vostra Serenità per <lb/>
+la sua liberatione, doi giorni doppo l’arrivo qui<ptr target="#tn35" n="35"/> del <lb/>
+visconte di Doncaster è capitato con lettere ad esso <lb/>
+Ambasciatore. Ha<ptr target="#tn36" n="36"/> fatto un poco di lamentationi. Anco <lb/>
+l’Ambasciatore istesso ha mostrato meco essergli sommamente dispiac-<lb/>
+ciuto l’interdittione che a’ confini dello Stato suo, li <lb/>
+è succeduta del passar avanti; desiderando sopramodo <lb/>
+venir a presentarsi<ptr target="#tn37" n="37"/> a vostra Serenità, et a veder la città. <lb/>
+Si lamenta ma con gran modestia certo mostrando quasi <lb/>
+di più laudar, che altrimenti un tale nominato Ferdinando <lb/>
+Locatello, che lasciatolo entrar nello Stato alla Petiela<ptr target="#tn38" n="38"/> l’habbi poi <lb/>
+fatto<ptr target="#tn39" n="39"/> sortir fuori. Io con ogni più ufficioso
+<pb n="382r" facs="08_382r" rend="0"/>
+termine ho rimostrato a detto signore qual sia per servitio <lb/>
+publico il rigor del Magistrato<ptr target="#tn40" n="40"/> della sanità; ma che <lb/>
+poteva assicurarsi, che sarebbe spiaciuto alla Serenità vostra <lb/>
+che havesse havuto un simil incontro. Ha mostrato di <lb/>
+restar sodisfatto usando poi meco nei discorsi ogni<ptr target="#tn41" n="41"/> <lb/>
+termine confidente. Egli fa pensiero di partir <lb/>
+di qua sabbato prossimo per Inghilterra. Se così paresse a <lb/>
+vostra Serenità potrebbe far far dall’eccellentissimo signor ambasciator Lando qualche <lb/>
+ufficio seco, che valesse a levarli quel poco di amaro, che <lb/>
+li restasse nello stomaco di essergli stato rifiutato il passo; <lb/>
+questo rappresento con ogni humiltà, et vostre Eccellenze si regolerano <lb/>
+colla prudenza loro. Gratie etc. </p>
+<p>Dall’Haya li 31 decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="382v" facs="08_382v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 165<ptr target="#tn42" n="42"/> comincia <lb/>
+n° 164 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="126">
+<!--
+<p n="382vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 decembre 1619 ricevute a’ 22 gennaro </p>
+<p>Haya. n° 165 </p>
+<p>Ingresso dell’ambasciator estraordinario <lb/>
+d’Inghilterra. Nell’audienza fa ufficio <lb/>
+per Bohemi. </p>
+<p>Lo visita il secretario dimanda egli <lb/>
+se la Republica assisterà al re <lb/>
+di Bohemia, le risponde con <lb/>
+termini generali. </p>
+<p>Francesi dubitano fusse il detto <lb/>
+Ambasciator per negotio di tregua: il <lb/>
+Carleton afferma di no. </p>
+<p>Li Stati vogliono star a veder <lb/>
+li successi di Germania. </p>
+<p>Avvisi diversi. </p>
+<p>Dimando come doverà complir <lb/>
+coll’ambasciator del palatino Re. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue dota depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-a- corretta su -o-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-o- corretta su -i-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue stata depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue che depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Così A."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Aggiunto in sopralinea su non stare depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "I- esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-erà esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "a- esito di correzione."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Precede g- depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-ov- corretto da -ic-, come pare."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "d- esito di correzione."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue scrive depennato."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue saper depennato."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Esito di correzione; segue attendendo depennato."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "mi disse aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Così A."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-e- corretta su -o-."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "de- corretto su per."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "d- corretta su p(er)."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-dera- esito di correzione."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Così A."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "Esito di correzione."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-i corretta su -e."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Precede far meco depennato."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "g- esito di correzione."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-o esito di correzione."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "Seconda -d- esito di correzione."</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "e- esito di correzione."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-u- esito di correzione."</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "Esito di correzione."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "q- esito di correzione."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "H- corretta su F-."</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "Segue a quel depennato."</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> "alla Petiela aggiunto in sopralinea con segno di inserimento; come pare."</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "Precede si può dire depennato."</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> "M- esito di correzione."</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "Segue confi-|denta depennato."</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> "-5 corretto su -4."</p></note>
+</div>
+</body>
+</text>
+</TEI>

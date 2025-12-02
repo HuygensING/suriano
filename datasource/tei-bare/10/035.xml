@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.035 date 1621-06-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">035</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 170r-v, 179r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">168r-169v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Request for payment of 6043 ducats for ship Jonas in service of Venice has been submitted to States General Four texts attached: two letters by States General to the Doge and Venetian Senate in French and in Italian translation</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-26">26 giugno 1621</date>
+            <num>054</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="054">
+<div type="main" facs="main text of letter" n="054">
+<!--<p>26 giugno 1621, L’Aia (cc. 168r-169v)</p>-->
+<pb n="168r" facs="10_168r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>havendo li participanti del vassello nominato Jonas patrone <lb/>
+Adriano Pieterson Leoske d’Encusen fatto ricorso alli eccellentissimi signori Stati <lb/>
+Generali per haver lettere di raccommandatione a vostra Serenità a fine <lb/>
+di poter haver il saldo, et resto del servitio, che ’l detto vassello <lb/>
+ha prestato a quella serenissima Republica ch’è d’accordo di 6043 ducati <lb/>
+li signori Stati medesimi hanno anco fatto raccommandar a me la <lb/>
+sodisfattione di questo loro credito col mezo d’uno della loro <lb/>
+as[se]mblea<ptr target="#tn1" n="1"/> pregandomi, che sendo, come asserivano gl’interessati <lb/>
+il credito liquido la Serenità vostra si compiacesse commandar che fossero <lb/>
+sodisfatti con quella maggior prontezza che meritava l’intercessione <lb/>
+dell’Eccellenze loro, et il tempo scorso sin qui del detto loro credito. <lb/>
+Gl’interessati sono de’ principali mercanti d’Amsterdam <lb/>
+et l’affetto col quale ne sono stato pregato dal detto Deputato <lb/>
+fa che anc’io sodisfacendo all’instanza supplichi humilmente <lb/>
+la Serenità vostra per la pronta solutione, et sodisfattione<ptr target="#tn2" n="2"/> del <lb/>
+sudetto credito. Gratie etc. </p>
+<p>Dall’Haya li 26 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="168v" facs="10_168v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="169r" facs="10_169r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="169v" facs="10_169v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="054">
+<!--
+<p n="169vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 zugno 1621 ricevute a’ 6 ottobre<ptr target="#tn3" n="3"/> </p>
+<p>Stati </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "so-" corrected above "p-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

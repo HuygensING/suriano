@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.040 date 1617-01-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">040</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 242r-243v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">242r-243v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Short letter of recommandation on behalf of Baron Clutin who will be serving the Venetian Republic and will travel overland to Venice before joining the military camp. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-01-05">5 gennaio 1617</date>
+            <num>075</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="075">
+<div type="main" facs="main text of letter" n="075">
+<!--<p>5 gennaio 1617, L’Aia (cc. 242r-243v)</p>-->
+<pb n="242r" facs="05_242r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>havendo il signor di Clutin intrapreso di servir la Serenità vostra con <lb/>
+una compagnia sotto ’l commando del signor conte Gio. Ernesto, <lb/>
+et facendo il viaggio per terra prima che passar al <lb/>
+campo ha risoluto di presentarsi a’ piedi della Serenità vostra <lb/>
+per darsele a conoscer: mi ha però fatto ricercare <lb/>
+di dargli mie lettere per lei; et io ho stimato mio <lb/>
+debito il<ptr target="#tn1" n="1"/> sodisfar all’instanza: perché anco con <lb/>
+esse lo conosca per uno de’ principalissimi soggetti <lb/>
+di questi paesi, essendo della vera casa di Brede-<lb/>
+rod orignale<ptr target="#tn2" n="2"/> de’ conti di Holanda: et nel <lb/>
+resto sarà proprio della grandezza di vostra Serenità <lb/>
+far quello che per sua prudenza stimerà con-<lb/>
+venirsi al merito di questo Signore. Gratie etc. </p>
+<p>Dall’Haya a’ 5 genaro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissmo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="242v" facs="05_242v" rend="0"/>
+<p>Blank page</p>
+<pb n="243r" facs="05_243r" rend="0"/>
+<p>Blank page</p>
+<pb n="243v" facs="05_243v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="075">
+<!--
+<p n="243vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 gennaro ricevuta a’ 3 maggio </p>
+<p>Secretario Surian dall’Haya </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer; "-e" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

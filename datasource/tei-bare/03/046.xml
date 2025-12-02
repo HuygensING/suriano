@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.046 date 1617-02-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">046</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 289r-290v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">289r-290v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Pasini has visited him in The Hague to recommend the services of various soldiers, who have served the archdukes but now wish to return and serve the Venice. Studder will leave soon for Venice and no further news from Belgioioso.  </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-11">11 febbraio 1617</date>
+            <num>098</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="098">
+<div type="main" facs="main text of letter" n="098">
+<!--<p>11 febbraio 1617, L’Aia (cc. 289r-290v)</p>-->
+<pb n="289r" facs="03_289r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">a</hi><ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>il Pasini è stato a ritrovarmi per darmi conto di haver <lb/>
+fermato l’alfier Michiel Pagano dello stato di Milano <lb/>
+soldato valoroso, con quattordici ducati il mese et prender <lb/>
+lettere da me per vostra Serenità, che gli ho date. </p>
+<p>Mi ha con tal occasione portate a vedere diverse fedi di un tal <lb/>
+capitan Giulio Cesare Pozzo venetiano, che trenta<ptr target="#tn2" n="2"/> anni <lb/>
+sono serve li serenissimi arciduchi nella cavallaria huomo nell’<lb/>
+età di cinquanta doi anni esperimentato, et valoroso, et <lb/>
+che nel tempo de’ motivi con sua santità il conte di Fuentes <lb/>
+lo mandò a chiamar a sé per dargli carico di una compa-<lb/>
+gnia di cavallaria; ma accommodate le differenze restò <lb/>
+senza l’effetto, et tornò alla sua piazza. Io gli ho dato ordine, <lb/>
+che lo fermi con cinquanta ducati in circa il mese dicen-<lb/>
+domi, che credeva, che di tanto si sarebbe potuto con-<lb/>
+tentare. </p>
+<p>M’ha riferto, che l’alfier Lobello vorrebbe prima di partire <lb/>
+esser sicuro del soldo che ricercava de’ 22 ducati per <lb/>
+mese; ma che haverebbe procurato, che si risolvesse <lb/>
+della maniera, che mi haveva fatto scriver. </p>
+<p>Mentr’egli era in camino per qua, le lettere, che gli scrissi <lb/>
+per il fermar del cavallier Studler<ptr target="#tn3" n="3"/> erano<ptr target="#tn4" n="4"/> in viaggio <lb/>
+per Brusseles; di maniera che al suo arrivo in quella <lb/>
+città, che sarà dimani, se il mal tempo non gli haverà
+<pb n="289v" facs="03_289v" rend="0"/>
+impedito il passar in Anversa, lo eviterà al partir immediate <lb/>
+del conte Giovanni Giacomo Belgioioso mi ha detto che non havea <lb/>
+più parlato doppo che l’eccellentissimo signor ambasciator Giustiniano li haveva <lb/>
+scritto, che suspendesse la trattatione, et mi ha replicato <lb/>
+che quel cavalliere è tanto oppresso dalla gotta, che crede <lb/>
+certo, che vostra Serenità non possi riceverne servitio: con tutto <lb/>
+questo intenderà se gli sarà tocco alcuna cosa senza obligo <lb/>
+et me l’avviserà. </p>
+<p>Mi ha raccordato esso Pasini un Luca Cairo capitan de’ cava[lli] <lb/>
+et un Gioanni Cesati commissario general della cavallaria <lb/>
+ambidoi di cinquant’anni in circa huomini valorosi, <lb/>
+amati, et ben trattati da sue Altezze, et da Spagnoli. <lb/>
+Disse che l’uno, et l’altro sono cognati dei Valimens <lb/>
+mercanti in quella città, et che col mezo loro vostra Serenità <lb/>
+potrebbe saper molto bene se si conducessero volontieri <lb/>
+al servitio di lei; ch’egli haverebbe trovato qualche <lb/>
+mezo per farli parlare; ma non havendo gran amicitia <lb/>
+o persona in tutto confidente non gli bastava affatto <lb/>
+l’animo di promettermi del farlo; che ’l mezo di <lb/>
+cognati sarebbe stato ottimo. Gratie etc. </p>
+<p>Dall’Haya a’ xi febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="290r" facs="03_290r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="290v" facs="03_290v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="098">
+<!--
+<p n="290vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1616 [11 febraro] ricevute primo marzo detto </p>
+<p>Haya. 2<hi rend="superscript">da</hi> </p>
+<p>1. Ha dato lettere all’alfier Michiel Pagano <lb/>
+soldato valoroso avvisato dal Pasino Pasini per ducati 14 al mese. <lb/>
+Ha dato ordine di fermar con ducati 50 al mese <lb/>
+il capitan Giulio Cesare Pozzo venetiano esperimentato <lb/>
+et valoroso che già 30 anni serve nella kavallaria<ptr target="#tn5" n="5"/> d’Alberto <lb/>
+che l’alfier Lobello voleva esser prima sicuro <lb/>
+del soldo di ducati 22 al mese; mi procurerà <lb/>
+che si contenti al modo già scritto. </p>
+<p>2. Sarà eccitato a partir immediate il <lb/>
+cavalier Studer. <lb/>
+Del Belgioioso non ha il Pasini trattato <lb/>
+altro. È oppresso dalla gotta in modo, che poco servitio se ne può ricever. </p>
+<p>3. Raccorda il Pasini un Luca Cairo <lb/>
+capitan de’ cavalli, et un Giovanni Cesati commissario <lb/>
+general della cavallaria, valorosi, e stimati. <lb/>
+Sono cognati dei Valemens di Venetia <lb/>
+col mezo de’ quali si potrà saper la loro intentione <lb/>
+non havendo il Pasini mezo sicuri con essi. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "2" corrected above "3."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

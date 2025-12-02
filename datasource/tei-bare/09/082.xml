@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.082 date 1621-01-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">082</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 411r-413v, 420r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">411r-413v, 420r-v, 414r-v, 419r-v, 415r-v, 418r-v, 416r-417v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that captain Storm has visited him to discuss ship rental and Amstenraedt will arrive soon. Johann Georg Holzappel Melander has visited Suriano to discuss the treaty and conditions for a levy by his brother Pieter Milander, reports large levies by States and that it will difficult as well as expensive to find a levy for Venice. Four documents are attached: two copies from a letter by a colonel Pietro Milander to his brother; a letter to Pietro Milander and a memorial written by Georgio Holtzapel on the levy of troops by Milander</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-01-12">12 gennaio 1621</date>
+            <num>125, 126, 127, 128</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>12 gennaio 1621, L’Aia (cc. 411r-413v, 420r-v)</p>-->
+<pb n="411r" facs="09_411r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 263 fin 264 </p>
+<p>Serenissimo Principe </p>
+<p>era partito d’un giorno il messaggiero d’Anversa col mio <lb/>
+dispaccio d’hoggi otto n° 261 fin 262 qui in copia quando <lb/>
+venne a me d’Amsterdam il capitano Storm. A lui communi-<lb/>
+cai il mio senso per haver vasselli per condor soldatesca <lb/>
+et egli volontieri intraprese la carica partendo la sera <lb/>
+stessa di ritorno in Amsterdam per informarsi sotto <lb/>
+mano, havendoli incaricato, et egli promessomi di pro-<lb/>
+curar ogni maggior vantaggio per servitio di quella <lb/>
+serenissima Republica. Con lettere poi del giorno d’hieri m’avvisa <lb/>
+in sostanza, che haveva trovati li noli de’ vasselli in <lb/>
+grandissima carestia; et più trovati li patroni d’essi poco <lb/>
+devoti a far quel viaggio, memori delle precedenti; ma che <lb/>
+con tutto questo non mancava di andar tentando, et <lb/>
+procurando di cavar il vantaggio, che si desidera <lb/>
+et che mi sarebbe poi venuto a riportar quanto havesse <lb/>
+operato, rifferendosi a ciò che mi haverebbe scritto <lb/>
+il signor Filippo Calandrini con chi haveva conferito il <lb/>
+negotio. Esso Calandrini dandomi conto di haver <lb/>
+havuto avviso dal Noirott di Venetia, che vostra Serenità haveva <lb/>
+fatto accordar seco per vintimilla stava de’ formenti <lb/>
+a lire vinti il staro moneta di banco, aggiungendomi <lb/>
+esser più avantaggioso di quello il signor Dardani a nome <lb/>
+haveva contrattato allhora, che a tal effetto andò <lb/>
+in Amsterdam, mi dice che per supplir al resto oltre <lb/>
+dodici milla stara, che sono in camino fino alla
+<pb n="411v" facs="09_411v" rend="0"/>
+summa di vintimilla haveva noleggiato un vassello per il quale <lb/>
+li conveniva pagar cinquanta fiorini per lastro, soggiungendo <lb/>
+che questo verrebbe molto mal a proposito per l’altro disegno <lb/>
+della condotta de’ soldati. Se questo sta così come mi <lb/>
+scrive, a troppo alto, et troppo essorbitante prezzo ascen-<lb/>
+derebbe il costo della condotta de’ soldati<ptr target="#tn1" n="1"/> perché un <lb/>
+vassello di doicento lasti importerebbe a cinquanta fiorini <lb/>
+per lasto dieci milla fiorini. Questo mi mette terrore; <lb/>
+tuttavia starò attendendo ancora il ritorno del capitano Storm. </p>
+<p>Non credo, che possi tardar molto a comparer qui il signor <lb/>
+colonello Amstenraedt per trattar seco della levata, <lb/>
+al qual proposito ho havuto un incontro, che mi fa <lb/>
+temer tanto maggiormente dell’essito di essa, oltre <lb/>
+quello che si parla per il nolo de’ vasselli. Et è che ’l <lb/>
+fratello del signor luogotenente Pietro Milander, ch’è <lb/>
+al servitio della Serenità vostra è venuto a comunicarmi <lb/>
+il trattato nel qual si trovava con quella serenissima <lb/>
+Republica il detto suo fratello per levata di tre milla <lb/>
+fanti, dicendomi l’offerta, che gli era stata fatta <lb/>
+di vinticinque ducati per testa, et di 36 lire di <lb/>
+Venetia per paga al mese; mostrandomi le lettere <lb/>
+del fratello, et dell’agente di lui; et mi ha anco <lb/>
+data copia dei capitoli dell’una, et dell’altra, <lb/>
+che contendono questo particolare li quali ho stimato <lb/>
+bene di aggiunger alle presenti. Poi m’ha fatte
+<pb n="412r" facs="09_412r" rend="0"/>
+molte considerazioni in voce, toccante la difficoltà, che ’l <lb/>
+suo fratello potrà incontrar nel far detta levata, che ’l <lb/>
+donativo era poco, che la gente o la soldatesca ne’ presenti <lb/>
+tempi, che si fanno molte levate sarebbe stata carissima <lb/>
+et altre considerationi, che perché me le ha poi date <lb/>
+anco per scritto le invio nell’aggiunto foglio senza <lb/>
+replicare nelle presenti potendo ella farsele legger <lb/>
+con li doi capitoli sudetti. </p>
+<p>Con questo incontro trovomi con non poca sospensione d’animo <lb/>
+non potendo se non dubitare, che come questo gentilhuo-<lb/>
+mo, ha comunicato a me tutti questi particolari <lb/>
+dandomeli anco per scritto passi haverli conferiti all’<lb/>
+orecchio dell’Amstenraedt, onde si aprì a lui largo <lb/>
+campo di non voler accettar il partito, che dovevo pro-<lb/>
+porli in conformità del comandamento della Serenità vostra <lb/>
+nelle sue lettere de’ primo del passato delle quali con <lb/>
+l’ordinario, che mi capitò hieri a sera n’hebbi la <lb/>
+replicata. Se di là il Milander mostra difficoltà <lb/>
+di accettar li vinticinque ducati di donativo per testa, <lb/>
+et le 36 lire per mese, et qui il fratello la fa <lb/>
+maggiore particolarmente quanto a detto donativo; può <lb/>
+ben la prudenza di vostra Serenità comprender, che <lb/>
+tanto maggiore sarà quella dell’Amstenraedt <lb/>
+se con soli 18 ducati si vorrà accordar per la sua
+<pb n="412v" facs="09_412v" rend="0"/>
+levata come mi è prefisso da lei. Al suo arrivo tratterò <lb/>
+seco, et sentirò qual sia la sua intentione per darne imme-<lb/>
+diate riverente conto alla Serenità vostra. </p>
+<p>Col Vander Horst nominato nella scrittura del signor Milander <lb/>
+per occasione di visita entrando in discorso ho cavato, <lb/>
+che si lascerebbe impiegar con condotta di genti in <lb/>
+servitio della Serenità vostra ma non ho potuto evitar che <lb/>
+si conducese altrimenti ad accettar partito, che con <lb/>
+haver un mese di paga per la levata, che gli fosse <lb/>
+pagato il transporto, corresse lo stipendio dalla prima <lb/>
+mostra, et egli sodisfar per li viveri, et che li mosti <lb/>
+fino alla seconda mostra, che s’intende nel stato <lb/>
+di vostra Serenità fossero sodisfatti; io gli ho accennata l’inten-<lb/>
+tione di lei mi disse, che l’haverebbe considerata <lb/>
+et poi mi haverebbe parlato; né più l’ho veduto; <lb/>
+segno che non li sodisfa. Se vostra Serenità può accordar di là <lb/>
+lo facci perché meglio potrà far capir il suo senso, <lb/>
+et stabilisca chiaro, et fermamente a’ fine che non vi sia <lb/>
+a ridire, et si figuri per certo, che così è in effetto <lb/>
+che ’l rumor di levate è qui grandissimo. Questi <lb/>
+signori leveranno otto, o nove milla fronti in circa può esser che <lb/>
+li serenissimi arciduchi ne levino altrettanti. Per l’Imperatore <lb/>
+se ne leverà in Brabant. Per Danimarca, per li paesi della Bassa Sassonia per li principi dell’Unione ci sono le <lb/>
+nuove di levate, et si può con fondamento creder, che ’l
+<pb n="413r" facs="09_413r" rend="0"/>
+soldato si accommoderà più tosto a pigliar partito per terra, <lb/>
+che per mare; et se per mare vorrà esser pagato né so <lb/>
+a dirla (con humiltà) liberamente se vorrà dar d’orecchie <lb/>
+a venir a cominciar a pigliar la sua paga sino a <lb/>
+Venetia. Hoggi che sono stato a visitar il signor principe <lb/>
+Mauritio, entrando in discorso di queste tante levate <lb/>
+feci di nuovo cader a proposito se bisognasse genti alla <lb/>
+Serenità vostra; et sua Eccellenza mi disse havereste una gran difficoltà, <lb/>
+et vi bisognarebbe ben spender più di quello havete <lb/>
+fatto per il passato. Il mio debito è di rappresentar tutto <lb/>
+colla mia solita devotione alle Signorie vostre eccellentissime le aggiungerò <lb/>
+anco perché il servito di lei mi fa animo a replicarle <lb/>
+quello, che altre volte le ho scritto, che se accorda levata <lb/>
+di là col Milander, o con altri facci far la rimessa <lb/>
+del denaro su la piazza di Amsterdam a vista, o <lb/>
+al più a mezo uso per haver la prontezza dell’esborso <lb/>
+et in questo almeno il vantaggio per la summa del <lb/>
+denaro perché saprà quanto ne haverà a rimetter <lb/>
+accordando anco con quelli, che intraprenderanno <lb/>
+la levata quanti fiorini li vorrò dare in Holanda <lb/>
+per 25 ducati; non sentendo espressione se ’l ducato <lb/>
+habbi ad esser o corrente, o di moneta di banco. </p>
+<p>Ritornorono li signori dell’amiralità di Notholandia con <lb/>
+quali il signor Dardani, et io andamo riducendo li conti <lb/>
+a termine dello stabilimento di essi, et quello, che non
+<pb n="413v" facs="09_413v" rend="0"/>
+vedremo di poter accordare lascieremo per haverne l’autto-<lb/>
+rità dalla Serenità vostra. Se si conformassero nell’operare colla <lb/>
+maniera del signor Dardani, già saressimo a’ fine con <lb/>
+essi, et con l’altre doi Amiralità a buon termine, <lb/>
+ma non è possibile alterar la natura flematica, <lb/>
+et dar calore alla fredezza, et alla lentezza, ch’è <lb/>
+in queste genti. Spediti questi di Northolandia <lb/>
+attenderemo agl’altri. Gratie etc. </p>
+<p>Dall’Haya li 12 genaro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="420r" facs="09_420r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="420v" facs="09_420v" rend="0"/>
+<p>Al serenissimo principe di <lb/>
+Venetia </p>
+<p>prima <lb/>
+n° 263 fin 264 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="420vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 gennaro 1620<ptr target="#tn2" n="2"/>. Ricevute 28 detto n° 263 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="126" corresp="263" source="414r-v, 419r-v" >
+<div type="main" facs="main text of attachment I" n="126" corresp="263" >
+<!--<p>Allegato I al n. 263 (cc. 414r-v, 419r-v)</p>-->
+<pb n="414r" facs="09_414r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere prime del secretario Suriano dall’Haya n° 263 </p>
+<p>Copia d’un capitolo di lettera del signor luocotenente <lb/>
+colonello Pietro Milander scritta al fratello all’Haya </p>
+<p>Li signori di questo Stato mi hanno fatto presentar di far levata <lb/>
+di tre milla fanti; ma a conditione tale, ch’io non la posso <lb/>
+intraprender, cioè che mi daranno vinticinque ducati <lb/>
+per soldato havendolo condotto qui nel loro Paese. A che <lb/>
+io ho fatta far risposta, che io non voglio far mercantia <lb/>
+con il mio Principe, ch’io non voglio guadagno; ma <lb/>
+che di suo commento me ne passerò in Holanda per far tutto <lb/>
+quello, che un buon servitor può far per la levata; et che <lb/>
+appresso se ’l suo residente per di là la può far condor per <lb/>
+dieci ducati o meno se potrà lo facci, ch’io lo desidero.
+<pb n="414v" facs="09_414v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="419r" facs="09_419r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="419v" facs="09_419v" rend="270"/>
+<p>n° 1 </p>
+<p>Capitolo di lettere del <lb/>
+luogotenente colonello Milander <lb/>
+al fratello suo </p>
+<p>nelle prime n° 263 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="127" corresp="263" source="415r-v, 418r-v" >
+<div type="main" facs="main text of attachment II" n="127" corresp="263" >
+<!--<p>Allegato II al n. 263 (cc. 415r-v, 418r-v)</p>-->
+<pb n="415r" facs="09_415r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere prime del secretario Surian dall’Haya de’ n° 263 </p>
+<p>Copia d’un capitolo di lettera scritta di Venetia <lb/>
+al fratello del luocotenente colonello Pietro Milander <lb/>
+all’Haya. </p>
+<p>Per la levata non vuole il Principe conceder più che trenta <lb/>
+lire venetiane per testa nonostante che, il signor Isaac <lb/>
+Antonio Luz, il qual anc’egli m’aiuta havemo fatto <lb/>
+tanto, che la Republica noi ha offerto trenta sei lire per <lb/>
+huomo di paga et 200 ducati venetiani per li officiali <lb/>
+al mese, ma tutte queste conditioni benché paiano <lb/>
+buone non sono da accettare, essendo la paga troppo <lb/>
+picciola. Oltre di ciò bisogna, che ’l Colonello procuri le <lb/>
+navi, et spese in fino a Venetia per il che il Principe <lb/>
+darà 25 ducati per la detta condotta d’ogni soldato <lb/>
+et la paga di trenta sei lire al mese incomincierà prima havendo fatta la mostra in Venetia. Cosa, che ’l signor <lb/>
+vostro fratello non vuol arrischiare, ma vuol ben far <lb/>
+la levata a 40 lire il mese al manco per huomo, et li <lb/>
+200 ducati per li officiali, far la mostra in Holanda, <lb/>
+et che immediate la paga corra; poi in quanto al condurli in nave, che ’l residente in Haya accordi <lb/>
+con li patroni delle navi a quel miglior prezzo, <lb/>
+che si puode. Egli non si vuol metter a questo rischio.
+<pb n="415v" facs="09_415v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="418r" facs="09_418r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="418v" facs="09_418v" rend="270"/>
+<p>n° 2 </p>
+<p>Capitolo di lettera dell’agente <lb/>
+del Milander scritte al fratello <lb/>
+di lui </p>
+<p>nelle prime 263 </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="128" corresp="263" source="416r-417v" >
+<div type="main" facs="main text of attachment III" n="128" corresp="263" >
+<!--<p>Allegato III al n. 263 (cc. 416r-417v)</p>-->
+<pb n="416r" facs="09_416r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere prime del secretario Surian dall’Haya de’ n° 263 </p>
+<p>Memoriale dato dal signor Gio. Georgio Holtzapel <lb/>
+detto Milander fratello del signor luogotenente colonello Milander <lb/>
+toccante la levata proposta ad esso Luogotenente colonello, <lb/>
+et le difficoltà per essa. </p>
+<p>Per sodifar alla mia promessa qui ho congionti insieme li miei <lb/>
+concetti, li quali potranno rappresentar quelle difficoltà, et ostacoli, <lb/>
+che possono ragionevolmente impedir un colonello di far una levata <lb/>
+di doi o tre milla fanti al prezzo, et con le conditioni proposte a <lb/>
+mio fratello. </p>
+<p>Prima si deve considerare, che vane, et molte levate si fanno, o si <lb/>
+faranno in questa vernata per diversi re, principi, et colonelli, come </p>
+<p>per il re di Danimarca, et consequentemente per le città maritime </p>
+<p>per li signori Stati Generali </p>
+<p>per il duca di Bransuich </p>
+<p>per il baron di Kniphausen </p>
+<p>per un certo conte di Alemagna, che non vuol esser scoperto per hora </p>
+<p>per il signor di Dort, signor Vander Horst; et </p>
+<p>per altri incogniti ancor a<ptr target="#tn3" n="3"/> me. </p>
+<p>Dalla parte dell’Imperatore </p>
+<p>per il conte Gio. di Nassau, il qual è arrivato questi ultimi <lb/>
+giorni a Brusseles per far anc’egli un reggimento per servitio dell’<lb/>
+Imperatore, et altri per la medesima Maestà cesarea faranno senza dubio delle <lb/>
+levate. </p>
+<p>Inoltre è sicuro, che anco li serenissimi arciduchi faranno coll’espi-<lb/>
+ratione delle tregue delle levate. </p>
+<p>Il che essendo si ha da creder, che li soldati saranno cari, et diffi-<lb/>
+cili a trovarsi, et quelli principalmente, che vorranno haver
+<pb n="416v" facs="09_416v" rend="0"/>
+soldati vecchi questi vorranno propor conditioni al Capitano invece, <lb/>
+che tal vantaggio soleva, et doveva esser proprio<ptr target="#tn4" n="4"/> del Capitano <lb/>
+tanto nel donativo, il qual domanderanno al grado, et fantasia <lb/>
+sua, come in altre spese, che si faranno innanti, che ’l soldato <lb/>
+sia imbarcato. </p>
+<p>Questo può anco succeder, che molti soldati se ne fuggiranno <lb/>
+col donativo, et forse con altre spese fatte prima, che siano <lb/>
+imbarcati. </p>
+<p>Tante levate causeranno anco, che quella per la serenissima Republica richie-<lb/>
+derà più tempo, che altrimenti non haverebbe richiesto, in <lb/>
+modo che un mese, et mezo se non più potrebbe facilmente <lb/>
+passare nel far la levata. </p>
+<p>Causeranno anco, che li soldati si doveranno cercar lontani dall’<lb/>
+imbarco, et così si consumerà più tempo, et più spesa, et più <lb/>
+grande sarà il rischio per il Capitano di perder, il soldato, <lb/>
+il qual più facilmente col donativo potrà fuggire, o lasciarsi <lb/>
+inlistare da un altro. </p>
+<p>Doppo quanto tocca la summa de’ denari, che sua Serenità offerisce <lb/>
+al mio fratello non monta a più per tre milla fanti a 25 <lb/>
+ducati per testa, che settantacinque milla ducati, che <lb/>
+sarebbono attorno a cento sessanta in settanta milla <lb/>
+franchi in circa. </p>
+<p>Da questa summa si piglieranno dodici fiorini al manco per il <lb/>
+donativo di testa in testa; ma non so se dodici fiorini basteranno <lb/>
+per il donativo in questi tempi. </p>
+<p>Pigliano ancora sei piacchi per giorno per le spese da pagarsi al <lb/>
+marinaro di ogni testa, et questo per tre mesi, et fanno per <lb/>
+testa 27 fiorini holandesi; ma come potrà esser, che ’l <lb/>
+marinaro vorrà esser pagato per più tempo, allegando il
+<pb n="417r" facs="09_417r" rend="0"/>
+rischio del vento contrario, il qual li potrebbe riserrar, et <lb/>
+tener nel porto; come successe al conte Gio. Ernesto Nassau; <lb/>
+così potrebbe arrivare, che detti marinari dimandassero più <lb/>
+che sei piacchi per testa, come parmi che pagasse il conte <lb/>
+di Levenstein. </p>
+<p>Hora vi vuole il nolo dei vasselli, che non si può saper quanto <lb/>
+ne dimanderanno li partionevoli, et massime ne’ tempi presenti <lb/>
+che ’l mar è pieno de corsari né credo, che possino bastar <lb/>
+dodici fiorini per testa, dicendo essi partionevoli, che le <lb/>
+loro navi non siano abastanza armate contra li corsari, et <lb/>
+come si vorranno pigliar altre navi, et ben armate di <lb/>
+artiglierie, et altrettanto per l’andar, che per il ritorno <lb/>
+dubitano, che ne dimanderanno gran noleggio, et più assai <lb/>
+che sei ducati per testa. </p>
+<p>Merita anco consideratione la spesa, che faranno tutti gl’officiali <lb/>
+perché ad essi bisognerà contar più della summa di 25 ducati <lb/>
+et ancorché non contassimo più tuttavia vorranno haver <lb/>
+più, et spenderanno ancor più nel viaggio, et nella <lb/>
+levata, et per le loro persone principalmente essendo genti di <lb/>
+merito, et di servitio. </p>
+<p>Finalmente si doveranno esborsar necessariamente per ciascuna nave carica <lb/>
+de’ soldati circa cento fiorini almeno per provisioni medicinali contra <lb/>
+le malatie, et accidenti cagionati per il mare, et cambiamento <lb/>
+d’aria etc. come ho veduto l’essempio del medesimo mio fratello <lb/>
+quando partì per Venetia. </p>
+<p>Si sborseranno parimente denari per comprar vestiti, camise, et <lb/>
+altro a nudi, et poveri soldati, come ho veduto, che ’l <lb/>
+detto mio fratello, et altri furono constretti di fare a’ <lb/>
+lor soldati così a nudi dal principio, come a quelli,
+<pb n="417v" facs="09_417v" rend="0"/>
+che havevano guasti, et putrefatti li vestiti per lo indugio, et <lb/>
+dimora fatta col vento contrario. </p>
+<p>Di maniera che al parer mio vinticinque ducati non basteranno <lb/>
+a sopradetti punti, et a tal levata. </p>
+<p>Ma dato anco, che bastassero: tuttavia resteranno a pericolo <lb/>
+danno, et costo del Colonello tutti quelli, che moriranno <lb/>
+nel camino, et altrove innanti, che la mostra si faccia. </p>
+<p n="417vC">———</p>
+<p>n° 2 </p>
+<p>Considerationi et difficoltà <lb/>
+per la levata del Milander <lb/>
+date dal suo<ptr target="#tn5" n="5"/> fratello </p>
+<p>nelle prime n° 263 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "p(er) un" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Corrected above "da."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-io" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

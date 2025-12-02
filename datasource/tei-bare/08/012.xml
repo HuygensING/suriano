@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.012 date 1619-05-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 65r-66v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">65r-66v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Informs the Serenissima that Elisabeth van Kerckhove, the widow of Melchior van den Kerckhoven, will send an agent to Venice to request his extraordinary stipend. Recommends her to the Venetian authorities. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-05-05">5 maggio 1619</date>
+            <num>021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="021">
+<div type="main" facs="main text of letter" n="021">
+<!--<p>5 maggio 1619, L’Aia (cc. 65r-66v)</p>-->
+<pb n="065r" facs="08_065r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>la moglie, che fu dell’amiraglio Kerckoven manda costì<ptr target="#tn1" n="1"/> il signor <lb/>
+Nicolò Hamel per riveder li affari del suo marito, ricuperar <lb/>
+quanto andava creditore, et retirar quel più che può <lb/>
+per aiuto del figlio, et di una figliola da marito, che li è rimasta. <lb/>
+La detta vedova è stata a trovarmi, et instantemente mi <lb/>
+ha pregato di raccomandar la buona speditione di esso <lb/>
+Hamel a vostra Serenità, et di pregarla, che non havendo già <lb/>
+mai il marito havuto assignamento del suo stipendio <lb/>
+straordinario, che più volte haveva ricercato, et gliene <lb/>
+era stato dato intentione, per carità si compiaccia <lb/>
+di darlo al presente a lei, et ai figlioli. Non solo per <lb/>
+sé stessa mi si è raccomandata; ma alcuni de’ <lb/>
+suoi amici, et parenti me l’hanno raccomandata; né a <lb/>
+me tocca aggiunger di vantaggio alla singolar <lb/>
+pietà, et munificenza della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya a’ 5 maggio 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="065v" facs="08_065v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="066r" facs="08_066r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="066v" facs="08_066v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="021">
+<!--
+<p n="066vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 maggio 1619 ricevuta a’ 4 luglio </p>
+<p>Haya </p>
+<p>Raccomanda la moglie, che <lb/>
+fu dell’amiraglio Kerckoven. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue parola depennata."</p></note>
+</div>
+</body>
+</text>
+</TEI>

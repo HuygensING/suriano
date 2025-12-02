@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.064 date 1617-08-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">064</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 341r-342v, 347r-348v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">341r-342v, 347r-348v, 343r-346v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this mostly ciphered letter, Suriano recounts his conversation with Van der Mijle and Joachimi on the matter of the union between Venice and the United Provinces. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-08">8 agosto 1617</date>
+            <num>109, 110</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="109">
+<div type="main" facs="main text of letter" n="109">
+<!--<p>8 agosto 1617, L’Aia (cc. 341r-342v, 347r-348v)</p>-->
+<pb n="341r" facs="04_341r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>arrivato l’ordinario d’Italia fu meso <hi rend="decoded">il signor Vandermil</hi><ptr target="#tn1" n="1"/> <lb/>
+per saper se io havevo dalla Serenità vostra havuta alcuna risposta <lb/>
+<hi rend="decoded">nel</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">proposito dell’apertura di unione, che mi fece per <lb/>
+parte del signor Bernvel. <lb/>
+</hi></p>
+<p>Io ancorché da lei non habbi havuto in quest’ordinario <lb/>
+alcun avviso della ricevuta delle lettere toccanti questo <lb/>
+proposito; tuttavia comprendendo dalla risposta, che <lb/>
+ho di me particolari, che ’l dispaccio dei 4 era pervenuto, <lb/>
+ho iscusato il ritardo alla risposta colli nuovi fastidiosi <lb/>
+emergenti successi in quello stesso tempo et egli mi disse, che una <lb/>
+settimana più, o meno non importava <hi rend="decoded">seben</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">la lunga dilazione poteva <lb/>
+partorir qualche disconcio nella disposi-<lb/>
+tione degl’animi de’ più intendenti. <lb/>
+Io risposi, che speravo di haver qualche <lb/>
+cosa col futuro ordinario, ma che in ogni modo <lb/>
+tenevo, che quelli, che la intendono, <lb/>
+non si sarebbono sì tosto rimessi, et <lb/>
+massime se conoscevano esser questo <lb/>
+publico servitio. Horsù repplicò, <lb/>
+attenderemo, et basterebbe, che la serenissima <lb/>
+Republica dicesse, che vuol lega con questi signori <lb/>
+come anco di trattar intorno le conditioni <lb/>
+sopra li partiti proposti, perché allhora <lb/>
+si destinarebbe ambasciator per trattar</hi>
+<pb n="341v" facs="04_341v" rend="0"/>
+<hi rend="decoded">poi più <lb/>
+sodamente il zotto. <lb/>
+</hi></p>
+<p>Vidi il signor Joachim hora residente qui per Zelanda huomo di <lb/>
+spirito, et di valore, il quale fu presidente la passata settimana <lb/>
+et con occasione di ricercarlo a fatto [co]l<ptr target="#tn4" n="4"/> signor conte di Levenstein nell’instanza <lb/>
+come intenderà la Serenità vostra nelle sussequenti, entrò a proposito di questo <lb/>
+negotio <hi rend="decoded">et</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">parve, che lo facesse, come da se <lb/>
+sebene dopo ho inteso, che è raro <lb/>
+anco dal concetto, che è nelli altri; <lb/>
+mi disse, che da questi signori si era <lb/>
+rimarcato quanto havevo espresso <lb/>
+nell’ultima mia espeditione, et che volon-<lb/>
+tieri si impiegherebbono sempre in <lb/>
+servitio della serenissima Republica, et continua-<lb/>
+ndo mi adimandò, se havevo commis-<lb/>
+sione di trattar di alleanza con questi <lb/>
+Stati; io dissi, che havevo commissione dalla <lb/>
+Serenità vostra di sentir ciò, che mi fosse detto, <lb/>
+et quello, che qua si stimasse proprio <lb/>
+per il commune servitio;</hi>
+<pb n="342r" facs="04_342r" rend="0"/>
+<hi rend="decoded">perché inteso <lb/>
+dalla serenissima Republica, ella vi haverebbe <lb/>
+posto quella consideratione, che haverà <lb/>
+meritato l’importanza dell’af[fetti]one</hi><ptr target="#tn6" n="6"/>, <hi rend="decoded"><lb/>
+et abbracciarsi i partiti, secondo, c</hi>[he]<ptr target="#tn7" n="7"/> <hi rend="decoded"><lb/>
+fossero stati proprii al servitio dei coman</hi>[danti.]<ptr target="#tn8" n="8"/> </p>
+<p><hi rend="decoded">Rispose questo sta bene, ma in questo negotio <lb/>
+viene creduto più riuscibile, se dalla <lb/>
+serenissima Republica sarà considerato, et dato poi <lb/>
+ordine a vostra Signoria di quello, che quei signori <lb/>
+stimano di esser bene, perché sua Serenità <lb/>
+ha più facile il modo, et più ispedito <lb/>
+per la maniera del Governo di ponde-<lb/>
+rar la materia, et venirne a fine, <lb/>
+senza che si risappi; che di qua ogni <lb/>
+provintia vuol far le sue consultationi, <lb/>
+et in maniera tale ogni città, et anco <lb/>
+ogni villaggio, di modo che dovendo andar, <lb/>
+et tornar la risposta, in questo mentre <lb/>
+si può dir, che prima è scoperta, che <lb/>
+trattata la cosa; che quando dalla <lb/>
+serenissima Republica sarà considerato quello, <lb/>
+che è bene, et portarò da vostra Signoria <lb/>
+con più facilità, con secretezza, et più <lb/>
+prontamente si farà l’effetto, così segue <lb/>
+con le città ansiatiche, che non vi fu, che la <lb/>
+sola di Lubech, et poi vi concorsero <lb/>
+le altre, che a pena si seppe; che portando <lb/>
+stimava proprio, ch’io significassi a <lb/>
+vostra Serenità</hi>
+<pb n="342v" facs="04_342v" rend="0"/>
+<hi rend="decoded">la dispositione, et il senso di lui, <lb/>
+perché gli pareva, che questo fosse <lb/>
+proprio alla condotta di tal affare. <lb/>
+Io havendo già concertato, et promesso <lb/>
+al signor Bernvel, et al signor Vandermil di <lb/>
+non lasciarmi intender di quanto mi <lb/>
+havevano detto; gli risposi, che poiché <lb/>
+sentivo esser tanta buona opinione <lb/>
+nell’universale di stringer colla serenissima <lb/>
+Republica, che almeno egli mi raccorda</hi>[va]<ptr target="#tn9" n="9"/> <hi rend="decoded"><lb/>
+quello si poteva fare; egli rispose <lb/>
+</hi></p>
+<p><hi rend="decoded">io non lo so, ma la serenissima Republica è <lb/>
+prudente; ella è nel bisogno; onde <lb/>
+può meglio comprender, et dir quello, <lb/>
+che si può effettuare a suo, et a <lb/>
+commune servitio, et con questo si <lb/>
+trovò il ragionamento. <lb/>
+</hi></p>
+<p><hi rend="decoded">Dopo haver parlato con questo signore <lb/>
+mi è stato rifferto ch’egli habbia <lb/>
+havuto ordine da alcuni dei stati <lb/>
+di dirmi questo tanto, quando io per <lb/>
+caso mi incontrassi seco, seben come ho detto, ha mostrato parlar come <lb/>
+da sé; et quel stesso, che me lo <lb/>
+rifferì, m’aggiunse, che havevano <lb/>
+alcuni di questi signori detto, che la serenissima <lb/>
+Republica che è nel</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">bisogno presente converre-<lb/>
+bbe</hi>
+<pb n="347r" facs="04_347r" rend="0"/>
+<hi rend="decoded">proporre quello, che stimasse di suo <lb/>
+servitio, perché così fecero anco essi in <lb/>
+Inghilterra, et in Francia, quando furono <lb/>
+li loro travagli; onde la Serenità vostra con <lb/>
+la sua prudenza comprende, come <lb/>
+la inclinatione si facci gagliarda colla <lb/>
+congiontura de’ tempi. Hier sera il <lb/>
+ressidente Stich mi disse, che quelli di <lb/>
+Gheldria, et Ourisel in particolare habbino <lb/>
+scritto alle loro provincie per haver <lb/>
+ordine, se trattandosi dalla serenissima <lb/>
+Republica di lega, haveranno ad assentirvi, <lb/>
+et che gli è stato risposto, che si contentano <lb/>
+per la parte loro d’entrar in lega con <lb/>
+essa. Vostra Serenità da quanto di tempo <lb/>
+in tempo le ho riverentemente significato <lb/>
+haverà potuto molto ben comprender la <lb/>
+dispositione, et per me stimo, che la <lb/>
+materia sia talmente in stato, che quan</hi>[to]<ptr target="#tn11" n="11"/> <hi rend="decoded"><lb/>
+mi venga dalla Serenità vostra commissione rissol</hi>[…]<ptr target="#tn12" n="12"/> <hi rend="decoded"><lb/>
+compiacendosene da trattare, et stringer <lb/>
+possi questo succeder; la secretezza deve <lb/>
+esser anco tanto più grande, quanto che <lb/>
+io non mi</hi>
+<pb n="347v" facs="04_347v" rend="0"/>
+<hi rend="decoded">faccio sicuro, anzi dubito certissimo <lb/>
+che li Francesi ne haveranno qualche ombra <lb/>
+di cognitione, come anco inglesi separatamente, <lb/>
+o unitamente tenteranno di intorbidarne <lb/>
+l’effetto; onde si deve con prestezza, et <lb/>
+cautezza, quando il servitio di vostra Serenità lo <lb/>
+comporti; seben veramente per la gravezza <lb/>
+del negotio sarebbe necessario più forte, et più <lb/>
+[vi]vo</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">spirito del mio, affine di sostenerlo, <lb/>
+et condurlo a perfetto fine: tuttavia <lb/>
+[f]arò</hi><ptr target="#tn14" n="14"/> <hi rend="decoded">quanto saprò, et quanto potrò. <lb/>
+Monsignor Bernvel conferii quanto mi haveva <lb/>
+[d]etto</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">il Presidente, dimandandogli se sapeva, <lb/>
+che da’ signori Stati havesse havuta alcuna <lb/>
+commissione di parlarmi; disse che non lo <lb/>
+sapeva, et non lo credeva: ma che teneva <lb/>
+che il Gioachimi havesse parlato, o come da <lb/>
+sé, o suggerito da qualche particolare, che hanno <lb/>
+la inclinatione. È il concetto, che monsignor <lb/>
+Bernvel sia causa, che non cammini avanti <lb/>
+questo negotio, et egli se ne ride,</hi>
+<pb n="348r" facs="04_348r" rend="0"/>
+<hi rend="decoded">volendo <lb/>
+portar la cosa, come ella deve caminar. <lb/>
+Hora io attenderò gl’ordini della Serenità vostra, <lb/>
+et con essi mi regolerò, et conformerò <lb/>
+totalmente. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya a’ 8 aprile 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="348v" facs="04_348v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="109">
+<!--
+<p n="348vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 agosto 1617 ricevute a’ 23 detto </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="110" corresp="109" source="343r-346v" >
+<div type="main" facs="main text of attachment I" n="110" corresp="109" >
+<!--<p>Allegato I al n. 109 (cc. 343r-346v; decodifica di cc. 341r-342v, 347r-348r)</p>-->
+<pb n="343r" facs="04_343r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="343v" facs="04_343v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="344r" facs="04_344r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="344v" facs="04_344v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="345r" facs="04_345r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="345v" facs="04_345v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="346r" facs="04_346r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="346v" facs="04_346v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "signor Vandermil" added above the deleted encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "nel proposito … Bernvel a"added above the deleted encrypted text.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "seben … sodamente il zotto" decoding of the encrypted text can be found on c. 343r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "et … Gratie etc." decoding of the encrypted text can be found on cc. 343r-346v; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Damaged page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Damaged page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Damaged page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Damaged page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line on "tiene il" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Damaged page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Damaged page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Damaged page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Damaged page.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Damaged page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

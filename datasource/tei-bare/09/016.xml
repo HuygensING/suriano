@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.016 date 1620-04-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">016</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 62r-65v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp238-245
+            </note>
+            <biblScope unit="page">62r-65v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has informed the States General of secret instruction by the emperor encouraging king of spain to make peace with the Ottomans to damage the two republics. He specifies having read specific bits in French, so that everyone could understand him. He equally informed Maurice about this instruction, who in turns confides him that the Spanish ambassador in London has proposed the idea of a league between England &amp; France. The English ambassadors informs Suriano his king intends to join the French embassy to settle matters in HRE and avoid a religious conflict. James I would in the meantime not forbid individuals to send money to the King of Bohemia. Van Aerssen will leave on saturday and he will visit a few german princes to warn them to remain vigilant. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-04-28">28 aprile 1620</date>
+            <num>021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="021">
+<div type="main" facs="main text of letter" n="021">
+<!--<p>28 aprile 1620, L’Aia (cc. 62r-65v)</p>-->
+<pb n="062r" facs="09_062r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 198 fin 199 </p>
+<p>Serenissimo Principe </p>
+<p>degl’avvisi mandatimi dalla Serenità vostra in lettere de’ 4 dello <lb/>
+stante toccanti il duca di Ossuna, me ne vaglio secondo, <lb/>
+che l’occasione lo porta. </p>
+<p>Degl’altri di <hi rend="decoded">Constantinopoli</hi><ptr target="#tn1" n="1"/> ne feci hieri parte in <lb/>
+audienza alli signori Stati, accompagnando la gravezza <lb/>
+del negotio con quelle considerationi, che più seppi tro-<lb/>
+var proprie, tenendomi ai concetti di vostra Serenità <lb/>
+per imprimer in sue Eccellenze il <hi rend="decoded">pregiudicio</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">notabile così va ma-<lb/>
+chinando, et tentando contra di lei et contra questa Republica</hi> non tralasciando cosa, che mi parve propria <lb/>
+a ben sodisfare al commandamento, che tenevo. Lessi io stesso la copia della <hi rend="decoded">instrutione</hi><ptr target="#tn3" n="3"/><hi rend="decoded">, non vi essendo che lega <lb/>
+ben l’italiano</hi> esprimendola <lb/>
+anco con la frase francese nella miglior maniera, che <lb/>
+seppi, a fine che anco da quelli, che non intendono <lb/>
+l’italiano potesse esser compreso, et ponderato, come <lb/>
+meritava l’affare <hi rend="decoded">perché</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">nel principio feci apertura di proporle <lb/>
+negotio di momento</hi> <lb/>
+dalla continuazione della mia espositione, et dalla cosa <lb/>
+stessa, che rifersi ben s’avidero, che meritava riflesso; <lb/>
+et pertanto hebbi attentione grande, et scopersi come <lb/>
+anco doppo m’è stato riferto, che capirono molto bene, <lb/>
+ove andassero a parar le machinationi, et quanto pregiu-<lb/>
+diciali sarebbono state se havessero potuto haver effetto. <lb/>
+Questo dal Presidente mi fu significato in nome di tutto;
+<pb n="062v" facs="09_062v" rend="0"/>
+et ringratiando vostra Serenità della communicatione, et della confidenza <lb/>
+con che ella passava, et intendeva di passar con loro in simile, et <lb/>
+più importante materia; dissero, che vostra Serenità anco si pro-<lb/>
+mettesse, che tanto sarebbe seguito da questa parte. Mi <lb/>
+aggiunse che già <hi rend="decoded">havevano</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">scritto al Hages loro oratore in Constantinopoli di tener ogni <lb/>
+buona corrispondenza col baiolo della Serenità vostra</hi> <lb/>
+et haverebbono anco replicato; ma che desideravano bene, ch’io mi <lb/>
+compiacessi <hi rend="decoded">dar</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">loro copia della detta instruttione</hi>. <lb/>
+Io con modesta maniera diedi ad <lb/>
+intender all’Eccellenze loro, che non vedevo di poterlo fare, ma <lb/>
+<hi rend="decoded">bene</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">se non havessero ben inteso quando volessero nova lettura, ero pronto a farla</hi>. <lb/>
+Doppo parlato un poco insieme dissero, che di tanto <lb/>
+restavano contenti; et io replicando qualche altre <lb/>
+parole per eccitarli ad haver il negotio a cuore, a far <lb/>
+reflesso sopra gl’andamenti, et a dar l’ordini necessarii <lb/>
+mi licentiai. </p>
+<p>Et sendo venuto il dopo pranso uno di questi signori a visitarmi <lb/>
+seppi da lui, che havevano nello stesso tempo deliberato <lb/>
+di scriver ancora al loro Ambasciatore. </p>
+<p>Et perché il signor principe d’Oranges ha tanta parte in questo Governo <lb/>
+come la Serenità vostra l’haverà potuto comprender da continue <lb/>
+lettere mie, non mi parve se non bene communicar il tutto <lb/>
+all’Eccellenza sua con fine che servisse ad eccitar li signori Stati
+<pb n="063r" facs="09_063r" rend="0"/>
+a dar gli ordini necessarii, et pronti per il servitio, et per l’interesse <lb/>
+commune. Mi disse sua Eccellenza Spagnuoli hanno li più galanti <lb/>
+mezi del mondo per ingannar ognuno, et con varii artificii, <lb/>
+et pretesti si governano caminando alla depressione dei Stati <lb/>
+liberi. Et che sia il vero aggiunse. Voglio dirvi in confi-<lb/>
+denza quello di che sono accusato di Inghilterra, che non credo <lb/>
+che ne habbiate notitia perché la cosa è passata con secre-<lb/>
+tezza grande;<ptr target="#tn8" n="8"/> mi<ptr target="#tn9" n="9"/> viene scritto da chi lo può sapere, <lb/>
+che oltre trattati di matrimonio, divertir che la maestà d’Inghilterra <lb/>
+non assisti al genero ha l’ambasciator di Spagna proposto al Re <lb/>
+una unione del Re suo signore con quella Maestà, et con quello <lb/>
+di Francia, rimostrando il fine esser di tener basse le <lb/>
+republiche, che altrimenti procedono a termine di dar <lb/>
+legge ai re, et agl’altri monarchi, et che la medesima <lb/>
+propositione habbi fatta al Christianissimo in passando per quella <lb/>
+corte. Il negotio è grave. Ve lo dico perché ne diate <lb/>
+avviso al vostro Ambasciator a Londra, se lo sa gli servirà <lb/>
+di rancontro, se non lo sa, che può esser, potrà con questo <lb/>
+lume far di quegl’ufficii, che possono servir a <lb/>
+contramina; ma vi prego disse, che si procedi con cautezza <lb/>
+come ciò vi dico in confidenza. </p>
+<p>Continuò<ptr target="#tn10" n="10"/> questo anco da qualche concetti a’ quali è uscito meco <lb/>
+ultimamente l’ambasciator d’Inghilterra congieturò che accorda assai <lb/>
+bene esservi in campo simil tentativi perché mi disse ulti-<lb/>
+mamente, che ’l Re suo signore era solecitato ad unirsi con la corona di Francia, et che se ne<ptr target="#tn11" n="11"/> persuadeva alla Maestà sua
+<pb n="063v" facs="09_063v" rend="0"/>
+ch’era per trovar quiete all’Alemagna; ma che si avedeva ch’era <lb/>
+per destornarla da altri; che non doveva però far di meno di <lb/>
+non accommodarsi a fine di esser informato, et attraversar colla <lb/>
+confidenza quelle cose, che havesse stimate pregiudiciali alli suoi <lb/>
+amici. Aggiunse l’Eccellenza sua io gli dissi, ch’era un legarsi anco le <lb/>
+mani, et così lasciar passar in disordine gl’affari del suo <lb/>
+genero, né questo esser buon consiglio. </p>
+<p>L’ambasciator sudetto d’Inghilterra mi disse quest’ultimi giorni, che fu a me <lb/>
+che haveva<ptr target="#tn12" n="12"/> il suo Re pensato<ptr target="#tn13" n="13"/> esser termine di buon governo<ptr target="#tn14" n="14"/> non ricusar di unirsi <lb/>
+con Francia con ambasciata, perché comprendeva, che ’l fine <lb/>
+de’ Francesi era di non lasciar in particolare venir all’armi <lb/>
+li principi dell’Unione con gl’altri principi catholici del <lb/>
+partito della casa d’Austria perché non si facesse materia di <lb/>
+religione a fine di mantener la catholica et che all’incontro <lb/>
+per il medesimo oggetto il Re si sarebbe mosso per la riformata <lb/>
+che in tanto però non vietava, che tra particolari si facesse colta <lb/>
+di denari per servitio del re di Bohemia et levata di <lb/>
+genti et quanto al denaro aggiunse, che si faceva <lb/>
+conto, che per quest’estate sarebbe insieme una buona <lb/>
+summa<ptr target="#tn15" n="15"/> con risolutione in quelli, che prendono <lb/>
+quest’impresa di dar tanto che basti per mantener <lb/>
+quattromilla fanti, et doi milla cavalli. Ma di questo <lb/>
+et di altri particolari più essentiali vostra Serenità dalla solecita <lb/>
+prudenza dell’eccellentissimo signor ambasciator Lando deve haver più espresse <lb/>
+et più certi avvisi<ptr target="#tn16" n="16"/>. Io però al medesimo eccellentissimo signore non lascierò <lb/>
+di significar, come comporta il mio debito quanto ho inteso
+<pb n="064r" facs="09_064r" rend="0"/>
+et da sua Eccellenza et da questo signor Ambasciator inglese. </p>
+<p>Ho cavato hieri dal signor principe Mauritio con termine molto confi-<lb/>
+dente, che l’Arsen in passando sia<ptr target="#tn17" n="17"/> (come riverentemente scrissi) <lb/>
+per visitar qualche principi di Alemagna, ma espressamente il marchese d’Anspach, et quello di Durlach, et il duca di <lb/>
+Wirtimbergh non per semplice complimento, ma per ani-<lb/>
+marli, et avvertirli a star molto ben con l’orrecchio <lb/>
+attento, et vigilanti per non lasciarsi incantare, o adormen-<lb/>
+tare dall’Ambasciatore che si preparano al viaggio, raccordan-<lb/>
+dosi quanto pernitiosi siano stati gl’ufficii nel trattato <lb/>
+di Zanchen, come le promesse, et le speranze habbino ingan-<lb/>
+nati li signori Stati, et fatti patroni in un medesimo<ptr target="#tn18" n="18"/> tempo <lb/>
+Spagnuoli di Vesel. Quest’è ufficio necessario, lo deve <lb/>
+far l’Arsen, et non dubito che lo farà molto bene piaccia <lb/>
+a Dio, che resti ben impresso. </p>
+<p>Partì esso signor ambasciator Arsen sabbato per cotesta volta; ma prima <lb/>
+venne a complir meco ringratiandomi di haverlo trattato <lb/>
+in questa casa di vostra Serenità con gl’altri dei signori Stati Generali <lb/>
+et pregandomi ad accompagnarlo, come disse, con qualche <lb/>
+commento. Gli resi grasie della cortese, et grata sua maniera, et complii nel resto con quei termini, che stimai proprii alla qualità dell’honor, che mi faceva, <lb/>
+et al merito della persona sua. Egli non mi aprì la <lb/>
+detta commissione; ma in generale, che doveva complir <lb/>
+con quei principi, che havesse rancontrati per camino <lb/>
+et in un medesimo tempo incorraggiarli a ben fare. Mi
+<pb n="064v" facs="09_064v" rend="0"/>
+ha detto, che passerà per il ducato di Wirtimbergh per andar sicuro <lb/>
+di là passar a Berna poi a Zurich,<ptr target="#tn19" n="19"/> trattenendosi tre <lb/>
+o quattro giorni per città per visitar quei signori. Et non ha <lb/>
+dubio, che vi farà qualche ufficii. Et per quanto ho potuto <lb/>
+sin qui cavare col complimento, vi si accompagnerà eccitatamente <lb/>
+all’intendersi bene con questi Stati per servitio commune. <lb/>
+In Grisoni disse che sarebbe passato senza arrestarsi per le gelosie, <lb/>
+che regnavano tra quei popoli. Io fui a vederlo, et a dir-<lb/>
+gli a Dio sul partire, il che mostrò di ricever a <lb/>
+favore; et in quell’occasione cavai dalle sue parole <lb/>
+dicendolo assai espresso, che haverebbono questi signori risoluto <lb/>
+dell’ambasciata o residenza reciproca fino all’intender la <lb/>
+risposta di lui del senso di vostra Serenità o fino al suo ritorno <lb/>
+di qua. Quanto questo mi aggravi può ben pensarlo <lb/>
+la Serenità vostra per il tempo, che si frapone alle mie speranze: <lb/>
+Dio almeno mi concedi di poter far in questo <lb/>
+mentre qualche buon servitio ancora a quella serenissima <lb/>
+Republica. Mi ha pregato<ptr target="#tn20" n="20"/> di nuovo per il libero passaggio di lui, sue robbe, et genti. Gratie etc. </p>
+<p>Dall’Haya li 28 aprile 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="065r" facs="09_065r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="065v" facs="09_065v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 198 fin 199 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="021">
+<!--
+<p n="065vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 aprile 1620 ricevute a’ 13 maggio </p>
+<p>Haya. n° 198 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Constantinopoli" added above the underlined encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "pregiudicio … Republica" added above the underlined encrypted text.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "instrutione … italiano" added above the underlined encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "perché … momento" added above the underlined encrypted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "havevano … vostra" added above the underlined encrypted text.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "dar … instruttione" added above the underlined encrypted text.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "bene … farla" decoding of the encrypted text in the outer margin; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "m" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "se ne" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "pensato" crossed out, added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line on "particolari" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Corrected above "Gratie etc."</p></note>
+</div>
+</body>
+</text>
+</TEI>

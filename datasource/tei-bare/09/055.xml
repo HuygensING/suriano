@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.055 date 1620-09-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">055</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 286r-288v, 293r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp382-395
+            </note>
+            <biblScope unit="page">286r-288v, 293r-v, 289r-v, 292r-v, 290r-291v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he relayed the news he received in letters dated 11 August about Valtellina. From the letter sent from London you will have heard the news from Pasini, these men will not sail to Venice without a general safe conduct and a letter of pardon for their crimes as they fear they will be tried just like Ellis and Blech in England. The ships have sailed from England to the Canary Islands as Lomes has said. He urges a decision as the ships may return to Barbary activity again. Suriano asks guidance on the matter as he fears success will be difficult with the death of two captains, they will wait until the end of November. The States General have received letters from Haga about the settlement with the Venetian bailo, which includes the news that Venetians are not happy with bailo, this causes alarm in States General and Suriano appeases their worry and thank them for their support. Pleased to hear that Trevisano has left. Received recommendations by Carleton of John Vere Two texts attached: extracts from letters sent by Lormes from London dated 18 August and 20 August 1620; and extract from letter by Pasini dated 18 August 1620</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-09-01">1 settembre 1620</date>
+            <num>086, 087, 088</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="086">
+<div type="main" facs="main text of letter" n="086">
+<!--<p>1 settembre 1620, L’Aia (cc. 286r-288v, 293r-v)</p>-->
+<pb n="286r" facs="09_286r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 237 fin<ptr target="#tn1" n="1"/> n° 238 </p>
+<p>Serenissimo Principe </p>
+<p>gl’avvisi che la Serenità vostra mi manda con le sue lettere de’ 14 del <lb/>
+passato sono stati da me communicati in conformità della mente <lb/>
+di lei, trovo che corrispondono i sensi di qua, che Spagnuoli <lb/>
+mirino ad impossessarsi della Valtellina, et né temono, né sanno <lb/>
+veder per hora di poter giovar altrimenti, che con ufficii, come li <lb/>
+hanno fatti. Io non mancarò ne’ congressi, che potessi havere <lb/>
+d’andar introducendo quelle ragioni, che potranno suministrar-<lb/>
+misi dalla mia debolezza perché questi signori ponghino ogni spirito <lb/>
+maggiore al negotio. </p>
+<p>Un’altra lettera di vostra Serenità ho pur del medesimo giorno toccante li <lb/>
+vasselli di corso. Quello, che ne habbi ritratto il Pasini non <lb/>
+dubito, ch’ella l’haverà inteso dall’eccellentissimo signor ambasciator Lando. Io <lb/>
+però per abondare le mando estratto qui aggiunto della lettera, che a me scrisse esso Pasini, dalla quale l’Eccellenze vostre <lb/>
+comprenderanno il buon rincontro, che si è havuto, che ’l <lb/>
+visconte di Lormes dica la verità, et che li vasselli siano stati <lb/>
+in Irlanda, et di là passati alla costa dell’isole di Canaria. <lb/>
+Et perché detto eccellentissimo signor Ambasciatore si truova sul luoco ho stimato <lb/>
+a proposito, et di publico servitio significar a sua Eccellenza la <lb/>
+mente di vostra Serenità perché tratti con esso Visconte, et lo induchi <lb/>
+a procurar, che tre, o quattro si conferischino a Venetia <lb/>
+per trattar del negotio: dubito però ch’esso signor Ambasciatore, incon-<lb/>
+trerà difficoltà grande perché quei pirati senza il salvo-<lb/>
+condotto generale, et l’abolitione generale dei loro <lb/>
+misfatti non vorranno massime al presente hazardarsi <lb/>
+et mettersi a rischio di dar nelle mani della giustitia <lb/>
+come hanno fatto li capitani Elis, et Blech in Inghilterra
+<pb n="286v" facs="09_286v" rend="0"/>
+che sono stati impiccati, et dalla lettera del Visconte comprenderà <lb/>
+che imputa alla dilatione questo accidente successo alli doi. <lb/>
+Mi eccitano il Visconte, et Pasini a dir la mia risolutione <lb/>
+quanto al passar alle Canarie, può esser, che di là li vasselli <lb/>
+siano passati in Barbaria. Sopra questo ho pregata anco <lb/>
+la prudenza dell’eccellentissimo signor Ambasciatore a pensare, et risolver non <lb/>
+havendo la debolezza del mio spirito così facile il ripiego <lb/>
+per farlo<ptr target="#tn2" n="2"/>. Vostra Serenità in tanto si compiacerà dir il suo senso <lb/>
+se si debba andar a cercar li vasselli ove si siano, et che lo <lb/>
+habbi colla risposta di queste; osservando che non può effettuarsi <lb/>
+questo negotio di tanto rilevo, che con spese per li viaggi; et <lb/>
+il signor Falgher, et io dubitiamo che difficile, per non dir impossibile <lb/>
+sarà il venirne ad effetto per l’accidente successo<ptr target="#tn3" n="3"/> della <lb/>
+morte delli sudetti, et morte<ptr target="#tn4" n="4"/> del figliolo del capitan Rama, senza <lb/>
+l’abolitione assoluta, che per quanto viene accennato dal <lb/>
+Pasini, et anco dal Visconte al Falghero par che l’attenderanno <lb/>
+li corsari sin<ptr target="#tn5" n="5"/> al fine<ptr target="#tn6" n="6"/> di novembre. </p>
+<p>Doppo l’ispeditione dell’ultime lettere mie de’ 25 del passato <lb/>
+n. 236 aggiunte in copia questi signori hebbero con l’ordinario <lb/>
+lettere di Constantinopoli del loro Ambasciatore con avviso <lb/>
+dell’accommodamento del negotio, et ch’era stato inteso <lb/>
+molto bene a quella porta. All’incontro m’è stato <lb/>
+conferito in confidenza dal secretario dei signori Stati, che <lb/>
+in un medesimo tempo hanno anco havuto avvisi di <lb/>
+costì, che l’Eccellenze vostre non restavano molto contente dell’<lb/>
+eccellentissimo signor bailo Nani, et che di ciò li<ptr target="#tn7" n="7"/> signori Stati have-<lb/>
+vano ricevuta non poca mortificatione dicendo, che
+<pb n="287r" facs="09_287r" rend="0"/>
+dubitavano, che quello, che ’l loro Ambasciatore haveva operato <lb/>
+pensando far servitio, et di accommodar con molta <lb/>
+riputatione di quella serenissima Republica negotio sì arduo, <lb/>
+et che senza quello è seguito poteva esser<ptr target="#tn8" n="8"/> levata la testa al suo <lb/>
+Bailo, et causar qualch’altro cattivo accidente, fosse <lb/>
+mal interpretato. Io risposi al secretario che questo non doveva <lb/>
+capir nell’animo dei signori Stati, perché certamente vostre Eccellenze <lb/>
+erano restate sodisfattissime dell’ottimo affetto, et <lb/>
+della prontezza dell’Ambasciatore verso il servitio della serenissima <lb/>
+Republica; non mi aggiunse d’avantaggio il secretario solo che quanto mi haveva detto era in confidenza; <lb/>
+et che forse<ptr target="#tn9" n="9"/> qualcheduno dei signori Stati me n’haverebbe <lb/>
+tocco alcuna cosa; et il che seguì appunto, ma in <lb/>
+passando, per bocca del signor Magno di Zelanda, et io <lb/>
+a lui anco diceli ogni più piena assicuranza <lb/>
+della stima, che faceva la Serenità vostra delli ufficii del signor <lb/>
+Haghes. Mi spiace questo sospetto nell’animo dei <lb/>
+signori Stati; et non ho dubio, che la prudenza della Serenità vostra <lb/>
+da quanto le scrissi in questo proposito haverà fatto re-<lb/>
+flesso, che l’Eccellenze loro, et il signor principe Mauritio restassero <lb/>
+sopra di sé, ch’io non così prontamente com’è venuto <lb/>
+l’avviso non communicassi l’accordato, o ringratiassi <lb/>
+delli ufficii fatti. Io non mancarò con l’opportunità <lb/>
+di assicurar ognuno dell’ottima mente, et della <lb/>
+gratitudine dell’animo della Serenità vostra. </p>
+<p>Scrive l’Haghes ch’è molto ben veduto a quella porta <lb/>
+per essersi inteso, che li suoi signori con tanto affetto abbraccino
+<pb n="287v" facs="09_287v" rend="0"/>
+gl’interessi del re di Bohemia, et assentino a quelli di Gabor <lb/>
+per il regno di Ongaria. </p>
+<p>Mi è stato anco communicato essersi inteso da Brusselles, che <lb/>
+Spagnuoli arrabbiavano di questo accomodamento, poiché <lb/>
+erano entrati in speranza veder la Serenità vostra imbarazzata <lb/>
+o in guerra, o in procinto di entrarvi con il Turco senza <lb/>
+detto accomodamento; non ostante il quale<ptr target="#tn10" n="10"/>, pareva <lb/>
+nondimeno, ch’essi Spagnoli per li loro fini publicassero, che ’l <lb/>
+negotio resti ancor torbido; ma lodato Iddio, che <lb/>
+tutto è altrimenti. </p>
+<p>Si è qui intesa la partita dell’eccellentissimo signor ambasciator Trivisiano, et l’<lb/>
+incontro, che ha havuto per le sue robbe. Si avedono che <lb/>
+questo ritarderà qualche giorni di più il suo arrivo <lb/>
+qui; ma sia quando si voglia può assicurarsi vostra Serenità <lb/>
+che sarà il ben venuto. Così mi disse domenica il signor <lb/>
+cavallier Arsen, che fu a desinar meco con il signor ambasciator d’Inghilterra, et si è altri signori dei Stati Generali per honorar <lb/>
+la casa della Serenità vostra, et me come suo riverente, et <lb/>
+humilissimo ministro. </p>
+<p>Con tal occasione il detto signor Ambasciatore mi disse, che fatto certo <lb/>
+dell’affetto dell’Eccellenze vostre verso la sua persona, del quale <lb/>
+tante volte glien’havevo dato particolar testimonio mi <lb/>
+voleva pregar, come faceva di raccommandarle a <lb/>
+suo nome il signor luogotenente colonello Gio. Veer perché si <lb/>
+compiacesse di haver in consideratione la sua persona <lb/>
+sapendo, et sendo certo, che vostra Serenità haverà presso di lei <lb/>
+soggetto di valore, d’isperienza, di nobiltà di sangue
+<pb n="288r" facs="09_288r" rend="0"/>
+et che può esser sicura, che quello che prometterà attenderà <lb/>
+da devero; aggiungendomi, ch’era cugino del signor Horatio <lb/>
+Veer, che al presente è andato general nel Palatinato; <lb/>
+et che sendo in Alemagna, potrebbe in occasione lasciar <lb/>
+calar delle proprie genti essercitate per render tanto <lb/>
+megliori le compagnie di esso luogotenete colonello Veer <lb/>
+per servitio della Serenità vostra. La raccomandatione è stata <lb/>
+efficacissima, et veggo bene che ’l signor Ambasciatore sentirà gusto della <lb/>
+condotta di questo soggetto per honor della Natione; <lb/>
+et per poter dir di haver egli ottenuto questa gratia <lb/>
+da lei, che habbi havuto in consideratione la sua <lb/>
+raccomandatione. Gratie etc. </p>
+<p>Dall’Haya al primo settembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="288v" facs="09_288v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="293r" facs="09_293r" rend="0"/>
+<p>Quarto sept.</p>
+<pb n="293v" facs="09_293v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 237 fin 238 </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="086">
+<!--
+<p n="293vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Primo settembre 1620 ricevute a’ 16 detto </p>
+<p>Haya. n° 237 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="087" corresp="086" source="289r-v, 292r-v" >
+<div type="main" facs="main text of attachment I" n="087" corresp="086" >
+<!--<p>Allegato I al n. 86 (cc. 289r-v, 292r-v)</p>-->
+<pb n="289r" facs="09_289r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Estratto d’una lettera del visconte di Lormes scritta <lb/>
+di Londra a’ 18 agosto 1620 </p>
+<p>Siamo hoggidì arrivati in questa città il signor Gio. Battista, et io di <lb/>
+ritorno del nostro viaggio di Salsberi, non dubito punto <lb/>
+ch’esso signor Gio. Battista non habbi fatto saper a vostra Signoria quello che <lb/>
+sua Eccellenza haveva inteso toccante li capitani Helis, et Blech <lb/>
+che si sono lasciati prendere essendo in terra, et doppo per giustitia sono stati fatti morire, il che mi rende un <lb/>
+grandissimo dispiacere perché io in effetto ne sono la <lb/>
+causa perché essi non si erano trattenuti, che sotto la mia <lb/>
+parola. Giamai le lunghezze non apportano, che <lb/>
+disgratie alli buoni successi delli affari. Essendo a Salsberi <lb/>
+trovai persone, che mi hanno assicurato, che li vasseli <lb/>
+non erano presi; ma che si erano retirati, et solamente <lb/>
+si erano veduti doi volte alle coste. Arrivò doppo <lb/>
+cinque giorni della nostra partenza da Salsberi un <lb/>
+gentilhuomo irlandese parente del capitan Antonio, <lb/>
+al<ptr target="#tn11" n="11"/> quale havevo scritto; ma non li ho potuto parlare <lb/>
+perché era andato a tre leghe lontano di dove noi erimo <lb/>
+et il signor Gio. Battista desiderava, che tornassimo in Londra <lb/>
+il che ho fatto. È accaduto in questo mentre una <lb/>
+gran disgratia al capitan Antonio perché è stato uno <lb/>
+de’ suoi figlioli amazzato nella<ptr target="#tn12" n="12"/> presa del detto Helis, <lb/>
+et lui retenuto come prigione accusandolo complice <lb/>
+con li sudetti perché si haveva salvato dentro nella <lb/>
+sua casa volendolo prendere. Il caso è stato rimesso <lb/>
+in questa città dove l’aspetto di qua a’ dieci, o dodici <lb/>
+giorni o qualcheduno per lui saprò tutta la verità <lb/>
+dell’affare, et subito avviserò vostra Signoria per la quale
+<pb n="289v" facs="09_289v" rend="0"/>
+prego il signor Dio etc. </p>
+<p>Estratto pure d’un’altra lettera de’ 20 del sudetto mese </p>
+<p>Doppo haverli scritto ho scoperto sicuramente che li vasselli <lb/>
+erano nell’isole di Canaria per un vassello di Cales, che <lb/>
+arrivò già quattro giorni in questa città, il quale <lb/>
+haveva caricato vini in una isola nominata Forte <lb/>
+Aventura, et per esser francesi, et conosciuti dai sudetti <lb/>
+capitani non le hanno fatto alcun dispiacere. Dirò <lb/>
+anco a vostra Signoria che non vedo né parlo all’eccellentissimo signor Ambasciatore <lb/>
+non havendolo visto che doi sole volte doppo che mi <lb/>
+ritrovo qui in Londra, benché ciò non ritarda né <lb/>
+avanza li nostri affari. Sopra tutto vi supplico di <lb/>
+far in modo, che questo affare non si neglegia più <lb/>
+perché è più che tempo di dar rimedio o abandonarlo <lb/>
+del tutto per quello che più volte ho detto l’impor-<lb/>
+tanza a vostra Signoria etc.
+<pb n="292r" facs="09_292r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="292v" facs="09_292v" rend="270"/>
+<p>n° 2 </p>
+<p>Estratto di lettera del visconte di <lb/>
+Lormes nel n° 237 prima </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="088" corresp="086" source="290r-291v" >
+<div type="main" facs="main text of attachment II" n="088" corresp="086" >
+<!--<p>Allegato II al n. 86 (cc. 290r-291v)</p>-->
+<pb n="290r" facs="09_290r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Estratto di lettere del Pasini de’ 18 agosto 1620 </p>
+<p>In fine doppo un lungo giro non dirò a vostra Signoria fatale poiché <lb/>
+non so se sia stato forse da me conosciuto per tale, perché <lb/>
+partendomi di Londra insieme con il signor Visconte, et <lb/>
+un altro, che per necessità della lingua fossimo constretti <lb/>
+haver con noi con pigliar la posta continuando il viaggio <lb/>
+verso Irlanda, come avvisai a vostra Signoria prima che partir di <lb/>
+Londra, et arrivati, che fossimo a Salsberi luoco lontano <lb/>
+di qua 80 miglia in circa, trovassimo che in quel punto <lb/>
+vi era arrivata sua Maestà andando visitando il Paese <lb/>
+et per fortuna il Visconte rincontrò un confidente <lb/>
+del negotio che giovò molto per haverne certa informatione <lb/>
+in che stato fossero quelli brighenti, et se si trovavano <lb/>
+più in quelle spiaggie d’Irlanda et con mia consolatione<ptr target="#tn13" n="13"/> poiché si ha <lb/>
+avanzato oltre la pena la spesa di molti iacobus <lb/>
+et più anco fu causa, che arrivato l’illustrissimo et eccellentissimo signor <lb/>
+ambasciator Lando in detto luoco per parlar a sua Maestà <lb/>
+mostrò<ptr target="#tn14" n="14"/> sua Eccellenza gusto della mia diligenza, et mi <lb/>
+disse anco haver in ciò rincontri grandi della certezza <lb/>
+dell’affare, et che di commissione di sua Serenità haveva <lb/>
+cavata tal informatione, che veniva a confrontarsi <lb/>
+colla mia propositione fatta. Più mi disse, che in questo <lb/>
+Regno vengono stimati costoro sopramodo richissimi; <lb/>
+et anco altri particolari, che a Dio piacendo a bocca <lb/>
+racconterò a vostra Signoria adunque<ptr target="#tn15" n="15"/> per narrar quanto è occorso <lb/>
+sappi vostra Signoria che questi pirati sono stati sino alli 15 <lb/>
+del passato alle spiaggie d’Irlanda sendo l’ordine <lb/>
+datogli dal Visconte, che par sia stato causa, che li
+<pb n="290v" facs="09_290v" rend="0"/>
+capitani Elis, et Belcq sono stati in terra per venir a far <lb/>
+qualche suo affare<ptr target="#tn16" n="16"/>, et anco per parlare al capitano Antonio Rama <lb/>
+li sfortunati furono riconosciuti, et fatti prigioni, et appiccati <lb/>
+et un figliolo del capitan Antonio Rama è restato morto <lb/>
+combattendo. Entrato un vassello dei detti corsari nella <lb/>
+riviera per cavar qualche lume del loro tardare, et havendo <lb/>
+nuova dell’infortunio avenuto alli sfortunati si ritirò <lb/>
+subito, et insieme gl’altri verso Barbaria dovendo ivi <lb/>
+attender qualche ordine sino alla fine del mese di <lb/>
+novembre, et mi afferma quel tale, che di certo non <lb/>
+sarebbono partiti di là sino a tanto che ’l signor Visconte <lb/>
+fosse comparso non ostante il disordine seguito. Ma <lb/>
+la voce dell’armata di sua Maestà che si allestiva gli ha <lb/>
+data occasione di pensar a casi loro, et perciò sono <lb/>
+partiti come ho detto: questo è quanto ho cavato <lb/>
+da costui, che se è vero come mi afferma il negotio <lb/>
+non uscirà fuori di mano alla serenissima Republica quanto <lb/>
+a me non saprei che dire solo rappresentar a vostra Signoria <lb/>
+quello, che in questo viaggio mi è accaduto, et giusta <lb/>
+l’informatione, che ne ho cavata, et per rincontro <lb/>
+di questo l’eccellentissimo signor Lando ha havuto l’instesso circa <lb/>
+la morte delli capitani Elis et Blecq da ministri <lb/>
+di questo Regno vien affermato esser vero, et che li <lb/>
+pirati si siano lasciati vedere con loro vasselli in <lb/>
+quei contorni d’Irlanda li giorni passati, ch’è <lb/>
+quanto posso dir riverentemente a vostra Signoria in questo proposito. </p>
+<p>Vostra Signoria haverà con le precedenti mie inteso il desiderio ch’io
+<pb n="291r" facs="09_291r" rend="0"/>
+tengo, che mi dicesse il modo, che devo tenir con il <lb/>
+Visconte poiché le spese sono grandi, et non vorrei che <lb/>
+dopo havermi affaticato, et patito per il servitio di questo <lb/>
+affare, restassi ricompensato con qualche romancina<ptr target="#tn17" n="17"/> <lb/>
+lo dico riverentemente a vostra Signoria acciò mi dia ordine quello che <lb/>
+devo fare, et tanto quanto mi commanderà tanto <lb/>
+ponerò in essecutione. L’eccellentissimo signor Lando mi ha <lb/>
+dati 20 iacobus, oltre le 20 doble spagnuole che <lb/>
+io hebbi da vostra Signoria, et sono restato con cinque iacobus <lb/>
+questo è un Regno che si spende, et tanto più <lb/>
+a forestieri. Io pensavo dir al Visconte, che <lb/>
+in questo punto non mi trovavo commodità di <lb/>
+denari, et per ciò dovesse egli pensar a’ casi suoi <lb/>
+et consigliatomi con sua Eccellenza mi ha detto di non <lb/>
+aspettarlo l’ordine di vostra Signoria dicendomi haverle <lb/>
+scritto in questo proposito, che però la prego <lb/>
+per l’honor di Dio sbrigarmi da questo cordoglio <lb/>
+poiché Dio lo sa in che modo mi trovo, et in che <lb/>
+continuo travaglio me la passi.
+<pb n="291v" facs="09_291v" rend="270"/>
+n° 1 </p>
+<p>Estratto di lettera del Pasini </p>
+<p>nel n° 237 prima </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above "sino."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "prigionia" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "fino" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "ha" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "preg" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "et … consolatione" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Precedes "se" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Uncertain, transcribed as it appears; is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-re" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

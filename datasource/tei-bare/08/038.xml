@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.038 date 1619-09-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">038</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 204r-206v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">204r-206v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that States General are eagerly awaiting the news about imperial elections. Bohemia have concluded a league with Silesia, hoping that Hungary might join, with some reports that they want to replace the Habsburgers and might elect Bethlen Gábor. Maurice is hesitant to believe news from the German lands, in United Provinces many speculated that Spain will oppress Italy and Venice in particular. Outlines the relationship between France, United Provinces and England with the imminent end of the Truce in sight. Carleton delivers a speech in assembly of the States General against their idea to conclude a peace deal with barbary pirates </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-09-03">3 settembre 1619</date>
+            <num>071</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="071">
+<div type="main" facs="main text of letter" n="071">
+<!--<p>3 settembre 1619, L’Aia (cc. 204r-206v)</p>-->
+<pb n="204r" facs="08_204r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 128 comincia 127 </p>
+<p>Serenissimo Principe </p>
+<p>questi signori stano in espettatione di quello succederà nell’elettione di <lb/>
+imperatore. Quelli, che sentono altrimenti si vano par accomodando <lb/>
+lo stomaco, che non possi esser eletto al governo dell’Imperio, che il <lb/>
+re Ferdinando, et sono venuti qualche avvisi, che già era <lb/>
+eletto; ma non publicato; che a Bohemi sia stato negato dalli <lb/>
+elettori ecclesiastici il leggersi la loro instanza; et a Ferdinando <lb/>
+dichiarito da esse il voto, et che Sassonia assolutamente si fosse tirato <lb/>
+al[la]<ptr target="#tn1" n="1"/> parte di quella Maestà. Questi sono gl’avvisi, che vengono <lb/>
+qui, che non uditi volentieri, levano anco la volontà de’ discorsi <lb/>
+et si tace ognuno attendendo il fine. </p>
+<p>Bohemi hanno spediti con loro lettere a questi signori li capitoli della <lb/>
+lega, et confederazione giurata da essi con la Slesia, et le <lb/>
+altre Provincie annesse, et che speravano di haver l’Ongaria <lb/>
+anco tutta assolutamente dalla loro parte, et si promettevano, che <lb/>
+fosse l’una, et l’altra Austria si sarebbono dichiarito del partito. </p>
+<p>Ho vedute lettere di qualche particolar signore di quei direttori dei <lb/>
+Stati bohemi nelle quali scrive con gran asseveranza, che s[on]o<ptr target="#tn2" n="2"/> del tutto risoluti di dar l’ultimo vale al re Ferdinando <lb/>
+et elegger altro per loro re, che si disegnava supra la <lb/>
+persona di Betheleem Gabor, et che ’l medesimo doveva da <lb/>
+Ongari esser eletto per loro re, et per tal effetto di Transilvania <lb/>
+veniva con numeroso essercito. Vostra Serenità dal luoco proprio haverà <lb/>
+più certi et più sinceri avvisi, et li miei non serviranno<ptr target="#tn3" n="3"/> <lb/>
+(se sono veri) che per rincontro; et se falsi perché senti quello <lb/>
+si fa sparger. </p>
+<p>Tali avvisi da alcuni vengano creduti per<ptr target="#tn4" n="4"/> la volontà, et desiderio <lb/>
+che fossero veri; et si haverebbe molto caro, che le combustioni
+<pb n="204v" facs="08_204v" rend="0"/>
+stassero da quella parte, et lontane da questa, in che non ha dubio <lb/>
+che questi signori metteranno studio perché segua, et fomenteranno <lb/>
+con ufficii proprii, et lo faranno anco con effetti. </p>
+<p>Quelli, che par che meglio giudichino delli eventi, parendo<ptr target="#tn5" n="5"/> ad essi, <lb/>
+che non habbino Bohemi il sostenimento, che un tanto affare <lb/>
+et materia così grave meritarebbe, pensano, che eletto Ferdinando <lb/>
+all’Imperio si troverà ripiego con belle, et larghe promesse di <lb/>
+sedar gl’animi, et condurli per qualche via alli accor[di]<ptr target="#tn6" n="6"/> massime <lb/>
+havendo la casa d’Austria, et il re di Spagna con<ptr target="#tn7" n="7"/> armi in piedi, <lb/>
+et artificii alla mano proprii per guidar l’affare a sua <lb/>
+fantasia. Se ben altrimenti par a quello s’intende, che <lb/>
+Bohemi voglino imprimer mostrando risolutione alla difesa <lb/>
+della libertà, et di voler mantenersi in essa. Par che <lb/>
+il signor principe Mauritio non presti fede a tutti gl’avvisi, che <lb/>
+vengono da<ptr target="#tn8" n="8"/> quella<ptr target="#tn9" n="9"/> parte<ptr target="#tn10" n="10"/>. </p>
+<p>Non sano questi signori che giudicio formare della mente del re di <lb/>
+Spagna in particolar se si accommodano le cose di Alemagna <lb/>
+se sia per gettarsi da questa parte, o pur ripa[ss]ar<ptr target="#tn11" n="11"/> i monti. <lb/>
+Dal sentir che ’l principe Filiberto sta con armata numerosa <lb/>
+nel Mediteraneo, che Spagnuoli in Napoli non disarmino, <lb/>
+che da Milano non si habbi avviso, che ancor siano partite <lb/>
+genti come era stato publicato, credono, che lo spagnuolo <lb/>
+miri a tener turbata l’Italia per opprimerla, et far il <lb/>
+fatto suo particolarmente sopra la Serenità vostra. </p>
+<p>Alcuni, che vengono di Brabant, et forse anco espressamente commessi <lb/>
+vanno indagando qual sia la mente da questa parte toccante <lb/>
+la tregua; et parmi scoprire, che non siano gl’animi lontani
+<pb n="205r" facs="08_205r" rend="0"/>
+dal prorogarla. Non si vede che si moveranno a parlarne; et men <lb/>
+credono, che gl’arciduchi lo faranno. Doverebbono farlo li re di <lb/>
+Francia, et Inghilterra; ma al presente per il piedi di amore<ptr target="#tn12" n="12"/>, et di <lb/>
+qualche auttorità, che par che la maestà d’Inghilterra habbi assai <lb/>
+posto dentro a queste Provincie tanto per la religione, che <lb/>
+per il negotio stabilito insieme del trafico dell’Indie<ptr target="#tn13" n="13"/> <lb/>
+passa<ptr target="#tn14" n="14"/> gran gelosia di Francia con quella Maestà, et doveranno <lb/>
+questi signori attender per levar l’impressioni, et simil gelosie <lb/>
+et pensano di farlo con la missione di Ambasciata straordinaria a sua <lb/>
+Maestà<ptr target="#tn15" n="15"/> christianissima. </p>
+<p>Sono stati trattenuti sin qui al risolver qualche cosa in questo proposito <lb/>
+stanti<ptr target="#tn16" n="16"/> le relationi, che havevano in qualche lettere havute <lb/>
+dal loro ambasciatore Langarach che quella Maestà, et la corte non <lb/>
+haverebbe veduto volontieri, simil<ptr target="#tn17" n="17"/> Ambasciata <lb/>
+disgustata che questi signori non habbino havute in consideratione <lb/>
+le raccomandationi di sua Maestà per li prigionieri, et per altro <lb/>
+in fine intendo esser stati scritto, che andando ambasciatori <lb/>
+[n]on<ptr target="#tn18" n="18"/> habbino a parlar delle cose passate per non rinovellar le piaghe <lb/>
+hora si attendono miglior avvisi per deliberar poi assolutamente. </p>
+<p>Col fine della tregua si terminano anco li dodici anni della confedera-<lb/>
+tione con le due maestà, et questo parmi, che sarà il pretesto <lb/>
+con che si entrerà nel negotio, et con quello del procurar che <lb/>
+non siano ammesse instanze di represaglia sopra vasselli di questo <lb/>
+Paese ad instanza de’ particolari, come seguì li giorni passati; <lb/>
+et un tal occasione anco procurar di spiar l’animo del Re <lb/>
+come sia inclinato alla prorogatione della tregua, o altrimenti <lb/>
+per far poi anco l’ufficio in Inghilterra, et provedersi in tempo al bisogno. </p>
+<pb n="205v" facs="08_205v" rend="0"/>
+<p>Si tiene, che il re della Gran Bretagna volentieri sentirà la voce <lb/>
+di pace, o prorogatione di tregua per non imbarcarsi nell’obligo <lb/>
+dello spendere. </p>
+<p>Il suo<ptr target="#tn19" n="19"/> Ambasciatore con ufficio molto pieno fatto nell’assemblea dei <lb/>
+Stati Generali ha divertito, che non si sia passato innanti nella <lb/>
+risoluzione di far tregua, o pace con li pirati; affermando <lb/>
+che vostra Maestà haveva in punto navi sufficienti, che unite con quelle <lb/>
+dei signori Stati haverebbono potuto dar<ptr target="#tn20" n="20"/> no[r]ma<ptr target="#tn21" n="21"/>, et re-<lb/>
+gola alla mala volontà di quelle genti, tenerle in freno, <lb/>
+et metter in sicuro la navigazione. Risolsero questi signori <lb/>
+sopra l’espositione dell’Ambasciatore di armar dodici navi, et <lb/>
+una petacchia; ma ancor doveranno li deputati delle <lb/>
+Amiralità esser insieme per la fine del presente mese. Gratie etc. </p>
+<p>Dall’Haya li 3 settembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="206r" facs="08_206r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="206v" facs="08_206v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>seconda<ptr target="#tn22" n="22"/> <lb/>
+n° 128 comincia 127 </p>
+<p><metamark facs="Seals and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="071">
+<!--
+<p n="206vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 settembre 1619 ricevute a’ 19 detto </p>
+<p>Haya. n° 128 <lb/>
+2<hi rend="superscript">da</hi><ptr target="#tn23" n="23"/> </p>
+<p>Avisi circa l’elettione d’Imperator. </p>
+<p>Bohemi hanno cominciato la confederatione <lb/>
+con Slesia, e altre Provincie fatta <lb/>
+e sperano haver l’Ongaria. </p>
+<p>Direttori bohemi scriveno in particolar <lb/>
+circa l’elettione di loro re in persona di <lb/>
+Beteleem Gabor. </p>
+<p>Discorsi diversi sopra tali affari de’ Boemi. </p>
+<p>Dubio della mossa di Spagna, e più <lb/>
+inclinano sia verso Italia. </p>
+<p>Pensieri sopra la prorogation delle tregue. </p>
+<p>Disegno de Ambasciata al Re christianissimo <lb/>
+per negotii con Inghilterra. </p>
+<p>Col fine della tregua finiscono le <lb/>
+confederazioni con Francia, e Inghilterra <lb/>
+e con tal pretesto s’entrarà in <lb/>
+negotio. Si crede Inghilterra adherirà <lb/>
+a pace o proroga di tregue. </p>
+<p>Ambasciator d’Inghilterra ha fatto ufficio con i Stati <lb/>
+non si passi avanti nella tregua con <lb/>
+pirati: affermando il Re haver forze <lb/>
+da metterli a freno co i Stati insieme. </p>
+<p>Sopra tal insegna risolveno i stati <lb/>
+armar navi. </p>
+<p>L. C. X. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue che depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Esito di correzione."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue -mi depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-a corretta su -i; segue la depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a corretta su -e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-e corretta su -i."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Esito di correzione,"</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue par che depennato."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-a corretta su -i."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Precede quella depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue stanti depennato."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Precede che quella Maestà depennato."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "s- corretta su s(igno)r."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Segue notitia depennato."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Corretto su prima."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Precede prima depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

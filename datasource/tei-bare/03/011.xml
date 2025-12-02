@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.011 date 1616-10-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, 64r-67v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">64r-67v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the States have agreed, together with Maurice, to allow French soldiers to join John Ernst’s expedition to Venice. Provides more biographical information on two potential French candidates: Monsignor Gulena and Rocquelaure. Regret to hear the news of the death of Pompeo Giustiniani. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-31">31 ottobre 1616</date>
+            <num>022</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>31 ottobre 1616, L’Aia (cc. 64r-67v)</p>-->
+<pb n="064r" facs="03_064r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>li signori Stati col consiglio del signor principe Mauritio si <lb/>
+sono in fine risoluti di permetter a monsignor di Rocalaura <lb/>
+et a monsignor Gulena francesi<ptr target="#tn1" n="1"/> di poter andare col signor Conte <lb/>
+in servitio di vostra Serenità, et la licenza non serve, che <lb/>
+sino a maggio venturo, che doveranno ritornar <lb/>
+qui alle sue cariche, o chieder nuova licenza, <lb/>
+o rinontiar a questo servitio totalmente. Sua Eccellenza <lb/>
+ha posta la mano con gran cuore a questo servitio <lb/>
+eccitato dirò così anco dalle mie instanze perché <lb/>
+il signor conte Gio. Ernesto potesse haver appresso di <lb/>
+lui soggetto, che valesse ad assistergli per ogni <lb/>
+accidente, come spero che valerà esso monsignor di <lb/>
+Rocalaura, che haverà il secondo colonellato, <lb/>
+di che il medesimo signor Conte ne gode grandemente. <lb/>
+Questo è soggetto di valore, ch’è attual ser-<lb/>
+gente maggiore delle compagnie francesi, et <lb/>
+con espettativa del primo colonellato, essendo <lb/>
+vinti anni, che serve in questi paesi, huomo <lb/>
+a dir la verità, che stimo grandemente: perché <lb/>
+ha in sé destrezza, et con modestia porta <lb/>
+li suoi servitii, né se ne vanta, il che non
+<pb n="064v" facs="03_064v" rend="0"/>
+è forse proprio in tutti della sua Natione. </p>
+<p>Monsignor Gulena anch’egli è vecchio capitano in queste compa-<lb/>
+gnie francesi huomo d’isperienza, et valoroso, et il <lb/>
+Conte gli ha dato il carico di sargente<ptr target="#tn2" n="2"/> maggiore. </p>
+<p>Li doi Francesi de’ quali la Serenità vostra mi<ptr target="#tn3" n="3"/> scrive con le sue <lb/>
+de’ 14 perché ne habbi informatione furono mandati dal sudetto monsignor di Rocalaura, et se bene sotto loro <lb/>
+nome han fatta l’offerta egli però doveva esser il <lb/>
+capo della partita così mi disse sabbato a sera, <lb/>
+mentre cercai informarmi di essi, et prima anco <lb/>
+me ne haveva tratto qualche moto, se bene non se <lb/>
+n’era affatto lasciato intender per non restar al <lb/>
+scoperto con la negativa, che havesse potuto venire <lb/>
+et hora m’ha detto, che si contentava, et restava <lb/>
+consolato di haver a militare per vostra Serenità con così <lb/>
+honorata carica sotto l’insegne del signor conte Giovanni <lb/>
+et la ringratiava, che havesse così bene ricevuti, <lb/>
+et trattati quei doi soggetti, pregandola a farne <lb/>
+capitale: perché sono huomini che vagliono, et <lb/>
+de’ quali vostra Serenità si potrà valere con suo vantaggio, <lb/>
+et di monsignor Durante di Prignì il signor conte Gio. Ernesto
+<pb n="065r" facs="03_065r" rend="0"/>
+m’ha detto ogni bene. </p>
+<p>La signora principessa d’Oranges già molti giorni si trova a <lb/>
+Breda ne è per revenir che appresso dimani, onde non <lb/>
+potendo per hora et per dover partire verso il Tessel dar <lb/>
+a lei parte di quanto la Serenità vostra ha risoluto in sua <lb/>
+gratificatione ho stimato ispediente farmi dar la <lb/>
+patente del signor conte Gio. Ernesto; et portarla io <lb/>
+stesso al signor principe Henrico suo figliolo accompa-<lb/>
+gnandola con ufficio proprio. Il che ha egli con pie-<lb/>
+nezza d’affetto ricevuto per nome della madre; et <lb/>
+in tanto quello, che deve haver la carica, che <lb/>
+si trovava qui aspettando gl’avvisi ha cominciato <lb/>
+a dar gl’ordini necessarii per la levata delle sue genti. </p>
+<p>Ho fatto tutto ’l mio sforzo, et ogni consideratione, che <lb/>
+m’è stata somministrata dalla Serenità vostra per non <lb/>
+aggiunger più vasselli al numero delli quindici <lb/>
+non ostante l’aggiunta della compagnia concessa <lb/>
+alla principessa d’Oranges; ma con quante parole, <lb/>
+et con quanto habbi potuto dire non m’è stato possibile spuntare: perché ha bisognato, ch’io
+<pb n="065v" facs="03_065v" rend="0"/>
+condescendi a concederne<ptr target="#tn4" n="4"/> uno ad esso signor Conte. <lb/>
+Egli a tutto sforzo ne voleva doi almeno, et me <lb/>
+ne ha fatte più, et più instanze, dicendomi esser sicuro, <lb/>
+che vostra Serenità non haverebbe riguardato questo poco, dolen-<lb/>
+dosi di non haversi raccordato prima di accordar li capi-<lb/>
+toli di ricercar per le sue robbe, et genti un vassello, <lb/>
+perché al certo vostra Serenità non glielo haverebbe denegato <lb/>
+dicendomi, che haveva havuto da buon luoco, che <lb/>
+monsignor di Sciatiglione per mettersi ad ordine, et per il <lb/>
+condar delle sue robbe, et de’ suoi haveva havuto un <lb/>
+donativo di alcuni<ptr target="#tn5" n="5"/> miaradi di<ptr target="#tn6" n="6"/> che se vostra Serenità non haveva guardato <lb/>
+con quel cavalliere (che poteva dir così, se ben correva la voce sotto nome di Savoia) che meno doveva <lb/>
+mirar con lui. Et io risposi che non sapevo questa <lb/>
+cosa, et meno la credevo: perché monsignor di Sciatiglione <lb/>
+deve servir il signor duca di Savoia; ma egli replicò <lb/>
+tutto è uno, et so certo, ch’è come ho detto. Poi <lb/>
+soggiunse, che in conformità de’ capitoli non doveva <lb/>
+metter che in ragion di doicento soldati per vassello <lb/>
+che per 15 sarebbon tre mille, et pur ne sono cento <lb/>
+di più, et l’aggiunta delli 150 della compagnia
+<pb n="066r" facs="03_066r" rend="0"/>
+per quello della principessa d’Oranges, et qualcheduno <lb/>
+che si condurrà d’avantaggio ricerca più vasselli. <lb/>
+Io gli feci vedere, che l’obligo era di condur li tre milla <lb/>
+cento fanti in quindeci vasselli; ma in fine m’ha <lb/>
+ridotto a tale, che ho convenuto<ptr target="#tn7" n="7"/> concedergli <lb/>
+un vassello di più, et l’ho ristretto a mille fiorini <lb/>
+meno delli altri, ch’è quanto ho potuto avanzare <lb/>
+veramente conosco esser poco in tanta summa <lb/>
+ma tutto è avanzo. </p>
+<p>A questo proposito de’ vasselli m’ha detto, che si pro-<lb/>
+metteva, che vostra Serenità non haverebbe astretto li <lb/>
+patroni a pagar l’ancoraggio, et qualche altro picciolo datio <lb/>
+solito sopra le navi: perché vengono per <lb/>
+servitio di lei<ptr target="#tn8" n="8"/>, et che con questo patto haveva <lb/>
+accordati essi vasselli; ne porteranno mercantie <lb/>
+di alcuna sorte: perché meno lo potranno fare, volendo <lb/>
+che le genti stiano commode. Mi ha pregato <lb/>
+scriverlo a vostra Serenità, il che gli ho promesso di fare <lb/>
+ma non gli ho data alcuna intentione, dovendo la <lb/>
+gratia provenire direttamente da lei per obli-<lb/>
+garlo maggiormente. </p>
+<pb n="066v" facs="03_066v" rend="0"/>
+<p>Farò a detti vasselli le patenti sottoscritte, et sigillate da <lb/>
+me; li<ptr target="#tn9" n="9"/> cometterò a patroni, che vadino nelli porti <lb/>
+di vostra Serenità nell’Istria; manderò li roli duplicati <lb/>
+per la via di Terra; et scriverò insieme la qualità <lb/>
+delle genti, et quel più che stimerò degno della <lb/>
+notitia della Serenità vostra il tutto conforme al commento <lb/>
+delle Signorie vostre eccellentissime. </p>
+<p>Aspetto di hora in hora, che rivenghi di Fiandra il signor <lb/>
+Vimes, ove ho permesso che vadi per veder il padre <lb/>
+che di sei, o sette anni non haveva veduto, et gli <lb/>
+dirò quanto è mente della Serenità vostra perché parta con <lb/>
+le navi; il che m’assicuro, che farà volontieri. </p>
+<p>Il Christianissimo ha col mezo di questo suo Ambasciatore <lb/>
+ottenuto da questi signori cinque vasseli di guerra <lb/>
+per poter occorrendo ridur più facilmente al suo <lb/>
+debito quel monsignor di Lussan governatore di Blais, et altri, quando la provisione, che sua Maestà ha <lb/>
+ispedita per terra, come la Serenità vostra sarà stata <lb/>
+avvisata non servì. </p>
+<p>La morte del signor Pompeo Giustiniano è stata intesa <lb/>
+qui dall’universale con notabilissimo dispiacere
+<pb n="067r" facs="03_067r" rend="0"/>
+sì per la persona stessa stimata prudente, et valorosa, <lb/>
+come per rispetto di vostra Serenità, et il signor conte Mauritio in <lb/>
+particolare mi ricercò con affetto, et sentimento <lb/>
+grande la maniera come è stato ucciso; mostrandone <lb/>
+particolar discontento; et io gli ho detto quanto dalla <lb/>
+Serenità vostra me ne viene scritto nelle sue de’ 19 colle <lb/>
+quali ho ricevute anco l’altre de’ 8 toccanti li <lb/>
+continuati progressi della sua armata. </p>
+<p>Alli Gabri, Forterie, et Falconieri di Amsterdam ho fatte <lb/>
+lettere di cambio sotto li 29 dello stante delli <lb/>
+restanti vinti milla ducati da<ptr target="#tn10" n="10"/> 2634 per ducati <lb/>
+sopra la lettera di credito di quaranta mille, et <lb/>
+doveranno pagarsi a’ 12 di decembre prossimo <lb/>
+a’ signori Pietro Gabri, et Daniel Nis, et così della <lb/>
+valuta riscossa di qua, come di quella degl’altri <lb/>
+che anderò tolendo, et di quello spenderò ne’ viaggi <lb/>
+et in altro necessario, terminato questo affare ne <lb/>
+darò distinto, et fedel conto alla Serenità vostra in <lb/>
+conformità del mio debito. Gratie etc. </p>
+<p>Dall’Haye all’ultimo ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="067v" facs="03_067v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="067vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Ultimo ottobre 1616 ricevute 16 novembre </p>
+<p>Secretario Surian dall’Haia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-e" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-ne" is the result of a correction; followed by "gliene" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark; followed by "et" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "oggi" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "V."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Corrected above "ri-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "-ll" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

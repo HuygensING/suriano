@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.044 date 1619-02-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera, Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">044</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 275r-279v, 289r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">290r-291v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letters from Venice from 21 January which give him commission regarding closer union. Attaches a copy of what he said in States General. Reiterates the point something needs to be done for widows of sailors. Pasini has come to visit him in The Hague and reports that Spanish army will not leave their quarters. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-02-10">10 febbraio 1619</date>
+            <num>094</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="094">
+<div type="main" facs="main text of letter" n="094">
+<!--<p>10 febbraio 1619, L’Aia (cc. 290r-291v)</p>-->
+<pb n="290r" facs="07_290r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 88 comincia 87 </p>
+<p>Serenissimo Principe </p>
+<p>sottoscritte l’altre lettere mie di questo giorno mi sopravviene il messaggiero <lb/>
+d’Anversa con quelle della Serenità vostra de’ 21 genaro. Le commissioni, ch’ella <lb/>
+mi aggiunge intorno la buona corrispondenza, et unione tra quella <lb/>
+serenissima Republica et questi Stati saranno da me essequite della maniera, ch’è <lb/>
+desiderata da lei, nutrendo ad ogni potere la inclinatione, che ten-<lb/>
+gono verso la buona corrispondenza. Le mie prime le portano <lb/>
+il senso di questi signori, l’haverà inteso anco da altre; onde aspetterò <lb/>
+li suoi prudentissimi commandamenti. </p>
+<p>Essequirò l’ordine, che mi da di mandar da mo innanti la copia di <lb/>
+quello mi occorrerà di esporre all’assemblea, et che lasciassi in scrittura. </p>
+<p>Col signor principe Mauritio anco farò l’ufficio, che mi commette; come <lb/>
+nella prima audienza colli Stati per la prorogatione del servitio per <lb/>
+altri sei mesi delle dodici navi. </p>
+<p>Vostra Serenità dalle mie lettere di hoggi otto, et precedenti haverà inteso, che la <lb/>
+necessità del sovenir a queste donne conferma appunto con <lb/>
+l’approbatione di lei del farlo; et mi valerò di questo consenso di <lb/>
+quella maniera, che stimerò per mia debolezza propria. </p>
+<p>Per il trafico dei sali tanto farò intender a questi mercanti, quanto <lb/>
+da lei mi viene commesso. </p>
+<p>Intorno al negotio dell’Indie Occidentali, chi n’ha la cura va praticando <lb/>
+di metter le cose in chiaro, et di maniera, che gl’huomini possino <lb/>
+concorrer di buon cuore a participar in questa Compagnia: <lb/>
+et perché non ho per hora cosa degna da dirle in questo proposito <lb/>
+aspettarò di avvisarla con fondamento di quello doverà seguire. </p>
+<p>Lo stesso ordinario di Anversa porta lettere al Pasini, ch’è qui appresso di me <lb/>
+venuto in Holanda per suoi particolari affari, che a Brussels era arrivato <lb/>
+l’ordinario di Spagna con suspentione della levata de’ Valoni, che <lb/>
+dovevano imbarcarsi a Duncherchen sino ad altro ordine di sua Maestà
+<pb n="290v" facs="07_290v" rend="0"/>
+che così si era publicato doppo l’arrivo del detto corriero. Di più che <lb/>
+era stato commesso a quelli che havevano havuti denari<ptr target="#tn1" n="1"/> per la condotta dei <lb/>
+canoni, et provisione di munitioni, et viveri per dette genti, che li <lb/>
+dovessero restituire; che in detta città di Brusseles si scometteva <lb/>
+che l’armata spagnuola non sarebbe uscita; et per consequente <lb/>
+che tutte siano passate per far consumar li principi, et in particolar <lb/>
+la serenissima Republica. Tuttavia (come suol dire il signor principe Mauritio) <lb/>
+Spagnoli sono fini; potrebbono anco esser publicatione <lb/>
+con artificio. Quello che scrive è amico, che ha buona corris-<lb/>
+pondenza, che dal medesimo Pasini ha havuta commissione di <lb/>
+avvisarlo di tutto, che passa volendo ove egli si trovi comprobar <lb/>
+l’infinita devotione, che professa con humil riverenza alla Serenità vostra <lb/>
+onde si rende sempre più degno della gratia sua, alla quale <lb/>
+mi astringe l’obligo del servitio di lei il raccomandar-<lb/>
+glielo anco colle presenti. Gratie etc. </p>
+<p>Dall’Haya a’ 10 febraro 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="291r" facs="07_291r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="291v" facs="07_291v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 88 comincia 87 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="094">
+<!--
+<p n="291vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 febraro 1618 ricevute a’ 27 detto </p>
+<p>Del segretario Surian. 2 <hi rend="superscript">da</hi> <lb/>
+n° 88 </p>
+<p>Riceve lettere de’ 25 gennaro: essequirà <lb/>
+gl’ordini circa la buona corrispondenza: </p>
+<p>Havendo espresso il senso di quei signori <lb/>
+aspetta ordini. </p>
+<p>Manderà le copie dell’espositioni all’assemblea. </p>
+<p>Farà l’ufficio per proroga delle navi al servitio. </p>
+<p>Si valerà dell’assenso di soccorrer alle donne <lb/>
+e fameglie de’ marinari. </p>
+<p>Farà intender a’ mercanti il servitio in proposito <lb/>
+di sali. </p>
+<p>A Brusselles è gionto l’ordinario colla sospensione <lb/>
+della levata de’ Valloni: et si scomette <lb/>
+che l’armata spagnola non uscirà. </p>
+<p>Discorre che siano passate spagnole <lb/>
+per far consumar. </p>
+<p>Che tali avisi ha havuto da confidenze <lb/>
+del Pasini, et raccomanda esso Pasini. </p>
+<p>L. C. X. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

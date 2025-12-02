@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.066 date 1620-11-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">066</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 327r-328v, 333r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp462-477
+            </note>
+            <biblScope unit="page">327r-328v, 333r-v, 329r-332v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The States General are discussing instructions to give to their ambassadors to France and England. Uneasiness about France due to their actions against Hugenots and dissatisfied with James I who is not helping his son-in-law. they are not impressed by Carleton’s declaration, sent in attachment, it has also caused delay to the mission. The eldest son of the King of Bohemia is in Friesland in charge of the wife of Count Ernest of Nassau. Another mission to England by brother of Frederick V will pass through The Hague. Spinola has left Oppenheim, there is illness among Italian soldiers. One text attached: a copy of letter by Carleton</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-10">10 novembre 1620</date>
+            <num>100, 101</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="100">
+<div type="main" facs="main text of letter" n="100">
+<!--<p>10 novembre 1620, L’Aia (cc. 327r-328v, 333r-v)</p>-->
+<pb n="327r" facs="09_327r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 247 comincia 246 </p>
+<p>Serenissimo Principe </p>
+<p>sono questi signori dietro<ptr target="#tn1" n="1"/> alla consulta sopra l’instruttioni <lb/>
+degl’ambasciatori che devono partir tanto per Francia, che per <lb/>
+Inghilterra; et per quella di Francia in particolare non sano <lb/>
+risolver quello, che devono fare, sendo entrati in non <lb/>
+poco sospetto degl’andamenti della Francia, et delle <lb/>
+volontà del Re, dei ministri, et d’altri dipendenti <lb/>
+contra quelli della religione riformata, doppo haver <lb/>
+intesa l’erettione di certa Chiesa catholica in luoco <lb/>
+ove da settanta anni passati mai era stato esser-<lb/>
+citato il catholicismo; et tanto peggio per esservi <lb/>
+stati posti iesuiti. Sono anco in sospetto di una <lb/>
+lega, et intelligenza secreta tra qualche principi <lb/>
+contra quelli della religione riformata. </p>
+<p>Sentono discontento anco, che ’l re della Gran Bretagna <lb/>
+si mostri così lontano dall’operar ciò, che stimano <lb/>
+sarebbe di suo dovere per l’interesse commune <lb/>
+et per il servitio del suo genero; et la propositione <lb/>
+di monsignor Carleton quando espresse la dichiaratione <lb/>
+del Re fu stimato d’assai fiachezza. Non <lb/>
+la lasciò per scritto all’assemblea; ma scrisse in <lb/>
+conformità al principe Mauritio, et all’occasione <lb/>
+di haver io visitato<ptr target="#tn2" n="2"/> l’ambasciator di Francia hebbi modo <lb/>
+di cavar copia della lettera il traslato della
+<pb n="327v" facs="09_327v" rend="0"/>
+quale mando qui aggiunto stimando, che possi riuscir di <lb/>
+gusto ad alcuna dell’Eccellenze vostre il vederlo. </p>
+<p>Questo anco fa, che si tardi la missione delli ambasciatori alla detta <lb/>
+Maestà, et vi si aggiunge, che vorrebbono pur questi signori <lb/>
+prima subodorar qualche cosa dalla parte delli arciduchi <lb/>
+di quello habbi ad esser delle tregue. Non so sel <lb/>
+medesimo rispetto militi anco per la nominatione d’ambasciator <lb/>
+ordinario per costa forse per regolarsi più in un <lb/>
+soggetto, che in un altro secondo l’affare più o meno <lb/>
+grave. Questo è il mio senso può esser che segui <lb/>
+ben presto altrimenti. </p>
+<p>Al presente si trova in Frisia il figliolo primogenito del <lb/>
+re di Bohemia condottovi per doversi allevare <lb/>
+presso la moglie del conte Ernesto di Nassau. Con lui <lb/>
+anco si trova il fratello del medesimo Re. </p>
+<p>Era stato fatto intender al signor principe Mauritio, che <lb/>
+detti principi volevano venir a Nimeghen per <lb/>
+vederlo, il che inteso, dubitando l’Eccellenza sua di <lb/>
+quello lor potesse succeder di male mentre non <lb/>
+potevano far di meno di non transitar per il Paese <lb/>
+dell’inimico ispedì immediate ottanta cavalli <lb/>
+consigliando, che adrittura passassero in Frisia. </p>
+<p>Il fratello sudetto del Re palatino presto si crede habbi
+<pb n="328r" facs="09_328r" rend="0"/>
+ad esser nell’Haya; si<ptr target="#tn3" n="3"/> dice che doverà passar in Inghilterra <lb/>
+a fine di riscaldar quel Re, et necessitarlo colla pre-<lb/>
+senza a pensar con maggior cuore a più vigorose riso-<lb/>
+lutioni per servitio della corona di Bohemia, et del <lb/>
+Palatinato. </p>
+<p>Del marchese Spinola non si sente, che si muovi ad effettivi <lb/>
+progressi. Viene scritto, che habbi lasciato Oppenheim <lb/>
+con buona guarnigione, et gli si sia retirato verso <lb/>
+Bringhen. Il mancamento de’ viveri non è molto <lb/>
+grande, ma patisce bene la sua cavallaria di <lb/>
+biade, fieni, et paglie, et par, che tutto quel di <lb/>
+bene, che al presente faccino li principi sia d’impe-<lb/>
+dirgliene il transito. Le malatie, et la necessità <lb/>
+tra la soldatesca italiana sono grandissime. Questo <lb/>
+non è nell’armata de’ principi, de’ quali mi disse il principe d’Oranges, che<ptr target="#tn4" n="4"/> come erano <lb/>
+forti<ptr target="#tn5" n="5"/> di cavallaria; così d’infanteria <lb/>
+erano deboli assai, havendo trovato, che li <lb/>
+paesani non valevano né alla fatica, né all’<lb/>
+attitudine, che mancavano assai anco d’huomini <lb/>
+di commando, et soggiunse, che veramente il <lb/>
+soccorso dei signori Stati li haveva confortati, et forti-<lb/>
+ficati di molto. </p>
+<pb n="328v" facs="09_328v" rend="0"/>
+<p>Dalla parte dei principi è venuto qui un gentilhuomo <lb/>
+per ringratiar questi signori del soccorso dato, et per tentar <lb/>
+nuovi aiuti, o almeno eccitarli a far a primo tempo <lb/>
+diversione nella miglior maniera a profitto della causa <lb/>
+commune. Gratie etc. </p>
+<p>Dall’Haya li 10 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="333r" facs="09_333r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="333v" facs="09_333v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 247 comincia <lb/>
+246 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="100">
+<!--
+<p n="333vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>x novembre 1620 ricevute 27 detto n° 247 </p>
+<p>Haya. Secretario Surian </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="101" corresp="100" source="329r-332v" >
+<div type="main" facs="main text of attachment I" n="101" corresp="100" >
+<!--<p>Allegato I al n. 100 (cc. 329r-332v)</p>-->
+<pb n="329r" facs="09_329r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere del secretario Surian dall’Haya n° 247 </p>
+<p>Copia della lettera del signor Dudles Carleton ambasciator per la <lb/>
+maestà della Gran Bretagna al signor principe d’Oranges <lb/>
+de’ 21 ottobre 1620 in conformità dell’espositione <lb/>
+del detto Ambasciatore fatta il medesimo giorno nell’assemblea <lb/>
+dei signori Stati Generali. </p>
+<p>Li signori Stati Generali hanno stimato a proposito di far officio con <lb/>
+il Re mio signore li giorni passati col mezo del loro<ptr target="#tn6" n="6"/> ambasciator monsignor <lb/>
+Carone primieramente intorno li lor proprii affari, poi per <lb/>
+quello dei loro amici. Quanto al primo<ptr target="#tn7" n="7"/> <lb/>
+si rimette la Maestà sua totalmente<ptr target="#tn8" n="8"/> alla venuta della<ptr target="#tn9" n="9"/> loro <lb/>
+ambasciata<ptr target="#tn10" n="10"/> straordinaria della quale di settimana in settimana <lb/>
+si aspetta l’arrivo, et per<ptr target="#tn11" n="11"/> quello c’ha ella detto a monsignor <lb/>
+Caron per far ad essi la communicatione. </p>
+<p>Quanto al secondo punto, che tocca al genero della Maestà sua <lb/>
+verso il quale hanno pregato li<ptr target="#tn12" n="12"/> signori Stati, che <lb/>
+sua Maestà concorri per la sua difesa contra ’l nemico come <lb/>
+con dichiaratione delle assistenze ch’essi gli hanno di <lb/>
+già date, et offerta d’impiegar tutto quello che <lb/>
+haveranno di forze, et di potere per via di diver-<lb/>
+sione, o altrimenti, come che<ptr target="#tn13" n="13"/> da sua Maestà fosse <lb/>
+trovato meglio, et più pronto d’acconsentire unendosi <lb/>
+con essi loro. Mi ha la Maestà sua commandato <lb/>
+in conformità della risposta, ch’ella ha dato a <lb/>
+monsignor Caron (havendo a tal effetto scritto, et <lb/>
+sendosi dichiarita al re di Bohemia, et alli <lb/>
+principi dell’Unione) de farli intender (come io <lb/>
+ho fatt’hoggi nella loro assemblea) che nonostante
+<pb n="329v" facs="09_329v" rend="0"/>
+che l’affar di Bohemia sia stato intrapreso senza sua <lb/>
+saputa, et consiglio, di maniera che il giudicio non <lb/>
+è stato rimesso alla Maestà sua, come mediamente ella non <lb/>
+se n’è mescolata, sendosi riservata alla neutralità <lb/>
+per il desiderio, c’ha havuto di rendersi mediatrice <lb/>
+indiferente a fine di componer le dette differenze <lb/>
+havendo sin dal principio intrapreso il detto alla <lb/>
+richiesta, et instanza di ambi le parti: tuttavia <lb/>
+toccante il punto della legitima<ptr target="#tn14" n="14"/> et naturale difesa <lb/>
+de’ suoi figliuoli, et del loro patrimonio hereditario ella <lb/>
+non s’è tenuta, ne comportata come neutrale, anzi <lb/>
+col mezo di molte lettere prima all’arciduca Alberto <lb/>
+doppo con quello d’ambasciatori espressi, che sono stati <lb/>
+spediti a quell’Altezza, come anco alla più parte <lb/>
+de’ principi<ptr target="#tn15" n="15"/> dell’Imperio tanto ecclesiastici, <lb/>
+che secolari, li quali mostrano inc[l]inar<ptr target="#tn16" n="16"/> a quella <lb/>
+parte, ella li ha direttamente fatta l’intimatione <lb/>
+che se qualcheduno facesse invasione del Palatinato <lb/>
+sua Maestà sarebbe necessariamente impegnata per proteger <lb/>
+et difender li suoi figlioli, come ella se n’è dichia-<lb/>
+rata doppo più apertamente al re di Spagna, et <lb/>
+al medesimo Imperatore, questo causa al presente ch’ella
+<pb n="330r" facs="09_330r" rend="0"/>
+vede esser stata fatta un’effettiva invasione del lor pa-<lb/>
+trimonio naturale (il che già mai ella non haverebbe voluto <lb/>
+creder, che fosse attentato) secondo ch’ella parla chiaro; <lb/>
+così ella vuol esser ben intesa; come è obligata per <lb/>
+interesse di natural affetione di honore, et di giustitia <lb/>
+di fare. Sopra che io sono stato incaricato di render <lb/>
+gratie alli signori Stati per nome della Maestà sua (come <lb/>
+anco a vostra Eccellenza) per la loro amorevol, et christiana <lb/>
+prontezza nell’assistenza, c’hanno data per la <lb/>
+difesa del Palatinato, et pregarle di continuar il mi-<lb/>
+glior soccorso, che al presente hanno in piedi davanti <lb/>
+li presenti tentativi, et sforzi dell’inimico, come <lb/>
+anco di assicurarle, che sua Maestà non mancarà dal <lb/>
+canto suo dichiarandosi per la loro legitima et giusta <lb/>
+difesa; et nonostante che ella non habbi li mezi <lb/>
+pronti alla mano per dargli maggior assistenza <lb/>
+nanzi l’inverno, che presto si avicina: niente-<lb/>
+dimeno già ella n’ha presa la sua final risolutione <lb/>
+in caso, ch’ella non possi haver questa felicità <lb/>
+di far la pace durante la vernata (il che <lb/>
+dev’ella primieramente, et avanti tutto ’l resto <lb/>
+effettuare con li migliori mezi, che le sarà possibile)
+<pb n="330v" facs="09_330v" rend="0"/>
+questo fa, che sua Maestà è deliberata in questo interim <lb/>
+di far tutto quel che potrà di preparativi per la guerra <lb/>
+a fine di trattar la pace con tanto maggior auttorità, che <lb/>
+non ha fatto per innanti, almeno per far in effetto <lb/>
+una real guerra difensiva all’entrar della primavera <lb/>
+che viene in caso (come ho detto) che quanto ella impiega <lb/>
+per la pace riesca inutile. </p>
+<p>Questa è la carica, c’ho havuta dal Re mio signore, che <lb/>
+mi ha commandato anco di far la medesima dichiaratione <lb/>
+con lettere mie a vostra Eccellenza et pregarla di communicarla <lb/>
+alli deputati delli signori Stati, che al presente si tro-<lb/>
+vano in campo. </p>
+<p>Io ho<ptr target="#tn17" n="17"/> aggiunto<ptr target="#tn18" n="18"/> da me medesimo quello ch’io trovo molto a proposito <lb/>
+per la presente necessità (a quest’hora che li signori Stati <lb/>
+sano la resolutione del Re mio signore che conforma dei <lb/>
+desiderii loro) che siano contenti di scriver a vostra Eccellenza <lb/>
+et ai lor deputati, che prima che vostra Eccellenza retiri le <lb/>
+sue truppe in guarnigione ella si sforzi di far tutto <lb/>
+ciò che si puole per la più grande assistenza, et <lb/>
+aiuto del Palatinato, a finché ’l soccorso di sua Maestà <lb/>
+la quale per il presente è impedita per mancamento <lb/>
+di non haver presentaneo modo, et per l’inverno,
+<pb n="331r" facs="09_331r" rend="0"/>
+che si avicina non sia<ptr target="#tn19" n="19"/> resa men profitevole per <lb/>
+li progressi, che l’inimico potesse fare; e senza dubio <lb/>
+farà per prevenir il detto soccorso di sua Maestà poiché <lb/>
+n’haverà la notitia sendo la dichiaratione aperta, <lb/>
+et conosciuta da tutto ’l mondo se non se li fa vigorosa <lb/>
+oppositione. </p>
+<p>L’haver li signori Stati mostrato di ricever molto bene questa <lb/>
+dichiaratione di sua Maestà, et l’inclinatione, <lb/>
+che ho osservata nelle loro signorie intorno a una <lb/>
+più forte protettione del Palatinato secondo la <lb/>
+presente necessità dell’affare, mi fa entrar in <lb/>
+buona speranza della loro risolutione di scriver <lb/>
+a vostra Eccellenza et ai signori loro deputati al campo in con-<lb/>
+formità della mia richiesta, et non dubitando<ptr target="#tn20" n="20"/> <lb/>
+in niuna maniera della prontezza di vostre Eccellenze nel <lb/>
+metter in essecutione tutto, che humanamente si può <lb/>
+fare. Io prego Iddio di dargli buono, et felice <lb/>
+successo restando. </p>
+<pb n="331v" facs="09_331v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="332r" facs="09_332r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="332v" facs="09_332v" rend="270"/>
+<p>Lettera dell’ambasciator Carleton <lb/>
+a sua Eccellenza </p>
+<p>nelle seconde<ptr target="#tn21" n="21"/> n° 247 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the deleted word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "ancora" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "stavano" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "sua Mestà" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-ta" corrected on the final "-r."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction; followed by a crossed-out word.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "difesa" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "tanto" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Ink stain.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-to" corrected above "-go."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "men" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "altri" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

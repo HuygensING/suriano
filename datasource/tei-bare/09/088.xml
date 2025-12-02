@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.088 date 1621-02-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">088</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 447r-450v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp548-566
+            </note>
+            <biblScope unit="page">447r-450v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has updated the States General on the situation in the Grison based on letters 8 January (BHO https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp508-522) and acknowledges receipt of letters 12 January (https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp522-533) given the urgency he has requested a new audience as the Spanish have convinced the Orsini to their side. Maurice is displeased at hearing this news and inquires what Venice will do. Reports that he has replied in general terms. Discusses war preparations in the archducal Netherlands and surmises it seems that Maurice wants war, but is worried about lack of support from France and England, who both seem to have won over by the Spanish </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-02-02">2 febbraio 1621</date>
+            <num>137</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="137">
+<div type="main" facs="main text of letter" n="137">
+<!--<p>2 febbraio 1621, L’Aia (cc. 447r-450v)</p>-->
+<pb n="447r" facs="09_447r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 269 fin 270 </p>
+<p>Serenissimo Principe </p>
+<p>riferii alli signori Stati Generali gl’avvisi, che dalla Serenità vostra mi <lb/>
+furono mandati nelle sue lettere de’ 8 del passato intorno <lb/>
+l’affar de’ Grisoni; et principalmente mi difusi nel pregiudicio, <lb/>
+che Spagnuoli tentavano coi loro artificii di portar a quei <lb/>
+popoli colla disunione tra essi, et quello massime, che dalla <lb/>
+Lega Grisa era stato risoluto; come procurassero le discordie <lb/>
+nel Paese, et tutto quel più, che si contiene nelle sudette lettere <lb/>
+con quella forza de’ concetti, et d’affetto, che puoti conoscer <lb/>
+più propria all’espressione della mente di vostra Serenità et ad <lb/>
+imprimerla<ptr target="#tn1" n="1"/> nei medesimi signori Stati. Con poche parole, ma piene, <lb/>
+et affettuose mi fu fatta risposta che conformò colla prece-<lb/>
+dente scritta nelle mie prime de hoggi otto n° 267 che <lb/>
+replicate unite col n° 268 vengono qui congionte. Et in <lb/>
+particolare espressero il dispiacer, che sentivano, che la Lega <lb/>
+Grisa fosse passata più avanti di quello li havevo signi-<lb/>
+ficato<ptr target="#tn2" n="2"/> nell’altra audienza; che non si poteva aspettar <lb/>
+il rimedio a questo disordine, che dalla mano di Dio <lb/>
+et speravano appresso, che gl’ufficii di vostra Serenità alla corte di <lb/>
+Francia haverebbono servito per far conoscer al Re <lb/>
+l’interesse proprio, et commune in così gran materia; et che <lb/>
+quanto alli signori Stati se havessero conosciuto poter far <lb/>
+di vantaggio, oltre le commissioni già date ai loro ambasciatori <lb/>
+lo haverebbono fatto, ringratiandomi sopra tutto della
+<pb n="447v" facs="09_447v" rend="0"/>
+continua communicatione, che la Serenità vostra lor faceva fare delle cose <lb/>
+che accadevano tra quei popoli. </p>
+<p>Quest’ufficio fu fatto da me passata settimana. Hieri <lb/>
+poi havendo veduta l’importanza degl’avvisi, che mi vengono <lb/>
+nelle sue lettere delli 12 genaro significai a questi signori quello, <lb/>
+che trovai a proposito stante la presente congiontura [d]e’<ptr target="#tn3" n="3"/> tempi <lb/>
+di esporli, colla rimonstranza di quanto era stato operato <lb/>
+da’ Spagnuoli in corte di Roma per tirar nel loro partito <lb/>
+la casa Orsina, et dal servitio di vostra Serenità il signor don Cosimo <lb/>
+considerandoli in efficace maniera a qual fine tendessero li <lb/>
+loro pensieri, come si prevalessero di tutte le cose per tirarne <lb/>
+il loro profitto, et esprimendo in particolare quello che si sentiva <lb/>
+haver essi fatto in Alemagna, et in Bohemia; che in <lb/>
+dodici anni di tregua da molte cose successe havevano potutto <lb/>
+comprender, che vantaggi, o che disavantaggi queste <lb/>
+Provincie havevano ritratti, con qual accortezza cami-<lb/>
+nassero, et come si poteva conoscer, che pareva che <lb/>
+in arbitrio d’essi Spagnuoli fosse la guerra, o la pro-<lb/>
+rogatione della tregua; cosa ne’ presenti tempi la più <lb/>
+essentiale; et a che queste Provincie dovevano più fissar <lb/>
+l’occhio per il proprio, et per l’interesse commune <lb/>
+replicando nel corso del ragionamento qualche concetto <lb/>
+toccante la Valtellina, et la Lega di Grisa, procurando
+<pb n="448r" facs="09_448r" rend="0"/>
+di far capir li miei concetti, in quanto la mia debolezza <lb/>
+seppe portarli, et la lingua esprimerli. </p>
+<p>Del negotio di casa Orsina non hebbi gran difficoltà a far che <lb/>
+fosse capito, poiché portandolo l’opportunità sendomi <lb/>
+trovato col signor principe d’Oranges dall’Eccellenza sua mi fu detto <lb/>
+che monsignor di Langarach ne<ptr target="#tn4" n="4"/> haveva scritto alli signori Stati<ptr target="#tn5" n="5"/> <lb/>
+et il Presidente havendomi rese gratie della confi-<lb/>
+dente communicatione degl’avvisi mi disse, che li Spagnuoli <lb/>
+non cessano di usar le loro maniere di fare, onde era necessario <lb/>
+star ben avvisati per evitar gl’inganni loro, et fuggir quel <lb/>
+di male, che può succeder dalla loro maniera artificiosa <lb/>
+che a questo li signori Stati haverebbono havuto riguardo, et <lb/>
+spetialmente a tutto ciò, che havesse potuto valer a comune <lb/>
+servitio; usando altro concetto simile per servitio anco <lb/>
+de’ Grisoni. Aggiungendomi, che in sommo grado have-<lb/>
+vano le prudenti communicationi di quella serenissima <lb/>
+Republica, et li suoi prudenti avvertimenti, che con lei con-<lb/>
+correranno anco per quello che potranno al mantenimento <lb/>
+et conservatione dell’una, et dell’altra Republica. </p>
+<p>Si vede chiaro, che ognuno di questi signori resta impresso del <lb/>
+mal termine de’ Spagnuoli, et non ha dubio, che per <lb/>
+il proprio interesse haveranno l’occhio di evitar quello, <lb/>
+che possi riuscir di qualche pregiudicio a queste </p>
+<pb n="448v" facs="09_448v" rend="0"/>
+<p>Provincie, et che anco si porteranno per servitio de’ <lb/>
+proprii amiici, et collegati, et poiché mi aveggo di questo <lb/>
+tanto non mancarò ne’ particolari congressi, et nelle particolari <lb/>
+visite di andar con destra maniera gittando di quei concetti <lb/>
+che possono servire a tenir vivi questi pensieri tendenti <lb/>
+al ben commune, et alla commune libertà; et massime per <lb/>
+quello, che veggo espresso nel fine delle lettere di vostra Serenità <lb/>
+scritte all’eccellentissimi signori ambasciatori in Francia. Et se si compiacerà <lb/>
+di darmi altro più preciso ordine sarà da me puntualmente <lb/>
+essequito. </p>
+<p>Sentì il signor Mauritio con dispiacere quello che gli riferii <lb/>
+del tratto, che Spagnuoli havevano fatto con quelli di casa Orsina, <lb/>
+et più gli dispiacque anco la violenza, che si tentava<ptr target="#tn6" n="6"/> <lb/>
+far al signor don Cosimo; et disse. In fine Spagnuoli si <lb/>
+vogliono far patroni et dei stati, et degl’huomini, et <lb/>
+dobbiamo haver l’occhio molto ben fisso ai loro andamenti. <lb/>
+Hora par che sia il proprio tempo di ben intendersi per <lb/>
+non lasciar che passino avanti nei loro disegni; ma come <lb/>
+si possi fare qua sta la questione, mentre pur che <lb/>
+si siano guadagnati per varie stradde la Francia, et <lb/>
+l’Inghilterra. Et qui m’interpellò, che cosa pensa-<lb/>
+rebbe la serenissima Republica che si potesse fare nelle <lb/>
+presenti congiunture? Io a questa interrogatione
+<pb n="449r" facs="09_449r" rend="0"/>
+me la passai con parole generali, che per hora il vero termine <lb/>
+fosse di ben avvisare, et mirar gl’andamenti de’ Spagnuoli <lb/>
+per farli quell’ostacolo, che fosse necessario et opportuno. </p>
+<p>Passò il signor Principe interrogato da me a dirmi, che dalla parte <lb/>
+dei serenissimi arciduchi tutte le cose parevano havessero apparenza <lb/>
+di guerra, et che un gentilhuomo arrivato hieri <lb/>
+di Brusselles haveva riportato, che ogni piazza di sue Altezze <lb/>
+si andava munendo, ogni ben che picciolo ridotto forti-<lb/>
+ficando, si parlava di far nuove levate, et nuovi augu-<lb/>
+menti di compagnie non altrimenti che si volessero entrar in <lb/>
+guerra; a che aggiunse et noi saremo pronti a <lb/>
+rispondergli quando vorranno la guerra. </p>
+<p>Queste parole furono dette dall’Eccellenza sua con dimostratione <lb/>
+in faccia di haver desiderio, che la guerra si vedesse in <lb/>
+questi paesi. Tuttavia alcuni con chi ho parlato vogliono <lb/>
+sostener che quante parole dica l’Eccellenza sua in questo propo-<lb/>
+sito, nondimeno inclini più tosto alla tregua se sarà <lb/>
+proposta. Par a me anco d’haver<ptr target="#tn7" n="7"/> compreso nel <lb/>
+corso del ragionamento che vi miri; ma con consideratione <lb/>
+degna della prudenza di questo Principe poiché <lb/>
+parlandosi della prorogatione di essa tregua, o della <lb/>
+rottura della guerra<ptr target="#tn8" n="8"/> disse che faremo <lb/>
+se non havemo l’assistenza della Francia, et dell’Inghilterra
+<pb n="449v" facs="09_449v" rend="0"/>
+quelle doi corti sono si può dir affatto guadagnate <lb/>
+da’ Spagnuoli. Il re di Francia è giovane, et il favore <lb/>
+domina<ptr target="#tn9" n="9"/> quello d’Inghilterra non si vuol muover, et <lb/>
+ama la pace. Dai<ptr target="#tn10" n="10"/> ministri dell’una, et l’altra Maestà <lb/>
+non si cava<ptr target="#tn11" n="11"/> altro che belle parole: onde non so vedere <lb/>
+disse l’Eccellenza sua quello si potiamo prometter, o dobbiamo <lb/>
+sperare. Come si sia l’opinione dell’universale è che <lb/>
+le doi ambasciate habbino a riportar il netto, et la certezza <lb/>
+di quello doverà esser o di rottura, o di<ptr target="#tn12" n="12"/> prorogatione <lb/>
+la tregua. Al qual proposito discorrendone sua Eccellenza <lb/>
+disse gl’ambasciatori non hanno carico di far alcun moti[…]<ptr target="#tn13" n="13"/> <lb/>
+questo è quello, che ho ritratto, et nella commune vi è <lb/>
+grandissima ambiguità, ma la più gran parte tiene <lb/>
+che per quest’anno certo non habbi a farsi alcuna mutatione <lb/>
+in questo Stato, et da qualcheduno viene formata una <lb/>
+congietura assai plausibile, che delusi Spagnuoli dall’<lb/>
+opinione che havevano di farsi patroni del passaggio <lb/>
+delle riviere della Mosa, et del Wal, et colla prigio-<lb/>
+nia dei contrahenti in pregiudicio di queste Provincie <lb/>
+frustrati nel loro presuposito<ptr target="#tn14" n="14"/> tenteranno altro arti-<lb/>
+ficio, et altro inganno per fermar piedi tale in qualche <lb/>
+angolo di queste Provincie, che servì a dar loro <lb/>
+legge, et a rovinarle, et in questo mentre lascieranno
+<pb n="450r" facs="09_450r" rend="0"/>
+caminar inanti la tregua. Gratie etc. </p>
+<p>Dall’Haya li 2 febraro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="450v" facs="09_450v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 269 fin 270 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="137">
+<!--
+<p n="450vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 febraro 1620<ptr target="#tn15" n="15"/> ricevute 25 detto n° 209 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line on "impresa" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "di questo | negotio" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by -"lo" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "della guerra" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "quello Inghilterra" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Da-" corrected above "ha-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "-no" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "prop" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> There is a hole in the page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

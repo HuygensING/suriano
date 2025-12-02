@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.009 date 1621-03-30</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 36r-38v, 43r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp612-622
+            </note>
+            <biblScope unit="page">36r-38v, 43r-v, 39r-40v, 41r-42v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Peckius was not pleased with the reply from the States to his proposition and has returned to Brabant. Many copies of his proposal and the reply have been printed but the consequences are unclear. Waiting to see the reaction of the archdukes. Increased worries as the French request benefits for their merchants and persecution of Van Aerssen. Two documents attached: the propositions to the States General by Peckius about a Truce and the answer by the States General to Peckius</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-30">30 marzo 1621</date>
+            <num>012, 013, 014</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="012">
+<div type="main" facs="main text of letter" n="012">
+<!--<p>30 marzo 1621, L’Aia (cc. 36r-38v, 43r-v)</p>-->
+<pb n="036r" facs="10_036r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 284 fin 285 </p>
+<p>Serenissimo Principe </p>
+<p>sentirà la Serenità vostra dall’aggiunta traduttione della proposta <lb/>
+del cancellier Pecchius fatta a nome dei serenissimi arciduchi <lb/>
+il vero senso di essa, che se ben nella sostanza conforma <lb/>
+con quanto riverentemente le scrissi la passata settimana nelle mie <lb/>
+lettere prime n° 282, che invio<ptr target="#tn1" n="1"/> replicate aggiunte <lb/>
+con le seconde n° 283: esprime nondimeno più chiaro <lb/>
+le parole, che hanno tocco al cuore li signori Stati, et il generale <lb/>
+di questi popoli, et il risentimento dell’Eccellenze loro viene <lb/>
+assai espresso nella risposta, che hanno data<ptr target="#tn2" n="2"/> al me-<lb/>
+desimo Pecchius. Mando anco di questa la traduttione. </p>
+<p>Questa risposta è stata consultata, essaminata, et ben consi-<lb/>
+derata, procurandosi, ch’ella fosse con parole tali, che <lb/>
+esprimessero il senso di questi signori senza che si potesse <lb/>
+darle che una sola, et semplice interpretatione, <lb/>
+fuggendo le parole equivoche, et tenendosi al sodo <lb/>
+di non voler ascoltar in alcun tempo quelli, che <lb/>
+intendessero trattar con essi loro altrimenti che senza <lb/>
+confessar la sopranità, libertà, et dominio assoluto <lb/>
+di queste Provincie dando il nome di eronea alla <lb/>
+detta propositione, et usando altre parole di poca <lb/>
+essistimatione. Doi deputati dell’assemblea delli
+<pb n="036v" facs="10_036v" rend="0"/>
+signori Stati furono mandati a portar al Pecchius la detta risposta <lb/>
+la quale fu letta da lui, et ne mostrò poco contento, et compren-<lb/>
+dendo dal parlar delli medesimi deputati questa esser la risoluta <lb/>
+mente dell’Eccellenze loro, et non poter sperar di haver addito di passar <lb/>
+più avanti si restrinse nelle spalle, mostrando con parole pro-<lb/>
+prie che non aspettava una simil risposta<ptr target="#tn3" n="3"/>, che se li signori Stati non applaudevano ciò che da lui era <lb/>
+stato espresso per la quiete, et riposo di questi paesi, et per <lb/>
+l’unione loro, che potevano essi far apertura di ciò che <lb/>
+sentivano in questo particolare per trovar ripiego proprio, et <lb/>
+corrispondente alla buona volontà dei serenissimi arciduchi. <lb/>
+Et poiché s’avide, che li deputati non tenevano altro <lb/>
+ordine pigliò per tacita licenza il tenersi essi a quello, <lb/>
+che conteneva la risposta suddetta, onde risolvè di ritor-<lb/>
+narsene in Brabant. Giovedì a sera succedè questo. <lb/>
+Venerdì andò a licentiarsi dalli ambasciatori di Francia, et <lb/>
+Inghilterra, mandò anco alla mia casa, ma sendo già in <lb/>
+Amsterdam, come riverentemente le scrissi, che dovevo conferir-<lb/>
+mevi<ptr target="#tn4" n="4"/> per la terminatione, et signatura dei conti con que[ll’] <lb/>
+Amiralità non hebbi occasione di ricever l’honore, come <lb/>
+humilissimo ministro della Serenità vostra. </p>
+<p>Troppo si trovò impacciato a Delft nel venirsene qui
+<pb n="037r" facs="10_037r" rend="0"/>
+et per fuggir qualche nuovo mal incontro stimò proprio partir <lb/>
+il sabbato doi hore avanti giorno per Brabant passando <lb/>
+fuori della città di Delft, della quale le porte erano ancor <lb/>
+chiuse. Fu accompagnato da alquanti moschettieri della <lb/>
+guarda di sua Eccellenza, et dal Capitano della medesima guardia fino a <lb/>
+Delfsaven all’imbarco sopra la Mosa con aprehensione <lb/>
+estrema dubitando tuttavia dell’insolenza popolare. </p>
+<p>Con gl’ambasciatori c’ha visitati ha usati dei medesimi concetti, che con <lb/>
+li deputati delli signori Stati Generali, dolendosi di haver <lb/>
+havuta risposta così scabrosa, et poco conveniente <lb/>
+alla buona volontà dei suoi principi, che non poteva <lb/>
+far altro, che riportarla, et pregar Iddio, che intanto <lb/>
+ispirasse la buona volontà di ognuno alla publica, <lb/>
+et commune quiete. </p>
+<p>Della propositione, et della risposta presero risolutione li signori <lb/>
+Stati di darne parte alli ambasciatori di Francia, Inghilterra, <lb/>
+et Danimarca, portandogliene copia in fiamingo il <lb/>
+venerdì; et perché io non rivenni, che domenica sera di <lb/>
+Amsterdam, a me venne hieri espressamente uno di <lb/>
+Gheldria, et uno di Holanda a far la stessa commu-<lb/>
+nicatione usando concetti di confidenza, et di honore
+<pb n="037v" facs="10_037v" rend="0"/>
+verso quella serenissima Republica. Molte copie anco ne uscirono <lb/>
+ma più si vendono l’una, et l’altra alla stampa: incerto <lb/>
+nondimeno resta ancora quale habbi ad esser l’essito. <lb/>
+È vero che Spagnuoli attendono ad armarsi, si parla di <lb/>
+richiamar lo Spinola dal Palatinato, et che là habbi a <lb/>
+governar et l’armi, et quel Paese il serenissimo Leopoldo; <lb/>
+tutti però non lo credono. Qui continuano nelle provisioni <lb/>
+ordinarie. Li vasselli da guerra si approntano, in ogni modo <lb/>
+le opinioni dell’universale restano divise chi pensa alla <lb/>
+guerra, et chi vorrebbe la tregua. </p>
+<p>Pecchius sendo visitato dal signor principe Mauritio doppo haver <lb/>
+seco anco mostrato qualche senso in questa risposta c’haveva <lb/>
+ricevuta, disse, che poteva riportar ai serenissimi arciduchi <lb/>
+haver tanto penetrato, che queste Provincie si contente-<lb/>
+rebbono ricever la tregua con le conditioni passate. A che <lb/>
+sua Eccellenza stessa m’ha detto havergli replicato sorridendo <lb/>
+ch’era ben certa, che li signori Stati non havevano ancor <lb/>
+posto in consultatione questo punto, et meno altri vi have-<lb/>
+vano pensato. </p>
+<p>Si starà hora attendendo di sapere, come ciò sarà stato inteso <lb/>
+dai serenissimi arciduchi, et più attento sarà ognuno al motivo
+<pb n="038r" facs="10_038r" rend="0"/>
+che ne seguirà. </p>
+<p>Quello, che preme qui in estremo è il poco di buono, che si possono <lb/>
+questi signori prometter dalli doi re, che prima d’entrar <lb/>
+in qualche trattatione di rinovatione di aleanza vorrebbono <lb/>
+haver sodisfattione in quello, che ricercano, et particolarmente <lb/>
+la Francia vuol esser sodisfatta per li suoi mercanti, et <lb/>
+haver giustitia contra il signor cavalier Arsen. Questo si publica, <lb/>
+et par che vivi assai inquieto, et mortificato, se ben confida <lb/>
+che quanto ha scritto mentre fu ambasciatore in Francia poteva <lb/>
+arditamente farlo, come far deve ogni ministro quando <lb/>
+scrive a’ suoi patroni; et quanto allo stampato, ch’è il <lb/>
+più di che si duole la corte di Francia, s’iscusa <lb/>
+non haver egli la colpa, ma che chi così ha voluto <lb/>
+l’ha fatto. Non si crede però, che habbi ad haver per questo <lb/>
+alcun altro travaglio, che quello, che si possi prender <lb/>
+da sé medesimo. </p>
+<p>Io sendo stato questa mattina all’audienza per communicar <lb/>
+quanto dalla Serenità vostra mi è stato commesso con doi mani <lb/>
+di sue lettere come intenderà nelle sussequenti, ringra-<lb/>
+tiando questi signori della proposta, et risposta del Pecchius <lb/>
+fattami havere, stimai proprio di considerarle in
+<pb n="038v" facs="10_038v" rend="0"/>
+passando, che sarebbe stato proprio della loro prudenza <lb/>
+mirar molto bene all’artificio, et sagacità de’ Spagnuoli, et <lb/>
+guardarsi di non lasciarsi ingannare col spetioso nome <lb/>
+di quiete, potendo esser, che miri questo moto più tosto ad <lb/>
+una temporanea soggettione. Mi risposero, che se ne sarebbono <lb/>
+molto ben guardati. </p>
+<p>Alcuni de’ più sensati hanno opinione, che ’l Pecchius colla sua pro-<lb/>
+posta habbi havuto per fine, sendo così pungente al cuore <lb/>
+di questa libertà di cavar, et penetrar li pensieri, a che <lb/>
+mirino più questi popoli, et a che possino esser più commoda-<lb/>
+mente disposti per far poi quella risoltione, che più fu <lb/>
+stimata propria. </p>
+<p>Confidano grandemente in quella serenissima Republica; ma ben mi aveggo, che <lb/>
+con somma aspettatione attenderanno quello, che risponderà <lb/>
+sopra le loro lettere spedite da me con precedenti, et il <lb/>
+signor Principe me lo ha accennato et qualche altro ancora. <lb/>
+Di quello anderà seguendo starò avvertito per riverentemente <lb/>
+avvisarlo alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 30 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="043r" facs="10_043r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="043v" facs="10_043v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima <lb/>
+n° 284 fin 285<ptr target="#tn5" n="5"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="012">
+<!--
+<p n="043vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>30 marzo 1621 ricevute 21 aprile n° 284 </p>
+<p>Haya. Secretario Surian. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="013" corresp="012" source="39r-40v" >
+<div type="main" facs="main text of attachment I" n="013" corresp="012" >
+<!--<p>Allegato I al n. 12 (cc. 39r-40v)</p>-->
+<pb n="039r" facs="10_039r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya prime de’ 30 marzo 1621 de’ n° 284 </p>
+<p>Propositione alli signori Stati del Pecchius cancelliero di Brabant </p>
+<p>Nobili, et potenti signori. Questi ultimi giorni dei dodici <lb/>
+anni della tregua de’ Paesi Bassi nostra commune Patria <lb/>
+ci mettono nanti gl’occhi il mesto cambiamento, che <lb/>
+sul fine di simil conditionati accordi suole succeder <lb/>
+et di che tanto dall’una, che dall’altra parte li appa-<lb/>
+recchi già si preparano; ma tra tanto havendo li serenissimi <lb/>
+arciduchi gettati li loro occhi compassionevoli sopra li <lb/>
+grandi, et estremi inconvenienti ne’ quali venirebbe <lb/>
+a cader stante questo cambiamento li paesi, non <lb/>
+hanno voluto tralasciar di metter in somma consideratione, <lb/>
+et dar apertura di pensar li mezi, che potrebbono <lb/>
+servire per prevenir, et impedir questo; massime sendo <lb/>
+mossi a questo santo proponimento dalla loro natural <lb/>
+inclinatione alla pace, et dal loro zelo, et affettione <lb/>
+al ben commune. Quali anco sono stati li principali <lb/>
+motivi, che fecero risolver le loro Altezze alla <lb/>
+precedente tregua, come ad un cominciamento dell’<lb/>
+intera, et desideratissima fine di questo incendio di guerra <lb/>
+nel quale trovonno questi<ptr target="#tn6" n="6"/> paesi<ptr target="#tn7" n="7"/> all’hora, che vi venero. <lb/>
+Credendo, che nel tempo della tregua le loro attioni <lb/>
+habbino parimente<ptr target="#tn8" n="8"/> testificato, et fatta constar la <lb/>
+sicurezza delle loro buone intentioni; come similmente <lb/>
+le loro Altezze niuna cosa per l’avenire sono per <lb/>
+haver a cuore, che di procurar quello, che sarà il <lb/>
+più avantaggioso per il Paese in generale; il che
+<pb n="039v" facs="10_039v" rend="0"/>
+parerebbe consister in questo, che tutte le parti, et membri <lb/>
+de’ Paesi Bassi fossero di nuovo uniti in un sol corpo, et sotto <lb/>
+un capo. Sendo molto apparente, che come avanti <lb/>
+le guerre de’ nostri tempi erano in una amichevol con-<lb/>
+cordia, et tranquilla prosperità, di nuovo goderiano la <lb/>
+medesima, o maggiore, in caso che le provincie da <lb/>
+questa parte si lasciassero indurre ad un buono, commodo <lb/>
+et fermo accordo con recognitione del Principe naturale. <lb/>
+Questo è il punto, che le loro Altezze mi hanno imposto <lb/>
+di rimostrare, et rappresentar amichevolmente a vostre Signorie, havendo <lb/>
+stimato che se li convenisse (prima tutte le nuove invasio-<lb/>
+ni di guerra) far verso di loro questo ufficio di buon <lb/>
+Principe, cercando, et havendo ancor a cuore ciò che <lb/>
+concerne il ben loro, a fine di haversi a pigliar consi-<lb/>
+deratione, et sopra ciò una fruttuosa risolutione <lb/>
+col mezo della quale ogni spargimento di sangue, le <lb/>
+eccessive impositioni, et altre miserie, che per sì longhi <lb/>
+anni ha convenuto sopportar questi paesi possino in <lb/>
+fine esser una volta prevenuti, et levati. Et in caso <lb/>
+che vostre Signorie voglino entrar in communicatione d’accordo <lb/>
+sopra questa<ptr target="#tn9" n="9"/> propositione, le loro Altezze si lascieranno intender di tal sorte a tutte <lb/>
+giuste, et ragionevol conditioni, et capitulationi, che <lb/>
+vostre Signorie medesime haveranno soggetto di contentarsene, et <lb/>
+non vedranno solamente gl’effetti della buona volontà
+<pb n="040r" facs="10_040r" rend="0"/>
+dell’Altezze loro; ma anco la lealtà, et sincerità, ch’esse <lb/>
+hanno sempre havuta in singolar raccommandatione <lb/>
+et che fino ad hora hanno fatto apparere col mezo <lb/>
+della pontuale, et religiosa osservatione di tutte le <lb/>
+loro trattationi, et promesse, purchè voglino intieramente <lb/>
+confidarsi in esse; volendo ben assicurar vostre Signorie di <lb/>
+simil buona, et leal intentione della Maestà catholica <lb/>
+et ch’ella tenirà per buono, fermo, et irrevocabile <lb/>
+tutto quello, che in questo particolare le loro Altezze <lb/>
+trattassero, et concludessero. </p>
+<p>Presentata li 23 marzo 1621 <lb/>
+alli signori Stati Generali nell’Haya </p>
+<p>Segnata P. Peckius
+<pb n="040v" facs="10_040v" rend="270"/>
+n° 1 </p>
+<p>Propositione del Pecchius <lb/>
+cancelliero di Brabant </p>
+<p>nelle prime n° 284 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="014" corresp="012" source="41r-42v" >
+<div type="main" facs="main text of attachment II" n="014" corresp="012" >
+<!--<p>Allegato II al n. 12 (cc. 41r-42v)</p>-->
+<pb n="041r" facs="10_041r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dall’Haya prime de’ 30 marzo 1621 de’ n°<ptr target="#tn10" n="10"/> 284 </p>
+<p>Risposta delli signori Stati al Pecchius </p>
+<p>Li Stati Generali delle Provincie Unite de’ Paesi Bassi, havendo <lb/>
+intesa, et essaminata la propositione fatta per nome dei <lb/>
+serenissimi arciduchi di Brabant nella<ptr target="#tn11" n="11"/> loro assemblea <lb/>
+a’ 23 di questo mese prima di bocca poi per scritto portata <lb/>
+dal signor Pietro Pechio cavaliere signor di Bouckland cancelliero di <lb/>
+Brabant in vigor delle lettere credentiali de’ detti arci-<lb/>
+duchi fatte a Brusseles a’ 16 del presente, dichiarano, <lb/>
+che indubitabile, et fuori d’ogni disputa la potenza, et <lb/>
+sovranità delle Provincie Unite dei Paesi Bassi appartiene <lb/>
+ai detti alti et potenti signori, et stati delle respettive Provincie <lb/>
+il che religiosamente hanno del continuo mantenuto contra <lb/>
+tutti quelli, che in qual si voglia modo hanno voluto <lb/>
+mettervi dubio, o attribuirla ad alcun altro Principe, <lb/>
+overo pretenderci qual si sia cosa. Da ciò è avenuto <lb/>
+che già mai hanno voluto acconsentir ad alcun trattato <lb/>
+col mezo del quale quelli medesimi havessero potuto tirarne <lb/>
+consequenza. Di che n’hanno fatta espressa dichiaratione <lb/>
+all’Imperatore, alli principi elettori, et ad altri potentati <lb/>
+come anco alli detti medesimi arciduchi, sendo li detti signori <lb/>
+Stati da più gran monarchi, re, potentati, et <lb/>
+republiche stati riconosciuti, et trattati per sovrani <lb/>
+et li loro paesi per paesi franchi; li quali tutti in tal <lb/>
+qualità hanno fatto diversi trattati, et unioni con li <lb/>
+detti principi, havendo ciò in maniera tale mantenuto <lb/>
+che li sudetti signori Stati né con li arciduchi, né con il re
+<pb n="041v" facs="10_041v" rend="0"/>
+di Spagna hanno voluto entrar in alcun trattato se prima <lb/>
+non havessero dichiarato, et dato atto, cioè che <lb/>
+trattavano con li detti signori come con franche provincie <lb/>
+et paesi nei quali essi non havevano alcuna cosa a <lb/>
+pretender; et poiché questo è così chiaro, come il giorno <lb/>
+et noto, et evidente al mondo tutto, par strana a’ d[ett]i<ptr target="#tn12" n="12"/> <lb/>
+signori la propositione del signor cavallier Pecchius, mettendo <lb/>
+innanti, che il più gran bene di questo Paese consistesse <lb/>
+che le Provincie tutte fossero di nuovo riunite in un corpo <lb/>
+et sotto ad un capo, et che si lasciassero indure ad un <lb/>
+buono, commodo, et fermo accordo sotto la recognitione <lb/>
+del principe naturale; et che in caso che questi paesi <lb/>
+volessero entrare in communicatione d’accordo, che <lb/>
+l’arciducha s’accommoderebbe ad ogni giusta, et <lb/>
+ragionevol conditione poiché questo accordo non <lb/>
+potrebbe servire ad evitare, et impedir li gravi, et <lb/>
+estremi inconvenienti nei quali li detti paesi veni-<lb/>
+rebbono a ricadere per la guerra, come pare esser <lb/>
+l’intentione del proponente; ma più s’accorderebbe <lb/>
+il fuoco di essa, vedendo, che ciò va direttamente contro <lb/>
+la sovranità, et grandezza di questi paesi, li quali le <lb/>
+loro Signorie hanno sino al presente a gran costo di guerra <lb/>
+sì lodevolmente mantenuti, sendo risoluti (con la <lb/>
+gratia di Dio di mantenerli ancora<ptr target="#tn13" n="13"/> fino <lb/>
+alla più gran estremità coi beni, et col sangue
+<pb n="042r" facs="10_042r" rend="0"/>
+et insieme questa propositione esser erronea, et insoportabile <lb/>
+tirando in disputa<ptr target="#tn14" n="14"/> nel loro stato<ptr target="#tn15" n="15"/> la medesima sovranità <lb/>
+contra le leggi fondamentali di questi paesi. Stante che <lb/>
+li detti signori non possono assentire ad una così mentita, <lb/>
+dannosa, et insoportabil propositione, che contiene una <lb/>
+insoportabil atrocità contro allo Stato, et dishonore <lb/>
+presso tutti li monarchi, re, potentati, et republiche <lb/>
+li<ptr target="#tn16" n="16"/> quali hanno con essi contrattato, come con un sovrano <lb/>
+Stato, ma sono forzati di necessariamente dichiarire, <lb/>
+come per le presenti<ptr target="#tn17" n="17"/> dichiarano, che tutti quelli, che <lb/>
+per qualche espressione o altrimenti tenteranno di <lb/>
+tirar in disputa il dritto sovrano di questi paesi, <lb/>
+impugnandolo, o attribuendolo ad alcun altro principe <lb/>
+o alcuna cosa, che habbi tal odore saranno tenuti per <lb/>
+inhabili d’esser<ptr target="#tn18" n="18"/> admessi in alcun trattato presso <lb/>
+le loro Signorie, il che per appunto dano per risposta al <lb/>
+sudetto signor Pecchius. Aggiungendo solamente, che sue Altezze <lb/>
+che stanti li<ptr target="#tn19" n="19"/> molti compianti fatti ad esse (intorno <lb/>
+a che mai s’è potuto tirar alcuna sodisfattione) sanno <lb/>
+molto bene come li detti signori possino intender essersi <lb/>
+mantenuto<ptr target="#tn20" n="20"/> da sue Altezze et dal re di Spagna <lb/>
+pontualmente et religiosamente il trattato della tregua. </p>
+<p>Fatta nell’assemblea delli alti<ptr target="#tn21" n="21"/> et potenti signori li <lb/>
+Stati Generali, nell’Haya a’ 25 marzo 1621
+<pb n="042v" facs="10_042v" rend="270"/>
+n° 2 </p>
+<p>Risposta delli signori Stati al <lb/>
+Pecchius </p>
+<p>n° 284 nella prima </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "che … risposta" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-rim-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "communicatione" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out number.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "assemblea" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> There is a hole in the page.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "col corpo" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "tirando in disputa" added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "tirando in disputa" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Precedes "che" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Precedes "potute" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> corrected above "s(igno)ri"; followed by "stati" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

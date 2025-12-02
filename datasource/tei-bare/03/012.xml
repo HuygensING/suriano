@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.012 date 1616-10-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 68r-70v, 73r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 14, letter 494) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol14/pp324-341)
+            </note>
+            <biblScope unit="page">68r-70v, 73r-v, 71r-72v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Pasini has travelled from Brussels to inform him personally about a few men who want to enter in the service of Venice. Chief amongst them is Thomas Studder, a 43 year old Catholic who has served under Colonel Francis Vere before entering into the service of the archdukes. According to Pasini, Studder is an experienced engineer who is able to speak seven or eight languages. Attached to the letter is a document detailing Studder’s career. In addition, seven standard-bearers  want to serve Venice and reminds the Venetian authorities that if they wish, Pasini will try to convince the Tuscan engineer Gamurrini to join their service. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-31">31 ottobre 1616</date>
+            <num>023, 024</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="023">
+<div type="main" facs="main text of letter" n="023">
+<!--<p>31 ottobre 1616, L’Aia (cc. 68r-70v, 73r-v)</p>-->
+<pb n="068r" facs="03_068r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>il signor Gio. Battista Pasini mosso dalla riverente devotione <lb/>
+che come humilissimo suddito della Serenità vostra le professa è <lb/>
+venuto a me da Brusseles per darmi notitia a bocca <lb/>
+di alcuni soggetti, che hanno attualmente servito, et tuttora <lb/>
+sono trattenuti dai serenissimi arciduchi, et vivono con <lb/>
+desiderio di<ptr target="#tn1" n="1"/> impiegarsi<ptr target="#tn2" n="2"/> per quella serenissima Republica. <lb/>
+Tra questi vi è un cavallier inglese di religione <lb/>
+catholico huomo di 43 anni in circa che altre volte <lb/>
+ha travagliato in questi paesi sotto la condotta <lb/>
+di quel valoroso colonello Francesco Ver. Fu <lb/>
+luogotenente del suo colonellato; servì in esso per <lb/>
+sergente maggiore, et in fine n’hebbe si può dir <lb/>
+l’assoluto commando in absenza del medesimo Ver. <lb/>
+Mosso poi da qualche alletamento di maggior <lb/>
+avanzo, che gli fu proposto dalla parte de-<lb/>
+gl’arciduchi, et stimolato dal zelo della religio-<lb/>
+ne si dispose a prender licenza di qua, et <lb/>
+passar al servitio di quell’Altezze et là è stato <lb/>
+anco sargente maggiore, et mentre viveva <lb/>
+colla speranza di honore, et d’utile fu <lb/>
+riformato; ma con promessa sempre di
+<pb n="068v" facs="03_068v" rend="0"/>
+avanzarlo. Satio di più attender gl’effetti delle promesse, <lb/>
+et disgustato ha proposto in sé stesso di voler dedicarsi <lb/>
+al servitio, et sotto l’ombra della Serenità vostra et ha per <lb/>
+tal causa fatto capo col medesimo Pasini pregandomi per <lb/>
+nome di esso cavalliere a prender informatione <lb/>
+di lui dal signor conte Mauritio. Così feci la passata <lb/>
+settimana coll’occasione, che andai a veder l’Eccellenza sua doppo <lb/>
+il suo ritorno di Buren. Mi confermò ella <lb/>
+esser il soggetto di buona isperienza di valore, <lb/>
+et che qui haveva acquistato nome di buon soldato <lb/>
+fatto sotto la disciplina del detto colonello Francesco <lb/>
+Ver; che in una sola cosa era degno di poca <lb/>
+laude di haver abandonato questo servitio <lb/>
+per appigliarsi a quello de’ Spagnuoli per devenir <lb/>
+poi semplice capitano nell’armata di sue Altezze <lb/>
+ma che ’l motivo era nato dalle promesse grandi <lb/>
+che gli erano state fatte. Mi ha detto poi il <lb/>
+Pasini, che detto cavalliere oltre esser huomo di <lb/>
+buon commando nell’armate professava molta <lb/>
+pratica per ingegnero, intendendosi di fortificationi <lb/>
+di trincee, et altre cose simili, et parlava
+<pb n="069r" facs="03_069r" rend="0"/>
+oltre la sua naturale inglese sette, over otto altre <lb/>
+lingue, et l’italiana in particolare. È al presente <lb/>
+intertenuto<ptr target="#tn3" n="3"/> da’ serenissimi arciduchi con cento dieci ducati il <lb/>
+mese; ma si fa forte il Pasini che vostra Serenità l’have-<lb/>
+rebbe con cento ducati, et forse anco con ottanta <lb/>
+dandoli il titolo di colonello, che particolarmente pretende <lb/>
+de’ servitii, che ha fatti, et dove si è trovato <lb/>
+nell’occasione delle passate guerre, il tutto <lb/>
+Signorie vostre eccellentissime si compiaceranno, potranno veder nell’<lb/>
+aggiunto foglio, che mi ha mandato per far loro <lb/>
+havere, et desidera di saper la sua prudentissima <lb/>
+risolutione perché immediate si renderebbe ai <lb/>
+piedi della Serenità vostra. </p>
+<p>Di più il Pasini m’ha detto esserci un Filippo <lb/>
+chiamato il Bello da Lecce alfiere con altri <lb/>
+sette, che han pur servito d’alfiero ognuno <lb/>
+di loro da 15 in 20 anni a sue Altezze <lb/>
+et per consequente hanno veduto assai, et de’ <lb/>
+quali la Serenità vostra potrà valersi molto bene <lb/>
+nella sua armata per commandare secondo le <lb/>
+occorrenze. Il primo si contenterà haver </p>
+<pb n="069v" facs="03_069v" rend="0"/>
+<p>14 overo 15 ducati il mese, et gl’altri si potrebbono <lb/>
+contentar di dieci fin 12<ptr target="#tn4" n="4"/> ducati<ptr target="#tn5" n="5"/>. </p>
+<p>Mi ha poi aggiunto, che haverebbe volontieri veduto <lb/>
+al suo servitio quel Gioseppe Gomorini fiorentino <lb/>
+ingegnero del quale le scrissi con le mie de’ 31 agosto <lb/>
+et che si trovava appresso il marascial d’Ancre <lb/>
+ma che quando la Serenità vostra havesse voluto far <lb/>
+capitale della persona, come lo merita per la <lb/>
+sua intelligenza nella professione sua <lb/>
+et haverlo al suo servitio pensava<ptr target="#tn6" n="6"/> haver tanto <lb/>
+in mano, che haverebbe potuto ripigliar la pratica <lb/>
+et trattar di farvelo venire, se bene<ptr target="#tn7" n="7"/> sarebbe <lb/>
+bisognato ad esso Gomorini caminar con destrezza <lb/>
+per rispetto del marascial sudetto d’Ancre trovan-<lb/>
+dosi hora come impegnato seco; ma converrà <lb/>
+che la Serenità vostra si disponga ad intartenerlo <lb/>
+con cento scudi il mese, et con titolo di colonello <lb/>
+perché da serenissimi arciduchi haveva il medesimo stipendio <lb/>
+pagato puntualmente ogni mese corrente quello <lb/>
+che non succede a tutti; ma l’obligo, che <lb/>
+tiene al marascial d’Ancre l’ha constretto
+<pb n="070r" facs="03_070r" rend="0"/>
+ad abandonar il servitio anco senza pigliarne licenza. </p>
+<p>Di questo, et dell’offerta degl’alfieri, et del sudetto <lb/>
+cavalliere Tomaso Studder inglese supplica esso <lb/>
+Pasini saperne la volontà della Serenità vostra per poterle <lb/>
+con essa render sodisfatti, et raccorda riverente-<lb/>
+mente, che quanto più pronta sarà la risposta <lb/>
+tanto più sarà cara: perché talhora la dilatione <lb/>
+fa<ptr target="#tn8" n="8"/> risolver li soggetti ad abbracciar <lb/>
+altri partiti. Così egli m’ha espresso; et io con <lb/>
+ogni humil riverenza conforme al mio <lb/>
+debito lo rappresento alle Signorie vostre eccellentissime. Gratie etc. </p>
+<p>Dall’Haye all’ultimo d’ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="070v" facs="03_070v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="073r" facs="03_073r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="073v" facs="03_073v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="023">
+<!--
+<p n="073vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Ultimo ottobre 1616 ricevute 16 novembre </p>
+<p>Secretario Surian dall’Haia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="024" corresp="023" source="71r-72v" >
+<div type="main" facs="main text of attachment I" n="024" corresp="023" >
+<!--<p>Allegato I al n. 23 (cc. 71r-72v)</p>-->
+<pb n="071r" facs="03_071r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere ricevute dall’Haia dell’ultimo ottobre 1616 </p>
+<p>Relatione delli servitii et occasione, che il cavaglier et sargento <lb/>
+maggiore ser Thomas Studder si è trovato nel tempo che è seguita <lb/>
+la guerra </p>
+<p>Dell’anno 1593 sino a l’anno 1597 si è trovato col generale et grande Amirante <lb/>
+della mare di Ingalaterra, et in quel tempo ha seguito il servitio della mare. </p>
+<p>Dell’anno 1598 si è partito dal detto Amirante con intentione di andare alla <lb/>
+guerra di Ongeria, et passando per Olanda si fermò col maestro di campo generale <lb/>
+delli Inglesi chiamato ser Francesco Ver, et essendo lui convitato dal detto Generale <lb/>
+con grande afficione, et lui con grande desiderio di servire sotto un huomo <lb/>
+tanto famoso et honorato il quale ha servito alcuni anni nella sua compagnia <lb/>
+per soldato. </p>
+<p>Nel medesimo anno 1598 si è trovato con la infantteria inglesa et in compagnia <lb/>
+del conte Mauritio et nel medesimo tempo che l’almirante di Arragona pigliò <lb/>
+Rimberga con l’armata del re d’España. </p>
+<p>Ne l’anno 1599 si è trovato con la infantteria inglesa nella villa de Bommels <lb/>
+essendo assediata dal detto amirante di Aragona, il si levò co’ l’armata senza <lb/>
+pigliar la villa. </p>
+<p>Ne l’anno 1600 nella primavera si è trovato con la infantteria inglesa et con <lb/>
+il conte Mauritio alla prezza delle fortalezze di Crevecur et santo Andrea. </p>
+<p>Nel medesimo anno nel mese de giullio si è trovato servendo nella infantteria <lb/>
+inglesa nella bataglia reale di Fiandra tra Ostenda et Nioponte dove il <lb/>
+re d’España perse la bataglia et in detta bataglia dettero la bandera <lb/>
+del generale essendo il primo offitio ottenuto et dipoi in recompensa del mio <lb/>
+servicio et ferite m’hanno fatto capitano della compania del detto Generale. </p>
+<p>De l’anno 1601 si è trovato col conte Mauritio nella prezza di Rimberga <lb/>
+capitano della compagnia del generale delli Inglesi et finito l’essidio fu <lb/>
+chiamato con tre mille huomini di gente vechia per venir per acqua alla <lb/>
+volta di Zelanda per intrare in Ostenda con altra tanta di gente nova <lb/>
+allora venuta di Ingelterra con il suo maestro di campo generale. </p>
+<p>Ne l’anno 1602 essendo consumato quasi tutta la infantteria inglesa et li <lb/>
+altri che si restarano furono chiamati con loro officiali per far più gente <lb/>
+et doppoi andar far guerra in altra parte et alloro fu fatto sargento <lb/>
+magiore del generale con una compagnia de doicenti huomini. </p>
+<pb n="071v" facs="03_071v" rend="0"/>
+<p>Nel medesimo anno 1602 si è trovato nel viagio che il conte Mauritio ha <lb/>
+fatto con la sua armata per il paese del Rege pensando di andar al socorso <lb/>
+di Ostenda la qual causa fu impedita per la venuta del marchese Spinola <lb/>
+con la sua gente che era allora arrivata d’Ittalia. </p>
+<p>Nel medesimo anno 1602 si è trovato sargento magiore delli Inglesi nella <lb/>
+impresa di Grave. </p>
+<p>Ne l’anno 1603 si è trovato col conte Mauritio nel socorso di Hocstrat <lb/>
+et poi di Bolduche donde per la absença del suo generale comandò al <lb/>
+suo regimento et si trovò con parte di sua gente a l’assalto che fu datto <lb/>
+al marchese della Bella sopra certe fortificatione dove guadagnò <lb/>
+la piazza. </p>
+<p>Ne l’anno de 1604 ch’era fatta la pace tra il re de Grande Bretaña <lb/>
+et il rey di Spaña et per esser semper catholico rinonciò la piazza di <lb/>
+sargento magiore et pigliò licenza. </p>
+<p>Nel medesimo anno 1604 essendo domandato dal condestable di Castiglia <lb/>
+et dal conte di Villamediana che erano ambasciatori del rey di Spaña <lb/>
+in Angelterra di voler andare per sargento magiore con un conte di <lb/>
+Inglaterra che non era mai stato soldato con promeza che gli dariano <lb/>
+subito un terzo al detto sargento magiore con meglior posto che lui <lb/>
+haveva lasciato. </p>
+<p>Ne l’anno 1605 se n’è andato a far il suo terzo et andato a l’assedio de <lb/>
+Wachtendmeq con duoi mille huomini in cerca dove si è trovato sino <lb/>
+alla presa et poi a Ciscou. </p>
+<p>Ne l’anno 1606 si è trovato a l’impresa di Rimberga et dappoi al <lb/>
+socorso di Grollo. </p>
+<p>Dopoi si è trovato in ogni occasione che si sono presentato sino adesso <lb/>
+con disgusti assai per non esserci complito nullamente le promezze che <lb/>
+gli haviano fatto l’imbasciatori del rey et del archiduca in ancora pagata il alcançe a finché se ne possa andar a cercar altra guerra. </p>
+<pb n="072r" facs="03_072r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="072v" facs="03_072v" rend="270"/>
+<p>Scrittura del cavalier Thomaso <lb/>
+Studder inglese </p>
+<p>Nelle 3<hi rend="superscript">e</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "esser" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-rsi" corrected above "-ti."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "sperava."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "risolver" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

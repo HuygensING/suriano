@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.083 date 1621-01-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">083</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 421r-424v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp522-533
+            </note>
+            <biblScope unit="page">421r-424v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports all the information he has received from conversation with Maurice. Firstly that the Dutch ambassadors to France will plead for a restitution of the Valtelline and expresses his doubts about the intentions of the French. Princes of the union will meet in Heilbron, Randwich and Joachimi will be there on behalf of the States. Bonchorts, head of dutch delegation to Paris, might be next ambassador to Venice. Brederode has requested the States to send someone to Switserland. spinol has taken Friedeburg, city near Frankfurt. Rumour that Elizabeth is dead, but she is currently in Cüstrin in Brandenburg. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-01-12">12 gennaio 1621</date>
+            <num>129</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="129">
+<div type="main" facs="main text of letter" n="129">
+<!--<p>12 gennaio 1621, L’Aia (cc. 421r-424v)</p>-->
+<pb n="421r" facs="09_421r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 264 comincia 265 </p>
+<p>Serenissimo Principe </p>
+<p>havendo penetrato, che nelle commissioni, che li signori Stati Generali <lb/>
+dano alli ambasciatori destinati alle doi corone particolarmente a quelli per Francia <lb/>
+vi è ingionto di raccomandar a sua Maestà christianissima il negotio de’ Grisoni<ptr target="#tn1" n="1"/>, <lb/>
+et il procurar la restitutione della Valtelina. Fui hieri a visita del <lb/>
+signor principe d’Oranges particolarmente per questo prendendo il pretesto <lb/>
+appunto di visita. Mi confermò sua Eccellenza, che gl’ambasciatori haveranno <lb/>
+tal carica, ma che doveranno regolarsi sul luoco, mentre si <lb/>
+sta in dubio se habbino ad esser li ben venuti, et ben ricevuti, <lb/>
+et quando veggano attraversarsi li mali ufficii, et le male impressioni <lb/>
+alla buona volontà, con che sono ispediti da queste Provincie <lb/>
+se la passeranno sobriamente con assicurar solo la Maestà sua, che <lb/>
+questi signori li vivono obligati, et humilissimi servitori. Et aggiunse <lb/>
+dubito grandemente che ritornino così savii come saranno <lb/>
+andati, et alla verità se non li vien fatta buona ciera biso-<lb/>
+gnerà, che se ne ritornino subito a dietro senza trattar di <lb/>
+alcun negotio; cosa che mi dispiacerebbe in estremo per <lb/>
+le consequenze, che ne possono derivare: tuttavia bisogna <lb/>
+anco sperar bene. Così disse l’Eccellenza sua et ben m’avidi dal suo <lb/>
+parlare del dubio, ch’era nel suo animo, et del suspetto <lb/>
+certo, che teneva, che quest’Ambasciator francese habbi fatto <lb/>
+de mali ufficii. Mi disse in oltre, che non vedeva appa-<lb/>
+renza di buona volontà, né che si havesse dalla Francia <lb/>
+a ricever con buon gusto quest’ambasciata mentre con la <lb/>
+speditione di essa s’è venuto a condanna sopra mercanti
+<pb n="421v" facs="09_421v" rend="0"/>
+di questo Paese di doicento milla fiorini, et si aspettava, che se <lb/>
+ne dasse l’essecutione sopra mercantie, che sono in Francia in <lb/>
+forma di reprisaglia. Questo negotio preme grandemente <lb/>
+a questi Stati, et non ha dubio, che gl’ambasciatori procederanno <lb/>
+nel presentarsi alla corte, et a sua Maestà, et al suo Consiglio con <lb/>
+ogni termine di discretione, et di modestia. Mi disse l’Eccellenza sua <lb/>
+che et quelli per Inghilterra, et li destinati per Francia erano <lb/>
+pronti per partire, ma credeva certo, che un poco di dilatione <lb/>
+si fraponesse per rispetto del pensionario Pavoni figliolo <lb/>
+del borgomastro d’Amsterdam, che è competitore con doi <lb/>
+altri alla carica di pensionario di Holanda, che doverà <lb/>
+seguir la elettione questa settimana, et vorrebbe come <lb/>
+si suol dire esser alle sue nozze. Questa carica sarà come <lb/>
+quella di avocato di Holanda, ch’era in persona di Bernvelt <lb/>
+che con la mutatione del nome haverà anco auttorità limitata <lb/>
+et sarà per quanto si dice a tempo et non perpetua; a che <lb/>
+si aggiungerà anco un altro carico di secretario della Provincia <lb/>
+pur a tempo con riserva fornito di farsi dalla medesima <lb/>
+Provincia nuova elettione. </p>
+<p>Dovendosi convocar a’ 28 di questo mese cred’io allo stil vecchio <lb/>
+la dieta de’ principii dell’Unione a Helbrun, doi dalla <lb/>
+parte dei signori Stati vi si doveranno trovare l’uno è monsignor <lb/>
+Randuich, che ultimamente rivenne d’esser stato l’anno <lb/>
+passato coi medesimi principi, et l’altro il signor Gioachimi di </p>
+<pb n="422r" facs="09_422r" rend="0"/>
+<p>Zelanda doi dei migliori soggetti, c’habbino dirò così, queste <lb/>
+Provincie. Me lo communicò l’Eccellenza sua dicendomi, che li signori Stati <lb/>
+contribuivano tutto quel più, che potevano a favor della causa <lb/>
+commune; et vorrebbono poter far più; ma operano tanto <lb/>
+che possono et con ufficii, et con effetti non lasciando di dar <lb/>
+le assistenze tanto ai principi, che al re di Bohemia. <lb/>
+Hanno li signori Stati lasciata far la nominatione, et elettione <lb/>
+delli sudetti doi soggetti al signor principe d’Oranges, et l’Eccellenza sua <lb/>
+appunto me lo disse; soggiungendomi; sorridendo, vorrei <lb/>
+che mi dassero anco l’auttorità di far l’ambasciator per Venetia, <lb/>
+che lo farei ben presto. Così bisognerebbe io risposi; et ella <lb/>
+ripigliò questo tocca alli signori Stati. Et mi soggiunse quello <lb/>
+che havevo inteso per altra via, che la passata settimana <lb/>
+haveva raccordato alli signori Stati sudetti c’hormai era <lb/>
+tempo di venir a tal nominatione, et far la speditione; <lb/>
+et l’haverebbe ancora raccordato; et eccitato, conside-<lb/>
+rando, che sarebbe bene, che fosse in tempo di poter <lb/>
+passar per il paese de’ Svizzeri, et far l’ufficio c’haveva <lb/>
+raccordato la serenissima Republica. Io applaudei al suo senso <lb/>
+dicendo però, che questo sarebbe stato far qualche cosa, <lb/>
+quando non ci<ptr target="#tn2" n="2"/> fosse risolutione di mandar persona espressa <lb/>
+ai detti Svizzeri; ho poi saputo, che dopo la propositione <lb/>
+fatta da sua Eccellenza è stato scritto in Zelanda a tal <lb/>
+effetto, et perché li deputati di quella Provincia siano<ptr target="#tn3" n="3"/>
+<pb n="422v" facs="09_422v" rend="0"/>
+auttorizati; sendo anco assicurato da alcuno dell’assemblea, che <lb/>
+alcuni d’altre Provincie hanno già l’auttorità; ma che in <lb/>
+quella in particolar di Holanda si tira innanti, et mi disse il <lb/>
+signor ambasciator d’Inghilterra, che teneva per fermo, che qualche <lb/>
+interesse particolare la portasse innanti. Mi nominò sua Eccellenza <lb/>
+il signor Bocorst, che sarà capo dell’ambasciata per Francia et che <lb/>
+si parlava di lui per andar a risieder presso la Serenità vostra <lb/>
+per Ambasciatore. Se questo va il signor Francesco Arsen prenderà il <lb/>
+suo luoco nell’assemblea de’ Stati Generali, che altrimenti non <lb/>
+vi vuol entrare; et sarà facil cosa, ch’egli persuade detto <lb/>
+Bucorst ad accettar la carica, quando gli sia data; così <lb/>
+sono stato avvertito da signore assai pratico dei concetti <lb/>
+del medesimo Arsen. Nella qual opinione concorre anco il signor <lb/>
+Ambasciator inglese. Io posso ben dir alla Serenità vostra che ’l signor <lb/>
+principe Mauritio ha a cuore questo negotio, et si <lb/>
+scuopre che vi mostra affetto particolare. </p>
+<p>Mi communicò sua Eccellenza che li signori Svizzeri cred’io quelli di Zurich, et <lb/>
+di Berna havevano col mezo del signor marchese di Bada <lb/>
+procurato, che monsignor di Brederod agente di questi signori <lb/>
+a Heidelbergh facesse instanza qui a nome loro per <lb/>
+haver una persona di commando per dar regola, et metodo <lb/>
+alla loro militia, sendone affatto privi massime doppo <lb/>
+la perdita, che havevano fatta del colonello Nicolò <lb/>
+Molina nel paese de’ Grisoni in Valtelina; che a lei
+<pb n="423r" facs="09_423r" rend="0"/>
+esso Brederod haveva scritto, et tanto credeva havesse fatto <lb/>
+alli signori Stati, che non lo sapeva ancora; non havendo doppo <lb/>
+la ricevuta delle lettere, che fu la sera innanti parlato di <lb/>
+questo. Io da ciò presi campo di pregar sua Eccellenza che a pro-<lb/>
+curar, che Svizzeri già che ricercavano fossero sodisfatti <lb/>
+nella loro instanza; considerandole il servitio, che se ne <lb/>
+saria ritratto per ben publico; et aggiungendo tutto quello <lb/>
+di più, che stimai proprio per renderla persuasa. Mi disse, <lb/>
+che non sapeva chi potesse esser proprio per quella Natione. <lb/>
+Nominò li soggetti principali,<ptr target="#tn4" n="4"/> che c’erano; <lb/>
+et cade su la necessità, che n’ha lassato; ma parlo <lb/>
+del già Capitano della sua guardia, hora al servitio de’ principi. <lb/>
+Et restò meco in questo, che vi haverebbe havuta consi-<lb/>
+deratione, et che ne haverebbe trattato colli signori Stati. <lb/>
+Coadiuverò questo negotio già che mi par di coprir in sua <lb/>
+Eccellenza volontà assai inclinata ad esso; et nel partir anco <lb/>
+da lei glielo raccommandai. </p>
+<p>Mi confirmò sua Eccellenza<ptr target="#tn5" n="5"/> un avviso, che prima anco havevo <lb/>
+havuto, che ’l marchese Spinola nonostante la stagione <lb/>
+s’era impossessato di Frideburgh città imperiale non <lb/>
+molto discosta da Francfort, et haveva fatti avanzar <lb/>
+alcuni de’ suoi per impossessarsi anco d’un castello dei signori <lb/>
+conti di Solms. Ha spiacciuto alli signori Stati quest’<lb/>
+avviso, et dubitano di peggio, temendo in oltre, che
+<pb n="423v" facs="09_423v" rend="0"/>
+l’Imperatore metti in essecutione il disegno, che par, che si sia <lb/>
+scoperto, che quella Maestà havesse pensiero di valersi di persona <lb/>
+espressa per tentar la divisione dell’unione de’ principi <lb/>
+protestanti; et forse, che a questo fine è diretta la risolu-<lb/>
+tione della missione delli doi soggetti nominati dall’Eccellenza sua. </p>
+<p>Era corsa qui voce, che la regina di Boehmia f[o]sse<ptr target="#tn6" n="6"/> morte; <lb/>
+se ne intese poi il contrario; anziché avanti hieri capitò <lb/>
+qui un cavallier scocese, che portò sue lettere al signor principe <lb/>
+Mauritio, et al signor ambasciator d’Inghilterra. Detto Cavalliere l’ha <lb/>
+lasciata a Custrin nel Paese della Marca castello <lb/>
+di giuridittione del marchese di Brandemburgh, il quale <lb/>
+trovandosi in Prussia li consiglieri di lui, che sono a <lb/>
+Berlinghen consultarono che non fosse bene, che detta <lb/>
+Principessa di fermasse nelli dominii del detto Marchese <lb/>
+elettore rispetto di non gelosia particolarmente a Polonia <lb/>
+da chi aspetta la investitura del medesimo ducato di Prussia <lb/>
+onde vi è pensiero, ch’ella si possi retirar a Wolffenbeutel <lb/>
+nel ducato di Bransuich quando detti consiglieri conti-<lb/>
+nuino a proceder con questa riserva; di che sua Eccellenza si <lb/>
+dispetta estremamente. </p>
+<p>Poco si promettono questi signori del detto Marchese elettore per gl’affari <lb/>
+correnti d’Alemagna dubitando, che per li suoi interessi <lb/>
+vada riservato per non offender manco l’Imperatore et casa d’<lb/>
+Austria. Gratie etc. </p>
+<p>Dall’Haya li 12 genaro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="424r" facs="09_424r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="424v" facs="09_424v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 264 comincia 265 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="129">
+<!--
+<p n="424vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 gennaro 1620<ptr target="#tn7" n="7"/> ricevute 28 detto. n° 264 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i-" corrected above "-e-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "c-" corrected above "s-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "che erano" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

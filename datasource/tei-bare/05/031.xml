@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.031 date 1617-12-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 186r-189v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">186r-189v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>He informs the States General of the actions of Spanish ministers in Lombardy and Naples and urged new orders to the admiralties to ensure that no ships are intended for Naples. The Zeeland admiralty has detained a vessel with 80 English sailors which may be linked to Rosa but the States General doubt whether they can continue to detain this ship without clear evidence. Subsequently, Suriano discussed the matter with Carleton and informed Contarini. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-16">16 dicembre 1617</date>
+            <num>058</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="058">
+<div type="main" facs="main text of letter" n="058">
+<!--<p>16 dicembre 1617, L’Aia (cc. 186r-189v)</p>-->
+<pb n="186r" facs="05_186r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>hoggi terzo giorno fui nell’assemblea dei signori Stati, non havendo <lb/>
+potuto prima per le occupationi di questi signori nella congio-<lb/>
+tura della ridutione della general Congregatione di Holanda. <lb/>
+Doppo l’espositione, che feci di quello succedeva nel Friuli, et <lb/>
+dell’operationi dei ministri spagnuoli in Lombardia, et <lb/>
+dalla parte di Napoli (in conformità delle lettere della <lb/>
+Serenità vostra de’ 24 del passato) feci l’ufficio, che colle <lb/>
+ultime mie delli xi havevo proposto<ptr target="#tn1" n="1"/> toccante <lb/>
+il particolare di Alessandro Rosa, perché dassero nuovi <lb/>
+ordini a queste amiralità in Holanda, et a quelle <lb/>
+di Zelanda. Ringratiatomi il Presidente della <lb/>
+communicatione delli avvisi, et detto che vostra Serenità <lb/>
+era constituita in obligo di caminar con gran <lb/>
+cautezza per non ricever qualche mal incontro <lb/>
+sotto il nome, et titolo della pace, et dette delle <lb/>
+cose ordinarie degl’artificii de’ Spagnuoli, mi <lb/>
+communicarono, che non erano ancor passate doi <lb/>
+hore, che havevano ricevute lettere di Zelanda <lb/>
+nelle quali scrivevano quei signori dell’Amiralità, <lb/>
+che fra quaranta, o cinquanta vasselli, che
+<pb n="186v" facs="05_186v" rend="0"/>
+si trovavano a quella spiaggia, sortiti da questi porti di <lb/>
+Holanda, attendendo il buon vento per far vela a <lb/>
+diverse scale, ve ne era uno che<ptr target="#tn2" n="2"/> era uscito <lb/>
+dal Tessel, et sopra haveva da ottanta marinari <lb/>
+inglesi, né alcuno ve n’era di questo Paese, et per <lb/>
+l’ordine, che havevano havuto di qua insospettiti <lb/>
+che in esso vi havesse parte quel tal Alessandro <lb/>
+Rosa, havevano procurato di cavar quel più, che era <lb/>
+stato possibile; ma che li marinari havevano detto <lb/>
+che erano imbarcati per far il viaggio, che si è <lb/>
+toccato nuovo per l’Indie dalla parte dello stretto <lb/>
+di Magalanes, et che ivi attendevano un altro <lb/>
+vassello d’Inghilterra, del quale doveva esser <lb/>
+capo un tale della casa Oward, et veniva <lb/>
+ben monitionato de’ viveri, et pezzi di artiglieria <lb/>
+il che haveva messo in non poco dubio quell’Ami-<lb/>
+ralità poiché le pareva, et pareva anco a <lb/>
+questi signori che fosse contra natura, che dovesse <lb/>
+questo vassello aspettarne un altro in Zelanda, <lb/>
+venisse d’Inghilterra mentre bisogna di Zelanda passar
+<pb n="187r" facs="05_187r" rend="0"/>
+a quell’isola per far il viaggio, che dicevano, et anco se <lb/>
+dovessero andar a Napoli; ma che temevano, che <lb/>
+dassero così ad intender, per aspettar forse qualche <lb/>
+altro vassello dal Tessel, o perché havessero qualche <lb/>
+altro fine; et scrive la detta Amiralità di più, che <lb/>
+per quanto haveva potuto cavare, se Alessandro Rosa <lb/>
+non era patrone del vasselo, credevano, che almeno <lb/>
+ne fosse compartecipe, onde aggiongono quei signori, che <lb/>
+essendo quivi doi delle sue navi di guerra haverebbono <lb/>
+queste osservato, che detto vassello non partisse sin <lb/>
+tanto, che non havessero l’avviso da’ signori Stati Generali <lb/>
+di quello havessero a fare, et per ciò l’ispeditione <lb/>
+era stata fatta espressa. Questa communicatione <lb/>
+dell’assemblea mi diede materia di tanto più <lb/>
+caricar la mano a fine che si rinovassero<hi rend="superscript">g l</hi>’ordini <lb/>
+perché fosse trattenuto il detto vassello, et altri che <lb/>
+fossero di questa ragione, potendo quasi assicurarsi, <lb/>
+che questo fosse uno di quelli, che era destinato per <lb/>
+Napoli, et per consequente contra la serenissima Republica <lb/>
+rappresentando qui l’interesse, che signori Stati havevano
+<pb n="187v" facs="05_187v" rend="0"/>
+che (potendo oviare) si permettessero l’armi loro in mano <lb/>
+all’inimico per travagliar la serenissima Republica Principe tanto amico, et confidente di queste ie <lb/>
+non lasciando concetto, che mi parve proprio per <lb/>
+evitarli a replicar nuovi ordini di avvertir bene, <lb/>
+et procurar in quella maniera, che stimassero più proprio <lb/>
+che detto vassello, o altri non faccino il viaggio. Mi fu <lb/>
+risposto, che haverebbono scritto con ogni maggior affetto <lb/>
+ma correva in loro un dubio, che era grandissimo <lb/>
+che essendo detta nave carica di soli marinari <lb/>
+inglesi senza pur uno di questi paesi non sapevano <lb/>
+vedere, come potessero direttamente prohibir il viaggio <lb/>
+a genti del re della Gran Bertagna, et più, che <lb/>
+dicevano esser destinate con altra nave al <lb/>
+viaggio dell’Indie; ma che haverebbono pensato <lb/>
+et fatto tutto il possibile per servitio della serenissima Republica. <lb/>
+Io a questo proposito non lasciai di premer, et <lb/>
+efficacemente procurare, che si havesse mira al <lb/>
+rispetto della serenissima Republica perché, se, si fosse trovato <lb/>
+che questi vasselli dovessero passar a Napoli, non
+<pb n="188r" facs="05_188r" rend="0"/>
+sarebbe riuscito dispiacevole al re della Gran Bertagna <lb/>
+che fossero arrestati, et le genti insieme, andando assolu-<lb/>
+tamente fuori dell’intentione di sua Maestà contra la <lb/>
+serenissima Republica. Questo ufficio ho rinovato in particolare <lb/>
+il doppo desinare con doi delli deputati di Zelanda <lb/>
+Magno, et Joachimi, raccomandando di più all’uno, <lb/>
+et all’altro l’affare; et tanto ho fatto anco con <lb/>
+altri tre o quattro della medesima assemblea de’ stati; <lb/>
+et premei<ptr target="#tn3" n="3"/> particolarmente col Joachimi huomo intend[ente]<ptr target="#tn4" n="4"/> <lb/>
+et pratico in questo Governo nel fargli le debite <lb/>
+considerationi, et raccomandationi, poiché egli <lb/>
+mi disse di più, esser stato considerato da questi <lb/>
+signori (che essendo detta nave uscita dal Tessel) che <lb/>
+vuol dir compra in alcuna delle città, o terre<ptr target="#tn5" n="5"/> dell’<lb/>
+Holanda, et fatta hora de’ sudditi d’Inghilterra <lb/>
+non si vedeva così subito, come si potesse oviare al <lb/>
+disordine; che qui si haveva<ptr target="#tn6" n="6"/> molte dispute <lb/>
+con il re della Gran Bertagna per il negotio <lb/>
+della pescharia delle aringhe per quella delle <lb/>
+balene; che vi era questa della compositione
+<pb n="188v" facs="05_188v" rend="0"/>
+contra l’espositione del suo Ambasciatore, et che l’intraprender anco <lb/>
+di vietar il viaggio, senza haver cosa sicura in mano <lb/>
+di quello se presupone, et per solo sospetto, a’ suoi sudditi <lb/>
+che dicono esser destinati per l’Indie era punto consi-<lb/>
+derabile. Tuttavia m’assicurò, che tutto ciò non have-<lb/>
+rebbe divertito in alcuna maniera, che non fossero <lb/>
+dati ordini sufficienti alli signori dell’amiralità di Zelanda <lb/>
+affineché usassero ogni diligenza per cavar il netto <lb/>
+di questo negotio aggiungendo il vento è pessimo per uscir <lb/>
+di Zelanda; et ha apparenza di continuar così, <lb/>
+onde haveremo tempo, che arriverà opportunamente <lb/>
+la nostra speditione. Et io replicai l’instanza <lb/>
+perché ciò fosse prontamente essequito. Stimai <lb/>
+anco a proposito trovarmi col signor ambasciator d’Inghilterra <lb/>
+come feci hieri a sera, il quale dovendo spedir <lb/>
+dimani al suo Re un messaggiero per la causa, che <lb/>
+intenderà la Serenità vostra nelle sussequenti, ha tolto se <lb/>
+nota tutti li particolari, che havevo inteso, et promesso <lb/>
+di scriverne a sua Maestà, et io ancora ho dato <lb/>
+lettere allo stesso messaggiero per l’eccellentissimo signor ambasciator </p>
+<pb n="189r" facs="05_189r" rend="0"/>
+<p>Contarini, avvisandolo di tutto ancorché presuponghi <lb/>
+che con quello, che haverà ricevuto intorno ciò dalla <lb/>
+Serenità vostra haverà già fatti gli ufficii, che si convengono. <lb/>
+Hieri né hoggi si è ridotta l’assemblea de’ Stati rispetto <lb/>
+a questa Congregatione d’Holanda, di maniera che fino <lb/>
+a lunedì non si potrà scriver in Zelanda; et io non <lb/>
+tralascierò di solecitarne il presidente di Holanda, <lb/>
+che deve entrar dimani, et farò quello ch’è di <lb/>
+mio debito per servitio di vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya a’ 16 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="189v" facs="05_189v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="058">
+<!--
+<p n="189vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 decembre 1617 ricevute 3 gennaro </p>
+<p>Aia. Prima </p>
+<p>Vasselli Rosa <lb/>
+per Napoli </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "di fare" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "il quale" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "col" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line on "porti" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-no" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

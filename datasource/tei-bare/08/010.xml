@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.010 date 1619-04-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 53r-54v, 59r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">53r-54v, 59r-v, 55r-56v, 57r-58v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that the ship Il Leon Felice has set sail on 26 April and sends the copy of rolls. He has given the captain of ship a seperate set of instructions. Suriano praises the involvements of merchants in this venture and claims it is best to avoid Admiralties all together in future. He has stayed in Amsterdam to discuss the payment regarding the twelve ships and got attacked by women. He will leave to Rotterdam and regarding Bohemia, Frinch is waiting for levy of 1000 musketeers for princes of the union. Further levies in Brussels for Catholics. Two documents attached: instructions and the patent given to the captain of the ship Leon Felice</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-04-29">29 aprile 1619</date>
+            <num>016, 017, 018</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="016">
+<div type="main" facs="main text of letter" n="016">
+<!--<p>29 aprile 1619, L’Aia (cc. 53r-54v, 59r-v)</p>-->
+<pb n="053r" facs="08_053r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 100 sola </p>
+<p>Serenissimo Principe </p>
+<p>venerdì mattina mi furono mostrati li marinari nel vassello Il leon felice; <lb/>
+et felicemente appunto il doppo desinare fece vela a vista mia <lb/>
+in mare, et col buon vento, che ha continuato sarà innanti assai. </p>
+<p>Il giorno della mostra, che fu a’ 26 comincia conforme al noleggio, il primo mese.<ptr target="#tn1" n="1"/> </p>
+<p>Qui aggiunta mando copia del rolo di detti marinari ne sono cinque <lb/>
+più delli ottanta. Haverebbono li compartecipi voluto, ch’io glieli <lb/>
+facessi buoni; ma non ho voluto aggravar di maggior spesa la Serenità vostra <lb/>
+onde si sono risoluti di lasciar, che passino anco questi con <lb/>
+gl’altri, perché occorrendo possino mettersi in piazza di qualcheduno <lb/>
+che si perdessero per viaggio. Ma venendo costì tutti non dubi-<lb/>
+tano, che vostra Serenità non sia per dar ordine,<ptr target="#tn2" n="2"/> <lb/>
+che habbino ad essergli fatti buoni. </p>
+<p>Al Capitano del vassello, oltre la patente ho data instruttione <lb/>
+a parte, et di tutto vostre Eccellenze haveranno copia per vederla a loro <lb/>
+sodisfattione. </p>
+<p>Furono presenti alla mostra doi del magistrato dell’amiralità di <lb/>
+Amsterdam. Volevano li partionevoli, ch’io li conducesi; ma <lb/>
+parendomi non necessaria più che tanto questa spesa a vostra Serenità <lb/>
+dissi, che non ne volevo far altro: onde anco in questo <lb/>
+risolsero di far essi la spesa, che sarà stata di più di <lb/>
+quattrocento fiorini, senza un presente che pensano di dover <lb/>
+dar a detti signori. </p>
+<p>Sì come ho trovata la gente buona; così anco sono restato sodisfatto <lb/>
+del corpo del vassello, et del suo armamento essendo tutto in <lb/>
+buon punto. Et a dir la verità non so se venendo altra <lb/>
+occasione di armar altri vasselli ancorché fossero in qualche <lb/>
+quantità mi risolvessi di passar per le mani delle Amiralità <lb/>
+per far l’equipaggio, se non fosse per l’auttorità, ma credo assolutamente <lb/>
+che lo farei col mezo de’ mercanti, parendomi il più spedito
+<pb n="053v" facs="08_053v" rend="0"/>
+senza gran pensiero, et con schivar molte spese al publico, il che non <lb/>
+è successo nelli dodici; et nell’ordinar questo vi è corsa per <lb/>
+vostra Serenità la sola spesa per il noleggio, et per il tempo, che per esso <lb/>
+mi sono trattenuto in Amsterdam; et questa ultima nel <lb/>
+viaggio del Tessel. Con tutto ciò pregarò Iddio, ch’ella non <lb/>
+ne habbi più bisogno. </p>
+<p>Mi sono contentato, che alcuni partionevoli mettino qualche <lb/>
+apprestamenti, et viveri in detto vassello per servitio di alcuni <lb/>
+altri, che sono all’armata. Et ne haverà la Serenità vostra qui ag-<lb/>
+giunta la nota. </p>
+<p>Accordai al borgomastro Pavoni, che mettesse qualche cosa per doi navi <lb/>
+nelle quali ha parte; ma dalla nota vedrà, che vi è una <lb/>
+buona quantità di viveri, et di diversi apprestamenti, che tutti <lb/>
+però ha portati a vassello, senza pigliar la licenza dal <lb/>
+magistrato dell’Amiralità; che vuol dire senza pagar la <lb/>
+solita gabella: onde quei doi signori hanno presa copia della <lb/>
+lista per farne relatione in Amsterdam al suo ritorno; et <lb/>
+mi hanno affermato, che se non era per non far perder il buon <lb/>
+vento per l’uscita della nave (et così far deservitio a vostra Serenità) <lb/>
+haverebbono fatta scaricar ogni cosa, et mandatala al loro <lb/>
+officio confiscata. Non si sa quello ne succederà perché l’autto-<lb/>
+rità del detto Borgomastro è grande, né credo che haverò <lb/>
+petto di contrastarli. Io al Capitano ho commesso et di bocc[a et]<ptr target="#tn3" n="3"/> <lb/>
+per scritto, che non lasci uscir alcuna cosa senza espresso […]<ptr target="#tn4" n="4"/> <lb/>
+dell’eccellentissimo signor Capitano generale, o di chi haverà questo particolar carico <lb/>
+per quello potesse esser posto nel vassello, ch’io non lo sapessi<ptr target="#tn5" n="5"/>. </p>
+<p>Di ragione di vostra Serenità per servitio della nave ho fatti caricar cent[o]<ptr target="#tn6" n="6"/> <lb/>
+barilli di polvere di cento libre l’uno, che sono dieci miara[…]<ptr target="#tn7" n="7"/>
+<pb n="054r" facs="08_054r" rend="0"/>
+delle balle, delle crosate per li canoni, et moschetti, et tre botte di <lb/>
+corda da fuoco, come ne haverà la Serenità vostra anco più distinta <lb/>
+nota. </p>
+<p>Mi trattenni in Amsterdam un giorno di più di quello che scrissi <lb/>
+a vostra Serenità nelle mie lettere de’ 22 qui aggiunte in replica, onde <lb/>
+hebbi campo di trovarmi colli signori di quell’Amiralità, et parlar <lb/>
+con loro toccante il pagamento de’ viveri, et il denaro per li <lb/>
+marinari delle dodici navi. Mi promessero di darmi quanto <lb/>
+più presto il conto; ma quanto alli marinari haverebbono <lb/>
+voluto, che fossero venuti li roli con li morti; così anco quelli <lb/>
+di Encusen mi dissero et prego vostra Serenità; che se non me li haverà <lb/>
+mandati sin qui, me li facci havere, come la pregai anco con <lb/>
+altre mie. </p>
+<p>Quelli di Amsterdam in particolare restano scandalizati, che delli marinari sopra <lb/>
+le navi della loro repartitione siano soli diecisette, che voglino <lb/>
+esser pagati qua; et non sano veder come potersi liberare dalla <lb/>
+molestia di queste donne, ch’io debbo chiamar importuna, et <lb/>
+insolente per la prova, che ne feci: perché nell’uscir dal Ma-<lb/>
+gistrato in dieci, o dodici mi si attaccorono al mantello, et gri-<lb/>
+dando<ptr target="#tn8" n="8"/> nella loro lingua parevano, che volessero amutinar <lb/>
+contra di me. Hebbi vantaggio, che uno dei miei servitori par-<lb/>
+lava fiamingo, che si attaccorono a lui, et io in tanto hebbi <lb/>
+campo di uscir del cortille. Così ben spesso fanno contro <lb/>
+li deputati dei detti collegi; et pochi giorni sono a Ro-<lb/>
+terdam tirorono il mantello da dosso, et il capello di <lb/>
+testa ad uno di quei signori. Sono temerarie il rigor non vale, <lb/>
+et la modestia non giova. </p>
+<p>Spedite le presenti partirò per Roterdam per pigliar in rolo una
+<pb n="054v" facs="08_054v" rend="0"/>
+parte delle genti del capitano Pach; et per il restante forse mi converrà <lb/>
+andar in Amsterdam. Soliciterò quanto più si potrà anco la <lb/>
+speditione di questi bombardieri. </p>
+<p>Tornai qui sabbato a notte né ho trovato molto di nuovo. <lb/>
+Solo il capitano Frinch attende alla sua levata<ptr target="#tn9" n="9"/> di <lb/>
+mille moschettieri per li Bohemi. Si vano facendo le compagnie <lb/>
+di cavallaria per il marchese di Durlach, et parmi che gl’altri <lb/>
+principi dell’Unione si armino quietamente ognuno per la parte sua <lb/>
+come anco intendo che quei principi, et questi signori habbino <lb/>
+volontà, et concorrino uniti per portar all’Imperio il duca <lb/>
+di Baviera, se però egli vorrà attender al titolo d’imperatore <lb/>
+et che si avedono molto bene, che difficilmente li riuscirebbe in <lb/>
+uno della religione riformata per le gelosie, et per la tema di <lb/>
+maggior contrasto, che non è quello di tentar l’esclusione dell[a]<ptr target="#tn10" n="10"/> <lb/>
+casa d’Austria. </p>
+<p>Si vano in Brabant continuando le levate con diligenza. Il conte Gio. di <lb/>
+Nassau è di ritorno dal Tirolo a Brusseles, et publica have[r]<ptr target="#tn11" n="11"/> <lb/>
+havuta permissione di far la levata del suo reggimento in <lb/>
+quello di Treveri; ma non viene creduto. Gratie etc. </p>
+<p>Dall’Haya a’ 29 aprile 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="059r" facs="08_059r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="016">
+<!-- <pb n="059v" facs="08_059v" rend="270"/> -->
+<head>secretarial text of letter</head>
+<p>29 aprile 1618<ptr target="#tn12" n="12"/> ricevute 15 maggio </p>
+<p>Haia sola. n° 100 </p>
+<p>La nave noleggiata, Il leon felice parte. </p>
+<p>Manda rollo dei marinari, et <lb/>
+instruttione. </p>
+<p>Sono stati presenti alla mostra doi de’ <lb/>
+magistrato<ptr target="#tn13" n="13"/>: li portionevoli hanno fatto <lb/>
+la spesa, e faranno il presente a essi signori. </p>
+<p>Dice in occasione di nolleggio meglio esser <lb/>
+non passar per le mani delle Amiralità. </p>
+<p>Manda nota de aprestamenti caricati da <lb/>
+alcuni portionevoli de’ vasselli. </p>
+<p>Borgomastro Pavoni ha caricato <lb/>
+aprestamenti e viveri senza pagar <lb/>
+la gabella: sono sta’ colti<ptr target="#tn14" n="14"/> in nota <lb/>
+non sa quello succederà: però ha <lb/>
+ordinato se l’ordine<ptr target="#tn15" n="15"/> al signor Capitano general non lasci il Capitano <lb/>
+uscir alcuna cosa de vassello. </p>
+<p>Ha caricato di ragion publica 100 barili <lb/>
+di polvere miara 10 balle e crosette. <lb/>
+E 3 botte di corda, di che manda nota. </p>
+<p>Dimanda i rolli de’ morti delle 12 navi. </p>
+<p>Molestia datali dalle donne de’ marinai. </p>
+<p>Solleciterà l’espeditione del Pac. </p>
+<p>Capitano Frinch tende alla levata de 1000 <lb/>
+moschettieri per Boemi. Si fano le <lb/>
+compagnie di cavalleria per il marchese de Durlach. </p>
+<p>Principi dell’Unione s’armano ognuno <lb/>
+quietamente. Concorreno per portar <lb/>
+all’Imperio Baviera conoscendo <lb/>
+che difficilmente riuscirebbe uno della religione. </p>
+<p>In Barbant<ptr target="#tn16" n="16"/> continuano le levate. </p>
+<p>Conte Gio. de Nassau publica haver <lb/>
+permissione di far levata. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="017" corresp="016" source="55r-56v" >
+<div type="main" facs="main text of attachment I" n="017" corresp="016" >
+<!--<p>Allegato I al n. 16 (cc. 55r-56v)</p>-->
+<pb n="055r" facs="08_055r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettere n° 100 dall’Aia di 29 aprile 1619 </p>
+<p>Copia </p>
+<p>Instruttione per voi capitano Dirch Hartocson capitano del <lb/>
+vassello nominato Il leon felice armato per servitio <lb/>
+della serenissima Republica </p>
+<p>Havend’io Christofforo Suriano secretario et residente per la serenissima republica di <lb/>
+Venetia etc. appresso li signori Stati Generali delle Provincie Unite dei <lb/>
+Paesi Bassi accettato, et confirmato voi strenuo Dirich Hertocson <lb/>
+in nome di detta serenissima Republica per capitano della vostra nave nominata <lb/>
+Il leon felice fatta armar da me ad uso di guerra di commanda-<lb/>
+mento di sua Serenità haverete ad essercitar detto carico fedelmente <lb/>
+et lealmente, come si conviene ad huomo, che ha caro l’honor p[ro-]<lb/>
+prio<ptr target="#tn17" n="17"/>, et della Natione. Questo è il fondamento col quale mi [sono]<ptr target="#tn18" n="18"/> <lb/>
+mosso ad accordarvi la carica sudetta, dovendo voi osservar <lb/>
+in tutto il giuramento, che havete già prestato in mano mia <lb/>
+di bene, et fedelmente servir il serenissimo dominio di Venetia con quei <lb/>
+termini, conditioni, et regole, che sono espresse nella vostra <lb/>
+patente data sotto questo giorno, et nella capitulatione, et <lb/>
+accordo del noleggio della detta nave, et altri, che di tempo <lb/>
+in tempo, et secondo l’occasione si aggiungeranno dall’eccellentissimo <lb/>
+Capitano generale da Mare, suo Vice gerente, o altri rappresentanti <lb/>
+della serenissima Republica a’ quali haverete voi a sottomettervi. </p>
+<p>Et essendo voi già del tutto pronto, et alla vela, essendo il vento <lb/>
+buono, et proprio coll’aiuto di Dio per uscir da questo porto <lb/>
+del Tessel, non ritarderete punto a far vela, et mettervi <lb/>
+al mare, caminando a drittura per rendervi prontamente nel <lb/>
+golfo di Venetia, et all’armata della serenissima Republica non vi <lb/>
+arrestando in qual si sia porto, spiaggia, o altro luoco di <lb/>
+mare; non toccando alcune isole, città, o terre, se non arrivato nel golfo di Venetia all’obedienza dell’eccellentissimo signor <lb/>
+Capitan general da Mare in conformità delli commandamenti che ivi <lb/>
+troverete, o pur potreste haver prima d’entrar in esso golfo <lb/>
+dagl’illustrissimi signori rettori di Corfù per li quali haverete lettere mie
+<pb n="055v" facs="08_055v" rend="0"/>
+et però ad essi farete al più tosto, che sia possibile noto il vostro <lb/>
+arrivo a quell’isola prendendo lingua o nell’imboccar del golfo <lb/>
+o prima, ove si trovi l’armata della serenissima Republica per transferirvi <lb/>
+ad essa con il detto vostro vassello, et marinari. </p>
+<p>Nel viaggio, che farete a qual si sia impedimento, o offesa, che per caso fosse <lb/>
+tentata contro di voi doverete vivamente ostare. Nel resto non <lb/>
+tentarete, né ricercarete occasione alcuna la quale possi ritardar <lb/>
+il vostro camino, havendo anco particolar mira, che sia fatto colla <lb/>
+debita, et conveniente riputatione della serenissima Republica oltre il <lb/>
+servitio, che in tutto procurerete. </p>
+<p>Et perché l’eccellentissimo signor Capitano general da Mare o suo Vice gerente sappi ciò <lb/>
+che haverete rancontrato nel viaggio tenirete, et farete tener <lb/>
+nota distinta del tutto per farne il conveniente raporto, et <lb/>
+sodisfar a quello, ch’è debito, et conveniente. </p>
+<p>In tutto il corso del viaggio doverete metter regole tali<ptr target="#tn19" n="19"/> sul detto <lb/>
+vostro vassello, che vaglino a tener in freno li marinari, sì che <lb/>
+vivino nel timor del Signor Dio, prestino la debita, et pronta obedienza <lb/>
+et la medesima habbino a prestar alli rappresentanti la serenissima Republica. </p>
+<p>Ordinarete, che ’l viaggio sia fatto tanto toccante il consiglio quanto <lb/>
+nell’operare con honore, et servitio di sua Serenità, et che passi buona <lb/>
+corrispondenza tra tutti li vostri marinari. </p>
+<p>Non lascierete uscir della vostra nave alcuna cosa sia de’ viveri, o <lb/>
+altro caricato in essa senza particolar conoscenza, et ordine espresso <lb/>
+dell’eccellentissimo signor Capitano general da Mare, o di chi in suo luoco haverà il <lb/>
+supremo commando nell’armata. </p>
+<p>Doverete alli medesimi dar conto particolare delli cento tonelli di polvere <lb/>
+tre barilli di corda, et della quantità tutta di balle, crosate <lb/>
+et catene che ho fatte metter nel detto vostro vassello per
+<pb n="056r" facs="08_056r" rend="0"/>
+servitio, et difesa di esso, tutto di ragione della serenissima Republica. </p>
+<p>Farete far nota distinta, et giusta del mancamento di cadaun mari-<lb/>
+naro, notando il giorno preciso o della morte o fuga di <lb/>
+alcuno di essi. </p>
+<p>Per gl’amalati osserverete quello, che comporta la carità christiana <lb/>
+con assisterli delle cose necessarie. </p>
+<p>Per tutti gl’accidenti, che potessero nascer farete fornir di polvere, <lb/>
+balle, et mecchie le bandeliere de’ moschetti, tenendole però <lb/>
+nella stanza di monetione senza darle a’ marinari, se non <lb/>
+in occasione urgente di combatter, la quale cessata doverà <lb/>
+esser restituito quello che sarà restato a cadauno di detta <lb/>
+munitione, per il qual effetto sarà in obligo il munitioniero <lb/>
+di ricuperar il tutto. </p>
+<p>Così osserverete, che non sia data alcuna minima quantità di <lb/>
+polvere fuori, o per far essercitio, o per altra causa oltre <lb/>
+il bisogno sudetto. </p>
+<p>Haverete cura, et ponerete studio perché sia messo tal buon ordine <lb/>
+che non sia infruttuosamente dispensata da’ capi bombardieri <lb/>
+o altri la polvere, et tutte altre munitioni, et di tutto farete <lb/>
+tenir distinto conto per renderlo sincero, et reale all’eccellentissimo <lb/>
+signor Capitano generale <lb/>
+dell’armata, quando arrivarete alla sua <lb/>
+obedienza, o al suo Vice gerente, o ad altro, che havesse <lb/>
+intorno ciò carico particolare per nome della serenissima Republica, et così <lb/>
+essequirete, et farete essequire, sotto obligo di giuramento. Dio <lb/>
+benedetto vi accompagni nel viaggio, et vi assisti con la <lb/>
+sua santa gratia. </p>
+<p>Data nel porto del Tessel nell’Helder questo dì 25 aprile 1619
+<pb n="056v" facs="08_056v" rend="270"/>
+n° 2 </p>
+<p>Instruttione al capitan<ptr target="#tn20" n="20"/> Dirich <lb/>
+Hartocson<ptr target="#tn21" n="21"/> sopra il vassello nominato <lb/>
+Il leon felice </p>
+<p>nella lettera n° 100 sola </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="018" corresp="016" source="57r-58v" >
+<div type="main" facs="main text of attachment II" n="018" corresp="016" >
+<!--<p>Allegato II al n. 16 (cc. 57r-58v)</p>-->
+<pb n="057r" facs="08_057r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Lettere n° 100 dall’Aia di 29 april 1619 </p>
+<p>Copia </p>
+<p>Patente al capitano Dirich Hartocson </p>
+<p>Christofforo Suriano per la serenissima republica di Venetia etc. residente appresso <lb/>
+li signori Stati Generali delle Provincie Unite de’ Paesi Bassi. A qualunque <lb/>
+si sia illustrissimo et eccellentissimo rappresentante, o altro ministro della detta <lb/>
+serenissima Republica in mano de’ quali perveniranno le presenti, et <lb/>
+particolarmente all’illustrissimo et eccellentissimo signor Capitano general da Mare di essa <lb/>
+serenissima Republica sarà noto, che havendo io havuta sufficiente <lb/>
+relatione del valore, et lunga isperienza nelle cose da mare <lb/>
+del strenuo Dirich Hertocson, et havendo di commissione di sua Serenità fatto armare ad uso di guerra il suo vassello nomi-<lb/>
+nato Il leon felice ho accettato, come per le presenti accetto, <lb/>
+et confermo il detto Dirich Hertocson [per]<ptr target="#tn22" n="22"/> capitano del medesimo <lb/>
+vassello, et marinari, che vi sono sopra fino al numero di ottanta <lb/>
+come ha havuto ordine da me di provederlo. Con quali immediate <lb/>
+havuta la mostra nel Tessel doverà uscir di quel porto servendo <lb/>
+il tempo, et condursi direttamente in golfo di Venetia all’obedienza dell’<lb/>
+eccellentissimo signor Capitano general sudetto, non dovendo far scala in alcun porto, o spiag-<lb/>
+gia comportando così il servitio della serenissima Republica, che senza perdita di <lb/>
+tempo, et con ogni celerità debba conferirsi in detto golfo per ricever <lb/>
+quivi li commandamenti, che li saranno dati da esso eccellentissimo signor Capitano generale, o suo<ptr target="#tn23" n="23"/> <lb/>
+Vice gerente, o altri rappresentanti publici, li quali commandamenti per <lb/>
+sé stesso doverà osservare, et far osservar pontualmente dalli detti <lb/>
+suoi marinari, et essequir nel resto il contenuto nella capitulatione <lb/>
+del noleggio del vassello, et tutto quel più che haverà da me <lb/>
+nell’instruttione, che gli darò a parte in quorum fidem etc. </p>
+<p>Data nell’Helder nel porto del Tessel questo dì 25 aprile 1619 </p>
+<p>Christofforo Suriano secretario residente veneto
+<pb n="057v" facs="08_057v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="058r" facs="08_058r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="058v" facs="08_058v" rend="270"/>
+<p>n° 4 </p>
+<p>Copia della patente del capitano <lb/>
+Dirich Hartocson<ptr target="#tn24" n="24"/> sopra il vassello <lb/>
+Il leon felice </p>
+<p>nella lettera n° 100 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Il giorno … mese aggiunto in sopralinea."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue che v(ostra) S(ereni)tà no(n) stia p(er) dar | ordine, depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "s- esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ri- esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Segue p(er) Bohemi depennato."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Così A."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segno abbreviativo mancante."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "sta’ colti come pare."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "ordinato se l’ordine aggiunto in sopralinea su scritto depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Così A."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Lacerazione del margine esterno."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Lacerazione del margine interno."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Segue lettera depennata."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Esito di correzione."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Esito di correzione."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-o esito di correzione."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

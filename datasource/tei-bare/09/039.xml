@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.039 date 1620-07-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">039</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 216r-219v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp296-311
+            </note>
+            <biblScope unit="page">216r-219v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that States General have received letter by Van Aerssen in which he describes his honourable reception by Venice. Van Aerssen send more details in letter to his father, his wife and especially to Maurice, who informs him that they have convened to discuss how to welcome Trevisano. Van Aerssen has also written to Carleton about his reception and asked him to induce the States General to show Trevisano equal favours. More reports and speculation about levies, preparations and intentions of Spinola. Maurice expresses frustration to Suriano about the irresolution in England, and tells Soriano that the king has been loads to sleep by the Spanish. Ends the letter with settlement between Maurice and prince of condé over the inheritance, the transfer of money will be conducted by Calandrini </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-07">7 luglio 1620</date>
+            <num>062</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="062">
+<div type="main" facs="main text of letter" n="062">
+<!--<p>7 luglio 1620, L’Aia (cc. 216r-219v)</p>-->
+<pb n="216r" facs="09_216r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> n° 221<ptr target="#tn1" n="1"/> comincia 219<ptr target="#tn2" n="2"/> </p>
+<p>Serenissimo Principe </p>
+<p>il signor ambasciator Arsen nelle sue lettere scritte alli signori Stati rappresen-<lb/>
+ta distintamente tutto quel più che si può dire degl’hon[ori]<ptr target="#tn3" n="3"/> <lb/>
+et honoratissimi trattamenti usati verso di lui dal primo piedi <lb/>
+che ha posto nello Stato della Serenità vostra per tutte le città <lb/>
+et terre, che sino al suo arrivo a Venetia ha passate <lb/>
+in quel serenissimo Dominio; descrive l’honoratissimo alloggia-<lb/>
+mento trovato preparato in Venetia, gl’incontri, i regali, <lb/>
+et più l’applauso universale alla sua comparsa, et il <lb/>
+grato accogliemento fattogli costì dall’Eccellenze vostre; dicendo <lb/>
+non bastargli l’animo poter esprimer a sufficienza quello <lb/>
+che ha ricevuto. Parla degnamente de’ senatori, che lo hanno <lb/>
+rincontrato, dell’illustrissimo signor cavalier Foscarini in particolare; ma <lb/>
+principalmente lauda la persona dell’eccellentissimo signor ambasciator Trivisano. <lb/>
+Oltre le lettere publiche più, et più ne ha aggiunte in <lb/>
+particolare al padre secretario dell’assemblea, alla moglie, <lb/>
+et spetialmente al signor principe Mauritio, il che essendomi <lb/>
+dall’Eccellenza sua communicato mi disse: l’Arsen è assai eloquente<ptr target="#tn4" n="4"/> <lb/>
+et scrive bene; ma s’iscusa, che la penna non può <lb/>
+esser sufficiente a descriver quanto si conviene quello <lb/>
+che sin allhora haveva ricevuto di buon trattamento, <lb/>
+et quanto li signori Stati nella persona di lui habbino acquistato di honore, et di riputatione appresso una tanta Republica <lb/>
+et soggionse l’Eccellenza sua mostrando di dirlo seriosamente siamo <lb/>
+hora intricati perché non sappiamo come potremo in qualche picciola parte sodisfar alle tante cortesie usate <lb/>
+verso l’Arsen. Hieri furono meco (disse l’Eccellenza sua) alcuni
+<pb n="216v" facs="09_216v" rend="0"/>
+di questi signori per communicar insieme quello doveremo fare <lb/>
+et in somma habbiamo compreso molto bene l’impossibilità <lb/>
+nostra all’arrivar di gran lunga; onde habbiamo concluso <lb/>
+di far quello si potrà, et voi ci sarete testimonio, che noi <lb/>
+non habbiamo qui palazzi, ornamenti, o commodità sì proprie <lb/>
+come si converrebbe, et ci aiutarete nell’iscusar la <lb/>
+nostra debolezza. Io a sua Eccellenza, et ad altri dei signori <lb/>
+Stati, che m’è occorso di vedere, et m’hanno gettati dei <lb/>
+medesimi concetti. Ho risposto, che dove concorre una <lb/>
+corrispondenza così ferma, et così sincera d’amore com’è <lb/>
+tra la serenissima Republica, et queste Provincie ogni dimostratione <lb/>
+riuscirà sempre grata, et accetta, che sapevo la grandezza <lb/>
+dell’animo di questi signori quant’ella fosse, et sapevo <lb/>
+insieme, che non haverebbono bisogno del mio intramezo <lb/>
+per iscusa. Scrive il signor ambasciator Arsen al signor ambasciator d’Inghilterra <lb/>
+una lettera molto piena sopra questi particolari, et lo prega <lb/>
+instantemente di essortar questi signori alla venuta dell’eccellentissimo <lb/>
+signor Trivisano all’honore, et alla liberalità; così scrive <lb/>
+anco a qualche suo altro intrinsico amico. Sono sicurissimo <lb/>
+che studieranno, et inventeranno [li]<ptr target="#tn5" n="5"/> signori Stati ogni più <lb/>
+honorata, et degna maniera, et ben mi sono aveduto, <lb/>
+che ’l signor principe Mauritio ha il pensiero a questo. <lb/>
+Mi pregò instamente<ptr target="#tn6" n="6"/> di fargli saper presso poco quando <lb/>
+doverà esser qui l’eccellentissimo signor ambasciator Trivisano; et quando <lb/>
+la necessità porti, che habbi ad uscire in campagna; <lb/>
+come si va mettendo ad ordine per farlo; ch’io là dove
+<pb n="217r" facs="09_217r" rend="0"/>
+sarà glielo mandi a far sapere, et me ha posto in <lb/>
+stretto obligo, et promessa. </p>
+<p>L’uscita dell’Eccellenza sua<ptr target="#tn7" n="7"/> dipende totalmente dalla mossa del marchese <lb/>
+Spinola. Si sono havuti avvisi<ptr target="#tn8" n="8"/>, che si erano<ptr target="#tn9" n="9"/> pro-<lb/>
+rogati ancor otto giorni dal primo ordine al marchiare <lb/>
+che vuol dir verso la metà del presente. Alcuni dicono <lb/>
+perché non habbi esso Marchese trovate le militie, né il resto <lb/>
+necessario ad una tanta truppa così ben pronto et ad ordine <lb/>
+come si prometteva; et altri, che sia per aspettar una <lb/>
+risposta di Spagna: in ogni modo qui non si è tralasciato <lb/>
+punto di passar innanti et negl’ordini, et nelle provi-<lb/>
+sioni. Alle frontiere tutte le genti destinate per uscirne <lb/>
+ad accompagnarsi col grosso, che l’Eccellenza sua vorrà haver seco <lb/>
+sono in punto per muoversi al tocco della cassa, si sono <lb/>
+incaminati alcuni guastadori, l’artiglierie necessarie <lb/>
+sono leste all’imbarco; et ogni capo di guerra non <lb/>
+aspetta che ’l ceno<ptr target="#tn10" n="10"/>. Sua Eccellenza mi communicò hieri, <lb/>
+che haveva lettere di Brusseles con avviso di voce <lb/>
+sparsa, che Spagnuoli appresso la partenza delle truppe <lb/>
+levate pensino far nuova levata di sei, over otto <lb/>
+milla fanti da piedi. Si maravigliò meco di un sì <lb/>
+gran preparamento, et che ancor non si scoprissero<ptr target="#tn11" n="11"/> li loro <lb/>
+dissegni, ma si fermò nel creder certo, che non si muovessero <lb/>
+che per l’Alemagna. Se ben chi gli scrive (disse) parla <lb/>
+dell’intrapresa di Giuliers, et che mirassero anco sopra <lb/>
+Embden, et Bremen, publicando dei medesimi fasti, che se ne
+<pb n="217v" facs="09_217v" rend="0"/>
+sarebbono impossessati in passando. Sorridendo a questo il <lb/>
+principe; stiamo male<ptr target="#tn12" n="12"/> aggiunse, se si fermano. A dir la verità <lb/>
+non vi è rincontro qui sufficiente, dal quale almeno per <lb/>
+congiontura si possi cavar il certo del viaggio del <lb/>
+marchese Spinola; et con tutti li preparamenti vi sono <lb/>
+anco di quelli, che tengono che se non anderanno in fumo <lb/>
+tante<ptr target="#tn13" n="13"/> divulgationi, almeno le cose non habbino ad esser <lb/>
+di tanto momento quanto n’è lo strepito. Et sua Eccellenza non <lb/>
+sa che creder; ma vuol però per sicurezza di queste Pro-<lb/>
+vincie più tosto temere, che restar sprovisto<ptr target="#tn14" n="14"/>. </p>
+<p>Non lauda punto la tardanza, et irresolutione d’Inghilterra, et per <lb/>
+la levata del colonello Ver mi disse con sentimento: è a che <lb/>
+serviranno doi milla fanti?, havendo inteso, che tanti solamente <lb/>
+si facci stato di mandar per provisione, et che poi habbino <lb/>
+a seguitar gl’altri; et poi mi disse in confidenza quello, <lb/>
+che vostra Serenità deve haver havuto dall’eccellentissimo signor ambasciator Lando <lb/>
+che quella Maestà vogli haver giuramento dal colonello <lb/>
+Ver, et dai capitani, et officiali, che non si muoveranno <lb/>
+che a solo mantener l’elettorato. Aggiungendo. Vedete <lb/>
+mo se siamo ben forniti, et quello che si potemo prometter <lb/>
+tutti, o la più gran parte di quei ministri sono <lb/>
+contaminati, et il Re stesso dagl’ufficii de’ Spagnuoli <lb/>
+è adormentato. Proferendo anco questo con particolar <lb/>
+senso; et mi disse, che non mostrassi<ptr target="#tn15" n="15"/> col signor Ambasciator inglese <lb/>
+haver alcuna cognitione di questo. </p>
+<p>Li signori Stati, et l’Eccellenza sua sono mattina, et doppo pranso insieme, et
+<pb n="218r" facs="09_218r" rend="0"/>
+quelli anco del Consiglio di<ptr target="#tn16" n="16"/> Stato; et la provincia di Holanda <lb/>
+ancora che sta hora ridotta; consultando ognuno per la <lb/>
+parte sua a quello che trovano ispediente, et servitio per la <lb/>
+Republica. </p>
+<p>Dovendo con sua Eccellenza partir la compagnia di guardie, et sendo <lb/>
+partita di qua quella del colonello Ver, ne hanno fatto <lb/>
+venir qui doi altre, che si fermeranno per<ptr target="#tn17" n="17"/> sicurezza <lb/>
+dei signori Stati. </p>
+<p>Prima del partire il signor principe d’Oranges vuol stabilir l’accordato <lb/>
+dalla signora principessa di Oranges in Francia col principe <lb/>
+di Condé, et hoggi o dimani devono esser mandati in <lb/>
+Anversa da cinquanta milla fiorni in tanti albertini <lb/>
+moneta dalla quale trova tirarsi la minor perdita, li <lb/>
+Calandrini, et compagni suoi d’Amsterdam faranno <lb/>
+anc’essi un cambio per Parigi di altri cinquanta milla <lb/>
+et così anderà sodisfacendo all’obligo del contratto<ptr target="#tn18" n="18"/>, per lo <lb/>
+stabilimento del quale si trova il secretario del principe <lb/>
+di Condè. È contenta sua Eccellenza perché così resta <lb/>
+libera usufruttuaria senza contesa di quello ha <lb/>
+hereditato dal fratello. Il resto<ptr target="#tn19" n="19"/> che sarà altri <lb/>
+centomilla fiorini si conterà per l’anno che viene in <lb/>
+doi rate; et si supplirà a tutto con commune sodisfattione. </p>
+<p>Dall’Haya li 7 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="218v" facs="09_218v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="219r" facs="09_219r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="219v" facs="09_219v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 221 comincia 219 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="062">
+<!--
+<p n="219vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 luglio 1620 ricevute a’ 22 detto </p>
+<p>Del segretario Suriano. n° 221 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-2" corrected above "-1."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-1-" corrected above "-2-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ink stain.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Ink stain.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "proq" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-ssi" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line on "del" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "di" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

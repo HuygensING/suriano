@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.032 date 1619-08-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">032</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 177r-179v, 182r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">163r-164v, 165r-166v, 167r-172v, 173r-174v, 175r-176v, 177r-179v, 182r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports in cipher on recent negotiations with States General regarding a potential alliance. Enclosed is the States General written report. They are committed to continue these negotiations and request that Suriano is given official credentials to proceed with drafting of the terms of the alliances. To avoid any procedural issues, Suriano request such formal credentials from Venice. States General are willing to provide twelve well-equipped ships or equivalent amount of money, again comparisons are made to alliances with France and England. Suriano suggests that the Serenissima might consider contributing more significantly than the States General to demonstrate its prominence and honour. Request further instructions from Venice especially regarding the diversion clause in the alliance. One text attached: a copy of a chapter of the conditions both in Italian and Dutch</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-08-13">13 agosto 1619</date>
+            <num>056, 057, 058, 059, 060, 061</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="056" corresp="061" source="163r-164v" >
+<div type="main" facs="main text of attachment I" n="056" corresp="061" >
+<!--<p>Allegato I al n. 61 (cc. 163r-164v; decodifica di cc. 173r-174v)</p>-->
+<pb n="163r" facs="08_163r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Punti sopra quali si compiacerà <lb/>
+la serenissima Republica far reflesso <lb/>
+per ordinar poi li suo <lb/>
+prudentissimi comandamenti </p>
+<p>Se l’Unione, o Confederatione doverrà essere <lb/>
+offensiva,<ptr target="#tn1" n="1"/> e diffensiva<ptr target="#tn2" n="2"/> insieme, <lb/>
+o solo diffensiva, per quanto tempo <lb/>
+doverrà ella durare, se perpetua, o a <lb/>
+tempo, et se a tempo per dieci, o <lb/>
+dodeci anni, o più, che meno pare <lb/>
+che non possi essere. </p>
+<p>La qualità, et quantità dell’<ptr target="#tn3" n="3"/> assistenza <lb/>
+che vorrà havere la serenissima Republica dalli <lb/>
+signori Stati. </p>
+<p>Par che si siano lasciati uscire finhora <lb/>
+a cinquanta mille fiorini per mese, <lb/>
+se la serenissima Republica vorrà haver più, <lb/>
+et fin quanto, doverrà dirsi. </p>
+<p>Quello, che sua Serenità vorrà dichiarirsi di dare <lb/>
+di più di quello daranno li stati, sia un <lb/>
+quarto, un terzo più o meno per fare
+<pb n="163v" facs="08_163v" rend="0"/>
+la differenza da questa dalla Republica <lb/>
+di vostra Serenità, che va del pari con le <lb/>
+teste coronate. </p>
+<p>Quando doverebbe essere pronta l’assistenza <lb/>
+massime dovendosi dar denari, perché <lb/>
+besognerà farne notitia anticipatamente. </p>
+<p>Per assistenza de navi sarà obligata sua Serenità <lb/>
+per sapere il suo dissegno almeno doi <lb/>
+mesi avanti, o secondo sarà capitulato. </p>
+<p>Se mentre si armerà sua Serenità intenderà di <lb/>
+haver denari, o li siano corrisposti <lb/>
+fino all’arrivo delle navi in servitio, <lb/>
+difficile sarà che si accommodino a questo, <lb/>
+se non si truova qualche buon ripiego, <lb/>
+perché fatta la mostra in<ptr target="#tn4" n="4"/> nave <lb/>
+entrano li marinari in servitio, e li signori <lb/>
+Stati per consequenza nella spesa, così anco <lb/>
+de’ soldati, se si volesse soldatesca. </p>
+<p>Se doverà dirsi<ptr target="#tn5" n="5"/> che l’assistenza si <lb/>
+doverà dare in ogni tempo, o ad ogni <lb/>
+richiesta, overo nel bisogno d’una aperta <lb/>
+guerra solamente, o pur semplicemente
+<pb n="164r" facs="08_164r" rend="0"/>
+dire in caso di bisogno, come doverà <lb/>
+nominarsi il soccorso de’ denari in ducati, <lb/>
+o in fiorini, perché in ogni qualità di <lb/>
+moneta vi può essere dell’alteratione <lb/>
+per il cambio. </p>
+<p>Se doverà detto soccorso esser mandato di qua <lb/>
+da’ signori Stati con lettere di cambio, o pure, se <lb/>
+sua Serenità vorrebbe pigliarlo a Venetia, <lb/>
+perché fosse pagato di qua, così anco <lb/>
+per li signori Stati per pagarlo di là. </p>
+<p>Nel caso, che la serenissima Republica sia in guerra, <lb/>
+et anco li signori Stati, allhora pare, che intendino <lb/>
+questi signori, che la parte che sarà men <lb/>
+travagliata habbia d’assister della metà <lb/>
+del soccorso all’altra. </p>
+<p>Se sua Serenità a conto del soccorso vorrà genti <lb/>
+da guerra, bisognerà considerare chi <lb/>
+doverrà pagarne il transporto. </p>
+<p>Se vorrà la serenissima Republica obligare li signori Stati <lb/>
+a provederla in tempo di bisogno <lb/>
+di qualche sogetti di commando, esperimen-<lb/>
+tati, et valorosi, sopra che sarà anco <lb/>
+necessario dichiarire<ptr target="#tn6" n="6"/> chi doverrà pagarli,
+<pb n="164v" facs="08_164v" rend="0"/>
+et se si vorrà, che li signori Stati li paghino si <lb/>
+può credere, che vorrano, che vadi a conto <lb/>
+dell’assistenza. </p>
+<p>Per la diversione doverà sua Serenità dichiarire <lb/>
+se vorrà, che sia posto questo punto<ptr target="#tn7" n="7"/> nella <lb/>
+capitulatione, et in quella maniera, overo <lb/>
+farne trattato a parte, dovendosi <lb/>
+metter nella capitulatione il senso di qua <lb/>
+per quanto ho sotrato, che se caso, che sia <lb/>
+in obligo l’una, e l’altra parte assistersi <lb/>
+contra chi si sia, o con diversione, o in altra <lb/>
+maniera, et essendovi questo reciproco, <lb/>
+si contenteranno li signori Stati. Il punto non <lb/>
+di meno è considerabile. </p>
+<p>Nelle lettere è dichiarita l’assistenza reciproca <lb/>
+delle aleanze con gli altri principi.</p>
+<p>Una buona parte di quanto ho detto è sopra <lb/>
+concetti, che vengono fuori della assemblea </p>
+<p>de’ signori Stati. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="057" corresp="061" source="165r-166v" >
+<div type="main" facs="main text of attachment II" n="057" corresp="061" >
+<!--<p>Allegato II al n. 61 (cc. 165r-166v; decodifica di cc. 175r-176v)</p>-->
+<pb n="165r" facs="08_165r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Translatione della lingua francese <lb/>
+nella italiana della scrittura delli signori Stati <lb/>
+nel negotio di unione </p>
+<p>Intorno a quello, che il signor ressidente Surian <lb/>
+ha dichiarito per via di conferenza, che <lb/>
+per il servitio commune, per la conformità <lb/>
+degli interressi, e per la stima, che la <lb/>
+serenissima republica di Venetia fa della buona <lb/>
+dispositione delli signori Stati Generali; la <lb/>
+medesima Republica è disposta di attender alla <lb/>
+negotiatione di unione, ma che per caminare <lb/>
+in essa di buon piedi è stimato necessario <lb/>
+di havere qualche dichiaratione <lb/>
+particolare sopra le conditione, et <lb/>
+spetialmente in caso, che la detta Republica <lb/>
+non havesse di bisogno di vasselli, se li <lb/>
+detti signori Stati saranno contenti di farli <lb/>
+assistenza in denari diversione, o come <lb/>
+sarà stimato meglio. </p>
+<p>Si può reciprocamente dichiarire, che li detti <lb/>
+signori Stati dal medesimo sentimento, considerationi
+<pb n="165v" facs="08_165v" rend="0"/>
+et volontà, sono dispostissimi, et inclinati <lb/>
+di entrare nel negotio della detta unione <lb/>
+per una diffesa, o soccorso cambievole <lb/>
+con tutte buone, et equitabili conditioni <lb/>
+perpetue, o a tempo. </p>
+<p>Et che per particolar dichiaratione condescen-<lb/>
+derano a soccorrer la serenissima Republica con <lb/>
+vasselli, con denari, o in qual altra forma <lb/>
+et maniera, che sarà convenuto, et <lb/>
+arestato per il ben commune dell’una e <lb/>
+l’altra parte nel trattato, che se ne <lb/>
+farà, nel quale il n°, et qualità de’ vasselli, <lb/>
+nell’equipaggio con la quantità, et soma <lb/>
+che si doverà pagare in denaro potrà <lb/>
+essere espressa, come anco ciò, che <lb/>
+reciprocamente, et in contracambio sarà <lb/>
+accordato per la detta serenissima Republica per <lb/>
+servire d’aiuto, et di soccorso alli detti signori <lb/>
+Stati.<ptr target="#tn8" n="8"/> </p>
+<pb n="166r" facs="08_166r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="166v" facs="08_166v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="III" n="058" corresp="061" source="167r-172v" >
+<div type="main" facs="main text of attachment III" n="058" corresp="061" >
+<!--<p>Allegato III al n. 61 (cc. 167r-172v; decodifica di cc. 177r-179v, 182r-v)</p>-->
+<pb n="167r" facs="08_167r" rend="0"/>
+<head>main text of attachment III</head>
+<p>n° 121 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="167v" facs="08_167v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="168r" facs="08_168r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="168v" facs="08_168v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="169r" facs="08_169r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="169v" facs="08_169v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="170r" facs="08_170r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="170v" facs="08_170v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="171r" facs="08_171r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="171v" facs="08_171v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172r" facs="08_172r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172v" facs="08_172v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="059" corresp="061" source="173r-174v" >
+<div type="main" facs="main text of attachment IV" n="059" corresp="061" >
+<!--<p>Allegato IV al n. 61 (cc. 173r-174v; decodifica a cc. 163r-164v)</p>-->
+<pb n="173r" facs="08_173r" rend="0"/>
+<head>main text of attachment IV</head>
+<p><metamark facs="Followed by encrypted text"/>
+<pb n="173v" facs="08_173v" rend="0"/>
+<metamark facs="Followed by encrypted text"/></p>
+<pb n="174r" facs="08_174r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="174v" facs="08_174v" rend="270"/>
+<p>n° 2 </p>
+<p>Considerationi per risolutione </p>
+<p>nelle prime n° 121 </p>
+</div>
+</div>
+<div type="attachment" facs="V" n="060" corresp="061" source="175r-176v" >
+<div type="main" facs="main text of attachment V" n="060" corresp="061" >
+<!--<p>Allegato V al n. 61 (cc. 175r-176v; decodifica a cc. 165r-166v)</p>-->
+<pb n="175r" facs="08_175r" rend="0"/>
+<head>main text of attachment V</head>
+<p><metamark facs="Followed by encrypted text"/>
+<pb n="175v" facs="08_175v" rend="0"/>
+<metamark facs="Followed by encrypted text"/></p>
+<pb n="176r" facs="08_176r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="176v" facs="08_176v" rend="270"/>
+<p>n° 1 </p>
+<p>Scrittura dei signori Stati </p>
+<p>nelle prime<ptr target="#tn9" n="9"/> n° 121 </p>
+</div>
+</div>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>13 agosto 1619, L’Aia (cc. 177r-179v, 182r-v)</p>-->
+<pb n="177r" facs="08_177r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 121 fin 122 </p>
+<p><hi rend="decoded">Serenissimo</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">Principe <lb/>
+</hi></p>
+<p><hi rend="decoded">doppo haver li signori Stati ben essaminato ciò, che a nome <lb/>
+di vostra Serenità lor feci sapere, hanno fatto metter in <lb/>
+carta quanto ella vedrà dall’aggionta copia <lb/>
+da una parte è il francese a parola, per parola <lb/>
+et dall’altra la traduttione ittaliana haven-<lb/>
+do il signor secretario Arsen di sua mano notato ciò, <lb/>
+ch’io gli dissi del senso, et desiderio di vostra Serenità <lb/>
+non havendo per consequenza li signori Stati havuta <lb/>
+alcuna scrittura da me, né sottoscrittione, essi <lb/>
+mi hanno mandato per lo stesso secretario, come una <lb/>
+nota di quanto hanno deliberato. In essa <lb/>
+vedrà in ristretto la volontà di questi Signori, et <lb/>
+la loro inclinatissima</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">rissolutione nel prose-<lb/>
+guir nel cominciato negotio, il che mi è stato <lb/>
+anco nell’assemblea generale espresso hieri, <lb/>
+che vi fui, non havendolo potuto prima fare per le <lb/>
+occupationi di questi signori: et dicendo a sue Eccellenze <lb/>
+di haver ricevuta detta scrittura, aggionsi, che <lb/>
+l’haverei mandata con il di più, che si fossero <lb/>
+compiaciute di aggiongermi. Parlorono un poco <lb/>
+tra essi, et prima mi disse il Pressidente, che havendo <lb/>
+li signori Stati sodisfatto al desiderio di sua Serenità, nel punto <lb/>
+principale dell’assistenza restava hora di proseguir <lb/>
+inanti, et che io a tal effetto fossi auttorizzato <lb/>
+</hi>
+<pb n="177v" facs="08_177v" rend="0"/>
+<hi rend="decoded">da lei con lettere credentiali, o procura, come <lb/>
+vostra Serenità havesse stimato meglio, per metter giù di <lb/>
+concerto li capitoli dell’aleanza, da dover esser <lb/>
+poi aggraditi tanto dalla Serenità vostra, che dalle <lb/>
+Provintie, a chi da ambedoi le parti si dove-<lb/>
+ranno inviare. Io risposi che non haverei <lb/>
+mancato di significar tutto ciò alla Serenità vostra, <lb/>
+ma che non vedevo neccessità, o di procura, o <lb/>
+di altre lettere credentiali, mentre io ero già <lb/>
+conosciuto dall’Eccellenze loro per ministro, et ressidente <lb/>
+di vostra Serenità, et che appunto allhora, che li parlavo <lb/>
+era fornito</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">il terzo anno della mia ressidenza <lb/>
+presso di esse; è vero risposero, ma essendo <lb/>
+questo negotio grave, et estraordinario si deve anco passar <lb/>
+con estraordinaria forma, essendo questo l’ordinario costume. <lb/>
+Io non aggionsi altro, se non che haverei procurato <lb/>
+ogni desiderata sodisfattione. <lb/>
+</hi></p>
+<p><hi rend="decoded">In effetto veggo, che non può farsi di meno, che vostra Serenità <lb/>
+non mi mandi, o lettere credentiali, o procura, <lb/>
+quando però si compiacia in questo negotio valersi <lb/>
+della mia debolezza, quale non può haver <lb/>
+maggior sostentamento, che quello della devota, <lb/>
+sincera et fedel volontà che ho havuto <lb/>
+sempre fisso nel cuore d’avanzare, et avantag-<lb/>
+giar in quanto mi è stato possibile in tutte <lb/>
+le cose</hi>
+<pb n="178r" facs="08_178r" rend="0"/>
+<hi rend="decoded">il publico servitio, et l’haver io auttorità. <lb/>
+Colla forma desiderata da questi signori, non può <lb/>
+apportar pregiuditio, perché per la conclusione, et sta-<lb/>
+bilimento, per quanto ho potuto cavare, si pensa, <lb/>
+che doverà esser questo fatto per reciprochi <lb/>
+ministri, et più tosto ambasciatore, che ressidente. <lb/>
+Starà all’Eccellenze vostre illustrissime il deliberare in <lb/>
+quel spatio di tempo, che li parerà più poter <lb/>
+dar gusto, et contento a questi signori, essendo di già <lb/>
+per quello mi è detto auttorizzati li deputati per <lb/>
+il trattare. Haverebbono voluto ch’io <lb/>
+havessi havuto più larga, et espressa commissione <lb/>
+per ponersi giù da me qualche capitolo, per communi-<lb/>
+car insieme, ma io, che per le lettere della Serenità <lb/>
+vostra de’ 19 aprile passato non mi veggo impartita <lb/>
+così larga commissione, non ho voluto intrapren-<lb/>
+der direttamente, o indirettamente il farlo, per <lb/>
+non far in materia così grave, et sì delicata <lb/>
+cosa, che potesse riuscir di dispiacer alla Serenità vostra. <lb/>
+</hi></p>
+<p><hi rend="decoded">Io ho procurato di trovarmi a parte con alcuno di questi <lb/>
+signori per retirar il senso loro quanto alla quantità <lb/>
+dell’assistenza, et uno mi disse daremo 12 navi <lb/>
+ben fornite, se ne vorrette più, più ne haverete, <lb/>
+se non haverete bisogno di navi vi si darà <lb/>
+denaro, che importi l’equivalente:</hi>
+<pb n="178v" facs="08_178v" rend="0"/>
+<hi rend="decoded">dica la <lb/>
+serenissima Republica quello, et quanto stima sia bene. <lb/>
+</hi></p>
+<p><hi rend="decoded">Fui col signor principe Mauritio, per cavar anco più <lb/>
+avanti di questi sensi, et dissemi egli ancora <lb/>
+la prontezza, che sarà in questi signori il sodisfar <lb/>
+all’obligo, in che si metteranno, o con navi, o <lb/>
+con soldatesca, o con denari, o con munitioni <lb/>
+tutto lasciandosi alla buona dispositione di vostra <lb/>
+Serenità, et tanto feci, che cavai da sua Eccellenza; che si era <lb/>
+parlato di 50 mila fiorini per mese, ma che altri haverano <lb/>
+detto più, che però ognuno si era fermato nella <lb/>
+quantità, che vostra Serenità havesse stimato propria, <lb/>
+sopra che in particolare, ella potrà farne la sua pru-<lb/>
+dente reflessione, et massime, se vorrà per la <lb/>
+sua reputatione, et per la ragione, che le addusso <lb/>
+hoggi otto, se il soccorso, che haverà a dar vostra Serenità <lb/>
+doverà esser maggiore di quello de’ signori Stati di <lb/>
+un quarto, di un terzo più, o meno, secondo che <lb/>
+stimerà honorato, et proprio. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il re di Franza è in obligo di dar alli signori Stati <lb/>
+in ogni occasione de’ lor bisogni 10 mila fanti a tutte <lb/>
+sue spese, et costo, per tanto tempo, quanto sarà <lb/>
+il bisogno, et li signori Stati all’incontro sono <lb/>
+obligati di dar al Re nelle sue neccessità <lb/>
+a tutte loro spese 5 mila fanti pagati, et</hi>
+<pb n="179r" facs="08_179r" rend="0"/>
+<hi rend="decoded">intertenuti <lb/>
+da essi, overo dar la assistenza in tante navi <lb/>
+da guerra, o munitioni, conforme all’instanza <lb/>
+che ne farà il Re. <lb/>
+</hi></p>
+<p><hi rend="decoded">La maestà d’Inghilterra deve dar alli signori Stati 20 <lb/>
+navi da guerra di 300 fin 600 tonelli armati, <lb/>
+et munite, come devono esser, et 6 mila huomeni <lb/>
+da piedi et 400 cavalli, per tanto tempo quanto <lb/>
+ne haveranno bisogno, tutto alle spese della <lb/>
+Maestà sua; et all’incontro li stati devono occor-<lb/>
+rendo fornir il Re di altretanti vasselli <lb/>
+della stessa grandezza, et qualità, et <lb/>
+4 mila fanti, et 300 cavalli. <lb/>
+</hi></p>
+<p><hi rend="decoded">Con lettere de’ 9 decembre 1617 mandai alla Serenità vostra <lb/>
+li capitoli et conditioni dell’alleanza di questi <lb/>
+signori con le città ansiatiche: li potrà far <lb/>
+vedere; alli principi dell’Unione, et al <lb/>
+re di Svetia, come le scrissi riverentemente la passata <lb/>
+settimana. Dano li Stati, 4 mila fanti per cadauno <lb/>
+et di tanti sono</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">obligati li detti principi <lb/>
+et Maestà 4 mila per uno. Ai principi queste <lb/>
+Provincie in luogo di 4 mila fanti dano tanta <lb/>
+cavallaria, o denari all’equivalente, et <lb/>
+a Svezia la proportione de navi, secondo, <lb/>
+che stima quel Principe a proposito, et all’<lb/>
+occorrenze di suo maggior servitio. <lb/>
+</hi></p>
+<pb n="179v" facs="08_179v" rend="0"/>
+<p><hi rend="decoded">Si fa conto che per l’intartinir di 3750 fanti <lb/>
+secondo li pagamenti dei signori Stati vi vogliono <lb/>
+50 mila fiorini, computato il mese di 42 giorni, <lb/>
+il che però parmi, che non si osservi, quando <lb/>
+esce gente fuori del Paese, onde si doveria <lb/>
+diminuir la quantità della soldatesca <lb/>
+per far l’equivalente. <lb/>
+</hi></p>
+<p><hi rend="decoded">Per le navi da guerra non è così facile farne <lb/>
+il calcolo al presente, perché oltre il soldo, et <lb/>
+il viver de’ marinari, si mette anco a <lb/>
+conto le munitioni per l’equivalente. <lb/>
+</hi></p>
+<p><hi rend="decoded">Per una certa rota, che le mandai sin <lb/>
+a’ 20 novembre 1616, fatta all’ingrosso, potrà <lb/>
+veder il costo di una nave da guerra <lb/>
+ma non si parla delle munitioni; saprà la <lb/>
+Serenità vostra quanto importino, e le 12 navi, e <lb/>
+le altre che sono in suo servitio. Ma <lb/>
+per quello potessero dar li signori Stati, si farà <lb/>
+sempre il calcolo giusto. <lb/>
+</hi> Tutto ho stimato proprio di significar <lb/>
+con la mia solita riverenza a vostra Serenità ad ogni buon fine. Ella da precedenti <lb/>
+lettere mie, et particolarmente dalle penultime de’ 30 del passato, et <lb/>
+dall’ultime de’ 6<ptr target="#tn14" n="14"/> del presente n° 120 che saranno aggiunte a questo col <lb/>
+119 prima dell’arrivo di questo haverà inteso in che consisti<ptr target="#tn15" n="15"/> <hi rend="decoded">la</hi><ptr target="#tn16" n="16"/> <hi rend="decoded">volontà di questi Signori, quali siano li <lb/>
+loro sensi per l’avanzamento di un tanto <lb/>
+negotio, stimato proprio, et profittevole</hi>
+<pb n="182r" facs="08_182r" rend="0"/>
+<hi rend="decoded">ai <lb/>
+communi stati, et interessi, onde colla pru-<lb/>
+denza sua m’instruirà di quel tanto, doverò <lb/>
+operar, et come mi doverò governar nei <lb/>
+punti principali, per la continuatione dell’<lb/>
+incaminanento, et trattatione dell’affare. <lb/>
+</hi></p>
+<p><hi rend="decoded">Quanto alla diversione, mi è stato repplicato <lb/>
+da più d’uno che saranno pronti d’accom-<lb/>
+modarsi a quello, che il tempo, e l’<lb/>
+occasione potrà portare, et anco se sarà <lb/>
+stimata a proposito si potrà metter questo <lb/>
+punto nei capitoli, che si concerteranno <lb/>
+con quella forma di parole, che sarà <lb/>
+reciprocamente stimata propria. <lb/>
+</hi></p>
+<p><hi rend="decoded">Anco sua Eccellenza mi ha parlato della stessa maniera. <lb/>
+</hi></p>
+<p><hi rend="decoded">In foglio a parte ho stimato bene notar certe <lb/>
+cose principali, per haver in questo proposito <lb/>
+tanto più chiare le commissioni da lei <lb/>
+et poter far il suo servitio con vantaggio, <lb/>
+e sarà aggionto alle presenti. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 13 agosto 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="182v" facs="08_182v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 121 fin 122 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="182vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 agosto 1619 ricevute a’ 28 detto </p>
+<p>Haya. n° 121 </p>
+<p>prima </p>
+<p>Manda scritture dei stati in francese <lb/>
+et in italiano nel negotio della Lega. </p>
+<p>Dice il secretario che l’Arsen ha notato di sua <lb/>
+mano ciò che li disse del senso della Republica <lb/>
+né hanno havuto scrittura alcuna né sottoscritione <lb/>
+ma essi hanno mandato una nota di quanto <lb/>
+hanno deliberato. Da essa si vede volontà <lb/>
+e risolutione di proseguir nel negotio et ciò anco <lb/>
+le è stato espresso nell’assemblea <lb/>
+dove ha egli detto che manderà la […]<ptr target="#tn17" n="17"/> </p>
+<p>Aggionge il Presidente che avendo i stati <lb/>
+sadisfato nel punto dell’assistenza, resta <lb/>
+che ’l secretario habbi auttorità con lettere o procura <lb/>
+per metter giù i capitoli dell’aleanza da <lb/>
+esser poi graditi da ambe le parti. </p>
+<p>Risponde che lo aviserà che non <lb/>
+vede necessità di procura o di lettere <lb/>
+credentiali essendo egli ministro conosciuto. </p>
+<p>Replicano che essendo negotio grave et <lb/>
+estraordinario, deve passar con estraordinaria forma <lb/>
+et esser questo l’ordinario costume: le <lb/>
+risponde<ptr target="#tn18" n="18"/> il secretario che procurerà ogni sodisfatione. </p>
+<p>Dice che vede non potersi far di <lb/>
+meno o di procura o di lettere quando si <lb/>
+vogli valer di lui: che ’l darli auttorità <lb/>
+non può apportar pregiuditio perché la conclusione <lb/>
+si disegna segua con reciprochi ministri <lb/>
+et più tosto ambasciator che residente: et che <lb/>
+ha inteso esser auttorizati i deputadi <lb/>
+per trattare. </p>
+<p>Che desideravano havesse egli più <lb/>
+larga commissione per metter giù qualche </p>
+<p>[capitolo]<ptr target="#tn19" n="19"/> da conferire insieme, ma non ha </p>
+<p>L. SS. X. </p>
+<p n="182vD">———</p>
+<p>stimato bene di farlo. </p>
+<p>Ha procurato<ptr target="#tn20" n="20"/> di sottrar a parte la quantità <lb/>
+dell’assistenza: uno ha detto dodeci <lb/>
+navi ben fornite, e più se si vorrà <lb/>
+o danari per l’equivalente; dicasi ciò che si <lb/>
+stima bene. </p>
+<p>Mauritio dice si darà o navi o danari o <lb/>
+soldatesca o munitioni a dispositione<ptr target="#tn21" n="21"/> della <lb/>
+Republica: et s’è parlato di 50 mila fiorini <lb/>
+per mese et anco più fermandosi nella <lb/>
+quantità che la Republica stimerà propria. </p>
+<p>Discorre che il soccorso di qua <lb/>
+doverà esser maggiore di un quarto, un terzo più o meno. </p>
+<p>Franza obligato dar 10 mila fanti, i Stati <lb/>
+all’[in]contro<ptr target="#tn22" n="22"/> 5 mila. </p>
+<p>I[nghilterr]a<ptr target="#tn23" n="23"/> navi e 6 mila fanti e 400 cavalli <lb/>
+[i S]tati<ptr target="#tn24" n="24"/> navi, e 4 mila fanti e 300 cavalli. </p>
+<p>L[i princip]i<ptr target="#tn25" n="25"/> dell’Unione, e Svetia 4 mila fanti <lb/>
+per [c]adauno<ptr target="#tn26" n="26"/> e di altretanti i stati. </p>
+<p>Fa conto che 50 mila fiorini trattengono <lb/>
+3750 fanti in circa. </p>
+<p>Per le navi non è facile far il <lb/>
+con[t]o<ptr target="#tn27" n="27"/>, ma si veda nota mandata <lb/>
+a’ 20 novembre 1616 del costo di una <lb/>
+nave da guerra, senza le munitioni. </p>
+<p>Dimanda ordine come governarsi. </p>
+<p>Nella diversione dicono doversi accommo-<lb/>
+dar al tempo et occasione: et se è <lb/>
+stimata a proposito, si può metter <lb/>
+nei capitoli per concertar con quella forma <lb/>
+di parole, che reciprocamente sarà <lb/>
+stimata propria. </p>
+<p>Ha n[ot]ato<ptr target="#tn28" n="28"/> in foglio alcune cose <lb/>
+prin[cip]ali<ptr target="#tn29" n="29"/> per haver le commissioni chiare. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Precede offe depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i- corretta su -e-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue -a depennata."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue na depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue che ’l depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Ultima -i- corretta su -e-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Esito di correzione."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue al rigo successivo Rissolut(io)ne de’ S(igno)ri Stati in lingua francese depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Esito di correzione."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Ser(enissi)mo … sempre il calcolo giusto decodifica di testo cifrato presente a cc. 167r-172v."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-ssi- corretto su -one."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Così A."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue oglig depennato."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Corretto su 4."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Prima -s- corretta su -r-."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "la … Gratie etc. decodifica di testo cifrato presente a cc. 170v-171r; con segno di rimando."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Aggiunto in sopralinea su Dice depennato."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-ato esito di correzione."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Esito di correzione."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Lacerazione del supporto."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "Lacerazione del supporto."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.066 date 1619-12-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">066</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 348r-349v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">348r-349v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letter deals with various payments of the ships and letters of exchange he has taken out. He still waiting for muster rolls and accounts for two more ships from Venice. Reports that William of Nassau is grateful for release of Vincenzo Teyens, a Frisian soldier from the galleys. He informs that William has had a son. Inquires whether the troops of Rocquelaure has been dismissed. Ambassador Lando has set sail to England. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-12-10">10 dicembre 1619</date>
+            <num>115</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="115">
+<div type="main" facs="main text of letter" n="115">
+<!--<p>10 dicembre 1619, L’Aia (cc. 348r-349v)</p>-->
+<pb n="348r" facs="08_348r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 157 comincia 155 </p>
+<p>Serenissimo Principe </p>
+<p>sarà oltre il mio sollevo, principalmente vantaggio della Serenità vostra<ptr target="#tn1" n="1"/> <lb/>
+se li ordini di lei saranno capitati in armata che Dio lo <lb/>
+voglia; et presto se ne doverà haver qualche nuova certa. </p>
+<p>Per pagar li noleggi de’ vasselli piglierò<ptr target="#tn2" n="2"/> li denari a cambio, come <lb/>
+la Serenità vostra mi commette, stimando altrettanto proprii li suoi <lb/>
+rispetti, quanto quello che riverentemente raccordai credevo che <lb/>
+potesse apportar avanzo al publico. In questo proposito <lb/>
+veggo, che non potrò far di meno di non contentar in qualche <lb/>
+parte questi compartecipi delle quattro navi, lasciando a <lb/>
+parte quelli della nave abbrucciata, che non hanno ad haver <lb/>
+che<ptr target="#tn3" n="3"/> doi mesi; et gl’altri dovendone haver sei, <lb/>
+credo come dico, che sarò forzato per levar l’occasione <lb/>
+delle indoglienze, et delle pretensioni de’ danni et interessi <lb/>
+di far<ptr target="#tn4" n="4"/> dar loro almeno doi mesi fino che mi vengano <lb/>
+le risposte di vostra Serenità<ptr target="#tn5" n="5"/>; ma questi procurerò anco che <lb/>
+siano con la cautione che si conviene. </p>
+<p>Fin qui ho tratti alla Serenità vostra in doi lettere di cambio trenta <lb/>
+milla ducati. Per<ptr target="#tn6" n="6"/> le navi, che hanno da venire sendo <lb/>
+sette ne bisognerà maggior summa, onde col primo <lb/>
+dispaccio manderò altra lettera a vostra Serenità di venti milla <lb/>
+ducati, et poi susseguentemente di tempo in tempo<ptr target="#tn7" n="7"/> questo avviso <lb/>
+a vostra Serenità a fine, che possi anticipatamente dar gl’ordini <lb/>
+proprii per queste<ptr target="#tn8" n="8"/> provisioni<ptr target="#tn9" n="9"/>. Come ho significato altra <lb/>
+volta credevo certo che li matelotti havessero havuta di là <lb/>
+molta più summa di denaro di quella che trovo descritta
+<pb n="348v" facs="08_348v" rend="0"/>
+nelli roli et conti mandatimi dall’illustrissimo signor commissario Moresino <lb/>
+delle cinque navi; aspetterò quelli delle altre. </p>
+<p>Sendo il signor conte Guglielmo di Nassau governatore di Frisia stimai bene commu-<lb/>
+nicar a sua Eccellenza la gratia, che la Serenità vostra ha fatta a quel soldato <lb/>
+di che si è restata molto contenta perché anc’ella come mi <lb/>
+ha detto haveva scritte lettere di raccomandatione a lei per impetrar <lb/>
+gratia, et per esso soldato, et per doi altri suoi compagni. <lb/>
+Se bene detto signore scriverà alli stati di Frisia di questa gratia <lb/>
+anc’io farò l’ufficio, che stimerò proprio in questo proposito. </p>
+<p>Ho ricevuto lettere da Seghem del giovane conte Guglielmo fratello <lb/>
+del già<ptr target="#tn10" n="10"/> conte Gio. Ernesto di Nassau<ptr target="#tn11" n="11"/> colle quali mi dà parte di haver ricevuto <lb/>
+dalla moglie un figliolo maschio, et si offerisce di nutrirlo, et <lb/>
+allevarlo per servitio di quella serenissima Republica, et mi ha pregato <lb/>
+anco di raccomandarlo, et raccordarlo alla gratia, et <lb/>
+alla memoria dell’Eccellenze vostre, et che le assicuri per sua parte <lb/>
+che si tiene pronto ad ogni lor minimo cenno di venirle <lb/>
+a servire. Io non ho mancato di congratularmi con lettere seco <lb/>
+et con il padre, et promesso ad esso conte Guglielmo di far <lb/>
+l’ufficio, che desidera con la Serenità vostra. </p>
+<p>Mi scrive haver presentito non so che di riforma di soldo, che <lb/>
+si pensava di far sopra le compagnie del reggimento del <lb/>
+signore di Rocalaura, et desiderava saperne da me qualche cosa <lb/>
+et se saranno esse truppe trattenute. Io ho risposto <lb/>
+di non sapere se non in generale quanto sua Signoria mi diceva <lb/>
+Qui s’è inteso che vostra Serenità era in pensiero di licentiar
+<pb n="349r" facs="08_349r" rend="0"/>
+detto reggimento, ed alcuni me ne hanno parlato con qualche <lb/>
+passione, mostrando tener per fermo, che come la congiuntura <lb/>
+non era al presente propria per li emergenti che corrono <lb/>
+né di servitio publico, così licentiandolo<ptr target="#tn12" n="12"/> sarebbe <lb/>
+stato un dar l’armi in mano all’inimico perché li soldati <lb/>
+non potranno passar per alcuna parte, che non capitino in <lb/>
+ma[no]<ptr target="#tn13" n="13"/> d’Austriaci. Io mostro di non esser informato <lb/>
+di questo negotio, ma che la Serenità vostra regola sempre <lb/>
+le attioni sue col termine della prudenza. La stagione <lb/>
+avanzatasi assai al rigor del freddo viene tenuta <lb/>
+propria per poter la Serenità vostra haver qualche vantaggio nella <lb/>
+regolatione di quella soldatesca, et massime se se* le <lb/>
+presenterà il sollevo di tenersi in guarnigione in <lb/>
+terra, et che ella ponghi il pensiero a far che li <lb/>
+soldati habbino abondanza di viveri. Li suoi ministri <lb/>
+sono sul fatto, veggono molto meglio gl’interessi di <lb/>
+quella serenissima Republica di quello, che possino esser portati <lb/>
+dai discorsi di quà. </p>
+<p>L’eccellentissimo signor ambasciatore Lando con buon vento domenica passata alle <lb/>
+quattr’hore doppo mezo giorno fece vela per Inghilterra et <lb/>
+spero che sia arrivato hier sera in quell’isola. </p>
+<p>Presto pregando Dio benedetto, che colle santissime feste del <lb/>
+prossimo Natale, et col capo del nuovo anno concedi alla <lb/>
+Serenità vostra alle Signorie vostre eccellentissime et a tutta quella serenissima Republica felicità, <lb/>
+et augumento di ogni bene. Gratie etc. </p>
+<p>Dall’Haya li 10<ptr target="#tn14" n="14"/> decembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="349v" facs="08_349v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 157 comincia 155 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="115">
+<!--
+<p n="349vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 decembre 1619 ricevute a’ 26 detto </p>
+<p>Del segretario Suriano. n° 157 3<hi rend="superscript">a</hi> </p>
+<p>Risponde a lettere in proposito de’ ordini <lb/>
+mandati in armata di pigliar danari <lb/>
+a cambio. </p>
+<p>Che darà qualche sodisfatione a’ compartecipi <lb/>
+de’ vasselli per nolleggi finché habbia <lb/>
+risposta di qua. </p>
+<p>Aviso di lettere di cambio. </p>
+<p>Aspetta i rolli oltre li havuti delle <lb/>
+cinque navi anco gl’altri, et li conti. </p>
+<p>Ha comunicato la liberation del soldato. </p>
+<p>Ufficio del conte Guglielmo fratello del conte Gio. <lb/>
+Ernesto per la nascita del figliolo. </p>
+<p>Desiderio di saper se sia vera la <lb/>
+licentia delle trupe di Rocalaura. </p>
+<p>Considerationi d’esser tempo di trattenerle. </p>
+<p>Tempo di avanzarsi nella regolatione <lb/>
+con tenerle in guarnigion in terra, <lb/>
+et accomodarle di viveri. </p>
+<p>Ambasciator Lando passa per Inghilterra. </p>
+<p>L. SS. X. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue se depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue quattro depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "f- corretta su d-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "v(ostra) S(ereni)tà aggiunto in sopralinea con segno di inserimento; segue vostra Ser depennato, come pare."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "P- corretta su p-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "in tempo aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e corretta su -a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-i corretta su -e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "di Nassau aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Segue sta depennato."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-0 esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

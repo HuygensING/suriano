@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.004 date 1617-09-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">004</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 17r-18v, 21r-22v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">17r-18v, 21r-22v, 19r-20v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Travelled to Enkhuizen to meet with Count Levenstein but he was not present. Suriano is being lodged in the house of Count William of Nassau. One document attached: translated letter written by Count of Levenstein: "Traduttione di lettere dal Conte di Levenstein da 14 settembre e de 15 medesimo scritte d’Amsterdam"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Leeuwarden</settlement>
+            <date when="1617-09-18">18 settembre 1617</date>
+            <num>005, 006</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="005">
+<div type="main" facs="main text of letter" n="005">
+<!--<p>18 settembre 1617, L’Aia (cc. 17r-18v, 21r-22v)</p>-->
+<pb n="017r" facs="05_017r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>partii dall’Haya hieri fecero otto giorni, et per fuggir <lb/>
+Amsterdam per rispetto della contagione m’abboccai <lb/>
+sopra l’acqua di quella città col signor conte di Levenstein <lb/>
+che mi disse, che potevo andar ad Encusen perché il <lb/>
+giorno seguente vi sarebbe stato ancor lui. Ma in luoco <lb/>
+di venirvi mandò un suo gentilhuomo, che mi disse, <lb/>
+che haveva il Conte disegnato far più breve il camino <lb/>
+verso questa città per altra stradda, et che qui <lb/>
+mi haverebbe trovato scrivendomi anco quanto <lb/>
+(se l’Eccellenze vostre si compiaceranno) potranno veder dall’<lb/>
+aggiunta tradutione: con tutto ciò arrivato qui hieri <lb/>
+non solo non lo trovai; ma mi sopragiunse un suo servi-<lb/>
+tore con lettere che mi pregava di dirgli ciò che <lb/>
+havevo ricevuto da vostra Serenità toccante la levata delli <lb/>
+altri 1500 fanti. Quanto questo habbi offeso <lb/>
+l’animo mio lo lascio imaginar a vostra Serenità vedendo <lb/>
+andarsi differendo di più in più l’ispeditione delle <lb/>
+genti, che già restano imbarcate a Delfsil <lb/>
+molti giorni sono. Io gli ho riespedito im-<lb/>
+mediate l’huomo, dicendogli, che nelle lettere di vostra Serenità <lb/>
+ricevute qui, appunto nello stesso tempo non
+<pb n="017v" facs="05_017v" rend="0"/>
+havevo havuta cosa alcuna toccante il suo particolare, che però <lb/>
+lo pregavo a non differir di vantaggio, et se ne venisse <lb/>
+per ispedirsi colle genti, che sono di già in ordine, rappresen-<lb/>
+tandogli li disordini, et gl’inconvenienti, che la dilatione <lb/>
+del tempo può apportare. Doveranno le mie <lb/>
+lettere pervenirgli questa sera o dimani mattina <lb/>
+di buon’hora, io però sono necessitato ad attender <lb/>
+com<ptr target="#tn1" n="1"/> impatienza, star qui infruttuoso, et forse riuscir <lb/>
+molesto al signor conte Guglielmo di Nassau in casa del quale <lb/>
+io mi ritrovo accolto, et trattato con gran dimostratione <lb/>
+d’affetto, et di devotione verso quella serenissima Republica. <lb/>
+Havevo di già fatto ordinar alloggiamento in una <lb/>
+di queste hosterie; ma questo signore essendo avvisato <lb/>
+da’ signori di Harling (per dove sono passato, et sono <lb/>
+stato honoratamente trattato per rispetto di vostra Serenità) <lb/>
+della mia venuta mi fece appostar nell’entrar <lb/>
+della città, et mi fece condur a questa sua habitatione. <lb/>
+Egli è zio carnale del conte Gio. Ernesto, ch’è al <lb/>
+servitio di vostra Serenità, a cui dispiace anco la mala <lb/>
+riuscita della condota di lui; né io con questa occasione <lb/>
+con destra maniera lascierò di andar informando
+<pb n="018r" facs="05_018r" rend="0"/>
+bene, come ho cominciato questo signore delle cose successe in <lb/>
+pregiudicio di lei, et senza alcuna riputatione del signor Conte. </p>
+<p>Il medesimo signor conte Guglielmo mi ha affermato come mi scrisse <lb/>
+che intendeva le truppe<ptr target="#tn2" n="2"/> del conte di Levenstein esser per la <lb/>
+più gran parte di buoni, et vecchi soldati, et che sin qui <lb/>
+non si intende alcun motivo di esse. </p>
+<p>Quattro de’ suoi officiali questa mattina sono arrivati <lb/>
+qui, credendo di trovarlo, et io li ho<ptr target="#tn3" n="3"/> essortati <lb/>
+a tornarsene a Delfsil per contener in ufficio la <lb/>
+soldatesca, che bene spesso senza li capi li<ptr target="#tn4" n="4"/> rilascia <lb/>
+a qualche indiscrettione. </p>
+<p>Le Signorie vostre eccellentissime da più proprii luochi haveranno la <lb/>
+sicurtà delle levate di Germania. Qui non<ptr target="#tn5" n="5"/> intendo <lb/>
+altro dal conte Guglielmo se non ch’elle si faccino a <lb/>
+furia, et tutte o la più gran parte sotto a nome <lb/>
+dell’Imperatore, che Spagnoli assolutamente non habbino <lb/>
+volontà di far la pace, et che aiuteranno a tutto <lb/>
+loro potere il re di Bohemia; et perché esse levate <lb/>
+si fano così intempestivamente né possono esser pronte <lb/>
+che per la vernata fa sospettar del fine, et anco <lb/>
+qui si crede, et viene così scritto, che sia per volersi
+<pb n="018v" facs="05_018v" rend="0"/>
+trovar forte per l’elettione di re de’ Romani in persona <lb/>
+del serenissimo Ferdinando. </p>
+<p>Questo è quel tanto, che mi occorre di rappresentar alla <lb/>
+Serenità vostra le lettere della quale del primo mi serviranno <lb/>
+di informatione; et qui attender con ansia la venuta <lb/>
+del signor conte di Levenstein per dar compimento all’affare <lb/>
+et ritornarmene sì tosto che sarò ispedito all’Haya. […]<ptr target="#tn6" n="6"/> </p>
+<p>Da Leverden a’ 18 settembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="021r" facs="05_021r" rend="0"/>
+<p>Cut page</p>
+<pb n="021v" facs="05_021v" rend="270"/>
+<p>Cut page</p>
+<pb n="022r" facs="05_022r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="022v" facs="05_022v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="005">
+<!--
+<p n="022vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 settembre 1617 ricevute a’ 4 ottobre </p>
+<p>Haya </p>
+<p>L. SS. [R.]<ptr target="#tn7" n="7"/> </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="006" corresp="005" source="19r-20v" >
+<div type="main" facs="main text of attachment I" n="006" corresp="005" >
+<!--<p>Allegato I al n. 5 (cc. 19r-20v)</p>-->
+<pb n="019r" facs="05_019r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Prima </p>
+<p>Traduttione di lettere dal conte di Levenstein da’ 14 settembre, e de’ 15 medesimo<ptr target="#tn8" n="8"/> <lb/>
+scritte d’Amsterdam </p>
+<p>Signore io comincierò le mie lettere dal chiedervi pardono pregandovi affettuosamente di escusarmi se <lb/>
+non sono arrivato appresso voi a Enckusen, hieri a sera perché havendo fatto tutto ciò che mi <lb/>
+è stato possibile io non ho potuto già mai espedirmi per esservi come havevo promesso, tuttavia <lb/>
+spero sicuramente partir questa sera o all’alba del giorno per seguitarvi et se sarete partito <lb/>
+d’Enckusen per Harling o più avvanti io non mancherò di arrivarvi prima dal vostro arrivo <lb/>
+a Leverden, supplicandovi di creder che non mi doglio di cosa alcuna più che di non haver po-<lb/>
+tuto partir con voi, et se io havessi saputo d’esser intertenuto ancora da tali impedimenti, <lb/>
+mai saria stato così indiscreto di farvi partire più presto di quello faceva bisogno, <lb/>
+di maniera che io vi supplico dar la causa più tosto all’occorrenze che mi sono sopravenute <lb/>
+ch’alla mia persona. Poiché mi è necessario fermarmi ancor hoggi qui, io spero <lb/>
+che le lettere di Venetia arriveranno, et ch’io portarò<ptr target="#tn9" n="9"/> qualche particulare. Restando etc. </p>
+<p>2<hi rend="superscript">a</hi> lettera </p>
+<p>Signore hoggi è ritornato persona che haveva spedito all’Haya et che de<ptr target="#tn10" n="10"/> doveva portar le <lb/>
+vostre lettere, di Venetia, et non havendo potuto haverle, poiché il presidente di Frisia<ptr target="#tn11" n="11"/> <lb/>
+Brumagno ve le haveva ispedite per persona espressa, et havendo inteso per lettere di <lb/>
+Venetia, che ’l consenso et il dispatio per l’altra levata vi è stato mandato, io in diligenza <lb/>
+invio questo espresso per sapere s’è così affine ch’io possi dar ordine per la levata <lb/>
+alli capitani li quali di già sono appresso di me, et partirmene doppo incontinente perché senza <lb/>
+esser avvertito, come io non lo sono, in questo affare, mi bisognarebbe necessariamente fer-<lb/>
+marmi fino al ritorno del mio corriero espresso che ispedii a Venetia, il quale alla più <lb/>
+non potrà stare che doi o tre giorni ad arrivar. Io la supplico di scrivermi in diligenza <lb/>
+s’ella ha ricevuto qualche avviso affine che il mio giovene ritorni prestamente <lb/>
+per poter io partire et seguitarvi per fornire quello ch’io ho ancora fra le mani. <lb/>
+Restando per sempre etc. </p>
+<pb n="019v" facs="05_019v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="020r" facs="05_020r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="020v" facs="05_020v" rend="270"/>
+<p>Traduttione di doi lettere del conte di <lb/>
+Levenstein </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line on "genti" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "l" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue n" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Character is difficult to read clearly.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Damaged page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "me-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Corrected above "partirò."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "ve" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

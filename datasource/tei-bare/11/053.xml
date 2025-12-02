@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.053 date 1622-10-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">053</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 287r-291v, 294r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp466-477
+            </note>
+            <biblScope unit="page">287r-291v, 294r-v, 292r-293v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Heidelberg has surrendered and despite the terms the city has been sacked for three days. Tilly is besieging Mannheim and feat it will suffer a similar fate to Heidelberg. In haste Nedersol has set sail to England to inform James I of the state of affairs hoping to move the king to action. Chichester was sent to Regensburg but given the changes has requested to be recalled. Maurice and Mansfelt are united to relief the siege at Bergen op Zoom, reports that even in The Hague they can hear canonshort being fired at the siege. Ambassador Berck has boarded a ship to France and will travel to Marseille and from there to Livorno. Negotiations about WIC have not been concluded and are going slowly. Reports that he has informed States General of misfortune in Grisons. One document is attached: a brief account of the events at Bergen Op Zoom on 28 September 1622</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-10-03">3 ottobre 1622</date>
+            <num>084, 085</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="084">
+<div type="main" facs="main text of letter" n="084">
+<!--<p>3 ottobre 1622, L’Aia (cc. 287r-291v, 294r-v)</p>-->
+<pb n="287r" facs="11_287r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 426 sola </p>
+<p>Serenissimo Principe </p>
+<p>altro non si aspettava coll’ordinario, che venne la passata setti-<lb/>
+mana, che la confirmatione della perdita d’Heidelbergh <lb/>
+preveduta anticipatamente doppo che si vide il trattato <lb/>
+di Brusseles andar tergiversando<ptr target="#tn1" n="1"/> della maniera, che <lb/>
+si è inteso. Venne l’avviso alli signori Stati con li particolari <lb/>
+che alli 16 del passato fu preso il foborgo<ptr target="#tn2" n="2"/>, saccheggiato, et <lb/>
+messo in cenere; che ’l giorno seguente fu assalita la città <lb/>
+da cinque parti; che nella difesa il cavalier Herbert<ptr target="#tn3" n="3"/> <lb/>
+inglese governator del castello con pochi de’ suoi, sendosi gl’<lb/>
+Alemanni amutinati habbi valorosamente combatuto<ptr target="#tn4" n="4"/>, rom-<lb/>
+pendo tre piche sopra l’inimico; ma al terzo assalto <lb/>
+restò morto et tutti quelli, che erano con lui in numero <lb/>
+di mille in circa; che ’l colonel Merno non potendo resister <lb/>
+si ritirò nel castello; che li borghesi si resero a patti <lb/>
+di salva la vita, et beni; che ciò nonostante gl’<lb/>
+inimici si fussero gettati dentro la città saccheggiando, <lb/>
+usando sforzi, et ammazzando molti; che ’l saccheggiamento <lb/>
+haveva durato tre giorni continui, usandosi nel <lb/>
+resto ogni maggior tirannia, et [c]ome<ptr target="#tn5" n="5"/> dicono, senza essempio <lb/>
+in Alemagna. Quelli del castello si conservorono <lb/>
+sino al martedì seguente ai 20 uscendone per accordo <lb/>
+accompagnati verso il Berghstat per ritornar nel <lb/>
+Paese Basso, non havendo potuto ottennere di rendersi
+<pb n="287v" facs="11_287v" rend="0"/>
+a Franchendal, o Manheim, et qui si teme, che siano quelle <lb/>
+genti per haver qualche incontro solito di assassinio per <lb/>
+la stradda. </p>
+<p>Lasciato Heidelbergh presidiato Tilli partì col sforzo della <lb/>
+sua armata, et tirò verso Manheim ad assediarlo. </p>
+<p>Dentro si trova il general Veer, che vedendosi non <lb/>
+esser del tutto forte ha fatte venir di Franchendal sei <lb/>
+compagnie con assai discontento di quei poveri habitanti <lb/>
+che restano indeboliti, et privi di poter mostrar con <lb/>
+qualche forza il cuore, et la buona volontà verso il <lb/>
+loro Principe naturale. </p>
+<p>Già si sa esser la città investita in termine di formato assedio <lb/>
+et si tiene per fermo, che di essa succederà il medesimo, che <lb/>
+d’Heidelbergh; et che Franchendal seguiti. </p>
+<p>Questo preveduto infortunio d’Heidelbergh prima fu <lb/>
+portato da lettere diverse, a questa Regina, a’ par-<lb/>
+ticolari, et a’ signori Stati ancora. Poco doppo la sera <lb/>
+di venerdì passato arrivò il signor Francesco Hiderzol secretario <lb/>
+di questa Maestà ispedito dall’ambasciator d’Inghilterra <lb/>
+Chichester a fine di speditamente passarsene alla corte <lb/>
+per rappresentar al Re suo signore lo stato delle cose, <lb/>
+la poca stima che si faceva di sua Maestà da’ <lb/>
+Austriaci, et da’ Spagnuoli; l’esterminio di tutto ’l Paese
+<pb n="288r" facs="11_288r" rend="0"/>
+al suo sangue, la disriputatione della Corona, et della <lb/>
+Natione; sperando, che attioni sì ingiuriose possino <lb/>
+muoverla a pensar più dal vivo alla riputatione <lb/>
+propria, et alla sicurezza di questi principi. Partì <lb/>
+in diligenza la mattina del sabbato verso la Brila, et <lb/>
+alle quattr’hore fece vela in mare, onde sarà stato <lb/>
+col buon vento, che l’ha seguitato hieri sera in <lb/>
+Inghilterra. Alle lettere dell’Ambasciatore sono state aggiunte <lb/>
+altre anco della Regina al Re suo padre, et al Principe <lb/>
+suo fratello, et questo<ptr target="#tn6" n="6"/> signor ambasciator Carleton ha scritto <lb/>
+anc’egli con ogni maggior efficacia si crede che ’l <lb/>
+Re si accenderà, arderà, ma in poche hore o per <lb/>
+natura, o per l’altrui artificio si mortificarà ancora, <lb/>
+et con desiderio, et curiosità s’intenderà l’effetto che <lb/>
+haverà partorito il caso, et la relatione del Niderzol. </p>
+<p>Haveva in commissione l’ambasciator Chichiester di trovarsi alla <lb/>
+dieta di Ratisbona per protestar in essa contra <lb/>
+qualche trattatione, che si volesse intraprender dai <lb/>
+congregati per li affari del Palatinato; non intendendo <lb/>
+che habbi ad esser trattato sopra di esso che per l’Imperatore <lb/>
+per il re d’Inghilterra per l’Infanta, et per Baviera: con <lb/>
+tutto ciò havendo le cose cambiato tanto di faccia <lb/>
+rimostra l’Ambasciatore al Re nelle<ptr target="#tn7" n="7"/> sue lettere, et lo deve
+<pb n="288v" facs="11_288v" rend="0"/>
+far anco il Niderzol colla viva voce, che al presente trova <lb/>
+non esser necessario, ch’egli vadi al detto convento <lb/>
+di Ratisbona, et fa instanza di esser richiamato. </p>
+<p>Anco l’ambasciator Weston ch’era a Brusseles doveva mercordì <lb/>
+passato partir di là<ptr target="#tn8" n="8"/> per<ptr target="#tn9" n="9"/> Inghilterra così m’ha detto il signor <lb/>
+baron di Dona, quando però non fosse stato trattenuto <lb/>
+da qualche nuovo incidente, che non lo vedeva, se non <lb/>
+fosse qualche artificioso trattenimento <lb/>
+per inganar maggiormente. </p>
+<p>Del re della Gran<ptr target="#tn10" n="10"/> Bertagna si discorre con poco avantag-<lb/>
+gio, et riputatione. Si biasma il pensier così fisso, che <lb/>
+mostra alla pace, si teme che con pregiudicio dell’<lb/>
+universale, et di questa vicinanza non facci<ptr target="#tn11" n="11"/> qualche <lb/>
+dichiaratione a favor de’ Spagnuoli; et tanto più sendo <lb/>
+ad instanza loro detenuti prigioni in Scotia alcuni di <lb/>
+questi<ptr target="#tn12" n="12"/> marinari; mirano con occhio attento a ciò che <lb/>
+anderanno a parar le tante ordinationi a favor <lb/>
+de’ catholici che chiamano spagnolizanti; ascoltano <lb/>
+il successo del matrimonio, che dalli loro ambasciatori <lb/>
+viene persuaso in loro lettere che possi seguire, se ben <lb/>
+aggiungono<ptr target="#tn13" n="13"/> che la dispensa venuta da Roma <lb/>
+per esso fosse tanto piena di clausole, et conditioni <lb/>
+ristrette, ch’era impossibile, che in coscienza, né <lb/>
+per termine di buon governo il Re, né il Regno vi
+<pb n="289r" facs="11_289r" rend="0"/>
+potesse condescender; veggono il loro negotio un giorno <lb/>
+caminar bene, et l’altro esser portato dalli ambasciatori <lb/>
+in stato di gravi difficoltà; onde stano perplessi li <lb/>
+signori Stati, né sanno haver altro ricorso che alla patienza, <lb/>
+et alla speranza. </p>
+<p>Non lasciano dall’altro canto di attender con spirito al <lb/>
+presentaneo bisogno del loro stato provedendo là dove <lb/>
+il caso<ptr target="#tn14" n="14"/> lo ricerca, et sono chiamati dalle più necessi-<lb/>
+tate instanze. Venendo queste continuate in particolar <lb/>
+dalla piazza di Bergh per polveri, per denari, et <lb/>
+per viveri. A cosa alcuna si manca et con gran diligenza <lb/>
+si soministra ogn’altra amunitione. </p>
+<p>Tutti al presente stanno intenti alle attioni del signor principe <lb/>
+Mauritio , che già s’è unito con Mansfelt, et fatti <lb/>
+doi corpi di armata sono partiti verso Rosendal <lb/>
+nel Brabant, non si sa l’impresa, ma ben il fine <lb/>
+di far levar l’assedio di Bergh; alcuno dice che <lb/>
+anderà ad attaccar Steembergh la piazza, che <lb/>
+per prima presero Spagnuoli nanzi metter l’assedio a <lb/>
+Bergh, et ove fa il magazino di munitione lo <lb/>
+Spinola; overo sia per mettersi sui passi per tagliar <lb/>
+così li convoi dei viveri, che vengono d’Anversa <lb/>
+et di là intorno al campo dell’inimico. Doveva
+<pb n="289v" facs="11_289v" rend="0"/>
+il signor Principe haver a sua dispositione settantacinque <lb/>
+pezzi di canone tra grandi et piccioli, et 56 per allhora <lb/>
+doveva condur seco. </p>
+<p>Verso il forte di Schinch sono restati intorno cinquemille <lb/>
+fanti sotto al commando del governator di Nimeghen, <lb/>
+et del colonello Broch scocese; ma ho presentito, che <lb/>
+il conte Henrico di Bergh così commandato dallo <lb/>
+Spinola sia anc’egli calato nel Brabant con ordine <lb/>
+di rendersi si crede a Arental sopra la riva del <lb/>
+Demer dubitando che sua Eccellenza lo possi passare, et correr <lb/>
+il Paese, che già corse il signor principe Henrico suo <lb/>
+fratello. Et si aspetta forse dimani qualche cosa <lb/>
+che haverà fatto l’Eccellenza sua. A Brusseles il timor è <lb/>
+grande, et maggiore nel più prossimo circonvicino. </p>
+<p>Per questo ancor non si ha avviso, che si muovi lo Spinola <lb/>
+dall’assedio, ma vi attendi se ben martedì passato <lb/>
+si fece volar da questi di qua un’altra mina con <lb/>
+morte di 150 dei Spagnoli come porta l’avviso che <lb/>
+sarà qui aggiunto. Et sabbato, et hieri si ha sentito <lb/>
+qui nell’Haya il tuono di continuate canonate <lb/>
+le quali non cessano mai; et in tre giorni si sa che <lb/>
+sono stati consumati vintiquattro migliara di <lb/>
+polveri, et se ne va continuando a dispensar senza
+<pb n="290r" facs="11_290r" rend="0"/>
+alcun risparmio. </p>
+<p>Non si sa, che ’l baron di Anolt si sia ancor mosso da Aquis-<lb/>
+grana ove era arrivato colle sue genti, delle quali <lb/>
+intorno a settanta ne sono restati morti su per <lb/>
+la stradda dal disaggio, et stanchezza del camino <lb/>
+et un gran numero arrivato su quel di Colonia non <lb/>
+vuol passar avanti dicendo voler restar dove <lb/>
+sono stati levati, et voler esser pagati tra quali<ptr target="#tn15" n="15"/> <lb/>
+vi è una buona quantità de Italiani; et parmi <lb/>
+intender che questi, et altri anco ricercano salva-<lb/>
+guarda dalli signori Stati. </p>
+<p>Partirono hieri alla volta del porto del Tessel doi deputati <lb/>
+nel negotio dell’ispeditione delle 6 navi per dar la <lb/>
+commissione all’eremita capo della condotta, che <lb/>
+non potrà aprirla, che in mare; et appunto <lb/>
+mi trovai a visita di uno d’essi sul loro partire <lb/>
+né puoti cavar altro se non che forse vostra Serenità sarà <lb/>
+la prima a sentir le nuove, come mi disse anco <lb/>
+l’altra volta. Io vedendo non haver mezo di <lb/>
+tirar il certo, dissi, che haverei havuto gusto di <lb/>
+sentir il colpo<ptr target="#tn16" n="16"/> ancorché non potevo veder ove <lb/>
+colpisse. Hoggi usciranno dal Tessel quei vasselli <lb/>
+ch’ivi sono, et di Zelanda il resto, essendo pur
+<pb n="290v" facs="11_290v" rend="0"/>
+partito a quella volta un altro commissario per la stessa <lb/>
+speditione<ptr target="#tn17" n="17"/>. </p>
+<p>Con il medesimo buon vento, che cominciò giovedì, et seguita <lb/>
+il signor cavalier Berch destinato ambasciator alla Serenità vostra da questi <lb/>
+signori s’imbarcò sabbato mattina, et uscì in mare, et al <lb/>
+presente non può esser altrimenti per ragione che non <lb/>
+sia in Francia. Pensa di passar per terra a Marseglia, <lb/>
+et di là pigliar il suo camino per dove sarà consigliato <lb/>
+il meglio conducendosi a Livorno, o in altro luoco secondo <lb/>
+che ’l tempo lo porterà. Questa partenza m’è cara per <lb/>
+molti rispetti, et perché mi posso prometter anc’io <lb/>
+di dover rivenir presto a’ piedi della Serenità vostra a <lb/>
+riverirla, et servirla come l’humiltà, et la devotione <lb/>
+mia ricerca. </p>
+<p>Del negotio della casa per l’ambasciator della Serenità vostra uno dei deputati <lb/>
+sudetti andato in Tessel m’ha detto che<ptr target="#tn18" n="18"/> al suo ritorno <lb/>
+sarà ispedito, et voglio sperar con sodisfattione della <lb/>
+Serenità vostra nonostante che alcuno habbi proposto per quello <lb/>
+ho presentito, che anco il loro ambasciatore in Venetia dove-<lb/>
+rebbe haver la medesima prerogativa; ma non si sa <lb/>
+trovar l’essempio, et io non mancarò di operar <lb/>
+che segui l’effetto che giustamente si ricerca all’inten-<lb/>
+tione della Serenità vostra. </p>
+<pb n="291r" facs="11_291r" rend="0"/>
+<p>Il negotio del trafico, et viaggio dell’Indie Occidentali non <lb/>
+è ancor fermato, camina con lentezza dovendosi in <lb/>
+destra maniera disponer le città al concorso di questa <lb/>
+Compagnia, o più tosto li cittadini di esse interessati <lb/>
+nel cercar il proprio guadagno più che publico <lb/>
+beneficio. Ho tanto penetrato, che a suo tempo <lb/>
+il Berch communicarà alla Serenità vostra questo affare, <lb/>
+le darà particolar informatione, et le proponerà l’<lb/>
+intrudersi in esso per quel bene, et utile che non <lb/>
+privato, ma publico si può aspettare co’ ’l fine <lb/>
+a che è diretto il secreto di questa risolutione <lb/>
+et perfettione del detto viaggio dell’Indie Occidentali. </p>
+<p>Dimani sodisferò al commandamento della Serenità vostra nel communicar <lb/>
+alli signori Stati l’accidente miserabile successo in Grisoni <lb/>
+con quelle considerationi, che la materia stessa somi-<lb/>
+nistra oltre li prudenti avvertimenti di lì. Già l’<lb/>
+avviso è venuto da diverse parti d’Alemagna <lb/>
+alli signori Stati medesimi et hieri anco ne capitò un altro, <lb/>
+che ’l signor Rodolfo Salice<ptr target="#tn19" n="19"/> fatto un ammasso <lb/>
+di doimilla fanti haveva di nuovo cacciati <lb/>
+gl’inimici ripreso di nuovo il perduto eccetto le doi <lb/>
+Engadine, et che li morti dell’inimico erano da <lb/>
+tre in quattromilla. Avviso che ha apportato
+<pb n="291v" facs="11_291v" rend="0"/>
+gran consolatione. Viene scritto di Zurich alli xi del <lb/>
+passato, et se ne aspetta la confirmatione. </p>
+<p>Al capitan Ornech farò saper la mente della Serenità vostra ispe-<lb/>
+dendogli le lettere ove si troverà con la sua compagnia <lb/>
+o in guarnigione, o alla campagna. </p>
+<p>Con queste sarà la lettera sola, che scrissi la passata settimana <lb/>
+n° 425 replicata. Gratie etc. </p>
+<p>Dall’Haya li 3 ottobre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="294r" facs="11_294r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="294v" facs="11_294v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 426 sola </p>
+<p><metamark facs="Seals and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="084">
+<!--
+<p n="294vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 ottobre 1622 ricevute 19 detto </p>
+<p>Haya. Sola. n° 426 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="085" corresp="084" source="292r-293v" >
+<div type="main" facs="main text of attachment I" n="085" corresp="084" >
+<!--<p>Allegato I al n. 84 (cc. 292r-293v)</p>-->
+<pb n="292r" facs="11_292r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haya de’ 3 d’ottobre 1622 </p>
+<p>n° 426 </p>
+<p>Memoria di quello, ch’è passato a’ 28 settembre <lb/>
+sotto Bergh 1622 </p>
+<p>A dì 28 doppo mezogiorno circa le 3 hore fu risoluto <lb/>
+far saltar una mina nel quartiero del signor Famars fattasi <lb/>
+sotto il mezo della meza luna. Et fu commandato che <lb/>
+un sargente con 20 moschettieri spiarebbe le fosse dell’<lb/>
+inimico, et vedesse se si poteva distruggerne<ptr target="#tn20" n="20"/> una <lb/>
+di esse. Per<ptr target="#tn21" n="21"/> il qual effetto oltre li detti moschettieri <lb/>
+a lui sono stati giunti incirca 20 con pale, et altri <lb/>
+strumenti. Nel saltar della nostra mina li detti <lb/>
+sono usciti dalla banda del mezo della meza luna <lb/>
+et hanno cominciato a dare, et approssimarsi con gridi <lb/>
+all’inimico, che si trovava nelle prime fosse. Egli <lb/>
+fuggì quanto puoté, quelli che restorono sopra corsero <lb/>
+et si ritirorono fino al loro corpo di guardia. L’<lb/>
+inimico ivi si fermò; ma le nostre granate si fecero <lb/>
+far tanto luoco tra loro, che essi cominciorono ad <lb/>
+abandonar il suo corpo di guarda, et credorono <lb/>
+scapar per la sortita vicina; ma li fu impedito <lb/>
+et ivi furono mal trattati, lasciandosi ammazzar <lb/>
+come cani senza difendersi. Alcuni volevano <lb/>
+ascondersi<ptr target="#tn22" n="22"/> sotto le proprie mine <lb/>
+incominciate ma furono infilati dalli nostri come <lb/>
+porchetti. Sono stati condotti nella città 17 pri-<lb/>
+gionieri tra li quali vi è un capitano hirlandese<ptr target="#tn23" n="23"/> <lb/>
+chiamato Georgio dell’Haya; ma sono tutti <lb/>
+feriti a morte. Si crede secondo il commun giudicio <lb/>
+che vi siano restati morti da 150. </p>
+<pb n="292v" facs="11_292v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="293r" facs="11_293r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="293v" facs="11_293v" rend="270"/>
+<p>Riporto di Bergh </p>
+<p>nel n° 426 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> -"sa-" corrected above -"z-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Second "-e-" corrected above "-i-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-b-" corrected above "-p-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Stain.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-ll-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line on "luoco" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Corrected above "in."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "G-" corrected above "B-."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line on "bisogno" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-l-" corrected above -"p-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Precedes "med(esi)ma" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by -"l" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "havesse" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-ru-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "P-" corrected above "I-."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Precedes "asconder" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "h-" corrected above "I-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

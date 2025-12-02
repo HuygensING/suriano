@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.038 date 1620-07-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">038</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 212r-215v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp296-311
+            </note>
+            <biblScope unit="page">212r-215v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters dated 19 June with news about encounter between Venitian ships and Ossuna’s. Reports that he subsequently informed States General of the Venetian success. Back and forth with Admiralty of Amsterdam continues, Suriano requests accounts and refuses to travel to Amsterdam. Acknowledges receipt of letters with patents which the Pirates desired. Lormes requests a safe conduct to go to Venice. Reports further information about the crew of these pirate ships which contain some 3000 sailors, mostly French and English as well as 600 Ethiopians, who are slaves of the captain. There is a mix of Catholic and reformed on the ships all are privately owned. He has also learned that one of the captains is from a prominent English family who has been implicated in the gunpowder plot. Most of their piracy has taken place in the ocean, except for Sansone, who operated in the Mediterranean and also acted against Venetian subjects. Their wealth is estimated 45 million and they offer 800,000 to Venice. Suriano who requests decisions as the ships may return to Africa </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-07-07">7 luglio 1620</date>
+            <num>061</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="061">
+<div type="main" facs="main text of letter" n="061">
+<!--<p>7 luglio 1620, L’Aia (cc. 212r-215v)</p>-->
+<pb n="212r" facs="09_212r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 220<ptr target="#tn1" n="1"/> comincia 219<ptr target="#tn2" n="2"/> fin 221<ptr target="#tn3" n="3"/> </p>
+<p>Serenissimo Principe </p>
+<p>doppo fatto l’ufficio con li signori Stati, c’ho espresso nelle mie prime <lb/>
+communicai all’Eccellenze loro la verità del successo del vassello <lb/>
+L’amirante vecchio abandonato colla fuga del Rivera, et <lb/>
+se ben la sapevano in sostanza però non lasciai di commu-<lb/>
+nicarli anco la serie del seguito nell’abbattimento. Col <lb/>
+ringratiarmi li signori Stati di quanto loro conferii per nome <lb/>
+dell’Eccellenze vostre illustrissime mostrorono goder, che fosse stato così brava-<lb/>
+mente dall’illustrissimo signor Nani rintuzato l’ardir del Rivera; <lb/>
+et mortificato Ossuna nei suoi mali pensieri. Corre qui voce <lb/>
+che sia stato fatto far prigione dal signor cardinal Borgia. Non <lb/>
+sanno crederlo alcuni, alcuni se lo persuadono; et a me <lb/>
+n’è ricercato con curiosità, et colla medesima si aspettano li <lb/>
+primi avvisi. </p>
+<p>Perché li signori dell’amiralità di Amsterdam per il fratello del <lb/>
+Calandrini mi havevano fatta far instanza di pagar alcuni <lb/>
+partionevoli dei loro resti, et io le havevo fatto risponder, <lb/>
+che intendevo haver prima la liquidatione dei conti, et <lb/>
+dar sodisfattione poi come fosse stato conveniente, et <lb/>
+ch’ero d’ordine della Serenità vostra risoluto in questo; ne scrissero <lb/>
+alli signori Stati, li quali commesso ad uno di essi di venirmi <lb/>
+a trovare, et communicarmi le lettere, lo fece, et la <lb/>
+sostanza era, o che io andassi in Amsterdam a liquidar <lb/>
+i conti, o che mandassi con auttorità qualcheduno che lo <lb/>
+facesse, o dessi loro auttorità del farlo, et terminar tutte <lb/>
+le cose nella miglior maniera. Risposi al detto deputato <lb/>
+dei Stati, che per andar in Amsterdam non vedevo la
+<pb n="212v" facs="09_212v" rend="0"/>
+necessità del farlo per hora; ma che prima essi signori dovessero <lb/>
+far li conti, et mandarmeli qui per concertarli, et agiustarli <lb/>
+con uno dei suoi; per mandare non sapevo chi, non havendo <lb/>
+persona più informata di me; et quanto all’auttorità, che <lb/>
+questa non era in mano mia; ma della serenissima Republica, et che <lb/>
+non potevo dar quello, che non havevo. Tutte queste ragio-<lb/>
+ni furono trovate dal detto signore dei Stati proprie, et <lb/>
+convenienti, ne fece raporto, et per allhora conclusero <lb/>
+sopra la relatione, che si dovesse scriver, che li signori dell’<lb/>
+Amiralità mandassero qualche de’ suoi deputati per <lb/>
+trattar meco di questo affare, et far meco i conti: io <lb/>
+risaputo questo coll’occasione dell’audienza compren-<lb/>
+dendo, ch’era un entrar in una spesa grave <lb/>
+perché non vengono mai soli, stimai a proposito di divertir <lb/>
+quest’ordine, et proponer, che loro fosse scritto, che <lb/>
+facessero i conti, et li mandassero qui perché da me <lb/>
+fossero revisti<ptr target="#tn4" n="4"/>, et rappresentate<ptr target="#tn5" n="5"/> le difficoltà, che <lb/>
+havessi potuto<ptr target="#tn6" n="6"/> incontrar in essi, et rimoverle secondo <lb/>
+la convenienza. Tanto hanno scritto; et il medesimo ho <lb/>
+procurato, che sia fatto colle altre due Amiralità. <lb/>
+Starò a sentir quello ne seguirà. Prego il Signor Dio che <lb/>
+mi facci sbrigare con beneficio di vostra Serenità da tanto negotio. <lb/>
+Sto attendendo quel calcolo, ch’ella mi scrisse, che <lb/>
+faceva far per mandarmelo. Per il<ptr target="#tn7" n="7"/> conto da farsi da me <lb/>
+provo la difficoltà, per non haver li conti dalle Amiralità <lb/>
+perché veggo per appunto, che sarebbe un far il conto
+<pb n="213r" facs="09_213r" rend="0"/>
+senza l’hoste; ma soliciterò tanto, et insterò alli signori <lb/>
+Stati, che ne vederò il fine coll’aiuto di sua divina Maestà. </p>
+<p>Con lettere pur dei 19 del passato ricevo il senso della Serenità vostra <lb/>
+intorno al trattato di quei vasselli de’ corsari insieme <lb/>
+colla patente per quelli, che volessero di detti corsari <lb/>
+conferirsi costì a trattar con lei. Per il mandar col mezo <lb/>
+del Pasini essa patente sendo egli passato in Inghilterra et <lb/>
+conferitosi in Londra presso l’eccellentissimo signor ambasciator Lando <lb/>
+non ho modo di farlo. In altre communicatolo col signor <lb/>
+Falghero, et poi in buona maniera senza dir, che <lb/>
+havessi della<ptr target="#tn8" n="8"/> patente fattone parlar a parte, et poi <lb/>
+unitamente con il visconte di Lormes, che pur si <lb/>
+trattiene in questa casa della Serenità vostra procurai di cavar <lb/>
+da lui quello, che volesse inferire, se venisse una tal <lb/>
+patente disse, che non gli bastava l’animo di prometter <lb/>
+che alcuno di loro si risolvesse di andar a trattar a <lb/>
+Venetia, che prima non havessero sicurtà, et che<ptr target="#tn9" n="9"/> non <lb/>
+vedeva, che di altra maniera si potesse venir alla <lb/>
+perfettione di questo negotio se non come haveva <lb/>
+detto dal principio, et era, che havessero un salvo-<lb/>
+condotto con una lettera patente di abolitione dei <lb/>
+loro misfatti, et sicurezza delle loro persone, et robbe <lb/>
+il quale doverà esser dato in mano di un deputato della serenissima Republica; non intendendo egli di voler <lb/>
+haverlo in mano sua per portarglielo; ma ben, che sarebbe andato insieme con esso Deputato a trovar
+<pb n="213v" facs="09_213v" rend="0"/>
+li vasselli. Aggiungendo, che se si conferisse senza questo <lb/>
+presso di loro perderebbe il credito con dubio grande <lb/>
+di qualche disconcio; sendo molto tempo, che li ha tratte-<lb/>
+nuti prima colla speranza di Francia poi di Fiorenza <lb/>
+et già arrivano se non passano li tre mesi con quella della <lb/>
+serenissima Republica; soggiongendo, che più tosto quando <lb/>
+la Serenità vostra volesse haver maggior consideratione sopra questo <lb/>
+affare si risolverebbe aspettar doi settimane di vantag-<lb/>
+gio, che scaderebbono appunto colla risposta delle presenti <lb/>
+per haver il tutto in mano, et andar con il deputato da <lb/>
+vostra Serenità il quale, come ho riverentemente scritto doverà <lb/>
+haver ordine, et commissione espressa di non dar essa <lb/>
+patente di abolitione, et il salvocondotto se non <lb/>
+trova in effetto tutte le cose rappresentate. </p>
+<p>Quanto alla qualità delle genti, et quantità è tale come <lb/>
+già è stato scritto nella lettera del Pasini. Sono in circa <lb/>
+tremilla marinari la maggior parte inglesi, et francesi <lb/>
+(però tra marinari, et soldati) qualche holandese <lb/>
+pilota, et da cinque in seicento negri ethiopi, che sono <lb/>
+compresi nel detto numero, et sono come<ptr target="#tn10" n="10"/> servitori, <lb/>
+et schiavi<ptr target="#tn11" n="11"/> delli capitani. </p>
+<p>Intorno alla religione sono parte della catholica et parte della <lb/>
+riformata. </p>
+<p>Toccante ai vasselli dalle miei dei 16, et 23 del mese passato <lb/>
+haverà inteso quanto allhora le significai<ptr target="#tn12" n="12"/>. Hora aggiungo <lb/>
+che sono<ptr target="#tn13" n="13"/> tutti mercantili. Tra essi vasseli ve n’è<ptr target="#tn14" n="14"/> qualche portughese
+<pb n="214r" facs="09_214r" rend="0"/>
+qualche francese ma la maggior parte holandesi, et inglesi <lb/>
+tutti però come ho detto de’ particolari et non de’ principi. <lb/>
+Et nel discorso anco mi sono confermato, che ’l general <lb/>
+Estinch inglese è persona<ptr target="#tn15" n="15"/> che nasce di principal cavaliere <lb/>
+et di più ho cavato, che l’occasione della sua<ptr target="#tn16" n="16"/> absenza <lb/>
+d’Inghilterra fu per l’imputatione, ch’egli<ptr target="#tn17" n="17"/> ancora havesse <lb/>
+havuta participatione nel trattato della polvere. </p>
+<p>Quanto al corso lo hanno essercitato nell’oceano, eccetto il <lb/>
+capitano Sansone, che ha costeggiato con alcune sue <lb/>
+conserve il Mediterraneo. Il danno che hanno fatto <lb/>
+è stato sopra christiani sudditi di diversi prencipi, <lb/>
+et anco di quelli della serenissima Republica, et per haver la <lb/>
+retirata loro quasi d’ordinario nel paese de’ <lb/>
+Turchi dice il Visconte, che si sono guardati di <lb/>
+toccarli. </p>
+<p>La richezza, che confessano havere sarà di quattro in cinque <lb/>
+millioni, et potrebbe esser di vantaggio poiché <lb/>
+non hanno precisamente stimato il tutto, et di questi <lb/>
+non pretendono haver da dar conto ad alcuno. Li otto-<lb/>
+centomilla scudi, o un millione di ducati, che offerisco-<lb/>
+no di dar alla Serenità vostra oltre li vasselli, artellerie, <lb/>
+amunitione<ptr target="#tn18" n="18"/>, et altro dipendente, non sono compresi <lb/>
+nella detta summa. Il valor della quale è in <lb/>
+quella sorte di robbe, et mercantie descritte alla <lb/>
+Serenità vostra<ptr target="#tn19" n="19"/> dal Pasini, et poi da me. </p>
+<p>Nel resto supplica esso Visconte, che quanto prima si
+<pb n="214v" facs="09_214v" rend="0"/>
+venghi ad una risolutione perché la longhezza del tempo <lb/>
+nuocerebbe grandemente a quest’affare<ptr target="#tn20" n="20"/>, poiché sopra-<lb/>
+venendo la vernata, la maggior parte di essi vasselli <lb/>
+si retirerà in Africa, et nella costa di Ginea in <lb/>
+diversi luoghi<ptr target="#tn21" n="21"/>, et l’andar in simil stagione a trovarli tutti <lb/>
+sarà molto difficile, et pericolo. Si compiacerà dunque <lb/>
+la Serenità vostra poiché ho spuntato di haver ancor il tempo <lb/>
+sopradetto che serve alla risposta delle presenti, quando <lb/>
+con le lettere, che veniranno venerdì otto non habbi <lb/>
+la risoluta volontà sua, mandarmela colla risposta <lb/>
+di queste, che mi doverebbe arrivare intorno alli <lb/>
+sette del venturo; et può esser certa (così mi promette) <lb/>
+della fedeltà del signor Falghero, et Pasini quando doverà<ptr target="#tn22" n="22"/> <lb/>
+uno di essi portar le patenti che si ricerca, che <lb/>
+non transgrediranno li commandamenti, et ordini della Serenità vostra. </p>
+<p>Dall’Haya a’ 7 luglio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="215r" facs="09_215r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="215v" facs="09_215v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 220 comincia <lb/>
+219 fin 221 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="061">
+<!--
+<p n="215vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 luglio 1620 ricevute a’ 22 detto </p>
+<p>Del segretario Suriano. n° 220 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "rappresentante" with second "-n-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "rii" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "per il" added above the line on "p(er) il" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "loro" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Second "-i-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "vasseli ve n’è" added above the deleted word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "abs" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Precedes "et" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-ff-" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears; added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "-no" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

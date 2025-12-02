@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.007 date 1621-03-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">007</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 26r-31v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp612-622
+            </note>
+            <biblScope unit="page">26r-31v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Entire letter is dedicated to the arrival of Peckius, the archducal negotiator, in the Dutch Republic. He arrived on 22 March in Rotterdam, he has been treated quite badly by populace who has insulted him and thrown stones. He has had an audience with States General, the ambassadors have visited him for an exchange of niceties. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-03-23">23 marzo 1621</date>
+            <num>010</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="010">
+<div type="main" facs="main text of letter" n="010">
+<!--<p>23 marzo 1621, L’Aia (cc. 26r-31v)</p>-->
+<pb n="026r" facs="10_026r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 282 fin 283 </p>
+<p>Serenissimo Principe </p>
+<p>mercordì a sera improvisamente arrivò qui messaggiero espresso spedito <lb/>
+di Brusseles dall’audientiero Venriques con lettere al secretario dell’<lb/>
+assemblea dei signori Stati Generali, la sostanza delle<ptr target="#tn1" n="1"/> quali<ptr target="#tn2" n="2"/> era <lb/>
+che li serenissimi arciduchi havevano risoluto d’inviar qui il cancelliere <lb/>
+di Brabant per trattar colli signori Stati qualche negotio di <lb/>
+momento, et che però si compiacesse farlo saper all’Eccellenze loro. <lb/>
+Le lettere furono lette la mattina seguente, et immediate commesso <lb/>
+al secretario di riscriver, che ’l detto Cancelliere poteva venire, <lb/>
+et che se li prepararebbe casa. Di quest’ordine di risposta <lb/>
+li stati di Holanda, che sono ridotti qui hanno fatta indo-<lb/>
+glienza grande perché li deputati per la Provincia, ch’entrano <lb/>
+nell’assemblea non habbino prima fatta communicatione <lb/>
+et presa la parola, et l’assenso de’ congragati nella Dieta; ma <lb/>
+infine tutto s’è acquietato, poiché già l’ordine era <lb/>
+dato, et partito. Uscita questa voce, universale è stato <lb/>
+il concetto, che ’l Pecchius, ch’è il detto cancelliere di <lb/>
+Brabant fosse inviato per far qualche apertura della <lb/>
+prorogatione della tregua, et qualche altra persona, <lb/>
+che si presume haver havuta communicatione con Brusseles <lb/>
+s’è lasciato uscire, che sia per proporre una pace <lb/>
+ognuno è andato fra ’l tempo della venuta d’esso <lb/>
+Cancelliere discorrendo secondo il suo gusto, et a modo <lb/>
+suo portato o dalla passione, o dall’interesse. Egli arrivò
+<pb n="026v" facs="10_026v" rend="0"/>
+hier mattina a Roterdam, et con sue lettere fece saper<ptr target="#tn3" n="3"/> al medesimo <lb/>
+secretario Arsen, che sarebbe stato a desenar a Delft, et la sera <lb/>
+all’Haya furono avvertiti li signori Stati dal secretario, et formorono <lb/>
+concetto, che volesse haver qualche accoglimento nell’ingresso <lb/>
+sopra che<ptr target="#tn4" n="4"/> fu disputato assai, et consultando il negotio col signor <lb/>
+principe Mauritio egli volse scaricarsene adducendo qualche <lb/>
+ragioni, et doppo tornata la materia all’assemblea <lb/>
+fu in fine concluso, che niun deputato dei Stati Generali dovesse <lb/>
+intervenir all’incontro, et fatto saper questo al signor principe <lb/>
+Mauritio si stabilì, che sua Eccellenza andasse sola ad incontrarlo <lb/>
+fino a Risuich mezhora fuor dell’Haya così seguì <lb/>
+accompagnato da cinque o sei carrozze. Il Pecchius <lb/>
+mostrò di aggradir questo honore, et tanto maggiormente <lb/>
+quanto l’accoglimento, che gli fu fatto a Roterdam dal <lb/>
+popolo li diede molestia grandissima sendo con mille impreca-<lb/>
+tioni, et bestemie contro di lui, et di chi l’inviava accompagnato<ptr target="#tn5" n="5"/>; ma <lb/>
+peggio n’hebbe a Delft perché non bastò al popolo darli <lb/>
+male parole, che furono anco accompagnati da effetti <lb/>
+assai vilani tirandoli et fango, et pietre da una delle quali <lb/>
+fu colto sendo nella barca se ben non l’offese, come anco <lb/>
+uno de’ suoi servitori, né valse<ptr target="#tn6" n="6"/> il Mortegna mag-<lb/>
+giordomo dei signori Stati in tal occasione inviato dall’Eccellenze loro <lb/>
+per accompagnarlo, né valse la sbiraria a sedar quelle
+<pb n="027r" facs="10_027r" rend="0"/>
+genti di mistiero anzi gettorono in acqua il Serit, o capo <lb/>
+d’esso sbiraria, né valsero gl’istessi borgomastri, pur <lb/>
+in fine la scapò, conducendo salva la testa all’Haya. <lb/>
+Risaputosi questo sono stati ordinati di carcerar quelli <lb/>
+che se potevano havere, come seguì la notte passata <lb/>
+ma parmi, che ’l medesimo Pecchius habbi intercesso per loro. <lb/>
+Nel popolo questo nome di tregua non può sentirsi, dicendo <lb/>
+altamente, che questo signore viene per tradirli, et assoggietarli, <lb/>
+altri anco di buon senso sono della medesima opinione. </p>
+<p>Esso cancellier Pecchius ha questa mattina havuta audienza, doi <lb/>
+deputati dei signori Stati con doi carrozze del signor principe <lb/>
+Mauritio sono andati a levarlo dalla casa, ove è alloggiato <lb/>
+et spesato a nome publico, et condotto nell’assemblea <lb/>
+ha presentate le sue lettere credentiali scritte da’ serenissimi <lb/>
+arciduchi, nelle quali non è nominato che con titolo di <lb/>
+cancellier Pecchio apportator delle presenti doppo lette ha <lb/>
+esposto, che havendo li serenissimi arciduchi suoi signori mirato <lb/>
+sempre alla quiete publica, et all’universale di tutte <lb/>
+le Provincie de’ Paesi Bassi, havevano anco desiderato <lb/>
+tutto il bene et<ptr target="#tn7" n="7"/> servitio di questa d’Holanda, et dell’-<lb/>
+altre unite, et che a tal fine s’erano l’Altezze loro <lb/>
+mosse gl’anni passati doppo una sì lunga, et trava-<lb/>
+gliata guerra a procurar di far una tregua a fine
+<pb n="027v" facs="10_027v" rend="0"/>
+di sollevar l’afflittione, et la miseria nella quale stavano questi <lb/>
+paesi, che piacque a Diò, che ne sortisse l’effetto; che ’l medesimo <lb/>
+desiderio di quiete, et di continuato sollievo era nell’animo <lb/>
+di quelle Altezze, et che ’l servitio principale di queste <lb/>
+Provincie li era a cuore, assicurandosi anco l’Altezze loro, <lb/>
+che nei signori Stati fosse l’istessa buona volontà, et che si <lb/>
+sarebbono finalmente risolute per assicurarsi, et uscir un <lb/>
+giorno da tante calamità, che sono passate, et possono <lb/>
+soprastar a questi paesi di riconoscer il loro principe <lb/>
+naturale, contando il suo ufficio con altri concetti simili <lb/>
+espressivi del fine cauto, et artificioso di questo Ministro, <lb/>
+et di chi l’invia. Questa fu la sostanza della sua narra-<lb/>
+tione, et può ben la prudenza di vostra Serenità imaginarsi, che <lb/>
+gl’ultimi concetti siano stati notati, et che nell’animo <lb/>
+dell’universale non habbino fatta buona impressione. Della <lb/>
+detta narratione sono stato assicurato esser così da persona <lb/>
+degna di fede, che me la communicò in confidenza, et <lb/>
+quello che dirò più è basso mi fa persuader<ptr target="#tn8" n="8"/> che habbi <lb/>
+proferito l’ultimo concetto di riconoscenza. Nell’ingresso <lb/>
+all’assemblea, nel proferir quanto ha detto, et in ogni <lb/>
+sua attione ha tenuta gravità, et sussiego. Egli non è spagnuolo <lb/>
+ma fiamingo, nudrito però nei congressi de’ consiglieri spagnuoli <lb/>
+fu ricondotto dalli medesimi deputati, et colle medesime carrozze
+<pb n="028r" facs="10_028r" rend="0"/>
+all’alloggiamento, et come nel venir all’assemblea non poteva <lb/>
+tacer il popolo minuto di non imprecarli, et darli la mal <lb/>
+venuta con concetti popolari, così anco seguì nel ritorno <lb/>
+a casa, ma però con qualche spetie di modesta insolente <lb/>
+voce popolare: doverà dar la sua espositione per <lb/>
+scritto, non havendo stimato bene<ptr target="#tn9" n="9"/> li signori Stati darli altra risposta <lb/>
+che di haver havuta cara la sua buona venuta in questa <lb/>
+Provincia, et che si compiacesse dar per scritto ciò che <lb/>
+haveva esposto di bocca. </p>
+<p>Varie sono l’opinioni del fine con che habbi a proseguir questo <lb/>
+Ministro nella sua trattatione, et m’è stato detto che li signori <lb/>
+Stati anderanno molto ben occulati, sendo la finezza di lui <lb/>
+grande, et tanta, che si renderà al certo sospetta coll’<lb/>
+essempio, che n’hanno havuto nel trattato di Zanthen <lb/>
+ove egli intervenne addossandosi a lui la mala riuscita <lb/>
+di quel negotio perché proposta una cosa, parendo ch’ella <lb/>
+già fosse per esser stabilita, pigliando tempo o di rappresentar <lb/>
+a sue Altezze o di parlar al marchese Spinola, al ritorno; <lb/>
+tutto, sotto qualche pretesto, o mala intelligenza di parole, <lb/>
+andava a monte. </p>
+<p>La sera stessa di hieri poco doppo il suo arrivo l’ambasciator di Francia <lb/>
+fu a vederlo, et si trattenne seco per buon spatio di tempo, <lb/>
+et par che si cuopri<ptr target="#tn10" n="10"/> questa così subita visita per la
+<pb n="028v" facs="10_028v" rend="0"/>
+conoscenza, ch’egli ha havuta del detto Cancelliere a Zanthen <lb/>
+mentre anc’egli vi fu deputato coll’altro Ambasciator straordinario <lb/>
+francese dal suo Re. Come si sia alcuni pensano qualche <lb/>
+altra cosa, non essendo monsignor di Maurier così pronto alle <lb/>
+visite con quelli anco<ptr target="#tn11" n="11"/> che hanno il titolo di ambasciatore, come pareva <lb/>
+che<ptr target="#tn12" n="12"/> stasse in forse di farla a quello di Danimarca <lb/>
+come venendo da Principe elettitio; né si risolve che <lb/>
+doppo la visita che gli fece l’Ambasciatore inglese. </p>
+<p>Lo stesso signor ambasciator d’Inghilterra ha visitato hoggi esso Pecchius, et io <lb/>
+ho stimato conveniente non lasciar in alcuna maniera questo <lb/>
+complimento, et da lui sono stato ricevuto, et accolto nell’<lb/>
+ingresso della casa, et nella stanza con ogni termine <lb/>
+di honore, ringratiandomi della visita, et havendo io <lb/>
+usati di quei concetti generali che stimai proprii della stima <lb/>
+et delle honore in che la Serenità vostra haveva li serenissimi arciduchi, <lb/>
+et come da lei<ptr target="#tn13" n="13"/> erano tenuti principi, che miravano alla quiete, <lb/>
+et tranquilità publica; et per questo et per l’altre degne qualità <lb/>
+loro riputati di religiosissimo animo; facendogli offerte di conti <lb/>
+egli corrispose abondantemente al mio ufficio, et con ringra-<lb/>
+tiamenti, et con attestarmi, che sue Altezze portavano amore <lb/>
+a quella serenissima Republica, et la stimavano grandemente come <lb/>
+quella che caminava con li medesimi fini della quiete et per <lb/>
+tanto sendo egli venuta a tal oggetto a questi signori mi pregava
+<pb n="029r" facs="10_029r" rend="0"/>
+di corrisponder anc’io alla buona mente della Serenità vostra con <lb/>
+coadiuvar li suoi ufficii, che non haverebbono mirato ad <lb/>
+altro, che al ben commune, et di questi popoli. Et io gli <lb/>
+risposi, che lo ringratiavo di questa confidenza, et che <lb/>
+non credevo altrimenti, se non che haverebbe trovato buon <lb/>
+rancontro in questi signori quando le sue propositioni havessero <lb/>
+mirato al ben loro, et al lor vantaggio, et con questa gene-<lb/>
+ralità me la passai. </p>
+<p>Entrò poi a dirmi, che sul partir suo di Brusseles vi era arrivato <lb/>
+il giorno innanti l’ambasciator Digbi ispedito dal serenissimo re <lb/>
+d’Inghilterra che haveva havuta la sua prima audienza <lb/>
+versata in semplice complimento; che credeva, che fosse venuto <lb/>
+per negotiar la restitutione del Palatinato, et aggiunse <lb/>
+forse anco per trattar della nostra tregua. Continuando <lb/>
+bisogna, che vi intervenghi una terza persona compor-<lb/>
+tandolo così la qualità del negotio, et la riputatione, <lb/>
+li signori Stati non hanno voluto aprirsi; alli serenissimi arciduchi, <lb/>
+et per consequente al re di Spagna non si conviene <lb/>
+il farlo; di maniera che ognuno si tiene su la riputatione <lb/>
+et so bene soggiunse, che dalla mia espositione non si <lb/>
+potrà far altra conietura se non che habbi sostenuta <lb/>
+come si deve la riputatione di sua Maestà catholica<ptr target="#tn14" n="14"/> et <lb/>
+di sua Altezze, et questi popoli devono riconoscersi simil
+<pb n="029v" facs="10_029v" rend="0"/>
+concetto m’ha communicato il signor ambasciator di Inghilterra esser anco <lb/>
+a lui stato proferito dal medesimo Pecchius, che corrisponde <lb/>
+con quanto ha esposto nell’assemblea di riconoscer il prin-<lb/>
+cipe naturale. Ha anco mostrato nei discorsi haver <lb/>
+trovati qui tutti diversi gl’humori da quello s’imaginava, <lb/>
+et credeva, dicendo, che non sapeva quello potesse promettersi <lb/>
+et viene tenuto, che sia per uscir con qualche altra <lb/>
+propositione, et credisi di pace. </p>
+<p>Io non sono fuori d’opinione, che come in<ptr target="#tn15" n="15"/> apparenza si mostra <lb/>
+che improvisa sia stata la missione<ptr target="#tn16" n="16"/> di questo Ministro; <lb/>
+così sia stata maneggiata di lunga mano. Qual sia la <lb/>
+vera inclinatione di questi signori et delle provincie il solo <lb/>
+proprio interesse la può far chiara. Sono assicurato <lb/>
+che molti principali, et intendenti delle provincie, che <lb/>
+sono esposte al pericolo, et primo empito della guerra <lb/>
+sentono più tosto<ptr target="#tn17" n="17"/> di appigliarsi a questa, che alla <lb/>
+tregua stimandola et pernitiosa, et pestilente, ma li popoli <lb/>
+communi, che sono quelli a chi toccano li primi colpi <lb/>
+et per le gravezze, et per l’imposite, et per l’armi dell’<lb/>
+inimico vorrebbono la pace, o la tregua: Holanda, et <lb/>
+Zelanda non chiamano che la guerra. Et il signor principe <lb/>
+Mauritio mi disse avanti hieri, che fui a sua visita, che <lb/>
+li signori Stati haverebbono molto mirato di non si lasciar
+<pb n="030r" facs="10_030r" rend="0"/>
+imbarcar da parole, et da apparenze, et che più tosto entreranno <lb/>
+in nuova guerra, che nella speciosa tregua o pace andar a <lb/>
+rischio di perder in pochi anni il Paese, et la libertà. <lb/>
+Lodai il concetto. Con tutto questo molti vogliono, che in <lb/>
+sua Eccellenza per molti rispetti sia inclinatione di quiete <lb/>
+per conservarsi la riputatione acquistata. </p>
+<p>Non so se debbiano<ptr target="#tn18" n="18"/> l’Eccellenze vostre illustrissime sospettare, che questa medesima <lb/>
+pace et quiete venga desiderata dalla Francia, et dall’<lb/>
+Inghilterra et se sia procurata dall’una, et l’altra parte. Già <lb/>
+il Pecchius parla dell’ambasciator Digbi arrivato a sue Altezze che <lb/>
+possi haver un tal ordine. Corse anco ultimamente voce che<ptr target="#tn19" n="19"/> a <lb/>
+Brusseles doveva capitar un ambasciator francese, che è restato <lb/>
+mortificato dal tempo; ma la Serenità vostra da proprii luochi haverà <lb/>
+la vera essensa della cosa. </p>
+<p>Io starò avvertito a quello anderà seguendo, et procurerò <lb/>
+di penetrar il più che mi sarà possibile: in tanto qui posso <lb/>
+dirle, che non si ralentano le provisioni tanto da mar, che <lb/>
+da terra, et s’altro ordine non esce in contrario li vasselli <lb/>
+sortiranno in mare, et le genti da’ piedi, et da cavallo <lb/>
+saranno pronte per andar ai porti, che li saranno ordinati. Gratie etc. </p>
+<p>Dall’Haya li 23 marzo 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="030v" facs="10_030v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="031r" facs="10_031r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="031v" facs="10_031v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 282 fin 283<ptr target="#tn20" n="20"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="010">
+<!--
+<p n="031vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 marzo 1621 ricevute 14 aprile n° 282 </p>
+<p>Haya. Secretario Suriano. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the deleted word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "uno" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "da" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "fosse" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "da lei" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "C-" corrected above "c-."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the deleted word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "t-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-ia-" corrected above "-a-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Seal and traces of seals"</p></note>
+</div>
+</body>
+</text>
+</TEI>

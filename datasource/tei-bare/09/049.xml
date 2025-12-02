@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.049 date 1620-08-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">049</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 256r-v, 259r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">256r-v, 259r-v, 257r-258v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports the arrival of counsellor of John of Nassau, who has come to visit him to present letters of credence for William of Nassau, request an annually pension or payment for the services of John Ernst of Nassau, and equally discuss some outstanding payments. One document attached: ’Pretensioni del conte Giovanni di Nassau’</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-08-04">4 agosto 1620</date>
+            <num>075, 076</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="075">
+<div type="main" facs="main text of letter" n="075">
+<!--<p>4 agosto 1620, L’Aia (cc. 256r-v, 259r-v)</p>-->
+<pb n="256r" facs="09_256r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 231 comincia 228 </p>
+<p>Serenissimo Principe </p>
+<p>ritornato il consegliero del signor conte Gioanni di Nassau all’Haya <lb/>
+fu a vedermi per presentarmi come fece lettere credentiali del <lb/>
+conte Guglielmo, ch’è stato al servitio della Serenità vostra facendo com-<lb/>
+plimento meco in corrispondenza. Poi mi aggiunse per nome <lb/>
+di lui col mezo d’interprete, non parland’egli che la lingua <lb/>
+alemana, che gloriandosi d’esser stato al servitio di lei, confessa-<lb/>
+va di haver ricevuti honori, et favori grandi mentre s’è tratte-<lb/>
+nuto costi, et all’armata; havendo anco al partir suo portati <lb/>
+sec[o]<ptr target="#tn1" n="1"/> testimonii molto chiari della stima, ch’ella faceva della <lb/>
+sua casa, et della sua persona; onde si prometteva in ogni <lb/>
+tempo ogn’altro più evidente segno d’amore, et d’affettione <lb/>
+verso di lui: aggiungendo, che haveva presentito come <lb/>
+honoratamente, et degnamente era stato trattato da lei il signor <lb/>
+di Rocalaura<ptr target="#tn2" n="2"/>, et che anco altri del reggimento, che fu con-<lb/>
+dotto dal suo fratello erano stati honorati, o dovevano esser <lb/>
+honorati di stipendio annuo per testimonio della publica <lb/>
+m[u]nificenza<ptr target="#tn3" n="3"/> et di aggradimento dei loro servitii; et però <lb/>
+sp[e]rava<ptr target="#tn4" n="4"/> egli che vostra Serenità in consideratione della condotta <lb/>
+che ’l suo fratello conte Gio. Ernesto haveva fatta di così belle <lb/>
+truppe per corrisponder con qualche effetto di benignità alla <lb/>
+memoria di lui; et verso quel desiderio, et prontezza <lb/>
+ch’egli stesso haverà d’impiegarsi nel suo servitio, vorrà <lb/>
+gratificarlo di qualche annua pensione, a fine di haver <lb/>
+quest’honore di esser obligato, et alligato servitore di <lb/>
+quel serenissimo Dominio. Altri concetti mi fece esporre per <lb/>
+eccitarmi allo scriver con affetto in questo proposito; pi-<lb/>
+gliando sempre per fondamento l’ottima volontà, che ha <lb/>
+di servirla, al quale effetto con una compagnia di cavallaria
+<pb n="256v" facs="09_256v" rend="0"/>
+nel servitio de’ principi dell’Unione procura di rendersi coll’essercitio <lb/>
+tanto più capace. Io non mancai con concetti corrispondenti <lb/>
+di confermar nel detto Consigliere, che la stima, che faceva la <lb/>
+Serenità vostra della casa, et della persona del signor conte Guglielmo era grande <lb/>
+et che non haverei mancato di significar quanto mi haveva confe[…]<ptr target="#tn5" n="5"/> <lb/>
+et pregato per scriver; ma che in tanto gli potevo dire non <lb/>
+haver notitia, che alcuno, oltre il signor di Rocalaura, del reggi-<lb/>
+mento del già signor conte Gio. Ernesto havesse ottenuto o condotta <lb/>
+o stipendio. Mi fece replicar detto Consigliere, che [’l]<ptr target="#tn6" n="6"/> signor conte <lb/>
+Guglielmo era stato avvisato come mi haveva fatto esporre; <lb/>
+ma in ogni caso si prometteva, che vostra Serenità haverebbe voluto <lb/>
+obligarsi maggiormente la casa col segno della munificenza <lb/>
+sua, et honorar la persona di lui pregandomi di nuovo a <lb/>
+scriverne. Io sodisfo all’instanza, et ella farà quella <lb/>
+risolutione, che stimarà propria perché il detto signore, il padre <lb/>
+per consequenza, et la casa tutta habbino un testimonio <lb/>
+della stima, che ne fa, et dell’affetione, ch’ell[a]<ptr target="#tn7" n="7"/> le porta. </p>
+<p>Il detto Consigliere ha ottenuta promessa dalli signori Stati che [’l]<ptr target="#tn8" n="8"/> primo reggi-<lb/>
+mento vacante o alemano, o valone, o del Paese sarà del <lb/>
+detto conte Guglielmo, il che è stato favorito in particolare dal signor <lb/>
+principe d’Oranges; et si vede esser ciò per stabilir il governo <lb/>
+dell’armi del Paese nella casa. Et appresso di sé ha voluto <lb/>
+anco havere un altro giovane figliolo del vecchio conte Gioanni <lb/>
+fratello di esso conte Guglielmo<ptr target="#tn9" n="9"/>, che porta il nome di sua Eccellenza <lb/>
+prima si tratteneva appresso il morto conte Guglielmo. Arrivato <lb/>
+qui l’ho visitato, send’egli anco stato a visitarmi; et egli <lb/>
+ha mostrato stimar grandemente questa apparente dimostratione <lb/>
+di honore. </p>
+<pb n="259r" facs="09_259r" rend="0"/>
+<p>Al medesimo consigliero doppo ’l sudetto ufficio rappresentai le partite <lb/>
+che del conte Gio. Esrnesto restavano aperte a credito della <lb/>
+serenissima Republica, et particolarmente quella delli settemilladoicento fiorini. <lb/>
+Egli mi fece risponder, che non haverebbe mancato di <lb/>
+riferir il tutto al signor conte Gioanni suo signore poiché in questo <lb/>
+[…]<ptr target="#tn10" n="10"/> non sapeva, né poteva senza la previa conoscenza di lui <lb/>
+darmi alcuna maggior sodisfattione; et che arrivato presso <lb/>
+di lui, alla cui volta doveva partir la domenica, come <lb/>
+f[ec]e<ptr target="#tn11" n="11"/>, haverebbe rappresentato il tutto, et fattami haver <lb/>
+la risposta. A lui ho consignata<ptr target="#tn12" n="12"/> la copia del ricever <lb/>
+delli 7200 fiorini in un foglio; et in un altro data anco <lb/>
+nota delli debiti di trecento ducati in circa parte debiti all’<lb/>
+officio sopra le camere, et parte a quello dell’illustrissimi signori sopra <lb/>
+le deliberationi dell’eccellentissimo Senato, che tutto ha preso volontieri <lb/>
+seco con una lettera mia, che ho stimato bene di aggiunger <lb/>
+diretta al detto conte Gioanni. Hora starò attendendo quello <lb/>
+mi risponderà per darne riverente conto alla Serenità vostra. </p>
+<p>Non [h]a<ptr target="#tn13" n="13"/> lasciato esso Consigliere parlandogli in questo proposito di <lb/>
+farmi toccar le pretensioni, ch’esso Conte ha di qualche <lb/>
+resti, et altro dovuti al conte Gio. Ernesto; et io non <lb/>
+mancai di andar facendo a tutte quella risposta <lb/>
+che mi parve propria per confutarle; ascoltò il Consigliere; <lb/>
+ma non accosentì totalmente ben mi fece dire non<ptr target="#tn14" n="14"/> esser informato <lb/>
+quanto<ptr target="#tn15" n="15"/> conveniva. Ho stimato mio debito non tardar <lb/>
+a mandarle copia di queste pretensioni per quelli dell’Eccellenze vostre <lb/>
+che stimassero proprio vederle<ptr target="#tn16" n="16"/>, et considerar qual sia <lb/>
+la loro sussistenza. Gratie etc. </p>
+<p>Dall’Haya li 4 agosto 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="259v" facs="09_259v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 231 comincia 229 </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="075">
+<!--
+<p n="259vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 agosto 1620 ricevute a’ 19 detto </p>
+<p>Del segretario Suriano. 3<hi rend="superscript">a</hi>. n° 231 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="076" corresp="075" source="257r-258v" >
+<div type="main" facs="main text of attachment I" n="076" corresp="075" >
+<!--<p>Allegato I al n. 75 (cc. 257r-258v)</p>-->
+<pb n="257r" facs="09_257r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Pretensioni le quali gl’heredi del fu di buono memoria conte Gio. <lb/>
+Ernesto di Nassau possono sostener assai facilmente competergli et <lb/>
+doverseli dalla serenissima republica di Venetia, in che ella non ha <lb/>
+interamente sodisfatto al detto defonto. </p>
+<p>Primiramente reviene a sua Signoria un mese di trattamento come generale <lb/>
+per la summa di 2500 fiorini; sendo esso trattamento stato pagato <lb/>
+dalla Republica doppo ’l primo di novembre 1616 il che non <lb/>
+ostante il trattato, et capitulatione (che gli serviva di <lb/>
+commissione) era datato del primo d’ottobre così [r]iviene<ptr target="#tn17" n="17"/> <lb/>
+doi mille cinquecento fiorini 2500 </p>
+<p>Più si deve a sua Signoria la somma di 213 scudi sborsati da lui <lb/>
+et pagati nelle fortificatione, et opere fatte innanti ’l <lb/>
+forte del Generale, et il bosco di Rubia, come appar per <lb/>
+quietanza la qual somma sudetta mai è stata pagata né <lb/>
+satisfatto dalla Republica monta al valor della moneta di <lb/>
+Holanda fiorini 600 </p>
+<p>Sono stati ribatuti a sua Signoria nel mese di settembre 1611 per la <lb/>
+sua compagnia 150 scudi per la paga di capitano rispetto che <lb/>
+di là fu sostenuto, che sua Signoria non poteva pretender <lb/>
+doi trattamenti cioè come generale, et capitano. Il che però <lb/>
+ad altri colonnelli, et officiali non è stato fatto et così <lb/>
+rivengono fiorini 430 </p>
+<p>Pretende ancora sua Signoria quello che la serenissima Republica ha <lb/>
+ribatuto et pagato meno sopra la liquidatione fatta <lb/>
+alla compagnia del capitan Metoni, non dandogli maggior <lb/>
+disconto che sopra 135 teste per tutto ’l tempo intiero <lb/>
+del servitio ancorché la detta compagnia alla prima <lb/>
+mostra fu passata per 150 teste, et quella de’ 21 settembre 1619 <lb/>
+fu alio trovata di 148 teste, di modo che il danno et la perdita <lb/>
+reviene in moneta di Holanda la somma in circa di fiorini 3100 </p>
+<pb n="257v" facs="09_257v" rend="0"/>
+<p>Et come per il durare, et longa continuatione del vento contrario <lb/>
+hanno li vasselli convenuto arrestarsi circa quattordici settimane <lb/>
+dentro al Tessel, et la Mosa<ptr target="#tn18" n="18"/>, sua Signoria per la conservatione, <lb/>
+et sanità de’ soldati ha fatta condurre una buona quantità <lb/>
+di barche, et vasselletti per rinfrescarli,<ptr target="#tn19" n="19"/> mirando <lb/>
+ciò notabilmente al servitio della Republica, et a che non era egli <lb/>
+espressamente obligato in virtù del contratto mette per questo in conto <lb/>
+in conformità del pagamento fatto dal suo ricevitore , o <lb/>
+pagador sudetto la summa di fiorini 2000 </p>
+<p>Più pretende secondo il costume per l’equipaggio, drizzar <lb/>
+et spese estraordinarie fatte in servitio della serenissima Republica <lb/>
+come parimente per pagi<ptr target="#tn20" n="20"/>, et susidii che sua Signoria ha dati, et <lb/>
+distribuiti ad officiali di diverse qualità et altre gran spese <lb/>
+da lui sopportate, et per le quali sua Signoria non ha ricevuta <lb/>
+alcuna cosa et il sollecitarne<ptr target="#tn21" n="21"/> mentre viveva lo lasciò per <lb/>
+certe ragioni riviene la summa almeno a fiorini 8000 </p>
+<p>Somma totale 16630 </p>
+<pb n="258r" facs="09_258r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="258v" facs="09_258v" rend="270"/>
+<p>Pretensioni del conte Gio. di <lb/>
+Nassau </p>
+<p>n° 231 3<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> There is a hole in the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> First "-a-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> There is a hole in the page.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> There is a hole in the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> There is a hole in the page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-ns-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> There is a hole in the page.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "qu-" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-l-" corrected above "-r-."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Ink stain.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "M-" corrected above "m-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "mirando" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "p-" corrected above "g-."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

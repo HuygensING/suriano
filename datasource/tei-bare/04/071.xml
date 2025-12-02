@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.071 date 1617-08-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">071</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 379r-383v, 386r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">379r-383v, 386r-v, 384r-385v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has, as commanded, told Maurice about behaviour of Dutch troops and John Ernst of Nassau. He also informed Henry of Nassau, Louise de Coligny, Oldenbarnevelt. He attaches a copy of letter sent by Dimer from Venice to his father. From Pasini he receives a note that Don Giovanni de Medici wrote to Medici agent in Milan about the Venetian Republic. One text attached: a letter enclosed from The Hague from 20 August 1617 in French</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-08-22">22 agosto 1617</date>
+            <num>122, 123</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="122">
+<div type="main" facs="main text of letter" n="122">
+<!--<p>22 agosto 1617, L’Aia (cc. 379r-383v, 386r-v)</p>-->
+<pb n="379r" facs="04_379r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>communicai al signor principe Mauritio tutte le particolarità, che<ptr target="#tn1" n="1"/> <lb/>
+la Serenità vostra mi commanda toccanti le truppe, et la persona del signor conte <lb/>
+Gio. Ernesto, il poco conto, ch’egli haveva mostrato di fare delli <lb/>
+amorevoli ufficii, che per nome publico haveva seco usati l’eccellentissimo signor <lb/>
+general Lando, et il disordine, che ogni giorno di più in più an-<lb/>
+dava succedendo senza porvi rimedio, anzi trovar occasione <lb/>
+con pregiudicio publico, che si continui nei mancamenti con <lb/>
+haversi lasciato insino butinar sopra gl’occhi; aggiungendo di <lb/>
+più tutto quello, che sta espresso nella commissione di lei<ptr target="#tn2" n="2"/> et nelle <lb/>
+lettere del medesimo eccellentissimo signor Generale. Mi mostrò sua Eccellenza dispiacer <lb/>
+grande per rispetto di vostra Serenità che li capitani delle compa-<lb/>
+gnie si havessero così mal comportato nel suo servitio, et <lb/>
+più, ch’ella non havesse ricevuto sodisfattione dal Conte suo <lb/>
+cugino che in tutte le lettere, che gli haveva scritte lo <lb/>
+haveva essortato a comportarsi con termine proprio per <lb/>
+dar gusto, et contentezza, et lasciasse certe gelosie, et <lb/>
+difidenze perché queste non potevano apportarli honore, <lb/>
+et solo riuscir di deservitio a sua Serenità, che le rincre-<lb/>
+sceva in estremo, che non havesse mostrato di aggradire <lb/>
+quanto dalla Republica gli era stato fatto dire; et quanto <lb/>
+al butinare, che poteva esser, che ’l non havervi ostato <lb/>
+fosse successo pensando fosse a qualche imboscata dell’<lb/>
+inimico o di maggior forze, che sortissero cosa ordinaria <lb/>
+nelli assedii, et nelle armate. A questo risposi, che
+<pb n="379v" facs="04_379v" rend="0"/>
+non poteva esser, poiché se li dieci, o dodici, che erano usciti havevano <lb/>
+fatto tanto senza ricever né scoprir alcun pericolo, anzi amazzando <lb/>
+di quelli dell’inimico; altrettanto, et più haverebbe potuto far <lb/>
+l’aggiunta d’altri, et che quell’esser richiamati con vilanie, et <lb/>
+cacciati con le botte da gl’officiali non era troppo buon segno. <lb/>
+Replicò, che non sapeva come fosse la cosa, et possi disse, che <lb/>
+quanto al partir del Conte et dei capitani egli gli scriveva <lb/>
+che non sapeva, come poter far di meno, poiché conosceva di <lb/>
+rendersi inutile al servitio, oltre che già erano tanto dim-<lb/>
+nuite le sue truppe, che non vi vedeva né la riputatione né l’<lb/>
+honor suo star più longo tempo costì; che haveva proposto <lb/>
+di ridur quelle che vi erano a 300 fanti per compagnia <lb/>
+et che stava a sua Serenità a ricever il partito, et io le esposi <lb/>
+qui la pretensione, che si haveva di voler rasignar le genti <lb/>
+a file, et che fossero assignati sette scudi per soldato, et li das[se] <lb/>
+il denaro in mano dei capitani per distribuirlo con assignar <lb/>
+stipendio a parte alli stessi capitani, et officiali. Sua Eccellenza m[i] <lb/>
+rispose, che in questo non sapeva ciò che potesse pretender <lb/>
+quanto alli sette ducati, che erano assai; ma li pareva <lb/>
+proprio l’ispediente proposto dall’eccellentissimo signor Generale. Quanto <lb/>
+poi al dar il denaro più in mano de’ capitani che de’ <lb/>
+soldati disse che l’uno et l’altro si era praticato in questo <lb/>
+Paese, et che essendosi veduto non cavarsi quel profitto <lb/>
+che si credeva dal dar il denaro in mano del soldato
+<pb n="380r" facs="04_380r" rend="0"/>
+si haveva risoluto lasciarlo<ptr target="#tn3" n="3"/> al Capitano per farne la distri-<lb/>
+butione; restando al soldato aperto, et riserbata la giustitia, <lb/>
+et l’adito al Magistrato, o alli signori Stati, o a me per farli ra-<lb/>
+gione contra li capitani, che usassero mancamento; et qualche <lb/>
+altro mi ha detto a tal proposito, che questo si fa per doi <lb/>
+rispetti l’uno perché non si può tenir la mano al soldato <lb/>
+che subito havuto il denaro non lo getti malamente, che <lb/>
+sarebbe poco perché riuscirebbe a suo danno; et l’ultimo<ptr target="#tn4" n="4"/> perché non <lb/>
+porta poi il rispetto, che si deve al capitano et officiali, non <lb/>
+riconoscendo la sua paga da loro; ma dal principe a cui <lb/>
+serve, et così sarebbono maltrattati li capitani, et mal servito <lb/>
+il medesimo Principe. Et se ben sua Eccellenza non me lo aggiunse espressamente <lb/>
+me lo accennò in discorso. Intorno alla rassegna che si <lb/>
+pretendeva far per file disse, che credeva, che si volesse intender <lb/>
+metter in battaglia le genti, et poi contar le file, io dissi <lb/>
+che così tenevo che fosse, rispose questo non si accostuma <lb/>
+qui se non per far tal volta una revista all’improviso <lb/>
+o per avanzar tempo mentre si è nell’armata per <lb/>
+saper quante genti vi sono in un reggimento o compagnia <lb/>
+affine di poter formar giudicio come valersene; ma però <lb/>
+non si pagano secondo questo conto; ma quando si <lb/>
+hanno a pagare sempre si contano a testa per testa <lb/>
+cioè chiamando il soldato per nome, et cognome <lb/>
+che non sapevamo, come li capitani l’intendessero, et il
+<pb n="380v" facs="04_380v" rend="0"/>
+medesimo mi ha detto il signor principe Henrico, et altri ancora da <lb/>
+chi ne ho voluto haver informatione. Io risposi che anco <lb/>
+la Serenità vostra usa rassignar le genti a nome, cognome, et segno, come <lb/>
+si fa per tutto. La diligenza del segno in questi paesi non è <lb/>
+molto usitata se ben li commissarii particolari delle città usano <lb/>
+pur in ciò talhora qualche diligenza; ma per ordinario quando <lb/>
+un commissario va a dar mostra in una città dove è <lb/>
+presidio fa chiamar uno dei borgomastri, o altro pratico <lb/>
+della città, che conosce le genti perché nel chiamar alla <lb/>
+banca li soldati, et far la ressegna vegga se vi è qualcheduno <lb/>
+dei borghesi; ma con quanta diligenza si usi, non possono <lb/>
+fuggir di non esser ben spesso ingannati. Quanto poi allo <lb/>
+scudo di più assignato confirmò sua Eccellenza ch’era di mal <lb/>
+essempio; ma che non poteva seguir in consequenza <lb/>
+poiché non era, che per un solo mese, et questo mi fa congie-<lb/>
+turare, che ’l Conte gliene habbi scritto, et io gli dissi, che <lb/>
+anzi era di pessimo essempio, che con tutto ciò per <lb/>
+veder pure di vincer l’animo del signor Conte et ridurlo a <lb/>
+qualche dovere l’eccellentissimo signor Generale era condesceso <lb/>
+all’instanza di lui, et a tal risolutione d’interesse <lb/>
+al publico, et d’eccitamento a tutti li soldati in generale <lb/>
+di far una simil richiesta. Sua Eccellenza non seppe negare, si <lb/>
+strinse nelle spalle, et replicò, che le doleva di tanti <lb/>
+inconvenienti, et di tanti disordini, et facendo alla
+<pb n="381r" facs="04_381r" rend="0"/>
+cieca<ptr target="#tn5" n="5"/> disse volentieri vorrei poter esser io in quell’armata <lb/>
+per rimediar a tutto, et far qualche notabil servitio a sua Serenità. <lb/>
+Quello che ho potuto fare è stato di scriver, et l’ho fatto di <lb/>
+buon cuore lo feci la settimana passata come sapete, l’ho <lb/>
+fatto colle lettere del primo di questo mese, le quali vorrei <lb/>
+bene, che gli fossero pervenute a tempo perché non potevano <lb/>
+se non apportar gran giovamento a sua Serenità, lo farò anco <lb/>
+con questo ordinario, et vi invierò le lettere, perché gliele <lb/>
+facciate capitare (et sono le aggiunte) et con esse lo essorterò <lb/>
+a procurar di dar sodisfattione, et gli darò ogni buon <lb/>
+avvertimento. Io ho saputo dal signor Vandermil, et dal <lb/>
+baron di Cortumer, che il signor principe Mauritio resta <lb/>
+scontento del proceder del Conte, et che ad esso barone <lb/>
+veniva anco scritto di Francia, che sin là erano mal <lb/>
+intese l’attioni sue; et mi aggiunse, che vostra Eccellenza non <lb/>
+lasciava però di fargli buona qualche cosa, come a <lb/>
+dire il fatto, che già successe nell’attaccar la <lb/>
+brecchia del bosco di Rubia, nel quale restasse solo <lb/>
+il Rocalaura con le sue genti, et non fosse seguitato <lb/>
+et che li<ptr target="#tn6" n="6"/> soldati, stassero in sito mal commodo <lb/>
+con carestia de’ viveri; ma che nel resto né laudava <lb/>
+né sentiva bene, che non havesse adherito a suoi aver-<lb/>
+timenti quanto all’ubidire particolarmente al commando di <lb/>
+don Gioanni. Alla signora principessa di Oranges
+<pb n="381v" facs="04_381v" rend="0"/>
+et al signor principe Henrico suo figliolo ho dato conto di tutti <lb/>
+li sopradetti particolari facendoli constar il travaglio, et il deser-<lb/>
+vitio ricevuto dalla Serenità vostra dal proceder del signor Conte l’uno <lb/>
+et l’altro hanno mostrato sentirne di piacer grandissimo. <lb/>
+Con questi signori de’ Stati Generali ho anco essequito l’ordine <lb/>
+di vostra Serenità, et ad altri ancora, che sono di corte ho <lb/>
+rappresentata la verità di quello fatto, et ognuno resta <lb/>
+con poco gusto di così mala riuscita, et come ho riveren-<lb/>
+temente accennato in diversi miei dispacci il nome <lb/>
+del Conte non riesce caro per tanto disordine, et per così poco <lb/>
+servitio, che ha ricevuto la Serenità vostra dalla sua condotta. <lb/>
+Col signor Bernvel in particolare ho fatto indoglienza del seguito <lb/>
+et egli ancora ha confermato, che ’l signor Conte ha governato <lb/>
+male sé stesso, et ha lasciato, che li capitani faccino <lb/>
+male il suo debito, et mi disse, che quello, che li restava <lb/>
+per sua discolpa era il mal sito dove stava, la necessità, <lb/>
+che haveva havuta dei viveri, la poca cura degl’amalati <lb/>
+il non esservi provisioni di hospitali né di altre cose neces-<lb/>
+sarie, che tutto ciò haveva scritto al signor Vandermil, il <lb/>
+quale mi communicò il contenuto della lettera. Io dissi <lb/>
+che si vedeva bene, che erano tutte iscuse per coprirsi, <lb/>
+esso signor Bernvel mi aggiunse già che ha addimandata <lb/>
+licenza, et pensa di ritornarsene, facendosi con buona <lb/>
+gratia di sua Serenità. Ora meglio lasciarlo venire prima
+<pb n="382r" facs="04_382r" rend="0"/>
+che arrivasse all’armata il conte di Levenstein affinechè non <lb/>
+entrasse la peste nell’animo di esso Levenstein, et nelle sue <lb/>
+genti ancora. Non ho cavato, et pur vado indagando con <lb/>
+ogni studio, che egli scrivi se non delle sopradette cose scritte altre <lb/>
+volte, et ho fatto tanto che havendo il Dimer auditor <lb/>
+general delle truppe inviato al padre la copia della scrittura <lb/>
+dice egli, che ha presentata il Conte<ptr target="#tn7" n="7"/> a vostra Serenità nel dimandarle<ptr target="#tn8" n="8"/> licenza <lb/>
+gliel’ho cavata con bel modo di mano, et ne ho fatta <lb/>
+levar una copia, che invio colle presenti ad ogni buon <lb/>
+fine, et perché la Serenità vostra vegga s’ella è conforme a <lb/>
+quella che ha presentata. Presupongo che ’l Principe <lb/>
+habbi havuta la medesima scrittura perché nella lettera, che ha <lb/>
+ricevuta mi è parso, che ci fosse più di un foglio, ma <lb/>
+non<ptr target="#tn9" n="9"/> ho però potuto cavarlo né dall’Eccellenza sua medesima né <lb/>
+da altri. Il suddetto padre del Dimer mi ha anco <lb/>
+esposta la lettera particolare del figliolo ch’è in lingua <lb/>
+fiaminga, che ha in sé delle medesime cose dette di <lb/>
+sopra; ma particolarmente racconta un’historia, che <lb/>
+dice esser stata origine del sbandamento delle <lb/>
+truppe, et è che essendo con licenza dei loro <lb/>
+officiali per suoi affari particolari passati il Lisonzo <lb/>
+da quaranta soldati del signor Conte il Procurator, che era <lb/>
+a Mariano havendo per guardia della sua <lb/>
+persona alcuni pochi paesani haveva chiamati
+<pb n="382v" facs="04_382v" rend="0"/>
+li soldati per sua maggior sicurtà, et quando sono stati richiamati <lb/>
+dai suoi capitani glieli haveva negati, dicendo, che dovevano <lb/>
+servir per la sua persona; ma non bastando questi, altri allettati <lb/>
+erano corsi da quella parte fino al numero di 250 over 300 <lb/>
+negando sempre il medesimo Proveditore di volerli dare. Io gli dissi a <lb/>
+questo punto, che non sapevo di ciò alcuna cosa né la credevo così <lb/>
+ma ben comprendevo, che lo star de’<ptr target="#tn10" n="10"/> soldati sotto altra <lb/>
+insegna era inditio, che erano maltrattati di paga dalla <lb/>
+banda del Conte. Egli ripigliò il soldato si muove tal volta a <lb/>
+capirmi, et non per cambiar di fortuna maggiore. Aggiunge <lb/>
+il detto Dimer, che nell’armata haveva parlato con alcuni <lb/>
+de’ signori principali della Republica et sentendo quello che haveva <lb/>
+fatto il signor Conte et quello, che haveva raccordato, et che mai <lb/>
+era stato stimato, né messo in effetto, non seppero, se non dargli <lb/>
+ragione. La lettera si ferma con la risolutione del Conte al partire <lb/>
+et che tale era anco quella delli officiali, che altro non <lb/>
+desideravano, et unitamente dicevano quando finisce il <lb/>
+tempo, et quelli che hanno scritto qui avvisano ai suoi <lb/>
+che saranno per la fine del mese venturo all’Haya. <lb/>
+Questo è negotio che vego molto bene, che apporta gravissimo <lb/>
+discontento alla Serenità vostra, et io ne patisco per il suo <lb/>
+servitio; ma mi par, che nell’animo di cadauno <lb/>
+si scuopri poco buon questo verso il signor Conte, onde mi <lb/>
+persuado, che non possi far alcuna mala impressione
+<pb n="383r" facs="04_383r" rend="0"/>
+quanto si vadi scrivendo. Io non di meno non tralascierò di star <lb/>
+avvertito per sostentar la verità del fatto, dove, et quando <lb/>
+vedrò il bisogno del farlo. Né lascierò di aggiunger alla <lb/>
+Serenità vostra che è stato scritto con questo ultimo ordinario all’<lb/>
+ambasciator d’Inghilterra, che vostra Serenità si voleva valer del Conte in <lb/>
+Lombardia, et che vi era apparenza che don Gioanni de’ <lb/>
+Medici<ptr target="#tn11" n="11"/> sarebbe stato con poco suo honore licentiato, et a propo-<lb/>
+sito di esso don Gioanni mi ha scritto ultimamente il Pasini <lb/>
+haver inteso a Brusseles, ch’egli habbi scritto a Milano <lb/>
+all’agente di Fiorenza dolendosi molto del governo delli <lb/>
+rappresentanti la Serenità vostra, dicendo queste formali parole <lb/>
+Io non finisco d’intender questa politia, et per quanto <lb/>
+mi affatico, resto sempre più scandalizato. </p>
+<p>Il residente Stich mi ha fatta veder una lettera, che gli <lb/>
+ha ultimamente scritta il fratello, nella quale gli dice, che <lb/>
+doppo l’haver preso colle sue genti certo posto era avan-<lb/>
+taggiosamente trattato, et honorato da vostra Serenità et ogni dì <lb/>
+riceva favori; onde era venuto espressamente per ringratiar <lb/>
+me, come ministro di lei; ben mi pregò di significarle, <lb/>
+che ’l fratello li aggiungeva nelle lettere, che succendo<ptr target="#tn12" n="12"/> <lb/>
+ben spesso delle scaramuccie tra li suoi, et quelli <lb/>
+dell’inimico, erano li suoi lasciati senza soccorso, <lb/>
+che però voleva pregar, che se li mettesse ordine <lb/>
+come anco a me faceva instanza per quello effetto. Gratie etc. </p>
+<p>Dall’Haya a’ 22 agosto 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="383v" facs="04_383v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="386r" facs="04_386r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="386v" facs="04_386v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="122">
+<!--
+<p n="386vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 agosto 1617 ricevute 6 settembre </p>
+<p>Haya. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="123" corresp="122" source="384r-385v" >
+<div type="main" facs="main text of attachment I" n="123" corresp="122" >
+<!--<p>Allegato I al n. 122 (cc. 384r-385v)</p>-->
+<pb n="384r" facs="04_384r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere replicate dall’Haya de’ 22 agosto 1617 </p>
+<p>Aprés que les fact de done, et de Gioanni furent prins les pluies excessives et continuelles <lb/>
+firent tellement grossir les rivieres qui’l fust impossible de passer le Lisonxe et le Vipao, <lb/>
+suivant le dessein projetté. Ce que voiant je trouvai bon qu’il ne se falleit point opiniastrer à <lb/>
+ceste primiere resolution, qu’ils avoient de prendre Rubia pour aller à Goritia, que c’ostoit <lb/>
+trop entreprendre à l’advenant des troupes, et en consideration des incommodités que je voiois <lb/>
+par de ça. Mais qu’il se fallois premierement assourer de Gradisca en attendant temps plus oppor-<lb/>
+tun pour passer en la campagne de Goritia, y adioustant qu’on fist incontinent un pont sur <lb/>
+la Lixonse à fin de pouvoir joindre ses forces et s’entrescecourir<ptr target="#tn13" n="13"/> au besong le quel n’a esté <lb/>
+faict que cincq sepmaines aprés que je l’avoir proposé. Oultre cela i offris de prendre le fort <lb/>
+de Stella, et de là passer la riviera pour ussigier la ville, ou bien faire un circuit des tranchées <lb/>
+tout à l’enteur, la quelle se pouvoit faire avecq nombre suffisant des pionniers en dix jours de <lb/>
+telle sorte que 10000 hommes venant au socours ne l’eussent peu effetteur. Qu’on debuoit <lb/>
+aussy fortifier les postes vis à vis du parc desquels jusques à presente n’y en aquune<ptr target="#tn14" n="14"/> a peinne <lb/>
+achevé. Et si on ne vouloit prendre le fort de Stella, que pour le moins en debroit (tant <lb/>
+pour ester al l’ennemy l’esperance de seceurir le ville par ce ceste là que pour leur oster aussy <lb/>
+la communication avecq ceulx de la ville) faire un grand corps de guarde entre le dict fort et <lb/>
+Gradisca, le quel faict le fort ne pouvoit plus tenir de 4 jours. </p>
+<p>Aprés cecy on me fist commandement de prendre poste dedans le bois de Rubia per la bresche faicte <lb/>
+par le seigneur Trevisan, le que je ne trouvois à propos, ny si aisse à faire pour les raisons suivantes <lb/>
+premierement que l’ennemy estoit retranché dedans le bois à son advantage sur le hault, dont <lb/>
+il pouvoit facilment empescher ceulx qui d’en bas se fussent voulu leger dedant à bresche. Oultre <lb/>
+ce la que je n’avois Gabions, Corbeilles fascines ny alcune chose nequise pour se loger à la <lb/>
+haste et à la teste de l’ennemy dans la bresche ou il n’y a moiex de se retrancher estant <lb/>
+tout pieres et rochers. </p>
+<p>Non obstant tout cela puis qu’on demeura opiniastre sur ce propos à fin qu’on ne conceut quelque <lb/>
+sinistre opinion de moy et de mes officiers. Je consenty et donnay la charge de l’exoucoution<ptr target="#tn15" n="15"/> <lb/>
+à seigneur de Rauquolour, l’affaire est succedé come je l’avuois predict. Ce que apparentement <lb/>
+ne fust arrivé si<ptr target="#tn16" n="16"/> on eust suqui mon advis, chi fust da donner avecq me troupes eintieres<ptr target="#tn17" n="17"/>, <lb/>
+ou bien qu’on m’eust laissé le loisir di me retrancher premierement avecq qualques 100 <lb/>
+musquattieres sur la coline soubs la faveur des quels ils se fussent aissement logés dedans <lb/>
+la bresche. </p>
+<p>De puis trois ou quattre semaines se sont escoulés, sens faire alcune chose non obstant qu-
+<pb n="384v" facs="04_384v" rend="0"/>
+i ay tous jours prese de se vuloir asseurer de Gradisca, la prise de la quelle enporteroit <lb/>
+beaucoup de glorie et la Republica, et de reputation à mes troupes, priant sans cesse de<ptr target="#tn18" n="18"/> <lb/>
+vouloir adviser l’moyen d’empescher le passage à l’ennemy. Donnay plusieus advis <lb/>
+la dessus entre aultres quand l’eccellentissime seigneur general Lando, me fest l’honneur de me visiter <lb/>
+avecq l’ seigneur don Joan de Medicis estant mal dispose, que selon toutes apparances du <lb/>
+monde je crayois que l’ennemy socoureroit la ville de la mesme facon et por la mesma <lb/>
+voye, qu’il a fait de puis. Ce que fust<ptr target="#tn19" n="19"/> entierement vilipendé et mesprisé, s’imagi-<lb/>
+nans que la ville estoit tellement environée qu’elle ne pouvoit estre socourue, mais <lb/>
+les ennemis en fin ont monstré les contrarie, et verifié mon advis. </p>
+<p>L’ennemy estant une fois passé avecq la cavallarie la Lisonxe sens touteffois jetter nuls jures <lb/>
+dans Gradisca, à cause de l’empeschement qu’il havoit trouvé en la rupture d’un flot. <lb/>
+On me demanda mon advis puis qu’on n’avoit faict aultre empeschement par le passe <lb/>
+ce que je trouvois bon di faire à l’instant si l’ennemy attentait de retourner pour <lb/>
+socourir la ville. Je sus d’advis qu’il ne falloit attendre à combatre l’ennemy <lb/>
+estant passé la riviere, à cause que nostre cavallerie est de beaucoup in forieure<ptr target="#tn20" n="20"/> à la <lb/>
+leur. Ains qu’on debroit tousjours tenir 300 chevaulx en quarde les premieres <lb/>
+passes. Ce qu’estoit tresaise de faire car 200 chevaulx chargans les premiers em-<lb/>
+pescheroient grand nombre à passer. Oultre cela i offris moi mesme, en personne d’y <lb/>
+aller avecq 600 musquettaires sur le bord de la riviere. Ceulxcy joints à la cavallerie <lb/>
+on eust emposché le passage à 6000 hommes ou plus. Ce que fust apruivé<ptr target="#tn21" n="21"/> par le <lb/>
+general Lando, don Joan, Contarini et Erino, et la consulte, et touteffois fust contremandé <lb/>
+aprés par le fils du Pompée Justinian de n’envoier que 300 hommes au conte Ferdinand <lb/>
+Scoto les quels les a devisez en trois en droits, et en aultre lieux que ce ne voulois mever<ptr target="#tn22" n="22"/> <lb/>
+les 600. Ce sorte que l’ennemy ne trouvant nul empeschement, à secourir la ville. Ce <lb/>
+qu’estoit facile à emposcher. L’ennemy ayant executé son dissein reparra la Lisoux <lb/>
+au dessoubs de Gradisca, et marcha tout joingnant mon quartier. Alors encores <lb/>
+i estois du tout incoulpabla ou des honneur receu par le socours donné, pour reparé <lb/>
+ceste faulte; j’estois resolu à quel pris que ce fust de combatre l’ennemy à la <lb/>
+retraitte, pour testmoinger que ne respirois aultre chose que le service du Prince et de <lb/>
+la Republicque. Je fis marcher mes troupes estans rangé en bataille tout droict <lb/>
+vers l’ennemy avecq quelque cavaillerie qui estois passé la Lisonxe a ma
+<pb n="385r" facs="04_385r" rend="0"/>
+requeste, je le poursuivis trois heures fort pres sans le pouvoir touteffois atteindu, à <lb/>
+cause que la cavaillerie ne le voulut jamais attaquer pour le tant soit pou retarder, <lb/>
+non obstant que très justament je desirerois que cela se ficte<ptr target="#tn23" n="23"/> ce q’estaret negligé à mon <lb/>
+gran regret, ils se sont à la fin retirés en soureté. </p>
+<p>Quant a mes troupes, les pluyes, la necessité et cherté des vivres la fatique des guardes, les <lb/>
+chemins rudes et montaingneux, le peu de soin qu’on a eu<ptr target="#tn24" n="24"/> des malades et blesses, ont occa-<lb/>
+sione mes soldats (come estants las et degoustes de ces incommodités. Joint la licence qu’on <lb/>
+leur a permis de prendre service à Mariano Palmo et aultres liuex) de se desbandir, <lb/>
+testmoingnage evident, qu’on ne demande que la desunion d’icelles, et mescontenter moy <lb/>
+et mes officiers, qui ne peuvent donner tant de gages que les Suisses, leurs compagnies estant <lb/>
+petites. Veu aussy que mes capitaines sont gens d’aultre qualité, que de se pouvoir contenter <lb/>
+de si peu de gage, leur reputation les obligeant a plus grande despence. Tous ces choses <lb/>
+estans contraires aux regles de la guere, mes capitaines desirent avecq passion se retirer <lb/>
+aymant mieux avoir lour licence que les desordres passés, et ceulx qui pouroient avenir <lb/>
+ternisse leur reputation, qu’ils ont acquis aillieurs. Ainsi que mon advis est pour <lb/>
+conserver<ptr target="#tn25" n="25"/> en corps le reste de mes troupes, les reduire a trois cens hommes par compan-<lb/>
+gnie, et atterir par nouvelles et plus favorables conditions que les premieres quelques-<lb/>
+uns de mes capitaines de le commander. Quant a ma personne puis que les troupes sont <lb/>
+si amoindriés<ptr target="#tn26" n="26"/>, que je ne puis d’oresenavant rendre tel service que je desirerois au <lb/>
+Prince et que je ne vois nulle apparance de remedier à tant de desordres qui pouroient <lb/>
+diminuer ma reputation, je supplie très humblement votre Serenité me vouloir permettre <lb/>
+de me retirer, l’asseurant qu’aux occasions je ne laisseray de tesmoingnier le <lb/>
+zelo et affection que je porte à son service. </p>
+<pb n="385v" facs="04_385v" rend="270"/>
+<p>Scrittura che si dice haver presentata <lb/>
+il signor conte Gio. Ernesto nell’Eccellenza cattolica </p>
+<p>nelle 2<hi rend="superscript">de</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "ella" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "di lei" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "in mano" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "et l’ultimo" added above the line on "ma" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "gran" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "il conte" added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-le" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "st" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added in the internal margin.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "f-" is the result of a correction.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-o-" corrected above "-e-."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "e-" corrected above "i-."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Second "-e-" corrected above "-i-."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

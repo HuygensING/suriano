@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.084 date 1622-01-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">084</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 432r-435v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                About conflict between Waldeck and Hessen, see Haarmann, Torsten, Das Haus Waldeck und Pyrmont. Mehr als 900 Jahre Gesamtgeschichte mit Stammfolge. Deutsche Fürstenhäuser Vol. Heft 35. Werl: Börde-Verlag, 2014.
+            </note>
+            <biblScope unit="page">432r-435v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letters from Venice have not yet arrived, he has also not yet received his salary and therefore it is difficult to conduct the public service for Venice. Equally a lack of certain news from Palatinate: Mansfelt has requested contributions from Speyer to Worms and even Strasburg. He is fortifying Germenshein and planning to construct a bridge. Due to the extreme cold, the war in Lower Palatinate has stalled as well: troops are in garrison. Someone from Waldeck came to solicit help from States General against Maurice of Hessen, who was occupying their entire territory. The Spanish hope the returning fleet from Indies will allow them sufficient resources to attack next season, the States of Holland are gathering to discuss financing the war. States General are doubtful about actions of James I. Awaits letters from Venice to have further news about the events with Grisons. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-01-03">3 gennaio 1622</date>
+            <num>138</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="138">
+<div type="main" facs="main text of letter" n="138">
+<!--<p>3 gennaio 1622, L’Aia (cc. 432r-435v)</p>-->
+<pb n="432r" facs="10_432r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 357 sola </p>
+<p>Serenissimo Principe </p>
+<p>in Anversa sino al partir giovedì passato dell’ultimo messaggiero da <lb/>
+quella città non era ancor comparso l’ordinario d’Italia, che doveva <lb/>
+portarmi il dispaccio dei dieci di decembre, che mi fa dubitar <lb/>
+che sia smarrito. Questo mancamento mi preme grandemente per <lb/>
+il publico servitio; et n’ho sentimento d’animo; come patisco anco <lb/>
+per il mio particolare mentre sono buoni giorni, che attendo le mie <lb/>
+ordinarie provisioni, che con gl’ultimi dispacci però fui avvertito <lb/>
+che ancor non erano state pagate al mio agente. Onde se mi <lb/>
+trovi impacciato lo lascio dir alla mia povera fortuna, et consi-<lb/>
+derar alla pietà, et prudenza della Serenità vostra senza non posso <lb/>
+fare, et anco colle provisioni ho dificoltà di mantenermi come <lb/>
+si conviene al servitio, et riputatione publica; et però la sup-<lb/>
+plico humilmente compassionar il mio stato. </p>
+<p>Proviene il mancamento delle lettere dall’armi, che si trovano in Pala-<lb/>
+tinato; et queste Maestà, che ne attendono da Heidelbergh <lb/>
+stano ben antiosi, non sapendo quello, che in effetto passi <lb/>
+pontualmente in quella parte. </p>
+<p>Gl’ultimi avvisi havuti dal Re furono, che Mansfelt doppo haver <lb/>
+messe in contributione le terre di Spira, et da Worms fino <lb/>
+a Strasburgh si fosse retirato a Germenshein terra della Maestà sua <lb/>
+sopra il Rheno, che la fortificava, et che havesse intentione <lb/>
+di quivi fabricar un ponte; et si conferma di Colonia con <lb/>
+lettere de’ 21 del passato, che a tal fine havesse fatto <lb/>
+condur da vintisette barche<ptr target="#tn1" n="1"/>. Con lettere poi de’ 25 arrivate
+<pb n="432v" facs="10_432v" rend="0"/>
+avanti hieri viene avvisato, ch’esso Mansfelt sia marchiato <lb/>
+verso Alsatia per quivi svernare; mentre il vescovato di <lb/>
+Spira resta tutto quasi ruinato, et mangiato; ma questo <lb/>
+non viene però scritto con tutta la sicurezza. </p>
+<p>Li freddi gravissimi, che si sono messi hanno nel Basso Palatinato <lb/>
+fatta abandonar la campagna, sendosi le genti di guerra <lb/>
+ridotte in guarnigione, et li Spagnuoli in particolare per la maggior <lb/>
+parte si trovano retirati in Oppenheim, Altzen, et Cruci-<lb/>
+nach. Entro Bacrach sopra il Rheno sono arrivate <lb/>
+dieci insegne da piedi; le quali sono necessitati gl’habi-<lb/>
+tanti intratenire. Per innanti li medesimi havevano fatto <lb/>
+compianto, et supplicato l’Imperatore per esser sollevati da <lb/>
+tali gravezze; ma il commissario spagnuolo intendendo <lb/>
+queste li ha condannati a pagar doi milla fiorini. </p>
+<p>Il duca Christiano di Bransvich si teneva tuttavia all’<lb/>
+intorno di Amenenbourgh con 19 cornete di cavallaria, <lb/>
+et cinquecento moschetieri; si dice, che quattro milla <lb/>
+fanti erano ancor pronti, et altri avvisi portano che <lb/>
+erano anco arrivati a detto Duca. Si aggiunge in <lb/>
+oltre, che ’l baron d’Anholt, che con 17 cornette di <lb/>
+cavallaria, et cinquemille pedoni pensava di andar ad <lb/>
+attaccar detto Duca; fosse stato necessitato dal freddo <lb/>
+et dal giaccio sopravenuto a fermarse, et non passar <lb/>
+più avanti. </p>
+<pb n="433r" facs="10_433r" rend="0"/>
+<p>Intendo che ’l landtgrave d’Hassia oltre li ottocento cavalli, <lb/>
+et mille moschettieri, che erano stati prima levati da detto <lb/>
+Principe si trovi ancor insieme quattro mille huomini del Paese <lb/>
+scielti di gente eletta; che havesse inviato verso Anholt <lb/>
+per procurar di saper dell’intentione di lui, et questo per <lb/>
+lettere che Tilli<ptr target="#tn2" n="2"/> haveva scritte ad esso Landtgrave <lb/>
+essortandolo ad impedir li progressi del duca giovane di <lb/>
+Bransvich; altrimenti haverebbe egli medesimo convenuto farlo <lb/>
+et in tal caso si sarebbe iscusato, se a sua Altezza succedesse <lb/>
+qualche incommodità. </p>
+<p>Qui si trova da cinque o sei giorni in qua un conte di <lb/>
+Valdech venuto espressamente per compiangersi con questi signori <lb/>
+et con il signor principe Mauritio del torto, che pretende esserli <lb/>
+stato fatto dal detto landtgrave d’Hassia, havendoli <lb/>
+prese, et occupate quasi tutte le sue terre, sotto pretesto <lb/>
+com’egli dice, che habbi voluto essercitar auttorità, <lb/>
+et metter genti nei magistrati senza il consenso, o saputa <lb/>
+di detto Landtgrave. Alcuni hanno dubio, che se esso <lb/>
+Landtgrave non si risolve a restituir il suo a questo <lb/>
+Conte, ch’egli potrebbe gettarsi in braccia a’ Spagnuoli <lb/>
+il che da questa parte si divertirà in ogni possibil <lb/>
+maniera; et parmi intender, che sue Eccellenze et il signor Principe <lb/>
+habbino risoluto di scriver lettere d’ufficio, et efficaci <lb/>
+al detto Landtgrave. </p>
+<pb n="433v" facs="10_433v" rend="0"/>
+<p>Sono hora quasi tre settimane, che principiato il gelo ha <lb/>
+durato, et se ben mostra l’aria qualche apparenza <lb/>
+di mutatione; con tutto ciò non appar talmente che sì tosto <lb/>
+habbi a sgelarsi. </p>
+<p>Gl’avvisi, che si sono havuti, che ’l marchese Spinola sia <lb/>
+passato più avanti doi giornate verso Giuliers, hanno <lb/>
+trattenuto qui il principe Henrico; altrimenti era risoluto <lb/>
+che tornasse a Nimeghen; et viene scritto da Brusseles, <lb/>
+et affermato da più di una mano, che l’Infanta <lb/>
+habbi commandato a detto Marchese di non abandonar <lb/>
+quei posti; risoluti Spagnuoli di voler haver Giuliers <lb/>
+nelle mani; et di levar ogni commodità a quella <lb/>
+piazza a tal effetto, et perché li signori Stati non vi posseno <lb/>
+introdur alcuna cosa dentro. </p>
+<p>Passando alcuni soldati dei Spagnuoli in numero in circa <lb/>
+di trenta per la campagna scorrendola a cavallo verso <lb/>
+Bergh op Zoom hebbero avviso, che pocho più di <lb/>
+dieci de’ Holandesi si trovavano poco discosti <lb/>
+corsero a quella volta; ma diedero in un’imboscata <lb/>
+di più di cinquanta altri, che<ptr target="#tn3" n="3"/> batterono quelli<ptr target="#tn4" n="4"/> <lb/>
+de’ Spagnuoli, ne hanno fatti prigioni, et fugati <lb/>
+et morti. </p>
+<p>Sperano Spagnuoli a primo tempo dar<ptr target="#tn5" n="5"/> del<ptr target="#tn6" n="6"/> da far assai a queste <lb/>
+Provincie, et massime colle nuove, che hanno havute
+<pb n="434r" facs="10_434r" rend="0"/>
+del salvo arrivo della flotta; che se ben per il Re non è <lb/>
+che d’un million, et mezo; si promettono però, che del-<lb/>
+li dieci millioni, che spargono esser de’ mercanti, il Re <lb/>
+facilemente potrà haverne a sua dispositione buona parte. </p>
+<p>Di nuovo si convocarà questa settimana l’assemblea di <lb/>
+Holanda per deliberar sopra il trovar buon nervo di <lb/>
+denaro per il mantenimento della guerra; accorgendosi molto <lb/>
+bene, che Spagnuoli la vogliono; anzi, che viene <lb/>
+avvisato di Brabant persona amico mio, che la <lb/>
+serenissima Infanta habbi havuto ordine di assicurar il <lb/>
+Marchese, che attendi pur bene al servitio di sua Maestà, <lb/>
+perché ella non gli lascierà mancar denaro. Et sempre <lb/>
+da qualcheduno del Governo mi si tocca quello, che aspettano <lb/>
+dalla Serenità vostra; et sono<ptr target="#tn7" n="7"/> addimandato da altri se ho risposta <lb/>
+alle loro ultime lettere; mi iscuso col mancamento in che <lb/>
+mi trovo in esse; et per conservar il buon affetto, non <lb/>
+manco di usar parole amorevoli, et dolci, con quella <lb/>
+riserva però, che mi si conviene. </p>
+<p>Stano questi signori in gran dubio di quello, che sia ancor per <lb/>
+far il re della Gran Bertagna per questo Re. Et <lb/>
+havendo detto il signor ambasciator Carleton ad alcuni<ptr target="#tn8" n="8"/>, che ’l conte <lb/>
+di Gondemar doveva passar in Spagna, et in suo luoco <lb/>
+per provisione, et fino al suo ritorno doveva passar <lb/>
+a Londra don Carlo Colonna governator di Cambrai<ptr target="#tn9" n="9"/> con
+<pb n="434v" facs="10_434v" rend="0"/>
+titolo di estraordinario tengono per fermo, che sia per adormentar <lb/>
+il Re, et per distorlo da qualche buona risolutione <lb/>
+altri temono, che sia tanto impegnato con Spagnuoli <lb/>
+et per il maritaggio, et per altro, che non sappi disimpe-<lb/>
+gnarsi. Si fa anco comento sopra la licenza, et per-<lb/>
+missione data al general Veer di passar in Inghilterra. </p>
+<p>Aspettavo con desiderio lettere di vostra Serenità per esser informato <lb/>
+più a pieno di quello passasse nel particolar de’ Grisoni, <lb/>
+et<ptr target="#tn10" n="10"/> per incontrar se fosse vero l’avviso, che qui è <lb/>
+stato scritto di Colonia, che li deputati de’ 13 Cantoni <lb/>
+de’ Svizzeri<ptr target="#tn11" n="11"/> ridotti a Bada habbino rifiutato <lb/>
+di sentir doi ambasciatori di Leopoldo; che vedendo esser li <lb/>
+sudditi delle doi religioni trattati quasi d’una medesima <lb/>
+maniera dalli Spagnuoli<ptr target="#tn12" n="12"/> et dalle genti dell’arciduca <lb/>
+Leopoldo, con spogliar le chiese tutte, le libertà, et li <lb/>
+privilegi, habbino risoluto di levar 24000 fanti <lb/>
+per ricuperar la Valtelina, et rimetter li Grisoni <lb/>
+nel pristino stato, et che con ambasciatori in un medesimo <lb/>
+tempo fossero per far intimar a Leopoldo, et a feria<ptr target="#tn13" n="13"/> <lb/>
+o la restitutione sudetta, o la guerra. Le cose che si <lb/>
+desiderano si vorrebbe bene, che fossero, et questi signori <lb/>
+di nuova di tanto momento non sano che creder <lb/>
+vivono con buona sperana; tuttavia quel grisone <lb/>
+Gasparo Boneranda non sa persuadersi un tanto bene
+<pb n="435r" facs="10_435r" rend="0"/>
+considera quanto alieni, et quanto contrarii siano <lb/>
+stati sempre li Cantoni catholici, et particolarmente li cinque <lb/>
+piccioli come siano obligati di giuramento di non servir <lb/>
+contra la casa d’Austria, et lo stato di Milano; <lb/>
+et malamente si persuade anco de’ deputati nei Cantoni <lb/>
+evangelici. Tuttavia s’è vero lo chiama miracolo. <lb/>
+Con questa buona boca restano li signori Stati. L’avviso <lb/>
+venne di Colonia con lettere de’ 21 del passato; ma non <lb/>
+scrive l’agene Bilderbech di questo particolare alcuna cosa <lb/>
+con quelle dei 25. </p>
+<p>Detto Boneranda fu hieri a licentiarsi da me, volendo <lb/>
+passar verso Svizzeri, et m’ha pregato di raccommandar <lb/>
+la sua Patria alla Serenità vostra, et di haver qui per raccommandate <lb/>
+appresso questi signori le mieserie<ptr target="#tn14" n="14"/>, et l’afflittioni di quei <lb/>
+poveri popoli, et di quella Republica. Io gli ho date <lb/>
+buone parole, et contentatolo nella miglior maniera <lb/>
+con assicurarlo, che in me haverebbe potuto sempre <lb/>
+promettersi ottima volontà verso la sua Natione. <lb/>
+Pensava partir hoggi, et se ne va con piene attestationi <lb/>
+di haver fatto tutto ciò che ha potuto a servitio della <lb/>
+sua Patria datagli da questi signori. </p>
+<p>Con le presenti mando la replicata della mia d’hoggi otto <lb/>
+n° 356. Gratie etc. </p>
+<p>Dall’Haya li 3 genaro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="435v" facs="10_435v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 357 sola<ptr target="#tn15" n="15"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="138">
+<!--
+<p n="435vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 gennaro 1621<ptr target="#tn16" n="16"/> ricevute a’ 27 detto </p>
+<p>Del segretario Suriano. 357 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "gli" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "li" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "q-" corrected above "li."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e-" corrected above "-a-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "ad alc-" corrected above ", che."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the deleted word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "d’" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "habbi" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "d" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.023 date 1622-06-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 131r-132v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">131r-132v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that two members of States General have visited him following the news of the bankruptcy of Strozzi in Venice for 600,000 ducats. Due to the bankruptcy the payment 2000 ducats by Noirot is hanging in the balance and they request urgent treatment of this matter by Venice as it raises fears about their monthly payments to the Dutch Republic. Reports on several men want to serve Venice: Milander will leave for Venice this week or the next, William of Nassau who has gained valuable experience in Holy Roman Empire and he visited count Hollach in Delft (Georg Friedrich von Hohenlohe-Neuenstein-Weikersheim). </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-06-06">6 giugno 1622</date>
+            <num>038</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="038">
+<div type="main" facs="main text of letter" n="038">
+<!--<p>6 giugno 1622, L’Aia (cc. 131r-132v)</p>-->
+<pb n="131r" facs="11_131r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 396<ptr target="#tn1" n="1"/> comincia n° 395 </p>
+<p>Serenissimo Principe </p>
+<p>hanno le lettere de’ 20 del passato portato in Amsterdam il <lb/>
+fallimento de’ Strozzi in cotesta piazza di Venetia per la summa <lb/>
+di 600 mila ducati in circa, il che con lettere del Calandrini è per-<lb/>
+venuto anco alla notitia delli signori Stati; alli quali ha anco <lb/>
+dato conto, che delli denari esborsati della seconda mesata <lb/>
+il Noriott havesse prese lettere di doi milla ducati<ptr target="#tn2" n="2"/> da detti Strozzi dirette a Pico-<lb/>
+notti genovesi in Anversa, et poi hanno havuto avviso della <lb/>
+detta città di Anversa, che capitato ivi il fallimento con <lb/>
+corriero espresso la lettera non era stata accettata, et aggiun-<lb/>
+ge il Calandrini haver fatto ufficio con vostra Serenità per la preferenza. <lb/>
+Sopra tal avviso hanno sue Eccellenze mandati questa mattina a <lb/>
+me doi della loro assemblea, che a nome di esse hanno fatta <lb/>
+instanza perché scrivessi<ptr target="#tn3" n="3"/> alla Serenità vostra, et le raccomandassi <lb/>
+il procurar la preferenza di questi doi milla ducati ad <lb/>
+ogn’altro debito, come appartenenti alle doi republiche <lb/>
+et come quelli, che sono della summa dell’assistenza, che <lb/>
+da vostra Serenità a queste Provincie, concorrendovi in questo <lb/>
+non tanto l’interesse di lei, che di elle medesime, che anco li <lb/>
+signori Stati le haverebbono scritto in questo particolare et prega-<lb/>
+tala per questa preferenza, et per questa indemnità. Io <lb/>
+dissi, che non havendo ancora havuto il mio dispaccio <lb/>
+dei 20 del passato non sapevo di questo negotio<ptr target="#tn4" n="4"/>, <lb/>
+et che non haverei però mancato di far quell’<lb/>
+ufficio, che l’Eccellenze loro mi facevano richieder. Mi replico-<lb/>
+rono, che questo era negotio publico spettante ad ambidoi <lb/>
+li stati, et che come cosa publica doveva esser di cuore <lb/>
+protetto da lei; accennandomi, che la prelatione a <lb/>
+simil sorte di debiti conviene sempre ai principi nanti <lb/>
+a’ particolari. Promisi di nuovo scriver, et essi si partirono. </p>
+<pb n="131v" facs="11_131v" rend="0"/>
+<p>Questo accidente mi ha fatto sentir qualche voce, che vostra Serenità et non <lb/>
+li signori Stati doverebbe correr il rischio, portando il contratto <lb/>
+di aleanza, che qua ella sia in obligo di far pagar li cinquanta <lb/>
+milla fiorini per mese. Et io mostro di non intender ciò che si <lb/>
+dice di questo ben può assicurarsi, che nel presente affare raccom-<lb/>
+mandatomi potrà dar caparra a questi signori di haver a cuore <lb/>
+il loro interesse. </p>
+<p>Il signor colonello Milander per li presenti emergenti che corrono mo-<lb/>
+strando non desiderar cosa con maggior affetto che trovarsi <lb/>
+costì per servir (nell’occorrenze, che potessero sopravenire) <lb/>
+la Serenità vostra mi ha detto hieri, che haveva risoluto lasciar <lb/>
+tutte le cose sue particolari in mano del fratello, et partir di <lb/>
+qua alla fine di questa, o principio dell’altra settimana <lb/>
+per venir con ogni diligenza a’ piedi di vostra Serenità. Farà il <lb/>
+viaggio verso Basilea, et di là si condurrà a Zurich se ella <lb/>
+vorrà farli capitar qualche ordine potrà commandarlo al <lb/>
+signor secretario Scaramelli a chi farà capo; et non trovando<ptr target="#tn5" n="5"/> altro <lb/>
+da ubidire subito continuarà il suo viaggio, et si transfe-<lb/>
+rirà a Venetia. </p>
+<p>Anche il signor conte Guglielemo di Nassau fratello del già conte <lb/>
+Ernesto è venuto a trovarmi, et ad esshibir il suo servitio per <lb/>
+la Serenità vostra dicendo esser obligato per divotione, et per volontà a <lb/>
+farle offerta di sé stesso; oltre l’obligo, che teneva in mano <lb/>
+in una patente datagli al partir suo da piedi della Serenità vostra <lb/>
+et sempre che ella lo chiamerà per valersi di lui sarà pronto <lb/>
+a sodisfar al debito di riverente servitore. Mostra ottimo <lb/>
+desiderio. Ha acquistato in Alemagna maggior isperienza <lb/>
+et si va colla età, et col tempo rendendo sempre più habile <lb/>
+al servitio. Mi ha pregato di attestarle questa sua riverente
+<pb n="132r" facs="11_132r" rend="0"/>
+esshibitione, et tanto faccio colla mia ordinaria humiltà. </p>
+<p>Il signor conte di Holach<ptr target="#tn6" n="6"/> vecchio cavalliere, et soldato, che fu per <lb/>
+suo infortunio alla perdita della battaglia di Praga si trova <lb/>
+qui già<ptr target="#tn7" n="7"/> alcune settimane sono. Ha per doi volte voluto ho-<lb/>
+norar questa casa della Serenità vostra, et m’ha pregato di rappresen-<lb/>
+tarle, che le viverà devoto, et obligato servitore. Io <lb/>
+[ne]lla<ptr target="#tn8" n="8"/> visita, et nel complir seco et nella sua casa<ptr target="#tn9" n="9"/> <lb/>
+a Delft, et in questa di vostra Serenità ho supplito quanto ho stimato <lb/>
+a proposito, et di mio debito. Cerca espurgarsi dalla calumnia <lb/>
+che da qualcheduni li è stata addossata per la perdita sudetta <lb/>
+rappresentando la necessità che haveva di tutte sorte di <lb/>
+amunitioni, et il mancamento in generale che vi era di ordine <lb/>
+et per consequente di buona essentione. Gratie etc. </p>
+<p>Dall’Haya li 6 giugno 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="132v" facs="11_132v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 396 comincia 395<ptr target="#tn10" n="10"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="038">
+<!--
+<p n="132vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 zugno 622<ptr target="#tn11" n="11"/> ricevute 23 </p>
+<p>Haya n° 396 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-6" corrected above "-5."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "di … ducati" added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "di questo | negotio" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Corrected above "di."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "et in q(uest)a" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Traces of seal in red wax."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.001 date 1618-08-07</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 1r-4v, 9r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">1r-4v, 9r-v, 5r-6v, 7r-8v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on events in Utrecht, where Maurice has changed the magistrates, protest by the arminians in assembly of States General and Holland as well as in public places. Magistrate of Leiden has ordered 8000 litter of powder and other munition. They fear Maurice will pass by Leiden on his way to The Hague. Boissise has arrived in Rotterdam, visited by Grotius as well. Reports rumours that Spanish ambassador and nuncio in Paris wanted to prevent Louis XIII from solving internal problems in the Republic. Attacks against Oldenbarnevelt continue and the other side seeks to accusse the Nassaus of having too much authority. Ships of the States have captured six corsairs. Two Frenchmen are trying to prepare war ships for the Duke of Guise. From Brussels, totally different reports on the encounter between Venice and Spain (letters in attachment). Attached several news accounts of the twelve ships Two documents attached: a letter by master of provisions from Enkhuizen, cost of rental per ship</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-08-07">7 agosto 1618</date>
+            <num>001, 002, 003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>7 agosto 1618, L’Aia (cc. 1r-4v, 9r-v)</p>-->
+<pb n="001r" facs="07_001r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 50 sola </p>
+<p>Serenissimo Principe </p>
+<p>dalle precedenti lettere mie dell’ultimo del passato, che <lb/>
+aggiungo replicate alle presenti haverà la Serenità vostra intesa <lb/>
+la dimora, che faceva il signor principe Mauritio in Utrechet <lb/>
+c[o]n<ptr target="#tn1" n="1"/> li deputati dei Stati Generali per venir a capo <lb/>
+di quello, perché erano stati inviati con l’Eccellenza sua come <lb/>
+poi con la destra maniera, et con prudente consiglio hanno <lb/>
+fatto; spuntando il far licentiar li nuovecento soldati <lb/>
+che quel Magistrato interteneva per la difesa (dicevano) <lb/>
+della propria libertà, et auttorità. Non hanno giovati <lb/>
+ufficii, che espressamente siano andati a far li contraremon-<lb/>
+stranti<ptr target="#tn2" n="2"/> per divertir questa licenza, perché il Principe <lb/>
+la mattina di mercordì passato, doppo esser stati ben <lb/>
+praticati, et fatti capaci li principali in quel Governo, che <lb/>
+quanto si faceva era per servitio, et quiete dello Stato; <lb/>
+fatto prima entrar la notte qualche numero di cavallaria <lb/>
+et infanteria sopranumeraria, andata l’Eccellenza sua con li depu-<lb/>
+tati de’ signori Stati Generali nella piazza, et alli quartieri <lb/>
+dei Valgelders<ptr target="#tn3" n="3"/> o soldati nuovi, li commandorono il <lb/>
+deponer dell’armi, il che fu fatto senza strepito, né <lb/>
+rumore alcuno, contentandosi della promessa fatta di <lb/>
+pagarli di quello andavano creditori, et ad altri <lb/>
+di esser ascritti nelle compagnie del Paese. Doveva sabbato
+<pb n="001v" facs="07_001v" rend="0"/>
+farsi la mutatione del magistrato, cadendo in quel giorno <lb/>
+l’elettione, com’è seguito; et si sta attendendo di saper ciò <lb/>
+che si sarà terminato sopra il desiderio di quei cittadini, che <lb/>
+vogliono eriger un consiglio di quaranta in cinquanta <lb/>
+che habbino ad esser perpetui, et successivi di tempo in tempo <lb/>
+per l’elettione dei magistrati antico pensiero più volte posto <lb/>
+in consultatione. </p>
+<p>Quanto la sudetta licenza a’ soldati sia stata mal intesa dalli <lb/>
+arminiani l’hanno dimostrata le parole alte proferite <lb/>
+nella publica assemblea de’ Stati Generali in quella di <lb/>
+Holanda, et nelle<ptr target="#tn4" n="4"/> publiche piazze, perché ancorché <lb/>
+questa licenza sia fatta nella città di Utrechet par loro <lb/>
+non poter aspettar altro nelle città, che hanno di simil <lb/>
+soldatesca, onde chiamano l’atto violente, contra ragione, <lb/>
+et non tolerabile, et par che la città di Leidem in particolare <lb/>
+o per meglio dir<ptr target="#tn5" n="5"/> il Magistrato sia<ptr target="#tn6" n="6"/> risoluto di non voler <lb/>
+esser violentato. Ha in questi ultimi giorni fatta provisione <lb/>
+di più di ottomilla lire di polveri, et d’altre munitioni, <lb/>
+et si fanno guardie di giorno, et di notte, et sia chi si vuole, <lb/>
+et d’ogni conditione di persone, non si lascia entrar <lb/>
+nella città che prima non sia conosciuto, et li carri del fieno <lb/>
+et le barche con robbe sono visitate, et ferrati, et
+<pb n="002r" facs="07_002r" rend="0"/>
+tutto il medesimo si fa, che se si aspettasse l’inimico. </p>
+<p>Il signor principe Mauritio si aspetta, che rivenghi o<ptr target="#tn7" n="7"/> questa sera <lb/>
+o domani mattina, credono quelli di Leidem, che vorrà <lb/>
+passar per la città. Non li vieteranno il passaggio. In <lb/>
+fine si tiene da alcuni<ptr target="#tn8" n="8"/> che et essi, et l’altre città della medesima fattione <lb/>
+si risolveranno per non aspettar di esser constrette a ceder, <lb/>
+et far da sé volontarie quello, che si desidera dai stati: <lb/>
+massime parendo, che meno possino fidarsi di quei proprii <lb/>
+soldati, che tengono per loro difesa, oltre il popolo che <lb/>
+in particolare si trattiene in Harlem, et Leidem, ch’è quasi <lb/>
+tutto della Natione valona fugitivo dalle provincie <lb/>
+dei serenissimi arciduchi; et che vive a giornata del lavoro <lb/>
+in quelle piazze<ptr target="#tn9" n="9"/>, et è più acerrimo nel particolar della <lb/>
+religione di quello sia il naturale del Paese. </p>
+<p>L’ambasciator di Francia monsignor di Boissise è arrivato. Venerdì <lb/>
+sera si trovò a Roterdam, ove la mattina seguente <lb/>
+di buon’hora andò a ritrovarlo monsignor di Murier, che <lb/>
+fu seguitato anco dal Grotius creatura, et tutto di <lb/>
+monsignor Bernvel huomo di vivezza di spirito, et <lb/>
+di artificiosa prudenza, che si trattenne con li ambasciatori <lb/>
+per buon spatio di tempo et esso Boissise ricevé dalla <lb/>
+città di Roterdam ogni maggior honore. Fu la sera di
+<pb n="002v" facs="07_002v" rend="0"/>
+sabbato in questo luoco incontrato un quarto d’hora fuori <lb/>
+di questa Haya, dal signor conte Gugliemo di Nassau, et dal <lb/>
+principe Henrico, fratello di sua Eccellenza, che lo condussero sino <lb/>
+al suo alloggiamento destinatoli da’ signori Stati. </p>
+<p>Doppo haver io fatto complir con esso Ambasciatore, al suo arrivo <lb/>
+fui poi a sodisfar in persona la domenica, che con <lb/>
+parole cortesi<ptr target="#tn10" n="10"/> corrispose al complimento; et in <lb/>
+questi particolari del Paese disse ch’era venuto per apportar <lb/>
+la pace; ma tutta l’importanza era se vi fosse stato <lb/>
+chi l’havesse voluta abbracciare. Nel resto scopersi in lui, <lb/>
+come anco nel signor ambasciator Murier sospensione d’animo; et <lb/>
+come ho scritto riverentemente con altre mie, credo che pensino <lb/>
+molto bene a procurar di disimprimer, che l’ambasciata straor-<lb/>
+dinaria sia mandata spogliata da passione, et che <lb/>
+gl’ufficii habbino ad esser diretti al neutrale. </p>
+<p>Et se ben vostra Serenità nel spicarsi questo soggetto di Francia <lb/>
+per venirsene qui haverà intesi li concetti, che sono corsi <lb/>
+in quella corte: non lascierò però di dirle quello ch’è stato <lb/>
+publicato o fatto publicar appositamente, che l’ambasciator <lb/>
+di Spagna residente appresso il Christianissimo, et quel Nontio <lb/>
+pontificio habbino unitamente procurato, che quella Maestà <lb/>
+non mandi monsignor di Boissise; con fine di divertire dall’
+<pb n="003r" facs="07_003r" rend="0"/>
+animo della Maestà sua il desiderio, che havesse di appor-<lb/>
+tar la quiete a queste Provincie; ma perché tra sé stesse <lb/>
+divise restassero bersaglio alla fortuna, et alla propria <lb/>
+ruina. Vostra Serenità col suo prudentissimo giudicio<ptr target="#tn11" n="11"/> potrà <lb/>
+considerare se la divulgatione sia artificiosa, o che in <lb/>
+effetto vi siano stati simili concetti in quei doi ministri. </p>
+<p>Qui ancora non si lascia di procurar, che s’ingrossino gl’humori <lb/>
+contra Bernvel, con dir, che havesse doi pensieri. L’uno <lb/>
+di formar un Governo all’uso di quella serenissima Repubblica <lb/>
+per li suoi fini o non potendo spuntare, che havesse a <lb/>
+cader di nuovo alle mani<ptr target="#tn12" n="12"/> de’ Spagnoli per li medesimi <lb/>
+fini queste Provincie; cosa, che non par, che habbi <lb/>
+sussistenza, massime in questa seconda parte. </p>
+<p>Dall’altro canto si procura di render sospetta la casa di <lb/>
+Nassau dicendo troppo esser l’auttorità, che si lascia <lb/>
+al principe Mauritio, et per il governo, che hanno <lb/>
+gl’altri della casa in Gheldria, et nelle provincie di <lb/>
+Frisia, et Grunighen. Così vano caminando i sospetti, <lb/>
+proferendosi anco senza rispetto concetti di simil <lb/>
+natura. Con tutto il timore delli inconvenienti, <lb/>
+non si lascia di sperar un buon fine. </p>
+<p>La consolatione, che si hebbe nel Paese per il buon arrivo delle
+<pb n="003v" facs="07_003v" rend="0"/>
+navi dell’Indie si è accresciuta questa settimana coll’avviso della <lb/>
+presa, che le navi dei Stati accompagnate da quelle di Spagna <lb/>
+hanno fatta di sei vasselli de’ corsari alla costa<ptr target="#tn13" n="13"/> de Barberia <lb/>
+nella bocca dello stretto. Et sono del numero di quelli<ptr target="#tn14" n="14"/>, che <lb/>
+li mesi passati sbarcarono, et fecero così notabil danno in <lb/>
+Lancerotta una delle isole delle Canarie. Et si aspetta anco d’in-<lb/>
+tendere che habbino incontrati altri vasselli, che caminavano <lb/>
+uniti in<ptr target="#tn15" n="15"/> numero di<ptr target="#tn16" n="16"/> più<ptr target="#tn17" n="17"/> de vinti, pur dei <lb/>
+medesimi corsari. </p>
+<p>Li doi cavallieri francesi, che già alcune settimane si trovano <lb/>
+in questo Paese per la preparatione di doi vasselli da <lb/>
+guerra compri da essi<ptr target="#tn18" n="18"/> per il signor duca di Guisa per andar <lb/>
+medesimamente contra corsari sono dietro alla loro speditione <lb/>
+sperando ambidoi esser pronti, et in mare per la fine del <lb/>
+mese presente, et sono continuamente solecitati dal medesimo signor <lb/>
+duca di Guisa. Et questo ambasciator ordinario di Francia per <lb/>
+nome del Re ha fatto ogni ufficio perché<ptr target="#tn19" n="19"/> <lb/>
+habbino assistenza per la loro pronta speditione <lb/>
+dai ministri delle Amiralità. </p>
+<p>Tutto diversamente è stato publicato in Brusseles l’incontro delle navi <lb/>
+di vostra Serenità allo stretto, et mi scrive il Pasini con lettere che <lb/>
+ricevo in questo punto, che non haveva voluto significarmi
+<pb n="004r" facs="07_004r" rend="0"/>
+ciò che se ne diceva per non apportarmi travaglio, et sentimento <lb/>
+d’animo, et però haveva havuto gusto dell’avviso, che <lb/>
+gliene havevo dato per far apparer con riputatione della <lb/>
+Serenità vostra tutto il contrario della publicatione ch’era che le navi <lb/>
+di lei havevano ricevuto notabilissimo danno, et dall’aggiunta <lb/>
+copia di lettere che mi viene scritta dal provisioniero di <lb/>
+Encusen, oltre altro (se si compiaceranno) potranno, sentir <lb/>
+ciò che si dice (a confusione de’ Spagnuoli) dalli stessi che <lb/>
+li hanno serviti, quando publicassero altrimenti. </p>
+<p>Per quello tocca al particolar delle navi devo mandar a’ signori <lb/>
+di Roterdam la nota di quanto desidero. In Amsterdam <lb/>
+ho rimandato quel conto generale che m’inviorono perché <lb/>
+o lo faccino riformare, o mi mandino li necessarii ricapiti <lb/>
+per il rincontro. Quei signori dell’Amiralità mi hanno ricercato <lb/>
+di farli haver ancor settemilla fiorini in circa per compir <lb/>
+di sodisfar a spese, et insieme farli haver doi mesi di <lb/>
+paga, che<ptr target="#tn20" n="20"/> maturano in questo mese per il noleggio delle <lb/>
+navi essendogliene stata fatta instanza dai portionevoli. <lb/>
+Così mi hanno ricercato anco quelli di Roterdam, et <lb/>
+aspetto<ptr target="#tn21" n="21"/> la medesima instanza di Northolandia. Et perché, <lb/>
+per pagar<ptr target="#tn22" n="22"/> esse doi mesate<ptr target="#tn23" n="23"/> vi vogliono cinquantacinque milla fiorini che <lb/>
+sono vintidoi milla ducati di Venetia non ne haverò tanti
+<pb n="004v" facs="07_004v" rend="0"/>
+procurerò che piglino una sola mesata finché mi venghi nuo-<lb/>
+vo ordine da lei, o la sua risolutione sopra quanto rive-<lb/>
+rentemente le scrissi colle mie dei 17 del passato, colle quali <lb/>
+mandai anco una nota della summa che doveva pagar <lb/>
+per ogni vassello per mese, et per tutti insieme. Et perché in essa <lb/>
+per la nave nominata Lo specchio è stato fatto errore <lb/>
+di doicento fiorini per mese in disavantaggio di vostra Serenità <lb/>
+ho fatta accommodar la partita, et qui le mando nuova <lb/>
+copia del calcolo come deve stare. È necessario ch’ella <lb/>
+risolvi quello vorrà far intorno il pagamento regolandosi <lb/>
+col prezzo della piazza al suo vantaggio o di pagar di là <lb/>
+o di farmi rimetter di qua undecimilla ducati per mese, <lb/>
+che tanto importa il pagamento valutato il ducato cinquanta <lb/>
+piacchi; ma se venisse ad esser meno bisognerà ch’ella rimetti <lb/>
+il di più per la intera sodisfattione di undecimilla ducati <lb/>
+a cinquanta piacchi l’uno. Forniti li primi<ptr target="#tn24" n="24"/> sei mesi, che sarà <lb/>
+all’ottobre prossimo haverà ella libertà per il contratto o <lb/>
+di lasciar continuar il noleggio de’ vasselli nel piedi, che <lb/>
+sono, o di far nuovo partito: in che si regolerà la Serenità vostra <lb/>
+conforme al suo prudentissimo giudicio, et a quello che <lb/>
+stimerà di suo maggior servitio per non incorrer o sotto <lb/>
+giacere a nuovo rischio. Gratie etc. </p>
+<p>Dall’Haya a’ 7 agosto 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="009r" facs="07_009r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="009v" facs="07_009v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 50 sola </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="009vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>7 agosto 1618 ricevute 22 detto </p>
+<p>Haia. Sola. n° 50 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="5r-6v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 5r-6v)</p>-->
+<pb n="005r" facs="07_005r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia di lettera del provisioniero d’Encusen scritta al <lb/>
+residente Suriano </p>
+<p>Non ho voluto mancare di avvisar vostra Signoria di quello del mare che <lb/>
+habbiamo inteso se ben credo, ch’ella haverà più compito raguaglio. </p>
+<p>Alli 9 di giugno nel canale sono venute doi delle nostre nave, nella <lb/>
+compagnia delle 12 navi della serenissima Republica, et sempre sono andati <lb/>
+uniti con loro, essendo arrivati dirimpetto alla spiaggia di Gibilterra <lb/>
+alli 24 di giugno in numero di 20 vasselli cioè le 12 della <lb/>
+serenissima Republica et 8 de’ mercanti, et particolari. Sono subito venuti <lb/>
+dalla detta spiaggia la mattina a tre hore di sole nove nave di <lb/>
+guerra spagnole venivano molto arditamente nella sudetta armata<ptr target="#tn25" n="25"/> <lb/>
+et cominciavano subito a tirar di canonate, et questo durava <lb/>
+fin alla sera, che fu scuro. Le navi de’ mercanti vedendo questo <lb/>
+si ritirorono alquanto dalle navi. Le nostre navi, dico quelle <lb/>
+della serenissima Republica le caricavano bene di canonate, in modo <lb/>
+che una delle navi spagnuole era per andar al fondo <lb/>
+et ricevevano le spagnole molte batute. Tengono anco li <lb/>
+nostri, che li Spagnuoli habbino presa di molta gente. Delle <lb/>
+navi della serenissima Republica sono morti da 14 in 15 alcuni <lb/>
+feriti questo scrive uno delli patroni delle navi nominato Jan <lb/>
+Gerritson Dyck delli 28 di giugno di Capo di Gato il qual <lb/>
+è stato in tutta la battaglia. </p>
+<p>Il patron Buoch da Hoorn<ptr target="#tn26" n="26"/> mi ha detto hieri, che alli 4 <lb/>
+di luglio sia stato avanti di Gibilterra parlando con un <lb/>
+patron di nave hamburghense<ptr target="#tn27" n="27"/> il quale serve il re di Spagna <lb/>
+con la sua nave, et disse, che haveva ricevuto grandissimo
+<pb n="005v" facs="07_005v" rend="0"/>
+danno nella sua nave in quel conflitto dalle nave venetiane <lb/>
+dicendo anco che l’intention loro non era stata di attaccar <lb/>
+le navi venetiane; ma solamente di passar la loro armata <lb/>
+et che improvisamente fu dalla sua nave tirata una moschetata <lb/>
+il che seguito subito doppo fu molto valorosamente tirato alli <lb/>
+loro vasselli; in modo che detti Spagnoli non sapevano come <lb/>
+salvarsi o retirarsi; et che nella sua nave quasi non restò <lb/>
+nulla d’intrego; ma tutto fracassato, et rotto. </p>
+<p>Sono stati presi nella bocca dello stretto di Gibilterra alla <lb/>
+costa di Barberia 6 navi di corsari, li quali havevano presi <lb/>
+nell’isola nominata Lanzerotta da loro spogliata, et <lb/>
+saccheggiata. Questo è seguito alli 2 di luglio per le <lb/>
+nostre<ptr target="#tn28" n="28"/> navi di guerra, et alcune navi spagnole. Quelli<ptr target="#tn29" n="29"/> <lb/>
+che sono stati presi dalle navi nostre di Holanda sopra <lb/>
+le quali commanda il capitano Moy Lambert sono stati <lb/>
+buttati nell’acqua o<ptr target="#tn30" n="30"/> nel mare; et quelli, che li Spagnoli <lb/>
+hanno preso sono stati posti al remo in<ptr target="#tn31" n="31"/> galera. </p>
+<pb n="006r" facs="07_006r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="006v" facs="07_006v" rend="90"/>
+<p>Copia di lettera scritta dal <lb/>
+provisioner d’Encusen </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="003" corresp="001" source="7r-8v" >
+<div type="main" facs="main text of attachment II" n="003" corresp="001" >
+<!--<p>Allegato II al n. 1 (cc. 7r-8v)</p>-->
+<pb n="007r" facs="07_007r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya <lb/>
+n° 46 di 17 luglio <lb/>
+1618 </p>
+<p>Nota del noleggio per le dodeci nave <lb/>
+armate per servizio della serenissima Republica <lb/>
+ridotto da fiorini a ducati in ragion di 50 piachi <lb/>
+per ducato </p>
+<p>Per le cinque navi armate in Amstradan </p>
+<table>
+<row role="label">
+<cell><p>San Marco</p></cell>
+<cell><p>fiorini 3600</p></cell>
+<cell><quote>
+<p>fanno ducati di Venezia 1440 </p>
+</quote></cell>
+</row>
+<row>
+<cell><p>San Christoforo</p></cell>
+<cell><p>fiorini 2400</p></cell>
+<cell><quote>
+<p>fanno ducati di Venezia 960 </p>
+</quote></cell>
+</row>
+<row>
+<cell><p>San Francesco</p></cell>
+<cell><p>fiorini 2400</p></cell>
+<cell><quote>
+<p>fanno ducati di Venezia 960 </p>
+</quote></cell>
+</row>
+<row>
+<cell><p>Minister Kerch</p></cell>
+<cell><p>fiorini 2550</p></cell>
+<cell><quote>
+<p>fanno ducati di Venezia 1020 </p>
+</quote></cell>
+</row>
+<row>
+<cell><p>Anna Riverson</p></cell>
+<cell><p>fiorini 1800</p></cell>
+<cell><quote>
+<p>fanno ducati di Venezia 720 </p>
+</quote></cell>
+</row>
+<row>
+<cell><p>sono</p></cell>
+<cell><quote>
+<p>fiorini 12750</p>
+</quote></cell>
+<cell><quote>
+<p>ducati 5100 </p>
+</quote></cell>
+</row>
+</table>
+<table>
+<row role="label">
+<cell><p>Per le tre navi di Rotterdan </p></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Emmaus</p></cell>
+<cell><p>fiorini 2400 ducati 960 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Lo specchio</p></cell>
+<cell><p>fiorini 2400, 960 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Li tre re</p></cell>
+<cell><p>fiorini 2050, 820 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>6850</p></cell>
+<cell><p>2740 </p></cell>
+<cell></cell>
+</row>
+</table>
+<table>
+<row role="label">
+<cell><p>Per le 4 nave di Nort Hollandia </p></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il Pool</p></cell>
+<cell><p>fiorini 2400</p></cell>
+<cell><p>fanno ducati 960 </p></cell>
+</row>
+<row>
+<cell><p>Il Bonkoi</p></cell>
+<cell><p>2050</p></cell>
+<cell><p>820 </p></cell>
+</row>
+<row>
+<cell><p>Santa Iustina</p></cell>
+<cell><p>2050</p></cell>
+<cell><p>820<ptr target="#tn32" n="32"/> </p></cell>
+</row>
+<row>
+<cell><p>Re Davit</p></cell>
+<cell><p>160</p></cell>
+<cell><p>640 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>sono fiorini 8500</p></cell>
+<cell><p>fanno ducati 3240 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>12750</p></cell>
+<cell><p>5100 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>6800</p></cell>
+<cell><p>2740 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>La summa tutta</p></cell>
+<cell><p>sono fiorini 27700</p></cell>
+<cell><p>fanno ducati 11800 </p></cell>
+</row>
+</table>
+<pb n="007v" facs="07_007v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="008r" facs="07_008r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="008v" facs="07_008v" rend="270"/>
+<p>Aia </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Ink stain.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-ranti" is the result of a correction; followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-r" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "si-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Corrected above "i."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "da alcuni" added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Second "-z-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "g-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "co-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "um" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-u" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-che" is the result of a correction; followed by "loro pronta spedit(ion)e" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "fornir" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "anco" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by -"le" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "esse … mesate" added above the line with an insertion mark.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "-r-" corrected above "-p-."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "-or-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-h-" is the result of a correction.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Corrected above ,.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "gl" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "82-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

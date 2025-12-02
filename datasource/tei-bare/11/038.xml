@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.038 date 1622-08-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">038</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 203r-205v, 208r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">203r-205v, 208r-v, 206r-207v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Maurice has agreed to enlist the services of Mansfeld and Brunswick, unclear which way they will travel to the Republic as they are surrounded by enemy forces. Spanish are hoping to gain the fortress Papemuts. In a skirmish with Hendrik van den Bergh, the duke of Saxe-Weimar has been taken prisoner. Reports from siege at Bergen-op-zoom and the fate of area surrounding where local population is suffering from the contributions. The English king has taken fourt ships. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-08-08">8 agosto 1622</date>
+            <num>059, 060</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="059">
+<div type="main" facs="main text of letter" n="059">
+<!--<p>8 agosto 1622, L’Aia (cc. 203r-205v, 208r-v)</p>-->
+<pb n="203r" facs="11_203r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 411 fin 412 </p>
+<p>Serenissimo Principe </p>
+<p>ritornorono quelli, che <hi rend="decoded">col</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">Golstein</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">furono <lb/>
+espediti al campo al signor principe Mauritio, <lb/>
+et hanno riferto, che l’Eccellenza sua haveva facilmente <lb/>
+accordato, che Masfelt, Bransvich, et le <lb/>
+sue genti dovessero venir in questi <lb/>
+paesi, ad effetto di che immediate furono <lb/>
+espediti oltre il Golstein doi altri ancora <lb/>
+per diversi camini, a fine, se uno falisse, <lb/>
+l’altro lo possi rincontrare. <lb/>
+</hi></p>
+<p>Il camino, che sia per prender Mansfelt non si sa perché già tutti <lb/>
+li contorni, et confinanti alla Lorena per dove necessa-<lb/>
+riamente deve passare sono avvertiti. L’arcivescovo di <lb/>
+Treveri ha fatto commandar tutte le sue genti di tenirsi <lb/>
+pronte; nel Lucemburgh Spagnoli hanno dato buon ordine, <lb/>
+come anco altrove. In Francia come avvisai riverentemente <lb/>
+tocchi dal timore del flusso di quelle armi, stavano lesti <lb/>
+e si sa, che monsieur di Nivers ha esso ancora dati <lb/>
+buoni ordini in Sciampagna, et che era in stato di <lb/>
+rancontrarlo; onde non si sa qual stradda sia per fare: <lb/>
+si sta per tanto con grande attentione, et espettatione. </p>
+<p><hi rend="decoded">Si</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">spera da questi signori fruttuosa la <lb/>
+venuta di dette armi al serenissimo di questo <lb/>
+Paese circondato, et attorniato assai <lb/>
+da genti dell’inimico, che lo bersaglia, <lb/>
+et attacca in più parti le piazze. <lb/>
+</hi></p>
+<p>Già qualche giorni passati risolverono Spagnuoli di attaccarsi <lb/>
+alla fortezza di Papemuts fatta fabricar dalli signori Stati
+<pb n="203v" facs="11_203v" rend="0"/>
+nell’isola del Rheno tra Colonia, et Bona; se ben fino all’ultime <lb/>
+lettere, non vi era se non che fosse attorniata da una sola parte <lb/>
+da 600 fanti tutto a nome di Naiburgh, et 1600 villani, et <lb/>
+questi ogni quattro giorni erano mutati; ma gl’avvisi anco por-<lb/>
+tano, che essendo raccommandata quell’impresa al conte d’Embden <lb/>
+haverà anco maggior sforzo per travagliar, et batter quella piazza <lb/>
+la quale risentiva già qualche canonata, havendo fatto a <lb/>
+Berchen<ptr target="#tn4" n="4"/> prossimo villaggio dirimpetto al forte una batteria; <lb/>
+ove sono stati posti doi pezzi di campagna, colli quali havevano <lb/>
+cominciato a tirar fino a’ 28 del passato, et si conducevano anco <lb/>
+verso là tre mezi canoni, et un mortaro, inditii, che si vogli <lb/>
+sforzar quella piazza a colpi di canone. Ella si mantenirà <lb/>
+per qualche tempo sendo stata provista per un anno intiero <lb/>
+ma non occorre, che aspettino quelli di dentro altro soccorso <lb/>
+perché li sarà tanto per acqua, che per terra impedito. Il più <lb/>
+che perderanno li assalitori sarà la munitione<ptr target="#tn5" n="5"/> di guerra <lb/>
+che nel resto sperano Spagnuoli con poca gente, et con pochissimo <lb/>
+incommodo haver nelle mani il detto forte. </p>
+<p>Il conte Henrico di Bergh si trattiene all’intorno della terra <lb/>
+che prese di Goch, et tiene quivi occupato il signor principe <lb/>
+Mauritio, che non ardirà marchiar altrove per non lasciar in <lb/>
+preda all’inimico l’Isel, et tutte le altre terre all’intorno. <lb/>
+È stata sua Eccellenza in armi colle sue genti 24 hore aspettando <lb/>
+di rincontrar esso conte Henrico, che disegnava attaccar <lb/>
+Genep; ma intesa l’oppositione che vi haverebbe havuta <lb/>
+si ritirò al posto sudetto, et sua Eccellenza sta alloggiato colli suoi <lb/>
+presso il forte di Schinch parte in terra, et parte nelle barche. </p>
+<p>Avanti hieri fece uscir esso conte Henrico quattro compagnie <lb/>
+di cavallaria tre corrazzieri<ptr target="#tn6" n="6"/>, et una d’archibuggieri, et
+<pb n="204r" facs="11_204r" rend="0"/>
+fece dar adosso ad una compagnia di cavallaria, ch’era di <lb/>
+sentinella, che fu forzata, non potendo sola sostener l’assalto far <lb/>
+la<ptr target="#tn7" n="7"/> retirata, la quale et per l’improvisa mossa dell’inimico, <lb/>
+et per il disavantaggio fu in confuso, onde ne restò prigio-<lb/>
+ne Belfort scocese il capitano d’essa. Data l’alarma <lb/>
+sortirono più compagnie di cavallaria dall’armata del <lb/>
+signor principe Mauritio tra quali quella del signor duca di Sassonia <lb/>
+Wimar, che vi era in persona. Fu attaccata la scaramuccia <lb/>
+presero questi di qua anc’essi un capitano di cavallaria <lb/>
+dell’inimico; et il<ptr target="#tn8" n="8"/> medesimo Duca sendo sfortunatamente caduto <lb/>
+il cavallo cade anc’egli, et fu fatto prigioniero con <lb/>
+una poca ferita in un braccio. Molti sono restati feriti <lb/>
+da una, et dall’altra parte, et alcuni morti. Scrive <lb/>
+il conte Ernesto di Nassau, che otto ne siano<ptr target="#tn9" n="9"/> restati <lb/>
+di quelli dei stati, et molti più dell’inimico, il che ha <lb/>
+levato il rumore, ch’era precorso, che ’l numero fosse <lb/>
+stato fino a ottocento, oltre l’attestatione di uno che <lb/>
+arrivò hieri appunto dall’armata. Spiace in generale <lb/>
+a tutti, et principalmente questa Regina risente la prigionia <lb/>
+del detto Duca; ma si spera, che con l’ordinario ranzone <lb/>
+di capitan di cavallaria si riscaterà. </p>
+<p>Immediate fu ispedito l’avviso a Bergh sopra il Zoom col <lb/>
+fondamento delle lettere del signor conte Ernesto; a fine <lb/>
+che il rumor contrario non causasse qualche impressione <lb/>
+di timore, et levasse il cuore a quelli, che sono assediati <lb/>
+nella detta piazza. </p>
+<p>Di là è arrivato qui un quartier mastro, che ha dato conto <lb/>
+che tutte le opere, et trincere fuori della città erano non <lb/>
+solo poste in difesa ma del tutto fornite, et questo più presto
+<pb n="204v" facs="11_204v" rend="0"/>
+sarebbe seguito se non fossero state le pioggie. Hebbero mancamento <lb/>
+di cariole; ma subito ne furono proveduti, come di ogni <lb/>
+altri materiali. Spagnuoli travagliavano anc’essi <lb/>
+et a poco, a poco si andavano avanzando. Al presente <lb/>
+le trincere sono in tiro di moschetto; onde continuamente <lb/>
+notte, et giorno non si sentono che moschetate dalle quali <lb/>
+molti restano morti; ma affermano più dalla banda <lb/>
+dell’inimico, come quello, che tuttavia va operando. <lb/>
+Quelli della piazza havendo drizzato il suo canone verso <lb/>
+un forte inimico, che riguarda all’imbocatura del porto <lb/>
+l’hanno in maniera bersagliato, che è stato in gran parte <lb/>
+rovinato, et hora ridotto in stato, che non può più far<ptr target="#tn10" n="10"/> <lb/>
+danno l’artiglieria senza esser rifatto, il che sarà impedito a <lb/>
+tutto potere. </p>
+<p>Tre cavallieri sono stati presi dell’inimico, et condotti in Bergh. <lb/>
+Riferivano esser mancamento di viveri, et carestia di tutte le <lb/>
+cose nel campo. Sopra che il Governator della piazza ha scritto qui <lb/>
+efficacemente, che sendo vero questo, tanto più devono li signori <lb/>
+Stati procurar di levar la commodità all’inimico di pro-<lb/>
+vedersi nel Brabant perché senza dubio non potrà sussister. </p>
+<p>Hieri era il perentorio prefisso alle terre sotto Breda, et altre <lb/>
+della baronia del signor principe d’Oranges, et là all’intorno <lb/>
+nel Brabant, che sono neutrali di portar viveri al campo <lb/>
+spagnuolo; altrimenti sarebbono tutti li villaggi scorsi, et <lb/>
+abbruggiati. Hanno li habitanti la comminatione altret-<lb/>
+tanto ruinosa per loro quando diano una tal assistenza, <lb/>
+che li è stata fatta intimar per parte delli signori Stati; et già <lb/>
+li molini, et li luochi per far birre sono stati rotti, et <lb/>
+asportati gl’instrumenti fuori di Rosendal ne possono
+<pb n="205r" facs="11_205r" rend="0"/>
+quelle povere genti aspettar altro, che l’esterminio loro sia dall’<lb/>
+una, o dall’altra parte. </p>
+<p>Qui è stato uno da Rosendal doppo essersi trovato con il signor principe <lb/>
+Mauritio, ricercando a questi signori come ha fatto a sua Eccellenza libertà <lb/>
+per quel luoco di contribuire per non cader alla desolatione, che <lb/>
+li è iminente; ma non gli è stato dato d’orrecchie. </p>
+<p>D’Anversa si aspettavano al campo spagnuolo sotto Bergh 20 <lb/>
+mezi canoni, gran quantità di picciole corbette; et quantità <lb/>
+grande ancora di sacchetti lunghi per metter terra; di che <lb/>
+si servono gl’inimici per avanzar nelle opere gettando li <lb/>
+sacchi un sopra l’altro<ptr target="#tn11" n="11"/> ripieni, con che si cuoprono gl’<lb/>
+operarii, et si vanno avanzando; et li moschetti non <lb/>
+possono far gran danno perdendosi li colpi in essi. </p>
+<p>Alcuni soldati del reggimento inglese levato ultimamente in Inghilterra per <lb/>
+il conte d’Argail fuggendo si ritiravano nella piazza di <lb/>
+Bergh; et affermavano, che la più gran parte era risoluta <lb/>
+di fuggirsene pur che havesse potuto trovar il commodo <lb/>
+del farlo, scontenti di trovarsi al servitio dei Spagnuoli, <lb/>
+pretendendo esser stati ingannati, mentre alla levata <lb/>
+pensavano di dover venir a servir a questo Paese, non <lb/>
+essendoli stato dato ad intender altrimenti. </p>
+<p>Dicono che ’l marchese Spinola era ritornato a Brusseles; et <lb/>
+si continua ad affermare, ch’egli sia risolutissimo di voler <lb/>
+haver quella piazza in mano; ma si promettono tanto <lb/>
+quelli di dentro, et si stimano tanto sicuri, che sperano, <lb/>
+che li pensieri per questa volta habbino ad andar falaci <lb/>
+a’ Spagnuoli: tuttavia viene da più prudenti giudicato <lb/>
+che ’l Marchese non si sarebbe così facilmente imbarcato a <lb/>
+quell’impresa, che non havesse in dodici anni di tregua
+<pb n="205v" facs="11_205v" rend="0"/>
+ben capito il vantaggio, et colla relatione de’ più ingegneri, che <lb/>
+nello spatio di detto tempo haveranno veduta da tutti i lati la <lb/>
+piazza quello vi potesse fare, li rimedii, et i danni che <lb/>
+potesse apportarvi per sortir l’effetto della sua intentione. </p>
+<p>Alla verità questi signori come intende la Serenità vostra hanno da travagliar <lb/>
+assai; vi si aggiunge oltre il sopradetto la guarda, che devono <lb/>
+haver dell’importante piazza dell’Esclusa, et per le spese che <lb/>
+sostengono nel mare: gran somma d’oro vi vuole peso <lb/>
+gravissimo alle spalle di questi signori <hi rend="decoded">et</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">presento, che tenteranno nuovi soccorsi <lb/>
+da quella serenissima Republica, come al Principe</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">il <lb/>
+più interessato nella conservatione di quelle Provincie <lb/>
+et di quella libertà; presento anco, che <lb/>
+lo sperano dalle istanze del signor Calandrini <lb/>
+che è certo, che se succedesse, riuscirebbe <lb/>
+altrettanto caro: quanto opportuno per li presenti <lb/>
+affari, massime per il sostenimento dell’<lb/>
+armi di Masfelt. <lb/>
+</hi></p>
+<p>Vostra Serenità da lettere dell’eccellentissimo signor ambasciator Valaresso haverà inteso l’ar-<lb/>
+resto, che ’l re della Gran Bertagna haveva fatto di 4 vasselli <lb/>
+con reali, che venivano di Spagna; et poco doppo la liberatione <lb/>
+di essi contro l’espettatione delli ambasciatori holandesi, che <lb/>
+havevano richiesto a sua Maestà conivenza di far essi medesimi <lb/>
+questa presa, et non li fu concesso, ben promesso ch’ella <lb/>
+medesima li haverebbe ritenuti. Havendo gl’ambasciatori <lb/>
+preveduto quello, che poteva suceder dalle subornationi<ptr target="#tn14" n="14"/> <lb/>
+dell’Ambasciator spagnuolo avertirono in ogni modo li vas-<lb/>
+seli da guerra dei signori Stati del caso, che potesse <lb/>
+avenire. Sono stati lesti; ma sino ad hora non havevano
+<pb n="208r" facs="11_208r" rend="0"/>
+rancontrato, che un solo vassello, che condotto a Midelburgh <lb/>
+in esso si erano trovati intorno vintimilla reali da otto <lb/>
+in cassette, che sono cinquanta milla fiorini; ma speravano <lb/>
+anco trovarne di nascosti, come è di costume. Sono le <lb/>
+altre navi in busca delli altri tre, che sarebbe buon colpo <lb/>
+massime in questa congiuntura. Il vassello preso è <lb/>
+di Amburgh, pretende esser libero<ptr target="#tn15" n="15"/>; ma lo stesso patrone <lb/>
+ha detto che li denari non erano liberi, dichiarandoli esser <lb/>
+de’ Spagnuoli. Gratie etc. </p>
+<p>Dall’Haya li 8 agosto 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="208v" facs="11_208v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 411 fin 412<ptr target="#tn16" n="16"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="059">
+<!--
+<p n="208vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 agosto 1622. Ricevute 24 detto </p>
+<p>Haya. n° 411 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="060" corresp="059" source="206r-207v" >
+<div type="main" facs="main text of attachment I" n="060" corresp="059" >
+<!--<p>Allegato I al n. 59 (cc. 206r-207v; decodifica di cc. 203r, 205v)</p>-->
+<pb n="206r" facs="11_206r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 411 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="206v" facs="11_206v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="207r" facs="11_207r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="207v" facs="11_207v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "col … rincontrare" decoding of the encrypted text can be found on c. 206r.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Si … piazze" decoding of the encrypted text can be found on c. 206r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-c-" corrected above "-g-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes the struck-through letter.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Precedes "batter" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-l" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "si-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "-vi" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-o" corrected above "-e."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "et … Masfelt" decoding of the encrypted text can be found on c. 206r-v; with cross-reference sign.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-ero" is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Traces of a seal in red wax."</p></note>
+</div>
+</body>
+</text>
+</TEI>

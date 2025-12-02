@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.038 date 1621-06-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">038</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 186r-189v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">186r-189v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The Spanish want a truce with same conditions as the previous one, waiting to see what Tserclaas is bringing to The Hague regarding negotiations. Duke of Pfalz-Neuburg is travelling to Brussels. Polish ambassador is waiting for a reply. Two more skippers who have served Venice are requesting to be paid by Venice. Acknowledges receipt of a letter from Venice about Marco Moens and has spoken to States General on this matter. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-28">28 giugno 1621</date>
+            <num>062</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="062">
+<div type="main" facs="main text of letter" n="062">
+<!--<p>28 giugno 1621, L’Aia (cc. 186r-189v)</p>-->
+<pb n="186r" facs="10_186r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 311 comincia 310 fin 312 </p>
+<p>Serenissimo Principe </p>
+<p>le preparationi de’ Spagnuoli, quelle che non cessano da questa <lb/>
+parte le represaglie, le prigionie, et altri atti simili, che <lb/>
+sono sin qui andati seguendo non possono levar dal capo <lb/>
+dell’universale, che non si tratti, et che non habbi ad esser <lb/>
+la prorogatione della tregua. Vogliono, che se ne tratti <lb/>
+secretamente. La verità è, che se Spagnoli<ptr target="#tn1" n="1"/> vorranno trattar <lb/>
+colle medesime coditioni della passata tregua, come ho riverente-<lb/>
+mente scritto nel precedente dispiaccio<ptr target="#tn2" n="2"/>, che invio qui aggiunto <lb/>
+in replica di doi lettere n° 308 et 309)<ptr target="#tn3" n="3"/>. Non incontreranno <lb/>
+che col gusto di molti a chi par d’intender bene la <lb/>
+constitutione presente del Governo, et<ptr target="#tn4" n="4"/> che più necessaria <lb/>
+gli sia la tregua, che la guerra. Uno ch’è qui per nome <lb/>
+del marchese Spinola per il negotio delle represaglie ha havuto <lb/>
+a dire a persona, che me lo ha riferto, che li serenissimi arciduchi <lb/>
+manderanno ben volontieri commissarii per trattare sia a <lb/>
+Lieges, o in altra parte neutrale; ma non si vogliono obligar <lb/>
+di trattar colle medesime conditioni della precedente tregua; et che se quella dama ha promesso, et detta alcuna cosa <lb/>
+in questo proposito, et che sopra ciò il re di Spagna habbi <lb/>
+data tutta l’auttorità a sue Altezze, che haveva ella passati <lb/>
+i limiti della sua commissione. Questo afferma esser così <lb/>
+la cosa, et che non vedranno li signori Stati né sua Eccellenza altrimenti. <lb/>
+Ma sono assicurato anco da buona parte, che né gl’uni <lb/>
+né l<ptr target="#tn5" n="5"/>’altri accorderanno altrimenti di mandar commissarii <lb/>
+se la detta dama Serclas non porta sottoscrittione <lb/>
+del serenissimo Alberto di contentarsi, che si tratti sopra la <lb/>
+passata conditione, che venga l’aggravatione insieme del </p>
+<pb n="186v" facs="10_186v" rend="0"/>
+<p>Catholico; onde s’è vero il primo, et se questi persistono <lb/>
+nel suo proposito può esser, che la guerra se farà. La donna <lb/>
+sarà qui fra un giorno, o doi come viene affermato, ancorchè <lb/>
+si facci pochissimo caso della sua intramessa: tuttavia non può <lb/>
+non esser, che non si attendi con curiosità. </p>
+<p>Venne li giorni passati a Duceldorp il duca di Naiburgh, et doveva <lb/>
+passar a Brusseles; ma fu trattenuto da qualche consultationi <lb/>
+fatte nel Consiglio dei serenissimi arciduchi, né si è saputo altro <lb/>
+se non ch’egli sia stato veduto dal conte Henrico Van-<lb/>
+dembergh, che andò, et ritornò in posta alla corte, et <lb/>
+appresso questo è stato detto da alcuno, che detto Naiburgh <lb/>
+per sodisfare all’Imperatore habbi levato dal giuramento li sudditi <lb/>
+di Duceldorp, et altri, che già havevano prestato a lui medesimo <lb/>
+et ricevutolo in un istesso tempo per l’Imperatore a fine <lb/>
+di contentar sua Maestà cesarea, mettendo quel stato ch’è tutto <lb/>
+a feudo imperiale nel primo esser per haver quel dritto <lb/>
+possesso, che illigitimamente pretende sua Maestà haver, et esso <lb/>
+Naiburgh, et Brandemburgh preso indirettamente. <lb/>
+Attione di tanto momento, et consequenza non è in tutti <lb/>
+publica, et pur viene affermata per vera. Bisogna, che <lb/>
+vi sia qualche cosa almeno, che habbi conferenza con <lb/>
+questo. Io procurerò di cavarne il netto se mi sarà <lb/>
+possibile. </p>
+<p>Se non questa sera dimane mattina deve l’ambasciator di Polonia <lb/>
+haver la sua risposta. Per il particolar d’aiuti iscuse, et <lb/>
+complimenti per scriver a Constantinopoli all’oratore <lb/>
+che diverti se può la guerra o l’armi turchesche di cader
+<pb n="187r" facs="10_187r" rend="0"/>
+sopra Polonia, et per la liberatione di alcuni schiavi si daranno <lb/>
+buone parole. Per un ingegnero ricercato a questi signori si <lb/>
+iscuserà colla necessità, che n’ha il Paese. Per la <lb/>
+commodità del transportar l’armi donate dalli serenissimi <lb/>
+arciduchi, et per la compreda d’altre, che potrà far quello <lb/>
+che fanno altri a chi non è interdetto mentre diano debite <lb/>
+et convenienti cautioni, che non serviranno per li nemici <lb/>
+di questo stato. Questa risposta nonostante, che habbino <lb/>
+li signori Stati havuta la propositione per scritto non si darà <lb/>
+per scritto, ma di bocca. Et questo a fine di evitar il sospetto <lb/>
+che potesse il re di Polonia prevalersene per il suo vantag-<lb/>
+gio forse anco alla porta di Costantinopoli. Vi è stato <lb/>
+del dibatter assai, et tanto, che ha causato una si lunga <lb/>
+risolutione. </p>
+<p>Stanno questi signori attendendo con sommo desiderio la riuscita <lb/>
+del negotio della restitutione della Valtelina, ne sano <lb/>
+persuaderselo. </p>
+<p>Li signori Stati col mezo d’uno dei loro deputati della stessa <lb/>
+assemblea mi hanno fatti raccommandar doi patroni <lb/>
+di nave, che coi loro vasselli hanno servito per qualche <lb/>
+spatio di tempo nell’armata di vostra Serenità a fine che per <lb/>
+l’intercessione delle loro Eccellenze accompagnata dalle mie <lb/>
+riverenti preghiere possi esser sodisfatti del resto de’ <lb/>
+loro noli già liquidati et concordati. Uno è per la <lb/>
+nave Jonas patrone Adriano Pieterson Looske da <lb/>
+Encusen che havendo servito fino alli 15 d’ottobre <lb/>
+1620 li restano ducati sei milla, et quarantatrè
+<pb n="187v" facs="10_187v" rend="0"/>
+l’altro è Girardo Janson patrone del vassello Il lion <lb/>
+negro a cui resta la summa pur d’accordo di <lb/>
+ducati quattromilla doicento. Saranno da suoi agenti <lb/>
+presentate le lettere dei signori Stati, et fatte le loro instanze <lb/>
+per la sodisfattione. </p>
+<p>Hieri mi furono portate le lettere della Serenità vostra delli xi <lb/>
+fatte ad instanza del magnifico Marco Moens mercante <lb/>
+fiamingo con commissione di procurargli quel sollievo <lb/>
+che comporta il termine della giustitia per la ricuperatione <lb/>
+di doicento cuori presi dalle navi holandesi, et portati <lb/>
+in Zelanda con altre merci. N’ho parlato questa mattina <lb/>
+al Presidente, et con affetto gli ho raccontato il negotio a fine <lb/>
+che sia fatta la restitutione al detto mercante, portando <lb/>
+quelle ragioni, che ho stimate più proprie, mi ha promesso <lb/>
+di far ogni buon ufficio a contemplatione<ptr target="#tn6" n="6"/> di vostra Serenità. Tutti <lb/>
+quelli che hanno pretensione nelle represaglie sono mandati <lb/>
+alli signori di Zelanda dell’Amiralità. Sentirò quello mi <lb/>
+sarà detto per rinovar gl’ufficii più efficace a fine <lb/>
+che possi il detto mercante haver la conveniente sodisfatione. <lb/>
+Ancor non è stato delle represaglie data alcuna cosa ad alcuno <lb/>
+né messamano a dar partita alcuna ad alcuno di denari, il <lb/>
+marchese Spinola però solecita con lettere ma si crede <lb/>
+saranno indarno: anzi ho saputo questo, che in Zelanda <lb/>
+in quella zecca si battono taleri di Holanda da quaranta <lb/>
+piacchi l’uno dell’argento che si è trovato. Non troppo <lb/>
+buon segno per chi<ptr target="#tn7" n="7"/> pretende come ne sono molti. </p>
+<p>In questo punto sono avvisato dal signor ambasciator d’Inghilterra
+<pb n="188r" facs="10_188r" rend="0"/>
+che dall’assemblea di Holanda sia stato risoluto far propo-<lb/>
+ner per Venetia monsignor di Langarach, ch’è ambasciator in <lb/>
+Francia; et che ’l signor cancellier Arsen, et monsignor Bucorst <lb/>
+ch’è venuto ultimamente da quella corte estraordinario <lb/>
+tenteranno per li loro interessi, che la cosa succedi nelli <lb/>
+Stati Generali a lor questo. Di quello seguirà ne darò <lb/>
+riverente conto alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 28 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="188v" facs="10_188v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="189r" facs="10_189r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="189v" facs="10_189v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 311 comincia 310 fin <lb/>
+312 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="062">
+<!--
+<p n="189vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 giugno 1621 ricevute 14 luglio n° 311 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi><ptr target="#tn8" n="8"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> A word inserted above the main line, with insertion mark, which was crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Close parenthesis, the open parenthesis is missing.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "poi" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "g-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> First "-n-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "prima" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

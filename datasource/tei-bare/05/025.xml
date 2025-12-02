@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.025 date 1617-12-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">025</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 148r-150v, 159r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">144r-147v, 148r-150v, 159r-v, 151r-v, 152r-153v, 154r-v, 157r-158v, 155r-156v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Writes in cipher that he has received the resolution from States General in response to his propositions from Aerssen. He sends both a French copy and his Italian translation of the text along with this letter. The document confirms what both Oldenbarnevelt and Magnus had discussed (see letter from 27 November 1617). Attached to this letter is an Italian translation of the treaty between the Dutch Republic and Hanseatic cities. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-04">4 dicembre 1617</date>
+            <num>044, 045, 046, 047, 048, 049</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice;</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="044" corresp="045" source="144r-147v" >
+<div type="main" facs="main text of attachment I" n="044" corresp="045" >
+<!--<p>Allegato I al n. 45 (cc. 144r-147v; decodifica di cc. 148r-150r)</p>-->
+<pb n="144r" facs="05_144r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Blank page"/></p>
+<pb n="144v" facs="05_144v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="145r" facs="05_145r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="145v" facs="05_145v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="146r" facs="05_146r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="146v" facs="05_146v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="147r" facs="05_147r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="147v" facs="05_147v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="045">
+<div type="main" facs="main text of letter" n="045">
+<!--<p>4 dicembre 1617, L’Aia (cc. 148r-150v, 159r-v)</p>-->
+<pb n="148r" facs="05_148r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">si</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">sono finalmente rissoluti questi signori di risponder al-<lb/>
+le propositioni, che feci in nome di vostra Serenità li <lb/>
+giorni passati nella loro asemblea, et sono <lb/>
+condescesi a quanto ella intenderà dall’ag-<lb/>
+gionta traduttione, che ho fatto nell’ittaliano <lb/>
+essa risposta, mi fu portata giovedì a sera <lb/>
+dal signor Arsen secretario de’ signori Stati Generali <lb/>
+et ho stimato bene d’inviar colle presenti anco <lb/>
+la copia stessa in francese, per quelli delle <lb/>
+Signorie vostre eccellentissime, che havessero gusto di veder <lb/>
+il vero senso di essa nel proprio fonte. <lb/>
+</hi></p>
+<p><hi rend="decoded">Parmi che conformi con quanto mi fu detto, <lb/>
+dal signor Bern</hi></p>
+<p><hi rend="decoded">vel, et dal signor Magno, nella <lb/>
+dichiaratione dell’animo di quelli signori, come <lb/>
+ne le ho riverentemente scritto colle mie de’ 27 del <lb/>
+passato intorno il desiderio, che hanno di <lb/>
+unirsi con vostra Serenità. Il detto secretario nel dar-<lb/>
+mela mi disse, che la serenissima Republica potrà hora <lb/>
+scoprire, come questi Stati si dichiarino assai <lb/>
+largamente</hi>
+<pb n="148v" facs="05_148v" rend="0"/>
+<hi rend="decoded">nella loro intentione, che però <lb/>
+bisognava, che anco vostra Serenità, più espressamente <lb/>
+si dichiarisse. Io dissi che</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">haverei <lb/>
+mandata alla Serenità vostra la scrittura, et di <lb/>
+quello, che mi fosse stato significato haverei <lb/>
+data parte alli signori Stati Generali, alli quali, <lb/>
+haverebbe potuto ciò riferire con attestarle, <lb/>
+che in tanto, si potevano prometter in sua Serenità <lb/>
+una ultima volontà, et uno sommo desiderio del-<lb/>
+la conservatione di queste Provincie. <lb/>
+</hi></p>
+<p>Non molto doppo la partenza del detto Ministro uno <lb/>
+dei signori deputati di Gheldria, et il signor Brumagno <lb/>
+di Frisia mandorono a veder se potevano venir a <lb/>
+visitarmi, et parmi di non m’ingannare nel presu-<lb/>
+posito che feci, che espressamente venissero col pretesto <lb/>
+di visita per intender da me ciò che diceva <lb/>
+perché non sì tosto hebber complito per sodisfar alla <lb/>
+visita, che mi dimandorono come mi era riuscita <lb/>
+la risposta dei signori Stati. Io risposi, che mi era <lb/>
+riuscita cara perché haverei potuto significar con <lb/>
+essa alla serenissima Republica la loro buona volontà verso
+<pb n="149r" facs="05_149r" rend="0"/>
+il commune interesse, et la conservatione de’ communi <lb/>
+stati. Soggionsero questi <hi rend="decoded">li</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">signori Stati hanno aperto il</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">loro senso tanto <lb/>
+chiaro, che sua Serenità potrà veder il nostro <lb/>
+fine concorrer con quello della serenissima Republica <lb/>
+di conservar l’un l’altro, perché anco sarà <lb/>
+facile il mezo, et noi possiamo promettere che <lb/>
+la nostra asistenza, in ogni accidente darà <lb/>
+l’alarma allo Spagnuolo et la reciproca convin-<lb/>
+tione, et unione è molto propria, perché li gran <lb/>
+monarchi in generale sono insidiosi, et odiano <lb/>
+li stati di republica. Io repigliai, che era <lb/>
+vero, et però altre volte havevo accennato <lb/>
+che vi voleva una buona intelligenza, et <lb/>
+corrispondenza tra l’uno, et l’altro Stato. <lb/>
+Replicorono, l’unione è quella, che servirà <lb/>
+al bene, et al commodo dell’uno, et dell’<lb/>
+altro, et a questa si deve</hi>
+<pb n="149v" facs="05_149v" rend="0"/>
+<hi rend="decoded">attender per <lb/>
+ostar all’ambitione, alle insidie, et alle <lb/>
+machinationi, che Spagnoli non cesserano di <lb/>
+haver in mente, et preparar continuamente <lb/>
+contra la serenissima Republica a questo proposi-<lb/>
+to andorono dicendo altri concetti, che tutti <lb/>
+venero a ferir a questo capo di unirsi <lb/>
+in aleanza con vostra Serenità, et ho saputo, che <lb/>
+sono venuti in questa rissolutione di aprirsi <lb/>
+della maniera che fano a fine di <lb/>
+cavar qual sia l’intorno</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">di lei. Il <lb/>
+ritardo alla risposta, credo, che sia nato <lb/>
+dall’aspettar più aperto consenso delle Provincie, <lb/>
+poiché conforme a quanto mi disse il signor Magno <lb/>
+et io riverentemente significai colle mie lettere de’ <lb/>
+13 del passato haverà ogni deputato scritto <lb/>
+alla sua particolar provincia, ancorché <lb/>
+Gheldria, Zelanda</hi><ptr target="#tn6" n="6"/><hi rend="decoded">, Frisia et Gruninghen <lb/>
+havessero auttorità sufficiente, et particolar-<lb/>
+mente il signor Magno, mi affermò, che quando <lb/>
+fu in Zelanda haveva da quei Stati ha-<lb/>
+vuto l’assoluto loro desiderio et volontà <lb/>
+di unirsi colla Serenità vostra. Hora parmi sco-<lb/>
+prire, che non siano per</hi>
+<pb n="150r" facs="05_150r" rend="0"/>
+<hi rend="decoded">far maggior rissolu-<lb/>
+tione, o di deputar loro ministro, appresso <lb/>
+vostra Serenità o altrimenti, se non hanno qualche <lb/>
+risposta da me, per nome di lei ch’ella con-<lb/>
+corri con il loro senso; et la prudenza della <lb/>
+Serenità vostra lo caverà dalla stessa scrittura <lb/>
+nella quale viene detto, che si aspettarà <lb/>
+risposta, corrispondente, et li suddetti due signori, <lb/>
+me lo hanno anco accennato, onde io atten-<lb/>
+derò quello</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">si compiacerà comandarmi ch’ <lb/>
+io dia nella assemblea, essendo venuta da <lb/>
+questa la rissolutione, et con la singolar prudenza <lb/>
+sua considererà quello, che stimerà di suo <lb/>
+servitio. <lb/>
+</hi></p>
+<p n="150rC">———</p>
+<p>Essendomi venuto fatto di haver in mano <lb/>
+l’aleanza, che <lb/>
+questi signori hanno con le città ansiatiche ho cavato la <lb/>
+sostanza della capitulatione, che ho stimato a proposito <lb/>
+aggiungerla alle presenti ad ogni buon fine; et all’<lb/>
+ordinario venturo manderò la copia tutta, che per esser in fiamingo non posso haverla così pronta per <lb/>
+inviarla con questo messaggiero. Gratie etc. </p>
+<p>Dall’Haya a’ 4 decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="150v" facs="05_150v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="159r" facs="05_159r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="159v" facs="05_159v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="045">
+<!--
+<p n="159vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 decembre 1617 ricevute a’ 20 detto </p>
+<p>Haya. Prima </p>
+<p>Propositioni delle <lb/>
+aleanze </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="046" corresp="045" source="151r-v" >
+<div type="main" facs="main text of attachment II" n="046" corresp="045" >
+<!--<p>Allegato II al n. 45 (c. 151r-v; decodifica di cc. 152r-153v)</p>-->
+<pb n="151r" facs="05_151r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Copia italiana </p>
+<p>Risposta delli signori Stati </p>
+<p>Havendo li Stati Generali de’ Paesi Bassi Uniti, <lb/>
+udite, et maturamente essaminate le propositioni <lb/>
+fatte in diverse volte nella loro assemblea <lb/>
+dal signor Christoforo Suriano residente appresso di <lb/>
+essi secretario di Stato, et privato della serenissima republica di Venetia per parte, et appresso comandamento et <lb/>
+ordine di lei dichiarano, che come compren-<lb/>
+dono per gli avisi espressi nella dette proposi-<lb/>
+tioni, una continuatione di vera, et sincera <lb/>
+affetione, et buona voluntà della detta serenissima <lb/>
+Republica verso questo Stato, al manteni-<lb/>
+mento, et securtà sua, meritando una <lb/>
+reciproca, et pari dimostratione di sincera <lb/>
+affetione di questo Stato verso la detta serenissima <lb/>
+Republica, così tornano parimente buono, et conve-<lb/>
+nevole per lo stesso effetto di stringer una <lb/>
+più stretta amicitia, et corrispondenza per <lb/>
+l’avvenire con essa, se piace a sua Serenità <lb/>
+aprirsi, et far intender più chiaramente, che <lb/>
+tale è sopra ciò la intentione di lei, tanto <lb/>
+in generale, che in particolare, stante che non vi è <lb/>
+cosa che li detti signori Stati habbino più a cuore, <lb/>
+che una congiontione, unione, et aleanza <lb/>
+generale, et particolare con tutti li re, principi, et
+<pb n="151v" facs="05_151v" rend="0"/>
+republiche christiane, che desiderano <lb/>
+et stano constantemente risoluti di mante-<lb/>
+ner, et conservar la sovranità, et <lb/>
+libertà de’ loro regni, stati, et sudditi, et <lb/>
+che a questo f[in]e<ptr target="#tn8" n="8"/> per ragione di Stato sospet-<lb/>
+tano l’accrescimento della grandezza, <lb/>
+et insatiabile ambitione delli Spagnoli, et dei <lb/>
+loro adherenti, li quali non hanno altro per <lb/>
+fine, che di rendersi monarchi, dar, et <lb/>
+imponer legge a tutti gli altri re, principi, <lb/>
+et republiche, ma singularmente essi <lb/>
+desiderano di stringer una più stretta <lb/>
+crescita, particolarmente con la serenissima Republica <lb/>
+per il loro reciproco bene, et sicurtà, come anco <lb/>
+per la conservatione della libera navigatione, <lb/>
+traffico, et comercio di essi; sopra che adunque <lb/>
+attenderano risposta corrispondente da sua Serenità, <lb/>
+ringraziando in questo mentre li detti signori Stati <lb/>
+la medesima sua Serenità de’ suoi avisi, et buona <lb/>
+corrispondenza sopra le occorrenze, et successi della <lb/>
+loro guerra, e[…]<ptr target="#tn9" n="9"/> et de’ trattati de’ quali il detto signor <lb/>
+ressidente Suriano medesimo particolarmente li sia fatto, <lb/>
+et dato parte. Fatta nella assemblea de’ detti signori Stati <lb/>
+Generali li 28 del mese di novembre 1617. </p>
+<p>Per l’ordinanza de’ detti signori Stati Generali. </p>
+<p>Arsens. </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="047" corresp="045" source="152r-153v" >
+<div type="main" facs="main text of attachment III" n="047" corresp="045" >
+<!--<p>Allegato III al n. 45 (cc. 152r-153v; traduzione di cc. 154r-v, 157r-v; decodifica a c. 151r-v)</p>-->
+<pb n="152r" facs="05_152r" rend="0"/>
+<head>main text of attachment III</head>
+<p>In lettere prime dell’Haya de’ 4 decembre 1617 </p>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="152v" facs="05_152v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="153r" facs="05_153r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="153v" facs="05_153v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="048" corresp="045" source="154r-v, 157r-158v" >
+<div type="main" facs="main text of attachment IV" n="048" corresp="045" >
+<!--<p>Allegato IV al n. 45 (cc. 154r-v, 157r-158v; traduzione a cc. 152r-153v)</p>-->
+<pb n="154r" facs="05_154r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>In lettere prime dell’Haya di 4 <lb/>
+decembre 1617 </p>
+<p><hi rend="decoded">Copia</hi><ptr target="#tn10" n="10"/> <hi rend="decoded">francese <lb/>
+</hi></p>
+<p><hi rend="decoded">Les Estaz Generaulx des Pais Bas U-<lb/>
+niz aiants</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">oui, et meurement examine les <lb/>
+propositions par diverses fois <lb/>
+faictes en leur asemblée <lb/>
+par le seiur Cristofere Suriano <lb/>
+resident prez de eux secretaire <lb/>
+d’Estat et privé de la serenisime repu-<lb/>
+blicque de Venise du la part et par <lb/>
+expres comandement et ordre <lb/>
+d’icele declairent come ilz <lb/>
+remarcquent par les advis po-<lb/>
+rtés par les dictes propositio-<lb/>
+ns une continuation de vraie <lb/>
+afection et bone volenté de la <lb/>
+dicte serenisime Republique vers <lb/>
+cest Estat au maintenement <lb/>
+et seurte di ceuli (meritant <lb/>
+une reciprocque et pareile demo-<lb/>
+nstration de sincere afec-<lb/>
+tion de cest Estat en vers <lb/>
+la dicte serenisime Republicque) <lb/>
+que aussi ilz trouvent bon <lb/>
+et convenable à mesme efect <lb/>
+de sstraindre</hi><ptr target="#tn12" n="12"/> <hi rend="decoded">une plus sstroicte</hi><ptr target="#tn13" n="13"/>
+<pb n="154v" facs="05_154v" rend="0"/>
+<hi rend="decoded">amitié et correspondence pour <lb/>
+l’advenir avec icele s’il <lb/>
+plat</hi><ptr target="#tn14" n="14"/> <hi rend="decoded">à sa Serenités ouvrir <lb/>
+et faire entendre plus cla-<lb/>
+irement, que elle est la des-<lb/>
+sus son intention tant en <lb/>
+general que en particulier <lb/>
+d’aultant que</hi><ptr target="#tn15" n="15"/> <hi rend="decoded">il ni a chese <lb/>
+que les dicts seigneurs Estats <lb/>
+ont plus à coeur que une <lb/>
+coniontion union et ali-<lb/>
+ance generale et particuliere <lb/>
+de tous rois princes et <lb/>
+republicques cristienes qui <lb/>
+desirent et demeurent <lb/>
+constantement</hi><ptr target="#tn16" n="16"/> <hi rend="decoded">resoluz de <lb/>
+maintenir</hi><ptr target="#tn17" n="17"/> <hi rend="decoded">et conserver la <lb/>
+sou</hi><ptr target="#tn18" n="18"/> <hi rend="decoded">seraineté</hi><ptr target="#tn19" n="19"/> <hi rend="decoded">et liberté <lb/>
+de leurs roiaulmes <lb/>
+estats et subiectz et qui à <lb/>
+ceste fin par raison</hi><ptr target="#tn20" n="20"/> <hi rend="decoded">d’<lb/>
+Estat ont suspect l’acroi-<lb/>
+sement de la grandeur et <lb/>
+insatiable</hi><ptr target="#tn21" n="21"/> <hi rend="decoded">anbition</hi><ptr target="#tn22" n="22"/> <hi rend="decoded">des <lb/>
+</hi></p>
+<pb n="157r" facs="05_157r" rend="0"/>
+<p><hi rend="decoded">Espagnols et de leurs adhera-<lb/>
+ns qui n’ont but que de se ren-<lb/>
+dre monarches doner et inpose-<lb/>
+r loi à tous aultres rois <lb/>
+princes et republiques; mais <lb/>
+singulierement desirent <lb/>
+ils d’estraindre une</hi><ptr target="#tn23" n="23"/> <hi rend="decoded">plus <lb/>
+stroicte amitié particulie-<lb/>
+rement avec la dicte sere-<lb/>
+nisime Republicque pour leur <lb/>
+reciprocque bien et seurté <lb/>
+ensemble la conservation <lb/>
+de la libre</hi><ptr target="#tn24" n="24"/> <hi rend="decoded">navigation tra-<lb/>
+ficque et comerce d’icelx <lb/>
+sur quoi donc ils atendero-<lb/>
+nt responce</hi><ptr target="#tn25" n="25"/> <hi rend="decoded">corespondente <lb/>
+de sa Serenité remerciant ce-<lb/>
+pendent les</hi><ptr target="#tn26" n="26"/> <hi rend="decoded">dicts seigne-<lb/>
+urs Estas icele sa Serenité <lb/>
+de sas advis et bone corispon-<lb/>
+dence sur les</hi><ptr target="#tn27" n="27"/> <hi rend="decoded">ocurences et <lb/>
+sucès de luur</hi><ptr target="#tn28" n="28"/> <hi rend="decoded">guère et traic-<lb/>
+tés des quels le dict sieur <lb/>
+residente</hi><ptr target="#tn29" n="29"/> <hi rend="decoded">Suriano les a faic-<lb/>
+t</hi><ptr target="#tn30" n="30"/> <hi rend="decoded">et done fort particulierement</hi><ptr target="#tn31" n="31"/> <hi rend="decoded"><lb/>
+part faict. <lb/>
+</hi></p>
+<pb n="157v" facs="05_157v" rend="270"/>
+<p>1 </p>
+<p>nelle prime </p>
+<pb n="158r" facs="05_158r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="158v" facs="05_158v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="V" n="049" corresp="045" source="155r-156v" >
+<div type="main" facs="main text of attachment V" n="049" corresp="045" >
+<!--<p>Allegato V al n. 45 (cc. 155r-156v)</p>-->
+<pb n="155r" facs="05_155r" rend="0"/>
+<head>main text of attachment V</head>
+<p>In lettere prime dell’Haya de’ 4 <lb/>
+decembre 1617 </p>
+<p>Articoli in costanza<ptr target="#tn32" n="32"/> della alleanza tra li signori <lb/>
+Stati, et le cità anziatiche<ptr target="#tn33" n="33"/> </p>
+<p>1. Tale accordo non servirà per offendere alcuno; <lb/>
+ma solo per la franchigia et commertio <lb/>
+del mare et a quelli che facessero torto ad <lb/>
+alcuni del acordo sarà da tutti li altri oppo-<lb/>
+sto. </p>
+<p>2. Per il detto accordo non s’intende rompersi <lb/>
+alcune aleanze amicitia con l’imperatore re <lb/>
+di Francia et Inghilterra et l’altri principi <lb/>
+tutti<ptr target="#tn34" n="34"/> doveranno restar sotto li suoi supe-<lb/>
+riori et sotto le sue leggi come erano prima <lb/>
+nel detto acordo. </p>
+<p>3. Sarà fermato l’osservanza del detto acordo col <lb/>
+giuramento delle parti. </p>
+<p>4. Quando se traterà alcuna cosa attinente al <lb/>
+detto accordo overo di quello che ne dipende <lb/>
+starà una delle cità ansiatiche nel Haia <lb/>
+overo dove saranno li signori Stati Generali; <lb/>
+et uno de’ Stati Generali o Lubecha per trate-<lb/>
+ner così unitamente delle cose ocorenti. </p>
+<p>5. Quelle che da cadauno deve essere contribuito <lb/>
+in virtù l’accordo deve esser tenuto pronto et <lb/>
+alle spese di quello che deve dare doverà <lb/>
+esser remesso nelli luoghi dove sarà detto che <lb/>
+possa esser il bisognio. </p>
+<pb n="155v" facs="05_155v" rend="0"/>
+<p>6. Quelli che receveranno alcuni danni in contrario <lb/>
+del detto accordo da qualche una delle parte <lb/>
+tutti li altri se uniranno contra il danegiato-<lb/>
+re sopra il quale si procurarà la ripara-<lb/>
+tione. </p>
+<p>7. Quando li borghesi di alcuni de l’una et de l’<lb/>
+altra dalle<ptr target="#tn35" n="35"/> parte metterà le mani alle <lb/>
+armi doveranno dette parti prohibir apena <lb/>
+della vita a cadouno con perdita dalli beni non <lb/>
+assister in maniera alcuna alla parte <lb/>
+aversa. </p>
+<p>8. Se li beni overo navi di alcuni del accordo fusse, <lb/>
+20 arrestati nel Paese de’ alcuni arrestaranno <lb/>
+anco quelli del accordo li beni di quelli nelle <lb/>
+loro terre et difenderanno il suo. </p>
+<p>9. Quelli del accordo usaranno porti flussi aque <lb/>
+delle altre pacifice accomodaranno le loro nave <lb/>
+et faranno le provesioni necessarii pagando, <lb/>
+et con rendimento de gratie. </p>
+<p>10. Quelli del accordo saranno tratati da borghesi <lb/>
+da tutti li confederati et sucederanno nella <lb/>
+heredità senza refiuto salva il trentesimo <lb/>
+et decimo denaro di uscite secondo che ordi-<lb/>
+nariamente si pratica; il tutto senza contese <lb/>
+de religione. </p>
+<p>11. Niuno del accordo poterà accordar con le parte <lb/>
+adverse o tratar cosa, che possa esser de <lb/>
+danno ali altri ma di più procurar che la <lb/>
+pacie se conservi nel comune. </p>
+<pb n="156r" facs="05_156r" rend="0"/>
+<p>12. Quando si volesse far operare o pace o treva con le <lb/>
+parte adeverse non poterà ciò esequirsi senza <lb/>
+la comune volontà. </p>
+<p>13. Durarà questo accordo per dodici anni et a <lb/>
+piacier delle parte sarà rinovato per <lb/>
+più, et perciò in conformità de questo accordo <lb/>
+se una parte fusse danegiata o per mare <lb/>
+o per terra in qualche accordo stabelito sarà <lb/>
+portato al uno et al altro fidele asistenza <lb/>
+contra che si sia. </p>
+<p>14. Poteranno essere riceuti altri potentati et cità <lb/>
+in questo accordo per voti comuni et conditi-<lb/>
+oni ragionevoli. </p>
+<p>15. Li signori Stati contribuiranno cento tutte le <lb/>
+volte che Lubec cinque et mezo Bremen uno et mezo Rostoc et Italusmid Medelburgh<ptr target="#tn36" n="36"/> dai doi<ptr target="#tn37" n="37"/> per <lb/>
+sei anni seguenti solamente uno et allora <lb/>
+Wiemer Criesvelt uno e mezo. </p>
+<pb n="156v" facs="05_156v" rend="270"/>
+<p>Articoli colle città <lb/>
+ansiatiche </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "si … di queste Provincie" decoding of the encrypted text can be found on c. 145r-v.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "havendo" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "li … di suo servitio" decoding of the encrypted text can be found on cc. 145v-147r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "m" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> There is a hole in the page.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Copia … part faict" is encrypted and has not been deciphered by the secretary.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "p-" corrected above "po (z4" corrected above "b4)."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "z" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "in-" corrected above "i- (g56" corrected above "z2)."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Precedes "su" crossed out ("b45" crossed out).</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-ra-" is the result of a correction ("b42)."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "de" crossed out ("m32)."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "z" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "an-" is the result of a correction ("m17, -7" is the result of a correction).</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "b" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Is the result of a correction.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "re-" corrected above "ro- (b32" corrected above "b34)."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "le-" corrected above "lu- (g42" corrected above "g45)."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "le-" corrected above "lu- (g42" corrected above "g45)."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "re-" corrected above "se- (b32" corrected above "b42)."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Is the result of a correction.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "-me-" corrected above "-re- (g52" corrected above "b32)."</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Precedes "et;" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "M-" is the result of a correction.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

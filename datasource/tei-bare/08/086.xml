@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.086 date 1620-02-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">086</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 459r-462v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp156-173
+            </note>
+            <biblScope unit="page">459r-462v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Bertholt van Sterckenburch has arrived to request help from States General to princes of the union. The States have not yet taken a decision due to the inaction of James I. News from Langerack that Louis XIII will assist the emperor causes consernation, but Pasini has written from Brussels that it is not true. troop levies of catholic german princes are near Frankfurt, fear for conflict with princes of union. News that scribani has preached in Antwerp to raise contributions for the troops, something that will be repeated in other cities. Maurice inquires whether Venitians are disarming, news that Ossuna is leaving the Naepolitan government. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-02-04">4 febbraio 1620</date>
+            <num>144</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="144">
+<div type="main" facs="main text of letter" n="144">
+<!--<p>4 febbraio 1620, L’Aia (cc. 459r-462v)</p>-->
+<pb n="459r" facs="08_459r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 177<ptr target="#tn1" n="1"/> comincia 175 </p>
+<p>Serenissimo Principe </p>
+<p>il Sterchemburgh, che fu già capitan delle guarde del <lb/>
+signor principe Mauritio, hora sargente maggior in un reggimento <lb/>
+di cavallaria al servitio de’ principi dell’Unione, è capitato <lb/>
+qui ultimamente; et solecita con molto studio non tanto <lb/>
+l’assistenza, che per aleanza è debita da questi signori <lb/>
+a detti principi; ma ancor maggior aiuti. Sopra che <lb/>
+non si sano ancor risolver, perché vorrebbono pur <lb/>
+sentir la risolutione del Re d’Inghilterra che non solo <lb/>
+non viene, ma stano anco in dubio, che o non segua, <lb/>
+o sia tarda, et forse fuor del bisogno: et hieri mi <lb/>
+disse il signor principe Mauritio, che teneva per ferma <lb/>
+la sua vecchia opinione, che ’l Re non haverebbe <lb/>
+fatta cosa buona; et dal parlar suo ho chiaramente <lb/>
+compreso, che solecita, et fa quanto può con li signori <lb/>
+Stati perché non tardino più a risolversi: et credo <lb/>
+certo che lo faranno a fine di non esser astretti <lb/>
+et dal tempo, et dalla necessità, avanzandosi ogni <lb/>
+dì la stagione. </p>
+<p>Capitò qui ultimamente uno spedito da monsignor di Langarach <lb/>
+con avviso a questi signori che il Re christianissimo haverebbe <lb/>
+data assistenza all’Imperatore. Parla di bocca del signor <lb/>
+principe di Condé, et del Gran Cancelliere. Questo
+<pb n="459v" facs="08_459v" rend="0"/>
+avviso ha turbato l’animo di questi signori, et publicato, <lb/>
+viene sostentato da questo Ambasciator francese esser altrimenti, <lb/>
+et quelli anco della Natione aiutano l’Ambasciatore a dir <lb/>
+che sua Maestà christianissima non assisterà tanto anco in <lb/>
+Brusseles fa quel Ministro francese, et il Pasini <lb/>
+mi avvisa correr voci certe in conformità, che non <lb/>
+assisterà: non vengono però dalla bocca de’ Spagnoli <lb/>
+che o per avantaggiarsi, o perché tale sia in effetto <lb/>
+la risolutione sostentano il contrario. Il signor principe <lb/>
+Mauritio non crede a ciò che dice qui monsignor di Maurier, <lb/>
+et li Francesi; ma teme che la Francia habbi a <lb/>
+soccorrer; et quando lo farà vi è opinione in alcuni <lb/>
+che per coprire si valerà del pretesto della religione. </p>
+<p>Si trovavano ultimamente le truppe levate nel ligiese<ptr target="#tn2" n="2"/> <lb/>
+quello di Colonia, et altri stati del serenissimo Elettore <lb/>
+destinata per Baviera, nei circonvicini di Francfort, <lb/>
+non senza timore d’esser assalite dalle armi de’ <lb/>
+principi dell’Unione, le quali si è havuto avviso <lb/>
+che marchiavano col canone sotto la condotta del <lb/>
+marchese d’Anspach per impedir il transito <lb/>
+del Reno verso Magonza alle dette truppe; <lb/>
+se sarà vero se ne doverà intender ben presto qualche
+<pb n="460r" facs="08_460r" rend="0"/>
+nuova; l’avviso della mossa del detto marchese di <lb/>
+Hanspach viene scritto per vero. </p>
+<p>Doveva partir di Brusseles verso Wisburgh il cancellier <lb/>
+di Brabante Pecchius per assister a nome dei serenissimi <lb/>
+arciduchi per li 16 di questo alla Dieta de’ principi <lb/>
+catholici dell’Imperio; ove tratteranno sopra li presenti <lb/>
+affari, et anco risolveranno quello che doverà <lb/>
+contribuirsi per servitio della guerra. </p>
+<p>L’opinione del signor principe di Oranges è, che habbino detti <lb/>
+principi, o per meglio dir l’Imperatore ai Spagnoli per <lb/>
+consequente a far una divisione in terzo delle loro <lb/>
+forze. Uno per gettarsi nel Palatinato, l’altro <lb/>
+in quello di Bohemia, et per terzo formar un <lb/>
+buon corpo di militia dalla parte di qua rinforzato <lb/>
+tanto nelle Provincie suddite a serenissimi arciduchi, <lb/>
+quanto nelle piazze sopra il Reno ne’ confini <lb/>
+delli stati di Giuliers, et Cleves per metter <lb/>
+freno all’armi di questi signori perché non solo non <lb/>
+ne esca alcuna parte, ma siano necessitati <lb/>
+ad entrar in maggior spesa con nuove levate per <lb/>
+rinforzo, et così far diversione d’aiuti tanto <lb/>
+di genti, che di denari. Ma crolò l’Eccellenza sua il capo
+<pb n="460v" facs="08_460v" rend="0"/>
+et sorrise alquanto; non lasciò però di dire, che bisogna-<lb/>
+va guardarsi da Spagnoli perché la finezza delle loro <lb/>
+pratiche è troppo grande. </p>
+<p>Disse l’Eccellenza sua haver penetrato che delle truppe di qua haverebbe <lb/>
+havuta cura lo Spinola, che rinforzato di genti di <lb/>
+nuove levate, et di quelle che forse haverà dalla Spagna <lb/>
+lascierà formar qualche reggimento de’ vecchi soldati <lb/>
+per Alemagna. Si parla per gl’avvisi, che ricevo dal <lb/>
+Pasini, che conformano con quelli, che hanno li signori Stati <lb/>
+di far tre reggimenti; ma ancor non si tocca tamburo <lb/>
+si crede che vi sarà difficoltà nella levata. Il conte <lb/>
+Gio. di Nassau aspetta a Brusseles per far<ptr target="#tn3" n="3"/> <lb/>
+cinquecento cavalli, et qualche infanteria per rin-<lb/>
+forzar il suo reggimento; ma si è lasciato intender <lb/>
+con qualcheduno che correndo così miseramente il denaro <lb/>
+per pagar la soldatesca haverebbe volontieri più <lb/>
+tosto lasciato di più tornar in Alemagna. </p>
+<p>Sono stati avvisati questi signori, et io ancora ho qualche <lb/>
+cosa in questo particolare, che ’l padre scribano <lb/>
+jesuita habbi predicata in Anversa una crucciata, <lb/>
+essortando i popoli ad assister in questa guerra di Alemagna, ove si tratta di sostener in piedi
+<pb n="461r" facs="08_461r" rend="0"/>
+la religione catholica, usando molti<ptr target="#tn4" n="4"/> concetti pieni, et confor-<lb/>
+mi all’intentione di far condescender le genti ad una <lb/>
+universal contributione. Poi di casa in casa è andato <lb/>
+facendo sottoscriver l’aiuto: onde chi s’è esshibito di <lb/>
+mantener del proprio chi dieci, chi dua, chi quattro <lb/>
+chi quindeci soldati, chi più chi meno: se l’essecutione <lb/>
+sarà così pronta, com’è stata la promessa haverà <lb/>
+fatto assai; fanno a Brusseles gran fondamento sopra <lb/>
+di ciò, et credono, che l’essempio d’Anversa habbi <lb/>
+a servir grandemente per muover l’altre città alla stesso; <lb/>
+l’armi contra<ptr target="#tn5" n="5"/> Bohemi<ptr target="#tn6" n="6"/> tiene per fermo sua Eccellenza che <lb/>
+non saranno commandate da altri, che dal conte di <lb/>
+Buquoi; et se risolverà l’Unione catholica che <lb/>
+si gettino qualche reggimenti nel Palatinato <lb/>
+che la n’habbi ad haver la cura il duca di <lb/>
+Lorena, che ne sarà però conduttore il conte di <lb/>
+Vademont: qui ancor non si sano metter ad <lb/>
+affermare, che ’l duca di Parma habbi ad <lb/>
+haver il generalato dell’armi in servitio dell’Imperatore <lb/>
+per la mala volontà, che Spagnoli hanno sempre havuta, <lb/>
+et per l’invidia loro<ptr target="#tn7" n="7"/> contra la Natione italiana. </p>
+<p>Mentre si parla di assistenza da questa parte (per la
+<pb n="461v" facs="08_461v" rend="0"/>
+volontà che ne hanno) vanno anco discorrendo delli <lb/>
+aiuti, che vostra Serenità potrebbe contribuir per servitio de’ <lb/>
+Bohemi; et mi fu addimandato hieri in passando <lb/>
+dal signor principe Mauritio se vostra Serenità haveva disarmato <lb/>
+io dissi, che non, et che non tenevo che lo facesse sì <lb/>
+tosto mentre non si può prometter alcun buon effetto <lb/>
+dell’intentione de’ Spagnoli. Mi replicò hora la serenissima <lb/>
+Republica sarà libera da suspetti colla partenza dal governo <lb/>
+di Napoli del duca di Ussuna. Tale è l’avviso <lb/>
+qui, che sia stato richiamato alla corte, et viene anco confirmato a me questo tanto di Brusseles; <lb/>
+ma<ptr target="#tn8" n="8"/> vostra Serenità l’haverà più sicuro dal proprio luoco. Gratie etc. </p>
+<p>Dall’Haya li 4 febraro 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="462r" facs="08_462r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="462v" facs="08_462v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> <lb/>
+n° 177 comincia <lb/>
+175 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="144">
+<!--
+<p n="462vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 febraro 1619 ricevute a’ 19 detto </p>
+<p>Haya. n° 177 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Segue in depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue cinq depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i corretto su -e."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "con- corretto su di, -tra aggiunto."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-a depennata."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

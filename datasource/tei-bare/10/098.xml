@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.098 date 1622-02-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">098</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 514r-515v, 518r-519v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">514r-515v, 518r-519v, 516r-517v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Solmn entry of Spinola in Brussels after taking Jülich and idea that the next season they will attempt something on Sluis. The States are worried about the strained relationship between France and England related to events at La Rochelle. Dutch ambassadors in England have little hope to negotiate successfully with the king on matters of the East India trade. The Admiralty of Amsterdam is again requesting payment by Venice for ships sent few years earlier. Ends letter with pleas for payment of his salary (which had not been paid for a few months now) and reiterates he is living in a miserable state and has served the Republic loyally for more than 20 years. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-02-21">21 febbraio 1622</date>
+            <num>163, 164</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="163">
+<div type="main" facs="main text of letter" n="163">
+<!--<p>21 febbraio 1622, L’Aia (cc. 514r-515v, 518r-519v)</p>-->
+<pb n="514r" facs="10_514r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 271 comincia 270 </p>
+<p>Serenissimo Principe </p>
+<p>con pompa, et solenne incontro è stato ricevuto in Brusseles <lb/>
+il signor marchese Spinola tornato dalla presa di Giuliers. <lb/>
+Giovedì passato doveva andar in Fiandra a veder l’ope-<lb/>
+re fatte far da don Inico Bogia castellano d’Anversa <lb/>
+vicino al porto dell’Esclusa, rimediar ai mancamenti, <lb/>
+et dar ordini proprii; et necessarii per vantaggiar li <lb/>
+disegni, che Spagnuoli hanno in quella parte della <lb/>
+Fiandra; dicendosi per certo, che per la prossima <lb/>
+estate pensino all’impresa dell’Esclusa in Fiandra, <lb/>
+et dalla parte dei stati di Giuliers a farsi patroni <lb/>
+di Meurs, contea di propria giuriditione del signor principe <lb/>
+d’Oranges; et della piazza di Papemuts. Et questa <lb/>
+in particolare sono alcuni che consigliano, che doverebbe <lb/>
+smantellarsi, mentre possono li signori Stati esser sicuri, <lb/>
+che finalmente doverebbe cader in mano dei Spagnuoli. </p>
+<p>Questa perdita dei signori Stati, et il possesso, che essi Spagnuoli have-<lb/>
+rebbono di quel posto<ptr target="#tn1" n="1"/> è risentito grandemente <lb/>
+per quanto si scuopre, et se ne dichiara qui l’agente <lb/>
+dell’arcivescovo di Colonia dalla medesima Altezza, et da quei citta-<lb/>
+dini per la brida, che Spagnuoli con detto forte <lb/>
+metterebbono a quella città. Alcuni sono ben impressi <lb/>
+della ragione; ma ancor la cosa sta indipendente. </p>
+<p>Vanno questi signori consultando la maniera<ptr target="#tn2" n="2"/> del dar soccorsi
+<pb n="514v" facs="10_514v" rend="0"/>
+esterni per far l maggior diversione che potranno, et per <lb/>
+tenir più occupate, che sarà possibile l’armi spagnuole <lb/>
+lontane da questi paesi; et principalmente hanno con lettere <lb/>
+et ufficii solicitate le terre franche, et qualche princicipi <lb/>
+più ben intentionati nell’Alemagna a nuova unione <lb/>
+et perché veggono, che l’effetto di questa non può riuscir <lb/>
+bene senza la conservatione dell’armi del conte di <lb/>
+Mansfelt mirano a quel mantenimento <hi rend="decoded">necessario</hi><ptr target="#tn3" n="3"/> <hi rend="decoded"><lb/>
+di pensar all’introdurvi anco Spagnuoli <lb/>
+per</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">il soccorso da lei promesso, et offerto, hanno <lb/>
+già accordato, che Calandrini, et compagni <lb/>
+uniti con Gio. di Vala, pur mercante in <lb/>
+Amsterdam haveranno a ricever il denaro <lb/>
+ma il Vale</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">ha cesso agli altri; hora <lb/>
+li sta aspettando di ritorno da Amsterdam <lb/>
+esso Calandrini per far il dispaccio, et si <lb/>
+pensa di ispedir espressamente forse il <lb/>
+medesimo a quella volta; di quello seguirà, ne darò riverente</hi><ptr target="#tn6" n="6"/> <hi rend="decoded">conto alla <lb/>
+Serenità vostra. <lb/>
+</hi></p>
+<pb n="515r" facs="10_515r" rend="0"/>
+<p>Sono qui capitati avvisi, che Spagnuoli habbino di nuovo publi-<lb/>
+cati intendersi confiscati tutti li beni, et mercantie de’ <lb/>
+sudditi, et marinari di questi paesi; et libertà a chi si <lb/>
+sia che vogli intraprender di andar in corso contro Ho-<lb/>
+landesi et altri di queste Provincie Unite, promettendoli <lb/>
+sicurtà di porto, et libero accesso<ptr target="#tn7" n="7"/> per la vendita de’ <lb/>
+beni, che predassero. Di più hanno essi Spagnoli <lb/>
+fatto intender a quelli di Amburgh, di Brem, et di <lb/>
+qualche altre delle città maritime, che se saranno <lb/>
+trovati navigar con vasselli fatti in questi paesi, <lb/>
+et non nei proprii squeri delle loro città saranno <lb/>
+trattati come nemici. A tal conditione anco dichia-<lb/>
+rano, che saranno sottoposti quelli di Embdem <lb/>
+non tanto per li vasselli; quanto anco per constrin-<lb/>
+gerli a cacciar dalla loro città la guarnigione che <lb/>
+vi è di questi signori Stati. Et l’Eccellenze loro ben si aveg-<lb/>
+gono quanto alla prohibitione de’ vasselli, che questo <lb/>
+mira a voler levarli l’opera, il comercio, et all’<lb/>
+impoverirli. Queste nuove angustiano assai <lb/>
+questi signori, ma non si perdono punto d’animo, anzi <lb/>
+vigorosamente caminano avanti nelle consultationi per <lb/>
+trovar maniera di opporsi ai disegni dell’inimico, <lb/>
+et al pensar di far augumenti proprii alle loro militie
+<pb n="515v" facs="10_515v" rend="0"/>
+per formar una buona difesa. </p>
+<p>Preme grandemente all’universale di questa Republica il vedersi in così <lb/>
+poco buona corrispondenza con la Francia, et con l’Inghilterra <lb/>
+né sano veder ripiego così pronto per gl’interessi, et per <lb/>
+gl’accidenti, che caminano a loro pregiudicio nelli doi <lb/>
+Regni. Et questo Ambasciator francese non lascia di compian-<lb/>
+gersi del fomento, che sotto mano dano qui ai deputati <lb/>
+della Rocella; vorrebbono alcuni, che fossero cacciati <lb/>
+altri troppo zelanti della religione. Sostentano non <lb/>
+dover lasciarsi opprimer gl’ugonotti di Francia, et <lb/>
+quelli che amano questo Stato, la sua conservatione, <lb/>
+et il riconciliar con la corona di Francia consigliano <lb/>
+a divertir tutto quel di mal contento, che possono <lb/>
+apportar al Re christianissimo, et a quella corte. </p>
+<p>Gl’ambasciatori che sono in Inghilterra mostrano<ptr target="#tn8" n="8"/> nelle loro lettere <lb/>
+haver poca speranza di buon successo alle<ptr target="#tn9" n="9"/> sue nego-<lb/>
+tiationi; et perché li doi vasselli, che venivano <lb/>
+dall’Indie Orientali per li cattivi, et contrarii venti <lb/>
+non hanno potuto pigliar porto in Zelanda restano <lb/>
+ancora a vista di Plemua in Inghilterra con dubio <lb/>
+anco che possino esser stati arrestati di ordine <lb/>
+del re della Gran Bertagna a favor dei sudditi <lb/>
+della Maestà sua<ptr target="#tn10" n="10"/> della Compagnia<ptr target="#tn11" n="11"/> dell’Indie sudette; già
+<pb n="518r" facs="10_518r" rend="0"/>
+sapendosi, che ne ha dato l’arresto. Quelli della <lb/>
+Compagnia di qua hanno ispedito deputati alli signori <lb/>
+Stati per haver soccorso di navi tanto per la sicurezza <lb/>
+delli sudetti doi vasselli, come di altri doi, che si <lb/>
+aspettano dalle medesime Indie partiti doi dettimane doppo <lb/>
+li primi. </p>
+<p>Qui si trovano alcuni capitani di nave da guerra venuti <lb/>
+per ricever patenti per andar a dar cambio alle navi <lb/>
+che si trovano alla guardie<ptr target="#tn12" n="12"/> delli porti di Fiandra. </p>
+<p>Quelli di Doncherchen hanno gettato a fondo<ptr target="#tn13" n="13"/> ultimamente <lb/>
+alcuni vasselli de pescatori di questi paesi, et<ptr target="#tn14" n="14"/> presi<ptr target="#tn15" n="15"/> <lb/>
+anco qualche piccioli vasseleti; come da questi di <lb/>
+qua non<ptr target="#tn16" n="16"/> si manca di far lo stesso per tutto quello, <lb/>
+che rancontrano di ragion de’ Spagnuoli. </p>
+<p>Sono avvisato di Brusseles, che oltre il reggimento che <lb/>
+si deve levare dal principe di Brabanson, et quello <lb/>
+de’ Scocesi, et Inglesi, sia stato dichiarito per mastro di <lb/>
+campo il baron di Bouves borgognone per far tremilla <lb/>
+per quei Stati sia di doi millioni, et trecentomilla <lb/>
+scudi; et che presto si doveva aspettar li ordini <lb/>
+a’ mercanti in Anversa per li pagamenti. </p>
+<p>Si publicano anco in Brusseles con alteratione grande
+<pb n="518v" facs="10_518v" rend="0"/>
+le attioni del vescovo di Alberstat<ptr target="#tn17" n="17"/> duca di Bransvich <lb/>
+che in effetto anco qui sono state portate per essorbitanti <lb/>
+con dispiacer incredibile delli signori Stati, et di sua Eccellenza <lb/>
+al cui Vescovo<ptr target="#tn18" n="18"/> è stato scritto con parole grandi <lb/>
+di amonitione. </p>
+<p>L’ambasciator di Spagna marchese di Bellamar residente appresso <lb/>
+la serenissima Infanta ha la settimana passata presi li primi <lb/>
+ordini, et messosi in habito clericale per aspettar da <lb/>
+Roma a suo tempo la beretta di cardinale. </p>
+<p>Non lasciarò di dire, che questi ultimi giorni passati quelli <lb/>
+dell’amiralità di Amsterdam sono comparsi nanti li signori <lb/>
+Stati per haver ragione sopra la pretensione di vinti <lb/>
+milla<ptr target="#tn19" n="19"/> fiorini, che dicono doverseli, non ostante<ptr target="#tn20" n="20"/> <lb/>
+che vostra Serenità<ptr target="#tn21" n="21"/> habbi fatto qualche esborso all’armata. <lb/>
+Io fui chiamato dai deputati sopra questo negotio <lb/>
+esposi le ragioni di lei, et mi fermai nel punto, che <lb/>
+non doveva la Serenità vostra esser sottoposta a doppio pagamento <lb/>
+et essi dell’Amiralità sostentando, che quanto<ptr target="#tn22" n="22"/> havevano <lb/>
+pagato eta stato per obligo di promessa a quelli che <lb/>
+hanno forniti li viveri nelle cinque navi della loro <lb/>
+ripartitione, et prima di saper, che vostra Serenità havesse <lb/>
+pagata alcuna cosa. Il negotio è restato sospeso, <lb/>
+senza che li signori Stati habbino<ptr target="#tn23" n="23"/> in esso ancor
+<pb n="519r" facs="10_519r" rend="0"/>
+deliberata alcuna cosa. Starò avvertito; né mancarò <lb/>
+ad ogni mio potere di sostener l’attione. </p>
+<p>Non posso far di meno serenissimo Principe spinto dal bisogno, et <lb/>
+forzato dalla necessità, alle quali sin qui ho fatta <lb/>
+[…]stenza<ptr target="#tn24" n="24"/> di non compianger con ogni humil riverenza <lb/>
+alla Serenità vostra l’afflittione dell’animo mio per trovarmi <lb/>
+da molti mesi in qua senza l’ordinario sussidio, che mi <lb/>
+deve venir da lei per mantenermi in questa residenza <lb/>
+la rata di luglio, et quella di decembre fino a’ 28 <lb/>
+del mese passato non erano state pagate<ptr target="#tn25" n="25"/> al mio <lb/>
+agente; et siamo vicini a quella di marzo. Ognuna<ptr target="#tn26" n="26"/> <lb/>
+delle Signorie vostre eccellentissime sa molto bene, che non ho niuna <lb/>
+cosa al mondo, che quel solo, che mi proviene dalla <lb/>
+publica munificenza; le supplico per tanto dar ordine <lb/>
+perché possi haver il pronto pagamento a fine di po-<lb/>
+termi levar dai debiti, che sono stato necessitato fare <lb/>
+per mantener la mia famiglia, et più la pubblica riputatione. </p>
+<p>Sono passati doi anni, et più, che fui gratiato di un aiuto <lb/>
+di costà, né altro ho havuto doppo, né per l’absenza <lb/>
+mia ho potuto avantaggiar li miei interessi. Sono passati <lb/>
+vinti anni che la servo, et sette già arrivano doppo la <lb/>
+mia ultima uscita di Venetia, havendone spesi quasi sei <lb/>
+in questi paesi, non dubito, che ’l tutto sarà messo in considera-<lb/>
+tione dalla pietà dell’Eccellenze vostre illustrissime alle<ptr target="#tn27" n="27"/> quali humilmente m’inchino. Gratie etc. </p>
+<p>Dall’Haya li 21 febraro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="519v" facs="10_519v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 371 comincia 370<ptr target="#tn28" n="28"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="163">
+<!--
+<p n="519vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 febraro 1622<ptr target="#tn29" n="29"/> ricevute a’ 17 marzo </p>
+<p>Del segretario Surian. n° 371. 2<hi rend="superscript">da</hi> </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="164" corresp="163" source="516r-517v" >
+<div type="main" facs="main text of attachment I" n="164" corresp="163" >
+<!--<p>Allegato I al n. 163 (cc. 516r-517v; decodifica di c. 514v)</p>-->
+<pb n="516r" facs="10_516r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="516v" facs="10_516v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="517r" facs="10_517r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="517v" facs="10_517v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by deleted words.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "necessario … Spagnuoli |" added above the deleted encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "per … alla | Serenità vostra" decoding of the encrypted text can be found on c. 516r; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-ren-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Seconda -s-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "po" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-o" corrected above "-i", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "e-" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by "la" crossed out.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-bb-" is the result of a correction.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Gap in the inner magrin of the page.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "pe" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "O-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Seal and traces of seals"</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-2" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

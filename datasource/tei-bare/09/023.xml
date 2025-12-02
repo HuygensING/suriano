@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.023 date 1620-05-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 100r-101v, 108r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">100r-101v, 108r-v, 102r-103v, 104r-107v, 109r-132v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Maurice has decided to travel to Gelre and he will be away for 3-4 weeks. News that Frederick V has had a son. Enclosed he send a list of captains of cavalry and infantry of the levies in archducal Netherlands. Another deputee has travelled to Lübeck and Staden to assist with Denmark. He encloses the translation of a text on the Grison to Venice for their curiosity. Four different documents attached: the list of cavalier and infantry to find in Brabant, translation of the text on the Grisons (presumably a copy of USTC 4041857?) and two printed pamphlets (USTC 2070555 and 1034295/6014362)</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-05-19">19 maggio 1620</date>
+            <num>031, 032, 033, 034</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="031">
+<div type="main" facs="main text of letter" n="031">
+<!--<p>19 maggio 1620, L’Aia (cc. 100r-101v, 108r-v)</p>-->
+<pb n="100r" facs="09_100r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 205 comincia <lb/>
+204 </p>
+<p>Serenissimo Principe </p>
+<p>essendosi assicurato il signor principe Mauritio, che sole voci <lb/>
+continuavano di levate, et non ancora effetto veruno se non <lb/>
+della nominatione de’ capi risolve di far il viaggio desti-<lb/>
+nato verso Gheldria. Lo<ptr target="#tn1" n="1"/> visitai prima del suo partire, <lb/>
+che mi disse, che sarebbe tornato fra dieci, o dodici gior-<lb/>
+ni; più, et meno, secondo, che havesse portata l’occa-<lb/>
+sione, et la necessità. In tanto non occorrendo cosa di <lb/>
+momento che lo chiami di qua passerà a Rees, ad <lb/>
+Emerich, et venirà in altre piazze frontiere della provincia <lb/>
+di Gheldria, et altre di questi Stati per veder se sono <lb/>
+munite, et se le fortificationi sono state fatte secondo <lb/>
+gl’ordini già dati dall’Eccellenza sua. </p>
+<p>Anderà particolarmente a Breda, ove non è stato doppo la successione <lb/>
+a quella baronia morto il fratello, et parmi di cavare, <lb/>
+che si trattenirà ben fuori tre o quattro settimane. </p>
+<p>Prima del partir suo, che fu giovedì hebbe l’avviso della <lb/>
+dichiarata successione al regno di Bohemia del Principe <lb/>
+nato in Praga al nuovo Re; cosa che le ha appor-<lb/>
+tato sommo contento; et ne restano contenti anco li <lb/>
+signori Stati vedendo che li Bohemi sono risoluti di far <lb/>
+quello che possono per dar ad intender alla casa d’Austria <lb/>
+che resta esclusa anco nelle speranze; et che habbino <lb/>
+così voluto incorraggiar il nuovo Re a mantenersi. </p>
+<p>All’Ambasciator francese uno di questi del governo disse, che non
+<pb n="100v" facs="09_100v" rend="0"/>
+sapeva quello che li ambasciatori di sua Maestà christianissima potessero fare per <lb/>
+agiustar, et trovar accommento alle cose poiché col levar la <lb/>
+corona di capo al re di Bohemia bisognava pensare, che <lb/>
+non poteva seguire, che non venisse anco lo stesso capo, rispose <lb/>
+l’Ambasciatore quando non si possi trovar temperamento il capo resterà <lb/>
+colla Corona; et una tregua sarà l’ultimo refugio a questo <lb/>
+affare godrà l’Imperator della pretensione; et il Re presente <lb/>
+del possesso. Quello che in effetto habbino gl’ambasciatori in com-<lb/>
+missione vostra Serenità lo deve sapere; io ho stimato bene accennar <lb/>
+questo tanto uscito dalla bocca di questo Ministro. </p>
+<p>Mando qui aggiunta la lista, o nome de’ capi, et capitani della <lb/>
+cavallaria, et fanteria, che si doverà levare in Brabant. <lb/>
+Dico doverà levare perché ancor il Pasini non mi avvisa, <lb/>
+che si cominci. Questo solo mi dice con precedenti lettere <lb/>
+che questa nominatione era fatta ma non date patenti né <lb/>
+denari, et con l’ultimo ordinario aggiunge, ch’era stato <lb/>
+spedito corriero in Spagna per affrettar la risolutione, et <lb/>
+solicitar, che quanto prima sia mandato denaro. Ancorché <lb/>
+non habbi il marchese Spinola lasciato di far trattar in <lb/>
+Anversa con li mercanti genovesi, che esborsano la paga <lb/>
+di 130 mila filippi per mese per le militie ordinarie, che hanno <lb/>
+accordato di avanzar una mesata, et dicono, che <lb/>
+con questa compartirà<ptr target="#tn2" n="2"/> tra li capitani; et si comincierà <lb/>
+a dar principio alle levate. </p>
+<pb n="101r" facs="09_101r" rend="0"/>
+<p>Era<ptr target="#tn3" n="3"/> arrivato in Brusseles il birago secretario del marchese <lb/>
+Spinola, che in sei giorni haveva fatto il viaggio partendo <lb/>
+di Milano, ma ancor non si era penetrato quello che portasse. </p>
+<p>Questi signori non si muovono punto stano a sentire, et a veder il successo <lb/>
+per regolarsi secondo l’evento. </p>
+<p>Hoggi parte il terzo deputato verso Lubech, et Stadem sendo <lb/>
+già partiti gl’altri doi solecitati<ptr target="#tn4" n="4"/> questi dal secretario di quei di-<lb/>
+rettori ch’è venuto qui espresso perché questi assistino per <lb/>
+trovar ripiego alla mala intelligenza, che passa tra ’l re di <lb/>
+Danimarca, et quelli d’Hamburgh non tanto per quello che <lb/>
+scrissi in mie lettere de’ 21 del passato, quanto perché il medesimo <lb/>
+Re vedendo frustrata la gabella, che si riscuote per lui <lb/>
+allo stretto del Zont, et intendendo, che ’l marchese <lb/>
+di Brandemburgh fa un taglio di certo fiume, che passerà <lb/>
+in Polonia, et descenderà ad Hamburgh sull’Elba <lb/>
+ha sulla medesima riviera dell’Elba fatte montar tre navi <lb/>
+da guerra ben armate, et pretende là tirar quella <lb/>
+gabella, che altrimenti doveva per necessità havere nel <lb/>
+medesimo stretto del Zont. Dubitano questi deputati <lb/>
+incontrar delle difficoltà assai in accommodar le partite <lb/>
+offesi i popoli<ptr target="#tn5" n="5"/> delle città particolari interessate in <lb/>
+quella giuridittione, et offesa la città d’Amburgh dallo <lb/>
+stesso<ptr target="#tn6" n="6"/> Re con lettere, la quale anco con altre non ha <lb/>
+lasciato di passar li segni contro quella Maestà. </p>
+<pb n="101v" facs="09_101v" rend="0"/>
+<p>Qui aggiunta sarà la traduttione di quella scrittura de’ Grisoni, <lb/>
+che riverentemente notificai esser qui stata data alla stampa, et <lb/>
+poi supressa. L’invio più tosto per abondare per la curiosità <lb/>
+di qualcheduna dell’Eccellenze vostre, che perché non mi assicuri, ch’elle<ptr target="#tn7" n="7"/> <lb/>
+l’haverano<ptr target="#tn8" n="8"/> havuta. Parmi haver incontrato vitio in detta <lb/>
+scrittura per li tempi, poiché monsignor Giffier non fu in Paese <lb/>
+che del 1615; et tuttavia parla come vi fosse del 13 et 14 <lb/>
+ch’era a Turino; ma questo non importa mentre vi sia <lb/>
+la verità del fatto. Gratie etc. </p>
+<p>Dall’Haya li 19 maggio 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="108r" facs="09_108r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="108v" facs="09_108v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n ° 205 comincia <lb/>
+204 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="031">
+<!--
+<p n="108vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 maggio 1620 ricevute 3 giugno </p>
+<p>Haya. n° 205 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="032" corresp="031" source="102r-103v" >
+<div type="main" facs="main text of attachment I" n="032" corresp="031" >
+<!--<p>Allegato I al n. 31 (cc. 102r-103v)</p>-->
+<pb n="102r" facs="09_102r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dall’Haia de’ 19 maggio 1620 n° 205 </p>
+<p>Sua Altezza ha scielti per capi di tre<ptr target="#tn9" n="9"/> truppe cadauna di <lb/>
+500 cavalli corrazzieri. </p>
+<table>
+<row role="label">
+<cell><p>Capo</p></cell>
+<cell><p>Il principe di Pinoe. </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitano Gabriel de Sciateler signor d’Ansermont. </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan A.C. Custine signor d’Afflanie. </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Archibusieri </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Giacomo Carondelet signor de Premeques </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Herman de Gomicourt signor de Heufuilles </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Corrazze </p></cell>
+</row>
+<row>
+<cell><p>Capo</p></cell>
+<cell><p>Conte Gio. di Nassau </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il baron di Raville </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Carlo Dursel<ptr target="#tn10" n="10"/> </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Archibusieri </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Tilburgh </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Christiannal de Medina Montoja </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Corrazzieri </p></cell>
+</row>
+<row>
+<cell><p>Capo</p></cell>
+<cell><p>Il conte d’Isembourgh </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Carlos de Brias signor d’Hermincourt </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Exnaten </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Archibusieri </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il luocotenente Jan Carlos d’Aubermont </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Il capitan Gio. vann Gracht signor de Brehault </p></cell>
+</row>
+</table>
+<pb n="102v" facs="09_102v" rend="0"/>
+<p>Sua Altezza ha scielto per compagnie de’ cavalli borgognoni </p>
+<table>
+<row role="label">
+<cell><p>Il baron di Raiz </p></cell>
+<cell><p>cadaun doicento corrazze </p></cell>
+</row>
+<row>
+<cell><p>Il baron de Scey </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il baron de Dissey </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il signor di Scieron </p></cell>
+<cell><p>cadaun cento archibusieri </p></cell>
+</row>
+<row>
+<cell><p>Il baron di Monclez </p></cell>
+<cell></cell>
+</row>
+</table>
+<p>Sua Altezza ha eletto per capitani de’ cavalli corrazzieri </p>
+<table>
+<row role="label">
+<cell><p>Il principe di Barbanson</p></cell>
+<cell><p>200 </p></cell>
+</row>
+<row>
+<cell><p>Il baron di Billy</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il capitan don Jan de Verdugo</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Valentin de Guernoval baron d’Escleveque</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Mauritio de Haneskerque signor de Bugny</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il signor d’Obigni</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il conte Disengien</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Monsignor de Courriers</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Emanuel de Borgogna signor de Lembeque</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il signor di Leumbre</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Kerckez</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il luocotenente Steelant</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Fransuoes</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Archibusieri </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il capitan Gio. Christiannal de Scherrich</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Jan Perren Barron</p></cell>
+<cell><p>100 </p></cell>
+</row>
+<row>
+<cell><p>Il luocotenente Pedro Heredia</p></cell>
+<cell><p>100 </p></cell>
+</row>
+</table>
+<pb n="103r" facs="09_103r" rend="0"/>
+<p>Per riempir il terzo del Baron de Balancon<ptr target="#tn11" n="11"/> S. A. <lb/>
+ha eletto per capitani </p>
+<table>
+<row role="label">
+<cell><p>Il baron de Poitiers </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Hugues Serrenot </p></cell>
+</row>
+<row>
+<cell><p>Il capitan Jan Marchisat </p></cell>
+</row>
+<row>
+<cell><p>L’alfier Ronchault </p></cell>
+</row>
+<row>
+<cell><p>L’aiutante Gio. De Ville </p></cell>
+</row>
+<row>
+<cell><p>L’alfier Arboan </p></cell>
+</row>
+<row>
+<cell><p>L’alfier Cambarot </p></cell>
+</row>
+</table>
+<p>Quattro compagnie libere valone fuori del <lb/>
+reggimento 2400 in tutto. </p>
+<table>
+<row role="label">
+<cell><p>Il capitan Souhaye </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il capitan Maude<ptr target="#tn12" n="12"/> </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il capitan Gabriel Fiche </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il capitan Barrè </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Il duca d’Arriscot </p></cell>
+<cell><p>cadauno un reggimento di <lb/>
+Alemani di 3000 soldati </p></cell>
+</row>
+<row>
+<cell><p>Il colonel Baur </p></cell>
+<cell></cell>
+</row>
+</table>
+<pb n="103v" facs="09_103v" rend="270"/>
+<p>Capi della cavallaria et <lb/>
+infanteria da <lb/>
+cercarsi in Brabant </p>
+<p>nel n° 205<ptr target="#tn13" n="13"/> </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="033" corresp="031" source="104r-107v" >
+<div type="main" facs="main text of attachment II" n="033" corresp="031" >
+<!--<p>Allegato II al n. 31 (cc. 104r-107v)</p>-->
+<pb n="104r" facs="09_104r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Volere dell’Haya de’ 19 maggio 1620 n° 205 </p>
+<p>Ragioni, et considerationi per le quali le tre communi leghe dell’alta, et antica Retia <lb/>
+si sono mosse a non permetter, che più risiedano gl’ambasciatori di<ptr target="#tn14" n="14"/> alcun principe, et signori stranieri nelle <lb/>
+loro terre et giuridittioni. </p>
+<p>Havendo l’omnipotente Iddio in questi ultimi secoli fatto rilucer il suo Evangelo nella più <lb/>
+gran parte dell’Europa s’è compiacciuta la divina Maestà sua gettar insieme gl’occhi della <lb/>
+sua clemenza sopra l’alte Alpi della Retia, illuminar gl’habitanti in essa, et doppo <lb/>
+haverli dotati di libertà, ivi s’è stabilita una Chiesa. Consistendo la sovranità, et alta <lb/>
+potenza nel commun popolo, che di propria auttorità può trattar, et retrattar aleanze, far <lb/>
+pace, et guerra, ordinar, et abolir leggi, et statuti. Ma quanto più questa libertà nostra <lb/>
+è nobile, et pretiosa tanto più il demonio s’è opposto ad essa, havendo generate dissensioni, <lb/>
+et differenze, et caricati tanto gl’ecclesiastici, che i politici de tutte le sorte di calumnie, et mendacii. <lb/>
+Al qual fine non gli sono mancati ogni mezi, et instrumenti per perseguitarci col mezo della <lb/>
+spada, et del fuoco. In che li predecessori nostri si sono assai consolati colla promessa del <lb/>
+nostro salvatore quando disse Io sarò con voi sino alla fin del mondo etc. la qual cosa <lb/>
+hanno parimente esperimentata in effetto allhora, che del tutto si sono trovati disarmati. </p>
+<p>Et perché videro, che la libertà delle doi religioni nel Regno di Francia era in pratica, sperorono <lb/>
+haver sempre dalla medesima Corona un forte appoggio contra la tirania spagnuola. Et quello <lb/>
+poiché li nostri amici, et confederati G. Cantoni di Zurich, et Berna erano anco collegati <lb/>
+con lei, et parimente perché sono stati invitati a questo dai suoi<ptr target="#tn15" n="15"/> Re, così hanno trattato <lb/>
+con questa una perpetua pace, et amicitia sotto diverse capitulationi. Questa aleanza ha <lb/>
+havuto il suo principio con il re Francesco primo l’anno 1516, et confirmata colla Maestà sua l’anno 1521. <lb/>
+Doppo nell’anno 1549 con Henrico secondo, l’anno 1564 con Carlo nono, et finalmente l’anno 1602 con il <lb/>
+re Henrico il Grande. </p>
+<p>Questa aleanza era una forte muraglia contra la nascente tirrania spagnuola; almeno la sua <lb/>
+pratica con tal mezo è stata molte volte impedita, ma lo spirito maligno non ha mancato <lb/>
+di seminarvi fra mezo la zizania, con questo che s’è voluto dar sinistramente ad intender l’attioni <lb/>
+nostre a sua Maestà a fine di render di tal maniera odiose a lei l’attioni nostre. </p>
+<p>Ma chi haverebbe pensato che ’l demonio guadagnasse tanto avanti nel suo disegno, che sino li mi-<lb/>
+nistri di sua Maestà si sono lasciati impiegar in quest’attione? Ciò non ostante qual si sia <lb/>
+c’havrà cognitione c’haverà alcuna conoscenza dello stato nostro, et degl’affari publici <lb/>
+non la metterà in dubio, come anco l’avaritia, et astutia delli ministri di lei. </p>
+<p>La nostra Retia è situata nell’alte Alpi, una chiave dell’Italia, et Alemagna nel ducato di Milano <lb/>
+per il Paese della Val-Telina suddita alla giuriditione de’ Grisoni, che si può traversare in una <lb/>
+giornata sia nelle terre della casa d’Austria. Per dove il re di Spagna nelle gran dissen-<lb/>
+tioni, et presenta nei pericoli del sant’Imperio, non potrebbe haver passo più commodo per <lb/>
+dar soccorso alla casa d’Austria; che altrimenti è ritardato per la Svizzera verso Ale-<lb/>
+magna di sei, o sette giornate. Cadauno nel paese de’ Grisoni può francamente et senza <lb/>
+alcun pericolo far professione dell’una, et l’altra religione: nientedimeno li rifor-<lb/>
+mati fanno il più gran numero. Ma tra li sudditi (che sono quelli del Paese della Val-Telina) <lb/>
+la più gran parte sono catholici. Tuttavia in quello, che non spetta alla religione aderiscono <lb/>
+ai loro magistrati. All’incontro non si può prometter di essi<ptr target="#tn16" n="16"/> alcuna cosa, sendo la loro <lb/>
+superstitione grandissima. Dio però s’è riservato li suoi fra loro. Li quali nondimeno <lb/>
+per la sì prossima vicinanza de’ Spagnuoli, et Milanesi sono in continuo pericolo, come <lb/>
+anco sono stati molte volte attaccati da pericolosissime indutioni per l’indutioni, et pratiche
+<pb n="104v" facs="09_104v" rend="0"/>
+del Papa; ma il buon Dio (che parimente può preservar li suoi nel mezo le fiamme del fuoco) li ha fin <lb/>
+a quest’hora conservati, non ostante che siano così vicini al re di Spagna colli suoi collegati, et <lb/>
+dei cinque cantoni papisti della Svizzera; li quali non cessano di drizzar contro d’essi ogni sorte di <lb/>
+querelose attioni. Ma non possono né saprebbono comportare, che li fideli pastori della Chiesa <lb/>
+parlino tra ’l popolo degl’affari, che toccano allo Stato, meno veder predicato l’Evangelo <lb/>
+ne’ vicini confini d’Italia; che l’ordine de’ iesuiti non vi è introdocto, et che l’indulgenze <lb/>
+né altre simil cose siano in pratica. Il che fino a quest’hora è stato impedito dal buon <lb/>
+zelo dei sudetti ministri della parola di Dio. Intorno a che noi, et altri riformati siamo <lb/>
+stati apertamente et secretamente minacciati d’esser da essi esterminati et per la spada <lb/>
+et per il fuoco, con instanza d’entrar nell’aleanza, o lega spagnuola. A che per tanto <lb/>
+meglio pervenire s’è cominciato da molti anni in qua a far sforzo contro li sopra-<lb/>
+nominati pastori, escluderli da tutti gl’affari concernenti la commune Patria, a fine <lb/>
+di così oscurir anco la verità dell’Evangelio. </p>
+<p>Li precessori nostri dotati da nostro Signore d’una gran prudenza contra tutte tali pratiche, gl’ha data una <lb/>
+legge sinodale da esser inviolabilmente mantenuta cioè che contra le fattioni spagnuole dovranno <lb/>
+essercitar le loro cariche in ogni tempo niente meno sopra il pulpito, che in privato; così col loro essem-<lb/>
+pio l’hanno fidelmente fatto, et nel dì d’hoggi sono seguitati da un numero. Nel che c’è stato <lb/>
+per innanti porta la mano dai re di Francia, come appare per li seguenti essempii. </p>
+<p>Allhora, che ’l forte Fuentes fu drizzato nell’anno 1603 sopra le frontiere de la Valtelina, il re di <lb/>
+Spagna coll’assistenza d’alcuni nostri perfidi, et rebelli ha tentato cautelosamente di sedurci in qualche <lb/>
+punto per haver nel loro potere li passi delle terre nostre, et de’ nostri confini, et per di là <lb/>
+farsi un camino libero, et aperto verso l’Alemagna. A che allhora il signor de Vic ambasciator di Francia <lb/>
+valorosamente s’oppose, et ottenne, che li soprannominati articoli, ancorché proposti per tre volte dalli <lb/>
+Spagnuoli sono stati intieramente reietati. </p>
+<p>L’anno 1607 quando la serenissima signoria di Venetia fu in contesa con la sedia di Roma, et che <lb/>
+li spagnolizati, poiché si trattava di dar il passo a quelli, ch’erano in servitio della Republica <lb/>
+suscitorono con amirabil artificio il povero popolo, col mezo di sinistre imputationi resero <lb/>
+odiosi li fedeli patrioti, cacciorono alcuni in essilio, et procurorono di privar altri di vita, <lb/>
+et de’ beni. Il signor Pasquale s’oppose allhora ad una tal tirania, et ottenne che gl’auttori <lb/>
+furono puniti, et li buoni remessi nel loro stato. Questo felicemente continuò fin l’anno 1610. <lb/>
+Colla morte di Henrico il Grande il<ptr target="#tn17" n="17"/> giuoco si cambiò<ptr target="#tn18" n="18"/>. Perché li ministri di <lb/>
+Francia allhora tentorono di precipitarci in ogni sorte d’inconvenienti. Stante che <lb/>
+il detto Pasquale nel fine del mese di decembre del detto anno cominciò a fomentar le <lb/>
+fattioni spagnuole di che si trovano le proprie lettere di lui. Perché nell’anno 1611 il capitan <lb/>
+Georgio de Georgii s’è incaminato diverse volte di suo commandamento verso Milano per trattar <lb/>
+l’aleanza a nome delle tre leghe senza la conoscenza del commun popolo con il Governator del <lb/>
+ducato di Milano; li principal punti della qual lega erano. Che li passi per le terre delle <lb/>
+tre leghe sarebbono perpetuamente serrati a tutti quelli che porteranno la guerra contra <lb/>
+il re di Spagna; al contrario aperti a tutti quelli, che sarebbono del partito contrario. <lb/>
+Ma questa secreta aleanza è loro mal successa in maniera che non si ardì di proporla <lb/>
+publicamente. Sopra di che havendo Pasquale abandonato questo trattato, tentò di <lb/>
+comover, et metter in contesa la terza lega communemente chiamata la lega de Zutz contra <lb/>
+le doi altre et a questo l’ha persuase. Sopra ciò s’unirono alcune communità, et <lb/>
+formorono alcuni articoli a favor dell’aleanza spagnuola; ma del tutto contrarii alla <lb/>
+confederatione delle tre communi leghe. Pasqual non se ne contentò; anzi oltre di questo
+<pb n="105r" facs="09_105r" rend="0"/>
+con grand’ignominia de’ Grisoni consigliò<ptr target="#tn19" n="19"/>, che l’aleanza con Venetia (la quale per <lb/>
+l’innanti egli havea molto raccommandata) fosse revocata; al qual effetto nell’anno 1612 <lb/>
+prima che la detta aleanza espirasse, egli andò distribuendo tra alcuni particolari 6 mila scudi. </p>
+<p>Tornò egli in Francia, et appresso venne in suo luoco Giuffier, che l’avanzò di molto in ardire, et <lb/>
+insolenza poco esperimentato, et poco<ptr target="#tn20" n="20"/> capace di trattar con Republiche. S’avide che <lb/>
+li ministri di Franza (che per l’innanti fecero de’ buonissimi officii nei nostri paesi sono <lb/>
+in credito); et pensò (ma in vano) di pervenire facilmente al suo disegno col mezo del <lb/>
+commun popolo. Prese al suo servitio per interprete un certo nominato Molina, <lb/>
+persona molto fine, et cautelosa, nata di luoco infame, che mandò d’una in un’altra <lb/>
+piazza, ove intendeva, che vi fossero processi d’importanza, et pretese d’esservi ad-<lb/>
+messo per arbitre. Sendo questione di far un nuovo governatore pretendeva <lb/>
+d’esser assoluto signore, et disponer di tutto alla volontà propria; et li beneficii del <lb/>
+Re, chiamati le pensioni particulari, che per l’innanti si distribuivano per l’honor <lb/>
+de’ nostri antenati, questo li convertiva in trafico, non volendo darle ad alcuno senza <lb/>
+una previa promessa per scritto di man propria di non far cosa alcuna contra il <lb/>
+suo gusto, et la sua volontà. </p>
+<p>Nell’anno 1613 avanzò con li suoi mirabili<ptr target="#tn21" n="21"/> et violenti artificii il sopranominato <lb/>
+Molina suo interprete in un governo nel paese di Valtelina, dove praticò una stretta <lb/>
+et secreta amicitia con un prete milanese nominato Giulio della Torre huomo pernitiosissimo <lb/>
+(della cui instigatione si deve facilmente presumer) al quale ha rivelati tutti li nostri secreti <lb/>
+in testimonio di che noi habbiamo in mano tutte le sue lettere. </p>
+<p>Nell’anno 1614 venero verso noi li nostri più cari, et fedeli collegati dei doi cantoni di <lb/>
+Zurich, et Berne, domandando il passo per le nostre terre per le loro genti da guerra <lb/>
+destinate verso Venetia. Giffier (senza haver in consideratione che per lo innanti ci <lb/>
+ha diverse volte replicate di conservar la buona unione, et concordia colli signori svizzeri) <lb/>
+s’opose apertamente a questa ragionevole dimanda; et col mezo di promesse, et di <lb/>
+minaccie guadagnò alcuni malevoli per far sfrontatamente dicessero male de’ nostri amici; <lb/>
+et per tal via seminar delle contese, et inimicitie su l’apparenza della verità. </p>
+<p>Nell’anno 1616, et 1617 ha praticato con Massimiliano Mora, secretario di Spagna in maniera <lb/>
+che ’l comercio, et libero passaggio nel ducato di Milano ci fu interdetto. </p>
+<p>Nello stesso anno coll’aiuto dei spagnuolizati, et di buona summa di denaro avanzò <lb/>
+alla carica di capo della sua lega un tal personaggio nominato Lucio da Monte, huomo vitiosissimo et <lb/>
+corrotto. </p>
+<p>Nell’anno 1617 coll’assistenza de’ Spagnuoli suscitò una seditione contro il residente di <lb/>
+Venetia a fine di cacciarlo dal Paese; mettendo la libertà nostra in pericolosissimo stato <lb/>
+perseguitando li fedeli patriotti; et defendendo, et favorendo li traditori. Il re di Spagna <lb/>
+si servì benissimo di quest’occasione per pervenir al suo disegno: mandò il suo ambasciator Alfonso <lb/>
+Casale nel Paese con articoli nuovi, che pensò di far<ptr target="#tn22" n="22"/> ricever dalle communità coll’aiuto, et assisten-<lb/>
+za degl’astenuti di Giffier, che si tacque, dissimulò et (chi direbbe) col suo tacere vi acconsentì. </p>
+<p>Nello stesso tempo, che la signoria di Venetia, amici<ptr target="#tn23" n="23"/> della Francia pratica la nostra amicitia egli crida, <lb/>
+fa fracasso; et quando gl’articoli di Spagna (li più ignominiosi, et vergognosi, che si potessero <lb/>
+portar innanti) furono proposti, si tiene così quieto, che un ignorante medesimo poteva <lb/>
+accorgersi, ch’egli era della fattione. Ma che potevano far in ciò li fedeli pastori? Poiché <lb/>
+così ben la Chiesa, che la libertà politica, et la nostra cara Patria periclitava. Vedevano <lb/>
+le forze di Spagna, et Franza unite, ai disegni delle quali corone se si fossero opposte si
+<pb n="105v" facs="09_105v" rend="0"/>
+rendevano sospetti di false imputationi, caricando<ptr target="#tn24" n="24"/> sopra loro un odio perpetuo. Dall’altro canto <lb/>
+la conscienza, et il debito li commandava sendo stati chiamati da Dio per correger il mondo, di <lb/>
+soffrir persecutioni, et difender la verità. Armati dunque di questa confidenza nel mezo di tutta <lb/>
+questa tempesta, et procella convocorono con sinodo nationale, nel quale cadauno ha proposto ciò che <lb/>
+stimava proprio per apportar rimedio a questi mali. Sopra tutto hanno debitamente informato il <lb/>
+commun popolo delle due religioni, come il principe sovrano del successo degl’affari, et mostrato <lb/>
+come a dito l’origine di tutto questo male, che gemisce, et suspira; ma a causa del potere <lb/>
+di qualche tirano a pena vi si può rimediare. Tuttavia venero finalmente in soccorso<ptr target="#tn25" n="25"/> con alcune bandiere<ptr target="#tn26" n="26"/> <lb/>
+spiegate a nome publico in numero almeno di 3 mila di tutte doi le religioni, deputati delle tre comuni <lb/>
+leghe, et si ragunorono nel borgo chiamato Tosana. Et perché hanno isperimentato con loro <lb/>
+gran pregiudicio, che la presenza dell’ambasciator di Francia era il vero soggetto di tutte simil comotioni <lb/>
+et seditioni, et che quello che doveva esser il fulgore, o flagello alli Spagnuoli, come furono li <lb/>
+suoi predecessori, era quello che li sofferiva; che quello che doveva difender la libertà della <lb/>
+Retia la diffamava, et la follava sotto ai piedi, risolverono di commun consenso che <lb/>
+l’aleanza, et accordo fatto tra la corona di Francia, et le tre communi leghe sarebbe fedelmente <lb/>
+et constantemente mantenuta, et osservata in tutti li suoi punti. Ma per li tristi diportamenti <lb/>
+et seditioni praticate da suoi sleali ambasciatori conclusero a non soffrir più la loro residenza <lb/>
+nel nostro Paese, et quello è stato giudicato un arreste<ptr target="#tn27" n="27"/> lodevolissimo, et utilissimo contra le <lb/>
+machinationi, et tratti spagnuoli, per la conservatione della nostra libertà. Et fu allhora <lb/>
+statuita una Camera criminale nel detto luoco contra li perfidi alla Patria, la quale fece <lb/>
+parimente in tutta perfettione il tuo debito. Alcuni di essi convinti per la lor propria mano <lb/>
+et testimonii degni di fede sono stati banditi, loro beni confiscati sendosi per innanti <lb/>
+absentati, alcuni puniti nelle loro cariche, altri nei loro beni. </p>
+<p>Fra questi il capitan Rodolfo Pianta era il principale. Egli fin dal principio della sua gioventù fu <lb/>
+dedicato alla casa d’Austria, dalla quale ha egli goduti gran beneficii. Ha egli voluto sempre <lb/>
+esser il primo nella sua communità; nel principio fu dolce, et amorevole, ma col tempo è diventato <lb/>
+tirano. Et essendo dotato di qualità rare fu inalzato a la suprema dignità del Paese; ma quanto <lb/>
+più cresceva la sua potenza, tanto s’augumentava dall’altro canto la crudeltà sua. Quando <lb/>
+nell’anno 1603 fu inviato con auttorità publica a Milano per trattar quivi col Conte di Fuentes <lb/>
+a fine che la fabrica del nuovo forte fosse impedita, corrotto per presenti, egli intieramente <lb/>
+trasgredì alla sua instruttione, et<ptr target="#tn28" n="28"/> ordine, che non solamente à sottoscritti alcuni <lb/>
+articoli portati da quel governator di Milano di gran pregiudicio alla nostra libertà; ma anco <lb/>
+li ha sigillati col proprio suo sigillo. Tornando al Paese, et non potendo persuader al popolo di <lb/>
+confermar, et accettar quei articoli, rimase confuso, pensò ad altre pratiche, et con alcuni de’<lb/>
+suoi complici tenta il consenso alla fabrica del detto forte, a fine che se non in tutto in parte <lb/>
+almeno sodisfacesse a ciò, ch’egli havea promesso, assicurandosi quello esser un vero mezo <lb/>
+di far maturar, et condur la nostra Natione, che doppo ella si inducesse ad accettar li arti-<lb/>
+coli sudetti. Era egli allhora formal inimico della corona di Francia, haveva in odio Pasquale <lb/>
+et favoriva li Spagnuoli, procurava di ranversar tutto quello, che li ministri di sua Maestà <lb/>
+christianissima addimandavano, sino a tanto che, a gran scontento, et interesse di molti, li mi-<lb/>
+nistri di Francia, et di Spagna concorrono, et s’accordano insieme. Diversi altri della <lb/>
+medesima taglia del detto Capitano furono castigati della medesima punitione. Questo parve <lb/>
+nuovo, et inaudito, ma a tali, che la giustitia, et la pace<ptr target="#tn29" n="29"/> è nova, et sapendo <lb/>
+esser il popolo variabile, soggetto a mutatione, et desideroso di novità, hanno presi <lb/>
+alle mani diversi mezi per la lor liberatione. Alcuni se ne vanno a Milano, et dimandano
+<pb n="106r" facs="09_106r" rend="0"/>
+assistenza di denaro per far ritornar li banditi al Paese, assassinar, o scacciar li ministri de <lb/>
+l’Evangelo. Alcuni vanno a Roma, ove fanno instanza per haver denari a fine di poter <lb/>
+distruger la scola messa in piedi doppo poco tempo in qua nel paese della Valtelina<ptr target="#tn30" n="30"/>; altri <lb/>
+passano in Austria a dimandar soccorso per la conservatione della dignità del vescovo di Coyra. </p>
+<p>Che fa in questo mentre Giffier? Ci carica di gravissime calumnie che semina tra ’l popolo, dice che li <lb/>
+pastori, et la Camera criminale di Tosana hanno rinversata la giustitia, et tutte le buone <lb/>
+constitutioni, che ’l tutto si faceva per estirpar la religione catholica romana, per scacciar li <lb/>
+buoni, et che li tristi pervenissero al governo, che li ministri dell’Evangelio erano degni di <lb/>
+esser banditi, et carcerati, con un’infinità d’altre calumnie, et impudenti mensogne. <lb/>
+Comparve nell’assemblea delli signori svizzeri a Bada, ove fece repetitione delle medesime cose <lb/>
+aggiongendo ancor una gran parte; et di là subito ci accusa verso sua Maestà che noi <lb/>
+siamo corruttori di leggi, seditiosi, violatori della giustitia, fomentatori di tirannia, perse-<lb/>
+guitando quelli, che hanno fidelmente servita la Patria, et sua Maestà. Chi sarà quello <lb/>
+al presente, che stupirà di veder il Re christianissimo, et altri principi vicini alterati contra di <lb/>
+noi persuasi di simili falsità? Ma per non mancar alla parte nostra, noi espedissimo l’anno <lb/>
+passato verso la Maestà sua un nostro ambasciatore il signor colonel Guler con carica d’informar <lb/>
+sua Maestà del nostro stato, per espurgarci delle inique imputationi, et calumnie <lb/>
+delle quali noi eramo caricati, et di render ragione perché non volevamo più soffrir <lb/>
+gl’ambasciatori suoi nel Paese. Egli espedì la sua ambasciata honoratamente et a pena fu <lb/>
+di ritorno a noi, che Giffier, et Miron ambasciator residente a Solturno drizzano lo <lb/>
+sforzo loro contro di lui, tentano diffamarlo, et se fosse stato possibile di ruinarlo affatto. <lb/>
+Giffier va correr le sue negotiationi fino in Holande, scrive all’ambasciator di Francia <lb/>
+ivi residente che si rallegrasse perché non faceva conto alcuno del manifesto publi-<lb/>
+cato, perché non ci trovava in esso alcuna verità anzi tutte pure falsità, et calumnie, <lb/>
+et che la risposta di già era pronta; ma ch’ella non sarebbe data che con l’armi in mano <lb/>
+(egli intende una solevatione) et si vanta d’esser uno dei primi, che haveva di nuovo appizzato <lb/>
+questo fuoco. Di là si volta verso li nostri catholici romani, li rimprovera, che si sottomettino <lb/>
+alle ordinanze delli ugonotti (così parla egli per calumnia) li essorta a franchirsi dal giogo <lb/>
+de’ ministri, li fa offerta del suo aiuto, et li fa promesse ben grandi. Fra questi imbrogli Miron non se ne sta otioso, et vedendo che poco manca a tagliar l’arbore <lb/>
+del tutto scrive a tutte le communità. Ch’era dolente della rebellione tramata per <lb/>
+le tre leghe (così chiamava egli l’attioni del medesimo Principe) item del bando dato a <lb/>
+molte genti da bene, et particolarmente al vescovo di Coyra, il principale, et primario <lb/>
+capo del Paese, all’incontro si rallegrava della nuova comotione del popolo, et che <lb/>
+li signori svizzeri catholici inviavano verso di noi un’ambasciata. Ci essorta d’obedir alle <lb/>
+loro preghiere, et consegli, et di chiuder la bocca alli sudetti pastori a fine, che per <lb/>
+l’avenire non si mescolino più delli affari dello Stato. </p>
+<p>Gl’ambasciatori sopranominati de’ cantoni catholici vengono, et innanti una general assemblea <lb/>
+delle tre leghe commune propongono. Che trovano ispediente di troncar il capo <lb/>
+a doi o tre pastori per statuir essempio agl’altri, fortificano quelli, che di già <lb/>
+erano auttori, et fautori della solevatione, et augumentano la persecutione <lb/>
+contra li buoni. Sopra di che li catholici romano<ptr target="#tn31" n="31"/> alzano le voci, prendono le <lb/>
+bandiere, et l’armi alla mano deliberati di assalir li pastori, pigliano uno di <lb/>
+essi prigioniero con gran rabbia, et crudeltà inaudita usano contro di lui ogni
+<pb n="106v" facs="09_106v" rend="0"/>
+sorte d’insolvenza, lo ingiuriano, lo battono, et finalmente lo gettano in un luoco infame destinato per <lb/>
+li malfattori, ne cercano degl’altri, alcuni si ritirano dal Paese, gl’altri si nascondono nelle <lb/>
+fosse, et spelonche tra le montagne. Li cattholici romani stabiliscono con il parer di Giffier, et altri <lb/>
+evangelici in apparenza una Camera criminale con potere, et auttorità di liberare, condanare, <lb/>
+giudicare, et bandir. È essequita gagliardamente da questa la sua carica alcuni<ptr target="#tn32" n="32"/> pastori accusati<ptr target="#tn33" n="33"/> <lb/>
+ingiustamente, et caricati di haver mal parlato furono banditi; li rebelli, et traditori di-<lb/>
+chiarati inocenti, et buoni patrioti; cioè che havevano prima, che esser stabiliti fatta <lb/>
+una tal promessa al Papa, et agl’ambasciatori de’ cantoni papisti. Ma come niuna violenza <lb/>
+è di lunga durata così in breve ella cessò. Dio piegò in maniera il cuore, et aprì <lb/>
+gl’occhi, et l’intendimento del nostro popolo delle doi religioni, che vide l’inganno <lb/>
+et lo toccò come con le mani; s’avide, che per sua colpa il nome di Dio è bestemiato <lb/>
+la verità oscurata, et la tiranni montata alla più alta sommità. </p>
+<p>Allhora quasi tutte le communità della Retia spiegano la bandiera, et per la terza volta <lb/>
+pigliano l’armi, s’avvicinano alla città di Coyra, nella quale di già tre mesi era pri-<lb/>
+gioniero il suditto pastore con dodici altri l’assediano, et dimandano la liberatione <lb/>
+di questi inocenti; doppo esser liberati si ritirano in un luoco nominato Tavas, et qui-<lb/>
+vi stabilirono una terza Camera criminale, la quale deve riveder l’attioni delle doi <lb/>
+precedenti. Dove doppo haver sufficientemente visitate le scritture, et li procederi, com-<lb/>
+prese, et intese le falsità, et buggie sopra le quali fondavano la liberatione dei bandeti. <lb/>
+Fu il tutto confirmato così bene per li catholici romani, che per li riformati, riconoscendo, <lb/>
+che non si trattava della religione, anzi della libertà della Patria le prime sentenze <lb/>
+condanatorie furono confirmate; et l’altre cassate, et anulate. </p>
+<p>La detta Camera criminale continua ancora non senza frutto evidentissimo per il ben publico; con <lb/>
+tutto ciò non per questo cessano ancora li principali auttori del male per ruinarci, et distruge[rci] <lb/>
+totalmente. Loro capo è il detto Giuffier, egli ci travaglia, ci diffama ci accusa di periv[…] <lb/>
+et seditiosi particolarmente verso la Maestà sua christianissima<ptr target="#tn34" n="34"/> presso la quale hanno tanto credito, <lb/>
+che havendo li signori Grisoni per auttorità publica espedito un ambasciator in corte per infor-<lb/>
+mar sua Maestà la quale senza haver riguardo che ’l padre di lui di buona memoria il colonello <lb/>
+Hortman de Hortmanis haveva molto meritato dalla corona di Francia, è trattato<ptr target="#tn35" n="35"/> <lb/>
+ignominiosamente et indignisimamente sendosi transgresso nella sua persona commune ius <lb/>
+gentium. Egli non ha potuto haver audienza, indebolendo con tal mezo la pace<ptr target="#tn36" n="36"/> <lb/>
+perpetua, et la stessa aleanza. Quest’è una estrema violenza d’esser della Maestà sua <lb/>
+condannati senza esser udito, et una fraude manifesta d’esser accusati di cose delle <lb/>
+quali noi non habbiamo havuto manco il minimo pensiero. </p>
+<p>Sua Maestà si duole che ’l suo ambasciatore sia stato cacciato da noi; ma senza causa. <lb/>
+Perché si troverà chiaramente per gl’articoli dell’aleanza, che noi non siamo obligati di <lb/>
+permettergli l’aleanza. Questo è vero, che mentre si opponevano alle violenze di <lb/>
+Spagna, noi habbiamo fatta instanza a sua Maestà a fine che lo acconsentisse, il che <lb/>
+ha egli fatto con una riversale sotto a suo sigillo, la quale tutta volta non ci obligava <lb/>
+a cosa che sia. Ma doppo che al presente egli si accorda colli ministri spagnuoli, <lb/>
+non havendo potuto sopportar più la sua presenza alla ruina nostra, noi <lb/>
+facemo rinontia a sua Maestà della sudetta concessione gratuite. Chi dunque ci vorreb-<lb/>
+be forzar di goder d’una gratia la quale noi medesimi con proposito deliberato <lb/>
+rifiutamo? Hora sua Maestà ci scrive, et per sinistre informationi ci minaccia di <lb/>
+vendicarsene. Giffier aggiunge ancor le sue lettere conforme all’ordinario suo
+<pb n="107r" facs="09_107r" rend="0"/>
+piene di calumnie<ptr target="#tn37" n="37"/>, ingiurie, et maldicenze; ci vuol commandare di <lb/>
+render conto a sua Maestà delle attioni nostre, minaccia che li beneficii ricevuti dalla <lb/>
+Corona ci seranno ridimandati, et finalmente incita li nostri rebelli ad una nuova <lb/>
+seditione offerendoli il suo soccorso, consiglio, et assistenza. Mirone fa propo-<lb/>
+ner per il suo agente nell’assemblea tenuta a’ 6 di febraro et il seguente giorno a Bada <lb/>
+che li signori svizzeri volessero procurar appresso di noi di rimetter in libertà li banditi, et per-<lb/>
+metterli d’entrar nel Paese, di far cassar la presente Camera criminale, et farci prometter <lb/>
+di non entra già mai in lega con alcun altro eccetto che con la corona di Francia. <lb/>
+Et che habbiamo dunque a fare? Noi impiegavemo tutto il nostro potere per <lb/>
+far informar sua Maestà delle nostre attioni, et toccante lo Stato nostro noi renderemo <lb/>
+conto a Dio solo non riconoscendo altro sovrano. Quando noi saremo ricercati <lb/>
+per li beneficii ricevuti dalla corona di Francia, noi ridomanderemo il sangue, <lb/>
+et la vita di quelli, che l’hanno servita sì fedelmente per tanti anni. Li nostri sedi-<lb/>
+tiosi saranno<ptr target="#tn38" n="38"/> da noi perseguitati, et puniti tanto quanto saranno in <lb/>
+vita. Li rebelli, et traditori non haveranno giamai l’entrata nel Paese senza <lb/>
+perdita di sangue. La presente Camera criminale continuerà fino che piacerà <lb/>
+al Principe, che è<ptr target="#tn39" n="39"/> il commun popolo dell’una, et l’altra religione. La nostra <lb/>
+libertà di fare, et romper aleanze non ci sarà già mai levata né da Miron <lb/>
+né da Giffier, né da Casale. Questo è un punto principale, che li precessori <lb/>
+nostri hanno acquistato col loro sangue, et noi lo difenderemo, quando tali, <lb/>
+et simil minaccie, et bravate non vorranno cessare, noi provederemo a nostri affari <lb/>
+secondo la ragione, et la vertù lodevole dei nostri antichi Reti. Nostre<ptr target="#tn40" n="40"/> signore <lb/>
+Iesu, re dei re, signor dei signori, vogli haver pietà, et misericordia di noi. Amen. </p>
+<pb n="107v" facs="09_107v" rend="270"/>
+<p>Scrittura de’ Grisoni </p>
+<p>nel n° 205 </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="034" corresp="031" source="109r-132v" >
+<div type="main" facs="main text of attachment III" n="034" corresp="031" >
+<!--<p>Allegato III al n. 31 (cc. 109r-132v)</p>-->
+<pb n="109r" facs="09_109r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Bohemica Iura<ptr target="#tn41" n="41"/> </p>
+<p>Adversus Informationem </p>
+<p>Defensa. </p>
+<p>Hoc est <lb/>
+Responsio. </p>
+<p>Ad falso dictam </p>
+<p>Informationem </p>
+<p>coutra scripta </p>
+<p>ab ordinibus Bohemiae edita.</p>
+<p>Typis clanculum vulgatam. </p>
+<p>Anno MDCXX</p>
+<pb n="109v" facs="09_109v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="110r" facs="09_110r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="110v" facs="09_110v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="111r" facs="09_111r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="111v" facs="09_111v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="112r" facs="09_112r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="112v" facs="09_112v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="113r" facs="09_113r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="113v" facs="09_113v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="114r" facs="09_114r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="114v" facs="09_114v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="115r" facs="09_115r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="115v" facs="09_115v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="116r" facs="09_116r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="116v" facs="09_116v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="117r" facs="09_117r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="117v" facs="09_117v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="118r" facs="09_118r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="118v" facs="09_118v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="119r" facs="09_119r" rend="0"/>
+<p><metamark facs="Printed text"/><ptr target="#tn42" n="42"/></p>
+<pb n="119v" facs="09_119v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="121r" facs="09_121r" rend="0"/>
+<p><metamark facs="Printed text"/><ptr target="#tn43" n="43"/></p>
+<pb n="121v" facs="09_121v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="122r" facs="09_122r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="122v" facs="09_122v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="123r" facs="09_123r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="123v" facs="09_123v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="124r" facs="09_124r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="124v" facs="09_124v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="125r" facs="09_125r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="125v" facs="09_125v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="126r" facs="09_126r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="126v" facs="09_126v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="127r" facs="09_127r" rend="0"/>
+<p>Pactorum<ptr target="#tn44" n="44"/> </p>
+<p>de perpetua successione in regnis Hungarie et </p>
+<p>Bohemiae ac Provinciarum ad ea pertinentium. </p>
+<p>Instrumenta VI. </p>
+<p>et XV Mensis junii, Anno DCXVII. </p>
+<p>Pragae confecta.</p>
+<pb n="127v" facs="09_127v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="128r" facs="09_128r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="128v" facs="09_128v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="129r" facs="09_129r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="129v" facs="09_129v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="130r" facs="09_130r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="130v" facs="09_130v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="131r" facs="09_131r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="131v" facs="09_131v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="132r" facs="09_132r" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+<pb n="132v" facs="09_132v" rend="0"/>
+<p><metamark facs="Printed text"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-irà" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> -"ra" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "partic-" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "Re."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line on "quattro" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-c-" corrected above "-s-", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-u-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-5" corrected above "-4"; followed by "fin" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "ambasciatori di" added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Corrected above "loro."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "artificii" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "-i" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-o" corrected above "-osi," uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "in soccorso" added above the line with an insertion mark.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by "in soccorso" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "commissione" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Added above the line on "un" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-i" corrected above "-a."</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Followed by "dove" crossed out.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Followed by "ingno" crossed out.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Followed by "ingiurie" crossed out.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Followed by "punite" crossed out.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "Printed pamphlet, presumably in the Northern Netherlands, see record https://www.ustc.ac.uk/editions/1019068."</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> "Mistake in numbering of folios: jumps from 119r-v to 121r-v"</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "Mistake in numbering of folios: jumps from 119r-v to 121r-v"</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> The same edition as <ref target="https://www.ustc.ac.uk/editions/2056498">https://www.ustc.ac.uk/editions/2056498</ref>, thought to have been printed in Holy Roman Empire in 1617.</p></note>
+</div>
+</body>
+</text>
+</TEI>

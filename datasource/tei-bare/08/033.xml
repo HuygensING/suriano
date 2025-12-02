@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.033 date 1619-08-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica, Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">033</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 183r-186v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">180r-181v, 183r-186v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Communicated content of damaged letters and States General thanks venice for considerations of the widow van Kerkhoven. Caladrini has arrived from Amsterdam without the accounts but with the assurance that everything has been written but Sriano nevertheless contacts Van Aerssen and States General write a letter to Admiralty. Suriano sends one of his men to sign the Dutch translation of accounts in Rotterdam. The person has not yet returned. One of twelve ships has caught fire and needs to be paid by Venice, something Suriano disputes. Admiralties want to arm 8 to 9 ships against corsairs in strait of Gibraltar, as they do not trust the agreement between States General and corsairs. Delay at the imperial election because of disagreement between ecclesiastical and lay princes. English ambassador is in Anhalt, near Frankfurt, but they do not know his intentions. Dutch envoys have returned from England on fishing rights, Franc is dissatisfied as they are excluded from trade with indies, rumours that there is potential marriage being negotiated with Spain. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-08-13">13 agosto 1619</date>
+            <num>062, 063</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="062" corresp="063" source="180r-181v" >
+<div type="main" facs="main text of attachment I" n="062" corresp="063" >
+<!--<p>Allegato I al n. 63 (cc. 180r-181v)</p>-->
+<pb n="180r" facs="08_180r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia di un capitolo nelle conditioni con che furono prese in servitio <lb/>
+le dodici navi </p>
+<p>Che detti vasselli si doveranno dar a nolo delli partionevoli, et patroni di essi <lb/>
+con patto, et conditione, che doveranno correr con essi loro vasselli il pericolo <lb/>
+o rischio ordinario di mare, d’arena, et corsari, et più tutto quello potesse <lb/>
+avenir ad essi vasselli durante il viaggio sin che siano gionti a Corfù <lb/>
+o altrove dove sarà destinato il rendevous, overo luoco destinato <lb/>
+per la radunanza delle navi, et genti. Et che doppo tutti li pericoli, et <lb/>
+danni, che potessero avvenir ad essi vasselli per via di guerra in qualunque <lb/>
+modo che fosse, et anco quanto alli vasselli durante la guerra <lb/>
+potesse avenir di mare, et d’arena resterà a carico della serenissima <lb/>
+Republica; beninteso però, che doppo, et venendo detti vasselli di ritorno <lb/>
+a casa essi debbano di nuovo correr il pericolo ordinario di mare, <lb/>
+et arena, et altrimenti come corso l’havevano nell’andare; et più <lb/>
+con questa conditione, che se detti vasselli venissero ad andar <lb/>
+male, il che Dio guardi sia nell’andar o ritornare, che solamente <lb/>
+doveranno godere li loro guadagnati noli di mese a rata del tempo, <lb/>
+che haveranno servito. Et con questa dichiaratione, et conditione <lb/>
+inoltre, che se per caso le navi fossero dannificate, o prese nell’<lb/>
+andar, o ritornar da una flotta, o armata generale per <lb/>
+parte del re di Spagna, che quel tutto debba venir a carico <lb/>
+et rischio di detta serenissima Republica. </p>
+<pb n="180v" facs="08_180v" rend="0"/>
+<p>Copie van capittel inhoudende de conditien hierbijgenomen <lb/>
+syn in<ptr target="#tn1" n="1"/> diensten de twaelff schepen </p>
+<p>De voors(eyde) scheepen sullen by de schippers ende reeders verhuyrt moeten werden op conditien <lb/>
+dat sy luyden met haere scheepen sullen moeten loopen het ordinaris peryckel van see, sandt, <lb/>
+ende rovers, ende voorts alle thundt<ptr target="#tn2" n="2"/> de selve scheepen soude moigen overcommen <lb/>
+geduyrende de reyse, tot dat de voors(eyde) scheepen tot Corfu, off anders hier <lb/>
+de gedestineerde rendevous sul wesen, sullen syn gecommen, ende dat hier <lb/>
+naer alle periculen ende schaden die de selve scheepen soude moihen overcommen deur <lb/>
+oorloge in<ptr target="#tn3" n="3"/> wat manieren dat soude moihen wesen, oock mede thundt<ptr target="#tn4" n="4"/> <lb/>
+de selve scheepen van zee ende zandt, geduyrende den oorloge soude moihen <lb/>
+overcommen syn ende staen tot laste ende pericule vande Republycke, wel <lb/>
+verstaende dat daer naer de selve scheepen int harwaerts commen naer huys toe <lb/>
+wederom sullen loopen het ordinaris perijckel<ptr target="#tn5" n="5"/> van zee, sandt ende andersints, gelijk <lb/>
+de selve int gints vaeren gehadt ende gedraegen sullen hebben. Doch met dese <lb/>
+conditie, soo de selve scheepen commen te verongelucken (t welck Godt verhoede) <lb/>
+tsij int gints off t harwaerts<ptr target="#tn6" n="6"/> commen, dat se alleenlijck sullen genieten die <lb/>
+verdiende maentgelden nae veloop des tijts, oock met sulcken verstande ende <lb/>
+conditie nochtans, dat soo verre de scheepen, tsy int gints vaeren, ofte weder <lb/>
+int herwaerts commen van een generale vloote van wegen de coninck van <lb/>
+Spanien ofte van eenige syne dienaers ofte supposten worden beschadicht ofte <lb/>
+genomen dat alle <lb/>
+t selve sal commen tot laste ende pericule vande voors(eyde) <lb/>
+Signorie </p>
+<pb n="181r" facs="08_181r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="181v" facs="08_181v" rend="270"/>
+<p>Copia di capitolo nelle conditioni <lb/>
+con che furono noleggiate le xii <lb/>
+navi </p>
+<p>In italiano et fiamingo </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 122 </p>
+</div>
+</div>
+<div type="letter" n="063">
+<div type="main" facs="main text of letter" n="063">
+<!--<p>13 agosto 1619, L’Aia (cc. 183r-186v)</p>-->
+<pb n="183r" facs="08_183r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 122 comincia 121 </p>
+<p>Serenissimo Principe </p>
+<p>come ho scritto riverentemente a vostra Serenità nelle altre mie non fui che hieri ad essequir <lb/>
+le sue commissioni colli signori Stati rappresentandoli la sostanza delle <lb/>
+lettere di risposta all’Eccellenze loro per la raccomandazione del signor colonello Anstenraedt <lb/>
+et della vedova Chercoven, iscusando coll’accidente delle acque se non <lb/>
+li presentano le medesime lettere molto mal condotte. Rispose il Presidente, <lb/>
+che restavano li signori Stati sodisfattissimi della risposta di vostra Serenità, et che <lb/>
+come speravano, che la povera vedova haverebbe sentito il frutto <lb/>
+della sua pietosa benignità, così non dubitavano, ch’ella non fosse per <lb/>
+tenir conto all’occasione delle loro instanza per il sudetto signor Colonello. </p>
+<p>Anco sua Eccellenza rende gratie alla Serenità vostra di quanto a sua contempla-<lb/>
+tione haveva commesso per la vedova Kercoven. </p>
+<p>Venne il signor Calandrini doi giorni doppo l’ispedizione delle mie ultime lettere, et <lb/>
+come stavo con buon bocca attendendo che mi portasse il conto di <lb/>
+Amsterdam conforme all’intentione havutane così vedendomelo innanti <lb/>
+colle mani unite ne sentii altrettanta passione. Immediate me <lb/>
+n’andai a trovar il secretario Arsen, al qual communicai il manca-<lb/>
+mento, et non ostante, che il Calandrini mi havesse detto<ptr target="#tn7" n="7"/> <lb/>
+per nome di detti dell’Amiralità che li conti, et roli erano già tutti <lb/>
+scritti, et che non li mancava se non metterli in netto in ogni modo <lb/>
+lo pregai di riferir il tutto a’ signori Stati perché pigliassero rimedio, <lb/>
+che in fine io havessi la sodisfattione, che giustamente si deve a vostra Serenità <lb/>
+sopra che li signori Stati hanno scritto lettere efficacissime mostrando me-<lb/>
+raviglia della dilatione, et commettendo ad essi dell’Amiralità di <lb/>
+portar seco li detti conti alla loro venuta qui, che deve esser <lb/>
+alla fine di questa settimana con li deputati delli altri collegi. <lb/>
+Mandai le lettere per lo stesso signor Calandrini, con ordine di avvisar-<lb/>
+mi, se sarà necessaria la mia andata là, fino a quest’hora non ho<ptr target="#tn8" n="8"/> <lb/>
+havuto altro avviso. Assicuro vostra Serenità per l’humil riverenza <lb/>
+che le devo, che resto così afflitto nell’animo che niente più vedendo <lb/>
+che si procede con tanta lunghezza. Starò anco a veder questa
+<pb n="183v" facs="08_183v" rend="0"/>
+settimana se la discrettione haverà luoco. La buona speranza <lb/>
+datami dai signori Stati, et dalli stessi dell’Amiralità m’ha trattenuto <lb/>
+attendendo l’effetto, et perché sono stato assicurato, che la mia andata <lb/>
+là niente, o poco haverebbe dato calore alla fredezza di quei ministri. </p>
+<p>Sono doi giorni, che ho mandato a Roterdam uno dei miei per la <lb/>
+sottoscrittione delle copie de’ conti, et roli in fiamingo, et italiano né <lb/>
+ancor è ritornato; et io m’affligo per così gran longhezze; ma più <lb/>
+perché non posso sodisfar prontamente né al desiderio di lei, né al <lb/>
+mio debito; ma spero un giorno uscir da queste pene. </p>
+<p>Con l’ultime lettere d’Italia si è havuto l’avviso dell’incendio della <lb/>
+nave Li 3 Re del numero delle dodici. Uno dei partionevoli era <lb/>
+a punto meco quando venne l’avviso, et pareva, che si pro-<lb/>
+mettesse, che vostra Serenità in virtù delle capitulationi, essendosi il <lb/>
+vassello abbruggiato in golfo dovesse esser pagato da lei; ma <lb/>
+io procurai di ributtar la sua ragione con l’intelligenza <lb/>
+del capitolo che invio ad ogni buon fine alligato alle presenti, <lb/>
+et specialmente perché il vassello era già stato licentiato. Questa <lb/>
+fu stimata dal sudetto interessato valida ragione contra la sua <lb/>
+pretensione. Io non mi assicuro, che questo, et altri compartecipi <lb/>
+non siano per muover qualche tentativo. Difenderò le ragioni di <lb/>
+vostra Serenità in ogni caso la quale però si compiacerà di significarmi <lb/>
+quello, che per sua prudenza stimerà proprio per maggiormente <lb/>
+comprobarle. </p>
+<p>Li deputati dei collegi dell’Amiralità verranno qui per consultare <lb/>
+l’armar di otto o nuove vasselli, che habbino a continuar <lb/>
+sempre la guarda allo stretto, non stimando a proposito li signori <lb/>
+Stati fidarsi dell’accordo stabilito ultimamente colli corsari, presu-<lb/>
+ponendo, che se li verrà qualche nave alla mano ne faranno <lb/>
+represaglia. Mostreranno bene ogni buona volontà verso di loro <lb/>
+et per darlene segno hanno risoluto di licentiar da quaranta
+<pb n="184r" facs="08_184r" rend="0"/>
+in cinquanta de’ detti corsari parte Turchi, altri renegati, che <lb/>
+sono stati condotti in Amsterdam. Ancor non è seguito l’effetto <lb/>
+della liberatione attendendosi qualche altro avviso. Quello che <lb/>
+fa star con sospetto questi signori è che essi corsari non hanno mandati qui <lb/>
+ostaggi, et essi hanno in Algieri il loro console, che starà a loro <lb/>
+discrettione. </p>
+<p>Sopra questo armamento di navi sono stati consultando questi giorni <lb/>
+a dietro; et hanno risoluto di mandar ordine il che è stato <lb/>
+essequito da sua Eccellenza, alle frontiere perché tutta la cavalleria si tenga <lb/>
+pronta a suoi quartieri; et anco qualche capitani d’infanteria, che <lb/>
+erano qui sono partiti verso Colonia, ove sono le loro compagnie <lb/>
+la voce che fanno sparger Spagnuoli, che ’l marchese Spinola <lb/>
+habbi a caminar colle sue genti, ha fatta far questa deliberatione, <lb/>
+ma l’opinione è che non si muoverà, et che ambedui le parti <lb/>
+habbino la medesima intentione di far vedere che sono pronti a <lb/>
+marchiare, et non muoversi né l’una né l’altra. </p>
+<p>Il signor principe Mauritio mi communicò hieri l’arrivo in Francfort del <lb/>
+re Ferdinando, che veramente si era trattenuto in camino; ma che <lb/>
+in fine haveva passato avanti. Che li principi elettori ecclesiastici, et <lb/>
+li laici erano in altercatione grande essendo passate cinque sessioni <lb/>
+senza<ptr target="#tn9" n="9"/> poter accordare, che doverà dar il vito di Bohemia. <lb/>
+Gli ecclesiastici vogliono, che Ferdinando come re lo dia; et li laici stano <lb/>
+saldi per Bohemi; che Sassonia in questo pareva, che col mezo de’ <lb/>
+suoi ministri si mostrasse risoluto di non ceder; tuttavia non si <lb/>
+poteva far gran fondamento. Et qui è corsa appunto hoggi voce, <lb/>
+che Ferdinando fosse eletto imperatore; ma non si sa di dove venga <lb/>
+l’avviso l’apprenza del successo vostra Serenità l’haverà più sincera <lb/>
+da più vicino luoco. </p>
+<p>Gl’avvisi di Bohemi par che siano tali, che apportino non poca conso-<lb/>
+latione a questi signori<ptr target="#tn10" n="10"/> sentendo che sono risoluti a mantener la libertà
+<pb n="184v" facs="08_184v" rend="0"/>
+qui si dogliono solo<ptr target="#tn11" n="11"/> di non haver quella corrispondenza che <lb/>
+desidererebbono dalla parte de’ principi dell’Unione. </p>
+<p>L’ambasciator di Inghilterra si trova a Anhault poco discosto da Franfurt <lb/>
+non si sa con qual sentimento o patimento d’animo, havendomi detto <lb/>
+il signor principe di Oranges, che havendo egli<ptr target="#tn12" n="12"/> mandata persona espressa <lb/>
+alli signori Bohemi essi l’habbino rimandata per non haver portate <lb/>
+lettere<ptr target="#tn13" n="13"/> credentiali del Re, et che non era costume in negotii <lb/>
+così gravi caminar senza simil lettere; né era conveniente, <lb/>
+che havessero essi a metter in mano di cadauno<ptr target="#tn14" n="14"/> senza <lb/>
+veder né il titolo né la qualità del Principe, che l’invia <lb/>
+l’intero delle loro sostanze, delle loro vite, et della loro riputatione. <lb/>
+Questo incontro ha havuto detto Ambasciatore con Bohemi; un altro mi <lb/>
+aggiunse sua Eccellenza, che importa niente meno, è, che meno Ferdinando <lb/>
+ha voluto, ch’egli intraprendi il suo affare con Bohemi; portando <lb/>
+per causa di questo rifiuto, che nella congiontura che allhora si <lb/>
+trovava troppo haverebbe pregiudicato ai suoi interessi, et <lb/>
+alla sua reputatione entrar in simil trattatione, et che sarebbe stato <lb/>
+un metter in compromesso ciò che di ragione pretende aspettar-<lb/>
+segli. Il re di Spagna ha data la mossa a questa ambasceria <lb/>
+onde considera il signor Principe, che già causa haveva il re d’<lb/>
+Inghilterra di restar disgustato del Cattolico. L’Ambasciator ha spedito <lb/>
+in diligenza al suo Re, doverà aspettar le commissioni, intanto <lb/>
+resterà quivi, ove egli è, senza potersi adoperare per l’effetto <lb/>
+a che era stato spedito. </p>
+<p>Li commissarii ritornati d’Inghilterra fecero sabbato la<ptr target="#tn15" n="15"/> relatione <lb/>
+nell’assemblea dei Stati del loro negotiato, che fu intesa con <lb/>
+altrettanto contento, quanto era il travaglio di animo <lb/>
+che continuamente li teneva occupati per gl’inconvenienti che <lb/>
+succedevano nell’Indie Orientali tra l’una, et l’altra Natione. <lb/>
+Che con l’accordo seguito tutto doveva restar estinto, et assopito
+<pb n="185r" facs="08_185r" rend="0"/>
+per gl’altri interessi delle pesche, et altro è rimesso a trattarne in <lb/>
+miglior tempo, et sarà lo spatio di circa tre anni. </p>
+<p>Hanno riferito haver havute delle controversie, et delle contramine <lb/>
+grandissime, et che le doble spagnuole facevano li soliti incantesimi <lb/>
+ma la patienza di chi trattava, et la prudenza del Re ha fatto <lb/>
+disperder ogni cosa, et resi confusi li negotianti. Che in sua <lb/>
+Maestà havevano scoperto esser molto innanti nel trattato di <lb/>
+matrimonio con Spagna; ma che haveva affermar ad <lb/>
+essi<ptr target="#tn16" n="16"/> commissarii non havervi la total inclinatione; et detto <lb/>
+loro in questo particolare, che non haverebbe fatta alcuna cosa<ptr target="#tn17" n="17"/> <lb/>
+senza prima communicarla alli signori Stati; et che nel Principe <lb/>
+suo figlio havevano scoperto l’animo alienissimo d’apparentarsi <lb/>
+con Spagnuoli. Li commissarii sono stati qui ben veduti per <lb/>
+l’accordo fatto, del<ptr target="#tn18" n="18"/> quale si vede bene che Francesi non <lb/>
+restano sodisfatti, poiché con esso il re d’Inghilterra, et questi <lb/>
+Stati escludono col Generale la Natione francese in particolare <lb/>
+che pratica la scala dell’Indie Orientali. Gratie etc. </p>
+<p>Dall’Haya li 13 agosto 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Chritofforo Suriano </p>
+<pb n="185v" facs="08_185v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="186r" facs="08_186r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="186v" facs="08_186v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 122 comincia 121 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="063">
+<!--
+<p n="186vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 agosto 1619 ricevute a’ 28 detto </p>
+<p>Haya. n° 122 <lb/>
+2<hi rend="superscript">da</hi> </p>
+<p>Ha fatto l’ufficio per le lettere scritte sopra la racom-<lb/>
+mandatione dell’Anstraedet, e della moglie del <lb/>
+Chercoven. </p>
+<p>Per li conti di Ansterdam non essendo venuti <lb/>
+ha instato a signori Stati che non hanno <lb/>
+scritto lettere efficacissime; li aspetta alla <lb/>
+fine della settimana e si crucia di <lb/>
+tante difficoltà. </p>
+<p>Ha mandato a Roterdam per la sottoscrizione <lb/>
+de’ conti e rolli; non è ancor ritornato il messo <lb/>
+portionevole della nave 3 Re abbrug-<lb/>
+giata potremo pretender rifacimento <lb/>
+come le m’è sta parlato et ha difeso <lb/>
+le ragioni publiche dimanda maggior informatione. </p>
+<p>Consultatione dei Stati per tener armati <lb/>
+otto o nuove vasselli per guarda del stretto. </p>
+<p>Che hanno havuto delle difficoltà in <lb/>
+Inghilterra per le contramine de’ Spagnuoli. </p>
+<p>Che i commissarii in Inghilterra, hanno scoperto <lb/>
+esser avanti il negotio di matrimonio <lb/>
+con Spagna: ha affermato il <lb/>
+re dei Francesi comunicarlo ai Stati. </p>
+<p>Che il Prencipe non v’inclini. </p>
+<p>Li commissarii ritornati sono stati <lb/>
+ben visti per la buona conclusione. </p>
+<p>Francesi non restano sodisfati <lb/>
+per rimaner esclusa dalla <lb/>
+navigazione delle Indie. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Aggiunto in sopralinea su van depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Come pare."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea su ende depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Come pare."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-er- esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue vaeren depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue che li conti depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "non ho esito di correzione."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Precede p depennata."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Segue questi signori depennato."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Precede le depennato."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Segue le le* depennato."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue loro depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Esito di correzione."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Aggiunto in sopralinea su parole depennate."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Precede sopra depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

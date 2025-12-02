@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.010 date 1617-10-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">010</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 59rv, 61r-62v, 65r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">59r-v, 61r-62v, 65r-v, 60r-v, 63r-64v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Suriano has been ill upon his arrival in Groningen. Acknowledges receipt of letters and affirms he will give the letters to Levenstein. Ends the letter by saying he has had experience of delays in embarking of troops and he has received a notarial act from the Amsterdam merchants Alexander vanden Berg, which he sends in attachment. Two documents attached: a supplica and a notorial act</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Groningen</settlement>
+            <date when="1617-10-27">27 ottobre 1617</date>
+            <num>018, 019, 020</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="018">
+<div type="main" facs="main text of letter" n="018">
+<!--<p>27 ottobre 1617, Groningen (cc. 59r-v, 61r-62v, 65r-v)</p>-->
+<pb n="059r" facs="05_059r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>accompagnai domenica passata a nave il signor conte <lb/>
+di Levenstein, ove ha risoluto trattenersi fin tanto, <lb/>
+che ’l tempo fatti buono per la sortita della fiumara <lb/>
+di Emns in mare, che sin qui è stato, et tuttavia <lb/>
+è contrario; ma l’apparenza fa formar giudicio <lb/>
+che al nuovo far della luna, che sarà domenica <lb/>
+sia per soffiar il vento di Levante proprio per <lb/>
+far il viaggio verso il distretto. </p>
+<p>Mercordì arrivai in questa città essendomi retirato qui<ptr target="#tn1" n="1"/> per <lb/>
+rifarmi dal patimento, et divertir il peggio alla <lb/>
+mia salute non havendo in fine potuto scapare <lb/>
+di haver doi, et tre termini di febre, se ben <lb/>
+leggiera con tutto ciò la qualità dell’aria <lb/>
+di quel forte mi haverebbe potuto forse <lb/>
+causar del maggior male; mi trovo ancor <lb/>
+un poco fiaco; ma in stato tale, che spero nel <lb/>
+signor Dio di haver modo di servirla. Qui mi <lb/>
+sono capitati<ptr target="#tn2" n="2"/> doi dispacci di vostra Serenità uno de’ <lb/>
+28 del passato, et l’altro de’ 6 del presente. </p>
+<pb n="059v" facs="05_059v" rend="0"/>
+<p>Sopra il primo toccante la diligenza, ch’ella desidera <lb/>
+et commanda, ch’io usi per la sanità affermo sinceramente <lb/>
+alla Serenità vostra, che in quel spatio di tempo, che mi <lb/>
+trattenni domenica in nave con il signor Conte, et nel <lb/>
+dargli le lettere per li signori rettori di Corfù, et altre <lb/>
+lo avvertii in questo proposito di sanità, che era <lb/>
+necessario, che si lasciasse riconoscer dai ministri <lb/>
+publici: perché altrimenti non sarebbe stato accettato <lb/>
+in alcun luoco del Dominio: con tutto ciò<ptr target="#tn3" n="3"/> di nuovo <lb/>
+in conformità del commandamento della Serenità vostra <lb/>
+gli ho ispedite mie lettere con uno de’ miei, <lb/>
+facendogli sapere con desterità la publica <lb/>
+intentione. Sarei io stesso andato ma trovandomi <lb/>
+sull’ispeditione dell’ordinario per Amsterdam <lb/>
+ho stimato a proposito non perderla, et<ptr target="#tn4" n="4"/> non incontrar <lb/>
+quello, che haveranno incontrato le mie lettere de’ <lb/>
+6 dello stante, che sono andate in Anversa fuori <lb/>
+di tempo dell’ordinario, talché non saranno arriva-<lb/>
+te, che un dispaccio doppo. Se ’l tempo servirà
+<pb n="061r" facs="05_061r" rend="0"/>
+anderò anc’io a replicargli il medesimo, se ben mi <lb/>
+prometto, che non sarà necessario, poiché mi disse, che <lb/>
+non haverebbe mancato di ridursi a Corfù per rifarsi <lb/>
+egli con le sue genti dal patimento del mare; ma per <lb/>
+quanto ho potuto penetrare lo farà anco volentieri <lb/>
+perché si prometterà di dover cominciar allhora <lb/>
+la mesata fondato forse sopra il sesto capitolo della <lb/>
+sua capitulatione. </p>
+<p>Mandai la passata settimana all’illustrissimo signor savio di Terra-<lb/>
+ferma alla scrittura li roli delle compagnie <lb/>
+Il salice, ch’è quello ch’io ho ispedito al signor Conte <lb/>
+ha carica di portarmi il numero dei marinari <lb/>
+et la settimana ventura manderò con l’ordinario <lb/>
+questo, et tutto quel più, che veggo esser deside-<lb/>
+rato dall’Eccellenze vostre et dalli illustrissimi<ptr target="#tn5" n="5"/> signori sopraprovetitori <lb/>
+et procuratori alla sanità a quali do particolar conto <lb/>
+di quanto vi è nella materia di sanità. </p>
+<p>Havendo havuta qualche isperienza l’anno <lb/>
+passato della dilatione di questi imbarchi
+<pb n="061v" facs="05_061v" rend="0"/>
+et havendo veduto caminar questo con tanta, et sì <lb/>
+gran lentezza, et cavando esservi molti più debiti, <lb/>
+et intrichi di quello che mi veniva espresso stimai <lb/>
+bene per sicurezza del denaro publico farmi far <lb/>
+dal<ptr target="#tn6" n="6"/> Vandembergh una scrittura <lb/>
+segnata da lui, la quale tengo appresso di me ad ogni <lb/>
+buon fine, et non ne mandai la settimana <lb/>
+passata la copia: perché era necessario farla autenti-<lb/>
+care, come ho fatto qui, et l’invio colle <lb/>
+presenti. Né la Serenità vostra se havesse accettate <lb/>
+le lettere farà esborsar alcun denaro senza <lb/>
+che prima non le sia presentata una mia lettera <lb/>
+d’avviso in questo particolare, come sentirà anco <lb/>
+esser così espresso nella scrittura. Perché è <lb/>
+necessario, ch’io prima sia certo non solo che ’l Conte <lb/>
+sia partito; et habbi fatto vela in mare, <lb/>
+ma che sia stato sodisfatto et qui intorno <lb/>
+et altrove a’ suoi debiti. Io mi trovo tormen-<lb/>
+tato nell’animo con questo benedetto negotio
+<pb n="062r" facs="05_062r" rend="0"/>
+et maggiormente perché non so qual sodisfattione <lb/>
+ne possi ricever. Vostra Serenità Dio sa il zelo, che ho <lb/>
+del publico servitio, et come mi sia a cuore la <lb/>
+publica riputatione. Gratie etc. </p>
+<p>Di Grunighen a’ 27 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="062v" facs="05_062v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="065r" facs="05_065r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="065v" facs="05_065v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="018">
+<!--
+<p n="065vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 ottobre 1617 ricevute a’ 15 novembre </p>
+<p>Di Grunighen secretar Suriano </p>
+<p>Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="019" corresp="018" source="60r-v" >
+<div type="main" facs="main text of attachment I" n="019" corresp="018" >
+<!--<p>Allegato I al n. 18 (c. 60r-v)</p>-->
+<pb n="060r" facs="05_060r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Suplico vostra Signoria eccellentissima di favorir illustre signor conto di <lb/>
+Leewensteyn a trovar la lettera dil clarissimo signor <lb/>
+residente Soriano dalli ultimo novembre 1617. In sirca <lb/>
+et venuta en Jevero. </p>
+<p>Il signor secretario Suriano a connoissaucia<ptr target="#tn7" n="7"/> di quella </p>
+<pb n="060v" facs="05_060v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="020" corresp="018" source="63r-64v" >
+<div type="main" facs="main text of attachment II" n="020" corresp="018" >
+<!--<p>Allegato II al n. 18 (cc. 63r-64v)</p>-->
+<pb n="063r" facs="05_063r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dall’Hayia de’ 27 ottobre 1617 </p>
+<p>Copia </p>
+<p>Io Alessandro Vanden Berch mercante d’Amsterdam <lb/>
+dichiaro et confesso con la presente scrittura havver ricevuto <lb/>
+dal clarissimo signor Christoforo Suriano residente por la serenissima republica <lb/>
+di Venetia appresso li signori Stati Generali delle Provintie Unite <lb/>
+de’ Paesi Bassi doi lettere de cambio por la summa di vinti sette <lb/>
+mille ducati di Venetia l’una di ducati vinticinque milla <lb/>
+pagabile al signor Gratioso del Calice dei quatordeci del presente <lb/>
+et da esser pagata la metà a’ dieci sette decembre venturo, <lb/>
+et l’altra metà all’ultimo del detto mese, et l’altra lettera <lb/>
+diretta alli signori Giacomo et Tomaso van Castri por la summa <lb/>
+di doi milla ducati simili scritta a’ diecisette di questo mese, <lb/>
+et pagabile a’ diecisette decembre prossimo, et queste per la totale <lb/>
+espeditione del signor conte Georgio Lodovico di Levenstein et sodisfattione <lb/>
+di quanto deve, delle quali doi lettere dichiaro et intendo che <lb/>
+ogni accettatione, che facesse fare di esse il serenissimo principe di <lb/>
+Venetia, al quale elle sono dirette, sia nulla et se fosse facto <lb/>
+il loro pagamento li detti signori Calice et van Castri debbano <lb/>
+restituirlo<ptr target="#tn8" n="8"/> a sua Serenità intieramente quando però esse lettere di <lb/>
+cambio non siano accompagnate d’una lettera d’aviso del medesimo clarissimo <lb/>
+signor Christofforo Suriano, di haver io del tutto ispedito da quanto <lb/>
+deve qui et altrove, il signor conte Georgio Lodovico di Levenstein, et <lb/>
+che esso signor Conte sia partito da questo luoco di Delfsil, et fiumara <lb/>
+d’Eems, et fatto vela in mare con le navi d’entro le quali sono li <lb/>
+tre milla fanti, che sua Signoria illustrissima ha levati per condurli al servitio <lb/>
+della serenissima republica di Venetia per confermatione delle qual tutte <lb/>
+cose sottoscriverò et segnerò le presenti<ptr target="#tn9" n="9"/> di mia propria mano
+<pb n="063v" facs="05_063v" rend="0"/>
+et col mio proprio sigillo et effettuato in tutto quanto di sopra <lb/>
+doverà la presente scrittura restar nulla, et di niun valore, et <lb/>
+le sudette lettere di cambio doveranno haver il suo intero vigore. </p>
+<p>Di Delfsil a’ diecisette 17<ptr target="#tn10" n="10"/> ottobre 1617 stilo nuovo </p>
+<p>Io Alessandro vanden Berghe affermo e ratifico di mia propria <lb/>
+mano, et col mio sigillo quanto è detto di sopra. </p>
+<p>Collata praesens copia cum originali <lb/>
+suo subscripto et signato; eamque au-<lb/>
+thentico per omnia convenire testa-<lb/>
+mur nos consules senatusque urbis Gro-<lb/>
+ninganae sigillo Reipublicae et subscriptione <lb/>
+secretarii nostri, actum Gro-<lb/>
+ningae veneris 17 octobri 1617. </p>
+<p>Awinshemius<ptr target="#tn11" n="11"/> <lb/>
+Reipublicae Groningae a secretario </p>
+<p><metamark facs="Trace of a seal"/></p>
+<pb n="064r" facs="05_064r" rend="0"/>
+<p><metamark facs="Trace of a seal"/></p>
+<pb n="064v" facs="05_064v" rend="90"/>
+<p>Copia della scrittura del Vandenbergh <lb/>
+nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "q-" corrected above "p-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above -and.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "ill-" corrected above "s(igno)ri."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "una scrittura" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "re-" corrected above "in."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+</div>
+</body>
+</text>
+</TEI>

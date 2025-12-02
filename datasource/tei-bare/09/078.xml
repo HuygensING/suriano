@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.078 date 1620-12-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">078</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 388r-392v, 395r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp499-507
+            </note>
+            <biblScope unit="page">388r-392v, 395r-v, 393r-394v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Letters of 11 December have just arrived, so he has been unable to perform the commandments. In response to the letters, he outlines Dardani has not yet finished his work and that he needs his assistance and experience to settle these matters. States have decided on embassies to France and England, Suriano expects them to turn their attention to Venice. Nothing essential to report from HRE. Henry’s cavalry have returned to their garrisons; next year troops will increase (see attachment) Maurice has been accepted as general by Groningen. One document attached: "Augumento delle truppe dei signori Stati"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-29">29 dicembre 1620</date>
+            <num>120, 121</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="120">
+<div type="main" facs="main text of letter" n="120">
+<!--<p>29 dicembre 1620, L’Aia (cc. 388r-392v, 395r-v)</p>-->
+<pb n="388r" facs="09_388r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 260 comincia 259 </p>
+<p>Serenissimo Principe </p>
+<p>non posso essequir che dimani li commandamenti della Serenità vostra <lb/>
+venutimi in doi lettere sue de’ xi dello stante, sendomi <lb/>
+capitate solo questa mattina. Coll’occasione del presentar <lb/>
+la risposta di lei alle lettere di sue Eccellenze toccanti le <lb/>
+occorrenze di Constantinopoli, essequirò anco con <lb/>
+pieno ufficio quanto mi commanda di riferire <lb/>
+et considerare nelli presenti emergenti, et travagliati <lb/>
+accidenti del mondo. </p>
+<p>In una delle medesime lettere de’ xi comprendo che vostra Serenità <lb/>
+stimava, che la revisione, et ispeditione de’ conti delle <lb/>
+navi potesse già esser vicina al fine, et che stante <lb/>
+questo fosse di sua intentione, che ’l signor Dardani se ne <lb/>
+ritornasse. Mostrando la Serenità vostra desiderio che ’l servitio <lb/>
+di lei sia fatto con quell’acuratezza, et studio, che <lb/>
+merita una sì gran spesa passata non si può far <lb/>
+che con l’assistenza di persona, che nell’intelligenza <lb/>
+de’ conti sia versata, et pratica, et quando il signor <lb/>
+Dardani, che scuopro in questa professione attivissimo <lb/>
+a questo ministerio se ne dovesse partir così tosto <lb/>
+come par che le lettere accenino supplico la Serenità vostra <lb/>
+a creder, che sarebbe un lasciar<ptr target="#tn1" n="1"/> le cose imperfette
+<pb n="388v" facs="09_388v" rend="0"/>
+col medesimo sconcerto, che le hanno portate li capitani delle <lb/>
+navi, et in maniera imbrogliate, che non si haverebbe <lb/>
+ad aspettar altro che pregiudicio al publico, et <lb/>
+scontento a’ particolari. Colla sola amiralità di Northolan-<lb/>
+dia ha<ptr target="#tn2" n="2"/> avanzato non poco nel rincontro de’ tempi, de’ <lb/>
+morti, de’ falliti, et altri simil accidenti che tutto <lb/>
+porta summa, et Dio benedetto m’inspirò a dimandarle <lb/>
+et pregarla di mandar un suo ragionato perché <lb/>
+vedevo bene che la mia imperitia in questa materia <lb/>
+de’ conti troppo haverebbe apportato di danno al <lb/>
+publico, è vero che vi haverei presso ogni studio: <lb/>
+tuttavia non posso assicurar che havessi fatto di gran <lb/>
+lunga così bene il servitio, come fa il signor Dardani. <lb/>
+Serve egli coll’assistenza mia a maggior stimolo a <lb/>
+questi di portar le cose chiare, et liquide, et se si è <lb/>
+avanzato sin qua qualche summa, anco nel render <lb/>
+conto delle amunitioni, et altri apprestamenti si do-<lb/>
+verà ricever il medesimo beneficio. Pretendevano quelli <lb/>
+della sudetta amiralità di Northolandia di dover <lb/>
+haver ancora cinquantamilla fiorini comprese le <lb/>
+artiglierie perse col nauffragio della nave Santa Giustina
+<pb n="389r" facs="09_389r" rend="0"/>
+tuttavia il signor Dardani colla diligenza usata non vede <lb/>
+apparergli più di 45 mila in circa, et da questi si ha a <lb/>
+ribatter ancora parte delle amunitioni. Quello che <lb/>
+accade con questa, accaderà anco con l’altre amiralità. <lb/>
+Egli non manca di<ptr target="#tn3" n="3"/> diligenza, ha del continuo la penna <lb/>
+in mano, ma<ptr target="#tn4" n="4"/> serenissimo Principe si ha da far con <lb/>
+gente flematiche, che ritornano doi, tre, et quattro <lb/>
+volte sopra una medesima cosa, et un conto di dieci <lb/>
+fiorini è numerato a uno a uno o sia che temino <lb/>
+d’esser ingannati, o più tosto<ptr target="#tn5" n="5"/> d’ingannar sé stessi. <lb/>
+La persona del signor Dardani la veggo qui necessaria, <lb/>
+anzi necessarissima<ptr target="#tn6" n="6"/> per molti rispetti, ma principalmente <lb/>
+per servitio, et interesse di vostra Serenità, et se assicuri che <lb/>
+né da lui, né da me si perderà onza di tempo. Egli <lb/>
+opera quotidianamente, et io gli assisto in quello che <lb/>
+posso, concorre meco a procurar il publico vantaggio <lb/>
+et sia certa, che il denaro che spende in lui è otti-<lb/>
+mamente speso. Spero che acconsentirà a quanto mi <lb/>
+occorre di riverentemente rappresentarle, et che lascierà <lb/>
+che quest’opera resti perfettionata, et chiara come <lb/>
+si deve per mano d’esso Dardani, poiché l’ha inviato a tal effetto. </p>
+<pb n="389v" facs="09_389v" rend="0"/>
+<p>Per il trattato de’ formenti col prossimo ordinario aspetto la <lb/>
+risposta della Serenità vostra alle conditioni proposte da’ mercanti <lb/>
+che si sono offerti con esse di pigliar il partito, et <lb/>
+conforme ad esse mi regolerò, et soliciterò accordando <lb/>
+per la pronta speditione. Intanto riverentemente le <lb/>
+avviso esser fino alli xi di questo uscita del Tessel <lb/>
+per passar a Venetia una nave de’ signori Calandrini, <lb/>
+et compagni con 140 lastri di grano, et essendo <lb/>
+diretta al Noirott potrà ella far sotto mano cavar <lb/>
+quello, c’habbi in commissione per lo smaltimento di <lb/>
+essi grani. </p>
+<p>Quanto alli capi, et alla levata nelle mie prime ho espresso <lb/>
+ciò che<ptr target="#tn7" n="7"/> occorreva, et pervenutimi gl’ordini della <lb/>
+Serenità vostra che coi precedenti, et con questo dispaccio <lb/>
+ho ricercati non mancarò di solicitar con ogni maggior <lb/>
+studio, et diligenza la ispeditione, con sicurezza <lb/>
+di dover goder del frutto della promessa che ricevo <lb/>
+per tale, che spedito da<ptr target="#tn8" n="8"/> detta levata, o altrim[enti] <lb/>
+ella sia per concedermi licenza di ritornar a’ <lb/>
+piedi della Serenità vostra nel che la supplico a continuare <lb/>
+per mio sollievo, et per mia consolatione correndo già
+<pb n="390r" facs="09_390r" rend="0"/>
+il quinto anno, che mi trovo a questa residenza <lb/>
+et fra questo tempo più, et più volte ho supplicato <lb/>
+la Serenità vostra a sollevarmene, et intanto mi sono alcuna <lb/>
+volta tacciuto in quanto li commandamenti di vostra Serenità ch’erano <lb/>
+di dovermi regolar alla sua volontà nell’operar da <lb/>
+questa parte m’imponevano silentio. Resto consolato <lb/>
+colla speranza, et più consolato sarò come spero da <lb/>
+gl’effetti, che mi proveniranno dalla benignità sua, <lb/>
+et vorrà ch’io venghi a sollevarmi in Patria doppo <lb/>
+disdotto anni posso dir continui, et senza intermissione <lb/>
+che me vi trovo absente: ubidirò in ogni modo <lb/>
+sempre al<ptr target="#tn9" n="9"/> suo<ptr target="#tn10" n="10"/> commandamento<ptr target="#tn11" n="11"/> solo scopo della mia devota <lb/>
+intentione. </p>
+<p>Spero pur che questi signori hora, che hanno del tutto risoluta <lb/>
+l’ambasciata per Francia, et per Inghilterra, et che ne hanno data <lb/>
+parte alli ambasciatori delle due corone, metteranno in deli-<lb/>
+beratione la missione di ambasciatore per costì, così uno di <lb/>
+questi giorni cavai da uno dell’assemblea che mi disse anco, che la dilatione nasceva dall’haversi atteso a questa deputatione delle ambasciate sudette <lb/>
+et dal volersi veder come caminassero le cose del mondo
+<pb n="390v" facs="09_390v" rend="0"/>
+et gl’affari de’ Grisoni, parendo che vi sia intentione <lb/>
+che l’eletto habbi a passar per quella parte<ptr target="#tn12" n="12"/> a’ fine <lb/>
+di far ufficii nell’Helvetia, et dove sarà stimato più <lb/>
+proprio. Un altro incontro mi disse che vi era a <lb/>
+questa nominatione, et è che cadauna Provincia <lb/>
+propone di mandar un suo, et quella<ptr target="#tn13" n="13"/> in particolare di <lb/>
+Holanda sostentano, che la convenienza voglia, <lb/>
+andando a risieder, ove vi è scala di negotio della <lb/>
+Natione, et di questa Provincia in particolare vi sia uno <lb/>
+de’ suoi, di modo che sendo proposto da una Provincia, <lb/>
+et un’altra proponendo si rimette la materia ad altro <lb/>
+tempo, che causa il differire; a questo si aggiunge <lb/>
+la natura flematica del Paese, et queste sono le <lb/>
+vere, et sincere cause di tal dilatione, che voglio sperar <lb/>
+nondimeno, che non habbi a protrahersi più molto in <lb/>
+lungo. </p>
+<p>Del vassello Jonas già ho riverentemente scritto alla Serenità vostra quanto <lb/>
+cavai dell’ordine dato costì alli agenti de’ compar-<lb/>
+tecipi, et della notitia, che ella ne poteva haver <lb/>
+dal console di questa Natione, aspetterò li suoi <lb/>
+prudentissimi commandamenti se mi occorrerà di far altra
+<pb n="391r" facs="09_391r" rend="0"/>
+diligenza in questo particolare. </p>
+<p>Niuna cosa mi occorre dir d’essentiale toccante gl’affari di <lb/>
+Alemagna se non che sempre più con lettere viene <lb/>
+confermato a questi signori che ’l Re palatino sia forti-<lb/>
+ficato sin qui dalle speranze, che li vengono date da’ <lb/>
+Moravi, et da’ Silesii, et da altri di assistergli. Questi <lb/>
+signori stano in dubio di quello habbi da esser, non sano che <lb/>
+promettersi sentono sodamente armarsi l’Imperatore, che si <lb/>
+faranno, se non si fanno al presente genti in Alsatia <lb/>
+et altrove da’ Spagnuoli, et da adherenti alla casa d’Austria <lb/>
+non cessano però la continuatione dell’assistenza di 50 mila <lb/>
+fiorini per mese alli principi, et d’altrettanti a’ <lb/>
+Bohemi. Le lettere di monsignor Carleton ambasciator in Inghilterra non <lb/>
+li portano tutto ’l contento, che vorrebbono, et questo <lb/>
+può esser, che tanto più farà solicitar anco la <lb/>
+speditione dell’ambasciata a quella volta. </p>
+<p>Alla nuova riduttione della Congregatione di Holandia si <lb/>
+farà l’esborso del denaro per l’accrescimento delle <lb/>
+compagnie, et dalla qui aggiunta nota se si com-<lb/>
+piacerà la Serenità vostra potrà veder la ripartitione delle <lb/>
+provincie quanto all’infanteria, et per la cavalleria
+<pb n="391v" facs="09_391v" rend="0"/>
+sarà a proportione. </p>
+<p>La cavallaria rivenuta col signor principe Henrico s’è ridotta alle <lb/>
+sue solite guarnigione. Mostra esser restato mal sodisfatto <lb/>
+delle truppe de’ Principe havendole trovate in molto minor <lb/>
+numero di quello s’era publicato, et a me ha detto che <lb/>
+havevano poco più di 3 mila cavalli effettivi purché vi arrivas-<lb/>
+sero, et cinquemille in 6 mila fanti povera gente inesperta, <lb/>
+et da farvi poco caso; che tuttavia quel di bene che si è <lb/>
+fatto è stato, che ’l Marchese non habbi proseguito più <lb/>
+oltre nelli acquisti dentro al Palatinato. </p>
+<p>Si fa conto qui di metter in campagna per l’anno venturo<ptr target="#tn14" n="14"/> <lb/>
+sedici<ptr target="#tn15" n="15"/> milla fanti, et altrettanti, che restino dentro <lb/>
+al Paese, et come questo augumento, che al presente si <lb/>
+è risoluto di fare doverà esser in ordine<ptr target="#tn16" n="16"/> tra la <lb/>
+metà di febraro, et principio di marzo; così verso <lb/>
+l’aprile, et maggio si leveranno altri<ptr target="#tn17" n="17"/> tremilla fanti <lb/>
+o quattro mille come si fece l’anno passato per metter <lb/>
+nelle guarnigioni, et valersi dei vecchi se sarà necessario. </p>
+<p>Non havendo li signori stati di Gruninghen voluto cambiar la <lb/>
+risolutione fatta di voler per<ptr target="#tn18" n="18"/> governatore della loro Provincia <lb/>
+il signor principe d’Oranges, vedendoli fermi in essa
+<pb n="392r" facs="09_392r" rend="0"/>
+si è l’Eccellenza sua contentata di riceverla come fece hieri a <lb/>
+sera, onde al presente resta governatore di sei provincie <lb/>
+et della settima ch’è Frisia il signor conte Ernesto Casimiro <lb/>
+n’ha già preso il possesso. Resta escluso da quella <lb/>
+di Gruninghen che pur haveva il fratello conte Guglielmo <lb/>
+perché<ptr target="#tn19" n="19"/> quei Stati hanno havuto dispetto, che Frisoni <lb/>
+habbino dato ad esso Conte il governo della loro senza <lb/>
+dargliene previa notitia, o communicatione. Gratie etc. </p>
+<p>Dall’Haya li 29 decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="392v" facs="09_392v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="395r" facs="09_395r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="395v" facs="09_395v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 260 comincia 259 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="120">
+<!--
+<p n="395vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29 decembre 1620 ricevute a’ 14 gennaro </p>
+<p>Del segretario Suriano. n° 259 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="121" corresp="120" source="393r-394v" >
+<div type="main" facs="main text of attachment I" n="121" corresp="120" >
+<!--<p>Allegato I al n. 120 (cc. 393r-394v)</p>-->
+<pb n="393r" facs="09_393r" rend="0"/>
+<head>main text of attachment I</head>
+<table>
+<row role="label">
+<cell><p>Augumentatione</p></cell>
+<cell><p>Cavalli</p></cell>
+<cell><p>1015 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Pedoni</p></cell>
+<cell><p>8110 </p></cell>
+</row>
+<row>
+<cell><p>Per</p></cell>
+<cell><p>Gheldria</p></cell>
+<cell><p>445 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Holanda</p></cell>
+<cell><p>3660 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Zelanda</p></cell>
+<cell><p>1160 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Utrecht</p></cell>
+<cell><p>445 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Frisia</p></cell>
+<cell><p>1490 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Ovrisel</p></cell>
+<cell><p>240 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Gruninghen et Omelandia</p></cell>
+<cell><p>670 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell><p>8110 </p></cell>
+</row>
+</table>
+<table>
+<row role="label">
+<cell><p>Per le sette Provincie Unite ogni mese 121672 fiorini </p></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>De’ Francesi</p></cell>
+<cell><p>Per il colonello Altariva</p></cell>
+<cell><p>50 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>Per doi compagnie di vacavallaria</p></cell>
+<cell><p>60 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell><p>110 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>In tutto</p></cell>
+<cell><p>9235 </p></cell>
+</row>
+</table>
+<pb n="393v" facs="09_393v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="394r" facs="09_394r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="394v" facs="09_394v" rend="270"/>
+<p>Augumento delle truppe <lb/>
+dei signori Stati </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 260<ptr target="#tn20" n="20"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-s-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "p-" corrected above "d."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-issima" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "ciò che" correction in the line above on "quanto" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "qui" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-l" corrected above -"i."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-o" corrected above -"oi."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-o" corrected above -"i."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-a" corrected above -"i."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "16" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "sed-" corrected above -"mi."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "loro" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "-er-" corrected above -"oi", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-6-" corrected above "-5-."</p></note>
+</div>
+</body>
+</text>
+</TEI>

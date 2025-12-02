@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.034 date 1623-06-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">034</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 342r-343v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">340r-341v, 342r-343v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has met with Andreas Pawell, who has confirmed his departure to France on behalf of Frederick V to counter the plans of Bavaria. The aim of mission is to secure financial support from France, a sum of 500,000 florins. Frederick is cautious about revealing too many details about the mission. Mentions the circulation of a false report on a successful operation near Calais. A merchant ship was damaged near the English channel but managed to continue its journey. Notes the return of Calandrini from Venice to visit his family in Leiden and has shown his golden chain to Suriano. Acknowledges receipt of letter with news from Spain and Zara and will pass on information to Pesaro in Paris. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-06-05">5 giugno 1623</date>
+            <num>098, 099</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="098" corresp="099" source="340r-341v" >
+<div type="main" facs="main text of attachment I" n="098" corresp="099" >
+<!--<p>Allegato I al n. 99 (cc. 340r-341v; decodifica di c. 342r)</p>-->
+<pb n="340r" facs="12_340r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 509 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="340v" facs="12_340v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="341r" facs="12_341r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="341v" facs="12_341v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="099">
+<div type="main" facs="main text of letter" n="099">
+<!--<p>5 giugno 1623, L’Aia (cc. 342r-343v)</p>-->
+<pb n="342r" facs="12_342r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 509 comincia 507 </p>
+<p>Serenissimo Principe </p>
+<p>havevo prima saputo come riverentemente scrissi a vostra Serenità, che ’l re di <lb/>
+Bohemia voleva inviar in Francia il Pauli suo consigliere, <lb/>
+il quali vidi un giorno della passata settimana. Mi confirmò <lb/>
+quest’andata et che <lb/>
+<hi rend="decoded">l’oggetto</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">principale della <lb/>
+missione era per opporsi ai dissegni, e <lb/>
+dubitationi di Biaviera</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">pregiudiciali ai <lb/>
+suoi interessi, et per veder</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">se potesse <lb/>
+tirar qualche somma di denaro particolar-<lb/>
+mente del prelato dalla casa pala-<lb/>
+tina alla corona di Franza, che <lb/>
+ascende a 500 mila fiorini. <lb/>
+</hi></p>
+<p><hi rend="decoded">Il Re in discorso mi confirmò la mis-<lb/>
+sione, che doveva farsi, ma non con-<lb/>
+descesse a tutti li particolari, solo disse, <lb/>
+che era necessario, che il Re christianissimo sa-<lb/>
+pesse che egli era fatto torto, et parlan-<lb/>
+do di Baviera, disse io non so come <lb/>
+sa ingannar, o voglia ingannar anco <lb/>
+quella corte, che al certo resterà <lb/>
+delusa, non vi essendo apparenza, che <lb/>
+il Duca si stachi da casa d’Austria, fa-<lb/>
+cendolo bisogna tenirlo per ingrato, <lb/>
+come in effetto in lui tutto quello, che <lb/>
+dice, et fa dire, non deve esser creduto <lb/>
+perché è doppio, et sagartatamente</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">mentire <lb/>
+et far il fatto suo.</hi> <lb/>
+Se ben sua Maestà né il Ministro <lb/>
+non sono stati, che sopra generali in effetto il <lb/>
+Bos prima che andarsene di qua fu a visitar <lb/>
+il consiglier Plesen pur della corte del medesimo Palatino <lb/>
+gli ha detto delle medesime cose, che scrissi nelle mie 2<hi rend="superscript">de</hi> <lb/>
+lettere della passata settimana. </p>
+<pb n="342v" facs="12_342v" rend="0"/>
+<p>In lettere d’un mercante di Anversa venne avviso la <lb/>
+passata settimana, che alcuni dei vasselli di questi signori <lb/>
+si erano accostati a Calis-mal che sortite le genti <lb/>
+si<ptr target="#tn5" n="5"/> havevavano fatti patroni di quel luoco in somma <lb/>
+altre simil circostanze, che sparso per tutto, tutto godeva-<lb/>
+no; ma poi si è assopita da sé la voce senza la veri-<lb/>
+ficatione dell’avviso, ch’è riuscito una burla: ma <lb/>
+questo si tiene per felice augurio di migliori novelle. </p>
+<p>Una delle navi, che partirono per quel viaggio sconosciuto si trovò <lb/>
+fuori del canal d’Inghilterra con una fala sotto quasi al <lb/>
+fondo, il che scoperto si ritornò con la flotta all’isola <lb/>
+si raccommodò, et tornorono tutte le navi insieme <lb/>
+alla continuatione del loro viaggio. Ma Spagnoli ne hanno <lb/>
+gatto correr un gran strepito a Brusseles, publicando <lb/>
+quello che haverebbono voluto che fosse della perdita <lb/>
+o rotta per tempesta di mare della più parte dei <lb/>
+vasselli; ma qui si aspetta di sentir qualche rota <lb/>
+che haveranno data, o qualche presso che haveranno <lb/>
+fatto in mar o in terra a pregiudicio de’ Spagnoli. </p>
+<p>Arrivò sabbato a sera di ritorno d’Italia il signor Calandrini <lb/>
+non vide di questi del Governo alcuno ma ben sua Eccellenza<ptr target="#tn6" n="6"/> <lb/>
+colla quale solamente complì, et da essa prese poi licenza <lb/>
+di poter andar a Leidem tre hore di qua per veder <lb/>
+la madre, la moglie, et li parenti, che quivi l’atten-<lb/>
+devano. Mi ha mostrato l’honore ricevuto dalla <lb/>
+Serenità vostra della catena d’oro, et si è laudato grandemente <lb/>
+delli favori, et gratie ricevute da lei mentre si è trattenuto <lb/>
+in cotesta città doverà anco far a questi signori la <lb/>
+relatione conforme. </p>
+<p>Ho ricevutoìe le lettere di vostra Serenità dei 19 del passato con
+<pb n="343r" facs="12_343r" rend="0"/>
+gl’avvisi di Spagna, et di Zara, et di essi mi valerò, et <lb/>
+dell’instruttioni secondo che per mia debolezza comprenderò <lb/>
+esser il suo servitio. <lb/>
+<hi rend="decoded">All’eccellentissimo</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">Pesaro manderò tutto quello, che <lb/>
+nelle materie correnti, si contiene nelle lettere <lb/>
+di questo dispaccio. Gratie. <lb/>
+</hi></p>
+<p>Dall’Haya li 5 giugno 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="343v" facs="12_343v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 509 comincia 507 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="099">
+<!--
+<p n="343vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 zugno 623<ptr target="#tn8" n="8"/>. Ricevute 22 detto </p>
+<p>Haya. n° 509 </p>
+<p>Il Pauli cancelier del Palatino va in Francia <lb/>
+per opporsi ai dissegni di Baviera, et <lb/>
+per procurar qualche somma del denaro pre-<lb/>
+stato già dalla casa palatina alla <lb/>
+corona di Francia. </p>
+<p>Il Palatino dice anco al segretario di <lb/>
+questa espeditione per far sapere il torto, che <lb/>
+riceve, et parla di Baviera, et di <lb/>
+come sappia così ben ingannare. </p>
+<p>Avvisi circa vasselli di que’ signori, et <lb/>
+circa le navi dell’ultima espeditione. </p>
+<p>Arrivo del Calandrini, sodisfatto <lb/>
+delle cortesie di vostra Serenità. </p>
+<p>Ha ricevute le lettere publiche. </p>
+<p>Manderà tutto il contenuto <lb/>
+di questo dispaccio in Francia. </p>
+<p>L. C. R<hi rend="superscript">tis</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "l’oggetto … il fatto suo" decoding of the encrypted text can be found on c. 340r.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-se" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "sagatartame" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-i" corrected above "-e;" followed by "ma" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "dalla" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "All’ecc(ellentissi)mo … Gratie." decoding of the encrypted text added below the crossed-out encrypted text.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

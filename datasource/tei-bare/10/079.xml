@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.079 date 1621-12-06</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">079</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 393r-395v, 400r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">393r-395v, 400r-v, 396r-v, 399r-v, 397r-398v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Arrival of letters has been delayed. Reports that the Dutch ambassadors have left to England and will try to convince James to assist them. Letters from Mansfelt have arrived with intercepted correspondence of the Emperor with proposition to give the Palatinate to the Duke of Baviera. Frederick also received letters from those besieged by Tilly in Heidelberg which are enclosed with this despatch. Reports that the Spanish are still trying to attempt something near Sluis. Concludes with Van Aerssen, who continues to raise the matter of difficulty to travel to Venice. Two documents attached: "Intimatione di monsignor di Tilli a quelli d’Heidelbergh" and "Risposta di quelli d’Heidelbergh al baron di Tylly"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-12-06">6 dicembre 1621</date>
+            <num>127, 128, 129</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="127">
+<div type="main" facs="main text of letter" n="127">
+<!--<p>6 dicembre 1621, L’Aia (cc. 393r-395v, 400r-v)</p>-->
+<pb n="393r" facs="10_393r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 352 </p>
+<p>Serenissimo Principe </p>
+<p>il dispaccio dei 12 del passato non s’è perso sendomi capitato <lb/>
+doi giorni doppo l’ispeditione della<ptr target="#tn1" n="1"/> mia<ptr target="#tn2" n="2"/> n° 351, che mando <lb/>
+replicata colle presenti. Non vi erano lettere di vostra Serenità. <lb/>
+Ancor sono in espettatione di quelle dei 19. </p>
+<p>Fece hier mattina vento buono per passar in Inghilterra; onde a <lb/>
+tal effetto partirono gl’ambasciatori di queste Provincie <lb/>
+per quella volta insieme con li deputati della Compagnia <lb/>
+dell’Indie Orientali. </p>
+<p>Oltre le commissioni per questo negotio dell’Indie hanno havuto <lb/>
+particolar commandamento li detti ambasciatori di procurar con <lb/>
+ogni ufficio più proprio, opportuno, et efficace di fo-<lb/>
+mentar la dispositione, che trovassero nel re della <lb/>
+Gran Bertagna inclinata alla solida assistenza di <lb/>
+questi principi, et alla ricuperatione dei loro stati; <lb/>
+rappresentando, et considerando a sua Maestà gl’artificii <lb/>
+de’ Spagnuoli, le loro insidie, et la poca fede, che <lb/>
+si doveva prestar alle loro promesse; insomma far tutto <lb/>
+quel più, che potranno perché l’animo di quella Maestà <lb/>
+si alieni in quanto più si può dal dar più or-<lb/>
+recchie alle parole di Gondemar. </p>
+<p>Fecero visita detti ambasciatori a questi principi; ma a parte <lb/>
+fu con il Re in lungo ragionamento doppo il signor Francesco <lb/>
+Arsen, come quello, che deve portar la parola <lb/>
+informandolo sua Maestà et concertando insieme quello <lb/>
+doveva dir in Inghilterra. </p>
+<p>In un istesso tempo, che detti ambasciatori erano pronti alla <lb/>
+partenza capitorono lettere del conte di Mansfelt <lb/>
+con altre intercette, che l’Imperatore scriveva in Spagna
+<pb n="393v" facs="10_393v" rend="0"/>
+al Re catholico, et al padre Iacinto capuccino già noto a vostra Serenità. <lb/>
+Queste in particolare erano in italiano scritte di mano propria <lb/>
+di sua Maestà cersarea; nelle quali si dà a conoscere chiaramente <lb/>
+haver ella affermato in parola di principe quello che <lb/>
+altrimenti appare nelle medesime lettere: poiché gli scrive, che <lb/>
+non si lasci intender alla corte catholica, ch’ella havess[e]<ptr target="#tn3" n="3"/> <lb/>
+disposto dell’investitura dell’elettorato in persona del <lb/>
+duca di Baviera a fine che sua Maestà catholica non ricevesse<ptr target="#tn4" n="4"/> <lb/>
+in male, che havesse così disposto di detto elettorato <lb/>
+senza darlene prima notitia; et che destramente et con <lb/>
+termine prudente procuri d’indur quella Maestà a far-<lb/>
+gliene instanza perché pari che lo facci (ancorché sia <lb/>
+seguito) a contempolatione di lei. Inoltre l’ingiunge <lb/>
+di far efficace ufficio per aiuti, et per imprimerle bene <lb/>
+questo esser il tempo proprio per estirpar gl’heretici <lb/>
+in tutta l’Alemagna, metter terrore agl’altri; et in <lb/>
+possesso l’auttorità di casa d’Austria, et la successione <lb/>
+di lei nella Germania. Parmi, che parli nell’une, <lb/>
+et nelle altre lettere del re della Gran Bertagna con <lb/>
+poco rispetto, mostrando anco minor stima degl’<lb/>
+ufficii fatti per la restitutione del Palatinato a questi <lb/>
+principi; nominandolo heretico. Queste lettere dal <lb/>
+re di Bohemia sono state ispedite in Inghilterra a fine <lb/>
+che quella Maestà le vegga, et comprendi la maniera <lb/>
+colla quale sin qui hanno trattato Spagnuoli, et Austriaci colla Maestà sua; pregandola a far consideratione, <lb/>
+et reflessione propria. </p>
+<p>La sostanza detta da me delle lettere mi fu communicata prima
+<pb n="394r" facs="10_394r" rend="0"/>
+dal signor Ambasciatore inglese poi hieri a sera da questi principi, <lb/>
+che restano meravigliati, et atoniti di questo termine <lb/>
+usato dall’Imperatore; et chi intende bene le cose in questo <lb/>
+Governo forma giudicio da<ptr target="#tn5" n="5"/> questo, dagl’accidenti passati, <lb/>
+et dagl’andamenti presenti, che Cesare ha per fine di <lb/>
+estirpar assolutamente questa casa. </p>
+<p>Il signor Arsen in particolare doverà arrivato alla corte considerar viva-<lb/>
+mente al Re, et ai ministri l’importanza di questo negotio <lb/>
+et principalmente farla capitar all’orrecchio del Parlamento. </p>
+<p>Il conte di Mansfelt ha ricevuti denari di quelli, che dalli <lb/>
+signori Stati si sono fatti haver sotto la loro parola a<ptr target="#tn6" n="6"/> questa <lb/>
+Maestà; et presto doverà capitarne di quelli, che ’l <lb/>
+re della Gran Bertagna ha già deliberato, havendo <lb/>
+cominciato il Calandrini, et compagni haver ordine <lb/>
+di rimessa dal Burlamacchi di Londra, al quale <lb/>
+si è tentato a fine che questi denari non capitino <lb/>
+in Palatinato di levar il credito facendosi sparger <lb/>
+il suo fallimento con artificiosa promulgatione; che <lb/>
+poi per quanto s’è inteso qui è<ptr target="#tn7" n="7"/> riuscita vana. </p>
+<p>Il medesimo Mansfelt si tratteneva colli ultimi avvisi sul <lb/>
+vescovato di Spira, havendo posto in contributione <lb/>
+il Paese all’intorno; et particolarmente la città di Bruxel <lb/>
+pagarà sessanta milla fiorini di Alemagna. </p>
+<p>Quelli del reggimento d’Heidelbergh hanno ispedito a <lb/>
+questa Maestà l’intimatione di monsignor di Tilli, et la <lb/>
+risposta che<ptr target="#tn8" n="8"/> li hanno data per saper insieme il com-<lb/>
+mandamento della Maestà sua. Haverà vostra Serenità aggiunta <lb/>
+l’una, et l’altra; et con tutto che le Maestà loro fossero
+<pb n="394v" facs="10_394v" rend="0"/>
+state avvisate, che Heidelbergh fosse stato assediato da doi parti <lb/>
+non hanno però sicurezza di questo; ma lo temono. La <lb/>
+risposta del Re è stata ringratiar quel consiglio, et quelli <lb/>
+del reggimento essortandoli a mantenersi in fede con <lb/>
+prometter di far ogni cosa possibile per ridurli in quiete, <lb/>
+et sollevarli da tante afflittioni. </p>
+<p>Ho cavato per confermatione di quanto ho riverentemente scritto <lb/>
+con precedenti lettere, che questa Maestà, intesa la <lb/>
+buona risolutione del re della Gran Bertagna, risol-<lb/>
+verà condursi in Palatinato per sostener le cose sue. </p>
+<p>Le lettere di Colonia capitate ultimamente portano, che buon numero <lb/>
+de’ soldati, che andavano verso Heidelbergh passati il <lb/>
+fiume Nechar siano stati rincontrati, battuti, et fatti <lb/>
+ripassar il medesimo fiume dalle genti del Palatinato. </p>
+<p>È successa qualche contentione di precedenza per il commando <lb/>
+tra don Gonzal di Cordova, et monsieur di Tilli; non <lb/>
+volendo questo ceder a detto Cordova, stante l’esser <lb/>
+esso Tilli commissario di Cesare in questa attione; et <lb/>
+luogotenente generale della Lega catholica; né ha voluto <lb/>
+rimettersi alla decisione, che li presentava esso Cordova <lb/>
+che dovesse farsi delle loro differenze dalla serenissima <lb/>
+Infanta; ma si crede, che per far bene il servitio dei <lb/>
+suoi principi, et male a chi lo vogliono inferire si <lb/>
+accommoderanno ambidoi, et cederà lo Spagnuolo pur-<lb/>
+ché la casa d’Austria trionfi. </p>
+<p>È svanita quella voce, che corse, che lo Spinola fosse per <lb/>
+richiamar il Cordova sudetto, et si vede l’effetto <lb/>
+continuando nel Palatinato, over par che doverà
+<pb n="395r" facs="10_395r" rend="0"/>
+svernare. Detto Marchese non ha voluto mandar in <lb/>
+guarnigione le sue genti, che prima non habbi sentito <lb/>
+che ’l signor principe Mauritio habbi inviata<ptr target="#tn9" n="9"/> la cavallaria<ptr target="#tn10" n="10"/> ai suoi quartieri. </p>
+<p>Ha retirato anco le genti da piedi nei più vicini luochi <lb/>
+alle frontiere; mandando la compagnia delle sue <lb/>
+guardie qui, che arrivò sabbato sera; et dimani <lb/>
+s’aspetta l’Eccellenza sua. </p>
+<p>Ella è andata a riveder alcune delle piazze frontiere, et <lb/>
+la construttione fatta in questi ultimi giorni di alcuni <lb/>
+forti per dar anco gl’ordini necessarii. </p>
+<p>Il signor principe Henrico restarà a Nimeghen per qualche <lb/>
+giorni; et sin tanto, che vedrà esser necessità della <lb/>
+sua persona, et della sua assistenza. </p>
+<p>Diverse terre nel paese di Cleves, et lì intorno sono state sman-<lb/>
+tellate, come Cleves ancora non delle muraglie; ma di <lb/>
+alcuni terrapieni, che alle doppie fosse sono all’intorno <lb/>
+secondo l’uso di quel Paese; et ciò per non lasciar quelle piazze <lb/>
+in stato all’inimico da potersene valere a <lb/>
+pregiudicio di queste Provincie; et per non privar quei <lb/>
+habitanti affatto di difesa contra le scorrerie. </p>
+<p>Sua Eccellenza è aspettata qui con desiderio per consultar con lei <lb/>
+sopra il trovar summa sufficiente di denaro per manteni-<lb/>
+mento della guerra tanto per terra, che per mare; sendo <lb/>
+posto innanti per quella del mare <hi rend="decoded">di</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">armar buona quantità di vasselli, et con essi far scorrer alle <lb/>
+rive di Spagna, et apportar ogni maggior incommodo al Cattolico, et così <lb/>
+divertir le sue forze. <lb/>
+</hi></p>
+<pb n="395v" facs="10_395v" rend="0"/>
+<p>Tutto starà nel trovar fondo sufficiente, et a bastanza per metter <lb/>
+in essecutione disegno di tanto momento. </p>
+<p>Continuano Spagnuoli dal forte di San Donà a tormentar quelli <lb/>
+dell’Esclusa, tirando continuate canonate dentro alla terra <lb/>
+ruinando tal volta qualche casa; et tal volta amazzando <lb/>
+alcuni; et essi del forte non possono esser offesi da quelli <lb/>
+della detta piazza. </p>
+<p>Dentro al porto di essa Esclusa vi sono al presente per commandamento <lb/>
+dei signori Stati quattro grosse navi, quattro altre piccole, <lb/>
+et quattordici barche armate, tutte con buon numero di <lb/>
+marinarezza<ptr target="#tn12" n="12"/> per vietar l’entrata di detto porto a’ <lb/>
+vasselli spagnuoli; et insieme per difender quelli, che <lb/>
+fabricano il forte sopra l’isola di Cassant. </p>
+<p>Li stati di Zelanda, che hanno la sopraintendenza in quella <lb/>
+parte hanno ricercato a sua Eccellenza il mandar nuova <lb/>
+provisione di soldatesca, temendo che quella che<ptr target="#tn13" n="13"/> è al <lb/>
+presente in Cassant non sia sufficiente quando venisse <lb/>
+a far il giaccio; potendo l’inimico nei luochi più <lb/>
+stretti pigliar il vantaggio di condursi col beneficio <lb/>
+di esso giaccio in detta isola; et tanto più mostrano <lb/>
+temerlo; quanto par che don Inico Borgia sia <lb/>
+per svernar in quella parte; et habbi commissione <lb/>
+di non perder qual si sia occasione, che se gl’offerisce. <lb/>
+Per le genti sua Eccellenza si ha riservato a prender <lb/>
+deliberatione alla sua venuta qui. </p>
+<p>Si è<ptr target="#tn14" n="14"/> ultimamente havuto avviso che otto navi di questi <lb/>
+paesi di là il distretto siano state quattro prese <lb/>
+da’ corsari, et quattro da’ Spagnuoli et di queste capitan
+<pb n="400r" facs="10_400r" rend="0"/>
+in mano di essi Spagnuoli ve ne erano dua con buona <lb/>
+summa di reali da otto; et l’altre erano di formenti <lb/>
+et diverse mercantie per Italia, et per Levante. La piazza <lb/>
+d’Amsterdam ha risentita grandemente questa perdita. </p>
+<p>Io non mancai di sodisfar al debito complimento con gl’ambasciatori <lb/>
+che sono partiti per Inghilterra visitandoli separatamente nelle <lb/>
+loro case. Et il signor Arsen per abondar in cortesia volse<ptr target="#tn15" n="15"/> <lb/>
+venir a pigliar di nuovo licenza da me. Facendo <lb/>
+offerte di servir la Serenità vostra in Inghilterra; et ovunque si <lb/>
+troverà. Et a proposito disse, che lasciava le sue <lb/>
+iscuse qui per l’ambasciata per Venetia, et che li signori Stati have-<lb/>
+rebbono deliberato quello, che havessero stimato a <lb/>
+proposito; et sempre la sua maggior difficoltà cadé<ptr target="#tn16" n="16"/> nella <lb/>
+difficoltà del viaggio. Ho inteso doppo, che all’<lb/>
+assemblea dei signori Stati Generali sia stato proposto <lb/>
+stanti le dette iscuse se si devi devenir ad altra <lb/>
+risolutione; et che quelli di Holanda riservatosi <lb/>
+di parlarne ai deputati delle città qui presenti, <lb/>
+pare che si sia inteso, che sentono, che si stia nella <lb/>
+prima risolutione di non cambiar la persona. Io <lb/>
+starò sentendo quello, che si delibererà,<ptr target="#tn17" n="17"/> <lb/>
+per darne riverente conto alla Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya li 6 decembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore</p>
+<p>Christofforo Suriano </p>
+<pb n="400v" facs="10_400v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 352 sola</p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="127">
+<!--
+<p n="400vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>6 decembre 1621 ricevute a’ 30 detto </p>
+<p>Del segretario Suriano. n° 352 </p>
+<p>Il dispaccio dei 12 novembre gli è giunto: <lb/>
+ma senza lettere publiche. </p>
+<p>Sono partiti gli ambasciatori per Inghilterra. </p>
+<p>Dice delle commissione, che portano essi <lb/>
+ambasciatori, oltre ’l negotio dell’Indie. </p>
+<p>L’Arsen fu prima a parte in lungo <lb/>
+ragionamento col re di Bohemia. </p>
+<p>Alla loro partenza capitorono lettere <lb/>
+di Mansfelt con altre intercette, che <lb/>
+l’Imperator scriveva in Spagna. </p>
+<p>Narra il contenuto; che per toccar anco <lb/>
+il re d’Inghilterra; sono state spedite colà <lb/>
+dal re di Bohemia le medesime lettere. </p>
+<p>Il conte di Mansfelt ha ricevuto denari <lb/>
+a nome del Palatino; e presto glene<ptr target="#tn18" n="18"/> <lb/>
+capiterà dei deliberati dal Re inglese. </p>
+<p>Il medesimo Mansfelt si tratteneva sul vescovato <lb/>
+di Spira; et havea posto il Paese all’<lb/>
+intorno in contributione; che però la <lb/>
+città di Bruxel pagarà 60 mila fiorini di Alemagna. </p>
+<p>Manda copia d’<ptr target="#tn19" n="19"/>un’intimatione di monsignor di Tilli, et <lb/>
+della risposta riespedita da sua Maestà ad Hei-<lb/>
+delbergh. </p>
+<p>La quale intesa la buona risolutione d’Inghilterra <lb/>
+pensa condursi in Palatinato. </p>
+<p>Di Colonia s’intende, che buon numero di soldati <lb/>
+che andavano verso Heidelbergh, siano stati <lb/>
+maltrattati, e fatti ritornar indietro dalle <lb/>
+genti del Palatinato. </p>
+<p>L. SS. L. R. </p>
+<p n="400vD">———</p>
+<p>Avisa alcuni particolari circa <lb/>
+lo Spinola, et altri capi spagnoli. </p>
+<p>Il signor principe d’Oranges ha ritirato le genti <lb/>
+da pedi nei più vicini luoghi alle <lb/>
+frontiere. Ha mandato all’Haia <lb/>
+la compagnia delle sue guardie. </p>
+<p>Ove s’aspetta anco sua Eccellenza […]<ptr target="#tn20" n="20"/> la quale <lb/>
+ha inviato la cavallaria ai suoi quartieri. </p>
+<p>Il Marchese anco ha mandato le sue <lb/>
+genti in guarnigione. </p>
+<p>Diverse terre nel paese di Cleves <lb/>
+sono state smantellate. </p>
+<p>S’aspetta sua Eccellenza all’Haia con gran desiderio <lb/>
+per consultar sopra qualche diversione, <lb/>
+per terra, e per mare. </p>
+<p>Di quella per mare dice la maniera. </p>
+<p>Quelli dell’Esclusa continuano ad esser <lb/>
+tormentati col canone dal forte <lb/>
+San Donato. </p>
+<p>Nel<ptr target="#tn21" n="21"/> porto<ptr target="#tn22" n="22"/> dell’Esclusa sono quattro <lb/>
+navi grande: ma dimandano a sua Eccellenza <lb/>
+nuova provisione di soldatesca li Stati <lb/>
+di Zelanda, che vi sopraintendono, <lb/>
+temendo che col vantagio del giaccio Spagnuoli s’avanzino […]<ptr target="#tn23" n="23"/> Cassant<ptr target="#tn24" n="24"/>. </p>
+<p>Otto navi de’ signori Stati sono state prese <lb/>
+quattro da corsari, e quattro da Spagnuoli <lb/>
+verso il stretto. </p>
+<p>È stato proposto all’assemblea di devenir <lb/>
+a nuova risolutione circa la missione dell’<lb/>
+ambasciator Arsen, stante le difficoltà addotte: <lb/>
+tra quelli di Holanda pare che sentino <lb/>
+si stia nella prima deliberatione di non cambiar <lb/>
+la persona. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="128" corresp="127" source="396r-v, 399r-v" >
+<div type="main" facs="main text of attachment I" n="128" corresp="127" >
+<!--<p>Allegato I al n. 127 (cc. 396r-v, 399r-v)</p>-->
+<pb n="396r" facs="10_396r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Intimatione di monsignor di Tilli a quelli d’Heidelbergh </p>
+<p>Signori. Io tengo carica da sua Maestà imperiale, et da sua altezza di Baviera <lb/>
+di unir le mie genti da guerra con quelle di don Gonzal de Cordova <lb/>
+et con questa unione di forze ridur il Basso Palatinato nella devotione <lb/>
+di sua Maestà imperale; com’è stato fatto dell’Alto Palatinato. <lb/>
+Poiché dunque a tal fine sono arrivato qui colle mie genti da guerra <lb/>
+ho voluto darvene avviso, et essortarvi, di non opporvi; anzi dar <lb/>
+luoco ad un affare così giusto; perché altrimenti, non potreste aspettare <lb/>
+che la vostra ruina, et quella di tutto il Paese. Questo è che mi <lb/>
+fa prometter, che voi pigliarete una buona risolutione, et che <lb/>
+voi vi assugitirete, et obedientemente vi renderete alla devotione <lb/>
+detta Maestà sua imperiale. Nel qual caso io vi assicuro a nome <lb/>
+della detta Maestà sua d’ogni sicurezza per voi, et per li vostri; <lb/>
+et di dar ordine, che non ci sia fatto alcun dispiacere dai nostri <lb/>
+soldati; come li sudditi dell’Alto Palatinato sono stati protetti <lb/>
+et guardati da ogni incommodità doppo la summissione datta da essi. <lb/>
+Ma al contrario rifiutando voi d’obedir a sua Maestà imperiale <lb/>
+sarò sforzato d’entrar col il detto don Gonzal di Cordova <lb/>
+nel<ptr target="#tn25" n="25"/> Basso Palatinato (non ostante ch’egli sia molto ruinato; <lb/>
+et che però stimerei più proprio il risparmiarlo) et di effettuar <lb/>
+coll’aiuto delle nostre genti il commando di sua Maestà imperiale. <lb/>
+Credendo fermamente, che per questa debita sommissione voi prevenirete <lb/>
+non solo la vostra ruina, et il guasto di tutto il Paese, ma ancora <lb/>
+darete suggetto a sua Maestà imperiale di più<ptr target="#tn26" n="26"/> presto gratia <lb/>
+al vostro patrone. Vi piacerà di far sopra ciò consideratione <lb/>
+degna, et non rendervi colpevoli di tali inconvenienti. Et <lb/>
+sopra ciò aspettando la finale risolutione vostra, et risposta <lb/>
+cathegorica per scritto sucinto col ritorno di questo trombetta
+<pb n="396v" facs="10_396v" rend="0"/>
+inviato espresso, pregarò il Creatore, che vi habbi nella divina sua <lb/>
+protettione. Data a Grosrohoheim a’ 8 novembre 1621 </p>
+<p>Vostro affettionatissimo a farvi servitio </p>
+<p>Joan Thelclues baron di Tylly et Marbeis <lb/>
+segnor di Belastro, et di Montigni luogotenente <lb/>
+generale, consiglier, et respettivamente ciam-<lb/>
+berlano di sua Maestà imperiale, et di sua Altezza <lb/>
+di Baviera. </p>
+<pb n="399r" facs="10_399r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="399v" facs="10_399v" rend="270"/>
+<p>Intimatione fatta a quelli del <lb/>
+governamento del Palatinato sotto <lb/>
+il nome dell’Imperatore per il <lb/>
+baron di Tylly luocotenente <lb/>
+generale del duca di Baviera <lb/>
+et della lega per render <lb/>
+le città, et paesi <lb/>
+de’ 8 novembre 1621 </p>
+<p>nella lettera 352 sola stil novo </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="129" corresp="127" source="397r-398v" >
+<div type="main" facs="main text of attachment II" n="129" corresp="127" >
+<!--<p>Allegato II al n. 127 (cc. 397r-398v)</p>-->
+<pb n="397r" facs="10_397r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Risposta di quelli d’Heidelbergh al baron di Tylly </p>
+<p>Signore. Questa notte passate è stata portata da un trombetta nanti <lb/>
+questa città residenza del Palatinato una lettera serrata la quale <lb/>
+è stata ricevuta da lui, et resa nelle nostre mani. Dal contenuto <lb/>
+di essa habbiamo inteso l’intimatione, che ci havete fatta di rendersi <lb/>
+subito all’obedienza di sua Maestà imperiale; aggiungendo, che <lb/>
+in tal caso ci sarà data ogni sicurezza, come è stato fatto ai sudditi <lb/>
+dell’Alto Palatinato; ma non sodisfacendosi a questo, si metterà in <lb/>
+pericolo di risentir gl’effetti delle minaccie notificateci, con strin-<lb/>
+gerci<ptr target="#tn27" n="27"/> ad una risolutione cathegorica, et breve. A che per <lb/>
+risposta<ptr target="#tn28" n="28"/> noi vi diremo, che habbiamo trovata questa intimatione sì <lb/>
+inopinata, molto strana; et poiché non è in poter nostro, et <lb/>
+ripugnarebbe al nostro giuramento, et fedeltà di rimetter nelle <lb/>
+mani d’altri il governo di questi paesi, che ci è stato confidato <lb/>
+dal nostro benignissimo Principe, et signore. Noi speriamo che voi ci <lb/>
+haverete per iscusati, et che voi significarete a tutti quelli a chi <lb/>
+spetta, che noi non possiamo conformarsi ad una dimanda <lb/>
+così strana: tuttavia si offerimo, et siamo pronti di dar di <lb/>
+ciò pronto avviso al detto nostro Principe, et signore, et aspettar <lb/>
+intorno a questo la risolutione, et il commandamento che ci <lb/>
+darà. Sperando che in questo mentre la vostra intentione non <lb/>
+sarà di usar hostilità contra queste Provincie. </p>
+<p>Data in Heidelbergh li 30 d’ottobre stil vecchio <lb/>
+10 novembre </p>
+<p>Li conseglieri, et persone al governo <lb/>
+del detto luoco deputati </p>
+<pb n="397v" facs="10_397v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="398r" facs="10_398r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="398v" facs="10_398v" rend="270"/>
+<p>Risposta di quelli del governa-<lb/>
+mento del Palatinato al <lb/>
+luocotenente generale del duca <lb/>
+di Baviera et della Liga <lb/>
+de’ 30 ottobre stil vecchio 1621 </p>
+<p>nella lettera n° 352 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> There is a hole in the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above ,.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "la cavallaria" added above the line with an insertion mark; "la cava-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "di … forze" decoding of the encrypted text in the internal margin below the crossed-out encrypted text.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "vi" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "qui" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "have(n)do" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "gle-" corrected above "gli-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Copia d’" added above the line with an insertion mark.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain reading.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-l" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Is the result of a correction.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Uncertain reading of this word.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "temendo … Cassant" added in the interlinear space.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Precedes "entro" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by "tosto" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-c-" corrected above -and.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "-osta" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

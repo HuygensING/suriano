@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.011 date 1617-03-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">011</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 60r-62v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">60r-62v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>News from Cologne that John Ernst has passed through the city. Mettoni’s ship has also set sail. Another sergant has come to visit him to offer his services. Suriano reports he has written to Pasini to request more information about the intentions of Luca Cairo and Gio. Cesati. From Pasini he hears that Pagani has left and Studder will leave after easter and Ercole Sacco, another italian veteran has come to visit him to offer his service for the Venetians. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-28">28 marzo 1617</date>
+            <num>021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="021">
+<div type="main" facs="main text of letter" n="021">
+<!--<p>28 marzo 1617, L’Aia (cc. 60r-62v)</p>-->
+<pb n="060r" facs="04_060r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn1" n="1"/> </p>
+<p>Serenissimo Principe </p>
+<p>fin la settimana passata ho havuto avviso di Colonia, che <lb/>
+a’ 16 era arrivato in quella città il signor conte Gio. Ernesto <lb/>
+con la sua compagnia senza alcun cattivo incontro, et per <lb/>
+mio creder prima dell’arrivo delle presenti in mano di vostra Serenità <lb/>
+bisogna, che sia arrivato costì. </p>
+<p>Il vassello, che si è messo in ordine per la compagnia del capitano Mettoni <lb/>
+mercordì era partito di Amsterdam, non poteva esser in Tessel <lb/>
+che venerdì. Sabbato a sera ha fatto buon<ptr target="#tn2" n="2"/> vento, et ha <lb/>
+continuato tutta la domenica; onde credo che sarà sinhora <lb/>
+partito, che Dio lo voglia. </p>
+<p>Venne a trovarmi un sargente del capitano Vesterbech dicendomi, <lb/>
+ch’era restato qui d’ordine del suo Capitano per procurar <lb/>
+di trovar 25 huomini, che li mancava, che però gli <lb/>
+dassi<ptr target="#tn3" n="3"/> cento<ptr target="#tn4" n="4"/> taleri almeno. Io havendo saputo, ch’esso <lb/>
+Vesterbech haveva lasciato denari per questo complimento <lb/>
+et doppo havendomi detto qualcheduno che già le genti <lb/>
+erano in vassello non ho voluto esborsargli alcuna cosa. <lb/>
+Per essecutione delli commandamenti delle Signorie vostre eccellentissime nelle <lb/>
+loro lettere de’ x dello stante di procurar di attaccar <lb/>
+negotio con li strenui Luca Cairo, et Gio. Cesati a fino di <lb/>
+penetrar se sia in essi dispositione di venir al servitio della <lb/>
+serenissima Republica, le loro pretensioni, et altri particolari <lb/>
+io con questo ordinario ne scrivo al Pasini, et mi valerò
+<pb n="060v" facs="04_060v" rend="0"/>
+del mezo di lui, non havendo in Brusseles persona più confi-<lb/>
+dente, né di più interessata devotione verso il servitio della <lb/>
+Serenità vostra di lui; nel quale si adopera con tanto amore, et <lb/>
+con<ptr target="#tn5" n="5"/> tanto affetto, che niente più, et merita per ciò appresso <lb/>
+la gratia di lei qualche effettiva recognitione, la quale sarà <lb/>
+rimessa alla prudenza delle Signorie vostre eccellentissime, affine di accenderlo <lb/>
+tanto maggiormente a ben operare. </p>
+<p>Colle sudette commissioni mi sono pervenute anco doi altre <lb/>
+lettere pur delli x et humilmente le<ptr target="#tn6" n="6"/> ringratio di quanto <lb/>
+m’avvisa per informatione nel particolar delle provisioni, <lb/>
+che andavano prudentemente facendo per contr’opporse <lb/>
+a quelle dalla parte de Napoli. Prima dell’arrivo <lb/>
+di dette lettere si seppe qui che vostra Serenità haveva fatti <lb/>
+vedere alcuni vasselli di questa Natione per valersene <lb/>
+ad armarli. </p>
+<p>L’alfier Michiel Pagani è partito hoggi otto per venir <lb/>
+al servitio della Serenità vostra. </p>
+<p>Et il cavalier Tomaso Studler ha data intentione al Pasini <lb/>
+di partir queste feste di Pasqua, et ne sto attendend[o] <lb/>
+altri avvisi. </p>
+<p>Fu la passata settimana a trovarmi l’alfier Ercole <lb/>
+Sacco grisone della Val Mesolcina, et mi disse <lb/>
+ch’era venuto a me espressamente per significarmi
+<pb n="061r" facs="04_061r" rend="0"/>
+che volontieri si sarebbe condotto al servitio della Serenità vostra <lb/>
+lasciando quello delli serenissimi arciduchi a’ quali sono di <lb/>
+già da undeci, o dodeci anni in circa che serve, <lb/>
+sperando di dar segno a vostra Serenità coll’operationi sue, et <lb/>
+colla disciplina<ptr target="#tn7" n="7"/> appresa in questi paesi, che non haveva <lb/>
+speso malamente il tempo; che però, havendo havuta <lb/>
+licenza da sue Altezze di star absente dal loro servitio <lb/>
+per sei mesi per poter fra questo tempo andar <lb/>
+a riveder le cose sue doppo la morte del padre, <lb/>
+haverebbe presa questa occasione di trovarsi col clarissimo signor <lb/>
+residente Padavino per saper da lui l’intentione <lb/>
+della Serenità vostra d’impiegarlo; et che subito arrivato <lb/>
+in paese sarebbe andato a trovarlo<ptr target="#tn8" n="8"/>, offerendosi <lb/>
+anco di far una compagnia. Io doppo haverlo <lb/>
+trattenuto doi giorni meco, usandoli ogni cortesia <lb/>
+alla maniera del suo Paese, gli ho data una lettera <lb/>
+per vostra Serenità che così me n’ha pregato, et una per il clarissimo <lb/>
+Padavino. Ella per tanto potrà commandargli quello <lb/>
+che stimerà proprio per il suo servitio. È partito <lb/>
+giovedì passato verso Grol ove ha la moglie, <lb/>
+et figlioli, per condursi quanto più presto nel <lb/>
+paese de’ Grisoni, con havermi promesso di far <lb/>
+quivi nelle congiunture presenti qualche servitio
+<pb n="061v" facs="04_061v" rend="0"/>
+alla Serenità vostra. Né lascierò d’aggiungerle, che m’a detto <lb/>
+haver da sue Altezze quattordici scudi di trattenimento per <lb/>
+mese. Gratie etc. </p>
+<p>Dall’Haya a’ 28 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="062r" facs="04_062r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="062v" facs="04_062v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="021">
+<!--
+<p n="062vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 marzo 1617 ricevute 12 aprile </p>
+<p>Haya segretario Surian. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Corrected above 3<hi rend="superscript">a</hi>.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "buon" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "ce-" corrected above "vi-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "-t" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above -"a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-c-" corrected above -"p-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "a trovarlo" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

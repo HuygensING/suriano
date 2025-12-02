@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.044 date 1619-10-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">044</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 225r-226v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">225r-226v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Discussed the dispute over payment of 600 florins for ship named ’The Tree Kings’ to cover the risks. Requests further instructions in case he needs to hire more ships. Mentions encountering Frederick-Henry during a visit to Louise de Coligny. Maurice has spoken to the States about Frederick-Henry potentially serving the Venetian Republic, yet he also expressed concern about his rank, especially compared to the conditions offered to their cousin in 1617, who could command without subordination except for the representatives of the Venetian Republic. Thus Maurice emphasizes that it would be unjust to give Frederick-Henry a lower rank than that of John Ernst of Nassau. Suriano requests instructions to ensure that the Nassau’s family dignity and aspirations are adequately addressed. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-10-02">2 ottobre 1619</date>
+            <num>078</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="078">
+<div type="main" facs="main text of letter" n="078">
+<!--<p>2 ottobre 1619, L’Aia (cc. 225r-226v)</p>-->
+<pb n="225r" facs="08_225r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 136 comincia 135 fin 137 </p>
+<p>Serenissimo Principe </p>
+<p>la copia, che la Serenità vostra mi manda nelle sue lettere de’ 12 del passato <lb/>
+della tassatione del vassello nominato Li tre re contiene in se in <lb/>
+optione della serenissima Republica, ma questo, le dirò con ogni humil rive-<lb/>
+renza non fa al caso presente, perché quell’optione si riferisce <lb/>
+all’accettar il partito delli seicento fiorini di più per mese da <lb/>
+pagarsi da lei quando havesse voluto che li partionevoli havessero <lb/>
+corso<ptr target="#tn1" n="1"/> li pericoli tutti, et tutto fosse andato a loro danno <lb/>
+succedendo qualche accidente: il fondamento sta se sia licentiata <lb/>
+o non la nave, et sopra questo devo haver particolarmente la <lb/>
+informatione: altrimenti questo capitolo mi condanerebbe più <lb/>
+al valermene, che altro<ptr target="#tn2" n="2"/>. Non mi sento da questa parte <lb/>
+da qualche giorni in qua a dir altro; può esser che si vadino <lb/>
+armando per far buone le loro ragioni, et poi verranno <lb/>
+fuori coll’instanza; la quale sostenerò pure, che deve <lb/>
+esser veduta di là per esser quivi successo il caso. </p>
+<p>Se saranno state licentiate altre navi, et che siano partite, <lb/>
+sarebbe ben più che necessario, ch’io havessi instruttioni <lb/>
+proprie come mi doverò governare: non credo che possino <lb/>
+tardar ad arrivarmi a fine di poter far bene il servitio <lb/>
+di vostra Serenità. </p>
+<p>Vidi uno di questi giorni passati il signor principe Henrico, che <lb/>
+si trovava appresso la signora Principessa sua madre mentre fui<ptr target="#tn3" n="3"/> <lb/>
+a visitatione di lei; et entrando egli nel negotio della sua condotta mi disse, che ’l signor principe Mauritio gli haveva detto <lb/>
+di haver parlato con alcuni dei signori Stati per intender qual <lb/>
+fosse la loro intentione intorno alla licenza, che si ricercasse<ptr target="#tn4" n="4"/> <lb/>
+per<ptr target="#tn5" n="5"/> condursi il detto Principe al servitio di quella <lb/>
+serenissima Republica, et che fu considerato, che stante l’avicinarsi il tempo <lb/>
+della tregua, et questi presenti rumori di Alemagna non
+<pb n="225v" facs="08_225v" rend="0"/>
+si haverebbe così facilmente potuto formar giudicio di quello si dovesse <lb/>
+fare; che nondimeno si haverebbe potuto incaminar il negotio, et <lb/>
+poi tentarne l’instanza opportunamente. Mi aggiunse vi è questo <lb/>
+incontro, che forse non sarebbe difficile a superare quando dalla <lb/>
+serenissima Republica fosse accordato nei punti principali, che spettano <lb/>
+alla carica, al titolo, al commando, et all’auttorità sopra le sue <lb/>
+truppe; et mi affermò con grande asseveranza, che sua Eccellenza <lb/>
+li haveva detto fareste troppo gran torto alla mia persona <lb/>
+et alla nostra casa, quando doveste sottoporvi a più comman-<lb/>
+datori, et esser a minor conditione di nostro cugino conte Gio. <lb/>
+Ernesto, che semplice colonello in questi paesi capitulò di non <lb/>
+esser commandato, che dal Generalissimo, o da rappresentanti la <lb/>
+serenissima Republica nobili di Venetia. Et voi Generale in questi <lb/>
+paesi della cavallaria, che commandate a tutte le truppe in <lb/>
+mia absenza dovreste esser ad una conditione inferiore <lb/>
+et concluse, che se in questo havesse havuto sodisfattione <lb/>
+et il qualche altro punto toccante la giustitia sopra li suoi <lb/>
+reggimenti, cosa solita da essercitarsi da ogni semplice colonello <lb/>
+che ha il suo auditore, il provosto, et ogni officiale a tal effetto <lb/>
+come l’haveva il detto signor conte Gio. Ernesto; come anco haveva <lb/>
+il medesimo et gl’altri ancora hanno la distributione de’ <lb/>
+carichi in occasione di vacanza col consenso però di chi <lb/>
+commanda. Mi aggiunse anco ciò che pur mi haveva <lb/>
+detto per avanti quello, che trattò meco per lui, che si sapeva <lb/>
+molto bene, che ’l conte di Vademont non doveva esser com-<lb/>
+mandato, che dal Generalissimo, o da illustrissimi rappresentanti la <lb/>
+Serenità vostra. In fine concluse, che l’ambitione, et desiderio, che <lb/>
+ha di esser nominato servitore di quella serenissima Republica lo <lb/>
+teniva eccitato a pensar a quest’honore; ma che toccava
+<pb n="226r" facs="08_226r" rend="0"/>
+alla prudenza di vostra Serenità l’accordaglielo con il termine sudetto acce-<lb/>
+tabile, et così sarebbe stato aggradito dalli signori Stati, et da sua <lb/>
+Eccellenza. Questa serenissimo Principe è la serie sincera di quanto ho <lb/>
+havuto dalla viva voce di questo Principe, et molto bene <lb/>
+mi sono aveduto, che ’l signor principe Mauritio<ptr target="#tn6" n="6"/> <lb/>
+aspira all’honore per il fratello; ma non vorrebbe ch’egli <lb/>
+fosse stimato al mondo di minor merito sì per essergli fratello <lb/>
+come anco per la carica, che tiene di Generale in questi paesi <lb/>
+et perché le conditioni della medesima carica che se li propone <lb/>
+di General delle genti Oltramontane sono state in altro soggetto <lb/>
+di altra natura, et maggiori l’ha avute di quello si pensa <lb/>
+dar a lui il già<ptr target="#tn7" n="7"/> conte Gio. Ernesto che ne hebbe tal titolo<ptr target="#tn8" n="8"/>. Come<ptr target="#tn9" n="9"/> doverò risponder <lb/>
+in questo particolare vostra Serenità si compiacerà di avvertirmi a fine <lb/>
+dimostrar la stima, che si fa di questa casa. Et ne attenderò <lb/>
+li suoi prudentissimi commandamenti. Gratie etc. </p>
+<p>Dall’Haya li 2 ottobre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="226v" facs="08_226v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 136 comincia 135 <lb/>
+fin 137 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="078">
+<!--
+<p n="226vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 ottobre 1619 ricevute a’ 16 detto </p>
+<p>Haia. n° 136 2<hi rend="superscript">da</hi> </p>
+<p>Il capitolo mandatoli per ragione nel <lb/>
+vassello abbruciato viene interpre-<lb/>
+tato in altro senso; dicendosi che in <lb/>
+optione della Republica intende se si voleva <lb/>
+pagar 600 fiorini di più al mese acciò <lb/>
+essi fussero sotoposti a pericoli. </p>
+<p>Che tutto sta se era licenziato o non. </p>
+<p>Dimanda instruttione se si licentierà <lb/>
+altre navi. </p>
+<p>Il conte Henrico dice haver il fratello <lb/>
+parlato con alcuni dei Stati circa la sua licenza <lb/>
+haver trovato difficoltà per essere vicini <lb/>
+al fine delle tregue: che se potria <lb/>
+incaminar il negocio et poi haver la licenza <lb/>
+che non saria dificile superar se s’accordasse <lb/>
+quanto al titolo, al comando, et <lb/>
+all’auttorià sopra le truppe. Haverli <lb/>
+detto Mauritio che si faria torto alla <lb/>
+casa quando fusse sotoposto a più <lb/>
+comandatori, che non era il conte Gio. <lb/>
+Ernesto, se non al Generalissimo e a’ nobili. </p>
+<p>Che Vademont solamente haveva a <lb/>
+obedir al Generalissimo et a’ rappresentanti publici. </p>
+<p>Se in ciò havesse havuto sodisfatione <lb/>
+et nella giustitia che pur ha ogni <lb/>
+colonello; per il desiderio che ha di <lb/>
+nominarsi servitor della Republica lo faceva <lb/>
+pensar a questo honore. </p>
+<p>Scuopre il secretario che Mauritio vi <lb/>
+aspira per il fratello<ptr target="#tn10" n="10"/> et dimanda ordine <lb/>
+come si deve governar nel negocio. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Segue il depennato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-o corretta su -i-; segue -mente depennato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue a sua depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-sse aggiunto."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Precede -rebbe depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Segue suo fratello depennato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "g- corretta su C-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "che … titolo aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "C- corretta su c-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Aggiunto in sopralinea su vi depennato con segno di inserimento."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.036 date 1617-01-14</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">036</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 238r-239v, 242r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">238r-239v, 242r-v, 240r-241v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this third letter, he discusses Pasini’s negotations in Brussels with Gio. Giacomo Belgioiso about joining the Venetian army. Carleton, the English ambassador, discusses the possibility to hire Colonel Gates. Reiterates his problems in levying new troops in the Dutch Republic and reports further on his negotiations with Wassenhoven. One document attached: "Offerta del colonel Tomas Gates"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-01-14">14 gennaio 1617</date>
+            <num>079, 080</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="079">
+<div type="main" facs="main text of letter" n="079">
+<!--<p>14 gennaio 1617, L’Aia (cc. 238r-239v, 242r-v)</p>-->
+<pb n="238r" facs="03_238r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>mi scrive il Pasini a’ 10 del mese presente haver fatto aper-<lb/>
+tura di negotio col conte Gio. Giacomo Belgioioso, et egli <lb/>
+gli haveva detto, che fra cinque o sei<ptr target="#tn1" n="1"/> giorni lo haverebbe <lb/>
+fatto andar a lui, che però stava attendendo, et quanto <lb/>
+havesse cavato o me lo haverebbe scritto, o sarebbe <lb/>
+venuto in persona a riferirmelo. Mi aggiunge, che <lb/>
+certo egli vuol mutar stanza, et<ptr target="#tn2" n="2"/> già ha venduto <lb/>
+gran parte di quanto possiede nei stati di sue Altezze <lb/>
+et particolarmente un castello per 170 mila franchi, et stava per <lb/>
+venderne un altro, havendo il comprator per mano. <lb/>
+Io di nuovo gli ho scritto<ptr target="#tn3" n="3"/> che attendi vivamente <lb/>
+ad eccitar esso Conte a condursi al servitio della Serenità vostra. <lb/>
+Et a questo proposito non lascierò di riverentemente dirle, che <lb/>
+sarebbe bene, che la Serenità vostra mi notificasse per quanto <lb/>
+tempo vorrebbe che si conducessero li soggetti, che si <lb/>
+offerissero: perché alcuni vorriano saper di haver <lb/>
+sicuro servitio, et potersi obligar per un tanto tempo. </p>
+<p>Mi ha il signor ambasciator d’Inghilterra fatto parlar con il colonello <lb/>
+Gatz del quale mi trattò la passata settimana, essendo <lb/>
+egli all’avviso d’esso Ambasciatore venuto da Usden <lb/>
+per far l’offerta, et dar le conditioni, che <lb/>
+mando qui aggiunte alla Serenità vostra. La presenza
+<pb n="238v" facs="03_238v" rend="0"/>
+del soggetto è buona, la fede, che mi ha fatta esso Ambasciatore <lb/>
+del buon servitio che può prestare per la lunga isperienza <lb/>
+dell’arte militare è stata amplissima, et come ha detto <lb/>
+dipendente da quella devotione, che professa verso la <lb/>
+Serenità vostra: et mi ha detto di più, che potrà ella dimandar[e] <lb/>
+se così stimerà a proposito informatione di questo <lb/>
+al signor ambasciator Wton per tanto più assicurarsene. Egli <lb/>
+ha scritto lettere particolari, che mando al caoperta<ptr target="#tn4" n="4"/> per il ricapito. Saranno in tal prop[osito]<ptr target="#tn5" n="5"/>. </p>
+<p>Già la Serenità vostra haverà intesa dalle precedenti lettere mie <lb/>
+le<ptr target="#tn6" n="6"/> cause<ptr target="#tn7" n="7"/>, che mi retineriano doppo la partenza di <lb/>
+queste militie a non ricercar nuova permissione <lb/>
+di levata, se però non trovassi la materia disposta <lb/>
+et per questo se havessi creduto non fallire haverei <lb/>
+data la carica a questo soggetto; ma dovendo <lb/>
+questo cavalliere far le genti in Inghilterra non so quello <lb/>
+che possi la Serenità vostra haver commesso da quella <lb/>
+parte se vogli di quella gente, o volendola <lb/>
+se si compiacerà, che si levi da quel Regno <lb/>
+con le conditioni del signor conte Gio. Ernesto. Io ne <lb/>
+starò attendendo l’avviso, et la risposta desiderata <lb/>
+dal detto cavalliere, et dal medesimo Ambasciatore. </p>
+<p>Vostra Serenità da questa parte ha ne’ vasselli quattromilla <lb/>
+fanti in circa imbarcati compresi ottocento levati
+<pb n="239r" facs="03_239r" rend="0"/>
+colla commissione del Wassonhoven; et egli ha data patente <lb/>
+ad<ptr target="#tn8" n="8"/> uno di levarne altri trecento per <lb/>
+quello m’ha riferto acciò lo seguiti; sperando, che <lb/>
+la Serenità vostra sia per riceverli al suo servitio; et volontieri <lb/>
+haverei caro esser avvertito, se alcuno volesse colle <lb/>
+medesime conditioni del Wassonhoven levar genti (che non so <lb/>
+però se se ne trovarà) se<ptr target="#tn9" n="9"/> ella se ne contenterà; se <lb/>
+ben m’è stato riferto, che pareva, che un fratello <lb/>
+del già colonello Sciomburgh tanto caro al Palatino <lb/>
+ne havesse qualche intentione, quando fosse stato <lb/>
+sicuro di esser intertenuto. </p>
+<p>Il Stich, che doverà esser luocotenente del Wassonhoven <lb/>
+mi scrisse una lettera di Amsterdam in forma di <lb/>
+prender combiato<ptr target="#tn10" n="10"/> da me, dovendo partir per <lb/>
+la sua nave verso il Tessel. Et aggiunse, che <lb/>
+conduceva seco un deputato dell’amiralità <lb/>
+d’Amsterdam perché vedesse rasignar li suoi trecento <lb/>
+fanti nel vassello; et io a questo particolare <lb/>
+non ho rescritto per non auttorizar il concetto, che ’l tempo <lb/>
+cominci dall’imbarco, o mostra, come con altre mie <lb/>
+ho significato alla Serenità vostra; ma resti conforme <lb/>
+al capitulato col Wassonhoven; il che con buona
+<pb n="239v" facs="03_239v" rend="0"/>
+maniera ho dato ad intender al fratello il residente<ptr target="#tn11" n="11"/> <lb/>
+di Brandemburgh, al quale diedi a legger la copia della <lb/>
+capitulatione, che ho cavata da quella del Wassonhoven; <lb/>
+et mi disse poi, che l’haveva havuta in fiamingo. </p>
+<p>Il Wassonhoven mi ha pregato di lettere di raccomandatione <lb/>
+per vostra Serenità ho prontamente sodisfatto all’instanza <lb/>
+di lui, et hoggi gliele ho date essendo venuto a prender <lb/>
+licenza da me per andar a Roterdam alla sua nave. Gratie etc. </p>
+<p>Dall’Haya a’ 14 genaro 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="242r" facs="03_242r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="242v" facs="03_242v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="079">
+<!--
+<p n="242vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>14 gennaro 1616<ptr target="#tn12" n="12"/> ricevute al primo febraro </p>
+<p>Secretario Surian dall’Haya 3<hi rend="superscript">a</hi> </p>
+<p>L. R. cum SS. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="080" corresp="079" source="240r-241v" >
+<div type="main" facs="main text of attachment I" n="080" corresp="079" >
+<!--<p>Allegato I al n. 79 (cc. 240r-241v)</p>-->
+<pb n="240r" facs="03_240r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere di 14 gennaro 1616 del secretario Surian <lb/>
+dall’Haya </p>
+<p>In Aga<ptr target="#tn13" n="13"/> a’ 13 ganuario<ptr target="#tn14" n="14"/> 1617 </p>
+<p>Il signor cavalier Tomaso Gates si lascia intender <lb/>
+che con licenza conveniente de’ suoi superiori condorrà <lb/>
+al servitio della serenissima republica di Vinetia 1500 <lb/>
+fanti; facendo la levata in Inghilterra, et tutti <lb/>
+suddti di sua Maestà. </p>
+<p>Che quanto alla levata, la fare<ptr target="#tn15" n="15"/> con le medesime <lb/>
+conditioni del signor comte Giovanni Ernesto cioè <lb/>
+14 fiorni per ciascuna testa per la levata, et per la <lb/>
+paga di soldati 1150 ducati di lire 6 soldi 4 di <lb/>
+Vinetia per ogni 150 teste al mese corrente, dando <lb/>
+un mese di paga al passar della mostra, la qual sarà <lb/>
+fatta al imbarco né prima sarà fatta la levata né la <lb/>
+mostra che le navi non siano in ordine di tutti li <lb/>
+apprestamenti<ptr target="#tn16" n="16"/> necessari tanto di viveri, quanto d’altri <lb/>
+il che dovrà esser veduta dal commissario che deputerà <lb/>
+la Republica. </p>
+<p>Per la provisione delle navi, intendi d’haver <lb/>
+6000 fiorini o franchi, moneta d’Ollandia, per ogni <lb/>
+200 teste, che fanno la somma di 45 mila fiorini <lb/>
+dovendo esserli sborsati 25 mila a Londra et 20 mila al <lb/>
+suo arrivo in Venetia. </p>
+<p>Dovendo condur la gente ben armate, desidera <lb/>
+d’haver imprestito 10 mila fiorini da esser scontate nel <lb/>
+secondo et 3° mese della paga. </p>
+<p>S’obligerà d’obedire alli eccellentissimi signori proveditori
+<pb n="240v" facs="03_240v" rend="0"/>
+generali et ogni publico representante, et a quel <lb/>
+capo di guerra ch’havrà il supremo commando <lb/>
+del exercito, o vero al General della infanteria <lb/>
+o vero ad altro generale et supremo offitiale <lb/>
+tanto del corpo della Republica quanto strangiero <lb/>
+secondo ch’il servitio della serenissima Republica <lb/>
+ricercherà. </p>
+<p>S’obligerà di servir egli con tutte le sue gen[ti] <lb/>
+contra qualunque si sia tanto per mar quan[to] <lb/>
+per terra, in campagna, nelle piazze con le sue <lb/>
+troppe<ptr target="#tn17" n="17"/> unite o separate, come sarà commendato, <lb/>
+et ricercherà il servitio di sua Serenità. </p>
+<p>Quanto al proprio stipendio et quelli delli <lb/>
+altri supremi ufficiali necessari, si remette al <lb/>
+beneplacito di sua Serenità. </p>
+<p>Supplica il detto cavalier la serenissima Republica di <lb/>
+commendare a’ suoi representanti o ministri <lb/>
+tanto in Inghilterra quanto ne’ Paesi Bassi di far-<lb/>
+gli assistenza in quelli uffici che fussero stimati <lb/>
+necessari per la sua licenza et la levata. </p>
+<pb n="241r" facs="03_241r" rend="0"/>
+<p>Questo cavalier è d’età 54 anni. Sono 38 <lb/>
+anni ch’ha comminciato a portar l’armi nel <lb/>
+servitio de’ signori Stati, et 27 con carico del Capitano. È stato impiegato della maestà della <lb/>
+Grande Brettagna come coronello in Irelandia <lb/>
+17 anni sono. Ha fatto i viaggi con il cavalier <lb/>
+Francesco Draco alla presa di Cartagena et Santo <lb/>
+Dominico con commando d’una compagnia, è <lb/>
+stato alle imprese di Portugallo, et di Roan in <lb/>
+Francia col medesimo carico, et è stato col signor <lb/>
+conte d’Essex alle imprese delle isole Tercere <lb/>
+et di Calis in Spagna, et sempre li è stata riservata <lb/>
+la sua compagnia appresso gli signori Stati, come <lb/>
+ha attualmente al presente nella piazza d’Husedin. </p>
+<pb n="241v" facs="03_241v" rend="270"/>
+<p>Offerta del colonel Tomas Gaez </p>
+<p>Nelle 3<hi rend="superscript">e</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "già" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "ad" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "ha scritto … tal prop[osito]" added above the line.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Precedes "commissione" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> First "-e-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

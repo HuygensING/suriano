@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.001 date 1619-03-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 1r-3v, 8r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">1r-3v, 8r-v, 4r-v, 7r-v, 5r-6v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>It is not a good time to hire four more ships as most are being prepared to transport grain to Genoa and Livorno. He has negotiated with merchants that service is for 8 months for doi mille ducento ducati di stipendio moneta di banco with 80 marineers and a good leader. For further rents, he proposes the plan that agents, ambassadors or consuls of the Venetian Republic can go and inspect those ships upon their arrival in Italy. Two documents attached: cost estimate for a war ship "Calculo di quanto costerebbe una nave di guerra ben provista, di quatro cento lasti in circha"; overview of payments "Nota delle lettere fatte ai compartecipi delli dodici vasselli per il pagamento dei loro noleggi per il decimo et undecimo mese sotto questo di 5 marzo 1619 "</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1619-03-05">5 marzo 1619</date>
+            <num>001, 002, 003</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>5 marzo 1619, Amsterdam (cc. 1r-3v, 8r-v)</p>-->
+<pb n="001r" facs="08_001r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 92 sola </p>
+<p>Serenissimo Principe </p>
+<p>ben mi aveggo, che non potevo incontrar in peggior congiontura <lb/>
+per haver le quattro navi desiderate da vostra Serenità di quella che <lb/>
+mi si è fatta innanti. Li signori Stati si sono iscusati della ma-<lb/>
+niera, che ho rappresentata la passata settimana; et questi <lb/>
+porti si trovano sprovisti di navi mercantili, che siano di <lb/>
+gran portata, essendone parte in servitio di vostra Serenità, altre <lb/>
+ritenute dal duca di Ossuna, et qualche d’une fuori per <lb/>
+trafico, et massime con condotte di grani per Genova, et Livorno. </p>
+<p>L’essermi trattenuto fino a questo giorno in questa città è stato <lb/>
+per haver avvisi di diversi luochi se vi erano navi pronte <lb/>
+alla vela di mille botte almeno o la incirca, et non ne ho <lb/>
+trovate più delle due, che hoggi otto riverentemente scrissi alla <lb/>
+Serenità vostra. Ad una fui consigliato non applicar il pensiero essendo <lb/>
+di apparenza mal atta al combatter per l’altezza, et stret-<lb/>
+tezza del corpo, et l’altra mi fu offerta ancorché in <lb/>
+trattato di noleggio per condur 300 lasti di grano a Livorno; <lb/>
+se ne trovano altre non ancor poste in acqua, ma ben in <lb/>
+procinto di esservi gettate tutte nove di doicento quaranta <lb/>
+in cinquanta lasti che sono settecento cinquanta botte <lb/>
+in circa, un’altra è a Edam nell’acqua di più di <lb/>
+trecento [la]sti<ptr target="#tn1" n="1"/>, un’altra ad Encusen di quattrocento in <lb/>
+[…l]asti, ne queste potranno esser pronte <lb/>
+che per […] del me[se] di aprile, o verso il mezo <lb/>
+del mese di m[arzo.] Altre ve ne sono di centocinquanta <lb/>
+fin doicento lasti […] e vuol dire cinquecento in seicento <lb/>
+botte, che non sono di quella qualità che vostra Serenità desidera <lb/>
+[…] ella imaginars[i] che questa penuria facci alteratione <lb/>
+[…]zzi, et che mala[men]te […]mo può promettersi
+<pb n="001v" facs="08_001v" rend="0"/>
+un’honesta riuscita di noleggio. Io in ogni modo ad ogni <lb/>
+buon rispetto ho stimato bene non tralasciare di trattar <lb/>
+colli partecipi della sudetta nave ch’era in trattato per <lb/>
+il viaggio di Livorno essendomi rappresentata per capace <lb/>
+propria per la guerra, et buona veliera. La prima di-<lb/>
+manda fu assai essorbitante, et fu di doi milla ottocento <lb/>
+ducati per mese di moneta di banco, et le altre conditioni <lb/>
+avantaggiose per li compartecipi. Per il servitio di vostra Serenità io <lb/>
+la ho richiesta armata di ottanta buoni marinari, et <lb/>
+questo diede materia di farmi la detta dimanda, più <lb/>
+che ’l servitio fosse di dodici mesi fermi<ptr target="#tn2" n="2"/>, che principiassero subito <lb/>
+ch’ella fosse ad ordine innanti la città di Horn, ove anco <lb/>
+presente si trova, et questo perché haverebbono fatta la <lb/>
+provisione de’ viveri per un anno. In diverse conferenze <lb/>
+sono andato moderando le loro dimande, onde sono condesce[si]<ptr target="#tn3" n="3"/> <lb/>
+in fine a otto mesi di servitio fermo, che questi non principi[…] <lb/>
+se non quando saranno in Tessel ispediti a fatto da tutt[e] <lb/>
+le provisioni, et con tutte le loro genti. Io ho tentato che […] <lb/>
+non principasse il tempo che uscita la nave in mare, [m]a <lb/>
+mi hanno considerato, che un tanto numero di gente <lb/>
+non era<ptr target="#tn4" n="4"/> conveniente, che et per il sold[o] et per il vito rima-<lb/>
+nesse sopra le loro<ptr target="#tn5" n="5"/> spalle, ma alla […]<ptr target="#tn6" n="6"/> [tr]overà <lb/>
+rimedio penale, come si suole in si[…] per il <lb/>
+soldo dal noleggio et pagam[ento …] et salario de’ [m]arinar[i] <lb/>
+dalli doi milla ottocento ducati sono devenuti a doi milla <lb/>
+doicento in moneta di banco lasciandosi intender assoli[…] <lb/>
+non voler fare né contrattar d’altra maniera ris[…] <lb/>
+altezza a che d[…] avanzarsi anc[…]
+<pb n="002r" facs="08_002r" rend="0"/>
+più delli 19 overo vinti per cento, che corre al presente, fatti <lb/>
+cauti da quello, che hora si trova in Milano. Questi sono li <lb/>
+punti principali non ancor stabiliti, dovendo prima del <lb/>
+tutto far acconsentir da quello che prima haveva contrattato <lb/>
+per Livorno di lasciarli liberi affatto di concluder meco, il che <lb/>
+sarà per dimani a sera, che mi verranno a portar la <lb/>
+risposta. Il noleggio sarà tutto a<ptr target="#tn7" n="7"/> rischio de’ compartecipi, quando <lb/>
+vostra Serenità non commandi altrimenti<ptr target="#tn8" n="8"/>. </p>
+<p>Doi milla doicento ducati<ptr target="#tn9" n="9"/> fanno cinque milla cinquecento fiorini <lb/>
+di questa moneta. La nave è della portata in circa che vostra Serenità <lb/>
+desidera, et parmi che con ottanta buoni huomini, che haverà <lb/>
+sopra possi equiparar qualche noleggio fatto di là ancorché <lb/>
+in denari di moneta corrente, non havendo per quanto <lb/>
+intendo qualcheduno di quei vasselli più di quaranta in <lb/>
+cinquanta marinari. </p>
+<p>Mi si promette un buon marinaro per capo sopra esso vassello <lb/>
+li officiali buoni, et io procurerò et per questi et per li altri marinari <lb/>
+di non esser ingannato se sarà possibile. Questi signori dell’<lb/>
+Amiralità mi hanno consigliato a far così per esser meglio <lb/>
+servito, con manco dispendio, et con più prontezza. Se così è <lb/>
+vorrei anco, che lo havessero fatto l’anno passato. </p>
+<p>Vi è un altro [va]ssello<ptr target="#tn10" n="10"/> tutto nuovo di doicentosessanta lasti in circa <lb/>
+[…] stimerei molto proprio: tuttavia ancor non mi basta <lb/>
+[…] l’animo il risolver[…]ne. È qui innanti la città di Amster-<lb/>
+dam; ma li ma[…]ono molte cose per provederlo se ben <lb/>
+mi viene affermato che et questo, et quello sarebbono punti <lb/>
+alla fine di questo mese, o al principio dell’altro. </p>
+<p>[…] l’altri vasselli, che ho detto di sopra, a vostra Serenità starà il risolver <lb/>
+[s]e vorrà che tratti per la loro condotta; ma faccia pur
+<pb n="002v" facs="08_002v" rend="0"/>
+conto, che non possono avvisarli costì, o in armata che per <lb/>
+la fine di giugno, et forse di luglio. </p>
+<p>Come ho riverentemente accennato alla Serenità vostra molti vasselli di questi <lb/>
+paesi in questi ultimi giorni saranno capitati a Genova, et <lb/>
+a Livorno. Là potrebbe ella inviar persona espressa, o dar <lb/>
+ordine al signor residente Trivisano in Fiorenza, et a Genova <lb/>
+a quel console della Serenità vostra per veder la qualità, et grandezza <lb/>
+de’ vasselli che vi sono, et se si possono ridur li patroni <lb/>
+di essi a passar il Colfo, che questa sarebbe la più <lb/>
+breve stradda<ptr target="#tn11" n="11"/>, et per minor dispendio della Serenità vostra. <lb/>
+Mi<ptr target="#tn12" n="12"/> viene affermato che tra detti vasselli, et a Genova, <lb/>
+et a Livorno ve ne saranno, che arriveranno fino all[i]<ptr target="#tn13" n="13"/> <lb/>
+trecento et più lasti di portata. Raccordo riverentemente p[er] <lb/>
+tanto, et attenderò dall’altro canto l’ordine che si compiac[e] <lb/>
+di darmi per li altri vasselli, che si trovano qui alla fabric[a] <lb/>
+essendo qualcheduno, che si è offerto di attender la rispost[a.] </p>
+<p>Non so se la Serenità vostra vorrebbe applicar l’animo a quel gran <lb/>
+vassello che si trova fabricandosi a Encusen che sarà a <lb/>
+portata di mille cinquecento botte in circa. Ha detto uno de’ <lb/>
+compartecipi, che armato di 36 pezzi di artiglieria <lb/>
+con cento huomini sopra, viveri per un anno, et altre <lb/>
+cose necessarie nel vassello vorranno haver […]<ptr target="#tn14" n="14"/> <lb/>
+quattro ducati per mese 5 […]do però che si accomoderanno <lb/>
+anco a<ptr target="#tn15" n="15"/> qualche cosa meno. </p>
+<p>Io veggo bene, che in fine sarà la Serenità vostra necessitata un <lb/>
+giorno a risolversi di far fabricar, o di qua, o di là <lb/>
+buona quantità de vasselli per non esser sottoposti […] <lb/>
+gran interessi di noleggi, et per star armata a […]
+<pb n="003r" facs="08_003r" rend="0"/>
+potendo sospettar sempre che Spagnoli habbino ad insidiarla. <lb/>
+Et a questo proposito havendo havuta una vita di quanto <lb/>
+potrebbe costar in circa tre sorte da vasselli da guerra <lb/>
+ben fabricati datami da quel mastro, che ha fatta la nave <lb/>
+della religione di Malta gliela invio qui aggiunta. </p>
+<p>In questa città ho ricevute tre mani di lettere della Serenità vostra che 9 <lb/>
+et 15 del passato. Le scritture inserte nelle prime toccanti ciò che <lb/>
+è avenuto all’illustrissimo signor cavalier Contarini all’altezza di Savoia mi servi-<lb/>
+ranno d’informazione nell’occasione, che ricercasse il bisogno. <lb/>
+Quanto all’altre ritornato all’Haya communicarò a quei nostri <lb/>
+et al signor principe Mauritio ciò ch’ella mi commette per maggior <lb/>
+espressione degl’artificiosi andamenti dei Spagnuoli<ptr target="#tn16" n="16"/>. </p>
+<p>Spiacemi infinitamente, che nelle seconde dei 15 non siano venuti li roli <lb/>
+perché almeno si haverebbe potuto sapere quelli marinari<ptr target="#tn17" n="17"/>, che <lb/>
+al presente restano in vita sopra le dodici navi perché parmi <lb/>
+impossibile di non esser (dirò così) sforzato a dar sodisfattione <lb/>
+alla continuata instanza di quest’Amiralità. Portano <lb/>
+gl’avvisi datimi dalla Serenità vostra con quella più destra maniera <lb/>
+che mi sarà possibile per veder pure di tirar il tempo innanti <lb/>
+a non esborsar denaro, et vostra Serenità potrà esser sicura che <lb/>
+se lo f[…]<ptr target="#tn18" n="18"/> sforzerà la riputazione di lei, et il levar <lb/>
+l’occasione di disgusto, come volontieri lascierei di molestar <lb/>
+l’orecchie dell’Eccellenze vostre con questa materia noiosa alla mia <lb/>
+penna per il poco gusto, che so ch’elle ne ricevono. </p>
+<p>Con tutto che si interdì, che il re della Gran Bretagna si sia <lb/>
+risoluto di armar vasselli proprii, et farne armar da’ <lb/>
+mercanti (dicono alcuni per tema dell’Islanda) non<ptr target="#tn19" n="19"/> si sente. <lb/>
+Però di questa parte risolutione alcuna in questo proposito
+<pb n="003v" facs="08_003v" rend="0"/>
+solo stano li signori Stati a sentire gl’avvisi, che vengono di<ptr target="#tn20" n="20"/> <lb/>
+Spagna, et dell’armar dei Spagnoli nel Mediteraneo quasi che <lb/>
+pensino, che non habbi a succeder cosa alcuna di tanti preparamenti. </p>
+<p>L’ultime lettere di Brusseles portano esser stati licentiati li <lb/>
+Valloni; et all’incontro che un baron bohemo haveva <lb/>
+ispedito al serenissimo arciduca Alberto persona espressa <lb/>
+per far levata con suoi denari di milla cavalli per l’Imperatore <lb/>
+et già era dichiarato per suo luocotenente (come si diceva) un <lb/>
+nipote della cameriera maggiore della serenissima Infanta. </p>
+<p>Può esser che la Serenità vostra dal proprio luoco habbi intesi più certi <lb/>
+et maggiori particolari con tutto ciò (et questo le servirà di <lb/>
+rincontro) non devo lasciar di dirle<ptr target="#tn21" n="21"/> quello che <lb/>
+ho inteso qui da uno venuto qualche giorni sono di Parigi <lb/>
+che ha praticato in casa del signor duca di Guisa, che si diceva, <lb/>
+che quel Principe con le navi, et galere, che si preparavano […]<ptr target="#tn22" n="22"/> <lb/>
+Marsiglia doveva andar ad unirsi con l’armata spagnola <lb/>
+per un’impresa contra Turchi, et si diceva nella Bossena<ptr target="#tn23" n="23"/>. </p>
+<p>Sotto il giorno di hoggi ho<ptr target="#tn24" n="24"/> fatte tutte le dodici lettere a questi <lb/>
+compartecipi delle dodici navi per il decimo, et undecimo <lb/>
+mese della somma, et pagabili come nell’aggiunta nota. <lb/>
+Et è pregata vostra Serenità a procurar che tant[e]<ptr target="#tn25" n="25"/> […]ste, quanto <lb/>
+quelle, che restano, et qualche lettera di cambio, […] <lb/>
+rimangono senza pagamenti habbino l’intera sodisf[…]. Sento anco qualche indoglienza qui che siano […] <lb/>
+quattro, et a chi cinque mesi per il nolegio di altre navi […]-<lb/>
+desi, il che causa poco gusto, con discapito degl’interessi[…] <lb/>
+et non ho voluto mancare di dargliene riverente conto. <lb/>
+Delle lettere mie de’ 26 del passato pervenero<ptr target="#tn26" n="26"/> 90, et seconde 91 saranno <lb/>
+qui aggiunte le replicate. Gratie [etc.] </p>
+<p>Da Amsterdam a’ 5 marzo 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>[Christoforo Suriano] </p>
+<pb n="008r" facs="08_008r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="008v" facs="08_008v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 92 sola </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="008vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1 marzo 1619 ricevute a’ 20 detto </p>
+<p>Haia. n° 92 sola </p>
+<p>Difficoltà in trovar navi </p>
+<p>Ha trattato con li partecipi di una di <lb/>
+circa mille botti: sono condescesi a <lb/>
+otto mesi di servitio di fermo da <lb/>
+principiar espediti che siano et <lb/>
+ad ordine in Tessel a doi mille dusento <lb/>
+ducati di stipendio moneta di banco: il nolegio <lb/>
+a risico de’ compartecipi, addimandato haver <lb/>
+80 marinari con un buon capo. </p>
+<p>Per altri vasselli rimette la risolutione <lb/>
+a sua Serenità ne potranno esser in armata <lb/>
+che a giugno e luglio. </p>
+<p>Raccorda valersi di quelle capitate a <lb/>
+Genova e Livorno. </p>
+<p>In Encusen se ne fabrica uno di <lb/>
+1500 botte che si potria haver con <lb/>
+tempo. </p>
+<p>Discorre fosse meglio fabricarmi. <lb/>
+Accusa f(irmat)a di lettere de’ 19 et 15 <lb/>
+esseguirà gl’ordini: aspetta i bolli. </p>
+<p>Se ben s’intende Inghilterra armi <lb/>
+vasselli, non fanno però ai signori risolutione <lb/>
+ma stano aspetando avvisi di Spagna. </p>
+<p>Di Brusselles: che sono licentiati <lb/>
+li Valloni. Un loro boemo ha <lb/>
+espedito all’arciduca Alberto per levata <lb/>
+di mille cavalli a servitio all’imperator. </p>
+<p>Che Ghisa dovesse unirsi con l’Arciduca <lb/>
+spagnola. </p>
+<p>Ha fatto lettere di cambio per il x° et xi° <lb/>
+mese. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="4r-v, 7r-v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 4r-v, 7r-v)</p>-->
+<pb n="004r" facs="08_004r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Calculo di quanto costerebbe una nave di guerra <lb/>
+ben provista, di quatro cento lasti in circha </p>
+<table>
+<row role="label">
+<cell><p>400 costerà una nave con suoi ferramenti et <lb/>
+chiodi di ferro la summa</p></cell>
+<cell><p>fiorini 48000 </p></cell>
+</row>
+<row>
+<cell><p>Per libre 45000 di canevo di riga per cordaggi et <lb/>
+gomene con la impegolatura</p>
+<p>a fiorini 19 il cento</p></cell>
+<cell><p>8550 </p></cell>
+</row>
+<row>
+<cell><p>Per canevazza et fatura per dopie velle</p></cell>
+<cell><p>2600 </p></cell>
+</row>
+<row>
+<cell><p>Per li arbori per la nave</p></cell>
+<cell><p>2000 </p></cell>
+</row>
+<row>
+<cell><p>Per le ancore et altre minute dependentie</p></cell>
+<cell><p>2200 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fiorini 63350 </p></cell>
+</row>
+<row>
+<cell><p>Una nave de lasti 300 in circha a l’uso di guerra <lb/>
+costerà con suoi feramenti</p>
+<p>et chiodi di ferro</p></cell>
+<cell><p>40000 </p></cell>
+</row>
+<row>
+<cell><p>Per libre 40500 di canevo di riga per cordaggi et gomene</p></cell>
+<cell><p>7700 </p></cell>
+</row>
+<row>
+<cell><p>Per dopie velle come di sopra</p></cell>
+<cell><p>2200 </p></cell>
+</row>
+<row>
+<cell><p>Per li arbori in circha</p></cell>
+<cell><p>2000 </p></cell>
+</row>
+<row>
+<cell><p>Per le ancore come sopra</p></cell>
+<cell><p>1400 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fiorini 53300 </p></cell>
+</row>
+<row>
+<cell><p>Una nave di lasti 250 a l’uso di guerra con suoi <lb/>
+ferrami et chiodi di ferro</p></cell>
+<cell><p>34000 </p></cell>
+</row>
+<row>
+<cell><p>Per dopie velle</p></cell>
+<cell><p>2000 </p></cell>
+</row>
+<row>
+<cell><p>Per libre 37500 di canevo di riga per li cordaggi et gomene</p></cell>
+<cell><p>7125 </p></cell>
+</row>
+<row>
+<cell><p>Per le ancore et altre apendentie</p></cell>
+<cell><p>1600 </p></cell>
+</row>
+<row>
+<cell><p>Per li arbori in circha</p></cell>
+<cell><p>1000 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fiorini 45725 </p></cell>
+</row>
+</table>
+<pb n="004v" facs="08_004v" rend="0"/>
+<p><metamark facs="Blank page"/>
+<pb n="007r" facs="08_007r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="007v" facs="08_007v" rend="270"/>
+<p>n° 1 </p>
+<p>Lista del valor di navi <lb/>
+da guerra di 400 300 <lb/>
+et 250 lasti </p>
+<p>nel n° 92 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="003" corresp="001" source="5r-6v" >
+<div type="main" facs="main text of attachment II" n="003" corresp="001" >
+<!--<p>Allegato II al n. 1 (cc. 5r-6v)</p>-->
+<pb n="005r" facs="08_005r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Nota delle lettere fatte ai compartecipi delli dodici <lb/>
+vasselli per il pagamento dei loro noleggi per il decimo <lb/>
+et undecimo mese sotto questo di 5 marzo 1619 </p>
+<table>
+<row role="label">
+<cell><p>1. Per la nave San Marco per fiorini <lb/>
+pagabili al magnifico Melchior Noirott</p></cell>
+<cell><p>7200</p></cell>
+<cell><p>ducati 2880 </p></cell>
+</row>
+<row>
+<cell><p>2. Per la nave San Christofforo per fiorini <lb/>
+pagabili alli magnifici Clas Classen Houtyn <lb/>
+Girbert de Corrinek Hendrich van Luytin <lb/>
+partecipi o a chi essi ordineranno in <lb/>
+piedi della lettera</p></cell>
+<cell><p>4800</p></cell>
+<cell><p>ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>3. Per la nave San Francesco per fiorini <lb/>
+pagabili al magnifico Melchior Noirrott<ptr target="#tn27" n="27"/></p></cell>
+<cell><p>4800</p></cell>
+<cell><p>ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>4. Per la nave Menonisterkerck per fiorini <lb/>
+pagabili al magnifico Gio. de Waele</p></cell>
+<cell><p>5100</p></cell>
+<cell><p>ducati 2040 </p></cell>
+</row>
+<row>
+<cell><p>5. Per la nave Anna River<hi rend="displaced">son</hi> per fiorini <lb/>
+pagabili al magnifico Nicolò Perez</p></cell>
+<cell><p>3600</p></cell>
+<cell><p>ducati 1440 </p></cell>
+</row>
+<row>
+<cell><p>6. Per la nave Emaus per fiorini <lb/>
+pagabili al magnifico Nicolò Perez</p></cell>
+<cell><p>4800</p></cell>
+<cell><p>ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>7. Per la nave Lo specchio per fiorini <lb/>
+pagabili al capitan Dirich Pieterson Proost <lb/>
+o a chi egli ordinerà in piedi della <lb/>
+lettera.</p></cell>
+<cell><p>4400</p></cell>
+<cell><p>ducati 1760 </p></cell>
+</row>
+<row>
+<cell><p>8. Per la nave Li tre re per fiorini <lb/>
+pagabili alli magnifici Guglielmo <lb/>
+Duppenghiser, et Gio. van Grell</p></cell>
+<cell><p>4100</p></cell>
+<cell><p>ducati 1640 </p></cell>
+</row>
+<row>
+<cell><p>9. Per la nave Il leon dorato per fiorini <lb/>
+pagabili alli magnifici Luca van Uffelen, <lb/>
+et Gio. van Mere</p></cell>
+<cell><p>4800</p></cell>
+<cell><p>ducati 1920 </p></cell>
+</row>
+<row>
+<cell><p>10. Per la nave Santa Giustina per fiorini <lb/>
+pagabili al magnifico Fedrich Woyt o a <lb/>
+chi ordinerà in piedi della lettera</p></cell>
+<cell><p>4100</p></cell>
+<cell><p>ducati 1640 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>47700</p></cell>
+<cell><p>19080 </p></cell>
+</row>
+</table>
+<pb n="005v" facs="08_005v" rend="0"/>
+<table>
+<row role="label">
+<cell><p>qui dietro fiorini</p></cell>
+<cell><p>47700</p></cell>
+<cell><p>ducati 19080 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>11. Per la nave Bontekoi o Vacca macchiata per fiorini <lb/>
+pagabili al signor borgomastro Melson o a chi <lb/>
+egli ordinerà in piedi della<ptr target="#tn28" n="28"/> lettera</p></cell>
+<cell><p>4100</p></cell>
+<cell></cell>
+<cell><p>ducati 1640 </p></cell>
+</row>
+<row>
+<cell><p>12. Per la nave Il re David per fiorini <lb/>
+pagabili al signor borgomastro Scram o a chi <lb/>
+egli ordinerà in piedi della lettera</p></cell>
+<cell><p>3200</p></cell>
+<cell></cell>
+<cell><p>ducati 1280 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>55000</p></cell>
+<cell></cell>
+<cell><p>22000 </p></cell>
+</row>
+</table>
+<p>Ducati vinti doi milla in banco per fiorini cinquanta <lb/>
+cinque milla valutato il ducato a piacchi cinquanta <lb/>
+overo fiorini doi, et mezo di moneta d’Holanda <lb/>
+per il pagamento di noleggio di doi mesate decima, <lb/>
+et undecima per le dodici navi.
+<pb n="006r" facs="08_006r" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="006v" facs="08_006v" rend="270"/>
+<p>n° 2 </p>
+<p>Lista delle lettere per il <lb/>
+pagamento del noleggio di <lb/>
+doi mesate per le dodici navi </p>
+<p>nel n° 92 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue -no depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Segue sap depennato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue suo depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Il noleggio … altrimenti aggiunto."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-ti esito di correzione."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Così A."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Esito di correzione."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue meno depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue Spiacemi depennato."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-ri- esito di correzione."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Segue Spa depennato."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-le aggiunto; segue alla Serenità vostra depennato."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Come pare."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Segue ff depennato."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Lacerazione del supporto; testo in parte integrato da frammenti non riprodotti."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "Come pare."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "Melchior Noirrot esito di correzione; segue riga depennata."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Segue presente depennato."</p></note>
+</div>
+</body>
+</text>
+</TEI>

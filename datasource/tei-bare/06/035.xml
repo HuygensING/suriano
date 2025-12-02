@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.035 date 1618-07-10</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">035</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 296r-301v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Het gaat over publicatie van Gerson Bucerus en zijn Dissertatio de gubernatione ecclesiae http://resources.huygens.knaw.nl/retroboeken/blnp/#source=2&amp;page=108&amp;view=imagePane
+            </note>
+            <biblScope unit="page">296r-301v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports in cipher that Pasini wrote to him with news about Spanish ambassador in Brussels reporting that the Venetians had executed some Frenchmen. He requests further instructions from Venice as several Frenchmen having served Venice are on their way to the Netherlands. Reports that Vercelli has been restituted and free commerce has resumed in Friuli. Rumours of levies in Holy Roman Empire and the growing troubles in Bohemia. James I has requested for a book issued by one of its ministers to be burnt as he fears it may cause problems in Scotland. Letter about synod will be send to England via Carleton, but for France they do not want to send it to Langerack due to his affiliations to Oldenbarnevelt, Holland and Utrecht disagree. The Muscovite ambassador has left without support. Massa will present a gift of war munition of 30.000 florins but this has not been made public because they want to offer greater assistance if they receive same privileges as the English and free passage to Persia. Having heard that the Muscovite ambassador from England has received presents, they have tried to content this ambassador accompanying him half way and entertained him in Amsterdam. Attached is the letter of States General on behalf of plaintiffs in Levenstein case. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-07-10">10 luglio 1618</date>
+            <num>081</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="081">
+<div type="main" facs="main text of letter" n="081">
+<!--<p>10 luglio 1618, L’Aia (cc. 296r-301v)</p>-->
+<pb n="296r" facs="06_296r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 44 fin 45 </p>
+<p>Serenissimo Principe </p>
+<p>troppo sono conosciuti dalli naturali, et sudditi in queste sette provincie <lb/>
+gl’artificii dei Spagnuoli, onde non così facilmente fanno qui pervenir <lb/>
+le loro inventioni, et massime della natura, che vostra Serenità mi signi-<lb/>
+fica nelle sue ultime lettere dei 16 del passato, o se pur vi <lb/>
+arrivassero conoscendosi molto bene la pietà, et giustitia incorrotta <lb/>
+di lei non vi si farebbe riflesso. Ben dalla parte delle provincie <lb/>
+suddite alli serenissimi arciduchi, et principalmente a Brusseles, <lb/>
+ove si trovano in copia delli appassionati, si dà ad ogni cosa <lb/>
+credenza, a tutto si aggiunge il comento, et si vorrebbe <lb/>
+la riuscita conforme alla poco buona volontà, come è successo <lb/>
+in questa occasione poiché pareva, che in Brusseles godessero <lb/>
+anco di quello, che era stato machinato: ancorché per la <lb/>
+gratia di sua detta Maestà non habbi havuto l’effetto. </p>
+<p>Mentre era in viaggio per pervenirmi il dispaccio sudetto di <lb/>
+vostra Serenità hebbi <hi rend="decoded">lettere</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">dal Pasini, nelle quali, come quello, che con <lb/>
+zelante devotione invigila nel servitio di vostra Serenità <lb/>
+mi avisava in questo proposito haver cavato, che <lb/>
+l’ambasciator di Spagna, ressidente presso vostra Serenità haveva <lb/>
+scritto, che l’Eccellenze vostre havevano fatti morire <lb/>
+alcuni Francesi per sospetto di qualcheduno tradimento; <lb/>
+et che era cosa meravigliosa, ch’elle havessero <lb/>
+fatta tanta ingiustitia in persone del tutto <lb/>
+innocenti. Bisogna, che habbi il detto Ambasciatore <lb/>
+aggiunta</hi>
+<pb n="296v" facs="06_296v" rend="0"/>
+<hi rend="decoded">anche qualcos’altra stravaganza simile, <lb/>
+ond’io non ho mancato di avvertir fin quanto mi è <lb/>
+parso bene il Pasini, affineché sappi risponder, <lb/>
+et sostentar il vero, massime con la confessione, <lb/>
+et convintione dei rei</hi>. Oltre <lb/>
+il commandamento della Serenità vostra questo anco mi farà star <lb/>
+avvertito di qua, et a proposito risponderò della maniera <lb/>
+che da lei mi viene detata, et il fatto stesso, la verità, la <lb/>
+sincerità di lei, et la mia humil devotione lo ricerca. </p>
+<p>Sono avvertito, che vano arrivando qui nel Paese diversi Francesi, <lb/>
+et altri, che sono stati in Italia, et particolarmente tra le truppe, <lb/>
+che hanno servita vostra Serenità, anzi per quello intenderà più a <lb/>
+basso posso come assicurarmi, che vi siano fra questi delli <lb/>
+fuggiti complici nella machinatione, o almeno condotti per <lb/>
+effettuarla, onde haverei desiderio saper la sua intentione <lb/>
+come mi doverò governare quanto fossi assicurato, che alcuno <lb/>
+di questi fosse stato nel fatto <hi rend="decoded">il</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">maestro di casa del conte <lb/>
+di Horon</hi> che venne ultimamente di <lb/>
+Brabant, con occasione di esser subtato in questa casa <lb/>
+della Serenità vostra alla messa, mi disse, che nella barca ordinaria <lb/>
+Roterdam, che viene a Delft oltre altri vi era un Francese, che <lb/>
+con uno del Paese cominciò a discorrer sopra l’accidente di Venetia <lb/>
+et disse, che haveva havuta buona fortuna di uscir da <lb/>
+quella città, et dello Stato, essendo ancor egli tra li molti (et <lb/>
+disse un numero più di 500) che erano trattenuti per far l’effetto
+<pb n="297r" facs="06_297r" rend="0"/>
+et che per esso non restavano, che hore; aggiungendo, che ’l loro trattenimento, et <lb/>
+la buona ciera, che facevano in Venetia<ptr target="#tn3" n="3"/> <hi rend="decoded">veniva</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">tutto dal duca di Ossuna, ma che <lb/>
+era stata felice la serenissima Republica haver <lb/>
+scoperto il trattato. Quello, che mi ha rifferto <lb/>
+questo tanto, mi ha dato anco qualche contra-<lb/>
+segni della statura, esser, ordinaria con barba <lb/>
+nera</hi><ptr target="#tn5" n="5"/><hi rend="decoded">, ferito in faccia dalla parte <lb/>
+sinistra nel calar della ganasa, come <lb/>
+anco l’orecchia sinistra tocca di un colpo di <lb/>
+moschetto</hi>. Costui <lb/>
+restò a Delft, et può esser, che sia in qualche compagnia del <lb/>
+reggimento del signor di Sciatiglione. Hieri vidi sua Eccellenza per termine di <lb/>
+complimento, et come curiosa mi ricercò di nuovo di questa <lb/>
+particolar machinatione, et parvemi bene non tacerle quanto <lb/>
+havevo inteso, mostrando di farlo per servitio dello Stato, consi-<lb/>
+derandole, che se in esso vi sono genti di simil natura di lasciarsi <lb/>
+corromper dall’oro, tanto potrebbe arrivar anco in questi paesi <lb/>
+in pregiudicio dei signori Stati, et dell’istessa persona dell’Eccellenza sua <lb/>
+ella volle haver li contrasegni di costui per informarsi, come disse, <lb/>
+et di lui, et d’altri, che vi potessero esserr io lo feci, et spero, <lb/>
+che vostra Serenità lo trovarà buono, et mentre attendo altri avvisi <lb/>
+da lei, invigilerò a quello, che potessi sottrare a servitio di <lb/>
+quella serenissima Republica. </p>
+<p>Hora, che si ha per l’ultimo ordinario la certa confermatione della resti-<lb/>
+tutione di Vercelli, et che si è intesa la libertà del comercio in <lb/>
+Friuli, et correndo voce, che le genti di quella parte del re </p>
+<pb n="297v" facs="06_297v" rend="0"/>
+<p>Ferdinando si ritirino in Alemagna a giungersi all’altre dell’Imperatore si <lb/>
+tiene per fermo, che ’l signor duca di Savoia habbia a goder la quiete <lb/>
+nel suo Stato vostra Serenità resti sollevata, et libera per la parte sua contra <lb/>
+Austriaci, et che ’l duca di Ossuna si retirerà anc’egli dal golfo, onde <lb/>
+ella haverà da per tutto sollevo nelle spese. Con tutto ciò sua Eccellenza et qualche <lb/>
+altri di questi signori hanno detto, che sarà prudentissimo consiglio il non <lb/>
+disarmarsi così tosto in mare per tenir freno allo Spagnuolo, et <lb/>
+in ufficio, et tema li fomentatori di esso in quella parte. </p>
+<p>Qui si parla in generale concordemente, che si faccino grandi levate in <lb/>
+Alemagna; ma si considera con gl’essempii passati, che li rumori <lb/>
+non habbino a fermar gran piedi comportandolo così la natura <lb/>
+delli<ptr target="#tn6" n="6"/> Alemani; et considerò meco l’Eccellenza sua, che tutto ciò <lb/>
+faceva il gioco, et il vantaggio insieme della casa d’Austria <lb/>
+perché quell’armi, che hora pareva si adunassero da essa <lb/>
+li ribelli (come di qua li chiamano Spagnuoli) in Bohemia, have-<lb/>
+rebbono servito a far forte il re<ptr target="#tn7" n="7"/> Ferdinando per <lb/>
+l’elettione in re de’ Romani. </p>
+<p>Ha il principe d’Heidelbergh mandato qui un suo gentilhuomo a <lb/>
+communicar al signor principe Mauritio la risolutione del <lb/>
+demolir la fortezza di Udem-heim del vescovo di Spira et sua Eccellenza <lb/>
+mi disse, che meglio sarebbe stato, che si havessero apposto quando fu <lb/>
+principiata, et che hora si attendesse ad altro più proprio agl’interessi <lb/>
+dei principi uniti. Non credo che questa sia stata la sola causa <lb/>
+ch’è venuto qui il detto gentilhuomo; ma forse per intender anco <lb/>
+quello, che passa di qua nei pensieri per le novità in Bohemia. è partito
+<pb n="298r" facs="06_298r" rend="0"/>
+et non si è potuto penetrar di vantaggio. </p>
+<p>S’è anco inteso qui, che li eccitatori del rumore in Bohemia habbino <lb/>
+fatto offerir al duca di Sassonia l’esser generale, o capo in questo interesse <lb/>
+ma ch’egli non l’habbi voluto accettare. Vostra Serenità però deve haver li più <lb/>
+certi, et sicuri particolari dal proprio luoco. </p>
+<p>Intendo, che alli confini di Colonia vanno ogni giorno arrivando iesuiti <lb/>
+di quelli, che sono stati scacciati di Bohemia, et tentano haver luoco <lb/>
+per fermarsi, et accommodarsi nelle provincie delli serenissimi arciduchi <lb/>
+et forse che non incontreranno difficoltà. </p>
+<p>Questi signori stano attenti agl’avvisi per sapersi governare secondo che <lb/>
+sentiranno haverne bisogno il Paese. Dall’altro canto attendono <lb/>
+all’essecutione del deliberato intorno al sinodo<ptr target="#tn8" n="8"/>. Le lettere stano <lb/>
+per ispedirsi a’ principi, et credo che quelle per Inghilterra s’invie-<lb/>
+ranno per il servizio del signor ambasciator Carleton, ch’è venuta ultimamente <lb/>
+con lettere a sua Eccellenza del Re, et per la città di<ptr target="#tn9" n="9"/> Terver. </p>
+<p>Ricerca sua Maestà all’Eccellenza sua come marchese di Terver, et alla stessa <lb/>
+città che sia abbrucciato un libro composto da uno di quei <lb/>
+ministri, nel quale afferma conformarsi di gran lunga più con <lb/>
+la scrittura sacra l’uso, et il reggimento di queste chiese dei <lb/>
+signori Stati, che quello d’Inghilterra de’ vescovi, et altre cerimonie, <lb/>
+il che dubitando sua Maestà che possi partorir qualche mal effetto <lb/>
+in Scotia, ove ha tentato di ridur in quelle chiese il tutto <lb/>
+all’uso d’Inghilterra, procura hora la suppressione, et l’incendio al <lb/>
+detto libro. È buon pezzo, che aspetta il detto secretario, et subito venuta
+<pb n="298v" facs="06_298v" rend="0"/>
+la risposta partirà. </p>
+<p>Le lettere per Francia in materia del sinodo non si vorrebbono mandar a monsignor <lb/>
+di Langarach ma darle all’ambasciatore, o ambasciatori, che si procura pure di <lb/>
+accordar di mandar al Christianissimo dubitandosi, ch’egli o non porti l’ufficio <lb/>
+con il Re come si deve per esser dipendente da Bernvel, o se lo fa <lb/>
+lo facci freddamente, et che possi esser, che la Maestà sua non resti così ben <lb/>
+impressa per trovar buona la risolutione, et assentir anco, che vi ven-<lb/>
+ghino di quella qualità de’ ministri, che si vorrebbe per questo affare. </p>
+<p>La provincia di Holanda, et unita ad essa quella di Utrechet sono <lb/>
+del tutto contrarie a questa missione d’ambasciata, non riputandola, <lb/>
+come dicono, necessaria mentre ancor non sono sicuri, che il denaro <lb/>
+promesso li giorni passati dall’Ambasciatore sia ad ordine; ma gl’altri <lb/>
+che non si fermano a questo sol punto dei denari; ma di mandar <lb/>
+ad informar il Re come passino le cose, essendo in sospetto che <lb/>
+monsignor di Langarach lo facci, persistono nell’opinione, et <lb/>
+nell’essecution della risolutione. </p>
+<p>È partito l’ambasciator Moscovita non molto contendo poiché non ha potuto haver <lb/>
+quello, che desiderava in contanti, et meno a lui è stato dato per <lb/>
+consegna qualche munitioni di<ptr target="#tn10" n="10"/> guerra per il valor di 30 mila fiorini in circa <lb/>
+che hanno risoluto di mandar per presente al granduca di Moscovia. </p>
+<p>La carica del presentarlo è stata data ad un Isaac<ptr target="#tn11" n="11"/> <lb/>
+Massa nativo di questi paesi del quale scrissi riverentemente alla Serenità vostra la passata <lb/>
+settimana. Et se ben non si publica ho però cavato haver <lb/>
+per commissione secreta di offerir a quel Principe ogni
+<pb n="299r" facs="06_299r" rend="0"/>
+maggiore, et più possibil aiuto mentre darà a’ mercanti di questa <lb/>
+Natione il trafico libero nel suo Stato non altrimenti che agl’Inglesi; et <lb/>
+il passaggio libero, come si è lasciato intender per il viaggio in Persia. </p>
+<p>Questi signori sono stati poco gustati di questa ambasciata, o per meglio <lb/>
+dire della persona di questo Ministro, havendo dette parole <lb/>
+impertinenti, et particolarmente che qui erano tutti bestie: et il sudetto <lb/>
+Massa ha ordine da questi signori, che se per caso sente, che questo <lb/>
+facci qualche mal ufficio rappresenti al Principe le sue imperti-<lb/>
+nenze, tra quali l’ultima. Et fu che havendolo sua Eccellenza invitato <lb/>
+per la mattina di giovedì passato a veder la sua compagnia <lb/>
+a far l’essercitio, come haveva mostrato di desiderarlo, et <lb/>
+stando ella in campagna con il conte Guglielmo et<ptr target="#tn12" n="12"/> alcuni deputati <lb/>
+de’ signori Stati, et altri signori aspettando che venisse con le carrozze, <lb/>
+con che lo haveva mandato a pigliare, venne avviso, ch’egli <lb/>
+levatosi la mattina per tempo haveva cominciato a bever <lb/>
+acqua di vita, et vino in maniera, che s’era ubriacato, et <lb/>
+che sua Signoria non poteva star in piedi. Partì venerdì presentato <lb/>
+di una colana d’oro, et doverà imbarcarsi nel Tessel in una <lb/>
+nave di guerra, colla quale si mandano anco le munitioni. </p>
+<p>Havendo questi signori inteso, che d’Inghilterra era partito l’altro Ambasciator moscovita <lb/>
+con li regali, et accompagnamenti fatti da quei mercanti per loro interesse, <lb/>
+né tenendone avviso dal loro Ambasciatore li hanno scritte lettere assai <lb/>
+gravi, che in negotio di tanto momento non habbi scritto, et avver-<lb/>
+tito di qua quello, che occorre; et mal volentieri sentirebbono
+<pb n="299v" facs="06_299v" rend="0"/>
+questi signori; et particolarmente li traficanti nel Paese del Moscovita, che <lb/>
+l’esclusione li venisse particolarmente dalla parte delli Inglesi. Hanno però <lb/>
+procurato, che di qua partì sodisfatto esso<ptr target="#tn13" n="13"/> Ministro col detto <lb/>
+presente; et coll’accompagnamento, che sua Eccellenza, il conte Guglielmo, et <lb/>
+alcuni dei stati li fecero fino a meza stradda di Leidem, et in <lb/>
+Amsterdam doveva esser trattato, et regalato a spese publiche <lb/>
+come qui si è fatto. </p>
+<p>Invio qui aggiunta la copia della lettera, che questi interessati nella con-<lb/>
+dotta del conte di Levenstein hanno solecitata, et finalmente ottenuta <lb/>
+dai signori Stati in loro raccomandatione a vostra Serenità, et ho stimato bene d’inviarne <lb/>
+anc’io la traduttione, che ne ho fatta in italiano dalla quale <lb/>
+vedrà come sue Eccellenze desiderino esser sgraviate dalle importune instanze <lb/>
+di questi interessati. Sentirà come si fondino nel ricercar, che <lb/>
+sia restituita la parte esborsata delli 22 mila ducati, et ella colla <lb/>
+sua somma, et singular prudenza potrà procurar di render con-<lb/>
+tenti con buone parole gl’intervenienti loro, compiacendosi anco <lb/>
+di risponder con sue lettere alli signori Stati, poiché mostrano deside-<lb/>
+rarlo per loro sollevo, che così mi ha replicato il secretario dell’assem-<lb/>
+blea, che di nuovo mi ha raccommandato il negotio. Io a detti interessati <lb/>
+non ho potuto negare di dar ancor una mia lettera per la Serenità vostra <lb/>
+tanto me ne hanno pregato. Gratie etc. </p>
+<p>Dall’Haya a’ x luglio 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="300r" facs="06_300r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="300v" facs="06_300v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="301r" facs="06_301r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="301v" facs="06_301v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 44 fin 45 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="081">
+<!--
+<p n="301vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>10 luglio 1618 ricevute a’ 25 detto </p>
+<p>Dall’Haya. n° 44 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "lettere … convintione dei rei" decoding of the encrypted text can be found on c. 294r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "il … Horon" added above the deleted encrypted text.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by a crossed-out cipher.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "veniva … moschetto" decoding of the encrypted text can be found on c. 294r-v; with cross-reference sign.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "rossa" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "Terver" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "d-" corrected above ,.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "Massa" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "detto" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

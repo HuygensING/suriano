@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.031 date 1620-06-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">031</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 176r-178v, 183r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp279-295
+            </note>
+            <biblScope unit="page">176r-178v, 183r-v, 179r-180v, 181r-182v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Further preparations are being made for war in the Dutch Republic with letters being written to the provinces about their portion in raising 4000 infantry and the frontier cities are being guarded. Various news reports about German lands including report that Spanish want to take Frankfurt. No news about 4000 troops from England in The Hague and idea of a new embassy to Germany. Maurice urges the Margrave of Ansbach uand the other princes not to allow themselves to be deceived by the Austrians and Spaniards. Willem Lodewijk of Nassau has passed away and Suriano reports he has offered his condolences. He sends a letter from Van Aerssen written from Heidelberg and intercepted in France in attachment. Almost certain that this letter is a French invention and his father will pay good money to see the authentic letter. Equally attached is a copy of the declaration of judges in Oldenbarnevelt’s trial about lese Majeste. Two documents attached: a copy of a letter written by Aerssen from Heidelberg dated 8 May 1620 and declaration of judgement against Oldenbarnevelt</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-06-16">16 giugno 1620</date>
+            <num>048, 049, 050</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="048">
+<div type="main" facs="main text of letter" n="048">
+<!--<p>16 giugno 1620, L’Aia (cc. 176r-178v, 183r-v)</p>-->
+<pb n="176r" facs="09_176r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 213<ptr target="#tn1" n="1"/> comincia 212<ptr target="#tn2" n="2"/> fin <lb/>
+214<ptr target="#tn3" n="3"/> </p>
+<p>Serenissimo Principe </p>
+<p>alle provincie tutte è stato scritto per quello tocca alla loro <lb/>
+portione per il far la levata di quattromilla fanti, et hora <lb/>
+si daranno gl’ordini sufficienti per il denaro, et per altro che <lb/>
+sarà necessario. </p>
+<p>Questi si metteranno presidiarii nelle piazze di frontiera <lb/>
+et della soldatesca, che vi è al presente si valeranno <lb/>
+questi signori et il signor principe d’Oranges per l’accidente, che <lb/>
+potesse venire di uscir in campagna. </p>
+<p>Gl’arciduchi fanno formar li reggimenti scritti, et si crede <lb/>
+che già il tutto sia in ordine tale, che si possi ben presto <lb/>
+il marchese Spinola metter in campagna; continuando <lb/>
+la voce, ch’egli sia per farlo, et questi signori procurano esser <lb/>
+avvisati per ogni verso delli andamenti a fine di far uscir <lb/>
+anco sua Eccellenza quando esso Spinola si approssimasse, o ten-<lb/>
+tasse alcuna cosa a questi confini. Et l’Eccellenza sua mi disse, <lb/>
+che non si armavano li signori Stati, che a sola difesa, che <lb/>
+uscendo non sarebbe, che per attender se le genti di là <lb/>
+passeranno in Alemagna, per regolarsi poi secondo che <lb/>
+porterà l’occasione et il servitio delli amici. </p>
+<p>Due nuove hanno ricevuto questi signori che le sono riuscite <lb/>
+di contento l’una, che ’l duca di Sassonia all’instanza <lb/>
+solecitata da suoi sudditi habbi licentiata quella soldatesca
+<pb n="176v" facs="09_176v" rend="0"/>
+che haveva levata; et l’altra che li principi dell’Unione <lb/>
+siano<ptr target="#tn4" n="4"/> risoluti di mantenersi, et mantener il passo; <lb/>
+se ben l’una, et l’altra di queste nuove hanno il suo <lb/>
+contrapreso, et è, che ’l duca di Sassonia si voglia man-<lb/>
+tener neutrale, dubitando questi signori, che quello che <lb/>
+non opererà con l’armi lo facci col consiglio, et coll’<lb/>
+assistenza di qualche somma di denaro, inviandolo sotto-<lb/>
+mano all’Imperatore; l’altro è, che quanto li principi uniti <lb/>
+sono risoluti, altrettanta irresolutione sentono esser nelle <lb/>
+città dell’Unione. Et si è havuto avviso, che gl’ambasciatori <lb/>
+francesi nel passar per Strasburgh habbino nella loro propo-<lb/>
+sitione et di bocca, et per scritto essortati quei signori a <lb/>
+disunirsi dall’Unione: cosa, che mi disse il signor principe <lb/>
+Mauritio, che dava molto ben ad intender il fine <lb/>
+con che caminava quell’ambasciata; et mostrò di non <lb/>
+promettersi alcun buon effetto da essa per servitio de’ <lb/>
+communi amici. </p>
+<p>Questi avvisi dano pochissimo gusto all’Eccellenza sua et diede segno <lb/>
+di temer della buona riuscita, quando allo sforzo che <lb/>
+fanno Austriaci et Spagnuoli non vi<ptr target="#tn5" n="5"/> si opponghi mag-<lb/>
+gior assistenza, et più unito consiglio, et soccorso. </p>
+<p>Hore quanto fu detto degl’avvisi, che si havevano, che </p>
+<pb n="177r" facs="09_177r" rend="0"/>
+<p>Spagnuoli mirassero a gettarsi nel Palatinato, et a <lb/>
+Giuliers aggiunge il sospetto, che voglino impatronirsi <lb/>
+di Francfort, et compiacendosi il signor principe d’Oranges <lb/>
+di discorrerne meco disse, che credeva, che facilmente <lb/>
+potesse riuscir l’intrapresa, non essendo chi li possi <lb/>
+resister rispetto che li principi dell’Unione saranno <lb/>
+attorniati dal duca di Baviera, da quello di Lorena, <lb/>
+dai elettori ecclesiastici, dalle genti che sono in Alsatia con <lb/>
+Leopoldo; et venendo a proposito di quanto è stato <lb/>
+qui publicato, che ’l re di Inghilterra habbi accordato <lb/>
+ad instanza del secretario di Wirtimbergh la levata <lb/>
+di quattromilla fanti, disse, ancor io non lo credo: <lb/>
+ma sarebbe meglio che quel Re<ptr target="#tn6" n="6"/> aggiungesse <lb/>
+al quattro un nula, et si gettasse con quarantamilla <lb/>
+fanti nella Fiandra, che così provederebbe prontamente <lb/>
+all’iminente pericolo a che sta sottoposto il Palatinato. </p>
+<p>Ancor hier sera questo signor Ambasciator inglese non ne<ptr target="#tn7" n="7"/> haveva havuto <lb/>
+avviso in sue lettere particolari d’Inghilterra; ma solo li veni-<lb/>
+va scritto di Brusseles dall’agente di sua Maestà. Mi ha <lb/>
+communicato esso Ambasciatore che la Maestà sua haveva di nuovo <lb/>
+gettato il pensiero sopra di lui per andar in Alemagna <lb/>
+ma non sarebbe, che doppo la relatione, che ’l cavalier Wton
+<pb n="177v" facs="09_177v" rend="0"/>
+haverà mandata dello stato in che haverà trovato le cose <lb/>
+et l’affetto, che haverà fatta l’ambasciata di Francia: <lb/>
+aggiungendomi come prima io sarei andato mal volentieri <lb/>
+in Germania perché prevedevo, che ero<ptr target="#tn8" n="8"/> per servir poco <lb/>
+più che per complimento senza haver qualche sussistenza <lb/>
+in mano per quei principi. Così hora, che sento, che si <lb/>
+tratta di mandar gente sarò meglio venduto, et in miglior <lb/>
+maniera si potrà avanzar, et avantaggiar li negotii <lb/>
+in quella parte. </p>
+<p>Ho saputo che sua Eccellenza con replicate lettere ha in stato, et <lb/>
+solecitato il marchese di Anspach perché metti buon <lb/>
+ordine a tutte le cose, si guardi di lasciarsi egli, et gli <lb/>
+altri principi assordir l’orrecchi, et procuri di divertir <lb/>
+l’inganno, che da Austriaci et Spagnuoli li potesse venir. </p>
+<p>Restano l’Eccellenza sua et questi signori in qualche sospension d’animo <lb/>
+di quello possi riuscire; et vano provedendo a tutto <lb/>
+quello possi servire a queste Provincie; et hieri tre <lb/>
+deputati dell’assemblea furono a communicar col signor <lb/>
+ambasciator Carleton gl’avvisi, che havevano dal loro <lb/>
+ambasciatore in Inghilterra et per saper qual fosse l’intentione <lb/>
+del Re per potersi anc’essi regolare; ma non so che <lb/>
+habbino tirato altro, se non che attende lettere dalla Maestà sua
+<pb n="178r" facs="09_178r" rend="0"/>
+può esser anco, che concertino<ptr target="#tn9" n="9"/> qualche <lb/>
+cosa con esso signor Carleton a profitto delle affari<ptr target="#tn10" n="10"/> di Ale-<lb/>
+magna. Procurerò di cavarne il certo se vi sarà <lb/>
+alcuna cosa in questo proposito. </p>
+<p>Ha prevalso la gravezza del male nella persona del signor conte <lb/>
+Guglielmo di Nassau, ne li rimedii applicati all’accidente <lb/>
+hanno havuto tanta forza, che habbino potuto invigo-<lb/>
+rir la parte offesa; onde doppo quattordici giorni dell’<lb/>
+accidente di paralisia ha lasciato questo mondo con <lb/>
+dispiacere universale delle provincie tutte, et in particolare <lb/>
+di quelle di Frisia, et di Grunighen. Ma il signor principe Mauritio <lb/>
+è stato quello che n’ha havuto il sentimento maggiore. </p>
+<p>Hieri fui per questa morte a complir coll’Eccellenza sua et col signor <lb/>
+principe Henrico. Et esso signor principe d’Oranges mostran-<lb/>
+do aggradir il complimento, come fece anco l’altro, mi disse <lb/>
+con parole di molto affetto. Io provo grave dolore <lb/>
+per questa perdita, la quale non poteva cader in tempo <lb/>
+più inoportuno massime nel fine delle tregue, et <lb/>
+per li rispetti del Paese; ma che bisognava accomodarsi <lb/>
+alla legge commune. In effetto, come colle precedenti <lb/>
+lettere mie accennai riverentemente il Paese fa perdita <lb/>
+grave. </p>
+<pb n="178v" facs="09_178v" rend="0"/>
+<p>Haverà la Serenità vostra qui aggiunta copia di una lettera <lb/>
+che pare scritta dal signor ambasciator Arsen da Heidelbergh <lb/>
+dicono intercetta in Francia per dove era diretta <lb/>
+et fatta capitar in mano del Re. Et qui n’è stata <lb/>
+sparsa la copia senza sapersi a chi ella e[r]a<ptr target="#tn11" n="11"/> inviata. <lb/>
+Si tiene per fermo, ch’ella sia o inventata, o se pur <lb/>
+l’ha scritta, da spiriti francesi vi sia stato aggiunto <lb/>
+per mezo de Foletti, che habbino fatto sentir parole <lb/>
+non mai pensate da lui, né da chi egli introduce <lb/>
+a parlare, ch’è Eccellenza sua la quale quando <lb/>
+fui seco mi addimandò, se<ptr target="#tn12" n="12"/> havevo veduta detta <lb/>
+lettera, et dicendo che sì, mi aggiunse, che la teneva <lb/>
+per finta, et che venisse di casa del buon amico di <lb/>
+esso Arsens,<ptr target="#tn13" n="13"/> volse inferir monsignor di Maurier, <lb/>
+et che chiamava Iddio in testemonio et<ptr target="#tn14" n="14"/> che <lb/>
+non le<ptr target="#tn15" n="15"/> perdonasse, se mai haveva pensato a dir parola <lb/>
+simile a quella, ch’era introdotta nella lettera. Et io <lb/>
+affermai a sua Eccellenza che manco lo credevo, et che la <lb/>
+tenevo o per finta, o per alterata in molte parti. </p>
+<p>Il padre di esso Arsen secretario dei signori Stati è scon-<lb/>
+tentissimo di questo accidente, et s’è lasciato publi-<lb/>
+camente, et liberamente intender<ptr target="#tn16" n="16"/> che vuol pagare buona
+<pb n="183r" facs="09_183r" rend="0"/>
+di centinara di fiorini a chi li mostrerà la lettera <lb/>
+autentica: perché allhora saprà sendo simile alla copia quello, che doverà fare per corriger <lb/>
+una tanta temerità. Il signor ambasciator Arsen ha <lb/>
+profetato a sé stesso, che l’absenza sia per <lb/>
+nuocergli, et forse vostra Serenità haverà havuta la <lb/>
+medesima lettera per via di Francia, poiché qui si è <lb/>
+sparso, che ’l Re stesso, o li suoi ministri gliel’<lb/>
+habbino fatta capitare. </p>
+<p>Con queste sarà anco copia d’una dichiaratione fatta <lb/>
+dai giudici nel caso di Bernvelt dichiarando ch’egli <lb/>
+et altri prigioni, et banditi habbino commesso crime <lb/>
+di lesa maestà. A questo sono venuti essi giudici <lb/>
+mentre li figlioli di lui si opponevano al fisco, asserendo <lb/>
+che per privilegio ai nobili di Holanda era concesso il <lb/>
+poter redimer il bene confinato con ottanta fiorini <lb/>
+mentre non fosse il condannato dichiarito in crime <lb/>
+di lesa maestà, et che questo non appareva nella <lb/>
+sentenza del padre: onde questa pretetione, <lb/>
+et solecitatione non ha servito ad essi per altro, <lb/>
+che per render più palese l’ignominia di esso Ber-<lb/>
+nvelt. Gratie etc. </p>
+<p>Dall’Haya li 16 giugno 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="183v" facs="09_183v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> n° 213<ptr target="#tn17" n="17"/> comincia<ptr target="#tn18" n="18"/> 212<ptr target="#tn19" n="19"/> <lb/>
+fin 214<ptr target="#tn20" n="20"/> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="048">
+<!--
+<p n="183vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 giugno ricevute li primo luglio </p>
+<p>Haya. n° 213 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="049" corresp="048" source="179r-180v" >
+<div type="main" facs="main text of attachment I" n="049" corresp="048" >
+<!--<p>Allegato I al n. 48 (cc. 179r-180v)</p>-->
+<pb n="179r" facs="09_179r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya n° 213 </p>
+<p>Monsieur. La lettera, che vi sete compiacciuto di scrivermi a’ 28 <lb/>
+del mese passato non mi è stata resa, che ai 7 del presente in questo <lb/>
+luoco d’Heydelbergh, dove ella è venuta ad arrivarmi con <lb/>
+alcune altre, che mi sono venute dall’Haya, di dove havendovi <lb/>
+scritto a’ 22 d’aprile informandovi delli affari del nostro Stato <lb/>
+non mi resta al presente, che rendervi chiaro nel dubio in<ptr target="#tn21" n="21"/> che <lb/>
+vi veggo nella detta lettera vostra toccante quello, che mi ha <lb/>
+indotto a caricarmi di questa legatione in Paese sì lontano, <lb/>
+et parimente in questo tempo, nel quale per l’affettione della <lb/>
+quale voi mi honorate. Voi dite, che la mia presenza, et li <lb/>
+miei consegli erano li più necessarii nel nostro Stato; aggiunte <lb/>
+le considerationi, che voi mi allegate dei mali effetti, che <lb/>
+l’absenza può produrre a quelli che voi ben dite non poter <lb/>
+esser sopra la commune, senza haver degli invidiosi, et <lb/>
+esporsi ai colpi dei loro malii ufficii. Certo io non potrei ommetter <lb/>
+senza ingratitudine di rendervi molto humili gratie<ptr target="#tn22" n="22"/> di questo <lb/>
+pensiero sì particolare, che voi degnate haver della mia persona <lb/>
+et della mia fortuna, et vi confesso, che le medesime ragioni si <lb/>
+sono rappresentate<ptr target="#tn23" n="23"/> a me quando questa carica mi è stata offerta <lb/>
+et così non ho io trascurata alcuna cosa per escusarmene <lb/>
+al contrario, ch’io l’habbi desiderata, o<ptr target="#tn24" n="24"/> mendicata, <lb/>
+come vi è stato dato ad intender. Et s’io non havessi <lb/>
+havuto a combatter in questo che con persone minorum <lb/>
+gentium elle non haverebbono havuto assai di potere, o di <lb/>
+ragioni sufficienti per indurmi ad accettarla. Ma quando <lb/>
+il nostro Principe ancora m’ha fatto apparer di desiderarla <lb/>
+con passione per molte ragioni, che sarebbono di troppo
+<pb n="179v" facs="09_179v" rend="0"/>
+lunga deduttione; sono stato costretto a bever questo calice perché <lb/>
+stante che in tutte le cose fa egli apparere di amarmi et <lb/>
+credermi, come haverei potut’io contradirli principalmente per <lb/>
+tante pregnanti ragioni, che sopra ciò mi ha allegate sino a rico-<lb/>
+noscermi, che noi siamo ridotti a sì poche, o niune persone <lb/>
+capaci di tali cose, ch’io non havrei potuto senza mancar <lb/>
+al publico tentar d’esserne iscusato. Aggiungendo, che non <lb/>
+si trattava semplicemente d’andar a veder de Pantalonade <lb/>
+perché là non ci bisogna altro che confermar un trattato al quale <lb/>
+non bisogna né aggiunger né sminuire quello che poteva esser <lb/>
+fatto<ptr target="#tn25" n="25"/> sul primo trattato ma ch’era questione di visitar molti <lb/>
+principi, et republiche tanto in Alemagna, che in Svizzeri, infor-<lb/>
+marli dello stato nostro presente, esser informato del loro <lb/>
+et essortarli alla guerra di Alemagna, dalla quale sola<ptr target="#tn26" n="26"/> <lb/>
+noi speramo la nostra pace. Il che non è però opera <lb/>
+da<ptr target="#tn27" n="27"/> persone che cominciano ad imparare, de’ quali <lb/>
+noi non potemo negare, che noi non<ptr target="#tn28" n="28"/> ne habbiamo un <lb/>
+troppo gran numero in questo nuovo stabilimento doppo <lb/>
+la refformatione del nostro Stato. Aggiungete a tutto <lb/>
+questo, che per impegnarmi a questo viaggio mi sono <lb/>
+state levate doi gran difficoltà l’una ch’io ricevo un <lb/>
+trattamento non commune, ma tale qual si potrebbe fare <lb/>
+a qualunque altro di più eminente qualità nella nostra <lb/>
+Republica senza eccettuarne alcuno et inoltre che in questa <lb/>
+commissione non mi viene associata persona non ostante <lb/>
+che molti l’habbino presumto, et tale che meno lo poteva <lb/>
+haveva il più di buona opinione di sé stesso. Apresso
+<pb n="180r" facs="09_180r" rend="0"/>
+tutto questo giudicate com’io poteva disdirmene aggiunto <lb/>
+che per parlarvi liberamente secondo il mio solito (il che <lb/>
+nondimeno desidero, che sia detto a voi solo) io non lascio <lb/>
+persona dietro a me della quale io possi suspettare, che <lb/>
+mi possi esser fatti supplanti perché io conosco molto bene <lb/>
+quanto tutti vaglino. Siate donque in riposo<ptr target="#tn29" n="29"/> da questa <lb/>
+parte, come io lo sono, et conservatemi l’honore della buona <lb/>
+gratia vostra, come io farò a voi il mio servitio nell’occasione <lb/>
+et la mia corrispondenza nel ritorno al Paese, che farò con <lb/>
+ogni diligenza a me possibile. Io sono sforzato di partire <lb/>
+per continuar il mio viaggio nel quale havendo a cambiar <lb/>
+sì spesso di luoco io non so se potrò sperar<ptr target="#tn30" n="30"/> nuove <lb/>
+di voi; ma assicuratevi, che ne haverete delle mie <lb/>
+dal primo luoco ove io mi fermerò; et che sarò in tutta <lb/>
+mia vita. </p>
+<p>Monsieur </p>
+<p>Vostro ben humile, et più affettionato <lb/>
+servitore </p>
+<p>F. d’Aaersens </p>
+<p>D’Heidelbergh alli 8 maggio 1620
+<pb n="180v" facs="09_180v" rend="0"/>
+n° 1 </p>
+<p>Copia della letera del Arsen </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 213 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="050" corresp="048" source="181r-182v" >
+<div type="main" facs="main text of attachment II" n="050" corresp="048" >
+<!--<p>Allegato II al n. 48 (cc. 181r-182v)</p>-->
+<pb n="181r" facs="09_181r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya, n° 213 </p>
+<p>Dichiaratione dei giudici nella causa di Bernvelt, et degl’altri <lb/>
+condennati; che sino incorsi nel crime di lesa maestà. </p>
+<p>Alti e potenti signori </p>
+<p>Giudici delegati, che già furono commessi<ptr target="#tn31" n="31"/> dall’<lb/>
+alta potenza vostra alla cognitione, et giudicatura della <lb/>
+causa di Gio. Van Oldenbarnvelt, et delli altri prigionieri, <lb/>
+et altre persone condennate, chiamati qua nell’Haya per far <lb/>
+dichiaratione, se le giustitiate, prigioniere, et condannate persone <lb/>
+habbino commesso crime di lesa maestà o non. Doppo haver <lb/>
+reasumpto il passato, et fatta lettura del parere di quelli che <lb/>
+non hanno potuto o per affari necessarii, o per altre ragioni <lb/>
+pregnanti venir qui, dicono, che allhora che si arrestava <lb/>
+la sentenza il loro pensiero, et giudicio è stato, che ’l detto Gio. <lb/>
+Oldenbernevelt, et gl’altri prigionieri, et persone condennate <lb/>
+hanno commesso<ptr target="#tn32" n="32"/> et fatto crime di lesa maestà <lb/>
+eccetto Daniel Tresel. Così fatto nell’Haya alli 6 di <lb/>
+giugno 1620.
+<pb n="181v" facs="09_181v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="182r" facs="09_182r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="182v" facs="09_182v" rend="0"/>
+<p>n° 2 </p>
+<p>Copia della dichiaratione contra <lb/>
+il Bernevelt </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 213 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "2-" corrected above "1- e -3" corrected above -"2."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-2" corrected above -"1."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "2-" corrected above "1."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the deleted word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "oggi" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "qualche cosa" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> There is a hole in the page.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "l" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "ch’" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction; followed by "gi" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Corrected above "fin."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "2-" corrected above "1-."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "del" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Added above the line on "offerte" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by "per" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Followed by "ha" crossed out.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "h" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Is the result of a correction.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "vostre" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "alla cognitione" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "crime" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

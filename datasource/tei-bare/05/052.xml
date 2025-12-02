@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.052 date 1618-02-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">052</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 303r-306v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">303r-306v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the unexpected difficulties and delays. The Admiralty of Amsterdam have asked Suriano to travel to the city to resolve some matters regarding the rent and cost of provisions of five ships. The levies of the troops is not going smoothly due to the protest from cities such as Hoorn, Enkhuizen and Edam about the financial cost. The financial negotiations are also challenging as reportedly soldiers from Holland are receiving higher wages. Requests guidance from Venice to deal with the delays and discontent to ensure military readiness. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-02-20">20 febbraio 1618</date>
+            <num>092</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="092">
+<div type="main" facs="main text of letter" n="092">
+<!--<p>20 febbraio 1618, L’Aia (cc. 303r-306v)</p>-->
+<pb n="303r" facs="05_303r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 7 fin n° 8 </p>
+<p>Serenissimo Principe </p>
+<p>doppo l’ispedittione delle mie ultime lettere hebbi qualche <lb/>
+avviso, che li signori delle amiralità di Horon<ptr target="#tn1" n="1"/> et Encusen <lb/>
+havevano fermati tre vasselli in quelle parte di Nortlandia <lb/>
+et quelli d’Amsterdam doppo una lunga, et a me <lb/>
+penosa trattatione mi hanno scritto haver noleggiati <lb/>
+cinque navi, né mi toccano alcuna cosa delle prime <lb/>
+tre, et che per il rimanente erano sull’ispeditione <lb/>
+ma con le dette lettere mandatemi per loro messaggiero <lb/>
+espresso mi chiamano in Amsterdam a fine di poter <lb/>
+con la mia presenza risolver qualche difficoltà, che <lb/>
+hanno incontrata colli patroni dei vasselli, et coi capi <lb/>
+di essi intorno alla stipulatione dell’accordo di noleggio, <lb/>
+et per le spese dei viveri. Subito ispedite le presenti <lb/>
+mi metterò in camino ancorché sia malagevole <lb/>
+et difficile rispetto alla mala stagione, et al disfar <lb/>
+dei giacci, che lo causa tanto più cattivo, et peri-<lb/>
+coloso. </p>
+<p>Se questo affare delle navi mi travaglia quello della <lb/>
+levata delle genti da piedi per la piazza d’arme <lb/>
+non mi è niente meno molesto poiché con ogni stento, <lb/>
+et ogni più solecito ufficio mi è riuscito difficile <lb/>
+lo spuntare: perché dovendosi metter parte delle <lb/>
+genti a Horon, Encusen, et Edam ognuno dei <lb/>
+deputati di queste città mostrano temer renitenza
+<pb n="303v" facs="05_303v" rend="0"/>
+nei loro magistrati per esser stati mal contentati; anzi <lb/>
+andar creditori ancora dai capi del conte Gio. Ernesto <lb/>
+et non è poca la somma poiché assendo fino ai mille, <lb/>
+et mille cinquecento, et doi mille fiorini per cadauna <lb/>
+et le altre città, et luoghi con questo essempio, et del <lb/>
+conte di Levenstein, et del Wassonhoven temono di una <lb/>
+medesima perdita nei loro habitanti. </p>
+<p>Si è procurato trovar in ogni modo il ripiego a questo, <lb/>
+et credo, che gioverà ad acquetar l’animo dei <lb/>
+Borghesi, et è che nella capitulatione stipulata <lb/>
+col signor Amstenraedt vi è un articolo, che non sia <lb/>
+esborsato il denaro della prima mesata, che darò <lb/>
+anticipata, se li Borghesi delle città, et terre, ove <lb/>
+sarà data la piazza d’arme non<ptr target="#tn2" n="2"/> sarano a pieno <lb/>
+contenti, et più lo stesso signor, et li capitani hanno fatta <lb/>
+una scrittura sottoscritta di loro mano colla quale <lb/>
+dichiarano in conformità, che da me non sia esborsata <lb/>
+alcuna cosa se così non sarà seguito et io per facilitare <lb/>
+mi obligarò alle città stesse per l’effetto di questa loro <lb/>
+dichiaratione. </p>
+<p>Già mai haverei presuposto incontro di tanta contrarietà <lb/>
+et dilatione; ma spero nella gratia di Dio, che <lb/>
+il fine sia per sortir con maggior gusto di quello che <lb/>
+habbi havuto il principio, et il progresso sin qui
+<pb n="304r" facs="05_304r" rend="0"/>
+sua divina Maestà è vero testimonio, et gl’huomini <lb/>
+ancora, che se ne aveggono con quanto dispiacer d’animo <lb/>
+io soffri questa tardanza, et se io (com’è in effetto, <lb/>
+et so che vostra Serenità per sua benignità non ne dubita) solecito <lb/>
+et premo quanto più posso per superar tutte le difficoltà. <lb/>
+Delli tre vasselli tolti a Horon, et Encusen non mi viene <lb/>
+scritto, né<ptr target="#tn3" n="3"/> l’accordo, né la portata; ma delli<ptr target="#tn4" n="4"/> cinque <lb/>
+presi in Amsterdam uno è di trecento lasti che si <lb/>
+pagarà doi mille quattrocento fiorini per mese tre <lb/>
+altri, uno di doicentovinticinque lasti, et doi di doicento <lb/>
+l’uno si pagaranno questi 3 doi mille fiorini al <lb/>
+mese; et per un altro di 195 lasti si pagarà mille <lb/>
+quattrocento fiorini ogni mese, et questo s’intende per <lb/>
+il vassello con le artiglierie, che può havere sopra <lb/>
+con vele, et altri armizi necessarii. Vi sarà poi <lb/>
+la spesa dei viveri, et dei salari dei capitani et marinari. <lb/>
+Mi viene assolutamente presupposto, che la spesa sarà <lb/>
+molto minore di quella che vostra Serenità fa costì con quei <lb/>
+vasselli, che dicono esser di minor portata, et manco <lb/>
+armati di quello saranno questi tanto per l’arti-<lb/>
+glierie, che per il numero delle genti altre la qualità <lb/>
+dei vasselli. </p>
+<p>Mando a vostra Serenità la stupulatione dell’accordo fatto <lb/>
+col sudetto signor Anstenraedt per la levata della
+<pb n="304v" facs="05_304v" rend="0"/>
+soldatesca. Intorno al quale ho procurato di avanzar <lb/>
+in tutto quel più che ho potuto. Dodici fiorini, et mezo <lb/>
+dò per la levata, che il signor conte Ernesto ne ha havuti <lb/>
+quattordici; un mese, et mezo di paga era nelle <lb/>
+capitulationi di esso Conte per la retirata, et questi per <lb/>
+quelli, che haverà in esser alla licenza haveranno <lb/>
+soli otto scudi per testa. Sono assicurati di sei mesi <lb/>
+di servitio, che doveranno haver principio dal <lb/>
+giorno della prima mostra, et quanto alla paga <lb/>
+ella è di millecinquanta scudi di moneta corrente, <lb/>
+che viene a cento scudi meno di quello haveva <lb/>
+il medesimo conte Gio. Ernesto; ma qui bisogna che dica <lb/>
+riverentemente alla Serenità vostra per sua intelligenza havermi <lb/>
+riferto il detto Colonello, et altri ancora, che ’l prin-<lb/>
+cipe Mauritio ha dichiarito questo partito parti-<lb/>
+colarmente troppo disavantaggioso per la paga in particolare <lb/>
+dicendo, che si vuol levar tutto il fior della <lb/>
+gente dal Paese, et poi si vuol anco stronzarli <lb/>
+della paga, che haveva il conte Gio. Ernesto, et che <lb/>
+hanno gl’istessi Holandesi, che sono in servitio <lb/>
+essendo impossibile, che li soldati colla detta paga <lb/>
+si possino mantenere per la carestia, et per il biso-<lb/>
+gno, che si ha dei viveri, et che questa non è la <lb/>
+vera stradda di voler conservar una perfetta
+<pb n="305r" facs="05_305r" rend="0"/>
+buona intelligenza, et corrispondenza con queste Provincie <lb/>
+et cose simili, le quali so che travaglieranno l’animo di vostre Eccellenze <lb/>
+come a me riescono di grandissimo dispiacere; poiché <lb/>
+l’avanzo non è nato da sforzo, che habbi fatto alla <lb/>
+volontà del Colonello, et suoi capitani; ma dall’haver <lb/>
+egli, et essi, che prima hanno essaminato insieme <lb/>
+li partiti condesceso all’assenso, et alla stupilatione <lb/>
+non havendo io detto mai altro se non che non havevo <lb/>
+da tenermi alle capitulationi del conte Gio. Ernesto <lb/>
+sua Eccellentia a me non ha fatto moto di questo, né <lb/>
+questi giorni passati, né hieri, che sono<ptr target="#tn5" n="5"/> stato con lei <lb/>
+se ben mi parve, che havesse qualche cosa in capo <lb/>
+non so se per altro; che per questo pare a me non <lb/>
+habbi tutte le ragioni del mondo. </p>
+<p>Mi par che li soldati holandesi per l’ultima riforma <lb/>
+habbino così sei scudi, et mezo per testa, come <lb/>
+mi è stato riferto, et li officiali siano pagati <lb/>
+a parte, tal che questa voce, ch’è commune, <lb/>
+et nata ad ognuno haverà data materia <lb/>
+a questi concetti. </p>
+<p>Starà a vostra Serenità per chiuder la bocca, et per tenirsi amo-<lb/>
+revole la Natione, et questi soldati il commandarmi <lb/>
+che dia tanto quanto si dava al Conte che sono cento <lb/>
+scudi più per compagnia in ogni modo il partito non
+<pb n="305v" facs="05_305v" rend="0"/>
+è che per sei mesi, o darli qualche cosa di vantaggio <lb/>
+di quello è stipulato, et starà alla prudenza di lei il <lb/>
+deliberare o dell’uno, o dell’altro quello che stimerà <lb/>
+di suo servitio massime per evitar qualche disordine <lb/>
+che potesse avvenire non nei capi perché vogliono <lb/>
+farsi il loro capo soldo, come l’hanno quelli, che son <lb/>
+a quest’hora in servitio, ma nella soldatesca, che <lb/>
+haverà soli cinque scudi in circa per mese di moneta <lb/>
+corrente, ch’è uno scudo, et mezo meno delli altri <lb/>
+(se così è vero, come mi viene affermato, che sia) <lb/>
+il che aspetterò di sapere per poterli lasciar partir <lb/>
+contenti. Anco con queste sarà l’obligatione del Colonello che rimette alla dispositione di vostra <lb/>
+Serenità li 80 fanti sopranumeraii alli mille<ptr target="#tn6" n="6"/>. </p>
+<p>Et perché tutti li mali incontri vogliono haver la sua giun[…] <lb/>
+per maggiormente travagliarmi doppo l’haver io aspettato <lb/>
+molto tempo<ptr target="#tn7" n="7"/> il governator di Nimeghen con quelli che scrisse <lb/>
+di dover provedermi per condur le genti in fine arrivò <lb/>
+domenica sera doppo che io havevo di tre giorni <lb/>
+stipulata, et fermata la capitolatione, et fu a <lb/>
+trovarmi con doi, che haveva seco. Mostrò di restar <lb/>
+scontento, et io gli feci quelle considerationi che ’l fatto <lb/>
+et la verità stessa portavano con sé, che io soleci-<lb/>
+tato dai commandamenti publici non potevo più tardare a <lb/>
+risolver in questo affare. Et hieri a sua Eccellenza considerai, che <lb/>
+già che esso Governatore diceva, che erano molti giorni che
+<pb n="306r" facs="05_306r" rend="0"/>
+haveva seco detti doi gentilhuomini doveva mandarli, <lb/>
+et non condurli con lui a Giuliers, et a Cleves; parve <lb/>
+che ella assentisse alla ragione; ma mi è stato poi <lb/>
+accennato hieri a sera da uno de’ suoi sottosecretario <lb/>
+che per render contento il detto Governatore et li doi have-<lb/>
+rebbe bisognato, che sodisfacessi a qualche spesa, <lb/>
+di viaggio, et per ritornarsene. Prometto alla Serenità vostra <lb/>
+che mai più da che la servo in questa residenza <lb/>
+ho havuto il maggior tormento né la maggior afflitione <lb/>
+d’animo, vedendo da tutte le parti concorrer un <lb/>
+flusso di traverse, che par, che tutte succedino per <lb/>
+dar maggior vigore alla mala fortuna, che mi <lb/>
+par di haver in questo negotio. Pregarò Iddio, che <lb/>
+mi assisti per servitio di vostra Serenità; et procurerò in <lb/>
+ogni maniera possibile render sodisfatti li detti <lb/>
+signori. Gratie etc. </p>
+<p>Dall’Haya a’ 20 febraro 1618 </p>
+<p>di vostra Serenità<ptr target="#tn8" n="8"/> </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="306v" facs="05_306v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 7 fin n° 8 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="092">
+<!--
+<p n="306vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 febraro 1617 ricevute a’ 7 marzo </p>
+<p>Haya. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "H-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line on "che" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line on "p(er) li" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Ser(eni)tà … mille" added above the line.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

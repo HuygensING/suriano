@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.001 date 1617-03-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 1r-2v, 5r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">1r-2v, 5r-v, 3r-4v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Together with Vimes, Suriano has seen that the ships on the Meuse have set sail. Enclosed he sends a letter from Rocquelaure on how he has dealt with the munity. The States General hope that sending assistance to Italy will enhance their reputation. Upon his return in The Hague, he informed Maurice of the good news. Meanwhile, rumours in The Hague of a potential peace between Venice and Ferdinand has led the States General to request more information from Suriano. Reports that some accuse him of withholding information. A captain in service of Van Wassenhoven has come to visit him requesting 200 scudi to settle his debts, Suriano has given him 200 florins One additional letter attached: "Lettera del Rocalaura del 26 febbraio 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-01">1 marzo 1617</date>
+            <num>001, 002</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>1 marzo 1617, L’Aia (cc. 1r-2v, 5r-v)</p>-->
+<pb n="001r" facs="04_001r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>tutti li vasselli da questa parte della Moza con le genti levate <lb/>
+per la Serenità vostra sono partiti fra hier mattina, et hier sera. <lb/>
+Mandai il signor Cornelio di Vimes perché li sollecitasse, et egli <lb/>
+coll’ordinario suo riverente affetto nell’impiegarsi in <lb/>
+servitio di vostra Serenità ha posto ogni studio, acciò li patroni <lb/>
+de’ vasselli, et li marinari non perdessero il buon vento <lb/>
+che s’è messo quando manco si sperava. Li ha <lb/>
+accompagnati, et veduti far vela fuori in mare per <lb/>
+cinque, o sei leghe. Godo di dar questo avviso alle <lb/>
+Signorie vostre eccellentissime havendolo elle<ptr target="#tn1" n="1"/> desiderato tanto tempo fa, <lb/>
+et io bramato d’ispedirglielo con la maggior ansietà <lb/>
+del mondo, et ne laudo il signor Dio. Come scrivo la <lb/>
+partenza di tutti li sudetti vasselli, così vorrei <lb/>
+poterlo anco fare di quelli del Tessel. Alcuni sono <lb/>
+ben partiti, et questa mattina dirempetto<ptr target="#tn2" n="2"/> alla Brilla <lb/>
+si sono sentiti alcuni tiri; ma altri restavano <lb/>
+ancor a sortire per negligenza, et non so se debbo <lb/>
+dire malvagia ignoranza de’ mercanti, o patroni <lb/>
+de’ vasselli, che si sono lasciati venir il tempo <lb/>
+adosso senza provederli di tutte le cose necessarie, <lb/>
+et uno in particolare restava impegnato, essendosi per <lb/>
+fortuna con una borasca fitto in terra,<ptr target="#tn3" n="3"/> come
+<pb n="001v" facs="04_001v" rend="0"/>
+intenderà la Serenità vostra da quanto mi scrive il signor di Rocalaura <lb/>
+nell’aggiunta<ptr target="#tn4" n="4"/> traduttione di sue <lb/>
+lettere nella quale mi scrive anco l’essecutione fatta <lb/>
+contra li mutini. Et hoggi si sono havuti nuovi avvisi, <lb/>
+che si attendeva all’ispeditione con ogni diligenza, et <lb/>
+che ’l signor Conte si tratteneva quivi per tal rispetto; et <lb/>
+ritornato all’Haya in tre o quattro giorni si sarebbe <lb/>
+ispedito per venirsene a’ piedi della Serenità vostra. </p>
+<p>L’universale gode altrettanto della partita di coteste <lb/>
+genti, quanto ha sentito disgusto del mal tempo <lb/>
+che sin qui ha impedito la sortita; massime perché <lb/>
+sano che spiace a’ Spagnuoli, che s’introduca questa <lb/>
+pratica di potersi si qua cavar genti per Italia; et questi signori godono anco per la riputatione, che <lb/>
+indubitatamente aspettano di ricever, con mostrar <lb/>
+al mondo, che non ostante la lontananza del Paese <lb/>
+potevano anco inviar soccorsi in Italia, et al servitio <lb/>
+degl’amici, et di vostra Serenità in particolare. Alcuni <lb/>
+erano entrati in dubio, ch’ella poco fosse per <lb/>
+curar nell’avvenire dell’amicitia di queste <lb/>
+Provincie, havendo veduta la difficoltà della <lb/>
+sortita da questi porti maggiore<ptr target="#tn5" n="5"/> di quella che si haverebbe
+<pb n="002r" facs="04_002r" rend="0"/>
+potuto presuponer; il qual concetto io non ho mancato <lb/>
+di rimover dall’animo di qualcheduno, che me ne ha <lb/>
+tenuto discorso. </p>
+<p>Il signor principe Mauritio stava con gran desiderio attendendo <lb/>
+qualche nuova di questa sortita; et io subito rivenuto <lb/>
+il signor Vimes, stimai bene di andar a trovar sua Eccellenza, et gliene diedi parte, che fu ricevuta da lei<ptr target="#tn6" n="6"/> con animo <lb/>
+molto allegro tanto per il publico servitio; quanto per <lb/>
+la riputatione privata, et per l’interesse particolare che <lb/>
+ha havuta in questa levata per il signor conte Gio. Ernesto. </p>
+<p>Corre più che mai la voce per l’Haya, et esce dalla bocca <lb/>
+d’ognuno che l’accordo, et la pace sia seguita tra <lb/>
+vostra Serenità et il serenissimo Ferdinando per l’interpositione <lb/>
+del re di Spagna. Me lo ha detto sua Eccellenza li signori Stati <lb/>
+Generali col mezo del secretario della loro assemblea m’hanno <lb/>
+mandato a dimandar quello, che ne havevo; et molti <lb/>
+altri me l’hanno ricercato: a tutti ho risposto in <lb/>
+conformità, che non ho di ciò alcun avviso, anziché <lb/>
+l’armi s’adopravano tanto dall’una, quanto <lb/>
+dall’altra parte: ma molti dicono, ch’io tengo <lb/>
+celata la cosa per quei fini, che sono ben spesso proprii<ptr target="#tn7" n="7"/> <lb/>
+et si convengono a’ ministri de’ principi, et l’impressione
+<pb n="002v" facs="04_002v" rend="0"/>
+in questo particolare è grande; et haverei piacere poter <lb/>
+risponder in questo particolare secondo la mente, et la <lb/>
+prudente volontà della Serenità vostra. </p>
+<p>Domenica fu a trovarmi il capitan Gio. de Rat uno de’ capitani <lb/>
+del Wassonhoven, et mi fece instanza grandissima perché io <lb/>
+lo aiutassi di trecento scudi disse per disimpegnar <lb/>
+sé stesso, et alcuni delli soldati, che havevano fatti <lb/>
+debiti nell’hostaria, altrimenti era necessitato lasciar <lb/>
+in terra una parte di essi. Mi ricercò doicento <lb/>
+scudi: infine si contentò di doicento fiorini, che <lb/>
+non mi parve bene per così poca cosa ricusarli massime <lb/>
+nella congiontura del buon vento, et del partir de’ suoi <lb/>
+vasselli, come sono partiti; et essendosi egli obligato <lb/>
+in una scrittura fatta per mano di notaro di <lb/>
+restituirli o a me non andando a Venetia; o <lb/>
+arrivando, a vostra Serenità nelle sue paghe: ond’ella potrà <lb/>
+dar ordine, che nel passar della mostra li siano <lb/>
+ribattuti, come si è contentato, et ne do anco conto <lb/>
+all’illustrissimo signor Savio alla scrittura. </p>
+<p>Ispedisco le presenti in diligenza dietro al messaggiero <lb/>
+perché arrivino per venerdì sera avanti il partir dell’<lb/>
+ordinario d’Anversa per Brusseles come spero<ptr target="#tn8" n="8"/>. Gratie etc. </p>
+<p>Dall’Haya al primo di marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="005r" facs="04_005r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="005v" facs="04_005v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="005vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Primo marzo 1617 ricevute 15 detto </p>
+<p>Haya </p>
+<p>1. Tutti li vasselli con le genti dalla <lb/>
+parte della Mosa sono partiti. </p>
+<p>Del Tessel sono partiti alcuni: <lb/>
+altri sono rimasti per negligenza. </p>
+<p>Uno resta fitto in terra. </p>
+<p>Mandò l’aviso in lettere di Rocalaura, <lb/>
+anche circa li ammutinamenti. </p>
+<p>Contento di Mauritio, et degl’altri. </p>
+<p>2. Corre per tutto la voce della pace. </p>
+<p>3. Instanza del capitano Gio. Rat, <lb/>
+di quelli del Vassonven. </p>
+<p>Infine gli ha dato 200 fiorini. </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="3r-4v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 3r-4v)</p>-->
+<pb n="003r" facs="04_003r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Monsieur </p>
+<p>io sono stato richiesto da monsignor il conte Gioanni del ritardamento <lb/>
+del suo viaggio, et dell’ordine, ch’egli ha posto per acquetar li <lb/>
+disordini, che sono arrivati nel vassello del signor de Famars, <lb/>
+et Vesterbech, ancorché egli è stato sforzato di farne <lb/>
+prender quattordeci de’ principali tra ’l numero de’ quali se <lb/>
+ne sono trovati doi colpevolissimi havendo dentro il detto <lb/>
+vassello ricevute cariche publiche, come di sargente maggiore <lb/>
+et capitano di maniera che ambidoi sono stati condennati <lb/>
+ad esser passati per l’armi, et hoggi appunto è stata <lb/>
+essequita la sentenza in presenza di tutta la flotta <lb/>
+et alli restanti dodici gli è stata fatta tirar la sorte. <lb/>
+Cioè li primi undeci essenti, et il duodecimo condannato<ptr target="#tn9" n="9"/> <lb/>
+alla medesima conditione degl’altri: ma per intercessione <lb/>
+di tutti li habitanti di questa città, et molti<ptr target="#tn10" n="10"/> mercanti <lb/>
+il detto signor Conte gli ha perdonato. Egli era inglese, et gl’altri doi morti un fiammingo, et l’altro irlandese. Quanto <lb/>
+alli altri vasselli tutto è nel miglior esser del mondo <lb/>
+et quelli del medesimo vasello contentissimi, se ben che non <lb/>
+resta alcuna cosa più, che l’arrivo de’ patroni delle<ptr target="#tn11" n="11"/> navi<ptr target="#tn12" n="12"/> <lb/>
+per far vella, et il detto signor Conte non partirà di qua, che <lb/>
+non sia<ptr target="#tn13" n="13"/> tutto riuscito. </p>
+<p>Quanto al vassello di monsignor Mettoni sono otto giorni <lb/>
+ch’è ficato in terra havendo corso fortuna di perdersi
+<pb n="003v" facs="04_003v" rend="0"/>
+con tutto quello, ch’era di dentro; ma il detto signor di Metoni, et <lb/>
+li suoi soldati si sono salvati in terra, dove tuttavia si trovano <lb/>
+dentro un villaggio, nel quale sono alloggiati dentro la <lb/>
+chiesa coll’assenso del magistrato, il quale a richiesta <lb/>
+del detto signor Conte li dà sei soldi per giorno a cadaun soldato <lb/>
+attendendo, che ’l vassello sia disempegnato; ma vi vorrà <lb/>
+bene della difficoltà, né si crede, che possi uscirne, che alla <lb/>
+nuova luna. Et certo sarebbe una gran perdita, che questa <lb/>
+compagnia restasse a dietro essendo molto belle, et che <lb/>
+in questa occasione hanno li soldati di essa servito molto <lb/>
+bene, havendoli il detto signor Conte impiegati sempre contra li <lb/>
+mutini: nel resto egli vi assicura, che impiegarà ogni <lb/>
+studio per far partir tutti prontamente; et vi prega, che <lb/>
+dal canto vostro voi mettiate pensiero quelli della <lb/>
+Mosa partino. Io parimente vi prego, che vi assicurate, <lb/>
+che sarò<ptr target="#tn14" n="14"/> sempre più che qual si sia altro. </p>
+<p>Monsignor </p>
+<p>vostro humilissimo et fidel servitore </p>
+<p>Rocalaura </p>
+<p>Di Tessel a’ 26 febraro 1617 </p>
+<p>Post scritta </p>
+<p>Doppo la lettera scritta è rivenuto qualche patrone de’ vasselli con
+<pb n="004r" facs="04_004r" rend="0"/>
+viveri, et acque fresche. Ma il vento è così grande, che non è <lb/>
+possibile, che<ptr target="#tn15" n="15"/> arrivi a bordo; il che procurerà il signor Conte <lb/>
+che segua quanto più presto il tempo<ptr target="#tn16" n="16"/> lo permetterà. Scritta <lb/>
+il lunedì alle quattr’hore di mattina. </p>
+<pb n="004v" facs="04_004v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "d-" corrected above "r-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "q" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "quanto la Serenità vostra" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-ei" corrected above -"u."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Corrected above "Gratie."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> First "-a-" corrected from "-o-."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "altri" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Corrected from "de’."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "n-" corrected above "va."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "arrivato" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "passi" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

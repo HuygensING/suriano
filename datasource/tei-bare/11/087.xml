@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.087 date 1623-01-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">087</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 463r-465v, 470r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">463r-465v, 470r-v, 466r-v, 469r-v, 467r-468v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>News that the duke of Bavaria no longer seems to want the electorate and might even want to cede the part he occupies for certain fiscal rights. Reports Frederick and his ministers are worried about whether the Duke of Saxony will travel to Diet. Princes of Lower Saxony are waiting to see what James I will do before making further levies. Frederick’s envoy to Louis XIII has returned without any promises by the French king who first wants to solve the matters in Valtellina. Receives news from Mansfeld’s army from Rota. Suriano confesses he does not know what to make of the information and requests guidance (included in the letters attached): on the one hand Mansfeld continously receives new people in his army and on the other, he asks whether he would be well-received in Venice. Mansfelt sends new envoy to France and his secretary is making new requests, two deputies of the States General are travelling to Emden due to complaints of the duke and his population about treatment by Mansfelt. Grusbech, from Liege, has arrived to explain why they are not going to pay the contributions. Two documents attached: a translation of a letter by Mansfelt to Suriano and a copy of Suriano’s reply</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-01-16">16 gennaio 1623</date>
+            <num>129, 130, 131</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="129">
+<div type="main" facs="main text of letter" n="129">
+<!--<p>16 gennaio 1623, L’Aia (cc. 463r-465v, 470r-v)</p>-->
+<pb n="463r" facs="11_463r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 460 comincia 459 </p>
+<p>Serenissimo Principe </p>
+<p>nel fine della lettera di vostra Serenità dei 16 veggo quanto si è <lb/>
+compiacciuta communicarmi dello scritto dal signor secretario <lb/>
+Padavino da Ratisbona. In conformità di che le dirò <lb/>
+riverentemente, che questo Re, et li ministri suoi, sono avvisati, <lb/>
+che ’l duca di Baviera al presente non parla più di voler <lb/>
+l’elettorato; anzi di voler anco ceder la parte, che <lb/>
+tiene del Palatinato, quando però se le dia in possessione <lb/>
+alcuni baliagi, et certe gabelle, o peaggi<ptr target="#tn1" n="1"/> (come li <lb/>
+chiamano) ch’erano il nervo principalissimo dell’entrate <lb/>
+di questo Principe; et questo per rifattione delle spese, <lb/>
+et degl’interessi patiti nell’acquisto del Palatinato <lb/>
+et altro, et nella guerra fin hora sostenuta per <lb/>
+l’Imperatore. Si avvisa, che havendo scoperto Bavie-<lb/>
+ra esser alieno il duca di Sassonia, che l’elettorato <lb/>
+esca dalla casa di questo Principe, et che mai ha <lb/>
+voluto dar essecutione contra di essa al bando <lb/>
+imperiale; di più si sia accorto, che Spagnuoli <lb/>
+dall’altro canto fanno ufficii diversi da quelli, <lb/>
+che hanno voluto dar ad intender; onde non <lb/>
+li parendo poter da sé sostener il preso da lui, <lb/>
+et il promessogli dall’Imperatore cerca haver quello <lb/>
+che può per retirarsi con honore, et munir bene <lb/>
+il proprio stato per evitar quegl’accidenti, che <lb/>
+li tratti de’ Spagnuoli già possessori del meglio alla <lb/>
+sua vicinanza<ptr target="#tn2" n="2"/> <lb/>
+li potessero apportar di pregiu-
+<pb n="463v" facs="11_463v" rend="0"/>
+dicio, <lb/>
+et di perdita. </p>
+<p>Qui si vive tra la speranza, et il timore del non andar, o <lb/>
+dell’andar di Sassonia alla dieta di Ratisbona. Si sente <lb/>
+che fa quell’Altezza continuar le provisioni per andarvi <lb/>
+ma ancor non si ha né il certo né la mossa: tutta via <lb/>
+si dice, che si vogli far paura a detto Principe elettore <lb/>
+facendo imperialisti correr voce, che se non anderà alla <lb/>
+Dieta, vi si farà andare. Minacciando, che li Cosacchi <lb/>
+vicini al suo Stato lo haverebbono corso; et ch’egli <lb/>
+non vorrà aspettar questa ruina. Ma qui in niuna <lb/>
+maniera si haverebbe gusto, che detto Principe con-<lb/>
+corresse a quel congresso; ma più tosto fosse punto <lb/>
+da qualche hostilità, a fine che fosse un poco divertito <lb/>
+dalla troppo adherenza, che sin qui ha havuta a casa <lb/>
+d’Austria. </p>
+<p>Corre qui voce, che li principi della Bassa Sassonia non habbino <lb/>
+terminato, sin allhora, che erano scritte le lettere, se non <lb/>
+di far qualche levate, ma che si portarà il tempo <lb/>
+sino alla fine del prossimo mese, o principio di marzo. <lb/>
+Par che si vogli pur attender quello farà il re della <lb/>
+Gran Bertagna, ancorché assolutamente si tenghi dall’<lb/>
+universale, che mai sia per muoversi, et che questi <lb/>
+poveri principi habbino ad attender ogn’altro <lb/>
+soccorso, che ’l suo; et solo esser dichiariti al mondo <lb/>
+pensionarii del re della Gran Bertagna, et la
+<pb n="464r" facs="11_464r" rend="0"/>
+pensione forse non è equivalente o alla grandezza, o al <lb/>
+bisogno, non essendo per quanto mi viene affermato, che <lb/>
+di dieci milla fiorini per mese; et non può darsi fuori denaro, <lb/>
+o assignamento ad alcuno senza previa conoscenza di questo <lb/>
+signor ambasciator Carleton. Alla verità fanno compassione ad <lb/>
+ognuno. </p>
+<p>Il gentilhuomo, che spedì questo Re al Christianissimo è ritornato <lb/>
+la passata settimana fornito di belle, et buone<ptr target="#tn3" n="3"/> parole; <lb/>
+ma senza gran promesse, o speranze. Quel più che <lb/>
+habbi riportato è, che quella Maestà habbi detta, che l’affar <lb/>
+di Valtelina le preme, et vuol procurarne in primo <lb/>
+capo [la ri]cuperatione<ptr target="#tn4" n="4"/>, come anco di tutto il Paese, et <lb/>
+libertà a’ Grisoni; che allhora penserà<ptr target="#tn5" n="5"/> anco quello <lb/>
+potrà far per l’Alemagna; et quanto ai debiti, che <lb/>
+ha la corona di Francia alla casa palatina, che fu <lb/>
+quando assisté al re Henrico Quarto, et parmi <lb/>
+siano più di trecento milla scudi se ben in qualche <lb/>
+parte è stato pagato, hora se dà buona speranza <lb/>
+di sodisfar al resto. Parmi intender anco, che <lb/>
+sia stato aggiunto al detto gentilhuomo, che se <lb/>
+fossero state date orrecchie a quelle propositioni, che <lb/>
+portorono li suoi ambasciatori le cose non sarebbono andate <lb/>
+sì avanti; et Francesi si lamentano anco dello <lb/>
+sprezzo, che fu fatto dell’ambasciata; et è stato <lb/>
+aggiunto da sua Maestà christianissima per conclusione, che
+<pb n="464v" facs="11_464v" rend="0"/>
+muovendosi il re d’Inghilterra tanto più l’haverebbe fatto la Maestà sua <lb/>
+onde qual speranza possino haver questi principi la Serenità vostra <lb/>
+può ben ella colla prudenza sua considerarla. </p>
+<p>Le armi di Mansfelt, et di Bransvich per gl’avvisi, che <lb/>
+si hanno da tutte le parti, et per quello me ne scrive <lb/>
+il capitano Rotta si vanno anvanzando, et mi ag-<lb/>
+giunge, che ogni dì<ptr target="#tn6" n="6"/> vengono soggetti a presentar <lb/>
+il loro servitio, et alcuni sono spediti con denari <lb/>
+et patenti per levate. Io non saprei, che giudicio for-<lb/>
+mare del fine, che habbi il conte di Mansfelt, mentre da <lb/>
+una parte fa formar nuovi reggimenti, riceve <lb/>
+ogni giorno genti, et dall’altra<ptr target="#tn7" n="7"/> mi scrive <lb/>
+di vedersi in stato di non poter mantenersi dicendo<ptr target="#tn8" n="8"/> che <lb/>
+senza le genti di Bransvich haveva in suo particolare <lb/>
+sette milla fanti, et cinque milla cavalli in circa, et mi <lb/>
+ricerca di sapere se licentiata l’armata sarà ben <lb/>
+veduto a Venetia. Tutto ciò è compreso nella <lb/>
+lettera di lui scritta in francese, che tradotta l’invio <lb/>
+alla Serenità vostra: aggiungendo in fine desiderar di parlarmi <lb/>
+prima, ch’io partì dell’Haya. Quello che vogli <lb/>
+inferire non lo so. Rispondo alle lettere nel tenore <lb/>
+che vedrà la Serenità vostra in copia, che le mando aggiunta <lb/>
+la quale conferma con quanto mi commandò nelle sue <lb/>
+de’ 28 ottobre passato; ma mi sarà caro (come la <lb/>
+prego) esser avvertito da lei del di più, che potrà
+<pb n="465r" facs="11_465r" rend="0"/>
+forse la Serenità vostra cavar da questo per commandarmi. </p>
+<p>Se vogli partire manco lo comprendo, mentre ha fatta ispeditione <lb/>
+ultimamente di altre persone in Francia, et in Inghilterra drizzando <lb/>
+quello per Francia al contestabile con offerta di uscir in <lb/>
+campagna purché habbi il primo mese di paga con <lb/>
+60 milla combatenti. Così mi avvisa il capitano Rotta, parendo <lb/>
+che habbi voluto più tosto al Contestabile, che al Re <lb/>
+ispedir l’huomo per haver più tosto la risposta. In <lb/>
+oltre aggiunge qui di giorno in giorno nuove com-<lb/>
+missioni al suo agente, che hieri appunto, come <lb/>
+ha detto ad alcuno ha ricevuti quattro articoli per trattar <lb/>
+con questi signori, né si ha lasciato intender, che di uno <lb/>
+che è, che pretendendo credito di 150 milla fiorini con li signori <lb/>
+Stati, rispondino per certa summa d’armi; et questo <lb/>
+si lascia intender, che le cose del Conte qui non sono state <lb/>
+apparentemente mai in così buon termine, come sono al <lb/>
+presente; et in effetto comprendo dal discorso hav-<lb/>
+uto con<ptr target="#tn9" n="9"/> alcuni di questi signori, che la volontà <lb/>
+loro è, che Mansfelt non parti da questi paesi. Et <lb/>
+ho tanto cavato, che posso ben dir alla Serenità vostra, che <lb/>
+li doi deputati, che partiranno dimani per <lb/>
+Embdem haveranno carica di disponer le cose in <lb/>
+termine tale, che esso Mansfelt fermi da questa <lb/>
+parte, o non abbandoni l’Alemagna. </p>
+<p>La causa della missione di questi doi è quella, che nelle
+<pb n="465v" facs="11_465v" rend="0"/>
+precendenti mie rappresentai alla Serenità vostra mossa dall’indoglien-<lb/>
+za del conte di Embdem, et dai compianti di quei popoli <lb/>
+sentendo li signori Stati gravissimo discontento, che così inor-<lb/>
+dinatamente sia stato trattato quel signore, et il Paese, compren-<lb/>
+dendo molto bene esser in stato di ruina, et di deso-<lb/>
+latione. Et non ostante il nuovo parentato, et ma-<lb/>
+trimonio della giovane di Bransvich con il figliolo di <lb/>
+Embdem, non si promettono, che ’l giovane duca <lb/>
+vescovo d’Alberstat sia per profitar, o avantaggiar <lb/>
+gl’interessi, mentre si sa haver egli detto, che sarebbe <lb/>
+stato assai al giovane, che haverebbe dormito colla <lb/>
+sua sorella. </p>
+<p>Il Veis secretario di Mansfelt, ch’è qui solecitando va mostran-<lb/>
+do una lettera del colonello Dort. È copia. Avvisa <lb/>
+che colle sue genti era nel contado d’Oldemburgh <lb/>
+che haveva bisogno d’armi; che per queste desiderava <lb/>
+prontezza di denaro, overo credito per comprarle; <lb/>
+che aspettava la mostra pregando, che dovesse esser <lb/>
+presto, et il denaro per essa; che temeva esser batuto <lb/>
+da Tilly, che lo seguitava, et che si conspirava <lb/>
+contra l’armata di Mansfelt dall’inimico, <lb/>
+che si andava ammassando da tutte le parti <lb/>
+per disfarlo, et ruinarlo. Anco questo può esser <lb/>
+artificio, come si crede per muover; et non sono <lb/>
+fuori di opinione, che esso conte di Mansfelt habbi
+<pb n="470r" facs="11_470r" rend="0"/>
+scritta a me la lettera, che ho detto per il medesimo oggetto. </p>
+<p>Questo è vero, che la più gran parte delle militie spagnuole <lb/>
+sono ad altro, et osservano gl’andamenti di esso Mansfelt. </p>
+<p>Lo Spinola andò a Brusseles. Et in<ptr target="#tn10" n="10"/> Anversa s’è trovato <lb/>
+il cancellier Pecchius per accordar quei borghesi con <lb/>
+la soldatesca la quale ha restituite le chiavi ad essi <lb/>
+borghesi<ptr target="#tn11" n="11"/>, che<ptr target="#tn12" n="12"/> al presente fanno guardie con ogni <lb/>
+più esquisita diligenza; et così quelli di Malines <lb/>
+di Lovania, et d’altre città rispetto al motivo che <lb/>
+è venuto dall’ultima<ptr target="#tn13" n="13"/> visita<ptr target="#tn14" n="14"/> di questo signor Principe. Il quale <lb/>
+al presente si trova bene, uscendo ogni giorno, et <lb/>
+ogni giorno va acquistando et appetito, et forze. </p>
+<p>Qui è arrivato il baron di Grusbech dalla parte della <lb/>
+città di Lieges per far intender alli signori Stati la ragione <lb/>
+di quei popoli di non dover pagar la contributione <lb/>
+che da questi signori si pretende adossarsegli di cinquanta <lb/>
+mille raistaleri. Et sarà aiutata la sua istanza <lb/>
+principalmente dal signor ambasciator d’Inghilterra. Gratie etc. </p>
+<p>Dall’Haya li 16 genaro 1622<ptr target="#tn15" n="15"/> </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="470v" facs="11_470v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 460 comincia 450<ptr target="#tn16" n="16"/> </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="129">
+<!--
+<p n="470vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16<ptr target="#tn17" n="17"/> gennaro 1622<ptr target="#tn18" n="18"/> ricevute primo febraro </p>
+<p>Haya. n° 460 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="130" corresp="129" source="466r-v, 469r-v" >
+<div type="main" facs="main text of attachment I" n="130" corresp="129" >
+<!--<p>Allegato I al n. 129 (cc. 466r-v, 469r-v)</p>-->
+<pb n="466r" facs="11_466r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya numero 460 </p>
+<p>Traduttione della lettera del conte di <lb/>
+Mansfelt al secretario Suriano </p>
+<p>Signore io credo di ben fare nel darvi a conoscer lo <lb/>
+stato de’ miei affari di qua, come quello, che sono <lb/>
+obedientissimo servitore della serenissima republica di Venetia <lb/>
+et è che mi è impossibile di mantenermi con la <lb/>
+mia armata, che può esser forte di 7000 huomini da <lb/>
+piedi, et 5000 cavalli senza quelli del duca di <lb/>
+Bransvich, le ragioni sono giustissime assicuran-<lb/>
+domi che quando io haverò l’honore di raccon-<lb/>
+tarvele, che voi mi darete ragione. Questo <lb/>
+adunque è perché vi prego humilissimamente farmi il <lb/>
+favore di mandarmi, o farmi sapere se io <lb/>
+sarò ben venuto a Venetia doppo haver <lb/>
+licentiata l’armata; et se medesimamente io potrò haver <lb/>
+l’honore di baciarvi le mani, et parlarvi <lb/>
+et in qual luoco avanti il vostro partir dell’<lb/>
+Haya perché a dir la verità sarebbe ben <lb/>
+di mio dovere venir a trovarvi; ma la <lb/>
+poca volontà, ch’io ho di non ritornar più <lb/>
+in Holanda fa che per questa volta non posso <lb/>
+compir al debito, che’io<ptr target="#tn19" n="19"/> vi devo sendo <lb/>
+come io sono <lb/>
+servitore. </p>
+<p>Vostro humilissimo et affettionatissimo<ptr target="#tn20" n="20"/> servitore <lb/>
+Mansfelt </p>
+<p>D’Aurich al primo <lb/>
+dell’anno 1623 </p>
+<p>A tergo al signor Suriano <lb/>
+residente di Venetia </p>
+<pb n="466v" facs="11_466v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="469r" facs="11_469r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="469v" facs="11_469v" rend="270"/>
+<p>Traduttione della lettera del <lb/>
+conte di Mansfelt al <lb/>
+Suriano </p>
+<p>nel n° 460 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="131" corresp="129" source="467r-468v" >
+<div type="main" facs="main text of attachment II" n="131" corresp="129" >
+<!--<p>Allegato II al n. 129 (cc. 467r-468v)</p>-->
+<pb n="467r" facs="11_467r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya numero 460 </p>
+<p>Copia della risposta del Suriano al conte di Mansfelt </p>
+<p>Illustrissimo et eccellentissimo signor mio signor colendissimo </p>
+<p>devo gratie all’Eccellenza vostra illustrissima per l’honor, che mi fa nel <lb/>
+darmi conto colle lettere sue de’ primo del presente <lb/>
+ricevute venerdì passato, dello stato de’ suoi affari <lb/>
+et del numero di genti, ch’ella fin allhora si <lb/>
+attrovava in parte sua; ma che stimava impos-<lb/>
+sibile il potersi più mantenere. Io mi persuado <lb/>
+delle sue ragioni in questo proposito quello, ch’ella <lb/>
+desidera; et so bene che la serenissima Republica per il gran <lb/>
+conto in che tiene il valor di vostra Eccellenza è di buona <lb/>
+dispositione verso di lei, et che sopra ogn’altra <lb/>
+cosa desidererà, che si avanzi sempre a maggior <lb/>
+gloria ne’ progressi di felicissime imprese in queste <lb/>
+parti di Alemagna; ma quando il caso <lb/>
+portasse che vostra Eccellenza colla persona sua si conducesse <lb/>
+nello stato di sua Serenità (che per hora con genti <lb/>
+non veggo, che gl’interessi della serenissima Republica<ptr target="#tn21" n="21"/> lo <lb/>
+ricerchino<ptr target="#tn22" n="22"/>) può assicurarsi, che sarà là <lb/>
+ben veduta, et trattata, ch’è quello, che mi <lb/>
+par di poter dirle in questo proposito. <lb/>
+Quanto al desiderio dell’Eccellenza vostra <lb/>
+di abboccarsi meco prima del partir mio di questo <lb/>
+luoco; ancor non so quand’egli habbi ad esser <lb/>
+dipendendo dalla venuta qui più presta, o <lb/>
+più tarda dell’eccellentissimo signor ambasciator Morosini allhora <lb/>
+che la saprò vostra Eccellenza ne sarà avvertita, et le <lb/>
+bacio humilmente le mani. </p>
+<p>Dall’Haya li 16 genaro 1623 </p>
+<p>di vostra Eccellenza illustrissima </p>
+<p>humilissimo et riverentissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="467v" facs="11_467v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="468r" facs="11_468r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="468v" facs="11_468v" rend="270"/>
+<p>2 </p>
+<p>Copia della risposta del <lb/>
+Suriano al conte di Mansfelt </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 460 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "buo-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Ink stain.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "q" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-ì" corrected above "-e."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-e-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "i-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "b-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction; followed by "quindi" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-a" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-6" is the result of a correction.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "vide’" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "-ep-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Precedes the struck-through word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

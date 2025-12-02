@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.048 date 1618-02-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">048</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 283r-288v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">283r-288v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Courrier Pasqualin Zupponi has been delayed due to bad weather conditions. Proposal to have one commander of the entire fleet, but they want a Dutch one. He thinks Van Kerkhoven will be the commander. Elaborates on the terms and conditions discussed with the admiralty. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-02-05">5 febbraio 1618</date>
+            <num>087</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="087">
+<div type="main" facs="main text of letter" n="087">
+<!--<p>5 febbraio 1618, L’Aia (cc. 283r-288v)</p>-->
+<pb n="283r" facs="05_283r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 3 fin n° 4 </p>
+<p>Serenissimo Principe </p>
+<p>dalli 18 del passato, che sono scritte le lettere della Serenità vostra <lb/>
+fino alla meza notte delli 29 è stato in viaggio monsignor <lb/>
+Pasqualin Zupponi corriero trattenuto dai giacci, et dal mal <lb/>
+tempo, che nella presente stagione assedia questo Paese; <lb/>
+et sabbato hebbi le replicate di queste, et altre de’ <lb/>
+19 con diversi avvisi per mia informatione. </p>
+<p>Con dette lettere de’ 18 hebbi la dichiarazione della volontà <lb/>
+dell’Eccellenze vostre sopra quei particolari, che con le mie dei 2 <lb/>
+pur del mese passato riverentemente ricercai. </p>
+<p>Come scrissi con quelle n° 1 fin n° 2 delle quali haverà la <lb/>
+Serenità vostra qui aggiunta la replicata li signori delle Amiralità <lb/>
+comunicarono col signor principe Mauritio il loro parere <lb/>
+sopra il maggior servitio, che la Serenità vostra potesse ricever <lb/>
+dalla condotta dei dodici vasselli toccante il Commendatore <lb/>
+o Amiraglio, che li guidasse. Io prima della venuta <lb/>
+del corriero ero stato con sua Eccellenza la quale fece ben reflesso <lb/>
+sopra quanto gli dissi; ma in ogni modo mi considerò <lb/>
+che vostra Serenità non sarebbe stata mai servita, se non <lb/>
+haveva un capo, che conducesse la flotta; et fondata <lb/>
+sopra li miei ufficii moderò in diverse parti l’avviso <lb/>
+delle Amiralità, et doppo haverlo essi mostrato in <lb/>
+scrittura alli signori Stati, che laudorono, et confermerono <lb/>
+il parere per buono, et che così doveva farsi venero <lb/>
+per nome di essi a conferirmelo: et io havendo
+<pb n="283v" facs="05_283v" rend="0"/>
+havuta la commissione, che dovesse l’Amiraglio, o suo Vice <lb/>
+amiraglio, et li capitani tutti indiferentemente obedire dissi a detti <lb/>
+signori<ptr target="#tn1" n="1"/> questo, et le altre conditioni con che desiderava vostra Serenità <lb/>
+che si conducesse questa levata stando saldo in questo; ma <lb/>
+essi dall’altro canto mi fecero di quelle considerationi, che <lb/>
+precedentemente ho scritte a vostra Serenità, che certo il suo servitio <lb/>
+non comportava, che non vi fosse uno, che dirigesse gl’humori <lb/>
+della Natione o più tosto di questa gente di marina, <lb/>
+che in ogni modo et il capo, et li capitani erano in obligo <lb/>
+di obedire ai commadamenti del Generale, o di altri rap-<lb/>
+presentanti vostra Serenità a chi ella o il medesimo signor Generale <lb/>
+havesse dato carica di commandarli: et si fermorono <lb/>
+un pezzo disputando meco sopra questo punto, nel quale <lb/>
+io pur con ragioni proprie andai tentando di rimoverli <lb/>
+ma sempre tornavano al medesimo, che il servitio di <lb/>
+vostra Serenità non sarebbe stato fatto, che questa Natione vuol <lb/>
+haver uno de’ suoi, che porti la parola, et senza si correva <lb/>
+assolutamente ad ingolfarsi in un mar di disgusti, et in <lb/>
+fine mi dissero, che quando si havesse pensato altrimenti <lb/>
+sicuramente non si haverebbono havuti di quei capitani che <lb/>
+speravano di trovar buoni, et esperimentati; così <lb/>
+andorono discorrendo, et replicando, et mi lasciarono <lb/>
+la scrittura per considerarla. Et doppo havend’io <lb/>
+parlato col signor principe Mauritio, come innanti feci anco
+<pb n="284r" facs="05_284r" rend="0"/>
+col signor Bernvel ambidui stetero sul medesimo piede, che se <lb/>
+vostra Serenità voleva haver servitio et obbedienza, che era il punto <lb/>
+principale, per il quale haveva fatto ricorso ai signori Stati <lb/>
+bisognava tenir questa stradda, che è quella, che osser-<lb/>
+vano loro medesimi mentre spediscono vasselli di guerra <lb/>
+et ancorché vi sia con essi l’amiral o di Holanda, o di <lb/>
+Zelanda principali gentilhuomini sempre vi è uno dei <lb/>
+capitani, ch’è direttorio nell’armata, et che per parte <lb/>
+del detto Amiraglio commanda agl’altri, et tanto mi <lb/>
+fu riferto, che sarebbe quando fosse in mano l’istesso <lb/>
+principe Mauritio, ancorché habbi qui il titolo di <lb/>
+grande amiraglio. </p>
+<p>Tornorono a me li deputati sudetti per stabilir questa <lb/>
+scrittura, et quanto io me mostravo renitente per <lb/>
+procurare di ridurla al segno che vostra Serenità mostra <lb/>
+desiderare nelle lettere sue ultime, et precedenti, tanto <lb/>
+essi (<ptr target="#tn2" n="2"/> parlando sempre per nome dei signori Stati stavano <lb/>
+fermi in dire, che tutto era a servitio di<ptr target="#tn3" n="3"/> lei: <lb/>
+onde non ho potuto fare, che procurar l’alteratione, <lb/>
+che vostre Eccellenze vedranno nelli aggiunti fogli. In uno è <lb/>
+la copia di quella che essi signori delle Amiralità havevano <lb/>
+portata ai signori Stati, nell’altra l’alterata con me, et nel <lb/>
+terzo d’una, et l’altra insieme per maggior commodo di <lb/>
+quelli dell’Eccellenze vostre che havessero gusto di vederla. </p>
+<pb n="284v" facs="05_284v" rend="0"/>
+<p>Nel primo capitolo si esprime il parer delle Amiralità, che vi sia <lb/>
+un capo. Il secondo mi par che conformi quanto al <lb/>
+sottomettersi al commando il capo, li capitani et marinari con <lb/>
+il senso di vostra Serenità. Per il terzo non ha il Commandatore <lb/>
+ad haver nel Consiglio da guerra voto deliberativo, ma dirà <lb/>
+solo il suo parere per quello tocca a questi vasselli (<ptr target="#tn4" n="4"/> capitolo <lb/>
+posto per honore. Et a questo proposito le dirò quello, che <lb/>
+mi è stato affermato, che quando il principe Guglielmo <lb/>
+di Oranges padre di sua Eccellenza haveva a far qualche impresa <lb/>
+in mare chiamava in Consiglio di guerra tutti li capitani <lb/>
+de’ vasselli, et anco degl’istessi principal marinari, et <lb/>
+voleva da loro il suo parere, et così l’istesso signor principe <lb/>
+Mauritio mi ha detto, che osserva nelle occasioni. Il quarto <lb/>
+et quinto capitolo par bene che contengano un non so <lb/>
+che di auttorità; ma questa resta soppressa dal sottomettersi <lb/>
+a rappresentanti la Serenità vostra et insieme, che possino darsi <lb/>
+et rivocarsi la<ptr target="#tn5" n="5"/> commissione<ptr target="#tn6" n="6"/> qual si sia volta, che parerà <lb/>
+a quel rappresentante o governatore che sarà nella nave, et <lb/>
+nel combatter et per poterla guidar a modo loro per <lb/>
+far ben il servitio non vorrebbono esser impediti doppo <lb/>
+l’assoluta commissione di dar battaglia; come anco l’inten-<lb/>
+de questo per il castigo a’ marinari da essequirsi dal capitano
+<pb n="285r" facs="05_285r" rend="0"/>
+conforme alle regole, et ordini, che hanno, et giureranno in <lb/>
+questo proposito. Per il sesto, et ultimo parmi cosa non <lb/>
+fuori di ragione, che l’ufficio vacante sia dato ad uno di <lb/>
+nave conosciuto sufficiente. Ma spero tutti questi capitoli <lb/>
+con destrezza moderar in parte ancora a vantaggio di <lb/>
+vostra Serenità. </p>
+<p>Io presupongo che oltre l’uso habbino dato anco materia a <lb/>
+questo le lettere scritte qui da qualcheduno, che li marinari <lb/>
+o patroni dei vasselli, che sono in servitio della Serenità vostra <lb/>
+siano<ptr target="#tn7" n="7"/> poco contenti scrivendosi in sostanza questi <lb/>
+particolari concetti; che sono strapazzati dai governatori; che <lb/>
+sono sopra li vasselli,<ptr target="#tn8" n="8"/> li quali non sano della marinarezza <lb/>
+et pur la vogliono commandare; che non intendono il <lb/>
+mestiero, et vogliono, che anco gl’altri manchino; che <lb/>
+quando sono stati in fattione o sia la tema, o la poca <lb/>
+volontà di combatter hanno cercato d’impedirlo con <lb/>
+gran diservitio della Republica, et di reputatione del Paese, <lb/>
+et della Natione; che se si havesse voluto si haverebbe <lb/>
+potuto batter di maniera lo Spagnuolo, che sarebbe <lb/>
+restato confuso, et rotto. Simili concetti sono stati <lb/>
+scritti credo da quel Console; ma certo anco da altri <lb/>
+della Natione, et mi fu comunicato dai signori dell’Ami-<lb/>
+ralità quel tanto, che ha detto senza nominarmi chi, <lb/>
+et ciò da pochissimo gusto per l’impressione, che riceve la </p>
+<pb n="285v" facs="05_285v" rend="0"/>
+<p>Natione, che li suoi non siano lasciati far bene et siano mal <lb/>
+trattati, come dicono le lettere. Et tanto più confermo in <lb/>
+questo; quanto che uno di questi giorni, stando con sua Eccellenza <lb/>
+ella mi disse ridendo bisogna che quelli governatori, che sono <lb/>
+nelle navi si mostrino galanthuomini coi nostri marinari, <lb/>
+li accarezzino, et si faccino poco meno che compagni con essi <lb/>
+perché si faranno poi far tutto quello, che si vuole; et se vi <lb/>
+fosse della birra<ptr target="#tn9" n="9"/> per farli un prindes<ptr target="#tn10" n="10"/> tanto meglio <lb/>
+si farebbe il servitio: perché questa è l’anima dell’Holanda <lb/>
+tuttavia<ptr target="#tn11" n="11"/> tanto anco si farà col vino. Et aggiunse <lb/>
+io me li tengo cari: perché cavo nelle occasioni gran frutto <lb/>
+da essi. Non è solito il signor Principe parlar a caso; onde <lb/>
+il dar ordine, che si facci buona ciera a questi marinari sarà <lb/>
+effetto della prudenza di vostra Serenità, et tanto più, che questi <lb/>
+concetti non mi sono stati detti dal solo signor principe Mauritio <lb/>
+ma da alcuni dei signori Stati ancora, che tutti parlano della <lb/>
+stessa maniera, et io non manco di dire esser certo, che <lb/>
+quei signori che sono deputati sopra le navi usavano <lb/>
+discretezza; ma che gl’huomini erano un poco rozi, <lb/>
+et alle volte ostinati; m’è stato risposto che non si <lb/>
+poteva negare; che però bisognava haver tanto <lb/>
+più flemma mentre si vedeva, che altrimenti non si poteva <lb/>
+guarire l’humor peccante della Natione. </p>
+<p>Credo che ’l Chercoven sarà uno de’ capitani, et capo di
+<pb n="286r" facs="05_286r" rend="0"/>
+questa condotta. Sarà nominati a’ signori Stati, et a sua Eccellenza con cinque <lb/>
+o sei altri dell’Amiralità per questa carica, et l’Eccellenza sua me lo <lb/>
+ha lodato assai. Et pare a me esser<ptr target="#tn12" n="12"/> huomo molto discretto <lb/>
+et modesto. Ha la lingua italiana, la francese, la spagnola, <lb/>
+et la naturale del Paese. </p>
+<p>Doppo spedito questo punto colli signori delle Amiralità essendo qui <lb/>
+venuto il Calandrini feci far loro assegnamento di cento <lb/>
+milla fiorini, che tanto ricercorono per poter con questi <lb/>
+dar caparre per aprestar le navi, far provisioni de’ <lb/>
+viveri, che tutto anderà a conto di mesate, et dissi<ptr target="#tn13" n="13"/> che per il <lb/>
+resto, che havesse bisognato haverei prima del partir <lb/>
+dei vasselli proveduto. Essi<ptr target="#tn14" n="14"/> mi fecero instanza <lb/>
+di prometter per il pagamento alli compartecipi dei vasselli, <lb/>
+et alli marinari; perché haverebbono voluto gl’uni, et <lb/>
+gl’altri al certo haver la parola dai signori Stati, et ciò <lb/>
+mi chiesero in conformità dell’ordine, che tenevano da essi <lb/>
+il quale mi mostrorono. Così si usa in questo Paese, et qual <lb/>
+si sia ambasciatore, et ministro di Principe conviene passar <lb/>
+per questo mezo di promessa; ma essendo queste ami-<lb/>
+ralità particolari magistrati stimai di più riputatione <lb/>
+far la promessa in forma di propositione a’ signori Stati, che <lb/>
+se<ptr target="#tn15" n="15"/> ne contentorono; se ben prima tentati di non farlo <lb/>
+parlandone al signor Bernvel; egli però mi disse, che <lb/>
+bisognava accomodarsi all’uso del Paese, et non mi
+<pb n="286v" facs="05_286v" rend="0"/>
+doveva parer strano. Il contenuto non è che promessa <lb/>
+di proceder li centomilla fiorini, che per il resto, che <lb/>
+bisognerà sarà provisto, et quanto alla parola che daranno <lb/>
+occorrendo, io li haverei sollevati della maniera, che <lb/>
+desideravano prima del partir delle navi, che così hanno <lb/>
+voluto. Il disputar qui di certe cose non vale, et mass(im)e <lb/>
+in questo particolare nel quale so esser mente di vostra Serenità che ’l <lb/>
+Paese non patisca: onde da lei attenderò quanto si com-<lb/>
+piacerà di ordinarmi<ptr target="#tn16" n="16"/> sopra questo particolare<ptr target="#tn17" n="17"/> sollevar dalla <lb/>
+parola li signori Stati. </p>
+<p>Li detti dell’Amiralità havute le sue commissioni partirono <lb/>
+domenica per andar a far la preparatione de’ vasselli li quali <lb/>
+saranno dai doicento fino ai 300 lasti, et più ancora. <lb/>
+Io spero che vostra Serenità sarà ben servita, et procurerò che le <lb/>
+stime di essi siano leali. Le faranno far le Amiralità <lb/>
+et io ancora li farò vedere, et altrettanto farò per le <lb/>
+artiglierie. </p>
+<p>Per il numero de’ marinari farò levar quanti saranno stimati <lb/>
+necessarii per un vassello secondo la portata di esso. <lb/>
+Finhora l’ordine è di levarne in ragion di cento per <lb/>
+vassello, et si anderà alterando se sarà necessario. </p>
+<p>Haverò mira nel fermar li contratti di noleggio di* noleggio* <lb/>
+a tutto ciò, che occorre per il rischio de’ vasselli, li quali <lb/>
+saranno dati dalli patroni senza metterli su alcuno
+<pb n="287r" facs="05_287r" rend="0"/>
+de’ suoi, né vi saranno che li capitani et marinari, che <lb/>
+saranno dipendenti dalla Serenità vostra sotto il giuramento, et obligo <lb/>
+a lei: onde doveranno haverne la debita cura, et tanto <lb/>
+più si stima di suo vantaggio il comprarli. Et quella <lb/>
+sicurtà, che farebbe il mercante vostra Serenità saputo il prezzo <lb/>
+del vassello potrà farla far lei, o di là o qui come <lb/>
+stimerà meglio fine che arrivino a Corfù, o all’obedienza <lb/>
+dell’eccellentissimo signor General o per quello di più, che a lei parerà <lb/>
+proprio perché li vasselli saranno come suoi, et dati alla <lb/>
+sua dispositione. </p>
+<p>Nel resto dei punti espressi nelle lettere sue, et nelle <lb/>
+informationi havute a’ quali haverò particolar mira <lb/>
+sia certa che userò ogni diligenza perché resti servita. </p>
+<p>Par ad ognuno, che io habbi da questi signori ottenuto assai <lb/>
+et massime nell’interessarsi all’aprestamento di questi <lb/>
+vasselli con dar commissioni alle sue Amiralità; et certo <lb/>
+segni di affettione, et buona volontà ne ho ogni di <lb/>
+maggiori. Qui aggiunta sarà la traduttione della <lb/>
+detta commissione, la quale è stata anco più ampla <lb/>
+in voce; et sono partiti li deputati con le mie ancore <lb/>
+in generale havendoli io giovedì convitati (così volendo <lb/>
+l’uso del Paese altrimenti è fatto niente) et furono in <lb/>
+numero di undeci con monsignor di Obdan amiral di Holanda. </p>
+<p>Credo che ’l tempo per la condotta non potrà esser meno, che
+<pb n="287v" facs="05_287v" rend="0"/>
+per sei mesi, et dar tre mesi anticipati. </p>
+<p>Se la dilatione mi habbi tormentato lo lascio considerar <lb/>
+alla prudenza della Serenità vostra, et hora fornito questo mi <lb/>
+travaglia il veder il giaccio, che si va sempre facendo <lb/>
+maggiore; temendo grandemente, che sia per impedir il doppiar <lb/>
+et accommodar de’ vasselli. Ne veggo di poterli havere <lb/>
+più presto del marzo. Ancorché fossero stati noleggiati <lb/>
+prima, et nel principio del mese bisognarebbe con la spesa <lb/>
+delle genti star a discrettione della stagione, che si <lb/>
+adolcisse: perché tutto il Paese resta al presente sequestrato <lb/>
+nel gelo. </p>
+<p>Al Calandrini di Amsterdam ho fatte lettere di cambio di vin-<lb/>
+ticinque milla ducati sotto questo giorno, et doveranno <lb/>
+a uso esser pagate<ptr target="#tn18" n="18"/> in banco al monsignor Melchior Noirot a’ <lb/>
+5 di aprile prossimo. </p>
+<p>Temo grandemente che haverò strettezza di cambio rispetto <lb/>
+ai tanti fallimenti successi in Amsterdam per la caduta del <lb/>
+Quingetti, che ha fatto cader anco degl’altri. Sia però <lb/>
+sicura la Serenità vostra, che procurerò ogni suo maggior vantag-<lb/>
+gio; ma sia detto riverentemente troppo che vostra Serenità potendo <lb/>
+avanzar sette per cento nel rimettermi il denaro lasci <lb/>
+di farlo, che riesce con perdita poi di più di dodici <lb/>
+per cento; et<ptr target="#tn19" n="19"/> so di haverglielo altre volte significato <lb/>
+per quel riverente zelo, che porto al publico servitio. Gratie etc. </p>
+<p>Dall’Haya a’ 5 febraro 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="288r" facs="05_288r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="288v" facs="05_288v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 3 fin n° 4 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="087">
+<!--
+<p n="288vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 febraro 1617 ricevute a’ 17 detto </p>
+<p>Haya. n° 3 </p>
+<p>Nel negotio de’ vasselli insistono che <lb/>
+vi sii un capo della Natione che soprintenda <lb/>
+e dii gl’ordini dovendo però ubedir <lb/>
+lui e tutti ai capi superiori di sopra <lb/>
+manda scritture in questo proposito. </p>
+<p>Oltre l’uso la voce che siano stra-<lb/>
+pazzati quelli marinari e patroni<ptr target="#tn20" n="20"/> che puono è <lb/>
+causa della giusta insistenza. </p>
+<p>Ha dato 100 fiorini per caparra, ha <lb/>
+dato permesso. </p>
+<p>Somma li vasselli da 200 fiorini 300 lasti <lb/>
+son partiti li amirali per far le provisioni <lb/>
+dei vasselli i marinari: sin cento per cadauno. </p>
+<p>La sicurezza farà la Republica vedi 0. </p>
+<p>Li stati con la comission all’aprestamento <lb/>
+si son interessati nel negotio quel più si poteva. </p>
+<p>Sano per 6 mesi la condotta, et 3 mesi <lb/>
+anticipati doverà darsi, a marzo s’havranno. </p>
+<p>A’ 5 d’aprile presso in banco si doverà <lb/>
+pregar 25 mila deputati, haverà stretezza <lb/>
+in altri cambii 12 percento si perde a <lb/>
+non immettergli di là il denaro. </p>
+<p>L. SS. […]<ptr target="#tn21" n="21"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "v(ostra) S(ereni)tà" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "poch" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "tanto" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "tant" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "ess" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Corrected above "in"; followed by "oltre" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "b" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Added above the deleted word with an insertion mark.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "p-" corrected above "b-."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "h" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Damaged page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

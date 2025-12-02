@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.005 date 1616-10-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">005</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 28r-32v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">28r-32v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that John Ernst has encountered serious problems in Amsterdam trying to rent ships as the shipowners demanded between 8-9000 guilders per ship. Due to this high fee, John Ernst has sent people to enquire in Rotterdam and Enkhuizen. Provides information about the three Frenchmen that John Ernst has chosen to accompany him to Venice. Further reports that Count of Egmont has said that the news has been badly received in Habsburg Netherlands with rumours that the Spanish king might act against these ships in the Mediterranean. Got news from Benetto Ferro that some men in Brussels would be willing to serve the Venetian republic. Wassonhoven is discontent and wants to receive some payments from the Republic for rental of ships. Lastly, he writes that he has seen a copy of printed document from letter by Emperor to Palatinate which he will send along with his letter. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-10-11">11 ottobre 1616</date>
+            <num>009</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="009">
+<div type="main" facs="main text of letter" n="009">
+<!--<p>11 ottobre 1616, L’Aia (cc. 28r-32v)</p>-->
+<pb n="028r" facs="03_028r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>il signor conte Gio. Ernesto non fu di ritorno da Amsterdam, che <lb/>
+hier mattina necessitato a dimostrarvi più di quello credeva <lb/>
+et desiderava rispetto a’ patroni delle navi che uniti si sono <lb/>
+accordati insieme nel far essorbitanti dimande per il nolo <lb/>
+de’ vasselli fino d’otto, et nove milla fiorini per uno <lb/>
+et se ben ha ispedito più persone a Roterdam, ad Encuse[n]<ptr target="#tn1" n="1"/> <lb/>
+et altrove, in ogni modo m’ha affermato, che tra <lb/>
+gl’uni, et gl’altri ha convenuto arrivar alla summa <lb/>
+che gli dà la Serenità vostra et già la provisione è quasi per tutta la leva[ta]<ptr target="#tn2" n="2"/>. </p>
+<p>Ha ricercato a’ signori Stati, che dichiarino ove si conteranno <lb/>
+che facci la piazza d’arme per poter con più facilità <lb/>
+delle genti, et minor incommodità del Paese dar <lb/>
+le mostre, et far il subito imbarco, et ne attende <lb/>
+la risolutione: in tanto ha ispedito a sua Eccellenza perché li <lb/>
+concedi alcuni per officiali, nel che spera non <lb/>
+incontrar difficioltà, et io ho stimato bene di</p>
+<p><lb/>
+aggiunger alle sue lettere una mia per dar mag-<lb/>
+gior calore all’instanza. </p>
+<p>Havuta questa risposta darà fuori le commissioni, et forse <lb/>
+anco prima per quei capitani, che sin qui sono eletti <lb/>
+per andar avanzando affineché la levata <lb/>
+sia tanto più presto ad ordine. </p>
+<p>Tenta di haver de’ più buoni soggetti. Per li Fiamin[ghi]<ptr target="#tn3" n="3"/>
+<pb n="028v" facs="03_028v" rend="0"/>
+questi signori si contentano, che vadino, con dichiaratione però, <lb/>
+che non habbino ad haver la continuatione de’ loro <lb/>
+stipendii mentre staranno fuori di servitio, et a <lb/>
+conditione, che acconsenti anco questa licenza il signor principe <lb/>
+Mauritio, al quale hanno scritto in questo proposito; <lb/>
+ma quanto alli Francesi, essendo de diretto dipen-<lb/>
+denti dal Re christianissimo, non hanno ad inger[ir]si<ptr target="#tn4" n="4"/> nel <lb/>
+dargli licenza, toccando questo a sua Maestà. </p>
+<p>Sono tre Francesi particolarmente, di chi il signor Conte fa <lb/>
+gran capitale, et li stima per il suo valore. Uno <lb/>
+di questi si è preso assunto di andar in diligenza <lb/>
+in Franza per chieder alla Maestà sua la licenza a nome <lb/>
+di tutti sperando ottenerla. Io per tanto lo ho <lb/>
+accompagnato con mie lettere agli eccellentissimi signori ambasciatori <lb/>
+di vostra Serenità dandoli conto delle qualità de’ soggetti, <lb/>
+affineché coadiuvino la buona inclinatione di essi <lb/>
+verso quella serenissima Republica ma più il servitio che <lb/>
+stimo ch’ella potrà cavare dall’isperienza loro <lb/>
+et l’ambasciator di sua Maestà christianissima qui residente, che gli ha <lb/>
+date lettere per il Re lo ha accompagnato anco con <lb/>
+calda raccommandatione, così ha affermato al signor Conte, <lb/>
+che haverebbe fatto, et poi ha confermato a me <lb/>
+lo stesso ancora con occasione, che si siano hieri
+<pb n="029r" facs="03_029r" rend="0"/>
+veduti insieme. Per quello m’ha promesso il signor <lb/>
+Conte questo non haverà da ritardar la levata per <lb/>
+gl’altri capitani, et quando non sia monsignor di Gulena, ch’è <lb/>
+quello che hoggi è partito per Francia fra otto giorni <lb/>
+al più di ritorno, disponerà delle cariche. </p>
+<p>Un altro di essi che è monsignor di Rocalaura del quale il signor <lb/>
+Conte vuol valersi per uno dei colonellati, huomo <lb/>
+di valore, et d’ingegno, è partito questa mattina <lb/>
+verso sua Eccellenza con le lettere delli signori Stati, del Conte, <lb/>
+et le mie. </p>
+<p>Si ha havuto avviso, che hoggi sua Eccellenza doveva esser a <lb/>
+Nimeghem, et di là passare a Burem per visitar la <lb/>
+sorella contessa di Olach gravemente amalata, et do-<lb/>
+vendo quivi trovarsi anco il principe d’Oranges <lb/>
+si crede, che l’Eccellenza sua non anderà più a Breda; ma <lb/>
+sarà qui di presto ritorno, il che volentieri vor-<lb/>
+rei: perché mi pare, che ’l servitio di vostra Serenità cami-<lb/>
+narebbe più facilmente; se ben certo il signor Conte non <lb/>
+manca di metter ogni spirito; et io non cesso con <lb/>
+ansia di sollecitarlo conforme al mio debito. </p>
+<p>Già il signor conte Giovanni ha havuti dalli mercanti Gabri, fortene<ptr target="#tn5" n="5"/>, <lb/>
+et falconieri d’Amsterdam quarantanove milla, et quattro-<lb/>
+cento fiorini, et per questa settimana ne devono
+<pb n="029v" facs="03_029v" rend="0"/>
+esborsare a’ marinari fino alla summa di altri undici milla <lb/>
+in circa, onde li ho fatte<ptr target="#tn6" n="6"/> lettere di cambio per vostra Serenità di <lb/>
+vintimilla ducati, che fano intorno cinquanta milla <lb/>
+di questi fiorini da esser contati a’ signori Pietro Gabri, <lb/>
+et Daniel Nis, che han fatte le lettere di credito, et <lb/>
+l’esborso doverà farsi per la metà del mese venturo; <lb/>
+et per li restanti vintimilla ducati farò le altre lettere <lb/>
+quando ne sarò richiesto, et sarò sicuro dell’effetti-<lb/>
+vo suo esborso. Et di quello che mi occorrerà di più <lb/>
+lo piglierò secondo che dalla Serenità vostra mi viene comman-<lb/>
+dato, che facci, et massime per li viaggi, che doverò <lb/>
+fare nell’andare nei luochi delle mostre che saranno <lb/>
+come credo a Tessel doi giornate di qua; et sopra la <lb/>
+Moza, ch’è una giornata discosto, et sono luochi <lb/>
+li più proprii per il subito imbarco delle genti affine-<lb/>
+ché passata la banca non si sbandino. </p>
+<p>Il conte di Egmont, che fu hieri a visitar il signor conte <lb/>
+Gio. Ernesto gli disse, che intesassi a Brusseles la sua <lb/>
+condotta haveva questa dato da dir assai, et nel <lb/>
+general mostravano esser mal contenti della permissione <lb/>
+che li signori Stati havessero data ad esso, et per la <lb/>
+levata alla serenissima Republica, che alcuni dicevano, che si <lb/>
+lasciasse pur passar qualche tempo, che si haverebbe
+<pb n="030r" facs="03_030r" rend="0"/>
+ben procurato di far star in ufficio questi Stati, et <lb/>
+che ’l re di Spagna haverebbe sentita malamente la <lb/>
+cosa; et per tanto forse si sarebbe risoluto valersi dell’<lb/>
+occasione, et seguitar la maniera con che essi Stati Gen[erali]<ptr target="#tn7" n="7"/> <lb/>
+si governorono del far che le sue genti sotto nome <lb/>
+d’esser genti del marchese di Brandenburgh batteron[o]<ptr target="#tn8" n="8"/> <lb/>
+quelle di Leopoldo destinate per Giuliers; che così <lb/>
+sua Maestà catholica haverebbe lasciate uscir le sue navi, <lb/>
+et le sue galere nello stretto, et nel Mediterraneo <lb/>
+come armata dell’arciduca Ferdinando; et il signor <lb/>
+Conte non teme di questi discorsi. Et credo, che lo <lb/>
+stesso conte di Egmont aggiunga qualche cosa <lb/>
+di suo<ptr target="#tn9" n="9"/> alle voci di appassionati, come quello, che <lb/>
+dipende dagl’arciduchi, et per consequente da’ <lb/>
+Spagnuoli havendo il Toson d’oro. Questo si trattiene <lb/>
+qua per la ricuperatione di alcuni beni, che sono <lb/>
+nel paese de’ Signori Stati, et non sarebbe meraviglia, <lb/>
+che avvisasse di tempo in tempo agl’arciduchi <lb/>
+che va seguendo. </p>
+<p>Passò per di qua li giorni passati<ptr target="#tn10" n="10"/> il signor Benetto Ferro figlio del signor <lb/>
+Francesco di ritorno d’Inghilterra, et havendo fatta la <lb/>
+stradda di Brusseles per passar a Venetia <lb/>
+m’ha scritto pur da Brusseles una sua lettera
+<pb n="030v" facs="03_030v" rend="0"/>
+nella quale mi avvisa haver havuto ragionamento con alcuni <lb/>
+che volontieri verrebbono al servitio di vostra Serenità, et par-<lb/>
+ticolarmente per un ingegnero di gran valore, che si obliga <lb/>
+far prova d’ogni cosa a tutte sue spese, et non riuscendo <lb/>
+vuol perder diecimilla ducati, che prima depositerà. </p>
+<p>Se vostra Serenità si compiacesse far chiamar a sé detto Ferro <lb/>
+intenderebbe da lui medesimo meglio quello che ha trattato, et discorso per risolver ciò che stimasse a <lb/>
+proposito, et per sua prudenza proprio al suo <lb/>
+interesse. </p>
+<p>Il Pasini mi scrisse, che doveva qualcheduno venirmi <lb/>
+trovare; ma non è ancor comparso; et che <lb/>
+uno, che s’era offerto<ptr target="#tn11" n="11"/> di condur mille fanti valoni <lb/>
+con li motivi di Francia haveva mutato pensiero. </p>
+<p>Quel Gio. Serrghei de Wassonhoven venne a me si compiacque <lb/>
+della prorogatione del tempo, che gl’offersi per so-<lb/>
+disfar alla sua obligatione di condur le genti; <lb/>
+ma haverebbe voluto, ch’io havessi ordine di <lb/>
+dargli denari. Appresso haver tentato questo <lb/>
+ha offerto di darmi precautione alcuni suoi parenti <lb/>
+il che non ho voluto accordare essendo informato <lb/>
+che non poteva darmi cosa sussistente, et sarebbe <lb/>
+stato un valersi da me interromper il capitulato
+<pb n="031r" facs="03_031r" rend="0"/>
+da lui con vostra Serenità. Si ridusse, ch’io facessi la sicurtà <lb/>
+a’ marinari del pagamento per il nolo de’ vasseli; né <lb/>
+anco a ciò m’è parso bene condessender in fine mi ha <lb/>
+pregato di dar parola ad essi marinari, ch’egli <lb/>
+sarebbe stato pagato da vostra Serenità per le genti, che <lb/>
+fossero costì rolate in conformità dell’accordato <lb/>
+et in questo non ho stimato far male di dirli, che <lb/>
+lo compiacerò; et per il tempo li ho prescritto <lb/>
+l’imbarco delle genti, per la metà di novembre in circa. </p>
+<p>Ha obligo di condur appresso li cinquecento fanti <lb/>
+doicento cavalli si è lasciato intender, che non po-<lb/>
+tendo farlo condurrà tanti fanti da esser <lb/>
+pagati colla paga di pedoni; sperando, che vostra Serenità <lb/>
+li riceverà volontieri. Fu meco avanti hieri, <lb/>
+né più l’ho riveduto m’è stato detto, che vada <lb/>
+facendo pratica per complir alla condotta; ma<ptr target="#tn12" n="12"/> <lb/>
+come scopro una gran volontà in lui di operare, <lb/>
+così temo, che ’l solo poco credito sia per farli <lb/>
+fortuna. </p>
+<p>L’agente de’ signori Stati, che si trattiene in Colonia ha <lb/>
+mandato a questo Consiglio una copia stampata della <lb/>
+scrittura intorno li presenti motivi<ptr target="#tn13" n="13"/> che l’Imperatore mandò scritta a mano <lb/>
+al Palatino, quando rispose alle lettere, che sua Altezza
+<pb n="031v" facs="03_031v" rend="0"/>
+scrisse a nome di tutta l’Unione dei principi a sua Maestà <lb/>
+cesarea allhora che<ptr target="#tn14" n="14"/> l’eccellentissimo signor ambasciator Gussoni fu<ptr target="#tn15" n="15"/> a’ detti principi <lb/>
+et sono più di tre mesi passati, et quasi quattro. </p>
+<p>Il signor Vandermil m’ha favorito di farmela vedere; <lb/>
+et ha operato ch’io l’habbi per poterla inviar, come <lb/>
+faccio alla Serenità vostra; se ben presupongo, che fin dalla <lb/>
+sua prima nascita l’habbi ella ricevuta dalla <lb/>
+corte dell’Imperatore se il tempo mi havesse servito per <lb/>
+la traduttione l’haverei fatta fare; pur ho stimato <lb/>
+bene di mandarla così: affineché vegga, che hora <lb/>
+esse alla stampa quello che prima non passava <lb/>
+in scritto che per le mani di pochi; et si tenta <lb/>
+di superar colla impressione la buona mente di <lb/>
+quelli, che conoscono la vera, et real giustitia <lb/>
+della causa della Serenità vostra. </p>
+<p>Qui non si parla che di gran levate in Alemagna per il <lb/>
+serenissimo Ferdinando; ma l’Eccellenze vostre haveranno la certezza <lb/>
+de particolari da più sicura parte. Gratie etc. </p>
+<p>Dall’Haya a’ 11 ottobre 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="032r" facs="03_032r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="032v" facs="03_032v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="009">
+<!--
+<p n="032vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>11 ottobre 1616 ricevute 2 novembre </p>
+<p>Secretario Surian dall’Haia </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> There is a hole in the page.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Gap in the outer margin of the page.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "intorno … motivi" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "allhora che" added above the line on "quando" crossed out with an insertion mark.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

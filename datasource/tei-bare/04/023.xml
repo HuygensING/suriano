@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.023 date 1617-04-25</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 117r-120v, 123r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">117r-120v, 123r-v, 121r-122v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>From Brussels news that the cease fire appears to be true. Included is a letter from governor of Milan to Albert that Philip III will punish Venice and the Duke of Savoy. The States of Holland have agreed to assist France. The king has asked for help, but it seems that the alliance between France and the Republic was meant against Spain and not just to assist with any action the king might take. Noué has visited Suriano to complain about the delay. The States have appointed ambassadors to go to France. He closes letter with reference to Trumbull’s battle against the libel Corona Regia. One text attached: "copia di lettera di Pietro da Toledo del 3 marzo 1617"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-04-25">25 aprile 1617</date>
+            <num>039, 040</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="039">
+<div type="main" facs="main text of letter" n="039">
+<!--<p>25 aprile 1617, L’Aia (cc. 117r-120v, 123r-v)</p>-->
+<pb n="117r" facs="04_117r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>anco la settimana passata venne qui avviso dalla parte <lb/>
+di Brusseles, che pareva confermasse quello della prece-<lb/>
+dente della supensione d’armi di un mese tra il Catholico et <lb/>
+il signor duca di Savoia; onde non portando le lettere d’Italia <lb/>
+alcuna cosa in questo particolare, non si sa veder il fine di <lb/>
+questa publicatione; ben si crede, che sia al solito arti-<lb/>
+ficiosamente fatta: perché non si vede, che habbi alcun <lb/>
+fondamento; et massime non essendo essa suspension <lb/>
+d’armi, come si dice per più che per un mese, par <lb/>
+che Spagnoli per così poco tempo non risolveranno <lb/>
+di far fermar le genti incaminate; delle quali s’intende <lb/>
+pure, che marchino, se ben in picciole truppe. </p>
+<p>Del negotio di trattatione di accommodamento non si parla più <lb/>
+tanto doppo, che si è saputo il passaggio per questi <lb/>
+paesi del baron Chefniler destinato per Spagna <lb/>
+poiché di là si doverà aspettar l’essito. La dimora <lb/>
+di esso Chefniler fatta in Brusseles dicono sia stata per <lb/>
+dar tempo a quelli de’ suoi, ch’è stato consigliato <lb/>
+da sue Altezze inviar per mare con le sue cose più <lb/>
+care: perché, dovendo andar a Parigi, haverebbe <lb/>
+potuto incontrar per il camino qualche disturbo. </p>
+<p>Ho avuta la copia delle lettere, che ’l signor don Pietro
+<pb n="117v" facs="04_117v" rend="0"/>
+scrisse al serenissimo Alberto sollecitando la missione delle genti, <lb/>
+che sarà per quelli delle Signorie vostre eccellentissime, che havessero curiosità <lb/>
+d’intenderle. </p>
+<p>In Brusseles spargono, che Spagnuoli<ptr target="#tn1" n="1"/> vogliono romper con la <lb/>
+Serenità vostra, et dicono che castigaranno lei, et il signor duca di Savoia <lb/>
+havendo a tal fine fatta venir cavalleria di Napoli <lb/>
+che n’haveranno dell’altra da diverse parti d’Italia <lb/>
+mille doicento cavalli ispediscono di qua che con <lb/>
+quelli che tengono in piedi nel Milanese, et con <lb/>
+l’infanteria, che da questa parte si va incaminando <lb/>
+quella<ptr target="#tn2" n="2"/> che venirà di Spagna, et si leverà dal <lb/>
+regno di Napoli, et d’altrove volevano pigliar <lb/>
+et vostra Serenità et sua Altezza di mezo; che tanto dice-<lb/>
+vano di voler far anco contra li principi di <lb/>
+Francia. Publicano la partenza di monsignor di Dighiers <lb/>
+di Piemonte con li suoi Francesi, et che la serenissima Republica habbi cessato di dar denari al signor duca di Savoia <lb/>
+havendone bisogno per sé stessa. Dall’altro canto <lb/>
+in<ptr target="#tn3" n="3"/> una relatione d’un convito fatto in Brusseles <lb/>
+lautissimo al signor don Balthasar Zuniga che torna in <lb/>
+Spagna dalla sua ambasceria alla corte dell’Imperatore <lb/>
+viene detto, ch’egli habbi publicato di sua bocca
+<pb n="118r" facs="04_118r" rend="0"/>
+che le controversie di vostra Serenità col serenissimo Ferdinando al sicuro <lb/>
+resteranno sopite; che Dio benedetto lo voglia per <lb/>
+quiete di quel serenissimo Dominio. </p>
+<p>M’avvisa il Pasini haver inteso, che ’l Cairo doveva esser <lb/>
+col signor conte Gio. Giacomo Belgioioso nel paese di Lieges <lb/>
+et per tanto haveva pensiero di arrivar fin là per <lb/>
+veder quello che potesse cavar di lui per il servitio di <lb/>
+vostra Serenità, et mi haverebbe avvertito. </p>
+<p>Dall’ufficio, che gl’ambasciatori di Francia fecero nella Congregatione <lb/>
+delli Stati di Holanda hanno essi cavata risposta <lb/>
+che la provincia è risoluta per la parte sua di dar <lb/>
+assistenza alla Corona; ma non dichiarito per il nu-<lb/>
+mero delli cinquemille fanti quanti francesi, o <lb/>
+quanti del Paese<ptr target="#tn4" n="4"/>, o d’altra natione. Questa <lb/>
+dichiaratione serve assai, per esser come ben sa la <lb/>
+Serenità vostra questa provincia la maggiore, et la più po-<lb/>
+tente di tutte le altre, et quella che spende si può <lb/>
+dir tutto nel mantener particolarmente le truppe francesi <lb/>
+ma la dispositione non è uguale in tutte l’altre. <lb/>
+Zelanda, Frisia, et anco Gheldria inclinano <lb/>
+malamente ad<ptr target="#tn5" n="5"/> adherire portando tuttavia la <lb/>
+necessità, et il bisogno del Paese, nella congiontura
+<pb n="118v" facs="04_118v" rend="0"/>
+de’ tempi, nella quale si trovano ridotte le cose del mondo. <lb/>
+Si va interpretando l’obligatione che hanno questi stati <lb/>
+con la Corona, dicendo che le parole obligatorie non servono <lb/>
+per andar contra li sudditi del Re, et in ogni caso, che <lb/>
+sua Maestà christianissima chiami l’aiuto; ma che il senso reale <lb/>
+et fondamentale, et il fine per il quale è stata fermata <lb/>
+la lega sia stato diretto contra Spagnuoli, et così essersi <lb/>
+inteso sempre: perché, dicono, che quando dovessero ad <lb/>
+ogni ceno del Re esser obligati, venirebbe in consequenza <lb/>
+di assistergli anco contra il re d’Inghilterra, et contra <lb/>
+ogn’altro collegato. La riduttione di quelli della <lb/>
+religione alla Roscela li fa star perplessi, oltre il <lb/>
+dubio, che hanno, che il Re, o la Regina possi servirsi <lb/>
+dell’aiuto de’ Spagnuoli. In uno milita il rispetto di <lb/>
+contrastar a quelli<ptr target="#tn6" n="6"/> dello stesso partito, quando si dichia-<lb/>
+rassero per li principi; nell’altro non saprebbono accom-<lb/>
+modarsi a militar unitamente con Spagnuoli. Questo <lb/>
+non è espresso in publico; ma solo, che si vorebbe <lb/>
+veder di trovar rimedio alla pace. Gl’ambasciatori <lb/>
+sentono li concetti, et veggono gl’andamenti tuttavia <lb/>
+non si perdono anzi solecitano, et instano a loro <lb/>
+potere; et aiutati dall’auttorità del signor Bernvel
+<pb n="119r" facs="04_119r" rend="0"/>
+sperano di superar ogni difficoltà. Hier mattina furono di <lb/>
+nuovo nell’assemblea dei Stati, et col presentar lettere <lb/>
+del Re fecero un ufficio molto pieno, procurando d’impri-<lb/>
+mer nelle Provincie, che desiderano una risolutione <lb/>
+apportando molte ragioni per far riuscir più efficace <lb/>
+et l’instanza, et l’impressione. Et monsignor della Nua <lb/>
+che fu a vedermi il doppo desinare si è doluto <lb/>
+grandemente di una tanta dilatione; disse che la <lb/>
+tardità nasceva in parte o da poca conoscenza dell’<lb/>
+affare, o da malitia; che haveva parlato liberamente <lb/>
+et in maniera, che si haveva potuto<ptr target="#tn7" n="7"/> intender, che si <lb/>
+voleva un sì, o un no; che quando si parla, et si <lb/>
+dimanda qualche cosa d’obligo si vuol aspettar il parer <lb/>
+delle Provincie; ma che quando si è trattato di ricever per <lb/>
+vinti anni continui tanti milla fiorini; quanti hanno <lb/>
+ricevuti in questo Paese doppo che si mantiene il <lb/>
+soccorso a spese reggie, non si è aspettato l’assenso <lb/>
+delle Provincie; ma immediate si è ricevuto il denaro; <lb/>
+che per tanto non doverebbono hora metter difficoltà; <lb/>
+che si va tolerando con speranza di haver infine <lb/>
+risposta propria, conveniente, et debita al contratto <lb/>
+che hanno insieme. Si è laudato della provincia
+<pb n="119v" facs="04_119v" rend="0"/>
+di Holanda, per la quale, disse, che sua Maestà haverebbe <lb/>
+fatto ogni cosa, et se altro non succedesse si sarebbe appagata <lb/>
+della dimostratione di buona volontà; che sua Maestà voleva <lb/>
+mantener le vecchie aleanze; ma che in fine vedendo <lb/>
+tanta renitenza non sapeva quello ella havesse fatto; […] <lb/>
+mancandosele<ptr target="#tn8" n="8"/> da questo Paese al debito; anco il Re have-<lb/>
+rebbe tenuto poco conto di essi, et reietta la Lega; <lb/>
+che alcuni de’ consiglieri havevano havuto in animo del non <lb/>
+star più; ma sono stati fermati dagl’altri, che hanno <lb/>
+maggior prudenza; che non sapeva veder per qual <lb/>
+causa questi signori volessero mancar al Re nel suo <lb/>
+bisogno, et necessitarlo forse a valersi de’ Spagnuoli; <lb/>
+che diceva così per modo di dire, ma che questo non <lb/>
+sarebbe successo piacendo a Dio perché non sarebbe <lb/>
+stato né servitio della Corona, né della Francia; né <lb/>
+meno sua Maestà era in stato, che da sé sola non potesse <lb/>
+castigar li suoi sudditi: ma porgassi<ptr target="#tn9" n="9"/> il caso non <lb/>
+sono anco questi in pericolo d’esser abandonati <lb/>
+dalla Corona nelle sue occasioni. Et si compiacque <lb/>
+esso Ambasciatore di passar meco una lunga essageratione <lb/>
+più tosto che discorso, concludendo, che in fine <lb/>
+sperava bene; et io non risposi altro se non che
+<pb n="120r" facs="04_120r" rend="0"/>
+havendo havuto la dichiaratione di provincia così principa-<lb/>
+le poteva sperar sua Eccellentia buon essito del suo negotiato. </p>
+<p>Si va portando il tempo innanti da questi signori quanto più si <lb/>
+può perché si vorrebbe pur cavar beneficio da esso; poten-<lb/>
+do esser che in tanto seguisse qualche accommodamento <lb/>
+ancorché questi Francesi dicono, che la Regina sia risoluta <lb/>
+di estirpar, et ruinar affatto li principi. Doverebbe <lb/>
+se seguisse infine la concessione dell’aiuto andar un <lb/>
+soggetto di questi paesi, per commandar alle genti, <lb/>
+et per questo sono dalli ambasciatori stati nominati.<ptr target="#tn10" n="10"/> Il principe <lb/>
+Henrico fratello di sua Eccellenza, il conte Ernesto di Nassau <lb/>
+governator in Arnhem<ptr target="#tn11" n="11"/>, et monsignor Marchet fiammingo. Nel <lb/>
+primo non vi è inclinatione perché gli par che la condotta <lb/>
+non sia equivalente al grado, che tiene; ma più per <lb/>
+li rispetti delle parentelle, che ha con Buglione <lb/>
+et con altri del partito de’ principi. Ben se haverà <lb/>
+dalli Stati espressa commissione prenderà la carica <lb/>
+non potendo ricusarla. Nel conte Ernesto di Nassau <lb/>
+vi sono alcuni che dicono esser qualche inclinatione; <lb/>
+ma mancando questi doi, si tiene per fermo, che <lb/>
+il terzo sarà impiegato. </p>
+<p>Quando mi trovai col signor principe Mauritio in discorrendo
+<pb n="120v" facs="04_120v" rend="0"/>
+seco mi disse a questo proposito, che li ambasciatori francesi solle-<lb/>
+citavano; et il loro fondamento più essentiale era l’obligo <lb/>
+dell’aleanza, che constringeva questi signori; ma che la <lb/>
+missione delle genti non serviva al beneficio del Re. </p>
+<p>In Brusseles si trova un ambasciator di Inghilterra per ricercar il castigo <lb/>
+contra la persona di quel dottor di Lovania, che con un <lb/>
+libro, che si può dir libello famoso ha dette tante <lb/>
+maledicenze del Re. Gratie etc. </p>
+<p>Dall’Haya a’ 25 aprile 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="123r" facs="04_123r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="123v" facs="04_123v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi><ptr target="#tn12" n="12"/> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="039">
+<!--
+<p n="123vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>25 aprile 1617 ricevute a’ 10 maggio </p>
+<p>Haya. 2<hi rend="superscript">a</hi><ptr target="#tn13" n="13"/> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="040" corresp="039" source="121r-122v" >
+<div type="main" facs="main text of attachment I" n="040" corresp="039" >
+<!--<p>Allegato I al n. 39 (cc. 121r-122v)</p>-->
+<pb n="121r" facs="04_121r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya de’ 25 april 1617 </p>
+<p>Copia di una lettera scritta da don Pietro di Toledo </p>
+<p>Al serenissimo arciduca Alberto delli 9 marzo 1617 </p>
+<p>Serenissimo signore </p>
+<p>supplico vostra Altezza resti servita quanto prima far incaminar <lb/>
+la gente, che sua Maestà ha fatto levar per questo Stato <lb/>
+che non siano giovanetti fanciuli; ma buoni soldati <lb/>
+vecchi; poiché questa estate in tutta maniera <lb/>
+la voglio finire con questo inimico importuno. <lb/>
+Iddio guardi vostre Altezze<ptr target="#tn14" n="14"/> serenissime. Di Alessandria </p>
+<p>li 9 marzo 1617 </p>
+<pb n="121v" facs="04_121v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="122r" facs="04_122r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="122v" facs="04_122v" rend="0"/>
+<p>Copia della lettera di don Pietro <lb/>
+di Toledo </p>
+<p>nella 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Sp-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes "la" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "h" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "p-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-ose-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by a crossed-out comma.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-n-" corrected above "-h-."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Corrected above "prima."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above "sola" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Last "-e" corrected above "-a."</p></note>
+</div>
+</body>
+</text>
+</TEI>

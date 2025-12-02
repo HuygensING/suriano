@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.036 date 1621-06-26</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">036</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 168r-169v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">170r-v, 179r-v, 171r-172v, 173r-174v, 175r-176v, 177r-178v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Request of patron of ship the Black Lion who has served Venetian Republic since 1617 requests payment of 4200 Venetian ducats </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-06-26">26 giugno 1621</date>
+            <num>055, 056, 057, 058, 059</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="055">
+<div type="main" facs="main text of letter" n="055">
+<!--<p>26 giugno 1621, L’Aia (cc. 170r-v, 179r-v)</p>-->
+<pb n="170r" facs="10_170r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>Gerardo Janson Hetzon patrone del vassello nominato Il lion <lb/>
+negro che nell’anno 1617 imbarcò le genti della compagnia <lb/>
+del signor conte di Levenstein, et le condusse a Venetia, doppo <lb/>
+restò col medesimo vassello a servir la Serenità vostra nell’armata <lb/>
+qualche spatio di tempo, et licentiato li fu fatto il <lb/>
+suo disconto, onde restò creditore di quattro milla doicento <lb/>
+ducati venetiani, che ancor non ha potuto ricever,<ptr target="#tn1" n="1"/> <lb/>
+è ricorso alli eccellentissimi signori Stati Generali per esser raccolta<ptr target="#tn2" n="2"/> da loro <lb/>
+la sua sodisfattione, et a me sue Eccellenze hanno inviato <lb/>
+uno della loro assemblea a fine di farmi instanza <lb/>
+di pregar la Serenità vostra, che ’l detto Gerardo, o suoi intervenienti <lb/>
+siano pagati della sudetta summa, al qual effetto <lb/>
+scritto humilmente le presenti perché si compiaccia <lb/>
+dar ordine per la sodisfattione delli detti quattro <lb/>
+milla ducento ducati. Gratie etc. </p>
+<p>Dall’Haya li 26 giugno 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="170v" facs="10_170v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="179r" facs="10_179r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="179v" facs="10_179v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="055">
+<!--
+<p n="179vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>26 zugno 1621 ricevute a’ 6 ottobre<ptr target="#tn3" n="3"/> </p>
+<p>Stati </p>
+<p>L. C. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="056" corresp="055" source="171r-172v" >
+<div type="main" facs="main text of attachment I" n="056" corresp="055" >
+<!--<p>Allegato I al n. 55 (cc. 171r-172v; traduzione di c. 173r-v)</p>-->
+<pb n="171r" facs="10_171r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Al serenissimo Duce, la republica di Venetia <lb/>
+nostri confederati, et collegati </p>
+<p>Serenissimo Duce, et eccellentissimi signori confederati, et collegati. <lb/>
+Li borgomastri della città di Amsterdam ci han-<lb/>
+no accuratamente ricercati, che vogliamo inter-<lb/>
+ceder, et raccomandar a vostra Serenità li patroni, et <lb/>
+parcionevoli del navilio chiamato Sanson <lb/>
+della grandezza de circa dusento e ottanta <lb/>
+laste, sopra il quale è marinari Adriano <lb/>
+Rocters Leostre de Cuchiusem, affineché possino <lb/>
+ricevere pagamento della summa de’ sei mille <lb/>
+quaranta tre ducati di Venetia, che sono cre-<lb/>
+ditori dalla serenissima Republica, per rimanente <lb/>
+del servitio, o stipendio dovuto alli detti ma-<lb/>
+rinari, sino al dì xi del mese d’ottobre 1620 <lb/>
+prossimo passato, quando li detti marinari furono <lb/>
+accomiatati, et ricevetero ben il suo conto, ma <lb/>
+niente di pagamento, sì come parimente <lb/>
+sino al presente nonostante che finchéa vi era <lb/>
+bisogno di danaro per racconciar, et fornir il <lb/>
+suo navilio, il qual danaro è stato necessario <lb/>
+prender a cambio con danno, et ritenesse delli <lb/>
+detti patroni, et porcionevoli: la quale intercessione per questo rispetto, et per altre <lb/>
+buone considerationi noi non habbiamo potuto <lb/>
+negare in cosa tanto condecente, giusta, et <lb/>
+di equità. Per il che serenissimo Duce noi <lb/>
+vi preghiamo, et raccommandiamo ben affet-<lb/>
+tuosissimamente che piacia a vostra Serenità dar ordine che <lb/>
+al detto marinaro, overo al suo commesso, sia <lb/>
+pagata prontamente la detta suma de sei mille <lb/>
+quaranta tre ducati, et datali sodisfattione,
+<pb n="171v" facs="10_171v" rend="0"/>
+del che voi ci farete gran favore, et cosa grata <lb/>
+per discarico della serenissima Republica del che et <lb/>
+se ne raccordaremo alle occasioni, che si <lb/>
+appresenterano per avanzamento del servizio di <lb/>
+quella Republica il che attendendo preghiamo <lb/>
+tra tanto il Creatore. </p>
+<p>Serenissimo Duce, et eccellentissimi signori confederati, et collegati <lb/>
+che vogli conservar vostra Serenità con perfettissima sanità <lb/>
+lunghissima et felicissima vita. </p>
+<p>Dall’Aya li 16 di giugno 1621 </p>
+<p>di vostra Serenità et Eccellenze </p>
+<p>affetionatissimi amici, et collegati per <lb/>
+farvi servitio. Li Stati <lb/>
+Generali dei Paesi Bassi <lb/>
+Uniti. </p>
+<p>Per ordine di quelli </p>
+<p>Aersem </p>
+<pb n="172r" facs="10_172r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="172v" facs="10_172v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="057" corresp="055" source="173r-174v" >
+<div type="main" facs="main text of attachment II" n="057" corresp="055" >
+<!--<p>Allegato II al n. 55 (cc. 173r-174v; traduzione a c. 171r-v)</p>-->
+<pb n="173r" facs="10_173r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Serenissime Duc et tresexcellens seigneurs confederez <lb/>
+et alliez </p>
+<p>les bourgemaistres de la ville d’Amstelredam, nous <lb/>
+ont fort serieusement requiz, que vouldrions moienner et <lb/>
+recomander à vostre Serenité de la part des maistres et <lb/>
+parteniers du navire appellé le Sampson de la grandeur <lb/>
+d’environ<ptr target="#tn4" n="4"/> 280 lastes, sur lequel est marinier Adriaen <lb/>
+Pieterssen loostre d’Enchuysen, affin qu’ilz pourroient <lb/>
+recepvoir payement de la somme de 6043 ducats de Venise <lb/>
+qui leur est devé par la serenissime Republicque pour <lb/>
+resté du service ou soldie faict par les marinier à icelle, <lb/>
+iusques le quinziesme du mois d’octobre xvi<hi rend="superscript">e</hi> vingt <lb/>
+dernier passé, lors que ledits marinier fust congedié et <lb/>
+receut bien son descompte, mais point son payment, ny <lb/>
+mesmes iusques à present, nonobstant que alors il avoit <lb/>
+besoign d’argent pour reparer et re equipper soudit navire, <lb/>
+lequel il a esté necessité de tirer par change à la charge, <lb/>
+dommage et interest desdits ses maistres et parteniers, <lb/>
+laquelle intercession pour ce regard et aultres bonnes <lb/>
+considerations, nous ne leur avons peu refuser, en chose tant <lb/>
+decente, iuste et equitable. C’est pourquoy serenissime <lb/>
+Duc que nous vous prions et recommandons bien <lb/>
+affectuesement, qu’il plaise à vostre Serenité donner <lb/>
+ordre, que audit marinier ou son commis de sa part, ladite <lb/>
+somme de 6043 ducats puisse promptement estre payé et <lb/>
+satisfaicte à son contentement. Enquoy vous nous ferez <lb/>
+grande faveur, et chose tresagreable à la descharge de ladite <lb/>
+serenissime Republicque, dont nous nous revancherons et <lb/>
+resouviendrons aux occasions qui sy representeront
+<pb n="173v" facs="10_173v" rend="0"/>
+pour l’advancement du service d’icelle Republicque <lb/>
+à quoy nous attendants, prions cependant le Createur </p>
+<p>serenissime Duc et tresexcellens seigneurs confederez <lb/>
+et alliez </p>
+<p>de vouloir conserver vostre Serenité en tresparfaicte santé </p>
+<p>treslongue et bien heureuse vie. De la Haye xvi<hi rend="superscript">e</hi> de <lb/>
+juing 1621. A van Zuyllen van Nyevelt ut. </p>
+<p>de vostre Serenité et <lb/>
+Excellences </p>
+<p>tressaffectionnez amis et <lb/>
+alliez, à vous faire service </p>
+<p>les Estatz Generaulx <lb/>
+des Pays Bas Uniz </p>
+<p>par l’ordonnance <lb/>
+d’icelleux </p>
+<p>C(ornelis) Aerssen <lb/>
+1621</p>
+<pb n="174r" facs="10_174r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="174v" facs="10_174v" rend="180"/>
+<p>Aux serenissime <lb/>
+Duc et republicque <lb/>
+de Venise, noz confederez <lb/>
+et alliez<ptr target="#tn5" n="5"/> </p>
+<p n="174vC">———</p>
+<p>[…] </p>
+<p>de’ signori Stati </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="058" corresp="055" source="175r-176v" >
+<div type="main" facs="main text of attachment III" n="058" corresp="055" >
+<!--<p>Allegato III al n. 55 (cc. 175r-176v; traduzione di c. 177r-v)</p>-->
+<pb n="175r" facs="10_175r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Al serenissimo Duce, et republica di Venetia <lb/>
+nostri confederati, et collegati </p>
+<p>Serenissimo Duce, et eccellentissimi signori confederati, et collegati. <lb/>
+Il mariner Gerito Gio. Hietsem con li suoi patroni <lb/>
+fano indoglienza, che havendo servito un certo <lb/>
+tempo con loro navilio la serenissima Republica li dove-<lb/>
+rebbe restare debitrice una buona summa per <lb/>
+calculo fatto, et che li detti marineri non hano rice-<lb/>
+vuto pagamento al suo partir da Venetia, <lb/>
+in modo che ha lasciato carico a Daniel Nis <lb/>
+fattore dei suoi patroni residente a Venetia <lb/>
+di procurare il pagamento del rimanente <lb/>
+del quale sin al presente egli non ha ricevuto <lb/>
+cosa alcuna nonostante, tutte le diligenza da <lb/>
+lui usate, talmente che egli ha deliberato de <lb/>
+ricorrere alla vostra intercessione, la quale non <lb/>
+habbiamo potuto negarli in cosa così ragionevole <lb/>
+per il che serenissimo Duce noi raccommandiamo affettuo-<lb/>
+sissimamente a vostra Serenità che gli piacia ordinare che <lb/>
+al detto marinare, et alli suoi patroni sia data <lb/>
+sodisfattione della sua pretensione, et del <lb/>
+residuo per compita disobligatione della detta <lb/>
+serenissima Republica, il che attendendo preghiamo il Creatore. </p>
+<p>Serenissimo Duce, et eccellentissimi signori confederati et collegati <lb/>
+che conservi vostra Serenità in perfettissima sanità, et lun-<lb/>
+ghissima et felicissima vita. </p>
+<p>Dall’Aya il x luglio 1621 </p>
+<p>di vostra Serenità et Eccellenze </p>
+<p>Affetionatissimi amici, et <lb/>
+collegati per farvi servitio </p>
+<p>Li Stati Generali de’ Paesi Bassi Uniti </p>
+<p>Per ordine di quelli </p>
+<p>Aersem </p>
+<pb n="175v" facs="10_175v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="176r" facs="10_176r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="176v" facs="10_176v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="059" corresp="055" source="177r-178v" >
+<div type="main" facs="main text of attachment IV" n="059" corresp="055" >
+<!--<p>Allegato IV al n. 55 (cc. 177r-178v; traduzione a c. 175r)</p>-->
+<pb n="177r" facs="10_177r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>Serenissime Duc et tresexcellens seigneurs confederez <lb/>
+et alliez </p>
+<p>le marinier Gerrit Jan Hetsen avec ses maistres <lb/>
+se plaignent que ayants servi un certain temps <lb/>
+avec leur navire la serenissime Republicque, icelle <lb/>
+leur seroit demoeurer redebtable une bonne somme <lb/>
+par descompte en faict, sans que ledit marinier en aye <lb/>
+sceu recepvoir payement à son partir de Venise, de sorte <lb/>
+qu’il a laissé charge à Daniel Nuts facteur de ses <lb/>
+maistres resident à Venise de poursuivre le payement <lb/>
+dudit arrierage, duquel iusques à present il n’a rien <lb/>
+receu, nonobstant tous debvoirs et poursuites par luy <lb/>
+faicts, tellement qu’il a prins son recours à nostre <lb/>
+intercession, laquelle nous ne luy avons peu denier en <lb/>
+chose si raisonnable. C’est pourquoy serenissime <lb/>
+Duc que nous recommandons bien affectueusement <lb/>
+à vostre Serenité, qu’il plaise à icelle ordonner que audit <lb/>
+marinier, et ses maistres soit donné contentement de leurdite <lb/>
+restante pretension et descompte à la descharge de ladite <lb/>
+serenissime Republicque, aquoy nous attendants, <lb/>
+prions le Createur </p>
+<p>serenissime Duc et tresexcellens seignieurs confederz <lb/>
+et alliez, </p>
+<p>de vouloir conserver vostre Serenité en tresparfaicte
+<pb n="177v" facs="10_177v" rend="0"/>
+santé treslongue et tresheureuse vie, de la <lb/>
+Haye x<hi rend="superscript">e</hi> de juillet 1621. Jehan de Bois ut. </p>
+<p>de vostre Serenité et <lb/>
+Excellences </p>
+<p>tressaffectionnez amis et <lb/>
+alliez à vous faire service, </p>
+<p>les Estatz Generaulx <lb/>
+des Pays Bas Uniz </p>
+<p>par l’ordonnance <lb/>
+d’iceulx </p>
+<p>C(ornelis) Aerssen <lb/>
+1621</p>
+<pb n="178r" facs="10_178r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="178v" facs="10_178v" rend="180"/>
+<p>Aux serenissime <lb/>
+Duc et republicque de <lb/>
+Venise, noz confederez <lb/>
+et alliez </p>
+<p><metamark facs="Seal"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "onde" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-a" corrected above "-o."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Precedes "de" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Seal</p></note>
+</div>
+</body>
+</text>
+</TEI>

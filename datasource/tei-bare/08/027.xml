@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.027 date 1619-07-23</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 135r-136v, 139r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">135r-136v, 139r-v, 137r-138v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>On behalf of States General reminds the Venetian State to act on in favour of Bohemia by emphasising that it is crucial for the entire Christianity to preserve liberty. Various rumours are circulating related to battle of Sablat. States General fear that the imperial crown will go to the House of Austria. Reports that Maurice is weary of the intentions of James VI/I. John of Nassau is in Heidelberg to command the Palatine forces. His son William has  visited Suriano and is now on his way to Vianen to his wife and sister.  Anne-Joanne of Nassau-Siegen had recently married Johan Wolfert van Brederode. Still discussion about the conditions under which Frederick-Henry will serve. Captain Pach has left on 18 July by foot with letters from Suriano. One document attached: overview of payments to Captain Pach by Suriano</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-07-23">23 luglio 1619</date>
+            <num>047, 048</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="047">
+<div type="main" facs="main text of letter" n="047">
+<!--<p>23 luglio 1619, L’Aia (cc. 135r-136v, 139r-v)</p>-->
+<pb n="135r" facs="08_135r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 116 comincia 115 </p>
+<p>Serenissimo Principe </p>
+<p>la lettera<ptr target="#tn1" n="1"/> della Serenità vostra alli signori Stati fu accompagnata da me col <lb/>
+senso di lei, et con quello che ho stimato proprio a confermar <lb/>
+alle loro Eccellenze la buona volontà delle<ptr target="#tn2" n="2"/> Eccellenze vostre<ptr target="#tn3" n="3"/> al servitio comune, <lb/>
+et al desiderio, che ha, che ognuno conservi il suo. Mi fu <lb/>
+risposto, che godevano li signori Stati del pensiero, che vostra Serenità <lb/>
+prendeva per li affari de’ Bohemi, che conoscevano, che<ptr target="#tn4" n="4"/> <lb/>
+haveva loro apportato gran frutto l’armata, et le spese che <lb/>
+fa la Serenità vostra in essa; et che si assicuravano, che haverebbe <lb/>
+anco pensato a quello di più, che havesse potuto fare per <lb/>
+sostenimento, et conservatione di essi Bohemi, come queste <lb/>
+Provincie ancora vi haverebbono atteso con ogni spirito, et <lb/>
+haverebbono fatto tutto quel più, che havessero potuto, <lb/>
+considerata la constitutione dello Stato; et mi pregorono di <lb/>
+scriver di novo alla Serenità vostra di haver a cuore questo negotio <lb/>
+che tocca alla christianità tutta, et in particolar a quelli, <lb/>
+che cercano conservar la libertà. </p>
+<p>Corrono qui gl’avvisi delle cose de’ Bohemi diversi. Da Brusseles <lb/>
+dicono, che fuggono li loro soldati a truppe, et che Buquoi <lb/>
+sia presto per acquistar la Bohemia (soliti vanti spagnuoli). <lb/>
+Altri dicono, che lo stesso Buquoi sia assediato da essi Bohemi; <lb/>
+non viene creduto né l’uno, né l’altro. Così mi disse sua Eccellenza <lb/>
+tuttavia questo secondo avviso si conferma assai con gusto <lb/>
+di quelli che vorrebbero fosse in effetto. </p>
+<p>Uno venuto ultimamente dal Principe palatino porta la risolutione <lb/>
+dei principi uniti di armarsi, et fa instanza a questi <lb/>
+signori a nome dell’unione di haver il soccorso dovuto di <lb/>
+4 mila fanti in virtù delle capitulationi; ma non si vede
+<pb n="135v" facs="08_135v" rend="0"/>
+che vi sia volontà di compiacer detti principi nell’instanza <lb/>
+se prima non veggono, che vi sia bisogno di un tal nervo di <lb/>
+militia: non stimando a proposito il privarsene senza maggior <lb/>
+sicurezza, che habbino bisogno, o siano per far qualche cosa <lb/>
+da dovero. </p>
+<p>L’avviso, che essi principi si habbino assicurato della città di <lb/>
+Francfort è stato portato qui con gran asseveranza, et se ne <lb/>
+parla anco a Brusseles, et questi signori vorrebbero bene <lb/>
+che così fosse. Pensano, che vi sia qualche cosa; ma che <lb/>
+non habbi a servir ad altro, che per dar gelosia, et poi <lb/>
+ridursi in niente, come seguì nel convento elettorale <lb/>
+del morto imperator Matthias. </p>
+<p>Si conferma di più in più, che ’l convento di Francfort habbi <lb/>
+ad esser questo mese. Non sano li signori Stati far giudicio <lb/>
+in chi sia per cader la dignità imperiale; credono, che <lb/>
+vi saranno dei contrasti; ma temono però assai, che <lb/>
+infine sia la casa d’Austria per trionfare. Vostra Serenità dal <lb/>
+proprio o più vicino luoco deve haver migliori, et più <lb/>
+sicuri avvisi. </p>
+<p>Sua Eccellenza mi disse, et mostrò gusto nel proferire, che haveva <lb/>
+inteso, che ’l cavalier Wton era passato in Inghilterra. Si temeva <lb/>
+che dovesse accompagnar l’ambasciator straordinario del suo Re <lb/>
+cosa, disse il signor Principe, che non poteva riuscir di <lb/>
+molto beneficio a’ Bohemi: tuttavia aggiunse non so <lb/>
+quello che farà anco detto Ambasciatore in servitio loro, poiché <lb/>
+il suo Re ama la pace, et si contenterà per haverla <lb/>
+esser anco ingannato come fece<ptr target="#tn5" n="5"/> di Vesel<ptr target="#tn6" n="6"/>. Questo Vesel
+<pb n="136r" facs="08_136r" rend="0"/>
+sta grandemente sul cuore a sua Eccellenza. </p>
+<p>A questo proposito dimandai all’Eccellenza sua se si era havuta risposta <lb/>
+dal Re dell’ufficio, che li signori Stati Generali havevano fatto seco con <lb/>
+lettere, et col mezo dei loro<ptr target="#tn7" n="7"/> commissarii per rinovar le commissioni al suo <lb/>
+ambasciatore, disse che non era venuta alcuna risposta; che si aspettavano <lb/>
+di dì in dì li detti commissarii di ritorno, et allhora si saprebbe <lb/>
+il senso del Re. Ma crolò il capo quasi volendo inferire, che nel <lb/>
+re d’Inghilterra<ptr target="#tn8" n="8"/> non<ptr target="#tn9" n="9"/> vi fosse quello si convenirebbe in affare <lb/>
+di tanto momento. Io non ho tralasciato con questa occasione di <lb/>
+promuover in sua Eccellenza quello che ho stimato a proposito per materia <lb/>
+sì rilevante. Se alla inclinatione, ch’ella ha corrispondessero <lb/>
+gl’effetti, che ne brama presto si vedrebbono cose degne. </p>
+<p>Così li signori Stati secondo l’occorrenze non mancano di far ufficii <lb/>
+conformi, et li porterò in quanto mi sarà detato dalla mia <lb/>
+debolezza con termine; che non sia se non ben preso, et lontano <lb/>
+da inditii di affettatione, come mi commanda. </p>
+<p>Il vecchio conte Gio. di Nassau padre del già conte Gio. Ernesto si trova <lb/>
+a Heidelbergh per dar regola, et commandar alla militia del <lb/>
+Palatino carica particolare di detto signore che viene stimato uno dei <lb/>
+bravi huomini, che habbi la casa in questo proposito. </p>
+<p>Il conte Guglielmo suo figlio è stato all’Haya la passata settimana partì <lb/>
+hier mattina di ritorno a Viana ove è la sua sposa, che ha accom-<lb/>
+pagnata la sorella di lui maritata al signor di Clutin secondogenito <lb/>
+della casa di Brederod principalissima in questi paesi. Non ha volsuto<ptr target="#tn10" n="10"/> <lb/>
+già mai acconsentire di esser il primo visitato; ma volse venir a <lb/>
+veder me primo; et io corrispondendo alla visita ho procurato <lb/>
+anco di rendergli testimonio della stima, che si fa della persona
+<pb n="136v" facs="08_136v" rend="0"/>
+sua convitandolo domenica con tre delli signori Stati a desinare. Si è <lb/>
+laudato dei buoni trattamenti ricevuti da vostra Serenità, et disse che <lb/>
+sarà sempre pronto a servirla purchè habbi ella<ptr target="#tn11" n="11"/> occasione d’impie-<lb/>
+garlo, et che si muoverebbe ad ogni suo ceno. Et m’ha pregato <lb/>
+di raccommandarlo humilmente alla Serenità vostra, et alle Signorie vostre eccellentissime. </p>
+<p>Del signor principe Henrico doppo quanto le scrssi haver havuto dal signor <lb/>
+principe Mauritio, essendo stato a visita della madre non ho cavato <lb/>
+altro, se non che sua Eccellenza habbi detta ad essa delle stesse difficoltà dette <lb/>
+a me, et aggiunto che si riduceva la serenissima Republica a troppo stretto <lb/>
+partito col suo fratello; et che le conditioni del conte Gio. Ernesto <lb/>
+erano migliori; ma che sperava, che si haverebbe havuto in consi-<lb/>
+deratione di honorar, et obligar la casa, et la carica che tiene <lb/>
+al presente. </p>
+<p>Il capitano Pach è partito per venir a’ piedi della Serenità vostra fin alli 18 <lb/>
+dello<ptr target="#tn12" n="12"/> stante. Viene accompagnato con lettere mie. Et io con <lb/>
+queste le mando nota di cento ducati esborsatigli al suo arrivo, <lb/>
+et di altro denaro, che ha havuto da me a conto di paghe <lb/>
+perché ella si compiaccia commandare, che dall’illustrissimi signori proveditori <lb/>
+all’armar o da chi spetta sia<ptr target="#tn13" n="13"/> notato a credito di lei, et a <lb/>
+debito<ptr target="#tn14" n="14"/> di lui<ptr target="#tn15" n="15"/>, et servi per mio scarico; et alli medesimi illustrissimi signori <lb/>
+scrivo nello stesso proposito, mandandoli altre obligationi <lb/>
+dello stesso Pach per assignatione alla moglie, et per soddisfattione di un debito<ptr target="#tn16" n="16"/> di trentaun fiorini. </p>
+<p>Saranno qui aggiunte le replicate n° 114 di hoggi otto. Gratie etc. </p>
+<p>Dall’Haya li 23 luglio 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="139r" facs="08_139r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="139v" facs="08_139v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 116 comincia <lb/>
+115 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="047">
+<!--
+<p n="139vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>23 luglio 1619 ricevute a’ 7 agosto </p>
+<p>Haya. n° 116 </p>
+<p>Ha fatto ufficio coi Stati con occasione della <lb/>
+risposta a’ Bohemi. Rispondeno restar <lb/>
+sodisfatti dell’operato per loro, sperar <lb/>
+d’avantaggio, et instano al secretario <lb/>
+scritti da nuovo s’habbia a cuore il <lb/>
+negocio per interesse della christianità. </p>
+<p>Avisi delle cose di Bohemia correno <lb/>
+diversi. Dicesi risolutione dei principi <lb/>
+uniti di armarsi portata da uno <lb/>
+mandato dal Palatino che fa instanza <lb/>
+ai Stati di haver soccorso di 4 mila fanti <lb/>
+dovutoli per capitulatione: ma non <lb/>
+sarà essaudito se non vederanno <lb/>
+maggior bisogno et che voglino far da dovero. </p>
+<p>Aviso che i principi s’habbino assicurato di <lb/>
+Francfort: che il convento s’habbi <lb/>
+a far: et discorsi sopra ciò. </p>
+<p>Che il cavalier Vuton sia passato in Inghilterra <lb/>
+haversi caro non s’habbi accompagnato <lb/>
+coll’Ambasciator estraordinario. Dice Mauritio <lb/>
+non saper quello farà l’Ambasciator a favor <lb/>
+de’ Bohemi poiché il Re ama la <lb/>
+pace e per haverla se contenterà esser <lb/>
+ingannato come fece di Vesel. </p>
+<p>Dimanda il secretario se è venuta risposta di <lb/>
+Inghilterra sopra l’ufficio di rinovar le commissioni <lb/>
+all’Ambasciator. Risponde che no ma <lb/>
+aspettarsi li commissari di ritorno con che si <lb/>
+saprà il senso del Re: non ha mancato <lb/>
+il secretario delli uffici commessili e conti-<lb/>
+nuerà secondo le occorrenze. </p>
+<p>L. C. R. </p>
+<p n="139vD">———</p>
+<p>Il conte Gio. di Nassau a Hidelbergh <lb/>
+per comandar le militie del Palatino. </p>
+<p>Il conte Guglielmo suo figliolo ha <lb/>
+visitato il secretario, gli ha corrispos[to]<ptr target="#tn17" n="17"/> <lb/>
+e banchetatolo: si mostra pronto <lb/>
+al servitio della Republica: et ha pregato di <lb/>
+raccommandarlo. </p>
+<p>Che Mauritio habbia detto alla <lb/>
+madre sopra la condotta del fratello <lb/>
+le difficoltà che si frapongono <lb/>
+che si riduca a troppo <lb/>
+stretto partito, esser migliori <lb/>
+le conditioni del conte Gio. Ernesto <lb/>
+ma sperava s’haverà in <lb/>
+consideratione di obligar la casa. </p>
+<p>Il Pac è partito per pià<ptr target="#tn18" n="18"/>. <lb/>
+Manda conto di danari <lb/>
+datili: come anco <lb/>
+ai principi all’armar. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="048" corresp="047" source="137r-138v" >
+<div type="main" facs="main text of attachment I" n="048" corresp="047" >
+<!--<p>Allegato I al n. 47 (cc. 137r-138v)</p>-->
+<pb n="137r" facs="08_137r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Blank page"/></p>
+<pb n="137v" facs="08_137v" rend="0"/>
+<p>1619 a’ 18 luglio nell’Haya </p>
+<table>
+<row role="label">
+<cell><p>Il capitan Pietro<ptr target="#tn19" n="19"/> Adrianson Pach deve haver dalla serenissima Republica di <lb/>
+Venetia in conformità delle sue capitulationi ducati <lb/>
+cento commessimi di pagargli con lettere degl’illustrissimi signori proveditori <lb/>
+all’armar de’ 8 febraro passato 1618 stilo veneto, et questi per mantener li bombardieri obligatosi di <lb/>
+levare, che ridotti in fiorini, et contato il ducato a <lb/>
+ragion del cambio, che correva fanno fiorini</p></cell>
+<cell><p>230 </p></cell>
+</row>
+<row>
+<cell><p>Item disse andar creditore delli ducati cinquanta per mese <lb/>
+assignatili dall’eccellentissimo Senato per suo stipendio, et questi <lb/>
+per mesi sette dalli 7 decembre passato fino alli 7 del <lb/>
+mese presente di luglio rivengono a trecento cinquanta <lb/>
+ducati, che contati a moneta di banco, come <lb/>
+egli asserisce haver sempre havuto, et valutando <lb/>
+il ducato a doi fiorini, et mezo moneta di Holanda <lb/>
+se così però accorderà la serenissima Republica riviene la <lb/>
+summa a fiorini</p></cell>
+<cell><p>875 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>1105 </p></cell>
+</row>
+</table>
+<p>Essendo all’incontro salda la partita dei ducati cento <lb/>
+con fiorini doicento trenta rimane a contar il <lb/>
+resto per le mesate sopra quello ha havuto il Pach a buon conto. </p>
+<p>fiorini 875 </p>
+<p>havuti 684 </p>
+<p>restano 191 fiorini a conto di paghe <lb/>
+875 </p>
+<p>Christoforo Suriano </p>
+<pb n="138r" facs="08_138r" rend="0"/>
+<p>1619 </p>
+<table>
+<row role="label">
+<cell><p>Il capitan Pietro Pach contrascritto deve dar alla serenissima Republica di Venetia havuti <lb/>
+da lui in doi partite una da me colla sua quietanza sotto li 22 marzo passato <lb/>
+et l’altra dal signor Calandrini colla quietanza pur di esso Pach<ptr target="#tn20" n="20"/> fatta sotto <lb/>
+li 30 detto la prima di 138 fiorini; et l’altra di novantadoi fanno in <lb/>
+tutto per la valuta delli contrascritti cento ducati fiorini</p></cell>
+<cell><p>230 </p></cell>
+</row>
+</table>
+<p>Item a conto di sue paghe fiorini seicentoottantaquattro <lb/>
+ricevuti in più partite, come qui sotto, di che doverà esso Pach <lb/>
+esserne fatto debitore da chi spetta </p>
+<table>
+<row role="label">
+<cell><p>a’ 23 aprile 1618: in contanti per ricevuta del medesimo Pach del detto <lb/>
+giorno havuti in doi volte dal signor Filippo Calandrini in <lb/>
+Amsterdam di ordine mio; replicata anco in un’altra <lb/>
+ricevuta de’ 17 luglio. Fiorini</p></cell>
+<cell><p>200 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 12 maggio contati ad esso Pach dal detto Calandrini <lb/>
+in Amsterdam come per ricevuta dello stesso giorno</p></cell>
+<cell><p>50 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 17 detto contati al medesimo da me all’Haya come per <lb/>
+ricevuta de dì detto</p></cell>
+<cell><p>40 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 17 giugno contati pur da me al medesimo nell’Haya ne <lb/>
+appar ricevuto de dì detto</p></cell>
+<cell><p>40 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 28 detto contati<ptr target="#tn21" n="21"/> ancor da me nell’Haya allo stesso <lb/>
+Pach con ricevuta di detto giorno</p></cell>
+<cell><p>25 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 7 luglio. Havuti da esso<ptr target="#tn22" n="22"/> Pach per mano mia pur <lb/>
+nell’Haya con ricevuta dello stesso giorno</p></cell>
+<cell><p>10 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 12 detto ancor datigli ut supra come appar ricevuta <lb/>
+del detto giorno</p></cell>
+<cell><p>18 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>a’ 17 detto item la sera innanti ’l partir suo per lasciar <lb/>
+alla moglie fiorini 40 compresi nella ricevuta <lb/>
+di trecento un fiorini a conto di sue paghe del dì detto</p></cell>
+<cell><p>40 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>alli 18<ptr target="#tn23" n="23"/> item contati pur ad esso Pach fiorini doicento disse <lb/>
+per far il viaggio compresi nella ricevuta de’ 17 ut supra</p></cell>
+<cell><p>200 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>detto item lasciato in mano mia havendoli come per ricev-<lb/>
+uti fiorini 30 da dar alla moglie all’ultimo <lb/>
+agosto per assignamento fatto a lei di 30 fiorini per <lb/>
+mese durante il stipendio suo, che però per li <lb/>
+sussequenti mesi doppo agosto doverò haverne <lb/>
+l’ordine publico fiorini</p></cell>
+<cell><p>30 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>detto item fiorini 31 lasciati in mano mia havendoli come <lb/>
+per ricevuti per dar al signor Gottifreddo Hach per la metà di <lb/>
+un debito di<ptr target="#tn24" n="24"/> fiorini sessanta doi, et per l’altra metà <lb/>
+per sodisfarla doverò haver l’ordine publico et queste ultime <lb/>
+doi partite sono pur comprese nella quietanza di fiorini <lb/>
+301. Questa dunque è di fiorini</p></cell>
+<cell><p>31 </p></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>fiorini</p></cell>
+<cell><p>684</p></cell>
+<cell><p>684 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell><p>914 </p></cell>
+</row>
+</table>
+<p>Christofforo Suriano </p>
+<pb n="138v" facs="08_138v" rend="270"/>
+<p>Conto del capitan Pach </p>
+<p>nella 2<hi rend="superscript">da</hi> n° 116 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Corretto su Ser(eni)tà."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e corretta su -a."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Eccellenze vostre corretto su S(ereni)tà v(ostra)."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue ella depennato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "fe- esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-s- esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue che depennato, come pare."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-n corretta su -l."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-to esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-ll- corretto su -tt-; segue parola depennata."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "Segue -n depennata."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Precede suo depennato."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "di lui aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Lacuna del margine."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Così A."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Esito di correzione."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Segue fata sotto depennato, come pare."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Segue -li depennato."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Ess- corretto su me-, come pare."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "alli 18 corretto su d(ett)o."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-i corretta su -o in apice."</p></note>
+</div>
+</body>
+</text>
+</TEI>

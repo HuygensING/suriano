@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.015 date 1618-04-09</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">015</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 99r-102v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">99r-102v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Despite Suriano’s best efforts to dissuade them, the Admiralty of Rotterdam is preparing to send two additional ships and fifty sailor to the Meuse. He had allocated 15,000 florins in Amsterdam to pay Rotterdam, but also needs to pay Enkhuizen soon. He has arranged new bills of exchange totaling 40,000 ducats but merchants are reluctant to pay due to delays in payment by Venice. Reports that he has undertaken immediate action in warning Admiralties once he heard that the captain who had a ship built for order of Malta has returned to scout potential ships for Duke of Ossuna. Offers best wishes for Easter and expresses hope for a swift departure of the ships. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-04-09">9 aprile 1618</date>
+            <num>030</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="030">
+<div type="main" facs="main text of letter" n="030">
+<!--<p>9 aprile 1618, Amsterdam (cc. 99r-102v)</p>-->
+<pb n="099r" facs="06_099r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 25 </p>
+<p>Serenissimo Principe </p>
+<p>continuando in quelli dell’amiralità di Roterdam il desiderio <lb/>
+di haver ancor nella riviera della Moza le doi altre navi <lb/>
+della loro ripartitione hanno ispediti qui doi del loro collegio <lb/>
+et sono stati poi seguitati da cinquanta marinari per <lb/>
+condurvele, et dimani fano pensiero che partino verso <lb/>
+il Tessel, et uscendo in manco di un giorno dal porto <lb/>
+possono entrar nella Moza. Ho fatto ogni possibile <lb/>
+per disuaderli, ma essi mi hanno confirmato, che se vedranno <lb/>
+perdita di tempo faranno venir le previsioni per di fuori, <lb/>
+et tutti gl’apprestamenti necessarii; a che in fine credo <lb/>
+che si risolveranno. </p>
+<p>Ad essi ho fatto contar quindeci milla fiorini qui in Amsterdam <lb/>
+per haver poi il rimanente della loro compartita nell’<lb/>
+Haya<ptr target="#tn1" n="1"/>, et procuro con ogni diligenza perché <lb/>
+nell’esborso del denaro vi sia prontezza per tanto più <lb/>
+agevolare, et dar solecitudine all’affare, il che è <lb/>
+esseguito molto bene dal signor Calandrini, et suo compagni<ptr target="#tn2" n="2"/> <lb/>
+il quale deve dimani anco far nuovo esborso a questi <lb/>
+signori et a quelli dell’amiralità di Encusen per dar <lb/>
+le paghe ai marinari doppo la mostra fatta; come <lb/>
+si è cominciata questa mattina qui per quelli di queste <lb/>
+cinque navi. </p>
+<p>L’occasione, che ho urgente di haver<ptr target="#tn3" n="3"/> nuova pronta
+<pb n="099v" facs="06_099v" rend="0"/>
+provisione di denari mi ha fatte far altre lettere di cambio <lb/>
+al detto Calandrini di quaranta milla<ptr target="#tn4" n="4"/> ducati dirette al signor Noirott <lb/>
+et doveranno esser pagate per il primo di giugno prossimo. </p>
+<p>Non ho potuto indur questi mercanti a risolutione <lb/>
+di pigliar le lettere a vista, o almeno<ptr target="#tn5" n="5"/> a mezo <lb/>
+uso perché dicono, che volontieri lo farebbono quando <lb/>
+vedessero di non riceverne danno affermando esser molto <lb/>
+maggiore l’incommodo, al quale sono sottoposti, che ’l <lb/>
+vantaggio, che si possono prometter mentre viene allungato <lb/>
+il tempo ai pagamenti ancorché maturate le lettere di <lb/>
+qualche giorni. Il signor Calandrini a chi vivo<ptr target="#tn6" n="6"/> certo con <lb/>
+grande obligo per la dimostratione di particolar devotione <lb/>
+verso la Serenità vostra con gran modestia mi ha rappresentato <lb/>
+questo interesse, et che per il mancamento non ha potuto il <lb/>
+suo corispondente far le rimesse, che haveva in commissione <lb/>
+per la fiera di Francfort, et per la via di Norimbergh, <lb/>
+et scrivendosegli anco il dubio di dilatione nella prima <lb/>
+lettera di 25 milla ducati, che maturò il<ptr target="#tn7" n="7"/> giorno di <lb/>
+venerdì passato ai sei, né havendo avviso, che siano <lb/>
+stati esborsati più che cinque milla delli 20 milla che gli <lb/>
+feci lettere per Londra teme di lunghezza anco nel resto <lb/>
+de’ pagamenti; mi ha per tanto pregato a scriverne <lb/>
+a vostra Serenità come io affettuosamente la prego perché commando
+<pb n="100r" facs="06_100r" rend="0"/>
+che habbi prontamente, et a suo tempo la soddisfattione; et <lb/>
+mi ha considerato, che oltre l’incommodo li causerebbe<ptr target="#tn8" n="8"/> questo <lb/>
+mancamento<ptr target="#tn9" n="9"/> poco buon nome sulle piazze dove <lb/>
+assignava i partiti; et ch’io la pregassi in oltre di <lb/>
+corrisponder colla prontezza dell’esborso del denaro a suo <lb/>
+tempo a quella riputatione, che procurava di conservare <lb/>
+a<ptr target="#tn10" n="10"/> quel serenissimo Dominio in questa piazza appresso <lb/>
+la commune, et appresso li signori Stati Generali in particolare. </p>
+<p>Mi sono allargato nel significar a vostra Serenità questo tanto perché <lb/>
+la cosa per sé stessa lo merita, mentre vi è la necessità <lb/>
+della spesa, et l’intrapresa di proveder tanta summa <lb/>
+di denaro non è a tutti così facile; lasciando alla <lb/>
+prudenza della Serenità vostra il provedere, et ordinare <lb/>
+la pronta sodisfatione, che sarà con publico servitio. </p>
+<p>Quel Capitano, che ha condotto a Malta il vassello fatto fabricar <lb/>
+qui da quella religione è ritornato in questi paesi <lb/>
+con commissioni del viceré di Napoli di comprar <lb/>
+qui quattro<ptr target="#tn11" n="11"/> navi. Se n’è lasciato intender <lb/>
+con persona che me lo ha riferto, et che tiene lettere <lb/>
+per li signori Stati, et per sua Eccellentia, che le andava <lb/>
+innanti la compreda di dette navi sarebbe stato <lb/>
+capitano di esse, et arrivato a Napoli haveva promessa <lb/>
+dal Viceré sudetto, che sarebbe stato amiraglio della
+<pb n="100v" facs="06_100v" rend="0"/>
+della* flotta. Questo è vero che ha havuti cento scudi per far <lb/>
+il viaggio, et una catena d’oro, cola quale è andato <lb/>
+caminando per Amsterdam, tutti presenti del signor duca <lb/>
+di Ossuna. Di questo tanto havendolo saputo venerdì <lb/>
+mattina ne ispedii l’avviso alli signori Sati perché <lb/>
+impedissero a costui il trafico, et la pratica, et qui ne <lb/>
+ho parlato a’ signori dell’Amiralità, come farò dimani ad <lb/>
+Encusen, et lo stesso ufficio ho fatto anco con li deputati <lb/>
+di Roterdam che sono qui; né mancarò di ogni diligenza <lb/>
+ritornato all’Haya: perché non succedi cosa alcuna <lb/>
+in pregiuditio della Serenità vostra. </p>
+<p>Ancor non ho sicuro avviso, che la<ptr target="#tn12" n="12"/> levata che procura Gio. <lb/>
+de la Gamba per Napoli di faccia, questo di certo è stato <lb/>
+scritto al signor Calandrini per doi mani di lettere, che a Dun-<lb/>
+cherchen non vi erano navi per imbarcar genti, et che là <lb/>
+non se ne era<ptr target="#tn13" n="13"/> manco trattato di quello succederà <lb/>
+ne darò riverente conto alla Serenità vostra; così piacesse <lb/>
+a Dio, che con l’augurar, come faccio alle Signorie vostre eccellentissime <lb/>
+felici<ptr target="#tn14" n="14"/> la santissime feste di Pasqua, potessi anco <lb/>
+dirle la certa partenza dei suoi vasselli, la quale spero <lb/>
+che non possi tardar più, che della prossima settimana <lb/>
+dovendo appresso dimani questi che sono qui partir <lb/>
+verso il Tessel, se però non succede qualche nuovo impedimento
+<pb n="101r" facs="06_101r" rend="0"/>
+o per l’istesse feste di Pasqua, o per altro che prolunghi <lb/>
+qualche dì divantaggio; che Dio non lo permetti. Gratie etc. </p>
+<p>Da Amsterdam a’ 9 aprile 1618 </p>
+<p>di vostra Serenità</p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="101v" facs="06_101v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="102r" facs="06_102r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="102v" facs="06_102v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> n° 25 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="030">
+<!--
+<p n="102vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>9 april 1618 ricevute a’ 25 detto </p>
+<p>Haya. n° 25 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "pro" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "40 m(ila)" added above the line.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by deleted words.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "venerdì" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the deleted word.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Precedes "manca" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes a "v(ostra) Ser(eni)tà" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "vasselli" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "tratta" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Precedes the struck-through word.</p></note>
+</div>
+</body>
+</text>
+</TEI>

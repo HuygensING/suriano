@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.012 date 1617-10-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">012</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 70r-71v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">70r-71v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter to report that Levenstein has been able to raise 3000 men for the Venetian Republic who will embark soon on twelve warships on the river Ems. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Delfzijl</settlement>
+            <date when="1617-10-19">19 ottobre 1617</date>
+            <num>022</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="022">
+<div type="main" facs="main text of letter" n="022">
+<!--<p>19 ottobre 1617, Delfzijl (cc. 70r-71v)</p>-->
+<pb n="070r" facs="05_070r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>doppo haver il signor conte Georgio Lodovico di Levenstein <lb/>
+superate con gran prudenza, et desterità le difficoltà <lb/>
+che se gli sono andate intromettendo nel negotio della <lb/>
+levata, ch’egli ha fatto per servitio della Serenità vostra delli <lb/>
+tre milla fanti tanto in Amsterdam per la preparatione <lb/>
+de’ vasselli quanto per l’interdittione del passaggio alla <lb/>
+soldatesca, et per il suo imbarco in questo Paese, et <lb/>
+in questa fiumara d’Emns, ha finalmente deputato <lb/>
+il giorno d’hoggi per l’imbarco di lui, et per far <lb/>
+vela in mare con dodici navi ad ordine per tal <lb/>
+effetto, desiderando d’esser col favor del signor Dio <lb/>
+quanto più presto nello stato di vostra Serenità, et al suo <lb/>
+servitio. Non serviranno queste ad altro, che per <lb/>
+accompagnarlo con esse, poiché m’assicurò che <lb/>
+da sé stesso darà a conoscer a vostra Serenità il suo <lb/>
+devoto, et riverente animo, et l’ardente desi-<lb/>
+derio, che dimostra di ben servire, et di <lb/>
+spender la vita stessa per quella serenissima Republica. Gratie etc. </p>
+<p>Di Delfsil a’ 19 ottobre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="070v" facs="05_070v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="071r" facs="05_071r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="071v" facs="05_071v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="022">
+<!--
+<p n="071vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29 ottobre 1617 ricevute a’ 24 gennaro </p>
+<p>Secretario Surian </p>
+<p>Accompagna colle presenti <lb/>
+il conte di Levestein </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    
+</div>
+</body>
+</text>
+</TEI>

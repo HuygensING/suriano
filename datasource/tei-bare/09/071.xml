@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.071 date 1620-12-01</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">071</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 350r-351v, 354r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">350r-351v, 354r-v, 352r-353v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Dardani has been to Amsterdam to negotiate about grain shipments and the proposal is not conform the instructions from Venice, so Suriano attaches the proposal and requests guidance on what to do. One ship has been readied by Noirott for Venice. Something went wrong with payment of Dardani’s salary. One document attached: "Calcolo per li formenti"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-12-01">1 dicembre 1620</date>
+            <num>107, 108</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="107">
+<div type="main" facs="main text of letter" n="107">
+<!--<p>1 dicembre 1620, L’Aia (cc. 350r-351v, 354r-v)</p>-->
+<pb n="350r" facs="09_350r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 52 fin 53 </p>
+<p>Serenissimo Principe </p>
+<p>conforme allo scritto da me colle precedenti lettere mie n° 250 <lb/>
+fin 251 che replicate vengono accompagnate con queste mi <lb/>
+valsi della prontezza del signor Dardani per andar in <lb/>
+Amsterdam a fine di sottrar quello si potrebbe far con vantaggio <lb/>
+del publico nella materia de’ formenti prima, che d’entrar in <lb/>
+trattatione de’ partiti. È tornato hoggi solamente<ptr target="#tn1" n="1"/> rispetto al vento <lb/>
+che si è messo stravagante, et mi riferisce che Bisuti <lb/>
+Bentio, Noirott, et Strozzi havevano avvisato alcuni mer-<lb/>
+canti in Amsterdam del bisogno, et dell’ordine, et com-<lb/>
+missione, che dalla Serenità vostra mi era stato dato; anziché <lb/>
+Nichetti, et altro corrispondenti con Venetia<ptr target="#tn2" n="2"/> dissero <lb/>
+al signor Dardani, che sapevano molto bene perché era <lb/>
+venuto; ond’egli cominciò a ricercarli quello che <lb/>
+haverebbono fatto, et essi doppo varie rimonstranze <lb/>
+de’ interessi, et d’altro li hanno dato l’aggiunto calcolo, <lb/>
+et conditioni, le quali vedendo io non esser conformi <lb/>
+a quelle, che mi vengono prescritte dalla Serenità vostra, et riferen-<lb/>
+domi questa esser la final risolutione, con che l’havevano <lb/>
+lasciato partire non ho saputo mettermi a pensar di far <lb/>
+alcun partito. Discorda l’ordine, et commissione di lei con <lb/>
+questo calcolo nel tempo, nel prezzo, nella conditione <lb/>
+della consegna, et in tutti quei capi, che dalla prudenza <lb/>
+dell’Eccellenze vostre sarà molto ben compreso. Elle considereranno <lb/>
+quello più le parerà meglio, la stagione del verno <lb/>
+è un gran incontro, et li meranti per questo non
+<pb n="350v" facs="09_350v" rend="0"/>
+sentono manco di volervisi assoggietire; come par loro cosa <lb/>
+nuova la consegna nei magazini quella che sempre è <lb/>
+stata fatta a bordo; facendo assai capitale sopra le spese <lb/>
+che da Malanioco a Venetia converrebbono far essi <lb/>
+come forastieri, che al certo tanto non costerebbe <lb/>
+a vostra Serenità. Sopra li primi avvisi, c’hebbero questi mer-<lb/>
+canti di qualche mancamento ch’ella haveva de’ Grassi <lb/>
+hanno<ptr target="#tn3" n="3"/> caricata una nave con cento lastri <lb/>
+di formento, che sarà diretta al Noirott mercante <lb/>
+costì molto ben conosciuto dall’Eccellenze vostre. Con lui po-<lb/>
+trebbono trattare poiché è sul luoco, et così valersi <lb/>
+della commodità. Il vascello era già pronto alla <lb/>
+vela in Tessel, et si teneva, che fosse al mare qualche <lb/>
+giorni sono. In ogni modo io attenderò l’ordine, <lb/>
+che dalla Serenità vostra mi potesse venir in questo proposito. </p>
+<p>Al ritorno, che ’l signor Dardani ha fatto d’Amsterdam trovò <lb/>
+lettere del fratello con le quali lo avvisa di qualche <lb/>
+difficoltà incontrata nell’elevatione de’ suoi mandati <lb/>
+l’una che ’l denaro non l’habbi ad haver in<ptr target="#tn4" n="4"/> moneta <lb/>
+di banco ma corrente, che doverà pagar doi decime <lb/>
+et che bisognava aspettar il ritorno dell’eccellentissimo Trivisano <lb/>
+per saper se gli era dall’Eccellenza sua stato dato alcun denaro a <lb/>
+conto del suo stipendio, per questo egli dice non haver <lb/>
+havuto alcuna cosa, et poiché l’Eccellenza sua può esser al presente <lb/>
+poco discosta da Venetia possa certificarsene, ma
+<pb n="351r" facs="09_351r" rend="0"/>
+quanto alla moneta dice haver sempre ricevuti li suoi <lb/>
+salarii in buona moneta massime sendo fatti i pagamenti <lb/>
+o dalla zecca, o dai camerlenghi di communi, et supplica <lb/>
+la Serenità vostra humilmente, che così sia osservata con esso, come <lb/>
+anco che habbi a pagar una sola decima credendo, che <lb/>
+così si osservi con altri servitori suoi. Le fa considerar per <lb/>
+mio mezo, che le spese son grandi in questi paesi, et io <lb/>
+posso renderne buon testimonio. Merita l’amor, et buona <lb/>
+volontà, ch’egli colla<ptr target="#tn5" n="5"/> diligenza insieme mostra <lb/>
+al servitio publico d’esser dalla munificenza della Serenità vostra <lb/>
+favorita nella sua riverente instanza. </p>
+<p>Ha egli messo in chiaro tutto quel denaro, che di ragion publica <lb/>
+mi o o con tratte, o con rimesse pervenuto nelle mani, da che <lb/>
+mi trovo a questo ministerio; saranno qui aggiunti <lb/>
+li fogli separati di cosa in cosa, et di spesa in spesa o di <lb/>
+viaggi, o di levate, o di noleggi, o d’altro. Hora saremo <lb/>
+dietro ad amiralità per amiralità et a nave per nave <lb/>
+per far il conto destinato del dar, et havere dell’impiego <lb/>
+del denaro dato alle Amiralità sodette et di quanto occorerà <lb/>
+né mancaremo di solecitare per venir quanto più presto <lb/>
+alla speditione. </p>
+<p>Di questa n’è gran bisogno perché al presente non sento a battermi <lb/>
+alla posta che capitani dei vasselli, et mogli dei<ptr target="#tn6" n="6"/> capitani <lb/>
+morti, che vogliono haver saldo dei loro conti, et io <lb/>
+usandoli le migliori parole del mondo procuro di divertirli
+<pb n="351v" facs="09_351v" rend="0"/>
+dalle instanze. Anco li partionevoli dei vasselli sono venuti <lb/>
+a solicitarmi per il pagamento dei restanti noleggi; et io <lb/>
+pur vorrei veder se potessi in qualche cosa avantaggiar <lb/>
+il publico, et vedendo il caso disperato allhora valermi <lb/>
+dell’auttorità, che in questo proposito m’ha data la Serenità vostra <lb/>
+con precedenti lettere sue; ma se lo farò sarà con qualche <lb/>
+cautela per riservarmi alcun regresso se potrà mai per <lb/>
+vantaggio, et servitio publico. </p>
+<p>Il mio pachetto ordinario questa mattina m’è arrivato ma <lb/>
+senza lettera della Serenità vostra. Gratie etc. </p>
+<p>Dall’Haya di primo decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="354r" facs="09_354r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="354v" facs="09_354v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 252 fin 253 </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="107">
+<!--
+<p n="354vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>Primo decembre 1620 ricevute 24 detto n° 252 </p>
+<p>Haya. Secretario Surian. Prima </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="108" corresp="107" source="352r-353v" >
+<div type="main" facs="main text of attachment I" n="108" corresp="107" >
+<!--<p>Allegato I al n. 107 (cc. 352r-353v)</p>-->
+<pb n="352r" facs="09_352r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere prima del secretario Surian dall’Haya de primo decembre 1620 de n° 52 </p>
+<table>
+<row role="label">
+<cell><p>Un lastro de formento val a presente fiorini 90 d’oro de piachi <lb/>
+28 l’uno fanno fiorini correnti</p></cell>
+<cell><p>fiorini 126 </p></cell>
+</row>
+<row>
+<cell><p>Datio, et uscita, per ogni lastro</p></cell>
+<cell><p>fiorini 6 </p></cell>
+</row>
+<row>
+<cell><p>Spese diverse fin alla nave ut sopra<ptr target="#tn7" n="7"/></p></cell>
+<cell><p>fiorini 6 </p></cell>
+</row>
+<row>
+<cell><p>Nolo a ducati 16, moneta di banco per lastro</p></cell>
+<cell><p>fiorini 40 </p></cell>
+</row>
+<row>
+<cell><p>Segortà a 9 per ciascheduno, con la santaria in tutto x per ciascheduno</p></cell>
+<cell><p>fiorini 14 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>fiorini 192 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><p>Li suddetti fiorini vagliono lire 3 moneta corrente di Venetia <lb/>
+che fanno</p></cell>
+<cell><p>lire 576 </p></cell>
+</row>
+<row>
+<cell><p>Un lastro di formento è libre 4000, d’Amsterdam, che quasi <lb/>
+sono simile alle libre di Venetia alla grossa, le quali <lb/>
+fanno a libre 129 per staro senza saco</p></cell>
+<cell><p>stara 31 </p></cell>
+</row>
+<row>
+<cell><p>Lettere per il sudetto costo, et conto valerebbe il staro</p></cell>
+<cell><p>lire 18, 11 19/31 </p></cell>
+</row>
+</table>
+<p>Quelli ch’hanno fatto offerta de intraprender il partito di condur alla serenissima Republica <lb/>
+formenti da questi paesi, non si vogliono obligare, se non con le sottoscritte conditioni. <lb/>
+Lettere conduranno a Malamoco li formenti a loro rischio, eccetuato, neufraggio, fuoco, <lb/>
+gento, et corsari, et consignarli a bordo di nave, con esser scaricati in termine de <lb/>
+un mese doppo l’arrivo a Malamoco in ragion di lire 21, moneta corrente per ogni staro <lb/>
+venetiano de libre 132, col saco et passato il mese guastandosi il formento sarà a danno <lb/>
+della serenissima Republica, et la stalia sia per fiorini 50, al giorno de lire 3 l’uno sudette per le navi <lb/>
+de’ cento lastri l’una, et da detto carico in su a rata portione. </p>
+<p>Et dovendo condur li formenti al magazino, alla consegna, a tutte loro spese fin <lb/>
+dentro a detto magazino lire 23 sudette per ogni staro. </p>
+<p>Intendono li sudetti mantener il sudetto prezo, mentre che, il formento, et li noleggi <lb/>
+non faccino alteratione, come accade d’una settimana all’altra, et crescendo dover <lb/>
+recever quel tanto di più come anco calando, far tanto di meno alla rata. </p>
+<p>Sendo al presente la stagione avanzata nel cuore del verno, li mercanti non vogliono <lb/>
+sottometersi ad alcun tempo limitato, poiché non possono esser sicuri della speditione <lb/>
+delle navi in mare, come anco carricati i formenti nelle barche in Amsterdam <lb/>
+per mandarli a bordo in Tessel, rispetto alli giacci che da un giorno all’altro <lb/>
+possono sopravenire, onde restarebbone le barche sequestrate nel giaccio <lb/>
+a manifesto rischio anco della total perdita di esse. Onde intenderebbono <lb/>
+che condotti i grani nella nave in questa stagione però, et essendo la nave <lb/>
+totalmente alla vella, né aspettando che l’uscire fino a quel tempo dove-<lb/>
+rebbe correr il rischio la serenissima Republica, come anco se in detto tempo, et nel viaggio <lb/>
+per detta causa si riscaldassero. </p>
+<pb n="352v" facs="09_352v" rend="0"/>
+<p>Ricercano ancora, che carricati li formenti, et poste le nave alla vella <lb/>
+gli siano esborsati li danari per un terzo del valsente, in Venetia <lb/>
+a chi ordeneranno. </p>
+<p>Et non volendo recever li formenti da’ partitanti, si esebiscono li medesimi <lb/>
+per farne la provisione con tutti quelli avvantaggi possibili, con <lb/>
+l’assistenza di persona publica, fin alla espeditione, con provigione di <lb/>
+doi per cento, et in tal caso restarà ad elettione della serenissima Republica <lb/>
+il far o, non far la segortà. </p>
+<pb n="353r" facs="09_353r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="353v" facs="09_353v" rend="270"/>
+<p>Calcolo per li formenti </p>
+<p>nella prima n° 252 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "hav" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "buo" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "diling" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "ut sopra" added.</p></note>
+</div>
+</body>
+</text>
+</TEI>

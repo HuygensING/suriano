@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.027 date 1616-12-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">027</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3,fol 193r-194v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">193r-194v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Following Venetian credit instructions given to Quingetti and Vancaster, reports that he has already taken out 6,000 ducats. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-12-20">20 dicembre 1616</date>
+            <num>065</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="065">
+<div type="main" facs="main text of letter" n="065">
+<!--<p>20 dicembre 1616, L’Aia (cc. 193r-194v)</p>-->
+<pb n="193r" facs="03_193r" rend="0"/>
+<head>main text of letter</head>
+<p>Serenissimo Principe </p>
+<p>domenica passata mi venero lettere all’Haya del signor <lb/>
+Gasparo Quigneti di Hamsterdam al quale furono dirette <lb/>
+quelle di credito del signor Melchior Quigneti suo fratello <lb/>
+de’ 15 mila ducati, et d’altrettanti del signor Vancastro inviatemi <lb/>
+dalla Serenità vostra de’ 25 del passato; et havendomi scritto, <lb/>
+che in virtù de’ commissione datagli dal signor Gratioso del <lb/>
+Calice, che dovesse immediate far provisione per me della <lb/>
+detta somma l’haveva fatta d’una parte, et che <lb/>
+haverebbe supplito per il resto. Io stimai bene <lb/>
+transferirmi qui perché non passasse più innanti <lb/>
+non mi trovando per hora il bisogno: tuttavia <lb/>
+per tutto quello potesse occorrere non ho creduto <lb/>
+esser fuori di proposito haver pronte qualche <lb/>
+somma in questa piazza; et per tanto ho <lb/>
+ricevuto il vallente di sei milla ducati de’ quali <lb/>
+gliene ho fatta quietanza, che sarà da lui <lb/>
+mandata al medesimo signor Melchior suo fratello <lb/>
+perché con essa sia sodisfatta da vostra Serenità et <lb/>
+doverà il rimborso esser fatto alli vinti del <lb/>
+mese di febraro venturo in moneta di banco
+<pb n="193v" facs="03_193v" rend="0"/>
+havendo havuto qui il denaro a cinquanta un piaco <lb/>
+per cento come corre<ptr target="#tn1" n="1"/> appunto sulla piazza. Et <lb/>
+quando non mi prevagli del denaro; spero che lo <lb/>
+rimetterò a vostra Serenità allo stesso prezzo. Et di tanto <lb/>
+ho stimato mio debito prima di partir, dar rive-<lb/>
+rente conto alle Signorie vostre eccellentissime. </p>
+<p>Non ho d’aggiungerle in questo più di quanto <lb/>
+le scrissi colle mie de’ 17 se non che ’l signor Conte partì <lb/>
+hieri alla volta del Tessel per<ptr target="#tn2" n="2"/> veder quelle <lb/>
+genti; et quello che più mi duole, che ’l tempo <lb/>
+continua tuttavia nello stesso d’esser contrario <lb/>
+ma pur si spera coll’aiuto di Dio il presto <lb/>
+cambiamento al buono. Gratie etc. </p>
+<p>Dall’Hamsterdam a’ 20 decembre 1616 <lb/>
+<lb />di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="194r" facs="03_194r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="194v" facs="03_194v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="065">
+<!--
+<p n="194vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 decembre 1616 ricevuta a’ 5 gennaro </p>
+<p>Secretario Suriano dall’Haya </p>
+<p>Da Amsterdam sola </p>
+<p>Ha havuto ducati 6 mila da Gasparo <lb/>
+Quingetti, sono del credito fattogli <lb/>
+capitare dal fedelissimo Gratioso dal Calice. </p>
+<p>Ha fatto la quietanza di detti ducati 6 mila <lb/>
+che doveranno pagarli qui in buona <lb/>
+valuta alli 20 di febraro. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "qu-" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

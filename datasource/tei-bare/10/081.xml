@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.081 date 1621-12-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">081</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 406r-409v, 419 r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">406r-408v, 419 r-v, 409r-v, 413r-414v, 418r-v, 410r-412v, 415r-417v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>With the arrival of cold, Maurice and officers have retreated and organised the soldiers to keep an eye on the border. Spinola’s troops are also in garrison and reports that many have died or fled. Both sides face a lack of money. Nothing has changed near the siege of Jülich, news that Tábor in Bohemia has surrendered, only hope for Frederick is a resolution of the English parliament. Frederick has shown Suriano the intercepted letters of the Emperor, some doubt it will convince James I to act as Gondomar has a firm hold on the king. A minister from Geneva has arrived in The Hague to request their help against the Duke of Savoy. Twenty eight ships have set sail from Texel to the West Indies, but only eight are armed, the other twenty vessels are transporting Anabaptist sailors. Mercantile ships will set sail for Italy. Reports that captain Storm has visited him: explained that the price of grain has greatly increased and reminded of his offer to build war ships (letters December 1620). Ships from Brasil with sugar have arrived. Two documents attached: a copy of a letter to the captain Storm and copies from letter of the Emperor which Frederick V</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-12-13">13 dicembre 1621</date>
+            <num>132, 133, 134</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="132">
+<div type="main" facs="main text of letter" n="132">
+<!--<p>13 dicembre 1621, L’Aia (cc. 406r-408v, 419 r-v)</p>-->
+<pb n="406r" facs="10_406r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 354 comincia 353 </p>
+<p>Serenissimo Principe </p>
+<p>la stagione avanzatasi nel rigor del freddo, l’infelicità delle habi-<lb/>
+tationi nel sito, ove stavano le armate; et le malatie nei soldati <lb/>
+hanno necessitata sua Eccellenza a retirarsi, come ha fatto colli più prin-<lb/>
+cipali officiali, havendo prima dati buoni ordini perché a <lb/>
+tutte le frontiere fosser distribuite le<ptr target="#tn1" n="1"/> militie<ptr target="#tn2" n="2"/> in <lb/>
+sorte, che per ogni accidente di attentato fossero pronte alla <lb/>
+difesa. </p>
+<p>Già il marchese Spinola s’era anco mosso dal luoco ove era <lb/>
+et haveva cominciato a far passar alcune compagnie <lb/>
+alle sue guarnigioni; et mi scrive il Pasini, che detto <lb/>
+Spinola si attendeva a Brusseles. </p>
+<p>Molti sono li amalati tanto dalla parte di qua, che de’ <lb/>
+Spagnoli; ma da quella molti più, et particolarmente del reggi-<lb/>
+mento dei Lorenesi, et Alemani pochissimi ne sono restati <lb/>
+in vita, et di questi, et d’Italiani molti, et molti sono <lb/>
+fuggiti. </p>
+<p>Scrivono diversi, che Spagnuoli si trovano in gran strettezza <lb/>
+di denari, et non si sente altro, che fallimenti nella piazza <lb/>
+di Anversa, et il signor principe d’Oranges mi disse, che li signori <lb/>
+Stati erano avvisati, che ad essi Spagnoli era mancata <lb/>
+per il ritiramento de’ Rubiani (così parmi disse sua Eccellenza venir <lb/>
+scritto) una lettera di una grossa partita di denari. </p>
+<p>Se quelli sono in pena, questi signori anco si trovano a stretti <lb/>
+partiti, mancando grandemente la piazza di Amsterdam <lb/>
+di valsente, et di<ptr target="#tn3" n="3"/> credito stante il poco trafico, che <lb/>
+corre al presente, et molti di quei mercanti stanno
+<pb n="406v" facs="10_406v" rend="0"/>
+titubanti; non si perdono però questi signori d’animo; et si confidano <lb/>
+di poter sostenersi coll’aiuto anco delli amici, contra sì <lb/>
+potente inimico; ma a dir la verità hanno bisogno di esser <lb/>
+aiutati da dovero. </p>
+<p>Li stati di Holanda sono dietro a trovar il mezo di cavar denari <lb/>
+si sente già, che si tirerà doi per mille, et si va essaminando <lb/>
+diversi altri mezi. </p>
+<p>Tutti quelli, che sono ritornati dall’armata affermano, che devono <lb/>
+gratie a Dio queste Provincie, che li habbi data in quest’anno <lb/>
+per loro difesa la piova, et li mali tempi; altrimenti Spagnuoli <lb/>
+haverebbono fatto il lor profitto, tanto in Fiandra, che <lb/>
+particolarmente di là il fiume Isel; et monsieur Tinen stipen-<lb/>
+diato, et servitore della Serenità vostra m’ha affermato, che se il <lb/>
+Marchese era saputo, et proveduto, come si temeva ha-<lb/>
+verebbe certo presa una delle doi piazze Emerich, o Rees; <lb/>
+overo anco tutte doi. </p>
+<p>Il signor principe Henrico è restato a Nimeghen con ordine di <lb/>
+trattenervisi per qualche spatio di tempo, et sin tanto, che si <lb/>
+vegga, che Spagnuoli si siano in maniera retirati, che non <lb/>
+possino suprender facilmente, et attentar qualche atto pregiu-<lb/>
+diciale. </p>
+<p>Resta l’assedio di Giuliers nelli stessi termini di prima, et il <lb/>
+marchese Spinola si è conferito a quella parte per gl’ordini <lb/>
+necessarii al conte Vandenbergh: intanto si è publicato <lb/>
+a Brusseles, che ’l governator della detta piazza sia morto, <lb/>
+di che qui non se n’ha finhora novella, et Spagnuoli
+<pb n="407r" facs="10_407r" rend="0"/>
+sono entrati in speranza di haver tanto più presto essa piazza <lb/>
+nelle loro mani. Intorno la quale mi disse sua Eccellenza che si trovava <lb/>
+ancor ben provista di ogni cosa, et particolarmente di biave. </p>
+<p>Qui è venuto avviso della resa di Tabor in Bohemia alli <lb/>
+imperiali con le conditioni ordinarie di honore ai soldati <lb/>
+nell’uscir della piazza: et che li gentilhuomini, che vi erano <lb/>
+dentro devevano cadauno a parte far le sue conditioni <lb/>
+coll’Imperatore; che restavano ancor doi altre piazze in <lb/>
+quel Regno a devotione di questa Maestà; ma teme però <lb/>
+che quelle anco siano per cadere. </p>
+<p>La sola speranza di lei resta nelle risolutioni vigorose del parla-<lb/>
+mento d’Inghilterra, et per consequente del Re suo suocero per <lb/>
+rihaver il suo; non senza timore però, che li aiuti siano <lb/>
+tardi, o si habbi più che gran fatica a tirarlo fuori delle <lb/>
+mani di Baviera, et della casa d’Austria. </p>
+<p>Mi trovai in corte giovedì passato, et il Re mi fece honore di <lb/>
+communicarmi quelle lettere dell’Imperatore, che furono inter-<lb/>
+cette da Mansfelt, et delle quali la settimana passata <lb/>
+riverentemente scrissi alla Serenità vostra in sostanza alcuna cosa nelle <lb/>
+mie lettere n° 352 che mando qui aggiunte replicate, <lb/>
+facendomene haver copia con instanza di mandarla <lb/>
+a vostra Serenità come faccio colle presenti, a fine che vedesse, et <lb/>
+comprendesse la Serenità vostra il termine col quale si è<ptr target="#tn4" n="4"/> <lb/>
+proceduto colla Maestà sua, con il Re suo padre, et <lb/>
+con chi si è interessato nel suo negotio. Hebbi curiosità <lb/>
+di ricercar la Maestà sua se haveva ella le autentiche, mi disse,
+<pb n="407v" facs="10_407v" rend="0"/>
+che non, che erano in mano dei suoi consiglieri a Heidelbergh <lb/>
+ma che la copia era venuta autenticata da loro. Alcuni <lb/>
+sono qui, che dubitano, che in Inghilterra non sia prestata fede <lb/>
+a dette lettere, che siano inventate, o che almeno siano Spagnoli <lb/>
+per far creder così: pensando, che Gondemar non sia per cader <lb/>
+dal possesso, con che si è trattenuto sin qui in Inghilterra di far <lb/>
+creder tutto quello, che vuole; et con desiderio si sta <lb/>
+attendendo avvisi da quella parte, non si essendo inteso alcuna <lb/>
+cosa doppo la partita di qua delli ambasciatori per Londra. </p>
+<p>Ancor non si sa qui sicurezza alcuna, che Heidelbergh sia assediato <lb/>
+né altro s’intende del conte di Mansfelt; ma di hora in hora <lb/>
+queste maestà aspettano qualche avvisi. </p>
+<p>Questa Maestà non ha ancor ancor fatto meco alcun formato ufficio per <lb/>
+rappresentarlo a vostra Serenità solo nel darmi le dette lettere per <lb/>
+cavarne copia; mi disse haverei bisogno anco della <lb/>
+serenissima Republica, et vi prego rappresentarle al vivo quanto <lb/>
+occorre. </p>
+<p>Di Brusseles mi scrive il Pasini, che ivi si trovava un personag-<lb/>
+gio, che si diceva esser dalla parte del conte di Mansfelt, et era spesato dal publico, et che trattasse di qualche <lb/>
+accommodamento; ma qui non ne ho incontro ancora di <lb/>
+alcuna sorte. È vero che poche hore sono, che mi perven-<lb/>
+gono le lettere da quella parte, m’informerò per darne col <lb/>
+prossimo ordinario riverente conto a vostra Serenità. </p>
+<p>Hoggi deve haver audienza un ministro, et professor di Gene-<lb/>
+vra venuto per consiglio, et per aiuti nel sospetto, che
+<pb n="408r" facs="10_408r" rend="0"/>
+quei cittadini hanno delle armi del signor duca di Savoia; por-<lb/>
+tando che habbi fatte gran levate in Lorena di più di <lb/>
+quattromilla fanti, che in Savoia si siano fatte di gran <lb/>
+provisioni, et che tenghino per fermo Genevrini dover <lb/>
+servir la mossa contra di loro. Fin qui ho cavato <lb/>
+che consulteranno si; ma sarà per lasciarlo partir mu-<lb/>
+nito più consigli, che di denari. </p>
+<p>Questi signori hanno havuto avviso, che dalla Serenità vostra si farà presto <lb/>
+elettione d’ambasciatore per corrisponder a quella fatta da loro <lb/>
+et io ad alcuno, con chi mi è occorso per visita trovarmi <lb/>
+l’ho confirmato, et ho cavato, che difficil sarà al signor <lb/>
+Arsen iscusarsi; et massime, che ’l signor principe Mauritio <lb/>
+ha mostrato col padre di esso Arsen non sentir, che si <lb/>
+facci altra mutatione; anzi gli habbi detto, che bisognerà, <lb/>
+che si metti ad ordine. </p>
+<p>Vinti otto navi sono uscite lunedì dal Tessel per andar nell’<lb/>
+Indie Occidentali per sale, et tentar di ritirarne; <lb/>
+quello che non hanno potuto far ultimamente altre ricevute <lb/>
+da quella parte sendo state cacciate da Spagnuoli. Non <lb/>
+so come queste potranno far alcuna cosa, mentre <lb/>
+solo otto di esse sono armate, et le altre vinti disar-<lb/>
+mate sendovi sopra marinari della religione de’ <lb/>
+Anabatisti, li quali non hanno pur un moschetto, né <lb/>
+una spada, non servendosi, che del solo vento per difesa <lb/>
+quando lo possono haver per fuggire. Le altre otto <lb/>
+vanno risolute per battersi con Spagnuoli, se li faranno <lb/>
+qualche ostacolo, come si tiene per fermo, che lo
+<pb n="408v" facs="10_408v" rend="0"/>
+haveranno; né si cureranno di difender l’altre. </p>
+<p>Le navi mercantili destinate per Italia, et per Levante si trovavano <lb/>
+in Tessel fin della settimana passata, et già si crede, che possino <lb/>
+essere uscite, come anco le navi da guerra, che li devono <lb/>
+far scorta erano pronte, onde havendo scritto in Amsterdam <lb/>
+per il negotio de’ formenti<ptr target="#tn5" n="5"/> per<ptr target="#tn6" n="6"/> veder se <lb/>
+ero in tempo di farne partito mi è stato rappresen-<lb/>
+tato, che era<ptr target="#tn7" n="7"/> al presente troppo tardi<ptr target="#tn8" n="8"/> et<ptr target="#tn9" n="9"/> che non si haverebbe <lb/>
+potuto trovar navi, che volessero assumersi di far <lb/>
+il viaggio. Il che m’è stato anco confermato dal capitan <lb/>
+Storm, ch’è venuto a trovarmi, che mi ha anco confir-<lb/>
+mato esser cresciuti di maggior prezzo li grani, et che <lb/>
+li noli delle navi anco sono cresciuti. Onde vedo diffi-<lb/>
+cile il poter per hora essequir il commandamento della Serenità vostra <lb/>
+venuto nelle sue lettere de’ 19 del passato in questo <lb/>
+proposito de’ formenti. Tuttavia, partendo questa <lb/>
+sera di ritorno in Amsterdam il medesimo capitan Storm <lb/>
+gli darò ordine di tentar quello si possi, et se vederà <lb/>
+apparenza, che mi avvisi perché immediate mi metterò <lb/>
+in camino per quella piazza. </p>
+<p>Egli havendo presentito, che Spagnuoli a Napoli, et in Sicilia <lb/>
+preparano armata da mare; invigilando al servitio di <lb/>
+vostra Serenità è venuto a raccordarmi, ch’io riverentemente avvisass[i]<ptr target="#tn10" n="10"/> <lb/>
+che ella potrebbe valersi del raccordo che con lettere <lb/>
+le diede l’anno passato nel mese di decembre, et anco <lb/>
+quando fu costì in persona già cinque o sei mesi <lb/>
+passati di fabricar qui vasselli di guerra; et tanto più
+<pb n="419r" facs="10_419r" rend="0"/>
+che vostra Serenità al presente per il mancamento del trafico haverebbe<ptr target="#tn11" n="11"/> li materali <lb/>
+a<ptr target="#tn12" n="12"/> miglior prezzo dell’anno passato; ma che <lb/>
+havendo l’intentione di far qualche cosa non bisognarebbe <lb/>
+perder tampo. Io ho stimato a proposito perché habbi la <lb/>
+Serenità vostra a mano la cosa cavar copia della lettera, che <lb/>
+egli scrisse a primo di decembre l’anno passato, et io <lb/>
+mandai con mie del medesimo anno, et giorno, sopra <lb/>
+che si attenderà li suoi commandamenti. Gratie etc. </p>
+<p>Dall’Haya li 13 decembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>In questo punto intendo, che tre navi, che venivan dal Brasil <lb/>
+con zuccari sono state prese doi dalli vasselli mercantili, che <lb/>
+venivano dall’Indie Occidentali, et<ptr target="#tn13" n="13"/> la terza da una <lb/>
+delle navi da guerra dell’amiralità di Roterdam in queste <lb/>
+vi erano cinquecento, et cinquanta cassa di essi zuccari <lb/>
+condotte a Roterdam, et restano confiscate in quell’Ami-<lb/>
+ralità, come robba de’ Spagnuoli; così anco l’amiralità <lb/>
+di Amsterdam ha confiscate quelle delle doi sopradette navi. Gratie etc.<ptr target="#tn14" n="14"/> </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="419v" facs="10_419v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 354 comincia 353 </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="132">
+<!--
+<p n="419vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 decembre 1621 ricevute a’ 6 gennaro </p>
+<p>Del segretario Suriano. n° 354. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="133" corresp="132" source="409r-v, 413r-414v, 418r-v" >
+<div type="main" facs="main text of attachment I" n="133" corresp="132" >
+<!--<p>Allegato I al n. 132 (cc. 409r-v, 413r-414v, 418r-v)</p>-->
+<pb n="413r" facs="10_413r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere del segretario Suriano n° 354 </p>
+<p>Copia di lettere al serenissimo Principe del capitan Giacomo Storm </p>
+<p>Serenissimo Principe </p>
+<p>sentendomi io infinitamente obligato alla Serenità vostra per la servitù acquista-<lb/>
+ta seco, et per il molto da lei ricevuto favore havevo pensato tempo <lb/>
+fa di darnele qualche saggio, et farle noto la riverenza, et <lb/>
+ossequio, ch’io le devo, con rimostrarle (non le potendo dar <lb/>
+altro frutto della mia professione) quanto sarebbe di rilievo <lb/>
+alla Serenità vostra ch’ella ad imitatione d’altre nationi forestieri <lb/>
+si risolvesse alla fabrica di qualche vasselli da guerra in queste <lb/>
+parti per servirsene al bisogno; ma dubitando, che ciò facendo <lb/>
+incoressi qualche nota di presontuosità mi sono finhora <lb/>
+retirato dal proposito. Hor trovandomi in questo caso ansio, <lb/>
+et confuso finalmente tirato dal desiderio, et affettione, che <lb/>
+tengo del ben publico, et confidato nell’innata benignità <lb/>
+della Serenità vostra, ributtata ogn’ombra, et fantasia mi risolsi <lb/>
+all’impresa dicendo al mio esser in armada in servitio della <lb/>
+Serenità vostra haver notati le<ptr target="#tn15" n="15"/> grandi, eccessive, et inutili spese <lb/>
+da lei fatte nel noleggiar vasselli foresti, il poco servitio da <lb/>
+quelli prestato, li disordini, et confusioni, c’hanno causato <lb/>
+et finalmente la poca osservanza, et riverenza a’ suoi governatori et <lb/>
+capitani da mar usata. Quali per esser tutti punti di gran-<lb/>
+dissima consideratione, et tali, che non solo ne’ terrestri; ma <lb/>
+spetialmente nelle maritime guerre devono esser ponde-<lb/>
+rati, non ho volsuto mancare (per quanto si stendono <lb/>
+le deboli forze del mio ingegno) di proponerle li modi, <lb/>
+et mezi per quali questi, et altri simil inconvenienti facilmente <lb/>
+potessero esser levati; il che seguirebbe ogni volta che la <lb/>
+Serenità vostra risolvesse alla fabrica di un certo numero di vasselli
+<pb n="413v" facs="10_413v" rend="0"/>
+da guerra, et quelli facesse navigare da marinarezza venetiana, <lb/>
+accompagnata da alcuni capi bombardieri, da’ quali con il conti-<lb/>
+nuo uso piglieriano la pratica, et di renderebbono tanto alla <lb/>
+navigatione quanto al combattere atti, et habili, et consequen-<lb/>
+temente la Sernità vostra farebbe acquisto de’ marinari vasselli pratici <lb/>
+et obedienti, di modo che si possa sperare che per questa via <lb/>
+la marinarezza venetiana ritorni nel suo pristino florescente <lb/>
+stato. Di più anderà schifando le grandi, et eccessive <lb/>
+spese de’ noli, che conducendo vasselli foresti occorrono, <lb/>
+et il commando delli governatori non sarà in questi, com’è stato <lb/>
+non senza notabilissimo<ptr target="#tn16" n="16"/> pregiudicio nelli altri, et spetialmente <lb/>
+nelli dodici dalla Serenità vostra in queste parti noleggiati così vil <lb/>
+peso; ma haverà il suo debito, et intiero luogo. Et quello <lb/>
+che più d’ogni altra cosa la Serenità vostra deve metter in considera-<lb/>
+tione haverà a questo modo in ogni tempo vasselli pronti, <lb/>
+et atti per armar a sua posta, et ad ogni sua occorrenza <lb/>
+dove al contrario non trovandosi sempre in porto vasselli <lb/>
+forestieri qualificati per armada, converrà in caso di bisogno <lb/>
+prevalersi d’ogni sorte etiam inutili a uso di guerra <lb/>
+et mentre ho notato li disordini, et inconvenienti ho anco <lb/>
+considerato la forma, et qualità de’ vasselli sarebbe <lb/>
+a proposito per quell’acque a uso di guerra, che m’è parso <lb/>
+qui aggiungerle il lor costo, a fine che bilanciata la <lb/>
+spesa con il frutto la Serenità vostra possi più fondatamente <lb/>
+risolver all’affermativa, o negativa della descritta <lb/>
+fabrica, che sarebbe la seguente</p>
+<pb n="414r" facs="10_414r" rend="0"/>
+<table>
+<row>
+<cell><p>La longhezza in colombo passi 18 1/2 fanno piedi</p></cell>
+<cell><p>92 1/2</p></cell>
+<cell><p>fanno di lunghezza</p></cell>
+</row>
+<row>
+<cell><p>L’hasta di prua haverà piedi 1</p></cell>
+<cell><p>16 1/2</p></cell>
+<cell><p>piedi 114 da una</p></cell>
+</row>
+<row>
+<cell><p>L’hasta di poppa piedi</p></cell>
+<cell><p>5</p></cell>
+<cell><p>hasta all’altra sopra la coverta</p></cell>
+</row>
+</table>
+<p>La larghezza piedi 30 altezza sotto la prima<ptr target="#tn17" n="17"/> coverta in savorna <lb/>
+piedi dodici di pontale; sotto la 2<hi rend="superscript">da</hi> coverta piedi 6 di pontale <lb/>
+et tutti s’intendono piedi venetiani. Sopra la coverta carcere <lb/>
+e<ptr target="#tn18" n="18"/> balor con le sue rede di corda tutto a usanza di guerra. <lb/>
+La prima coverta dell’artiglieria haverebbe 22 portelle per posar <lb/>
+li pezzi, sotto la carcere e balor<ptr target="#tn19" n="19"/> portelle 18 fanno pezzi <lb/>
+40 in tutto senza le sue portelle per le scove coverte da puppa <lb/>
+a prua all’ordinario. Et così haverà doi file di artiglieria <lb/>
+ben spartite, et di giusta altezza fuor dell’acqua; et sarebbe <lb/>
+di portata di lastri 350 in circa che fanno 1400 botte venetiane <lb/>
+et questa sarebbe la forma, ch’io ho giudicato al mio esser <lb/>
+in armada sarebbe a proposito di quelle acque. </p>
+<p>Segue il costo alla minuta </p>
+<table>
+<row role="label">
+<cell><p>Il corpo del vassello monterà in circa alla summa di fiorini</p>
+<p>Li ferramenti con cinque ancore, et 2 piccoli</p>
+<p>Tutto il suo sartiame con sette gomene, et gomenette, et <lb/>
+altri cordaggi bisognosi</p>
+<p>Doi mani di vela da puppa con li suoi garofoli, et garofolini</p>
+<p>Tutto il suo arboraggio</p>
+<p>Tutte le sue taglie, et chibbe</p>
+<p>Per intagliatura, et pitura</p>
+<p>Per pegola, catrame, solfo, rasa, et stoppa</p>
+<p>Per fodrar la nave de’ sapini con li suoi chiodi</p></cell>
+<cell><p>18500 </p>
+<p>7000 </p>
+<p>6500 </p>
+<p>3150 </p>
+<p>650 </p>
+<p>600 </p>
+<p>500 </p>
+<p>550 </p>
+<p>1200 </p></cell>
+</row>
+<row>
+<cell></cell>
+<cell><p>38650 </p></cell>
+</row>
+</table>
+<pb n="414v" facs="10_414v" rend="0"/>
+<table>
+<row role="label">
+<cell><p>Monta la summa oltrescritta</p>
+<p>Per far inarborar la nave, et ordir tutti li sartiami, et cordaggi</p>
+<p>Per spese di barche, et piate</p>
+<p>Per la barca, et fregata coi suoi arbori, veli, remi, gomenette, <lb/>
+et ferri</p>
+<p>Per diverse spese minute</p></cell>
+<cell><p>38650 </p>
+<p>325 </p>
+<p>200 </p>
+<p>625 </p>
+<p>200 </p></cell>
+</row>
+<row>
+<cell><p>Che monta in tutto fiorini</p></cell>
+<cell><p>40000 </p></cell>
+</row>
+</table>
+<p>Quali fiorini 40000 fanno ducati 16000 in circa venetiani in banco. <lb/>
+Et queste sarebbono le spese di un vassello in forma descritta <lb/>
+di sopra senza le sue artiglierie, monitioni vittuvaglie<ptr target="#tn20" n="20"/> <lb/>
+et stipendio de’ marinari. Et piacendo alla Serenità vostra di assortir <lb/>
+detti vasselli di minor, et maggior grandezza monterà il <lb/>
+costo pro rata portione della lor qualità, et grandezza <lb/>
+et risolvendo a simil fabrica la Serenità vostra potrebbe per mezo <lb/>
+di alcun suo confidente, et affettionato far un partito con <lb/>
+questi fabricatori per l’intiero corpo messo in acqua, et pronto <lb/>
+alla vela con tutte le sue adherentie soprascritte, overo <lb/>
+del nudo corpo di legno, et che li ferramenti cordaggi, et <lb/>
+et altri apprestamenti fossero separatamente procurati. All’<lb/>
+assistenza della cui fabrica quando la Serenità vostra giudicasse <lb/>
+esser valevole la mia persona potrà ad ogni suoi bene-<lb/>
+placito spendermi con piena auttorità di padronanza <lb/>
+assicurandola, che godrà della prontezza, diligenza, et <lb/>
+realtà d’un suo sincero devoto, et obligato servi-<lb/>
+tore. Et quando anco la Serenità vostra ricercasse mag-<lb/>
+gior informatione et più ampla dichiaratione di questo <lb/>
+negotio, et perciò desiderasse la presenza della mia persona
+<pb n="409r" facs="10_409r" rend="0"/>
+et mio abboccamento mi troverà ad ogni minimo cenno pronto <lb/>
+per incaminarmi a cotesta volta. Supplico dunque la Serenità vostra <lb/>
+si degni di ricever, et gradire benignamente questo mio <lb/>
+discorso, et di commandarmi in cosa di servitio della Serenità vostra <lb/>
+a’ piedi della quale per fine con humilissima riverenza mi <lb/>
+inchino. </p>
+<p>Dall’Haya al primo di decembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>capitan Giacomo Storm </p>
+<pb n="409v" facs="10_409v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="418r" facs="10_418r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="418v" facs="10_418v" rend="270"/>
+<p>2 </p>
+<p>Copia di lettere del capitan <lb/>
+Giacomo toccante fabrica di vasselli </p>
+<p>nelle seconde<ptr target="#tn21" n="21"/> n° 354 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="134" corresp="132" source="410r-412v, 415r-417v" >
+<div type="main" facs="main text of attachment II" n="134" corresp="132" >
+<!--<p>Allegato II al n. 132 (cc. 410r-412v, 415r-417v)</p>-->
+<pb n="415r" facs="10_415r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere del segretario Suriano del n° 353 </p>
+<p>Copia di alcune lettere dell’Imperatore le quali la Maestà sua ha <lb/>
+scritte di mano propria in lingua italiana essendo <lb/>
+li originali ancora in esser. </p>
+<p>Reverendo in Christo Padre </p>
+<p>ricevei due sue una delli 30 di settembre, et l’altra delli 4 di <lb/>
+questo mese. Con queste vengono le lettere per il re di Spagna, <lb/>
+per l’arciduchessa Margarita, et per don Balthazar, la cui <lb/>
+copia viene qui aggiunta, et ancorché io sono sicuro, che <lb/>
+la Reverenza vostra tratterà questo negotio con quella prudenza, la quale <lb/>
+Iddio gli ha data, però per la somma confidenza, che <lb/>
+pongo in lei non posso lasciar di dirgli crederei, che vostra Reverenza <lb/>
+non dovesse dir niente in quella corte, che ’l duca di Baviera <lb/>
+habbia horamai l’investitura in mano; ma che vostra Reverenza pro-<lb/>
+curasse di levar li rumori eronei, che tengono in questa <lb/>
+materia, et persuaderli, che non solamente concorressero con <lb/>
+la mia opinione; ma che ancora dessero quelli aiuti con <lb/>
+li quali si potesse effettivamente pervenire a questa cosa <lb/>
+tanto utile, et necessaria per la confirmatione, et conservatione <lb/>
+della nostra santa fede, et consequentemente della nostra <lb/>
+casa; perché io dubito, che se la Reverenza vostra dicesse ch’io <lb/>
+habbia ormai data l’investitura, che si potrebbe fare, <lb/>
+o per dir meglio si farebbe chiaramente più danno, che <lb/>
+utile di questo negotiato; sapendo la Reverenza vostro molto <lb/>
+bene, che quando io fossi abandonato dalla corona di <lb/>
+Spagna io con le mie proprie forze non potrebbe effettuare quello, che ho promesso al duca di Baviera, <lb/>
+et io dubito, anzi sono quasi sicuro (secondo, che lo dice <lb/>
+continuamente l’ambasciator di Spagna qui residente), che questo
+<pb n="415v" facs="10_415v" rend="0"/>
+seguirebbe infallibilmente, ch’io sarei derelitto dalla corona <lb/>
+di Spagna se ’l si risapesse, ch’io havessi data questa <lb/>
+investitura prima ch’io havessi communicato con cotesta <lb/>
+Corona. Adunque vostra Reverenza indrizzerà questo negotiato in tal <lb/>
+maniera accioché essequiamo<ptr target="#tn22" n="22"/> il desiato fine nelle cui <lb/>
+orationi mi raccommando di tutto cuore. </p>
+<p>Di Vienna li 15 d’ottobre l’anno 1621. Era sottoscritta </p>
+<p>di vostra Reverenza </p>
+<p>affettionatissimo </p>
+<p>Ferdinando </p>
+<p>L’iscrittione era </p>
+<p>Al molto reverendo padre Giacinto cappuccino. </p>
+<p>Copia d’altra lettera scritta di mano dell’Imperatore </p>
+<p>Dilecto don Baltazar. Il padre Giacinto se ne trasferisce in <lb/>
+quella corte a trattar col Re mio amatissimo nipote per nome <lb/>
+del Pontefice N. S. il negotio dell’elettorato del Palatinato, et <lb/>
+sapend’io molto bene quanto a cuore lei habbia la conservatione <lb/>
+et essaltatione della nostra santa fede, et consequentemente <lb/>
+della casa nostra, così non solamente spero, ma sono <lb/>
+sicuro, che lei opereria secondo il suo solito zelo talmente <lb/>
+in questo negotio, accioché si possa venire al debito <lb/>
+fine, perché lo dico con quella sicurtà con<ptr target="#tn23" n="23"/> la quale <lb/>
+si è sempre trattato realmente con lei, mentre che ella
+<pb n="416r" facs="10_416r" rend="0"/>
+è stata in queste parti, ch’io trovò necessariissima<ptr target="#tn24" n="24"/> questa transla-<lb/>
+tione nel duca di Baviera, et ancorché si farà molte <lb/>
+oppositione politiche in questo negotio dico però, che non si <lb/>
+deve sempre secondo li discorsi humani pensar simil negotii <lb/>
+tanto concernenti la nostra santa fede; ma si deve ancora <lb/>
+sperare, et confidare in Dio benedetto. Di più non devo di <lb/>
+tralasciare d’avisarle, ch’io sono totalmente obligato verso <lb/>
+il signor Duca per li suoi meriti, et per le promesse più volte <lb/>
+replicate così in voce, come in scritto per la translattione <lb/>
+dell’elettorato, che io non ne so modo, come lo possi ritornar <lb/>
+indietro senza l’offesa di Dio, et perdita del mio honore. <lb/>
+Il quale con el<ptr target="#tn25" n="25"/> altrettanto sono sicuro, che la procurerà <lb/>
+che sia prevenuto, et conservato, et io ne resto suo <lb/>
+affettionatissimo come sono sempre stato. </p>
+<p>Di Vienna alli 15 d’ottobre l’anno 1621. </p>
+<p>Questa qui aggiunta dà più lume di quella mia. </p>
+<p>Era sottoscritta </p>
+<p>Ferdinando </p>
+<p>Et il soprascritto </p>
+<p>Illustri sincere nobis dilecto don Balthasaro de Zuniga serenissimi <lb/>
+Regis catholici Consobrini, ac fratris nostri carissimi consi-<lb/>
+liario status. </p>
+<pb n="416v" facs="10_416v" rend="0"/>
+<p>Le seguenti aggiunte; et sotto la sottoscrizione di sua Maestà <lb/>
+Imperiale sono scritte da lei da Stralendorf. </p>
+<p>Ferdinandus etc. </p>
+<p>Illustris sincere dilecte. Quae circa translationem electoratus in Bavariae <lb/>
+ducem vigore promissi ei facti mihi mens, et animus sit, et quamobrem <lb/>
+existimem negotium illud tam universae Germaniae quam in primis <lb/>
+domui nostre Austriacae ab haereticorum machinis vindicandae necessaria <lb/>
+ac utile ulterius non differendum (prout et sanctissimus Pontifex <lb/>
+me hortari non desinit) amplius, ex patris Hyacynthi quem ea <lb/>
+de causa Pontifex ad me, et serenissimum Hispaniarum regem consangui-<lb/>
+neum, et nepotem meum, nec non alios Germaniae catholicos prin-<lb/>
+cipes destinavit relatione intelligetis. Rationes vero potissimum <lb/>
+hae sunt. Quod quando regiminis mei cursum ab initio reputo, <lb/>
+easque difficultates, quibus regna, provinciasque adivi perpendo <lb/>
+admirabilem quamdam Dei circa me providentiam venerans suspi-<lb/>
+cio; eoque magis Deo confidere, neque occasionibus eiusdem honorem, <lb/>
+et gloriam proferendi deesse tamque admirabiliter expertae divinae <lb/>
+providentiae quam humanae prudentiae maiorem rationem ducere <lb/>
+me obligatum censeo. Eaque maxime de causa divinibus ante annum <lb/>
+praeclarissimam mihi victoriam oblatam, ut eam ad Dei gloriam, <lb/>
+et honorem proferendum, et exstirpandas seditiosas factiones <lb/>
+quae a calvinistica potissimum haeresi foventur, uterer, meque <lb/>
+illo iudicio subtraherem quod propheta Israelis regi com-<lb/>
+minatur. Quia dimisisti virum dignum morte erit anima tua <lb/>
+pro anima eius. Nunc Palatinus iacet apud Hollandos <lb/>
+exul, non tantum Regno meo, quod male tentavit, sed <lb/>
+propriis, ferme ditionibus exutus, ac<ptr target="#tn26" n="26"/> extremum quasi for-<lb/>
+tunae ictum praestolatur. Quem si prava miseratione
+<pb n="410r" facs="10_410r" rend="0"/>
+vel calidis precibus persuasus tamquam torpentem, et semianimem <lb/>
+colubrum sinu foveam, ac electorali dignitate<ptr target="#tn27" n="27"/> restituam <lb/>
+aliud nihil quam laetale ab eo morsu expectem, frustra enim <lb/>
+est ut beneficii magnitudine illum demereri posse existimem. <lb/>
+Nimis si quidem verum politicorum effatum est, ultionem <lb/>
+quaestui gratiam oneri haberi precipue cum tam atroces illius <lb/>
+in me sint iniuriae, tam subdolae artes, ut quamvis christiana <lb/>
+caritate ego animum vincere, ille tamen tot facinorum conscientiam <lb/>
+numquam exuere, aut solidam mihi fidem, praestare possit, quin <lb/>
+semper occasioni inhiaturus sit, quomodo se eius; quod pro-<lb/>
+meruisse scit timore exolvat, et semel prostitutam famam <lb/>
+novis facinoribus cooperiat. Accedit calvinistica institutio, <lb/>
+cuius sectae hic proprius genius est nullam fraudem, <lb/>
+nullum scelus putare, quod pro eorum religione suscipiatur. </p>
+<p>Nulla hic iuramenti sanctitas, nullus sinistre famae metus <lb/>
+obstat. A tali vero, quam cautionem vel domus Austriaca, <lb/>
+vel catholici reliqui principes, quibus ille non minus infestus <lb/>
+est, et ob religionem, et quia nobis hoc bello adstiterunt <lb/>
+possunt recipere. Spondebit Angliae rex? At eadem <lb/>
+religione neque quidquam facilius est quam ubi occasio <lb/>
+patrandi sceleris datur laesae fidei praetextum obducem <lb/>
+plena est historia exemplorum. In summa nulla in tali <lb/>
+re cautio est, quam eo redigere inimicum, ut nocere <lb/>
+nequeat, caetera fragilia sunt, et is qui credidit denique <lb/>
+contemnitur. Est ea quoque non minoris ponderis consideratio <lb/>
+illuc Palatinum restitutum machinas omnes atque cuniculos
+<pb n="410v" facs="10_410v" rend="0"/>
+uti hactenus, ita deinceps admoturum, ubi maxime, et facilime <lb/>
+se nocere posse existimat. Per Bethelemium nimirum, et Turcus <lb/>
+quos iam ante contra me hostes conscivit, neque adhuc incitare <lb/>
+cessat. In his calvinistarum spes omnis sita est, hos donec ipsi <lb/>
+respirent ac vires recolligant ad me exarmandum, et sumptu <lb/>
+exhauriendum vastatis mei ditionibus, quem admodum hactenus <lb/>
+ferro, flammaque fecerent, subistituere nituntur. Quod si <lb/>
+et cum illis pacem (cui tamen aeque fidere non possum) <lb/>
+inire velim, quas conditiones Gabor nondum victus praescribet <lb/>
+si Palatino victo electoralem dignitatem cum ditionibus resti-<lb/>
+tuam? Ergo cum iam olim, antequam celeberimam mihi <lb/>
+Deus vitoriam concessit constitutum, fixumque haberem non posse <lb/>
+Palatinum sine extremo catholicorum omnium, et domus meae <lb/>
+periculo semel proscriptum ad electoralem dignitatem <lb/>
+restitui. Bavariae duci, catholicae religionis defensori <lb/>
+acerrimo cuius ditiones ex altera parte contra Germaniae <lb/>
+principes ditionibus, meis veluti pro vallo obiacent <lb/>
+ad haec consilio, et opibus ad dignitatem eam<ptr target="#tn28" n="28"/> susti-<lb/>
+nendam pollenti. Electoratum ultro ac sponte a Deo <lb/>
+absque dubio impulsus obtuli. Cuius ex eo tempore opera <lb/>
+cum tam utiliter in regnorum ac provinciarum mearum <lb/>
+recuperatione usus sim, atque adhuc hodie utar, tempus <lb/>
+modo magis etiam quam ipsemet Dux flagitare videtur <lb/>
+ut promissi fidem sino ulteriori dilatione exsolvam, <lb/>
+tranlatoque electoratu spem quoque Palatino, et iis qui <lb/>
+eius restitutionem a nobis importune fligitant, ut
+<pb n="411r" facs="10_411r" rend="0"/>
+nos molestia liberent adimam. Quae res cum serenissimi Hispaniarum <lb/>
+regis subsidio, atque auxiliis porro indigeat, quamvis per se incli-<lb/>
+natum ad omnia que ad Dei honorem, et domus nostre securi-<lb/>
+tatem pertinent, admonendum nihilominus hac occasione existimavi <lb/>
+ne hanc in posterum domus nostrae, ac religionis simul sta-<lb/>
+biliendae opportunitatem deserat; id quod per vos commodissime <lb/>
+me facere posse putavi. Neque enim Serenitatem suam latere <lb/>
+arbitror ita semper a maioribus nostris iudicatum fuisse, domus <lb/>
+nostrae Austriacae Dei gratia, tam late per orbem terrarum <lb/>
+regnantis fundamenta esse in hac Germania quae eo magis <lb/>
+ab hostium vi defendenda sit quo proprior iis suffosis<ptr target="#tn29" n="29"/> ruina. </p>
+<p>Multos haec domus potentiae suae adversarios hactenus exper-<lb/>
+ta est, sed nullos inter Germaniae principes pertinaciores <lb/>
+Palatinis, quem admodum historiae sub Maximiliano primo, <lb/>
+Carolo quinto, Ferdinando primo, ac Rodulpho secundo <lb/>
+imperatoribus satis docuerunt. Holandica sane erga <lb/>
+Philippum regem Serenitatis suae avum perfidia, alimenta sua <lb/>
+ex Palatinatu traxit; neque Serenitas eius unquam rebelles <lb/>
+in Belgio subditos ad obsequium reducet nisi hac in Roma-<lb/>
+no Imperio radice succisa. Quae quidem sola res, si caetera <lb/>
+non essent, de quibus superius monui, merito tam impellere <lb/>
+debeat, ne iacentem hostem resurgere, et vires in nos (non <lb/>
+animus numquam deerit) resumere patiatur et si vera <lb/>
+dissimulandum enim sit lutheranis principes, et in <lb/>
+primis Saxoniae electorem, hanc electoratus translationem <lb/>
+in Bavariae ducem fortasse non aequo animo laturum, quod
+<pb n="411v" facs="10_411v" rend="0"/>
+catholicam rem ex ea nimium augescere vereri possit, cum tamen is <lb/>
+accusare nequeat, quod in maioribus suis, Mauritio nimirum pro avo <lb/>
+suo, cui ex molto levioribus Ioannis Friderici delictis electo-<lb/>
+ralis dignitas a Carolo quinto concessa fuit probat, ad haec <lb/>
+quia calvinistarum consilia eo pertinere iam animadvertit, ut absque <lb/>
+dubio, nisi obviam eatur Turcae in imperium aditus per eos <lb/>
+preparetur. Neque minoribus odiis lutherani in calvinianos <lb/>
+quam catholico ferantur vel minus ab his quam a nobis <lb/>
+periculum sibi iminere existiment sperandum omnino est <lb/>
+Saxoniae electorem, caeterosque principes Saxonicos ubi rem <lb/>
+eo deductam esse intellexerint non usque adeo hanc transla-<lb/>
+tionem improbaturos, ut hac causa mihi bellum intentent. </p>
+<p>Id quod ex serenissimo archiduce fratre meo Carolo hac de <lb/>
+causa ad electorem Saxoniae ablegato brevi certius com-<lb/>
+periam. Atque haec quemadmodum<ptr target="#tn30" n="30"/> magni momenti <lb/>
+sint ita non minus vos, qui Serenitati suae regiae imprimis a <lb/>
+consilio estis, quam me ipsum diligenter iamdudum co-<lb/>
+gitare existimo, neque ommissuros<ptr target="#tn31" n="31"/> quicquid ad <lb/>
+consilium hoc porro stabiliendum pertinere arbitrabimini, <lb/>
+ut diu desideratus ex eo<ptr target="#tn32" n="32"/> fructus, Dei omnipotentis <lb/>
+honoris per imperium propagatio, ac communis domus <lb/>
+nostrae salutis hac dignitatis augmentum consequatur. </p>
+<p>Post scriptum </p>
+<p>Diletto don Baltassar. Io ho visto, che nella lettera è stato <lb/>
+tralasciato un motivo di non poca consideratione, il quale <lb/>
+è che se haveremo un moto dal Re catholico di più di
+<pb n="412r" facs="10_412r" rend="0"/>
+quello c’havemo d’adesso saremo sempre sicuri, che l’Imperio <lb/>
+resterà nelle mani delli catholici, et ragionevolmente nella nostra <lb/>
+casa, alla cui promotione concorrerà sempre volontieri <lb/>
+il duca di Baviera in recognoscimento del beneficio ricevuto <lb/>
+d’esser promesso ad una dignità così eccelente, et eminente <lb/>
+d’un Imperatore della casa nostra ut in litteris. </p>
+<p>Era sottoscritta </p>
+<p>Ferdinandus </p>
+<p>Et la soprascrittione era </p>
+<p>Al don Baltazar de Zuniga. </p>
+<p>Un’altra lettera scritta di mano propria <lb/>
+dell’Imperatore. </p>
+<p>Serenissimo Re mio amatissimo nepote. Il padre Giacinto capuccino <lb/>
+se ne transferisce in cotesta corte al trattar con la Maestà vostra <lb/>
+per nome del Papa un negotio conveniente molto la <lb/>
+conservatione della nostra santa fede, et consequentemente <lb/>
+della nostra casa; secondo, che la Maestà vostra intenderà <lb/>
+dall’istesso padre, al quale io mi rimetto come al don <lb/>
+Baltazar de Zuniga, al quale ne scrivo più distintamente <lb/>
+per non tediar la Maestà vostra, et essendo io molto sicuro che <lb/>
+vostra Maestà così uno come l’altro ne ha di cuore, così non
+<pb n="412v" facs="10_412v" rend="0"/>
+gli voglio raccommandar de questo negotio, ma n’aspetto <lb/>
+dalla Maestà vostra la desiata, et da me tanto bramata <lb/>
+risolutione, augurandole d’Iddio benedetto ogni felicità. </p>
+<p>Di Vienna alli 15 d’ottobre 1621 </p>
+<p>(era sottoscritta) </p>
+<p>di vostra Maestà </p>
+<p>affettionatissimo zio </p>
+<p>Ferdinando </p>
+<p>Et soprascritta era </p>
+<p>Serenissimo principi domino Philippo quarto Hispaniarum utriusque <lb/>
+Siciliae, Ierusalem etc. regi catholico archiduci Austriae <lb/>
+duci Burgundiae etc. Consobrino ac nepoti nostro carissimo etc. </p>
+<pb n="417r" facs="10_417r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="417v" facs="10_417v" rend="270"/>
+<p>1 </p>
+<p>Copia di lettere dell’Imperatore </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "compagnie" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "m-" corrected above "l-."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-i" corrected above "-o."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "prove-" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "in conformità" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "f-" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "era" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Precedes the struck-through word.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "una" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "In questo punto … Gratie etc." is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-tab-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Followed by "sco" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-v-" corrected above "-a-."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "nell se-" is the result of a correction.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "e-" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Followed by "quella" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "-e" corrected above "-i."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "ste-" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Followed by "Ma-" crossed out.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by "quicquid a-" crossed out.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "frutus" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

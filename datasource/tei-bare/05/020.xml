@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.020 date 1617-11-20</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">020</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 120r-125v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">120r-125v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this letter, Suriano expresses frustration about the slowness of decision and organisation of government in the Dutch Republic. Acknowledges receipt of letters from the republic 3 November and informed the States General of the peace ratified by the Spanish. Proposal for a further union will be looked at. Maurice has news about Gradisca . </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-20">20 novembre 1617</date>
+            <num>038</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="038">
+<div type="main" facs="main text of letter" n="038">
+<!--<p>20 novembre 1617, L’Aia (cc. 120r-125v)</p>-->
+<pb n="120r" facs="05_120r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>Serenissimo Principe </p>
+<p>la riserva naturale, che accostuma questa Republica in tutte le <lb/>
+cose dando tempo al tempo nel deliberare fa che tarde <lb/>
+vengono le risolutioni nelli<ptr target="#tn1" n="1"/> presenti emergenti delle cose <lb/>
+d’Italia; né mancano gl’ordinarii artificii de’ <lb/>
+Spagnuoli, che anco qui fanno pur correr voce di <lb/>
+assoluta pace in Italia; et l’Ambasciator francese publica, <lb/>
+che di Francia habbia havuti avvisi freschi, che tutto <lb/>
+si va accommodando; onde nell’incertezza vorrebbono <lb/>
+sentir qui effettivamente se si conferma questa pace. </p>
+<p>Io che pur haverei voluta più espressa dichiaratione <lb/>
+di quella, che vostra Serenità coll’ultimo corriero estraordinario <lb/>
+haverà intesa esser nell’interno di questi signori con <lb/>
+destra maniera non intermettendo li privati ufficii <lb/>
+con chi ho stimato a proposito ho procurato che si <lb/>
+risolvesse qualche cosa sopra quanto esposi. Altro <lb/>
+non mi è stato portato ne’ discorsi, che iscuse di <lb/>
+esser aggravati dai molti affari del Governo, <lb/>
+et che questi non li concede tutto quel tempo <lb/>
+che vorrebbono havere; et che anco l’ispeditione, <lb/>
+che hanno per mano dell’ambasciator che si trova qui
+<pb n="120v" facs="05_120v" rend="0"/>
+straordinario di Svetia, glien’ha levata una gran parte; <lb/>
+ma che non si sarebbe mancato attender, et haver sopra <lb/>
+quanto rappresentai la debita consultatione; iscusando <lb/>
+in oltre l’imbecilità del Governo subdiviso in provincie, <lb/>
+che ogni deputato a parte vuol sapere, et argumen-<lb/>
+tare sopra il fatto, che tutto causa una maggior <lb/>
+longhezza. </p>
+<p>Ricevute la notte di venerdì passato le lettere della Serenità vostra <lb/>
+de’ 3 stimai bene il sabbato mattina introdurmi <lb/>
+nell’assemblea de’ signori Stati, et quivi in conformità <lb/>
+de’ suoi commandamenti<ptr target="#tn2" n="2"/> appoggiati alle precedenti lettere <lb/>
+sue feci ufficio altrettanto abondante, et pieno, quanto <lb/>
+puote la mia debolezza portare, et stimai proprio <lb/>
+a ben imprimer in questi signori il loro interesse in <lb/>
+tali congionture, et non consister in altro la constanza <lb/>
+dei Spagnuoli che nell’esser constantissimi a far tutto <lb/>
+il contrario di quello, che dicono; et che mostrano <lb/>
+più affetto alla guerra con le hostilità sulla <lb/>
+parola, et stipulatione di pace accordata dal loro <lb/>
+Re, che alla tranquilità dell’Italia esprimendo
+<pb n="121r" facs="05_121r" rend="0"/>
+la naratione di quanto ha la Serenità vostra passato coll’Ambasciator <lb/>
+spagnuolo nel confermar la pace, et di quanto segue <lb/>
+nella Lombardia in pregiudicio delle terre, et dominio <lb/>
+di vostra Serenità aggiungendo quello di più, che mi parve <lb/>
+proprio. Anco in publico si portorono iscuse <lb/>
+di essersi differito per mancamento di tempo, rin-<lb/>
+gratiando della continuata confidenza, et commu-<lb/>
+nicatione delli avvisi et dicendo il Presidente, <lb/>
+che speravano tutti quei signori che la serenissima Republica have-<lb/>
+rebbe dal Signor Dio havuta tanta assistenza, che <lb/>
+che haverebbe potuto far testa, et controppositione <lb/>
+allo Spagnolo; aggiungendo, che haverebbono <lb/>
+veduta la mia prima espositione, et anco quella <lb/>
+che havevo fatta allhora se gliel’havessi data <lb/>
+per deliberar ciò che si fosse stimato buono; et io <lb/>
+havendo portato meco lo scritto glielo lasciai a fine <lb/>
+che non prendessero pretesto, che l’aspettavano per <lb/>
+meglio informarsi. Sin qui non ho havuta <lb/>
+alcuna risposta, et partendo l’ordinario non <lb/>
+mi dà tempo di trattenermi ad aspettar di vantaggio
+<pb n="121v" facs="05_121v" rend="0"/>
+se haverò<ptr target="#tn3" n="3"/> qualche cosa che servi l’opportunità di farne <lb/>
+l’ispeditione dietro al messaggiero la farò; ma sono qui <lb/>
+così lunghi nelle cose sue, et caminano con tanta riserva, <lb/>
+come ho recentemente scritto, che difficilmente mi prometto <lb/>
+prontezza alla risolutione. </p>
+<p>Quello, ch’io le possi dir in generale è dipendente dalli <lb/>
+medesimi concetti, et dai medesimi discorsi di desiderio di <lb/>
+collegarsi con vostra Serenità, et per quanto puoti hieri <lb/>
+penetrare da parole del signor conte Guglielmo corre opi-<lb/>
+nione di deputar alcuni, che vengano a cavar da <lb/>
+me se vostra Serenità è in opinione di stringer aleanza <lb/>
+con questi Stati, se ben da altra parte non ne ho <lb/>
+havuto incontro, se verranno risponderò della <lb/>
+maniera, che m’è stata detata<ptr target="#tn4" n="4"/> dalla Serenità vostra; et <lb/>
+a dir la verità<ptr target="#tn5" n="5"/> qui s’intendono così male <lb/>
+insieme per quest’alteratione di religione <lb/>
+che non si sano manco accordare a considerar <lb/>
+qual sia il loro bene, et il lor vantaggio in <lb/>
+questa congiontura. </p>
+<p>Trovo il signor principe Mauritio dei medesimi sensi già
+<pb n="122r" facs="05_122r" rend="0"/>
+espressi. Gli diedi parte di quanto communicai alli signori <lb/>
+Stati, et egli mi rispose, che sempre più scopriva nell’<lb/>
+universale animo inclinatissimo di coadiuvar gl’interessi <lb/>
+di vostra Serenità, et unirsi con lei; ma che tutto stava nel <lb/>
+trovar tempo a risolver: partendo anc’egli il <lb/>
+medesimo impedimento, che ho detto di sopra, et <lb/>
+rinovò meco delle stesse cose, che mi disse la passata <lb/>
+settimana. </p>
+<p>Mi addimandò se havevo l’avviso, ch’egli teneva <lb/>
+che Gradisca fosse batuta con più di trenta pezzi <lb/>
+di canone, che così veniva scritto di Praga. Io <lb/>
+risposi, che non havevo nuova, di questa tanta batte-<lb/>
+ria; ma benché quella piazza era stretta in <lb/>
+maniera, et ridotta in tale necessità, che ben <lb/>
+presto si sperava la sua caduta. Rispose io <lb/>
+lo vorrei, perché almeno si havesse fatto qualche <lb/>
+cosa di buono in quella parte; ma guardatevi, <lb/>
+aggiunse, che li Spagnuoli ve la faranno se <lb/>
+potranno. Io ripigliai che pur troppo quest’era <lb/>
+vero, et che come da sua Eccellenza era conosciuto, così mi
+<pb n="122v" facs="05_122v" rend="0"/>
+imaginavo, che anco li signori Stati se ne accedessero; et però <lb/>
+doverebbono considerare, che l’interesse di sua Serenità <lb/>
+era il loro proprio; et per tanto l’havervi la debita <lb/>
+consideratione, et operar in conformità di quello si <lb/>
+deve per la commune difesa delli stati, et della <lb/>
+libertà era proprio della loro prudenza. Et qui <lb/>
+feci nuovo efficace ufficio con l’Eccellenza sua perché eccitasse <lb/>
+in questi signori li spiriti di una buona risolutione. <lb/>
+Mi replicò il signor Principe, ch’egli non haveva <lb/>
+mancato né mancarebbe di far ogni bene; ma che <lb/>
+li negotii interni dello Stato, et li particolari affetti <lb/>
+causavano puramente, che non si pensasse ad altro <lb/>
+questo è il concetto in generale, che si proferisce <lb/>
+da cadauno. </p>
+<p>È solito, che verso il Natale si riduca la General <lb/>
+Congregatione di questa particolar provintia di Holanda <lb/>
+et per questi affari di religione si è procurato, che anticipatamente se ne facci la riduttione affine <lb/>
+di avanzar tempo. Dicono, che fra quindeci <lb/>
+giorni doveranno tutte le città haver ispediti
+<pb n="123r" facs="05_123r" rend="0"/>
+li suoi deputati, che tratteranno all’ordinario delli <lb/>
+affari della provincia; ma in particolare teniranno <lb/>
+carico per questo punto di religione, et per terminar <lb/>
+in fine se sarà possibile qualche cosa di buono. Alcuni <lb/>
+si dogliono della forma in che è constituita questa <lb/>
+Republica poiché divisa in provincie, et l’istesse <lb/>
+provincie divise in membri non possono così facilmente <lb/>
+et prontamente unirsi alla conclusione delli affari. <lb/>
+Le 4 provincie Gheldria, Zelanda, Frisia, et Gru-<lb/>
+nighen si fermano sul sinodo nationale, aderiscono <lb/>
+a questo alcune delle città di questa provincia di <lb/>
+Holanda, nella quale è il principal contrasto de-<lb/>
+gl’humori, et l’alteratione di essi; et l’altre città <lb/>
+con le doi provincie Utrechet, et Ourisel par che <lb/>
+siano contrarie; et li par, che basti il sinodo <lb/>
+principale. In somma si scuopre questo esser ne-<lb/>
+gotio, che non è così facile, che prendi buona <lb/>
+piega, se il re di Spagna non vi si framette <lb/>
+scoperto perché allhora, che da dovero si accorge-<lb/>
+ranno, che il male nasce da veneno sparso<ptr target="#tn6" n="6"/>, </p>
+<pb n="123v" facs="05_123v" rend="0"/>
+<p>(come si dubita fermamente) da quella parte sarà facile che <lb/>
+si scordino della partial<ptr target="#tn7" n="7"/> rigorosità, che mostrano di conscienza <lb/>
+et si uniscano alla vera conoscenza del loro interesse, <lb/>
+et della conservatione della propria, et commune <lb/>
+libertà. Gratie etc. </p>
+<p>Dall’Haya a’ 20 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="124r" facs="05_124r" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="124v" facs="05_124v" rend="0"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="125r" facs="05_125r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="125v" facs="05_125v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="038">
+<!--
+<p n="125vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>20 novembre 1617 ricevute 6 decembre </p>
+<p>Secretario Surian. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-i" corrected above "-e", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-ma-" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "have-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by , crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

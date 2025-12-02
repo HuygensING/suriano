@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.009 date 1619-04-22</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">009</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 49r-52v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">49r-52v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he will travel to Texel, Pach has not been able to assemble the number of people requested and due to the wind the ships will have to wait for 2 to 3 weeks to leave the port. He not please with this course of events. Reports that after his visit to Maurice to discuss affairs in Germany, he is certain that the States will sustain the revolt in Bohemia and requests advice from Venice. An agent from margrave of Baden has been allowed to raise four companies of cavalry. Two representatives from States General have requested more information from Suriano on Venice’s ideas for further union. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1619-04-22">22 aprile 1619</date>
+            <num>015</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>The Hague</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="015">
+<div type="main" facs="main text of letter" n="015">
+<!--<p>22 aprile 1619, Amsterdam (cc. 49r-52v)</p>-->
+<pb n="049r" facs="08_049r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 99 sola </p>
+<p>Serenissimo Principe </p>
+<p>mi trovo in questa città chiamato dai partionevoli del vassello ultimamente <lb/>
+noleggiato, et hoggi partirò per Tessel per dar mostra a quelle genti <lb/>
+et pigliarle in giuramento a nome di vostra Serenità. </p>
+<p>Ancorché siano tanti giorni passati, che ’l capitano Pach si trovi in Holanda <lb/>
+non ha ancor potuto compir il numero della sua gente: onde <lb/>
+non vi è apparenza, che possi pigliar la commodità di questa nave <lb/>
+perché perdendosi il buon vento, ch’è al presente per la sua sortita <lb/>
+si metterebbe a rischio, ch’ella stasse ancor nel porto aspettando nuovo <lb/>
+vento doi, o tre settimane, et forse più: il che riuscirebbe con danno <lb/>
+della Serenità vostra perché entrando il mese nel giorno della mostra d’allhora <lb/>
+correrà<ptr target="#tn1" n="1"/> il stipendio, et noleggio per li partionevoli del vassello, et ver-<lb/>
+rebbe ella a pagar senza che facesse viaggio; ma più con pericolo <lb/>
+che parte dei marinari<ptr target="#tn2" n="2"/> anco fuggissero. </p>
+<p>Haverei voluto, che havesse inviati in Tessel quelli che haveva pronti <lb/>
+ma non è a tempo di unirli, et farveli venire; il che riesce di mio <lb/>
+grandissimo disgusto; et per tanto non vi essendo altra commodità <lb/>
+bisognerà, che conforme al primo disegno faccia il viaggio per terra. </p>
+<p>È venuto meco in questa città per trovar il resto delle genti; et prima <lb/>
+del partir nostro dell’Haya, che fu hier mattina ha accordato <lb/>
+uno che fa professione di pettardiere, et fabricatore di fuochi <lb/>
+artificiati. Queste sì lunghe dilationi mi dispiacciono. Io non <lb/>
+ho mancato di solecitarlo; parmi bene ch’egli non manchi; ma <lb/>
+che non li sia così facile incontrar prontamente in haver buoni <lb/>
+huomini, et particolarmente capi bombardieri. </p>
+<p>Oltre li primi cento ducati, che mi fu scritto dalli illustrissimi signori all’armar di <lb/>
+doverli dare, li diedi qualche giorni doppo anco cento fiorini <lb/>
+hora mi ha significato haverne bisogno di altri cento, et vedo non <lb/>
+poter far di meno di non farglieli esborsare ad ogni modo si ribatteranno
+<pb n="049v" facs="08_049v" rend="0"/>
+alla mostra a che spera al sicuro di presentarsi per la fine della <lb/>
+presente settimana. </p>
+<p>Al ritorno mio dal Tessel parlerò a questi signori, come farò anco a quelli di <lb/>
+Nort Holandia per haver il conto delli restanti viveri a fine di <lb/>
+poterli sodisfare, et di quello essequirò le ne darò riverente parte<ptr target="#tn3" n="3"/>. <lb/>
+So che ognuna delle Amiralità ha dato ordine a’ suoi ministri <lb/>
+et che sono dietro a tirar in resto. </p>
+<p>Ho lasciato al partir mio dall’Haya, che quivi non si attendeva ad altro <lb/>
+che a’ discorsi nella<ptr target="#tn4" n="4"/> presente<ptr target="#tn5" n="5"/> congiontura di vacanza dell’Imperio <lb/>
+et essendomi trovato uno de’ giorni della passata settimana col signor <lb/>
+principe Mauritio, procurai cavar alcuna cosa<ptr target="#tn6" n="6"/> de’ suoi pensieri in questo <lb/>
+proposito. Mostrò l’Eccellenza sua non saper formar giudicio in chi dovesse <lb/>
+cader l’Imperio. Disse, che Baviera sarebbe stata assai avanti <lb/>
+se ’l fratello elettore havesse voluto, o s’egli non havesse diffidato <lb/>
+come pareva di quelli della religione, et de’ Bohemi. Parlò di <lb/>
+Sassonia in maniera, che pareva, che se havesse voluto scostarsi da-<lb/>
+gl’interessi, che sin qui per li suoi fini ha professati con la casa <lb/>
+d’Austria (non ostante l’esser luterano) haverebbe (facendo per <lb/>
+sé stesso) forse potuto spuntare. Et del re Ferdinando disse <lb/>
+che si tenevano avvisi tra li signori Stati, che<ptr target="#tn7" n="7"/> Bohemi fossero <lb/>
+per metterli in difficoltà la corona di Bohemia, et per consequente <lb/>
+il voto, et che a loro stasse il darlo; parendo che quei Stati <lb/>
+pretendino esserne egli decaduto per haver vivente l’Imperatore <lb/>
+contravenuto alle conditioni, colle quali era stato assunto a <lb/>
+quel Regno. Di più mi disse l’Eccellenza sua, (et questo è in molti) che se li <lb/>
+Bohemi potessero haver forze sufficienti per sostener un lungo <lb/>
+interregno; o per tanto tempo che bastasse, penserebbono ad <lb/>
+avanzarsi in maniera di ridur lo stato di Bohemia a governo
+<pb n="050r" facs="08_050r" rend="0"/>
+libero. Ho scoperto molto bene, che da questa parte piace il concetto <lb/>
+et volontieri si vorrebbe, che così seguisse; et io<ptr target="#tn8" n="8"/> non sono fuori di opi-<lb/>
+nione, che non lo fomentino; et si vede anco, che li signori Stati faranno <lb/>
+quanto potranno per sostener Bohemi. </p>
+<p>Vorrebbono sapere quello, che vostra Serenità pensi, et sia per fare in simil con-<lb/>
+giontura. Ho saputo che le scriveranno in raccomandatione de’ <lb/>
+Bohemi per assisterli, et non dar passo. Scriveranno anco a lor <lb/>
+favore al re della Gran Bretagna, et alle città ansiatiche <lb/>
+et con pienezza mi fu detto, che lo faranno ai principi dell’<lb/>
+Unione per eccitarli quanto più potranno. </p>
+<p>Ancorché non sia ancor venuta la risolutione della provincia di Frisia <lb/>
+sopra l’assistenza, che si ha consultato di dare: in ogni modo li signori <lb/>
+Stati hanno dato ordine, che a buon conto siano esborsati al capitan <lb/>
+Frinch vinticinque milla fiorini. Voleva far con questi cinquecento <lb/>
+dragoni; ma parmi, che sua Eccellenza l’habbi consigliato a pigliar più tosto mille, o mille doicento fanti a piedi. </p>
+<p>Havendo quello, venuto per il marchese di Bada solecitato, et instato quanto <lb/>
+ha potuto, finalmente gli è stato permesso di far quattro compagnie di <lb/>
+cavallaria nel contorno di questa Provincia; et haverà per il passag-<lb/>
+gio la scorta della cavallaria delli signori Stati. </p>
+<p>Non si sente altro, che rumor di levate tanto d’infanteria, che di <lb/>
+cavallaria, et a quelle, che già sono state ordinate dai serenissimi <lb/>
+arciduchi si è aggiunto nuovo accrescimento a fine di passar sicuri. </p>
+<p>Il conte Gio. di Nassau, che dall’Imperatore haveva havuta carica di far <lb/>
+un reggimento di tre milla fanti, vedendo caduta con la morte<ptr target="#tn9" n="9"/> di <lb/>
+quella Maestà la sua commissione, ma più non saper di dove havesse <lb/>
+a cavar il denaro per la levata, et per il trattener le genti è passato <lb/>
+nel<ptr target="#tn10" n="10"/> Tirolo, et dicono, che dall’arciduca Leopoldo gli sia stata
+<pb n="050v" facs="08_050v" rend="0"/>
+data nuova commissione, et commodità del far detto reggimento. </p>
+<p>Si sta aspettando di sentir quello che faranno li principi dell’Unione: <lb/>
+ma mi disse il signor principe Mauritio, che dubitava assai della loro <lb/>
+ordinaria<ptr target="#tn11" n="11"/> sonnolenza; che havevano huomini, et forze<ptr target="#tn12" n="12"/> sufficienti, se <lb/>
+se ne havessero saputo servire per far del bene assai. </p>
+<p>Qui ci è avviso, che l’arcivescovo elettore di Magonza facci ogni possibile <lb/>
+per ridur quanto più presto la convocatione elettorale<ptr target="#tn13" n="13"/>, a fine di levar <lb/>
+a’ contrarii il beneficio del tempo, et la<ptr target="#tn14" n="14"/> direttione delle cose <lb/>
+dell’Imperio in particolare dal Palatino. </p>
+<p>Alla detta convocatione non si crede, che intervenghi il marchese elettore <lb/>
+di Brandemburgh, ritrovandosi da qualche tempo in qua in una estrema <lb/>
+debolezza; ma il principe suo figliolo, che da alcuni viene <lb/>
+dichiarito per soggetto assai spiritoso; ma da altri non è stimato tale. <lb/>
+È egli quasi coetaneo al Principe palatino, et come cognato che <lb/>
+gli è si tiene, che caminerà con gl’istessi fini, et pensieri. </p>
+<p>Credo, che forse li signori Stati usciranno a dirmi qualche cosa nel proposito <lb/>
+di ministro, et di unione, essendo venuti di nuovo a trovarmi li doi <lb/>
+che furono già a me fino al febraro passato; et tentorono cavar <lb/>
+se havessi havuto dalla Serenità vostra alcuna cosa di più che<ptr target="#tn15" n="15"/> conformasse <lb/>
+col gusto<ptr target="#tn16" n="16"/> di detti signori Stati (per nome de’ quali venero)<ptr target="#tn17" n="17"/> di<ptr target="#tn18" n="18"/> passar <lb/>
+più innanti a trattatione, dicendomi, che mostrando ella inclinatione <lb/>
+a più stretta amicitia, et unione aspettavano<ptr target="#tn19" n="19"/> che uscisse a più. <lb/>
+Io gli risposi, che havevo già espresso in questi propositi il senso <lb/>
+di quella serenissima Republica, che stimava propria la missione di recipro[ci]<ptr target="#tn20" n="20"/> <lb/>
+ministri; et hora toccava alli signori Stati uscir a dir ciò che <lb/>
+stimavano proprio perché vostra Serenità potesse farvi sopra il reflesso <lb/>
+che comporta materia sì grave. Dissero, che haverebbono riferto <lb/>
+ma dal giorno che furono a me, che sarà dimani l’ottavo non si [è]<ptr target="#tn21" n="21"/>
+<pb n="051r" facs="08_051r" rend="0"/>
+ridotta l’assemblea che sabbato,<ptr target="#tn22" n="22"/> et<ptr target="#tn23" n="23"/> per altre occupationi non fu fatta <lb/>
+relatione di questo particolare. Ben mi sono aveduto esser nato il <lb/>
+motivo da qualche discorso, che da alcuni è stato tenuto meco, coi <lb/>
+quali ho parlato sempre coi medesimi concetti detti di sopra; ma come ho <lb/>
+riverentemente detto<ptr target="#tn24" n="24"/> il fine è stato di cavar se havevo altro, che solo volessi <lb/>
+communicar a chi venisse direttamente dalla parte delli signori Stati. Starò <lb/>
+attendendo quello sarà risoluto per darne riverente avviso a vostra Serenità. </p>
+<p>Con queste invio alla Serenità vostra la replicata delle mie lettere della settimana passata <lb/>
+n°<ptr target="#tn25" n="25"/> 98, et di quella delli signori Stati scritta alli capitani delle dodici navi. Gratie etc. </p>
+<p>Da Amsterdam<ptr target="#tn26" n="26"/> a’ 22 aprile 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="051v" facs="08_051v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="052r" facs="08_052r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="052v" facs="08_052v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 99 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="015">
+<!--
+<p n="052vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>22 aprile 1619 ricevuta a’ 8 maggio </p>
+<p>Haia. n° 99 </p>
+<p>Anderà a dar mostra alle genti <lb/>
+del vassello accordato. </p>
+<p>Il Pac non è all’ordine coi bombardieri non sarà <lb/>
+più in tempo della partenza con la nave <lb/>
+bisognerà faccia il viaggio per terra. <lb/>
+Ha difficoltà in trovar buoni huomini et <lb/>
+massime capi bombardieri. </p>
+<p>Li ha dato ducati 100, fiorini cento, et ne darà <lb/>
+altri 100: spera dar mostra la seguente settimana. <lb/>
+Procurerà haver e mandar il conto delli <lb/>
+restanti viveri. </p>
+<p>Mauritio discorre dell’Imperio sopra Baviera <lb/>
+e Sassonia et che a Ferdinando Boemi <lb/>
+metteno in dificoltà la Corona et il voto. <lb/>
+Et che se havessero aiuti, potriano <lb/>
+riddursi a stato libero. </p>
+<p>Dice il secretario che ciò piace ai Stati <lb/>
+e crede lo fomentino. </p>
+<p>Vorrebbero i Stati saper che farà la <lb/>
+Republica et di là scriveranno in raccomandazione, <lb/>
+per assisterli e non dar passo, et anco <lb/>
+scriveranno in altri luoghi. </p>
+<p>Hanno esborsato danari al capitano Frinch <lb/>
+che farà anco genti. </p>
+<p>All’agente del marchese di Bada si <lb/>
+ha<ptr target="#tn27" n="27"/> promesso far 4 compagnie de cavalleria. </p>
+<p>Alle genti levate per li arciduchi s’è gionto <lb/>
+maggior numero per passar sicure. </p>
+<p>Al conte Gio. de Nasau data commodità da <lb/>
+Leopolto di far il suo reggimento. </p>
+<p>Mauritio dice che i principi uniti saranno lenti. </p>
+<p>Magonza affretta la convocazione elettorale <lb/>
+per levar a’ contrari il beneficio <lb/>
+del tempo. </p>
+<p>L. SS. R. </p>
+<p n="052vD">———</p>
+<p>[…]ideburgh<ptr target="#tn28" n="28"/> anderà il figliolo <lb/>
+[…]<ptr target="#tn29" n="29"/> convocatione che è cognato del Palatino <lb/>
+et caminerà coi suoi fini. </p>
+<p>Li doi deputati dei Stati procurano <lb/>
+intender dal secretario se ha havuto ordine <lb/>
+sopra ’l negozio di ministro et unione. </p>
+<p>Risponde haver già detto stimarsi propria <lb/>
+la missione di ministro toccarà loro uscire a che stimassero proprio per <lb/>
+potervisi far reflesso. Dicono <lb/>
+di referir: né essendosi ridotta <lb/>
+l’assemblea che una sola volta <lb/>
+dopo, non ne hanno parlato. </p>
+<p>Et dice comprender haver li deputati <lb/>
+fatto l’instanza per veder se si <lb/>
+voleva dir alcuna cosa a chi <lb/>
+venisse direttamente da <lb/>
+parte dei Stati. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-erà esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-ar- esito di correzione."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-a corretta su -e."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Segue foss depennato."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "or- esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-z- esito di correzione."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-h- esito di correzione."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "gus- esito di correzione."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Segue pi depennato."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "Lacuna del margine interno."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Aggiunto in sopralinea su parola depennata con segno di inserimento."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Precede et que depennato."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "A- esito di correzione."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "Precede far depennato."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Lacuna del supporto."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "Lacuna del supporto."</p></note>
+</div>
+</body>
+</text>
+</TEI>

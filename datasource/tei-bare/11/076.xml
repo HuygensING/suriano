@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.076 date 1622-12-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">076</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 399r-401v, 404r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">399r-401v, 404r-v, 402r-403v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Mansfelt is still in near Emden, speculation that the Count of East Frisia has left for a diet with the princes of Lower Saxony. Prince of Portugal has shown Suriano a print about the Spanish match from London. Christian of Brunswick is still in The Hague for his health but also because Maurice wants to avoid further problems between Mansfelt and Brunswick. From Rota’s letters, Suriano adds that Tournon is a charlatan and will not be able to convince Mansfelt. In Vlissingen a captured Portugese ship has arrived with a lot of sugar and in Middelburg a Jesuit is still imprisoned. Enclosed he sends Navi’s challenge for a duel near Rosendael against four high-ranking imperial nobleman printed in Leiden in both Latin and Italian (USTC 1515984) . Sends his wishes for Holy Christmas and Happy New Year and ends by reporting that letters from 11 November has arrived in a bad state; apparently the courrier was robbed near Venice. One printed text attached: USTC 1515984</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-12-12">12 dicembre 1622</date>
+            <num>112, 113</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="112">
+<div type="main" facs="main text of letter" n="112">
+<!--<p>12 dicembre 1622, L’Aia (cc. 399r-401v, 404r-v)</p>-->
+<pb n="399r" facs="11_399r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 449 comincia 448 </p>
+<p>Serenissimo Principe </p>
+<p>resta tuttavia il conte di Mansfelt nel contato di Embdem <lb/>
+di dove n’è uscito il conte medesimo di Embdem non tenen-<lb/>
+dosi sicuro. Viene scritto, ch’era passato a Hambourgh <lb/>
+et di là si crede, che anderà al re di Danimarca a <lb/>
+quello di Svetia, et ad altri principi della Bassa Sassonia <lb/>
+con chi è apparentato<ptr target="#tn1" n="1"/> a fine di far indoglienza con <lb/>
+loro, onde si crede, che questo habbi da causar qualche <lb/>
+mal effetto, et che divertir alcuna buona risolutione, in<ptr target="#tn2" n="2"/> <lb/>
+quei principi della Dieta che devono fare ai 15 del <lb/>
+presente stilo vecchio. Ancorché quelli, che intendono <lb/>
+il modo del fare, et gl’interessi di essi<ptr target="#tn3" n="3"/> Principi <lb/>
+credono, che non siano per risolver alcuna cosa <lb/>
+di buono per il commune interesse ma solo per la <lb/>
+loro propria difesa ognuno in particolare, massime <lb/>
+comprendendosi sempre più il re d’Inghilterra alieno <lb/>
+dall’intraprender contra la casa d’Austria per <lb/>
+non offender Spagnuoli, et non intorbidar l’effetto <lb/>
+del matrimonio, che si scuopre in lui esser molto fisso. <lb/>
+Al qual proposito dirò alla Serenità vostra haver veduto in <lb/>
+mano del signor principe di Portugallo una carta stampata <lb/>
+con sopra il principe d’Inghilterra alla mano dritta; <lb/>
+la principessa di Spagna alla sinistra et si dano la <lb/>
+mano, et Christo in mezo, che par che rappresenti
+<pb n="399v" facs="11_399v" rend="0"/>
+l’accomplimento del matrimonio. La carta gli è stata portata <lb/>
+da un frate franciscano portughese venuto ultimamente di <lb/>
+Londra. Io sono sicuro, che vostra Serenità haverà il più <lb/>
+certo di queste inventioni, et dei concetti, che corrono <lb/>
+in quella corte. Qui non si sa più ove tornar il <lb/>
+giudicio, né che sperar da quella parte. </p>
+<p>Il conte di Mansfelt per quello viene riferto haveva <lb/>
+intimato al conte d’Oldemburgh di haver 200 mila raistaleri <lb/>
+glien’ha offerto centomilla; ma Mansfelt ha mostrato <lb/>
+non restar contento; onde Oldemburgh gli ha fatto <lb/>
+dire, che non si contentando non haveva altro per lui <lb/>
+che polvere, et balle, volendo inferire, che gli have-<lb/>
+rebbe fatta resistenza. A quelli di<ptr target="#tn4" n="4"/> Munster haveva <lb/>
+ricercata grossa contributione ripartita sopra <lb/>
+alcune misure di terra ognuna quanto possono <lb/>
+lavorar doi cavalli in un giorno, et sono trentadoi <lb/>
+milla pezzi. Alcuni dicono, che habbi adimandati <lb/>
+cinque raistaleri per una pezza, altri doi, et <lb/>
+questo per quattro mesi, che sarebbe in ogni <lb/>
+modo summa grandissima, et li deputati, di quei <lb/>
+popoli erano passati nel contado d’Embdem <lb/>
+per aiustar in manco che havessero potuto, et <lb/>
+si tiene per fermo, che il Conte si sarà accommodato
+<pb n="400r" facs="11_400r" rend="0"/>
+al conveniente, come anco con quello di Oldemburgh. </p>
+<p>Sono fuori patenti per levate di esso conte di Mansfelt, et <lb/>
+quelle del duca di Bransvich caminano lentamente <lb/>
+avanti. Egli si trattiene ancor qui et non è lasciato <lb/>
+partire per doi rispetti oltre quello del guarirsi: l’uno <lb/>
+perché pare che non sia consigliato andar alle sue truppe <lb/>
+senza denari, assicurandosi, che questo causerebbe discontento <lb/>
+et alteratione grande con rischio di amutinatione <lb/>
+tra la soldatesca con disreputatione di lui, et non senza <lb/>
+pericolo di qualche accidente, che gli potesse arrivare <lb/>
+l’altro perché non si vorrebbe ch’egli si trovasse a parte <lb/>
+nel dar disgusto ai principi della Bassa Sassonia ingelositi <lb/>
+per quelle forze, et con dubio forse, che un giorno non <lb/>
+vadino a cader sopra alcuno di loro. Et parmi compren-<lb/>
+der, che anco venghi trattenuto dai consigli del signor principe <lb/>
+Mauritio, che si vale di altro pretesto, ma col fine <lb/>
+di lasciar il conte di Mansfelt solo al governo di quelle <lb/>
+militie per evitar la gelosia tra lui, et esso Duca <lb/>
+per il commando. Hanno caro li signori Stati, che detto <lb/>
+Mansfelt si trattenghi in quella parte vicina a queste <lb/>
+Provincie, et in sito proprio non lontanto dall’<lb/>
+Alemagna, quando l’interesse di queste Provincie <lb/>
+le necessitasse a richiamarlo di qua; ò l’occorrenza
+<pb n="400v" facs="11_400v" rend="0"/>
+portasse, che dovesse passar ad alto coll’armi sue verso il <lb/>
+Palatinato, o altrove per far diversione. </p>
+<p>Se dal Conte o con lettere, o col mezo di qualcheduno mi fosse <lb/>
+tocco de’ concetti passati di aiuti o di assistenze, overo <lb/>
+di passar nello stato di vostra Serenità con genti, o colla sua <lb/>
+persona risponderò con quei concetti, che scuopro esser <lb/>
+riusciti di contento alla Serenità vostra et con quello di più <lb/>
+che ultimamente mi ha espressamente commesso nelle sue <lb/>
+lettere dei 17 del passato. </p>
+<p>Quanto alla patente so certo, che ’l Conte l’ha havuta <lb/>
+ma non so perché sia egli restato di significarlo alla <lb/>
+Serenità vostra scriverò al Rotta perché ne cavi il certo. </p>
+<p>Nelle medesime lettere ho ricevuto quello, che scrisse di qua esso <lb/>
+Rotta toccante li concetti di Tournon, me ne valerò <lb/>
+per informatione. Quanto a Tournon è un chiarlone <lb/>
+viene conosciuto per tale, et non credo che ’l signor conte <lb/>
+di Mansfelt sia così facile a persuadersi, et imprimersi <lb/>
+di quello, ch’egli va dicendo, et sarà parte del Rotta <lb/>
+a cui scriverò di levar quell’ombre che o nel <lb/>
+medesimo Conte, o in altri del suo seguito potessero <lb/>
+partorir le voci d’un mentitore chiarlatano, che <lb/>
+per vender la sua mercantia in Francia, et tirar il <lb/>
+suo profito anco a pro del patrone si sarà servito
+<pb n="401r" facs="11_401r" rend="0"/>
+dei concetti sparsi senza pensar, imprudentemente, ove <lb/>
+vada a ferir l’offesa. </p>
+<p>Con lettere dei 3 di questo mese scrivono di Colonia, che <lb/>
+si era tirato dal giovedì fino al giorno della data <lb/>
+nel forte Papemuts con 5 pezzi di canone, et <lb/>
+pensava l’inimico farvi brecchia; ma bisognava <lb/>
+poiché con sforzo di barche fosse andato a gua-<lb/>
+dagnarla, che non gli sarebbe stato così facile l’accostarsi. </p>
+<p>Si è scritto anco, che Tilly havendo lasciati mille cavalli et doi reggimenti d’infanteria nanti Franchendal <lb/>
+per impedir, che o soccorsi, o viveri non entrino in <lb/>
+quella piazza, si doveva<ptr target="#tn5" n="5"/> retirar nelle terre di Hassia <lb/>
+per quivi svernar. Et qui viene stimato un principio <lb/>
+di buona volontà, che si habbi da’ Austriaci verso <lb/>
+quel Stato per mandarla ad effetto a suo tempo. <lb/>
+Quello che fa meravigliare è esser il Paese molto <lb/>
+discosto. </p>
+<p>Ho avviso di Midelburgh con lettere dei 9 che a Flesinghen <lb/>
+era arrivata una nave da guerra di questi paesi <lb/>
+conducendo seco un vassello Portugesse col carico di <lb/>
+400 casse di zuccaro; et quello che haveva essercitato <lb/>
+il carico del sindicato in Angola che lo stimano <lb/>
+per cinquanta milla franchi di ranzone. Ma quelli
+<pb n="401v" facs="11_401v" rend="0"/>
+di Doncherchen hanno anc’essi presa una barca <lb/>
+grossa di portata di vinti lasti in circa ma non mi <lb/>
+viene scritto che carico che haveva; che non può <lb/>
+esser di rilievo. </p>
+<p>Da detta parte di Doncherchen viene confirmato l’avviso <lb/>
+dell’essecutione fatta contra quei poveri pescatori <lb/>
+di questi paesi; ma non che siano a Midelburgh <lb/>
+stati impiccati quei sacerdoti. Alcuni di<ptr target="#tn6" n="6"/> quelli della religione <lb/>
+riformata qui portati dal zelo suo appassionato publicorono quello haverebbono voluto; et li catholici <lb/>
+crederono facilmente impressi, che così potesse esser <lb/>
+essercitata la giustitia per vendetta. </p>
+<p>Il iesuita continua prigioniero. Gli vengono dimandati <lb/>
+disdotto milla fiorini per redimersi, ma egli confessando <lb/>
+l’errore d’essersi lasciato trovar in questi paesi <lb/>
+si sottomette all’emenda di 600 fiorini, et di <lb/>
+esser bandito fuori del Paese, come parla l’<lb/>
+editto medesimo delli signori Stati. </p>
+<p>Il colonello Navi stato a Leidem ha fatto metter in <lb/>
+stampa nella lingua latina, et italiana la disfida <lb/>
+contra li quattro principali suoi nemici, havendo ottenu-<lb/>
+to la piazza franca all’intorno di Rosendal tra <lb/>
+Breda, et Anversa dal signor principe d’Oranges
+<pb n="404r" facs="11_404r" rend="0"/>
+et havendone havute qualche copia la mando qui aggiunta <lb/>
+per quelli dell’Eccellenze vostre che havessero gusto di vederla. <lb/>
+Questo Cavaliere è impresso per far questa vendetta hono-<lb/>
+rata, et hora è dietro per dar in luce il suo manifesto. <lb/>
+Io non m’intrico né poco, né molto in questi suoi concetti <lb/>
+ben come suddito di vostra Serenità lo veggo volentieri, et lo <lb/>
+accarezzo; et egli si mostra devotissimo, et inclinatissimo <lb/>
+a servirla, et m’ha pregato di attestarglielo, come <lb/>
+anco di assicurarla, che sarà sempre pronto quando <lb/>
+vostra Serenità gli commanderà di intraprender quella carica <lb/>
+che già haveva offerto alla felice memoria dell’illustrissimo <lb/>
+signor Pietro Gritti mentr’era alla corte dell’Imperatore. </p>
+<p>A vostra Serenità et a quell’eccellentissimo Senato auguro con ogni più <lb/>
+devoto, et riverente affetto felice il Natale santissimo <lb/>
+felicissimo il principio dell’anno nuovo; et gloriosi <lb/>
+et felicissimi i pensieri, et operationi dell’Eccellenze vostre <lb/>
+illustrissime a grandezza, et essaltatione di quella serenissima <lb/>
+Republica. </p>
+<p>Il dispaccio delli xi del passato, che mi mancava m’è <lb/>
+venuto tutto disfatto dicendo i messaggieri, che ’l <lb/>
+corriero di quel tempo era stato svaleggiato <lb/>
+vicino a Venetia. Tanto scrivo per riverente avviso se <lb/>
+per caso vi fossero state lettere publiche. Gratie etc. </p>
+<p>Dall’Haya li 12 decembre 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="404v" facs="11_404v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 449 comincia 448 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="112">
+<!--
+<p n="404vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 decembre 1622 ricevute 29 detto </p>
+<p>Haya 2<hi rend="superscript">da</hi><ptr target="#tn7" n="7"/> n° 44[9]<ptr target="#tn8" n="8"/> <lb/>
+449 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="113" corresp="112" source="402r-403v" >
+<div type="main" facs="main text of attachment I" n="113" corresp="112" >
+<!--<p>Allegato I al n. 112 (cc. 402r-403v)</p>-->
+<pb n="402r" facs="11_402r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Blank page"/></p>
+<pb n="402v" facs="11_402v" rend="0"/>
+<p>Domini, Maximiliane de Lichtenstein, Ioannes Lu. de Stadian <lb/>
+Praesidens, Carole de Harach, &amp; Rudolfe de Tiefenpach ; Illegitimum Arestum, quod mihi imposuistis, similque injusta <lb/>
+persecutio; quam in me execuistis, incitant me ad honestam ultionem. <lb/>
+Itaque si tunc linguâ contra me valuistis, nunc ad gladii adoperatio-<lb/>
+nem vos provoco; ut judicem nostrae liti multo magis idoneum. Sed <lb/>
+arma erunt aequalia; qualia vosmet ipsi elegeritis, ad pedestrem aut equestrem pugnam. Maioris vestrae certitudinis commoditatisque causâ locum impertravi ad pugnam liberum in Brabantiâ inter duas <lb/>
+urbes Antuerpiam &amp; Bredaham, apud opidum, quod vocatur Rosendal. ubi tenebuntur utraeque partes ses sistere, cum ea animi sinceritate ac fidei sanctimoniâ, quae probos integrosque &amp; omni fraude ac do-<lb/>
+lo vacuos Equestris ordinis viros deceat: idque sub poenâ Infamiae. <lb/>
+Primus in certamen mecum descendet Dominus Maximilianus, pri-<lb/>
+mâ die mensis Februarij proximi, anni Salutis nostrae M.d.C.XXIII, horâ octavâ matutinâ, comitatus duobus viris Equestribus. Et quia confi-<lb/>
+do, Deum, ut aequissimum Iusti judicem, ad ampliores innocentiae meae <lb/>
+probationes me servaturum; secundùm Dominum de Lichtenstein si-<lb/>
+stet se ad pugnam insequenti die Dominus de Stadia. Ab hoc etiam incolumis ubi evasero; tertia die pugnabit mecum Dominus de Ha-<lb/>
+rach. Heic quoque ubi Deus sospitem me evadere si verit; ultimus ar-ma <lb/>
+conferet Dominus de Tiefenpach. Spero <lb/>
+illic Vobis injustam causaum cestram, quam illegitimis iniquissimisque modus in me execuistis omnibus auteum mortalibus causam meam maxime justam me probatu-<lb/>
+rum. Datum xx die Novembris anni M.D.C.XXII. </p>
+<p>Nicolaus Navi.</p>
+<pb n="403r" facs="11_403r" rend="0"/>
+<p>Signori, Massimiliano di Lichtenstein, Gio. Lu di Stadion Presidente, <lb/>
+Carlo di Harach, &amp; Rodolfo di Tiefempach: l’illecito Aresto fattomi <lb/>
+accompagnato d’una ingiusta persecutione di Vostre Signorie, mi chia- <lb/>
+mo ad una honorata vendetta. Che, se adoprarono la lingua; hora le chiamo <lb/>
+ad adoprar la spada: giudice più proportionato alla nostra querela. L’armi <lb/>
+saranno eguali, &amp; quali si sapranno eleggere, à piedi ò à cavallo. Et per <lb/>
+maggior certezza e commodità di Vostre Sig. ho impetrato il campo franco in Brabantia, nel luoco neutrale, chiamata Rosendael, trà le due piazze An- <lb/>
+uersa &amp; Bredà, doue saranno tenute le parti à comparire, con sicera &amp; leal <lb/>
+fede di buon Cauagliero, &amp; affatto spogliati di fraude &amp; inganni: &amp; ciò sotto pena d’Infamia. Comparirà prima à battersi meco il Sig. Massimilia- <lb/>
+no; che si troverà il primo del mese di Febraro prossimo l’anno di nostro Sa- <lb/>
+lute Mille seicento vintitrè, all’hora ottava di mattina, accompagnato da due Cavaglieri, che li assisteranno. Et per che Dio. Sig. Bilanciatore del giu- <lb/>
+sto (come credo) mi preserverà à più larghe demostrationi: dietro al Signor <lb/>
+de Lichtenstein comparirà il seguente giorno all’istessa hora il Signor <lb/>
+di Station. &amp; preservato anco di lui, comparirà il terzo giorno il Signor di Harach. &amp; il quatro giorno, preservato da prima, farà l’istesso il Signor di <lb/>
+Tiefempach. Oue spero, far conoscer à Vostre Signorie l’ingiusta cause, che <lb/>
+con mezi indiretti hanno esercitato contro di me; &amp; al Mondo maggior- <lb/>
+mente la mia gustitia. Dato ali 20. Di Novemb. M.D.C.XXII. </p>
+<p>Nicolò Naui.</p>
+<pb n="403v" facs="11_403v" rend="0"/>
+<p>Nella 2<hi rend="superscript">da</hi> n<hi rend="superscript">o</hi> 449 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes "che" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line on "quei" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "si dov-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Corrected above "p(rim)a."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

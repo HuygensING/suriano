@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.088 date 1622-01-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">088</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 450r-452v, 455, 458</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">450r-452v, 455r-v, 458r-v, 453r-454v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Received some of his letters dated 26 December from podestà of Bassano, who had recuperated the stolen letters and acknowledges receipt of 31 December and 1 January from Venice with news that governor of Milan will send troops to the Emperor to assist against Mansfeld. Suriano describes how the news of Venetian financial aid has been very well received in States General by quoting the words of the president at length. Van Aerssen has again tried to be excused from going to Venice. States of Holland will only reconvene in March. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-01-24">24 gennaio 1622</date>
+            <num>144, 145</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="144">
+<div type="main" facs="main text of letter" n="144">
+<!--<p>24 gennaio 1622, L’Aia (cc. 450r-452v, 455r-v, 458r-v)</p>-->
+<pb n="450r" facs="10_450r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 361 fin 362 </p>
+<p>Serenissimo Principe </p>
+<p>l’illustrissimo signor podestà, et capitanio di Bassano con sue lettere <lb/>
+de’ 26 del mese passato m’ha inviate alcune mie, che col <lb/>
+mezo della diligenza fatta usar da sua Signoria illustrissima ha ricu-<lb/>
+perate dal svaleggio seguito nella sua giurisdittione <lb/>
+del corriero d’Augusta, et con le particolari ve n’era <lb/>
+una publica in raccommandatione delli signori Francesco <lb/>
+et Andrea Rodriges d’Andrade per la ricuperatione delle<ptr target="#tn1" n="1"/> <lb/>
+sette balle di seta. </p>
+<p>Sabbato poi mi pervene il dispaccio dell’ultimo del passato. <lb/>
+Vi era una lettera di vostra Serenità del medesimo giorno con gl’<lb/>
+avvisi de’ Grisoni, et di quello, che passava in quelle <lb/>
+parti; come anco della risolutione fatta dal governator <lb/>
+di Milano di mandar cavallaria, et infanteria <lb/>
+per servitio di Leopoldo contro Mansfelt. </p>
+<p>Altra lettera pur de’ 31 m’è pervenuta colle sudette, <lb/>
+et hoggi appunto ho essequito il commandamento di vostra Serenità <lb/>
+nell’assemblea dei signori Stati con quella forma di <lb/>
+concetti, et di parole, che mi vengono considerate, et <lb/>
+detate dalla prudenza di lei. <hi rend="decoded">La</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">rissolutione, ch’ella haveva presa di sodisfar <lb/>
+in conformità della capitullatione di aleanza alle <lb/>
+debite contributtioni:</hi>
+<pb n="450v" facs="10_450v" rend="0"/>
+<hi rend="decoded">la mia espositione con <lb/>
+allegra ciera fu aggradita, et con particolar dimostrati-<lb/>
+one di non poco contento udito quanto da lei <lb/>
+per servitio di queste Provincie era stato deliberato, <lb/>
+et doppo haversi tra li deputati formata la <lb/>
+risposta il Pressidente presa licenza di <lb/>
+parlare disse: sono hora due anni passati, <lb/>
+che in questo stesso luoco è stata formata, <lb/>
+et stabilita l’aleanza tra la serenissima republica <lb/>
+di Venetia, et la nostra, né altro si è promes-<lb/>
+so giamai alcuno di questi signori dalla sin-<lb/>
+cerità di sua Serenità, che li effetti veri et sin-<lb/>
+ceri non altrimenti di quello, che si promettono <lb/>
+di loro stessi, et perché doppo l’espiratione della <lb/>
+tregua, et anco qualche settimane inanzi <lb/>
+sono queste Provincie state dechiarite nemi-<lb/>
+che, ribelli, et sottoposte ad hostilità,</hi><ptr target="#tn3" n="3"/> <hi rend="decoded"><lb/>
+et ad aperta guerra, d’allhora <lb/>
+si può</hi>
+<pb n="451r" facs="10_451r" rend="0"/>
+<hi rend="decoded">sicuramente dire, che siano entrate nei tra-<lb/>
+vagli di essa, tanto con le sudette publiche hostilità <lb/>
+che con particolari ritentioni fatte da’ Spagnoli, onde si può <lb/>
+dir, che presto sia un anno che questa Republica sia <lb/>
+per necessità condannata alle spese, et col peso <lb/>
+dell’interesse di molta militia, et di molti <lb/>
+vasselli, dovendo contrastar alle armi di <lb/>
+così potente nemico in tre parti, in mare <lb/>
+nel proprio Paese, et sui confini, et per tanto <lb/>
+sperano li signori Stati che sua Serenità, havuto <lb/>
+rispetto a questo, alle spese fatte, et a quelle, <lb/>
+sono sottoposti, condescenderà a sodisfar a tutto <lb/>
+fin da principio di questa guerra, sicura che <lb/>
+non altrimenti haveressimo fatto noi, et lo <lb/>
+faressimo quando che Dio liberi la serenissima <lb/>
+Republica, ella</hi>
+<pb n="451v" facs="10_451v" rend="0"/>
+<hi rend="decoded">fosse attaccata, o invasa con <lb/>
+atto hostile, e in quelle maniere, che sono <lb/>
+dichiarite nel quarto capitollo dell’aleanza, <lb/>
+et perché la necessità è presente, et continue <lb/>
+sono le spese, che fanno li signori Stati per questo <lb/>
+s’haverebbe ben desiderato, che qui fosse stato <lb/>
+da voi prontamente esborsato il denaro, conforme <lb/>
+all’espressa dechiaratione in questo proposito nel <lb/>
+quinto capitlo di detta aleanza, che parla di <lb/>
+contarsi il denaro dall’ambasciator, o ressidente, <lb/>
+che sarà stato di quella Republica, che haverà <lb/>
+la guerra, haveranno però questi signori consideratione <lb/>
+a quanto sua Serenità ha fatto dire per l’esborso <lb/>
+del denaro, in tanto li signori Stati mi pregano <lb/>
+ringratiar affettuosamente per loro nome la <lb/>
+serenissima Republica di quanto ha loro fatto sapere, <lb/>
+</hi>
+<pb n="452r" facs="10_452r" rend="0"/>
+<hi rend="decoded">che si riceve per testimonio della sua buona <lb/>
+volontà, assicurandola, che se la prometteranno <lb/>
+sempre verso questi Stati, come et per la libertà <lb/>
+commune, et per gl’interessi reciprochi di amore <lb/>
+et della commune difesa, et conservatione, sua <lb/>
+Serenità si potrà prometter sempre dal canto di <lb/>
+queste Provincie. Un altro dei signori della <lb/>
+provincia di Holanda che è quella, che presiede <lb/>
+questa settimana, soggiunse: li signori Stati <lb/>
+vi pregano anco di tenir la buona mano, et <lb/>
+scriver efficacemente, perché sia sodisfatto a tutte <lb/>
+le mesate deccorse. Io a quanto mi disse <lb/>
+il Presidente corisposi in complimento repli-<lb/>
+cando il buon affetto di vostra Serenità, et l’ottima <lb/>
+inclinatione di lei verso queste nobilissime Provincie, <lb/>
+et sopra l’ultimo concetto me la passai con dire, <lb/>
+che non haverei mancato di scriver, ma che <lb/>
+poteva bastar a sufficienza, quanto che dal-<lb/>
+la serenissima</hi></p>
+<pb n="452v" facs="10_452v" rend="0"/>
+<p><hi rend="decoded">Republica era stato presentato; <lb/>
+ben mi avidi dai gesti, dai concetti, et dalle <lb/>
+parole, che restorno assai sodisfatti, et il signor <lb/>
+principe Mauritio in particolare facendo facia <lb/>
+allegra mostrò meco goder dell’aviso. <lb/>
+La speranza dei signori Stati è che vostra Serenità sia <lb/>
+per far sodisfar a tutto fin</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">dal principio <lb/>
+della guerra. In qualcheduno, che <lb/>
+fece refflesso sopra quello, che mi ha commandato <lb/>
+di dire, dubitando, che vostra Serenità non volesse far <lb/>
+contar il danaro, se non venisse costì l’Ambasciatore <lb/>
+ma altri interpretorono che sarebbe bastante <lb/>
+per hora. <lb/>
+</hi></p>
+<p>A qual proposito non lascierò di dir alla Serenità vostra che ’l <lb/>
+signor cavallier Arsen d’Inghilterra con lettere scritte al <lb/>
+padre communicate all’assemblea dei Stati Generali, <lb/>
+et con altre direttive alli stati di Holanda
+<pb n="455r" facs="10_455r" rend="0"/>
+ha tentato esser iscusato dall’ambasciata di Venetia <lb/>
+essortando la convenienza dei signori Stati, et il loro debito <lb/>
+esser di non digerir il mandar ambasciator a vostra Serenità <lb/>
+mentr’egli impedito in Inghilterra, et per li suoi particolari <lb/>
+interessi non poteva andarvi. Nei Stati Generali <lb/>
+non si ha pigliato a mano questo negotio sendosi li depu-<lb/>
+tati di Holanda riservati di parlarne alli stati <lb/>
+della Provincia convocati, li quali non sono stati <lb/>
+d’accordo, et particolarmente Dordrecht, Amsterdam, Alcmar, <lb/>
+et qualche altra principal città restano salde nel <lb/>
+voler, che l’Arsen vadi; ma poiché si sono disuniti <lb/>
+più non si parlerà per hora di questo negotio; solo <lb/>
+a nuova riduttione, che sarà per il principio di <lb/>
+marzo forse, che allhora l’Arsen sarà ritornato <lb/>
+d’Inghilterra. Intanto egli resta colla carica; perché <lb/>
+se bene anco la nobiltà si contenta licentiarlo <lb/>
+vi è però con riserva, se si troverà soggetto <lb/>
+proprio, che eletto doverà partir subito. Aspetterò<ptr target="#tn5" n="5"/> <lb/>
+colla risposta delle presenti li prudenti avvertimenti <lb/>
+di vostra Serenità se questa iscusa dell’Arsen seguisse, come <lb/>
+doverò muovermi, et governarmi se doverò o <lb/>
+sottomano, o apertamente oppormi, quando sentissi
+<pb n="455v" facs="10_455v" rend="0"/>
+nominar soggetto d’inferior qualità di detto Arsen, o non <lb/>
+fosse del corpo della nobiltà, mentre ho subodorato, <lb/>
+che vi pretende un figliolo del borgomastro di Amsterdam <lb/>
+Pavoni stato console in Soria, che non è del corpo <lb/>
+di detta nobiltà. Intanto non mancarò con ogni <lb/>
+debita riserva di mantener la publica riputatione. </p>
+<p>Ho presa buona opportunità di raccommandar alli <lb/>
+signori Stati il negotio et interessi delli mercanti Rodriges <lb/>
+et soliciterò per haverne se sarà possibile una <lb/>
+buona ispeditione. Gratie etc. </p>
+<p>Dall’Haya li 24 genaro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="458r" facs="10_458r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="458v" facs="10_458v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 361 fin 362 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="144">
+<!--
+<p n="458vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 gennaro 1621<ptr target="#tn6" n="6"/> ricevute 10 febraro </p>
+<p>Haya. n° 361 </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="145" corresp="144" source="453r-454v" >
+<div type="main" facs="main text of attachment I" n="145" corresp="144" >
+<!--<p>Allegato I al n. 144 (cc. 453r-454v; decodifica di cc. 450r-452v)</p>-->
+<pb n="453r" facs="10_453r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="453v" facs="10_453v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="454r" facs="10_454r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="454v" facs="10_454v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "La … bastante | per hora" decoding of the encrypted text can be found on cc. 453r-454v; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "et ad hostilità" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "che" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "A-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

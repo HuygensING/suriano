@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 02.014 date 1616-08-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">02</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 2, 164r-v, 166r-167v, 169r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">164r-v, 166r-167v, 169r-v, 165r-v, 168r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports on the correspondence he has had with Giovanni Battista Pasini and Ottavio Bardoni, two Venetian subjects living in the Habsburg Netherlands. Bardoni has given him more information about Giuseppe Gamurini, an experienced Tuscan military engineer, who might be willing to enter into Venetian service. Prince Maurits is visiting Den Briel and Suriano hears from French ambassador of an attack by Longueville on Peronne. Reports that Christian of Anhalt has been sent to the Emperor on behalf of the princes of the union. It is rumored that the Duke of Saxony might join this union but Suriano expresses doubts. He receives news from Sticke that the marchese of Brandenburg might visit Kleef. The States of Holland need to find a resolution on the matter of predestination. The Hanseatic towns have concluded an alliance with the Dutch Republic to protect them against Danish invasion. The merchant Burlamacchi has travelled to Amsterdam to settle some outstanding debts. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1616-08-31">31 agosto 1616</date>
+            <num>051, 052</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="051">
+<div type="main" facs="main text of letter" n="051">
+<!--<p>31 agosto 1616, L’Aia (cc. 164r-v, 166r-167v, 169r-v)</p>-->
+<pb n="164r" facs="02_164r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Blank page"/></p>
+<pb n="164v" facs="02_164v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="051">
+<!--
+<p n="164vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>1616 a’ 30<ptr target="#tn1" n="1"/> agosto ricevuta a’ 14 settembre </p>
+<p>Secretario Surian <lb/>
+dall’Haya </p>
+<p>L. SS. R. </p>
+<pb n="166r" facs="02_166r" rend="0"/>
+<p>Serenissimo Principe </p>
+<p>doppo l’ispeditione dell’ultime mie de’ 24 ho ricevute quattro <lb/>
+mani di lettere della Serenità vostra doi delli 8 et l’altre de’ 21 <lb/>
+et 23<ptr target="#tn2" n="2"/> del passato. Hanno tardato a capitarmi perché <lb/>
+ispeditemi dalla parte di Zurich il messaggiero mi fallì nel <lb/>
+viaggio. Degl’avvisi mi vaglio secondo, che per mia <lb/>
+debolezza conosco proprio al servitio, et alla riputatione <lb/>
+di quel serenissimo Dominio; et sopra quanto ha scritto l’eccellentissimo signor <lb/>
+ambasciator Giustiniano in materia di quei <lb/>
+<hi rend="decoded">quei</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">sudditi banditi, che servono al serenissimo <lb/>
+Alberto, ho havuto sabbato</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">lettere dall’Eccellentia sua es-<lb/>
+peditemi da Misiers.</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">Giovan Battista <lb/>
+Pasini di Brusseles, crede il medesimo <lb/>
+Pasini, et un Ottavio Bardoni suddito <lb/>
+di vostra Serenità</hi> <lb/>
+che io habbi auttorità di far levata <lb/>
+ho rescritto all’uno, et all’altro in conformità di <lb/>
+quanto ella mi commanda. Attenderò la risposta, et <lb/>
+venendo alcuno a me lo riceverò gratamente, et sentirò <lb/>
+quanto propone per darlene immediate riverente <lb/>
+conto: osservando nel resto con ognuno quel tanto <lb/>
+che mi viene commesso da lei; né lascierò di dirle, <lb/>
+che esso <hi rend="decoded">Bardoni</hi><ptr target="#tn6" n="6"/> mi dice questo particolare nelle <lb/>
+sue lettere, che quando vi saranno li ricapiti sufficienti, <lb/>
+(che vuol dir il denaro) gli dà l’animo, che si farà
+<pb n="166v" facs="02_166v" rend="0"/>
+al sicuro non una; ma più compagnie di buoni, et esperti <lb/>
+soldati; ma non parla per dove haveranno a passare, il che <lb/>
+gli ho avvertito che mi avvisi. Scrive <hi rend="decoded">il Pasini</hi><ptr target="#tn7" n="7"/> <lb/>
+in conformità di quanto ha significato l’eccellentissimo Giustiniano <lb/>
+alla Serenità vostra; ma più ch’è necessario haver gl’ordini presti <lb/>
+perché li soggetti, che si offeriscono non possono poi<ptr target="#tn8" n="8"/> aspettare, et <lb/>
+pigliano per l’intervallo del tempo altro partito né mi nomina alcuno<ptr target="#tn9" n="9"/>. Mi <lb/>
+aggiunge poi, che si trova appresso il marascial d’Ancr[e] <lb/>
+il capitan Gioseppe Gomorrini ingegnero eccellentissimo, che ha servito <lb/>
+in Fiandra molto spatio di tempo, et partì disgustato di là <lb/>
+ch’è molto ben conosciuto dalla Serenità vostra, et dal signor Pompeo <lb/>
+Giustiniano, che quando li fosse fatto partito convenevole <lb/>
+li dava l’animo di condurlo al servitio, et che saria stato <lb/>
+aspettando la risposta. </p>
+<p>Il signor principe Mauritio partì lunedì per la Brilla per <lb/>
+veder quella piazza, ove mai più era stato, per ordinare <lb/>
+qualche fabrica, et doveva vederne anco alcun altro <lb/>
+nel viaggio col medesimo oggetto. Io presi occasione <lb/>
+ancorché dovesse esser di presto ritorno, di far riverenza <lb/>
+all’Eccellenza sua prima del partire, et gli feci parte degl’avvisi <lb/>
+che havevo ricevuti, che li sentì con sodisfattione; come <lb/>
+per termine di confidenza feci il medesimo con alcuno di questi <lb/>
+signori, et anco con questo ambasciatore di Francia; il quale mi
+<pb n="167r" facs="02_167r" rend="0"/>
+diede conto della<ptr target="#tn10" n="10"/> sorpresa, che haveva fatta monsignor di <lb/>
+Longavilla della fortezza di Perona; mostrando in ciò <lb/>
+passione d’animo, et di temere, che questo possi far qualche <lb/>
+addito a nuove perturbationi nel Regno. </p>
+<p>Già vostra Serenità haverà inteso (s’è vero quanto viene scritto) l’ar-<lb/>
+rivo in corte cesarea del signor principe Christiano d’Anhalt <lb/>
+ispedito in diligenza dagl’altri principi dell’Unione <lb/>
+per rappresentar in che si stimino aggravati, et per <lb/>
+instar il rimedio agl’inconvenienti, che pare si preparino, <lb/>
+et potrebbono succeder nella Germania, et massime <lb/>
+dalla parte dell’Halzatia; et ciò ha riguardo al marchese di Bada. </p>
+<p>Qui è stato detto, che ’l signor duca di Sassonia habbi fatto in-<lb/>
+tender alli principi dell’Unione, desiderar d’esser <lb/>
+chiamato anc’esso<ptr target="#tn11" n="11"/> nella riduttione, che dovevano fare: <lb/>
+et viene affermato, ch’egli sia per dichiarirsi del loro <lb/>
+partito. Difficilmente si crede l’avviso, mentre s’è veduto <lb/>
+per il passato, che quel Principe ha voluto sempre <lb/>
+adherir alla casa d’Austria: tuttavia essendosi già alcuni <lb/>
+giorni trovato col signor marchese di Brandemburgh in <lb/>
+stretti ragionamenti<ptr target="#tn12" n="12"/> pare che non sia lontana <lb/>
+la credenza da questo; sapendosi anco, ch’egli si <lb/>
+duole grandemente, che dall’Imperatore non gli sia osservato, <lb/>
+quanto gli è stato promesso. </p>
+<pb n="167v" facs="02_167v" rend="0"/>
+<p>L’agente di esso elettore di Brandemburgh, qual fui a vedere <lb/>
+ultimamente, mi disse, che ’l suo Principe già alcuni giorni <lb/>
+hebbe in intentione di passarsene a Cleves, et arrivar anco <lb/>
+qui vicino, et forse in questo stesso luoco per abboccarsi colli <lb/>
+signori Stati, et col signor principe Mauritio; ma che sua Eccellenza l’haveva <lb/>
+sconsigliato, et s’è divertito il viaggio col rappresentar a <lb/>
+sua Altezza, che la sua venuta qui non servirebbe, che a dar <lb/>
+sospetto con poca riputatione. </p>
+<p>Questi signori hanno spedito fuori nelle Provincie per la convocatione <lb/>
+ordinaria di tutti li Stati Generali per il mese venturo, et <lb/>
+quelli in particolare del Consiglio di Holanda doveranno trattare <lb/>
+sopra il rimedio al disordine che segue tra predicanti della <lb/>
+religione riformata in questa particolar Provintia sostentando <lb/>
+alcuni esser di necessità il creder la predestinatione: onde <lb/>
+li popoli restano in sé stessi confusi della diversità de’ <lb/>
+pareri. Si sospetta, che si vi sia fomento in questa <lb/>
+parte, et che venga da alta mano <lb/>
+<hi rend="decoded">et</hi><ptr target="#tn13" n="13"/> <hi rend="decoded">che Spagnoli stando impiegati altrove <lb/>
+con l’armi temporali si servino di quelle, <lb/>
+che possono alterar le conscientie, et <lb/>
+per consequenza mover humori, et <lb/>
+partorir disenzioni per avanzar in <lb/>
+qualche maniera in un</hi>
+<pb n="169r" facs="02_169r" rend="0"/>
+<hi rend="decoded">istesso tempo <lb/>
+anco di qua. <lb/>
+</hi></p>
+<p>Le città ansiatiche, che si sono collegate con questi Stati fanno <lb/>
+descriver qualche numero di militia per metter ne’ suoi presi-<lb/>
+dii, et assicurarsi l’une l’altre dall’invasioni, che <lb/>
+improvise le potessero esser fatte dalla parte di Danimarca. </p>
+<p>Stano li mercanti d’Amsterdam con ansia grande attendendo <lb/>
+l’arrivo di alcune navi dall’Indie, che per gl’avvisi, che <lb/>
+si hebbero dovevano arrivar già buon pezzo, onde il <lb/>
+ritardo li fa travagliar col pensiero. </p>
+<p>Il Burlamacchi mercante di Londra, ch’è qui per sollecitar il <lb/>
+rimborso del denaro, che s’è obligato al re d’Inghilterra di <lb/>
+sodisfar nella piazza di Londra per la restitutione<ptr target="#tn14" n="14"/> <lb/>
+di Flesinghen, et della<ptr target="#tn15" n="15"/> Brilla, et sue <lb/>
+adherenze, doppo haver sollecitato gran pezzo questi signori Stati, <lb/>
+finalmente ha dato principio a riscuoter, et gli sono stati <lb/>
+esborsati cento milla scudi a buon conto, et presto spera <lb/>
+che se gli conteranno gl’altri fino alla intera summa del <lb/>
+debito. Gratie etc. </p>
+<p>Dall’Haya a’ 31 agosto 1616 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="169v" facs="02_169v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="I" n="052" corresp="051" source="165r-v, 168r-v" >
+<div type="main" facs="main text of attachment I" n="052" corresp="051" >
+<!--<p>Allegato I al n. 51 (cc. 165r-v, 168r-v; decodifica di cc. 166r-167v)</p>-->
+<pb n="165r" facs="02_165r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="Blank page"/></p>
+<pb n="165v" facs="02_165v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="168r" facs="02_168r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="168v" facs="02_168v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer; on c. 169r the letter is dated 31 august.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-3" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "quei … vostra Serenità" decoding of the encrypted text can be found on c. 168r; with cross-reference sign.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "Gio. Anto" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the encrypted text.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "il Pasini" is encrypted and has not been deciphered by the secretary on c. 168r.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "né … alcuno" added above the line with an insertion mark.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by deleted letters.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by a crossed-out comma.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "perché" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "et … anco di qua" decoding of the encrypted text can be found on c. 168r; with cross-reference sign.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "delle | doi piazze" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "Brilla" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

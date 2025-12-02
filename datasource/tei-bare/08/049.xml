@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.049 date 1619-10-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">049</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 248r-v, 251r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">248r-v, 251r-v, 249r-250v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Brief letter in which he explains the lack of funds to sustain himself, his house, his family, and the reputation of Venice. Requests payment of outstanding debts with Venice and attaches an overview of his service to the Venetian Republic, which offers a lot biographical information about his life. One document attached: " Dichiaratione del denaro havuto di ragion publica per me Christofforo Suriano secretario dell’Eccellentissimo Senato sia per salarii, stipendii, che donativi per tratte o rimesse, o qualche altra natura di denaro si sia"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-10-16">16 ottobre 1619</date>
+            <num>086, 087</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="086">
+<div type="main" facs="main text of letter" n="086">
+<!--<p>16 ottobre 1619, L’Aia (cc. 248r-v, 251r-v)</p>-->
+<pb n="248r" facs="08_248r" rend="0"/>
+<head>main text of letter</head>
+<p>140a </p>
+<p>Serenissimo Principe </p>
+<p>al cenno c’hebbi del desiderio di vostra Serenità di voler sapere l’aministratione <lb/>
+del denaro havuto da me tanto per rimesse, che per tratte, da che <lb/>
+mi trovo in questa residenza sodisfeci con quella prontezza, che mi <lb/>
+era debita aggiungendo anco al ricevuto, et esborsato da me <lb/>
+per di qua, quello che ho ricevuto, et speso nella residenza di Zurich <lb/>
+et nel viaggio ai principi dell’Unione. Per gl’uni, et gl’altri conti <lb/>
+mi giova sperare<ptr target="#tn1" n="1"/>, che della relatione di<ptr target="#tn2" n="2"/> chi haverà havuta carica di rivederli, <lb/>
+ella<ptr target="#tn3" n="3"/> sarà rimasta sodisfatta. Hora sendo <lb/>
+avvisato dall’agente mio, che nell’elevatione de’ miei mandati, <lb/>
+et nel riscuoter de’ denari incontra qualche difficoltà tanto <lb/>
+per li denari di gratie, che per il mio salario ordinario per <lb/>
+questa residenza questo mi riesce di altrettanto incommodo <lb/>
+quanto la prudenza della Serenità vostra può imaginarsi: perché <lb/>
+mancandomi la provisione mia ordinaria mi manca per consequenza <lb/>
+quello, che serve a sostener<ptr target="#tn4" n="4"/> me, la casa, et la famiglia, et <lb/>
+quello che importa più la publica riputatione. Aiuto non l’ho <lb/>
+dove sperare che dalla Serenità vostra spender ogni giorno bisogna, <lb/>
+star et in casa et fuori con qualche honesta apparenza è <lb/>
+necessario; ma non havendo con che non saprò con che. </p>
+<p>Il far debiti non è per un pover huomo come son io; et meno <lb/>
+è<ptr target="#tn5" n="5"/> decente<ptr target="#tn6" n="6"/> a chi rappresenta un tanto Principe. </p>
+<p>Del denaro publico che ho maneggiato in Roma per tre <lb/>
+mesi in circa che vi sono stato solo doppo la morte della felice <lb/>
+memoria dell’illustrissimo signor Tomaso Contarini ne diedi distinto <lb/>
+conto al mio ritorno a Venetia, che fu riveduto, et <lb/>
+sottoscritto con sodisfattione di quegli illustrissimi signori proveditori, che <lb/>
+ne hebbero il carico. Et delli denari ricevuti in Svizzeri<ptr target="#tn7" n="7"/>,
+<pb n="248v" facs="08_248v" rend="0"/>
+et in questa Provincia, et dello speso ne ho già mandato <lb/>
+con lettere de’ 11 et 18 del passato ogni particolare. Mando <lb/>
+qui aggiunta anco una nota dei denari, che ho havuti di ragion <lb/>
+publica da che la servo; di parte de’ quali non ho havuto obligo <lb/>
+di render conto essendo semplici donativi; et degl’altri <lb/>
+come ho detto ho reso, et mandato il conto. Altra maggior <lb/>
+chiarezza non saprei apportar per hora alla Serenità vostra di quella <lb/>
+che sta descritta nell’aggiunto foglio; et nei conti mandati, <lb/>
+né ho costì persona, che sapesse darla per me: perché l’agente <lb/>
+mio non ha già mai riscosso altro, che denari di mia provisione <lb/>
+per le residenze, et in virtù di gratie<ptr target="#tn8" n="8"/> fattemi in diversi <lb/>
+tempi da quell’eccellentissimo Senato. Confido nella sincerità della <lb/>
+mia devotione, et della mia conscienza, et in quel fine che <lb/>
+sempre ho avuto di spender bene come si conveniva il denaro <lb/>
+di lei, ch’ella resterà paga di quanto le posso dire coll’<lb/>
+espressione delli conti havuti, et mandatili da me, et che <lb/>
+si compiacerà restar servita di commandare la balotatione<ptr target="#tn9" n="9"/> <lb/>
+de’ miei mandati, et che per essa non mi ha posta difficoltà <lb/>
+et fatto il pronto esborso del denaro, mentr’io senza questo <lb/>
+non saprei come governarmi, come vivere; et come poter <lb/>
+comparere con quella riputatione che coll’aiuto di Dio, et della <lb/>
+gratia, et munificenza di vostra Serenità ho procurato di mantener <lb/>
+sin qui con servitio di lei. Haverei fuggito volontieri <lb/>
+l’apportar simil tedio all’orrecchie dell’Eccellenze vostre; ma <lb/>
+la necessità mi stringe, et mi solecita a ponderarle il mio <lb/>
+interesse che deve esser sollevato dalla benignità loro di <lb/>
+quella maniera, che stimerano<ptr target="#tn10" n="10"/> propria, et di suo servitio
+<pb n="251r" facs="08_251r" rend="0"/>
+mentre conoscano esser ancor necessaria la persona mia per resieder <lb/>
+a questa corte, dalla quale pur doverei esser libero doppo trenta <lb/>
+otto mesi, che vi sono. Alla prudenza<ptr target="#tn11" n="11"/>, et benignità di lei resta <lb/>
+rimesso il considerar la qualità della mia instanza fondata, <lb/>
+(pare a me, sia detto con ogni humiltà) sopra l’honestà; et <lb/>
+dispor quel tanto che giudicarà proprio, et di suo servitio <lb/>
+col mio sollevo,<ptr target="#tn12" n="12"/> dando l’ordine di che humilmente la prego. Gratie etc. </p>
+<p>Dall’Haya li 16<ptr target="#tn13" n="13"/> ottobre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="251v" facs="08_251v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="086">
+<!--
+<p n="251vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 ottobre 1619 ricevute a’ 2 novembre </p>
+<p>Del segretario Suriano, dall’Haya. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="087" corresp="086" source="249r-250v" >
+<div type="main" facs="main text of attachment I" n="087" corresp="086" >
+<!--<p>Allegato I al n. 86 (cc. 249r-250v)</p>-->
+<pb n="249r" facs="08_249r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere del segretario Suriano de’ 16 ottobre 1619 </p>
+<p>Dichiaratione del denaro havuto di ragion publica per me Christof-<lb/>
+foro Suriano secretario dell’eccellentissimo Senato. Sia per salarii, stipendii, che <lb/>
+donativi per tratte, o rimesse o qual altra natura di denaro si sia. </p>
+<p>Entrai nell’ordine della cancellaria a’ 4 di luglio 1601 come estraordinario con <lb/>
+salario di trenta sei ducati per anno pagatomi dalla cassa dell’eccelso Consiglio <lb/>
+di x<hi rend="superscript">ci</hi> di sei in sei mesi; et continuai con questo stipendio fino alli 24 <lb/>
+di giugno<ptr target="#tn14" n="14"/> 1611, che fui eletto dal medesimo eccelso Consiglio ordinario di detta <lb/>
+cancellaria havendo come ordinario quaranta otto ducati in circa per anno <lb/>
+che con qualche compartita solita sono ascesi sino a settanta; a che si <lb/>
+aggiungono quei tenui emolumenti della casseletta, che tuttavia mi <lb/>
+continuano al presente; et sono andato riscuotendo di tempo in tempo. </p>
+<p>La prima volta, che uscii di Venetia fu nell’agosto 1603 per secretario delli illustrissimi <lb/>
+signori proveditori sopra li beni communali Francesco Giustiniano di buona memoria <lb/>
+et Ottaviano Bon senza haver alcun stipendio; hebbi solo di donativo <lb/>
+per mettermi ad ordine ducati cento dall’eccellentissimo Senato senza obligo <lb/>
+di renderne conto. </p>
+<p>Al ritorno da quel servitio fui commandato dall’eccelso Consiglio di x<hi rend="superscript">ci</hi> di <lb/>
+passar a Roma coadiutor dell’eccellentissimo signor Agostino Nani signor procurator et <lb/>
+hebbi donativo di cinquanta ducati dall’eccellentissimo Senato; et cinquanta <lb/>
+dall’eccelso Consiglio di x<hi rend="superscript">ci</hi> secondo l’ordinario per mettermi<ptr target="#tn15" n="15"/> ad ordine senza <lb/>
+obligo di renderne conto; et hebbi 4 ducati per mese durante la carica. </p>
+<p>Tornato da Roma mi fu concessa una gratia di ducati dieci al mese dall’eccellentissimo Senato <lb/>
+che batuta la x<hi rend="superscript">ma</hi> restano nove; et questi sono andati riscuotendo <lb/>
+di quattro in quattro mesi secondo l’ordinario, et mi fu balotata nell’<lb/>
+eccellentissimo Senato del 1606 nel mese di giugno. </p>
+<p>Nel medesimo anno alla fine di agosto partii per Francia a servir di secretario l’illustrissimo <lb/>
+signor Pietro di Priuli di felice memoria col salario ordinario di 8 ducati <lb/>
+il mese; et hebbi cento ducati dall’eccellentissimo Senato, et cento altri dall’eccelso Consiglio di x<hi rend="superscript">ci</hi> di donativo; et 300 ducati per far il viaggio: tutti <lb/>
+cinquecento senza obligo di renderne conto. </p>
+<pb n="249v" facs="08_249v" rend="0"/>
+<p>Ritornato a Venetia del 1608 al principio di giugno e havendo porta supplica <lb/>
+all’eccellentissimo Senato si compiacque nel mese di agosto seguente gratiarmi di <lb/>
+altri ducati dieci di provisione per mese, che restano però nove detrahen-<lb/>
+dosene la x<hi rend="superscript">ma</hi>. </p>
+<p>Et il settembre susseguente partii per Inghilterra secretario dell’illustrissimo signor Marc’Antonio <lb/>
+Corrara cavalier con 8 ducati di provisione il mese all’ordinaria: et hebbi <lb/>
+dall’eccellentissimo Senato ducati cento, et altrettanti dall’eccelso Consiglio di x<hi rend="superscript">ci</hi> senza <lb/>
+obligo di renderne conto alcuno sendo per donativo ordinario. </p>
+<p>Ritornato da quel servitio che fu nel mese di agosto alla fine nel 1611 lo stesso <lb/>
+anno al principio di novembre partii per Roma secretario dell’illustrissimo signor Tomaso <lb/>
+Contarini di buona memoria col medesimo stipendio di otto ducati per mese <lb/>
+et hebbi cento ducati di donativo dall’eccellentissimo Senato, et altrettanti dall’<lb/>
+eccelso Consiglio x<hi rend="superscript">ci</hi> di per mettermi ad ordine senza obligo di renderne conto. </p>
+<p>Successe in Roma la morte del detto signor ambasciator Contarini a’ 13 agosto 1614. Et io <lb/>
+restai quivi residente di ordine publico con 130 scudi per mese compresi <lb/>
+in questi dieci scudi per spese straordinarie, et mi fu levato il mandato <lb/>
+prima per doi mesi, poi per un altro mese, et del sopra più fino al <lb/>
+mio ritorno a Venetia fui rifatto dal publico, come anco per quello <lb/>
+havevo speso per il corriero, che era meco, havendo presentati li miei <lb/>
+conti nelli quali si comprendevano ducati doi cento per corrieri <lb/>
+porti di lettere, et altre spese straordinarie, et furono admessi per legitimi <lb/>
+et buoni. </p>
+<p>Hebbi per donativo nella medesima residenza per mettermi ad ordine quattrocento <lb/>
+ducati con conditione che mi servissero anco per il mio ritorno a Venetia <lb/>
+et cento ducati dal Consiglio di x<hi rend="superscript">ci</hi> senza obligo di renderne conto. </p>
+<p>Quando tornai da Roma hebbi un’altra gratia di ducati dieci il <lb/>
+mese dalla quale si detrahe la x<hi rend="superscript">ma</hi> et restano nove, et mi fu <lb/>
+balotata nel marzo 1615. </p>
+<p>Mi fu poi commesso a’ 27 pur di marzo 1615 di dover transferirmi in paese de’ Grisoni per servir l’illustrissimo signor Gregorio Barbarigo di felice <lb/>
+memoria, et partii alli 29 detto con salario di 8 ducati il mese, essendomi
+<pb n="250r" facs="08_250r" rend="0"/>
+stati donati cento ducati dall’eccellentissimo Senato; et dati di più cento ducati per far il <lb/>
+viaggio con qualche diligenza; et come delli primi doicento non fui obligato <lb/>
+a renderne conto così per li secondi cento credo restarne in obligo. Li quali <lb/>
+eccetto sette over otto lire di Venetia spesi tutti rispetto alla difficoltà <lb/>
+che trovai nel camino nel passar le doi montagne di Mubegno, et della <lb/>
+Spluga cariche di neve; et per passar questa convenni trattenermi in <lb/>
+Candolcino, essendo essa montagna serrata, et steti dalla domenica fino <lb/>
+al martedì sera che con difficoltà; et pericolo puoti passar essa <lb/>
+montagna di Spluga. </p>
+<p>Steti col detto signor Ambrogio Barbarigo a servirlo fino alli 17 di agosto 1615 <lb/>
+che partì per Inghilterra, et io restai a Zurich residente per la serenissima Republica <lb/>
+con il stipendio di 130 scudi per mese, compresone dieci per spese straor-<lb/>
+dinarie fino alla fine del mese di giugno 1616. Hebbi per mettermi <lb/>
+ad ordine in quella residenza doicento ducati di donativo dall’eccellentissimo <lb/>
+Senato, et altri cento dal Consiglio di x<hi rend="superscript">ci</hi> senza obligo di render conto. <lb/>
+Et di più hebbi doicento ducati per corrieri, porti di lettere, et <lb/>
+altre spese straordinarie, et cinquanta scudi dal detto signor ambasciator <lb/>
+Barbarigo per far il viaggio di Berna. Più hebbi altri seicento <lb/>
+scudi in doi volte tutti a cambio da’ magnifici Orelii in Zurich <lb/>
+spesi come nel conto. </p>
+<p>Et essendomi commesso stando a Zurich con lettere de’ 10, et 17 giugno 1616 <lb/>
+di dover passar ai principi dell’Unione, et di là venirmene all’Haya <lb/>
+pigliai per far il viaggio a cambio seicento scudi, che fecero fiorini <lb/>
+mille di Alemagna, de’ quali spesi come nel conto mandato con <lb/>
+le mie lettere de’ 18 settembre passato 1619. </p>
+<p>Nella mia residenza nell’Haya hebbi lettere de’ 9 settembre 1616 con le <lb/>
+quali mi si facevano buone tutte le spese fatte da me fino all’ar-<lb/>
+rivo delle lettere publiche con donativo di trecento scudi dall’<lb/>
+eccellentissimo Senato, et cento dal Consiglio di x<hi rend="superscript">ci</hi> per quali non mi s’impone <lb/>
+obligo di render conto; ma ben di doicento ducati per corrieri porti <lb/>
+di lettere, et altre spese straordinarie. </p>
+<pb n="250v" facs="08_250v" rend="0"/>
+<p>Ho goduto l’intero di cento trenta scudi per mese, come per avanti; ma <lb/>
+per l’urgenze publiche come agl’altri così a me ancora fu tenuta la <lb/>
+decima, che restano 117 scudi solamente. </p>
+<p>Venni in questo luoco dell’Haya a’ 12 di agosto 1616; et mentre mi sono <lb/>
+trattenuto nella residenza l’anno 1617 a’ 18 aprile l’eccellentissimo Senato <lb/>
+motu proprio doppo la partenza delli vasselli alle genti del conte Giovan<ptr target="#tn16" n="16"/> <lb/>
+Ernesto di Nassau mi fece donativo di trecento ducati. </p>
+<p>Motu proprio ancora un’altra volta nello stesso anno 1617 a’ 18 gennaro <lb/>
+mi fu fatto altro simil donativo dall’eccellentissimo Senato di ducati trecento. </p>
+<p>Et nell’anno 1618 a’ 17 agosto ducati quattrocento mossa sua Serenità <lb/>
+dall’instanza, che feci di ripatriare, et sollevar la mia povera fortuna <lb/>
+mostrando volontà, et commandandomi di fermarmi ancor per qualche <lb/>
+tempo così comportando il servitio di lei. </p>
+<p>Di quello poi che ho ricevuto, et speso tanto a Zurich, che in Germania <lb/>
+nel viaggio ai principi dell’Unione, et in questa residenza dell’Haya <lb/>
+già con lettere delli 11, et 18 settembre ho mandato a sua Serenità il conto <lb/>
+distinto, ch’è quanto posso dire per scarico, et perché consti quello <lb/>
+ch’è passato per mano mia, sendo certo non haver havuto giamai <lb/>
+un soldo più delle mie ordinarie provisioni; come anco spero sarà <lb/>
+accetta la sincerità de’ miei conti. Aspettando esser avvertito <lb/>
+di quello che si desidera da me d’avantaggio; ma in tanto supplico <lb/>
+humilmente, che non sia posta difficoltà al cassiar balotar, et riscuoter <lb/>
+le mie provisioni essendo le sole, con che mi posso mantener in <lb/>
+questa residenza. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-are esito di correzione."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "della relatione di aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue della risolutione depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Segue , depennata."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Esito di correzione."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Seconda -e- esito di correzione."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "Così A."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Aggiunto in sopralinea su parola depennata."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-o- esito di correzione."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "-an(n)o esito di correzione."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-ru- esito di correzione."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "-6 esito di correzione."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Corretto su luglio."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Esito di correzione."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Esito di correzione."</p></note>
+</div>
+</body>
+</text>
+</TEI>

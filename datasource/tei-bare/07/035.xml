@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 07.035 date 1619-01-08</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Ruben</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">07</idno>
+                <idno type="letterno">035</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 7, fol 229bis r-232v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">230r-232v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports States General are meeting with experienced sailors in preparation for WIC and adds that several rich merchants are reluctant to invest in the WIC as they have already established their business in Spain. The States General have sent a letter to James I regarding Bohemia and have sent four deputies to Emden to negotiate between the Duke and the inhabitants. He reports that the salt comes from Ibiza. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1619-01-08">8 gennaio 1619</date>
+            <num>076</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="076">
+<div type="main" facs="main text of letter" n="076">
+<!--<p>8 gennaio 1619, Amsterdam (cc. 230r-232v)</p>-->
+<pb n="230r" facs="07_230r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 79 2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>mentre sta in mano delle Provincie il proietto delli articoli per <lb/>
+l’errettione della Compagnia dell’Indie Occidentali li signori Stati <lb/>
+non lasciano di haverne ben spesso conferenza con marinari <lb/>
+esperimentati, et che hanno altre volte fatto quel viaggio: <lb/>
+ma come lo sforzo, et il nervo di questo negotio ha da <lb/>
+dipender da’ mercanti, questa è la piazza dove si doverà <lb/>
+vederne l’essito, et qui discorrendone ho cavato, che non vi <lb/>
+è tutta quella inclinatione, che altri presupongono. Il mer-<lb/>
+cante come ben sa l’Eccellenze vostre, et particolarmente quello di questi <lb/>
+paesi corre all’utile, et al guadagno; se non vi è la certezza <lb/>
+non si contenta dell’apparenza, et le propositioni che si fanno che <lb/>
+si haverà un gran negotio di zuccari, si cavarà oro, et ar-<lb/>
+gento, et si farà acquisti di terre, o di paese non contenta <lb/>
+perché mettono all’incontro la certa, et sicura spesa, che <lb/>
+haveranno per mantener la guerra, che stimano inevitabile <lb/>
+poiché il re di Spagna al sicuro si opponerà ad ogni <lb/>
+tentativo. In oltre una gran parte de’ più ricchi mercanti <lb/>
+et altri ancora hanno già stabilito il loro trafico in Spagna<ptr target="#tn1" n="1"/> et di là cavano <lb/>
+profitto grande; onde difficilmente questi si conduranno a <lb/>
+contribuir nella Compagnia per non perder il certo utile <lb/>
+per questo nuovo negotio; et perché scoperti di haver contribuito <lb/>
+non sono sicuri, che non vi siano delle spie, che lo avvisano, <lb/>
+dubitano<ptr target="#tn2" n="2"/>, che sarà fatto immediate arresto <lb/>
+sopra li loro effetti. Sono state fatte da questo Magistrato <lb/>
+diverse conferenze con particolari mercanti, ma hanno <lb/>
+trovato sempre dei contrarii: di maniera che questo negotio <lb/>
+haverà delle<ptr target="#tn3" n="3"/> difficoltà alla conclusione. </p>
+<p>Con le lettere de’ 29 del passato, che invio qui replicate haverà
+<pb n="230v" facs="07_230v" rend="0"/>
+anco la Serenità vostra un’altra copia dei capitoli per detta Compagnia <lb/>
+et sotto il vigesimo ottavo s’intenderà anco che della medesima <lb/>
+maniera quei principi, et potentati, che vorranno contribuire <lb/>
+haveranno l’auttorità di deputar agente particolare perché possi <lb/>
+saper di tempo in tempo lo stato dell’affare, il quale da <lb/>
+alcuni, che lo intendono, viene stimato, che il suo principal <lb/>
+fine sia mentre si va approssimando il fine della tregua di <lb/>
+avantaggiarsi o per la rinovatione di essa, o per la pace, <lb/>
+che si havesse a trattare; ma si conclude anco, che se vi <lb/>
+sarà apparenza, che la guerra si rompi allhora si farà <lb/>
+da dovero<ptr target="#tn4" n="4"/> questa Compagnia. </p>
+<p>Come scrissi riverentemente alla Serenità vostra li signori Stati rimessero alle Provincie <lb/>
+il negotio di Bohemi<ptr target="#tn5" n="5"/>; oltre che hanno scritto <lb/>
+al re della Gran Bertagna lettere molto piene, et affettuose <lb/>
+in raccommandatione di quei affari; mostrando a sua Maestà <lb/>
+esser essi molto ben<ptr target="#tn6" n="6"/> affettionati a favorir la giusta difesa, <lb/>
+et conservatione de’ Bohemi, et che coll’essempio dei vicini <lb/>
+gli haverebbono prestata assistenza in tutto quello, che la <lb/>
+conditione presente dello Stato, et gl’affari di esso gli potrà <lb/>
+permetter, et però dal canto loro non haverebbono mancato <lb/>
+di far tutto quello, che per essi Bohemi potranno. </p>
+<p>Li signori Stati hanno mandati quattro deputati per il negotio di <lb/>
+Embdem con commissione espressa di procurar in ogni <lb/>
+modo l’accomodamento tra il Conte, et quei popoli, <lb/>
+dubitando, che Spagnoli non apportino dei soliti pregiudicii <lb/>
+loro in quella parte confinante alla Frisia con qualche <lb/>
+artificio, o con<ptr target="#tn7" n="7"/> procurare che il Conte riceve qualche <lb/>
+altra piazza da loro in concambio per tanto più
+<pb n="231r" facs="07_231r" rend="0"/>
+convalidar la pretensione, che professa il re di Spagna <lb/>
+haver sopra il contado di Embdem. </p>
+<p>Nell’Haya si erano già condotte sette compagnie straordinarie <lb/>
+da diverse piazze di buona, et bella genti. Alcuni vogliono <lb/>
+che sia per haverla pronta tutta insieme a valersene nel <lb/>
+spignerla se occorresse qualche accidente verso le <lb/>
+frontiere di Embdem; altri per tener in freno il popolo <lb/>
+et divertir qualche pensiero di alteratione delle piazze. </p>
+<p>Qui s’intende pur anco qualche cosa di provisione, che <lb/>
+Spagnoli faccino de’ vasselli in Spagna; ma non si penetra <lb/>
+assolutamente il fine. </p>
+<p>Con questa occasione dell’esser venuto qui ho cavato<ptr target="#tn8" n="8"/> in<ptr target="#tn9" n="9"/> <lb/>
+proposito dei sali, che quello che si farà venir a Venetia <lb/>
+sarà, come si lasciano intender il dar qualche cosa <lb/>
+di vantaggio di quello, che sono pagati a horo<ptr target="#tn10" n="10"/>; che il <lb/>
+luoco di dove si cavano è Evisa isola presso a <lb/>
+Maiorica, et più basso verso il colfo<ptr target="#tn11" n="11"/> a Trapani; et <lb/>
+dall’uno, et l’altro luoco se ne leverà quanta quantità <lb/>
+si vorrà. Quanto al trattare m’ha detto il Calandrini, <lb/>
+che un fattor del Toliny era in accordar per certa <lb/>
+somma, et che si accorderà per ogni gran partita <lb/>
+quando se li mostrerà la sicurezza o speranza del <lb/>
+guadagno per la via del partito, et concorrerà non solo <lb/>
+questa mercantia; ma<ptr target="#tn12" n="12"/> anco dell’altre volontieri a <lb/>
+Venetia se si sentiranno sgravati dal troppo peso <lb/>
+et interesse dei datii<ptr target="#tn13" n="13"/>, riducendoli ad un honesto stato <lb/>
+per l’entrata et uscita, et così si haverà maggior il comercio. </p>
+<p>Al qual proposito di comercio non devo restar di significar
+<pb n="231v" facs="07_231v" rend="0"/>
+alla Serenità vostra esser stato avvertito, che<ptr target="#tn14" n="14"/> alcuni mer-<lb/>
+canti si astengono dal mandar loro mercantie per terra <lb/>
+et per mare in quel serenissimo Dominio, essendoli fatta far <lb/>
+la quarantina, per il rispetto di sanità; che essendo <lb/>
+buona in questi paesi (come più volte ne ho scritto <lb/>
+all’illustrissimo Magistrato della sanità), tanto più si dogliono <lb/>
+dell’interesse, et si inducono a pigliar più tosto altra <lb/>
+strada. In che la prudenza della Serenità vostra considerarà quello <lb/>
+sia di suo servitio. </p>
+<p>Oltre le doi prime lettere fatte per la nave San Marco, et San <lb/>
+Francesco; altre sette ne ho fatte sotto il primo di questo <lb/>
+mese per le navi<ptr target="#tn15" n="15"/> Emaus, Anna Riverson, Leon <lb/>
+dorato, Menonistecherch, Tre re,<ptr target="#tn16" n="16"/> Lo specchio, et San <lb/>
+Christofforo per la summa et pagabili come in esse <lb/>
+ne restano ancor tre per fare il numero delle dodici Gratie etc. </p>
+<p>Da Amsterdam a’ 8<ptr target="#tn17" n="17"/> genaro 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="232r" facs="07_232r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="232v" facs="07_232v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 79 2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="076">
+<!--
+<p n="232vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>8 gennaro 1618 ricevute a’ 24 detto </p>
+<p>Secretario Surian da Ansterdan </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "trafico in Spagna" added above the line with an insertion mark.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "dubitano" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "de’ Bohemi" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "be-" corrected above "a-."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "pur" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Second "-a-" added above the line with insertion mark.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "questo" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Uncertain, transcribed as it appears; "h-" is the result of a correction.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "m-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "d-" is the result of a correction.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by "alun" crossed out.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Followed by "descri" crossed out.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

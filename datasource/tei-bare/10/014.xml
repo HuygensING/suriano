@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.014 date 1621-04-12</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">014</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 60r-61v, 64r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol17/pp16-28
+            </note>
+            <biblScope unit="page">60r-61v, 64r-v, 62r-63v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that Digby is pleased with negotiations with archdukes. Trumbull is on his way together with archducal agent to Princes of the Union and Spinola respectively, to not undertake any further action. King and Queen of Bohemia will arrive soon, Carleton and his wife have travelled to Rotterdam, dissuading them to travel to England. The States General have not concluded an alliance with Denmark. Horm is pleased to receive a stipend from Venice for another year and reports to have written a letter of exchange for 13475 ducats and 12 grossi. One text attached: copy of a letter written by States to Admiralty of Amsterdam</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-04-12">12 aprile 1621</date>
+            <num>020, 021</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="020">
+<div type="main" facs="main text of letter" n="020">
+<!--<p>12 aprile 1621, L’Aia (cc. 60r-61v, 64r-v)</p>-->
+<pb n="060r" facs="10_060r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 289 comincia 288 </p>
+<p>Serenissimo Principe </p>
+<p>l’ambasciator Digbi, ch’era a Brusseles partì di là mercordì. Venne in <lb/>
+Anversa. Haveva pensiero di arrivar qui; ma ne fu sconsigliato <lb/>
+credo dal signor ambasciator Carleton perché colla prudenza sua haveva <lb/>
+forse compreso, che non sarebbe stato il ben venuto, né il ben veduto. </p>
+<p>Ha lasciata voce di partir molto sodisfatto per la sua negotiatione <lb/>
+con li serenissimi arciduchi. Vi è almeno qualche apparenza, poiché <lb/>
+monsignor Trombol l’agente del re<ptr target="#tn1" n="1"/> della Gran Bertagna, <lb/>
+che ordinariamente risiede a Brusseles partì al partir d’esso <lb/>
+Ambasciatore verso li principi dell’Unione, et verso lo Spinola <lb/>
+a cui sue Altezze hanno spedito anco un suo gentilhuomo per <lb/>
+dirgli, che non passasse più innanti ad alcun attentato. <lb/>
+Il medesimo Trombol in camino da’ ladri è stato svaleggiato; ma <lb/>
+non ha lasciato di passar avanti. </p>
+<p>Viene confirmata, come che possi esser<ptr target="#tn2" n="2"/> seguita<ptr target="#tn3" n="3"/> la voce, che corse della <lb/>
+tregua con quei principi dalla parte dell’Imperatore per doi mesi;<ptr target="#tn4" n="4"/> <lb/>
+che lo Spinola rivenghi nei Paesi Bassi con qualche numero di <lb/>
+cavallaria, et che Leopoldo habbi ad haver la regenza dell’<lb/>
+armi nel Palatinato, sperando con esse profittar in ogni modo <lb/>
+o sia con avanzo in quella parte, o di assicurarsi maggiormente <lb/>
+del possesso, et auttorità nella città, et vescovato di Strasburgh. <lb/>
+Non si parla ancor di restitutione del Palationato l’opi-<lb/>
+nione del signor principe Mauritio è, che non seguirà, che <lb/>
+con l’armi alle mani. </p>
+<p>Dimani a sera credo che si haveranno qui il re et regina di <lb/>
+Bohemia, se il tempo haverà servito questa sera saranno <lb/>
+a Roterdam per dove è partito hoggi il signor ambasciator Carleton
+<pb n="060v" facs="10_060v" rend="0"/>
+et la sua moglie. Et oltre altri che sono in sua compagnia vi <lb/>
+è uno venuto hieri a sera qui d’Inghilterra dalla parte del Re <lb/>
+per trattar et con il Re, et con la Regina, et parmi d’haver cavato <lb/>
+assai dal discorso, che la commissione di lui concordi con quella <lb/>
+del signor ambasciator Carleton di dissuader detti principi dal passar <lb/>
+in Inghilterra, il che se gli porterà non esser hora l’opportunità, <lb/>
+non comportar né la reputatione loro, né il loro interesse, <lb/>
+che si scostino più lungi<ptr target="#tn5" n="5"/>, et questo è sicuro che in ciò <lb/>
+verseranno gl’ufficii. Di quello seguirà ne starò<ptr target="#tn6" n="6"/> avvertito <lb/>
+per darne riverente conto a vostra Serenità. </p>
+<p>Non hanno questi signori potuto ancor accordar alcuna cosa con l’ambasciator <lb/>
+di Danimarca, non havendo auttorità sufficiente per accordar <lb/>
+di quelle cose che concorrono allo stabilimento di un’aleanza <lb/>
+non sta, che sopra generali, non parla di reciprochi aiuti, né <lb/>
+quali né quanti; mostra ben di conoscer esser questo il dovere, <lb/>
+ma si scusa non haver il potere, et s’ha rimesso a scriver <lb/>
+al suo Re; in tanto però non lascia di trattare. Et a tal <lb/>
+proposito mi disse sua Eccellenza o che farà<ptr target="#tn7" n="7"/> il re di Danimarca <lb/>
+al presente se l’Alemagna ha fatto tregua; del congiongersi <lb/>
+in guerra con noi non vi veggo l’apparenza, ben ci potrebbe <lb/>
+dar qualche aiuto et mostrò non far gran<ptr target="#tn8" n="8"/> caso di questa <lb/>
+presente trattatione. </p>
+<p>Nel discorso venendo a proposito procurai di cavar dall’Eccellenza sua <lb/>
+se dalli<ptr target="#tn9" n="9"/> ambasciatori che per queste Provincie sono in Inghilterra era stato <lb/>
+scritto alcuna cosa toccante quel particolar dell’aleanza, et <lb/>
+delle parole espresse da quel Re in questo proposito haveva
+<pb n="061r" facs="10_061r" rend="0"/>
+o l’Eccellenza sua o li signori Stati havuta notitia alcuna mi disse di no; così <lb/>
+anco non trovo incontro da alcuna parte. </p>
+<p>Havendo fatto saper al capitan Horm la gratia, che vostra Serenità gli haveva <lb/>
+fatta di potersi trattener col stipendio ancor per un anno in <lb/>
+questi paesi mi rescrisse, che havendo doppo l’instanza fattale <lb/>
+fare, et la<ptr target="#tn10" n="10"/> presentione di quell’utile, che trovava proprio <lb/>
+per servitio di quella serenissima Republica per fabrica di navi, et per altro haveva <lb/>
+disegnato di transferirsi costì; che la gratia non solo non li haveva <lb/>
+fatta suspender la risolutione; ma più tosto eccitatolo ad affrettar <lb/>
+il viaggio per il nuovo accrescimento d’obligo verso quel<ptr target="#tn11" n="11"/> serenissimo<ptr target="#tn12" n="12"/> <lb/>
+Dominio<ptr target="#tn13" n="13"/> pregandomi in tanto, come ha fatto anco in voce <lb/>
+avanti hieri, che fu di render humilissimamente, et riverentissimamente gra-<lb/>
+tie a vostra Serenità. Egli è partito verso Zelanda pigliando <lb/>
+quella stradda per passar a Cales, et così evitar il rancontro <lb/>
+che havesse potuto haver dalla parte di terra. </p>
+<p>Sotto li 8 del presente ho fatte lettere di cambio di tredicimilla <lb/>
+quattrocento settantacinque ducati, et dodici grossi alli signori <lb/>
+Latfeur, Calandrini, et Vandermeulen per resto de’ pagamenti <lb/>
+a queste Amiralità pagabili al magnifico Melchior Noirott <lb/>
+in banco. Dall’amiralità di Amsterdam in particolare non <lb/>
+si è potuto cavar<ptr target="#tn14" n="14"/> la ricevuta per resto che riservata <lb/>
+per la pretensione dei vintimilla fiorini, che col dispaccio di hoggi <lb/>
+otto di doi lettere n° 286 fin 287 haverà qui replicato aggiunto <lb/>
+ne scrissi riverentemente a vostra Serenità. Et doppo m’hanno scritto, dicendo <lb/>
+che lo facevano per avertimine, che haverebbono presi 12 mila <lb/>
+fiorini per hora per sodisfar a quello che doveva sopra la detta
+<pb n="061v" facs="10_061v" rend="0"/>
+summa di vintimilla a carico di chi poi fosse stato giudicato <lb/>
+dai signori Stati Generali; et io hoggi riscriverò, che non intendo <lb/>
+che vostra Serenità habbi a risentirne alcun danno né per la summa né <lb/>
+per l’interesse; et del medesimo parlerò di mattina col Presidente <lb/>
+di settimana. </p>
+<p>Le scrissi anco quanto havevo inteso de’ pensieri di quelli del <lb/>
+vassello abbruggiato. Mi confermò sempre più, che ciò <lb/>
+potrebbe seguire: onde ogni più viva ragione, et più <lb/>
+fondata sicuratione o sia per scritto, o altrimenti che havesse fatta <lb/>
+l’eccellentissimo Veniero sarà propria per sostentar la ragione di <lb/>
+vostra Serenità. Gratie etc. </p>
+<p>Dall’Haya li 12 aprile 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="064r" facs="10_064r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="064v" facs="10_064v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 289 comincia 288 </p>
+<p><metamark facs="Traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="020">
+<!--
+<p n="064vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>12 aprile 1621 ricevute 5 maggio detto n° 289 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="021" corresp="020" source="62r-63v" >
+<div type="main" facs="main text of attachment I" n="021" corresp="020" >
+<!--<p>Allegato I al n. 20 (cc. 62r-63v)</p>-->
+<pb n="062r" facs="10_062r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere del secretario Surian dall’Haya de n° 289 </p>
+<p>Copia di lettera scritta dalli signori dell’amiralità di <lb/>
+Amsterdam </p>
+<p>Signore etc. </p>
+<p>Havemo scritto alli collegi delle amiralità di Roterdam, et <lb/>
+Hoorn, overo Encusen, et alli medesimi fatta instanza <lb/>
+che si compiaccino tenir, o far tenir li denari, che <lb/>
+la vedova dell’amiral<ptr target="#tn15" n="15"/> Kercoven da vostra Signoria o dalli capitani <lb/>
+delle loro rispettive repartitioni ancor potrebbe <lb/>
+havere; come ancor noi faremo il medesimo; ma come <lb/>
+che per il primo haveremo bisogno una somma di <lb/>
+dodicimilla fiorini per dar alcun contento ai capitani <lb/>
+et vedove dei capitani morti faremo negotiar la <lb/>
+sudetta summa alla spesa di quello sarà trovato <lb/>
+il dovere. Di che habbiamo trovato buono <lb/>
+avvertir vostra Signoria ne questa servendo per altro etc. </p>
+<p>Di Amsterdam a x aprile 1621 </p>
+<pb n="062v" facs="10_062v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="063r" facs="10_063r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="063v" facs="10_063v" rend="270"/>
+<p>Lettera delli signori dell’amiralità <lb/>
+di Amsterdam </p>
+<p>nelle 2<hi rend="superscript">de</hi> n° 289 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "che ordi" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-ta" corrected above "-re."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "darò."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-à" corrected above "-ei."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "g" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "aff" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "-la" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-o" corrected above "-a"</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Precedes "Rep(ublic)a" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

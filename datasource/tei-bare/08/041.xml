@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.041 date 1619-09-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">041</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 213r-214v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">213r-214v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Absence of letters from Venice. Maurice of Nassau expresses his interest in solidifying alliance with Venice. Frederick-Henry has been unwell and he is awaiting decisions about troop deployment to German lands and potential military leadership. Requests a clear and decisive response from Venice authorities about the title and command requested in letters from 25 June and 9 July. Requests the Venetian authorities to ensure prompt payment for freight charges of merchants involved in the twelve ships. Dispute with representatives of owners of a vessel which burnt in the Gulf, they will pursue further action through Rotterdam Admiralty. The Admiralty has requested payment of remaining wage of the captain of this ship to the widow and her children. Encloses his own expanses to Venice and expresses financial strain. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-09-18">18 settembre 1619</date>
+            <num>074</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="074">
+<div type="main" facs="main text of letter" n="074">
+<!--<p>18 settembre 1619, L’Aia (cc. 213r-214v)</p>-->
+<pb n="213r" facs="08_213r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 133 comincia 132 </p>
+<p>Serenissimo Principe </p>
+<p>con questi ultimi ordinarii resto senza lettere della Serenità vostra, et so che <lb/>
+da altri, che da me si fa conto che serviva<ptr target="#tn1" n="1"/> il tempo, che in particolare <lb/>
+l’ultimo potesse portar la risposta sopra il trattato di unione; ma <lb/>
+io ha chi me ne ha parlato ho risposto, che affare così grave <lb/>
+non può pesarsi così prontamente, et che era necessario, che da vostra Serenità <lb/>
+vi fosse fatto reflesso non minore di quello, che comportava la cosa <lb/>
+stessa. Sono avvisati questi signori esser vostre Eccellenze inclinatissime <lb/>
+et qui concorrendo nel medesimo vorrebbono, che si proseguisse <lb/>
+all’effetto. Hieri me ne parlò il signor principe Mauritio, et <lb/>
+mostrò il suo ordinario desiderio di veder la perfettione di <lb/>
+questa colleganza. </p>
+<p>Il signor principe Henrico questi giorni passati è stato travagliato da <lb/>
+un dolor di fianco, et hieri solamente uscì di casa. Lo visitai, <lb/>
+et nel proposito della sua condotta disse, che stava ancor atten-<lb/>
+dendo quello che haverà operato il signor principe Mauritio, <lb/>
+che haveva presa carica di parlarne con qualcheduni dei <lb/>
+signori Stati. Molto bene mi aveggo, che si va protrahendo <lb/>
+aspettandosi più larga risolutione dal canto della Serenità vostra in <lb/>
+conformità di quanto con precedenti lettere mie le ho rappre-<lb/>
+sentato particolarmente intorno alla dichiaratione del titolo, et espressione <lb/>
+del commando a’ 25 giugno, et doppo a’ 9 luglio, et con altre <lb/>
+lettere mie. A buonissimo proposito tentai hieri di cavarne qualche <lb/>
+cosa dal signor principe Mauritio; ma trovai o che non ne haveva <lb/>
+parlato, o stava irresoluto, et mi accennò, che se le truppe di <lb/>
+questi paesi dovessero esser ispedite per Alemagna sarebbe stato <lb/>
+impiegato. Forse disse questo con qualche fine. La prudenza <lb/>
+della Serenità vostra può capire fin dove miri il senso di questo Prin-<lb/>
+cipe. Io non ho che far altro, che aspettar di qua quello <lb/>
+mi sarà aggiunto, et da vostra Serenità li suoi prudentissimi commandamenti. </p>
+<pb n="213v" facs="08_213v" rend="0"/>
+<p>Convengo di nuovo replicar alla Serenità vostra l’instanza de’ mercanti interessati <lb/>
+nelle dodici navi, et in quella Il leon felice per la sodisfattione de’ loro <lb/>
+noleggi, che supplicano istantemente vostra Serenità a dar ordine, che siano <lb/>
+prontamente pagati, perché facendo stato sopra le lettere trasono<ptr target="#tn2" n="2"/> sopra <lb/>
+quel credito; et poi a loro grave interesse (come dicono) sono <lb/>
+necessitati a sodisfar le rimesse. </p>
+<p>Domenica poi furono a me tre deputati delli partionevoli del vassello <lb/>
+abbruggiatosi in Colfo desiderando saper da me quello, che ne havevo <lb/>
+et dicendo, che essi tenevano avviso da’ suoi corrispondenti, che ’l <lb/>
+vassello non era stato licentiato; o almeno non haveva havuto il suo <lb/>
+dispaccio; et però pretendevano in virtù del contratto esser pagati <lb/>
+del valor di esso dalla Serenità vostra. Io gli ho risposto col fondamento <lb/>
+di una lettera dell’eccellentissimo signor Capitan general da Mare, che intendevo <lb/>
+diversamente; et che per tanto non vedevo, che la serenissima Republica dovesse <lb/>
+esser sottoposta ad alcun risarcimento. Essi tenevano pur affermato <lb/>
+il contrario; et nel partir da me mi pregorono di rappresentar <lb/>
+alla Serenità vostra la loro pretensione. A che non assentendo dissi, che non <lb/>
+era tutto il dir di pretender; ma che bisognava, che la pretensione <lb/>
+havesse il suo fondamento, che io ancora haverei scritto per haverne le <lb/>
+necessarie informationi. Questi non ha dubio persisteranno nella <lb/>
+dimanda; et sono ricorsi all’amiralità di Roterdam, come <lb/>
+quella, che ha noleggiato il vassello per informar quei signori. Ma <lb/>
+parmi, che non doverebbe esser messa difficoltà di trattar la <lb/>
+loro pretensione costì, ove è successo l’accidente. Aspettarò li suoi <lb/>
+prudentissimi commandamenti, et le sue instruttioni per sapermi <lb/>
+regolar con esse nel sostener quello che stimerà la Serenità vostra proprio. </p>
+<p>Li signori della detta Amiralità con loro lettere mi hanno instantemente pregato <lb/>
+di scriver alla Serenità vostra, ch’ella si compiaccia di ordinare, che li restanti <lb/>
+denari al defonto capitano Pietro Corson ch’era sopra il sudetto
+<pb n="214r" facs="08_214r" rend="0"/>
+vassello fattone il disconto siano pagati in questi paesi a servitio della <lb/>
+vedova, et figlioli del morto: perché ad essi non tornerebbe conto<ptr target="#tn3" n="3"/> <lb/>
+passarsene costì per solecitar il detto disconto, et pagamento. Anco <lb/>
+in questo attenderò l’ordine ch’ella mi vorrà dare per <lb/>
+poter risponder a’ detti signori. </p>
+<p>M[andai]<ptr target="#tn4" n="4"/> la passata settimana con tre lettere n° 129 fin 131, che saranno <lb/>
+[qui]<ptr target="#tn5" n="5"/> aggiunte replicate, alcune scritture, che mi restavano, et insieme <lb/>
+doi lettere dell’amiralità di Roterdam per doi capitani. Con queste <lb/>
+haverà la copia di esse in fiamingo, et la traduttione in italiano per <lb/>
+valersene a suo gusto: et colla replicata del conto di questa residenza, verrà <lb/>
+anco con queste quello di Zurich, et del viaggio fatto a’ principi dell’Unione; et fin quà<ptr target="#tn6" n="6"/>. </p>
+<p>Sono pur solecitato per denari; et io aspetto li suoi prudentissimi <lb/>
+commandamenti, né credo che possino tardar molto a capitarmi <lb/>
+et con questo vado mantenendo in speranza queste Amiralità. Gratie etc. </p>
+<p>Dall’Haya li 18 settembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="214v" facs="08_214v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 133 comincia 132 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="074">
+<!--
+<p n="214vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 settembre 1619 ricevute a’ 2 ottobre </p>
+<p>Haya. n° 133 </p>
+<p>S’aspetta risposta nel negotio di unione <lb/>
+a chi ne ha parlato ha risposto, <lb/>
+in negotio grave doversi far gran reflesso. </p>
+<p>Sono avisati vi sia inclinatione voriano <lb/>
+ne seguisse l’effetto, et così ha <lb/>
+dimostrato desiderio Mauritio. </p>
+<p>Henrico dice circa la condotta star <lb/>
+attendendo quello ha operato il fratello che ha <lb/>
+preso carico di parlarne coi Stati. </p>
+<p>Avedersi il secretario che vorriano <lb/>
+maggior dechiaratione massime circa il <lb/>
+titolo, et il comando: parlandone <lb/>
+con Mauritio trova irresolutione. Et dice che se si facessse espeditione per <lb/>
+Alemagna, il fratello saria impiegato. <lb/>
+Giudica il secretario haver egli ciò detto <lb/>
+con qualche fine. </p>
+<p>Instanza per pagamenti de’ nolleggi alle 12 navi. <lb/>
+Presentatione dei particolari del vassello abrugiato <lb/>
+che non era licenziato, non havendo havuto <lb/>
+la espeditione, e pretendeno in virtù del <lb/>
+contratto esser pagati. Aspetta <lb/>
+che l’Amiralità ne facci instanza, <lb/>
+se ben saria dovere si trattasse di qui <lb/>
+dove è successo il caso. </p>
+<p>Dimanda dell’Amiralità che siano <lb/>
+pagati di là li avanzi del capitan Pietro Carson <lb/>
+era sopra la nave abrugiata a servitio della <lb/>
+moglie e figli. </p>
+<p>Manda conti suoi particolari e copia <lb/>
+di lettere mandate per capitani in armata. </p>
+<p>È sollecitato per denari aspetta <lb/>
+ordini. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-v- corretta su -r-, come pare."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-so- esito di correzione."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Segue andar depennato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Foro nel supporto."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "anco … qua aggiunto in interlinea sotto il rigo di scrittura."</p></note>
+</div>
+</body>
+</text>
+</TEI>

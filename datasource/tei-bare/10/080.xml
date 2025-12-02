@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.080 date 1621-12-13</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">080</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 401r-v, 404r-405v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">401r-v, 404r-405v, 402r-403v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters 13 and 19 November from Venice (see BHO 17 220) with news about violent confrontation at Oglio, a river near the Venetian border with Milan, and the Grisons. Maurice is worried about the incidents with the Grison. Reports he has raised the issue of support for the Grisons in conversations with other members of the government. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-12-13">13 dicembre 1621</date>
+            <num>130, 131</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="130">
+<div type="main" facs="main text of letter" n="130">
+<!--<p>13 dicembre 1621, L’Aia (cc. 401r-v, 404r-405v)</p>-->
+<pb n="401r" facs="10_401r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 353 fin 354 </p>
+<p>Serenissimo Principe </p>
+<p>col dispaccio, c’ho ricevuto ultimamente mi sono pervenute le <lb/>
+lettere della Serenità vostra de’ 13 del passato sopra l’accidente successo al <lb/>
+fiume Oglio; et altre dei 19 con la communicatione fatta al signor <lb/>
+ambasciator di Francia nella materia de’ Grisoni. Di questi par-<lb/>
+ticolari n’è venuto l’avviso anco d’altra parte, et massime <lb/>
+da quella de’ Svizzeri. Io però coll’occasione di visitar <lb/>
+il signor principe Mauritio doppo la sua venuta all’Haya, <lb/>
+che fu giovedì, communicai a sua Eccellenza il seguito; con <lb/>
+quella consideratione, che mi viene commandata, et summi-<lb/>
+nistrata dalla prudenza di lei per vantaggio del suo ser-<lb/>
+vitio; a fine che sia conosciuto l’interesse di lei per la <lb/>
+vicinanza nella materia de’ Grisoni, et per l’hostilità <lb/>
+seguita nel proprio dominio di vostra Serenità. Mostrò sua Eccellenza stimar, et <lb/>
+far gran caso di questi incidenti, et come ella, così anco altri <lb/>
+hanno risentiti gl’avvisi, et spetialmente per quei poveri popoli; comprendendo ognuno, che sendo abandonati non può <lb/>
+aspettarsi altro, che una desolatione intiera, et perdita assoluta <lb/>
+di essi, et della loro libertà. Non mi trattenni col signor Prin-<lb/>
+cipe che per poco spatio di tempo sendo occupata l’Eccellenza sua in <lb/>
+ricever molte visite; et nel licentiarmi ella mi disse, mi <lb/>
+spiace non havervi potuto trattener di vantaggio; ma <lb/>
+un’altra volta parleremo più alla lunga. Io dissi sarà, <lb/>
+quando piacerà all’Eccellenza vostra et ella nell’uscir della camera <lb/>
+mi aggiunse <hi rend="decoded">li</hi><ptr target="#tn1" n="1"/> <hi rend="decoded">Spagnuoli si vano avanzando lo vedemo, et <lb/>
+guadagneranno</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">anco ciò che vogliono, se <lb/>
+non haveranno una</hi>
+<pb n="401v" facs="10_401v" rend="0"/>
+<hi rend="decoded">buona opositione, bisogna <lb/>
+per il primo tempo far qualche cosa di buono <lb/>
+per darli ben su la testa</hi>. Horsù <lb/>
+parleremo. Io replicai, che haverei atteso quello, che dall’Eccellenza sua mi <lb/>
+fosse detto. Doppo non ho havuta occasione di vederla; ma <lb/>
+mi riservo con altri avvisi, che mi potranno venir col dispaccio <lb/>
+dei 26, che aspetto appresso dimani. </p>
+<p>Non mi toccò l’Eccellenza sua alcuna cosa intorno li aiuti, che si aspettano <lb/>
+da vostra Serenità o sia che non hebbe tempo, o perché non stimò bene <lb/>
+il farmi questo motivo per allhora; ma ben in passando disse, <lb/>
+che queste Provincie havevano gran bisogno di esser aiutate <lb/>
+da’ suoi buoni amici. </p>
+<p>Intorno li sudetti avvisi non ho sin qui tralasciato con chi ho havuta <lb/>
+occasione d’incontrarmi far anco le considerationi proprie <lb/>
+all’interesse, che ha vostra Serenità: et come viene riputato gran-<lb/>
+dissimo quello de’ Grisoni per disavantaggio, et pregiudicio <lb/>
+gravissimo, ch’ella verrebbe a ricever, sendole assolutamente <lb/>
+serrato il passo; così per il successo nell’Oglio stimano, che <lb/>
+sia una bravata de’ Spagnuoli, et che non seguirà altro; et <lb/>
+per tanto non lasciano et di quelli dell’assemblea, che in <lb/>
+particolare sono sottoscritti al contratto di aleanza, et altri ancora <lb/>
+di farmi ricerca, se ho havuto qualche ordine da vostra Serenità in ma-<lb/>
+teria di aiuti. Et uno in particolare mi ha affermato, che al <lb/>
+presente per sodisfattione<ptr target="#tn3" n="3"/> de’ debiti alle genti d’armi, et ad <lb/>
+altri officiali di campagna devono li signori Stati trovar un millione, <lb/>
+et più di fiorini; aggiungendomi aspettiamo dalla serenissima Republica <lb/>
+ch’ella ci dia il promesso; entrando nei concetti già scritti
+<pb n="404r" facs="10_404r" rend="0"/>
+per confermar la guerra, che aperta hanno queste Provincie con <lb/>
+Spagnuoli, in che (disse) non si deve metter difficoltà. Et mi <lb/>
+considerò (mostrando di farlo con affetto, et con buon zelo, <lb/>
+come disse verso la serenissima Republica, et il commune) che si trat-<lb/>
+tava della riputatione, et del servitio medesimo di vostra Serenità. <lb/>
+Per<ptr target="#tn4" n="4"/> questo, tenendosi l’armi de’ Spagnuoli impiegate altrove <lb/>
+lontane dal suo Stato; per l’altro a fine di non perder appresso <lb/>
+questi popoli quel capitale, che con tanto applauso, et così <lb/>
+honorevolmente ha acquistato di sincerità, et di amorevolezza <lb/>
+verso di loro. Et disse in verità, ch’io vorrei che li signori Stati <lb/>
+dassero più tosto a sua Serenità una quientanza<ptr target="#tn5" n="5"/> di haver <lb/>
+havuti denari, anco non li havendo havuti, che che* si sapesse <lb/>
+da ognuno, che non ne soministri in virtù del contrattato <lb/>
+et soggiunse si spera, che havendo vostra Signoria informati quei signori <lb/>
+dello stato delli affari di qua, delle hostilità, et che pur siamo <lb/>
+stati in campagna a fronte dell’inimico più di tre mesi; et in <lb/>
+questo mentre passati<ptr target="#tn6" n="6"/> con ogni termine hostile, et atti di guerra <lb/>
+tra li uni, et gl’altri, et massime con attentati dalla parte dei <lb/>
+Spagnuoli di pigliarci in Fiandra, et altrove in queste Provin-<lb/>
+cie le piazze, come tutto ’l mondo l’ha saputo. Et replicò <lb/>
+speriamo il frutto dell’aleanza, et che darà ordine sua <lb/>
+Serenità, et commandamenti tali, che li signori Stati resteranno contenti. <lb/>
+Io non dissi altro a questo signore se non, che poteva esser certo <lb/>
+della sincerità di quella serenissima Republica, et che fatta ella certa <lb/>
+esser nel caso della capitulatione sodisferà prontamente. <lb/>
+Siamo rispose, et non si ha da metter più dubio; et qui si
+<pb n="404v" facs="10_404v" rend="0"/>
+tratta di doi cose di assister a queste Provincie tanto affettionate, <lb/>
+et amiche alla serenissima Republica, che saranno pronte per ogni accidente <lb/>
+al soccorrerla, et se lo può prometter sicuramente, et di conservar, <lb/>
+et mantener qui la riputatione, ch’ella s’è acquistata <lb/>
+grandissima tra questi popoli. Altri, o simil concetti escono <lb/>
+dagl’altri ancora. Et ho penetrato, che restano questi <lb/>
+signori un poco sospesi di non haver havuta risposta manco <lb/>
+all’ultime lettere, che le hanno inviate. Io non mancarò <lb/>
+di andar trattenendo gl’animi in quella miglior maniera <lb/>
+che mi sarà possibile con tenermi però sempre all’ordine, <lb/>
+et alle commissioni precedenti della Serenità vostra: intanto <lb/>
+ho stimato mio riverente debito non tralasciar di <lb/>
+significarle in questa materia quanto mi è occorso di <lb/>
+sentire. Gratie etc. </p>
+<p>Dall’Haya li 13 decembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore</p>
+<p>Christofforo Suriano </p>
+<pb n="405r" facs="10_405r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="405v" facs="10_405v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 353 fin 354 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="130">
+<!--
+<p n="405vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>13 decembre 1621 ricevute a’ 6 gennaro </p>
+<p>Del segretario Suriano. n° 353. Prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="131" corresp="130" source="402r-403v" >
+<div type="main" facs="main text of attachment I" n="131" corresp="130" >
+<!--<p>Allegato I al n. 130 (cc. 402r-403v; decodifica di c. 401r-v)</p>-->
+<pb n="402r" facs="10_402r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="402v" facs="10_402v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="403r" facs="10_403r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="403v" facs="10_403v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "li … su la testa" decoding of the encrypted text can be found on c. 402r; with cross-reference sign.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Precedes "già" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-isf-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

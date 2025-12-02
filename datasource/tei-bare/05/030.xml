@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.030 date 1617-12-11</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">030</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, 181r-184v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">181r-184v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Duplicate letter. Acknowledges receipt of letters from Venice dated 24 November. On Sunday morning he has visited Maurice to inform him about the actions of Spanish ministers. In their conversation Maurice remarks that the Spanish can’t be trusted claiming that the same will happen to Vercelli as with Wesel. The Spanish have promised to return it, but they never will. Levenstein has left via Cologne to Heidelberg. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-12-11">11 dicembre 1617</date>
+            <num>057</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="057">
+<div type="main" facs="main text of letter" n="057">
+<!--<p>11 dicembre 1617, L’Aia (cc. 181r-184v; copia di cc. 176r-179v)</p>-->
+<pb n="181r" facs="05_181r" rend="0"/>
+<head>main text of letter</head>
+<p>Havendo<ptr target="#tn1" n="1"/> rimarcato nelle lettere della Serenità vostra quello che nuovo <lb/>
+ha inteso, che ’l vostro re di Napoli non cessi da’ suoi pensieri di <lb/>
+haver da questi paesi navi per suo servitio ho fatto proposito <lb/>
+di trovarmi appresso dimani nell’assemblea de’ signori Stati per <lb/>
+eccitarli a metter qualche nuovo ordine, che a ciò sia <lb/>
+avvisato dalle amiralità di questa provincia, et di quella <lb/>
+di Zelanda, oltre quello <lb/>
+che è stato scritto all’una, et all’<lb/>
+altra, né mancarò di portar l’ufficio con l’affetto, che <lb/>
+si conviene. Gratie etc. </p>
+<p>Dall’Haya a’ xi decembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="181v" facs="05_181v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="182r" facs="05_182r" rend="0"/>
+<p>Replicata </p>
+<p>sola </p>
+<p>Serenissimo Principe </p>
+<p>havevo ispedite le mie lettere per Anversa quando sabbato <lb/>
+a notte mi sono pervenute quelle de’ 24 del <lb/>
+passato con gl’avvisi delle diversificationi de’ pensieri, et delle <lb/>
+operationi de’ ministri spagnuoli; cosa, che non è parsa strana al signor <lb/>
+principe Mauritio al quale sono stato questa mattina per <lb/>
+termine di confidente ufficio affineché fosse informato di quanto <lb/>
+passava. Disse che il fidarsi dei Spagnuoli era un gettar <lb/>
+il tempo et che haverebbono fatto quello, che fosse tornato <lb/>
+loro conto, né altro bisognava creder; et sorridendo disse non è <lb/>
+stato mai possibile, che possino sentir con gusto doi <lb/>
+lettere dell’ <lb/>
+alfabetto il C et il D quel cedè non lo vogliono sentire, <lb/>
+né vogliono accommodarvisi; vogliono bene, che gl’altri cedano; <lb/>
+ma essi tenirsi continuamente in possesso. Vercelli a quest’hora <lb/>
+è ridotto alla conditione di Vesel, hanno promesso sempre di <lb/>
+restituirlo; ma non ne faranno altro et si può temer, che anco <lb/>
+la serenissima Republica habbi ad haver del travaglio la sua parte ; <lb/>
+ma aggiunse bisogna star a vedere. </p>
+<p>Sta in questa corte curioso ognuno di sentir l’essito, et se haverà <lb/>
+effetto la pace; ma cadauno anco dubita che vostra Serenità et il signor duca di <lb/>
+Savoia insieme siano in questa stagione condotti con parole, <lb/>
+con ufficii, con trattationi et dimostrationi di buona volontà, <lb/>
+ma che nell’animo si covino insidie, machinationi, et con <lb/>
+gl’artificii soliti ridur la Serenità vostra in particolare, et il signor Duca <lb/>
+a retirarsi dalle piazze, a ceder quasi in campo, et poi
+<pb n="182v" facs="05_182v" rend="0"/>
+a primo <lb/>
+tempo condur a fine li loro disegni. Mira ogn-<lb/>
+uno verso l’Halzatia, sentendo, che là ancor si manten-<lb/>
+gono le genti levate dall’arciduca Leopoldo et sua Eccellenza <lb/>
+in questo proposito mi disse, che non vorranno Spagnuoli <lb/>
+disarmarsi; ma tenersi in luoco; dove poter commodamente <lb/>
+dar con facilità l’allarma a vostra Serenità et <lb/>
+al signor duca di Savoia, <lb/>
+aggiungendomi, che la Republica non si fidi, se ella è armata <lb/>
+ci stii, et facci conto di qualche buoni soldati (volse in-<lb/>
+ferir di questi paesi) che ella ha al suo servitio per lo <lb/>
+spagnuolo farà il possibile per ingannarla. Io risposi <lb/>
+a sua Eccellenza che le Signorie vostre eccellentissime hanno sempre fatta professione <lb/>
+di sincerità d’animo, che era del medesimo ancora; <lb/>
+ma che però potevo esser certo, che tanto haverebbono <lb/>
+creduto; quanto havessero veduto cosa di sicuro; <lb/>
+ripigliò così bisogna fare, et manco, che si crede a’ Spagnuoli <lb/>
+è il maggior vantaggio. </p>
+<p>Mi è stato riferto da uno venuto di Amsterdam esser <lb/>
+stato scritto da un mercante, che Spagnuoli credendo <lb/>
+che l’Eccellenze vostre vorrebbono volontieri non esser soggette <lb/>
+a tante, et si grosse spese, come hanno fatto in questa <lb/>
+guerra, per questo siano condescesi a dargli parole, <lb/>
+et far promessa di pace, tra la Serenità vostra et il <lb/>
+serenissimo Ferdinando <lb/>
+et tra sua Maestà catholica et Savoia per darli materia di <lb/>
+disarmarsi, et licentiando le genti disgustar qualche
+<pb n="183r" facs="05_183r" rend="0"/>
+natione, che in occasione poi non sia così pronta a venirle <lb/>
+a prestar servitio; sperando di poterla coglier all’improvviso <lb/>
+et disarmata, et sprovista: perché per far il fatto loro non <lb/>
+si cureranno mancar della parola come si vede, che <lb/>
+tentano anco tutte le vie che chiudono la stradda a quelli, <lb/>
+che vogliono passar al suo servitio. </p>
+<p>Di più ho inteso, che vi sia qualcheduno che tiene commissione <lb/>
+dall’Imperatore et dal re Ferdinando</p>
+<p>per levar genti dalle <lb/>
+provincie dei serenissimi arciduchi; ma non si muoveranno se non <lb/>
+per il primo tempo aspettando più fermo commandamento, et <lb/>
+che in tanto si teniranno in questi contorni; né io mancarò <lb/>
+di star avvertito. </p>
+<p>Hoggi è partito il conte Gio. Casimiro di Levenstein, come sia a <lb/>
+Colonia prenderà la posta per Heidelbergh, di là ispe-<lb/>
+dirà uno subito espressamente al conte suo fratello, et trattenu-<lb/>
+tosi egli appresso sua Altezza palatino quattro o sei giorni <lb/>
+caminerà in diligenza egli ancora per costa. Spera come <lb/>
+mi ha detto di esser in tempo, che vostra Serenità non haverà ancora <lb/>
+data sodisfattione alle lettere di cambio, et so lo pro- <lb/>
+mette stante la riversole del Vandembergh; ma in caso <lb/>
+che il pagamento <lb/>
+fosse seguito si è lasciato intender con chi <lb/>
+me lo ha riferto doppo la sua partenza, che teniva <lb/>
+per fermo che vostra Serenità havendo esborsato il denaro
+<pb n="183v" facs="05_183v" rend="0"/>
+se lo haverebbe fatto restituire, o che haverebbe bisognato, <lb/>
+che lo esborsasse di nuovo, et che gli era stato detto <lb/>
+da persona di qualità, la quali mi fu accennato esser il conte <lb/>
+Guglielmo di Nassau, che a ciò la serenissima Republica era tenuta, <lb/>
+il che mi data causa d’ispedir le presenti che veniranno <lb/>
+con l’altre per l’ordinaria di Augustaalla Serenità vostra; io <lb/>
+con afflittione d’animo sentirei, che ella havesse a ricever <lb/>
+qualche disgusto in questo particolare et che questi Alemani <lb/>
+per natura assai puntigliosi, et pieni di riputatione si disgustassero nell’ingresso a quel servitio, et massime <lb/>
+questi fratelli, che hanno adherenze per servitù con il <lb/>
+Palatino, et con il duca di Virtembergh, et altri principi dell’ <lb/>
+Unione; essendo massime lecito in questi tempi ad ognuno formar <lb/>
+quel giudicio, che gli pare anco sopra le gazette, et massime <lb/>
+nell’Alemagna; et dirò anco in questo Paese spetialmente <lb/>
+col ritorno delle genti, che sono state al servitio, che per coprir <lb/>
+qualche loro mancamento non lasciaranno di ardire <lb/>
+di dir qualche bugia, che si anderà alterando con gl’affetti <lb/>
+o mali o poco intendenti della munificenza, et pietosa <lb/>
+carità della Serenità vostra. Porta la riverenza, et devotione <lb/>
+mia il concetto; ma è espresso con <lb/>
+quella humiltà, che <lb/>
+professo verso la prudenza delle Signorie vostre eccellentissime et verso il [servi]tio et interesse di quella serenissima Republica.</p>
+<pb n="184r" facs="05_184r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="184v" facs="05_184v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata<ptr target="#tn2" n="2"/> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "Mistake in the order, beginning of the letter is on 182r, this is the end of the letter."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Seal and traces of red wax. Slit-and-band letterlock."</p></note>
+</div>
+</body>
+</text>
+</TEI>

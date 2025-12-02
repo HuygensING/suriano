@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 05.023 date 1617-11-27</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">05</idno>
+                <idno type="letterno">023</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 5, fol 136r-137v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Partial translation (Calendar State Papers, Venice, Volume 15, letter 97) on British History Online (https://www.british-history.ac.uk/cal-state-papers/venice/vol15/pp44-63#highlight-first)
+            </note>
+            <biblScope unit="page">136r-137v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports that he has not yet obtained any information about the merchant Alessandro Rosa. Further he writes that the religious question has not been settled referring to an incident in the city of Delft. Maurits of Nassau left early in the morning to Delft, according to Suriano, to settle the matter. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-11-27">27 novembre 1617</date>
+            <num>041</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="041">
+<div type="main" facs="main text of letter" n="041">
+<!--<p>27 novembre 1617, L’Aia (cc. 136r-137v)</p>-->
+<pb n="136r" facs="05_136r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>non intendendo alcuna cosa di quell’Alessandro Rosa <lb/>
+mercante, del quale<ptr target="#tn1" n="1"/> mi commesse la Serenità vostra che <lb/>
+prendessi informatione, et m’opponessi a’ suoi tentativi <lb/>
+uno di questi giorni passati dimandai al Presidente <lb/>
+se havevano havuto alcun sentore o di lui, o di altri <lb/>
+con simil commissioni a quelle del Rosa, mi disse che <lb/>
+non; ma che era stato scritto a tutte le amiralità <lb/>
+di queste Provincie non sapeva però se n’era stato <lb/>
+scritto in Zelanda, et disse, che lo haverebbe <lb/>
+addimandato. Con questa occasione feci cader proposito, <lb/>
+et procurai col detto<ptr target="#tn2" n="2"/> presidente di<ptr target="#tn3" n="3"/> Frisia, <lb/>
+ch’è il signor Brumagno ch’è assai confidente meco <lb/>
+che come da sé tirasse un poco qual fosse il senso <lb/>
+de’ signori Stati, quando la serenissima Republica havesse ricercata <lb/>
+qualche nave da guerra per suo servitio da <lb/>
+trattenersi a sue spese; mi disse avanti hieri, <lb/>
+che haveva trovata congiontura di far il servitio <lb/>
+et era da alcuni stato detto nell’assemblea <lb/>
+et perché si prohibirebbe? È la Republica principe <lb/>
+nostro amico dimanderebbe per suo bisogno né <lb/>
+sapressimo negarlo. Questo stesso concetto l’ho
+<pb n="136v" facs="05_136v" rend="0"/>
+havuto in particolare da monsignor Brin di Gherldria, et credo che <lb/>
+non sarebbe negato. Ma spero nella bontà di Dio, ch’ella <lb/>
+non haverà bisogno di far questa instanza se ben l’esser <lb/>
+sempre la Serenità vostra preparata sarà al suo vantaggio. </p>
+<p>Del Rosa è stato scritto a Midelburgh, et a Flesinghem <lb/>
+essendo state date a quelle Amiralità ogni particolar <lb/>
+contrasegno; ma sin qui non se n’è havuta, come ho <lb/>
+detto notitia alcuna. </p>
+<p>Fra sette over otto giorni saranno qui li deputati <lb/>
+per la General Congregatione di Holanda. Caminano <lb/>
+le cose della religione torbide al solite. Succede <lb/>
+sempre qualche inconveniente. A Delft è stato <lb/>
+in punto quel populo di venir hier mattina alle <lb/>
+mani perché volevano li contraremonstranti, che <lb/>
+un ministro loro<ptr target="#tn4" n="4"/> predicasse, et li <lb/>
+remonstranti o erministi non volevano, pur non <lb/>
+è successo altro havendosi interposto il Magistrato. </p>
+<p>Il signor principe Mauritio sotto pretesto di andar a riveder <lb/>
+queste città dell’Holanda è partito questa mattina <lb/>
+di buon hora verso Delft, ove è stato nel Consiglio <lb/>
+di quella città, et così di città in città anderà mettendo
+<pb n="137r" facs="05_137r" rend="0"/>
+quel miglior ordine, che l’auttorità, et la prudenza <lb/>
+potrà<ptr target="#tn5" n="5"/> al disordine, che va ogni giorno sorgendo <lb/>
+tra questa plebe condotta a questi segni dalla libertà <lb/>
+del dire, et dalla troppo conivenza, che si usa <lb/>
+da’ superiori con essa. Si spera nondimeno di <lb/>
+trovar rimedio al male; ma vi vuol tempo, <lb/>
+patienza, et prudenza più che ordinaria. Gratie etc. </p>
+<p>Dall’Haya a’ 27 novembre 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="137v" facs="05_137v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Trace of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="041">
+<!--
+<p n="137vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>27 novembre ricevute 13 detto </p>
+<p>Haia. 2<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "ella" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "s(igno)r Brumagno" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "d-" corrected above ,.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Precedes "sua" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 12.044 date 1623-07-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">12</idno>
+                <idno type="letterno">044</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 12, fol 435r-436v , 439r-440v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">435r-436v, 439r-440v, 437r-438v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Arrival of courier from Duke Christian of Brunswick to inform the States General that he is preparing to leave Halberstadt and march towards Hesse to protect it against Tilly. Letters from Frankfurt confirm this news but also mention Tilly receiving 5000 soldiers from Bohemia and that part of army is crossing the Weser. This news causes concerns as Tilly might unite with army of Cordova and Anholt before Christian can attack him. Spanish are ready for campaigning season, still waiting for arrival of fleet. The WIC is progressing with new facilities in Amsterdam. Uncertainty surrounding the conclusion of the Spanish match. Elizabeth Stuart does not trust Spanish intentions and opposes a potential deal on Palatinate. Acknowledges receipt of letters from 16 June from Venice. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-07-03">3 luglio 1623</date>
+            <num>123, 124</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="123">
+<div type="main" facs="main text of letter" n="123">
+<!--<p>3 luglio 1623, L’Aia (cc. 435r-436v, 439r-440v)</p>-->
+<pb n="435r" facs="12_435r" rend="0"/>
+<head>main text of letter</head>
+<p><metamark facs="Cut page"/></p>
+<pb n="435v" facs="12_435v" rend="270"/>
+<p><metamark facs="Cut page"/></p>
+<pb n="436r" facs="12_436r" rend="0"/>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 519 comincia 518 </p>
+<p>Serenissimo Principe </p>
+<p>è qui arrivato avanti hieri un lachè del signor duca Christiano <lb/>
+di Bransvich, che porta avviso che doveva levarsi di dove <lb/>
+era in quello d’Alberstat, et la confermatione di questo <lb/>
+è venuta anco con lettere, et più che marchiasse verso il <lb/>
+landtgrave d’Hassia con proderose forze; non scrive parola <lb/>
+nelle lettere alla Regina, né ad alcuno del viaggio, che <lb/>
+vogli fare, et il signor principe Mauritio mi disse, che <lb/>
+laudava questa maniera di fare: tuttavia viene tenuto <lb/>
+per fermo, che ’l suo viaggio tendi contra Tilly in favore <lb/>
+di detto Landtgrave; parte delle genti del quale <lb/>
+hoggi si è inteso, che calassero a basso con manifesto <lb/>
+inditio di accostar, et unirsi a quelle di Anolt, <lb/>
+et di Cordova. Della mossa del Duca anco gl’avvisi <lb/>
+di Francfort ne fanno mentione; et li medesimi portano <lb/>
+anco che a Tilly calavano cinque mille soldati di <lb/>
+Bohemia; che la sua vanguardia fosse nel paese <lb/>
+di Caoburgh; et il suo essercito havesse in parte <lb/>
+passato il Wesar, et Escheviele. Questi avvisi <lb/>
+tengono qui gl’animi in sospeso. Si vorrebbe bene <lb/>
+da chi intende le cose, che ’l duca Christiano fosse <lb/>
+il primo ad attaccare; ma si teme anco, che <lb/>
+non cadi sotto a qualche infortunio, che metti in <lb/>
+scompiglio le cose, massime se potesse unirsi Tilly <lb/>
+alli altri doi esserciti di Cordova, et di Anolt<ptr target="#tn1" n="1"/> <lb/>
+onde si sta con gran attentione aspettando l’essito. </p>
+<p>Spagnuoli fanno sembiante di voler uscir in campagna, <lb/>
+perché a Malines tengono ad ordine, et pronto ogni<ptr target="#tn2" n="2"/> <lb/>
+equipaggio come carri, munitioni, et altro necessario
+<pb n="436v" facs="12_436v" rend="0"/>
+alla partita, et al far marchiar le loro armi: et qui <lb/>
+stano med(esimamen)te pronti. Ma quello che fa creder che <lb/>
+Spagnuoli non possino o tarderanno la sortita, <lb/>
+è un avviso, che viene con l’ultime lettere d’Anversa, <lb/>
+che da diverse parti conforma, che non si parli più tanto <lb/>
+della flotta, né della certezza della sua venuta, et che <lb/>
+altre rimesse non siano arrivate doppo oltre li 350 mila soldi <lb/>
+se ben alcuni dicono soli 330 mila da pagarsi in sei mesi <lb/>
+picciola summa per sodisfar la soldatesca, che vive colla <lb/>
+speranza nutrita dalle publicationi della venuta della <lb/>
+flotta, et delle rimesse. Questo avviso che intanto <lb/>
+si crede vero perché si vorrebbe consolar, et dar cuore <lb/>
+a tutti; et questi signori di Holanda, che al presente <lb/>
+sono ridotti insieme attendono a consultar sopra <lb/>
+la materia del denaro, et a trovarne summa <lb/>
+sufficiente al bisogno per la loro portione. </p>
+<p>Anco quelli di Gheldria, che continuano pur qui in <lb/>
+buon numero de’ deputati vanno portando li loro <lb/>
+affari con desiderio di una buona riuscita, et accordo <lb/>
+et si tenta di accommodarli con quelli di Owrisel <lb/>
+con chi anco per certe signorie, et interessi di comer-<lb/>
+cii sono in contentione; ma a tutto presto sarà <lb/>
+rimediato con buon accordo. </p>
+<p>Il negotio dell’Indie Occidentali va più avanti del solito <lb/>
+et in Amsterdam nel ritorno<ptr target="#tn3" n="3"/>, che feci all’Haya in <lb/>
+passando vidi la fabrica, che fanno far li aministratori <lb/>
+della compagnia<ptr target="#tn4" n="4"/> di una gran casa con magazini, et luochi propri per <lb/>
+le mercantie; segno ch’ella doverà andar avanti
+<pb n="439r" facs="12_439r" rend="0"/>
+et alla verità il signor principe Mauritio vi ha impartito <lb/>
+assai della sua auttorità, che altrimenti le cose cami-<lb/>
+nando con un confuso interesse, andavano a <lb/>
+rischio, che non se ne vedesse mai il fine. </p>
+<p>Del matrimonio d’Inghilterra qui non si crede che segua, <lb/>
+et si sta in questa buona opinione; ma non possono <lb/>
+tacer alcuni, che non biasmino la dimora così lunga <lb/>
+alla corte di Spagna del principe d’Waglia. <lb/>
+Questo signor ambasciator d’Inghilterra non parla di questo affare, <lb/>
+et questi principi non sano, che dirne; et la Regina <lb/>
+in particolare disse a me la passata settimana. Spagnoli <lb/>
+inganeranno mio padre, mio fratello et poi si burle-<lb/>
+ranno ancora, et si tacque. </p>
+<p>Parlò qualche cosa della tregua del Palatinato, et di Ale-<lb/>
+magna mostrando quel senso, che può capir in animo <lb/>
+di generosa Principessa <hi rend="decoded">et</hi><ptr target="#tn5" n="5"/> <hi rend="decoded">particolarmente disse non doverebbe <lb/>
+il Re mio marito sottoscriverle <lb/>
+et che apparenza vi è, che lo debbi <lb/>
+fare, potendo esser che in quindeci <lb/>
+mesi si cambiino molte cose, et per <lb/>
+tanto non deve legarsi volontaria-<lb/>
+mente le mani già ch’è libero. <lb/>
+</hi></p>
+<p>A Brusseles è stata inviata la risposta per mandar <lb/>
+in Inghilterra et le considerationi del Re palatino <lb/>
+et deveva l’agente della maestà della Gran Bertagna <lb/>
+far l’ispeditione. Si stava da mo’ innanti <lb/>
+attendendo come l’haverà sentita. </p>
+<pb n="439v" facs="12_439v" rend="0"/>
+<p>Con l’ultimo ordinario capitato domenica passata <lb/>
+hebbi le lettere di vostra Serenità de’ 16 del passato con gl’<lb/>
+avvisi de’ Turchi, et de essi, et d’altri annessi mi <lb/>
+valerò per informatione. </p>
+<p>Gionte verranno a queste le doi lettere mie n° 516 fin 517 <lb/>
+d’hoggi otto. Gratie etc. </p>
+<p>Dall’Haya li 3<ptr target="#tn6" n="6"/> luglio 1623 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="440r" facs="12_440r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="440v" facs="12_440v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 519 comincia 518 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="123">
+<!--
+<p n="440vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>3 luglio 1623. Ricevute li 19 detto </p>
+<p>Haya. 2<hi rend="superscript">de</hi>. n° 519 </p>
+<p>Avvisi della mossa di Bransvich <lb/>
+senza notitia per dove: ma contra <lb/>
+Tilli, si crede, et si va con sospensione <lb/>
+d’occasione per l’esito. </p>
+<p>Spagnoli fanno mostra di uscire in <lb/>
+campagna, et anco i Stati sono <lb/>
+pronti. </p>
+<p>Si crede, che differiranno Spagnoli per la <lb/>
+diminutione del concetto della flotta, <lb/>
+non capitate oltre rimessa dopo <lb/>
+quella delli 350 mila soldi </p>
+<p>Li signori d’Olanda consultavano <lb/>
+su la notitia del denaro. </p>
+<p>Circa quelli di Gheldria <lb/>
+e loro trattati. </p>
+<p>Va innanzi il negotio dell’<lb/>
+Indie Occidentali etc. </p>
+<p>Non si crede, che sopra il matrimonio <lb/>
+d’Inghilterra. </p>
+<p>Concetto della Palatina, circa la <lb/>
+tregua del Palatinato, et d’Alemagna. </p>
+<p>L. R. cum SS. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="124" corresp="123" source="437r-438v" >
+<div type="main" facs="main text of attachment I" n="124" corresp="123" >
+<!--<p>Allegato I al n. 123 (cc. 437r-438v; decodifica di c. 439r)</p>-->
+<pb n="437r" facs="12_437r" rend="0"/>
+<head>main text of attachment I</head>
+<p>n° 519 </p>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="437v" facs="12_437v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="438r" facs="12_438r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="438v" facs="12_438v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Added above the deleted words.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-i" corrected above "-e."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "ri-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "della compagnia" added above the line with an insertion mark.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "et … libero" decoding of the encrypted text can be found on c. 437r; with cross-reference sign.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "8."</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.063 date 1620-11-03</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Giorgia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">063</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 318r-321v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp462-477
+            </note>
+            <biblScope unit="page">318r-321v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Trevisano was greeted in Middelburg, Veere and Vlissingen. He set sail to Sas van Ghent to travel to France. Reports he was also offered a gold chain and asks the Senate whether he is allowed to keep it. He resumes his duties as secretary, he has opened the letters to Trevisano as instructed. Together with Dardani he will do the accounts. Lormes and Falghero are travelling to Venice, Pasini may follow them. He has not had the time to inquire about the events in HRE; </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-03">3 novembre 1620</date>
+            <num>097</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="097">
+<div type="main" facs="main text of letter" n="097">
+<!--<p>3 novembre 1620, L’Aia (cc. 318r-321v)</p>-->
+<pb n="318r" facs="09_318r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 245 sola </p>
+<p>Serenissimo Principe </p>
+<p>doppo haver l’eccellentissimo signor ambasciator Trivisano nell’isola di Walcheren <lb/>
+in Zelanda ricevuti nelle tre città di Midelburgh, Ver, et <lb/>
+Flesinghem<ptr target="#tn1" n="1"/> tutto quel più d’accoglienza, et di dimostrazione <lb/>
+d’honore, che li magistrati di esse, et li stati della stessa <lb/>
+Provincia tutta, uniti nella città capitale di Midelburgh <lb/>
+puotero con effetti di buon trattamento, et il popolo con <lb/>
+testimonii d’applauso della venuta dell’Eccellenza sua ella s’<lb/>
+imbarcò sabbato ultimo del passato tre hore doppo ’l <lb/>
+mezo giorno in un vassello espressamente accommodato <lb/>
+per lei per condurla fino al sasso piazza, o più <lb/>
+tosto forte nella Fiandra sotto la giuridittione <lb/>
+dei serenissimi arciduchi. Domenica si sarà resa a <lb/>
+Gant per seguitar il suo camino per la Francia. <lb/>
+Prego Iddio, che concedi all’Eccellenza sua felice viaggio, <lb/>
+et ritorno felicissimo alla Patria. </p>
+<p>Fin fuori in mare accompagnato col signor Marco Dar-<lb/>
+dani ragionato della Serenità vostra ho servito sua Eccellenza <lb/>
+comportandolo così il debito dell’ossequio, et <lb/>
+riverenza mia tanto per la qualità, che così <lb/>
+insigne portava di rappresentante la Serenità vostra <lb/>
+che per il particolar merito delle virtù, valore, <lb/>
+et prudenza di lei. Ha ella complito in
+<pb n="318v" facs="09_318v" rend="0"/>
+tutte le parti, et rappresentando degnamente la grandezza <lb/>
+et riputatione di quella serenissima Republica è partita da <lb/>
+questi paesi con<ptr target="#tn2" n="2"/> lasciar<ptr target="#tn3" n="3"/> honorato nome, et grandissimo <lb/>
+desiderio di sé stessa. </p>
+<p>Ha scritto sua Eccellenza alla Serenità vostra come anc’io fui presentato <lb/>
+d’una catena d’oro. La convenienza, et il rispetto <lb/>
+di riverente servitore del detto eccellentissimo signore mi fece <lb/>
+conoscer ch’io non dovevo ricever alcuna cosa <lb/>
+senza previa conoscenza dell’Eccellenza sua onde le participai <lb/>
+questa munificente intentione delli eccellentissimi signori Stati, et <lb/>
+allhora, che mi assicurai di poter con publica <lb/>
+sodisfattione ricever il presente<ptr target="#tn4" n="4"/>, che dalli deputati <lb/>
+dei signori Stati mi fu porto in nome dell’Eccellenze loro <lb/>
+perché lo conservassi per memoria dell’aleanza. <lb/>
+Io con parole le più proprie che seppi trovare, <lb/>
+rendendo le debite gratie, aggiunsi alli deputati, <lb/>
+che come li signori Stati desideravano, ch’io conser-<lb/>
+vassi il presente per memoria di così degno succe[sso]<ptr target="#tn5" n="5"/> <lb/>
+tra le due Republiche, così l’haverei ricevuto <lb/>
+et conservato; ma in deposito però per la Serenità vostra <lb/>
+et solo allhora ne sarei restato possessore, che <lb/>
+da lei mi fosse stato permesso. Così serenissimo Principe
+<pb n="319r" facs="09_319r" rend="0"/>
+terrò per sua appresso di me la detta catena d’oro, finché <lb/>
+conforme a quello c’ha accostumato con altri suoi <lb/>
+humilissimi ministri si compiaccia, ch’io ne sia legitimo <lb/>
+possessore; come la supplico farmene libero presente per <lb/>
+riconoscer da quell’eccellentissimo Senato l’honore, et il bene. </p>
+<p>Ripiglio al presente il mio riverente ministerio cessato (com’era <lb/>
+di dovere) sin qui; et procurerò che ancor per il <lb/>
+resto, che mi avanza di trattenermi in questa <lb/>
+residenza, riesca tale, che sodisfino, et comprobino <lb/>
+l’operationi al concetto, che sempre ho scoperto <lb/>
+esser in quell’eccellentissimo Senato della mia fede, humiltà <lb/>
+et riverenza verso quella serenissima Republica. </p>
+<p>Già poche ore sono arrivato in questo luoco, havendo <lb/>
+havuto il vento non poco contrario, che m’ha fatto <lb/>
+star doi notti intere, et quasi tre giorni in barca. <lb/>
+Ho trovate lettere di vostra Serenità dirette all’eccellentissimo ambasciator <lb/>
+Trivisano, et la commissione aggiunta dell’aprirle <lb/>
+in caso fosse partito. Tanto ho essequito. Anco <lb/>
+nel resto non abandonerò il negotio di Valtelina <lb/>
+ben ponderato, et considerato dalla prudenza <lb/>
+del detto eccellentissimo signore alli signori Stati, et opportunamente <lb/>
+reitererò l’instanze, et mantenirò la trattatione
+<pb n="319v" facs="09_319v" rend="0"/>
+com’è desiderato, et commandato da lei, et tanto più per <lb/>
+l’intentione, che prima del partire dell’eccellentissimo signor ambasciator Tri-<lb/>
+visano parve<ptr target="#tn6" n="6"/> che facessero dargli li signori Stati di<ptr target="#tn7" n="7"/> <lb/>
+voler haver a cuore tanto negotio colla confessione <lb/>
+della stima, che ne facevano, et dell’importanza sua. </p>
+<p>Le lettere di vostra Serenità, che mi portano il commento di aprir l’altre <lb/>
+portano di vantaggio la sua volontà, et intentione <lb/>
+circa li pagamenti de’ noleggi. Sia ella sicura, che <lb/>
+anderò cauto quanto la cosa stessa lo merita, et <lb/>
+veggo massime esser il desiderio suo, et quando <lb/>
+occorrerà farò le tratte con il maggior vantaggio, <lb/>
+che mi sarà possibile. </p>
+<p>Col Dardani caminerò innati<ptr target="#tn8" n="8"/> alla calculatione, et <lb/>
+rincontro dei conti, et stando in questa casa di <lb/>
+vostra Serenità non si mancarà, né si perderà tempo, usando <lb/>
+diligenza principalmente per far la vera, et sincera <lb/>
+liquidatione di tutto ’l denaro che di ragione di lei <lb/>
+ho maneggiato in questa residenza. </p>
+<p>Conforme al raccordo, et consiglio dell’eccellentissimo signor ambasciator Trivisano <lb/>
+ispedirò per costì quel visconte di Lormes. In sua <lb/>
+compagnia verrà il signor Pietro Falghero, et credo <lb/>
+seguiterà poi il Pasini. Così vostra Serenità dalla<ptr target="#tn9" n="9"/> viva
+<pb n="320r" facs="09_320r" rend="0"/>
+voce di questo soggetto venirà a ricever maggior chiarezza <lb/>
+et certezza della sussistenza del negotio, et della facilità <lb/>
+all’effetto di esso. Tanto è stato stimato proprio dal <lb/>
+detto eccellentissimo signore, et che non dovesse esser abandonato in <lb/>
+conformità di quello, che me ne fu espresso in precedenti <lb/>
+lettere sue. </p>
+<p>Per la strettezza del tempo sendo arrivato per appunto <lb/>
+quando il messaggiero d’Anversa stava per partire <lb/>
+non ho havuta opportunità di veder qualcheduno <lb/>
+per saper con fondamento alcuna cosa delli affari di <lb/>
+qua, et di Alemagna. Solo si conferma la morte <lb/>
+del colonel Dampier, c’ha dato qui non poco conten-<lb/>
+to per la consequenza, che ne sperano tanto per <lb/>
+il vantaggio del re di Bohemia, che de’ paesi incorporati. </p>
+<p>Qualcheduni dei bassi officiali del signor principe Mauritio <lb/>
+sono arrivati, alcune bagaglie ancora della <lb/>
+compagnia della sua guardia gionsero hieri, onde <lb/>
+si fa giudicio, che si haverà presto all’Haya <lb/>
+l’Eccellenza sua; ma questo si dice per fermo, che farà <lb/>
+retirar il campo in guarnigione, li quartieri <lb/>
+però saranno vicini allo stato di Cleves per
+<pb n="320v" facs="09_320v" rend="0"/>
+non scostarsi da quella parte per ogni accidente, mentre <lb/>
+massime don Luigi di Valasco non si muove, et correndo <lb/>
+la stagione ancor bella, tanto più si crede; et tiene <lb/>
+per fermo, che non si piglierà così la fretta. </p>
+<p>Doverà il signor Principe trovarsi ad Arnhem alla convo-<lb/>
+catione dei quei stati, che non possono tardar ad <lb/>
+esser insieme. Di quello anderà succedendo non <lb/>
+mancarò di darne riverente conto alla Serenità vostra. </p>
+<p>Queste seguitano le lettere mie de’ 19 settembre, che <lb/>
+inviai prima dell’arrivo qui dell’eccellentissimo signor ambasciator Trivisano. Gratie etc. </p>
+<p>Dall’Haya li 3 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="321r" facs="09_321r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="321v" facs="09_321v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 245 sola </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="097">
+<!--
+<p n="321vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>[3]<ptr target="#tn10" n="10"/> novembre 1620 ricevuta 19 detto n° 245 </p>
+<p>Secretario Surian dall’Haya. Sola </p>
+<p>L. C. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "-ndo" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> There is a hole in the page.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "-ro" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "haver" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

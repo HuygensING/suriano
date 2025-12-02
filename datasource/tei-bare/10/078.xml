@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.078 date 1621-11-29</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">078</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 387r-389v, 392r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">387r-389v, 392r-v, 390r-391v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Lack of letters but matters in Palatinate are not good with the sacking and burning of towns by Mansfeld’s troops. James is summoning parliament after hearing Digby’s account, presumably to change course. Frederick and Elisabeth revive an old idea: James is to descend upon the coasts of Flanders with a considerable fleet, and so create a diversion. Spinola might recall troops from Palatinate, news of peace between Poland and Ottomans. Van Aersse has visited him to reiterate the need for Venice to comply to the treaty agreements. Spain has taken Chiavenna in Grisons. One document attached: a translation from a letter from Venice dated 24 October 1621</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-11-29">29 novembre 1621</date>
+            <num>125, 126</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="125">
+<div type="main" facs="main text of letter" n="125">
+<!--<p>29 novembre 1621, L’Aia (cc. 387r-389v, 392r-v)</p>-->
+<pb n="387r" facs="10_387r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 351 sola </p>
+<p>Serenissimo Principe </p>
+<p>non havendo la passata settimana dal messaggiero d’Anversa <lb/>
+havute le mie lettere ordinarie, pensai riceverle doppo l’ispedi-<lb/>
+tione con l’altro dispaccio; ma né quelle sono comparse, che <lb/>
+di Venetia<ptr target="#tn1" n="1"/> dovevano esser ispedite ai cinque; meno l’altre dei <lb/>
+dodici: et come reputo le prime perse, così dubito delle seconde; <lb/>
+che non vorrei per il publico rispetto. Tutto il male succede <lb/>
+nel Palatinato, o lì intorno. </p>
+<p>Per dove appunto è il passaggio dei postiglioni, che vengono di <lb/>
+Augusta, ch’è sul vescovato di Spira, là le genti del conte <lb/>
+di Mansfelt hanno fatto mille mali, havendo saccheggiato <lb/>
+a Reynhaussen, et Oberhaussen, presa la picciola terra <lb/>
+di Bruxel, et abbruggiati altri otto villaggi. Dicono <lb/>
+che ’l Vescovo sia passato in persona in Lorena per haver <lb/>
+assistenza, et che là era ordine di far qualche truppe. </p>
+<p>Del conte di Mansfelt, ov’egli sia al presente non si ha sicurezza; <lb/>
+ma questo solo s’intendeva, che fosse andato al soccorso <lb/>
+d’Heidelbergh, ch’è stato assediato dai Spagnuoli <lb/>
+da doi parti. </p>
+<p>Quest’ultimo avviso è venuto sicuro alla notitia di questi prin-<lb/>
+cipi, et temono assai della perdita di quella piazza; il che <lb/>
+riuscirebbe di altrettanto maggior dispiacere a sue Maestà <lb/>
+quanto vi va della riputatione, perdendo la città capi-<lb/>
+tale della loro residenza; et temendo, che questo possi le-<lb/>
+var totalmente il cuore agl’altri sudditi lì intorno con <lb/>
+pericolo di maggior perdita ancora. </p>
+<p>Questi avvisi non lasciano gustar affatto quelli, che mercordì <lb/>
+venero d’Inghilterra, che ’l Re intesa la relatione di Dighbi
+<pb n="387v" facs="10_387v" rend="0"/>
+habbi risoluto di riconvocar il Parlamento. Da tutte le parti <lb/>
+hanno havuto, che quella Maestà si mostri ardente in questo <lb/>
+affare, et esser risoluta di operare altrimenti di quello ha fatto <lb/>
+sin qui, et le Maestà loro si persuadono gl’effetti conformi. </p>
+<p>Elle vorrebbono, et li signori Stati ancora, che in questa congiuntura li <lb/>
+tre ambasciatori destinati per l’accommodamento del negotio dell’Indie <lb/>
+Orientali con la Natione inglese fossero di già a Londra per dar <lb/>
+calore a quella Maestà, et fomentar ogni più buona risolu-<lb/>
+tione del Parlamento. Sono ispediti totalmente. La nave pronta <lb/>
+con le loro bagaglie alla Brilla, né altro li manca, che ’l buon <lb/>
+vento. Hanno presa licenza dal signor ambasciator Carleton venerdì passato <lb/>
+et si compiacquero anco venir ad honorar questa casa della Serenità vostra <lb/>
+offerendosi d’incontrar a quella corte tutte le occasioni, che <lb/>
+potessero venire per servitio di vostra Serenità; et mi fecero instanza <lb/>
+di raccommandar all’eccellentissimo signor ambasciator Lando gl’interessi di queste <lb/>
+Provincie, et che cooperasse all’essito della buona volontà <lb/>
+dei signori Stati intorno il negotio per il quale essi erano destinati. <lb/>
+Sodisfeci al complimento con quei ringratiamenti che puoti più af-<lb/>
+fetuosi, et dissi, che ero sicuro, che nell’eccellentissimo signor ambasciator Lando <lb/>
+(alla prudenza del quale era molto ben nota l’intentione, et <lb/>
+buon volere della Serenità vostra verso<ptr target="#tn2" n="2"/> questi Stati) haverebbono <lb/>
+trovato tutto quello, che havessero desiderato. </p>
+<p>Quello, che da qualcheduni di questi signori in particolare si stima che <lb/>
+potesse <hi rend="decoded">far</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">il re della Gran Bertagna più prontamente et espeditamente per servitio <lb/>
+di questi principi, è che con una buona armata di vasselli, et buon numero de <lb/>
+gente si gettasse alle rive della Fiandra, et così facesse diversione. <lb/>
+</hi></p>
+<pb n="388r" facs="10_388r" rend="0"/>
+<p><hi rend="decoded">Questo</hi><ptr target="#tn4" n="4"/> <hi rend="decoded">è concetto vecchio, altre volte procurato di persuadersi da questa parte <lb/>
+a quella Maestà, et parmi nel discorso haver tanto cavato, che questi ambasciatori <lb/>
+trovando buona congiontura, lo spargeranno, et tenteranno di impri-<lb/>
+merlo nell’animo del Re. <lb/>
+</hi></p>
+<p>Corse voce fin della passata settimana che lo Spinola se non ha <lb/>
+richiamato sia per richiamar li Spagnuoli, che sono in <lb/>
+Palatinato. Volendo li medesimi Spagnuoli dar ad intender <lb/>
+al re della Gran Bertagna hora, che hanno preso quasi tutto <lb/>
+il Palatinato ponendolo in mano di Cesare a nome del <lb/>
+quale pretendono haver guerreggiato, che essi non se ne <lb/>
+vogliono più ingerire. Tuttavia ancor non si sa più se non <lb/>
+ch’essi Spagnuoli siano all’assedio d’Heidelbergh. <lb/>
+Et questi principi vivono con ansia non havendo alcune <lb/>
+nuove fresche. </p>
+<p>Non ho dubio, che s’è vero che sia seguita la pace, come <lb/>
+viene scritto tra il re di Polonia, et il gran signore vostra Serenità <lb/>
+ne sarà stata avvertita: tuttavia havendo veduto lettere <lb/>
+di Varsovia, et di Dancica, n’ho fatto l’aggiunto estratto <lb/>
+in che si comprende il modo, et le conditioni colle quali <lb/>
+essa pace è stata fatta; potrà servir forse di rincontro. </p>
+<p>Si gode qui di questa nuova per il beneficio dell’estrat-<lb/>
+tione de’ formenti, et altre biade, che in gran quantità <lb/>
+vengono da quel Regno, et se fosse durata la guerra
+<pb n="388v" facs="10_388v" rend="0"/>
+questo Paese haverebbe patito grandemente. </p>
+<p>Li corsari hanno ultimamente attaccata una caraca spagnuola, <lb/>
+che con il valsente di sei milliona di fiorini veniva dall’<lb/>
+Indie Orientali. Vi era quantità di diamanti, drappi di seta <lb/>
+et altre ricche merci. Li marinari si sono difesi bravamente per <lb/>
+tre giorni; in fine acceso il fuoco nella nave arsero le <lb/>
+mercantie, et ridotto il vassello al solo fusto con l’arti-<lb/>
+glieria si abbissò, sendosi resi alla discrettione dei pirati <lb/>
+alquanti dei marinari. Molti mercanti portughesi in <lb/>
+Amsterdam risentono della perdita. </p>
+<p>Il principe Mauritio sta tuttavia fuori né par che ardisca <lb/>
+partir di dove si trova mentre lo Spinola alla voce, che <lb/>
+diede sua Eccellenza di ritirar le sue genti haveva altrimenti fatto <lb/>
+avanzando qualcheduni dei suoi. Et teme l’Eccellenza sua ch’esso Mar-<lb/>
+chese non desideri cosa più che che* ella parti per farsi pa-<lb/>
+trone di tutte quelle picciole terre, et villaggi nel paese di <lb/>
+Cleves, et Giuliers per mettervi poi tutte le sue genti dentro, <lb/>
+esser pronto a primo tempo, et in campagna innanti <lb/>
+che li signori Stati habbino pensato si può dir ad uscire. </p>
+<p>Il baron di Kessel general dell’artiglieria di questi signori è <lb/>
+partito dal campo amalato; così ha fatto il luogotenente della <lb/>
+compagnia di sua Eccellenza, et molti altri ufficiali. </p>
+<p>Si sono fatte distribuir tutte le munitioni, che erano ammassate <lb/>
+nel campo nelle doi piazze di Emerich, et Rees, et in <lb/>
+forte di Schinch. </p>
+<p>Dell’assedio di Giuliers non si sente se non che continui senza <lb/>
+esser stretto di vantaggio, né che si avanzino più le
+<pb n="389r" facs="10_389r" rend="0"/>
+trincere; ma ben<ptr target="#tn5" n="5"/> che si faccino qualche sortite, et scaramuccie. </p>
+<p>Doppo l’ispeditione delle mie doi lettere de’ 22 del presente, <lb/>
+che mando qui aggiunte in copia più di uno di questi <lb/>
+signori m’ha tocco sopra l’assistenza aspettata da vostra Serenità, <lb/>
+dicendomi delle medesime cose, che scrissi nelle prime. Et prin-<lb/>
+cipalmente il signor Arsen ha passato meco ufficio molto pieno <lb/>
+dicendomi in particolare, che in quell’eccellentissimo Collegio coll’<lb/>
+essergli stata data la mano dal serenissimo Principe gli era <lb/>
+stata affermata la parola di assister a questi Stati <lb/>
+nel caso della guerra, et delle hostilità<ptr target="#tn6" n="6"/>; che quella era, <lb/>
+et queste si erano vedute, et si vedevano continuate, <lb/>
+et che la capitulatione parlava chiaro; aggiungendo <lb/>
+che a lui si rimproverava, et simil altre cose, che stimo <lb/>
+superfluo il repetirle, havendo anco la passata settimana <lb/>
+detto tanto che basta alla prudenza della Serenità vostra per far <lb/>
+risolutione propria al suo servitio con servitio anco <lb/>
+di queste Provincie. Io con detto signor Arsen, et con <lb/>
+altri ho sostenuto il buon senso di vostra Serenità con quelle <lb/>
+ragioni, che mi è stato commandato di valermi; pro-<lb/>
+curando di adolcir l’amaro, che m’accorgo tuttavia <lb/>
+risentirsi. Alcuni mostrano sperare che<ptr target="#tn7" n="7"/> colla nova, <lb/>
+che aspettano dell’elettione, che haverà fatta vostra Serenità <lb/>
+di suo ambasciatore per qua, manderà anco ordine di esborso <lb/>
+di denari. </p>
+<p>Quel Grisone che si trattiene qui solicitando dichiaratione <lb/>
+di aiuti mi è venuto ultimamente a communicar la <lb/>
+mala nuova della presa fatta da’ Spagnuoli di Chiavana
+<pb n="389v" facs="10_389v" rend="0"/>
+et di quella dell’Engadina bassa dall’arciduca Leopoldo. <lb/>
+L’avviso è da questi signori risentito nell’animo; ma non si <lb/>
+muoveranno a dar aiuti così facilmente havendo bisogno <lb/>
+per sé stessi. Ha qualche speranza colla<ptr target="#tn8" n="8"/> nuova riductione <lb/>
+delli deputati di Holanda, che ha cominciato hoggi; ma <lb/>
+non credo, che haverà congiontura propria al suo interesse. <lb/>
+Mi ha pregato di raccommandar alla Serenità vostra la sua Patria <lb/>
+et che lo assisti qui appresso questi signori. Per il primo per <lb/>
+consolarlo gli ho promesso di farlo; et quanto all’<lb/>
+altro gl’ho data intentione di ottima volontà, et che <lb/>
+mi sarei mosso secondo, c’havessi veduta la materia <lb/>
+disposta. Gratie etc. </p>
+<p>Dall’Haya li 29 novembre 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="392r" facs="10_392r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="392v" facs="10_392v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>n° 351 sola </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="125">
+<!--
+<p n="392vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>29 novembre 1621 ricevute a’ 30 decembre </p>
+<p>Del segretario Suriano. n° 351<ptr target="#tn9" n="9"/> </p>
+<p>Non<ptr target="#tn10" n="10"/> han ricevuto lettere da Venetia nel <lb/>
+Palatinato: pensa si tratenghino dalle <lb/>
+genti di Mansfelt quali nel vescovato <lb/>
+di Spira fan molti mali. </p>
+<p>Dubita il Palatinato la perdita d’Heidelbergh <lb/>
+ciò compensa il gusto<ptr target="#tn11" n="11"/> della risolutione <lb/>
+itesa<ptr target="#tn12" n="12"/> d’Inghilterra di riconvocar il Parlamento <lb/>
+doppo le relationi di Digbi, et d’operar <lb/>
+diversamente dal passato. </p>
+<p>Sollecitano li Stati la andata dell’ambasciatori a <lb/>
+Londra perché oltre il lor negotio infiamino <lb/>
+questi buoni concetti; hano pregato essi ambasciatori<ptr target="#tn13" n="13"/> il secretario <lb/>
+di raccomandarli al signor ambasciator Lando </p>
+<p>Si stima potesse Inghilterra gettarsi con armata <lb/>
+alle rive d’Inghilterra et così con la diversione <lb/>
+agiutar prontamente il genero, et ciò li <lb/>
+ambasciatori procureran d’imprimere. </p>
+<p>È corsa voce habbi richiamato lo Spinola <lb/>
+li Spagnoli dal Palatinato, hora che quelle facende <lb/>
+van non bene per loro, et lasciarne il pensiero <lb/>
+a Cesare. </p>
+<p>Manda li capitoli della pace del Turco con <lb/>
+Polachi, prestata dai Stati per il commando de’ forti. </p>
+<p>L. SS. R. </p>
+<p n="392vD">———</p>
+<p>Atacamento de’ corsari e poi incendio <lb/>
+d’una calaca spagnoola de <lb/>
+6 milioni de fiorini. </p>
+<p>Mauritio non si parte per dubio che <lb/>
+sopra tutte le terre di Cleves, e Giuliers <lb/>
+non si avanza lo Spinola. </p>
+<p>Tutte le munitioni che eran in campo <lb/>
+si son fatte ridursi in piazze. </p>
+<p>L’assedio di Giulier<ptr target="#tn14" n="14"/> non si stringe <lb/>
+né s’alarga maggiormente. </p>
+<p>Al secretario vengono replicate <lb/>
+le istanze della contributione vivamente. </p>
+<p>L’Arcen dice che il Dose gli die-<lb/>
+de nell’eccellentissimo Collegio la mano <lb/>
+per magior pegno della parola <lb/>
+et che tutti il rimproverano <lb/>
+lui, et che le capitulationi <lb/>
+parlan chiaro, et <lb/>
+la guerra, et le hosti-<lb/>
+lità vi sono già molte <lb/>
+e sì continuate. </p>
+<p>Il secretario risponde con le <lb/>
+ragione comessoli <lb/>
+pensa di adolcir <lb/>
+ma s’accorge non <lb/>
+far effetto. </p>
+<p>Sperano che con l’<lb/>
+occasione di dar <lb/>
+parte dell’elettione <lb/>
+delli ambasciatori in <lb/>
+risposta dell’<lb/>
+Arcen <lb/>
+venirà <lb/>
+il ricapo<ptr target="#tn15" n="15"/> <lb/>
+dell’esborso. </p>
+<p n="392vA">———</p>
+<p>S’è inteso malamente l’aviso della <lb/>
+perdita di Chiavana il Grison <lb/>
+sollecita aiuti con l’oportunità della <lb/>
+nova assemblea; si raccomanda <lb/>
+al secretario, il<ptr target="#tn16" n="16"/> qual non crede haverà <lb/>
+il suo intento. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="126" corresp="125" source="390r-391v" >
+<div type="main" facs="main text of attachment I" n="126" corresp="125" >
+<!--<p>Allegato I al n. 125 (cc. 390r-391v)</p>-->
+<pb n="390r" facs="10_390r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Traslato di una lettera di Varsovia de’ 24 ottobre 1621 </p>
+<p>Hora do nova a vostra Signoria come li nostri doppo la morte del signor General <lb/>
+hanno fatta la pace col Turco. Le conditioni sono che Chochino <lb/>
+resta alli Polacchi. Li Tartari non hanno a venir in Polonia. <lb/>
+Il principe di Moldavia si ha da elegger dal Turco; ma persona <lb/>
+di gusto dei Polacchi. All’incontro li Cosacchi non hanno da <lb/>
+passar su quel del Turco. Si ha da pagar alli Tartari il <lb/>
+solito contributo, et al gran Turco alcuni mazzi di zebellini <lb/>
+all’anno; et il gran signore a sua Maestà alcune pezze di broccato <lb/>
+d’oro per contracambio, et per segno di salda amicitia. Questo <lb/>
+è quanto si ha sin hora potuto sapere. Riga è persa, et <lb/>
+Dio sa quando la ricupereranno. Sua Maestà si aspetta per <lb/>
+San Martino, et già la nobiltà ritorna a casa. </p>
+<p>Estratto di altra lettera di Dancica de’ primo novembre 1621 </p>
+<p>Nell’istesso punto ho ricevuto un corriero del signor Duca dal campo <lb/>
+che scrive, che per gratia di Dio la pace era conclusa col <lb/>
+Turco, la quale si deve di tanto più preggiare quanto è <lb/>
+accaduta nell’estrema necessità insperatamente del che ho <lb/>
+voluto dar avviso a vostra Signoria come a mio caro amico. </p>
+<p>Estratto di altra lettera pur di Dancica de’ 6 novembre 1621 </p>
+<p>Ho scritto cinque giorni fa una polizza a vostra Signoria facendole saper la <lb/>
+nuova<ptr target="#tn17" n="17"/> della pace col Turco; adesso vengo a confermarle <lb/>
+l’istesso, et fu la conclusione fatta a’ 8 ottobre et il trattato <lb/>
+cominciò a’ 2 ottobre ricercato dal gran signore. Dalli 2 fino <lb/>
+alli 7 si trattò senza frutto, sì che doi signori, che furono <lb/>
+mandati dalla banda nostra se ne ritornorono senza
+<pb n="390v" facs="10_390v" rend="0"/>
+far frutto. Alli 8 il Turco mandò a dire, che li deputati <lb/>
+tornassero, il che fatto il gran signore li fece venir in sua presenza <lb/>
+et li raccolse honoratamente, et disse, che non voleva rompersi la testa <lb/>
+in far tanti articoli; ma che voleva, che la pace restasse <lb/>
+colli medesimi patti, et conditioni, ch’era stata colli suoi prede-<lb/>
+cessori; et così fu conclusa. Il gran signore mandò present[e]<ptr target="#tn18" n="18"/> <lb/>
+honoratissimo al serenissimo nostro Principe (fatto generale in luoco <lb/>
+di Rotkeniz morto pochi giorni innanti di mal caduco) fra <lb/>
+altro un elefante vivo; il Principe li mandò un cane <lb/>
+in tutta bellezza, et alquante pistolle bellissime, il che fu <lb/>
+accettato amorevolmente. Il gran signore doppo haver <lb/>
+commandato alli Tartari di andarsene a casa, et non più <lb/>
+molestar la Polonia, et doppo haver ordinati li suoi <lb/>
+deputati per andar col serenissimo Principe a Leopoli trovar <lb/>
+sua Maestà per la confirmatione della pace se n’andò via <lb/>
+con tutto il suo essercito. Il che ho voluto far saper a vostra Serenità <lb/>
+come cosa certissima. Sua Maestà subito l’incontrò con <lb/>
+tutta la nobiltà. Et commandò, che la soldatesca sti-<lb/>
+pendiata se n’andasse la stradda di Lituania dritto in <lb/>
+Livonia contra il Svecese. Che scorre tutta la Livonia, <lb/>
+et Corlandia. Con che etc. </p>
+<pb n="391r" facs="10_391r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="391v" facs="10_391v" rend="270"/>
+<p>Avviso della pace tra ’l Turco <lb/>
+et Polonia </p>
+<p>nel n° 351 sola </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "li" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "far … diversione" decoding of the encrypted text in the internal margin below the underlined encrypted text.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "Questo … del Re" decoding of the encrypted text present in the upper margin near the underlined encrypted text.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Corrected above "che"; followed by "si" crossed out.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-à" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "3-" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Precedes "Capitato il dispaccio di 12 ottobre. | Gli ambasciatori delle | Provincie partirono per Inghilterra | insieme con li deputati della Compagnia delle | Indie Orientali. | Comm(end)e alli detti ambasciatori. |" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "essi ambasciatori" added above the line with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "i-" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Precedes "pace" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> There is a hole in the page.</p></note>
+</div>
+</body>
+</text>
+</TEI>

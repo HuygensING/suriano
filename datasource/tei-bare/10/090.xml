@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.090 date 1622-01-31</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">090</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 464, 467r-468v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">464r-v, 467r-468v, 465r-466v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Reports he has acted, as instructed, on behalf of merchants Francisco and Andrea Rodriges d’Andrade, whose goods have been taken. Read the letter (dated 7 January) during an assembly of the States General to inform them that Morosini, currently the Venetian ambassador in Savoy, will be travelling to Dutch Republic as soon as possible to take up position as the first Venetian resident ambassador. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-01-31">31 gennaio 1622</date>
+            <num>148, 149</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="148">
+<div type="main" facs="main text of letter" n="148">
+<!--<p>31 gennaio 1622, L’Aia (cc. 464r-v, 467r-468v)</p>-->
+<pb n="464r" facs="10_464r" rend="0"/>
+<head>main text of letter</head>
+<p>n° 363 </p>
+<p>Serenissimo Principe </p>
+<p>fu data da me la passata settimana essecutione alli commandamenti <lb/>
+di vostra Serenità venutimi nelle lettere sue de’ 31 decembre, come riverentemente <lb/>
+le significai, et haverà nella prima delle doi lettere scritte a’ <lb/>
+24 n° 361 e 362 che aggiungo a queste in replica; et <lb/>
+havendo anco raccommandato gl’interessi delli mercanti Ro-<lb/>
+drighes d’Andrada doi deputati delli signori Stati venero a <lb/>
+trovarmi per haver in scritto quanto havevo esposto <hi rend="decoded">toccante</hi><ptr target="#tn1" n="1"/> <hi rend="decoded"><lb/>
+li aiuti</hi> et il memoriale per li medesimi mercanti. </p>
+<p>Al primo dissi, che credevo di esser stato ben inteso. È vero <lb/>
+dissero, tuttavia li signori Stati haverebbono questo gusto. Io soggiunsi <lb/>
+che credevo che quello bastesse, et che ben le haverei re-<lb/>
+plicato (come feci) lo stesso in sostanza, che havevo <lb/>
+esposto della mente di vostra Serenità; et quanto al memoriale <lb/>
+come di cosa particolare dissi, che a nome delli agenti lo <lb/>
+haverei fatto dare<ptr target="#tn2" n="2"/>. Si contentorono, partendo sodisfatti <lb/>
+della risposta dicendo che tanto sarebbe bastato alli signori <lb/>
+Stati, et havendo anco con tal occasione procurato, che <lb/>
+fosse replicato in Zelanda<ptr target="#tn3" n="3"/> per le doicento pelli di ragione del signor <lb/>
+Marco Moins et per li uni et per l’altro sono già <lb/>
+state scritte, et ispedite lettere affettuose. </p>
+<p>Coll’ordinario venuto d’Anversa sabbato ho ricevuto il dispaccio<ptr target="#tn4" n="4"/> <lb/>
+di vostra Serenità dei 7 di questo mese colle lettere replicate de’ <lb/>
+31 decembre, et con quelle per li signori Stati, che questa mattina <lb/>
+ho presentato all’Eccellenze loro accampagnandole con <lb/>
+ufficio conforme, et tanto affettuoso quanto ha potuto <lb/>
+portar la mia debolezza procurando di aggradir
+<pb n="464v" facs="10_464v" rend="0"/>
+in ogni più viva maniera la risolutione di vostra Serenità come <lb/>
+anco ho fatto nel communicar l’operato da lei nel fatto <lb/>
+de’ Grisoni, et nel rappresentar con parole degne et con <lb/>
+concetti proprii la elettione fatta dall’Eccellenze vostre della <lb/>
+persona dell’eccellentissimo Morosini per ambasciatore a questi signori <lb/>
+aggiungendo tutto quello di più, che dalla Serenità vostra mi <lb/>
+viene commesso. </p>
+<p>Lessero publicamente le lettere, et doppo il Presidente a nome <lb/>
+dell’assemblea con parole piene, et dimostratione <lb/>
+di particolar contento ringratiò la Serenità vostra che si fosse <lb/>
+compiacciuta non solo colla viva<ptr target="#tn5" n="5"/> voce mia, ma colle <lb/>
+sue stesse lettere replicar l’ottima volontà di lei, et di <lb/>
+tutta quella serenissima Republica verso queste Provincie, et <lb/>
+che come sempre erano stati sicuri della sincerità <lb/>
+cordiale di lei; così<ptr target="#tn6" n="6"/> godevano di poter hora esser <lb/>
+in stato di goderne gl’effetti <hi rend="decoded">et</hi><ptr target="#tn7" n="7"/> <hi rend="decoded">pertanto haverebbono posto ordine per haver <lb/>
+l’esborso del denaro, et data insieme la debita <lb/>
+risposta a vostra Serenità</hi> disse<ptr target="#tn8" n="8"/> che li <lb/>
+signori Stati laudavano quanto haveva la Serenità vostra fatto <lb/>
+per servitio de’ Grisoni, et del pensiero che metteva <lb/>
+a quella parte ancorché desolata, et soggetata, et che <lb/>
+quanto a questa Republica ella vorrebbe ben poter far <lb/>
+qualche cosa; ma che doveva esser iscusata appresso <lb/>
+ognuno mentre si vedeva esser attorniata da’ Spagnoli <lb/>
+in modo, che gran fatica haveva da difender sé stessa
+<pb n="467r" facs="10_467r" rend="0"/>
+ma che con tutto ciò quando havesse veduto qualche spi-<lb/>
+racolo, et che li affari di sé stessa l’havesse potuto com-<lb/>
+portare haverebbe impartito quello le fosse stato <lb/>
+possibile. Intorno all’elettione dell’eccellentissimo Morosini <lb/>
+per ambasciator a questi Stati disse, che aggradivano non solo <lb/>
+la parte datagliene da vostra Serenità, ma il soggetto medesimo <lb/>
+che anco d’altrove era stato riferto<ptr target="#tn9" n="9"/> esser di <lb/>
+degne, et virtuose qualità, et ringratiavano li signori <lb/>
+Stati vostra Serenità della confidenza, et buona corrispondenza <lb/>
+che voleva continuar a passar con loro col mezo del <lb/>
+detto signore; come anco delle commissioni date all’eccellentissimo Lando in Inghilterra per coadiuvar gl’interessi di queste <lb/>
+Provincie di che, et delle offerte fatte alli loro ambasciatori <lb/>
+in Londra dal medesimo eccellentissimo Lando già ne havevano havuta <lb/>
+notitia, et finì con complimento in tutte le parti affettuoso, <lb/>
+et che rimostrava il particolar contento, et sodisfattione <lb/>
+che havuta in queste doi audienze ricevuta l’assemblea. <lb/>
+Et io corrisposi anco replicando qualche altro concetto <lb/>
+di dimostratione di stima, che faceva quella<ptr target="#tn10" n="10"/> serenissima Republica <lb/>
+di queste nobilissime Provincie. </p>
+<p>Partito, che fui dalli signori Stati poco doppo fu nell’assemblea <lb/>
+il signor principe Mauritio con quelli del Consiglio di Stato <lb/>
+et all’Eccellenza sua lessero le lettere di vostra Serenità; et essendo io <lb/>
+stato doppo il desinare a vederla mi confirmò il <lb/>
+gusto delli signori Stati, et la contentezza che havevano <lb/>
+ricevuta <hi rend="decoded">et</hi><ptr target="#tn11" n="11"/> <hi rend="decoded">disse, credetemi, che questa</hi>
+<pb n="467v" facs="10_467v" rend="0"/>
+<hi rend="decoded">assistenza <lb/>
+della serenissima Republica ci viene giusto in tempo, <lb/>
+onde tanto più riesce cara</hi>. Poi entrò in <lb/>
+altri discorsi, come la Serenità vostra intenderà dalle <lb/>
+sussequenti. Gratie etc. </p>
+<p>Dall’Haya li 31 genaro 1622 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="468r" facs="10_468r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="468v" facs="10_468v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima </p>
+<p>n° 363 fin 364</p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="148">
+<!--
+<p n="468vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>31 gennaro 1621<ptr target="#tn12" n="12"/> ricevute a’ 17 febraro </p>
+<p>Haia. n° 363 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="149" corresp="148" source="465r-466v" >
+<div type="main" facs="main text of attachment I" n="149" corresp="148" >
+<!--<p>Allegato I al n. 148 (cc. 465r-466v; decodifica di cc. 464v, 467r-v)</p>-->
+<pb n="465r" facs="10_465r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="465v" facs="10_465v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="466r" facs="10_466r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="466v" facs="10_466v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<p></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "toccante li aiuti" added above the underlined encrypted text.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-e" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "in Zelanda" added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-cc-" corrected above "-tt-."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-iva" corrected above "-oce."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Precedes "verso" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "et … a vostra Serenità" decoding of the encrypted text can be found on c. 465r; with cross-reference sign.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "qu-" corrected above "da", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "et … più riesce cara" decoding of the encrypted text can be found on c. 465r; with cross-reference sign.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

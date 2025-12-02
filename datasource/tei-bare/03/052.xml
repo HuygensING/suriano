@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 03.052 date 1617-02-18</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">03</idno>
+                <idno type="letterno">052</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 3, fol 311r-312v, 319r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">311r-312v, 319r-v, 313r-318v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Attached to the letter is a copy of speech given by the French ambassador, Suriano reports having had trouble obtaining the speech as Du Maurier had been reluctant to put it on paper. He higlights the passage most relevant to Venice in the speech which allows the Venetians free access to the Grison. States General have written to Philip III and archdukes about the confiscated ships. Levies of troops by Belgioioso on behalf of France have been confirmed. Waiting for Savoy ambassador for updates on progress made in the German lands. One document attached: Speech of French ambassador in the assemby of States General</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-02-18">18 febbraio 1617</date>
+            <num>105, 106</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="105">
+<div type="main" facs="main text of letter" n="105">
+<!--<p>18 febbraio 1617, L’Aia (cc. 311r-312v, 319r-v)</p>-->
+<pb n="311r" facs="03_311r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>Serenissimo Principe </p>
+<p>scrissi la passata settimana alla Serenità vostra quanto in sostanza <lb/>
+puoti cavare haver esposto l’ambasciator estraordinario di Francia <lb/>
+a questi signori. Hora le invio qui aggiunta la copia dell’espositione. Si mostrò renitente a darla in scritto pur essendogliene stata fatta replicata instanza in fine <lb/>
+la diede con conditione però, che non ne fosse data copia fuori. </p>
+<p>Per questo ho sin qui durata fatica nell’haverla. Ha <lb/>
+in sé il raccolto di tutto quello, ch’è successo sin qui <lb/>
+doppo la morte del re Henrico quarto. Sono sparse <lb/>
+diverse iscuse, che mirano al rappresentar la necessità <lb/>
+di ciò ch’è stato operato. Si fa il conto distinto <lb/>
+della distributione del denaro, che si è trovato doppo <lb/>
+la morte del Re, et in che è stato speso, et che li principi mal contenti ne hanno havuta la mag-<lb/>
+gior parte. Viene rappresentata<ptr target="#tn1" n="1"/> non<ptr target="#tn2" n="2"/> esser tanto gran <lb/>
+cosa, che si facci favore ad un straniero, et si conclude <lb/>
+con l’iscusa della dilatione al pagamento di queste <lb/>
+militie francesi con promessa della più celere sodisfattione. </p>
+<p>Quanto a quello, che tocca alla Serenità vostra restringer, et dice <lb/>
+altrimenti in scritto di ciò, che ha pronontiato in <lb/>
+voce, dicendo solo, che sua Maestà ha permesso<ptr target="#tn3" n="3"/> a’ Vene-<lb/>
+tiani il passo de’ Grisoni; parole che feriscono <lb/>
+la libertà della Retia, et contrarie alla verità <lb/>
+del fatto. </p>
+<p>Anco al signor ambasciator d’Inghilterra pare esser tocco il Re suo signore, <lb/>
+in quelle parole, che la maestà della Gran Bertagna
+<pb n="311v" facs="03_311v" rend="0"/>
+ricerca al presente con gran passione un maritaggio simile. </p>
+<p>Esso ambasciator della Nua, et l’ordinario monsignor di Murier furono <lb/>
+uno di questi giorni nell’assemblea de’ Stati, et mi viene <lb/>
+detto, che hanno fatto instanza di aver 4 mila fanti della <lb/>
+sua Natione, o d’altra, come più stimeranno questi <lb/>
+signori proprio, et di servitio al Re christianissimo, et aspettano la risposta. </p>
+<p>Li signori Stati Generali hanno scritto in Spagna al Catholico <lb/>
+et più sensatamente alli serenissimi arciduchi perché siano <lb/>
+licentiati li vasselli arrestati di questa Natione, <lb/>
+rivedendo l’arresto di gravissimo danno a mercanti et essendo ciò contra gl’ordini della tregua, la quale, <lb/>
+continuandosi così, restarebbe contaminata, et alterata<ptr target="#tn4" n="4"/>, <lb/>
+pregando sue Altezze, come quelle, che per nome di <lb/>
+sua Maestà catholica l’havevano trattata, procurar, che ispedi-<lb/>
+tamente quel Re fosse avvertito, et si rilasciasse a <lb/>
+mercanti li vasselli, et le robbe già con loro gran <lb/>
+disavantaggio scaricate. In questa sostanza sono <lb/>
+state scritte le lettere alli arciduchi, et mentre attendono <lb/>
+la risposta stano in dubio de’ pensieri del Catholico, <lb/>
+et ove habbino a parar li suo disegni, mentre <lb/>
+corrono pur li avvisi, che si faccia in Brabante la <lb/>
+levata<ptr target="#tn5" n="5"/>, che riverentemente le scrissi a’ 15 intorno <lb/>
+la quale mi disse sua Eccellenza che alcuni credevano che <lb/>
+havesse a servire contra li paesi di Cleves, et Giuliers <lb/>
+et havend’io inteso, che ’l principe di Brandemburgh
+<pb n="312r" facs="03_312r" rend="0"/>
+se non ha licentiato stava per licentiar alcune compagnie, <lb/>
+le disse, che stando questo sospetto la ragione non voleva, <lb/>
+che si disarmasse. Mi rispose sorridendo il Principe <lb/>
+è povero, non ci sono denari da intartener le genti, et <lb/>
+bisogna, che mangi egli la paga in vece di darla ai soldati; <lb/>
+soggiongendo ha tanta gente che basta per difendersi, <lb/>
+né li mancarà, occorrendo, assistenza. </p>
+<p>Ha riferto uno venuto dalla parte di Fiandra, che Spagnoli <lb/>
+sotto colore di assister alla Francia contra li principi <lb/>
+mal contenti hanno la mira a Marseglia, et che l’armata, <lb/>
+che si prepara di quaranta, et più vasselli senza le <lb/>
+galere sia per calar a quella parte, et ispediti tirar <lb/>
+alla volta di Cleves. Questi sono discorsi, et molti <lb/>
+altri se ne fano; ma tutti nel dubio essendo retti <lb/>
+alcuni dalla passione, altri dall’affetto, et altri per <lb/>
+quanto comporta la capacità de’ sensi. </p>
+<p>Mi fu hieri dal signor principe Mauritio confermata la levata <lb/>
+del signor conte Gio. Giacomo Belgioioso, et ch’era stato <lb/>
+trattato seco alle strette, et data fuori la voce, et la <lb/>
+commissione in un istesso tempo; ma aggiunse, mala-<lb/>
+mente potrà servir colla persona per le sue indispositioni <lb/>
+disse, che teneva avviso, che sarebbe stata di 4 mila <lb/>
+fanti, et 600 cavalli, et che ’l baron di Rechmer <lb/>
+ne faceva anc’egli tre milla tutti in quello di <lb/>
+Lieges per passar in Francia all’assistenza del Re
+<pb n="312v" facs="03_312v" rend="0"/>
+contra li principi mal contenti; che s’intendeva, che le cose, <lb/>
+se Dio non vi metteva le mani, sarebbono andate molto <lb/>
+torbide, et che l’aministratione del Governo era malamente <lb/>
+guidata. </p>
+<p>Si aspetta con desiderio di saper il negotiato dell’ambasciator di Savoia <lb/>
+appresso li signori principi di Alemagna quello che haverà <lb/>
+cavato da essi in servitio del suo Principe, et se si sarà <lb/>
+aggiunto a quell’Unione, essendo ciò desiderato soprat[tutto] <lb/>
+da alcuni principali del Governo. Gratie etc. </p>
+<p>Dall’Haya a’ 18 febraro 1617 </p>
+<p>di vostra Serenità </p>
+<p>devotissimo et humilissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="319r" facs="03_319r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="319v" facs="03_319v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="105">
+<!--
+<p n="319vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>18 febraro 1617 ricevute 8 marzo </p>
+<p>Secretario Surian dall’Haia 2<hi rend="superscript">a</hi> </p>
+<p>Manda la espositione fatta dall’ambasciator di <lb/>
+Franza, che contiene tutto il seguito <lb/>
+dopo la morte di Henrico 4<hi rend="superscript">to</hi>. </p>
+<p>In quello che appartiene alla Republica dice, che <lb/>
+il Re ha permesso a’ Venetiani il passo de’ <lb/>
+Grisoni. </p>
+<p>Che l’ambasciator d’Inghilterra non resta sodisfatto per quello <lb/>
+che tocca al suo Re. </p>
+<p>Che detto ambasciator ha fatto instanza di 4 mila fanti. </p>
+<p>Che li Stati hanno scritto in Spagna, et alli Arci-<lb/>
+duchi perché siano licentiati li vasselli arestati. </p>
+<p>Che stanno in dubbio del Catholico, et ove habbino <lb/>
+a parare li suoi dissegni mentre si fa in <lb/>
+Brabante la levata scritta. </p>
+<p>Che è stato detto, che Spagnoli sotto pretesto <lb/>
+di assister alla Francia contra li principi <lb/>
+habbiano la mira a Marseglia, et che l’ar-<lb/>
+mata, che si prepara sia per quella parte. </p>
+<p>Che il principe Mauritio le haveva confir-<lb/>
+mata la levata del conte Gio. Giacomo Belgio-<lb/>
+gioso, et disse sarebbe di 4 mila fanti, et 600, <lb/>
+cavalli per passar in Francia al servitio <lb/>
+del Re. </p>
+<p>Che si aspetta il negotiato dell’ambasciator di Sa-<lb/>
+voia appresso li principi d’Alemagna. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="106" corresp="105" source="313r-318v" >
+<div type="main" facs="main text of attachment I" n="106" corresp="105" >
+<!--<p>Allegato I al n. 105 (cc. 313r-318v)</p>-->
+<pb n="313r" facs="03_313r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Signori </p>
+<p>io sono mandato qui a vostre Signorie dal Re, il quale havendo scorsa per la <lb/>
+gratia di Dio una gran borasca da qualche tempo in qua, la quale <lb/>
+minacciava alla persona di lui, et del suo Stato, et trovandosi <lb/>
+nella speranza di un più fermo, et sicuro riposo non ha voluto <lb/>
+differir d’avantaggio l’inviar a visitarvi estraordinariamente <lb/>
+a fine di darvi nuova sicurtà del suo affetto, et dirvi, che <lb/>
+quanto più va crescendo nell’età, et nella intelligenza <lb/>
+de’ suoi affari; cresce anco in volontà di testificarvi, che <lb/>
+egli non sarà già mai ingrato de’ buoni ufficii prestati da voi <lb/>
+al Re suo padre nelle sue necessità, né di quelli che, continuamente <lb/>
+mostrate di volergli render in tutte le occasioni. </p>
+<p>Se la Maestà sua, che quelli, li quali anco nell’hora presente in <lb/>
+sprezzo della sua auttorità vogliono far confusioni nel suo Regno, <lb/>
+sentendosi poco forti per far effetti di momento, hanno ricorso <lb/>
+alla calumnia, et a biasmar da per tutto, et le sue attioni, et <lb/>
+il governo dello Stato; questo li dà causa grande di far constare <lb/>
+là quelli, che l’amano, che se vi è qualche male, tali genti ne <lb/>
+sono la causa, et che questo non è tale, che possi apportar <lb/>
+la ruina, ch’essi pretendono, il che sufficientemente potrà giusti-<lb/>
+ficarsi, remettendosi solamente a memoria le cose principali successe <lb/>
+doppo la sua venuta alla Corona. </p>
+<p>Dopoi dunque, che piacque a Dio di affligerci così gravemente <lb/>
+con levarsi il re Henrico il Grande di felicissima memoria <lb/>
+essendo stata dichiarita la Regina regente dal Re suo figliolo <lb/>
+et riconosciuta per tale tanto dalli Principi, che dalle corti <lb/>
+sovrane non hebbe cosa alcuna più a cuore, che di mantener la <lb/>
+pace dentro il Regno, et far tutte le cose, che servono a <lb/>
+conservar la dignità, per questo effetto fece ella rinovar l’<lb/>
+editto di Nantes, volendo secondo l’intentione del fu<ptr target="#tn6" n="6"/> Re con-<lb/>
+servarli in riposo, et in tutti li privilegii, che loro haveva
+<pb n="313v" facs="03_313v" rend="0"/>
+accordato, richiamato il signor Principe, che si era gettato <lb/>
+nelle brazze del re di Spagna, stimando<ptr target="#tn7" n="7"/> utile per agiutarlo <lb/>
+nel maneggio delli affari; li furono date gran pensioni; li <lb/>
+sono state usate moltissime liberalità, come a molti altri <lb/>
+ch’ella credeva con questo mezo obligar più strettamente al <lb/>
+servitio di sua Maestà. Ella oltre di questo fu piena di <lb/>
+pensiero nell’essequir le resolution, che il fu Re haveva <lb/>
+preso, inviando a Giuliers un’armata al soccorso delli afflitti. </p>
+<p>Si levò un picciolo travaglio, che poco doppo ella lo soppi <lb/>
+col mezo del trattato di San Menehout, nel che stimò <lb/>
+molto meglio gettar l’oro del Re, che il sangue de’ suoi <lb/>
+sudditi, il che li riuscì; così trovandosi accesa la guerra <lb/>
+a Mantova ella vi impiegò così a tempo et l’armi, <lb/>
+et il negotio, che l’estingue felicemente: di maniera che <lb/>
+la sua regenza passò con molto più tranquilità, che non <lb/>
+si havesse ardito sperarla. </p>
+<p>Il Re arrivato alla sua maggior età pregò la Regina sua <lb/>
+madre a prender per un tempo ancora la condotta <lb/>
+delli affari, et col consiglio di lei, confermò di nuovo <lb/>
+l’editto di quelli della religione, fece tener li Stati <lb/>
+del suo Regno poco innanti convocati, dove fra le <lb/>
+altre cose fu laudata da cadauno l’amministratione <lb/>
+della sua regenza, aggraditi li maritaggi di Spagna; <lb/>
+et supplicata sua Maestà a darli quanto più presto il compimento. </p>
+<p>Parte<ptr target="#tn8" n="8"/> il Re per questo effetto, et il signor Principe prende <lb/>
+le armi per opporsegli seguitato da molti tanto dell’<lb/>
+una quanto dell’altra religione, il quale hebbe ben <lb/>
+forze sufficienti per ruinar una buona parte della <lb/>
+Franza; ma non già per impedir il disegno del Re; <lb/>
+onde sentendosi debole, domandò la pace, che gli fu
+<pb n="314r" facs="03_314r" rend="0"/>
+imantinente con gran<ptr target="#tn9" n="9"/> liberalità concessa; ma a più gran <lb/>
+prezzo della precedente; nel che diede ad intendere <lb/>
+con quelli del suo seguito, che li loro particolari interessi li erano <lb/>
+molto più cari, che la reformatione dello Stato sopra <lb/>
+che prendevano il loro pretesto. </p>
+<p>Ritornato a Parigi il Re richiama il signor Principe, mette <lb/>
+nelle mani di lui quasi tutta l’auttorità, parimente quella <lb/>
+delle finanze, et procura ogni mezo di obligarlo in tutte <lb/>
+le cose. </p>
+<p>Rende il male per il bene, et non passò il mese, che non si scoprissero <lb/>
+grandi inditii de’ novi travagli tanto per sgridar contro <lb/>
+il Governo per le pratiche de’ predicatori, per assemblee <lb/>
+notturne, per la surpresa di Perona, quanto per l’avver-<lb/>
+timento di molte persone di qualità come di un principe, <lb/>
+una principessa, doi duchi, un prelato, un conseglier <lb/>
+di Parlamento, sino alla propria confessione del detto <lb/>
+signor Principe, il quale essendo stato di nuovo ricevuto <lb/>
+al perdono, et doppo essendo stato<ptr target="#tn10" n="10"/> per la <lb/>
+stretta aleanza, ch’egli haveva con li altri riconosciuto <lb/>
+incapace di potersi separare dai loro consegli, fu arrestato <lb/>
+per commandamento di sua Maestà, che stima meglio haverlo <lb/>
+pregioniero, che esserlo a lui, per levar parimente a <lb/>
+questi reformatori dello stato la vocation, che pensavano <lb/>
+apportare col mezo di lui. </p>
+<p>Allhora si retirorono dalla corte molti principi, et signori temendo <lb/>
+che sopra la loro si volesse fare lo stesso, il Re fece loro sapere <lb/>
+che contenendosi<ptr target="#tn11" n="11"/> nell’obedienza, non vi è alcuna <lb/>
+intentione d’infringer la sicurtà promesali, restorono
+<pb n="314v" facs="03_314v" rend="0"/>
+contenti col mezo del trattato fatto a Soisons, et tutto <lb/>
+s’acqueta. </p>
+<p>Mentre si crede, che resti sicura la pace ecco che monsignor di <lb/>
+Nives, che non si era punto bagnato in queste fattioni <lb/>
+trovandosi offeso da qualche governatore d’una città <lb/>
+del suo governo, prende occasione di licentiarsi con parole <lb/>
+di poco rispetto verso la Regina, et disavantaggiose per <lb/>
+il Re, delle quali le Maestà loro si trovorono grandemente <lb/>
+offese. </p>
+<p>Alle parole sono successe attioni non proprier di un tal soggetto; <lb/>
+perché fece provisioni d’armi; s’assicurò con genti da <lb/>
+guerra, ne fa di nuove, ingrossa le sue guarnigioni <lb/>
+vi mette delle munitioni; et di là fa surprender qualche <lb/>
+nuovo disegno. </p>
+<p>Non volendo il Re<ptr target="#tn12" n="12"/> negliger questi piccioli principii <lb/>
+fece dalla parte sua unir forza et le manda nei <lb/>
+luochi più per impedir ch’egli non facci male, che per <lb/>
+fargliene ad esso; manda commissarii per prender <lb/>
+informatione di ciò che passa, per apportarli doppo <lb/>
+li rimedii, che si richiedono; et in fine gli minaccia <lb/>
+di usar del rigore in caso che dentro al tempo <lb/>
+che gli statuisce sprezzi di ritornar al suo debito. </p>
+<p>Da questa picciola narratione signori si può vedere, che ’l <lb/>
+Re è ancor patrone nel suo Stato, che lo Stato non <lb/>
+ruinato; et che il disordine che vi è non nasce dal <lb/>
+mal governo che vi sia; ma da quelli che non mettendo <lb/>
+alcun riparo alla loro ambitione; vogliono farsi grandi <lb/>
+alle spese del publico. </p>
+<pb n="315r" facs="03_315r" rend="0"/>
+<p>Questi sono quelli, che sgridano contro li maritaggi di Spagna <lb/>
+et vogliono far creder a tutto il mondo, che si tirino <lb/>
+necessariamente doppo essi la divisione della Francia, et <lb/>
+il sprezzo delle antiche aleanze. </p>
+<p>A’ quali si può replicare fra l’altre cose, che queste non sono <lb/>
+cose nuove che li re di Francia si maritino in Spagna; <lb/>
+che l’inimicitie de’ grandi si pacificano ben spesso col <lb/>
+mezo di tali aleanze; che restata a questa monar-<lb/>
+chia della Spagna onde questi matrimonii ne hanno <lb/>
+dato il mezo; che almeno già ne habbiamo ritratto <lb/>
+questo frutto, che doppo accordati la Spagna non <lb/>
+ha contribuito a fomentar le nostre divisioni, come <lb/>
+era già solita di fare, assistendo a tutti quelli, che <lb/>
+havevano volontà di mover humori; aggiungasi <lb/>
+che sono stati acconsentiti dalli principi del sangue <lb/>
+et altri principi, et officiali della Corona; laudati, <lb/>
+et<ptr target="#tn13" n="13"/> richiesti dalli tre ordini delli Stati del Regno <lb/>
+trattati per il signor duca di Umena; communicati al re <lb/>
+della Gran Bertagna col mezo di monsignor il Marassial <lb/>
+di Buglione, et agl’altri principi, republiche, et colle-<lb/>
+gati di questa Corona<ptr target="#tn14" n="14"/> dalli ambasciatori ordinarii. Et per <lb/>
+chiuder la porta a tutte le obiettioni; che sono stati <lb/>
+seguitati da una pace generale, in luoco della <lb/>
+guerra sanguinolente, alla quale dicevasi ch’erano <lb/>
+destinati. </p>
+<p>Così segue senza apparenza d’imaginarsi, che li Francesi
+<pb n="315v" facs="03_315v" rend="0"/>
+entrino in divisione per questa occasione: perché non <lb/>
+lasciano d’esser uniti in quello che concerne lo Stato <lb/>
+ancorché venga diviso dalle doi religioni nella <lb/>
+credenza; et stimar, che all’apetito delli Spagnoli <lb/>
+che tengono<ptr target="#tn15" n="15"/> l’una si vogli, tentando di ruinar quelli <lb/>
+che tengono l’altra metter il Regno in pericolo d’<lb/>
+esser egli medesimo ruinato. Chi è quello che vorrebbe <lb/>
+abbrucciar la sua casa per<ptr target="#tn16" n="16"/> far piacere al <lb/>
+suo vicino; o per compiacer ad altri perder sé stesso. </p>
+<p>Se vi era qualche articolo nel trattato de’ maritaggi <lb/>
+contrario agl’editti di quelli della religione si <lb/>
+potrebbe temere; ma in luoco di questo, non li ha <lb/>
+il Re confermati doppo per tre volte nella sua mag-<lb/>
+gior età, a Bordeos, et a Ludun: di maniera che <lb/>
+possono dirsi che in Francia godino ancora di Stato <lb/>
+più felice, che mai habbino goduto. </p>
+<p>Che se quelli della religione in Francia non hanno soggetto <lb/>
+di prender ombra; li altri stati, che fanno la <lb/>
+medesima professione ne hano ancor meno, stante che <lb/>
+altri sono gl’interessi di Stato, che legano li principi <lb/>
+et altri gl’interessi di Religione, che ci lega a Dio: <lb/>
+altrimenti bisognarebbe haver la medesima del re <lb/>
+della Gran Bertagna, che ricerca al presente <lb/>
+con gran passione un maritaggio simile. </p>
+<p>Quanto allo sprezzo dell’antiche alleanze che testimonio ci è di questo<ptr target="#tn17" n="17"/>? <lb/>
+È stato forse quando si è desiderato <lb/>
+con tanto ardore di unirsi più strettamente all’Inghilterra
+<pb n="316r" facs="03_316r" rend="0"/>
+col mezzo d’un matrimonio; quando son state prese <lb/>
+l’armi perché il duca di Savoia non opprimesse il <lb/>
+duca di Mantova, quando si è concorso per <lb/>
+impedir il re di Spagna di ruinar il duca di <lb/>
+Savoia, come s’è fatto nel trattato d’Asti, et <lb/>
+come si fa hoggi ancora per farlo essequire? </p>
+<p>Quando si permette a’ Venetiani il passaggio de’ <lb/>
+Grisoni? Quando si è inviata un’armata <lb/>
+a Giuliers, che s’è intrapreso il trattato di Zanten <lb/>
+sino a tanto ch’è stato fornito? Quando<ptr target="#tn18" n="18"/> <lb/>
+finalmente (signori) vi sono ancora intertenute quattro-<lb/>
+milla huomini da piedi ancorché per il trattato <lb/>
+non si fu in obligo, che per doi anni. </p>
+<p>Ma ecco uno de’ gran compianti di questi signori la profu-<lb/>
+sion delle finanze. Bisogna veder, comme elle <lb/>
+sono state dispensate. </p>
+<p>Il buon governo del fu Re lasciò dentro alla Bastiglia <lb/>
+cinque millioni di lire, et sette over otto millioni <lb/>
+al risparmio, che destinava alle spese della <lb/>
+guerra, che s’ ne<ptr target="#tn19" n="19"/> andava ad intraprender. </p>
+<p>Primieramente l’incertezza nella quale quel funesto acci-<lb/>
+dente ci lasciò<ptr target="#tn20" n="20"/>, ci obligò ad intartener delle <lb/>
+forze più dell’ordinario; le spese dell’armata <lb/>
+di Giuliers furono grandi, quelle della coronatione <lb/>
+della Regina, che non erano ancor pagate; quelle <lb/>
+dei funerali del Re; quelle della coratione <lb/>
+di quello, che regna al presente: nel che si spese
+<pb n="316v" facs="03_316v" rend="0"/>
+quasi<ptr target="#tn21" n="21"/> tutto quello ch’era<ptr target="#tn22" n="22"/> nel risparmio <lb/>
+et non fu cominciato a toccar il denaro della Bastiglia, <lb/>
+che doppo il trattato di San Menehout per quelli <lb/>
+che<ptr target="#tn23" n="23"/> in quella picciola <lb/>
+guerra, et nella seguente sono stati causa ch’ella <lb/>
+si sia vuotata. </p>
+<p>In oltre la più parte de’ grandi facendosi valer a proportione <lb/>
+di quanto potevano vivere non si mostrorono mai con-<lb/>
+tenti, che con l’augumento delle loro pensioni quanto <lb/>
+più si sia; et che si caricavano di doni<ptr target="#tn24" n="24"/> imensi. </p>
+<p>La spesa delle pensioni crebbe tutta in una volta a tre millioni <lb/>
+di lire per anno la quale in sei anni doppo la morte del Re <lb/>
+montò a 18 millioni il soldo per la cavallaria, et <lb/>
+per il reggimento intertenuto si augumentò di mille <lb/>
+ottocento libre, che fano dieci millioni, et ottocento <lb/>
+mille libre. </p>
+<p>In doni estraordinarii. </p>
+<p>Il signor Principe riceve in questi sei anni appresso tre millioni <lb/>
+et settecentomille lire. </p>
+<p>Li signori conti di Soison padre, et figlioli con madama la Contessa <lb/>
+più di quindeci<ptr target="#tn25" n="25"/> cento mille lire. </p>
+<p>Il signor Principe, et la signora principessa di Conty quattrordici cento milla <lb/>
+lire. </p>
+<p>Monsignor di Ghisa appresso di desisette cento mille lire. </p>
+<p>Monsignor di Never più de’ sedici cento mille lire. </p>
+<p>Monsignor di Longavilla più di dodici cento mille lire. </p>
+<p>Li signori di Umena padre, et figlio più di doi millioni di lire. </p>
+<pb n="317r" facs="03_317r" rend="0"/>
+<p>Monsignor di Vandomo più di seicento mille lire. </p>
+<p>Monsignor di Epernone, et li suoi figlioli settecento mille lire. </p>
+<p>Monsignor di Buglion appresso un million di lire. </p>
+<p>Li otto marasciali di Francia nelle augumentationi delle loro <lb/>
+pensioni di vinti quattro mille lire per anno undecicento <lb/>
+cinquantadoi mille lire. </p>
+<p>Sei altri duchi, et officiali della Corona ciascheduno altrettanto <lb/>
+ottocento settanta mille lire. </p>
+<p>S’aggiunse a questo vinti millioni di lire di conto fatto per <lb/>
+le spese straordinarie, che ha bisognato far per queste <lb/>
+turbulenze tanto per l’inartenir dei soldati, che spese <lb/>
+necessarie alla guerra; et doppo si giudichi se le loro <lb/>
+Maestà devono esser accusate d’haver dissipato il <lb/>
+loro denaro mal a proposito. </p>
+<p>Doppo haversi inteso tutto questo si<ptr target="#tn26" n="26"/> può<ptr target="#tn27" n="27"/> ricever il compianto <lb/>
+di quelli, che imputano le miserie, et le necessità dello Stato <lb/>
+all’avanzamento di qualche straniero? Possono dire, che <lb/>
+gli si habbi fatto del bene; et ch’essi<ptr target="#tn28" n="28"/> non ne habbino <lb/>
+ricevuto altrettanto. </p>
+<p>È cosa ordinaria, che li grandi affettionano sempre qualcheduno <lb/>
+al quale fano del bene: et non è cosa strana, ch’un <lb/>
+forastiero faccia fortuna fuori del suo Paese spetialmente <lb/>
+in Francia, dove molte sono stati fatti grandi, anzi <lb/>
+molto più, che quello, del quale s’intende discorrer: <lb/>
+se questo avanzasse qualche altro della sua Patria<ptr target="#tn29" n="29"/> <lb/>
+si potrebbe dire; ma della sua buona fortuna <lb/>
+non fa egli parte, che a’ Francesi, et ve ne è quantità
+<pb n="317v" facs="03_317v" rend="0"/>
+che se ne risente. Quelli che se ne lamentano sono <lb/>
+quei medesimi, che hanno spinta la ruota per inalzarlo, <lb/>
+ove egli è, et che sono stati li primi a congratularsi, <lb/>
+quando ha ottenuto qualche dignità. </p>
+<p>Farebbono molto meglio di venir alla corte, et tenir il <lb/>
+loro Stato con la bona gratia del Re, più tosto che <lb/>
+allontanarsene, et poi far delle partite per rimettersi <lb/>
+a gran dishonore<ptr target="#tn30" n="30"/>: perché se bene il Re non manca <lb/>
+di clemenza per quelli, che vorranno venir al lor <lb/>
+dovere, né del mezo di farli del bene, quando si <lb/>
+manteniranno; non mancarà a lui né anco la severità <lb/>
+per li infrattori né de’ mezi, et de forze per ridurli <lb/>
+alla ragione. Et castigarli della loro temerità: che se <lb/>
+li mancarà qualche cosa ha assai de’ collegati, et <lb/>
+boni amici per haver potente assistenza; et voi <lb/>
+signori tenete la prima piazza fra questi. Da qui avviene <lb/>
+che crede fermamente, che non solamente li suoi nemici<ptr target="#tn31" n="31"/> <lb/>
+non haveranno già mai beneficio<ptr target="#tn32" n="32"/> né favore da voi, <lb/>
+ma che voi sarete sempre pronti contra quelli di <lb/>
+render testimonianza della vostra affettione <lb/>
+verso di lui conforme alli trattati, come havete fatto per <lb/>
+il passato. All’incontro vi promette egli coll’essempio <lb/>
+del fu re Henrico il Grande suo padre, che contribuirà <lb/>
+continuamente per la vostra conservatione, et avanzamento <lb/>
+tutto quello, che sarà in</p>
+<p>poter suo; et vi continuerà <lb/>
+li medesimi buoni officii et le medesime assistenze, che <lb/>
+voi sete stati accostumati di havere da lui; nel che
+<pb n="318r" facs="03_318r" rend="0"/>
+se voi vedeste qualche ritardamento, imputatelo all’<lb/>
+incommodità nella quale la Francia è stata<ptr target="#tn33" n="33"/> <lb/>
+ridotta per li disordini, che sono regnati doppo qualche <lb/>
+tempo; et assicuratevi, che sua Maestà farà il suo sforzo <lb/>
+di darvi quanto più presto ogni sorte di contento. </p>
+<p>Esposta nell’assemblea de’ signori Stati Generali all’Haya <lb/>
+li 8 di febraro 1617. Segnata Odet de la Noue<ptr target="#tn34" n="34"/> </p>
+<p>Presentata alli x. </p>
+<pb n="318v" facs="03_318v" rend="270"/>
+<p>Espositione dell’ambasciator di Francia </p>
+<p>Nella 2<hi rend="superscript">da</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "-o" corrected above "-a."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "-er-" corrected above "-ro-."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "-ta" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Corrected above "Re."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "sti-" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "riconosciuto" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "-e-" is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by "mancare" crossed out.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "c-" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-a" corrected above "-n."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-engo-" corrected above "-iene."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Followed by "abbrucciar" crossed out.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "che … questo" added above the line on "in che è stato | testificato" crossed out.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Followed by "alla" crossed out.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "ne" corrected above "è."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-ciò" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Precedes "intorno" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Followed by "nella" crossed out.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Precedes "che sono stati causa di quella" crossed out.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "-i" corrected above "-ni."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Added above the line on "cinque" crossed out.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Followed by "-si" crossed out.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Followed by "l" crossed out.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Is the result of a correction.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "a … dishonore" added above the deleted word.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Followed by "da voi" crossed out.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Followed by "condo" crossed out.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "-o-" corrected above "-a-"</p></note>
+</div>
+</body>
+</text>
+</TEI>

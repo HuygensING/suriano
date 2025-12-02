@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.092 date 1621-02-16</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name></name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">092</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 463r-464v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">463r-464v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters 29 January and subsequently thanked the States for receipt of Trevisano. Others letters have not arrived. Agreement between Maurice and States that raise another 11000 troops, so by April (when Truce expires) they will have 20,000 troops at the ready. Waiting for news from HRE to devise a plan, new levies in archducal Netherlands. Aston has arrived in The Hague, en route to Denmark. He has requested to arm 20000 troops, States General have agreed to 12000. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-02-16">16 febbraio 1621</date>
+            <num>141</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="141">
+<div type="main" facs="main text of letter" n="141">
+<!--<p>16 febbraio 1621, L’Aia (cc. 463r-464v)</p>-->
+<pb n="463r" facs="09_463r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 273 comincia n° 272 </p>
+<p>Serenissimo Principe </p>
+<p>colla prima opportunità, che mi trovi col signor principe Mauritio <lb/>
+non mancarò di trattar seco dell’alfier Battino Natale corso <lb/>
+et prenderò quelle informationi, che stimerò proprie per assi-<lb/>
+curarmi del servitio, che possi la Serenità vostra promettersi di lui. </p>
+<p>Al signor borgomastro Pavoni, che si ritrova qui nell’Haya, et nell’<lb/>
+assemblea dei Stati ho communicato l’honore, che la Serenità vostra <lb/>
+s’è compiacciuta di far al signor Michiel Pavoni suo figliolo nel <lb/>
+sodisfar al suo desiderio di esser creato suo cavalliere. Ha <lb/>
+sentita la nuova con gusto grandissimo, et apparentemente me <lb/>
+lo ha mostrato, pregandomi di humilmente ringratiar vostra Serenità per <lb/>
+suo<ptr target="#tn1" n="1"/> nome, et assicurarla, che aggradisce tanto quest’honore <lb/>
+che eternamente le sarà obligato collo stesso figliolo, et con <lb/>
+tutti gl’altri ad esser pronti a’ suoi servitii, et dall’hora <lb/>
+aspetterà il compimento della gratia, quando piacerà alla <lb/>
+Serenità vostra che sia col<ptr target="#tn2" n="2"/> mezo del signor Ambasciatore, che doverà esser <lb/>
+eletto ordinario per qua. </p>
+<p>Con non minor riverenza, et contento è stato ricevuto avviso <lb/>
+tale dal signor Marco de Liclama per la sua persona. Molte <lb/>
+offerte ha fatto, affettuosi ringratiamenti, et testimonii di <lb/>
+gran devotione ho ricevuti anco da questo soggetto, et <lb/>
+la gratia resta molto ben impiegata. </p>
+<p>Camina innanti l’opera del signor Marco Dardani con assiduità, <lb/>
+et accuratezza: sono venuti questa mattina quelli di <lb/>
+Roterdam. Con essi anco s’incontreranno li roli, et
+<pb n="463v" facs="09_463v" rend="0"/>
+gl’altri conti, et colle informationi già date, et che daremo <lb/>
+ancora alli signori commissarii si verrà al fine di questo negotio <lb/>
+per il quale sento contento, che vostra Serenità colla prudenza sua <lb/>
+habbi compresa la necessità del fermarsi qui di esso signor Dardani <lb/>
+sino alla final decisione, et si valerà del tempo, che gli è stato <lb/>
+prefisso da vostra Serenità di tre mesi; ma spera d’ispedirsi anco <lb/>
+in meno. </p>
+<p>Non devo lasciar di dir riverentemente alla Serenità vostra quello mi è perve-<lb/>
+nuto a notitia, et è l’indoglienza che fanno alcuni <lb/>
+mercanti interessati ne’ vasselli, che si trovano in quel <lb/>
+porto aggravandosi, che senza esser presi in servitio sono <lb/>
+necessitati a trattenersi chi con trenta, chi con quaranta <lb/>
+huomini sopra le loro spese, et interessi, et che questo non <lb/>
+può essere sopportato dalle loro borse, perdendo così il <lb/>
+denaro di tempo perso, et non potendo andar ai loro <lb/>
+viaggi. Io a chi me lo ha riferto ho mostrato non haver <lb/>
+notitia alcuna. Se in questo vostra Serenità commanderà qualche <lb/>
+buon ordine non ha dubio, che riuscirà con gusto grandissimo <lb/>
+delli interessati. </p>
+<p>Ho anco inteso, che ’l conte di Levenstein col mezo di qualche <lb/>
+mercante habbi tentato di sapere se potrà venir <lb/>
+a far levata in questi paesi, et se potrà haver salvocondotti <lb/>
+da’ suoi creditori. Parmi, che incontrerà difficoltà <lb/>
+se non assicura di pagar almeno la metà di quello
+<pb n="464r" facs="09_464r" rend="0"/>
+che deve, et non far nuovo debito. Di quello, che in <lb/>
+questo proposito intenderò di vantaggio le<ptr target="#tn3" n="3"/> darò <lb/>
+riverente conto; ma può ben la Serenità vostra formar giudicio <lb/>
+che colla nuova aggiunta delli undecimilla fanti, che <lb/>
+si devono levar per li signori Stati; tanto maggior siano per <lb/>
+riuscir la difficoltà per altri. </p>
+<p>Una lettera scrissi alla Serenità vostra la passata settimana segnata <lb/>
+n° 271 che sarà qui aggiunta replicata. Gratie etc. </p>
+<p>Dall’Haya li 16 febraro 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="464v" facs="09_464v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 273<ptr target="#tn4" n="4"/> comincia 272 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="141">
+<!--
+<p n="464vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>16 febraro 1620<ptr target="#tn5" n="5"/> ricevute x marzo n° 273 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>1. Quando si troverà con il principe <lb/>
+Mauritio tratterrà dell’<lb/>
+alfier Battino. </p>
+<p>2. Ha dato conto al borgo-<lb/>
+mastro Pavoni dell’haver <lb/>
+rissoluto dalla Republica di crear <lb/>
+suo figliolo cavalier, et suoi ringra-<lb/>
+tiamenti. </p>
+<p>3. Il medesimo ha fatto col signor <lb/>
+Marco di Laclama. </p>
+<p>4. Camina inanti l’<lb/>
+opera del Dardani, et <lb/>
+spera, che nel termine presente <lb/>
+è manco si espedirà. </p>
+<p>5. Indoglienze de’ patroni <lb/>
+de’ vasselli, che vengono <lb/>
+trattenuto in questo porto. </p>
+<p>6. Conte di Levestein fa <lb/>
+instanza di andar a far <lb/>
+levata di gente in quelle parti <lb/>
+e ricerca un salvo condotto <lb/>
+da’ suoi creditori. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "su-" is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "c-" corrected above ,.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "ne" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "-7-" is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 04.013 date 1617-03-28</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">04</idno>
+                <idno type="letterno">013</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 4, fol 65r-v, 68r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">65r-v, 68r-v, 66r-67v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In this fourth letter, Suriano sends a copy of the text this person has written and might be beneficial to the Venetian Republic One document attached to this letter: "copia di lettera di persona che vuole proporre un negotio alla Republica"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1617-03-28">28 marzo 1617</date>
+            <num>023, 024</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="023">
+<div type="main" facs="main text of letter" n="023">
+<!--<p>28 marzo 1617, L’Aia (cc. 65r-v, 68r-v)</p>-->
+<pb n="065r" facs="04_065r" rend="0"/>
+<head>main text of letter</head>
+<p>4<hi rend="superscript">a</hi> </p>
+<p>Serenissimo Principe </p>
+<p>havevo fermata, et servata di già la terza lettera mia <lb/>
+quando l’istesso che offerisco rivelar negotio di tanto <lb/>
+rilevo a vostra Serenità m’ha mandata una scrittura, della <lb/>
+quale le invio qui aggiunta la copia, tenendo appresso di <lb/>
+me l’originale per ogni buon rispetto. Con aggiungermi <lb/>
+che ’l negotio è maggiore di quello io possi creder, et che <lb/>
+l’intelligenze che li Spagnuoli hanno sono in Italia <lb/>
+et non dove io le giudicavo, o pensavo; havendogli <lb/>
+considerato, che poteva esser con sudditi del signor Turco <lb/>
+nel suo Paese, che però vostra Serenità gli credesse, et facesse <lb/>
+prontamente il suo servitio. Ho stimato mio debito <lb/>
+colla copia della scrittura aggiungerle tutto ciò perché <lb/>
+possi ella venir anco a quella più ferma risolu-<lb/>
+tione, che stimerà propria, et conforme alla sua <lb/>
+singolar prudenza. Gratie etc. </p>
+<p>Dall’Haya a’ 28 marzo 1617 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="065v" facs="04_065v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="068r" facs="04_068r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="068v" facs="04_068v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>4<hi rend="superscript">a</hi> </p>
+<p><metamark facs="Seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="023">
+<!--
+<p n="068vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>28 marzo 1617 ricevuta 12 aprile </p>
+<p>Segretario Surian. 4<hi rend="superscript">ta</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="024" corresp="023" source="66r-67v" >
+<div type="main" facs="main text of attachment I" n="024" corresp="023" >
+<!--<p>Allegato I al n. 23 (cc. 66r-67v)</p>-->
+<pb n="066r" facs="04_066r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Copia </p>
+<p>Illustre signor mio Principe colendissimo </p>
+<p>piacerà a vostre Signorie illustrissime confermar a Venetia a lor Serrenità<ptr target="#tn1" n="1"/> <lb/>
+circa il negotio, che si desidera communicare, et sco-<lb/>
+prire, che si lor Serenità desiderano si tiri a fine, come <lb/>
+molto a lor importa, et più di quello hora possono <lb/>
+giudicare, et come io anco desidero (solo per il zelo, <lb/>
+et affettione, che porto alla serenissima Republica che Dio <lb/>
+nostro Signore me ne sarà sempre testimonio, ma ogni bene-<lb/>
+ficio, et servitio merita suo premio) mandino quanto <lb/>
+prima a vostre Signorie illustrissime le mie ultime dimande spedite <lb/>
+nell’eccellentissimo Pregadi in conveniente forma, et bollate <lb/>
+o sigillate col bollo o sigillo d’oro, o come si fa ordi-<lb/>
+nariamente in simili negotii, dicendo nella loro narrati-<lb/>
+va che questa mi si dà per fedelissimi, et segnalatissimi ser-<lb/>
+vitii fatti alla serenissima Republica et del resto, che dette <lb/>
+scritture siano fatte, et spedite in forma conve-<lb/>
+niente, et debita, acciò quando vengano qui non <lb/>
+vi sia a replicare altro, poiché come io lo fò <lb/>
+con tutta sincerità, et candidezza, così mi <lb/>
+fido anco, et spero di ricever dalla serenissima Republica <lb/>
+come lor solito di fare. Et che si degnano o <lb/>
+compiaccino dar ordine i<ptr target="#tn2" n="2"/> vostre Signorie illustrissime mentre lei <lb/>
+starà qua me debba ogni mese far il mio <lb/>
+pagamento, et anco che alla scoperta del negotio
+<pb n="066v" facs="04_066v" rend="0"/>
+mi possa o debba far qualche honorevol recognitione <lb/>
+a descrettione di lor Serenità per ora, et caparà della <lb/>
+lor liberalità, et benevolenza, che lei assicurò esser <lb/>
+negotio di tanto rilevo, et a lor importante quanto <lb/>
+mai ne sia trattato contra di loro, et non è mai possibile <lb/>
+lo possino penetrare, o indovinare, et sopra tutto altro <lb/>
+che lor compiaccia dar auttorità a vostre Signorie illustrissime di <lb/>
+assicurarmi, che permettendo la mia sanità, che <lb/>
+sarà da lor Serenità impiegato col sommo carico <lb/>
+sotto il commando però di qualche illustrissimo lor ministro <lb/>
+et non d’altro al riparo che si doverà fare contra <lb/>
+questo disegno spagnuolo acciò tanto più possino <lb/>
+esser sicuri del mio zelo inverso di loro servitio, <lb/>
+che spero coll’aiuto di Dio nostro Signore far così segnalato <lb/>
+acquisto, et servitio alla serenissima Republica, che se ne <lb/>
+haverà perpetua memoria di me, et acquistar una <lb/>
+statua nel lor serenissimo palazzo, però che del mio <lb/>
+officio tirerò anco soldo, oltre la remuneration <lb/>
+che ho trattato, come fanno tutti altri ministri et <lb/>
+ufficiali simili. Et potranno poi con verità dire <lb/>
+nessuno lor habbi fatto mai maggior servitio <lb/>
+di me, né apportato meglior, et più necessario, <lb/>
+et felice trattato, et di tanta importanza alla serenissima Republica
+<pb n="067r" facs="04_067r" rend="0"/>
+che vostre Signorie illustrissime che così non sapendola importerà una <lb/>
+gran ruina alla serenissima Republica così scoperta che sarà <lb/>
+apporterà un gran danno, et sicurezza perpetua <lb/>
+contra tutti. Avvertisca vostre Signorie illustrissime che bisogna <lb/>
+mettervi non possano esser mai sequestrati né <lb/>
+trattenuti in la mia persona essi denari in <lb/>
+Venetia per nessuna causa. </p>
+<pb n="067v" facs="04_067v" rend="270"/>
+<p>Scrittura della persona che vuol <lb/>
+propalar negotio alla serenissima Republica </p>
+<p>nella 4<hi rend="superscript">a</hi> </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

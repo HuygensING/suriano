@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.001 date 1618-03-04</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">001</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 2r-4v, 7</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                Damaged letter so the summary might also be incomplete. 
+            </note>
+            <biblScope unit="page">2r-4v, 7r-v, 5r-6v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowlegdes receipt of letter from Venice 16 February. Given that his letters from 28 January have not yet arrived in Venice, he recapitulates his earlier dispatch. Slow progress despite his best efforts in securing the necessary mariners, armament and assurances for the relevant parties. Reports on rumours about a peace between Venice and Spain and the complaint by merchants before the States General about the delayed payments for their services in shipping the troops by Levenstein. One document attached:  ’Lettera delli signori Stati per li mercanti interessati nella condotta del conte di Levenstein’. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-03-04">4 marzo 1618</date>
+            <num>001, 002</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="001">
+<div type="main" facs="main text of letter" n="001">
+<!--<p>4 marzo 1618, L’Aia (cc. 2r-4v, 7r-v)</p>-->
+<pb n="002r" facs="06_002r" rend="0"/>
+<head>main text of letter</head>
+<p>Replicate </p>
+<p>prima </p>
+<p>n° 11 fin 13 </p>
+<p>Serenissimo Principe </p>
+<p>[…]<ptr target="#tn1" n="1"/> submettermi a scriver alla Serenità vostra quando mi capitano le lettere di <lb/>
+l[ei] dei 16 del passato. Duolmi, che fino allhora non le fossero pervenute <lb/>
+le mie de’ 28 genaro; ma più che meno fosse capito il corriero Zupponi <lb/>
+con quelle delli 5 del passato, che haveva le replicate delle altre <lb/>
+et pur<ptr target="#tn2" n="2"/> a mio conto. Doveva esser costì alla più tarda nell’istesso <lb/>
+[gio]rno della sua speditione; ma spero che la Serenità vostra poco doppo <lb/>
+[…] havuti ambidoi li dispacci, veduto l’operato da me, <lb/>
+[… g]ià deve esser in camino la volontà sua intorno ad alcuni <lb/>
+[p]articolari de’ quali la ricercava, et spetialmente per la sicurtà, <lb/>
+che devo dare con parola della Serenità vostra alli signori Stati per solle-<lb/>
+varli dalla promessa, che faranno per me a questi marinari <lb/>
+et compartecipi de’ vasselli come ho scritto nelle sudette lettere de’ <lb/>
+28 genaro prima n° 3 et per quanto anco la Serenità vostra intenderà <lb/>
+più a basso. </p>
+<p>Dalli susseguenti dispacci haverà anco inteso quello, che di setti-<lb/>
+mana in settimana sono andato operando per avanzar il <lb/>
+negotio, et come conforme alla natura del Paese sia andato <lb/>
+lento l’effetto, ma più come la finezza di questi interessati <lb/>
+habbi transportato il ragionevol nelli nolegii espresso <lb/>
+particolarmente nell’ultimo mio dispaccio de’ 27 febraro <lb/>
+n° 9 fin 10 ispedito per la via d’Anversa del quale <lb/>
+saranno qui aggiunte le replicate. Camino innanti, et <lb/>
+avanzo a tutto mio potere, né pretermetterò diligenza alcuna. </p>
+<p>L’amiralità di Amsterdam mandò la denominatione dei capitani <lb/>
+per le 5 navi, che hanno in carica di accommodare. <lb/>
+Dieci furono li nominati. Il Chercoven del quale <lb/>
+scrissi con le mie de’ 5 del passato, che haverebbe forse
+<pb n="002v" facs="06_002v" rend="0"/>
+a servir per capo della condotta. È stato confirmato […]<ptr target="#tn3" n="3"/> <lb/>
+tal carico, et altri 4<ptr target="#tn4" n="4"/> con lui tutto huomi<ptr target="#tn5" n="5"/> esperti, et p[…] <lb/>
+della marinarezza, et che sono stati molti anni in ser[vitio del] <lb/>
+Paese. Per luocotenenti di questi l’Eccellenza sua mi di[…] <lb/>
+destinati quattro delli medesimi, che erano nella p[…] <lb/>
+affineché la Serenità vostra fosse ben servita, havendo a[…] <lb/>
+promessa del luoco di capitano quando per qua[…] <lb/>
+venisse a vacare. Io la ringratiai, et pregai […] <lb/>
+haveva havuta mira, che la Serenità vostra fosse di qui ben serv[ita] <lb/>
+così continuasse nell’istesso per li restanti capitani il […] mi promi[se] <lb/>
+di fare. L’amiralità di Roterdam, né quella di Norto[landia] <lb/>
+hanno ancor mandata la loro denominatione sono d[…] <lb/>
+giorni, che agl’uni, et agl’altri ho scritte mie lettere <lb/>
+et solecitato che lo faccino, et spero, che non possi<ptr target="#tn6" n="6"/> tarda[…] <lb/>
+comparirmi dall’una, et l’altra parte messaggieri. <lb/>
+In tanto per l’accommodamento delle navi, et per il provisi[…] <lb/>
+sono avvisato, che non si cessa in Amsterdam, et altro[…] di solecitare. Dove non posso con la viva voce lo faccio […] <lb/>
+et con la commissione in Amsterdam, et con la missione di pers[one] <lb/>
+espresse altrove. </p>
+<p>Speravo mandar a vostra Serenità con questo ordinario più dist[…] <lb/>
+la nota del valor dei vasselli affineché essa si potesse re-<lb/>
+golare o per comprarli, o per ordinar la sicurtà del ris[…] <lb/>
+ma non mi è stato possibile haverla, che di quelli di R[o]ter[dam] <lb/>
+dei soli loro tre vasselli. Aspetto l’altre di Amsterda[m] <lb/>
+et Nortolandia. </p>
+<p>Havendomi significato il Calandrini, che era stato avver[tito]
+<pb n="003r" facs="06_003r" rend="0"/>
+da quelli dell’amiralità di Amsterdam che io addimandassi alli signori Stati <lb/>
+ordine per il dar delle artiglierie, che possono bisognare per ben <lb/>
+armar li vasselli, che altrimenti tutto si metterebbe a conto della <lb/>
+serenissima Republica avanti hieri ne feci l’instanza, che fu rimessa al <lb/>
+Consiglio di Stato, et a sua Eccellenza alla quale ne parlai hieri, che mi <lb/>
+promise di tener la mano per la pronta speditione. <lb/>
+[Que]lla<ptr target="#tn7" n="7"/> voce, ch’è stata portata questi giorni, che seguirà accordo in <lb/>
+Italia, se con le lettere di vostra Serenità non è del tutto confirmato l’avviso <lb/>
+veggo almeno nelle 2<hi rend="superscript">de</hi> sue la conclusa pace tra la serenissima casa di <lb/>
+Austria, et vostra Serenità, et piaccia a Dio benedetto, che sia così stabile, <lb/>
+et sincera da quella parte, come è sincera la volontà, et incli-<lb/>
+natione propria di lei alla quiete, et tranquilità commune. Di <lb/>
+questo dimani, se si riduranno li signori Stati li farò partecipi <lb/>
+in conformità delli commandamenti della Serenità vostra. </p>
+<p>[Q]uesta nuova di pace, essendo di già cominciata a farsi la levata <lb/>
+credo, che darà che pensare per l’impressione, che haverebbe <lb/>
+del trattenersi in mare. Haverò pensiero, che tutto passi bene <lb/>
+et in ogni caso mi sarà caro esser avvertito, come mi doverò <lb/>
+regolare, quando piacesse a Dio, che tutte le cose restassero <lb/>
+accommodate (<ptr target="#tn8" n="8"/>a che non so affissar l’animo rispetto alla mala <lb/>
+volontà, et artificiosa maniera de’ Spagnoli poiché vi sarebbono <lb/>
+mille, et mille pretensioni sopra l’assicuranza delli sei mesi di <lb/>
+servitio tanto per le navi, come per la soldatesca. </p>
+<p>Per questa speditione hanno affaticato, et doveranno anco continuar <lb/>
+sino al fine il secretario dei signori Stati, et quello di sua Eccellenza nel far <lb/>
+diverse lettere, et ordini ai signori dell’Amiralità, et ad altri, <lb/>
+et mi hanno fatto capitar all’orrecchie, che le fatiche
+<pb n="003v" facs="06_003v" rend="0"/>
+non si fanno per niente, et queste, et l’altre fatte<ptr target="#tn9" n="9"/> per innanti me[…]<ptr target="#tn10" n="10"/> <lb/>
+premiate. Parmi, che questi paesi, come sono membri d[…] habbino assai corrispondenza con quelli di qua dai mon[…] <lb/>
+prossimi allo stato di vostra Serenità, onde non posso far di meno […] <lb/>
+allargar la mano, et m’assicuro ch’ella troverà buono, […] <lb/>
+detto secretario usi cortesia per la qualità sua, che non è ord[…] <lb/>
+come anco<ptr target="#tn11" n="11"/> con quello di sua Eccellenza per le patenti fatte per li […] <lb/>
+piazze d’armi, et per mille altre cose, che con l’uno […] <lb/>
+l’accidente può portare. </p>
+<p>Quanto questi marinari siano fini l’ho provato molto bene, […-]<lb/>
+gliono di tutte le cose, che vagliono per loro. Hanno come <lb/>
+può ben imaginarsi avvisi da tutte le parti, et per consequ[…] <lb/>
+sapendo il maneggio dell’eccellentissimo signor ambasciator Contarini in Inghilterra […] <lb/>
+come habbi incontrato nell’esser ricercato di sicurtà in lo[…] <lb/>
+per il pagamento, et le difficoltà in questo proposito sono entrati <lb/>
+una tal qual pretensione di voler esser assicurati dai signori Stati a[…] <lb/>
+per il tempo di più delli 6 mesi accordati, che staranno in servitio […] <lb/>
+vasselli di che sue Eccellenze me ne diedero parte avanti hieri. Io risp[osi] <lb/>
+che non havevano alcun argomento, che potesse metter in dubio l’effe[tto] <lb/>
+della promessa della serenissima Republica non havendo li marinari, che hora sono in <lb/>
+servitio ad haver un quattrino delle loro paghe; onde non vi era da <lb/>
+metter difficoltà né anco per quelli che anderanno al presente sia per li 6 <lb/>
+mesi, et più se sarà necessario perché ella è solita con prontezza effe[…] <lb/>
+la promessa. Mi fu risposto, che era vero, et che essi havevano mostr[ato] <lb/>
+la loro buona volontà nel far prometter a nome suo per questa prepar[…] <lb/>
+et io dissi, che li ringratiavo, et speravo<ptr target="#tn12" n="12"/> anco, che havessero co[nti-]<lb/>
+nuato in essa perché potevano esser certi, che vostra Serenità non havere[bbe] </p>
+<pb n="004r" facs="06_004r" rend="0"/>
+<p>[ma]ncato<ptr target="#tn13" n="13"/> di sodisfar effettivamente. </p>
+<p>[Que]sto nuovo motivo serenissimo Principe è stato promesso da’ compartecipi <lb/>
+[…] dei vasselli, che hanno condotto il signor conte di Levenstein, li quali avvisati <lb/>
+[o]ltre le antecedenti anco con le lettere della passata settimana, che li <lb/>
+patroni di nave non havevano havuto il pagamento dei loro noli, et <lb/>
+[sp]ese di bocca si sono messi in maggior spavento di quello possi succe-<lb/>
+[der] nel resto, onde ne sono anco seguiti li monopolii, et con essi <lb/>
+[le a]ltezze de’ prezzi delle navi 5 et più, spiace anco ad essi haver <lb/>
+[acco]rdato per soli sei mesi di servitio doppo haver inteso, che quelli <lb/>
+d’Inghilterra haveranno otto mesi. </p>
+<p>Quando fui in Amsterdam gl’istessi interessati nella condotta del conte di Leven-<lb/>
+stein venero a dolersi meco; ma havend’io con precedenti lettere mie <lb/>
+scritto assai in questo particolare lasciai di replicar di vantaggio per non apportar <lb/>
+maggior noia a vostra Serenità. Hora convengo aggiungerli, che li medesimi sono ri-<lb/>
+corsi a compiangersi alli signori Stati, asserendo, che la Republica non li voleva <lb/>
+pagare, et uno dicendo fino, che io gli havevo promesso di pagare <lb/>
+cosa tanto lontana dal vero quanto poiché gl’istessi compagni hanno <lb/>
+detto non essersi inteso così. Sue Eccellenze mi fecero saper questo compianto il giorno <lb/>
+innanti che fossi a loro, et nell’andata di venerdì, me ne parlorono <lb/>
+con grandissima efficacia, et m’incaricorono con particolar affetto di accom-<lb/>
+pagnar con una lettera quelle che volevano scriver in questo particolare <lb/>
+perché vostra Serenità si compiacesse far, che ’l Conte si accordasse ch’ella sodis-<lb/>
+facesse questi mercanti, o travasse<ptr target="#tn14" n="14"/> altro ripiego a tal effetto. Io <lb/>
+doppo haver mostrata displicenza del tedio, che veniva portato <lb/>
+alle loro Signorie per questo negotio mostrai, che mal fondata era la loro <lb/>
+indoglienza contra la serenissima Republica mentre né con lei, né con me <lb/>
+havevano contrattato, ma col Conte, al quale vostra Serenità haveva
+<pb n="004v" facs="06_004v" rend="0"/>
+pagato quanto li era dovuto, et così pagava tutti li[…]<ptr target="#tn15" n="15"/> <lb/>
+o con lei, o con suoi ministri per nome suo si facevano. M[…] <lb/>
+restar paghi di quanto dissi, ma mi fecero nuova in[stanza] <lb/>
+che io scrivessi, et io vedendo non dover ricusarlo prom[isi di] <lb/>
+scrivere<ptr target="#tn16" n="16"/>, et darò le lettere agl’istessi interessati, che ha[…] <lb/>
+anco quella delli signori Stati Generali della quale non […] <lb/>
+traduttione, che è qui aggiunta. Et certo ogni co[…] <lb/>
+per sodisfattione di questi interessati riuscirà gratissima […] <lb/>
+che mi hanno espressamente detto esser ciò desiderato […] <lb/>
+delle cose, che passano in questi paesi toccanti l’interesse [della] <lb/>
+Serenità vostra dalla<ptr target="#tn17" n="17"/> quale attenderò quello, che si compiacerà di […] <lb/>
+per sapermi governar nella risposta. Gratie etc. </p>
+<p>Dall’Haya a’ 4 marzo 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="007r" facs="06_007r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="007v" facs="06_007v" rend="270"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>replicata prima </p>
+<p>n° 11 fin 13 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="001">
+<!--
+<p n="007vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>4 marzo 1618 ricevute a’ 28 detto </p>
+<p>Aya. n° 11 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="002" corresp="001" source="5r-6v" >
+<div type="main" facs="main text of attachment I" n="002" corresp="001" >
+<!--<p>Allegato I al n. 1 (cc. 5r-6v)</p>-->
+<pb n="005r" facs="06_005r" rend="0"/>
+<head>main text of attachment I</head>
+<p>Lettera delli signori Stati Generali per li mercanti interessati <lb/>
+nella condotta del signor conte Levestehin </p>
+<p>Li patroni, et compartecipi dell’undici vascelli ch’hanno transportato <lb/>
+verso Venetia li soldati del conte di Levestehin, si querelano <lb/>
+grandemente et extraordinariamente non essendo pagati del loro <lb/>
+nolo, et spese di bocca, a detti soldati secondo la loro conventione <lb/>
+di maniera che temendo che li marinari per pervenire, et otte-<lb/>
+nere il detto pagamento; essi patroni hanno fatto ricorso alla <lb/>
+intermissione, et intercessione nostra; il che ci ha mosso a comu-<lb/>
+nicare il tutto con il signor Soriano residente presso di noi per nome d[i]<ptr target="#tn18" n="18"/> <lb/>
+vostra Serenità perché egli trovasse qualche expediente, et mezo <lb/>
+per far pagar li detti supplicanti, a fine di poter in ogn’altra <lb/>
+occorrenza avanzar maggiormente il servitio della serenissima Republica <lb/>
+et avertirne la Serenità vostra. Sopra che havendolo noi indotto <lb/>
+a raccomandarle seriosamente questo affare, et pagamento confor-<lb/>
+me all’importanza sua; habbiamo voluto giungervi parimente <lb/>
+l’intercessione nostra per li detti patroni, et partionevoli; pregandola <lb/>
+in tanto serenissimo Principe, che la Serenità vostra si compiaccia di <lb/>
+voler interporre, et applicar la sua autorità acciò li detti <lb/>
+supplicanti possino esser pagati del detto noleggio, et spese stante <lb/>
+che non hanno risparmiato d’impiegare li loro vascelli, et <lb/>
+danari in servitio di vostra Serenità havendo il solo riguardo al <lb/>
+bon pagamento ch’è stato fatto da vostra Serenità, alli vascelli <lb/>
+ch’han transportato il regimento del conte Gio. Arnesto<ptr target="#tn19" n="19"/>
+<pb n="005v" facs="06_005v" rend="0"/>
+di Nassau di buona memoria. Et non sopra la persona del detto <lb/>
+conte di Levestehin, il che tanto più l’ha mossi a lasciar che siano <lb/>
+levate tutte le armi, et vestimenti de’ suoi soldati, ch’erano bas[ta-]<lb/>
+ti<ptr target="#tn20" n="20"/> per il loro pagamento, il che in maniera alcuna, […-]<lb/>
+bono fatto, se non havessero preso sicuro<ptr target="#tn21" n="21"/> riguardo quanto […] <lb/>
+sopra la serenissima Republica et sopra la fama altissima et ono[…] <lb/>
+lei, come essi asseriscono; nel che vostra Serenità farà quello […-]<lb/>
+demente importa all’avanzamento del suo servitio, et a no[…] <lb/>
+grandissimo piacere per il mantenimento del rispetto, et credit[o] <lb/>
+con li nostri vassalli in simili occorrenze, il che attendendo pre-<lb/>
+gamo il Creatore etc. Nell’assemblea delli Stati Generali <lb/>
+li 3 di marzo 1618. </p>
+<pb n="006r" facs="06_006r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="006v" facs="06_006v" rend="270"/>
+<p>Lettera delli signori Stati per <lb/>
+li mercanti interessati <lb/>
+nella condotta del conte di <lb/>
+Levenstein </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "et pur" uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-oss-" is the result of a correction.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Open parenthesis is not followed by a corresponding close parenthesis.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "p" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "s-" is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-e" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-a-" corrected above "-e-."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Tear in the inner margin.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> All the integrations and omissions on this page are due to damage to the support.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

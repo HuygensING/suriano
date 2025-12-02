@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.004 date 1622-03-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">004</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 25r-27v, 34r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">25r-27v, 34r-v, 29r-v, 32r-v, 28r-v, 30r-31v, 33r-v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of a large packet of letters, including some for Lando which he will send to London. Pleads to send him his pay. Isabella has sent two commissioners to ’s Hertogenbosch to see whether they can cut some dikes, people are guarding some of the crucial border regions. The fortifications near Cadzand continue. The States general have made agreements with the ambassador of Brandenburg regardin Jülich-Klees. Du Maurier has made a complaint about the ship set for La Rochelle and no further news from London about VOC negotiations. Reports have arrived on a potential peace with Algiers and the edict against the Jesuits has been published. Two documents attached: a letter from Algiers and an edict against the Jesuits</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1622-03-21">21 marzo 1622</date>
+            <num>007, 008, 009</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="007">
+<div type="main" facs="main text of letter" n="007">
+<!--<p>21 marzo 1622, L’Aia (cc. 25r-27v, 34r-v)</p>-->
+<pb n="025r" facs="11_025r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 377 fin 378 </p>
+<p>Serenissimo Principe </p>
+<p>hoggi sul far della sera ho ricevuto un grosso pacchetto con <lb/>
+lettere pubbliche, et particolari dell’eccellentissimo signor ambasciator Lando, che <lb/>
+costì sono state poste per errore sotto a mia coperta, et dimani <lb/>
+le invierò a quell’eccellentissimo signore. </p>
+<p>Credo, che all’Eccellenza sua sarà così capitato il mio pacchetto; me ne <lb/>
+duole per publico rispetto per gl’avvisi, et commissioni, che mi <lb/>
+potevano venir da lei; ma anco per il mio particolare mentre <lb/>
+con brama, et gran desiderio aspetto provisione alla mia <lb/>
+gran necessità; sperando che vostra Serenità haverà compassionato <lb/>
+il mio stato nel sentirmi di tanto tempo fa senza l’or-<lb/>
+dinario mio trattenimento, che se non è seguito, voglio <lb/>
+promettermi, che la sua pietà l’haverà messa a dar buoni <lb/>
+ordini; et a sovenir anco in altra maniera la mia povera <lb/>
+fortuna. </p>
+<p>Dalla risolutione presa da questi signori di far tagliar l’argine, che <lb/>
+ha anegato, et fatto danno considerabile a’ Spagnuoli in <lb/>
+Fiandra la serenissima Infanta con il Consiglio risolvé di <lb/>
+mandar doi commissarii a Bolduch, a fine di veder come <lb/>
+si potesse tagliar altre diche<ptr target="#tn1" n="1"/>, che rispondono nel <lb/>
+Paese possesso da questi signori. Cioè quelle di Husden, et <lb/>
+Altenà, che inferisce in questa Provincia, et quelle <lb/>
+di Bommels Weert Tiels Weert, et Maslans Waes <lb/>
+in Gheldria. Li commissarii arrivorono, ma ho <lb/>
+anco inteso, che ’l governator di Bolduch Grabendon<ptr target="#tn2" n="2"/>
+<pb n="025v" facs="11_025v" rend="0"/>
+habbi sconsigliato il taglio per qualche suo interesse massime dalla <lb/>
+parte di Holanda; questo però doppo esser stato tentato <lb/>
+in Gheldria di venir a qualche effetto; ma avvertiti li <lb/>
+paesani concorsero in buon numero dove già si era comin-<lb/>
+ciato per far il taglio, et l’impedirono. Hora li medesimi paesani <lb/>
+in quei contorni fanno diligente guardia, et li signori Stati <lb/>
+hanno dato ordine ai magistrati delle Amiralità perché sopra <lb/>
+quelle fiumare scorrino notte, et giorno barche armate <lb/>
+al medesimo effetto. </p>
+<p>Verso la parte di<ptr target="#tn3" n="3"/> Husden in questa Provincia il Governator <lb/>
+di quella piazza, ch’è il general dell’artiglieria partì di qua <lb/>
+giovedì passato in diligenza per dar buoni ordini, et accor-<lb/>
+rer al bisogno, che potesse haversi contra l’intrapresa <lb/>
+che sopra quelle diche o argini potessero far Spagnuoli. </p>
+<p>Sopra l’isola di Casant il luogotenente generale dell’arti-<lb/>
+glieria, che vi commanda ha fatto alzar con terreno <lb/>
+un dosso tanto, che con il canone<ptr target="#tn4" n="4"/> può batter<ptr target="#tn5" n="5"/> , et incom-<lb/>
+modar gli operarii dei forti, che gl’inimici fanno fabri-<lb/>
+care sopra la riva opposita alla detta isola; ma <lb/>
+usano anco Spagnuoli una finezza assai grande perché tengono <lb/>
+continue sentinelle, che riguardano attentamente alla parte <lb/>
+del tiro del canone, et subito che s’accorgono<ptr target="#tn6" n="6"/> del fumo<ptr target="#tn7" n="7"/> <lb/>
+avvisano<ptr target="#tn8" n="8"/>; et gli operarii si gettano stessi a terra, lascian-<lb/>
+do passar il colpo; ma ben spesso ne viene colto qualcheduno. </p>
+<pb n="026r" facs="11_026r" rend="0"/>
+<p>Li forti, che fanno far Spagnuoli in quella parte sono doi <lb/>
+uno di cinque, l’altro di quattro rivelini, havendo per <lb/>
+fine di ridur in un canale l’acqua salsa sopra la dolce <lb/>
+per divertir il corso di quella, che affonda grandemente <lb/>
+presso l’Esclusa, et così la fortifica tanto più; ma con <lb/>
+il taglio già fatto far da questi signori sperano haver <lb/>
+contraminato, et si promettono di haver messa quella <lb/>
+piazza in assai buona sicurezza. </p>
+<p>Si attende di qua ad altre provisioni necessarie; mentre <lb/>
+anco Spagnuoli continuano a rinforzar le loro compagnie, <lb/>
+et le nuove levate. </p>
+<p>Li deputati commessi dalli signori Stati per trattar con il conte di <lb/>
+Swarzembergh venuto qui a nome del marchese <lb/>
+elettore di Brandemburgh hanno ridotte insieme <lb/>
+con lui le cose della confederatione a termine di <lb/>
+conclusione; havendosi stabilito, che li signori Stati mante-<lb/>
+niranno le restanti piazze, che sono alla devotione <lb/>
+di sua Altezza nei ducati di Cleves, et Giuliers, et <lb/>
+che dall’altro canto per una portione della spesa <lb/>
+che sarà di somma di gran lunga maggiore a questi <lb/>
+signori, sua Altezza contribuerà per la paga di mille <lb/>
+cinquecento fanti, et lascierà che sue Eccellenze tirino in quei <lb/>
+paesi fino ad un certo segno quel profitto, che <lb/>
+potranno. Vi sono altre conditioni a<ptr target="#tn9" n="9"/> beneficio commune
+<pb n="026v" facs="11_026v" rend="0"/>
+et tanto per il trafico, che per la religione, et per altro. </p>
+<p>Fu la settimana passata il signor ambasciator di Francia in audienza <lb/>
+per compiangersi di quelle navi, che erano in Tessel armate, <lb/>
+et piene di munitioni, et apprestamenti da guerra destinate <lb/>
+per la Rocella, procurando, che fosse impedito, et non fosse <lb/>
+lecito ad alcuno il portar armi, et provisioni, et di genti <lb/>
+et d’altro agl’inobedienti, et sudditi ribelli del Re suo signore. <lb/>
+Fu iscusato dai signori Stati con dire, che non si sapeva <lb/>
+et preso tempo ad informarsene: in tanto può esser che <lb/>
+le navi siano uscite. Non sono da guerra, ma di <lb/>
+mercanti, che traficano. Con questo si cuopre, et con dire <lb/>
+che per tirar le contributioni dai particolari non si poteva <lb/>
+così facilmente interdir loro il comercio; la qual voce capitata <lb/>
+all’orrecchio dell’Ambasciatore, et dei stessi Francesi del partito <lb/>
+del Re non si acconsente, onde viene temuto, che si <lb/>
+accresca sempre più il disgusto della Corona di Francia <lb/>
+contra queste Provincie. </p>
+<p>Di Londra non hanno li signori Stati avviso alcuno che loro sodisfi <lb/>
+anzi temono, che li suoi ambasciatori tornino senza frutto <lb/>
+alcuno del viaggio. Qui però si sono trovati la passata <lb/>
+settimana molti delli aministratori della Compagnia <lb/>
+dell’Indie Orientali per trattar sopra qualche ripiego, che <lb/>
+si potesse inventare per dar sodisfatione a quelli d’Inghilterra <lb/>
+con minor interesse, che sia possibile di questa Compagnia
+<pb n="027r" facs="11_027r" rend="0"/>
+ma non sento, che habbino li signori Stati potuto spuntare né <lb/>
+ridur li aministratori a rilasciarsi dalle prime pretensioni <lb/>
+et durezze guidati dall’interesse. Et questo signor Ambasciator inglese <lb/>
+che volontieri vedrebbe sodisfatto il suo Re, et in <lb/>
+un medesimo tempo nell’antica unione queste Provincie <lb/>
+con la Maestà sua. Si duole di questa durezza, et <lb/>
+mostra restar disgustato della maniera di fare. </p>
+<p>Già alcuni mesi li signori Stati ispedirono verso Algieri un tal <lb/>
+Manreques per trattar d’accordo con quei corsari, et parmi, <lb/>
+che habbi spuntato; onde hanno scritto lettere a questi signori <lb/>
+del tenore, che vostra Serenità intenderà dall’aggiunta tradutione <lb/>
+che in sostanza contiene, che vogliono haver la pace <lb/>
+che consigneranno li schiavi sudditi di questi paesi <lb/>
+a quel personaggio, che sarà mandato da essi; che da <lb/>
+mo’ innanti non saranno li vasselli di questi signori toccati da <lb/>
+loro; che haveranno libero comercio; et si uniranno <lb/>
+seco quando voglino adoperar l’armi contra la Spagna. <lb/>
+Non pare, che da tutti sia laudata questa risolutione <lb/>
+mentre si teme, che accompagnandosi con Turchi possino <lb/>
+precipitar alla ruina contro Spagnuoli; parendo che <lb/>
+quando ciò seguisse sarebbe con detrimento della <lb/>
+christianità tutta: in oltre non si fa fondamento <lb/>
+della fede di coloro; et che si vede bene, che <lb/>
+l’accordo non è per altro se non perché andando al
+<pb n="027v" facs="11_027v" rend="0"/>
+presente li vasselli de’ mercanti accompagnati, ben armati, <lb/>
+et colla scorta di navi da guerra non veggono di poter <lb/>
+far protitto, come facevano per avanti, quando andavano <lb/>
+disuniti; et si persuade alcuno che possi un giorno succeder <lb/>
+qualche inconveniente. </p>
+<p>Quaranta in circa sono li vasselli mercantili, che con quattro <lb/>
+navi da guerra al principio del mese venturo partiranno <lb/>
+per Italia. La più gran parte carichi di formenti<ptr target="#tn10" n="10"/>, et altre <lb/>
+biade per Genova, et per Livorno. </p>
+<p>È stato in questa Provincia publicato l’editto delli<ptr target="#tn11" n="11"/> signori <lb/>
+Stati contro iesuiti, et altri sacerdoti dipendenti <lb/>
+del quale n’ho fatta far la translatione che sarà qui <lb/>
+aggiunta per quelli dell’Eccellenze vostre che havessero gusto <lb/>
+di vederla. Li preti secolari del Paese non sono cacciati <lb/>
+ma devono notificarsi ai magistrati, come di già molti <lb/>
+hanno fatto. Viene detto, che li iesuiti habbino in <lb/>
+buona parte fatta la ritirata così consigliati da’ suoi <lb/>
+devoti; tuttavia si tiene per fermo, che ancor ne restino <lb/>
+nel Paese. Et viene affermato haver essi sedotti<ptr target="#tn12" n="12"/> in <lb/>
+maniera<ptr target="#tn13" n="13"/> alcuni de’ catholici, che come prima si <lb/>
+mostravano affettionati alla Patria; così al presente <lb/>
+si dano a conoscer partiali suoi nemici. Et da <lb/>
+questi signori per quanto si scuopre si tenterà ogni stradda <lb/>
+per levarsi dinanti essi iesuiti, che chiamano pietre
+<pb n="034r" facs="11_034r" rend="0"/>
+di scandalo. Li catholici stano in timore, se ben si aveggono <lb/>
+che ’l rigore de’ magistrati nasce dall’insolenza delli <lb/>
+arminiani, come riverentemente accennai hoggi otto nella<ptr target="#tn14" n="14"/> mia<ptr target="#tn15" n="15"/> <lb/>
+lettera<ptr target="#tn16" n="16"/> n° 376 che sarà aggiunta replicata con queste. Gratie etc. </p>
+<p>Dall’Haya li 21 marzo 1622. </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="034v" facs="11_034v" rend="0"/>
+<p>Al signor principe di Venetia </p>
+<p>prima </p>
+<p>n° 377 fin 378<ptr target="#tn17" n="17"/> </p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="007">
+<!--
+<p n="034vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 marzo 1622 ricevute 6 aprile </p>
+<p>Haia. n° 377 </p>
+<p>L. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="008" corresp="007" source="29r-v, 32r-v" >
+<div type="main" facs="main text of attachment I" n="008" corresp="007" >
+<!--<p>Allegato I al n. 7 (cc. 29r-v, 32r-v)</p>-->
+<pb n="029r" facs="11_029r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya de’ 21 marzo 1622 n° 377<ptr target="#tn18" n="18"/> </p>
+<p>Lettera d’Algieri alli signori Stati </p>
+<p>Al nome di Dio omnipotente </p>
+<p>Alli grandi, et altissimi signori protettori della fede christiana li Stati <lb/>
+Generali de’ Paesi bassi desideriamo salute, et intiera prosperità. <lb/>
+Arrivando questa nostra missiva, arriverà insieme la pace, et <lb/>
+nostra benevolenza. Doppo alcuni giorni passati habbiamo <lb/>
+ricevuta una lettera<ptr target="#tn19" n="19"/> per mano del nostro consigliero Gio. <lb/>
+Manricque, colla quale da voi è richiesta la pace, et intiera <lb/>
+amicitia, comme noi l’habbiamo già promessa. In tutto questo <lb/>
+tempo non è arrivata persona delli Stati; né habbiamo <lb/>
+ricevuto novelle alcune. Li nostri vasselli da guerra <lb/>
+sono usciti<ptr target="#tn20" n="20"/>, et hanno rancontrato molti vasselli dei vostri <lb/>
+stati, li quali si sono batuti con li nostri, non volendo avicinarsi <lb/>
+né abbassar le vele, come era stato proposto. Hora vedendo <lb/>
+adunque la vostra missiva habbiamo stimato a proposito metter <lb/>
+nelle mani del vostro Consigliero li christiani fiaminghi, che <lb/>
+qui habbiamo fatti schiavi, li quali noi lascieremo partir <lb/>
+verso la loro Patria, subito che uno dei vostri vasselli da <lb/>
+guerra, et un personaggio con lettere sarà arrivato qui per <lb/>
+confermatione, in modo che il tutto sarà bene. Et promettiamo <lb/>
+per l’avenire a nome di Dio, et del nostro profetta di con-<lb/>
+servar la vera amicitia, et pace. In caso, che li vostri mer-<lb/>
+canti desiderino venir a traficar con mercantie potranno <lb/>
+farlo liberamente; et in caso che li vostri vasselli da guerra <lb/>
+si voglino armar con li nostri per andar contra Spagna <lb/>
+possono venir francamente: perché<ptr target="#tn21" n="21"/> da mo’ innanti la vostra <lb/>
+amicitia è la nostra, et l’inimico vostro, il nostro nemico <lb/>
+di modo che come il Consule vostro è in Turchia, così sarà <lb/>
+egli parimente qui sotto la difesa del nostro gran signore
+<pb n="029v" facs="11_029v" rend="0"/>
+stante che il suo scritto non contraria punto a quello, che ha <lb/>
+commendato. Noi habbiamo ordinato ai nostri vasselli <lb/>
+già usciti, o che usciranno ancora, che rancontrando essi <lb/>
+vostri vasselli in mare non li faccino alcun male, o non li levino <lb/>
+né le loro vele, né ancore, o cosa che li appartenga; di modo <lb/>
+che sarà commandato allo stretto quello che habbiamo proposto <lb/>
+cioè che arrivando li nostri vasselli li accosteranno tirando <lb/>
+dei loro canoni in segno di amicitia; et per l’avenire sarà <lb/>
+la nostra pace pace*, parola parola*, et la nostra assicuranza <lb/>
+sicura. Et al ricever delle presenti scriveteci, et mandetici in <lb/>
+sorte come trovarete ispediente con li vasselli da guerra <lb/>
+et noi faremo secondo il desiderio vostro. Data in Algieri <lb/>
+all’ultimo di Mosserana nell’anno 1031<hi rend="superscript">me</hi>. </p>
+<p>Sottoscritto </p>
+<p>Hurian Bassa </p>
+<pb n="032r" facs="11_032r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="032v" facs="11_032v" rend="270"/>
+<p>1 </p>
+<p>Lettera di Algieri </p>
+<p>nella prima n° 377 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="009" corresp="007" source="28r-v, 30r-31v, 33r-v" >
+<div type="main" facs="main text of attachment II" n="009" corresp="007" >
+<!--<p>Allegato II al n. 7 (cc. 28r-v, 30r-31v, 33r-v)<ptr target="#tn22" n="22"/></p>-->
+<pb n="030r" facs="11_030r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya de’ 21 marzo 1622 n° 377<ptr target="#tn23" n="23"/> </p>
+<p>Editto delli Stati generali contro iesuiti, suoi ricettatori, et per <lb/>
+levar dalle loro scole, et collegi li figlioli de’ sudditi del Paese <lb/>
+et per la prohibitione delle colette </p>
+<p>Li Stati Generali de’ Paesi Bassi Uniti. A tutti quelli, che vedranno, o udiranno <lb/>
+le presenti salute. Poiché non ostante l’espiratione della tregua, onde <lb/>
+questi Paesi sono di nuovo caduti in guerra aperta contra il re di <lb/>
+Spagna, et gl’adherenti suoi, in ogni modo la pernitiosa, et mor-<lb/>
+tifera setta de’ iesuiti, et altri preti, monachi, et altre persone nominate <lb/>
+ecclesiastiche, che sono della religione romana, tentano d’entrar in questi paesi, <lb/>
+et città, et nelli territorii per attirar col mezo della loro falsa dottrina <lb/>
+gl’inhabitanti all’idololatria<ptr target="#tn24" n="24"/>, et retirarli dalla legitima superiorità <lb/>
+loro, et contra di essa instruirli ad ogni sorte di tradimenti, come <lb/>
+anco al massacro de’ principi, et potentati a fine di dar con tal <lb/>
+mezo avantaggio alla tirannia, et dominatione assoluta del re di <lb/>
+Spagna, et de’ suoi adherenti sopra questi paesi in temporale, et del <lb/>
+papa di Roma, et suoi seguaci nel spirituale, tenendo qui nel Paese <lb/>
+ogni sorte di conventicole interdette, a pregiudicio<ptr target="#tn25" n="25"/> dello stato del <lb/>
+Paese; parimente cercando di levar li figlioli dall’obedienza dei loro <lb/>
+parenti; et le donne dal debito loro verso li suoi mariti; come <lb/>
+s’è veduto chiaro per diversi atti; per il che da noi, et dalli signori <lb/>
+Stati delle provincie particolari, seguitando il lodevol essempio di <lb/>
+molti re, et republiche sono stati fatti diversi editti, alli <lb/>
+quali colle presenti non intendiamo derogar in alcuna maniera, eccetto <lb/>
+in quella parte, in che per queste viene altrimenti statuito; ma a fine <lb/>
+di tanto meglio scacciar li detti huomini tristi, et pernitiosi siamo <lb/>
+constretti di proveder in oltre ancor di vantaggio contro di essi; <lb/>
+et per tanto abbiamo prohibito, et interdetto, prohibimo, et colle <lb/>
+presenti interdicemo, che alcun iesuita, o altro, che fosse in grado <lb/>
+eminente, o in parte del loro ordine meno preti, monachi, o <lb/>
+altre persone professe, che sono della detta religione romana
+<pb n="030v" facs="11_030v" rend="0"/>
+potranno entrar, né fermarsi nei Paesi Bassi Uniti, et piazze<ptr target="#tn26" n="26"/> annesse <lb/>
+ancorché siano nativi del Paese, o non; et habbiamo ordinato, et <lb/>
+ordinamo con queste, che tutti li iesuiti, o che sono in alcun grado <lb/>
+o parte del loro ordine, che al presente si trovano nel Paese, doveranno <lb/>
+uscirne fuori nello spatio di sei giorni doppo la publicatione di queste <lb/>
+sotto pena, che tutti quelli, che doppo li 6 giorni sudetti saranno <lb/>
+trovati in questi paesi o appresso la data delle presenti entreranno di <lb/>
+fuori in essi saranno tenuti di buona presa, da esser ranzonati<ptr target="#tn27" n="27"/> <lb/>
+come nemici del Paese, et come tali potranno esser ritenuti, et <lb/>
+arrestati, et dati in mano all’officiale del luoco per esser con la <lb/>
+conoscenza, saputa, et buon piacer del magistrato ranzonati <lb/>
+per la prima volta tanto alto, che si potrà, et in ogni caso<ptr target="#tn28" n="28"/> non <lb/>
+meno, che cento lire de’ grossi di Fiandra (cioè 600 fiorini) per <lb/>
+ogni persona, delli quali quelli, che nella sudetta maniera li have-<lb/>
+ranno ritenuti, o altrimenti fattolo saper all’officiale in modo, <lb/>
+che quei tali siano capitati in mano, haveranno li tre quarti <lb/>
+et l’officiale l’altra quarta parte; et per la seconda volta, che li <lb/>
+medesimi saranno publicamente frustati, banditi, et posti in pena <lb/>
+secondo l’occorrenza delli affari a beneficio come di sopra: et essendo <lb/>
+presi per la terza volta saranno castigati ancor più gravemente nella vita <lb/>
+come perturbatori della quiete publica con confiscatione di tutti li loro <lb/>
+beni; facendo interdittione totalmente espressa a tutti li collegi ai <lb/>
+quali è permesso di poter dar passaporti di non conceder a tali <lb/>
+alcun passaporto senza previa notitia nostra. </p>
+<p>Prohibimo parimente a tutti gl’inhabitanti del Paese l’albergar<ptr target="#tn29" n="29"/>, o allog-<lb/>
+giar alcuna di tali persone<ptr target="#tn30" n="30"/> sotto pena di cento lire di grossi <lb/>
+di Fiandra (cioè 600 fiorini) per la prima volta; per la 2<hi rend="superscript">da</hi> <lb/>
+di doiciento (cioè 1200 fiorini) et per la terza di esser castigati nella <lb/>
+vita, et banditi con confinatione dei beni. </p>
+<p>Prohibimo<ptr target="#tn31" n="31"/> insieme a tutti gl’inhabitanti di questi paesi l’haver cor-<lb/>
+rispondenza con<ptr target="#tn32" n="32"/> le sudette persone sia con lettere, o altrimenti, <lb/>
+aggiungendo a cadauno, che riceverà da essi alcune lettere di presentarle
+<pb n="031r" facs="11_031r" rend="0"/>
+ai principali officiali, o alli magistrati delle città o territorii<ptr target="#tn33" n="33"/> <lb/>
+sotto pena di 50 delle dette lire di Fiandra (cioè 300 fiorini) <lb/>
+per cadauna volta, tanto, et così spesso, che saranno trovati haver fatto <lb/>
+in contrario. </p>
+<p>Et quanto s’aspetta a’ preti a’* preti*, curati, monachi, o altre persone, che <lb/>
+professano la detta religione romana, non essendo iesuiti, che di lungo <lb/>
+tempo passato hanno havuta habitatione in questi paesi essi saranno <lb/>
+obligati nel termine di 8 giorni doppo la publicazione di queste <lb/>
+darsi a conoscer al magistrato della loro residenza con il loro <lb/>
+nome, et piazza della loro residenza, a fine che ne sia tenuta <lb/>
+notitia, et pigliata guarda sopra li loro comportamenti, sotto <lb/>
+pena di esser contra li medesimi proceduto in conformità di quello <lb/>
+che per il passato fu statuito contra li detti iesuiti; et ordiniamo <lb/>
+inoltre, che le dette persone si comportino, et si regolino in <lb/>
+conformità dell’ordinanze, et editti del Paese; sotto pena facendo <lb/>
+in contrario di esser castigati conforme ad essi. </p>
+<p>Prohibimo anco a tutti gl’inhabitanti di questi paesi loro medesimi o <lb/>
+suoi figli, o altre persone sopra li quali haveranno commandamento l’<lb/>
+inviar, o metter alla scola in alcune città, o piazze università <lb/>
+o scole sotto il commandamento del re di Spagna nel paese inimico, o <lb/>
+in altri collegii de’ iesuiti; aggiungendo, et commandando a tutti <lb/>
+tali, che essi, o li figli che vi haveranno messi, o fatti metter <lb/>
+li retireranno di là nello spatio di un mese doppo la publicatione <lb/>
+di queste sotto pena di cento fiorini per mese per cadaun figliolo <lb/>
+o persona, che anderà, o starà alla<ptr target="#tn34" n="34"/> scola, et per così lungo tempo <lb/>
+che saranno trovati haver contrafatto a questi nostri commandamenti <lb/>
+da esser pagate<ptr target="#tn35" n="35"/> le dette pene per li parenti, tutori, ricevitori, <lb/>
+o administratori dei loro beni, interdicendo anco espressamente <lb/>
+a tutti li habitanti in questi<ptr target="#tn36" n="36"/> paesi<ptr target="#tn37" n="37"/>, o che li frequentano di <lb/>
+far o far far direttamente, o indirettamente alcune colette, o <lb/>
+raccolte di denari per et a beneficio di qualche chiese, hospitali, <lb/>
+collegi ecclesiastici, o altri conventi, come potrebbono esser nominati,
+<pb n="031v" facs="11_031v" rend="0"/>
+né ad alcune nominate spirituali persone, sotto<ptr target="#tn38" n="38"/> il commandamento <lb/>
+del re di Spagna, o suoi adherenti, come anco stando, o habitando in <lb/>
+qualche altro paese romano, o papistico; come similmente noi prohibimo <lb/>
+espressamente il transportar tal raccolte di denari fuori del Paese, o ri-<lb/>
+metterlo per assignatione, né in qual si voglia maniera sia direttamente <lb/>
+o indirettamente soministrarlo alle sopranominate persone, collegi, conventi, <lb/>
+o altri luochi; o assister perché detti denari raccolti, o qualche altro <lb/>
+oro, o argento batuto o non batuto o qualche altro bene, o rendita <lb/>
+sia inviato, o rimesso; sotto pena a tali, che faranno simil colette, o <lb/>
+che l’impediranno nel farle di esser puniti a morte, et a confisca-<lb/>
+tione di tutti li loro beni; et quelli, che conduranno tali danari <lb/>
+alli detti iesuiti, o altre nominate ecclesiastiche persone, collegi, conventi <lb/>
+o aministratori di chiese, et case, et hospitali arbitralmente<ptr target="#tn39" n="39"/> nel <lb/>
+corpo con la confiscatione dei beni secondo l’importanza <lb/>
+delli affari. Et che tutti quelli, che per l’avenire saranno tro-<lb/>
+vati haver contribuito alcun denaro perderanno cento lire <lb/>
+di grosii (cioè 600 fiorini) cadauno tante volte quante saranno <lb/>
+trovati haver ciò fatto. </p>
+<p>Tutte le quali altre pene, et confiscationi noi habbiamo dichiarato, et <lb/>
+dichiariamo per le presenti, che saranno applicate per l’una metà <lb/>
+a beneficio dell’accusatore, et per l’altra metà a beneficio dell’<lb/>
+officiale, che farà l’essecutione: dichiarando anco, che per tutte <lb/>
+le contraventioni perpetrate contrarie a questa nostra ordinanza <lb/>
+et che doppo potranno esser scoperte non ostante qualche <lb/>
+tempo scorso saranno castigati non altrimenti come se fossero <lb/>
+perpetrate, et discoperte frescamente; et quelli che non haveranno <lb/>
+di che sodisfar le dette pene o condanne<ptr target="#tn40" n="40"/> saranno castigati <lb/>
+nel corpo: ordinando a tutte corti di giustizia, giudici, <lb/>
+et giustitieri di questo Paese di aministrar in ciò buona, <lb/>
+et breve giustitia, et dritto de plano, et senza forma di <lb/>
+processo senza alcuna diminutione di pene, o altra dissimulatione
+<pb n="028r" facs="11_028r" rend="0"/>
+a fine che questa nostra ordinanza possi tanto meglio esser <lb/>
+osservata. Dichiaramo anco, che tutti li officiali, che nell’esse-<lb/>
+cutione di questo ordine nostro per negligenza, o altrimenti lascie-<lb/>
+ranno di proceder prontamente nella maniera, che si appartiene <lb/>
+saranno privi dei loro carichi, et officii li quali saranno pron-<lb/>
+tamente impetrabili da altri. </p>
+<p>Et a fine che non vi sia alcuno, che di ciò possi pretender igno-<lb/>
+ranza ricerchiamo, et commandamo ai stati, governatori, consiglieri <lb/>
+deputati, et deputati di città nelle provincie respettive <lb/>
+di Gheldria, et contado di Zutphen, Holanda, et Westfrisia, <lb/>
+Zelanda<ptr target="#tn41" n="41"/>, Utrecht, Frisia, Ourisel, et città di <lb/>
+Grunighen, et paese incorporato, et tutti altri iusdicenti, et <lb/>
+officiali a chi possono aspettar queste nostre, che essi faccino <lb/>
+proclamar, cridar, et pubblicar immediate questa nostra <lb/>
+ordinanza nel luoco, dove è l’ordinario far le proclamationi <lb/>
+et pubblicationi; procedendo, et facendo proceder contra <lb/>
+li contravenienti ad essa senza gratia, favore, dissimulatione <lb/>
+o conivenza; poiché habbiamo trovato tutto ciò convenevole <lb/>
+per il servitio del Paese. Così fatto, et stabilito nell’assemblea delli <lb/>
+alti nominati li signori Stati Generali nell’Haya a’ 26 febraro 1622. </p>
+<pb n="028v" facs="11_028v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="033r" facs="11_033r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="033v" facs="11_033v" rend="270"/>
+<p>2<lb/>
+<lb />Editto contra iesuiti </p>
+<p>nella prima n° 377 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Improper or peculiar spelling by the writer; "d-" corrected above "D-."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-on" is the result of a correction.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "Holanda" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Is the result of a correction.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "b-" is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "-no" corrected above "-e", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-o" is the result of a correction.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "-i" is the result of a correction, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "di" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "Seals in red wax. Presumably a Slit-and-band letterlock."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> This information was added upon receipt by a secretary.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> Followed by "del" crossed out.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Followed by "nell" crossed out.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Mistake in numbering of the folios cc. 28r-v, 30r-31v.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> This information was added upon receipt by a secretary.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Followed by a crossed-out sign.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> First "-z-" is the result of a correction.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Is the result of a correction.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "-l-" corrected above "-r-."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "-r-" is the result of a correction.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "-o-" is the result of a correction.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "a-" corrected above "ne-."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "-e" corrected above "-a."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "-i" is the result of a correction.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Followed by "pena" crossed out.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "-m-" is the result of a correction.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Is the result of a correction.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Precedes "Zrunighen" crossed out.</p></note>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 10.045 date 1621-07-19</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Angelo</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">10</idno>
+                <idno type="letterno">045</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 10, fol 219r-v, 222r-v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">219r-v, 222r-v, 220r-221v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Admiralty of Amsterdam pretends still needs to be paid more than 20000 florins and Suriano requests instructions. Attached to this letter he includes the Italian translation of the WIC and call for investement which is being published in all the cities. One document attached: "Ordine per la Compagnia delle Indie occidentali"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1621-07-19">19 luglio 1621</date>
+            <num>072, 073</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="072">
+<div type="main" facs="main text of letter" n="072">
+<!--<p>19 luglio 1621, L’Aia (cc. 219r-v, 222r-v)</p>-->
+<pb n="219r" facs="10_219r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 318 comincia 316 </p>
+<p>Serenissimo Principe </p>
+<p>in questo punto sono avvisato dal Calandrini, che li signori dell’Amiralità <lb/>
+d’Amsterdam promuovono la pretensione delli 20 mila et più fiorini, che <lb/>
+trovavano come riverentemente le scrissi fin al principio dell’aprile passato <lb/>
+haver pagato di qua, non sapendo, che all’armata fosse stata pagata <lb/>
+una tal summa all’Amiraglio. Sotto al conto sottoscritto da loro, et <lb/>
+da me vi è la riserva fatta, come la Serenità vostra l’haverà potuta <lb/>
+vedere, di che potrà più a pieno esser informata dal signor Dardani, <lb/>
+ch’è necessario che n’habbi l’informatione per darmi quei ordini, che <lb/>
+stimerà proprii. Io ho rescritto al Calandrini, che a nome loro <lb/>
+m’ha scritto, che mi meraviglio, che promuovino tal difficoltà, <lb/>
+mentre dovevano come hanno promesso retirar il denaro da <lb/>
+chi l’ha havuta sia dalla vedova, o da altri. Et mandando lor <lb/>
+deputati alli Stati anc’io haverei rappresentato la ragione <lb/>
+di vostra Serenità, non essendo conveniente, ch’ella<ptr target="#tn1" n="1"/> habbi a pagar <lb/>
+doi volte starò attendendo ciò che faranno. </p>
+<p>Mi par intender, che quelli anco del vassello abbruggiato contestino <lb/>
+processo in questo Gran Consiglio contra quelli di Roterdam. <lb/>
+Non mi mostrò né molto né poco; ma promosso risponderò <lb/>
+come si conviene. </p>
+<p>Con queste invio a vostra Serenità la translatione dell’ordine mandato <lb/>
+per le provincie a fine di farlo publicare<ptr target="#tn2" n="2"/> in ogni città per <lb/>
+trovar il denaro necessario per il formar il capitale nel negotio <lb/>
+della Compagnia dell’Indie Occidentali. Ho havuti li <lb/>
+capitoli; ma sendo nella lingua fiaminga li farò tradurre <lb/>
+et col prossimo ordinario li invierò colla mia solita riverenza <lb/>
+alla Serenità vostra pochi credono, che questo negotio habbi ad andar avanti <lb/>
+ma per darli calore in ogni modo li signori Stati solecitano quelli della <lb/>
+Compagnia dell’Indie Orientali a metter una buona summa. Gratie etc. </p>
+<p>Dall’Haya li 19 luglio 1621 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="219v" facs="10_219v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="222r" facs="10_222r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="222v" facs="10_222v" rend="180"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 318 comincia 316 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="072">
+<!--
+<p n="222vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>19 luglio 1621 ricevute 4 agosto n° 318 </p>
+<p>Haya. Secretario Suriano. 3<hi rend="superscript">a</hi> </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="073" corresp="072" source="220r-221v" >
+<div type="main" facs="main text of attachment I" n="073" corresp="072" >
+<!--<p>Allegato I al n. 72 (cc. 220r-221v)</p>-->
+<pb n="220r" facs="10_220r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettera 3<hi rend="superscript">a</hi> dall’Haya del secretario Suriano de n° 318 </p>
+<p>Li communi direttori constituiti per formar il capitale per la Compa-<lb/>
+gnia dell’Indie Occidentali fanno saper colle presenti a tutti li <lb/>
+principi, signori, et republiche, nobili, et particolari persone <lb/>
+di qual qualità, et conditione esser potrebbono tanto <lb/>
+dentro a questi Paesi Bassi Uniti, che habitanti fuori di <lb/>
+essi, che qual si sia, che vorrà impiegar alcune summe <lb/>
+di denaro fra li mesi di luglio, agosto, settembre, ottobre <lb/>
+et novembre si potranno adrizzare a *** <lb/>
+*** <lb/>
+dentro questa città, li quali sendo ricercati non mancaran-<lb/>
+no far loro constar li avantaggi, et dritti della soprascritta <lb/>
+Compagnia, che dalli signori Stati Generali alla medesima sono stati <lb/>
+laudabilmente concessi; et anco potranno metter la signa-<lb/>
+tura per quella tal summa di denari, che cadauno vor-<lb/>
+rà impiegare nella detta Compagnia, a contar in tre termini <lb/>
+cioè una terza parte all’espiratione delli soprascritti <lb/>
+cinque mesi, et l’altre doi terze parti nelli tre seguenti anni <lb/>
+se non fosse doppo per risolutione della general assemblea <lb/>
+delli aministratori stimato bene prorogar alcuno dei detti <lb/>
+termini, del che in tal caso saranno li participanti <lb/>
+avvertiti col mezo di biglietti. Notificano anco <lb/>
+a tutti, et cadauno, ch’essi nello spatio di *** <lb/>
+*** giorni nella settimana dalle *** <lb/>
+sin *** hore anco<ptr target="#tn3" n="3"/> si riduranno nel *** <lb/>
+dove li participanti sendo presso di essi insieme congre-<lb/>
+gati potranno venire, o in quell’altre hore, che ad essi <lb/>
+piacerà, potendo adrizzarsi ad uno delli medesimi in particolare
+<pb n="220v" facs="10_220v" rend="0"/>
+a cui vorranno dar la loro signatura. Et accioché ognuno <lb/>
+possi a questo esser più liberalmente invitato notificano insieme <lb/>
+a tutti li medesimi, che doppo le signature fatte, et li capitoli for-<lb/>
+mati saranno eletti, fatti, et constituiti li aministratori delli <lb/>
+più idonei esperimentati, et più participanti per la detta Compa-<lb/>
+gnia sopra il piedi, et conforme all’ordine per lettere publiche <lb/>
+sopra questo preso. </p>
+<pb n="221r" facs="10_221r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="221v" facs="10_221v" rend="270"/>
+<p>Ordine per la Compagnia <lb/>
+dell’Indie Occidentali </p>
+<p>nella 3<hi rend="superscript">a</hi> n° 318 </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "paghi" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "-re" corrected above "-te", uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "a-" is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

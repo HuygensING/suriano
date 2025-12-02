@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.037 date 1618-07-17</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Vera</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">037</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 314r-316v, 321</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">314r-316v, 321r-v, 317r-v, 320r-v, 318r-319v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges receipt of letters 29 June and presented their content to States General, who expressed gratitude regarding the solution for Sticke and liberation of Henrico Verembus. The decision to extend the deployment of the ships is still pending. False reports about the twelve ships still being in Falmouth, apparently they have been spotted near Lisbon. Still no accounts from the three admiralties, encloses several documents on the unauthorised cargo several prominent individuals have loaded on ships destined to Venice. Letter further touches on financial arrangements for handling payments and money transfers. Has instructed Calandrini about ten glass shipments to France and has communicated order by Moro, savio of Terraferma to Contarini Two documents attached: "Nota di robbe poste nella nave S. Marco del borgomastro Bas" and "Lettere delli Signori Stati"</note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1618-07-17">17 luglio 1618</date>
+            <num>086, 087, 088</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="086">
+<div type="main" facs="main text of letter" n="086">
+<!--<p>17 luglio 1618, L’Aia (cc. 314r-316v, 321r-v)</p>-->
+<pb n="314r" facs="06_314r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima </p>
+<p>n° 46 fin 47 </p>
+<p>Serenissimo Principe </p>
+<p>questa mattina ho presentate a’ signori Stati Generali le lettere <lb/>
+di vostra Serenità venutemi con le sue de’ 29 del passato accompa-<lb/>
+gnandole con ufficio conforme alla commissione di lei, a che <lb/>
+fu corrisposto con parole molto affettuose, ringratiando <lb/>
+di quello haveva fatto per lo Stich, et mi parve anco, <lb/>
+che restassero ben impressi delle ragioni portate perché <lb/>
+ella non haveva potuto accordar a diverse sue pretensioni. </p>
+<p>Aggradirono anco grandemente la liberatione del capitano <lb/>
+Henrico Verembus, et mi pregorono di ringratiarne <lb/>
+vostra Serenità. Per esso Capitano in particolare resi anco al signor <lb/>
+principe Mauritio testimonio della stima, che fa la Serenità vostra <lb/>
+delle sue raccommandationi portando l’ufficio con quei concetti in <lb/>
+sostanza, che ho veduti espressi nella copia <lb/>
+delle lettere ch’ella ha scritto all’Eccellenza sua, et ella mi <lb/>
+rispose, che haverebbe conservato obligo del favor <lb/>
+ricevuto, et che potevo assicurarla della sua <lb/>
+ottima volontà verso il servitio di quella serenissima Republica. </p>
+<p>Scrissi riverentemente la passata settimana, che erano <lb/>
+venute le risposte dalle Amiralità toccante l’<lb/>
+intartenir delle navi, et che haverei fatto ufficio <lb/>
+per la risolutione. Così feci, onde se n’è trattato <lb/>
+stano ancor sull’avvisare se debbano assentir per <lb/>
+altri sei mesi, o non limitar tempo: quando si limiti
+<pb n="314v" facs="06_314v" rend="0"/>
+sarà per lo stesso rispetto, che fu per li primi sei mesi dovendo <lb/>
+risponder il Paese: tutto in ogni modo sarà lo stesso <lb/>
+et per l’ordinario venturo credo, che le manderò la <lb/>
+detta risolutione. </p>
+<p>Fu falso riporto alli signori Stati, et<ptr target="#tn1" n="1"/> a me ancora quello <lb/>
+che s’intese del viaggio dei vassello perché si sono <lb/>
+fermati pur troppo nel porto di Valmua; essendovi <lb/>
+fino a cinque del mese passato, come le ho scritto; ma <lb/>
+hieri sua Eccellenza m’ha detto, che lettere di Lisbona avvisavano <lb/>
+che certo erano stati veduti veleggiare di là <lb/>
+del distretto. </p>
+<p>Ancor d’Amsterdam non ho havuti li conti. Ciò nasce dall’<lb/>
+absenza di doi delli signori che erano deputati alla <lb/>
+preparatione dei vasselli; ma mi è promesso, che <lb/>
+presto li haverò. Intanto faccio tradur quelli di <lb/>
+Roterdam, et Northolandia sopra quali finhora <lb/>
+trovo qualche cosa, che deve esser adossata a’ <lb/>
+patroni de’ vasselli, et a’ marinari ancora ne <lb/>
+farò far l’estratto perché si ribatti a chi tocca. </p>
+<p>Mi si pone anco qualche spesa, che non mi sodisfa, <lb/>
+et pur dubito, che mi bisognerà tacere per non <lb/>
+incontrar disgusti, et così pregiudicar al servitio di <lb/>
+vostra Serenità per qualche altra occasione, ch’ella havesse
+<pb n="315r" facs="06_315r" rend="0"/>
+bisogno del mezo di questi magistrati, et officiali <lb/>
+la settimana passata fornii di mandarle li roli delle <lb/>
+genti da mare, et con queste accompagnati alle lettere <lb/>
+44 et 45 ne haverà il duplicato, al quale ho aggiunto <lb/>
+quello che importeranno per mese li viveri, et li salarii <lb/>
+de’ marinari; onde ora saprà con quanto precedente-<lb/>
+mente ho inviato<ptr target="#tn2" n="2"/> come potersi regolare con essi <lb/>
+et insieme con gl’inventarii saprà farsi render conto <lb/>
+delle robbe caricate nelli dodici vasselli di ragione <lb/>
+di vostra Serenità, delle quali ella potrà ben valersi in buona <lb/>
+parte, et massime delle polveri che sono sopra le cinque <lb/>
+navi di Amsterdam: perché ne hanno a sufficienza, <lb/>
+et in sopr’abondanza; et così anco de’ cordaggi et <lb/>
+altri apprestamenti mettendoli a conto del patrone <lb/>
+del vassello quando se ne vagli per accommodarlo, <lb/>
+et mantenerlo conforme al contratto; quando però <lb/>
+il danno non segua per causa di guerra, che in tal caso <lb/>
+resta vostra Serenità obligata. </p>
+<p>Il borgomastro basso d’Amsterdam che ha una sua nave <lb/>
+in servitio di lei ha fatti caricar sopra la nave San <lb/>
+Marco 21 barilla di carne salata,<ptr target="#tn3" n="3"/> alcune <lb/>
+velle, et cordaggi per servitio della detta nave senza <lb/>
+mia saputa. Me ne ha fatta dar solo ultimamente la
+<pb n="315v" facs="06_315v" rend="0"/>
+nota che sarà qui aggiunta; facendosene iscusar meco. Per <lb/>
+esser il soggetto ch’è, principale in Amsterdam non <lb/>
+potrà negarseli, che non sia lasciato<ptr target="#tn4" n="4"/> consignar <lb/>
+il tutto al suo marinaro. </p>
+<p>Anco il capitan Ioost Adrianson da Roterdam caricò certe <lb/>
+gomene, et qualche velle sopra li vasselli di Roterdam <lb/>
+et io glielo permessi per la buona relatione, che fece <lb/>
+qui, che le genti di questo Paese erano ben trattate <lb/>
+in armata. </p>
+<p>Scrissi all’eccellentissimo signor Capitan general da Mare, che in alcuna delle <lb/>
+navi vi era savorna di balle d’artiglieria, et <lb/>
+piombi, con disegno delli mercanti, che l’hanno posto <lb/>
+di farne essito di là, nel che sarà vostra Serenità preferita <lb/>
+al prezzo corrente: ella nondimeno potrà anco dirlene <lb/>
+il suo volere. </p>
+<p>Mi sono pervenute le lettere di vostra Serenità di cinque mille ducati <lb/>
+et m’incresce di vederle in cosi basso prezzo, non<ptr target="#tn5" n="5"/> però credo <lb/>
+che sia per continuar di questa maniera né habbi <lb/>
+a durar questa larghezza di denaro in Venetia <lb/>
+è stata bene sin qui la rimessa: perché essendomi <lb/>
+convenuto pagar tanto denaro, tutto haverebbe <lb/>
+bisognato pigliar di qua con maggior aggravio del <lb/>
+cambio alla Serenità vostra. Potrà per tanto doppo rimessomi
+<pb n="316r" facs="06_316r" rend="0"/>
+quella summa ch’ella mi accenna, regolarsi secondo <lb/>
+l’opportunità del tempo, et non trovandosi vantaggio <lb/>
+nelle rimesse stimerei (per dir riverentemente il mio senso) che <lb/>
+fosse bene ch’ella pagasse costì li noleggi de’ vasselli, et <lb/>
+benché li partionevoli di essi siano<ptr target="#tn6" n="6"/> sottili nella <lb/>
+materia dell’interesse, credo però che in virtù de’ <lb/>
+contratti mandati alla Serenità vostra, et stipulati con essi non potranno ricusar di ricever li loro pagamenti in quella <lb/>
+piazza, perché pagandoli il ducato per cinquanta piacchi <lb/>
+ho fatta riservar in poter della Serenità vostra il pagarli dove <lb/>
+a lei tornerà meglio. Onde come ho detto se non può haver <lb/>
+il denaro a più di cinquanta piacchi potrebbe pensar <lb/>
+a questo, et sarebbe anco un<ptr target="#tn7" n="7"/> non metter a rischio il <lb/>
+denaro.<ptr target="#tn8" n="8"/> </p>
+<p>Al Calandrini ho dato ordine di star avvertito per li <lb/>
+x colli di vetri destinati per Francia, et di farli <lb/>
+scaricar, et caricar in un istesso tempo nella <lb/>
+nave di Roano, che ordinariamente parte per quella <lb/>
+volta tutti li quindici giorni. Et in tutto io resto <lb/>
+essequirò il commandamento di lei, et l’ordine ricevuto per <lb/>
+sua commissione dall’illustrissimo signor savio di Terraferma <lb/>
+moro. Et già ne ho dato anco parte all’eccellentissimo signor <lb/>
+ambasciator Contarini in Francia. Gratie etc. </p>
+<p>Dall’Haya a’ 17 luglio 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="316v" facs="06_316v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="321r" facs="06_321r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="321v" facs="06_321v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>prima n° 46 fin 47 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="086">
+<!--
+<p n="321vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>17 luglio 1618 ricevute primo agosto </p>
+<p>Haia. n° 46<ptr target="#tn9" n="9"/> prima </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="087" corresp="086" source="317r-v, 320r-v" >
+<div type="main" facs="main text of attachment I" n="087" corresp="086" >
+<!--<p>Allegato I al n. 86 (cc. 317r-v, 320r-v)</p>-->
+<pb n="317r" facs="06_317r" rend="0"/>
+<head>main text of attachment I</head>
+<p>In lettere dell’Haya n° 46 de’ 17 luglio 1618 </p>
+<p>1618 in Amsterdam </p>
+<p>Ady den 10 may gelaeden in schipper Pieter Claessen van Edam voor <lb/>
+schipper Aeryaen Pietersoon Loffen van Enckhuysen wesende <lb/>
+in dienste vanden Signorie van Venetyen 21 tonnen vlees, een <lb/>
+groot zeyl ende groot maerseyl een fock ende voormaerseyl <lb/>
+een cabeltouw met twee trossen, alles tot dienste van schipper <lb/>
+Aryaen Pietserssen. </p>
+<p>Wy ondergeschreven als gemeene reders van Aryaen <lb/>
+Pieterssen, burgemeester Dirck Bas gebroeders <lb/>
+Claes ende Pieter met Cornelis Bas, alsie <lb/>
+mede broeder de burgemeester is in Den Haye <lb/>
+vanwegen de ghemeene lantsaecken, soo <lb/>
+hebbe ick ondergeschreven tselvyge onderteyckent. </p>
+<p>1618 in Amsterdam </p>
+<p>Alli 10 maggio caricate nella nave di Pieter Claessoon di Edam nominato <lb/>
+Santo Marco per consegnar ad Adriano Pieterssoon Loffe<ptr target="#tn10" n="10"/> da Enckhuysen <lb/>
+che è al presento al servitio della signoria di Venetia 21 botte de carne <lb/>
+una grand vela, un altro grand vela detto Maerseyl una picciolo <lb/>
+vela chiamato Fock un altro vela chiamato Vooseyl, una<ptr target="#tn11" n="11"/> <lb/>
+corda di capo con doi<ptr target="#tn12" n="12"/> altre corde detti Trossen, tutto questo <lb/>
+al servitio d’il marinaro Adriano Peterssoon. </p>
+<p>Noi sottoscritti come partionevoli communi d’Aryaen <lb/>
+Pieterssoon, borghemaestro Dirck Bas, frattelli <lb/>
+Nicolo et Pietro et Cornelio Bas, come anco il fratello <lb/>
+borgomaestro che sta nella Hagha per le facende del <lb/>
+commune Paese ho sottascritto et sottosegnato questo. </p>
+<pb n="317v" facs="06_317v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="320r" facs="06_320r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="320v" facs="06_320v" rend="270"/>
+<p>Nota di robbe poste nella <lb/>
+nave San Marco del bor-<lb/>
+gomastro Bas </p>
+<p>nella prima n° 46 </p>
+</div>
+</div>
+<div type="attachment" facs="II" n="088" corresp="086" source="318r-319v" >
+<div type="main" facs="main text of attachment II" n="088" corresp="086" >
+<!--<p>Allegato II al n. 86 (cc. 318r-319v)</p>-->
+<pb n="318r" facs="06_318r" rend="0"/>
+<head>main text of attachment II</head>
+<p>In lettere dell’Haya n° 46 de’ 17 luglio <lb/>
+1618 </p>
+<p>Copia della lettera delli signori Stati ad instanzia dell’in-<lb/>
+teressati nella condotta del conte di Levenstein </p>
+<p>Serenissimo Principe </p>
+<p>gl’interessati proprietarii, et compartecipi de’ vasselli ch’hanno transportato <lb/>
+verso Venetia al servitio di vostra Serenità i soldati levati in queste parti dal signor <lb/>
+conte di Levenstein, grandemente si dogliono, non essendo ancor pagati delle loro <lb/>
+spese, et noleggi; come fanno anco in rispetto delle provision de’ viveri <lb/>
+per i soldati, come il detto signor Conte s’era obbligato (in conformità del con-<lb/>
+tratto, o carta di noleggio fatta sopra ciò, et segnato da lui) cioè che prima <lb/>
+del partir de’ vasselli di Hollanda verso Delfsil, li avvanzarebbe una <lb/>
+parte per far le dette provisioni come ha fatto, et ch’inanti, che li medimi <lb/>
+vasselli facessero vela da Delfsil, o prendessero il mare, li pagherebbe <lb/>
+tutto l’intiero fin a doi mesi di viveri ch’haveva egli promesso il che <lb/>
+parimente Alessandro Vandembergh servitore et agente di Gasparo Quingetti haveva <lb/>
+promesso al signor Christofforo Suriano residente della serenissima republica di Venetia <lb/>
+appresso di noi, cioè di pagarli, havendo a tal fine ricevute dal detto signor <lb/>
+residente, lettere di cambio sopra vostra Serenità di 27 mila ducati da pagarli a <lb/>
+tali designati, et prescritti dal detto Alessandro Vandembergh, et nominatamente <lb/>
+a Gratioso del Calice, et Giacomo, et Thomasso Vancastri, assicurando parimente <lb/>
+detto Alessandro ad esso signor residente per li creditori del detto signor Conte (tra li quali <lb/>
+sono principalmente li suddetti interessati) et in conformità passando al detto <lb/>
+signor residente un rinverso, la copia del quale, è qui aggiunta, per la quale <lb/>
+il detto Vandembergh dichiara ch’esse lettere di cambio saranno nulle <lb/>
+et di nessun valore, come parimente intendeva lo stesso per l’accettatione fatta <lb/>
+o a farsi, et di avantaggio ancora, s’alcun pagamento ne fosse fatto, che <lb/>
+quello dovrebbe esser restituito, quando che però il detto Alessandro Vandem-<lb/>
+bergh non facesse apparer per mano del detto signor residente che tutti li debiti del detto <lb/>
+signor Conte fatti da lui in questo Paese, et a Delfsil fussero pagati, le quali <lb/>
+lettere di cambio (come pare) doppo sono venute alle mani di Gaspar Quin-<lb/>
+getti
+<pb n="318v" facs="06_318v" rend="0"/>
+contro la volontà, et gusto del detto Alessandro Vandembergh, il qual Quingetti, o <lb/>
+li suoi (come li detti interessati ci hanno fatto intendere) hanno ricevuta <lb/>
+una parte di detti danari senza dar qualche cosa alli detti creditori, che <lb/>
+non erano ancor pagati allhora, che le dette lettere di cambio, et il detto ri-<lb/>
+verso furono fatti, a benefitio dei quali, nondimeno esso riversale era <lb/>
+fatto, et dato; havendo per ciò richieste nostre lettere di raccommandatione et rei-<lb/>
+teratione a vostra Serenità a tal fine, che si compiacerebbe di far restituir li detti <lb/>
+27 mila ducati, o tanto quanto può esser ricevuto, et farli fornir prontamente alli <lb/>
+detti creditori, sia costi ai loro commessi, o qui per le mani del detto signor residente <lb/>
+in vertù della detta riversale, sopra la quale, come anco per render buon <lb/>
+servitio alla serenissima Republica i detti interessati partionevoli hanno quietato gl’ochi <lb/>
+et presa la lor certezza. Dichiarando in oltre che s’il detto signor residente <lb/>
+non gl’havesse communicato la detta riversale, et che non havessero per ciò <lb/>
+pensato ch’andavano fermi, et erano assicurati, non haverebbero lasciato <lb/>
+far vela, né partir pur un dì detti vasselli, il che potevan essi far <lb/>
+in vertù delli privileggi di quelle parti di Delfsil. Onde vostra Serenità <lb/>
+havrebbe patito gran pregiuditio, et danno stante ch’in oltre (come <lb/>
+continuavano a dire)<ptr target="#tn13" n="13"/> il danaro, che vostra Serenità ha accordato di pura sua <lb/>
+libberalità al detto signor Conte potevano<ptr target="#tn14" n="14"/> parimente esser impiegato al loro pa-<lb/>
+gamento come medemamente priegano di astringer detto Conte, a satisfar, et <lb/>
+pagar con raggione, intieramente li restanti danari fin all’intiera satisfatione <lb/>
+delle loro provisioni di viveri, et vettura, in conformità della detta carta di <lb/>
+noleggio fuor del suo trattamento ordinario massime essendo tra li detti interessati <lb/>
+partionevoli, et creditori, molte vedove, et orfani ch’hanno grandissimo <lb/>
+bisogno del suo. In modo che<ptr target="#tn15" n="15"/> ben considerate tutte le dette raggioni non <lb/>
+habbiamo potuto riusar alli detti supplicanti il favor della nostra <lb/>
+intercesione. Questo fa adunque serenissimo Principe che noi la preghiamo <lb/>
+iterativamente con molto affetto ch’ella vogl’interporsi in questo affare <lb/>
+per le sudette raggioni, con tal autorità ch’una volta li detti interessati <lb/>
+possino recourare, et ottener pagamento tanto de’ loro restanti provisioni,
+<pb n="319r" facs="06_319r" rend="0"/>
+de’ viveri, et altro, che delle vetture, mettendo in consideratione, che non <lb/>
+hanno risparmiato né li loro vasselli né danaro per far servitio et bene-<lb/>
+ficio alla sererissima Republica sopra<ptr target="#tn16" n="16"/> la quale particolarmente hanno havuta la mira, come <lb/>
+parimente sopra il buon pagamento che fu fatto per li vasselli, che transpor-<lb/>
+torno i soldati del reggimento del signor conte Gio. de Nassau di buon <lb/>
+memoria et punto sopra la persona del detto signor conte Levenstein come dicono <lb/>
+che deve credere, poiché havevano essi buon modo di assicurarsi <lb/>
+se essi havessero una sol volta dubitato, et ciò tanto sopra li vestiti <lb/>
+arme, ch’altre bagaglie de’ soldati ch’erano assai bastanti per il loro <lb/>
+pagamento. Il che facendo usen(…)ta si sollevarà da molta pena, importu-<lb/>
+nità et sollecitationi delli detti interessati, li quali incessantemente <lb/>
+ci molestano, non sena interruttion tal volta delli nostri più gravi <lb/>
+affari del Paese. Et questo è stato anco causa, che noi habbiamo <lb/>
+richiesto il dettro signor Suriano vostro residente a fine di desimbarass-<lb/>
+arsi una volta da<ptr target="#tn17" n="17"/> questa sollecitatione perché volesse aggiunger le sue <lb/>
+alle nostre raccommandationi a vostra Serenità per la fine che di sopra è detta <lb/>
+et la Serenità vostra in altre occasioni si troverà di certo tanto più facilmente <lb/>
+et volontariamente servita, et con minor spesa, et ella ci farà insieme <lb/>
+grandissimo piacere, il che servirà per la conservatione del nostro respetto, et <lb/>
+credito appresso li nostri sudditi il che attendendo preghiamo il Creatore <lb/>
+serenissmo Principe </p>
+<p>di voler mantener, et conservar la persona di vostra Serenità in una perfettissima <lb/>
+sanità et lungha vita. </p>
+<p>Dall’Haya a’ 4 de luglio 1618 </p>
+<pb n="319v" facs="06_319v" rend="270"/>
+<p>Lettera delli signori Stati alla serenissima<ptr target="#tn18" n="18"/> Republica <lb/>
+per gl’interessati nella condotta <lb/>
+del Levenstein </p>
+<p>nella prima </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "come" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "et altri" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "che non" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Is the result of a correction.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "mat" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Followed by "m-" crossed out.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "A-" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "-6" is the result of a correction.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Followed by "grand" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Is the result of a correction.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Followed by "ch’" crossed out.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "-no" is the result of a correction.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "ser(enissi)ma … s(opr)a" is the result of a correction.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "-a" corrected above "-e."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

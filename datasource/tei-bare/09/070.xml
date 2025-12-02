@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 09.070 date 1620-11-24</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">09</idno>
+                <idno type="letterno">070</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 9, fol 346r-349v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                https://www.british-history.ac.uk/cal-state-papers/venice/vol16/pp477-486
+            </note>
+            <biblScope unit="page">346r-349v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>The princes of the union have extorted the States General for assistance and requested they influence Carleton and esp. James I. Further delay to the embassies for England and France as the States of Holland want to examine the letter of instruction. Agreement with Vandentympel they will meet in Watervliet to settle issue of confiscated goods. A lot of speculation about the truce, whether the Spanish actually want peace or only want to buy time. Unclear what Maurice would like regarding the Truce. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1620-11-24">24 novembre 1620</date>
+            <num>106</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="106">
+<div type="main" facs="main text of letter" n="106">
+<!--<p>24 novembre 1620, L’Aia (cc. 346r-349v)</p>-->
+<pb n="346r" facs="09_346r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 51 comincia 50 </p>
+<p>Serenissimo Principe </p>
+<p>li principi dell’Unione con lettere molto piene hanno <lb/>
+fatta instanza a questi signori di continuarli la loro buona <lb/>
+assistenza, et perché colla missione, che faranno di ambasciatori <lb/>
+in Inghilterra diano efficaci ordini di parlar vivamente al Re <lb/>
+né cessar d’eccitarlo a qualche miglior risolutione <lb/>
+pregandoli anco di far ufficio a tal effetto con monsignor <lb/>
+Carleton. Anco al Re hanno scritte lettere in <lb/>
+conformità. Ho saputo, che questi signori non mancaranno <lb/>
+di scriver, et far parlar seriosamente a quella Maestà, <lb/>
+se ben dubitano, che poco frutto siano per riportar <lb/>
+dai loro ufficii. </p>
+<p>La missione di quest’Ambasciata, et di quella di Francia ancor <lb/>
+si diferisce, et l’apparenza dimostra, che sarà bene <lb/>
+la metà del mese ventuno, che non partiranno <lb/>
+dovendosi alli primi ridur la Congregatione di <lb/>
+Holanda. Si sono andate mettendo giù l’instrut-<lb/>
+tioni da alcuni commessi dai signori Stati, ma <lb/>
+qualche deputati di alcuna Provincia vogliono<ptr target="#tn1" n="1"/> <lb/>
+a parte veder, et essaminar dette<ptr target="#tn2" n="2"/> <lb/>
+instruttioni. La congiontura de’ tempi, gl’acci-<lb/>
+denti passati, et l’incertezza di quello Spagnuoli <lb/>
+habbiano<ptr target="#tn3" n="3"/> in animo di fare causano anco la
+<pb n="346v" facs="09_346v" rend="0"/>
+irrisolutione, et dilatione all’effetto d’altri importanti <lb/>
+affari. </p>
+<p>Per quanto ho potuto cavare dal signor principe Mauritio, con <lb/>
+il quale fui a complire per la morte della signora principessa <lb/>
+d’Oranges madre del signor principe Henrico, parmi <lb/>
+che le commissioni particolarmente per Francia non verseranno <lb/>
+che nel far attestar in primo luoco al Re, che <lb/>
+queste Provincie si confessano, et vivono con somma <lb/>
+obligatione al Re, et alla Corona, et con concetti simili <lb/>
+procurar destamente di radolcir l’amaro, che possi <lb/>
+esser stato imbevuto nella corte, et principalmente levar <lb/>
+dall’animo del Re l’impressione, che potesse haver <lb/>
+contraria agl’interessi di queste Provincie et <lb/>
+che ’l resto della carica delli ambasciatori habbi ad <lb/>
+esser il trattar lo stabilimento del comercio, et <lb/>
+il procurar l’elevatione di alcuni sequestri<ptr target="#tn4" n="4"/>, <lb/>
+la sospensione de’ quali<ptr target="#tn5" n="5"/> all’essecutione è stata <lb/>
+fatta promessa da monsignor di Maurier, che seguivo <lb/>
+fino alla venuta delli ambasciatori presso sua Maestà <lb/>
+christianissima; et sì mal contenta assai esso Ambasciatore di questa <lb/>
+dilatione.<ptr target="#tn6" n="6"/> Procureranno<ptr target="#tn7" n="7"/> in oltre il rifacimento <lb/>
+di doi milliona in circa di fiorini per il pagamento
+<pb n="347r" facs="09_347r" rend="0"/>
+fatto delle truppe francesi conforme alla promessa data <lb/>
+dal Re a tal effetto. In questo n’è interessata parti-<lb/>
+colarmente la provincia d’Holanda, che per questo, et <lb/>
+per altro solicita quanto più può la speditione. </p>
+<p>Parmi anco, che per parte della Provincia sudetta si lascierà <lb/>
+un agente per solicitar la sodisfattione d’esso credito. </p>
+<p>Partì il maggior di Lovania con la risolutione<ptr target="#tn8" n="8"/> <lb/>
+dei signori Stati d’ispedir a tempo opportuno li tre sug-<lb/>
+getti deputati per la devisione delli arresti, et che la <lb/>
+piazza doverà esser<ptr target="#tn9" n="9"/> non a Bierulit, ma a Water-<lb/>
+ulit terra de’ serenissimi arciduchi in Fiandra vicinissima <lb/>
+ad Isendich piazza di questi signori nella medesima Provincia. </p>
+<p>Ho saputo per cosa certa, che li serenissimi arciduchi per questo <lb/>
+abboccamento, et per dar occasione a questi signori di far <lb/>
+altrettanto havevano deputati il duca d’Ariscot, <lb/>
+il consiglier Pechius, et il tesorier generale <lb/>
+principalmente soggetti; ma hora, che non ha potuto <lb/>
+il detto maggiore di Lovania tirar questi stati <lb/>
+a mandar persone qualificate, et del governo, viene <lb/>
+creduto, che anco di là si farà altra nominatione. </p>
+<p>Persona venuta di Brusseles amico mio mi ha riferto, <lb/>
+che da’ Spagnuoli viene desiderata la provogatione
+<pb n="347v" facs="09_347v" rend="0"/>
+della tregua, ma che per non parer, ch’essi la ricerchino<ptr target="#tn10" n="10"/> <lb/>
+lascieranno scorrer innanti fino alla spiratione d’essa <lb/>
+et allhora poi con qualche artificio tenteranno introdur <lb/>
+negotio<ptr target="#tn11" n="11"/> a fine col parlar, et col discorrer di <lb/>
+tirar il tempo innanti, et cercar da esso quel maggior <lb/>
+beneficio, che potranno. Et che la loro fine sia di non <lb/>
+trovarsi per l’anno venturo imbarazzati da tante <lb/>
+parti, ma poter unir le loro forze tutte in Alemagna. </p>
+<p>Di questo ne viene discorso anco qui, et l’apparenza dà <lb/>
+a creder, che non siano li concetti lontani dallo spirito <lb/>
+di chi sa negotiar al suo vantaggio. Et con questa <lb/>
+riduttione vi è opinione certa, che Spagnuoli si valeranno <lb/>
+del tempo, et dell’opportunità di promuover <lb/>
+alla larga più per adormentar, che per altro buon fine <lb/>
+ma li deputati di qua non haveranno alcuna commissio-<lb/>
+ne in questo particolare. </p>
+<p>Ho cavato ancor di nuovo dal discorso di qualcheduno di <lb/>
+questi signori che la sola causa della dilatione al far <lb/>
+nominatione d’ambasciatore, e habbi a resieder costi, nasca <lb/>
+dal voler li signori Stati penetrar prima l’intentione <lb/>
+de’ Spagnuoli<ptr target="#tn12" n="12"/> s’habbi ad esser da questa parte <lb/>
+guerra, o pace, o prorogatione di tregua per
+<pb n="348r" facs="09_348r" rend="0"/>
+poter (come già doi spazzi passati le scrissi riverentemente) far <lb/>
+scielta di persona propria (se ben ne hanno assai <lb/>
+scarsezza) all’essecutione degl’ordini necessarii, che <lb/>
+se li doveranno dare, parendomi, che sia in intentione <lb/>
+di far far nel viaggio in passando qualche ufficio <lb/>
+presso anco qualche altro principe; et risolvendo <lb/>
+alcuna<ptr target="#tn13" n="13"/> cosa per gl’affari della Valtelina (che <lb/>
+comprendo ben esser a cuore, ma<ptr target="#tn14" n="14"/> riserbarsi ad altra <lb/>
+miglior commodità il trattarne) dar ordini sufficienti <lb/>
+anco per questo. </p>
+<p>Ancor si parla (ma però<ptr target="#tn15" n="15"/> tra particolari) della persona di monsignor di <lb/>
+Langarach per venir per ambasciatore presso la Serenità vostra; ma nell’<lb/>
+assemblea dei signori Stati non se n’è trattato; pensandosi <lb/>
+solo alla speditione delle due ambasciate. Ho però saputo <lb/>
+che alcuno fa reflesso sopra la persona se sarebbe <lb/>
+grata all’Eccellenze vostre illustrissime per le pretenzioni, ch’egli ha <lb/>
+havute con gl’eccellentissimi signori ambasciatori della Serenità vostra in <lb/>
+Parigi. Se stimerà proprio in ciò qualche raccordo l’attenderò. </p>
+<p>Il signor principe Mauritio, mentre si sentono, et continuano <lb/>
+le voci delle gran preparationi, che da tutte le parti <lb/>
+disegnano, et vanno facendo Spagnuoli solecita, et <lb/>
+instà alle Provincie, che le compagnie, che
+<pb n="348v" facs="09_348v" rend="0"/>
+sono di 70 sole teste si riducano a cento, et fa quanto può <lb/>
+per far risolver a fine di haver a primo tempo soldati <lb/>
+assuefatti, et corpo di soldatesca sufficiente per mettersi in <lb/>
+campagna, et accorrer a tutti gl’accidenti. </p>
+<p>Non si scuopre in sua Eccellenza ch’ella sia portata punto alla <lb/>
+provogatione della tregua, et molti concorrono <lb/>
+col senso di lei, parendo ch’ella habbi sin qui appor-<lb/>
+tato danno gravissimo al Paese, tanto per le dissentioni <lb/>
+in esso, che per il comercio, et per il poco utile, che ne <lb/>
+presenti tempo cavano gl’artifici. Altri però si <lb/>
+comprende esser portati più alla prorogatione della <lb/>
+tregua, che alla rottura d’essa; ma con risolutione <lb/>
+di non rilasciar punto di travagliar Spagnuoli in <lb/>
+quanto sia possibile; fomentando in Alemagna <lb/>
+li principi dell’Unione, et gl’adherenti, et passar <lb/>
+anco più avanti, se vedranno di poterlo fare. Gratie etc. </p>
+<p>Dall’Haya li 24 novembre 1620 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="349r" facs="09_349r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="349v" facs="09_349v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 251 comincia 250 </p>
+<p><metamark facs="Seal and traces of a seal"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="106">
+<!--
+<p n="349vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>24 novembre ricevute x decembre n° 251 </p>
+<p>Haya. Secretario Suriano. 2<hi rend="superscript">da</hi> </p>
+<p>L. SS. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by a crossed-out word.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "habb-" is the result of a correction.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "della" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Followed by "p(er)" crossed out, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "et" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "P-" corrected above "p-."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "dei s(igno)ri Stati" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "esser" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "lasci" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Precedes "qualche" crossed out.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Followed by a crossed-out letter.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Added above the line on "anco qualche" crossed out with an insertion mark.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Followed by a crossed-out letter, uncertain, transcribed as it appears.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Added above the line with an insertion mark.</p></note>
+</div>
+</body>
+</text>
+</TEI>

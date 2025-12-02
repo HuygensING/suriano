@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 06.025 date 1618-05-21</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Federica</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">06</idno>
+                <idno type="letterno">025</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 6, fol 143r-146v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">143r-146v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Acknowledges the receipt of letters 4 May which included their ratification of agreement with States General allowing the retention of vessels beyond their six month service period. Reports delays in receipt of letter of exchange. Bartoloti is expecting payment of 3500 ducats. Urges Venice to make payments to Noirott, as the delays are causing financial strain for Calandrini. Regarding the artillery, notes that the total cost is 45000-50000 ducats. Reports that he has instructed admiral to make sure that no goods were being smuggled on the ship as there was insufficient space to take all the barrels of arquebus cords. Reports on rumours that Venice will allow Dutch merchants to trade freely with Syria. Remaining debt of 600 florins in Hoorn and Enkhuizen, which he has ordered should be paid to maintain good relations. Pleas for the payment of 10000 ducats owned to Quingetti. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>Amsterdam</settlement>
+            <date when="1618-05-21">21 maggio 1618</date>
+            <num>041</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="041">
+<div type="main" facs="main text of letter" n="041">
+<!--<p>21 maggio 1618, Amsterdam (cc. 143r-146v)</p>-->
+<pb n="143r" facs="06_143r" rend="0"/>
+<head>main text of letter</head>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 34 comincia 33 </p>
+<p>Serenissimo Principe </p>
+<p>mi furono spedite dall’Haya le lettere della Serenità vostra de’ 4 <lb/>
+et hieri a sera le ricevei in questa città con la ratificatione <lb/>
+della scrittura fatta da me alli signori Stati, la quale accompa-<lb/>
+gnerò con ufficio conforme al comandamento di lei <lb/>
+et procurerò in un istesso tempo quello ch’ella desidera, <lb/>
+perché sia dichiarito, che passati li sei mesi del servitio <lb/>
+per li quali sono li vasselli condotti habbi ella libertà <lb/>
+di trattenerli di vantaggio. Io mi prometto, che sarà <lb/>
+aggradita da’ signori Stati questa ratificatione, la quale <lb/>
+questa mattina appunto ho mostrata<ptr target="#tn1" n="1"/> a <lb/>
+questi signori dell’Amiralità con occasione di esser stato <lb/>
+a complir con essi, et se ne sono molto compiacciuti. <lb/>
+Restando sempre più sodisfatti et questi, et gl’altri <lb/>
+della prontezza, colla quale ho fatto caminar l’esborso <lb/>
+del denaro, et delle rimesse, che vengono giornalmente <lb/>
+per nome di vostra Serenità al qual proposito le dirò, che <lb/>
+se bene nelle sudette lettere sue par che mi accenni di <lb/>
+mandar altre lettere di cambio non ne ho però havute <lb/>
+solo il signor Bartoloti mercante in questa piazza mi ha <lb/>
+fatto dir haver avviso, che doverà pagare 3500 <lb/>
+ducati sopra che starà attendendo le lettere di cambio <lb/>
+et finché li signori dell’Amiralità non mi rendino il conto
+<pb n="143v" facs="06_143v" rend="0"/>
+della distributione del denaro havuto non posso così facilmente <lb/>
+dire fin quanto ella doverà inviarmi. Ma ho lasciati <lb/>
+ordini espressi a<ptr target="#tn2" n="2"/> Hoorn, qui ho dati li medesimi <lb/>
+et da Roterdam spero haver anco presto il tutto <lb/>
+in pronto. Intanto havend’ella la partita del cambio <lb/>
+a prezzo avantaggioso come la le ho significato nelle <lb/>
+mie lettere ultime dal Tessel n° 32 che saranno <lb/>
+qui aggiunte me ne potrà inviar qualche summa <lb/>
+che farò contar in questo banco ove sarà sicura. </p>
+<p>Io spero che di qua l’esborso sarà a suo tempo, et <lb/>
+così convengo pregar anco la Serenità vostra ordinar che quello <lb/>
+di là al signor Noirott si facci prontamente per le lettere <lb/>
+mie, che a lui sono inviate, perché par che scrivi <lb/>
+venire differito molto l’esbordo, il che mi ha affer-<lb/>
+mato il signor Calandrini riuscirli di grave interesse, <lb/>
+perché non può far stato di haver le rimesse oppor-<lb/>
+tunamente. Io sono necessitato importunar la Serenità vostra <lb/>
+per questo particolare anco con le presenti; ma la <lb/>
+dimostratione di devota volontà, et prontezza verso <lb/>
+il servitio della Serenità vostra della quale mi ha dato segno <lb/>
+in questa occasione esso signor Calandrini mi<ptr target="#tn3" n="3"/> commanda <lb/>
+ch’io faccia l’ufficio. </p>
+<pb n="144r" facs="06_144r" rend="0"/>
+<p>Ancor delle artiglierie non ho la compita summa posta <lb/>
+dalle Amiralità sopra li vasselli<ptr target="#tn4" n="4"/> solo il maestro <lb/>
+delle preparationi di Nort Holandia mi sia data <lb/>
+in sostanza la nota di quelle ripartite da lui sopra <lb/>
+le quattro navi di quella ripartitione, che importano <lb/>
+circa 34695 fiorini<ptr target="#tn5" n="5"/> a’ quali si aggiongono altri doi milla <lb/>
+trecento quaranta per otto pezzi piccioli compri, et <lb/>
+saranno di ragione di vostra Serenità perché<ptr target="#tn6" n="6"/> l’Amiralità <lb/>
+non ne haveva di tal sorte, et erano necessarii, di maniera <lb/>
+che con questi, et con gl’altri dati da questa Amiralità <lb/>
+et credo ancora qualcheduno da quella di Roterdam sarà <lb/>
+il valore per la summa di quarantacinque in <lb/>
+cinquanta milla ducati come altre volte ho scritto o <lb/>
+poco meno. </p>
+<p>Della corda di archibuso essendo li vasselli assai impacciati <lb/>
+per li viveri non hanno potuto capirvi di 56 botte, che <lb/>
+sole 37<ptr target="#tn7" n="7"/> le altre sono ritornate qui; et procurerò <lb/>
+col mezo del signor Calandrini di disfarmene se potrò senza <lb/>
+perdita, altrimenti le metterò sopra una mano, che sarà <lb/>
+presto in pronto per partir per costì. </p>
+<p>Io havendo veduto non essersi potuta ricever nelli vasselli <lb/>
+tutta la detta corda, se ben anco uno dei capitani ha
+<pb n="144v" facs="06_144v" rend="0"/>
+rimandata una barca de’ viveri per non li haver potuti ricever <lb/>
+sono entrato in sospetto, che qualcheduni delli capitani habbino <lb/>
+presi più viveri di quello li può far bisogno per <lb/>
+13 mesi forse per farne vendita alle altre navi, che <lb/>
+sono in servitio di vostra Serenità, overo che vi siano fraposte <lb/>
+qualche mercantie; sopra che io ho protestato ad ogn-<lb/>
+uno che tutto sarà di ragione di vostra Serenità et ho <lb/>
+posto particolarmente nell’instruttione all’Amiraglio <lb/>
+che non sia lasciata sbarcare alcuna minima cosa <lb/>
+senza il consenso dell’eccellentissimo signor Capitan generale, et mi <lb/>
+ha promesso anco il signor Colonello, che haverà mira <lb/>
+che il publico non sia in ciò defraudato, et di tutto farà <lb/>
+relatione a sua Eccellentia. </p>
+<p>Alcuni mercanti di questa piazza, mi hanno detto haver <lb/>
+inteso, che vostra Serenità si dispone voler lasciar libero a <lb/>
+questa Natione, et che sia commune con la sua il <lb/>
+comertio di Soria; cosa altre volte negata da lei <lb/>
+il che dicono che riuscirà con servitio di quella piazza <lb/>
+et gusto delli particolari mercanti di qua, che traficaranno <lb/>
+più volontieri da Soria a Venetia; ma che ’l Gene-<lb/>
+rale però non haverà contento per la diversione, che <lb/>
+sarà senza dubio di quel trafico a che mi hanno
+<pb n="145r" facs="06_145r" rend="0"/>
+detto quelli con che ho havuto di ciò ragionamento che vostra Serenità non <lb/>
+deve mirar perché le tornerà conto, che questa Natione <lb/>
+habbi communione con la sua ne’ trafichi dalla parte <lb/>
+di Levante, il che non ho voluto far di meno di non rap-<lb/>
+presentar alla Serenità vostra perché ella facci sopra il discorso <lb/>
+quel reflesso ch’è proprio della sua prudenza. </p>
+<p>Per li soldati ho trovato nel mio ritorno<ptr target="#tn8" n="8"/> a Hooron che era <lb/>
+restato qualche debito di 600 fiorini in circa nella stessa <lb/>
+piazza, et in quella di Encusen; et essendo caminata <lb/>
+sin qui questa levata con publica<ptr target="#tn9" n="9"/> et particolar <lb/>
+sodisfattione del Paese, et riputatione grandissima di vostra Serenità <lb/>
+per non lasciar con questo poco, che le dette due città <lb/>
+restino disgustate ho stimato a proposito dar ordine, <lb/>
+che siano pagate massime che quei signori della Amiralità <lb/>
+et li borgomastri me ne hanno fatta particolar instanza <lb/>
+ne haverò la quietanza, et la manderò con l’altre <lb/>
+del Colonello perché la Serenità vostra li facci ribatter alli capitani <lb/>
+che sono debitori. </p>
+<p>M’informerò delle artiglierie di bronzo propostemi dal signor principe <lb/>
+di Oranges, et senza obligarmi ne darò conto a vostra Serenità. </p>
+<p>Il Quingetti mi ha fatto pregare con grande instanza <lb/>
+di dargli la replicata delle lettere, che scrissi alla Serenità vostra
+<pb n="145v" facs="06_145v" rend="0"/>
+a’ 5 di marzo toccante la sodisfattione che desiderava <lb/>
+fosse fatta al fratello suo di diecimilla ducati ristanti <lb/>
+delli 27 mila ultimi dati al signor conte di Levenstein, pregandomi <lb/>
+insieme di nuovo raccommandar il suo grave interesse <lb/>
+che patisce nella ruina della sua caduta dal credito <lb/>
+di questa piazza, et certo è degno di grandissima compassione <lb/>
+appresso ognuno, et si confida, che la Serenità vostra per sua <lb/>
+pietà non sia per farli trattenir di vantaggio il pagamento <lb/>
+delli detti dieci milla ducati, poiché si offerisce farle <lb/>
+constar, che ha esborsato più di quello che ha havuto <lb/>
+in lettere di cambio<ptr target="#tn10" n="10"/> di ragione del signor conte di Levenstein; <lb/>
+sopra che non dirò di vantaggio alla prudenza di vostra Serenità. Gratie etc. </p>
+<p>Da Amsterdam a’ 21 maggio 1618 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissono servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="146r" facs="06_146r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="146v" facs="06_146v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>2<hi rend="superscript">da</hi> </p>
+<p>n° 34<ptr target="#tn11" n="11"/> comincia 33 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="041">
+<!--
+<p n="146vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>21 maggio 1618 ricevute a’ 6 giugno </p>
+<p>Haya. n° 34 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Followed by "alli s(igno)ri" crossed out.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Followed by "Horn" crossed out.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Followed by "n" crossed out.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Followed by "sopra" crossed out.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Followed by "le" crossed out.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-7" corrected above "-8."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Followed by "ch" crossed out.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Followed by "-t(ion)e" crossed out.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Followed by "p(er)" crossed out.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Is the result of a correction.</p></note>
+</div>
+</body>
+</text>
+</TEI>

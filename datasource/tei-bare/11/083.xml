@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 11.083 date 1623-01-02</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Cristina</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">11</idno>
+                <idno type="letterno">083</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 11, fol 445r-v, 448r</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">445r-v, 448r-v, 446r-447v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>In the evening secretary of Mansfeld visited Suriano with a letter for Venice on the requested patent. He has been send to negotiate assistance from the States of Holland and counter negative rumours about Mansfeld. From Rota’s letter (also attached) Mansfeld requests a million florins. The secretary claims that there is hidden support in several German cities, especially in Nurnberg. Hendrik van den Bergh will attempt to capture Papemuts. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1623-01-02">2 gennaio 1623</date>
+            <num>123, 124</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="letter" n="123">
+<div type="main" facs="main text of letter" n="123">
+<!--<p>2 gennaio 1623, L’Aia (cc. 445r-v, 448r-v)</p>-->
+<pb n="445r" facs="11_445r" rend="0"/>
+<head>main text of letter</head>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 456 seguita le doi già </p>
+<p>spedite 454 et 455 </p>
+<p>Serenissimo Principe </p>
+<p>già havevo spedite, et erano partite dall’Haya per Amsterdam <lb/>
+le doi lettere mie scritte questa mattina alla Serenità vostra, quando <lb/>
+su la notte m’è venuto a trovare capitato da Aurich <lb/>
+il secretario del signor conte di Mansfelt, che salutandomi per <lb/>
+nome di lui, m’ha dato l’aggiunto piego diretto al signor <lb/>
+Ferens, che costì si tiene a suo nome, dicendomi, che entro <lb/>
+vi era una lettera per la Serenità vostra, che conteneva la ricevuta <lb/>
+della patente già desiderata da lei, oltre qualche altro <lb/>
+particolare, et si iscusava affermando di haver ancor <lb/>
+scritto in questo proposito. </p>
+<p>Questo è venuto qui con commissione di trattar con questi <lb/>
+signori per procurar d’indurli a dar qualche poca <lb/>
+assistenza, et solicitar vivamente appresso l’Eccellenze loro; ma <lb/>
+doverà trattenersi fino alla riduttione della provincia <lb/>
+di Holanda, che non deve tardar ad esser insieme. <lb/>
+Il Rotta (del quale saranno anco lettere aggiunte <lb/>
+per l’illustrissimo signor savio di Terraferma alla scrittura) <lb/>
+mi scrive, che farà dimandar un millione di fiorni, <lb/>
+per mantenersi, et trattener la guerra tutto quest’anno <lb/>
+ma il sudetto secretario non s’è lasciato uscir a quanto <lb/>
+et si può ben creder, che praticati gl’humori <lb/>
+non troverà incontro facile a far venir a tanto <lb/>
+li signori Stati, et con difficoltà per hora almeno potrà <lb/>
+retirar qualche ben che picciola somma; et come <lb/>
+quelli del Governo degl’andamenti del signor conte di <lb/>
+Mansfelt, et da qualche altro suo modo si aveggono<ptr target="#tn1" n="1"/> <lb/>
+molto bene, che la publicatione, che fosse in animo
+<pb n="445v" facs="11_445v" rend="0"/>
+di partire non riuscirà, che una voce; così tenteranno di <lb/>
+impegnarlo con buone parole, portar il tempo avanti, <lb/>
+et ritirar frutto dal diferire. Il secretario m’ha detto <lb/>
+che ’l Conte niuna cosa sperava d’Inghilterra, et vano stimava <lb/>
+il tentativo, che haveva mandato a far al re di Dani-<lb/>
+marca. </p>
+<p>Egli è stato ad alto nell’Alemagna, et di là al presente se <lb/>
+ne viene. <hi rend="decoded">Mi</hi><ptr target="#tn2" n="2"/> <hi rend="decoded">ha communicato haver scoperta intima volontà <lb/>
+in alcuni di quei principi et città, et parti-<lb/>
+colarmente di Norimbergh, alla causa commune, <lb/>
+ma che communicano star tutti bassi, dubbitando <lb/>
+di perder a fatto quel poco di libero, che have-<lb/>
+vano, ma che se il Conte tanto havesse potuto <lb/>
+fare di assicurarli in parola di dover montar <lb/>
+ad alto con miglior disciplina nella sua solda-<lb/>
+tesca, haverebbe trovata prontezza di effetti. <lb/>
+Et non signor di consideratione a Norimbergh gli <lb/>
+haveva detto, che quel denaro, che alte volte <lb/>
+haveva ricercato il signor Conte alla detta città po-<lb/>
+teva chiamarsi come una semenza che <lb/>
+ne haveva prodotto dell’altro, che appositamente <lb/>
+quando si</hi><ptr target="#tn3" n="3"/> <hi rend="decoded">havesse veduto di poterlo fare <lb/>
+sarebbe</hi>
+<pb n="448r" facs="11_448r" rend="0"/>
+<hi rend="decoded">stato sotto mano dato al signor Conte, et <lb/>
+che non allieno haveva trovato il marchese di <lb/>
+Anspac.</hi> Il che mi è parso degno della <lb/>
+notitia della Serenità vostra se non fosse detto a fine di avantaggiarsi. </p>
+<p>Quest’huomo viene qui anco per quanto scuopro per divertir <lb/>
+le male voci, che corrono del Conte, et li mali ufficii <lb/>
+insieme, che potessero esser fatti di lui da quelli, che si <lb/>
+pretendono mal contenti o per mancamento di pagamento <lb/>
+alle loro truppe nel suo essercito, come per uno il conte <lb/>
+di Levenstein, o altri per altro rispetto di quello <lb/>
+dal sudetto sarà operato non mancarò di darne <lb/>
+conto alla Serenità vostra sendo cosa degna. </p>
+<p>Il conte Henrico di Bergh è andato in persona a forzar <lb/>
+il forte Papemuts con speranza di rendersene ben <lb/>
+presto patrone. Gratie etc. </p>
+<p>Dall’Haya li 2 genaro 1622<ptr target="#tn4" n="4"/> </p>
+<p>di vostra Serenità </p>
+<p>humilissimo, et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="448v" facs="11_448v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>3<hi rend="superscript">a</hi> </p>
+<p>n° 456 seguita le doi </p>
+<p>già spedite 454 et 455 </p>
+<p><metamark facs="Seal and traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="123">
+<!--
+<p n="448vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>2 gennaro 1622<ptr target="#tn5" n="5"/>. Ricevute a’ 16 detto </p>
+<p>Haia. n° 456 </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="I" n="124" corresp="123" source="446r-447v" >
+<div type="main" facs="main text of attachment I" n="124" corresp="123" >
+<!--<p>Allegato I al n. 123 (cc. 446r-447v; decodifica di cc. 445v, 448r)</p>-->
+<pb n="446r" facs="11_446r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="446v" facs="11_446v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="447r" facs="11_447r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="447v" facs="11_447v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> Is the result of a correction.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "Mi … marchese di Anspac" decoding of the encrypted text can be found on c. 446r; with cross-reference sign.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Added above the line with an insertion mark.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Improper or peculiar spelling by the writer.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Improper or peculiar spelling by the writer.</p></note>
+</div>
+</body>
+</text>
+</TEI>

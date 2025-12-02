@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>Letter 08.053 date 1619-11-05</title>
+        <author>Christofforo Suriano</author>
+        <editor xml:id="nl">Nina Lamal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Filippo, Flavia</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <p/>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>
+            <msIdentifier>
+                <settlement>Venice</settlement>
+                <institution>Archivio di Stato di Venezia</institution>
+                <collection>Senato, Dispacci, Signori Stati</collection>
+                <idno type="filza">08</idno>
+                <idno type="letterno">053</idno>
+                <idno type="shelf">ASVe, Senato, Dispacci, Signori Stati, Filza 8, fol 286r-304v</idno>
+            </msIdentifier>
+        </msDesc>
+        <bibl>
+            <note>
+                
+            </note>
+            <biblScope unit="page">268r-271v, 272r-275v, 276r-279v, 280r-285v, 286r-289v, 304r-v, 290r-v, 295r-v, 291r-294v, 296r-v, 303r-v, 297r-299v, 302r-v, 300r-301v</biblScope>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+        <note>Provides an update on the ongoing negotiations for an alliance, following the previous dispatch (dated 29 October). He has been in discussion with the seven appointed deputies and now sends the finalized version in French and Italian translation to Venice for review. Managed to get some terms adjusted and provides an overview such as admirals commanding the vessels once they have left the Netherlands will be under Venetian control, and deletion of the sentence that the alliance was against the Spanish and house of Austria. Financial aid is set at 50,000 florins per month, with provision for adjustments based on circumstances. The alliance is proposed for 15 years, instead of more usual 12 years, to signal to Spain their intentions. Mentions he has been careful throughout the negotiations not to provide written commitments, and to emphasize the need for approval from Venice on any final agreement. Discussions with Carleton are positive reflective of mutual respect and collaboration. Requests guidance in how to handle the discussions with Du Maurier, as he is uncertain whether to involve the French ambassador. </note>
+        <correspAction type="sent">
+            <name ref="bio.xml#cs">Christofforo Suriano</name>
+            <settlement>The Hague</settlement>
+            <date when="1619-11-05">5 novembre 1619</date>
+            <num>094, 095, 096, 097, 098, 098a, 098b, 098c, 098d, 098e</num>
+        </correspAction>
+        <correspAction type="received">
+            <name>Doge and Senate of Venice</name>
+            <settlement>Venice</settlement>
+        </correspAction>
+    </correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="attachment" facs="I" n="094" corresp="098" source="268r-271v" >
+<div type="main" facs="main text of attachment I" n="094" corresp="098" >
+<!--<p>Allegato I al n. 98 (cc. 268r-271v; decodifica di cc. 286r-289v)</p>-->
+<pb n="268r" facs="08_268r" rend="0"/>
+<head>main text of attachment I</head>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="268v" facs="08_268v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="269r" facs="08_269r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="269v" facs="08_269v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="270r" facs="08_270r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="270v" facs="08_270v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="271r" facs="08_271r" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+<pb n="271v" facs="08_271v" rend="0"/>
+<p><metamark facs="This is the decoded text of encrypted parts of Suriano's letter on separate sheets of paper by a secretary in Venice. This decoded text has been integrated into the respective letter in italics"/></p>
+</div>
+</div>
+<div type="attachment" facs="II" n="095" corresp="098" source="272r-275v" >
+<div type="main" facs="main text of attachment II" n="095" corresp="098" >
+<!--<p>Allegato II al n. 98 (cc. 272r-275v; decodifica di cc. 290r-295v)</p>-->
+<pb n="272r" facs="08_272r" rend="0"/>
+<head>main text of attachment II</head>
+<p>Prohemio da mettersi per l’aleanza </p>
+<p>Stante che la serenissima republica di Venetia et li alti et potenti <lb/>
+signori Stati Generali delle Provincie Unite de’ <lb/>
+Paesi Bassi di longo tempo tocchi egualmente da <lb/>
+un giusto desiderio et volontà<ptr target="#tn1" n="1"/> di poter contrattar <lb/>
+et convenire in una buona sincera, et scambievole <lb/>
+amicitia, et intelligenza per la conservatione <lb/>
+et difesa respettiva delle loro Republiche et sudditi, <lb/>
+invitati particolarmente a questo, et portati <lb/>
+dalle considerationi dei movimenti che nei <lb/>
+tempi presenti sono stati intrapresi nell’Europa <lb/>
+assai vicini alli<ptr target="#tn2" n="2"/> loro confini, et per altre ragioni pre-<lb/>
+gnanti, et urgenti<ptr target="#tn3" n="3"/> habbino poco fu doppo<ptr target="#tn4" n="4"/> <lb/>
+una seriosa et matura deliberatione date <lb/>
+lor lettere di potere, et commissione, cioè la <lb/>
+serenissima republica di Venetia al signor Cristoforo Suriano <lb/>
+suo residente ordinario nelle Provincie Unite <lb/>
+in data de’ *** nel mese di *** l’anno <lb/>
+presente da una parte, et li detti signori Stati <lb/>
+ai signori de’ *** loro deputati. </p>
+<pb n="272v" facs="08_272v" rend="0"/>
+<p>Parimente in data de’ *** del mese di *** <lb/>
+nel medesimo anno dall’altra parte, affine col <lb/>
+mezo delli medesimi, far conferir delle aperture <lb/>
+et mezi per trattar, et incaminar insieme questo <lb/>
+santo desiderio et cambievol dissegno ad una <lb/>
+finale, et buona conclusione, per tanto più <lb/>
+solidamente coroborar la vera, et sincera coris-<lb/>
+pondenza, che è stata sì longamente trattenuta <lb/>
+fra le dette due republiche. Per queste cause <lb/>
+essi deputati da una, et dall’altra parte per <lb/>
+essequir fedemente, havendo in virtù delle dette <lb/>
+lettere di potere, et di commissioni, in diverse volte <lb/>
+communicato, conferito, et considerato tutto ciò, <lb/>
+che poteva ricercar<ptr target="#tn5" n="5"/>, et meritar consideratione, per <lb/>
+l’avanzamento, et perfettione di una sì im-<lb/>
+portante, et utile negotiatione, hanno finalmente <lb/>
+convenuto concluso, et arestato, sotto il beneplacito <lb/>
+modificatione, et consenso de’ loro signori superiori respettiva-<lb/>
+mente li seguenti capitoli. </p>
+<pb n="273r" facs="08_273r" rend="0"/>
+<p>Capitoli di aleanza in <lb/>
+italiano. </p>
+<p>Minuta<ptr target="#tn6" n="6"/> di aleanza sopra il quale hanno sotto il bene-<lb/>
+placito dei loro superiori, trattato et convenuto il <lb/>
+signor Cristoforo Suriano residente a nome della <lb/>
+serenissima republica di Venetia nelle Provincie Unite, <lb/>
+da una parte, et li signori Gioan de Goch cavalier <lb/>
+borgomastro dela città di Zutphen, Nicolò de <lb/>
+Bucorse<ptr target="#tn7" n="7"/> signor di Vimenon, Giacomo Magno cavalier signor di <lb/>
+Bercanbacht, Melisant Adrian Ploos dottor di <lb/>
+legge consiglier ordinario dei signori Stati del paese di <lb/>
+Utrechet, et tesorier, Federico<ptr target="#tn8" n="8"/> Vernon, <lb/>
+Gasparo Terber Corse borgomastro della città <lb/>
+di Capen, et Goffen Zaffer consigliero della città di Cnigen, deputati dalli signori Stati Generali <lb/>
+di dette Provincie Unite de’ Paesi Bassi dall’<lb/>
+altra parte. </p>
+<p>1<hi rend="superscript">mo</hi> Primieramente<ptr target="#tn9" n="9"/> è convenuto, che vi sarà<ptr target="#tn10" n="10"/> buona <lb/>
+perfetta et stretta aleanza et amicitia fra la <lb/>
+serenissima republica di Venetia et li alti, et potenti signori Stati <lb/>
+Generali delle Provincie Unite. </p>
+<p>Come<ptr target="#tn11" n="11"/> parimente le dette doi republiche si sono obligate di
+<pb n="273v" facs="08_273v" rend="0"/>
+di procurar al meglio, che loro sarà possibile <lb/>
+et come il vero debito di una cordiale, et sincera <lb/>
+corispondenza ricerca, tutto il bene, e vantaggio <lb/>
+per la diffesa, et conservatione dei stati et sudditi <lb/>
+l’una dell’altro, ovviandi<ptr target="#tn12" n="12"/> detornando a tutto lor potere <lb/>
+ogni indebito maneggio et tentativo<ptr target="#tn13" n="13"/> che in<ptr target="#tn14" n="14"/> contrario si <lb/>
+potesse attentare.<ptr target="#tn15" n="15"/> </p>
+<p>2<hi rend="superscript">do</hi> Se l’una delle dette republiche di Venetia, o delle Provin-<lb/>
+cie Unite, fosse astretta ad entrar in guerra <lb/>
+aperta per mar, o per terra, elle hanno conve-<lb/>
+nuto, accordato, et promesso irrevocabilmente <lb/>
+sinceramente, et di buona fede di agiutar, et socco-<lb/>
+rer quella, che delle doi sarà di tal maniera <lb/>
+astretta di entrar in guerra, della summa di 50 mila <lb/>
+lire per mese valutando<ptr target="#tn16" n="16"/> le 3 lire al valor di uno <lb/>
+scudo d’oro<ptr target="#tn17" n="17"/> o sessanta soldi de’ Paesi Bassi. </p>
+<p>3° Et si tenirà per guerra aperta tutte le hostilità che si <lb/>
+attenterano<ptr target="#tn18" n="18"/>, et continueranno da parte<ptr target="#tn19" n="19"/> <lb/>
+et altra per mar, o per terra, sia per invasione <lb/>
+violente a mano aperta per surpresa, o assedio
+<pb n="274r" facs="08_274r" rend="0"/>
+di piazze, o per devastatione di paese, non com-<lb/>
+prendendosi però in questo le diffidenze, et <lb/>
+gelosie, che potranno prendersi di levate o di <lb/>
+disegni de’ vicini, se elle<ptr target="#tn20" n="20"/> non sono accompagnate <lb/>
+dalla publica rottura, come è detto. </p>
+<p>4<hi rend="superscript">to</hi> Saranno queste 50 mila lire pagate et consignate <lb/>
+un mese doppo la debita instantia fatta<ptr target="#tn21" n="21"/>, in <lb/>
+buone valute<ptr target="#tn22" n="22"/>, secondo l’ultima valutatione <lb/>
+della Republica; che sarà in guerra nelle mani <lb/>
+dell’Ambasciator, o ressidente, che si troverà nel <lb/>
+stato di essa Republica senza alcuna perdita dimi-<lb/>
+nutione, o altre spese di cambio, transporto, o <lb/>
+altrimenti, per esser incontinente pagata<ptr target="#tn23" n="23"/> <lb/>
+in contanti, et competentemente, dove si conveni-<lb/>
+rà, sotto buone, et valide quietanze, et si con-<lb/>
+tinuerà questo aiuto<ptr target="#tn24" n="24"/>, di mese, in mese, fino <lb/>
+alla fine della guerra senza obligo di alcuna <lb/>
+restitutione. </p>
+<p>5° Sarà riservato alla optione della detta serenissima <lb/>
+republica di Venetia di dimandar questo soccorso
+<pb n="274v" facs="08_274v" rend="0"/>
+in denari, o in vasselli, all’equivalente della <lb/>
+sopradetta summa, se lo stato delle Provincie Unite <lb/>
+lo può permetter. </p>
+<p>6° Dandosi alla serenissima Republica il soccorso in vasselli <lb/>
+sarà conveniente, che sopra vi sia ordinato <lb/>
+un amiraglio del Paese da esser nominato <lb/>
+dalli detti signori Stati coll’avviso dell’ambasciator, o <lb/>
+ressidente della detta Republica, che sarà nelle Pro-<lb/>
+vincie Unite con auttorità di commandar alla <lb/>
+flotta, affine di governar, et disponer tanto <lb/>
+meglio li marinari al servitio della detta <lb/>
+Republica, ben inteso però, che essendo sortito dalle <lb/>
+spiaggie del Paese Basso, sarà egli tenuto <lb/>
+di obedir immediatamente alli commandamenti della detta <lb/>
+Republica, o di quelli, che la rappresenteranno <lb/>
+.</p>
+<p>7° Et prenderà insieme pensiero la detta signoria di <lb/>
+Venetia, perché li capitani delli detti <lb/>
+vasselli siano nel bisogno accommodati <lb/>
+de’ viveri, et munitioni, a prezzo ragio-<lb/>
+nevole. </p>
+<pb n="275r" facs="08_275r" rend="0"/>
+<p>8° Se quella che è in guerra viene ad haver <lb/>
+bisogno di maggior<ptr target="#tn25" n="25"/> agiuto di denari o di <lb/>
+vasselli, come è detto, gli sarrà concesso<ptr target="#tn26" n="26"/> <lb/>
+se lo stato degl’affari del soccorrente lo <lb/>
+potrà<ptr target="#tn27" n="27"/> permetter, alla dechiaratione del quale <lb/>
+le parti se ne rimetteranno, con obligatione<ptr target="#tn28" n="28"/> non di <lb/>
+meno, che la restitutione se ne farà; doppo <lb/>
+la guerra finita in quei termini, che <lb/>
+allhora potranno accordarsi. </p>
+<p>9° Se le doi Republiche fossero in un medesimo tempo <lb/>
+in guerra aperta la detta obligatione, et <lb/>
+provisione del detto soccorso cesserà almeno <lb/>
+per tanto<ptr target="#tn29" n="29"/> tempo, che durerà la detta guerra <lb/>
+aperta, et si continuerà da tutte dua le parti<ptr target="#tn30" n="30"/>. </p>
+<p>Ma<ptr target="#tn31" n="31"/> quella, che delle due republiche <lb/>
+in questo mentre convenirà in qualche <lb/>
+accordo, quella sarà, et resterà obligata <lb/>
+a contribuir sotto le sudette conditioni all’altra <lb/>
+dal giorno, et immediati<ptr target="#tn32" n="32"/>, che le hostilità <lb/>
+cesserà.
+<pb n="275v" facs="08_275v" rend="0"/>
+x° Le genti di guerra non potranno esser inquietate <lb/>
+né travagliate per la religione, che professano, <lb/>
+vivendo modestamente. </p>
+<p>xi. Li feriti, et amalati saranno posti in terra, <lb/>
+quando si potrà senza pregiudicio né incommodo <lb/>
+dell’armata navale, o del servitio publico <lb/>
+per esser trattati secondo l’ordine accostumato <lb/>
+egualmente senza distintione dalli marinari<ptr target="#tn33" n="33"/> <lb/>
+o genti da guerra del Paese, con conditione<ptr target="#tn34" n="34"/> che <lb/>
+li hospitali doveranno havere<ptr target="#tn35" n="35"/> la metà <lb/>
+del loro soldo per il tempo, che saranno stati <lb/>
+alloggiati in essi. </p>
+<p>xii. Finalmente questa conventione di amicitia, et <lb/>
+soccorso mutuo si osserverà per il termine <lb/>
+di 15 anni, et sarà in tutti li suoi punti, <lb/>
+et conditioni uguale, et reciproco. </p>
+<p>xiii. Et non potrà questo aiuto esser preteso, né<ptr target="#tn36" n="36"/> impiegato contra <lb/>
+le aleanze, che l’una, o l’altra Republica hanno <lb/>
+contrattatte, et trattenute con altri re, republiche, principi <lb/>
+città, o communità, alle quali aleanze questo trattato <lb/>
+non apporterà pregiudicio. </p>
+</div>
+</div>
+<div type="attachment" facs="III" n="096" corresp="098" source="276r-279v" >
+<div type="main" facs="main text of attachment III" n="096" corresp="098" >
+<!--<p>Allegato III al n. 98 (cc. 276r-279v; decodifica di cc. 300r-301v)</p>-->
+<pb n="276r" facs="08_276r" rend="0"/>
+<head>main text of attachment III</head>
+<p>Capitolo da sottoscriver fuori dell’<lb/>
+aleanza a parte </p>
+<p>Per esplicar l’ultimo articolo è stato dichiarito <lb/>
+da una parte, e dall’altra che non ci è alcuna <lb/>
+aleanza con le case di Austria, né di Spagna. </p>
+<p>Capitolo desiderato dalli signori Stati per sodisfar <lb/>
+alle Provincie, et doverà esser sottoscritto dai <lb/>
+deputati, et da me, et tanto basterà, et sarà <lb/>
+secretto. </p>
+<p>Il francese </p>
+<p>Pour explicquer le dernier article il a esté declaré <lb/>
+de part et d’autre qui il ni a aucune aleance a-<lb/>
+vec les les* maisons d’Austrice<ptr target="#tn37" n="37"/> ne d’Espagne<ptr target="#tn38" n="38"/>. </p>
+<pb n="276v" facs="08_276v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="277r" facs="08_277r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="277v" facs="08_277v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="278r" facs="08_278r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="278v" facs="08_278v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="279r" facs="08_279r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="279v" facs="08_279v" rend="0"/>
+<p>Capitoli <lb/>
+dall’Aia </p>
+</div>
+</div>
+<div type="attachment" facs="IV" n="097" corresp="098" source="280r-285v" >
+<div type="main" facs="main text of attachment IV" n="097" corresp="098" >
+<!--<p>Allegato IV al n. 98 (cc. 280r-285v; decodifica di cc. 296r-299v)</p>-->
+<pb n="280r" facs="08_280r" rend="0"/>
+<head>main text of attachment IV</head>
+<p>Come ainsi soit que la<ptr target="#tn39" n="39"/> serenissime republique de Venise et les <lb/>
+haut et puisants segniurs Estatz Generaux des Provin-<lb/>
+ces Unies du Pais Bas des lontemps esgalemment<ptr target="#tn40" n="40"/> touchez<ptr target="#tn41" n="41"/> d’une <lb/>
+iuste desir, et afection de pouvoir contracter et convenir <lb/>
+d’une bone, sincere, et mutuele amicie et intelligenze pour <lb/>
+la conservation et defense<ptr target="#tn42" n="42"/> respetive de leurs, et sub-<lb/>
+iectz<ptr target="#tn43" n="43"/> à ce notament<ptr target="#tn44" n="44"/> commis et portes par la consideration <lb/>
+des mouvements<ptr target="#tn45" n="45"/> qui son en ce temps entreprins en le <lb/>
+Europpe ases sur<ptr target="#tn46" n="46"/> leurs confins<ptr target="#tn47" n="47"/> et pour d’autres raisons <lb/>
+pregnantes et soutaines agent depuis n’a guerrées apres <lb/>
+serieuse et meure deliberation doné leurs letres <lb/>
+de pouvoir<ptr target="#tn48" n="48"/> et commission savoir<ptr target="#tn49" n="49"/> la dite serenissime repu-<lb/>
+blique de Venise au sieurs Cristoforo Suriano son <lb/>
+resident ordin[air]e<ptr target="#tn50" n="50"/> es Provinces Unies en date <lb/>
+du *** du mois de *** dell’an present <lb/>
+d’une part, et les dits<ptr target="#tn51" n="51"/> seigneurs<ptr target="#tn52" n="52"/> Etstats<ptr target="#tn53" n="53"/> aux seiurs <lb/>
+*** leurs deputés ausi en date <lb/>
+du *** du mois de *** au mesme <lb/>
+an d’autre part à fin de faire par eux conferer <lb/>
+des ouvertures et moiens pour<ptr target="#tn54" n="54"/> traicter et acheminer
+<pb n="280v" facs="08_280v" rend="0"/>
+par ensemble ce saint desir e mutuel desein <lb/>
+à une finale et bone conclusion de traicté pour <lb/>
+tant plus solidement corroborer la urage et <lb/>
+sincere corrispondence<ptr target="#tn55" n="55"/> qui a<ptr target="#tn56" n="56"/> esté si longuement <lb/>
+entretenue entre les dites deux republiques <lb/>
+à ce causes iceux ditz deputez de part e d’autre <lb/>
+pour s’en acquiter fidelement aians in vertu d’<lb/>
+iceles dites letres de pouvoir et comision a don[…] <lb/>
+ses fois communiqué conferé et tout consideré <lb/>
+qui pouvoit faire et meriter consideration <lb/>
+pour l’avanzemet<ptr target="#tn57" n="57"/> et parfection d’une si im-<lb/>
+portante, et utile negotiation ont en fin conve[nu] <lb/>
+conclu et aresté soubz le bon plaisir modifi[ca]-<lb/>
+tion et agreation de leurs superieurs respettive-<lb/>
+ment les articles qui s’en<ptr target="#tn58" n="58"/> suivent </p>
+<pb n="281r" facs="08_281r" rend="0"/>
+<p>Capitoli d’aleanze in francese </p>
+<p>Proiect<ptr target="#tn59" n="59"/> d’aliance dont ont soubs le bon plasir de le-<lb/>
+urs superiurs traicté et convenu le sieurs Cristofo<ptr target="#tn60" n="60"/> <lb/>
+Suriano resident della part della serenissime republi-<lb/>
+que de Venise en Provinces Unies d’une part <lb/>
+e les sieurs Jean de Goch chevalier bourgiema-<lb/>
+istre della ville de Zutphen, Nicolas s<ptr target="#tn61" n="61"/> de Bou-<lb/>
+corst<ptr target="#tn62" n="62"/> sengieur de Vimenon Giacques Mats chevalier <lb/>
+seigneur de Bercanbact Melisant etc. Adriaen <lb/>
+Poloos licentié en<ptr target="#tn63" n="63"/> droictz et<ptr target="#tn64" n="64"/> conselier ordinaire des <lb/>
+signeurs<ptr target="#tn65" n="65"/> estatz<ptr target="#tn66" n="66"/> du pais d’Utrechet et tesa-<lb/>
+urier etc. Frederich de Vernon Casparter Bercorst <lb/>
+bourgemaistre de la ville de Campen et<ptr target="#tn67" n="67"/> <lb/>
+Gofens Caffer conselier della ville de Gruningen<ptr target="#tn68" n="68"/> <lb/>
+deputées de seigneurs<ptr target="#tn69" n="69"/> Estats Generauls<ptr target="#tn70" n="70"/> <lb/>
+des dites Provinces Unies du Pais<ptr target="#tn71" n="71"/> Bas d’autre <lb/>
+part. </p>
+<p>Primierement est convenu qui il aura bone<ptr target="#tn72" n="72"/> e stroite <lb/>
+et perfecte aleance, et amicitie entre la serenissime <lb/>
+republique de Venise et les aultz et puisants <lb/>
+seigneurs<ptr target="#tn73" n="73"/> Estatz Generaulx des Provinces Unies. </p>
+<pb n="281v" facs="08_281v" rend="0"/>
+<p>Come ausi les dittes deux republiques se sont obli-<lb/>
+gées de procurer au mieux qui il sera possible <lb/>
+et a insi quele<ptr target="#tn74" n="74"/> vrai devoir d’une cordiale ami-<lb/>
+tie et sincere corispondence requiert tout bien <lb/>
+et avantage<ptr target="#tn75" n="75"/> alla defense, et conservation des e<lb/>
+statz et subiectz l’une dell’autre en destourn[…] <lb/>
+a leur possible toutes in deues<ptr target="#tn76" n="76"/> menées et en <lb/>
+princes qui pourients attenter au contraire. </p>
+<p>Si l’une de dittes<ptr target="#tn77" n="77"/> republiques de Venise ou de <lb/>
+Provinces Unies fut contrainte<ptr target="#tn78" n="78"/> d’entrer en <lb/>
+guerre ouverte par mer ou par terre elles <lb/>
+ont convenu accordé e promis irrevocablement <lb/>
+sincerement et de bone foi d’aider et secourir <lb/>
+cele qui de deux sera ainsi contrainte<ptr target="#tn79" n="79"/> d’entrer <lb/>
+en guerre della somme de cincquante<ptr target="#tn80" n="80"/> mil livres <lb/>
+par mois les trois livres revenant<ptr target="#tn81" n="81"/> à la v[ale-]<lb/>
+ur d’un escu d’or, ou<ptr target="#tn82" n="82"/> soixante solz du Pais <lb/>
+Bas. </p>
+<p>Et se tiendra pour guerre ouverte toute hostilité <lb/>
+qui s’attentera et continuera de part et d’
+<pb n="282r" facs="08_282r" rend="0"/>
+autre par mer ou par terre soit<ptr target="#tn83" n="83"/> par invasion <lb/>
+violente a main armée par surprinse ou siege <lb/>
+des places ou par devastation de pais sans estre<ptr target="#tn84" n="84"/> <lb/>
+comprendé les defiances et ialensies qui si <lb/>
+pouront prendre de levées<ptr target="#tn85" n="85"/> ou deseins des voisins <lb/>
+si eles ne se aconpagneront de publique rupture <lb/>
+à insi que dit est. </p>
+<p>Seront ces cinquante mille livres paiées et consignées <lb/>
+un mois apres la devue<ptr target="#tn86" n="86"/> sommation<ptr target="#tn87" n="87"/> en bones <lb/>
+esperes selon la derniere evalutation della <lb/>
+Republique qui sera en guerre en<ptr target="#tn88" n="88"/> mains de l’<lb/>
+ambasadeur ou resident qui se truverra en <lb/>
+l’estat di cele Republique sans aucune perte <lb/>
+dimintion ni autres frais de change transport, <lb/>
+ou autrement pour estre incontinent delivré <lb/>
+en contant et conpetentement ou il conviendra <lb/>
+soubs bons et valables acquits et se continue-<lb/>
+ra cet<ptr target="#tn89" n="89"/> aide de mois en mois iusque alla <lb/>
+fin della guerre sans obligation d’aucune <lb/>
+restitution. </p>
+<pb n="282v" facs="08_282v" rend="0"/>
+<p>Il sera reservé all’option della ditte serenissime republi-<lb/>
+que de Venise de demander ce secours en <lb/>
+argent ou en navires all’equipolent della <lb/>
+ditte some ou bien s’emploiera la ditte some <lb/>
+en levée de gens di guerre quelle lui sera <lb/>
+accordé e si l’esstat<ptr target="#tn90" n="90"/> des Provinces Unies <lb/>
+le puit permetre. </p>
+<p>Le socours sedonant en navires alla<ptr target="#tn91" n="91"/> <lb/>
+serenissime Republique sera convenable qui […] <lb/>
+leur soit ordoné un amiral du pais a nom <lb/>
+par les dits sieurs Estats de l’advis dell’am-<lb/>
+bassadeur ou resident della ditte Republique <lb/>
+qui sera les<ptr target="#tn92" n="92"/> Provinces Unies avec pouvoir de <lb/>
+comander alla flote affin de gouverner et <lb/>
+tant mieux disposer<ptr target="#tn93" n="93"/> les matelots au service <lb/>
+della ditte Republique bien entendu tutte fois <lb/>
+que<ptr target="#tn94" n="94"/> estant sorti des havres du Pais Bas ice-<lb/>
+lui sera tenu d’obeir immedatement aux com-<lb/>
+mandemend della ditta Republique ou de <lb/>
+ceus qui la rapresenteront. </p>
+<pb n="283r" facs="08_283r" rend="0"/>
+<p>Et<ptr target="#tn95" n="95"/> soignera ausi la ditte signeurie de Venise <lb/>
+aveque les capitaines des dits navires soient <lb/>
+au besoin accommodes de vivres et munitions <lb/>
+à pris raisonable. </p>
+<p>Si celle, le qui est en guerre vient avoir besoin <lb/>
+de plus forte aide<ptr target="#tn96" n="96"/> d’argent ou de navires a-<lb/>
+insi que dit est elle sera accordée, si l’estat <lb/>
+des affaires du<ptr target="#tn97" n="97"/> secourant le pout permetre alla <lb/>
+declaration du quel parties se en<ptr target="#tn98" n="98"/> remetront<ptr target="#tn99" n="99"/> alla <lb/>
+charge toute fois que la<ptr target="#tn100" n="100"/> restitution s’en fera ap-<lb/>
+pres la guerre finie en tels<ptr target="#tn101" n="101"/> termes que à lors <lb/>
+on<ptr target="#tn102" n="102"/> poura accorder. </p>
+<p>Si les deux republiques fussent en guerre ouverte <lb/>
+en mesme temps la ditte obligation, et fournisement <lb/>
+du dit secours cessera au moins si long temps que <lb/>
+la ditte guerre ouverte durera, et se continuera <lb/>
+de par et d’autre, mais ce le qui des deux Repu-<lb/>
+bliques<ptr target="#tn103" n="103"/> conviendra cependant la <lb/>
+premiere<ptr target="#tn104" n="104"/> de quel que accord icele sera, et <lb/>
+demeurera tenne de doner aux conditions sudite
+<pb n="283v" facs="08_283v" rend="0"/>
+le dit secours all’autre<ptr target="#tn105" n="105"/> des le iour et au si <lb/>
+tost que<ptr target="#tn106" n="106"/> l’hostilite cessera. </p>
+<p>Les gens de guerre ne pouront estre inquietes ni tra-<lb/>
+valies à l’occasion della religion qui ilz pro-<lb/>
+fessent vivans<ptr target="#tn107" n="107"/> modestement. </p>
+<p>Les blesses et malades seront descendus en terre qu[…] <lb/>
+el se pura sans preiudice ni incommodité de <lb/>
+armée<ptr target="#tn108" n="108"/> navale, ou deservice publicq pour i e-<lb/>
+stre traictés selon l’ordre acostumé esgalement <lb/>
+et sans distintion d’arme des matelots ou gen de <lb/>
+guerre du pais,<ptr target="#tn109" n="109"/> à la charge queles hospita[ux] <lb/>
+proffiteront la moitié de leur solde prou le tem[p] <lb/>
+qui s’il si auront este loges. </p>
+<p>Finalement ceste convention d’amicitie et secours <lb/>
+mutuels s’observera pour le terme d[e] <lb/>
+quinze<ptr target="#tn110" n="110"/> ans, et sera entons<ptr target="#tn111" n="111"/> ses points, et condition[s] <lb/>
+esgale et et* reciproque. </p>
+<p>Et ne poura<ptr target="#tn112" n="112"/> ceste<ptr target="#tn113" n="113"/> aide estre pretendue ni emploiée <lb/>
+contre les aliances<ptr target="#tn114" n="114"/> que l’une, ou l<ptr target="#tn115" n="115"/>’outre Repu[bli-]<lb/>
+que ont ci devant contratées, et entertenue
+<pb n="284r" facs="08_284r" rend="0"/>
+aven des autres roix republiques, princes, villes <lb/>
+ou communautes aux quelles aliances ce traicté <lb/>
+ne portara acun preiudice. </p>
+<pb n="284v" facs="08_284v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="285r" facs="08_285r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="285v" facs="08_285v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="letter" n="098">
+<div type="main" facs="main text of letter" n="098">
+<!--<p>5 novembre 1619, L’Aia (cc. 286r-289v, 304r-v)</p>-->
+<pb n="286r" facs="08_286r" rend="0"/>
+<head>main text of letter</head>
+<p>Prima n° 144 fin 146 </p>
+<p>Serenissimo Principe </p>
+<p><hi rend="decoded">mercordì</hi><ptr target="#tn116" n="116"/><hi rend="decoded">, et giovedì seguenti all’ultimo mio dispaccio <lb/>
+de’ 29 del passato fui chiamato dalli sette deputati <lb/>
+per trattar insieme dell’aleanza. Doppo hanno <lb/>
+aggionto, o alterato qualche cosa fino a questo <lb/>
+giorno in tanto, che si sono ridotti gli articoli <lb/>
+nella forma, che intenderà la Serenità vostra. Sono <lb/>
+stati estesi nella lingua francese, et io colla <lb/>
+copia di essi nella medesima lingua a parola per <lb/>
+parola mando anco la traduttione</hi><ptr target="#tn117" n="117"/> <hi rend="decoded">in italiano. <lb/>
+Tanto sono andato praticando, et disponendo gli animi, <lb/>
+che in fine non mi si è parlato del traffico del <lb/>
+colfo</hi><ptr target="#tn118" n="118"/><hi rend="decoded">. Ho ridotto il punto dell’aiuto al</hi><ptr target="#tn119" n="119"/> <hi rend="decoded">reciproco, et <lb/>
+ho divertito in particolare il trattarsi di quello <lb/>
+della diversione: et a questo proposito vedrà, che <lb/>
+quell’Amiraglio, che haverà la carica dei vasselli; <lb/>
+volendo haverne subito uscito da queste spiaggie sarà <lb/>
+sotto al commandamento, et obedienza della Serenità <lb/>
+vostra, o de chi la rappresenterà, che è secondo il <lb/>
+senso di lei, et la sua intentione; perché potrà <lb/>
+valersene dove più le tornerà commodo. Nel secondo <lb/>
+</hi>
+<pb n="286v" facs="08_286v" rend="0"/>
+<hi rend="decoded">capitolo era notato, che la aleanza dovea esser a diffesa <lb/>
+et offesa: questa la ho fatta levare. Di più vi <lb/>
+era posto oltre un generale in particolare, che <lb/>
+fosse contra il re di Spagna, et la casa d’Austria, <lb/>
+né anco questo ho lasciato passare, parendo a me <lb/>
+non esser bene, né a proposito far una simile <lb/>
+dichiaratione specifica in una capitulatione di <lb/>
+aleanza, portando quelle considerationi, che mi <lb/>
+parvero proprie somministratemi dalla mia debo-<lb/>
+lezza, et credo essermi incontrato in ciò col senso <lb/>
+di vostra Serenità: ma se intendesse altrimenti questi signori <lb/>
+saranno pronti a rimetter questa particola. <lb/>
+</hi></p>
+<p><hi rend="decoded">Cinquanta milla fiorini per mese doverà esser l’<lb/>
+assistenza reciproca. Mi è stato gettato qualche <lb/>
+motivo, ch’ella dasse più di loro: ma fu in <lb/>
+passando, et io ho mostrato di non intenderlo. <lb/>
+Il pigliar questo sussidi[o]</hi><ptr target="#tn120" n="120"/> <hi rend="decoded">è</hi><ptr target="#tn121" n="121"/> <hi rend="decoded">ha</hi><ptr target="#tn122" n="122"/> <hi rend="decoded">dispositione di vostra Serenità <lb/>
+sia in denari in navi, o in genti all’equivalente <lb/>
+ma per le genti hanno aggionto se lo stato delle Provin-<lb/>
+tie lo comporterà, considerandomi che havevano</hi><ptr target="#tn123" n="123"/> <hi rend="decoded">obli-<lb/>
+gatione</hi>
+<pb n="287r" facs="08_287r" rend="0"/>
+<hi rend="decoded">di dar</hi><ptr target="#tn124" n="124"/> <hi rend="decoded">alla Francia cinque mille <lb/>
+fanti, altrettanti all’Inghilterra, et ad altri collegati ancora <lb/>
+altra quantità; se per caso fossero in guerra alcuno <lb/>
+di quei principi, o potentati, et la Serenità vostra ancora <lb/>
+non potrebbono far tanto. Vegono bene, che il <lb/>
+caso non può succedere tuttavia per metter le cose <lb/>
+tutte chiare, et perché non vi</hi><ptr target="#tn125" n="125"/> <hi rend="decoded">sia a ridire così hanno <lb/>
+stimato bene di proporre. <lb/>
+Il caso dell’aiuto in <lb/>
+caso di maggior bisogno di assistenza, oltre quella, <lb/>
+che è posta di cinquanta mille fiorini non obli-<lb/>
+ga</hi><ptr target="#tn126" n="126"/> <hi rend="decoded">totalmente</hi><ptr target="#tn127" n="127"/> <hi rend="decoded">le parti, et dandosi si ha da <lb/>
+restituire. Dall’undecimo capitolo destramente <lb/>
+ho fatta levare una obligatione dell’interramento <lb/>
+de’ morti, che diceva prima in luogo a questo <lb/>
+destinato, et hora in luogo honorato. Ho procurato <lb/>
+come dico, che fosse levato, et l’uno, et l’altro <lb/>
+per quei rispetti, che la prudenza della Serenità vostra <lb/>
+può comprender, et mi hanno detto li deputati <lb/>
+assicurarsi che vostra Serenità non mancarà a quel tempo <lb/>
+di dar ordini sufficienti;</hi>
+<pb n="287v" facs="08_287v" rend="0"/>
+<hi rend="decoded">il che li confirmai, che <lb/>
+sarebbe per la stima, ch’ella fa della Natione, <lb/>
+et così restorono sodisfatti pregandomi di scriverne <lb/>
+a parte. Il tempo dell’aleanza hanno [<hi rend="decoded">m</hi>]ostrato</hi><ptr target="#tn128" n="128"/> <hi rend="decoded"><lb/>
+stimar proprio di proporlo per quindeci anni. <lb/>
+Io considerai, che quasi tutte le aleanze si sogliono <lb/>
+far di dodici anni, tuttavia non insistei non <lb/>
+sapendo la mente di vostra Serenità. Questi giudicano <lb/>
+meglio così per far conoscer alli Spagnoli, che la</hi><ptr target="#tn129" n="129"/> <hi rend="decoded"><lb/>
+serenissima Republica, et questa non saranno unite per breve <lb/>
+spatio, et che potranno sempre far l’istessa, et <lb/>
+se si prorogasse le tregue per altri dodici anni, <lb/>
+(che però non se ne parla) ne resterebbe ancor <lb/>
+qualche d’uno per dar da pensar al re di Spagna. <lb/>
+</hi></p>
+<p><hi rend="decoded">Conclude l’ultimo capitolo, che è il quarto decimo la <lb/>
+riserva, come si suole nell’aleanze con altri <lb/>
+principi, et per dechiaratione di questo vedranno <lb/>
+l’Eccellenze vostre quello, che li deputati hanno <lb/>
+mostrato desiderar dalla parte de’ signori Stati, <lb/>
+et ancorché io li habbi detto, che potevo assicurar-<lb/>
+li, ch’elle</hi><ptr target="#tn130" n="130"/> <hi rend="decoded">non havevano aleanza né con Spagna, <lb/>
+né con la casa d’Austria,</hi>
+<pb n="288r" facs="08_288r" rend="0"/>
+<hi rend="decoded">mi risposero, che lo <lb/>
+credevano: ma che tuttavia desideravano questa <lb/>
+sodisfattione per sodisfar alle Provincie, et alle <lb/>
+città: et poter farle apparer, che la riserva <lb/>
+sudetta non disobliga <lb/>
+vostra</hi><ptr target="#tn131" n="131"/> <hi rend="decoded">Serenità di assister a</hi><ptr target="#tn132" n="132"/> <hi rend="decoded">questi signori <lb/>
+contro Spagnoli, et Austriaci. L’articolo non si <lb/>
+metterà in questi capitoli di aleanza: ma basterà <lb/>
+che venga sottoscritto da me a parte a nome della <lb/>
+Serenità vostra, et da essi deputati</hi><ptr target="#tn133" n="133"/> <hi rend="decoded">a nome de’ signori Stati. <lb/>
+Parmi, che si possi fare, et che non vi sia alcun <lb/>
+pregiudicio per la Serenità vostra attenderò li suoi comman-<lb/>
+damenti. <lb/>
+</hi></p>
+<p><hi rend="decoded">Nel corso della trattatione mi hanno questi signori tentato <lb/>
+non poco, perché io dicessi, et proponessi qualche <lb/>
+cosa, et la mettessi per scritto per consultarla insieme, <lb/>
+sopra che mi sono sempre salvato con dir, che mi <lb/>
+bastava intender quello, che essi havevano propost[o]</hi><ptr target="#tn134" n="134"/><hi rend="decoded">, <lb/>
+et che lor facevo le considerationi, che per me sti-<lb/>
+mavo proprie, et alla Serenità vostra sarebbe stato il <lb/>
+dar il suo beneplacito. Desideravano almeno, <lb/>
+che questi capitoli si mandassero alla Serenità vostra sotto-<lb/>
+scritti tanto</hi>
+<pb n="288v" facs="08_288v" rend="0"/>
+<hi rend="decoded">da loro, come da me, se ben pareva <lb/>
+fosse riuscibile la riserva del beneplacito a’ <lb/>
+nostri superiori, come sta scritto nel principio della <lb/>
+capitulatione. Io però mostrai, che questa sottoscrittione <lb/>
+non era per hora necessaria mentre si doveva <lb/>
+attender l’asenso, et l’alteratione de’ capitoli a <lb/>
+beneplacito delle parti, si contentorono di far <lb/>
+buona la ragione; perché videro di non poter <lb/>
+avanzar da me manco questo punto di sottoscriver <lb/>
+tutto che desiderato, perché servisse di provisione</hi><ptr target="#tn135" n="135"/> <hi rend="decoded"><lb/>
+ferma al trattato. Credo, che non vi sarà <lb/>
+ne’ capitoli difficoltà rilevante. Il signor principe <lb/>
+Mauritio, che gode grandemente di così buon <lb/>
+incaminamento mi disse, ch’egli haveva procu-<lb/>
+rato di far tuore ogni difficoltà, che haveva <lb/>
+parsa a lui poter dar qualche intoppo a questa <lb/>
+negotiatione. <lb/>
+</hi></p>
+<p><hi rend="decoded">Mando qui aggionto il prohemio, che li deputati <lb/>
+havevano fatto notare, perché lo consideri se così <lb/>
+lo trova proprio, et con la sottoscrittione, che si <lb/>
+doverà far da loro, et da me, sempre s’inten-<lb/>
+derà a beneplacito della Serenità vostra,</hi>
+<pb n="289r" facs="08_289r" rend="0"/>
+<hi rend="decoded">e de’ signori Stati, <lb/>
+et la ratificatione poi doverà venir dalle <lb/>
+mani, o dalla parte di lei con il sigillo solito, <lb/>
+et altrettanto faranno li signori Stati. Et poi se stimerà <lb/>
+proprio sarà portata l’aleanza da una</hi><ptr target="#tn136" n="136"/> <hi rend="decoded">parte, <lb/>
+et dall’altra da’ ambasciatori, o residenti recipro-<lb/>
+camente la sua ai Stati, et quella di questi <lb/>
+a vostra Serenità, così è stato appuntato meco, che habbia a significar alla Serenità vostra, che di tal <lb/>
+maniera doverà caminar il negotio. Atten-<lb/>
+derò dunque quello mi vorrà commandar <lb/>
+in questi propositi, et che mi mandi le lettere, <lb/>
+et procure sufficienti per poter sottoscriver <lb/>
+perché senza queste, dovendo esser registrate, <lb/>
+com’ella sa, non si può far niente. <lb/>
+</hi></p>
+<p><hi rend="decoded">Ho complito di novo col signor ambasciator d’Inghilterra, che <lb/>
+ha mostrato di restar consolato dei continuati <lb/>
+testimonii, che li do, che sia aggradito il suo <lb/>
+riverente affetto verso quella serenissima Republica, <lb/>
+dicendo, che non haverebbe mancato di dar <lb/>
+parte al suo Re della stima, in che teneva <lb/>
+li ufficii di sua Maestà. Io non mancarò <lb/>
+di continuar a nutrire la confidenza seco. <lb/>
+</hi></p>
+<p><hi rend="decoded">Li signori Stati per quanto ho potuto cavare, daranno parte <lb/>
+ad esso Ambasciator del negotiato</hi><ptr target="#tn137" n="137"/><hi rend="decoded">: ma non so se si <lb/>
+rissolveranno di farlo</hi>
+<pb n="289v" facs="08_289v" rend="0"/>
+<hi rend="decoded">con l’Ambasciator francese. <lb/>
+</hi></p>
+<p><hi rend="decoded">Io vorrei ben saper come mi doverò regolar <lb/>
+seco: fui a sua visitatione uno dei giorni della <lb/>
+passata settimana, in discorso mi disse (credo <lb/>
+che lo facesse ad arte), che da Venetia li era <lb/>
+stato scritto dal signor ambasciator Leone, che il negotio dell’<lb/>
+aleanza con questi signori si teniva là per stabilito, <lb/>
+et mi adimandò se era vero: et se ancor se ne <lb/>
+trattava. Io dissi, che non vi era ancora alcuna cosa, <lb/>
+che ben si era continuato a parlar di stringer <lb/>
+buona amicitia, tener una buona corrispondenza, <lb/>
+et che sin qui si è passato con questi termini generali. <lb/>
+</hi></p>
+<p><hi rend="decoded">M’interpellò se vi è passata scrittura dissi, che non <lb/>
+fin allhora,</hi><ptr target="#tn138" n="138"/> <hi rend="decoded">gli ho detta la verità, al <lb/>
+presente supplico vostra Serenità dirmi come mi doverò <lb/>
+governar con questo ministro. Gratie etc. <lb/>
+</hi></p>
+<p>Dall’Haya li 5<ptr target="#tn139" n="139"/> novembre 1619 </p>
+<p>di vostra Serenità </p>
+<p>humilissimo et devotissimo servitore </p>
+<p>Christofforo Suriano </p>
+<pb n="304r" facs="08_304r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="304v" facs="08_304v" rend="0"/>
+<p>Al serenissimo principe di Venetia </p>
+<p>Prima </p>
+<p>n° 144 fin 146 </p>
+<p><metamark facs="Traces of seals"/></p>
+</div>
+<div type="secretarial" facs="secretarial text of letter" n="098">
+<!--
+<p n="304vC">———</p>
+-->
+<head>secretarial text of letter</head>
+<p>5 novembre 1619 ricevute a’ 20 decembre </p>
+<p>Haya. n° 144 </p>
+<p>prima </p>
+<p>Articoli d’aleanza. </p>
+<p>L. SS. R. </p>
+</div>
+</div>
+<div type="attachment" facs="V" n="098a" corresp="098" source="290r-v, 295r-v" >
+<div type="main" facs="main text of attachment V" n="098a" corresp="098" >
+<!--<p>Allegato V al n. 98 (cc. 290r-v, 295r-v; decodifica a c. 272r-v)</p>-->
+<pb n="290r" facs="08_290r" rend="0"/>
+<head>main text of attachment V</head>
+<p><metamark facs="Followed by encrypted text"/>
+<pb n="290v" facs="08_290v" rend="0"/>
+<metamark facs="Followed by encrypted text"/></p>
+<pb n="295r" facs="08_295r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="295v" facs="08_295v" rend="270"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<p>n° 3 <hi rend="decoded">prohemio</hi><ptr target="#tn140" n="140"/> </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="VI" n="098b" corresp="098" source="291r-294v" >
+<div type="main" facs="main text of attachment VI" n="098b" corresp="098" >
+<!--<p>Allegato VI al n. 98 (cc. 291r-294v; decodifica a cc. 273r-275v)</p>-->
+<pb n="291r" facs="08_291r" rend="0"/>
+<head>main text of attachment VI</head>
+<p><metamark facs="Followed by encrypted text"/>
+<pb n="291v" facs="08_291v" rend="0"/>
+<metamark facs="Followed by encrypted text"/></p>
+<pb n="292r" facs="08_292r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="292v" facs="08_292v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="293r" facs="08_293r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="293v" facs="08_293v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="294r" facs="08_294r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="294v" facs="08_294v" rend="270"/>
+<p>n° 1 <lb/>
+<hi rend="decoded">aleanza</hi><ptr target="#tn141" n="141"/> </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="attachment" facs="VII" n="098c" corresp="098" source="296r-v, 303r-v" >
+<div type="main" facs="main text of attachment VII" n="098c" corresp="098" >
+<!--<p>Allegato VII al n. 98 (cc. 296r-v, 303r-v; decodifica a c. 280r-v)</p>-->
+<pb n="296r" facs="08_296r" rend="0"/>
+<head>main text of attachment VII</head>
+<p>Francese </p>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="296v" facs="08_296v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="303r" facs="08_303r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="303v" facs="08_303v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="VIII" n="098d" corresp="098" source="297r-299v, 302r-v" >
+<div type="main" facs="main text of attachment VIII" n="098d" corresp="098" >
+<!--<p>Allegato VIII al n. 98 (cc. 297r-299v, 302r-v; decodifica a cc. 281r-285v)</p>-->
+<pb n="297r" facs="08_297r" rend="0"/>
+<head>main text of attachment VIII</head>
+<p>Francese </p>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="297v" facs="08_297v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="298r" facs="08_298r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="298v" facs="08_298v" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="299r" facs="08_299r" rend="0"/>
+<p><metamark facs="Followed by encrypted text"/></p>
+<pb n="299v" facs="08_299v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="302r" facs="08_302r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="302v" facs="08_302v" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+</div>
+</div>
+<div type="attachment" facs="IX" n="098e" corresp="098" source="300r-301v" >
+<div type="main" facs="main text of attachment IX" n="098e" corresp="098" >
+<!--<p>Allegato IX al n. 98 (cc. 300r-301v; decodifica a cc. 276r-279v)</p>-->
+<pb n="300r" facs="08_300r" rend="0"/>
+<head>main text of attachment IX</head>
+<p><metamark facs="Followed by encrypted text"/>
+<pb n="300v" facs="08_300v" rend="0"/>
+<metamark facs="Blank page"/></p>
+<pb n="301r" facs="08_301r" rend="0"/>
+<p><metamark facs="Blank page"/></p>
+<pb n="301v" facs="08_301v" rend="270"/>
+<p>n° 2 <hi rend="decoded">capitolo</hi><ptr target="#tn142" n="142"/> </p>
+<p>nelle prime </p>
+</div>
+</div>
+<div type="notes">
+    <note xml:id="tn1"><p><hi rend="footnote">1</hi> "et volontà aggiunto in sopralinea su affetione sottolineato."</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> "vicini alli aggiunto in sopralinea su s(opr)a li sottolineato."</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> "Aggiunto in sopralinea su sovrane sottolineato."</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> "poco fa doppo aggiunto in sopralinea su doppo poco apresso sottolineato."</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> "Aggiunto in sopralinea su farsi sottolineato."</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> "Aggiunto in sopralinea su Progietto sottolineato."</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> "-c- esito di correzione, come pare."</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> "Segue Vergon depennato."</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> "Precede p(rim)o depennato, come pare."</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> "Aggiunto in sopralinea su si desidera sottolineato."</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> "Precede primo depennato."</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> "Come pare; aggiunto in sopralinea."</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> "et tentativo aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> "Aggiunto in sopralinea su al sottolineato."</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> "Segue Se depennato."</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> "Aggiunto in sopralinea su rivenendo sottolineato."</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> "d’oro aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> "-r- esito di correzione."</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> "Segue far depennato."</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> "-e corretta su -a."</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> "instantia fatta aggiunto in sopralinea su notitia, data sottolineato."</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> "Aggiunto in sopralinea su specie sottolineato."</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> "Aggiunto in sopralinea su delivrata sottolineato, come pare."</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> "Aggiunto in sopralinea su havuto sottolineato."</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> "Aggiunto in sopralinea su più forte sottolineato."</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> "gli … concesso aggiunto in sopralinea su ella sarà accordata sottolineato; accordata preceduto da lettera depennata."</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> "Aggiunto in sopralinea su può sottolineato."</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> "Aggiunto in sopralinea su a carica sottolineato."</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> "Aggiunto in sopralinea su per così longo sottolineato."</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> "tutte … parti aggiunto in sopralinea su parte, et altra, sottolineato."</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> "Precede Ma quel depennato."</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> "Aggiunto in sopralinea su così tosto sottolineato."</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> "Aggiunto in sopralinea su mateloti sottolineato."</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> "con conditione aggiunto in sopralinea su a carica sottolineato."</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> "Aggiunto in sopralinea su proffittare sottolineato."</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> "Segue et depennato."</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> "d’ corretta su , , come pare."</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> "Aggiunto in sopralinea su -lla depennato."</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> "Prima -m- esito di correzione; segue lettera depennata."</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> "to- aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> "Seguono lettere depennate."</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> "Esito di correzione."</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> "-ta- aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> "-t- aggiunta in sopralinea su lettera depennata."</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> "-u- esito di correzione."</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> "-n- aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> "-r esito di correzione."</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> "Esito di correzione."</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> "Macchia di inchiostro."</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> "-s aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> "-eurs esito di correzione."</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> "Così A."</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> "Segue p depennata."</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> "Esito di correzione."</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> "Aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> "Così A."</p></note>
+<note xml:id="tn58"><p><hi rend="footnote">58</hi> "Segue suident depennato."</p></note>
+<note xml:id="tn59"><p><hi rend="footnote">59</hi> "-t esito di correzione."</p></note>
+<note xml:id="tn60"><p><hi rend="footnote">60</hi> "Così A."</p></note>
+<note xml:id="tn61"><p><hi rend="footnote">61</hi> "Così A."</p></note>
+<note xml:id="tn62"><p><hi rend="footnote">62</hi> "Esito di correzione."</p></note>
+<note xml:id="tn63"><p><hi rend="footnote">63</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn64"><p><hi rend="footnote">64</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn65"><p><hi rend="footnote">65</hi> "Seguono lettere depennate."</p></note>
+<note xml:id="tn66"><p><hi rend="footnote">66</hi> "-z corretta da -s."</p></note>
+<note xml:id="tn67"><p><hi rend="footnote">67</hi> "Seguono lettere depennate."</p></note>
+<note xml:id="tn68"><p><hi rend="footnote">68</hi> "Aggiunto in sopralinea su lettere depennate."</p></note>
+<note xml:id="tn69"><p><hi rend="footnote">69</hi> "-i- aggiunta in sopralinea su -m- depennata."</p></note>
+<note xml:id="tn70"><p><hi rend="footnote">70</hi> "Segue etc depennato."</p></note>
+<note xml:id="tn71"><p><hi rend="footnote">71</hi> "-i- esito di correzione."</p></note>
+<note xml:id="tn72"><p><hi rend="footnote">72</hi> "Segue estroite depennato."</p></note>
+<note xml:id="tn73"><p><hi rend="footnote">73</hi> "Seconda -e- esito di correzione."</p></note>
+<note xml:id="tn74"><p><hi rend="footnote">74</hi> "Esito di correzione."</p></note>
+<note xml:id="tn75"><p><hi rend="footnote">75</hi> "-e corretta su -ie.."</p></note>
+<note xml:id="tn76"><p><hi rend="footnote">76</hi> "Prima -e- aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn77"><p><hi rend="footnote">77</hi> "Segue Rep depennato."</p></note>
+<note xml:id="tn78"><p><hi rend="footnote">78</hi> "Esito di correzione."</p></note>
+<note xml:id="tn79"><p><hi rend="footnote">79</hi> "Segue d depennata."</p></note>
+<note xml:id="tn80"><p><hi rend="footnote">80</hi> "Prima -n- esito di correzione."</p></note>
+<note xml:id="tn81"><p><hi rend="footnote">81</hi> "-t esito di correzione, come pare; segue al depennato."</p></note>
+<note xml:id="tn82"><p><hi rend="footnote">82</hi> "o- esito di correzione."</p></note>
+<note xml:id="tn83"><p><hi rend="footnote">83</hi> "Segue lettera depennata."</p></note>
+<note xml:id="tn84"><p><hi rend="footnote">84</hi> "Aggiunto in sopralinea su parola depennata."</p></note>
+<note xml:id="tn85"><p><hi rend="footnote">85</hi> "Seconda -e- aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn86"><p><hi rend="footnote">86</hi> "-u- aggiunta in sopralinea, come pare."</p></note>
+<note xml:id="tn87"><p><hi rend="footnote">87</hi> "Esito di correzione."</p></note>
+<note xml:id="tn88"><p><hi rend="footnote">88</hi> "Segue -s depennata."</p></note>
+<note xml:id="tn89"><p><hi rend="footnote">89</hi> "Esito di correzione."</p></note>
+<note xml:id="tn90"><p><hi rend="footnote">90</hi> "Così A."</p></note>
+<note xml:id="tn91"><p><hi rend="footnote">91</hi> "Segue Rep depennato."</p></note>
+<note xml:id="tn92"><p><hi rend="footnote">92</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn93"><p><hi rend="footnote">93</hi> "Segue -le depennato."</p></note>
+<note xml:id="tn94"><p><hi rend="footnote">94</hi> "Seguono lettere depennate."</p></note>
+<note xml:id="tn95"><p><hi rend="footnote">95</hi> "Segue et depennato."</p></note>
+<note xml:id="tn96"><p><hi rend="footnote">96</hi> "Segue d depennata."</p></note>
+<note xml:id="tn97"><p><hi rend="footnote">97</hi> "Aggiunto in sopralinea su du- depennato con segno di inserimento"</p></note>
+<note xml:id="tn98"><p><hi rend="footnote">98</hi> "Aggiunto in sopralinea su en- depennato con segno di inserimento"</p></note>
+<note xml:id="tn99"><p><hi rend="footnote">99</hi> "r- esito di correzione."</p></note>
+<note xml:id="tn100"><p><hi rend="footnote">100</hi> "Precede -l- depennata."</p></note>
+<note xml:id="tn101"><p><hi rend="footnote">101</hi> "Esito di correzione."</p></note>
+<note xml:id="tn102"><p><hi rend="footnote">102</hi> "Aggiunto in sopralinea su parola depennata."</p></note>
+<note xml:id="tn103"><p><hi rend="footnote">103</hi> "Segue parola depennata."</p></note>
+<note xml:id="tn104"><p><hi rend="footnote">104</hi> "Segue del depennato."</p></note>
+<note xml:id="tn105"><p><hi rend="footnote">105</hi> "Segue del depennato."</p></note>
+<note xml:id="tn106"><p><hi rend="footnote">106</hi> "Segue -l- depennata."</p></note>
+<note xml:id="tn107"><p><hi rend="footnote">107</hi> "Esito di correzione."</p></note>
+<note xml:id="tn108"><p><hi rend="footnote">108</hi> "Esito di correzione."</p></note>
+<note xml:id="tn109"><p><hi rend="footnote">109</hi> "Segue al depennato."</p></note>
+<note xml:id="tn110"><p><hi rend="footnote">110</hi> "qu- aggiunto in sopralinea su lettera depennata."</p></note>
+<note xml:id="tn111"><p><hi rend="footnote">111</hi> "Prima -n- aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn112"><p><hi rend="footnote">112</hi> "-a aggiunta in sopralinea su macchia di inchiostro."</p></note>
+<note xml:id="tn113"><p><hi rend="footnote">113</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn114"><p><hi rend="footnote">114</hi> "Esito di correzione."</p></note>
+<note xml:id="tn115"><p><hi rend="footnote">115</hi> "Segue -e depennata."</p></note>
+<note xml:id="tn116"><p><hi rend="footnote">116</hi> "mercordì … Gratie etc. decodifica di testo cifrato presente a cc. 268r-271v."</p></note>
+<note xml:id="tn117"><p><hi rend="footnote">117</hi> "-d- corretta su -t-."</p></note>
+<note xml:id="tn118"><p><hi rend="footnote">118</hi> "Così A."</p></note>
+<note xml:id="tn119"><p><hi rend="footnote">119</hi> "-l esito di correzione, come pare."</p></note>
+<note xml:id="tn120"><p><hi rend="footnote">120</hi> "Macchia di inchiostro."</p></note>
+<note xml:id="tn121"><p><hi rend="footnote">121</hi> "Esito di correzione, come pare."</p></note>
+<note xml:id="tn122"><p><hi rend="footnote">122</hi> "Così A."</p></note>
+<note xml:id="tn123"><p><hi rend="footnote">123</hi> "-no aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn124"><p><hi rend="footnote">124</hi> "Segue quella depennato."</p></note>
+<note xml:id="tn125"><p><hi rend="footnote">125</hi> "non vi aggiunto in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn126"><p><hi rend="footnote">126</hi> "Segue -to depennato."</p></note>
+<note xml:id="tn127"><p><hi rend="footnote">127</hi> "to- esito di correzione."</p></note>
+<note xml:id="tn128"><p><hi rend="footnote">128</hi> "Macchia di inchiostro."</p></note>
+<note xml:id="tn129"><p><hi rend="footnote">129</hi> "Precede al- depennato."</p></note>
+<note xml:id="tn130"><p><hi rend="footnote">130</hi> "-e esito di correzione."</p></note>
+<note xml:id="tn131"><p><hi rend="footnote">131</hi> "Precede sud(et)ta non disobliga depennato."</p></note>
+<note xml:id="tn132"><p><hi rend="footnote">132</hi> "Aggiunta in sopralinea con segno di inserimento."</p></note>
+<note xml:id="tn133"><p><hi rend="footnote">133</hi> "d- esito di correzione."</p></note>
+<note xml:id="tn134"><p><hi rend="footnote">134</hi> "Macchia di inchiostro."</p></note>
+<note xml:id="tn135"><p><hi rend="footnote">135</hi> "Segue -lo depennato."</p></note>
+<note xml:id="tn136"><p><hi rend="footnote">136</hi> "Aggiunto in sopralinea."</p></note>
+<note xml:id="tn137"><p><hi rend="footnote">137</hi> "-o- esito di correzione."</p></note>
+<note xml:id="tn138"><p><hi rend="footnote">138</hi> "Segue lettera depennata."</p></note>
+<note xml:id="tn139"><p><hi rend="footnote">139</hi> "Corretto su 6."</p></note>
+<note xml:id="tn140"><p><hi rend="footnote">140</hi> "Testo cifrato non decodificato in A."</p></note>
+<note xml:id="tn141"><p><hi rend="footnote">141</hi> "Testo cifrato non decodificato in A."</p></note>
+<note xml:id="tn142"><p><hi rend="footnote">142</hi> "Testo cifrato non decodificato in A."</p></note>
+</div>
+</body>
+</text>
+</TEI>
