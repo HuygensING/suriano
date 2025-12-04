@@ -6,7 +6,7 @@
 @conversionCode=tei
 @conversionMethod=literal
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2025-11-19T08:09:52+00:00Z
+@dateWritten=2025-12-04T06:14:57+00:00Z
 @description=this is TEI attribute type
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=2.0.0e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-11-19T08:32:16+00:00Z
+@dateWritten=2025-12-04T06:17:46+00:00Z
 
 1841528	sent
 received

@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=literal-composed
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2025-11-19T08:09:50+00:00Z
+@dateWritten=2025-12-04T06:14:55+00:00Z
 @description=the text after a word till the next word
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=2.0.0e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-11-19T08:32:14+00:00Z
+@dateWritten=2025-12-04T06:17:44+00:00Z
 
  
  
@@ -973346,9 +973346,9 @@
 
  
 
+ 
 
 
- 
 \n
 \n
 \n

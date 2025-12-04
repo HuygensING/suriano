@@ -1025,6 +1025,7 @@ Suggested values include: 1] m (metre); 2] kg (kilogram); 3] s (second); 4] Hz (
    <define name="att.naming.attributes">
       <ref name="att.canonical.attributes"/>
       <ref name="att.naming.attribute.role"/>
+      <ref name="att.naming.attribute.fullName"/>
       <ref name="att.naming.attribute.nymRef"/>
    </define>
    <define name="att.naming.attribute.role">
@@ -1038,6 +1039,14 @@ Suggested values include: 1] m (metre); 2] kg (kilogram); 3] s (second); 4] Hz (
                   </data>
                </oneOrMore>
             </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.naming.attribute.fullName">
+      <optional>
+         <attribute name="fullName">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the full (canonical) name</a:documentation>
+            <data type="string"/>
          </attribute>
       </optional>
    </define>

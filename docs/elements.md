@@ -117,6 +117,7 @@ Table of contents
 | | | `visible` | 2
 | | | `with` | 2
 | | | `words` | 1
+| [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `person` | 12200
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `02_071r` | 1
 | | | `02_071v` | 1
 | | | `02_072r` | 1
@@ -9126,6 +9127,794 @@ Table of contents
 | [msDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-msDesc.html) |   |  | 750
 | [msIdentifier](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-msIdentifier.html) |   |  | 750
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 1500
+|   | [fullName](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#fullName) | `A viscount of Embry` | 1
+| | | `Abraham and Jan Blanchard (or Blansaert)` | 1
+| | | `Adam Schivelbergh` | 2
+| | | `Adam of Schwarzenberg` | 7
+| | | `Adolphus Frederick I and John Albert II` | 1
+| | | `Adolphus Frederick I, duke of Mecklenburg-Schwerin and/or John Albert II` | 2
+| | | `Adriaan Pauw` | 2
+| | | `Adriaan Ploos` | 8
+| | | `Adriaan and Cornelis Pauw` | 1
+| | | `Adriaan van Matenesse` | 1
+| | | `Adriaan van der Dussen` | 7
+| | | `Adriaen Pietersz. Looske` | 1
+| | | `Adrien Thomassin` | 3
+| | | `Agnes Gräfin von Sayn-Wittgenstein` | 1
+| | | `Agnes Hedwig of Anhalt` | 1
+| | | `Agostino Bosello` | 5
+| | | `Agostino Nani` | 1
+| | | `Albert Joachimi` | 8
+| | | `Albert de Ligne, Prince of Barbançon` | 3
+| | | `Albert of Austria` | 45
+| | | `Albert of Austria and Isabella Clara Eugenia of Spain` | 181
+| | | `Albert, Count of Nassau-Dillenburg` | 1
+| | | `Albrecht Bruynincx` | 1
+| | | `Albrycht Stanisław Radziwiłł` | 1
+| | | `Alessandro Lancelotto` | 2
+| | | `Alessandro Ludovisi` | 1
+| | | `Alessandro, Giacomo and Pietro Antonio Guadagni` | 2
+| | | `Alethea Howard, Countess of Arundel` | 1
+| | | `Aletta Brasser` | 2
+| | | `Alexander Farnese, Duke of Parma` | 2
+| | | `Alexander Rosa` | 14
+| | | `Alexander of Arenberg-Croy-Chimay` | 4
+| | | `Alexander van den Berge` | 14
+| | | `Alfonso Antonini` | 6
+| | | `Alfonso Casati` | 4
+| | | `Alfonso Valdera` | 2
+| | | `Alfonso de la Cueva-Benavides y Mendoza-Carrillo, marqués de Bedmar` | 13
+| | | `Almorò Nani` | 27
+| | | `Alonso de Velasco (y) Salinas, first count of La Revilla` | 2
+| | | `Alvise Valaresso` | 6
+| | | `Amalia of Solms-Braunfels` | 1
+| | | `Ambrogio Spinola` | 462
+| | | `Ancommera van Westerbeek` | 1
+| | | `Anderson` | 1
+| | | `Andrea` | 2
+| | | `Andrea Paruta` | 1
+| | | `Andrea Rodriges d’Andrade` | 2
+| | | `Andrea Rossi` | 1
+| | | `Andrea Zane` | 1
+| | | `Andreas Manriquez` | 2
+| | | `Andreas Pawell` | 14
+| | | `Andreas Winsemius` | 2
+| | | `Andries II van der Meulen` | 10
+| | | `Angelo Badoer` | 1
+| | | `Angelo Contarini` | 5
+| | | `Anna Johanna of Nassau-Siegen` | 1
+| | | `Anna Weytsen` | 1
+| | | `Anna of Holstein-Gottorp` | 1
+| | | `Anne Gerrard, Lady Carleton` | 1
+| | | `Anne de Montafie` | 1
+| | | `Anne of Denmark` | 3
+| | | `Anthonie Duyck` | 1
+| | | `Anthonie van Hilten` | 1
+| | | `Anthonis van Wassenhoven` | 5
+| | | `Anthonius Plouvier` | 4
+| | | `Anthony Schetz, heer van Grobbendonk` | 5
+| | | `Antoine Molina` | 3
+| | | `Antoine Potier, seigneur de Sceaux` | 20
+| | | `Anton Günther, Count of Oldenburg` | 18
+| | | `Antonio Coluri` | 4
+| | | `Antonio Dona or Donato` | 29
+| | | `Antonio Foscarini` | 1
+| | | `Antonio Lando` | 3
+| | | `Antonio Liguri dal Zanthe` | 9
+| | | `Antonio Maria Vincenti` | 1
+| | | `Antonio Priuli` | 1
+| | | `Antonio Rama` | 3
+| | | `Archduke Leopold` | 68
+| | | `Archibald Campbell, Nth Earl of Argyll` | 1
+| | | `Arnold van Randwijck tot Bemmel` | 8
+| | | `Arthur Chichester` | 32
+| | | `Artmano Pianta` | 2
+| | | `Ascanio Gesualdo` | 3
+| | | `Augustus of Palatinate of Sulzbach` | 2
+| | | `Baldassarre Nardi` | 3
+| | | `Baltasar de Marradas y de Vic` | 1
+| | | `Baltasar de Zúñiga y Velasco` | 2
+| | | `Balthasar Coymans and Johan Deuts (Deutz) Doubleth` | 1
+| | | `Baron Christoph von Dohna` | 45
+| | | `Bartholomeus Matthijsz.` | 4
+| | | `Bartholt van Sterckenburch` | 8
+| | | `Bartolomeo Cavazza` | 2
+| | | `Battino Natale` | 4
+| | | `Battista Doria` | 1
+| | | `Battori Natale` | 1
+| | | `Belcq` | 2
+| | | `Belfort` | 2
+| | | `Benetto Ferro` | 2
+| | | `Benjamin Aubery du Maurier` | 141
+| | | `Benjamin Buwinckhausen (or Bouwinghausen) von Wallmerode` | 14
+| | | `Bentio` | 1
+| | | `Bernard Scheffalitzky` | 6
+| | | `Bernardino Rota` | 163
+| | | `Bertholda van Swieten van Tserclaes` | 27
+| | | `Bethlen Gábor` | 93
+| | | `Bisuti` | 1
+| | | `Bora Bisnar` | 1
+| | | `Borchard van Westerholt` | 1
+| | | `Bour` | 1
+| | | `Brezcker` | 2
+| | | `Brother of Pierre Raymond de Vurigne` | 1
+| | | `Buoch` | 2
+| | | `Bür` | 2
+| | | `Camillo Cataneo` | 1
+| | | `Camillo Trevisan` | 1
+| | | `Captain Seton` | 1
+| | | `Cardinal François de la Rochefoucauld` | 5
+| | | `Carlo Alajambe` | 11
+| | | `Carlo Fresia` | 1
+| | | `Carlos Coloma` | 3
+| | | `Caspar Bonorand` | 2
+| | | `Caspar van Vosbergen` | 7
+| | | `Catharina Belgica of Nassau` | 3
+| | | `Catherine Vasa of Sweden` | 1
+| | | `Cesare Calandrini` | 1
+| | | `Charles Bonaventure de Longueval, Count of Bucqouy` | 19
+| | | `Charles Brulart, prieur de Léon` | 6
+| | | `Charles Emmanuel I, Duke of Savoy` | 210
+| | | `Charles I Louis and Elisabeth of the Palatinate` | 1
+| | | `Charles I of England` | 10
+| | | `Charles III Gonzaga` | 4
+| | | `Charles Morgan` | 1
+| | | `Charles Sylvius` | 1
+| | | `Charles V, Holy Roman Emperor` | 6
+| | | `Charles de Bourbon, Count of Soissons` | 1
+| | | `Charles de Crugy` | 6
+| | | `Charles de Latfeur` | 13
+| | | `Charles de Lorraine, Duke of Guise` | 16
+| | | `Charles de Luynes` | 10
+| | | `Charles de L’Aubespine` | 2
+| | | `Charles de Valois` | 1
+| | | `Charles des Loges, Lord of Loges` | 1
+| | | `Charles of Baden-Durlach (N)` | 4
+| | | `Charles of Harrach` | 5
+| | | `Charles van der Noot` | 1
+| | | `Charles, Duke of Mayenne` | 1
+| | | `Charlotte Brabantia of Nassau` | 3
+| | | `Christian I, Prince of Anhalt-Bernburg` | 12
+| | | `Christian IV of Denmark` | 123
+| | | `Christian the Younger Duke of Brunswick-Lüneburg` | 213
+| | | `Christiane of Erbach` | 1
+| | | `Christine of France` | 1
+| | | `Christoffel Biesman` | 8
+| | | `Christopher of Ostfriesland` | 1
+| | | `Claes Jorissen` | 2
+| | | `Clas Classen Houtijn` | 5
+| | | `Claude Mangot` | 2
+| | | `Claude de Lannoy, count of Motterie` | 2
+| | | `Claude de Rye de la Palud, Baron of Valançon` | 1
+| | | `Claudio Martino` | 14
+| | | `Concino Concini, first Marquis d’Ancre` | 12
+| | | `Conoschi` | 2
+| | | `Cornelis Anthonisz. Van der Wolf` | 1
+| | | `Cornelis Janssen Leyen` | 2
+| | | `Cornelis Mauritsz. Hobbe` | 1
+| | | `Cornelis Pauw` | 4
+| | | `Cornelis Pieterssen van Enkhuizen` | 1
+| | | `Cornelis Pijnacker` | 9
+| | | `Cornelis van Aerssen` | 9
+| | | `Cornelis van der Mijle` | 68
+| | | `Cornelius` | 1
+| | | `Cornelius Haga` | 25
+| | | `Cornelius Wixdorp` | 5
+| | | `Cornelius de Vimes` | 3
+| | | `Cortland` | 6
+| | | `Cosimo II de’ Medici` | 3
+| | | `Cosme Bardi` | 3
+| | | `Count Camillo Taffino` | 2
+| | | `Count Frederick of Solms-Rödelheim` | 1
+| | | `Count Heinrich Matthias of Thurn-Valsassina` | 7
+| | | `Cuing` | 1
+| | | `Curtlan` | 1
+| | | `César de Vendôme` | 2
+| | | `Daniel Heinsius` | 2
+| | | `Daniel Nijs` | 6
+| | | `Daniel de Hertaing, Lord of Marquette` | 6
+| | | `Daniel de Tournon` | 37
+| | | `David Coornwinder` | 1
+| | | `David de Marlot` | 1
+| | | `De Bausse (Beausse)` | 148
+| | | `Diederik Sticke` | 1
+| | | `Diederik van Dorth` | 31
+| | | `Dimmer` | 13
+| | | `Dirck Bas` | 6
+| | | `Dirck Hartog` | 9
+| | | `Dodo zu Innhausen und Kyphausen` | 5
+| | | `Dognola` | 1
+| | | `Domizio Caracciolo Marchese della Bella` | 1
+| | | `Don Cosimo Orsini` | 2
+| | | `Don Diego Sarmiento de Acuña, Count of Gondomar` | 5
+| | | `Don Francisco de Medina Carranza` | 7
+| | | `Don Garcia de Pareja` | 1
+| | | `Don Gio di Veglia` | 1
+| | | `Don Giovanni de Medici` | 30
+| | | `Don Pietro di Lieva` | 1
+| | | `Don Íñigo de Borja y Velasco` | 22
+| | | `Dr. Johan van Goch` | 2
+| | | `Dudley Carleton, Viscount of Dorchester` | 312
+| | | `Dudley Diggs and Maurice Abbot` | 1
+| | | `Durante de’ Prigni` | 10
+| | | `Edward Cecil, first Viscount Wimbledon` | 3
+| | | `Elias Trip` | 18
+| | | `Elis` | 8
+| | | `Elisabeth Charlotte of the Palatinate, Electress of Brandenburg` | 1
+| | | `Elisabeth of Hesse-Kassel` | 1
+| | | `Elisabeth of the Palatinate` | 1
+| | | `Elisabeth van Kerckhove` | 3
+| | | `Elizabeth Stuart` | 21
+| | | `Elizabeth of Denmark, Duchess of Brunswick` | 3
+| | | `Emanuele Solaro di Moretta` | 1
+| | | `Emilia of Nassau` | 4
+| | | `Emmanuel Philibert of Savoy` | 5
+| | | `Emmanuel Philibert, Duke of Savoy` | 1
+| | | `Enno III of Ostfriesland` | 26
+| | | `Enzidel` | 4
+| | | `Ercole Sacco` | 2
+| | | `Erick Dimmer` | 1
+| | | `Erkenraed Berck` | 1
+| | | `Ernestine Yolande de Ligne` | 4
+| | | `Ernst Casimir I, Count of Nassau-Dietz` | 44
+| | | `Ernst von Isenburg-Grenzau` | 1
+| | | `Erycius Puteanus` | 2
+| | | `Felice Birago` | 1
+| | | `Ferdinand II, Holy Roman Emperor` | 61
+| | | `Ferdinand of Bavaria` | 45
+| | | `Ferdinand van Boisschot` | 2
+| | | `Ferdinand, archduke of Austria` | 52
+| | | `Ferdinando I de Medici, Grand Duke of Tuscany` | 1
+| | | `Ferdinando II de Medici` | 3
+| | | `Ferdinando Scoto` | 1
+| | | `Filargirio Zuffato` | 2
+| | | `Filippo Vernatti` | 2
+| | | `Filippo ’Il Bello’` | 3
+| | | `Filips I van Merode van Pietersheim` | 5
+| | | `Filips van Thienen` | 2
+| | | `Five deputees from Grisons (Graubunden)` | 2
+| | | `Florent of Berlaymont` | 4
+| | | `Floris Hathard van den Boetzelaer` | 1
+| | | `Floris II van Pallandt` | 2
+| | | `Francesco Aquila` | 1
+| | | `Francesco Biscaino` | 4
+| | | `Francesco Erizzo` | 1
+| | | `Francesco Ferro` | 1
+| | | `Francesco Giustiniani` | 3
+| | | `Francesco Giustiniano` | 1
+| | | `Francesco Guevara` | 1
+| | | `Francesco Quaratesi` | 1
+| | | `Francesco and Andrea Rodriges d’Andrade` | 1
+| | | `Francis II, count of Vaudémont` | 4
+| | | `Francis Julius of Saxe-Lauenburg` | 1
+| | | `Francis Nethersole` | 12
+| | | `Francisco Gómez de Sandoval y Rojas` | 3
+| | | `Franciscus Gomarus` | 2
+| | | `Franz Christoph, Count of Khevenhüller` | 1
+| | | `François Boels` | 1
+| | | `François Doubleth` | 2
+| | | `François V de la Rochefoucauld` | 4
+| | | `François de Bassompierre` | 3
+| | | `François de Bonne, Duke of Lesdiguiéres` | 20
+| | | `François de L’Aubespine, marquis de Hauterive` | 6
+| | | `François de Raimond, baron de Modène` | 1
+| | | `François d’Esparbès de Lussan d’Aubeterre` | 1
+| | | `François van Aerssen` | 36
+| | | `Frederick Henry, Electoral Prince of Palatinate` | 3
+| | | `Frederick IV of Fürstenberg-Heiligenberg` | 1
+| | | `Frederick IV of Palatinate` | 1
+| | | `Frederick Ulrich, Duke of Brunswick-Lüneburg` | 3
+| | | `Frederick V of the Palatinate` | 255
+| | | `Frederick-Henry of Nassau` | 148
+| | | `Frederik Quadt van Soppenbroek` | 5
+| | | `Frederik van Vervou` | 9
+| | | `Friedrich Kettler, Duke of Courland and Semigallia` | 1
+| | | `Friedrich von Tiefenbach` | 1
+| | | `Gabriël Vernatti` | 1
+| | | `Galeazzo Gualdo Priorato` | 3
+| | | `Galeotto di Belgioioso` | 1
+| | | `Gaspar III de Coligny` | 11
+| | | `Gaspar de Borja y Velasco` | 1
+| | | `Gaspard Dauvet, Sieur des Marets` | 10
+| | | `Gasparo Quinghetti` | 16
+| | | `Gasparo Spinelli` | 2
+| | | `Gauri` | 1
+| | | `Georg Friedrich von Hohenlohe Neuenstein Weikersheim` | 8
+| | | `Georg II of Fleckenstein Dagstuhl` | 6
+| | | `Georg IV, Count of Ortenburg` | 11
+| | | `Georg Ludwig von Schwarzenberg` | 1
+| | | `Georg Ludwig, Count of Levenstein` | 2
+| | | `George Drugeth Homonnai` | 1
+| | | `George Frederick of Baden-Durlach` | 39
+| | | `George Villiers, Nst Marquess of Buckingham` | 26
+| | | `George William of Brandenburg` | 42
+| | | `Gerard Maes, Johan Prott, Christoffel Pflug` | 1
+| | | `Gerbrant Claessen Voocht` | 2
+| | | `Gerolamo Morosini` | 9
+| | | `Gerrit Hetssen` | 2
+| | | `Gerrit Janssen van Enkhuizen` | 1
+| | | `Gerson Bucerus` | 1
+| | | `Giacomo Vendramino` | 1
+| | | `Giacomo and Pietro Gabri` | 10
+| | | `Gideon van den Boetzelaer, heer van Langerak` | 123
+| | | `Gijsbert van den Boetzelaer` | 1
+| | | `Gilles Guinot, Lord of Saint-Simon and Beaupreau` | 1
+| | | `Gillis Ouwercx` | 5
+| | | `Gillis van Ledenberg` | 12
+| | | `Gio Giacomo Piscina` | 1
+| | | `Gio. Battista Vitali` | 1
+| | | `Gio. Bovier` | 7
+| | | `Giovanni Alberti di Altoviti` | 1
+| | | `Giovanni Amburgh` | 1
+| | | `Giovanni Battista Lionello` | 7
+| | | `Giovanni Battista Moronato` | 8
+| | | `Giovanni Battista Padavino` | 10
+| | | `Giovanni Battista Pasini` | 355
+| | | `Giovanni Cesati` | 6
+| | | `Giovanni Falconieri` | 7
+| | | `Giovanni Francesco Baldassini` | 1
+| | | `Giovanni Francesco Biondi` | 1
+| | | `Giovanni Giacomo di Belgioioso da Barbiano` | 21
+| | | `Giovanni Pesaro` | 66
+| | | `Giovanni and Samuel Forterie` | 2
+| | | `Giovanni di Vala` | 1
+| | | `Girolamo Lando` | 65
+| | | `Girolamo Priuli` | 2
+| | | `Girolamo Soranzo` | 2
+| | | `Girolamo Trevisan` | 85
+| | | `Girolamo da Novara` | 1
+| | | `Gisbert de Coninck` | 3
+| | | `Giuliano de’ Medici` | 1
+| | | `Giulio Cesare Pozzo` | 4
+| | | `Giuseppe Bonfadio` | 6
+| | | `Giuseppe Gamurrini` | 27
+| | | `Giuseppe Tirabosco` | 3
+| | | `Giustiniano Barbadico` | 1
+| | | `Godefroy Boot` | 6
+| | | `Goleme` | 13
+| | | `Gonzalo Fernández de Córdoba y Cardona-Anglesola` | 29
+| | | `Goossen Schaffer` | 13
+| | | `Gottfried Heinrich zu Pappenheim` | 1
+| | | `Grazioso Bontempelli dal Calice` | 19
+| | | `Gregorio Barbarigo` | 3
+| | | `Guglielmo (Willem) Dopengyser` | 1
+| | | `Guiblet de Montou` | 70
+| | | `Guido Bentivoglio` | 2
+| | | `Guillaume Bartolotti` | 8
+| | | `Guillaume III de Melun` | 1
+| | | `Guillermo Verdugo` | 5
+| | | `Gustavus Adolphus` | 37
+| | | `Gómez Súarez de Figueroa, Nrd Duke of Feria` | 4
+| | | `Haan` | 1
+| | | `Hans Meinhard von Schönberg` | 4
+| | | `Hans of Jan Coster` | 3
+| | | `Hastings` | 1
+| | | `Hedwig of Denmark` | 1
+| | | `Heinrich Dieter or Georg Wolf of Johann Otto von Schönberg` | 1
+| | | `Heinrich Ludwig von Hatzfeld` | 2
+| | | `Hendrick Danielsz Slatius` | 10
+| | | `Hendrick Sticke` | 12
+| | | `Hendrik Adriaenssen van Edam` | 2
+| | | `Hendrik Coumans` | 1
+| | | `Hendrik Wilemsen` | 2
+| | | `Hendrik van Bilderbeeck Jr.` | 1
+| | | `Hendrik van Brienen ’d’Altste’, Heer van Sinderen` | 2
+| | | `Hendrik van Luytsen` | 1
+| | | `Hendrik van den Bergh` | 77
+| | | `Henri Anne de Melun` | 1
+| | | `Henri Duval of Dampier` | 1
+| | | `Henri I, Duke of Nemours` | 5
+| | | `Henri II de Bourbon, Prince of Condé` | 17
+| | | `Henri II d’Orléans-Longueville` | 7
+| | | `Henri de La Tour d’Auvergne, Duke of Bouillon` | 14
+| | | `Henri de La Trémoille` | 1
+| | | `Henri de Mayenne` | 4
+| | | `Henrico Verembus` | 2
+| | | `Henrico van Dich` | 1
+| | | `Henry Balan` | 1
+| | | `Henry II` | 2
+| | | `Henry II, Duke of Lorraine` | 8
+| | | `Henry IV of France` | 16
+| | | `Henry Woodhouse` | 1
+| | | `Henry Wotton` | 25
+| | | `Henry Wriotheseley, Third Earl of Southampton` | 1
+| | | `Henry de Nogaret de La Valette` | 3
+| | | `Henry de Vere, NNth Earl of Oxford` | 2
+| | | `Hercules Salis` | 3
+| | | `Herman Frenck` | 14
+| | | `Herman Otto I van Limburg Stirum` | 11
+| | | `Hillebrand Gerbrandtsz. Quast` | 27
+| | | `Hippolyte de Béthune` | 3
+| | | `Honoré d’Albert, Nst Duke of Chaulnes` | 1
+| | | `Horace Vere` | 40
+| | | `Howard` | 2
+| | | `Hudson?` | 1
+| | | `Hugo Grotius` | 17
+| | | `Héctor Pignatelli y Colonna, Duque de Monteleón` | 1
+| | | `Infanta Catherine Michaela of Spain` | 1
+| | | `Isaac Jansz.` | 11
+| | | `Isaac Lardin von Limbach` | 12
+| | | `Isaac Luz` | 18
+| | | `Isaac Massa` | 2
+| | | `Isabella Clara Eugenia of Austria` | 64
+| | | `Iwan Bornaloffsky` | 3
+| | | `Jacob` | 1
+| | | `Jacob Isbrantsz.` | 1
+| | | `Jacob Jacobsen van Haarlem` | 1
+| | | `Jacob Jansz. van Hoorn` | 1
+| | | `Jacob Pin` | 1
+| | | `Jacob Simonsz. Magnus, heer van Groot-Ammers en Bergambacht Mellisant` | 74
+| | | `Jacob Storm` | 22
+| | | `Jacob Ulfeldt` | 5
+| | | `Jacob van Dijck` | 4
+| | | `Jacob van Wassenaar van Duvenvoorde, Heer van Obdam` | 1
+| | | `Jacobus Arminius` | 8
+| | | `Jacques Niquet` | 14
+| | | `Jacques Pierre` | 1
+| | | `Jacques de Rocques, baron de Montesquieu` | 1
+| | | `Jacques l’Hermite` | 1
+| | | `Jakob Fugger` | 1
+| | | `Jakob Ludwig of Fürstenberg Heiligenberg or Wilhelm of Fürstenberg-Heiligenberg` | 1
+| | | `James I, king of England and Scotland` | 337
+| | | `Jan Cavallier` | 2
+| | | `Jan Franssen Bruyningh` | 2
+| | | `Jan Gerritsz. Dyck` | 1
+| | | `Jan Haga` | 3
+| | | `Jan III van Beieren, Lord of Schagen` | 1
+| | | `Jan Jansz Theyls` | 1
+| | | `Jan Jansz van der Linden` | 8
+| | | `Jan Manricque` | 1
+| | | `Jan Pieterssen Haen van Enkhuizen` | 2
+| | | `Jan Stoop` | 1
+| | | `Jan de Wael` | 1
+| | | `Jan van Loo` | 1
+| | | `Jan van Woerden` | 5
+| | | `Jan-Baptist Roelants` | 3
+| | | `Jean Antoine de Saint-Simon, Count of Courtomer` | 4
+| | | `Jean Benoist` | 7
+| | | `Jean Dolbier` | 116
+| | | `Jean Louis de Nogaret de La Valette, Duke of Épernon` | 3
+| | | `Jean de Lormes` | 51
+| | | `Jean de Péricard` | 14
+| | | `Jean de Thumery, Sieur de Boissise` | 77
+| | | `Jean de Tulles` | 3
+| | | `Jel` | 1
+| | | `Joachim Carpson` | 1
+| | | `Joachim Ernst of Brandenburg-Ansbach` | 44
+| | | `Joachim Ernst, Duke of Schleswig-Holstein-Sonderburg-Plön` | 1
+| | | `Joan Wolfert van Brederode` | 3
+| | | `Joast Harinton` | 2
+| | | `Jobst von Landsberg zu Erwitte` | 1
+| | | `Johan Berck` | 30
+| | | `Johan Diecksen Dunmeyer` | 1
+| | | `Johan Ernest, count of Nassau-Siegen` | 64
+| | | `Johan Paulsen van Wiandt` | 1
+| | | `Johan Peter van der Put` | 1
+| | | `Johan Rutgers Wijandsz.` | 1
+| | | `Johan Seghers van Yeghem, Lord of Wassenhoven` | 153
+| | | `Johan Sticke` | 5
+| | | `Johan de Jongere (John VIII) of Nassau Siegen` | 45
+| | | `Johan de Raet` | 2
+| | | `Johan de Roy` | 13
+| | | `Johan van Achtoven` | 14
+| | | `Johan van Dorth, Lord of Horst and Pesch` | 6
+| | | `Johan van Groesbek` | 10
+| | | `Johan van Mario genaamd Amesmeyer` | 13
+| | | `Johan van Oldenbarnevelt` | 355
+| | | `Johan van der Mijle` | 1
+| | | `Johan van der Veecken` | 1
+| | | `Johann Albrecht I, Count of Solms-Braunfels` | 34
+| | | `Johann Baptist Lenck` | 10
+| | | `Johann Ernst I, Duke of Saxe-Weimar` | 23
+| | | `Johann Georg Brandenburg-Jägerndorf` | 17
+| | | `Johann Georg II Fuchs von Dornheim (b. NNNN) and Philipp Adolf von Ehrenberg (b. NNNN)` | 1
+| | | `Johann Georg Melander, Count of Holzappel` | 1
+| | | `Johann Georg, Elector of Saxony` | 100
+| | | `Johann Jacob Bronckhorst Batenburg` | 54
+| | | `Johann Kaspar von Stadion` | 1
+| | | `Johann Philipp Duke of Saxe-Altenburg` | 1
+| | | `Johann Schweikhard von Kronberg` | 13
+| | | `Johann Tserclaes, Count of Tilly` | 155
+| | | `Johannes Bartolomeus Avontroot` | 1
+| | | `John Casimir, Count of Levenstein` | 11
+| | | `John Digby, baron` | 45
+| | | `John Frederick of Holstein-Gottorp` | 13
+| | | `John Frederick, Duke of Württemburg` | 28
+| | | `John II, Count Palatine of Zweibrücken` | 3
+| | | `John II, Duke of Schleswig-Holstein-Sonderburg` | 2
+| | | `John Sigismund, Elector of Brandenburg` | 11
+| | | `John VII, count of Nassau-Siegen` | 5
+| | | `John Vere` | 8
+| | | `John of Hesse-Braubach` | 2
+| | | `Joost Adriaasz.` | 1
+| | | `Juan Fernández de Velasco y Tovar, Nth Duke of Frias` | 1
+| | | `Juan de Mendoza, Marquis of Inojosa` | 1
+| | | `Juan de Tassis y Acuña, Nst Count of Villamedania` | 1
+| | | `Juliane of Nassau-Siegen` | 2
+| | | `Julius Frederick, Duke of Württemberg-Weiltingen` | 2
+| | | `Julius Henry of Saxe-Lauenburg` | 1
+| | | `Justinus of Nassau` | 1
+| | | `Karel Huyn van Amstenrade` | 100
+| | | `Karel Huyn van Amstenrade de Jonge` | 1
+| | | `Karel II van Egmont` | 8
+| | | `Klaas Hendriksz.` | 5
+| | | `Kröll` | 4
+| | | `Ladislaus IV of Poland` | 1
+| | | `Lambert Adam` | 16
+| | | `Lambert Charles` | 6
+| | | `Lambert Hendriksz` | 6
+| | | `Lambert from Hamburg` | 5
+| | | `Lamingher` | 1
+| | | `Lamoral, Prince of Ligne` | 3
+| | | `Lasienes Yalvert` | 1
+| | | `Lassel` | 1
+| | | `Laurens de Sille` | 1
+| | | `Lelio Brancaccio` | 1
+| | | `Leonardo Moro` | 2
+| | | `Leonardo Westerbeeck` | 8
+| | | `Lobello da Lecce` | 1
+| | | `Lodewijk de Geer` | 5
+| | | `Lodewijk van Brederode` | 1
+| | | `Lorenzo Venier` | 9
+| | | `Lothar von Metternich` | 4
+| | | `Louis Philip, Count Palatine of Simmern-Kaiserslautern` | 11
+| | | `Louis XIII` | 179
+| | | `Louis de Bourbon, Count of Soissons` | 1
+| | | `Louis de la Kethulle, heer van Ri(j)hoven` | 4
+| | | `Louis of Nassau, Lord of De Lek and Beverweerd` | 1
+| | | `Louis van den Tympel` | 5
+| | | `Louise Hollandine of the Palatinate` | 1
+| | | `Louise Juliana of Nassau` | 3
+| | | `Louise de Coligny` | 34
+| | | `Luca Cairo` | 5
+| | | `Luca Jansz. van Uffelen` | 5
+| | | `Luca Tron` | 3
+| | | `Lucio Morra` | 1
+| | | `Lucio Sanseverino` | 2
+| | | `Lucy Russel, Countess of Bedford` | 2
+| | | `Ludovico Ludovisi` | 3
+| | | `Ludovico Orelli` | 2
+| | | `Ludwig Camerarius` | 12
+| | | `Ludwig Friedrich von Württemberg-Mömpelgard; Friedrich Achilles von Württemberg and Magnus von Württemberg` | 1
+| | | `Ludwig V, Landgrave of Hessen-Darmstadt` | 20
+| | | `Luis Dávila y Monroy` | 1
+| | | `Luis Fasciardo` | 1
+| | | `Luis di Velasco y Velasco` | 22
+| | | `Magdalena Sibylle of Prussia` | 1
+| | | `Mandoch` | 1
+| | | `Manuel António of Portugal` | 2
+| | | `Manuel, Prince of Portugal` | 14
+| | | `Marcantonio Morosini` | 11
+| | | `Marcelis Bacx` | 1
+| | | `Marcello del Giudice` | 1
+| | | `Marco Antonio de Dominis` | 4
+| | | `Marco Dardani` | 76
+| | | `Marco Moens` | 10
+| | | `Margaretha van Mechelen` | 1
+| | | `Maria Anna of Bavaria` | 1
+| | | `Maria Anna of Spain` | 2
+| | | `Maria Buysen, Hubert Berck, Cornelia and Antonina vande Corput` | 1
+| | | `Maria de’ Medici` | 9
+| | | `Maria van Nassau` | 2
+| | | `Maria van Utrecht` | 1
+| | | `Mathias Hovius` | 1
+| | | `Matthias of Austria` | 2
+| | | `Maurice` | 1
+| | | `Maurice of Hesse-Kassel` | 14
+| | | `Maurice of Nassau` | 469
+| | | `Maurice of Savoy` | 2
+| | | `Maurice of the Palatinate` | 1
+| | | `Maurice, Elector of Saxony` | 1
+| | | `Maximilian I, Elector of Bavaria` | 76
+| | | `Maximilian III, Archduke of Austria` | 3
+| | | `Maximilian of Lichtenstein` | 4
+| | | `Melchior Noirot` | 35
+| | | `Melchior Quinghetti` | 2
+| | | `Melchior van Kerckhove` | 82
+| | | `Melchior van den Kerckhove` | 1
+| | | `Michael I, Russian tsar` | 2
+| | | `Michael Ophovius` | 12
+| | | `Michiel Pagani` | 6
+| | | `Miller` | 65
+| | | `Miotto` | 1
+| | | `Moderante Scarmelli` | 2
+| | | `Monbon` | 7
+| | | `Monseigneur Dupoint` | 1
+| | | `Mustafa I` | 1
+| | | `Nazary Tsistoy` | 1
+| | | `Niccolò Contarini` | 1
+| | | `Niccolò Gualdo Priorato` | 2
+| | | `Nicholas Hamel` | 7
+| | | `Nicholas Lanier` | 7
+| | | `Nicolaas van den Bouchorst, heer van Wimmenum` | 20
+| | | `Nicolas Brûlart, Marquis de Sillery` | 2
+| | | `Nicolo Navi da Veglia` | 8
+| | | `Nicolo Perez of Nicholaas Peters` | 16
+| | | `Nicolò Donato` | 1
+| | | `Nicolò Molina` | 1
+| | | `Noël de Caron` | 17
+| | | `Odet de la Noue, sieur de Téligny` | 12
+| | | `Oratio Ludovisio, duca di Fiano` | 2
+| | | `Orazio Baglioni` | 1
+| | | `Osman II` | 1
+| | | `Ottavio Bardoni` | 4
+| | | `Ottavio Bon` | 10
+| | | `Paigle` | 1
+| | | `Paolo Baglioni` | 4
+| | | `Paolo Sarpi` | 4
+| | | `Pasqualin Zupponi` | 4
+| | | `Paulus Grenu` | 6
+| | | `Pedro Henriquez de Acevedo, Count of Fuentes` | 2
+| | | `Pedro Téllez-Girón, Duke of Osuna` | 57
+| | | `Pedro de Toledo Osorio` | 7
+| | | `Peter Cockburn` | 10
+| | | `Peter Easton` | 3
+| | | `Peter Ernst, Count of Mansfeld` | 1047
+| | | `Peter Melander, Count of Holzappel` | 29
+| | | `Peter Ruttens` | 3
+| | | `Petrus Peckius de Jonge` | 42
+| | | `Philibert du Bois` | 2
+| | | `Philip Burlamacchi` | 4
+| | | `Philip Calandrini` | 41
+| | | `Philip III` | 211
+| | | `Philip III of Hessen-Butzbach and Friederich I Hessen-Homburg` | 1
+| | | `Philip IV` | 116
+| | | `Philip Otto zu Salm` | 2
+| | | `Philip Sigismund of Brunswick-Wolfenbüttel` | 1
+| | | `Philip William, Prince of Orange` | 13
+| | | `Philip van Steelandt, drost van Buren` | 6
+| | | `Philipp Christoph von Sötern` | 6
+| | | `Philipp Julius and Bogislaw XIV, Dukes of Pomerania` | 2
+| | | `Philippe Emmanuel de Gondi` | 1
+| | | `Philippe de Béthune` | 3
+| | | `Philippe-Charles, Nrd Count of Arenberg` | 3
+| | | `Philips de Levin, heer van Famars` | 8
+| | | `Philips de Soete de Laecke van Haultain` | 1
+| | | `Phillipus Rovenius` | 1
+| | | `Pier Antonio Mariano` | 1
+| | | `Pierre Brûlart` | 1
+| | | `Pierre Garnier, seigneur de Montereau` | 68
+| | | `Pierre Jeannin` | 2
+| | | `Pierre Raymond de Vurigne, Lord of Rocquelaure` | 65
+| | | `Pierre de Beringhen` | 1
+| | | `Pierre de Brulart, viscount de Puisieux` | 3
+| | | `Pierre de Metony` | 43
+| | | `Pieter Adriaensz. Pack` | 26
+| | | `Pieter Claesz.` | 7
+| | | `Pieter Cornelisz. van Brederode` | 10
+| | | `Pieter Corsz. Hort` | 8
+| | | `Pieter Dircxz. Dol` | 3
+| | | `Pieter Evertsz. Hulst` | 7
+| | | `Pieter Jacobsen Uncreit` | 1
+| | | `Pieter Jansz.` | 18
+| | | `Pieter van Leeuwen` | 1
+| | | `Pieter van Woerden` | 1
+| | | `Pietro Albanese` | 1
+| | | `Pietro Barbarigo` | 3
+| | | `Pietro Contarini` | 3
+| | | `Pietro Falghero` | 50
+| | | `Pietro Gabri` | 4
+| | | `Pietro Gritti` | 4
+| | | `Pietro Hellemans` | 1
+| | | `Pietro Vico` | 1
+| | | `Pompeo Giustiniani` | 11
+| | | `Pope Paul V` | 57
+| | | `Prince Rupert of the Rhine` | 1
+| | | `Proost` | 3
+| | | `Quin` | 1
+| | | `Ranuccio I Farnese, Duke of Parma` | 5
+| | | `Reinhard Tytfort` | 2
+| | | `Reinier Zeno` | 2
+| | | `Reinier van Oldenbarnevelt` | 12
+| | | `Reinout van Brederode` | 2
+| | | `Reinout van Brederode, Lord of Cloetingen` | 6
+| | | `René Courtin de Villiers` | 1
+| | | `René de Châlon` | 1
+| | | `Renée de Jarcourt` | 1
+| | | `Reynier Pauw` | 28
+| | | `Richard Preston, Lord Dingwall` | 2
+| | | `Richard Weston` | 24
+| | | `Robert Devereux` | 4
+| | | `Rochus Pieterssen Doesen` | 2
+| | | `Roelof Simonsz.` | 3
+| | | `Rogier de Villemur, seigneur and baron de Pailles` | 6
+| | | `Rombout Hogebeerts` | 10
+| | | `Rosburch` | 3
+| | | `Rudolf Christian of East Frisia` | 2
+| | | `Rudolf II, Holy Roman Emperor` | 1
+| | | `Rudolf Salis` | 2
+| | | `Rudolf von Tiefenbach` | 3
+| | | `Rutger Wessel van den Boetzelaar` | 1
+| | | `Samson Denball, alias Ali Reis` | 4
+| | | `Samuel Ebert` | 1
+| | | `Samuel Heale` | 2
+| | | `Samuel Pallache` | 1
+| | | `Samuel Weiss` | 20
+| | | `Scipione Borghese` | 2
+| | | `Sforza Palavicino` | 1
+| | | `Sigismund III Vasa` | 27
+| | | `Simon Digby` | 1
+| | | `Simon Isbrantssen` | 2
+| | | `Simon Jacobsen Coethart` | 2
+| | | `Simon VI, count of Lippe` | 1
+| | | `Simon VII, count of Lippe-Detmold` | 1
+| | | `Simon de Danser` | 1
+| | | `Simone Contarini` | 2
+| | | `Sir Andrew Gray` | 10
+| | | `Sir Arthur Aston` | 2
+| | | `Sir Charles Morgan` | 2
+| | | `Sir Francis Drake` | 1
+| | | `Sir Francis Vere` | 4
+| | | `Sir Gregore Calvert` | 1
+| | | `Sir James Hay, Viscount of Doncaster` | 6
+| | | `Sir John Bennet` | 1
+| | | `Sir John Burroughs` | 1
+| | | `Sir John Ogle` | 1
+| | | `Sir Robert Anstruther` | 2
+| | | `Sir Robert Henderson of Tunnegask` | 3
+| | | `Sir Thomas Gates` | 2
+| | | `Soderini` | 1
+| | | `Sophia Hedwig of Brunswick-Lüneburg` | 1
+| | | `Sophie Hedwig of Brunswick-Wolfenbüttel` | 1
+| | | `Stephan Gans, vrijheer van Potlitz` | 1
+| | | `Steven Koop` | 3
+| | | `Strozzi` | 4
+| | | `Stucchio` | 1
+| | | `Syrius de Béthune` | 1
+| | | `Taco van Burmania` | 1
+| | | `Thijman van Volbergen` | 2
+| | | `Thomas Douwes` | 2
+| | | `Thomas Heale` | 1
+| | | `Thomas Studder` | 63
+| | | `Thomas Villers` | 2
+| | | `Thomas van Staeckenbroeck` | 1
+| | | `Théophile Brachet de la Milletière` | 1
+| | | `Timoléon d’Espinay, marquis de Saint Luc` | 1
+| | | `Tomaso Contarini` | 4
+| | | `Tomaso and Giacomo van Castre` | 12
+| | | `Torquato Conti` | 3
+| | | `Ulrik of Denmark` | 7
+| | | `Van der vech` | 1
+| | | `Vandil` | 3
+| | | `Veit Ferenz` | 17
+| | | `Ventura Cavalli` | 1
+| | | `Victor Amadeus I, Duke of Savoy` | 9
+| | | `Vincenzo Gussoni` | 15
+| | | `Vincenzo I Gonzaga` | 1
+| | | `Vincenzo Teyens` | 1
+| | | `Vingarda` | 1
+| | | `Volrad von Plessen` | 5
+| | | `Walburch van Marnix van St Aldegonde and Johanna van Oldenbarnevelt` | 1
+| | | `Walraven van Gent` | 33
+| | | `Wandernoot` | 1
+| | | `Wenzel Wilhem von Ruppa` | 9
+| | | `Werechem` | 1
+| | | `Wijbrant Jansz Schram` | 1
+| | | `Wilhelm Kettler, Duke of Courland` | 1
+| | | `Wilhem von Goldstein` | 30
+| | | `Willem Adriaan van Horne` | 21
+| | | `Willem Boreel` | 1
+| | | `Willem Pieterssen` | 4
+| | | `Willem de Soete de Laecke van Haultain` | 3
+| | | `Willem van Oldenbarnevelt` | 8
+| | | `Willem van der Put` | 18
+| | | `William Brog` | 4
+| | | `William Cecil, NNth Baron Ros` | 4
+| | | `William Louis, Count of Nassau-Dillenburg` | 5
+| | | `William Smith` | 1
+| | | `William Trumbull` | 8
+| | | `William of Orange` | 1
+| | | `William, Count of Nassau-Siegen` | 37
+| | | `Wolff Ebert von Horneck` | 9
+| | | `Wolfgang Wilhelm, Count Palatinate of Neuberg` | 14
+| | | `Zorzi Giustiniani` | 9
+| | | `a mayor in Angola` | 1
+| | | `Álvaro de Bazán y Benavides,, Nnd Marquxess of Santa Cruz` | 1
+| | | `Éléonore de Bourbon-Condé` | 4
+| | | `Étienne Gueffier` | 22
+| | | `Étienne de Franchemont` | 1
+| | | `Íñigo Vélez de Guevara, Nth Count of Oñate` | 16
+|   | [key](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#key) | `X` | 12200
 |   | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#ref) | `bio.xml#cs` | 750
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) |   |  | 1500
 |   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 12000

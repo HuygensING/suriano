@@ -6,7 +6,7 @@
 @conversionCode=tf
 @conversionMethod=provided
 @converter=Dirk Roorda (Text-Fabric)
-@dateWritten=2025-11-19T08:09:51+00:00Z
+@dateWritten=2025-12-04T06:14:56+00:00Z
 @description=whether a slot has been inserted in an empty element
 @descriptionTf=Critical edition
 @institute1=HuC (Humanities Cluster) Amsterdam
@@ -21,7 +21,7 @@
 @version=2.0.0e
 @writtenBy=Text-Fabric
 @writtenBy=Text-Fabric
-@dateWritten=2025-11-19T08:32:15+00:00Z
+@dateWritten=2025-12-04T06:17:45+00:00Z
 
 15	1
 179	1

@@ -1,10 +1,21 @@
 import re
-from processhelpers import TEIDIR, TEIBAREDIR
+from processhelpers import (
+    TEIDIR,
+    TEIBAREDIR,
+    NERCORRECT_YML,
+    NERCORRECT_REPORT_YML,
+    detag,
+    retag,
+)
 
+from tf.core.generic import deepdict
 from tf.core.helpers import console
-from tf.core.files import initTree
+from tf.core.files import initTree, readYaml, writeYaml
 
 WHITE_RE = re.compile(r"""\s+""", re.S)
+
+ENT_ELEM_START = """<name type="person" key="{eid}" fullName="{ename}">"""
+ENT_ELEM_END = "</name>"
 
 
 class BakeEntTei:
@@ -33,9 +44,10 @@ class BakeEntTei:
 
             for ent in ents:
                 eslots = E.oslots.s(ent)
-                tokens = tuple((s, F.str.v(s)) for s in E.oslots.s(ent))
+                firstSlot = eslots[0]
+                lastSlot = eslots[-1]
                 fl = L.u(eslots[0], otype="file")[0]
-                lookupEnts.setdefault(fl, []).append((fl, tokens, entity))
+                lookupEnts.setdefault(fl, []).append((firstSlot, lastSlot, entity))
 
         nEnts = sum(len(v) for v in lookupEnts.values())
         console(f"{len(lookupEntities)} entities with {nEnts} occurrences")
@@ -43,6 +55,9 @@ class BakeEntTei:
     def bakeCorpus(self, filza=None, file=None):
         F = self.F
         L = self.L
+
+        corrections = readYaml(asFile=NERCORRECT_YML)
+
         lookupEnts = self.lookupEnts
 
         fzNodes = F.otype.s("folder")
@@ -91,13 +106,15 @@ class BakeEntTei:
             flNodes = L.d(fz, otype="file")
             fzGood = True
 
+            limit = 5
+            i = 0
+
             for fl in flNodes:
                 flRep = F.file.v(fl)
 
                 if file is not None and file != flRep:
                     continue
 
-                console(f"\t\tletter {flRep}")
                 letterFile = f"{filzaDir}/{flRep}.xml"
                 newLetterFile = f"{newFilzaDir}/{flRep}.xml"
 
@@ -106,62 +123,191 @@ class BakeEntTei:
 
                 allTokens = tuple((s, F.str.v(s)) for s in L.d(fl, otype="t"))
                 ents = lookupEnts.get(fl, [])
+                nEnts = len(ents)
+                cr = "" if i < limit < 5 else "\r"
+                console(
+                    f"{cr}\t\tletter {flRep} ({nEnts:>3} entities)", newline=i < limit
+                )
+                i += 1
 
-                (flGood, newXmlText) = self.bakeFile(fzRep, flRep, xmlText, allTokens, ents)
+                (flGood, newXmlText) = self.bakeFile(
+                    fzRep, flRep, xmlText, allTokens, ents
+                )
 
-                if not flGood:
+                if flGood:
+                    letterCorrections = corrections.get(fzRep, {}).get(flRep, None)
+
+                    if letterCorrections is not None:
+                        (corrGood, nApplied, nFailed, kinds, newXmlText) = self.correct(
+                            newXmlText, letterCorrections
+                        )
+                        rep = f"{nApplied} applied, {nFailed} failed"
+                        kindRep = ", ".join(kinds)
+                        console(
+                            f"{cr}\t\tletter {flRep} ({nEnts:>3} entities: "
+                            f"correction(s): {kindRep} {rep}",
+                            error=not corrGood,
+                        )
+                        if not corrGood:
+                            fzGood = False
+                else:
+                    console(
+                        f"{cr}\t\tletter {flRep} ({nEnts:>3} entities: matching failed",
+                        error=True,
+                    )
                     fzGood = False
 
                 with open(newLetterFile, "w") as fh:
                     fh.write(newXmlText)
 
-            status = "all good" if fzGood else "some files failed to match"
-            console(f"\tfilza {fzRep}, {status}")
+            if i > limit:
+                console("\n")
+
+            status = "all good" if fzGood else "some files failed"
+            console(f"\tfilza {fzRep}, {status}", error=not fzGood)
 
             if not fzGood:
                 corpusGood = False
 
-        status = "all good" if corpusGood else "some files failed to match"
-        console(f"Done, {status}")
+        writeYaml(deepdict(corrections, ordinary=True), asFile=NERCORRECT_REPORT_YML)
+        status = "all good" if corpusGood else "some files failed"
+        console(f"Done, {status}", error=not corpusGood)
 
     def bakeFile(self, filza, file, xmlText, allTokens, ents):
-        nXml = len(xmlText)
-        nTokens = len(allTokens)
-        nEnts = len(ents)
-        console(f"\t\t\txml: {nXml:>5} chars; {nTokens:>5} tokens; {nEnts:>3} ents")
+        if len(ents) == 0:
+            return (True, xmlText)
+
+        lookupEntities = self.lookupEntities
+
+        (tags, plainText) = detag(xmlText)
+
+        nXml = len(plainText)
 
         xPos = 0
         good = True
+        mapping = {}
 
-        for i, s in allTokens:
-            if s is None or s == "\u200b" or s.strip() == "":
+        for s, t in allTokens:
+            if t is None or t == "\u200b" or t.strip() == "":
                 continue
 
-            found = xmlText.find(s, xPos, -1)
-            nS = len(s)
+            nT = len(t)
+
+            whole = False
+            offset = xPos
+
+            while not whole:
+                found = plainText.find(t, offset, -1)
+
+                if found == -1:
+                    break
+
+                endPos = found + nT
+                endPosMin = endPos - 1
+                whole = (
+                    endPos >= nXml
+                    or not plainText[endPosMin].isalnum()
+                    or not plainText[endPos].isalnum()
+                )
+
+                if not whole:
+                    offset = found + 1
 
             if found == -1:
                 foundRep = "XX"
             else:
                 foundRep = "OK"
                 xPos = found
+                mapping[(s, -1)] = xPos
 
             preStart = max((0, xPos - 30))
-            pre = WHITE_RE.sub(" ", xmlText[preStart:xPos]).strip()
+            pre = WHITE_RE.sub(" ", plainText[preStart:xPos]).strip()
 
             if found != -1:
-                xPos += nS
+                xPos += nT
+                mapping[(s, 1)] = xPos
 
             postEnd = min((xPos + 30, nXml))
-            post = WHITE_RE.sub(" ", xmlText[xPos:postEnd]).strip()
-
-            # console(f"{i:>5} {foundRep} {pre}┣{s}┫{post}")
+            post = WHITE_RE.sub(" ", plainText[xPos:postEnd]).strip()
 
             if found == -1:
                 good = False
-                console(f"{i:>5} {foundRep} {pre}┣{s}┫{post}")
+                console(f"slot {s:>6} {foundRep} {pre}┣{t}┫{post}")
                 break
 
-        newXmlText = xmlText
+        if not good:
+            return (good, xmlText)
+
+        entSlots = set()
+
+        for firstSlot, lastSlot, entity in ents:
+            entSlots.add((firstSlot, -1, entity))
+            entSlots.add((lastSlot, 1, entity))
+
+        entSlots = sorted(entSlots)
+
+        newPlainText = ""
+        xPos = 0
+
+        for eSlot, pos, entity in entSlots:
+            nextPos = mapping[(eSlot, pos)]
+            newPlainText += plainText[xPos:nextPos]
+            xPos = nextPos
+
+            if pos == -1:
+                eInfo = lookupEntities[entity]
+                (eid, ename) = eInfo
+                newPlainText += ENT_ELEM_START.format(eid=eid, ename=ename)
+            else:
+                newPlainText += ENT_ELEM_END
+
+        newPlainText += plainText[xPos:]
+        newXmlText = retag(tags, newPlainText)
 
         return (good, newXmlText)
+
+    def correct(self, xmlText, corrections):
+        textLines = xmlText.split("\n")
+        nLines = len(textLines)
+
+        good = True
+        kinds = []
+        nApplied = 0
+        nFailed = 0
+
+        for correction in corrections:
+            kind = correction.kind
+            tweaks = correction.tweaks
+
+            kinds.append(kind)
+            corrGood = True
+
+            for tweak in tweaks:
+                line = tweak.line
+                orig = tweak.orig
+                new = tweak.new
+
+                if line > nLines:
+                    tweak.status = "failed"
+                    tweak.reason = f"line {line} > {nLines} (lines in file)"
+                    corrGood = False
+
+                text = textLines[line - 1]
+
+                n = text.count(orig)
+
+                if n == 1:
+                    textLines[line - 1] = text.replace(orig, new)
+                    tweak.status = "applied"
+                else:
+                    tweak.status = "failed"
+                    tweak.reason = f"occurs {n} times"
+                    corrGood = False
+
+            if corrGood:
+                nApplied += 1
+            else:
+                good = False
+                nFailed += 1
+
+        return (good, nApplied, nFailed, kinds, "\n".join(textLines))

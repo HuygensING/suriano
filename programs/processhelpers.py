@@ -59,6 +59,8 @@ NO_VARIANT_TXT = f"{_METADIR}/novariant.txt"
 NERIN_FILE = f"{_METADIR}/{NER_NAME}.xlsx"
 NEROUT_FILE = f"{_REPODIR}/ner/specs/{NER_NAME}.xlsx"
 NEROUT_FILE_M = f"{_REPODIR}/ner/specs/{NER_NAME}-merged.xlsx"
+NERCORRECT_YML = f"{_ENTITYDIR}/adaptations.yml"
+NERCORRECT_REPORT_YML = f"{_ENTITYDIR}/adaptations-report.yml"
 
 REPORT_SCANDIR = f"{_REPORTDIR}/scanreports"
 REPORT_CFGERRORS = f"{REPORT_SCANDIR}/cfgerrors.txt"
@@ -709,6 +711,45 @@ def setStage(stage):
 
     print(f"Stage {stage}: working with sheet {nerName}")
     return nerName, nerOutFile
+
+
+TAGESC = "█"
+TAG_RE = re.compile(
+    r"""
+    (?:
+        <!--
+        .*?
+        -->
+    )
+    |
+    (?:
+        <[?/]?
+        [a-z][a-z0-9_]*
+        [^>]*?
+        >
+    )
+    """,
+    re.S | re.X | re.I,
+)
+
+
+def makeTagRepl(tags):
+    def tagRepl(match):
+        tags.append(match.group(0))
+        return TAGESC
+
+    return tagRepl
+
+
+def detag(xmlText):
+    tags = []
+    tagRepl = makeTagRepl(tags)
+    return (tags, TAG_RE.sub(tagRepl, xmlText))
+
+
+def retag(tags, xmlText):
+    chunks = xmlText.split(TAGESC)
+    return "".join("".join(x) for x in zip(chunks, tags + [""]))
 
 
 @dataclass(init=True, order=True, frozen=True)
