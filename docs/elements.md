@@ -117,7 +117,7 @@ Table of contents
 | | | `visible` | 2
 | | | `with` | 2
 | | | `words` | 1
-| [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `person` | 12200
+| [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `person` | 12198
 | [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `02_071r` | 1
 | | | `02_071v` | 1
 | | | `02_072r` | 1
@@ -9225,13 +9225,13 @@ Table of contents
 | | | `Belcq` | 2
 | | | `Belfort` | 2
 | | | `Benetto Ferro` | 2
-| | | `Benjamin Aubery du Maurier` | 141
+| | | `Benjamin Aubery du Maurier` | 140
 | | | `Benjamin Buwinckhausen (or Bouwinghausen) von Wallmerode` | 14
 | | | `Bentio` | 1
 | | | `Bernard Scheffalitzky` | 6
 | | | `Bernardino Rota` | 163
 | | | `Bertholda van Swieten van Tserclaes` | 27
-| | | `Bethlen Gábor` | 93
+| | | `Bethlen Gábor` | 92
 | | | `Bisuti` | 1
 | | | `Bora Bisnar` | 1
 | | | `Borchard van Westerholt` | 1
@@ -9914,7 +9914,7 @@ Table of contents
 | | | `Étienne Gueffier` | 22
 | | | `Étienne de Franchemont` | 1
 | | | `Íñigo Vélez de Guevara, Nth Count of Oñate` | 16
-|   | [key](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#key) | `X` | 12200
+|   | [key](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#key) | `X` | 12198
 |   | [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#ref) | `bio.xml#cs` | 750
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) |   |  | 1500
 |   | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 12000

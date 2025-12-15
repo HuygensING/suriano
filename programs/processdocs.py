@@ -386,7 +386,12 @@ class TeiFromDocx(PageInfo):
 
             if match:
                 (num, ext) = match.group(1, 2)
-                filza = f"{num.lstrip("0").lower():>02}{ext.lower()}"
+                ext = ext.lower()
+
+                if ext == "bis":
+                    ext = "b"
+
+                filza = f"{num.lstrip("0").lower():>02}{ext}"
             else:
                 console(f"Row {r + 1}: No filza in shelfmark: {shelfmark}", error=True)
                 filza = "??"
