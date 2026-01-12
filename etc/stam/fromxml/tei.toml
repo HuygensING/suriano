@@ -1,0 +1,791 @@
+#default whitespace handling (Collapse or Preserve)
+whitespace = "Collapse"
+
+# we use the JSON-LD context as STAM set here so
+# we can export to web annotations and automatically
+# use everything available in that contex.
+default_set = "https://ns.huc.knaw.nl/text.jsonld"
+
+id_strip_suffix = [ ".txt" ]
+
+[namespaces]
+#this defines the XML namespace prefixes you can use in this configuration
+xml = "http://www.w3.org/XML/1998/namespace"
+xsd =  "http://www.w3.org/2001/XMLSchema"
+xlink = "http://www.w3.org/1999/xlink"
+tei = "http://www.tei-c.org/ns/1.0"
+rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+
+[context]
+#this defines context variables that will be available to the templating engine globally (can also be injected at run-time via --context-file)
+
+
+#Define some base elements that we reuse later for actual elements (prevents unnecessary repetition)
+[baseelements.common]
+id = "{% if ?.@xml:id %}{{resource}}/{{ @xml:id }}{% endif %}"
+
+    #We don't use 'rdf:type' to encode the original type because
+    #we add our own type later and our other systems are not designed for multiple types
+    #[[baseelements.common.annotationdata]]
+    #    set = "{{ namespaces.rdf }}"
+    #    key = "type"
+    #    #value is a full URI for w3anno/RDF export
+    #    value = "{{ namespaces.tei }}#{{ localname }}"
+
+    # instead, we use our own elementName property to retain this
+    # information. It should be used sparingly though (use rdf:type instead).
+    [[baseelements.common.annotationdata]]
+        set = "{{ default_set }}"
+        key = "elementName"
+        value = "{{ localname }}"
+
+    #We don't use 'rdf:type' to encode the original type because
+    #we add our own type later and our other systems are not designed for multiple types
+    #[[baseelements.common.annotationdata]]
+    #$set = "{{ namespaces.rdf }}"
+    #key = "type"
+    #value is a full URI for w3anno/RDF export
+    #value = "tei:{{ localname | capitalize }}"
+
+    [[baseelements.common.annotationdata]]
+    #extra ID attribute in XML namespace
+    set = "{{ namespaces.xml }}"
+    key = "id"
+    value = "{% if ?.@xml:id %}{{ @xml:id }}{% endif %}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    #extra ID attribute in XML namespace
+    set = "{{ namespaces.xml }}"
+    key = "id"
+    value = "{% if ?.@xml:id %}{{ @xml:id }}{% endif %}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "{{ default_set }}"
+    key = "language"
+    value = "{{ @xml:lang }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "{{ namespaces.xml }}"
+    key = "space"
+    value = "{{ @xml:space }}"
+    skip_if_missing = true
+
+    # a few common TEI attributes we can map directly to our text vocabulary vocabulary:
+
+    [[baseelements.common.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "n"
+    value = "{{ @n }}"
+    skip_if_missing = true
+
+    # the rest here are common TEI attributes from att.global: https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.global.html
+
+    [[baseelements.common.annotationdata]]
+    #tei:type attribute
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "type"
+    value = "{{ @type }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "facs"
+    value = "{{ @facs }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "style"
+    value = "{{ @rend }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "rend"
+    value = "{{ @rend }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "style"
+    value = "{{ @style }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "rendition"
+    value = "{{ @rendition }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "change"
+    value = "{{ @change }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "ana"
+    value = "{{ @ana }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "corresp"
+    value = "{{ @corresp }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "synch"
+    value = "{{ @synch }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "sameAs"
+    value = "{{ @sameAs }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "copyOf"
+    value = "{{ @copyOf }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "next"
+    value = "{{ @next }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "prev"
+    value = "{{ @prev }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "exclude"
+    value = "{{ @exclude }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "select"
+    value = "{{ @select }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "cert"
+    value = "{{ @cert }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "resp"
+    value = "{{ @resp }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "ref"
+    value = "{{ @ref }}"
+    skip_if_missing = true
+
+    [[baseelements.common.annotatetextsuffix]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Whitespace"
+
+    [[baseelements.common.annotatetextsuffix]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "isTextSuffix"
+    value = true
+
+#Define some base elements
+[baseelements.withtext]
+text = true
+annotation = "TextSelector"
+
+# elements are matched in reverse-order, so put more generic statements before more specific ones
+
+[[elements]]
+base = [ "common", "withtext" ] #base element to derive from (multiple allowed)
+path = "*" # default matching for elements, will match all
+
+# Elements with only a path are passed through without mapping text or annotation
+[[elements]]
+path = "//tei:TEI"
+
+# This is the tier0 for this corpus, it covers the whole text and we assign metadata here
+[[elements]]
+path = "/tei:TEI"
+annotation = "TextSelector"
+id = "urn:mace:huc.knaw.nl:suriano:{{ resource }}:annotation"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{% if ?.$./tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:objectDesc/@form %}{{ default_set }}/Letter{% else %}{{ default_set }}/Document{% endif %}"
+
+    [[elements.annotationdata]]
+    key = "id"
+    value = "urn:mace:huc.knaw.nl:suriano:{{ resource }}"
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "identifier"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "n"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:altIdentifier/tei:idno }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "titles"
+
+        [elements.annotationdata.value]
+        en = """{{ $./tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang="en"] }}"""
+        nl = """{{ $./tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang="nl"] }}"""
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "author"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "editor"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:editor }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "datePublished"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "dateSent"
+    value = """{{ $./tei:teiHeader/tei:profileDesc/tei:correspDesc/tei:correspAction[@type="sent"]/tei:date/@when }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "dateSentNotBefore"
+    value = """{{ $./tei:teiHeader/tei:profileDesc/tei:correspDesc/tei:correspAction[@type="sent"]/tei:date/@notBefore }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "dateSentNotAfter"
+    value = """{{ $./tei:teiHeader/tei:profileDesc/tei:correspDesc/tei:correspAction[@type="sent"]/tei:date/@notAfter }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "publisher"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:publisher }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "location"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:pubPlace }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "license"
+    value = """{{ $./tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:licence }}"""
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "manifest"
+    value = "{{ context.nginx_url }}/files/suriano/manifests/letters/ii{{ $./tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:altIdentifier/tei:idno }}.json"
+    skip_if_missing = true
+    allow_empty_value = false
+
+[[elements]]
+path = "//tei:teiHeader"
+
+# By default, ignore any tags in the head (unless they're mentioned specifically later in the config)
+[[elements]]
+path = "//tei:teiHeader/*"
+stop = true
+
+[[elements]]
+path = "//tei:teiHeader/tei:fileDesc"
+
+[[elements]]
+path = "//tei:teiHeader/tei:fileDesc/*"
+stop = true
+
+[[elements]]
+path = "//tei:teiHeader/tei:fileDesc/tei:titleStmt"
+
+[[elements]]
+path = "//tei:teiHeader/tei:fileDesc/tei:publicationStmt"
+
+[[elements]]
+#facsimile is skipped
+path = "//tei:facsimile"
+stop = true
+
+
+
+[[elements]]
+base = [ "common" ]
+path = "//tei:fileDesc/tei:publicationStmt/tei:availability/tei:license"
+annotation = "ResourceSelector"
+stop = true
+
+    [[elements.annotationdata]]
+    key = "license"
+    value = "{{$. | trim}}"
+    skip_if_missing = true
+
+
+[[elements]]
+base = [ "common" ]
+path = "//tei:fileDesc/tei:publicationStmt/tei:date"
+annotation = "ResourceSelector"
+stop = true
+
+    [[elements.annotationdata]]
+    key = "date"
+    value = "{{$.}}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common" ]
+path = "//tei:fileDesc/tei:publicationStmt/tei:ptr"
+annotation = "ResourceSelector"
+
+    [[elements.annotationdata]]
+    key = "target"
+    value = "{{$.}}"
+    skip_if_missing = true
+
+[[elements]]
+path = "//tei:fileDesc/tei:publicationStmt/*"
+stop = true
+
+# Determine how various structural elements are converted to text
+[[elements]]
+base = [ "common" ]
+path = "//tei:br"
+textsuffix = "\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Linebreak"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:body"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:div"
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Division"
+
+    [[elements.annotationdata]]
+    #not a real TEI attribute but used in the eDITem project
+    key = "divRole"
+    value = "{{ @divRole }}"
+    skip_if_missing = true
+
+[[elements]]
+#note, paragraphs are more like lines in this corpus!!!
+base = [ "common", "withtext" ]
+path = "//tei:p"
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Paragraph"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:head"
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Head"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:figure/tei:head"
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Caption"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:lg"
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    #not a real TEI attribute but used in the eDITem project, TODO: map to something proper
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "rhyme"
+    value = "{{ @rhyme }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:l"
+textsuffix = "\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Line"
+
+[[elements]]
+base = [ "common" ]
+path = """//tei:space[@dim="vertical"]"""
+include_textsuffix = true
+annotate_textsuffix = []
+textsuffix = "\n\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Whitespace"
+
+    [[elements.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "unit"
+    value = "{{ @unit }}"
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "lines"
+    value = "{{ @lines }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:list"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/List"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:item"
+textprefix = "* "
+textsuffix = "\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListItem"
+
+    [[elements.annotatetextprefix]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListMarker"
+
+    [[elements.annotatetextprefix]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "isTextPrefix"
+    value = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:item/tei:item"
+textprefix = "  * "
+textsuffix = "\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListItem"
+
+    [[elements.annotatetextprefix]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListMarker"
+
+    [[elements.annotatetextprefix]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "isTextPrefix"
+    value = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:item/tei:item/tei:item"
+textprefix = "    * "
+textsuffix = "\n"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListItem"
+
+    [[elements.annotatetextprefix]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/ListMarker"
+
+    [[elements.annotatetextprefix]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "isTextPrefix"
+    value = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:note"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Note"
+
+    [[elements.annotationdata]]
+    set = "{{ default_set }}"
+    key = "subtype"
+    value = "{{ $../@type }}"
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "{{ default_set }}"
+    key = "language"
+    value = "{{ $../@xml:lang }}"
+    skip_if_missing = true
+
+    [[elements.annotatetextprefix]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/NoteMarker"
+
+    [[elements.annotatetextprefix]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "isTextPrefix"
+    value = true
+
+[[elements]]
+base = [ "common" ]
+path = "//tei:pb"
+annotation = "TextSelectorBetweenMarkers"
+text = true
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Page"
+
+    [[elements.annotationdata]]
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "f"
+    value = "{{ @f }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common" ]
+path = """//tei:milestone[@unit="page"]"""
+#note: milestone with unit folio is ignored in this entire conversion
+annotation = "TextSelectorBetweenMarkers"
+text = true
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Page"
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "n"
+    value = "{{ @facs }}"
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "sourceUrl"
+    value = "{{ @source }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common" ]
+path = "//tei:lb"
+annotation = "TextSelectorBetweenMarkers"
+text = true
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Line"
+
+[[elements]]
+#does not really have text (zero-span element)
+base = [ "common", "withtext" ]
+path = "//tei:ptr"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Reference"
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "url"
+    value = "{{ @target }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:ref"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Reference"
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "url"
+    value = "{{ @target }}"
+    skip_if_missing = true
+
+    [[elements.annotationdata]]
+    set = "https://ns.huc.knaw.nl/textannodata.jsonld"
+    key = "subtype"
+    value = """{% if @target | starts_with: "ii" %}LetterReference{% else if @target | starts_with: "biblio" %}BibReference{% endif %}"""
+    allow_empty_value = false
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = """//tei:space[@dim="vertical" and @unit="lines"]"""
+textsuffix = """\n{% for x in @quantity | int | as_range %}\n{% endfor %}"""
+include_textsuffix = true
+annotate_textsuffix = []
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Whitespace"
+
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:hi"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Highlight"
+  
+    #rend -> style is handled in 'common' base element already
+
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:emph"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Highlight"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:quote"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Quote"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:body"
+
+    [[elements.annotationdata]]
+    #not a real TEI attribute but used in the eDITem project, TODO: map to something proper
+    set = "http://www.tei-c.org/ns/1.0#"
+    key = "divRole"
+    value = "{{ @divRole }}"
+    skip_if_missing = true
+
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:figure"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Picture"
+
+    [[elements.annotationdata]]
+    #associate the url directly with the figure, this does assume only one graphic per figure which is a simplification
+    #TODO: this not not the actual URL to a picture (as it should be), but a base url for IIIF, vocabulary needs to be adapted!
+    key = "url"
+    value = "{{ context.iiifbaseurl }}{{ $tei:graphic/@url }}{{ context.iiifextension }}"
+    skip_if_missing = true
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:opener"
+textsuffix = "\n\n"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:closer"
+textsuffix = "\n\n"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:salute"
+textsuffix = "\n"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:rs"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Entity"
+
+[[elements]]
+base = [ "common", "withtext" ]
+path = "//tei:label"
+
+    [[elements.annotationdata]]
+    set = "{{ namespaces.rdf }}"
+    key = "type"
+    value = "{{ default_set }}/Label"

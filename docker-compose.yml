@@ -1,0 +1,169 @@
+networks:
+  suriano_network:
+    driver: bridge
+
+services:
+  textsurf_suriano:
+    container_name: textsurf_suriano
+    image: registry.diginfra.net/tt/textsurf:${TEXTSURF_VERSION}
+    environment:
+      UNLOADTIME: ${TEXTSURF_UNLOADTIME}
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    expose:
+      - ${TEXTSURF_PORT}
+    ports:
+      - "${TEXTSURF_PORT}:8080"
+    restart: unless-stopped
+    volumes:
+      - ./data/textsurf:/data
+
+  annorepo_suriano:
+    container_name: annorepo_suriano
+    depends_on:
+      - mongodb_suriano
+    environment:
+      AR_EXTERNAL_BASE_URL: ${ANNOREPO_URL}
+      AR_MONGODB_URL: mongodb://${MONGODB_USER}:${MONGODB_PASSWORD}@${MONGODB_HOST}:${MONGODB_PORT}/
+      AR_DB_NAME: annorepo
+      AR_PAGE_SIZE: 100
+      AR_WITH_AUTHENTICATION: yes
+      AR_ROOT_API_KEY: ${ANNOREPO_ROOT_API_KEY}
+      AR_RANGE_SELECTOR_TYPE: TextPositionSelector
+    expose:
+      - ${ANNOREPO_PORT}
+    ports:
+      - "${ANNOREPO_PORT}:8080"
+      - "${ANNOREPO_CTL_PORT}:8081"
+    healthcheck:
+      test: "curl -fail http://localhost:${ANNOREPO_CTL_PORT}/healthcheck"
+      interval: 1s
+      retries: 20
+      start_period: 1s
+      timeout: 1s
+    #image: ghcr.io/knaw-huc/annorepo-server:${ANNOREPO_VERSION}
+    image: registry.diginfra.net/tt/annorepo:0.8.1-beta-2
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    restart: unless-stopped
+    tty: true
+
+  broccoli_suriano:
+    container_name: broccoli_suriano
+    depends_on:
+      annorepo_suriano:
+        condition: service_healthy
+      elastic_suriano:
+        condition: service_started
+    environment:
+      BASEURL: ${BASE_URL}
+      PROJECT: ${PROJECT}
+      ELASTIC_HOST: ${ELASTIC_HOST}
+      ELASTIC_PORT: ${ELASTIC_PORT}
+      ANNOREPO_HOST: ${ANNOREPO_HOST}
+      ANNOREPO_PORT: ${ANNOREPO_PORT}
+      BR_EXTERNAL_URL: ${BASE_URL}:${BROCCOLI_PORT}
+      BR_EXTERNAL_BASE_URL: ${BASE_URL}:${BROCCOLI_PORT}
+    expose:
+      - ${BROCCOLI_PORT}
+    ports:
+      - "${BROCCOLI_PORT}:8080"
+    image: ghcr.io/knaw-huc/broccoli:${BROCCOLI_VERSION}
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    restart: unless-stopped
+    volumes:
+      - ./etc/broccoli/config.yml:/app/broccoli/config.yml:ro
+
+  elastic_suriano:
+    # see https://docs.rancherdesktop.io/how-to-guides/increasing-open-file-limit/
+    # needed to run the stack on macos under rancher desktop
+    container_name: elastic_suriano
+    environment:
+      elasticport: ${ELASTIC_PORT}
+      node.name: br01
+      cluster.initial_master_nodes: br01
+      cluster.name: elastic-cluster
+      bootstrap.memory_lock: ${ELASTIC_MEMORY_LOCK}
+      xpack.security.enabled: false
+      ES_JAVA_OPTS: "-Xms${ELASTIC_JAVA_MEM}m -Xmx${ELASTIC_JAVA_MEM}m"
+    expose:
+      - ${ELASTIC_PORT}
+    ports:
+      - "${ELASTIC_PORT}:${ELASTIC_PORT}"
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    restart: unless-stopped
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./data/elastic:/usr/share/elasticsearch/data
+
+  mongodb_suriano:
+    command: --quiet # suppress checkpoint logging (every minute)
+    container_name: mongodb_suriano
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGODB_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGODB_PASSWORD}
+    expose:
+      - ${MONGODB_PORT}
+    ports:
+      - "${MONGODB_PORT}:27017"
+    image: docker.io/mongo:${MONGODB_VERSION}
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    restart: unless-stopped
+    volumes:
+      - ./data/mongo:/data/db
+
+  cantaloupe_suriano:
+    container_name: cantaloupe_suriano
+    image: uclalibrary/cantaloupe:${CANTALOUPE_VERSION}
+    environment:
+      HEAP_PERCENTAGE: 50
+      CANTALOUPE_HTTP_ENABLED: "true"
+      CANTALOUPE_HTTPS_ENABLED: "false"
+      CANTALOUPE_BASE_URI: ${CANTALOUPE_URL}
+      CANTALOUPE_SLASH_SUBSTITUTE: "|"
+      CANTALOUPE_LOG_APPLICATION_LEVEL: info
+      CANTALOUPE_LOG_APPLICATION_CONSOLEAPPENDER_ENABLED: "true"
+      CANTALOUPE_LOG_ACCESS_CONSOLEAPPENDER_ENABLED: "true"
+    expose:
+      - ${CANTALOUPE_PORT}
+    ports:
+      - "${CANTALOUPE_PORT}:8182"
+    networks:
+      - suriano_network
+    volumes:
+      - ./data/scans:/imageroot/${PROJECT}
+      #TODO: log and cache is not persistent for now
+    restart: unless-stopped
+
+  nginx_suriano:
+    container_name: nginx_suriano
+    environment:
+      NGINX_LOCATION: ${NGINX_URL}
+    expose:
+      - ${NGINX_PORT}
+    image: nginx:${NGINX_VERSION}
+    networks:
+      - suriano_network
+    ports:
+      - "${NGINX_PORT}:80"
+    restart: unless-stopped
+    volumes:
+      - ./etc/nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./data/nginx:/etc/nginx/html:ro

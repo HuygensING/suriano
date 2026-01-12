@@ -1,0 +1,65 @@
+mapping: etc/indexer/mapping.json
+
+docs:
+  - type: "intro"
+    constraints:
+      - path: "body.type"
+        values: "Document"
+  - type: "letter"
+    constraints:
+      - path: "body.type"
+        values: "Letter"
+
+modules:
+  - artworks
+  - fields
+  - type
+  - date
+  - persons
+  - title
+  - views
+
+fields:
+  correspondent: "body.correspondent"
+  file: "body.n"
+  location: "body.location"
+  msId: "body.identifier"
+  sender: "body.sender"
+
+views:
+  - name: letterOriginal
+    constraints:
+      - path: "body.type"
+        values: [Division]
+      - path: "body.tei:type"
+        values: [original]
+  - name: letterTranslated
+    constraints:
+      - path: "body.type"
+        values: [Division]
+      - path: "body.tei:type"
+        values: [translation]
+  - name: introOriginal
+    constraints:
+      - path: "body.type"
+        values: [Division]
+      - path: "body.tei:type"
+        values: ["intro-nl"]
+  - name: introTranslated
+    constraints:
+      - path: "body.type"
+        values: [Division]
+      - path: "body.tei:type"
+        values: ["intro-en"]
+  - name: letterNotes
+    constraints:
+      - path: "body.type"
+        values: [Note]
+      - path: "body.subtype"
+        values: [notes, typednotes, langnotes]
+  - name: introNotes
+    constraints:
+      - path: "body.type"
+        values: [Note]
+      - path: "body.subtype"
+        values: ["intro-notes"]

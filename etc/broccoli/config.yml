@@ -1,0 +1,108 @@
+globalCache:
+  capacity: 1500
+
+jerseyClient:
+  timeout: 30s
+  connectionTimeout: 1m
+
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
+
+logging:
+  level: INFO
+  appenders:
+    - type: console
+      logFormat: "%-5p [%d{ISO8601,UTC}] %c: %m %kvp%n%dwREx"
+      target: stderr
+      discardingThreshold: 0
+  loggers:
+    nl.knaw.huc: INFO
+    org: WARN
+    org.glassfish: ERROR
+    com.jayway: ERROR
+
+externalBaseUrl: ${BR_EXTERNAL_BASE_URL}
+
+projects:
+  - name: ${PROJECT}
+    topTierBodyType: "Letter"
+    textType: NormalText
+    annoRepo:
+      containerName: ${PROJECT}
+      uri: http://${ANNOREPO_HOST}:${ANNOREPO_PORT}
+      cacheCapacity: 1000
+      cacheThreshold: 500
+    brinta:
+      uri: http://${ELASTIC_HOST}:${ELASTIC_PORT}
+      indices:
+        - name: ${PROJECT}
+          bodyTypes: ["Letter"]
+          fields:
+            - name: type
+              type: keyword
+            - name: date
+              type: date
+            - name: dateSortable
+              type: date
+            - name: persons
+            - name: location
+            - name: artworksNL
+            - name: artworksEN
+            - name: title
+              type: keyword
+            - name: subtitle
+              type: keyword
+            - name: author
+              type: keyword
+            - name: editor
+              type: keyword
+            - name: file
+              type: keyword
+            - name: msId
+              type: keyword
+            - name: correspondent
+              type: keyword
+            - name: titleNL
+              type: keyword
+            - name: titleEN
+              type: keyword
+            - name: letterOriginalText
+              type: text
+            - name: letterTranslatedText
+              type: text
+            - name: letterNotesText
+              type: text
+            - name: introOriginalText
+              type: text
+            - name: introTranslatedText
+              type: text
+            - name: introNotesText
+              type: text
+    views:
+      - name: text
+        anno:
+          - path: "body.type"
+            values: ["Division"]
+          - path: "body.tei:type"
+            values: [original, translation, "intro-nl", "intro-en"]
+        groupBy: "body.language"
+      - name: textNotes
+        anno:
+          - path: "body.type"
+            values: ["Dataset"]
+          - path: "body.tei:type"
+            values: [notes, langnotes, "intro-notes"]
+        groupBy: "body.language"
+        findWithin:
+          path: "body.type"
+          value: "Note"
+          groupBy: "body.n"
+      - name: typedNotes
+        anno:
+          - path: "body.type"
+            values: ["Dataset"]
+          - path: "body.tei:type"
+            values: [typednotes]
+        groupBy: "body.language"

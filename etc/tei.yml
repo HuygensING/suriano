@@ -1,0 +1,244 @@
+generic:
+  author: Suriano
+  title: Letters
+  language: nl
+  converter: Dirk Roorda (Text-Fabric)
+  sourceFormat: TEI
+  descriptionTf: Critical edition
+  institute1: HuC (Humanities Cluster) Amsterdam
+  institute2: Huygens Instituut Amsterdam
+  institute3: VGM (Van Gogh Museum) Amsterdam
+  contributors1: |-
+    Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
+  contributors2: |-
+    Leo Jansen, Peter Boot, Beatrice Nava, Mariken Teeuwen
+  contributors3: |-
+    "N.N."
+
+zoneBased: true
+
+models:
+  - editem-about
+  - editem-letter
+  - editem-artworklist
+  - editem-biolist
+  - editem-bibliolist
+templates:
+  - about
+  - letter
+  - biolist
+  - bibliolist
+  - artworklist
+adaptations:
+  - ji
+templateTrigger: "?editem@template"
+adaptationTrigger: "?editem@adaptation"
+prelim: false
+granularity: token
+procins: true
+parentEdges: true
+siblingEdges: false
+pageModel:
+  model: II
+  element: div
+  attributes:
+    type:
+    - original
+    - translation
+  pbAtTop: true
+  nodeType: page
+sectionModel: 
+  model: I
+  levels:
+  - folder
+  - file
+  - chunk
+  backMatter: apparatus
+  drillDownDivs: true
+
+extra:
+  msId:
+    meta:
+      description: >-
+        The manuscript identifier of a letter; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - idno
+      - msIdentifier
+      - msDesc
+      - sourceDesc
+    nodeType: letter
+  fileId:
+    meta:
+      description: >-
+        The identifier of a letter; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - idno
+      - altIdentifier:
+          type: jlb
+      - msIdentifier
+      - msDesc
+      - sourceDesc
+    nodeType: file
+  letterId:
+    meta:
+      description: >-
+        The identifier of a letter; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - idno
+      - altIdentifier:
+          type: jlb
+      - msIdentifier
+      - msDesc
+      - sourceDesc
+    nodeType: letter
+  institution:
+    meta:
+      description: >-
+        The place where a letter is preserved; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - institution
+      - msIdentifier
+      - msDesc
+      - sourceDesc
+    nodeType: letter
+  correspondent:
+    meta:
+      description: >-
+        The person that Mondriaan corresponded with; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - rs
+      - correspAction:
+          type: received
+      - correspDesc
+      - profileDesc
+    nodeType: letter
+  sender:
+    meta:
+      description: >-
+        The sender of the letter; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - rs
+      - correspAction:
+          type: sent
+      - correspDesc
+      - profileDesc
+    nodeType: letter
+  period:
+    meta:
+      description: >-
+        The date of the letter in YYYY-MM-DD; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date@when
+      - correspAction:
+          type: sent
+      - correspDesc
+      - profileDesc
+    nodeType: letter
+  periodLong:
+    meta:
+      description: >-
+        The date of the letter as description; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date
+      - correspAction:
+          type: sent
+      - correspDesc
+      - profileDesc
+    nodeType: letter
+  location:
+    meta:
+      description: >-
+        The place from where the letter is sent; «base»
+      valueType: str 
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - placeName
+      - correspAction:
+          type: sent
+      - correspDesc
+      - profileDesc
+    nodeType: letter
+  titleEn:
+    meta:
+      description: >-
+        The english title of the letter; «base»
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          lang: en
+      - titleStmt
+      - fileDesc
+    nodeType: letter
+  titleNl:
+    meta:
+      description: >-
+        The dutch title of the letter; «base»
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          lang: nl
+      - titleStmt
+      - fileDesc
+    nodeType: letter
+  personRef:
+    meta:
+      description: >-
+        Reference key to the details of a person; «base»
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - rs@ref:
+          type: person
+    nodeType: rs
+  artRef:
+    meta:
+      description: >-
+        Reference key to the details of an artwork; «base»
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - rs@ref:
+          type: artwork
+    nodeType: rs
+  inFigure:
+    meta:
+      description: >-
+        Whether this elements has a figure element as parent; «base»
+      valueType: int
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - head@1
+      - figure
+    nodeType: head

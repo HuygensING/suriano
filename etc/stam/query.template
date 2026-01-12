@@ -1,0 +1,8 @@
+view -F {format} --query "SELECT RESOURCE ?letter WHERE ID \"{resource_id}\";"
+    --query "@VALUETAG=2 SELECT OPTIONAL ANNOTATION ?name WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Entity\";"
+    --query "@VALUETAG=2 SELECT OPTIONAL ANNOTATION ?referentie WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Reference\"; DATA \"https://ns.huc.knaw.nl/textannodata.jsonld\" \"url\";"
+    --query "@ID SELECT OPTIONAL ANNOTATION ?note WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Note\";"
+    --query "@ID SELECT OPTIONAL ANNOTATION ?page WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Page\";"
+    --query "@HIDE @STYLE=italic SELECT OPTIONAL ANNOTATION ?italics WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Highlight\"; DATA \"https://ns.huc.knaw.nl/textannodata.jsonld\" \"style\" = \"italic\";"
+    --query "@HIDE @STYLE=bold SELECT OPTIONAL ANNOTATION ?italics WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Highlight\"; DATA \"https://ns.huc.knaw.nl/textannodata.jsonld\" \"style\" = \"bold\";"
+    --query "@HIDE @STYLE=super SELECT OPTIONAL ANNOTATION ?super WHERE RESOURCE ?letter; DATA \"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" \"type\" = \"https://ns.huc.knaw.nl/text.jsonld/Highlight\"; DATA \"https://ns.huc.knaw.nl/textannodata.jsonld\" \"style\" = \"super\";"

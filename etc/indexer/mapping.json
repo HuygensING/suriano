@@ -1,0 +1,124 @@
+{
+  "mappings": {
+    "properties": {
+      "artworksEN": {
+        "type": "keyword"
+      },
+      "artworksNL": {
+        "type": "keyword"
+      },
+      "correspondent": {
+        "type": "keyword"
+      },
+      "date": {
+        "type": "date_range",
+        "format": "yyyy-MM-dd||yyyy-MM||yyyy"
+      },
+      "dateSortable": {
+        "type": "date",
+        "format": "yyyy-MM-dd||yyyy-MM||yyyy"
+      },
+      "file": {
+        "type": "keyword"
+      },
+      "msId": {
+        "type": "keyword"
+      },
+      "location": {
+        "type": "keyword"
+      },
+      "persons": {
+        "type": "keyword"
+      },
+      "sender": {
+        "type": "keyword"
+      },
+      "titleEN": {
+        "type": "keyword"
+      },
+      "titleNL": {
+        "type": "keyword"
+      },
+      "type": {
+        "type": "keyword"
+      },
+      "letterNotesText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      },
+      "introNotesText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      },
+      "letterOriginalText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      },
+      "letterTranslatedText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      },
+      "introOriginalText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      },
+      "introTranslatedText": {
+        "type": "text",
+        "fields": {
+          "tokenCount": {
+            "type": "token_count",
+            "analyzer": "fulltext_analyzer"
+          }
+        },
+        "index_options": "offsets",
+        "analyzer": "fulltext_analyzer"
+      }
+    }
+  },
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "fulltext_analyzer": {
+          "filter": ["lowercase"],
+          "type": "custom",
+          "tokenizer": "standard"
+        }
+      }
+    }
+  }
+}

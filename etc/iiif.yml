@@ -1,0 +1,97 @@
+excludedFolders:
+  intro: true
+
+manifestLevel: file
+zoneBased: true
+
+constants:
+  - server: '[[baseUri]]'
+    iiifserver: '[[iiifBaseUri]]'
+    iiifPath: '[[title]]/'
+    iiifPathEsc: '[[title]]|'
+    context: 'http://iiif.io/api/presentation/3/context.json'
+    profile: 'http://iiif.io/api/image/3/level1.json'
+    rightsCC0: 'http://creativecommons.org/publicdomain/zero/1.0/'
+    providerId: 'https://www.vangoghmuseum.nl'
+    providerLabelEn: "Van Gogh Museum"
+    provHomepageId: 'https://www.vangoghmuseum.nl/en'
+    provHomepageLabel: 'Homepage of the Van Gogh Museum'
+    provLogoId: 'providerlogo.png'
+    provLogoHeight: 270
+    provLogoWidth: 288
+    ext: 'jpg'
+
+  - logoRoot: '«server»/files/«iiifPath»static/logo'
+    iiifRoot: '«iiifserver»/iiif/3/«iiifPathEsc»'
+    iiifParams: '/full/max/0/default'
+    manifestRoot: '«server»/files/«iiifPath»static/manifests/'
+
+  - manifestUrl: '«manifestRoot»{folder}/{file}.json'
+    canvasUrl: '«manifestRoot»{folder}/{file}.json/canvas/«iiifPath»pages/{page}'
+    pageUrl: '«iiifRoot»pages|{page}.«ext»«iiifParams».«ext»'
+
+templates:
+  # manifestLevel:
+  pageSequence:
+    "@context": «context»
+    manifestInventory: '«manifestUrl»'
+    type: Manifest
+    label:
+      en:
+      - 'Letters'
+    metadata:
+    - label:
+        en:
+        - Filename
+      value:
+        en:
+        - '{folder}/{file}.json'
+    summary:
+      en:
+      - 'Letters'
+    rights: «rightsCC0»
+    provider:
+    - id: '«providerId»'
+      type: Agent
+      label:
+      - en: '«providerLabelEn»'
+      homepage:
+        - id: '«provHomepageId»'
+          type: Text
+          label:
+          - en: '«provHomepageLabel»'
+          format: text/html
+      logo:
+        - id: '«logoRoot»/«provLogoId»'
+          type: Image
+          format: image/«ext»
+          height: '«provLogoHeight»'
+          width: '«provLogoWidth»'
+
+  # canvasLevel
+  pageItem:
+    id: '«canvasUrl»'
+    type: Canvas
+    label: 
+      en:
+      - '{page}'
+    height: '{height}'
+    width: '{width}'
+    items:
+    - id: '«canvasUrl»/annotationpage'
+      type: AnnotationPage
+      items:
+      - id: '«canvasUrl»/anno'
+        type: Annotation
+        motivation: painting
+        body:
+          id: '«pageUrl»'
+          type: Image
+          height: '{height}'
+          width: '{width}'
+          service:
+          - 'id': '«iiifRoot»pages|{page}.«ext»'
+            'type': ImageService3
+            profile: '«profile»'
+          format: image/«ext»
+        target: '«canvasUrl»'
