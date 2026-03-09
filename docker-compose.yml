@@ -167,3 +167,26 @@ services:
     volumes:
       - ./etc/nginx/conf.d:/etc/nginx/conf.d:ro
       - ./data/nginx:/etc/nginx/html:ro
+
+  textannoviz_suriano:
+    container_name: textannoviz_suriano
+    environment:
+      #internal port
+      tavport: 8080
+      BASE_URL: ${BASE_URL}
+      PROJECT: ${PROJECT}
+      BROCCOLI_URL: ${BROCCOLI_URL}
+    expose:
+      - ${TEXTANNOVIZ_PORT}
+    ports:
+      - "${TEXTANNOVIZ_PORT}:8080"
+    image: registry.diginfra.net/tt/textannoviz-suriano-frontend:${TEXTANNOVIZ_VERSION}
+    networks:
+      - suriano_network
+    extra_hosts:
+      - ${HOSTNAME}:host-gateway
+    restart: unless-stopped
+    volumes:
+      - ./etc/textannoviz/envs.sh:/docker-entrypoint.d/50-envs.sh
+      - ./etc/textannoviz/nginx/default.conf:/etc/nginx/templates/default.conf.template
+      - ./etc/textannoviz/config.json:/usr/share/nginx/html/config.json.template

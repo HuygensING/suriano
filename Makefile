@@ -28,7 +28,7 @@ intro_files := $(tei_dir)/about/Inleiding_introduction.xml $(tei_dir)/about/Vera
 tei_files := $(wildcard $(tei_dir)/letters/*.xml) $(tei_dir)/intro/intro.xml
 #tei_flattened contains the 'virtual' files where one layer of nesting is removed
 tei_flattened := $(subst letters/,,$(tei_files))
-tei_flattened := $(subst intro/,,$(tei_flattened))
+#tei_flattened := $(subst intro/,,$(tei_flattened))
 tei_flattened := $(subst about/,,$(tei_flattened))
 stam_files := $(tei_flattened:$(tei_dir)/%.xml=work/%.store.stam.json)
 webannotation_files := $(tei_flattened:$(tei_dir)/%.xml=work/%.webannotations.jsonl)
@@ -272,13 +272,6 @@ else
 	@echo "--- Services are not managed, not stopping them ---">&2
 	@rm .started || true
 endif
-
-architecture.svg: architecture.mmd
-	mmdc -i $< -o $@
-
-architecture.png: architecture.mmd
-	mmdc -w 3820 -i $< -o $@
-
 
 help:
 	@echo "Please use \`make <target>', where <target> is one of:"
